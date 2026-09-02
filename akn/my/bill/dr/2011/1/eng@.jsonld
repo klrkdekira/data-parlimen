@@ -1,0 +1,1382 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-1-2011",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Veterans Bill 2011"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title and commencement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ESTABLISHMENT AND FUNCTIONS OF THE NATIONAL VETERANS COUNCIL National Veterans Council"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_12"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "REGISTRATION OF VETERANS Registrar"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_10__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Registrar may, in relation to any application made under section 9, require the applicant to provide such additional document or information within the time as may be specified by the Registrar."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the applicant fails to provide the additional document or information required by the Registrar under subsection (1) within the specified time or any extended time as may be specified by the Registrar, the application is deemed to have been withdrawn and shall not be proceeded with by the Registrar, but without prejudice to a fresh application being made by the applicant. Registration or refusal to register"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_11__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_11__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_11__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "After considering an application under section 9 and any additional document or information provided under section 10, the Registrar may approve or refuse the application."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the application is approved, the Registrar shall register the applicant by entering the applicant’s particulars in the register of veterans referred to in section 8."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_11__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the application is refused, the applicant may appeal to the Minister whose decision shall be final."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_11__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), and sections 9 and 10, any person who immediately before the coming into operation of this Act is registered as a veteran with the Jabatan Arah Rekod dan Pencen Markas Angkatan Tentera Malaysia shall, on the coming into operation of this Act, be deemed to be a veteran registered under this Act. Issuance of Veteran Card"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_12__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_12__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Registrar shall issue to a person who is registered as a veteran under section 11 a Veteran Card."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Veteran Card issued under subsection (1) shall be conclusive evidence for all purposes that the person has been duly registered as a veteran under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_12__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person to whom a Kad Bekas Tentera has been issued by the Jabatan Arah Rekod dan Pencen Markas Angkatan Tentera Malaysia immediately before the coming into operation of this Act and deemed to be a veteran under subsection 11(4) shall be issued a Veteran Card under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General of the Malaysian Armed Forces Veterans Affairs Department shall be the Registrar. Register of veterans"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_8__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Registrar shall keep and maintain or cause to be kept and maintained a register of veterans in such manner and form as may be prescribed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any register of veterans kept and maintained by the Ministry of Defence and the Department immediately before the coming into operation of this Act shall, on the coming into operation of this Act, be deemed to be registers kept and maintained under subsection (1) and shall be deemed to form part of such register of veterans. Application for registration"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_9__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application for registration as a veteran shall be made in writing to the Registrar."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every application under subsection (1) shall be accompanied by such document or information as may be prescribed. Power of Registrar to require applicant to provide additional document or information"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_3__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A body to be known as the National Veterans Council shall be established for the purpose of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_3__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_3__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_3__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_3__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_3__subsec_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council shall consist of the following members:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_3__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Minister who shall be the Chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_3__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Secretary General of the Ministry of Defence who shall be the Deputy Chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_3__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director General of the Malaysian Armed Forces Veterans Affairs Department who shall be the Secretary;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_3__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Assistant Chief of Staff (Personnel Services) of the Malaysian Armed Forces Headquarters; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_3__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "not more than five persons who have the experience, knowledge or expertise in matters relating to veterans’ affairs to be appointed by the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Council appointed under paragraph (2)(e) shall, unless he sooner resigns or vacates his office or his appointment is sooner revoked, hold office for a term not exceeding two years and is eligible for reappointment for a term not exceeding two consecutive terms. Functions of the Council"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4__subsec_1__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The functions of the Council are as follows:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to formulate policies and plans of action relating to veterans’ affairs;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to oversee the implementation of policies and plans of action relating to veterans’ affairs;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to coordinate and monitor the implementation of policies and plans of action relating to veterans with the relevant ministries, government agencies, bodies or organizations and the private sector;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to advise and make recommendations on the formulation of any legislation or amendment of any existing legislation in order to secure the welfare and interests of the veterans;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to advise the Government on the issues of veterans’ affairs including the developments at the international level;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to act as the monitoring body for all veterans associations in Malaysia; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to perform any other functions as directed by the Minister for the proper implementation of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council shall have power to do all things expedient or reasonably necessary for, or incidental to, the performance of its functions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council shall regulate its own proceedings. Allowances"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The members of the Council appointed in subsection 3(2) may be paid such allowances as the Minister may determine. Council to be assisted by the Department"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council shall be assisted by the Department in the performance of its functions and the exercise of its powers under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_23"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "REGISTRATION AND SUPERVISION OF VETERANS ASSOCIATIONS Application to be registered to carry out veteran activity"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_13__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_13__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No association shall carry out any veteran activity unless it is registered as a veterans association under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An association which intends to carry out any veteran activity shall apply to the Registrar for registration under this Act in such manner and form as may be prescribed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_13__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Registrar may require the applicant to provide any document or information as may be prescribed. Registration of veterans association"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_14__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "After considering an application by an association under section 13, the Registrar may approve or refuse the application for registration."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1), if the Registrar is satisfied that such association is a non-political organization for the advancement of the welfare of veterans and that the constitution of such association contains provisions for such matters as set out in the Schedule, the Registrar shall approve the registration of such association as a veterans association under this Act. Register of veterans association"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_15__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_15__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the application for registration is approved by the Registrar, he shall register the association as a veteran association in the register of veterans associations to be kept and maintained by the Registrar in such manner and form as may be prescribed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Registrar may impose any conditions, including the payment of any fees, as he deems fit upon the registered veterans association."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_15__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A veterans association registered under this Act shall, if its constitution does not contain the matters set out in the Schedule, amend its constitution within twenty-one days after its registration to include such matters. Certificate of registration"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_16__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Registrar shall issue to a veterans association registered under section 15 a certificate of registration in the prescribed form."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A certificate of registration, unless proved to have been subsequently revoked, shall be conclusive evidence for all purposes that the association has been duly registered by the Registrar as a veterans association under this Act. Association registered under the Societies Act 1966"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any association registered under the Societies Act 1966 [Act 335] on the date of coming into operation of this Act shall cease to be registered under the Societies Act 1966 and shall within three months thereof apply to the Registrar to be registered under this Act as a veterans association to carry out any veteran activity; and such association shall continue to operate as an association until notified otherwise by the Registrar. Revocation or suspension of registration by Registrar"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_18__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_18__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_18__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_18__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_18__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_18__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_18__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_18__subsec_1__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Registrar may revoke or suspend the registration of a veterans association if the Registrar is satisfied that such veterans association—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_18__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has been registered as a result of a fraud, mistake or misrepresentation;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_18__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has failed to comply with any of the conditions imposed by the Registrar under section 15;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_18__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has contravened any provision of this Act or any regulations made under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_18__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "is inactive or is no longer a fit and proper entity to be registered to represent veterans in Malaysia or elsewhere;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_18__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "is hindering the advancement of veterans and it is in the public interest to revoke or suspend its registration;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_18__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has failed or neglected to remedy any malpractice, misconduct or irregularity on the part of its office-bearers or its members within the period specified in the written notice given by the Registrar; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_18__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "is inactive, uncooperative or obstructive in the implementation of the regulations, policies or guidelines made under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Before revoking or suspending the registration of a veterans association under subsection (1), the Registrar shall give the association an opportunity to submit reasons, if any, against the proposed revocation or suspension. Appeal"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_19__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_19__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_19__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_19__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any association aggrieved by a decision of the Registrar—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_19__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_19__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in refusing to register such association;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_19__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_19__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in imposing conditions on the registration of such association; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_19__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_19__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in revoking or suspending the registration of such association, may, within thirty days from the date of the notification of the decision of the Registrar, appeal to the Minister whose decision shall be final."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Before making any decision under subsection (1), the Minister may refer the matter to the Council for its advice. Directions to continue functions of association"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, pending his decision on an appeal under section 19, give any direction so as to enable such association to continue its functions and may appoint an ad hoc committee to manage the affairs of the association for a period not exceeding twelve months. Internal procedures for resolution of dispute"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every veterans association shall resolve any dispute arising amongst its members or with its committee or governing body in accordance with the internal procedures prescribed in the regulations. Referral of dispute to Minister"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_22__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_22__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_22__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_22__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a dispute cannot be resolved under the internal procedures referred to in section 21, any aggrieved member or the veterans association itself may refer the dispute to the Minister for resolution."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_22__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), the Minister may, upon the advice of the Registrar or at any time he deems it necessary and expedient, require any veterans association to refer any dispute to him for resolution."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_22__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The decision of the Minister under this section shall be final; but the Minister may seek advice of the Council or any other committee established by the Minister for that purpose before making his decision. Consequences of refusal, revocation or suspension of registration"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_23__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_23__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon the refusal of the Registrar to register any association under section 17 or upon the revocation or suspension of the registration of any veterans association under this Act, the following provisions shall apply:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_23__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "such association shall not organize, conduct, sanction or participate in any veteran activity or any events or forum relating to veterans affairs whether within or outside Malaysia; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_23__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "such association shall not receive or continue to receive funding for veterans activity or any matter in connection with the interest, affairs or welfare of veterans from the Government or any statutory body."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Veterans Act 2011."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "“veteran activity” includes the following activities:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_1__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "organizing any welfare and socioeconomic programs for veterans and their dependants;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "organizing any campaign in relation to the interests of veterans and their dependants;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "raising funds, donations or monetary contributions for the welfare of veterans or members of any veteran associations;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "organizing any appreciation and acknowledgement programs for veterans;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "organizing or promoting any awareness programs for the interest and benefit of veterans; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "participating in conferences, meetings, congregations or programs in relation to veterans held in Malaysia or elsewhere; “Department” means the Malaysian Armed Forces Veterans Affairs Department; “Council” means the National Veterans Council; “Minister” means the Minister charged with the responsibility for defence; “Registrar” means the Registrar appointed under section 7; “association” means any organization, society, association, club or body consisting of at least fifty percent membership amongst former members of the Malaysian Armed Forces or the Commonwealth Forces who have served in Malaysia; “veterans association” means any association which is registered under this Act; “veteran” means a Malaysian citizen who has served full time and has not been retired or discharged from service on grounds of misconduct in any of the following Forces:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "regular forces of the Malaysian Armed Forces;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "volunteer forces mobilized full time by the Malaysian Armed Forces regardless of length of service;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Force 136;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "British Forces who served in Malaya, Malaysia or Singapore; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Sarawak Rangers."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "GENERAL Power to make regulations"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, after consultation with the Council, make such regulations as may be expedient or necessary for carrying out the purposes of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24__subsec_2__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1), such regulations may prescribe for any or all of the following:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the duties of the Registrar;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the form and contents of the register of veterans and the register of veterans association and the manner and form in which the registers shall be kept;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the manner and form in which an application for registration shall be made;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the form of any certificate or other document required under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the internal procedures to be followed in relation to the resolution of dispute held under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the procedures to be followed in relation to an appeal by any association;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any matter which relates to the provision of welfare and medical assistance to veterans; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~part_V__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other matter which is required by this Act to be prescribed or which is necessary or expedient to be prescribed for carrying this Act into effect."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~sched_1__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~sched_1__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~sched_1__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~sched_1__para_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Section 14] CONSTITUTION OF VETERANS ASSOCIATION The following matters shall be provided in the constitution of a veterans association:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~sched_1__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~sched_1__para_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~sched_1__para_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~sched_1__para_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~sched_1__para_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The association shall have the following aims and objects:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~sched_1__para_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the advancement of the welfare of the veterans;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~sched_1__para_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to maintain good terms with and to be in good standing with the Department;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~sched_1__para_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to ensure that its constitution is observed and abided by all its members; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~sched_1__para_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to control and exercise jurisdiction over all activities in relation to the affairs of veterans."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~sched_1__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Its activities are conducted without discrimination as to gender, race, religion, social origin, language, political inclination or any other opinion held by its members."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~sched_1__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The selection procedures for committee members in the association are open and fair."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~sched_1__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/1/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Its fully audited accounts with reports on all its activities and the use and disbursement of all its funds for its preceding financial year be submitted to the Registrar together with such other reports as the Registrar may require."
+      }
+    }
+  ]
+}

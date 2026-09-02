@@ -84,47 +84,15 @@ exceed RM4,600 but not exceed RM4,700
 
 <!-- page 3 -->
 
-Monthly Wages Employer’s
+Monthly Wages Employer’s Employee’s Total Contribution Contribution
 
-<!-- marginal: Employee’s -->
+52. When wages RM9.50 RM9.50 RM19.00 exceed RM4,700 but not exceed RM4,800
 
-<!-- marginal: Total -->
+53. When wages RM9.70 RM9.70 RM19.40 exceed RM4,800 but not exceed RM4,900
 
-Contribution
+54. When wages RM9.90 RM9.90 RM19.80 exceed RM4,900 but not exceed RM5,000
 
-<!-- marginal: Contribution -->
-
-52. When wages RM9.50
-
-<!-- marginal: RM9.50 -->
-
-<!-- marginal: RM19.00 -->
-
-exceed RM4,700 but not exceed RM4,800
-
-53. When wages RM9.70
-
-<!-- marginal: RM9.70 -->
-
-<!-- marginal: RM19.40 -->
-
-exceed RM4,800 but not exceed RM4,900
-
-54. When wages RM9.90
-
-<!-- marginal: RM9.90 -->
-
-<!-- marginal: RM19.80 -->
-
-exceed RM4,900 but not exceed RM5,000
-
-55. When wages RM9.90
-
-<!-- marginal: RM9.90 -->
-
-<!-- marginal: RM19.80”. -->
-
-exceed RM5,000
+55. When wages RM9.90 RM9.90 RM19.80”. exceed RM5,000
 
 ### Amendment of Third Schedule
 
@@ -132,71 +100,19 @@ exceed RM5,000
 
 (a) by substituting for item 45 the following item:
 
-Actual monthly wages
+Actual monthly wages Total Corresponding of the month contribution assumed monthly wages for the month
 
-<!-- marginal: Total -->
-
-<!-- marginal: Corresponding -->
-
-of the month
-
-<!-- marginal: contribution -->
-
-<!-- marginal: assumed -->
-
-<!-- marginal: monthly wages -->
-
-<!-- marginal: for the month -->
-
-“45. When wages exceed RM4,000
-
-<!-- marginal: RM16.20 -->
-
-<!-- marginal: RM4,050”; and -->
-
-but not exceed RM4,100
+“45. When wages exceed RM4,000 RM16.20 RM4,050”; and but not exceed RM4,100
 
 (b) by inserting after item 45 the following items:
 
-Actual monthly wages
+Actual monthly wages Total Corresponding of the month contribution assumed monthly wages for the month
 
-<!-- marginal: Total -->
+“46. When wages exceed RM4,100 RM16.60 RM4,150 but not exceed RM4,200
 
-<!-- marginal: Corresponding -->
+47. When wages exceed RM4,200 RM17.00 RM4,250 but not exceed RM4,300
 
-of the month
-
-<!-- marginal: contribution -->
-
-<!-- marginal: assumed -->
-
-<!-- marginal: monthly wages -->
-
-<!-- marginal: for the month -->
-
-“46. When wages exceed RM4,100
-
-<!-- marginal: RM16.60 -->
-
-<!-- marginal: RM4,150 -->
-
-but not exceed RM4,200
-
-47. When wages exceed RM4,200
-
-<!-- marginal: RM17.00 -->
-
-<!-- marginal: RM4,250 -->
-
-but not exceed RM4,300
-
-48. When wages exceed RM4,300
-
-<!-- marginal: RM17.40 -->
-
-<!-- marginal: RM4,350 -->
-
-but not exceed RM4,400
+48. When wages exceed RM4,300 RM17.40 RM4,350 but not exceed RM4,400
 
 <!-- page 4 -->
 

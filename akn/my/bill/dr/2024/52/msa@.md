@@ -22,6 +22,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ‘ “perkongsian guaman liabiliti terhad” ertinya suatu perkongsian guaman liabiliti terhad yang diluluskan di bawah seksyen 40r dan didaftarkan mengikut kehendak seksyen itu;
 
+<!-- marginal: WJW24/1140 BM.indd 1 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 2 -->
@@ -86,6 +88,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (i) dalam kamar di Mahkamah Tinggi dan di mahkamah rendah, untuk mengendalikan apa-apa kausa atau perkara; dan
 
+<!-- marginal: WJW24/1140 BM.indd 3 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 4 -->
@@ -120,7 +124,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 11. Akta ibu dipinda dengan memasukkan selepas seksyen 40o bahagian yang berikut:
 
-“Bahagian IVB
+## “BAHAGIAN IVB
 
 ## PERKONGSIAN GUAMAN LIABILITI TERHAD
 
@@ -145,6 +149,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 (b) penukaran firma sedia ada kepada suatu perkongsian guaman liabiliti terhad; dan
 
 (c) nama yang dicadangkan bagi perkongsian guaman liabiliti terhad itu.
+
+<!-- marginal: WJW24/1140 BM.indd 5 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -174,6 +180,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (ii) tidak berkemungkinan dikelirukan dengan nama mana-mana perkongsian guaman liabiliti terhad atau firma sedia ada; dan
 
+<!-- marginal: WJW24/1140 BM.indd 6 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 7 -->
@@ -196,6 +204,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (a) semua orang yang telah mengguna khidmat atau sedang mengguna khidmat firma itu berkaitan dengan amalannya sebagai seorang peguam bela dan peguam cara hendaklah disifatkan sebagai orang yang telah mengguna khidmat atau sedang mengguna khidmat perkongsian guaman liabiliti terhad itu berkaitan dengan amalannya sebagai seorang peguam bela dan peguam cara tanpa memerlukan persetujuan daripada atau pemberitahuan kepada mana-mana orang yang mengguna khidmat itu atau mana-mana orang lain dan tanpa jaminan, tindakan atau surat ikatan selanjutnya;
 
+<!-- marginal: WJW24/1140 BM.indd 7 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 8 -->
@@ -209,6 +219,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 (e) apa-apa aku janji, persetujuan, surat kuasa wakil, arahan, perintah, mandat, kuasa atau surat cara lain yang wujud, sama ada melalui surat ikatan atau selainnya, yang dibuat oleh, diberikan oleh atau kepada, atau dibuat untuk faedah, firma itu bagi atau yang berkaitan dengan amalannya sebagai seorang peguam bela dan peguam cara hendaklah disifatkan sebagai dibuat oleh, diberikan oleh atau kepada, atau dibuat untuk faedah, perkongsian guaman liabiliti terhad itu;
 
 (f) apa-apa akaun antara firma itu dengan orang yang mengguna khidmat atau yang telah mengguna khidmat firma itu atau selainnya bagi atau yang berkaitan dengan amalannya sebagai seorang peguam bela dan peguam cara hendaklah disifatkan sebagai menjadi suatu akaun antara perkongsian guaman liabiliti terhad itu dengan orang itu tertakluk kepada terma dan syarat sebagaimana yang terpakai pada akaun itu dengan firma itu; dan
+
+<!-- marginal: WJW24/1140 BM.indd 8 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -229,6 +241,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 ### Pemberhentian amalan peguam bela dan peguam cara
 
 40x. (1) Suatu perkongsian guaman liabiliti terhad tidak boleh menjalankan amalan peguam bela dan peguam cara jika pada bila-bila masa mana-mana pekongsi perkongsian guaman liabiliti terhad itu bukan seorang peguam bela dan peguam cara yang menjalankan amalan.
+
+<!-- marginal: WJW24/1140 BM.indd 9 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -256,6 +270,8 @@ melakukan kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua ri
 
 (b) apa-apa hak Majlis Peguam atau Jawatankuasa Badan Peguam Negeri untuk melaksanakan apa-apa hak atau kuasa di bawah Akta ini.
 
+<!-- marginal: WJW24/1140 BM.indd 10 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 11 -->
@@ -274,15 +290,15 @@ melakukan kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua ri
 
 (4) Walau apa pun subseksyen (3), Majlis Peguam boleh memasukkan semula nama perkongsian guaman liabiliti terhad itu ke dalam daftar bagi maksud membolehkan Majlis Peguam atau mana-mana Jawatankuasa Badan Peguam Negeri atau mana-mana orang lain untuk melaksanakan apa-apa hak atau kuasa berhubung dengan perkongsian guaman liabiliti terhad itu di bawah Akta ini bagi atau yang berkaitan dengan—
 
-(a) amalan profesional, kesopanan, kelakuan dan tatatertib peguam bela dan peguam cara dan kerani di bawah
-
-## Bahagian VI atau prosiding tatatertib di bawah
+(a) amalan profesional, kesopanan, kelakuan dan tatatertib peguam bela dan peguam cara dan kerani di bawah Bahagian VI atau prosiding tatatertib di bawah
 
 ## Bahagian VII;
 
 (b) perlindungan klien atau bekas klien perkongsian guaman liabiliti terhad; atau
 
 (c) hak dan kuasa di bawah seksyen 119.
+
+<!-- marginal: WJW24/1140 BM.indd 11 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -318,6 +334,8 @@ melakukan kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua ri
 
 (a) perkara yang berhubungan dengan nama perkongsian guaman liabiliti terhad;
 
+<!-- marginal: WJW24/1140 BM.indd 12 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 13 -->
@@ -334,7 +352,7 @@ melakukan kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua ri
 
 12. Akta ibu dipinda dengan memasukkan selepas seksyen 76 bahagian yang berikut:
 
-“Bahagian Va
+## “BAHAGIAN VA
 
 ## PUSAT BANTUAN GUAMAN MAJLIS PEGUAM
 
@@ -349,6 +367,8 @@ melakukan kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua ri
 “Pengarah” ertinya Pengarah Pusat Bantuan Guaman yang dilantik di bawah seksyen 76f;
 
 “penjaga” berhubung dengan seseorang kanak-kanak, termasuklah mana-mana orang yang, pada pendapat Pengarah, dilantik dengan sepatutnya untuk menjadi sahabat wakil atau penjaga ad litem kanak-kanak itu;
+
+<!-- marginal: WJW24/1140 BM.indd 13 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -380,6 +400,8 @@ melakukan kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua ri
 
 (c) untuk membantu orang awam dalam perkara yang berhubungan dengan keadilan;
 
+<!-- marginal: WJW24/1140 BM.indd 14 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 15 -->
@@ -405,6 +427,8 @@ melakukan kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua ri
 ### Cawangan Pusat
 
 76e. (1) Jika Pusat menubuhkan suatu cawangan dalam mana-mana negeri di luar pejabat utamanya, cawangan itu hendaklah diurus dan ditadbir oleh Pusat, dengan bantuan Jawatankuasa Badan Peguam Negeri yang berkenaan.
+
+<!-- marginal: WJW24/1140 BM.indd 15 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -432,6 +456,8 @@ melakukan kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua ri
 
 (2) Bagi maksud subseksyen (1), pemohon hendaklah mengemukakan maklumat yang lengkap, benar dan tepat dalam permohonan itu.
 
+<!-- marginal: WJW24/1140 BM.indd 16 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 17 -->
@@ -458,6 +484,8 @@ melakukan kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua ri
 
 Jika Pusat berpuas hati bahawa pemohon di bawah seksyen 76g layak bagi bantuan guaman, Pusat boleh mewakili pemohon dengan memfailkan suatu Sijil Bantuan Guaman dalam Borang 2 Jadual Kedua di mahkamah yang di dalamnya prosiding itu belum selesai, dan pemohon hendaklah menjadi orang yang dibantu.
 
+<!-- marginal: WJW24/1140 BM.indd 17 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 18 -->
@@ -481,6 +509,8 @@ Jika Pusat berpuas hati bahawa pemohon di bawah seksyen 76g layak bagi bantuan g
 (b) semua prosiding hendaklah, melainkan jika diperintahkan selainnya oleh mahkamah yang di dalamnya prosiding itu belum selesai, digantung bagi tempoh empat belas hari; dan
 
 (c) Pusat berhak untuk dibayar balik semua wang yang dibayar dan semua fi guaman bagi kerja yang dibuat bagi orang itu.
+
+<!-- marginal: WJW24/1140 BM.indd 18 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -507,6 +537,8 @@ Jika Pusat berpuas hati bahawa pemohon di bawah seksyen 76g layak bagi bantuan g
 (b) mendapatkan kembali apa-apa wang yang kena dibayar berkenaan dengan bantuan guaman, atau bagi penguatkuasaan apa-apa perintah atau perjanjian bagi kos yang dibuat secara yang memihak kepada orang yang dibantu;
 
 (c) apa-apa peruntukan yang berhubungan dengan orang yang layak dan sesuai di bawah seksyen 76f; dan
+
+<!-- marginal: WJW24/1140 BM.indd 19 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -566,7 +598,7 @@ Jika Pusat berpuas hati bahawa pemohon di bawah seksyen 76g layak bagi bantuan g
 
 (B) dengan menggantikan perkataan “terhadapnya” dengan perkataan “terhadap peguam bela dan peguam cara atau perkongsian guaman liabiliti terhad itu”;
 
-<!-- marginal: 28/11/2024 2:42 AM -->
+<!-- marginal: WJW24/1140 BM.indd 21 -->
 
 <!-- page 22 -->
 
@@ -579,6 +611,8 @@ Jika Pusat berpuas hati bahawa pemohon di bawah seksyen 76g layak bagi bantuan g
 (c) dengan menggantikan subseksyen (3) dengan subseksyen yang berikut:
 
 “(3) Tiada apa-apa jua dalam seksyen ini boleh menjejaskan hak mana-mana peguam bela dan peguam cara atau perkongsian guaman liabiliti terhad, sebagai tambahan kepada tanggung rugi yang diperuntukkan dalam kaedah-kaedah yang dibuat di bawah seksyen ini, untuk menginsuranskan peguam bela dan peguam cara atau perkongsian guaman liabiliti terhad itu selanjutnya terhadap kerugian yang berbangkit akibat daripada apa-apa tuntutan yang mungkin dimulakan terhadap peguam bela dan peguam cara atau perkongsian guaman liabiliti terhad itu.”.
+
+<!-- marginal: WJW24/1140 BM.indd 22 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -598,6 +632,8 @@ Jika Pusat berpuas hati bahawa pemohon di bawah seksyen 76g layak bagi bantuan g
 
 (a) peguam bela dan peguam cara yang disebut dalam subseksyen (8) mempunyai suatu sijil amalan yang sah apabila perbuatan ketidakjujuran itu dilakukan, dan walau apa pun kemudian daripada perbuatan itu dilakukan peguam bela dan peguam cara itu telah mati atau namanya telah dikeluarkan atau dipotong daripada Daftarai atau telah berhenti menjalankan amalan atau telah digantung daripada menjalankan amalan; atau
 
+<!-- marginal: WJW24/1140 BM.indd 23 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 24 -->
@@ -615,6 +651,8 @@ Jika Pusat berpuas hati bahawa pemohon di bawah seksyen 76g layak bagi bantuan g
 (d) dengan menggantikan subseksyen (11) dengan subseksyen yang berikut:
 
 “(11) Sebutan dalam subseksyen (10) kepada orang yang kepadanya pemberian itu dibuat atau peguam bela dan peguam cara, perkongsian guaman libiliti terhad, atau kerani atau pekhidmat peguam bela dan peguam cara atau perkongsian guaman libiliti
+
+<!-- marginal: WJW24/1140 BM.indd 24 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -636,6 +674,8 @@ terhad itu hendaklah termasuk, dalam hal kematian, ketidaksolvenan atau ketidaku
 
 (b) membenarkan namanya digunakan, dalam apa-apa prosiding undang-undang atau perkara yang di bawah Akta ini hanya boleh dilakukan oleh peguam bela dan peguam cara yang mempunyai sijil amalan yang sah atau oleh suatu perkongsian guaman liabiliti terhad yang diberi kuasa untuk menjalankan amalan sebagai peguam bela dan peguam cara, oleh atau bagi keuntungan peguam bela dan peguam cara lain yang tidak mempunyai sijil amalan yang sah atau perkongsian guaman liabiliti terhad lain yang tidak diberi kuasa untuk menjalankan amalan peguam bela dan peguam cara;
 
+<!-- marginal: WJW24/1140 BM.indd 25 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 26 -->
@@ -655,6 +695,8 @@ terhad itu hendaklah termasuk, dalam hal kematian, ketidaksolvenan atau ketidaku
 (a) apa-apa akaun bank atas namanya; dan
 
 (b) apa-apa akaun bank yang disenggara oleh perkongsian guaman liabiliti terhad, berkaitan dengan amalannya sebagai peguam bela dan peguam cara.
+
+<!-- marginal: WJW24/1140 BM.indd 26 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -680,6 +722,8 @@ terhad itu hendaklah termasuk, dalam hal kematian, ketidaksolvenan atau ketidaku
 
 (ii) dengan menggantikan perkataan “dia ketahui” dengan perkataan “peguam bela dan peguam cara atau perkongsian guaman liabiliti terhad itu ketahui”;
 
+<!-- marginal: WJW24/1140 BM.indd 27 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 28 -->
@@ -703,6 +747,8 @@ terhad itu hendaklah termasuk, dalam hal kematian, ketidaksolvenan atau ketidaku
 (i) dengan memasukkan selepas perkataan “Sebelum seseorang peguam bela dan peguam cara” perkataan “atau sesuatu perkongsian guaman liabiliti terhad”; dan
 
 (ii) dengan menggantikan perkataan “amalannya sebagai demikian, dia hendaklah” dengan perkataan “amalan peguam bela dan peguam cara atau perkongsian guaman liabiliti terhad itu sebagai demikian, peguam bela dan peguam cara atau perkongsian guaman liabiliti terhad itu hendaklah”; dan
+
+<!-- marginal: WJW24/1140 BM.indd 28 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -732,6 +778,8 @@ terhad itu hendaklah termasuk, dalam hal kematian, ketidaksolvenan atau ketidaku
 
 tidak boleh dalam transaksi yang sama bertindak bagi pihak pembeli harta itu.”;
 
+<!-- marginal: WJW24/1140 BM.indd 29 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 30 -->
@@ -751,6 +799,8 @@ yang bertindak bagi pihak pemaju berkenaan dengan transaksi itu hendaklah diperi
 (d) dengan menggantikan subseksyen (2) dengan subseksyen yang berikut:
 
 “(2) Bagi maksud seksyen ini, sijil di bawah subseksyen (1B) hendaklah ditandatangani oleh pembeli di hadapan Pesuruhjaya Sumpah yang bukan seorang peguam bela dan peguam cara yang menjalankan amalan dengan atau pekerja firma guaman Malaysia, yang bertindak bagi pihak pemaju perumahan itu.”;
+
+<!-- marginal: WJW24/1140 BM.indd 30 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -782,6 +832,8 @@ yang bertindak bagi pihak pemaju berkenaan dengan transaksi itu hendaklah diperi
 
 (ii) dengan menggantikan perkataan “yang ada dalam jagaan atau kawalannya” dengan perkataan “yang ada dalam jagaan atau kawalan peguam bela dan peguam cara atau perkongsian guaman liabiliti terhad itu”; dan
 
+<!-- marginal: WJW24/1140 BM.indd 31 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 32 -->
@@ -805,6 +857,8 @@ yang bertindak bagi pihak pemaju berkenaan dengan transaksi itu hendaklah diperi
 (ii) dengan memasukkan selepas perkataan “wang kena dibayar oleh peguam bela dan peguam cara” perkataan “atau perkongsian guaman liabiliti terhad”; dan
 
 (iii) dengan memasukkan selepas perkataan “amaun yang kena dibayar sedemikian oleh peguam bela dan peguam cara” perkataan “atau perkongsian guaman liabiliti terhad”.
+
+<!-- marginal: WJW24/1140 BM.indd 32 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -830,6 +884,8 @@ bersalah atas ketidakjujuran berkaitan dengan amalan peguam bela dan peguam cara
 
 “(2) Jika nama seseorang peguam bela dan peguam cara dikeluarkan atau dipotong daripada Daftarai atau seseorang peguam bela dan peguam cara digantung daripada menjalankan amalan, peguam bela dan peguam cara itu atau perkongsian guaman liabiliti terhad yang dia menjalankan amalan itu hendaklah, dalam masa dua puluh satu hari dari tarikh yang material itu, memuaskan hati Majlis Peguam bahawa peguam bela dan peguam cara atau perkongsian guaman liabiliti terhad itu telah membuat perkiraan yang sesuai untuk
 
+<!-- marginal: WJW24/1140 BM.indd 33 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 34 -->
@@ -847,6 +903,8 @@ mengadakan kepada klien peguam bela dan peguam cara atau perkongsian guaman liab
 (b) semua wang yang—
 
 (i) kena dibayar oleh peguam bela dan peguam cara itu atau firmanya kepada kliennya atau klien firmanya, atau kena dibayar oleh perkongsian guaman liabiliti terhad itu kepada kliennya;
+
+<!-- marginal: WJW24/1140 BM.indd 34 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -878,6 +936,8 @@ mengadakan kepada klien peguam bela dan peguam cara atau perkongsian guaman liab
 
 (i) peguam bela dan peguam cara berkaitan dengan apa-apa perkara yang peguam bela dan peguam cara itu atau firmanya telah diarahkan bagi pihak kliennya atau klien firmanya;
 
+<!-- marginal: WJW24/1140 BM.indd 35 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 36 -->
@@ -895,6 +955,8 @@ mengadakan kepada klien peguam bela dan peguam cara atau perkongsian guaman liab
 (iv) dengan menggantikan perenggan (d) dengan perenggan yang berikut:
 
 “(d) peguam bela dan peguam cara atau perkongsian guaman liabiliti terhad itu telah diberitahu secara bertulis oleh Majlis Peguam bahawa peguam bela dan peguam cara atau perkongsian guaman liabiliti terhad itu gagal memberi penjelasan itu,”;
+
+<!-- marginal: WJW24/1140 BM.indd 36 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -921,6 +983,8 @@ mengadakan kepada klien peguam bela dan peguam cara atau perkongsian guaman liab
 (a) dalam perenggan (n), dengan memotong perkataan “dan” di hujung perenggan itu;
 
 (b) dalam perenggan (o), dengan menggantikan noktah di hujung perenggan itu dengan perkataan “; dan”; dan
+
+<!-- marginal: WJW24/1140 BM.indd 37 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -982,6 +1046,8 @@ mengadakan kepada klien peguam bela dan peguam cara atau perkongsian guaman liab
 
 (i) dengan memasukkan selepas perkataan “seseorang peguam bela dan peguam cara dan kliennya” perkataan “atau sesuatu perkongsian guaman liabiliti terhad dan kliennya”; dan
 
+<!-- marginal: WJW24/1140 BM.indd 39 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 40 -->
@@ -1000,7 +1066,9 @@ mengadakan kepada klien peguam bela dan peguam cara atau perkongsian guaman liab
 
 30. Seksyen 115 Akta ibu dipinda—
 
-(a) dengan menggantikan nota bahu dengan nota bahu yang berikut:
+(a) dengan menggantikan nota bahu dengan nota bahu yang
+
+<!-- marginal: berikut: -->
 
 ### “Kos perundingan penggadai janji”;
 
@@ -1009,6 +1077,8 @@ mengadakan kepada klien peguam bela dan peguam cara atau perkongsian guaman liab
 (i) dengan memasukkan selepas perkataan “Jika suatu gadai janji dibuat kepada seorang peguam bela dan peguam cara” perkataan “atau suatu perkongsian guaman liabiliti terhad”;
 
 (ii) dengan menggantikan perkataan “peguam bela dan peguam cara itu, atau firma yang dia ialah seorang ahlinya” dengan perkataan “peguam bela dan peguam cara itu, firma yang peguam bela dan peguam cara itu ialah seorang ahlinya atau perkongsian guaman liabiliti terhad yang peguam bela dan peguam cara itu menjalankan amalan”;
+
+<!-- marginal: WJW24/1140 BM.indd 40 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -1028,6 +1098,8 @@ mengadakan kepada klien peguam bela dan peguam cara atau perkongsian guaman liab
 
 (iii) dengan menggantikan perkataan “dia atau firma itu” dengan perkataan “peguam bela dan peguam cara itu, firma itu atau perkongsian guaman liabiliti terhad itu”;
 
+<!-- marginal: WJW24/1140 BM.indd 41 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 42 -->
@@ -1042,7 +1114,9 @@ mengadakan kepada klien peguam bela dan peguam cara atau perkongsian guaman liab
 
 31. Seksyen 116 Akta ibu dipinda—
 
-(a) dengan menggantikan nota bahu dengan nota bahu yang berikut:
+(a) dengan menggantikan nota bahu dengan nota bahu yang
+
+<!-- marginal: berikut: -->
 
 ### “Perjanjian bagi kos urusan bertikaian”; dan
 
@@ -1051,6 +1125,8 @@ mengadakan kepada klien peguam bela dan peguam cara atau perkongsian guaman liab
 (i) dengan menggantikan perkataan “seseorang peguam bela dan peguam cara boleh membuat suatu perjanjian secara bertulis dengan kliennya” dengan perkataan “seseorang peguam bela dan peguam cara atau suatu perkongsian guaman liabiliti terhad boleh membuat suatu perjanjian secara bertulis dengan kliennya”;
 
 (ii) dengan menggantikan perkataan “mana-mana bahagian daripada kosnya” dengan perkataan “mana-mana bahagian daripada kos peguam bela dan peguam cara atau perkongsian guaman liabiliti terhad itu”;
+
+<!-- marginal: WJW24/1140 BM.indd 42 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -1077,6 +1153,8 @@ mengadakan kepada klien peguam bela dan peguam cara atau perkongsian guaman liab
 (d) dengan menggantikan subseksyen (4) dengan subseksyen yang berikut:
 
 “(4) Suatu peruntukan dalam mana-mana perjanjian itu yang menyatakan bahawa peguam bela dan peguam cara atau perkongsian guaman liabiliti terhad itu tidak bertanggungan terhadap kecuaian, atau bahawa peguam bela dan peguam cara atau perkongsian guaman liabiliti terhad itu hendaklah dilepaskan daripada apa-apa tanggungjawab yang kepadanya peguam bela
+
+<!-- marginal: WJW24/1140 BM.indd 43 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -1108,6 +1186,8 @@ dan peguam cara atau perkongsian guaman liabiliti terhad itu tertakluk sebagai p
 
 ### penggulungan perkongsian guaman liabiliti terhad”;
 
+<!-- marginal: WJW24/1140 BM.indd 44 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 45 -->
@@ -1136,6 +1216,8 @@ suatu permohonan boleh dibuat kepada Mahkamah oleh mana-mana pihak dalam perjanj
 
 (i) dengan memasukkan selepas perkataan “peguam bela dan peguam caranya” perkataan “atau perkongsian guaman liabiliti terhad yang bertindak bagi pihaknya”;
 
+<!-- marginal: WJW24/1140 BM.indd 45 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 46 -->
@@ -1159,6 +1241,8 @@ suatu permohonan boleh dibuat kepada Mahkamah oleh mana-mana pihak dalam perjanj
 (iii) dengan menggantikan perkataan “kelakuan lain yang tidak patut pada pihaknya” dengan perkataan “kelakuan lain yang tidak patut pada pihak peguam bela dan peguam cara atau perkongsian guaman liabiliti terhad itu”; dan
 
 (iv) dengan memasukkan selepas perkataan “menukar peguam bela dan peguam caranya” perkataan “atau perkongsian guaman liabiliti terhad yang bertindak bagi pihaknya”.
+
+<!-- marginal: WJW24/1140 BM.indd 46 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -1194,6 +1278,8 @@ suatu permohonan boleh dibuat kepada Mahkamah oleh mana-mana pihak dalam perjanj
 
 “peguam bela dan peguam cara” termasuklah wasi, pentadbir dan pemegang serah hak seseorang peguam bela dan peguam cara;
 
+<!-- marginal: WJW24/1140 BM.indd 47 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 48 -->
@@ -1228,6 +1314,8 @@ suatu permohonan boleh dibuat kepada Mahkamah oleh mana-mana pihak dalam perjanj
 
 124. (1) Tertakluk kepada Akta ini, tiada peguam bela dan peguam cara atau perkongsian guaman liabiliti terhad boleh, tanpa kebenaran Mahkamah, memulakan atau mengekalkan apa-apa tindakan untuk mendapatkan kembali apa-apa kos yang
 
+<!-- marginal: WJW24/1140 BM.indd 48 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 49 -->
@@ -1247,6 +1335,8 @@ kena dibayar bagi apa-apa urusan yang dilakukan oleh peguam bela dan peguam cara
 (b) hendaklah dilampirkan dalam atau disertakan dengan, suatu surat yang ditandatangani oleh orang yang disebut dalam perenggan (a), yang merujuk kepada bil kos itu.
 
 (3) Jika suatu bil kos telah diserahkan mengikut subseksyen (1), bil kos itu hendaklah dianggap bil kos bona fide yang mematuhi Akta ini sehingga dibuktikan sebaliknya.”.
+
+<!-- marginal: WJW24/1140 BM.indd 49 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -1278,6 +1368,8 @@ kena dibayar bagi apa-apa urusan yang dilakukan oleh peguam bela dan peguam cara
 
 (ii) dengan menggantikan perkataan “atau kepada peguam bela dan peguam cara” dengan perkataan “, atau kepada peguam bela dan peguam cara atau perkongsian guaman liabiliti terhad”; dan
 
+<!-- marginal: WJW24/1140 BM.indd 50 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 51 -->
@@ -1305,6 +1397,8 @@ kena dibayar bagi apa-apa urusan yang dilakukan oleh peguam bela dan peguam cara
 ### Pindaan seksyen 129
 
 44. Seksyen 129 Akta ibu dipinda dengan memasukkan selepas perkataan “peguam bela dan peguam cara” perkataan “atau perkongsian guaman liabiliti terhad”.
+
+<!-- marginal: WJW24/1140 BM.indd 51 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -1335,6 +1429,8 @@ kena dibayar bagi apa-apa urusan yang dilakukan oleh peguam bela dan peguam cara
 ### salinan bil kos kepada pemohon”; dan
 
 (b) dengan menggantikan perkataan “peguam bela dan peguam cara itu menyerahkan kepada pihak yang membuat permohonan itu suatu salinan bil itu” dengan perkataan “peguam bela dan peguam cara atau perkongsian guaman liabiliti terhad itu menyerahkan kepada pihak yang membuat permohonan itu suatu salinan bil kos itu”.
+
+<!-- marginal: WJW24/1140 BM.indd 52 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -1372,6 +1468,8 @@ seseorang peguam bela dan peguam cara atau sesuatu perkongsian guaman liabiliti 
 
 (b) dengan menggantikan perkataan “peguam bela dan peguam cara itu” di mana-mana jua terdapat dengan perkataan “peguam bela dan peguam cara atau perkongsian guaman liabiliti terhad itu”; dan
 
+<!-- marginal: WJW24/1140 BM.indd 53 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 54 -->
@@ -1404,6 +1502,8 @@ seseorang peguam bela dan peguam cara atau sesuatu perkongsian guaman liabiliti 
 
 (ii) dengan memasukkan selepas perkataan “tanggungan peguam bela dan peguam cara” perkataan “atau perkongsian guaman liabiliti terhad”.
 
+<!-- marginal: WJW24/1140 BM.indd 54 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 55 -->
@@ -1412,7 +1512,9 @@ seseorang peguam bela dan peguam cara atau sesuatu perkongsian guaman liabiliti 
 
 51. Jadual kepada Akta ibu dipinda—
 
-(a) dengan menamakan semula Jadual yang sedia ada sebagai “Jadual Pertama”;
+(a) dengan menamakan semula Jadual yang sedia ada sebagai
+
+## “JADUAL PERTAMA”;
 
 (b) dalam kepala, dengan memotong perkataan “PEGUAM
 
@@ -1429,6 +1531,8 @@ seseorang peguam bela dan peguam cara atau sesuatu perkongsian guaman liabiliti 
 (d) dalam perenggan 3, dengan memasukkan selepas perkataan “peguam bela dan peguam cara” perkataan “atau perkongsian guaman liabiliti terhad”;
 
 (e) dalam perenggan 5, dengan memasukkan selepas perkataan “peguam bela dan peguam cara” perkataan “, perkongsian guaman liabiliti terhad”;
+
+<!-- marginal: WJW24/1140 BM.indd 55 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -1454,6 +1558,8 @@ seseorang peguam bela dan peguam cara atau sesuatu perkongsian guaman liabiliti 
 
 (ii) dengan memasukkan selepas perkataan “peguam bela dan peguam cara itu atau firmanya” perkataan “atau perkongsian guaman liabiliti terhad itu”;
 
+<!-- marginal: WJW24/1140 BM.indd 56 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 57 -->
@@ -1476,6 +1582,8 @@ seseorang peguam bela dan peguam cara atau sesuatu perkongsian guaman liabiliti 
 
 (l) dalam perenggan 13, dengan menggantikan perkataan “perenggan 9” dengan perkataan “perenggan 9a”; dan
 
+<!-- marginal: WJW24/1140 BM.indd 57 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 58 -->
@@ -1486,7 +1594,7 @@ seseorang peguam bela dan peguam cara atau sesuatu perkongsian guaman liabiliti 
 
 52. Akta ibu dipinda dengan memasukkan selepas Jadual Pertama jadual yang berikut:
 
-“Jadual Kedua
+## “JADUAL KEDUA
 
 [Seksyen 76h, 76i dan 76K]
 
@@ -1548,6 +1656,8 @@ Sijil Bantuan Guaman ini difailkan oleh Pusat Bantuan Guaman Majlis Peguam (nama
 
 Ruj. Fail:
 
+<!-- marginal: WJW24/1140 BM.indd 59 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 60 -->
@@ -1606,6 +1716,8 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Profesion Undang-Undang 1976
 
 11. Fasal 10 bertujuan untuk meminda seksyen 40o Akta 166 untuk memasukkan perenggan baharu 40o(ha) ke dalam Akta 166 untuk memberi Majlis Peguam kuasa, dengan kelulusan Peguam Negara, untuk membuat kaedah-kaedah bagi memperuntukkan cara dan langkah bagaimana suatu perkongsian guaman liabiliti terhad boleh ditubuhkan bagi maksud suatu perkongsian antarabangsa.
 
+<!-- marginal: WJW24/1140 BM.indd 61 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 62 -->
@@ -1647,6 +1759,8 @@ Seksyen baharu 40zc yang dicadangkan memperuntukkan bahawa Bahagian baharu IVB d
 Seksyen baharu 40zd yang dicadangkan memberi Majlis Peguam kuasa, dengan kelulusan Peguam Negara, untuk membuat kaedah-kaedah berkenaan dengan perkongsian guaman liabiliti terhad bagi maksud Bahagian baharu IVB.
 
 13. Fasal 12 bertujuan untuk memasukkan Bahagian baharu Va ke dalam Akta 166 yang mengandungi seksyen baharu 76a, 76B, 76c, 76d, 76e, 76f, 76g, 76h, 76i, 76J, 76K, 76l dan 76m untuk mengadakan peruntukan bagi Pusat Bantuan Guaman Majlis Peguam dan perkara yang berhubungan dengannya. Seksyen baharu 76a yang dicadangkan mengandungi takrif perkataan dan ungkapan tertentu yang digunakan dalam Bahagian baharu Va.
+
+<!-- marginal: WJW24/1140 BM.indd 63 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -1690,6 +1804,8 @@ Seksyen baharu 76m yang dicadangkan memberi Majlis Peguam kuasa, dengan kelulusa
 
 18. Fasal 17 bertujuan untuk meminda seksyen 83 Akta 166 untuk meluaskan pemakaian seksyen 83 Akta 166 untuk melarang perkongsian guaman liabiliti terhad dari mengguna khidmat atau menyara mana-mana orang yang perkongsian guaman liabiliti terhad itu ketahui ialah bankrap yang belum dilepaskan, yang telah dipotong daripada Daftarai atau yang telah digantung daripada menjalankan amalan sebagai seorang peguam bela dan peguam cara, dsb..
 
+<!-- marginal: WJW24/1140 BM.indd 65 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 66 -->
@@ -1725,6 +1841,8 @@ Perenggan 27(b)(iii) bertujuan untuk meminda perenggan 112(1)(b) Akta 166 untuk 
 Subfasal 30(b) bertujuan untuk meminda subseksyen 115(1) Akta 166 untuk memperuntukkan juga bahawa jika suatu gadai janji dibuat kepada suatu perkongsian guaman liabiliti terhad, perkongsian guaman liabiliti terhad yang peguam bela dan peguam cara itu menjalankan amalan berhak mendapatkan daripada penggadai janji itu berkenaan dengan semua urusan yang dijalankan oleh perkongsian guaman liabiliti terhad itu dan berkenaan dengan semua perbuatan yang dilakukan oleh perkongsian guaman liabiliti terhad itu dalam merundingkan pinjaman itu, menentukan dan menyiasat hakmilik harta itu, dan menyediakan dan menyempurnakan gadai janji itu, apa-apa kos biasa yang perkongsian guaman liabiliti terhad itu tetap berhak mendapatnya jika gadai janji itu telah dibuat kepada suatu entiti yang bukan suatu perkongsian guaman liabiliti terhad dan penggadai janji itu telah menempah dan mengguna khidmat perkongsian guaman liabiliti terhad itu.
 
 Subfasal 30(c) bertujuan untuk meminda subseksyen 115(2) Akta 166 untuk memperuntukkan juga bahawa jika suatu gadai janji telah dibuat kepada, atau telah diletakhakkan dengan cara pindah milik atau pindahan pada suatu perkongsian guaman liabiliti terhad, sama ada ia sahaja atau bersesama dengan mana-mana orang lain, dan apa-apa urusan dijalankan atau apa-apa perbuatan dilakukan oleh perkongsian guaman liabiliti terhad itu, berhubung dengan gadai janji itu atau cagaran yang diwujudkan dengannya itu atau berhubung dengan
+
+<!-- marginal: WJW24/1140 BM.indd 67 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -1775,6 +1893,8 @@ harta yang terkandung di bawahnya, maka perkongsian guaman liabiliti terhad itu 
 46. Fasal 49 bertujuan untuk meminda seksyen 134 Akta 166 untuk meluaskan pemakaian seksyen 134 Akta 166 kepada perkongsian guaman liabiliti terhad berkenaan dengan bayaran kos perintah bagi penetapan suatu bil kos.
 
 47. Fasal 50 bertujuan untuk meminda seksyen 141 Akta 166 untuk meluaskan pemakaian seksyen 141 Akta 166 kepada perkongsian guaman liabiliti terhad untuk memperuntukkan, antara lain, bahawa bank tidak mempunyai apa-apa tanggungan atau berkewajipan membuat apa-apa siasatan, atau disifatkan mempunyai apa-apa pengetahuan mengenai apa-apa hak mana-mana orang ke atas apa-apa wang yang dibayar atau dikreditkan pada mana-mana akaun perkongsian guaman liabiliti terhad itu.
+
+<!-- marginal: WJW24/1140 BM.indd 69 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 

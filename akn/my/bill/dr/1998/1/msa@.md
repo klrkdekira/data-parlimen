@@ -74,13 +74,21 @@ Rang Undang-Undang
 
 (e) nombor rujukan perakuan yang relevan.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-6. Subseksyen 12(3) Akta ibu adalah dipinda dengan seksyen 12. menggantikan perkataan "yang pertama atau yang akhir teks itu" dengan perkataan "bercetak yang pertama atau yang akhir teks itu atau, dalam hal sesuatu teks rakaman, pada suatu bahagian mudah dilihat teks itu".
+6. Subseksyen 12(3) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 12. -->
 
-7. Subseksyen 13(1) Akta ibu adalah dipinda dengan seksyen 13 menggantikan perkataan "yang pertama atau yang akhir teks itu" dengan perkataan "bercetak yang pertama atau yang akhir teks itu atau, dalam hal sesuatu teks rakaman, pada suatu bahagian mudah dilihat teks itu,".
+menggantikan perkataan "yang pertama atau yang akhir teks itu" dengan perkataan "bercetak yang pertama atau yang akhir teks itu atau, dalam hal sesuatu teks rakaman, pada suatu bahagian mudah dilihat teks itu".
+
+<!-- marginal: Pindaan -->
+
+7. Subseksyen 13(1) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 13 -->
+
+menggantikan perkataan "yang pertama atau yang akhir teks itu" dengan perkataan "bercetak yang pertama atau yang akhir teks itu atau, dalam hal sesuatu teks rakaman, pada suatu bahagian mudah dilihat teks itu,".
 
 ## HURAIAN
 
@@ -106,6 +114,4 @@ Pencetakan Teks Al-Qur'an (Pindaan)
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
-
-<!-- marginal: [PN. (U2) 2016.] -->
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN. (U2) 2016.]

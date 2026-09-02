@@ -38,33 +38,77 @@ Provident Fund Ordinance 1952;
 
 <!-- page 2 -->
 
-Repeal and
+<!-- marginal: Repeal and -->
 
-3. The Malayan Railway Provident Fund Ordinance dissolution, 1952 is repealed and the Fund established thereunder is dissolved.
+3. The Malayan Railway Provident Fund Ordinance
 
-Transfer of
+<!-- marginal: dissolution, -->
 
-4. All movable property and assets that immediately property. before the commencement of this Act were vested in the Fund or in any person on its behalf shall, on the commencement of this Act, be transferred to, and be vested with, KTMB.
+1952 is repealed and the Fund established thereunder is dissolved.
 
-Transfer of
+<!-- marginal: Transfer of -->
 
-5. Subject to section 7 all moneys in the Fund or due to moneys. be paid to the Fund shall, on the commencement of this Act, be transferred to, and be vested with, KTMB.
+4. All movable property and assets that immediately
 
-Existing
+<!-- marginal: property. -->
 
-6. All deeds, bonds, agreements, instruments and contracts. working arrangements subsisting immediately before the commencement of this Act and affecting any of the property transferred under sections 4 and 5, shall be of full force and effect against or in favour of KTMB and enforceable as fully and effectually as if, instead of the Board, the Fund, the Malayan Railway Administration, or any person or body acting on its behalf, KTMB had been named therein or had been a party thereto.
+before the commencement of this Act were vested in the Fund or in any person on its behalf shall, on the commencement of this Act, be transferred to, and be vested with, KTMB.
 
-Transfer of
+<!-- marginal: Transfer of -->
 
-7. All amounts standing to each depositor's credit in the depositors' Fund that represent contributions to the Fund both by the funds to the Employees Malayan Railway Administration as the employer and Provident the depositor since 1st July 1952 together with any Fund. dividend, bonus and interest thereon shall be transferred to the Employees Provident Fund established under Act 452 subsection 24(1) of the Employees Provident Fund Act 1991, and to be dealt with in accordance with the provisions of that Act.
+5. Subject to section 7 all moneys in the Fund or due to
 
-Continuance
+<!-- marginal: moneys. -->
 
-8. (1) Any civil proceedings or cause of action of civil pending or existing immediately before
+be paid to the Fund shall, on the commencement of this Act, be transferred to, and be vested with, KTMB.
+
+<!-- marginal: Existing -->
+
+6. All deeds, bonds, agreements, instruments and
+
+<!-- marginal: contracts. -->
+
+working arrangements subsisting immediately before the commencement of this Act and affecting any of the property transferred under sections 4 and 5, shall be of full force and effect against or in favour of KTMB and enforceable as fully and effectually as if, instead of the Board, the Fund, the Malayan Railway Administration, or any person or body acting on its behalf, KTMB had been named therein or had been a party thereto.
+
+<!-- marginal: Transfer of -->
+
+7. All amounts standing to each depositor's credit in the
+
+<!-- marginal: depositors' -->
+
+Fund that represent contributions to the Fund both by the
+
+<!-- marginal: funds to the -->
+
+<!-- marginal: Employees -->
+
+Malayan Railway Administration as the employer and
+
+<!-- marginal: Provident -->
+
+the depositor since 1st July 1952 together with any
+
+<!-- marginal: Fund. -->
+
+dividend, bonus and interest thereon shall be transferred to the Employees Provident Fund established under
+
+<!-- marginal: Act 452 -->
+
+subsection 24(1) of the Employees Provident Fund Act 1991, and to be dealt with in accordance with the provisions of that Act.
+
+<!-- marginal: Continuance -->
+
+8. (1) Any civil proceedings or cause of action
+
+<!-- marginal: of civil -->
+
+pending or existing immediately before
 
 <!-- marginal: the -->
 
-proceedings. commencement of this Act by or against the Board or any person acting on its behalf may be continued or instituted by or against KTMB as it might have been by or against the Board or such person as if this Act had not been passed.
+<!-- marginal: proceedings. -->
+
+commencement of this Act by or against the Board or any person acting on its behalf may be continued or instituted by or against KTMB as it might have been by or against the Board or such person as if this Act had not been passed.
 
 <!-- page 3 -->
 
@@ -102,6 +146,4 @@ This Bill seeks to repeal the Malayan Railway Provident Fund Ordinance 1952, to 
 
 ## IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure.
-
-<!-- marginal: [PN. (U2) 1781.] -->
+This Bill will not involve the Government in any extra financial expenditure. [PN. (U2) 1781.]

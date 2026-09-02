@@ -6,27 +6,33 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Pemakaian dalam wilayah dan luar wilayah 3. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENTADBIRAN
 
 4. Fungsi dan kuasa Ketua Pengarah dan pegawai lain 5. Orang yang dilantik atau diambil kerja hendaklah menjadi pekhidmat awam 6. Pengiktirafan jawatan 7. Kerahsiaan maklumat 8. Ketua Pengarah boleh menghantar, dsb., dokumen dsb.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PENGENAAN DAN SKOP LEVI PELEPASAN
 
-9. Pengenaan levi pelepasan 10. Levi pelepasan yang genap masa 11. Kadar levi pelepasan 12. Membayar balik levi pelepasan
+9. Pengenaan levi pelepasan
+
+10. Levi pelepasan yang genap masa
+
+11. Kadar levi pelepasan
+
+12. Membayar balik levi pelepasan
 
 <!-- page 2 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENDAFTARAN
 
@@ -38,7 +44,7 @@
 
 16. Pemberitahuan pemberhentian tanggungan dan pembatalan pendaftaran
 
-## Bahagian V
+## BAHAGIAN V
 
 ## REKOD, PENYATA, TAKSIRAN DAN MENDAPATKAN BALIK
 
@@ -70,7 +76,7 @@
 
 30. Tanggungan pengarah, dsb.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PENGECUALIAN, PEREMITAN DAN PEMBAYARAN BALIK
 
@@ -80,25 +86,57 @@
 
 <!-- page 3 -->
 
-33. Pembayaran balik levi pelepasan yang terlebih bayar atau dibayar secara silap, dsb. 34. Pembayaran balik apabila Ketua Pengarah berpuas hati dan dengan keterangan sokongan
+33. Pembayaran balik levi pelepasan yang terlebih bayar atau dibayar secara silap, dsb.
 
-## Bahagian VII
+34. Pembayaran balik apabila Ketua Pengarah berpuas hati dan dengan keterangan sokongan
+
+## BAHAGIAN VII
 
 ## PENGUATKUASAAN
 
 35. Kuasa penguatkuasaan, pemeriksaan dan penyiasatan
 
-## Bahagian Viii
+## BAHAGIAN VIII
 
 ## KESALAHAN
 
-36. Halangan 37. Penyata tidak betul dan yang terkurang dibayar 38. Pengelakan levi pelepasan, fraud 39. Keengganan untuk menjawab soalan atau memberi maklumat palsu 40. Percubaan dan pensubahatan 41. Penalti am 42. Kesalahan oleh syarikat, dsb. 43. Tanggungan seseorang bagi perbuatan, dsb., pekerja, dsb. 44. Levi pelepasan, dsb., yang kena dibayar walau apa pun apa-apa prosiding, dsb.
+36. Halangan
 
-## Bahagian IX
+37. Penyata tidak betul dan yang terkurang dibayar
+
+38. Pengelakan levi pelepasan, fraud
+
+39. Keengganan untuk menjawab soalan atau memberi maklumat palsu
+
+40. Percubaan dan pensubahatan
+
+41. Penalti am
+
+42. Kesalahan oleh syarikat, dsb.
+
+43. Tanggungan seseorang bagi perbuatan, dsb., pekerja, dsb.
+
+44. Levi pelepasan, dsb., yang kena dibayar walau apa pun apa-apa prosiding, dsb.
+
+## BAHAGIAN IX
 
 ## PERBICARAAN DAN PROSIDING
 
-45. Pendakwaan 46. Bidang kuasa untuk membicarakan kesalahan 47. Peruntukan keterangan 48. Nilai keterangan salinan notis elektronik 49. Pemenjaraan kerana tidak membayar denda 50. Tiada kos atau ganti rugi yang timbul daripada penyitaan boleh didapatkan balik melainkan jika penyitaan tanpa sebab yang munasabah atau sebab barangkali 51. Pengkompaunan kesalahan 52. Perintah mahkamah
+45. Pendakwaan
+
+46. Bidang kuasa untuk membicarakan kesalahan
+
+47. Peruntukan keterangan
+
+48. Nilai keterangan salinan notis elektronik
+
+49. Pemenjaraan kerana tidak membayar denda
+
+50. Tiada kos atau ganti rugi yang timbul daripada penyitaan boleh didapatkan balik melainkan jika penyitaan tanpa sebab yang munasabah atau sebab barangkali
+
+51. Pengkompaunan kesalahan
+
+52. Perintah mahkamah
 
 <!-- page 4 -->
 
@@ -106,7 +144,7 @@
 
 54. Perlindungan pemberi maklumat daripada diketahui
 
-## Bahagian X
+## BAHAGIAN X
 
 ## PELBAGAI
 
@@ -126,7 +164,7 @@
 
 62. Kuasa untuk membuat peraturan-peraturan
 
-## Bahagian XI
+## BAHAGIAN XI
 
 ## PERALIHAN
 
@@ -142,7 +180,7 @@ Suatu Akta untuk mengadakan peruntukan bagi pengenaan levi pelepasan ke atas ora
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -194,7 +232,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “tarikh efektif” ertinya tarikh yang ditetapkan di bawah subseksyen 1(3).
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENTADBIRAN
 
@@ -258,7 +296,7 @@ melakukan suatu kesalahan.
 
 <!-- page 11 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PENGENAAN DAN SKOP LEVI PELEPASAN
 
@@ -306,7 +344,7 @@ pada kadar yang dinyatakan oleh Menteri mengikut seksyen 11 Akta.
 
 <!-- page 13 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENDAFTARAN
 
@@ -354,7 +392,7 @@ hendaklah memberitahu Ketua Pengarah secara bertulis mengenai fakta itu enam pul
 
 <!-- page 15 -->
 
-## Bahagian V
+## BAHAGIAN V
 
 ## REKOD, PENYATA, TAKSIRAN DAN MENDAPATKAN BALIK
 
@@ -520,7 +558,7 @@ Akta Had Masa 1953, seksyen 3 Ordinan Had Masa Sabah atau seksyen 3 Ordinan Had 
 
 (2) Berhubung dengan suatu syarikat yang sedang digulung, pengarah syarikat itu hendaklah hanya bertanggungan jika aset syarikat itu tidak mencukupi untuk menjelaskan amaun yang terhutang, selepas membayar apa-apa jumlah wang yang mempunyai keutamaan di bawah Akta Syarikat 2016 [Akta 777] berhubung dengan penggunaan aset syarikat itu dalam penggulungan itu berbanding dengan levi pelepasan atau penalti itu.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PENGECUALIAN, PEREMITAN DAN PEMBAYARAN BALIK
 
@@ -580,7 +618,7 @@ Akta Had Masa 1953, seksyen 3 Ordinan Had Masa Sabah atau seksyen 3 Ordinan Had 
 
 <!-- page 25 -->
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PENGUATKUASAAN
 
@@ -588,7 +626,7 @@ Akta Had Masa 1953, seksyen 3 Ordinan Had Masa Sabah atau seksyen 3 Ordinan Had 
 
 35. Bagi maksud Akta ini, tiap-tiap pegawai kastam hendaklah mempunyai semua kuasa yang diberikan di bawah Akta Kastam 1967, dan kuasa itu hendaklah sebagai tambahan kepada kuasa yang diperuntukkan di bawah Akta ini dan tidak mengurangkannya.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## KESALAHAN
 
@@ -712,7 +750,7 @@ orang itu boleh dikenakan hukuman atau penalti yang sama bagi tiap-tiap perbuata
 
 <!-- page 31 -->
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## PERBICARAAN DAN PROSIDING
 
@@ -832,7 +870,7 @@ dengan dua bulan tambahan bagi setiap sepuluh ribu ringgit selepas dua puluh rib
 
 (3) Jika dalam apa-apa perbicaraan bagi apa-apa kesalahan di bawah Akta ini, mahkamah itu, selepas memeriksa sepenuhnya kes itu, mempercayai bahawa pemberi maklumat itu dengan sengaja dalam aduannya suatu pernyataan yang material yang diketahuinya sebagai palsu atau tidak dipercayainya sebagai benar, atau jika dalam apa-apa prosiding lain mahkamah berpendapat bahawa keadilan tidak dapat dijalankan sepenuhnya antara pihak- pihak dalam prosiding itu tanpa pemberi maklumat itu diketahui, adalah sah bagi mahkamah untuk menghendaki pengemukaan aduan asal, jika secara bertulis, dan membenarkan pemeriksaan, dan menghendaki penzahiran penuh berkenaan dengan pemberi maklumat itu.
 
-## Bahagian X
+## BAHAGIAN X
 
 ## PELBAGAI
 
@@ -968,7 +1006,7 @@ dengan dua bulan tambahan bagi setiap sepuluh ribu ringgit selepas dua puluh rib
 
 (3) Apa-apa peraturan-peraturan yang dibuat di bawah seksyen ini boleh menetapkan suatu tindakan atau peninggalan yang melanggar peraturan-peraturan itu sebagai suatu kesalahan dan boleh menetapkan hukuman denda tidak melebihi lima puluh ribu ringgit atau dipenjarakan bagi tempoh tidak melebihi satu tahun atau kedua-duanya bagi kesalahan itu.
 
-## Bahagian XII
+## BAHAGIAN XII
 
 ## PERALIHAN
 
@@ -992,7 +1030,7 @@ dengan dua bulan tambahan bagi setiap sepuluh ribu ringgit selepas dua puluh rib
 
 Rang Undang-undang Levi Pelepasan 2019 yang dicadangkan ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan peruntukan bagi pengenaan dan pemungutan levi pelepasan, dan bagi perkara-perkara yang berkaitan dengannya. Akta yang dicadangkan memperuntukkan pelaksanaan levi baharu iaitu levi pelepasan ke atas mana-mana orang yang meninggalkan Malaysia.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I memperkatakan perkara permulaan.
 
@@ -1002,7 +1040,7 @@ Rang Undang-undang Levi Pelepasan 2019 yang dicadangkan ini (“Akta yang dicada
 
 5. Fasal 3 mengandungi takrif bagi perkataan dan ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 6. Bahagian II memperkatakan pentadbiran mengenai perkara yang berhubungan dengan levi pelepasan.
 
@@ -1018,7 +1056,7 @@ Rang Undang-undang Levi Pelepasan 2019 yang dicadangkan ini (“Akta yang dicada
 
 11. Fasal 8 bertujuan untuk memberi Ketua Pengarah kuasa untuk menghantar atau menyampaikan apa-apa dokumen, maklumat, penyata atau perisytiharan atau apa-apa yang terkandung dalam dokumen, maklumat, penyata atau perisytiharan itu kepada Ketua Perangkaan Jabatan Perangkaan Malaysia. Fasal ini selanjutnya memperuntukkan bahawa Menteri boleh membenarkan Ketua Pengarah untuk menghantar atau menyampaikan apa-apa dokumen, maklumat, penyata atau perisytiharan atau apa-apa yang terkandung dalam dokumen, maklumat penyata atau perisytiharan itu kepada mana-mana orang yang difikirkan sesuai oleh Menteri.
 
-## Bahagian iii
+## BAHAGIAN III
 
 12. Bahagian III memperkatakan peruntukan yang berhubungan dengan pengenaan dan skop levi pelepasan.
 
@@ -1034,7 +1072,7 @@ levi pelepasan hendaklah ditetapkan oleh Menteri mengikut fasal 11 Akta yang dic
 
 16. Fasal 12 bertujuan untuk mengadakan peruntukan bagi pembayaran balik levi pelepasan kepada orang yang kepadanya levi pelepasan telah dibayar tertakluk kepada tuntutan bagi pembayaran balik itu dibuat secara bertulis kepada Ketua Pengarah dalam tempoh satu tahun dari tarikh perintah yang disebut dalam subfasal 11(2) Akta yang dicadangkan terhenti berkuat kuasa. Fasal ini selanjutnya memberi Ketua Pengarah kuasa untuk mengurangkan atau tidak membenarkan pembayaran balik levi pelepasan jika pembayaran balik levi pelepasan itu boleh dengan tidak patut boleh memperkaya orang yang membuat tuntutan itu. Apa-apa tuntutan hendaklah disokong dengan keterangan sebagaimana yang dikehendaki oleh Ketua Pengarah.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 17. Bahagian IV mengandungi peruntukan yang berhubungan dengan pendaftaran pengendali sebagai orang berdaftar di bawah Akta yang dicadangkan.
 
@@ -1050,7 +1088,7 @@ memohon pendaftaran dan tarikh kuat kuasa untuk pendaftaran ialah pada hari pert
 
 21. Fasal 16 bertujuan untuk menghendaki mana-mana orang berdaftar untuk memberitahu Ketua Pengarah jika berniat untuk berhenti beroperasi sebagai pengendali atau ejen enam puluh hari sebelum tarikh pemberhentian. Apabila menerima pemberitahuan itu, Ketua Pengarah boleh membatalkan pendaftaran orang berdaftar itu pada tarikh yang ditentukan oleh Ketua Pengarah.
 
-## Bahagian V
+## BAHAGIAN V
 
 22. Bahagian V mengandungi peruntukan berhubungan dengan rekod, penyata, taksiran dan mendapatkan balik.
 
@@ -1084,7 +1122,7 @@ memohon pendaftaran dan tarikh kuat kuasa untuk pendaftaran ialah pada hari pert
 
 36. Fasal 30 bertujuan untuk mengadakan peruntukan bagi tanggungan pengarah syarikat, pegawai pematuhan perkongsian liabiliti terhad, pekongsi firma, pemegang jawatan pertubuhan atau orang yang bertanggungjawab bagi pengurusan kumpulan orang itu untuk apa-apa levi pelepasan yang genap masa dan kena dibayar atau penalti yang kena dibayar oleh syarikat, perkongsian liabiliti terhad, firma, pertubuhan atau kumpulan orang itu.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 37. Bahagian IV mengandungi peruntukan berhubungan dengan pengecualian, peremitan dan pembayaran balik levi pelepasan.
 
@@ -1100,13 +1138,13 @@ mana-mana bahagian levi pelepasan, atau mengecualikan mana-mana pengendali darip
 
 41. Fasal 34 bertujuan untuk memperuntukkan bahawa Ketua Pengarah boleh membayar balik levi pelepasan atau penalti itu jika berpuas hati bahawa pembayaran lebih itu telah berlaku. Apa-apa tuntutan hendaklah disokong dengan keterangan sebagaimana dikehendaki oleh Ketua Pengarah.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 42. Bahagian VII mengandungi peruntukan berhubungan dengan penguatkuasaan.
 
 43. Fasal 35 memperuntukkan bahawa setiap pegawai kastam hendaklah mempunyai kuasa di bawah Akta Kastam 1967 [Act 235].
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 44. Bahagian VIII memperkatakan pelbagai kesalahan dan hukuman di bawah Akta yang dicadangkan.
 
@@ -1130,7 +1168,7 @@ mana-mana bahagian levi pelepasan, atau mengecualikan mana-mana pengendali darip
 
 53. Fasal 44 bertujuan untuk mengadakan peruntukan bagi tanggungan seseorang untuk membayar levi pelepasan atau penalti walau apa pun permulaan suatu prosiding atau pengenaan penalti, denda atau pemenjaraan atau pengkompaunan suatu kesalahan.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 54. Bahagian IX memperkatakan peruntukan yang berhubungan dengan perbicaraan dan prosiding.
 
@@ -1156,7 +1194,7 @@ mana-mana bahagian levi pelepasan, atau mengecualikan mana-mana pengendali darip
 
 64. Fasal 54 bertujuan untuk menghendaki seorang saksi untuk tidak mendedahkan maklumat yang berhubungan dengan seorang pemberi maklumat yang boleh membawa kepada pemberi maklumat itu dikesan. Ia juga mengadakan peruntukan bagi suatu catatan dalam buku, dokumen atau kertas untuk disembunyikan atau dipadamkan bagi melindungi pemberi maklumat daripada dikesan semasa pemeriksaan buku, dokumen atau kertas dalam prosiding dan membenarkan mahkamah untuk menghendaki pengemukaan aduan asal atau pendedahan penuh mengenai pemberi maklumat jika mahkamah mendapati pemberi maklumat itu telah membuat pernyataan palsu yang material atau keadilan tidak dapat dijalankan dengan sepenuhnya tanpa diketahui pemberi maklumat itu.
 
-## Bahagian X
+## BAHAGIAN X
 
 65. Bahagian X memperkatakan peruntukan pelbagai.
 
@@ -1180,7 +1218,7 @@ mana-mana bahagian levi pelepasan, atau mengecualikan mana-mana pengendali darip
 
 <!-- page 53 -->
 
-## Bahagian XI
+## BAHAGIAN XI
 
 74. Bahagian XI memperkatakan peruntukan peralihan.
 

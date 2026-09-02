@@ -94,7 +94,35 @@ shall, within two months of his arrival give notice to the Director General that
 
 ### New section 77A
 
-8. The principal Act is amended by inserting after section 77 the following section: " Return of 77A. (1) Every company, trust body or co-operative society income by shall for each year of assessment furnish to the Director every company, General a return in the prescribed form within six months trust body from the date following the close of the accounting period or co- which constitutes the basis period for the year of assessment. operative society. (2) Notwithstanding subsection (1), where there is a change in the accounting period of a company, trust body or co-operative society such that the accounts are not closed on any date in a year, that company, trust body or co-operative society shall furnish to the Director General a return in the prescribed form for that year and the year of assessment in which the accounts are closed within six months from the date following the close of the accounting period.
+8. The principal Act is amended by inserting after section 77 the following section: "
+
+<!-- marginal: Return of -->
+
+77A. (1) Every company, trust body or co-operative society
+
+<!-- marginal: income by -->
+
+shall for each year of assessment furnish to the Director
+
+<!-- marginal: every -->
+
+<!-- marginal: company, -->
+
+General a return in the prescribed form within six months
+
+<!-- marginal: trust body -->
+
+from the date following the close of the accounting period
+
+<!-- marginal: or co- -->
+
+which constitutes the basis period for the year of assessment.
+
+<!-- marginal: operative -->
+
+<!-- marginal: society. -->
+
+(2) Notwithstanding subsection (1), where there is a change in the accounting period of a company, trust body or co-operative society such that the accounts are not closed on any date in a year, that company, trust body or co-operative society shall furnish to the Director General a return in the prescribed form for that year and the year of assessment in which the accounts are closed within six months from the date following the close of the accounting period.
 
 (3) For the purposes of this section, a return for a year of assessment shall—
 
@@ -140,7 +168,17 @@ shall for each year of assessment furnish to the Director General a return in th
 
 ### "
 
-Assess- 90. ( 1) Where a person has furnished a return in ments accordance with section 77 or 77A to the Director General generally. for a year of assessment, the Director General shall be deemed to have made, on the day on which the return is furnished, an assessment in respect of that person in the amount of tax on the chargeable income, the tax and the chargeable income being the respective amounts as specified in the return.
+<!-- marginal: Assess- -->
+
+90. ( 1) Where a person has furnished a return in
+
+<!-- marginal: ments -->
+
+accordance with section 77 or 77A to the Director General
+
+<!-- marginal: generally. -->
+
+for a year of assessment, the Director General shall be deemed to have made, on the day on which the return is furnished, an assessment in respect of that person in the amount of tax on the chargeable income, the tax and the chargeable income being the respective amounts as specified in the return.
 
 (2) For the purposes of this Act, where the Director General is deemed to have made an assessment under subsection (1)—
 
@@ -190,7 +228,9 @@ liability otherwise incurred by that person by reason of his failure to deliver 
 
 section 101(2), the tax payable under the assessment or increased assessment shall, on the service of the notice of assessment or composite assessment or increased assessment, as the case may be, be due and payable on the person assessed at the place specified in that notice whether or not that person appeals against the assessment or increased assessment.
 
-(3) Where any tax due and payable under subsection (1) has not been paid by the due date, so much of the tax as is unpaid upon the expiration of that date shall without any further notice being served be increased by a sum equal to ten per cent of the tax so unpaid, and that sum shall be recoverable as if it were tax due and payable under this Act.
+(3) Where any tax due and payable under subsection
+
+(1) has not been paid by the due date, so much of the tax as is unpaid upon the expiration of that date shall without any further notice being served be increased by a sum equal to ten per cent of the tax so unpaid, and that sum shall be recoverable as if it were tax due and payable under this Act.
 
 (4) Where the tax due and payable has been increased under subsection (3), any balance remaining unpaid upon the expiration of sixty days from the due date shall without any further notice being served be further increased by a sum equal to five per cent of the balance unpaid, and that sum shall be recoverable as if it were tax due and payable under this Act.
 
@@ -442,7 +482,9 @@ B is the number of months in the basis period in relation to that source for the
 
 (ii) in relation to a source other than a business, the amount of the statutory income ascertained under section 42 of the principal Act from that source for the year of assessment 2003;
 
-(b) next, his aggregate income for that period shall consist of—
+(b) next, his aggregate income for that period shall consist
+
+<!-- marginal: of— -->
 
 (i) the aggregate of the amount of his statutory income ascertained under subparagraph (a)(i) from each of his sources consisting of a business, reduced by any deduction, if any, falling to be made for the year of assessment 2003 in accordance with subsection 43(2) of the principal Act:
 
@@ -578,9 +620,7 @@ The proposed amendment also provides that the tax payable shall be due and payab
 
 These amendments will have effect for the year of assessment 2004 and subsequent years of assessment.
 
-11. Clause 16 seeks to delete section 103A of Act 53. Section 103A is deleted as the payment of tax by companies is now provided for under the new section
-
-103.
+11. Clause 16 seeks to delete section 103A of Act 53. Section 103A is deleted as the payment of tax by companies is now provided for under the new section 103.
 
 This amendment will have effect for the year of assessment 2004 and subsequent years of assessment.
 

@@ -12,7 +12,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
-1. (1) Akta ini bolehlah dinamakan Akta Perubatan (Pindaan) 2012.
+1. (1) Akta ini bolehlah dinamakan Akta Perubatan (Pindaan)
+
+2012.
 
 (2) Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
 
@@ -160,7 +162,9 @@ dalam perkhidmatan awam selepas pendaftaran penuh sebagai pengamal perubatan; da
 
 <!-- page 7 -->
 
-(6) Seseorang boleh dilantik sebagai ahli di bawah perenggan (1)(b), (c) atau (d) atau dipilih di bawah perenggan (1)(e),
+(6) Seseorang boleh dilantik sebagai ahli di bawah perenggan
+
+(1)(b), (c) atau (d) atau dipilih di bawah perenggan (1)(e),
 
 (f) atau (g) walaupun dahulunya dia telah menjadi seorang ahli di bawah perenggan (1)(b), (c), (d), (e), (f) atau (g).
 
@@ -242,7 +246,9 @@ dengan cara lain terhenti menjadi ahli oleh sebab mana-mana peruntukan Akta ini,
 
 (c) pada bila-bila masa namanya telah dipotong daripada Daftar atau telah disingkirkan daripada Daftar pengamal perubatan yang disenggarakan di mana-mana tempat di luar Malaysia.
 
-(2) Seseorang pengamal perubatan berdaftar penuh yang namanya telah digantung dari Daftar, atau yang telah dikenakan celaan di bawah seksyen 30 adalah tidak layak untuk dinamakan, dilantik atau dipilih, mengikut mana-mana yang berkenaan, di bawah perenggan 3a(1)(b), (c), (d), (e), (f) atau (g)—
+(2) Seseorang pengamal perubatan berdaftar penuh yang namanya telah digantung dari Daftar, atau yang telah dikenakan celaan di bawah seksyen 30 adalah tidak layak untuk dinamakan, dilantik atau dipilih, mengikut mana-mana yang berkenaan, di bawah perenggan 3a(1)(b), (c), (d), (e),
+
+(f) atau (g)—
 
 (a) dalam hal sesuatu penggantungan, untuk suatu tempoh enam tahun selepas tamat penggantungan sedemikian; atau
 
@@ -866,7 +872,9 @@ dibuat, dan hendaklah selepas itu, selagi perintah itu terus berkuat kuasa, meng
 
 (d) jika berpuas hati bahawa kepentingan awam atau kepentingan pengamal perubatan berdaftar yang berkenaan memadai dipenuhi dengan perintah sekatan pendaftaran sementara, menggantikan penggantungan sementara itu dengan perintah sekatan pendaftaran sementara bagi baki tempoh perintah yang dahulu.
 
-(5) Pendaftar hendaklah dengan serta-merta menyampaikan suatu pemberitahuan mengenai keputusan di bawah subseksyen (4) kepada pengamal perubatan berdaftar itu.
+(5) Pendaftar hendaklah dengan serta-merta menyampaikan suatu pemberitahuan mengenai keputusan di bawah subseksyen
+
+(4) kepada pengamal perubatan berdaftar itu.
 
 <!-- page 34 -->
 
@@ -1284,7 +1292,9 @@ Seksyen 14c yang dicadangkan memperuntukkan tatacara bagi kelulusan pendaftaran 
 
 24. Fasal 23 bertujuan untuk meminda nota bahu di seksyen 27 Akta 50 dengan menggantikan perkataan “Perakuan perubatan” dengan perkataan “Perakuan dan dokumen” supaya selaras dengan isi kandungan seksyen tersebut.
 
-25. Fasal 24 bertujuan untuk meminda seksyen 29 Akta 50. Perenggan baru (2)(aa) dimasukkan bagi memberi kuasa kepada Majlis untuk mempunyai bidang kuasa disiplin terhadap semua pengamal perubatan berdaftar yang kelayakannya telah ditarik balik atau dibatalkan oleh pihak berkuasa yang mengawardnya. Subseksyen baru (3) bertujuan untuk memberi kuasa kepada Majlis untuk mewujudkan suatu mekanisme bagi menyiasat aduan atau maklumat yang diterima terhadap pengamal perubatan.
+25. Fasal 24 bertujuan untuk meminda seksyen 29 Akta 50. Perenggan baru
+
+(2)(aa) dimasukkan bagi memberi kuasa kepada Majlis untuk mempunyai bidang kuasa disiplin terhadap semua pengamal perubatan berdaftar yang kelayakannya telah ditarik balik atau dibatalkan oleh pihak berkuasa yang mengawardnya. Subseksyen baru (3) bertujuan untuk memberi kuasa kepada Majlis untuk mewujudkan suatu mekanisme bagi menyiasat aduan atau maklumat yang diterima terhadap pengamal perubatan.
 
 26. Fasal 25 bertujuan untuk memasukkan seksyen 29a ke dalam Akta 50 yang mengandungi peruntukan tentang perintah sementara yang boleh dikenakan ke atas pengamal yang sedang dalam siasatan.
 

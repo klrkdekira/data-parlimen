@@ -8,11 +8,7 @@
 
 bernama
 
-Suatu Akta untuk meminda Akta
-
-<!-- marginal: Jalan-Jalan -->
-
-Persek'utuan (Pengurusan Persendirian) 1984.
+Suatu Akta untuk meminda Akta Jalan-Jalan Persek'utuan (Pengurusan Persendirian) 1984.
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 
@@ -28,9 +24,7 @@ Persekutuan (Pengurusan Persendirian) (Pindaan) 1993.
 
 <!-- marginal: Seksyen -->
 
-2. Akta Jalan-Jalan Persekutuan
-
-<!-- marginal: (Pengurusan -->
+2. Akta Jalan-Jalan Persekutuan (Pengurusan
 
 <!-- marginal: baru 8. -->
 
@@ -42,11 +36,7 @@ selepas seksyen 7 seksyen yang berikut:
 
 Kesalahan. 8. (1) Mana-mana orang yang menggunakan atau cuba menggunakan mana-mana jalan, jambatan atau feri yang berkenaan dengannya suatu perintah telah dibuat di bawah seksyen 2 tanpa membayar tol yang ditetapkan dalam perintah itu adalah melakukan suatu kesalahan dan, apabila disabitkan, hendaklah dihukum dengan hukuman denda tidak kurang daripada dua ribu ringgit dan tidak lebih daripada lima ribu ringgit.
 
-(2) Walau apa pun subseksyen (1) tol yang kena dibayar menurut kuasa suatu perintah yang dibuat menurut seksyen 2 bolehlah didapatkan melalui tindakan di sisi undang- undang oleh orang yang
-
-<!-- marginal: diberikuasa -->
-
-sedemikian di bawah seksyen tersebut.
+(2) Walau apa pun subseksyen (1) tol yang kena dibayar menurut kuasa suatu perintah yang dibuat menurut seksyen 2 bolehlah didapatkan melalui tindakan di sisi undang- undang oleh orang yang diberikuasa sedemikian di bawah seksyen tersebut.
 
 <!-- page 2 -->
 

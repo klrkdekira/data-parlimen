@@ -68,4 +68,6 @@ The other amendment made by this subclause is to delete paragraph 30( 1)(mmmm) o
 
 ## IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure. [PN(U2)2200]
+This Bill will not involve the Government in any extra financial expenditure.
+
+<!-- marginal: [PN(U2)2200] -->

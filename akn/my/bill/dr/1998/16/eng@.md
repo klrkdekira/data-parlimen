@@ -16,13 +16,27 @@
 
 ## THE COMMISSION
 
-4. Establishment of Commission. 5. Common seal. 6. Membership of Commission. 7. Schedule. 8. Statutory declaration by members of Commission. 9. Approval to hold other office. 10. Tenure of office. 11. Remuneration and allowances. 12. Revocation of appointment and resignation. 13. Vacation of office. 14. Temporary exercise of functions of Chairman. 15. Committees.
+4. Establishment of Commission. 5. Common seal. 6. Membership of Commission. 7. Schedule. 8. Statutory declaration by members of Commission. 9. Approval to hold other office.
+
+10. Tenure of office.
+
+11. Remuneration and allowances.
+
+12. Revocation of appointment and resignation.
+
+13. Vacation of office.
+
+14. Temporary exercise of functions of Chairman.
+
+15. Committees.
 
 ## PART III
 
 ## POWERS AND FUNCTIONS OF COMMISSION
 
-16. Powers and functions of Commission. 17. Delegation of power.
+16. Powers and functions of Commission.
+
+17. Delegation of power.
 
 <!-- page 2 -->
 
@@ -32,23 +46,89 @@
 
 ## EMPLOYEES OF COMMISSION
 
-20. Chairman shall be chief executive. 21. Temporary exercise of functions of chief executive. 22. Appointment of employees. 23. Conditions of service. 24. Loans and advances. 25. Payment of retirement benefits, etc. 26. Discipline. 27. Disciplinary committees. 28. Disciplinary regulations. 29. Disciplinary Appeal Board. 30. Termination of service on grounds of public interest. 31. Imposition of surcharge. 32. Show cause notice before surcharge. 33. Amount of surcharge. 34. Notification of surcharge. 35. Withdrawal of surcharge. 36. Recovery of surcharge. 37. Commission may adopt regulations, etc.
+20. Chairman shall be chief executive.
+
+21. Temporary exercise of functions of chief executive.
+
+22. Appointment of employees.
+
+23. Conditions of service.
+
+24. Loans and advances.
+
+25. Payment of retirement benefits, etc.
+
+26. Discipline.
+
+27. Disciplinary committees.
+
+28. Disciplinary regulations.
+
+29. Disciplinary Appeal Board.
+
+30. Termination of service on grounds of public interest.
+
+31. Imposition of surcharge.
+
+32. Show cause notice before surcharge.
+
+33. Amount of surcharge.
+
+34. Notification of surcharge.
+
+35. Withdrawal of surcharge.
+
+36. Recovery of surcharge.
+
+37. Commission may adopt regulations, etc.
 
 ## PART V
 
 ## FINANCE
 
-38. The Fund. 39. Expenditure to be charged on Fund. 40. Conservation of Fund. 41. Expenditure and preparation of estimates.
+38. The Fund.
+
+39. Expenditure to be charged on Fund.
+
+40. Conservation of Fund.
+
+41. Expenditure and preparation of estimates.
 
 <!-- page 3 -->
 
-Multimedia Commission 42. Bank accounts. 43. Power to borrow. 44. Investment. 45. Limitation on contracts. 46. Financial year. 47. Accounts. 48. Non-application of Statutory Bodies (Accounts and Annual Reports) Act 1980.
+Multimedia Commission
+
+42. Bank accounts.
+
+43. Power to borrow.
+
+44. Investment.
+
+45. Limitation on contracts.
+
+46. Financial year.
+
+47. Accounts.
+
+48. Non-application of Statutory Bodies (Accounts and Annual Reports) Act 1980.
 
 ## PART VI
 
 ## GENERAL
 
-49. Appointment and power of investigating officers. 50. Public servant. 51. Public Authorities Protection Act 1948. 52. Obligation of secrecy. 53. Representation in civil proceedings. 54. Power to employ. 55. Things done in anticipation of the enactment of this Act.
+49. Appointment and power of investigating officers.
+
+50. Public servant.
+
+51. Public Authorities Protection Act 1948.
+
+52. Obligation of secrecy.
+
+53. Representation in civil proceedings.
+
+54. Power to employ.
+
+55. Things done in anticipation of the enactment of this Act.
 
 ## SCHEDULE
 
@@ -102,7 +182,17 @@ by the Minister by notification in the Gazette.
 
 ## THE COMMISSION
 
-Establishment 4. (1) It is hereby established a body corporate by of the name of "Malaysian Communications and Multimedia Commission. Commission".
+<!-- marginal: Establishment -->
+
+4. (1) It is hereby established a body corporate by
+
+<!-- marginal: of -->
+
+the name of "Malaysian Communications and Multimedia
+
+<!-- marginal: Commission. -->
+
+Commission".
 
 (2) The Commission shall have perpetual succession.
 
@@ -168,21 +258,59 @@ who shall be appointed by the Minister:
 
 (2) The Minister may amend the provisions of the Schedule by order published in the Gazette.
 
-Statutory 8. (1) No person shall be appointed as a member of the declaration Commission unless before such appointment such person by members of makes a statutory declaration whether he has any interest, Commission. financial or otherwise, in any undertaking involving communications and multimedia activities.
+<!-- marginal: Statutory -->
+
+8. (1) No person shall be appointed as a member of the
+
+<!-- marginal: declaration -->
+
+Commission unless before such appointment such person
+
+<!-- marginal: by members -->
+
+<!-- marginal: of -->
+
+makes a statutory declaration whether he has any interest,
+
+<!-- marginal: Commission. -->
+
+financial or otherwise, in any undertaking involving communications and multimedia activities.
 
 (2) If a member of the Commission acquires any interest, financial or otherwise, in any undertaking involving communications and multimedia activities he shall, within one month after such acquisition, give notice in writing to the Minister specifying the interest acquired, and the Minister, after taking the matter into consideration may, if he thinks fit, declare that the person has vacated his office.
 
-Approval to 9. The Chairman shall not, while holding such office, hold other hold any other office or employment, whether remunerated office. or not, without the Minister's written approval.
+<!-- marginal: Approval to -->
 
-Tenure of
+9. The Chairman shall not, while holding such office,
 
-10. (1) Members of the Commission shall each be office. appointed for a term of not less than two years but not more than five years.
+<!-- marginal: hold other -->
+
+hold any other office or employment, whether remunerated
+
+<!-- marginal: office. -->
+
+or not, without the Minister's written approval.
+
+<!-- marginal: Tenure of -->
+
+10. (1) Members of the Commission shall each be
+
+<!-- marginal: office. -->
+
+appointed for a term of not less than two years but not more than five years.
 
 (2) Members of the Commission shall be eligible for reappointment but no member shall hold office for more than two successive terms.
 
-Remuneration
+<!-- marginal: Remuneration -->
 
-11. (1) The Chairman shall be paid such remuneration and and allowances as the Minister may determine, after allowances. consultation with the Minister of Finance.
+11. (1) The Chairman shall be paid such remuneration
+
+<!-- marginal: and -->
+
+and allowances as the Minister may determine, after
+
+<!-- marginal: allowances. -->
+
+consultation with the Minister of Finance.
 
 <!-- page 9 -->
 
@@ -242,7 +370,17 @@ vacated—
 
 (i) if his resignation is accepted by the Minister.
 
-Temporary 14. The Minister may appoint any member to act as the exercise of Chairman— functions of Chairman.
+<!-- marginal: Temporary -->
+
+14. The Minister may appoint any member to act as the
+
+<!-- marginal: exercise of -->
+
+Chairman—
+
+<!-- marginal: functions of -->
+
+<!-- marginal: Chairman. -->
 
 (a) during any period when the office of the Chairman is vacant;
 
@@ -250,7 +388,7 @@ Temporary 14. The Minister may appoint any member to act as the exercise of Chai
 
 (c) during any period when the Chairman is, for any other reason, unable to perform the duties of his office.
 
-Committees.
+<!-- marginal: Committees. -->
 
 15. (1) The Commission may establish any committees as it considers necessary or expedient to assist it in the performance of its functions under the communications and multimedia laws.
 
@@ -326,9 +464,13 @@ laws and, without prejudice to the generality of the foregoing, the Commission s
 
 (2) The Commission shall have all such powers as may be necessary for, or in connection with, or reasonably incidental to, the performance of its functions under the communications and multimedia laws.
 
-Delegation of
+<!-- marginal: Delegation of -->
 
-17. (1) The Commission may, in writing, delegate any power. of the functions and powers imposed or conferred on it by the communications and multimedia laws, except the power to make subsidiary legislation, to—
+17. (1) The Commission may, in writing, delegate any
+
+<!-- marginal: power. -->
+
+of the functions and powers imposed or conferred on it by the communications and multimedia laws, except the power to make subsidiary legislation, to—
 
 (a) the Chairman;
 
@@ -380,9 +522,19 @@ Minister, such returns, reports, accounts and information with respect to its ac
 
 ## EMPLOYEES OF COMMISSION
 
-Chairman
+<!-- marginal: Chairman -->
 
-20. (1) Without prejudice to the other provisions of shall be this Act, the Chairman shall also be the chief executive chief of the Commission. executive.
+20. (1) Without prejudice to the other provisions of
+
+<!-- marginal: shall be -->
+
+this Act, the Chairman shall also be the chief executive
+
+<!-- marginal: chief -->
+
+of the Commission.
+
+<!-- marginal: executive. -->
 
 (2) The Commission shall vest in the chief executive such power and impose upon him such duties as may be determined by the Commission.
 
@@ -394,17 +546,39 @@ Chairman
 
 (6) In discharging his duties, the chief executive shall act under the general authority and directions of the Commission.
 
-Temporary
+<!-- marginal: Temporary -->
 
-21. The Minister may appoint any officer of the exercise of Commission to act as the chief executive— functions of chief
+21. The Minister may appoint any officer of the
 
-(a) during any period when the office of the Chairman executive. is vacant;
+<!-- marginal: exercise of -->
+
+Commission to act as the chief executive—
+
+<!-- marginal: functions of -->
+
+<!-- marginal: chief -->
+
+(a) during any period when the office of the Chairman
+
+<!-- marginal: executive. -->
+
+is vacant;
 
 (b) during any period when the Chairman is absent from duty or from Malaysia; and
 
 (c) during any period when the Chairman is, for any other reason, unable to perform the duties of the chief executive.
 
-Appointment 22. The Commission may appoint such number of of employees as it thinks desirable and necessary and upon employees. such terms as it considers appropriate for carrying out the purposes of the communications and multimedia laws.
+<!-- marginal: Appointment -->
+
+22. The Commission may appoint such number of
+
+<!-- marginal: of -->
+
+employees as it thinks desirable and necessary and upon
+
+<!-- marginal: employees. -->
+
+such terms as it considers appropriate for carrying out the purposes of the communications and multimedia laws.
 
 <!-- page 15 -->
 
@@ -464,9 +638,13 @@ disciplinary committees for different categories of its employees.
 
 take disciplinary action and impose any disciplinary punishment or any combination of two or more disciplinary punishments as may be provided for under any disciplinary regulations made under section 28.
 
-Disciplinary
+<!-- marginal: Disciplinary -->
 
-28. (1) The Commission may, with the approval of the regulations. Minister, make regulations to provide for the discipline of its employees.
+28. (1) The Commission may, with the approval of the
+
+<!-- marginal: regulations. -->
+
+Minister, make regulations to provide for the discipline of its employees.
 
 (2) The disciplinary regulations made under this section—
 
@@ -492,19 +670,11 @@ not expedient to carry out the requirements of this paragraph; or
 
 (iii) where there has been—
 
-(A) made against an employee any order of detention, supervision, restricted residence, banishment
-
-<!-- marginal: or -->
-
-deportation; or
+(A) made against an employee any order of detention, supervision, restricted residence, banishment or deportation; or
 
 (B) imposed on an employee any form of restriction or supervision by bond or otherwise,
 
-under any law relating to the security of Malaysia or any part of Malaysia, prevention of crime, preventive detention, restricted residence,
-
-<!-- marginal: banishment, -->
-
-immigration, or protection of women and girls;
+under any law relating to the security of Malaysia or any part of Malaysia, prevention of crime, preventive detention, restricted residence, banishment, immigration, or protection of women and girls;
 
 (d) may provide for the interdiction with reduced emoluments of an employee during the pendency of a criminal proceeding against him or disciplinary proceeding against him with the view to his dismissal or reduction in rank;
 
@@ -538,9 +708,23 @@ consist of the following members:
 
 (3) The Disciplinary Appeal Board may confirm, reverse or vary the decision of a disciplinary committee.
 
-Termination
+<!-- marginal: Termination -->
 
-30. (1) Where the Commission finds or where of service on representations are made to the Commission that it is grounds of public desirable that the service of an employee be terminated interest. in the public interest, the Commission may call for a full report from the superior officer of the employee which shall contain particulars relating to the work and conduct of the employee.
+30. (1) Where the Commission finds or where
+
+<!-- marginal: of service on -->
+
+representations are made to the Commission that it is
+
+<!-- marginal: grounds of -->
+
+<!-- marginal: public -->
+
+desirable that the service of an employee be terminated
+
+<!-- marginal: interest. -->
+
+in the public interest, the Commission may call for a full report from the superior officer of the employee which shall contain particulars relating to the work and conduct of the employee.
 
 (2) If, after considering the report received under subsection (1), the Commission is satisfied that having regard to the conditions of service, the usefulness of the employee, the work and conduct of the employee and all the other circumstances of the case, it is desirable in the public interest so to do, the Commission may terminate the service of the employee with effect from such date as the Commission shall specify.
 
@@ -582,19 +766,53 @@ the Commission may be surcharged if it appears to the Commission that the person
 
 (c) the duty of receiving, keeping in custody, disposing of, or accounting for, any store and property of the Commission or who in fact receives, holds, disposes or accounts for such store and property.
 
-Show cause 32. The Commission shall, before a person is surcharged, notice before serve on him a written notice calling on him to show surcharge. cause why he should not be surcharged.
+<!-- marginal: Show cause -->
 
-Amount of 33. If a satisfactory explanation is not received within surcharge. fourteen days from the date a notice is served on a person under section 32, the Commission may—
+32. The Commission shall, before a person is surcharged,
+
+<!-- marginal: notice before -->
+
+serve on him a written notice calling on him to show
+
+<!-- marginal: surcharge. -->
+
+cause why he should not be surcharged.
+
+<!-- marginal: Amount of -->
+
+33. If a satisfactory explanation is not received within
+
+<!-- marginal: surcharge. -->
+
+fourteen days from the date a notice is served on a person under section 32, the Commission may—
 
 (a) in the case of any of the acts or omissions mentioned in paragraphs 3 l ( l ) ( a ), (b) and (c), surcharge against the person a sum not exceeding the amount not collected, or of the improper payment made, or of the value of the deficiency in the property or of the property destroyed; and
 
 (b) in the case of any of the acts or omissions mentioned in paragraphs 31(l)(d) and (e), surcharge against the person, such sum as the Commission thinks fit.
 
-Notification 34. The Commission shall notify the person surcharged of surcharge. in respect of any surcharge made under section 33.
+<!-- marginal: Notification -->
 
-Withdrawal 35. Notwithstanding sections 33 and 34, the Commission of surcharge. may at any time withdraw any surcharge in respect of which a satisfactory explanation has been received or if it otherwise appears that no surcharge should have been made, and the Commission shall forthwith notify the person surcharged of the withdrawal.
+34. The Commission shall notify the person surcharged
 
-Recovery of 36. The amount of any surcharge made under section 33 surcharge. and not withdrawn under section 35 shall be a debt due to the Commission from the person surcharged and may be sued for and recovered in any court at the suit of the
+<!-- marginal: of surcharge. -->
+
+in respect of any surcharge made under section 33.
+
+<!-- marginal: Withdrawal -->
+
+35. Notwithstanding sections 33 and 34, the Commission
+
+<!-- marginal: of surcharge. -->
+
+may at any time withdraw any surcharge in respect of which a satisfactory explanation has been received or if it otherwise appears that no surcharge should have been made, and the Commission shall forthwith notify the person surcharged of the withdrawal.
+
+<!-- marginal: Recovery of -->
+
+36. The amount of any surcharge made under section 33
+
+<!-- marginal: surcharge. -->
+
+and not withdrawn under section 35 shall be a debt due to the Commission from the person surcharged and may be sued for and recovered in any court at the suit of the
 
 <!-- page 21 -->
 
@@ -704,23 +922,35 @@ or accounts with such bank or banks in Malaysia as the
 
 Commission thinks fit, after consulting the Minister; and every such account shall be operated upon as far as practicable by cheques signed by such person or persons as may, from time to time, be authorised by the Commission.
 
-Power to
+<!-- marginal: Power to -->
 
-43. The Commission may, from time to time, borrow in borrow. such form and at such rate of interest and for such period and upon such terms as to the time and method of repayment and otherwise, as the Minister may, with the concurrence of the Minister of Finance, approve, any money required by the Commission for meeting any of its obligations or discharging any of its duties.
+43. The Commission may, from time to time, borrow in
 
-Investment.
+<!-- marginal: borrow. -->
+
+such form and at such rate of interest and for such period and upon such terms as to the time and method of repayment and otherwise, as the Minister may, with the concurrence of the Minister of Finance, approve, any money required by the Commission for meeting any of its obligations or discharging any of its duties.
+
+<!-- marginal: Investment. -->
 
 44. The moneys of the Commission shall, in so far as they are not immediately required to be expended by the Commission under this Act, be invested in such manner as the Minister may, with the concurrence of the Minister of Finance, approve.
 
-Limitation on
+<!-- marginal: Limitation on -->
 
-45. The Commission shall not, without the approval of contracts. the Minister and the concurrence of the Minister of Finance, enter into any contract under which the Commission is to pay or receive an amount exceeding five million ringgit.
+45. The Commission shall not, without the approval of
 
-Financial
+<!-- marginal: contracts. -->
 
-46. The financial year of the Commission shall begin on year. 1 January and end on 31 December of each year.
+the Minister and the concurrence of the Minister of Finance, enter into any contract under which the Commission is to pay or receive an amount exceeding five million ringgit.
 
-Accounts.
+<!-- marginal: Financial -->
+
+46. The financial year of the Commission shall begin on
+
+<!-- marginal: year. -->
+
+1 January and end on 31 December of each year.
+
+<!-- marginal: Accounts. -->
 
 47. (1) The Commission shall cause proper accounts of the Fund to be kept and shall, as soon as practicable after the end of each financial year, cause to be prepared for that financial year a statement of accounts of the Commission which shall include a balance sheet and an account of income and expenditure.
 
@@ -830,9 +1060,17 @@ for the purposes of any civil or criminal proceedings
 
 (i) all other moneys lawfully received by the Commission, including interest.
 
-Expenditure
+<!-- marginal: Expenditure -->
 
-39. (1) The Fund shall be expended for the following to be purposes: charged on Fund.
+39. (1) The Fund shall be expended for the following
+
+<!-- marginal: to be -->
+
+purposes:
+
+<!-- marginal: charged on -->
+
+<!-- marginal: Fund. -->
 
 (a) paying any expenditure lawfully incurred by the Commission;
 
@@ -852,9 +1090,15 @@ under any written law or where otherwise authorised by the Commission—
 
 (2) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding one month or to both.
 
-Representation
+<!-- marginal: Representation -->
 
-53. Notwithstanding the provisions of any other written in civil law— proceedings.
+53. Notwithstanding the provisions of any other written
+
+<!-- marginal: in civil -->
+
+law—
+
+<!-- marginal: proceedings. -->
 
 (a) in any civil proceedings by or against the Commission; or
 
@@ -862,9 +1106,13 @@ Representation
 
 any person authorised by the Commission for the purpose may, on behalf of the Commission, institute such proceedings or appear therein and may make all appearances and applications and do all acts in respect of such proceedings on behalf of the Commission.
 
-Power to
+<!-- marginal: Power to -->
 
-54. The Commission may employ and pay agents and employ. technical advisers, including advocates and solicitors, bankers, consultants and other persons, to transact any
+54. The Commission may employ and pay agents and
+
+<!-- marginal: employ. -->
+
+technical advisers, including advocates and solicitors, bankers, consultants and other persons, to transact any
 
 <!-- page 27 -->
 
@@ -932,7 +1180,13 @@ or deliberation of the Commission for the purpose of advising it on any matter u
 
 28 Bill
 
-Resolutions 5. (1) A resolution is taken to have been passed at a meeting of the withimt meetings Commission if—
+<!-- marginal: Resolutions -->
+
+5. (1) A resolution is taken to have been passed at a meeting of the
+
+<!-- marginal: withimt meetings -->
+
+Commission if—
 
 (a) all members of the Commission have been informed of the proposed resolution, or reasonable efforts have been made to inform all members of the Commission of the proposed resolution; and
 
@@ -944,7 +1198,9 @@ Resolutions 5. (1) A resolution is taken to have been passed at a meeting of the
 
 (b) decides the method by which members of the Commission are to indicate agreement with resolutions.
 
-Minutes. 6. (1) The Commission shall cause minutes of all their meetings to be maintained and kept in a proper form.
+<!-- marginal: Minutes. -->
+
+6. (1) The Commission shall cause minutes of all their meetings to be maintained and kept in a proper form.
 
 (2) Minutes made of meetings of the Commission, if duly signed, shall, in any legal proceedings, be admissable as prima facie evidence of the facts stated therein without further proof.
 

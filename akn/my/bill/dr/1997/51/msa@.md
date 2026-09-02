@@ -52,11 +52,7 @@ Akta ini, adalah dipinda dalam seksyen 133—
 
 (c) the Magistrate shall not proceed to examine the complainant unless the notice required by paragraph (b) has been served on the Public Prosecutor in accordance with that paragraph;
 
-(d) the Magistrate shall examine the complainant upon oath and
-
-<!-- marginal: the -->
-
-substance of the examination of the complainant shall be reduced to writing and shall be signed by the complainant and by the Magistrate;
+(d) the Magistrate shall examine the complainant upon oath and the substance of the examination of the complainant shall be reduced to writing and shall be signed by the complainant and by the Magistrate;
 
 (e) the Public Prosecutor may appear and assist the Magistrate in the examination of the complainant.";
 
@@ -108,9 +104,11 @@ memasukkan selepas subseksyen (ii) subseksyen yang berikut:
 
 "(iiiA) The Public Prosecutor may appoint fit and proper persons to be Assistant Public Prosecutors who shall be under the general control and direction of the Public Prosecutor and, subject to such limitations or restrictions as may be specified by the Public Prosecutor, shall have all the powers of a Deputy Public Prosecutor.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-6. Seksyen 377 Kanun adalah dipinda— seksyen 377
+6. Seksyen 377 Kanun adalah dipinda—
+
+<!-- marginal: seksyen 377 -->
 
 (a) dengan menggantikan perkataan "a High Court and every criminal prosecution for a seizable offence" dengan perkataan "any court";
 
@@ -166,9 +164,13 @@ seksyen 380 seksyen yang berikut: " Sections 380A. The provisions of sections 37
 
 <!-- page 6 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-10. Kanun adalah dipinda dengan menggantikan seksyen seksyen 422. 422 dengan seksyen yang berikut: " Irregula- 422. Subject to the provisions contained in this rities not Chapter no finding, sentence or order passed to vitiate procee- or made by a Court of competent jurisdiction dings. shall be reversed or altered on account of—
+10. Kanun adalah dipinda dengan menggantikan seksyen
+
+<!-- marginal: seksyen 422. -->
+
+422 dengan seksyen yang berikut: " Irregula- 422. Subject to the provisions contained in this rities not Chapter no finding, sentence or order passed to vitiate procee- or made by a Court of competent jurisdiction dings. shall be reversed or altered on account of—
 
 (a) any error, omission or irregularity in the complaint, sanction, consent, summons, warrant, charge, judgment or other proceedings before or during trial or in any inquiry or other proceedings under this Code;
 
@@ -178,7 +180,7 @@ Pindaan
 
 unless such error, omission, irregularity, want, or improper admission or rejection of evidence has occasioned a failure of justice.".
 
-Kecualian.
+<!-- marginal: Kecualian. -->
 
 11. (1) Peruntukan Akta ini tidaklah terpakai bagi apa- apa pendakwaan atau presiding yang telah dimulakan tetapi belum selesai pada tarikh Akta ini mula berkuat kuasa.
 

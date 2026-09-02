@@ -48,29 +48,37 @@ dalam seksyen 2—
 
 ' "skim amanah saham" mempunyai erti yang sama seperti yang diberikan kepada ungkapan itu di bawah seksyen Akta 498. 2 Akta Suruhanjaya Sekuriti 1993;'.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Seksyen 14 Akta ibu adalah dipinda dengan seksyen 14. menggantikan subseksyen (5) dengan subseksyen yang berikut:
+3. Seksyen 14 Akta ibu adalah dipinda dengan
 
-"(5) Jika sesuatu bursa saham telah menetapkan suatu sekuriti di bawah subseksyen (1) yang hendak- lah didepositkan dengan depositori pusat, penetapan itu hendaklah terpakai bagi penyenaraian tambahan sekuriti itu dan kesemua jenis lain sekuriti yang diterbitkan oleh penerbit yang sama bagi penyenaraian di bursa saham dan peruntukan subseksyen (1) dan
+<!-- marginal: seksyen 14. -->
 
-(2) tidaklah terpakai berkenaan dengan penyenaraian tambahan itu dan penyenaraian jenis lain sekuriti itu.".
+menggantikan subseksyen (5) dengan subseksyen yang berikut:
 
-Pindaan
+"(5) Jika sesuatu bursa saham telah menetapkan suatu sekuriti di bawah subseksyen (1) yang hendak- lah didepositkan dengan depositori pusat, penetapan itu hendaklah terpakai bagi penyenaraian tambahan sekuriti itu dan kesemua jenis lain sekuriti yang diterbitkan oleh penerbit yang sama bagi penyenaraian di bursa saham dan peruntukan subseksyen (1) dan (2) tidaklah terpakai berkenaan dengan penyenaraian tambahan itu dan penyenaraian jenis lain sekuriti itu.".
 
-4. Seksyen 22 Akta ibu adalah dipinda dalam subseksyen seksyen 22.
+<!-- marginal: Pindaan -->
+
+4. Seksyen 22 Akta ibu adalah dipinda dalam subseksyen
+
+<!-- marginal: seksyen 22. -->
 
 (1) dengan menggantikan perkataan "dan peruntukan- peruntukan seksyen ini," dengan perkataan ", peruntukan- peruntukan seksyen ini dan kaedah-kaedah depositori pusat,".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-5. Seksyen 34 Akta ibu adalah dipinda dalam subseksyen seksyen 34.
+5. Seksyen 34 Akta ibu adalah dipinda dalam subseksyen
+
+<!-- marginal: seksyen 34. -->
 
 (1) dengan menggantikan perkataan "melalui notis bertulis, menghendaki suatu depositori pusat" dengan perkataan "mengikut cara yang ditetapkan oleh kaedah-kaedah depositori pusat menghendaki depositori pusat itu".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-6. Seksyen 35 Akta ibu adalah dipinda— seksyen 35.
+6. Seksyen 35 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 35. -->
 
 (a) dengan menggantikan subseksyen (1) dengan subseksyen yang berikut:
 
@@ -80,65 +88,21 @@ Pindaan
 
 (Pindaan)
 
-rekod pendeposit adalah berhak kepada segala hak, faedah, kuasa dan keistimewaan dan tertakluk kepada segala liabiliti, kewajipan dan obligasi yang berkenaan dengan, atau yang berbangkit daripada, sekuriti itu (sama ada yang diberikan atau Akta 125. dikenakan oleh Akta Syarikat 1965, atau memorandum atau perkara- perkara persatuan penerbit sekuriti itu, atau selainnya) seolah-olah dia ialah—
+rekod pendeposit adalah berhak kepada segala hak, faedah, kuasa dan keistimewaan dan tertakluk kepada segala liabiliti, kewajipan dan obligasi yang berkenaan dengan, atau yang berbangkit daripada, sekuriti itu (sama ada yang diberikan atau
 
-(a) seorang anggota
+<!-- marginal: Akta 125. -->
 
-<!-- marginal: yang -->
+dikenakan oleh Akta Syarikat 1965, atau memorandum atau perkara- perkara persatuan penerbit sekuriti itu, atau selainnya) seolah-olah dia ialah—
 
-didaftarkan dalam daftar anggota;
+(a) seorang anggota yang didaftarkan dalam daftar anggota;
 
-(b) seorang pemegang
+(b) seorang pemegang yang didaftarkan dalam daftar pemegang debentur yang di- senggarakan oleh penerbit itu; atau
 
-<!-- marginal: yang -->
+(c) seorang pemegang yang didaftarkan—
 
-didaftarkan dalam
+(i) dalam daftar pemegang kepentingan yang diseng- garakan oleh suatu syarikat pengurusan di Akta 125. bawah Akta Syarikat 1965; atau
 
-<!-- marginal: daftar -->
-
-pemegang debentur yang di- senggarakan oleh penerbit itu; atau
-
-(c) seorang pemegang
-
-<!-- marginal: yang -->
-
-didaftarkan—
-
-(i) dalam
-
-<!-- marginal: daftar -->
-
-pemegang kepentingan yang
-
-<!-- marginal: diseng- -->
-
-garakan
-
-<!-- marginal: oleh -->
-
-suatu
-
-<!-- marginal: syarikat -->
-
-pengurusan di Akta 125. bawah
-
-<!-- marginal: Akta -->
-
-Syarikat 1965; atau
-
-(ii) dalam
-
-<!-- marginal: daftar -->
-
-pemegang unit yang
-
-<!-- marginal: diseng- -->
-
-garakan
-
-<!-- marginal: oleh -->
-
-suatu syarikat pengurusan di
+(ii) dalam daftar pemegang unit yang diseng- garakan oleh suatu syarikat pengurusan di
 
 <!-- page 4 -->
 
@@ -150,7 +114,9 @@ dan bukannya depositori pusat itu, atau syarikat namaannya, yang atas namanya se
 
 (b) dengan menggantikan subseksyen (2) dengan subseksyen yang berikut:
 
-"(2) Walau apa pun peruntukan subseksyen (1), tiada apa-apa jua dalam seksyen ini boleh ditafsirkan sebagai menyifatkan suatu rekod pendeposit sebagai—
+"(2) Walau apa pun peruntukan subseksyen
+
+(1), tiada apa-apa jua dalam seksyen ini boleh ditafsirkan sebagai menyifatkan suatu rekod pendeposit sebagai—
 
 (a) suatu daftar anggota yang disenggarakan di bawah Akta 125. seksyen 158 Akta Syarikat 1965;
 
@@ -192,25 +158,63 @@ penerbit atau pembuat tawaran itu hendaklah memberitahu depositori pusat itu nam
 
 (b) "pembuat tawaran", berhubungan dengan mana-mana sekuriti, ertinya tuan punya sekuriti itu.".
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
-8. Bahagian III Akta ibu adalah dipinda dengan 4 l A. memasukkan selepas seksyen 41 seksyen yang berikut:
+8. Bahagian III Akta ibu adalah dipinda dengan
 
-Not is 4lA. Tiada notis apa-apa amanah yang, nyata, amanah. tersirat atau konstruktif, boleh diterima oleh depositori pusat dan depositori pusat atau apa-apa jua yang dilakukan oleh depositori pusat berhubungan dengan sekuriti telah-deposit tidaklah terjejas oleh notis apa-apa amanah itu."
+<!-- marginal: 4 l A. -->
 
-Pinclaan
+memasukkan selepas seksyen 41 seksyen yang berikut:
 
-9. Seksyen 61 Akta ibu adalah dipinda dengan mengganti- Seksyen 61. kan subseksyen (2) dengan subseksyen yang berikut:
+<!-- marginal: Not is -->
+
+4lA. Tiada notis apa-apa amanah yang, nyata,
+
+<!-- marginal: amanah. -->
+
+tersirat atau konstruktif, boleh diterima oleh depositori pusat dan depositori pusat atau apa-apa jua yang dilakukan oleh depositori pusat berhubungan dengan sekuriti telah-deposit tidaklah terjejas oleh notis apa-apa amanah itu."
+
+<!-- marginal: Pinclaan -->
+
+9. Seksyen 61 Akta ibu adalah dipinda dengan mengganti-
+
+<!-- marginal: Seksyen 61. -->
+
+kan subseksyen (2) dengan subseksyen yang berikut:
 
 "(2) Mana-mana pegawai boleh, jika dia diberi kuasa secara bertulis oleh Pendakwa Raya, mendakwa apa-apa kes berkenaan dengan apa-apa kesalahan yang dilakukan di bawah Akta ini.".
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
-10. Akta ibu adalah dipinda dengan memasukkan selepas 6 lA . seksyen 61 seksyen yang berikut:
+10. Akta ibu adalah dipinda dengan memasukkan selepas
 
-Suruhan- 61A. (1) Walau apa pun peruntukan mana-mana jaya boleh undang-undang bertulis lain— diwakili oleh
+<!-- marginal: 6 lA . -->
 
-(a) dalam mana-mana prosiding sivil oleh pegawai dalam atau terhadap Suruhanjaya; atau prosiding sivil.
+seksyen 61 seksyen yang berikut:
+
+<!-- marginal: Suruhan- -->
+
+61A. (1) Walau apa pun peruntukan mana-mana
+
+<!-- marginal: jaya boleh -->
+
+undang-undang bertulis lain—
+
+<!-- marginal: diwakili -->
+
+<!-- marginal: oleh -->
+
+(a) dalam mana-mana prosiding sivil oleh
+
+<!-- marginal: pegawai -->
+
+<!-- marginal: dalam -->
+
+atau terhadap Suruhanjaya; atau
+
+<!-- marginal: prosiding -->
+
+<!-- marginal: sivil. -->
 
 (b) dalam mana-mana prosiding sivil lain yang Suruhanjaya dikehendaki atau dibenarkan oleh mahkamah diwakili, atau didengari, atau selainnya berhak diwakili atau didengari,
 

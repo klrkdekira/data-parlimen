@@ -1,0 +1,130 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/37/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/37"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-37-1990",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/37/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/37/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/37/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/37/msa@/~sched_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/37/msa@/~sched_2"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Perbekalan Tambahan (1989 dan 1990) (No. 2) 1990"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/37/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/37/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perbekalan Tambahan (1989 dan 1990) (No. 2) 1990."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/37/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/37/msa@/~cl_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/37/msa@/~cl_2__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/37/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/37/msa@/~cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/37/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maka adalah dibenarkan supaya dikeluarkan sejumlah wang yang tidak melebihi enam ratus juta ringgit ($600,000,000) daripada Kumpulan Wang Disatukan bagi perbelanjaan untuk perkhidmatan yang dinyatakan dalam Jadual Pertama bagi perkhidmatan tahun 1989, yang tidak diperuntukkan atau yang tidak diperuntukkan dengan sepenuhnya oleh Akta Perbekalan 1989, Akta Perbekalan Tambahan (1988 dan 1989) 1989, Akta Perbekalan Tambahan (1988 dan 1989) 1990, Akta Perbekalan Tambahan (1989) 1990 dan Akta Perbekalan Tambahan (1989 dan 1990) 1990."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/37/msa@/~cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/37/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Wang yang tersebut itu adalah diperuntukkan bagi maksud yang dinyatakan dalam Jadual Pertama. RANG UNDANG-UNDANG"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/37/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/37/msa@/~cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/37/msa@/~cl_3__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/37/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/37/msa@/~cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/37/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maka adalah dibenarkan supaya dikeluarkan sejumlah wang yang tidak melebihi tiga ratus tujuh puluh tujuh juta dua ratus lima ribu enam ratus ringgit 1990. ($377,205,600) daripada Kumpulan Wang Disatukan bag! perbelanjaan untuk perkhidmatan-perkhidmatan yang dinyatakan dalam Jadual Kedua bagi perkhidmatan tahun 1990, yang tidak diperuntukkan atau yang tidak diperuntukkan dengan sepenuhnya oleh Akta Perbekalan 1990 dan Akta Perbekalan Tambahan (1989 dan 1990) 1990."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/37/msa@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/37/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Wang yang tersebut itu adalah diperuntukkan bagi maksud-maksud yang dinyatakan dalam Jadual Kedua."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/37/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/37/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(Seksyen 2) Maksud Tajuk B. 30 Peruntukan kepada Kumpulan Wang Terkanun JUMLAH .. 600,000,000"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/37/msa@/~sched_2",
+      "@type": "akn:schedule",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/37/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(Seksyen 3) Maksud Tajuk B. 4 Suruhanjaya Pilihanraya B. 9 Jabatan Perangkaan B. 15 Jabatan Perancangan Bandar dan Desa B. 16 Jabatan Perkhidmatan Bomba B. 17 Kementerian Belia dan Sukan B. 18 Kementerian Perusahaan Utama B. 19 Kementerian Pertanian B. 20 Kementerian Perdagangan dan Perindustrian PERBEKALAN TAMBAHAN (1989 DAN (No. Maksud Tajuk B. 21 Kementerian Kebudayaan dan 16,000,000 Pelancongan B. 26 Kementerian Pendidikan 98,771,500 B. 28 Perbendaharaan B. 29 Perkhidmatan Am Perbendaharaan B. 30 Peruntukan Kepada Kumpulan Wang 50,000,000 Terkanun B. 34 Kementerian Kesihatan 37,190,000 B. 36 Polis Diraja Malaysia 28,500,000 B. 42 Jabatan Percetakan Negara B. 44 Kementerian Penerangan B. 52 Kementerian Kerja Raya JUMLAH .. 377,205,600"
+      }
+    }
+  ]
+}

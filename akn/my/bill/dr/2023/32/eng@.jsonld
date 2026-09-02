@@ -91,7 +91,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/32/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (1)— “(da) a person representing the State of Sabah who shall be appointed by the Minister after consultation with the Chief Minister of Sabah; (db) a person representing the State of Sarawak who shall be appointed by the Minister after consultation with the Premier of Sarawak; and”; and"
+        "@value": "in subsection (1)—"
       }
     },
     {
@@ -111,7 +111,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/32/eng@/~cl_2__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (d) the following paragraphs:"
+        "@value": "by inserting after paragraph (d) the following paragraphs: “(da) a person representing the State of Sabah who shall be appointed by the Minister after consultation with the Chief Minister of Sabah; (db) a person representing the State of Sarawak who shall be appointed by the Minister after consultation with the Premier of Sarawak; and”; and"
       }
     },
     {
@@ -125,7 +125,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/32/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (2)— Amendment of section 7"
+        "@value": "in subsection (2)—"
       }
     },
     {
@@ -145,28 +145,17 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/32/eng@/~cl_2__para_b",
       "schema:text": {
         "@language": "en",
-        "@value": "in the national language text, by substituting for the words “berkedudukan atau berpengalaman” the words “berkedudukan dan berpengalaman”."
+        "@value": "in the national language text, by substituting for the words “berkedudukan atau berpengalaman” the words “berkedudukan dan berpengalaman”. Amendment of section 7"
       }
     },
     {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/32/eng@/~cl_3",
       "@type": "akn:clause",
       "eli:number": "3",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/32/eng@/~cl_3__para_da",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/32/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "Section 7 of the principal Act is amended by substituting for the words “paragraph 6(1)(d)” the words “paragraph 6(1)(d),"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/32/eng@/~cl_3__para_da",
-      "@type": "akn:paragraph",
-      "eli:number": "da",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/32/eng@/~cl_3",
-      "schema:text": {
-        "@language": "en",
-        "@value": ", (db)”. Amendment of section 9"
+        "@value": "Section 7 of the principal Act is amended by substituting for the words “paragraph 6(1)(d)” the words “paragraph 6(1)(d), (da), (db)”. Amendment of section 9"
       }
     },
     {

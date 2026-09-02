@@ -8,15 +8,31 @@ An Act to amend the Judges' Remuneration Act 1971.
 
 BE IT ENACTED by the Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows;
 
-Short title
+<!-- marginal: Short title -->
 
-1. This Act may be cited as the Judges' Remuneration and commence- (Amendment) Act 1990 and section 3 shall be deemed to ment. have come into force on the 1st October 1988.
+1. This Act may be cited as the Judges' Remuneration
 
-Amendment of
+<!-- marginal: and commence- -->
 
-2. Subsection (2) of section 19 of the Judges' Remuneration section 19. Act 1971, which in this Act is referred to as "the principal Act 45. Act", is amended by substituting for the words "Second Schedule," the words "First and Second Schedules".
+(Amendment) Act 1990 and section 3 shall be deemed to
 
-Amendment of
+<!-- marginal: ment. -->
+
+have come into force on the 1st October 1988.
+
+<!-- marginal: Amendment of -->
+
+2. Subsection (2) of section 19 of the Judges' Remuneration
+
+<!-- marginal: section 19. -->
+
+Act 1971, which in this Act is referred to as "the principal
+
+<!-- marginal: Act 45. -->
+
+Act", is amended by substituting for the words "Second Schedule," the words "First and Second Schedules".
+
+<!-- marginal: Amendment of -->
 
 3. The principal Act is amended by substituting for the First
 
@@ -28,27 +44,45 @@ Schedule the following:
 
 (Section 2(1))
 
-(1) (2) (3) Judges Salary Effective (pensionable) Dare
+(1) (2)
 
-1. Lord President $6,970 per month 1 -10-1988
+<!-- marginal: (3) -->
 
-2. Chief Justice, Malaya $6,420 per month 1-10-1988
+Judges Salary
 
-3. Chief Justice, Borneo $6,270 per month 1-10-1988
+<!-- marginal: Effective -->
 
-4. Federal Judges $6,020 per month 1-10-1988
+(pensionable)
 
-5. Other Judges of the $5,570 per month 1 -10-1988 High Courts in Malaya and Borneo
+<!-- marginal: Dare -->
+
+1. Lord President $6,970 per month 1 -10-1988 2. Chief Justice, Malaya $6,420 per month
+
+<!-- marginal: 1-10-1988 -->
+
+3. Chief Justice, Borneo $6,270 per month
+
+<!-- marginal: 1-10-1988 -->
+
+4. Federal Judges $6,020 per month
+
+<!-- marginal: 1-10-1988 -->
+
+5. Other Judges of the $5,570 per month
+
+<!-- marginal: 1 -10-1988 -->
+
+High Courts in Malaya and Borneo
 
 <!-- page 2 -->
 
 ## BILL
 
-Application.
+<!-- marginal: Application. -->
 
 4. Subject to section 5, section 3 shall apply to every person who was holding office as Judge on the 1 st October 1988 or who was or is appointed a Judge after that date, notwith- standing that he may have died, resigned or retired from, or ceased to hold, the office of Judge before the publication of this Act in the Gazette.
 
-Election.
+<!-- marginal: Election. -->
 
 5. A person who was holding office as Judge on the 1st October 1988 may, within one month of the publication of this Act in the Gazette, elect in writing not to be governed by the provisions of this Act and where he so does, he shall continue to be governed by the provisions of the principal Act as if this Act had not been passed.
 

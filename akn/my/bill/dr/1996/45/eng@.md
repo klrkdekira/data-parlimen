@@ -30,9 +30,17 @@ and shall be deemed to have come into force on 2 February 1996.
 
 <!-- page 2 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-2. The Synod of the Diocese of West Malaysia of section 3. (Incorporation) Act 1971 is amended in subsections 3(2) Act 36. and 3(5) by substituting for the word "Canterbury" the words "the Province of the Anglican Church in South- east Asia".
+2. The Synod of the Diocese of West Malaysia
+
+<!-- marginal: of section 3. -->
+
+(Incorporation) Act 1971 is amended in subsections 3(2)
+
+<!-- marginal: Act 36. -->
+
+and 3(5) by substituting for the word "Canterbury" the words "the Province of the Anglican Church in South- east Asia".
 
 ## EXPLANATORY STATEMENT
 

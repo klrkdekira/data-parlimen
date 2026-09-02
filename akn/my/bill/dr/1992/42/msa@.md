@@ -38,9 +38,7 @@ Naskhah Sahih—Bahasa Malaysia
 
 bernama
 
-Suatu Akta untuk meminda Akta Perindustrian Sekuriti
-
-1983. [ ]
+Suatu Akta untuk meminda Akta Perindustrian Sekuriti 1983. [ ]
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 
@@ -94,9 +92,13 @@ dalam subseksyen (1)—
 
 ' "Suruhanjaya" ertinya Suruhanjaya Sekuriti yang ditubuhkan di bawah Akta Suruhanjaya Sekuriti 1992;'
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Seksyen 7 Akta ibu adalah dipinda dengan seksyen 7. menggantikan subseksyen (2) dengan subseksyen yang berikut:
+3. Seksyen 7 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 7. -->
+
+menggantikan subseksyen (2) dengan subseksyen yang berikut:
 
 "(2) Seseorang yang melanggar atau tidak mematuhi peruntukan-peruntukan subseksyen (1) adalah melakukan suatu kesalahan dan apabila disabitkan boleh dikenakan denda tidak lebih daripada satu juta ringgit atau penjara selama tempoh tidak lebih daripada sepuluh tahun atau kedua-duanya.".
 
@@ -214,7 +216,11 @@ subseksyen (1), dengan menggantikan perkataan "Pendaftar" dengan perkataan "Pega
 
 <!-- page 7 -->
 
-Pindaan 16. Seksyen 39 Akta ibu adalah dipinda— seksyen 39.
+<!-- marginal: Pindaan -->
+
+16. Seksyen 39 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 39. -->
 
 (a) dalam subseksyen (7), (8) dan (9), dengan memasukkan, sebelum perkataan "Pendaftar", perkataan "Suruhanjaya atau"; dan
 
@@ -224,13 +230,23 @@ Pindaan 16. Seksyen 39 Akta ibu adalah dipinda— seksyen 39.
 
 (ii) dengan menggantikan perkataan "dua" dengan perkataan "sepuluh".
 
-Pindaan 17. Seksyen 40 Akta ibu adalah dipinda, dalam seksyen 40. subseksyen (9)—
+<!-- marginal: Pindaan -->
+
+17. Seksyen 40 Akta ibu adalah dipinda, dalam
+
+<!-- marginal: seksyen 40. -->
+
+subseksyen (9)—
 
 (a) dengan memasukkan, selepas perkataan "denda", perkataan "tidak lebih daripada satu juta ringgit"; dan
 
 (b) dengan menggantikan perkataan "dua" dengan perkataan "sepuluh".
 
-Pindaan 18. Seksyen 41 Akta ibu adalah dipinda— seksyen 41.
+<!-- marginal: Pindaan -->
+
+18. Seksyen 41 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 41. -->
 
 (a) dalam subseksyen (2)—
 
@@ -240,7 +256,13 @@ Pindaan 18. Seksyen 41 Akta ibu adalah dipinda— seksyen 41.
 
 (b) dalam teks bahasa kebangsaan, dengan menggantikan perkataan "jangkaturun" di mana-mana jua terdapat dengan perkataan "pendek".
 
-Pindaan 19. Seksyen 43 Akta ibu adalah dipinda, dalam seksyen 43. subseksyen (5), dengan menggantikan perkataan "Pendaftar" dengan perkataan "Suruhanjaya".
+<!-- marginal: Pindaan -->
+
+19. Seksyen 43 Akta ibu adalah dipinda, dalam
+
+<!-- marginal: seksyen 43. -->
+
+subseksyen (5), dengan menggantikan perkataan "Pendaftar" dengan perkataan "Suruhanjaya".
 
 <!-- page 8 -->
 
@@ -294,15 +316,15 @@ subseksyen (1), dengan menggantikan perkataan "Menteri" dengan perkataan "Suruha
 
 <!-- page 9 -->
 
-(b) dengan menggantikan perkataan "dia" di mana- mana jua terdapat dengan
-
-<!-- marginal: perkataan -->
-
-"Suruhanjaya"; dan
+(b) dengan menggantikan perkataan "dia" di mana- mana jua terdapat dengan perkataan "Suruhanjaya"; dan
 
 (c) dalam subseksyen (3), dengan menggantikan perkataan "Kerajaan" di man'a-mana jua terdapat dengan perkataan "Suruhanjaya".
 
-Pindaan 24. Seksyen 53 Akta ibu adalah dipinda— seksyen 53.
+<!-- marginal: Pindaan -->
+
+24. Seksyen 53 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 53. -->
 
 (a) dengan menggantikan perkataan "Menteri" di mana-mana jua terdapat dengan perkataan "Suruhanjaya"; dan
 
@@ -312,21 +334,35 @@ Pindaan 24. Seksyen 53 Akta ibu adalah dipinda— seksyen 53.
 
 "Suruhanjaya".
 
-Pindaan 25. Seksyen 54 Akta ibu adalah dipinda— seksyen 54.
+<!-- marginal: Pindaan -->
+
+25. Seksyen 54 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 54. -->
 
 (a) dengan menggantikan perkataan "Menteri" di mana-mana jua terdapat dengan perkataan "Suruhanjaya"; dan
 
 (b) dengan menggantikan perkataan "dia dilantik itu," dengan perkataan "juruaudit, orang atau badan itu dilantik,".
 
-Pindaan 26. Seksyen 55 dan 56 Akta ibu adalah dipinda dengan seksyen 55 menggantikan perkataan "Menteri" di mana-mana jua dan 56. terdapat dengan perkataan "Suruhanjaya".
+<!-- marginal: Pindaan -->
 
-Pindaan 27. Seksyen 57 Akta ibu adalah dipinda— seksyen 57.
+26. Seksyen 55 dan 56 Akta ibu adalah dipinda dengan
 
-(a) dalam subseksyen (1) dan
+<!-- marginal: seksyen 55 -->
 
-<!-- marginal: (2), dengan -->
+menggantikan perkataan "Menteri" di mana-mana jua
 
-menggantikan perkataan "Menteri" dengan perkataan "Suruhanjaya"; dan
+<!-- marginal: dan 56. -->
+
+terdapat dengan perkataan "Suruhanjaya".
+
+<!-- marginal: Pindaan -->
+
+27. Seksyen 57 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 57. -->
+
+(a) dalam subseksyen (1) dan (2), dengan menggantikan perkataan "Menteri" dengan perkataan "Suruhanjaya"; dan
 
 (b) dalam subseksyen (3)—
 
@@ -354,11 +390,7 @@ subseksyen (1)—
 
 <!-- marginal: seksyen 68. -->
 
-(a) dalam subseksyen (1) dan
-
-<!-- marginal: (4) dengan -->
-
-menggantikan perkataan "Menteri" dengan perkataan "Suruhanjaya"; dan
+(a) dalam subseksyen (1) dan (4) dengan menggantikan perkataan "Menteri" dengan perkataan "Suruhanjaya"; dan
 
 (b) dalam subseksyen (3), dengan menggantikan perkataan "Pendaftar" dengan perkataan "Suruhanjaya".
 
@@ -402,35 +434,69 @@ subseksyen (2)—
 
 <!-- page 11 -->
 
-Pindaan 34. Seksyen 96 Akta ibu adalah dipinda, dalam seksyen 96. subseksyen (1), (2) dan (3)—
+<!-- marginal: Pindaan -->
+
+34. Seksyen 96 Akta ibu adalah dipinda, dalam
+
+<!-- marginal: seksyen 96. -->
+
+subseksyen (1), (2) dan (3)—
 
 (a) dengan memasukkan, selepas perkataan "denda", perkataan "tidak lebih daripada satu juta ringgit"; dan
 
 (b) dengan menggantikan perkataan "satu tahun" dengan perkataan "sepuluh tahun".
 
-Pindaan 35. Seksyen 97 Akta ibu adalah dipinda, dalam seksyen 97. subseksyen (2)—
+<!-- marginal: Pindaan -->
+
+35. Seksyen 97 Akta ibu adalah dipinda, dalam
+
+<!-- marginal: seksyen 97. -->
+
+subseksyen (2)—
 
 (a) dengan menggantikan perkataan "lima ribu" dengan perkataan "satu juta"; dan
 
 (b) dengan menggantikan perkataan "satu tahun" dengan perkataan "sepuluh tahun".
 
-Pindaan 36. Seksyen 98 Akta ibu adalah dipinda, dalam seksyen 98. subseksyen (4)—
+<!-- marginal: Pindaan -->
+
+36. Seksyen 98 Akta ibu adalah dipinda, dalam
+
+<!-- marginal: seksyen 98. -->
+
+subseksyen (4)—
 
 (a) dengan menggantikan perkataan "tidak kurang daripada lima ribu" dengan perkataan "tidak lebih daripada satu juta"; dan
 
 (b) dengan menggantikan perkataan "satu tahun" dengan perkataan "sepuluh tahun".
 
-Pindaan 37. Seksyen 100 Akta ibu adalah dipinda, dalam seksyen 100. subseksyen (5)—
+<!-- marginal: Pindaan -->
+
+37. Seksyen 100 Akta ibu adalah dipinda, dalam
+
+<!-- marginal: seksyen 100. -->
+
+subseksyen (5)—
 
 (a) dengan memasukkan, selepas perkataan ''denda", perkataan "tidak lebih daripada satu juta ringgit"; dan
 
 (b) dengan menggantikan perkataan "satu tahun" dengan perkataan "sepuiuh tahun".
 
-Pemansuhan 38. Akta ibu adalah dipinda dengan memansuhkan Penggal 2 Penggal 2 Bahagian X.
+<!-- marginal: Pemansuhan -->
+
+38. Akta ibu adalah dipinda dengan memansuhkan
+
+<!-- marginal: Penggal 2 -->
+
+Penggal 2 Bahagian X.
 
 ## Bahagian X.
 
-Pindaan 39. Seksyen 123 Akta ibu adalah dipinda— seksyen 123.
+<!-- marginal: Pindaan -->
+
+39. Seksyen 123 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 123. -->
 
 (a) dengan memasukkan, selepas perkataan "lima", perkataan "ratus"; dan
 
@@ -444,31 +510,29 @@ Pindaan 39. Seksyen 123 Akta ibu adalah dipinda— seksyen 123.
 
 <!-- marginal: seksyen 124. -->
 
-seksyen 124 dengan seksyen yang berikut: "Pengkom- 124. (1) Pegawai Pelesen boleh meng- paunan kompaun mana-mana kesalahan
+seksyen 124 dengan seksyen yang berikut:
 
-<!-- marginal: yang -->
+<!-- marginal: "Pengkom- -->
 
-kesalahan. dilakukan oleh mana-mana orang di bawah
+124. (1) Pegawai Pelesen boleh meng-
+
+<!-- marginal: paunan -->
+
+kompaun mana-mana kesalahan yang
+
+<!-- marginal: kesalahan. -->
+
+dilakukan oleh mana-mana orang di bawah
 
 ## Bahagian IV, V atau VII dengan membuat
 
-suatu tawaran bertulis kepada orang itu untuk mengkompaun kesalahan itu jika orang itu membayar kepada Pegawai Pelesen apa-apa jumlah wang dalam apa-apa
+suatu tawaran bertulis kepada orang itu untuk mengkompaun kesalahan itu jika orang itu membayar kepada Pegawai Pelesen apa-apa jumlah wang dalam apa-apa tempoh sebagaimana yang ditentukan dalam tawaran itu.
 
-<!-- marginal: tempoh -->
+(2) Sesuatu tawaran di bawah subseksyer.
 
-sebagaimana yang ditentukan dalam tawaran itu.
+(1) boleh dibuat pada bila-bila masa selepas kesalahan itu dilakukan, tetapi sebelum apa- apa pendakwaan baginya dimulakan, dan jika amaun yang ditentukan dalam tawaran itu tidak dibayar dalarn tempoh yang ditentukan dalam tawaran itu, atau apa-apa perlanjutan tempoh itu yang diberikan oleh Pegawai Pelesen, pendakwaan bagi kesalahan itu boleh dimulakan pada bila-bila masa selepas itu terhadap orang yang kepadanya tawaran itu dibuat.
 
-(2) Sesuatu tawaran di bawah subseksyer. (1) boleh dibuat pada bila-bila masa selepas kesalahan itu dilakukan, tetapi sebelum apa- apa pendakwaan baginya dimulakan, dan jika amaun yang ditentukan dalam tawaran itu tidak dibayar dalarn tempoh yang ditentukan dalam tawaran itu, atau apa-apa perlanjutan tempoh itu yang diberikan oleh Pegawai Pelesen, pendakwaan bagi kesalahan
-
-<!-- marginal: itu boleh -->
-
-dimulakan pada bila-bila masa selepas itu terhadap orang yang kepadanya tawaran itu dibuat.
-
-(3) Jika sesuatu kesalahan
-
-<!-- marginal: telah di- -->
-
-kompaunkan di bawah subseksyen (1), maka tiada pendakwaan bcleh selepas itu dimulakan berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk mengkompaun kesalahan itu dibuat.".
+(3) Jika sesuatu kesalahan telah di- kompaunkan di bawah subseksyen (1), maka tiada pendakwaan bcleh selepas itu dimulakan berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk mengkompaun kesalahan itu dibuat.".
 
 <!-- marginal: Pindaan -->
 
@@ -478,13 +542,21 @@ kompaunkan di bawah subseksyen (1), maka tiada pendakwaan bcleh selepas itu dimu
 
 seksyen 126 dengan seksyen yang berikut:
 
-"Penjalanan 126. (1) Tiada pendakwaan bagi mana-mana pendakwaan. kesalahan di bawah Akta ini boleh dimulakan kecuali dengan keizinan bertulis daripada Pendakwa Raya.
+<!-- marginal: "Penjalanan -->
+
+126. (1) Tiada pendakwaan bagi mana-mana
+
+<!-- marginal: pendakwaan. -->
+
+kesalahan di bawah Akta ini boleh dimulakan kecuali dengan keizinan bertulis daripada Pendakwa Raya.
 
 <!-- page 13 -->
 
 (2) Pendakwaan bagi mana-mana kesalahan terhadap mana-mana peruntukan Akta ini boleh dijalankan oleh Pendaftar atau oleh mana-mana pegawai yang diberikuasa secara bertulis oleh Pendaftar atau oleh mana-mana pegawai yang diberikuasa secara bertulis oleh Pengerusi Suruhanjaya.".
 
-Kecualian. 42. Walau apa pun pindaan kepada Bahagian IV Akta ibu—
+<!-- marginal: Kecualian. -->
+
+42. Walau apa pun pindaan kepada Bahagian IV Akta ibu—
 
 (a) tiap-tiap permohonan di bawah Bahagian itu yang belum selesai pada tarikh Akta ini mula berkuatkuasa hendaklah terus diuruskan oleh Pendaftar; dan
 
@@ -514,17 +586,23 @@ Rang Undang-Undang ini bertujuan meminda Akta Perindustrian Sekuriti 1983, kemud
 
 9. Fasal 8 bertujuan memasukkan seksyen baru I 5A yang memberi Menteri kuasa untuk melantik Pegawai Pelesen yang akan bertanggungjawab bagi perkara-perkara yang berhubungan dengan pelesenan di bawah Akta. Perkara-perkara itu sekarang ini menjadi tanggungjawab Pendaftar Syarikat.
 
-10. Fasal 9 bertujuan meminda seksyen 16, 17, 18, 19, 20 dan 21. Pindaan itu adalah berbangkit daripada kemasukan seksyen baru I5A.
+10. Fasal 9 bertujuan meminda seksyen 16, 17, 18, 19, 20 dan
+
+21. Pindaan itu adalah berbangkit daripada kemasukan seksyen baru I5A.
 
 11. Fasal 10 bertujuan menambah penalti bagi kesalahan di bawah seksyen 22.
 
-12. Fasal 11 bertujuan meminda seksyen 23, 25, 26, 27, 28 dan 31. Pindaan ini adalah berbangkit daripada kemasukan seksyen baru 1 5A
+12. Fasal 11 bertujuan meminda seksyen 23, 25, 26, 27, 28 dan
+
+31. Pindaan ini adalah berbangkit daripada kemasukan seksyen baru 1 5A
 
 13. Fasal 12. 13 dan 14 bertujuan meminda seksyen 33, 34 dan 35 untuk memberi Suruhanjaya kuasa-kuasa tertentu di bawah Akta.
 
 14. Fasal 15 bertujuan meminda seksyen 37. Pindaan ini adalah berbangkit daripada kemasukan seksyen baru I 5 A.
 
-15. Fasal 16, 17 dan 18 bertujuan meminda seksyen 39, 40 dan 41. Pindaan ini bertujuan menambah penalti di bawah seksyen- seksyen itu.
+15. Fasal 16, 17 dan 18 bertujuan meminda seksyen 39, 40 dan
+
+41. Pindaan ini bertujuan menambah penalti di bawah seksyen- seksyen itu.
 
 16. Fasal 19 bertujuan meminda seksyen 43 untuk menggantikan perkataan "Pendaftar" dengan perkataan "Suruhanjaya".
 
@@ -544,11 +622,7 @@ perdagangan bank selepas tarikh cek itu dikeluarkan hendaklah dimasukkan ke dala
 
 21. Fasal 32, 33, 34, 35, 36 dan 37 bertujuan menambah penalti bagi kesalahan-kesalahan di bawah seksyen 91, 92, 96, 97, 98 dan 100.
 
-22. Fasal 38 bertujuan memansuhkan keseluruhan Penggal 2
-
-## Bahagian X. Dengan penubuhan Suruhanjaya, pelbagai kuasa
-
-Menteri di bawah Penggal itu tidaklah lagi perlu.
+22. Fasal 38 bertujuan memansuhkan keseluruhan Penggal 2 Bahagian X. Dengan penubuhan Suruhanjaya, pelbagai kuasa Menteri di bawah Penggal itu tidaklah lagi perlu.
 
 23. Fasal 39 bertujuan menambah penalti bagi kesalahan di bawah seksyen 123.
 

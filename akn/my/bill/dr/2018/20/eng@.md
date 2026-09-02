@@ -132,7 +132,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 9. The principal Act is amended by inserting after the Third Schedule the following Schedules:
 
-“Fourth Schedule
+## “FOURTH SCHEDULE
 
 (Subsection 2(1))
 
@@ -210,7 +210,7 @@ Work in an environment that relates to germs, bacteria, viruses, fungi, parasite
 
 4. Work above or near water where the risk of drowning exist such as lifeguard, fishing activities and work in water treatment plant.
 
-## FiFth Schedule
+## FIFTH SCHEDULE
 
 [Subsection 2(2b)]
 

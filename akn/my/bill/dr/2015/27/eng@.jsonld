@@ -315,7 +315,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/27/eng@/~cl_20",
       "schema:text": {
         "@language": "en",
-        "@value": "in the renumbered subsection (1)— “(d) the member of the Fund has attained the age of fifty-five years.”; and"
+        "@value": "in the renumbered subsection (1)—"
       }
     },
     {
@@ -345,7 +345,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/27/eng@/~cl_20__para_b",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (c) the following paragraph:"
+        "@value": "by inserting after paragraph (c) the following paragraph: “(d) the member of the Fund has attained the age of fifty-five years.”; and"
       }
     },
     {
@@ -470,7 +470,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/27/eng@/~cl_4",
       "schema:text": {
         "@language": "en",
-        "@value": "in paragraph (a)— “(ii) a bank or an investment bank duly licensed under the Financial Services Act 2013 [Act 758]; or”; “(iii) an Islamic bank duly licensed under the Islamic Financial Services Act 2013 [Act 759]; or”; and “(iv) a development financial institution regulated under the Development Financial Institutions Act 2002 [Act 618];”;"
+        "@value": "in paragraph (a)—"
       }
     },
     {
@@ -480,7 +480,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/27/eng@/~cl_4__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for subparagraph (ii) the following subparagraph:"
+        "@value": "by substituting for subparagraph (ii) the following subparagraph: “(ii) a bank or an investment bank duly licensed under the Financial Services Act 2013 [Act 758]; or”;"
       }
     },
     {
@@ -490,7 +490,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/27/eng@/~cl_4__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for subparagraph (iii) the following subparagraph:"
+        "@value": "by substituting for subparagraph (iii) the following subparagraph: “(iii) an Islamic bank duly licensed under the Islamic Financial Services Act 2013 [Act 759]; or”; and"
       }
     },
     {
@@ -500,7 +500,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/27/eng@/~cl_4__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after subparagraph (iii) the following subparagraph:"
+        "@value": "by inserting after subparagraph (iii) the following subparagraph: “(iv) a development financial institution regulated under the Development Financial Institutions Act 2002 [Act 618];”;"
       }
     },
     {

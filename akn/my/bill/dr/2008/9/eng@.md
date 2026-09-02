@@ -28,7 +28,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 2 -->
 
-Bill 2
+Bill
+
+<!-- marginal: 2 -->
 
 (c) by inserting after subsection (5A) the following subsections:
 

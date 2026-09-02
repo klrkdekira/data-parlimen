@@ -1,0 +1,2751 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-21-2025",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Cross-Border Insolvency Bill 2025"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title and commencement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_14"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ACCESS OF FOREIGN REPRESENTATIVES AND FOREIGN CREDITORS TO COURTS IN MALAYSIA Right of direct access"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_24"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "RECOGNITION OF FOREIGN PROCEEDINGS AND RELIEF Application for recognition of foreign proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_15__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_15__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_15__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A foreign representative may apply to the Court for recognition of foreign proceedings in which the foreign representative has been appointed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_15__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_15__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_15__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application for recognition of foreign proceedings shall be accompanied by—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_15__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_15__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a certified copy of the decision commencing the foreign proceedings and appointing the foreign representative;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_15__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_15__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a certificate from the foreign court affirming the existence of the foreign proceedings and the appointment of the foreign representative; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_15__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_15__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the absence of evidence referred to in paragraphs (a) and (b), any other evidence acceptable to the Court of the existence of the foreign proceedings and of the appointment of the foreign representative."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_15__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application for recognition of foreign proceedings shall also be accompanied by a statement identifying all foreign proceedings and proceedings under Malaysian insolvency law in respect of the debtor that are known to the foreign representative."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_15__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The foreign representative shall provide the Court with a translation into English language text of a document submitted other than in the English language in support of the application for recognition of foreign proceedings and the translation shall be accompanied by a certificate from the person who translated the document setting out that the translation is accurate and true. Presumptions of recognition"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_16__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_16__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the decision or certificate referred to in subsection 15(2) indicates that the proceedings in respect of which an application for recognition of foreign proceedings is made are foreign proceedings within the meaning of subsection 2(1) and that the person or body making the application is a foreign representative within the meaning of subsection 2(1), the Court is entitled to so presume."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Court may presume that the document submitted in support of the application for recognition of foreign proceedings is authentic, whether or not the document has been legalized."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_16__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In the absence of proof to the contrary, the debtor’s place of registered office is presumed to be the debtor’s centre of main interests. Decision to recognize foreign proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application for recognition of foreign proceedings shall be determined by the Court at the earliest possible time."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to section 7, the Court shall recognize foreign proceedings by making a recognition order if—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the proceedings are foreign proceedings within the meaning of subsection 2(1);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the person or body applying for recognition is a foreign representative within the meaning of subsection 2(1);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the application complies with the requirements of subsections 15(2) and (3); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the application has been submitted to the Court referred to in section 5."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The foreign proceedings shall be recognized as—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "foreign main proceedings, if the foreign proceedings are taking place in a foreign State where a debtor has its centre of main interests; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "foreign non-main proceedings, if the debtor has an establishment within the meaning of subsection 2(1) in the foreign State."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in this section, section 15, 16 or 18 shall prevent the modification or termination of a recognition order, if it is shown that the grounds for granting the recognition order were wholly or partly lacking at the time the recognition was granted or have wholly or partly ceased to exist."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Court may, on the application of a foreign representative, a person affected by the recognition, or on its own motion, modify or terminate a recognition order, either wholly or for a limited period, on such conditions as the Court thinks fit. Subsequent information"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "From the time an application for recognition of foreign proceedings is filed and continuing thereafter, the foreign representative shall promptly notify the Court—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "of any substantial change in the status of the recognized foreign proceedings or the status of the foreign representative’s appointment; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "of any other foreign proceedings or proceedings under Malaysian insolvency law regarding the same debtor that comes to the knowledge of the foreign representative. Relief that may be granted upon filing of application for recognition of foreign proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_19__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_19__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_19__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_19__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_19__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_19__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "From the time an application for recognition of foreign proceedings is filed until the application is determined, the Court may, on the application of the foreign representative, where relief is urgently needed to protect the property of the debtor or the interests of the creditors, grant any such relief of a provisional nature as the Court thinks fit, including—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_19__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_19__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "staying any execution against the property of the debtor;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_19__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_19__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "entrusting the administration or realization of whole or any part of the property of the debtor located in Malaysia to the foreign representative or to a Malaysian insolvency office-holder, for the purpose of protecting and preserving the value of the property which, by its nature or due to other circumstances, is perishable, susceptible to devaluation or is otherwise in jeopardy; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_19__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_19__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "granting any relief referred to in paragraph 21(1)(c), (d) or (g)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any relief granted under subsection (1) by the Court shall be consistent with any order that has been made or may be made under this Act, the Companies Act 2016, the Labuan Companies Act 1990 or any other written laws."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_19__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Unless extended under paragraph 21(1)(f), the relief granted under subsection (1) shall terminate upon the determination of the application for recognition of foreign proceedings."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_19__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Court may refuse to grant any relief under this section if such relief would interfere with the administration of foreign main proceedings. Effects of recognition of foreign main proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsection (2), upon recognition of foreign proceedings as foreign main proceedings—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the commencement or continuation of any individual action or proceedings in relation to the property, rights, obligations or liabilities of the debtor shall be stayed;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any execution against the property of the debtor shall be stayed; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any right to transfer, encumber or otherwise dispose of any property of the debtor shall be suspended."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The stay and suspension referred to in subsection (1) shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be of the same scope and have the same effect as if the debtor had been made the subject of a winding up order under the Companies Act 2016 or the Labuan Companies Act 1990; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be subject to the same powers of the Court and the same prohibitions, limitations, exceptions and conditions as would apply under the laws of Malaysia in such a case, and the provision of subsection (1) shall be interpreted accordingly."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_3__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to subsection (2), the stay and suspension referred to in subsection (1) shall not affect the rights—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "of any person to take any steps to enforce any security over the property of the debtor;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "of any person to take any steps to repossess goods in the possession of the debtor under a hire-purchase agreement as defined in section 2 of the Hire-Purchase Act 1967 [Act 212];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "of any person exercisable under, by virtue of, or in connection with any provision of the written laws as specified in Part II of the Schedule; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "of a creditor to set off his claim against a claim of the debtor, being the rights which would have been exercisable if the debtor had been made the subject of a winding up order under the Companies Act 2016 or the Labuan Companies Act 1990."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph (1)(a) shall not affect the rights—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to commence individual actions or proceedings to the extent necessary to preserve a claim against the debtor; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to commence or continue any criminal proceedings, or any action or proceedings by any person or body having regulatory, supervisory, investigative or enforcement functions of a public nature where such action or proceedings is brought in the exercise of those functions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection (1) shall not affect the rights of any person to apply for, or otherwise initiate, the commencement of proceedings under Malaysian insolvency law, or the rights to file a claim in such proceedings."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In addition to and without prejudice to the powers of the Court under subsection (2), the Court may, on the application of the foreign representative or any person affected by the stay and suspension referred to in subsection (1), or on its own motion, modify or terminate such stay and suspension or any part of it, either wholly or for a limited period, on such conditions as the Court thinks fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In this section, “security” means any charge, lien, mortgage, pledge, hypothecation or any other security recognized by law including any security accepted in relation to matters of admiralty in Malaysia. Relief that may be granted upon recognition of foreign proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_1__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon recognition of foreign proceedings, whether as foreign main proceedings or foreign non-main proceedings, where necessary to protect the property of the debtor or the interests of the creditors, the Court may, on the application of the foreign representative, grant any appropriate relief as the Court thinks fit, including an order—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "staying the commencement of or continuation of any individual action or proceedings concerning the property, rights, obligations or liabilities of the debtor, to the extent such action or proceedings have not been stayed under paragraph 20(1)(a);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "staying any execution against the property of the debtor, to the extent such execution has not been stayed under paragraph 20(1)(b);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "suspending the rights to transfer, encumber or otherwise dispose of any property of the debtor, to the extent such right has not been suspended under paragraph 20(1)(c);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the examination of witnesses, the taking of evidence or the delivery or production of information concerning the property, affairs, rights, obligations or liabilities of the debtor;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "entrusting the administration or realization of the whole or any part of the property of the debtor located in Malaysia to the foreign representative or such other person as the Court may appoint, for the purpose of protecting and preserving the value of such property;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "extending any relief granted under subsection 19(1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that may be available to a Malaysian insolvency office-holder under the laws of Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If relief is granted under paragraph (1)(e) to a foreign representative or such other person as the Court may appoint, the Court may, on the application of the foreign representative or such other person as the Court may appoint, where the distribution applied for involves the transfer of any property of the debtor to any person outside Malaysia, the foreign representative or such other person as the Court may appoint shall first obtain leave of the Court, and such leave shall only be granted if the Court is satisfied that the interests of creditors in Malaysia are adequately protected."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of subsection (2), before making any order for the transfer of any property of the debtor to any person outside Malaysia, the Court shall ensure that the foreign representative or such other person as the Court may appoint has certified or provided a guarantee to the Court that the claim of creditors in Malaysia, whose debts do not exceed the threshold as prescribed by the Minister by order published in the Gazette, have been met and satisfied from the property applied to be so transferred."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In granting relief under subsection (1) to a foreign representative of foreign non-main proceedings, the Court shall be satisfied that such relief relates to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "property which, under the laws of Malaysia, should be administered in the foreign non-main proceedings; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "information required in the foreign non-main proceedings."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in paragraphs (1)(a), (b), (c), (e) and (g), and subsection (2) shall affect the rights to commence or continue any criminal proceedings or any action or proceedings by any person or body having regulatory, supervisory, investigative or enforcement functions of a public nature, where such action or proceedings is brought in the exercise of those functions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this section, the Minister, after consultation with the Minister of Finance and the Minister charged with the responsibility for companies, may amend the threshold referred to in subsection (3), by order published in the Gazette. Protection of creditors and other interested persons"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_22__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_22__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_22__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_22__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In granting or refusing any relief under section 19 or 21, or in modifying or terminating any relief under subsection (3) or subsection 20(6), the Court shall be satisfied that the interests of the creditor, including the creditor in Malaysia, any secured creditor or party to a hire-purchase agreement, and any other interested person, including the debtor where appropriate, are adequately protected."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_22__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Court may impose such conditions on the grant of relief under section 19 or 21 as the Court deems appropriate, including requiring the foreign representative to furnish security for the due performance of his functions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_22__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Court may, on the application of the foreign representative or any person affected by the relief granted under section 19 or 21, or on its own motion, modify or terminate the relief. Actions to avoid acts detrimental to creditors"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_9"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsections (6) and (9), upon recognition of foreign proceedings, a foreign representative shall have locus standi to apply to the Court for an order under, or in connection with sections 352, 366, 426, 472, 528, 529, 530, 531, 540 and 541 of the Companies Act 2016 and section 20 of the Labuan Companies Act 1990."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a foreign representative makes such an application under subsection (1), the provisions of the Companies Act 2016 and the Labuan Companies Act 1990 as referred to in subsection (1) shall apply—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "regardless of whether the debtor is being wound up, is placed under judicial management, or is undergoing a scheme of compromise or arrangement under the Companies Act 2016 or the Labuan Companies Act 1990, as the case may be; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "subject to the modifications specified in subsection (3)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_3__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_3__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this section, the applicable modifications are as follows:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the purposes of section 366 of the Companies Act 2016, the date which corresponds with the commencement of a scheme of compromise or arrangement shall be the date of the opening of the relevant foreign proceedings;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the purposes of section 426 of the Companies Act 2016, the date which corresponds with the presentation of an application for judicial management shall be the date of the opening of the relevant foreign proceedings;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the purposes of section 472 of the Companies Act 2016, the date which corresponds with the presentation of a winding up petition shall be the date of the opening of the relevant foreign proceedings;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the purposes of sections 528, 529, 530, 531, 540 and 541 of the Companies Act 2016, the date which corresponds with the presentation of a winding up petition in the case of winding up by Court or passing of the resolution in the case of voluntary winding up, shall be the date of the opening of the relevant foreign proceedings; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_3__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the purposes of section 20 of the Labuan Companies Act 1990, the date which corresponds with the date the ultra vires transaction is sought to be restrained shall be the date of the opening of the relevant foreign proceedings."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of subsection (3), the date of the opening of the relevant foreign proceedings shall be determined in accordance with the law of the foreign State where the foreign proceedings take place, including any rule of law under which the foreign proceedings are deemed to have been opened at an earlier date."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the foreign proceedings are foreign non-main proceedings, the Court shall be satisfied that the application under this section relates to property which, under the laws of Malaysia, should be administered in the foreign non-main proceedings."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where, at the time the application is filed, proceedings in respect of the debtor are pending under Malaysian insolvency law, the foreign representative shall not make an application under this section without the leave of the Court."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon granting an order in relation to the application under this section, the Court may give such directions regarding the distribution of any proceeds of the claim by the foreign representative, as it thinks fit, to ensure that the interests of creditors in Malaysia are adequately protected."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in this section shall affect the rights of a Malaysian insolvency office-holder to make any application under, or in connection with, any of the provisions specified in subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23__subsec_9",
+      "@type": "akn:subsection",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection (1) shall not apply in respect of any preference given, floating charge created, alienation, assignment made, or other transaction entered into before the date of the coming into operation of this Act. Intervention by foreign representative in proceedings in Malaysia"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon recognition of foreign proceedings, a foreign representative may, subject to compliance with the requirements under the Companies Act 2016, the Labuan Companies Act 1990 or any other applicable written laws, intervene in any proceedings in which the debtor is a party."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The sole fact that an application under this Act is made to the Court by a foreign representative does not subject the foreign representative or the foreign property and affairs of a debtor to the jurisdiction of the Court for any purposes other than the application. Application by foreign representative to commence proceedings under Malaysian insolvency law"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A foreign representative appointed in foreign main proceedings or foreign non-main proceedings is entitled to apply to commence proceedings under Malaysian insolvency law if the conditions for commencing such proceedings are otherwise met. Participation of foreign representative in proceedings under Malaysian insolvency law"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon recognition of foreign proceedings, a foreign representative is entitled to participate in proceedings regarding a debtor under Malaysian insolvency law. Access of foreign creditor to proceedings under Malaysian insolvency law"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_13__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_13__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsection (2), a foreign creditor shall have the same rights regarding the commencement of, and participation in, proceedings under Malaysian insolvency law as creditors in Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection (1) shall not affect the ranking of claims in proceedings under Malaysian insolvency law, or the exclusion of foreign tax claims, social security claims or claims for employee’s superannuation or provident funds or claims under any scheme of superannuation from such proceedings."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_13__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (2), the claims of a foreign creditor shall not be ranked lower than general unsecured creditors solely by reason that the creditor is a foreign creditor. Notification to foreign creditor of proceedings under Malaysian insolvency law"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_14__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_14__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where under Malaysian insolvency law notification is required to be given to creditors in Malaysia, such notification shall also be given to all known foreign creditors who do not have addresses in Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Court may make an order requiring that reasonable steps be taken to notify any foreign creditor whose address is not yet known."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_14__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_14__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The notification referred to in subsection (1) shall be given to the foreign creditors individually, unless the Court is satisfied that, under the circumstances—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_14__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_14__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "some other form of notification would be more appropriate, including electronic notification or online notification; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_14__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_14__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "notification to creditors in Malaysia is given by way of advertisement in the local newspapers in which case the notification to the known foreign creditors may be given by way of advertisement in such foreign newspapers as the Court considers appropriate for ensuring that the content of the notification comes to the attention of such known foreign creditors."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_14__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_14__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_14__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_14__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where notification of a right to file a claim is to be given to foreign creditors, such notification shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_14__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_14__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "specify a reasonable time period for filing claims and specify the place of filing;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_14__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_14__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "indicate whether a secured foreign creditor is required to file his secured claims; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_14__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_14__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "contain any other information required to be included in such a notification to creditors under the laws of Malaysia and the orders of the Court."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_9__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A foreign representative is entitled to apply directly to the Court under this Act for the recognition of foreign proceedings or for any relief or assistance provided under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A foreign representative may appear in person or may be represented by an advocate for the purposes of any application made under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In this section, “advocate” means any person entitled to practice as an advocate or as a solicitor or as an advocate and solicitor under any law in any part of Malaysia. Limited jurisdiction"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_27"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "COOPERATION WITH FOREIGN COURTS AND FOREIGN REPRESENTATIVES Cooperation and direct communication between Court and foreign courts or foreign representatives"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_25__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_25__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_25__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this Act, the Court may cooperate to the maximum extent possible with foreign courts or foreign representatives, either directly or through a Malaysian insolvency office-holder."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_25__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Court is entitled to communicate directly with, or request information or assistance directly from, foreign courts or foreign representatives. Cooperation and direct communication between Malaysian insolvency office-holder and foreign courts or foreign representatives"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_26__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this Act, a Malaysian insolvency office-holder shall, in the exercise of his functions under the laws of Malaysia, and subject to the supervision of the Court, cooperate to the maximum extent possible with foreign courts or foreign representatives."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Malaysian insolvency office-holder is entitled, in the exercise of his functions under the laws of Malaysia, and subject to the supervision of the Court, to communicate directly with foreign courts or foreign representatives. Forms of cooperation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_27__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_27__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_27__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_27__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_27__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The cooperation referred to in sections 25 and 26 may be implemented by any appropriate means, including—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_27__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the appointment of a person to act under the direction of the Court;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_27__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "communication of information by any means as the Court deems appropriate;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_27__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "coordination of the administration and supervision of the property and affairs of the debtor;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_27__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "approval or implementation of any agreement relating to the coordination of proceedings by the Court; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_27__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "coordination of concurrent proceedings regarding the same debtor."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Cross-Border Insolvency Act 2025."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires— “establishment” means any place where the debtor has property, or any place of operations where the debtor carries out a non-transitory economic activity with human means and property or services; “Court” means the Court as referred to in section 5; “foreign court” means a judicial or other authority competent to control or supervise foreign proceedings; “Minister” means the Minister charged with the responsibility for law; “Malaysian insolvency office-holder” means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_1__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Official Receiver as defined in section 2 of the Companies Act 2016 [Act 777];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_1__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_1__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_1__para_b__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_1__para_b__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person appointed under the Companies Act 2016 to act in any of the following capacities:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_1__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "liquidator or interim liquidator, whether in a compulsory or voluntary winding up;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_1__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "judicial manager or interim judicial manager in judicial management;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_1__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "nominee or supervisor of a corporate voluntary arrangement; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_1__para_b__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "representative of a scheme of compromise or arrangement;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person approved under the Labuan Companies Act 1990 [Act 441] as an approved liquidator;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other person appointed by the Court under subsection 6(2) to act in a foreign State on behalf of any proceedings; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other such person or body recognized under any written law in Malaysia in a collective judicial or administrative proceedings in Malaysia, including interim proceedings, under the law relating to insolvency in which proceedings the property and affairs of the debtor are subject to control or supervision by the Court, for the purposes of reorganization or liquidation; “debtor” means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a corporation as defined in section 3 of the Companies Act 2016 but does not include limited liability partnership and foreign limited liability partnership; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a corporation as defined in section 2 of the Labuan Companies Act 1990; “foreign proceedings” means collective judicial or administrative proceedings in a foreign State, including interim proceedings, under the law relating to insolvency in which proceedings the property and affairs of the debtor are subject to control or supervision by a foreign court, for the purposes of reorganization or liquidation; “foreign non-main proceedings” means foreign proceedings other than foreign main proceedings taking place in a foreign State where a debtor has an establishment; “foreign main proceedings” means foreign proceedings taking place in a foreign State where the debtor has its centre of main interests; “Malaysian insolvency law” means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_3",
+      "@type": "akn:list",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_3__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_3__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "subdivisions 2 and 3 of Division 7 of Part III, Division 8 of Part III, and Parts IV and V of the Companies Act 2016;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "sections 74, 127, 130zb, 131, 131a, 151c and 151d of the Labuan Companies Act 1990;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any subsidiary legislation made under this Act, the Companies Act 2016, the Labuan Companies Act 1990 and the Courts of Judicature Act 1964 [Act 91]; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_3__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_1__list_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the common law of Malaysia relating to or in connection with any provision of this Act, the Companies Act 2016, the Labuan Companies Act 1990 and the Courts of Judicature Act 1964 or any provision of any subsidiary legislation made under this Act, the Companies Act 2016, the Labuan Companies Act 1990 and the Courts of Judicature Act 1964; “foreign representative” means a person or body appointed, including a person or body appointed on an interim basis, and authorized in foreign proceedings to administer the reorganization or liquidation of a debtor’s property or affairs or to act as a representative of the foreign proceedings."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In interpreting this Act, regard shall be had to its international origins and to the need to promote uniformity in its application and the observance of good faith. Application"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall apply where—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "assistance is sought in Malaysia by a foreign court or foreign representative in connection with foreign proceedings;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "assistance is sought in a foreign State in connection with proceedings under Malaysian insolvency law;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "foreign proceedings and proceedings under Malaysian insolvency law in respect of the same debtor are taking place concurrently; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "creditors or other interested persons in a foreign State have an interest in applying for the commencement of, or participating in, proceedings under Malaysian insolvency law."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall not apply to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "insolvency and bankruptcy of an individual under the Insolvency Act 1967 [Act 360];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_2__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_2__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_2__para_b__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_2__para_b__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any person carrying on a registered business or licensed business under—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_2__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Registration of Businesses Act 1956 [Act 197];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_2__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Trades Licensing Ordinance [Sabah Cap. 144];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_2__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Businesses, Professions and Trades Licensing Ordinance [Sarawak Cap. 33]; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_2__para_b__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Business Names Ordinance [Sarawak Cap. 64];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any limited liability partnership and foreign limited liability partnership under the Limited Liability Partnerships Act 2012 [Act 743]; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any person as specified in Part I of the Schedule. Act to be read together with other laws"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall be read together with any other written laws relating to insolvency and related matters and the provisions of this Act shall be in addition to, and not in derogation of, the provisions of such other written laws. Competent Court"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The functions in relation to recognition of foreign proceedings and cooperation with foreign courts under this Act shall be performed by the High Court in Malaya or the High Court in Sabah and Sarawak, as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding any provision of this Act, the Court shall not recognize any foreign proceedings, grant any relief, or modify any relief that has already been granted, or provide any cooperation or coordination under this Act, if and to the extent that such recognition, relief, modified relief, cooperation or coordination would, in the case of proceedings under any written law be prohibited by or interfere with or be inconsistent with the provisions in relation to restrictions specified in Part II of the Schedule. Authorization of Malaysian insolvency office-holder to act in foreign State"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_6__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A Malaysian insolvency office-holder is authorized to act in a foreign State on behalf of proceedings under Malaysian insolvency law as permitted by the applicable law of the foreign State."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Court may, upon application, appoint any other person to act in a foreign State on behalf of proceedings under Malaysian insolvency law as permitted by the applicable law of the foreign State. Public policy exception"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in this Act shall prevent the Court from refusing to take any action or grant any order or relief under this Act if the taking of such action or the granting of such order or relief would be contrary to the public policy of Malaysia. Additional assistance under other written laws"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in this Act limits the power of the Court or a Malaysian insolvency office-holder to provide additional assistance to a foreign representative under other written laws."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_32"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "CONCURRENT PROCEEDINGS Commencement or continuation of proceedings under Malaysian insolvency law after recognition of foreign main proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_VI__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_VI__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_VI__cl_35"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "GENERAL Power to make regulations"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_VI__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may make such regulations as may be expedient or necessary for giving full effect or for better carrying out of the provisions of this Act. Power to amend Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_VI__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_VI__cl_34__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_VI__cl_34__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_VI__cl_34__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_VI__cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, on the recommendation of the Central Bank of Malaysia, the Securities Commission Malaysia, the Malaysia Deposit Insurance Corporation, the Labuan Financial Services Authority, the Companies Commission of Malaysia, the Civil Aviation Authority of Malaysia or other relevant authority, as the case may be, by order published in the Gazette, amend the Schedule to this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_VI__cl_34__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_VI__cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon publication of the order referred to in subsection (1), the Schedule as amended shall come into full force and effect and shall be deemed to be part of this Act from the date of such publication or from such later date as may be specified in the order. Saving"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_VI__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_VI__cl_35__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_VI__cl_35__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_VI__cl_35__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_VI__cl_35__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_VI__cl_35__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_VI__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall apply only to cross-border insolvency proceedings commenced on or after the date of coming into operation of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_VI__cl_35__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_VI__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any cross-border insolvency proceedings or application relating to cross-border insolvency commenced before the date of coming into operation of this Act shall continue to be dealt with in accordance with the law in force immediately before the date of coming into operation of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_VI__cl_35__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_VI__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any order, direction, decision, act or proceedings made, given, undertaken or done under any written law relating to cross-border insolvency before the date of coming into operation of this Act, and any right, obligation or liability accrued thereunder, shall, in so far as it is not inconsistent with the provisions of this Act, continue to remain valid and enforceable."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_VI__cl_35__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_VI__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in this Act shall affect the rights and remedies of any creditor arising or accrued under the law applicable before the date of coming into operation of this Act, unless otherwise agreed by the relevant parties or directed by the Court under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_28__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_28__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "After recognition of foreign main proceedings, the effects of any proceedings under Malaysian insolvency law in relation to the same debtor shall, in so far as the proceedings relate to the property of the debtor, be limited—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_28__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to property that is located in Malaysia; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_28__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to the extent necessary to give effect to cooperation and coordination under sections 25, 26 and 27, to other property of the debtor that under the laws of Malaysia, should be administered in those proceedings. Coordination of proceedings under Malaysian insolvency law and foreign proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where foreign proceedings and proceedings under Malaysian insolvency law are taking place concurrently regarding the same debtor, the Court may seek cooperation and coordination under sections 25, 26 and 27, and the following matters shall apply:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "when the proceedings in Malaysia are taking place at the time the application for recognition of foreign proceedings is filed—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any relief granted under section 19 or 21 shall be consistent with the proceedings in Malaysia; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if the foreign proceedings are recognized in Malaysia as foreign main proceedings, section 20 shall not apply;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "when the proceedings in Malaysia are commenced after the filing of an application for recognition of foreign proceedings or after recognition is granted—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any relief granted which is in effect under section 19 or 21 shall be reviewed by the Court and, if inconsistent with the proceedings in Malaysia, shall be modified or set aside;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if the foreign proceedings are foreign main proceedings, the stay and suspension under subsection 20(1) shall be modified or set aside under subsection 20(6), if inconsistent with the proceedings in Malaysia; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any proceedings brought by the foreign representative under subsection 23(1) prior to the commencement of the proceedings in Malaysia shall be subject to review by the Court and the Court may give such directions as it deems fit regarding the continuance of those proceedings; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in granting, extending or modifying any relief given to a foreign representative of foreign non-main proceedings, the Court shall be satisfied that the relief relates to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "property that, under the laws of Malaysia, should be administered in the foreign non-main proceedings; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_29__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "information required in the foreign non-main proceedings. Coordination in respect of more than one foreign proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_30__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_30__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_30__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this Act, in respect of more than one foreign proceedings regarding the same debtor, the Court may seek cooperation and coordination under sections 25, 26 and 27, and the following matters shall apply:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_30__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any relief granted under section 19 or 21 to a representative of foreign non-main proceedings after recognition of foreign main proceedings shall be consistent with the foreign main proceedings;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_30__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if the foreign main proceedings are recognized after the filing of an application for recognition of foreign non-main proceedings, any relief granted under section 19 or 21 shall be reviewed by the Court and shall be modified or set aside if inconsistent with the foreign main proceedings; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_30__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if, after recognition of foreign non-main proceedings, another foreign non-main proceedings are recognized, the Court may grant, modify or set aside any relief for the purpose of facilitating coordination of those proceedings. Presumption of insolvency based on recognition of foreign main proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In the absence of evidence to the contrary, the recognition of foreign main proceedings, for the purpose of commencing proceedings under Malaysian insolvency law, is proof that the debtor is unable to pay its debts within the meaning assigned under Malaysian insolvency law. Rule of payment in concurrent proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to security claims or rights in rem, a creditor who has received part payment in respect of his claim in any proceedings under the law relating to insolvency in a foreign State shall not receive payment for the same claim in proceedings under Malaysian insolvency law regarding the same debtor, so long as the payment to the other creditors of the same class is proportionately less than the payment the creditor has already received."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Paragraph 3(2)(d), subsection 5(2) and paragraph 20(3)(c)]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_17"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Non-application This Act shall not apply to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Provisions in relation to restrictions on granting recognition, relief, etc., in certain circumstances"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Recognition of any foreign proceedings, granting of any relief or modification of any relief that has been granted, or provision of any cooperation or coordination under this Act shall not be allowed, if and to the extent that such recognition, relief, modified relief, cooperation or coordination would, in the case of proceedings under any written law—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_1__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_1__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_1__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_1__para_a__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_1__para_a__subpara_v"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be prohibited by virtue of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_1__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_1__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 42, 44, 194 or 195 of the Financial Services Act 2013;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_1__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_1__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 52, 54, 206 or 207 of the Islamic Financial Services Act 2013;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_1__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_1__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 25, 26, 65, 91 or 204, and Part VII or IX of the Malaysia Deposit Insurance Corporation Act 2011;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_1__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_1__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Division 2 of Part II of the Capital Markets and Services Act 2007; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_1__para_a__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_1__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the International Interests in Mobile Equipment (Aircraft) Act 2006 [Act 659];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "interfere or be inconsistent with the finality of payment or netting arrangement under Division 3 of Part IV of the Financial Services Act 2013 or Division 3 of Part V of the Islamic Financial Services Act 2013; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "interfere or be inconsistent with the enforceability of a netting provision in a qualified financial agreement in respect of a qualified financial transaction as defined in or prescribed under the Netting of Financial Agreements Act 2015 [Act 766]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Recognition of any foreign proceedings, granting of any relief or modification of any relief that has been granted, or provision of any cooperation or coordination under this Act shall not be allowed on application by any foreign representative or any other applicant in any proceedings concerning any person to whom or in respect of which the Central Bank of Malaysia—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "specifies measures under paragraph 31(1)(a) of the Central Bank of Malaysia Act 2009 [Act 701], which in the opinion of the Central Bank of Malaysia would contribute to the resilience of the financial system or limit the accumulation of any risk to financial stability;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "issues an order in writing under paragraph 31(1)(b) of the Central Bank of Malaysia Act 2009, to take such measures as the Central Bank of Malaysia may consider necessary or appropriate to avert or reduce any risk to financial stability; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "exercises its power under section 32 of the Central Bank of Malaysia Act 2009 for the purpose of averting or reducing any risk to financial stability, unless the foreign representative or other applicant has obtained prior written approval from the Central Bank of Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Recognition of any foreign proceedings, granting of any relief or modification of any relief that has been granted, or provision of any cooperation or coordination under this Act shall not be allowed on application by any foreign representative or any other applicant in any proceedings in respect of any person to whom or in respect of whom the Securities Commission Malaysia has issued a directive in writing under section 31zg of the Securities Commission Malaysia Act 1993 [Act 498] to take such measures as the Securities Commission Malaysia may consider necessary in the interest of monitoring, mitigating or managing systemic risk in the capital market, unless the foreign representative or other applicant has obtained prior written approval from the Securities Commission Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Recognition of any foreign proceedings, granting of any relief or modification of any relief that has been granted, or provision of any cooperation or coordination under this Act shall not be allowed on application by any foreign representative or any other applicant in any proceedings in respect of any person to whom or in respect of whom the Labuan Financial Services Authority has issued a direction under section 4b of the Labuan Financial Services Authority Act 1996 [Act 545], to take such measures as the Labuan Financial Services Authority may consider necessary to give effect to its objectives under subsection 3(2) of the Labuan Financial Services Authority Act 1996, including measures necessary for the orderly development and administration of the international business and financial services in Labuan, unless the foreign representative or other applicant has obtained prior written approval from the Labuan Financial Services Authority."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any licensed person, financial holding company, operator of a designated payment system, approved operator of a payment system or approved issuer of a designated payment instrument as defined in subsection 2(1) of the Financial Services Act 2013 [Act 758];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_10",
+      "@type": "akn:paragraph",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any Labuan insurer and Labuan reinsurer licensed under section 103 of the Labuan Financial Services and Securities Act 2010, including person carrying on Labuan captive insurance business;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_11",
+      "@type": "akn:paragraph",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any Labuan takaful operator and Labuan retakaful operator licensed under section 78 of the Labuan Islamic Financial Services and Securities Act 2010, including person carrying on Labuan captive takaful business;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_12",
+      "@type": "akn:paragraph",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any Labuan protected cell company incorporated under section 130o of the Labuan Companies Act 1990;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_13",
+      "@type": "akn:paragraph",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any Labuan trust company, Labuan managed trust company and Labuan private trust company licensed or registered under section 61, 71 or 74 of the Labuan Financial Services and Securities Act 2010 respectively;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_14",
+      "@type": "akn:paragraph",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any Labuan trust created under section 8 of the Labuan Trusts Act 1996 [Act 554] and any Labuan Islamic trust established under section 105 of the Labuan Islamic Financial Services and Securities Act 2010;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_15",
+      "@type": "akn:paragraph",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any person who operates Labuan payment system approved under section 171 of the Labuan Financial Services and Securities Act 2010 or section 136 of the Labuan Islamic Financial Services and Securities Act 2010;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_16",
+      "@type": "akn:paragraph",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any exchange approved under section 134 of the Labuan Financial Services and Securities Act 2010; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_17",
+      "@type": "akn:paragraph",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any Labuan foundation established under section 4 of the Labuan Foundations Act 2010 [Act 706] or any Labuan Islamic foundation established under section 107 of the Labuan Islamic Financial Services and Securities Act 2010."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any licensed person, financial holding company, operator of a designated payment system, approved operator of a payment system or approved issuer of a designated Islamic payment instrument as defined in subsection 2(1) of the Islamic Financial Services Act 2013 [Act 759];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any prescribed institution as defined in subsection 3(1) of the Development Financial Institutions Act 2002 [Act 618];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any person prescribed as a prescribed financial institution under section 212 of the Financial Services Act 2013 or as a prescribed Islamic financial institution under section 223 of the Islamic Financial Services Act 2013;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any member institution or bridge institution as defined under subsection 2(1) of the Malaysia Deposit Insurance Corporation Act 2011 [Act 720];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_6",
+      "@type": "akn:paragraph",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any exchange holding company and its subsidiaries including a stock exchange, derivatives exchange, recognized market operator or clearing house, as approved or registered under the Capital Markets and Services Act 2007 [Act 671];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_7",
+      "@type": "akn:paragraph",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any central depository approved under section 5 of the Securities Industry (Central Depositories) Act 1991 [Act 453];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_8",
+      "@type": "akn:paragraph",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any Labuan bank and Labuan investment bank licensed under sections 88 and 89 of the Labuan Financial Services and Securities Act 2010 [Act 704] respectively and Labuan Islamic bank and Labuan Islamic investment bank licensed under sections 63 and 64 of the Labuan Islamic Financial Services and Securities Act 2010 [Act 705] respectively;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I__para_9",
+      "@type": "akn:paragraph",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/21/eng@/~sched_1__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any Labuan licensed entity carrying on Labuan financial business under section 90 of the Labuan Financial Services and Securities Act 2010 or Labuan Islamic financial business licensed under section 65 of the Labuan Islamic Financial Services and Securities Act 2010;"
+      }
+    }
+  ]
+}

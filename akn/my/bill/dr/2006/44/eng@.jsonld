@@ -2460,7 +2460,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/44/eng@/~part_IV",
       "schema:name": {
         "@language": "en",
-        "@value": "The Minister may, after consultation with"
+        "@value": "The Minister may, after consultation with the"
       },
       "schema:text": {
         "@language": "en",

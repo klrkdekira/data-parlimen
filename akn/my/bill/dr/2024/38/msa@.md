@@ -134,7 +134,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “Bab 2 Pembiayaan pihak ketiga
 
-### Takrif
+<!-- marginal: Takrif -->
 
 46a. Dalam Bab ini—
 
@@ -262,11 +262,7 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Timbang Tara 2005 (“Akta 6
 
 3. Fasal 2 bertujuan untuk meminda seksyen 2 Akta 646 untuk memasukkan takrif “Presiden” ke dalam Akta 646 yang merujuk kepada Presiden Mahkamah Timbang Tara Pusat Timbang Tara Antarabangsa Asia yang akan menggantikan Pengarah Pusat Timbang Tara Antarabangsa Asia (Malaysia). Ini adalah untuk menunjukkan inisiatif penstrukturan semula Pusat Timbang Tara Antarabangsa Asia supaya selaras dengan pelaksanaan Perjanjian Tambahan antara Kerajaan Malaysia dengan Pertubuhan Perundingan Undang-Undang Asia-Afrika yang berhubungan dengan Pusat Timbang Tara Antarabangsa Asia di Kuala Lumpur bertarikh 20 Februari 2024.
 
-4. Fasal 3 bertujuan untuk meminda seksyen 3 Akta 646 mengenai pemakaian Akta 646 bagi timbang tara dan award berbangkit daripada kemasukan Bab 2
-
-## Bahagian III yang baharu dicadangkan ke dalam Akta 646 mengenai pembiayaan
-
-pihak ketiga.
+4. Fasal 3 bertujuan untuk meminda seksyen 3 Akta 646 mengenai pemakaian Akta 646 bagi timbang tara dan award berbangkit daripada kemasukan Bab 2 Bahagian III yang baharu dicadangkan ke dalam Akta 646 mengenai pembiayaan pihak ketiga.
 
 5. Fasal 4 bertujuan untuk meminda seksyen 9 Akta 646 yang berhubungan dengan bentuk perjanjian timbang tara. Dengan pindaan ini, perjanjian timbang tara adalah bertulis jika ia terkandung dalam pertukaran apa-apa dokumen lain dan bukan hanya dalam pertukaran pernyataan tuntutan dan pernyataan pembelaan.
 
@@ -294,11 +290,7 @@ Subfasal 10(c) bertujuan untuk memasukkan Bab baharu 2 ke dalam Bahagian III Akt
 
 Seksyen baharu 46a bertujuan untuk mengadakan peruntukan mengenai takrif bagi istilah tertentu yang digunakan dalam Bab 2 Bahagian III Akta 646, iaitu “kos atau belanja timbang tara”, “pembiaya pihak ketiga”, “pembiayaan pihak ketiga”, “perjanjian pembiayaan pihak ketiga” dan “pihak yang dibiaya”.
 
-Seksyen baharu 46b bertujuan untuk memperuntukkan bahawa Bab 2
-
-## Bahagian III Akta 646 tidak terpakai bagi mana-mana perjanjian pembiayaan
-
-pihak ketiga yang dibuat sebelum tarikh permulaan kuat kuasa Bab ini.
+Seksyen baharu 46b bertujuan untuk memperuntukkan bahawa Bab 2 Bahagian III Akta 646 tidak terpakai bagi mana-mana perjanjian pembiayaan pihak ketiga yang dibuat sebelum tarikh permulaan kuat kuasa Bab ini.
 
 Seksyen baharu 46c bertujuan untuk mengadakan peruntukan bahawa rukun common law menentang maintenance and champerty hendaklah terhenti terpakai berhubung dengan pembiayaan pihak ketiga bagi timbang tara dan bahawa suatu perjanjian pembiayaan pihak ketiga tidak boleh dikira sebagai berlawanan dengan dasar awam atas alasan maintenance and champerty. Dengan peruntukan ini, pembiayaan pihak ketiga bagi timbang tara dan prosiding mahkamah yang berkenaan dengan timbang tara tidak lagi dilarang di Malaysia.
 

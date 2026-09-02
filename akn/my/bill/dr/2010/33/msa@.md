@@ -8,13 +8,13 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## LEMBAGA PEMBANGUNAN SENI VISUAL NEGARA
 
@@ -36,7 +36,7 @@
 
 <!-- page 2 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PEGAWAI DAN PEKHIDMAT LEMBAGA
 
@@ -48,7 +48,7 @@
 
 20. Kuasa memberikan pinjaman dan membuat pendahuluan kepada pegawai dan pekhidmat 2 1. Pembayaran faedah persaraan, ganjaran dan elaun lain
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## KEWANGAN
 
@@ -68,7 +68,7 @@
 
 29. Tahun kewangan
 
-## Bahagian V
+## BAHAGIAN V
 
 ## BALAI SENI VISUAL NEGARA
 
@@ -80,7 +80,7 @@
 
 33. Pelupusan karya seni visual yang ditinggalkan dengan Balai
 
-## Bahagian VI
+## BAHAGIAN VI
 
 AM
 
@@ -90,31 +90,15 @@ AM
 
 <!-- page 3 -->
 
-36. Akta Perlindungan Pihak Berkuasa Awam 1948
+36. Akta Perlindungan Pihak Berkuasa Awam 1948 37. Pekhidmat awam 38. Pindaan Jadual
 
-37. Pekhidmat awam
-
-38. Pindaan Jadual
-
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PERUNTUKAN PEMANSUHAN, KECUALIAN DAN PERALIHAN
 
-39. Pemansuhan dan pembubaran
+39. Pemansuhan dan pembubaran 40. Pemindahan kuasa, dsb. 41. Pemindahan harta 42. Kontrak sedia ada 43. Penerusan prosiding sivil dan jenayah 44. Pemindahan Kumpulan Wang 45. Penerusan pegawai dan pekhidmat
 
-40. Pemindahan kuasa, dsb.
-
-41. Pemindahan harta
-
-42. Kontrak sedia ada
-
-43. Penerusan prosiding sivil dan jenayah
-
-44. Pemindahan Kumpulan Wang
-
-45. Penerusan pegawai dan pekhidmat
-
-## Jadual
+## JADUAL
 
 <!-- page 5 -->
 
@@ -124,7 +108,7 @@ Suatu Akta untuk menubuhkan Lembaga Pembangunan Seni Visual Negara dan Balai Sen
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -158,7 +142,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “tarikh yang ditetapkan” ertinya tarikh Akta ini mula berkuat kuasa.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## LEMBAGA PEMBANGUNAN SENI VISUAL NEGARA
 
@@ -406,7 +390,7 @@ untuk membuat perundangan subsidiari, kuasa untuk meminjam wang dan kuasa yang b
 
 (b) ada apa-apa peninggalan, kecacatan atau ketidakteraturan yang tidak menyentuh merit hal itu.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PEGAWAI DAN PEKHIDMAT LEMBAGA
 
@@ -454,7 +438,7 @@ untuk membuat perundangan subsidiari, kuasa untuk meminjam wang dan kuasa yang b
 
 <!-- page 18 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## KEWANGAN
 
@@ -550,7 +534,7 @@ untuk membuat perundangan subsidiari, kuasa untuk meminjam wang dan kuasa yang b
 
 <!-- page 22 -->
 
-## Bahagian V
+## BAHAGIAN V
 
 ## BALAI SENI VISUAL NEGARA
 
@@ -624,7 +608,7 @@ itu untuk mengambil karya seni itu dalam tempoh yang ditetapkan dalam notis itu 
 
 <!-- page 25 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 AM
 
@@ -664,7 +648,7 @@ AM
 
 38. Menteri boleh, dari semasa ke semasa, meminda Jadual melalui perintah yang disiarkan dalam Warta.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PERUNTUKAN PEMANSUHAN, KECUALIAN DAN PERALIHAN
 
@@ -718,7 +702,7 @@ ditetapkan, mempunyai kuat kuasa dan kesan sepenuhnya terhadap atau memihak kepa
 
 (3) Jika perubahan dibuat pada dan selepas tarikh yang ditetapkan berkenaan dengan terma-terma dan syarat-syarat perkhidmatan pegawai dan pekhidmat Lembaga dibubarkan yang disifatkan di bawah subsekyen (1) sebagai telah diambil khidmat oleh Lembaga yang ditubuhkan oleh Akta ini, mereka hendaklah diberikan suatu opsyen sama ada untuk terus tertakluk kepada terma-terma dan syarat-syarat perkhidmatan yang sedia ada atau tertakluk kepada terma-terma dan syarat-syarat perkhidmatan yang baru.
 
-## Jadual
+## JADUAL
 
 [Subseksyen 6(4)]
 
@@ -764,7 +748,7 @@ Akta Lembaga Pembangunan Seni Visual Negara 2010 yang dicadangkan (“Akta yang 
 
 <!-- page 31 -->
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan ini mengandungi perkara permulaan.
 
@@ -772,7 +756,7 @@ Akta Lembaga Pembangunan Seni Visual Negara 2010 yang dicadangkan (“Akta yang 
 
 4. Fasal 2 mengandungi takrif ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 5. Bahagian II Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan penubuhan Lembaga Pembangunan Seni Visual Negara.
 
@@ -800,7 +784,7 @@ Akta Lembaga Pembangunan Seni Visual Negara 2010 yang dicadangkan (“Akta yang 
 
 <!-- page 32 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 17. Bahagian III mengandungi peruntukan tentang Ketua Pengarah, pegawai dan pekhidmat Lembaga.
 
@@ -814,7 +798,7 @@ Akta Lembaga Pembangunan Seni Visual Negara 2010 yang dicadangkan (“Akta yang 
 
 22. Fasal 21 mengadakan peruntukan bagi pembayaran faedah persaraan, ganjaran dan elaun lain kepada pegawai, pekhidmat dan orang tanggungan mereka.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 23. Bahagian IV mengandungi peruntukan kewangan.
 
@@ -832,7 +816,7 @@ Akta Lembaga Pembangunan Seni Visual Negara 2010 yang dicadangkan (“Akta yang 
 
 <!-- page 33 -->
 
-## Bahagian V
+## BAHAGIAN V
 
 30. Bahagian V mengandungi peruntukan yang berhubungan dengan Balai Seni Visual Negara.
 
@@ -844,7 +828,7 @@ Akta Lembaga Pembangunan Seni Visual Negara 2010 yang dicadangkan (“Akta yang 
 
 34. Fasal 33 mengadakan peruntukan bagi pelupusan mana-mana karya seni visual yang ditinggalkan dengan Balai dan tidak diperoleh oleh Balai dan cara untuk menguruskannya.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 35. Bahagian VI mengandungi peruntukan am.
 
@@ -860,7 +844,7 @@ Akta Lembaga Pembangunan Seni Visual Negara 2010 yang dicadangkan (“Akta yang 
 
 <!-- page 34 -->
 
-## Bahagian VII
+## BAHAGIAN VII
 
 41. Bahagian VII mengandungi peruntukan mengenai pemansuhan, kecualian dan peralihan.
 

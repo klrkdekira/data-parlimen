@@ -1,0 +1,1101 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-49-2024",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VIII"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Langkah-Langkah bagi Pemungutan, Pentadbiran dan Penguatkuasaan Cukai 2024"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERMULAAN Tajuk ringkas"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II__cl_9"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967 Permulaan kuat kuasa pindaan kepada Akta Cukai Pendapatan 1967"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_19"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PINDAAN KEPADA AKTA CUKAI KEUNTUNGAN HARTA TANAH 1976 Permulaan kuat kuasa pindaan kepada Akta Cukai Keuntungan Harta Tanah 1976"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bahagian ini mula berkuat kuasa pada 1 Januari 2025. Pindaan seksyen 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_11__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_11__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Cukai Keuntungan Harta Tanah 1976, yang disebut “Akta ibu” dalam Bahagian ini, dipinda dalam seksyen 13—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (4) dengan subseksyen yang berikut: “(4) Jika seseorang membuat suatu penyata di bawah Akta ini, penyata itu hendaklah dikemukakan kepada Ketua Pengarah dalam borang yang ditetapkan melalui media elektronik atau dengan cara penghantaran elektronik mengikut seksyen 57A.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (6) subseksyen yang berikut: “(6A) Pemberitahuan yang disebut dalam subseksyen (6) hendaklah dikemukakan kepada Ketua Pengarah melalui media elektronik atau dengan cara penghantaran elektronik mengikut seksyen 57A.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_11__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (7) dengan subseksyen yang berikut: “(7) Bagi maksud seksyen 21B, seseorang yang melupuskan suatu aset yang boleh dikenakan cukai hendaklah menyerahkan pemberitahuan yang disebut dalam subseksyen (6) kepada pemeroleh dalam tempoh enam puluh hari dari tarikh pelupusan dan pemberitahuan itu hendaklah disifatkan telah diserahkan kepada pemeroleh pada hari yang pemberitahuan itu dikemukakan kepada Ketua Pengarah mengikut subseksyen (6A).”. Pindaan seksyen 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 14(5) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “dikemukakan” dengan perkataan “diserahkan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “mengemukakan” dengan perkataan “menyerahkan”. Pindaan seksyen 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_13__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 15(4) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “dikemukakan” dengan perkataan “diserahkan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “mengemukakan” dengan perkataan “menyerahkan”. Penggantian seksyen 21a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 21 A dengan seksyen yang berikut: “Perakuan tidak dikenakan cukai 21a. (1) Ketua Pengarah hendaklah memberitahu pelupus dalam suatu perakuan tidak dikenakan cukai dalam borang yang ditetapkan melalui media elektronik dan Penguatkuasaan Cukai atau dengan cara penghantaran elektronik mengikut seksyen 57A jika dia berpuas hati bahawa tiada keuntungan yang boleh dikenakan cukai telah timbul. (2) Perakuan tidak dikenakan cukai yang disebut dalam subseksyen (1) hendaklah disifatkan sebagai telah diberitahu kepada pelupus mengikut subseksyen (1) pada hari penyata di bawah seksyen 13 itu dikemukakan kepada Ketua Pengarah.”. Pindaan seksyen 21b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 21B(5) Akta ibu dipinda dengan menggantikan perkataan “notis tidak dikenakan cukai” dengan perkataan “pemberitahuan”. Pindaan seksyen 29"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 29 Akta ibu dipinda dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “( 2A) Jika seseorang telah disabitkan dengan suatu kesalahan di bawah subseksyen (1), mahkamah boleh membuat suatu perintah lanjutan menghendaki orang itu untuk mematuhi peruntukan Akta ini yang berkaitan yang di bawahnya kesalahan itu telah dilakukan dalam tempoh tiga puluh hari, atau suatu tempoh lain sebagaimana yang difikirkan sesuai oleh mahkamah, dari tarikh perintah itu dibuat.”. Pindaan seksyen 36"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_17__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 36 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula seksyen sedia ada sebagai subseksyen (1); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) yang dinomborkan semula itu subseksyen yang berikut: “(2) Jika seseorang telah disabitkan dengan suatu kesalahan di bawah subseksyen (1), mahkamah boleh membuat suatu perintah lanjutan menghendaki orang itu untuk mematuhi peruntukan Akta ini yang berkaitan yang di bawahnya kesalahan itu telah dilakukan dalam tempoh tiga puluh hari, atau suatu tempoh lain sebagaimana yang difikirkan sesuai oleh mahkamah, dari tarikh perintah itu dibuat.”. Pindaan seksyen 57a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 57 A Akta ibu dipinda dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Mana-mana orang atau golongan orang— (a) hendaklah, jika dikehendaki sedemikian di bawah Akta ini; atau (b) boleh, jika dibenarkan sedemikian oleh Ketua Pengarah, mengemukakan apa-apa borang yang ditetapkan di bawah Akta ini melalui media elektronik atau dengan cara penghantaran elektronik.”. Pindaan Jadual 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subperenggan 9(1) Jadual 3 kepada Akta ibu dipinda dalam perenggan (c) proviso, dengan menggantikan perkataan “secara bertulis beralamat kepada Ketua Pengarah” dengan perkataan “dikemukakan kepada Ketua Pengarah dalam borang yang ditetapkan melalui media elektronik atau dengan cara penghantaran elektronik mengikut seksyen 57A”. dan Penguatkuasaan Cukai"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II__cl_3__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 4, 6, 7, 8 dan 9 mula berkuat kuasa pada 1 Januari 2025."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 5 mula berkuat kuasa bagi tahun taksiran 2025 dan tahun-tahun taksiran yang berikutnya. Pindaan seksyen 66a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Cukai Pendapatan 1967, yang disebut “Akta ibu” dalam Bahagian ini, dipinda dengan memasukkan selepas subseksyen 66A(3) subseksyen yang berikut: “(4) The tax identification number referred to in subsection (1) which has been assigned under this section and made accessible by the Director General to any person shall not be construed as classified material defined in subsection 138(5). (5) Where for any year of assessment a tax identification number is made accessible by the Director General to any person, the Director General shall not be liable for any loss or damage suffered by any person due to any error or omission arising in the service of providing access to the tax identification number, provided that the error or omission was made in good faith and in the ordinary course of the discharge of the duties of the Director General or occurred or arose as a result of any defect or breakdown in the service or in the equipment used for the provision of the service. dan Penguatkuasaan Cukai (6) A person who, for any reason, has access to a tax identification number of any other person shall not use or cause or allow to be used the tax identification number for any purpose other than for the purposes of this Act. (7) Any person who contravenes subsection (6), shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding four thousand ringgit or to imprisonment for a term not exceeding one year or to both.”. Pindaan seksyen 77b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 77B(1A) Akta ibu dipinda dengan menggantikan perkataan “a person who is a company, limited liability partnership, trust body and co-operative society” dengan perkataan “the person referred to in subsection (1)”. Pindaan seksyen 82c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 82c(8) Akta ibu dipinda dengan menggantikan perkataan “three days from the date” dengan perkataan “seventy-two hours from the time”. Pindaan seksyen 113a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II__cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II__cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 113A Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II__cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula seksyen sedia ada sebagai subseksyen (1); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II__cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) yang dinomborkan semula itu subseksyen yang berikut: “(2) Where a person— (a) makes an incorrect return, information return or report by omitting the information required to be provided in accordance with any rules made under paragraph 154(1)(c) to implement or facilitate the operation of an arrangement having effect under sections 132, 132A and 132B, where such arrangement relates to the automatic exchange of information or the furnishing of a country-by-country report, on behalf of himself or another person; or (b) gives any incorrect information in relation to any information required to be provided in accordance with any rules made under paragraph 154(1)(c) to implement or facilitate the operation of an arrangement having effect under sections 132, 132A and 132B, where such arrangement relates to the automatic exchange of information or the furnishing of a country-by-country report, on behalf of himself or another person, then, if no prosecution under subsection (1) has been instituted in respect of the incorrect return, information return or report, or incorrect information, the Director General may by notice in writing require that person to pay a penalty of not less than twenty thousand ringgit and not more than one hundred thousand ringgit and, if that person pays that penalty, or where the penalty is abated or remitted under subsection 124(3), so much, if any, of the penalty as has not been abated or remitted, he shall not be liable to be charged on the same facts with an offence under subsection (1).”. Pindaan seksyen 125"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 125(2) Akta ibu dipinda dengan menggantikan perkataan “or 113(2)” dengan perkataan “, 113(2), 113A(2) or 113B(4)”. dan Penguatkuasaan Cukai Pindaan Jadual 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 12 Jadual 5 kepada Akta ibu dipinda dengan menggantikan proviso dengan proviso yang berikut: “Provided that the appellant shall give a written notice to the Special Commissioners and the Director General within a period of six months from the date the appellant receives a written notice from the Director General under subsection 102(1).”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_42"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PINDAAN KEPADA AKTA SETEM 1949 Permulaan kuat kuasa pindaan kepada Akta Setem 1949"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_20__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 22, 25, 26, 27, 34, 36, 37, 38, 40 dan 41 mula berkuat kuasa pada 1 Januari 2025."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 21, 23, 24, 28, 29, 30, 31, 32, 33, 35, 39 dan 42 mula berkuat kuasa pada 1 Januari 2026. Pindaan seksyen 3a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_21__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_21__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_21__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_21__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_21__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Setem 1949, yang disebut “Akta ibu” dalam Bahagian ini, dipinda dalam seksyen 3A—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) For the purpose of ascertaining whether an instrument is chargeable with duty under this Act or whether such duty has been paid, the Collector may by notice in writing, require any person— (a) to deliver to the Collector for examination any instrument, book, account, record or other document within the time specified in the notice; or (b) to attend personally before the Collector and produce for examination any instrument, book, account, record or other document.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_21__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_21__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_21__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_21__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_21__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “all books and documents” dengan perkataan “all instruments, books, accounts, records, documents, objects, articles, materials and things”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_21__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_21__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “any books or documents” dengan perkataan “any instrument, book, account, record, document, object, article, material or thing”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_21__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_21__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “, and may, without fee or reward, make extracts from or copies of any such books or documents”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_21__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(2A) The Collector may, when entering any land, building or place pursuant to subsection (2)— (a) search and inspect any such instrument, book, account, record, document, object, article, material or thing; and (b) make extracts from, or copies of, any such instrument, book, account, record, document, object, article, material or thing without fee or reward. (2B) Where the Collector exercises his powers under subsections (2) and (2A), the owners or occupiers of such lands, buildings and places shall provide the Collector with reasonable facilities and assistance for the performance of his duties under this Act.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_21__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan “books or documents” di mana-mana jua terdapat dengan perkataan “instruments, books, accounts, records, documents, objects, articles, materials or things”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_21__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “( 3A) Where in the opinion of the Collector it is necessary for the purpose of ascertaining the duty payable on an instrument to examine any instrument, book, account, record or other document kept otherwise than in the national language, the Collector may by notice in writing require any person to furnish within a time dan Penguatkuasaan Cukai specified in the notice (not being less than thirty days from the date of service of the notice) a translation in the national language of the instrument, book, account, record or other document in question: Provided that in East Malaysia this subsection shall have effect as if the words “or English language” were inserted after the words “national language” wherever they occur.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_21__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (5) dengan subseksyen yang berikut: “(5) Any person who— (a) without reasonable excuse, fails to comply with the notice under subsection (1) or (3A); (b) obstructs or refuses to give access to the Collector into any land, building or place pursuant to subsection (2) or (2A); (c) obstructs or hinders the Collector, or any valuer duly authorized by the Collector, in the exercise of any of the Collector’s powers under this section; (d) refuses to produce any instrument, book, account, record or other document in his custody or under his control on being required to do so by the Collector for the purposes of this Act; (e) fails to provide reasonable facilities or assistance to the Collector in the exercise of his powers pursuant to subsection (2B); or (f) refuses or fails to comply with any direction given by the Collector or any valuer duly authorized by the Collector to answer any question lawfully asked of him by the Collector or such valuer for the purposes of this section, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding ten thousand ringgit.”. Pindaan seksyen 12a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 12 A Akta ibu dipinda dengan memasukkan selepas perkataan “Item 32(a)” perkataan “or (aa)”. Pindaan seksyen 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 15(1) Akta ibu dipinda dalam proviso dengan menggantikan perenggan (a) dengan perenggan yang berikut: “(a) no such instrument shall be deemed to be duly stamped unless— (i) the instrument is stamped with the duty to which it would but for this section be liable; or (ii) a return is furnished together with the instrument to the Collector in accordance with section 35A, and the instrument is assessed under paragraph 36(1)(b) and the Collector has certified under section 37 either that the full duty with which the instrument is chargeable has been paid, or that the instrument is not chargeable with duty; and”. Pindaan seksyen 15a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 15A(1) Akta ibu dipinda dengan menggantikan proviso dengan proviso yang berikut: “Provided that no such instrument shall be deemed to be duly stamped unless— (a) the instrument is stamped with the duty to which it would but for this section be liable; or dan Penguatkuasaan Cukai (b) a return is furnished together with the instrument to the Collector in accordance with section 35A, and the instrument is assessed under paragraph 36(1)(b) and the Collector has certified under section 37 either that the full duty with which the instrument is chargeable has been paid, or that the instrument is not chargeable with duty.”. Pindaan seksyen 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 17 Akta ibu dipinda dengan memasukkan selepas perkataan “Item 32(a)” di mana-mana jua terdapat perkataan “or (aa)”. Pindaan seksyen 20"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 20(4) Akta ibu dipinda dengan menggantikan perkataan “section 12A and Item 32(a)” dengan perkataan “section 12A, and Item 32(a) or (aa)”. Pindaan seksyen 20b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 20B(2) Akta ibu dipinda dengan memasukkan selepas perkataan “Item 32(a)” perkataan “or (aa)”. Seksyen baharu 35a dan 35b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan sebelum seksyen 36 seksyen yang berikut: “Return 35a. (1) Every person, other than an authorized person under section 9, shall furnish to the Collector a return in the prescribed form together with an instrument which is executed and chargeable with duty by an electronic medium in accordance with section 77A. (2) For the purposes of this section, a return for a year of assessment shall— (a) specify the description of instrument and the amount of duty with which the instrument is chargeable; and (b) contain such particulars as may be required by the Collector. Duty to keep record 35b. Where an instrument is chargeable with duty, the person who is liable to pay the duty chargeable on such instrument shall keep the instrument and all relevant documents in connection with such instrument for a period of seven years from the date the duty is paid for the purpose of ascertaining that the proper amount of stamp duty has been paid on the instrument.”. Pindaan seksyen 36"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_29__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_29__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_29__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_29__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 36 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan nota bahu dengan nota bahu yang berikut: “Adjudication and assessment as to proper stamp”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Where a person has furnished a return together with an instrument in accordance with section 35A— (a) the Collector shall be deemed to have made an assessment of duty on the instrument based on the information furnished in the return; or dan Penguatkuasaan Cukai (b) the Collector shall assess the duty on the instrument, if any, with which in his judgment an instrument is chargeable.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_29__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1A) The Collector may determine the instruments falling under paragraph (1)(a) in any manner as the Collector thinks fit.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_29__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: “(2) For the purposes of this Act, where the Collector is deemed to have made an assessment under paragraph (1)(a)— (a) the return referred to in that subsection shall be deemed to be an assessment; and (b) the duty payable on the instrument shall be due and payable on the day the Collector is deemed to have made an assessment.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_29__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(2 A) For the purposes of paragraph (1)(b), the Collector may require any of the following: (a) an abstract of the instrument; (b) an affidavit setting out all the facts and circumstances affecting the liability of the instrument to duty or the amount of the duty chargeable thereon; or (c) any other evidence which he considers necessary for the adjudication or determination of duty. (2B) The Collector may refuse to assess the duty under paragraph (1)(b) until such abstract, affidavit or other evidence has been furnished accordingly.”. Pindaan seksyen 37"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_30__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_30__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 37 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_30__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Where a return together with an instrument has been furnished to the Collector in accordance with section 35A for an assessment under section 36, 36A, 36AA, 36B OR 36CA AND— (a) the Collector has determined that the instrument is already fully stamped; or (b) the duty assessed by the Collector under section 36, 36A, 36AA, 36B or 36cA, as the case may be, or such a sum as, with the duty already paid in respect of the instrument, is equal to the duty so assessed, has been paid, the Collector shall certify by indorsement on the instrument that the full duty or minimum duty, initial duty, advance duty or additional duty, as the case may be, stating the amount with which the instrument is chargeable has been paid.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_30__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2A), dengan menggantikan perkataan “the person bringing the instrument to the Collector” dengan perkataan “the person furnishing the return together with the instrument to the Collector in accordance with section 35A”. dan Penguatkuasaan Cukai Pindaan seksyen 40"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 40 Akta ibu dipinda dengan menggantikan perkataan “Where an instrument is brought to the Collector pursuant to subsection 36(1), the instrument shall be stamped in accordance with the assessment of the Collector” dengan perkataan “An instrument shall be stamped in accordance with the assessment of the Collector under paragraph 36(1)(b)”. Pindaan seksyen 42"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 42(2) Akta ibu dipinda dengan menggantikan perkataan “When any such instrument is brought to him for stamping” dengan perkataan “When a return together with such instrument is furnished to the Collector,”. Pindaan seksyen 43"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 43 Akta ibu dipinda dengan menggantikan perkataan “bring the cheque or promissory note to the Collector for assessment of duty in accordance with” dengan perkataan “furnish a return together with the cheque or promissory note to the Collector in accordance with section 35A for assessment of duty under”. Pindaan seksyen 49"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 49 Akta ibu dipinda dengan memotong perkataan “section 43 or”. Seksyen baharu 50b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 50A seksyen yang berikut: “Relief in respect of error or mistake 50b. (1) If any person who has paid duty for any instrument alleges that the duty relating to that instrument is excessive by reason of some error or mistake in a return made by him, he may within twenty-four months after the return is furnished, make an application in writing to the Collector for relief. (2) On receiving an application under subsection (1), the Collector shall inquire into the matter and shall give, by way of repayment of duty, such relief in respect of the alleged error or mistake as appears to him to be just and reasonable.”. Pindaan seksyen 52"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan (a) proviso kepada subseksyen 52(1) Akta ibu dipinda dengan memotong perkataan “43 or”. Pindaan seksyen 53"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 53 Akta ibu dipinda dengan memotong perkataan “43 or” di mana-mana jua terdapat. Pindaan seksyen 63"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 63(2) Akta ibu dipinda dengan memotong perkataan “43,”. Seksyen baharu 72b, 72c dan 72d"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 72A seksyen yang berikut: “Penalty for failure to keep record and other offences 72b. Any person who, without reasonable excuse— (a) fails to keep and retain the books, records and documents as required under subsection 9(7); (b) fails to notify the Collector as required under subsection 15(6A); dan Penguatkuasaan Cukai (c) fails to notify the Collector as required under subsection 15A(6); or (d) fails to keep the instrument and all relevant documents as required under section 35B, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding ten thousand ringgit. Failure to furnish return 72c. (1) Any person who fails to furnish a return with the instrument which is executed and chargeable with duty in accordance with section 35A without reasonable excuse shall be guilty of an offence and shall be liable on conviction to a fine not exceeding ten thousand ringgit. (2) Where a person has been convicted of an offence under subsection (1), the court may make a further order that the person shall comply with the relevant provision of this Act under which the offence has been committed within thirty days, or such other period as the court considers appropriate, from the date the order is made. (3) Where a person fails to furnish a return with the instrument which is executed and chargeable with duty in accordance with section 35A and no prosecution under subsection (1) has been instituted in relation to such failure, the Collector may require that person to pay a penalty of not less than two hundred ringgit and not more than two thousand ringgit. (4) The Collector may, if he thinks fit, reduce or remit the penalty referred to in subsection (3). Incorrect returns 72d. (1) Where a person— (a) makes an incorrect return by omitting or understating any duty of which he is required by this Act to make a return; or (b) gives any incorrect information in relation to any matter affecting his own chargeability to duty, unless he satisfies the court that the incorrect return or incorrect information was made or given in good faith, such person shall be guilty of an offence and shall be liable on conviction to a fine of not less than one thousand ringgit and not more than ten thousand ringgit and shall pay a special penalty equal to the amount of duty which has been undercharged in consequence of the incorrect return or incorrect information or which would have been undercharged if the return or information had been accepted as correct. (2) Where a person— (a) makes an incorrect return by omitting or understating any duty of which he is required by this Act to make a return; or (b) gives any incorrect information in relation to any matter affecting his own chargeability to duty, and where no prosecution under subsection (1) has been instituted in respect of the incorrect return or incorrect information, the Collector may require that person to pay a penalty equal to the amount of duty which has been undercharged in consequence of the incorrect return or incorrect information or which would have been undercharged if the return or information had been accepted as correct. (3) The Collector may, if he thinks fit, reduce or remit the penalty referred to in subsection (2).”. Pindaan seksyen 74"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 74 Akta ibu dipinda dengan menggantikan perkataan “shall be liable to a fine of five thousand ringgit” dengan perkataan “shall be guilty of an offence and shall be liable on conviction to a fine of not less than one thousand ringgit and not more than twenty thousand ringgit”. dan Penguatkuasaan Cukai Seksyen baharu 76a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 76 seksyen yang berikut: “Identification of officials 76a. Any person exercising the right of access or the right to take possession conferred by section 3A shall carry a warrant in the prescribed form issued by the Collector of Stamp Duties which shall identify the holder and his office and shall be produced by the holder on demand to any person having reasonable grounds to make the demand.”. Seksyen baharu 77d"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV__cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 77c seksyen yang berikut: “Forms 77d. The Collector may prescribe such forms as may be required for the purposes of this Act.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Langkah-Langkah bagi Pemungutan, Pentadbiran dan Penguatkuasaan Cukai 2024. Pindaan Akta"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Cukai Pendapatan 1967 [Akta 53], Akta Cukai Keuntungan Harta Tanah 1976 [Akta 169], Akta Setem 1949 [Akta 378], Akta Petroleum (Cukai Pendapatan) 1967 [Akta 543], Akta Levi Keuntungan Luar Biasa 1998 [Akta 592], Akta Cukai Jualan 2018 [Akta 806] dan Akta Cukai Perkhidmatan 2018 [Akta 807] dipinda mengikut cara yang dinyatakan masing-masing dalam Bahagian II, III, IV, V, VI, VII dan VIII."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_V__cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_V__cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_V__cl_45"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PINDAAN KEPADA AKTA PETROLEUM (CUKAI PENDAPATAN) 1967 Permulaan kuat kuasa pindaan kepada Akta Petroleum (Cukai Pendapatan) 1967"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VI__cl_46",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VI__cl_47"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PINDAAN KEPADA AKTA LEVI KEUNTUNGAN LUAR BIASA 1998 Permulaan kuat kuasa pindaan kepada Akta Levi Keuntungan Luar Biasa 1998"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VII__cl_48",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VII__cl_49",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VII__cl_50",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VII__cl_51"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PINDAAN KEPADA AKTA CUKAI JUALAN 2018 Permulaan kuat kuasa pindaan kepada Akta Cukai Jualan 2018"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VIII",
+      "@type": "akn:part",
+      "eli:number": "VIII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VIII__cl_52",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VIII__cl_53"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PINDAAN KEPADA AKTA CUKAI PERKHIDMATAN 2018 Permulaan kuat kuasa pindaan kepada Akta Cukai Perkhidmatan 2018"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VIII__cl_52",
+      "@type": "akn:clause",
+      "eli:number": "52",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VIII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bahagian ini mula berkuat kuasa apabila Akta ini mula berkuat kuasa. Pindaan seksyen 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VIII__cl_53",
+      "@type": "akn:clause",
+      "eli:number": "53",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VIII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Cukai Perkhidmatan 2018 dipinda dalam subseksyen 26(2) dengan menggantikan perkataan “dalam masa tiga puluh hari dari” dengan perkataan “tidak lewat daripada hari terakhir bulan yang berikutnya selepas”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VII__cl_48",
+      "@type": "akn:clause",
+      "eli:number": "48",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bahagian ini mula berkuat kuasa apabila Akta ini mula berkuat kuasa. Pindaan seksyen 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VII__cl_49",
+      "@type": "akn:clause",
+      "eli:number": "49",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Cukai Jualan 2018, yang disebut “Akta ibu” dalam Bahagian ini, dipinda dalam subseksyen 26(2) dengan menggantikan perkataan “dalam masa tiga puluh hari dari” dengan perkataan “tidak lewat daripada hari terakhir bulan yang berikutnya selepas”. Pindaan seksyen 27"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VII__cl_50",
+      "@type": "akn:clause",
+      "eli:number": "50",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VII__cl_50__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VII__cl_50__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 27 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VII__cl_50__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VII__cl_50",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (5) dengan subseksyen yang berikut: “(5) Jika mana-mana orang telah mendapat kawalan ke atas mana-mana barang bercukai atau telah mengimport mana-mana barang bercukai, Ketua Pengarah boleh menghendaki orang itu untuk mengakaunkan barang bercukai itu.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VII__cl_50__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VII__cl_50",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (6) dengan subseksyen yang berikut: “(6) Jika mana-mana orang tidak mengakaunkan barang bercukai di bawah subseksyen (5) oleh sebab— (a) barang bercukai itu telah dijual oleh orang itu; (b) barang bercukai itu telah dieksport atau dipindahkan melalui jualan; atau (c) barang bercukai itu telah hilang atau musnah, Ketua Pengarah boleh menaksir mengikut pertimbangan terbaiknya amaun cukai jualan yang sepatutnya boleh dikenakan berkenaan dengan barang bercukai itu jika barang itu telah dijual oleh orang itu dan hendaklah dengan serta-merta memberitahu orang itu tentang taksiran itu secara bertulis.”. dan Penguatkuasaan Cukai Pindaan Jadual"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VII__cl_51",
+      "@type": "akn:clause",
+      "eli:number": "51",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jadual kepada Akta ibu dipinda berhubung dengan seksyen 25, dalam ruang (2), dengan menggantikan perenggan 1 dengan perenggan yang berikut: ‘1. Gantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Tempoh bercukai yang pertama bagi tiap-tiap orang kena cukai hendaklah bermula dari tarikh dia sepatutnya berdaftar di bawah seksyen 13 dan berakhir pada hari terakhir dua bulan berikutnya dan tempoh bercukai seterusnya hendaklah suatu tempoh selama tiga bulan yang berakhir pada hari terakhir mana-mana bulan dalam mana-mana tahun kalendar.”.’."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VI__cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bahagian ini mula berkuat kuasa apabila Akta ini mula berkuat kuasa. Seksyen baharu 27a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VI__cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Levi Keuntungan Luar Biasa 1998 dipinda dengan memasukkan selepas seksyen 27 seksyen yang berikut: “Penggunaan perkhidmatan elektronik 27a. (1) Walau apa pun apa-apa peruntukan lain Akta ini, Ketua Pengarah boleh menyediakan suatu perkhidmatan elektronik kepada mana-mana pengguna berdaftar bagi— (a) pemfailan atau pengemukaan apa-apa permohonan, penyata, perisytiharan atau apa-apa dokumen lain; dan (b) penyampaian apa-apa notis, arahan, perintah, permit, resit atau apa-apa dokumen lain. dan Penguatkuasaan Cukai (2) Jika— (a) apa-apa permohonan, penyata, perisytiharan atau apa-apa dokumen lain dibuat dan dihantar kepada Ketua Pengarah melalui perkhidmatan elektronik; atau (b) apa-apa notis, arahan, perintah, permit, resit atau apa-apa dokumen lain yang diperoleh oleh pengguna berdaftar melalui perkhidmatan elektronik, Ketua Pengarah tidak bertanggungan bagi apa-apa kerugian atau kerosakan yang dialami oleh pengguna berdaftar itu atas sebab apa-apa kesilapan atau peninggalan tidak kira dengan apa jua sifat atau tidak kira bagaimana jua sekali pun berbangkit yang terdapat dalam apa-apa permohonan, penyata, perisytiharan, notis, arahan, perintah, permit, resit atau apa-apa dokumen lain jika kesilapan atau peninggalan itu berlaku atau timbul akibat daripada apa-apa kecacatan atau kegagalan dalam perkhidmatan elektronik itu atau dalam kelengkapan yang digunakan bagi penyediaan perkhidmatan itu atau tanpa pengetahuan Ketua Pengarah. (3) Apa-apa permohonan, penyata, perisytiharan atau apa-apa dokumen lain yang dibuat dan dihantar oleh pengguna berdaftar hendaklah disifatkan sebagai telah difailkan atau dikemukakan pada masa permohonan, penyata, perisytiharan atau apa-apa dokumen lain itu diterima oleh Ketua Pengarah. (4) Bagi maksud seksyen ini, “pengguna berdaftar” ertinya mana-mana orang yang diberi kuasa secara bertulis oleh Ketua Pengarah untuk mengakses dan menggunakan perkhidmatan elektronik.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_V__cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bahagian ini mula berkuat kuasa pada 1 Januari 2025. Pindaan seksyen 34b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_V__cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Petroleum (Cukai Pendapatan) 1967, yang disebut “Akta ibu” dalam Bahagian ini, dipinda dalam subseksyen 34B(7) dengan menggantikan perkataan “three days from the date” dengan perkataan “seventy-two hours from the time”. Pindaan Jadual Ketiga"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_V__cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/49/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 10 Jadual Ketiga kepada Akta ibu dipinda dengan menggantikan proviso dengan proviso yang berikut: “Provided that the appellant shall give a written notice to the Special Commissioners and the Director General within a period of six months from the date the appellant receives a written notice from the Director General under subsection 46(1).”."
+      }
+    }
+  ]
+}

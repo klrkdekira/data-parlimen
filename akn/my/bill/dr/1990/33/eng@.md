@@ -46,19 +46,25 @@ thereto by the Labuan Offshore Business Activity Tax Act 1990;
 
 <!-- page 2 -->
 
-New
+<!-- marginal: New -->
 
-3. The principal Act is amended by inserting, immediately section SB. after section 3A, the following new section 3B:
+3. The principal Act is amended by inserting, immediately
+
+<!-- marginal: section SB. -->
+
+after section 3A, the following new section 3B:
 
 "Non- 3B. Notwithstanding section 3 tax shall not be chargeability charged under this Act on income in respect of an to tax in respect of offshore business activity carried on by an offshore offshore company.". business activity.
 
-Amendment
+<!-- marginal: Amendment -->
 
 4. Section 108 of the principal Act is amended by
 
-### of
+<!-- marginal: of -->
 
-substituting for subsection (11) the following: section 108.
+substituting for subsection (11) the following:
+
+<!-- marginal: section 108. -->
 
 "(11) This section shall not apply to—
 
@@ -70,15 +76,23 @@ substituting for subsection (11) the following: section 108.
 
 (ii) income exempt from tax.".
 
-New
+<!-- marginal: New -->
 
-5. The principal Act is amended by inserting, immediately section llOa after section 110, the following new section 110A:
+5. The principal Act is amended by inserting, immediately
+
+<!-- marginal: section llOa -->
+
+after section 110, the following new section 110A:
 
 "Non- 11OA. Notwithstanding subsection (1) of section entitlement 110, where an offshore company receives any of an offshore company for dividend from which tax has been deducted under set-off. section 108, the tax so deducted shall not be set off against the tax charged on the chargeable income of the offshore company.".
 
-New
+<!-- marginal: New -->
 
-6. The principal Act is amended by inserting, immediately section 111A after section 111, the following new section 1 1 A:
+6. The principal Act is amended by inserting, immediately
+
+<!-- marginal: section 111A -->
+
+after section 111, the following new section 1 1 A:
 
 "Non- lllA. Notwithstanding section 111, where tax entitlement has been deducted under section 108 from any of an offshore company to dividend received by an offshore company, that refund. offshore company shall not be entitled to have the tax so deducted refunded by the Government.".
 

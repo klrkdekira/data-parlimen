@@ -14,29 +14,87 @@
 
 ## THE MALAYSIAN OPTICAL COUNCIL
 
-3. Establishment of Council. 4. Composition of Council. 5. Tenure of office. 6. Remuneration. 7. Citizenship. 8. Vacation of office. 9. Meetings of the Council. 10. Procedure at meetings. 11. Committees. 12. Public Authorities Protection Act. 13. Public servants. 14. Power of Minister to issue directions. 15. Returns.
+3. Establishment of Council. 4. Composition of Council. 5. Tenure of office. 6. Remuneration. 7. Citizenship. 8. Vacation of office. 9. Meetings of the Council.
+
+10. Procedure at meetings.
+
+11. Committees.
+
+12. Public Authorities Protection Act.
+
+13. Public servants.
+
+14. Power of Minister to issue directions.
+
+15. Returns.
 
 ## PART III
 
 ## REGISTRATION OF OPTICIANS AND OPTOMETRISTS
 
-16. Registrar. 17. Register. 18. Persons entitled to be registered as opticians. 19. Persons entitled to be registered as optometrists. 20. Mode of registration. 21. Council's disciplinary jurisdiction. 22. Disciplinary punishments. 23. Inquiry.
+16. Registrar.
+
+17. Register.
+
+18. Persons entitled to be registered as opticians.
+
+19. Persons entitled to be registered as optometrists.
+
+20. Mode of registration.
+
+21. Council's disciplinary jurisdiction.
+
+22. Disciplinary punishments.
+
+23. Inquiry.
 
 <!-- page 2 -->
 
-24. Surrender of certificate of registration. 25. Appeals. 26. Removal of name by reason of physical or mental infirmity. 27. Alterations to the Registers. 28. Restoration of name in Register.
+24. Surrender of certificate of registration.
+
+25. Appeals.
+
+26. Removal of name by reason of physical or mental infirmity.
+
+27. Alterations to the Registers.
+
+28. Restoration of name in Register.
 
 ## PART IV
 
 ## THE PRACTICE OF OPTOMETRY
 
-29. Only registered persons may practise optometry. 30. Council may permit opticians to prescribe and dispense contact lenses. 31. Prohibition against the use of drugs to measure powers of vision. 32. Annual practising certificate. 33. Practising without annual practising certificate.
+29. Only registered persons may practise optometry.
+
+30. Council may permit opticians to prescribe and dispense contact lenses.
+
+31. Prohibition against the use of drugs to measure powers of vision.
+
+32. Annual practising certificate.
+
+33. Practising without annual practising certificate.
 
 ## PART V
 
 ## GENERAL
 
-34. Fraudulent registration. 35. Offences. 36. Optical appliances. 37. General penalty. 38. Power to enter premises and examine and seize documents etc. 39. Conduct of prosecution. 40. Body corporate and partnership. 41. Power of Minister to amend Schedules. 42. Regulations.
+34. Fraudulent registration.
+
+35. Offences.
+
+36. Optical appliances.
+
+37. General penalty.
+
+38. Power to enter premises and examine and seize documents etc.
+
+39. Conduct of prosecution.
+
+40. Body corporate and partnership.
+
+41. Power of Minister to amend Schedules.
+
+42. Regulations.
 
 ## FIRST SCHEDULE.
 
@@ -90,9 +148,15 @@ Minister may appoint by notification in the Gazette, and the Minister may—
 
 "Director General" means the Director General of Health, Malaysia;
 
-"higher educational institution" means a University or University College established under the Universities and University Colleges Act 1971; Act 30.
+"higher educational institution" means a University or University College established under the Universities and University Colleges Act 1971;
 
-"medical practitioner" means a person registered Act 50. under the Medical Act 1971;
+<!-- marginal: Act 30. -->
+
+"medical practitioner" means a person registered
+
+<!-- marginal: Act 50. -->
+
+under the Medical Act 1971;
 
 "member" means a member of the Council;
 
@@ -168,13 +232,23 @@ members:
 
 (4) Without prejudice to subsection (3), the Chairman may delegate any of his functions to the Deputy Chairman who, in exercising such functions, shall be subject to the control, supervision and direction of the Chairman.
 
-Tenure of 5. (1) Subject to subsection (2), a member who is office. appointed or elected under subsection (1) or (2) of section 4 shall hold office for a term of three years and is eligible for reappointment or re-election.
+<!-- marginal: Tenure of -->
 
-(2) The Minister shall, in appointing the members referred to in paragraphs (c), (d) and (e) of subsection (2) of section 4, ensure that the term of office of one of the members to be appointed under each of such paragraphs expires one year earlier than the term of office of the other member appointed under the same paragraph.
+5. (1) Subject to subsection (2), a member who is
+
+<!-- marginal: office. -->
+
+appointed or elected under subsection (1) or (2) of section 4 shall hold office for a term of three years and is eligible for reappointment or re-election.
+
+(2) The Minister shall, in appointing the members referred to in paragraphs (c), (d) and (e) of subsection
+
+(2) of section 4, ensure that the term of office of one of the members to be appointed under each of such paragraphs expires one year earlier than the term of office of the other member appointed under the same paragraph.
 
 (3) Where the office of a member becomes vacant before the expiration of his term of office, the person appointed or elected to fill the vacancy shall hold office for the unexpired portion of the term of office of the member whose office has become vacant.
 
-Remuneration. 6. (1) Subject to subsection (2), a member is not entitled to be paid in respect of duties or functions performed by him in pursuance of this Act.
+<!-- marginal: Remuneration. -->
+
+6. (1) Subject to subsection (2), a member is not entitled to be paid in respect of duties or functions performed by him in pursuance of this Act.
 
 <!-- page 7 -->
 
@@ -222,7 +296,13 @@ Council shall be convened by the Chairman by notice in writing to the other memb
 
 <!-- page 8 -->
 
-Procedure 10. (1) The Chairman, if present, shall preside at all at meetings. meetings of the Council.
+<!-- marginal: Procedure -->
+
+10. (1) The Chairman, if present, shall preside at all
+
+<!-- marginal: at meetings. -->
+
+meetings of the Council.
 
 (2) If the Chairman is absent from any meeting of the Council the Deputy Chairman shall preside and if both are absent the members present at the meeting shall elect one of themselves to preside at that meeting.
 
@@ -234,15 +314,43 @@ Procedure 10. (1) The Chairman, if present, shall preside at all at meetings. me
 
 (6) Subject to this Act, the procedure of the Council shall be as the Council determines.
 
-Committees. 11. (1) The Council may appoint committees to assist it in carrying out its functions under this Act.
+<!-- marginal: Committees. -->
+
+11. (1) The Council may appoint committees to assist it in carrying out its functions under this Act.
 
 (2) The Council may delegate any of its functions under this Act, other than this power of delegation, to any committee appointed from amongst members of the Council.
 
 (3) A delegation under subsection (2) is revocable by the Council and shall not prevent the Council from carrying out any of its functions under this Act.
 
-Public 12. The Public Authorities Protection Act 1948 shall Authorities apply to any action, suit, prosecution or proceeding Protection against the Council or against any member, officer, Act. Act 198. servant or agent or the Council in respect of any act, neglect or default done or committed by him in such capacity.
+<!-- marginal: Public -->
 
-Public 13. All members of the Council, while discharging their servants. duties as such members, shall be deemed to be public servants within the meaning of the Penal Code. F.M.S. Cap. 45
+12. The Public Authorities Protection Act 1948 shall
+
+<!-- marginal: Authorities -->
+
+apply to any action, suit, prosecution or proceeding
+
+<!-- marginal: Protection -->
+
+against the Council or against any member, officer,
+
+<!-- marginal: Act. -->
+
+<!-- marginal: Act 198. -->
+
+servant or agent or the Council in respect of any act, neglect or default done or committed by him in such capacity.
+
+<!-- marginal: Public -->
+
+13. All members of the Council, while discharging their
+
+<!-- marginal: servants. -->
+
+duties as such members, shall be deemed to be public servants within the meaning of the Penal Code.
+
+<!-- marginal: F.M.S. -->
+
+<!-- marginal: Cap. 45 -->
 
 <!-- page 9 -->
 
@@ -310,7 +418,21 @@ documents within the meaning of the Evidence Act
 
 shall be conclusive evidence of the matters referred to therein.
 
-Persons 18. (1) Any person is entitled to be registered as an entitled to optician if he satisfies the Council that he is not less be registered than eighteen years of age, is a fit and proper person as opticians. to be registered as an optician and holds any of the qualifications specified in the First Schedule.
+<!-- marginal: Persons -->
+
+18. (1) Any person is entitled to be registered as an
+
+<!-- marginal: entitled to -->
+
+optician if he satisfies the Council that he is not less
+
+<!-- marginal: be registered -->
+
+than eighteen years of age, is a fit and proper person
+
+<!-- marginal: as opticians. -->
+
+to be registered as an optician and holds any of the qualifications specified in the First Schedule.
 
 (2) The Council may authorise the registration of any person as an optician if he satisfies the Council that he is not less than eighteen years of age, is a fit and proper person to be registered as an optician and—
 
@@ -374,9 +496,19 @@ regulations made thereunder, any person who seeks to be registered under this Ac
 
 <!-- page 12 -->
 
-(5) The provisions of this section shall apply to an application for provisional registration under subsection (3) of section 18 and to the provisional registration itself.
+(5) The provisions of this section shall apply to an application for provisional registration under subsection
 
-Council's 21. (1) The Council shall have disciplinary jurisdiction disciplinary over all registered persons. jurisdiction.
+(3) of section 18 and to the provisional registration itself.
+
+<!-- marginal: Council's -->
+
+21. (1) The Council shall have disciplinary jurisdiction
+
+<!-- marginal: disciplinary -->
+
+over all registered persons.
+
+<!-- marginal: jurisdiction. -->
 
 (2) The Council may exercise disciplinary jurisdiction over any registered person—
 
@@ -388,7 +520,13 @@ Council's 21. (1) The Council shall have disciplinary jurisdiction disciplinary 
 
 (d) who was not at the time of his registration entitled to be registered.
 
-Disciplinary 22. (1) The Council may, in the exercise of its punishments disciplinary jurisdiction, impose any of the following punishments:
+<!-- marginal: Disciplinary -->
+
+22. (1) The Council may, in the exercise of its
+
+<!-- marginal: punishments -->
+
+disciplinary jurisdiction, impose any of the following punishments:
 
 (a) order the name of the registered person to be removed from the Register; or
 
@@ -428,7 +566,9 @@ been ordered by the Council to be removed from the
 
 Register, that person shall deliver his certificate of registration to the Council within fourteen days of the receipt of the order.
 
-(2) Any person who fails to comply with subsection (1) commits an offence.
+(2) Any person who fails to comply with subsection
+
+(1) commits an offence.
 
 <!-- marginal: Appeals. -->
 
@@ -458,11 +598,27 @@ President; and
 
 (8) Subject to this Act and the regulations made under this Act, the procedure of the Appeal Board shall be as the Board determines.
 
-Removal of 26. (1) Without prejudice to
+<!-- marginal: Removal of -->
 
-<!-- marginal: the provisions of -->
+26. (1) Without prejudice to the provisions of
 
-name by subsection (4) of section 18 and the provisions of reason of physical section 22, the Council may order the name of any or mental registered person to be removed from the Register if infirmity. the Council is satisfied that such registered person is incapable, by reason of physical or mental infirmity, of carrying out his duties as an optician or optometrist.
+<!-- marginal: name by -->
+
+subsection (4) of section 18 and the provisions of
+
+<!-- marginal: reason -->
+
+<!-- marginal: of physical -->
+
+section 22, the Council may order the name of any
+
+<!-- marginal: or mental -->
+
+registered person to be removed from the Register if
+
+<!-- marginal: infirmity. -->
+
+the Council is satisfied that such registered person is incapable, by reason of physical or mental infirmity, of carrying out his duties as an optician or optometrist.
 
 <!-- page 15 -->
 
@@ -510,15 +666,49 @@ IV
 
 ## THE PRACTICE OF OPTOMETRY
 
-Only 29. (1) No person shall practise optometry unless he is registered a registered person. persons may practise optometry. (2) Notwithstanding subsection (1) but subject to section 30, no person shall prescribe or dispense contact lenses unless he is a registered optometrist.
+<!-- marginal: Only -->
+
+29. (1) No person shall practise optometry unless he is
+
+<!-- marginal: registered -->
+
+a registered person.
+
+<!-- marginal: persons may -->
+
+<!-- marginal: practise -->
+
+<!-- marginal: optometry. -->
+
+(2) Notwithstanding subsection (1) but subject to section 30, no person shall prescribe or dispense contact lenses unless he is a registered optometrist.
 
 (3) Subsections (1) and (2) shall not apply to a medical practitioner.
 
 (4) Any person who contravenes this section commits an offence.
 
-Council may 30. (1) Notwithstanding subsection (2) of section 29, permit the Council may, on the application of a registered opticians to prescribe optician— and dispense contact
+<!-- marginal: Council may -->
 
-(a) who has been prescribing and dispensing lenses. contact lenses for a period of three years or more immediately prior to the date of coming into force of this Act; or
+30. (1) Notwithstanding subsection (2) of section 29,
+
+<!-- marginal: permit -->
+
+the Council may, on the application of a registered
+
+<!-- marginal: opticians -->
+
+<!-- marginal: to prescribe -->
+
+optician—
+
+<!-- marginal: and dispense -->
+
+<!-- marginal: contact -->
+
+(a) who has been prescribing and dispensing
+
+<!-- marginal: lenses. -->
+
+contact lenses for a period of three years or more immediately prior to the date of coming into force of this Act; or
 
 (b) who has been prescribing and dispensing contact lenses for a period of less than three years immediately prior to the date of coming into force of this Act and, subject to subsection (2), has passed, within a period of six years from the date of coming into force of this Act, such examination as may be set by the Council,
 
@@ -534,13 +724,17 @@ which shall not be less than the difference between a period of three years and 
 
 immediately prior to the date of coming into force of this Act.
 
-(3) Notwithstanding subsection (2) of section 29 and solely for the purposes of paragraph (b) of subsection (1), a registered optician referred to in that paragraph may continue to prescribe and dispense contact lenses for a period not exceeding six years from the date of coming into force of this Act.
+(3) Notwithstanding subsection (2) of section 29 and solely for the purposes of paragraph (b) of subsection
+
+(1), a registered optician referred to in that paragraph may continue to prescribe and dispense contact lenses for a period not exceeding six years from the date of coming into force of this Act.
 
 (4) Notwithstanding subsection (2) of section 29 and subsection (1) of this section, the Council may, on the application of a registered optician and upon being satisfied that the applicant has received proper training, and is competent, in the prescribing and dispensing of contact lenses, permit him to prescribe and dispense contact lenses.
 
 (5) The Council may, before giving its permission under subsection (4), require the applicant to pass such examination as may be set by the Council.
 
-(6) The permission referred to in subsections (1) and (4) shall be given in writing in such form as the Council may determine.
+(6) The permission referred to in subsections (1) and
+
+(4) shall be given in writing in such form as the Council may determine.
 
 <!-- marginal: Piohibition -->
 
@@ -570,7 +764,17 @@ may use for refractive purposes such drugs as may be deemed suitable by the Coun
 
 <!-- page 18 -->
 
-Annual 32. (1) A registered person who intends to practise as practising an optician or optometrist after the thirty-first day of certificate. December of any year shall, not later than the first of December of that year, make an application in the prescribed form and pay the prescribed fee for a certificate to practise as an optician or optometrist during the following year.
+<!-- marginal: Annual -->
+
+32. (1) A registered person who intends to practise as
+
+<!-- marginal: practising -->
+
+an optician or optometrist after the thirty-first day of
+
+<!-- marginal: certificate. -->
+
+December of any year shall, not later than the first of December of that year, make an application in the prescribed form and pay the prescribed fee for a certificate to practise as an optician or optometrist during the following year.
 
 (2) Upon receipt of the application and payment mentioned in subsection (1), the Registrar shall issue to the applicant an annual practising certificate authorising the applicant to practise as an optician or optometrist during the year for which the certificate is issued.
 
@@ -624,9 +828,17 @@ commits an offence and shall not be entitled to recover any fee, reward, disburs
 
 ## GENERAL
 
-Fraudulent 34. A person who is registered or who attempts to get registration. himself or any other person to be registered under this Act by making or producing or causing to be made or produced any false or fraudulent representation or declaration either orally or in writing commits an offence.
+<!-- marginal: Fraudulent -->
 
-Offences. 35. (1) A person who is not registered under this Act commits an offence if he—
+34. A person who is registered or who attempts to get
+
+<!-- marginal: registration. -->
+
+himself or any other person to be registered under this Act by making or producing or causing to be made or produced any false or fraudulent representation or declaration either orally or in writing commits an offence.
+
+<!-- marginal: Offences. -->
+
+35. (1) A person who is not registered under this Act commits an offence if he—
 
 (a) wilfully and falsely takes or uses the name or title of "optician" or "optometrist"; or
 
@@ -636,11 +848,7 @@ Offences. 35. (1) A person who is not registered under this Act commits an offen
 
 (d) wilfully and falsely takes or uses any name, title, addition or description implying that he is a registered person or that he is recognised by law as an optician or optometrist; or
 
-(e) wilfully and falsely takes or uses any name, title, addition or description, or uses any instrument, calculated to induce any person to believe that he is qualified
-
-<!-- marginal: to practise -->
-
-optometry; or
+(e) wilfully and falsely takes or uses any name, title, addition or description, or uses any instrument, calculated to induce any person to believe that he is qualified to practise optometry; or
 
 (f) uses the term "optician" or "optometrist" or the equivalent of either of these terms in any other language on the signboard over his place of practice in purported practice of optometry; or
 
@@ -686,7 +894,13 @@ any optical appliance unless the sale is effected by or under the supervision of
 
 had no reason to believe that the appliance was bought for the purpose of being used to correct, remedy or relieve a defect of sight.
 
-General 37. (1) A person who commits an offence under this penalty. Act for which no specific penalty is provided shall be liable on conviction—
+<!-- marginal: General -->
+
+37. (1) A person who commits an offence under this
+
+<!-- marginal: penalty. -->
+
+Act for which no specific penalty is provided shall be liable on conviction—
 
 (a) in respect of a first offence, to a fine not exceeding one thousand ringgit;
 
@@ -694,11 +908,33 @@ General 37. (1) A person who commits an offence under this penalty. Act for whic
 
 (2) In the case of a continuing offence, a person convicted under this Act shall be liable to a further fine of fifty ringgit for each day the offence continues after conviction in addition to the penalties provided for under paragraphs (a) and (b) of subsection (1).
 
-Power to 38. (1) For the purposes of this Act, a public officer enter authorised in writing by the Director General may enter premises during normal business hours the premises in which a and examine and seize registered person is practising optometry or in which documents there is reasonable ground to believe that a person
+<!-- marginal: Power to -->
+
+38. (1) For the purposes of this Act, a public officer
+
+<!-- marginal: enter -->
+
+authorised in writing by the Director General may enter
+
+<!-- marginal: premises -->
+
+during normal business hours the premises in which a
+
+<!-- marginal: and examine -->
+
+<!-- marginal: and seize -->
+
+registered person is practising optometry or in which
+
+<!-- marginal: documents -->
+
+there is reasonable ground to believe that a person
 
 <!-- marginal: is -->
 
-etc. practising optometry and—
+<!-- marginal: etc. -->
+
+practising optometry and—
 
 (a) may examine any documents, apparatus or article stored or used in connection with the practice;
 
@@ -770,7 +1006,11 @@ amend the list of registrable qualifications in the Schedules.
 
 <!-- page 24 -->
 
-42. (1) The Minister, after consulting the Council, may Regulations. make regulations to prescribe anything which under this Act is required or permitted to be prescribed and generally to carry out the objects and purposes of this Act.
+42. (1) The Minister, after consulting the Council, may
+
+<!-- marginal: Regulations. -->
+
+make regulations to prescribe anything which under this Act is required or permitted to be prescribed and generally to carry out the objects and purposes of this Act.
 
 (2) In particular and without prejudice to the generality of subsection (1), such regulations may prescribe any or all of the following:
 
@@ -780,11 +1020,7 @@ amend the list of registrable qualifications in the Schedules.
 
 (c) the fees to be paid under this Act and such exemptions therefrom as the Minister may deem appropriate;
 
-(d) the form and manner in which applications for registration and for annual
-
-<!-- marginal: practising -->
-
-certificates shall be made;
+(d) the form and manner in which applications for registration and for annual practising certificates shall be made;
 
 (e) the manner of proving qualifications to practise as an optician or optometrist;
 
@@ -812,7 +1048,35 @@ certificates shall be made;
 
 ## OPTICIANS
 
-Description of Name of Institution Country in which qualification granting qualification qualification is granted Shri Vaishnav Diploma in Optometry India Polytechnic Municipal Eye Hospital Diploma in Optometry Kamathipura, Bombay Diploma in Optometry Sarojini Devi Eye Hospital, Hyderabad Government Eye Hospital Diploma in Optometry Egmore, Madras Diploma in Optometry Sitapur Eye Hospital, Sitapur Akademi Refraksionis Diploma in Optometry Indonesia Optisien, Surabaya Doctor of Optometry Philippines Central College of Philippines South Western Doctor of Optometry University The Association of Fellow of the Association United Kingdom of Dispensing Opticians Dispensing Opticians Bradford Technical Fellow of the Association of Dispensing Opticians College Fellow of the Association City and East London of Dispensing Opticians College of Applied Optics Glasgow College of Diploma in Ophthalmic Dispensing Technology
+Description of Name of Institution
+
+<!-- marginal: Country in which -->
+
+qualification granting qualification
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is -->
+
+<!-- marginal: granted -->
+
+Shri Vaishnav Diploma in Optometry
+
+<!-- marginal: India -->
+
+Polytechnic Municipal Eye Hospital Diploma in Optometry Kamathipura, Bombay Diploma in Optometry Sarojini Devi Eye Hospital, Hyderabad Government Eye Hospital Diploma in Optometry Egmore, Madras Diploma in Optometry Sitapur Eye Hospital, Sitapur Akademi Refraksionis Diploma in Optometry
+
+<!-- marginal: Indonesia -->
+
+Optisien, Surabaya Doctor of Optometry
+
+<!-- marginal: Philippines -->
+
+Central College of Philippines South Western Doctor of Optometry University The Association of Fellow of the Association
+
+<!-- marginal: United Kingdom -->
+
+of Dispensing Opticians Dispensing Opticians Bradford Technical Fellow of the Association of Dispensing Opticians College Fellow of the Association City and East London of Dispensing Opticians College of Applied Optics Glasgow College of Diploma in Ophthalmic Dispensing Technology
 
 ## SECOND SCHEDULE
 
@@ -822,13 +1086,75 @@ Description of Name of Institution Country in which qualification granting quali
 
 ## FOR OPTOMETRISTS
 
-Description of Name of Institution Country in which qualification granting qualification qualification is granted Bachelor of Applied Australia Queensland University of Technology Science (Optometry) University of Melbourne Bachelor in Optometry Bachelor in Optometry University of New South Wales Canada University of Waterloo Doctor of Optometry
+Description of Name of Institution
+
+<!-- marginal: Country in which -->
+
+qualification granting qualification
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is -->
+
+<!-- marginal: granted -->
+
+Bachelor of Applied
+
+<!-- marginal: Australia -->
+
+Queensland University of Technology Science (Optometry) University of Melbourne Bachelor in Optometry Bachelor in Optometry University of New South Wales
+
+<!-- marginal: Canada -->
+
+University of Waterloo Doctor of Optometry
 
 <!-- page 26 -->
 
-Country in which Ntime of Institution Description of qualification is granting qualification qualification granted
+<!-- marginal: Country in which -->
 
-Hong Kong Polytechnic Hong Kong Bachelor of Science Diploma in Optometry Institute of Medical and Health Care Bachelor in Optometry Elite School of India Optometry. Madras Sarjana Muda Optometri Universiti Kebangsaan Malaysia Malaysia New Zealand University of Auckland Bachelor of Science in Optometry Nigeria University of Benin Bachelor of Science in Optometry Bachelor of Science University of Aston United Kingdom in Ophthalmic Optics in Birmingham Bachelor of Science University of Bradford in Ophthalmic Optics Bachelor of Science City University London in Ophthalmic Optics Bachelor of Science University of Manchester Institute of in Ophthalmic Optics Science and Technology Bachelor of Science University of Wales in Ophthalmic Optics Institute of Science and Technology, Cardiff Bachelor of Science Glasgow College of in Optomelry Technology United States of Doctor of Optometry Indiana University, America Bloomington Ohio State University Doctor of Optometry University of California, Doctor of Optometry Berkeley Doctor of Optometry University of Houston University of Alabama Doctor of Optometry in Birmingham Doctor of Optometry New York State University Doctor of Optomelry Illinois College of Optometry, Chicago Doctor of Optometry The New England College of Optometry, Boston Pacific University of Doctor of Optometry Oregon Southern College of Doctor of Optometry Optometry, Memphis Doctor of Optometry The Southern California College of Optome'ry Doctor of Optometry Ferris State University University of Missouri, Doctor of Optometry St. Louis
+Ntime of Institution Description of
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is -->
+
+granting qualification qualification
+
+<!-- marginal: granted -->
+
+Hong Kong Polytechnic
+
+<!-- marginal: Hong Kong -->
+
+Bachelor of Science Diploma in Optometry Institute of Medical and Health Care Bachelor in Optometry Elite School of
+
+<!-- marginal: India -->
+
+Optometry. Madras Sarjana Muda Optometri Universiti Kebangsaan
+
+<!-- marginal: Malaysia -->
+
+Malaysia
+
+<!-- marginal: New Zealand -->
+
+University of Auckland Bachelor of Science in Optometry
+
+<!-- marginal: Nigeria -->
+
+University of Benin Bachelor of Science in Optometry Bachelor of Science University of Aston
+
+<!-- marginal: United Kingdom -->
+
+in Ophthalmic Optics in Birmingham Bachelor of Science University of Bradford in Ophthalmic Optics Bachelor of Science City University London in Ophthalmic Optics Bachelor of Science University of Manchester Institute of in Ophthalmic Optics Science and Technology Bachelor of Science University of Wales in Ophthalmic Optics Institute of Science and Technology, Cardiff Bachelor of Science Glasgow College of in Optomelry Technology
+
+<!-- marginal: United States of -->
+
+Doctor of Optometry Indiana University,
+
+<!-- marginal: America -->
+
+Bloomington Ohio State University Doctor of Optometry University of California, Doctor of Optometry Berkeley Doctor of Optometry University of Houston University of Alabama Doctor of Optometry in Birmingham Doctor of Optometry New York State University Doctor of Optomelry Illinois College of Optometry, Chicago Doctor of Optometry The New England College of Optometry, Boston Pacific University of Doctor of Optometry Oregon Southern College of Doctor of Optometry Optometry, Memphis Doctor of Optometry The Southern California College of Optome'ry Doctor of Optometry Ferris State University University of Missouri, Doctor of Optometry St. Louis
 
 <!-- page 27 -->
 
@@ -854,6 +1180,4 @@ a registered person whose name has been removed from the Register to apply for t
 
 ## IMPLICATIONS
 
-This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
-
-<!-- marginal: [PN. (U2) 1020.] -->
+This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained. [PN. (U2) 1020.]

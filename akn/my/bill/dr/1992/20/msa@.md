@@ -24,7 +24,17 @@ II
 
 ## MENJALANKAN PERNIAGAAN JUALAN LANGSUNG
 
-4. Perniagaan jualan langsung hendaklah dijalankan hanya dengan lesen. 5. Pengemukaan permohonan untuk mendapatkan lesen. 6. Pemberian atau keengganan memberikan lesen. 7. Perniagaan jualan langsung yang berkenaan dengannya lesen tidak boleh diberikan. 8. Pembatalan lesen. 9. Pengenaan had sebagai ganti pembatalan lesen. 30. Kuasa untuk mengenakan syarat-syarat baru dan untuk mengubah atau membatalkan syarat-syarat. 11. Notis pembatalan lesen, pengenaan had atau pengubahan, pembatalan atau pengenaan syarat-syarat baru. 12. Penyerahan balik lesen. 13. Larangan ke atas penjalanan perniagaan jualan langsung apabila lesen dibatalkan, habis tempoh, atau diserahkan balik. 14. Pemberikuasaan untuk menjalankan aktiviti
+4. Perniagaan jualan langsung hendaklah dijalankan hanya dengan lesen. 5. Pengemukaan permohonan untuk mendapatkan lesen. 6. Pemberian atau keengganan memberikan lesen. 7. Perniagaan jualan langsung yang berkenaan dengannya lesen tidak boleh diberikan. 8. Pembatalan lesen. 9. Pengenaan had sebagai ganti pembatalan lesen.
+
+30. Kuasa untuk mengenakan syarat-syarat baru dan untuk mengubah atau membatalkan syarat-syarat.
+
+11. Notis pembatalan lesen, pengenaan had atau pengubahan, pembatalan atau pengenaan syarat-syarat baru.
+
+12. Penyerahan balik lesen.
+
+13. Larangan ke atas penjalanan perniagaan jualan langsung apabila lesen dibatalkan, habis tempoh, atau diserahkan balik.
+
+14. Pemberikuasaan untuk menjalankan aktiviti
 
 <!-- marginal: selepas -->
 
@@ -34,7 +44,9 @@ pembatalan.
 
 ## RANG UNDANG-UNDANG
 
-15. Pindaan atau perubahan dokumen konstituen pemegang lesen. 16. Rayuan terhadap keputusan Pengawal.
+15. Pindaan atau perubahan dokumen konstituen pemegang lesen.
+
+16. Rayuan terhadap keputusan Pengawal.
 
 ## BAHAGIAN
 
@@ -42,7 +54,15 @@ III
 
 ## JUALAN PINTU KE PINTU DAN JUALAN PESANAN POS
 
-17. Bertandang ke mana-mana premis bagi maksud merundingkan jualan pintu ke pintu. 18. Orang-orang yang merundingkan jualan pintu ke pintu hendaklah mengemukakan kad pengenalan dan kad kebenaran. 19. Jualan pesanan pos. 20. Kandungan iklan dalam jualan pesanan pos. 21. Kesalahan jika memberikan maklumat palsu dalam iklan. 22. Barang-barang hendaklah tersedia untuk diperiksa.
+17. Bertandang ke mana-mana premis bagi maksud merundingkan jualan pintu ke pintu.
+
+18. Orang-orang yang merundingkan jualan pintu ke pintu hendaklah mengemukakan kad pengenalan dan kad kebenaran. 19. Jualan pesanan pos.
+
+20. Kandungan iklan dalam jualan pesanan pos.
+
+21. Kesalahan jika memberikan maklumat palsu dalam iklan.
+
+22. Barang-barang hendaklah tersedia untuk diperiksa.
 
 ## BAHAGIAN
 
@@ -50,31 +70,65 @@ IV
 
 ## KONTRAK JUALAN LANGSUNG
 
-23. Kehendak-kehendak kontrak jualan langsung. 24. Kandungan kontrak jualan langsung.
+23. Kehendak-kehendak kontrak jualan langsung.
+
+24. Kandungan kontrak jualan langsung.
 
 ## BAHAGIAN V
 
 ## TEMPOH BERTENANG DAN PENAMATAN
 
-25. Barang atau perkhidmatan tidak boleh dihantarserahkan atau dilaksanakan dalam tempoh bertenang. 26. Penamatan kontrak. 27. Efek penamatan.
+25. Barang atau perkhidmatan tidak boleh dihantarserahkan atau dilaksanakan dalam tempoh bertenang.
+
+26. Penamatan kontrak.
+
+27. Efek penamatan.
 
 ## BAHAGIAN VI
 
 ## PENGUATKUASAAN
 
-28. Penyataan jawatan. 29. Kuasa untuk memasuki premis dan memeriksa dan menyita barang dan dokumen. 30. Kuasa untuk menangkap. 31. Penghalangan pegawai. 32. Waran boleh diterima walau apa pun kecacatan, dsb.
+28. Penyataan jawatan.
+
+29. Kuasa untuk memasuki premis dan memeriksa dan menyita barang dan dokumen.
+
+30. Kuasa untuk menangkap.
+
+31. Penghalangan pegawai.
+
+32. Waran boleh diterima walau apa pun kecacatan, dsb.
 
 <!-- page 3 -->
 
 ## JUALAN LANGSUNG
 
-33. Kuasa penyiasatan. 34. Penjalanan pendakwaan. 35. Pelucuthakan barang. 36. Tiada kos atau ganti rugi boleh didapati berbangkit daripada penyitaan.
+33. Kuasa penyiasatan.
+
+34. Penjalanan pendakwaan.
+
+35. Pelucuthakan barang.
+
+36. Tiada kos atau ganti rugi boleh didapati berbangkit daripada penyitaan.
 
 ## BAHAGIAN VII
 
 PELBAGAl
 
-37. Terrna-terma kontrak tertentu dilarang. 38. Kesalahan oleh pertubuhan perbadanan dan oleh pekerja dan ejen. 39. Penalti am. 40. Pengkompaunan kesalahan. 41. Bidang kuasa untuk membicarakan kesalahan-kesalahan. 42. Kuasa untuk memberikan pengecualian. 43. Perlindungan Pengawal, Timbalan Pengawal, Penolong Pengawal dan pegawai lain. 44. Peraturan-peraturan.
+37. Terrna-terma kontrak tertentu dilarang.
+
+38. Kesalahan oleh pertubuhan perbadanan dan oleh pekerja dan ejen.
+
+39. Penalti am.
+
+40. Pengkompaunan kesalahan.
+
+41. Bidang kuasa untuk membicarakan kesalahan-kesalahan.
+
+42. Kuasa untuk memberikan pengecualian.
+
+43. Perlindungan Pengawal, Timbalan Pengawal, Penolong Pengawal dan pegawai lain.
+
+44. Peraturan-peraturan.
 
 <!-- page 5 -->
 
@@ -130,15 +184,31 @@ berlangsung sebelum tarikh itu.
 
 (a) jika pembeli atau bakal pembeli ialah suatu pertubuhan perbadanan; dan
 
-(b) bagi apa-apa kontrak insurans dan insurans semula yang dikeluarkan oleh seseorang penanggung insurans yang didaftarkan di bawah Akta 89 Akta Insurans 1963.
+(b) bagi apa-apa kontrak insurans dan insurans semula yang dikeluarkan oleh seseorang penanggung insurans yang didaftarkan di bawah
+
+<!-- marginal: Akta 89 -->
+
+Akta Insurans 1963.
 
 (4) Peruntukan-peruntukan Akta i ni
 
 <!-- marginal: tidaklah -->
 
-menjejaskan Akta Sewa Beli 1967, Akta Jualan Barang Akta 382 1957, Akta Kontrak 1950 dan Akta Syarikat 1965, dan jika Akta I36 ada percanggahan di antara peruntukan-peruntukan Akta Akta 125 ini dengan peruntukan-peruntukan mana-mana Akta i t u, peruntukan-peruntukan Akta i ni hendaklah mengatasi.
+menjejaskan Akta Sewa Beli 1967, Akta Jualan Barang
 
-Tafsiran.
+<!-- marginal: Akta 382 -->
+
+1957, Akta Kontrak 1950 dan Akta Syarikat 1965, dan jika
+
+<!-- marginal: Akta I36 -->
+
+ada percanggahan di antara peruntukan-peruntukan Akta
+
+<!-- marginal: Akta 125 -->
+
+ini dengan peruntukan-peruntukan mana-mana Akta i t u, peruntukan-peruntukan Akta i ni hendaklah mengatasi.
+
+<!-- marginal: Tafsiran. -->
 
 2. Dalam Akta ini, melainkan j i ka konteksnya menghendaki makna yang lain—
 
@@ -194,9 +264,19 @@ berpindah melalui kuatkuasa undang-undang, termasuklah orang yang sekarang ini b
 
 "tempoh bertenang" ertinya tempoh sepuluh hari yang bermula pada hari selepas tarikh pembuatan sesuatu kontrak jualan langsung.
 
-Pengawal,
+<!-- marginal: Pengawal, -->
 
-3. (1) Menteri boleh melantik, daripada kalangan Timbulan pegawai-pegawai awam, seorang Pengawal Jualan Pengawal. dsb Langsung dan sekian bilangan Timbalan Pengawal Jualan Langsung, Penolong Pengawal Jualan Langsung dan pegawai lain sebagaimana yang perlu bagi maksud- maksud Akta ini.
+3. (1) Menteri boleh melantik, daripada kalangan
+
+<!-- marginal: Timbulan -->
+
+pegawai-pegawai awam, seorang Pengawal Jualan
+
+<!-- marginal: Pengawal. -->
+
+<!-- marginal: dsb -->
+
+Langsung dan sekian bilangan Timbalan Pengawal Jualan Langsung, Penolong Pengawal Jualan Langsung dan pegawai lain sebagaimana yang perlu bagi maksud- maksud Akta ini.
 
 (2) Pengawal hendaklah, tertakluk kepada arahan dan kawalan am Menteri, melaksanakan kewajipan-kewajipan yang dikenakan ke atasnya dan menjalankan hak-hak dan kuasa-kuasa yang diberikan kepadanya di bawah Akta ini dan peraturan-peraturan.
 
@@ -258,9 +338,23 @@ seksyen 6.
 
 (3) Jika seseorang, yang menjadi pengarah, pengurus, setiausaha atau pegawai serupa itu yang lain dalam pertubuhan perbadanan itu, melakukan kesalahan di bawah seksyen ini menurut kuasa seksyen 38, dia boleh dikenakan penalti yang diperuntukkan di bawah perenggan (2) (b).
 
-Pengemukan
+<!-- marginal: Pengemukan -->
 
-5. (1) Sesuatu permohonan untuk mendapatkan lesen permohonan bagi rnenjalankan perniagaan jualan langsung yang untuk men- dapatkan disebutkan dalam seksyen 4 hendaklah dibuat dengan lesen. mengemukakan permohonan secara bertulis kepada Pengawal berserta dengan—
+5. (1) Sesuatu permohonan untuk mendapatkan lesen
+
+<!-- marginal: permohonan -->
+
+bagi rnenjalankan perniagaan jualan langsung yang
+
+<!-- marginal: untuk men- -->
+
+<!-- marginal: dapatkan -->
+
+disebutkan dalam seksyen 4 hendaklah dibuat dengan
+
+<!-- marginal: lesen. -->
+
+mengemukakan permohonan secara bertulis kepada Pengawal berserta dengan—
 
 (a) satu salinan memorandum dan perkara-perkara persatuan atau dokumen-dokumen konstituen lain yang di bawahnya pemohon telah ditubuhkan, yang ditentusahkan dengan sewajarnya melalui akuan berkanun yang dibuat oleh seorang pengarah pemohon itu;
 
@@ -302,17 +396,59 @@ dalam kehendak itu atau apa-apa perlanjutan masa itu yang diberikan oleh Pengawa
 
 (7) Mana-mana orang yang memberikan maklumat atau dokumen yang palsu atau mengelirukan di bawah seksyen ini adalah melakukan suatu kesalahan.
 
-Pemberian
+<!-- marginal: Pemberian -->
 
-6. (1) Apabila sesuatu permohonan bersena dengan atau dokumen-dokumen dan maklumat yang dikehendaki di keengganan memberikan bawah seksyen 5 diterima, Pengawal boleh memberikan lesen. lesen, dengan atau tanpa syarat, atau dia boleh enggan memberikan lesen tanpa memberi apa-apa sebab bagi keengganan itu.
+6. (1) Apabila sesuatu permohonan bersena dengan
+
+<!-- marginal: atau -->
+
+dokumen-dokumen dan maklumat yang dikehendaki di
+
+<!-- marginal: keengganan -->
+
+<!-- marginal: memberikan -->
+
+bawah seksyen 5 diterima, Pengawal boleh memberikan
+
+<!-- marginal: lesen. -->
+
+lesen, dengan atau tanpa syarat, atau dia boleh enggan memberikan lesen tanpa memberi apa-apa sebab bagi keengganan itu.
 
 (2) Pengawal boleh, pada memberikan Jesen di bawah subseksyen (1), menghendaki pemohon membayar apa- apa amaun fee yang ditetapkan.
 
 (3) Bagi maksud subseksyen (2), fee yang berlainan boleh ditetapkan berkenaan dengan golongan, kategori atau perihal pemohon yang berlainan.
 
-Perniagaan
+<!-- marginal: Perniagaan -->
 
-7. (1) Walau apa pun seksyen 6, tiada lesen boleh jualan diberikan kepada seseorang yang berniat untuk langsung yang menjalankan perniagaan jualan langsung yang melibatkan berkenaan apa-apa skim atau perkiraan bagi penjualan atau dengannya lesen tidak pengedaran barang atau perkhidmatan yang menurutnya boleh orang itu, dengan mendapat suatu balasan, memperoleh diberikan. peluang untuk menerima suatu faedah wang yang tidak bergantung pada jumlah atau kuantiti barang atau perkhidmatan yang dijual atau diedarkan atau yang akan dijual atau diedarkan bagi maksud menjualnya semula tetapi yang diasaskan pada dorongan yang diberikan, olehnya sendiri atau orang-orang lain, supaya orang-orang lain turut menyertai skim atau perkiraan sedemikian.
+7. (1) Walau apa pun seksyen 6, tiada lesen boleh
+
+<!-- marginal: jualan -->
+
+diberikan kepada seseorang yang berniat untuk
+
+<!-- marginal: langsung -->
+
+<!-- marginal: yang -->
+
+menjalankan perniagaan jualan langsung yang melibatkan
+
+<!-- marginal: berkenaan -->
+
+apa-apa skim atau perkiraan bagi penjualan atau
+
+<!-- marginal: dengannya -->
+
+<!-- marginal: lesen tidak -->
+
+pengedaran barang atau perkhidmatan yang menurutnya
+
+<!-- marginal: boleh -->
+
+orang itu, dengan mendapat suatu balasan, memperoleh
+
+<!-- marginal: diberikan. -->
+
+peluang untuk menerima suatu faedah wang yang tidak bergantung pada jumlah atau kuantiti barang atau perkhidmatan yang dijual atau diedarkan atau yang akan dijual atau diedarkan bagi maksud menjualnya semula tetapi yang diasaskan pada dorongan yang diberikan, olehnya sendiri atau orang-orang lain, supaya orang-orang lain turut menyertai skim atau perkiraan sedemikian.
 
 (2) Mana-mana pemegang lesen yang, dalam perjalanan perniagaan jualan langsung yang mengenainya suatu lesen telah diberikan di bawah seksyen 6, mengendalikan atau turut serta, secara langsung atau tak langsung, dalam apa-apa skim atau perkiraan seperti yang
 
@@ -364,9 +500,23 @@ bercagarkan gadaian, akan mana-mana harta pemegang lesen itu yang terkandung dal
 
 (b) suatu resolusi bagi penggulungan sukarela pemegang lesen itu telah diluluskan.
 
-Pengenaan
+<!-- marginal: Pengenaan -->
 
-9. (1) Jika Pengawal berpuas hati bahawa ada alasan had sebagai yang membolehkan kuasanya untuk membatalkan lesen ganti pem- dijalankan di bawah subseksyen 8(1) tetapi hal-hal batalan lesen. keadaan tidaklah sedemikian rupa sehingga mewajarkan pembatalan, Pengawal boleh menghadkan lesen itu dengan—
+9. (1) Jika Pengawal berpuas hati bahawa ada alasan
+
+<!-- marginal: had sebagai -->
+
+yang membolehkan kuasanya untuk membatalkan lesen
+
+<!-- marginal: ganti pem- -->
+
+dijalankan di bawah subseksyen 8(1) tetapi hal-hal
+
+<!-- marginal: batalan -->
+
+<!-- marginal: lesen. -->
+
+keadaan tidaklah sedemikian rupa sehingga mewajarkan pembatalan, Pengawal boleh menghadkan lesen itu dengan—
 
 (a) mengenakan apa-apa batasan ke atas jangka masa lesen itu sebagaimana yang difikirkannya patut;
 
@@ -384,9 +534,7 @@ pembeli-pembeli atau orang-orang lain yang berurusan dengan pemegang lesen itu; 
 
 (3) Syarat-syarat yang dikenakan di bawah seksyen ini boleh, khususnya—
 
-(a) menghendaki pemegang lesen mengambil langkah-langkah tertentu
-
-<!-- marginal: atau -->
+(a) menghendaki pemegang lesen mengambil langkah-langkah tertentu atau
 
 <!-- marginal: tidak -->
 
@@ -402,17 +550,69 @@ menggunakan atau meneruskan sesuatu bentuk tindakan atau menghadkan skop perniag
 
 ## R A NG UNDANG-UNDANG
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-10. Pengawal boleh pada bila-bila masa mengenakan mengenakan syarat-syarat baru ke atas sesuatu lesen yang diberikan di syarat-syarat bawah seksyen 6, atau mengubah atau membatalkan apa- baru dan untuk apa syarat yang dikenakan ke atas lesen itu di bawah mengubah seksyen 6 atau di bawah seksyen ini, atau boleh mengubah atau mem- batalkan atau membatalkan apa-apa syarat yang sudah sedia diubah syarat- di bawah seksyen ini. syarat.
+10. Pengawal boleh pada bila-bila masa mengenakan
 
-Notis pem-
+<!-- marginal: mengenakan -->
 
-11. (1) Tertakluk kepada seksyen 12, jika Pengawal batalan lesen, bercadang— pengenaan had. atau pengubahan.
+syarat-syarat baru ke atas sesuatu lesen yang diberikan di
 
-(a) untuk membatalkan sesuatu lesen di bawah pembatalan seksyen 8; atau pengenaan syarat-syarat
+<!-- marginal: syarat-syarat -->
 
-(b) untuk menghadkan sesuatu lesen di bawah baru. seksyen 9 atau mengubah apa-apa had atau syarat di bawah seksyen itu; atau
+bawah seksyen 6, atau mengubah atau membatalkan apa-
+
+<!-- marginal: baru dan -->
+
+<!-- marginal: untuk -->
+
+apa syarat yang dikenakan ke atas lesen itu di bawah
+
+<!-- marginal: mengubah -->
+
+seksyen 6 atau di bawah seksyen ini, atau boleh mengubah
+
+<!-- marginal: atau mem- -->
+
+<!-- marginal: batalkan -->
+
+atau membatalkan apa-apa syarat yang sudah sedia diubah
+
+<!-- marginal: syarat- -->
+
+di bawah seksyen ini.
+
+<!-- marginal: syarat. -->
+
+<!-- marginal: Notis pem- -->
+
+11. (1) Tertakluk kepada seksyen 12, jika Pengawal
+
+<!-- marginal: batalan lesen, -->
+
+bercadang—
+
+<!-- marginal: pengenaan -->
+
+<!-- marginal: had. atau -->
+
+<!-- marginal: pengubahan. -->
+
+(a) untuk membatalkan sesuatu lesen di bawah
+
+<!-- marginal: pembatalan -->
+
+seksyen 8;
+
+<!-- marginal: atau pengenaan -->
+
+<!-- marginal: syarat-syarat -->
+
+(b) untuk menghadkan sesuatu lesen di bawah
+
+<!-- marginal: baru. -->
+
+seksyen 9 atau mengubah apa-apa had atau syarat di bawah seksyen itu; atau
 
 (c) untuk mengubah atau membatalkan apa-apa syarat, atau mengenakan apa-apa syarat baru di bawah seksyen 10,
 
@@ -434,7 +634,9 @@ hendak menghadkan lesen itu, sebagai ganti, di bawah seksyen 9; atau
 
 (d) jika tindakan yang dicadangkan adalah untuk menghadkan lesen itu di bawah seksyen 9, atau untuk mengubah apa-apa had di bawah seksyen 9, atau untuk mengubah sesuatu syarat di bawah seksyen 10, sama ada untuk menghadkan atau mengubah had atau untuk mengubah syarat itu dengan cara yang berlainan.
 
-(3) Pengawal hendaklah memberi pemegang lesen notis bertulis tentang keputusannya di bawah subseksyen (2), dan keputusan itu hendaklah mula berkuatkuasa dari tarikh notis bertulis itu disampaikan kepada pemegang lesen itu.
+(3) Pengawal hendaklah memberi pemegang lesen notis bertulis tentang keputusannya di bawah subseksyen
+
+(2), dan keputusan itu hendaklah mula berkuatkuasa dari tarikh notis bertulis itu disampaikan kepada pemegang lesen itu.
 
 <!-- marginal: Penyerahan -->
 
@@ -582,9 +784,47 @@ pos hendaklah mengandungi—
 
 (2) Mana-mana orang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan.
 
-Kesalahan 21. Mana-mana orang yang memberikan maklumat jika mem- yang palsu atau mengelirukan dalam sesuatu iklan bagi benkan maklumat pembekalan barang atau perkhidmatan melalui pesanan palsu dalam pos adalah melakukan suatu kesalahan. iklan.
+<!-- marginal: Kesalahan -->
 
-Barang- 22. (1) Seseorang yang membekalkan barang melalui barang pesanan pos hendaklah menyediakan suatu sampel hendaklah tersedia barang itu bagi pemeriksaan orang ramai di tempat- untuk tempat dan pada masa-masa sebagaimana yang diperiksa. dinyatakan dalam iklan itu.
+21. Mana-mana orang yang memberikan maklumat
+
+<!-- marginal: jika mem- -->
+
+yang palsu atau mengelirukan dalam sesuatu iklan bagi
+
+<!-- marginal: benkan -->
+
+<!-- marginal: maklumat -->
+
+pembekalan barang atau perkhidmatan melalui pesanan
+
+<!-- marginal: palsu dalam -->
+
+pos adalah melakukan suatu kesalahan.
+
+<!-- marginal: iklan. -->
+
+<!-- marginal: Barang- -->
+
+22. (1) Seseorang yang membekalkan barang melalui
+
+<!-- marginal: barang -->
+
+pesanan pos hendaklah menyediakan suatu sampel
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: tersedia -->
+
+barang itu bagi pemeriksaan orang ramai di tempat-
+
+<!-- marginal: untuk -->
+
+tempat dan pada masa-masa sebagaimana yang
+
+<!-- marginal: diperiksa. -->
+
+dinyatakan dalam iklan itu.
 
 (2) Mana-mana orang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan.
 
@@ -594,7 +834,23 @@ IV
 
 ## KONTRAK JUALAN LANGSUNG
 
-Kehendak- 23. (1) Sesuatu kontrak berkenaan dengan jualan pintu kehendak ke pintu bagi pembekalan barang atau perkhidmatan kontrak jualan yang nilainya akan ditetapkan, dan sesuatu kontrak langsung. berkenaan dengan jualan pesanan pos—
+<!-- marginal: Kehendak- -->
+
+23. (1) Sesuatu kontrak berkenaan dengan jualan pintu
+
+<!-- marginal: kehendak -->
+
+ke pintu bagi pembekalan barang atau perkhidmatan
+
+<!-- marginal: kontrak -->
+
+<!-- marginal: jualan -->
+
+yang nilainya akan ditetapkan, dan sesuatu kontrak
+
+<!-- marginal: langsung. -->
+
+berkenaan dengan jualan pesanan pos—
 
 (a) hendaklah secara bertulis;
 
@@ -662,21 +918,53 @@ berikut:
 
 ## TEMPOH BERTENANG DAN PENAMATAN
 
-Barang atau 25. (1) Kecuali dalam sesuatu hal apabila subseksyen perkhidrnatan (2) terpakai, tiada barang boleh dihantarserahkan dan tidak boleh dihantar- tiada perkhidmatan boleh dilaksanakan di bawah sesuatu serahkan kontrak berkenaan dengan sesuatu jualan langsung atau di- sehingga tempoh bertenang telah luput. laksanakan dalam tempoh (2) Jika seseorang pembeli, yang telah membuat bertenang. kontrak berkenaan dengan sesuatu jualan langsung, telah menyampaikan suatu notis secara bertulis kepada penjual menghendaki penjual menghantarserahkan barang atau melaksanakan perkhidmatan pada bila-bila masa sebelum habis tempoh bertenang, dia hendaklah disifatkan telah menepikan haknya untuk menamatkan kontrak itu di bawah seksyen 26.
+<!-- marginal: Barang atau -->
+
+25. (1) Kecuali dalam sesuatu hal apabila subseksyen
+
+<!-- marginal: perkhidrnatan -->
+
+(2) terpakai, tiada barang boleh dihantarserahkan dan
+
+<!-- marginal: tidak boleh -->
+
+<!-- marginal: dihantar- -->
+
+tiada perkhidmatan boleh dilaksanakan di bawah sesuatu
+
+<!-- marginal: serahkan -->
+
+kontrak berkenaan dengan sesuatu jualan langsung
+
+<!-- marginal: atau di- -->
+
+sehingga tempoh bertenang telah luput.
+
+<!-- marginal: laksanakan -->
+
+<!-- marginal: dalam -->
+
+<!-- marginal: tempoh -->
+
+(2) Jika seseorang pembeli, yang telah membuat
+
+<!-- marginal: bertenang. -->
+
+kontrak berkenaan dengan sesuatu jualan langsung, telah menyampaikan suatu notis secara bertulis kepada penjual menghendaki penjual menghantarserahkan barang atau melaksanakan perkhidmatan pada bila-bila masa sebelum habis tempoh bertenang, dia hendaklah disifatkan telah menepikan haknya untuk menamatkan kontrak itu di bawah seksyen 26.
 
 (3) Walau apa pun subseksyen (2), tiada notis di bawah subseksyen itu boleh disampaikan kepada penjual sebelum habis tempoh tujuh puluh dua jam dari masa kontrak itu dibuat.
 
 (4) Tiada penjual atau orang lain boleh menerima apa-apa wang atau balasan lain daripada pembeli di bawah sesuatu kontrak yang dibuat di bawah Akta ini sebelum habis tempoh bertenang.
 
-(5) Mana-mana penjual atau orang
+(5) Mana-mana penjual atau orang lain yang melanggar seksyen ini adalah melakukan suatu kesalahan.
 
-<!-- marginal: lain yang -->
+<!-- marginal: Penamatan -->
 
-melanggar seksyen ini adalah melakukan suatu kesalahan.
+26. (1) Seseorang pembeli yang telah membuat kontrak
 
-Penamatan
+<!-- marginal: kontrak. -->
 
-26. (1) Seseorang pembeli yang telah membuat kontrak kontrak. berkenaan dengan suatu jualan langsung boleh menamatkan kontrak itu pada bila-bila masa sebelum habis tempoh bertenang dengan memberi penjual notis dalam bentuk yang ditetapkan menyatakan niatnya untuk menamatkan atau menarik diri daripada kontrak itu.
+berkenaan dengan suatu jualan langsung boleh menamatkan kontrak itu pada bila-bila masa sebelum habis tempoh bertenang dengan memberi penjual notis dalam bentuk yang ditetapkan menyatakan niatnya untuk menamatkan atau menarik diri daripada kontrak itu.
 
 (2) Notis yang disebutkan dalam subseksyen (1) hendaklah disampaikan dengan menyerahkannya sendiri kepada penjual atau dengan menghantarnya melalui pos berdaftar akuan terima kepada alamat yang dinyatakan dalam kontrak itu.
 
@@ -804,25 +1092,53 @@ sebagaimana yang diperuntukkan melalui Kanun Prosedur Jenayah.
 
 adalah melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.
 
-(2) Jika mana-mana orang, dalam memberikan apa- apa maklumat seperti yang tersebut dalam subseksyen (1), membuat apa-apa pernyataan yang dia tahu atau ada sebab untuk percaya adalah palsu, dia adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh dikenakan penalti yang tersebut dalam subseksyen itu.
+(2) Jika mana-mana orang, dalam memberikan apa- apa maklumat seperti yang tersebut dalam subseksyen
+
+(1), membuat apa-apa pernyataan yang dia tahu atau ada sebab untuk percaya adalah palsu, dia adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh dikenakan penalti yang tersebut dalam subseksyen itu.
 
 (3) Tiada apa-apa jua dalam seksyen ini boleh disifatkan sebagai menghendaki seseorang menjawab apa-apa soalan atau memberikan apa-apa maklumat jika dengan berbuat demikian dia akan boleh didakwa.
 
-Waran boleh
+<!-- marginal: Waran boleh -->
 
-32. Sesuatu waran yang dikeluarkan di bawah Akta ini diterima adalah sah dan boleh diterima walau apa pun apa-apa walau apa pun kecacatan, kecacatan, kesilapan atau ketinggalan di dalamnya atau dsb. dalam permohonan bagi mendapatkan waran itu dan apa-apa barang atau dokumen yang disita di bawah waran itu hendaklah boleh diterima sebagai keterangan dalam apa-apa prosiding di bawah Akta ini atau peraturan-peraturan.
+32. Sesuatu waran yang dikeluarkan di bawah Akta ini
 
-Kuasa
+<!-- marginal: diterima -->
 
-33. Seseorang Penolong Pengawal adalah mempunyai penyiasatan. kuasa untuk menyiasat pelakuan apa-apa kesalahan di bawah Akta ini.
+adalah sah dan boleh diterima walau apa pun apa-apa
 
-Penjalanan
+<!-- marginal: walau apa pun -->
 
-34. Pendakwaan berkenaan dengan apa-apa kesalahan pendakwaan. di bawah Akta ini atau peraturan-peraturan boleh dijalankan oleh mana-mana orang yang dilantik di bawah Akta ini.
+<!-- marginal: kecacatan, -->
 
-Pelucuthakan
+kecacatan, kesilapan atau ketinggalan di dalamnya atau
 
-35. (1) Segala barang yang disita pada menjalankan barang. apa-apa kuasa yang diberikan di bawah Akta ini boleh dilucuthakkan.
+<!-- marginal: dsb. -->
+
+dalam permohonan bagi mendapatkan waran itu dan apa-apa barang atau dokumen yang disita di bawah waran itu hendaklah boleh diterima sebagai keterangan dalam apa-apa prosiding di bawah Akta ini atau peraturan-peraturan.
+
+<!-- marginal: Kuasa -->
+
+33. Seseorang Penolong Pengawal adalah mempunyai
+
+<!-- marginal: penyiasatan. -->
+
+kuasa untuk menyiasat pelakuan apa-apa kesalahan di bawah Akta ini.
+
+<!-- marginal: Penjalanan -->
+
+34. Pendakwaan berkenaan dengan apa-apa kesalahan
+
+<!-- marginal: pendakwaan. -->
+
+di bawah Akta ini atau peraturan-peraturan boleh dijalankan oleh mana-mana orang yang dilantik di bawah Akta ini.
+
+<!-- marginal: Pelucuthakan -->
+
+35. (1) Segala barang yang disita pada menjalankan
+
+<!-- marginal: barang. -->
+
+apa-apa kuasa yang diberikan di bawah Akta ini boleh dilucuthakkan.
 
 <!-- page 27 -->
 
@@ -854,13 +1170,29 @@ mengikut cara yang dinyatakan dalam subseksyen (4),
 
 (8) Jika apa-apa barang yang disita pada menjalankan kuasa-kuasa yang diberikan di bawah Akta ini adalah daripada jenis yang mudah musnah atau jika penjagaan barang-barang itu melibatkan belanja dan kesusahan yang tak munasabah, barang-barang itu boleh dijual pada bila-bila masa dan hasil jualan itu dipegang sementara menanti keputusan apa-apa pendakwaan atau tuntutan di bawah seksyen ini.
 
-Tiada kos
+<!-- marginal: Tiada kos -->
 
 36. Tiada seorang pun, dalam apa-apa prosiding di
 
-### atau ganti
+<!-- marginal: atau ganti -->
 
-hadapan mana-mana mahkamah berkenaan dengan rugi boleh didapati penyitaan apa-apa barang yang disita pada menjalankan berbangkit atau berupa sebagai menjalankan apa-apa kuasa yang daripada penyitaan. diberikan di bawah Akta ini, berhak mendapat kos prosiding itu atau, tertakluk kepada seksyen 35, mendapat apa-apa ganti rugi atau relif lain melainkan jika penyitaan itu telah dibuat tanpa sebab yang munasabah atau barangkali.
+hadapan mana-mana mahkamah berkenaan dengan
+
+<!-- marginal: rugi boleh -->
+
+<!-- marginal: didapati -->
+
+penyitaan apa-apa barang yang disita pada menjalankan
+
+<!-- marginal: berbangkit -->
+
+atau berupa sebagai menjalankan apa-apa kuasa yang
+
+<!-- marginal: daripada -->
+
+<!-- marginal: penyitaan. -->
+
+diberikan di bawah Akta ini, berhak mendapat kos prosiding itu atau, tertakluk kepada seksyen 35, mendapat apa-apa ganti rugi atau relif lain melainkan jika penyitaan itu telah dibuat tanpa sebab yang munasabah atau barangkali.
 
 <!-- page 29 -->
 
@@ -918,7 +1250,7 @@ seorang pengarah, pengurus, setiausaha atau pegawai serupa itu yang lain dalam p
 
 (2) Jika mana-mana orang (dalam subseksyen ini disebut "prinsipal") akan boleh dikenakan apa-apa hukuman atau penalti di bawah Akta ini kerana apa-apa perbuatan, ketinggalan, kecuaian atau keingkaran, dia hendaklah boleh dikenakan hukuman atau penalti yang sama bagi tiap-tiap perbuatan, ketinggalan, kecuaian atau keingkaran pekerja atau ejennya, atau pekerja ejen itu, jika perbuatan, ketinggalan, kecuaian atau keingkaran itu telah dilakukan oleh pekerja prinsipal itu dalam perjalanan pekerjaannya, atau oleh ejen itu apabila bertindak bagi pihak prinsipal itu, atau oleh pekerja ejen itu dalam perjalanan pekerjaannya dengan ejen itu atau selainnya bagi pihak ejen itu.
 
-Penalti am.
+<!-- marginal: Penalti am. -->
 
 39. (1) Mana-mana orang yang melakukan suatu kesalahan di bawah Akta ini atau peraturan-peraturan yang baginya tiada penalti diperuntukkan dengan nyata boleh, apabila disabitkan, didenda tidak melebihi dua puluh lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya, dan bagi kesalahan kali yang kedua atau yang berikutnya dia boleh didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
@@ -978,11 +1310,7 @@ dikenakan, mana-mana orang atau golongan orang, atau apa-apa perniagaan jualan l
 
 (a) bahawa hasil daripada perniagaan jualan langsung itu akan digunakan semata-mata bagi maksud khairat, kebajikan, kemasyarakatan, keagamaan atau pendidikan;
 
-(b) bahawa orang yang hendak menjual barang atau membekalkan perkhidmatan itu
-
-<!-- marginal: ialah orang -->
-
-cacat;
+(b) bahawa orang yang hendak menjual barang atau membekalkan perkhidmatan itu ialah orang cacat;
 
 <!-- page 32 -->
 
@@ -994,13 +1322,41 @@ cacat;
 
 (3) Menteri boleh, pada bila-bila masa melalui perintah yang disiarkan dalam Warta, membatalkan apa- apa perintah yang dibuat di bawah subseksyen (1) jika dia berpuas hati bahawa pengecualian itu tidak lagi sesuai untuk terus diberikan.
 
-Perlindungan
+<!-- marginal: Perlindungan -->
 
-43. Tiada tindakan atau pendakwaan boleh dibawa, Pengawal, dimulakan atau dikekalkan di mana-mana mahkamah Timbalan Pengawal. terhadap Pengawal. Timbalan Pengawal, Penolong Penolong Pengawal atau mana-mana pegawai lain yang dilantik Pengawal sewajarnya di bawah Akta ini bagi atau atas sebab atau dan pegawai lain. berkenaan dengan apa-apa tindakan yang diperintahkan atau dibuat bagi maksud menguatkuasakan Akta ini dan peraturan-peraturan, dan tiada guaman atau pendakwaan boleh dibawa di mana-mana mahkamah terhadap mana- mana orang lain bagi atau atas sebab atau berkenaan dengan apa-apa tindakan yang dibuat atau berupa sebagai dibuat olehnya di bawah perintah, arahan atau suruhan Pengawal, Timbalan Pengawal, Penolong Pengawal atau mana-mana pegawai lain yang dilantik di bawah Akta ini jika perbuatan itu dibuat dengan suci hati dan dengan kepercayaan munasabah bahawa tindakan itu adalah perlu bagi maksud yang diniatkan untuk dicapai olehnya.
+43. Tiada tindakan atau pendakwaan boleh dibawa,
 
-Peraturan-
+<!-- marginal: Pengawal, -->
 
-44. (1) Menteri boleh, dari semasa ke semasa, membuat peraturan. peraturan-peraturan yang perlu atau suaimanfaat bagi memberikan kuatkuasa penuh kepada peruntukan- peruntukan Akta ini, bagi melaksanakan atau mencapai tujuan-tujuan dan maksud-maksud Akta ini atau mana- mana peruntukannya, atau bagi melaksanakan dengan lebih lanjut, lebih baik atau lebih mudah peruntukan- peruntukan Akta ini.
+dimulakan atau dikekalkan di mana-mana mahkamah
+
+<!-- marginal: Timbalan -->
+
+<!-- marginal: Pengawal. -->
+
+terhadap Pengawal. Timbalan Pengawal, Penolong
+
+<!-- marginal: Penolong -->
+
+Pengawal atau mana-mana pegawai lain yang dilantik
+
+<!-- marginal: Pengawal -->
+
+sewajarnya di bawah Akta ini bagi atau atas sebab atau
+
+<!-- marginal: dan pegawai -->
+
+<!-- marginal: lain. -->
+
+berkenaan dengan apa-apa tindakan yang diperintahkan atau dibuat bagi maksud menguatkuasakan Akta ini dan peraturan-peraturan, dan tiada guaman atau pendakwaan boleh dibawa di mana-mana mahkamah terhadap mana- mana orang lain bagi atau atas sebab atau berkenaan dengan apa-apa tindakan yang dibuat atau berupa sebagai dibuat olehnya di bawah perintah, arahan atau suruhan Pengawal, Timbalan Pengawal, Penolong Pengawal atau mana-mana pegawai lain yang dilantik di bawah Akta ini jika perbuatan itu dibuat dengan suci hati dan dengan kepercayaan munasabah bahawa tindakan itu adalah perlu bagi maksud yang diniatkan untuk dicapai olehnya.
+
+<!-- marginal: Peraturan- -->
+
+44. (1) Menteri boleh, dari semasa ke semasa, membuat
+
+<!-- marginal: peraturan. -->
+
+peraturan-peraturan yang perlu atau suaimanfaat bagi memberikan kuatkuasa penuh kepada peruntukan- peruntukan Akta ini, bagi melaksanakan atau mencapai tujuan-tujuan dan maksud-maksud Akta ini atau mana- mana peruntukannya, atau bagi melaksanakan dengan lebih lanjut, lebih baik atau lebih mudah peruntukan- peruntukan Akta ini.
 
 <!-- page 33 -->
 
@@ -1012,11 +1368,7 @@ Peraturan-
 
 (i) pelawaan kepada mana-mana orang untuk menjadi peserta dalam skim-skim jualan langsung; atau
 
-(ii) maklumat yang direncanakan untuk mendorong, sama ada secara langsung atau tak langsung, mana-mana orang untuk menjadi peserta dalam
-
-<!-- marginal: skim-skim -->
-
-sedemikian,
+(ii) maklumat yang direncanakan untuk mendorong, sama ada secara langsung atau tak langsung, mana-mana orang untuk menjadi peserta dalam skim-skim sedemikian,
 
 atau untuk melarang mana-mana dokumen sedemikian daripada dikeluarkan, dikelilingkan atau diedarkan melainkan jika dokumen itu mematuhi kehendak-kehendak tentang perkara- perkara yang hendaklah dimasukkan atau tidak dimasukkan ke dalam dokumen itu sebagaimana yang ditetapkan oleh peraturan-peraturan;
 

@@ -1,0 +1,2965 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-35-2017",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VIII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_2"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Private Aged Healthcare Facilities and Services Bill 2017"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_I__cl_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title and commencement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "APPROVAL TO PROVIDE AND LICENCE TO OPERATE PRIVATE AGED HEALTHCARE FACILITIES AND SERVICES Approval and licence"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_10"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "APPROVAL Application for approval"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_10__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_10__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The holder of an approval shall not transfer or assign the approval unless the prior approval of the Director General has been obtained."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application for the transfer or assignment of an approval shall be made to the Director General in such manner as the Director General shall determine and shall be accompanied by the prescribed fee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_10__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_10__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_10__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any holder of an approval who contravenes subsection (1) commits an offence and shall, on conviction, be liable—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_10__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_10__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the holder of an approval is an individual, to a fine not exceeding ten thousand ringgit; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_10__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_10__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the holder of an approval is a body corporate, partnership or society, to a fine not exceeding thirty thousand ringgit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_6__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application for an approval to provide a private aged healthcare facilities and services shall be made to the Director General in such manner as the Director General shall determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application for an approval shall be accompanied by the prescribed fee. Refusal to process application for approval"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may refuse to process an application for an approval or may require that the application be amended or completed and resubmitted or that a fresh application be submitted in its place if—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the application is not made in accordance with the manner as determined by the Director General; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the applicant has not shown proof that he is a fit and proper person to be granted an approval. Matters for consideration for approval"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_8__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_8__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_8__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Director General decides to proceed with an application for an approval, in deciding whether or not to grant the approval, the Director General shall consider the following matters:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the type of premises where the aged healthcare facilities and services are to be provided;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the healthcare services to be provided;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the availability of and access to existing private aged healthcare facilities and services in the area to which the application for approval relates;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_8__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the present and future needs for private aged healthcare facilities and services in the area to which the application for approval relates; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_8__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other matters which the Director General thinks is relevant. Grant of approval"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_9__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon consideration of the application for approval, the Director General may grant an approval to provide a private aged healthcare facilities and services."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The approval shall be in such form and contain such particulars as the Director General shall determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The approval shall be subject to the payment of the prescribed fee. Transfer or assignment of approval"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_4__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person shall not provide a private aged healthcare facilities and services for four or more aged persons without an approval under subsection 9(1) or operate a private aged healthcare facilities and services for four or more aged persons without a licence under Part IV."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application for an approval or a licence may be made by and granted to an individual, a body corporate, a partnership or a society."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_4__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_4__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_4__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_4__subsec_3__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_4__subsec_3__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_4__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of an individual—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_4__subsec_3__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_4__subsec_3__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to a fine not exceeding thirty thousand ringgit; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_4__subsec_3__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_4__subsec_3__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for a continuing offence, to a further fine not exceeding one thousand ringgit for every day or part of a day during which the offence continues after conviction; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_4__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_4__subsec_3__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_4__subsec_3__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_4__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of a body corporate, partnership or society—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_4__subsec_3__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_4__subsec_3__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to a fine not exceeding one hundred thousand ringgit; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_4__subsec_3__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_4__subsec_3__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for a continuing offence, to a further fine not exceeding three thousand ringgit for every day or part of a day during which the offence continues after conviction. Premises for licensed private aged healthcare facilities and services"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_5__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_5__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_5__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_5__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_5__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person shall provide and operate a licensed private aged healthcare facilities and services only at the following premises:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_5__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a residential facility;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_5__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a day care facility;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_5__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any premises as the Minister may prescribe; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_5__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any premises incorporating the specifications of any two or more of the premises in paragraphs (a) to (c)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A “day care facility” in paragraph (1)(b) means a facility without residential accomodation where aged healthcare facilities and services are provided for a continous period exceeding three hours in a day for at least three days in a week."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may determine different standards or requirements for different types of premises where the private aged healthcare facilities and services are to be provided."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_19"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "LICENCE Application for licence"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_11__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_11__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_11__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application for a licence to operate a private aged healthcare facilities and services shall be made only by a holder of an approval."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application for a licence shall be made to the Director General in such manner as the Director General shall determine within three years from the date the approval is granted in respect of the private aged healthcare facilities and services to which the application for licence relates or such extended period as the Director General may allow."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_11__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application for a licence shall be accompanied by the prescribed fee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_11__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where no application for a licence is made within the period specified in subsection (2) the approval shall be deemed revoked. Refusal to process application for licence"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may refuse to process an application for a licence, or may require that the application be amended or completed and resubmitted or that a fresh application be submitted in its place if the application is not made in accordance with the manner as determined by the Director General. Inspection of premises"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_13__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Director General decides to proceed with an application for a licence, the Director General shall appoint two or more persons to inspect the premises where private aged healthcare facilities and services are to be provided to ascertain whether or not such premises complies with the standards or requirements."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The persons appointed under subsection (1) shall submit a report of the inspection to the Director General as soon as practicable. Grant of licence"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_14__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Director General is satisfied with the report of the inspection under subsection 13(2), the Director General may grant a licence to operate a private aged healthcare facilities and services at such premises."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licence shall be in such form and contain such particulars as the Director General shall determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licence shall be subject to the payment of the prescribed fee. Interim licence"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_15__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_15__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_15__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_15__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_15__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_15__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding that the report of the inspection of the premises is unsatisfactory, the Director General may grant an interim licence if the Director General thinks that the applicant of the licence under section 11 could carry out remedial works to comply with the standards or requirements."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An interim licence shall be in such form and contain such particulars as the Director General shall determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_15__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An interim licence shall be subject to the payment of the prescribed fee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_15__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The remedial works under subsection (1) shall be carried out within twelve months from the date the interim licence is granted or such extended period as the Director General may allow."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_15__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An interim licensee may at any time during the period specified in subsection (4) notify the Director General of his compliance with the standards or requirements."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_15__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon the expiry of the period in subsection (4) or upon being notified of the compliance under subsection (5), whichever is the earlier, an inspection of the premises shall be carried out to enable the Director General to reconsider the application for a licence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_15__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 13 shall apply for an inspection of the premises under this section. Reconsideration of application for licence"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_16__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_16__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_16__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_16__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_16__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_16__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_16__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may reconsider the application for a licence based on the report of the inspection of the premises and the Director General may upon such reconsideration—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_16__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_16__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "grant a licence;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_16__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_16__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "refuse the application; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_16__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_16__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "extend the interim licence for such period as the Director General may allow to enable the compliance with the standards or requirements."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon the expiry of the extended period of the interim licence in paragraph (1)(c), an inspection of the premises shall be carried out to enable the Director General to further reconsider the application for a licence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_16__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Director General is satisfied with the report of the inspection of the premises under subsection (2), the Director General may grant a licence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_16__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licence shall be in such form and contain such particulars as the Director General shall determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_16__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licence shall be subject to the payment of the prescribed fee. Validity of licence"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licence shall be valid for a period of three years from the date it is issued unless sooner revoked. Renewal of licence"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_18__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application for the renewal of a licence shall be made in such manner as the Director General shall determine and shall be accompanied by the prescribed fee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General shall determine the duration of a licence upon renewal. Transfer or assignment of licence"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_19__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_19__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The licensee or an interim licensee shall not transfer or assign the licence or interim licence, unless the prior approval of the Director General has been obtained."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application for the transfer or assignment of a licence or an interim licence shall be made to the Director General in such manner as the Director General shall determine and shall be accompanied by the prescribed fee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_19__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_19__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_19__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any licensee or interim licensee who contravenes subsection (1) commits an offence and shall, on conviction, be liable—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_19__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_19__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the licensee or interim licensee is an individual, to a fine not exceeding ten thousand ringgit; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_19__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IV__cl_19__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the licensee or interim licensee is a body corporate, partnership or society, to a fine not exceeding thirty thousand ringgit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX",
+      "@type": "akn:part",
+      "eli:number": "IX",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_46",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_47",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_48",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_49",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_50",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_52",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_53"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "GENERAL Other than aged persons may be admitted"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licensee may admit persons below sixty years of age as a care recipient of the licensed private aged healthcare facilities and services and such admittance shall be based on the criteria as may be prescribed by the Minister upon consultation with the Minister charged with the responsibility for the Care Centres Act 1993. Register"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_43__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_43__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_43__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General shall maintain in both physical and electronic forms a Register of all licensed private aged healthcare facilities and services in such form and manner as the Director General shall determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_43__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person may, on payment of the prescribed fee, inspect and make copies or take extracts of an entry in the Register. Guidelines and directives"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may issue such guidelines and directives as the Director General thinks necessary or expedient for the proper implementation of this Act. Delegation of power"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_45__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_45__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_45__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_45",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may delegate any of the powers or duties of the Director General, other than the power under section 44, to any officer under the control, direction and supervision of the Director General subject to such conditions, limitations or restrictions as the Director General thinks fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_45__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_45",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A delegation under this section shall not preclude the Director General himself from performing or exercising at any time any of the delegated powers or duties. Appeal"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_46__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_46__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_46__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_46__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any person is aggrieved by any directions or any decision made by the Director General or any officer to whom the powers or duties of the Director General has been delegated, such person may appeal to the Minister, within thirty days or any extended period as the Minister may allow from the date of the making of the order or decision appealed against."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_46__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may confirm, reverse or vary any directions or decision appealed against."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_46__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may make such regulations to prescribe the procedure for appeal. Power to exempt"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, by order published in the Gazette, exempt any private aged healthcare facilities and services from the operation of any of the provisions of this Act. Power to amend Schedules"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_48",
+      "@type": "akn:clause",
+      "eli:number": "48",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, by order published in the Gazette, amend any Schedule to this Act. Power to make regulations"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_49",
+      "@type": "akn:clause",
+      "eli:number": "49",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_49__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_49__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_49__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_49",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may make such regulations as may be necessary or expedient for the proper implementation of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_49__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_49__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_49__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_49",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Regulations made under this Act may prescribe any act or omission in contravention of the regulations to be an offence and may prescribe penalties of a fine—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_49__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_49__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of a licensee who is an individual, not exceeding ten thousand ringgit and for a continuing offence, to a further fine not exceeding one thousand ringgit for every day or part of a day during which the offence continues after conviction; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_49__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_49__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of a licensee who is a body corporate, partnership or society, not exceeding twenty thousand ringgit and for a continuing offence, to a further fine not exceeding five thousand ringgit for every day or part of a day during which the offence continues after conviction. General penalty"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_50",
+      "@type": "akn:clause",
+      "eli:number": "50",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_50__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_50__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_50__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_50",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person who contravenes any of the provisions of this Act or any regulations made under this Act for which no express provision making its contravention an offence has been provided commits an offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_50__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_50__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_50__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_50",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who commits an offence under this Act or any regulations made under this Act for which no penalty is expressly provided shall, on conviction, be liable—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_50__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_50__subsec_2__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_50__subsec_2__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_50__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of an individual—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_50__subsec_2__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_50__subsec_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to a fine not exceeding five thousand ringgit; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_50__subsec_2__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_50__subsec_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for a continuing offence, to a further fine not exceeding five hundred ringgit for every day or part of a day during which the offence continues after conviction; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_50__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_50__subsec_2__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_50__subsec_2__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_50__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of a body corporate, partnership or society—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_50__subsec_2__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_50__subsec_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to a fine not exceeding twenty thousand ringgit; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_50__subsec_2__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_50__subsec_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for a continuing offence, to a further fine not exceeding one thousand five hundred ringgit for every day or part of a day during which the offence continues after conviction. Offence by body corporate, partnership or society"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51",
+      "@type": "akn:clause",
+      "eli:number": "51",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If a body corporate, a partnership or a society commits an offence under this Act or any regulations made under this Act, a person who at the time of the commission of the offence was a director, chief executive officer, chief operating officer, manager, secretary or other similar officer of the body corporate, partnership or society or was purporting to act in any such capacity or was in any manner or to any extent responsible for the management of any of the affairs of the body corporate, partnership or society or was assisting in such management—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "may be charged severally or jointly in the same proceedings with the body corporate, partnership or society; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51__subsec_1__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51__subsec_1__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if the body corporate, partnership or society is found guilty of the offence, shall be deemed to be guilty of that offence unless, having regard to the nature of his functions in that capacity and to all circumstances, he proves—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51__subsec_1__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that the offence was committed without his knowledge, consent or connivance; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51__subsec_1__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that he had taken all reasonable precautions and exercised due diligence to prevent the commission of the offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Whenever any agent or employee in the course of his employment does or omits to do any act the doing or the omission to do of which by his principal or employer would be an offence against this Act or any regulations made under this Act, such agent or employee shall be guilty of that offence, and subsection (3) shall apply to his principal or employer."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51__subsec_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If any person would be liable under this Act or any regulations made under this Act to any punishment or penalty for his act, omission, neglect or default, he shall be liable to the same punishment or penalty for every such act, omission, neglect or default of any employee or agent of his, or of the employee of the agent, if the act, omission, neglect or default was committed—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by that person’s employee in the course of his employment;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by the agent when acting on behalf of that person; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_51__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by the employee of the agent in the course of his employment by the agent or otherwise on behalf of the agent acting on behalf of that person. Compounding of offences"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_52",
+      "@type": "akn:clause",
+      "eli:number": "52",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_52__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_52__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_52__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_52__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_52__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_52__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_52__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_52__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_52__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_52",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, with the approval of the Public Prosecutor, make regulations prescribing—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_52__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_52__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any offence under this Act and any regulations made under the Act that may be compounded;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_52__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_52__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the criteria for compounding such offence; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_52__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_52__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the method and procedure for compounding such offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_52__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_52",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may, with the consent in writing of the Public Prosecutor, compound any offence committed by any person under this Act or any regulations made under this Act, and prescribed to be a compoundable offence by making a written offer to the person suspected to have committed the offence to compound the offence upon payment to the Director General of an amount of money not exceeding fifty per centum of the amount of the maximum fine for that offence within such time as may be specified in his written offer."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_52__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_52",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An offer under subsection (2) may be made at any time after the offence has been committed but before any prosecution for it has been instituted."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_52__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_52",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the amount specified in the offer is not paid within the time specified in the offer or such extended period as the Director General may allow, prosecution for the offence may be instituted at any time after that against the person to whom the offer was made."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_52__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_52",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where an offence has been compounded under this section, no prosecution shall be instituted in respect of the offence against the person to whom the offer to compound was made, and any document or thing seized in connection with the offence may be released by the Director General, subject to such conditions as the Director General thinks fit. Savings and transitional"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_53",
+      "@type": "akn:clause",
+      "eli:number": "53",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_53__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_53__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_53__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_53__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_53__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_53",
+      "schema:text": {
+        "@language": "en",
+        "@value": "On the date of coming into operation of this Act, a care centre registered under the Care Centre Act 1993 which provides care to four or more aged person shall be deemed to have been licensed under this Act up to five years from the date of coming into operation of this Act or such further period as the Director General may allow."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_53__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_53",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The operator of a care centre under subsection (1) shall apply for an approval and a license under this Act within the period of five years, or such further period as the Director General may allow in accordance with subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_53__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_53",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Pending the decision to grant an approval and a licence to a care centre under subsection (2), the care centre shall continue to be deemed to be licensed under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_53__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_IX__cl_53",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any decision, order, appeal, direction, investigation, trial and proceedings done, taken or commenced under the Care Centres Act 1993 relating to the care centre under subsection (1) immediately before the date of coming into operation of this Act shall be continued or concluded under and in accordance with the provisions of the Care Centres Act 1993."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Private Aged Healthcare Facilities and Services Act 2017."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "“prescribed” means prescribed by the Minister by regulations made under this Act; “Inspector” means an Inspector appointed under subsection 87(1) of the Private Healthcare Facilities and Services Act 1998 [Act 586]; “approval” means an approval granted under subsection 9(1) to provide a private aged healthcare facilities and services and “holder of an approval” means a holder of an approval to which the private aged healthcare facilities and services relates; “private aged healthcare facilities and services” means any premises where healthcare services are provided for aged persons; “licensed private aged healthcare facilities and services” means any private aged healthcare facilities and services licensed under Part IV; “Director General” means the Director General of Health, Malaysia; “licence” means a licence granted under Part IV to operate a private aged healthcare facilities and services and “licensee” means a holder of a licence to which the private aged healthcare facilities and services relates; “interim licence” means an interim licence granted under Part IV and “interim licensee” means a holder of an interim licence; “Minister” means the Minister charged with the responsibility for health; “person in charge” means a person charged with the responsibilities under subsection 23(2); “care recipient” means any person receiving healthcare services at a licensed private aged healthcare facilities and services; “caregiver” means any person, other than a healthcare professional, who provides personal care to any care recipient; “healthcare services” means any services specified in the First Schedule; “society” means any society registered under the Societies Act 1966 [Act 335] or Co-operative Societies Act 1993 [Act 502]; “body corporate” means any body incorporated under the Companies Act 2016 [Act 777] or statutory body incorporated and established under any written law; “healthcare professional” means any person specified in the Second Schedule; “relative” means any person connected by blood or marriage or legal adoption, or a legal guardian; “standards or requirements” means standards or requirements as the Director General may determine under subsection 5(3); “aged person” means any person who is sixty years of age or above. Non-application"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_I__cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_I__cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_I__cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "This Act shall not apply to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_I__cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "private healthcare facilities and services licensed under the Private Healthcare Facilities and Services Act 1998;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_I__cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "care centres registered under the Care Centres Act 1993 [Act 506] except care centres registered under the Care Centres Act 1993 deemed to have been licensed under this Act pursuant to section 53; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_I__cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "premises where an individual provides healthcare for his aged relative."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_29"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "DUTY OF LICENSEE AND PERSON IN CHARGE Duty of licensee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_34"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "REVOCATION Grounds for revocation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_37"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "CLOSURE OF PRIVATE AGED HEALTHCARE FACILITIES AND SERVICES Voluntary closure"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VIII",
+      "@type": "akn:part",
+      "eli:number": "VIII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VIII__cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VIII__cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VIII__cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VIII__cl_41"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ENFORCEMENT Power of enforcement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VIII__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General and any Inspector appointed under subsection 87(1) of the Private Healthcare Facilities and Services Act 1998 shall exercise the power of enforcement under this Act. Power of investigation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VIII__cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General and any Inspector shall have all the powers necessary to carry out an investigation under this Act in accordance with the Criminal Procedure Code [Act 593]. Inspection of private aged healthcare facilities and services"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VIII__cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General and any Inspector may enter and inspect any licensed private aged healthcare facilities and services to ascertain that the private aged healthcare facilities and services is used for the purpose in respect of which the licence is granted, and that the conditions of the licence, the provision of this Act and the regulations made under this Act, are complied with. Institution and conduct of prosecution"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VIII__cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VIII__cl_41__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VIII__cl_41__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VIII__cl_41__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VIII__cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No prosecution shall be instituted for any offence under this Act without the written consent of the Public Prosecutor."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VIII__cl_41__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VIII__cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any officer authorized in writing by the Public Prosecutor may conduct the prosecution for any offence under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_35__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_35__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_35__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_35__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_35__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licensee who intends to close down a licensed private aged healthcare facilities and services shall, not later than three months before the closing down of such licensed private aged healthcare facilities and services, serve a notice to the Director General, the care recipients, their relatives, or any person on behalf of the care recipients, of the licensee’s intention to close down such licensed private aged healthcare facilities and services."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_35__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_35__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_35__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The notice to the Director General under subsection (1) shall include the following:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_35__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a full report as the Director General shall determine; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_35__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an action plan regarding the closure of such licensed private aged healthcare facilities and services, including, where the licensed private aged healthcare facilities and services provides accommodation, regarding the accommodation of the care recipients."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_35__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Having considered the notice under subsection (1), the Director General may give any directions relating to the closure of such licensed private aged healthcare facilities and services, including with regard to the accommodation and care of the care recipients, and the records of the care recipients."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_35__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_35__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_35__subsec_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1), serves a notice not in accordance with subsection (2) or contravenes any direction under subsection (3), commits an offence and shall, on conviction, be liable—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_35__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_35__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of an individual, to a fine not exceeding fifteen thousand ringgit; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_35__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_35__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of a body corporate, partnership or society to a fine not exceeding fifty thousand ringgit. Closure pursuant to revocation of licence"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_36__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_36__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_36__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_36__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_36__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_36__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_36__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licensee shall, within such period as the Director General shall determine, after being notified of the decision of the Director General to revoke the licence—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_36__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_36__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "serve a notice of the revocation to the care recipients, his relatives or any person on behalf of the care recipients;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_36__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_36__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "serve on the Director General a full report as the Director General shall determine; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_36__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_36__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "serve on the Director General an action plan regarding the closure of such licensed private aged healthcare facilities and services, including, where the licensed private aged healthcare facilities and services provides accommodation, regarding the accommodation of the care recipients."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_36__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Having considered the full report under paragraph (1)(b) and the action plan under paragraph (1)(c), the Director General may give any directions relating to the closure of such private aged healthcare facilities and services, including with regard to the accommodation and care of the care recipients, and the records of the care recipients."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_36__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_36__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_36__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) or any direction under subsection (2), commits an offence and shall, on conviction, be liable—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_36__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_36__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of an individual person, to a fine not exceeding thirty thousand ringgit; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_36__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_36__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of a body corporate, partnership or society, to a fine not exceeding one hundred thousand ringgit. Closure of unlicensed private aged healthcare facilities and services"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_37__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_37__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_37__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_37__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may direct any person who has provided or operated any private aged healthcare facilities and services in contravention of section 4, whether or not a prosecution has been instituted in respect of such contravention, to close down such private aged healthcare facilities and services."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_37__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may give any directions as the Director General thinks necessary relating to such closure."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_37__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VII__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any costs incurred relating to the closure of unlicensed private aged healthcare facilities and services under subsection (1) shall be borne by the person providing or operating such facilities and services and be deemed to be a debt due to the Government."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_30__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_30__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_30__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_30__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_30__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_30__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_30__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may revoke the approval, licence or interim licence, or refuse to renew a licence, if the Director General is satisfied—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_30__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that the approval, licence or interim licence, or renewal of licence has been obtained by any false or misleading statement;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_30__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that an offence under this Act or any regulations made under this Act, any offence involving fraud or dishonesty, or any other offence punishable with imprisonment, in itself only or in addition to or in lieu of a fine, for more than two years, has been committed by the holder of the approval, the licensee or the interim licensee;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_30__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that the holder of the approval, the licensee or the person in charge has failed to comply with any directions of the Director General;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_30__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that the licensee or the person in charge has operated or managed or howsoever used the private aged healthcare facilities and services in a manner which is detrimental to the interest of the care recipients;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_30__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that the licensee has employed or engaged an unqualified person as a person in charge, a healthcare professional or a caregiver;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_30__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that the holder of the approval, licensee or interim licensee is adjudged a bankrupt; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_30__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that the licensee has ceased to operate the private aged healthcare facilities and services. Show cause"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_31__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_31__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_31__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Before revoking an approval, a licence or an interim licence, the Director General shall issue a show cause notice of his intention to do so and require the holder of the approval, licensee or interim licensee to make a representation within twenty-one days, or any extended period as the Director General may allow, from the date the notice is received as to why the approval, licence or interim licence should not be revoked."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_31__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection (1) shall not apply where the grounds for revocation relates to paragraph 30(b), (f) or (g). Revocation of approval, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_32__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_32__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_32__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_32__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_32__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "After the expiry of the time specified in the show cause notice for the making of representation and after considering any representation of the holder of the approval or licensee, the Director General may—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_32__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_32__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "revoke the approval, licence or interim licence; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_32__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_32__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "issue a warning or give any directions to the holder of the approval, licensee or interim licensee, or order the holder of the approval, licensee or interim licensee, to rectify the situation to the satisfaction of the Director General."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_32__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In respect of an approval, licence or interim licence which has been revoked on the grounds in paragraph 30(b), (f) or (g), it shall be sufficient for the Director General to notify the holder of the approval, licensee or interim licensee, as the case may be, of the revocation of the approval, licence or interim licence respectively. Surrender of approval, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon the revocation of an approval, licence or interim licence, the holder of the approval, licensee or interim licensee shall surrender the approval, licence or interim licence to the Director General. Cessation of operation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licensee shall cease to operate the private aged healthcare facilities and services where the licence to which it relates has been revoked from the date the licensee is notified of the revocation, or within such period as the Director General shall determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_20__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_20__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_20__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_20__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_20__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_20__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V",
+      "schema:name": {
+        "@language": "en",
+        "@value": "A licensee shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ensure that the healthcare professionals employed or engaged by the licensee are qualified under any law regulating their profession;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ensure that caregivers are trained and are competent;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_20__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ensure that the assessment of a care recipient are carried out by a healthcare professional;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_20__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ensure that arrangements have been made for a healthcare professional to be available at the private aged healthcare facilities and services;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_20__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "submit an annual report on the private aged healthcare facilities and services to the Director General in such form and manner as the Director General shall determine;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_20__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ensure that the private aged healthcare facilities and services is managed by a person in charge; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_20__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "perform other duties and responsibilities as the Director General shall determine. Policy statement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_21__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_21__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The licensee shall make available to a care recipient a policy statement of the private aged healthcare facilities and services upon the admission of such care recipient."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_21__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_21__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_21__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The policy statement of a licensed private aged healthcare facilities and services shall include the following matters:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_21__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_21__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the rights of the care recipient;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_21__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_21__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the duties of the licensee; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_21__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_21__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a grievance mechanism plan and procedure."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_21__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The licensee shall display the policy statement at a conspicuous part of the private aged healthcare facilities and services. Grievance mechanism plan and procedure"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_22__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_22__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_22__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licensee shall ensure the following in relation to a grievance mechanism plan and procedure of the private aged healthcare facilities and services:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_22__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that the care recipient, his relative, any person acting on behalf of the care recipient, any person who has direct contact with the care recipient, and any employee of the licensee are aware of the availability of the grievance mechanism plan and procedure;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_22__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that the grievance mechanism plan and procedure is used to address any complaint by the care recipient, his relative, any person acting on behalf of the care recipient or any person who has direct contact with the care recipient; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_22__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that the grievance mechanism plan and procedure provides for the requirement to document the complaint. Person in charge"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_23__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person in charge of a licensed private aged healthcare facilities and services shall be a person who holds such qualification, have undergone such training and possess such experience, as the Director General shall determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_23__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_23__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_23__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_23__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person in charge shall be responsible—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_23__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the management of a licensed private aged healthcare facilities and services;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_23__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the supervision of the persons employed or engaged at such licensed private aged healthcare facilities and services;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_23__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for ensuring that healthcare services provided to the care recipients are conducted by healthcare professionals; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_23__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for performing other duties and responsibilities as the Director General shall determine. Change of person in charge"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The licensee shall notify the Director General of any change of the person in charge within fourteen days of the occurrence of such change. Incident reporting"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licensee or a person in charge shall report to the Director General the occurence of any unforeseeable and unanticipated incidents. Emergency"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_26__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_26__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_26__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_26__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_26__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licensee shall ensure that the person in charge has access to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_26__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_26__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the home address and address of place of work and the telephone numbers of each person designated as the emergency contact person of a care recipient; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_26__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_26__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any relevant medical information relating to a care recipient."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The licensee shall display a list of emergency telephone numbers including the telephone numbers of the fire and rescue services, ambulance services and the police at a conspicuous part of the private aged healthcare facilities and services."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_26__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The licensee shall ensure that the private aged healthcare facilities and services is equipped with a first-aid kit for emergency treatment which shall be kept at an accessible and safe place."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_26__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The licensee shall make arrangements for the training of a caregiver employed by the licensee in basic life support. Notification of death"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_27__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_27__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon the death of any care recipient, the licensee or person in charge shall notify each person designated as the emergency contact person of the deceased."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The licensee or person in charge shall keep the deceased in a separate area from the other care recipients. Restriction on the use of licensed private aged healthcare facilities and services"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_28__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_28__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_28__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licensee shall not use or cause or allow to be used the private aged healthcare facilities and services for any purpose other than the purpose in respect of which the licence is granted and purposes reasonably incidental to it."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_28__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_28__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_28__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licensee who contravenes subsection (1) commits an offence and shall, on conviction, be liable—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_28__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_28__subsec_2__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_28__subsec_2__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_28__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the licensee is an individual—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_28__subsec_2__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_28__subsec_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to a fine not exceeding five thousand ringgit; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_28__subsec_2__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_28__subsec_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for a continuing offence, to a further fine not exceeding five hundred ringgit for every day or part of a day during which the offence continues after conviction; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_28__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_28__subsec_2__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_28__subsec_2__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_28__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the licensee is a body corporate, partnership or society—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_28__subsec_2__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_28__subsec_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to a fine not exceeding twenty thousand ringgit; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_28__subsec_2__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_28__subsec_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for a continuing offence, to a further fine not exceeding one thousand five hundred ringgit for every day or part of a day during which the offence continues after conviction. Prohibition on extension or alteration"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_29__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_29__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_29__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_29__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_29__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_29__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Unless with the prior approval of the Director General, a licensee shall not make any structural or functional extension or alteration to the premises of the licensed private aged healthcare facilities and services which affects—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_29__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any of the purposes for which such licensed private aged healthcare facilities and services is provided or operated;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_29__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any of the conditions of the approval or licence; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_29__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any of the standards or requirements."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application for any extension or alteration shall be made to the Director General in such manner as the Director General shall determine and shall be accompanied by the prescribed fee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_1__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_1__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_1__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_1__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_1__para_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_1__para_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Sections 2 and 48] HEALTHCARE SERVICES"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_1__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Services of healthcare professionals and healthcare para-professionals"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_1__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Service for the screening, diagnosis, or treatment of persons suffering from, or believed to be suffering from, any disease, injury or disability of mind or body"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_1__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Service for curing or alleviating any abnormal condition of the human body by the application of any apparatus, equipment, instrument or device, or any other medical technology"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_1__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Service for preventive or promotive health purposes"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_1__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Protection, supervision and rehabilitation services"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_1__para_6",
+      "@type": "akn:paragraph",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Accommodation for the purposes of any healthcare services"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_2",
+      "@type": "akn:schedule",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_2__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_2__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_2__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_2__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_2__para_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_2__para_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_2__para_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Sections 2 and 48] HEALTHCARE PROFESSIONAL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_2__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_2",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Medical practitioner registered under the Medical Act 1971 [Act 50]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_2__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_2",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Dental practitioner registered under the Dental Act 1971 [Act 51]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_2__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_2",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Optometrist registered under the Optical Act 1991 [Act 469]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_2__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_2",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Pharmacist registered under the Registration of Pharmacists Act 1951 [Act 371]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_2__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Allied health practitioner registered under the Allied Health Professions Act 2016 [Act 774]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_2__para_6",
+      "@type": "akn:paragraph",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_2",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Nurse registered under the Nurses Act 1950 [Act 14]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_2__para_7",
+      "@type": "akn:paragraph",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/35/eng@/~sched_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Medical assistant registered under the Medical Assistants (Registration) Act 1977 [Act 180]"
+      }
+    }
+  ]
+}

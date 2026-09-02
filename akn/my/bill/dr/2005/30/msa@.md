@@ -48,29 +48,71 @@ Perjanjian timbang tara
 
 ## Bab 3
 
-Keanggotaan penimbang tara 12. Bilangan penimbang tara 13. Pelantikan penimbang tara 14. Alasan untuk mencabar 15. Tatacara mencabar 16. Kegagalan atau kemustahilan untuk bertindak 17. Pelantikan penimbang tara ganti
+Keanggotaan penimbang tara
+
+12. Bilangan penimbang tara
+
+13. Pelantikan penimbang tara
+
+14. Alasan untuk mencabar
+
+15. Tatacara mencabar
+
+16. Kegagalan atau kemustahilan untuk bertindak
+
+17. Pelantikan penimbang tara ganti
 
 ## Bab 4
 
 Bidang kuasa tribunal timbang tara
 
-18. Kewibawaan tribunal timbang tara untuk membuat keputusan mengenai bidang kuasanya 19. Kuasa tribunal timbang tara untuk memerintahkan langkah interim
+18. Kewibawaan tribunal timbang tara untuk membuat keputusan mengenai bidang kuasanya
+
+19. Kuasa tribunal timbang tara untuk memerintahkan langkah interim
 
 ## Bab 5
 
 Penjalanan prosiding timbang tara
 
-20. Layanan sama rata pihak-pihak 21. Penentuan kaedah tatacara 22. Tempat timbang tara 23. Permulaan prosiding timbang tara 24. Bahasa 25. Pernyataan tuntutan dan pembelaan 26. Pendengaran 27. Keingkaran suatu pihak 28. Pakar yang dilantik oleh tribunal timbang tara 29. Bantuan mahkamah dalam mengambil keterangan
+20. Layanan sama rata pihak-pihak
+
+21. Penentuan kaedah tatacara
+
+22. Tempat timbang tara
+
+23. Permulaan prosiding timbang tara
+
+24. Bahasa
+
+25. Pernyataan tuntutan dan pembelaan
+
+26. Pendengaran
+
+27. Keingkaran suatu pihak
+
+28. Pakar yang dilantik oleh tribunal timbang tara
+
+29. Bantuan mahkamah dalam mengambil keterangan
 
 ## Bab 6
 
 Membuat award dan penamatan prosiding
 
-30. Undang-undang yang terpakai bagi isi pertikaian 31. Keputusan yang dibuat oleh panel penimbang tara
+30. Undang-undang yang terpakai bagi isi pertikaian
+
+31. Keputusan yang dibuat oleh panel penimbang tara
 
 <!-- page 3 -->
 
-32. Penyelesaian 33. Bentuk dan kandungan award 34. Penamatan prosiding 35. Pembetulan dan tafsiran award atau award tarabahan 36. Award adalah muktamad dan mengikat
+32. Penyelesaian
+
+33. Bentuk dan kandungan award
+
+34. Penamatan prosiding
+
+35. Pembetulan dan tafsiran award atau award tarabahan
+
+36. Award adalah muktamad dan mengikat
 
 ## Bab 7
 
@@ -82,19 +124,41 @@ Tindakan terhadap award
 
 Pengiktirafan dan penguatkuasaan award
 
-38. Pengiktirafan dan penguatkuasaan 39. Alasan untuk menolak pengiktirafan atau penguatkuasaan
+38. Pengiktirafan dan penguatkuasaan
+
+39. Alasan untuk menolak pengiktirafan atau penguatkuasaan
 
 ## BAHAGIAN III
 
 ## PERUNTUKAN TAMBAHAN YANG BERHUBUNGAN DENGAN TIMBANG TARA
 
-40. Penyatuan prosiding dan pendengaran bersama 41. Penentuan perkara undang-undang permulaan oleh mahkamah 42. Rujukan mengenai soal undang-undang 43. Rayuan 44. Kos dan belanja timbang tara 45. Pelanjutan masa untuk memulakan prosiding timbang tara 46. Pelanjutan masa untuk membuat award
+40. Penyatuan prosiding dan pendengaran bersama
+
+41. Penentuan perkara undang-undang permulaan oleh mahkamah
+
+42. Rujukan mengenai soal undang-undang
+
+43. Rayuan
+
+44. Kos dan belanja timbang tara
+
+45. Pelanjutan masa untuk memulakan prosiding timbang tara
+
+46. Pelanjutan masa untuk membuat award
 
 ## BAHAGIAN IV
 
 ## PELBAGAI
 
-47. Tanggungan penimbang tara 48. Kekebalan institusi timbang tara 49. Kebankrapan 50. Cara permohonan 51. Pemansuhan dan kecualian
+47. Tanggungan penimbang tara
+
+48. Kekebalan institusi timbang tara
+
+49. Kebankrapan
+
+50. Cara permohonan
+
+51. Pemansuhan dan kecualian
 
 <!-- page 4 -->
 
@@ -374,7 +438,9 @@ mana-mana pihak boleh meminta Pengarah Pusat Timbang Tara Serantau Kuala Lumpur 
 
 14. (1) Seseorang yang didatangi berkaitan dengan kemungkinan orang itu dilantik sebagai seorang penimbang tara hendaklah menzahirkan apa-apa hal keadaan yang bermungkinan menimbulkan keraguan yang boleh diwajarkan berkenaan dengan kesaksamaan atau kebebasan orang itu.
 
-(2) Seorang penimbang tara hendaklah, tanpa kelengahan, dari masa pelantikan dan sepanjang prosiding timbang tara itu, menzahirkan apa-apa hal keadaan yang disebut dalam subseksyen (1) kepada pihak-pihak melainkan j ika pihak-pihak itu telah diberitahu mengenai hal keadaan itu oleh penimbang tara itu.
+(2) Seorang penimbang tara hendaklah, tanpa kelengahan, dari masa pelantikan dan sepanjang prosiding timbang tara itu, menzahirkan apa-apa hal keadaan yang disebut dalam subseksyen
+
+(1) kepada pihak-pihak melainkan j ika pihak-pihak itu telah diberitahu mengenai hal keadaan itu oleh penimbang tara itu.
 
 (3) Seorang penimbang tara boleh dicabar hanya jika—
 
@@ -816,7 +882,9 @@ Pengiktirafan dan penguatkuasaan award
 
 (3) Jika award atau perjanjian timbang tara adalah dalam bahasa selain bahasa kebangsaan atau bahasa Inggeris, pemohon hendaklah membekalkan terjemahan award atau perjanjian itu dalam bahasa Inggeris yang diperakui dengan sempurnanya.
 
-(4) Bagi maksud Akta ini, "Negara asing" ertinya suatu Negara yang merupakan suatu pihak kepada Konvensyen Mengenai Pengiktirafan dan Penguatkuasaan Award Timbang Tara Asing yang diterima pakai oleh Persidangan Bangsa-Bangsa Bersatu Mengenai Timbang Tara Perdagangan Antarabangsa pada tahun 1958.
+(4) Bagi maksud Akta ini, "Negara asing" ertinya suatu Negara yang merupakan suatu pihak kepada Konvensyen Mengenai Pengiktirafan dan Penguatkuasaan Award Timbang Tara Asing yang diterima pakai oleh Persidangan Bangsa-Bangsa Bersatu Mengenai Timbang Tara Perdagangan Antarabangsa pada tahun
+
+1958.
 
 ### Alasan untuk menolak pengiktirafan atau penguatkuasaan
 
@@ -948,7 +1016,9 @@ mengikut apa-apa terma sebagaimana yang boleh dipersetujui.
 
 (2) Melainkan jika dipersetujui selainnya oleh pihak-pihak, jika suatu pihak membuat suatu tawaran kepada pihak yang satu lagi untuk menyelesaikan pertikaian atau sebahagian daripada pertikaian itu dan tawaran itu tidak diterima dan award tribunal timbang tara tidak lebih baik kepada pihak yang satu lagi itu daripada apa yang ditawarkan itu, tribunal timbang tara, dalam menetapkan dan menguntukkan kos dan belanja timbang tara, boleh mengambil kira hakikat tawaran itu dalam mengaward kos dan belanja berkenaan dengan tempoh daripada pembuatan tawaran hingga pembuatan award.
 
-(3) Tawaran untuk penyelesaian yang dibuat di bawah subseksyen (2) tidak boleh dimaklumkan kepada tribunal timbang tara sehingga ia telah membuat penentuan muktamad mengenai semua aspek pertikaian itu selain penetapan dan penguntukan kos dan belanja.
+(3) Tawaran untuk penyelesaian yang dibuat di bawah subseksyen
+
+(2) tidak boleh dimaklumkan kepada tribunal timbang tara sehingga ia telah membuat penentuan muktamad mengenai semua aspek pertikaian itu selain penetapan dan penguntukan kos dan belanja.
 
 (4) Jika tribunal timbang tara enggan untuk menyampaikan awardnya sebelum pembayaran fi dan belanjanya, Mahkamah Tinggi boleh memerintahkan tribunal timbang tara itu untuk menyampaikan award itu mengikut syarat-syarat sebagaimana yang difikirkan patut oleh Mahkamah Tinggi.
 
@@ -1038,11 +1108,7 @@ Rang Undang-Undang ini bertujuan untuk memperbaharui undang-undang yang berhubun
 
 5. Fasal 2 mengandungi takrif perkataan dan ungkapan tertentu yang digunakan dalam Rang Undang-Undang ini.
 
-6. Fasal 3 memperuntukkan bahawa pihak-pihak kepada suatu timbang tara domestik atau antarabangsa hendaklah mematuhi kehendak di bawah Bahagian I, II dan IV jika tempat timbang tara adalah di Malaysia. Fasal 3 juga memperuntukkan bahawa Bahagian III hendaklah terpakai bagi timbang tara domestik melainkan jika pihak-pihak bersetuju selainnya dan bahawa
-
-## Bahagian III hendaklah tidak terpakai bagi timbang tara antarabangsa melainkan
-
-jika pihak-pihak bersetuju selainnya.
+6. Fasal 3 memperuntukkan bahawa pihak-pihak kepada suatu timbang tara domestik atau antarabangsa hendaklah mematuhi kehendak di bawah Bahagian I, II dan IV jika tempat timbang tara adalah di Malaysia. Fasal 3 juga memperuntukkan bahawa Bahagian III hendaklah terpakai bagi timbang tara domestik melainkan jika pihak-pihak bersetuju selainnya dan bahawa Bahagian III hendaklah tidak terpakai bagi timbang tara antarabangsa melainkan jika pihak-pihak bersetuju selainnya.
 
 7. Fasal 4 memperkatakan kebolehtimbangtaraan hal perkara.
 
@@ -1052,11 +1118,7 @@ jika pihak-pihak bersetuju selainnya.
 
 ## BAHAGIAN II
 
-9.
-
-## Bahagian II mengandungi peruntukan yang berhubungan dengan timbang
-
-tara berdasarkan undang-undang contoh yang diterima pakai oleh Suruhanjaya Bangsa-Bangsa Bersatu mengenai Undang-Undang Perdagangan Antarabangsa pada 21 Jim 1985.
+9. Bahagian II mengandungi peruntukan yang berhubungan dengan timbang tara berdasarkan undang-undang contoh yang diterima pakai oleh Suruhanjaya Bangsa-Bangsa Bersatu mengenai Undang-Undang Perdagangan Antarabangsa pada 21 Jim 1985.
 
 10. Di bawah/a.ra/ 6 suatu komunikasi bertulis yang diserahkan kepadapenerima sendiri atau di tempat urusan perniagaan atau tempat tinggal biasa atau alamat melnya hendaklah disifatkan telah diterima pada hari ia diserahkan itu. Sekiranya penerima tidak dapat ditemui di mana-mana tempat itu maka komunikasi bertulis itu disifatkan telah diterima apabila dipenuhi kehendak penghantaran surat berdaftar atau cara lain yang memberikan suatu rekod percubaan untuk menyerahkan komunikasi bertulis itu ke tempat urusan yang akhir diketahui, tempat tinggal biasa atau alamat surat-menyurat.
 

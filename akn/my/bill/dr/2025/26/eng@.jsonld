@@ -1,0 +1,3100 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-26-2025",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_46",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_47",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_48",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_49",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_50",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_51",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_52",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_53",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_54",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_55",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_56",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_57",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_58",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_59",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_60",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_61",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_62",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_63",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_64",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_65",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_67",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_68",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_69",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_70",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Atomic Energy Licensing (Amendment) Bill 2025"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 12 the following section: “Permit 12a. (1) Without prejudice to the requirements of any other law, no person shall— (a) import radioactive material, nuclear material, nuclear related item or nuclear related technology; or (b) export, tranship or bring in transit radioactive material or nuclear material, unless he is the holder of a valid permit issued under subsection 16a(2) by the Director General for such purpose as specified in the permit. (2) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding ten years or to a fine not exceeding five hundred thousand ringgit or to both.”. Amendment of section 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_11__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 13 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, in subsection (1), by substituting for the words “seksyen 68(2)(c)” the words “perenggan 68(2)(c)”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “, prescribed substance or irradiating apparatus” wherever appearing the words “or radiation generator”. Amendment of section 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 14 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “, nuclear material or prescribed substance” wherever appearing the words “or nuclear material”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_12__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_12__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_12__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_12__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “, nuclear material or prescribed substance” the words “or nuclear material”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_12__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_12__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “Board” wherever appearing the words “Director General”. Amendment of section 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 15 of the principal Act is amended by substituting for the word “Board” wherever appearing the words “Director General”. Amendment of section 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_14__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_14__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 16 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “Board” wherever appearing the words “Director General”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (4) the following subsection: “(4a) Where there is doubt as to whether an activity to be licensed is for a medical purpose or a purpose other than a medical purpose, the matter shall be referred to the Advisory Council for the purpose of identifying whether the activity is to be licensed for a medical purpose or a purpose other than a medical purpose under this Act and the Director General shall act in accordance with the findings of the Advisory Council.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_14__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_14__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_14__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (6)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_14__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_14__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “continue in force for such period not exceeding three years” the words “continue to be in force for such period of not less than one year and not exceeding forty years”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_14__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_14__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, by substituting for the word “ditetapkan” the words “yang ditentukan”. New section 16a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 16 the following section: “Application for permit 16a. (1) An applicant for a permit under this Act shall first make an application in that behalf to the Director General. (2) The Director General may thereafter issue to the applicant a permit upon payment of the prescribed fee or may, if it thinks fit, refuse to issue such permit. (3) Every permit issued under this Act shall, unless sooner cancelled or suspended, continue to be in force for such period as may be specified in the permit.”. Amendment of section 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_16__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_16__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 17(2) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “, nuclear materials or prescribed substances” the words “or nuclear materials”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “an irradiating apparatus” the words “a radiation generator”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_16__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “to a specified kind or kinds of such apparatuses” the words “to a specified kind or kinds of such radiation generator”. New section 17a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 17 the following section: “Conditions in permit 17a. (1) Any permit issued under this Act shall be subject to any condition as may be imposed by the Director General. (2) The Director General may at any time, add to, vary or revoke the conditions imposed on the permit issued under subsection (1).”. Amendment of section 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_18__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_18__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_18__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 18 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the word “Security” the words “Financial security”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_18__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_18__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_18__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_18__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “security” the words “financial security”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_18__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_18__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “the conditions of the licence” the words “and the provisions of this Act”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_18__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “, such security” the words “or the provisions of this Act, such financial security”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_18__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: “(3) The appropriate authority may, whenever he considers it necessary to do so, require the licensee to forthwith deposit an additional sum of financial security.”. New sections 18a and 18b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 18 the following sections: “Transfer of licence and permit 18a. (1) A licence or permit issued under this Act shall not be transferred to any other person. (2) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding ten years or to a fine not exceeding five hundred thousand ringgit or to both. Application of Strategic Trade Act 2010 18b. Notwithstanding section 12a, the Strategic Trade Act 2010 shall apply to the export, transhipment or transit of radioactive material or nuclear material which are prescribed as the strategic items under the Strategic Trade Act 2010.”. Amendment of section 20"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Atomic Energy Licensing (Amendment) Act 2025."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette and the Minister may appoint different dates for the coming into operation of different provisions of this Act. Substitution of long title"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Atomic Energy Licensing Act 1984 [Act 304], which is referred to as the “principal Act” in this Act, is amended by substituting for the long title the following long title: “An Act to provide for the regulation and control over activities involving atomic energy, for adequate protection for the public and the environment from the harmful effects of activities involving atomic energy, the safety of activities involving atomic energy and security of radioactive material, nuclear material and facilities, the application of relevant measures for safeguards and liability for nuclear damage, and to provide for related matters.”. General amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_20__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_20__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_20__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 20 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by inserting after the word “Returns” the words “of possession and control”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_20__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_20__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_20__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_20__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “, prescribed substance or irradiating apparatus” wherever appearing the words “or radiation generator”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_20__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_20__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “return” the words “of possession or control”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_20__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “, prescribed substance or irradiating apparatus” the words “or radiation generator”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_20__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: “(3) Any licensee who contravenes subsection (1) or (2) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding ten years or to a fine not exceeding five hundred thousand ringgit or to both.”. Amendment of section 21"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_21__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_21__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_21__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 21 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words “every sale of radioactive material, etc.” the word “sale”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “(1) Every licensee who sells radioactive material, nuclear material or radiation generator shall submit a return of sale in the prescribed form.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_21__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_21__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_21__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_21__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_21__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “, prescribed substance or irradiating apparatus” the words “or radiation generator”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_21__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_21__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “Board” the words “Director General”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_21__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: “(3) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding ten years or to a fine not exceeding five hundred thousand ringgit or to both.”. New section 21a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 21 the following section: “Nuclear or radiological emergency preparedness and response plan 21a. (1) Every licensee shall prepare and submit appropriate nuclear or radiological emergency preparedness and response plan for the approval of the appropriate authority in the manner as may be prescribed. (2) Any licensee who contravenes subsection (1) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding ten years or to a fine not exceeding five hundred thousand ringgit or to both.”. Amendment of heading of Part IV"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Part IV of the principal Act is amended in the heading by inserting after the word “LICENCES” the words “AND PERMITS”. Amendment of section 22"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_24__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_24__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_24__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 22 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_24__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by inserting after the word “licence” the words “or permit”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “(1) The appropriate authority may, at any time, by notice in writing, cancel or suspend a licence or permit if— (a) the licensee or permit holder has failed to comply with any provision of this Act; (b) the licensee or permit holder has failed to comply any conditions of the licence or permit; (c) the activity for which the licence or permit that was granted is no longer carried out by the licensee or permit holder; (d) the licensee or permit holder has been convicted of an offence involving corruption, fraud, dishonesty or moral turpitude, or any other offence punishable with imprisonment, whether in itself only or in addition to or in lieu of a fine, for more than two years; or (e) the cancellation or suspension is in the interest of the public, national security or international relations.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_24__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_24__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_24__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_24__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_24__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “licence” wherever appearing the words “or permit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_24__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_24__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “licensee” wherever appearing the words “or permit holder”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_24__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_24__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_24__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_24__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_24__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “licensee” the words “or permit holder”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_24__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_24__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “licence” wherever appearing the words “or permit”. Amendment of section 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_25__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_25__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_25__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_25__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_25__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 25 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_25__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by inserting after the word “workers” the words “and other persons”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_25__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “(1) Every licensee shall comply with all requirements as may be prescribed for the protection of the health and safety of workers and other persons from ionizing radiation.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_25__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5), by substituting for the words “, prescribed substance or irradiating apparatus” the words “or radiation generator”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_25__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (5) the following subsection: “(5a) The appropriate authority may require a worker to possess qualifications and sit for a test as may be prescribed.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_25__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (6) the following subsections: “(7) Where the appropriate authority finds any irregularity in ionizing radiation, the appropriate authority may issue any directive in writing to the licensee to take corrective action. (8) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding ten years or to a fine not exceeding five hundred thousand ringgit or to both.”. New Parts Va and Vb"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after Part V the following parts: “PART VA SECURITY Responsibility of licensee to ensure security 25a. The licensee shall implement the measures as may be prescribed to ensure security of radioactive material, nuclear material and facilities. Notification of discovery of radioactive material or nuclear material 25b. Any person who has knowledge and reason to believe that he discovers an item which is a radioactive material or nuclear material shall notify the Director General either orally or in writing within twenty-four hours from the time he discovers the item. PART VB SAFEGUARDS Responsibilities for safeguards 25c. The licensee shall establish and maintain a system of accounting and control in the manner as may be prescribed for the nuclear material in his possession. Safeguards inspection 25d. (1) Upon being notified of the designation of inspectors to Malaysia by the Agency, the Director General may take necessary action to facilitate the safeguards inspection by the inspectors, including by issuing a certificate to the inspectors as an international inspectors for the purposes of this Act. (2) The international inspectors referred to in subsection (1) may carry out safeguards inspection in the manner as may be prescribed. (3) Any person shall comply with the requirements of safeguards inspection as may be prescribed. Information on nuclear related items or nuclear related technology 25e. (1) Any person who intends to carry out an activity relating to a nuclear related item or nuclear related technology, shall provide the Director General with the information as may be prescribed before the commencement of the activity regardless of whether the activity involves nuclear material or not. (2) Any person who refuses or fails to comply with subsection (1) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding ten years or to a fine not exceeding five hundred thousand ringgit or to both. Information on research and development activity related to nuclear fuel cycle 25f. (1) Any person who intends to carry out any research and development activity related to nuclear fuel cycle shall provide the Director General with information as may be prescribed prior to the commencement of the activity, regardless of whether the activity involves nuclear material or not. (2) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding ten years or to a fine not exceeding five hundred thousand ringgit or to both. (3) In this section, “research and development activity related to nuclear fuel cycle” means an activity other than an activity relating to theoretical or basic scientific research or research and development on industrial radioisotope applications, medical, hydrological and agricultural applications, health and environmental effects and improved maintenance, which is specifically related to any of the following process or system development: (a) conversion of nuclear material; (b) enrichment of nuclear material; (c) nuclear fuel fabrication; (d) reactor; (e) critical facility; (f) reprocessing facility; and (g) processing of intermediate or high level of waste containing plutonium, high enriched uranium or uranium-233 but not including repackaging or conditioning process not involving the separation of elements for storage or disposal. Power of Director General to request information 25g. (1) The Director General may request information from any person if the Director General has reasonable cause to believe that the information is related to the compliance of Additional Protocol. (2) For the purposes of subsection (1), the Director General may issue a notice to any person requiring him to give information, in such form and within a period or at the time as specified in the notice. (3) Any person who, without any reasonable justification, refuses or fails to comply with a notice issued under subsection (2) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding ten years or to a fine not exceeding five hundred thousand ringgit or to both. (4) In this section, “Additional Protocol” means the Protocol Additional to the Agreement between the Government of Malaysia and the International Atomic Energy Agency for the Application of Safeguards in connection with the Treaty on the Non-Proliferation of Nuclear Weapons. Prohibition of nuclear weapons 25h. (1) No one shall— (a) develop, test, produce, manufacture, otherwise acquire, possess or stockpile nuclear weapons or other nuclear explosive devices; (b) transfer to any recipient nuclear weapons or other nuclear explosive devices or control over such weapons or explosive devices directly or indirectly; (c) receive the transfer of or control over nuclear weapons or other nuclear explosive devices directly or indirectly; (d) use or threaten to use nuclear weapons or other nuclear explosive devices; (e) station, install or arrange the position for the deployment of any nuclear weapons or other nuclear explosive devices; (f) assist, encourage or induce, in any way, anyone to engage in any activity as referred to in paragraphs (a) to (e); and (g) seek or receive any assistance, in any way, from anyone to engage in any activity as referred to in paragraphs (a) to (e). (2) Any person who contravenes subsection (1) shall, on conviction, be punished with death or imprisonment for a term of not less than thirty years but not exceeding forty years, and in the case of a body corporate, be punished with a fine of not less than thirty million ringgit.”. Substitution of heading of Part VI"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for the heading of Part VI the following heading: “DECOMMISSIONING AND MANAGEMENT OF RADIOACTIVE WASTE AND SPENT FUEL”. Deletion of section 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 26. NEW SECTIONS 26A, 26B, 26C AND 26D"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after the deleted section 26 the following sections: “Decommissioning plan 26a. (1) The licensee shall submit a decommissioning plan for the approval of the Director General before the construction of facilities. (2) The Director General may approve the decommissioning plan if he is satisfied that the decommissioning plan fulfils the criteria as may be prescribed. (3) The licensee shall review and update the decommissioning plan at intervals as may be determined by the Director General. Responsibility of licensee in decommissioning 26b. (1) The licensee shall be responsible for implementing all the decommissioning activities in the manner as specified in the decommissioning plan. (2) The licensee shall be responsible for matters relating to the decommissioning process including the management of radioactive waste arising out of the decommissioning process. Financial security of decommissioning 26c. Any person who applies for a licence to construct and operate facilities shall ensure that adequate amount of financial security is available to cover the costs in relation to the decommissioning of the facilities. Radioactive waste management and spent fuel management 26d. Any licensee, during his activity generates or stores radioactive waste or spent fuel shall take all the necessary measures to ensure that people and the environment are protected against radiological hazards and other hazards at all stages of radioactive waste management or spent fuel management.”. Deletion of section 27"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 27. New sections 27a and 27b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after the deleted section 27 the following sections: “Disposal, recycle or reuse 27a. (1) No person shall dispose, or cause to be disposed radioactive waste, recycle or reuse any radioactive material, nuclear material or spent fuel unless he is a licensee. (2) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding ten years or to a fine not exceeding five hundred thousand ringgit or to both. Closure plan for radioactive waste disposal facility 27b. (1) The licensee of a radioactive waste disposal facility shall prepare a plan for the closure of the facility. (2) The licensee shall obtain approval of the Director General for the plan referred to in subsection (1) before commencing the operation of the facility.”. Amendment of section 28"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_32__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_32__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_32__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 28 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_32__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words “to rectify situation where facilities not adequate” the words “to mitigate and rectify situations where physical space not adequate”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_32__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “facilities” the words “physical space”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_32__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “to rectify the situation and the licensee shall give effect to such direction” the words “to mitigate and rectify the situation and the licensee shall comply with such direction and bear any additional mitigation and rectification cost”. New sections 28a, 28b, 28c and 28d"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 28 the following sections: “Prohibition of importing radioactive waste 28a. (1) No person shall import radioactive waste generated outside Malaysia. (2) Notwithstanding subsection (1), radioactive waste originating from Malaysia or radioactive waste of radioactive material exported or originating from Malaysia may be imported into Malaysia, with approval of the Director General. Establishment of Radioactive Waste Fund 28b. (1) A fund to be known as the “Radioactive Waste Fund” is established and shall be administered and controlled by the Director General. (2) The Radioactive Waste Fund shall consist of— (a) such sums of money as may be provided from time to time by the Government of Malaysia; (b) all moneys paid to or received from the cess imposed or collected in accordance with section 28d; and (c) all donations and contributions received from within or outside Malaysia. Application of Radioactive Waste Fund 28c. The Radioactive Waste Fund shall be administered for the purposes of— (a) research in relation to radioactive waste management; and (b) conservation measures for the protection of the environment against any damage caused by any incident involving radioactive material, nuclear material or radioactive waste. Research cess 28d. (1) The Minister may, after consultation with the Minister of Finance, make an order published in the Gazette for the imposition and collection, or variation or cancellation of imposition of cess on any person engaged in the generation, production or storage of radioactive waste. (2) The cess collected under this section shall be paid into the Radioactive Waste Fund.”. Amendment of section 29"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 29 of the principal Act is amended by substituting for the words “nuclear installation” wherever appearing the word “facilities”. Deletion of section 30"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 30. Amendment of section 31"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_36__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_36__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 31 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_36__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_36__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_36__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_36__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_36__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the marginal note, by substituting for the words “Ketua Pengarah Kualiti Alam Sekitar” the words “Ketua Pengarah Kualiti Alam Sekeliling”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_36__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_36__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “Ketua Pengarah Kualiti Alam Sekitar yang dilantik di bawah seksyen 3(1)” the words “Ketua Pengarah Kualiti Alam Sekeliling yang dilantik di bawah subseksyen 3(1)”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_36__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “appropriate authority” the words “Director General”. Substitution of section 32"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 32 the following section: “Appeal 32. Any person who is dissatisfied with any decision of the appropriate authority made under this Act may within thirty days after being notified of such decision appeal to an appeal board appointed by the Minister under section 32a in the manner as may be prescribed.”. New sections 32a and 32b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 32 the following sections: “Appeal board 32a. (1) The Minister shall appoint an appeal board for the purpose of considering any appeal made under section 32. (2) An appeal board shall consist of a Chairman and two other persons to be appointed by the Minister who, in his opinion have experience and knowledge of not less than ten years in the field of science, technology or engineering. Powers of appeal board 32b. (1) The appeal board may, after hearing an appeal, confirm, revoke or vary the decision made by the appropriate authority under this Act. (2) The appeal board shall as soon as possible decide and communicate its decision to the person making the appeal and the appropriate authority.”. Substitution of heading of Part VIII"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for the heading of Part VIII the following heading: “INSPECTION AND ENFORCEMENT”. Amendment of section 33"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, by substituting for the word “kenderaan” wherever appearing the word “pengangkut”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “senior public officer” wherever appearing, except in the definition of “senior public officer” in section 2, the words “authorized officer”. Amendment of section 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 1(1) of the principal Act is amended by deleting the word “Licensing”. New sections 1a and 1b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_40__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_40__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_40__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 33 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_40__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_40",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “(1) Whenever it appears to any Magistrate, upon written information on oath and after such inquiry as he deems necessary, that there is reasonable ground to believe that in or on any premises, site, facility or conveyance there is concealed, kept, deposited or stored any radioactive material, nuclear material or radiation generator in respect of which an offence has been committed under this Act, or any device, container, book, document or other thing directly or indirectly relating to or connected with any dealing in relation with any radioactive material, nuclear material or radiation generator which was, or any intended dealing of the same which would be, an offence under this Act, that Magistrate may issue a warrant authorizing any authorized officer or police officer not below the rank of Inspector— (a) to enter the premises, site, facility or conveyance, to search, seize and seal for such radioactive material, nuclear material, radiation generator, device, container, book, document or other thing; (b) to arrest any person being in or on the premises, site, facility or conveyance in whose possession or under whose control such radioactive material, nuclear material, radiation generator, device, container, book, document or other thing is found, or whom such authorized officer or police officer not below the rank of Inspector reasonably believes to have been dealing in such any activities in such radioactive material, nuclear material or radiation generator, or to have been in possession or control of such device, container, book, document or other thing or to have brought, received, concealed, kept, deposited or stored such radioactive material, nuclear material, radiation generator, device, container, book, document or other thing”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_40__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_40",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “nuclear installation” wherever appearing the word “facilities”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_40__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_40",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsections: “(3) If, by reason of its nature, size or amount, it is not practicable to remove, any radioactive material, nuclear material, radiation generator, device, container, book, document, conveyance or other thing directly or indirectly relating to or connected with activities involving radioactive material, nuclear material or radiation generator seized under this section, the authorized officer or police officer not below the rank of Inspector who effected the seizure shall, by any means, seal such radioactive material, nuclear material, radiation generator, device, container, book, document, conveyance or other thing directly or indirectly relating to or connected with activities involving radioactive material, nuclear material or radiation generator from the premises, site, facility or conveyance where it was found. (4) Where any authorized officer or a police officer not below the rank of Inspector has seized or sealed any radioactive material, nuclear material, radiation generator, device, container, book, document, conveyance or other thing directly or indirectly relating to or connected with activities involving radioactive material, nuclear material or radiation generator under this Part, he shall prepare a list of all things seized or sealed in the course of a search made in or on any premises, site, facility and of the places in which they are respectively found and shall be signed by him.”. Amendment of section 34"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_41__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_41__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 34 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_41__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_41__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_41__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_41__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_41__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_41__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting before the words “that there is reasonable ground” the words “or a police officer not below the rank of Inspector”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_41__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_41__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “nuclear installation” wherever appearing the word “facilities”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_41__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_41__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “prescribed substance, irradiating apparatus” the words “radiation generator”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_41__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_41__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_41__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_41__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_41__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_41__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting before the words “may stop” the words “or a police officer not below the rank of Inspector”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_41__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_41__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “, and seize” the words “, seize and seal”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_41__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_41__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “prescribed substance, irradiating apparatus” the words “radiation generator”. New sections 34a and 34b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 34 the following sections: “Warrant admissible notwithstanding defect 34a. A search warrant issued under this Act shall be valid and enforceable notwithstanding any defect, mistake or omission in the search warrant or in the application for such warrant and any radioactive material, nuclear material, radiation generator, device, book, document or other thing seized under such warrant shall be admissible in evidence in any proceedings under this Act. Authority card 34b. (1) There shall be issued to each authorized officer an authority card to be signed by the appropriate authority. (2) Whenever such authorized officer exercises any of the powers under this Act, he shall, on demand, produce to the person against whom the power is being exercised the authority card issued to him under subsection (1).”. Amendment of section 35"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 35 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a__subpara_v"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting before the word “shall” the words “or a police officer not below the rank of Inspector”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering paragraph (a) as paragraph (aa);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting before paragraph (aa) as renumbered the following paragraph: “(a) enter, inspect and search at all times any premises, site, facility or conveyance where activities are being carried out by the licensee or permit holder for the purpose of verifying compliance with the provisions of this Act, obtaining information about the status of safety and security of activities being conducted by the licensee or permit holder;”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a__subpara_iv__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a__subpara_iv__subpara_B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a__subpara_iv__subpara_C",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a__subpara_iv__subpara_D"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (aa) as renumbered—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a__subpara_iv__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a__subpara_iv",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “nuclear installation” the word “facilities”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a__subpara_iv__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a__subpara_iv",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “officer” the words “authorized officer or police officer not below the rank of Inspector”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a__subpara_iv__subpara_C",
+      "@type": "akn:subparagraph",
+      "eli:number": "C",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a__subpara_iv",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “, prescribed substance or irradiating apparatus” the words “or radiation generator”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a__subpara_iv__subpara_D",
+      "@type": "akn:subparagraph",
+      "eli:number": "D",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a__subpara_iv",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “, substance or irradiating apparatus” the words “or radiation generator”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a__subpara_v__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a__subpara_v__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a__subpara_v__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a__subpara_v",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “nuclear installation” the word “facilities”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a__subpara_v__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_a__subpara_v",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “officer” the words “authorized officer or police officer not below the rank of Inspector”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: “(2) The appropriate authority shall have the authority to station an authorized officer at the premises, site, facilities or location where activity in relation to this Act is being conducted.”. New section 35a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 35 the following section: “Power of investigation 35a. (1) An authorized officer or a police officer not below the rank of Inspector shall have all the powers necessary to carry out an investigation of the commission of any offence under this Act. (2) In any case relating to the commission of an offence under this Act, any authorized officer or a police officer not below the rank of Inspector carrying out an investigation may exercise all or any of the special powers in relation to police investigation in seizable cases given by the Criminal Procedure Code [Act 593].”. Amendment of section 36"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_45__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_45__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_45__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_45__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 36 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_45__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_45",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, in the marginal note, by substituting for the words “contoh-contoh, dll” the words “sampel, dsb.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_45__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_45",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “nuclear installation” the word “facilities”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_45__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_45__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_45__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_45__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_45",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_45__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_45__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “or substance” the words “or item”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_45__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_45__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words “, prescribed substance”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_45__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_45__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “; or” a full stop; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_45__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_45",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph (b). New section 36a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 36 the following section: “Presumption 36a. (1) When any material is suspected of being radioactive material or nuclear material has been seized and such material is contained in a number of receptacles, it shall be sufficient to analyze samples of the material of an amount as may be determined by the Director General and if such analysis establishes that such samples are all of the same nature and description, it shall be presumed, until the contrary is proved, that the contents of all the receptacles were of the same nature and description as the samples so analyzed. (2) The procedures for taking and dealing with samples shall be as may be determined by the Director General.”. Amendment of section 37"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_47__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_47__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 37 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_47__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words “public officer” the words “authorized officer”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_47__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “public officer” wherever appearing the words “authorized officer”. New sections 37a, 37b and 37c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_48",
+      "@type": "akn:clause",
+      "eli:number": "48",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 37 the following sections: “Power to require attendance of person acquainted with case 37a. (1) An authorized officer or a police officer not below the rank of Inspector conducting an investigation under this Act may by order in writing require the attendance before himself of a person who appears to the authorized officer or police officer not below the rank of Inspector to be acquainted with the facts and circumstances of the case, and the person shall attend as so required. (2) If the person fails to attend as required, the authorized officer or police officer not below the rank of Inspector may report the failure to a Magistrate who shall issue a warrant to secure the attendance of the person. Examination of person acquainted with case 37b. (1) An authorized officer or a police officer not below the rank of Inspector conducting an investigation under this Act may examine orally a person supposed to be acquainted with the facts and circumstances of the case and shall reduce into writing any statement made by the person so examined. (2) The person examined under subsection (1) shall be bound to answer all questions relating to the case put to him by the authorized officer or police officer not below the rank of Inspector, but he may refuse to answer any question the answer which would have a tendency to expose him to a criminal charge or penalty or forfeiture. (3) A person making a statement under this section shall be legally bound to state the truth, whether or not such statement is made wholly or partly in answer to the questions. (4) The authorized officer or police officer not below the rank of Inspector, examining a person under subsection (1) shall first inform the person of the provisions of subsections (2) and (3). (5) A statement made by any person under this section shall, whenever possible, be reduced into writing and signed by the person making it or affixed with his thumbprint, as the case may be, after it has been read to him in the language in which he made it and after he has been given an opportunity to make any corrections he may wish, and where the person examined refuses to sign or affix his thumbprint on the statement, an authorized officer or a police officer not below the rank of Inspector shall endorse thereon under his hand the fact of the refusal and the reason for it, if any, as stated by the person examined. Admissibility of statement in evidence 37c. (1) Except as provided in this section, no statement made by any person to an authorized officer or a police officer not below the rank of Inspector in the course of an investigation made under this Act shall be used in evidence. (2) When any witness is called for the prosecution or for the defence, other than the accused, the court shall, on the request of the accused or the prosecutor, refer to any statement made by that witness to an authorized officer or a police officer not below the rank of Inspector in the course of an investigation under this Act and may then, if the court thinks fit in the interest of justice, direct the accused to be furnished with a copy of the statement and the statement may be used to impeach the credit of the witness in the manner provided by the Evidence Act 1950 [Act 56]. (3) Where the accused had made a statement during the course of an investigation, such statement may be admitted in evidence in support of his defence during the course of the trial. (4) Nothing in this section shall be deemed to apply to any statement made in the course of an identification parade or falling within section 27 or paragraphs 32(1)(a), (i) and (j) of the Evidence Act 1950. (5) When any person is charged with any offence in relation to the making or the contents of any statement made by him to an authorized officer or a police officer not below the rank of Inspector in the course of an investigation made under this Act, that statement may be used as evidence in the prosecution’s case.”. Amendment of section 38"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_49",
+      "@type": "akn:clause",
+      "eli:number": "49",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_49__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_49__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 38 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_49__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_49",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “(1) Any radioactive material, nuclear material, radiation generator, radioactive waste, device, container, book, document, conveyance or other thing directly or indirectly relating to or connected with activities involving radioactive material, nuclear material, radiation generator or radioactive waste seized in exercise of any power conferred under this Act shall be liable to forfeiture.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_49__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_49",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsections: “(1a) An order for the forfeiture of any radioactive material, nuclear material, radiation generator, radioactive waste, device, container, book, document, conveyance or other thing directly or indirectly relating to or connected with activities involving radioactive material, nuclear material, radiation generator or radioactive waste shall be made if it is proved to the satisfaction of the court that an offence under this Act has been committed and that radioactive material, nuclear material, radiation generator, radioactive waste, device, container, book, document, conveyance or other thing directly or indirectly relating to or connected with activities involving radioactive material, nuclear material, radiation generator or radioactive waste was the subject matter of or was used in the commission of the offence, even though no person has been convicted of such offence. (1b) Where there is no prosecution or conviction in respect of any radioactive material, nuclear material, radiation generator, radioactive waste, device, container, book, document, conveyance or other thing directly or indirectly relating to or connected with activities involving radioactive material, nuclear material, radiation generator or radioactive waste seized in the exercise of any power conferred under this Act, such items shall be held for the period of twelve calendar months from the date of seizure and at the end of that period shall be deemed forfeited, unless a written claim thereto is received within such period. (1c) A person asserting that he is the owner of the radioactive material, nuclear material, radiation generator, radioactive waste, device, container, book, document, conveyance or other thing directly or indirectly relating to or connected with activities involving radioactive material, nuclear material, radiation generator or radioactive waste seized under this Act and that radioactive material, nuclear material, radiation generator, radioactive waste, device, container, book, document, conveyance or other thing directly or indirectly relating to or connected with activities involving radioactive material, nuclear material, radiation generator or radioactive waste are not liable to forfeiture may personally or by his agent authorized in writing by him, give written notice to the authorized officer who made the seizure of his claim. (1 d) On receipt of the written notice under subsection (1c), the authorized officer or a police officer not below the rank of Inspector shall without undue delay refer the matter to a court for decision. (1e) The court to which the matter is referred shall issue a summon requiring the person asserting that he is the owner of the radioactive material, nuclear material, radiation generator, radioactive waste, device, container, book, document, conveyance or other thing directly or indirectly relating to or connected with activities involving radioactive material, nuclear material, radiation generator or radioactive waste and the person from whom they were seized to appear before the court, and upon their appearance or default to appear, due service of the summons being proved, the court shall proceed to the examination of the matter. (1f) If it is proved that an offence under this Act has been committed and that such radioactive material, nuclear material, radiation generator, radioactive waste, device, container, book, document, conveyance or other thing directly or indirectly relating to or connected with activities involving radioactive material, nuclear material, radiation generator or radioactive waste referred to in subsection (1e) were the subject matter of or were used in the commission of such offence, the court shall order the radioactive material, nuclear material, radiation generator, radioactive waste, device, container, book, document, conveyance or other thing directly or indirectly relating to or connected with activities involving radioactive material, nuclear material, radiation generator or radioactive waste to be forfeited, and shall, in the absence of such proof, order its release.”. New sections 38a and 38b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 1 the following sections: “This Act binds the Federal Government and State Governments 1a. (1) This Act shall bind the Federal Government and State Governments. (2) Nothing in this Act shall render the Federal Government and State Governments liable to prosecution for any offence under this Act. Extra-territorial application 1b. The provisions of section 25h and Part VIIIa shall apply to an offence committed— (a) by any citizen of Malaysia or any permanent resident of Malaysia on board any ship or on any aircraft which is registered in Malaysia; (b) by any person against a citizen of Malaysia; (c) by any person against property belonging to, or operated or controlled by, in whole or in part, the Government of Malaysia and the Government of any State in Malaysia, including diplomatic or consular premises of Malaysia, any citizen of Malaysia, or any corporation created by or under the laws of Malaysia located outside Malaysia; or (d) by any person who after the commission of the offence is present in Malaysia, as if the offence had been committed in Malaysia.’’. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_50",
+      "@type": "akn:clause",
+      "eli:number": "50",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 38 the following sections: “Cost of holding, dismantling and disposing seized radioactive material, nuclear material, radiation generator or radioactive waste 38a. Where any radioactive material, nuclear material, radiation generator, radioactive waste, device, container, book, document, conveyance or other thing directly or indirectly relating to or connected with activities involving radioactive material, nuclear material, radiation generator or radioactive waste seized under this Act is held in the custody of the Government of Malaysia pending completion of any proceedings in respect of an offence under this Act, the cost of holding, dismantling and disposing of such radioactive material, nuclear material, radiation generator, radioactive waste, device, container, book, document, conveyance or other thing directly or indirectly relating to or connected with activities involving radioactive material, nuclear material, radiation generator or radioactive waste in custody shall, in the event of any person being found guilty of an offence, be a debt due to the Government of Malaysia by such person and shall be recoverable accordingly. No cost or damages arising from seizure to be recoverable 38b. No person shall, in any proceeding before any court in respect of any radioactive material, nuclear material, radiation generator, radioactive waste, device, container, book, document, conveyance or other thing directly or indirectly relating to or connected with activities involving radioactive material, nuclear material, radiation generator or radioactive waste seized in the exercise or the purported exercise of any power conferred under this Act, be entitled to the cost of such proceedings or to any damages or other relief unless such seizure was made without reasonable cause.”. Amendment of section 39"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_51",
+      "@type": "akn:clause",
+      "eli:number": "51",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_51__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_51__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_51__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_51__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_51__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_51__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_51__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 39 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_51__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_51",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the words “nuclear installation” the word “facilities”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_51__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_51",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by inserting after the words “obstructs,” the words “blocks, interferes,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_51__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_51",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (f), by substituting for the words “prescribed substance, irradiating apparatus” the words “radiation generator”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_51__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_51",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (h), by deleting the word “or” at the end of the paragraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_51__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_51",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (i), by substituting for the comma at the end of the paragraph the words “; or”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_51__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_51",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (i) the following paragraph: “(j) without lawful authority, breaks, tampers with or damages the seals referred to in subsection 33(3) or removes any radioactive material, nuclear material, radiation generator, device, container, book, document or other thing directly or indirectly relating to or connected with activities involving radioactive material, nuclear material or radiation generator from the premises, site, facility or conveyance under seals or attempts to do so,”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_51__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_51",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “commits an offence under this Act and is, on conviction, liable to imprisonment for a term not exceeding five years or a fine not exceeding five thousand ringgit or to both” the words “commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding six years or to fine not exceeding twenty-five thousand ringgit or to both”. Amendment of section 40"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_52",
+      "@type": "akn:clause",
+      "eli:number": "52",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_52__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_52__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_52__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_52__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 40 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_52__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_52",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “one hundred thousand ringgit” the words “five hundred thousand ringgit”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_52__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_52",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, in subsection (4), by substituting for the word “ketinggalan” the word “peninggalan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_52__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_52",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (5) the following subsection: “(5) Without prejudice to the provisions of Criminal Procedure Code, the prosecution of any offence committed under this Act may be conducted by the authorized officer in writing generally or specially so to do by the Public Prosecutor.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_52__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_52",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (5) the following subsection: “(6) No prosecution for an offence under this Act shall be instituted except by or with the written consent of the Public Prosecutor.”. New section 40a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_53",
+      "@type": "akn:clause",
+      "eli:number": "53",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 40 the following section: “Compounding of offences 40a. (1) The Minister may, with the approval of Public Prosecutor, make regulations prescribing— (a) any offence under this Act as an offence which may be compound; and (b) the method and procedure for compounding such offence. (2) The appropriate authority may, with the consent in writing of the Public Prosecutor, compound any offence committed by any person under this Act prescribed to be compoundable offence by making a written offer to the person suspected to have committed the offence to compound the offence upon payment to the appropriate authority an amount of money not exceeding fifty per centum of the maximum fine for that offence within such time as may be specified in the written offer. (3) An offer under subsection (2) may be made at any time after the offence has been committed but before any prosecution for it has been instituted. (4) If the amount specified in the offer is not paid within the time specified in the offer, or such extended time as the appropriate authority may grant, prosecution for the offence may be instituted at any time after that against the person to whom the offer was made. (5) Where an offence has been compounded under subsection (2), no prosecution shall be instituted in respect of the offence against the person to whom the offer to compound was made, and any radioactive material, nuclear material, radiation generator, radioactive waste, device, container, book, document, conveyance or other thing seized under this Act in relation to the offence may be released by the appropriate authority, subject to such conditions as it thinks fit to impose. (6) All sums of money received by the appropriate authority under this section shall be paid into the Federal Consolidated Fund.”. New Part VIIIa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_54",
+      "@type": "akn:clause",
+      "eli:number": "54",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after Part VIII the following part: “Part VIIIa OFFENCES RELATING TO SECURITY Theft or robbery 41a. (1) Any person who commits theft of radioactive material or nuclear material commits an offence and shall, on conviction, be liable to imprisonment for a term of not less than five years but not exceeding twenty years or to a fine not exceeding ten million ringgit or to both. (2) Any person who commits robbery of radioactive material or nuclear material commits an offence and shall, on conviction, be liable to imprisonment for a term of not less than seven years but not exceeding thirty years or to a fine not exceeding twenty million ringgit or to both. Criminal breach of trust 41b. Any person who commits criminal breach of trust in relation to radioactive material or nuclear material commits an offence and shall, on conviction, be liable to imprisonment for a term of not less than seven years but not exceeding thirty years or to a fine not exceeding ten million ringgit or to both. Cheating 41c. Whoever cheats and thereby dishonestly induces the person deceived, to obtain radioactive material or nuclear material commits an offence and shall, on conviction, be liable to imprisonment for a term of not less than seven years but not exceeding thirty years or to a fine not exceeding ten million ringgit or to both. Conducting activity with intention to cause death or injury 41d. (1) Any person who conducts any activity involving radioactive material or nuclear material with the intention to cause death commits an offence and shall, on conviction, be punished with death or imprisonment for a term of not less than thirty years but not exceeding forty years and if not sentenced to death, shall also be punished with whipping of not less than twelve strokes. (2) Any person who conducts any activity involving radioactive material or nuclear material with the intention to cause serious injury to any person commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding twenty years and with whipping. (3) Any person who conducts any activity involving radioactive material or nuclear material with the intention to cause substantial damage to property or to the environment commits an offence and shall, on conviction, be liable to imprisonment for a term of not less than five years but not exceeding thirty years or to a fine not exceeding thirty million ringgit or to both. Sabotage 41e. (1) Any person who commits an act of sabotage or threatens to commit an act of sabotage directed against facilities, radioactive material or nuclear material or an act deliberately interfering with the operation of facilities, with intention to cause or is likely to cause death or serious injury to any person or substantial damage to property or to the environment, by exposure to radiation or release of radioactive substances or otherwise or economic loss commits an offence and shall, on conviction— (a) where death is the result of the act, be punished with death or imprisonment for a term of not less than thirty years but not exceeding forty years and if not sentenced to death, shall also be punished with whipping of not less than twelve strokes; or (b) in any other case, be liable to imprisonment for a term of not less than seven years but not exceeding thirty years or to fine not exceeding thirty million ringgit or to both. (2) Any person who has in his possession any article that is capable of use, and which he intends for use, in carrying out an act of sabotage under this section, commits an offence and shall, on conviction, be liable to imprisonment for a term not less than seven years but not exceeding twenty years or to a fine not exceeding twenty million ringgit or to both. (3) In this section, “sabotage” means any deliberate act directed against a facility, radioactive material or nuclear material in use, storage or transport that could directly or indirectly endanger the health and safety of the worker, the public or the environment by exposure to radiation or release of radioactive substance. Demanding through coercion radioactive material or nuclear material by credible threat, use of force or other form of intimidation 41f. Any person who commits an act constituting a demand for radioactive material or nuclear material by credible threat or use of force or by any other form of intimidation commits an offence and shall, on conviction, be liable to imprisonment for a term of not less than seven years but not exceeding thirty years or to a fine not exceeding ten million ringgit or to both. Threatening to cause death or serious injury to any person or property damage or economic loss 41g. Any person who threatens to use or disperse a radioactive material or nuclear material to cause death or serious injury to any person or economic loss or property damage or the environment commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding thirty years. Threatening to compel person, to do or refrain from doing any act 41h. Any person who threatens to cause harm by using a radioactive material or nuclear material, to compel the Government of Malaysia, any other government, any international organization or any other person or group of persons to do or to refrain from doing any act commits an offence and shall, on conviction, be liable to imprisonment for a term of not less than seven years but not exceeding thirty years or to a fine not exceeding thirty million ringgit or to both. Conspiracy 41I. (1) Any person who conspires with other person who is in Malaysia to do any act within and beyond Malaysia, being an act, which if done in Malaysia would have constituted an offence under this Act, shall be deemed to have criminally conspired to do that act in Malaysia and commits an offence and shall, on conviction, be punished with the punishment provided for such offence. (2) Any person who conspires with other person in any place within or beyond Malaysia to do any act in Malaysia that constitutes an offence under this Act, shall be deemed to have criminally conspired in Malaysia to do that act and commits an offence and shall, on conviction, be punished with punishment provided for such offence. Communication jeopardizing security 41j. Any person who knowingly discloses information on the security of any facilities, radioactive material or nuclear material to another person who may carry out an activity or act that jeopardizes or affects the security of the facilities, radioactive material or nuclear material commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding five years or to a fine not exceeding one million ringgit or to both.”. Amendment of section 44"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_55",
+      "@type": "akn:clause",
+      "eli:number": "55",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 44(2) of the principal Act is amended by substituting for the word “Board” wherever appearing the words “Director General”. Amendment of section 51"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_56",
+      "@type": "akn:clause",
+      "eli:number": "56",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 51 of the principal Act is amended by substituting for the words “The appropriate authority” the words “The Director General”. Amendment of section 55"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_57",
+      "@type": "akn:clause",
+      "eli:number": "57",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_57__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_57__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 55 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_57__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_57__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_57__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_57",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_57__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_57__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the word “penggerenti” the word “penjamin”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_57__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_57__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by deleting the word “lamanya”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_57__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_57__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_57__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_57",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_57__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_57__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “appropriate authority” the words “Director General”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_57__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_57__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “within the meaning” the words “for the purposes”. Amendment of section 56"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_58",
+      "@type": "akn:clause",
+      "eli:number": "58",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 56 of the principal Act is amended by substituting for the words “The appropriate authority” the words “The Director General”. Amendment of section 57"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_59",
+      "@type": "akn:clause",
+      "eli:number": "59",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_59__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_59__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 57 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_59__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_59",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “Board” wherever appearing the words “Director General”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_59__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_59",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text, in subsection (2), by substituting for the words “the Board’s findings” the words “the Director General’s findings”. Amendment of section 58"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_m",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_n",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_o",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_p",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_q",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_r",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_s",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_t",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_u",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_v",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_w",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_x",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_y",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_z",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_aa"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 2 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_60",
+      "@type": "akn:clause",
+      "eli:number": "60",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_60__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_60__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 58 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_60__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_60",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “Board” wherever appearing the words “Director General”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_60__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_60__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_60__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_60",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_60__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_60__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one month” the words “five months”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_60__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_60__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “two hundred ringgit” the words “one thousand ringgit”. Amendment of section 59"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_61",
+      "@type": "akn:clause",
+      "eli:number": "61",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_61__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_61__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 59 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_61__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_61",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the word “Board” the words “Director General”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_61__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_61",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, in subsection (3), by substituting for the word “bunga” the word “faedah”. Amendment of section 60"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_62",
+      "@type": "akn:clause",
+      "eli:number": "62",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_62__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_62__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_62__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 60 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_62__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_62",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “appropriate authority” the words “Director General”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_62__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_62",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “The Board shall prescribe” the words “The Director General may determine”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_62__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_62__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_62__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_62",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_62__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_62__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, by substituting for the word “penggerenti” the word “penjamin”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_62__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_62__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “Board” the words “Director General”. Amendment of section 61"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_63",
+      "@type": "akn:clause",
+      "eli:number": "63",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 61(2) of the principal Act is amended by substituting for the word “Board” the words “Director General”. Amendment of section 67"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_64",
+      "@type": "akn:clause",
+      "eli:number": "64",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 67 the following section: “Delegation of power 67. (1) The Director General may, in writing, delegate any of his functions and powers under this Act to any officer under the control, direction and supervision of the Director General subject to such conditions, limitations or restrictions as the Director General thinks fit except the power of delegation under this section. (2) The Director General of Health may, in writing and in relation to his functions and power under subsection 15(3), delegate such functions or power to any officer under the control, direction and supervision of the Director General Health subject to such conditions, limitations or restrictions as the Director General Health thinks fit except the power of delegation under this section. (3) A delegation under subsections (1) and (2) may be revoked at any time by the Director General and the Director General of Health, as the case may be, and does not prevent the Director General and the Director General of Health, as the case may be, from exercising the powers or performing the functions delegated under that subsection.”. New section 67a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_65",
+      "@type": "akn:clause",
+      "eli:number": "65",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 67 the following section: “Power to issue directive 67a. (1) The appropriate authority may issue any directive in writing as may be expedient or necessary for the purpose of ensuring the compliance with this Act. (2) Any licensee or permit holder shall comply with the directive in writing issued under subsection (1).”. Amendment of section 68"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66",
+      "@type": "akn:clause",
+      "eli:number": "66",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 68 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “prescribed substance, irradiating apparatus” wherever appearing the words “radiation generator”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “, prescribed substance or irradiating apparatus” wherever appearing the words “or radiation generator”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text, by substituting for the words “, prescribed substances or irradiating apparatuses” wherever appearing the words “or radiation generator”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for paragraph (a) the following paragraph: “(a) for controlling and regulating the activity of atomic energy;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_e__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_e__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_e__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_e__subpara_v"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (d), by substituting the words “specified radioactive material, nuclear material or prescribed substance” wherever appearing the words “specified radioactive material or nuclear material”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (e), by substituting for the words “irradiating apparatus” the words “radiation generator”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_e__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_e__subpara_iii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_e__subpara_iii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (m)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_e__subpara_iii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_e__subpara_iii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, by substituting for the words “fee-fee” wherever appearing the word “fi”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_e__subpara_iii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_e__subpara_iii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “licence” the words “permit and test”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_e__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (n), by substituting for the words “providing for the regulation of appeals” the words “prescribing matters relating to appeals”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_e__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (n) the following paragraphs: “(na) prescribing qualifications and test for any worker; (nb) prescribing the offences which may be compounded and the forms to be used and the method and procedure for compounding the offences under this Act; (nc) prescribing the information required relating to safeguards;”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_66",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: “(3) The regulations made under subsections (1) and (2) may prescribe an act or omission in contravention of the regulations to be an offence and may prescribe penalties of a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding ten years or to both for the offence.”. New section 68a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_67",
+      "@type": "akn:clause",
+      "eli:number": "67",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 68 the following section: “Power to amend Schedule 68a. The Minister may, upon the recommendation of the Director General, by order published in the Gazette, amend the Schedule to this Act.”. Amendment of section 69"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_68",
+      "@type": "akn:clause",
+      "eli:number": "68",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_68__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_68__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 69 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_68__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_68",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “The Minister may by order in the Gazette,” the words “The Minister may, upon recommendation of the appropriate authority, by order published in the Gazette,”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_68__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_68",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (2). New sections 69a and 69b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_69",
+      "@type": "akn:clause",
+      "eli:number": "69",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 69 the following sections: “Notice for disclosure of information 69a. (1) The appropriate authority may serve a notice to any person whom the appropriate authority believes on reasonable grounds has information or documents relevant to the enforcement of this Act relating to radioactive material, nuclear material, nuclear related item or radiation generator, requesting the person to provide the information or documents to the appropriate authority. (2) A person who receives a notice referred to in subsection (1) shall provide the requested information or documents to the appropriate authority in writing within the time specified in the notice. (3) Any person who contravenes subsection (2) commits an offence and shall, on conviction, be liable to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding two years or to both. Protection against suit and legal proceedings 69b. No action, suit, prosecution or other proceedings shall be brought, instituted or maintained in any court against the Minister, appropriate authority or authorized officer on account of or in respect of any act, neglect or default done or omitted by him in the course of carrying out his duties under this Act unless it can be proven that the act, neglect or default was done or omitted in bad faith and without reasonable cause.”. Saving and transitional"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, by deleting the definition of “ahli radiologi”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_aa",
+      "@type": "akn:paragraph",
+      "eli:number": "aa",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_aa__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_aa__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “appropriate authority”—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_aa__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_aa",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by deleting the words “as determined by the Board”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_aa__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_aa__subpara_ii__subpara_bb",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_aa__subpara_ii__subpara_cc",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_aa__subpara_ii__subpara_dd",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_aa__subpara_ii__subpara_ee",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_aa__subpara_ii__subpara_ff"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_aa",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the words “the Board” the words “the Director General”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_aa__subpara_ii__subpara_bb",
+      "@type": "akn:subparagraph",
+      "eli:number": "bb",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_aa__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of “irradiating apparatus”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_aa__subpara_ii__subpara_cc",
+      "@type": "akn:subparagraph",
+      "eli:number": "cc",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_aa__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting before the new definition of “oncologist” the following definition: ‘ “nuclear weapon” has the meaning assigned to it in the Strategic Trade Act 2010 [Act 708];’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_aa__subpara_ii__subpara_dd",
+      "@type": "akn:subparagraph",
+      "eli:number": "dd",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_aa__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “radioactive waste”, in paragraph (b), by substituting for the words “, nuclear material or prescribed substance” the words “or nuclear material”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_aa__subpara_ii__subpara_ee",
+      "@type": "akn:subparagraph",
+      "eli:number": "ee",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_aa__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the new definition of “nuclear related item” the following definition: ‘ “nuclear related technology” means information or data in any form, other than that is lawfully available, whether within Malaysia or outside Malaysia that is applicable primarily to the design, production, operation, testing or use of— (a) equipment or plant for— (i) the enrichment of nuclear material; (ii) the reprocessing of irradiated nuclear material; or (iii) the production of heavy water; or (b) nuclear weapons or other explosive devices;’; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_aa__subpara_ii__subpara_ff",
+      "@type": "akn:subparagraph",
+      "eli:number": "ff",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_aa__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “dealing” the following definition: ‘ “dealing”, in relation to any radioactive material, nuclear material or radiation generator means— (a) any activity involving the manufacturing, trading, producing, processing, purchasing, owning, possessing, using, transporting, transferring, handling, testing, maintaining, certifying, selling, storing, accumulating or disposal of such radioactive material, nuclear material or radiation generator; or (b) siting, constructing, commissioning, operating or decommissioning facilities;’. Deletion of Part II"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of “radiotherapist”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting before the definition of “appropriate authority” the following definition: ‘ “Agency” means the International Atomic Energy Agency;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “nuclear fuel”, by substituting for the words “as the Board may from time to time by order in the Gazette determine” the words “as may be prescribed”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting before the definition of “this Act” the following definition: ‘ “spent fuel” means nuclear fuel which has been irradiated in and removed from a reactor once the nuclear fuel ceases to be useable as nuclear fuel;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “nuclear material” the following definition: ‘ “nuclear material” means the material as specified in the Schedule;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “radioactive material” the following definition: ‘ “radioactive material” means any nuclear fuel, radioactive product, radioactive waste or any radionuclides as may be prescribed;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “nuclear reactor” the following definition: ‘ “nuclear related item” means any item relating to the use and development of nuclear technology as may be prescribed;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definitions of “registered dentist”, “registered medical practitioner”, “registered pharmacist” and “registered veterinary surgeon” the following definition: ‘ “registered veterinary surgeon”, “registered dental practitioner” and “registered medical practitioner” mean respectively a veterinary surgeon, a dental practitioner and a medical practitioner, each registered as such in accordance with the provisions of the written laws relating to the registration of such persons;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “environment” the following definition: ‘ “facilities”, in relation to any radioactive material, nuclear material or radiation generator include— (a) nuclear installations; (b) irradiation installations; (c) facilities where radioactive material is processed; (d) radioactive waste management facilities; (e) spent fuel management facilities; or (f) radioactive waste disposal facilities;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, by deleting the definition of “kenderaan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting before the definition of “environment” the following definition: ‘ “Director General” means the Director General of the Department of Atomic Energy;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of “Board”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_n",
+      "@type": "akn:paragraph",
+      "eli:number": "n",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting before the new definition of “Agency” the following definition: ‘ “Advisory Council” means the Atomic Energy Advisory Council established under section 2a;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_o",
+      "@type": "akn:paragraph",
+      "eli:number": "o",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “licensee” the following definition: ‘ “Minister” means the Minister charged with the responsibility for science and technology;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_p",
+      "@type": "akn:paragraph",
+      "eli:number": "p",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of “person”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_q",
+      "@type": "akn:paragraph",
+      "eli:number": "q",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting before the definition of “prescribed” the following definition: ‘ “oncologist” means a medical practitioner who is registered as a Specialist in clinical oncology or radiation oncology under the Medical Act 1971 [Act 50];’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_r",
+      "@type": "akn:paragraph",
+      "eli:number": "r",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “nuclear material” the following definition: ‘ “nuclear medicine physician” means a medical practitioner who is registered as a Specialist in nuclear medicine under the Medical Act 1971;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_s",
+      "@type": "akn:paragraph",
+      "eli:number": "s",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “radiologist” the following definition: ‘ “radiologist” means a medical practitioner who is registered as a Specialist in clinical radiology under the Medical Act 1971;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_t",
+      "@type": "akn:paragraph",
+      "eli:number": "t",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “atomic energy” the following definition: ‘ “authorized officer” means any public officer authorized in writing generally or specially by the appropriate authority to exercise powers under this Act and includes the Director General of Health where he is the appropriate authority;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_u",
+      "@type": "akn:paragraph",
+      "eli:number": "u",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of “senior public officer”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_v",
+      "@type": "akn:paragraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, by inserting after the definition of “pemegang lesen” the following definition: ‘ “pengangkut” termasuklah kapal, kereta api, kereta, pesawat udara, dan mana-mana cara pengangkutan lain yang dengannya orang atau barang boleh dibawa;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_w",
+      "@type": "akn:paragraph",
+      "eli:number": "w",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “installation operator”, by substituting for the words “appropriate authority” the words “Director General”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_x",
+      "@type": "akn:paragraph",
+      "eli:number": "x",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “prescribed” the following definition: ‘ “radiation generator” means an electrical device capable of generating ionizing radiation;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_y",
+      "@type": "akn:paragraph",
+      "eli:number": "y",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting before the new definition of “Director General” the following definition: ‘ “decommissioning” means all steps leading to the release of facilities other than repository, from regulation and these steps include the process of decontaminating and dismantling facilities;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_z",
+      "@type": "akn:paragraph",
+      "eli:number": "z",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_z__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_z__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “nuclear installation”—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_z__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_z",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (d), by substituting for the word “facility” the words “physical space”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_z__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_6__para_z",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the proviso, by substituting for the words “appropriate authority” the words “Director General”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting Part II. New Part IIa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_70",
+      "@type": "akn:clause",
+      "eli:number": "70",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_70__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_70__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_70__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_70__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_70__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_70__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_70__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_70__subsec_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_70__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_70",
+      "schema:text": {
+        "@language": "en",
+        "@value": "On the date of coming into operation of this Act, the Atomic Energy Licensing Board, hereinafter referred to as the “dissolved Board” is dissolved."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_70__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_70",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The members of the dissolved Board and the members of any committee appointed under the principal Act and holding office before the coming into operation of this Act shall cease to hold office on the date of coming into operation of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_70__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_70",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any licence, registration, approval or decision issued, made or given by the dissolved Board before the coming into operation of this Act shall, on the date of coming into operation of this Act, continue in full force and have effect as if the principal Act had not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_70__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_70",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any application for a licence pending before the dissolved Board before the coming into operation of this Act shall, on the date of coming into operation of this Act, be continued in accordance with the provisions of the principal Act as if the principal Act had not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_70__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_70",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any investigation, trial or proceedings commenced under the principal Act which is pending before the date of coming into operation of this Act shall, on the date of coming into operation of this Act, be continued in accordance with the provisions of the principal Act as if the principal Act had not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_70__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_70",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any appeal pending before the coming into operation of this Act shall, on the date of coming into operation of this Act, be continued in accordance with the provisions of the principal Act as if the principal Act had not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_70__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_70",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any cause of action pending or existing immediately before the coming into operation of this Act shall, on the date of coming into operation of this Act, be commenced in accordance with the provisions of the principal Act as if the principal Act had not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_70__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_70",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All references to “Atomic Energy Licensing Board” in any written law shall, on the coming into operation of this Act, be construed as references to “Director General of the Department of Atomic Energy”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after the deleted Part II the following part: “Part IIa ATOMIC ENERGY ADVISORY COUNCIL Establishment of Advisory Council 2a. (1) An advisory council by the name of “Atomic Energy Advisory Council” is established. (2) The Advisory Council shall consist of the following members: (a) a Chairman who shall be appointed by the Minister; (b) the Secretary General of the Ministry charged with the responsibility for science and technology or his representative; (c) the Secretary General of the Ministry charged with the responsibility for health or his representatives; (d) the Director General; (e) the Director General of Health; and (f) three other persons appointed by the Minister who have experience and capacity in scientific or technical fields relevant to atomic energy. (3) The Chairman and members of the Advisory Council referred to in paragraphs (2)(a) and (f), unless he sooner resigns, vacates his office or his appointment is sooner revoked, shall hold office for a term of three years and may be eligible for reappointment. (4) The Minister shall appoint a public officer from the Ministry charged with the responsibility for science and technology to be the secretary of the Advisory Council. (5) The appointment of the Chairman and members of the Advisory Council referred to in paragraphs (2)(a) and (f) may be revoked at any time for such reasons as the Minister deems fit. Functions of Advisory Council 2b. The Advisory Council shall have the following functions: (a) to advise the Minister on policy and strategic matters of this Act; (b) where there is doubt as to whether an activity to be licensed is for a medical purpose or a purpose other than a medical purpose, to identify whether the activity is to be licensed for medical purpose or a purpose other than a medical purpose under this Act; and (c) to advise the Minister on any matter as referred by the Minister relating to this Act. Meetings of Advisory Council 2c. (1) The Advisory Council shall convene its meeting as often as the Chairman may determine and the meeting shall be held at the time and place as determined by the Chairman. (2) The Chairman shall preside at all meetings of the Advisory Council. (3) If the Chairman is absent from any meeting of the Advisory Council, the Chairman may appoint any member of the Advisory Council to replace him as the chairman of the meeting. (4) The quorum of the Advisory Council shall be five. (5) All matters raised at the meeting of Advisory Council shall be decided by a majority of the votes by members of the Advisory Council present at the meeting. (6) Notwithstanding subsection (5), the Chairman or the temporary Chairman shall not vote on any matter before the Advisory Council unless the votes are equal. (7) The Chairman may authorize the use of a live video link, live television link or any other electronic means of communication for the purposes of any meeting of the Advisory Council. (8) The Advisory Council may determine its own procedures. Allowances 2d. The Chairman and members of the Advisory Council may be paid such allowances and other expenses as the Minister may determine with the concurrence of the Minister of Finance.”. Amendment of section 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 12 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words “Licensing of nuclear installation and of activities” the word “Licence”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “(1) Without prejudice to the requirements of any other law, no person shall deal with radioactive material, nuclear material, radiation generator or facilities unless he is the holder of a valid licence issued under subsection 16(5) by the appropriate authority for such purpose as specified in the licence.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (2)(a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “, prescribed substance or irradiating apparatus” wherever appearing the words “or radiation generator”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “Board” the words “Director General”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9__para_d__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9__para_d__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “using” the words “dealing with”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “, prescribed substance or irradiating apparatus” the words “or radiation generator”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9__para_d__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “radiologist, radiotherapist or registered dentist” the words “registered dental practitioner, nuclear medicine physician, oncologist or radiologist”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsection: “(4) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding ten years or to a fine not exceeding five hundred thousand ringgit or to both.”. New section 12a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~sched_1__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~sched_1__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~sched_1__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~sched_1__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~sched_1__para_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~sched_1__para_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~sched_1__para_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~sched_1__para_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Section 2] NUCLEAR MATERIAL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~sched_1__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Uranium containing the mixture of isotopes occurring in nature"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~sched_1__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Uranium depleted in the isotope 235"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~sched_1__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Thorium"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~sched_1__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any of the foregoing referred in paragraph 1, 2 or 3 in the form of metal, alloy, chemical compound or concentrate"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~sched_1__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Plutonium-239"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~sched_1__para_6",
+      "@type": "akn:paragraph",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Uranium-233"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~sched_1__para_7",
+      "@type": "akn:paragraph",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Uranium enriched in the isotope 235 or 233"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~sched_1__para_8",
+      "@type": "akn:paragraph",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/26/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any of the material containing one or more of the foregoing referred in in paragraph 5, 6 or 7"
+      }
+    }
+  ]
+}

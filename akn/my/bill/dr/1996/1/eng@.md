@@ -16,7 +16,13 @@
 
 ## NATIONAL COUNCIL ON HIGHER EDUCATION
 
-3. Establishment of the Council. 4. Members of the Council. 5. Temporary exercise of function of Chairman. 6. Duration of appointment. 7. Disqualification from being a member. 8. Cessation from being a member. 9. Vacancy. 10. Member may resign by notice. 11. Termination of appointment. 12. Functions of the Council.
+3. Establishment of the Council. 4. Members of the Council. 5. Temporary exercise of function of Chairman. 6. Duration of appointment. 7. Disqualification from being a member. 8. Cessation from being a member. 9. Vacancy.
+
+10. Member may resign by notice.
+
+11. Termination of appointment.
+
+12. Functions of the Council.
 
 ## PART
 
@@ -24,7 +30,21 @@ III
 
 ## GENERAL
 
-13. Committees. 14. Council to determine its own procedure. 15. Meetings. 16. Declaration of beneficial interest. 17. Minutes. 18. Allowance. 19. Grants-in-aid. 20. Secretariat.
+13. Committees.
+
+14. Council to determine its own procedure.
+
+15. Meetings.
+
+16. Declaration of beneficial interest.
+
+17. Minutes.
+
+18. Allowance.
+
+19. Grants-in-aid.
+
+20. Secretariat.
 
 <!-- page 3 -->
 
@@ -80,9 +100,17 @@ Gazette, appoint.
 
 "University" or "University College" means—
 
-(a) a University or University College established Act 30. under the Universities and University Colleges Act 1971; or
+(a) a University or University College established
 
-(b) a private higher educational institution with the status of a University or University College, a branch campus thereof and a branch campus of a foreign University or University College, Act 30. established under the Private Higher Educational Institutions Act 1996;
+<!-- marginal: Act 30. -->
+
+under the Universities and University Colleges Act 1971; or
+
+(b) a private higher educational institution with the status of a University or University College, a branch campus thereof and a branch campus of a foreign University or University College,
+
+<!-- marginal: Act 30. -->
+
+established under the Private Higher Educational Institutions Act 1996;
 
 "Vice-Chancellor"—
 
@@ -94,9 +122,15 @@ Gazette, appoint.
 
 ## NATIONAL COUNCIL ON HIGHER EDUCATION
 
-Establishment
+<!-- marginal: Establishment -->
 
-3. There shall be established a Council to be known as of the the "National Council on Higher Education". Council.
+3. There shall be established a Council to be known as
+
+<!-- marginal: of the -->
+
+the "National Council on Higher Education".
+
+<!-- marginal: Council. -->
 
 <!-- page 5 -->
 
@@ -152,9 +186,17 @@ paragraphs 4(g), (h) and (i) shall be made by the Minister and, subject to secti
 
 <!-- page 6 -->
 
-Disqualifi-
+<!-- marginal: Disqualifi- -->
 
-7. The following persons shall be disqualified from being cation from appointed or being a member of the Council: being a member.
+7. The following persons shall be disqualified from being
+
+<!-- marginal: cation from -->
+
+appointed or being a member of the Council:
+
+<!-- marginal: being a -->
+
+<!-- marginal: member. -->
 
 (a) a person who has been convicted of an offence involving fraud, dishonesty or moral turpitude;
 
@@ -162,31 +204,53 @@ Disqualifi-
 
 (c) a person of unsound mind or is otherwise incapable of discharging his duties.
 
-Cessation
+<!-- marginal: Cessation -->
 
-8. A member of the Council appointed under paragraphs from being 4( g ), (h) and (i) shall cease to be a member— a member.
+8. A member of the Council appointed under paragraphs
+
+<!-- marginal: from being -->
+
+4( g ), (h) and (i) shall cease to be a member—
+
+<!-- marginal: a member. -->
 
 (a) if he fails to attend three consecutive meetings of the Council without leave of the Chairman of the Council; or
 
 (b) if his appointment is revoked.
 
-Vacancy.
+<!-- marginal: Vacancy. -->
 
 9. If a vacancy occurs among the members of the Council appointed under paragraph 4(g), (h) or (i), the vacancy shall be filled by a person appointed by the Minister.
 
-Member may
+<!-- marginal: Member may -->
 
-10. A member appointed by the Minister under paragraph resign by 4(i) may resign as a member of the Council at any time notice. by giving one month's notice in writing to the Minister.
+10. A member appointed by the Minister under paragraph
 
-Termination
+<!-- marginal: resign by -->
 
-11. The Minister may terminate the appointment of any of appoint- member of the Council appointed under paragraph 4(g), ment.
+4(i) may resign as a member of the Council at any time
+
+<!-- marginal: notice. -->
+
+by giving one month's notice in writing to the Minister.
+
+<!-- marginal: Termination -->
+
+11. The Minister may terminate the appointment of any
+
+<!-- marginal: of appoint- -->
+
+member of the Council appointed under paragraph 4(g),
+
+<!-- marginal: ment. -->
 
 (h) or (i) at any time without assigning any reason therefor.
 
-Functions of
+<!-- marginal: Functions of -->
 
-12. (1) The functions of the Council shall be— the Council.
+12. (1) The functions of the Council shall be—
+
+<!-- marginal: the Council. -->
 
 (a) to plan, formulate and determine national policies and strategies for the development of higher education;
 
@@ -228,7 +292,7 @@ the Universities and University Colleges Act 1971; and
 
 ## GENERAL
 
-Committees.
+<!-- marginal: Committees. -->
 
 13. (1) The Council may establish committees as it thinks fit for the purpose of assisting the Council to perform its functions.
 
@@ -238,9 +302,19 @@ Committees.
 
 (4) A person appointed under subsection (2) or invited to be a member of a committee under subsection (3) may be paid such allowances as may be determined by the Minister.
 
-Council to
+<!-- marginal: Council to -->
 
-14. Subject to this Act, the Council shall determine its determine own procedure. its own procedure. Meetings.
+14. Subject to this Act, the Council shall determine its
+
+<!-- marginal: determine -->
+
+own procedure.
+
+<!-- marginal: its own -->
+
+<!-- marginal: procedure. -->
+
+<!-- marginal: Meetings. -->
 
 15. (1) The Council shall meet as and when required to do so by the Chairman of the Council.
 
@@ -248,9 +322,17 @@ Council to
 
 (3) If on any question to be determined by the Council there is an equal division of votes, the Chairman or member prosiding shall have a casting vote in addition to his deliberative vote.
 
-Declaration
+<!-- marginal: Declaration -->
 
-16. If any member of the Council has any beneficial of beneficial interest in any matter under consideration by the Council interest. he shall forthwith declare to the Chairman or member prosiding the nature and extent of his interest in the matter and the Council shall decide whether or not he may take part in the meeting of the Council when the matter is being considered, notwithstanding his interest in the matter.
+16. If any member of the Council has any beneficial
+
+<!-- marginal: of beneficial -->
+
+interest in any matter under consideration by the Council
+
+<!-- marginal: interest. -->
+
+he shall forthwith declare to the Chairman or member prosiding the nature and extent of his interest in the matter and the Council shall decide whether or not he may take part in the meeting of the Council when the matter is being considered, notwithstanding his interest in the matter.
 
 <!-- page 9 -->
 

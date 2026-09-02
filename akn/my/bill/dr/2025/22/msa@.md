@@ -340,7 +340,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (d) dengan memasukkan selepas subseksyen (3) subseksyen yang berikut:
 
-“(3a) Pihak berkepentingan yang memfailkan kajian semula kehakiman di bawah subseksyen (1) dan kajian semula kehakiman itu masih belum selesai, tidak boleh meminta untuk suatu kajian semula di bawah seksyen 13, 13a, 13b, 13c, 28, 28a, 28b atau 28c Akta ini.”; dan
+“(3a) Pihak berkepentingan yang memfailkan kajian semula kehakiman di bawah subseksyen (1) dan kajian semula kehakiman itu masih belum selesai, tidak boleh meminta untuk suatu kajian semula di bawah SEKSYEN 13, 13A, 13B, 13C, 28, 28A, 28B ATAU 28C Akta ini.”; dan
 
 (e) dalam subseksyen (4)—
 

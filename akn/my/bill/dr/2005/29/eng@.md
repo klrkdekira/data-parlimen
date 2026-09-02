@@ -32,17 +32,37 @@
 
 9. Functions of Council
 
-10. Membership of Council 11. Secretary 12. Tenure of office 13. Revocation of appointment and resignation of members
+10. Membership of Council
+
+11. Secretary
+
+12. Tenure of office
+
+13. Revocation of appointment and resignation of members
 
 <!-- page 2 -->
 
-14. Vacation of office 15. Filling of vacancies 16. Meetings of Council 17. Procedure of meetings 18. Committees 19. Remuneration or allowance
+14. Vacation of office
+
+15. Filling of vacancies
+
+16. Meetings of Council
+
+17. Procedure of meetings
+
+18. Committees
+
+19. Remuneration or allowance
 
 ## PART V
 
 ## HERITAGE FUND
 
-20. Establishment of the Fund 21. Expenditure to be charged on the Fund 22. Accounts and audit
+20. Establishment of the Fund
+
+21. Expenditure to be charged on the Fund
+
+22. Accounts and audit
 
 ## PART VI
 
@@ -58,31 +78,69 @@
 
 Designation of heritage site
 
-24. Designation of heritage site 25. Adjacent and nearby site 26. Inspection of site 27. Notice to owner, etc. 28. Objection 29. Hearing 30. Consent of the State Authority 31. Decision of the Commissioner 32. Notice to local planning authority
+24. Designation of heritage site
+
+25. Adjacent and nearby site
+
+26. Inspection of site
+
+27. Notice to owner, etc.
+
+28. Objection
+
+29. Hearing
+
+30. Consent of the State Authority
+
+31. Decision of the Commissioner
+
+32. Notice to local planning authority
 
 <!-- page 3 -->
 
 ## Chapter 2
 
-Interim Protection Order 33. Commissioner may make Interim Protection Order 34. Period of Interim Protection Order 35. Works permitted during an Interim Protection Order
+Interim Protection Order
+
+33. Commissioner may make Interim Protection Order
+
+34. Period of Interim Protection Order
+
+35. Works permitted during an Interim Protection Order
 
 ## Chapter 3
 
 Dealings involving heritage site
 
-36. Notice of intention to sell heritage site 37. Change of owner of a heritage site
+36. Notice of intention to sell heritage site
+
+37. Change of owner of a heritage site
 
 ## Chapter 4
 
 Conservation and preservation of heritage site
 
-38. Care of heritage site 39. Inspection of heritage site 40. Application for planning permission for heritage site 41. Monument Preservation Order 42. Duty to keep heritage site in good repair 43. Financing conservation work 44. Power to impose entry fee
+38. Care of heritage site
+
+39. Inspection of heritage site
+
+40. Application for planning permission for heritage site
+
+41. Monument Preservation Order
+
+42. Duty to keep heritage site in good repair
+
+43. Financing conservation work
+
+44. Power to impose entry fee
 
 ## Chapter 5
 
 Conservation area and conservation management plan
 
-45. Conservation area 46. Conservation management plan
+45. Conservation area
+
+46. Conservation management plan
 
 ## PART VIII
 
@@ -92,7 +150,9 @@ Conservation area and conservation management plan
 
 Discovery of object
 
-47. Discovery of object 48. Proprietary right in the object
+47. Discovery of object
+
+48. Proprietary right in the object
 
 <!-- page 4 -->
 
@@ -102,19 +162,47 @@ Discovery of object
 
 Application for registration
 
-50. Application for registration of heritage object 51. Approval or refusal of application for registration 52. Certificate of registration
+50. Application for registration of heritage object
+
+51. Approval or refusal of application for registration
+
+52. Certificate of registration
 
 ## Chapter 3
 
 Management of heritage object
 
-53. Compensation for certain heritage object 54. Apportionment of share of heritage object 55. Dispute as to compensation or apportionment 56. Sale or disposal of heritage object 57. Notice of intention to sell or transfer a heritage object 58. Change of owner of a heritage object 59. Conservation of heritage object 60. Conservation of intangible cultural heritage
+53. Compensation for certain heritage object
+
+54. Apportionment of share of heritage object
+
+55. Dispute as to compensation or apportionment
+
+56. Sale or disposal of heritage object
+
+57. Notice of intention to sell or transfer a heritage object
+
+58. Change of owner of a heritage object
+
+59. Conservation of heritage object
+
+60. Conservation of intangible cultural heritage
 
 ## PART IX
 
 ## UNDERWATER CULTURAL HERITAGE
 
-61. Discovery of underwater cultural heritage 62. Possession, custody or control of moveable underwater cultural heritage 63. Declaration of underwater cultural heritage 64. Protected zone 65. Salvage and excavation works to be licensed 66. Ownership of underwater cultural heritage found during survey, salvage and excavation
+61. Discovery of underwater cultural heritage
+
+62. Possession, custody or control of moveable underwater cultural heritage
+
+63. Declaration of underwater cultural heritage
+
+64. Protected zone
+
+65. Salvage and excavation works to be licensed
+
+66. Ownership of underwater cultural heritage found during survey, salvage and excavation
 
 ## PART X
 
@@ -202,7 +290,31 @@ Registration of dealer of heritage item
 
 ## POWERS RELATING TO ENFORCEMENT, SEIZURE, ARREST, ETC.
 
-97. Appointment of enforcement officers 98. Power to investigate 99. Authority card 100. Search and seizure with warrant 101. Search and seizure without warrant 102. Search of persons 103. Seizure of thing, etc. 104. Notice of seizure 105. Power of arrest 106. Obstruction of search, etc. 107. Power to require attendance of persons acquainted with case 108. Examination of persons acquainted with case 109. Admissibility of statements by accused persons 110. Forfeiture of things, etc., seized 111. No costs or damages arising from seizure to be recoverable
+97. Appointment of enforcement officers 98. Power to investigate 99. Authority card
+
+100. Search and seizure with warrant
+
+101. Search and seizure without warrant
+
+102. Search of persons
+
+103. Seizure of thing, etc.
+
+104. Notice of seizure
+
+105. Power of arrest
+
+106. Obstruction of search, etc.
+
+107. Power to require attendance of persons acquainted with case
+
+108. Examination of persons acquainted with case
+
+109. Admissibility of statements by accused persons
+
+110. Forfeiture of things, etc., seized
+
+111. No costs or damages arising from seizure to be recoverable
 
 <!-- page 7 -->
 
@@ -1530,11 +1642,7 @@ Registration of dealer of heritage item
 
 ### Delivery to owner
 
-95. ( 1 ) If any person is convicted in any court of an offence under
-
-## Chapter XVII of the Penal Code [Act 574] in respect of any heritage
-
-item and it appears to the court that the same has been sold to a registered dealer, the court, on proof of the ownership of the property, may, if it thinks fit, order, the delivery of that heritage item to the owner either on payment to the registered dealer of the amount of the purchase price or any part thereof or without payment thereof or of any part thereof as the court may deem fit and proper.
+95. ( 1 ) If any person is convicted in any court of an offence under Chapter XVII of the Penal Code [Act 574] in respect of any heritage item and it appears to the court that the same has been sold to a registered dealer, the court, on proof of the ownership of the property, may, if it thinks fit, order, the delivery of that heritage item to the owner either on payment to the registered dealer of the amount of the purchase price or any part thereof or without payment thereof or of any part thereof as the court may deem fit and proper.
 
 (2) The court may also adjourn the proceeding for the attendance of the registered dealer and may summon the registered dealer to attend the adjourned hearing for the determination under subsection (1).
 
@@ -2200,4 +2308,4 @@ relating to underwater cultural heritage.
 
 This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
 
-[PN(U2)2476]
+<!-- marginal: [PN(U2)2476] -->

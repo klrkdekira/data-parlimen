@@ -18,7 +18,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 2 -->
 
-## Schedule
+## SCHEDULE
 
 Purpose Title
 
@@ -74,7 +74,7 @@ Multimedia B. 62 Ministry of Home Affairs
 
 <!-- marginal: 15,995,600 -->
 
-ToTal
+## TOTAL
 
 <!-- marginal: 2,392,077,572 -->
 

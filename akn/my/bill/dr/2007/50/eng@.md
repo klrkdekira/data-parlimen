@@ -200,9 +200,7 @@ by the Minister by notification in the Gazette.
 
 ### Act to be read with other laws
 
-2.
-
-(1) This Act shall be read together with any other written
+2. (1) This Act shall be read together with any other written
 
 law relating to import and export, conservation of plants, forests
 
@@ -400,9 +398,7 @@ includes—
 
 ### Management Authority
 
-6.
-
-(1) The Management Authority specified in the first column of the First Schedule shall have jurisdiction over the plant, animal or any combination of plant and animal including the readily recognizable part or derivative of the plant or animal in the region appearing in the corresponding second and third column respectively.
+6. (1) The Management Authority specified in the first column of the First Schedule shall have jurisdiction over the plant, animal or any combination of plant and animal including the readily recognizable part or derivative of the plant or animal in the region appearing in the corresponding second and third column respectively.
 
 (2) The Minister may by order published in the Gazette amend
 
@@ -538,9 +534,7 @@ any scheduled species which has been imported or introduced from the sea in cont
 
 ### Scheduled species in transit
 
-13.
-
-(1) Every scheduled species in transit in Malaysia shall be accompanied by—
+13. (1) Every scheduled species in transit in Malaysia shall be accompanied by—
 
 (a) a valid export or re-export permit, licence, certificate or written permission, in accordance with the Convention, issued by the competent authority of the country of export or re-export, as the case may be, of the scheduled species; and
 
@@ -556,9 +550,7 @@ any scheduled species which has been imported or introduced from the sea in cont
 
 ### Breeding or propagation of scheduled species
 
-14.
-
-(1) Any person who produces captive bred animal or artificially propagated plant or animal of any scheduled species for commercial trade purposes without being registered with a Management Authority commits an offence and shall, on conviction, be liable—
+14. (1) Any person who produces captive bred animal or artificially propagated plant or animal of any scheduled species for commercial trade purposes without being registered with a Management Authority commits an offence and shall, on conviction, be liable—
 
 (a) where such person is an individual, to a fine not exceeding one hundred thousand ringgit for each animal, plant, or readily recognizable part or derivative of the animal or plant, of the scheduled species but such fine shall not exceed in the aggregate of one million ringgit, or to imprisonment for a term not exceeding seven years or to both;
 
@@ -632,9 +624,7 @@ exceeding three years or to both;
 
 ### Permit, certificate and registration
 
-16.
-
-(1) An application for—
+16. (1) An application for—
 
 (a) a permit to import or export any scheduled species;
 
@@ -770,9 +760,7 @@ exceeding one hundred thousand ringgit.
 
 ### Captive breeding or artificial propagation
 
-18.
-
-(1) Any person who is registered with a Management Authority
+18. (1) Any person who is registered with a Management Authority
 
 to produce captive bred animal or artificially propagated plant or
 
@@ -858,9 +846,7 @@ issued to him under subsection (1).
 
 ### Power of arrest
 
-22.
-
-(1) An enforcement officer may arrest without warrant any
+22. (1) An enforcement officer may arrest without warrant any
 
 person—
 
@@ -886,9 +872,7 @@ procedure for the time being in force.
 
 ### Search and seizure with warrant
 
-23.
-
-(1) If it appears to a Magistrate, upon written information on
+23. (1) If it appears to a Magistrate, upon written information on
 
 oath and after such enquiry as the Magistrate considers necessary,
 
@@ -1216,7 +1200,7 @@ this Act, the security shall be forfeited.
 
 equipment is temporarily returned under subsection (1), a person
 
-who—
+<!-- marginal: who— -->
 
 (a) fails, on demand, to surrender the conveyance, machinery,
 
@@ -1310,9 +1294,7 @@ he may wish.
 
 ### Admissibility of statements in evidence
 
-33.
-
-(1) Except as provided in this section, no statement made
+33. (1) Except as provided in this section, no statement made
 
 by any person to an enforcement officer in the course of an
 
@@ -1568,9 +1550,7 @@ seizure was made without reasonable cause.
 
 ### Additional powers
 
-39.
-
-(1) An enforcement officer shall, for the purposes of the
+39. (1) An enforcement officer shall, for the purposes of the
 
 execution of this Act, have power to do all or any of the following
 
@@ -1730,9 +1710,7 @@ the Public Prosecutor.
 
 ### False declaration
 
-44.
-
-(1) Any person who makes, orally or in writing, signs or
+44. (1) Any person who makes, orally or in writing, signs or
 
 furnishes any declaration, return, certificate or other document or
 
@@ -1844,9 +1822,7 @@ default.
 
 ### Abetments and attempt
 
-47.
-
-(1) Any person who abets or attempts to commit any offence
+47. (1) Any person who abets or attempts to commit any offence
 
 punishable under this Act shall be liable to be punished with the
 
@@ -1980,9 +1956,7 @@ Schedule and Third Schedule.
 
 ### Power to make regulations
 
-54.
-
-(1) The Minister may make such regulations as may be
+54. (1) The Minister may make such regulations as may be
 
 expedient or necessary for the better carrying out of the provisions
 
@@ -2068,7 +2042,7 @@ and non-application of any provision of this Act.
 
 <!-- page 38 -->
 
-## FIRST SCHEDULE
+## FIRSTSCHEDULE
 
 [Subsection 6(1)]
 
@@ -2078,7 +2052,7 @@ and non-application of any provision of this Act.
 
 ### Species
 
-### Region
+<!-- marginal: Region -->
 
 Department of Wildlife and Animal except fish and marine Peninsular Malaysia, National Parks, Ministry animal the Federal Territory of of Natural Resources and Labuan and the Federal Environment Malaysia Territory of Putrajaya
 
@@ -2096,7 +2070,7 @@ Animal and plant Sarawak Forests Department Sarawak and Sarawak Forestry Corpora
 
 <!-- page 39 -->
 
-## SECOND SCHEDULE
+## SECONDSCHEDULE
 
 [Section 19]
 
@@ -2122,7 +2096,7 @@ Any Wild Life Officer as defined in section Forests Department Sarawak and Saraw
 
 <!-- page 40 -->
 
-## THIRD SCHEDULE
+## THIRDSCHEDULE
 
 [Section 3]
 
@@ -2408,29 +2382,13 @@ Chinchilla spp. (Specimens of the domesticated form are not subject to the provi
 
 ### Family: Dasypodidae (Armadillos)
 
-Priodontes maximus Chaetophractus nationi
+Priodontes maximus Chaetophractus nationi Cabassous centralis (Giant Armadillo) (Bolivian Hairy Armadillo) (Northern Naked-tailed Armadillo)
 
-<!-- marginal: Cabassous centralis -->
-
-(Giant Armadillo) (Bolivian Hairy Armadillo)
-
-<!-- marginal: (Northern Naked-tailed -->
-
-<!-- marginal: Armadillo) -->
-
-<!-- marginal: Cabassous tatouay -->
-
-<!-- marginal: (Greater Naked-tailed -->
-
-<!-- marginal: Armadillo) -->
+Cabassous tatouay (Greater Naked-tailed Armadillo)
 
 ### Family: Dasyproctidae (Agouti)
 
-<!-- marginal: Dasyprocta punctata -->
-
-<!-- marginal: (Central American -->
-
-<!-- marginal: Agouti) -->
+Dasyprocta punctata (Central American Agouti)
 
 ### Family: Dasyuridae (Dunnarts)
 
@@ -2644,43 +2602,17 @@ Lutrogale perspicillata Mellivora capensis Aonyx congicus (Only the populations 
 
 <!-- page 53 -->
 
-Pteronura brasiliensis
+Pteronura brasiliensis Mustela altaica Lutra spp.(Except the species (Giant Otter) included in Appendix I) (Alpine Weasel)
 
-<!-- marginal: Mustela altaica -->
+Mustela nigripes Mustela erminea ferghanae (Black-footed Ferret) (Ermine)
 
-Lutra spp.(Except the species (Giant Otter) included in Appendix I)
+Mustela kathiah (Yellow- bellied Weasel)
 
-<!-- marginal: (Alpine Weasel) -->
-
-Mustela nigripes
-
-<!-- marginal: Mustela erminea -->
-
-<!-- marginal: ferghanae -->
-
-(Black-footed Ferret)
-
-<!-- marginal: (Ermine) -->
-
-<!-- marginal: Mustela kathiah -->
-
-<!-- marginal: (Yellow- -->
-
-<!-- marginal: bellied Weasel) -->
-
-<!-- marginal: Mustela sibirica -->
-
-<!-- marginal: (Kolinsky) -->
+Mustela sibirica (Kolinsky)
 
 ### Family: Myrmecophagidae (American anteaters)
 
-Myrmecophaga tridactyla
-
-<!-- marginal: Tamandua mexican -->
-
-(Giant anteater)
-
-<!-- marginal: (Northern Tamandua) -->
+Myrmecophaga tridactyla Tamandua mexican (Giant anteater) (Northern Tamandua)
 
 ### Family: Peramelidae (Bandicoots)
 
@@ -2700,9 +2632,7 @@ Spilocuscus maculatus (Common Spotted Cuscus)
 
 ### Family: Phyllostomidae (Broad-nosed bat)
 
-<!-- marginal: Platyrrhinus lineatus -->
-
-<!-- marginal: (White-lined Bat) -->
+Platyrrhinus lineatus (White-lined Bat)
 
 ### Family: Potoroidae (Rat-kangaroos)
 
@@ -2712,19 +2642,11 @@ Caloprymnus campestris (Desert Rat-kangaroo)
 
 ### Family: Procyonidae (Coatis, kinkajou, olingos)
 
-<!-- marginal: Bassaricyon gabbii -->
+Bassaricyon gabbii (Bushy-tailed Olingo)
 
-<!-- marginal: (Bushy-tailed Olingo) -->
+Bassariscus sumichrasti (Cacomistle)
 
-<!-- marginal: Bassariscus -->
-
-<!-- marginal: sumichrasti -->
-
-<!-- marginal: (Cacomistle) -->
-
-<!-- marginal: Nasua narica -->
-
-<!-- marginal: (Northern Coati) -->
+Nasua narica (Northern Coati)
 
 <!-- page 54 -->
 
@@ -2954,29 +2876,9 @@ Urotriorchis macrourus (African Long-tailed Hawk)
 
 ### Family: Anatidae (Duck, geese, swans)
 
-Anas aucklandica Anas bernieri
+Anas aucklandica Anas bernieri Cairina moschata (Brown Teal) (Bernier’s Teal) (Muscovy Duck)
 
-<!-- marginal: Cairina moschata -->
-
-(Brown Teal) (Bernier’s Teal)
-
-<!-- marginal: (Muscovy Duck) -->
-
-Anas laysanensis Anas formosa
-
-<!-- marginal: Dendrocygna -->
-
-<!-- marginal: autumnalis -->
-
-(Laysan Duck) (Baikal Teal)
-
-<!-- marginal: (Black-bellied -->
-
-Anas oustaleti Branta ruficollis
-
-<!-- marginal: Whistling Duck) -->
-
-(Marianas Island Duck) (Red-breasted Goose)
+Anas laysanensis Anas formosa Dendrocygna autumnalis (Laysan Duck) (Baikal Teal) (Black-bellied Anas oustaleti Branta ruficollis Whistling Duck) (Marianas Island Duck) (Red-breasted Goose)
 
 <!-- page 60 -->
 
@@ -3020,21 +2922,11 @@ Probosciger aterrimus (Palm Cockatoo)
 
 ### Family: Capitonidae (Barbet)
 
-<!-- marginal: Semnornis -->
-
-<!-- marginal: ramphastinus -->
-
-<!-- marginal: (Toucan Barbet) -->
+Semnornis ramphastinus (Toucan Barbet)
 
 ### Family: Cathartidae (New world vultures)
 
-<!-- marginal: Sarcoramphus papa -->
-
-Gymnogyps californianus
-
-<!-- marginal: (King Vulture) -->
-
-(California Condor)
+Sarcoramphus papa Gymnogyps californianus (King Vulture) (California Condor)
 
 Vultur gryphus (Andean Condor)
 
@@ -3048,63 +2940,19 @@ Mycteria cinerea (Milky Stork)
 
 ### Family: Columbidae (Doves, pigeons)
 
-<!-- marginal: Columba mayeri -->
-
-Gallicolumba luzonica Caloenas nicobarica
-
-<!-- marginal: (Pink Pigeon) -->
-
-(Bleeding-heart Dove) (Nicobar Dove)
+Columba mayeri Gallicolumba luzonica Caloenas nicobarica (Pink Pigeon) (Bleeding-heart Dove) (Nicobar Dove)
 
 Ducula mindorensis Goura spp. (Crowned-pigeons) (Mindoro Imperial- pigeon)
 
 ### Family: Cotingidae (Cotingas)
 
-Cotinga maculata
-
-<!-- marginal: Cephalopterus -->
-
-Rupicola spp.
-
-<!-- marginal: ornatus -->
-
-(Banded Cotinga) (Cocks-of-the-rock)
-
-<!-- marginal: (Amazonian -->
-
-Xipholena atropurpurea
-
-<!-- marginal: Umbrellabird) -->
-
-(White-winged Cotinga)
-
-<!-- marginal: Cephalopterus -->
-
-<!-- marginal: penduliger -->
-
-<!-- marginal: (Long-wattled -->
-
-<!-- marginal: Umbrellabird) -->
+Cotinga maculata Cephalopterus Rupicola spp. ornatus (Banded Cotinga) (Cocks-of-the-rock) (Amazonian Xipholena atropurpurea Umbrellabird) (White-winged Cotinga) Cephalopterus penduliger (Long-wattled Umbrellabird)
 
 ### Family: Cracidae (Chachalacas, currassows, guans)
 
-Crax blumenbachii
+Crax blumenbachii Crax alberti (Red-billed Curassow) (Albert’s Currasow)
 
-<!-- marginal: Crax alberti -->
-
-(Red-billed Curassow)
-
-<!-- marginal: (Albert’s Currasow) -->
-
-Mitu mitu
-
-<!-- marginal: Crax daubentoni -->
-
-(Alagoas Curassow)
-
-<!-- marginal: (Daubenton’s -->
-
-<!-- marginal: Currasow) -->
+Mitu mitu Crax daubentoni (Alagoas Curassow) (Daubenton’s Currasow)
 
 <!-- page 62 -->
 
@@ -3234,21 +3082,7 @@ Cyornis ruckii Bebrornis rodericanus Dasyornis broadbenti (Rueck’s Blue-flycat
 
 <!-- page 65 -->
 
-Dasyornis longirostris Garrulax canorus
-
-<!-- marginal: Terpsiphone -->
-
-<!-- marginal: bourbonnensis -->
-
-(Long-billed Bristlebird) (Hwamei)
-
-<!-- marginal: (Mascarene Paradise- -->
-
-Picathartes gymnocephalus Leiothrix argentauris
-
-<!-- marginal: flycatcher) -->
-
-(Bare-headed Rockfowl) (Silver-eared Mesia)
+Dasyornis longirostris Garrulax canorus Terpsiphone bourbonnensis (Long-billed Bristlebird) (Hwamei) (Mascarene Paradise- Picathartes gymnocephalus Leiothrix argentauris flycatcher) (Bare-headed Rockfowl) (Silver-eared Mesia)
 
 Picathartes oreas Leiothrix lutea (Grey-necked Picathartes) (Red-billed Leiothrix)
 
@@ -3318,25 +3152,9 @@ Arborophila charltonii Gallus sonneratii Colinus virginianus (Chestnut-breasted 
 
 <!-- page 67 -->
 
-Lophura swinhoii
+Lophura swinhoii Rollulus rouloul (Swinhoe’s Pheasant) (Crested Partridge)
 
-<!-- marginal: Rollulus rouloul -->
-
-(Swinhoe’s Pheasant)
-
-<!-- marginal: (Crested Partridge) -->
-
-Polyplectron emphanum
-
-<!-- marginal: Tragopan satyra -->
-
-(Palawan Peacock-
-
-<!-- marginal: (Crimson Horned- -->
-
-pheasant)
-
-<!-- marginal: pheasant) -->
+Polyplectron emphanum Tragopan satyra (Palawan Peacock- (Crimson Horned- pheasant) pheasant)
 
 Rheinardia ocellata (Crested Argus)
 
@@ -3444,7 +3262,9 @@ Rhea americana Rhea pennata (Except (Common Rhea) Rhea pennata pennata) (Darwin�
 
 ### Family: Rhynochetidae (Kagu)
 
-Rhynochetos jubatus (Kagu)
+Rhynochetos jubatus
+
+(Kagu)
 
 ### Family: Scolopacidae (Curlews, greenshanks)
 
@@ -3532,11 +3352,11 @@ Aglaeactis spp. (Sunbeams)
 
 <!-- page 73 -->
 
-### I
+<!-- marginal: I -->
 
 ### II
 
-<!-- marginal: III -->
+### III
 
 Aglaiocercus spp.
 
@@ -3820,49 +3640,11 @@ Pseudemydura umbrina Chelodina mccordi (Western Swamp Turtle) (Roti Snake-necked
 
 ### Family: Chelydridae (Snapping turtles)
 
-<!-- marginal: Macroclemys -->
-
-<!-- marginal: temminckii -->
-
-<!-- marginal: (Alligator Snapping -->
-
-<!-- marginal: Turtle) -->
+Macroclemys temminckii (Alligator Snapping Turtle)
 
 ### Family: Colubridae (Typical snakes, water snakes, whipsnakes)
 
-<!-- marginal: Atretium schistosum -->
-
-Clelia clelia
-
-<!-- marginal: (Olivaceous -->
-
-(Mussurana)
-
-<!-- marginal: Keelback) -->
-
-Cyclagras gigas
-
-<!-- marginal: Cerberus rhynchops -->
-
-(Brazilian Smooth Snake)
-
-<!-- marginal: (Bockadam) -->
-
-Elachistodon westermanni
-
-<!-- marginal: Xenochrophis -->
-
-(Indian Egg-eater)
-
-<!-- marginal: piscator -->
-
-Ptyas mucosus
-
-<!-- marginal: (Asiatic Water -->
-
-(Oriental Rat Snake)
-
-<!-- marginal: Snake) -->
+Atretium schistosum Clelia clelia (Olivaceous (Mussurana) Keelback) Cyclagras gigas Cerberus rhynchops (Brazilian Smooth Snake) (Bockadam) Elachistodon westermanni Xenochrophis (Indian Egg-eater) piscator Ptyas mucosus (Asiatic Water (Oriental Rat Snake) Snake)
 
 ### Family: Cordylidae (Spiny-tailed lizards)
 
@@ -3916,145 +3698,13 @@ Ophiophagus hannah (King Cobra)
 
 ### Family: Emydidae (Box turtles, freshwater turtles)
 
-<!-- marginal: Chinemys -->
+Chinemys Batagur baska Annamemys annamensis megalocephala (Common Batagur) (Annam Leaf Turtle) (Big-headed Pond Clemmys muhlenbergi Callagur borneoensis Turtle) (Bog Turtle) (Painted Batagur) Chinemys nigricans Geoclemys hamiltonii Clemmys insculpta (Red-necked Pond (Black Pond Turtle) (Wood Turtle) Turtle) Kachuga tecta Cuora spp. Chinemys reevesii (Dura Turtle) (Box Turtle) (Reeves’s Turtle) Melanochelys tricarinata Heosemys depressa Geoemyda spengleri (Three-keeled Land (Arakan Forest Turtle) (Black-breasted Leaf Tortoise) Turtle) Heosemys grandis Morenia ocellata (Giant Asian Pond Turtle) Graptemys spp. (Bengal Eyed Terrapin) (Map Turtles) Heosemys leytensis Terrapene coahuila (Leyte Pond Turtle) Mauremys iversoni (Aquatic Box Turtle) (Fujian Pond Turtle) Heosemys spinosa (Spiny Terrapin) Mauremys pritchardi (Pritchard’s Pond Hieremys annandalii Turtle) (Yellow-headed Temple Turtle)
 
-Batagur baska Annamemys annamensis
+Ocadia glyphistoma Kachuga spp. (Except the species (Notch-mouthed included in Appendix I) Stripe-necked Turtle) (Roofed Turtle)
 
-<!-- marginal: megalocephala -->
+Ocadia philippeni Leucocephalon yuwonoi (Philippen’s Stripe- (Sulawesi Forest Turtle) necked Turtle) Malayemys subtrijuga Ocadia sinensis (Malayan Snail-eating Turtle) (Chinese Stripe- Mauremys mutica necked Turtle) (Yellow Pond Turtle) Sacalia bealei Notochelys platynota (Beal’s Eyed Turtle) (Malayan Flat-shelled Turtle) Sacalia pseudocellata Orlitia borneensis (Chinese False-eyed (Bornean River Turtle) Turtle)
 
-(Common Batagur) (Annam Leaf Turtle)
-
-<!-- marginal: (Big-headed Pond -->
-
-Clemmys muhlenbergi Callagur borneoensis
-
-<!-- marginal: Turtle) -->
-
-(Bog Turtle) (Painted Batagur)
-
-<!-- marginal: Chinemys nigricans -->
-
-Geoclemys hamiltonii Clemmys insculpta
-
-<!-- marginal: (Red-necked Pond -->
-
-(Black Pond Turtle) (Wood Turtle)
-
-<!-- marginal: Turtle) -->
-
-Kachuga tecta Cuora spp.
-
-<!-- marginal: Chinemys reevesii -->
-
-(Dura Turtle) (Box Turtle)
-
-<!-- marginal: (Reeves’s Turtle) -->
-
-Melanochelys tricarinata Heosemys depressa
-
-<!-- marginal: Geoemyda spengleri -->
-
-(Three-keeled Land (Arakan Forest Turtle)
-
-<!-- marginal: (Black-breasted Leaf -->
-
-Tortoise)
-
-<!-- marginal: Turtle) -->
-
-Heosemys grandis Morenia ocellata (Giant Asian Pond Turtle)
-
-<!-- marginal: Graptemys spp. -->
-
-(Bengal Eyed Terrapin)
-
-<!-- marginal: (Map Turtles) -->
-
-Heosemys leytensis Terrapene coahuila (Leyte Pond Turtle)
-
-<!-- marginal: Mauremys iversoni -->
-
-(Aquatic Box Turtle)
-
-<!-- marginal: (Fujian Pond Turtle) -->
-
-Heosemys spinosa (Spiny Terrapin)
-
-<!-- marginal: Mauremys pritchardi -->
-
-<!-- marginal: (Pritchard’s Pond -->
-
-Hieremys annandalii
-
-<!-- marginal: Turtle) -->
-
-(Yellow-headed Temple Turtle)
-
-<!-- marginal: Ocadia glyphistoma -->
-
-Kachuga spp. (Except the species
-
-<!-- marginal: (Notch-mouthed -->
-
-included in Appendix I)
-
-<!-- marginal: Stripe-necked Turtle) -->
-
-(Roofed Turtle)
-
-<!-- marginal: Ocadia philippeni -->
-
-Leucocephalon yuwonoi
-
-<!-- marginal: (Philippen’s Stripe- -->
-
-(Sulawesi Forest Turtle)
-
-<!-- marginal: necked Turtle) -->
-
-Malayemys subtrijuga
-
-<!-- marginal: Ocadia sinensis -->
-
-(Malayan Snail-eating Turtle)
-
-<!-- marginal: (Chinese Stripe- -->
-
-Mauremys mutica
-
-<!-- marginal: necked Turtle) -->
-
-(Yellow Pond Turtle)
-
-<!-- marginal: Sacalia bealei -->
-
-Notochelys platynota
-
-<!-- marginal: (Beal’s Eyed Turtle) -->
-
-(Malayan Flat-shelled Turtle)
-
-<!-- marginal: Sacalia pseudocellata -->
-
-Orlitia borneensis
-
-<!-- marginal: (Chinese False-eyed -->
-
-(Bornean River Turtle)
-
-<!-- marginal: Turtle) -->
-
-Pyxidea mouhotii
-
-<!-- marginal: Sacalia -->
-
-(Keeled Box Turtle)
-
-<!-- marginal: quadriocellata -->
-
-<!-- marginal: (Four-eyed Turtle) -->
-
-Siebenrockiella crassicollis (Black Marsh Turtle)
+Pyxidea mouhotii Sacalia (Keeled Box Turtle) quadriocellata (Four-eyed Turtle) Siebenrockiella crassicollis (Black Marsh Turtle)
 
 Terrapene spp. (Except the species included in Appendix I) (American Box Turtle)
 
@@ -4310,7 +3960,9 @@ Papustyla pulcherrima (Emerald Green Snail)
 
 ### Family : Odobinidae (Walrus)
 
-Odobenus rosmarus (Canada)
+<!-- marginal: Odobenus rosmarus -->
+
+<!-- marginal: (Canada) -->
 
 ### Family : Otariidae (Fur seal, sealions)
 
@@ -4446,7 +4098,9 @@ Tridacnidae spp. (Clams)
 
 ### Family : Haliotidae (Abalones)
 
-Haliotis midae (South Africa)
+<!-- marginal: Haliotis midae -->
+
+<!-- marginal: (South Africa) -->
 
 ## MESOGASTROPODA
 
@@ -4460,7 +4114,11 @@ Strombus gigas (Queen Conch)
 
 ### Family : Stichopodidae (Sea cucumbers)
 
-Isostichopus fuscus (Ecuador) (Sea Cucumber)
+<!-- marginal: Isostichopus fuscus -->
+
+<!-- marginal: (Ecuador) -->
+
+<!-- marginal: (Sea Cucumber) -->
 
 <!-- page 91 -->
 
@@ -4954,13 +4612,19 @@ Aloe compressa (Includes the vars. rugosquamosa, schistophila and paucitubercula
 
 <!-- marginal: III -->
 
-Aloe delphinensis (Aloe)
+Aloe delphinensis
+
+(Aloe)
 
 Aloe descoingsii
 
-Aloe fragilis (Aloe)
+Aloe fragilis
 
-Aloe haworthioides (Includes the var. aurantiaca) (Aloe)
+(Aloe)
+
+Aloe haworthioides (Includes the var. aurantiaca)
+
+(Aloe)
 
 Aloe helenae
 
@@ -4968,7 +4632,9 @@ Aloe laeta (Includes the var. maniaensis)
 
 Aloe parallelifolia
 
-Aloe parvula (Aloe)
+Aloe parvula
+
+(Aloe)
 
 Aloe pillansii (Bastard Quiver Tree, Giant Quiver Tree)
 
@@ -4978,7 +4644,9 @@ Aloe rauhii (Aloe, Rauh’s Aloe, Snow Flake Aloe)
 
 Aloe suzannae
 
-Aloe versicolor (Aloe)
+Aloe versicolor
+
+(Aloe)
 
 Aloe vossii
 
@@ -5230,11 +4898,7 @@ The proposed International Trade in Endangered Species Act 2007 as proposed by t
 
 ## PART III
 
-11.
-
-## Part III of the Bill contains provisions on the trade of scheduled
-
-species.
+11. Part III of the Bill contains provisions on the trade of scheduled species.
 
 12. Clause 10 seeks to make it an offence for any person to import or export any scheduled species without a permit.
 

@@ -1146,7 +1146,7 @@ This Bill seeks to amend the Income Tax Act 1967 (“Act 53”), the Stamp Act 1
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-## Chapter II of this Bill seeks to amend the Income Tax Act 1967.
+Chapter II of this Bill seeks to amend the Income Tax Act 1967.
 
 <!-- page 42 -->
 
@@ -1228,9 +1228,7 @@ This amendment has effect for the year of assessment 2010 and subsequent years o
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
-## Chapter III of this Bill seeks to amend the Stamp Act 1949. This Chapter
-
-comes into operation on 1 January 2010.
+Chapter III of this Bill seeks to amend the Stamp Act 1949. This Chapter comes into operation on 1 January 2010.
 
 14. Clause 18 seeks to insert a new section 72A into Act 378 to provide for a new provision relating to offences in respect of stamp certificates.
 
@@ -1242,9 +1240,7 @@ comes into operation on 1 January 2010.
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
-## Part I of Chapter IV of this Bill seeks to amend the Petroleum (Income Tax)
-
-Act 1967.
+Part I of Chapter IV of this Bill seeks to amend the Petroleum (Income Tax) Act 1967.
 
 17. Clause 22 seeks to amend section 5 of Act 543. The proposed amendment seeks to provide the change in respect of basis period from preceding year to current year basis.
 
@@ -1312,9 +1308,7 @@ This amendment has effect for the year of assessment 2010 and subsequent years o
 
 ## MISCELLANEOUS
 
-## Part II of Chapter IV of this Bill seeks to provide special and transitional
-
-provisions in respect of amendments to the Petroleum (Income Tax) Act
+Part II of Chapter IV of this Bill seeks to provide special and transitional provisions in respect of amendments to the Petroleum (Income Tax) Act
 
 1967.
 
@@ -1328,9 +1322,7 @@ provisions in respect of amendments to the Petroleum (Income Tax) Act
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
-## Chapter V of this Bill seeks to amend the Real Property Gains Tax Act 1976.
-
-This Chapter comes into operation on 1 January 2010.
+Chapter V of this Bill seeks to amend the Real Property Gains Tax Act 1976. This Chapter comes into operation on 1 January 2010.
 
 33. Clause 40 seeks to amend subsection 7(4) of Act 169 to provide that where a chargeable asset is disposed of by a person in a year of assessment and the disposal price of that chargeable asset is less than the acquisition price, the allowable loss is allowed as a deduction to reduce the total chargeable gain of that person in that year of assessment. However, if the person is an individual, such loss will be allowed to reduce the chargeable gain of that individual after taking into account the amount of exemption in accordance with Schedule 4 of the Act. In the case where the allowable loss has not been allowed for that year of assessment because of insufficiency or absence of chargeable gain, the allowable loss can be allowed in the year of assessment where there is a chargeable gain until the loss is fully utilized.
 
@@ -1362,9 +1354,7 @@ This Chapter comes into operation on 1 January 2010.
 
 ## ACTIVITY TAX ACT 1990
 
-## Chapter VI of this Bill seeks to amend the Labuan Offshore Business Activity
-
-Tax Act 1990. This Chapter comes into operation on 1 January 2010.
+Chapter VI of this Bill seeks to amend the Labuan Offshore Business Activity Tax Act 1990. This Chapter comes into operation on 1 January 2010.
 
 44. Clause 59 seeks to insert a new section 12A into Act 445 to provide that excess from the amount of tax paid by an offshore company shall be refunded from the fund established under section 111B of Act 53.
 

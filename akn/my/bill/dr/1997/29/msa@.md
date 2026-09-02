@@ -62,13 +62,15 @@ Keempat, bagi moyang-moyang si mati tak berwasiat dan jika lebih daripada seoran
 
 Kelima, atas amanah yang dinyatakan dalam seksyen 7 bagi moyang saudara si mati tak berwasiat dalam bahagian yang sama banyak."; dan
 
-dengan menomborkan semula perenggan (v)
+dengan menomborkan semula perenggan (v) (b) sebagai perenggan (j).
 
-(b) sebagai perenggan (j).
+<!-- marginal: Peruntukan -->
 
-Peruntukan
+4. Apa-apa pembahagian harta seseorang si mati tak
 
-4. Apa-apa pembahagian harta seseorang si mati tak kecualian. berwasiat yang telah dimulakan sebelum Akta ini mula berkuatkuasa hendaklah diteruskan atau diselesaikan dari segala segi seolah-olah Akta ini tidak pernah diluluskan.
+<!-- marginal: kecualian. -->
+
+berwasiat yang telah dimulakan sebelum Akta ini mula berkuatkuasa hendaklah diteruskan atau diselesaikan dari segala segi seolah-olah Akta ini tidak pernah diluluskan.
 
 ## HURAIAN
 

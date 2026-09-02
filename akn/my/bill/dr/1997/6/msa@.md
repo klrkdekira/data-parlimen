@@ -116,6 +116,4 @@ Jengka (Pembubaran)
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan, yang amaunnya tidak dapat ditentukan sekarang ini.
-
-<!-- marginal: [PN. (U2) 1986.] -->
+Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan, yang amaunnya tidak dapat ditentukan sekarang ini. [PN. (U2) 1986.]

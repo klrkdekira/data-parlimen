@@ -14,9 +14,7 @@ Naskhah Sahih—Bahasa Malaysia
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan mula herkuatkuasa.
-
-2. Tafsiran.
+1. Tajuk ringkas dan mula herkuatkuasa. 2. Tafsiran.
 
 ## BAHAGIAN
 
@@ -24,19 +22,7 @@ II
 
 ## DEPOSITORI PUSAT
 
-3. Sekatan ke atas penubuhan depositori pusat.
-
-4. Permohonan bagi kelulusan untuk menubuhkan dan menyenggarakan depositori pusat.
-
-5. Kuasa Menteri unmk meluluskan penubuhan depositori pusat.
-
-6. Menteri boleh menubuhkan jawatankuasa penasihat.
-
-7. Msnteri hendaklah diberitahu tentang pindaan kepada kaedah- kaedah dan kuasa Menteri untuk meminda kaedah-kaedah.
-
-8. Tugas depositori pusat untuk memastikan keteraturan urusniaga sekuriti-sekuriti telah-deposit.
-
-9. Ejen-ejen depositori diberikuasa, penerbit-penerbit. dsb. hendaklah mematuhi kaedah-kaedah depositori pusat.
+3. Sekatan ke atas penubuhan depositori pusat. 4. Permohonan bagi kelulusan untuk menubuhkan dan menyenggarakan depositori pusat. 5. Kuasa Menteri unmk meluluskan penubuhan depositori pusat. 6. Menteri boleh menubuhkan jawatankuasa penasihat. 7. Msnteri hendaklah diberitahu tentang pindaan kepada kaedah- kaedah dan kuasa Menteri untuk meminda kaedah-kaedah. 8. Tugas depositori pusat untuk memastikan keteraturan urusniaga sekuriti-sekuriti telah-deposit. 9. Ejen-ejen depositori diberikuasa, penerbit-penerbit. dsb. hendaklah mematuhi kaedah-kaedah depositori pusat.
 
 10. Depositori pusat hendaklah memberikan bantuan kepada Pendaftar.
 
@@ -66,9 +52,7 @@ III
 
 17. Sekuriti-sekuriti yang tak didepositkan tidak boleh diperdagangkan di pasaran saham atau digunakan untuk menyelesaikan perdagangan pasaran.
 
-18. Penentusahan skrip-skrip dun pemindahan kepada depositori pusat atau syarikat namaan.
-
-19. Depositori pusat dan ejen depositori diberikuasa tidak bertanggungan bagi kerugian.
+18. Penentusahan skrip-skrip dun pemindahan kepada depositori pusat atau syarikat namaan. 19. Depositori pusat dan ejen depositori diberikuasa tidak bertanggungan bagi kerugian.
 
 20. Pengeluaran sijil-sijil jumbo.
 
@@ -158,19 +142,7 @@ IV
 
 ## PENYIASATAN
 
-52. Pemakaian Bahagian ini.
-
-53. Kuasa Pendaftar untuk menghendaki pengemukaan rekod- rekod.
-
-54. Kuasa Pendaftar untuk memasuki dan menggeleclah premis, dsb.
-
-55. Penghalangan.
-
-56. Pendedahan kepada Pendaftar.
-
-57. Penyiasatan oleh Pendaftar.
-
-58. Kuasa Mahkamah untuk membuat perintah-perintah tertentu.
+52. Pemakaian Bahagian ini. 53. Kuasa Pendaftar untuk menghendaki pengemukaan rekod- rekod. 54. Kuasa Pendaftar untuk memasuki dan menggeleclah premis, dsb. 55. Penghalangan. 56. Pendedahan kepada Pendaftar. 57. Penyiasatan oleh Pendaftar. 58. Kuasa Mahkamah untuk membuat perintah-perintah tertentu.
 
 ## BAHAGIAN VII
 
@@ -186,19 +158,13 @@ AM
 
 63. Peraturan-peraturan.
 
-64. Sebutan mengenai penerima umpukan dalam Akta Syarikat
-
-1965.
+64. Sebutan mengenai penerima umpukan dalam Akta Syarikat 1965.
 
 65. Seksyen 69A Akta Syarikat 1965.
 
-66. Sebutan mengenai pemunya dalam seksyen 102 Akta Syarikat
+66. Sebutan mengenai pemunya dalam seksyen 102 Akta Syarikat 1965.
 
-1965.
-
-67. Sebutan mengenai syarikat dalam seksyen 103 Akta Syarikat
-
-1965.
+67. Sebutan mengenai syarikat dalam seksyen 103 Akta Syarikat 1965.
 
 68. Sebutan mengenai anggota-anggota syarikat awam dalam seksyen 166 Akta Syarikat 1965.
 
@@ -244,7 +210,11 @@ Sekuriti (Depositori Pusat) 1991.
 
 "belian-masuk" ertinya belian yang dilaksanakan oleh suatu bursa saham atau tempat penjelasannya, mengikut kaedah-kaedah bursa saham itu, akan sekuriti-sekuriti yang telah gagal diserahkan oleh seseorang penjual pada hari yang ditetapkan bagi penyelesaian;
 
-"bursa saham" mempunyai erti yang sama seperti yang diberikan kepada ungkapan itu di bawah subseksyen 2(l) Akta 280 Akta Perindustrian Sekuriti 1983;
+"bursa saham" mempunyai erti yang sama seperti yang diberikan kepada ungkapan itu di bawah subseksyen 2(l)
+
+<!-- marginal: Akta 280 -->
+
+Akta Perindustrian Sekuriti 1983;
 
 ''depositori pusat" ertinya sesuatu syarikat yang diluluskan oleh Menteri di bawah seksyen 5—
 
@@ -364,15 +334,49 @@ II
 
 ## DEPOSITORT PUSAT
 
-Sekatan
+<!-- marginal: Sekatan -->
 
-3. ( l) Tiada seorang pun boleh menubuhkan dan ke atas menyenggarakan atau mengemukakan dirinya sebagai penubuhan depositori menyenggarakan suatu depositori pusat melainkan jika pusat. suatu kelulusan secara bertulis telah diberikan oleh Menteri di bawah seksyen 5.
+3. ( l) Tiada seorang pun boleh menubuhkan dan
+
+<!-- marginal: ke atas -->
+
+menyenggarakan atau mengemukakan dirinya sebagai
+
+<!-- marginal: penubuhan -->
+
+<!-- marginal: depositori -->
+
+menyenggarakan suatu depositori pusat melainkan jika
+
+<!-- marginal: pusat. -->
+
+suatu kelulusan secara bertulis telah diberikan oleh Menteri di bawah seksyen 5.
 
 (2) Seseorang yang melanggar peruntukan- peruntukan subseksyen (1) adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi sepuluh juta ringgit atau dipenjarakan selama suatu tempoh yang tidak melebihi sepuluh tahun alau kedua-duanya.
 
-Permohonan
+<!-- marginal: Permohonan -->
 
-4. (1) Mana-mana syarikat yang diperbadankan di hagi kelulusan bawah Akta Syarikat 1965 yang bercadang untuk untuk menu- buhkan dan menubuhkan dan menyenggarakan suatu depositori pusat menyenggara- hendaklah memohon secara bertulis kepada Menteri bagi kan depositori kelulusan. pusat.
+4. (1) Mana-mana syarikat yang diperbadankan di
+
+<!-- marginal: hagi kelulusan -->
+
+bawah Akta Syarikat 1965 yang bercadang untuk
+
+<!-- marginal: untuk menu- -->
+
+<!-- marginal: buhkan dan -->
+
+menubuhkan dan menyenggarakan suatu depositori pusat
+
+<!-- marginal: menyenggara- -->
+
+hendaklah memohon secara bertulis kepada Menteri bagi
+
+<!-- marginal: kan depositori -->
+
+kelulusan.
+
+<!-- marginal: pusat. -->
 
 (2) Permohonan yang dibuat di bawah subseksyen (1) hendaklah disertakan dengan yang berikut:
 
@@ -416,15 +420,35 @@ Permohonan
 
 (3) Pada bila-bila masa selepas menerima sesuatu permohonan, Menteri boleh, melalui notis bertulis, menghendaki pemohon memberikan maklumat atau dokumen-dokumen tambahan.
 
-Kuasa Menteri
+<!-- marginal: Kuasa Menteri -->
 
-5. (1) Menteri boleh secara bertulis meluluskan sesuatu untuk permohonan yang dibuat di bawah seksyen 4 bagi meluluskan penubuhan penubuhan dan penyenggaraan suatu depositori pusat jika depositori dia berpuas hati— pusat
+5. (1) Menteri boleh secara bertulis meluluskan sesuatu
+
+<!-- marginal: untuk -->
+
+permohonan yang dibuat di bawah seksyen 4 bagi
+
+<!-- marginal: meluluskan -->
+
+<!-- marginal: penubuhan -->
+
+penubuhan dan penyenggaraan suatu depositori pusat jika
+
+<!-- marginal: depositori -->
+
+dia berpuas hati—
+
+<!-- marginal: pusat -->
 
 (a) bahawa suatu bursa saham adalah suatu pemegang syer pemohon;
 
 (b) bahawa kaedah-kaedah pemohon itu membuat peruntukan yang memuaskan—
 
-(i) berkenaan dengan syarat-syarat yang di bawahnya sekuriti-sekuriti boleh didepositkan dengan, dipegang oleh, dikeluarkan daripada, atau dipindahkan dalam, depositori pusat itu;
+(i) berkenaan dengan syarat-syarat yang di bawahnya sekuriti-sekuriti
+
+<!-- marginal: boleh -->
+
+didepositkan dengan, dipegang oleh, dikeluarkan daripada, atau dipindahkan dalam, depositori pusat itu;
 
 (ii) bagi pemegangan sekuriti-sekuriti yang didepositkan dengan depositori pusat itu atau syarikat namaannya;
 
@@ -438,11 +462,7 @@ Kuasa Menteri
 
 (vi) bagi mengawasi pematuhan, dan bagi penguatkuasaan, kaedah-kaedah depo- sitori pusat itu;
 
-(vii) berkenaan dengan penyenggaraan polisi atau polisi-polisi insurans, dan penubuhan dan penyenggaraan kumpulan-kumpulan wang pampasan, bagi maksud menye- lesaikan tuntutan-tuntutan
-
-<!-- marginal: oleh -->
-
-pendeposit-pendeposit terhadap depo- sitori pusat itu, syarikat-syarikat namaannya dan ejen-ejen depositori diberikuasanya; dan
+(vii) berkenaan dengan penyenggaraan polisi atau polisi-polisi insurans, dan penubuhan dan penyenggaraan kumpulan-kumpulan wang pampasan, bagi maksud menye- lesaikan tuntutan-tuntutan oleh pendeposit-pendeposit terhadap depo- sitori pusat itu, syarikat-syarikat namaannya dan ejen-ejen depositori diberikuasanya; dan
 
 (viii) pada amnya bagi menjalankan urusan depositori pusal itu dengan memberikan perhatian yang wajar kepada kepentingan awam; dan
 
@@ -508,7 +528,45 @@ fungsinya adalah—
 
 (6) Seseorang anggota boleh pada bila-bila masa meletakkan jawatannya melalui surat yang ditujukan kepada Menteri.
 
-Menteri 7. (1) Jika sesuatu pindaan dibuat kepada kaedah-kaedah hendaklah suatu depositori pusat, depositori pusat itu hendaklah diberitahu tentang mengemukakan suatu notis bertulis mengenainya kepada pindaan Menteri. kepada kaedah-kaedah dan kuasa (2) Jika notis mengikut peruntukan-peruntukan Menten untuk subseksyen (1) tidak diberikan dalam masa dua puluh satu meminda kaedah- hari selepas sesuatu pindaan itu dibuat, pindaan itu kaedah. hendaklah terhenti berkuatkuasa.
+<!-- marginal: Menteri -->
+
+7. (1) Jika sesuatu pindaan dibuat kepada kaedah-kaedah
+
+<!-- marginal: hendaklah -->
+
+suatu depositori pusat, depositori pusat itu hendaklah
+
+<!-- marginal: diberitahu -->
+
+<!-- marginal: tentang -->
+
+mengemukakan suatu notis bertulis mengenainya kepada
+
+<!-- marginal: pindaan -->
+
+Menteri.
+
+<!-- marginal: kepada -->
+
+<!-- marginal: kaedah-kaedah -->
+
+<!-- marginal: dan kuasa -->
+
+(2) Jika notis mengikut peruntukan-peruntukan
+
+<!-- marginal: Menten untuk -->
+
+subseksyen (1) tidak diberikan dalam masa dua puluh satu
+
+<!-- marginal: meminda -->
+
+<!-- marginal: kaedah- -->
+
+hari selepas sesuatu pindaan itu dibuat, pindaan itu
+
+<!-- marginal: kaedah. -->
+
+hendaklah terhenti berkuatkuasa.
 
 (3) Menteri boleh dalam masa dua puluh satu hari selepas menerima notis di bawah subseksyen (1) memberikan notis kepada depositori pusat yang berkenaan itu bahawa dia tidak membenarkan keseluruhan atau mana-mana bahagian tertentu daripada pindaan yang berkenaan itu dan dengan demikian keseluruhan atau bahagian yang tertentu itu, mengikut mana-mana yang berkenaan, hendaklah terhenti berkuatkuasa dan berkesan.
 
@@ -592,9 +650,27 @@ orang itu.
 
 (2) Bagi maksud-maksud seksyen ini, "kaedah- kaedah" termasuklah mana-mana arahan yang diberikan, dari semasa ke semasa, oleh sesuatu depositori pusat kepada mana-mana orang menurut mana-mana peruntukan Akta ini.
 
-Depositori
+<!-- marginal: Depositori -->
 
-10. (1) Sesuatu depositori pusat hendaklah memberi pusat Pendaftar apa-apa bantuan yang semunasabahnya hendaklah membenkan dikehendaki olehnya bagi pelaksanaan fungsi-fungsi dan bantuan tugas-tugasnya di bawah Akta ini. kepada Pendaftar.
+10. (1) Sesuatu depositori pusat hendaklah memberi
+
+<!-- marginal: pusat -->
+
+Pendaftar apa-apa bantuan yang semunasabahnya
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: membenkan -->
+
+dikehendaki olehnya bagi pelaksanaan fungsi-fungsi dan
+
+<!-- marginal: bantuan -->
+
+tugas-tugasnya di bawah Akta ini.
+
+<!-- marginal: kepada -->
+
+<!-- marginal: Pendaftar. -->
 
 (2) Pendaftar adalah berhak pada setiap masa yang munasabah mendapat akses yang penuh dan bebas kepada mana-mana bahagian premis sesuatu depositori pusat bagi maksud memastikan pematuhan Akta ini.
 
@@ -610,7 +686,7 @@ III
 
 ## PENGGAL I—PENDEPOSITAN SEKURITI-SEKURITI
 
-Tafsiran.
+<!-- marginal: Tafsiran. -->
 
 11. Dalam Bahagian ini, melainkan jika konteksnya menghendaki makna yang lain—
 
@@ -630,11 +706,23 @@ Tafsiran.
 
 "tarikh pemberitahuan" ertinya tarikh notis menurut subseksyen 14 (2) diberikan oleh suatu bursa saham.
 
-Tugas-tugas
+<!-- marginal: Tugas-tugas -->
 
-12. (1) Sesuatu depositori pusat hendaklah mengadakan depositori atau menyebabkan diadakan segala kemudahan pusat. sebagaimana yang perlu—
+12. (1) Sesuatu depositori pusat hendaklah mengadakan
 
-(a) untuk memudahkan pendepositan dan pengeluaran cekap sekuriti-sekuriti;
+<!-- marginal: depositori -->
+
+atau menyebabkan diadakan segala kemudahan
+
+<!-- marginal: pusat. -->
+
+sebagaimana yang perlu—
+
+(a) untuk memudahkan pendepositan
+
+<!-- marginal: dan -->
+
+pengeluaran cekap sekuriti-sekuriti;
 
 (b) untuk memudahkan pendaftaran urusniaga- urusniaga sekuriti-sekuriti telah-deposit;
 
@@ -650,7 +738,17 @@ disimpan atau disenggarakan di bawah Akta; dan
 
 (2) Menteri boleh, dari semasa ke semasa, menetapkan tugas-tugas lain yang hendaklah dilaksanakan oleh sesuatu depositori pusat sebagaimana yang difikirkannya sesuai.
 
-Ejen 13. (1) Tertakluk kepada Akta ini, sesuatu depositori depositori pusat boleh melantik mana-mana orang yang disebutkan diberikuasa. dalam subseksyen (2) untuk menjadi ejen depositori diberikuasanya bagi segala atau mana-mana maksud berikut:
+<!-- marginal: Ejen -->
+
+13. (1) Tertakluk kepada Akta ini, sesuatu depositori
+
+<!-- marginal: depositori -->
+
+pusat boleh melantik mana-mana orang yang disebutkan
+
+<!-- marginal: diberikuasa. -->
+
+dalam subseksyen (2) untuk menjadi ejen depositori diberikuasanya bagi segala atau mana-mana maksud berikut:
 
 (a) untuk memudahkan pendepositan
 
@@ -676,7 +774,13 @@ pengeluaran sekuriti-sekuriti;
 
 (c) suatu syarikat anggota;
 
-(d) suatu bank, bank saudagar atau syarikat kewangan yang dilesenkan di bawah subseksyen Akta372. 6(4) Akta Bank dan Institusi-Institusi Kewangan 1989; Akta 276.
+(d) suatu bank, bank saudagar atau syarikat kewangan yang dilesenkan di bawah subseksyen
+
+<!-- marginal: Akta372. -->
+
+6(4) Akta Bank dan Institusi-Institusi Kewangan 1989;
+
+<!-- marginal: Akta 276. -->
 
 (e) suatu bank Islam yang dilesenkan di bawah Akta Banklslam 1983;
 
@@ -690,9 +794,39 @@ dan mana-mana ejen depositori diberikuasa yang dilantik sedemikian, dalam menjal
 
 (4) Seseorang yang meJanggar subseksyen (3) adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi sepuluh juta ringgit atau dipenjarakan selama suatu tempoh yang tidak melebihi sepuluh tahun atau kedua-duanya.
 
-Bursa saham
+<!-- marginal: Bursa saham -->
 
-14. (1) Tertakluk kepada subseksyen (2)dan (3), sesuatu hendaklah bursa saham boleh, dari semasa ke semasa selepas menetapkan sekuriti- berunding dengan suatu depositori pusat, menetapkan sekuriti yang bahawa mana-mana sekuriti, yang disenaraikan atau yang boleh di- depositkan dicadangkan untuk disenaraikan bagi disebutharga pada dengan senarai rasminya, hendaklah didepositkan dengan depositori pusat. depositori pusat itu.
+14. (1) Tertakluk kepada subseksyen (2)dan (3), sesuatu
+
+<!-- marginal: hendaklah -->
+
+bursa saham boleh, dari semasa ke semasa selepas
+
+<!-- marginal: menetapkan -->
+
+<!-- marginal: sekuriti- -->
+
+berunding dengan suatu depositori pusat, menetapkan
+
+<!-- marginal: sekuriti yang -->
+
+bahawa mana-mana sekuriti, yang disenaraikan atau yang
+
+<!-- marginal: boleh di- -->
+
+<!-- marginal: depositkan -->
+
+dicadangkan untuk disenaraikan bagi disebutharga pada
+
+<!-- marginal: dengan -->
+
+senarai rasminya, hendaklah didepositkan dengan
+
+<!-- marginal: depositori -->
+
+<!-- marginal: pusat. -->
+
+depositori pusat itu.
 
 <!-- page 22 -->
 
@@ -702,11 +836,37 @@ Bursa saham
 
 (4) Bagi maksud-maksud Akta ini, pendepositan mana- mana sekuriti ditetapkan oleh seseorang dengan ejen depositori diberikuasa suatu depositori pusat hendaklah disifatkan sebagai suatu pendepositan sekuriti itu dengan depositori pusat itu.
 
-Peruntukan- 15. (1) Seksyen ini hendaklah terpakai bagi semua peruntukan perdagangan sekuriti-sekuriti ditetapkan dalam tempoh peralihan berhubungan yang bermula pada hari selepas sahaja
+<!-- marginal: Peruntukan- -->
+
+15. (1) Seksyen ini hendaklah terpakai bagi semua
+
+<!-- marginal: peruntukan -->
+
+perdagangan sekuriti-sekuriti ditetapkan dalam tempoh
+
+<!-- marginal: peralihan -->
+
+<!-- marginal: berhubungan -->
+
+yang bermula pada hari selepas sahaja
 
 <!-- marginal: tarikh -->
 
-dengan pemberitahuan dan yang berakhir pada tarikh ditetap- perdagangan kan. sekuriti- sekuriti ditetapkan. (2) Tiada seorang pun boleh berdagang mana-mana sekuriti ditetapkan di suatu pasaran saham tanpa mempunyai suatu akaun sekuriti.
+<!-- marginal: dengan -->
+
+pemberitahuan dan yang berakhir pada tarikh ditetap-
+
+<!-- marginal: perdagangan -->
+
+kan.
+
+<!-- marginal: sekuriti- -->
+
+<!-- marginal: sekuriti -->
+
+<!-- marginal: ditetapkan. -->
+
+(2) Tiada seorang pun boleh berdagang mana-mana sekuriti ditetapkan di suatu pasaran saham tanpa mempunyai suatu akaun sekuriti.
 
 (3) Skrip yang merupakan sekuriti ditetapkan yang dijual pada atau selepas tarikh pemberitahuan dan diserahkan oleh, atau bagi pihak, seseorang penjual kepada ejen depositori diberikuasa bagi maksud menyelesaikan suatu jualan hendaklah,
 
@@ -722,21 +882,107 @@ penyelesaiannya, dihantarkan oleh ejen itu kepada penerbit skrip itu bersama-sam
 
 (b) penerbit-penerbit yang dengannya dokumen- dokumen yang disebutkan dalam subseksyen (3) seksyen ini telah diserahsimpan.
 
-Depositori
+<!-- marginal: Depositori -->
 
-16. (1) Sesuatu depositori pusat boleh, melalui notis, pusat boleh menetapkan suatu tarikh yang selepasnya tiada syarikat menetapkan tarikh ter- anggota atau namaan sesuatu syarikat anggota boleh akhir bagi menerima skrip yang merupakan sekuriti ditetapkan penerimaan semata-mata bagi penjagaan selamat. skrip bagi penjagaan selamat.
+16. (1) Sesuatu depositori pusat boleh, melalui notis,
+
+<!-- marginal: pusat boleh -->
+
+menetapkan suatu tarikh yang selepasnya tiada syarikat
+
+<!-- marginal: menetapkan -->
+
+<!-- marginal: tarikh ter- -->
+
+anggota atau namaan sesuatu syarikat anggota boleh
+
+<!-- marginal: akhir bagi -->
+
+menerima skrip yang merupakan sekuriti ditetapkan
+
+<!-- marginal: penerimaan -->
+
+semata-mata bagi penjagaan selamat.
+
+<!-- marginal: skrip bagi -->
+
+<!-- marginal: penjagaan -->
+
+<!-- marginal: selamat. -->
 
 (2) Sesuatu depositori pusat hendaklah memberikan notis kepada orang awam tentang tarikh yang ditetapkan dalam subseksyen (1) melalui iklan dalam tidak kurang daripada tiga buah akhbar kebangsaan harian, satu daripadanya hendaklah dalam bahasa kebangsaan dan satu dalam bahasa Inggeris.
 
-Sekuriti-
+<!-- marginal: Sekuriti- -->
 
-17. (1) Sesuatu sekuriti ditetapkan tidak boleh, selepas sekuriti yang tarikh ditetapkan, diperdagangkan di suatu pasaran saham tak dideposit- kan tidak melainkan jika sekuriti tersebut telah didepositkan dengan boleh diper- suatu depositori pusat. dagangkan di pasaran saham
+17. (1) Sesuatu sekuriti ditetapkan tidak boleh, selepas
 
-(2) Sesuatu sekuriti ditetapkan boleh, pada bila-bila atau diguna- kan untuk masa selepas tarikh ditetapkan, didepositkan oleh menyelesaikan seseorang pendeposit dengan depositori pusat itu tetapi perdagangan pasaran. sekuriti tersebut tidaklah boleh digunakan untuk menyelesaikan sesuatu transaksi yang dilakukan di suatu pasaran saham sebelum daripada tarikh pendepositan sekuriti itu.
+<!-- marginal: sekuriti yang -->
 
-Penentusahan
+tarikh ditetapkan, diperdagangkan di suatu pasaran saham
 
-18. (1) Sesuatu depositori pusat atau ejen depositori skrip-skrip diberikuasanya, mengikut mana-mana yang berkenaan, dan pemindahan hendaklah, dalam tempoh yang ditetapkan dalam kaedah- kepada kaedah, selepas pendepositan oleh mana-mana orang akan depositori sesuatu skrip yang merupakan sesuatu sekuriti ditetapkan pusat atau syarikat dan suratcara pemindahan yang berkenaan dengannya, namaan. jika ada, menyerahsimpan skrip dan suratcara itu dengan penerbit sekuriti itu.
+<!-- marginal: tak dideposit- -->
+
+<!-- marginal: kan tidak -->
+
+melainkan jika sekuriti tersebut telah didepositkan dengan
+
+<!-- marginal: boleh diper- -->
+
+suatu depositori pusat.
+
+<!-- marginal: dagangkan di -->
+
+<!-- marginal: pasaran saham -->
+
+(2) Sesuatu sekuriti ditetapkan boleh, pada bila-bila
+
+<!-- marginal: atau diguna- -->
+
+<!-- marginal: kan untuk -->
+
+masa selepas tarikh ditetapkan, didepositkan oleh
+
+<!-- marginal: menyelesaikan -->
+
+seseorang pendeposit dengan depositori pusat itu tetapi
+
+<!-- marginal: perdagangan -->
+
+<!-- marginal: pasaran. -->
+
+sekuriti tersebut tidaklah boleh digunakan untuk menyelesaikan sesuatu transaksi yang dilakukan di suatu pasaran saham sebelum daripada tarikh pendepositan sekuriti itu.
+
+<!-- marginal: Penentusahan -->
+
+18. (1) Sesuatu depositori pusat atau ejen depositori
+
+<!-- marginal: skrip-skrip -->
+
+diberikuasanya, mengikut mana-mana yang berkenaan,
+
+<!-- marginal: dan -->
+
+<!-- marginal: pemindahan -->
+
+hendaklah, dalam tempoh yang ditetapkan dalam kaedah-
+
+<!-- marginal: kepada -->
+
+kaedah, selepas pendepositan oleh mana-mana orang akan
+
+<!-- marginal: depositori -->
+
+sesuatu skrip yang merupakan sesuatu sekuriti ditetapkan
+
+<!-- marginal: pusat atau -->
+
+<!-- marginal: syarikat -->
+
+dan suratcara pemindahan yang berkenaan dengannya,
+
+<!-- marginal: namaan. -->
+
+jika ada, menyerahsimpan skrip dan suratcara itu dengan penerbit sekuriti itu.
 
 (2) Penerbit itu hendaklah, apabila menerima skrip dan suratcara itu, dengan segera melakukan segala tindakan dan perkara yang perlu untuk mendaftarkan pemindahan sekuriti di bawah skrip itu atas nama depositori pusat itu atau syarikat namaannya.
 
@@ -754,7 +1000,15 @@ Penentusahan
 
 (c) ia telah disampaikan dengan suatu perintah mahkamah yang mempunyai bidang kuasa kompeten yang melarang apa-apa urusniaga berkenaan dengan sekuriti di bawah skrip itu; atau
 
-(d) suatu perintah di bawah peraturan 8 Peraturan- P.U.(A) Peraturan Perlu (Perlindungan kepada 237186. Pendeposit) 1986 telah dibuat oleh Bank Negara Malaysia dan disiarkan dalam Warta menghalang orang yang mendepositkan skrip itu daripada berurusniaga dengan mana-mana wang, harta atau asetnya.
+(d) suatu perintah di bawah peraturan 8 Peraturan-
+
+<!-- marginal: P.U.(A) -->
+
+Peraturan Perlu (Perlindungan kepada
+
+<!-- marginal: 237186. -->
+
+Pendeposit) 1986 telah dibuat oleh Bank Negara Malaysia dan disiarkan dalam Warta menghalang orang yang mendepositkan skrip itu daripada berurusniaga dengan mana-mana wang, harta atau asetnya.
 
 (4) Dalam masa tujuh hari pasaran selepas sesuatu pemindahan diserahsimpan dengan penerbit atau dalam tempoh yang lebih lama sebagaimana yang dibenarkan secara bertulis oleh suatu depositori pusat, penerbit itu hendaklah (selain daripada dalam mana-mana hal yang disebutkan dalam subseksyen (3) di atas) menyiapkan dan menyerahkan sijil yang berkenaan kepada depositori pusat itu.
 
@@ -768,7 +1022,13 @@ seksyen ini dan subseksyen 15(4), tetapi jika penerbit menolak pendaftaran sesua
 
 (7) Bagi maksud-maksud seksyen ini—
 
-(a) sesuatu suratcara pemindahan hendaklah disifatkan sebagai diperakui jika ia mengandungi perkataan-perkataan "sijil di- serahsimpan bagi pendaftaran atas nama .... (nama depositori pusat atau syarikat namaan- nya, mengikut mana-mana yang berkenaan)...." atau perkataan-perkataan yang bermaksud sedemikian;
+(a) sesuatu suratcara pemindahan hendaklah disifatkan sebagai diperakui
+
+<!-- marginal: jika -->
+
+<!-- marginal: ia -->
+
+mengandungi perkataan-perkataan "sijil di- serahsimpan bagi pendaftaran atas nama .... (nama depositori pusat atau syarikat namaan- nya, mengikut mana-mana yang berkenaan)...." atau perkataan-perkataan yang bermaksud sedemikian;
 
 (b) perakuan sesuatu suratcara pemindahan hendaklah disifatkan sebagai telah dibuat oleh ejen depositori diberikuasa jika—
 
@@ -780,21 +1040,41 @@ seksyen ini dan subseksyen 15(4), tetapi jika penerbit menolak pendaftaran sesua
 
 <!-- page 26 -->
 
-hendaklah disifatkan sebagai ditandatangani oleh orang itu, melainkan
-
-<!-- marginal: jika adalah -->
-
-ditunjukkan bahawa tandatangan
+hendaklah disifatkan sebagai ditandatangani oleh orang itu, melainkan jika adalah ditunjukkan bahawa tandatangan
 
 <!-- marginal: atau -->
 
 tandatangan ringkas itu tidak diturunkan olehnya atau tidak diturunkan oleh mana-mana orang lain yang pada zahirnya diberikuasa untuk menggunakan tandatangan atau tandatangan ringkas itu bagi maksud memperakui pemindahan-pemindahan bagi pihak ejen itu.
 
-(8) Penerbit yang gagal mematuhi subseksyen (4) atau (5) adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama suatu tempoh yang tidak melebihi satu tahun atau kedua-duanya, dan dalam hal sesuatu kesalahan yang berterusan, boleh, sebagai tambahan, dikenakan hukuman denda harian yang tidak melebihi satu ribu ringgit bagi tiap-tiap hari yang kesalahan itu berterusan.
+(8) Penerbit yang gagal mematuhi subseksyen (4) atau
+
+(5) adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama suatu tempoh yang tidak melebihi satu tahun atau kedua-duanya, dan dalam hal sesuatu kesalahan yang berterusan, boleh, sebagai tambahan, dikenakan hukuman denda harian yang tidak melebihi satu ribu ringgit bagi tiap-tiap hari yang kesalahan itu berterusan.
 
 (9) Seksyen ini tidaklah terpakai bagi sekuriti-sekuriti pembawa.
 
-Depositori 19. (1) Sesuatu depositori pusat dan ejen depositori pusat dan ejen diberikuasanya tidaklah, kecuali dalam hal apa-apa depositori diberikuasa perbuatan, peninggalan, pengabaian atau keingkaran tidak sengaja di pihak depositori pusat itu atau ejen depositori bertanggungan bagj kerugian. diberikuasanya, bertanggungan bagi apa-apa kerugian, kerosakan atau liabiliti yang dialami atau ditanggung oleh mana-mana orang berkenaan dengan sesuatu urusniaga mana-mana sekuriti yang pemindahannya telah ditolak di bawah seksyen 18.
+<!-- marginal: Depositori -->
+
+19. (1) Sesuatu depositori pusat dan ejen depositori
+
+<!-- marginal: pusat dan ejen -->
+
+diberikuasanya tidaklah, kecuali dalam hal apa-apa
+
+<!-- marginal: depositori -->
+
+<!-- marginal: diberikuasa -->
+
+perbuatan, peninggalan, pengabaian atau keingkaran
+
+<!-- marginal: tidak -->
+
+sengaja di pihak depositori pusat itu atau ejen depositori
+
+<!-- marginal: bertanggungan -->
+
+<!-- marginal: bagj kerugian. -->
+
+diberikuasanya, bertanggungan bagi apa-apa kerugian, kerosakan atau liabiliti yang dialami atau ditanggung oleh mana-mana orang berkenaan dengan sesuatu urusniaga mana-mana sekuriti yang pemindahannya telah ditolak di bawah seksyen 18.
 
 (2) Subseksyen (1) tidaklah boleh berkuatkuasa untuk melepaskan ejen depositori diberikuasa daripada apa-apa obligasi yang dikenakan ke atasnya oleh kaedah-kaedah sesuatu bursa saham atas sifatnya sebagai suatu syarikat anggota untuk melaksanakan apa-apa belian-masuk, sama ada secara langsung atau selainnya, berikutan daripada penolakan pendaftaran sesuatu pemindahan di bawah seksyen 18.
 
@@ -878,7 +1158,9 @@ bagi maksud melaksanakan pemindahan sekuriti itu kepada pendeposit itu atau kepa
 
 (b) melainkan jika diarahkan selainnya oleh pendeposit itu, menghantar atau menyerahkan sijil yang telah siap itu dan apa-apa dokumen lain, jika ada, kepada pendeposit itu atau kepada mana-mana orang yang dinamakan olehnya.
 
-Akta 378. (5) Bagi maksud-maksud subseksyen (3) dan Akta Setem 1949, balasan bagi pemindahan sesuatu sekuriti kepada seseorang pendeposit hendaklah disifatkan sebagai—
+<!-- marginal: Akta 378. -->
+
+(5) Bagi maksud-maksud subseksyen (3) dan Akta Setem 1949, balasan bagi pemindahan sesuatu sekuriti kepada seseorang pendeposit hendaklah disifatkan sebagai—
 
 (a) dalam hal sekuriti telah-deposit
 
@@ -960,7 +1242,15 @@ dan mengikut apa-apa cara yang difikirkannya sesuai.
 
 (ii) tempoh sekatan atau larangan tersebut,
 
-melalui iklan dalam tidak kurang daripada tiga buah akhbar kebangsaan harian, satu daripadanya hendaklah dalam bahasa kebangsaan dan satu dalam bahasa Inggeris.
+melalui iklan dalam tidak kurang daripada tiga buah akhbar kebangsaan harian,
+
+<!-- marginal: satu -->
+
+daripadanya hendaklah dalam
+
+<!-- marginal: bahasa -->
+
+kebangsaan dan satu dalam bahasa Inggeris.
 
 <!-- page 30 -->
 
@@ -970,17 +1260,31 @@ melalui iklan dalam tidak kurang daripada tiga buah akhbar kebangsaan harian, sa
 
 ## DAN REKOD-REKOD
 
-Akaun-akaun
+<!-- marginal: Akaun-akaun -->
 
-25. (1) Tiada seorang pun boleh berurusniaga dengan sekuriti. sekuriti-sekuriti telah-deposit tanpa terlebih dahulu mempunyai suatu akaun sekuriti.
+25. (1) Tiada seorang pun boleh berurusniaga dengan
+
+<!-- marginal: sekuriti. -->
+
+sekuriti-sekuriti telah-deposit tanpa terlebih dahulu mempunyai suatu akaun sekuriti.
 
 (2) Seseorang ejen depositori diberikuasa yang berurusniaga dengan sekuriti-sekuriti telah-deposit sebagai prinsipal hendaklah, berhubungan dengan urusniaga tersebut, membuka dan menyenggarakan suatu akaun sekuriti dengan depositori pusat.
 
 (3) Sesuatu depositori pusat boleh mewujudkan berlainan jenis akaun-akaun sekuriti untuk orang-orang yang berlainan golongan.
 
-Pengeluaran
+<!-- marginal: Pengeluaran -->
 
-26. (1) Sesuatu depositori pusat hendaklah menge- penyata- luarkan kepada semua pendeposit penyata-penyata akaun penyata akaun. berkenaan dengan kesemua sekuriti telah-deposit yang dipegang dalam penjagaan oleh, atau didaftarkan atas nama, depositori pusat itu atau syarikat namaannya untuk pendeposit-pendeposit itu pada masa dan mengikut cara yang ditetapkan di bawah Akta ini.
+26. (1) Sesuatu depositori pusat hendaklah menge-
+
+<!-- marginal: penyata- -->
+
+luarkan kepada semua pendeposit penyata-penyata akaun
+
+<!-- marginal: penyata -->
+
+<!-- marginal: akaun. -->
+
+berkenaan dengan kesemua sekuriti telah-deposit yang dipegang dalam penjagaan oleh, atau didaftarkan atas nama, depositori pusat itu atau syarikat namaannya untuk pendeposit-pendeposit itu pada masa dan mengikut cara yang ditetapkan di bawah Akta ini.
 
 (2) Walau apa pun peruntukan-peruntukan subseksyen
 
@@ -1030,7 +1334,19 @@ butir—
 
 (4) Peruntukan-peruntukan seksyen ini hendaklah terpakai, mutatis mutandis bagi tiap-tiap ejen depositori diberikuasa.
 
-Pengiraan 28. (1) Bagi maksud menentusahkan ketepatan mana- stok skrip- mana rekod atau akaun yang disimpan olehnya menurut skrip secara fizikal. Akta ini dan bagi apa-apa maksud lain sebagaimana yang ditetaplcan oleh Menteri melalui peraturan-peraturan yang dibuat di bawah Akta ini, sesuatu depositori pusat hendaklah, sebelum atau pada akhir tiap-tiap suku tahun kewangan (dalam seksyen ini disebut "tempoh ditetapkan"), menjalankan suatu pengiraan stok semua skrip yang merupakan sekuriti-sekuriti telah-deposit dan apa-apa dokumen lain berhubungan dengannya yang dipegang dalam penjagaan oleh, atau atas nama, depositori pusat itu atau syarikat namaannya.
+<!-- marginal: Pengiraan -->
+
+28. (1) Bagi maksud menentusahkan ketepatan mana-
+
+<!-- marginal: stok skrip- -->
+
+mana rekod atau akaun yang disimpan olehnya menurut
+
+<!-- marginal: skrip secara -->
+
+<!-- marginal: fizikal. -->
+
+Akta ini dan bagi apa-apa maksud lain sebagaimana yang ditetaplcan oleh Menteri melalui peraturan-peraturan yang dibuat di bawah Akta ini, sesuatu depositori pusat hendaklah, sebelum atau pada akhir tiap-tiap suku tahun kewangan (dalam seksyen ini disebut "tempoh ditetapkan"), menjalankan suatu pengiraan stok semua skrip yang merupakan sekuriti-sekuriti telah-deposit dan apa-apa dokumen lain berhubungan dengannya yang dipegang dalam penjagaan oleh, atau atas nama, depositori pusat itu atau syarikat namaannya.
 
 (2) Depositori pusat itu hendaklah, dalam masa dua puluh satu hari selepas berakhirnya tempoh ditetapkan itu, mengemukakan—
 
@@ -1068,9 +1384,27 @@ memberi depositori pusat itu arahan-arahan sebagaimana yang difikirkannya sesuai
 
 ## PELBAGAI
 
-Urusniaga-
+<!-- marginal: Urusniaga- -->
 
-29. (1) Walau apa pun peruntukan-peruntukan mana- urusniaga mana undang-undang bertulis, sesuatu urusniaga oleh yang dilaksanakan seseorang pendeposit berkenaan dengan sesuatu sekuriti melalui proses telah-deposit hendaklah dilaksanakan melalui suatu elektronik. catatan dalam akaun sekuriti pendeposit itu.
+29. (1) Walau apa pun peruntukan-peruntukan mana-
+
+<!-- marginal: urusniaga -->
+
+mana undang-undang bertulis, sesuatu urusniaga oleh
+
+<!-- marginal: yang -->
+
+<!-- marginal: dilaksanakan -->
+
+seseorang pendeposit berkenaan dengan sesuatu sekuriti
+
+<!-- marginal: melalui proses -->
+
+telah-deposit hendaklah dilaksanakan melalui suatu
+
+<!-- marginal: elektronik. -->
+
+catatan dalam akaun sekuriti pendeposit itu.
 
 (2) Tertakluk kepada Bahagian ini, sesuatu urusniaga yang dilaksanakan di bawah seksyen ini hendaklah berkuatkuasa—
 
@@ -1078,17 +1412,47 @@ Urusniaga-
 
 (b) dalam hal sekuriti pembawa, tanpa memerlukan penyerahan skrip yang merupakan sekuriti itu.
 
-Catatan-
+<!-- marginal: Catatan- -->
 
-30. Sesuatu catatan dalam akaun sekuriti berkenaan catatan dalam dengan sesuatu urusniaga hendaklah— akaun sekunti.
+30. Sesuatu catatan dalam akaun sekuriti berkenaan
+
+<!-- marginal: catatan dalam -->
+
+dengan sesuatu urusniaga hendaklah—
+
+<!-- marginal: akaun -->
+
+<!-- marginal: sekunti. -->
 
 (a) dalam hal akaun sekuriti yang diwujudkan dan disenggarakan secara langsung oleh suatu depositori pusat, disifatkan sebagai telah dibuat oleh, atau dengan kuasa, depositori pusat itu; dan
 
 (h) dalam hal akaun sekuriti yang diwujudkan melalui, dan disenggarakan oleh, ejen depositori diberikuasa bagi pihak suatu depositori pusat, disifatkan sebagai telah dibuat oleh, atau dengan kuasa, ejen depositori diberikuasa itu.
 
-Catatan-
+<!-- marginal: Catatan- -->
 
-31. (1) Tertakluk kepada subseksyen (2), sesuatu catatan dalam depositori pusat atau ejen depositori diberikuasa, akaun sekunti berkenaan mengikut mana-mana yang berkenaan, hendaklah, apabila dengan menerima suatu notis bertulis daripada seseorang transaksi luar pendeposit, membuat suatu catatan dalam akaun sekuriti pasaran. berkenaan dengan sesuatu urusniaga sekuriti-sekuriti telah-deposit yang telah disempurnakan oleh pendeposit itu di luar pasaran saham sepertimana dinyatakan olehnya dalam notis itu.
+31. (1) Tertakluk kepada subseksyen (2), sesuatu
+
+<!-- marginal: catatan dalam -->
+
+depositori pusat atau ejen depositori diberikuasa,
+
+<!-- marginal: akaun sekunti -->
+
+<!-- marginal: berkenaan -->
+
+mengikut mana-mana yang berkenaan, hendaklah, apabila
+
+<!-- marginal: dengan -->
+
+menerima suatu notis bertulis daripada seseorang
+
+<!-- marginal: transaksi luar -->
+
+pendeposit, membuat suatu catatan dalam akaun sekuriti
+
+<!-- marginal: pasaran. -->
+
+berkenaan dengan sesuatu urusniaga sekuriti-sekuriti telah-deposit yang telah disempurnakan oleh pendeposit itu di luar pasaran saham sepertimana dinyatakan olehnya dalam notis itu.
 
 <!-- page 35 -->
 
@@ -1098,17 +1462,79 @@ Catatan-
 
 (2) Depositori pusat i tu atau ejen depositori diberikuasa, mengikut mana-mana yang berkenaan, boleh, sebelum membuat catatan itu, menghendaki pengemukaan oleh pendeposit itu akan mana-mana dokumen atau suratcara yang menjadi keterangan urusniaga tersebut.
 
-("catatan-
+<!-- marginal: ("catatan- -->
 
-32. Sesuatu catatan dalam akaun sekuriti yang dibuat di catatan dalam bawah seksyen 30 dan 31 hendaklah menyatakan tarikh akaun sekuriti hendaklah dan masa catatan itu dibuat dan, dalam hal suatu catatan menyatakan yang dibuat oleh seseorang, identiti orang yang membuat masa, tarikh dan orang catatan itu. yang membuat catatan.
+32. Sesuatu catatan dalam akaun sekuriti yang dibuat di
 
-Rekod
+<!-- marginal: catatan dalam -->
 
-33. Suatu rekod mengenai sesuatu catatan dalam akaun mengenai sekuriti berkenaan dengan sesuatu urusniaga sekuriti- catatan adalah keterangan sekuriti telah-dcposit hendaklah menjadi keterangan pnma facie prima facie mcngeaai kebenaran perkara-perkara yang direkodkan ilu.
+bawah seksyen 30 dan 31 hendaklah menyatakan tarikh
 
-Rekod
+<!-- marginal: akaun sekuriti -->
 
-34. ( 1) Penerbit mana-mana sekuriti telah-deposit boleh, pendeposit melalui notis bertulis, menghendaki suatu depositori pusat pendeposit hendaklah mengeluarkan kepadanya suatu rekod pendeposit- dikeluarkan pendeposit yang di dalam akaun-akaun sekuriti mereka kepda penerbit atas sekuriti-sekuriti ilu berada dalam kredit pada tarikh notis perrmintaan. itu atau apa-apa tarikh lain sebagaimana yang dinyatakan dalam notis itu.
+<!-- marginal: hendaklah -->
+
+dan masa catatan itu dibuat dan, dalam hal suatu catatan
+
+<!-- marginal: menyatakan -->
+
+yang dibuat oleh seseorang, identiti orang yang membuat
+
+<!-- marginal: masa, tarikh -->
+
+<!-- marginal: dan orang -->
+
+catatan itu.
+
+<!-- marginal: yang membuat -->
+
+<!-- marginal: catatan. -->
+
+<!-- marginal: Rekod -->
+
+33. Suatu rekod mengenai sesuatu catatan dalam akaun
+
+<!-- marginal: mengenai -->
+
+sekuriti berkenaan dengan sesuatu urusniaga sekuriti-
+
+<!-- marginal: catatan adalah -->
+
+<!-- marginal: keterangan -->
+
+sekuriti telah-dcposit hendaklah menjadi keterangan
+
+<!-- marginal: pnma facie -->
+
+prima facie mcngeaai kebenaran perkara-perkara yang direkodkan ilu.
+
+<!-- marginal: Rekod -->
+
+34. ( 1) Penerbit mana-mana sekuriti telah-deposit boleh,
+
+<!-- marginal: pendeposit -->
+
+melalui notis bertulis, menghendaki suatu depositori pusat
+
+<!-- marginal: pendeposit -->
+
+<!-- marginal: hendaklah -->
+
+mengeluarkan kepadanya suatu rekod pendeposit-
+
+<!-- marginal: dikeluarkan -->
+
+pendeposit yang di dalam akaun-akaun sekuriti mereka
+
+<!-- marginal: kepda -->
+
+<!-- marginal: penerbit atas -->
+
+sekuriti-sekuriti ilu berada dalam kredit pada tarikh notis
+
+<!-- marginal: perrmintaan. -->
+
+itu atau apa-apa tarikh lain sebagaimana yang dinyatakan dalam notis itu.
 
 (2) Rekod pendeposit-pendeposit yang dikehendaki oleh sesuatu penerbit di bawah subseksyen ( 1) hendaklah dikeluarkan oleh depositori pusat itu daiam tempoh yang berikut:
 
@@ -1122,7 +1548,11 @@ Rekod
 
 (b) dalam hal di mana penerbit menghendaki pengeluaran suatu rekod pendeposit- pendeposit sepertimana pada suatu tarikh yang lebih awal daripada tarikh notis itu (yang bukanlah suatu tarikh yang lebih awal daripada satu tahun), tidak lewat daripada satu bulan selepas tarikh notis itu.
 
-(3) Rekod pendeposit-pendeposit hendaklah mengandungi nama, alamat, nombor kad pengenalan yang Akta 78 dikeluarkan di bawah Akta Pendaftaran Negara 1959, jika ada, bangsa, kerakyatan, dan apa-apa maklumat lain dan butir-butir mengenai pendeposit-pendeposit
+(3) Rekod pendeposit-pendeposit hendaklah mengandungi nama, alamat, nombor kad pengenalan yang
+
+<!-- marginal: Akta 78 -->
+
+dikeluarkan di bawah Akta Pendaftaran Negara 1959, jika ada, bangsa, kerakyatan, dan apa-apa maklumat lain dan butir-butir mengenai pendeposit-pendeposit
 
 <!-- marginal: itu -->
 
@@ -1138,9 +1568,31 @@ sebanyak satu ringgit, atau suatu jumlah wang yang kurang daripadanya sebagaiman
 
 (6) Salinan rekod pendeposit-pendeposit, atau mana- mana bahagiannya, yang dikehendaki di bawah subseksyen (5) hendaklah dibekalkan kepada orang yang menghendaki salinan itu dalam tempoh dua puluh satu hari atau suatu tempoh yang lebih panjang sebagaimana yang difikirkan munasabah oleh Pendaftar dalam hal- keadaan itu, bermula dari hari selepas tarikh penerimaan permintaan itu oleh penerbit itu.
 
-Pendeposit
+<!-- marginal: Pendeposit -->
 
-35. (1) Walau apa pun peruntukan-peruntukan Akta hendaklah Syarikat 1965, seseorang pendeposit mana-mana sekuriti dianggap seolah-olah telah-deposit yang namanya terdapat dalam rekod dia seorang pendeposit-pendeposit hendaklah berhak kepada semua anggota. hak, faedah, kuasa dan keistimewaan dan tertakluk kepada semua liabiliti, tugas dan obligasi yang berkenaan dengan, atau yang timbul daripada, sekuriti tersebut (sama ada yang diberikan atau dikenakan oleh Akta Syarikat 1965, atau memorandum atau perkara-perkara persatuan penerbit, atau selainnya) seolah-olah dia adalah seorang anggota yang didaftarkan dalam daftar anggota-anggota yang disenggarakan oleh penerbit sekuriti tersebut menurut Akta tersebut, dan bukannya depositori pusat itu, atau syarikat namaannya, yang atas namanya sekuriti telah-deposit itu didaftarkan.
+35. (1) Walau apa pun peruntukan-peruntukan Akta
+
+<!-- marginal: hendaklah -->
+
+Syarikat 1965, seseorang pendeposit mana-mana sekuriti
+
+<!-- marginal: dianggap -->
+
+<!-- marginal: seolah-olah -->
+
+telah-deposit yang namanya terdapat dalam rekod
+
+<!-- marginal: dia seorang -->
+
+pendeposit-pendeposit hendaklah berhak kepada semua
+
+<!-- marginal: anggota. -->
+
+hak, faedah, kuasa dan keistimewaan dan tertakluk kepada semua liabiliti, tugas dan obligasi yang berkenaan dengan, atau yang timbul daripada, sekuriti tersebut (sama ada yang diberikan atau dikenakan oleh Akta Syarikat 1965, atau memorandum atau perkara-perkara persatuan penerbit, atau selainnya) seolah-olah dia adalah seorang anggota yang didaftarkan dalam daftar anggota-anggota yang disenggarakan oleh penerbit sekuriti tersebut menurut Akta tersebut, dan bukannya depositori pusat itu, atau syarikat namaannya, yang atas namanya
+
+<!-- marginal: sekuriti -->
+
+telah-deposit itu didaftarkan.
 
 (2) Walau apa pun peruntukan-peruntukan sub- seksyen (1), tiada apa-apa jua dalam seksyen ini boleh ditafsirkan sebagai menyifatkan rekod pendeposit- pendeposit sebagai daftar anggota-anggota yang disimpan menurut seksyen 158 Akta Syarikat 1965.
 
@@ -1148,15 +1600,47 @@ Pendeposit
 
 <!-- page 38 -->
 
-Larangan
+<!-- marginal: Larangan -->
 
-36. (1) Tiada depositori pusat boleh membeli, terhadap memperolehi, atau selainnya berurusniaga dengan, mana- pemerolehan, atau urusniaga mana sekuriti telah-deposit sebagai prinsipal selain dengan, daripada bagi sesuatu maksud dan mengikut sesuatu cara sekuriti- sckurti telah- yang dibenarkan oleh Menteri di bawah peraturan- deposit oleh peraturan yang dibuat di bawah Akta ini. depositori pusat.
+36. (1) Tiada depositori pusat boleh membeli,
+
+<!-- marginal: terhadap -->
+
+memperolehi, atau selainnya berurusniaga dengan, mana-
+
+<!-- marginal: pemerolehan, -->
+
+<!-- marginal: atau urusniaga -->
+
+mana sekuriti telah-deposit sebagai prinsipal selain
+
+<!-- marginal: dengan, -->
+
+daripada bagi sesuatu maksud dan mengikut sesuatu cara
+
+<!-- marginal: sekuriti- -->
+
+<!-- marginal: sckurti telah- -->
+
+yang dibenarkan oleh Menteri di bawah peraturan-
+
+<!-- marginal: deposit oleh -->
+
+peraturan yang dibuat di bawah Akta ini.
+
+<!-- marginal: depositori -->
+
+<!-- marginal: pusat. -->
 
 (2) Sesuatu depositori pusat yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi lima ratus ribu ringgit atau dipenjarakan selama suatu tempoh yang tidak melebihi dua tahun atau kedua-duanya.
 
-Tawaran
+<!-- marginal: Tawaran -->
 
-37. (1) Jika, menurut seksyen 14, sesuatu bursa saham awan. menetapkan bahawa mana-mana sekuriti yang di- cadangkan untuk disenaraikan bagi disebutharga pada senarai rasminya hendaklah didepositkan dengan suatu depositori pusat, penerbit sekuriti tersebut atau pembuat tawaran, mengikut mana-mana yang berkenaan, hendaklah, dalam prospektus yang dikeluarkan oleh penerbit atau pembuat tawaran tersebut berkenaan dengannya, memberitahu orang awam tentang fakta bahawa sekuriti itu adalah suatu sekuriti yang telah ditetapkan sedemikian.
+37. (1) Jika, menurut seksyen 14, sesuatu bursa saham
+
+<!-- marginal: awan. -->
+
+menetapkan bahawa mana-mana sekuriti yang di- cadangkan untuk disenaraikan bagi disebutharga pada senarai rasminya hendaklah didepositkan dengan suatu depositori pusat, penerbit sekuriti tersebut atau pembuat tawaran, mengikut mana-mana yang berkenaan, hendaklah, dalam prospektus yang dikeluarkan oleh penerbit atau pembuat tawaran tersebut berkenaan dengannya, memberitahu orang awam tentang fakta bahawa sekuriti itu adalah suatu sekuriti yang telah ditetapkan sedemikian.
 
 (2) Apabila selesainya pengumpukan
 
@@ -1172,9 +1656,15 @@ penguntukan sekuriti tersebut, penerbit atau pembuat tawaran itu, mengikut mana-
 
 (5) Tanpa menjejaskan subsekysen (2). peruntukan- peruntukan dalam seksyen 107 Akta Syarikat 1965 tidaklah, berhubungan dengan sekuriti-sekuriti yang disebutkan dalam subseksyen (1), terpakai bagi penerbit sekuriti itu.
 
-Terbitan
+<!-- marginal: Terbitan -->
 
-38. (1) Jikasesuatu penerbit,berhubungan dengan mana- bonus, hak. mana sekuriti telah-deposit,— dsb.
+38. (1) Jikasesuatu penerbit,berhubungan dengan mana-
+
+<!-- marginal: bonus, hak. -->
+
+mana sekuriti telah-deposit,—
+
+<!-- marginal: dsb. -->
 
 (a) membuat suatu terbilan bonus, atau menerbit- kan sekuriti-sekuriti menurut suatu terbitan hak atau penukaran mana-mana sekuriti hutang; atau
 
@@ -1186,9 +1676,37 @@ penerbit itu hendaklah memberitahu depositori pusat itu nama-nama penerima umpuk
 
 <!-- page 40 -->
 
-Pengunderait 39. Mana-mana orang yang bertujuan hendak hendaklah mengunderait mana-mana sekuriti yang dicadangkan membuka akaun untuk disenaraikan di suatu bursa saham atau mana- sekuriti. mana terbitan hak berkenaan dengan mana-mana sekuriti telah-deposit hendaklah membuka suatu akaun sekuriti.
+<!-- marginal: Pengunderait -->
 
-Penggadaian 40. (1) Jika sesuatu sekuriti telah-deposit adalah atau digadaikan atau disandarkan oleh seseorang pendeposit persandaran sekuriti. (dalam seksyen ini disebut sebagai "penggadai" atau "pembuat sandaran") kepada mana-mana orang (dalam seksyen ini disebut sebagai "pemegang gadaian" atau "pemegang sandaran"), sesuatu depositori pusat atau ejen depositori diberikuasa, yang dengannya atau melaluinya akaun sekuriti pendeposit itu disenggarakan, hendaklah, atas suatu permintaan secara bertulis yang dibuat oleh pendeposit, pemegang gadaian atau pemegang sandaran itu, mengikut mana-mana yang berkenaan, memindahkan atau menyebabkan dipindahkan sekuriti tersebut ke dalam akaun sekuriti pemegang gadaian atau pemegang sandaran itu, mengikut mana-mana yang berkenaan, yang disenggarakan bagi maksud tersebut.
+39. Mana-mana orang yang bertujuan hendak
+
+<!-- marginal: hendaklah -->
+
+mengunderait mana-mana sekuriti yang dicadangkan
+
+<!-- marginal: membuka -->
+
+<!-- marginal: akaun -->
+
+untuk disenaraikan di suatu bursa saham atau mana-
+
+<!-- marginal: sekuriti. -->
+
+mana terbitan hak berkenaan dengan mana-mana sekuriti telah-deposit hendaklah membuka suatu akaun sekuriti.
+
+<!-- marginal: Penggadaian -->
+
+40. (1) Jika sesuatu sekuriti telah-deposit adalah
+
+<!-- marginal: atau -->
+
+digadaikan atau disandarkan oleh seseorang pendeposit
+
+<!-- marginal: persandaran -->
+
+<!-- marginal: sekuriti. -->
+
+(dalam seksyen ini disebut sebagai "penggadai" atau "pembuat sandaran") kepada mana-mana orang (dalam seksyen ini disebut sebagai "pemegang gadaian" atau "pemegang sandaran"), sesuatu depositori pusat atau ejen depositori diberikuasa, yang dengannya atau melaluinya akaun sekuriti pendeposit itu disenggarakan, hendaklah, atas suatu permintaan secara bertulis yang dibuat oleh pendeposit, pemegang gadaian atau pemegang sandaran itu, mengikut mana-mana yang berkenaan, memindahkan atau menyebabkan dipindahkan sekuriti tersebut ke dalam akaun sekuriti pemegang gadaian atau pemegang sandaran itu, mengikut mana-mana yang berkenaan, yang disenggarakan bagi maksud tersebut.
 
 (2) Jika suatu permintaan adalah dibuat oleh pemegang gadaian atau pemegang sandaran sepertimana yang diperuntukkan di bawah subseksyen (1), permintaan tersebut hendaklah disokong oleh dokumen-dokumen yang menjadi keterangan yang gadaian atau sandaran tersebut dibuat kepadanya.
 
@@ -1268,21 +1786,53 @@ yang berhubungan dengan akaun-akaun sekuriti mereka, daripada apa-apa akses, pen
 
 <!-- page 42 -->
 
-Kewajipan
+<!-- marginal: Kewajipan -->
 
-43. (1) Kecuali sebagaimana yang diperuntukkan dalam untuk Akta ini, tiada seorang pun pengarah atau pegawai sesuatu merahsiakan. depositori pusat atau seseorang ejen depositori diberikuasa, sama ada dalam masa tempoh jawatannya atau dalam masa tempoh pekerjaannya atau selepas itu, dan tiada orang lain yang mempunyai apa-apa cara akses kepada apa-apa maklumat atau dokumen apa jua pun yang berhubungan dengan hal-ehwal mana-mana pendeposit, dan khususnya, yang berhubungan dengan akaun-akaun sekuriti mereka, boleh memberikan, membuka, menzahirkan atau selainnya mendedahkan maklumat atau dokumen tersebut kepada mana-mana orang.
+43. (1) Kecuali sebagaimana yang diperuntukkan dalam
+
+<!-- marginal: untuk -->
+
+Akta ini, tiada seorang pun pengarah atau pegawai sesuatu
+
+<!-- marginal: merahsiakan. -->
+
+depositori pusat atau seseorang ejen depositori diberikuasa, sama ada dalam masa tempoh jawatannya atau dalam masa tempoh pekerjaannya atau selepas itu, dan tiada orang lain yang mempunyai apa-apa cara akses kepada apa-apa maklumat atau dokumen apa jua pun yang berhubungan dengan hal-ehwal mana-mana pendeposit, dan khususnya, yang berhubungan dengan akaun-akaun sekuriti mereka, boleh memberikan, membuka, menzahirkan atau selainnya mendedahkan maklumat atau dokumen tersebut kepada mana-mana orang.
 
 (2) Tiada seorang pun yang mempunyai apa-apa maklumat atau dokumen yang pada pengetahuannya telah didedahkan dengan melanggar subseksyen (1) boleh dengan apa-apa cara jua pun mendedahkannya kepada mana-mana orang lain.
 
 (3) Seseorang yang melanggar seksyen ini adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak rnelebihi tiga juta ringgit atau dipenjarakan selama suatu tempoh yang tidak melebihi lima tahun atau kedua-duanya.
 
-Sekatan-
+<!-- marginal: Sekatan- -->
 
-44. Kecuali sebagaimana yang diperuntukkan dalam sekatan ke subseksyen 13(2), tiada apa-apa jua dalam Akta ini atas pendedahan boleh membenarkan ejen depositori diberikuasa yang maklumat adalah— oleh ejen-ejen depositori diberikuasa.
+44. Kecuali sebagaimana yang diperuntukkan dalam
 
-(a) suatu institusi berlesen sebagaimana ditakrif- Akta 372. kan dalam Akta Bank dan Institusi-Institusi Kewangan 1989; atau
+<!-- marginal: sekatan ke -->
 
-Akta 276.
+subseksyen 13(2), tiada apa-apa jua dalam Akta ini
+
+<!-- marginal: atas -->
+
+<!-- marginal: pendedahan -->
+
+boleh membenarkan ejen depositori diberikuasa yang
+
+<!-- marginal: maklumat -->
+
+adalah—
+
+<!-- marginal: oleh ejen-ejen -->
+
+<!-- marginal: depositori -->
+
+<!-- marginal: diberikuasa. -->
+
+(a) suatu institusi berlesen sebagaimana ditakrif-
+
+<!-- marginal: Akta 372. -->
+
+kan dalam Akta Bank dan Institusi-Institusi Kewangan 1989; atau
+
+<!-- marginal: Akta 276. -->
 
 (b) suatu bank Islam yang dilesenkan di bawah Akta Banklslam 1983,
 
@@ -1290,9 +1840,19 @@ untuk memberikan, membuka, menzahirkan atau selainnya mendedahkan apa-apa maklum
 
 <!-- page 43 -->
 
-Pendedaban-
+<!-- marginal: Pendedaban- -->
 
-45. (1) Tertakluk kepada peruntukan-peruntukan Akta pendedahan ini, tiada apa-apa jua dalam mana-mana undang-undang yang dibenarkan. lain atau seksyen 43 boleh memberikan hak kepada mana-mana orang untuk enggan mendedahkan apa-apa maklumat atau dokumen—
+45. (1) Tertakluk kepada peruntukan-peruntukan Akta
+
+<!-- marginal: pendedahan -->
+
+ini, tiada apa-apa jua dalam mana-mana undang-undang
+
+<!-- marginal: yang -->
+
+<!-- marginal: dibenarkan. -->
+
+lain atau seksyen 43 boleh memberikan hak kepada mana-mana orang untuk enggan mendedahkan apa-apa maklumat atau dokumen—
 
 (a) yang pendeposit, atau wakil dirinya, telah memberikan kebenaran secara bertulis untuk didedahkan;
 
@@ -1314,7 +1874,19 @@ Pendedaban-
 
 (g) bagi maksud membolehkan atau membantu Menteri menjalankan mana-mana kuasa yang diberikan kepadanya oleh Akta ini atau oleh mana-mana undang-undang bertulis yang lain;
 
-(h) bagi maksud membolehkan atau membantu Bank Negara Malaysia menunaikan fungsi- Ord. 61/56. fungsinya di bawah Ordinan Bank Negara Akta 372 Malaysia 1958, Akta Bank dan Institusi-Jnstitusi Akta 276 Kewangan 1989 dan Akta Bank Islam 1983 atau mana-mana undang-undang bertulis yang lain;
+(h) bagi maksud membolehkan atau membantu Bank Negara Malaysia menunaikan fungsi-
+
+<!-- marginal: Ord. 61/56. -->
+
+fungsinya di bawah Ordinan Bank Negara
+
+<!-- marginal: Akta 372 -->
+
+Malaysia 1958, Akta Bank dan Institusi-Jnstitusi
+
+<!-- marginal: Akta 276 -->
+
+Kewangan 1989 dan Akta Bank Islam 1983 atau mana-mana undang-undang bertulis yang lain;
 
 (i) bagi maksud membolehkan atau membantu Pendaftar menunaikan fungsi-fungsinya di bawah Akta ini;
 
@@ -1362,9 +1934,19 @@ adalah melakukan suatu kesalahan.
 
 ## KESALAHAN-KESALAHAN
 
-Pemalsuan
+<!-- marginal: Pemalsuan -->
 
-47. Jika sesuatu depositori pusat atau ejen depositori rekod-rekod diberikuasanya menyimpan atau menyenggarakan suatu atau akaun- akaun. rekod atau akaun yang dikehendaki disimpan atau disenggarakan di bawah mana-mana peruntukan Akta ini melalui sesuatu alat mekanikal, alat elektronik, atau apa- apa alat lain, mana-mana orang yang—
+47. Jika sesuatu depositori pusat atau ejen depositori
+
+<!-- marginal: rekod-rekod -->
+
+diberikuasanya menyimpan atau menyenggarakan suatu
+
+<!-- marginal: atau akaun- -->
+
+<!-- marginal: akaun. -->
+
+rekod atau akaun yang dikehendaki disimpan atau disenggarakan di bawah mana-mana peruntukan Akta ini melalui sesuatu alat mekanikal, alat elektronik, atau apa- apa alat lain, mana-mana orang yang—
 
 (a) merekodkan atau menyimpan, melalui alat itu, maklumat yang dia mengetahui atau patut mengetahui adalah palsu atau mengelirukan dalam sesuatu butir material;
 
@@ -1392,11 +1974,29 @@ merekodkan atau menyimpan maklumat sedemikian—
 
 adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi sepuluh juta ringgit atau dipenjarakan selama suatu tempoh yang tidak melebihi sepuluh tahun atau kedua-duanya.
 
-Pemusnahan,
+<!-- marginal: Pemusnahan, -->
 
-48. (1) Seseorang yang— penyembunyian, pencacatan
+48. (1) Seseorang yang—
 
-(a) memusnahkan, menyembunyikan, mencacatkan dan pengu- bahan rekod- atau mengubah mana-mana rekod atau akaun rekod yang dikehendaki disimpan atau disenggarakan dilarang. di bawah mana-mana peruntukan Akta ini; atau
+<!-- marginal: penyembunyian, -->
+
+<!-- marginal: pencacatan -->
+
+(a) memusnahkan, menyembunyikan, mencacatkan
+
+<!-- marginal: dan pengu- -->
+
+<!-- marginal: bahan rekod- -->
+
+atau mengubah mana-mana rekod atau akaun
+
+<!-- marginal: rekod -->
+
+yang dikehendaki disimpan atau disenggarakan
+
+<!-- marginal: dilarang. -->
+
+di bawah mana-mana peruntukan Akta ini; atau
 
 (b) menghantar atau cuba menghantar atau berkomplot dengan mana-mana orang lain untuk menghantar keluar daripada Malaysia mana- mana rekod atau akaun sedemikian,
 
@@ -1404,9 +2004,19 @@ dengan niat untuk memfraud mana-mana orang, atau untuk menahan, melengahkan atau
 
 <!-- page 48 -->
 
-Pengemukaan
+<!-- marginal: Pengemukaan -->
 
-49. (1) Mana-mana orang yang mengemukakan apa-apa maklumat maklumat yang dia mengetahui adalah palsu atau palsu atau mengelirukan mengelirukan dalam sesuatu butir material atau secara melulu mengemukakan apa-apa maklumat yang adalah palsu atau mengelirukan dalam sesuatu butir material—
+49. (1) Mana-mana orang yang mengemukakan apa-apa
+
+<!-- marginal: maklumat -->
+
+maklumat yang dia mengetahui adalah palsu atau
+
+<!-- marginal: palsu atau -->
+
+<!-- marginal: mengelirukan -->
+
+mengelirukan dalam sesuatu butir material atau secara melulu mengemukakan apa-apa maklumat yang adalah palsu atau mengelirukan dalam sesuatu butir material—
 
 (a) bagi maksud, atau berkaitan dengan, apa-apa permohonan di bawah Akta ini; atau
 
@@ -1416,11 +2026,29 @@ adalah melakukan suatu kesalahan.
 
 (2) Mana-mana orang yang melakukan suatu kesalahan di bawah seksyen ini, apabila disabitkan, boleh didenda tidak melebihi satu juta ringgit atau dipenjarakan selama suatu tempoh yang tidak melebihi tiga tahun atau kedua- duanya.
 
-Kesalahan-
+<!-- marginal: Kesalahan- -->
 
-50. Jika sesuatu kesalahan terhadap Akta ini telah kesalahan dilakukan oleh sesuatu pertubuhan perbadanan, mana- oleh pertubuhan- mana orang yang pada masa perlakuan kesalahan itu pertubuhan adalah seorang pengarah, pegawai eksekutif atau perbadanan. setiausaha pertubuhan perbadanan itu atau berupa sebagai bertindak atas sifat sedemikian, hendaklah disifatkan sebagai telah melakukan kesalahan itu melainkan jika dia membuktikan bahawa kesalahan itu telah dilakukan tanpa persetujuan atau pembiarannya dan bahawa dia telah menjalankan segala usaha wajar untuk menghalang perlakuan kesalahan itu, sebagaimana yang patut di- jalankan olehnya, memandangkan kepada jenis fungsi- fungsinya atas sifat itu dan kepada segala hal-keadaan.
+50. Jika sesuatu kesalahan terhadap Akta ini telah
 
-Penalti am.
+<!-- marginal: kesalahan -->
+
+dilakukan oleh sesuatu pertubuhan perbadanan, mana-
+
+<!-- marginal: oleh -->
+
+<!-- marginal: pertubuhan- -->
+
+mana orang yang pada masa perlakuan kesalahan itu
+
+<!-- marginal: pertubuhan -->
+
+adalah seorang pengarah, pegawai eksekutif atau
+
+<!-- marginal: perbadanan. -->
+
+setiausaha pertubuhan perbadanan itu atau berupa sebagai bertindak atas sifat sedemikian, hendaklah disifatkan sebagai telah melakukan kesalahan itu melainkan jika dia membuktikan bahawa kesalahan itu telah dilakukan tanpa persetujuan atau pembiarannya dan bahawa dia telah menjalankan segala usaha wajar untuk menghalang perlakuan kesalahan itu, sebagaimana yang patut di- jalankan olehnya, memandangkan kepada jenis fungsi- fungsinya atas sifat itu dan kepada segala hal-keadaan.
+
+<!-- marginal: Penalti am. -->
 
 51. Seseorang yang melanggar atau gagal mematuhi mana-mana peruntukan Akta ini atau mana-mana peraturan yang dibuat di bawahnya adalah melakukan suatu kesalahan di bawah Akta ini dan, jika tiada penalti diperuntukkan dengan nyata, apabila disabitkan, boleh didenda tidak melebihi dua puluh lima ribu ringgit atau dipenjarakan selama suatu tempoh yang tidak melebihi enam bulan atau kedua-duanya.
 
@@ -1516,9 +2144,27 @@ penjagaan rekod-rekod atau akaun-akaun itu dan untuk menyatakan, sepanjang penge
 
 (6) Seseorang yang, tanpa alasan yang sah, enggan atau gagal mematuhi suatu kehendak yang dibuat di bawah seksyen ini adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi lima ratus ribu ringgit, atau dipenjarakan selama suatu tempoh yang tidak melebihi dua tahun atau kedua-duanya, dan dalam hal suatu kesalahan yang berterusan, hendaklah, sebagai tambahan, boleh dikenakan hukuman denda harian yang tidak melebihi satu ribu ringgit bagi tiap-tiap hari yang kesalahan itu berterusan selepas hari keempat belas dari tarikh orang tersebut dikehendaki mematuhi kehendak tersebut.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-54. (1) Jika Pendaftar mempunyai alasan-alasan Pendaftar munasabah bagi mengesyaki bahawa suatu kesalahan di untuk memasuki dan bawah Akta ini telah atau sedang dilakukan atau menggeledah bahawa terdapat di mana-mana premis tertentu apa-apa premis, dsb. rekod atau akaun yang pengemukaannya
+54. (1) Jika Pendaftar mempunyai alasan-alasan
+
+<!-- marginal: Pendaftar -->
+
+munasabah bagi mengesyaki bahawa suatu kesalahan di
+
+<!-- marginal: untuk -->
+
+<!-- marginal: memasuki dan -->
+
+bawah Akta ini telah atau sedang dilakukan atau
+
+<!-- marginal: menggeledah -->
+
+bahawa terdapat di mana-mana premis tertentu apa-apa
+
+<!-- marginal: premis, dsb. -->
+
+rekod atau akaun yang pengemukaannya
 
 <!-- marginal: telah -->
 
@@ -1542,7 +2188,7 @@ mengendalikan keseluruhan atau mana- mana bahagian sistem komputer itu; dan
 
 (1) adalah sebagai tambahan kepada, dan bukannya sebagai mengurangkan, mana-mana kuasa lain yang diberikan di bawah Akta ini atau oleh mana-mana undang- undang bertulis yang lain.
 
-Penghalangan.
+<!-- marginal: Penghalangan. -->
 
 55. Seseorang yang—
 
@@ -1552,9 +2198,17 @@ Penghalangan.
 
 adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi lima ratus ribu ringgit atau dipenjarakan selama suatu tempoh yang tidak melebihi dua tahun atau kedua-duanya.
 
-Pendedahan
+<!-- marginal: Pendedahan -->
 
-56. (1) Pendaftar boleh menghendaki sesuatu depositori kepada pusat atau ejen depositori diberikuasanya untuk Pendaftar. mendedahkan kepadanya, berhubungan dengan apa-apa pemerolehan atau pelupusan sekuriti-sekuriti telah- deposit, apa-apa maklumat termasuk nama orang yang
+56. (1) Pendaftar boleh menghendaki sesuatu depositori
+
+<!-- marginal: kepada -->
+
+pusat atau ejen depositori diberikuasanya untuk
+
+<!-- marginal: Pendaftar. -->
+
+mendedahkan kepadanya, berhubungan dengan apa-apa pemerolehan atau pelupusan sekuriti-sekuriti telah- deposit, apa-apa maklumat termasuk nama orang yang
 
 <!-- page 54 -->
 
@@ -1564,15 +2218,41 @@ daripadanya atau melaluinya atau bagi pihaknya sekuriti- sekuriti itu telah dipe
 
 (3) Seseorang yang, tanpa alasan munasabah, gagal mematuhi kehendak Pendaftar di bawah subseksyen (1) atau (2) adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama suatu tempoh yang tidak melebihi satu tahun atau kedua-duanya.
 
-Penyiasatan
+<!-- marginal: Penyiasatan -->
 
-57. Jika Pendaftar mempunyai sebab untuk mengesyaki oleh bahawa seseorang itu telah melakukan suatu kesalahan di Pendaftar. bawah sesuatu peruntukan Akta ini atau akan melakukan suatu perbuatan yang, jika dilakukan, adalah menjadi suatu kesalahan di bawah sesuatu peruntukan Akta ini, dia boleh membuat penyiasatan yang difikirkannya suaimanfaat bagi pentadbiran wajar Akta ini.
+57. Jika Pendaftar mempunyai sebab untuk mengesyaki
 
-Kuasa
+<!-- marginal: oleh -->
 
-58. (1) Jika— Mahkamah untuk
+bahawa seseorang itu telah melakukan suatu kesalahan di
 
-(a) atas permohonan Pendaftar, adalah ternyata membuat kepada Mahkamah Tinggi bahawa seseorang— perintah- perintah (i) telah melakukan suatu kesalahan di bawah tertentu. Akta ini berhubungan dengan apa-apa urusniaga sekuriti-sekuriti telah-deposit; atau
+<!-- marginal: Pendaftar. -->
+
+bawah sesuatu peruntukan Akta ini atau akan melakukan suatu perbuatan yang, jika dilakukan, adalah menjadi suatu kesalahan di bawah sesuatu peruntukan Akta ini, dia boleh membuat penyiasatan yang difikirkannya suaimanfaat bagi pentadbiran wajar Akta ini.
+
+<!-- marginal: Kuasa -->
+
+58. (1) Jika—
+
+<!-- marginal: Mahkamah -->
+
+<!-- marginal: untuk -->
+
+(a) atas permohonan Pendaftar, adalah ternyata
+
+<!-- marginal: membuat -->
+
+kepada Mahkamah Tinggi bahawa seseorang—
+
+<!-- marginal: perintah- -->
+
+<!-- marginal: perintah -->
+
+(i) telah melakukan suatu kesalahan di bawah
+
+<!-- marginal: tertentu. -->
+
+Akta ini berhubungan dengan apa-apa urusniaga sekuriti-sekuriti telah-deposit; atau
 
 <!-- page 55 -->
 
@@ -1606,13 +2286,33 @@ Mahkamah Tinggi boleh, tanpa menjejaskan apa-apa perintah yang ia berhak membuat
 
 AM
 
-Penyimpanan
+<!-- marginal: Penyimpanan -->
 
-59. Sesuatu depositori pusat dan ejen-ejen depositori rekod-rekod diberikuasanya hendaklah menyimpan semua rekod dan dan akaun- akaun. akaun untuk suatu tempoh selama tujuh tahun, sama ada atau tidak mereka terhenti menjalankan urusan mereka sebelum berakhirnya tempoh tujuh tahun itu.
+59. Sesuatu depositori pusat dan ejen-ejen depositori
 
-Kuasa
+<!-- marginal: rekod-rekod -->
 
-60. Pendaftar boleh, tanpa memulakan prosiding terhadap Pendaftar mana-mana orang bagi sesuatu kesalahan di bawah Akta untuk mengkompaun. ini selain daripada kesalahan-kesalahan di bawah subseksyen 3(2), 13(4), 43(3) dan 46(3) dan seksyen 47 dan 48, mengkompaun mana-mana kesalahan dengan menuntut dan menerima daripada orang itu sejumlah wang yang tidak melebihi lima puluh peratus daripada amaun
+diberikuasanya hendaklah menyimpan semua rekod dan
+
+<!-- marginal: dan akaun- -->
+
+<!-- marginal: akaun. -->
+
+akaun untuk suatu tempoh selama tujuh tahun, sama ada atau tidak mereka terhenti menjalankan urusan mereka sebelum berakhirnya tempoh tujuh tahun itu.
+
+<!-- marginal: Kuasa -->
+
+60. Pendaftar boleh, tanpa memulakan prosiding terhadap
+
+<!-- marginal: Pendaftar -->
+
+mana-mana orang bagi sesuatu kesalahan di bawah Akta
+
+<!-- marginal: untuk -->
+
+<!-- marginal: mengkompaun. -->
+
+ini selain daripada kesalahan-kesalahan di bawah subseksyen 3(2), 13(4), 43(3) dan 46(3) dan seksyen 47 dan 48, mengkompaun mana-mana kesalahan dengan menuntut dan menerima daripada orang itu sejumlah wang yang tidak melebihi lima puluh peratus daripada amaun
 
 <!-- page 57 -->
 
@@ -1622,17 +2322,25 @@ denda maksimum (termasuk dehda harian, jika ada) yang boleh dikenakan ke atas or
 
 (b) jika orang itu tidak membayar amaun yang dituntut itu dalam masa empat belas hari, Pendaftar boleh menyebabkan prosiding dimulakan berhubungan dengan kesalahan itu.
 
-Pendakwaan
+<!-- marginal: Pendakwaan -->
 
-61. Pendakwaan bagi mana-mana kesalahan terhadap jenayah. mana-mana peruntukan Akta ini boleh dijalankan oleh Pendaftar atau oleh mana-mana pegawai yang diberikuasa secara bertulis oleh Pendaftar.
+61. Pendakwaan bagi mana-mana kesalahan terhadap
 
-Indemniti.
+<!-- marginal: jenayah. -->
+
+mana-mana peruntukan Akta ini boleh dijalankan oleh Pendaftar atau oleh mana-mana pegawai yang diberikuasa secara bertulis oleh Pendaftar.
+
+<!-- marginal: Indemniti. -->
 
 62. Tiada seorang pun boleh didakwa dalam mana-mana mahkamah bagi apa-apa perbuatan atau perkara yang dilakukan, atau diperintahkan supaya dilakukan, atau ditinggalkan daripada dilakukan, olehnya dengan suci hati dan dengan maksud menjalankan apa-apa kuasa atau melaksanakan apa-apa tugas, yang diberikan atau dikenakan ke atasnya oleh atau di bawah Akta ini.
 
-Peraturan-
+<!-- marginal: Peraturan- -->
 
-63. (1) Menteri boleh, dari semasa ke semasa, membuat peraturan. peraturan-peraturan yang perlu atau suaimanfaat bagi menjalankan atau mencapai tujuan-tujuan dan maksud- maksud Akta ini.
+63. (1) Menteri boleh, dari semasa ke semasa, membuat
+
+<!-- marginal: peraturan. -->
+
+peraturan-peraturan yang perlu atau suaimanfaat bagi menjalankan atau mencapai tujuan-tujuan dan maksud- maksud Akta ini.
 
 (2) Tanpa menjejaskan keluasan subseksyen (1), peraturan-peraturan bolehlah dibuat bagi—
 
@@ -1668,7 +2376,11 @@ Peraturan-
 
 (n) menetapkan maksud-maksud yang baginya, dan cara yang mengikutnya, Pendaftar boleh menjalankan pengiraan stok skrip-skrip yang dipegang dalam penjagaan oleh atau atas nama, sesuatu depositori pusat atau syarikat-syarikat namaannya;
 
-(o) menetapkan semua perkara berhubungan dengan penyenggaraan insurans, dan penubuhan dan penyenggaraan kumpulan-kumpulan wang pampasan, oleh sesuatu depositori pusat, syarikat-syarikat namaannya dan ejen-ejen depositori diberikuasanya bagi maksud menyelesaikan tuntutan-tuntutan oleh pendeposit-pendeposit terhadap depositori pusat, syarikat namaan dan ejen depositori diberikuasa itu;
+(o) menetapkan semua perkara berhubungan dengan penyenggaraan insurans, dan penubuhan dan penyenggaraan kumpulan-kumpulan wang pampasan, oleh sesuatu depositori pusat, syarikat-syarikat namaannya dan ejen-ejen depositori diberikuasanya bagi maksud menyelesaikan tuntutan-tuntutan
+
+<!-- marginal: oleh -->
+
+pendeposit-pendeposit terhadap depositori pusat, syarikat namaan dan ejen depositori diberikuasa itu;
 
 (p) perkara-perkara berhubungan dengan penge- luaran sijil-sijil jumbo di bawah seksyen 20;
 
@@ -1682,31 +2394,117 @@ Peraturan-
 
 (t) semua perkara atau benda yang dikehendaki atau dibenarkan oleh Akta ini untuk ditetapkan atau yang perlu atau suaimanfaat untuk melaksana- kan Akta ini.
 
-Sebutan
+<!-- marginal: Sebutan -->
 
-64. Bagi maksud-maksud pemakaian Akta Syarikat mengenai 1965 berhubungan dengan mana-mana sekuriti telah penerima umpukan deposit, sebutan mengenai seseorang penerima umpukan dalam Akta dalam Akta itu hendaklah ditafsirkan sebagai sebutan Syarikat 1965. mengenai seseorang pendeposit yang, menurut kuasa seksyen 35 Akta ini, adalah disifatkan sebagai seorang anggota syarikat yang membuat pengumpukan itu.
+64. Bagi maksud-maksud pemakaian Akta Syarikat
 
-Seksyen 69A
+<!-- marginal: mengenai -->
 
-65. Walau apa pun seksyen 69A Akta Syarikat 1965, Akta Syarikat Pendaftar tidak boleh, kecuali sebagaimana yang
+1965 berhubungan dengan mana-mana sekuriti telah
+
+<!-- marginal: penerima -->
+
+<!-- marginal: umpukan -->
+
+deposit, sebutan mengenai seseorang penerima umpukan
+
+<!-- marginal: dalam Akta -->
+
+dalam Akta itu hendaklah ditafsirkan sebagai sebutan
+
+<!-- marginal: Syarikat 1965. -->
+
+mengenai seseorang pendeposit yang, menurut kuasa seksyen 35 Akta ini, adalah disifatkan sebagai seorang anggota syarikat yang membuat pengumpukan itu.
+
+<!-- marginal: Seksyen 69A -->
+
+65. Walau apa pun seksyen 69A Akta Syarikat 1965,
+
+<!-- marginal: Akta Syarikat -->
+
+Pendaftar tidak boleh, kecuali sebagaimana yang
 
 1965. diperuntukkan di bawah Akta ini, menghendaki sesuatu depositori pusat, syarikat namaannya atau ejen depositori diberikuasanya untuk memberikan maklumat dan butir- butir pemegangan syer yang disebutkan dalam seksyen itu.
 
-Sebutan
+<!-- marginal: Sebutan -->
 
-66. (1) Bagi maksud-maksud pemakaian seksyen 102 mengenai Akta Syarikat 1965 berhubungan dengan mana-mana pemunya dalam seksyen sekuriti telah-deposit, sebutan mengenai seseorang 102 Akta pemunya dalam seksyen tersebut hendaklah ditafsirkan Syarikat 1965. sebagai sebutan mengenai sesuatu depositori pusat walaupun pendaftaran sekuriti itu di atas nama depositori itu atau syarikat namaannya di bawah seksyen 18 Akta ini masih belum selesai.
+66. (1) Bagi maksud-maksud pemakaian seksyen 102
 
-(2) Subseksyen 102 (2) Akta Syarikat 1965 tidaklah terpakai bagi sijil-sijil atau dokumen-dokumen yang telahpun didaftarkan atas nama depositori pusat itu atau syarikat namaannya.
+<!-- marginal: mengenai -->
+
+Akta Syarikat 1965 berhubungan dengan mana-mana
+
+<!-- marginal: pemunya -->
+
+<!-- marginal: dalam seksyen -->
+
+sekuriti telah-deposit, sebutan mengenai seseorang
+
+<!-- marginal: 102 Akta -->
+
+pemunya dalam seksyen tersebut hendaklah ditafsirkan
+
+<!-- marginal: Syarikat 1965. -->
+
+sebagai sebutan mengenai sesuatu depositori pusat walaupun pendaftaran sekuriti itu di atas nama depositori itu atau syarikat namaannya di bawah seksyen 18 Akta ini masih belum selesai.
+
+(2) Subseksyen 102 (2) Akta Syarikat 1965
+
+<!-- marginal: tidaklah -->
+
+terpakai bagi sijil-sijil atau dokumen-dokumen yang telahpun didaftarkan atas nama depositori pusat itu atau syarikat namaannya.
 
 <!-- page 61 -->
 
-Sebutan
+<!-- marginal: Sebutan -->
 
-67. Bagi maksud-maksud pemakaian subseksyen 103 (3) mengenai Akta Syarikat 1965 berhubungan dengan mana-mana syarikat dalam seksyen 103 sekuriti telah-deposit, sebutan mengenai sesuatu syarikat Akta Syarikat dalam seksyen tersebut hendaklah ditafsirkan sebagai 1965. sebutan mengenai sesuatu depositori pusat, atau ejen depositori diberikuasa, yang dengannya atau melaluinya si mati itu mempunyai suatu akaun sekuriti.
+67. Bagi maksud-maksud pemakaian subseksyen 103 (3)
 
-Sebutan
+<!-- marginal: mengenai -->
 
-68. Bagi maksud-maksud pemakaian perenggan mengenai 166(l)(a) dan 166(l)(c) Akta Syarikat 1965, sebutan- anggota- anggota sebutan mengenai anggota-anggota sesuatu syarikat awam syarikat awam dalam perenggan-perenggan tersebut hendaklah dalam seksyen ditafsirkan sebagai termasuklah pendeposit-pendeposit 166 Akta Syarikat 1965. yang disifatkan sebagai anggota-anggota syarikat itu menurut kuasa seksyen 35 Akta ini.
+Akta Syarikat 1965 berhubungan dengan mana-mana
+
+<!-- marginal: syarikat dalam -->
+
+<!-- marginal: seksyen 103 -->
+
+sekuriti telah-deposit, sebutan mengenai sesuatu syarikat
+
+<!-- marginal: Akta Syarikat -->
+
+dalam seksyen tersebut hendaklah ditafsirkan sebagai
+
+<!-- marginal: 1965. -->
+
+sebutan mengenai sesuatu depositori pusat, atau ejen depositori diberikuasa, yang dengannya atau melaluinya si mati itu mempunyai suatu akaun sekuriti.
+
+<!-- marginal: Sebutan -->
+
+68. Bagi maksud-maksud pemakaian perenggan
+
+<!-- marginal: mengenai -->
+
+166(l)(a) dan 166(l)(c) Akta Syarikat 1965, sebutan-
+
+<!-- marginal: anggota- -->
+
+<!-- marginal: anggota -->
+
+sebutan mengenai anggota-anggota sesuatu syarikat awam
+
+<!-- marginal: syarikat awam -->
+
+dalam perenggan-perenggan tersebut hendaklah
+
+<!-- marginal: dalam seksyen -->
+
+ditafsirkan sebagai termasuklah pendeposit-pendeposit
+
+<!-- marginal: 166 Akta -->
+
+<!-- marginal: Syarikat 1965. -->
+
+yang disifatkan sebagai anggota-anggota syarikat itu menurut kuasa seksyen 35 Akta ini.
 
 ## HURAIAN
 

@@ -26,24 +26,36 @@ Purpose Title
 
 <!-- marginal: (RM) -->
 
-B. 4 Election Commission 22.010,000
+B. 4 Election Commission
+
+<!-- marginal: 22.010,000 -->
 
 B. 7 Prime Minister's Department
 
 <!-- marginal: 4,900,000 -->
 
-B. 26 Ministry of Education 271,283,800
+B. 26 Ministry of Education
 
-B. 29 Treasury General Services 991.400,000
+<!-- marginal: 271,283,800 -->
 
-B. 33 Ministry of Works 204.647,300
+B. 29 Treasury General Services
 
-B. 48 Ministry of Rural Development 43.558,900
+<!-- marginal: 991.400,000 -->
+
+B. 33 Ministry of Works
+
+<!-- marginal: 204.647,300 -->
+
+B. 48 Ministry of Rural Development
+
+<!-- marginal: 43.558,900 -->
 
 ## TOTAL
 
-1,537,800,000
+<!-- marginal: 1,537,800,000 -->
 
 ## EXPLANATORY STATEMENT
 
-This Bill seeks to provide for the issue from the Consolidated Fund of a sum of one billion five hundred and thirty-seven million and eight hundred thousand ringgit (RM1.537,800,000) for the services and purposes as specified in the Schedule for the year 2001. [PN(U2)2206]
+This Bill seeks to provide for the issue from the Consolidated Fund of a sum of one billion five hundred and thirty-seven million and eight hundred thousand ringgit (RM1.537,800,000) for the services and purposes as specified in the Schedule for the year 2001.
+
+<!-- marginal: [PN(U2)2206] -->

@@ -1,0 +1,338 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-17-2017",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_16"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Pencegahan Jenayah (Pindaan) 2017"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 12 Akta ibu dipinda dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) The Registrar shall keep a Register for the purposes of this Act, in which shall be entered the name of every person who was the subject of the inquiry against whom the Board has reversed the finding under paragraph 10a(1)(b) or confirmed the finding under paragraph 10 a(2)(a) together with such other particulars as may be prescribed by the Minister.”. Pindaan seksyen 15a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_11__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula seksyen 15a yang sedia ada sebagai seksyen 15b; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan sebelum seksyen 15b yang dinomborkan semula itu seksyen yang berikut: “Special procedure relating to electronic monitoring device by order of the Board 15a. (1) Upon the making of an order by the Board under paragraph 15(2)(l), the police officer shall explain the operation of the electronic monitoring device and the terms and conditions of the electronic monitoring device to the person. (2) The person shall sign a form as specified in the Fourth Schedule and comply with all the terms and conditions as specified in the form and deposit the form with the officer in charge of the police district. (3) The person shall be attached with an electronic monitoring device by a police officer. (4) The person shall report to the nearest police station at such time as specified in the form. (5) Any person who fails to comply with the terms and conditions of the electronic monitoring device under subsection (2) shall be guilty of an offence and liable to imprisonment for a term not exceeding three years. (6) Any person who tampers with, damages, destroys or loses the electronic monitoring device or any other device used in relation to the operation of the electronic monitoring device shall be guilty of an offence and liable to imprisonment for a term not exceeding three years, and such person shall be liable to pay for any damage to or loss of the electronic monitoring device or any other device used in relation to the operation of the electronic monitoring device, and the court may direct that in default of payment for the damage or loss the person shall suffer imprisonment for a term not exceeding three years. (7) Upon expiry of the period referred to in the order, the person shall report to the nearest police station for removal of the electronic monitoring device.”. Pindaan seksyen 19a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 19a Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memotong perkataan “, after considering the report of the Inquiry Officer submitted under section 10 and the outcome of any review under section 11,”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (2). Pindaan seksyen 19b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subperenggan 19b(a)(i) Akta ibu dipinda dengan menggantikan perkataan “before” dengan perkataan “after”. Seksyen baharu 19h"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dalam Bahagian IVa dengan memasukkan selepas seksyen 19g seksyen yang berikut: “Board’s power to revoke supervision order, detention order, suspended detention order or direction for extension of any such order 19h. (1) Notwithstanding anything in this Act, the Board may at any time revoke any supervision order made under section 15, any detention order made under section 19a, any suspended detention order made under section 19c or any direction for the extension of the duration of any such order, if the Board deems it just or fit to do so. (2) Any revocation under subsection (1) shall be without prejudice to the validity of the order or direction before its revocation or to anything done thereunder, or to the power of the Board to make a fresh supervision order under section 15, a fresh detention order under section 19a or a fresh direction in respect of the person against whom the order or direction which is revoked was made or given.”. Pindaan seksyen 21"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 21(3)(a) Akta ibu dipinda dengan menggantikan perkataan “, 10 or 11” dengan perkataan “or 10a”. Jadual Keempat baharu"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas Jadual Ketiga Jadual yang berikut: “FOURTH SCHEDULE [Section 15a] FORM ELECTRONIC MONITORING DEVICE BY ORDER OF THE PREVENTION OF CRIME BOARD Dated …………………….. 1. Name:…………………………………………………….........................….. 2. Case No.:………………………………………………...........……………… 3. Identity Card No.:…………........................................................................ 4. Address:…………..................................................................……..……… 5. Telephone No.:………..............................………………………................. 6. Family members to be contacted:………...........................……………….. 7. Period to be attached with electronic monitoring device (“device”):………….. 8. Terms and conditions: (a) to report to the ……………. police station at/for every………………; (b) understands that all movements will be tracked and retained as an official record; (c) agrees to be required to report for device equipment checks if necessary; (d) to notify a police officer if there is any change of address; (e) to allow inspections of the device by a police officer; (f) to report to the …………........ police station for removal of the device; (g) to return all the device equipment to a police officer; (h) to submit to procedures required by a police officer; (i) to maintain the device as instructed by a police officer including to ensure the device is charged and activated at all times; (j) to install the beacon in the house or premises where he is staying; (k) to ensure the device is not lost, damaged, tampered with or destroyed; (l) to report immediately to a police officer if the device is lost, damaged, tampered with or destroyed; (m) to comply with any directions of a police officer; (n) to comply with any other conditions as the Board may determine. 9. Failure to comply with the terms and conditions as stated in this Form is an offence under subsection 15a(5) of the Prevention of Crime Act 1959. I hereby agree to and shall comply with the terms and conditions as stated in this Form. …………………………….. ( ) Terms and conditions have been explained to the subject by: Signature: ………………………………… Name: …………………………………….. Police No.: ……………………………….. Rank: ……………………………………… ”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pencegahan Jenayah (Pindaan) 2017."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Seksyen baharu 4a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Pencegahan Jenayah 1959 [Akta 297], yang disebut “Akta ibu” dalam Akta ini, dipinda dengan memasukkan selepas seksyen 4 seksyen yang berikut: “Report of investigation to be submitted to Inquiry Officer, etc. 4a. The police officer making an investigation pertaining to a person arrested under subsection 3(1) shall cause a copy of the complete report of the investigation to be submitted to an Inquiry Officer and the Board, within such period as may be prescribed by the Minister.”. Pemotongan seksyen 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 6. Pindaan seksyen 7a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 7a Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan memasukkan selepas perkataan “terms and conditions of the electronic monitoring device” perkataan “as specified in the form as specified in the Third Schedule”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5), dengan memasukkan selepas perkataan “electronic monitoring device” perkataan “as specified in the form as specified in the Third Schedule”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (7) dengan subseksyen yang berikut: “(7) Any person who tampers with, damages, destroys or loses the electronic monitoring device or any other device used in relation to the operation of the electronic monitoring device shall be guilty of an offence and liable to imprisonment for a term not exceeding three years, and such person shall be liable to pay for any damage to or loss of the electronic monitoring device or any other device used in relation to the operation of the electronic monitoring device, and the court may direct that in default of payment for the damage or loss the person shall suffer imprisonment for a term not exceeding three years.”. Pindaan seksyen 7b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 7b(2) Akta ibu dipinda dengan memotong perkataan “once for another period of three years”. Pindaan seksyen 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 9(1) Akta ibu dipinda dengan menggantikan perkataan “When any person is brought before an Inquiry Officer under section 6, the Inquiry Officer” dengan perkataan “Upon receiving a complete report of the investigation under section 4a, an Inquiry Officer”. Pindaan seksyen 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 10 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1) dan (2), dengan memotong perkataan “, and shall forward a copy of his finding to the officer having custody of the person, who shall forthwith serve a copy of the finding of the Inquiry Officer on that person”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (3) dan (4). Seksyen baharu 10a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 10 seksyen yang berikut: “Decision of the Board 10a. (1) Where the Board, after considering the finding of the Inquiry Officer submitted under subsection 10(1) and the complete report of the investigation submitted under section 4a, is satisfied that— (a) there are no sufficient grounds for believing that the person is a member of any of the registrable categories, the Board shall confirm the finding; or (b) there are reasonable grounds for believing that the person is a member of any of the registrable categories, the Board shall reverse the finding. (2) Where the Board, after considering the finding of the Inquiry Officer submitted under subsection 10(2) and the complete report of the investigation submitted under section 4a, is satisfied that— (a) there are reasonable grounds for believing that the person is a member of any of the registrable categories, the Board shall confirm the finding; or (b) there are no sufficient grounds for believing that the person is a member of any of the registrable categories, the Board shall reverse the finding. (3) If the Board makes a decision under paragraph (1)(b) or (2)(a), the Board shall proceed in accordance with Parts III, IV and IVa of this Act. (4) If the Board makes a decision under paragraph (1)(a) or (2)(b), and the person who was the subject of the inquiry is still in custody, the Board shall direct any person having the custody of that person, within twenty-four hours from the receipt of the direction, to produce the person before a Sessions Court Judge, who shall thereupon discharge the order of remand and, if there are no other grounds on which the person is lawfully detained, shall order his immediate release.”. Pemotongan seksyen 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 11. Pindaan seksyen 12"
+      }
+    }
+  ]
+}

@@ -4,27 +4,35 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
-1. Short title, commencement and application 2. Interpretation
+1. Short title, commencement and application
 
-## Part II
+2. Interpretation
+
+## PART II
 
 ## ADMINISTRATION
 
-3. Registrar, Deputy Registrar and Assistant Registrar 4. Protection of Registrar, Deputy Registrar, Assistant Registrar and other officers 5. Geographical Indications Office and other branch offices
+3. Registrar, Deputy Registrar and Assistant Registrar
 
-## Part III
+4. Protection of Registrar, Deputy Registrar, Assistant Registrar and other officers
+
+5. Geographical Indications Office and other branch offices
+
+## PART III
 
 ## REGISTER OF GEOGRAPHICAL INDICATIONS AND
 
 ## RECORD OF REGISTRAR
 
-6. Register of Geographical Indications and record of Registrar 7. Inspection of Register
+6. Register of Geographical Indications and record of Registrar
 
-## Part IV
+7. Inspection of Register
+
+## PART IV
 
 ## REGISTRATION OF GEOGRAPHICAL INDICATIONS
 
@@ -32,7 +40,11 @@
 
 Application for registration of geographical indication
 
-8. Application for registration of geographical indication 9. Registration only in respect of goods falling within categories of goods
+8. Application for registration of geographical indication
+
+9. Registration only in respect of goods falling within categories of goods
+
+<!-- marginal: WJW21/1500 BI.indd 1 -->
 
 <!-- marginal: 06/12/2021 5:30 PM -->
 
@@ -74,7 +86,7 @@ Registration
 
 17. Registration of geographical indication
 
-## Part V
+## PART V
 
 ## PERIOD AND RENEWAL OF REGISTRATION OF
 
@@ -88,7 +100,7 @@ Registration
 
 <!-- page 3 -->
 
-## Part VI
+## PART VI
 
 ## CORRECTION AND CANCELLATION
 
@@ -102,7 +114,7 @@ Registration
 
 24. Cancellation of registration of any variant
 
-## Part VII
+## PART VII
 
 ## EFFECTS OF REGISTERED GEOGRAPHICAL INDICATION
 
@@ -128,7 +140,7 @@ Registration
 
 33. Privileged communications with registered geographical indication agent
 
-## Part IX
+## PART IX
 
 ## OFFENCE
 
@@ -142,11 +154,13 @@ Registration
 
 38. Offence relating to disobedience to summons or refusal to give evidence
 
+<!-- marginal: WJW21/1500 BI.indd 3 -->
+
 <!-- marginal: 06/12/2021 5:30 PM -->
 
 <!-- page 4 -->
 
-## Part X
+## PART X
 
 ## INVESTIGATION AND ENFORCEMENT
 
@@ -226,7 +240,7 @@ Powers of arrest, search, seizure, etc.
 
 68. Protection of Controller, Deputy Controller and Assistant Controller and other persons
 
-## Part XI
+## PART XI
 
 ## LEGAL PROCEEDINGS IN COURT, COSTS AND EVIDENCE
 
@@ -246,13 +260,15 @@ Powers of arrest, search, seizure, etc.
 
 76. Electronic form, etc., certified by Registrar admissible in evidence
 
-## Part XII
+## PART XII
 
 ## PROTECTION FOR GEOGRAPHICAL INDICATION
 
 77. Institution of proceedings against certain uses of geographical indication
 
 78. Homonymous geographical indication
+
+<!-- marginal: WJW21/1500 BI.indd 5 -->
 
 <!-- marginal: 06/12/2021 5:30 PM -->
 
@@ -282,7 +298,7 @@ Exceptions to registered geographical indication
 
 84. Exception for prior uses of registered geographical indication and trademark
 
-## Part XIV
+## PART XIV
 
 ## MISCELLANEOUS AND GENERAL
 
@@ -320,15 +336,13 @@ Exceptions to registered geographical indication
 
 <!-- page 7 -->
 
-## Part XV
+## PART XV
 
 ## REPEAL, SAVING AND TRANSITIONAL
 
-100. Repeal, saving and transitional
+100. Repeal, saving and transitional 101. Guidelines, etc., on transitional matters
 
-101. Guidelines, etc., on transitional matters
-
-## Schedule
+## SCHEDULE
 
 <!-- marginal: 06/12/2021 5:30 PM -->
 
@@ -346,7 +360,7 @@ An Act to provide for the protection and registration of geographical indication
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -357,6 +371,8 @@ ENACTED by the Parliament of Malaysia as follows:
 (2) This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette and the Minister may appoint different dates for the coming into operation of different parts or provisions of this Act.
 
 (3) This Act shall apply to any interested person of geographical indications whether or not registered under this Act unless expressly provided otherwise.
+
+<!-- marginal: WJW21/1500 BI.indd 9 -->
 
 <!-- marginal: 06/12/2021 5:30 PM -->
 
@@ -422,6 +438,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “Assistant Registrar” means a person appointed to be an Assistant Registrar under subsection 3(3);
 
+<!-- marginal: WJW21/1500 BI.indd 11 -->
+
 <!-- marginal: 06/12/2021 5:30 PM -->
 
 <!-- page 12 -->
@@ -464,7 +482,7 @@ and has the responsibility for the geographical indication in question;
 
 “variant” means any variant of a geographical indication constituting the geographical indication, and includes any translation, transliteration or other variation of the indication.
 
-## Part II
+## PART II
 
 ## ADMINISTRATION
 
@@ -477,6 +495,8 @@ and has the responsibility for the geographical indication in question;
 (3) The Corporation may appoint, on such terms and conditions as the Corporation may determine, from amongst persons in the employment of the Corporation, such number of Deputy Registrars of Geographical Indications, Assistant Registrars of Geographical Indications and other officers as may be necessary for the proper administration of this Act.
 
 (4) Subject to the general direction and control of the Registrar and to such conditions or restrictions as may be imposed by the Registrar, a Deputy Registrar or an Assistant Registrar may exercise any power of the Registrar under this Act.
+
+<!-- marginal: WJW21/1500 BI.indd 13 -->
 
 <!-- marginal: 06/12/2021 5:30 PM -->
 
@@ -510,7 +530,7 @@ if the act was ordered or done in good faith and in a reasonable belief that it 
 
 (4) All communications with the Geographical Indications Office shall be in the national language or English language.
 
-## Part III
+## PART III
 
 ## REGISTER OF GEOGRAPHICAL INDICATIONS AND
 
@@ -534,11 +554,13 @@ if the act was ordered or done in good faith and in a reasonable belief that it 
 
 (2) Subject to the conditions in subsection (1), certified copies or extracts of any entry in the Register sealed with the seal of the Registrar shall be given to any person upon application in the form as determined by the Registrar together with payment of the prescribed fee.
 
+<!-- marginal: WJW21/1500 BI.indd 15 -->
+
 <!-- marginal: 06/12/2021 5:30 PM -->
 
 <!-- page 16 -->
 
-## Part IV
+## PART IV
 
 ## REGISTRATION OF GEOGRAPHICAL INDICATIONS
 
@@ -600,6 +622,8 @@ Grounds for refusal of registration
 
 (f) the goods does not originate from the country, region or locality indicated in the application for the registration of geographical indication; or
 
+<!-- marginal: WJW21/1500 BI.indd 17 -->
+
 <!-- marginal: 06/12/2021 5:30 PM -->
 
 <!-- page 18 -->
@@ -647,6 +671,8 @@ under the Trademarks Act 2019 or any previous written law relating to trademarks
 11. (1) Notwithstanding subsection 10(2), the Registrar may register a geographical indication that is a homonymous geographical indication in relation to an earlier geographical indication.
 
 (2) For the purposes of subsection (1), the Registrar may register the homonymous geographical indication with practical conditions differentiating the homonymous geographical indication from the earlier geographical indication as determined by the Registrar, taking into account the need to ensure equitable treatment of all the parties concerned and that the public are not misled.
+
+<!-- marginal: WJW21/1500 BI.indd 19 -->
 
 <!-- marginal: 06/12/2021 5:30 PM -->
 
@@ -701,6 +727,8 @@ Examination
 (b) his application for the registration of the geographical indication in the form as determined by the Registrar.
 
 (9) In determining an appeal under subsection (7), the Court shall make an order subject to any condition, amendment, modification or limitation, if any, for the acceptance of the application for the registration of the geographical indication.
+
+<!-- marginal: WJW21/1500 BI.indd 21 -->
 
 <!-- marginal: 06/12/2021 5:30 PM -->
 
@@ -757,6 +785,8 @@ Amendment or withdrawal of application for registration of geographical indicati
 ### geographical indication
 
 15. (1) An applicant may, before the registration of a geographical indication, amend or withdraw his application for registration of the geographical indication under section 8 in the form as determined by the Registrar together with payment of the prescribed fee.
+
+<!-- marginal: WJW21/1500 BI.indd 23 -->
 
 <!-- marginal: 06/12/2021 5:30 PM -->
 
@@ -816,6 +846,8 @@ Opposition
 
 (d) the opponent shall not introduce any additional ground of opposition to the registration of geographical indication for the consideration of the Court except by leave of the Court.
 
+<!-- marginal: WJW21/1500 BI.indd 25 -->
+
 <!-- marginal: 06/12/2021 5:30 PM -->
 
 <!-- page 26 -->
@@ -852,7 +884,7 @@ the Registrar shall, unless the application has been accepted in error, register
 
 (3) Upon the registration of the geographical indication, the Registrar shall issue a certificate of registration of the geographical indication with the seal of the Registrar to the registered proprietor.
 
-## Part V
+## PART V
 
 ## PERIOD AND RENEWAL OF REGISTRATION OF
 
@@ -872,6 +904,8 @@ the Registrar shall, unless the application has been accepted in error, register
 
 (3) If the registered proprietor makes an application for a renewal within the period of six months after the date of expiry of the registration, the application for the renewal shall be made in the form as determined by the Registrar together with payment of the prescribed fee and prescribed surcharge.
 
+<!-- marginal: WJW21/1500 BI.indd 27 -->
+
 <!-- marginal: 06/12/2021 5:30 PM -->
 
 <!-- page 28 -->
@@ -888,7 +922,7 @@ the Registrar shall, unless the application has been accepted in error, register
 
 (9) The renewal or restoration of the registration of a geographical indication under this section shall be published in the Intellectual Property Official Journal.
 
-## Part VI
+## PART VI
 
 ## CORRECTION AND CANCELLATION
 
@@ -921,6 +955,8 @@ the Registrar shall, unless the application has been accepted in error, register
 (3) The Registrar shall cancel the registration of the geographical indication if the Registrar is satisfied that the registered proprietor has complied with the requirements as prescribed.
 
 (4) Where the registration of the geographical indication is voluntarily cancelled under this section, the rights conferred by the registration of the geographical indication on any interested party of goods identified by the geographical indication shall cease to exist with effect from the date of the cancellation of the registration.
+
+<!-- marginal: WJW21/1500 BI.indd 29 -->
 
 <!-- marginal: 06/12/2021 5:30 PM -->
 
@@ -964,7 +1000,7 @@ the Registrar shall, unless the application has been accepted in error, register
 
 24. For the purposes of this Part, any cancellation of the registration of any variant shall not affect the registration of any other variants.
 
-## Part VII
+## PART VII
 
 ## EFFECTS OF REGISTERED GEOGRAPHICAL INDICATION
 
@@ -975,6 +1011,8 @@ the Registrar shall, unless the application has been accepted in error, register
 (a) use the geographical indication; and
 
 (b) authorize other persons to use the geographical indication.
+
+<!-- marginal: WJW21/1500 BI.indd 31 -->
 
 <!-- marginal: 06/12/2021 5:30 PM -->
 
@@ -1034,6 +1072,8 @@ the Registrar shall, unless the application has been accepted in error, register
 
 29. (1) Any act which is required or authorized by this Act to be done by or to a person in connection with the application for the registration of a geographical indication, or any procedure relating to a registered geographical indication, may be done by or to a registered geographical indication agent duly authorized by the person in the manner as determined by the Registrar.
 
+<!-- marginal: WJW21/1500 BI.indd 33 -->
+
 <!-- marginal: 06/12/2021 5:30 PM -->
 
 <!-- page 34 -->
@@ -1084,6 +1124,8 @@ the Registrar shall, unless the application has been accepted in error, register
 
 (b) allow a voluntary cancellation of the registration of the geographical indication agent upon an application made by the registered geographical indication agent together with payment of the prescribed fee;
 
+<!-- marginal: WJW21/1500 BI.indd 35 -->
+
 <!-- marginal: 06/12/2021 5:30 PM -->
 
 <!-- page 36 -->
@@ -1120,7 +1162,7 @@ record or document made for the purposes of such communications, are privileged 
 
 (2) A registered geographical indication agent has, in relation to documents and property of the person who appoints and authorizes the agent in a matter relating to geographical indication, the same right of lien that a solicitor has in relation to the documents and property of a client.
 
-## Part IX
+## PART IX
 
 ## OFFENCE
 
@@ -1139,6 +1181,8 @@ record or document made for the purposes of such communications, are privileged 
 (2) For the purposes of subsection (1)—
 
 (a) a geographical indication or any indication directly or indirectly referring to the geographical indication is applied to the goods if it is applied directly unto the goods themselves;
+
+<!-- marginal: WJW21/1500 BI.indd 37 -->
 
 <!-- marginal: 06/12/2021 5:30 PM -->
 
@@ -1161,6 +1205,8 @@ the goods are delivered to a person pursuant to a request or order made by refer
 (3) Any person who falsely applies a registered geographical indication or any indication directly or indirectly referring the geographical indication to the goods under subsection (1) commits an offence and shall, on conviction, be liable—
 
 (a) if the person is a body corporate, to a fine not exceeding fifteen thousand ringgit for each of the goods bearing the falsely applied registered geographical indication, and for a second or subsequent offence, to a fine not exceeding thirty thousand ringgit for each of the goods bearing the falsely applied registered geographical indication; or
+
+<!-- marginal: WJW21/1500 BI.indd 38 -->
 
 <!-- marginal: 06/12/2021 5:30 PM -->
 
@@ -1189,6 +1235,8 @@ the goods are delivered to a person pursuant to a request or order made by refer
 (c) has in his possession, custody or control for the purpose of trade or manufacture,
 
 any goods to which a registered geographical indication is falsely applied under section 34, unless the person proves that having taken all reasonable precautions against committing an offence under this section, he had, at the time he allegedly committed the offence, no reason to suspect the genuineness of the geographical indication and on demand made by the Assistant Controller as defined in section 39, he gave all the information in his knowledge with respect to the persons from whom he obtained the goods, commits an offence.
+
+<!-- marginal: WJW21/1500 BI.indd 39 -->
 
 <!-- marginal: 06/12/2021 5:30 PM -->
 
@@ -1246,13 +1294,15 @@ knowing or having reason to believe that the representation is false commits an 
 
 (c) require the production of any document or article.
 
+<!-- marginal: WJW21/1500 BI.indd 41 -->
+
 <!-- marginal: 06/12/2021 5:30 PM -->
 
 <!-- page 42 -->
 
 (2) Any person who disobeys the summons or request made by the Registrar under subsection (1) without any lawful excuse commits an offence and shall, on conviction, be liable to a fine not exceeding two thousand ringgit or to imprisonment for a term not exceeding three months or to both.
 
-## Part X
+## PART X
 
 ## INVESTIGATION AND ENFORCEMENT
 
@@ -1300,6 +1350,8 @@ Investigations and complaints
 
 (4) The Registrar’s verification under subsection (3) shall be prima facie evidence in any proceedings before any court.
 
+<!-- marginal: WJW21/1500 BI.indd 43 -->
+
 <!-- marginal: 06/12/2021 5:30 PM -->
 
 <!-- page 44 -->
@@ -1345,6 +1397,8 @@ Information gathering powers
 (4) Any person directed to provide information under subsection (2) or (3) shall ensure that the information provided is true, accurate and complete and such person shall provide an express representation to that effect, including a declaration that he is not aware of any other information which would make the information provided untrue or misleading.
 
 (5) Any person who refuses or does not comply with the direction given by the Assistant Controller under this section commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit.
+
+<!-- marginal: WJW21/1500 BI.indd 45 -->
 
 <!-- marginal: 06/12/2021 5:30 PM -->
 
@@ -1398,6 +1452,8 @@ Information gathering powers
 
 (4) Notwithstanding paragraph (3)(b), where the advocate and solicitor refuses to comply with the requirement under subsection (2), the advocate and solicitor shall forthwith furnish in writing to the Controller the name and address of the person to whom, by or on behalf of whom the privileged communication was made.
 
+<!-- marginal: WJW21/1500 BI.indd 47 -->
+
 <!-- marginal: 06/12/2021 5:30 PM -->
 
 <!-- page 48 -->
@@ -1446,6 +1502,8 @@ Powers of arrest, search, seizure, etc.
 
 (3) Where the goods, document, material, article or thing seized by the Assistant Controller in the exercise of his powers under this section are by reason of its nature, size or amount not practical to be removed from where the goods, document, material, article or thing is found, he may by any means seal
 
+<!-- marginal: WJW21/1500 BI.indd 49 -->
+
 <!-- marginal: 06/12/2021 5:30 PM -->
 
 <!-- page 50 -->
@@ -1481,6 +1539,8 @@ such goods, document, material, article or thing in the premises or container in
 ### Access to recorded information or computerized data, etc.
 
 53. (1) Any Assistant Controller exercising his powers under section 50, 51 or 52 shall be given access to any recorded information, or computerized or digitalized data, whether stored in a computer or otherwise.
+
+<!-- marginal: WJW21/1500 BI.indd 51 -->
 
 <!-- marginal: 06/12/2021 5:30 PM -->
 
@@ -1532,6 +1592,8 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding o
 
 (5) An Assistant Controller or any other person does not commit an offence under this section in respect of anything done by him in the course of acting in connection with the enforcement, or intended enforcement, of this Act.
 
+<!-- marginal: WJW21/1500 BI.indd 53 -->
+
 <!-- marginal: 06/12/2021 5:30 PM -->
 
 <!-- page 54 -->
@@ -1567,6 +1629,8 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding o
 (7) Any goods, document, material, article or thing forfeited or deemed forfeited shall be delivered to the Assistant Controller who shall dispose it in accordance with the directions of the Controller.
 
 (8) Where any goods, document, material, article or thing seized under this Act is of a perishable nature or where the custody of such goods, document, material, article or thing involves unreasonable expense and inconvenience, such goods, document, material, article or thing may be sold by the Assistant Controller at any time and the proceeds of the sale held by the Assistant Controller to abide by the result of any prosecution or claim under this section.
+
+<!-- marginal: WJW21/1500 BI.indd 55 -->
 
 <!-- marginal: 06/12/2021 5:30 PM -->
 
@@ -1609,6 +1673,8 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding o
 (2) Where packages or receptacles containing goods, documents, materials, articles or things which contravene the provisions of this Act or are otherwise liable to seizure have been seized, it shall be sufficient only to open and examine one per centum or not less than five samples, whichever is the lesser, of the contents of each package or receptacle seized.
 
 (3) The court shall presume that the remaining samples contained in the package or receptacle are of the same nature as those samples examined.
+
+<!-- marginal: WJW21/1500 BI.indd 57 -->
 
 <!-- marginal: 06/12/2021 5:30 PM -->
 
@@ -1656,6 +1722,8 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding o
 
 (a) may be charged severally or jointly in the same proceedings with the body corporate; and
 
+<!-- marginal: WJW21/1500 BI.indd 59 -->
+
 <!-- marginal: 06/12/2021 5:30 PM -->
 
 <!-- page 60 -->
@@ -1690,7 +1758,7 @@ if the act was ordered or done in good faith and in a reasonable belief that it 
 
 <!-- page 61 -->
 
-## Part XI
+## PART XI
 
 ## LEGAL PROCEEDINGS IN COURT, COSTS AND EVIDENCE
 
@@ -1713,6 +1781,8 @@ if the act was ordered or done in good faith and in a reasonable belief that it 
 (b) cancellation of the registered geographical indication by the Court under section 23; or
 
 (c) any appeal against the decision of the Registrar in relation to the matters specified under subsection 96(1).
+
+<!-- marginal: WJW21/1500 BI.indd 61 -->
 
 <!-- marginal: 06/12/2021 5:30 PM -->
 
@@ -1754,6 +1824,8 @@ if the act was ordered or done in good faith and in a reasonable belief that it 
 
 (5) Subject to any condition as determined by the Registrar, any person may request for any document under subsection (1) or (3) by filing a form as determined by the Registrar together with payment of the prescribed fee.
 
+<!-- marginal: WJW21/1500 BI.indd 63 -->
+
 <!-- marginal: 06/12/2021 5:30 PM -->
 
 <!-- page 64 -->
@@ -1770,7 +1842,7 @@ if the act was ordered or done in good faith and in a reasonable belief that it 
 
 (2) Subject to any condition as determined by the Registrar, any person may request for any document under subsection (1) by filing a form as determined by the Registrar together with payment of the prescribed fee.
 
-## Part XII
+## PART XII
 
 ## PROTECTION FOR GEOGRAPHICAL INDICATION
 
@@ -1801,6 +1873,8 @@ if the act was ordered or done in good faith and in a reasonable belief that it 
 (6) Any use of a registered geographical indication within the meaning of subsection (5) shall be deemed to be an act to which this section applies, even if the geographical indication is literally true as to the geographical origin of the goods in question, provided that such use falsely represents to the public that the goods originate in another country, territory, region or locality.
 
 (7) Subsection (5) shall not apply to the use of a registered geographical indication to identify an ingredient of any goods, if the geographical indication is literally true as to the geographical origin of the ingredients in question, provided that such use does not falsely represent to the public that the goods originate in the place indicated by the geographical indication.
+
+<!-- marginal: WJW21/1500 BI.indd 65 -->
 
 <!-- marginal: 06/12/2021 5:30 PM -->
 
@@ -1868,6 +1942,8 @@ whichever is earlier.
 
 (b) in good faith before 15 April 1994.
 
+<!-- marginal: WJW21/1500 BI.indd 67 -->
+
 <!-- marginal: 06/12/2021 5:30 PM -->
 
 <!-- page 68 -->
@@ -1926,13 +2002,15 @@ under the Trademarks Act 2019 relating to trademark before the date of applicati
 
 (a) the trademark is, before the date of the application for registration of the geographical indication in Malaysia, a well-known trademark in Malaysia; and
 
+<!-- marginal: WJW21/1500 BI.indd 69 -->
+
 <!-- marginal: 06/12/2021 5:30 PM -->
 
 <!-- page 70 -->
 
 (b) the application of section 77 to the use of the trademark is liable to mislead consumers as to the true identity of the goods identified by the geographical indication.
 
-## Part XIV
+## PART XIV
 
 ## MISCELLANEOUS AND GENERAL
 
@@ -1979,6 +2057,8 @@ under the Trademarks Act 2019 relating to trademark before the date of applicati
 88. (1) For the purposes of this Act, an applicant, any person who opposes the registration of a geographical indication or any other person who is involved in any proceedings before the Registrar, who is residing or carrying on business principally in Malaysia, shall furnish an address for service in Malaysia with the Registrar in the manner as determined by the Registrar together with payment of the prescribed fee.
 
 (2) The address furnished with the Registrar under subsection (1) shall be entered into the Register or the record of Registrar and shall be deemed to be the address for service of the person under subsection (1) for all the proceedings before the Registrar.
+
+<!-- marginal: WJW21/1500 BI.indd 71 -->
 
 <!-- marginal: 06/12/2021 5:30 PM -->
 
@@ -2034,6 +2114,8 @@ an act, in relation to an application for the registration of a geographical ind
 
 (a) application is deemed to be withdrawn; or
 
+<!-- marginal: WJW21/1500 BI.indd 73 -->
+
 <!-- marginal: 06/12/2021 5:30 PM -->
 
 <!-- page 74 -->
@@ -2079,6 +2161,8 @@ may make a request to the Registrar for the reinstatement of the application, ri
 (3) Any person who is specified in the provisions of this Act shall comply with the guidelines and practice directions.
 
 (4) The Registrar may amend the whole or any part of any guidelines or practice directions issued under this section.
+
+<!-- marginal: WJW21/1500 BI.indd 75 -->
 
 <!-- marginal: 06/12/2021 5:30 PM -->
 
@@ -2136,6 +2220,8 @@ may make a request to the Registrar for the reinstatement of the application, ri
 
 (b) to classify goods for the purposes of registration of geographical indications;
 
+<!-- marginal: WJW21/1500 BI.indd 77 -->
+
 <!-- marginal: 06/12/2021 5:30 PM -->
 
 <!-- page 78 -->
@@ -2170,7 +2256,7 @@ may make a request to the Registrar for the reinstatement of the application, ri
 
 99. The Minister may, by order published in the Gazette, amend the Schedule to this Act.
 
-## Part XV
+## PART XV
 
 ## REPEAL, SAVING AND TRANSITIONAL
 
@@ -2185,6 +2271,8 @@ may make a request to the Registrar for the reinstatement of the application, ri
 (b) all decisions, directions and notices made or issued under the repealed Act shall, to the extent that the decisions, directions and notices are consistent with this Act, on the date of coming into operation of this Act, continue in force until such decisions, directions and notices are revoked or amended;
 
 (c) any registration and any matter relating to it made under the repealed Act and is in force immediately before the date of coming into operation of this Act shall, subject to the terms, conditions, limitations and the duration of validity specified in the certificate of registration, on the date of coming into operation of this Act, continue in force and have the like effect as if the certificate of registration had been issued under this Act and the Registrar or Court may correct, renew or cancel the registration in accordance with the powers conferred upon him or it by the relevant provisions of this Act;
+
+<!-- marginal: WJW21/1500 BI.indd 79 -->
 
 <!-- marginal: 06/12/2021 5:30 PM -->
 
@@ -2239,6 +2327,8 @@ Article 10bis
 2. false allegations in the course of trade of such a nature as to discredit the establishment, the goods, or the industrial or commercial activities, of a competitor;
 
 3. indications or allegations the use of which in the course of trade is liable to mislead the public as to the nature, the manufacturing process, the characteristics, the suitability for their purpose, or the quantity, of the goods.
+
+<!-- marginal: WJW21/1500 BI.indd 81 -->
 
 <!-- marginal: 06/12/2021 5:30 PM -->
 
@@ -2304,6 +2394,8 @@ Clause 20 seeks to provide that for the purpose of Part VI of the proposed Act, 
 
 Clause 21 seeks to empower the Registrar to make any correction in the Register and the record of Registrar. This clause also seeks to provide that a registered proprietor of a geographical indication may make a request to the Registrar for any correction to be made in the Register. A certificate of registration of the geographical indication will be issued to the registered proprietor after such correction.
 
+<!-- marginal: WJW21/1500 BI.indd 83 -->
+
 <!-- marginal: 06/12/2021 5:30 PM -->
 
 <!-- page 84 -->
@@ -2364,6 +2456,8 @@ Clause 42 seeks to provide that the Assistant Controller may begin conducting an
 
 Clause 43 seeks to empower the Assistant Controller to obtain information in carrying out his investigation from any person that he has reason to believe that person has relevant information or documents or is capable of giving such evidence and to set the procedures for the provision of such information.
 
+<!-- marginal: WJW21/1500 BI.indd 85 -->
+
 <!-- marginal: 06/12/2021 5:30 PM -->
 
 <!-- page 86 -->
@@ -2416,6 +2510,8 @@ Clause 64 imposes the requirement that all prosecutions in relation to any offen
 
 Clause 65 seeks to empower the Controller to compound any compoundable offence committed by any person with the consent in writing of the Public Prosecutor and provide the procedure related to it.
 
+<!-- marginal: WJW21/1500 BI.indd 87 -->
+
 <!-- marginal: 06/12/2021 5:30 PM -->
 
 <!-- page 88 -->
@@ -2459,6 +2555,8 @@ Clause 78 seeks to provide that any interested person of any goods identified by
 14. Part XIII deals with the provisions relating to exceptions applicable to all geographical indications whether registered geographical indications or not registered geographical indications.
 
 Clauses 79, 80, 81 and 82 seek to provide for exceptions for certain uses of a geographical indication, failure to take action, prior uses and use of personal name.
+
+<!-- marginal: WJW21/1500 BI.indd 89 -->
 
 <!-- marginal: 06/12/2021 5:30 PM -->
 
@@ -2513,5 +2611,7 @@ Clause 101 seeks to empower the Registrar to issue guidelines or practice direct
 This Bill will not involve the Government in any extra financial expenditure.
 
 <!-- marginal: [PN(U2)3266] -->
+
+<!-- marginal: WJW21/1500 BI.indd 91 -->
 
 <!-- marginal: 06/12/2021 5:30 PM -->

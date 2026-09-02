@@ -1,0 +1,768 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-17-2024",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_29"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Penagih Dadah (Rawatan dan Pemulihan) (Pindaan) 2024"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 6 seksyen yang berikut: 6a. (1) Jika seseorang yang telah menjalani ujian yang disebut dalam seksyen 3 atau 4 dan, disebabkan oleh ujian itu, diperakui oleh pegawai perubatan kerajaan atau pengamal perubatan berdaftar sebagai penyalah guna dadah atau bahan, pegawai itu hendaklah membawa orang itu, atau menyebabkan orang itu hadir di hadapan Majistret. (2) Jika penyalah guna dadah atau bahan itu dibawa atau hadir di hadapan Majistret, Majistret itu hendaklah, atas syor Pegawai Pemulihan dan selepas memberi orang itu peluang untuk membuat representasi— (a) memerintahkan orang itu menjalani rawatan dan pemulihan dalam komuniti di bawah pengawasan Pegawai Pemulihan di tempat yang dinyatakan dalam perintah itu selama tempoh tidak melebihi dua tahun; atau (b) memerintahkan orang itu menjalani rawatan dan pemulihan di Pusat Pemulihan yang dinyatakan dalam perintah itu selama tempoh tidak melebihi enam bulan. (3) Suatu perintah rawatan dan pemulihan dalam komuniti yang dikenakan ke atas seseorang di bawah perenggan (2)(a) hendaklah mengandungi syarat yang berikut: (a) orang itu hendaklah tinggal di dalam Negeri atau Wilayah Persekutuan atau mana-mana kawasan sebagaimana yang dinyatakan dalam perintah itu; (b) orang itu tidak boleh meninggalkan kawasan tempat tinggalnya melainkan jika kebenaran bertulis diperoleh daripada Ketua Pengarah; (c) orang itu hendaklah melapor diri di pejabat Agensi Antidadah Kebangsaan yang berdekatan pada waktu yang dinyatakan dalam perintah itu; (d) orang itu tidak boleh mengambil apa-apa dadah berbahaya atau bahan; (e) orang itu hendaklah menjalani apa-apa ujian pada bila-bila masa dan di mana-mana tempat sebagaimana yang ditentukan oleh seseorang Pegawai Pemulihan; (f) orang itu hendaklah menjalani apa-apa program rawatan dan pemulihan penyalah guna dadah atau bahan sebagaimana yang ditentukan oleh seseorang Pegawai Pemulihan; dan (g) orang itu hendaklah mematuhi apa-apa arahan yang dinyatakan dalam Perintah Tetap Ketua Pengarah. (4) Jika selepas pertimbangan sewajarnya oleh Pegawai Pemulihan, seseorang yang sedang menjalani perintah rawatan dan pemulihan dalam komuniti di bawah perenggan (2)(a) memerlukan rawatan dan pemulihan di Pusat Pemulihan, pegawai boleh membawa orang itu, atau menyebabkannya hadir di hadapan Majistret. (5) Jika seseorang itu dibawa atau hadir di hadapan Majistret di bawah subseksyen (4), Majistret boleh, setelah menimbangkan laporan oleh Pegawai Pemulihan dan setelah memberi peluang kepada orang itu untuk membuat representasi, memerintahkan orang itu menjalani rawatan dan pemulihan di Pusat Pemulihan selama tempoh tidak melebihi enam bulan. (6) Mana-mana orang yang sedang menjalani rawatan dan pemulihan dalam komuniti di bawah perenggan 2(a) yang tidak mematuhi mana-mana syarat yang dikenakan di bawah subseksyen (3) melakukan suatu kesalahan dan boleh, apabila disabitkan— (a) dalam hal kesalahan kali pertama, dikenakan perintah pelanjutan tempoh rawatan dan pemulihan dalam komuniti selama tempoh tidak melebihi enam bulan; dan (b) dalam hal kesalahan kali kedua atau kesalahan yang berikutnya, dikenakan perintah untuk menjalani rawatan dan pemulihan di Pusat Pemulihan selama tempoh tidak melebihi satu tahun.”. Pindaan tajuk Bahagian 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan tajuk Bahagian 3 dengan tajuk yang berikut: “BAHAGIAN III RAWATAN DAN PEMULIHAN PENAGIH DADAH ATAU BAHAN DAN PENYALAH GUNA DADAH ATAU BAHAN YANG MENJALANINYA DENGAN SUKARELA”. Penggantian seksyen 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 8 dengan seksyen yang berikut: “Tatacara 8. (1) Mana-mana orang yang menjadi penagih bagi dadah atau bahan atau penyalah guna dadah rawatan dan atau bahan boleh memohon kepada Pegawai pemulihan Pemulihan untuk diberikan rawatan dan pemulihan penagih berkenaan dengan ketagihan dadah atau bahan dadah atau atau penyalahgunaan dadah atau bahan orang itu. bahan dan penyalah guna dadah (2) Jika seseorang membuat permohonan atau bahan di bawah subseksyen (1), Pegawai Pemulihan yang hendaklah dengan seberapa segera yang boleh menjalani membuat perkiraan bagi pemohon itu menjalani rawatan dan pemulihan ujian di mana-mana tempat sebagaimana yang secara ditentukan oleh Pegawai Pemulihan itu. sukarela. (3) Jika Pegawai Pemulihan memperakui orang itu sebagai penagih dadah atau bahan atau penyalah guna dadah atau bahan disebabkan oleh ujian yang dibuat di bawah subseksyen (2), Pegawai Pemulihan itu hendaklah memutuskan sama ada orang itu— (a) untuk menjalani rawatan dan pemulihan di Pusat Pemulihan, Pusat Khidmat atau pusat pemulihan persendirian selama tempoh tidak melebihi dua tahun; atau (b) untuk menjalani rawatan dan pemulihan dalam komuniti di bawah pengawasan Pegawai Pemulihan di mana-mana tempat sebagaimana yang ditentukan oleh Pegawai Pemulihan selama tempoh tidak melebihi dua tahun. (4) Pegawai Pemulihan boleh mengenakan apa-apa syarat yang difikirkannya perlu dan bermanfaat bagi rawatan dan pemulihan di bawah subseksyen (3) dan hendaklah memaklumkan keputusannya kepada orang itu. (5) Mana-mana orang yang sedang menjalani rawatan dan pemulihan di Pusat Pemulihan atau Pusat Khidmat yang tidak mematuhi mana-mana syarat yang dikenakan di bawah subseksyen (4) hendaklah diberhentikan dengan segera daripada menjalani rawatan dan pemulihan dan dipindahkan daripada Pusat Pemulihan atau Pusat Khidmat.”. Pindaan seksyen 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_13__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_13__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 9 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota birai, dengan menggantikan perkataan “penagih dadah” dengan perkataan “penagih dadah atau bahan dan penyalah guna dadah atau bahan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_13__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_13__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_13__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_13__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa kebangsaan, dengan menggantikan perkataan “ibu bapa” di mana-mana jua terdapat dengan perkataan “ibu atau bapa”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_13__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_13__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “penagih dadah” dengan perkataan “penagih dadah atau bahan atau penyalah guna dadah atau bahan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_13__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(3) Jika Pegawai Pemulihan memutuskan bahawa seseorang belum dewasa perlu menjalani rawatan dan pemulihan di Pusat Pemulihan, Pusat Khidmat atau pusat pemulihan persendirian, atau menjalani rawatan dan pemulihan dalam komuniti, ibu atau bapa atau penjaga seseorang belum dewasa itu hendaklah menghadiri program rawatan dan pemulihan bersama dengan seseorang belum dewasa itu jika ibu atau bapa atau penjaga seseorang belum dewasa itu dikehendaki oleh Pegawai Pemulihan untuk berbuat demikian. (4) Tertakluk pada subseksyen (3), Pegawai Pemulihan boleh mengenakan apa-apa syarat kepada ibu atau bapa atau penjaga seseorang belum dewasa yang merupakan penagih dadah atau bahan atau penyalah guna dadah atau bahan itu sebagaimana yang difikirkan patut oleh Pegawai Pemulihan. (5) Mana-mana ibu atau bapa atau penjaga seseorang belum dewasa yang merupakan penagih dadah atau bahan atau penyalah guna dadah atau bahan itu yang tidak mematuhi mana-mana syarat yang dikenakan di bawah subseksyen (4), melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima ribu ringgit.”. Pindaan tajuk Bahagian 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan tajuk Bahagian 4 dengan tajuk yang berikut: “BAHAGIAN IV PUSAT BAGI RAWATAN DAN PEMULIHAN”. Pindaan seksyen 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_15__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_15__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 10 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota birai, dengan memasukkan selepas perkataan “Pusat Pemulihan” dengan perkataan “dan Pusat Khidmat”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “Pusat Pemulihan” perkataan “dan Pusat Khidmat”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_15__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “penagih dadah” dengan perkataan “penagih dadah atau bahan atau penyalah guna dadah atau bahan”. Pindaan seksyen 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_16__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 11 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula seksyen sedia ada sebagai subseksyen (1); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) yang dinomborkan semula itu subseksyen yang berikut: “(2) Menteri boleh menentukan pembayaran elaun bagi anggota Lembaga Pelawat.”. Penggantian seksyen 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 12 dengan seksyen yang berikut: “Penyingkatan 12. Ketua Pengarah boleh, atas syor Pegawai tempoh Pemulihan, menyingkatkan tempoh rawatan dan rawatan dan pemulihan mana-mana orang di mana-mana pemulihan. Pusat Pemulihan atau Pusat Khidmat atau tempoh rawatan dan pemulihan dalam komuniti mana-mana orang atas apa-apa sebab yang difikirkan patut oleh Ketua Pengarah.”. Penggantian seksyen 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 16 dengan seksyen yang berikut: 16. (1) Tiada seorang pun boleh mengusahakan, menyediakan, mengendalikan atau melaksanakan apa-apa perkhidmatan atau mengambil bahagian dalam pengurusan mana-mana pusat pemulihan persendirian bagi rawatan dan pemulihan mana-mana penagih dadah atau bahan atau penyalah guna dadah atau bahan atau bagi jagaan lanjutan penagih dadah atau bahan atau penyalah guna dadah atau bahan melainkan jika dia memegang suatu kelulusan yang diberikan di bawah seksyen ini. (2) Menteri boleh, atas permohonan secara bertulis mana-mana orang perseorangan atau mana-mana organisasi, badan atau kumpulan orang, memberi kelulusan bagi pendaftaran suatu pusat pemulihan persendirian— (a) bagi rawatan dan pemulihan penagih dadah atau bahan atau penyalah guna dadah atau bahan; atau (b) bagi jagaan lanjutan orang yang merupakan penagih dadah atau bahan atau penyalah guna dadah atau bahan, selama tempoh tidak melebihi tiga tahun dan kelulusan itu boleh diperbaharui tertakluk pada apa-apa syarat yang difikirkan patut oleh Menteri. (3) Menteri boleh membatalkan kelulusan pendaftaran yang diberikan di bawah subseksyen (2) jika orang perseorangan atau organisasi, badan atau kumpulan orang yang kepadanya kelulusan itu diberikan tidak mematuhi syarat yang dikenakan oleh Menteri. (4) Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya. (5) Mana-mana orang yang tidak mematuhi apa-apa syarat di bawah subseksyen (2) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang daripada lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.”. Pindaan seksyen 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 17 Akta ibu dipinda dengan memasukkan selepas perkataan “Pusat Pemulihan” di mana-mana jua terdapat dengan perkataan “, Pusat Khidmat atau pusat pemulihan persendirian”. Pindaan tajuk Bahagian 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Penagih Dadah (Rawatan dan Pemulihan) (Pindaan) 2024."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan tajuk panjang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Penagih Dadah (Rawatan dan Pemulihan) 1983 [Akta 283], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam tajuk panjang dengan menggantikan perkataan “penagih-penagih dadah” dengan perkataan “penagih dadah atau bahan dan penyalah guna dadah atau bahan”. Pindaan tajuk Bahagian 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dalam tajuk Bahagian 5 dengan menggantikan perkataan “Bahagian 5” dengan perkataan “Bahagian V”. Pindaan seksyen 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_21__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 18 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota birai, dengan menggantikan perkataan “penagih-penagih dadah” dengan perkataan “penagih dadah atau bahan dan penyalah guna dadah atau bahan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “ketagihan dadah” dengan perkataan “ketagihan dadah atau bahan atau penyalahgunaan dadah atau bahan.”. Penggantian seksyen 21"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 21 dengan seksyen yang berikut: 21. (1) Jika seseorang— (a) yang menjalani rawatan dan pemulihan dalam komuniti atau di Pusat Pemulihan atau Pusat Khidmat di bawah pengawasan Pegawai Pemulihan; atau (b) yang telah diperintahkan untuk menjalani rawatan dan pemulihan dalam komuniti atau di Pusat Pemulihan atau Pusat Khidmat tetapi masih belum mula menjalani rawatan dan pemulihan, dihukum oleh mana-mana mahkamah dengan apa-apa tempoh pemenjaraan atau oleh Mahkamah Bagi Kanak-Kanak dengan apa-apa tempoh tahanan, atau ditahan di bawah mana-mana undang-undang yang berhubungan dengan tahanan pencegahan, pemenjaraan atau tahanan itu hendaklah mengatasi perintah di bawah seksyen 6 dan 6a. (2) Tempoh pemenjaraan atau tahanan yang telah dijalani hendaklah disifatkan sebagai tempoh rawatan dan pemulihan dalam komuniti atau di Pusat Pemulihan atau Pusat Khidmat, mengikut mana-mana yang berkenaan, dan hendaklah disifatkan telah dijalani serentak dengan tempoh pemenjaraan atau tahanan itu. (3) Jika setelah tempoh pemenjaraan atau tahanan selesai, masih ada mana-mana bahagian tempoh yang baginya orang itu telah diperintahkan untuk menjalani rawatan dan pemulihan dalam komuniti atau di Pusat Pemulihan atau Pusat Khidmat yang masih belum selesai, orang itu hendaklah menjalani rawatan dan pemulihan dalam komuniti atau di Pusat Pemulihan atau Pusat Khidmat, mengikut mana-mana yang berkenaan, untuk baki bahagian tempoh yang belum selesai. (4) Dalam tempoh pemenjaraan atau tahanan, penagih dadah atau bahan atau penyalah guna dadah atau bahan itu hendaklah menjalani rawatan dan pemulihan yang dijalankan oleh Pegawai Pemulihan. (5) Subseksyen (1), (2) dan (3) tidak terpakai bagi seseorang yang menjalani rawatan dan pemulihan dalam komuniti atau di Pusat Pemulihan atau Pusat Khidmat, mengikut mana-mana yang berkenaan, di bawah seksyen 8 dan 9.”. Pindaan seksyen 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 26 Akta ibu dipinda dengan memasukkan selepas perkataan “Pusat Pemulihan” di mana-mana jua terdapat perkataan “atau Pusat Khidmat”. Pindaan seksyen 27"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 27 Akta ibu dipinda dalam nota birai dengan menggantikan perkataan “Memisahkan orang belum dewasa” dengan perkataan “Pengasingan orang belum dewasa daripada orang dewasa”. Seksyen baharu 27a, 27b dan 27c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 27 seksyen yang berikut: 27a. Menteri boleh melantik apa-apa bilangan Pegawai Pemulihan yang dikehendaki bagi semua perkara yang berhubungan dengan tangkapan, rawatan dan pemulihan bagi penagih dadah atau bahan atau penyalah guna dadah atau bahan dari semasa ke semasa bagi maksud Akta ini. 27 b. (1) Ketua Pengarah boleh melantik apa-apa bilangan sukarelawan sebagaimana yang perlu untuk membantu pegawai bagi melaksanakan fungsi bagi rawatan dan pemulihan di bawah Akta ini. (2) Seseorang sukarelawan adalah tertakluk pada arahan, perintah dan kawalan Ketua Pengarah untuk membantu pegawai bagi melaksanakan fungsi bagi rawatan dan pemulihan di bawah Akta ini. (3) Seseorang sukarelawan— (a) boleh dibayar apa-apa elaun sebagaimana yang ditentukan oleh Menteri; dan (b) tidak berhak kepada apa-apa saraan. (4) Seseorang sukarelawan semasa menjalankan apa-apa kewajipan di bawah Akta ini hendaklah disifatkan sebagai penjawat awam mengikut pengertian Kanun Keseksaan [Akta 574]. 27 c. (1) Menteri hendaklah menubuhkan suatu Majlis Profesion Pegawai Pemulihan dan melantik apa-apa bilangan orang yang mempunyai pengalaman, pengetahuan dan kepakaran mengenai perkara yang berhubungan dengan hal ehwal Pegawai Pemulihan, rawatan dan pemulihan penagih dadah atau bahan dan penyalah guna dadah atau bahan dan perkara lain sebagaimana yang ditetapkan, untuk menjadi anggota Majlis Profesion Pegawai Pemulihan itu. (2) Menteri boleh menentukan pembayaran elaun bagi anggota Majlis Profesion Pegawai Pemulihan.”. Pindaan seksyen 28"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_26__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_26__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 28 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_26__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_26__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_26__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_26__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_26__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_26__para_a__subpara_i__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_26__para_a__subpara_i__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_26__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_26__para_a__subpara_i__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_26__para_a__subpara_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “Pusat-Pusat Pemulihan,” perkataan “Pusat Khidmat”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_26__para_a__subpara_i__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_26__para_a__subpara_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “Pusat-Pusat Pemulihan itu” perkataan “, Pusat Khidmat”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_26__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_26__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (d), dengan memasukkan selepas perkataan “Pusat-Pusat Pemulihan itu” perkataan “, Pusat Khidmat”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_26__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_26__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (g) perenggan yang berikut: “(ga) untuk mengadakan peruntukan mengenai keanggotaan, kewajipan, fungsi dan tatacara Majlis Profesion Pegawai Pemulihan;”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_26__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “denda tidak lebih daripada lima ratus ringgit atau penjara selama tempoh tidak lebih daripada enam bulan atau kedua-duanya” dengan perkataan “denda tidak melebihi satu ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya”. Seksyen baharu 28a dan 28b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 28 seksyen yang berikut: “Kuasa untuk 28a. Menteri boleh, melalui perintah yang meminda disiarkan dalam Warta, meminda Jadual kepada Jadual. Akta ini. Perintah 28b. Ketua Pengarah boleh membuat dan Tetap Ketua mengeluarkan perintah, yang dipanggil Pengarah. Perintah Tetap Ketua Pengarah yang selaras dengan Akta ini dan apa-apa kaedah-kaedah yang dibuat di bawah Akta ini.”. Jadual baharu"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 31 jadual yang berikut: “JADUAL [Seksyen 2] BAHAN 1. Bahan psikotropik sebagaimana yang dinyatakan dalam Jadual Ketiga Akta Racun 1952 [Akta 366] 2. Toluena”. Kecualian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_29__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_29__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_29__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua sebutan mengenai “penagih dadah” dalam mana-mana undang-undang bertulis hendaklah, pada permulaan kuat kuasa Akta ini, ditafsirkan sebagai sebutan mengenai “penagih dadah atau bahan”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa tindakan, permohonan, kelulusan atau prosiding yang dimulakan atau yang belum selesai sebaik sebelum permulaan kuat kuasa Akta ini hendaklah, selepas tarikh permulaan kuat kuasa Akta ini, diteruskan seolah-olah Akta ibu tidak dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dalam tajuk Bahagian 1 dengan menggantikan perkataan “Bahagian 1” dengan perkataan “Bahagian I”. Pindaan seksyen 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 1 Akta ibu dipinda dengan menggantikan perkataan “Penagih Dadah” dengan perkataan “Penagih dan Penyalah Guna Dadah dan Bahan”. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 2 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5__para_a__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5__para_a__subpara_v",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5__para_a__subpara_vi",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5__para_a__subpara_vii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5__para_a__subpara_viii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5__para_a__subpara_ix"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan sebelum takrif “dadah berbahaya” takrif yang berikut: ‘ “bahan” ertinya mana-mana bahan yang dinyatakan dalam Jadual;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “Ketua Pengarah”, dengan menggantikan perkataan “subseksyen (2)” dengan perkataan “seksyen 4 Akta Agensi Antidadah Kebangsaan 2004 [Akta 638]”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “Lembaga Pelawat” takrif yang berikut: ‘ “mengambil” termasuklah makan, mengunyah, menghisap, menelan, minum, menyedut atau memasukkan ke dalam badan dengan apa-apa cara atau melalui apa-apa cara jua;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “pegawai”, dengan memasukkan selepas perkataan “Pegawai Pemulihan” perkataan “, mana-mana pegawai Agensi yang dilantik di bawah seksyen 5 Akta Agensi Antidadah Kebangsaan 2004”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5__para_a__subpara_ix",
+      "@type": "akn:subparagraph",
+      "eli:number": "ix",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan takrif “ujian-ujian” dengan takrif yang berikut: ‘ “ujian” ertinya semua perbuatan atau tatacara yang dijalankan bagi maksud menentukan sama ada seseorang itu penagih dadah atau bahan atau penyalah guna dadah atau bahan.’; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5__para_a__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “Pegawai Pemulihan”, dengan menggantikan perkataan “subseksyen (2)” dengan perkataan “seksyen 27a”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5__para_a__subpara_vi",
+      "@type": "akn:subparagraph",
+      "eli:number": "vi",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan takrif “penagih dadah” dengan takrif yang berikut: ‘ “penagih dadah atau bahan” ertinya seseorang yang melalui penggunaan mana-mana dadah berbahaya atau bahan menunjukkan ciri-ciri ketagihan kepada dadah berbahaya atau bahan yang menjejaskan kawalan kendiri yang ditentusahkan melalui ujian;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5__para_a__subpara_vii",
+      "@type": "akn:subparagraph",
+      "eli:number": "vii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “pengamal perubatan berdaftar” takrif yang berikut: ‘ “penyalah guna dadah atau bahan” ertinya seseorang yang mengambil dadah berbahaya atau bahan ke dalam badan yang bukan bagi maksud perubatan atau tanpa preskripsi yang sah oleh pegawai perubatan kerajaan atau pengamal perubatan berdaftar yang ditentusahkan melalui ujian;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5__para_a__subpara_viii",
+      "@type": "akn:subparagraph",
+      "eli:number": "viii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan sebelum takrif “Pusat Pemulihan” takrif yang berikut: ‘ “Pusat Khidmat” ertinya institusi yang ditubuhkan di bawah seksyen 10;’; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (2). Pindaan tajuk Bahagian 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan tajuk Bahagian 2 dengan tajuk yang berikut: “BAHAGIAN II RAWATAN DAN PEMULIHAN PENAGIH DADAH ATAU BAHAN DAN PENYALAH GUNA DADAH ATAU BAHAN DI BAWAH PERINTAH MAHKAMAH”. Pindaan seksyen 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 3 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota birai, dengan menggantikan perkataan “penagih dadah” dengan perkataan “penagih dadah atau bahan dan penyalah guna dadah atau bahan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “penagih dadah” dengan perkataan “penagih dadah atau bahan atau penyalah guna dadah atau bahan”. Pindaan seksyen 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 5 Akta ibu dipinda dalam nota birai, dengan menggantikan perkataan “penagih dadah” dengan perkataan “penagih dadah atau bahan dan penyalah guna dadah atau bahan”. Penggantian seksyen 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 6 dengan seksyen yang berikut: “Perintah 6. (1) Jika seseorang yang telah menjalani Majistret ujian yang disebut dalam seksyen 3 atau 4 yang boleh dan, disebabkan oleh ujian itu, diperakui oleh dibuat pegawai perubatan kerajaan atau pengamal ke atas penagih perubatan berdaftar sebagai penagih dadah dadah atau bahan. atau bahan, pegawai itu hendaklah membawa orang itu, atau menyebabkan orang itu hadir di hadapan Majistret. (2) Jika penagih dadah atau bahan itu dibawa atau hadir di hadapan Majistret, Majistret itu hendaklah, atas syor Pegawai Pemulihan dan selepas memberi orang itu peluang untuk membuat representasi— (a) memerintahkan orang itu untuk menjalani rawatan dan pemulihan di Pusat Pemulihan yang dinyatakan dalam perintah itu selama tempoh dua tahun dan selepas itu untuk menjalani rawatan dan pemulihan dalam komuniti di bawah pengawasan Pegawai Pemulihan di tempat yang dinyatakan dalam perintah itu selama tempoh dua tahun; atau (b) memerintahkan orang itu untuk menjalani rawatan dan pemulihan dalam komuniti di bawah pengawasan Pegawai Pemulihan di tempat yang dinyatakan dalam perintah itu selama tempoh dua tahun. (3) Suatu perintah rawatan dan pemulihan dalam komuniti yang dikenakan ke atas seseorang di bawah perenggan (2)(a) atau (b) hendaklah mengandungi syarat yang berikut: (a) orang itu hendaklah tinggal di dalam Negeri atau Wilayah Persekutuan atau mana-mana kawasan sebagaimana yang dinyatakan dalam perintah itu; (b) orang itu tidak boleh meninggalkan kawasan tempat tinggalnya melainkan jika kebenaran bertulis diperoleh daripada Ketua Pengarah; (c) orang itu hendaklah melapor diri di pejabat Agensi Antidadah Kebangsaan yang berdekatan pada waktu yang dinyatakan dalam perintah itu; (d) orang itu tidak boleh mengambil apa-apa dadah berbahaya atau bahan; (e) orang itu hendaklah menjalani apa-apa ujian pada bila-bila masa dan di mana-mana tempat sebagaimana yang ditentukan oleh seseorang Pegawai Pemulihan; (f) orang itu hendaklah menjalani apa-apa program rawatan dan pemulihan penagih dadah atau bahan sebagaimana yang ditentukan oleh seseorang Pegawai Pemulihan; dan (g) orang itu hendaklah mematuhi apa-apa arahan yang dinyatakan dalam Perintah Tetap Ketua Pengarah. (4) Jika selepas pertimbangan sewajarnya oleh Pegawai Pemulihan, seseorang yang sedang menjalani perintah rawatan dan pemulihan dalam komuniti di bawah perenggan (2)(a) atau (b) memerlukan rawatan dan pemulihan di Pusat Pemulihan, pegawai boleh membawa orang itu, atau menyebabkannya hadir di hadapan Majistret. (5) Jika seseorang itu dibawa atau hadir di hadapan Majistret di bawah subseksyen (4), Majistret boleh, selepas menimbangkan laporan oleh Pegawai Pemulihan dan selepas memberi peluang kepada orang itu untuk membuat representasi, memerintahkan orang itu menjalani rawatan dan pemulihan di Pusat Pemulihan selama tempoh tidak melebihi enam bulan. (6) Mana-mana orang yang menjalani rawatan dan pemulihan dalam komuniti di bawah perenggan (2)(a) atau (b) yang tidak mematuhi mana-mana syarat yang dikenakan di bawah subseksyen (3) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda atau diperintahkan untuk melaksanakan khidmat masyarakat tidak kurang daripada satu ratus dua puluh jam jumlah agregat dalam tempoh tidak melebihi enam bulan atau dipenjarakan selama tempoh tidak melebihi tiga tahun dan jika dihukum dengan pemenjaraan, boleh juga dikenakan sebatan tidak melebihi tiga sebatan. (7) Dalam seksyen ini, “khidmat masyarakat” ertinya apa-apa kerja, perkhidmatan, aktiviti atau pelaksanaan arahan bagi kebaikan orang awam pada amnya yang boleh membantu dan mengekalkan pemulihan penagih dadah atau bahan di bawah pengawasan Ketua Pengarah.”. Seksyen baharu 6a"
+      }
+    }
+  ]
+}

@@ -104,31 +104,63 @@ Digital Signature
 
 ## CHAPTER 3
 
-Representations and duties upon acceptance of certificate 38. Implied representations by subscriber. 39. Representations by agent of subscriber. 40. Disclaimer or indemnity limited. 41. Indemnification of licensed certification authority by subscriber. 42. Certification of accuracy of information given.
+Representations and duties upon acceptance of certificate
+
+38. Implied representations by subscriber.
+
+39. Representations by agent of subscriber. 40. Disclaimer or indemnity limited.
+
+41. Indemnification of licensed certification authority by subscriber.
+
+42. Certification of accuracy of information given.
 
 ## CHAPTER 4
 
 Control of private key
 
-43. Duty of subscriber to keep private key secure. 44. Property in private key. 45. Licensed certification authority to be fiduciary if holding subscriber's private key.
+43. Duty of subscriber to keep private key secure.
+
+44. Property in private key.
+
+45. Licensed certification authority to be fiduciary if holding subscriber's private key.
 
 ## CHAPTER 5
 
 Suspension of certificate
 
-46. Suspension of certificate by issuing licensed certification authority. 47. Suspension of certificate by Controller or court. 48. Notice of suspension. 49. Termination of suspension initiated by request. 50. Alternate contractual procedures. 51. Prohibition against false or unauthorised request for suspension of certificate. 52. Effect of suspension of certificate.
+46. Suspension of certificate by issuing licensed certification authority.
+
+47. Suspension of certificate by Controller or court.
+
+48. Notice of suspension.
+
+49. Termination of suspension initiated by request.
+
+50. Alternate contractual procedures.
+
+51. Prohibition against false or unauthorised request for suspension of certificate.
+
+52. Effect of suspension of certificate.
 
 ## CHAPTER 6
 
 Revocation of certificate
 
-53. Revocation on request. 54. Revocation on subscriber's demise. 55. Revocation of unreliable certificates.
+53. Revocation on request.
+
+54. Revocation on subscriber's demise.
+
+55. Revocation of unreliable certificates.
 
 <!-- page 4 -->
 
 ### Bill
 
-56. Notice of revocation. 57. Effect of revocation request on subscriber. 58. Effect of notification on licensed certification authority.
+56. Notice of revocation.
+
+57. Effect of revocation request on subscriber.
+
+58. Effect of notification on licensed certification authority.
 
 ## CHAPTER 7
 
@@ -140,25 +172,43 @@ Expiration of certificate
 
 Recommended reliance limits and liability
 
-60. Recommended reliance limit. 61. Liability limits for licensed certification authorities.
+60. Recommended reliance limit.
+
+61. Liability limits for licensed certification authorities.
 
 ## PART V
 
 ## EFFECT OF DIGITAL SIGNATURE
 
-62. Satisfaction of signature requirements. 63. Unreliable digital signatures. 64. Digitally signed document deemed to be written document. 65. Digitally signed document deemed to be original document. 66. Authentication of digital signatures. 67. Presumptions in adjudicating disputes.
+62. Satisfaction of signature requirements.
+
+63. Unreliable digital signatures.
+
+64. Digitally signed document deemed to be written document.
+
+65. Digitally signed document deemed to be original document.
+
+66. Authentication of digital signatures.
+
+67. Presumptions in adjudicating disputes.
 
 ## PART VI
 
 ## REPOSITORIES AND DATE/TIME STAMP SERVICES
 
-68. Recognition of repositories. 69. Liability of repositories. 70. Recognition of date/time stamp services.
+68. Recognition of repositories.
+
+69. Liability of repositories.
+
+70. Recognition of date/time stamp services.
 
 ## PART VII
 
 ## GENERAL
 
-71. Prohibition against dangerous activities. 72. Obligation of secrecy.
+71. Prohibition against dangerous activities.
+
+72. Obligation of secrecy.
 
 <!-- page 5 -->
 
@@ -168,9 +218,41 @@ Digital Signature
 
 74. Offences by body corporate.
 
-75. Authorised officer. 76. Power to investigate, 77. Search by warrant. 78. Search and seizure without warrant. 79. Access to computerised data. 80. List of things seized. 81. Obstruction of authorised officer. 82. Additional powers. 83. General penalty. 84. Recovery of procedurat costs. 85. No costs or damages arising from seizure to be recoverable. 86. Institution and conduct of prosecution. 87. Jurisdiction to try offences. 88. Protection of officers. 89. Power to exempt.
+75. Authorised officer.
 
-90. Limitation on disclaiming or limiting application of Act. 91. Regulations. 92. Savings and transitional.
+76. Power to investigate,
+
+77. Search by warrant.
+
+78. Search and seizure without warrant.
+
+79. Access to computerised data.
+
+80. List of things seized.
+
+81. Obstruction of authorised officer.
+
+82. Additional powers.
+
+83. General penalty.
+
+84. Recovery of procedurat costs.
+
+85. No costs or damages arising from seizure to be recoverable.
+
+86. Institution and conduct of prosecution.
+
+87. Jurisdiction to try offences.
+
+88. Protection of officers.
+
+89. Power to exempt.
+
+90. Limitation on disclaiming or limiting application of Act.
+
+91. Regulations.
+
+92. Savings and transitional.
 
 <!-- page 7 -->
 
@@ -406,9 +488,15 @@ from the requirements of this section.
 
 (6) The liability limits specified in Chapter 8 of Part IV shall not apply to an exempted certification authority and Part V shall not apply in relation to a digital signature verified by a certificate issued by an exempted certification authority.
 
-Qualifica- 5. (1) The Minister shall, by regulations made under tions of this Act, prescribe the qualification requirements for certification certification authorities. authorities
+<!-- marginal: Qualifica- -->
 
-(2) The Minister may at any time vary or amend the qualification requirements prescribed under subsection (1) provided that any such variation or amendment shall not be applied to a certification authority holding a valid licence under this Act until the expiry of that Hcence.
+5. (1) The Minister shall, by regulations made under tions of this Act, prescribe the qualification requirements for certification certification authorities.
+
+<!-- marginal: authorities -->
+
+(2) The Minister may at any time vary or amend the qualification requirements prescribed under subsection
+
+(1) provided that any such variation or amendment shall not be applied to a certification authority holding a valid licence under this Act until the expiry of that Hcence.
 
 <!-- page 15 -->
 
@@ -496,7 +584,7 @@ has been set aside by the Minister but nothing in this subsection shall prevent 
 
 (8) Any delay or failure in publishing or advertising such notice of revocation shall not in any manner affect the validity of the revocation.
 
-Appeal.
+<!-- marginal: Appeal. -->
 
 10. (1) Any person who is aggrieved by—
 
@@ -508,7 +596,9 @@ may appeal in writing to the Minister within fourteen days from the date on whic
 
 (2) The decision of the Minister under this section shall be final and conclusive.
 
-Surrender 11. (1) A licensed certification authority may surrender its licence by forwarding it to the Controller with a written notice of its surrender.
+<!-- marginal: Surrender -->
+
+11. (1) A licensed certification authority may surrender its licence by forwarding it to the Controller with a written notice of its surrender.
 
 <!-- page 19 -->
 
@@ -554,7 +644,7 @@ any business in respect of which the licence was granted. licence
 
 (8) Where the Controller has appointed a licensed certification authority to take over the certificates of a certification authority under subsection (6), the certification authority shall pay to the appointed licensed certification authority such part of the prescribed fee paid by the subscribers to it as the Controller may determine.
 
-Effect of
+<!-- marginal: Effect of -->
 
 13. (1) The liability limits specified in Chapter 8 of lack of part IV shall not apply to unlicensed certification licence authorities.
 
@@ -604,9 +694,7 @@ Restriction
 
 16. Except with the written consent of the Controller, on use of no person, not being a licensed certification authority, expression shall assume or use the expressions "certification authority" "certification or " licensed certification authority", as the case may be, authority or any derivative of these expressions in any language, or any other words in any language capable of being construed as indicating the carrying on or operation of such business, in relation to the business or any part of the business carried on by such person, or make any representation to such effect in any bill head, letter, paper, notice, advertisement or in any other manner.
 
-Renewal of
-
-17. (l) Every licensed certification authority shall submit licence an application to the Controller in such form as may be prescribed for the renewal of its licence at least thirty, but not more than sixty, days before the date of expiry of the licence and such application shall be accompanied by such documents and information as may be required by the Controller.
+Renewal of 17. (l) Every licensed certification authority shall submit licence an application to the Controller in such form as may be prescribed for the renewal of its licence at least thirty, but not more than sixty, days before the date of expiry of the licence and such application shall be accompanied by such documents and information as may be required by the Controller.
 
 (2) The prescribed fee shall be payable upon approval of the application,
 
@@ -650,9 +738,13 @@ Bill
 
 (4) The Controller shall publish in the certification authority disclosure record he maintains for the licensed certification authority concerned the date and result of the audit.
 
-Exemption
+<!-- marginal: Exemption -->
 
-21. (1) The Controller may exempt a licensed performance certification authority from the requirements of section audit. 20 if——
+21. (1) The Controller may exempt a licensed performance certification authority from the requirements of section
+
+<!-- marginal: audit. -->
+
+20 if——
 
 (a) the licensed certification authority requests in writing for exemption;
 
@@ -732,9 +824,7 @@ Requirements 26. A licensed certification authority shall not publish, as to adv
 
 General requirements for licensed certi/ication authorities
 
-use of
-
-27. (1) A licensed certification authority shall only use trustworthy a trustworthy system — systems.
+use of 27. (1) A licensed certification authority shall only use trustworthy a trustworthy system — systems.
 
 (a) to issue, suspend or revoke a certificate;
 
@@ -814,7 +904,9 @@ certification authority to suspend or revoke a certificate or revocation issued 
 
 (b) the non-compliance poses a significant risk to persons reasonably relying on the certificate.
 
-(2) Before making a determination under subsection (1), the Controller shall give the licensed certification authority and the subscriber a reasonable opportunity of being heard.
+(2) Before making a determination under subsection
+
+(1), the Controller shall give the licensed certification authority and the subscriber a reasonable opportunity of being heard.
 
 (3) Notwithstanding subsections (1) and (2), where in the opinion of the Controller there exists an emergency that requires an immediate remedy, the Controller may, after consultation with the Minister, suspend a certificate for a period not exceeding forty-eight hours.
 
@@ -952,9 +1044,13 @@ certificate is a transactional certificate, the Controller or certificate a cour
 
 (3) The Controller or other law enforcement agency may investigate suspensions by the Controller or court for possible wrongdoing by persons requesting suspension.
 
-Notice of
+<!-- marginal: Notice of -->
 
-48. (1) Immediately upon suspension of a certificate suspension. by a licensed certification authority, the licensed certification authority shall publish a signed notice of the suspension in the repository specified in the certificate for publication of notice of suspension.
+48. (1) Immediately upon suspension of a certificate
+
+<!-- marginal: suspension. -->
+
+by a licensed certification authority, the licensed certification authority shall publish a signed notice of the suspension in the repository specified in the certificate for publication of notice of suspension.
 
 (2) Where one or more repositories are specified, the licensed certification authority shall publish signed notices of the suspension in all such repositories.
 
@@ -962,7 +1058,9 @@ Notice of
 
 (4) Where a certificate is suspended by the Controller or a court, the Controller or court shall give notice as required in this section for a licensed certification authority provided that the person requesting suspension pays in advance any prescribed fee required by a repository for publication of the notice of suspension.
 
-Termination 49. A licensed certification authority shall terminate a of suspension suspension initiated by request—
+<!-- marginal: Termination -->
+
+49. A licensed certification authority shall terminate a of suspension suspension initiated by request—
 
 (a) where the subscriber named in the suspended certificate requests termination of the suspension,
 
@@ -1014,7 +1112,7 @@ a certificate which it issued but which is not a transactional on request certif
 
 (2) A licensed certification authority shall confirm a request for revocation and revoke a certificate within one business day after receiving both a subscriber's written request and evidence reasonably sufficient to confirm the identity of the person requesting the revocation or of the agent.
 
-Revocation
+<!-- marginal: Revocation -->
 
 54. A licensed certification authority shall revoke a on sub- certificate which it issued—
 
@@ -1022,15 +1120,19 @@ Revocation
 
 (b) upon presentation of documents effecting a dissolution of the subscriber or upon confirming by other evidence that the subscriber has been dissolved or has ceased to exist.
 
-Revocation
+<!-- marginal: Revocation -->
 
 55. (1) A licensed certification authority may revoke of unreliable one or more certificates which it issued if the certificates certificates are or become unreliable regardless of whether the subscriber consents to the revocation and notwithstanding any provision to the contrary in a contract between the subscriber and the licensed certification authority.
 
 (2) Nothing in subsection (1) shall prevent the subscriber from seeking damages or other relief against the licensed certification authority in the event of wrongful revocation.
 
-Notice of
+<!-- marginal: Notice of -->
 
-56. (1) Immediately upon revocation of a certificate revocation. by a hcensed certification authonty, the licensed certification authority shall publish a signed notice of the revocation in the repository specified in the certificate for publication of notice of revocation.
+56. (1) Immediately upon revocation of a certificate
+
+<!-- marginal: revocation. -->
+
+by a hcensed certification authonty, the licensed certification authority shall publish a signed notice of the revocation in the repository specified in the certificate for publication of notice of revocation.
 
 <!-- page 37 -->
 
@@ -1082,15 +1184,19 @@ specified in the certificate. of certificate
 
 Recommended reliance limits and liability
 
-Recom- 60. (1) A licensed certification authority shall, in issuing mended reliance relia mended a certificate to a subscriber, specify a recommended reliance reliance limit in the certificate limit (2) The licensed certification authority may specify different limits in different certificates as it considers fit.
+Recom- 60. (1) A licensed certification authority shall, in issuing mended mended a certificate to a subscriber, specify a recommended reliance reliance limit in the certificate
 
-Liability
+<!-- marginal: limit -->
+
+(2) The licensed certification authority may specify different limits in different certificates as it considers fit.
+
+<!-- marginal: Liability -->
 
 61. Unless a licensed certification authority waives the limits for application of this section, a licensed certification
 
 ### licensed authority——
 
-authorities.
+<!-- marginal: authorities. -->
 
 (a) shall not be liable for any loss caused by reliance on a false or forged digital signature of a subscriber, if, with respect to the false or forged digital signature, the licensed certification authority complied with the requirements of this Act;
 
@@ -1206,7 +1312,7 @@ is issued by the licensed certification authority which digitally signed it and 
 
 ## REPOSITORIES AND DATE/TIME STAMP SERVICES
 
-Recognition
+<!-- marginal: Recognition -->
 
 68. (1) The Controller may recognise one or more of reposi repositories, after determining that a repository to be tories recognised satisfies the requirements prescribed in the regulations made under this Act.
 
@@ -1214,7 +1320,7 @@ Recognition
 
 (3) The Controller shall publish a list of recognised repositories in such form and manner as he may determine.
 
-Liability of
+<!-- marginal: Liability of -->
 
 69. (1) Notwithstanding any disclaimer by the repository repositones. or any contract to the contrary between the repository and a licensed certification authority or a subscriber, a repository shall be liable for a loss incurred by a person reasonably relying on a digital signature verified by the public key listed in a suspended or revoked certificate, if loss was incurred more than one business day after receipt by the repository of a request to publish notice of the suspension or revocation, and the repository had failed to publish the notice when the person relied on the digital signature.
 
@@ -1258,7 +1364,13 @@ Bill
 
 ## GENERAL
 
-Prohibition 71. (1) No certification authority, whether licensed or against not, shall conduct its business in a manner that creates dangerous an unreasonable risk of loss to the subscribers of the activities certification authority, to persons relying on certificates issued by the certification authority or to a repository.
+<!-- marginal: Prohibition -->
+
+71. (1) No certification authority, whether licensed or
+
+<!-- marginal: against -->
+
+not, shall conduct its business in a manner that creates dangerous an unreasonable risk of loss to the subscribers of the activities certification authority, to persons relying on certificates issued by the certification authority or to a repository.
 
 (2) The Controller may publish in one or more recognised repositories brief statements advising subscribers, persons relying on digital signatures and repositories about any activities of a certification authority, whether licensed or not, which create a risk prohibited under subsection (1).
 
@@ -1314,15 +1426,19 @@ Bill
 
 (c) by the employee of such agent in the course of his employment by such agent or otherwise on behalf of the agent.
 
-Authorised
+<!-- marginal: Authorised -->
 
-75. (1) The Minister may in writing authorise any public officer. officer or officer of the Controller to exercise the powers of enforcement under this Act.
+75. (1) The Minister may in writing authorise any public
+
+<!-- marginal: officer. -->
+
+officer or officer of the Controller to exercise the powers of enforcement under this Act.
 
 (2) Any such officer shall be deemed to be a public servant within the meaning of the Penal Code.
 
 (3) In exercising any of the powers of enforcement under this Act, an authorised officer shall on demand produce to the person against whom he is acting the authority issued to him by the Minister.
 
-power to
+<!-- marginal: power to -->
 
 76. (1) The Controller may investigate the activities investigate. of a certification authority material to its compliance with this Act.
 
@@ -1358,13 +1474,31 @@ Digital Signature
 
 (5) or removes any book, accounts, document, computerised data, signboard, card, letter, pamphlet, leaflet, notice, device, article or item under seal or attempts to do so commits an offence.
 
-Search and
+<!-- marginal: Search and -->
 
-78. If a police officer not below the rank of Inspector seizure in any of the circumstances referred to in section 77 has without warrant. reasonable cause to believe that by reason of delay in obtaining a search warrant under that section the investigation would be adversely affected or evidence of the commission of an offence is likely to be tampered with, removed, damaged or destroyed, such officer may enter such premises and exercise in, upon and in respect of the premises all the powers referred to in section 77 in as full and ample a manner as if he were authorised to do so by a warrant issued under that section.
+78. If a police officer not below the rank of Inspector
 
-Access to
+<!-- marginal: seizure -->
 
-79. (1) A police officer conducting a search under computerisec section 77 or 78 or an authorised officer conducting a data. search under section 77 shall be given access to computerised data whether stored in a computer or otherwise.
+in any of the circumstances referred to in section 77 has
+
+<!-- marginal: without -->
+
+<!-- marginal: warrant. -->
+
+reasonable cause to believe that by reason of delay in obtaining a search warrant under that section the investigation would be adversely affected or evidence of the commission of an offence is likely to be tampered with, removed, damaged or destroyed, such officer may enter such premises and exercise in, upon and in respect of the premises all the powers referred to in section 77 in as full and ample a manner as if he were authorised to do so by a warrant issued under that section.
+
+<!-- marginal: Access to -->
+
+79. (1) A police officer conducting a search under
+
+<!-- marginal: computerisec -->
+
+section 77 or 78 or an authorised officer conducting a
+
+<!-- marginal: data. -->
+
+search under section 77 shall be given access to computerised data whether stored in a computer or otherwise.
 
 <!-- page 49 -->
 
@@ -1422,13 +1556,9 @@ exceeding four years or to both, and in the case of a continuing offence shall i
 
 (2) For the purposes of this section, "this Act" does not include the regulations made under this Act.
 
-Recovery of
+Recovery of 84. Where the Controller finds that a certification procedurat authority has contravened this Act, the Controller may costs order the certification authority to pay the costs incurred by the Controller in prosecution and adjudication proceedings in relation to the order and in enforcing it.
 
-84. Where the Controller finds that a certification procedurat authority has contravened this Act, the Controller may costs order the certification authority to pay the costs incurred by the Controller in prosecution and adjudication proceedings in relation to the order and in enforcing it.
-
-No costs or
-
-85. No person shall, in any proceedings before any court damages in respect of the seizure of any book, accounts, document, arising from computerised data, signboard, card, letter, pamphlet, leaflet, seizure to be notice,device, article or item seized in the exercise or recoverable the purported exercise of any power conferred under this Act, be entitled to the costs of such proceedings or to any damages or other relief unless such seizure was made without reasonable cause.
+No costs or 85. No person shall, in any proceedings before any court damages in respect of the seizure of any book, accounts, document, arising from computerised data, signboard, card, letter, pamphlet, leaflet, seizure to be notice,device, article or item seized in the exercise or recoverable the purported exercise of any power conferred under this Act, be entitled to the costs of such proceedings or to any damages or other relief unless such seizure was made without reasonable cause.
 
 Institution 86. (1) No prosecution for or in relation to any offence and conduct under this Act shall be instituted without the written of consent of the Public Prosecutor.
 
@@ -1436,9 +1566,7 @@ Institution 86. (1) No prosecution for or in relation to any offence and conduct
 
 Jurisdiction 87. Notwithstanding any written law to the contrary, a to try Court of a Magistrate of the First Class shall have offences jurisdiction to try any offence under this Act and to impose the full punishment for any such offence.
 
-protection
-
-88. No action or prosecution shall be brought, instituted of officers. or maintained in any court against —
+protection 88. No action or prosecution shall be brought, instituted of officers. or maintained in any court against —
 
 (a) the Controller or any officer duly authorised under this Act for or on account of or in respect of any act ordered or done for the purpose of carrying into effect this Act; and
 
@@ -1524,9 +1652,7 @@ Clause 2 contains the definitions of several expressions used in the proposed Ac
 
 Clause 3 seeks to empower the Minister to appoint a Controller of Certification Authorities. It also seeks to empower the Controller, after consultation with the Minister, to appoint such number of officers and servants as the Controller considers necessary. The function of the Controller is primarily to license certification authorities and to monitor and oversee the activities of certification authorities.
 
-Clause 4 seeks to introduce a mandatory licensing scheme for certification authorities. The mandatory licensing scheme is proposed to establish a minimum regulatory system to provide a basic level of reliability in certification authority practice without undermining the reliability of any signature by invalidating it for lack of a regulatory licence. Under the proposed scheme, a digital signature may nevertheless be reliable and legally valid if verified by a certificate issued by an unlicensed certification authority or without verification by any certificate at all. However, in such cases and as expressly provided in clause 13 of the proposed Act, neither the liability limits specified in Chapter 8 of Part IV of the proposed Act nor
-
-## Part V of the proposed Act shall apply.
+Clause 4 seeks to introduce a mandatory licensing scheme for certification authorities. The mandatory licensing scheme is proposed to establish a minimum regulatory system to provide a basic level of reliability in certification authority practice without undermining the reliability of any signature by invalidating it for lack of a regulatory licence. Under the proposed scheme, a digital signature may nevertheless be reliable and legally valid if verified by a certificate issued by an unlicensed certification authority or without verification by any certificate at all. However, in such cases and as expressly provided in clause 13 of the proposed Act, neither the liability limits specified in Chapter 8 of Part IV of the proposed Act nor Part V of the proposed Act shall apply.
 
 <!-- page 54 -->
 

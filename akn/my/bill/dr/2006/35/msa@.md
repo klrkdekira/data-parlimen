@@ -12,27 +12,13 @@ D.R. 35/2006
 
 ## PERMULAAN
 
-1. Taju k rin g ka s d an p ermu la an ku at ku asa
-
-2. Tafsiran
+1. Taju k rin g ka s d an p ermu la an ku at ku asa 2. Tafsiran
 
 ## BAHAGIAN II
 
 ## KUMPULAN WANG PERSARAAN (DIPERBADANKAN)
 
-3. Penubuh an Ku mpu lan Wan g P ersaraan (Diperb ad an kan )
-
-4. Fungsi dan kuasa Ku mpulan Wang Persaraan (Diperbad ankan)
-
-5. Meterai perb adanan
-
-6. Lembaga
-
-7. Panel Pelaburan
-
-8. Jawatankuasa
-
-9. Ketu a P ega wai Ek se ku tif
+3. Penubuh an Ku mpu lan Wan g P ersaraan (Diperb ad an kan ) 4. Fungsi dan kuasa Ku mpulan Wang Persaraan (Diperbad ankan) 5. Meterai perb adanan 6. Lembaga 7. Panel Pelaburan 8. Jawatankuasa 9. Ketu a P ega wai Ek se ku tif
 
 10. Pelantikan pegawai, pekhidmat, wakil, ejen, dll.
 

@@ -60,11 +60,51 @@ dipinda—
 
 (f) dengan menggantikan perkataan "INSTITIUT" dan "Institiut" di mana-mana jua terdapat di dalamnya, kecuali dalam baris 3 tajuk panjang, dalam subseksyen 42(1), dan di mana-mana ia terdapat selepas perkataan "Pengarah" dalam subseksyen 42(2), masing-masingnya dengan perkataan "INSTITUT" dan "Institut".
 
-Pentafsiran
+<!-- marginal: Pentafsiran -->
 
-3. Jika, apabila Akta ini mula berkuatkuasa, sesuatu sebutan- sebutan dibuat di bawah mana-mana undang-undang sebutan mengenai bertulis mengenai teks Bahasa Malaysia Akta ibu, teks Bahasa sebutan itu hendaklah ditafsirkan sebagai sebutan Malaysia Akta ibu. mengenai Akta Institut Standard dan Penyelidikan Perindustrian Malaysia (Perbadanan) 1975.
+3. Jika, apabila Akta ini mula berkuatkuasa, sesuatu
 
-Pertukaran 4, (1) Institiut Piawaian dan Penyelidikan Perindustrian nama Malaysia yang disebut "Institut" dalam Akta ini, yang Institiut dalam ditubuhkan di bawah seksyen 3 Akta ibu, hendaklah, Bahasa apabila Akta ini mula berkuatkuasa dikenali dalam Malaysia. Bahasa Malaysia sebagai "Institut Standard dan Penyelidikan Perindustrian Malaysia"; dan semua
+<!-- marginal: sebutan- -->
+
+sebutan dibuat di bawah mana-mana undang-undang
+
+<!-- marginal: sebutan -->
+
+<!-- marginal: mengenai -->
+
+bertulis mengenai teks Bahasa Malaysia Akta ibu,
+
+<!-- marginal: teks Bahasa -->
+
+sebutan itu hendaklah ditafsirkan sebagai sebutan
+
+<!-- marginal: Malaysia -->
+
+<!-- marginal: Akta ibu. -->
+
+mengenai Akta Institut Standard dan Penyelidikan Perindustrian Malaysia (Perbadanan) 1975.
+
+<!-- marginal: Pertukaran -->
+
+4, (1) Institiut Piawaian dan Penyelidikan Perindustrian
+
+<!-- marginal: nama -->
+
+Malaysia yang disebut "Institut" dalam Akta ini, yang
+
+<!-- marginal: Institiut -->
+
+<!-- marginal: dalam -->
+
+ditubuhkan di bawah seksyen 3 Akta ibu, hendaklah,
+
+<!-- marginal: Bahasa -->
+
+apabila Akta ini mula berkuatkuasa dikenali dalam
+
+<!-- marginal: Malaysia. -->
+
+Bahasa Malaysia sebagai "Institut Standard dan Penyelidikan Perindustrian Malaysia"; dan semua
 
 <!-- page 3 -->
 
@@ -122,21 +162,31 @@ bagi Institiut Piawaian dan Penyelidikan Perindustrian Malaysia atau mana-mana o
 
 <!-- page 4 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-7. Tajuk panjang Akta ibu adalah dipinda— tajuk panjang.
+7. Tajuk panjang Akta ibu adalah dipinda—
+
+<!-- marginal: tajuk -->
+
+<!-- marginal: panjang. -->
 
 (a) dengan memotong perkataan "dan" yang terdapat sebelum perkataan "amalan-amalan" di baris 8; dan
 
 (b) dengan memasukkan, selepas sahaja perkataan "amalan-amalan", perkataan-perkataan "dan perkhidmatan-perkhidmatan".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-8. Seksyen 2 Akta ibu adalah dipinda— seksyen 2.
+8. Seksyen 2 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 2. -->
 
 (a) dengan memasukkan, sebelum sahaja takrif "barangan", takrif baru yang berikut:
 
-' "akreditasi" ertinya suatu proses yang membawa kepada pengiktirafan formal . kekompetenan melalui penilaian teknikal pakar-pakar berkenaan segala aspek pengendalian berdasarkan kriteria yang telah dipersetujui;';
+' "akreditasi" ertinya suatu proses yang membawa kepada pengiktirafan formal . kekompetenan melalui penilaian teknikal pakar-pakar berkenaan segala
+
+<!-- marginal: aspek -->
+
+pengendalian berdasarkan kriteria yang telah dipersetujui;';
 
 (b) dengan memasukkan, selepas sahaja perkataan "Malaysia" dalam takrif "Institut", perkataan- perkataan "yang ditubuhkan di bawah seksyen 3";
 
@@ -180,15 +230,21 @@ Pindaan
 
 (j) dengan memotong takrif "Pengawal";
 
-(k) dengan menggantikan takrif-takrif "Pengerusi" dan "Timbalan Pengerusi" dengan takrif baru yang berikut: ' "Pengerusi" ertinya Pengerusi Lembaga yang dilantik di bawah seksyen 7(1);';
+(k) dengan menggantikan takrif-takrif "Pengerusi" dan "Timbalan Pengerusi" dengan takrif baru yang berikut: ' "Pengerusi" ertinya Pengerusi Lembaga yang dilantik di bawah seksyen 7(1);'; (l) dengan memasukkan, selepas sahaja takrif "Pengerusi", takrif-takrif baru yang berikut: ' "Setiausaha" ertinya Setiausaha Lembaga yang dilantik di bawah seksyen 7(2); "Sistem Ukuran Kebangsaan" ertinya suatu sistem untuk membolehkan pengesanan ukuran berasaskan standard fizik kebangsaan dan bagi menyediakan perkhidmatan- perkhidmatan pengukuran; "syarikat" mempunyai erti yang sama seperti yang diberikan kepada "perbadanan"
 
-(l) dengan memasukkan, selepas sahaja takrif "Pengerusi", takrif-takrif baru yang berikut: ' "Setiausaha" ertinya Setiausaha Lembaga yang dilantik di bawah seksyen 7(2); "Sistem Ukuran Kebangsaan" ertinya suatu sistem untuk membolehkan pengesanan ukuran berasaskan standard fizik kebangsaan dan bagi menyediakan perkhidmatan- perkhidmatan pengukuran; "syarikat" mempunyai erti yang sama seperti yang diberikan kepada "perbadanan" Akta 125. di bawah seksyen 4(1) Akta Syarikat 1965;';
+<!-- marginal: Akta 125. -->
+
+di bawah seksyen 4(1) Akta Syarikat 1965;';
 
 (m) dengan menggantikan noktah di akhir takrif "tanda standard" dengan koma bernoktah; dan
 
-(n) dengan memasukkan, selepas sahaja takrif "tanda standard", takrif-takrif baru yang berikut: ' "Timbalan Ketua Pengarah" dan "Pengarah" masing-masing ertinya Timbalan Ketua Pengarah dan Pengarah Institut yang dilantik di bawah seksyen 17.'.
+(n) dengan memasukkan, selepas sahaja takrif "tanda standard", takrif-takrif baru yang berikut: ' "Timbalan Ketua Pengarah"
 
-Pindaan am.
+<!-- marginal: dan -->
+
+"Pengarah" masing-masing ertinya Timbalan Ketua Pengarah dan Pengarah Institut yang dilantik di bawah seksyen 17.'.
+
+<!-- marginal: Pindaan am. -->
 
 9. Akta ibu adalah dipinda—
 
@@ -286,21 +342,29 @@ Lembaga atau mana-mana orang yang bertindak bagi pihaknya hendaklah, apabila Akt
 
 Lembaga atau mana-mana orang yang bertindak bagi pihaknya tanpa apa-apa pemindahhakan, penyerahhakan atau pemindahmilikan jua pun.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-13. Seksyen 4 Akta ibu adalah dipinda dengan seksyen 4. memasukkan, selepas sahaja perkataan "penyelidikan" di perenggan (d), perkataan-perkataan "saintifik dan".
+13. Seksyen 4 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 4. -->
 
-14. Seksyen 5 Akta ibu adalah dipinda— seksyen 5.
+memasukkan, selepas sahaja perkataan "penyelidikan" di perenggan (d), perkataan-perkataan "saintifik dan".
 
-(a) dengan memasukkan, selepas sahaja perenggan
+<!-- marginal: Pindaan -->
 
-(a), perenggan baru (aa), (ab), (ac), (ad) dan
+14. Seksyen 5 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 5. -->
+
+(a) dengan memasukkan, selepas sahaja perenggan (a), perenggan baru (aa), (ab), (ac), (ad) dan
 
 (ae) yang berikut:
 
-"(aa) menjalankan perakuan barangan, proses, amalan dan perkhidmatan dan mengeluarkan lesen-lesen atau perakuan-perakuan mengikut mana- mana yang berkenaan, untuk mem- buktikan bahawa barangan, proses, amalan dan perkhidmatan itu menepati apa-apa penentuan atau kehendak yang diluluskan oleh Institut sebagaimana yang dianggapnya sesuai atau perlu;
+"(aa) menjalankan perakuan barangan, proses, amalan dan perkhidmatan dan mengeluarkan lesen-lesen
+
+<!-- marginal: atau -->
+
+perakuan-perakuan mengikut mana- mana yang berkenaan, untuk mem- buktikan bahawa barangan, proses, amalan dan perkhidmatan itu menepati apa-apa penentuan atau kehendak yang diluluskan oleh Institut sebagaimana yang dianggapnya sesuai atau perlu;
 
 (ab) menjalankan akreditasi makmal- makmal, pertubuhan-pertubuhan atau ejen-ejen pemerakuan dan personel pemerakuannya, agensi-agensi penulisan standard dan apa-apa pertubuhan atau aktiviti lain yang ditentukan oleh Institut;
 
@@ -406,11 +470,7 @@ sains perindustrian, teknologi dan
 
 (w) menjalankan semua kuasa, menunaikan semua tugas dan melaksanakan semua kewajipan yang, di bawah mana-mana undang-undang bertulis lain, adalah atau mungkin, atau mungkin menjadi, terletakhak pada Institut atau yang diwakilkan kepada Institut; dan
 
-(x) melaksanakan apa-apa tugas
-
-<!-- marginal: lain -->
-
-sebagaimana yang dikehendaki oleh Menteri.".
+(x) melaksanakan apa-apa tugas lain sebagaimana yang dikehendaki oleh Menteri.".
 
 <!-- marginal: Pindaan -->
 
@@ -420,7 +480,13 @@ sebagaimana yang dikehendaki oleh Menteri.".
 
 seksyen 7 dengan seksyen 7 baru yang berikut:
 
-"Keahlian 7. (1) Lembaga hendaklah terdiri daripada Lembaga. ahli-ahli berikut yang hendaklah dilantik oleh Menteri:
+<!-- marginal: "Keahlian -->
+
+7. (1) Lembaga hendaklah terdiri daripada
+
+<!-- marginal: Lembaga. -->
+
+ahli-ahli berikut yang hendaklah dilantik oleh Menteri:
 
 (a) seorang Pengerusi;
 
@@ -438,19 +504,37 @@ seksyen 7 dengan seksyen 7 baru yang berikut:
 
 <!-- page 12 -->
 
-### Seksyen baru
+<!-- marginal: Seksyen baru -->
 
 16. Akta ibu adalah dipinda dengan memasukkan,
 
-### 7A dan 7B.
+<!-- marginal: 7A dan 7B. -->
 
-selepas sahaja seksyen 7, seksyen baru 7A dan 7B yang berikut:
+selepas sahaja seksyen 7, seksyen baru 7A dan 7B yang
 
-"Penjalanan
+<!-- marginal: berikut: -->
 
-7A. Menteri boleh melantik mana-mana ahli sementara Lembaga yang difikirkannya layak untuk tugas-tugas Pengerusi. menjalankan tugas-tugas Pengerusi semasa tempoh Pengerusi, kerana apa-apa sebab, tidak dapat menjalankan tugas-tugasnya atau semasa tempoh kekosongan jawatan Pengerusi, dan ahli sedemikian hendaklah, sepanjang tempoh dia menjalankan tugas-tugas Pengerusi di bawah seksyen ini, disifatkan sebagai Pengerusi.
+<!-- marginal: "Penjalanan -->
 
-Kuasa-kuasa 7 B. Lembaga hendaklah mempunyai kuasa Lembaga. untuk melakukan segala perkara yang semunasabahnya perlu bagi, atau yang suaimanfaat atau bersampingan dengan, penjalanan kuasa-kuasa dan penunaian tugas- tugas Institut dan bagi melaksanakan peruntukan-peruntukan Akta ini, dan khususnya tetapi tanpa menyentuh keluasan apa yang disebut di atas, Lembaga hendaklah mempunyai kuasa—
+7A. Menteri boleh melantik mana-mana ahli
+
+<!-- marginal: sementara -->
+
+Lembaga yang difikirkannya layak untuk
+
+<!-- marginal: tugas-tugas -->
+
+<!-- marginal: Pengerusi. -->
+
+menjalankan tugas-tugas Pengerusi semasa tempoh Pengerusi, kerana apa-apa sebab, tidak dapat menjalankan tugas-tugasnya atau semasa tempoh kekosongan jawatan Pengerusi, dan ahli sedemikian hendaklah, sepanjang tempoh dia menjalankan tugas-tugas Pengerusi di bawah seksyen ini, disifatkan sebagai Pengerusi.
+
+<!-- marginal: Kuasa-kuasa -->
+
+7 B. Lembaga hendaklah mempunyai kuasa
+
+<!-- marginal: Lembaga. -->
+
+untuk melakukan segala perkara yang semunasabahnya perlu bagi, atau yang suaimanfaat atau bersampingan dengan, penjalanan kuasa-kuasa dan penunaian tugas- tugas Institut dan bagi melaksanakan peruntukan-peruntukan Akta ini, dan khususnya tetapi tanpa menyentuh keluasan apa yang disebut di atas, Lembaga hendaklah mempunyai kuasa—
 
 (a) untuk menentukan dasar-dasar Institut;
 
@@ -466,47 +550,31 @@ Kuasa-kuasa 7 B. Lembaga hendaklah mempunyai kuasa Lembaga. untuk melakukan sega
 
 ## PERINDUSTRIAN MALAYSIA (PERBADANAN) (PINDAAN)
 
-memasuki sesuatu perkongsian, usahasama, pengusahaan, kerjasama mengikut apa-apa cara, perkiraan bagi perkongsian keuntungan atau selainnya, dengan mana-mana orang, badan, pihak berkuasa awam, perbadanan, syarikat atau badan lain yang menjalankan atau terlibat dalam, atau baru saja hendak menjalankan atau terlibat dalam apa-apa aktiviti yang serupa dengan aktiviti- aktiviti Institut, dan untuk mengambil atau selainnya memperolehi syer dan sekuriti apa-apa enterprais, usaha, orang, badan, pihak berkuasa
-
-<!-- marginal: awam, -->
-
-perbadanan atau syarikat sedemikian, dan untuk menjual, memegang, atau menerbitkan semula dengan atau tanpa gerenti, syer dan sekuriti sedemikian atau selainnya berurusan dengannya;
+memasuki sesuatu perkongsian, usahasama, pengusahaan, kerjasama mengikut apa-apa cara, perkiraan bagi perkongsian keuntungan atau selainnya, dengan mana-mana orang, badan, pihak berkuasa awam, perbadanan, syarikat atau badan lain yang menjalankan atau terlibat dalam, atau baru saja hendak menjalankan atau terlibat dalam apa-apa aktiviti yang serupa dengan aktiviti- aktiviti Institut, dan untuk mengambil atau selainnya memperolehi syer dan sekuriti apa-apa enterprais, usaha, orang, badan, pihak berkuasa awam, perbadanan atau syarikat sedemikian, dan untuk menjual, memegang, atau menerbitkan semula dengan atau tanpa gerenti, syer dan sekuriti sedemikian atau selainnya berurusan dengannya;
 
 (e) untuk mengawas aktiviti-aktiviti semua Majlis dan jawatankuasa;
 
-(f) untuk menasihati Menteri
+(f) untuk menasihati Menteri tentang perkara-perkara mengenai kepentingan Institut; dan
 
-<!-- marginal: tentang -->
+(g) untuk melakukan apa-apa jua dan untuk membuat apa-apa urusniaga (sama ada atau tidak melibatkan perbelanjaan, peminjaman mengikut Akta ini, pemberian pinjaman atau pelaburan wang, perolehan, penggunaan dan pelupusan apa-apa harta alih atau harta tak alih) yang pada pendapatnya adalah direncanakan untuk memudahkan pelaksanaan sepatutnya tugas-tugasnya dengan berkesan.".
 
-perkara-perkara mengenai kepentingan Institut; dan
+Pemotongan
 
-(g) untuk melakukan apa-apa jua dan untuk membuat apa-apa urusniaga (sama ada atau tidak melibatkan perbelanjaan, peminjaman mengikut Akta
+17. Seksyen 8, 9, 10, 11, 12 dan 15 Akta ibu adalah seksyen 8, 9,
 
-<!-- marginal: ini, -->
+<!-- marginal: dipotong. -->
 
-pemberian pinjaman atau pelaburan wang, perolehan, penggunaan dan pelupusan apa-apa harta alih atau harta tak alih) yang pada pendapatnya adalah direncanakan untuk memudahkan pelaksanaan sepatutnya tugas-tugasnya dengan berkesan.".
-
-<!-- marginal: Pemotongan -->
-
-17. Seksyen 8, 9, 10, 11, 12 dan 15 Akta ibu adalah
-
-<!-- marginal: seksyen 8, 9, -->
-
-dipotong.
-
-<!-- marginal: 10, 11, 12 dan -->
-
-<!-- marginal: 15. -->
+10, 11, 12 dan 15.
 
 <!-- page 14 -->
 
-Penggantian
+<!-- marginal: Penggantian -->
 
 18. Akta ibu adalah dipinda dengan menggantikan
 
 ## Bahagian IV.
 
-## Bahagian IV dengan Bahagian IV baru yang berikut:
+Bahagian IV dengan Bahagian IV baru yang berikut:
 
 ## "BAHAGIAN
 
@@ -514,9 +582,21 @@ IV
 
 ## KETUA PENGARAH, PEGAWAI DAN PEKERJA
 
-Perlantikan
+<!-- marginal: Perlantikan -->
 
-16. (1) Maka hendaklah ada seorang Ketua dan Pengarah yang hendaklah dilantik oleh kewajipan Ketua Menteri. Pengarah.
+16. (1) Maka hendaklah ada seorang Ketua
+
+<!-- marginal: dan -->
+
+Pengarah yang hendaklah dilantik oleh
+
+<!-- marginal: kewajipan -->
+
+<!-- marginal: Ketua -->
+
+Menteri.
+
+<!-- marginal: Pengarah. -->
 
 (2) Perlantikan Ketua Pengarah hendaklah dengan apa-apa terma dan syarat yang ditentukan oleh Menteri.
 
@@ -552,7 +632,31 @@ Perlantikan
 
 (7) Jika Ketua Pengarah tidak dapat menjalankan kuasa-kuasa dan melaksanakan kewajipan-kewajipan jawatannya dalam apa- apa tempoh, oleh sebab dia tidak ada di Malaysia, dia sakit, atau apa-apa sebab lain, atau jika jawatan Ketua Pengarah pada masa itu kosong, maka Menteri hendaklah, atas nasihat Pengerusi, melantik seorang daripada Timbalan Ketua Pengarah untuk bertindak sebagai Ketua Pengarah; dan Timbalan Ketua Pengarah yang dilantik sedemikian hendaklah menjalankan kuasa-kuasa dan melaksanakan kewajipan-kewajipan Ketua Pengarah sehingga masa Ketua Pengarah dapat menjalankan semula kuasa-kuasanya dan melaksanakan semula kewajipan-kewajipannya atau sehingga seorang Ketua Pengarah dilantik di bawah subseksyen (1).
 
-Perlantikan 17. Lembaga boleh melantik dari semasa ke dan semasa Timbalan-Timbalan Ketua Pengarah kewajipan Timbalan dan Pengarah-Pengarah daripada kalangan Ketua pegawai-pegawai yang dilantik di bawah Pengarah dan seksyen 18 yang hendaklah bertanggungjawab Pengarah.
+<!-- marginal: Perlantikan -->
+
+17. Lembaga boleh melantik dari semasa ke
+
+<!-- marginal: dan -->
+
+semasa Timbalan-Timbalan Ketua Pengarah
+
+<!-- marginal: kewajipan -->
+
+<!-- marginal: Timbalan -->
+
+dan Pengarah-Pengarah daripada kalangan
+
+<!-- marginal: Ketua -->
+
+pegawai-pegawai yang dilantik di bawah
+
+<!-- marginal: Pengarah -->
+
+<!-- marginal: dan -->
+
+seksyen 18 yang hendaklah bertanggungjawab
+
+<!-- marginal: Pengarah. -->
 
 <!-- page 16 -->
 
@@ -570,9 +674,19 @@ bagi tugas-tugas dan aktiviti-aktiviti Institut yang berhubungan dengan—
 
 (f) apa-apa tugas, kewajipan dan aktiviti lain sebagaimana yang ditentukan atau diwakilkan oleh Lembaga.
 
-Perlantikan
+<!-- marginal: Perlantikan -->
 
-18. (1) Tertakluk kepada subseksyen (2) dan pegawai apa-apa peraturan yang dibuat di bawah dan pekerja Institut. perenggan (k), (ka) dan (kb) seksyen 21(1), Lembaga boleh melantik dari semasa ke semasa, dengan apa-apa terma dan syarat yang difikirkan patut oleh Lembaga, sekian bilangan pegawai dan pekerja yang, pada pendapat Lembaga, perlu bagi melaksanakan maksud- maksud Akta ini.
+18. (1) Tertakluk kepada subseksyen (2) dan
+
+<!-- marginal: pegawai -->
+
+apa-apa peraturan yang dibuat di bawah
+
+<!-- marginal: dan pekerja -->
+
+<!-- marginal: Institut. -->
+
+perenggan (k), (ka) dan (kb) seksyen 21(1), Lembaga boleh melantik dari semasa ke semasa, dengan apa-apa terma dan syarat yang difikirkan patut oleh Lembaga, sekian bilangan pegawai dan pekerja yang, pada pendapat Lembaga, perlu bagi melaksanakan maksud- maksud Akta ini.
 
 (2) Tiada seorang pun layak diambil bekerja sebagai pegawai atau pekerja Institut jika dia mempunyai, secara langsung atau tak langsung, apa-apa syer atau kepentingan dalam apa-apa kontrak atau kontrak yang dicadangkan dengan Lembaga.
 
@@ -582,7 +696,17 @@ Perlantikan
 
 ## PERINDUSTRIAN MALAYSIA (PERBADANAN) (PINDAAN)
 
-Tatatertib 18A. (1) Maka hendaklah ada suatu Majlis pegawai Tatatertib Lembaga yang hendaklah terdiri dan pekerja. daripada dua orang ahli yang dipilih oleh dan daripada ahli Lembaga, seorang daripada mereka hendaklah dipilih sebagai pengerusi, dan Ketua Pengarah.
+<!-- marginal: Tatatertib -->
+
+18A. (1) Maka hendaklah ada suatu Majlis
+
+<!-- marginal: pegawai -->
+
+Tatatertib Lembaga yang hendaklah terdiri
+
+<!-- marginal: dan pekerja. -->
+
+daripada dua orang ahli yang dipilih oleh dan daripada ahli Lembaga, seorang daripada mereka hendaklah dipilih sebagai pengerusi, dan Ketua Pengarah.
 
 (2) Pihak berkuasa tatatertib berkenaan dengan tiap-tiap pegawai dan pekerja Institut selain daripada Ketua Pengarah ialah Majlis Tatatertib Lembaga yang ditubuhkan di bawah subseksyen (1).
 
@@ -590,11 +714,7 @@ Tatatertib 18A. (1) Maka hendaklah ada suatu Majlis pegawai Tatatertib Lembaga y
 
 (4) Ketua Pengarah tidak boleh menjadi ahli Majlis Tatatertib atau Jawatankuasa Tatatertib yang ditubuhkan di bawah subseksyen (6) dalam apa-apa prosiding di hadapan Majlis atau Jawatankuasa itu jika dia merupakan pengadu; tempatnya hendaklah diambil oleh seorang ahli yang dipilih oleh dan daripada ahli Lembaga.
 
-(5) Dalam menjalankan tugas-tugas dan kuasa-kuasa tatatertibnya, Majlis Tatatertib hendaklah mempunyai kuasa
-
-<!-- marginal: untuk -->
-
-mengenakan apa-apa hukuman tatatertib yang diperuntukkan di bawah apa-apa peraturan yang boleh dibuat di bawah seksyen 18B.
+(5) Dalam menjalankan tugas-tugas dan kuasa-kuasa tatatertibnya, Majlis Tatatertib hendaklah mempunyai kuasa untuk mengenakan apa-apa hukuman tatatertib yang diperuntukkan di bawah apa-apa peraturan yang boleh dibuat di bawah seksyen 18B.
 
 (6) Majlis Tatatertib boleh, tertakluk kepada subseksyen (7), mewakilkan apa-apa tugas, kuasa atau kewajipan tatatertibnya kepada mana-mana jawatankuasa pegawai atau pekerja Institut yang hendaklah dikenali sebagai Jawatankuasa Tatatertib, berkenaan dengan mana-mana pegawai atau pekerja tertentu Institut atau berkenaan dengan apa-apa kelas
 
@@ -618,7 +738,23 @@ atau kategori pegawai atau pekerja Institut, dan Jawatankuasa Tatatertib yang ke
 
 ## PERINDUSTRIAN MALAYSIA (PERBADANAN) (PINDAAN)
 
-Kuasa untuk 18B. (1) Majlis boleh, dari semasa ke semasa, membuat dengan kelulusan Menteri membuat apa-apa peraturan- peraturan peraturan tatatertib yang difikirkannya perlu tatatertib dan suaimanfaat bagi mengadakan peruntukan mengenai tatatertib Ketua Pengarah dan pegawai serta pekerja Institut.
+<!-- marginal: Kuasa untuk -->
+
+18B. (1) Majlis boleh, dari semasa ke semasa,
+
+<!-- marginal: membuat -->
+
+dengan kelulusan Menteri membuat apa-apa
+
+<!-- marginal: peraturan- -->
+
+<!-- marginal: peraturan -->
+
+peraturan tatatertib yang difikirkannya perlu
+
+<!-- marginal: tatatertib -->
+
+dan suaimanfaat bagi mengadakan peruntukan mengenai tatatertib Ketua Pengarah dan pegawai serta pekerja Institut.
 
 (2) Peraturan-peraturan yang dibuat di bawah seksyen ini boleh termasuk peruntukan bagi—
 
@@ -634,11 +770,29 @@ Ketua Pengarah dan pegawai serta pekerja Institut sementara menanti prosiding ta
 
 <!-- page 20 -->
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-19. Akta ibu adalah dipinda dengan menggantikan seksyen 19. seksyen 19 dengan seksyen 19 baru yang berikut:
+19. Akta ibu adalah dipinda dengan menggantikan
 
-"Majlis 19. (1) Lembaga hendaklah melantik suatu Penyelidi- Majlis Penyelidikan dan Pembangunan yang kan dan Pemba- hendaklah terdiri daripada ahli yang berikut: ngunan
+<!-- marginal: seksyen 19. -->
+
+seksyen 19 dengan seksyen 19 baru yang berikut:
+
+<!-- marginal: "Majlis -->
+
+19. (1) Lembaga hendaklah melantik suatu
+
+<!-- marginal: Penyelidi- -->
+
+Majlis Penyelidikan dan Pembangunan yang
+
+<!-- marginal: kan dan -->
+
+<!-- marginal: Pemba- -->
+
+hendaklah terdiri daripada ahli yang berikut:
+
+<!-- marginal: ngunan -->
 
 (a) dua orang ahli Lembaga, seorang daripada mereka hendaklah menjadi pengerusi Majlis itu; dan
 
@@ -664,27 +818,15 @@ perkara-perkara berkaitan yang lain di sektor awam dan swasta, dan mengekal- kan
 
 (f) apa-apa tugas lain yang ditentukan atau diwakilkan oleh Lembaga.".
 
-<!-- marginal: Seksyen -->
+20. Akta ibu adalah dipinda dengan memasukkan, baru 19A, 19B, selepas sahaja seksyen 19, seksyen baru 19A, 19B, 19c, 19c, 19D, 19E. 19F, 19G dan 19D, 19E, 19F, 19G dan 19H yang berikut: 19H.
 
-20. Akta ibu adalah dipinda dengan memasukkan,
+<!-- marginal: "Majlis -->
 
-<!-- marginal: baru 19A, 19B, -->
+19A. (1) Lembaga hendaklah melantik suatu
 
-selepas sahaja seksyen 19, seksyen baru 19A, 19B, 19c,
+<!-- marginal: Standard. -->
 
-<!-- marginal: 19c, 19D, 19E. -->
-
-<!-- marginal: 19F, 19G dan -->
-
-19D, 19E, 19F, 19G dan 19H yang berikut:
-
-<!-- marginal: 19H. -->
-
-"Majlis 19A. (1) Lembaga hendaklah melantik suatu Standard. Majlis Standard yang hendaklah
-
-<!-- marginal: terdiri -->
-
-daripada ahli-ahli yang berikut:
+Majlis Standard yang hendaklah terdiri daripada ahli-ahli yang berikut:
 
 (a) dua orang ahli Lembaga, seorang daripada mereka hendaklah menjadi Pengerusi Majlis itu; dan
 
@@ -708,9 +850,23 @@ daripada ahli-ahli yang berikut:
 
 (g) apa-apa tugas lain yang ditentukan atau diwakilkan oleh Lembaga.
 
-Majlis
+<!-- marginal: Majlis -->
 
-19B. (1) Lembaga hendaklah melantik suatu Pengem- Majlis Pengembangan Perindustrian yang bangan Per- hendaklah terdiri daripada ahli-ahli yang industrian. berikut:
+19B. (1) Lembaga hendaklah melantik suatu
+
+<!-- marginal: Pengem- -->
+
+Majlis Pengembangan Perindustrian yang
+
+<!-- marginal: bangan -->
+
+<!-- marginal: Per- -->
+
+hendaklah terdiri daripada ahli-ahli yang
+
+<!-- marginal: industrian. -->
+
+berikut:
 
 (a) dua orang ahli Lembaga, seorang daripada mereka hendaklah menjadi Pengerusi Majlis itu;
 
@@ -738,7 +894,13 @@ Majlis
 
 (h) apa-apa tugas lain yang ditentukan atau diwakilkan oleh Lembaga.
 
-Majlis 19c. (1) Lembaga hendaklah melantik suatu Akreditasi. Majlis Akreditasi yang hendaklah terdiri daripada ahli-ahli yang berikut:
+<!-- marginal: Majlis -->
+
+19c. (1) Lembaga hendaklah melantik suatu
+
+<!-- marginal: Akreditasi. -->
+
+Majlis Akreditasi yang hendaklah terdiri daripada ahli-ahli yang berikut:
 
 (a) dua orang ahli Lembaga, seorang daripada mereka hendaklah menjadi Pengerusi Majlis itu; dan
 
@@ -760,9 +922,19 @@ Majlis 19c. (1) Lembaga hendaklah melantik suatu Akreditasi. Majlis Akreditasi y
 
 (f) apa-apa tugas lain yang ditentukan atau diwakilkan oleh Lembaga.
 
-Perlantikan
+<!-- marginal: Perlantikan -->
 
-19D. (1) Lembaga boleh melantik apa-apa Majlis- Majlis lain yang difikirkannya suaimanfaat Majlis lain. untuk menasihati Lembaga tentang apa-apa perkara yang kena-mengena dengan tugas,
+19D. (1) Lembaga boleh melantik apa-apa
+
+<!-- marginal: Majlis- -->
+
+Majlis lain yang difikirkannya suaimanfaat
+
+<!-- marginal: Majlis -->
+
+<!-- marginal: lain. -->
+
+untuk menasihati Lembaga tentang apa-apa perkara yang kena-mengena dengan tugas,
 
 <!-- page 25 -->
 
@@ -772,7 +944,23 @@ kuasa dan kewajipan Institut yang dirujukkan kepada Lembaga atau bagi penjalanan
 
 (2) Maka bolehlah dilantik menjadi ahli Majlis sedemikian mana-mana orang lain yang difikirkan sesuai oleh Lembaga dan mana- mana Majlis yang dilantik di bawah subseksyen (1) hendaklah termasuk sekurang- kurangnya seorang ahli Majlis.
 
-Peruntukan 19E. (1) Tertakluk kepada Akta ini dan tambahan kaedah-kaedah dan kepada apa-apa arahan berkenaan dengan yang diberikan oleh Lembaga, Majlis boleh Majlis. mengawalselia acaranya sendiri.
+<!-- marginal: Peruntukan -->
+
+19E. (1) Tertakluk kepada Akta ini dan
+
+<!-- marginal: tambahan -->
+
+kaedah-kaedah dan kepada apa-apa arahan
+
+<!-- marginal: berkenaan -->
+
+<!-- marginal: dengan -->
+
+yang diberikan oleh Lembaga, Majlis boleh
+
+<!-- marginal: Majlis. -->
+
+mengawalselia acaranya sendiri.
 
 (2) Majlis hendaklah menepati apa-apa arahan yang dari semasa ke semasa diberikan kepadanya oleh Lembaga dan Lembaga boleh, pada bila-bila masa, menghentikan, atau mengubah keanggotaan, mana-mana Majlis.
 
@@ -784,7 +972,21 @@ Peruntukan 19E. (1) Tertakluk kepada Akta ini dan tambahan kaedah-kaedah dan kep
 
 <!-- page 26 -->
 
-19F. (1) Tertakluk kepada apa-apa had, Perlantikan dan acara sekatan atau syarat yang ditetapkan oleh jawatan- Lembaga, Majlis boleh melantik satu atau kuasa. lebih jawatankuasa bagi membantunya dalam menjalankan kuasanya, menunaikan tugasnya dan melaksanakan kewajipannya.
+19F. (1) Tertakluk kepada apa-apa had,
+
+<!-- marginal: Perlantikan -->
+
+<!-- marginal: dan acara -->
+
+sekatan atau syarat yang ditetapkan oleh
+
+<!-- marginal: jawatan- -->
+
+Lembaga, Majlis boleh melantik satu atau
+
+<!-- marginal: kuasa. -->
+
+lebih jawatankuasa bagi membantunya dalam menjalankan kuasanya, menunaikan tugasnya dan melaksanakan kewajipannya.
 
 (2) Maka hendaklah dilantik menjadi ahli jawatankuasa itu mana-mana orang lain yang difikirkan patut oleh Majlis yang melantik jawatankuasa itu.
 
@@ -802,9 +1004,35 @@ Peruntukan 19E. (1) Tertakluk kepada Akta ini dan tambahan kaedah-kaedah dan kep
 
 ## PERINDUSTRIAN MALAYSIA (PERBADANAN) (PINDAAN)
 
-Saraan atau 19G. Maka hendaklah dibayar kepada ahli-ahli elaun Majlis dan jawatankuasa apa-apa saraan atau ahli-ahli Majlis dan elaun yang hendaklah ditentukan oleh Menteri jawatan- selepas berunding dengan Menteri Kewangan. kuasa.
+<!-- marginal: Saraan atau -->
 
-Kuasa untuk 19H. Lembaga boleh mengguna-khidmat dan mengguna- membayar ejen dan penasihat teknik, termasuk khidmat. peguambela dan peguamcara, jurubank, juruukur, penilai dan orang-orang lain, untuk menjalankan apa-apa urusan atau melakukan apa-apa perbuatan yang dikehendaki dijalankan atau dilakukan dalam penjalanan kuasa, penunaian tugas atau pelaksanaan kewajipannya, atau bagi melaksanakan maksud-maksud Akta ini dengan lebih baik.".
+19G. Maka hendaklah dibayar kepada ahli-ahli
+
+<!-- marginal: elaun -->
+
+Majlis dan jawatankuasa apa-apa saraan atau
+
+<!-- marginal: ahli-ahli -->
+
+<!-- marginal: Majlis dan -->
+
+elaun yang hendaklah ditentukan oleh Menteri
+
+<!-- marginal: jawatan- -->
+
+selepas berunding dengan Menteri Kewangan.
+
+<!-- marginal: kuasa. -->
+
+Kuasa untuk 19H. Lembaga boleh mengguna-khidmat dan
+
+<!-- marginal: mengguna- -->
+
+membayar ejen dan penasihat teknik, termasuk
+
+<!-- marginal: khidmat. -->
+
+peguambela dan peguamcara, jurubank, juruukur, penilai dan orang-orang lain, untuk menjalankan apa-apa urusan atau melakukan apa-apa perbuatan yang dikehendaki dijalankan atau dilakukan dalam penjalanan kuasa, penunaian tugas atau pelaksanaan kewajipannya, atau bagi melaksanakan maksud-maksud Akta ini dengan lebih baik.".
 
 <!-- marginal: Pindaan -->
 
@@ -830,13 +1058,17 @@ Kuasa untuk 19H. Lembaga boleh mengguna-khidmat dan mengguna- membayar ejen dan 
 
 (c) dengan memotong perkataan-perkataan "yang dilantik di bawah 19" dalam subseksyen (3); dan
 
-(d) dengan memotong perkataan-perkataan "dari antara ahli-ahlinya sendiri" dalam perenggan (3)(a);.
+(d) dengan memotong perkataan-perkataan "dari antara ahli-ahlinya sendiri" dalam perenggan
+
+(3)(a);.
 
 <!-- page 28 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-22. Seksyen 21 Akta ibu adalah dipinda— seksyen 21.
+22. Seksyen 21 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 21. -->
 
 (a) dengan memasukkan, selepas sahaja perkataan "lesen-lesen" di mana-mana jua terdapat dalam perenggan (1)(d), perkataan-perkataan "atau perakuan-perakuan";
 
@@ -874,25 +1106,39 @@ Pindaan
 
 (h) dengan memasukkan, selepas sahaja perenggan
 
-(1)(n), perenggan baru (o) yang berikut: "(o) mengadakan peruntukan,
-
-<!-- marginal: dengan -->
-
-kelulusan Menteri dan persetujuan Menteri Kewangan, bagi pengenaan, pengutipan, pengubahan, pengecualian atau pengkenselan, pengembalian ses penyelidikan, dan kaedah-kaedah itu boleh menyatakan jenis, amaun, kadar dan cara pengenaan, pengutipan, pengubahan, pengkenselan, penge- cualian atau pengembalian ses itu."; dan
+(1)(n), perenggan baru (o) yang berikut: "(o) mengadakan peruntukan, dengan kelulusan Menteri dan persetujuan Menteri Kewangan, bagi pengenaan, pengutipan, pengubahan, pengecualian atau pengkenselan, pengembalian ses penyelidikan, dan kaedah-kaedah itu boleh menyatakan jenis, amaun, kadar dan cara pengenaan, pengutipan, pengubahan, pengkenselan, penge- cualian atau pengembalian ses itu."; dan
 
 <!-- page 30 -->
 
 (i) dengan menggantikan perkataan-perkataan "dua puluh satu" dalam subseksyen (2) dengan perkataan-perkataan "empat belas".
 
-Bahagian
+<!-- marginal: Bahagian -->
 
-23. Akta ibu adalah dipinda dengan memasukkan, VA baru. selepas sahaja Bahagian V, Bahagian VA baru yang berikut:
+23. Akta ibu adalah dipinda dengan memasukkan,
+
+<!-- marginal: VA baru. -->
+
+selepas sahaja Bahagian V, Bahagian VA baru yang
+
+<!-- marginal: berikut: -->
 
 ## "BAHAGIAN VA
 
 ## PERBADANAN
 
-Institut 2lA. ( 1) Institut boleh, dengan kelulusan boleh Menteri dan persetujuan Menteri Kewangan, menubuhkan perbadanan. dari semasa ke semasa melalui perintah yang disiarkan dalam Warta, menubuhkan suatu perbadanan dengan apa-apa nama sebagaimana yang dinyatakan dalam perintah itu untuk melaksanakan dan untuk menjaga, men- ialankan dan menguruskan, bagi pihak Institut, apa-apa projek, skim atau enterprais yang telah ditentukan, dirancangkan atau diusahakan oleh Institut pada menjalankan kuasa-kuasanya, menunaikan tugas-tugasnya dan melaksanakan kewajipan-kewajipannya di bawah Akta ini, dan boleh mengikut cara yang sama mengkensel, mengubah atau meminda mana- mana perintah sedemikian.
+<!-- marginal: Institut -->
+
+2lA. ( 1) Institut boleh, dengan kelulusan
+
+<!-- marginal: boleh -->
+
+Menteri dan persetujuan Menteri Kewangan,
+
+<!-- marginal: menubuhkan -->
+
+<!-- marginal: perbadanan. -->
+
+dari semasa ke semasa melalui perintah yang disiarkan dalam Warta, menubuhkan suatu perbadanan dengan apa-apa nama sebagaimana yang dinyatakan dalam perintah itu untuk melaksanakan dan untuk menjaga, men- ialankan dan menguruskan, bagi pihak Institut, apa-apa projek, skim atau enterprais yang telah ditentukan, dirancangkan atau diusahakan oleh Institut pada menjalankan kuasa-kuasanya, menunaikan tugas-tugasnya dan melaksanakan kewajipan-kewajipannya di bawah Akta ini, dan boleh mengikut cara yang sama mengkensel, mengubah atau meminda mana- mana perintah sedemikian.
 
 (2) Perintah yang dibuat di bawah subseksyen (1) hendaklah membuat per- untukan berkenaan dengan yang berikut:
 
@@ -918,21 +1164,41 @@ Institut 2lA. ( 1) Institut boleh, dengan kelulusan boleh Menteri dan persetujua
 
 (3) Tertakluk kepada Akta ini dan kepada apa-apa peruntukan yang dibuat di bawah subseksyen (2), sesuatu perbadanan hendaklah mempunyai kuasa untuk mengawalselia acaranya sendiri.
 
-Had atas 21B. Tiada apa-apa jua dalam seksyen 2 lA kuasa untuk boleh disifatkan sebagai memberikuasa Institut menubuhkan perbadanan. untuk menubuhkan apa-apa perbadanan bagi apa-apa maksud atau tujuan yang ruang lingkupnya lebih luas daripada maksud atau tujuan yang baginya Institut telah ditubuhkan atau memberi mana-mana perbadanan apa-apa hak, kewajipan, kuasa atau tugas yang tidak di dalam hak, kewajipan, kuasa atau tugas Lembaga dan Institut di bawah Akta ini.
+<!-- marginal: Had atas -->
 
-Daftar 21c. Lembaga hendaklah menyimpan suatu perbadanan daftar dalam bentuk yang ditetapkan bagi semua perbadanan yang ditubuhkan oleh Institut di bawah seksyen 2lA dan daftar itu hendaklah dibuka untuk pemeriksaan awam di tempat atau tempat-tempat dan pada bila-bila masa yang ditetapkannya.
+21B. Tiada apa-apa jua dalam seksyen 2 lA
 
-Penggu- 2lD. (1) Institut boleh, dengan kelulusan lungan Menteri, melalui perintah yang disiarkan perbadanan. dalam Warta, mengarahkan supaya mana-mana perbadanan yang ditubuhkan olehnya digulung dan dibubarkan.
+<!-- marginal: kuasa untuk -->
 
-(2) Apabila mana-mana
+boleh disifatkan sebagai memberikuasa Institut
+
+<!-- marginal: menubuhkan -->
+
+<!-- marginal: perbadanan. -->
+
+untuk menubuhkan apa-apa perbadanan bagi apa-apa maksud atau tujuan yang ruang lingkupnya lebih luas daripada maksud atau tujuan yang baginya Institut telah ditubuhkan atau memberi mana-mana perbadanan apa-apa hak, kewajipan, kuasa atau tugas yang tidak di dalam hak, kewajipan, kuasa atau tugas Lembaga dan Institut di bawah Akta ini.
+
+<!-- marginal: Daftar -->
+
+21c. Lembaga hendaklah menyimpan suatu
 
 <!-- marginal: perbadanan -->
 
-dibubarkan di bawah seksyen
+daftar dalam bentuk yang ditetapkan bagi semua perbadanan yang ditubuhkan oleh Institut di bawah seksyen 2lA dan daftar itu hendaklah dibuka untuk pemeriksaan awam di tempat atau tempat-tempat dan pada bila-bila masa yang ditetapkannya.
 
-<!-- marginal: ini, aset -->
+<!-- marginal: Penggu- -->
 
-perbadanan selepas pembayaran segala
+2lD. (1) Institut boleh, dengan kelulusan
+
+<!-- marginal: lungan -->
+
+Menteri, melalui perintah yang disiarkan
+
+<!-- marginal: perbadanan. -->
+
+dalam Warta, mengarahkan supaya mana-mana perbadanan yang ditubuhkan olehnya digulung dan dibubarkan.
+
+(2) Apabila mana-mana perbadanan dibubarkan di bawah seksyen ini, aset perbadanan selepas pembayaran segala
 
 <!-- page 32 -->
 
@@ -940,11 +1206,21 @@ tanggungan hendaklah dipindahkan kepada dan terletakhak pada Institut.
 
 (3) Penggulungan sesuatu perbadanan di bawah seksyen ini hendaklah dijalankan mengikut cara yang ditetapkan oleh Lembaga.
 
-Pemer- 2lE. Tiap-tiap perbadanan yang ditubuhkan di badanan. bawah seksyen 2 lA adalah menjadi suatu pertubuhan perbadanan dengan nama yang hendaklah ditentukan oleh Institut dalam perintah yang melaluinya perbadanan itu ditubuhkan dan hendaklah kekal turun-temurun dan boleh mendakwa dan didakwa atas nama itu dan, bagi maksud melaksanakan projek, skim atau enterprais yang kerananya perbadanan itu telah ditubuhkan, boleh melakukan segala perkara dan benda lain yang bersampingan atau berkaitan dengan sesuatu pertubuhan perbadanan yang tidak tak konsisten dengan peruntukan-peruntukan Akta ini dan dengan tertakluk kepada apa-apa sekatan atau had yang ditetapkan oleh Institut dalam perintah yang melaluinya perbadanan itu telah ditubuhkan.
+<!-- marginal: Pemer- -->
 
-Meterai
+2lE. Tiap-tiap perbadanan yang ditubuhkan di
 
-21F. (1) Tiap-tiap perbadanan hendaklah biasa. mempunyai suatu meterai biasa yang mengandungi apa-apa tanda yang diluluskan oleh perbadanan itu, dengan kelulusan Lembaga, dan meterai itu boleh dari semasa ke semasa dipecahkan, ditukar, diubah dan dibuat baharu sebagaimana yang difikirkan patut oleh perbadanan itu dengan kelulusan Lembaga.
+<!-- marginal: badanan. -->
+
+bawah seksyen 2 lA adalah menjadi suatu pertubuhan perbadanan dengan nama yang hendaklah ditentukan oleh Institut dalam perintah yang melaluinya perbadanan itu ditubuhkan dan hendaklah kekal turun-temurun dan boleh mendakwa dan didakwa atas nama itu dan, bagi maksud melaksanakan projek, skim atau enterprais yang kerananya perbadanan itu telah ditubuhkan, boleh melakukan segala perkara dan benda lain yang bersampingan atau berkaitan dengan sesuatu pertubuhan perbadanan yang tidak tak konsisten dengan peruntukan-peruntukan Akta ini dan dengan tertakluk kepada apa-apa sekatan atau had yang ditetapkan oleh Institut dalam perintah yang melaluinya perbadanan itu telah ditubuhkan.
+
+<!-- marginal: Meterai -->
+
+21F. (1) Tiap-tiap perbadanan hendaklah
+
+<!-- marginal: biasa. -->
+
+mempunyai suatu meterai biasa yang mengandungi apa-apa tanda yang diluluskan oleh perbadanan itu, dengan kelulusan Lembaga, dan meterai itu boleh dari semasa ke semasa dipecahkan, ditukar, diubah dan dibuat baharu sebagaimana yang difikirkan patut oleh perbadanan itu dengan kelulusan Lembaga.
 
 (2) Sehingga suatu meterai diadakan oleh perbadanan itu di bawah seksyen ini, suatu cap yang mengandungi nama perbadanan itu melingkungi huruf "SIRIM" boleh digunakan dan hendaklah disifatkan sebagai meterai biasa perbadanan itu.
 
@@ -952,11 +1228,7 @@ Meterai
 
 ## PERINDUSTRIAN MALAYSIA (PERBADANAN) (PINDAAN)
 
-(3) Meterai biasa itu hendaklah disimpan dalam jagaan orang yang diberikuasa oleh perbadanan itu dan hendaklah disahkan oleh orang itu; dan semua suratikatan, dokumen dan suratcara lain yang berupa
-
-<!-- marginal: sebagai -->
-
-dimeteraikan dengan meterai itu, disahkan sebagaimana yang disebutkan terdahulu, hendaklah disifatkan telah disempurnakan dengan sah sehingga dibuktikan sebaliknya:
+(3) Meterai biasa itu hendaklah disimpan dalam jagaan orang yang diberikuasa oleh perbadanan itu dan hendaklah disahkan oleh orang itu; dan semua suratikatan, dokumen dan suratcara lain yang berupa sebagai dimeteraikan dengan meterai itu, disahkan sebagaimana yang disebutkan terdahulu, hendaklah disifatkan telah disempurnakan dengan sah sehingga dibuktikan sebaliknya:
 
 Dengan syarat bahawa apa-apa dokumen atau suratcara yang jika disempurnakan oleh seseorang yang bukan suatu pertubuhan perbadanan tidak akan dikehendaki di- meteraikan boleh disempurnakan dengan cara yang serupa oleh perbadanan itu; dan mana- mana dokumen atau suratcara itu boleh disempurnakan bagi pihak perbadanan itu oleh mana-mana pegawai atau pekerja perbadanan itu yang diberikuasa secara am atau khas oleh perbadanan itu bagi maksud itu.
 
@@ -990,17 +1262,31 @@ dibiayai daripada kumpulan wang, atau yang terhasil daripada pemberian perkhidma
 
 (l) semua wang atau harta lain yang mungkin dengan apa-apa cara menjadi kena dibayar kepada atau menjadi terletakhak pada, Institut berkenaan dengan apa-apa perkara yang bersampingan dengan kuasa, tugas dan kewajipannya."; dan
 
-(d) dengan memotong perkataan "dan" di baris 3 perenggan (3)(a) dan memasukkan, selepas sahaja perenggan itu, perenggan baru (aa) yang berikut:
+(d) dengan memotong perkataan "dan" di baris 3 perenggan (3)(a) dan memasukkan, selepas sahaja perenggan itu, perenggan baru (aa) yang
+
+<!-- marginal: berikut: -->
 
 "(aa) apa-apa perbelanjaan yang dikehendaki bagi menjelaskan apa-apa wang yang dipinjam di bawah seksyen 24; dan".
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-25. Akta ibu adalah dipinda dengan menggantikan seksyen 23. seksyen 23 dengan seksyen 23 baru yang berikut:
+25. Akta ibu adalah dipinda dengan menggantikan
 
-"Kuasa
+<!-- marginal: seksyen 23. -->
 
-23. Lembaga boleh, dari semasa ke semasa, untuk dengan kelulusan Menteri dan persetujuan melabur. Menteri Kewangan, melaburkan wang yang dipunyai oleh Institut, yang tidak dikehendaki dengan segera untuk menjelaskan tanggungan-
+seksyen 23 dengan seksyen 23 baru yang berikut:
+
+<!-- marginal: "Kuasa -->
+
+23. Lembaga boleh, dari semasa ke semasa,
+
+<!-- marginal: untuk -->
+
+dengan kelulusan Menteri dan persetujuan
+
+<!-- marginal: melabur. -->
+
+Menteri Kewangan, melaburkan wang yang dipunyai oleh Institut, yang tidak dikehendaki dengan segera untuk menjelaskan tanggungan-
 
 <!-- page 35 -->
 
@@ -1020,15 +1306,15 @@ Dengan syarat bahawa Lembaga tidak boleh melaburkan wangnya dalam apa-apa sekuri
 
 <!-- marginal: baru 27A. -->
 
-selepas sahaja seksyen 27, seksyen baru 27A yang berikut:
+selepas sahaja seksyen 27, seksyen baru 27A yang
 
-"Surcaj. 27A. (1) Jika didapati oleh Lembaga bahawa mana-mana orang yang sedang atau telah bekerja dengan Institut—
+<!-- marginal: berikut: -->
 
-(a) telah gagal memungut apa-apa wang yang terhutang pada Institut yang pemungutannya menjadi
+<!-- marginal: "Surcaj. -->
 
-<!-- marginal: tanggung- -->
+27A. (1) Jika didapati oleh Lembaga bahawa mana-mana orang yang sedang atau telah bekerja dengan Institut—
 
-jawabnya;
+(a) telah gagal memungut apa-apa wang yang terhutang pada Institut yang pemungutannya menjadi tanggung- jawabnya;
 
 (b) adalah atau telah bertanggungjawab atas apa-apa pembayaran wang daripada kumpulan wang yang ditubuhkan di bawah seksyen 22 yang tidak sepatutnya dibuat atau atas apa-apa pembayaran wang yang tidak diluluskan dengan sewajarnya;
 
@@ -1050,19 +1336,11 @@ sepatutnya, atau kegagalan membuat pembayaran, atau kelewatan dalam membuat pemb
 
 (2) Pengerusi hendaklah menyebabkan Ketua Pengarah diberitahu tentang apa-apa surcaj yang dibuat di bawah subseksyen (1) dan Ketua Pengarah hendaklah sesudah itu memberitahu orang yang disurcajkan itu.
 
-(3) Lembaga boleh pada bila-bila masa menarik balik apa-apa surcaj yang berkenaan dengannya penjelasan yang memuaskan hati telah diterima atau jika ternyata selainnya bahawa tiada surcaj patut dibuat, dan Pengerusi hendaklah dengan
-
-<!-- marginal: segera -->
-
-menyebabkan Ketua Pengarah diberitahu tentang penarikan balik itu.
+(3) Lembaga boleh pada bila-bila masa menarik balik apa-apa surcaj yang berkenaan dengannya penjelasan yang memuaskan hati telah diterima atau jika ternyata selainnya bahawa tiada surcaj patut dibuat, dan Pengerusi hendaklah dengan segera menyebabkan Ketua Pengarah diberitahu tentang penarikan balik itu.
 
 (4) Amaun apa-apa surcaj yang dibuat di bawah subseksyen (1) dan tidak ditarik balik di bawah subseksyen (3) hendaklah menjadi hutang yang kena dibayar kepada Institut daripada orang yang terhadapnya surcaj itu dibuat dan boleh didakwa dan didapatkan kembali dalam mana-mana mahkamah atas guaman Lembaga dan boleh juga didapatkan kembali melalui pemotongan—
 
-(a) gaji orang yang disurcajkan
-
-<!-- marginal: jika -->
-
-Lembaga mengarahkan yang sedemikian; atau
+(a) gaji orang yang disurcajkan jika Lembaga mengarahkan yang sedemikian; atau
 
 (b) daripada pencen orang yang disurcajkan jika Lembaga mengarahkan yang sedemikian,
 
@@ -1070,31 +1348,31 @@ dengan ansuran bulanan yang sama banyak yang tidak melebihi satu perempat daripa
 
 <!-- page 38 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-27. Seksyen 28 Akta ibu adalah dipinda— seksyen 28.
+27. Seksyen 28 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 28. -->
 
 (a) dengan memasukkan, selepas sahaja perkataan- perkataan "penentuan standard" dalam baris 4 subseksyen (1), perkataan-perkataan "atau penentuan standard sementara";
 
 (b) dengan memasukkan, selepas sahaja perkataan- perkataan "penentuan standard" dalam baris 6 subseksyen (1), perkataan-perkataan "atau penentuan standard sementara";
 
-(c) dengan memasukkan, selepas sahaja subseksyen
-
-(1), subseksyen baru (1A) yang berikut:
+(c) dengan memasukkan, selepas sahaja subseksyen (1), subseksyen baru (1A) yang berikut:
 
 "(1A) Jika suatu penentuan telah di- isytiharkan menjadi suatu penentuan standard sementara, ungkapan "Sementara" atau "(P)" hendaklah dimasukkan dalam tajuk atau nombor penentuan standard itu.";
 
 (d) dengan menggantikan perkataan-perkataan "atau amalan" di mana-mana jua terdapat dalam subseksyen (2) perkataan-perkataan "amalan atau perkhidmatan";
 
-(e) dengan menggantikan noktah dalam subseksyen
-
-(3) dengan noktah bertindih dan dengan memasukkan, selepas sahaja subseksyen (3), proviso baru yang berikut:
+(e) dengan menggantikan noktah dalam subseksyen (3) dengan noktah bertindih dan dengan memasukkan, selepas sahaja subseksyen (3), proviso baru yang berikut:
 
 "Dengan syarat bahawa subseksyen ini tidak terpakai bagi penentuan standard sementara.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-28. Seksyen 29 Akta ibu adalah dipinda— seksyen 29.
+28. Seksyen 29 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 29. -->
 
 (a) dengan menggantikan nombor-nombor "26/50." dalam nota birai dengan perkataan-perkataan "Akta 175.";
 
@@ -1114,7 +1392,11 @@ Pindaan
 
 <!-- page 40 -->
 
-atau luar negeri ini atau penentuan yang diluluskan oleh Lembaga; dan berhubungan dengan permohonan yang dibuat di bawah seksyen ini, perkataan- perkataan dan kependekan-kependekan itu hendaklah disifatkan, bagi maksud- maksud seksyen 56(2) Akta tersebut, sebagai disesuaikan pada asasnya untuk membezakan barangan, proses, amalan dan perkhidmatan itu;";
+atau luar negeri ini atau penentuan yang diluluskan oleh Lembaga;
+
+<!-- marginal: dan -->
+
+berhubungan dengan permohonan yang dibuat di bawah seksyen ini, perkataan- perkataan dan kependekan-kependekan itu hendaklah disifatkan, bagi maksud- maksud seksyen 56(2) Akta tersebut, sebagai disesuaikan pada asasnya untuk membezakan barangan, proses, amalan dan perkhidmatan itu;";
 
 (e) dengan menggantikan perkataan-perkataan "75 Ordinan itu" di mana-mana jua terdapat dalam perenggan (2}(c) perkataan-perkataan "56 Akta tersebut"; dan
 
@@ -1128,9 +1410,11 @@ atau luar negeri ini atau penentuan yang diluluskan oleh Lembaga; dan berhubunga
 
 (2)(d) dengan perkataan, "kependekan-kependekan".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-29. Seksyen 30 Akta ibu adalah dipinda— seksyen 30.
+29. Seksyen 30 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 30. -->
 
 (a) dengan memasukkan, selepas sahaja perkataan "Lesen" dalam nota birai, perkataan-perkataan "atau perakuan";
 
@@ -1178,9 +1462,23 @@ diberikan;";
 
 (k) dengan menggantikan perkataan-perkataan "yang lesennya" di mana-mana jua terdapat dalam subseksyen (8), dengan perkataan- perkataan "atau perakuan yang lesen atau perakuannya".
 
-30. Akta ibu adalah dipinda dengan memasukkan baru 30A. selepas sahaja seksyen 30, seksyen baru 30A yang berikut: "Perakuan
+<!-- marginal: Seksyen -->
 
-30A. (1) Mana-mana orang yang ingin supaya akreditasi. diakreditasikan sebagai—
+30. Akta ibu adalah dipinda dengan memasukkan
+
+<!-- marginal: baru 30A. -->
+
+selepas sahaja seksyen 30, seksyen baru 30A yang
+
+<!-- marginal: berikut: -->
+
+<!-- marginal: "Perakuan -->
+
+30A. (1) Mana-mana orang yang ingin supaya
+
+<!-- marginal: akreditasi. -->
+
+diakreditasikan sebagai—
 
 (a) ejen pemerakuan;
 
@@ -1194,7 +1492,9 @@ diberikan;";
 
 boleh memohon kepada Lembaga mengikut apa-apa cara yang ditetapkan oleh kaedah- kaedah.
 
-(2) Jika Lembaga berpuas hati, atas suatu permohonan yang dibuat di bawah subseksyen (1), bahawa ejen pemerakuan, ejen akreditasi makmal atau ejen penulisan standard patut diakreditasikan, Lembaga boleh memberi pemohon suatu perakuan akreditasi tertakluk kepada apa-apa terma dan syarat, jika ada, yang difikirkan patut oleh Lembaga.
+(2) Jika Lembaga berpuas hati, atas suatu permohonan yang dibuat di bawah subseksyen
+
+(1), bahawa ejen pemerakuan, ejen akreditasi makmal atau ejen penulisan standard patut diakreditasikan, Lembaga boleh memberi pemohon suatu perakuan akreditasi tertakluk kepada apa-apa terma dan syarat, jika ada, yang difikirkan patut oleh Lembaga.
 
 (3) Lembaga boleh, dari semasa ke semasa, mengikut budi bicaranya, menambah, mengkensel atau mengubah mana-mana terma dan syarat yang dikenakan dengan perakuan akreditasi yang diberikan di bawah seksyen ini.
 
@@ -1274,7 +1574,11 @@ perkataan-perkataan "atau apa-apa kependekan yang mengelirukan atau tanda-tanda 
 
 (f) dengan memasukkan, selepas sahaja perkataan "lesennya" di mana-mana jua terdapat dalam perenggan ( c ), perkataan-perkataan "atau perakuannya";
 
-(g) dengan menggantikan koma di hujung perenggan (c) dengan koma bernoktah dan memasukkan, selepas perenggan itu, perenggan baru (d), (e) dan (f) yang berikut: "(d) membuat apa-apa pernyataan atau representasi, sama ada secara bertulis atau selainnya, berkenaan dengan apa- apa barangan, proses, amalan atau perkhidmatan yang menimbulkan atau mungkin menimbulkan sangkaan bahawa seseorang yang tidak di- akreditasikan di bawah Akta ini berkenaan dengan barangan, proses, amalan atau perkhidmatan itu adalah diakreditasikan sedemikian;
+(g) dengan menggantikan koma di hujung perenggan (c) dengan koma bernoktah dan memasukkan, selepas perenggan itu, perenggan baru (d), (e) dan (f) yang berikut: "(d) membuat apa-apa pernyataan atau representasi, sama ada secara bertulis atau selainnya, berkenaan dengan apa- apa barangan, proses, amalan atau perkhidmatan yang menimbulkan atau mungkin menimbulkan sangkaan bahawa seseorang yang tidak di- akreditasikan di bawah Akta
+
+<!-- marginal: ini -->
+
+berkenaan dengan barangan, proses, amalan atau perkhidmatan itu adalah diakreditasikan sedemikian;
 
 (e) membuat apa-apa pernyataan atau representasi, sama ada secara bertulis atau selainnya, yang menimbulkan atau mungkin menimbulkan sangkaan bahawa suatu barangan, proses, amalan atau perkhidmatan mematuhi kehendak- kehendak akreditasi sedangkan ia tidak patuh sedemikian; atau
 
@@ -1296,7 +1600,11 @@ masing-masingnya dengan perkataan-perkataan "satu ratus ribu ringgit" dan "satu 
 
 selepas sahaja seksyen 34, seksyen baru 34A yang berikut:
 
-"Kesalahan 34A. Jika suatu kesalahan terhadap Akta ini yang telah dilakukan oleh suatu pertubuhan dilakukan oleh perbadanan, mana-mana orang yang pada masa pertubuhan kesalahan itu dilakukan ialah seorang perbadanan. pengarah, pengurus, setiausaha atau pegawai lain yang seumpamanya dalam pertubuhan perbadanan itu, atau yang berupa bertindak atas sifat sedemikian, hendaklah disifatkan telah melakukan kesalahan itu melainkan jika ia membuktikan bahawa kesalahan
+"Kesalahan 34A. Jika suatu kesalahan terhadap Akta ini yang telah dilakukan oleh suatu pertubuhan dilakukan oleh perbadanan, mana-mana orang yang pada masa pertubuhan kesalahan itu dilakukan ialah
+
+<!-- marginal: seorang -->
+
+perbadanan. pengarah, pengurus, setiausaha atau pegawai lain yang seumpamanya dalam pertubuhan perbadanan itu, atau yang berupa bertindak atas sifat sedemikian, hendaklah disifatkan telah melakukan kesalahan itu melainkan jika ia membuktikan bahawa kesalahan
 
 <!-- marginal: itu -->
 
@@ -1338,29 +1646,41 @@ memotong perkataan "atau" dalam baris 4 dan memasukkan, selepas sahaja perkataan
 
 "(2) Tiada ahli Lembaga, atau mana- mana Majlis atau jawatankuasa yang dilantik di bawah Akta ini, dan tiada pegawai atau pekerja Institut, termasuklah Ketua Pengarah, boleh bertanggungan sendiri bagi apa-apa perbuatan yang dilakukan atau keingkaran yang dibuat dengan suci hati oleh Lembaga, Majlis atau jawatankuasa itu atau oleh mana-mana pegawai atau pekerja Institut dalam perjalanan Lembaga, Majlis atau jawatankuasa itu.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-37. Seksyen 38 Akta ibu adalah dipinda dengan seksyen 38. memasukkan, selepas sahaja perkataan "penyelidikan,", perkataan "rekabentuk,".
+37. Seksyen 38 Akta ibu adalah dipinda dengan
 
-Penggantian
+<!-- marginal: seksyen 38. -->
 
-38. Akta ibu adalah dipinda dengan menggantikan seksyen 40. seksyen 40 dengan seksyen 40 baru yang berikut:
+memasukkan, selepas sahaja perkataan "penyelidikan,", perkataan "rekabentuk,".
 
-"Pengkhid-
+<!-- marginal: Penggantian -->
 
-40. Semua ahli Lembaga, Majlis dan mat awam. jawatankuasa, Ketua Pengarah, dan semua pegawai dan pekerja Institut hendaklah disifatkan sebagai pengkhidmat awam N.M.B.
+38. Akta ibu adalah dipinda dengan menggantikan
+
+<!-- marginal: seksyen 40. -->
+
+seksyen 40 dengan seksyen 40 baru yang berikut:
+
+"Pengkhid- 40. Semua ahli Lembaga, Majlis dan mat awam. jawatankuasa, Ketua Pengarah, dan semua pegawai dan pekerja Institut hendaklah disifatkan sebagai pengkhidmat
+
+<!-- marginal: awam -->
+
+N.M.B.
 
 ## Bab 45.
 
 mengikut pengertian Kanun Keseksaan.".
 
-39. Akta ibu adalah dipinda dengan memasukkan, baru 40A. selepas sahaja seksyen 40, seksyen baru 40A yang berikut:
+<!-- marginal: Seksyen -->
 
-"Akta
+39. Akta ibu adalah dipinda dengan memasukkan,
 
-40A. Akta Perlindungan Pihak Berkuasa Perlin- Awam 1948 adalah terpakai bagi apa-apa dungan Pihak tindakan, guaman, pendakwaan atau prosiding Berkuasa terhadap Lembaga atau terhadap mana-mana Awam
+<!-- marginal: baru 40A. -->
 
-1948. ahli Lembaga, Majlis atau jawatankuasa, atau Akta 198. terhadap Ketua Pengarah atau mana-mana pegawai atau pekerja Institut berkenaan dengan apa-apa perbuatan, keabaian atau keingkaran yang dibuat atau dilakukan olehnya atas sifat yang sedemikian itu.".
+selepas sahaja seksyen 40, seksyen baru 40A yang berikut:
+
+"Akta 40A. Akta Perlindungan Pihak Berkuasa Perlin- Awam 1948 adalah terpakai bagi apa-apa dungan Pihak tindakan, guaman, pendakwaan atau prosiding Berkuasa terhadap Lembaga atau terhadap mana-mana Awam 1948. ahli Lembaga, Majlis atau jawatankuasa, atau Akta 198. terhadap Ketua Pengarah atau mana-mana pegawai atau pekerja Institut berkenaan dengan apa-apa perbuatan, keabaian atau keingkaran yang dibuat atau dilakukan olehnya atas sifat yang sedemikian itu.".
 
 <!-- page 49 -->
 
@@ -1378,11 +1698,7 @@ mengikut pengertian Kanun Keseksaan.".
 
 (b) dengan mcmotong perkataan-perkataan "seseorang Pengarah," dalam subseksyen (1);
 
-(c) dengan memasukkan, selepas sahaja perkataan "Lembaga," (sebagaimana yang dipinda oleh fasal 9(a)) dalam subseksyen (2) perkataan- perkataan "suatu Majlis, atau
-
-<!-- marginal: suatu -->
-
-jawatankuasa,";
+(c) dengan memasukkan, selepas sahaja perkataan "Lembaga," (sebagaimana yang dipinda oleh fasal 9(a)) dalam subseksyen (2) perkataan- perkataan "suatu Majlis, atau suatu jawatankuasa,";
 
 (d) dengan memotong perkataan-perkataan "seseorang Pengarah," dalam subseksyen (2); dan
 
@@ -1406,9 +1722,13 @@ I. ( 1) Seseorang ahli Lembaga sclain daripada Ketua Pengarah hendaklah, melaink
 
 (4) Tiap-tiap ahli Lembaga hendaklah menumpukan masa kepada urusan Lembaga sebanyak yang perlu bagi menunaikan kewajipan-kewajipannya dengan berkesan.
 
-Pengosongan
+<!-- marginal: Pengosongan -->
 
-2. (1) Jawatan seseorang ahli Lembaga selain daripada jawatan. Ketua Pengarah hendaklah menjadi kosong—
+2. (1) Jawatan seseorang ahli Lembaga selain daripada
+
+<!-- marginal: jawatan. -->
+
+Ketua Pengarah hendaklah menjadi kosong—
 
 (a) jika dia mati;
 
@@ -1426,9 +1746,13 @@ Pengosongan
 
 (2) Jika mana-mana orang terhenti menjadi ahli Lembaga oleh sebab mana-mana peruntukan Akta ini, Menteri boleh melantik seorang lain untuk mengisi kekosongan itu selama baki tempoh yang baginya ahli yang mengosongkan jawatan itu telah dilantik.
 
-Saraan atau
+<!-- marginal: Saraan atau -->
 
-3. Maka hendaklah dibayar kepada ahli-ahli Lembaga elaun. atau mana-mana orang lain, yang bukan pegawai atau pekerja Institut, apa-apa saraan atau elaun sebagaimana yang ditentukan oleh Menteri selepas berunding dengan Menteri Kewangan.
+3. Maka hendaklah dibayar kepada ahli-ahli Lembaga
+
+<!-- marginal: elaun. -->
+
+atau mana-mana orang lain, yang bukan pegawai atau pekerja Institut, apa-apa saraan atau elaun sebagaimana yang ditentukan oleh Menteri selepas berunding dengan Menteri Kewangan.
 
 <!-- page 51 -->
 
@@ -1462,19 +1786,35 @@ Dengan syarat bahawa jika Pengerusi berpendapat bahawa suatu mesyuarat Lembaga a
 
 (b) kertas itu menyatakan dengan jelas persoalan yang hendak diputuskan itu dan tarikh akhir, yang tidak boleh kurang daripada empat belas hari selepas tarikh penghantaran kertas itu, bagi penerimaan undi oleh Lembaga.
 
-Lembaga
+<!-- marginal: Lembaga -->
 
-5. Lembaga boleh meminta mana-mana orang, yang bukan ahli Lembaga, menghadiri mana-mana mesyuarat mengundang orang lain atau perbincangan Lembaga bagi maksud menasihatinya menghadiri mesyuarat. tentang apa-apa perkara yang dibincangkan, tetapi mana-mana orang yang hadir sedemikian tidak berhak mengundi dalam mesyuarat atau perbincangan itu.
+5. Lembaga boleh meminta mana-mana orang, yang bukan ahli Lembaga, menghadiri mana-mana mesyuarat
 
-### Minit.
+<!-- marginal: mengundang -->
+
+<!-- marginal: orang lain -->
+
+atau perbincangan Lembaga bagi maksud menasihatinya
+
+<!-- marginal: menghadiri -->
+
+<!-- marginal: mesyuarat. -->
+
+tentang apa-apa perkara yang dibincangkan, tetapi mana-mana orang yang hadir sedemikian tidak berhak mengundi dalam mesyuarat atau perbincangan itu.
+
+<!-- marginal: Minit. -->
 
 6. (1) Lembaga hendaklah menyebabkan minit segala mesyuaratnya disenggara dan disimpan dalam bentuk yang sepatutnya.
 
 (2) Apa-apa minit yang dibuat mengenai mesyuarat Lembaga, jika ditandatangani dengan sewajarnya, boleh diterima sebagai keterangan dalam segala prosiding undang-undang tanpa bukti selanjutnya dan tiap-tiap mesyuarat Lembaga yang minit berkenaan dengan prosidingnya telah dibuat sedemikian hendaklah disifatkan telah dipanggil dan diadakan dengan sewajarnya dan semua ahli dalam mesyuarat itu layak dengan sewajarnya untuk bertindak.
 
-Meterai
+<!-- marginal: Meterai -->
 
-7. (1) Lembaga hendaklah mempunyai suatu meterai biasa. biasa yang mengandungi apa-apa tanda yang diluluskan oleh Lembaga dan meterai itu boleh dari semasa ke semasa dipecahkan, ditukar, diubah atau dibuat baharu sebagaimana yang difikirkan patut oleh Lembaga.
+7. (1) Lembaga hendaklah mempunyai suatu meterai
+
+<!-- marginal: biasa. -->
+
+biasa yang mengandungi apa-apa tanda yang diluluskan oleh Lembaga dan meterai itu boleh dari semasa ke semasa dipecahkan, ditukar, diubah atau dibuat baharu sebagaimana yang difikirkan patut oleh Lembaga.
 
 (2) Meterai biasa itu hendaklah dalam jagaan Pengerusi atau mana-mana ahli lain Lembaga yang diberikuasa oleh Lembaga secara bertulis, dan hendaklah disahkan oleh Pengerusi dan mana-mana ahli lain atau oleh mana-mana pegawai Institut yang diberikuasa oleh salah seorang daripada mereka secara bertulis; dan semua suratikatan, dokumen dan suratcara lain yang berupa sebagai dimeteraikan dengan meterai itu, disahkan sebagaimana yang disebutkan terdahulu.
 
@@ -1488,9 +1828,25 @@ Dengan syarat bahawa apa-apa dokumen atau suratcara yang jika disempurnakan oleh
 
 (3) Meterai biasa Lembaga hendaklah diberi pengiktirafan rasmi dan kehakiman.
 
-Penzahiran 8. Seseorang anggota Lembaga yang, secara langsung kepintingan atau secara tak langsung, mempunyai apa-apa kepentingan dalam mana-mana syarikat atau usaha yang dengannya Lembaga bercadang hendak membuat apa- apa kontrak atau yang-ada mempunyai apa-apa kepentingan dalam mana-mana kontrak itu atau dalam apa-apa perkara yang sedang dibincangkan oleh Lembaga hendaklah menzahirkan hakikat dan jenis kepentingannya itu kepada Lembaga, dan penzahiran itu hendaklah direkodkan daiatn minit Lembaga dan, melainkan jika dibenarkan secara khusus oleh Pengerusi, anggota itu tidak boleh mengambil bahagian dalam apa-apa perbincangan atau keputusan Lembaga yang berhubungan dengan kontrak atau perkara itu.
+<!-- marginal: Penzahiran -->
 
-Keesahan 9. Tiada apa-apa perbuatan yang dilakukan di bawah perbualan yang Akta ini boleh dipersoalkan atas alasan bahawa— dilakukan.
+8. Seseorang anggota Lembaga yang, secara langsung
+
+<!-- marginal: kepintingan -->
+
+atau secara tak langsung, mempunyai apa-apa kepentingan dalam mana-mana syarikat atau usaha yang dengannya Lembaga bercadang hendak membuat apa- apa kontrak atau yang-ada mempunyai apa-apa kepentingan dalam mana-mana kontrak itu atau dalam apa-apa perkara yang sedang dibincangkan oleh Lembaga hendaklah menzahirkan hakikat dan jenis kepentingannya itu kepada Lembaga, dan penzahiran itu hendaklah direkodkan daiatn minit Lembaga dan, melainkan jika dibenarkan secara khusus oleh Pengerusi, anggota itu tidak boleh mengambil bahagian dalam apa-apa perbincangan atau keputusan Lembaga yang berhubungan dengan kontrak atau perkara itu.
+
+<!-- marginal: Keesahan -->
+
+9. Tiada apa-apa perbuatan yang dilakukan di bawah
+
+<!-- marginal: perbualan -->
+
+<!-- marginal: yang -->
+
+Akta ini boleh dipersoalkan atas alasan bahawa—
+
+<!-- marginal: dilakukan. -->
 
 (a) ada apa-apa kekosongan dalam keahlian, atau apa-apa kecacatan dalam penubuhan, Lembaga;
 
@@ -1498,7 +1854,13 @@ Keesahan 9. Tiada apa-apa perbuatan yang dilakukan di bawah perbualan yang Akta 
 
 (c) ada apa-apa ketinggalan, kecacatan atau ketakteraturan yang tidak menyentuh merit kes itu.
 
-Acara 10. Tertakluk kepada peruntukan-peruntukan Akta ini, Lembaga Lembaga hendaklah menentukan acaranya sendiri.".
+<!-- marginal: Acara -->
+
+10. Tertakluk kepada peruntukan-peruntukan Akta ini,
+
+<!-- marginal: Lembaga -->
+
+Lembaga hendaklah menentukan acaranya sendiri.".
 
 <!-- page 54 -->
 
@@ -1556,17 +1918,31 @@ Perindustrian dan Majlis Akreditasi. Seksyen-seksyen tersebut juga menetapkan ko
 
 ## PERINDUSTRIAN MALAYSIA (PERBADANAN) (PINDAAN)
 
-20. Fasal 25 bertujuan untuk menggantikan seksyen 23 Akta. Seksyen 23 baru memberi Lembaga kuasa untuk melaburkan wang dalam pelaburan dan sekuriti, tertakluk kepada terma-terma mana- mana amanah atau endowmen. Namun demikian, tiada pelaburan boleh dibuat dalam mana-mana sekuriti yang diterbitkan luar Malaysia atau dalam mana-mana harta yang terletak di luar Malaysia melainkan dengan kebenaran sebelumnya daripada Menteri Kewangan. 21. Fasal 26 bertujuan memasukkan seksyen baru 27A untuk membolehkan Lembaga mengenakan suatu surcaj ke atas pekerja- pekerja Institut. Sebelum apa-apa surcaj dikenakan, Lembaga hendaklah menyampaikan suatu notis bertulis kepada pekerja itu supaya menunjukkan sebab mengapa dia tidak patut disurcajkan. Jika satu penjelasan yang memuaskan tidak diterima dalam masa empat belas hari dari tarikh penyampaian notis, surcaj akan dikenakan. 22. Fasal 27 bertujuan untuk meminda seksyen 28 Akta untuk membuat peruntukan bagi suatu pengisytiharan mengenai suatu penentuan standard sementara. 23. Fasal 28 bertujuan untuk meminda seksyen 29 Akta berhubungan dengan pendaftaran tanda-tanda sebagai cap dagangan perakuan atas nama Lembaga sebagai tuan punya dan penggunaan perkataan-perkataan dan kependekan-kependekan dalam cap dagangan perakuan sedemikian. 24. Fasal 29 bertujuan untuk meminda seksyen 30 Akta. Subfasal
+20. Fasal 25 bertujuan untuk menggantikan seksyen 23 Akta. Seksyen 23 baru memberi Lembaga kuasa untuk melaburkan wang dalam pelaburan dan sekuriti, tertakluk kepada terma-terma mana- mana amanah atau endowmen. Namun demikian, tiada pelaburan boleh dibuat dalam mana-mana sekuriti yang diterbitkan luar Malaysia atau dalam mana-mana harta yang terletak di luar Malaysia melainkan dengan kebenaran sebelumnya daripada Menteri Kewangan.
+
+21. Fasal 26 bertujuan memasukkan seksyen baru 27A untuk membolehkan Lembaga mengenakan suatu surcaj ke atas pekerja- pekerja Institut. Sebelum apa-apa surcaj dikenakan, Lembaga hendaklah menyampaikan suatu notis bertulis kepada pekerja itu supaya menunjukkan sebab mengapa dia tidak patut disurcajkan. Jika satu penjelasan yang memuaskan tidak diterima dalam masa empat belas hari dari tarikh penyampaian notis, surcaj akan dikenakan.
+
+22. Fasal 27 bertujuan untuk meminda seksyen 28 Akta untuk membuat peruntukan bagi suatu pengisytiharan mengenai suatu penentuan standard sementara.
+
+23. Fasal 28 bertujuan untuk meminda seksyen 29 Akta berhubungan dengan pendaftaran tanda-tanda sebagai cap dagangan perakuan atas nama Lembaga sebagai tuan punya dan penggunaan perkataan-perkataan dan kependekan-kependekan dalam cap dagangan perakuan sedemikian.
+
+24. Fasal 29 bertujuan untuk meminda seksyen 30 Akta. Subfasal
 
 (f) bertujuan untuk memberi Lembaga kuasa untuk menambah. mengkensel atau mengubah apa-apa terma dan syarat yang dikenakan dengan lesen atau perakuan yang dikeluarkan di bawah seksyen 30.
 
-25. Fasal 30 bertujuan untuk memasukkan seksyen baru 30A untuk membuat peruntukan bagi pemberian perakuan akreditasi kepada ejen-ejen pemerakuan, ejen-ejen akreditasi makmal atau ejen-ejen penulisan standard. Sesuatu perakuan akreditasi hendaklah sah selama tempoh yang tidak melebihi satu tahun tetapi selagi terma-terma dan syarat-syarat perakuan akreditasi dipatuhi, perakuan itu boleh diperbaharui oleh Lembaga bagi apa-apa tempoh yang tidak melebihi satu tahun. Lembaga boleh menggantung atau membatalkan sesuatu perakuan akreditasi yang diberikan. tetapi jika perakuan akreditasi telah digantung atau dibatalkan oleh Lembaga, pemegang perakuan boleh merayu kepada Menteri. Jika perakuan akreditasi telah digantung atau dibatalkan oleh Majlis Akreditasi, rayuan itu dikemukakan kepada Lembaga. 26. Fasal 31 bertujuan untuk meminda seksyen 32 Akta untuk memberi Menteri kuasa untuk membuat kaedah-kaedah. Sebelum pindaan ini, kuasa untuk membuat kaedah terletak pada Yang di- Pertuan Agong.
+25. Fasal 30 bertujuan untuk memasukkan seksyen baru 30A untuk membuat peruntukan bagi pemberian perakuan akreditasi kepada ejen-ejen pemerakuan, ejen-ejen akreditasi makmal atau ejen-ejen penulisan standard. Sesuatu perakuan akreditasi hendaklah sah selama tempoh yang tidak melebihi satu tahun tetapi selagi terma-terma dan syarat-syarat perakuan akreditasi dipatuhi, perakuan itu boleh diperbaharui oleh Lembaga bagi apa-apa tempoh yang tidak melebihi satu tahun. Lembaga boleh menggantung atau membatalkan sesuatu perakuan akreditasi yang diberikan. tetapi jika perakuan akreditasi telah digantung atau dibatalkan oleh Lembaga, pemegang perakuan boleh merayu kepada Menteri. Jika perakuan akreditasi telah digantung atau dibatalkan oleh Majlis Akreditasi, rayuan itu dikemukakan kepada Lembaga.
+
+26. Fasal 31 bertujuan untuk meminda seksyen 32 Akta untuk memberi Menteri kuasa untuk membuat kaedah-kaedah. Sebelum pindaan ini, kuasa untuk membuat kaedah terletak pada Yang di- Pertuan Agong.
 
 <!-- page 58 -->
 
 27. Fasal 32 bertujuan untuk meminda seksyen 33 Akta bagi menghadkan penggunaan apa-apa kependekan yang mengelirukan atau tanda-tanda Lembaga. Penalti bagi pelanggaran seksyen 33 juga ditambah daripada denda yang tidak melebihi lima ribu ringgit kepada denda yang tidak melebihi sepuluh ribu ringgit.
 
-28. Fasal 33 bertujuan untuk meminda seksyen 34 Akta bagi memperuntukkan tiga kesalahan pelbagai tambahan. Perenggan baru (d) menjadikannya suatu kesalahan bagi mana-mana orang untuk membuat apa-apa kenyataan atau representasi yang memberikan tanggapan bahawa seseorang yang tidak diakreditasikan mengenai sesuatu barangan, proses, amalan atau perkhidmatan adalah sebenarnya diakreditasikan sedemikiari. Perenggan baru (e) menjadikannya suatu kesalahan bagi mana-mana orang untuk membuat apa-apa kenyataan atau representasi yang memberikan tanggapan bahawa sesuatu barangan, proses, amalan atau perkhidmatan mematuhi kehendak-kehendak akreditasi walaupun sebenarnya ia tidak patuh sedemikian. Perenggan baru (f) menjadikannya suatu kesalahan bagi mana-mana orang menggunakan sesuatu perakuan akreditasi selepas itu telah dibatalkan atau digantung. Penalti bagi kesalahan-kesalahan pelbagai ini telah juga ditambah daripada denda tidak melebihi sepuluh ribu ringgit kepada denda tidak melebihi satu ratus ribu ringgit. Dalam hal suatu kesalahan berterusan, penalti telah juga ditambah daripada satu ratus ringgit sehari kepada satu ribu ringgit.
+28. Fasal 33 bertujuan untuk meminda seksyen 34 Akta bagi memperuntukkan tiga kesalahan pelbagai tambahan. Perenggan baru (d) menjadikannya suatu kesalahan bagi mana-mana orang untuk membuat apa-apa kenyataan atau representasi yang memberikan tanggapan bahawa seseorang yang
+
+<!-- marginal: tidak -->
+
+diakreditasikan mengenai sesuatu barangan, proses, amalan atau perkhidmatan adalah sebenarnya diakreditasikan sedemikiari. Perenggan baru (e) menjadikannya suatu kesalahan bagi mana-mana orang untuk membuat apa-apa kenyataan atau representasi yang memberikan tanggapan bahawa sesuatu barangan, proses, amalan atau perkhidmatan mematuhi kehendak-kehendak akreditasi walaupun sebenarnya ia tidak patuh sedemikian. Perenggan baru (f) menjadikannya suatu kesalahan bagi mana-mana orang menggunakan sesuatu perakuan akreditasi selepas itu telah dibatalkan atau digantung. Penalti bagi kesalahan-kesalahan pelbagai ini telah juga ditambah daripada denda tidak melebihi sepuluh ribu ringgit kepada denda tidak melebihi satu ratus ribu ringgit. Dalam hal suatu kesalahan berterusan, penalti telah juga ditambah daripada satu ratus ringgit sehari kepada satu ribu ringgit.
 
 29. Fasal 34 bertujuan untuk memasukkan seksyen baru 34A untuk membuat peruntukan bagi kesaiahan-kesalahan yang dilakukan oleh sesuatu pertubuhan perbadanan.
 

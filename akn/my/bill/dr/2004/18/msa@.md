@@ -38,35 +38,7 @@ Maksud Tajuk
 
 <!-- marginal: (RM) -->
 
-B. 42 Kementerian Kesihatan 6,778,264,700 B. 43 Kementerian Perumahan dan Kerajaan
-
-<!-- marginal: 800,617,900 -->
-
-Tempatan B. 44 Kementerian Kebudayaan, Kesenian dan
-
-<!-- marginal: 234,923,200 -->
-
-Warisan B. 45 Kementerian Belia dan Sukan
-
-<!-- marginal: 247,727,500 -->
-
-B. 46 Kementerian Sumber Manusia
-
-<!-- marginal: 365,681,300 -->
-
-B. 47 Kementerian Penerangan
-
-<!-- marginal: 865,649,300 -->
-
-B. 48 Kementerian Pembangunan Wanita,
-
-<!-- marginal: 407,815,200 -->
-
-Keluarga dan Masyarakat B. 49 Kementerian Pengajian Tinggi 5,247,115,000 B. 60 Kementerian Pertahanan 7,069,815,000 B. 61 Kementerian Hal Ehwal Dalam Negeri
-
-<!-- marginal: 937,044,600 -->
-
-B. 62 Kementerian Keselamatan Dalam Negeri 3,916,328,800
+B. 42 Kementerian Kesihatan 6,778,264,700 B. 43 Kementerian Perumahan dan Kerajaan 800,617,900 Tempatan B. 44 Kementerian Kebudayaan, Kesenian dan 234,923,200 Warisan B. 45 Kementerian Belia dan Sukan 247,727,500 B. 46 Kementerian Sumber Manusia 365,681,300 B. 47 Kementerian Penerangan 865,649,300 B. 48 Kementerian Pembangunan Wanita, 407,815,200 Keluarga dan Masyarakat B. 49 Kementerian Pengajian Tinggi 5,247,115,000 B. 60 Kementerian Pertahanan 7,069,815,000 B. 61 Kementerian Hal Ehwal Dalam Negeri 937,044,600 B. 62 Kementerian Keselamatan Dalam Negeri 3,916,328,800
 
 ## JUMLAH
 
@@ -104,23 +76,51 @@ Bill
 
 ## SCHEDULE
 
-Purpose
+Purpose Amount Title (RM) B 1 Parliament 54,590,800 B 2 Office of the Keeper of the Rulers' Seal 1,457,300 B 3 Audit Department 70,264,900 B 4 Election Commission 27,650,000 B 5 Public Services Commission 32,218,000 B 6 Prime Minister's Department 1,922,091,000 B 7 Public Services Department 1,067,628,200 B 8 Attorney General's Chambers 73,469,700 B 9 Anti-Corruption Agency 76,414,000 B 10 Treasury 1,788,714,700 B 11 Treasury General Services 9,806,603,600 B 12 Contribution of Statutory Funds 2,469,000,300 B 13 Ministry of Foreign Affairs 431,064,700 B 20 Ministry of Plantation Industries and 118,749,900 Commodities
 
-<!-- marginal: Amount -->
+<!-- marginal: B. 21 -->
 
-Title
+Ministry of Agriculture and Agro-based 1,469,228,200 Industry B 22 Ministry of Rural and Regional Development 576,866,500 B 23 Ministry of Natural Resources and 613,130,600 . Environment B 24 . Ministry of International Trade and Industry 272,027,900 B 25 Ministry of Domestic Trade and Consumer 213,761,800 Affairs
 
-<!-- marginal: (RM) -->
+<!-- marginal: B. 26 -->
 
-B 1 Parliament 54,590,800 B 2 Office of the Keeper of the Rulers' Seal
+Ministry of Entrepreneurial and Co-operative 1,303,546,600 Development
 
-<!-- marginal: 1,457,300 -->
+<!-- marginal: B. 27 -->
 
-B 3 Audit Department 70,264,900 B 4 Election Commission 27,650,000 B 5 Public Services Commission 32,218,000 B 6 Prime Minister's Department 1,922,091,000 B 7 Public Services Department 1,067,628,200 B 8 Attorney General's Chambers 73,469,700 B 9 Anti-Corruption Agency 76,414,000 B 10 Treasury 1,788,714,700 B 11 Treasury General Services 9,806,603,600 B 12 Contribution of Statutory Funds 2,469,000,300 B 13 Ministry of Foreign Affairs 431,064,700 B 20 Ministry of Plantation Industries and 118,749,900 Commodities B. 21 Ministry of Agriculture and Agro-based 1,469,228,200 Industry B 22 Ministry of Rural and Regional Development 576,866,500 B 23 Ministry of Natural Resources and 613,130,600 . Environment B 24 . Ministry of International Trade and Industry 272,027,900 B 25 Ministry of Domestic Trade and Consumer 213,761,800 Affairs B. 26 Ministry of Entrepreneurial and Co-operative 1,303,546,600 Development B. 27 Ministry of Works 1,338,169,000 B. 28 Ministry of Transport 746,169,600 B. 29 Ministry of Energy, Water and 68,299,000 Communications B. 30 Ministry of Science, Technology and 349,078,900 Innovations B. 31 Ministry of Tourism 514,193,000 B. 32 Ministry of the Federal Territories 71,354,100 B. 40 Education Service Commission
+Ministry of Works 1,338,169,000
 
-<!-- marginal: 8,264,200 -->
+<!-- marginal: B. 28 -->
 
-B. 41 Ministry of Education 16,321,292,000 B. 42 Ministry of Health 6,778,264,700
+Ministry of Transport 746,169,600
+
+<!-- marginal: B. 29 -->
+
+Ministry of Energy, Water and 68,299,000 Communications
+
+<!-- marginal: B. 30 -->
+
+Ministry of Science, Technology and 349,078,900 Innovations
+
+<!-- marginal: B. 31 -->
+
+Ministry of Tourism 514,193,000
+
+<!-- marginal: B. 32 -->
+
+Ministry of the Federal Territories 71,354,100
+
+<!-- marginal: B. 40 -->
+
+Education Service Commission 8,264,200
+
+<!-- marginal: B. 41 -->
+
+Ministry of Education 16,321,292,000
+
+<!-- marginal: B. 42 -->
+
+Ministry of Health 6,778,264,700
 
 <!-- page 6 -->
 

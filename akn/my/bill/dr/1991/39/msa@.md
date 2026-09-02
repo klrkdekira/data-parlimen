@@ -42,9 +42,11 @@ dengan memotong takrif "Fakulti", "Jawatankuasa Penyiasatan" dan "Jawatankuasa T
 
 <!-- page 2 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Subseksyen (3) seksyen 15 Akta ibu adalah dipinda— seksyen 15.
+3. Subseksyen (3) seksyen 15 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 15. -->
 
 (a) dengan memotong perkataan "dan" di akhir perenggan (d);
 
@@ -58,17 +60,29 @@ Pindaan
 
 "(f) salinan-salinan benar bagi apa-apa keterangan dokumen yang menunjukkan bahawa ia adalah sama ada seorang warganegara Persekutuan atau seorang pemastautin tetap Malaysia; dan
 
-(g) salinan-salinan benar bagi apa-apa keterangan dokumen bahawa dia telah lulus atau dikecualikan daripada Peperiksaan Kelayakan Bahasa Malaysia.".
+(g) salinan-salinan benar bagi apa-apa keterangan dokumen bahawa dia telah lulus atau dikecualikan daripada Peperiksaan Kelayakan
 
-Pindaan
+<!-- marginal: Bahasa -->
 
-4. Seksyen 67 Akta ibu adalah dipinda dengan seksyen 67. menggantikan subseksyen (2) dengan subseksyen (2) baru yang berikut:
+Malaysia.".
+
+<!-- marginal: Pindaan -->
+
+4. Seksyen 67 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 67. -->
+
+menggantikan subseksyen (2) dengan subseksyen (2) baru yang berikut:
 
 "(2) Mana-mana mesyuarat agung, sama ada dipanggil atas permintaan ahli-ahli menurut seksyen 65 (2) atau dipanggil menurut seksyen 65 (4), hendaklah dibubarkan jika tidak ada kuorum dalam masa setengah jam dari masa yang ditetapkan untuk mengadakan mesyuarat.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-5. Seksyen 68 Akta ibu adalah dipinda dengan seksyen 68. memasukkan, selepas sahaja subseksyen (3), subseksyen baru (4), (5) dan (6) yang berikut:
+5. Seksyen 68 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 68. -->
+
+memasukkan, selepas sahaja subseksyen (3), subseksyen baru (4), (5) dan (6) yang berikut:
 
 "(4) Ahli-ahli yang menjalankan amalan di Wilayah Persekutuan Kuala Lumpur hendaklah berhak menubuhkan bar yang berasingan bagi Wilayah Persekutuan Kuala Lumpur bernama Bar Kuala Lumpur. Keputusan untuk mengadakan bar yang berasingan hendaklah dibuat melalui undi majoriti ahli-ahli yang hadir dalam mesyuarat agung yang dipanggil bagi maksud itu.
 
@@ -100,19 +114,33 @@ Pindaan
 
 Jika tidak ada kuorum dalam masa setengah jam dari masa yang ditetapkan untuk mengadakan mesyuarat itu, maka mesyuarat itu hendaklah ditangguhkan ke hari yang sama dalam minggu yang berikutnya pada masa dan di tempat yang sama melainkan jika ahli-ahli diberitahu selainnya oleh Jawatankuasa Bar Negeri.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-7. Seksyen 70A Akta ibu adalah dipinda dengan seksyen 70A. menggantikan subseksyen (6) dengan subseksyen (6) baru yang berikut:
+7. Seksyen 70A Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 70A. -->
+
+menggantikan subseksyen (6) dengan subseksyen (6) baru yang berikut:
 
 "(6) Mana-mana mesyuarat agung yang dipanggil di bawah subseksyen (3) atau (5) hendaklah dibubarkan jika tidak ada kuorum dalam masa setengah jam dari masa yang ditetapkan untuk mengadakan mesyuarat.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-8. Seksyen 71 Akta ibu adalah dipinda dengan seksyen 71. memasukkan, selepas sahaja subseksyen (5), subseksyen baru (6) yang berikut:
+8. Seksyen 71 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 71. -->
+
+memasukkan, selepas sahaja subseksyen (5), subseksyen baru (6) yang berikut:
 
 "(6) Jika pemisahan berlaku menurut per- untukan-peruntukan seksyen ini, aset Bar gabungan terdahulu hendaklah dibahagikan sebagaimana diperuntukkan dalam subseksyen (6) seksyen 68 mutatis mutandis".
 
-9. Akta ibu adalah dipinda dengan memasukkan, selepas baru 78A. sahaja seksyen 78, seksyen baru 78A seperti berikut:
+<!-- marginal: Seksyen -->
+
+9. Akta ibu adalah dipinda dengan memasukkan, selepas
+
+<!-- marginal: baru 78A. -->
+
+sahaja seksyen 78, seksyen baru 78A seperti berikut:
 
 "Kuasa 78A. (1) Majlis Peguam boleh, dengan untuk kelulusan Peguam Negara, membuat kaedah- membuat kaedah- kaedah berkenaan dengan pengambilan kaedah indemniti profesional bagi peguambela- mengenai indentiti peguambela dan peguamcara-peguamcara profesional. terhadap apa-apa kelas liabiliti profesional dan kaedah-kaedah itu boleh bagi maksud mengadakan indemniti itu melakukan semua atau mana-mana yang berikut:
 
@@ -126,7 +154,9 @@ atas nama Bar Malaysia dengan mana- mana orang yang dibenarkan oleh undang-undan
 
 (c) menghendaki peguambela-peguambela dan peguamcara-peguamcara meng- ambil dan menyenggara insurans.
 
-(2) Tanpa menjejaskan keluasan subseksyen (1), kaedah-kaedah yang dibuat di bawah seksyen ini boleh—
+(2) Tanpa menjejaskan keluasan subseksyen
+
+(1), kaedah-kaedah yang dibuat di bawah seksyen ini boleh—
 
 (a) menentukan terma-terma dan syarat- syarat yang berdasarkannya indemniti profesional akan boleh didapati;
 
@@ -204,7 +234,45 @@ Hakim Mahkamah Tinggi atau Mahkamah Agung yang telah bersara atau mana-mana oran
 
 <!-- page 9 -->
 
-Kuasa 94. (1) Semua peguambela dan peguamcara Lembaga adalah tertakluk bagi maksud-maksud semua Tatatertib untuk tindakan tatatertib kepada pengawalan memotong Lembaga Tatatertib, daripada Daftarai, meng- (2) Mana-mana peguambela dan peguam- gantung cara yang melakukan salah laku boleh dipotong kerana daripada Daftarai atau digantung daripada salah laku, dsb. menjalankan amalan bagi apa-apa tempoh yang tidak melebihi lima tahun.
+<!-- marginal: Kuasa -->
+
+94. (1) Semua peguambela dan peguamcara
+
+<!-- marginal: Lembaga -->
+
+adalah tertakluk bagi maksud-maksud semua
+
+<!-- marginal: Tatatertib -->
+
+<!-- marginal: untuk -->
+
+tindakan tatatertib kepada pengawalan
+
+<!-- marginal: memotong -->
+
+Lembaga Tatatertib,
+
+<!-- marginal: daripada -->
+
+<!-- marginal: Daftarai, -->
+
+<!-- marginal: meng- -->
+
+(2) Mana-mana peguambela dan peguam-
+
+<!-- marginal: gantung -->
+
+cara yang melakukan salah laku boleh dipotong
+
+<!-- marginal: kerana -->
+
+daripada Daftarai atau digantung daripada
+
+<!-- marginal: salah laku, -->
+
+<!-- marginal: dsb. -->
+
+menjalankan amalan bagi apa-apa tempoh yang tidak melebihi lima tahun.
 
 (3) Bagi maksud-maksud Bahagian ini, "salah laku" ertinya kelakuan atau ketinggalan untuk bertindak di Malaysia atau di tempat lain oleh seseorang peguambela dan peguamcara atas sifat profesionalnya atau selainnya yang dikira sebagai perbuatan tidak patut yang serius dan termasuk—
 
@@ -214,13 +282,11 @@ Kuasa 94. (1) Semua peguambela dan peguamcara Lembaga adalah tertakluk bagi maks
 
 (c) kelakuan curang atau fraud dalam menunaikan kewajipan-kewajipannya;
 
-(d) pelanggaran apa-apa kaedah amalan dan etika profesion yang dibuat oleh Majlis Peguam di bawah Akta
+(d) pelanggaran apa-apa kaedah amalan dan etika profesion yang dibuat oleh Majlis Peguam di bawah Akta ini atau selainnya;
 
-<!-- marginal: ini atau -->
+(e) dihukum menjadi bankrap dan didapati bersalah atas mana-mana perbuatan atau ketinggalan yang tersebut dalam perenggan (a), (b), (c), (d)t (e), (/), (h),
 
-selainnya;
-
-(e) dihukum menjadi bankrap dan didapati bersalah atas mana-mana perbuatan atau ketinggalan yang tersebut dalam perenggan (a), (b), (c), (d)t (e), (/), (h), Akra 360
+<!-- marginal: Akra 360 -->
 
 (k) atau
 
@@ -274,9 +340,47 @@ dan Majlis Peguam berpendapat bahawa adalah bagi kepentingan awam atau kepenting
 
 (5) Seorang pelatih adalah mutatis mutandis tertakluk kepada pengawalan yang sama daripada Lembaga Tatatertib sepertimana yang, menurut kuasa seksyen ini, dilaksanakan terhadap peguambela dan peguamcara tetapi sebagai ganti perintah yang memotongnya daripada Daftarai atau menggantungnya, suatu perintah boleh dibuat menghalang pelatih itu daripada mempetisyen Mahkamah untuk diterima masuk sehingga selepas tarikh yang hendaklah dinyatakan dalam perintah itu.
 
-Panel 95. Bagi maksud-maksud prosiding tatatertib Jawatan- di bawah Bahagian ini, maka hendaklah kuasa Tatatertib ditubuhkan suatu Panel Jawatankuasa dan Panel Tatatertib dengan suatu Jawatankuasa Tribunal Penyiasatan. Tatatertib yang ditubuhkan di bawahnya dan suatu Panel Tribunal Penyiasatan dengan suatu Tribunal Penyiasatan yang ditubuhkan di bawahnya.
+<!-- marginal: Panel -->
 
-Perlantikan 96. (1) Lembaga Tatatertib hendaklah, dari Panel semasa ke semasa sebagaimana yang Jawatan- kuasa dikehendaki, melantik suatu Panel Jawatan- Tatatertib. kuasa Tatatertib, daripada senarai yang diberikan oleh Majlis Peguam, yang terdiri daripada tiga puluh orang ahli yang daripadanya dua puluh orang ahli ialah
+95. Bagi maksud-maksud prosiding tatatertib
+
+<!-- marginal: Jawatan- -->
+
+di bawah Bahagian ini, maka hendaklah
+
+<!-- marginal: kuasa -->
+
+<!-- marginal: Tatatertib -->
+
+ditubuhkan suatu Panel Jawatankuasa
+
+<!-- marginal: dan Panel -->
+
+Tatatertib dengan suatu Jawatankuasa
+
+<!-- marginal: Tribunal -->
+
+<!-- marginal: Penyiasatan. -->
+
+Tatatertib yang ditubuhkan di bawahnya dan suatu Panel Tribunal Penyiasatan dengan suatu Tribunal Penyiasatan yang ditubuhkan di bawahnya.
+
+<!-- marginal: Perlantikan -->
+
+96. (1) Lembaga Tatatertib hendaklah, dari
+
+<!-- marginal: Panel -->
+
+semasa ke semasa sebagaimana yang
+
+<!-- marginal: Jawatan- -->
+
+<!-- marginal: kuasa -->
+
+dikehendaki, melantik suatu Panel Jawatan-
+
+<!-- marginal: Tatatertib. -->
+
+kuasa Tatatertib, daripada senarai yang diberikan oleh Majlis Peguam, yang terdiri daripada tiga puluh orang ahli yang daripadanya dua puluh orang ahli ialah
 
 <!-- page 13 -->
 
@@ -286,21 +390,45 @@ Perlantikan 96. (1) Lembaga Tatatertib hendaklah, dari Panel semasa ke semasa se
 
 (4) Pengarah itu hendaklah bertanggung- jawab bagi pentadbiran harian aduan-aduan terhadap peguambela dan peguamcara di bawah Bahagian ini.
 
-Aduan- 99. (1) Apa-apa aduan mengenai kelakuan aduan mana-mana peguambela dan peguamcara atau terhadap peguambela mana-mana pelatih hendaklah secara bertulis dan dan hendaklah pada mulanya dibuat atau peguamcara atau pelatih. dirujukkan kepada Lembaga Tatatertib yang akan mengendalikan aduan itu mengikut apa- apa kaedah yang dibuat dari semasa ke semasa di bawah peruntukan-peruntukan Bahagian ini.
+<!-- marginal: Aduan- -->
+
+99. (1) Apa-apa aduan mengenai kelakuan
+
+<!-- marginal: aduan -->
+
+mana-mana peguambela dan peguamcara atau
+
+<!-- marginal: terhadap -->
+
+<!-- marginal: peguambela -->
+
+mana-mana pelatih hendaklah secara bertulis
+
+<!-- marginal: dan -->
+
+dan hendaklah pada mulanya dibuat atau
+
+<!-- marginal: peguamcara -->
+
+<!-- marginal: atau pelatih. -->
+
+dirujukkan kepada Lembaga Tatatertib yang akan mengendalikan aduan itu mengikut apa- apa kaedah yang dibuat dari semasa ke semasa di bawah peruntukan-peruntukan Bahagian ini.
 
 (2) Mana-mana mahkamah, Hakim, Hakim Mahkamah Sesyen atau Majistret atau Peguam Negara boleh pada bila-bila masa merujukkan kepada Lembaga Tatatertib apa-apa aduan yang dibuat terhadap seseorang peguambela dan peguamcara atau pelatih.
 
 (3) Tiada apa-apa jua dalam seksyen ini boleh dikira menghalang Majlis Peguam atau Jawatankuasa Bar Negeri daripada membuat apa-apa aduan atas usulnya sendiri kepada Lembaga Tatatertib terhadap seseorang peguambela dan peguamcara atau pelatih.
 
-Tribunal 100. (1) Jika sesuatu permohonan atau aduan Penyiasatan. bertulis dirujukkan kepada Lembaga Tatatertib, Lembaga Tatatertib itu hendaklah dengan serta- merta menubuhkan suatu Tribunal Penyiasatan.
+<!-- marginal: Tribunal -->
+
+100. (1) Jika sesuatu permohonan atau aduan
+
+<!-- marginal: Penyiasatan. -->
+
+bertulis dirujukkan kepada Lembaga Tatatertib, Lembaga Tatatertib itu hendaklah dengan serta- merta menubuhkan suatu Tribunal Penyiasatan.
 
 <!-- page 14 -->
 
-(2) Sesuatu Tribunal Penyiasatan yang akan dilantik oleh Lembaga Tatatertib untuk menyiasat permohonan atau aduan
-
-<!-- marginal: itu -->
-
-hendaklah terdiri daripada tiga orang ahli iaitu—
+(2) Sesuatu Tribunal Penyiasatan yang akan dilantik oleh Lembaga Tatatertib untuk menyiasat permohonan atau aduan itu hendaklah terdiri daripada tiga orang ahli iaitu—
 
 (a) dua orang peguambela dan peguamcara; dan
 
@@ -308,9 +436,13 @@ hendaklah terdiri daripada tiga orang ahli iaitu—
 
 yang dilantik daripada Panel Tribunal Penyiasatan.
 
-(3) Lembaga Tatatertib hendaklah melantik seorang ahli daripada perenggan (a) subseksyen (2) menjadi pengerusi Tribunal Penyiasatan tersebut.
+(3) Lembaga Tatatertib hendaklah melantik seorang ahli daripada perenggan (a) subseksyen
 
-Penyiasatan. 101. (1) Sesuatu Tribunal Penyiasatan hendaklah, dalam masa dua minggu selepas perlantikannya, memulakan penyiasatannya terhadap permohonan atau aduan itu dan melaporkan dapatannya kepada Lembaga Tatatertib dengan seberapa segera yang semunasabahnya boleh diharapkan daripada- nya, tetapi, biar bagaimanapun jua, tidak lewat daripada dua bulan selepas bermulanya penyiasatan itu.
+(2) menjadi pengerusi Tribunal Penyiasatan tersebut.
+
+<!-- marginal: Penyiasatan. -->
+
+101. (1) Sesuatu Tribunal Penyiasatan hendaklah, dalam masa dua minggu selepas perlantikannya, memulakan penyiasatannya terhadap permohonan atau aduan itu dan melaporkan dapatannya kepada Lembaga Tatatertib dengan seberapa segera yang semunasabahnya boleh diharapkan daripada- nya, tetapi, biar bagaimanapun jua, tidak lewat daripada dua bulan selepas bermulanya penyiasatan itu.
 
 (2) Bagi maksud apa-apa penyiasatan, Tribunal Penyiasatan boleh—
 
@@ -324,11 +456,7 @@ menghendaki mana-mana orang mem- berikan maklumat berhubungan dengan buku, dokum
 
 (c) menghendaki orang yang berkenaan memberikan segala maklumat ber- hubungan dengan mana-mana buku, dokumen atau kertas sedemikian yang mungkin semunasabahnya dikehendaki oleh Tribunal Penyiasatan atau oleh orang yang diambil kcrja di bawah perenggan (a).
 
-(3) Mana-mana peguambela dan peguam- cara dan mana-mana orang lain yang tanpa alasan y a ng sah enggan atau
-
-<!-- marginal: gagal -->
-
-mengemukakan kepada Tribunal Penyiasatan atau kepada mana-mana orang yang diambil kcrja olch Tribunal Penyiasatan bagi maksud penyiasatan mana-mana buku, dokumen atau kertas atau gagal memberikan apa-apa maklumat berhubungan dengannya di bawah perenggan (h) atau (c) subseksyen (2) adalah meiakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi lima ratus ringgit.
+(3) Mana-mana peguambela dan peguam- cara dan mana-mana orang lain yang tanpa alasan y a ng sah enggan atau gagal mengemukakan kepada Tribunal Penyiasatan atau kepada mana-mana orang yang diambil kcrja olch Tribunal Penyiasatan bagi maksud penyiasatan mana-mana buku, dokumen atau kertas atau gagal memberikan apa-apa maklumat berhubungan dengannya di bawah perenggan (h) atau (c) subseksyen (2) adalah meiakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi lima ratus ringgit.
 
 (4) Sebelum Tribunal Penyiasatan memula- kan pcndengarannya berkenaan dengan apa-apa perkara—
 
@@ -336,29 +464,43 @@ mengemukakan kepada Tribunal Penyiasatan atau kepada mana-mana orang yang diambi
 
 <!-- page 16 -->
 
-belas hari) yang dinyatakan dalam notis, untuk memberi Tribunal Penyiasatan apa-apa penjelasan bertulis yang ingin
-
-<!-- marginal: dike- -->
-
-mukakannya dan memberitahu Tribunal Penyiasatan sekiranya dia ingin didengar oleh Tribunal Penyiasatan itu; dan
+belas hari) yang dinyatakan dalam notis, untuk memberi Tribunal Penyiasatan apa-apa penjelasan bertulis yang ingin dike- mukakannya dan memberitahu Tribunal Penyiasatan sekiranya dia ingin didengar oleh Tribunal Penyiasatan itu; dan
 
 (b) Tribunal Penyiasatan hendaklah mem- biarkan masa yang ditetapkan dalam notis itu berlalu dan memberi peguambela dan peguamcara yang berkenaan peluang yang munasabah untuk didengar jika dia berhasrat sedemikian dan hendaklah memberikan pertimbangan yang wajar kepada apa- apa penjelasan yang mungkin dibuatnya.
 
-Pertim- 102. (1) Tribunal Penyiasatan hendaklah bangan memutuskan dan mengesyorkan kepada Lembaga Tatatertib Lembaga Tatatertib mana-mana satu daripada tentang syor yang berikut: laporan oleh
+<!-- marginal: Pertim- -->
 
-(a) bahawa penyiasatan formal tidaklah Tribunal Penyiasatan. perlu;
+102. (1) Tribunal Penyiasatan hendaklah
 
-(b) bahawa tiada sebab yang cukup berat wujud bagi penyiasatan formal tetapi peguambela dan peguamcara
+<!-- marginal: bangan -->
 
-<!-- marginal: itu -->
+memutuskan dan mengesyorkan kepada
 
-hendaklah diperintahkan membayar penalti; atau
+<!-- marginal: Lembaga -->
 
-(c) bahawa patut diadakan
+<!-- marginal: Tatatertib -->
 
-<!-- marginal: suatu -->
+Lembaga Tatatertib mana-mana satu daripada
 
-penyiasatan formal oleh Jawatankuasa Tatatertib.
+<!-- marginal: tentang -->
+
+syor yang berikut:
+
+<!-- marginal: laporan -->
+
+<!-- marginal: oleh -->
+
+(a) bahawa penyiasatan formal tidaklah
+
+<!-- marginal: Tribunal -->
+
+<!-- marginal: Penyiasatan. -->
+
+perlu;
+
+(b) bahawa tiada sebab yang cukup berat wujud bagi penyiasatan formal tetapi peguambela dan peguamcara itu hendaklah diperintahkan membayar penalti; atau
+
+(c) bahawa patut diadakan suatu penyiasatan formal oleh Jawatankuasa Tatatertib.
 
 (2) Jika Tribunal Penyiasatan dalam laporannya mengesyorkan—
 
@@ -370,15 +512,55 @@ penyiasatan formal oleh Jawatankuasa Tatatertib.
 
 (3) Lembaga Tatatertib hendaklah memberi- tahu peguambela dan peguamcara itu dan orang yang membuat permohonan atau aduan itu tentang cara ia telah memutuskan permohonan atau aduan itu dan sekiranya keputusannya ialah bahawa suatu penyiasatan formal tidak perlu, Lembaga Tatatertib hendaklah atas permintaan orang itu memberinya sebab- sebabnya secara bertulis.
 
-Kuasa 103. (1) Jika Lembaga Tatatertib memutuskan Lembaga bahawa tiada sebab yang cukup berat wujud Tatatertib unluk bagi membuat sesuatu penyiasatan formal meme- tetapi memutuskan bahawa peguambela dan rinlahkan penalti. peguamcara itu hendaklah diperintahkan membayar penalti ia boleh memerintahkan peguambela dan peguamcara itu membayar penalti yang tidak lebih daripada lima ribu ringgit.
+<!-- marginal: Kuasa -->
+
+103. (1) Jika Lembaga Tatatertib memutuskan
+
+<!-- marginal: Lembaga -->
+
+bahawa tiada sebab yang cukup berat wujud
+
+<!-- marginal: Tatatertib -->
+
+<!-- marginal: unluk -->
+
+bagi membuat sesuatu penyiasatan formal
+
+<!-- marginal: meme- -->
+
+tetapi memutuskan bahawa peguambela dan
+
+<!-- marginal: rinlahkan -->
+
+<!-- marginal: penalti. -->
+
+peguamcara itu hendaklah diperintahkan membayar penalti ia boleh memerintahkan peguambela dan peguamcara itu membayar penalti yang tidak lebih daripada lima ribu ringgit.
 
 (2) Sebelum Lembaga Tatatertib membuat perintah bagi pembayaran penalti di bawah ini, ia hendaklah memberitahu peguambela dan peguamcara yang berkenaan tentang niatnya untuk berbuat demikian dan memberinya peluang yang munasabah untuk didengar.
 
-Permohonan 103A. Jika— untuk melantik
+<!-- marginal: Permohonan -->
 
-(a) Lembaga Tatatertib memutuskan Jawatan- kuasa bahawa hendaklah diadakan suatu Tatatertib. penyiasatan formal; atau
+103A. Jika—
 
-(b) seorang peguambela dan peguamcara telah disabitkan atas kesalahan pecah amanah jenayah di bawah seksyen 409 N.M.B.
+<!-- marginal: untuk -->
+
+<!-- marginal: melantik -->
+
+(a) Lembaga Tatatertib memutuskan
+
+<!-- marginal: Jawatan- -->
+
+<!-- marginal: kuasa -->
+
+bahawa hendaklah diadakan suatu
+
+<!-- marginal: Tatatertib. -->
+
+penyiasatan formal; atau
+
+(b) seorang peguambela dan peguamcara telah disabitkan atas kesalahan pecah amanah jenayah di bawah seksyen 409
+
+<!-- marginal: N.M.B. -->
 
 ## Bab 45.
 
@@ -392,7 +574,17 @@ kesalahan lain yang melibatkan fraud atau kecurangan; atau
 
 Lembaga Tatatertib hendaklah dengan serta- merta melantik suatu Jawatankuasa Tatatertib yang akan mendengar dan menyiasat perkara itu.
 
-Jawatan- 103B. (1) Lembaga Tatatertib hendaklah kuasa melantik suatu Jawatankuasa Tatatertib untuk Tatatertib. menimbangkan, dalam hal-hal apabila suatu Tribunal Penyiasatan telah dilantik, laporan Tribunal Penyiasatan itu, atau untuk menyiasat dan membuat syor kepada Lembaga Tatatertib berkenaan dengan hal-hal di bawah seksyen 103A.
+<!-- marginal: Jawatan- -->
+
+103B. (1) Lembaga Tatatertib hendaklah
+
+<!-- marginal: kuasa -->
+
+melantik suatu Jawatankuasa Tatatertib untuk
+
+<!-- marginal: Tatatertib. -->
+
+menimbangkan, dalam hal-hal apabila suatu Tribunal Penyiasatan telah dilantik, laporan Tribunal Penyiasatan itu, atau untuk menyiasat dan membuat syor kepada Lembaga Tatatertib berkenaan dengan hal-hal di bawah seksyen 103A.
 
 (2) Sesuatu Jawatankuasa Tatatertib hendaklah terdiri daripada lima orang ahli iaitu—
 
@@ -400,9 +592,23 @@ Jawatan- 103B. (1) Lembaga Tatatertib hendaklah kuasa melantik suatu Jawatankuas
 
 (b) dua orang ahli biasa, yang dilantik daripada Panel Jawatankuasa Tatatertib.
 
-(3) Lembaga Tatatertib hendaklah melantik seorang ahli daripada perenggan (a) subseksyen (2) menjadi pengerusi Jawatankuasa Tatatertib.
+(3) Lembaga Tatatertib hendaklah melantik seorang ahli daripada perenggan (a) subseksyen
 
-Dapatan 103c. (1) Selepas mendengar dan menyiasat Jawatan- apa-apa perkara yang dirujukkan kepadanya, kuasa Tatatertib. sesuatu Jawatankuasa Tatatertib hendaklah merekodkan dapatannya berhubungan dengan fakta-fakta kes itu dan mengikut fakta-fakta tersebut hendaklah memutuskan dan membuat mana-mana satu daripada syor yang berikut kepada Lembaga Tatatertib:
+(2) menjadi pengerusi Jawatankuasa Tatatertib.
+
+<!-- marginal: Dapatan -->
+
+103c. (1) Selepas mendengar dan menyiasat
+
+<!-- marginal: Jawatan- -->
+
+apa-apa perkara yang dirujukkan kepadanya,
+
+<!-- marginal: kuasa -->
+
+<!-- marginal: Tatatertib. -->
+
+sesuatu Jawatankuasa Tatatertib hendaklah merekodkan dapatannya berhubungan dengan fakta-fakta kes itu dan mengikut fakta-fakta tersebut hendaklah memutuskan dan membuat mana-mana satu daripada syor yang berikut kepada Lembaga Tatatertib:
 
 (a) bahawa tiada sebab yang cukup berat wujud bagi tindakan tatatertib;
 
@@ -424,11 +630,35 @@ Dapatan 103c. (1) Selepas mendengar dan menyiasat Jawatan- apa-apa perkara yang 
 
 peguambela dan peguamcara itu sebanyak yang difikirkan adil oleh Jawatankuasa Tatatertib; (ii) penggantungan peguambela dan peguamcara yang berkenaan daripada menjalankan amalan selama tempoh yang difikirkan patut oleh Jawatankuasa Tatatertib memandangkan hal keadaan itu; atau (iii) pemotongan peguambela dan peguamcara yang berkenaan dari- pada Daftarai.
 
-Pertim-
+<!-- marginal: Pertim- -->
 
-103D. (1) Selepas menimbangkan laporan bangan Jawatankuasa Tataterib, Lembaga Tatatertib oleh Lembaga hendaklah membuat suatu perintah— Tatatertib akan
+103D. (1) Selepas menimbangkan laporan
 
-(a) yang mengesahkan syor-syor Jawatan- laporan kuasa Tatatertib; dan Jawatan- kuasa Tatatertib.
+<!-- marginal: bangan -->
+
+Jawatankuasa Tataterib, Lembaga Tatatertib
+
+<!-- marginal: oleh -->
+
+<!-- marginal: Lembaga -->
+
+hendaklah membuat suatu perintah—
+
+<!-- marginal: Tatatertib -->
+
+<!-- marginal: akan -->
+
+(a) yang mengesahkan syor-syor Jawatan-
+
+<!-- marginal: laporan -->
+
+kuasa Tatatertib; dan
+
+<!-- marginal: Jawatan- -->
+
+<!-- marginal: kuasa -->
+
+<!-- marginal: Tatatertib. -->
 
 (b) boleh sama ada menerima syor-syor Jawatankuasa Tatatertib tentang
 
@@ -442,7 +672,23 @@ dalam kes-kes luar biasa, mengenakan hukuman yang lebih berat.
 
 peguamcara yang berkenaan tentang niatnya untuk berbuat demikian dan memberinya peluang yang munasabah untuk didengar.
 
-Rayuan 103E. (1) Mana-mana pihak yang terkilan danpada dengan apa-apa keputusan atau perintah yang keputusan Lembaga dibuat oleh Lembaga Tatatertib berhak merayu Tatatertib. kepada Mahkamah Tinggi dalam masa sebulan selepas pemberitahuan keputusan atau perintah yang dimusykilkan itu.
+<!-- marginal: Rayuan -->
+
+103E. (1) Mana-mana pihak yang terkilan
+
+<!-- marginal: danpada -->
+
+dengan apa-apa keputusan atau perintah yang
+
+<!-- marginal: keputusan -->
+
+<!-- marginal: Lembaga -->
+
+dibuat oleh Lembaga Tatatertib berhak merayu
+
+<!-- marginal: Tatatertib. -->
+
+kepada Mahkamah Tinggi dalam masa sebulan selepas pemberitahuan keputusan atau perintah yang dimusykilkan itu.
 
 (2) Rayuan itu hendaklah ditetapkan untuk didengar di hadapan tiga orang Hakim Mahkamah Tinggi.
 
@@ -450,31 +696,75 @@ Rayuan 103E. (1) Mana-mana pihak yang terkilan danpada dengan apa-apa keputusan 
 
 (4) Majlis Peguam boleh atas budi bicaranya mencelah pada mana-mana peringkat apa-apa rayuan di bawah seksyen ini.
 
-Kuasa 103F. (1) Lembaga Tatatertib hendaklah, dari untuk semasa ke semasa, membuat kaedah-kaedah membuat kaedah- untuk mengawalselia prosedur berkenaan kaedah. dengan prosiding tatatertib.
+<!-- marginal: Kuasa -->
+
+103F. (1) Lembaga Tatatertib hendaklah, dari
+
+<!-- marginal: untuk -->
+
+semasa ke semasa, membuat kaedah-kaedah
+
+<!-- marginal: membuat -->
+
+<!-- marginal: kaedah- -->
+
+untuk mengawalselia prosedur berkenaan
+
+<!-- marginal: kaedah. -->
+
+dengan prosiding tatatertib.
 
 (2) Apa-apa kaedah yang dibuat di bawah Bahagian ini tidak boleh berkuatkuasa sehingga ia telah disiarkan dalam Warta.
 
-Peruntukan 103G. (1) Penggantian peruntukan-peruntukan kecualian yang berhubungan dengan prosiding tatatertib dan peralihan. oleh Akta ini tidaklah menyentuh apa-apa permohonan, aduan atau prosiding tatatertib yang belum diputuskan pada tarikh mula berkuatkuasanya Akta ini.
+<!-- marginal: Peruntukan -->
+
+103G. (1) Penggantian peruntukan-peruntukan
+
+<!-- marginal: kecualian -->
+
+yang berhubungan dengan prosiding tatatertib
+
+<!-- marginal: dan -->
+
+<!-- marginal: peralihan. -->
+
+oleh Akta ini tidaklah menyentuh apa-apa permohonan, aduan atau prosiding tatatertib yang belum diputuskan pada tarikh mula berkuatkuasanya Akta ini.
 
 (2) Bagi maksud subseksyen (1) peruntukan- peruntukan Akta ibu yang berhubungan dengan prosiding tatatertib hendaklah terus berkuat- kuasa.".
 
 <!-- page 21 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-12. Seksyen 108 Akta ibu adalah dipinda dengan seksyen 108. menggantikan perkataan-perkataan ", Jawatankuasa Penyiasat dan Jawatankuasa Tatatertib" dengan perkataan-perkataan "dan kos prosiding di hadapan Tribunal Penyiasatan dan Jawatankuasa Tatatertib",
+12. Seksyen 108 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 108. -->
 
-13. Seksyen 109 Akta ibu adalah dipinda dengan seksyen 109. menggantikan perkataan-perkataan "Jawatankuasa Tatatertib, Jawatankuasa Bar Negeri atau Jawatankuasa Penyiasatan" dengan perkataan-perkataan "Tribunal Penyiasatan atau Jawatankuasa Tatatertib".
+menggantikan perkataan-perkataan ", Jawatankuasa Penyiasat dan Jawatankuasa Tatatertib" dengan perkataan-perkataan "dan kos prosiding di hadapan Tribunal Penyiasatan dan Jawatankuasa Tatatertib",
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-14. Seksyen 110 Akta ibu adalah dipinda dengan seksyen 110. memasukkan, selepas sahaja perkataan-perkataan "bertulis orang itu," dalam subseksyen (2), perkataan- perkataan "Tribunal Penyiasatan atau".
+13. Seksyen 109 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 109. -->
 
-15. Seksyen 111 Akta ibu adalah dipinda dengan seksyen 111. menggantikan perkataan-perkataan "Jawatankuasa Tatatertib, Jawatankuasa Bar Negeri, Bar Malaysia, Majlis Peguam atau Jawatankuasa Penyiasatan" dengan perkataan-perkataan "Tribunal Penyiasatan, Jawatan- kuasa Tatatertib, Lembaga Tatatertib, Bar Malaysia atau Majlis Peguam".
+menggantikan perkataan-perkataan "Jawatankuasa Tatatertib, Jawatankuasa Bar Negeri atau Jawatankuasa Penyiasatan" dengan perkataan-perkataan "Tribunal Penyiasatan atau Jawatankuasa Tatatertib".
+
+<!-- marginal: Pindaan -->
+
+14. Seksyen 110 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 110. -->
+
+memasukkan, selepas sahaja perkataan-perkataan "bertulis orang itu," dalam subseksyen (2), perkataan- perkataan "Tribunal Penyiasatan atau".
+
+<!-- marginal: Pindaan -->
+
+15. Seksyen 111 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 111. -->
+
+menggantikan perkataan-perkataan "Jawatankuasa Tatatertib, Jawatankuasa Bar Negeri, Bar Malaysia, Majlis Peguam atau Jawatankuasa Penyiasatan" dengan perkataan-perkataan "Tribunal Penyiasatan, Jawatan- kuasa Tatatertib, Lembaga Tatatertib, Bar Malaysia atau Majlis Peguam".
 
 ## HURAIAN
 

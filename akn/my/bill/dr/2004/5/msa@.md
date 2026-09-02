@@ -54,7 +54,9 @@ dengan minyak sawit dari 1 Januari 1979 (iaitu tarikh mula berkuat kuasa Perinta
 
 ## IMPLIKAS1 KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN(U2)2400]
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
+
+<!-- marginal: [PN(U2)2400] -->
 
 <!-- page 4 -->
 

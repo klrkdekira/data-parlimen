@@ -92,7 +92,13 @@ New sections 3A, 3B, 3c, 3D and 3E
 
 (9) Until an appointment under subsection (8) is made or in default of such appointment or in the absence of the Chairman from any meeting of the Board, the Director General shall perform the functions of and be deemed to be the Chairman of the Board.
 
-Vacation of 3B. (1) The office of a member appointed under paragraph office. 3A(l)(a), (d) or (e) shall be vacated—
+<!-- marginal: Vacation of -->
+
+3B. (1) The office of a member appointed under paragraph
+
+<!-- marginal: office. -->
+
+3A(l)(a), (d) or (e) shall be vacated—
 
 (a) if he dies;
 
@@ -114,9 +120,27 @@ Vacation of 3B. (1) The office of a member appointed under paragraph office. 3A(
 
 (Incorporation) (Amendment)
 
-"Filling of 3c. Where any person ceases to be a member by reason vacancies. of section 3e the Minister may appoint another person to fill the vacancy for a term not exceeding three years, and that person shall be eligible for reappointment.
+<!-- marginal: "Filling of -->
 
-3D. (1) The Minister shall appoint, upon such terms as Appoint- ment of the Minister may determine, an executive officer who Director General. shall be the Director General of the Authority.
+3c. Where any person ceases to be a member by reason
+
+<!-- marginal: vacancies. -->
+
+of section 3e the Minister may appoint another person to fill the vacancy for a term not exceeding three years, and that person shall be eligible for reappointment.
+
+3D. (1) The Minister shall appoint, upon such terms as
+
+<!-- marginal: Appoint- -->
+
+<!-- marginal: ment of -->
+
+the Minister may determine, an executive officer who
+
+<!-- marginal: Director -->
+
+<!-- marginal: General. -->
+
+shall be the Director General of the Authority.
 
 (2) The Director General shall be responsible for the administration and management of the functions and affairs of the Authority, and in particular, but without prejudice to the generality of the foregoing —
 
@@ -136,7 +160,23 @@ implementation of the recommendations of the Board.
 
 (3) The Director General shall perform such further duties as the Board may from time to time direct.
 
-3E. (1) The Authority may appoint such number of officers Appointment of officers, and servants of the Authority as it thinks desirable and servants and other necessary who shall be paid such remuneration and persons. allowances and be subject to such conditions of service as may be prescribed by regulations.
+3E. (1) The Authority may appoint such number of officers
+
+<!-- marginal: Appointment -->
+
+<!-- marginal: of officers, -->
+
+and servants of the Authority as it thinks desirable and
+
+<!-- marginal: servants -->
+
+<!-- marginal: and other -->
+
+necessary who shall be paid such remuneration and
+
+<!-- marginal: persons. -->
+
+allowances and be subject to such conditions of service as may be prescribed by regulations.
 
 <!-- page 6 -->
 
@@ -194,7 +234,17 @@ New sections 6A and 6B
 
 8. The principal Act is amended by inserting after section 6 the following sections:
 
-Powers of 6A. (1) The Authority shall have all such powers as the may be reasonably necessary for, or incidental to, the Authority. performance of its functions.
+<!-- marginal: Powers of -->
+
+6A. (1) The Authority shall have all such powers as
+
+<!-- marginal: the -->
+
+may be reasonably necessary for, or incidental to, the
+
+<!-- marginal: Authority. -->
+
+performance of its functions.
 
 (2) In particular, but without prejudice to the generality of subsection (1), the Authority may —
 
@@ -206,7 +256,29 @@ Powers of 6A. (1) The Authority shall have all such powers as the may be reasona
 
 (d) generally undertake such other powers incidental to or consequential upon the exercise of its powers or the performance of its functions under this Act.
 
-Board to 6B. The Board shall perform the functions and exercise perform the powers of the Authority under this Act and any function functions and so performed or any power so exercised shall be deemed exercise to be performed or exercised by the Authority.". powers of the Authority.
+<!-- marginal: Board to -->
+
+6B. The Board shall perform the functions and exercise
+
+<!-- marginal: perform -->
+
+the powers of the Authority under this Act and any function
+
+<!-- marginal: functions -->
+
+<!-- marginal: and -->
+
+so performed or any power so exercised shall be deemed
+
+<!-- marginal: exercise -->
+
+to be performed or exercised by the Authority.".
+
+<!-- marginal: powers of -->
+
+<!-- marginal: the -->
+
+<!-- marginal: Authority. -->
 
 ### Deletion of section 7
 
@@ -220,11 +292,29 @@ Board to 6B. The Board shall perform the functions and exercise perform the powe
 
 10. The principal Act is amended by inserting after section 7 the following sections:
 
-rower to 7 A. (1) The Board may, subject to such terms, limitations delegate. or restrictions as it deems fit to impose, delegate to the Chairman, the Director General or to any other member the power and authority to exercise or perform on its behalf such powers or functions of the Board under this Act as it may determine, except the power to make regulations, and any power or function so exercised or performed by the Chairman or the Director General or the member, as the case may be, shall be deemed to have been exercised by and on behalf of the Board.
+<!-- marginal: rower to -->
 
-(2) Without prejudice to the generality of subsection (1) and to the other provisions of this Act, the Board may delegate to either the Chairman or to the Director General authority to sanction expenditure from any moneys vested in and under the control of the Board up to such limit as the Minister shall specify.
+7 A. (1) The Board may, subject to such terms, limitations
 
-Power to 7 E. (1) The Board may appoint committees to assist it appoint in relation to the selection and recruitment of officers, committees. disciplinary matters, financial and audit matters and such other matters arising out of or connected with the operation of the Authority.
+<!-- marginal: delegate. -->
+
+or restrictions as it deems fit to impose, delegate to the Chairman, the Director General or to any other member the power and authority to exercise or perform on its behalf such powers or functions of the Board under this Act as it may determine, except the power to make regulations, and any power or function so exercised or performed by the Chairman or the Director General or the member, as the case may be, shall be deemed to have been exercised by and on behalf of the Board.
+
+(2) Without prejudice to the generality of subsection
+
+(1) and to the other provisions of this Act, the Board may delegate to either the Chairman or to the Director General authority to sanction expenditure from any moneys vested in and under the control of the Board up to such limit as the Minister shall specify.
+
+<!-- marginal: Power to -->
+
+7 E. (1) The Board may appoint committees to assist it
+
+<!-- marginal: appoint -->
+
+in relation to the selection and recruitment of officers,
+
+<!-- marginal: committees. -->
+
+disciplinary matters, financial and audit matters and such other matters arising out of or connected with the operation of the Authority.
 
 (2) Committees appointed under subsection (1) shall regulate their own procedure.
 
@@ -276,11 +366,39 @@ Expen- 10A. The Fund shall be expended for the purposes o f- diture to be charge
 
 (e) generally, paying any expenses for carrying into effect the provisions of this Act.
 
-Deposit of 10B. The Authority may, with the approval of the Minister the Fund. and the concurrence of the Minister of Finance, place the moneys of the Fund on deposit with such financial institution as may be approved by the Minister.
+<!-- marginal: Deposit of -->
 
-Balancing l0c. It shall be the duty of the Board to perform its revenue of functions and exercise its powers under this Act so as to the Fund. secure that the total revenues of the Authority are, subject to any directions given by the Minister under section 5, sufficient to meet all sums properly chargeable to its revenue account including depreciation and interest on capital taking one year with another.
+10B. The Authority may, with the approval of the Minister
 
-Expenditure 10D. (1) Before the beginning of September of each year and the Board shall submit to the Minister an estimate of the preparation of estimates. expenditure (including expenditure for development projects) for the following year in such form and containing such particulars as the Minister may direct; and the Minister shall, before the beginning of the following year, notify the Authority of the amount authorised for expenditure generally or of the amount authorised for each description of expenditure.
+<!-- marginal: the Fund. -->
+
+and the concurrence of the Minister of Finance, place the moneys of the Fund on deposit with such financial institution as may be approved by the Minister.
+
+<!-- marginal: Balancing -->
+
+l0c. It shall be the duty of the Board to perform its
+
+<!-- marginal: revenue of -->
+
+functions and exercise its powers under this Act so as to
+
+<!-- marginal: the Fund. -->
+
+secure that the total revenues of the Authority are, subject to any directions given by the Minister under section 5, sufficient to meet all sums properly chargeable to its revenue account including depreciation and interest on capital taking one year with another.
+
+<!-- marginal: Expenditure -->
+
+10D. (1) Before the beginning of September of each year
+
+<!-- marginal: and -->
+
+the Board shall submit to the Minister an estimate of the
+
+<!-- marginal: preparation -->
+
+<!-- marginal: of estimates. -->
+
+expenditure (including expenditure for development projects) for the following year in such form and containing such particulars as the Minister may direct; and the Minister shall, before the beginning of the following year, notify the Authority of the amount authorised for expenditure generally or of the amount authorised for each description of expenditure.
 
 (2) The Board may at any time submit to the Minister a supplementary estimate for any one year and the Minister may allow the whole or any part of the additional expenditure.".
 

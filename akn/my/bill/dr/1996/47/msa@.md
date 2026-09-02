@@ -44,13 +44,17 @@ dalam Akta ini, adalah dipinda dalam seksyen 2—
 
 <!-- page 2 -->
 
-2 Rang Undang-Undang
+<!-- marginal: 2 -->
+
+Rang Undang-Undang
 
 (d) dalam takrif "senior immigration officer" dengan menggantikan perkataan "section 3 of or above the rank of Deputy Assistant Director of Immigration" dengan perkataan "section 3(1) and (1A)".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Seksyen 3 Akta ibu adalah dipinda— seksyen 3.
+3. Seksyen 3 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 3. -->
 
 (a) dengan menggantikan subseksyen (1) dengan subseksyen yang berikut:
 
@@ -138,7 +142,9 @@ memasukkan selepas perkataan "an Entry Permit" perkataan "on such terms and cond
 
 (B) dengan menggantikan noktah dengan perkataan "; and"; dan
 
-(vi) dengan memasukkan selepas subperenggan (vi) subperenggan yang berikut:
+(vi) dengan memasukkan selepas subperenggan
+
+(vi) subperenggan yang berikut:
 
 "(vii) furnish to an immigration officer in triplicate a general declaration in accordance with Appendix 1 to the Convention on Facilitation of International Maritime Traffic 1965."; dan
 
@@ -152,9 +158,11 @@ memasukkan selepas perkataan "an Entry Permit" perkataan "on such terms and cond
 
 (iv) dalam perenggan (f) dengan memasukkan selepas perkataan "report" perkataan "to an immigration officer".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-9. Subseksyen 24(1) Akta ibu adalah dipinda— seksyen 24.
+9. Subseksyen 24(1) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 24. -->
 
 (a) dengan memotong perkataan ", if required by an immigration officer to do so,"; dan
 
@@ -170,7 +178,19 @@ Pindaan
 
 36 dengan seksyen yang berikut:
 
-"Unlawful 36. Any person who, having been lawfully return removed or otherwise sent out of Malaysia, after removal. unlawfully enters Malaysia or unlawfully resides in Malaysia shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding five years or to both and shall also be liable to whipping of not more than six strokes, and shall, in addition to any penalty for the offence, be removed or again remtwed, as the case may be, from Malaysia.".
+<!-- marginal: "Unlawful -->
+
+36. Any person who, having been lawfully
+
+<!-- marginal: return -->
+
+removed or otherwise sent out of Malaysia,
+
+<!-- marginal: after -->
+
+<!-- marginal: removal. -->
+
+unlawfully enters Malaysia or unlawfully resides in Malaysia shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding five years or to both and shall also be liable to whipping of not more than six strokes, and shall, in addition to any penalty for the offence, be removed or again remtwed, as the case may be, from Malaysia.".
 
 <!-- marginal: Pindaan -->
 
@@ -200,15 +220,21 @@ Provided that no such master, captain, owner, charterer or agent shall be liable
 
 "(3) The Director General may exempt in writing the master, captain, owner, charterer or agent of any vessel or aircraft, as the case may be, from the obligations under subsection (1).".
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
 13. Akta ibu adalah dipinda dengan memasukkan selepas
 
 48A. seksyen 48 seksyen yang berikut:
 
-*'. . I •!• Liability
+<!-- marginal: *'. . I •!• -->
 
-48A. (1) A person— for removal.
+<!-- marginal: Liability -->
+
+48A. (1) A person—
+
+<!-- marginal: for -->
+
+<!-- marginal: removal. -->
 
 (a) who is involved, directly or indirectly, in conveying to Malaysia in or on any vehicle, vessel or aircraft any person contrary to this Act;
 
@@ -260,11 +286,39 @@ as a debt due to the Government from the persons named in subsection (1).".
 
 <!-- page 8 -->
 
-16. Akta ibu adalah dipinda dengan memasukkan selepas baru 55A, seksyen 55 seksyen yang berikut: 55B, 55c dan
+<!-- marginal: Seksyen -->
 
-55D. "Conveying
+16. Akta ibu adalah dipinda dengan memasukkan selepas
 
-55A. (1) Any person involved, directly or a person indirectly, in conveying to Malaysia in or on to Malaysia any vehicle, vessel or aircraft any person contrary contrary to to this Act shall be guilty of an offence and this Act. shall, on conviction, be liable to a fine of not less than ten thousand ringgit but not more than fifty thousand ringgit and to imprisonment for a term of not less than two years but not more than five years and shall also be liable to whipping of not more than six strokes.
+<!-- marginal: baru 55A, -->
+
+seksyen 55 seksyen yang berikut:
+
+<!-- marginal: 55B, 55c dan -->
+
+55D.
+
+<!-- marginal: "Conveying -->
+
+55A. (1) Any person involved, directly or
+
+<!-- marginal: a person -->
+
+indirectly, in conveying to Malaysia in or on
+
+<!-- marginal: to -->
+
+<!-- marginal: Malaysia -->
+
+any vehicle, vessel or aircraft any person contrary
+
+<!-- marginal: contrary to -->
+
+to this Act shall be guilty of an offence and
+
+<!-- marginal: this Act. -->
+
+shall, on conviction, be liable to a fine of not less than ten thousand ringgit but not more than fifty thousand ringgit and to imprisonment for a term of not less than two years but not more than five years and shall also be liable to whipping of not more than six strokes.
 
 (2) Where the offence under subsection (1) has been committed by a body corporate, the body corporate shall be guilty of that offence and shall, on conviction, be liable to a fine of not less than thirty thousand ringgit but not more than one hundred thousand ringgit.
 
@@ -280,7 +334,27 @@ as a debt due to the Government from the persons named in subsection (1).".
 
 but not more than one hundred thousand ringgit and to imprisonment for a term of not less than two years but not more than ten years and shall also be punished with whipping of not more than six strokes.
 
-Employing a 55B. (1) Any person who employs one or more person who persons, other than a citizen or a holder of an is not in possession Entry Permit, who is not in possession of a of a valid valid Pass shall be guilty of an offence and Pass. shall, on conviction, be liable to a fine of not less than ten thousand ringgit but not more than fifty thousand ringgit for each such employee.
+<!-- marginal: Employing a -->
+
+55B. (1) Any person who employs one or more
+
+<!-- marginal: person who -->
+
+persons, other than a citizen or a holder of an
+
+<!-- marginal: is not in -->
+
+<!-- marginal: possession -->
+
+Entry Permit, who is not in possession of a
+
+<!-- marginal: of a valid -->
+
+valid Pass shall be guilty of an offence and
+
+<!-- marginal: Pass. -->
+
+shall, on conviction, be liable to a fine of not less than ten thousand ringgit but not more than fifty thousand ringgit for each such employee.
 
 (2) A Pass lawfully issued to any person shall cease to be a valid Pass when any of its terms and conditions is contravened.
 
@@ -292,7 +366,9 @@ Employing a 55B. (1) Any person who employs one or more person who persons, othe
 
 <!-- page 10 -->
 
-Defence, 55c. It shall be a defence for any person prosecuted pursuant to subsection 55A(3) or 55s(5) if he proves—
+<!-- marginal: Defence, -->
+
+55c. It shall be a defence for any person prosecuted pursuant to subsection 55A(3) or 55s(5) if he proves—
 
 (a) that the offence was committed without his knowledge or connivance; or
 
@@ -304,19 +380,41 @@ Defence, 55c. It shall be a defence for any person prosecuted pursuant to subsec
 
 to prevent the commission of the offence as he ought to have taken and exercised having regard to the nature of his functions in that capacity and to a ll the circumstances.
 
-Forgery or 55o. Any person who makes, forges or alters alteration of an endorsement or a document to be used as a endorsement or visa, Permit, Pass or Certificate under this Act document. shall be guilty of an offence against this Act and shall, on conviction, be liable to a fine of not less than thirty thousand ringgit but not more than one hundred thousand ringgit and to imprisonment for a term of not less than five years but not more than ten years and shall also be punished with whipping of not more than six strokes.".
+<!-- marginal: Forgery or -->
 
-Pindaan
+55o. Any person who makes, forges or alters
 
-17. Subseksyen 56(1) Akta ibu adalah dipinda— seksyen 56.
+<!-- marginal: alteration of -->
+
+an endorsement or a document to be used as a
+
+<!-- marginal: endorsement -->
+
+<!-- marginal: or -->
+
+visa, Permit, Pass or Certificate under this Act
+
+<!-- marginal: document. -->
+
+shall be guilty of an offence against this Act and shall, on conviction, be liable to a fine of not less than thirty thousand ringgit but not more than one hundred thousand ringgit and to imprisonment for a term of not less than five years but not more than ten years and shall also be punished with whipping of not more than six strokes.".
+
+<!-- marginal: Pindaan -->
+
+17. Subseksyen 56(1) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 56. -->
 
 (a) dalam perenggan (d) dengan memotong perkataan "knowingly"; dan
 
 (b) dengan memotong perkataan "or Re-entry" di mana-mana jua terdapat dalamnya.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-18. Seksyen 59 Akta ibu adalah dipinda dengan seksyen 59. memasukkan selepas perkataan "General" perkataan ", or in the case of an East Malaysian State, the State Authority,".
+18. Seksyen 59 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 59. -->
+
+memasukkan selepas perkataan "General" perkataan ", or in the case of an East Malaysian State, the State Authority,".
 
 <!-- page 11 -->
 
@@ -330,7 +428,21 @@ Imigresen (Pindaan) 11
 
 seksyen 59A dengan seksyen yang berikut:
 
-Exclusion 59A. (1) There shall be no judicial review in of any court of any act done or any decision made judicial by the Minister or the Director General, or in review. the case of an East Malaysian State, the State Authority, under this Act except in regard to any question relating to compliance with any procedural requirement of this Act or the regulations governing that act or decision.
+<!-- marginal: Exclusion -->
+
+59A. (1) There shall be no judicial review in
+
+<!-- marginal: of -->
+
+any court of any act done or any decision made
+
+<!-- marginal: judicial -->
+
+by the Minister or the Director General, or in
+
+<!-- marginal: review. -->
+
+the case of an East Malaysian State, the State Authority, under this Act except in regard to any question relating to compliance with any procedural requirement of this Act or the regulations governing that act or decision.
 
 (2) In this section, "judicial review" includes proceedings instituted by way of—
 
@@ -350,7 +462,9 @@ Exclusion 59A. (1) There shall be no judicial review in of any court of any act 
 
 seksyen 59s seksyen yang berikut:
 
-Reward. 59c. The Director General may order such reward as he thinks fit to be paid to any person for any service rendered in connection with the detection and prosecution of an offence under this Act.".
+<!-- marginal: Reward. -->
+
+59c. The Director General may order such reward as he thinks fit to be paid to any person for any service rendered in connection with the detection and prosecution of an offence under this Act.".
 
 <!-- marginal: Pindaan -->
 
@@ -358,21 +472,23 @@ Reward. 59c. The Director General may order such reward as he thinks fit to be p
 
 <!-- marginal: seksyen 65. -->
 
-memotong perkataan "exercise any discretion vested in him to".
+memotong perkataan "exercise any discretion vested in
+
+<!-- marginal: him to". -->
 
 <!-- page 12 -->
 
 12 Rang Undang-Undang
 
-### Kecualian
+<!-- marginal: Kecualian -->
 
 22. Apa-apa siasatan atau prosiding yang telah dimulakan
 
-### dan
+<!-- marginal: dan -->
 
 atau yang belum selesai sebelum atau pada mula
 
-### peralihan.
+<!-- marginal: peralihan. -->
 
 berkuatkuasanya Akta ini hendaklah diteruskan atau diputuskan dalam segala hal seolah-olah Akta ini tidak pernah diluluskan dan mana-mana perintah, keputusan, atau Permit Masuk Semula yang dikeluarkan, dibuat atau diberikan dan apa-apa perbuatan yang dilakukan dengan sah menurut undang-undang di bawah atau menurut kuasa peruntukan yang dimansuhkan hendaklah terus dan tetap berkuatkuasa dan mempunyai kesan sehingga dipinda, dimansuhkan, dihapuskan, dibatalkan atau digantikan di bawah atau menurut kuasa Akta ini.
 

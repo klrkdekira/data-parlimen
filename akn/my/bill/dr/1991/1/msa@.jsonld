@@ -1,0 +1,773 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-1-1991",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_28"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Telekomunikasi (Pindaan) 1991"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Telekomunikasi"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(Pindaan) 1991."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 22 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan \"twenty-five\" dengan perkataan- perkataan \"five thousand\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 23 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan-perkataan \"two hundred\" dengan perkataan-perkataan \"ten thousand\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_12__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_12__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_12__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 25 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"or\" selepas perkataan \"message;\" dalam perenggan (b);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong koma dalam perenggan (c) dan memasukkan, selepas sahaja perkataan \"mischief, perkataan-perkataan \"; or\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_12__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas sahaja perenggan (c), perenggan baru (d) berikut: \"(d) to transmit or allow to be transmitted by telecommunication any message without paying the prescribed charge,\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_12__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan-perkataan \"two thousand\" dengan perkataan-perkataan \"twenty thousand\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 26 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan-perkataan \"three hundred\" dengan perkataan-perkataan \"ten thousand\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 27 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan-perkataan \"three hundred\" dengan perkataan-perkataan \"ten thousand\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 28 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan \"fifty\" dengan perkataan- perkataan \"five thousand\"; dan dengan menggantikan perkataan \"three\" dengan perkataan \"six\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 29 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan-perkataan \"three hundred\" dengan perkataan-perkataan \"ten thousand\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 30 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan-perkataan \"two hundred\" dengan perkataan-perkataan \"ten thousand\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 31 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan-perkataan \"five hundred\" dengan perkataan-perkataan \"ten thousand\"; dan dengan menggantikan perkataan-perkataan \"three months\" dengan perkataan-perkataan \"one year\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan, selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sahaja seksyen 31, seksyen baru 3lA dan 31B berikut: \"Search by 3lA. If a Magistrate is satisfied by information warrant. on oath that there is reasonable cause to believe that a telecommunication has been establised, maintained or worked otherwise than as permitted under section 3 or that any other offence under this Part has been committed, he may grant a search warrant to an authorized telecommunication officer to enter and inspect the premises in respect of which there is reasonable cause to believe that the offence has been committed, and to seize any apparatus or equipment used for or in connection with telecommunication which appears to him to be used or intended to be used for the commission of the offence, and may detain any person, found in such premises until such premises have been searched. Search 31B. Whenever it appears to an authorized without telecommunication officer that warrant. reasonable cause to believe that in any premises there is concealed or deposited any apparatus or equipment used or intended to be used to establish, maintain or work a telecommunication in contravention of section 3 or to commit an offence under this Part, and the authorized telecommunication officer has reasonable grounds for believing that by reason of delay in obtaining a search warrant under section 31A any such apparatus or equipment is likely to be removed or destroyed, the authorized telecommunication officer may enter and search such premises without a warrant and seize any such apparatus or equipment found therein and may detain any person found in such premises.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_2__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_2__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 2 Akta Telekomunikasi 1950, yang disebut"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "\"Akta ibu\" dalam Akta ini, adalah dipinda —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memotong seksyen"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "33A."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 35 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan subseksyen (1) dengan subseksyen (1) baru berikut: '(1) In this Part— \"local aircraft\" means any aircraft registered in Malaysia; \"local vessel\" means any ship registered in a port of Malaysia, or any vessel licensed to be used in the tidal waters of Malaysia, or any unlicensed vessel habitually kept in Malaysia or the territorial waters thereof; \"radio broadcast receiver\" has the same meaning as is assigned to it under the Act 338. Broadcasting Act 1988; \"radiocommunication\" means any communication by means of radio or Hertzian waves; \"radiocommunication apparatus\" means any apparatus or any component part thereof capable of being used or being adapted for the transmission or reception of radio or Hertzian waves; \"radiocommunication propagation path\" means the path in the atmosphere for point-to- point radiocommunication system; \"radio or Hertzian waves\" means electromagnetic waves having frequencies lower than 3,000 Ghz propagated in space without artificial guide; \"television broadcast receiver\" has the same meaning as is assigned to it under the Broadcasting Act 1988; \"vehicle\" means any vehicle whether mechanically propelled or not.'."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_22__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_22__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 38 Akta ibu adalah dipinda —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_22__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah di akhir subseksyen (1) dengan noktah bertindih; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_22__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, dibawah subseksyen (1), proviso baru kepada subseksyen itu yang berikut: \"Provided that any person licensed under 338. Part IV of the Broadcasting Act 1988 to install, work or deal in radio broadcast receiver or television broadcast receiver or any person exempted under section 15 of that Act shall not be required to obtain a licence under section 37 to install, work or deal in such radio broadcast receiver or television broadcast receiver.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan, selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sahaja seksyen 38, seksyen baru 38A berikut: \"Exemption. 38A. The Minister may exempt, subject to such conditions as he may impose, any person from the operation of section 38 if such person has been issued a licence for the installation or working of any radiocommunication apparatus under the provisions of any law in force in any country which is a party to a treaty to which Malaysia is also a party and which recognizes licences issued under any law in force in Malaysia for the installation or working of any radiocommunication apparatus.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_24__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_24__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 39 Akta ibu adalah dipinda —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_24__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"three\" dalarn subseksyen (1) dengan perkataan-perkataan \"one hundred\"; dan dengan menggantikan perkataan-perkataan \"twelve months\" dengan perkataan-perkataan \"three years\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas perkataan- perkataan \"police officer\" dalam subseksyen (2), perkataan-perkataan \"or authorized telecommunication officer\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_24__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas perkataan- perkataan \"A police officer\" dalam subseksyen (3), perkataan-perkataan \"or an authorized telecommunication officer\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan,"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "selepas sahaja seksyen 39, seksyen baru 39A berikut: 39A. Whenever it appears to an authorized telecommunication officer that there is reasonable cause to believe that in any premises there is established a radiocommunication station without a valid licence or there is installed or worked any radiocommunication apparatus or equipment or there is concealed or deposited any radiocommunication apparatus or equipment used or intended to be used to establish, install, maintain or work a radiocommunication in contravention of this Part, and the authorized telecommunication officer has reasonable ground for believing that by reason of delay in obtaining a search warrant under section 39(2) any such station, apparatus or equipment is likely to be removed or destroyed, the authorized telecommunication officer may enter and search such premises without a warrant and seize any such apparatus or equipment found therein and may detain any person found in such premises.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_26__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_26__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_26__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_26__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_26__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_26__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen (1) seksyen 40 Akta ibu adalah di-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_26__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas sahaja perkataan \"the\" dalam perenggan (d), perkataan \"standards,\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_26__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan-perkataan \", British\" dalam perenggan (f);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_26__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan-perkataan \", British\" dalam perenggan (g);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_26__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas sahaja perenggan (g), perenggan baru (ga) dan (gb) berikut: \"(ga) prohibiting or regulating the usage of frequencies in the frequency bands specified under this Part to be used by radiocommunication apparatus in any place in Malaysia including on board any vessel, whether local or foreign, in the territorial waters of Malaysia; (gb) prohibiting or regulating the usage of frequencies in the frequency bands specified under this Part to be used by radiocommunication apparatus on any aircraft, whether local or foreign, in or over Malaysia or the territorial waters thereof;\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_26__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas sahaja perkataan \"operators\" dalam perenggan (h), perkataan- perkataan \"and the payment of fees therefor\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_26__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas sahaja perenggan (j), perenggan baru (ja) berikut: \"(ja) ensuring that any radiocommunication propagation path is not obstructed, and prescribing, in consultation with the appropriate Ministers, the removal of such obstruction;\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan.selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sahaja seksyen 43, Bahagian baru VI berikut: \"PART VI ENFORCEMENT 44. Where it appears to any authorized telecommunication officer that it is not practicable to remove from where it is found any apparatus or equipment seized by him in the exercise of his powers under this Act, by reason of its nature, size or amount, he may by any means seal such apparatus or equipment and it shall be an offence for any person without lawful authority to break, tamper with or damage such seal or remove such apparatus or equipment or to attempt so to do and such person shall, on conviction, be liable to a fine not exceeding three thousand ringgit or to imprisonment for a term not exceeding one year or to both. 45. Any person who assaults, hinders, impedes, obstructs, or refuses access to any premises to, any authorized telecommunication officer in the performance of his duties under this Act or any regulation made thereunder shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding three thousand ringgit or to imprisonment for a term not exceeding one year or to both. 46. (1) Subject to this section, any authorized telecommunication officer shall have the power to investigate the commission of any offence under this Act or any regulation made thereunder. (2) No authorized telecommunication officer shall enter any premises or effect any arrest or detention of any person without a warrant except in accordance with this Act. (3) Where an authorized telecommunication officer detains or arrests any person without a warrant in accordance with this Act, he shall without unneccessary delay take or send the person detained or arrested before a Magistrate' s Court. (4) No authorized telecommunication officer shall detain in custody a person arrested without a warrant for a longer period than under the circumstances of the case is reasonable; and such period shall not exceed twenty-four hours exclusive of the time necessary for the journey from the place of arrest to the Magistrate's Court. (5) No person who has been arrested by an authorized telecommunication officer shall be released except on his own bond or on bail or under a special order in writing by a Magistrate. 47. (1) An authorized telecommunication officer carrying out an investigation under section 46 may examine orally any person supposed to be acquainted with the facts and circumstances of the case. (2) Such person shall be bound to answer all questions relating to the case put to him by such officer: Provided that such person may refuse to answer any question if such officer fails or refuses on demand to produce to him the certificate of authorization issued by the Director General to the officer and that such person may refuse to answer any question the answer to which would have a tendency to expose him to a criminal charge, penalty or forfeiture. (3) A person making a statement under this section shall be legally bound to state the truth whether or not such statement is made wholly or partly in answer to questions. (4) An authorized telecommunication officer examining a person under subsection (1) shall inform that person of the provisions of subsections (2) and (3). (5) A statement made by any person under this section shall, whenever possible, be reduced into writing and, after it has been read to the person in the language in which he made it and he has been given an opportunity to make any corrections he may wish, shall be signed by him or affixed with his thumbprint. 48. Any person who— (a) subject to the proviso to section 47(2), refuses to give to any authorized tele- communication officer any information relating to an offence under this Act or any regulation made thereunder; or (b) knowingly gives false information, shall be guilty of an offence and, shall,on conviction, be liable to a fine not exceeding three thousand ringgit or to imprisonment for a term not exceeding one year or to both. 49. Every authorized telecommunication officer shall have the authority to appear in court and conduct any prosecution in respect of any offence against this Act or any regulation made thereunder. 50. (1) Any apparatus or equipment seized pursuant to this Act shall be liable to forfeiture. (2) An order for the forfeiture or for the release of any apparatus or equipment liable to forfeiture under the provisions of this section shall be made by the court before which the prosecution with regard thereto has been held and an order for the forfeiture of the apparatus or equipment shall be made if it is proved to the satisfaction of the court that an offence under this Act or any regulation made thereunder or any breach of the restrictions or conditions subject to which any licence has been granted has been committed and that the apparatus or equipment was used in the commission of the offence notwithstanding that no person may have been convicted of such offence or breach. (3) Where there is no prosecution with regard to any apparatus or equipment seized in the exercise of any power conferred under this Act, the same shall be taken or deemed to be forfeited at the expiration of one calendar month from the date it was seized unless a claim thereto is made before that date in the manner hereinafter set forth. (4) Any person asserting that he is the owner of any apparatus or equipment seized under this Act and that the same is not liable to forfeiture may personally or by his agent authorized in writing by him give written notice to the Director General or any authorized telecommunication officer of his claim. (5) On receipt of a notice under subsection (4), the Director General or any authorized telecommunication officer shall, after such enquiry as may be necessary, direct that the apparatus or equipment be released or forfeited or refer the matter to a First Class Magistrate for decision, (6) The Magistrate to whom the matter is referred shall issue a summons requiring the person asserting that he is the owner of the apparatus or equipment and the person from whom they were seized to appear before him and upon his appearance or default to appear, due service of the summons being proved, the Magistrate shall proceed to the examination of the matter and on proof that an offence under this Act has been committed and that such apparatus or equipment was the subject matter or was used in the commission of such offence, shall order the same to be forfeited or may, in the absence of such proof, order the release of the apparatus or equipment to the person entitled to it. (7) Any apparatus or equipment forfeited or deemed to be forfeited shall be delivered to the Director General or any authorized tele- communication officer who shall dispose of it in such manner as the Director General deems fit. Protection of 51. No action or prosecution shall be brought, authorised instituted or maintained in any court against any telecommu- mcation authorized telecommunication officer on offcers. account of or in respect of any act ordered or done for the purposes of carrying into effect this Act and no suit or prosecution shall lie in any court against any other person for or on account of or in respect of any act done or purporting to have been done by him under any order, direction or instruction of any authorized communication officer given for any such purpose as aforesaid: Provided that the act was done in good faith and in reasonable belief that it was necessary for the purpose intended to be served thereby.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan menggantikan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perkataan \"dollars\" di.mana-mana sahaja terdapat dengan perkataan \"ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_2__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_2__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_2__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_2__list_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_2__list_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_2__list_1__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_2__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_2__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, sebelum sahaja takrif \"Director General\", takrif berikut: ' \"authorized telecommunication officer\" means any telecommunication officer employed by the Government in connection with telecommunication and authorized by the Director General for the purposes of this Act either generally or in relation to any specific provision of this Act; \"conveyance\" includes vehicles, aircraft, ships and any other vessel;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_2__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_2__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas sahaja takrif \"post\", takrif berikut: ' \"premises\" includes any house, shop, cubicle, set, conveyance or any place whether with or without enclosure;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_2__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_2__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan takrif \"telecommuni- cation authority\" dengan takrif baru berikut: ' \"telecommunication authority\" means the Director General of Telecommunications, Malaysia, and includes any authorized telecommunication officer;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_2__list_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_2__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas sahaja takrif \"telecommunication engineer\", takrif berikut: ' \"telecommunication equipment\" means any equipment used for the purpose of telecommunication;'; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_2__list_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_2__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan takrif \"telecommuni- cation officer\" dengan takrif baru berikut: ' \"telecommunication officer\" means any person employed, either permanently or temporarily, by—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_2__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_2__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_2__list_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_2__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "the Government in connection with telecommunication; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_2__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "any person licensed under this Act to establish, maintain or work a tele- communication;'."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 3 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memasukkan, selepas sahaja perkataan-perkataan \"Land Authority\" dalam subseksyen (3), perkataan-perkataan \"to be obtained by the licensee\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 3B Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memasukkan, selepas sahaja perkataan-perkataan \"geostationary-satellite orbit\" dalam perenggan (c) subseksyen (1), perkataan-perkataan \", satellites in that orbit and the services utilizing it\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan, selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sahaja seksyen 3B, seksyen baru 3c berikut: \"Director 3c. (1) The Director General may, in writing, General delegate to any authorized telecommunication may delegate. officer, subject to such conditions and restrictions as the Director General may impose, the performance of any duty or function imposed or conferred on him under this Act: Provided that any delegation under this section shall not prevent the Director General from himself performing that duty or function in any case where it appears to him expedient to do so. (2) Any authorized telecommunication officer performing any of the duties or functions delegated to him under subsection (1) shall have regard to the matters specified in section 3B (2).\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 7 Akta ibu adalah dipinda —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memasukkan, selepas sahaja perkataan \"control\", perkataan- perkataan \", sale, installation and maintenance\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_6__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_6__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen 2 (a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_6__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_6__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas sahaja perenggan (iv), perenggan baru (v) dan (vi) berikut: \"(v) the licensing of dealers in, and the sale or transfer of, telecommuni- cation apparatus or equipment; (vi) the minimum qualification required of persons to be licensed for the purposes of, or in connection with, the installation or maintenance of any telecommunication apparatus or equipment;\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_6__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_6__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula perenggan (v) dan (vi) yang ada sekarang masing- masingnya sebagai perenggan (vii) dan (viii)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Bahagian III Akta ibu, kecuali seksyen 10 (1) dan 18,"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bahagian III. adalah dipinda dengan memasukkan, selepas sahaja perkataan \"line\" atau \"lines\" di mana-mana sahaja terdapat, perkataan \", equipment\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 10 (1) Akta ibu adalah dipinda —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas sahaja perkataan \" line\", perkataan-perkataan \"or equipment\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas sahaja perkataan- perkataan \"across, and\", perkataan-perkataan \"telecommunication equipment or\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 21 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan-perkataan \"five hundred\" di baris enam dengan perkataan-perkataan \"one hundred thousand\"; dan dengan menggantikan perkataan- perkataan \"five hundred\" di baris tujuh dengan perkataan- perkataan \"ten thousand\"."
+      }
+    }
+  ]
+}

@@ -50,15 +50,23 @@ amended—
 
 (g) true copies of any documentary evidence that he has passed or is exempted from the Bahasa Malaysia Qualifying Examination.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Section 67 of the principal Act is amended by of section 67. substituting for subsection (2) the following new subsection (2):
+4. Section 67 of the principal Act is amended by
+
+<!-- marginal: of section 67. -->
+
+substituting for subsection (2) the following new subsection (2):
 
 "(2) Any general meeting, whether convened on the requisition of members pursuant to section 65 (2) or convened pursuant to section 65 (4). shall be dissolved if a quorum is not present within half an hour from the time appointed for holding the meeting.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-5. Section 68 of the principal Act is amended by of section 68. inserting, immediately after subsection (3), the following new subsections (4), (5) and (6):
+5. Section 68 of the principal Act is amended by
+
+<!-- marginal: of section 68. -->
+
+inserting, immediately after subsection (3), the following new subsections (4), (5) and (6):
 
 "(4) Members practising in the Federal Territory of Kuala Lumpur shall be entitled to establish a separate bar for the Federal Territory of Kuala Lumpur to be known as the Kuala Lumpur Bar. The decision to have a separate bar shall be made by a majority vote of the members present at a general meeting called for this purpose.
 
@@ -94,15 +102,43 @@ substituting for subsection (6) the following new subsection (6): "(6) Any gener
 
 <!-- page 4 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-8. Section 71 of the principal Act is amended by of section 71. inserting, immediately after subsection (5), the following new subsection (6):
+8. Section 71 of the principal Act is amended by
+
+<!-- marginal: of section 71. -->
+
+inserting, immediately after subsection (5), the following new subsection (6):
 
 "(6) Where severance takes place pursuant to the provisions of this section, the assets of the former combined Bar shall be apportioned as provided in subsection (6) of section 68 mutatis mutandis".
 
-New
+<!-- marginal: New -->
 
-9. The principal Act is amended by inserting, section 7 8A. immediately after section 78, the following new section 78A: "Power to 78A. (1) The Bar Council may, with the make approval of the Attorney General, make rules rules on professional concerning the taking out of professional indemnity. indemnity for advocates and solicitors against any class of professional liability and the rules may for the purpose of providing such indemnity do all or any of the following:
+9. The principal Act is amended by inserting,
+
+<!-- marginal: section 7 8A. -->
+
+immediately after section 78, the following new section
+
+<!-- marginal: 78A: -->
+
+<!-- marginal: "Power to -->
+
+78A. (1) The Bar Council may, with the
+
+<!-- marginal: make -->
+
+approval of the Attorney General, make rules
+
+<!-- marginal: rules on -->
+
+<!-- marginal: professional -->
+
+concerning the taking out of professional
+
+<!-- marginal: indemnity. -->
+
+indemnity for advocates and solicitors against any class of professional liability and the rules may for the purpose of providing such indemnity do all or any of the following:
 
 (a) authorise the Bar Council to take out and maintain insurance in the name of the Malaysian Bar with any person permitted by law to carry on professional liability insurance business or pecuniary loss insurance business and covering every practising advocate and solicitor;
 
@@ -126,11 +162,7 @@ established under subsection (1) and require advocates and solicitors to make pa
 
 (e) authorise the Bar Council to determine the amount of any payment required by the rules;
 
-(f) specify the circumstances in which where an advocate and solicitor has failed to comply w i th the
-
-<!-- marginal: rules, -->
-
-proceedings in respect of any sum paid by way of indemnity may be taken against him by the Malaysian Bar or its insurers;
+(f) specify the circumstances in which where an advocate and solicitor has failed to comply w i th the rules, proceedings in respect of any sum paid by way of indemnity may be taken against him by the Malaysian Bar or its insurers;
 
 (g) prescribe that an advocate and solicitor shall not be entitled to a Sijil Annual unless he is insured as required by the rules for the period to which the Sijil Annual relates;
 
@@ -146,17 +178,41 @@ under this section, to insure himself further against loss arising from such cla
 
 (4) Any rules made under this section shall not come into operation until they have been published in the Gazette.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-10. Section 88A of the principal Act is amended— of section 88A.
+10. Section 88A of the principal Act is amended—
 
-(a) by inserting, immediately after the words "Bar Council considers that it would be" in subsection (1), the words "in the public interest or"; and
+<!-- marginal: of section 88A. -->
+
+(a) by inserting, immediately after the words "Bar Council considers that it would be" in subsection
+
+(1), the words "in the public interest or"; and
 
 (b) by substituting for the words "Inquiry Committee" in subsection (7) the words "Disciplinary Board".
 
-Amendment
+<!-- marginal: Amendment -->
 
-11. The principal Act is amended by substituting for of sections 93 sections 93, 94, 95, 96, 97, 98, 99, 100, 101, 102 and 103 to 103. the following new sections 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 103A, 103B, 103c, 103D, 103E, 103F and 103G : "Discipli- 93. (1) For the purposes of disciplinary nary proceedings under this Part, there shall be Board. established a Disciplinary Board.
+11. The principal Act is amended by substituting for
+
+<!-- marginal: of sections 93 -->
+
+sections 93, 94, 95, 96, 97, 98, 99, 100, 101, 102 and 103
+
+<!-- marginal: to 103. -->
+
+the following new sections 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 103A, 103B, 103c, 103D, 103E, 103F and 103G :
+
+<!-- marginal: "Discipli- -->
+
+93. (1) For the purposes of disciplinary
+
+<!-- marginal: nary -->
+
+proceedings under this Part, there shall be
+
+<!-- marginal: Board. -->
+
+established a Disciplinary Board.
 
 (2) The Disciplinary Board shall have the same powers as those exercised by the Bar Council before the coming into force of this Part.
 
@@ -166,11 +222,7 @@ Amendment
 
 <!-- page 7 -->
 
-be made by the Chief Justice
-
-<!-- marginal: in -->
-
-consultation with the Lord President;
+be made by the Chief Justice in consultation with the Lord President;
 
 (b) the President of the Bar Council with the Vice-President as his alternate; and
 
@@ -186,7 +238,31 @@ Provided that the Chief Justice may extend their term for a period not exceeding
 
 (6) The Disciplinary Board may make rules relating to its quorum and to regulate its procedure.
 
-Power of 94. (1) All advocates and solicitors shall be Disciplinary subject for the purposes of all disciplinary Board to strike off actions to the control of the Disciplinary Board. the Roll. suspend for (2) Any advocate and solicitor who has been misconduct, etc. guilty of any misconduct shall be liable to be struck off the Roll or suspended from practice for any period not exceeding five years.
+<!-- marginal: Power of -->
+
+94. (1) All advocates and solicitors shall be
+
+<!-- marginal: Disciplinary -->
+
+subject for the purposes of all disciplinary
+
+<!-- marginal: Board to -->
+
+<!-- marginal: strike off -->
+
+actions to the control of the Disciplinary Board.
+
+<!-- marginal: the Roll. -->
+
+<!-- marginal: suspend for -->
+
+(2) Any advocate and solicitor who has been
+
+<!-- marginal: misconduct, -->
+
+<!-- marginal: etc. -->
+
+guilty of any misconduct shall be liable to be struck off the Roll or suspended from practice for any period not exceeding five years.
 
 (3) For the purposes of this Part, "misconduct" means conduct or omission to act in Malaysia or elsewhere by an advocate
 
@@ -202,7 +278,11 @@ and solicitor in a professional capacity or otherwise which amounts to grave imp
 
 (d) breach of any rule of practice and etiquette of the profession made by the Bar Council under this Act or otherwise;
 
-(e) being adjudicated a bankrupt and being found guilty of any of the acts or omissions mentioned in paragraph (a), (b), (c), (e), (f), (h), (k) or (I) of section Act 360 33 (6) of the Bankruptcy Act 1967;
+(e) being adjudicated a bankrupt and being found guilty of any of the acts or omissions mentioned in paragraph (a), (b), (c), (e), (f), (h), (k) or (I) of section
+
+<!-- marginal: Act 360 -->
+
+33 (6) of the Bankruptcy Act 1967;
 
 (f) the tendering or giving of any gratification to any person for having procured the employment in any legal business of himself or any other advocate and solicitor;
 
@@ -210,19 +290,11 @@ and solicitor in a professional capacity or otherwise which amounts to grave imp
 
 (h) accepting employment in any legal business through a tout;
 
-(i) allowing any unauthorised person to carry on legal business in his name without his direct and immediate control as principal or without
-
-<!-- marginal: proper -->
-
-supervision;
+(i) allowing any unauthorised person to carry on legal business in his name without his direct and immediate control as principal or without proper supervision;
 
 <!-- page 9 -->
 
-(j) the carrying on by himself, directly or indirectly, of any profession, trade, business or calling which
-
-<!-- marginal: is -->
-
-incompatible with the legal profession or being employed for reward or otherwise in any such profession, trade, business or calling;
+(j) the carrying on by himself, directly or indirectly, of any profession, trade, business or calling which is incompatible with the legal profession or being employed for reward or otherwise in any such profession, trade, business or calling;
 
 (k) the breach of any provision of this Act or of any rules made thereunder or any direction or ruling of the Bar Council;
 
@@ -252,23 +324,87 @@ and the Bar Council considers that it would be in the public interest or in the 
 
 (5) A pupil shall mutatis mutandis be subject to the same control by the Disciplinary Board as is by virtue of this section exercised over an advocate and solicitor but in lieu of an order striking him off the Roll or suspending him, an order may be made prohibiting the pupil from petitioning the Court for admission until after a date to be specified in the order.
 
-Disciplinary 95. For the purposes of disciplinary Committee proceedings under this Part, there shall be Panel and Investigating established a Disciplinary Committee Panel Tribunal with a Disciplinary Committee established Panel. under it and an Investigating Tribunal Panel with an Investigating Tribunal established under it.
+<!-- marginal: Disciplinary -->
 
-Appoint- 96. (1) The Disciplinary Board shall, from ment of time to time as may be required, appoint a Disciplinary Committee Disciplinary Committee Panel, from a list Panel. supplied by the Bar Council, comprising thirty members of whom twenty members shall be advocates and solicitors of not less than ten years' standing and having valid practising certificates and ten members who are lay persons.
+95. For the purposes of disciplinary
+
+<!-- marginal: Committee -->
+
+proceedings under this Part, there shall be
+
+<!-- marginal: Panel and -->
+
+<!-- marginal: Investigating -->
+
+established a Disciplinary Committee Panel
+
+<!-- marginal: Tribunal -->
+
+with a Disciplinary Committee established
+
+<!-- marginal: Panel. -->
+
+under it and an Investigating Tribunal Panel with an Investigating Tribunal established under it.
+
+<!-- marginal: Appoint- -->
+
+96. (1) The Disciplinary Board shall, from
+
+<!-- marginal: ment of -->
+
+time to time as may be required, appoint a
+
+<!-- marginal: Disciplinary -->
+
+<!-- marginal: Committee -->
+
+Disciplinary Committee Panel, from a list
+
+<!-- marginal: Panel. -->
+
+supplied by the Bar Council, comprising thirty members of whom twenty members shall be advocates and solicitors of not less than ten years' standing and having valid practising certificates and ten members who are lay persons.
 
 <!-- page 11 -->
 
 ## LEGAL PROFESSION (AMENDMENT)
 
-<!-- marginal: 1 1 -->
+1 1
 
 (2) Every member of the Disciplinary Committee Panel shall serve for two years: Provided that the Disciplinary Board may extend his term for a period not exceeding a further two years or reappoint him.
 
-Appointment 97. (1) The Disciplinary Board shall, from of time to time as may be required, appoint an Investigating Tribunal Investigating Tribunal Panel, from a list Panel. supplied by the Bar Council, comprising sixty members of whom forty members shall be advocates and solicitors of not less than seven years' standing and having valid practising certificates and twenty members who are lay persons.
+<!-- marginal: Appointment -->
+
+97. (1) The Disciplinary Board shall, from
+
+<!-- marginal: of -->
+
+time to time as may be required, appoint an
+
+<!-- marginal: Investigating -->
+
+<!-- marginal: Tribunal -->
+
+Investigating Tribunal Panel, from a list
+
+<!-- marginal: Panel. -->
+
+supplied by the Bar Council, comprising sixty members of whom forty members shall be advocates and solicitors of not less than seven years' standing and having valid practising certificates and twenty members who are lay persons.
 
 (2) Every member of the Investigating Tribunal Panel shall serve for a term of two years: Provided that the Disciplinary Board may extend his term for a period not exceeding a further two years or reappoint him.
 
-Director 98. (1) The Bar Council shall, from time to of the time as may be required, appoint an advocate Complaints Secretariat. and solicitor of not less then five years' standing to the office of the Director of the Complaints Secretariat.
+<!-- marginal: Director -->
+
+98. (1) The Bar Council shall, from time to
+
+<!-- marginal: of the -->
+
+time as may be required, appoint an advocate
+
+<!-- marginal: Complaints -->
+
+<!-- marginal: Secretariat. -->
+
+and solicitor of not less then five years' standing to the office of the Director of the Complaints Secretariat.
 
 (2) The Director shall serve as the Secretary to the Disciplinary Board, the Disciplinary Committee and the Investigating Tribunal.
 
@@ -276,7 +412,21 @@ Director 98. (1) The Bar Council shall, from time to of the time as may be requi
 
 (4) The Director shall be responsible for the daily administration of complaints against advocates and solicitors under this Part.
 
-Complaint 99. (1) Any complaint concerning the conduct against of any advocate and solicitor or of any pupil advocate and solicitor or shall be in writing and shall in the first place pupil.
+<!-- marginal: Complaint -->
+
+99. (1) Any complaint concerning the conduct
+
+<!-- marginal: against -->
+
+of any advocate and solicitor or of any pupil
+
+<!-- marginal: advocate and -->
+
+<!-- marginal: solicitor or -->
+
+shall be in writing and shall in the first place
+
+<!-- marginal: pupil. -->
 
 <!-- page 12 -->
 
@@ -286,9 +436,17 @@ be made or referred to the Disciplinary Board which shall deal with such complai
 
 (3) Nothing in this section shall be taken to preclude the Bar Council or a State Bar Committee from making any complaint of its own motion to the Disciplinary Board against an advocate and solicitor or a pupil.
 
-Invest-
+<!-- marginal: Invest- -->
 
-100. (1) Where a written application or igating complaint is referred to the Disciplinary Board, Tribunal. the Disciplinary Board shall forthwith constitute an Investigating Tribunal.
+100. (1) Where a written application or
+
+<!-- marginal: igating -->
+
+complaint is referred to the Disciplinary Board,
+
+<!-- marginal: Tribunal. -->
+
+the Disciplinary Board shall forthwith constitute an Investigating Tribunal.
 
 (2) An Investigating Tribunal to be appointed by the Disciplinary Board to inquire into the application or complaint shall consist of three members of whom shall be—
 
@@ -300,7 +458,13 @@ appointed from the Investigating Tribunal Panel.
 
 (3) The Disciplinary Board shall appoint a member from paragraph (a) of subsection (2) to be the chairman of the said Investigating Tribunal.
 
-Investi- 101. (1) An Investigating Tribunal shall, gation. within two weeks of its appointment, commence its investigation into the application or complaint and report its findings to the Disciplinary Board as expeditiously as may be reasonably expected of it but, in any event, not
+<!-- marginal: Investi- -->
+
+101. (1) An Investigating Tribunal shall,
+
+<!-- marginal: gation. -->
+
+within two weeks of its appointment, commence its investigation into the application or complaint and report its findings to the Disciplinary Board as expeditiously as may be reasonably expected of it but, in any event, not
 
 <!-- page 13 -->
 
@@ -330,9 +494,35 @@ declaration or affidavit that has been made in support of the application or com
 
 (b) the Investigating Tribunal shall allow the time specified in the notice to elapse and give the advocate and solicitor concerned reasonable opportunity to be heard if he so desires and shall give due consideration to any explanation he may make.
 
-Disciplinary 102. (1) The Investigating Tribunal shall Board's determine and recommend to the Disciplinary considera- tion of Board any one of the following report by recommendations: Investi- gating
+<!-- marginal: Disciplinary -->
 
-(a) t h at a formal investigation is not Tribunal. necessary;
+102. (1) The Investigating Tribunal shall
+
+<!-- marginal: Board's -->
+
+determine and recommend to the Disciplinary
+
+<!-- marginal: considera- -->
+
+<!-- marginal: tion of -->
+
+<!-- marginal: Board -->
+
+any one of the following
+
+<!-- marginal: report by -->
+
+recommendations:
+
+<!-- marginal: Investi- -->
+
+<!-- marginal: gating -->
+
+(a) t h at a formal investigation is not
+
+<!-- marginal: Tribunal. -->
+
+necessary;
 
 (b) that no cause of sufficient gravity exists for a formal investigation but that the advocate and solicitor should be ordered to pay a penalty; or
 
@@ -344,25 +534,53 @@ Disciplinary 102. (1) The Investigating Tribunal shall Board's determine and rec
 
 <!-- page 15 -->
 
-(b) that a formal investigation by a Disciplinary Committee
-
-<!-- marginal: is -->
-
-<!-- marginal: not -->
-
-necessary, the Disciplinary Board may, if it disagrees with the recommendation, appoint a Disciplinary Committee.
+(b) that a formal investigation by a Disciplinary Committee is not necessary, the Disciplinary Board may, if it disagrees with the recommendation, appoint a Disciplinary Committee.
 
 (3) The Disciplinary Board shall inform the advocate and solicitor and the person who made the application or complaint of the manner in which it has determined the application or complaint and in the event of the determination being that a formal investigation is unnecessary the Disciplinary Board shall on the request of the person furnish him with its reasons in writing.
 
-Disciplinary 103. (1) If the Disciplinary Board determines Board's that no cause of sufficient gravity exists for a power to order formal investigation to be made but that the penalty. advocate and solicitor should be ordered to pay a penalty it may order the advocate and solicitor to pay a penalty of not more than five thousand ringgit.
+<!-- marginal: Disciplinary -->
+
+103. (1) If the Disciplinary Board determines
+
+<!-- marginal: Board's -->
+
+that no cause of sufficient gravity exists for a
+
+<!-- marginal: power to -->
+
+<!-- marginal: order -->
+
+formal investigation to be made but that the
+
+<!-- marginal: penalty. -->
+
+advocate and solicitor should be ordered to pay a penalty it may order the advocate and solicitor to pay a penalty of not more than five thousand ringgit.
 
 (2) Before the Disciplinary Board makes an order for the payment of a penalty under this section it shall notify the advocate and solicitor concerned of its intention to do so and give him a reasonable opportunity to be heard.
 
-Application 103A. Where— to appoint a Disciplinary
+<!-- marginal: Application -->
 
-(a) the Disciplinary Board determines that Committee. there should be a formal investigation; or
+103A. Where—
 
-(b) an advocate and solicitor has been convicted of an offence of criminal breach of trust under section 409 of the F.M.S. Penal Code or any other offence Cap. 45. involving fraud or dishonesty; or
+<!-- marginal: to appoint a -->
+
+<!-- marginal: Disciplinary -->
+
+(a) the Disciplinary Board determines that
+
+<!-- marginal: Committee. -->
+
+there should be a formal investigation; or
+
+(b) an advocate and solicitor has been convicted of an offence of criminal breach of trust under section 409 of the
+
+<!-- marginal: F.M.S. -->
+
+Penal Code or any other offence
+
+<!-- marginal: Cap. 45. -->
+
+involving fraud or dishonesty; or
 
 (c) the advocate and solicitor has been suspended under section 94 (4) of this Part,
 
@@ -370,7 +588,13 @@ Application 103A. Where— to appoint a Disciplinary
 
 the Disciplinary Board shall forthwith appoint a Disciplinary Committee which shall hear and investigate the matter.
 
-Disciplinary 103B. (1) The Disciplinary Board shall Committee. appoint a Disciplinary Committee to consider, in cases where an Investigating Tribunal has been appointed, the report of the Investigating Tribunal, or to investigate and make recommendations to the Disciplinary Board in respect of cases under section 103A.
+<!-- marginal: Disciplinary -->
+
+103B. (1) The Disciplinary Board shall
+
+<!-- marginal: Committee. -->
+
+appoint a Disciplinary Committee to consider, in cases where an Investigating Tribunal has been appointed, the report of the Investigating Tribunal, or to investigate and make recommendations to the Disciplinary Board in respect of cases under section 103A.
 
 (2) A Disciplinary Committee shall consist of five members of whom shall be—
 
@@ -382,15 +606,21 @@ appointed from the Disciplinary Committee Panel.
 
 (3) The Disciplinary Board shall appoint a member from paragraph (a) of subsection (2) to be the chairman of the Disciplinary Committee.
 
-Findings of 103c. (1) After hearing and investigating any Disciplinary matter referred to it a Disciplinary Committee Committee. shall record its findings in relation to the facts of the case and according to those facts shall determine and make any one of the following recommendations to the Disciplinary Board:
+<!-- marginal: Findings of -->
+
+103c. (1) After hearing and investigating any
+
+<!-- marginal: Disciplinary -->
+
+matter referred to it a Disciplinary Committee
+
+<!-- marginal: Committee. -->
+
+shall record its findings in relation to the facts of the case and according to those facts shall determine and make any one of the following recommendations to the Disciplinary Board:
 
 (a) that no cause of sufficient gravity for disciplinary action exists;
 
-(b) that while no cause of sufficient gravity for disciplinary action exists
-
-<!-- marginal: the -->
-
-advocate and solicitor should be reprimanded; or
+(b) that while no cause of sufficient gravity for disciplinary action exists the advocate and solicitor should be reprimanded; or
 
 (c) that there is sufficient merit in the complaint and that the advocate and
 
@@ -402,19 +632,51 @@ solicitor should be subject to one of the following disciplinary actions: (i) im
 
 (iii) striking off the Roll of the advocate and solicitor concerned.
 
-Considera- 103D. (1) After consideration of the report of tion by the the Disciplinary Committee, the Disciplinary Displinary Board of the Board shall make an order— report of the Disciplinary
+<!-- marginal: Considera- -->
 
-(a) affirming the recommendations of the Committee. Disciplinary Committee; and
+103D. (1) After consideration of the report of
 
-(b) may either accept the recommendations of the Disciplinary Committee of the punishment to be imposed or,
+<!-- marginal: tion by the -->
 
-<!-- marginal: in -->
+the Disciplinary Committee, the Disciplinary
 
-exceptional cases, impose a greater punishment.
+<!-- marginal: Displinary -->
+
+<!-- marginal: Board of the -->
+
+Board shall make an order—
+
+<!-- marginal: report of the -->
+
+<!-- marginal: Disciplinary -->
+
+(a) affirming the recommendations of the
+
+<!-- marginal: Committee. -->
+
+Disciplinary Committee; and
+
+(b) may either accept the recommendations of the Disciplinary Committee of the punishment to be imposed or, in exceptional cases, impose a greater punishment.
 
 (2) Before the Disciplinary Board makes an order and imposes a punishment under this section which results in a greater punishment it shall notify the advocate and solicitor concerned of its intention to do so and give him a reasonable opportunity to be heard.
 
-Appeal from 103E. (1) Any party aggrieved by any decision the decision or order made by a Disciplinary Board shall of the Disciplinary have the right to appeal to the High Court Board. within one month of notification of the decision or order complained against.
+<!-- marginal: Appeal from -->
+
+103E. (1) Any party aggrieved by any decision
+
+<!-- marginal: the decision -->
+
+or order made by a Disciplinary Board shall
+
+<!-- marginal: of the -->
+
+<!-- marginal: Disciplinary -->
+
+have the right to appeal to the High Court
+
+<!-- marginal: Board. -->
+
+within one month of notification of the decision or order complained against.
 
 (2) The appeal shall be fixed for hearing before three Judges of the High Court.
 
@@ -432,15 +694,23 @@ Saving 103G. (1) The substitution of the provisions and relating to disciplinary
 
 (2) For the purpose of subsection (1) the provisions of the principal Act relating to disciplinary proceedings shall continue to remain in force.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-12. Section 108 of the principal Act is amended by of section substituting for the words ", the inquiry Committee and
+12. Section 108 of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+substituting for the words ", the inquiry Committee and
 
 108. the Disciplinary Committee" the words "and the costs of proceedings before the Investigating Tribunal and the Disciplinary Committee".
 
-Amendment
+<!-- marginal: Amendment -->
 
-13. Section 109 of the principal Act is amended by of section substituting for the words "the Disciplinary Committee,
+13. Section 109 of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+substituting for the words "the Disciplinary Committee,
 
 109. the State Bar Committee or the Inquiry Committee" the words "the Investigating Tribunal or the Disciplinary Committee".
 
@@ -526,9 +796,7 @@ Under section 102 the Disciplinary Board considers the report of the Investigati
 
 Section 103 provides for the Disciplinary Board's power to order the relevant penalty.
 
-Section 103A provides for the situation where the Disciplinary Board determines that a formal investigation has to be made in respect of the complaint against the advocate and solicitor. In such a case a Disciplinary Committee shall be appointed under section
-
-103B.
+Section 103A provides for the situation where the Disciplinary Board determines that a formal investigation has to be made in respect of the complaint against the advocate and solicitor. In such a case a Disciplinary Committee shall be appointed under section 103B.
 
 Section 103c spells out the role and powers of the Disciplinary Committee. It also provides for the various disciplinary actions that may be recommended to be taken in respect of the advocate and solicitor concerned.
 

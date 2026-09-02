@@ -14,27 +14,45 @@ Suatu Akta untuk meminda Akta Audit 1957. [ ]
 
 oleh Duli Yang Maha Mulia Seri Paduka BagindaYang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
 
-Tajuk ringkas
+<!-- marginal: Tajuk ringkas -->
 
-1. Akta ini bolehlah dinamakan Akta Audit (Pindaan) 1990 dan mula berkuatkuasa. dan hendoklah disifatkan telah mula berkuatkuasa pada 1hb Oktober 1988.
+1. Akta ini bolehlah dinamakan Akta Audit (Pindaan) 1990
 
-2. Akta Audit 1957, yang disebut "Akta ibu" dalam Akta ini, bam 11. adalah dipinda dengan memasukkan selepas sahaja seksyen Akta 62. 10, seksyen baru 11 yang berikut:
+<!-- marginal: dan mula -->
 
-"Kuasa
+<!-- marginal: berkuatkuasa. -->
 
-11. Yang di-Pertuan Agong boleh meminda untuk peruntukan-peruntukan Jadual melalui perintah yang meminda
+dan hendoklah disifatkan telah mula berkuatkuasa pada 1hb Oktober 1988.
+
+<!-- marginal: Seksyen -->
+
+2. Akta Audit 1957, yang disebut "Akta ibu" dalam Akta ini,
+
+<!-- marginal: bam 11. -->
+
+adalah dipinda dengan memasukkan selepas sahaja seksyen
+
+<!-- marginal: Akta 62. -->
+
+10, seksyen baru 11 yang berikut:
+
+"Kuasa 11. Yang di-Pertuan Agong boleh meminda untuk peruntukan-peruntukan Jadual melalui perintah yang meminda
 
 ## Jadual.
 
 disiarkan dalam Warta".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
 3. Jadual Pertama kepada Akta ibu adalah dipinda dengan
 
 ## Jadual
 
-menggantikan perkataan-perkataan "dua ratus sepuluh" dalam Pertama. perenggan 1 (1) dan (2) dengan perkataan-perkataan "tiga ratus dua puluh".
+menggantikan perkataan-perkataan "dua ratus sepuluh" dalam
+
+<!-- marginal: Pertama. -->
+
+perenggan 1 (1) dan (2) dengan perkataan-perkataan "tiga ratus dua puluh".
 
 <!-- page 2 -->
 

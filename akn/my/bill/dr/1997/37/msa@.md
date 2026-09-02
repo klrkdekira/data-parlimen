@@ -42,9 +42,11 @@ seksyen 2 dengan memasukkan selepas takrif "Ketua Pegawai Pelajaran" takrif yang
 
 <!-- page 2 -->
 
-Bahagian
+<!-- marginal: Bahagian -->
 
-3. Akta ibu adalah dipinda dengan memasukkan selepas baru IIIA.
+3. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru IIIA. -->
 
 ## Bahagian III Bahagian yang berikut:
 
@@ -52,7 +54,13 @@ Bahagian
 
 ## TATATERTIB
 
-16A. (1) Majlis hendaklah mempunyai kuasa Jawatankuasa tatatertib. tatatertib ke atas semua pegawai dan penjawatnya dan hendaklah menjalankan kawalan tatatertib berkenaan dengan semua orang itu mengikut Akta ini dan mana-mana peraturan yang dibuat di bawah seksyen 16D.
+16A. (1) Majlis hendaklah mempunyai kuasa
+
+<!-- marginal: Jawatankuasa -->
+
+<!-- marginal: tatatertib. -->
+
+tatatertib ke atas semua pegawai dan penjawatnya dan hendaklah menjalankan kawalan tatatertib berkenaan dengan semua orang itu mengikut Akta ini dan mana-mana peraturan yang dibuat di bawah seksyen 16D.
 
 (2) Bagi maksud seksyen ini—
 
@@ -76,7 +84,23 @@ Bahagian
 
 (5) Pada menjalankan fungsi tatatertibnya, sesuatu jawatankuasa tatatertib yang disebut dalam seksyen-kecil (2) hendaklah mempunyai kuasa untuk mengambil tindakan tatatertib dan mengenakan apa-apa hukuman tatatertib atau apa-apa gabungan dua hukuman tatatertib atau lebih sebagaimana yang diperuntukkan di bawah mana-mana peraturan yang dibuat di bawah seksyen 16D.
 
-Rayuan 16B. (1) Sesuatu keputusan jawatankuasa terhadap tatatertib di bawah seksyen l6A(2)(a) boleh keputusan jawatankuasa dirayukan kepada Menteri. tatatertib. (2) Sesuatu keputusan mana-mana jawatankuasa tatatertib di bawah seksyen l6A(2)(b) boleh dirayukan kepada Lembaga Rayuan Tatatertib yang ditubuhkan di bawah seksyen 16c.
+<!-- marginal: Rayuan -->
+
+16B. (1) Sesuatu keputusan jawatankuasa
+
+<!-- marginal: terhadap -->
+
+tatatertib di bawah seksyen l6A(2)(a) boleh
+
+<!-- marginal: keputusan -->
+
+<!-- marginal: jawatankuasa -->
+
+dirayukan kepada Menteri.
+
+<!-- marginal: tatatertib. -->
+
+(2) Sesuatu keputusan mana-mana jawatankuasa tatatertib di bawah seksyen l6A(2)(b) boleh dirayukan kepada Lembaga Rayuan Tatatertib yang ditubuhkan di bawah seksyen 16c.
 
 (3) Menteri atau Lembaga Rayuan Tatatertib, mengikut mana-mana yang berkenaan, boleh mengesahkan, mengakaskan atau mengubah keputusan jawatankuasa tatatertib.
 
@@ -84,7 +108,19 @@ Rayuan 16B. (1) Sesuatu keputusan jawatankuasa terhadap tatatertib di bawah seks
 
 <!-- page 4 -->
 
-Penubuhan 16c. (1) Maka hendaklah ada Lembaga Rayuan Lembaga Tatatertib Majlis yang terdiri daripada anggota Rayuan yang berikut: Tatatertib.
+<!-- marginal: Penubuhan -->
+
+16c. (1) Maka hendaklah ada Lembaga Rayuan
+
+<!-- marginal: Lembaga -->
+
+Tatatertib Majlis yang terdiri daripada anggota
+
+<!-- marginal: Rayuan -->
+
+yang berikut:
+
+<!-- marginal: Tatatertib. -->
 
 (a) Pengerusi Majlis, yang hendaklah menjadi pengerusi Lembaga Rayuan Tatatertib dan mempunyai undi pemutus; dan
 
@@ -92,7 +128,23 @@ Penubuhan 16c. (1) Maka hendaklah ada Lembaga Rayuan Lembaga Tatatertib Majlis y
 
 (2) Apabila Lembaga Rayuan Tatatertib menimbangkan sesuatu rayuan yang dibuat di bawah seksyen 16B, seseorang anggota jawatankuasa tatatertib yang terhadap keputusannya rayuan itu dibuat yang juga ahli Majlis tidak boleh hadir atau dengan apa-apa cara mengambii bahagian dalam apa-apa prosiding yang berhubungan dengan rayuan itu.
 
-16D. (1) Majlis, dengan kelulusan Menteri, boleh Kuasa untuk membuat membuat peraturan-peraturan untuk mengadakan peraturan- peruntukan bagi tatatertib pegawai dan peraturan tatatertib. penjawatnya.
+16D. (1) Majlis, dengan kelulusan Menteri, boleh
+
+<!-- marginal: Kuasa untuk -->
+
+<!-- marginal: membuat -->
+
+membuat peraturan-peraturan untuk mengadakan
+
+<!-- marginal: peraturan- -->
+
+peruntukan bagi tatatertib pegawai dan
+
+<!-- marginal: peraturan -->
+
+<!-- marginal: tatatertib. -->
+
+penjawatnya.
 
 (2) Peraturan-peraturan tatatertib yang dibuat di bawah seksyen ini—
 
@@ -126,9 +178,13 @@ di bawah mana-mana undang-undang yang berhubungan dengan keselamatan Malaysia at
 
 (ii) jika suatu perintah tahanan atau sekatan telah dibuat berkenaan dengan atau dikenakan terhadap pegawai atau penjawat itu.
 
-Pengenaan
+<!-- marginal: Pengenaan -->
 
-16E. (1) Seseorang yang sedang atau pernah surcaj. bekerja dengan Majlis boleh disurcaj jika ternyata kepada Majlis bahawa orang itu—
+16E. (1) Seseorang yang sedang atau pernah
+
+<!-- marginal: surcaj. -->
+
+bekerja dengan Majlis boleh disurcaj jika ternyata kepada Majlis bahawa orang itu—
 
 (a) tidak memungut apa-apa wang yang terhutang kepada Majlis yang pemungutannya menjadi tanggung- jawabnya;
 

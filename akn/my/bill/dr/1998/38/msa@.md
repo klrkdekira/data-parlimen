@@ -10,7 +10,31 @@ D.R. 38/98
 
 ## SUSUNAN FASAL
 
-1. Tajuk ringkas dan permulaan kuat kuasa. 2. Tafsiran. 3. Kuasa Ketua Pengarah. 4. Kuasa pegawai kastam yang hak. 5. Kad kuasa hendaklah ditunjukkan. 6. Pengenaan levi. 7. Perintah hendaklah dibentangkan. 8. Pendaftaran. 9. Penalti kerana pembayaran lambat. 10. Levi boleh dituntut sebagai hutang sivil. 11. Pengemukaan penyata. 12. Pentaksiran levi. 13. Pembayaran balik levi. 14. Pembayaran balik levi yang terlebih bayar atau tersilap bayar. 15. Pembayaran levi atau penalti yang terkurang bayar atau tersilap dibayar balik. 16. Kewajipan menyimpan rekod. 17. Orang-orang terikat untuk memberikan maklumat. 18. Akses ke tempat atau premis. 19. Penalti kerana membuat penyata yang tidak betul dan kerana memalsukan dokumen. 20. Penalti kerana enggan menjawab soalan atau kerana memberikan maklumat palsu. 21. Tidak mematuhi kehendak Akta ini.
+1. Tajuk ringkas dan permulaan kuat kuasa. 2. Tafsiran. 3. Kuasa Ketua Pengarah. 4. Kuasa pegawai kastam yang hak. 5. Kad kuasa hendaklah ditunjukkan. 6. Pengenaan levi. 7. Perintah hendaklah dibentangkan. 8. Pendaftaran. 9. Penalti kerana pembayaran lambat.
+
+10. Levi boleh dituntut sebagai hutang sivil.
+
+11. Pengemukaan penyata.
+
+12. Pentaksiran levi.
+
+13. Pembayaran balik levi.
+
+14. Pembayaran balik levi yang terlebih bayar atau tersilap bayar.
+
+15. Pembayaran levi atau penalti yang terkurang bayar atau tersilap dibayar balik.
+
+16. Kewajipan menyimpan rekod.
+
+17. Orang-orang terikat untuk memberikan maklumat.
+
+18. Akses ke tempat atau premis.
+
+19. Penalti kerana membuat penyata yang tidak betul dan kerana memalsukan dokumen.
+
+20. Penalti kerana enggan menjawab soalan atau kerana memberikan maklumat palsu.
+
+21. Tidak mematuhi kehendak Akta ini.
 
 <!-- page 2 -->
 
@@ -118,7 +142,9 @@ Rang Undang-Undang
 
 yang ditetapkan yang menyatakan amaun levi yang kena dibayar, kuantiti atau jumlah barang-barang ditetapkan yang dikeluarkan dan apa-apa butir lain sebagaimana yang dikehendaki oleh Ketua Pengarah.
 
-(2) Tiap-tiap penyata yang dikemukakan mengikut subseksyen (1) hendaklah disertakan dengan bayaran amaun yang kena dibayar sebagai levi.
+(2) Tiap-tiap penyata yang dikemukakan mengikut subseksyen
+
+(1) hendaklah disertakan dengan bayaran amaun yang kena dibayar sebagai levi.
 
 ### Pentaksiran levi
 
@@ -274,7 +300,9 @@ adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak mele
 
 (2) Sesuatu tawaran di bawah subseksyen (1) boleh dibuat pada bila-bila masa selepas kesalahan itu dilakukan, tetapi sebelum apa-apa pendakwaan baginya dimulakan, dan jika amaun yang dinyatakan dalam tawaran itu tidak dibayar dalam tempoh masa yang dinyatakan dalam tawaran itu atau dalam apa-apa tempoh lanjutan yang dibenarkan oleh pegawai kastam yang hak itu, pendakwaan bagi kesalahan itu boleh dimulakan pada bila-bila masa selepas itu terhadap orang yang kepadanya tawaran itu dibuat.
 
-(3) Jika suatu kesalahan dikompaunkan di bawah subseksyen (1), tiada pendakwaan boleh dimulakan berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran itu dibuat dan apa-
+(3) Jika suatu kesalahan dikompaunkan di bawah subseksyen
+
+(1), tiada pendakwaan boleh dimulakan berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran itu dibuat dan apa-
 
 <!-- page 14 -->
 

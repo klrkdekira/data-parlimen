@@ -108,7 +108,9 @@ terbang kecil (termasuklah lapangan terbang kecil air), lapangan helikopter, ban
 
 9. The principal Act is amended by inserting after Part VIIIa the following Part:
 
-“Part VIIIb EnForCEMEnT AnD InvESTIGATIon
+## “PART VIIIB
+
+EnForCEMEnT AnD InvESTIGATIon
 
 ### Authorized officer
 

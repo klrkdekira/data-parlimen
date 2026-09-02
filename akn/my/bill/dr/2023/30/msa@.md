@@ -262,7 +262,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 11 -->
 
-### Seksyen baharu 63a, 63b, 63c, 63d dan 63e
+## SEKSYEN BAHARU 63A, 63B, 63C, 63D DAN 63E
 
 26. Akta ibu dipinda dengan memasukkan selepas seksyen 63 seksyen yang berikut:
 
@@ -294,9 +294,7 @@ of the written notice to be examined, and shall continue to so attend from day t
 
 ### Production, etc., of article or document
 
-### 63d.
-
-In the course of investigation or examination under this Part, the Director General may—
+63D. In the course of investigation or examination under this Part, the Director General may—
 
 (a) require any such person to produce to him such article or document; and
 
@@ -422,7 +420,9 @@ Provided that the electronic record or the copy or print-out of that electronic 
 
 35. Akta ibu dipinda dengan memasukkan selepas Jadual Ketiga jadual yang berikut:
 
-“Fourth Schedule [Paragraph 15(1)(d), subsection 15(1a) and section 76c]
+## “FOURTH SCHEDULE
+
+[Paragraph 15(1)(d), subsection 15(1a) and section 76c]
 
 Offences under Chapters VI, VIa and VIb of the Penal Code [Act 574]”.
 

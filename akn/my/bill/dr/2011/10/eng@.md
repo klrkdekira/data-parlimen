@@ -376,7 +376,7 @@ and any function or power so delegated may be performed, exercised or discharged
 
 20. The principal Act is amended by substituting for Part VII the following Part:
 
-“Part VII
+## “PART VII
 
 ## REGISTRATION, ACCREDITATION, CERTIFICATION AND
 
@@ -438,7 +438,7 @@ and any function or power so delegated may be performed, exercised or discharged
 
 21. The principal Act is amended by inserting after Part VII the following Part:
 
-“Part vIIa
+## “PART VIIA
 
 ## STANDARDS AND CODES OF PRACTICE IN THE
 
@@ -542,7 +542,7 @@ the Lembaga may, without prejudice to such validity as it may have in any other 
 
 24. The principal Act is amended by inserting after Part VIII the following Part:
 
-“Part vIIIa
+## “PART VIIIA
 
 ## DUTY OF CONTRACTOR
 
@@ -614,9 +614,7 @@ building to which the directive relates, and such copy shall be displayed in a w
 
 ### Death caused by breach of duty of contractor
 
-### 34d.
-
-(1) Any contractor who breaches his duty under paragraph 34b(1)(c), and which breach results in death, shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both.
+34D. (1) Any contractor who breaches his duty under paragraph 34b(1)(c), and which breach results in death, shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
 (2) Section 34c shall apply to this section except paragraph 34c(1)(c).
 
@@ -626,9 +624,7 @@ building to which the directive relates, and such copy shall be displayed in a w
 
 ### site
 
-### 34e.
-
-(1) Any person having the right and power to manage or control any construction site shall have the duty to ensure, so far as is reasonably practicable, that the construction site and the means of entering and leaving such construction site are safe and not harmful to health.
+34E. (1) Any person having the right and power to manage or control any construction site shall have the duty to ensure, so far as is reasonably practicable, that the construction site and the means of entering and leaving such construction site are safe and not harmful to health.
 
 <!-- page 24 -->
 
@@ -640,7 +636,7 @@ building to which the directive relates, and such copy shall be displayed in a w
 
 25. The principal Act is amended by substituting for Part IX the following Part:
 
-“Part IX
+## “PART IX
 
 ## ENFORCEMENT AND INVESTIGATION
 
@@ -722,9 +718,7 @@ may exercise in respect of the premise or construction site, all the powers refe
 
 ### etc.
 
-### 35e.
-
-(1) When it is necessary to test any construction materials or any other thing seized in the premises or construction site under this Act, it shall be sufficient to test only a sample not exceeding five per centum in value or weight of the construction materials or any other things found in the premise or construction site.
+35E. (1) When it is necessary to test any construction materials or any other thing seized in the premises or construction site under this Act, it shall be sufficient to test only a sample not exceeding five per centum in value or weight of the construction materials or any other things found in the premise or construction site.
 
 (2) The court shall presume that the construction materials or any other thing found in the premise or construction site are of the same nature, quantity and quality as those seized.
 
@@ -770,9 +764,7 @@ may exercise in respect of the premise or construction site, all the powers refe
 
 ### List of things seized
 
-### 35l.
-
-(1) Where any seizure is made under this Part, an authorized officer shall prepare a list of construction materials, equipment, instrument, books, records, documents, computerized documents, articles or other thing seized and of the premise or construction site in which these are found and shall sign the list.
+35L. (1) Where any seizure is made under this Part, an authorized officer shall prepare a list of construction materials, equipment, instrument, books, records, documents, computerized documents, articles or other thing seized and of the premise or construction site in which these are found and shall sign the list.
 
 (2) A copy of the list prepared in accordance with subsection (1) shall be delivered immediately to the occupier of the premises or construction site where the construction material, equipment, instrument, book, record, document, computerized document, article or other thing is found or to his agent or servant at the premise or construction site.
 
@@ -790,9 +782,7 @@ may exercise in respect of the premise or construction site, all the powers refe
 
 ### Examination of person acquainted with case
 
-### 35n.
-
-(1) An authorized officer making an investigation under this Act may examine orally any person supposed to be acquainted with the facts and circumstances of the case.
+35N. (1) An authorized officer making an investigation under this Act may examine orally any person supposed to be acquainted with the facts and circumstances of the case.
 
 (2) The person examined under subsection (1) shall be legally bound to answer all questions relating to such case put to him by the authorized officer, but such person may refuse to answer any question the answer to which would have a tendency to expose him to a criminal charge or penalty or forfeiture.
 
@@ -832,9 +822,7 @@ and whether or not wholly or partly in answer to questions, by that person to or
 
 ### Sale and disposal of seized material
 
-### 35p.
-
-(1) The Chairman may, at any time, direct that any construction material seized under this Act be sold and the proceeds of the sale be held while waiting for the result of any prosecution under this Act where—
+35P. (1) The Chairman may, at any time, direct that any construction material seized under this Act be sold and the proceeds of the sale be held while waiting for the result of any prosecution under this Act where—
 
 (a) the construction material is of a perishable nature or easily deteriorates in quality;
 
@@ -930,7 +918,9 @@ shall be guilty of an offence and shall, on conviction, be liable to a fine not 
 
 (iv) in paragraph (f), by inserting after the words “control of” the word “members,”;
 
-(v) by deleting the word “and” at the end of paragraph (h);
+(v) by deleting the word “and” at the end of paragraph
+
+(h);
 
 (vi) by substituting for paragraph (i) the following paragraph: “
 
@@ -982,17 +972,13 @@ may on behalf of the Lembaga, conduct such proceedings and may make and do all a
 
 ### Protection to the Lembaga, etc.
 
-### 38b.
-
-(1) No action shall be brought, instituted or maintained in any court, against the Lembaga or its members, officers, servants or agents for anything done or omitted to be done by the Lembaga or its members, officers, servants or agents in good faith without negligence and done in exercise of any powers or performance of any duty under this Act.
+38B. (1) No action shall be brought, instituted or maintained in any court, against the Lembaga or its members, officers, servants or agents for anything done or omitted to be done by the Lembaga or its members, officers, servants or agents in good faith without negligence and done in exercise of any powers or performance of any duty under this Act.
 
 (2) The Public Authorities Protection Act 1948 [Act 198] shall apply to any action, suit, prosecution or proceedings against the Lembaga or its members, officers, servants or agents in respect of any act, negligence or default done by the Lembaga or its members, officers, servants or agents in such capacity.
 
 ### Compounding of offences
 
-### 38c.
-
-(1) The Lembaga may prescribe any offence under this Act as an offence which may be compounded.
+38C. (1) The Lembaga may prescribe any offence under this Act as an offence which may be compounded.
 
 (2) The Lembaga, with the consent of the Public Prosecutor in writing, may at any time before a charge is being instituted compound any of the offences prescribed under subsection (1) as an offence which may be compounded by accepting from the person reasonably suspected of having committed the offence a sum of money not exceeding fifty per centum of the maximum fine and in the case where there is a minimum fine, a sum of money not exceeding fifty per centum of the maximum fine but not less than the minimum fine provided to which the person would have been liable if he had been convicted of the offence, within such time as may be specified in his written offer.
 
@@ -1012,9 +998,7 @@ may on behalf of the Lembaga, conduct such proceedings and may make and do all a
 
 ### “Offences by body corporate, etc.
 
-### 39a.
-
-(1) Where a body corporate, firm, society or other body of persons commits an offence under this Act, any person who at the time of the commission of the offence was a director, manager, secretary, or other similar officer of the body corporate, firm, society or other body of persons or was purporting to act in any such capacity or was in any manner or to any extent responsible for the management of any of the affairs of the body corporate, firm, society or other body of persons or was assisting in such management—
+39A. (1) Where a body corporate, firm, society or other body of persons commits an offence under this Act, any person who at the time of the commission of the offence was a director, manager, secretary, or other similar officer of the body corporate, firm, society or other body of persons or was purporting to act in any such capacity or was in any manner or to any extent responsible for the management of any of the affairs of the body corporate, firm, society or other body of persons or was assisting in such management—
 
 (a) may be charged severally or jointly in the same proceedings with the body corporate, firm, society or other body of persons; and
 
@@ -1052,7 +1036,7 @@ may on behalf of the Lembaga, conduct such proceedings and may make and do all a
 
 32. The principal Act is amended by inserting after the Third Schedule the following schedule:
 
-“Fourth Schedule
+## “FOURTH SCHEDULE
 
 [Subsection 33c(1)]
 
@@ -1142,7 +1126,9 @@ No. Types of construction material Approved standards by the Lembaga
 
 <!-- page 44 -->
 
-No. Types of construction material Approved standards by the Lembaga
+No. Types of construction material Approved standards by the
+
+<!-- marginal: Lembaga -->
 
 18. MS 1064 : 2001 GUIDE TO
 
@@ -1306,4 +1292,6 @@ This clause also seeks to introduce a new section 33F on “codes of practice”
 
 ## FINANCIAL IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure. [PN(U2) 2115]
+This Bill will not involve the Government in any extra financial expenditure.
+
+<!-- marginal: [PN(U2) 2115] -->

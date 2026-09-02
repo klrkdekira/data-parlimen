@@ -30,7 +30,7 @@ NOW, THEREFORE, IT IS ENACTED by the Parliament of Malaysia as follows:
 
 2. The issue is hereby authorized of a sum not exceeding three billion sixty-five million one hundred and thirteen thousand and eight hundred and ninety-six ringgit (RM3,065,113,896) from the Consolidated Fund for expenditure on the services and purposes specified in the Schedule for the year 2018 not provided for or not fully provided for by the Supply Act 2018 [Act A1557].
 
-## Schedule
+## SCHEDULE
 
 Purpose Title
 
@@ -110,7 +110,7 @@ B. 63 Education
 
 <!-- marginal: 181,876,837 -->
 
-ToTal
+## TOTAL
 
 <!-- marginal: 3,065,113,896 -->
 

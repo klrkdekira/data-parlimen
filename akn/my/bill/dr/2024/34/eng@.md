@@ -64,7 +64,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 11. The principal Act is amended by inserting after section 91z the following part:
 
-“Part XVe
+## “PART XVE
 
 ## SPECIAL PROVISIONS DEALING WITH PULAU 1
 

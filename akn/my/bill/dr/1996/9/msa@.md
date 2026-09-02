@@ -8,9 +8,7 @@
 
 bernama
 
-Suatu Akta untuk meminda Akta Cukai Pendapatan
-
-1967. [ ]
+Suatu Akta untuk meminda Akta Cukai Pendapatan 1967. [ ]
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 
@@ -40,9 +38,11 @@ ibu" dalam Akta ini, adalah dipinda, dalam subseksyen
 
 <!-- page 2 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Seksyen 136 Akta ibu adalah dipinda— seksyen 136.
+3. Seksyen 136 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 136. -->
 
 (a) dalam subseksyen (5) dengan memasukkan selepas perkataan "public officer" perkataan "or any employee of the Inland Revenue Board of Malaysia";
 
@@ -50,13 +50,21 @@ Pindaan
 
 (c) dalam subseksyen (8) dengan memasukkan selepas perkataan "public officer" perkataan "or an employee of the Inland Revenue Board of Malaysia".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Subseksyen 137(2) Akta ibu adalah dipinda dengan seksyen 137. memasukkan selepas perkataan "public officer" perkataan "or an employee of the Inland Revenue Board of Malaysia".
+4. Subseksyen 137(2) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 137. -->
 
-5. Subseksyen 138(5) Akta ibu adalah dipinda dalam seksyen 138. takrif "classified person"—
+memasukkan selepas perkataan "public officer" perkataan "or an employee of the Inland Revenue Board of Malaysia".
+
+<!-- marginal: Pindaan -->
+
+5. Subseksyen 138(5) Akta ibu adalah dipinda dalam
+
+<!-- marginal: seksyen 138. -->
+
+takrif "classified person"—
 
 (a) dengan memotong perkataan "or" yang terdapat di hujung perenggan (b);
 
@@ -66,9 +74,13 @@ Pindaan
 
 "(d) any employee of the Inland Revenue Board of Malaysia;".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-6. Seksyen 144 Akta ibu adalah dipinda dengan seksyen 144. memasukkan selepas perkataan "public officer" perkataan "or employee of the Inland Revenue Board of Malaysia".
+6. Seksyen 144 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 144. -->
+
+memasukkan selepas perkataan "public officer" perkataan "or employee of the Inland Revenue Board of Malaysia".
 
 <!-- page 3 -->
 

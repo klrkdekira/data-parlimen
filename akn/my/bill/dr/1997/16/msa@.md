@@ -38,9 +38,11 @@ dengan memasukkan selepas subseksyen (1) subseksyen yang berikut:
 
 <!-- page 2 -->
 
-Bahagian
+<!-- marginal: Bahagian -->
 
-3. Akta ibu adalah dipinda dengan memasukkan selepas baru X.
+3. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru X. -->
 
 ## Bahagian IX Bahagian yang berikut:
 
@@ -48,21 +50,65 @@ Bahagian
 
 ## PEMBUBARAN
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-91. Jika Menteri berpuas hati bahawa, oleh Menteri sebab penswastaan atau pemindahmilikan atau untuk menetap- pelupusan kesemua atau lebih daripada separuh kan tarikh aktiviti Lembaga atau kesemua atau lebih pembubaran. daripada separuh asetnya, Lembaga tidak patut terus wujud, Menteri boleh, dengan perintah yang disiarkan dalam Warta, menetapkan suatu tarikh, kemudian daripada ini disebut "tarikh pembubaran", bagi pembubaran Lembaga.
+91. Jika Menteri berpuas hati bahawa, oleh
 
-Kesan pene-
+<!-- marginal: Menteri -->
 
-92. Pada tarikh pembubaran, Lembaga tapan tarikh hendaklah menjadi bubar dan Akta ini hendaklah pembubaran. menjadi mansuh.
+sebab penswastaan atau pemindahmilikan atau
 
-Perpindahan
+<!-- marginal: untuk -->
 
-93. Apabila Lembaga menjadi bubar, segala hak, keisti- hak, keistimewaan, liabiliti dan obligasi yang mewaan, dsb. sebelum sahaja tarikh pembubaran adalah hak, keistimewaan, liabiliti dan obligasi Lembaga hendaklah, dari tarikh itu, turun kepada Kerajaan.
+<!-- marginal: menetap- -->
 
-Perpindahan
+pelupusan kesemua atau lebih daripada separuh
 
-94. (1) Semua tanah yang sebelum sahaja harta. tarikh pembubaran adalah terletakhak pada Lembaga hendaklah, pada tarikh itu, terletakhak pada Pesuruhjaya Tanah Persekutuan yang Akta 349. dilantik di bawah Akta Pesuruhjaya Tanah Persekutuan 1957 bagi maksud-maksud Kerajaan.
+<!-- marginal: kan tarikh -->
+
+aktiviti Lembaga atau kesemua atau lebih
+
+<!-- marginal: pembubaran. -->
+
+daripada separuh asetnya, Lembaga tidak patut terus wujud, Menteri boleh, dengan perintah yang disiarkan dalam Warta, menetapkan suatu tarikh, kemudian daripada ini disebut "tarikh pembubaran", bagi pembubaran Lembaga.
+
+<!-- marginal: Kesan pene- -->
+
+92. Pada tarikh pembubaran, Lembaga
+
+<!-- marginal: tapan tarikh -->
+
+hendaklah menjadi bubar dan Akta ini hendaklah
+
+<!-- marginal: pembubaran. -->
+
+menjadi mansuh.
+
+<!-- marginal: Perpindahan -->
+
+93. Apabila Lembaga menjadi bubar, segala
+
+<!-- marginal: hak, keisti- -->
+
+hak, keistimewaan, liabiliti dan obligasi yang
+
+<!-- marginal: mewaan, -->
+
+<!-- marginal: dsb. -->
+
+sebelum sahaja tarikh pembubaran adalah hak, keistimewaan, liabiliti dan obligasi Lembaga hendaklah, dari tarikh itu, turun kepada Kerajaan.
+
+<!-- marginal: Perpindahan -->
+
+94. (1) Semua tanah yang sebelum sahaja
+
+<!-- marginal: harta. -->
+
+tarikh pembubaran adalah terletakhak pada Lembaga hendaklah, pada tarikh itu, terletakhak pada Pesuruhjaya Tanah Persekutuan yang
+
+<!-- marginal: Akta 349. -->
+
+dilantik di bawah Akta Pesuruhjaya Tanah Persekutuan 1957 bagi maksud-maksud Kerajaan.
 
 (2) Semua wang yang ada pada, atau kena dibayar kepada Lembaga sebelum sahaja tarikh pembubaran, hendaklah, pada tarikh pembubaran, berpindah kepada, dan terletakhak pada Kerajaan.
 
@@ -72,13 +118,31 @@ Perpindahan
 
 atau pada mana-mana orang bagi pihaknya hendaklah, pada tarikh itu, terletak hak pada Kerajaan.
 
-Kontrak 95. Segala suratikatan, bon, perjanjian, suratcara yang sedia dan perkiraan kerja yang wujud sebelum tarikh ada, dsb. pembubaran dan menyentuh mana-mana harta yang berpindah di bawah seksyen 94 hendaklah mempunyai kuatkuasa dan kesan yang penuh terhadap atau memihak kepada Kerajaan dan boleh dikuatkuasakan sepenuhnya dan dengan berkesan seolah-olah Kerajaan, bukan Lembaga atau mana-mana orang yang bertindak bagi pihaknya, telah dinamakan dalamnya atau telah menjadi suatu pihak kepadanya.
+<!-- marginal: Kontrak -->
 
-Penerusan 96. (1) Pemansuhan Akta ini
+95. Segala suratikatan, bon, perjanjian, suratcara
 
-<!-- marginal: tidaklah -->
+<!-- marginal: yang sedia -->
 
-prosiding menyentuh liabiliti mana-mana orang untuk jenayah dan sivil. didakwa atau dihukum bagi kesalahan-kesalahan yang dilakukan di bawah Akta ini sebelum tarikh pembubaran, atau mana-mana presiding yang telah dibawa atau hukuman yang telah dikenakan sebelum tarikh itu berkenaan dengan kesalahan itu.
+dan perkiraan kerja yang wujud sebelum tarikh
+
+<!-- marginal: ada, dsb. -->
+
+pembubaran dan menyentuh mana-mana harta yang berpindah di bawah seksyen 94 hendaklah mempunyai kuatkuasa dan kesan yang penuh terhadap atau memihak kepada Kerajaan dan boleh dikuatkuasakan sepenuhnya dan dengan berkesan seolah-olah Kerajaan, bukan Lembaga atau mana-mana orang yang bertindak bagi pihaknya, telah dinamakan dalamnya atau telah menjadi suatu pihak kepadanya.
+
+<!-- marginal: Penerusan -->
+
+96. (1) Pemansuhan Akta ini tidaklah
+
+<!-- marginal: prosiding -->
+
+menyentuh liabiliti mana-mana orang untuk
+
+<!-- marginal: jenayah -->
+
+<!-- marginal: dan sivil. -->
+
+didakwa atau dihukum bagi kesalahan-kesalahan yang dilakukan di bawah Akta ini sebelum tarikh pembubaran, atau mana-mana presiding yang telah dibawa atau hukuman yang telah dikenakan sebelum tarikh itu berkenaan dengan kesalahan itu.
 
 (2) Mana-mana prosiding atau kausa tindakan yang belum selesai atau yang wujud sebelum tarikh pembubaran oleh atau terhadap Lembaga atau mana-mana orang yang bertindak bagi pihaknya bolehlah diteruskan atau dimulakan oleh atau terhadap Kerajaan sebagaimana ia boleh diteruskan atau dimulakan oleh atau terhadap Lembaga atau orang itu seolah-olah Akta ini tidak pernah dimansuhkan.
 
@@ -88,9 +152,7 @@ prosiding menyentuh liabiliti mana-mana orang untuk jenayah dan sivil. didakwa a
 
 atau terhadap Kerajaan sebagaimana ia boleh dibawa oleh atau terhadap Lembaga seolah-olah Akta ini tidak pernah dimansuhkan.
 
-Penerusan
-
-97. Semua undang-undang bertulis yang undang- menyentuh atau bagi pelindungan Lembaga dan undang, dsb. berkuatkuasa sebelum tarikh pembubaran hendaklah, sehingga dipinda atau dibatalkan oleh pihak berkuasa yang mempunyai kuasa untuk berbuat demikian, terus berkuatkuasa dan ditafsirkan seolah-olah Akta ini tidak pernah dimansuhkan:
+Penerusan 97. Semua undang-undang bertulis yang undang- menyentuh atau bagi pelindungan Lembaga dan undang, dsb. berkuatkuasa sebelum tarikh pembubaran hendaklah, sehingga dipinda atau dibatalkan oleh pihak berkuasa yang mempunyai kuasa untuk berbuat demikian, terus berkuatkuasa dan ditafsirkan seolah-olah Akta ini tidak pernah dimansuhkan:
 
 Dengan syarat bahawa apa-apa sebutan dalam undang-undang bertulis itu mengenai Lembaga, melainkan jika konteksnya menghendaki makna yang lain, hendaklah ditafsirkan sebagai sebutan mengenai Kerajaan dan ungkapan-ungkapan yang memaksudkan sebutan sedemikian hendaklah ditafsirkan sewajarnya.".
 

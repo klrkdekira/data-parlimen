@@ -38,11 +38,11 @@ dipinda dengan menggantikan seksyen 5 dengan seksyen
 
 yang berikut:
 
-'Penggunaan
+'Penggunaan 5. (1) Wang Kumpulanwang hendaklah digunakan wang dan adalah dengan ini diperuntukkan bagi maksud Kumpulan- wang memberikan pinjaman mengikut terma-terma dan syarat-syarat yang difikirkan patut oleh Menteri Kewangan kepada mana-mana orang—
 
-5. (1) Wang Kumpulanwang hendaklah digunakan wang dan adalah dengan ini diperuntukkan bagi maksud Kumpulan- wang memberikan pinjaman mengikut terma-terma dan syarat-syarat yang difikirkan patut oleh Menteri Kewangan kepada mana-mana orang—
+(a) yang menjadi anggota mana-mana perkhidmatan awam yang tersebut dalam
 
-(a) yang menjadi anggota mana-mana perkhidmatan awam yang tersebut dalam Perkara 132 Perlembagaan Persekutuan;
+## Perkara 132 Perlembagaan Persekutuan;
 
 (b) yang menjadi Anggota pentadbiran dalam Persekutuan atau sesuatu Negeri sebagai- mana yang ditakrifkan dalam Perkara 160 (2) Perlembagaan Persekutuan;
 
@@ -52,7 +52,11 @@ yang berikut:
 
 ## RANG UNDANG-UNDANG
 
-(d) yang menjadi anggota Perkhidmatan Parli- men sebagaimana yang ditakrifkan dalam Akta394 seksyen 2 Akta Perkhidmatan Parlimen 1963;
+(d) yang menjadi anggota Perkhidmatan Parli- men sebagaimana yang ditakrifkan dalam
+
+<!-- marginal: Akta394 -->
+
+seksyen 2 Akta Perkhidmatan Parlimen 1963;
 
 (e) yang menjadi anggota salah satu Majlis Parlimen;
 

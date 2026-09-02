@@ -44,9 +44,13 @@ to as "the principal Act" is.amended by substituting the full stop at the end of
 
 ## BILL
 
-New section
+<!-- marginal: New section -->
 
-4. The principal Act is amended by inserting immediately 5A after section 5, the following new section 5A:
+4. The principal Act is amended by inserting immediately
+
+<!-- marginal: 5A -->
+
+after section 5, the following new section 5A:
 
 "Alternate 5A (1) The Minister may, in respect of each member members. of the Board appointed under paragraphs (b), (c),
 
@@ -56,17 +60,23 @@ New section
 
 (3) An alternate member shall, unless he sooner resigns or his appointment is sooner revoked, cease to be an alternate member if the member in respect of whom he is an alternate ceases to be a member of the Board.".
 
-New section
+<!-- marginal: New section -->
 
-5. The principal Act is amended by inserting immediately 6A after section 6, the following new section 6A:
+5. The principal Act is amended by inserting immediately
 
-"Power to
+<!-- marginal: 6A -->
 
-6A. The Board may, with the approval of the enter into Minister and the concurrence of the Minister of equity participation Finance, enter into equity participation in or joint or joint venture with any enterprise where such participation venture. or venture appears to it to be requisite, advantageous or convenient for or in connection with the discharge of the functions of the Institute.".
+after section 6, the following new section 6A:
 
-New section
+"Power to 6A. The Board may, with the approval of the enter into Minister and the concurrence of the Minister of equity participation Finance, enter into equity participation in or joint or joint venture with any enterprise where such participation venture. or venture appears to it to be requisite, advantageous or convenient for or in connection with the discharge of the functions of the Institute.".
 
-6. The principal Act is amended by inserting immediately 2 lA after section 21, the following new section 2lA:
+<!-- marginal: New section -->
+
+6. The principal Act is amended by inserting immediately
+
+<!-- marginal: 2 lA -->
+
+after section 21, the following new section 2lA:
 
 "Remunera 2lA. There may be paid to members of the Board, tion or the Scientific Council, the committees or any other allowance. person (not being an officer or servant of the Board who is within the ambit of the provisions of this Act relating to the terms and conditions of service applicable to his case) such remuneration or allowance as the Minister may determine.".
 
@@ -110,4 +120,6 @@ This Bill seeks to amend the Malaysian Agricultural Research and Development Ins
 
 ## IMPLICATIONS
 
-This Bill will involve the Government in extra financial expenditure, the amount of which cannot be ascertained at present. [PN. (U2) 1622.]
+This Bill will involve the Government in extra financial expenditure, the amount of which cannot be ascertained at present.
+
+<!-- marginal: [PN. (U2) 1622.] -->

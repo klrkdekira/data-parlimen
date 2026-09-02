@@ -12,7 +12,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Short title and commencement
 
-1. (1) This Act may be cited as the Pensions (Amendment) Act 2001.
+1. (1) This Act may be cited as the Pensions (Amendment) Act
+
+2001.
 
 (2) This Act comes into operation on 1 October 2001.
 
@@ -74,7 +76,9 @@ opted for the compulsory age of retirement of fifty- six years, subsection (3) s
 
 (b) by inserting after subsection (2) the following subsection:
 
-"(2A) Where an officer referred to in subsection (2) who was appointed before 1 October 2001 had been given an option before such date and had not opted for the compulsory age of retirement of fifty- six years, subsection (2) shall apply to him with the word 'fifty-five' being substituted for the word 'fifty-
+"(2A) Where an officer referred to in subsection
+
+(2) who was appointed before 1 October 2001 had been given an option before such date and had not opted for the compulsory age of retirement of fifty- six years, subsection (2) shall apply to him with the word 'fifty-five' being substituted for the word 'fifty-
 
 ### Amendment of section 23
 

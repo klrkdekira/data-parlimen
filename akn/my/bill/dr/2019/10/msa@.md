@@ -6,13 +6,13 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian i
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran 3. Takrif “cap dagangan” 4. Takrif “cap dagangan terkenal” 5. Takrif “cap dagangan terdahulu” 6. Takrif “barang-barang yang melanggar”, “bahan yang melanggar”, “artikel yang melanggar”, “barang-barang lancung” dan “cap dagangan lancung” 7. Sebutan kepada penggunaan cap dagangan 8. Penggunaan cap dagangan bagi dagangan eksport atau jika bentuk perdagangan berubah 9. Penentuan kebarangkalian kekeliruan
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENTADBIRAN
 
@@ -26,7 +26,7 @@
 
 <!-- page 6 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## DAFTAR CAP DAGANGAN
 
@@ -34,7 +34,7 @@
 
 15. Pemeriksaan Daftar
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENDAFTARAN CAP DAGANGAN
 
@@ -114,7 +114,7 @@ Pendaftaran
 
 36. Pendaftaran
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PEMBAHAGIAN DAN PENGGABUNGAN
 
@@ -124,7 +124,7 @@ Pendaftaran
 
 <!-- page 8 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## TEMPOH DAN PEMBAHARUAN CAP DAGANGAN BERDAFTAR
 
@@ -134,7 +134,7 @@ Pendaftaran
 
 41. Pemberhentian pendaftaran
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PERUBAHAN, PEMBETULAN, PEMOTONGAN,
 
@@ -152,7 +152,7 @@ Pendaftaran
 
 47. Ketidaksahan pendaftaran oleh Mahkamah
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## KESAN CAP DAGANGAN BERDAFTAR
 
@@ -194,7 +194,7 @@ Pelanggaran Cap Dagangan
 
 61. Remedi bagi ancaman tidak berasas prosiding pelanggaran
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## CAP DAGANGAN SEBAGAI OBJEK HARTA
 
@@ -210,7 +210,7 @@ Pelanggaran Cap Dagangan
 
 67. Permohonan bagi pendaftaran suatu cap dagangan sebagai suatu objek harta
 
-## Bahagian X
+## BAHAGIAN X
 
 ## PELESENAN
 
@@ -224,7 +224,7 @@ Pelanggaran Cap Dagangan
 
 <!-- page 10 -->
 
-## Bahagian XI
+## BAHAGIAN XI
 
 ## CAP KOLEKTIF DAN CAP PERAKUAN
 
@@ -232,7 +232,7 @@ Pelanggaran Cap Dagangan
 
 73. Cap perakuan
 
-## Bahagian XII
+## BAHAGIAN XII
 
 ## PERKARA ANTARABANGSA
 
@@ -258,7 +258,7 @@ Konvensyen dan Perkiraan Antarabangsa
 
 80. Pemberitahuan di bawah Perkara 6ter Konvensyen Paris
 
-## Bahagian XIII
+## BAHAGIAN XIII
 
 ## LANGKAH-LANGKAH SEMPADAN
 
@@ -292,7 +292,7 @@ Konvensyen dan Perkiraan Antarabangsa
 
 94. Pengimportan De Minimis
 
-## Bahagian XIV
+## BAHAGIAN XIV
 
 ## EJEN CAP DAGANGAN
 
@@ -304,7 +304,7 @@ Konvensyen dan Perkiraan Antarabangsa
 
 98. Komunikasi terlindung dengan ejen cap dagangan berdaftar
 
-## Bahagian XV
+## BAHAGIAN XV
 
 ## KESALAHAN
 
@@ -330,7 +330,7 @@ Konvensyen dan Perkiraan Antarabangsa
 
 108. Orang yang tidak berdaftar yang mengamalkan, dsb., sebagai ejen cap dagangan berdaftar
 
-## Bahagian XVI
+## BAHAGIAN XVI
 
 ## PENYIASATAN DAN PENGUATKUASAAN
 
@@ -410,7 +410,7 @@ Kuasa penangkapan, penggeledahan, penyitaan dsb.
 
 139. Perlindungan Pengawal, Timbalan Pengawal, Penolong Pengawal atau mana-mana orang lain
 
-## Bahagian XVII
+## BAHAGIAN XVII
 
 ## PROSIDING UNDANG-UNDANG DI MAHKAMAH,
 
@@ -434,7 +434,7 @@ Kuasa penangkapan, penggeledahan, penyitaan dsb.
 
 <!-- page 14 -->
 
-## Bahagian XVIII
+## BAHAGIAN XVIII
 
 ## PELBAGAI DAN AM
 
@@ -468,7 +468,7 @@ Kuasa penangkapan, penggeledahan, penyitaan dsb.
 
 162. Kuasa untuk membuat peraturan-peraturan
 
-## Bahagian XIX
+## BAHAGIAN XIX
 
 ## PERUNTUKAN PEMANSUHAN, KECUALIAN DAN PERALIHAN
 
@@ -522,9 +522,9 @@ Peruntukan peralihan bagi cap dagangan
 
 182. Garis panduan, dsb., mengenai perkara peralihan
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
-## Jadual Kedua
+## JADUAL KEDUA
 
 <!-- page 17 -->
 
@@ -534,7 +534,7 @@ Suatu Akta untuk mengadakan peruntukan bagi pendaftaran cap dagangan berhubung d
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -738,7 +738,7 @@ dagangan itu tidak boleh disifatkan sebagai berkemungkinan boleh menyebabkan tip
 
 (2) Dalam menentukan sama ada penggunaan suatu tanda itu berkemungkinan boleh menyebabkan kekeliruan kepada orang awam, Pendaftar atau Mahkamah boleh mengambil kira semua faktor yang berkaitan dalam hal keadaan, termasuklah sama ada penggunaan itu berkemungkinan boleh dikaitkan dengan suatu cap dagangan berdaftar.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENTADBIRAN
 
@@ -792,7 +792,7 @@ dagangan itu tidak boleh disifatkan sebagai berkemungkinan boleh menyebabkan tip
 
 <!-- page 28 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## DAFTAR CAP DAGANGAN
 
@@ -810,7 +810,7 @@ dagangan itu tidak boleh disifatkan sebagai berkemungkinan boleh menyebabkan tip
 
 (2) Tertakluk kepada syarat dalam subseksyen (1), salinan yang diperaku atau cabutan apa-apa catatan dalam Daftar yang dimeteraikan dengan meterai Pendaftar hendaklah diberikan kepada mana-mana orang atas permohonan mengikut bentuk yang ditentukan oleh Pendaftar bersama dengan pembayaran fi yang ditetapkan.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENDAFTARAN CAP DAGANGAN
 
@@ -1322,7 +1322,7 @@ Pendaftar hendaklah, melainkan jika permohonan itu telah disetuju terima dengan 
 
 (4) Suatu permohonan bagi suatu perakuan pendaftaran di bawah subseksyen (3) hendaklah dibuat oleh tuan punya berdaftar mengikut bentuk yang ditentukan oleh Pendaftar bersama dengan pembayaran fi yang ditetapkan.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PEMBAHAGIAN DAN PENGGABUNGAN
 
@@ -1340,7 +1340,7 @@ Pendaftar hendaklah, melainkan jika permohonan itu telah disetuju terima dengan 
 
 <!-- page 51 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## TEMPOH DAN PEMBAHARUAN CAP DAGANGAN BERDAFTAR
 
@@ -1392,7 +1392,7 @@ seseorang selain orang yang berdaftar sebagai tuan punya cap dagangan yang tidak
 
 <!-- page 53 -->
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PENGUBAHAN, PEMBETULAN, PEMOTONGAN,
 
@@ -1540,7 +1540,7 @@ melainkan jika persediaan bagi penggunaan itu bermula sebelum tuan punya menyeda
 
 (8) Jika pendaftaran cap dagangan diisytiharkan tidak sah sehingga apa-apa takat, pendaftaran itu hendaklah disifatkan tidak pernah dibuat, tetapi ini tidak menyentuh transaksi yang lalu dan yang telah ditutup.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## KESAN CAP DAGANGAN BERDAFTAR
 
@@ -1910,7 +1910,7 @@ mana-mana orang yang terkilan boleh membawa prosiding untuk relief di bawah seks
 
 <!-- page 74 -->
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## CAP DAGANGAN SEBAGAI OBJEK HARTA
 
@@ -2000,7 +2000,7 @@ mana-mana orang yang terkilan boleh membawa prosiding untuk relief di bawah seks
 
 <!-- page 78 -->
 
-## Bahagian X
+## BAHAGIAN X
 
 ## PELESENAN
 
@@ -2098,7 +2098,7 @@ dan apa-apa sebutan mengenai melakukan apa-apa dengan, atau tanpa, persetujuan t
 
 (10) Subseksyen (5) hingga (8) berkuat kuasa tertakluk kepada apa-apa perjanjian yang bertentangan antara pemegang lesen eksklusif dengan tuan punya berdaftar cap dagangan itu.
 
-## Bahagian XI
+## BAHAGIAN XI
 
 ## CAP KOLEKTIF DAN CAP PERAKUAN
 
@@ -2118,7 +2118,7 @@ oleh tuan punya cap berkenaan dengan tempat asal, bahan, cara pengilangan barang
 
 (2) Peruntukan Akta ini terpakai bagi cap perakuan tertakluk kepada peruntukan Jadual Kedua.
 
-## Bahagian XII
+## BAHAGIAN XII
 
 ## PERKARA ANTARABANGSA
 
@@ -2150,9 +2150,7 @@ Protokol Madrid
 
 (e) semua perkara yang berkaitan dengan pemotongan pendaftaran antarabangsa termasuk kesan pemotongan itu;
 
-(f) semua perkara yang berkaitan dengan pendaftaran antarabangsa terlindung yang menamakan Malaysia termasuk permohonan bagi seksyen 61 dan
-
-## Bahagian XIII dan XV;
+(f) semua perkara yang berkaitan dengan pendaftaran antarabangsa terlindung yang menamakan Malaysia termasuk permohonan bagi seksyen 61 dan Bahagian XIII dan XV;
 
 (g) pembayaran fi dan amaun yang ditetapkan berkenaan dengan permohonan bagi pendaftaran antarabangsa, pelanjutan perlindungan dan pembaharuan; dan
 
@@ -2312,7 +2310,7 @@ yang pada masa ini dilindungi di bawah Konvensyen Paris atau di bawah Perkara it
 
 Perjanjian TRIPS melalui pemberitahuan yang dibuat di bawah Perkara 6ter(3) Konvensyen Paris atau di bawah Perkara itu sebagaimana terpakai oleh Perjanjian TRIPS.
 
-## Bahagian XIII
+## BAHAGIAN XIII
 
 ## LANGKAH-LANGKAH SEMPADAN
 
@@ -2528,7 +2526,7 @@ dilupuskan mengikut cara sebagaimana yang diarahkan oleh Mahkamah.
 
 (2) Kuantiti yang kecil yang disebut dalam subseksyen (1) ertinya tidak melebihi dua barang.
 
-## Bahagian XIV
+## BAHAGIAN XIV
 
 ## EJEN CAP DAGANGAN
 
@@ -2596,7 +2594,7 @@ melainkan jika dia ditamatkan oleh orang itu atau terhenti untuk bertindak bagin
 
 (2) Ejen cap dagangan berdaftar mempunyai, berhubung dengan dokumen dan harta orang yang melantik dan memberi kuasa kepada ejen dalam perkara yang berhubungan dengan cap dagangan, hak lien yang sama sebagaimana yang peguam cara itu ada berhubungan dengan dokumen dan harta pelanggan.
 
-## Bahagian XV
+## BAHAGIAN XV
 
 ## KESALAHAN
 
@@ -2770,7 +2768,7 @@ mengetahui atau mempunyai sebab untuk mempercayai bahawa pernyataan itu palsu me
 
 108. Mana-mana orang yang menjalankan perniagaan, beramal, bertindak, memperihalkan dirinya, mengaku dirinya atau membenarkan dirinya diperihalkan atau diakui, sebagai ejen cap dagangan tanpa didaftarkan di bawah Akta ini melakukan suatu kesalahan dan hendaklah, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
 
-## Bahagian XVI
+## BAHAGIAN XVI
 
 ## PENYIASATAN DAN PENGUATKUASAAN
 
@@ -3206,7 +3204,7 @@ pengabaian atau keingkaran mana-mana pekerja atau ejennya, atau pekerja ejen itu
 
 (b) mana-mana orang lain berkenaan dengan apa-apa perbuatan yang dilakukan atau berupa sebagai dilakukan olehnya di bawah perintah, arahan atau suruhan Pengawal jika perbuatan itu dilakukan dengan suci hati dan kepercayaan munasabah bahawa ia perlu bagi maksud yang dihasratkan untuk dicapai dengannya.
 
-## Bahagian XVII
+## BAHAGIAN XVII
 
 ## PROSIDING UNDANG-UNDANG DI MAHKAMAH,
 
@@ -3304,7 +3302,7 @@ tiada apa-apa meterai, perlu disertakan perakuan yang ditandatangani oleh pegawa
 
 (3) Bagi mengelakkan keraguan, seksyen ini tidak boleh ditafsirkan untuk memberi pengiktirafan cap dagangan mana-mana negara asing bagi maksud pendaftaran di bawah Akta ini tetapi hendaklah ditafsirkan hanya dengan sebutan kebolehterimaan dokumen negara asing sebagai keterangan dalam mana-mana prosiding di hadapan Mahkamah.
 
-## Bahagian XVIII
+## BAHAGIAN XVIII
 
 ## PELBAGAI DAN AM
 
@@ -3552,7 +3550,7 @@ Mahkamah, dilaksanakan mengikut cara sama seperti suatu hukuman atau perintah Ma
 
 (3) Tertakluk kepada peruntukan Akta ini, Jawatankuasa Kaedah-Kaedah yang ditubuhkan di bawah Akta Mahkamah Kehakiman 1964, boleh membuat kaedah-kaedah bagi mahkamah untuk mengawal amalan dan tatacara berhubung dengan prosiding di hadapan Mahkamah atau yang berkenaan dengannya dan juga kos bagi prosiding itu.
 
-## Bahagian XIX
+## BAHAGIAN XIX
 
 ## PERUNTUKAN PEMANSUHAN, KECUALIAN DAN PERALIHAN
 
@@ -3746,7 +3744,7 @@ Peruntukan peralihan bagi cap dagangan
 
 182. Pendaftar boleh mengeluarkan garis panduan atau arahan amalan untuk mengadakan peruntukan bagi apa-apa perkara yang berkuat kuasa sebelum permulaan kuat kuasa Akta ini diuruskan mengikut apa-apa cara untuk memastikan perkara itu bertepatan dengan Akta ini.
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
 [Seksyen 72]
 
@@ -3900,7 +3898,7 @@ Peruntukan peralihan bagi cap dagangan
 
 12. Sebagai tambahan kepada alasan ketidaksahan yang diperuntukkan dalam seksyen 47, pendaftaran suatu cap kolektif boleh diisytiharkan tidak sah oleh Mahkamah atas alasan bahawa cap kolektif didaftarkan dengan melanggar peruntukan subperenggan 4(1) atau subperenggan 6(1).
 
-## Jadual Kedua
+## JADUAL KEDUA
 
 [Seksyen 73]
 
@@ -4072,7 +4070,7 @@ kawasan geografi yang dinyatakan dalam Daftar yang hendaklah berkenaan dengan ba
 
 Akta yang dicadangkan bertujuan untuk memperuntukkan pendaftaran cap dagangan berhubungan dengan barang-barang dan perkhidmatan dan untuk melaksanakan triti yang berkaitan dan bagi perkara-perkara lain yang berkaitan dengannya.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I memperkatakan perkara permulaan.
 
@@ -4084,7 +4082,7 @@ Akta yang dicadangkan bertujuan untuk memperuntukkan pendaftaran cap dagangan be
 
 6. Fasal 7, 8 dan 9 bertujuan untuk memperuntukkan bagi sebutan kepada penggunaan cap dagangan jika bentuk perdagangan berubah dan penentuan kebarangkalian kekeliruan itu berhubungan dengan penggunaan cap dagangan itu.
 
-## Bahagian II
+## BAHAGIAN II
 
 7. Bahagian II memperkatakan pentadbiran yang berkaitan dengan cap dagangan.
 
@@ -4098,7 +4096,7 @@ Akta yang dicadangkan bertujuan untuk memperuntukkan pendaftaran cap dagangan be
 
 11. Fasal 13 bertujuan untuk memperuntukkan bagi kuasa bagi Pendaftar untuk mengeluarkan nasihat dan carian awal kepada mana-mana pihak yang berminat untuk mendapatkannya sebelum memfailkan permohonan bagi pendaftaran cap dagangan.
 
-## Bahagian III
+## BAHAGIAN III
 
 12. Bahagian III mengandungi peruntukan yang berhubungan dengan Daftar Cap Dagangan.
 
@@ -4106,7 +4104,7 @@ Akta yang dicadangkan bertujuan untuk memperuntukkan pendaftaran cap dagangan be
 
 14. Fasal 15 bertujuan untuk memperuntukkan bagi pemeriksaan Daftar Cap Dagangan.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 15. Bahagian IV memperkatakan semua perkara yang berhubungan dengan pendaftaran cap dagangan.
 
@@ -4156,7 +4154,7 @@ Akta yang dicadangkan bertujuan untuk memperuntukkan pendaftaran cap dagangan be
 
 36. Fasal 36 bertujuan untuk memperuntukkan cara pendaftaran cap dagangan yang akan berlaku sekiranya tiada bangkangan yang difailkan atau bangkangan itu telah ditolak. Pendaftaran cap dagangan ini akan dikeluarkan dengan pemberitahuan pendaftaran dengan tarikh pendaftaran yang sama dengan tarikh pemfailan di Malaysia.
 
-## Bahagian V
+## BAHAGIAN V
 
 37. Bahagian V memperkatakan perkara yang berhubungan dengan pembahagian dan penggabungan suatu permohonan atau pendaftaran cap dagangan.
 
@@ -4164,7 +4162,7 @@ Akta yang dicadangkan bertujuan untuk memperuntukkan pendaftaran cap dagangan be
 
 39. Fasal 38 menyatakan tatacara penggabungan jika berbilang permohonan atau pendaftaran akan digabungkan menjadi satu permohonan atau pendaftaran.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 40. Bahagian VII memperkatakan perkara yang berkaitan dengan tempoh masa dan proses yang berkaitan bagi pembaharuan cap dagangan berdaftar.
 
@@ -4174,7 +4172,7 @@ Akta yang dicadangkan bertujuan untuk memperuntukkan pendaftaran cap dagangan be
 
 43. Fasal 41 bertujuan untuk mengadakan peruntukan bagi penguatkuasaan pendaftaran yang terhenti berikutan apa-apa keputusan untuk pembatalan oleh Pendaftar atau atas dasar tidak digunakan atau telah dibatalkan secara sukarela tanpa mengira hakikat bahawa pendaftaran itu masih dalam tempoh perlindungan sepuluh tahun.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 44. Bahagian VII menyatakan apabila cap dagangan itu boleh diubah, dibetulkan, dipotong secara sukarela, dibatalkan oleh Pendaftar dan dibatalkan atau menjadi tak sah oleh Mahkamah.
 
@@ -4192,7 +4190,7 @@ Akta yang dicadangkan bertujuan untuk memperuntukkan pendaftaran cap dagangan be
 
 50. Fasal 47 bertujuan untuk memperuntukkan mekanisma bagi ketidaksahan suatu cap dagangan berdaftar sekiranya pendaftaran itu melanggar apa-apa alasan mutlak atau relatif. Mana-mana orang yang terkilan boleh memfailkan permohonan bagi ketidaksahan pendaftaran itu di Mahkamah Tinggi.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 51. Bahagian VIII memperkatakan hak tuan punya berdaftar cap dagangan itu.
 
@@ -4226,7 +4224,7 @@ Akta yang dicadangkan bertujuan untuk memperuntukkan pendaftaran cap dagangan be
 
 65. Fasal 61 bertujuan untuk menyediakan remedi bagi ancaman tidak berasas prosiding pelanggaran.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 66. Bahagian IX memperkatakan semua perkara yang berhubungan dengan cap dagangan sebagai objek harta.
 
@@ -4244,7 +4242,7 @@ Akta yang dicadangkan bertujuan untuk memperuntukkan pendaftaran cap dagangan be
 
 72. Fasal 67 bertujuan untuk mengadakan peruntukan bagi urusan tertentu seperti pelesenan atau pemberian apa-apa kepentingan bercagar sesuatu permohonan untuk pendaftaran cap dagangan, diterima dan direkodkan oleh Pendaftar Cap Dagangan.
 
-## Bahagian X
+## BAHAGIAN X
 
 73. Bahagian X memperkatakan perkara yang berhubungan dengan pelesenan dan hak-hak pemegang lesen.
 
@@ -4256,7 +4254,7 @@ Akta yang dicadangkan bertujuan untuk memperuntukkan pendaftaran cap dagangan be
 
 77. Fasal 71 bertujuan untuk memperuntukkan hak dan remedi yang diberikan kepada pemegang lesen eksklusif yang dikira sebagai pemegang serah hak.
 
-## Bahagian XI
+## BAHAGIAN XI
 
 78. Bahagian XI memperkatakan semua perkara yang berkaitan dengan tanda kolektif yang membolehkan persatuan untuk mendaftarkan tanda mereka sebagai cap kolektif bagi barang-barang atau perkhidmatan yang disediakan oleh persatuan atau ahli mereka dan semua perkara yang berkaitan dengan cap perakuan yang membolehkan badan yang diberi kuasa untuk mendaftar tanda mereka sebagai tanda perakuan yang digunakan untuk mengesahkan barang-barang atau perkhidmatan berkenaan dengan asal, bahan, cara pembuatan barang atau prestasi perkhidmatan, kualiti, ketepatan atau ciri-ciri lain.
 
@@ -4266,7 +4264,7 @@ Akta yang dicadangkan bertujuan untuk memperuntukkan pendaftaran cap dagangan be
 
 80. Fasal 73 bertujuan untuk memperkatakan tentang semua perkara yang berhubungan dengan cap perakuan serta pemakaian Jadual Kedua.
 
-## Bahagian XII
+## BAHAGIAN XII
 
 81. Bahagian XII memperkatakan tentang semua perkara antarabangsa yang berhubungan dengan cap dagangan seperti Protokol Madrid dan kewajipan Malaysia di bawah Konvensyen Paris dan Perjanjian TRIPS.
 
@@ -4286,7 +4284,7 @@ Akta yang dicadangkan bertujuan untuk memperuntukkan pendaftaran cap dagangan be
 
 88. Fasal 80 bertujuan untuk menggambarkan pandangan Malaysia dalam melindungi lambang negara Konvensyen dan tanda rasmi atau cap kempa jika lambang negara, tanda atau cap kempa rasmi telah memenuhi semua syarat untuk dilindungi di bawah Konvensyen Paris atau Perjanjian TRIPS.
 
-## Bahagian XIII
+## BAHAGIAN XIII
 
 89. Bahagian XIII memperkatakan semua perkara yang berkaitan dengan Langkah-Langkah Sempadan.
 
@@ -4322,7 +4320,7 @@ Mahkamah Tinggi atas suatu perintah bagi pampasan bagi kerugian atau kerosakan y
 
 103. Fasal 94 bertujuan untuk memperuntukkan bilangan minimum barang-barang yang dibawa oleh pengembara dalam bagasi peribadi mereka atau dihantar dalam konsainan kecil apabila ketibaan mereka di mana-mana sempadan Malaysia.
 
-## Bahagian XIV
+## BAHAGIAN XIV
 
 104. Bahagian XIV memperkatakan semua perkara yang berhubungan dengan ejen cap dagangan termasuk perkara yang berhubungan dengan pendaftaran, pembaharuan, tingkah laku dan alamat perkhidmatannya, mekanisme ini bertujuan untuk memudahcara pemohon atau tuan punya berdaftar cap dagangan untuk memahami keadaan dan prosedur yang terlibat apabila perkhidmatan ejen cap dagangan berdaftar diperlukan.
 
@@ -4336,7 +4334,7 @@ Mahkamah Tinggi atas suatu perintah bagi pampasan bagi kerugian atau kerosakan y
 
 108. Fasal 98 mengenakan bahawa semua komunikasi yang dibuat termasuk apa-apa rekod atau dokumen yang digunakan semasa komunikasi antara ejen cap dagangan berdaftar dan orang yang melantik dan memberi kuasa kepadanya untuk bertindak sebagai ejen adalah komunikasi terlindung sebagaimana komunikasi antara peguam dengan pelanggannya.
 
-## Bahagian XV
+## BAHAGIAN XV
 
 109. Bahagian XXII memperkatakan semua perkara yang dikira sebagai kesalahan.
 
@@ -4360,7 +4358,7 @@ Mahkamah Tinggi atas suatu perintah bagi pampasan bagi kerugian atau kerosakan y
 
 119. Fasal 108 memperuntukkan bahawa seseorang yang menggambarkan dirinya sebagai ejen cap dagangan berdaftar tanpa didaftarkan melakukan suatu kesalahan.
 
-## Bahagian XVI
+## BAHAGIAN XVI
 
 120. Bahagian XVI memperkatakan perkara yang berkaitan dengan pemberian kuasa Pengawal atau Penolong Pengawal untuk menjalankan penyiasatan dan kuasa lain yang berkaitan untuk mengambil tindakan terhadap pesalah itu.
 
@@ -4434,7 +4432,7 @@ Mahkamah Tinggi atas suatu perintah bagi pampasan bagi kerugian atau kerosakan y
 
 151. Fasal 139 bertujuan untuk memperuntukkan bahawa tiada tindakan atau pendakwaan boleh dimulakan atau dikekalkan terhadap Pendaftar, Pengawal, Timbalan Pengawal atau mana-mana pegawai yang dilantik di bawah Akta ini.
 
-## Bahagian XVII
+## BAHAGIAN XVII
 
 152. Bahagian XVII berurusan dengan prosiding undang-undang di Mahkamah Tinggi, kos dan keterangan.
 
@@ -4456,7 +4454,7 @@ Mahkamah Tinggi atas suatu perintah bagi pampasan bagi kerugian atau kerosakan y
 
 160. Fasal 147 bertujuan untuk memberi Menteri kuasa untuk mengisytiharkan dokumen negara asing berhubungan dengan cap dagangan yang boleh diterima di mana-mana mahkamah undang-undang.
 
-## Bahagian XVIII
+## BAHAGIAN XVIII
 
 161. Bahagian XX memperkatakan perkara pelbagai dan am.
 
@@ -4498,7 +4496,7 @@ garis panduan atau arahan amalan akan menetapkan ujian dan mekanisma yang diguna
 
 176. Fasal 162 bertujuan untuk memberi Menteri kuasa untuk membuat segala peraturan-peraturan yang perlu sebagaimana yang dikehendaki di bawah Akta yang dicadangkan.
 
-## Bahagian XIX
+## BAHAGIAN XIX
 
 177. Bahagian XIX memperkatakan perkara pemansuhan, kecualian dan peralihan.
 

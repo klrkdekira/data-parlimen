@@ -134,21 +134,13 @@ Purpose Title
 
 <!-- marginal: (RM) -->
 
-B. 45 Ministry of Youth and Sports
+B. 45 Ministry of Youth and Sports 422,462,200
 
-<!-- marginal: 422,462,200 -->
+B. 46 Ministry of Human Resources 494,108,100
 
-B. 46 Ministry of Human Resources
+B. 47 Ministry of Information 1,009,275,400
 
-<!-- marginal: 494,108,100 -->
-
-B. 47 Ministry of Information
-
-<!-- marginal: 1,009,275,400 -->
-
-B. 48 Ministry of Women, Family and
-
-<!-- marginal: 616,838,400 -->
+B. 48 Ministry of Women, Family and 616,838,400
 
 Community Development
 

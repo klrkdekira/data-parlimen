@@ -4,7 +4,7 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Chapter I
+## CHAPTER I
 
 ## PRELIMINARY
 
@@ -12,7 +12,7 @@
 
 2. Amendment of Acts
 
-## Chapter II
+## CHAPTER II
 
 ## PART I
 
@@ -84,7 +84,7 @@
 
 32. Amount in excess of 108 balance
 
-## Chapter III
+## CHAPTER III
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
@@ -100,7 +100,7 @@
 
 38. Amendment of Second Schedule
 
-## Chapter IV
+## CHAPTER IV
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
@@ -116,7 +116,7 @@
 
 43. Amendment of Schedule 4
 
-## Chapter V
+## CHAPTER V
 
 ## AMENDMENTS TO THE LABUAN BUSINESS ACTIVITY TAX ACT 1990
 
@@ -126,7 +126,7 @@
 
 46. Amendment of section 22a
 
-## Chapter VI
+## CHAPTER VI
 
 ## AMENDMENTS TO THE GOODS AND SERVICES TAX ACT 2014
 
@@ -150,7 +150,7 @@
 
 56. Amendment of section 122
 
-## Chapter VII
+## CHAPTER VII
 
 ## AMENDMENTS TO THE PROMOTION OF INVESTMENTS ACT 1986
 
@@ -170,7 +170,7 @@ An Act to amend the Income Tax Act 1967, the Petroleum (Income Tax) Act 1967, th
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Chapter I
+## CHAPTER I
 
 ## PRELIMINARY
 
@@ -184,7 +184,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 6 -->
 
-## chapter ii
+## CHAPTER II
 
 ## PART I
 
@@ -470,21 +470,53 @@ income
 
 <!-- marginal: Income Tax -->
 
-For every ringgit of 5,000 0 per cent the first
+For every ringgit of 5,000
 
-For every ringgit of 15,000 1 per cent the next
+<!-- marginal: 0 per cent -->
 
-For every ringgit of 15,000 5 per cent the next
+the first
 
-For every ringgit of 15,000 10 per cent the next
+For every ringgit of 15,000
 
-For every ringgit of 20,000 16 per cent the next
+<!-- marginal: 1 per cent -->
 
-For every ringgit of 30,000 21 per cent the next
+the next
 
-For every ringgit of 150,000 24 percent the next
+For every ringgit of 15,000
 
-For every ringgit of 150,000 24.5 per cent the next
+<!-- marginal: 5 per cent -->
+
+the next
+
+For every ringgit of 15,000
+
+<!-- marginal: 10 per cent -->
+
+the next
+
+For every ringgit of 20,000
+
+<!-- marginal: 16 per cent -->
+
+the next
+
+For every ringgit of 30,000
+
+<!-- marginal: 21 per cent -->
+
+the next
+
+For every ringgit of 150,000
+
+<!-- marginal: 24 percent -->
+
+the next
+
+For every ringgit of 150,000
+
+<!-- marginal: 24.5 per cent -->
+
+the next
 
 <!-- page 17 -->
 
@@ -492,27 +524,13 @@ Chargeable RM
 
 <!-- marginal: Rate of -->
 
-income
+income Income Tax
 
-<!-- marginal: Income Tax -->
+For every ringgit of 200,000 25 per cent the next
 
-For every ringgit of 200,000
+For every ringgit of 400,000 26 per cent the next
 
-<!-- marginal: 25 per cent -->
-
-the next
-
-For every ringgit of 400,000
-
-<!-- marginal: 26 per cent -->
-
-the next
-
-For every ringgit 1,000,000
-
-<!-- marginal: 28 per cent”; and -->
-
-exceeding
+For every ringgit 1,000,000 28 per cent”; and exceeding
 
 (ii) in paragraph 1a, by substituting for the words “25 per cent” the words “28 per cent”; and
 
@@ -698,7 +716,7 @@ Provided that the sums shall not exceed an amount ascertained by multiplying the
 
 (4) Notwithstanding subparagraph (2), where a person has incurred capital expenditure in relation to an asset, and the asset is disposed of at any time during the period of adjustment specified under the Goods and Services Tax Act 2014, the adjustment to such expenditure shall be made in the basis period for a year of assessment in which the disposal is made.
 
-## part ii
+## PART II
 
 ## SAVING AND TRANSITIONAL
 
@@ -742,7 +760,7 @@ pay an amount equal to that excess and that amount shall be a debt due from the 
 
 (2) Where any excess due and payable by a company has not been paid within thirty days after the service of the requisition referred to under subsection (3), so much of the amount of excess as is unpaid shall without any further notice being served be increased by an amount equal to ten per cent of the excess so unpaid, and the amount unpaid and the increase on the amount unpaid shall be a debt due to the Government and that debt shall be payable immediately to the Director General.
 
-## chapter iii
+## CHAPTER III
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
@@ -864,7 +882,7 @@ pay an amount equal to that excess and that amount shall be a debt due from the 
 
 (5) Paragraphs 22 and 23 shall apply for the purpose of the adjustment referred to in subparagraph (4).”.
 
-## chapter iV
+## CHAPTER IV
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
@@ -894,9 +912,7 @@ pay an amount equal to that excess and that amount shall be a debt due from the 
 
 41. Section 29 of the principal Act is amended by inserting after subsection (4) the following subsection:
 
-“(5) The Director General may require any person to pay an additional amount of penalty in accordance with subsection
-
-(3) in respect of any additional tax which is payable by that person for a year of assessment.”.
+“(5) The Director General may require any person to pay an additional amount of penalty in accordance with subsection (3) in respect of any additional tax which is payable by that person for a year of assessment.”.
 
 ### Amendment of Schedule 2
 
@@ -940,7 +956,7 @@ C is ten thousand;
 
 or the ten percent of the chargeable gain, whichever is greater”.
 
-## chapter V
+## CHAPTER V
 
 ## AMENDMENT TO THE LABUAN BUSINESS ACTIVITY
 
@@ -978,7 +994,7 @@ or the ten percent of the chargeable gain, whichever is greater”.
 
 <!-- page 35 -->
 
-## Chapter VI
+## CHAPTER VI
 
 ## AMENDMENTS TO THE GOODS AND SERVICES TAX ACT 2014
 
@@ -1070,7 +1086,7 @@ or the ten percent of the chargeable gain, whichever is greater”.
 
 (b) by inserting after the words “and the tax” the words “or penalty”.
 
-## Chapter VII
+## CHAPTER VII
 
 ## AMENDMENTS TO THE PROMOTION OF INVESTMENTS ACT 1986
 
@@ -1104,7 +1120,7 @@ or the ten percent of the chargeable gain, whichever is greater”.
 
 ### tax for investment tax allowance
 
-29p. Where a company which has been granted approval under section 27, 27a, 27c, 27d, 27e, 27f, 27g, 27i, 27j, 27k, 27m or 27n has incurred in the basis period for a year of assessment capital expenditure in respect of promoted activity or promoted product for the period specified under paragraph 29(2)(b), (c) or (d), 29a(3)(b), (c) or (d), 29aa(3)(b), 29b(2)(b), 29d(2)(b), 29e(2)(b), 29f(2)(b), 29g(2)(b), 29h(2)(b), 29j(2)(b), 29k(2)(b), 29 l(2)(a)(ii), 29 l(3)(a)(ii), 29 l(4)(a)(ii), 29 l(5)(a)(ii), 29l(6)(a)(ii), 29n(3)(b) or 29o(3)(b), the capital expenditure incurred by the company shall not include any amount paid or payable in respect of goods and services tax by that company if the company is liable to be registered under the Goods and Services Tax Act 2014 and has failed to do so, or if the company is entitled to credit that amount as input tax under that Act.
+29p. Where a company which has been granted approval under SECTION 27, 27A, 27C, 27D, 27E, 27F, 27G, 27I, 27J, 27K, 27M OR 27n has incurred in the basis period for a year of assessment capital expenditure in respect of promoted activity or promoted product for the period specified under paragraph 29(2)(b), (c) or (d), 29a(3)(b), (c) or (d), 29aa(3)(b), 29b(2)(b), 29d(2)(b), 29e(2)(b), 29f(2)(b), 29g(2)(b), 29h(2)(b), 29j(2)(b), 29k(2)(b), 29 l(2)(a)(ii), 29 l(3)(a)(ii), 29 l(4)(a)(ii), 29 l(5)(a)(ii), 29l(6)(a)(ii), 29n(3)(b) or 29o(3)(b), the capital expenditure incurred by the company shall not include any amount paid or payable in respect of goods and services tax by that company if the company is liable to be registered under the Goods and Services Tax Act 2014 and has failed to do so, or if the company is entitled to credit that amount as input tax under that Act.
 
 ### Adjustment of capital expenditure incurred which is subject
 
@@ -1132,7 +1148,7 @@ This Bill seeks to amend the Income Tax Act 1967 (“Act 53”), the Petroleum (
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-## Chapter II of this Bill seeks to amend the Income Tax Act 1967.
+Chapter II of this Bill seeks to amend the Income Tax Act 1967.
 
 1. Clause 4 seeks to amend section 2 of Act 53.
 
@@ -1346,7 +1362,7 @@ This amendment has effect for the year of assessment 2015 and subsequent years o
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
-## Chapter III of this Bill seeks to amend the Petroleum (Income Tax) Act 1967.
+Chapter III of this Bill seeks to amend the Petroleum (Income Tax) Act 1967.
 
 28. Clause 34 seeks to amend subsection 2(1) of Act 543 to introduce definitions of “input tax” and “output tax” into Act 543 as a consequence of the amendments to subsection 18(1) of Act 543 and the introduction of paragraphs 1a and 13a into the First Schedule and paragraphs 2b and 45a into the Second Schedule, in relation to the Goods and Services Tax Act 2014.
 
@@ -1398,7 +1414,7 @@ This amendment has effect for the year of assessment 2015 and subsequent years o
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
-## Chapter IV of this Bill seeks to amend the Real Property Gains Tax Act 1976.
+Chapter IV of this Bill seeks to amend the Real Property Gains Tax Act 1976.
 
 33. Clause 40 seeks to amend subsection 2(1) of Act 169 to introduce definitions of “input tax” and “output tax” into Act 169 as a consequence of the amendments to paragraphs 6 and 7 of Schedule 2 to Act 169 in relation to the Goods and Services Tax Act 2014.
 
@@ -1424,9 +1440,7 @@ This amendment comes into operation on the coming into operation of this Act.
 
 ## AMENDMENT TO THE LABUAN BUSINESS ACTIVITY TAX ACT 1990
 
-## Chapter V of this Bill seeks to amend the Labuan Business Activity Tax
-
-Act 1990.
+Chapter V of this Bill seeks to amend the Labuan Business Activity Tax Act 1990.
 
 37. Clauses 45 and 46 seek to amend sections 22 and 22a of Act 445 to extend the application of the provision for exchange of information to a mutual administrative assistance arrangement.
 
@@ -1434,9 +1448,7 @@ These amendments come into operation on the coming into operation of this Act.
 
 ## AMENDMENTS TO THE GOODS AND SERVICES TAX ACT 2014
 
-## Chapter VI of this Bill seeks to amend the Goods and Services Tax
-
-Act 2014. This Chapter comes into operation on 1 January 2016.
+Chapter VI of this Bill seeks to amend the Goods and Services Tax Act 2014. This Chapter comes into operation on 1 January 2016.
 
 38. Clause 48 seeks to amend subsection 13(4) of Act 762 to expand the time of supply for imported services at the earlier of payment made by recipient or invoices issued by supplier.
 
@@ -1460,7 +1472,7 @@ Act 2014. This Chapter comes into operation on 1 January 2016.
 
 ## AMENDMENTS TO THE PROMOTION OF INVESTMENTS ACT 1986
 
-## Chapter VII of this Bill seeks to amend the Promotion of Investments Act 1986.
+Chapter VII of this Bill seeks to amend the Promotion of Investments Act 1986.
 
 47. Clause 59 seeks to amend subsection 2(1) of Act 327 to introduce definitions of “input tax” and “output tax” into Act 327 as a consequence of the introduction of new sections 29p and 29q into Act 327 in relation to the Goods and Services Tax Act 2014.
 

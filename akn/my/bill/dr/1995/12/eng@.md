@@ -16,13 +16,31 @@
 
 ## THE PERBADANAN
 
-3. The Perbadanan and its objective. 4. Functions of the Perbadanan. 5. Membership of the Perbadanan. 6. Secretary. 7. Public Authorities Protection Act 1948. 8. Public servant. 9. Power of the Minister to give directions. 10. The Kawasan Perbadanan Putrajaya. 11. Additional functions of the Perbadanan. 12. Returns, reports, accounts and information.
+3. The Perbadanan and its objective. 4. Functions of the Perbadanan. 5. Membership of the Perbadanan. 6. Secretary. 7. Public Authorities Protection Act 1948. 8. Public servant. 9. Power of the Minister to give directions.
+
+10. The Kawasan Perbadanan Putrajaya.
+
+11. Additional functions of the Perbadanan.
+
+12. Returns, reports, accounts and information.
 
 ## PART III
 
 ## PRESIDENT, OFFICERS. SERVANTS
 
-13. The President. 14. The chief executive officer. 15. Appointment of officers and servants of the Perbadanan. 16. Regulations with respect to conditions of service. 17. Power of Perbadanan to make regulations relating to conduct and discipline. 18. Surcharge. 19. Perbadanan may adopt regulations, etc.
+13. The President.
+
+14. The chief executive officer.
+
+15. Appointment of officers and servants of the Perbadanan.
+
+16. Regulations with respect to conditions of service.
+
+17. Power of Perbadanan to make regulations relating to conduct and discipline.
+
+18. Surcharge.
+
+19. Perbadanan may adopt regulations, etc.
 
 <!-- page 2 -->
 
@@ -30,19 +48,47 @@
 
 ## FINANCE
 
-20. The Fund. 21. Conservation of Fund. 22. Expenditure to be charged on the Fund. 23. Expenditure and preparation of estimates. 24. Statutory Bodies (Accounts and Annual Reports) Act 1980.
+20. The Fund.
+
+21. Conservation of Fund.
+
+22. Expenditure to be charged on the Fund.
+
+23. Expenditure and preparation of estimates.
+
+24. Statutory Bodies (Accounts and Annual Reports) Act 1980.
 
 ## PART V
 
 ## OTHER POWERS AND FUNCTIONS OF THE PERBADANAN
 
-25. Delegation of functions, powers or duties of the Perbadanan. 26. Power to borrow. 27. Investment. 28. Power to employ agents, etc. 29. Power to establish corporations. 30. Acquisition of land.
+25. Delegation of functions, powers or duties of the Perbadanan.
+
+26. Power to borrow.
+
+27. Investment.
+
+28. Power to employ agents, etc.
+
+29. Power to establish corporations.
+
+30. Acquisition of land.
 
 ## PART VI
 
 ## GENERAL
 
-31. Exemption from stamp duty. 32. Obligation of secrecy. 33. Power to make regulations. 34. Things done in anticipation of the enactment of this Act, 35. Savings. 36. Modifications.
+31. Exemption from stamp duty.
+
+32. Obligation of secrecy.
+
+33. Power to make regulations.
+
+34. Things done in anticipation of the enactment of this Act,
+
+35. Savings.
+
+36. Modifications.
 
 ## FIRST SCHEDULE
 
@@ -106,15 +152,27 @@ Minister may, by notification in the Gazette, appoint; and the Minister may appo
 
 ## THE PERBADANAN
 
-The Perba-
+<!-- marginal: The Perba- -->
 
-3. (1) There is hereby established a body corporate by danan and the name of "Perbadanan Putrajaya" with perpetual its objective. succession and a common seal, which may sue and be sued in its name and, subject to and for the purposes of this Act, may enter into contracts and may acquire, purchase, take, hold and enjoy movable and immovable property of every description and may convey, assign, surrender, yield up, charge, mortgage, demise, reassign, transfer or otherwise dispose of, or deal with, any movable or immovable property or any interest therein vested in the Perbadanan upon such terms as it deems fit.
+3. (1) There is hereby established a body corporate by
+
+<!-- marginal: danan and -->
+
+the name of "Perbadanan Putrajaya" with perpetual
+
+<!-- marginal: its objective. -->
+
+succession and a common seal, which may sue and be sued in its name and, subject to and for the purposes of this Act, may enter into contracts and may acquire, purchase, take, hold and enjoy movable and immovable property of every description and may convey, assign, surrender, yield up, charge, mortgage, demise, reassign, transfer or otherwise dispose of, or deal with, any movable or immovable property or any interest therein vested in the Perbadanan upon such terms as it deems fit.
 
 (2) The objective of the Perbadanan is to administer and manage the Kawasan Perbadanan Putrajaya on behalf of the Federal Government.
 
-Functions
+<!-- marginal: Functions -->
 
-4. (1) The functions of the Perbadanan shall be— of the Perbadanan.
+4. (1) The functions of the Perbadanan shall be—
+
+<!-- marginal: of the -->
+
+<!-- marginal: Perbadanan. -->
 
 (a) to perform all functions of a local government in the Kawasan Perbadanan Putrajaya;
 
@@ -166,15 +224,27 @@ and directives enacted or issued by the Federal Government.
 
 <!-- page 6 -->
 
-Conservation
+<!-- marginal: Conservation -->
 
-21. It shall be the duty of the Perbadanan to conserve the of Fund. Fund by so performing, exercising and discharging its functions, powers and duties under this Act so as to secure that the total revenues of the Perbadanan are, subject to any directions given by the Minister, sufficient to meet all sums properly chargeable to its revenue account, including depreciation and interest on capital, taking one year with another.
+21. It shall be the duty of the Perbadanan to conserve the
 
-Expenditure
+<!-- marginal: of Fund. -->
 
-22. The Fund shall be expended for the purpose of— to be charged on
+Fund by so performing, exercising and discharging its functions, powers and duties under this Act so as to secure that the total revenues of the Perbadanan are, subject to any directions given by the Minister, sufficient to meet all sums properly chargeable to its revenue account, including depreciation and interest on capital, taking one year with another.
 
-(a) paying any expenditure lawfully incurred by the the Fund. Perbadanan, including survey and legal fees and costs and other fees and costs, and the remuneration of officers and servants appointed and employed by the Perbadanan, including superannuation allowances, pensions or gratuities;
+<!-- marginal: Expenditure -->
+
+22. The Fund shall be expended for the purpose of—
+
+<!-- marginal: to be -->
+
+<!-- marginal: charged on -->
+
+(a) paying any expenditure lawfully incurred by the
+
+<!-- marginal: the Fund. -->
+
+Perbadanan, including survey and legal fees and costs and other fees and costs, and the remuneration of officers and servants appointed and employed by the Perbadanan, including superannuation allowances, pensions or gratuities;
 
 (b) paying any other expenses, costs or expenditure properly incurred or accepted by the Perbadanan in the performance of its functions or the exercise of its powers under section 4;
 
@@ -184,9 +254,19 @@ Expenditure
 
 (e) generally, paying any expenses for carrying into effect the provisions of this Act.
 
-Expenditure
+<!-- marginal: Expenditure -->
 
-23. (1) The expenditure of the Perbadanan up to such and prepa- amount as may be authorized by the Minister for any one ration of estimates. year shall be defrayed out of the Fund.
+23. (1) The expenditure of the Perbadanan up to such
+
+<!-- marginal: and prepa- -->
+
+amount as may be authorized by the Minister for any one
+
+<!-- marginal: ration of -->
+
+<!-- marginal: estimates. -->
+
+year shall be defrayed out of the Fund.
 
 (2) Before the beginning of September of each year, the Perbadanan shall submit to the Minister an estimate of the expenditure (including the expenditure for development projects) for the following year in such form and containing such particulars as the Minister may
 
@@ -238,7 +318,9 @@ to the Chief Executive any function, power or duty, as
 
 the Perbadanan may determine, vested in or imposed on the Perbadanan by this Act, except the power to borrow money, raise loans or make regulations; and any function, power or duty so delegated may be performed, exercised or discharged by the Chief Executive, as the case may be, in the name and on behalf of the Perbadanan.
 
-(2) Without prejudice to the generality of subsection (1) and to the other provisions of this Act, the Perbadanan may delegate to the Chief Executive authority to sanction expenditure from the Fund or any other moneys vested in and under the control of the Perbadanan up to such limit as the Perbadanan shall specify.
+(2) Without prejudice to the generality of subsection
+
+(1) and to the other provisions of this Act, the Perbadanan may delegate to the Chief Executive authority to sanction expenditure from the Fund or any other moneys vested in and under the control of the Perbadanan up to such limit as the Perbadanan shall specify.
 
 <!-- marginal: Power to -->
 
@@ -262,17 +344,33 @@ approval of the Minister, borrow, at such rate of interest and for such period a
 
 (e) any other expenditure properly chargeable to capital account.
 
-Investment.
+<!-- marginal: Investment. -->
 
 27. The assets of the Perbadanan shall, in so far as they are not required to be expended by the Perbadanan under this Act, be invested in such manner as the Minister may approve.
 
-Power to
+<!-- marginal: Power to -->
 
-28. The Perbadanan may employ and pay agents and employ technical advisers, including advocates and solicitors, agents, etc. bankers, stockbrokers, surveyors, valuers and other persons, to transact any business or to do any act required to be transacted or done in the performance of its functions, the exercise of its powers or the discharge of its duties or for the better carrying into effect the purposes of this Act.
+28. The Perbadanan may employ and pay agents and
 
-Power to
+<!-- marginal: employ -->
 
-29. (1) The Perbadanan may from time to time, with the establish approval of the Minister, by order published in the Gazette, corporations. establish a corporation, by such name as the Perbadanan may think fit, to carry out and have the charge, conduct and management of any project, scheme or enterprise which has been planned or undertaken by the Perbadanan in the performance of its functions, the exercise of its powers or the discharge of its duties.
+technical advisers, including advocates and solicitors,
+
+<!-- marginal: agents, etc. -->
+
+bankers, stockbrokers, surveyors, valuers and other persons, to transact any business or to do any act required to be transacted or done in the performance of its functions, the exercise of its powers or the discharge of its duties or for the better carrying into effect the purposes of this Act.
+
+<!-- marginal: Power to -->
+
+29. (1) The Perbadanan may from time to time, with the
+
+<!-- marginal: establish -->
+
+approval of the Minister, by order published in the Gazette,
+
+<!-- marginal: corporations. -->
+
+establish a corporation, by such name as the Perbadanan may think fit, to carry out and have the charge, conduct and management of any project, scheme or enterprise which has been planned or undertaken by the Perbadanan in the performance of its functions, the exercise of its powers or the discharge of its duties.
 
 <!-- page 9 -->
 
@@ -318,11 +416,21 @@ the purpose of any civil or criminal proceedings under any written law, no membe
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one thousand ringgit or to imprisonment for a term not exceeding six months or to both.
 
-Power to
+<!-- marginal: Power to -->
 
-33. (1) The Perbadanan may, with the approval of the make Minister, make such regulations as may be expedient or regulations. necessary for the better carrying out of the provisions of this Act.
+33. (1) The Perbadanan may, with the approval of the
 
-(2) Without prejudice to the generality of subsection (1), regulations may be made for—
+<!-- marginal: make -->
+
+Minister, make such regulations as may be expedient or
+
+<!-- marginal: regulations. -->
+
+necessary for the better carrying out of the provisions of this Act.
+
+(2) Without prejudice to the generality of subsection
+
+(1), regulations may be made for—
 
 (a) regulating the development of land in the Kawasan Perbadanan Putrajaya and generally providing for the orderly development of land in the Kawasan Perbadanan Putrajaya;
 
@@ -394,7 +502,11 @@ for a term not exceeding three years and is eligible for reappointment.
 
 (4) Every member shall devote such time to the business of the Perbadanan as is necessary to discharge his duties effectively.
 
-Vacation of 2. (1) The office of a member of the Perbadanan shall be vacated— office
+<!-- marginal: Vacation of -->
+
+2. (1) The office of a member of the Perbadanan shall be vacated—
+
+<!-- marginal: office -->
 
 (a) if he dies;
 
@@ -412,9 +524,17 @@ Vacation of 2. (1) The office of a member of the Perbadanan shall be vacated— 
 
 (2) Where any person ceases to be a member by reason of any of the provisions of this Act, another person shall be appointed in his place in accordance with the provisions applying.
 
-Remuneration 3. There may be paid to members of the Perbadanan or any other or allowance. person (not being an officer or servant of the Perbadanan who is within the ambit of the provisions of this Act relating to the terms and conditions of service applicable to his case) such remuneration or allowance as the Minister may determine.
+<!-- marginal: Remuneration -->
 
-Meetings 4. (1) The Perbadanan shall meet at least once in every two months.
+3. There may be paid to members of the Perbadanan or any other
+
+<!-- marginal: or allowance. -->
+
+person (not being an officer or servant of the Perbadanan who is within the ambit of the provisions of this Act relating to the terms and conditions of service applicable to his case) such remuneration or allowance as the Minister may determine.
+
+<!-- marginal: Meetings -->
+
+4. (1) The Perbadanan shall meet at least once in every two months.
 
 (2) The quorum of the Perbadanan shall be four.
 
@@ -460,11 +580,19 @@ himself or his partner, any interest in any company or undertaking with which th
 
 thereto by the President, such member shall take no part in any deliberation or decision of the Perbadanan relating to the contract or matter.
 
-Mi nutes 8. (1) The Perbadanan shall cause minutes of all its meetings to be maintained and kept in proper form.
+<!-- marginal: Mi nutes -->
+
+8. (1) The Perbadanan shall cause minutes of all its meetings to be maintained and kept in proper form.
 
 (2) Any minutes made of meetings of the Perbadanan shall, if duly signed, be admissible in evidence in all legal proceedings without further proof and every meeting of the Perbadanan in respect of the proceedings of which minutes have been so made shall be deemed to have been duly convened and held and all members thereat to have been duly qualified to act.
 
-Validity of acts 9. No act done or proceeding taken under this Act shall be questioned and proceedings. on the ground of—
+<!-- marginal: Validity of acts -->
+
+9. No act done or proceeding taken under this Act shall be questioned
+
+<!-- marginal: and proceedings. -->
+
+on the ground of—
 
 (a) any vacancy in the membership of, or of any defect in the constitution of, the Perbadanan;
 
@@ -476,7 +604,21 @@ Validity of acts 9. No act done or proceeding taken under this Act shall be ques
 
 (Subsection 29(2))
 
-Power of the 1. The Perbadanan shall, on or before the date on which any corporation Perbadanan to is established under section 29, make regulations in respect of such make regulations in respect of corporation defining— corporation
+<!-- marginal: Power of the -->
+
+1. The Perbadanan shall, on or before the date on which any corporation
+
+<!-- marginal: Perbadanan to -->
+
+is established under section 29, make regulations in respect of such
+
+<!-- marginal: make regulations -->
+
+<!-- marginal: in respect of -->
+
+corporation defining—
+
+<!-- marginal: corporation -->
 
 (a) the purposes and objects for which the corporation is established;
 
@@ -486,7 +628,17 @@ Power of the 1. The Perbadanan shall, on or before the date on which any corpora
 
 (d) the relations between such corporation and the Perbadanan and the Perbadanan's rights of control over such corporation.
 
-2. Nothing in paragraph 1 shall be deemed to authorize the Perbadanan Limitation on power to establish to make regulations to establish any corporation for any purpose or corporation. object more extensive in scope than the purposes or objects for which the Perbadanan has been constituted or to confer on any corporation
+2. Nothing in paragraph 1 shall be deemed to authorize the Perbadanan
+
+<!-- marginal: Limitation on -->
+
+<!-- marginal: power to establish -->
+
+to make regulations to establish any corporation for any purpose or
+
+<!-- marginal: corporation. -->
+
+object more extensive in scope than the purposes or objects for which the Perbadanan has been constituted or to confer on any corporation
 
 <!-- page 15 -->
 

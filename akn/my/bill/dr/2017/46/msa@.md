@@ -6,23 +6,41 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## MAJLIS PERGIGIAN MALAYSIA
 
-3. Penubuhan Majlis 4. Fungsi Majlis 5. Kuasa Majlis 6. Keanggotaan Majlis 7. Kuasa Menteri untuk melantik anggota Majlis 8. Kehilangan kelayakan daripada pelantikan, penamaan atau pemilihan 9. Pembatalan dan peletakan jawatan anggota Majlis 10. Penjalanan sementara fungsi Yang Dipertua 11. Setiausaha Majlis 12. Jawatankuasa Majlis 13. Elaun bagi anggota Majlis, dsb. 14. Pelantikan pekerja Majlis
+3. Penubuhan Majlis 4. Fungsi Majlis 5. Kuasa Majlis 6. Keanggotaan Majlis 7. Kuasa Menteri untuk melantik anggota Majlis 8. Kehilangan kelayakan daripada pelantikan, penamaan atau pemilihan 9. Pembatalan dan peletakan jawatan anggota Majlis
 
-## Bahagian III
+10. Penjalanan sementara fungsi Yang Dipertua
+
+11. Setiausaha Majlis
+
+12. Jawatankuasa Majlis
+
+13. Elaun bagi anggota Majlis, dsb.
+
+14. Pelantikan pekerja Majlis
+
+## BAHAGIAN III
 
 ## LEMBAGA JURUTERAPI PERGIGIAN MALAYSIA
 
-15. Penubuhan Lembaga 16. Fungsi Lembaga 17. Kuasa Lembaga 18. Keanggotaan Lembaga 19. Kehilangan kelayakan daripada penamaan dan pelantikan
+15. Penubuhan Lembaga
+
+16. Fungsi Lembaga
+
+17. Kuasa Lembaga
+
+18. Keanggotaan Lembaga
+
+19. Kehilangan kelayakan daripada penamaan dan pelantikan
 
 <!-- page 5 -->
 
@@ -34,7 +52,7 @@
 
 23. Elaun bagi anggota Lembaga, dsb.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENDAFTARAN PENGAMAL
 
@@ -92,19 +110,63 @@ Perakuan Pengamalan
 
 ## Bab 4
 
-Am 43. Menjalankan amalan sebagai juruterapi pergigian 44. Pemberitahuan pertukaran alamat 45. Penyampaian notis atau persuratan 46. Menandatangani perakuan sakit pergigian dan dokumen lain 47. Perkhidmatan masyarakat bagi doktor pergigian 48. Pertubuhan perbadanan pergigian dan syarikat pergigian 49. Pengecualian bagi doktor pergigian di atas kapal 50. Menjalankan tatacara pergigian
+Am
 
-## Bahagian V
+43. Menjalankan amalan sebagai juruterapi pergigian
+
+44. Pemberitahuan pertukaran alamat
+
+45. Penyampaian notis atau persuratan
+
+46. Menandatangani perakuan sakit pergigian dan dokumen lain
+
+47. Perkhidmatan masyarakat bagi doktor pergigian
+
+48. Pertubuhan perbadanan pergigian dan syarikat pergigian
+
+49. Pengecualian bagi doktor pergigian di atas kapal
+
+50. Menjalankan tatacara pergigian
+
+## BAHAGIAN V
 
 ## PROSIDING TATATERTIB
 
-51. Pihak berkuasa tatatertib 52. Jawatankuasa Aduan 53. Aduan atau maklumat terhadap pengamal 54. Klasifikasi aduan atau maklumat 55. Jawatankuasa Penyiasatan Permulaan 56. Jawatankuasa Tatatertib 57. Penolakan aduan 58. Hukuman tatatertib 59. Perakuan hendaklah dikembalikan 60. Rayuan 61. Kemasukan semula nama dalam Daftar
+51. Pihak berkuasa tatatertib
 
-## Bahagian VI
+52. Jawatankuasa Aduan
+
+53. Aduan atau maklumat terhadap pengamal
+
+54. Klasifikasi aduan atau maklumat
+
+55. Jawatankuasa Penyiasatan Permulaan
+
+56. Jawatankuasa Tatatertib
+
+57. Penolakan aduan
+
+58. Hukuman tatatertib
+
+59. Perakuan hendaklah dikembalikan
+
+60. Rayuan
+
+61. Kemasukan semula nama dalam Daftar
+
+## BAHAGIAN VI
 
 ## KESALAHAN
 
-62. Larangan menjalankan amalan pergigian oleh orang yang tidak berdaftar 63. Secara palsu menyamar sebagai pengamal 64. Memperihalkan kerjaya secara palsu 65. Pendaftaran secara fraud 66. Kesalahan yang berhubungan dengan perakuan pengamalan
+62. Larangan menjalankan amalan pergigian oleh orang yang tidak berdaftar
+
+63. Secara palsu menyamar sebagai pengamal
+
+64. Memperihalkan kerjaya secara palsu
+
+65. Pendaftaran secara fraud
+
+66. Kesalahan yang berhubungan dengan perakuan pengamalan
 
 <!-- page 7 -->
 
@@ -114,7 +176,7 @@ Am 43. Menjalankan amalan sebagai juruterapi pergigian 44. Pemberitahuan pertuka
 
 69. Berselindung
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PENGUATKUASAAN
 
@@ -134,7 +196,7 @@ Am 43. Menjalankan amalan sebagai juruterapi pergigian 44. Pemberitahuan pertuka
 
 77. Permulaan Pendakwaan
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## PELBAGAI
 
@@ -166,25 +228,49 @@ Am 43. Menjalankan amalan sebagai juruterapi pergigian 44. Pemberitahuan pertuka
 
 <!-- page 8 -->
 
-91. Kuasa untuk meminda Jadual 92. Peraturan-peraturan
+91. Kuasa untuk meminda Jadual
 
-## Bahagian IX
+92. Peraturan-peraturan
+
+## BAHAGIAN IX
 
 ## PEMANSUHAN, KECUALIAN DAN PERALIHAN
 
-93. Pemansuhan dan pembubaran 94. Pemindahan kuasa, dsb. 95. Kontrak sedia ada 96. Keanggotaan Majlis dibubarkan 97. Kecualian bagi perakuan pengamalan 98. Kecualian bagi daftar 99. Penerusan permohonan, dsb., yang belum diputuskan 100. Penerusan prosiding sivil dan jenayah 101. Latihan 102. Sekolah pergigian 103. Sebutan dalam undang-undang atau dokumen mengenai Majlis dibubarkan 104. Sebutan mengenai Akta dimansuhkan
+93. Pemansuhan dan pembubaran
 
-## Jadual Pertama
+94. Pemindahan kuasa, dsb.
 
-## Jadual Kedua
+95. Kontrak sedia ada
 
-## Jadual Ketiga
+96. Keanggotaan Majlis dibubarkan
 
-## Jadual KeemPat
+97. Kecualian bagi perakuan pengamalan
 
-## Jadual Kelima
+98. Kecualian bagi daftar
 
-## Jadual Keenam
+99. Penerusan permohonan, dsb., yang belum diputuskan
+
+100. Penerusan prosiding sivil dan jenayah
+
+101. Latihan
+
+102. Sekolah pergigian
+
+103. Sebutan dalam undang-undang atau dokumen mengenai Majlis dibubarkan
+
+104. Sebutan mengenai Akta dimansuhkan
+
+## JADUAL PERTAMA
+
+## JADUAL KEDUA
+
+## JADUAL KETIGA
+
+## JADUAL KEEMPAT
+
+## JADUAL KELIMA
+
+## JADUAL KEENAM
 
 <!-- page 10 -->
 
@@ -194,7 +280,7 @@ Suatu Akta untuk mengadakan peruntukan bagi penubuhan Majlis Pergigian Malaysia 
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut :
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -234,11 +320,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut :
 
 1971; atau
 
-(b) seseorang yang berdaftar sebagai doktor pergigian di bawah seksyen 31 dan bagi maksud Bahagian IV,
-
-## Bahagian V dan Bahagian VI termasuklah mana-mana
-
-orang yang disifatkan berdaftar sebagai doktor pergigian di bawah subseksyen 40(6);
+(b) seseorang yang berdaftar sebagai doktor pergigian di bawah seksyen 31 dan bagi maksud Bahagian IV, Bahagian V dan Bahagian VI termasuklah mana-mana orang yang disifatkan berdaftar sebagai doktor pergigian di bawah subseksyen 40(6);
 
 <!-- page 12 -->
 
@@ -294,7 +376,7 @@ orang yang disifatkan berdaftar sebagai doktor pergigian di bawah subseksyen 40(
 
 “Yang Dipertua” ertinya Yang Dipertua Majlis Pergigian Malaysia.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## MAJLIS PERGIGIAN MALAYSIA
 
@@ -526,7 +608,7 @@ boleh dihukum dengan pemenjaraan, sama ada hukuman penjara sahaja atau sebagai t
 
 <!-- page 22 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## LEMBAGA JURUTERAPI PERGIGIAN MALAYSIA
 
@@ -658,7 +740,7 @@ tertakluk kepada apa-apa syarat atau sekatan sebagaimana yang difikirkannya patu
 
 23. Anggota Lembaga dan jawatankuasa dan mana-mana orang lain yang diundang untuk menghadiri mana-mana mesyuarat atau pertimbangtelitian Lembaga dan jawatankuasa hendaklah dibayar elaun atau perbelanjaan yang ditentukan oleh Yang Dipertua.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENDAFTARAN PENGAMAL
 
@@ -1182,7 +1264,7 @@ hendaklah memperoleh kelulusan secara bertulis daripada Pendaftar Pergigian sebe
 
 (b) sebagai kehendak Peperiksaan Kelayakan Profesional.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PROSIDING TATATERTIB
 
@@ -1380,7 +1462,7 @@ hendaklah memperoleh kelulusan secara bertulis daripada Pendaftar Pergigian sebe
 
 hendaklah, jika rayuannya dibenarkan, dimasukkan semula dalam Daftar Pergigian atau Daftar Juruterapi Pergigian dan Pendaftar Pergigian atau Pendaftar Juruterapi Pergigian hendaklah mengeluarkan suatu perakuan pendaftaran dan perakuan pengamalan kepadanya.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## KESALAHAN
 
@@ -1514,7 +1596,7 @@ yang mengandungi nama atau gambarnya pada bila-bila masa apabila namanya tiada d
 
 melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi tiga ratus ribu ringgit atau dipenjarakan bagi tempoh tidak melebihi enam tahun atau kedua-duanya.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PENGUATKUASAAN
 
@@ -1598,7 +1680,7 @@ disita, untuk hadir di hadapannya, dan apabila dia hadir atau tidak hadir, setel
 
 <!-- page 67 -->
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## PELBAGAI
 
@@ -1802,7 +1884,7 @@ disita, untuk hadir di hadapannya, dan apabila dia hadir atau tidak hadir, setel
 
 (3) Peraturan-peraturan yang dibuat di bawah seksyen ini boleh menetapkan apa-apa perbuatan yang melanggar peraturan-peraturan sebagai suatu kesalahan dan boleh menetapkan penalti denda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya bagi kesalahan itu.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## PEMANSUHAN, KECUALIAN DAN PERALIHAN
 
@@ -1888,7 +1970,7 @@ perakuan pengamalan yang sah yang dikeluarkan kepadanya di bawah Akta dimansuhka
 
 104. Apa-apa sebutan mengenai Akta dimansuhkan dalam mana-mana undang-undang bertulis hendaklah ditafsirkan sebagai sebutan mengenai Akta ini dan apa-apa sebutan mengenai mana-mana peruntukan tertentu Akta dimansuhkan dalam mana-mana undang-undang bertulis hendaklah ditafsirkan sebagai sebutan mengenai peruntukan Akta ini yang sehampir sama dengan peruntukan tertentu itu.
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
 [Subseksyen 6(6) dan 18(6)]
 
@@ -2040,7 +2122,7 @@ hendaklah, melainkan jika dia terlebih dahulu meletakkan atau mengosongkan jawat
 
 12. Pejabat Majlis dan Lembaga hendaklah berada di tempat sebagaimana yang ditentukan oleh Ketua Pengarah.
 
-## Jadual Kedua
+## JADUAL KEDUA
 
 [Seksyen 2, perenggan 30(a) dan 40(2)(b)]
 
@@ -2094,7 +2176,7 @@ Malaysia
 
 <!-- marginal: Pergigian -->
 
-## Jadual Ketiga
+## JADUAL KETIGA
 
 [Perenggan 35(1)(b)]
 
@@ -2122,157 +2204,47 @@ Kesihatan Malaysia (Pergigian) Georgetown, Pulau Pinang
 
 <!-- page 85 -->
 
-Negara yang Disiplin Institusi yang
+<!-- marginal: Negara yang -->
 
-<!-- marginal: Kelayakan yang -->
+Disiplin Institusi yang Kelayakan yang
 
-kelayakan memberi kelayakan
+<!-- marginal: kelayakan -->
 
-<!-- marginal: dianugerahi -->
+memberi kelayakan dianugerahi
 
-diberikan
+<!-- marginal: diberikan -->
 
-Ortodontik Kolej Latihan
+Ortodontik Kolej Latihan Sijil Pos Basik Pergigian Malaysia Ortodontik Jururawat Pergigian
 
-<!-- marginal: Sijil Pos Basik -->
+Ortodontik Kolej Latihan Sijil Pos Basik Pergigian Malaysia Ortodontik
 
-Pergigian Malaysia
+Ortodontik Sekolah Latihan Sijil Pos Basik pergigian Malaysia Ortodontik
 
-<!-- marginal: Ortodontik -->
+Pembedahan Kolej Latihan Sijil Pos Basik mulut Pergigian Malaysia Bedah Mulut Jururawat Pergigian
 
-<!-- marginal: Jururawat -->
+Pergigian Institut Latihan Sijil Pos Basik Pediatrik Kementerian Pergigian Kesihatan Malaysia Pediatrik (Pergigian) Georgetown, Pulau Pinang
 
-<!-- marginal: Pergigian -->
+Pergigian Kolej Latihan Sijil Pos Basik Pediatrik Pergigian Malaysia Pergigian Pediatrik
 
-Ortodontik Kolej Latihan
+Pergigian Sekolah Latihan Sijil Pos Basik Pediatrik Pergigian Malaysia Pergigian Pediatrik
 
-<!-- marginal: Sijil Pos Basik -->
+Periodontik Institut Latihan Sijil Pos Basik Kementerian Periodontik Kesihatan Malaysia (Pergigian) Georgetown, Pulau Pinang
 
-Pergigian Malaysia
-
-<!-- marginal: Ortodontik -->
-
-Ortodontik Sekolah Latihan
-
-<!-- marginal: Sijil Pos Basik -->
-
-pergigian Malaysia
-
-<!-- marginal: Ortodontik -->
-
-Pembedahan Kolej Latihan
-
-<!-- marginal: Sijil Pos Basik -->
-
-mulut Pergigian Malaysia
-
-<!-- marginal: Bedah Mulut -->
-
-<!-- marginal: Jururawat -->
-
-<!-- marginal: Pergigian -->
-
-Pergigian Institut Latihan
-
-<!-- marginal: Sijil Pos Basik -->
-
-Pediatrik Kementerian
-
-<!-- marginal: Pergigian -->
-
-Kesihatan Malaysia
-
-<!-- marginal: Pediatrik -->
-
-(Pergigian) Georgetown, Pulau Pinang
-
-Pergigian Kolej Latihan
-
-<!-- marginal: Sijil Pos Basik -->
-
-Pediatrik Pergigian Malaysia
-
-<!-- marginal: Pergigian -->
-
-<!-- marginal: Pediatrik -->
-
-Pergigian Sekolah Latihan
-
-<!-- marginal: Sijil Pos Basik -->
-
-Pediatrik Pergigian Malaysia
-
-<!-- marginal: Pergigian -->
-
-<!-- marginal: Pediatrik -->
-
-Periodontik Institut Latihan
-
-<!-- marginal: Sijil Pos Basik -->
-
-Kementerian
-
-<!-- marginal: Periodontik -->
-
-Kesihatan Malaysia (Pergigian) Georgetown, Pulau Pinang
-
-Periodontik Kolej Latihan
-
-<!-- marginal: Sijil Pos Basik -->
-
-Pergigian Malaysia
-
-<!-- marginal: Pengkhususan -->
-
-<!-- marginal: Periodontik -->
+Periodontik Kolej Latihan Sijil Pos Basik Pergigian Malaysia Pengkhususan Periodontik
 
 <!-- page 86 -->
 
-Negara yang Disiplin Institusi yang
-
-<!-- marginal: Kelayakan yang -->
-
-kelayakan memberi kelayakan
+Negara yang Disiplin Institusi yang Kelayakan yang kelayakan memberi kelayakan
 
 <!-- marginal: dianugerahi -->
 
 diberikan
 
-Periodontik Kolej Latihan
+Periodontik Kolej Latihan Sijil Pos Basik Pergigian Malaysia Perawatan Periodontik
 
-<!-- marginal: Sijil Pos Basik -->
+Periodontik Kolej Latihan Sijil Pos Basik Pergigian Malaysia Periodontik Periodontik Sekolah Latihan Sijil Pos Basik Pergigian Malaysia Periodontik Periodontik Kolej Latihan Sijil Pos Basik (Komuniti) Pergigian Malaysia Periodontik
 
-Pergigian Malaysia
-
-<!-- marginal: Perawatan -->
-
-<!-- marginal: Periodontik -->
-
-Periodontik Kolej Latihan
-
-<!-- marginal: Sijil Pos Basik -->
-
-Pergigian Malaysia
-
-<!-- marginal: Periodontik -->
-
-Periodontik Sekolah Latihan
-
-<!-- marginal: Sijil Pos Basik -->
-
-Pergigian Malaysia
-
-<!-- marginal: Periodontik -->
-
-Periodontik Kolej Latihan
-
-<!-- marginal: Sijil Pos Basik -->
-
-(Komuniti) Pergigian Malaysia
-
-<!-- marginal: Periodontik -->
-
-## Jadual KeemPat
+## JADUAL KEEMPAT
 
 [Seksyen 81]
 
@@ -2396,7 +2368,7 @@ pengamalan
 
 <!-- marginal: 250 -->
 
-## Jadual Kelima
+## JADUAL KELIMA
 
 [Subseksyen 43(3) dan (4), subseksyen 50(2) dan perenggan 51(2)(g), (h), (i) dan (j)]
 
@@ -2428,7 +2400,7 @@ pengamalan
 
 (g) penskaleran supra-gingiva dan penggilap.
 
-## Jadual Keenam
+## JADUAL KEENAM
 
 [Subseksyen 43(4), subseksyen 50(2) dan perenggan 51(2)(i) dan (j)]
 
@@ -2508,7 +2480,7 @@ D. Tatacara bagi disiplin pergigian pediatrik
 
 Akta Pergigian 2017 yang dicadangkan (“Akta yang dicadangkan”) bertujuan untuk menubuhkan Majlis Pergigian Malaysia dan Lembaga Juruterapi Pergigian Malaysia. Fungsi Majlis Pergigian Malaysia dan Lembaga Juruterapi Pergigian Malaysia terutamanya ialah untuk mengawal dan mengawal selia pengamal pergigian dan juruterapi pergigian melalui cara pendaftaran serta untuk mengawal selia amalan pergigian. Dengan penubuhan Majlis Pergigian Malaysia yang baharu dan Lembaga Juruterapi Pergigian Malaysia, Majlis Pergigian Malaysia yang ditubuhkan di bawah Akta Pergigian 1971 akan dibubarkan.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan mengandungi perkara permulaan.
 
@@ -2518,7 +2490,7 @@ Fasal 1 mengandungi tajuk ringkas dan bertujuan untuk memberi Menteri kuasa untu
 
 Fasal 2 mengandungi takrif beberapa ungkapan yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 3. Bahagian II Akta yang dicadangkan mengadakan peruntukan bagi penubuhan Majlis Pergigian Malaysia.
 
@@ -2548,7 +2520,7 @@ Fasal 13 bertujuan untuk mengadakan peruntukan bagi elaun atau perbelanjaan bagi
 
 Fasal 14 mengandungi peruntukan tentang pelantikan pekerja Majlis untuk menjalankan maksud Akta yang dicadangkan ini.
 
-## Bahagian III
+## BAHAGIAN III
 
 4. Bahagian III Akta yang dicadangkan mengadakan peruntukan bagi penubuhan Lembaga Juruterapi Pergigian Malaysia.
 
@@ -2572,11 +2544,11 @@ Fasal 23 bertujuan untuk mengadakan peruntukan bagi elaun bagi anggota Lembaga a
 
 <!-- page 92 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 5. Bahagian IV Akta yang dicadangkan memperkatakan pendaftaran pengamal.
 
-## Bab 1 mengandungi peruntukan yang berhubungan dengan daftar.
+Bab 1 mengandungi peruntukan yang berhubungan dengan daftar.
 
 Fasal 24 bertujuan untuk mengadakan peruntukan bahawa Pengarah Kanan hendaklah menjadi Pendaftar Pergigian dan Ketua Profesion Juruterapi Pergigian hendaklah menjadi Pendaftar Juruterapi Pergigian.
 
@@ -2588,7 +2560,7 @@ Fasal 27 bertujuan untuk memberi Pendaftar Pergigian atau Pendaftar Juruterapi P
 
 Fasal 28 bertujuan untuk memasukkan semula nama pengamal yang pendaftarannya telah dipotong di bawah perenggan 27(1)(b), (c) atau (d) dalam Daftar.
 
-## Bab 2 mengandungi peruntukan yang berhubungan dengan pendaftaran.
+Bab 2 mengandungi peruntukan yang berhubungan dengan pendaftaran.
 
 Fasal 29 bertujuan untuk mengadakan peruntukan bagi kelayakan bagi pendaftaran sebagai doktor pergigian.
 
@@ -2608,9 +2580,7 @@ Fasal 35 bertujuan untuk mengadakan peruntukan bagi permohonan bagi pendaftaran 
 
 Fasal 36 bertujuan untuk mengadakan peruntukan bahawa mana-mana orang boleh memohon bagi pendaftaran bersyarat jika pendaftaran itu dikehendaki untuk memenuhi syarat bagi pendaftaran atau pekerjaan di luar Malaysia dengan syarat dia memegang suatu kelayakan yang diberikan oleh institusi latihan tempatan yang diakreditasikan, dia telah diperakui sebagai telah memenuhi kehendak Peperiksaan Kelayakan Profesional dan dia telah membuktikan sehingga Pendaftar Pergigian berpuas hati bahawa dia seorang yang layak dan sesuai dan mempunyai akhlak yang baik.
 
-## Bab 3 mengandungi peruntukan yang berhubungan dengan perakuan
-
-pengamalan.
+Bab 3 mengandungi peruntukan yang berhubungan dengan perakuan pengamalan.
 
 Fasal 37 bertujuan untuk mengadakan peruntukan bahawa orang yang mengamalkan amalan pergigian dikehendaki mempunyai perakuan pengamalan yang sah.
 
@@ -2628,9 +2598,7 @@ Fasal 41 bertujuan untuk mengadakan peruntukan bahawa pengamal pergigian atau ju
 
 Fasal 42 bertujuan untuk mengadakan peruntukan bahawa seseorang pengamal hendaklah mempamerkan perakuan pendaftaran dan perakuan pengamalan semasanya di tempat yang mudah dilihat yang dia menjalankan amalan pergigiannya.
 
-## Bab 4 mengandungi peruntukan yang berhubungan dengan perkara am
-
-mengenai menjalankan amalan sebagai juruterapi pergigian, pemberitahuan pertukaran alamat, penyampaian notis atau persuratan, dsb.
+Bab 4 mengandungi peruntukan yang berhubungan dengan perkara am mengenai menjalankan amalan sebagai juruterapi pergigian, pemberitahuan pertukaran alamat, penyampaian notis atau persuratan, dsb.
 
 Fasal 43 bertujuan untuk mengadakan peruntukan bahawa seseorang juruterapi pergigian dalam sektor swasta hendaklah menjalankan amalan pergigian hanya di bawah pengawasan secara langsung seorang doktor pergigian.
 
@@ -2650,7 +2618,7 @@ Fasal 49 bertujuan untuk mengecualikan semua doktor pergigian daripada pendaftar
 
 Fasal 50 bertujuan untuk mengadakan peruntukan bahawa seseorang yang mengikuti kursus pengajian dalam bidang pergigian, sama ada sebagai pengamal pergigian atau juruterapi pergigian, di institusi latihan tempatan boleh menjalankan, menurut kursus pengajian itu, apa-apa penyiasatan pergigian, pemeriksaan pergigian atau rawatan pergigian ke atas pesakit di mana-mana hospital, klinik, pusat kesihatan, atau institusi lain yang diluluskan oleh Ketua Pengarah bagi maksud fasal ini, dengan syarat penyiasatan, pemeriksaan atau rawatan itu dijalankan oleh orang yang di bawah kawalan dan pengawasan seorang doktor pergigian yang memegang perakuan pengamalan yang sah.
 
-## Bahagian V
+## BAHAGIAN V
 
 6. Bahagian V Akta yang dicadangkan memperkatakan prosiding tatatertib Majlis dan Lembaga.
 
@@ -2678,7 +2646,7 @@ Fasal 60 bertujuan untuk mengadakan peruntukan bahawa mana-mana orang yang terki
 
 Fasal 61 bertujuan untuk mengadakan peruntukan bahawa mana-mana orang yang namanya telah dipotong daripada Daftar Pergigian atau Daftar Juruterapi Pergigian menurut suatu perintah oleh Majlis atau Lembaga di bawah perenggan 58(1)(a) dimasukkan semula dalam Daftar Pergigian atau Daftar Juruterapi Pergigian jika rayuannya dibenarkan dan Pendaftar Pergigian atau Pendaftar Juruterapi Pergigian hendaklah mengeluarkan suatu perakuan pendaftaran dan perakuan pengamalan kepadanya.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 7. Bahagian VI Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan kesalahan.
 
@@ -2700,7 +2668,7 @@ Fasal 68 bertujuan untuk mengadakan peruntukan bagi kesalahan menggaji seseorang
 
 Fasal 69 bertujuan untuk mengadakan peruntukan bagi kesalahan melindungi orang yang tidak berdaftar.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 8. Bahagian VII Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan penguatkuasaan.
 
@@ -2722,7 +2690,7 @@ Fasal 77 bertujuan untuk mengadakan peruntukan bahawa pendakwaan bagi suatu kesa
 
 <!-- page 98 -->
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 9. Bahagian VIII Akta yang dicadangkan memperkatakan peruntukan pelbagai.
 
@@ -2758,7 +2726,7 @@ Fasal 91 bertujuan untuk memberi Menteri kuasa, selepas berunding dengan Majlis,
 
 Fasal 92 bertujuan untuk memberi Majlis kuasa, dengan kelulusan Menteri, untuk membuat peraturan-peraturan di bawah Akta yang dicadangkan.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 10. Bahagian IX Akta yang dicadangkan memperkatakan peruntukan pemansuhan, kecualian dan peralihan.
 

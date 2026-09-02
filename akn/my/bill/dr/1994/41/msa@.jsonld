@@ -1,0 +1,852 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-41-1994",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~sched_2"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Kanun Prosedur Jenayah (Pindaan) 1994"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "@type": "akn:chapter",
+      "eli:number": "XVII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_38"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dan XVIlA."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 179 Kanun adalah dipinda dengan memotong"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "subseksyen (iii)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Kanun adalah dipinda dengan memotong Bab XXI,"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bab XXI, XXII dan XXIII."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Kanun adalah dipinda dengan memotong seksyen"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "252 dan 252A."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 254(i) Kanun adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memotong perkataan \"or in the case of a trial by jury before the return of the verdict,\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_14__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 256 Kanun adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (i) dengan memotong perkataan \"or an inquiry\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (iii) dengan memotong perkataan \"inquiry into or\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 258 Kanun adalah dipinda dengan memotong"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perkataan \"inquiry or\" dan \"if such inquiry result in a commitment or\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_16__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_16__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 261 Kanun adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota birai dengan memotong perkataan \"or inquiry\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"an inquiry or\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_16__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b) kepada proviso dengan memotong perkataan \"or commitment made\", \"or the commitment made\" dan \"inquiry or\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 262(ii) Kanun adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memotong perkataan \"in the course of an inquiry under Chapter XVII, or\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 264 Kanun adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan \"XVII, XIX, XX, XXI and XXII\" dengan perkataan \"XIX and XX\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 267 Kanun adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan \"Chapters XI and XVII\" dengan perkataan \"Chapter XI\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 269 Kanun adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan \"Chapters XI and XVII\" dengan perkataan \"Chapter XI\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_21__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subperenggan 281(b)(ii) Kanun adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"as soon as corweniently may be\" yang mula-mula terdapat perkataan \"after the appeal has been determined by the Court of Appeal\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan .\"dismisses the appeal\" perkataan \"made to it\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_22__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_22__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 288(iv) Kanun adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_22__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"In the case of' perkataan \"an accused sentenced to whipping for an offence under section 403, 404, 406, 407, 408, 409 or 420 of the Penal Code, or\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_22__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan bertentangan dengan perkataan \"Penal Code\" rujukan birai \"P.M.S. Cap. 45.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_23__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_23__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 342 Kanun adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_23__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (i) dengan menggantikan perkataan \"holding a trial or a Magistrate holding an inquiry or\" dengan perkataan \"or a Magistrate holding\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_23__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (iii) dengan memotong perkataan \"inquiry or\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_24__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 343 Kanun adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_24__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (i) dengan menggantikan perkataan \"inquiry or trial, as the case may be\" dengan perkataan \"trial\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (ii) dengan menggantikan perkataan \"inquiry or trial, as the case may be,\" dengan perkataan \"trial\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 345 Kanun adalah dipinda dengan memotong"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perkataan \"inquiry or\" dalam nota birai seksyen itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Kanun adalah dipinda dengan memotong seksyen"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "346."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 349 Kanun adalah dipinda dengan memotong"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perkataan \"or inquiry, as the case may be,\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 376(iv) Kanun adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan \"sections 68(ii), 184(ii), 381, 385 and 386\" dengan perkataan \"section 68(ii)\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Kanun adalah dipinda dengan memotong seksyen"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "381, 382, 383, 384, 385 dan 386."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Kanun adalah dipinda dengan memotong seksyen"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "398."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 401(i) Kanun adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memotong perkataan \"or commit for trial\" dan \"inquiry into or\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Kanun adalah dipinda dengan memotong seksyen"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "402."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_33__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_33__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_33__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 417 Kanun adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_33__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_33__para_a__subpara_iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)— (i) dalam perenggan (a) dengan memotong perkataan \"inquiry or\"; (ii) dalam perenggan (c) dengan memotong perkataan \"inquiry into or\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_33__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_33__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (aa) dengan memotong perkataan \"inquired into or\"; (iv) dalam perenggan (cc) dengan meng- gantikan perkataan \"; or\" dengan noktah; dan (v) dengan memotong perenggan (dd) dan (ee)\\"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_33__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (3)(a) dengan perenggan yang berikut: \"(3) (a) When an order is made under paragraph (cc) of subsection (1) the lower Court before which the trial of the offence against the accused person is pending shall cause the accused person to appear or be brought before the High Court on the date specified in the said order or as soon as may be practicable if no such date is specified.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_33__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4) dengan memotong perkataan \"an inquiry or\" dan \"inquiry or\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 418A(3) Kanun adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memotong perkataan \"without holding a preliminary inquiry under Chapter XVII\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 427 Kanun adalah dipinda dengan memotong"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perkataan \"or committed for trial to\", \"the Court which committed the case for trial or\" dan \"or both\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Kanun adalah dipinda dengan memotong seksyen"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "429."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 439 Kanun adalah dipinda dengan memotong"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perkataan \"or commit for trial\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual Kedua kepada Kanun adalah dipinda dengan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 158(i) Kanun adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memotong perkataan \"or in the case of trials by jury or trials with the aid of assessors before the yerdict of the jury is returned or the opinions of the assessors are expressed\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 177 Kanun adalah dipinda dengan memotong"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perkataan \"or proceed under Chapter XVII with a view 177. to the committal of the accused for trial by the High Court, and shall record such order upon the proceedings\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_8__subsec_3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Kanun adalah dipinda dengan memasukkan selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seksyen 177 dalam Bab XIX seksyen yang berikut: 177A. (1) A prosecution in respect of an offence \"Trans- mission which is to be tried by the High Court in of case accordance with Chapter XX, shall not be to, and trial by, instituted except by or with the consent of the the High Public Prosecutor: Court. Provided that a person may be arrested, or a warrant for his arrest may be issued and executed, and any such person may be remanded in custody notwithstanding that the consent of the Public Prosecutor to the institution of a prosecution for the offence has not been obtained, but the case shall not be further prosecuted until the consent has been obtained. (2) In any prosecution pursuant to subsection (1), the accused shall be produced before the Magistrate's Court which shall, after the charge has been explained to him, transmit the case to the High Court and cause the accused to appear or be brought before such Court as soon as may be practicable: Provided that when the accused is brought before the Magistrate's Court before the Public Prosecutor has consented to the prosecution, the charge shall be explained to him but he shall not be called upon to plead thereto."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "When the accused appears or is brought before the High Court in accordance with subsection (2), the High Court shall fix a date for his trial which shall be held in accordance with the procedure under Chapter XX.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~chp_XVII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Tajuk kepada Bab XX Kanun adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memotong perkataan \"WITHOUT ASSESSORS\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Kanun Prosedur Jenayah (Pindaan) 1994."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Kanun Prosedur Jenayah, yang disebut \"Kanun\" dalam"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini, adalah dipinda dengan memotong seksyen :"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 9 Kanun adalah dipinda dengan memotong"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perenggan (b) dan (c)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 128 Kanun adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (i)(d) dengan memotor perkataan \"either to inquire into or\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (ii) dengan memotong perkataan \"either\" dan \"or committed for trial before the High Court\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Kanun adalah dipinda dengan memotong Bab XV"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~sched_2",
+      "@type": "akn:schedule",
+      "eli:number": "2",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~sched_2__para_39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memotong Borang XXXII dan XXXIX."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~sched_2__para_39",
+      "@type": "akn:paragraph",
+      "eli:number": "39",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~sched_2__para_39__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~sched_2__para_39__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~sched_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~sched_2__para_39__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~sched_2__para_39",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa siasatan permulaan, perbicaraan oleh juri atau perbicaraan dengan bantuan pengapit yang telah dimulakan sebelum atau pada mula berkuatkuasanya Akta ini hendaklah diteruskan atau diselesaikan dalam segala aspek seolah-olah Akta ini telah tidak diluluskan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~sched_2__para_39__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/41/msa@/~sched_2__para_39",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud subseksyen (1), apa-apa siasatan permulaan atau perbicaraan telah dimulakan apabila yang tertuduh telah hadir di hadapan atau telah dibawa di hadapan Mahkamah Majistret atau Mahkamah Tinggi, mengikut mana-mana yang berkenaan, dan keterangan telah mula dikemukakan dalam siasatan atau perbicaraan itu."
+      }
+    }
+  ]
+}

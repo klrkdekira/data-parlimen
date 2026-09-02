@@ -1,0 +1,3243 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-5-2021",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_46",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_47",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_48",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_49",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_50",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_51",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_52",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_53",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_54",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_55",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_56",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_57",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_58",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_59",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_60",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_61",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_62",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_63",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_64",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_65",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_66",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_67",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_68",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_69",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_70",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_71",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_72",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_73",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_74",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_75"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Wildlife Conservation (Amendment) Bill 2021"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 28 of the principal Act is amended by substituting for the words “or wildlife exhibition” wherever appearing the words “, wildlife exhibition, wildlife rehabilitation facility, wildlife training facility or wildlife boarding facility”. Substitution of section 29"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 29 the following section: “Prohibition of possessing, etc., snares 29. (1) No person shall possess, keep, set, place or use any snare except for the purposes of carrying out wildlife research or study on any wildlife. (2) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine of not less than fifty thousand ringgit and not more than one hundred thousand ringgit and to imprisonment for a term not exceeding ten years.”. Deletion of section 30"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 30. Amendment of section 34"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 34 of the principal Act is amended by substituting for the words “or wildlife exhibition” the words “, wildlife exhibition, wildlife rehabilitation facility, wildlife training facility, wildlife boarding facility or a holder of a permit to carry out wildlife control services”. Amendment of section 36"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_14__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_14__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 36 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by inserting after the words “Licensed hunter” the words “or holder of special permit to hunt”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by inserting after the words “a holder of a special permit” the words “to hunt”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_14__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_14__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_14__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_14__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_14__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_14__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “licensed hunter” the words “or holder of a special permit to hunt”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_14__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_14__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “ten thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_14__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_14__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “six months” the words “three years”. Amendment of section 37"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 37 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by inserting after the words “Licensed dealer” the words “, etc.,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15__para_b__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15__para_b__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “licensed dealer” the words “, holder of a special permit to carry out the business of dealing or captive breeder”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (d), by deleting the word “and”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (e), by substituting for the full stop at the end of the paragraph the words “; and”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15__para_b__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (e) the following paragraph: “(f) the record of birth, mortality and loss of commercial captive bred wildlife.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “licensed dealer” the words “, holder of a special permit to carry out the business of dealing or captive breeder”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “ten thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_15__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “six months” the words “three years”. Deletion of sections 38 and 39"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting sections 38 and 39. Amendment of section 40"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_17__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_17__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 40 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the shoulder note the following shoulder note: “Sale of wildlife by licensed hunter or holder of special permit to hunt”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_17__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_17__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_17__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_17__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_17__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “licensed hunter” the words “or holder of a special permit to hunt”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_17__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_17__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “protected wildlife” the words “any wildlife”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_17__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_17__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “or licensed taxidermist” the words “, holder of a special permit to carry out the business of dealing, captive breeder or holder of a permit to operate a zoo”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_17__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_17__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_17__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_17__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_17__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_17__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “licensed hunter” the words “or holder of a special permit to hunt”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_17__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_17__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “twenty thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_17__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_17__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one year” the words “three years”. Amendment of section 41"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 41 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by deleting the words “or licensed taxidermist”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_18__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_18__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_18__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_18__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “twenty thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_18__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_18__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one year” the words “three years”. Amendment of section 42"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_19__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_19__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_19__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_19__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 42 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the shoulder note the following shoulder note: “Purchase of wildlife by licensed dealer or captive breeder”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “(1) A licensed dealer or captive breeder shall purchase or acquire any protected wildlife, or any part or derivative of any protected wildlife or controlled wildlife, only from— (a) a licensed hunter, holder of a special permit to hunt, licensed dealer or captive breeder; or (b) the Director General, the Director or any officer authorized by the Director General, where it is sold by the Director General, the Director or the officer authorized by the Director General pursuant to this Act.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_19__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(1a) A holder of a special permit to carry out the business of dealing or captive breeder shall purchase or acquire any totally protected wildlife or any part or derivative of any totally protected wildlife only from— (a) a holder of a special permit to hunt, holder of a special permit to carry out the business of dealing or captive breeder; or (b) the Director General, the Director or any officer authorized by the Director General, where it is sold by the Director General, the Director or the officer authorized by the Director General pursuant to this Act.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_19__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_19__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_19__para_d__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_19__para_d__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_19__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_19__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “licensed taxidermist” the words “captive breeder”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_19__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_19__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “twenty thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_19__para_d__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_19__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one year” the words “three years”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_19__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: “(3) Any holder of a special permit to carry out the business of dealing or captive breeder who contravenes subsection (1a) commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding three years or to both.”. Amendment of section 43"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Wildlife Conservation Act (Amendment) 2021."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette and the Minister may appoint different dates for the coming into operation of different provisions of this Act. Amendment of section 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2__para_k"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Wildlife Conservation Act 2010 [Act 716], which is referred to as the “principal Act” in this Act, is amended in section 3—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_20__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_20__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_20__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 43 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by inserting after the words “licensed dealer” the words “or holder of special permit to carry out business of dealing”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(1a) A holder of a special permit to carry out the business of dealing may sell any totally protected wildlife during open season until the first thirty days of the close season and shall not henceforth sell any totally protected wildlife unless an open season is subsequently declared for the totally protected wildlife.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_20__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_20__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_20__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_20__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_20__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “twenty thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_20__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_20__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one year” the words “three years”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_20__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsections: “(3) Any holder of a special permit to carry out the business of dealing who contravenes subsection (1a) commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding three years or to both. (4) This section shall not apply to the sale of any offspring of any wildlife from a commercial captive breeding or any part or derivative of any offspring of any wildlife from a commercial captive breeding.”. Amendment of section 44"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_21__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 44 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “licensed taxidermist” the words “holder of a special permit to carry out the business of dealing, captive breeder”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_21__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_21__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_21__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_21__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_21__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “licensed taxidermist” the words “holder of a special permit to carry out the business of dealing, captive breeder”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_21__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_21__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “ten thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_21__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_21__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “six months” the words “three years”. Amendment of section 45"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 45 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “re-export” the words “any wildlife or part or derivative of any wildlife”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “such wildlife” the words “or part or derivative of the wildlife, with a different tagging number”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22__para_a__subpara_iii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22__para_a__subpara_iii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (d)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22__para_a__subpara_iii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22__para_a__subpara_iii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “container” the words “or enclosure”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22__para_a__subpara_iii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22__para_a__subpara_iii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “wildlife” the words “or part or derivative of the wildlife”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by deleting the words “or labelling”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: “(2a) The holder of a licence, permit or special permit shall not alter or replace the tag or label without prior consent of the licensing officer.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “twenty thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_22__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one year” the words “three years”. Amendment of section 46"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_23__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_23__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 46(2) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_23__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “twenty thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_23__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one year” the words “three years”. Amendment of section 48"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 48 of the principal Act is amended by inserting after subsection (2) the following subsection: “(2a) A written application under subsection (2) shall be made in such manner as determined by the Director General and shall be accompanied by prescribed fees.”. Substitution of section 49"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 49 the following section: “Prohibition of certain acts in wildlife reserves and wildlife sanctuaries 49. (1) No person shall in a wildlife reserve and wildlife sanctuary— (a) hunt any wildlife, animal or bird; (b) take, disturb, damage or destroy the nest or egg of any wildlife, animal or bird; or (c) disturb, cut, remove or take any soil, timber or vegetation. (2) Notwithstanding subsection (1), a holder of a permit to carry out research or study in any wildlife reserve or wildlife sanctuary or any person who has been granted a written permission under section 48 to enter a wildlife reserve or a wildlife sanctuary for the purposes of science may, with prior approval of the Director General, hunt any wildlife, animal or bird, or take or disturb the nest or egg of any wildlife, animal or bird, or take any other form of samples, in a wildlife reserve or wildlife sanctuary for the purposes of research, study or science. (3) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding ten years or to both.”. Amendment of section 50"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_26__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_26__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 50(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_26__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “export,” the words “re-export, carry out research on,”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_26__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “wildlife” the words “or any part or derivative of any wildlife”. Amendment of section 51"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_27__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_27__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 51(3) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_27__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “ten thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_27__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “six months” the words “three years”. Amendment of section 53"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_28__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_28__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 53(5) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_28__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “ten thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_28__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “six months” the words “three years”. Amendment of section 54"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_29__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 54(4) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “ten thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “six months” the words “three years”. Amendment of section 55"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of “licensed taxidermist”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “export” the following definition: ‘ “export” means to take or cause to be taken out of Peninsular Malaysia or the Federal Territory of Labuan, by land, sea or air, any wildlife or any part or derivative of any wildlife;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “wildlife”, by substituting for the words “or protected” the words “, protected or controlled”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “wildlife” the following definition: ‘ “controlled wildlife” means any wildlife specified in the Fifth Schedule;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “import” the following definition: ‘ “import” means to bring or cause to be brought into Peninsular Malaysia or the Federal Territory of Labuan, by land, sea or air, any wildlife or any part or derivative of any wildlife;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “aborigine” the following definition: ‘ “wildlife exhibition” means an activity of temporarily displaying wildlife and open to the public;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “enforcement officer” the following definition: ‘ “captive breeder” means a person who is granted a permit to operate a commercial captive breeding under this Act;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “commercial captive breeding” the following definition: ‘ “commercial captive breeding” means a process of wildlife breeding in captivity through parents that mated, or through any reproduction methods, in a controlled environment for commercial purposes;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of “taxidermy business”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of “controlled species”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “business of dealing” the following definition: ‘ “business of dealing” means a business involving the carrying out of the following activities: (a) selling or purchasing for resale any protected wildlife or totally protected wildlife, or any part or derivative of any protected wildlife, totally protected wildlife or controlled wildlife, as food or for medicinal purposes; (b) selling or purchasing for resale any part or derivative of any protected wildlife, totally protected wildlife or controlled wildlife; (c) selling or purchasing for resale any protected wildlife or totally protected wildlife as pets; or (d) selling or purchasing for resale any offspring of any protected wildlife or totally protected wildlife from commercial captive breeding including any part or derivative of such offspring.’. Amendment of section 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 9 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_30__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_30__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 55(4) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_30__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “ten thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_30__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “six months” the words “three years”. Amendment of section 60"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_31__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_31__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 60 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_31__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “two years” the words “three years”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_31__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: “(2) Any person who commits an offence under subsection (1) and which offence involves any protected wildlife from the same species specified in the Eighth Schedule, exceeding five heads, shall, on conviction, be punished with a fine of not less than fifty thousand ringgit or with imprisonment for a term not exceeding three years or with both.”. New section 60a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 60 the following section: “Taking or keeping part or derivative of controlled wildlife without licence 60a. Any person who takes or keeps any part or derivative of any controlled wildlife without a licence commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both.”. Amendment of section 61"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_33__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_33__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 61 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_33__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “not exceeding one hundred thousand ringgit” the words “of not less than twenty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_33__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “five years” the words “seven years”. Amendment of section 62"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_34__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_34__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 62 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_34__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “not exceeding one hundred thousand ringgit” the words “of not less than twenty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_34__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “five years” the words “seven years”. Substitution of section 63"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 63 the following section: “Carrying out business of dealing without licence 63. Any person who carries out the business of dealing involving any protected wildlife, or any part or derivative of any protected wildlife or controlled wildlife, without a licence commits an offence and shall, on conviction— (a) where such person is an individual, be liable to a fine of not less than thirty thousand ringgit and not more than one hundred thousand ringgit or to imprisonment for a term not exceeding three years or to both; or (b) where such person is a body corporate, be liable to a fine of not less than fifty thousand ringgit and not more than one hundred thousand ringgit.”. Amendment of section 64"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_36__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_36__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 64 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_36__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “a fine of not less than twenty thousand ringgit and not more than fifty thousand ringgit” the words “a fine not exceeding fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_36__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “two years” the words “three years”. Amendment of section 65"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_37__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_37__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_37__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_37__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 65 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_37__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by inserting after the words “protected wildlife” the words “or controlled wildlife”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_37__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “any part or derivative of a protected wildlife” the words “or controlled wildlife”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_37__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “a fine of not less than twenty thousand ringgit and not more than fifty thousand ringgit” the words “a fine of not less than fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_37__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one year” the words “fifteen years”. Substitution of section 66"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 66 the following section: “Operating zoo, etc., without permit 66. Any person who operates— (a) a zoo without a permit commits an offence and shall, on conviction, be liable to a fine of not less than fifty thousand ringgit and not more than one hundred thousand ringgit or to imprisonment for a term not exceeding three years or to both; (b) a wildlife exhibition, commercial captive breeding or wildlife rehabilitation facility without a permit commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding three years or to both; or (c) a wildlife training facility or wildlife boarding facility without a permit commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both.”. Amendment of section 67"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_39__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_39__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 67 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_39__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word “protected”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_39__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “two years” the words “three years”. Amendment of section 68"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_3__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_3__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_3__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_3__para_a__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_3__para_a__subpara_v"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_3__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by inserting after the words “protected wildlife” the words “or controlled wildlife”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_3__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (d) the following paragraph: “(d) carry out the business of dealing involving any protected wildlife or any part or derivative of any protected wildlife”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_3__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph (e);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_3__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (f), by substituting for the words “derivative of any protected wildlife,” the words “derivative of any protected wildlife or controlled wildlife;”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_3__para_a__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (f) the following paragraph: “(g) carry out the business of dealing involving any part or derivative of any controlled wildlife,”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by deleting the words “or taxidermy business”. Amendment of section 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 10 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_40__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_40__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 68 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_40__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_40",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “not exceeding one hundred thousand ringgit” the words “of not less than fifty thousand ringgit and not more than five hundred thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_40__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_40__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_40__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_40__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_40",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_40__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_40__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (a) the following paragraph: “(a) any totally protected wildlife specified in the Ninth Schedule or any part or derivative of such wildlife, shall, on conviction, be punished with a fine of not less than thirty thousand ringgit for each wildlife or part or derivative of such wildlife and to imprisonment for a term not exceeding fifteen years;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_40__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_40__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph (b); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_40__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_40__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (c) the following paragraph: “(c) any totally protected wildlife specified in the Tenth Schedule or any part or derivative of such wildlife shall, on conviction, be punished with a fine of not less than one hundred and fifty thousand ringgit for each wildlife or part or derivative of such wildlife and to imprisonment for a term not exceeding fifteen years.”. Amendment of section 69"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_41__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_41__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 69 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_41__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_41__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_41__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_41__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_41__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “not exceeding two hundred thousand ringgit” the words “of not less than twenty thousand ringgit for each immature totally protected wildlife”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_41__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_41__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “ten years” the words “fifteen years”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_41__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_41__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_41__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_41__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_41__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one hundred and fifty thousand ringgit and not more than five hundred thousand ringgit” the words “two hundred thousand ringgit for each wildlife”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_41__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_41__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “five years” the words “fifteen years”. Amendment of section 70"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_42__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_42__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 70 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_42__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “not exceeding three hundred thousand ringgit” the words “of twenty thousand ringgit for each female of a totally protected wildlife but such fine shall not exceed in the aggregate of five hundred thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_42__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_42__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_42__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_42__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_42__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “two hundred thousand ringgit and not more than five hundred thousand ringgit” the words “two hundred and fifty thousand ringgit for each wildlife”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_42__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_42__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “five years” the words “fifteen years”. Amendment of section 71"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_43__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_43__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 71 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_43__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “a fine of not less than thirty thousand ringgit and not more than one hundred thousand ringgit” the words “a fine of twenty thousand ringgit for each totally protected wildlife or part or derivative of totally protected wildlife but such fine shall not exceed in the aggregate of one million ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_43__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “three years” the words “fifteen years”. Deletion of sections 72 and 73"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting sections 72 and 73. New section 73a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 73 the following section: “Carrying out business of dealing without special permit 73a. Any person who carries out the business of dealing involving any totally protected wildlife or any part or derivative of any totally protected wildlife without a special permit commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both.”. Amendment of section 74"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_46__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_46__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 74 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_46__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “twenty thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_46__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one year” the words “three years”. Amendment of section 75"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 75 of the principal Act is amended by substituting for the words “two years” the words “three years”. Deletion of section 76"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_48",
+      "@type": "akn:clause",
+      "eli:number": "48",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 76. Amendment of section 77"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_49",
+      "@type": "akn:clause",
+      "eli:number": "49",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_49__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_49__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 77 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_49__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_49",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “thirty thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_49__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_49",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one year” the words “three years”. Amendment of section 78"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_4__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_4__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_4__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_4__para_a__subpara_i__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_4__para_a__subpara_i__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (d)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_4__para_a__subpara_i__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_4__para_a__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word “protected”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_4__para_a__subpara_i__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_4__para_a__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the comma at the end of the paragraph a semi colon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_4__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (d) the following paragraphs: “(e) carry out research or study in a wildlife reserve or wildlife sanctuary; (f) operate a wildlife rehabilitation facility; (g) operate a wildlife training facility; (h) operate a wildlife boarding facility; (i) carry out wildlife competition; (j) carry out wildlife control services; or (k) use any wildlife in the performance of any religious, customs or cultural activities,”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: “(2) Where any activity under paragraph (1)(a), (b), (c) or (f) involves any protected wildlife or totally protected wildlife, the person shall obtain a licence to keep the protected wildlife pursuant to section 9 or a special permit to keep the totally protected wildlife pursuant to section 11, as the case may be.”. Amendment of section 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 11 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_50",
+      "@type": "akn:clause",
+      "eli:number": "50",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_50__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_50__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 78 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_50__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_50",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “twenty thousand ringgit” the words “one hundred thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_50__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_50",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one year” the words “three years”. Amendment of section 79"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_51",
+      "@type": "akn:clause",
+      "eli:number": "51",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_51__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_51__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 79(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_51__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_51",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “not exceeding fifty thousand ringgit” the words “of not less than twenty thousand ringgit and not more than one hundred thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_51__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_51",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “two years” the words “three years”. Amendment of section 80"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_52",
+      "@type": "akn:clause",
+      "eli:number": "52",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_52__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_52__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 80 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_52__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_52",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “twenty thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_52__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_52",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one year” the words “three years”. Amendment of section 81"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_53",
+      "@type": "akn:clause",
+      "eli:number": "53",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_53__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_53__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 81 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_53__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_53",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “not exceeding fifty thousand ringgit” the words “of not less than twenty thousand ringgit and not more than one hundred thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_53__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_53",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “two years” the words “three years”. Amendment of section 82"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_54",
+      "@type": "akn:clause",
+      "eli:number": "54",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_54__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_54__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 82 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_54__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_54",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “thirty thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_54__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_54",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one year” the words “three years”. Amendment of section 83"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_55",
+      "@type": "akn:clause",
+      "eli:number": "55",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_55__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_55__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 83 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_55__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_55",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “twenty thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_55__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_55",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one year” the words “three years”. Amendment of section 84"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_56",
+      "@type": "akn:clause",
+      "eli:number": "56",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_56__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_56__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 84 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_56__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_56",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “twenty thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_56__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_56",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one year” the words “three years”. Amendment of section 85"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_57",
+      "@type": "akn:clause",
+      "eli:number": "57",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_57__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_57__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 85(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_57__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_57",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “not exceeding fifty thousand ringgit” the words “of not less than twenty thousand ringgit and not more than one hundred thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_57__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_57",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “two years” the words “three years”. Amendment of section 86"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_58",
+      "@type": "akn:clause",
+      "eli:number": "58",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_58__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_58__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_58__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 86(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_58__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_58",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “five thousand ringgit” the words “fifty thousand ringgit”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_58__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_58",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “fifty thousand ringgit” the words “one hundred thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_58__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_58",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one year” the words “three years”. Substitution of section 87"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_59",
+      "@type": "akn:clause",
+      "eli:number": "59",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 87 the following section: “Things containing part or derivative of wildlife 87. Any person who sells or promotes for sale any thing which is claimed to contain any part or derivative of any wildlife which in fact has no such part or derivative commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both.”. Amendment of section 88"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing provision as subsection (1);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_5__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_5__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_5__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1) as renumbered—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_5__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph (d);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_5__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph (e); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_5__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (e) as deleted the following paragraph: “(f) carry out the business of dealing involving any totally protected wildlife or any part or derivative of any totally protected wildlife,”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) as renumbered the following subsection: “(2) For the purposes of paragraph (1)(f), a separate special permit is required for each activity of dealing.”. Amendment of section 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 17 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_60",
+      "@type": "akn:clause",
+      "eli:number": "60",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_60__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_60__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 88 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_60__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_60",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “thirty thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_60__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_60",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one year” the words “three years”. New sections 88a and 88b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_61",
+      "@type": "akn:clause",
+      "eli:number": "61",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 88 the following sections: “Organizing wildlife show 88a. (1) No person shall organize a wildlife show unless he is a holder of a permit to operate a zoo. (2) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both. (3) For the purposes of this section, “wildlife show” means an activity based on the natural behaviour of wildlife which involves performance of wildlife in a special site or stage within the zoo premises and conducted by a wildlife trainer. Promotion of wildlife 88b. (1) No person shall promote any wildlife or any part or derivative of any wildlife for a business of dealing unless he is a licensed dealer or a holder of a special permit to carry out the business of dealing. (2) Any person who contravenes subsection (1) commits an offence and shall, on conviction— (a) where such person is an individual, be liable to a fine of not less than fifty thousand ringgit and not more than one hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both; or (b) where such person is a body corporate, be liable to a fine of not less than eighty thousand ringgit and not more than one hundred and fifty thousand ringgit.”. Amendment of section 101"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_62",
+      "@type": "akn:clause",
+      "eli:number": "62",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_62__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_62__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 101(4) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_62__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_62",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “thirty thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_62__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_62",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one year” the words “three years”. Amendment of section 114"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_63",
+      "@type": "akn:clause",
+      "eli:number": "63",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_63__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_63__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 114 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_63__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_63",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “thirty thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_63__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_63",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one year” the words “three years”. Amendment of section 115"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_64",
+      "@type": "akn:clause",
+      "eli:number": "64",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_64__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_64__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 115(2) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_64__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_64",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “thirty thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_64__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_64",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one year” the words “three years”. Amendment of section 117"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_65",
+      "@type": "akn:clause",
+      "eli:number": "65",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_65__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_65__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_65__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 117 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_65__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_65",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the word “species” the word “wildlife”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_65__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_65__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_65__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_65__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_65",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_65__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_65__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “or export” the words “, export or re-export”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_65__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_65__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “species” the word “wildlife”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_65__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_65__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “Fifth Schedule” the words “except any part or derivative of any controlled wildlife”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_65__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_65__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_65__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_65",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_65__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_65__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “thirty thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_65__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_65__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one year” the words “three years”. Deletion of section 118"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_66",
+      "@type": "akn:clause",
+      "eli:number": "66",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 118. Amendment of section 119"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_67",
+      "@type": "akn:clause",
+      "eli:number": "67",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_67__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_67__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 119(2) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_67__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_67",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “not exceeding fifty thousand ringgit” the words “of not less than twenty thousand ringgit and not more than one hundred thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_67__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_67",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “two years” the words “three years”. Amendment of section 120"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_68",
+      "@type": "akn:clause",
+      "eli:number": "68",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_68__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_68__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_68__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 120 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_68__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_68",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by deleting the word “protected”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_68__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_68",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “(1) Any person, other than a licensed dealer, holder of a special permit to carry out a business of dealing, captive breeder or holder of a permit to operate a zoo shall purchase or acquire any wildlife or any part or derivative of any wildlife only from— (a) a licensed dealer, holder of a special permit to carry out business of dealing or captive breeder; or (b) the Director General, a Director or any officer authorized by the Director General, where it is sold by the Director General, the Director or the officer authorized by the Director General pursuant to this Act.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_68__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_68__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_68__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_68",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_68__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_68__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “twenty thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_68__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_68__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one year” the words “three years”. Amendment of section 122"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_69",
+      "@type": "akn:clause",
+      "eli:number": "69",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_69__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_69__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 122 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_69__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_69",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, by substituting for the word “haiwan” wherever appearing the word “hidupan”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_69__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_69",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by substituting for the words “elephant (Elephas maximus), gaur (Bos gaurus), bear (Helarctos malayanus), tiger (Panthera tigris), leopard (Panthera pardus), panther, wild pig (sus scrofa)” the words “wildlife as specified in the Eleventh Schedule”. New section 123a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_6__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_6__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_6__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (a) the following paragraph: “(a) carry the licence, permit or special permit while hunting any wildlife, taking any part or derivative of any wildlife, carrying out research or study in a wildlife reserve or wildlife sanctuary, carrying out wildlife competition, carrying out wildlife control services or using any wildlife in the performance of any religious, customs or cultural activities; or”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_6__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (b) the following paragraph: “(b) display the licence, permit or special permit at a conspicuous place at his premises, if he is a licensed dealer, captive breeder or a holder of a permit to operate a zoo, wildlife exhibition, wildlife rehabilitation facility, wildlife training facility or wildlife boarding facility; or”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_6__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_6__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_6__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_6__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “ten thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_6__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_6__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “six months” the words “three years”. Amendment of section 21"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 21(2) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_70",
+      "@type": "akn:clause",
+      "eli:number": "70",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 123 the following section: “False information 123a. Any person who makes, orally or in writing, signs or furnishes any document or information required under this Act which is untrue, inaccurate or misleading in any particular commits an offence and shall, on conviction, be liable— (a) where such person is an individual, to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding seven years or to both; or (b) where such person is a body corporate, to a fine not exceeding two hundred thousand ringgit.”. Substitution of section 124"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_71",
+      "@type": "akn:clause",
+      "eli:number": "71",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 124 the following section: “Liability of director, etc., of company, etc. 124. Where any person who commits an offence under this Act or any of its subsidiary legislation is a company, limited liability partnership, firm, society or other body of persons, a person who at the time of the commission of the offence was a director, compliance officer, partner, manager, secretary or other similar officer of the company, limited liability partnership, firm, society or other body of persons or was purporting to act in any such capacity or was in any manner or to any extent responsible for the management of any of the affairs of the company, limited liability partnership, firm, society or other body of persons or was assisting in its management— (a) may be charged severally or jointly in the same proceedings with the company, limited liability partnership, firm, society or other body of persons; and (b) if the company, limited liability partnership, firm, society or other body of persons is found guilty of the offence, shall be deemed to be guilty of that offence and shall be liable to the same punishment or penalty as an individual unless, having regard to the nature of his functions in that capacity and to all circumstances, he proves— (i) that the offence was committed without his knowledge; and (ii) that the offence was committed without his consent or connivance and that he had taken all reasonable precautions and exercised due diligence to prevent the commission of the offence.”. Amendment of section 125"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_72",
+      "@type": "akn:clause",
+      "eli:number": "72",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_72__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_72__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 125 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_72__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_72",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “ten thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_72__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_72",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one year” the words “three years”. Amendment of section 132"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_73",
+      "@type": "akn:clause",
+      "eli:number": "73",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_73__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_73__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_73__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 132(2) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_73__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_73",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (e), by substituting for the words “or wildlife exhibitions” the words “, wildlife exhibitions, wildlife rehabilitation facility, wildlife training facility or wildlife boarding facility”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_73__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_73",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (h), by substituting for the full stop at the end of the paragraph a semicolon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_73__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_73",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (h) the following paragraphs: “(i) regulating wildlife competitions and wildlife control services; and (j) regulating the use of any wildlife in the performance of any religious, customs or cultural activities.”. New Schedules"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_74",
+      "@type": "akn:clause",
+      "eli:number": "74",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after the Seventh Schedule the following schedules: “EIGHTH SCHEDULE [Subsection 60(2)] PROTECTED WILDLIFE FOR THE PURPOSES OF SUBSECTION 60(2) Interpretation of the Eighth Schedule 1. Species included in this Schedule are referred to— (a) by the name of the species; or (b) as being all of the species included in a higher taxon or designated part thereof. 2. The abbreviation “spp.” is used to denote all species of a higher taxon. 3. Other references to taxa higher than species are for the purposes of information or classification only. The common names included after the scientific names of families are for reference only. They are intended to indicate the species within the family concerned that are included in this Schedule. In most cases this is not all of the species within the family. 4. Where there is conflict between a scientific name and a local name and a common name in the use of the name of any species in this Schedule, the scientific name shall prevail. Scientific Name Local Name CLASS AVES Copsychus malabaricus Murai Batu White-rumped Shama Gracula religiosa Tiong Mas Hill Myna Zosterops palpebrosus Kelicap Kunyit Oriental White Eye NINTH SCHEDULE [Paragraph 68(2)(a)] TOTALLY PROTECTED WILDLIFE FOR THE PURPOSES OF PARAGRAPH 68(2)(a) Interpretation of the Ninth Schedule 1. Species included in this Schedule are referred to— (a) by the name of the species; or (b) as being all of the species included in a higher taxon or designated part thereof. 2. The abbreviation “spp.” is used to denote all species of a higher taxon. 3. Other references to taxa higher than species are for the purposes of information or classification only. The common names included after the scientific names of families are for reference only. They are intended to indicate the species within the family concerned that are included in this Schedule. In most cases this is not all of the species within the family. 4. Where there is conflict between a scientific name and a local name and a common name in the use of the name of any species in this Schedule, the scientific name shall prevail. Scientific Name Local Name CLASS REPTILIA Varanus rudicollis Biawak Serunai Varanus dumerilii Biawak Kudung Varanus nebulosus Biawak Puru Python brongersmai Ular Sawa Darah Tomistoma schlegelii Buaya Julung-Julung Geoclemys hamiltonii Kura-kura Kolam Hitam Indotestudo elongata Baning Lonjong Manouria impressa Baning Bukit CLASS AVES Aceros subruficollis Enggang Belantara Argusianus argus Kuang Raya Buceros bicornis Enggang Papan Buceros rhinoceros Enggang Badak Pavo muticus Merak Hijau Polyplectron inopinatum Kuang Cermin Pycnonotus zeylanicus Barau-Barau Rheinardia ocellata Kuang Raya Gunung Rhynoplax vigil Enggang Tebang Mentua TENTH SCHEDULE [Paragraph 68(2)(c)] TOTALLY PROTECTED WILDLIFE FOR THE PURPOSES OF PARAGRAPH 68(2)(c) Interpretation of the Tenth Schedule 1. Species included in this Schedule are referred to— (a) by the name of the species; or (b) as being all of the species included in a higher taxon or designated part thereof. 2. The abbreviation “spp.” is used to denote all species of a higher taxon. 3. Other references to taxa higher than species are for the purposes of information or classification only. The common names included after the scientific names of families are for reference only. They are intended to indicate the species within the family concerned that are included in this Schedule. In most cases this is not all of the species within the family. 4. Where there is conflict between a scientific name and a local name and a common name in the use of the name of any species in this Schedule, the scientific name shall prevail. Scientific Name Local Name CLASS MAMMALIA Arctictis binturong Binturong Bos gaurus Seladang Capricornis sumatraensis Kambing Gurun Catopuma temminckii Kucing Tulap Dicerorhinus sumatrensis Badak Sumatera Helarctos malayanus Beruang Matahari Manis javanica Tenggiling Neofelis nebulosa Harimau Dahan Panthera pardus Harimau Kumbang Panthera tigris Harimau Belang Pardofelis marmorata Kucing Dahan Scientific Name Local Name Prionailurus planiceps Kucing Hutan Prionodon linsang Linsang Prionodon pardicolor Linsang Berbintik Pongo abelii Orang Utan Sumatra Pongo pygmaeus Orang Utan Borneo Rhinoceros sondaicus Badak Raya ELEVENTH SCHEDULE [Subsection 122(4)] DANGEROUS WILDLIFE Interpretation of the Eleventh Schedule 1. Species included in this Schedule are referred to— (a) by the name of the species; or (b) as being all of the species included in a higher taxon or designated part thereof. 2. The abbreviation “spp.” is used to denote all species of a higher taxon. 3. Other references to taxa higher than species are for the purposes of information or classification only. The common names included after the scientific names of families are for reference only. They are intended to indicate the species within the family concerned that are included in this Schedule. In most cases this is not all of the species within the family. 4. Where there is conflict between a scientific name and a local name and a common name in the use of the name of any species in this Schedule, the scientific name shall prevail. Scientific Name Local Name CLASS MAMMALIA Sus scrofa Babi Hutan Wild Pig Macaca nemestrina Beruk Pig-tailed Macaque Macaca fascicularis Kera Long-tailed Macaque CLASS REPTILIA Ophiophagus hannah Ular Tedung Selar King Cobra ”. Savings and transitional"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_75",
+      "@type": "akn:clause",
+      "eli:number": "75",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_75__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_75__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_75__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_75__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_75__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_75__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_75__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_75",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who, on the date of the coming into operation of this Act, is carrying out or undertaking any activity that is subject to a licence, permit or special permit shall, within six months from the date of the coming into operation of this Act, apply for a licence, permit or special permit, as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_75__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_75",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Pending the determination of an application under subsection (1), the person may continue to carry out or undertake the activity."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_75__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_75",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application to enter a wildlife reserve or wildlife sanctuary made before the date of coming into operation of this Act shall be dealt with under the principal Act as if the principal Act had not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_75__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_75",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who holds a licence to carry on the taxidermy business before the date of coming into operation of this Act, shall, on the date of the coming into operation of this Act, be deemed to be a licensed dealer and may continue to carry out the business until the expiry of the licence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_75__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_75",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who holds a special permit to carry out research on any totally protected wildlife before the date of coming into operation of this Act, shall, on the date of the coming into operation of this Act, be deemed to be a holder of a permit to carry out research or study on any wildlife under paragraph 10(1)(d) of the principal Act as amended in this Act until the expiry of the special permit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_75__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_75",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who holds a special permit to use any totally protected wildlife for a zoo, wildlife exhibition or commercial captive breeding before the date of coming into operation of this Act, shall, on the date of the coming into operation of this Act, be deemed to be a holder of a special permit to keep the totally protected wildlife under paragraph 11(a) of the principal Act until the expiry of the special permit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “ten thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “six months” the words “three years”. Amendment of section 22"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 22(2) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “ten thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “six months” the words “three years”. New section 25a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 25 the following section: “Altering, etc., licence, permit or special permit 25a. (1) No person shall— (a) alter, forge, mutilate or deface any licence, permit or special permit; or (b) knowingly use any licence, permit or special permit which has been so altered, forged, mutilated or defaced. (2) Any person who contravenes subsection (1) commits an offence and shall, on conviction— (a) where such person is an individual, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding seven years or to both; or (b) where such person is a body corporate, be liable to a fine not exceeding two hundred thousand ringgit.”. Amendment of section 28"
+      }
+    }
+  ]
+}

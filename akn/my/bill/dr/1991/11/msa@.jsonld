@@ -55,8 +55,7 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/11/msa@/~cl_2__para_a",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/11/msa@/~cl_2__para_b",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/11/msa@/~cl_2__para_c",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/11/msa@/~cl_2__para_d",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/11/msa@/~cl_2__subsec_8"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/11/msa@/~cl_2__para_d"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/11/msa@",
       "schema:name": {
@@ -105,17 +104,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/11/msa@/~cl_2",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan, selepas sahaja sub- seksyen (6), subseksyen baru (7) dan (8) seperti yang berikut: \"(7) Bagi maksud subseksyen (5) atau (6) apa-apa sebutan mengenai perkataan \"lesen\" hendaklah termasuk salinan sahnya yang diperakui."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/11/msa@/~cl_2__subsec_8",
-      "@type": "akn:subsection",
-      "eli:number": "8",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/11/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Pemerakuan mana-mana lesen sebagai suatu salinan yang sah hendaklah dibuat oleh Yang Dipertua, Setiausaha atau mana-mana pegawai yang diberikuasa oleh Yang Dipertua secara bertulis.\"."
+        "@value": "dengan memasukkan, selepas sahaja sub- seksyen (6), subseksyen baru (7) dan (8) seperti yang berikut: \"(7) Bagi maksud subseksyen (5) atau (6) apa-apa sebutan mengenai perkataan \"lesen\" hendaklah termasuk salinan sahnya yang diperakui. (8) Pemerakuan mana-mana lesen sebagai suatu salinan yang sah hendaklah dibuat oleh Yang Dipertua, Setiausaha atau mana-mana pegawai yang diberikuasa oleh Yang Dipertua secara bertulis.\"."
       }
     }
   ]

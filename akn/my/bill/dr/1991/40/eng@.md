@@ -70,7 +70,13 @@ force of this Act.
 
 ## REPEAL
 
-OrdinancelAct Short title Provision Number repealed
+<!-- marginal: OrdinancelAct -->
+
+Short title Provision
+
+<!-- marginal: Number -->
+
+repealed
 
 1. Act 474 Land Development Section 63 (1) Act 1956
 
@@ -104,7 +110,13 @@ Act 1962
 
 ## OF STAMP DUTIES
 
-OrdinancelAct Short title Provision Number repealed
+<!-- marginal: OrdinancelAct -->
+
+Short title Provision
+
+<!-- marginal: Number -->
+
+repealed
 
 13. Act70 Muda Agricultural Section 30 Development Authority Act 1972
 

@@ -182,7 +182,7 @@ B. 62 Kementerian Dalam Negeri
 
 <!-- marginal: 8,672,825,000 -->
 
-Jumlah
+## JUMLAH
 
 <!-- marginal: 129,493,783,700 -->
 

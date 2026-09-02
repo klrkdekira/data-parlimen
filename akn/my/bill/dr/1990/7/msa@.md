@@ -46,7 +46,27 @@ ibu" dalam Akta ini, adalah dipinda, dalam subseksyen
 
 <!-- page 2 -->
 
-3. (1) Jika sesuatu perintah tahanan telah dibuat di Pengesahan perintah bawah subseksyen (1) seksyen 6 Akta ibu terhadap tahanan dan penahanan, mana-mana orang semasa tempoh di antara tarikh mula dan tanggung berkuatkuasanya Akta ibu dan tarikh mula rugi. berkuatkuasanya Akta ini (kemudian daripada ini disebut "tempoh peralihan"), maka perintah tahanan itu dan penahanan yang dibuat menurutnya semasa tempoh peralihan itu, dan penerusannya selepas itu, jika ada, adalah dengan ini diisytiharkan sebagai sah dan menurut undang-undang, dan hendaklah disifatkan sebagai, dan telah sentiasa dan pada setiap masa, sah dan menurut undang-undang walaupun tempoh yang telah diarahkan oleh perintah itu supaya orang itu ditahan telah bermula dari suatu tarikh yang lain daripada tarikh perintah tahanan itu dibuat.
+3. (1) Jika sesuatu perintah tahanan telah dibuat di
+
+<!-- marginal: Pengesahan -->
+
+<!-- marginal: perintah -->
+
+bawah subseksyen (1) seksyen 6 Akta ibu terhadap
+
+<!-- marginal: tahanan dan -->
+
+<!-- marginal: penahanan, -->
+
+mana-mana orang semasa tempoh di antara tarikh mula
+
+<!-- marginal: dan tanggung -->
+
+berkuatkuasanya Akta ibu dan tarikh mula
+
+<!-- marginal: rugi. -->
+
+berkuatkuasanya Akta ini (kemudian daripada ini disebut "tempoh peralihan"), maka perintah tahanan itu dan penahanan yang dibuat menurutnya semasa tempoh peralihan itu, dan penerusannya selepas itu, jika ada, adalah dengan ini diisytiharkan sebagai sah dan menurut undang-undang, dan hendaklah disifatkan sebagai, dan telah sentiasa dan pada setiap masa, sah dan menurut undang-undang walaupun tempoh yang telah diarahkan oleh perintah itu supaya orang itu ditahan telah bermula dari suatu tarikh yang lain daripada tarikh perintah tahanan itu dibuat.
 
 (2) Tiada tindakan, guaman, pendakwaan, atau apa- apa jua presiding undang-undang lain daripada apa-apa perihalan atau dalam apa-apa bentuk boleh dibawa, dimulakan atau dikekalkan di mana-mana mahkamah atas apa-apa alasan selepas mula berkuatkuasanya Akta ini atau, jika dibawa atau dimulakan sebelum mula berkuatkuasanya Akta ini, terus dikekalkan, bagi atau disebabkan oleh, atau berkenaan dengan, apa-apa jua yang dilakukan dengan sahnya berhubungan dengan perintah tahanan atau penahanan yang diisytiharkan sebagai sah dan menurut undang-undang di bawah subseksyen (1), kecuali bahawa peruntukan- peruntukan subseksyen ini tidaklah terpakai bagi apa- apa presiding undang-undang sedemikian yang telah selesai dan keputusan muktamad mahkamah berkenaan dengannya telah diberikan sebelum mula berkuatkuasanya Akta ini, atau bagi apa-apa rayuan berkenaan dengan keputusan muktamad itu.
 

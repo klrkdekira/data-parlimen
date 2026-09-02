@@ -1,0 +1,1017 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-39-2001",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Finance Bill 2001"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_I",
+      "@type": "akn:chapter",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II",
+      "@type": "akn:chapter",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_10"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "AMENDMENTS TO THE INCOME TAX ACT 1967 Commencement of amendments to the Income Tax Act 1967"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III",
+      "@type": "akn:chapter",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_15"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967 Commencement of amendments to the Petroleum (Income Tax)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Sections 12,13,14and 15 shall have effect for year of assessment 2002 and subsequent years of assessment. Amendment of section 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Petroleum (Income Tax) Act 1967, which in this Chapter is referred to as the \"principal Act\", is amended in section 16 by inserting after subsection (7c) the following subsection: \"(7H) There shall be deducted from the relevant gross income an amount equal to the expenditure incurred by a person in the relevant period on the provision of practical training in Malaysia, in relation to his business, to an individual who is— (a) resident in the basis year for a year of assessment; and (b) not an employee of that person.\". Amendment of section 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_13__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 18 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph (1)(7); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (l)(m) the following paragraph: \"(m) any sum paid by way of rentals in respect of a motor vehicle, other than a motor vehicle licensed by the appropriate authority for commercial transportation of goods or passengers, in excess of fifty thousand ringgit: Provided that if the motor vehicle has not been used by any person for any purpose prior to the rental and the total cost of the motor vehicle does not exceed one hundred and fifty thousand ringgit, any sum paid by way of rental in excess of one hundred thousand ringgit: Provided further that the maximum amount of deduction in respect of the rentals of such motor vehicle in the year of assessment and subsequent years of assessment shall not in the aggregate exceed fifty thousand ringgit or one hundred thousand ringgit, as the case may be, in respect of that motor vehicle.\". Amendment of Second Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_14__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_14__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_14__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_14__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_14__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_14__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Second Schedule to the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 3, by substituting for the word \"4\" the word \"3A\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph 3 the following paragraph: \"3A. (1) Subject to subparagraph (2), where a building is purchased for use as an industrial building from a person who constructed that building and that building has not been used by any person for any purpose prior to the purchase, then, for the purposes of this Schedule— (a) the purchaser shall be deemed to have constructed that building and deemed to have incurred capital expenditure on the construction of that building; (b) the purchase price shall be deemed to be the capital expenditure incurred on the construction of that building; and (c) the date of that purchase shall be deemed to be the date of the construction of that building. (2) The capital expenditure incurred by the person who constructed the building and the date of construction of that building by that person to which regard would be had but for this subparagraph shall be disregarded for the purposes of this Schedule.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_14__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 9, by inserting after the word \"construction\" the words \"or purchase\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_14__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 11, by substituting for the words \"to 14\" the words \"and 13\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_14__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_14__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_14__para_e__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 13 —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_14__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_14__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word \"construction\" the words \"or purchase\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_14__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_14__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"two\" the word \"three\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_14__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph 14; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_14__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 15, by deleting the words \"or 14\". Special provision relating to paragraph 13 of Second Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding the provision of paragraph 13 of the Second Schedule to the principal Act, where an annual allowance has been made to a person in respect of a purchased building, and that allowance has been calculated based on a permitted fraction under paragraph 14 of the Second Schedule to the principal Act before coming into operation of the deletion of that paragraph under paragraph I 4( f) of this Act, which is higher than three per cent, the annual allowance for a year of assessment for that building shall be calculated based on the higher fraction and that allowance shall not exceed the amount of the residual expenditure at the end of the basis period for that year of assessment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_10__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_10__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Schedule 7A to the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 1, by substituting for the word \"Where\" the words \"Subject to this Schedule, where\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 1A, by substituting for the word \"Where\" the words \"Subject to this Schedule, where\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph 1A the following paragraph: \"1B. (1) Subject to subparagraph (2), where a company (in this paragraph referred to as \"the acquirer\") has incurred capital expenditure in respect of an asset for the purposes of a qualifying project and that asset is acquired from another company (in this paragraph referred to as \"the disposer\") and at the time of the acquisition— (a) the acquirer of the asset is a person over whom the disposer of the asset has control; (b) the disposer of the asset is a person over whom the acquirer of the asset has control; (c) some other person has control over the acquirer and disposer of the asset; or (d) the acquisition is effected in consequence of a scheme of reconstruction or amalgamation of companies, the acquirer shall be deemed to have incurred that capital expenditure on the asset on the first day of the disposer's final period, of an amount equal to the amount of residual expenditure ascertained under sub- paragraph (3). (2) Where the disposer incurred capital expenditure in relation to the asset referred to in subparagraph (1) on or after the first day of the disposer's final period, the acquirer shall be deemed to have incurred capital expenditure on the asset on the day that disposer incurred capital expenditure, of an amount equal to the amount of capital expenditure incurred by that disposer. (3) For the purposes of subparagraph (1), residual expenditure in relation to an asset shall be the capital expenditure incurred by the disposer reduced by the amount of allowances on that asset under Schedule 3 that has been made or would have been made to the disposer in the basis period or periods before the first day of the disposer's final period. (4) In this paragraph — \"asset\" means a factory, plant or machinery referred to in paragraph 1, or plant, machinery or building referred to in the definition of \"capital expenditure\" in paragraph 9; \"control\", in relation to a company, means the power of a person to secure, by means of the holding of shares or the possession of voting power in or in relation to that or any other company, or by virtue of any powers conferred by the articles of association or other document regulating that or any other company, that the affairs of the first-mentioned company are conducted in accordance with the wishes of that person; \"the disposer's final period\", in relation to the disposal and acquisition of an asset, means the basis period (appropriate to the disposer's business for the purposes of which expenditure has been incurred in relation to the asset) for the year of assessment which coincides with the first year of assessment for which an allowance under Schedule 3 may be made to the acquirer in relation to the asset if it is used for the purposes of a business carried on by the acquirer or as an industrial building.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_10__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 2, by substituting for the word \"five\" the word \"fifteen\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_3__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_3__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_3__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Sections 4, 5, 7, paragraphs 8(a), 8( b ), 8(d), 8(e), 8(f), 8( g ), 8(h), 8(i), 8(j), 8(l), and 8(m), section 9 and paragraphs 10(a), 1 0( b) and l0(c) of this Chapter shall have effect for the year of assessment 2002 and subsequent years of assessment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 8(c) of this Chapter shall be deemed to have come into operation on 1 January 2000 and shall have effect for the year of assessment 2000 in respect of basis period ending in the year 2000 and subsequent years of assessment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 37F of Schedule 3 to the Income Tax Act 1967, which in this Chapter is referred to as the \"principal Act\", as inserted by paragraph 8(k) of this Chapter shall have effect for the year of assessment 2002 and subsequent years of assessment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_3__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraphs 37G and 37H of Schedule 3 to the principal Act as inserted by paragraph 8( k) of this Chapter shall be deemed to have effect for the year of assessment 2001 and subsequent years of assessment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_3__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 1 0( d) shall be deemed to have effect for the year of assessment 1998 and subsequent years of assessment. Amendment of section 34"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended in subsection 34(6) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (l), by deleting the word \"and\" at the end of proviso (b);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the full stop at the end of paragraph (m) the words \"; and\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (m) paragraph: \"(n) an amount equal to the expenditure incurred by a person in the relevant period on the provision of practical training in Malaysia, in relation to his business, to an individual who is— (i) resident in the basis year for a year of assessment; and (ii) not an employee of that person.\". Amendment of section 39"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 39 of the principal Act is amended in subsection (1) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph (h); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (k) the following paragraph: \"(k) any sum paid by way of rentals in respect of a motor vehicle, other than a motor vehicle licensed by the appropriate authority for commercial transportation of goods or passengers, in excess of fifty thousand ringgit: Provided that if the motor vehicle has not been used by any person for any purpose prior to the rental and the total cost of the motor vehicle does not exceed one hundred and fifty thousand ringgit, any sum paid by way of rental in excess of one hundred thousand ringgit: Provided further that the maximum amount of deduction in respect of the rentals of such motor vehicle in the year of assessment and subsequent years of assessment shall not in the aggregate exceed fifty thousand ringgit or one hundred thousand ringgit, as the case may be, in respect of that motor vehicle;\". Amendment of section 75"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 75 of the principal Act is amended in subsection (1) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"Responsibility\" the words \"Notwithstanding anything to the contrary to this Act or any other written law, the responsibility\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"for the purposes of this Act\" the words \"including the payment of tax\". Amendment of Schedule 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Schedule 1 to the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Part I in paragraph 1, by substituting for the existing rates the following rates: \"Chargeable Income RM For every ringgit of the first 2,500 For every ringgit of the next 2,500 For every ringgit of the next 15,000 For every ringgit of the next 15,000 For every ringgit of the next 15,000 13 per cent For every ringgit of the next 20,000 19 per cent For every ringgit of the next 30,000 24 per cent For every ringgit of the next 150,000 27 per cent For every ringgit exceeding 250,000 28 per cent\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Part I in paragraph 1A, by substituting for the word \"29\" the word \"28\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Part IV, by substituting for the existing rates the following rates: \"Chargeable Income RM For every ringgit of the first 20,000 For every ringgit of the next 10,000 For every ringgit of the next 10,000 For every ringgit of the next 10,000 For every ringgit of the next 25,000 12 per cent For every ringgit of the next 25,000 16 per cent For every ringgit of the next 50,000 20 per cent For every ringgit of the next 100,000 23 per cent For every ringgit of the next 250,000 26 per cent For every ringgit exceeding 500,000 28 per cent\". Amendment of Schedule 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_m"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Schedule 3 to the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 3, by substituting for the word \"4\" the word \"3A\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph 3 the following paragraph: \"3A. (1) Subject to subparagraph (2), where a building is purchased for use as an industrial building from a person who constructed that building and that building has not been used by any person for any purpose prior to the purchase, then, for the purposes of this Schedule— (a) the purchaser shall be deemed to have constructed that building and deemed to have incurred capital expenditure on the construction of that building; (b) the purchase price shall be deemed to be the capital expenditure incurred on the construction of that building; and (c) the date of that purchase shall be deemed to be the date of construction of that building. (2) The capital expenditure incurred by the person who constructed the building and the date of construction of that building by that person to which regard would be had but for this subparagraph shall be disregarded for the purposes of this Schedule.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 5—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (1) by substituting for the word \"In\" the words \"Subject to subparagraph (1A), in\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_c__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_c__subpara_ii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in sub-subparagraph (1)(a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_c__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_c__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"following\" the word \"from\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_c__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_c__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"including the particular\" the words \"including the immediately preceding\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subparagraph (1) the following subparagraph: \"(1A) Where the purchased building referred to in subparagraph (1) is constructed prior to 1 January 2000 and that building was first used after its purchase as an industrial building- (a) in the year of assessment 2000, all annual allowances referred to in sub- subparagraph ( l )( a) shall be allowances which could have been claimed or made for the year of assessment following the year of assessment in which the expenditure on the construction of that building was incurred up to and including the year of assessment 2000 (preceding year basis); or (b) in the year of assessment 2001 or any subsequent year of assessment, all annual allowances referred to in sub- subparagraph (1)(a) shall be allowances which could have been claimed or made for the year of assessment following the year of assessment in which the expenditure on the construction of that building was incurred up to and including the year of assessment immediately preceding, the year of assessment 2001 or any subsequent year of assessment in which that building was first used after its purchase as an industrial building, and for the avoidance of doubt, the allowance for the year of assessment 2000 shall consist of the allowances for the year of assessment 2000 (preceding year basis) and year of assessment 2000 (current year basis).\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 12, by inserting after the word \"construction\" the words \"or purchase\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 14, by substituting for the word \"17\" the word \"16A\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph 15A;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_g__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_g__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 16—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_g__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_g",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word \"construction\" the words \"or purchase\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_g__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_g",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"one-fiftieth\" the word \"three-hundredth\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph 17;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 18, by substituting for the words \"15, 16 or 17\" the words \"15 or 16\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 37'c, by substituting for the words \"12, 16 or 17\" the words \"12 or 16\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph 37E the following paragraphs: \"Qualifying expenditure: Building used for hotel 37F. The provisions of this Schedule relating to industrial buildings shall apply, mutatis mutandis, to a building or part thereof used by a person solely for the purpose of an hotel and that hotel is registered with the Ministry of Culture, Arts and Tourism. Qualifying expenditure: Airport 31 G. The provisions of this Schedule relating to industrial buildings shall apply, mutatis mutandis, to an airport and the reference to capital expenditure incurred in relation to that airport shall include the capital expenditure on the construction, reconstruction, extension, improvement or purchase of any building, runway or ancillary structures. Qualifying expenditure: Motor racing circuit 37H. The provisions of this Schedule relating to industrial buildings shall apply, mutatis mutandis, to a motor racing circuit approved by the Minister and the reference to capital expenditure incurred in relation to that motor racing circuit shall include the capital expenditure on the construction, reconstruction, extension or improvement of that motor racing circuit or ancillary structures.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraphs 42A, 42B and 42c, by deleting the words \", 17\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph 65(3), by deleting the words \", hotel\". Special provision relating to paragraph 16 of Schedule 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding the provisions of paragraph 16 of Schedule 3 to the principal Act, where an annual allowance has been made to a person in respect of a purchased building, and that allowance has been calculated based on a permitted fraction under paragraph 17 of Schedule 3 to the principal Act before the coming into operation of the deletion of that paragraph under paragraph 8( h) of this Act, which is higher than three-hundredth, the annual allowance for a year of assessment for that building shall be calculated based on the higher fraction and that allowance shall not exceed the amount of the residual expenditure at the end of the basis period for that year of assessment. Amendment of Schedule 7 A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV",
+      "@type": "akn:chapter",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_21"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "AMENDMENTS TO THE STAMP ACT 1949 Commencement of amendments to the Stamp Act 1949"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Sections 17, 18, 19, 20 and 21 shall have effect from 1 January 2002. Amendment of section 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Stamp Act 1949, which in this Chapter is referred to as the \"principal Act\", is amended in subsection 9(3), by substituting for the words \"Minister of Finance\" the word \"Collector\". New section 38A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_18__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_18__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_18__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_18__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_18__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_18__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_18__subsec_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 38 the following section: 38A. (1) Any person who is dissatisfied with an assessment of the Collector under section 36 may, by written notice (referred to in this Act as \"notice of objection\"), object to the assessment and apply to the Collector to review the assessment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every notice of objection shall state the grounds of objection to the Collector's assessment and shall be made within thirty days after the date of the assessment or such further period as the Collector may allow in any particular case."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_18__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The person giving a notice of objection shall furnish further particulars and information in relation to the grounds of the objection if required to do so by the Collector in writing."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_18__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Collector shall, on receipt of a notice of objection and such further particulars and information as he may require under subsection (3), review the assessment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_18__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "After the objection has been determined, the Collector shall notify the person in writing of his decision."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_18__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where, on review, it appears to the Collector that the amount of duty originally assessed is excessive, he may cancel the original assessment and make such other assessment in substitution of the original assessment and shall serve on the person a notice of substituted assessment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_18__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The making of an objection shall not relieve the person of liability to pay the duty as required by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_18__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any reference in this Act to an assessment shall be construed as including a reference to a substituted assessment under subsection (6).\". Amendment of section 39"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_19__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 39 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: \"(1) Any person who is dissatisfied with the decision of the Collector under section 38A(5) may, within twenty- one days after the person is notified in writing of that decision and upon payment of duty in conformity therewith, appeal against the decision to the High Court by filing a notice of appeal with the High Court and may for that purpose require the Collector to state and sign a case, setting forth the question upon which his opinion was required, and the decision made by him.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: \"(1A) Where a notice of appeal has been filed under subsection (1), the notice shall be served on the Collector within the time stipulated for the filing of the notice of appeal.\". Amendment of section 47A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 47 A of the principal Act is amended by substituting for subsection (2) the following subsection: \"(2) The Collector may, if he thinks fit, reduce or remit such penalty or the further amount payable under section 9(l)(c).\". Amendment of First Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_21__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The First Schedule to the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 27(d), by substituting for the words \"borrowing company in Malaysia approved by the Minister of Finance\" the words \"finance company licensed under the Banking and Financial Institutions Act 1989 or under the Islamic Banking Act 1983 or a scheduled institution as defined under section 2 of the Banking and Financial Institutions Act 1989\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_IV__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 32(c), by substituting for the words \"borrowing company in Malaysia approved by the Minister of Finance\" the words \"finance company licensed under the Banking and Financial Institutions Act 1989 or under the Islamic Banking Act 1983 or a scheduled institution as defined under section 2 of the Banking and Financial Institutions Act 1989\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Finance Act 2001. Amendments of Acts"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/eng@/~chp_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Income Tax Act 1967 [Act 53], the Petroleum (Income Tax) Act 1967 [Act 543] and the Stamp Act 1949 [Act 378] are amended in the manner specified in Chapters II, III and IV respectively."
+      }
+    }
+  ]
+}

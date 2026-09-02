@@ -142,17 +142,23 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 6 -->
 
-(c) dengan memasukkan selepas subseksyen (10A) subseksyen yang berikut:
+(c) dengan memasukkan selepas subseksyen (10A) subseksyen
+
+<!-- marginal: yang berikut: -->
 
 “(10B) The management expenses incurred for the basis period for a year of assessment under —
 
-(a) subsubparagraph (9)(b)(iii)(B) or (C) shall be determined in accordance with the following formula:
+(a) subsubparagraph (9)(b)(iii)(B) or (C) shall be determined in accordance with the following
+
+<!-- marginal: formula: -->
 
 AxC B
 
 where A is the total amount of gross income for that period referred to in subparagraph (9)(a)(iii) excluding the amount of gross income in respect of wakalah fee; B is the total amount of gross income for that period referred to in subparagraph (9)(a)(iii) excluding the amount of gross income in respect of wakalah fee for commission; and C is the total management expenses incurred under subparagraph (9)(b)(iii); or
 
-(b) subsubparagraph (10)(b)(iii)(B) or (C) shall be determined in accordance with the following formula:
+(b) subsubparagraph (10)(b)(iii)(B) or (C) shall be determined in accordance with the following
+
+<!-- marginal: formula: -->
 
 AxC B
 

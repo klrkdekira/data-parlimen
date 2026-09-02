@@ -4,29 +4,39 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Application 3. Interpretation
 
-## Part II
+## PART II
 
 ## ADMINISTRATION OF HOUSEWIVES’ SOCIAL SECURITY SCHEME
 
 4. Administration of Housewives’ Social Security Scheme 5. Director General 6. Powers of Organization to hold properties, etc. 7. Exercise of functions and powers of Organization
 
-## Part III
+## PART III
 
 ## COMMITTEES
 
-8. Housewives Social Security Committee 9. Establishment of committees 10. Non-eligibility for appointment as members of Housewives’ Social Security Committee or committees 11. Cessation of membership of member of Housewives’ Social Security Committee or committees 12. Disclosure of interest
+8. Housewives Social Security Committee 9. Establishment of committees
 
-## Part IV
+10. Non-eligibility for appointment as members of Housewives’ Social Security Committee or committees
+
+11. Cessation of membership of member of Housewives’ Social Security Committee or committees
+
+12. Disclosure of interest
+
+## PART IV
 
 ## IMPLEMENTATION, REGISTRATION AND CONTRIBUTION
 
-13. Implementation of Housewives’ Social Security Scheme 14. Registration
+13. Implementation of Housewives’ Social Security Scheme
+
+14. Registration
+
+<!-- marginal: WJW22/0653 BI Teks.indd 1 -->
 
 <!-- marginal: 7/15/22 8:31 AM -->
 
@@ -42,7 +52,7 @@
 
 19. Power to appoint agent
 
-## Part V
+## PART V
 
 ## BENEFITS
 
@@ -94,19 +104,61 @@
 
 <!-- page 3 -->
 
-42. Obligation of reporting of change in condition, etc. 43. Right of Organization to recover benefit or money 44. Insured housewife who has more than one contribution 45. Insured housewife who is entitled to disability and invalidity benefits
+42. Obligation of reporting of change in condition, etc.
 
-## Part VI
+43. Right of Organization to recover benefit or money
+
+44. Insured housewife who has more than one contribution
+
+45. Insured housewife who is entitled to disability and invalidity benefits
+
+## PART VI
 
 ## DETERMINATION, REVIEW AND APPEAL
 
-46. Determination of question of invalidity or permanent disablement 47. Reference to medical assessor and appeal to Appellate Medical Board 48. Claimant for benefits incapable of being examined by medical assessor or the Appellate Medical Board 49. Review of determination by medical assessor or the Appellate Medical Board 50. Review of morbid allowance 51. Suspension and cessation of morbid allowance
+46. Determination of question of invalidity or permanent disablement
 
-## Part VII
+47. Reference to medical assessor and appeal to Appellate Medical Board
+
+48. Claimant for benefits incapable of being examined by medical assessor or the Appellate Medical Board
+
+49. Review of determination by medical assessor or the Appellate Medical Board
+
+50. Review of morbid allowance
+
+51. Suspension and cessation of morbid allowance
+
+## PART VII
 
 ## FINANCIAL PROVISIONS
 
-52. Housewives’ Social Security Fund 53. Expenditure to be charged on Fund 54. Expenditure on administration 55. Power to accept grants, donations, etc. 56. Power to invest 57. Power to borrow 58. Annual estimates 59. Accounts and reports 60. Audit 61. Annual report 62. Annual report and audited accounts to be laid 63. Valuation of assets and liabilities 64. Imposition of surcharge
+52. Housewives’ Social Security Fund
+
+53. Expenditure to be charged on Fund
+
+54. Expenditure on administration
+
+55. Power to accept grants, donations, etc.
+
+56. Power to invest
+
+57. Power to borrow
+
+58. Annual estimates
+
+59. Accounts and reports
+
+60. Audit
+
+61. Annual report
+
+62. Annual report and audited accounts to be laid
+
+63. Valuation of assets and liabilities
+
+64. Imposition of surcharge
+
+<!-- marginal: WJW22/0653 BI Teks.indd 3 -->
 
 <!-- marginal: 7/15/22 8:31 AM -->
 
@@ -136,7 +188,7 @@
 
 74. Stay of payment pending appeal
 
-## Part IX
+## PART IX
 
 ## ENFORCEMENT AND INVESTIGATION
 
@@ -146,7 +198,7 @@
 
 77. Obstructing, etc., Director General, Deputy Directors General or Inspector
 
-## Part X
+## PART X
 
 ## OFFENCES AND PENALTIES
 
@@ -166,27 +218,55 @@
 
 <!-- page 5 -->
 
-## Part XI
+## PART XI
 
 ## GENERAL
 
-84. Appointment of collection agent 85. Engagement of auditors, actuaries, etc. 86. Director General, Deputy Directors General, Inspector, and officers and servants of Organization entitled to receive salary, allowances, etc. 87. Public servant 88. Power of Organization to establish or take over companies 89. Power to exempt 90. Disposal of documents after more than three years 91. Power to amend Schedules 92. Power to make regulations 93. Recommendation of Committee to review Scheme 94. Organization may deal with authorized person 95. Electronic submission of documents 96. Establishment and maintenance of hospitals, etc. 97. Power to co-operate with existing institutions or promote measures for health, welfare, etc., of insured housewives
+84. Appointment of collection agent
 
-## First schedule
+85. Engagement of auditors, actuaries, etc.
 
-## second schedule
+86. Director General, Deputy Directors General, Inspector, and officers and servants of Organization entitled to receive salary, allowances, etc.
 
-## third schedule
+87. Public servant
 
-## Fourth schedule
+88. Power of Organization to establish or take over companies
 
-## FiFth schedule
+89. Power to exempt
 
-## sixth schedule
+90. Disposal of documents after more than three years
 
-## seventh schedule
+91. Power to amend Schedules
 
-## eighth schedule
+92. Power to make regulations
+
+93. Recommendation of Committee to review Scheme
+
+94. Organization may deal with authorized person
+
+95. Electronic submission of documents
+
+96. Establishment and maintenance of hospitals, etc.
+
+97. Power to co-operate with existing institutions or promote measures for health, welfare, etc., of insured housewives
+
+## FIRST SCHEDULE
+
+## SECOND SCHEDULE
+
+## THIRD SCHEDULE
+
+## FOURTH SCHEDULE
+
+## FIFTH SCHEDULE
+
+## SIXTH SCHEDULE
+
+## SEVENTH SCHEDULE
+
+## EIGHTH SCHEDULE
+
+<!-- marginal: WJW22/0653 BI Teks.indd 5 -->
 
 <!-- marginal: 7/15/22 8:31 AM -->
 
@@ -204,7 +284,7 @@ An Act to provide for the social security for the insured housewives in the form
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -219,6 +299,8 @@ ENACTED by the Parliament of Malaysia as follows:
 2. (1) This Act shall apply to any housewife who is a citizen or a permanent resident of Malaysia registered under section 14.
 
 (2) This Act shall not apply to any housewife described in the First Schedule.
+
+<!-- marginal: WJW22/0653 BI Teks.indd 7 -->
 
 <!-- marginal: 7/15/22 8:31 AM -->
 
@@ -282,6 +364,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “Scheme” means the Housewives’ Social Security Scheme established under section 4;
 
+<!-- marginal: WJW22/0653 BI Teks.indd 9 -->
+
 <!-- marginal: 7/15/22 8:31 AM -->
 
 <!-- page 10 -->
@@ -312,7 +396,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “Tribunal” means the Housewives’ Social Security Tribunal established under section 65.
 
-## Part II
+## PART II
 
 ## ADMINISTRATION OF HOUSEWIVES’ SOCIAL SECURITY SCHEME
 
@@ -336,6 +420,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (5) The terms and conditions of service of the Deputy Directors General appointed under subsection (3) shall be determined by the Minister after consultation with the Minister of Finance.
 
+<!-- marginal: WJW22/0653 BI Teks.indd 11 -->
+
 <!-- marginal: 7/15/22 8:31 AM -->
 
 <!-- page 12 -->
@@ -356,7 +442,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (2) Notwithstanding subsection (1), the Director General may, in writing, delegate any of his powers and functions subject to such terms and restrictions as he thinks fit to the Deputy Directors General, Inspector, or officers and servants of the Organization for the purposes of this Act.
 
-## Part III
+## PART III
 
 ## COMMITTEES
 
@@ -393,6 +479,8 @@ ENACTED by the Parliament of Malaysia as follows:
 (6) The members of the Committee shall be paid such allowances and other expenses as the Board may determine.
 
 (7) The member of the Committee appointed under paragraph (3)(a), (f) or (g) shall hold office on such conditions and for such terms as may be specified in his letter of appointment and is eligible for reappointment for any term as the Minister may determine.
+
+<!-- marginal: WJW22/0653 BI Teks.indd 13 -->
 
 <!-- marginal: 7/15/22 8:31 AM -->
 
@@ -454,6 +542,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (a) a person who has been convicted of an offence involving fraud, cheating, criminal breach of trust, criminal misappropriation of property or any offence involving dishonesty or moral turpitude and sentenced to imprisonment for a term not less than one month or a fine not less than five thousand ringgit;
 
+<!-- marginal: WJW22/0653 BI Teks.indd 15 -->
+
 <!-- marginal: 7/15/22 8:31 AM -->
 
 <!-- page 16 -->
@@ -472,7 +562,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 12. If any member of the Committee, or committee established under section 9, has any direct or indirect interest in any matter being considered by the Committee or committee established under section 9, as the case may be, he shall forthwith declare to the Chairman of the Committee or committee accordingly the nature and extent of his interest in the matter and the member shall not be present or take part in any discussion or decision of the Committee or committee established under section 9, as the case may be, about the matter.
 
-## Part IV
+## PART IV
 
 ## IMPLEMENTATION, REGISTRATION AND CONTRIBUTION
 
@@ -509,6 +599,8 @@ ENACTED by the Parliament of Malaysia as follows:
 (6) All contributions paid under this section shall not be refundable.
 
 (7) The Minister may revise the rates of the contribution and the presumed monthly income after taking into consideration the sustainability of the Fund including the contribution period.
+
+<!-- marginal: WJW22/0653 BI Teks.indd 17 -->
 
 <!-- marginal: 7/15/22 8:31 AM -->
 
@@ -556,6 +648,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (3) All claims for benefit in relation to invalidity, shall be invalidity suffered within the coverage period and the Organization shall reject the claims if the invalidity suffered is not within the coverage period.
 
+<!-- marginal: WJW22/0653 BI Teks.indd 19 -->
+
 <!-- marginal: 7/15/22 8:31 AM -->
 
 <!-- page 20 -->
@@ -568,7 +662,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (3) Any agent who contravenes subsection (2) commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or imprisonment for a term not exceeding two years or to both.
 
-## Part V
+## PART V
 
 ## BENEFITS
 
@@ -615,6 +709,8 @@ ENACTED by the Parliament of Malaysia as follows:
 (2) Subject to this Act, an insured housewife or their dependants, as the case may be, shall be entitled for invalidity benefits as follows:
 
 (a) morbid allowance;
+
+<!-- marginal: WJW22/0653 BI Teks.indd 21 -->
 
 <!-- marginal: 7/15/22 8:31 AM -->
 
@@ -670,6 +766,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (2) For the purposes of subsection (1), where such permanent disablement has been assessed by the medical assessor or the Apellate Medical Board, the benefit shall be payable for that contribution period.
 
+<!-- marginal: WJW22/0653 BI Teks.indd 23 -->
+
 <!-- marginal: 7/15/22 8:31 AM -->
 
 <!-- page 24 -->
@@ -722,6 +820,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (3) The existence of the degree of incapacity qualifying an insured housewife for a constant attendance allowance shall be certified by the medical assessor or the Appellate Medical Board, in such manner as prescribed.
 
+<!-- marginal: WJW22/0653 BI Teks.indd 25 -->
+
 <!-- marginal: 7/15/22 8:31 AM -->
 
 <!-- page 26 -->
@@ -761,6 +861,8 @@ or infirmity, she is no longer capable of carrying out any of the activity of a 
 (2) If the insured housewife’s invalidity has commenced earlier than the date the notice of invalidity is received by the Organization in accordance with the regulations, the date on which the notice of invalidity is received by the Organization, shall be the date of commencement of her invalidity.
 
 (3) If an insured housewife had submitted a notice of invalidity and the notice has been rejected by the Organization on account that the invalidity was not suffered within the coverage period and thereafter the insured housewife submits a subsequent notice of invalidity, the date of the subsequent notice of invalidity received by the Organization shall be treated, for the purposes of subsection (2), as the date on which she has submitted a notice of invalidity.
+
+<!-- marginal: WJW22/0653 BI Teks.indd 27 -->
 
 <!-- marginal: 7/15/22 8:31 AM -->
 
@@ -809,6 +911,8 @@ Provided further that the Organization may continue such pension to a child who 
 (2) If an insured housewife who is in receipt of morbid allowance, or if an insured housewife who has not attained fifty-five years of age but is within coverage period, dies or if an insured housewife dies as a result of a domestic injury suffered within the contribution period, and does not leave a widower or a child, survivors’ pension shall be payable to the insured housewife’s parent until the parent attains the age of fifty-five years or dies, whichever is earlier, at the rates specified in the
 
 ## Fourth Schedule.
+
+<!-- marginal: WJW22/0653 BI Teks.indd 29 -->
 
 <!-- marginal: 7/15/22 8:31 AM -->
 
@@ -864,6 +968,8 @@ Provided further that the Organization may continue such pension to a child who 
 
 (2) An insured housewife who is claiming or in receipt of such benefit shall attend to the health screening or health program as instructed by the Organization which shall be provided by the Organization at no cost.
 
+<!-- marginal: WJW22/0653 BI Teks.indd 31 -->
+
 <!-- marginal: 7/15/22 8:31 AM -->
 
 <!-- page 32 -->
@@ -894,7 +1000,7 @@ Provided further that the Organization may continue such pension to a child who 
 
 <!-- page 33 -->
 
-## Part VI
+## PART VI
 
 ## DETERMINATION, REVIEW AND APPEAL
 
@@ -919,6 +1025,8 @@ Provided further that the Organization may continue such pension to a child who 
 (2) If the claimant for benefit or the Organization is not satisfied with the determination of a medical assessor, the claimant for benefit or the Organization may appeal, in the manner and time as prescribed, to the Appellate Medical Board.
 
 (3) The claimant for any benefit may be called to appear before a medical assessor or, in the event of an appeal by the Organization, before the Appellate Medical Board, in connection with the determination of the question of invalidity or the question of permanent disablement, and may be paid travelling allowances, other allowances and other expenses incurred by her in connection with such appearance in such cases and on such scale and subject to such conditions as may be prescribed by the regulations.
+
+<!-- marginal: WJW22/0653 BI Teks.indd 33 -->
 
 <!-- marginal: 7/15/22 8:31 AM -->
 
@@ -966,6 +1074,8 @@ into account by the determination, substantial injustice will be done by not rev
 
 (b) refuses or neglects without good cause to comply with any directive issued to her by or on behalf of the Organization with regard to any process of physical rehabilitation which she is required to undergo at no cost; or
 
+<!-- marginal: WJW22/0653 BI Teks.indd 35 -->
+
 <!-- marginal: 7/15/22 8:31 AM -->
 
 <!-- page 36 -->
@@ -982,7 +1092,7 @@ Provided that she shall not be required to undergo any operation that is capable
 
 (c) the recipient has committed or engaged in an illegal act.
 
-## Part VII
+## PART VII
 
 ## FINANCIAL PROVISIONS
 
@@ -1028,6 +1138,8 @@ Provided that she shall not be required to undergo any operation that is capable
 
 (c) the payment to the Government, local authority or any private body or individual for the costs of medical treatment and attendance, facilities for physical rehabilitation or dialysis provided to insured housewives;
 
+<!-- marginal: WJW22/0653 BI Teks.indd 37 -->
+
 <!-- marginal: 7/15/22 8:31 AM -->
 
 <!-- page 38 -->
@@ -1071,6 +1183,8 @@ Provided that she shall not be required to undergo any operation that is capable
 55. (1) The Organization may accept grants, donations and gifts or bequests made to or in favour of the Fund.
 
 (2) The Organization may expand the grants, donations and gifts or bequests for the purposes of corporate social responsibility related to the health, safety, welfare and well-being of housewives.
+
+<!-- marginal: WJW22/0653 BI Teks.indd 39 -->
 
 <!-- marginal: 7/15/22 8:31 AM -->
 
@@ -1126,6 +1240,8 @@ or realization, the bank in which the Fund may be deposited, the raising and rep
 
 (b) a report of the works and activities of the Organization.
 
+<!-- marginal: WJW22/0653 BI Teks.indd 41 -->
+
 <!-- marginal: 7/15/22 8:31 AM -->
 
 <!-- page 42 -->
@@ -1177,6 +1293,8 @@ or realization, the bank in which the Fund may be deposited, the raising and rep
 (a) in the case of paragraphs (1)(a) and (b), surcharge against the person, a sum not exceeding the amount not collected, or of the improper payment made, or of the deficiency in the value of, or loss of, the moneys, securities, stores or other properties of the Organization; and
 
 (b) in the case of paragraphs (1)(c) and (d), surcharge against the person such sum as the Board thinks fit.
+
+<!-- marginal: WJW22/0653 BI Teks.indd 43 -->
 
 <!-- marginal: 7/15/22 8:31 AM -->
 
@@ -1238,6 +1356,8 @@ by equal monthly instalments not exceeding one-fourth of the total monthly salar
 
 (f) any direction or instruction issued by the Organization, under this Act or any regulations made under this Act;
 
+<!-- marginal: WJW22/0653 BI Teks.indd 45 -->
+
 <!-- marginal: 7/15/22 8:31 AM -->
 
 <!-- page 46 -->
@@ -1284,6 +1404,8 @@ by equal monthly instalments not exceeding one-fourth of the total monthly salar
 
 (iii) in relation to funeral benefit, the claimant;
 
+<!-- marginal: WJW22/0653 BI Teks.indd 47 -->
+
 <!-- marginal: 7/15/22 8:31 AM -->
 
 <!-- page 48 -->
@@ -1326,7 +1448,7 @@ by equal monthly instalments not exceeding one-fourth of the total monthly salar
 
 74. Where the Organization has made an appeal against an order of the Tribunal, the Tribunal may, and if directed by the High Court shall, pending the decision of the appeal, withhold the order appealed against relating to the payment of any sum of money.
 
-## Part IX
+## PART IX
 
 ## ENFORCEMENT AND INVESTIGATION
 
@@ -1335,6 +1457,8 @@ by equal monthly instalments not exceeding one-fourth of the total monthly salar
 75. (1) The Director General may, in writing, direct any Inspector to exercise his powers and perform his functions conferred by the Employees’ Social Security Act 1969 for carrying into effect the purposes of this Act.
 
 (2) The Inspector shall have all the powers of a police officer of whatever rank as provided for under the Criminal Procedure Code [Act 593], except the power to arrest without warrant, in relation to enforcement, inspection and investigation, and such powers shall be in addition to the powers conferred by this Act and not in derogation thereof.
+
+<!-- marginal: WJW22/0653 BI Teks.indd 49 -->
 
 <!-- marginal: 7/15/22 8:31 AM -->
 
@@ -1372,7 +1496,7 @@ by equal monthly instalments not exceeding one-fourth of the total monthly salar
 
 commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
-## Part X
+## PART X
 
 ## OFFENCES AND PENALTIES
 
@@ -1383,6 +1507,8 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding t
 (a) provides or causes any person to provide any information or document to the Organization which he knows or has reason to believe is false or misleading; or
 
 (b) makes in writing or signs any declaration, form, report, certificate or other document required by this Act or any regulations made under this Act which is untrue or incorrect in any material particular,
+
+<!-- marginal: WJW22/0653 BI Teks.indd 51 -->
 
 <!-- marginal: 7/15/22 8:31 AM -->
 
@@ -1436,6 +1562,8 @@ the court directs payment of the sum of money to be made by instalments, the cou
 
 (2) The Director General or any officer of the Organization authorized in writing by the Director General may, with the consent in writing of the Public Prosecutor, at any time before a prosecution is instituted, compound any offence which may be compounded by making a written offer to the person reasonably suspected of having committed the offence upon payment to the Director General, a sum of money not exceeding fifty per centum
 
+<!-- marginal: WJW22/0653 BI Teks.indd 53 -->
+
 <!-- marginal: 7/15/22 8:31 AM -->
 
 <!-- page 54 -->
@@ -1448,7 +1576,7 @@ of the amount of the maximum fine to which the person would have been liable to 
 
 (5) All sums of moneys received by the Director General under this section shall be paid into and form part of the Fund.
 
-## Part XI
+## PART XI
 
 ## GENERAL
 
@@ -1487,6 +1615,8 @@ of the amount of the maximum fine to which the person would have been liable to 
 89. The Minister may, by order published in the Gazette and subject to such terms and conditions specified in the order, exempt—
 
 (a) any housewife or husband to the housewife; or
+
+<!-- marginal: WJW22/0653 BI Teks.indd 55 -->
 
 <!-- marginal: 7/15/22 8:31 AM -->
 
@@ -1546,6 +1676,8 @@ from any of the provisions of this Act or any regulations made under this Act.
 
 (iii) the contribution including the rate of contribution paid in advance and payment of contribution paid in advance by a husband or an insured housewife;
 
+<!-- marginal: WJW22/0653 BI Teks.indd 57 -->
+
 <!-- marginal: 7/15/22 8:31 AM -->
 
 <!-- page 58 -->
@@ -1567,6 +1699,8 @@ from any of the provisions of this Act or any regulations made under this Act.
 (xi) the manner of the appointment of, payment of allowance of and procedure for determination by, medical assessor;
 
 (xii) the manner of the appointment and duty of a medical officer;
+
+<!-- marginal: WJW22/0653 BI Teks.indd 58 -->
 
 <!-- marginal: 7/15/22 8:31 AM -->
 
@@ -1593,6 +1727,8 @@ from any of the provisions of this Act or any regulations made under this Act.
 (c) may include—
 
 (i) a proposal for a new rate of contribution paid in advance;
+
+<!-- marginal: WJW22/0653 BI Teks.indd 59 -->
 
 <!-- marginal: 7/15/22 8:31 AM -->
 
@@ -1638,7 +1774,7 @@ from any of the provisions of this Act or any regulations made under this Act.
 
 (3) The measures under subsection (1) may include the provision of artificial limbs and appliances under suitable conditions and convalescent or shelter homes.
 
-## First schedule
+## FIRST SCHEDULE
 
 [Subsection 2(2)]
 
@@ -1646,11 +1782,13 @@ from any of the provisions of this Act or any regulations made under this Act.
 
 2. Housewife who has attained the age of fifty-four years and in respect of whom no contribution were payable under this Act before she attained the age of fifty-four years.
 
+<!-- marginal: WJW22/0653 BI Teks.indd 61 -->
+
 <!-- marginal: 7/15/22 8:31 AM -->
 
 <!-- page 62 -->
 
-## second schedule
+## SECOND SCHEDULE
 
 [Sections 25 and 26]
 
@@ -1760,121 +1898,93 @@ end-bearing stumps
 
 <!-- page 63 -->
 
-No. Description of Injury
-
-<!-- marginal: Percentage -->
+No. Description of Injury Percentage
 
 <!-- marginal: Maximum -->
 
-<!-- marginal: of Loss -->
+of Loss
 
 <!-- marginal: Amount of -->
 
-<!-- marginal: of Ability -->
+of Ability
 
 <!-- marginal: Lump Sum -->
 
-<!-- marginal: Capacity -->
+Capacity
 
 <!-- marginal: Payment -->
 
-18. Amputation through both feet proximal
-
-<!-- marginal: 80 -->
+18. Amputation through both feet proximal 80
 
 <!-- marginal: RM24,000 -->
 
 to the metatarso-phalangeal joint
 
-19. Loss of all toes of both feet through the
-
-<!-- marginal: 40 -->
+19. Loss of all toes of both feet through the 40
 
 <!-- marginal: RM12,000 -->
 
 metatarso-phalangeal joint
 
-20. Loss of all toes of both feet proximal
-
-<!-- marginal: 30 -->
+20. Loss of all toes of both feet proximal 30
 
 <!-- marginal: RM9,000 -->
 
 to the proximal inter-phalangeal joint
 
-21. Loss of all toes of both feet distal to the
-
-<!-- marginal: 20 -->
+21. Loss of all toes of both feet distal to the 20
 
 <!-- marginal: RM6,000 -->
 
 proximal inter-phalangeal joint
 
-22. Amputation at hip
-
-<!-- marginal: 90 -->
+22. Amputation at hip 90
 
 <!-- marginal: RM27,000 -->
 
-23. Amputation below hip with stump not
-
-<!-- marginal: 80 -->
+23. Amputation below hip with stump not 80
 
 <!-- marginal: RM24,000 -->
 
 exceeding 5” in length measured from tip of great trochanter
 
-24. Amputation below hip with stump
-
-<!-- marginal: 70 -->
+24. Amputation below hip with stump 70
 
 <!-- marginal: RM21,000 -->
 
 exceeding 5” in length measured from tip of great trochanter but not beyond middle thigh
 
-25. Amputation below middle thigh to 3½”
-
-<!-- marginal: 60 -->
+25. Amputation below middle thigh to 3½” 60
 
 <!-- marginal: RM18,000 -->
 
 below knee
 
-26. Amputation below knee with stump
-
-<!-- marginal: 50 -->
+26. Amputation below knee with stump 50
 
 <!-- marginal: RM15,000 -->
 
 exceeding 3½” but not exceeding 5”
 
-27. Amputation below knee with stump
-
-<!-- marginal: 40 -->
+27. Amputation below knee with stump 40
 
 <!-- marginal: RM12,000 -->
 
 exceeding 5”
 
-28. Amputation of one foot resulting in
-
-<!-- marginal: 30 -->
+28. Amputation of one foot resulting in 30
 
 <!-- marginal: RM9,000 -->
 
 end-bearing
 
-29. Amputation through one foot proximal
-
-<!-- marginal: 30 -->
+29. Amputation through one foot proximal 30
 
 <!-- marginal: RM9,000 -->
 
 to the metatarso-phalangeal joint
 
-30. Loss of all toes of one foot through the
-
-<!-- marginal: 20 -->
+30. Loss of all toes of one foot through the 20
 
 <!-- marginal: RM6,000 -->
 
@@ -1882,21 +1992,19 @@ metatarso-phalangeal joint
 
 Other injuries
 
-31. Loss of one eye, without
-
-<!-- marginal: 40 -->
+31. Loss of one eye, without 40
 
 <!-- marginal: RM12,000 -->
 
 complications, the other being normal
 
-32. Loss of vision of one eye without
-
-<!-- marginal: 30 -->
+32. Loss of vision of one eye without 30
 
 <!-- marginal: RM9,000 -->
 
 complications or disfigurement of eye-ball, the other being normal
+
+<!-- marginal: WJW22/0653 BI Teks.indd 63 -->
 
 <!-- marginal: 7/15/22 8:31 AM -->
 
@@ -1936,15 +2044,11 @@ Index finger
 
 <!-- marginal: RM3,300 -->
 
-36. One phalanx
-
-<!-- marginal: 9 -->
+36. One phalanx 9
 
 <!-- marginal: RM2,700 -->
 
-37. Guillotine amputation of tip without
-
-<!-- marginal: 5 -->
+37. Guillotine amputation of tip without 5
 
 <!-- marginal: RM1,500 -->
 
@@ -1956,21 +2060,15 @@ Middle finger
 
 <!-- marginal: RM3,600 -->
 
-39. Two phalanges
-
-<!-- marginal: 9 -->
+39. Two phalanges 9
 
 <!-- marginal: RM2,700 -->
 
-40. One phalanx
-
-<!-- marginal: 7 -->
+40. One phalanx 7
 
 <!-- marginal: RM2,100 -->
 
-41. Guillotine amputation of tip without
-
-<!-- marginal: 4 -->
+41. Guillotine amputation of tip without 4
 
 <!-- marginal: RM1,200 -->
 
@@ -1978,27 +2076,19 @@ loss of bone
 
 Ring or little finger
 
-42. Whole
-
-<!-- marginal: 7 -->
+42. Whole 7
 
 <!-- marginal: RM2,100 -->
 
-43. Two phalanges
-
-<!-- marginal: 6 -->
+43. Two phalanges 6
 
 <!-- marginal: RM1,800 -->
 
-44. One phalanx
-
-<!-- marginal: 5 -->
+44. One phalanx 5
 
 <!-- marginal: RM1,500 -->
 
-45. Guillotine amputation of tip without
-
-<!-- marginal: 2 -->
+45. Guillotine amputation of tip without 2
 
 <!-- marginal: RM600 -->
 
@@ -2012,23 +2102,17 @@ Great toe
 
 <!-- marginal: RM4,200 -->
 
-47. Part, with some loss of bone
-
-<!-- marginal: 3 -->
+47. Part, with some loss of bone 3
 
 <!-- marginal: RM900 -->
 
 Any other toe
 
-48. Through metatarso-phalangeal joint
-
-<!-- marginal: 3 -->
+48. Through metatarso-phalangeal joint 3
 
 <!-- marginal: RM900 -->
 
-49. Part, with some loss of bone
-
-<!-- marginal: 1 -->
+49. Part, with some loss of bone 1
 
 <!-- marginal: RM300 -->
 
@@ -2036,21 +2120,19 @@ Any other toe
 
 <!-- page 65 -->
 
-No. Description of Injury
-
-<!-- marginal: Percentage -->
+No. Description of Injury Percentage
 
 <!-- marginal: Maximum -->
 
-<!-- marginal: of Loss -->
+of Loss
 
 <!-- marginal: Amount of -->
 
-<!-- marginal: of Ability -->
+of Ability
 
 <!-- marginal: Lump Sum -->
 
-<!-- marginal: Capacity -->
+Capacity
 
 <!-- marginal: Payment -->
 
@@ -2104,7 +2186,7 @@ Four toes of one foot, excluding great toe
 
 2. For the purpose of determining a permanent disablement, this Schedule shall be read together with the guidelines on Impairment and Disability Assessment issued by the Organization.
 
-## third schedule
+## THIRD SCHEDULE
 
 [Sections 15 and 35]
 
@@ -2112,19 +2194,15 @@ Four toes of one foot, excluding great toe
 
 The rates of payment for contribution paid in advance is based on the amount of presumed monthly income for housewives and shall be calculated with reference to twelve months and paid at the following rates:
 
-No. Presumed Monthly Income Contribution for Twelve Months
+No. Presumed Monthly Income Contribution for Twelve Months per housewife 1. RM600 RM120
 
-<!-- marginal: per housewife -->
-
-1. RM600
-
-<!-- marginal: RM120 -->
+<!-- marginal: WJW22/0653 BI Teks.indd 65 -->
 
 <!-- marginal: 7/15/22 8:31 AM -->
 
 <!-- page 66 -->
 
-## Fourth schedule
+## FOURTH SCHEDULE
 
 [Sections 31 and 36]
 
@@ -2146,7 +2224,7 @@ Provided further that the daily rate of survivors’ pension for each child shal
 
 4. If an insured housewife who is in receipt of morbid allowance, or if she has not attained fifty-five years of age but is within coverage period, dies or if an insured housewife dies as a result of a domestic injury suffered within the contribution period, and does not leave a widower or child, survivors’ pension shall be payable to a parent, an amount equivalent to four-tenths of the daily rate of survivors’ pension, and if there are two or more parents, the amount payable shall be divided equally among them.
 
-## FiFth schedule
+## FIFTH SCHEDULE
 
 [Subsection 22(3)]
 
@@ -2158,7 +2236,7 @@ Two hundred ringgit per month until she attains the age of fifty-five years or d
 
 <!-- page 67 -->
 
-## sixth schedule
+## SIXTH SCHEDULE
 
 [Section 29]
 
@@ -2166,7 +2244,7 @@ Two hundred ringgit per month until she attains the age of fifty-five years or d
 
 One-off payment of two thousand ringgit.
 
-## seventh schedule
+## SEVENTH SCHEDULE
 
 [Section 30]
 
@@ -2174,7 +2252,7 @@ One-off payment of two thousand ringgit.
 
 Two hundred and fifty ringgit per month until the housewife is certified to be no longer having the degree of incapacity qualifying her to receive the constant attendance allowance by medical assessor or the Appellate Medical Board or until the housewife has attained the age of fifty-five years or dies, whichever is earlier.
 
-## eighth schedule
+## EIGHTH SCHEDULE
 
 [Section 37]
 
@@ -2186,7 +2264,7 @@ The maximum amount to be expended on physical rehabilitation shall be fifty thou
 
 The proposed Housewives’ Social Security Act 2022 (“the proposed Act”) seeks to provide for social security for the insured housewives in the form of certain benefits, for the improvement of health, safety, welfare and well-being of the housewives, and to provide for matters connected therewith.
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act deals with preliminary matters.
 
@@ -2194,13 +2272,15 @@ The proposed Housewives’ Social Security Act 2022 (“the proposed Act”) see
 
 4. Clause 2 contains the application of the proposed Act.
 
+<!-- marginal: WJW22/0653 BI Teks.indd 67 -->
+
 <!-- marginal: 7/15/22 8:31 AM -->
 
 <!-- page 68 -->
 
 5. Clause 3 contains the definitions of certain words and expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 6. Part II of the proposed Act deals with the provisions relating to the administration of the Housewives’ Social Security Scheme (“Scheme”).
 
@@ -2212,7 +2292,7 @@ The proposed Housewives’ Social Security Act 2022 (“the proposed Act”) see
 
 10. Clause 7 seeks to empower the Director General to exercise all functions including powers of the Organization and the Director General may delegate his powers and functions to the Deputy Directors General, Inspector, or officers and servants of the Organization.
 
-## Part III
+## PART III
 
 11. Part III of the proposed Act deals with the establishment of the Housewives’ Social Security Committee (“Committee”) and any other commitees.
 
@@ -2230,7 +2310,7 @@ The proposed Housewives’ Social Security Act 2022 (“the proposed Act”) see
 
 16. Clause 12 seeks to provide for disclosure of interest of any member of the Committee or any committee established under clause 9 if he has any direct or indirect interest in any matter being considered by the Committee or any committee.
 
-## Part IV
+## PART IV
 
 17. Part IV of the proposed Act deals with the provisions relating to the implementation, registration and contribution.
 
@@ -2252,6 +2332,8 @@ Subclause 15(11) seeks to provide for an offence to the husband who fails to pay
 
 Subclause 15(12) seeks to provide that if the husband is unable to pay due to loss of income or for any other reasons, the husband shall notify the Organization sixty days before the expiry of the existing contribution period.
 
+<!-- marginal: WJW22/0653 BI Teks.indd 69 -->
+
 <!-- marginal: 7/15/22 8:31 AM -->
 
 <!-- page 70 -->
@@ -2266,7 +2348,7 @@ Subclause 15(13) seeks to provide for an offence to the employer who fails to co
 
 24. Clause 19 seeks to empower the Organization to appoint agents to collect and receive payment of contributions on behalf of the Organization. This clause also imposes a duty on the agents appointed to inform the Organization the actual time and date of the payment of the contributions made by or on behalf of the insured housewife and the failure to do so constitutes an offence.
 
-## Part V
+## PART V
 
 25. Part V of the proposed Act deals with the provisions of benefits payable under the proposed Act and the entitlement of a person to the benefits.
 
@@ -2306,6 +2388,8 @@ Subclause 15(13) seeks to provide for an offence to the employer who fails to co
 
 41. Clause 35 seeks to provide that the rate of monthly morbid allowance shall be fifty per cent of the presumed monthly income.
 
+<!-- marginal: WJW22/0653 BI Teks.indd 71 -->
+
 <!-- marginal: 7/15/22 8:31 AM -->
 
 <!-- page 72 -->
@@ -2330,7 +2414,7 @@ Subclause 15(13) seeks to provide for an offence to the employer who fails to co
 
 51. Clause 45 deals with a situation whereby an insured housewife is entitled to both disability and invalidity benefits due to the same disablement under the proposed Act, the insured housewife shall be entitled to receive only one benefit under the proposed Act in a manner as prescribed.
 
-## Part VI
+## PART VI
 
 52. Part VI of the proposed Act deals with the determination of question of permanent disablement and invalidity by a medical assessor and provisions on review and appeal by a medical assessor and Appellate Medical Board.
 
@@ -2354,7 +2438,7 @@ Subclauses 49(3) and (5) further seeks to provide that a medical assessor may al
 
 58. Clause 51 seeks to provide for circumstances whereby the Organization may suspend and cease the payment of morbid allowance being received by an insured housewife.
 
-## Part VII
+## PART VII
 
 59. Part VII of the proposed Act deals with the financial provisions.
 
@@ -2363,6 +2447,8 @@ Subclauses 49(3) and (5) further seeks to provide that a medical assessor may al
 61. Clause 53 seeks to provide for the expenditure to be charged on the Fund.
 
 62. Clause 54 seeks to provide for the expenditure on administration. This clause also empowers the Board to delegate to the to the Chairman of the Board, Director General, Deputy Directors General, any of the members of the
+
+<!-- marginal: WJW22/0653 BI Teks.indd 73 -->
 
 <!-- marginal: 7/15/22 8:31 AM -->
 
@@ -2418,11 +2504,13 @@ Board, the Committee or committees, Inspector, or officers and servants of the O
 
 83. Clause 74 seeks to empower the Tribunal to withhold the order appealed against relating to the payment of any sum pending appeal in the High Court.
 
+<!-- marginal: WJW22/0653 BI Teks.indd 75 -->
+
 <!-- marginal: 7/15/22 8:31 AM -->
 
 <!-- page 76 -->
 
-## Part IX
+## PART IX
 
 84. Part IX of the proposed Act deals with the provisions relating to enforcement and investigation.
 
@@ -2432,7 +2520,7 @@ Board, the Committee or committees, Inspector, or officers and servants of the O
 
 87. Clause 77 seeks to provide that any person who fails to comply with any direction given by, or in any way assaults, hinders or obstructs, the Director General, Deputy Directors General or Inspector while exercising their powers commits an offence.
 
-## Part X
+## PART X
 
 88. Part X of the proposed Act deals with the provisions relating to offences and penalties.
 
@@ -2452,7 +2540,7 @@ Board, the Committee or committees, Inspector, or officers and servants of the O
 
 94. Clause 83 seeks to empower the Minister with the approval of the Public Prosecutor to make regulations prescribing any offence under the proposed Act or any regulations made under the proposed Act to be compoundable as well as the method and procedure for compounding such offence. This clause also seeks to empower the authorized officer of the Organization to implement the compounding of such offences with the consent in writing of the Public Prosecutor.
 
-## Part XI
+## PART XI
 
 95. Part XI of the proposed Act contains general provisions.
 
@@ -2471,6 +2559,8 @@ Board, the Committee or committees, Inspector, or officers and servants of the O
 102. Clause 90 seeks to provide that the Director General may dispose any paper-based document after the expiry of a period of three years from the making of an electronic copy of such document and the electronic copy shall be admissible as evidence of any fact stated therein in accordance with section 90a of the Evidence Act 1950 [Act 56].
 
 103. Clause 91 seeks to empower the Minister to amend the Schedules under the proposed Act.
+
+<!-- marginal: WJW22/0653 BI Teks.indd 77 -->
 
 <!-- marginal: 7/15/22 8:31 AM -->
 

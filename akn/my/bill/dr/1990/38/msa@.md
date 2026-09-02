@@ -12,13 +12,15 @@
 
 ## PUBLISHED BY AUTHORITY
 
-## TAMBAHAN
+<!-- marginal: TAMBAHAN -->
 
-Jil. 34
+<!-- marginal: Jil. 34 -->
 
 ### 20hb Disember 1990
 
-No.6 No. 26
+<!-- marginal: No.6 -->
+
+<!-- marginal: No. 26 -->
 
 ## RANG UNDANG-UNDANG
 
@@ -82,11 +84,27 @@ Suatu Akta untuk meminda Akta Kesatuan Sekerja 1959. [ ]
 
 oleh Duli Yang Maha Mulia Sen Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
 
-1. Akta ini bolehlah dinamakan Akta Kesatuan Sekerja Tajuk ringkas dan mula (Pindaan) 1990 dan hendaklah mula berkuatkuasa pada tarikh berkuatkuasa, yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
+1. Akta ini bolehlah dinamakan Akta Kesatuan Sekerja
 
-Pindaan
+<!-- marginal: Tajuk ringkas -->
 
-2. Seksyen 27 Akta Kesatuan Sekerja 1959 adalah dipinda seksyen 27. dalam subseksyen (3)— Akta 262.
+<!-- marginal: dan mula -->
+
+(Pindaan) 1990 dan hendaklah mula berkuatkuasa pada tarikh
+
+<!-- marginal: berkuatkuasa, -->
+
+yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
+
+<!-- marginal: Pindaan -->
+
+2. Seksyen 27 Akta Kesatuan Sekerja 1959 adalah dipinda
+
+<!-- marginal: seksyen 27. -->
+
+dalam subseksyen (3)—
+
+<!-- marginal: Akta 262. -->
 
 (a) dengan menggantikan noktah di akhir perenggan
 

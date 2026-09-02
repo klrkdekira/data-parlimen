@@ -197,7 +197,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_14",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (2)— New section 14a"
+        "@value": "in subsection (2)—"
       }
     },
     {
@@ -217,7 +217,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_14__para_c",
       "schema:text": {
         "@language": "en",
-        "@value": "in the English language text, by inserting after the word “imprisonment” the words “for a term”."
+        "@value": "in the English language text, by inserting after the word “imprisonment” the words “for a term”. New section 14a"
       }
     },
     {

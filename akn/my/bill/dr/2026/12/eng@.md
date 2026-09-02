@@ -678,7 +678,7 @@ the proceedings shall continue before the remaining members of the Competition A
 
 33. The principal Act is amended by substituting for the First Schedule the following schedule:
 
-“First schedule
+## “FIRST SCHEDULE
 
 [Section 3]
 

@@ -51,7 +51,6 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/28/eng@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/28/eng@/~cl_2__para_a",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/28/eng@",
       "schema:name": {
         "@language": "en",
@@ -59,17 +58,7 @@
       },
       "schema:text": {
         "@language": "en",
-        "@value": "Constitution is amended by substituting for paragraphs"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/28/eng@/~cl_2__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/28/eng@/~cl_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": ", (b), (c) and (d) of subsection 1(1) the following: \"(a) for the first 50,000 persons at the rate of $60.00 per person; BILL (b) for the next 500,000 persons at the rate of $8.50 per person; (c) for the next 500,000 persons at the rate of $9.00 per person; (d) for the remainder at the rate of $9.50 per person,\"."
+        "@value": "Constitution is amended by substituting for paragraphs (a), (b), (c) and (d) of subsection 1(1) the following: \"(a) for the first 50,000 persons at the rate of $60.00 per person; BILL (b) for the next 500,000 persons at the rate of $8.50 per person; (c) for the next 500,000 persons at the rate of $9.00 per person; (d) for the remainder at the rate of $9.50 per person,\"."
       }
     }
   ]

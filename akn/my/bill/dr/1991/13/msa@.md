@@ -8,9 +8,7 @@ Naskhah Sahih—Bahasa Malaysia
 
 bernama
 
-Suatu Akta untuk meminda Akta Penerbangan Awam
-
-1969. [ ]
+Suatu Akta untuk meminda Akta Penerbangan Awam 1969. [ ]
 
 ## MAKA INILAH DJPERBUAT UNDANG-UNDANG
 
@@ -50,9 +48,13 @@ disebut "Akta ibu" dalam Akta ini, adalah dipinda—
 
 ' "syarikat berlesen" ertinya syarikat yang kepadanya lesen dikeluarkan oleh Menteri di bawah seksyen 24A(1);'.
 
-Bahagian
+<!-- marginal: Bahagian -->
 
-3. Akta ibu adalah dipinda dengan memasukkan, selepas baru 1A. sahaja seksyen 2, Bahagian baru 1A yang berikut:
+3. Akta ibu adalah dipinda dengan memasukkan, selepas
+
+<!-- marginal: baru 1A. -->
+
+sahaja seksyen 2, Bahagian baru 1A yang berikut:
 
 ## BAHAGIAN 1A
 
@@ -62,9 +64,37 @@ Bahagian
 
 ## MALAYSIA
 
-Ketua 2A. Ketua Pengarah Penerbangan Awam, Pengarah Malaysia hendaklah melaksanakan kewajipan- Penerbangan Awam, kewajipan dan tugas-tugas yang diberikan Malaysia. kepadanya di bawah Akta ini.
+<!-- marginal: Ketua -->
 
-Kewajipan- 2B. (1) Adalah menjadi kewajipan dan tugas kewajipan Ketua Pengarah— dan tugas- tugas Ketua Pengarah.
+2A. Ketua Pengarah Penerbangan Awam,
+
+<!-- marginal: Pengarah -->
+
+Malaysia hendaklah melaksanakan kewajipan-
+
+<!-- marginal: Penerbangan -->
+
+<!-- marginal: Awam, -->
+
+kewajipan dan tugas-tugas yang diberikan
+
+<!-- marginal: Malaysia. -->
+
+kepadanya di bawah Akta ini.
+
+<!-- marginal: Kewajipan- -->
+
+2B. (1) Adalah menjadi kewajipan dan tugas
+
+<!-- marginal: kewajipan -->
+
+Ketua Pengarah—
+
+<!-- marginal: dan tugas- -->
+
+<!-- marginal: tugas Ketua -->
+
+<!-- marginal: Pengarah. -->
 
 (a) untuk menjalankan tugas-tugas pe- ngawalseliaan berkenaan dengan penerbangan awam dan perkhidmatan- perkhidmatan lapangan terbang dan penerbangan, termasuk penetapan standard-standard dan penguatkuasaan- nya;
 
@@ -98,31 +128,53 @@ Pindaan
 
 <!-- page 4 -->
 
-5. Akta ibu adalah dipinda dengan memasukkan, selepas baru 5A. sahaja seksyen 5, seksyen baru 5A yang berikut:
+<!-- marginal: Seksyen -->
+
+5. Akta ibu adalah dipinda dengan memasukkan, selepas
+
+<!-- marginal: baru 5A. -->
+
+sahaja seksyen 5, seksyen baru 5A yang berikut:
 
 "Menteri 5A. Menteri boleh membenarkan mana-mana boleh syarikat yang mempunyai lesen menubuhkan, membenar- kan sesuatu menyenggarakan dan mengendalikan sesuatu syarikat padang terbang tertakluk kepada terma-terma yang mem- punyai dan syarat-syarat yang ditetapkan.". lesen menubuh- kan, dll., padang terbang.
 
-Pemotongan
+<!-- marginal: Pemotongan -->
 
-6. Seksyen 6 Akta ibu adalah dipinda dengan memotong seksyen 6 (4). subseksyen (4).
+6. Seksyen 6 Akta ibu adalah dipinda dengan memotong
 
-Pindaan
+<!-- marginal: seksyen 6 (4). -->
 
-7. Seksyen 6 B Akta ibu adalah dipinda— seksyen 6B.
+subseksyen (4).
+
+<!-- marginal: Pindaan -->
+
+7. Seksyen 6 B Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 6B. -->
 
 (a) dengan memotong tafsiran "Ketua Pengarah"; dan
 
-(b) dengan memasukkan, selepas tafsiran "pihak- berkuasa penerbangan awam", tafsiran baru "tarikh perpindahan" yang berikut: " "tarikh perpindahan" ertinya tarikh mana- mana harta ditetapkan di sesuatu lapangan terbang ditetapkan, yang Kerajaan Malaysia berhak kepadanya, berpindah kepada suatu Akta syarikat menurut kuasa Akta Perkhidmatan- Perkhidmatan Lapangan Terbang dan Penerbangan (Syarikat Pengendali) 1991;'.
+(b) dengan memasukkan, selepas tafsiran "pihak- berkuasa penerbangan awam", tafsiran baru "tarikh perpindahan" yang berikut: " "tarikh perpindahan" ertinya tarikh mana- mana harta ditetapkan di sesuatu lapangan terbang ditetapkan, yang Kerajaan Malaysia berhak kepadanya, berpindah kepada suatu
 
-Pindaan
+<!-- marginal: Akta -->
 
-8. Seksyen 60 Akta ibu adalah dipinda— seksyen 60.
+syarikat menurut kuasa Akta Perkhidmatan- Perkhidmatan Lapangan Terbang dan Penerbangan (Syarikat Pengendali) 1991;'.
+
+<!-- marginal: Pindaan -->
+
+8. Seksyen 60 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 60. -->
 
 (a) dengan memasukkan, selepas sahaja perkataan "segala terimaan berkenaan dengan" dalam subseksyen (1) (c), perkataan "apa-apa lesen yang dikeluarkan atau"; dan
 
 (b) dengan menggantikan perkataan "sebelum tarikh yang ditetapkan" dalam subseksyen ( l ) ( c ) ( i i) dengan perkataan "kepada pihakberkuasa penerbangan awam selepas tarikh perpindahan".
 
-9. Akta ibu adalah dipinda dengan memotong seksyen 18. Pemotongan seksyen 18.
+9. Akta ibu adalah dipinda dengan memotong seksyen 18.
+
+<!-- marginal: Pemotongan -->
+
+<!-- marginal: seksyen 18. -->
 
 <!-- page 5 -->
 
@@ -132,7 +184,7 @@ Pindaan
 
 ## Bahagian 5A.
 
-## Bahagian 8A dengan Bahagian 5A baru yang berikut:
+Bahagian 8A dengan Bahagian 5A baru yang berikut:
 
 ## BAHAGIAN 5A
 
@@ -144,7 +196,11 @@ Pindaan
 
 ## LAPANGAN TERBANG
 
-Kuasa 24A. (1) Menteri boleh memberikan lesen Menteri kepada sesuatu syarikat yang dinamakan oleh untuk Kerajaan Malaysia di bawah seksyen ini untuk memberikan lesen bagi menjalankan apa-apa fungsi Jabatan mengadakan Penerbangan Awam, atau untuk mengadakan perkhid- matan-per- apa-apa perkhidmatan, di dalam sesuatu khidmatan lapangan terbang; dan sebutan-sebutan dalam lapangan terbang Akta ini mengenai syarikat berlesen ialah dan sebutan-sebutan mengenai syarikat yang penerbangan di sesuatu dinamakan dan dilesenkan sedemikian di bawah lapangan seksyen ini. terbang.
+Kuasa 24A. (1) Menteri boleh memberikan lesen Menteri kepada sesuatu syarikat yang dinamakan oleh untuk Kerajaan Malaysia di bawah seksyen ini untuk memberikan lesen bagi menjalankan apa-apa fungsi
+
+<!-- marginal: Jabatan -->
+
+mengadakan Penerbangan Awam, atau untuk mengadakan perkhid- matan-per- apa-apa perkhidmatan, di dalam sesuatu khidmatan lapangan terbang; dan sebutan-sebutan dalam lapangan terbang Akta ini mengenai syarikat berlesen ialah dan sebutan-sebutan mengenai syarikat yang penerbangan di sesuatu dinamakan dan dilesenkan sedemikian di bawah lapangan seksyen ini. terbang.
 
 (2) Tanpa menjejaskan keluasan subseksyen (1), tiap-tiap lesen yang dikeluarkan di bawah seksyen ini hendaklah menyatakan perkara- perkara yang berikut:
 
@@ -168,9 +224,67 @@ terbang ditetapkan ialah sebutan-sebutan mengenai sesuatu lapangan terbang yang 
 
 (3) Pengeluaran lesen kepada sesuatu syarikat di bawah subseksyen (1) tidaklah mengenakan apa-apa tanggungan pada Kerajaan Malaysia bagi apa-apa kerugian atau kerosakan yang disebabkan oleh apa-apa perbuatan, ketinggalan atau kemungkiran syarikat itu.
 
-Kuasa 24B. Walau apa pun apa-apa peruntukan Akta syarikat ini atau Akta Prosedur Kewangan 1957, segala berlesen untuk caj dan fee yang ditetapkan di bawah peraturan- memungut peraturan yang dibuat menurut perenggan caj dan fee. 3 (2) (n) dan (nn) Akta ini bagi pendaratan, peletakan dan penyimpanan kapal-kapal udara dan pengadaan apa-apa perkhidmatan di sesuatu lapangan terbang hendaklah, dalam hal suatu lapangan terbang ditetapkan, dipungut oleh syarikat berlesen dan menjadi sebahagian daripada hasil syarikat itu.
+<!-- marginal: Kuasa -->
 
-Penge- 24c. (1) Syarikat berlesen boleh menge- mukaan mukakan suatu memorandum kepada Menteri memo- randum yang mengandungi cadangan-cadangan bagi bagi apa-apa perubahan pada caj-caj dan fee-fee apa-apa perubahan yang sedia ada yang ditetapkan di bawah pada caj-caj peraturan-peraturan yang dibuat di bawah dan fee-fee yang sedia perenggan 3 (2) (n) dan (nn) bagi kelulusan ada. Menteri.
+24B. Walau apa pun apa-apa peruntukan Akta
+
+<!-- marginal: syarikat -->
+
+ini atau Akta Prosedur Kewangan 1957, segala
+
+<!-- marginal: berlesen -->
+
+<!-- marginal: untuk -->
+
+caj dan fee yang ditetapkan di bawah peraturan-
+
+<!-- marginal: memungut -->
+
+peraturan yang dibuat menurut perenggan
+
+<!-- marginal: caj dan -->
+
+<!-- marginal: fee. -->
+
+3 (2) (n) dan (nn) Akta ini bagi pendaratan, peletakan dan penyimpanan kapal-kapal udara dan pengadaan apa-apa perkhidmatan di sesuatu lapangan terbang hendaklah, dalam hal suatu lapangan terbang ditetapkan, dipungut oleh syarikat berlesen dan menjadi sebahagian daripada hasil syarikat itu.
+
+<!-- marginal: Penge- -->
+
+24c. (1) Syarikat berlesen boleh menge-
+
+<!-- marginal: mukaan -->
+
+mukakan suatu memorandum kepada Menteri
+
+<!-- marginal: memo- -->
+
+<!-- marginal: randum -->
+
+yang mengandungi cadangan-cadangan bagi
+
+<!-- marginal: bagi -->
+
+apa-apa perubahan pada caj-caj dan fee-fee
+
+<!-- marginal: apa-apa -->
+
+<!-- marginal: perubahan -->
+
+yang sedia ada yang ditetapkan di bawah
+
+<!-- marginal: pada caj-caj -->
+
+peraturan-peraturan yang dibuat di bawah
+
+<!-- marginal: dan fee-fee -->
+
+<!-- marginal: yang sedia -->
+
+perenggan 3 (2) (n) dan (nn) bagi kelulusan
+
+<!-- marginal: ada. -->
+
+Menteri.
 
 <!-- page 7 -->
 
@@ -184,7 +298,55 @@ Dengan syarat bahawa permohonan itu hendaklah dibuat sebelum habis tempoh tiga p
 
 (5) Menteri hendaklah menimbangkan permohonan itu dalam masa tiga bulan dari pengemukaannya.
 
-Menteri 24D. Jika Menteri meluluskan memorandum, hendaklah dengan atau tanpa apa-apa ubahsuaian, dia membuat peraturan- hendaklah dengan seberapa segera yang praktik peraturan membuat peraturan-peraturan di bawah berkenaan perenggan 3 (2) (n) dan (nn) berkenaan dengan dengan perubaban perubahan pada caj-caj dan fee-fee yang sedia pada caj- ada. caj dan fee-fee. Kewajipan- 24E. (1) Adalah menjadi kewajipan syarikat kewajipan berlesen untuk memastikan bahawa am syarikat berlesen. perkhidmatan-perkhidmatan yang diadakan olehnya menepati standard-standard prestasi yang ditetapkan oleh Ketua Pengarah di bawah perenggan 2 B ( 1 ) ( a ).
+<!-- marginal: Menteri -->
+
+24D. Jika Menteri meluluskan memorandum,
+
+<!-- marginal: hendaklah -->
+
+dengan atau tanpa apa-apa ubahsuaian, dia
+
+<!-- marginal: membuat -->
+
+<!-- marginal: peraturan- -->
+
+hendaklah dengan seberapa segera yang praktik
+
+<!-- marginal: peraturan -->
+
+membuat peraturan-peraturan di bawah
+
+<!-- marginal: berkenaan -->
+
+perenggan 3 (2) (n) dan (nn) berkenaan dengan
+
+<!-- marginal: dengan -->
+
+<!-- marginal: perubaban -->
+
+perubahan pada caj-caj dan fee-fee yang sedia
+
+<!-- marginal: pada caj- -->
+
+ada.
+
+<!-- marginal: caj dan -->
+
+<!-- marginal: fee-fee. -->
+
+<!-- marginal: Kewajipan- -->
+
+24E. (1) Adalah menjadi kewajipan syarikat
+
+<!-- marginal: kewajipan -->
+
+berlesen untuk memastikan bahawa
+
+<!-- marginal: am syarikat -->
+
+<!-- marginal: berlesen. -->
+
+perkhidmatan-perkhidmatan yang diadakan olehnya menepati standard-standard prestasi yang ditetapkan oleh Ketua Pengarah di bawah perenggan 2 B ( 1 ) ( a ).
 
 (2) Syarikat berlesen hendaklah memberikan perhatian yang sewajarnya kepada kecekapan, keekonomian dan keselamatan pengendalian
 
@@ -192,21 +354,73 @@ Menteri 24D. Jika Menteri meluluskan memorandum, hendaklah dengan atau tanpa apa
 
 berkenaan dengan perkhidmatan-perkhidmatan yang diberikan olehnya.
 
-Penalti
+<!-- marginal: Penalti -->
 
-24F. Jika syarikat berlesen melanggar atau tidak am. mematuhi mana-mana syarat lesen atau mana- mana peruntukan Akta ini atau mana-mana peraturan yang dibuat di bawahnya yang baginya tiada penalti diperuntukkan dengan nyata, ia adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh dikenakan denda tidak lebih daripada lima puluh ribu ringgit atau penjara selama tempoh tidak lebih daripada lima tahun atau kedua-duanya.
+24F. Jika syarikat berlesen melanggar atau tidak
 
-Kesalahan
+<!-- marginal: am. -->
 
-24G. Jika suatu kesalahan di bawah Akta ini yang di- atau di bawah mana-mana peraturan yang dibuat lakukan oleh di bawahnya dilakukan oleh suatu pertubuhan pertubuhan perbadanan (sama ada atau tidak pertubuhan perbadanan. perbadanan itu telah didakwa), tiap-tiap pengarah, setiausaha atau pengurus pertubuhan perbadanan itu hendaklah disifatkan melakukan kesalahan itu melainkan jika dia membuktikan bahawa kesalahan itu telah dilakukan tanpa dipersetujui atau dibiarkan olehnya dan bahawa dia telah menjalankan segala usaha wajar untuk mencegah pelakuan kesalahan itu sebagaimana yang sepatutnya dijalankan olehnya me- mandangkan jenis tugas-tugasnya atas sifat itu dan memandangkan segala hal keadaan kes itu.
+mematuhi mana-mana syarat lesen atau mana- mana peruntukan Akta ini atau mana-mana peraturan yang dibuat di bawahnya yang baginya tiada penalti diperuntukkan dengan nyata, ia adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh dikenakan denda tidak lebih daripada lima puluh ribu ringgit atau penjara selama tempoh tidak lebih daripada lima tahun atau kedua-duanya.
 
-Kuasa
+<!-- marginal: Kesalahan -->
 
-24H. Ketua Pegarah boleh, bagi maksud- pemeriksaan maksud Akta ini atau mana-mana peraturan Ketua Pengarah. yang dibuat di bawahnya, masuk ke mana-mana premis yang diduduki oleh syarikat berlesen untuk memeriksa dan meneliti keadaan premis itu atau mana-mana bangunan atau kemudahan di dalamnya.
+24G. Jika suatu kesalahan di bawah Akta ini
 
-Peng-
+<!-- marginal: yang di- -->
 
-24I. (1) Jika Ketua Pengarah berpuas hati gantungan bahawa syarikat berlesen melanggar, atau telah atau pembatalan melanggar dan mungkin akan melanggar lagi, lesen kerana mana-mana syarat lesennya, Ketua Pengarah melanggar syarat lesen. boleh memberikan notis secara bertulis kepada
+atau di bawah mana-mana peraturan yang dibuat
+
+<!-- marginal: lakukan -->
+
+<!-- marginal: oleh -->
+
+di bawahnya dilakukan oleh suatu pertubuhan
+
+<!-- marginal: pertubuhan -->
+
+perbadanan (sama ada atau tidak pertubuhan
+
+<!-- marginal: perbadanan. -->
+
+perbadanan itu telah didakwa), tiap-tiap pengarah, setiausaha atau pengurus pertubuhan perbadanan itu hendaklah disifatkan melakukan kesalahan itu melainkan jika dia membuktikan bahawa kesalahan itu telah dilakukan tanpa dipersetujui atau dibiarkan olehnya dan bahawa dia telah menjalankan segala usaha wajar untuk mencegah pelakuan kesalahan itu sebagaimana yang sepatutnya dijalankan olehnya me- mandangkan jenis tugas-tugasnya atas sifat itu dan memandangkan segala hal keadaan kes itu.
+
+<!-- marginal: Kuasa -->
+
+24H. Ketua Pegarah boleh, bagi maksud-
+
+<!-- marginal: pemeriksaan -->
+
+maksud Akta ini atau mana-mana peraturan
+
+<!-- marginal: Ketua -->
+
+<!-- marginal: Pengarah. -->
+
+yang dibuat di bawahnya, masuk ke mana-mana premis yang diduduki oleh syarikat berlesen untuk memeriksa dan meneliti keadaan premis itu atau mana-mana bangunan atau kemudahan di dalamnya.
+
+<!-- marginal: Peng- -->
+
+24I. (1) Jika Ketua Pengarah berpuas hati
+
+<!-- marginal: gantungan -->
+
+bahawa syarikat berlesen melanggar, atau telah
+
+<!-- marginal: atau -->
+
+<!-- marginal: pembatalan -->
+
+melanggar dan mungkin akan melanggar lagi,
+
+<!-- marginal: lesen kerana -->
+
+mana-mana syarat lesennya, Ketua Pengarah
+
+<!-- marginal: melanggar -->
+
+<!-- marginal: syarat lesen. -->
+
+boleh memberikan notis secara bertulis kepada
 
 <!-- page 9 -->
 
@@ -230,9 +444,43 @@ apa-apa representasi yang dibuat oleh syarikat berlesen, Menteri boleh memutuska
 
 (6) Keputusan Menteri di bawah seksyen ini adalah muktamad dan konklusif.
 
-Peng-
+<!-- marginal: Peng- -->
 
-24I. (1) Jika Ketua Pengarah berpuas hati gantungan bahawa syarikat berlesen telah melanggar atau atau pembatalan tidak mematuhi mana-mana peruntukan Akta lesen kerana ini atau mana-mana peraturan yang dibuat di melanggar Akta ini atau bawahnya, dia hendaklah mengemukakan suatu peraturan- laporan kepada Menteri tentang pelanggaran peraturan oleh atau ketakpatuhan syarikat berlesen itu. di bawah- nya. (2) Jika, selepas menimbangkan laporan daripada Ketua Pengarah, Menteri berpuas hati bahawa pelanggaran atau ketakpatuhan itu serius sifatnya atau menyentuh atau mungkin menyentuh kepentingan atau keselamatan awam dia hendaklah memberi syarikat berlesen notis yang menyatakan bahawa dia bercadang hendak menggantung atau membatalkan, mengikut mana-mana yang berkenaan, lesennya dan notis itu hendaklah juga menerangkan atau menyatakan—
+24I. (1) Jika Ketua Pengarah berpuas hati
+
+<!-- marginal: gantungan -->
+
+bahawa syarikat berlesen telah melanggar atau
+
+<!-- marginal: atau -->
+
+<!-- marginal: pembatalan -->
+
+tidak mematuhi mana-mana peruntukan Akta
+
+<!-- marginal: lesen kerana -->
+
+ini atau mana-mana peraturan yang dibuat di
+
+<!-- marginal: melanggar -->
+
+<!-- marginal: Akta ini atau -->
+
+bawahnya, dia hendaklah mengemukakan suatu
+
+<!-- marginal: peraturan- -->
+
+laporan kepada Menteri tentang pelanggaran
+
+<!-- marginal: peraturan -->
+
+oleh atau ketakpatuhan syarikat berlesen itu.
+
+<!-- marginal: di bawah- -->
+
+<!-- marginal: nya. -->
+
+(2) Jika, selepas menimbangkan laporan daripada Ketua Pengarah, Menteri berpuas hati bahawa pelanggaran atau ketakpatuhan itu serius sifatnya atau menyentuh atau mungkin menyentuh kepentingan atau keselamatan awam dia hendaklah memberi syarikat berlesen notis yang menyatakan bahawa dia bercadang hendak menggantung atau membatalkan, mengikut mana-mana yang berkenaan, lesennya dan notis itu hendaklah juga menerangkan atau menyatakan—
 
 (a) peruntukan Akta ini atau peraturan yang dibuat di bawahnya yang dilanggar oleh syarikat dan perbuatan-perbuatan atau ketinggalan-ketinggalan yang menjadi pelanggaran itu; dan
 
@@ -248,9 +496,19 @@ Peng-
 
 (5) Keputusan Menteri di bawah seksyen ini adalah muktamad dan konklusif.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-24K. (1) Yang di-Pertuan Agong boleh, apabila khas berlaku apa-apa kerusuhan perindustrian, semasa darurat. mogok, sekat-masuk atau apa-apa kejadian lain yang menyebabkan darurat, atau demi ke- pentingan keselamatan awam, memberikuasa Menteri—
+24K. (1) Yang di-Pertuan Agong boleh, apabila
+
+<!-- marginal: khas -->
+
+berlaku apa-apa kerusuhan perindustrian,
+
+<!-- marginal: semasa -->
+
+<!-- marginal: darurat. -->
+
+mogok, sekat-masuk atau apa-apa kejadian lain yang menyebabkan darurat, atau demi ke- pentingan keselamatan awam, memberikuasa Menteri—
 
 (a) menggantung lesen syarikat berlesen, mengambil milikan sementara mana- mana lapangan terbang ditetapkan dan mengendalikan apa-apa perkhidmatan lapangan terbang dan penerbangan di situ melalui Jabatan Perkhidmatan Awam, Malaysia, atau mengikut cara yang difikirkan patut oleh Menteri; atau
 
@@ -266,17 +524,17 @@ Menteri hendaklah menjadi bukti konklusif mengenainya.
 
 (3) Jika Kerajaan mengambil milikan mana- mana lapangan terbang ditetapkan di bawah perenggan (a) subseksyen (1), pampasan yang cukup hendaklah dibayar.
 
-Penggunaan,
-
-24L. Jika mana-mana tanah di Melaka atau pendudukan, Pulau Pinang diduduki, digunakan, dikawal dan dll., tanah di Melaka diuruskan oleh Kerajaan Persekutuan di bawah dan Pulau fasal (3) Perkara 166 Perlembagaan, maka Pinang di bawah Pihak Berkuasa Negeri boleh, jika diminta Perkara sedemikian oleh Menteri, apabila dibuat 166(3). permohonan secara bertulis oleh syarikat berlesen—
+Penggunaan, 24L. Jika mana-mana tanah di Melaka atau pendudukan, Pulau Pinang diduduki, digunakan, dikawal dan dll., tanah di Melaka diuruskan oleh Kerajaan Persekutuan di bawah dan Pulau fasal (3) Perkara 166 Perlembagaan, maka Pinang di bawah Pihak Berkuasa Negeri boleh, jika diminta Perkara sedemikian oleh Menteri, apabila dibuat 166(3). permohonan secara bertulis oleh syarikat berlesen—
 
 (a) membenarkan keseluruhan atau se- bahagian daripada tanah itu diduduki, digunakan, dikawal dan diuruskan oleh syarikat berlesen atas terma-terma dan syarat-syarat yang dipersetujui di antara Kerajaan Persekutuan, Pihak Berkuasa Negeri, dan syarikat berlesen; atau
 
 (h) memberimilik tanah itu kepada syarikat berlesen atas terma-terma dan syarat- syarat yang dinyatakan oleh Pihak Berkuasa Negeri di bawah dan mengikut Kanun Tanah Negara, dan dipersetujui oleh Kerajaan Persekutuan.".
 
-Pemotongan
+<!-- marginal: Pemotongan -->
 
-11. Akta ibu adalah dipinda dengan memotong seksyen seksyen 7A.
+11. Akta ibu adalah dipinda dengan memotong seksyen
+
+<!-- marginal: seksyen 7A. -->
 
 27A.
 

@@ -396,7 +396,7 @@
 
 ### berhubung dengan Perkara 28 Konvensyen atau
 
-### Perkara 28 Konvensyen Dipinda, atau Perkara 57
+## Perkara 28 Konvensyen Dipinda, atau Perkara 57
 
 ### Konvensyen Montreal berhubung dengan Perkara 33
 
@@ -546,7 +546,7 @@ PROTOKOL MONTREAL No. 4
 
 ## BIDANG - TAKRIF
 
-Perkara 1
+## Perkara 1
 
 (1) Konvensyen ini terpakai bagi semua pengangkutan antarabangsa bagi orang, bagasi atau kargo yang dilakukan oleh pesawat udara untuk mendapatkan ganjaran. Konvensyen ini juga terpakai bagi pengangkutan percuma melalui pesawat udara yang dilakukan oleh sesuatu pengusaha pengangkutan udara.
 
@@ -556,7 +556,7 @@ Perkara 1
 
 <!-- page 10 -->
 
-Perkara 2
+## Perkara 2
 
 (1) Konvensyen ini terpakai bagi pengangkutan yang dilakukan oleh Negara
 
@@ -584,7 +584,7 @@ Perkara 2
 
 ## T1KET PENUMPANG
 
-Perkara 3
+## Perkara 3
 
 (1) Berkenaan dengan pengangkutan penumpang suatu tiket hendaklah
 
@@ -638,7 +638,7 @@ Perkara 3
 
 ## KERACIS PENERIMAAN BAGASI
 
-Perkara 4
+## Perkara 4
 
 (1) Berkenaan dengan pengangkutan bagasi berdaftar, suatu keracis penerimaan bagasi hendaklah diserahkan, yang, melainkan jika disatukan dengan atau dimasukkan dalam suatu tiket penumpang yang mematuhi peruntukan Perkara 3, perenggan (1), hendaklah mengandungi:
 
@@ -654,7 +654,7 @@ Perkara 4
 
 ## DOKUMENTASI YANG BERHUBUNGAN DENGAN KARGO
 
-Perkara 5
+## Perkara 5
 
 (1) Berkenaan dengan pengangkutan kargo suatu surat angkutan udara hendaklah diserahkan.
 
@@ -664,7 +664,7 @@ Perkara 5
 
 (3) Kemustahilan untuk menggunakan, di tempat transit dan tempat tujuan, cara lain itu yang akan memelihara rekod pengangkutan yang disebut dalam perenggan (2) Perkara ini tidak memberikan hak kepada pengangkut untuk enggan menerima kargo bagi pengangkutan.
 
-Perkara 6
+## Perkara 6
 
 (1) Surat angkutan udara hendaklah dibuat oleh pengirim konsain dalam tiga bahagian asal.
 
@@ -674,7 +674,7 @@ Perkara 6
 
 (4) Jika, atas permintaan pengirim konsain, pengangkut membuat surat angkutan udara, pengangkut hendaklah disifatkan, melainkan jika dibuktikan sebaliknya, telah berbuat demikian bagi pihak pengirim konsain.
 
-Perkara 7
+## Perkara 7
 
 Jika terdapat lebih daripada satu bungkusan:
 
@@ -682,7 +682,7 @@ Jika terdapat lebih daripada satu bungkusan:
 
 (b) pengirim konsain mempunyai hak untuk menghendaki pengangkut menyerahkan resit yang berasingan apabila cara lain yang disebut dalam perenggan (2) Perkara 5 digunakan.
 
-Perkara 8
+## Perkara 8
 
 Surat angkutan udara dan resit bagi kargo hendaklah mengandungi:
 
@@ -698,15 +698,17 @@ Pfcrkara 9
 
 Ketidakpatuhan pemntukan Perkara 5 hingga 8 tidaklah menyentuh kewujudan atau kesahan kontrak pengangkutan, yang hendaklah, walau bagaimanapun, tertakluk kepada kaedah-kaedah Konvensyen ini termasuklah apa-apa yang berhubungan dengan had tanggungan.
 
-Perkara 10
+## Perkara 10
 
 (1) Pengirim konsain adalah bertanggungjawab bagi ketepatan butir-butir dan pernyataan yang berhubungan dengan kargo yang dimasukkannya atau dimasukkan bagi pihaknya ke dalam surat angkutan udara itu atau yang diberikan olehnya atau diberikan bagi pihaknya kepada pengangkut bagi kemasukan ke dalam resit bagi pengangkutan atau bagi kemasukan ke dalam rekod yang dipelihara dengan cara lain yang disebut dalam perenggan (2) Perkara 5.
 
 (2) Pengirim konsain hendaklah menanggung rugi kepada pengangkut terhadap semua kerosakan yang ditanggung olehnya, atau oleh mana-mana orang lain yang kepadanya pengangkut itu bertanggungan, atas alasan ketidaksetaraan, ketidaktepatan atau ketidaklengkapan butir-butir dan pernyataan yang diberikan oleh pengirim konsain atau bagi pihaknya.
 
-(3) Tertakluk kepada peruntukan perenggan (1) dan (2) Perkara ini, pengangkut hendaklah menanggung rugi kepada pengirim konsain terhadap semua kerosakan yang ditanggungnya, atau oleh mana-mana orang lain yang kepadanya pengirim konsain bertanggungan, atas alasan ketidaksetaraan, ketidaktepatan atau ketidaklengkapan butir-butir dan pernyataan yang dimasukkan oleh pengangkut atau bagi pihaknya dalam resit bagi kargo atau dalam rekod yang dipelihara dengan cara lain yang disebut dalam perenggan (2) Perkara 5.
+(3) Tertakluk kepada peruntukan perenggan (1) dan (2) Perkara ini, pengangkut hendaklah menanggung rugi kepada pengirim konsain terhadap semua kerosakan yang ditanggungnya, atau oleh mana-mana orang lain yang kepadanya pengirim konsain bertanggungan, atas alasan ketidaksetaraan, ketidaktepatan atau ketidaklengkapan butir-butir dan pernyataan yang dimasukkan oleh pengangkut atau bagi pihaknya dalam resit bagi kargo atau dalam rekod yang dipelihara dengan cara lain yang disebut dalam perenggan (2)
 
-Perkara 11
+## Perkara 5.
+
+## Perkara 11
 
 f l ) Surat angkutan udara atau resit bagi kargo adalah keterangan prima facie mengenai pembuatan kontrak, mengenai penerimaan kargo dan syarat pengangkutan yang disebut di dalamnya.
 
@@ -714,7 +716,7 @@ f l ) Surat angkutan udara atau resit bagi kargo adalah keterangan prima facie m
 
 <!-- page 14 -->
 
-Perkara 12
+## Perkara 12
 
 (1) Tertakluk kepada tanggungannya untuk menjalankan segala kewajipannya di bawah kontrak pengangkutan, pengirim konsain adalah berhak melupuskan kargo dengan menarik balik kargo itu di lapangan terbang tempat berlepas atau tempat tujuan, atau dengan menahannya dalam perjalanan di mana-mana tempat mendarat, atau dengan meminta supaya kargo diserahkan di tempat tujuan atau dalam perjalanan kepada seseorang selain penerima konsain yang diberikan tugas pada asalnya, atau dengan menghendaki supaya kargo itu dikembalikan ke iapangan terbang tempat berlepas. Pengirim konsain tidak boleh menggunakan hak pelupusan ini dengan cara yang mendatangkan mudarat kepada pengangkut atau kepada pengirim konsain lain dan ia mestilah membayar balik apa-apa belanja yang telah dilakukan kerana telah menggunakan hak itu.
 
@@ -724,7 +726,7 @@ Perkara 12
 
 (4) Hak yang diberikan kepada pengirim konsain terhenti apabila hak penerima konsain bermula mengikut Perkara 13. Walau bagaimanapun, jika penerima konsain enggan menerima kargo, atau jika dia tidak dapat dihubungi, pengirim konsain berhak mendapat balik hak pelupusannya.
 
-Perkara 13
+## Perkara 13
 
 (1) Kecuali apabila pengirim konsain telah menjalankan haknya di bawah Perkara 12, penerima konsain berhak, apabila tibanya di tempat tujuan, menghendaki pengangkut menyerahkan kargo kepadanya, apabila dibayar caj yang kena dibayar dan apabila dipatuhi syarat pengangkutan itu.
 
@@ -732,19 +734,19 @@ Perkara 13
 
 (3) Jika pengangkut mengakui kehilangan kargo, atau jika kargo tidak tiba apabila tamat tujuh hari selepas tarikh kargo itu sepatutnya telah tiba, penerima konsain berhak menguatkuasakan terhadap pengangkut hak yang berbangkit daripada kontrak pengangkutan itu.
 
-Perkara 14
+## Perkara 14
 
 Pengirim konsain dan penerima konsain boleh masing-masing menguatkuasakan segala hak yang diberikan kepada mereka oleh Perkara 12 dan 13, tiap-tiap satu atas nama sendiri, sama ada dia bertindak untuk kepentingannya sendiri atau kepentingan orang lain, dengan syarat dia menjalankan segala kewajipan yang dikenakan oleh kontrak pengangkutan itu.
 
 <!-- page 15 -->
 
-Perkara 15
+## Perkara 15
 
 (1) Perkara 12, 13 dan 14 tidak menyentuh hubungan pengirim konsain dengan penerima konsain atau hubungan salingan pihak ketiga yang mendapat hak mereka sama ada daripada pengirim konsain atau penerima konsain.
 
 (2) Peruntukan Perkara 12, 13 dan 14 hanya boleh diubah melalui peruntukan nyata dalam surat angkutan udara atau resit kargo.
 
-Perkara 16
+## Perkara 16
 
 (1) Pengirim konsain hendaklah memberikan apa-apa maklumat dan apa- apa dokumen sebagaimana yang perlu bagi memenuhi formaliti kastam, oktroi atau polis sebelum kargo boleh diserahkan kepada penerima konsain. Pengirim konsain adalah bertanggungan kepada pengangkut bagi apa-apa kerosakan yang disebabkan oleh ketiadaan, ketidakcukupan atau ketidaksetaraan mana-mana maklumat atau dokumen itu, melainkan jika kerosakan itu adalah disebabkan oleh kesalahan pengangkut, pekhidmatnya atau ejennya.
 
@@ -754,11 +756,11 @@ Perkara 16
 
 ## TANGGUNGAN PENGANGKUT
 
-Perkara 17
+## Perkara 17
 
 Pengangkut adalah bertanggungan bagi kerosakan yang didapati dalam hal kematian atau kecederaan penumpang atau kecederaan diri lain yang dialami oleh penumpang, jika kemalangan yang menyebabkan kerosakan sedemikian berlaku dalam pesawat udara atau dalam masa menjalankan mana-mana kendalian bagi menaikkan atau menurunkan penumpang.
 
-Perkara 18
+## Perkara 18
 
 (1) Pengangkut adalah bertanggungan bagi kerosakan yang didapati apabila berlaku kemusnahan, atau kehilangan atau kerosakan mana-mana bagasi berdaftar, jika kejadian yang menyebabkan kerosakan sedemikian berlaku dalam masa pengangkutan melalui udara.
 
@@ -780,15 +782,15 @@ Perkara 18
 
 (5) Tempoh pengangkutan melalui udara tidak meliputi apa-apa pengangkutan melalui darat, laut atau sungai yang dilakukan di luar lapangan terbang. Walau bagaimanapun, sekiranya pengangkutan itu dilakukan dalam menjalankan suatu kontrak bagi pengangkutan melalui udara, bagi maksud, memuatkan, menyerahkan atau memindahkan, apa-apa kerosakan dianggap, melainkan jika dibuktikan sebaliknya, sebagai akibat suatu kejadian yang berlaku semasa pengangkutan melalui udara.
 
-Perkara 19
+## Perkara 19
 
 Pengangkut adalah bertanggungan bagi kerosakan yang disebabkan oleh kelewatan dalam pengangkutan melalui udara terhadap penumpang, bagasi atau kargo.
 
-Perkara 20
+## Perkara 20
 
 Dalam hal penumpang dan bagasi, dan dalam hal kerosakan yang disebabkan oleh kelewatan dalam pengangkutan kargo, pengangkut tidak bertanggungan jika dia membuktikan bahawa dia dan pekhidmatnya dan ejennya telah mengambil segala langkah yang perlu untuk mengelakkan kerosakan itu atau adalah mustahil bagi mereka untuk mengambil tangkah itu.
 
-Perkara 21
+## Perkara 21
 
 (1) Dalam pengangkutan penumpang dan bagasi, jika pengangkut membuktikan bahawa kerosakan itu adalah disebabkan atau disumbangkan kecuaian orang yang menanggung kerosakan itu Mahkamah boleh, mengikut pemntukan undang- undangnya sendiri, melepaskan pengangkut itu sepenuhnya atau sebahagiannya daripada tanggungannya.
 
@@ -798,7 +800,7 @@ Perkara 21
 
 dilepaskan sepenuhnya atau sebahagiannya daripada tanggungannya kepada orang yang menuntut setakat kecuaian atau perbuatan salah atau peninggalan itu menyebabkan atau menyumbang kepada kerosakan itu.
 
-Perkara 22
+## Perkara 22
 
 (1) Dalam pengangkutan orang, tanggungan pengangkut bagi setiap penumpang adalah terhad kepada jumlah wang 16,600 Hak Pengeluaran Khas. Jika, mengikut undang-undang mahkamah yang menguruskan kes itu, ganti rugi boleh diawardkan dalam bentuk bayaran secara berkala, nilai modal yang bersamaan bagi bayaran itu tidak boleh lebih daripada had ini. Walau bagaimanapun, dengan kontrak khas, pengangkut dan penumpang boleh bersetuju atas suatu had tanggungan yang lebih tinggi.
 
@@ -818,7 +820,7 @@ Perkara 22
 
 (6) Nilai sesuatu mata wang negara, berkenaan dengan Hak Pengeluaran Khas, bagi Pihak Berjanji Tertinggi yang merupakan Anggota Kumpulan Wang Antarabangsa, hendaklah dikira mengikut cara penilaian yang dipakai oleh Kumpulan Wang Antarabangsa, berkuat kuasa pada tarikh penghakiman bagi pengendalian dan urusannya. Nilai mata wang negara, berkenaan dengan Hak Pengeluaran Khas, bagi Pihak Berjanji Tertinggi yang bukan Anggota Kumpulan Wang Antarabangsa, hendaklah dikira dengan cara yang ditentukan oleh Pihak Berjanji Tertinggi itu. Walau bagaimanapun, negara-negara yang bukan Anggota Kumpulan Wang Antarabangsa dan yang undang-undangnya tidak membenarkan pemakaian peruntukan perenggan (2)(b) Perkara 22 boleh, pada masa ratifikasi atau kesertaan atau pada bila-bila masa selepas itu, mengisytiharkan bahawa had tanggungan pengangkut dalam prosiding kehakiman dalam wilayah mereka ditetapkan pada jumlah wang dua ratus lima puluh unit wang tiap-tiap kilogram. Unit mata wang ini selaras dengan enam puluh lima setengah miligram emas dari kehalusan millesimal sembilan ratus. Wang ini boleh ditukarkan kepada mata wang negara mengikut angka genap. Penukaran jumlah wang ini ke dalam mata wang negara hendaklah dibuat mengikut undang-undang Negara tersebut.
 
-Perkara 23
+## Perkara 23
 
 (1) Apa-apa peruntukan yang bertujuan untuk melepaskan pengangkut daripada tanggungan atau untuk menetapkan had yang lebih rendah daripada yang terdapat dalam Konvensyen ini adalah batal dan tidak sah, tetapi pembatalan mana-mana peruntukan itu tidaklah menyebabkan keseluruhan kontrak itu terbatal, yang masih tertakluk kepada peruntukan Konvensyen ini.
 
@@ -826,17 +828,17 @@ Perkara 23
 
 <!-- page 19 -->
 
-Perkara 24
+## Perkara 24
 
 (1) Dalam pengangkutan penumpang dan bagasi, mana-mana tindakan untuk mendapatkan ganti rugi, bagaimana jua pun ia berasas, hanya boleh diambil tertakluk kepada syarat dan had yang dinyatakan dalam Konvensyen ini, tanpa menyentuh persoalan siapakah orang yang mempunyai hak untuk membawa guaman dan apakah hak mereka itu masing-masing.
 
 (2) Dalam pengangkutan kargo, mana-mana tindakan untuk mendapatkan ganti rugi, bagaimana jua pun ia berasas, sama ada di bawah Konvensyen ini atau dalam kontrak atau dalam tort atau selainnya, hanya boleh dibawa tertakluk kepada syarat dan had tanggungan yang dinyatakan dalam Konvensyen ini tanpa menyentuh persoalan siapakah yang mempunyai hak untuk membawa guaman dan apakah hak mereka itu masing-masing. Apa-apa had tanggungan merupakan had maksimum dan tidak boleh lebih dalam apa-apa jua hal keadaan yang membawa kepada tanggungan.
 
-Perkara 25
+## Perkara 25
 
 Dalam pengangkutan penumpang dan bagasi, had tanggungan yang dinyatakan dalam Perkara 22 hendaklah tidak terpakai jika terbukti bahawa kerosakan akibat daripada suatu perbuatan atau peninggalan pengangkut, pekhidmatnya atau ejennya, adalah dibuat dengan niat untuk menyebabkan kerosakan atau secara melulu dan dengan pengetahuan bahawa kerosakan akan berlaku; dengan syarat, dalam hal perbuatan atau peninggalan oleh pekhidmat atau ejen itu, adalah juga terbukti bahawa dia sedang bertindak dalam ruang lingkup pekerjaannya.
 
-Perkara 25A
+## Perkara 25A
 
 (1) Jika sesuatu tindakan dibawa terhadap seseorang pekhidmat atau ejen pengangkut akibat kerosakan yang kepadanya Konvensyen ini berhubung, pekhidmat atau ejen itu, jika dia membuktikan bahawa dia bertindak dalam ruang lingkup pekerjaannya, berhak menggunakan faedah had tanggungannya yang pengangkut sendiri berhak menggunakannya di bawah Perkara 22.
 
@@ -844,7 +846,7 @@ Perkara 25A
 
 (3) Dalam pengangkutan penumpang dan bagasi, peruntukan perenggan (1) dan (2) Perkara ini tidak terpakai jika terbukti bahawa kerosakan akibat sesuatu perbuatan atau peninggalan oleh pekhidmat atau ejen dibuat dengan niat untuk menyebabkan kerosakan atau lalai dan dengan pengetahuan bahawa kerosakan itu akan berlaku.
 
-Perkara 26
+## Perkara 26
 
 (1) Resit daripada orang yang berhak menerima bagasi berdaftar atau kargo tanpa aduan adalah keterangan prima facie bahawa bagasi atau kargo itu telah diserahkan dalam keadaan baik dan mengikut dokumen pengangkutan.
 
@@ -856,17 +858,17 @@ Perkara 26
 
 (4) Jika tiada aduan dibuat dalam masa yang tersebut di atas itu, tiada tindakan boleh diambil terhadap pengangkut, kecuali dalam hal fraud di pihaknya.
 
-Perkara 27
+## Perkara 27
 
 Dalam hal kematian orang yang bertanggungan, sesuatu tindakan untuk mendapatkan ganti rugi boleh dibawa mengikut terma Konvensyen ini terhadap orang yang mewakili harta pusakanya di sisi undang-undang.
 
-Perkara 28
+## Perkara 28
 
 (1) Sesuatu tindakan untuk mendapatkan ganti rugi mestilah dibawa, atas pilihan pihak yang menuntut, dalam wilayah satu daripada Pihak-pihak Berjanji Tertinggi, sama ada di hadapan mahkamah yang mempunyai bidang kuasa di mana pengangkut itu biasanya bermastautin, atau ada mempunyai tempat urusan utamanya, atau ada mempunyai suatu pertubuhan yang dengannya kontrak telah dibuat atau di hadapan mahkamah yang mempunyai bidang kuasa di tempat tujuan.
 
 (2) Pertanyaan mengenai tatacara hendaklah ditentukan oleh undang-undang mahkamah yang menguruskan kes itu.
 
-Perkara 29
+## Perkara 29
 
 (1) Hak ke atas ganti rugi adalah terhapus jika sesuatu tindakan tidak dibawa dalam masa dua tahun, dikira dari tarikh ketibaan di tempat tujuan, atau dari tarikh pesawat udara sepatutnya telah tiba, atau dari tarikh pengangkutan telah berhenti.
 
@@ -874,7 +876,7 @@ Perkara 29
 
 <!-- page 21 -->
 
-Perkara 30
+## Perkara 30
 
 (1) Dalam hal pengangkutan yang hendak dilakukan oleh beberapa pengangkut pengganti dan yang termasuk dalam takrif yang dinyatakan dalam perenggan ketiga Perkara 1, tiap-tiap pengangkut yang menerima penumpang, bagasi atau kargo adalah tertakluk kepada kaedah-kaedah yang dinyatakan dalam Konvensyen ini, dan disifatkan sebagai satu daripada pihak-pihak berjanji kepada kontrak pengangkutan itu setakat kontrak itu memperkatakan tentang bahagian pengangkutan yang dilakukan di bawah penyeliaannya.
 
@@ -882,7 +884,7 @@ Perkara 30
 
 (3) Berkenaan dengan bagasi atau kargo, penumpang atau pengirim konsain mempunyai hak tindakan ke atas pengangkut pertama, dan penumpang atau penerima konsain yang berhak ke atas penyerahan mempunyai hak tindakan ke atas pengangkut terakhir, dan selanjutnya, tiap-tiap seorang boleh mengambii tindakan terhadap pengangkut yang telah melakukan pengangkutan yang dalam masa kemusnahan, kehilangan, kerosakan atau kelewatan beriaku. Pengangkut-pengangkut ini adalah bersesama dan berasingan bertanggungan kepada penumpang atau kepada pengirim konsain atau penerima konsain.
 
-Perkara 30A
+## Perkara 30A
 
 Tiada apa-apa jua dalam Konvensyen ini boleh menyentuh persoalan sama ada seseorang yang bertanggungan bagi ganti rugi mengikut peruntukannya mempunyai hak tindakan terhadap mana-mana orang lain.
 
@@ -892,9 +894,11 @@ Tiada apa-apa jua dalam Konvensyen ini boleh menyentuh persoalan sama ada seseor
 
 ## BERCAMPUR-CAMPUR
 
-Perkara 31
+## Perkara 31
 
-(1) Dalam hal pengangkutan bercampur-campur yang dilakukan sebahagiannya melalui udara dan sebahagian lagi oleh mana-mana cara pengangkutan lain, peruntukan Konvensyen ini terpakai hanya bagi pengangkutan melalui udara, dengan syarat pengangkutan melalui udara itu adalah termasuk dalam terma Perkara 1.
+(1) Dalam hal pengangkutan bercampur-campur yang dilakukan sebahagiannya melalui udara dan sebahagian lagi oleh mana-mana cara pengangkutan lain, peruntukan Konvensyen ini terpakai hanya bagi pengangkutan melalui udara, dengan syarat pengangkutan melalui udara itu adalah termasuk dalam terma
+
+## Perkara 1.
 
 (2) Tiada apa-apa jua dalam Konvensyen ini boleh menghalang pihak-pihak dalam hal pengangkutan bercampur-campur daripada memasukkan ke dalam dokumen pengangkutan udara syarat berhubungan dengan cara pengangkutan lain, dengan syarat peruntukan Konvensyen ini dipatuhi berkenaan dengan pengangkutan melalui udara.
 
@@ -904,27 +908,27 @@ Perkara 31
 
 ## PERUNTUKAN AM DAN MUKTAMAD
 
-Perkara 32
+## Perkara 32
 
 Mana-mana fasal yang terkandung dalam kontrak dan semua perjanjian khas yang dibuat sebelum kerosakan berlaku yang menurutnya pihak-pihak yang berkenaan berupa sebagai melanggar kaedah-kaedah yang dinyatakan oleh Konvensyen ini, sama ada dengan memutuskan undang-undang yang hendak dipakai, atau dengan mengubah kaedah-kaedah tentang bidang kuasa, hendaklah batal dan tidak sah. Walau bagaimanapun, bagi pengangkutan kargo, fasal timbang tara adalah dibenarkan tertakluk kepada Konvensyen ini, jika penimbangtaraan itu akan diadakan dalam satu daripada bidang kuasa yang disebut dalam perenggan pertama Perkara 28.
 
-Perkara 33
+## Perkara 33
 
 Kecuali sebagaimana yang diperuntukkan dalam perenggan (3) Perkara 5, tiada apa-apa jua dalam Konvensyen ini boleh menghalang pengangkut sama ada daripada enggan untuk membuat apa-apa kontrak pengangkutan atau daripada membuat peraturan-peraturan yang tidak bercanggah dengan peruntukan Konvensyen ini.
 
-Perkara 34
+## Perkara 34
 
 Peruntukan Perkara 3 hingga 8 termasuk yang berhubungan dengan dokumen pengangkutan hendaklah tidak terpakai dalam hal pengangkutan yang dilakukan dalam hal keadaan luar biasa di luar ruang lingkup biasa urusan pengangkutan udara.
 
-Perkara 35
+## Perkara 35
 
 Ungkapan "hari" apabila digunakan dalam Konvensyen ini ertinya hari semasa bukan hari bekerja.
 
-Perkara 36
+## Perkara 36
 
 Konvensyen ini dibuat dalam bahasa Perancis dalam suatu salinan tunggal yang hendaklah kekal disimpan dalam arkib Kementerian Luar Negeri Poland dan yang satu salinan diperakui hendaklah dihantar oleh Kerajaan Poland kepada Kerajaan tiap-tiap Pihak Berjanji Tertinggi.
 
-Perkara 40A
+## Perkara 40A
 
 (1) [Perenggan ini tidak diturunkan. Perenggan ini mentakrifkan "Pihak Berjanji Tertinggi".]
 
@@ -980,7 +984,7 @@ TELAH BERSETUJU seperti yang berikut:
 
 ## PERUNTUKAN AM
 
-Perkara 1
+## Perkara 1
 
 Bidang Pemakaian
 
@@ -994,11 +998,13 @@ Bidang Pemakaian
 
 <!-- page 25 -->
 
-Perkara 2
+## Perkara 2
 
 Pengangkutan yang dilakukan oleh Negara dan Pengangkutan Barangan Pos
 
-1. Konvensyen ini terpakai bagi pengangkutan yang dilakukan oleh Negara atau oleh badan-badan awam yang ditubuhkan menurut undang-undang dengan syarat pengangkutan itu termasuk dalam syarat-syarat yang dinyatakan dalam Perkara 1.
+1. Konvensyen ini terpakai bagi pengangkutan yang dilakukan oleh Negara atau oleh badan-badan awam yang ditubuhkan menurut undang-undang dengan syarat pengangkutan itu termasuk dalam syarat-syarat yang dinyatakan dalam
+
+## Perkara 1.
 
 2. Dalam pengangkutan barangan pos, pengangkut hendaklah bertanggungan hanya kepada pentadbiran pos yang relevan mengikut kaedah-kaedah yang terpakai kepada hubungan antara pengangkut dengan pentadbiran pos.
 
@@ -1010,7 +1016,7 @@ Pengangkutan yang dilakukan oleh Negara dan Pengangkutan Barangan Pos
 
 ## PENGANGKUTAN PENUMPANG, BAGASI DAN KARGO
 
-Perkara 3
+## Perkara 3
 
 Penumpang dan Bagasi
 
@@ -1030,7 +1036,7 @@ Penumpang dan Bagasi
 
 5. Ketidakpatuhan terhadap peruntukan perenggan yang sebelum ini tidaklah menjejaskan kewujudan atau kesahan kontrak pengangkutan, yang hendaklah, walau apa pun jua, tertakluk kepada kaedah-kaedah Konvensyen ini termasuklah yang berhubungan dengan had tanggungan.
 
-### Perkara 4
+## Perkara 4
 
 Kargo
 
@@ -1038,7 +1044,7 @@ Kargo
 
 2. Apa-apa cara lain yang akan memelihara suatu rekod pengangkutan yang hendak dilakukan boleh diganti dengan penyerahan surat angkutan udara. Jika apa-apa cara lain digunakan, pengangkut hendaklah, jika diminta sedemikian oleh pengirim konsain, menyerahkan kepada pengirim konsain suatu resit bagi kargo yang membenarkan pengenalan terhadap konsainan dan akses kepada maklumat yang terkandung dalam rekod yang dipelihara oleh cara lain itu.
 
-### Perkara 5
+## Perkara 5
 
 Kandungan Surat Angkutan Udara atau Resit Kargo
 
@@ -1050,13 +1056,13 @@ Surat angkutan udara atau resit kargo hendaklah mengandungi:
 
 (c) suatu petunjuk mengenai berat konsainan.
 
-### Perkara 6
+## Perkara 6
 
 Dokumen Yang Berhubungan dengan Jenis Kargo
 
 Pengirim konsain boleh dikehendaki, jika perlu bagi memenuhi formaliti kastam, polis dan pihak berkuasa awam yang sama, untuk menyerahkan suatu dokumen yang menunjukkan jenis kargo. Peruntukan ini tidak memberikan apa-apa tanggungjawab, kewajipan atau tanggungan yang terhasil daripada itu kepada pengangkut.
 
-### Perkara 7
+## Perkara 7
 
 Perihalan Surat Angkutan Udara
 
@@ -1070,7 +1076,7 @@ Perihalan Surat Angkutan Udara
 
 4. Jika, atas permintaan pengirim konsain, pengangkut membuat surat angkutan udara, pengangkut hendaklah disifatkan, melainkan jika dibuktikan sebaliknya, telah berbuat demikian bagi pihak pengirim konsain.
 
-### Perkara 8
+## Perkara 8
 
 Dokumentasi bagi Bungkusan Berganda
 
@@ -1080,13 +1086,13 @@ Apabila terdapat lebih daripada satu bungkusan:
 
 (b) pengirim konsain mempunyai hak untuk menghendaki pengangkut menyerahkan resit kargo yang berasingan apabila cara lain yang disebut dalam perenggan (2) Perkara 5 digunakan.
 
-Perkara 9
+## Perkara 9
 
 Ketidakpatuhan dengan Kehendak Dokumentasi
 
 Ketidakpatuhan peruntukan Perkara 4 hingga 8 tidaklah menjejaskan kewujudan atau kesahan kontrak pengangkutan, yang hendaklah, walau apa pun, tertakluk kepada kaedah-kaedah Konvensyen ini termasuklah apa-apa yang berhubungan dengan had tanggungan.
 
-Perkara 10
+## Perkara 10
 
 Tanggungjawab bagi Butir-Butir Dokumentasi
 
@@ -1100,7 +1106,7 @@ Tanggungjawab bagi Butir-Butir Dokumentasi
 
 atau ketidaklengkapan butir-butir dan pernyataan yang dimasukkan oleh pengangkut atau bagi pihaknya ke dalam resit kargo atau dalam rekod yang dikekalkan oleh cara lain yang disebut dalam perenggan 2 Perkara 4.
 
-### Perkara 11
+## Perkara 11
 
 Nilai Keterangan Dokumentasi
 
@@ -1108,7 +1114,7 @@ Nilai Keterangan Dokumentasi
 
 2. Apa-apa pernyataan dalam surat angkutan udara atau resit kargo yang berhubungan dengan berat, dimensi dan pembungkusan kargo, serta yang berhubungan dengan bilangan bungkusan, adalah keterangan prima facie mengenai fakta yang dinyatakan; pernyataan yang berhubungan dengan kuantiti, isi padu dan keadaan kargo tidak menjadi keterangan terhadap pengangkut kecuali setakat mana ia telah dan adalah kedua-duanya dinyatakan dalam surat angkutan udara atau resit kargo itu sebagai telah diperiksa olehnya di hadapan pengirim konsain, atau berhubung dengan keadaan zahir kargo itu.
 
-### Perkara 12
+## Perkara 12
 
 Hak Pelupusan Kargo
 
@@ -1122,7 +1128,7 @@ Hak Pelupusan Kargo
 
 4. Hak yang diberikan kepada pengirim konsain terhenti apabila hak penerima konsain bermula mengikut Perkara 13. Walau bagaimanapun, jika penerima konsain enggan menerima kargo, atau jika dia tidak dapat dihubungi, pengirim konsain berhak mendapat balik hak pelupusannya.
 
-### Perkara 13
+## Perkara 13
 
 Penyerahan Kargo
 
@@ -1132,13 +1138,13 @@ Penyerahan Kargo
 
 3. Jika pengangkut mengakui kehilangan kargo, atau jika kargo tidak tiba apabila tamat tujuh hari selepas tarikh kargo itu sepatutnya tiba, penerima konsain berhak menguatkuasakan terhadap pengangkut hak yang berbangkit daripada kontrak pengangkutan itu.
 
-### Perkara 14
+## Perkara 14
 
 Penguatkuasaan Hak Pengirim Konsain dan Penerima Konsain
 
 Pengirim konsain dan penerima konsain boleh masing-masing menguatkuasakan segala hak yang diberikan kepada mereka oleh Perkara 12 dan 13, setiap satu atas nama sendiri, sama ada dia bertindak untuk kepentingannya sendiri atau kepentingan orang lain, dengan syarat dia menjalankan segala kewajipan yang dikenakan oleh kontrak pengangkutan itu.
 
-### Perkara 15
+## Perkara 15
 
 Hubungan Pengirim Konsain dengan Penerima Konsain atau Hubungan Salingan dengan Pihak Ketiga
 
@@ -1148,7 +1154,7 @@ Hubungan Pengirim Konsain dengan Penerima Konsain atau Hubungan Salingan dengan 
 
 <!-- page 30 -->
 
-Perkara 16
+## Perkara 16
 
 Formaliti Kastam, Polis atau Pihak Berkuasa Awara Lain
 
@@ -1174,7 +1180,7 @@ Formaliti Kastam, Polis atau Pihak Berkuasa Awara Lain
 
 ## TANGGUNGAN PENGANGKUT DAN TAKAT PAMPASAN BAGI KEROSAKAN
 
-Perkara 17
+## Perkara 17
 
 Kematian dan Kecederaan Penumpang — Kerosakan kepada Bagasi
 
@@ -1224,7 +1230,7 @@ Kematian dan Kecederaan Penumpang — Kerosakan kepada Bagasi
 
 <!-- page 31 -->
 
-### Perkara 18
+## Perkara 18
 
 Kerosakan kepada Kargo
 
@@ -1244,7 +1250,7 @@ Kerosakan kepada Kargo
 
 4. Tempoh pengangkutan melalui udara tidak meliputi apa-apa pengangkutan melalui darat, laut atau jalan air pedalaman yang dilakukan di luar lapangan terbang. Walau bagaimanapun, sekiranya pengangkutan itu dilakukan dalam menjalankan suatu kontrak bagi pengangkutan melalui udara, bagi maksud memuatkan, menyerahkan atau memindahkan, apa-apa kerosakan dianggap, melainkan jika dibuktikan sebaliknya, sebagai akibat suatu kejadian yang berlaku semasa pengangkutan melalui udara. Jika sesuatu pengangkut, tanpa kebenaran pengirim konsain, menggantikan pengangkutan dengan cara pengangkutan yang lain bagi keseluruhan atau sebahagian pengangkutan yang diniatkan oleh perjanjian antara pihak-pihak hendaklah pengangkutan melalui udara, pengangkutan oleh cara pengangkutan lain itu disifatkan sebagai berada dalam tempoh pengangkutan melalui udara.
 
-### Perkara 19
+## Perkara 19
 
 Kelewatan
 
@@ -1252,13 +1258,13 @@ Pengangkut adalah bertanggungan bagi kerosakan yang disebabkan oleh kelewatan da
 
 <!-- page 32 -->
 
-### Perkara 20
+## Perkara 20
 
 Perlepasan
 
 Jika pengangkut membuktikan bahawa kerosakan itu adalah disebabkan atau disumbangi kecuaian atau perbuatan salah lain atau ketinggalan orang yang menuntut pampasan, atau orang yang daripadanya dia mendapat hak itu, pengangkut hendaklah dilepaskan sepenuhnya atau sebahagiannya daripada tanggungannya terhadap orang yang menuntut setakat kecuaian atau perbuatan salah itu atau ketinggalan itu adalah disebabkan atau disumbangi oleh kerosakan itu. Apabila dengan alasan kematian atau kecederaan seseorang penumpang pampasan dituntut oleh orang lain selain penumpang, pengangkut hendaklah dilepaskan dengan serupa sepenuhnya atau sebahagiannya daripada tanggungannya setakat ia membuktikan bahawa kerosakan itu adalah disebabkan atau disumbangi kecuaian atau perbuatan salah lain atau ketinggalan penumpang. Perkara ini adalah terpakai bagi semua peruntukan tanggungan dalam Konvensyen ini, termasuklah perenggan 1 Perkara 21.
 
-### Perkara 21
+## Perkara 21
 
 Pampasan dalam Hal Kematian atau Kecederaan Penumpang
 
@@ -1270,7 +1276,7 @@ Pampasan dalam Hal Kematian atau Kecederaan Penumpang
 
 (b) kerosakan itu adalah semata-mata disebabkan oleh kecuaian atau perbuatan salah lain atau ketinggalan sesuatu pihak ketiga.
 
-### Perkara 22
+## Perkara 22
 
 Had Tanggungan bcrhubung dengan Kelewatan, Bagasi dan Kargo
 
@@ -1292,7 +1298,7 @@ melebihi jumlah wang yang diisytiharkan, melainkan jika ia membuktikan bahawa ju
 
 <!-- page 34 -->
 
-Perkara 23
+## Perkara 23
 
 Penukaran Unit Mata Wang
 
@@ -1304,7 +1310,7 @@ Penukaran Unit Mata Wang
 
 <!-- page 35 -->
 
-Perkara 24
+## Perkara 24
 
 Semakan Had
 
@@ -1314,7 +1320,7 @@ Semakan Had
 
 3. Walau apa pun perenggan 1 Perkara ini, tatacara yang disebut dalam perenggan 2 Perkara ini hendaklah terpakai pada bila-bila masa dengan syarat satu pertiga daripada Pihak Negara telah menyatakan hasrat untuk menguatkuasakan semakan itu dan dengan syarat bahawa faktor inflasi yang disebut dalam perenggan 1 telah melebihi 30 peratus daripada semakan yang sebeiumnya atau dari tarikh permulaan kuat kuasa Konvensyen ini jika tiada semakan semula dibuat sebelum ini. Semakan semula yang kemudiannya yang menggunakan tatacara yang diterangkan dalam perenggan 1 Perkara ini akan dibuat pada interval lima tahun bermula pada akhir tahun kelima mengikuti tarikh semakan semula di bawah perenggan yang ada.
 
-Perkara 25
+## Perkara 25
 
 Ketetapan Had
 
@@ -1322,25 +1328,25 @@ Sesuatu pengangkut boleh menetapkan bahawa kontrak pengangkutan hendaklah tertak
 
 <!-- page 36 -->
 
-### Perkara 26
+## Perkara 26
 
 Ketidaksahan Peruntukan Kontrak
 
 Apa-apa peruntukan yang bertujuan untuk melepaskan pengangkut daripada tanggungan atau untuk menetapkan had yang lebih rendah daripada apa yang dinyatakan oleh Konvensyen ini adalah batal dan tidak sah, tetapi batalnya mana-mana peruntukan itu tidak melibatkan pembatalan keseluruhan kontrak, yang masih tertakluk kepada peruntukan Konvensyen ini.
 
-### Perkara 27
+## Perkara 27
 
 Kebebasan Berkontrak
 
 Tiada apa-apa yang terkandung dalam Konvensyen ini boleh menghalang pengangkut daripada enggan untuk membuat apa-apa kontrak pengangkutan, daripada melepaskan apa-apa pembelaan yang ada di bawah Konvensyen, atau daripada menyediakan syarat-syarat yang tidak bercanggah dengan peruntukan Konvensyen ini.
 
-### Perkara 28
+## Perkara 28
 
 Bayaran Pendahuluan
 
 Dalam hal kemalangan pesawat udara yang mengakibatkan kematian atau kecederaan penumpang, pengangkut hendaklah, jika dikehendaki oleh undang- undang negaranya, membuat bayaran pendahuluan tanpa lengah kepada seseorang orang sebenar atau orang-orang yang berhak untuk menuntut pampasan supaya dapat memenuhi keperluan ekonomi segera orang itu. Apa-apa bayaran pendahuluan itu hendaklah tidak dikira sebagai pengiktirafan tanggungan dan boleh ditolak daripada apa-apa amaun yang dibayar berikutnya sebagai ganti rugi oleh pengangkut.
 
-### Perkara 29
+## Perkara 29
 
 Asas Tuntutan
 
@@ -1348,7 +1354,7 @@ Dalam pengangkutan penumpang, bagasi dan kargo, mana-mana tindakan untuk mendapa
 
 <!-- page 37 -->
 
-### Perkara 30
+## Perkara 30
 
 Pekhidmat, Ejen — Agregat Tuntutan
 
@@ -1358,7 +1364,7 @@ Pekhidmat, Ejen — Agregat Tuntutan
 
 3. Kecuali berkenaan dengan pengangkutan kargo, peruntukan perenggan 1 dan 2 Perkara ini tidak terpakai jika telah dibuktikan bahawa kerosakan akibat daripada perbuatan atau peninggalan pekhidmat atau ejen dibuat dengan niat untuk menyebabkan kerosakan atau secara melulu atau dengan pengetahuan kemungkinan akan mengakibatkan kerosakan.
 
-### Perkara 31
+## Perkara 31
 
 Notis Aduan Dalam Masa yang Tepat
 
@@ -1370,7 +1376,7 @@ Notis Aduan Dalam Masa yang Tepat
 
 4. Jika tiada aduan dibuat dalam masa yang tersebut di atas itu, tiada tindakan boleh diambil terhadap pengangkut, kecuali dalam hal fraud di pihaknya.
 
-### Perkara 32
+## Perkara 32
 
 Kematian Orang yang Bertanggungan
 
@@ -1378,7 +1384,7 @@ Dalam hal kematian orang yang bertanggungan, sesuatu tindakan untuk mendapatkan 
 
 <!-- page 38 -->
 
-Perkara 33
+## Perkara 33
 
 Bidang Kuasa
 
@@ -1394,7 +1400,7 @@ Bidang Kuasa
 
 4. Pertanyaan tentang tatacara hendaklah dikawal oleh undang-undang mahkamah yang menguasai kes.
 
-Perkara 34
+## Perkara 34
 
 Timbang Tara
 
@@ -1408,7 +1414,7 @@ Timbang Tara
 
 4. Peruntukan perenggan 2 dan 3 Perkara ini hendaklah disifatkan sebagai sebahagian daripada tiap-tiap fasal atau perjanjian timbang tara, dan mana-mana terma fasal atau perjanjian yang tidak selaras dengan perenggan-perenggan itu adalah batal dan tidak sah.
 
-### Perkara 35
+## Perkara 35
 
 Had Tindakan
 
@@ -1416,7 +1422,7 @@ Had Tindakan
 
 2. Cara bagi mengira tempoh itu hendaklah ditentukan oleh undang-undang mahkamah yang menguruskan kes itu.
 
-### Perkara 36
+## Perkara 36
 
 Pengangkutan Pengganti
 
@@ -1426,7 +1432,7 @@ Pengangkutan Pengganti
 
 3. Berkenaan dengan bagasi atau kargo, penumpang atau pengirim konsainan mempimyai hak tindakan terhadap pengangkut pertama, dan penumpang atau penerima konsain yang berhak ke atas penyerahan mempunyai hak tindakan terhadap pengangkut terakhir, dan selanjutnya, setiapnya boleh mengambil tindakan terhadap pengangkut yang melakukan pengangkutan yang dalam masa itu kemusnahan, kehilangan, kerosakan atau kelewatan berlaku. Pengangkut- pengangkut ini adalah bersesama dan berasingan bertanggungan kepada penumpang atau kepada pengirim konsain atau penerima konsain.
 
-### Perkara 37
+## Perkara 37
 
 Hak Tindakan Terhadap Pihak Ketiga
 
@@ -1438,7 +1444,7 @@ Tiada apa-apa jua dalam Konvensyen ini boleh menyentuh persoalan sama ada seseor
 
 ## PENGANGKUTAN BERCAMPUR-CAMPUR
 
-Perkara 38 Pengangkutan
+## Perkara 38 Pengangkutan
 
 Bercampur-campur
 
@@ -1468,7 +1474,7 @@ Bercampur-campur
 
 ## PENGANGKUT BERJANJI
 
-### Perkara 39
+## Perkara 39
 
 Pengangkut Berjanji — Pengangkut Sebenat
 
@@ -1490,7 +1496,7 @@ Pengangkut Berjanji — Pengangkut Sebenat
 
 ### dianggap ada dalam ketiadaan bukti sebaliknya.
 
-### Perkara 40
+## Perkara 40
 
 Tanggungan Masing-Masing Pengangkut Berjanji dan Pengangkut Sebenar
 
@@ -1510,7 +1516,7 @@ Tanggungan Masing-Masing Pengangkut Berjanji dan Pengangkut Sebenar
 
 <!-- page 41 -->
 
-### Perkara 41
+## Perkara 41
 
 Tanggungan Salingan
 
@@ -1518,13 +1524,13 @@ Tanggungan Salingan
 
 2. Perbuatan dan peninggalan pengangkut berjanji dan pekhidmatnya dan ejennya yang bertindak dalam ruang lingkup pekerjaan mereka hendaklah, berhubung dengan pengangkutan yang dilakukan oleh pengangkut sebenar, disifatkan juga sebagai dilakukan oleh pengangkut sebenar. Walau bagaimanapun, tiada perbuatan atau peninggalan itu membuatkan pengangkut sebenar tertakluk kepada tanggungan yang melebihi amaun yang disebut dalam Perkara 21, 22, 23 dan 24. Mana-mana perjanjian khas yang di bawahnya pengangkut berjanji mengambil obligasi yang tidak dikenakan oleh Konvensyen ini atau mana-mana pelepasan hak atau pembelaan yang diberikan oleh Konvensyen ini atau mana- mana perisytiharan khas kepentingan mengenai penyerahan di tempat tujuan yang terdapat dalam Perkara 22 hendaklah tidak akan menjejaskan pengangkut sebenar melainkan dipersetujui olehnya.
 
-### Perkara 42
+## Perkara 42
 
 Penerima Aduan dan Arahan
 
 Mana-mana aduan yang hendak dibuat atau arahan yang hendak diberikan di bawah Konvensyen ini kepada pengangkut hendaklah mempunyai kuat kuasa yang sama, sama ada ditujukan kepada pengangkut berjanji ataupun pengangkut sebenar. Walau bagaimanapun, arahan yang disebut dalam Perkara 12 hanya boleh berkuat kuasa jika ditujukan kepada pengangkut berjanji.
 
-### Perkara 43
+## Perkara 43
 
 Pekhidmat dan Ejen
 
@@ -1532,25 +1538,25 @@ Berhubung dengan pengangkutan yang dilakukan boleh pengangkut sebenar, mana-mana
 
 <!-- page 42 -->
 
-### Perkara 44
+## Perkara 44
 
 Aggregat Ganti Rugi
 
 Berhubung dengan pengangkutan yang dilakukan oleh pengangkut sebenar, agregat amaun yang boleh didapatkan daripada pengangkut itu dan pengangkut berjanji, dan daripada pekhidmatnya and ejennya yang bertindak dalam ruang lingkup pekerjaan mereka, hendaklah tidak boleh melebihi amaun paling tinggi yang boleh diawardkan terhadap sama ada pengangkut berjanji atau pengangkut sebenar di bawah Konvensyen ini, tetapi tiada seorang pun yang disebut tadi bertanggungan bagi juralah wang yang melebihi had yang terpakai bagi orang itu.
 
-### Perkara 45
+## Perkara 45
 
 Penerima Tuntutan
 
 Berhubung dengan pengangkutan yang dilakukan oleh pengangkut sebenar, sesuatu tindakan untuk mendapatkan ganti rugi boleh dibawa, atas pilihan pihak yang menuntut, terhadap pengangkut itu atau pengangkut berjanji, atau terhadap kedua-dua itu bersama atau berasingan. Jika tindakan itu dibawa hanya terhadap salah satu daripada pengangut-pengangkut itu, pengangkut itu mempunyai hak untuk menghendaki pengangkut lain dibawa bersama ke dalam prosiding, tatacara dan kesannya yang dikawal oleh undang-undang mahkamah yang menguasai kes itu.
 
-### Perkara 46
+## Perkara 46
 
 Bidang Kuasa Tambahan
 
 Apa-apa tindakan untuk mendapatkan ganti rugi yang terdapat dalam Perkara 45 mestilah dibawa, atas pilihan pihak yang menuntut, dalam wilayah satu daripada Pihak-pihak Negara, sama ada di hadapan suatu mahkamah yang dalamnya suatu tindakan boleh dibawa terhadap pengangkut berjanji, sebagaimana yang diperuntukkan dalam Perkara 33, atau di hadapan mahkamah yang mempunyai bidang kuasa di mana pengangkut sebenar mempunyai domisilnya atau tempat perniagaan utamanya.
 
-### Perkara 47
+## Perkara 47
 
 Keiidaksahan Peruntukan Kontrak
 
@@ -1558,7 +1564,7 @@ Apa-apa peruntukan kontrak yang bertujuan untuk melepaskan pengangkut berjanji a
 
 <!-- page 43 -->
 
-### Perkara 48
+## Perkara 48
 
 Hubungan Salingan Antara Pengangkut Berjanji dengan Pengangkut Sebenar
 
@@ -1568,7 +1574,7 @@ Melainkan sebagaimana yang diperuntukan dalam Perkara 45, tiada apa-apa jua dala
 
 ## PERUNTUKAN LAIN
 
-### Perkara 49
+## Perkara 49
 
 Pemakaian Mandatori
 
@@ -1580,13 +1586,13 @@ Insurans
 
 Pihak Negara hendaklah menghendaki pengangkut-pengangkutnya menyenggarakan insurans yang mencukupi bagi melindungi tanggungan mereka di bawah Konvensyen ini. Sesuatu pengangkut boleh dikehendaki oleh Pihak Negara yang ke dalamnya ia mengendalikan untuk memberikan keterangan bahawa ia menyenggara insurans yang mencukupi untuk melindungi tanggungannya di bawah Konvensyen ini.
 
-### Perkara 51
+## Perkara 51
 
 Pengangkutan Yang Dilakukan Dalam Hal Keadaan Luar Biasa
 
 Peruntukan Perkara 3 hingga 5, 7 dan 8 yang berhubungan dengan dokumentasi pengangkutan tidak terpakai dalam hal pengangkutan yang dilakukan dalam hal keadaan luar biasa di luar ruang lingkup biasa perniagaan pengangkut.
 
-### Perkara 52
+## Perkara 52
 
 Takrif Hari
 
@@ -1598,13 +1604,13 @@ Ungkapan "hari" apabila digunakan dalam Konvensyen ini ertinya hari kalendar, bu
 
 ## FASAL MUKTAMAD
 
-Perkara 53 Tandatangan, Ratifikasi dan Permulaan
+## Perkara 53 Tandatangan, Ratifikasi dan Permulaan
 
 Kuat Kuasa
 
 Bagi maksud Konvensyen ini, suatu "Pertubuhan Integrasi Ekonomi Serantau" ertinya mana-mana pertubuhan yang dibentuk oleh Negara berdaulat sesuatu rantau yang mempunyai kewibawaan berkenaan dengan perkara tertentu yang dikawal oleh Konvensyen ini dan telah diberi kuasa sewajarnya untuk menandatangani dan meratifikasikan, meluluskan atau menyertai Konvensyen ini. Sesuatu sebutan mengenai "Pihak Negara" atau "Pihak-pihak Negara" dalam Konvensyen ini, selain dalam perenggan 2 Perkara 1, perenggan \(b) Perkara 3, perenggan (b) Perkara 5, Perkara 23, 33, 46 dan perenggan (b) Perkara 57, terpakai juga mengenai Pertubuhan Integrasi Ekonomi Serantau. Bagi maksud Perkara 24, sebutan mengenai "majoriti Pihak Negara" dan "satu pertiga daripada Pihak Negara" tidak terpakai kepada Pertubuhan Integrasi Ekonomi Serantau.
 
-Perkara 55 Hubungan dengan Surat
+## Perkara 55 Hubungan dengan Surat
 
 Cara Konvensyen Warsaw yang lain
 
@@ -1626,7 +1632,7 @@ Konvensyen ini hendaklah mengatasi mana-mana undang-undang yang terpakai bagi pe
 
 2. Dalam wilayah mana-mana satu Pihak Negara kepada Konvensyen ini menurut kuasa Negara itu merupakan Pihak kepada satu surat cara atau lebih yang disebut dalam subperenggan (a) hingga (e) di atas.
 
-Perkara 57
+## Perkara 57
 
 Tiada reservasi boleh dibuat ke atas Konvensyen ini kecuali Pihak Negara boleh pada bila-bila masa mengisytiharkan melalui pemberitahuan yang ditujukan kepada Depositor! bahawa Konvensyen ini tidak terpakai bagi:
 

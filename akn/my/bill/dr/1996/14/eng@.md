@@ -120,11 +120,19 @@ Income of 5. (1) The income of the Corporation shall Corpora- accrue to the Boar
 
 <!-- page 4 -->
 
-Deletion of
+<!-- marginal: Deletion of -->
 
-7. The principal Act is amended by deleting section 8. section 8. Substitution
+7. The principal Act is amended by deleting section 8.
 
-8. The principal Act is amended by substituting for section of section 12 the following section:
+<!-- marginal: section 8. -->
+
+<!-- marginal: Substitution -->
+
+8. The principal Act is amended by substituting for section
+
+<!-- marginal: of section -->
+
+12 the following section:
 
 12.
 
@@ -136,9 +144,11 @@ Manage- 12. (1) All the powers of the Corporation shall ment and be vested in an
 
 (4) The Board may appoint a Deputy Chairman of the Corporation.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-9. Section 14 of the principal Act is amended— of section
+9. Section 14 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 14.
 
@@ -146,19 +156,31 @@ Amendment
 
 (b) in paragraph (k) by deleting the words "and regulations" appearing after the word "bye-laws".
 
-Deletion of
+<!-- marginal: Deletion of -->
 
-10. The principal Act is amended by deleting section section 15. 15.
+10. The principal Act is amended by deleting section
 
-Amendment
+<!-- marginal: section 15. -->
 
-11. Section 17 of the principal Act is amended by of section substituting for the words ", bye-laws and regulations"
+15.
+
+<!-- marginal: Amendment -->
+
+11. Section 17 of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+substituting for the words ", bye-laws and regulations"
 
 17. wherever they appear the words "and bye-laws".
 
-Amendment
+<!-- marginal: Amendment -->
 
-12. Paragraph 18(1)(b) of the principal Act is amended of section by substituting for the words ", bye-laws or regulations"
+12. Paragraph 18(1)(b) of the principal Act is amended
+
+<!-- marginal: of section -->
+
+by substituting for the words ", bye-laws or regulations"
 
 18. appearing after the word "rules" the words "or bye-laws".
 
@@ -212,6 +234,4 @@ This Bill seeks to amend the Malaysian Rubber Exchange (Incorporation) Act 1962 
 
 ## IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure.
-
-<!-- marginal: [PN.(U2)1916.] -->
+This Bill will not involve the Government in any extra financial expenditure. [PN.(U2)1916.]

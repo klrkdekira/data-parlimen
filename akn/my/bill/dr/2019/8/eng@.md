@@ -4,19 +4,19 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Territorial and extra-territorial application 3. Interpretation
 
-## Part II
+## PART II
 
 ## ADMINISTRATION
 
 4. Functions and powers of Director General and other officers 5. Persons appointed or employed to be public servants 6. Recognition of office 7. Confidentiality of information 8. Director General may transmit, etc., document, etc.
 
-## Part III
+## PART III
 
 ## IMPOSITION AND SCOPE OF DEPARTURE LEVY
 
@@ -28,7 +28,7 @@
 
 12. Refund of departure levy
 
-## Part IV
+## PART IV
 
 ## REGISTRATION
 
@@ -42,7 +42,7 @@
 
 <!-- page 2 -->
 
-## Part V
+## PART V
 
 ## RECORDS, RETURNS, ASSESSMENT AND RECOVERY
 
@@ -74,7 +74,7 @@
 
 30. Liability of directors, etc.
 
-## Part VI
+## PART VI
 
 ## EXEMPTION, REMISSION AND REFUND
 
@@ -86,7 +86,7 @@
 
 34. Refund upon satisfaction of Director General and with supporting evidence
 
-## Part VII
+## PART VII
 
 ## ENFORCEMENT
 
@@ -116,7 +116,7 @@
 
 44. Departure levy, etc., to be payable notwithstanding any proceedings, etc.
 
-## Part IX
+## PART IX
 
 ## TRIALS AND PROCEEDINGS
 
@@ -140,7 +140,7 @@
 
 54. Protection of informers from discovery
 
-## Part X
+## PART X
 
 ## MISCELLANEOUS
 
@@ -162,7 +162,7 @@
 
 62. Power to make regulations
 
-## Part XI
+## PART XI
 
 ## TRANSITIONAL
 
@@ -180,7 +180,7 @@ An Act to provide for the imposition of a departure levy on persons leaving Mala
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -232,7 +232,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “effective date” means the date appointed under subsection 1(3).
 
-## Part II
+## PART II
 
 ## ADMINISTRATION
 
@@ -294,7 +294,7 @@ commits an offence.
 
 <!-- page 10 -->
 
-## Part III
+## PART III
 
 ## IMPOSITION AND SCOPE OF DEPARTURE LEVY
 
@@ -340,7 +340,7 @@ at the rate specified by the Minister in accordance with section 11 of the Act.
 
 (3) The Director General may reduce or disallow any departure levy refundable under subsection (1) to the extent that the refund would unjustly enrich the person by whom the departure levy was paid.
 
-## Part IV
+## PART IV
 
 ## REGISTRATION
 
@@ -388,7 +388,7 @@ shall notify the Director General in writing of that fact sixty days before the 
 
 (3) Any registered person who contravenes subsection (1), commits an offence and shall on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding one year or to both.
 
-## Part V
+## PART V
 
 ## RECORDS, RETURNS, ASSESSMENT AND RECOVERY
 
@@ -544,7 +544,7 @@ to pay to the Director General forthwith, or within such period as the Director 
 
 (2) In relation to a company that is being wound up, the directors of the company shall only be so liable where the assets of the company are insufficient to meet the amount due, after paying any sum having priority under the Companies Act 2016 [Act 777] in relation to the application of the assets of the company in winding up over the departure levy or penalty.
 
-## Part VI
+## PART VI
 
 ## EXEMPTION, REMISSION AND REFUND
 
@@ -600,7 +600,7 @@ to pay to the Director General forthwith, or within such period as the Director 
 
 (2) A claim under this section shall be supported by such evidence as required by the Director General.
 
-## Part VII
+## PART VII
 
 ## ENFORCEMENT
 
@@ -726,7 +726,7 @@ that person shall be liable to the same punishment or penalty for every such act
 
 44. The institution of proceedings or the imposition of a penalty, fine or term of imprisonment under this Act or the compounding of an offence under section 51 shall not relieve any person from the liability to pay for departure levy or penalty under this Act.
 
-## Part IX
+## PART IX
 
 ## TRIALS AND PROCEEDINGS
 
@@ -748,9 +748,7 @@ that person shall be liable to the same punishment or penalty for every such act
 
 (3) No statement made or document produced by or on behalf of any person shall be inadmissible in evidence against the person in any proceedings against him to which this section applies, by reason only of the fact that he was or may have been induced to make the statement or produce the document by any inducement, promise or threat made by any person having any official duty under, or being appointed for the due administration of, this Act or the regulations made under this Act.
 
-(4) Nothing in this Act shall affect the operation of
-
-## Chapter IX of Part III of the Evidence Act 1950.
+(4) Nothing in this Act shall affect the operation of Chapter IX of Part III of the Evidence Act 1950.
 
 (5) Where in any proceedings it is proved that any false statement or entry has been made in any return rendered under this Act by or on behalf of any person or in any books of account or records of any person—
 
@@ -842,7 +840,7 @@ with two additional months for every ten thousand ringgit after the first twenty
 
 (3) If in the trial for any offence under this Act, the court, after full enquiry into the case, believes that the informer wilfully made in his complaint a material statement which he knew or believed to be false or did not believe to be true, or if in any other proceedings the court is of the opinion that justice cannot be fully done between the parties thereto without the discovery of the informer, it shall be lawful for the court to require the production of the original complaint, if in writing, and permit enquiry, and require full disclosure, concerning the informer.
 
-## Part X
+## PART X
 
 ## MISCELLANEOUS
 
@@ -974,7 +972,7 @@ that registered person set aside such sum out of the assets as appears to the Di
 
 (3) Any regulations made under this section may prescribe an act or omission in contravention of the regulation to be an offence and may prescribe penalties of a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding one years or both for such offence.
 
-## Part XI
+## PART XI
 
 ## TRANSITIONAL
 
@@ -998,7 +996,7 @@ that registered person set aside such sum out of the assets as appears to the Di
 
 The proposed Departure Levy Bill 2019 (“the proposed Act”) seeks to provide for the imposition and collection of departure levy, and for matters connected therewith. The proposed Act provides for the implementation of a new levy namely the departure levy on any person leaving Malaysia.
 
-## Part I
+## PART I
 
 2. Part I deals with preliminary matters.
 
@@ -1008,7 +1006,7 @@ The proposed Departure Levy Bill 2019 (“the proposed Act”) seeks to provide 
 
 5. Clause 3 contains the definitions of certain words and expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 6. Part II deals with the administration on matters relating to departure levy.
 
@@ -1024,7 +1022,7 @@ The proposed Departure Levy Bill 2019 (“the proposed Act”) seeks to provide 
 
 11. Clause 8 seeks to empower the Director General to transmit or communicate any document, information, return or declaration or anything contained in such document, information, return or declaration to the Chief Statistician of the Department. This clause further provides that the Minister may allow the Director General to transmit or communicate any document, information, return or declaration or anything contained in such document, information, return or declaration to any person that the Minister deems fit.
 
-## Part III
+## PART III
 
 12. Part III deals with the provisions relating to the imposition and scope of departure levy.
 
@@ -1038,7 +1036,7 @@ The proposed Departure Levy Bill 2019 (“the proposed Act”) seeks to provide 
 
 <!-- page 41 -->
 
-## Part IV
+## PART IV
 
 17. Part IV contains provisions relating to registration of an operator as a registered person under the proposed Act.
 
@@ -1050,7 +1048,7 @@ The proposed Departure Levy Bill 2019 (“the proposed Act”) seeks to provide 
 
 21. Clause 16 seeks to require any registered person to notify the Director General if he intends to cease to operate as an operator or agent sixty days before the date of cessation. Upon receipt of the notification, the Director General may cancel the registered person’s registration from such date as the Director General may determine.
 
-## Part V
+## PART V
 
 22. Part V contains provisions relating to records, returns, assessment and recovery.
 
@@ -1086,7 +1084,7 @@ The proposed Departure Levy Bill 2019 (“the proposed Act”) seeks to provide 
 
 36. Clause 30 seeks to provide for the liability of directors of companies, compliance officers of limited liability partnerships, partners of firms, the office-bearers of societies or the person responsible for the management of the body person for any departure levy due and payable or any penalty payable, by the companies, limited liability partnerships, firms, societies or bodies of person.
 
-## Part VI
+## PART VI
 
 37. Part VI contains provisions relating to exemption, remission and refund of departure levy.
 
@@ -1098,7 +1096,7 @@ The proposed Departure Levy Bill 2019 (“the proposed Act”) seeks to provide 
 
 41. Clause 34 seeks to provide that the Director General may refund the levy or penalty if he is satisfied that such overpayment has occurred. Any claim shall be supported by evidence as required by the Director General.
 
-## Part VII
+## PART VII
 
 42. Part VII contains provisions relating to enforcement.
 
@@ -1128,7 +1126,7 @@ The proposed Departure Levy Bill 2019 (“the proposed Act”) seeks to provide 
 
 53. Clause 44 seeks to provide for the liability of a person to pay the departure levy or penalty notwithstanding the institution of any proceedings or the imposition of a penalty, fine or imprisonment or the compounding of an offence.
 
-## Part IX
+## PART IX
 
 54. Part IX deals with the provisions relating to trials and proceedings.
 
@@ -1154,7 +1152,7 @@ The proposed Departure Levy Bill 2019 (“the proposed Act”) seeks to provide 
 
 64. Clause 54 seeks to require a witness not to disclose information relating to an informer which may lead to the discovery of the informer. It also provides for a passage in a book, document or paper to be concealed or obliterated to protect the informer from discovery during inspection of the books, documents or papers in proceedings and allows the court to require the production of the original complaint or full disclosure of the informer if the court finds that the informer has made a false material statement or that justice cannot be fully done without the discovery of the informer.
 
-## Part X
+## PART X
 
 65. Part X deals with miscellaneous provisions.
 
@@ -1176,7 +1174,7 @@ The proposed Departure Levy Bill 2019 (“the proposed Act”) seeks to provide 
 
 73. Clause 62 seeks to empower the Minister to make regulations for the purposes of carrying into effect the proposed Act.
 
-## Part XI
+## PART XI
 
 74. Part XI deals with transitional provisions.
 

@@ -8,25 +8,13 @@
 
 ## PRELIMINARY
 
-1. Short title and commencement.
-
-2. Interpretation.
-
-3. Function of Bank.
+1. Short title and commencement. 2. Interpretation. 3. Function of Bank.
 
 ## PART II
 
 ## LICENSING OF INSURER, INSURANCE BROKER AND ADJUSTER
 
-4. Classification of insurance business.
-
-5. Business which is not insurance business.
-
-6. Prohibition or restriction of insurance business.
-
-7. Prohibition on annuity certain or investment-linked insurance business. 8. Activity constituting insurance business.
-
-9. Prohibition to carry on business unless licensed.
+4. Classification of insurance business. 5. Business which is not insurance business. 6. Prohibition or restriction of insurance business. 7. Prohibition on annuity certain or investment-linked insurance business. 8. Activity constituting insurance business. 9. Prohibition to carry on business unless licensed.
 
 10. Holding out as an insurer, insurance broker or adjuster.
 
@@ -56,7 +44,29 @@
 
 <!-- page 2 -->
 
-23. Condition of licence. 24. Form of licence. 25. Display of licence. 26. Name to be affixed outside office. 27. Commencement of business. 28. Restriction of business. 29. Amendment of licensing particulars. 30. Licensed business to be carried on exclusively by licensee. 31. Revocation of licence. 32. Appeal against revocation of licence. 33. Effect of revocation of licence. 34. List of licensed insurers to be gazetted.
+23. Condition of licence.
+
+24. Form of licence.
+
+25. Display of licence.
+
+26. Name to be affixed outside office.
+
+27. Commencement of business.
+
+28. Restriction of business.
+
+29. Amendment of licensing particulars.
+
+30. Licensed business to be carried on exclusively by licensee.
+
+31. Revocation of licence.
+
+32. Appeal against revocation of licence.
+
+33. Effect of revocation of licence.
+
+34. List of licensed insurers to be gazetted.
 
 ## PART
 
@@ -64,13 +74,37 @@ III
 
 ## SUBSIDIARY AND OFFICE OF LICENSEE
 
-35. Subsidiary of licensee. 36. Office of licensee. 37. Application under section 35 or 36.
+35. Subsidiary of licensee.
+
+36. Office of licensee.
+
+37. Application under section 35 or 36.
 
 ## PART IV
 
 ## INSURANCE FUND AND SHAREHOLDERS' FUND
 
-38. Establishment of insurance fund. 39. Determination of policy relating to insurance fund. 40. Credit into insurance fund. 41. Application of insurance fund. 42. Assets of insurance fund. 43. Withdrawal from insurance fund. 44. Valuation of assets and determination of liabilities. 45. Investment of assets. 46. Margin of solvency. 47. Register of policies and register of claims. 48. Document of title.
+38. Establishment of insurance fund.
+
+39. Determination of policy relating to insurance fund.
+
+40. Credit into insurance fund.
+
+41. Application of insurance fund.
+
+42. Assets of insurance fund.
+
+43. Withdrawal from insurance fund.
+
+44. Valuation of assets and determination of liabilities.
+
+45. Investment of assets.
+
+46. Margin of solvency.
+
+47. Register of policies and register of claims.
+
+48. Document of title.
 
 <!-- page 3 -->
 
@@ -134,13 +168,63 @@ III
 
 ## AUDITOR, ACTUARY AND ACCOUNTS
 
-74. Appointment of auditor. 75. Disqualification of auditor. 76. Restriction on audit firm. 77. Consent to act as auditor. 78. Appointment of audit firm. 79. Auditor not deemed to be employee of licensee. 80. Auditor's report. 81. Additional requirement from auditor. 82. Auditor to report certain matters to the Bank. 83. Appointment of actuary by life insurer. 84. Cessation to be appointed actuary. 85. Actuarial investigation and report. 86. Information to auditor and appointed actuary. 87. Annual accounts. 88. Annual accounts and actuary's report of licensed foreign insurer. 89. Quarterly returns. 90. Accounting standards. 91. Actuarial report on claims. 92. Annual accounts, quarterly returns and appointed actuary's report to be rectified. 93. Restriction on payment of dividend. 94. Submission of annual accounts. 95. Action in relation to annual accounts. 96. Inspection. 97. Admissibility of document. 98. Liability where proper accounting records not kept.
+74. Appointment of auditor.
+
+75. Disqualification of auditor.
+
+76. Restriction on audit firm.
+
+77. Consent to act as auditor.
+
+78. Appointment of audit firm.
+
+79. Auditor not deemed to be employee of licensee.
+
+80. Auditor's report.
+
+81. Additional requirement from auditor.
+
+82. Auditor to report certain matters to the Bank.
+
+83. Appointment of actuary by life insurer.
+
+84. Cessation to be appointed actuary.
+
+85. Actuarial investigation and report.
+
+86. Information to auditor and appointed actuary.
+
+87. Annual accounts.
+
+88. Annual accounts and actuary's report of licensed foreign insurer.
+
+89. Quarterly returns.
+
+90. Accounting standards.
+
+91. Actuarial report on claims.
+
+92. Annual accounts, quarterly returns and appointed actuary's report to be rectified.
+
+93. Restriction on payment of dividend.
+
+94. Submission of annual accounts.
+
+95. Action in relation to annual accounts.
+
+96. Inspection.
+
+97. Admissibility of document.
+
+98. Liability where proper accounting records not kept.
 
 ## PART VIII
 
 ## EXAMINATION
 
-99. Examination of licensee. 100. Duty to produce and provide access to document and information.
+99. Examination of licensee.
+
+100. Duty to produce and provide access to document and information.
 
 <!-- page 5 -->
 
@@ -212,9 +296,7 @@ III
 
 127. Interpretation of this Part.
 
-128. Court to confirm scheme.
-
-129. Submission of scheme.
+128. Court to confirm scheme. 129. Submission of scheme.
 
 130. Approval of scheme.
 
@@ -224,9 +306,7 @@ III
 
 133. Petition to Court to confirm scheme.
 
-134. Bank to be party to proceedings.
-
-135. Effect of Court's confirmation.
+134. Bank to be party to proceedings. 135. Effect of Court's confirmation.
 
 136. Reimbursement of Bank's expenses.
 
@@ -242,9 +322,7 @@ III
 
 140. Insurance of property and liability.
 
-141. Assumption of risk.
-
-142. Premium rate under life policy.
+141. Assumption of risk. 142. Premium rate under life policy.
 
 143. Actuary's report on policy terms.
 
@@ -272,7 +350,19 @@ III
 
 <!-- page 7 -->
 
-155. Surrender of life policy. 156. Non-payment of life policy premiums. 157. Particulars in policy. 158. Election for paid-up policy. 159. Additional rights conferred by sections 155, 156 and 158. 160. Collection of premiums at policy owner's address. 161. Interest on claim amount.
+155. Surrender of life policy.
+
+156. Non-payment of life policy premiums.
+
+157. Particulars in policy.
+
+158. Election for paid-up policy.
+
+159. Additional rights conferred by sections 155, 156 and 158.
+
+160. Collection of premiums at policy owner's address.
+
+161. Interest on claim amount.
 
 ## PART XIII
 
@@ -280,13 +370,47 @@ III
 
 ## PERSONAL ACCIDENT POLICY
 
-162. Application of this Part. 163. Power to make nomination. 164. Revocation of nomination. 165. Payment of policy moneys where there is nomination. 166. Trustee of policy moneys. 167. Nominee other than a nominee under subsection 166(1). 168. Assigned or pledged policy moneys. 169. Payment of policy moneys where there is no nomination. 170. Payment to person incompetent to contract. 171. Distribution of policy moneys in due course of administration. 172. This Part to prevail over policy and any other written law.
+162. Application of this Part.
+
+163. Power to make nomination.
+
+164. Revocation of nomination.
+
+165. Payment of policy moneys where there is nomination.
+
+166. Trustee of policy moneys.
+
+167. Nominee other than a nominee under subsection 166(1).
+
+168. Assigned or pledged policy moneys.
+
+169. Payment of policy moneys where there is no nomination.
+
+170. Payment to person incompetent to contract.
+
+171. Distribution of policy moneys in due course of administration.
+
+172. This Part to prevail over policy and any other written law.
 
 ## PART XIV
 
 ## INSURANCE GUARANTEE SCHEME FUND
 
-173. Establishment and maintenance of insurance guarantee scheme fund. 174. Investment of moneys. 175. Bank may borrow moneys. 176. Levy. 177. Discontinuance of levy. 178. Utilisation of moneys. 179. Restriction on utilisation of moneys. 180. Determination of moneys payable.
+173. Establishment and maintenance of insurance guarantee scheme fund.
+
+174. Investment of moneys.
+
+175. Bank may borrow moneys.
+
+176. Levy.
+
+177. Discontinuance of levy.
+
+178. Utilisation of moneys.
+
+179. Restriction on utilisation of moneys.
+
+180. Determination of moneys payable.
 
 <!-- page 8 -->
 
@@ -354,13 +478,49 @@ III
 
 <!-- page 9 -->
 
-206. Offence by body corporate. 207. Offence by individual. 208. Joinder of offences. 209. Seizable offence. 210. Arrested person make over to police. 211. Power of Governor to compound offences. 212. Attempts, abetments and conspiracies. 213. Prosecution.
+206. Offence by body corporate.
+
+207. Offence by individual.
+
+208. Joinder of offences.
+
+209. Seizable offence.
+
+210. Arrested person make over to police.
+
+211. Power of Governor to compound offences.
+
+212. Attempts, abetments and conspiracies.
+
+213. Prosecution.
 
 ## PART XVIII
 
 ## REPEAL AND TRANSITIONAL PROVISIONS
 
-214. Repeal and saving. 215. Saving in respect of insurers registered, insurance brokers and adjusters licensed, under the repealed Act. 216. Approval of licence to insurer deemed to be licensed under paragraph 2l5(1)(a). 217. Conversion into, transfer of insurance business to, public company. 218. Revocation of licence for non-compliance with section 217. 219. Approval of licence to insurance broker or adjuster deemed to be licensed under paragraph 215(l)(b). 220. Foreign insurer to establish insurance fund. 221. Saving and disclosure in respect of interest in shares. 222. Deposits and bank covenants in lieu of deposits. 223. Moneys in the insurance guarantee scheme fund. 224. Saving in respect of life policy moneys. 225. Provisions for removing difficulties.
+214. Repeal and saving.
+
+215. Saving in respect of insurers registered, insurance brokers and adjusters licensed, under the repealed Act.
+
+216. Approval of licence to insurer deemed to be licensed under paragraph 2l5(1)(a).
+
+217. Conversion into, transfer of insurance business to, public company.
+
+218. Revocation of licence for non-compliance with section 217.
+
+219. Approval of licence to insurance broker or adjuster deemed to be licensed under paragraph 215(l)(b).
+
+220. Foreign insurer to establish insurance fund.
+
+221. Saving and disclosure in respect of interest in shares.
+
+222. Deposits and bank covenants in lieu of deposits.
+
+223. Moneys in the insurance guarantee scheme fund.
+
+224. Saving in respect of life policy moneys.
+
+225. Provisions for removing difficulties.
 
 ## SCHEDULE
 
@@ -414,7 +574,11 @@ by notification in the Gazette, appoint.
 
 ## BILL
 
-"approved company auditor" has the meaning in the Act 125. Companies Act 1965;
+"approved company auditor" has the meaning in the
+
+<!-- marginal: Act 125. -->
+
+Companies Act 1965;
 
 "associate", in relation to a person, means—
 
@@ -426,7 +590,11 @@ by notification in the Gazette, appoint.
 
 (d) if that person is a company, a director or subsidiary of that company and a director or employee of that subsidiary;
 
-"Bank" means the Central Bank established by the Act 519. Central Bank of Malaysia Act 1958;
+"Bank" means the Central Bank established by the
+
+<!-- marginal: Act 519. -->
+
+Central Bank of Malaysia Act 1958;
 
 "body corporate" means a person incorporated by or under any written law, and includes a statutory body, public authority, or other authority, incorporated by or under a written law, a corporation, and a corporation sole;
 
@@ -436,7 +604,11 @@ by notification in the Gazette, appoint.
 
 "commission" means an amount or a benefit in kind, whether expressed as a percentage of premium or not, agreed to be paid by a licensed insurer to an insurance agent or insurance broker, including introducer's fees;
 
-"company" has the meaning in the Companies Act Act 125. 1965;
+"company" has the meaning in the Companies Act
+
+<!-- marginal: Act 125. -->
+
+1965;
 
 <!-- page 13 -->
 
@@ -480,7 +652,9 @@ are accustomed to act and an alternate or substitute director, and without preju
 
 (e) any other body, association or group of persons, whether corporate or unincorporate, means a person having the direction and control of the management of its business or affairs;
 
-Act 56. "document" has the meaning in the Evidence Act 1950 and includes books and accounts;
+<!-- marginal: Act 56. -->
+
+"document" has the meaning in the Evidence Act 1950 and includes books and accounts;
 
 "effective date" means the date of coming into force of this Act;
 
@@ -524,7 +698,9 @@ Act 56. "document" has the meaning in the Evidence Act 1950 and includes books a
 
 <!-- page 16 -->
 
-Act 372. "licensed bank" has the meaning in the Banking and Financial Institutions Act 1989;
+<!-- marginal: Act 372. -->
+
+"licensed bank" has the meaning in the Banking and Financial Institutions Act 1989;
 
 "licensed business" means insurance business, insurance broking business or adjusting business;
 
@@ -540,7 +716,11 @@ Act 372. "licensed bank" has the meaning in the Banking and Financial Institutio
 
 (a) a life policy where the policy owner's address is or was an address in Malaysia;
 
-(b) a general policy which relates to risks arising in Malaysia, or where the policy owner is a resident of, or a permanent establishment in, Act 53. Malaysia within the meaning of the Income Tax Act 1967; or
+(b) a general policy which relates to risks arising in Malaysia, or where the policy owner is a resident of, or a permanent establishment in,
+
+<!-- marginal: Act 53. -->
+
+Malaysia within the meaning of the Income Tax Act 1967; or
 
 (c) a reinsurance contract with another licensed insurer;
 
@@ -600,7 +780,9 @@ Act 372. "licensed bank" has the meaning in the Banking and Financial Institutio
 
 "prescribe" means prescribe by regulations published in the Gazette, and a power to prescribe includes the power to make different provisions in the regulations for different persons or classes of persons;
 
-Act 125 "private company" has the meaning in the Companies Act 1965;
+<!-- marginal: Act 125 -->
+
+"private company" has the meaning in the Companies Act 1965;
 
 "professional reinsurer" means a reinsurer which is licensed to carry on solely reinsurance business;
 
@@ -650,17 +832,31 @@ the Companies Act 1965 and whose memorandum of association or articles of associ
 
 (i) a spouse, or a lineal ascendant or descendant, of the person referred to in paragraph (h);
 
-Act 89. "repealed Act" means the Insurance Act 1963 repealed under subsection 214(1);
+<!-- marginal: Act 89. -->
+
+"repealed Act" means the Insurance Act 1963 repealed under subsection 214(1);
 
 "share", in relation to a corporation, means an issued share of the corporation and includes stock except where a distinction between stock and share is expressed or implied;
 
 "specify" means specify in writing, and a power to specify includes the power to specify differently for different persons or different classes of persons, and to amend any specification;
 
-"subsidiary" has the meaning in section 5 of the Act 125. Companies Act 1965.
+"subsidiary" has the meaning in section 5 of the
 
-Function of
+<!-- marginal: Act 125. -->
 
-3. (1) In addition to the functions conferred on the Bank Bank. under the Central Bank of Malaysia Act 1958, the Bank Act 519. shall have all the functions conferred on it by this Act and the Governor shall perform the functions of the Bank on its behalf.
+Companies Act 1965.
+
+<!-- marginal: Function of -->
+
+3. (1) In addition to the functions conferred on the Bank
+
+<!-- marginal: Bank. -->
+
+under the Central Bank of Malaysia Act 1958, the Bank
+
+<!-- marginal: Act 519. -->
+
+shall have all the functions conferred on it by this Act and the Governor shall perform the functions of the Bank on its behalf.
 
 (2) The Bank may authorise an officer of the Bank to perform any of the functions of the Bank under this Act.
 
@@ -722,17 +918,43 @@ II of the Societies Act 1966 by a mutual benefit society as defined in section 2
 
 <!-- page 22 -->
 
-Prohibition
+<!-- marginal: Prohibition -->
 
-6. The Bank, in the interest of orderly operation of a or restriction licensed insurer's business or of the insurance industry, of insurance business. may prohibit or restrict a licensed insurer in writing from carrying on such description of insurance business as it may specify.
+6. The Bank, in the interest of orderly operation of a
+
+<!-- marginal: or restriction -->
+
+licensed insurer's business or of the insurance industry,
+
+<!-- marginal: of insurance -->
+
+<!-- marginal: business. -->
+
+may prohibit or restrict a licensed insurer in writing from carrying on such description of insurance business as it may specify.
 
 Penalty : Imprisonment for three years or three million ringgit or both. Default penalty.
 
-Prohibition
+<!-- marginal: Prohibition -->
 
-7. (1) Except with the prior written approval of the on annuity Bank and subject to such conditions as it may specify, certain or investment- no licensed insurer shall carry on— linked insurance
+7. (1) Except with the prior written approval of the
 
-(a) annuity certain business; or business.
+<!-- marginal: on annuity -->
+
+Bank and subject to such conditions as it may specify,
+
+<!-- marginal: certain or -->
+
+<!-- marginal: investment- -->
+
+no licensed insurer shall carry on—
+
+<!-- marginal: linked -->
+
+<!-- marginal: insurance -->
+
+(a) annuity certain business; or
+
+<!-- marginal: business. -->
 
 (h) investment-linked insurance business.
 
@@ -744,9 +966,19 @@ Penalty : Imprisonment for three years or three million ringgit or both. Default
 
 (b) "investment-linked insurance business" means the effecting and carrying out of a contract of insurance on human life or annuity where the benefits are, wholly or partly, to be determined by reference to the value of, or the income from, property of any description or by reference to fluctuations in, or in an index of, the value of property of any description.
 
-Activity
+<!-- marginal: Activity -->
 
-8. (1) For the purposes of this Act, a reference to constituting carrying on insurance business includes all or any of the insurance business following:
+8. (1) For the purposes of this Act, a reference to
+
+<!-- marginal: constituting -->
+
+carrying on insurance business includes all or any of the
+
+<!-- marginal: insurance -->
+
+<!-- marginal: business -->
+
+following:
 
 (a) receiving proposals for insurance;
 
@@ -798,17 +1030,45 @@ Adjuster - Imprisonment for one year or one million ringgit or both. Default pen
 
 <!-- page 24 -->
 
-Holding out
+<!-- marginal: Holding out -->
 
-10. No person shall hold himself out to be an insurer, as an insurer, insurance broker or adjuster unless he is licensed under insurance broker or this Act. adjuster. Penalty : Insurer - Imprisonment for ten years or ten million ringgit or both. Default penalty.
+10. No person shall hold himself out to be an insurer,
+
+<!-- marginal: as an insurer, -->
+
+insurance broker or adjuster unless he is licensed under
+
+<!-- marginal: insurance -->
+
+<!-- marginal: broker or -->
+
+this Act.
+
+<!-- marginal: adjuster. -->
+
+Penalty : Insurer - Imprisonment for ten years or ten million ringgit or both. Default penalty.
 
 Insurance broker - Imprisonment for three years or three million ringgit or both. Default penalty.
 
 Adjuster - Imprisonment for one year or one million ringgit or both. Default penalty,
 
-Use of word
+<!-- marginal: Use of word -->
 
-11. (1) Except with the prior written approval of the "insurance", Bank, no person other than a licensee shall use the word "assurance" "insurance", "assurance" or "underwriter" in relation to or "underwriter". his business or any of its derivatives in any language, or any other words in any language capable of being construed as indicating the carrying on of any of the licensed businesses in the name, description or title under which he carries on business or make any representation to such effect in any bill head, letter paper, notice or advertisement or in any other manner.
+11. (1) Except with the prior written approval of the
+
+<!-- marginal: "insurance", -->
+
+Bank, no person other than a licensee shall use the word
+
+<!-- marginal: "assurance" -->
+
+"insurance", "assurance" or "underwriter" in relation to
+
+<!-- marginal: or -->
+
+<!-- marginal: "underwriter". -->
+
+his business or any of its derivatives in any language, or any other words in any language capable of being construed as indicating the carrying on of any of the licensed businesses in the name, description or title under which he carries on business or make any representation to such effect in any bill head, letter paper, notice or advertisement or in any other manner.
 
 Penalty : Five hundred thousand ringgit. Default penalty.
 
@@ -820,9 +1080,19 @@ Penalty : Five hundred thousand ringgit. Default penalty.
 
 (c) an association of licensees or association of employees of licensees.
 
-Insurer to
+<!-- marginal: Insurer to -->
 
-12. (1) A licensed insurer, other than a licensed carry on life professional reinsurer, shall not carry on both life business or general business. and general business.
+12. (1) A licensed insurer, other than a licensed
+
+<!-- marginal: carry on life -->
+
+professional reinsurer, shall not carry on both life business
+
+<!-- marginal: or general -->
+
+<!-- marginal: business. -->
+
+and general business.
 
 <!-- page 25 -->
 
@@ -880,15 +1150,41 @@ may grant a licence, with or without conditions, or refuse to grant a licence.
 
 (3) The Bank shall notify the applicant in writing of the Minister's decision.
 
-Licence for
+<!-- marginal: Licence for -->
 
-17. (1) The Bank, on receipt of an application for a insurance licence to carry on insurance broking business or adjusting broker and adjuster. business, may grant a licence, with or without conditions, or refuse to grant a licence.
+17. (1) The Bank, on receipt of an application for a
+
+<!-- marginal: insurance -->
+
+licence to carry on insurance broking business or adjusting
+
+<!-- marginal: broker and -->
+
+<!-- marginal: adjuster. -->
+
+business, may grant a licence, with or without conditions, or refuse to grant a licence.
 
 (2) A licence for an insurance broker or an adjuster shall be for such period as the Bank may specify in the licence.
 
-Minimum
+<!-- marginal: Minimum -->
 
-18. (1) A licensed local insurer shall maintain a paid-up share minimum paid-up share capital of such amount as may capital or surplus of be prescribed. assets over liabilities. Penalty : Three million ringgit. Default penalty.
+18. (1) A licensed local insurer shall maintain a
+
+<!-- marginal: paid-up share -->
+
+minimum paid-up share capital of such amount as may
+
+<!-- marginal: capital or -->
+
+<!-- marginal: surplus of -->
+
+be prescribed.
+
+<!-- marginal: assets over -->
+
+<!-- marginal: liabilities. -->
+
+Penalty : Three million ringgit. Default penalty.
 
 (2) A licensed foreign insurer shall maintain in Malaysia at all times a minimum surplus of assets over liabilities of such amount as may be prescribed.
 
@@ -898,9 +1194,13 @@ Penalty : Three million ringgit. Default penalty.
 
 Penalty : One hundred thousand ringgit. Default penalty.
 
-Statement of
+<!-- marginal: Statement of -->
 
-19. No licensed insurer shall issue a notice, capital. advertisement, or any other official publication, containing a statement of its authorised share capital unless it states the amount of share capital that has been subscribed and that has been paid-up.
+19. No licensed insurer shall issue a notice,
+
+<!-- marginal: capital. -->
+
+advertisement, or any other official publication, containing a statement of its authorised share capital unless it states the amount of share capital that has been subscribed and that has been paid-up.
 
 <!-- page 27 -->
 
@@ -964,17 +1264,25 @@ Penalty : Five hundred thousand ringgit. Default penalty.
 
 (3) The Bank may direct an association to take, or refrain from taking, such action as it may specify.
 
-Condition of
+<!-- marginal: Condition of -->
 
-23. The Minister, in the case of a licensed insurer, or licence. the Bank, in the case of a licensed insurance broker or licensed adjuster, at any time—
+23. The Minister, in the case of a licensed insurer, or
+
+<!-- marginal: licence. -->
+
+the Bank, in the case of a licensed insurance broker or licensed adjuster, at any time—
 
 (a) may impose any condition on a licence; or
 
 (b) may amend any condition imposed on a licence.
 
-Form of
+<!-- marginal: Form of -->
 
-24. (1) A licence shall be in such form as may be licence. specified by the Bank.
+24. (1) A licence shall be in such form as may be
+
+<!-- marginal: licence. -->
+
+specified by the Bank.
 
 (2) A licence shall be issued under the hand of—
 
@@ -982,15 +1290,29 @@ Form of
 
 (b) the Governor, in the case of an insurance broker or adjuster.
 
-Display of
+<!-- marginal: Display of -->
 
-25. A licensee shall display a copy of the licence issued licence. under subsection 24(2) in a conspicuous position at its principal place of business and unless exempted by the Bank in writing, at each of its other offices, other than an electronic terminal.
+25. A licensee shall display a copy of the licence issued
+
+<!-- marginal: licence. -->
+
+under subsection 24(2) in a conspicuous position at its principal place of business and unless exempted by the Bank in writing, at each of its other offices, other than an electronic terminal.
 
 Penalty : Five hundred thousand ringgit.
 
-Name to
+<!-- marginal: Name to -->
 
-26. Every licensee, unless exempted by the Bank in be affixed writing, shall affix or paint on the outside of each of its outside office. offices in a prominent position and easily legible in the national language, in such manner as may be specified by the Bank, its name and the words "insurer berlesen", "broker insurans berlesen" or "ajuster berlesen", as the case may be, or such other words to clearly indicate the business for which it is licensed.
+26. Every licensee, unless exempted by the Bank in
+
+<!-- marginal: be affixed -->
+
+writing, shall affix or paint on the outside of each of its
+
+<!-- marginal: outside -->
+
+<!-- marginal: office. -->
+
+offices in a prominent position and easily legible in the national language, in such manner as may be specified by the Bank, its name and the words "insurer berlesen", "broker insurans berlesen" or "ajuster berlesen", as the case may be, or such other words to clearly indicate the business for which it is licensed.
 
 Penalty : Five hundred thousand ringgit.
 
@@ -1048,9 +1370,23 @@ Penalty : One hundred thousand ringgit. Default penalty.
 
 <!-- page 30 -->
 
-Licensed
+<!-- marginal: Licensed -->
 
-30. (1) A licensee shall exclusively manage its licensed business to business and, except as may be approved by the Bank be carried on exclusively in writing to such extent and for such duration as it may by licensee. specify, shall not allow any part of its licensed business to be managed by another person.
+30. (1) A licensee shall exclusively manage its licensed
+
+<!-- marginal: business to -->
+
+business and, except as may be approved by the Bank
+
+<!-- marginal: be carried on -->
+
+<!-- marginal: exclusively -->
+
+in writing to such extent and for such duration as it may
+
+<!-- marginal: by licensee. -->
+
+specify, shall not allow any part of its licensed business to be managed by another person.
 
 Penalty : Three million ringgit. Default penalty.
 
@@ -1060,9 +1396,13 @@ Penalty : Three million ringgit. Default penalty.
 
 (b) may co-insure with another licensed insurer.
 
-Revocation
+<!-- marginal: Revocation -->
 
-31. (1) The Minister, on the recommendation of the of licence. Bank, may revoke the licence of a licensed insurer, and the Bank may revoke the licence of a licensed insurance broker or licensed adjuster, as the case may be, if—
+31. (1) The Minister, on the recommendation of the
+
+<!-- marginal: of licence. -->
+
+Bank, may revoke the licence of a licensed insurer, and the Bank may revoke the licence of a licensed insurance broker or licensed adjuster, as the case may be, if—
 
 (a) the licensed insurer has ceased to issue any new policy in respect of its licensed business;
 
@@ -1112,13 +1452,35 @@ in its application for a licence or in any returns filed under this Act;
 
 (9) A revocation of a licence shall be published in the Gazette as soon as possible, but any delay in the publication or failure to make the publication shall not in any manner affect the validity of the revocation.
 
-32. (1) An insurer dissatisfied with the revocation of Appeal against its licence, within fourteen days of the date of the written revocation notice of the decision of the Minister under subsection of licence. 31(5) or (6), may appeal against the decision to the Court.
+32. (1) An insurer dissatisfied with the revocation of
+
+<!-- marginal: Appeal -->
+
+<!-- marginal: against -->
+
+its licence, within fourteen days of the date of the written
+
+<!-- marginal: revocation -->
+
+notice of the decision of the Minister under subsection
+
+<!-- marginal: of licence. -->
+
+31(5) or (6), may appeal against the decision to the Court.
 
 (2) An insurance broker or adjuster dissatisfied with the revocation of its licence, within fourteen days of the date of the written notice of the decision of the Bank under subsection 31(5) or (6), may appeal against the decision to the Minister.
 
-Effect of
+<!-- marginal: Effect of -->
 
-33. (1) Where the revocation of a licence has taken revocation effect, the insurer, insurance broker or adjuster, as the of licence. case may be, shall immediately cease to carry on its business.
+33. (1) Where the revocation of a licence has taken
+
+<!-- marginal: revocation -->
+
+effect, the insurer, insurance broker or adjuster, as the
+
+<!-- marginal: of licence. -->
+
+case may be, shall immediately cease to carry on its business.
 
 Penalty : Insurer - Imprisonment for ten years or ten million ringgit or both. Default penalty.
 
@@ -1192,9 +1554,19 @@ documents as the Bank may specify.
 
 ## INSURANCE FUND AND SHAREHOLDERS' FUND
 
-Establish-
+<!-- marginal: Establish- -->
 
-38. (1) A licensed life insurer shall establish and ment of maintain a separate insurance fund for its Malaysian insurance fund. policies and for its foreign policies.
+38. (1) A licensed life insurer shall establish and
+
+<!-- marginal: ment of -->
+
+maintain a separate insurance fund for its Malaysian
+
+<!-- marginal: insurance -->
+
+<!-- marginal: fund. -->
+
+policies and for its foreign policies.
 
 (2) A licensed general insurer shall establish and maintain a separate insurance fund for its Malaysian policies and for its foreign policies.
 
@@ -1212,9 +1584,23 @@ Penalty : Imprisonment for five years or five million ringgit or both. Default p
 
 Penalty : Imprisonment for one year or one million ringgit or both. Default penalty.
 
-Determina-
+<!-- marginal: Determina- -->
 
-39. (1) Where a licensed insurer has established before tion of the effective date, or establishes on or after that date, policy relating to an insurance fund— insurance fund.
+39. (1) Where a licensed insurer has established before
+
+<!-- marginal: tion of -->
+
+the effective date, or establishes on or after that date,
+
+<!-- marginal: policy -->
+
+<!-- marginal: relating to -->
+
+an insurance fund—
+
+<!-- marginal: insurance -->
+
+<!-- marginal: fund. -->
 
 (a) the licensed insurer, on or as soon as practicable after the effective date or the date on which
 
@@ -1266,9 +1652,15 @@ Penalty : Imprisonment for five years or five million ringgit or both. Default p
 
 Penalty : Imprisonment for five years or five million ringgit or both. Default penalty.
 
-Assets of
+<!-- marginal: Assets of -->
 
-42. (1) A licensed insurer shall keep the assets of its insurance insurance fund separate from its other assets. fund.
+42. (1) A licensed insurer shall keep the assets of its
+
+<!-- marginal: insurance -->
+
+insurance fund separate from its other assets.
+
+<!-- marginal: fund. -->
 
 Penalty : Imprisonment for five years or five million ringgit or both. Default penalty.
 
@@ -1282,9 +1674,19 @@ Penalty : Imprisonment for five years or five million ringgit or both. Default p
 
 (d) such other asset as may be specified by the Bank.
 
-Withdrawal
+<!-- marginal: Withdrawal -->
 
-43. (1) Where there is a surplus of assets over liabilities from in a general insurance fund at the end of a financial insurance fund. year, the licensed general insurer may withdraw the surplus subject to—
+43. (1) Where there is a surplus of assets over liabilities
+
+<!-- marginal: from -->
+
+in a general insurance fund at the end of a financial
+
+<!-- marginal: insurance -->
+
+<!-- marginal: fund. -->
+
+year, the licensed general insurer may withdraw the surplus subject to—
 
 (a) any instrument or contract binding the licensed general insurer; or
 
@@ -1348,9 +1750,13 @@ Penalty : Imprisonment for three years or three million ringgit or both. Default
 
 Penalty : Imprisonment for three years or three million ringgit or both. Default penalty.
 
-Margin of
+<!-- marginal: Margin of -->
 
-46. (1) A licensed insurer shall maintain a margin of solvency. solvency in respect of each class of its insurance business of such amount, and in such manner, as may be prescribed.
+46. (1) A licensed insurer shall maintain a margin of
+
+<!-- marginal: solvency. -->
+
+solvency in respect of each class of its insurance business of such amount, and in such manner, as may be prescribed.
 
 Penalty : Imprisonment for five years or five million ringgit or both. Default penalty.
 
@@ -1368,9 +1774,17 @@ which may be taken into account for the purpose of the licensed insurer's margin
 
 (5) A licensed insurer shall identify the assets representing the margin of solvency in respect of its life business or general business held outside the insurance fund for that class and those assets shall be deemed to be assets of that insurance fund.
 
-Register of
+<!-- marginal: Register of -->
 
-47. (1) A licensed insurer shall establish and maintain policies and in such form as may be prescribed— register of claims.
+47. (1) A licensed insurer shall establish and maintain
+
+<!-- marginal: policies and -->
+
+in such form as may be prescribed—
+
+<!-- marginal: register of -->
+
+<!-- marginal: claims. -->
 
 (a) a separate register for its Malaysian policies and for its foreign policies; and
 
@@ -1426,9 +1840,17 @@ as may be specified by the Bank in a written notice to the licensed insurer or t
 
 Penalty : Imprisonment for one year or one million ringgit or both. Default penalty.
 
-Restriction
+<!-- marginal: Restriction -->
 
-49. (1) No licensed insurer or licensed insurance on grant of broker— credit facility.
+49. (1) No licensed insurer or licensed insurance
+
+<!-- marginal: on grant of -->
+
+broker—
+
+<!-- marginal: credit -->
+
+<!-- marginal: facility. -->
 
 (a) shall grant a credit facility against the security of its own shares;
 
@@ -1478,17 +1900,27 @@ Penalty : One million ringgit. Default penalty.
 
 (4) For the purpose of subsection (1), "guaranteed" means guaranteed by a prescribed person.
 
-Valuation of
+<!-- marginal: Valuation of -->
 
-51. The value of a property which is provided as security security. to a licensed insurer or licensed insurance broker shall be—
+51. The value of a property which is provided as security
+
+<!-- marginal: security. -->
+
+to a licensed insurer or licensed insurance broker shall be—
 
 (a) its market value; or
 
 (b) where for any reason it is not possible to determine its market value, the value approved by the Bank on an application by the person taking the security which should set out the value arrived at by the applicant and the basis for it.
 
-Restriction or
+<!-- marginal: Restriction or -->
 
-52. The Bank, in relation to a licensed insurer or licensed prohibition insurance broker, may prescribe— of security.
+52. The Bank, in relation to a licensed insurer or licensed
+
+<!-- marginal: prohibition -->
+
+insurance broker, may prescribe—
+
+<!-- marginal: of security. -->
 
 (a) the restriction or condition subject to which a particular property, or a class of properties, may be provided as security; or
 
@@ -1538,9 +1970,17 @@ Penalty : Imprisonment for three years or three million ringgit or both. Default
 
 <!-- page 44 -->
 
-Disclosure
+<!-- marginal: Disclosure -->
 
-55. A director, of a licensed insurer, or of a licensed of conflict insurance broker, who holds an office or possesses a of interest. property by which, whether directly or indirectly, a duty or an interest may arise in conflict with his duty or interest as director shall declare the fact, nature and extent of the conflict which may arise at the first meeting of the board of directors held—
+55. A director, of a licensed insurer, or of a licensed
+
+<!-- marginal: of conflict -->
+
+insurance broker, who holds an office or possesses a
+
+<!-- marginal: of interest. -->
+
+property by which, whether directly or indirectly, a duty or an interest may arise in conflict with his duty or interest as director shall declare the fact, nature and extent of the conflict which may arise at the first meeting of the board of directors held—
 
 (a) after the person becomes a director of the licensed insurer or licensed insurance broker; or
 
@@ -1548,11 +1988,19 @@ Disclosure
 
 Penalty : Imprisonment for three years or three million ringgit or both. Default penalty.
 
-Secretary to
+<!-- marginal: Secretary to -->
 
-56. The secretary of a licensed insurer, or of a licensed record insurance broker, shall record any declaration made under declaration. section 54 or 55 in the minutes of the meeting at which it was made or at which it was brought up and read.
+56. The secretary of a licensed insurer, or of a licensed
 
-Reinsurance.
+<!-- marginal: record -->
+
+insurance broker, shall record any declaration made under
+
+<!-- marginal: declaration. -->
+
+section 54 or 55 in the minutes of the meeting at which it was made or at which it was brought up and read.
+
+<!-- marginal: Reinsurance. -->
 
 57. (1) A licensed insurer shall enter into reinsurance arrangements in respect of risks insured or to be insured in the course of its insurance business which are consistent with sound insurance principles.
 
@@ -1614,9 +2062,19 @@ Penalty : Imprisonment for three years or three million ringgit or both. Default
 
 (b) submits a plan which is unacceptable to the Bank.
 
-Action
+<!-- marginal: Action -->
 
-59. (1) This section applies where the Bank is satisfied against that— insurer, employee or director.
+59. (1) This section applies where the Bank is satisfied
+
+<!-- marginal: against -->
+
+that—
+
+<!-- marginal: insurer, -->
+
+<!-- marginal: employee or -->
+
+<!-- marginal: director. -->
 
 (a) a licensed insurer—
 
@@ -1666,15 +2124,49 @@ insurer and for the costs and expenses of the Bank, or the remuneration of the a
 
 (7) An order, in consequence of representation made under subsection (5) or (6), may be confirmed, amended or revoked.
 
-Provisions
+<!-- marginal: Provisions -->
 
-60. (1) The person appointed by the Bank under relating to paragraph 59(3)(a) or (b) or paragraph 59(4)(a) shall be appointment appointed for such period as may be determined by the under subsection Bank, and the appointment, upon expiry of the initial 59(3) or (4). period, may be extended for such further period as the Bank may determine.
+60. (1) The person appointed by the Bank under
+
+<!-- marginal: relating to -->
+
+paragraph 59(3)(a) or (b) or paragraph 59(4)(a) shall be
+
+<!-- marginal: appointment -->
+
+appointed for such period as may be determined by the
+
+<!-- marginal: under -->
+
+<!-- marginal: subsection -->
+
+Bank, and the appointment, upon expiry of the initial
+
+<!-- marginal: 59(3) or (4). -->
+
+period, may be extended for such further period as the Bank may determine.
 
 (2) Notwithstanding subsection (1), the Bank may revoke that person's appointment at any time without assigning any reason.
 
-Provisions
+<!-- marginal: Provisions -->
 
-61. (1) An employee or director removed from relating to employment or office in a licensed insurer under paragraph removal under 59(3)(a) or a person whose contract is terminated under paragraph paragraph 59(3)(c) shall cease to hold the office from 59(3)(a) or
+61. (1) An employee or director removed from
+
+<!-- marginal: relating to -->
+
+employment or office in a licensed insurer under paragraph
+
+<!-- marginal: removal -->
+
+<!-- marginal: under -->
+
+59(3)(a) or a person whose contract is terminated under
+
+<!-- marginal: paragraph -->
+
+paragraph 59(3)(c) shall cease to hold the office from
+
+<!-- marginal: 59(3)(a) or -->
 
 (c) which he is removed or shall cease to perform his
 
@@ -1730,19 +2222,49 @@ in relation to the activity required or authorised by the Bank, or the appointed
 
 Penalty : Imprisonment for five years or five million ringgit or both. Default penalty.
 
-Effect of
+<!-- marginal: Effect of -->
 
-63. An order under subsection 59(4)— order under subsection
+63. An order under subsection 59(4)—
 
-(a) shall not have the effect of conferring on, or 59(4). vesting in, the Bank, or the appointed person, any title to, or any beneficial interest in, any property of the licensed insurer to which the order relates;
+<!-- marginal: order under -->
+
+<!-- marginal: subsection -->
+
+(a) shall not have the effect of conferring on, or
+
+<!-- marginal: 59(4). -->
+
+vesting in, the Bank, or the appointed person, any title to, or any beneficial interest in, any property of the licensed insurer to which the order relates;
 
 (b) shall not have the effect of rendering the Bank, or the appointed person, liable for any obligation or liability of the licensed insurer, whether incurred before or after the order comes into force; and
 
-(c) shall have the effect of rendering the provisions Act 125. of the Companies Act 1965, or any other written law, which are inconsistent with anything contained in this Part, including provisions relating to annual, and extraordinary, general meeting of members inapplicable to the licensed insurer.
+(c) shall have the effect of rendering the provisions
 
-Power to
+<!-- marginal: Act 125. -->
 
-64. (1) Notwithstanding paragraph 64(1)(b) of the cancel or Companies Act 1965, the Bank may apply to the Court issue for an order to cancel any paid-up share capital of a additional capital. licensed insurer which is lost or unrepresented by available Act 125. assets.
+of the Companies Act 1965, or any other written law, which are inconsistent with anything contained in this Part, including provisions relating to annual, and extraordinary, general meeting of members inapplicable to the licensed insurer.
+
+<!-- marginal: Power to -->
+
+64. (1) Notwithstanding paragraph 64(1)(b) of the
+
+<!-- marginal: cancel or -->
+
+Companies Act 1965, the Bank may apply to the Court
+
+<!-- marginal: issue -->
+
+for an order to cancel any paid-up share capital of a
+
+<!-- marginal: additional -->
+
+<!-- marginal: capital. -->
+
+licensed insurer which is lost or unrepresented by available
+
+<!-- marginal: Act 125. -->
+
+assets.
 
 (2) The Bank, in the application, may apply to the Court to restore the share capital of the licensed insurer to the original amount or to increase the share capital to such greater amount as the Bank may request, after
 
@@ -1788,9 +2310,23 @@ Penalty : Imprisonment for five years or five million ringgit or both. Default p
 
 ## MANAGEMENT OF LICENSEE
 
-Disclosure of
+<!-- marginal: Disclosure of -->
 
-66. (1) A licensee incorporated in Malaysia by notice beneficial in writing may require any of its members to inform it interest in voting within such reasonable time as may be specified in the shares. notice—
+66. (1) A licensee incorporated in Malaysia by notice
+
+<!-- marginal: beneficial -->
+
+in writing may require any of its members to inform it
+
+<!-- marginal: interest in -->
+
+<!-- marginal: voting -->
+
+within such reasonable time as may be specified in the
+
+<!-- marginal: shares. -->
+
+notice—
 
 (a) whether he holds voting shares in the licensee as beneficial owner or as trustee; and
 
@@ -1824,9 +2360,31 @@ Penalty : One million ringgit. Default penalty.
 
 question was already in the possession of the licensee or that the requirement to give it was for any other reason frivolous or vexatious.
 
-Acquisition
+<!-- marginal: Acquisition -->
 
-67. (1) No person shall enter into an agreement or or disposal arrangement to acquire or dispose of any interest in shares of aggregate of a licensee incorporated in Malaysia or of its controller of five per cent by which, if the agreement or arrangement is carried interest out, he would, either alone or with any associate, acquire in shares. or dispose of to a person, either alone or with any associate, together with any interest in shares of that licensee or of its controller already held by him or previously disposed of by him, as the case may be, an aggregate interest in shares exceeding five per cent of the shares of that licensee or of its controller without obtaining the prior written approval of the Minister, in the case of a licensed insurer, and the Bank, in the case of a licensed insurance broker or licensed adjuster.
+67. (1) No person shall enter into an agreement or
+
+<!-- marginal: or disposal -->
+
+arrangement to acquire or dispose of any interest in shares
+
+<!-- marginal: of aggregate -->
+
+of a licensee incorporated in Malaysia or of its controller
+
+<!-- marginal: of five -->
+
+<!-- marginal: per cent -->
+
+by which, if the agreement or arrangement is carried
+
+<!-- marginal: interest -->
+
+out, he would, either alone or with any associate, acquire
+
+<!-- marginal: in shares. -->
+
+or dispose of to a person, either alone or with any associate, together with any interest in shares of that licensee or of its controller already held by him or previously disposed of by him, as the case may be, an aggregate interest in shares exceeding five per cent of the shares of that licensee or of its controller without obtaining the prior written approval of the Minister, in the case of a licensed insurer, and the Bank, in the case of a licensed insurance broker or licensed adjuster.
 
 (2) No person who has obtained an approval under subsection (1) or who holds more than five per cent of the shares of a licensee or of its controller, shall enter into a subsequent agreement or arrangement to acquire or dispose of any interest in shares of the licensee or of its controller without obtaining the prior written approval of the Minister or the Bank, as the case may be.
 
@@ -1954,9 +2512,19 @@ Penalty : Imprisonment for three years or three million ringgit or both. Default
 
 <!-- page 58 -->
 
-Disqualifi-
+<!-- marginal: Disqualifi- -->
 
-71. (1) No licensee, and no controller of a licensee, cation of shall appoint a person and no person shall accept the director or employee. appointment as director, chief executive officer, manager, secretary or other employee concerned in its management or the management of its offices—
+71. (1) No licensee, and no controller of a licensee,
+
+<!-- marginal: cation of -->
+
+shall appoint a person and no person shall accept the
+
+<!-- marginal: director or -->
+
+<!-- marginal: employee. -->
+
+appointment as director, chief executive officer, manager, secretary or other employee concerned in its management or the management of its offices—
 
 (a) if that person has been adjudged a bankrupt, or has suspended payments, or has compounded with his creditors, whether in or outside Malaysia;
 
@@ -1996,11 +2564,27 @@ Penalty : Three million ringgit. Default penalty.
 
 <!-- page 60 -->
 
-(5) In this section, "licensed institution" has the Act 372, meaning in the Banking and Financial Institutions Act 1989.
+(5) In this section, "licensed institution" has the
 
-Effect of
+<!-- marginal: Act 372, -->
 
-72. Where a person becomes disqualified after his disqualifica- appointment by a licensee for any of the reasons set out tion of under subsection 70(2)— director or employee.
+meaning in the Banking and Financial Institutions Act 1989.
+
+<!-- marginal: Effect of -->
+
+72. Where a person becomes disqualified after his
+
+<!-- marginal: disqualifica- -->
+
+appointment by a licensee for any of the reasons set out
+
+<!-- marginal: tion of -->
+
+under subsection 70(2)—
+
+<!-- marginal: director or -->
+
+<!-- marginal: employee. -->
 
 (a) he shall immediately cease to hold office; and
 
@@ -2010,9 +2594,17 @@ and that person, notwithstanding any contract of service, shall not be entitled 
 
 Penalty : Imprisonment for three years or three million ringgit or both. Default penalty.
 
-Notice of
+<!-- marginal: Notice of -->
 
-73. A licensee shall notify the Bank in writing of the cessation of fact that a person has ceased to be its director or chief office. executive officer and the reasons for it within fourteen days from the date of the cessation.
+73. A licensee shall notify the Bank in writing of the
+
+<!-- marginal: cessation of -->
+
+fact that a person has ceased to be its director or chief
+
+<!-- marginal: office. -->
+
+executive officer and the reasons for it within fourteen days from the date of the cessation.
 
 Penalty : Five hundred thousand ringgit.
 
@@ -2020,7 +2612,13 @@ Penalty : Five hundred thousand ringgit.
 
 ## AUDITOR, ACTUARY AND ACCOUNTS
 
-74. (1) A licensee shall appoint, for each financial year Appointment of auditor. before a date to be specified by the Bank, an auditor approved by the Bank.
+74. (1) A licensee shall appoint, for each financial year
+
+<!-- marginal: Appointment -->
+
+<!-- marginal: of auditor. -->
+
+before a date to be specified by the Bank, an auditor approved by the Bank.
 
 Penalty : One million ringgit. Default penalty.
 
@@ -2072,23 +2670,51 @@ Penalty : Imprisonment for one year or one million ringgit or both. Default pena
 
 (b) except where the Bank, in the circumstances of the case, otherwise directs, if he has, within the preceding twelve months, been an employee or promoter of that licensee or its related corporation.
 
-(4) An auditor for a licensee who becomes subject to any of the disqualifications mentioned in this Part or Act 125. in section 9 of the Companies Act 1965 shall immediately cease to be the auditor of the licensee.
+(4) An auditor for a licensee who becomes subject to any of the disqualifications mentioned in this Part or
+
+<!-- marginal: Act 125. -->
+
+in section 9 of the Companies Act 1965 shall immediately cease to be the auditor of the licensee.
 
 Penalty : Imprisonment for one year or one million ringgit or both. Default penalty.
 
-Restriction
+<!-- marginal: Restriction -->
 
-76. A firm shall not knowingly consent to be appointed, on audit and shall not knowingly act, as auditor for a licensee firm. and shall not prepare, for or on behalf of the licensee, a report required by this Act to be prepared by an auditor unless none of its partners is disqualified under paragraphs 15(1)(b) to (g) from acting as auditor of the licensee.
+76. A firm shall not knowingly consent to be appointed,
+
+<!-- marginal: on audit -->
+
+and shall not knowingly act, as auditor for a licensee
+
+<!-- marginal: firm. -->
+
+and shall not prepare, for or on behalf of the licensee, a report required by this Act to be prepared by an auditor unless none of its partners is disqualified under paragraphs 15(1)(b) to (g) from acting as auditor of the licensee.
 
 Penalty : One million ringgit.
 
-Consent to
+<!-- marginal: Consent to -->
 
-77. No licensee shall appoint a person as auditor under act as section 74 unless that person, prior to his appointment, auditor. has consented in writing to act as auditor, and consent in the case of a firm shall be under the hand of at least one of its partners.
+77. No licensee shall appoint a person as auditor under
 
-Appointment
+<!-- marginal: act as -->
 
-78. The appointment of a firm in the name of the firm of audit as auditor shall take effect and operate as an appointment firm. of the persons who are members of that firm at the time of the appointment.
+section 74 unless that person, prior to his appointment,
+
+<!-- marginal: auditor. -->
+
+has consented in writing to act as auditor, and consent in the case of a firm shall be under the hand of at least one of its partners.
+
+<!-- marginal: Appointment -->
+
+78. The appointment of a firm in the name of the firm
+
+<!-- marginal: of audit -->
+
+as auditor shall take effect and operate as an appointment
+
+<!-- marginal: firm. -->
+
+of the persons who are members of that firm at the time of the appointment.
 
 <!-- page 63 -->
 
@@ -2148,9 +2774,19 @@ specify the remuneration which the licensee shall pay to the auditor.
 
 Penalty : Five hundred thousand ringgit. Default penalty.
 
-Auditor to
+<!-- marginal: Auditor to -->
 
-82. (1) An auditor shall immediately report to the Bank report certain if, in the course of his duties as an auditor of a licensee, matters to he is satisfied that— the Bank.
+82. (1) An auditor shall immediately report to the Bank
+
+<!-- marginal: report certain -->
+
+if, in the course of his duties as an auditor of a licensee,
+
+<!-- marginal: matters to -->
+
+he is satisfied that—
+
+<!-- marginal: the Bank. -->
 
 (a) there has been a contravention of a provision of this Act or that an offence involving fraud or dishonesty under any other written law has been committed by the licensee or its employee;
 
@@ -2162,9 +2798,19 @@ Penalty : One million ringgit.
 
 (2) The auditor of a licensee shall not be liable for breach of a duty of confidentiality between the auditor and the licensee for reporting to the Bank in good faith in compliance with subsection (1).
 
-Appointment
+<!-- marginal: Appointment -->
 
-83. (1) A licensed life insurer shall appoint, for each of actuary financial year before a date to be specifed by the Bank, by life an appointed actuary approved by the Bank. insurer.
+83. (1) A licensed life insurer shall appoint, for each
+
+<!-- marginal: of actuary -->
+
+financial year before a date to be specifed by the Bank,
+
+<!-- marginal: by life -->
+
+an appointed actuary approved by the Bank.
+
+<!-- marginal: insurer. -->
 
 Penalty : Three million ringgit.
 
@@ -2220,9 +2866,17 @@ Penalty : Five hundred thousand ringgit.
 
 ## BILL
 
-Actuarial
+<!-- marginal: Actuarial -->
 
-85. (1) A licensed life insurer shall have an investigation investigation made by its appointed actuary into the financial condition and report. of its business at the end of each financial year.
+85. (1) A licensed life insurer shall have an investigation
+
+<!-- marginal: investigation -->
+
+made by its appointed actuary into the financial condition
+
+<!-- marginal: and report. -->
+
+of its business at the end of each financial year.
 
 Penalty : One million ringgit. Default penalty.
 
@@ -2242,11 +2896,23 @@ within ninety days from the end of its financial year or such further period as 
 
 Penalty : One million ringgit. Default penalty.
 
-Information
+<!-- marginal: Information -->
 
-86. A licensee, and a director, controller or employee to auditor of a licensee— and appointed
+86. A licensee, and a director, controller or employee
 
-(a) shall furnish to its auditor, or its appointed actuary. actuary, information within its or his knowledge which the auditor or appointed actuary may require; and
+<!-- marginal: to auditor -->
+
+of a licensee—
+
+<!-- marginal: and -->
+
+<!-- marginal: appointed -->
+
+(a) shall furnish to its auditor, or its appointed
+
+<!-- marginal: actuary. -->
+
+actuary, information within its or his knowledge which the auditor or appointed actuary may require; and
 
 (b) shall ensure that information furnished to the auditor or appointed actuary is not false or misleading in any material particular and is not incomplete.
 
@@ -2288,9 +2954,29 @@ Penalty : One million ringgit. Default penalty.
 
 <!-- page 68 -->
 
-Annual
+<!-- marginal: Annual -->
 
-88. (1) The documents required to be submitted under accounts and sections 85, 87 and 89, in the case of a licensed foreign actuary's insurer, shall relate to its Malaysian policies. report of licensed foreign (2) A licensed foreign insurer shall submit to the Bank insurer. within thirty days, or such further period as the Bank may approve, from the date of submission to the authority having administration of that law or to its annual general meeting, as the case may be—
+88. (1) The documents required to be submitted under
+
+<!-- marginal: accounts and -->
+
+sections 85, 87 and 89, in the case of a licensed foreign
+
+<!-- marginal: actuary's -->
+
+insurer, shall relate to its Malaysian policies.
+
+<!-- marginal: report of -->
+
+<!-- marginal: licensed -->
+
+<!-- marginal: foreign -->
+
+(2) A licensed foreign insurer shall submit to the Bank
+
+<!-- marginal: insurer. -->
+
+within thirty days, or such further period as the Bank may approve, from the date of submission to the authority having administration of that law or to its annual general meeting, as the case may be—
 
 (a) a certified true copy of its annual returns and actuary's report, if any, required by the law relating to insurance in the country in which it is incorporated or established to be furnished to that authority;
 
@@ -2304,9 +2990,13 @@ Penalty : One million ringgit. Default penalty.
 
 (4) The Bank may require a licensed foreign professional reinsurer to submit to it a report on the foreign policies of its office in Malaysia, in such form, and at such interval, as it may specify.
 
-Quarterly
+<!-- marginal: Quarterly -->
 
-89. A licensed insurer shall submit to the Bank in respect returns. of its operations for each quarter of a calendar year two copies each of the following—
+89. A licensed insurer shall submit to the Bank in respect
+
+<!-- marginal: returns. -->
+
+of its operations for each quarter of a calendar year two copies each of the following—
 
 (a) a revenue account together with supporting statements;
 
@@ -2396,9 +3086,15 @@ Penalty : One million ringgit.
 
 Penalty : One million ringgit. Default penalty.
 
-Restriction
+<!-- marginal: Restriction -->
 
-93. A licensed local insurer shall not pay any dividend on payment on its shares— of dividend.
+93. A licensed local insurer shall not pay any dividend
+
+<!-- marginal: on payment -->
+
+on its shares—
+
+<!-- marginal: of dividend. -->
 
 (a) until all its capitalized expenditure (including preliminary expenses, organization expenses, share selling commission, brokerage, amounts of losses incurred and any other item of expenditure not represented by tangible assets) has been written off; or
 
@@ -2460,13 +3156,31 @@ Penalty : One million ringgit. Default penalty.
 
 (b) such other document as the Bank may specify.
 
-Admissibility
+<!-- marginal: Admissibility -->
 
-97. In any proceedings, a certificate signed by an of document. authorised officer of the Bank stating that a document is lodged by a licensee under section 85, 87 or 89 or is a document that accompanies a document so lodged, shall be admissible in court as evidence of the fact so certified.
+97. In any proceedings, a certificate signed by an
 
-Liability
+<!-- marginal: of document. -->
 
-98. If accounting records necessary to exhibit and explain where proper the transactions and true financial condition of the licensee accounting records not are not kept, a past and present employee of the licensee kept. responsible for keeping proper accounting records commits an offence unless he proves that the offence was committed without his consent or connivance and that he exercised such diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his function in that capacity and to the circumstances.
+authorised officer of the Bank stating that a document is lodged by a licensee under section 85, 87 or 89 or is a document that accompanies a document so lodged, shall be admissible in court as evidence of the fact so certified.
+
+<!-- marginal: Liability -->
+
+98. If accounting records necessary to exhibit and explain
+
+<!-- marginal: where proper -->
+
+the transactions and true financial condition of the licensee
+
+<!-- marginal: accounting -->
+
+<!-- marginal: records not -->
+
+are not kept, a past and present employee of the licensee
+
+<!-- marginal: kept. -->
+
+responsible for keeping proper accounting records commits an offence unless he proves that the offence was committed without his consent or connivance and that he exercised such diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his function in that capacity and to the circumstances.
 
 Penalty : Imprisonment for three years or three million ringgit or both. Default penalty.
 
@@ -2474,9 +3188,13 @@ Penalty : Imprisonment for three years or three million ringgit or both. Default
 
 ## EXAMINATION
 
-Examination
+<!-- marginal: Examination -->
 
-99. (1) An examiner authorised in writing by the Bank of licensee. shall examine, without any prior notice, the documents of—
+99. (1) An examiner authorised in writing by the Bank
+
+<!-- marginal: of licensee. -->
+
+shall examine, without any prior notice, the documents of—
 
 (a) a licensee, or its agent, in or outside Malaysia; or
 
@@ -2554,11 +3272,17 @@ Penalty : Imprisonment for one year or one million ringgit or both. Default pena
 
 (2) An auditor or an appointed actuary shall not be liable for breach of a contract relating to, or duty of, confidentiality for giving a document or information to the examiner.
 
-Appearance
+<!-- marginal: Appearance -->
 
-102. A person examined under subsections 99(1) or 101 before
+102. A person examined under subsections 99(1) or 101
 
-(1) shall appear before the examiner at his office at such examiner. time as he may specify.
+<!-- marginal: before -->
+
+(1) shall appear before the examiner at his office at such
+
+<!-- marginal: examiner. -->
+
+time as he may specify.
 
 Penalty : Imprisonment for one year or one million ringgit or both. Default penalty.
 
@@ -2568,11 +3292,25 @@ IX
 
 ## INVESTIGATION , SEARCH AND SEIZURE
 
-Appointment
+<!-- marginal: Appointment -->
 
-103. (1) The Bank may appoint its employee or any of other person appointed under subsection 3(3) to be an investigating officer. investigating officer.
+103. (1) The Bank may appoint its employee or any
 
-(2) An investigating officer, not being an employee of the Bank, shall be subject to, and enjoy such rights, protection and indemnity as may be specified in this Act 519. Act, the Central Bank of Malaysia Act 1958 or any other written law applicable to an employee of the Bank.
+<!-- marginal: of -->
+
+other person appointed under subsection 3(3) to be an
+
+<!-- marginal: investigating -->
+
+<!-- marginal: officer. -->
+
+investigating officer.
+
+(2) An investigating officer, not being an employee of the Bank, shall be subject to, and enjoy such rights, protection and indemnity as may be specified in this
+
+<!-- marginal: Act 519. -->
+
+Act, the Central Bank of Malaysia Act 1958 or any other written law applicable to an employee of the Bank.
 
 (3) An investigating officer shall be subject to the direction and control of the Bank.
 
@@ -2626,11 +3364,19 @@ offence under this Act, he—
 
 (4) An investigating officer may seize, take possession of, and retain for such duration as he thinks necessary, any document or property produced before him in the course of his investigation, or found on the person who is being searched by him.
 
-Obstruction
+<!-- marginal: Obstruction -->
 
-105. No person— to investi- gating
+105. No person—
 
-(a) shall refuse an investigating officer access to officer. any premises or fail to submit to the search of his person;
+<!-- marginal: to investi- -->
+
+<!-- marginal: gating -->
+
+(a) shall refuse an investigating officer access to
+
+<!-- marginal: officer. -->
+
+any premises or fail to submit to the search of his person;
 
 (b) shall assault, obstruct, hinder or delay an investigating officer in effecting an entrance which he is entitled to effect;
 
@@ -2700,9 +3446,17 @@ Penalty : Imprisonment for one year or one million ringgit or both. Default pena
 
 (6) The record of an examination, a written statement on oath or affirmation and a document or property produced by a person under this section, notwithstanding any written law or rule of law to the contrary, shall be admissible in evidence in any court proceedings for, or in relation to, an offence under this Act, or any other written law, or any other matter under this Act.
 
-Assistance
+<!-- marginal: Assistance -->
 
-108. Notwithstanding any other written law, the Bank, to public on its own initiative, or at the request of a police officer officer or a public officer in the course of his investigation of an offence under any written law, may allow that officer access to—
+108. Notwithstanding any other written law, the Bank,
+
+<!-- marginal: to public -->
+
+on its own initiative, or at the request of a police officer
+
+<!-- marginal: officer -->
+
+or a public officer in the course of his investigation of an offence under any written law, may allow that officer access to—
 
 (a) a copy of a document seized, detained or taken possession of;
 
@@ -2710,9 +3464,39 @@ Assistance
 
 (c) a written statement on oath or affirmation.
 
-Investigating
+<!-- marginal: Investigating -->
 
-109. An investigating officer shall be deemed to be a officer public servant for the purposes of the Penal Code, and deemed to be public to be a public officer for the purposes of the Criminal servant Procedure Code or any other written law which the and public Minister, on the recommendation of the Bank, may officer. F.M.S prescribe. Cap. 45. F.M.S. Cap. 6.
+109. An investigating officer shall be deemed to be a
+
+<!-- marginal: officer -->
+
+public servant for the purposes of the Penal Code, and
+
+<!-- marginal: deemed to -->
+
+<!-- marginal: be public -->
+
+to be a public officer for the purposes of the Criminal
+
+<!-- marginal: servant -->
+
+Procedure Code or any other written law which the
+
+<!-- marginal: and public -->
+
+Minister, on the recommendation of the Bank, may
+
+<!-- marginal: officer. -->
+
+<!-- marginal: F.M.S -->
+
+prescribe.
+
+<!-- marginal: Cap. 45. -->
+
+<!-- marginal: F.M.S. -->
+
+<!-- marginal: Cap. 6. -->
 
 <!-- page 79 -->
 
@@ -2796,9 +3580,17 @@ Act 1965; and
 
 (b) shall deliver to the Bank a copy of the document and record relating to the proceedings at the same time as they are lodged in the Court or served on any party to the proceedings.
 
-Additional
+<!-- marginal: Additional -->
 
-114. The Court may order the winding up of an insurer circumstances, if— for winding up.
+114. The Court may order the winding up of an insurer
+
+<!-- marginal: circumstances, -->
+
+if—
+
+<!-- marginal: for winding -->
+
+<!-- marginal: up. -->
 
 (a) a petition is made in respect of it following an order of the Minister under paragraph 59(4)(b);
 
@@ -2806,9 +3598,11 @@ Additional
 
 (c) its licence has been revoked under section 31.
 
-Appointment
+<!-- marginal: Appointment -->
 
-115. (1) The Court, where a winding up order is made— of liquidator.
+115. (1) The Court, where a winding up order is made—
+
+<!-- marginal: of liquidator. -->
 
 (a) in respect of a local insurer, shall appoint as liquidator; or
 
@@ -2818,15 +3612,23 @@ such person as the Bank may specify in its petition or application.
 
 (2) The Bank may apply to the Court for the removal of a person appointed under subsection (1) and apply for such other person as it may specify to be appointed by the Court under subsection (1).
 
-Control of
+<!-- marginal: Control of -->
 
-116. Subject to an order of the Court, a liquidator, other liquidator. than the Official Receiver, appointed under subsection 115(1) shall carry out his functions under the direction and supervision of the Bank.
+116. Subject to an order of the Court, a liquidator, other
+
+<!-- marginal: liquidator. -->
+
+than the Official Receiver, appointed under subsection 115(1) shall carry out his functions under the direction and supervision of the Bank.
 
 Penalty : Five hundred thousand. Default penalty.
 
-Remuneration
+<!-- marginal: Remuneration -->
 
-117. (1) The remuneration of a liquidator or provisional of liquidator. liquidator of an insurer shall be as determined by the Court, on the recommendation of the Bank.
+117. (1) The remuneration of a liquidator or provisional
+
+<!-- marginal: of liquidator. -->
+
+liquidator of an insurer shall be as determined by the Court, on the recommendation of the Bank.
 
 <!-- page 81 -->
 
@@ -2898,9 +3700,27 @@ in force with effect from the date of its winding up order.
 
 (3) The liquidator shall notify each policy owner and, in the case of a group policy, the group policy owner, about the cessation of insurance by ordinary mail at his last known address and by advertisement in such newspapers as the Bank may specify.
 
-Application
+<!-- marginal: Application -->
 
-122. (1) In the winding up of an insurer, the assets of of an insurance fund shall be applied to meet its liabilities insurance fund in a to policy owners and claimants under policies of that winding up. class of insurance business and these liabilities shall have priority over unsecured liabilities other than preferential debts specified under subsection 292(1) of the Companies Act 125. Act 1965 to the extent that they are apportioned to the insurance fund.
+122. (1) In the winding up of an insurer, the assets of
+
+<!-- marginal: of -->
+
+an insurance fund shall be applied to meet its liabilities
+
+<!-- marginal: insurance -->
+
+<!-- marginal: fund in a -->
+
+to policy owners and claimants under policies of that
+
+<!-- marginal: winding up. -->
+
+class of insurance business and these liabilities shall have priority over unsecured liabilities other than preferential debts specified under subsection 292(1) of the Companies
+
+<!-- marginal: Act 125. -->
+
+Act 1965 to the extent that they are apportioned to the insurance fund.
 
 (2) Subject to subsection (1)—
 
@@ -2908,31 +3728,35 @@ Application
 
 (b) where the assets of an insurance fund exceed its liabilities, the surplus assets may be applied proportionately to meet the liabilities of its other insurance funds which are deficient; and
 
-(c) any deficiency subsisting after application of the assets of the insurance funds under paragraphs (a) and (b) shall be met out of the other assets of the insurer, and unsatisfied liabilities to a policy owner and claimant under a policy shall have priority over other unsecured liabilities other than preferential debts specified Act 125. under subsection 292(1) of the Companies Act 1965.
+(c) any deficiency subsisting after application of the assets of the insurance funds under paragraphs (a) and (b) shall be met out of the other assets of the insurer, and unsatisfied liabilities to a policy owner and claimant under a policy shall have priority over other unsecured liabilities other than preferential debts specified
 
-Waiver of
+<!-- marginal: Act 125. -->
 
-123. Where it appears to the liquidator that by reason strict of the inadequacy of its documents, or any other proof of circumstances, hardship would be caused if he requires debt. strict proof of debt, he may act on such evidence as he thinks fit and payment of a debt made by the liquidator in good faith to any person as being the person entitled to it shall discharge the liquidator from all liabilities in respect of that debt.
+under subsection 292(1) of the Companies Act 1965.
+
+<!-- marginal: Waiver of -->
+
+123. Where it appears to the liquidator that by reason
+
+<!-- marginal: strict -->
+
+of the inadequacy of its documents, or any other
+
+<!-- marginal: proof of -->
+
+circumstances, hardship would be caused if he requires
+
+<!-- marginal: debt. -->
+
+strict proof of debt, he may act on such evidence as he thinks fit and payment of a debt made by the liquidator in good faith to any person as being the person entitled to it shall discharge the liquidator from all liabilities in respect of that debt.
 
 <!-- page 83 -->
 
-<!-- marginal: Offences -->
+Offences
 
-124. No director, employee, agent or contributory, past
+124. No director, employee, agent or contributory, past by director, or present, of an insurer which is being wound up— employee or agent of
 
-<!-- marginal: by director, -->
-
-or present, of an insurer which is being wound up—
-
-<!-- marginal: employee or -->
-
-<!-- marginal: agent of -->
-
-(a) after its cessation of insurance business, shall
-
-<!-- marginal: insurer. -->
-
-continue to issue a policy;
+(a) after its cessation of insurance business, shall insurer. continue to issue a policy;
 
 (b) within twelve months immediately preceding or after the commencement of the winding up—
 
@@ -2962,9 +3786,17 @@ continue to issue a policy;
 
 Penalty : Imprisonment for five years or five million ringgit or both. Default penalty.
 
-Continuation
+<!-- marginal: Continuation -->
 
-125. (1) Notwithstanding paragraph 236(1)(a) of the of life Companies Act 1965, the liquidator of a life insurer— business. Act 125.
+125. (1) Notwithstanding paragraph 236(1)(a) of the
+
+<!-- marginal: of life -->
+
+Companies Act 1965, the liquidator of a life insurer—
+
+<!-- marginal: business. -->
+
+<!-- marginal: Act 125. -->
 
 (a) may carry on its life business with a view to it being transferred as a going concern to another insurer but shall not effect a new policy; and
 
@@ -3038,7 +3870,13 @@ approved by the Bank and confirmed by the Court.
 
 (4) A scheme may provide for the business to be transferred to a public company not licensed as an insurer under this Act in respect of the relevant class of business, if the scheme is to operate only in the event of the public company becoming so licensed.
 
-Submission of 129, (1) The transferor, before making an application scheme. to the Court, shall submit to the Bank, in such manner as the Bank may specify—
+<!-- marginal: Submission of -->
+
+129, (1) The transferor, before making an application
+
+<!-- marginal: scheme. -->
+
+to the Court, shall submit to the Bank, in such manner as the Bank may specify—
 
 (a) the draft scheme;
 
@@ -3122,9 +3960,15 @@ the Bank.
 
 (4) When confirming the scheme, the Court shall fix the effective date of transfer after hearing all parties concerned and the transfer shall be binding on all persons affected by it.
 
-Bank to bo
+<!-- marginal: Bank to bo -->
 
-134. (1) A person making an application to the Court party to in relation to a scheme— proceedings.
+134. (1) A person making an application to the Court
+
+<!-- marginal: party to -->
+
+in relation to a scheme—
+
+<!-- marginal: proceedings. -->
 
 (a) shall deliver a copy of the application to the Bank;
 
@@ -3138,9 +3982,15 @@ at the same time as the proceedings are instituted or the document lodged in the
 
 (3) Notwithstanding that the Bank has given its approval to a scheme, it may support an application made under subsection 133(2) or propose modification to the scheme.
 
-Effect of
+<!-- marginal: Effect of -->
 
-135. (1) The Court's confirmation of the scheme shall Court's have the effect of— confirmation.
+135. (1) The Court's confirmation of the scheme shall
+
+<!-- marginal: Court's -->
+
+have the effect of—
+
+<!-- marginal: confirmation. -->
 
 (a) vesting the transferor's rights and title to the assets transferred by the scheme in the transferee
 
@@ -3192,13 +4042,31 @@ may incur under this Part.
 
 <!-- page 90 -->
 
-Prohibition
+<!-- marginal: Prohibition -->
 
-137. No insurer shall pay to any person any remuneration of payment out of the assets of an insurance fund in relation to a out of scheme. insurance fund. Penalty : One million ringgit.
+137. No insurer shall pay to any person any remuneration
 
-Lodgement
+<!-- marginal: of payment -->
 
-138. Within thirty days after the scheme has taken effect, of document. the transferee shall lodge with the Bank—
+out of the assets of an insurance fund in relation to a
+
+<!-- marginal: out of -->
+
+scheme.
+
+<!-- marginal: insurance -->
+
+<!-- marginal: fund. -->
+
+Penalty : One million ringgit.
+
+<!-- marginal: Lodgement -->
+
+138. Within thirty days after the scheme has taken effect,
+
+<!-- marginal: of document. -->
+
+the transferee shall lodge with the Bank—
 
 (a) a copy of the scheme as confirmed by the Court;
 
@@ -3210,17 +4078,35 @@ Lodgement
 
 (e) a statutory declaration by the chairman of the board of directors of, the transferee, and the transferor or liquidator, as the case may be, setting out payment in cash or in kind made or to be made to a person on account of the transfer and stating that to the best of his belief no other payment has been or is to be made with his knowledge.
 
-Transfer of
+<!-- marginal: Transfer of -->
 
-139. No licensed insurance broker or licensed adjuster insurance shall transfer its business, wholly or partly, to a person broking or except with the prior written approval of the Bank. adjusting business.
+139. No licensed insurance broker or licensed adjuster
+
+<!-- marginal: insurance -->
+
+shall transfer its business, wholly or partly, to a person
+
+<!-- marginal: broking or -->
+
+except with the prior written approval of the Bank.
+
+<!-- marginal: adjusting -->
+
+<!-- marginal: business. -->
 
 ## PART XII
 
 ## PROVISIONS RELATING TO POLICIES
 
-Insurance of
+<!-- marginal: Insurance of -->
 
-140. (1) Except with the prior written approval of the property and Bank, no person shall insure or cause to be insured liability.
+140. (1) Except with the prior written approval of the
+
+<!-- marginal: property and -->
+
+Bank, no person shall insure or cause to be insured
+
+<!-- marginal: liability. -->
 
 <!-- page 91 -->
 
@@ -3266,9 +4152,17 @@ Penalty : Five hundred thousand ringgit.
 
 Penalty : Five hundred thousand ringgit. Default penalty.
 
-Premium
+<!-- marginal: Premium -->
 
-142. (1) A licensed life insurer shall not issue a life rate under policy unless the premium rate chargeable under that life policy. description of policy has been certified by its appointed actuary as suitable.
+142. (1) A licensed life insurer shall not issue a life
+
+<!-- marginal: rate under -->
+
+policy unless the premium rate chargeable under that
+
+<!-- marginal: life policy. -->
+
+description of policy has been certified by its appointed actuary as suitable.
 
 Penalty : One million ringgit.
 
@@ -3328,15 +4222,31 @@ Penalty : One million ringgit.
 
 (3) Upon receipt of the report, the Bank shall notify the remuneration which the licensed life insurer shall pay to the actuary.
 
-Premium
+<!-- marginal: Premium -->
 
-144. No licensed general insurer or association of licensed rate under general insurers shall adopt a tariff of premium rates, or general policy. a tariff of policy terms and conditions, for a description of general policy which is obligatorily applicable to licensed general insurers, except with the prior written approval of the Bank.
+144. No licensed general insurer or association of licensed
+
+<!-- marginal: rate under -->
+
+general insurers shall adopt a tariff of premium rates, or
+
+<!-- marginal: general -->
+
+<!-- marginal: policy. -->
+
+a tariff of policy terms and conditions, for a description of general policy which is obligatorily applicable to licensed general insurers, except with the prior written approval of the Bank.
 
 Penalty : One million ringgit.
 
-Review of
+<!-- marginal: Review of -->
 
-145. The Bank may require a licensed insurer or an premium association of licensed life or general insurers— rate.
+145. The Bank may require a licensed insurer or an
+
+<!-- marginal: premium -->
+
+association of licensed life or general insurers—
+
+<!-- marginal: rate. -->
 
 (a) to review the premium rates of a description of life or general policy on the basis of the insurance claims experience of the licensed insurer or all licensed insurers or other factors relevant to the determination of premium rates; or
 
@@ -3396,9 +4306,13 @@ the age of the life insured.
 
 (6) Nothing in this section shall prevent the licensed life insurer from calling for proof of age at any time and no life policy shall be deemed to be disputed merely because the terms of the life policy are adjusted in accordance with subsections (2) or (3).
 
-Objection to
+<!-- marginal: Objection to -->
 
-148. (1) A policy owner, within fifteen days after the life policy. delivery of a life policy of any description to him or to a person who resides at his residence, may return the life policy to the licensed life insurer and it shall immediately refund any premium which has been paid
+148. (1) A policy owner, within fifteen days after the
+
+<!-- marginal: life policy. -->
+
+delivery of a life policy of any description to him or to a person who resides at his residence, may return the life policy to the licensed life insurer and it shall immediately refund any premium which has been paid
 
 <!-- page 97 -->
 
@@ -3442,9 +4356,13 @@ Penalty : One million ringgit.
 
 (5) The Bank may specify a code of good practice in relation to any description of proposal form, policy or brochure.
 
-Duty of
+<!-- marginal: Duty of -->
 
-150. (1) Before a contract of insurance is entered into, disclosure. a proposer shall disclose to the licensed insurer a matter that—
+150. (1) Before a contract of insurance is entered into,
+
+<!-- marginal: disclosure. -->
+
+a proposer shall disclose to the licensed insurer a matter that—
 
 (a) he knows to be relevant to the decision of the licensed insurer on whether to accept the risk or not and the rates and terms to be applied; or
 
@@ -3530,9 +4448,17 @@ policy moneys payable, or where the policy moneys are payable in instalments, th
 
 (4) This section shall not affect a life policy issued before 21 January 1963.
 
-Capacity of
+<!-- marginal: Capacity of -->
 
-153. (1) Notwithstanding any law to the contrary, a minor minor to who has attained the age of ten years but has not attained insure. the age of sixteen years, with the consent in writing of his parent or guardian—
+153. (1) Notwithstanding any law to the contrary, a minor
+
+<!-- marginal: minor to -->
+
+who has attained the age of ten years but has not attained
+
+<!-- marginal: insure. -->
+
+the age of sixteen years, with the consent in writing of his parent or guardian—
 
 (a) may effect a life policy upon his own life or upon another life in which he has an insurable interest; or
 
@@ -3594,9 +4520,17 @@ determined in such manner as may be prescribed but subject to a deduction of mon
 
 (3) A life policy shall remain in force until the licensed life insurer has effected payment of the surrender value of the life policy.
 
-Non-payment
+<!-- marginal: Non-payment -->
 
-156. (1) Where a life policy has been in force for three of life policy years or more, it shall not lapse or be forfeited by reason premiums. of non-payment of premiums but shall have effect subject to such modification as to the period for which it is to be in force, or of the benefits receivable under it, or both, as may be determined in accordance with the system of the licensed life insurer which is applicable to the life policy.
+156. (1) Where a life policy has been in force for three
+
+<!-- marginal: of life policy -->
+
+years or more, it shall not lapse or be forfeited by reason
+
+<!-- marginal: premiums. -->
+
+of non-payment of premiums but shall have effect subject to such modification as to the period for which it is to be in force, or of the benefits receivable under it, or both, as may be determined in accordance with the system of the licensed life insurer which is applicable to the life policy.
 
 (2) No licensed life insurer shall adopt a system for the purpose of subsection (1) unless it has filed the particulars of the system with the Bank at least thirty days before the effective date for adoption of the system.
 
@@ -3688,9 +4622,17 @@ at the policy owner's address by a person whom the licensed life insurer employs
 
 (2) In respect of a life policy to which subsection (1) applies, payment to the person whom the licensed life insurer employs for the collection of premiums shall be deemed to be payment to the licensed life insurer.
 
-Interest on
+<!-- marginal: Interest on -->
 
-161. (1) Where a claim or a part of a claim made under claim a life policy, or under a personal accident policy upon amount. the death of the policy owner is not paid by the licensed insurer within sixty days of receipt of intimation of the claim, the licensed insurer shall pay a minimum compound interest of four per cent per annum or such other rate as may be prescribed on the amount of policy moneys upon expiry of the sixty days until the date of payment.
+161. (1) Where a claim or a part of a claim made under
+
+<!-- marginal: claim -->
+
+a life policy, or under a personal accident policy upon
+
+<!-- marginal: amount. -->
+
+the death of the policy owner is not paid by the licensed insurer within sixty days of receipt of intimation of the claim, the licensed insurer shall pay a minimum compound interest of four per cent per annum or such other rate as may be prescribed on the amount of policy moneys upon expiry of the sixty days until the date of payment.
 
 (2) This section applies to payments made under Part
 
@@ -3702,15 +4644,27 @@ Interest on
 
 ## POLICY OR PERSONAL ACCIDENT POLICY
 
-Application
+<!-- marginal: Application -->
 
-162. In this Part, a reference to a policy is a reference of this Part. to a life policy, including a life policy under section 23 Act 67 of the Civil Law Act 1956, and a personal accident policy, effected by a policy owner upon his own life providing for payment of policy moneys on his death.
+162. In this Part, a reference to a policy is a reference
 
-### Power to
+<!-- marginal: of this Part. -->
 
-163. (1) A policy owner who has attained the age of make eighteen years may nominate a natural person to receive
+to a life policy, including a life policy under section 23
 
-### nomination.
+<!-- marginal: Act 67 -->
+
+of the Civil Law Act 1956, and a personal accident policy, effected by a policy owner upon his own life providing for payment of policy moneys on his death.
+
+<!-- marginal: Power to -->
+
+163. (1) A policy owner who has attained the age of
+
+<!-- marginal: make -->
+
+eighteen years may nominate a natural person to receive
+
+<!-- marginal: nomination. -->
 
 policy moneys payable upon his death under the policy by notifying the licensed insurer in writing the name, date of birth, identity card number or birth certificate number and address of the nominee—
 
@@ -3764,9 +4718,27 @@ section 166 applies, shall be revoked—
 
 (3) Where there is more than one nominee and one of the nominees predeceases the policy owner, in the absence of any subsequent nomination by the policy owner disposing of the share of the deceased nominee, the licensed insurer shall pay the share to the remaining nominees in proportion to their respective shares.
 
-Payment of
+<!-- marginal: Payment of -->
 
-165. (1) Subject to subsection (2), where a policy owner policy dies having made a nomination, the licensed insurer moneys where shall pay the policy moneys of the deceased policy owner there is according to the direction of the nomination upon receipt nomination. of a claim by the nominee and the claim is accompanied by proof of death of the policy owner.
+165. (1) Subject to subsection (2), where a policy owner
+
+<!-- marginal: policy -->
+
+dies having made a nomination, the licensed insurer
+
+<!-- marginal: moneys -->
+
+<!-- marginal: where -->
+
+shall pay the policy moneys of the deceased policy owner
+
+<!-- marginal: there is -->
+
+according to the direction of the nomination upon receipt
+
+<!-- marginal: nomination. -->
+
+of a claim by the nominee and the claim is accompanied by proof of death of the policy owner.
 
 (2) Where a nominee fails to claim the policy moneys within sixty days of the licensed insurer becoming aware of the death of the policy owner, the licensed insurer shall notify the nominee in writing at his last known address of his entitlement to claim the policy moneys.
 
@@ -3774,9 +4746,17 @@ Payment of
 
 (4) Where a nominee, other than a nominee under section 166, dies after the death of the policy owner but before any policy moneys has been paid to him as nominee, section 164 or 169 shall apply to the policy, as the case may be.
 
-Trustee of
+<!-- marginal: Trustee of -->
 
-166. (1) A nomination by a policy owner, other than policy a Muslim policy owner, shall create a trust in favour of moneys. the nominee of the policy moneys payable upon the death of the policy owner, if—
+166. (1) A nomination by a policy owner, other than
+
+<!-- marginal: policy -->
+
+a Muslim policy owner, shall create a trust in favour of
+
+<!-- marginal: moneys. -->
+
+the nominee of the policy moneys payable upon the death of the policy owner, if—
 
 (a) the nominee is his spouse or child; or
 
@@ -3828,15 +4808,43 @@ shall form part of the estate of the deceased policy owner and be subject to his
 
 (2) Subsection (1) applies to a nominee of a Muslim policy owner who, on receipt of the policy moneys, shall distribute the policy moneys in accordance with Islamic law.
 
-Assigned or
+<!-- marginal: Assigned or -->
 
-168. (1) Notwithstanding a nomination under section 163 pledged or the creation of a trust under subsection 166(1), where policy moneys. the policy moneys, wholly or partly, have been pledged as security or assigned to a person, the claim of the person entitled under the security or the assignee shall have priority over the claim of the nominee and subject to the rights under the security or the assignment being preserved, the licensed insurer shall pay the balance of the policy moneys to the nominee.
+168. (1) Notwithstanding a nomination under section 163
+
+<!-- marginal: pledged -->
+
+or the creation of a trust under subsection 166(1), where
+
+<!-- marginal: policy -->
+
+<!-- marginal: moneys. -->
+
+the policy moneys, wholly or partly, have been pledged as security or assigned to a person, the claim of the person entitled under the security or the assignee shall have priority over the claim of the nominee and subject to the rights under the security or the assignment being preserved, the licensed insurer shall pay the balance of the policy moneys to the nominee.
 
 (2) Where more than one person are entitled under the security or the assignment, the respective rights of the persons entitled under the security or the assignment shall be in the order of priority according to the priority of the date on which the security or the assignment was created, both security and assignment being treated as one class for this purpose.
 
-Payment of
+<!-- marginal: Payment of -->
 
-169. (1) Where a policy owner of a policy dies without policy having made a nomination, subject to section 168, the moneys where there licensed insurer shall pay the policy moneys of the is no deceased policy owner to the applicant who produces nomination. the Grant of Probate or Letters of Administration or Distribution Order.
+169. (1) Where a policy owner of a policy dies without
+
+<!-- marginal: policy -->
+
+having made a nomination, subject to section 168, the
+
+<!-- marginal: moneys -->
+
+<!-- marginal: where there -->
+
+licensed insurer shall pay the policy moneys of the
+
+<!-- marginal: is no -->
+
+deceased policy owner to the applicant who produces
+
+<!-- marginal: nomination. -->
+
+the Grant of Probate or Letters of Administration or Distribution Order.
 
 (2) Subject to subsection (1), the licensed insurer may pay to the policy owner's spouse, child or parent in that order of priority and where there are more than one spouse, child or parent, in equal shares to each person of that class and where there is no spouse, child or parent and—
 
@@ -3862,7 +4870,11 @@ pay all that policy moneys without requiring the Grant of Probate or Letters of 
 
 <!-- page 110 -->
 
-the grant was made, provided that the same have been duly registered with the Court in Malaysia and sealed Act 97. in accordance with the Probate and Administration Act 1959.
+the grant was made, provided that the same have been duly registered with the Court in Malaysia and sealed
+
+<!-- marginal: Act 97. -->
+
+in accordance with the Probate and Administration Act 1959.
 
 (6) Where, upon the expiry of twelve months after a payment under paragraph (2)(b) has been made by a licensed insurer, and a balance of the policy moneys still remains payable and no claim has been made by a person who holds a Grant of Probate or Letters of Administration or Distribution Order, the licensed insurer shall pay the balance of the policy moneys to the person who received the initial payment of the policy moneys.
 
@@ -3870,9 +4882,19 @@ the grant was made, provided that the same have been duly registered with the Co
 
 (8) A person to whom a payment may be made under this section shall give a receipt which shall be deemed to be a valid receipt.
 
-Payment to
+<!-- marginal: Payment to -->
 
-170. Where a person has not attained the age of eighteen person years, or who is certified by a medical practitioner in incompetent to contract. the public service to be of unsound mind and no committee of his estate has been appointed, or to be incapable, by reason of infirmity of mind or body, of managing himself and his property and affairs, the licensed insurer—
+170. Where a person has not attained the age of eighteen
+
+<!-- marginal: person -->
+
+years, or who is certified by a medical practitioner in
+
+<!-- marginal: incompetent -->
+
+<!-- marginal: to contract. -->
+
+the public service to be of unsound mind and no committee of his estate has been appointed, or to be incapable, by reason of infirmity of mind or body, of managing himself and his property and affairs, the licensed insurer—
 
 (a) in the case of a nominee under subsection 166 (D—
 
@@ -3934,9 +4956,25 @@ effective date, notwithstanding anything contained in the policy, and nothing co
 
 ## INSURANCE GUARANTEE SCHEME FUND
 
-Establishment
+<!-- marginal: Establishment -->
 
-173. (1) The Bank may establish and maintain a separate and insurance guarantee scheme fund for general business maintenance of insurance and for life business in so far as the business relates to guarantee Malaysian policies. scheme fund.
+173. (1) The Bank may establish and maintain a separate
+
+<!-- marginal: and -->
+
+insurance guarantee scheme fund for general business
+
+<!-- marginal: maintenance -->
+
+<!-- marginal: of insurance -->
+
+and for life business in so far as the business relates to
+
+<!-- marginal: guarantee -->
+
+Malaysian policies.
+
+<!-- marginal: scheme fund. -->
 
 (2) The Bank shall remit into the insurance guarantee scheme fund for general business, and into the insurance guarantee scheme fund for life business—
 
@@ -3954,13 +4992,25 @@ Establishment
 
 (g) fines under subsection 211(2).
 
-Investment
+<!-- marginal: Investment -->
 
-174. The Bank may invest moneys in an insurance of moneys. guarantee scheme fund, in so far as they are not for the time being required to be expended for the purposes of this Part, in such investments as the Minister may approve and all income accruing in respect of such investments shall be credited to the fund.
+174. The Bank may invest moneys in an insurance
 
-Bank may
+<!-- marginal: of moneys. -->
 
-175. The Bank may borrow moneys for an insurance borrow guarantee scheme fund to such extent, in such manner, moneys. from such person or source, and on such condition, as the Minister may approve.
+guarantee scheme fund, in so far as they are not for the time being required to be expended for the purposes of this Part, in such investments as the Minister may approve and all income accruing in respect of such investments shall be credited to the fund.
+
+<!-- marginal: Bank may -->
+
+175. The Bank may borrow moneys for an insurance
+
+<!-- marginal: borrow -->
+
+guarantee scheme fund to such extent, in such manner,
+
+<!-- marginal: moneys. -->
+
+from such person or source, and on such condition, as the Minister may approve.
 
 <!-- page 113 -->
 
@@ -3988,13 +5038,25 @@ Penalty : One million ringgit. Default penalty.
 
 <!-- page 114 -->
 
-Disconti-
+<!-- marginal: Disconti- -->
 
-177. The Minister, at his discretion, may direct the Bank nuance of to discontinue the collection of levy if he is satisfied levy. that there is adequate moneys in an insurance guarantee scheme fund but if circumstances warrant, he may direct the Bank to resume the collection.
+177. The Minister, at his discretion, may direct the Bank
 
-Utilisation of
+<!-- marginal: nuance of -->
 
-178. (1) The Bank, subject to section 179, may utilise moneys the moneys in an insurance guarantee scheme fund—
+to discontinue the collection of levy if he is satisfied
+
+<!-- marginal: levy. -->
+
+that there is adequate moneys in an insurance guarantee scheme fund but if circumstances warrant, he may direct the Bank to resume the collection.
+
+<!-- marginal: Utilisation of -->
+
+178. (1) The Bank, subject to section 179, may utilise
+
+<!-- marginal: moneys -->
+
+the moneys in an insurance guarantee scheme fund—
 
 (a) to meet the administrative, legal and other costs of maintaining and administering the insurance guarantee scheme fund;
 
@@ -4012,9 +5074,17 @@ Utilisation of
 
 (c) a receiving order has been made against it by the Court.
 
-Restriction
+<!-- marginal: Restriction -->
 
-179. (1) The Minister, at his discretion, may restrict on utilisation the utilisation of an insurance guarantee scheme fund to of moneys. certain descriptions of insurance business within a class or he may direct that the utilisation of the insurance guarantee scheme fund may be made in such manner as he may direct.
+179. (1) The Minister, at his discretion, may restrict
+
+<!-- marginal: on utilisation -->
+
+the utilisation of an insurance guarantee scheme fund to
+
+<!-- marginal: of moneys. -->
+
+certain descriptions of insurance business within a class or he may direct that the utilisation of the insurance guarantee scheme fund may be made in such manner as he may direct.
 
 <!-- page 115 -->
 
@@ -4074,17 +5144,33 @@ under section 178 out of an insurance guarantee scheme fund at any time after th
 
 (3) Notwithstanding subsections (1) and (2), where moneys in an insurance guarantee scheme fund is insufficient to meet its obligations, the Bank may pay a claim in instalments, or defer making payment, out of the insurance guarantee scheme fund.
 
-Assistance
+<!-- marginal: Assistance -->
 
-183. The Bank may appoint a suitable person to assist in it in the administration and distribution of moneys in an administration. insurance guarantee scheme fund.
+183. The Bank may appoint a suitable person to assist
+
+<!-- marginal: in -->
+
+it in the administration and distribution of moneys in an
+
+<!-- marginal: administration. -->
+
+insurance guarantee scheme fund.
 
 ## PART XV
 
 ## MISCELLANEOUS
 
-Agent and
+<!-- marginal: Agent and -->
 
-184. (1) No person shall act on behalf of a person not insurance licensed under this Act in relation to the carrying on of broker. insurance business in Malaysia unless approved in writing by the Bank.
+184. (1) No person shall act on behalf of a person not
+
+<!-- marginal: insurance -->
+
+licensed under this Act in relation to the carrying on of
+
+<!-- marginal: broker. -->
+
+insurance business in Malaysia unless approved in writing by the Bank.
 
 Penalty : Imprisonment for three years or three million ringgit or both. Default penalty.
 
@@ -4162,17 +5248,35 @@ Penalty : One million ringgit.
 
 ## GENERAL PROVISIONS
 
-Enforcement
+<!-- marginal: Enforcement -->
 
-187. (1) If a person defaults in complying with a of this Act. provision of this Act, the Bank, by notice in writing, may require the person to make good the default within such time as it may specify.
+187. (1) If a person defaults in complying with a
+
+<!-- marginal: of this Act. -->
+
+provision of this Act, the Bank, by notice in writing, may require the person to make good the default within such time as it may specify.
 
 (2) Nothing done under this section shall affect a person's liability for an offence under this Act.
 
 (3) A policy issued by a licensed insurer in contravention of this Act shall not be invalidated solely by reason of the contravention.
 
-Refund of
+<!-- marginal: Refund of -->
 
-188. (1) A person shall refund moneys obtained by him moneys from any other person in the course of carrying on obtained in insurance business or insurance broking business without contravention of this Act. being licensed under this Act.
+188. (1) A person shall refund moneys obtained by him
+
+<!-- marginal: moneys -->
+
+from any other person in the course of carrying on
+
+<!-- marginal: obtained in -->
+
+insurance business or insurance broking business without
+
+<!-- marginal: contravention -->
+
+<!-- marginal: of this Act. -->
+
+being licensed under this Act.
 
 <!-- page 119 -->
 
@@ -4182,7 +5286,9 @@ Refund of
 
 Penalty : Imprisonment for three years or three million ringgit or both. Default penalty.
 
-(2) A person entitled to a refund under subsection (1) may make an application to the Bank and the Bank, after considering the application, may make an order directing the offender to refund the amount within such time and in such manner as it may direct.
+(2) A person entitled to a refund under subsection
+
+(1) may make an application to the Bank and the Bank, after considering the application, may make an order directing the offender to refund the amount within such time and in such manner as it may direct.
 
 (3) Nothing done under this section shall affect a person's liability for an offence under this Act.
 
@@ -4200,7 +5306,11 @@ and the offence results in, or causes, any loss or damage to a licensee, that pe
 
 (2) Where the Bank is satisfied that a person is liable under subsection (1) to indemnify a licensee for loss or damage, it shall notify that person in writing, with a copy to the licensee, of the amount of moneys he is liable to indemnify the licensee and that person may make representation in writing to the Bank within thirty days from the date of service of the notice.
 
-(3) Where no written representation is received by the Bank within the period specified under subsection (2), or where representation is received, the Bank, upon considering the representation received under subsection (2), may issue a certificate specifying the amount of moneys that person is liable to indemnify the licensee and that amount of moneys shall be a civil debt due to the licensee.
+(3) Where no written representation is received by the Bank within the period specified under subsection
+
+(2), or where representation is received, the Bank, upon considering the representation received under subsection
+
+(2), may issue a certificate specifying the amount of moneys that person is liable to indemnify the licensee and that amount of moneys shall be a civil debt due to the licensee.
 
 <!-- page 120 -->
 
@@ -4208,9 +5318,15 @@ and the offence results in, or causes, any loss or damage to a licensee, that pe
 
 (5) A certificate under subsection (3) shall be conclusive evidence of the debt.
 
-Notification
+<!-- marginal: Notification -->
 
-190. (1) A notification of a certificate under subsection of certificate. 189(3) or a revocation of it shall be published in the Gazette after it has been issued or revoked, as the case may be.
+190. (1) A notification of a certificate under subsection
+
+<!-- marginal: of -->
+
+<!-- marginal: certificate. -->
+
+189(3) or a revocation of it shall be published in the Gazette after it has been issued or revoked, as the case may be.
 
 (2) With effect from the date of publication in the Gazette of the notification, the person against whom the certificate is issued shall not sell, charge, pledge, transfer or otherwise deal with, or remove from Malaysia, any of his property without the prior written approval of the Bank.
 
@@ -4220,7 +5336,7 @@ Notification
 
 (5) Where a licensee has instituted proceedings in a court under subsection (4), the enquiry under subsection 189(2) shall be discontinued and section 189 shall cease to apply in relation to the loss or damage.
 
-Indemnity.
+<!-- marginal: Indemnity. -->
 
 191. The Minister, the Governor, the Bank, its director, employee or any person acting on its behalf, shall not be liable to an action or other proceedings for damages for, or on account of, or in respect of, an act done or statement made, or omitted to be done or made, in the performance of a function under this Act if the act was done or statement was made, or omitted to be done or made, in good faith.
 
@@ -4276,41 +5392,89 @@ Malaysia Act 1958 and section 108, no person exercising any power under this Act
 
 <!-- page 122 -->
 
-Permitted
+<!-- marginal: Permitted -->
 
-196. (1) Section 195 shall not apply to the disclosure disclosure. of information—
+196. (1) Section 195 shall not apply to the disclosure
+
+<!-- marginal: disclosure. -->
+
+of information—
 
 (a) to the Bank, its director or employee, a person appointed under subsection 3(3) or an appointed person, where the disclosure is in the course of performance of functions; or
 
 (b) to a person rendering service to the Bank in relation to a matter requiring professional knowledge.
 
-Decision of
+<!-- marginal: Decision of -->
 
-197. Except as otherwise provided in this Act, a decision Minister to made by the Minister under this Act shall be final. be final.
+197. Except as otherwise provided in this Act, a decision
 
-Exemptions.
+<!-- marginal: Minister to -->
+
+made by the Minister under this Act shall be final.
+
+<!-- marginal: be final. -->
+
+<!-- marginal: Exemptions. -->
 
 198. The Minister, if he considers it consistent with the purposes of this Act or in the interest of the public, by order published in the Gazette, may exempt a person or class of persons from all or any of the provisions of this Act for such duration and subject to such condition as the Minister may specify,
 
-Application
+<!-- marginal: Application -->
 
-199. (1) Where there is a conflict or inconsistency of other between a provision of this Act and that of the Companies laws. Act 125. Act 1965, the Contracts Act 1950, or the Co-operative Act 316 Societies Act 1993, the provision of this Act shall prevail. Act 502.
+199. (1) Where there is a conflict or inconsistency
+
+<!-- marginal: of other -->
+
+between a provision of this Act and that of the Companies
+
+<!-- marginal: laws. -->
+
+<!-- marginal: Act 125. -->
+
+Act 1965, the Contracts Act 1950, or the Co-operative
+
+<!-- marginal: Act 316 -->
+
+Societies Act 1993, the provision of this Act shall prevail.
+
+<!-- marginal: Act 502. -->
 
 (2) Where a difficulty or doubt arises in the application of subsection (1) in relation to a particular licensee or matter, the Minister, on the reference of the difficulty or doubt may resolve the difficulty or doubt referred to him by the Bank by a direction in writing.
 
-Non-
+<!-- marginal: Non- -->
 
-200. This Act shall not apply to— application
+200. This Act shall not apply to—
 
-(a) a takaful operator registered under section 8 or of Act. licensed under sections 37 or 38 of the Takaful Act 312. Act 1984; or
+<!-- marginal: application -->
 
-(b) a person licensed under section 9 of the Off- Act 444 shore Insurance Act 1990,
+(a) a takaful operator registered under section 8 or
+
+<!-- marginal: of Act. -->
+
+licensed under sections 37 or 38 of the Takaful
+
+<!-- marginal: Act 312. -->
+
+Act 1984; or
+
+(b) a person licensed under section 9 of the Off-
+
+<!-- marginal: Act 444 -->
+
+shore Insurance Act 1990,
 
 in relation to the business for which he is registered or licensed, as the case may be.
 
-Power to
+<!-- marginal: Power to -->
 
-201. The Bank may issue guidelines, circulars, or notices issue in respect of this Act relating to the conduct of the business guidelines. and affairs of a licensee.
+201. The Bank may issue guidelines, circulars, or notices
+
+<!-- marginal: issue -->
+
+in respect of this Act relating to the conduct of the business
+
+<!-- marginal: guidelines. -->
+
+and affairs of a licensee.
 
 <!-- page 123 -->
 
@@ -4352,11 +5516,19 @@ of a section or a subsection indicates that a person convicted of an offence in 
 
 <!-- page 124 -->
 
-Offence in
+<!-- marginal: Offence in -->
 
-205. No person, with intent to deceive— relation to entries in
+205. No person, with intent to deceive—
 
-(a) in respect of a document relating to a licensee— documents. (i) shall make or cause to be made a false entry; (ii) shall omit to make, or cause to be omitted, any entry; or (iii) shall alter, abstract, conceal or destroy, or cause to be altered, abstracted, concealed or destroyed, any entry;
+<!-- marginal: relation to -->
+
+<!-- marginal: entries in -->
+
+(a) in respect of a document relating to a licensee—
+
+<!-- marginal: documents. -->
+
+(i) shall make or cause to be made a false entry; (ii) shall omit to make, or cause to be omitted, any entry; or (iii) shall alter, abstract, conceal or destroy, or cause to be altered, abstracted, concealed or destroyed, any entry;
 
 (b) in respect of a group policy, shall receive a proposal for insurance, or collect premium, on the group policy if it has expired or has been cancelled by the licensed insurer;
 
@@ -4368,9 +5540,15 @@ Offence in
 
 Penalty : Imprisonment for ten years or ten million ringgit or both. Default penalty.
 
-Offence by
+<!-- marginal: Offence by -->
 
-206. (1) Where an offence is committed by a body body corporate or an association of persons, a person— corporate.
+206. (1) Where an offence is committed by a body
+
+<!-- marginal: body -->
+
+corporate or an association of persons, a person—
+
+<!-- marginal: corporate. -->
 
 (a) who is its director, controller, officer, or partner; or
 
@@ -4424,11 +5602,37 @@ is a seizable offence, and a police officer not below the rank of inspector, or 
 
 <!-- page 126 -->
 
-210. An investigating officer who makes an arrest under Arrested person make section 209 shall make over the arrested person to a over to police officer without unnecessary delay and the arrested police. person shall be dealt with according to the law relating to criminal procedure as if he had been arrested by a police officer.
+210. An investigating officer who makes an arrest under
 
-Power of
+<!-- marginal: Arrested -->
 
-211. (1) The Governor may compound an offence under Governor to this Act or under regulations made under this Act by compound accepting from the person reasonably suspected of having offences. committed the offence such amount of moneys not exceeding the fine for that offence, including the daily fine in a continuing offence, within such time, as may be specified in his written offer.
+<!-- marginal: person make -->
+
+section 209 shall make over the arrested person to a
+
+<!-- marginal: over to -->
+
+police officer without unnecessary delay and the arrested
+
+<!-- marginal: police. -->
+
+person shall be dealt with according to the law relating to criminal procedure as if he had been arrested by a police officer.
+
+<!-- marginal: Power of -->
+
+211. (1) The Governor may compound an offence under
+
+<!-- marginal: Governor to -->
+
+this Act or under regulations made under this Act by
+
+<!-- marginal: compound -->
+
+accepting from the person reasonably suspected of having
+
+<!-- marginal: offences. -->
+
+committed the offence such amount of moneys not exceeding the fine for that offence, including the daily fine in a continuing offence, within such time, as may be specified in his written offer.
 
 (2) Fifty per cent of the amount of moneys received by the Governor under subsection (1) shall be paid into, and shall constitute the revenue of—
 
@@ -4558,19 +5762,63 @@ for a period of six months from the effective date; or
 
 <!-- page 130 -->
 
-Approval of
+<!-- marginal: Approval of -->
 
-216. (1) An insurer which is deemed to be licensed licence to under paragraph 215(1)(a) to carry on general business insurer deemed to or life business or both, as the case may be, shall apply be licensed for a licence to carry on that insurance business under under section 15 within sixty days from the effective date. paragraph 215(1)(a). (2) Where subsection (1) is complied with, the Minister may grant the licence under section 16, with or without conditions, or refuse to grant the licence under section
+216. (1) An insurer which is deemed to be licensed
 
-16. (3) A licence deemed to be held under paragraph 215(1)(a) shall be revoked if—
+<!-- marginal: licence to -->
+
+under paragraph 215(1)(a) to carry on general business
+
+<!-- marginal: insurer -->
+
+<!-- marginal: deemed to -->
+
+or life business or both, as the case may be, shall apply
+
+<!-- marginal: be licensed -->
+
+for a licence to carry on that insurance business under
+
+<!-- marginal: under -->
+
+section 15 within sixty days from the effective date.
+
+<!-- marginal: paragraph -->
+
+<!-- marginal: 215(1)(a). -->
+
+(2) Where subsection (1) is complied with, the Minister may grant the licence under section 16, with or without conditions, or refuse to grant the licence under section 16. (3) A licence deemed to be held under paragraph 215(1)(a) shall be revoked if—
 
 (a) subsection (1) is not complied with; or
 
 (b) subsection (1) is complied with but a licence is refused under section 16.
 
-Conversion 217, Where an insurer which is deemed to be licensed into, transfer under paragraph 215(1)(a) or is licensed under section of insurance 16 to carry on, either general or life business or both, business to, public as the case may be— company.
+<!-- marginal: Conversion -->
 
-(a) is a private company, it shall convert itself into a public company in accordance with the Act 125. Companies Act 1965 within twelve months from the effective date;
+217, Where an insurer which is deemed to be licensed
+
+<!-- marginal: into, transfer -->
+
+under paragraph 215(1)(a) or is licensed under section
+
+<!-- marginal: of insurance -->
+
+16 to carry on, either general or life business or both,
+
+<!-- marginal: business to, -->
+
+<!-- marginal: public -->
+
+as the case may be—
+
+<!-- marginal: company. -->
+
+(a) is a private company, it shall convert itself into a public company in accordance with the
+
+<!-- marginal: Act 125. -->
+
+Companies Act 1965 within twelve months from the effective date;
 
 (b) is a foreign insurer, other than a professional reinsurer, it shall transfer its property, business, and liabilities to a public company incorporated under the Companies Act 1965 in so far as they relate to its insurance business in Malaysia in accordance with Part X of that Act on or before 30 June 1998; and
 
@@ -4636,9 +5884,7 @@ date.
 
 <!-- marginal: 215(1)(b). -->
 
-(2) Where subsection (1) is complied with, the Bank may grant the licence under section 17, with or without conditions, or refuse to grant the licence under section
-
-17.
+(2) Where subsection (1) is complied with, the Bank may grant the licence under section 17, with or without conditions, or refuse to grant the licence under section 17.
 
 (3) The licence deemed to be held under paragraph 215(1)(b) shall be deemed to have been revoked if—
 
@@ -4698,11 +5944,29 @@ and section 66 shall apply in relation to a controller of a licensee under this 
 
 Penalty : One million ringgit. Default penalty.
 
-Deposits
+<!-- marginal: Deposits -->
 
-222. (1) Where a licensed insurer has deposited in cash and bank or securities with the Accountant General the sum of covenants in lieu of moneys specified in subsection 7(1) of the repealed Act, deposits. the Accountant General may refund that deposit together with any accretions to the licensed insurer.
+222. (1) Where a licensed insurer has deposited in cash
 
-(2) Where a bank licensed under the Banking and Act 372. Financial Institutions Act 1989 covenants with the Government under subsection 8(1) of the repealed Act to deposit with the Accountant General a specified sum in cash on account of a licensed insurer's deposit under subsection 7(1) of the repealed Act, the covenant is deemed to be cancelled with effect from the effective date.
+<!-- marginal: and bank -->
+
+or securities with the Accountant General the sum of
+
+<!-- marginal: covenants -->
+
+<!-- marginal: in lieu of -->
+
+moneys specified in subsection 7(1) of the repealed Act,
+
+<!-- marginal: deposits. -->
+
+the Accountant General may refund that deposit together with any accretions to the licensed insurer.
+
+(2) Where a bank licensed under the Banking and
+
+<!-- marginal: Act 372. -->
+
+Financial Institutions Act 1989 covenants with the Government under subsection 8(1) of the repealed Act to deposit with the Accountant General a specified sum in cash on account of a licensed insurer's deposit under subsection 7(1) of the repealed Act, the covenant is deemed to be cancelled with effect from the effective date.
 
 <!-- page 133 -->
 
@@ -4752,7 +6016,11 @@ the licensed life insurer, as soon as practicable, shall obtain a refund of the 
 
 <!-- page 134 -->
 
-(b) the licensed life insurer has paid the balance of the policy moneys into the Consolidated Trust Act 370. Account under subsection 11(1) of the Unclaimed Moneys Act 1965, the licensed life insurer, notwithstanding anything contained in that Act, upon obtaining a letter of consent from the person referred to in subsection 169(2), shall be entitled to claim, and shall claim, under subsection 13(1) of that Act, for the balance of the policy moneys to be paid to it by the Registrar of Unclaimed Moneys as if it were the owner under that Act.
+(b) the licensed life insurer has paid the balance of the policy moneys into the Consolidated Trust
+
+<!-- marginal: Act 370. -->
+
+Account under subsection 11(1) of the Unclaimed Moneys Act 1965, the licensed life insurer, notwithstanding anything contained in that Act, upon obtaining a letter of consent from the person referred to in subsection 169(2), shall be entitled to claim, and shall claim, under subsection 13(1) of that Act, for the balance of the policy moneys to be paid to it by the Registrar of Unclaimed Moneys as if it were the owner under that Act.
 
 (4) Subsection (1) applies to policy moneys under a life policy of which the deceased was not the policy owner at his death.
 
@@ -4764,11 +6032,23 @@ the licensed life insurer, as soon as practicable, shall obtain a refund of the 
 
 (7) Sections 170 and 171 apply to payment of the balance of policy moneys under this section.
 
-(8) Where a balance of policy moneys is not refunded under this section within seven years from the effective date, the amount shall be paid into the Consolidated Act 370. Trust Account under subsection 11(1) of the Unclaimed Moneys Act 1965.
+(8) Where a balance of policy moneys is not refunded under this section within seven years from the effective date, the amount shall be paid into the Consolidated
 
-Provisions
+<!-- marginal: Act 370. -->
 
-225. The Minister may by rules make such provisions for removing as he considers necessary or expedient for the purpose difficulties. of removing any difficulties occasioned by the coming into force of this Act and such rule may be made so as to have effect as from the effective date.
+Trust Account under subsection 11(1) of the Unclaimed Moneys Act 1965.
+
+<!-- marginal: Provisions -->
+
+225. The Minister may by rules make such provisions
+
+<!-- marginal: for removing -->
+
+as he considers necessary or expedient for the purpose
+
+<!-- marginal: difficulties. -->
+
+of removing any difficulties occasioned by the coming into force of this Act and such rule may be made so as to have effect as from the effective date.
 
 <!-- page 135 -->
 
@@ -5228,9 +6508,7 @@ Clause 185 requires a licensed broker acting as both direct and reinsurance brok
 
 Clause 186 requires an intermediary in insurance transactions, including a group policy, to disclose the name of the licensed insurer, his relationship to licensed insurer and the amount of premiums. Subdauses (3) and (4) further protect the interests of the persons insured.
 
-17.
-
-## Part XVI contains general provisions.
+17. Part XVI contains general provisions.
 
 Clause 187 enables the Bank to require a licensee to comply with any provision of this Bill. However, contravention of this Bill by a licensed insurer shall not invalidate its policy.
 

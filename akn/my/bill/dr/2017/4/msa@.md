@@ -12,7 +12,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
-1. (1) Akta ini bolehlah dinamakan Akta Saraan Hakim (Pindaan) 2017.
+1. (1) Akta ini bolehlah dinamakan Akta Saraan Hakim (Pindaan)
+
+2017.
 
 (2) Akta ini mula berkuat kuasa pada 1 Jun 2017.
 

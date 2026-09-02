@@ -44,17 +44,41 @@ Sosial Pekerja (Pindaan) 1996.
 
 <!-- page 2 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Seksyen 31 Akta ibu adalah dipinda dengan seksyen 31 menggantikan noktah dengan noktah bertindih dan memasukkan selepas itu proviso yang berikut:
+3. Seksyen 31 Akta ibu adalah dipinda dengan
 
-"Dengan syarat bahawa larangan dalam seksyen ini tidaklah terpakai bagi apa-apa tuntutan yang berbangkit daripada kemalangan kenderaan motor jika majikan atau pengkhidmat majikan adalah dikehendaki diinsuranskan terhadap Risiko-Risiko Pihak Ketiga di bawah Bahagian Akta 333. IV Akta Pengangkutan Jalan 1987.".
+<!-- marginal: seksyen 31 -->
 
-Pemotongan
+menggantikan noktah dengan noktah bertindih dan memasukkan selepas itu proviso yang berikut:
 
-4. Seksyen 42 Akta ibu adalah dipotong. seksyen 42.
+"Dengan syarat bahawa larangan dalam seksyen ini tidaklah terpakai bagi apa-apa tuntutan yang berbangkit daripada kemalangan kenderaan motor jika majikan atau pengkhidmat majikan adalah dikehendaki diinsuranskan terhadap Risiko-Risiko Pihak Ketiga di bawah Bahagian
 
-5. Bahagian III Akta ibu adalah dipinda dengan baru 57A. memasukkan selepas seksyen 57 seksyen yang berikut: " Faedah 57A. Faedah pendidikan dalam bentuk pendidikan pinjaman atau biasiswa boleh diadakan bagi anak tanggungan seseorang orang berinsurans yang—
+<!-- marginal: Akta 333. -->
+
+IV Akta Pengangkutan Jalan 1987.".
+
+<!-- marginal: Pemotongan -->
+
+4. Seksyen 42 Akta ibu adalah dipotong.
+
+<!-- marginal: seksyen 42. -->
+
+<!-- marginal: Seksyen -->
+
+5. Bahagian III Akta ibu adalah dipinda dengan
+
+<!-- marginal: baru 57A. -->
+
+memasukkan selepas seksyen 57 seksyen yang berikut: "
+
+<!-- marginal: Faedah -->
+
+57A. Faedah pendidikan dalam bentuk
+
+<!-- marginal: pendidikan -->
+
+pinjaman atau biasiswa boleh diadakan bagi anak tanggungan seseorang orang berinsurans yang—
 
 (a) mati akibat suatu bencana kerja;
 
@@ -110,7 +134,9 @@ memasukkan selepas subseksyen (2) subseksyen yang berikut:
 
 (iv) dengan menggantikan noktah di hujung perenggan (e) dengan koma bernoktah dan memasukkan selepas itu perenggan yang berikut: "(f) tiga orang yang mempunyai pengalaman dalam perkara- perkara keselamatan sosial yang hendaklah dilantik oleh Merited.";
 
-(d) dalam subseksyen (4) dengan menggantikan perkataan "(d) dan (e)" dengan perkataan "(a), (d), (e) dan (f)";
+(d) dalam subseksyen (4) dengan menggantikan perkataan "(d) dan (e)" dengan perkataan "(a),
+
+(d), (e) dan (f)";
 
 (e) dalam proviso kepada subseksyen (5) dengan menggantikan perkataan "(d) dan (e)" dengan perkataan "(a), (d), (e) dan (f)";
 
@@ -132,7 +158,11 @@ memasukkan selepas subseksyen (2) subseksyen yang berikut:
 
 (c) dalam subseksyen (2)—
 
-(i) dengan menggantikan perkataan "Timbalan Pengerusi hendaklah" dengan perkataan "Menteri hendaklah melantik mana-mana orang untuk"; dan
+(i) dengan menggantikan
+
+<!-- marginal: perkataan -->
+
+"Timbalan Pengerusi hendaklah" dengan perkataan "Menteri hendaklah melantik mana-mana orang untuk"; dan
 
 (ii) dengan memotong proviso.
 
@@ -178,31 +208,43 @@ menggantikan perkataan "enam bulan" dan "dua ribu" masing-masingnya dengan perka
 
 <!-- page 6 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-14. Seksyen 94 Akta ibu adalah dipinda dengan beksyen 94 menggantikan perkataan "enam bulan" dan "dua ribu" masing-masingnya dengan perkataan "dua tahun" dan "sepuluh ribu".
+14. Seksyen 94 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: beksyen 94 -->
 
-15. Subseksyen 105(2) Akta ibu adalah dipinda dengan seksyen 105. memotong perkataan "dan" di hujung perenggan (xxxi) dan memasukkan selepas itu perenggan yang berikut:
+menggantikan perkataan "enam bulan" dan "dua ribu" masing-masingnya dengan perkataan "dua tahun" dan "sepuluh ribu".
+
+<!-- marginal: Pindaan -->
+
+15. Subseksyen 105(2) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 105. -->
+
+memotong perkataan "dan" di hujung perenggan (xxxi) dan memasukkan selepas itu perenggan yang berikut:
 
 "(xxxia) pengenaan apa-apa fee atau caj bagi pemberian apa-apa maklumat atau dokumen yang berada dalam jagaan Pertubuhan; dan".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-16. Subseksyen 110(2) Akta ibu adalah dipinda— seksyen 110.
+16. Subseksyen 110(2) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 110. -->
 
 (a) dengan menggantikan perkataan "boleh dihukum, apabila disabitkan, mengikut sebagaimana diperuntukkan dalam Bab X Kanun Keseksaan" dengan perkataan "boleh dihukum penjara selama tempoh yang boleh sampai dua tahun, atau denda tidak melebihi sepuluh ribu ringgit, atau kedua- duanya"; dan
 
 (b) dengan memotong rujukan birai kepada Kanun Keseksaan.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
 17. Jadual Keenam Akta ibu adalah dipinda dalam
 
 ## Jadual
 
-perenggan 1— Keenam.
+perenggan 1—
+
+<!-- marginal: Keenam. -->
 
 (a) dalam subperenggan (2) dengan menggantikan perkataan "Timbalan Pengerusi" dengan perkataan "mana-mana orang yang dilantik oleh Menteri untuk bertindak sebagai Pengerusi"; dan
 

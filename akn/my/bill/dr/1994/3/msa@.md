@@ -16,7 +16,9 @@ I
 
 ## PERMULAAN
 
-1. Tajuk ringkas, pemakaian dan mula berkuatkuasa. 2. Tafsiran.
+1. Tajuk ringkas, pemakaian dan mula berkuatkuasa.
+
+2. Tafsiran.
 
 ## BAHAGIAN
 
@@ -26,7 +28,11 @@ II
 
 ## PADI DAN BERAS
 
-3. Perlantikan Ketua Pengarah. 4. Kewajipan dan fungsi Ketua Pengarah. 5. Kuasa Menteri untuk memberi arahan-arahan.
+3. Perlantikan Ketua Pengarah.
+
+4. Kewajipan dan fungsi Ketua Pengarah.
+
+5. Kuasa Menteri untuk memberi arahan-arahan.
 
 ## BAHAGIAN
 
@@ -38,7 +44,13 @@ III
 
 ## PENYITAAN, PENANGKAPAN, DSB.
 
-6. Pemberikuasaan kepada pegawai untuk menjalankan kuasa di bawah Bahagian ini. 7. Kuasa untuk mendapatkan maklumat. 8. Kuasa untuk memasuki premis. 9. Kuasa menyiasat.
+6. Pemberikuasaan kepada pegawai untuk menjalankan kuasa di bawah Bahagian ini.
+
+7. Kuasa untuk mendapatkan maklumat.
+
+8. Kuasa untuk memasuki premis.
+
+9. Kuasa menyiasat.
 
 <!-- page 2 -->
 
@@ -46,13 +58,9 @@ III
 
 10. Kuasa untuk menghendaki kehadiran orang yang mengetahui kes itu.
 
-11. Pemeriksaan orang yang mengetahui kes itu.
+11. Pemeriksaan orang yang mengetahui kes itu. 12. Pendakwaan.
 
-12. Pendakwaan.
-
-13. Penyitaan padi atau beras atau apa-apa benda berkaitan dengan sesuatu kesalahan.
-
-14. Kuasa untuk menahan dan menggeledah kenderaan.
+13. Penyitaan padi atau beras atau apa-apa benda berkaitan dengan sesuatu kesalahan. 14. Kuasa untuk menahan dan menggeledah kenderaan.
 
 15. Benda-benda yang disita yang berkenaan dengannya tiada pendakwaan.
 
@@ -328,11 +336,7 @@ berkenaan dengan padi atau beras menunjukkan semua atau mana-mana butir berikut:
 
 <!-- marginal: enggan -->
 
-mengemukakan buku atau dokumen
-
-<!-- marginal: itu, adalah -->
-
-melakukan suatu kesalahan di bawah Akta ini.
+mengemukakan buku atau dokumen itu, adalah melakukan suatu kesalahan di bawah Akta ini.
 
 8. (1) Mana-mana pegawai diberikuasa atau pegawai polis—
 
@@ -342,11 +346,7 @@ melakukan suatu kesalahan di bawah Akta ini.
 
 (aa) masuk pada bila-bila masa yang munasabah mana-mana tanah, rumah, bangunan atau tempat-tempat lain yang dimiliki atau diduduki oleh mana-mana orang; dan
 
-(bb) menjalankan apa-apa penyiasatan dan pemeriksaan (termasuk penyiasatan dan pemeriksaan
-
-<!-- marginal: buku-buku) -->
-
-sebagaimana yang difikirkannya perlu.
+(bb) menjalankan apa-apa penyiasatan dan pemeriksaan (termasuk penyiasatan dan pemeriksaan buku-buku) sebagaimana yang difikirkannya perlu.
 
 (2) Jika, hasil daripada apa-apa penyiasatan dan pemeriksaan yang dibuat di bawah subseksyen (1), terdapat perselisihan antara kuantiti atau kualiti padi atau beras yang dijumpai itu dengan mana-mana rekod atau penyata yang dikehendaki disimpan atau dibuat atau apa-apa maklumat yang diberi mengenai padi atau beras itu, maka orang yang dikehendaki menyimpan rekod atau membuat penyata atau memberi maklumat itu adalah melakukan suatu kesalahan di bawah Akta ini.
 
@@ -356,7 +356,11 @@ sebagaimana yang difikirkannya perlu.
 
 9. (1) Seseorang pegawai diberikuasa hendaklah mempunyai kuasa untuk menyiasat perlakuan sesuatu kesalahan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawahnya.
 
-(2) Seseorang pegawai diberikuasa boleh, berhubungan dengan penyiasatan berkenaan dengan sesuatu kesalahan yang dilakukan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawahnya, menjalankan kuasa-kuasa khas berhubungan dengan penyiasatan polis kecuali kuasa untuk menangkap tanpa waran yang diberikan oleh Kanun Prosedur Jenayah bagi kesalahan boleh tangkap tidak boleh dijalankan olehnya.
+(2) Seseorang pegawai diberikuasa
+
+<!-- marginal: boleh, -->
+
+berhubungan dengan penyiasatan berkenaan dengan sesuatu kesalahan yang dilakukan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawahnya, menjalankan kuasa-kuasa khas berhubungan dengan penyiasatan polis kecuali kuasa untuk menangkap tanpa waran yang diberikan oleh Kanun Prosedur Jenayah bagi kesalahan boleh tangkap tidak boleh dijalankan olehnya.
 
 (3) Apabila selesai penyiasatannya, pegawai diberikuasa hendaklah dengan serta-merta memberikan semua maklumat berhubungan dengan perlakuan kesalahan itu kepada pegawai yang bertanggungjawab bagi suatu balai polis dan seseorang pegawai polis boleh, dengan waran, menangkap mana-mana orang yang mungkin telah melakukan suatu kesalahan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawahnya.
 
@@ -434,7 +438,11 @@ memeriksanya.
 
 15. (1) Tertakluk kepada seksyen 16, jika tiada pendakwaan berkenaan dengan mana-mana padi atau beras yang disita di bawah Akta ini atau mana-mana peraturan yang dibuat di bawahnya, padi atau beras itu bersama dengan apa-apa bekas, bungkusan, kenderaan, vesel atau artikel lain, yang di dalamnya padi atau beras itu dijumpai, atau apa-apa buku atau dokumen yang berkaitan dengannya hendaklah diambil dan disifatkan telah terlucuthak apabila habis tempoh tiga puluh hari dari tarikh penyiaran suatu notis mengikut peruntukan subseksyen (2) oleh Ketua Pengarah atau seseorang pegawai diberikuasa melainkan jika suatu tuntutan telah dibuat baginya sebelum habis tempoh tiga puluh hari itu mengikut cara yang dinyatakan kemudian daripada ini.
 
-(2) Notis yang disebut dalam subseksyen (1) hendaklah mengandungi perihalan padi, beras, bekas, bungkusan, kenderaan, vesel, buku atau dokumen atau artikel lain yang disita dan hendaklah menghendaki seseorang yang mempunyai apa-apa tuntutan terhadapnya untuk memberi notis bertulis mengenai tuntutannya, dengan sendiri atau melalui ejennya yang diberikuasa secara bertulis sebelum habis tempoh tiga puluh hari dari tarikh penyiaran notis itu.
+(2) Notis yang disebut dalam subseksyen (1) hendaklah mengandungi perihalan padi, beras, bekas, bungkusan, kenderaan, vesel, buku atau dokumen atau artikel lain yang disita dan hendaklah menghendaki seseorang yang mempunyai apa-apa
+
+<!-- marginal: tuntutan -->
+
+terhadapnya untuk memberi notis bertulis mengenai tuntutannya, dengan sendiri atau melalui ejennya yang diberikuasa secara bertulis sebelum habis tempoh tiga puluh hari dari tarikh penyiaran notis itu.
 
 <!-- page 17 -->
 
@@ -460,9 +468,7 @@ memeriksanya.
 
 (6) Jika Ketua Pengarah tidak berpuas hati bahawa pihak menuntut adalah pemunya yang sah padi, beras, bekas, bungkusan, kenderaan, vesel, buku atau dokumen atau artikel lain yang disita di bawah Akta ini atau mana-mana peraturan yang dibuat di bawahnya, dia hendaklah mengarahkan pegawai diberikuasa itu merujukkan tuntutan itu kepada seorang Majistret Kelas Pertama.
 
-(7) Apabila sesuatu tuntutan dirujukkan kepada seseorang Majistret Kelas Pertama di bawah subseksyen
-
-(6), Majistret itu hendaklah mengeluarkan saman menghendaki pihak menuntut dan orang yang daripadanya padi, beras, bekas, bungkusan, kenderaan, vesel, buku atau dokumen atau artikel lain itu disita, jika dia bukan pihak menuntut, hadir di hadapannya, dan apabila mereka hadir atau ingkar hadir, setelah dibuktikan bahawa saman telah disampaikan dengan sewajarnya, Majistret hendaklah meneruskan pemeriksaan perkara itu dan apabila terbukti bahawa sesuatu kesalahan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawahnya telah dilakukan dan bahawa padi atau beras itu adalah hal perkara kesalahan, atau bahawa bekas, bungkusan, kenderaan, vesel, buku atau dokumen atau artikel lain itu telah digunakan untuk melakukan kesalahan itu, boleh rnemerintahkan supaya benda-benda itu dilucuthakkan atau hendaklah jika tiada bukti sedemikian, mengarahkan supaya ia dilepaskan kepada orang yang pada pendapat Majistret itu adalah pemunya yang sah benda itu.
+(7) Apabila sesuatu tuntutan dirujukkan kepada seseorang Majistret Kelas Pertama di bawah subseksyen (6), Majistret itu hendaklah mengeluarkan saman menghendaki pihak menuntut dan orang yang daripadanya padi, beras, bekas, bungkusan, kenderaan, vesel, buku atau dokumen atau artikel lain itu disita, jika dia bukan pihak menuntut, hadir di hadapannya, dan apabila mereka hadir atau ingkar hadir, setelah dibuktikan bahawa saman telah disampaikan dengan sewajarnya, Majistret hendaklah meneruskan pemeriksaan perkara itu dan apabila terbukti bahawa sesuatu kesalahan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawahnya telah dilakukan dan bahawa padi atau beras itu adalah hal perkara kesalahan, atau bahawa bekas, bungkusan, kenderaan, vesel, buku atau dokumen atau artikel lain itu telah digunakan untuk melakukan kesalahan itu, boleh rnemerintahkan supaya benda-benda itu dilucuthakkan atau hendaklah jika tiada bukti sedemikian, mengarahkan supaya ia dilepaskan kepada orang yang pada pendapat Majistret itu adalah pemunya yang sah benda itu.
 
 (8) Dalam apa-apa prosiding di bawah subseksyen
 
@@ -494,11 +500,7 @@ melupuskannya, tertakluk kepada terma-terma dan syarat-syarat yang boleh dikenak
 
 (iii) cukai yang kena dibayar berkenaan dengannya di bawah mana-mana undang- undang bertulis, jika ada, bagi bayaran amaun yang dijamin sedemikian kepada Ketua Pengarah sekiranya Mahkamah membuat perintah melucuthakkan amaun itu di bawah Akta ini; atau
 
-(c) menjual atau memusnahkan, sebagaimana yang sesuai dalam hal keadaan itu, padi, beras, bekas, bungkusan atau artikel lain, yang pada pendapat pegawai diberikuasa atau pegawai polis itu, adalah jenis yang mudah musnah atau mungkin cepat merosot mutu atau nilainya, dan jika ianya dijual sedemikian, pegawai diberikuasa atau pegawai polis itu hendaklah memegang hasil jualan
-
-<!-- marginal: itu -->
-
-sementara menunggu keputusan apa-apa pendakwaan atau tuntutan.
+(c) menjual atau memusnahkan, sebagaimana yang sesuai dalam hal keadaan itu, padi, beras, bekas, bungkusan atau artikel lain, yang pada pendapat pegawai diberikuasa atau pegawai polis itu, adalah jenis yang mudah musnah atau mungkin cepat merosot mutu atau nilainya, dan jika ianya dijual sedemikian, pegawai diberikuasa atau pegawai polis itu hendaklah memegang hasil jualan itu sementara menunggu keputusan apa-apa pendakwaan atau tuntutan.
 
 (2) Mana-mana orang yang—
 
@@ -642,13 +644,29 @@ AM
 
 (c) membuat peruntukan berhubungan dengan pelesenan pemborong, peruncit, pengilang padi, pengimport dan pengeksport dan menetapkan fee untuk dibayar bagi lesen yang dikehendaki di bawah Akta ini;
 
-(d) menetapkan apa-apa fee atau caj lain sebagaimana yang perlu bagi maksud Akta ini;
+(d) menetapkan apa-apa fee atau caj
 
-(e) menetapkan apa-apa perbuatan atau peninggalan yang berlanggaran dengan peruntukan mana-mana peraturan sebagai suatu kesalahan; dan
+<!-- marginal: lain -->
 
-(f) menetapkan apa-apa hal lain secara amnya untuk memberikan kuatkuasa kepada peruntukan-peruntukan Akta ini.
+sebagaimana yang perlu bagi maksud Akta ini;
 
-30. (1) Kecuali bagi maksud Akta ini atau bagi maksud apa-apa prosiding jenayah di bawah Akta ini, tiada pegawai diberikuasa boleh mendedahkan apa-apa maklumat berkenaan dengan apa-apa urusan persendirian yang telah diperolehinya semasa menjalankan tugasnya dan yang tidak disiarkan menurut Akta ini.
+(e) menetapkan apa-apa perbuatan
+
+<!-- marginal: atau -->
+
+peninggalan yang berlanggaran dengan peruntukan mana-mana peraturan sebagai suatu kesalahan; dan
+
+(f) menetapkan apa-apa hal lain secara amnya untuk memberikan kuatkuasa
+
+<!-- marginal: kepada -->
+
+peruntukan-peruntukan Akta ini.
+
+30. (1) Kecuali bagi maksud Akta ini atau bagi maksud apa-apa prosiding jenayah di bawah Akta ini, tiada pegawai diberikuasa boleh mendedahkan apa-apa maklumat berkenaan dengan apa-apa urusan persendirian yang telah diperolehinya
+
+<!-- marginal: semasa -->
+
+menjalankan tugasnya dan yang tidak disiarkan menurut Akta ini.
 
 (2) Seseorang yang dengan disedarinya melanggar peruntukan subseksyen (1) adalah melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.
 

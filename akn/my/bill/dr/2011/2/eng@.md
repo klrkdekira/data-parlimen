@@ -130,7 +130,9 @@ subject to subsection 91(4) of the principal Act, the Director General may in th
 
 ### Amendment of section 21BA
 
-9. Subsection 21BA(2) of the principal Act is amended by substituting for the words “(3), (4) and (5)” the words “(3) and (4)”.
+9. Subsection 21BA(2) of the principal Act is amended by substituting for the words “(3), (4) and (5)” the words “(3) and
+
+(4)”.
 
 ### Amendment of section 21C
 
@@ -194,11 +196,15 @@ subject to subsection 91(4) of the principal Act, the Director General may in th
 
 ### Amendment of section 21H
 
-16. Subsection 21H(2) of the principal Act is amended by substituting for the words “(3), (4) and (5)” the words “(3) and (4)”.
+16. Subsection 21H(2) of the principal Act is amended by substituting for the words “(3), (4) and (5)” the words “(3) and
+
+(4)”.
 
 ### Amendment of section 21I
 
-17. Subsection 21I(2) of the principal Act is amended by substituting for the words “(3), (4) and (5)” the words “(3) and (4)”.
+17. Subsection 21I(2) of the principal Act is amended by substituting for the words “(3), (4) and (5)” the words “(3) and
+
+(4)”.
 
 ### Amendment of section 21J
 
@@ -454,7 +460,9 @@ Provided that—
 
 (b) no approval shall be granted retrospectively under subsection (1A) or under the foregoing proviso from a date which is earlier than three years from the date the application under subsection 26F(2A) is received by the Minister.”;
 
-(d) in subsection (2), by substituting for the words “subsection (1)” the words “subsections (1) and (1A)”; and
+(d) in subsection (2), by substituting for the words “subsection (1)” the words “subsections (1) and (1A)”;
+
+<!-- marginal: and -->
 
 (e) in subsection (3), by substituting for the words “subsections (1) and (2)” the words “this section”.
 
@@ -696,7 +704,9 @@ under the Income Tax Act 1967 [Act 53]. The Self-Assessment System requires a pi
 
 16. Clause 34 seeks to amend the proviso to subsection 27C(1) of Act 327. The proposed amendment empowers the Minister to approve the application for investment tax allowance to any contract research and development company under subsection 26C(1) retrospectively up to three years from the date the application is received by the Minister.
 
-17. Clause 35 seeks to amend the proviso to subsection 27E(1) of Act 327. The proposed amendment empowers the Minister to grant approval of application for investment tax allowance to a company carrying on in-house research under subsection 26E(1) retrospectively up to three years from the date the application is received by the Minister.
+17. Clause 35 seeks to amend the proviso to subsection 27E(1) of Act
+
+327. The proposed amendment empowers the Minister to grant approval of application for investment tax allowance to a company carrying on in-house research under subsection 26E(1) retrospectively up to three years from the date the application is received by the Minister.
 
 18. Clause 36 seeks to amend section 27F of Act 327. The amendment seeks to provide for the grant of approval of an application for investment tax allowance to a high technology company or company participating in industrial linkage programme under subsection 26F(1) or a company establishing a medical devices testing laboratory or upgrading an existing medical devices testing laboratory in Malaysia under subsection 26F(2A). This clause also empowers the Minister to grant the approval for investment tax allowance retrospectively up to three years from the date application is received by the Minister.
 

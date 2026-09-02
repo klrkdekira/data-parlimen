@@ -32,7 +32,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 4. Akta ibu dipinda dengan memasukkan selepas seksyen 2 bahagian yang berikut:
 
-“Bahagian ia
+## “BAHAGIAN IA
 
 ## KEKOMPETENAN SAKSI KANAK-KANAK,
 
@@ -90,7 +90,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 7 -->
 
-Bahagian ib
+## BAHAGIAN IB
 
 ## PENGURUSAN KES
 
@@ -164,9 +164,7 @@ Memandangkan takrif “saksi kanak-kanak” di bawah Akta 676 tidaklah termasuk 
 
 4. Fasal 3 bertujuan untuk meminda seksyen 2 Akta 676 dalam takrif “saksi kanak-kanak” untuk membetulkan takrif itu dengan memotong rujukan mengenai tertuduh.
 
-5. Fasal 4 bertujuan untuk memasukkan Bahagian baharu Ia dan Ib ke dalam Akta 676. Bahagian Ia mengandungi seksyen 2a, 2b, 2c dan 2d manakala
-
-## Bahagian 1b mengandungi seksyen 2e.
+5. Fasal 4 bertujuan untuk memasukkan Bahagian baharu Ia dan Ib ke dalam Akta 676. Bahagian Ia mengandungi seksyen 2a, 2b, 2c dan 2d manakala Bahagian 1b mengandungi seksyen 2e.
 
 Seksyen baharu 2a bertujuan untuk mengadakan peruntukan bagi kekompetenan saksi kanak-kanak untuk memberikan keterangan dalam mana-mana prosiding. Seksyen ini memperuntukkan bahawa semua saksi kanak-kanak hendaklah dianggap kompeten untuk memberikan keterangan melainkan jika berdasarkan inkuiri yang dijalankan di bawah seskyen 2c Mahkamah mendapati saksi kanak-kanak itu tidak boleh memahami soalan yang dikemukakan kepadanya atau tidak boleh memberikan jawapan yang rasional kepada soalan itu.
 

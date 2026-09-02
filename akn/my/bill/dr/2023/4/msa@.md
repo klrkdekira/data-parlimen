@@ -6,7 +6,7 @@
 
 ## SUSUNAN FASAL
 
-## BaB I
+## BAB I
 
 ## PERMULAAN
 
@@ -14,7 +14,7 @@
 
 2. Pindaan Akta
 
-## BaB II
+## BAB II
 
 ## PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967
 
@@ -58,7 +58,7 @@
 
 19. Pindaan Jadual 2
 
-## BaB IV
+## BAB IV
 
 ## PINDAAN KEPADA AKTA SETEM 1949
 
@@ -66,7 +66,7 @@
 
 21. Pindaan Jadual Pertama
 
-## BaB V
+## BAB V
 
 ## PINDAAN KEPADA AKTA PETROLEUM (CUKAI PENDAPATAN) 1967
 
@@ -90,7 +90,7 @@ Suatu Akta untuk meminda Akta Cukai Pendapatan 1967, Akta Cukai Keuntungan Harta
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## BaB I
+## BAB I
 
 ## PERMULAAN
 
@@ -104,7 +104,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 8 -->
 
-## BaB II
+## BAB II
 
 ## PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967
 
@@ -144,49 +144,11 @@ who at any time in that basis year is of the age of eighteen years and below, in
 
 Provided that—
 
-(a) the claim is evidenced by
+(a) the claim is evidenced by a receipt and certification issued by the medical practitioner that the assessment for the purpose of diagnosis was provided to the child and that the child is diagnosed with learning disability;
 
-<!-- marginal: a receipt and certification -->
+(b) the claim is evidenced by a receipt and certification issued by the allied health practitioner that the early intervention programme or rehabilitation treatment was provided to the child;
 
-<!-- marginal: issued by the medical -->
-
-<!-- marginal: practitioner -->
-
-<!-- marginal: that -->
-
-<!-- marginal: the -->
-
-<!-- marginal: assessment for the purpose -->
-
-<!-- marginal: of diagnosis was provided to -->
-
-<!-- marginal: the child and that the child -->
-
-<!-- marginal: is diagnosed with learning -->
-
-<!-- marginal: disability; -->
-
-(b) the claim is evidenced by
-
-<!-- marginal: a receipt and certification -->
-
-<!-- marginal: issued by the allied health -->
-
-<!-- marginal: practitioner that the early -->
-
-<!-- marginal: intervention programme or -->
-
-<!-- marginal: rehabilitation treatment was -->
-
-<!-- marginal: provided to the child; -->
-
-(c) the assessment for the
-
-<!-- marginal: purpose of diagnosis, early -->
-
-<!-- marginal: intervention programme -->
-
-<!-- marginal: or rehabilitation treatment -->
+(c) the assessment for the purpose of diagnosis, early intervention programme or rehabilitation treatment
 
 <!-- page 10 -->
 
@@ -214,7 +176,9 @@ which qualify for deduction are for the following learning disabilities:
 
 (v) dalam perenggan (c) proviso kepada perenggan (r), dengan menggantikan perkataan “until 2023” dengan perkataan “until 2024”; dan
 
-(b) dalam subseksyen (3), dengan menggantikan perkataan “(k)” dengan perkataan “(ha)”.
+(b) dalam subseksyen (3), dengan menggantikan perkataan “(k)”
+
+<!-- marginal: dengan perkataan “(ha)”. -->
 
 <!-- page 11 -->
 
@@ -336,75 +300,29 @@ For every ringgit of the next 15,000
 
 <!-- page 15 -->
 
-For every ringgit of the next
+For every ringgit of the next 15,000 6 per cent
 
-<!-- marginal: 15,000 -->
+For every ringgit of the next 20,000 11 per cent
 
-<!-- marginal: 6 per cent -->
+For every ringgit of the next 30,000 19 per cent
 
-For every ringgit of the next
+For every ringgit of the next 300,000 25 per cent
 
-<!-- marginal: 20,000 -->
+For every ringgit of the next 200,000 26 per cent
 
-<!-- marginal: 11 per cent -->
+For every ringgit of the next 1,400,000 28 per cent
 
-For every ringgit of the next
-
-<!-- marginal: 30,000 -->
-
-<!-- marginal: 19 per cent -->
-
-For every ringgit of the next
-
-<!-- marginal: 300,000 -->
-
-<!-- marginal: 25 per cent -->
-
-For every ringgit of the next
-
-<!-- marginal: 200,000 -->
-
-<!-- marginal: 26 per cent -->
-
-For every ringgit of the next
-
-<!-- marginal: 1,400,000 -->
-
-<!-- marginal: 28 per cent -->
-
-For every ringgit exceeding
-
-<!-- marginal: 2,000,000 -->
-
-<!-- marginal: 30 per cent”; -->
+For every ringgit exceeding 2,000,000 30 per cent”;
 
 (b) dalam perenggan 2a, dengan menggantikan pendapatan yang boleh dikenakan cukai dan kadar cukai pendapatan dengan pendapatan yang boleh dikenakan cukai dan kadar cukai pendapatan yang berikut:
 
-<!-- marginal: RM -->
+RM Rate of “Chargeable income income tax
 
-<!-- marginal: Rate of -->
+For every ringgit of the first 150,000 15 per cent
 
-“Chargeable income
+For every ringgit of the next 450,000 17 per cent
 
-<!-- marginal: income tax -->
-
-For every ringgit of the first
-
-<!-- marginal: 150,000 -->
-
-<!-- marginal: 15 per cent -->
-
-For every ringgit of the next
-
-<!-- marginal: 450,000 -->
-
-<!-- marginal: 17 per cent -->
-
-For every ringgit exceeding
-
-<!-- marginal: 600,000 -->
-
-<!-- marginal: 24 per cent”; -->
+For every ringgit exceeding 600,000 24 per cent”;
 
 (c) dalam perenggan 2B—
 
@@ -420,7 +338,7 @@ For every ringgit exceeding
 
 (d) dalam perenggan 2d, dengan menggantikan pendapatan yang boleh dikenakan cukai dan kadar cukai pendapatan dengan pendapatan yang boleh dikenakan cukai dan kadar cukai pendapatan yang berikut:
 
-<!-- marginal: RM -->
+RM
 
 <!-- marginal: Rate of -->
 
@@ -506,7 +424,7 @@ subsubsubperenggan (i) subsubsubperenggan yang berikut:
 
 (b) dalam subperenggan 19(5), dengan menggantikan perkataan “oleh suami/isteri” dengan perkataan “oleh suami atau isteri atau bekas suami atau bekas isteri”.
 
-## BaB IV
+## BAB IV
 
 ## PINDAAN KEPADA AKTA SETEM 1949
 
@@ -528,7 +446,7 @@ subsubsubperenggan (i) subsubsubperenggan yang berikut:
 
 (c) dalam subbutiran 32(c), dengan memasukkan sebelum perkataan “, pursuant to a factoring agreement” perkataan “or any statutory body, agency of the Government or of the State Government, or any company in which the Government or the State Government has interest, which provides financing to a small and medium enterprise”.
 
-## BaB V
+## BAB V
 
 ## PINDAAN KEPADA AKTA PETROLEUM (CUKAI PENDAPATAN) 1967
 

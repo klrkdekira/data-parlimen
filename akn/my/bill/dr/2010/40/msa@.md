@@ -8,19 +8,37 @@
 
 ## SUSUNAN FASAL
 
-1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran 3. Perbadanan hendaklah menjadi organisasi antarabangsa 4. Keperibadian juridikal, meterai perbadanan dan kuasa Perbadanan 5. Pemberikuasaan untuk menjadi anggota Perbadanan dan menandatangani Perkara Perjanjian 6. Kuasa Menteri untuk memberikan taraf organisasi antarabangsa dan keperibadian juridikal kepada suatu subsidiari 7. Kuasa Menteri untuk memberikan keistimewaan dan kekebalan 8. Tiada kekebalan dalam hal keadaan tertentu 9. Kebenaran memegang tanah di Persekutuan 10. Penepian
+1. Tajuk ringkas dan permulaan kuat kuasa
 
-## Jadual 1
+2. Tafsiran
 
-## Jadual 2
+3. Perbadanan hendaklah menjadi organisasi antarabangsa
 
-## Jadual 3
+4. Keperibadian juridikal, meterai perbadanan dan kuasa Perbadanan
 
-## Jadual 4
+5. Pemberikuasaan untuk menjadi anggota Perbadanan dan menandatangani Perkara Perjanjian
 
-## Jadual 5
+6. Kuasa Menteri untuk memberikan taraf organisasi antarabangsa dan keperibadian juridikal kepada suatu subsidiari
 
-## Jadual 6
+7. Kuasa Menteri untuk memberikan keistimewaan dan kekebalan
+
+8. Tiada kekebalan dalam hal keadaan tertentu
+
+9. Kebenaran memegang tanah di Persekutuan
+
+10. Penepian
+
+## JADUAL 1
+
+## JADUAL 2
+
+## JADUAL 3
+
+## JADUAL 4
+
+## JADUAL 5
+
+## JADUAL 6
 
 <!-- page 3 -->
 
@@ -214,7 +232,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (2) Walau apa pun subseksyen (1), Perbadanan hendaklah mempunyai tanggungjawab untuk mengetepikan mana-mana keistimewaan dan kekebalan yang diberikan di bawah Akta ini dalam hal jika keistimewaan dan kekebalan yang diberikan boleh menghalang pentadbiran keadilan.
 
-## Jadual 1
+## JADUAL 1
 
 [Perenggan 7(1)(a)]
 
@@ -248,11 +266,11 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 8. Ketiadaan penapisan bagi komunikasi rasmi.
 
-## Jadual 2
+## JADUAL 2
 
 [Seksyen 7(1)(b)]
 
-## Bahagian I
+## BAHAGIAN I
 
 ## KEISTIMEWAAN DAN KEKEBALAN KETUA PEGAWAI EKSEKUTIF PERBADANAN
 
@@ -270,7 +288,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 7. Hak untuk mengimport perabot dan barang-barang peribadi, termasuk satu kenderaan motor, tanpa dikenakan duti dan cukai semasa mula-mula menjawat sesuatu jawatan di Malaysia dan untuk mengeksport perabot dan barang-barang peribadi tanpa dikenakan duti dan cukai semasa meninggalkan Malaysia apabila tamat fungsinya.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## KEKEBALAN BEKAS KETUA PEGAWAI EKSEKUTIF PERBADANAN
 
@@ -278,11 +296,11 @@ Kekebalan daripada guaman dan daripada proses undang-undang yang lain berkenaan 
 
 <!-- page 13 -->
 
-## Jadual 3
+## JADUAL 3
 
 [Perenggan 7(1)(c)]
 
-## Bahagian I
+## BAHAGIAN I
 
 ## KEISTIMEWAAN DAN KEKEBALAN WAKIL KEPADA ANGGOTA LEMBAGA
 
@@ -302,7 +320,7 @@ Kekebalan daripada guaman dan daripada proses undang-undang yang lain berkenaan 
 
 5. Tertakluk kepada mana-mana undang-undang bertulis berhubungan dengan kawalan pertukaran mata wang, pengecualian daripada sekatan mata wang dan pertukaran.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## KEKEBALAN BEKAS WAKIL KEPADA ANGGOTA LEMBAGA PENGELOLA DAN
 
@@ -314,11 +332,11 @@ Kekebalan daripada guaman dan daripada proses undang-undang yang lain berkenaan 
 
 Kekebalan daripada guaman dan daripada proses undang-undang yang lain berkenaan dengan perbuatan dan perkara yang dilakukan atas sifat rasminya sebagai anggota atau wakil, mengikut mana-mana yang berkenaan.
 
-## Jadual 4
+## JADUAL 4
 
 [Perenggan 7(1)(d)]
 
-## Bahagian I
+## BAHAGIAN I
 
 ## KEISTIMEWAAN DAN KEKEBALAN ORANG YANG BERKHIDMAT DALAM
 
@@ -338,7 +356,7 @@ Kekebalan daripada guaman dan daripada proses undang-undang yang lain berkenaan 
 
 6. Pengecualian daripada cukai pendapatan atas gaji, emolumen, fi dan bonus rasmi yang diterima kerana berkhidmat dalam jawatankuasa.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## KEKEBALAN ORANG YANG TIDAK LAGI BERKHIDMAT DALAM
 
@@ -346,11 +364,11 @@ Kekebalan daripada guaman dan daripada proses undang-undang yang lain berkenaan 
 
 Kekebalan daripada guaman dan daripada proses undang-undang yang lain berkenaan dengan perbuatan dan perkara yang dilakukan atas sifat rasminya sebagai orang yang berkhidmat dalam jawatankuasa.
 
-## Jadual 5
+## JADUAL 5
 
 [Perenggan 7(1)(e)]
 
-## Bahagian I
+## BAHAGIAN I
 
 ## KEISTIMEWAAN DAN KEKEBALAN PEGAWAI PERBADANAN
 
@@ -370,17 +388,17 @@ Kekebalan daripada guaman dan daripada proses undang-undang yang lain berkenaan 
 
 <!-- page 15 -->
 
-## Bahagian II
+## BAHAGIAN II
 
 ## KEKEBALAN BEKAS PEGAWAI PERBADANAN
 
 Kekebalan daripada guaman dan daripada proses undang-undang yang lain berkenaan dengan perbuatan dan perkara yang dilakukan atas sifat rasminya sebagai pegawai.
 
-## Jadual 6
+## JADUAL 6
 
 [Perenggan 7(1)(f) dan (g)]
 
-## Bahagian I
+## BAHAGIAN I
 
 ## KEISTIMEWAAN SUATU SUBSIDIARI, SUATU SYARIKAT TUJUAN KHAS, SUATU
 
@@ -396,7 +414,7 @@ Kekebalan daripada guaman dan daripada proses undang-undang yang lain berkenaan 
 
 2. Pengecualian daripada semua cukai— (i) untuk apa-apa modal, keuntungan, rizab atau pendapatan, sama ada diagihkan atau tidak, yang diisytiharkan oleh suatu subsidiari, suatu syarikat tujuan khas atau suatu amanah atau dana Perbadanan; (ii) untuk apa-apa kupon atau diskaun, mengikut mana-mana yang berkenaan, dalam bentuk kadar keuntungan, pendapatan, bayaran sewa atau apa jua nama yang dipanggil, yang diagihkan, dibayar atau dikreditkan kepada mana-mana orang berkenaan dengan mana-mana sekuriti Islam yang diterbitkan oleh suatu subsidiari, suatu syarikat tujuan khas atau suatu amanah atau dana Perbadanan; dan (iii) untuk apa-apa urus niaga berhubungan dengan penjualan, pembelian, pindah milik atau penyusunan atau pemerolehan lain harta alih atau tak alih yang dikehendaki menurut skim pembiayaan yang diluluskan oleh Lembaga Shariah Perbadanan mengikut prinsip Shariah bagi tujuan penerbitan sekuriti Islam oleh suatu subsidiari, suatu syarikat tujuan khas atau suatu amanah atau dana Perbadanan.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## KEISTIMEWAAN PEGAWAI SUATU SUBSIDIARI, SUATU SYARIKAT TUJUAN KHAS,
 

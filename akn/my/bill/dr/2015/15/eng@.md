@@ -112,7 +112,11 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (vi) in paragraph (j), by deleting the word “and” at the end of the paragraph; and
 
-(vii) by inserting after paragraph (j) the following paragraph: “
+(vii) by inserting after paragraph (j) the following
+
+<!-- marginal: paragraph: -->
+
+“
 
 (ja) with the approval of the Minister—
 

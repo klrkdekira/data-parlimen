@@ -44,7 +44,9 @@ Rang Undang-Undang ini bertujuan untuk meminda seksyen 7 Akta Saraan Hakim 1971 
 
 <!-- page 2 -->
 
-2 Rang Undang-Undang
+<!-- marginal: 2 -->
+
+Rang Undang-Undang
 
 ## IMPLIKASI KEWANGAN
 

@@ -46,6 +46,4 @@ This Bill seeks to amend the Inland Revenue Board of Malaysia Act 1995 by introd
 
 ## IMPLICATIONS
 
-This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be determined.
-
-<!-- marginal: [PN. (U2) 2044.] -->
+This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be determined. [PN. (U2) 2044.]

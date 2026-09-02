@@ -32,7 +32,15 @@ III
 
 ## PENGERUSI, PEGAWAI, PENGKHIDMAT
 
-10. Pengerusi. 11. Ketua Pegawai Eksekutif. 12. Perlantikan pegawai-pegawai dan pengkhidmat-pengkhidmat Lembaga. 13. Peraturan-peraturan berkenaan dengan syarat-syarat perkhidmatan. 14. Peraturan-peraturan berkenaan dengan tatatertib.
+10. Pengerusi.
+
+11. Ketua Pegawai Eksekutif.
+
+12. Perlantikan pegawai-pegawai dan pengkhidmat-pengkhidmat Lembaga.
+
+13. Peraturan-peraturan berkenaan dengan syarat-syarat perkhidmatan.
+
+14. Peraturan-peraturan berkenaan dengan tatatertib.
 
 <!-- page 2 -->
 
@@ -44,13 +52,7 @@ IV
 
 ## KEWANGAN
 
-15. Kumpulan Wang.
-
-16. Pemeliharaan Kumpulan Wang.
-
-17. Perbelanjaan yang hendaklah dipertanggungkan pada Kumpulan Wang.
-
-18. Perbelanjaan dan penyediaan anggaran.
+15. Kumpulan Wang. 16. Pemeliharaan Kumpulan Wang. 17. Perbelanjaan yang hendaklah dipertanggungkan pada Kumpulan Wang. 18. Perbelanjaan dan penyediaan anggaran.
 
 19. Akta Badan Berkanun (Akaun dan Laporan Tahunan) 1980 adalah terpakai.
 
@@ -304,17 +306,9 @@ II
 
 ## PEMBINAAN MALAYSIA
 
-perlu bagi, atau bersampingan dengan, pelaksanaan fungsi-fungsinya dan, khususnya, tetapi
+perlu bagi, atau bersampingan dengan, pelaksanaan fungsi-fungsinya dan, khususnya, tetapi tanpa menjejaskan keluasan yang tersebut di atas—
 
-<!-- marginal: tanpa -->
-
-menjejaskan keluasan yang tersebut di atas—
-
-(a) menjalankan segala aktiviti, khususnya aktiviti- aktiviti berkenaan dengan industri pembinaan, yang penjalanannya didapati oleh Lembaga adalah perlu, berfaedah atau sesuai bagi atau berkaitan dengan pelaksanaan
-
-<!-- marginal: fungsi- -->
-
-fungsinya;
+(a) menjalankan segala aktiviti, khususnya aktiviti- aktiviti berkenaan dengan industri pembinaan, yang penjalanannya didapati oleh Lembaga adalah perlu, berfaedah atau sesuai bagi atau berkaitan dengan pelaksanaan fungsi- fungsinya;
 
 (b) mengawardkan perakuan kecekapan;
 
@@ -324,11 +318,7 @@ fungsinya;
 
 (e) mengenakan fee atau apa-apa caj lain yang difikirkannya patut bagi melaksanakan mana- mana fungsi atau kuasanya;
 
-(f) menerima, sebagai balasan
-
-<!-- marginal: apa-apa -->
-
-perkhidmatan yang mungkin diberikan olehnya, apa-apa komisen atau pembayaran sebagaimana yang telah dipersetujui dengan mana-mana orang; dan
+(f) menerima, sebagai balasan apa-apa perkhidmatan yang mungkin diberikan olehnya, apa-apa komisen atau pembayaran sebagaimana yang telah dipersetujui dengan mana-mana orang; dan
 
 (g) melakukan apa-apa perkara lain yang difikirkannya patut bagi membolehkannya menjalankan fungsi-fungsi dan kuasa-kuasanya dengan berkesan.
 
@@ -378,9 +368,7 @@ jika diarahkan sedemikian oleh Menteri, kepada mana- mana pihak berkuasa awam la
 
 (5) Sesuatu jawatankuasa boleh menjemput mana- mana orang untuk menghadiri mana-mana mesyuaratnya bagi maksud menasihatinya atas apa-apa perkara yang dibincangkan dengan syarat bahawa orang yang dijemput sedemikian itu tidak berhak mengundi di mana-mana mesyuarat itu.
 
-(6) Anggota-anggota sesuatu jawatankuasa yang ditubuhkan di bawah seksyen ini dan mana-mana orang yang dijemput di bawah subseksyen
-
-<!-- marginal: (5) untuk -->
+(6) Anggota-anggota sesuatu jawatankuasa yang ditubuhkan di bawah seksyen ini dan mana-mana orang yang dijemput di bawah subseksyen (5) untuk
 
 <!-- page 12 -->
 
@@ -498,7 +486,15 @@ perbelanjaan lain yang dilakukan atau disetujuterima dengan sepatutnya oleh Lemb
 
 (3) Lembaga boleh pada bila-bila masa mengemukakan kepada Menteri suatu anggaran tambahan bagi mana-mana satu tahun dan Menteri boleh membenarkan kesemua atau mana-mana bahagian daripada perbelanjaan tambahan yang termasuk dalam anggaran tambahan itu.
 
-(4) Menteri boleh mengarahkan Lembaga mengemukakan suatu salinan anggaran atau anggaran tambahan itu, mengikut mana-mana yang berkenaan, kepada mana-mana pihak berkuasa awam lain sebagaimana yang dinyatakan dalam arahan itu.
+(4) Menteri boleh mengarahkan
+
+<!-- marginal: Lembaga -->
+
+mengemukakan suatu salinan anggaran atau anggaran tambahan itu, mengikut mana-mana yang berkenaan, kepada mana-mana pihak berkuasa awam
+
+<!-- marginal: lain -->
+
+sebagaimana yang dinyatakan dalam arahan itu.
 
 19. Akta Badan Berkanun (Akaun dan Laporan Tahunan) 1980 adalah terpakai bagi Lembaga dan mana- mana perbadanan yang ditubuhkan di bawah Akta ini.
 
@@ -812,7 +808,11 @@ melainkan jika dibenarkan secara khusus oleh Pengerusi, anggota itu tidak boleh 
 
 1. Lembaga hendaklah, dengan kelulusan Menteri, pada atau sebelum tarikh apa-apa perbadanan ditubuhkan di bawah seksyen 24, membuat peraturan-peraturan berkenaan dengan perbadanan itu yang menentukan—
 
-(a) maksud-maksud dan tujuan-tujuan perbadanan itu ditubuhkan;
+(a) maksud-maksud dan tujuan-tujuan perbadanan
+
+<!-- marginal: itu -->
+
+ditubuhkan;
 
 (b) hak-hak, kuasa-kuasa, kewajipan-kewajipan dan fungsi- fungsi perbadanan itu;
 
@@ -858,25 +858,7 @@ yang lebih luas bidangnya daripada maksud-maksud atau tujuan- tujuan Lembaga itu
 
 ## PEKERJA-PEKERJA BINAAN MAHIR
 
-1. Tukang konkrit
-
-2. Pembengkok bar
-
-3. Tukang kayu
-
-4. Penurap batu/Tukang batu
-
-5. Tukang plaster/Tukang turap
-
-6. Tukang jubin
-
-7. Tukang cat
-
-8. Tukang kayu halus
-
-9. Pekerja logam
-
-10. Tukang buat longkang
+1. Tukang konkrit 2. Pembengkok bar 3. Tukang kayu 4. Penurap batu/Tukang batu 5. Tukang plaster/Tukang turap 6. Tukang jubin 7. Tukang cat 8. Tukang kayu halus 9. Pekerja logam 10. Tukang buat longkang
 
 <!-- page 31 -->
 

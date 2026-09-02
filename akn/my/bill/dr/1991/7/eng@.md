@@ -44,9 +44,47 @@ substituting therefor the following:
 
 <!-- page 2 -->
 
-New sections
+<!-- marginal: New sections -->
 
-4. The principal Act is amended by inserting after section 28A, 28B, 28 the following new sections 28A, 28B. 28c, 28D, 28E, 28c, 28D, 28F and 28G: 28E, 28F and 28G. "Action by 28A. (1) Where upon receiving information Director from the insurer pursuant to section 28, or after General an inspection under section 18, or after an in respect of insurer investigation under section 27, or otherwise, the in certain Director General is satisfied that an insurer — circum- stances.
+4. The principal Act is amended by inserting after section
+
+<!-- marginal: 28A, 28B, -->
+
+28 the following new sections 28A, 28B. 28c, 28D, 28E,
+
+<!-- marginal: 28c, 28D, -->
+
+28F and 28G:
+
+<!-- marginal: 28E, 28F -->
+
+<!-- marginal: and 28G. -->
+
+<!-- marginal: "Action by -->
+
+28A. (1) Where upon receiving information
+
+<!-- marginal: Director -->
+
+from the insurer pursuant to section 28, or after
+
+<!-- marginal: General -->
+
+an inspection under section 18, or after an
+
+<!-- marginal: in respect -->
+
+<!-- marginal: of insurer -->
+
+investigation under section 27, or otherwise, the
+
+<!-- marginal: in certain -->
+
+Director General is satisfied that an insurer —
+
+<!-- marginal: circum- -->
+
+<!-- marginal: stances. -->
 
 (a) is carrying on its business in a manner detrimental to the interests of its policy owners, or its creditors, or the public generally;
 
@@ -70,9 +108,13 @@ the Director General may, by order in writing, exercise any one or more of the f
 
 (vi) terminate any contract, agreement or arrangement entered into by the insurer with any person for such person to provide the insurer with consultancy or management services of any description:
 
-Provided that the powers of the Director General under paragraphs (ii), (iii), (iv), (v) and (vi) shall be exercised only with the prior approval of the Minister.
+Provided that the powers of the Director General under paragraphs (ii), (iii), (iv), (v) and
 
-(2) The Director General may, instead of exercising any of his powers under subsection (l)(i), (l)(ii), (l)(iii), (l)(iv), (l)(v) or (l)(vi), recommend to the Minister to provide, and the Minister may on such recommendation
+(vi) shall be exercised only with the prior approval of the Minister.
+
+(2) The Director General may, instead of exercising any of his powers under subsection
+
+(l)(i), (l)(ii), (l)(iii), (l)(iv), (l)(v) or (l)(vi), recommend to the Minister to provide, and the Minister may on such recommendation
 
 <!-- page 4 -->
 
@@ -90,17 +132,33 @@ accordingly provide, by order published in the Gazette—
 
 <!-- page 5 -->
 
-making representations in respect of
+making representations in respect of the proposed order:
 
-<!-- marginal: the -->
+Provided that if in the opinion of the Director General, in the case of an order to be made by the Director General, or in the opinion of the Minister, in the case of an order to be made by the Minister, as the case may be, any delay would be detrimental to the interests of the insurer, or its policy owners, creditors, other customers, or the public generally, the order may be made first and the opportunity to make representations in respect of the order shall be given immediately after the order has been made, and the order may, in consequence of such representations, either be confirmed, or be amended, varied, or replaced by virtue of subsection (3) or revoked by virtue of subsection
 
-proposed order:
+(5), subject to such condition as the Director General, with the concurrence of the Minister, or the Minister, on the recommendation of the Director General, as the case may be, thinks fit to impose.
 
-Provided that if in the opinion of the Director General, in the case of an order to be made by the Director General, or in the opinion of the Minister, in the case of an order to be made by the Minister, as the case may be, any delay would be detrimental to the interests of the insurer, or its policy owners, creditors, other customers, or the public generally, the order may be made first and the opportunity to make representations in respect of the order shall be given immediately after the order has been made, and the order may, in consequence of such representations, either be confirmed, or be amended, varied, or replaced by virtue of subsection (3) or revoked by virtue of subsection (5), subject to such condition as the Director General, with the concurrence of the Minister, or the Minister, on the recommendation of the Director General, as the case may be, thinks fit to impose.
+(5) An order of the Director General made under subsection (1), or by virtue of subsection
 
-(5) An order of the Director General made under subsection (1), or by virtue of subsection (3), or an order of the Minister made under subsection (2), or by virtue of subsection (3), may at any time be revoked by an order similarly made by the Director General, or by the Minister, as the case may be.
+(3), or an order of the Minister made under subsection (2), or by virtue of subsection (3), may at any time be revoked by an order similarly made by the Director General, or by the Minister, as the case may be.
 
-Provisions 28B. (1) A person appointed by the Director in relation General under section 28A(l)(iii), 28A(l)(iv), to appoint- 28A(l)(v) or 28A(2)(a) shall be appointed for ment under section 28A. such period as may be determined by the Director General, and the appointment may, upon expiry of the initial period, be extended for such further period as may be determined by the Director General:
+<!-- marginal: Provisions -->
+
+28B. (1) A person appointed by the Director
+
+<!-- marginal: in relation -->
+
+General under section 28A(l)(iii), 28A(l)(iv),
+
+<!-- marginal: to appoint- -->
+
+28A(l)(v) or 28A(2)(a) shall be appointed for
+
+<!-- marginal: ment under -->
+
+<!-- marginal: section 28A. -->
+
+such period as may be determined by the Director General, and the appointment may, upon expiry of the initial period, be extended for such further period as may be determined by the Director General:
 
 Provided that the Director General may revoke such person's appointment at any time without giving any notice or assigning any reason therefor.
 
@@ -114,11 +172,49 @@ Provided that the Director General may revoke such person's appointment at any t
 
 (4) Where a receiver or manager has been appointed in respect of an insurer by the High Court upon an application referred to in section 28A(2)(6), all proper costs, charges and expenses, including the remuneration, of such receiver or manager shall be payable out of the assets of the insurer in priority to all other claims.
 
-Provisions 28c. (1) Any employee removed
+<!-- marginal: Provisions -->
 
-<!-- marginal: from -->
+28c. (1) Any employee removed from
 
-in relation employment or any director removed from office to removal from office under section 28A(l)(iii) or 28A(l)(iv), or any undet section person in respect of whom a contract, agreement 28A(l)(111) or arrangement has been terminated under or 28A(1) (iv), or section 28A(l)(vi) shall cease to be employed or termination to hold the office from which he is removed, or of contract, etc., under continue to provide services in respect of which the contract, agreement or arrangement is 28A(l)(vi). terminated, with effect from the date set out in the order, and shall not thereafter be employed in any capacity, hold any office or provide any services whatsoever in the insurer or, in any manner, whether directly or indirectly, be concerned with, or take part or engage in, any activity, affairs or business of or in relation to that insurer.
+<!-- marginal: in relation -->
+
+employment or any director removed from office
+
+<!-- marginal: to removal -->
+
+<!-- marginal: from office -->
+
+under section 28A(l)(iii) or 28A(l)(iv), or any
+
+<!-- marginal: undet section -->
+
+person in respect of whom a contract, agreement
+
+<!-- marginal: 28A(l)(111) -->
+
+or arrangement has been terminated under
+
+<!-- marginal: or 28A(1) -->
+
+(iv), or section 28A(l)(vi) shall cease to be employed or
+
+<!-- marginal: termination -->
+
+to hold the office from which he is removed, or
+
+<!-- marginal: of contract, -->
+
+<!-- marginal: etc., under -->
+
+continue to provide services in respect of which
+
+<!-- marginal: section -->
+
+the contract, agreement or arrangement is
+
+<!-- marginal: 28A(l)(vi). -->
+
+terminated, with effect from the date set out in the order, and shall not thereafter be employed in any capacity, hold any office or provide any services whatsoever in the insurer or, in any manner, whether directly or indirectly, be concerned with, or take part or engage in, any activity, affairs or business of or in relation to that insurer.
 
 (2) The removal of an employee or a director under section 28A(l)(iii) or 28A(l)(iv) or the termination of a contract, agreement or arrangement under section 28A(l)(vi), shall be lawful and valid notwithstanding anything
 
@@ -126,7 +222,31 @@ in relation employment or any director removed from office to removal from offic
 
 contained in any contract of service, or in any other contract, agreement or arrangement, whether express or implied, whether individul or collective, and whether or not made or provided for under any written law, and a person so removed from office or a person in respect of whom a contract, agreement or arrangement is so terminated, shall not be entitled to claim any compensation for the loss of office or the termination of the contract, agreement or arrangement.
 
-Provisions 28D. (1) Where control of an insurer has been relating to assumed in pursuance of an order under section assumption of control 28A(2)(a), the insurer and its directors and under employees shall submit its property, business and affairs to such control, and shall provide the 2A(2)(a). Director General and, if the control is assumed by a person appointed by the Director General (hereinafter in this Part referred to as "the appointed person"), also to such appointed person, all such facilities as may be required to carry on the business and affairs of the insurer.
+<!-- marginal: Provisions -->
+
+28D. (1) Where control of an insurer has been
+
+<!-- marginal: relating to -->
+
+assumed in pursuance of an order under section
+
+<!-- marginal: assumption -->
+
+<!-- marginal: of control -->
+
+28A(2)(a), the insurer and its directors and
+
+<!-- marginal: under -->
+
+employees shall submit its property, business
+
+<!-- marginal: section -->
+
+and affairs to such control, and shall provide the
+
+<!-- marginal: 2A(2)(a). -->
+
+Director General and, if the control is assumed by a person appointed by the Director General (hereinafter in this Part referred to as "the appointed person"), also to such appointed person, all such facilities as may be required to carry on the business and affairs of the insurer.
 
 (2) The Director General or the appointed person, as the case may be, shall remain in control of the property, business and affairs of the insurer concerned, and carry on the business and affairs of that insurer in the name and on behalf of that insurer, as provided in the order referred to in subsection (1) until such time as the said order is revoked.
 
@@ -142,7 +262,51 @@ in any other manner whatsoever, and any difficulty arising in relation thereto m
 
 (5) For the avoidance of doubt, it is hereby declared that an order under section 28A(2)(a) shall not have the effect of conferring on, or vesting in, the Director General, or the appointed person, as the case may be, any title to, or any beneficial interest in, any property of the insurer to which the order relates.
 
-Power to 28E. (1) Notwithstanding anything in any reduce written law, or in the memorandum of share capital and association or articles of association or other to cancel constituent documents of an insurer, where the shares of Director General, or the appointed person, has, insurer which is pursuant to an order under section 28A(2)(a), subject to assumed control of the insurer and the paid-up an order under capital of such insurer is lost or unrepresented by available assets, the Director General or the 28A(2)(a). appointed person, as the case may be, may apply to the High Court for an order to reduce the share capital of such insurer by cancelling any portion of its paid-up capital which is lost or unrepresented by available assets.
+<!-- marginal: Power to -->
+
+28E. (1) Notwithstanding anything in any
+
+<!-- marginal: reduce -->
+
+written law, or in the memorandum of
+
+<!-- marginal: share -->
+
+<!-- marginal: capital and -->
+
+association or articles of association or other
+
+<!-- marginal: to cancel -->
+
+constituent documents of an insurer, where the
+
+<!-- marginal: shares of -->
+
+Director General, or the appointed person, has,
+
+<!-- marginal: insurer -->
+
+<!-- marginal: which is -->
+
+pursuant to an order under section 28A(2)(a),
+
+<!-- marginal: subject to -->
+
+assumed control of the insurer and the paid-up
+
+<!-- marginal: an order -->
+
+<!-- marginal: under -->
+
+capital of such insurer is lost or unrepresented by
+
+<!-- marginal: section -->
+
+available assets, the Director General or the
+
+<!-- marginal: 28A(2)(a). -->
+
+appointed person, as the case may be, may apply to the High Court for an order to reduce the share capital of such insurer by cancelling any portion of its paid-up capital which is lost or unrepresented by available assets.
 
 <!-- page 9 -->
 
@@ -156,13 +320,19 @@ also order that such shares for which payment has not been made be cancelled acc
 
 (3) Where the share capital of an insurer is reduced, or any of its shares cancelled, under subsection (2), the Director General, or the appointed person, as the case may be, may cause the memorandum of association or articles of association or other constituent documents of the insurer to be altered accordingly.
 
-(4) The powers conferred on the Director General and the appointed person under the foregoing provisions of this section shall be in addition to any powers exercisable under section Art 725 64(1) of the Companies Act 1965, and where an application is made to the High Court under subsection (1) —
+(4) The powers conferred on the Director General and the appointed person under the foregoing provisions of this section shall be in addition to any powers exercisable under section
+
+<!-- marginal: Art 725 -->
+
+64(1) of the Companies Act 1965, and where an application is made to the High Court under subsection (1) —
 
 (a) the High Court may exercise any of the powers conferred on it under section 64 of the Companies Act 1965 in relation to an application for confirmation referred to therein; and
 
 (b) subsections (9) and (10) of the said section 64 shall apply in relation thereto.
 
-Moratorium. 28F. (1) The Minister may, on the recommendation of the Director General, if he considers it to be in the interests of the policy
+<!-- marginal: Moratorium. -->
+
+28F. (1) The Minister may, on the recommendation of the Director General, if he considers it to be in the interests of the policy
 
 <!-- page 10 -->
 
@@ -186,9 +356,17 @@ provided that where any delay would be detrimental to the interests of the polic
 
 (4) An order under subsection (1), or by virtue of subsection (2), may at any time be revoked by the Minister by an order made on the recommendation of the Director General, and any such order may contain all such orders, directions or provisions of an incidental, ancillary or consequential nature as may be deemed necessary by the Minister.
 
-Offences in 28G. Any person who contravenes — relation to sections 28,
+<!-- marginal: Offences in -->
 
-(a) any provision of section 28; 28A and 28F.
+28G. Any person who contravenes —
+
+<!-- marginal: relation to -->
+
+<!-- marginal: sections 28, -->
+
+(a) any provision of section 28;
+
+<!-- marginal: 28A and 28F. -->
 
 (b) any requirement of an order in writing under section 28A(l)(i);
 
@@ -204,7 +382,11 @@ Provided that where the person found guilty of such offence is a body corporate,
 
 punishment of imprisonment shall not apply to the body corporate.".
 
-Amendment of 5. Section 30 of the principal Act is amended— section 30.
+<!-- marginal: Amendment of 5. -->
+
+Section 30 of the principal Act is amended—
+
+<!-- marginal: section 30. -->
 
 (a) by substituting for the marginal note the following marginal note:
 
@@ -218,7 +400,9 @@ Amendment of 5. Section 30 of the principal Act is amended— section 30.
 
 (3) The Director General may either before, or at any time after, he has presented a petition to the Court under section 28A(2)(c) for the winding up of the insurer, if he is satisfied that it is in the interests of the policy owners of the insurer that there be a winding up of only a part of the business of the insurer, draw up a scheme for the purpose of the winding up of that part of the business of the insurer and submit it to the Court for an order of the Court for such partial winding up (referred to in this section as a "partial winding up order").
 
-(4) Any scheme prepared under subsection (3) shall provide for —
+(4) Any scheme prepared under subsection
+
+(3) shall provide for —
 
 (a) the allocation and distribution of the assets and liabilities of the insurer to the class of business, or the type or
 
@@ -244,9 +428,7 @@ substituting the words "and 20c(3)" for the words " , 20c(3) and 28" in subsecti
 
 ## EXPLANATORY STATEMENT
 
-This Bill seeks to amend the Insurance Act 1963, hereinafter referred to as the "principal Act", by substituting a new provision for section
-
-28. and introducing new sections 28A. 28B, 28c, 28D, 28E, 28F and 28G which provide the Director General and the Minister with powers to take measures in relation to an insurer in specified circumstances to protect the interests of the policy owners and the creditors of the insurer, and the public generally.
+This Bill seeks to amend the Insurance Act 1963, hereinafter referred to as the "principal Act", by substituting a new provision for section 28. and introducing new sections 28A. 28B, 28c, 28D, 28E, 28F and 28G which provide the Director General and the Minister with powers to take measures in relation to an insurer in specified circumstances to protect the interests of the policy owners and the creditors of the insurer, and the public generally.
 
 2. Clause 2 inserts in section 1A, a new definition of the word 'employee' in relation to an insurer and includes within the definition, a managing director, a chief executive and a principal officer of the insurer.
 
@@ -270,11 +452,7 @@ Subsection (4) requires that any such order shall not be made without giving the
 
 Any order as mentioned above may at any time be revoked by an order by the authority which made the original order.
 
-Section 28E
-
-6. The new section 28B makes provision with regard to the period of appointment, terms, conditions and remuneration of persons appointed by the Director General under an order made under section
-
-28A.
+Section 28E 6. The new section 28B makes provision with regard to the period of appointment, terms, conditions and remuneration of persons appointed by the Director General under an order made under section 28A.
 
 A person holding an appointment made by the Director General under section 28A is conferred by subsection (4) with immunity from any obligation or liability by reason only of holding such appointment.
 
@@ -300,9 +478,7 @@ Subsection (4) provides that the aforesaid powers conferred on the Director Gene
 
 (10) of the said section 64 are to apply in relation to the application made to the High Court under this section by the Director General, or by the person appointed to assume control, as the case may be.
 
-Section 28F
-
-10. The new section 28F empowers the Minister, to prohibit the insurer from carrying on all or any part of its business, or to prohibit the insurer from doing or performing any act or function connected
+Section 28F 10. The new section 28F empowers the Minister, to prohibit the insurer from carrying on all or any part of its business, or to prohibit the insurer from doing or performing any act or function connected
 
 <!-- page 17 -->
 

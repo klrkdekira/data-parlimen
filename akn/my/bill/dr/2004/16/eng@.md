@@ -50,11 +50,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 106A. In this Chapter—
 
-"communication" means a communication
-
-<!-- marginal: received or -->
-
-transmitted by post or a telegraphic, telephonic or other communication received or transmitted by electricity, magnetism or other means;
+"communication" means a communication received or transmitted by post or a telegraphic, telephonic or other communication received or transmitted by electricity, magnetism or other means;
 
 "communications service provider" means a person who provides services for the transmission or reception of communications;
 
@@ -300,19 +296,11 @@ Provided that where the accused elects to give unsworn evidence from the dock an
 
 <!-- marginal: Maximum -->
 
-a warrant or bailable compoundahle Code the police
-
-<!-- marginal: punishment -->
-
-a summons or not or not may
+a warrant or bailable compoundahle Code the police punishment a summons or not or not may
 
 <!-- marginal: under the -->
 
-ordinarily shall
-
-<!-- marginal: Penal Code -->
-
-ordinarily arrest issue in without warrant the first instance or not
+ordinarily shall Penal Code ordinarily arrest issue in without warrant the first instance or not
 
 ## CHAPTER VIA—OFFENCES RELATING TO TERRORISM
 
@@ -378,317 +366,39 @@ members of terrorist groups or to participate in terrorist acts
 
 <!-- page 12 -->
 
-6 5 2 4 1 3 Whether a
+6 5 2 4 1 3 Whether a Maximum Whether Whether Whether
 
-<!-- marginal: Maximum -->
+<!-- marginal: Penal -->
 
-Whether Whether Whether Penal Offence warrant or a bailable compoundable
+Offence warrant or a bailable compoundable punishment the police
 
-<!-- marginal: punishment -->
+<!-- marginal: Code -->
 
-the police Code
+under the summons or not or not
 
-<!-- marginal: under -->
+<!-- marginal: section -->
 
-<!-- marginal: the -->
+may Penal Code ordinarily shall ordinarily arrest issue in without the first warrant or not instance
 
-summons or not or not may
-
-<!-- marginal: Penal Code -->
-
-ordinarily shall ordinarily arrest issue in without the first warrant or not instance
-
-<!-- marginal: Imprisonment -->
-
-do. do. do. Providing do. 130F
-
-<!-- marginal: for thirty -->
-
-training
-
-<!-- marginal: years, and fine -->
-
-and instruction to terrorist groups and persons committing terrorist acts do. do. do.
-
-<!-- marginal: Imprisonment -->
-
-do. Inciting, 130G
-
-<!-- marginal: for thirty -->
-
-promoting or
-
-<!-- marginal: years, and -->
-
-soliciting property for
-
-<!-- marginal: fine -->
-
-the commission of terrorist acts Providing facilities in
-
-<!-- marginal: Imprisonment -->
-
-do. do. do. do. 130H support of
-
-<!-- marginal: for thirty -->
-
-terrorist
-
-<!-- marginal: years, and fine -->
-
-acts Directing activities of
-
-<!-- marginal: Death; or -->
-
-do. do. do. do. 130I terrorist
-
-<!-- marginal: imprisonment -->
-
-groups
-
-<!-- marginal: for not less -->
-
-<!-- marginal: than seven -->
-
-<!-- marginal: years but not -->
-
-<!-- marginal: exceeding -->
-
-<!-- marginal: thirty years, -->
-
-<!-- marginal: and fine -->
-
-<!-- marginal: Imprisonment -->
-
-do. Soliciting do. do. do. 130J
-
-<!-- marginal: for life, or -->
-
-or giving
-
-<!-- marginal: imprisonment -->
-
-support to
-
-<!-- marginal: for thirty -->
-
-terrorist
-
-<!-- marginal: years; or -->
-
-groups or
-
-<!-- marginal: fine, and -->
-
-the
-
-<!-- marginal: forfeiture of -->
-
-commission
-
-<!-- marginal: certain -->
-
-of terrorist
-
-<!-- marginal: property -->
-
-acts
-
-<!-- marginal: Imprisonment -->
-
-Harbouring do. do. do. do. 130K
-
-<!-- marginal: for life, and -->
-
-persons
-
-<!-- marginal: fine; or -->
-
-committing
-
-<!-- marginal: imprisonment -->
-
-terrorist
-
-<!-- marginal: for twenty -->
-
-acts
-
-<!-- marginal: years; or fine -->
+Imprisonment do. do. do. Providing do. 130F for thirty training years, and fine and instruction to terrorist groups and persons committing terrorist acts do. do. do. Imprisonment do. Inciting, 130G for thirty promoting or years, and soliciting property for fine the commission of terrorist acts Providing facilities in Imprisonment do. do. do. do. 130H support of for thirty terrorist years, and fine acts Directing activities of Death; or do. do. do. do. 130I terrorist imprisonment groups for not less than seven years but not exceeding thirty years, and fine Imprisonment do. Soliciting do. do. do. 130J for life, or or giving imprisonment support to for thirty terrorist years; or groups or fine, and the forfeiture of commission certain of terrorist property acts Imprisonment Harbouring do. do. do. do. 130K for life, and persons fine; or committing imprisonment terrorist for twenty acts years; or fine
 
 <!-- page 13 -->
 
-4 6
-
-<!-- marginal: 7 -->
-
-1 2 3
+4 6 7 1 2 3
 
 ### 5
 
-Whether Penal Offence Whether Whether Whether
+Whether Penal Offence Whether Whether Whether Maximum bailable Code the police a warrant or compoundable punishment sectio a summons or not or not under the may ordinarily shall Penal Code ordinarily arrest without issue in warrant the first or not instance 130M Intentional do. do. do. do. Imprisonmt omission to for seven give years, or information fine, or bol relating to terrorist acts Suppression of financing of terrorist acts
 
-<!-- marginal: Maximum -->
+Death; or 130N Providing or do, do. do. do. collecting imprisonment for not less property for than seven terrorist acts years but not exceeding thirty years, and fine, and forfeiture of certain property
 
-bailable Code the police a warrant or compoundable punishment sectio a summons or not or not
+Death; or 130o imprisonment or Providing for not less services for do, do. do. do. than seven terrorist years but not purposes exceeding thirty years, and fine
 
-<!-- marginal: under the -->
-
-may ordinarily shall Penal Code ordinarily arrest without issue in warrant the first or not instance 130M Intentional do. do. do. do.
-
-<!-- marginal: Imprisonmt -->
-
-omission to
-
-<!-- marginal: for seven -->
-
-give
-
-<!-- marginal: years, or -->
-
-information
-
-<!-- marginal: fine, or bol -->
-
-relating to terrorist acts Suppression of financing of terrorist acts
-
-<!-- marginal: Death; or -->
-
-130N Providing or do, do. do. do. collecting
-
-<!-- marginal: imprisonment -->
-
-<!-- marginal: for not less -->
-
-property for
-
-<!-- marginal: than seven -->
-
-terrorist acts
-
-<!-- marginal: years but not -->
-
-<!-- marginal: exceeding thirty -->
-
-<!-- marginal: years, and fine, -->
-
-<!-- marginal: and forfeiture -->
-
-<!-- marginal: of certain -->
-
-<!-- marginal: property -->
-
-<!-- marginal: Death; or -->
-
-130o
-
-<!-- marginal: imprisonment or -->
-
-Providing
-
-<!-- marginal: for not less -->
-
-services for do, do. do. do.
-
-<!-- marginal: than seven -->
-
-terrorist
-
-<!-- marginal: years but not -->
-
-purposes
-
-<!-- marginal: exceeding thirty -->
-
-<!-- marginal: years, and fine -->
-
-<!-- marginal: Imprisonment -->
-
-<!-- marginal: for thirty years, -->
-
-130P
-
-<!-- marginal: and fine, and -->
-
-do. do do do Arranging for
-
-<!-- marginal: forfeiture of -->
-
-retention or
-
-<!-- marginal: certain property -->
-
-control of terrorist
-
-<!-- marginal: Imprisonment -->
-
-property
-
-<!-- marginal: for twenty -->
-
-130Q
-
-<!-- marginal: years; or fine, -->
-
-<!-- marginal: and forfeiture -->
-
-Dealing with
-
-<!-- marginal: of certain -->
-
-terrorist
-
-<!-- marginal: property -->
-
-130K
-
-<!-- marginal: Imprisonment -->
-
-property
-
-<!-- marginal: for seven years, -->
-
-Intentional .
-
-<!-- marginal: or fine, or both -->
-
-omission to do. do do do give information about terrorist property
+Imprisonment for thirty years, 130P and fine, and do. do do do Arranging for forfeiture of retention or certain property control of terrorist Imprisonment property for twenty 130Q years; or fine, and forfeiture Dealing with of certain terrorist property 130K Imprisonment property for seven years, Intentional . or fine, or both omission to do. do do do give information about terrorist property
 
 <!-- page 14 -->
 
-2 4 5 6 1 3
-
-<!-- marginal: 7 -->
-
-Whether Penal Offence Whether Whether Whether
-
-<!-- marginal: Maximum -->
-
-bailable Code the police a warrant or compoundable punishment sectio a summons or not or not may
-
-<!-- marginal: under the -->
-
-ordinarily shall
-
-<!-- marginal: Penal Code -->
-
-arrest ordinarily without issue in warrant the first or not instance 130s Intentional do. do. do. do.
-
-<!-- marginal: Imprisonmt -->
-
-omission
-
-<!-- marginal: or seven yt -->
-
-to give
-
-<!-- marginal: for fine, -->
-
-information
-
-<!-- marginal: or both \ -->
-
-relating to terrorism financing offence
+2 4 5 6 1 3 7 Whether Penal Offence Whether Whether Whether Maximum bailable Code the police a warrant or compoundable punishment sectio a summons or not or not may under the ordinarily shall Penal Code arrest ordinarily without issue in warrant the first or not instance 130s Intentional do. do. do. do. Imprisonmt omission or seven yt to give for fine, information or both \ relating to terrorism financing offence
 
 (c) in the item relating to section 304 of the Penal Code, in column 7, by substituting for the word "twenty" the word "thirty";
 
@@ -696,127 +406,145 @@ relating to terrorism financing offence
 
 (e) by inserting after the item relating to section 374 of. the Penal Code, the following item under the respective columns:
 
-1 2 3 4 5 6
+1 2 3 4 5 6 7 Penal Offence Whether Whether Whether Whether Maximum Code the police a warrant or bailable compoundable punishment sectio may a summons or not or not under the ordinarily shall Penal Code arrest ordinarily without issue in warrant the first or not instance Hos tage-Taking
 
-<!-- marginal: 7 -->
-
-Penal Offence Whether Whether Whether Whether
-
-<!-- marginal: Maximum -->
-
-Code the police a warrant or bailable compoundable punishment sectio may a summons or not or not
-
-<!-- marginal: under the -->
-
-ordinarily shall
-
-<!-- marginal: Penal Code -->
-
-arrest ordinarily without issue in warrant the first or not instance Hos tage-Taking
-
-374A Hostage- May Warrant Not Not
-
-<!-- marginal: Death; or -->
-
-compoundable taking arrest bailable
-
-<!-- marginal: imprisonment -->
-
-without
-
-<!-- marginal: for not less -->
-
-warrant
-
-<!-- marginal: than seven -->
-
-<!-- marginal: years but not -->
-
-<!-- marginal: exceeding -->
-
-<!-- marginal: thirty years, -->
-
-<!-- marginal: and fine '. -->
+374A Hostage- May Warrant Not Not Death; or compoundable taking arrest bailable imprisonment without for not less warrant than seven years but not exceeding thirty years, and fine '.
 
 <!-- page 15 -->
 
-(f) by substituting for the item relating to section 376 of the Penal Code the following items under the respective columns:
+(f) by substituting for the item relating to section 376 of the Penal Code the following items under the respective
 
-4 5 6 1 2 3
+<!-- marginal: columns: -->
 
-<!-- marginal: 7 -->
+<!-- marginal: 4 -->
 
-Penal Offence Whether Whether Whether Whether
+<!-- marginal: 5 6 -->
 
-<!-- marginal: Maximum -->
+<!-- marginal: 1 2 -->
 
-Code the police a warrant or bailable compoundable
+<!-- marginal: 3 -->
 
-<!-- marginal: punishment -->
+7
 
-a summons or not or not may
+<!-- marginal: Penal Offence -->
 
-<!-- marginal: under the -->
+<!-- marginal: Whether -->
 
-ordinarily shall
+<!-- marginal: Whether Whether Whether -->
 
-<!-- marginal: Penal Code -->
+Maximum
 
-arrest ordinarily without issue in warrant the first or not instance "376(1) Rape May arrest Warrant Not Not
+<!-- marginal: Code -->
 
-<!-- marginal: Imprisonment -->
+<!-- marginal: the police -->
 
-without bailable compoundable
+<!-- marginal: a warrant or bailable compoundable -->
 
-<!-- marginal: for not less -->
+punishment
 
-warrant
+<!-- marginal: a summons -->
 
-<!-- marginal: than five years -->
+<!-- marginal: or not or not -->
 
-<!-- marginal: and not more -->
+<!-- marginal: section -->
 
-<!-- marginal: than twenty years -->
+<!-- marginal: may -->
 
-<!-- marginal: and whipping -->
+under the
 
-376(2) Incestuous do. do. do. do.
+<!-- marginal: ordinarily -->
 
-<!-- marginal: Imprisonment -->
+<!-- marginal: shall -->
 
-rape
+Penal Code
 
-<!-- marginal: for not less -->
+<!-- marginal: arrest -->
 
-<!-- marginal: than fifteen -->
+<!-- marginal: ordinarily -->
 
-<!-- marginal: years and not -->
+<!-- marginal: without -->
 
-<!-- marginal: more than thirty -->
+<!-- marginal: issue in -->
 
-<!-- marginal: years, and -->
+<!-- marginal: warrant -->
 
-<!-- marginal: whipping for -->
+<!-- marginal: the first -->
 
-<!-- marginal: not less than -->
+<!-- marginal: or not -->
 
-<!-- marginal: ten strokes -->
+<!-- marginal: instance -->
 
-Causing do. do. do. do.
+<!-- marginal: "376(1) Rape -->
 
-<!-- marginal: Death ', -->
+<!-- marginal: May arrest Warrant -->
 
-376(3) death while committing or attempting to commit rape
+<!-- marginal: Not Not -->
 
-(g) in the item relating to section 396 of the Penal Code, in column 7, by substituting for the word "twenty" the word "thirty"; and
+Imprisonment
 
-(h) in the item relating to section 460 of the Penal Code, in column 7, by substituting for the word "twenty" the word "thirty".
+<!-- marginal: without -->
+
+<!-- marginal: bailable compoundable -->
+
+for not less
+
+<!-- marginal: warrant -->
+
+than five years and not more than twenty years and whipping
+
+<!-- marginal: 376(2) Incestuous -->
+
+<!-- marginal: do. -->
+
+<!-- marginal: do. -->
+
+<!-- marginal: do. do. -->
+
+Imprisonment
+
+<!-- marginal: rape -->
+
+for not less than fifteen years and not more than thirty years, and whipping for not less than ten strokes
+
+<!-- marginal: Causing -->
+
+<!-- marginal: do. -->
+
+<!-- marginal: do. -->
+
+<!-- marginal: do. -->
+
+<!-- marginal: do. -->
+
+Death ',
+
+<!-- marginal: 376(3) -->
+
+<!-- marginal: death while -->
+
+<!-- marginal: committing -->
+
+<!-- marginal: or attempting -->
+
+<!-- marginal: to commit -->
+
+<!-- marginal: rape -->
+
+(g) in the item relating to section 396 of the Penal Code, in column 7, by substituting for the word "twenty" the word
+
+<!-- marginal: "thirty"; and -->
+
+(h) in the item relating to section 460 of the Penal Code, in column 7, by substituting for the word "twenty" the word
+
+<!-- marginal: "thirty". -->
 
 EXPLANATORY STATEMENT This Bill
 
-seeks to amend the Criminal Procedure Code ("Act 593").
+<!-- marginal: seeks to amend the Criminal Procedure Code ("Act 593"). -->
 
-2. Clause 1 contains the short title and provisions on the commencement of the proposed Act.
+2. Clause 1 contains the short title and provisions on the commencement of
+
+<!-- marginal: the proposed Act. -->
 
 <!-- page 16 -->
 
@@ -872,4 +600,4 @@ The new section 106c seeks to empower the Public Prosecutor to authorize a polic
 
 This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
 
-[PN(U2)2359]
+<!-- marginal: [PN(U2)2359] -->

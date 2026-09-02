@@ -124,7 +124,9 @@ Kehakiman dan Perundangan dan selepas berunding dengan Majlis Raja-Raja, melanti
 
 (7) Saraan dan terma-terma lain jawatan (termasuk hak pencen) bagi Pendakwa Raya tidak boleh, selepas pelantikannya, diubah menjadi kurang baik baginya.
 
-(8) Pendakwa Raya boleh pada bila-bila masa meletakkan jawatannya melalui surat yang ditandatangani sendiri olehnya yang ditujukan kepada Yang di-Pertuan Agong tetapi tidak boleh dipecat daripada jawatan kecuali mengikut Fasal (9), (10), (11), (12) dan (13) Perkara ini.
+(8) Pendakwa Raya boleh pada bila-bila masa meletakkan jawatannya melalui surat yang ditandatangani sendiri olehnya yang ditujukan kepada Yang di-Pertuan Agong tetapi tidak boleh dipecat daripada jawatan kecuali mengikut Fasal (9),
+
+(10), (11), (12) dan (13) Perkara ini.
 
 (9) Jika Suruhanjaya Perkhidmatan Kehakiman dan Perundangan membuat representasi kepada Yang di-Pertuan Agong dengan menyatakan bahawa Pendakwa Raya patut dipecat atas alasan tidak berdaya, oleh sebab kelemahan tubuh atau akal, untuk menunaikan fungsi jawatannya dengan sepatutnya,
 

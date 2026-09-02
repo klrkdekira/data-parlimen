@@ -14,15 +14,27 @@ Suatu Akta untuk meminda Akta Penyiaran 1988. [ ]
 
 oleh Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
 
-Tajuk nngkas
+<!-- marginal: Tajuk nngkas -->
 
-1. (1) Akta ini bolehlah dinamakan Akta Penyiaran dan mula (Pindaan) 1996. berkuatkuasa
+1. (1) Akta ini bolehlah dinamakan Akta Penyiaran
+
+<!-- marginal: dan mula -->
+
+(Pindaan) 1996.
+
+<!-- marginal: berkuatkuasa -->
 
 (2) Akta ini hendaklah mula berkuatkuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta dan tarikh yang berlainan boleh ditetapkan bagi mula berkuatkuasanya peruntukan yang berlainan dalam Akta ini.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-2. Akta Penyiaran 1988, yang disebut "Akta ibu" dalam seksyen 2. Akta ini, adalah dipinda dalam seksyen 2— Akta 338
+2. Akta Penyiaran 1988, yang disebut "Akta ibu" dalam
+
+<!-- marginal: seksyen 2. -->
+
+Akta ini, adalah dipinda dalam seksyen 2—
+
+<!-- marginal: Akta 338 -->
 
 (a) dalam takrif "bahan penyiaran"—
 
@@ -62,17 +74,21 @@ Pindaan
 
 ' "vesel" termasuklah mana-mana kapal atau bot atau apa-apa perihal lain vesel yang didaftarkan di Malaysia, atau yang dilesenkan untuk digunakan, atau yang pada kebiasaannya disimpan, di Malaysia atau di dalam perairan wilayah Malaysia.'.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Seksyen 3 Akta ibu adalah dipinda— seksyen 3.
+3. Seksyen 3 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 3. -->
 
 (a) dalam perenggan (b), dengan menggantikan perkataan "kapal, pesawat udara," dengan perkataan "premis, pesawat udara, vesel, keretapi"; dan
 
 (b) dalam perenggan (c), dengan menggantikan perkataan "kapal, atau pesawat udara" dengan perkataan "premis, pesawat udara, vesel, keretapi atau kenderaan".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Seksyen 4 Akta ibu adalah dipinda— seksyen 4.
+4. Seksyen 4 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 4. -->
 
 (a) dengan menggantikan subseksyen (1) dengan subseksyen yang berikut:
 
@@ -90,17 +106,23 @@ Pindaan
 
 "(5) Menteri boleh meminda Jadual melalui perintah yang disiarkan dalam Warta".
 
-Pmdaan
+<!-- marginal: Pmdaan -->
 
-5. Seksyen 5 Akta ibu adalah dipinda dengan memasukkan seksyen 5. selepas perkataan "lesen" perkataan "atau melanggar mana- mana syarat lesennya".
+5. Seksyen 5 Akta ibu adalah dipinda dengan memasukkan
+
+<!-- marginal: seksyen 5. -->
+
+selepas perkataan "lesen" perkataan "atau melanggar mana- mana syarat lesennya".
 
 6. Akta ibu adalah dipinda dengan menggantikan seksyen 7 dengan seksyen yang berikut:
 
 "Kesahan 7. Suatu lesen yang diberikan di bawah Bahagian lesen — hendaklah tertakluk kepada apa-apa syarat yang diendorskan dalamnya dan adalah, melainkan jika dibatalkan atau digantung terlebih dahulu, sah bagi tempoh yang ditetapkan oleh Menteri dalam lesen itu.".
 
-Pmdaan
+<!-- marginal: Pmdaan -->
 
-7. Seksyen 9 Akta ibu adalah dipinda— seksyen 9.
+7. Seksyen 9 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 9. -->
 
 (a) dalam subseksyen (1)—
 
@@ -114,17 +136,21 @@ Penyiaran (Pindaan)
 
 (b) dalam subseksyen (2), dengan menggantikan perkataan "kepada dia sebab-sebab kenapa" dengan perkataan "kepadanya, dalam masa tiga puluh hari dari tarikh penerimaan notis itu, sebab- sebab".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-8. Seksyen 11 Akta ibu adalah dipinda— seksyen 1 I
+8. Seksyen 11 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 1 I -->
 
 (a) dengan menggantikan perkataan ", yang diberi kuasa dengan khasnya secara bertulis oleh Menteri" dengan perkataan "diberikuasa"; dan
 
 (b) dengan menggantikan perkataan "menyediakan kepada" dengan perkataan "memberi".
 
-Bahagtan
+<!-- marginal: Bahagtan -->
 
-9. Akta ibu adalah dipinda dengan memasukkan selepas baru III.
+9. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru III. -->
 
 ## Bahagian III Bahagian yang berikut:
 
@@ -134,9 +160,7 @@ Bahagtan
 
 ## MEMANCARKAN DARI MALAYSIA
 
-Lesen untuk
-
-11A. (1) Tiada seorang pun boleh— menerima di Malaysia
+Lesen untuk 11A. (1) Tiada seorang pun boleh— menerima di Malaysia
 
 (a) menerima di Malaysia apa-apa bahan. dan untuk memancar- penyiaran asing secara langsung dari; atau kan dari Malaysia.
 
@@ -210,15 +234,23 @@ dalam perenggan 13(1)(a), dengan menggantikan perkataan "memasang" dengan perkat
 
 (ii) dengan menggantikan perkataan "atau premis" dengan perkataan ", premis, pesawat udara, vesel, keretapi atau kenderaan".
 
-Pemotongan
+<!-- marginal: Pemotongan -->
 
-13. Seksyen 15 Akta ibu adalah dipotong. seksyen 15
+13. Seksyen 15 Akta ibu adalah dipotong.
 
-Pemotongan
+<!-- marginal: seksyen 15 -->
 
-14. Seksyen 16 Akta ibu adalah dipotong. seksyen 16. Pindaan
+<!-- marginal: Pemotongan -->
 
-15. Seksyen 18 Akta ibu adalah dipinda— seksyen 18
+14. Seksyen 16 Akta ibu adalah dipotong.
+
+<!-- marginal: seksyen 16. -->
+
+<!-- marginal: Pindaan -->
+
+15. Seksyen 18 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 18 -->
 
 (a) dengan menggantikan perkataan "Bahagian V atau melanggar syarat-syarat dan sekatan-sekatan tertakluk kepada atau atas mana apa-apa lesen
 
@@ -228,7 +260,7 @@ telah dikeluarkan" dengan perkataan "Akta ini bagi maksud Bahagian ini dengan me
 
 (b) dengan menggantikan perkataan "dikenakan denda tidak melebihi seribu lima ratus" dengan perkataan "didenda tidak melebihi tiga ribu".
 
-Pindaan tajuk
+<!-- marginal: Pindaan tajuk -->
 
 16. Tajuk Bahagian V Akta ibu adalah dipinda dengan
 
@@ -238,13 +270,17 @@ menggantikan perkataan "PELBAGAI" dengan perkataan
 
 ## "KUASA-KUASA AM".
 
-Pemotongan
+<!-- marginal: Pemotongan -->
 
-17. Seksyen 19 Akta ibu adalah dipotong. seksyen 19
+17. Seksyen 19 Akta ibu adalah dipotong.
 
-Pindaan
+<!-- marginal: seksyen 19 -->
 
-18. Seksyen 21 Akta ibu adalah dipinda— seksyen 21.
+<!-- marginal: Pindaan -->
+
+18. Seksyen 21 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 21. -->
 
 (a) dalam subseksyen (1), dengan menggantikan perkataan "syarikat, firma, orang atau orang-orang" dengan perkataan "orang";
 
@@ -260,9 +296,33 @@ Pindaan
 
 <!-- page 10 -->
 
-19. Akta ibu adalah dipinda dengan memasukkan selepas baru 21A, seksyen 21 seksyen yang berikut: 21B dan 21c.
+<!-- marginal: Seksyen -->
 
-Lesen 21 A. (1) Tiada seorang pun boleh mengedarkan untuk apa-apa bahan penyiaran bagi maksud mana- mengedar mana perkhidmatan penyiaran yang ditetapkan bahan penyiaran. dalam Jadual melainkan di bawah atau mengikut suatu lesen yang diberikan oleh Menteri di bawah seksyen ini.
+19. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 21A, -->
+
+seksyen 21 seksyen yang berikut:
+
+<!-- marginal: 21B dan 21c. -->
+
+<!-- marginal: Lesen -->
+
+21 A. (1) Tiada seorang pun boleh mengedarkan
+
+<!-- marginal: untuk -->
+
+apa-apa bahan penyiaran bagi maksud mana-
+
+<!-- marginal: mengedar -->
+
+mana perkhidmatan penyiaran yang ditetapkan
+
+<!-- marginal: bahan -->
+
+<!-- marginal: penyiaran. -->
+
+dalam Jadual melainkan di bawah atau mengikut suatu lesen yang diberikan oleh Menteri di bawah seksyen ini.
 
 (2) Lesen yang diberikan di bawah seksyen ini hendaklah dalam apa-apa bentuk yang ditetapkan dan hendaklah sah bagi apa-apa tempoh yang ditentukan oleh Menteri.
 
@@ -276,7 +336,31 @@ Lesen 21 A. (1) Tiada seorang pun boleh mengedarkan untuk apa-apa bahan penyiara
 
 (6) Mana-mana orang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.
 
-Kuasa 2lB. (1) Menteri hendaklah mempunyai kuasa Menteri untuk menggantung atau membatalkan mana- untuk meng- mana lesen yang diberikan di bawah seksyen gantung 11A, 14, 21 atau 2lA. atau membatal- kan. (2) Menteri hendaklah, sebelum menggantung atau membatalkan apa-apa lesen di bawah subseksyen (1), memberi pemegang lesen notis bertulis—
+<!-- marginal: Kuasa -->
+
+2lB. (1) Menteri hendaklah mempunyai kuasa
+
+<!-- marginal: Menteri -->
+
+untuk menggantung atau membatalkan mana-
+
+<!-- marginal: untuk -->
+
+<!-- marginal: meng- -->
+
+mana lesen yang diberikan di bawah seksyen
+
+<!-- marginal: gantung -->
+
+11A, 14, 21 atau 2lA.
+
+<!-- marginal: atau -->
+
+<!-- marginal: membatal- -->
+
+<!-- marginal: kan. -->
+
+(2) Menteri hendaklah, sebelum menggantung atau membatalkan apa-apa lesen di bawah subseksyen (1), memberi pemegang lesen notis bertulis—
 
 (a) akan niatnya untuk berbuat sedemikian;
 
@@ -284,21 +368,51 @@ Kuasa 2lB. (1) Menteri hendaklah mempunyai kuasa Menteri untuk menggantung atau 
 
 (c) meminta pemegang lesen memberikan sebab, dalam tempoh tiga puluh hari dari tarikh penerimaan notis itu, kenapa lesennya tidak patut digantung atau dibatalkan.
 
-Kuasa untuk 21c. (1) Walau apa pun peruntukan seksyen 4, mengecuali- 1 IA, 14 dan 2lA, Menteri boleh, melalui perintah kan. yang disiarkan dalam Warta, mengecualikan mana-mana orang atau kelas orang daripada kesemua atau mana-mana peruntukan Akta ini, tertakluk kepada apa-apa syarat yang difikirkan oleh Menteri patut dikenakan.
+<!-- marginal: Kuasa untuk -->
+
+21c. (1) Walau apa pun peruntukan seksyen 4,
+
+<!-- marginal: mengecuali- -->
+
+1 IA, 14 dan 2lA, Menteri boleh, melalui perintah
+
+<!-- marginal: kan. -->
+
+yang disiarkan dalam Warta, mengecualikan mana-mana orang atau kelas orang daripada kesemua atau mana-mana peruntukan Akta ini, tertakluk kepada apa-apa syarat yang difikirkan oleh Menteri patut dikenakan.
 
 (2) Menteri boleh pada bila-bila masa, melalui perintah yang disiarkan dalam Warta, membatalkan apa-apa perintah yang dibuat di bawah subseksyen (1) jika dia berpuas hati bahawa pengecualian itu tidak lagi perlu diberi.".
 
 <!-- page 12 -->
 
-Bahagian
+<!-- marginal: Bahagian -->
 
-20. Akta ibu adalah dipinda dengan memasukkan selepas baru VI. seksyen 21c Bahagian yang berikut:
+20. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru VI. -->
+
+seksyen 21c Bahagian yang berikut:
 
 ## "BAHAGIAN VI
 
 ## PENGUATKUASAAN
 
-Kuasa untuk 2ID. (1) Seseorang pegawai diberikuasa boleh, masuk, pada bila-bila masa, memasuki mana-mana menggele- dah dan tempat atau premis, dan memberhentikan dan menyita. memasuki mana-mana pesawat udara, vesel, keretapi atau kenderaan—
+<!-- marginal: Kuasa untuk -->
+
+2ID. (1) Seseorang pegawai diberikuasa boleh,
+
+<!-- marginal: masuk, -->
+
+pada bila-bila masa, memasuki mana-mana
+
+<!-- marginal: menggele- -->
+
+<!-- marginal: dah dan -->
+
+tempat atau premis, dan memberhentikan dan
+
+<!-- marginal: menyita. -->
+
+memasuki mana-mana pesawat udara, vesel, keretapi atau kenderaan—
 
 (a) jika pegawai diberikuasa itu mempunyai sebab-sebab yang munasabah untuk mempercayai bahawa—
 
@@ -322,7 +436,23 @@ yang didapati olehnya telah, sedang atau hampir akan digunakan dalam pelakuan ke
 
 (2) Mana-mana orang yang enggan membenarkan kemasukan atau menggalang atau menghalang mana-mana pegawai diberikuasa yang sedang menjalankan mana-mana kuasanya di bawah seksyen ini adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.
 
-Penggele- 2lE. (1) Bagi maksud menjalankan kuasa dahan dan di bawah seksyen 21D, seseorang pegawai penyitaan dengan dan diberikuasa boleh memasuki mana-mana tempat, tanpa waran premis, pesawat udara, vesel, keretapi atau kenderaan dengan kekerasan, jika perlu.
+<!-- marginal: Penggele- -->
+
+2lE. (1) Bagi maksud menjalankan kuasa
+
+<!-- marginal: dahan dan -->
+
+di bawah seksyen 21D, seseorang pegawai
+
+<!-- marginal: penyitaan -->
+
+<!-- marginal: dengan dan -->
+
+diberikuasa boleh memasuki mana-mana tempat,
+
+<!-- marginal: tanpa waran -->
+
+premis, pesawat udara, vesel, keretapi atau kenderaan dengan kekerasan, jika perlu.
 
 (2) Walau apa pun subseksyen (1), tiada seorang pun pegawai diberikuasa boleh memasuki mana-mana tempat, premis, pesawat udara, vesel, keretapi atau kenderaan tanpa suatu waran geledah yang dikeluarkan oleh seorang Majistret melainkan jika dia mempunyai sebab-sebab yang munasabah untuk mempercayai bahawa oleh sebab kelengahan dalam mendapatkan suatu waran geledah—
 
@@ -332,13 +462,35 @@ Penggele- 2lE. (1) Bagi maksud menjalankan kuasa dahan dan di bawah seksyen 21D,
 
 (b) tujuan kemasukan itu mungkin terkecewa.
 
-Senarai
+<!-- marginal: Senarai -->
 
-2IF. Pegawai diberikuasa hendaklah menye- barang yang diakan suatu senarai barang-barang yang disita disita. di bawah seksyen 21D dan dengan serta-merta menyerahkan suatu salinan yang ditandatangani olehnya kepada penghuni tempat atau premis itu atau kepada pemunya pesawat udara, vesel, keretapi atau kenderaan itu atau kepada ejen atau pekerjanya.
+2IF. Pegawai diberikuasa hendaklah menye-
 
-Pelucutha-
+<!-- marginal: barang yang -->
 
-21G. (1) Bagi maksud seksyen ini, "pegawai kan alat yang bertanggungjawab" ertinya pegawai yang terima siaran bertanggungjawab bagi Bahagian, dalam radio, dll. Kementerian Penerangan, yang bertanggungjawab ke atas perkara-perkara yang berkaitan dengan penguatkuasaan Akta ini.
+diakan suatu senarai barang-barang yang disita
+
+<!-- marginal: disita. -->
+
+di bawah seksyen 21D dan dengan serta-merta menyerahkan suatu salinan yang ditandatangani olehnya kepada penghuni tempat atau premis itu atau kepada pemunya pesawat udara, vesel, keretapi atau kenderaan itu atau kepada ejen atau pekerjanya.
+
+<!-- marginal: Pelucutha- -->
+
+21G. (1) Bagi maksud seksyen ini, "pegawai
+
+<!-- marginal: kan alat -->
+
+yang bertanggungjawab" ertinya pegawai yang
+
+<!-- marginal: terima -->
+
+<!-- marginal: siaran -->
+
+bertanggungjawab bagi Bahagian, dalam
+
+<!-- marginal: radio, dll. -->
+
+Kementerian Penerangan, yang bertanggungjawab ke atas perkara-perkara yang berkaitan dengan penguatkuasaan Akta ini.
 
 (2) Mana-mana alat terima siaran radio atau alat terima siaran televisyen atau apa-apa peralatan atau radas lain yang disita dalam menjalankan apa-apa kuasa di bawah Akta ini boleh dilucuthak.
 
@@ -376,23 +528,73 @@ boleh dengan sendiri atau melalui mana-mana orang yang diberikuasa olehnya secar
 
 yang disifatkan sebagai dilucuthak hendaklah dilupuskan mengikut apa-apa cara yang difikirkan sesuai oleh pegawai yang bertanggungjawab.
 
-Kuasa untuk 2lH. (1) Apabila mana-mana pegawai diberi- menglak kuasa mendapati bahawa adalah tidak praktik untuk memindahkan dari tempat ia dijumpai, mana-mana alat terima siaran radio atau alat terima siaran televisyen atau apa-apa peralatan atau radas lain yang disita olehnya dalam menjalankan kuasanya di bawah Akta ini, disebabkan oleh rupabentuk, saiz atau amaunnya, dia boleh menglak alat terima siaran radio atau alat terima siaran televisyen atau apa-apa peralatan atau radas lain itu.
+<!-- marginal: Kuasa untuk -->
+
+2lH. (1) Apabila mana-mana pegawai diberi-
+
+<!-- marginal: menglak -->
+
+kuasa mendapati bahawa adalah tidak praktik untuk memindahkan dari tempat ia dijumpai, mana-mana alat terima siaran radio atau alat terima siaran televisyen atau apa-apa peralatan atau radas lain yang disita olehnya dalam menjalankan kuasanya di bawah Akta ini, disebabkan oleh rupabentuk, saiz atau amaunnya, dia boleh menglak alat terima siaran radio atau alat terima siaran televisyen atau apa-apa peralatan atau radas lain itu.
 
 (2) Mana-mana orang yang tak diberikuasa yang memecahkan, mengusik atau merosakkan apa-apa lak atau memindahkan mana-mana alat terima siaran radio atau alat terima siaran televisyen atau apa-apa peralatan atau radas lain atau cuba atau menyebabkan yang sedemikian dibuat, adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua- duanya.
 
-Kuasa untuk 21I. (1) Seseorang pegawai diberikuasa boleh, menghendaki dengan notis bertulis, menghendaki mana-mana buku. daftar orang mengemukakan kepadanya apa-apa buku, dan dokumen lain di- daftar atau dokumen lain yang ada dalam milikan, kemukakan. jagaan atau di bawah kawalan orang itu atau yang berada dalam kuasa orang itu untuk dikemukakan.
+<!-- marginal: Kuasa untuk -->
+
+21I. (1) Seseorang pegawai diberikuasa boleh,
+
+<!-- marginal: menghendaki -->
+
+dengan notis bertulis, menghendaki mana-mana
+
+<!-- marginal: buku. daftar -->
+
+orang mengemukakan kepadanya apa-apa buku,
+
+<!-- marginal: dan dokumen -->
+
+<!-- marginal: lain di- -->
+
+daftar atau dokumen lain yang ada dalam milikan,
+
+<!-- marginal: kemukakan. -->
+
+jagaan atau di bawah kawalan orang itu atau yang berada dalam kuasa orang itu untuk dikemukakan.
 
 (2) Jika seseorang gagal untuk mematuhi notis di bawah subseksyen (1), maka dia adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.
 
 <!-- page 18 -->
 
-Kuasa untuk 21J. (1) Seseorang pegawai diberikuasa menghendaki yang membuat penyiasatan di bawah Akta maklumat dan ini hendaklah mempunyai kuasa untuk memenksa mendapatkan maklumat, sama ada secara orang. lisan atau bertulis, daripada mana-mana orang yang tahu akan fakta dan hal keadaan kes yang sedang disiasat itu.
+<!-- marginal: Kuasa untuk -->
+
+21J. (1) Seseorang pegawai diberikuasa
+
+<!-- marginal: menghendaki -->
+
+yang membuat penyiasatan di bawah Akta
+
+<!-- marginal: maklumat -->
+
+<!-- marginal: dan -->
+
+ini hendaklah mempunyai kuasa untuk
+
+<!-- marginal: memenksa -->
+
+mendapatkan maklumat, sama ada secara
+
+<!-- marginal: orang. -->
+
+lisan atau bertulis, daripada mana-mana orang yang tahu akan fakta dan hal keadaan kes yang sedang disiasat itu.
 
 (2) Mana-mana orang yang, apabila dikehendaki oleh seorang pegawai diberikuasa supaya memberikan maklumat di bawah seksyen ini, enggan mematuhi kehendak sedemikian atau mengatakan sebagai benar apa- apa maklumat yang diketahuinya atau yang dia ada sebab untuk mempercayai adalah palsu, tidak benar atau tidak betul, secara keseluruhannya atau sebahagiannya, adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.
 
 (3) Apabila maklumat yang diberikan di bawah subseksyen (2) dibuktikan sebagai palsu, tidak benar atau tidak betul, keseluruhannya atau sebahagiannya, maka tidaklah boleh dijadikan suatu pembelaan dengan mengatakan bahawa maklumat itu atau mana-mana bahagiannya telah disalahtafsirkan atau diberikan dengan tidak sengaja atau tanpa niat jenayah atau fraud.
 
-(4) Seseorang pegawai diberikuasa yang membuat penyiasatan di bawah Akta ini boleh menjalankan mana-mana atau segala kuasa yang N.M.B. diberikan oleh seksyen 111 Kanun Acara Jenayah,
+(4) Seseorang pegawai diberikuasa yang membuat penyiasatan di bawah Akta ini boleh menjalankan mana-mana atau segala kuasa yang
+
+<!-- marginal: N.M.B. -->
+
+diberikan oleh seksyen 111 Kanun Acara Jenayah,
 
 ## Bab 6
 
@@ -400,7 +602,15 @@ dan seksyen 112 hingga 116 dan seksyen 119 Kanun itu hendaklah terpakai bagi per
 
 <!-- page 19 -->
 
-Kuasa untuk 21 K. (1) Seseorang pegawai diberikuasa boleh meng- mengkompaun apa-apa kesalahan di bawah— kompaun
+<!-- marginal: Kuasa untuk -->
+
+21 K. (1) Seseorang pegawai diberikuasa boleh
+
+<!-- marginal: meng- -->
+
+mengkompaun apa-apa kesalahan di bawah—
+
+<!-- marginal: kompaun -->
 
 (a) Bahagian II, IIIA dan VI;
 
@@ -434,17 +644,39 @@ siaran televisyen atau apa-apa peralatan atau radas lain telah disita, maka alat
 
 (5) Jika amaun yang dinyatakan dalam tawaran untuk mengkompaun tidak dibayar dalam masa yang ditetapkan dalam tawaran itu atau dalam apa-apa masa lanjutan yang diberikan oleh pegawai diberikuasa itu, maka pendakwaan bagi kesalahan itu boleh dimulakan pada bila- bila masa selepas itu terhadap orang yang kepadanya tawaran untuk mengkompaun telah dibuat.
 
-Kuasa untuk 2lL. Seseorang pegawai diberikuasa, yang mendakwa berpangkat tidak rendah daripada Penolong Pegawai Penguatkuasa, boleh hadir dan mengendalikan apa-apa pendakwaan bagi apa- apa kesalahan yang dilakukan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawah Akta ini.".
+<!-- marginal: Kuasa untuk -->
 
-Bahagian
+2lL. Seseorang pegawai diberikuasa, yang
 
-21. Akta ibu adalah dipinda dengan memasukkan selepas baru VII, seksyen 2lL Bahagian yang berikut:
+<!-- marginal: mendakwa -->
+
+berpangkat tidak rendah daripada Penolong Pegawai Penguatkuasa, boleh hadir dan mengendalikan apa-apa pendakwaan bagi apa- apa kesalahan yang dilakukan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawah Akta ini.".
+
+<!-- marginal: Bahagian -->
+
+21. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru VII, -->
+
+seksyen 2lL Bahagian yang berikut:
 
 ## "BAHAGIAN VII
 
 ## PELBAGAI
 
-Kesalahan 2lM. (1) Jika suatu pertubuhan perbadanan oleh rnelakukan suatu kesalahan di bawah Akta ini pertubuhan perbadanan. atau mana-mana peraturan yang dibuat di bawah Akta ini, maka mana-mana orang yang pada masa pelakuan kesalahan itu ialah pengarah, pengurus, setiausaha atau pegawai lain yang
+<!-- marginal: Kesalahan -->
+
+2lM. (1) Jika suatu pertubuhan perbadanan
+
+<!-- marginal: oleh -->
+
+rnelakukan suatu kesalahan di bawah Akta ini
+
+<!-- marginal: pertubuhan -->
+
+<!-- marginal: perbadanan. -->
+
+atau mana-mana peraturan yang dibuat di bawah Akta ini, maka mana-mana orang yang pada masa pelakuan kesalahan itu ialah pengarah, pengurus, setiausaha atau pegawai lain yang
 
 <!-- page 21 -->
 
@@ -468,23 +700,47 @@ seumpamanya dalam pertubuhan perbadanan itu atau yang berupa bertindak atas apa-
 
 (c) oleh pekerja ejennya dalam masa penggajian pekerja itu dengan ejennya atau selainnya bagi pihak ejennya.
 
-Perlmdungan 2lN. Tiada apa-apa tindakan, guaman, terhadap pendakwaan atau presiding lain boleh dibawa, presiding undang- dimulakan atau diadakan di dalam mana-mana undang. mahkamah terhadap mana-mana pegawai diberikuasa berhubungan atau berkenaan dengan apa-apa perbuatan yang dilakukan atau yang ditinggalkan daripada dilakukan olehnya bagi tujuan menguatkuasakan Akta ini melainkan jika dibuktikan bahawa perbuatan itu dilakukan atau ditinggalkan daripada dilakukan dengan niat jahat dan tanpa kepercayaan yang munasabah bahawa ia adalah perlu bagi melaksanakan tujuan yang dimaksudkan olehnya.
+<!-- marginal: Perlmdungan -->
 
-Tanggung 21o. (1) Kerajaan tidak boleh dikehendaki rugi. menggantikan apa-apa kerosakan yang berlaku kepada sesuatu alat terima siaran radio atau alat terima siaran televisyen atau apa-apa peralatan atau radas lain akibat daripada kemasukan, penggeledahan atau penyitaan di bawah Akta ini, melainkan jika kerosakan itu telah disebabkan oleh pengabaian atau kesalahan yang disengajakan oleh seorang pegawai awam.
+2lN. Tiada apa-apa tindakan, guaman,
+
+<!-- marginal: terhadap -->
+
+pendakwaan atau presiding lain boleh dibawa,
+
+<!-- marginal: presiding -->
+
+<!-- marginal: undang- -->
+
+dimulakan atau diadakan di dalam mana-mana
+
+<!-- marginal: undang. -->
+
+mahkamah terhadap mana-mana pegawai diberikuasa berhubungan atau berkenaan dengan apa-apa perbuatan yang dilakukan atau yang ditinggalkan daripada dilakukan olehnya bagi tujuan menguatkuasakan Akta ini melainkan jika dibuktikan bahawa perbuatan itu dilakukan atau ditinggalkan daripada dilakukan dengan niat jahat dan tanpa kepercayaan yang munasabah bahawa ia adalah perlu bagi melaksanakan tujuan yang dimaksudkan olehnya.
+
+<!-- marginal: Tanggung -->
+
+21o. (1) Kerajaan tidak boleh dikehendaki
+
+<!-- marginal: rugi. -->
+
+menggantikan apa-apa kerosakan yang berlaku kepada sesuatu alat terima siaran radio atau alat terima siaran televisyen atau apa-apa peralatan atau radas lain akibat daripada kemasukan, penggeledahan atau penyitaan di bawah Akta ini, melainkan jika kerosakan itu telah disebabkan oleh pengabaian atau kesalahan yang disengajakan oleh seorang pegawai awam.
 
 (2) Jika berlaku apa-apa pertikaian tentang amaun pampasan berkenaan dengan apa-apa kerosakan yang disebabkan sedemikian, maka amaun pampasan itu hendaklah ditentukan dan diputuskan secara terus oleh suatu mahkamah Majistret.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-22. Subseksyen 22(1) Akta ibu adalah dipinda, dalam seksyen 22. teks bahasa Inggeris, dengan menggantikan perkataan "authroized" dan "licesed" masing-masingnya dengan perkataan "authorized" dan "licensed".
+22. Subseksyen 22(1) Akta ibu adalah dipinda, dalam
+
+<!-- marginal: seksyen 22. -->
+
+teks bahasa Inggeris, dengan menggantikan perkataan "authroized" dan "licesed" masing-masingnya dengan perkataan "authorized" dan "licensed".
 
 <!-- page 23 -->
 
-<!-- marginal: Pindaan -->
+Pindaan
 
-23. Seksyen 23 Akta ibu adalah dipinda—
-
-<!-- marginal: seksyen 23. -->
+23. Seksyen 23 Akta ibu adalah dipinda— seksyen 23.
 
 (a) dalam teks bahasa kebangsaan, dalam perenggan
 
@@ -514,7 +770,7 @@ Pindaan
 
 televisyen, termasuklah suatu antena penerima; dan".
 
-Jadual baru.
+<!-- marginal: Jadual baru. -->
 
 24. Akta ibu adalah dipinda dengan memasukkan selepas seksyen 23 Jadual yang berikut:
 

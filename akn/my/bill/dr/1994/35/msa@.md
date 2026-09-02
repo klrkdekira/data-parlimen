@@ -16,9 +16,7 @@ I
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan mula berkuatkuasa.
-
-2. Tafsiran.
+1. Tajuk ringkas dan mula berkuatkuasa. 2. Tafsiran.
 
 ## BAHAGIAN
 
@@ -28,19 +26,7 @@ II
 
 ## DAN PERUNTUKAN-PERUNTUKAN PELETAKHAKAN
 
-3. Perbadanan.
-
-4. Peruntukan-peruntukan peletakhakan.
-
-5. Pemegangan permulaan Kerajaan dalam Perbadanan.
-
-6. Pelaburan Kerajaan dalam penerbitan selanjutnya syer Perbadanan.
-
-7. Kakitangan.
-
-8. Kerajaan Malaysia akan memegang kesemua syer dalam Perbadanan.
-
-9. Menteri Kewangan hendaklah memegang syer.
+3. Perbadanan. 4. Peruntukan-peruntukan peletakhakan. 5. Pemegangan permulaan Kerajaan dalam Perbadanan. 6. Pelaburan Kerajaan dalam penerbitan selanjutnya syer Perbadanan. 7. Kakitangan. 8. Kerajaan Malaysia akan memegang kesemua syer dalam Perbadanan. 9. Menteri Kewangan hendaklah memegang syer.
 
 ## BAHAGIAN
 
@@ -66,9 +52,7 @@ III
 
 17. Pentadbiran terus harta alih.
 
-18. Pentadbiran harta pusaka yang kecil nilainya.
-
-19. Pembayaran bagi penyenggaraan orang belum dewasa.
+18. Pentadbiran harta pusaka yang kecil nilainya. 19. Pembayaran bagi penyenggaraan orang belum dewasa.
 
 20. Wang tak dibahagikan.
 
@@ -176,7 +160,9 @@ Amanah Raya 1994.
 
 <!-- page 6 -->
 
-Tafsiran. 2. Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—
+<!-- marginal: Tafsiran. -->
+
+2. Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—
 
 "amanah" termasuklah kewasian atau hal tadbir; dan "pemegang amanah" hendaklah ditafsirkan sewajarnya;
 
@@ -244,13 +230,21 @@ II
 
 ## PERUNTUKAN-PERUNTUKAN PELETAKHAKAN
 
-Perbadanan.
+<!-- marginal: Perbadanan. -->
 
 3. Maka hendaklah ada suatu Perbadanan yang diperbadankan di bawah Akta Syarikat 1965 di bawah nama "Amanah Raya Berhad".
 
-Peruntukan-
+<!-- marginal: Peruntukan- -->
 
-4. (1) Tertakluk kepada Akta ini, Menteri boleh, dari peruntukan semasa ke semasa, melalui perintah yang disiarkan peletakhakan, dalam Warta, menetapkan suatu tarikh peletakhakan dan pada tarikh itu segala harta, hak dan liabiliti Pemegang Amanah Raya dan Kerajaan Malaysia berkenaan dengan pentadbiran amanah dan harta pusaka yang ditentukan oleh Menteri dalam perintah itu hendaklah, menurut kuasa Akta ini, dipindahkan kepada dan terletakhak pada Perbadanan tanpa apa jua pun pemindahhakan, penyerahhakan atau pemindahmilikan.
+4. (1) Tertakluk kepada Akta ini, Menteri boleh, dari
+
+<!-- marginal: peruntukan -->
+
+semasa ke semasa, melalui perintah yang disiarkan
+
+<!-- marginal: peletakhakan, -->
+
+dalam Warta, menetapkan suatu tarikh peletakhakan dan pada tarikh itu segala harta, hak dan liabiliti Pemegang Amanah Raya dan Kerajaan Malaysia berkenaan dengan pentadbiran amanah dan harta pusaka yang ditentukan oleh Menteri dalam perintah itu hendaklah, menurut kuasa Akta ini, dipindahkan kepada dan terletakhak pada Perbadanan tanpa apa jua pun pemindahhakan, penyerahhakan atau pemindahmilikan.
 
 (2) Tiap-tiap harta yang terletakhak pada Perbadanan menurut kuasa subseksyen (1) hendaklah terletakhak sedemikian pada Perbadanan dengan hakmilik, harta pusaka atau kepentingan dan pemegangan yang serupa sebagaimana ia terletakhak atau dipegang sebelum sahaja tarikh peletakhakan itu.
 
@@ -296,17 +290,43 @@ bila-bila masa dan atas apa-apa terma tentang penguntukan sebagaimana yang diara
 
 (3) Syer yang diterbitkan di bawah seksyen ini-—
 
-(a) hendaklah mempunyai nilai nominal sebagaimana yang diarahkan oleh Menteri Kewangan; dan
+(a) hendaklah mempunyai nilai
+
+<!-- marginal: nominal -->
+
+sebagaimana yang diarahkan oleh Menteri Kewangan; dan
 
 (b) hendaklah diterbitkan sebagai berbayar penuh dan dikira bagi maksud-maksud Akta Syarikat 1965 seolah-olah ia berbayar menurut kuasa pembayaran nilai nominalnya kepada Perbadanan.
 
 (4) Apa-apa dividen atau jumlah wang lain yang diterima oleh Menteri Kewangan menurut kuasa seksyen ini hendaklah dibayar ke dalam Kumpulan Wang Disatukan.
 
-Pelaburan
+<!-- marginal: Pelaburan -->
 
-6. (1) Penerbitan selanjutnya ' akan syer dalam Kerajaan Perbadanan hanya boleh dibuat sebagaimana yang dalam penerbitan diarahkan oleh Menteri Kewangan pada bila-bila masa selanjutnya selepas berunding dengan Menteri. syer Perbadanan.
+6. (1) Penerbitan selanjutnya ' akan syer dalam
 
-(2) Apa-apa perbelanjaan yang dilakukan oleh Menteri Kewangan berikutan dengan peruntukan ' seksyen ini hendaklah dikira sebagai pelaburan dan Akta 61. dibenarkan di bawah subperenggan 8(3)(a)(iv) Akta Prosedur Kewangan 1957.
+<!-- marginal: Kerajaan -->
+
+Perbadanan hanya boleh dibuat sebagaimana yang
+
+<!-- marginal: dalam -->
+
+<!-- marginal: penerbitan -->
+
+diarahkan oleh Menteri Kewangan pada bila-bila masa
+
+<!-- marginal: selanjutnya -->
+
+selepas berunding dengan Menteri.
+
+<!-- marginal: syer -->
+
+<!-- marginal: Perbadanan. -->
+
+(2) Apa-apa perbelanjaan yang dilakukan oleh Menteri Kewangan berikutan dengan peruntukan ' seksyen ini hendaklah dikira sebagai pelaburan dan
+
+<!-- marginal: Akta 61. -->
+
+dibenarkan di bawah subperenggan 8(3)(a)(iv) Akta Prosedur Kewangan 1957.
 
 (3) Apa-apa dividen atau jumlah wang lain yang diterima oleh Menteri Kewangan di bawah seksyen ini hendaklah dibayar ke dalam Kumpulan Wang Disatukan.
 
@@ -364,11 +384,21 @@ Kewangan sebagaimana diperbadankan di bawah Akta Menteri Kewangan (Pemerbadanan)
 
 wakilnya pada mana-mana atau semua mesyuarat pemegang syer Perbadanan atau mana-mana golongan pemegang syer, dan mana-mana orang yang diberikuasa sedemikian adalah berhak untuk menjalankan kuasa yang sama, bagi pihak Menteri Kewangan, sebagaimana yang Menteri Kewangan boleh menjalankannya jika dia hadir sendiri pada mesyuarat atau mesyuarat- mesyuarat itu.
 
-Menteri
+<!-- marginal: Menteri -->
 
-9. (1) Menteri Kewangan tidaklah boleh— Kewangan hendaklah
+9. (1) Menteri Kewangan tidaklah boleh—
 
-(a) menjual atau selainnya melupuskan mana- memegang syer. mana syer dalam Perbadanan yang dipegang olehnya kepada mana-mana orang; atau
+<!-- marginal: Kewangan -->
+
+<!-- marginal: hendaklah -->
+
+(a) menjual atau selainnya melupuskan mana-
+
+<!-- marginal: memegang -->
+
+<!-- marginal: syer. -->
+
+mana syer dalam Perbadanan yang dipegang olehnya kepada mana-mana orang; atau
 
 (b) membenarkan syer dalam Perbadanan diuntukkan kepada mana-mana orang.
 
@@ -384,11 +414,19 @@ III
 
 ## FUNGSI, KUASA DAN KEWAJIPAN PERBADANAN
 
-Objektif.
+<!-- marginal: Objektif. -->
 
 10. Objektif Perbadanan adalah seperti berikut:
 
-(a) untuk menjadi suatu organisasi yang menunjukkan rasa tanggungjawab sosial dengan memberikan perhatian kepada kepentingan komuniti Malaysia dan dengan berusaha untuk mengambil kira atau menggalakkan perkara-perkara ini apabila ia boleh berbuat sedemikian; dan
+(a) untuk menjadi suatu organisasi yang menunjukkan rasa tanggungjawab sosial dengan memberikan perhatian
+
+<!-- marginal: kepada -->
+
+kepentingan komuniti Malaysia dan dengan berusaha untuk mengambil kira
+
+<!-- marginal: atau -->
+
+menggalakkan perkara-perkara ini apabila ia boleh berbuat sedemikian; dan
 
 (b) untuk menjadi secekap dan mencapai keuntungan sebagaimana syarikat-syarikat amanah persendirian.
 
@@ -438,7 +476,11 @@ kelas yang ia dibenarkan untuk menerima, dan boleh dilantik sedemikian sama ada 
 
 (2) Walaupun pada hakikatnya mana-mana wasiat, berian atau suratcara lain yang mewujudkan amanah atau kewajipan membuat peruntukan bagi atau mengarahkan atau menghendaki perlantikan dua pemegang amanah atau lebih, Perbadanan boleh dilantik dan bertindak dengan sah sebagai pemegang amanah tunggal.
 
-(3) Jika Perbadanan telah dilantik sebagai pemegang amanah apa-apa amanah, seorang pemegang amanah bersama boleh bersara daripada amanah itu di bawah Akta 208. dan mengikut seksyen 43 Akta Pemegang Amanah 1949, walaupun tidak terdapat lebih daripada dua orang pemegang amanah dan tanpa apa-apa persetujuan yang dikehendaki oleh seksyen itu.
+(3) Jika Perbadanan telah dilantik sebagai pemegang amanah apa-apa amanah, seorang pemegang amanah bersama boleh bersara daripada amanah itu di bawah
+
+<!-- marginal: Akta 208. -->
+
+dan mengikut seksyen 43 Akta Pemegang Amanah 1949, walaupun tidak terdapat lebih daripada dua orang pemegang amanah dan tanpa apa-apa persetujuan yang dikehendaki oleh seksyen itu.
 
 (4) Perbadanan tidak boleh dilantik sama ada sebagai pemegang amanah baru atau tambahan jika wasiat, berian atau suratcara lain yang wujudkan amanah atau kewajipan itu mengandungi arahan yang bertentangan, melainkan jika Mahkamah memerintahkan selainnya.
 
@@ -494,25 +536,69 @@ melantik Perbadanan, jika alasan yang mencukupi ditunjukkan, sebagai ganti kesem
 
 <!-- page 16 -->
 
-dengan apa-apa perbuatan atau keingkaran berhubungan dengan harta pusaka atau harta amanah itu selepas tarikh perintah itu selain daripada perbuatan atau keingkarannya sendiri atau perbuatan atau keingkaran orang yang selain daripada dirinya yang ke atas kelakuannya dia adalah bertanggungjawab di sisi undang-undang.
+dengan apa-apa perbuatan atau keingkaran berhubungan dengan harta pusaka atau harta amanah itu selepas tarikh perintah itu selain daripada perbuatan
 
-Perbadanan
+<!-- marginal: atau -->
 
-15. Dalam hal-hal yang berikut, iaitu— boleh memohon
+keingkarannya sendiri atau perbuatan atau keingkaran orang yang selain daripada dirinya yang ke atas kelakuannya dia adalah bertanggungjawab di sisi undang-undang.
 
-(a) jika mana-mana orang yang telah menerima bagi mendapatka pemberian surat kuasa mentadbir pemberian mengabaikan, dalam tempoh tiga bulan dari apabila pemberi tarikh pemberian itu, untuk memberikan gagal apa-apa jaminan yang dia dikehendaki mengambil memberikan menurut undang-undang; atau surat kuasa memadbir.
+<!-- marginal: Perbadanan -->
+
+15. Dalam hal-hal yang berikut, iaitu—
+
+<!-- marginal: boleh -->
+
+<!-- marginal: memohon -->
+
+(a) jika mana-mana orang yang telah menerima
+
+<!-- marginal: bagi -->
+
+<!-- marginal: mendapatka -->
+
+pemberian surat kuasa mentadbir
+
+<!-- marginal: pemberian -->
+
+mengabaikan, dalam tempoh tiga bulan dari
+
+<!-- marginal: apabila -->
+
+<!-- marginal: pemberi -->
+
+tarikh pemberian itu, untuk memberikan
+
+<!-- marginal: gagal -->
+
+apa-apa jaminan yang dia dikehendaki
+
+<!-- marginal: mengambil -->
+
+memberikan menurut undang-undang; atau
+
+<!-- marginal: surat kuasa -->
+
+<!-- marginal: memadbir. -->
 
 (b) jika seseorang pentadbir telah gagal untuk mengambil pemberian surat kuasa mentadbir dalam tempoh yang munasabah selepas perintah dibuat bagi pemberian untuk mengeluarkan,
 
 Perbadanan boleh memohon kepada Mahkamah untuk mengetepikan perintah bagi pemberian itu dan supaya memberikan surat kuasa mentadbir harta pusaka itu kepada dirinya,
 
-Perbadanan
+<!-- marginal: Perbadanan -->
 
 16. (1) Perbadanan boleh, sebaik sahaja
 
 <!-- marginal: ia -->
 
-boleh mengetahui atas apa-apa keterangan yang difikirkannya mengambil milik harta. mencukupi bahawa mana-mana orang telah meninggal dunia tak berwasiat dengan meninggalkan harta di Malaysia, dengan serta-merta mengambil milik harta itu dan memperuntukkan bagi jagaan selamatnya sehingga surat kuasa mentadbir diberikan oleh Mahkamah.
+<!-- marginal: boleh -->
+
+mengetahui atas apa-apa keterangan yang difikirkannya
+
+<!-- marginal: mengambil -->
+
+<!-- marginal: milik harta. -->
+
+mencukupi bahawa mana-mana orang telah meninggal dunia tak berwasiat dengan meninggalkan harta di Malaysia, dengan serta-merta mengambil milik harta itu dan memperuntukkan bagi jagaan selamatnya sehingga surat kuasa mentadbir diberikan oleh Mahkamah.
 
 (2) Mana-mana orang yang tanpa kuasa atau alasan yang sah mengalihkan atau cuba mengalihkan mana- mana bahagian harta itu atau memusnahkan, menyembunyikan atau enggan menyerahkan harta itu kepada Perbadanan apabila diminta, adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda
 
@@ -598,13 +684,25 @@ maka Perbadanan hendaklah mentadbirkan harta pusaka itu di bawah seksyen 17.
 
 <!-- page 20 -->
 
-(2) Jika prosiding telah dimulakan di mana-mana Mahkamah bagi pentadbiran sesuatu harta pusaka dan oleh sebab kecilnya nilai harta pusaka itu Mahkamah mendapati bahawa harta pusaka itu boleh ditadbirkan dengan lebih ekonomi lagi oleh Perbadanan berbanding dengan oleh Mahkamah atau bahawa atas apa-apa sebab lain adalah suaimanfaat harta pusaka itu ditadbirkan oleh Perbadanan dan tidak oleh Mahkamah, maka Mahkamah boleh memerintahkan supaya harta pusaka itu ditadbirkan oleh Perbadanan, dan sesudah itu, tertakluk kepada apa-apa arahan Mahkamah, seksyen 17 hendaklah terpakai seolah-olah pentadbiran harta pusaka itu telah diakujanji oleh Perbadanan di bawah seksyen
+(2) Jika prosiding telah dimulakan di mana-mana Mahkamah bagi pentadbiran sesuatu harta pusaka dan oleh sebab kecilnya nilai harta pusaka itu Mahkamah mendapati bahawa harta pusaka itu boleh ditadbirkan dengan lebih ekonomi lagi oleh Perbadanan berbanding dengan oleh Mahkamah atau bahawa atas apa-apa sebab lain adalah suaimanfaat harta pusaka itu ditadbirkan oleh Perbadanan dan tidak oleh Mahkamah, maka Mahkamah boleh memerintahkan supaya harta pusaka itu ditadbirkan oleh Perbadanan, dan sesudah itu, tertakluk kepada apa-apa arahan Mahkamah, seksyen 17 hendaklah terpakai seolah-olah pentadbiran harta pusaka itu telah diakujanji oleh Perbadanan di bawah seksyen 17.
 
-17.
+<!-- marginal: Pembayaran -->
 
-Pembayaran
+19. (1) Jika apa-apa harta yang nilainya tidak melebihi
 
-19. (1) Jika apa-apa harta yang nilainya tidak melebihi bagi dua puluh ribu ringgit dipegang oleh Perbadanan, sama penyenggaraan orang belum ada menurut kuasa suatu pemberian surat kuasa dewasa. mentadbir kepada Perbadanan atau menurut kuasa kuasa-kuasa yang diberikan kepada Perbadanan oleh Akta ini, dan harta itu dipegang oleh Perbadanan atas amanah bagi mana-mana orang bagi apa jua pun kepentingan, sama ada terletakhak atau kontingen, maka, tertakluk kepada apa-apa kepentingan atau gadaian terdahulu yang menyentuh harta itu, Perbadanan boleh, mengikut budi bicaranya sendiri, semasa mana- mana orang sedemikian belum dewasa, membuat pembayaran daripada kesemua atau mana-mana bahagian pendapatan dan wang modal harta itu sebagaimana yang munasabah dalam segala hal keadaan itu bagi penyenggaraan, pendidikan atau faedah orang itu.
+<!-- marginal: bagi -->
+
+dua puluh ribu ringgit dipegang oleh Perbadanan, sama
+
+<!-- marginal: penyenggaraan -->
+
+<!-- marginal: orang belum -->
+
+ada menurut kuasa suatu pemberian surat kuasa
+
+<!-- marginal: dewasa. -->
+
+mentadbir kepada Perbadanan atau menurut kuasa kuasa-kuasa yang diberikan kepada Perbadanan oleh Akta ini, dan harta itu dipegang oleh Perbadanan atas amanah bagi mana-mana orang bagi apa jua pun kepentingan, sama ada terletakhak atau kontingen, maka, tertakluk kepada apa-apa kepentingan atau gadaian terdahulu yang menyentuh harta itu, Perbadanan boleh, mengikut budi bicaranya sendiri, semasa mana- mana orang sedemikian belum dewasa, membuat pembayaran daripada kesemua atau mana-mana bahagian pendapatan dan wang modal harta itu sebagaimana yang munasabah dalam segala hal keadaan itu bagi penyenggaraan, pendidikan atau faedah orang itu.
 
 (2) Jika nilai harta yang dipegang sedemikian melebihi empat puluh ribu ringgit, Perbadanan boleh membuat pembayaran daripada wang modal sehingga takat dua puluh ribu ringgit.
 
@@ -656,13 +754,25 @@ sahabat wakil mana-mana orang belum dewasa bagi maksud memulakan apa-apa guaman 
 
 menambah seseorang orang belum dewasa sebagai defendan bersama, maka Mahkarnah boleh, atas usulnya sendiri atau atas permohonan Perbadanan atau mana- mana orang lain, melantik Perbadanan untuk bertindak sebagai penjaga kepada orang belum dewasa itu bagi maksud-maksud guaman atau prosiding itu.
 
-(4) Mahkamah tidaklah boleh membuat apa-apa perintah di bawah seksyen ini melainkan jika Perbadanan telah diberikan peluang untuk didengar dan peruntukan dibuat sehingga memuaskan hati Mahkamah bagi pembayaran kos Perbadanan atas dasar kos antara peguamcara dan klien dan bagi pembayaran apa-apa kos yang mungkin diawardkan terhadap atau diarahkan supaya dibayar oleh Perbadanan.
+(4) Mahkamah tidaklah boleh membuat apa-apa perintah di bawah seksyen ini melainkan
+
+<!-- marginal: jika -->
+
+Perbadanan telah diberikan peluang untuk didengar dan peruntukan dibuat sehingga memuaskan hati Mahkamah bagi pembayaran kos Perbadanan atas dasar kos antara peguamcara dan klien dan bagi pembayaran apa-apa kos yang mungkin diawardkan terhadap atau diarahkan supaya dibayar oleh Perbadanan.
 
 (5) Dalam apa-apa guaman atau prosiding yang dalamnya Perbadanan dilantik di bawah seksyen ini untuk bertindak bagi pihak seseorang orang belum dewasa, tiada kos boleh didapatkan daripada Perbadanan.
 
-(6) Dalam seksyen ini "guaman" ertinya sesuatu tindakan atau guaman bagi pentadbiran harta pusaka mana-mana orang yang mati atau sesuatu amanah, dan P.U. (A) "prosiding" ertinya prosiding di bawah Kaedah-Kaedah 50/80. Mahkamah Tinggi 1980.
+(6) Dalam seksyen ini "guaman" ertinya sesuatu tindakan atau guaman bagi pentadbiran harta pusaka mana-mana orang yang mati atau sesuatu amanah, dan
 
-Agensi.
+<!-- marginal: P.U. (A) -->
+
+"prosiding" ertinya prosiding di bawah Kaedah-Kaedah
+
+<!-- marginal: 50/80. -->
+
+Mahkamah Tinggi 1980.
+
+<!-- marginal: Agensi. -->
 
 22. Maka adalah sah bagi Perbadanan untuk bertindak di bawah apa-apa suratikatan atau suratcara yang melaluinya Perbadanan dilantik sebagai ejen atau wakil bagi mana-mana orang, dan segala kuasa yang diberikan kepada Perbadanan oleh mana-mana suratikatan atau suratcara itu bolehlah dijalankan oleh mana-mana pegawai Perbadanan yang ditetapkan oleh Perbadanan bagi maksud itu:
 
@@ -730,7 +840,15 @@ bagi pelaburan yang dipegang oleh Perbadanan selepas
 
 tarikh yang ditetapkan, hendaklah menjadi satu Kumpulan Wang Bersama dan hendaklah dilaburkan dalam apa-apa pelaburan yang dibenarkan oleh undang- undang bagi pelaburan wang amanah.
 
-(2) Apa-apa amaun yang merupakan baki kredit Kumpulan Wang Bersama yang ditubuhkan di bawah seksyen 10 Akta Pemegang Amanah Raya 1950 Akta 247. sebagaimana berkuatkuasa sebelum mula berkuatkuasanya Akta ini hendaklah pada tarikh yang ditetapkan dipindahkan kepada Kumpulan Wang Bersama.
+(2) Apa-apa amaun yang merupakan baki kredit Kumpulan Wang Bersama yang ditubuhkan di bawah seksyen 10 Akta Pemegang Amanah Raya 1950
+
+<!-- marginal: Akta 247. -->
+
+sebagaimana berkuatkuasa sebelum
+
+<!-- marginal: mula -->
+
+berkuatkuasanya Akta ini hendaklah pada tarikh yang ditetapkan dipindahkan kepada Kumpulan Wang Bersama.
 
 (3) Tertakluk kepada yang diperuntukkan kemudian daripada ini, apa-apa pelaburan wang modal kepunyaan mana-mana harta pusaka yang dipegang oleh Perbadanan selepas tarikh yang ditetapkan, bolehlah diambil alih dan dimasukkan ke dalam akaun pelaburan Kumpulan Wang Bersama.
 
@@ -738,11 +856,23 @@ tarikh yang ditetapkan, hendaklah menjadi satu Kumpulan Wang Bersama dan hendakl
 
 (5) Apa-apa pelaburan yang dibuat atas akaun Kumpulan Wang Bersama atau dimasukkan ke dalam akaun pelaburannya tidaklah boleh dibuat atau dipegang atas akaun atau menjadi kepunyaan mana-mana harta pusaka tertentu.
 
-Ketakmasukan
+<!-- marginal: Ketakmasukan -->
 
-26. Yang berikut tidaklah termasuk atau menjadi ke dalam sebahagian daripada Kumpulan Wang Bersama: Kumpulan Wang Bersama.
+26. Yang berikut tidaklah termasuk atau menjadi
 
-(a) wang yang secara nyata atau secara implikasi yang perlu adalah ditegah daripada
+<!-- marginal: ke dalam -->
+
+sebahagian daripada Kumpulan Wang Bersama:
+
+<!-- marginal: Kumpulan -->
+
+<!-- marginal: Wang -->
+
+<!-- marginal: Bersama. -->
+
+(a) wang yang secara nyata atau secara implikasi yang perlu adalah ditegah
+
+<!-- marginal: daripada -->
 
 <!-- page 25 -->
 
@@ -784,15 +914,35 @@ Dengan syarat bahawa Perbadanan boleh, mengikut budi bicaranya, mengkreditkan bu
 
 <!-- page 26 -->
 
-Liabiliti
+<!-- marginal: Liabiliti -->
 
-28. (1) Perbadanan adalah bertanggungan untuk Perbadanan. membayar apa-apa tuntutan yang sah ke atas Kumpulan Wang Bersama yang tidak dapat dijelaskan daripada Kumpulan Wang Bersama atau daripada Kumpulan Wang Rizab Am sama ada tuntutan itu berhubungan dengan wang modal atau pendapatan.
+28. (1) Perbadanan adalah bertanggungan untuk
+
+<!-- marginal: Perbadanan. -->
+
+membayar apa-apa tuntutan yang sah ke atas Kumpulan Wang Bersama yang tidak dapat dijelaskan daripada Kumpulan Wang Bersama atau daripada Kumpulan Wang Rizab Am sama ada tuntutan itu berhubungan dengan wang modal atau pendapatan.
 
 (2) Wang modal yang boleh dituntut oleh mana- mana harta pusaka termasuklah wang daripada harta pusaka itu yang dimasukkan ke dalam Kumpulan Wang Bersama dan jika pelaburan telah diambil alih di bawah subseksyen 25(3) ia termasuklah juga nilai pelaburan itu sebagaimana yang ditentukan mengikut peruntukan subseksyen 25(4).
 
-Kumpulan
+<!-- marginal: Kumpulan -->
 
-29. (1) Apa-apa amaun yang merupakan baki kredit Wang Rizab kumpulan wang rizab yang ditubuhkan di bawah Am. subseksyen 14(4) Akta Pemegang Amanah Raya 1950 Akta 247. sebagaimana berkuatkuasa sebelum mula berkuatkuasanya Akta ini hendaklah pada tarikh yang ditetapkan dipindahkan kepada kredit Kumpulan Wang Rizab Am.
+29. (1) Apa-apa amaun yang merupakan baki kredit
+
+<!-- marginal: Wang Rizab -->
+
+kumpulan wang rizab yang ditubuhkan di bawah
+
+<!-- marginal: Am. -->
+
+subseksyen 14(4) Akta Pemegang Amanah Raya 1950
+
+<!-- marginal: Akta 247. -->
+
+sebagaimana berkuatkuasa sebelum
+
+<!-- marginal: mula -->
+
+berkuatkuasanya Akta ini hendaklah pada tarikh yang ditetapkan dipindahkan kepada kredit Kumpulan Wang Rizab Am.
 
 (2) Perbadanan boleh mengarahkan supaya mana- mana bahagian baki pada kredit akaun pendapatan Kumpulan Wang Bersama pada akhir tahun yang terdahulu (selepas ditolak bunga yang kena dibayar kepada benefisiari dan tanggungan sah yang lain) dibawa kepada kredit Kurnpulan Wang Rizab Am.
 
@@ -842,13 +992,17 @@ Kumpulan Wang Pelaburan Kumpulan itu adalah tidak tak konsisten dengan terma-ter
 
 (4) Pelaburan yang dibuat daripada wang yang menjadi sebahagian daripada sesuatu Kumpulan Wang Pelaburan Kumpulan tidaklah boleh dibuat atas akaun atau menjadi kepunyaan mana-mana harta pusaka tertentu.
 
-Arahan
+<!-- marginal: Arahan -->
 
 31. Menteri Kewangan dan Menteri boleh, dalam meluluskan sesuatu Kumpulan Wang Pelaburan Kumpulan, menimbangkan dan memberikan arahan- arahan kepada Perbadanan berkenaan dengan mana- mana perkara yang berikut:
 
 (a) kebolehcairan Kumpulan Wang Pelaburan Kumpulan itu;
 
-(b) pembayaran atau penguntukan pendapatan daripada Kumpulan Wang Pelaburan Kumpulan itu;
+(b) pembayaran atau penguntukan pendapatan daripada Kumpulan Wang
+
+<!-- marginal: Pelaburan -->
+
+Kumpulan itu;
 
 (c) pemegangan modal Kumpulan Wang Pelaburan Kumpulan itu;
 
@@ -858,11 +1012,29 @@ Arahan
 
 (f) apa-apa perkara lain yang difikirkan perlu oleh Menteri Kewangan dan Menteri bagi perlindungan pelabur-pelabur Kumpulan Wang Pelaburan Kumpulan itu.
 
-Kumpulan
+<!-- marginal: Kumpulan -->
 
-32. Sesuatu Kumpulan Wang Pelaburan Kumpulan Wang tidaklah boleh dikira— Pelaburan Kumpulan
+32. Sesuatu Kumpulan Wang Pelaburan Kumpulan
 
-(a) sebagai suatu perkongsian antara orang yang bukanlah perkongsian berhak kepada bunga dalam sesuatu Kumpulan dsb. Wang Pelaburan Kumpulan; atau
+<!-- marginal: Wang -->
+
+tidaklah boleh dikira—
+
+<!-- marginal: Pelaburan -->
+
+<!-- marginal: Kumpulan -->
+
+(a) sebagai suatu perkongsian antara orang yang
+
+<!-- marginal: bukanlah -->
+
+<!-- marginal: perkongsian -->
+
+berhak kepada bunga dalam sesuatu Kumpulan
+
+<!-- marginal: dsb. -->
+
+Wang Pelaburan Kumpulan; atau
 
 (b) sebagai suatu skim yang mengeluarkan bunga dalam pengertian Penggal V Bahagian IV Akta Syarikat 1965.
 
@@ -938,15 +1110,37 @@ suratcara amanah atau wasiat atau menurut kuasa pemberian surat kuasa mentadbir 
 
 <!-- page 30 -->
 
-ribu ringgit, maka tidaklah perlu bagi Perbadanan untuk memberikan notis mengenai niatnya untuk membahagikan harta pusaka itu atau menghendaki mana-mana orang yang berkepentingan untuk menghantar butir-butir mengenai tuntutannya terhadap harta pusaka itu, tetapi Perbadanan boleh dengan serta- merta terus memindahhak atau membahagikan harta pusaka itu atau mana-mana bahagiannya kepada atau di kalangan orang-orang yang berhak kepadanya, dengan mengambil kira tuntutan itu sahaja, sama ada formal atau tidak, yang mengenainya Perbadanan telah diberikan notis ketika itu, dan Perbadanan tidaklah, berkenaan dengan harta yang dipindahhak atau dibahagikan sedemikian, bertanggungan kepada mana- mana orang yang mengenai tuntutannya Perbadanan telah tidak diberikan notis pada masa pemindahhakan atau pembahagian itu; tetapi tiada apa-apa jua dalam seksyen ini boleh—
+ribu ringgit, maka tidaklah perlu bagi Perbadanan untuk memberikan notis mengenai niatnya
+
+<!-- marginal: untuk -->
+
+membahagikan harta pusaka itu atau menghendaki mana-mana orang yang berkepentingan untuk menghantar butir-butir mengenai tuntutannya terhadap harta pusaka itu, tetapi Perbadanan boleh dengan serta- merta terus memindahhak atau membahagikan harta pusaka itu atau mana-mana bahagiannya kepada atau di kalangan orang-orang yang berhak kepadanya, dengan mengambil kira tuntutan itu sahaja, sama ada formal atau tidak, yang mengenainya Perbadanan telah diberikan notis ketika itu, dan Perbadanan tidaklah, berkenaan dengan harta yang dipindahhak atau dibahagikan sedemikian, bertanggungan kepada mana- mana orang yang mengenai tuntutannya Perbadanan telah tidak diberikan notis pada masa pemindahhakan atau pembahagian itu; tetapi tiada apa-apa jua dalam seksyen ini boleh—
 
 (a) menjejaskan hak mana-mana orang untuk mengikuti harta yang merupakan harta yang sama, ke dalam tangan mana-mana orang, selain daripada seorang pembeli, yang mungkin telah menerimanya; atau
 
 (b) membebaskan Perbadanan daripada apa-apa obligasi untuk membuat carian yang serupa dengan carian yang seorang bakal pembeli patut membuat atau mendapatkan.
 
-Pendaftaran
+<!-- marginal: Pendaftaran -->
 
-36. Permohonan oleh Perbadanan bagi pendaftaran Perbadanan sebagai anggota atau pemegang syer dalam buku mana- bukanlah notis mana syarikat atau kemasukan nama Perbadanan dalam mengenai buku mana-mana syarikat tidaklah menjadi notis amanah. mengenai sesuatu amanah, dan tiada syarikat berhak untuk membantah kemasukan nama Perbadanan dalam bukunya semata-mata oleh sebab bahawa Perbadanan mungkin atau ialah seorang pemegang amanah, dan, dalam pengurusan harta, hakikat bahawa orang itu atau salah seorang daripada orang yang dengannya ia berurusan ialah Perbadanan tidaklah dengan sendirinya menjadi notis mengenai suatu amanah.
+36. Permohonan oleh Perbadanan bagi pendaftaran
+
+<!-- marginal: Perbadanan -->
+
+sebagai anggota atau pemegang syer dalam buku mana-
+
+<!-- marginal: bukanlah -->
+
+<!-- marginal: notis -->
+
+mana syarikat atau kemasukan nama Perbadanan dalam
+
+<!-- marginal: mengenai -->
+
+buku mana-mana syarikat tidaklah menjadi notis
+
+<!-- marginal: amanah. -->
+
+mengenai sesuatu amanah, dan tiada syarikat berhak untuk membantah kemasukan nama Perbadanan dalam bukunya semata-mata oleh sebab bahawa Perbadanan mungkin atau ialah seorang pemegang amanah, dan, dalam pengurusan harta, hakikat bahawa orang itu atau salah seorang daripada orang yang dengannya ia berurusan ialah Perbadanan tidaklah dengan sendirinya menjadi notis mengenai suatu amanah.
 
 <!-- page 31 -->
 
@@ -1010,7 +1204,11 @@ berkenaan dengan—
 
 (c) prosedur dan prosiding berkenaan dengan apa- apa perkara di bawah seksyen 15 hingga 21;
 
-(d) apa-apa perkara berhubungan dengan Kumpulan Wang Pelaburan Kumpulan yang baginya arahan boleh diberikan di bawah seksyen 31; dan
+(d) apa-apa perkara berhubungan
+
+<!-- marginal: dengan -->
+
+Kumpulan Wang Pelaburan Kumpulan yang baginya arahan boleh diberikan di bawah seksyen 31; dan
 
 (e) apa-apa perkara lain secara amnya untuk memberikan kuatkuasa kepada objektif- objektif Akta ini.
 
@@ -1022,17 +1220,47 @@ berkenaan dengan—
 
 (3) Menteri boleh membuat apa-apa kaedah-kaedah yang difikirkannya perlu atau suaimanfaat bagi maksud menghapuskan apa-apa kesulitan yang disebabkan oleh mula berkuatkuasanya Akta ini dan apa-apa kaedah- kaedah itu boleh dibuat sedemikian supaya mempunyai kuatkuasa dari mula berkuatkuasanya Akta ini.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-41. Tertakluk kepada peruntukan-peruntukan Akta ini, memberikan Menteri boleh, dari semasa ke semasa, memberikan arahan. arahan yang berbentuk am yang tidak tak konsisten dengan peruntukan-peruntukan Akta ini tentang pelaksanaan fungsi-fungsi atau tugas-tugas dan penjalanan kuasa-kuasa Perbadanan.
+41. Tertakluk kepada peruntukan-peruntukan Akta ini,
 
-Perbadanan
+<!-- marginal: memberikan -->
 
-42. Tanpa menjejaskan kuasa Menteri untuk hendaklah memberikan arahan di bawah seksyen 41, Menteri menyiasat atas hendaklah juga mempunyai kuasa untuk mengarahkan arahan Perbadanan menyiasat apa-apa aduan yang dibuat oleh mana-mana anggota orang awam terhadap Perbadanan atau mana-mana pegawainya.
+Menteri boleh, dari semasa ke semasa, memberikan
 
-Pemansuhan
+<!-- marginal: arahan. -->
 
-43. (1) Akta Pemegang Amanah Raya 1950 dan segala dan kaedah-kaedah yang dibuat di bawahnya adalah kecualian. dimansuhkan.
+arahan yang berbentuk am yang tidak tak konsisten dengan peruntukan-peruntukan Akta ini tentang pelaksanaan fungsi-fungsi atau tugas-tugas dan penjalanan kuasa-kuasa Perbadanan.
+
+<!-- marginal: Perbadanan -->
+
+42. Tanpa menjejaskan kuasa Menteri untuk
+
+<!-- marginal: hendaklah -->
+
+memberikan arahan di bawah seksyen 41, Menteri
+
+<!-- marginal: menyiasat -->
+
+<!-- marginal: atas -->
+
+hendaklah juga mempunyai kuasa untuk mengarahkan
+
+<!-- marginal: arahan -->
+
+Perbadanan menyiasat apa-apa aduan yang dibuat oleh mana-mana anggota orang awam terhadap Perbadanan atau mana-mana pegawainya.
+
+<!-- marginal: Pemansuhan -->
+
+43. (1) Akta Pemegang Amanah Raya 1950 dan segala
+
+<!-- marginal: dan -->
+
+kaedah-kaedah yang dibuat di bawahnya adalah
+
+<!-- marginal: kecualian. -->
+
+dimansuhkan.
 
 <!-- page 33 -->
 

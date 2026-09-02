@@ -98,7 +98,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 atau gabungan mana-mana firma.”; dan
 
-(e) dalam subseksyen (7), dengan menggantikan perkataan “Pengerusi eksekutif” dengan perkataan “Pegawai eksekutif”.
+(e) dalam subseksyen (7), dengan menggantikan perkataan “Pengerusi eksekutif” dengan perkataan “Pegawai
+
+<!-- marginal: eksekutif”. -->
 
 <!-- page 5 -->
 

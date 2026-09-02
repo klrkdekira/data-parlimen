@@ -18,7 +18,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 2 -->
 
-## Schedule
+## SCHEDULE
 
 Purpose Title
 
@@ -190,7 +190,7 @@ B. 64 Ministry of Higher Education
 
 <!-- marginal: 13,846,253,700 -->
 
-Total
+## TOTAL
 
 <!-- marginal: 232,954,014,300 -->
 

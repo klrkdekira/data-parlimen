@@ -4,35 +4,47 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation 3. Application
 
-## Part II
+## PART II
 
-FUNCtIONS aND POWErS OF tHE COMMISSION
+## FUNCTIONS AND POWERS OF THE COMMISSION
 
 4. Functions and powers of the Commission
 
-## Part III
+## PART III
 
-DUtIES OF ENErGY CONSUMEr
+## DUTIES OF ENERGY CONSUMER
 
 5. Appointment of registered energy manager 6. Energy management system 7. Energy efficiency and conservation report 8. Energy audit 9. Energy audit report
 
-## Part IV
+## PART IV
 
 ## DUTIES OF PERSON IN CHARGE OF BUILDING
 
-10. Energy intensity label 11. Display of energy intensity label 12. Alteration, forgery, etc., of energy intensity label 13. Energy intensity performance 14. Energy audit report in respect of building 15. Energy efficiency improvement plan 16. Non-application of sections 13, 14 and 15
+10. Energy intensity label
+
+11. Display of energy intensity label
+
+12. Alteration, forgery, etc., of energy intensity label
+
+13. Energy intensity performance
+
+14. Energy audit report in respect of building
+
+15. Energy efficiency improvement plan
+
+16. Non-application of sections 13, 14 and 15
 
 <!-- page 3 -->
 
-## Part V
+## PART V
 
-PrOVISIONS rELatING tO ENErGY-USING PrODUCt
+## PROVISIONS RELATING TO ENERGY-USING PRODUCT
 
 17. Selling, etc., energy-using product
 
@@ -50,9 +62,9 @@ PrOVISIONS rELatING tO ENErGY-USING PrODUCt
 
 24. Duty to keep records and documents by registered manufacturer and registered importer
 
-## Part VI
+## PART VI
 
-rEGIStratION OF ENErGY MaNaGEr aND ENErGY aUDItOr
+## REGISTRATION OF ENERGY MANAGER AND ENERGY AUDITOR
 
 25. Requirement for registration of energy manager and energy auditor
 
@@ -66,7 +78,7 @@ rEGIStratION OF ENErGY MaNaGEr aND ENErGY aUDItOr
 
 30. Cancellation of certificate of registration of registered energy manager and registered energy auditor
 
-## Part VII
+## PART VII
 
 ## REGISTRATION OF TRAINING INSTITUTION
 
@@ -84,17 +96,59 @@ rEGIStratION OF ENErGY MaNaGEr aND ENErGY aUDItOr
 
 <!-- page 4 -->
 
-## Part VIII
+## PART VIII
 
-INFOrMatION GatHErING POWErS
+## INFORMATION GATHERING POWERS
 
-37. Review and audit of energy consumer, etc. 38. Power to require provision of information, etc. 39. Commission may retain documents 40. Access to records
+37. Review and audit of energy consumer, etc.
+
+38. Power to require provision of information, etc.
+
+39. Commission may retain documents
+
+40. Access to records
 
 ## Part IX
 
-ENFOrCEMENt
+## ENFORCEMENT
 
-41. Authorized officer 42. Authority card 43. Power of investigation 44. Power to enter premises and inspect, etc., document, record, etc. 45. Search and seizure with warrant 46. Search and seizure without warrant 47. Access to recorded information or computerized data, etc. 48. Tipping-off 49. Search warrant valid notwithstanding defects 50. List of seized documents, etc. 51. Forfeiture of seized documents, etc. 52. Release of seized documents, etc. 53. Cost of holding seized document, etc. 54. No cost or damages arising from seizure to be recoverable 55. Power to require attendance of persons acquainted with case 56. Obstruction 57. Evidence of agent provocateur admissible 58. Taking of samples 59. Destruction, concealment, mutilation and alteration of document, etc.
+41. Authorized officer
+
+42. Authority card
+
+43. Power of investigation
+
+44. Power to enter premises and inspect, etc., document, record, etc.
+
+45. Search and seizure with warrant
+
+46. Search and seizure without warrant
+
+47. Access to recorded information or computerized data, etc.
+
+48. Tipping-off
+
+49. Search warrant valid notwithstanding defects
+
+50. List of seized documents, etc.
+
+51. Forfeiture of seized documents, etc.
+
+52. Release of seized documents, etc.
+
+53. Cost of holding seized document, etc.
+
+54. No cost or damages arising from seizure to be recoverable
+
+55. Power to require attendance of persons acquainted with case
+
+56. Obstruction
+
+57. Evidence of agent provocateur admissible
+
+58. Taking of samples
+
+59. Destruction, concealment, mutilation and alteration of document, etc.
 
 <!-- page 5 -->
 
@@ -126,11 +180,11 @@ ENFOrCEMENt
 
 71. Saving
 
-## FIrSt SCHEDULE
+## FIRST SCHEDULE
 
 ## SECOND SCHEDULE
 
-## tHIrD SCHEDULE
+## THIRD SCHEDULE
 
 <!-- page 6 -->
 
@@ -142,9 +196,9 @@ An Act to regulate the efficient consumption of energy and conservation of energ
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
-PrELIMINarY
+## PRELIMINARY
 
 ### Short title and commencement
 
@@ -246,9 +300,9 @@ PrELIMINarY
 
 <!-- page 10 -->
 
-## Part II
+## PART II
 
-FUNCtIONS aND POWErS OF tHE COMMISSION
+## FUNCTIONS AND POWERS OF THE COMMISSION
 
 ### Functions and powers of the Commission
 
@@ -290,7 +344,7 @@ FUNCtIONS aND POWErS OF tHE COMMISSION
 
 (4) The functions and powers of the Commission under this Act are in addition to, and not in derogation of, the functions and powers of the Commission under the Energy Commission Act 2001.
 
-## Part III
+## PART III
 
 ## DUTIES OF ENERGY CONSUMER
 
@@ -394,7 +448,7 @@ the Commission may direct the energy consumer to rectify the energy audit report
 
 (10) Any energy consumer who fails to submit the energy audit report under subsection (2) or (8) commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit.
 
-## Part IV
+## PART IV
 
 ## DUTIES OF PERSON IN CHARGE OF BUILDING
 
@@ -506,9 +560,9 @@ the Commission may direct the person in charge of the building to rectify the en
 
 16. Sections 13, 14 and 15 shall not apply in respect of a building where the person in charge of the building is also an energy consumer to whom this Act applies.
 
-## Part V
+## PART V
 
-PrOVISIONS rELatING tO ENErGY-USING PrODUCt
+## PROVISIONS RELATING TO ENERGY-USING PRODUCT
 
 ### Selling, etc., energy-using product
 
@@ -626,9 +680,9 @@ PrOVISIONS rELatING tO ENErGY-USING PrODUCt
 
 (2) Any registered manufacturer or registered importer who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit.
 
-## Part VI
+## PART VI
 
-rEGIStratION OF ENErGY MaNaGEr aND ENErGY aUDItOr
+## REGISTRATION OF ENERGY MANAGER AND ENERGY AUDITOR
 
 ### Requirement for registration of energy manager and energy
 
@@ -726,9 +780,9 @@ rEGIStratION OF ENErGY MaNaGEr aND ENErGY aUDItOr
 
 (2) Upon cancellation of the certificate of registration, both the certificate of registration and practising certificate issued under subsections 27(3) and 28(3) respectively, shall cease to be valid from the date of the written notice issued by the Commission under subsection (1) and the energy manager or energy auditor shall not be allowed to file any fresh application to be registered under this Act.
 
-## Part VII
+## PART VII
 
-rEGIStratION OF traINING INStItUtION
+## REGISTRATION OF TRAINING INSTITUTION
 
 ### Requirement for registration of training institution
 
@@ -822,9 +876,9 @@ unless the training institution is registered under this Act and holds a valid p
 
 <!-- page 32 -->
 
-## Part VIII
+## PART VIII
 
-INFOrMatION GatHErING POWErS
+## INFORMATION GATHERING POWERS
 
 ### Review and audit of energy consumer, etc.
 
@@ -908,7 +962,7 @@ the Commission may, by written notice, direct that person—
 
 ## Part IX
 
-ENFOrCEMENt
+## ENFORCEMENT
 
 ### Authorized officer
 
@@ -1128,9 +1182,9 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding o
 
 any document, record, computerized data, digitalized data, plan, drawing, material, plant, equipment, machinery, goods, energy-using product, product, label, item or thing kept or maintained to defraud the authorized officer or the Commission or to prevent, delay or obstruct the carrying out of an investigation or the exercise of any power by the authorized officer or the Commission under this Act commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
-## Part X
+## PART X
 
-GENEraL
+## GENERAL
 
 ### Institution of prosecution
 
@@ -1308,7 +1362,7 @@ if the act was done in good faith and in a reasonable belief that it was necessa
 
 (2) Any energy-using product in respect of which a valid certificate of approval under the Electricity Supply Act 1990 has been issued before the date of the coming into operation of this Act shall, on the date of the coming into operation of this Act, be deemed to have been issued in its respect a certificate of energy efficiency under this Act until the date of the expiry of the certificate of approval, provided that an application for a certificate of energy efficiency in respect of the energy-using product has been made under this Act.
 
-## FIrSt SCHEDULE
+## FIRST SCHEDULE
 
 [Section 2]
 
@@ -1324,7 +1378,43 @@ if the act was done in good faith and in a reasonable belief that it was necessa
 
 <!-- page 56 -->
 
-5. Pattern fuel briquettes 6. Lignite or brown coal 7. Peat 8. Lignite briquettes 9. Liquefied natural gas (LNG) 10. Butane 11. Propane 12. Natural gas 13. Ethane 14. Methane 15. Solar photovoltaic 16. Solar thermal 17. Biogas 18. Biodiesel 19. Charcoal 20. Empty fruit bunch (EFB) 21. Fuelwood 22. Mesocarp fibre 23. Palm kernel shell (PKS)
+5. Pattern fuel briquettes
+
+6. Lignite or brown coal
+
+7. Peat
+
+8. Lignite briquettes
+
+9. Liquefied natural gas (LNG)
+
+10. Butane
+
+11. Propane
+
+12. Natural gas
+
+13. Ethane
+
+14. Methane
+
+15. Solar photovoltaic
+
+16. Solar thermal
+
+17. Biogas
+
+18. Biodiesel
+
+19. Charcoal
+
+20. Empty fruit bunch (EFB)
+
+21. Fuelwood
+
+22. Mesocarp fibre
+
+23. Palm kernel shell (PKS)
 
 ## SECOND SCHEDULE
 
@@ -1332,9 +1422,15 @@ if the act was done in good faith and in a reasonable belief that it was necessa
 
 ## ENERGY
 
-1. Electricity 2. Chilled water 3. Steam 4. Hot water
+1. Electricity
 
-## tHIrD SCHEDULE
+2. Chilled water
+
+3. Steam
+
+4. Hot water
+
+## THIRD SCHEDULE
 
 [Paragraph 3(1)(b)]
 
@@ -1348,7 +1444,7 @@ if the act was done in good faith and in a reasonable belief that it was necessa
 
 This Bill (“the proposed Act”) seeks to regulate the efficient consumption of energy and conservation of energy with the aim to improve and increase energy efficiency and to avoid waste of energy, and to provide for related matters.
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act deals with preliminary matters.
 
@@ -1358,13 +1454,13 @@ This Bill (“the proposed Act”) seeks to regulate the efficient consumption o
 
 5. Clause 3 contains the provision on the application of the proposed Act.
 
-## Part II
+## PART II
 
 6. Part II of the proposed Act deals with functions and powers of the Commission under the proposed Act.
 
 7. Clause 4 sets out the functions and powers of the Commission under the proposed Act. Some of the functions of the Commission is to advise the Minister on all matters relating to energy efficiency and conservation and to recommend to the Government policies, laws, actions and measures relating to energy efficiency and conservation. The Commission shall have the power to do all things expedient or reasonably necessary for or incidental to the performance of its functions under the proposed Act. This clause also provides that the functions and powers of the Commission under the proposed Act are in addition to, and not in derogation of, the functions and powers of the Commission under the Energy Commission Act 2001 [Act 610].
 
-## Part III
+## PART III
 
 8. Part III of the proposed Act deals with duties of an energy consumer.
 
@@ -1380,7 +1476,7 @@ This Bill (“the proposed Act”) seeks to regulate the efficient consumption o
 
 13. Clause 9 seeks to require the registered energy auditor appointed by the energy consumer to whom the proposed Act applies under subclause 8(2) of the proposed Act to prepare an energy audit report based on the energy audit conducted under subclause 8(1) of the proposed Act in accordance with the guidelines issued by the Commission. This clause requires the energy consumer to submit the energy audit report to the Commission.
 
-## Part IV
+## PART IV
 
 14. Part IV of the proposed Act deals with duties of a person in charge of a building.
 
@@ -1400,7 +1496,7 @@ This Bill (“the proposed Act”) seeks to regulate the efficient consumption o
 
 21. Clause 16 seeks to provide that clauses 13, 14 and 15 shall not apply in respect of a building where the person in charge of the building is also an energy consumer to whom the proposed Act applies.
 
-## Part V
+## PART V
 
 22. Part V of the proposed Act deals with provisions relating to energy-using product.
 
@@ -1422,7 +1518,7 @@ This Bill (“the proposed Act”) seeks to regulate the efficient consumption o
 
 <!-- page 60 -->
 
-## Part VI
+## PART VI
 
 31. Part VI of the proposed Act deals with registration of energy manager and energy auditor.
 
@@ -1438,7 +1534,7 @@ This Bill (“the proposed Act”) seeks to regulate the efficient consumption o
 
 37. Clause 30 seeks to provide for the circumstances whereby a certificate of registration issued to a registered energy manager and a registered energy auditor may be cancelled by the Commission by a written notice. Upon cancellation of the certificate of registration, both certificate of registration and practising certificate issued under subclause 27(3) and 28(3) respectively, shall cease to be valid from the date of the written notice issued by the Commission and the energy manager or energy auditor shall not be allowed to file any fresh application to be registered under the proposed Act.
 
-## Part VII
+## PART VII
 
 38. Part VII of the proposed Act deals with registration of training institutions.
 
@@ -1470,7 +1566,7 @@ This Bill (“the proposed Act”) seeks to regulate the efficient consumption o
 
 <!-- page 62 -->
 
-## Part IX
+## PART IX
 
 50. Part IX of the proposed Act deals with provisions relating to enforcement of the proposed Act.
 
@@ -1494,11 +1590,7 @@ This Bill (“the proposed Act”) seeks to regulate the efficient consumption o
 
 <!-- page 63 -->
 
-60. Clause 50 seeks to provide that where any document, record, computerized data, digitalized data, plan, drawing, material, plant, equipment, machinery, goods, energy-using product, product, label, item or thing is seized under
-
-## Part IX of the proposed Act, the authorized officer who effected the seizure shall
-
-as soon as practicable prepare a list of the document, record, computerized data, digitalized data, plan, drawing, material, plant, equipment, machinery, goods, energy-using product, product, label, item or thing seized and immediately deliver a copy of the list signed by him to the occupier of the premises which has been searched, or to his agent or servant, at the premises.
+60. Clause 50 seeks to provide that where any document, record, computerized data, digitalized data, plan, drawing, material, plant, equipment, machinery, goods, energy-using product, product, label, item or thing is seized under Part IX of the proposed Act, the authorized officer who effected the seizure shall as soon as practicable prepare a list of the document, record, computerized data, digitalized data, plan, drawing, material, plant, equipment, machinery, goods, energy-using product, product, label, item or thing seized and immediately deliver a copy of the list signed by him to the occupier of the premises which has been searched, or to his agent or servant, at the premises.
 
 61. Clause 51 deals with provision relating to the forfeiture of any document, record, computerized data, digitalized data, plan, drawing, material, plant, equipment, machinery, goods, energy-using product, product, label, item or thing seized under the proposed Act. This clause also seeks to provide that any document, record, computerized data, digitalized data, plan, drawing, material, plant, equipment, machinery, goods, energy-using product, product, label, item or thing forfeited or deemed forfeited shall be delivered to the authorized officer who shall dispose it in accordance with the directions of the Commission.
 
@@ -1520,7 +1612,7 @@ as soon as practicable prepare a list of the document, record, computerized data
 
 69. Clause 59 seeks to provide that any person who destroys, conceals, mutilates or alters, or sends or attempts to send or conspires with any other person to remove from his premises or send out of Malaysia any document, record, computerized data, digitalized data, plan, drawing, material, plant, equipment, machinery, goods, energy-using product, product, label, item or thing kept or maintained to defraud the authorized officer or the Commission or to prevent, delay or obstruct the carrying out of an investigation or the exercise of any power by the authorized officer or the Commission under the proposed Act, commits an offence.
 
-## Part X
+## PART X
 
 70. Part X of the proposed Act deals with general provisions.
 

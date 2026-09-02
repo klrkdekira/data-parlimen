@@ -12,15 +12,51 @@
 
 ## CHAPTER
 
-<!-- marginal: II -->
+II
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-3. Commencement of amendments to the Income Tax Act 1967 4. Amendment of section 6 5. Amendment of section 7 6. Deletion of section 11 7. Amendment of section 15A 8. Amendment of section 18 9. Deletion of section 31 10. Deletion of section 37 11. Amendment of section 38 12. Amendment of section 60c 13. Deletion of section 60e 14. Amendment of section 75 15. New section 75A 16. Amendment of section 82 17. New section 82A 18. Amendment of section 107A 19. Amendment of section 108 20. Amendment of section 111 21. Deletion of section 128 22. Amendment of section 131
+3. Commencement of amendments to the Income Tax Act 1967 4. Amendment of section 6 5. Amendment of section 7 6. Deletion of section 11 7. Amendment of section 15A 8. Amendment of section 18 9. Deletion of section 31
+
+10. Deletion of section 37
+
+11. Amendment of section 38
+
+12. Amendment of section 60c
+
+13. Deletion of section 60e
+
+14. Amendment of section 75
+
+15. New section 75A
+
+16. Amendment of section 82
+
+17. New section 82A
+
+18. Amendment of section 107A
+
+19. Amendment of section 108
+
+20. Amendment of section 111
+
+21. Deletion of section 128
+
+22. Amendment of section 131
 
 <!-- page 2 -->
 
-2 Bill 23. Amendment of Schedule 1 24. Amendment of Schedule 3 25. Amendment of Schedule 4 26. Amendment of Schedule 4A 27. Amendment of Schedule 4c 28. Amendment of Schedule 6 29. Amendment of Schedule 7A
+2 Bill 23. Amendment of Schedule 1 24. Amendment of Schedule 3
+
+25. Amendment of Schedule 4
+
+26. Amendment of Schedule 4A
+
+27. Amendment of Schedule 4c
+
+28. Amendment of Schedule 6
+
+29. Amendment of Schedule 7A
 
 ## CHAPTER
 
@@ -30,7 +66,9 @@ III
 
 30. Commencement of amendments to the Income Tax (Amendment) Act 2002
 
-31. Amendment of section 30 32. Amendment of section 31
+31. Amendment of section 30
+
+32. Amendment of section 31
 
 ## CHAPTER
 
@@ -38,7 +76,13 @@ IV
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
-33. Commencement of amendments to the Stamp Act 1949 34. Amendment of section 9 35. Amendment of section 47A 36. Amendment of First Schedule
+33. Commencement of amendments to the Stamp Act 1949
+
+34. Amendment of section 9
+
+35. Amendment of section 47A
+
+36. Amendment of First Schedule
 
 ## CHAPTER V
 
@@ -46,7 +90,13 @@ IV
 
 ## TAX ACT 1990
 
-37. Commencement of amendments to the Labuan Offshore Business Activity Tax Act 1990 38. Amendment of section 2 39. Amendment of section 16 40. New section 26
+37. Commencement of amendments to the Labuan Offshore Business Activity Tax Act 1990
+
+38. Amendment of section 2
+
+39. Amendment of section 16
+
+40. New section 26
 
 <!-- page 3 -->
 
@@ -72,7 +122,7 @@ Amendment of Acts
 
 ## CHAPTER
 
-<!-- marginal: II -->
+II
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
@@ -206,7 +256,7 @@ C is the amount of expenses to which subparagraph (l)(b)(ii) applies.".
 
 ### "Duty to keep documents
 
-<!-- marginal: for ascertaining chargeable -->
+### for ascertaining chargeable
 
 ### income and tax payable
 
@@ -412,7 +462,9 @@ Provided that where this paragraph applies to an individual, that individual mus
 
 <!-- page 14 -->
 
-14 Bill
+<!-- marginal: 14 -->
+
+Bill
 
 (h) in paragraph 8 —
 
@@ -526,15 +578,7 @@ Amendment of section 9
 
 (a) in item 22 by inserting after subitem (4) the following subitem:
 
-"(5) Being the security for
-
-<!-- marginal: The same duty as a -->
-
-securing the payment for
-
-<!-- marginal: LEASE"; and -->
-
-the provision of services or facilities or to other matters or things in connection with the lease of any immovable property
+"(5) Being the security for The same duty as a securing the payment for LEASE"; and the provision of services or facilities or to other matters or things in connection with the lease of any immovable property
 
 (b) in item 49 under the heading "Description of Instrument" —
 
@@ -612,7 +656,7 @@ This Bill seeks to amend the Income Tax Act 1967 ("Act 53"), the Income Tax (Ame
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-## Chapter II of this Bill seeks to amend the Income Tax Act 1967.
+Chapter II of this Bill seeks to amend the Income Tax Act 1967.
 
 2. Clause 4 seeks to delete paragraph 6(l)(g) of Act 53 to enable an approved operational headquarters company be exempt from tax.
 
@@ -714,13 +758,9 @@ These amendments shall have effect for the year of assessment 2003 and subsequen
 
 ## AMENDMENTS TO THE INCOME TAX (AMENDMENT) ACT 2002
 
-## Chapter III of this Bill seeks to amend the Income Tax (Amendment) Act 2002.
+Chapter III of this Bill seeks to amend the Income Tax (Amendment) Act 2002.
 
-20. Clause 31 seeks to amend paragraph
-
-<!-- marginal: 30(3)(d) of Act A1151. The proposed -->
-
-amendment is to provide for an additional deduction in respect of a handicapped individual. In addition, where the husband elects to be assessed in the wife's name under section 45A of Act 53, the wife will be given an additional deduction for her husband.
+20. Clause 31 seeks to amend paragraph 30(3)(d) of Act A1151. The proposed amendment is to provide for an additional deduction in respect of a handicapped individual. In addition, where the husband elects to be assessed in the wife's name under section 45A of Act 53, the wife will be given an additional deduction for her husband.
 
 This amendment shall have effect only for the year of assessment 2003.
 
@@ -730,7 +770,7 @@ This amendment shall have effect only for the year of assessment 2003.
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
-## Chapter IV of this Bill seeks to amend the Stamp Act 1949.
+Chapter IV of this Bill seeks to amend the Stamp Act 1949.
 
 22. Clause 34 seeks to amend subsection 9(l)(c) of Act 378. Prior to the amendment of paragraph 9(l)(c), failure by a banker, dealer or insurer to remit the amount due and collected on unstamped cheques, contract notes or policies of insurance within the stipulated time, would result in a payment of a further amount of five hundred ringgit. With the amendment, the said amount is reduced to two hundred ringgit.
 
@@ -754,9 +794,7 @@ This amendment shall have effect from 1 January 2003.
 
 ## AMENDMENTS TO THE LABUAN OPPSHORE BUSINESS ACTIYITY ACT 1990
 
-## Chapter V of this Bill seeks to amend the Labuan Offshore Business Activity
-
-Act 1990.
+Chapter V of this Bill seeks to amend the Labuan Offshore Business Activity Act 1990.
 
 25. Clause 38 seeks to amend section 2 of Act 445 on the definition of "offshore company" to include "a licensed Malaysian offshore bank" and "an offshore limited partnership".
 

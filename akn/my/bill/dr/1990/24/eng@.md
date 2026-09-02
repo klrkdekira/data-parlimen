@@ -8,9 +8,7 @@
 
 ## PRELIMINARY
 
-1. Short title, commencement and application.
-
-2. Interpretation.
+1. Short title, commencement and application. 2. Interpretation.
 
 ## PART II
 
@@ -22,15 +20,7 @@
 
 ## FUNCTIONS, DUTIES AND POWERS OF DIRECTOR GENERAL
 
-4. Functions and duties.
-
-5. Power of entry by warrant or otherwise, inspection, examination, seizure, etc.
-
-6. Powers of investigation.
-
-7. Admissibility of statement.
-
-8. Obstruction, etc. an offence.
+4. Functions and duties. 5. Power of entry by warrant or otherwise, inspection, examination, seizure, etc. 6. Powers of investigation. 7. Admissibility of statement. 8. Obstruction, etc. an offence.
 
 ## PARTIV
 
@@ -66,15 +56,15 @@
 
 <!-- page 2 -->
 
-<!-- marginal: PARTY -->
+## PARTY
 
-<!-- marginal: COMPETENT CONTROL -->
+## COMPETENT CONTROL
 
 23. Persons in charge.
 
 ## PART VI
 
-<!-- marginal: SUPPLY BY LICENSEE -->
+## SUPPLY BY LICENSEE
 
 24. Duty to supply on request. 25. Exceptions to duty to supply electricity. 26. Power to fix tariffs. 27. Power to recover expenses. 28. Power to require security. 29. Special agreement with respect to supply. 30. Determination of dispute. 31. Fixing of maximum charges forreselling electricity. 32. Charge for supply of electricity to be ascertained by apprcipriate meter.
 
@@ -86,15 +76,31 @@
 
 ## PART VIII
 
-<!-- marginal: ENQUIRY AND ARBITRATION -->
+## ENQUIRY AND ARBITRATION
 
-34. Procedure in relation to enquiry and arbitration. 35. Power of holding enquiry. 36. Arbitration.
+34. Procedure in relation to enquiry and arbitration. 35. Power of holding enquiry.
 
-<!-- marginal: PARTIX -->
+36. Arbitration.
 
-<!-- marginal: OFFENCES AND PENALTY -->
+## PARTIX
 
-37. Offences. 38. Disconnection of supply of energy. 39. Liabilities unaffected. 40. Onus of proof. 41. Compensation for damage. 42. Prosecution. 43. Compounding. 44. Reward for information.
+## OFFENCES AND PENALTY
+
+37. Offences.
+
+38. Disconnection of supply of energy.
+
+39. Liabilities unaffected.
+
+40. Onus of proof.
+
+41. Compensation for damage.
+
+42. Prosecution.
+
+43. Compounding.
+
+44. Reward for information.
 
 <!-- page 3 -->
 
@@ -208,7 +214,13 @@ may, by notification in the Gazette, appoint.
 
 "Director General" means the Director General of Electri- city Supply appointed under this Act;
 
-FM.S. "dishonestly" has the meaning assigned thereto in the Cap. 45 Penal Code;
+<!-- marginal: FM.S. -->
+
+"dishonestly" has the meaning assigned thereto in the
+
+<!-- marginal: Cap. 45 -->
+
+Penal Code;
 
 <!-- page 7 -->
 
@@ -308,11 +320,23 @@ generating station to another generating station or to a sub- station and includ
 
 <!-- page 10 -->
 
-<!-- marginal: PARTII -->
+## PARTII
 
-<!-- marginal: ESTABLISHMENT -->
+## ESTABLISHMENT
 
-3. (1) The Minister shall appoint an officer to be styled the The Director General of Director General of Electricity Supply. Electricity Supply. (2) There shall be appointed such numbers of Deputy Director Generals, Directors, Deputy Directors, Assistant Directors and such other officers as may be necessary for the purposes of this Act.
+3. (1) The Minister shall appoint an officer to be styled the
+
+<!-- marginal: The Director -->
+
+<!-- marginal: General of -->
+
+Director General of Electricity Supply.
+
+<!-- marginal: Electricity -->
+
+<!-- marginal: Supply. -->
+
+(2) There shall be appointed such numbers of Deputy Director Generals, Directors, Deputy Directors, Assistant Directors and such other officers as may be necessary for the purposes of this Act.
 
 (3) All Deputy Director Generals, Directors, Deputy Directors, Assistant Directors and all officers appointed under subsection (2) shall be subject to the direction and supervision of the Director General.
 
@@ -320,7 +344,13 @@ generating station to another generating station or to a sub- station and includ
 
 ## FUNCTIONS, DUTIES AND POWERS OF DIRECTOR GENERAL
 
-Functions 4. The Director General, Deputy Director Generals, and duties. Directors, Deputy Directors, Assistant Directors of Electricity Supply and such other officers shall carry out such functions and duties as follows:
+<!-- marginal: Functions -->
+
+4. The Director General, Deputy Director Generals,
+
+<!-- marginal: and duties. -->
+
+Directors, Deputy Directors, Assistant Directors of Electricity Supply and such other officers shall carry out such functions and duties as follows:
 
 (a) to issue Hcences under section 9 of this Act;
 
@@ -440,7 +470,13 @@ Provided that—
 
 (b) a statement made by any person berfore there is time to caution him shall not be rendered inadmissible in evidence merely by reason of his not having been cautioned if he is cautioned as soon as possible.
 
-Obstruction, 8. Any person who— etc. an offence.
+<!-- marginal: Obstruction, -->
+
+8. Any person who—
+
+<!-- marginal: etc. an -->
+
+<!-- marginal: offence. -->
 
 (a) refuses any Director or police officer not below the rank of Inspector access to any place;
 
@@ -512,13 +548,39 @@ Provided that no licence shall without the express approval of the Minister be f
 
 (d) such other matters as the Director General may consider necessary.
 
-10. (1) Whenever it appears to the licensee that it will be Power to enter on and necessary for him to exercise the powers conferred upon examine land. him by this Act in respect of any land other than State land for the purpose of constructing an installation or part of an installation, the licensee or any person authorized by him may, after giving not less than twenty-four hours notice to the occupier thereof, if any, enter upon the land, survey and take levels and do any other acts necessary to ascertain the suitability of the land, in so far as the same may be possible without causing daniage or disturbance.
+10. (1) Whenever it appears to the licensee that it will be
+
+<!-- marginal: Power to -->
+
+<!-- marginal: enter on and -->
+
+necessary for him to exercise the powers conferred upon
+
+<!-- marginal: examine land. -->
+
+him by this Act in respect of any land other than State land for the purpose of constructing an installation or part of an installation, the licensee or any person authorized by him may, after giving not less than twenty-four hours notice to the occupier thereof, if any, enter upon the land, survey and take levels and do any other acts necessary to ascertain the suitability of the land, in so far as the same may be possible without causing daniage or disturbance.
 
 (2) Nothing herein contained shall be deemed to authorize any person to cut down or clear away any vegetation or any fence or other erection or to enter into any building or upon any enclosure attached to any building.
 
 (3) In the case of reserved land, the notice under sub- section (1) may be given to the officer or any other person in charge of the reserved land or, in the absence of any such officer or person, to the District Land Administrator.
 
-Power to 11. (1) Subject to as hereinafter provided, whenever it is enter on necessary so to do for the purpose of installing any system of land for purposes of distribution of energy under this Act, a licensee may lay, construction. place or cany on, under or over any land, other than State land, such posts and other equipment as may be necessary or proper for the purposes of the licensed installation, as the case may be, and may take such other action as may be necessary to render the installation safe and efficient, paying full compensation in accordance with section 16 to all persons interested for any disturbance, damage or disability that rnay be caused thereby and such compensation may include an annual payrnent for land used for the purpose of the posts or other equipment.
+<!-- marginal: Power to -->
+
+11. (1) Subject to as hereinafter provided, whenever it is
+
+<!-- marginal: enter on -->
+
+necessary so to do for the purpose of installing any system of
+
+<!-- marginal: land for -->
+
+<!-- marginal: purposes of -->
+
+distribution of energy under this Act, a licensee may lay,
+
+<!-- marginal: construction. -->
+
+place or cany on, under or over any land, other than State land, such posts and other equipment as may be necessary or proper for the purposes of the licensed installation, as the case may be, and may take such other action as may be necessary to render the installation safe and efficient, paying full compensation in accordance with section 16 to all persons interested for any disturbance, damage or disability that rnay be caused thereby and such compensation may include an annual payrnent for land used for the purpose of the posts or other equipment.
 
 <!-- page 17 -->
 
@@ -556,7 +618,21 @@ Provided that any party who is dissatisfied with the District Land Administrator
 
 shall cause to be made on the register document of title relating to the land affected by the notice or order as the case may be, a note of the existence of the rights under such notice or order.
 
-12. (1) Subject to the approval of the Stale Authority and Supply lines and other to such conditions as the State Authority may deem proper, a equipment on licence may extend to authorizing the licensee to lay, place State land. or carry on, under or over State land, to the extent and in the manner specified in the licence, such supply lines and to
+12. (1) Subject to the approval of the Stale Authority and
+
+<!-- marginal: Supply lines -->
+
+<!-- marginal: and other -->
+
+to such conditions as the State Authority may deem proper, a
+
+<!-- marginal: equipment on -->
+
+licence may extend to authorizing the licensee to lay, place
+
+<!-- marginal: State land. -->
+
+or carry on, under or over State land, to the extent and in the manner specified in the licence, such supply lines and to
 
 <!-- page 19 -->
 
@@ -610,9 +686,17 @@ of the case, reject the application or make an order, either absolutely or subje
 
 Provided that the cost of executing the removal or altera- tion shall be defrayed by the person making the requisition.
 
-Saving of 15. (1) Nothing in section 11 or section 14 shall— wayleave
+<!-- marginal: Saving of -->
 
-(a) affect the right of a licensee to enter into an agree- agreements. ment, commnaly known as a wayleave agreement, with the owner or occupier of any land for the purpose of carrying a supply Hne across the land; or
+15. (1) Nothing in section 11 or section 14 shall—
+
+<!-- marginal: wayleave -->
+
+(a) affect the right of a licensee to enter into an agree-
+
+<!-- marginal: agreements. -->
+
+ment, commnaly known as a wayleave agreement, with the owner or occupier of any land for the purpose of carrying a supply Hne across the land; or
 
 <!-- page 21 -->
 
@@ -648,13 +732,29 @@ Saving of 15. (1) Nothing in section 11 or section 14 shall— wayleave
 
 meanings assigned thereto respectiveiy by the National Land Code (Penang and Malacca Titles) Act 1963.
 
-Compensation. 16. (1) The amount of compensation, if any, payable under section 11 or 13 shali be assessed by the District Land Administrator after such enquiry as he shall deem sufficient. The assessment shall be substantially in the form set out in the Third Schedule:
+<!-- marginal: Compensation. -->
+
+16. (1) The amount of compensation, if any, payable under section 11 or 13 shali be assessed by the District Land Administrator after such enquiry as he shall deem sufficient. The assessment shall be substantially in the form set out in the Third Schedule:
 
 Provided further that no compensation shall be payable by the licensee in respect of any tree within fifty feet of the centre line of any road constructed or maintained by the State Government or by any local authority unless it is proved that the tree was in existence prior to the construc- tion of the road.
 
 (2) Any person aggrieved with the District Land Administrator's assessment may within twenty-one days after the assessment appeal to the State Authority whose decision shall be final.
 
-17. (1) Any licensee may reduce. as he may think fit the Reduction or cessation of quantity of energy supplied to any consumer if by reason of supply: any unforeseen circumstances energy generated is insuffi- liability. cient to enable the full quantity to be corweniently supplied.
+17. (1) Any licensee may reduce. as he may think fit the
+
+<!-- marginal: Reduction or -->
+
+<!-- marginal: cessation of -->
+
+quantity of energy supplied to any consumer if by reason of
+
+<!-- marginal: supply: -->
+
+any unforeseen circumstances energy generated is insuffi-
+
+<!-- marginal: liability. -->
+
+cient to enable the full quantity to be corweniently supplied.
 
 (2) Where the quantity of energy has been reduced as aforesaid—
 
@@ -694,11 +794,51 @@ Provided that, where a licence has been suspended or revoked on the ground that 
 
 <!-- page 24 -->
 
-Restriction 19. A licensee who is, by the conditions of his licence, of use to restricted to using or supplying energy for specified purposes specified only, shall not use or supply energy for any purpose other purposes. than those so specified.
+<!-- marginal: Restriction -->
 
-20. When any electrical equipment beionging to a licensee Exemption of equipment has been placed in or upon premises not owned or occupied from distress by the Hcensee, for the purpose of supplying or measuring and attachment. energy, such equipment shall not be subject to distress nor be liable to be taken in execution under any process of a court or in any bankruptcy or insolvency proceedings against any person.
+19. A licensee who is, by the conditions of his licence,
 
-21. (1) Before the completion of a new installation, other Registration of installa- than an installation belonging to a supply authority, the tions. owner thereof shall forward, in duplicate, to the Director, an application for registration in the prescribed form. The Director shall cause inspection and tests to be made within the prescribed period and, if the installation satisfies the requirements of this Act, shall issue or cause to be issued a Certificate of Registration in the prescribed form:
+<!-- marginal: of use to -->
+
+restricted to using or supplying energy for specified purposes
+
+<!-- marginal: specified -->
+
+only, shall not use or supply energy for any purpose other
+
+<!-- marginal: purposes. -->
+
+than those so specified.
+
+20. When any electrical equipment beionging to a licensee
+
+<!-- marginal: Exemption of -->
+
+<!-- marginal: equipment -->
+
+has been placed in or upon premises not owned or occupied
+
+<!-- marginal: from distress -->
+
+by the Hcensee, for the purpose of supplying or measuring
+
+<!-- marginal: and -->
+
+<!-- marginal: attachment. -->
+
+energy, such equipment shall not be subject to distress nor be liable to be taken in execution under any process of a court or in any bankruptcy or insolvency proceedings against any person.
+
+21. (1) Before the completion of a new installation, other
+
+<!-- marginal: Registration -->
+
+<!-- marginal: of installa- -->
+
+than an installation belonging to a supply authority, the
+
+<!-- marginal: tions. -->
+
+owner thereof shall forward, in duplicate, to the Director, an application for registration in the prescribed form. The Director shall cause inspection and tests to be made within the prescribed period and, if the installation satisfies the requirements of this Act, shall issue or cause to be issued a Certificate of Registration in the prescribed form:
 
 Provided that at any time from the date of the commence- ment of this Act until such date as the Minister may by notification in the Gazette appoint it shall be lawful for the Director at his discretion without causing any inspection or tests to be made to issue in respect of any such installation a provisional Certificate of Registration to be valid for such period and to be subject to such conditions as may been- dorsed thereon and any reference in this Act to a Certificate of Registration shall unless the context otherwise requires be deemed to have had effect from such date as the Director may endorse thereon at the time of issuing the same. Any such provisional Certificate of Registration may be revoked or cancelled by the Director at any time at his discretion.
 
@@ -754,9 +894,19 @@ a fine not exceeding ten thousand ringgit and, if the contravention be continued
 
 ## PART VI
 
-<!-- marginal: SUPPLY BY LICENSEE -->
+## SUPPLY BY LICENSEE
 
-Duty to 24. (1) Subject to the following provisions of this Part supply on and any regulation made thereunder, a licensee shall upon request. being required to do so by the owner or occupier of any premises—
+<!-- marginal: Duty to -->
+
+24. (1) Subject to the following provisions of this Part
+
+<!-- marginal: supply on -->
+
+and any regulation made thereunder, a licensee shall upon
+
+<!-- marginal: request. -->
+
+being required to do so by the owner or occupier of any premises—
 
 (a) give a supply of electricity to those premises; and
 
@@ -826,9 +976,17 @@ licensee to give a supply of electricity to any premises if—
 
 Provided that this paragraph shall not apply in relation to a supply of electricity which is being given to any premises unless the licensee has given to the occupier or to the owner, if the piemises are not occupied, a notice of not less than seven working days of his intention to discontinue the supply of electricity.
 
-Power to 26. (1) A Hcensee may, in relation to the sendce of fix tariffs. supplying electricity levy such tariffs as may be approved in writing by the Minister from time to time having regard to any condition in the licence which relates to the supply of electricity in different areas and circumstances.
+<!-- marginal: Power to -->
 
-(2) A tariff fixed by a licensee pursuant to subsection (1)-
+26. (1) A Hcensee may, in relation to the sendce of
+
+<!-- marginal: fix tariffs. -->
+
+supplying electricity levy such tariffs as may be approved in writing by the Minister from time to time having regard to any condition in the licence which relates to the supply of electricity in different areas and circumstances.
+
+(2) A tariff fixed by a licensee pursuant to subsection
+
+(1)-
 
 (a) shall be so framed as to indicate the methods by which and the principles on which the tariffs are to be made as well as the prices which are to be charged; and
 
@@ -860,7 +1018,9 @@ ment is provided by a licensee pursuant to section 24(1), the
 
 licensee may require any expenses reasonably incurred to be defrayed by the person requiring the supply of electricity to such extent as is reasonable having regard to the circum- stances.
 
-(2) The expenses reasonably incurred in providing any supply line or eiectrical plant or equipment under subsection (1) include the capitalised value of any expenses likely to be so incurred in maintaining it, if such expenses cannot be recovered by the licensee as part of the tariffs levied by him for the supply.
+(2) The expenses reasonably incurred in providing any supply line or eiectrical plant or equipment under subsection
+
+(1) include the capitalised value of any expenses likely to be so incurred in maintaining it, if such expenses cannot be recovered by the licensee as part of the tariffs levied by him for the supply.
 
 <!-- marginal: Power to -->
 
@@ -884,15 +1044,35 @@ and if the person fails to give such security, the licensee may, if he thinks fi
 
 <!-- page 30 -->
 
-29. (1) Notwithstanding anything contained in sections 24 Special agreement to 28, a person who requires a supply of electricity pursuant with respect to section 24(1) may enter into a special agreement with the to supply. licensee for the supply on such terms as may be specified in the agreement.
+29. (1) Notwithstanding anything contained in sections 24
 
-(2) Where any agreement made pursuant to subsection (1) remains effective, the rights and liabilities of the parties to the agreement shall be determined by the agreement and not by the prcwisions of sections 24 to 28.
+<!-- marginal: Special -->
+
+<!-- marginal: agreement -->
+
+to 28, a person who requires a supply of electricity pursuant
+
+<!-- marginal: with respect -->
+
+to section 24(1) may enter into a special agreement with the
+
+<!-- marginal: to supply. -->
+
+licensee for the supply on such terms as may be specified in the agreement.
+
+(2) Where any agreement made pursuant to subsection
+
+(1) remains effective, the rights and liabilities of the parties to the agreement shall be determined by the agreement and not by the prcwisions of sections 24 to 28.
 
 (3) Notwithstanding the provisions of subsection (2), section 24(2) shall however apply for the purposes of speci- fying the day on which the supply of electricity is required to commence and the day on which such an agreement ceases to be effective.
 
-Determinatic
+<!-- marginal: Determinatic -->
 
-30. (1) Any party to any dispute under sections 24 to 29 of dispute. regarding a supply of electricity may refer the dispute to the Director General for his decision.
+30. (1) Any party to any dispute under sections 24 to 29
+
+<!-- marginal: of dispute. -->
+
+regarding a supply of electricity may refer the dispute to the Director General for his decision.
 
 (2) The Director General shall determine the dispute and make an order accordingly:
 
@@ -966,13 +1146,31 @@ by, an appropriate meter.
 
 ## NOTIFICATION OF ACCIDENT OR FIRE
 
-Serious 33. (1) Whenever any accident or fire causing or resulting accidents to in loss of life or hurt to any person or serious damage to be reported. property has occurred in connection with any installation or Investigation by the electrical plant or equipment, the owner, licensee or supply Director authority and the management thereof shall report the General. accident or fire
+<!-- marginal: Serious -->
 
-<!-- marginal: to a Director by -->
+33. (1) Whenever any accident or fire causing or resulting
 
-<!-- marginal: the quickest means -->
+<!-- marginal: accidents to -->
 
-available, and subsequently with the least possible delay shall report in writing to the Director the facts of the matter so far as they are known to them respectively.
+in loss of life or hurt to any person or serious damage to
+
+<!-- marginal: be reported. -->
+
+property has occurred in connection with any installation or
+
+<!-- marginal: Investigation -->
+
+<!-- marginal: by the -->
+
+electrical plant or equipment, the owner, licensee or supply
+
+<!-- marginal: Director -->
+
+authority and the management thereof shall report the
+
+<!-- marginal: General. -->
+
+accident or fire to a Director by the quickest means available, and subsequently with the least possible delay shall report in writing to the Director the facts of the matter so far as they are known to them respectively.
 
 (2) The Director shall, as soon as practicable upon receipt of the first report—
 
@@ -992,7 +1190,9 @@ available, and subsequently with the least possible delay shall report in writin
 
 <!-- page 33 -->
 
-(4) If upon a preliminary investigation under subsection (2) it appears to the Director making the investigation that there is reason to believe that the accident or fire was due to any failure to comply with this Act or any lawful order given by the Director, or if the Director making the investigation as aforesaid is satisfied that the accident or fire might have been prevented if proper precautions had been taken and observed in the working of any installation or electrical plant or equipment, the Director General or the Director authorized by him may further investigate the circum- stances of the accident or fire together with the Director making the preliminary investigation and if in the opinion of the Director General that criminal proceedings shall lie against any person then he shall forward to the Public Prose- cutor a copy of the Director's report with his opinion on the circumstances and findings.
+(4) If upon a preliminary investigation under subsection
+
+(2) it appears to the Director making the investigation that there is reason to believe that the accident or fire was due to any failure to comply with this Act or any lawful order given by the Director, or if the Director making the investigation as aforesaid is satisfied that the accident or fire might have been prevented if proper precautions had been taken and observed in the working of any installation or electrical plant or equipment, the Director General or the Director authorized by him may further investigate the circum- stances of the accident or fire together with the Director making the preliminary investigation and if in the opinion of the Director General that criminal proceedings shall lie against any person then he shall forward to the Public Prose- cutor a copy of the Director's report with his opinion on the circumstances and findings.
 
 (5) Any person concerned in any investigation held under this section may be entitled, upon payment of the prescribed fees, to receive a copy of the report of the Director, the opinion of the Director General and any statement by the Director or Director General, as the case may be, in the course of their investigations.
 
@@ -1034,9 +1234,21 @@ from the date of the decision of the Director General, or within such further pe
 
 (6) Persons nominated by the Minister to serve as asses- sors shall be entitled to receive such remuneration as may, from time to time, be prescribed by the Minister.
 
-35. For the purpose of holding enquiries under this Act, the Power of holding Director General or the Chairman, as the case may be, shall enquiry. have power to administer oaths and affirmations and shall be vested with the powers of a first class magistrate for compel- ling the attendance of witnesses, maintaining order or other- wise duly conducting the said enquiries. Persons summoned to attend any such enquiry shall be legally bound to attend.
+35. For the purpose of holding enquiries under this Act, the
 
-Arbilration. 36. (1) Where any matter is required to be determined by arbitration under this Act, the same shall be determined by a board comprising one or three arbitrators chosen by the parties or, if they are unable to agree, by the Chief Justice.
+<!-- marginal: Power of -->
+
+<!-- marginal: holding -->
+
+Director General or the Chairman, as the case may be, shall
+
+<!-- marginal: enquiry. -->
+
+have power to administer oaths and affirmations and shall be vested with the powers of a first class magistrate for compel- ling the attendance of witnesses, maintaining order or other- wise duly conducting the said enquiries. Persons summoned to attend any such enquiry shall be legally bound to attend.
+
+<!-- marginal: Arbilration. -->
+
+36. (1) Where any matter is required to be determined by arbitration under this Act, the same shall be determined by a board comprising one or three arbitrators chosen by the parties or, if they are unable to agree, by the Chief Justice.
 
 <!-- page 35 -->
 
@@ -1162,13 +1374,19 @@ tained in this Act shall operate to relieve any licensee or management from any 
 
 <!-- page 40 -->
 
-40. In any prosecution for an offence under section 37 (3) Onusof proof. proof of—
+40. In any prosecution for an offence under section 37 (3)
+
+<!-- marginal: Onusof proof. -->
+
+proof of—
 
 (a) the existence of artificial means which, either alone or in conjunction with additional artificial means not found, could be used for altering, or facilitating the alteration, of the index of any meter or instrument used for registering the quantity of energy supplied;
 
 (b) the existence of artificial means which, either alone or in conjunction with additional artificial means not found, would prevent, or facilitate the prevention of, any meter or instrument from duly registering the quantity of energy supplied, or would facilitate the dishonestabstraction,consumption,oruseofenergy; or
 
-(c) (i) the fitting of any mechanical or other means to; (ii) the absence or removal of any part or connection from; or (iii) the interference with any part or connection of,
+(c) (i) the fitting of any mechanical or other means to; (ii) the absence or removal of any part or connection from; or
+
+(iii) the interference with any part or connection of,
 
 any apparatus in the circumstances that the fitting, absence, removal or interference would prevent or facilitate the prevention of any meter or other instrument from duly registering the quantity of energy supplied, or would facilitate the dishonest abstraction, consumption or use of energy,
 
@@ -1210,31 +1428,67 @@ officer authorized by him to conduct a prosecution for any offence under this Ac
 
 <!-- marginal: Compounding. -->
 
-43. (1) The Director General or any officer authorized by him may compound such offences under sections 8,37 (9), 37 (10),37(12),37(13),37(14),37(15),45,49(5)orunderany rule or regulation made thereunder, by collecting from the person reasonably suspected of having committed the same a sum of money not exceeding one thousand ringgit.
+43. (1) The Director General or any officer authorized by him may compound such offences under sections 8,37 (9), 37
+
+(10),37(12),37(13),37(14),37(15),45,49(5)orunderany rule or regulation made thereunder, by collecting from the person reasonably suspected of having committed the same a sum of money not exceeding one thousand ringgit.
 
 <!-- page 42 -->
 
 (2) The Minister may make rules or regulations to pres- cribe the method and procedure for compounding such offences.
 
-Reward for 44. In the case of a conviction involving a fine the court information. imposing the fine may, on the application of the officer conducting the prosecution, direct the payment of any part of the fine but not exceeding one half of such fine in such proportion as the court deems fit to the person who gave the information leading to the conviction.
+<!-- marginal: Reward for -->
 
-<!-- marginal: PARTX -->
+44. In the case of a conviction involving a fine the court
 
-<!-- marginal: GENERAL -->
+<!-- marginal: information. -->
 
-Precautions 45. (1) The execution of all work in connection with the in execution generation or supply of energy which may affect any street, of work. railway, tramway, river, canal or other waterway or any system of irrigation, drainage or water supply or any tele- graph, telephone, radio-communications, harbour works or other public or private works, and the erection of any supply line crossing, whether overhead or underground, shall be carried out in the prescribed manner and without prejudice to public or private safety.
+imposing the fine may, on the application of the officer conducting the prosecution, direct the payment of any part of the fine but not exceeding one half of such fine in such proportion as the court deems fit to the person who gave the information leading to the conviction.
+
+## PARTX
+
+## GENERAL
+
+<!-- marginal: Precautions -->
+
+45. (1) The execution of all work in connection with the
+
+<!-- marginal: in execution -->
+
+generation or supply of energy which may affect any street,
+
+<!-- marginal: of work. -->
+
+railway, tramway, river, canal or other waterway or any system of irrigation, drainage or water supply or any tele- graph, telephone, radio-communications, harbour works or other public or private works, and the erection of any supply line crossing, whether overhead or underground, shall be carried out in the prescribed manner and without prejudice to public or private safety.
 
 (2) Any person who contravenes or fails to comply with this section shall be guilty of an offence under this Act.
 
-Electrical 46. (1) If the Director General is satisfied that the working interference or operation of any installation causes electrical interference with with any radio-communications, telecommunications, Government signalling telegraph, telephone or other electrical signalling process or tines. circuit owned or operated by or on behalf of the Pederal Government or any State Government, or any supply authority, the Director General shall call upon the owner or licensee to abate the interference, and if, within a period of fourteen days or such longer period as the Director General considers reasonable in any particular circumstances, the interference has not been effectually abated the Director General shall report the matter to the Minister who may in his discretion—
+<!-- marginal: Electrical -->
+
+46. (1) If the Director General is satisfied that the working
+
+<!-- marginal: interference -->
+
+or operation of any installation causes electrical interference
+
+<!-- marginal: with -->
+
+with any radio-communications, telecommunications,
+
+<!-- marginal: Government -->
+
+<!-- marginal: signalling -->
+
+telegraph, telephone or other electrical signalling process or
+
+<!-- marginal: tines. -->
+
+circuit owned or operated by or on behalf of the Pederal Government or any State Government, or any supply authority, the Director General shall call upon the owner or licensee to abate the interference, and if, within a period of fourteen days or such longer period as the Director General considers reasonable in any particular circumstances, the interference has not been effectually abated the Director General shall report the matter to the Minister who may in his discretion—
 
 (a) in the case of a licensed installation, order the suspension of the licence;
 
 <!-- page 43 -->
 
-(b) in the case of an unlicensed installation, by order prohibit the working or operation thereof; or
-
-<!-- marginal: s -->
+(b) in the case of an unlicensed installation, by order prohibit the working or operation thereof; or s
 
 (c) in the case of any other installation, by order, prohibit the working or operation of such part thereof which causes the electrical interference,
 
@@ -1282,7 +1536,31 @@ regulations under this Act or be expressly permitted by the Director General.
 
 (2) In the event of any breach of subsection (1), the Director General may by written order require the licensee or owner to remove the connection and may prohibit the use of any supply line or works or installation until the order is complied with, and every such order shall be complied with by the person concerned.
 
-Procedure 49. (1) In the event of a Director finding in any installation in case of or part thereof any defect which in his opinion is likely dangerous defect in to cause danger he may, by notice in writing served upon the installation licensee or owner thereof, or if such licensee or owner orpart cannot be found, posted at the place where the installation thereof. is located, require the defect to be made good or removed within such period as may be specified in the notice, and in such case the installation or part thereof shall not be operated or used after the expiration of the period specified unless the defect has been made good or removed to the satisfaction of the Director:
+<!-- marginal: Procedure -->
+
+49. (1) In the event of a Director finding in any installation
+
+<!-- marginal: in case of -->
+
+or part thereof any defect which in his opinion is likely
+
+<!-- marginal: dangerous -->
+
+<!-- marginal: defect in -->
+
+to cause danger he may, by notice in writing served upon the
+
+<!-- marginal: installation -->
+
+licensee or owner thereof, or if such licensee or owner
+
+<!-- marginal: orpart -->
+
+cannot be found, posted at the place where the installation
+
+<!-- marginal: thereof. -->
+
+is located, require the defect to be made good or removed within such period as may be specified in the notice, and in such case the installation or part thereof shall not be operated or used after the expiration of the period specified unless the defect has been made good or removed to the satisfaction of the Director:
 
 Provided that, if the Director is of the opinion, that the defect is likely to cause immediate danger, he may, by notice posted or served as aforesaid, forthwith suspend the operation and use of the installation, and if necessary seal the instal- lation or part thereof until the defect is made good or removed. The installation or part thereof shall not be operated or used so long as the notice of suspension remains un- revoked and the seal is not removed by a Director.
 
@@ -1450,7 +1728,9 @@ particular—
 
 ## MISCELLANEOUS
 
-Exemptions. 54. The Minister may by notification in the Gazette exempt from any or all of the provisions of this Act or any regulation made thereunder—
+<!-- marginal: Exemptions. -->
+
+54. The Minister may by notification in the Gazette exempt from any or all of the provisions of this Act or any regulation made thereunder—
 
 (a) any installation, or part thereof, owned by or worked by or on behalf of any supply authority;
 
@@ -1458,7 +1738,33 @@ Exemptions. 54. The Minister may by notification in the Gazette exempt from any 
 
 and may, by similar notification, cancel any exemption so notified.
 
-Transilional 55. (1) Any licence for any private or public installation provision and granted to any person under any written law promulgated restrictions attached to prior to this Act shall be deemed to have been granted under licences this Act and shall remain valid until it is revoked under issued priorto this Act and the provisions of this Act shall apply to such this Act. person as if he were a licensee under this Act.
+<!-- marginal: Transilional -->
+
+55. (1) Any licence for any private or public installation
+
+<!-- marginal: provision and -->
+
+granted to any person under any written law promulgated
+
+<!-- marginal: restrictions -->
+
+<!-- marginal: attached to -->
+
+prior to this Act shall be deemed to have been granted under
+
+<!-- marginal: licences -->
+
+this Act and shall remain valid until it is revoked under
+
+<!-- marginal: issued -->
+
+<!-- marginal: priorto -->
+
+this Act and the provisions of this Act shall apply to such
+
+<!-- marginal: this Act. -->
+
+person as if he were a licensee under this Act.
 
 (2) Notwithstanding anything contained in any licence for a public installation issued under any written law promulgated prior to this Act, no holder of any such licence shall, without the prior approval of the Director General—
 
@@ -1522,19 +1828,11 @@ STATEOP.....................
 
 ## LAND UNDER SECTION 11
 
-To: Title or other description of land................................. Take notice that I/we....................................... of........................being the holder of a
-
-<!-- marginal: licence dated -->
-
-.........................................................under
-
-<!-- marginal: the Electricity -->
-
-Supply Act 1990 am/are desirous of entering the above-mentioned land for the purpose of (here set out asfully and accurately as possible what is intended to be done). Within fourteen days from the date of receipt of this notice you may lodge an objection either verbally or in writing with the District Land Administrator at......................................................... The District Land Administrator has appointed........................... ................................... ,as the day upon which objections will be heard. Unless you lodge an objection within the specified time it will be presumed that you have consented to my/our entering on the land on the terms of this notice. You will be paid proper compensation for any damage done.
+To: Title or other description of land................................. Take notice that I/we....................................... of........................being the holder of a licence dated .........................................................under the Electricity Supply Act 1990 am/are desirous of entering the above-mentioned land for the purpose of (here set out asfully and accurately as possible what is intended to be done). Within fourteen days from the date of receipt of this notice you may lodge an objection either verbally or in writing with the District Land Administrator at......................................................... The District Land Administrator has appointed........................... ................................... ,as the day upon which objections will be heard. Unless you lodge an objection within the specified time it will be presumed that you have consented to my/our entering on the land on the terms of this notice. You will be paid proper compensation for any damage done.
 
 Dated this......day of.....................l9......
 
-<!-- marginal: Licensee -->
+Licensee
 
 <!-- page 52 -->
 
@@ -1564,7 +1862,7 @@ After holding the enquiry it is hereby ordered as follows: *(a) The licensee is 
 
 Datedthis,........dayof........................19.........
 
-<!-- marginal: District Land Administrator -->
+District Land Administrator
 
 * delete whichever is not applicable.
 
@@ -1600,7 +1898,11 @@ This Bill seeks to provide for the appointment and functions of a Director Gener
 
 ## PARTI
 
-2. Part I seeks to provide for preliminary matters. 3. Clause 1 deals with the short title and seeks to allow the Minister to appoint the date of commencement for the Bill. The Bill shall apply throughout Malaysia. However the Minister may by order suspend the operation of the whole or any of its provisions in any State. 4. Clause2definescertainwordsandexpressions,usedin theBill,
+2. Part I seeks to provide for preliminary matters.
+
+3. Clause 1 deals with the short title and seeks to allow the Minister to appoint the date of commencement for the Bill. The Bill shall apply throughout Malaysia. However the Minister may by order suspend the operation of the whole or any of its provisions in any State.
+
+4. Clause2definescertainwordsandexpressions,usedin theBill,
 
 <!-- page 54 -->
 
@@ -1610,11 +1912,15 @@ This Bill seeks to provide for the appointment and functions of a Director Gener
 
 ## PART III
 
-6. Clause 4 seeks to provide for the functions, duties and powers of the Director General and other officers. 7. Clause 5 provides the Director or a police officer not below the rank of Inspector with the power of entry upon any land or building for the purposes of inspection and examination of any installation or equipment and the seizure or seal of any article related to any offence committed.
+6. Clause 4 seeks to provide for the functions, duties and powers of the Director General and other officers.
 
-8. Clause 6 provides for the powers of investigation of any Director in relation to any offence committed under the Bill or any regulation to be made thereunder. 9. Clause 7 provides for the admission as evidence any statement made by any person charged with an offence under the Bill. 10. Clause 8 seeks to make it an offence for any person to obstruct a Director in the exercise of his duties, functions and powers.
+7. Clause 5 provides the Director or a police officer not below the rank of Inspector with the power of entry upon any land or building for the purposes of inspection and examination of any installation or equipment and the seizure or seal of any article related to any offence committed.
 
-<!-- marginal: PARTIV -->
+8. Clause 6 provides for the powers of investigation of any Director in relation to any offence committed under the Bill or any regulation to be made thereunder.
+
+9. Clause 7 provides for the admission as evidence any statement made by any person charged with an offence under the Bill. 10. Clause 8 seeks to make it an offence for any person to obstruct a Director in the exercise of his duties, functions and powers.
+
+## PARTIV
 
 11. Clause 9 provides for the licensing of any person to use, work or operate any installation or to supply energy from any installation. Licences may be granted by the Director General with the approval of the Minister on payment of such fees and upon such conditions as are requisite or expedient. i 2. Clauses 10 and 11 seek to empower a licensee to enter upon any land other than State land for the purposes of examining or surveying any land and also to install any system for distribution of energy. 13. Clause 12 seeks to allow the licensee to lay, place or carry supply lines and other equipment on State land.
 
@@ -1622,7 +1928,9 @@ This Bill seeks to provide for the appointment and functions of a Director Gener
 
 15. Clause 14 makes provision for any person desiring to use his land to request the licensee to remove or alter any supply line, post or equipment on his land.
 
-16. Clause 15 provides for the saving of way!eave agreements. 17. Clause 76provides for compensation, if payabte, to be assessed by the District Land Administrator.
+16. Clause 15 provides for the saving of way!eave agreements.
+
+17. Clause 76provides for compensation, if payabte, to be assessed by the District Land Administrator.
 
 18. Clause 17 allows the licensee to reduce the quantity of energy supplied under certain circumstances. The licensee shall not incur any liability in respect of any loss or damage caused by the reduction.
 
@@ -1662,7 +1970,9 @@ This Bill seeks to provide for the appointment and functions of a Director Gener
 
 <!-- page 56 -->
 
-33. Clause 31 provides for the fixing of maximum charges by the Director General for reselling electricity. 34. Clause 32 provides that the charge to be borne by the consumer for the supply of electricity be ascertained by way of an appropriate meter provided by the licensee.
+33. Clause 31 provides for the fixing of maximum charges by the Director General for reselling electricity.
+
+34. Clause 32 provides that the charge to be borne by the consumer for the supply of electricity be ascertained by way of an appropriate meter provided by the licensee.
 
 ## PART VII
 
@@ -1670,17 +1980,49 @@ This Bill seeks to provide for the appointment and functions of a Director Gener
 
 ## PART VIII
 
-36. Clause 34 provides for any difference in opinion between a licensee and a Director regarding any matter pertaining to the supply of electricity to be referred to the Director General. Provision is made to allow any licensee aggrieved by the decision of the Director General to apply to the Minister for re-consideration of the matter in dispute. 37. Clause 35 spells out the powers of the Director General in holding enquiries under the Bill. 38. Clause 36 relates to arbitration by a board consisting of one or three arbitrators. Any matterrequiring arbitration underthe Bill shall determined by the arbitration board.
+36. Clause 34 provides for any difference in opinion between a licensee and a Director regarding any matter pertaining to the supply of electricity to be referred to the Director General. Provision is made to allow any licensee aggrieved by the decision of the Director General to apply to the Minister for re-consideration of the matter in dispute.
 
-<!-- marginal: PARTlX -->
+37. Clause 35 spells out the powers of the Director General in holding enquiries under the Bill.
 
-39. Clause 37 deals with offences under the Bill and the penalties thereof. 40. Clause 38 provides for the disconnection of the supply of energy by the licensee in cases where certain offences have been committed by any consumer. 41. Clause 39 provides that the civil and criminal liabilities of any licensee arising from the Bill shall remain unaffected except as provided in clauses 17 and 20. 42. Clause 40 relates to the onus of proof in any prosecution for an offence under clause 37(3). 43. Clause 41 provides for compensation to be made by any person who has removed or damaged any installation. 44. Clause 42 provides for the Director General or his authorized officers to conduct prosecutions. - 45. Clause 43 gives the Director General the po wer to compound certain offences. 46. Clause 44 provides for the reward of any person who gives informa- tion leading to the conviction and fine of any person.
+38. Clause 36 relates to arbitration by a board consisting of one or three arbitrators. Any matterrequiring arbitration underthe Bill shall determined by the arbitration board.
+
+### PARTlX
+
+39. Clause 37 deals with offences under the Bill and the penalties thereof.
+
+40. Clause 38 provides for the disconnection of the supply of energy by the licensee in cases where certain offences have been committed by any consumer.
+
+41. Clause 39 provides that the civil and criminal liabilities of any licensee arising from the Bill shall remain unaffected except as provided in clauses 17 and 20.
+
+42. Clause 40 relates to the onus of proof in any prosecution for an offence under clause 37(3).
+
+43. Clause 41 provides for compensation to be made by any person who has removed or damaged any installation.
+
+44. Clause 42 provides for the Director General or his authorized officers to conduct prosecutions. -
+
+45. Clause 43 gives the Director General the po wer to compound certain offences.
+
+46. Clause 44 provides for the reward of any person who gives informa- tion leading to the conviction and fine of any person.
 
 <!-- page 57 -->
 
 ## PARTX
 
-47. Clause 45 sets out the precautions to be taken in the execution of all work in connection with the generation or supply of energy. 48. Clatise 46 deals with electrical interference with Government signalling lines. Any interference which cannot be effectually abated may lead to the suspension or revocation of any licence or the prohibition of any work or operation by the licensee. 49. Clause 47provides for the precautions to be taken against atmospheric electricity. 50. Clause 48 provides that no supply lines be connected with the earth except as may be prescribed by regulations. 51. Clause 49 provides the procedure to be followed in case of any dangerous defect found in any installation. 52. Clause 50 lays down the prohibition of employment of children below the age of sixteen years in any service involving proximity to live equipmenl not effectively insulated. 53. Clause 51 provides for the special powers of the Yang di-Pertuan Agong in any emergency to authorize the Director General to either suspend the licence of any licensee and take temporary possession of any installation or to withdraw the use of any installation from members of the public. 54. Clause 52 gives the State Authority the power to declare any lake, river or waterway as a source of water for the purposes of the licensee.
+47. Clause 45 sets out the precautions to be taken in the execution of all work in connection with the generation or supply of energy.
+
+48. Clatise 46 deals with electrical interference with Government signalling lines. Any interference which cannot be effectually abated may lead to the suspension or revocation of any licence or the prohibition of any work or operation by the licensee.
+
+49. Clause 47provides for the precautions to be taken against atmospheric electricity.
+
+50. Clause 48 provides that no supply lines be connected with the earth except as may be prescribed by regulations.
+
+51. Clause 49 provides the procedure to be followed in case of any dangerous defect found in any installation.
+
+52. Clause 50 lays down the prohibition of employment of children below the age of sixteen years in any service involving proximity to live equipmenl not effectively insulated.
+
+53. Clause 51 provides for the special powers of the Yang di-Pertuan Agong in any emergency to authorize the Director General to either suspend the licence of any licensee and take temporary possession of any installation or to withdraw the use of any installation from members of the public.
+
+54. Clause 52 gives the State Authority the power to declare any lake, river or waterway as a source of water for the purposes of the licensee.
 
 ## PARTXI
 
@@ -1688,12 +2030,14 @@ This Bill seeks to provide for the appointment and functions of a Director Gener
 
 ## PARTXII
 
-56. Clause 54 relates to the power of the Minister to exempt any installation or equipment from the provisions of this Bill. 57. Clause 55 spells out the transitional provision and the restriction attached to licences issued prior to this Bill. Such licence shall remain valid until revoked. 58. Clause 56 seeks to repeal the Electricity Act 1949 and the Electrical Inspectorate Act 1983. Regulations made under the Electrical Inspectorate Act 1983 shall however continue to remain in force until replaced by regulations made under this Bill.
+56. Clause 54 relates to the power of the Minister to exempt any installation or equipment from the provisions of this Bill.
+
+57. Clause 55 spells out the transitional provision and the restriction attached to licences issued prior to this Bill. Such licence shall remain valid until revoked.
+
+58. Clause 56 seeks to repeal the Electricity Act 1949 and the Electrical Inspectorate Act 1983. Regulations made under the Electrical Inspectorate Act 1983 shall however continue to remain in force until replaced by regulations made under this Bill.
 
 ## FINANCIAL
 
 ## IMPUCATIONS
 
-This Bill will not involve the Government in any extra financial expenditure.
-
-<!-- marginal: [PN. (IP)1595.] -->
+This Bill will not involve the Government in any extra financial expenditure. [PN. (IP)1595.]

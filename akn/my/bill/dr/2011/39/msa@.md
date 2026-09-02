@@ -8,7 +8,9 @@
 
 bernama
 
-Suatu Akta untuk meminda Akta Kanun Tatacara Jenayah (Pindaan) 2010. [ ]
+Suatu Akta untuk meminda Akta Kanun Tatacara Jenayah (Pindaan)
+
+2010. [ ]
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 

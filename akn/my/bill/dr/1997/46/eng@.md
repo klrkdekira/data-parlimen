@@ -14,7 +14,31 @@
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-3. Commencement of amendments to the Income Tax Act 1967. 4. Deletion of section 3c. 5. Amendment of section 6A. 6. New section 6c. 7. Amendment of section 25. 8. Amendment of section 27. 9. Amendment of section 34. 10. Amendment of section 39. 11. Amendment of section 44. 12. Amendment of section 48. 13. Amendment of section 60. 14. Amendment of section 60E. 15. Amendment of section 91. 16. Amendment of section 108. 17. Amendment of section 110. 18. Amendment of section 120. 19. Amendment of Schedule 1. 20. Amendment of Schedule 3. 21. Amendment of Schedule 7A.
+3. Commencement of amendments to the Income Tax Act 1967. 4. Deletion of section 3c. 5. Amendment of section 6A. 6. New section 6c. 7. Amendment of section 25. 8. Amendment of section 27. 9. Amendment of section 34.
+
+10. Amendment of section 39.
+
+11. Amendment of section 44.
+
+12. Amendment of section 48.
+
+13. Amendment of section 60.
+
+14. Amendment of section 60E.
+
+15. Amendment of section 91.
+
+16. Amendment of section 108.
+
+17. Amendment of section 110.
+
+18. Amendment of section 120.
+
+19. Amendment of Schedule 1.
+
+20. Amendment of Schedule 3.
+
+21. Amendment of Schedule 7A.
 
 <!-- page 2 -->
 
@@ -188,13 +212,23 @@ II
 
 (5) Paragraph 21 (d) shall have effect for the year of assessment 1999 and subsequent years of assessment.
 
-Deletion of
+<!-- marginal: Deletion of -->
 
-4. The Income Tax Act 1967, which in this Chapter is section 3c. referred to as the "principal Act", is amended by deleting Act 53. section 3c.
+4. The Income Tax Act 1967, which in this Chapter is
 
-Amendment
+<!-- marginal: section 3c. -->
 
-5. Section 6A of the principal Act is amended— of section
+referred to as the "principal Act", is amended by deleting
+
+<!-- marginal: Act 53. -->
+
+section 3c.
+
+<!-- marginal: Amendment -->
+
+5. Section 6A of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 6A.
 
@@ -224,7 +258,17 @@ Provided that no rebate under this subsection shall be granted to that individua
 
 section 6e the following section:
 
-"Tax rebate 6c. Income tax charged for each year of on fees. assessment upon the chargeable income of an individual shall be rebated in respect of any fee paid to the Government in the basis year for that year of assessment pursuant to any order Act 209. made under section 3 of the Fees Act 1951, for the issue of an Employment Pass, Visit Pass (Temporary Employment) or Work Pass before any set off is made under section 110 and any credit is allowed under section 132 or 133:
+<!-- marginal: "Tax rebate -->
+
+6c. Income tax charged for each year of
+
+<!-- marginal: on fees. -->
+
+assessment upon the chargeable income of an individual shall be rebated in respect of any fee paid to the Government in the basis year for that year of assessment pursuant to any order
+
+<!-- marginal: Act 209. -->
+
+made under section 3 of the Fees Act 1951, for the issue of an Employment Pass, Visit Pass (Temporary Employment) or Work Pass before any set off is made under section 110 and any credit is allowed under section 132 or 133:
 
 Provided that where the rebate exceeds the income tax charged (before any such rebate) for any year of assessment, the excess shall not be paid to that individual and shall not be available as a credit to set off his tax liability for any subsequent year of assessment.".
 
@@ -240,13 +284,17 @@ Provided that where the rebate exceeds the income tax charged (before any such r
 
 (b) in subparagraph (4)(a)(i) by substituting for the word "nine" wherever it appears the word "five"; and
 
-(c) in paragraphs (4)(b) and (4)(c) and subsection (5) by substituting for the word "eleven" wherever it appears the word "five".
+(c) in paragraphs (4)(b) and (4)(c) and subsection
+
+(5) by substituting for the word "eleven" wherever it appears the word "five".
 
 <!-- page 8 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-8. Section 27 of the principal Act is amended— of section
+8. Section 27 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 27.
 
@@ -254,9 +302,11 @@ Amendment
 
 (b) in subsection (3) by substituting for the word "eleven" wherever it appears the word "five".
 
-Amendment
+<!-- marginal: Amendment -->
 
-9. Section 34 of the principal Act is amended— of section
+9. Section 34 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 34.
 
@@ -272,9 +322,13 @@ Amendment
 
 Provided that the amount deducted shall not exceed two hundred thousand ringgit.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-10. Subsection 39(1) of the principal Act is amended of section by inserting after paragraph (g) the following paragraph:
+10. Subsection 39(1) of the principal Act is amended
+
+<!-- marginal: of section -->
+
+by inserting after paragraph (g) the following paragraph:
 
 39.
 
@@ -282,17 +336,11 @@ rt(h) any sum paid by way of a bonus to an employee in excess of two twelfths of
 
 <!-- page 9 -->
 
-Finance (No. 2)
+Finance (No. 2) 9
 
-<!-- marginal: 9 -->
+Amendment
 
-<!-- marginal: Amendment -->
-
-11. Section 44 of the principal Act is amended—
-
-<!-- marginal: of section -->
-
-<!-- marginal: 44. -->
+11. Section 44 of the principal Act is amended— of section 44.
 
 (a) by substituting for paragraph (l)(d) the following paragraph:
 
@@ -302,25 +350,33 @@ Finance (No. 2)
 
 (c) by inserting after subsection (8) the following subsections:
 
-"(9) There shall be deducted pursuant to this subsection from the aggregate income of a relevant person who is an individual for the relevant year reduced by any deduction for that year in accordance with subsection (1) an amount equal to any gift of money or contribution in kind (the value to be determined by the relevant local authority) made by him in the basis year for that year for the provision of facilities in public places for the benefit of disabled persons.
+"(9) There shall be deducted pursuant to this subsection from the aggregate income of a relevant person who is an individual for the relevant year reduced by any deduction for that year in accordance with subsection
 
-(10) There shall be deducted pursuant to this subsection from the aggregate income of a relevant person who is an individual for the relevant year reduced by any deduction for that year in accordance with subsection (1) an amount equal to any gift of money or the cost or value (as certified by the Ministry of Health) of any gift of medical equipment made by him in the basis year for that year to any healthcare facility approved by that Ministry, and that amount shall not exceed twenty thousand ringgit.
+(1) an amount equal to any gift of money or contribution in kind (the value to be determined by the relevant local authority) made by him in the basis year for that year for the provision of facilities in public places for the benefit of disabled persons.
+
+(10) There shall be deducted pursuant to this subsection from the aggregate income of a relevant person who is an individual for the relevant year reduced by any deduction for that year in accordance with subsection
+
+(1) an amount equal to any gift of money or the cost or value (as certified by the Ministry of Health) of any gift of medical equipment made by him in the basis year for that year to any healthcare facility approved by that Ministry, and that amount shall not exceed twenty thousand ringgit.
 
 (11) There shall be deducted pursuant to this subsection from the aggregate income of a relevant person for the relevant year
 
 <!-- page 10 -->
 
-### 10
+<!-- marginal: 10 -->
 
 ### Bill
 
 reduced by any deduction for that year in accordance with subsection (1) an amount equal to the value of any gift of painting (to be determined by the National Art Gallery or any state art gallery) made by him in the basis year for that year to the National Art Gallery or any state art gallery.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-12. Section 48 of the principal Act is amended of section
+12. Section 48 of the principal Act is amended
 
-48. by substituting for paragraph (3)(a) the following paragraph:
+<!-- marginal: of section -->
+
+48. by substituting for paragraph (3)(a) the following
+
+<!-- marginal: paragraph: -->
 
 "(3) (a) in respect of a child over the age of eighteen years and is receiving instruction at any educational establishment mentioned therein or is serving under articles or indentures with a view to qualifying in a trade or profession (in this subsection referred to as receiving further education) but not including a child receiving instruction at any school, then, if that individual satisfies the Director General that he has directly expended in that basis year for that year of assessment a sum or sums exceeding the ordinary deduction on the maintenance of that child or in making any payment in connection with that child's further education, there shall be allowed in substitution for the ordinary deduction, a deduction equal to the total sum or sums so expended but not exceeding—
 
@@ -334,17 +390,15 @@ Finance (No. 2) 11
 
 (iii) twice the amount of the ordinary deduction if that child commenced receiving further education in a place outside Malaysia beginning from 1 January 1994 to 16 October 1997.".
 
-<!-- marginal: Amendment -->
+Amendment
 
-13. Section 60 of the principal Act is amended—
-
-<!-- marginal: of section -->
-
-<!-- marginal: 60. -->
+13. Section 60 of the principal Act is amended— of section 60.
 
 (a) by substituting for the full stop at the end of paragraph (2)(c) a colon;
 
-(b) by inserting after paragraph (2)(c) the following proviso:
+(b) by inserting after paragraph (2)(c) the following
+
+<!-- marginal: proviso: -->
 
 "Provided that—
 
@@ -402,7 +456,7 @@ resident for the basis year for that year of assessment shall consist of an amou
 
 <!-- page 14 -->
 
-### 14
+<!-- marginal: 14 -->
 
 ### Bill
 
@@ -422,7 +476,11 @@ and where any risk is in transit in Malaysia it shall be deemed to be outside Ma
 
 "inward re-insurance contract" means a Malaysian policy in respect of inward re- insurance;
 
-"life business" has the same meaning assigned thereto under section 2 of the Act 553. Insurance Act 1996;
+"life business" has the same meaning assigned thereto under section 2 of the
+
+<!-- marginal: Act 553. -->
+
+Insurance Act 1996;
 
 "life policy" has the same meaning assigned thereto under section 2 of the Insurance Act 1996;
 
@@ -486,7 +544,9 @@ by substituting for the word "twelve" the word "six".
 
 <!-- page 16 -->
 
-16 Bill
+<!-- marginal: 16 -->
+
+Bill
 
 tax during the basis year for the year of assessment 1998, the amount of the dividend received by the shareholder shall be deemed to be a dividend of such a gross amount as after deduction of tax at the rate of twenty- eight per cent would be equal to—
 
@@ -500,9 +560,11 @@ and a sum equal to the difference between that gross amount and the amount menti
 
 "(4E) in any case where tax has been deducted or deemed to have been deducted at the rate of thirty per cent on any dividend paid, credited or distributed during the basis year for the year of assessment 1998 to which subsection (2E) applies, the compared total shall be determined at the rate of twenty- eight per cent.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-17. Section 110 of the principal Act is amended-— of section
+17. Section 110 of the principal Act is amended-—
+
+<!-- marginal: of section -->
 
 110.
 
@@ -512,9 +574,7 @@ Amendment
 
 <!-- page 17 -->
 
-Finance (No. 2)
-
-<!-- marginal: 17 -->
+Finance (No. 2) 17
 
 109(2) or 109B(2) but excluding any increase thereof) shall, when the dividend, interest, royalty, or payment for services, technical advice, assistance, or rental or other income is gross income of a person from a source of his for the basis period for a year of assessment, be set off against the tax charged on his chargeable income, if any, for that year."; and
 
@@ -532,7 +592,7 @@ by inserting after the word "section" the words "83(5)
 
 <!-- marginal: 120. -->
 
-or".
+<!-- marginal: or". -->
 
 <!-- marginal: Amendment -->
 
@@ -560,15 +620,23 @@ or".
 
 (b) in Part VIII by inserting after the words "life fund" the words ", other than income arising from life re-insurance business and inward life re-insurance business,".
 
-Amendment
+<!-- marginal: Amendment -->
 
-20. Schedule 3 to the principal Act is amended in of Schedule paragraph 37c by substituting for the word "re-exported"
+20. Schedule 3 to the principal Act is amended in
+
+<!-- marginal: of Schedule -->
+
+paragraph 37c by substituting for the word "re-exported"
 
 3. the words "distributed or re-exported and there shall be substituted for the amount of the allowance which would otherwise fall to be made to him under paragraph 12, 16 or 17 an allowance of an amount equal to one-tenth of the qualifying expenditure for that year and for each of the nine following years of assessment".
 
-Amendment
+<!-- marginal: Amendment -->
 
-21. Schedule 7A to the principal Act is amended— of Schedule ?A.
+21. Schedule 7A to the principal Act is amended—
+
+<!-- marginal: of Schedule -->
+
+<!-- marginal: ?A. -->
 
 (a) by substituting for paragraph 1 the following paragraph:
 
@@ -624,7 +692,11 @@ Provided that where the qualifying project is located within the States of Sabah
 
 (i) by substituting for subparagraph (b) the following subparagraph:
 
-'(b) for the period prescribed under section 29(2), 29A(3), 29B(2), Act 327. 29c(2) or 29o(2) of the Promotion of Investments Act 1986 in respect of a promoted activity or promoted product for which the company has been granted approval under section 27, 27A, 27B, or 27F of that Act;"; and
+'(b) for the period prescribed under section 29(2), 29A(3), 29B(2),
+
+<!-- marginal: Act 327. -->
+
+29c(2) or 29o(2) of the Promotion of Investments Act 1986 in respect of a promoted activity or promoted product for which the company has been granted approval under section 27, 27A, 27B, or 27F of that Act;"; and
 
 (ii) by deleting subparagraph (c);
 
@@ -654,19 +726,45 @@ III
 
 ## (INCOME TAX) ACT 1967
 
-Commence-
+<!-- marginal: Commence- -->
 
-22. (1) Except for sections 24, 27 and 28, this Chapter ment of shall have effect for the year of assessment 1998 and amendments to the subsequent years of assessment. Petroleum (Income Tax)
+22. (1) Except for sections 24, 27 and 28, this Chapter
 
-(2) Section 24 shall be deemed to have come into Act 1967. force on 17 October 1997.
+<!-- marginal: ment of -->
+
+shall have effect for the year of assessment 1998 and
+
+<!-- marginal: amendments -->
+
+<!-- marginal: to the -->
+
+subsequent years of assessment.
+
+<!-- marginal: Petroleum -->
+
+<!-- marginal: (Income Tax) -->
+
+(2) Section 24 shall be deemed to have come into
+
+<!-- marginal: Act 1967. -->
+
+force on 17 October 1997.
 
 (3) Sections 27 and 28 shall come into force on 1 January 1999.
 
-Amendment
+<!-- marginal: Amendment -->
 
-23. The Petroleum (Income Tax) Act 1967, which in of section this Chapter is referred to as the "principal Act", is
+23. The Petroleum (Income Tax) Act 1967, which in
 
-16. Act 543. amended in section 16—
+<!-- marginal: of section -->
+
+this Chapter is referred to as the "principal Act", is
+
+16.
+
+<!-- marginal: Act 543. -->
+
+amended in section 16—
 
 (a) in paragraph (3)(a) by substituting for the word "seventeen" the word "nineteen"; and
 
@@ -710,15 +808,21 @@ by inserting after paragraph (k) the following paragraph:
 
 (lD) The chargeable income of a chargeable person for a year of assessment shall consist of the amount of his assessable income for that year reduced by an amount equal to the value of any gift of painting (to be determined by the National Art Gallery or any state art gallery) made by him in the basis period for that year of assessment to the National Art Gallery or any state art gallery.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-26. Subsection 23(1) of the principal Act is amended of section by substituting for the word "forty" the words "thirty-
+26. Subsection 23(1) of the principal Act is amended
+
+<!-- marginal: of section -->
+
+by substituting for the word "forty" the words "thirty-
 
 23. eight".
 
-Amendment
+<!-- marginal: Amendment -->
 
-27. Section 39 of the principal Act is amended— of section
+27. Section 39 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 39.
 
@@ -726,9 +830,13 @@ Amendment
 
 (b) in paragraph (2)(b) by substituting for the word "twelve" the word "six".
 
-Amendment
+<!-- marginal: Amendment -->
 
-28. Subsection 50(2) of the principal Act is amended of section by substituting for the word "twelve" the word "six".
+28. Subsection 50(2) of the principal Act is amended
+
+<!-- marginal: of section -->
+
+by substituting for the word "twelve" the word "six".
 
 50.
 
@@ -740,63 +848,79 @@ IV
 
 ## TAX ACT 1976
 
-Commence-
+<!-- marginal: Commence- -->
 
-29. (1) Section 30 shall come into force on 1 January ment of
+29. (1) Section 30 shall come into force on 1 January
 
-1999. amendments to the Real Property
+<!-- marginal: ment of -->
 
-(2) Sections 31 and 32 shall be deemed to have come Gains Tax into force on 17 October 1997. Act 1976.
+1999.
 
-Amendment
+<!-- marginal: amendments -->
 
-30. The Real Property Gains Tax Act 1976, which in of section this Chapter is referred to as the "principal Act", is
+<!-- marginal: to the Real -->
 
-15. Act 169. amended in subsection 15(1) by substituting for the word "twelve" the word "six".
+<!-- marginal: Property -->
 
-<!-- page 25 -->
+(2) Sections 31 and 32 shall be deemed to have come
+
+<!-- marginal: Gains Tax -->
+
+into force on 17 October 1997.
+
+<!-- marginal: Act 1976. -->
 
 <!-- marginal: Amendment -->
 
-31. Schedule 2 to the principal Act is amended in
+30. The Real Property Gains Tax Act 1976, which in
 
-<!-- marginal: of Schedule -->
+<!-- marginal: of section -->
 
-paragraph 34A—
+this Chapter is referred to as the "principal Act", is
 
-<!-- marginal: 2. -->
+15.
+
+<!-- marginal: Act 169. -->
+
+amended in subsection 15(1) by substituting for the word "twelve" the word "six".
+
+<!-- page 25 -->
+
+Amendment
+
+31. Schedule 2 to the principal Act is amended in of Schedule
+
+<!-- marginal: paragraph 34A— -->
+
+2.
 
 (a) by substituting for the colon at the end of sub- subparagraph (2)(b) a full stop;
 
-(b) by deleting the proviso to subparagraph (2); and
+(b) by deleting the proviso to subparagraph (2);
 
-(c) by substituting for subparagraph (3) the following subparagraph:
+<!-- marginal: and -->
 
-"(3) For the purposes of this paragraph, the acquisition price of a chargeable asset shall—
+(c) by substituting for subparagraph (3) the following
 
-(a) where subparagraph (2)(a)
+<!-- marginal: subparagraph: -->
 
-<!-- marginal: applies, -->
+"(3) For the purposes of this paragraph, the acquisition price of a chargeable asset
 
-be deemed to be equal to a sum determined in accordance with the formula—
+<!-- marginal: shall— -->
+
+(a) where subparagraph (2)(a) applies, be deemed to be equal to a sum determined in accordance with the
+
+<!-- marginal: formula— -->
 
 A x C, B
 
-where A is the number of shares deemed to be a chargeable asset;
+<!-- marginal: where A -->
 
-B is the total number of issued shares
+is the number of shares deemed to be a chargeable asset;
 
-<!-- marginal: in -->
+B is the total number of issued shares in the relevant company at the date of acquisition of the chargeable asset; and
 
-<!-- marginal: the -->
-
-relevant company at the date of acquisition of the chargeable asset; and
-
-C is the defined value of the real property or shares or both owned by the relevant company at the date of acquisition of
-
-<!-- marginal: the -->
-
-chargeable asset;
+C is the defined value of the real property or shares or both owned by the relevant company at the date of acquisition of the chargeable asset;
 
 (b) where subparagraph (2)(b) applies, be determined in accordance with paragraph 4 or 9.".
 
@@ -814,11 +938,21 @@ III
 
 In the case of an individual who is not a citizen and not a permanent resident, the following rates of tax shall apply:
 
-Category of disposal Rate of tax
+Category of disposal
 
-Disposal within five years after 30 per cent the date of acquisition of the chargeable asset
+<!-- marginal: Rate of tax -->
 
-Disposal in the sixth year after 5 per cent the date of acquisition of the chargeable asset or thereafter
+Disposal within five years after
+
+<!-- marginal: 30 per cent -->
+
+the date of acquisition of the chargeable asset
+
+Disposal in the sixth year after
+
+<!-- marginal: 5 per cent -->
+
+the date of acquisition of the chargeable asset or thereafter
 
 ## CHAPTER V
 
@@ -912,31 +1046,43 @@ the Excise Act 1976;'; and
 
 ' "value" in relation to imported goods means customs value as determined under subsection 142(358);'.
 
-Amendment
+<!-- marginal: Amendment -->
 
-39. The principal Act is amended by substituting for of section section 21 the following section:
+39. The principal Act is amended by substituting for
+
+<!-- marginal: of section -->
+
+section 21 the following section:
 
 21.
 
-Time of
+Time of 21. When by virtue of an order made under importa- section 11(1) a customs duty is fixed on any tion and exporta- goods which previously were not dutiable goods tion when or any customs duty on goods is abolished or duty is when the importation or exportation of any goods imposed or is prohibited or any such prohibition is abolished repealed. by an order made under section 31 and it becomes necessary for the purpose of this Act to determine the time at which an importation or exportation of any goods made and completed shall be deemed to have had effect, such importation or exportation shall, notwithstanding anything in this Act contained, be deemed to be the time at which the goods are released by the proper officer of customs.".
 
-21. When by virtue of an order made under importa- section 11(1) a customs duty is fixed on any tion and exporta- goods which previously were not dutiable goods tion when or any customs duty on goods is abolished or duty is when the importation or exportation of any goods imposed or is prohibited or any such prohibition is abolished repealed. by an order made under section 31 and it becomes necessary for the purpose of this Act to determine the time at which an importation or exportation of any goods made and completed shall be deemed to have had effect, such importation or exportation shall, notwithstanding anything in this Act contained, be deemed to be the time at which the goods are released by the proper officer of customs.".
+<!-- marginal: Amendment -->
 
-Amendment
+40. Section 24 of the principal Act is amended by
 
-40. Section 24 of the principal Act is amended by of section inserting after the word "airport" the words "and such
+<!-- marginal: of section -->
+
+inserting after the word "airport" the words "and such
 
 24. goods may be cleared at an inland clearance depot or an inland customs station".
 
-Amendment
+<!-- marginal: Amendment -->
 
-41. Section 29 of the principal Act is amended by of section inserting after the word "airport" the words "and such
+41. Section 29 of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+inserting after the word "airport" the words "and such
 
 29. goods may be cleared at an inland clearance depot or an inland customs station".
 
-Amendment
+<!-- marginal: Amendment -->
 
-42. Section 35 of the principal Act is amended— of section
+42. Section 35 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 35.
 
@@ -950,15 +1096,9 @@ Amendment
 
 ( c) if they have been cleared by a proper officer of customs at an inland clearance depot or at an inland customs station on their route out of Malaysia through a customs port or airport.", and
 
-<!-- marginal: Amendment -->
+Amendment
 
-43. The proviso to subsection 66(1) of the principal
-
-<!-- marginal: of section -->
-
-Act is amended—
-
-<!-- marginal: 66. -->
+43. The proviso to subsection 66(1) of the principal of section Act is amended— 66.
 
 (a) in paragraph (b) by inserting before the words "inland customs station" wherever they appear the words "inland clearance depot or"; and
 
@@ -966,17 +1106,9 @@ Act is amended—
 
 "(c) where the bill of lading, airway bill, invoice or other document covering any such goods landed at a customs port or airport shows them to be consigned to a person at an inland clearance depot or at an inland customs station, such goods may be forwarded by rail or road to an inland clearance depot or to an inland customs station, and such goods shall be deemed for the purposes of this Part, and Part IX, to have first arrived on reaching such inland clearance depot or inland customs station;".
 
-<!-- marginal: Amendment -->
+Amendment
 
-44. Subsection 80(2) of the principal Act is amended
-
-<!-- marginal: of section -->
-
-by substituting for paragraphs (a), (b), (c) and (d) the
-
-<!-- marginal: 80. -->
-
-following paragraphs:
+44. Subsection 80(2) of the principal Act is amended of section by substituting for paragraphs (a), (b), (c) and (d) the 80. following paragraphs:
 
 "(a) at an inland clearance depot or at an inland customs station or at a customs port where goods are loaded if export is by sea;
 
@@ -988,13 +1120,31 @@ following paragraphs:
 
 (d) at an inland clearance depot or at an inland customs station or at a customs airport where goods are loaded if export is by air.".
 
-New section
+<!-- marginal: New section -->
 
-45. The principal Act is amended under the heading 87A "Non-dutiable goods" by inserting after section 87 the following section:
+45. The principal Act is amended under the heading
 
-Provisional
+<!-- marginal: 87A -->
 
-87A. (1) Notwithstanding sections 80(1), 84, declaration ' 85, 86 and 87, the Director General may allow of exported any document approved by him to be used as goods. a provisional declaration, in lieu of the prescribed form, for goods if—
+"Non-dutiable goods" by inserting after section 87 the following section:
+
+<!-- marginal: Provisional -->
+
+87A. (1) Notwithstanding sections 80(1), 84,
+
+<!-- marginal: declaration -->
+
+' 85, 86 and 87, the Director General may allow
+
+<!-- marginal: of -->
+
+<!-- marginal: exported -->
+
+any document approved by him to be used as
+
+<!-- marginal: goods. -->
+
+a provisional declaration, in lieu of the prescribed form, for goods if—
 
 (a) such goods are to be exported by air, sea, rail or in any other manner approved by the Director General;
 
@@ -1020,9 +1170,17 @@ Provisional
 
 section 91 the following section:
 
-Licensed 9lA. (1) The Director General may grant a carrier. licence to any person to act as a licensed carrier subject to such terms and conditions as he may deem fit to impose and may suspend or withdraw such licence.
+<!-- marginal: Licensed -->
 
-(2) In granting a licence under subsection (1), the Director General may require such security to be furnished as he may consider adequate to cover the customs duty payable on the goods moved and for the faithful and incorrupt conduct of such licensed carrier and of his agents and employees acting for him both as regards the customs and his employers.".
+9lA. (1) The Director General may grant a
+
+<!-- marginal: carrier. -->
+
+licence to any person to act as a licensed carrier subject to such terms and conditions as he may deem fit to impose and may suspend or withdraw such licence.
+
+(2) In granting a licence under subsection
+
+(1), the Director General may require such security to be furnished as he may consider adequate to cover the customs duty payable on the goods moved and for the faithful and incorrupt conduct of such licensed carrier and of his agents and employees acting for him both as regards the customs and his employers.".
 
 <!-- marginal: New section -->
 
@@ -1032,27 +1190,39 @@ Licensed 9lA. (1) The Director General may grant a carrier. licence to any perso
 
 100 the following section:
 
-Records of 1OOA. (1) Every person who has possession of imported documents and records pertaining to valuation goods. of goods imported shall preserve for a period of six years following the importation of the goods all records that relate to the purchase of, importation of, cost of, value of, payment for and disposal of the goods.
+<!-- marginal: Records of -->
+
+1OOA. (1) Every person who has possession of
+
+<!-- marginal: imported -->
+
+documents and records pertaining to valuation
+
+<!-- marginal: goods. -->
+
+of goods imported shall preserve for a period of six years following the importation of the goods all records that relate to the purchase of, importation of, cost of, value of, payment for and disposal of the goods.
 
 <!-- page 32 -->
 
-(2) Any person who contravenes subsection
-
-(1) shall be guilty of an offence and—
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and—
 
 (a) where the value of the goods can be ascertained, shall be liable to a fine of not less than two times and not more than ten times the value of the goods; or
 
 (b) where the value of the goods cannot be ascertained, shall be liable to a fine of not less than one hundred thousand ringgit and not more than five hundred thousand ringgit.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-48. Paragraph 115(l)(b) of the principal Act is amended of section by substituting for subparagraph (i) the following
+48. Paragraph 115(l)(b) of the principal Act is amended
+
+<!-- marginal: of section -->
+
+by substituting for subparagraph (i) the following
 
 115. subparagraph:
 
 "(i) for property other than dutiable or uncustomed goods, its open market value, and for dutiable or uncustomed goods, their value, on the date on which the property or goods are so returned;".
 
-New section
+<!-- marginal: New section -->
 
 49. The principal Act is amended by inserting after section
 
@@ -1064,9 +1234,7 @@ New section
 
 (b) suffer or permit any person to have access to such information.
 
-(2) Any person who contravenes subsection
-
-(1) shall be guilty of an offence.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence.
 
 <!-- page 33 -->
 
@@ -1114,9 +1282,13 @@ inserting after paragraph (35A) the following paragraph:
 
 <!-- page 34 -->
 
-New section
+<!-- marginal: New section -->
 
-52. The principal Act is amended by inserting after section I43A. 143 the following section:
+52. The principal Act is amended by inserting after section
+
+<!-- marginal: I43A. -->
+
+143 the following section:
 
 "Appeal on 143A. (1) Notwithstanding section 143, any valuation person aggrieved by a decision of the Director imported General on the valuation of imported goods may goods. appeal therefrom to the court.
 
@@ -1132,19 +1304,47 @@ New section
 
 ## AMENDMENTS TO THE FREE ZONES ACT 1990
 
-Commence-
+<!-- marginal: Commence- -->
 
-53. This Chapter shall come into force on 1 January ment of
+53. This Chapter shall come into force on 1 January
 
-1998. amendments to the Free Zones Act 1990 Amendment
+<!-- marginal: ment of -->
 
-54. The Free Zones Act 1990, which in this Chapter is of section 2. referred to as the "principal Act", is amended in subsection Act 438, 2(1) by substituting for the definition of "value" in relation to imported goods the following definition:
+1998.
 
-' "value" in relation to imported goods has the Act 235 meaning assigned to it under section 2 of the Customs Act 1967.'.
+<!-- marginal: amendments -->
 
-Amendment
+<!-- marginal: to the Free -->
 
-55. Paragraph 27(1 )(b) of the principal Act is amended of section by substituting for subparagraph (i) the following
+<!-- marginal: Zones Act -->
+
+<!-- marginal: 1990 -->
+
+<!-- marginal: Amendment -->
+
+54. The Free Zones Act 1990, which in this Chapter is
+
+<!-- marginal: of section 2. -->
+
+referred to as the "principal Act", is amended in subsection
+
+<!-- marginal: Act 438, -->
+
+2(1) by substituting for the definition of "value" in relation to imported goods the following definition:
+
+' "value" in relation to imported goods has the
+
+<!-- marginal: Act 235 -->
+
+meaning assigned to it under section 2 of the Customs Act 1967.'.
+
+<!-- marginal: Amendment -->
+
+55. Paragraph 27(1 )(b) of the principal Act is amended
+
+<!-- marginal: of section -->
+
+by substituting for subparagraph (i) the following
 
 27. sub paragraph:
 
@@ -1184,9 +1384,7 @@ This clause also seeks to introduce new subsections 44(9), 44(10) and 44(11) to 
 
 (c) gifts of paintings made by a person to the National Art Gallery or state art gallery.
 
-These amendments will be effective from the year of assessment
-
-1998.
+These amendments will be effective from the year of assessment 1998.
 
 8. Clause 12 seeks to amend section 48 of the Act. Subsection 48(3) is amended to provide that from 17 October 1997 only ordinary deduction will be allowed in respect of a child receiving further education outside Malaysia.
 
@@ -1254,13 +1452,9 @@ This clause also seeks to introduce new subsections 22(lB), 22(lc) and 22(lD) to
 
 (c) gifts of paintings made by a chargeable person to the National Art Gallery or state art gallery.
 
-These amendments will be effective from the year of assessment
+These amendments will be effective from the year of assessment 1998.
 
-1998.
-
-20. Clause 26 seeks to amend subsection 23(1) of the Act to provide that the rate of tax be reduced from forty to thirty-eight per cent. This amendment will be effective from the year of assessment
-
-1998.
+20. Clause 26 seeks to amend subsection 23(1) of the Act to provide that the rate of tax be reduced from forty to thirty-eight per cent. This amendment will be effective from the year of assessment 1998.
 
 21. Clause 27 seeks to amend section 39 of the Act to provide that assessments and additional assessments be raised within six years instead of twelve. This amendment shall come into force from 1 January 1999.
 

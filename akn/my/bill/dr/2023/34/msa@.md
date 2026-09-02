@@ -8,7 +8,7 @@
 
 ## SUSUNAN FASAL
 
-## BAhAgiAN I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -20,7 +20,7 @@
 
 4. Tafsiran
 
-## BAhAgiAN II
+## BAHAGIAN II
 
 ## PRINSIP DASAR FISKAL
 
@@ -34,7 +34,7 @@
 
 9. Rangka Kerja Fiskal Jangka Masa Sederhana
 
-## BAhAgiAN III
+## BAHAGIAN III
 
 ## KOMPONEN UTAMA DASAR FISKAL
 
@@ -88,7 +88,7 @@ Pengurusan risiko fiskal
 
 25. Tanggungjawab untuk mengemukakan penyata kewangan
 
-## BAhAgiAN IV
+## BAHAGIAN IV
 
 ## PELAN PELARASAN FISKAL
 
@@ -98,7 +98,7 @@ Pengurusan risiko fiskal
 
 <!-- page 3 -->
 
-## BAhAgiAN V
+## BAHAGIAN V
 
 ## JAWATANKUASA DASAR FISKAL
 
@@ -110,7 +110,7 @@ Pengurusan risiko fiskal
 
 31. Jawatankuasa kecil
 
-## BAhAgiAN VI
+## BAHAGIAN VI
 
 ## PELAPORAN
 
@@ -136,9 +136,9 @@ Laporan prestasi perbelanjaan pertengahan tahun, penyata risiko fiskal dan penya
 
 38. Penyata perbelanjaan cukai
 
-## JAdUAL PertAmA
+## JADUAL PERTAMA
 
-## JAdUAL KedUA
+## JADUAL KEDUA
 
 <!-- page 5 -->
 
@@ -150,7 +150,7 @@ Suatu Akta untuk membuat peruntukan mengenai tanggungjawab, kebertanggungjawaban
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## BAhAgiAN I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -228,7 +228,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “Rangka Kerja Fiskal Jangka Masa Sederhana” ertinya rangka kerja yang dirumuskan oleh Menteri di bawah seksyen 9;
 
-“perbelanjaan mengurus” ertinya perbelanjaan yang disebut dalam Perkara 98, 100, 101, 102 dan 103 Perlembagaan Persekutuan;
+“perbelanjaan mengurus” ertinya perbelanjaan yang disebut dalam
+
+## Perkara 98, 100, 101, 102 dan 103 Perlembagaan Persekutuan;
 
 “liabiliti lain” ertinya liabiliti kewangan lain yang berbangkit daripada penghasilan jaminan kewangan atau apa-apa obligasi lain yang memerlukan peruntukan daripada Kumpulan Wang Disatukan Persekutuan;
 
@@ -242,7 +244,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 9 -->
 
-## BAhAgiAN II
+## BAHAGIAN II
 
 ## PRINSIP DASAR FISKAL
 
@@ -306,7 +308,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (3) Rangka Kerja Fiskal Jangka Masa Sederhana hendaklah disokong oleh suatu strategi hasil dan suatu dasar perbelanjaan awam.
 
-## BAhAgiAN III
+## BAHAGIAN III
 
 ## KOMPONEN UTAMA DASAR FISKAL
 
@@ -532,7 +534,7 @@ Pengurusan risiko fiskal
 
 <!-- page 20 -->
 
-## BAhAgiAN IV
+## BAHAGIAN IV
 
 ## PELAN PELARASAN FISKAL
 
@@ -578,7 +580,7 @@ Pengurusan risiko fiskal
 
 (4) Menteri hendaklah melaporkan kemajuan langkah-langkah seperti yang dinyatakan dalam perenggan (2)(b) dalam laporan tinjauan fiskal tahunan yang berikutnya.
 
-## BAhAgiAN V
+## BAHAGIAN V
 
 ## JAWATANKUASA DASAR FISKAL
 
@@ -640,7 +642,7 @@ Pengurusan risiko fiskal
 
 (5) Jawatankuasa kecil hendaklah tertakluk kepada, dan bertindak mengikut apa-apa arahan yang diberikan kepada jawatankuasa kecil oleh Jawatankuasa.
 
-## BAhAgiAN VI
+## BAHAGIAN VI
 
 ## PELAPORAN
 
@@ -682,9 +684,7 @@ Dokumen belanjawan tahunan
 
 (f) Rangka Kerja Fiskal Jangka Masa Sederhana;
 
-(g) apa-apa pelan pelarasan fiskal yang disebut di bawah
-
-## Bahagian IV jika berkenaan; dan
+(g) apa-apa pelan pelarasan fiskal yang disebut di bawah Bahagian IV jika berkenaan; dan
 
 (h) petunjuk fiskal lain yang berkaitan.
 
@@ -724,9 +724,15 @@ Laporan prestasi perbelanjaan pertengahan tahun, penyata risiko fiskal dan penya
 
 (a) perbelanjaan sebenar berbanding anggaran perbelanjaan;
 
-(b) perbelanjaan tambahan dan perbelanjaan lebih di bawah Perkara 101 Perlembagaan Persekutuan;
+(b) perbelanjaan tambahan dan perbelanjaan lebih di bawah
 
-(c) penggunaan Kumpulan Wang Luar Jangka di bawah Perkara 103 Perlembagaan Persekutuan dan Rizab Luar Jangka di bawah seksyen 6 Akta Kumpulan Wang Pembangunan 1966;
+## Perkara 101 Perlembagaan Persekutuan;
+
+(c) penggunaan Kumpulan Wang Luar Jangka di bawah
+
+## Perkara 103 Perlembagaan Persekutuan dan Rizab Luar
+
+Jangka di bawah seksyen 6 Akta Kumpulan Wang Pembangunan 1966;
 
 (d) kemajuan dalam pelaksanaan inisiatif atau langkah-langkah belanjawan Kerajaan berkenaan dengan tahun kewangan itu; dan
 
@@ -774,7 +780,7 @@ Laporan prestasi perbelanjaan pertengahan tahun, penyata risiko fiskal dan penya
 
 <!-- page 28 -->
 
-## JAdUAL PertAmA
+## JADUAL PERTAMA
 
 [Subseksyen 8(2)]
 
@@ -808,7 +814,7 @@ Jaminan kewangan sebagai peratusan kepada keluaran
 
 dalam negeri kasar
 
-## JAdUAL KedUA
+## JADUAL KEDUA
 
 [Seksyen 4 dan 17]
 
@@ -830,7 +836,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 <!-- page 29 -->
 
-## BAhAgiAN I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan memperkatakan tentang perkara permulaan.
 
@@ -842,7 +848,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 6. Fasal 4 mengandungi takrif perkataan dan ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## BAhAgiAN II
+## BAHAGIAN II
 
 7. Bahagian II Akta yang dicadangkan bertujuan untuk memperuntukkan prinsip berhubung dengan dasar fiskal.
 
@@ -864,7 +870,7 @@ Subfasal 8(4) bertujuan untuk memperuntukkan bahawa komponen utama dasar fiskal 
 
 12. Fasal 9 bertujuan untuk memperuntukkan bahawa Menteri hendaklah merumuskan Rangka Kerja Fiskal Jangka Masa Sederhana sebagai panduan perancangan, strategi dan keutamaan fiskal dalam jangka masa sederhana. Rangka Kerja Fiskal Jangka Masa Sederhana merupakan unjuran tiga hingga lima tahun kedudukan fiskal Kerajaan dengan sandaran andaian petunjuk ekonomi yang diunjurkan oleh Kerajaan. Rangka Kerja Fiskal Jangka Masa Sederhana hendaklah disokong oleh suatu strategi hasil dan suatu dasar perbelanjaan awam.
 
-## BAhAgiAN III
+## BAHAGIAN III
 
 13. Bahagian III Akta yang dicadangkan mengandungi empat penggal yang berhubungan dengan komponen utama dasar fiskal iaitu hasil, perbelanjaan awam, pengurusan pinjaman dan hutang serta pengurusan risiko fiskal.
 
@@ -966,7 +972,7 @@ Subfasal 25(3) bertujuan untuk memperuntukkan bahawa walau apa pun subfasal (1) 
 
 Subfasal 25(4) bertujuan untuk mentakrifkan ‘tahun kewangan’ yang disebut dalam subfasal 25(1) sebagai tahun kewangan sebagaimana yang ditakrifkan di bawah Akta Syarikat 2016.
 
-## BAhAgiAN IV
+## BAHAGIAN IV
 
 34. Bahagian IV Akta yang dicadangkan memperkatakan tentang pelan pelarasan fiskal.
 
@@ -976,7 +982,7 @@ Subfasal 25(4) bertujuan untuk mentakrifkan ‘tahun kewangan’ yang disebut da
 
 36. Fasal 27 bertujuan untuk memperuntukkan tentang ketidakcapaian objektif fiskal dan nilai kuantiti. Menteri dikehendaki untuk membentangkan suatu pelan pelarasan fiskal untuk diluluskan melalui ketetapan oleh Dewan Rakyat sekiranya objektif fiskal dan nilai kuantiti sebagaimana yang dinyatakan dalam Jadual Pertama tidak tercapai. Fasal ini juga memperuntukkan bahawa pelan pelarasan fiskal di bawah fasal ini hendaklah mengandungi, alasan ketidakcapaian objektif fiskal dan nilai kuantiti, langkah-langkah yang akan diambil oleh Kerajaan untuk mencapai objektif fiskal dan nilai kuantiti, jangkaan tempoh masa yang akan diambil oleh Kerajaan untuk mencapai objektif fiskal dan nilai kuantiti dan maklumat lain yang berkaitan dengan pelan pelarasan fiskal. Selanjutnya, fasal ini juga bertujuan untuk memperuntukkan bahawa sekiranya pelan pelarasan fiskal itu tidak diluluskan, Dewan Rakyat boleh meluluskan suatu ketetapan untuk menghendaki Menteri menambah baik pelan pelarasan fiskal untuk dibentangkan di Dewan Rakyat dengan seberapa segera yang boleh praktik dan Menteri hendaklah melaporkan kemajuan langkah-langkah yang dinyatakan dalam perenggan 27(2)(b) dalam laporan tinjauan fiskal tahunan yang berikutnya.
 
-## BAhAgiAN V
+## BAHAGIAN V
 
 37. Bahagian V Akta yang dicadangkan memperkatakan tentang Jawatankuasa Dasar Fiskal.
 
@@ -994,7 +1000,7 @@ Subfasal 29(2) dan (3) bertujuan untuk memperuntukkan bahawa ketua bahagian yang
 
 41. Fasal 31 bertujuan untuk mengadakan peruntukan bagi penubuhan jawatankuasa kecil. Jawatankuasa Dasar Fiskal boleh, menubuhkan jawatankuasa kecil untuk menilai risiko fiskal, hutang dan liabiliti lain kepada Kerajaan, dan menentukan keanggotaan jawatankuasa kecil. Fasal ini juga bertujuan untuk menghendaki jawatankuasa kecil melapor dan membuat syor kepada Jawatankuasa. Selanjutnya, fasal ini bertujuan untuk membenarkan jawatankuasa kecil menentukan tatacaranya sendiri. Walau bagaimanapun, jawatankuasa kecil hendaklah tertakluk kepada, dan bertindak mengikut apa-apa arahan yang diberikan oleh Jawatankuasa.
 
-## BAhAgiAN VI
+## BAHAGIAN VI
 
 42. Bahagian VI Akta yang dicadangkan mengandungi dua penggal berkenaan perkara yang berhubungan dengan pelaporan.
 
@@ -1016,7 +1022,11 @@ fiskal sektor awam disatukan, Rangka Kerja Fiskal Jangka Masa Sederhana, apa-apa
 
 46. Fasal 34 bertujuan untuk menghendaki Menteri memberikan maklumat mengenai kutipan hasil sebenar bagi tahun kewangan sebelumnya berkenaan dengan penyata anggaran hasil di bawah Fasal (1) Perkara 99 Perlembagaan Persekutuan, anggaran hasil yang disemak bagi tahun kewangan semasa, anggaran hasil bagi tahun kewangan berikutnya serta maklumat mengenai hasil cukai dan bukan cukai.
 
-47. Fasal 35 bertujuan untuk menghendaki Menteri untuk memberikan maklumat mengenai anggaran perbelanjaan Kerajaan mengikut Fasal (1) Perkara 99 Perlembagaan Persekutuan. Fasal ini juga bertujuan untuk memperuntukkan bahawa anggaran perbelanjaan hendaklah mengandungi maklumat program dan aktiviti bagi perbelanjaan mengurus, program dan projek bagi perbelanjaan pembangunan, prestasi program dan maklumat lain yang berkaitan yang berhubungan dengan anggaran perbelanjaan.
+47. Fasal 35 bertujuan untuk menghendaki Menteri untuk memberikan maklumat mengenai anggaran perbelanjaan Kerajaan mengikut Fasal (1)
+
+## Perkara 99 Perlembagaan Persekutuan. Fasal ini juga bertujuan untuk
+
+memperuntukkan bahawa anggaran perbelanjaan hendaklah mengandungi maklumat program dan aktiviti bagi perbelanjaan mengurus, program dan projek bagi perbelanjaan pembangunan, prestasi program dan maklumat lain yang berkaitan yang berhubungan dengan anggaran perbelanjaan.
 
 Penggal 2
 

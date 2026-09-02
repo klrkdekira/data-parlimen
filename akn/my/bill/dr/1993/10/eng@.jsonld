@@ -134,7 +134,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/10/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after the definition of \"Secretary\" the following new definition: \"sewage\" has the same meaning assigned to it under the Sewerage Act Services Act 1993;'. Amendment"
+        "@value": "by inserting after the definition of \"Secretary\" the following new definition: \"sewage\" has the same meaning assigned to it under the Sewerage Act Services Act 1993;'."
       }
     },
     {
@@ -147,9 +147,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/10/eng@/~cl_3__para_c"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/10/eng@",
-      "schema:text": {
+      "schema:name": {
         "@language": "en",
-        "@value": "Section 72 of the principal Act is amended— of section 72."
+        "@value": "Section 72 of the principal Act is amended—"
       }
     },
     {
@@ -179,7 +179,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/10/eng@/~cl_3",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after subsection (1) the following new subsection (2): \"(2) For the purposes of sections 72 and 73, effluent shall not include sewage.\". Amendment"
+        "@value": "by inserting after subsection (1) the following new subsection (2): \"(2) For the purposes of sections 72 and 73, effluent shall not include sewage.\"."
       }
     },
     {
@@ -192,9 +192,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/10/eng@/~cl_4__para_c"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/10/eng@",
-      "schema:text": {
+      "schema:name": {
         "@language": "en",
-        "@value": "Section 73 of the principal Act is amended— of section 73."
+        "@value": "Section 73 of the principal Act is amended—"
       }
     },
     {
@@ -224,7 +224,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/10/eng@/~cl_4",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after subsection (1) the following new subsection (2): \"(2) Notwithstanding any other provision in this Act, a local authority shall not make, amend or revoke any by-laws in respect of sewage.\". New section"
+        "@value": "by inserting after subsection (1) the following new subsection (2): \"(2) Notwithstanding any other provision in this Act, a local authority shall not make, amend or revoke any by-laws in respect of sewage.\"."
       }
     },
     {
@@ -238,7 +238,7 @@
       },
       "schema:text": {
         "@language": "en",
-        "@value": "128. section 128 the following: Further 128. In addition to the rates referred to in rates. section 127, the local authority may in like manner impose a drainage rate in accordance with section 132.\". Amendment"
+        "@value": "128. section 128 the following: Further 128. In addition to the rates referred to in rates. section 127, the local authority may in like manner impose a drainage rate in accordance with section 132.\"."
       }
     },
     {
@@ -252,7 +252,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/10/eng@",
       "schema:name": {
         "@language": "en",
-        "@value": "Section 130 of the principal Act is amended— of section"
+        "@value": "Section 130 of the principal Act is amended—"
       },
       "schema:text": {
         "@language": "en",

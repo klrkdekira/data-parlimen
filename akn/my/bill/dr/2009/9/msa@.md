@@ -56,9 +56,7 @@ daripada dua puluh orang anggota. (2) Anggota Suruhanjaya hendaklah dilantik ole
 
 (c) tiga orang anggota lain, daripada kalangan orang yang terkemuka, yang akan dilantik oleh Perdana Menteri.
 
-(2) Anggota jawatankuasa yang disebut dalam subseksyen (1) hendaklah berkhidmat dengan jawatankuasa bagi apa-apa tempoh dan atas apa-apa terma dan syarat sebagaimana yang dinyatakan
-
-<!-- marginal: dalam -->
+(2) Anggota jawatankuasa yang disebut dalam subseksyen (1) hendaklah berkhidmat dengan jawatankuasa bagi apa-apa tempoh dan atas apa-apa terma dan syarat sebagaimana yang dinyatakan dalam
 
 <!-- marginal: surat -->
 
@@ -84,11 +82,7 @@ pelantikannya.
 
 jawatankuasa apabila dirundingi oleh Perdana Menteri di bawah subseksyen 5(2) tidak mengikat Perdana Menteri.
 
-(7) Bagi maksud seksyen
-
-<!-- marginal: ini, “pegawai penguat -->
-
-kuasa” ertinya pegawai –
+(7) Bagi maksud seksyen ini, “pegawai penguat kuasa” ertinya pegawai –
 
 (a) mana-mana Kementerian, Jabatan, Agensi atau mana-mana badan lain yang dibentuk oleh Kerajaan Persekutuan, termasuk suatu unit, seksyen, bahagian, jabatan atau agensi Kementerian, Jabatan, Agensi atau badan itu, yang diberi fungsi penguatkuasaan oleh
 

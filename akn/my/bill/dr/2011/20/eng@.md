@@ -14,7 +14,29 @@
 
 ## LICENSING
 
-4. Prohibition from carrying on money services business 5. Application for licence 6. Requirements for a licence 7. Grant or refusal of licence 8. Fees 9. Renewal of licence 10. Conditions of licence 11. Display of licence 12. Revocation of licence 13. Appeal against revocation of licence 14. Licence to be forwarded to the Bank 15. Effect of expiry, non-renewal, revocation or surrender of licence 16. Surrender of licence 17. Preservation of rights and claims 18. Approval for change in name of licensee 19. Restriction of business 20. Publication of list of licensees
+4. Prohibition from carrying on money services business 5. Application for licence 6. Requirements for a licence 7. Grant or refusal of licence 8. Fees 9. Renewal of licence
+
+10. Conditions of licence
+
+11. Display of licence
+
+12. Revocation of licence
+
+13. Appeal against revocation of licence
+
+14. Licence to be forwarded to the Bank
+
+15. Effect of expiry, non-renewal, revocation or surrender of licence
+
+16. Surrender of licence
+
+17. Preservation of rights and claims
+
+18. Approval for change in name of licensee
+
+19. Restriction of business
+
+20. Publication of list of licensees
 
 <!-- page 2 -->
 
@@ -438,7 +460,9 @@ and the word “control” shall be construed accordingly;
 
 (g) the applicant has met other requirements which are necessary to manage the operations of the money services business as the Bank may specify.
 
-(2) The Bank shall have full discretion to determine whether an applicant has complied with the requirements under subsection (1).
+(2) The Bank shall have full discretion to determine whether an applicant has complied with the requirements under subsection
+
+(1).
 
 (3) The Bank, in considering the application for a licence under section 5 shall take into account the following matters:
 
@@ -664,7 +688,9 @@ as the case may be; or
 
 20. (1) The Bank shall publish in the Gazette a list of licensees not later than on 30 April in each year.
 
-(2) Where there is any amendment to the list of licensees under subsection (1) at any time during the interval between one publication and the next following publication under subsection (1), the Bank shall cause to be published in the Gazette a notice thereof.
+(2) Where there is any amendment to the list of licensees under subsection (1) at any time during the interval between one publication and the next following publication under subsection
+
+(1), the Bank shall cause to be published in the Gazette a notice thereof.
 
 (3) Without prejudice to subsection (1), the Bank may publish the list of licensees or any amendments to the list in such form and manner as the Bank thinks fit.
 
@@ -806,7 +832,9 @@ any other person.
 
 and the reasons therefor within fourteen days from the date of the cessation of office or the charge, as the case may be.
 
-(11) Any person who contravenes subsection (1), (3), (4), (6), (8) or (10) commits an offence.
+(11) Any person who contravenes subsection (1), (3), (4), (6),
+
+(8) or (10) commits an offence.
 
 ### Appointment of auditor
 
@@ -862,7 +890,9 @@ within such time as the Bank may specify.
 
 (10) For the purpose of this section, “financial statement” includes the latest audited annual balance sheet, profit and loss account, and statement setting out the sources of the funds, of a licensee.
 
-(11) A licensee who contravenes subsection (1), (2), (3), (7), (8) or (9) commits an offence.
+(11) A licensee who contravenes subsection (1), (2), (3), (7),
+
+(8) or (9) commits an offence.
 
 (12) An auditor who contravenes subsection (3), (4) or (6) commits an offence.
 
@@ -984,7 +1014,9 @@ as the Bank may prescribe.
 
 (7) Where a licensee is declared insolvent or is wound up by an order of a court, the moneys in an account maintained under subsection (1) shall not be deemed to form part of the property of the licensee.
 
-(8) A licensee who contravenes subsection (1), (2), (3), (4), (5) or (6) commits an offence and shall, on conviction, be liable to a fine not exceeding five million ringgit or to imprisonment for a term not exceeding ten years or to both.
+(8) A licensee who contravenes subsection (1), (2), (3), (4),
+
+(5) or (6) commits an offence and shall, on conviction, be liable to a fine not exceeding five million ringgit or to imprisonment for a term not exceeding ten years or to both.
 
 <!-- page 36 -->
 
@@ -1244,7 +1276,9 @@ to an examiner for purposes of the examination within such time and manner as th
 
 (4) The obligation on a director, chief executive officer, employee or auditor referred to in subsection (1) shall continue after the termination or cessation of his appointment or employment with the licensee or money services business agent.
 
-(5) Any person who has any document or information which to his knowledge has been disclosed in contravention of subsection (1) shall not disclose the same to any other person.
+(5) Any person who has any document or information which to his knowledge has been disclosed in contravention of subsection
+
+(1) shall not disclose the same to any other person.
 
 (6) Any person who contravenes subsection (1), (4) or (5) or fails to comply with any condition imposed under subsection (3) commits an offence.
 
@@ -1676,7 +1710,9 @@ such person has committed a breach under this Act.
 
 <!-- page 65 -->
 
-(2) Where a person has committed a breach under subsection (1) and the Bank is satisfied that it is appropriate to take action against that person, the Bank may take one or more of the following actions:
+(2) Where a person has committed a breach under subsection
+
+(1) and the Bank is satisfied that it is appropriate to take action against that person, the Bank may take one or more of the following actions:
 
 (a) to direct the person in breach to comply with, observe, enforce or give effect to such provisions, guidelines circulars, standards or notices, as the case may be;
 
@@ -1838,7 +1874,9 @@ for or on account of, or in respect of, any act done or statement made or omitte
 
 (2) No person, who for any reason, has by any means access to any information or document relating to the customers of a licensee or money services business agent, shall give, produce, divulge, reveal, publish or otherwise disclose to any person, or make a record for any person of, any information or document relating to such customer.
 
-(3) No person who has any information or document which to his knowledge has been disclosed in contravention of subsection (1) or (2) shall in any manner disclose the information or document to any other person.
+(3) No person who has any information or document which to his knowledge has been disclosed in contravention of subsection
+
+(1) or (2) shall in any manner disclose the information or document to any other person.
 
 (4) Any person who contravenes this section commits an offence.
 
@@ -2022,7 +2060,19 @@ may be, or section 5 of the Payment Systems Act 2003 in relation to remittance s
 
 The following provisions are excluded from administrative actions by the Bank:
 
-1. subsection 4(1); 2. subsection 7(4); 3. subsection 9(11); 4. subsection 10(3); 5. subsection 15(1); 6. subsection 19(1); 7. subsection 21(1);
+1. subsection 4(1);
+
+2. subsection 7(4);
+
+3. subsection 9(11);
+
+4. subsection 10(3);
+
+5. subsection 15(1);
+
+6. subsection 19(1);
+
+7. subsection 21(1);
 
 <!-- page 80 -->
 

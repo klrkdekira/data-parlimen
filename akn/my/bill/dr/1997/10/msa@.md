@@ -56,41 +56,19 @@ III
 
 ## TUIUAN DAN KUASA BANK
 
-Pasal
-
-9. Tujuan dan kuasa Bank.
+Pasal 9. Tujuan dan kuasa Bank.
 
 ## BAHAGIAN V
 
 ## SUBSIDIARI DAN PEJABAT BANK
 
-10. Kawalan ke atas penubuhan atau pemerolehan subsidiari.
-
-11. Sekatan ke atas penubuhan pejabat Bank.
+10. Kawalan ke atas penubuhan atau pemerolehan subsidiari. 11. Sekatan ke atas penubuhan pejabat Bank.
 
 ## BAHAGIAN VI
 
 ## KEHENDAK KEWANGAN DAN TUGAS BANK
 
-12. Penyenggaraan kumpulan wang rizab.
-
-13. Penyenggaraan wang modal.
-
-14. Penyenggaraan aset cair.
-
-15. Penyenggaraan aset di Malaysia.
-
-16. Pelaburan wang.
-
-17. Pelantikan juruaudit.
-
-18. Tugas juruaudit.
-
-19. Penyata kewangan hendaklah dikemukakan kepada Menteri.
-
-20. Penyiaran dan pameran kunci kira-kira beraudit, dsb.
-
-21. Statistik dan maklumat hendaklah dikemukakan.
+12. Penyenggaraan kumpulan wang rizab. 13. Penyenggaraan wang modal. 14. Penyenggaraan aset cair. 15. Penyenggaraan aset di Malaysia. 16. Pelaburan wang. 17. Pelantikan juruaudit. 18. Tugas juruaudit. 19. Penyata kewangan hendaklah dikemukakan kepada Menteri. 20. Penyiaran dan pameran kunci kira-kira beraudit, dsb. 21. Statistik dan maklumat hendaklah dikemukakan.
 
 ## BAHAGIAN VII
 
@@ -234,35 +212,23 @@ IX
 
 74. Pembelaan.
 
-75. Pencantuman kesalahan-kesalahan.
-
-76. Kuasa Menteri untuk mengkompaun kesalahan-kesalahan.
+75. Pencantuman kesalahan-kesalahan. 76. Kuasa Menteri untuk mengkompaun kesalahan-kesalahan.
 
 77. Pendakwaan.
 
 78. Kesalahan-kesalahan hendaklah menjadi kesalahan boleh tangkap.
 
-79. Kewajipan pegawai penyiasat untuk menyerahkan orang yang ditangkap kepada pihak polis.
-
-80. Percubaan, persediaan, persubahatan dan komplot yang boleh dihukum sebagai kesalahan.
-
-81. Penalti am.
+79. Kewajipan pegawai penyiasat untuk menyerahkan orang yang ditangkap kepada pihak polis. 80. Percubaan, persediaan, persubahatan dan komplot yang boleh dihukum sebagai kesalahan. 81. Penalti am.
 
 ## BAHAGIAN XIII
 
 ## PERUNTUKAN-PERUNTUKAN AM
 
-82. Pengemukaan kepada Menteri maklumat yang dikehendaki olehnya.
-
-83. Indemniti.
-
-84. Kawalan ke atas iklan yang diterbitkan oleh Bank.
-
-85. Larangan mengenai penerimaan alang, komisen, dll.
-
-86. Perniagaan bank atau kewangan Islam.
+82. Pengemukaan kepada Menteri maklumat yang dikehendaki olehnya. 83. Indemniti. 84. Kawalan ke atas iklan yang diterbitkan oleh Bank. 85. Larangan mengenai penerimaan alang, komisen, dll. 86. Perniagaan bank atau kewangan Islam.
 
 <!-- page 6 -->
+
+<!-- marginal: Fasal -->
 
 87. Peraturan-peraturan.
 
@@ -318,13 +284,29 @@ pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta,
 
 "anggota", berhubungan dengan Bank, ertinya seseorang pemegang syer Bank;
 
-"Bank" ertinya suatu syarikat di bawah nama Bank Simpanan Nasional Berhad yang diperbadankan di bawah Akta Syarikat 1965 menurut seksyen 3 dan termasuklah Akta 125, pejabatnya;
+"Bank" ertinya suatu syarikat di bawah nama Bank Simpanan Nasional Berhad yang diperbadankan di bawah Akta Syarikat 1965 menurut seksyen 3 dan termasuklah
 
-"Bank Negara" ertinya Bank Negara Malaysia yang Akta 519. ditubuhkan oleh Akta Bank Negara Malaysia 1958;
+<!-- marginal: Akta 125, -->
 
-"Bank Simpanan Nasional" ertinya suatu pertubuhan Akta 146. perbadanan yang ditubuhkan di bawah seksyen 3 Akta Bank Simpanan Nasional 1974;
+pejabatnya;
 
-"berhubungan", berhubungan dengan sesuatu perbadan- an, ertinya berhubungan mengikut pengertian seksyen 6 Akta 125. Akta Syarikat 1965;
+"Bank Negara" ertinya Bank Negara Malaysia yang
+
+<!-- marginal: Akta 519. -->
+
+ditubuhkan oleh Akta Bank Negara Malaysia 1958;
+
+"Bank Simpanan Nasional" ertinya suatu pertubuhan
+
+<!-- marginal: Akta 146. -->
+
+perbadanan yang ditubuhkan di bawah seksyen 3 Akta Bank Simpanan Nasional 1974;
+
+"berhubungan", berhubungan dengan sesuatu perbadan- an, ertinya berhubungan mengikut pengertian seksyen 6
+
+<!-- marginal: Akta 125. -->
+
+Akta Syarikat 1965;
 
 "ditetapkan" ertinya ditetapkan melalui perintah yang disiarkan dalam Warta\
 
@@ -370,9 +352,17 @@ pada apa-apa bahan, material, benda atau artikel;
 
 (f) penyiaran bunyi, televisyen atau media elektronik yang lain;
 
-"institusi berlesen" ertinya mana-mana institusi yang Akta 372. dilesenkan di bawah subseksyen 6(4) Akta Bank dan Institusi-Institusi Kewangan 1989;
+"institusi berlesen" ertinya mana-mana institusi yang
 
-"juruaudit syarikat yang diluluskan" mempunyai erti Akta 125. yang diberikan kepadanya oleh subseksyen 4(1) Akta Syarikat 1965;
+<!-- marginal: Akta 372. -->
+
+dilesenkan di bawah subseksyen 6(4) Akta Bank dan Institusi-Institusi Kewangan 1989;
+
+"juruaudit syarikat yang diluluskan" mempunyai erti
+
+<!-- marginal: Akta 125. -->
+
+yang diberikan kepadanya oleh subseksyen 4(1) Akta Syarikat 1965;
 
 "kemudahan kredit" ertinya—
 
@@ -382,7 +372,11 @@ pada apa-apa bahan, material, benda atau artikel;
 
 (c) apa-apa urusniaga atau transaksi lain sebagaimana yang ditetapkan oleh Menteri;
 
-"kepentingan dalam suatu syer" hendaklah ditafsirkan sebagaimana yang diperuntukkan di bawah subseksyen 6A(2) hingga 6A(10) termasuk kedua-duanya, dalam Akta Akta 125. Syarikat 1965;
+"kepentingan dalam suatu syer" hendaklah ditafsirkan sebagaimana yang diperuntukkan di bawah subseksyen 6A(2) hingga 6A(10) termasuk kedua-duanya, dalam Akta
+
+<!-- marginal: Akta 125. -->
+
+Syarikat 1965;
 
 "ketua eksekutif', berhubungan dengan Bank, ertinya seseorang, tidak kira dengan apa jua namanya disebut, yang, sama ada secara indiyidu atau bersesama dengan seorang atau beberapa orang lain, adalah bertanggung-
 
@@ -410,7 +404,11 @@ jawab, tertakluk kepada kuasa pengarah, bagi penjalanan urusan dan pentadbiran B
 
 "pengarah" termasuklah mana-mana orang yang memegang jawatan pengarah, tidak kira dengan apa jua pun namanya disebut dan, khususnya, tanpa menjejaskan peruntukan terdahulu, dalam hal—
 
-(a) suatu perbadanan, mempunyai erti yang diberikan Akta 125. kepadanya oleh Akta Syarikat 1965;
+(a) suatu perbadanan, mempunyai erti yang diberikan
+
+<!-- marginal: Akta 125. -->
+
+kepadanya oleh Akta Syarikat 1965;
 
 (b) suatu koperasi, ertinya seorang anggota lembaga, atau badan pengelola lain, tidak kira dengan apa jua pun namanya disebut, bagi koperasi itu;
 
@@ -428,7 +426,11 @@ jawab, tertakluk kepada kuasa pengarah, bagi penjalanan urusan dan pentadbiran B
 
 (b) mempunyai kuasa melantik atau menyebabkan dilantik sebilangan besar pengarah Bank; atau
 
-(c) mempunyai kuasa membuat atau menyebabkan dibuat, keputusan-keputusan berkenaan dengan perniagaan atau pentadbiran Bank, dan melaksanakan keputusan-keputusan itu atau menyebabkan keputusan-keputusan itu dilaksanakan,
+(c) mempunyai kuasa membuat atau menyebabkan dibuat, keputusan-keputusan berkenaan dengan perniagaan atau pentadbiran Bank, dan melaksanakan keputusan-keputusan itu atau menyebabkan keputusan-keputusan
+
+<!-- marginal: itu -->
+
+dilaksanakan,
 
 dan perkataan "kawalan" hendaklah ditafsirkan dengan sewajarnya;
 
@@ -478,7 +480,11 @@ oleh subseksyen 4(1) Akta Syarikat 1965;
 
 (i) mana-mana suami atau isteri, atau mana-mana orang yang mempunyai pertalian nasab langsung ke atas atau ke bawah, dengan orang yang disebut dalam perenggan (h);
 
-"sekuriti" mempunyai erti yang diberikan kepadanya Akta 280. oleh subseksyen 2(1) Akta Perindustrian Sekuriti 1983;
+"sekuriti" mempunyai erti yang diberikan kepadanya
+
+<!-- marginal: Akta 280. -->
+
+oleh subseksyen 2(1) Akta Perindustrian Sekuriti 1983;
 
 "sekutu perniagaan" seseorang termasuklah—
 
@@ -586,13 +592,21 @@ bawah mana-mana peruntukan Akta ini, untuk mengemukakan, mengadakan atau menyedi
 
 ## PERUNTUKAN-PERUNTUKANPELETAKHAKAN
 
-Bank.
+<!-- marginal: Bank. -->
 
-3. Maka hendaklah ada suatu syarikat yang diperbadan- Akta 125. kan di bawah Akta Syarikat 1965 di bawah nama "Bank Simpanan Nasional Berhad".
+3. Maka hendaklah ada suatu syarikat yang diperbadan-
 
-Peruntukan
+<!-- marginal: Akta 125. -->
 
-4. (1) Menteri boleh, melalui perintah yang disiarkan peletakhakan. dalam Warta, menetapkan suatu tarikh peletakhakan dan pada tarikh itu, segala harta, hak dan liabiliti Bank Simpanan Nasional hendaklah menurut kuasa Akta
+kan di bawah Akta Syarikat 1965 di bawah nama "Bank Simpanan Nasional Berhad".
+
+<!-- marginal: Peruntukan -->
+
+4. (1) Menteri boleh, melalui perintah yang disiarkan
+
+<!-- marginal: peletakhakan. -->
+
+dalam Warta, menetapkan suatu tarikh peletakhakan dan pada tarikh itu, segala harta, hak dan liabiliti Bank Simpanan Nasional hendaklah menurut kuasa Akta
 
 <!-- marginal: ini -->
 
@@ -620,9 +634,19 @@ peruntukan-peruntukan dalam Bahagian Tiga Puluh Kanun Tanah Negara hendaklah, ba
 
 (8) Pada dan selepas tarikh peletakhakan, apa-apa perjanjian yang berhubungan dengan mana-mana harta, hak dan liabiliti yang dipindahkan kepada dan terletakhak pada Bank di bawah subseksyen (1) yang kepadanya Bank Simpanan Nasional adalah suatu pihak sebelum sahaja tarikh peletakhakan itu, sama ada secara bertulis atau tidak, dan sama ada atau tidak sedemikian sifatnya sehingga hak dan liabiliti di bawahnya boleh diserahhakkan oleh Bank Simpanan Nasional, hendaklah mempunyai kesan seolah-olah Bank telah menjadi suatu pihak kepada perjanjian itu.
 
-Pegangan
+<!-- marginal: Pegangan -->
 
-5. (1) Berbangkit daripada peletakhakan harta, hak, dan permulaan liabiliti pada Bank di bawah seksyen 4, Bank hendaklah Kerajaan dalam Bank. menerbitkan apa-apa sekuriti Bank sebagaimana yang diarahkan oleh Menteri, dari semasa ke semasa, kepada Perbadanan.
+5. (1) Berbangkit daripada peletakhakan harta, hak, dan
+
+<!-- marginal: permulaan -->
+
+liabiliti pada Bank di bawah seksyen 4, Bank hendaklah
+
+<!-- marginal: Kerajaan -->
+
+<!-- marginal: dalam Bank. -->
+
+menerbitkan apa-apa sekuriti Bank sebagaimana yang diarahkan oleh Menteri, dari semasa ke semasa, kepada Perbadanan.
 
 (2) Sekuriti yang dikehendaki diterbitkan menurut seksyen ini hendaklah—
 
@@ -630,7 +654,11 @@ Pegangan
 
 (b) daripada apa-apa nilai nominal sebagaimana yang diarahkan oleh Menteri; dan
 
-(c) diterbitkan sebagai berbayar penuh dan dikira bagi maksud Akta Syarikat 1965 seolah-olah ia Akta 125. telah dibayar disebabkan oleh pembayaran kepada Bank nilai nominalnya.
+(c) diterbitkan sebagai berbayar penuh dan dikira bagi maksud Akta Syarikat 1965 seolah-olah ia
+
+<!-- marginal: Akta 125. -->
+
+telah dibayar disebabkan oleh pembayaran kepada Bank nilai nominalnya.
 
 (3) Menteri boleh melupuskan mana-mana sekuriti yang diterbitkan atau mana-mana hak terhadap sekuriti yang diuntukkan permulaannya kepada Perbadanan menurut seksyen ini.
 
@@ -660,9 +688,7 @@ bila masa memperolehi—
 
 <!-- marginal: Akta 61. -->
 
-bawah subperenggan 8(3)(a)(iv) Akta Prosedur Kewangan
-
-1957.
+bawah subperenggan 8(3)(a)(iv) Akta Prosedur Kewangan 1957.
 
 (4) Apa-apa dividen atau jumlah wang lain yang diterima oleh Perbadanan sebagai hak pada, atas pelupusan atau selainnya yang berkaitan dengan, mana-mana sekuriti atau hak yang diperolehi di bawah seksyen ini hendaklah dibayar ke dalam Kumpulan Wang Disatukan.
 
@@ -704,7 +730,7 @@ III
 
 ## KAKITANGAN
 
-Kakitangan.
+<!-- marginal: Kakitangan. -->
 
 8. (1) Bank hendaklah menerima sebagai pekerjanya pada tarikh yang ditetapkan tiap-tiap orang yang sebelum sahaja tarikh itu ialah anggota kakitangan Bank Simpanan Nasional dan yang telah diberikan pilihan oleh Bank Simpanan Nasional dan telah membuat pilihan untuk berkhidmat sebagai pekerja Bank.
 
@@ -716,9 +742,17 @@ IV
 
 ## TUJUAN DAN KUASA BANK
 
-Tujuan dan
+<!-- marginal: Tujuan dan -->
 
-9. (1) Tanpa menjejaskan kuasa-kuasanya di bawah Akta kuasa Bank. Syarikat 1965, tujuan dan kuasa Bank hendaklah Akta 125. termasuk—
+9. (1) Tanpa menjejaskan kuasa-kuasanya di bawah Akta
+
+<!-- marginal: kuasa Bank. -->
+
+Syarikat 1965, tujuan dan kuasa Bank hendaklah
+
+<!-- marginal: Akta 125. -->
+
+termasuk—
 
 (a) menggalakkan dan menggembleng simpanan daripada orang awam khususnya penyimpan kecil dan memupuk pengurusan kewangan yang kukuh daripada sumber mereka supaya dapat memperbaiki dan meningkatkan kemajuan ekonomi mereka;
 
@@ -796,11 +830,7 @@ Tujuan dan
 
 (vii) menjalankan perniagaan insurans;
 
-(y) menjalankan apa-apa perniagaan
-
-<!-- marginal: lain -->
-
-sebagaimana yang ditetapkan oleh Menteri dan melakukan apa-apa perkara lain yang bersampingan atau berfaedah kepada pencapaian tujuannya.
+(y) menjalankan apa-apa perniagaan lain sebagaimana yang ditetapkan oleh Menteri dan melakukan apa-apa perkara lain yang bersampingan atau berfaedah kepada pencapaian tujuannya.
 
 <!-- page 26 -->
 
@@ -808,17 +838,43 @@ sebagaimana yang ditetapkan oleh Menteri dan melakukan apa-apa perkara lain yang
 
 ## SUBSIDIARI DAN PEJABAT BANK
 
-Kawalan
+<!-- marginal: Kawalan -->
 
-10. (1) Bank tidaklah boleh menubuhkan atau memper- ke atas olehi mana-mana subsidiari di dalam atau di luar Malaysia penubuhan atau tanpa terlebih dahulu mendapat keizinan bertulis daripada pemerolehan Menteri. subsidiari.
+10. (1) Bank tidaklah boleh menubuhkan atau memper-
+
+<!-- marginal: ke atas -->
+
+olehi mana-mana subsidiari di dalam atau di luar Malaysia
+
+<!-- marginal: penubuhan -->
+
+<!-- marginal: atau -->
+
+tanpa terlebih dahulu mendapat keizinan bertulis daripada
+
+<!-- marginal: pemerolehan -->
+
+Menteri.
+
+<!-- marginal: subsidiari. -->
 
 (2) Jika Bank tidak mematuhi subseksyen (1), ia adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima juta ringgit.
 
 (3) Jika Bank melakukan suatu kesalahan di bawah subseksyen (2), mana-mana orang yang pada masa berlakunya kesalahan itu ialah orang yang bertanggungjawab bagi Bank, adalah juga melakukan kesalahan itu dan apabila disabitkan, boleh didenda tidak melebihi lima juta ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
-Sekatan
+<!-- marginal: Sekatan -->
 
-11. (1) Bank tidaklah boleh membuka mana-mana ke atas pejabatnya di luar Malaysia tanpa terlebih dahulu mendapat penubuhan pejabat Bank. keizinan bertulis daripada Menteri.
+11. (1) Bank tidaklah boleh membuka mana-mana
+
+<!-- marginal: ke atas -->
+
+pejabatnya di luar Malaysia tanpa terlebih dahulu mendapat
+
+<!-- marginal: penubuhan -->
+
+<!-- marginal: pejabat Bank. -->
+
+keizinan bertulis daripada Menteri.
 
 (2) Jika Bank tidak mematuhi subseksyen (1), ia adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu juta ringgit.
 
@@ -826,11 +882,19 @@ Sekatan
 
 ## KEHENDAK KEWANGAN DAN TUGAS BANK
 
-Penyengga-
+<!-- marginal: Penyengga- -->
 
-12. (1) Bank hendaklah— raan kumpulan
+12. (1) Bank hendaklah—
 
-(a) menyenggarakan suatu kumpulan wang rizab; wang rizab. dan
+<!-- marginal: raan -->
+
+<!-- marginal: kumpulan -->
+
+(a) menyenggarakan suatu kumpulan wang rizab;
+
+<!-- marginal: wang rizab. -->
+
+dan
 
 (b) sebelum mengisytiharkan apa-apa dividen daripada untung bersihnya bagi setiap tahun (selepas peruntukan yang wajar telah dibuat untuk
 
@@ -852,15 +916,29 @@ cukai), memindahkan kepada kumpulan wang rizabnya daripada untung bersih bagi se
 
 <!-- page 28 -->
 
-Penyengga-
+<!-- marginal: Penyengga- -->
 
-13. (1) Menteri boleh menghendaki Bank raan wang menyenggarakan, pada setiap masa, wang modal yang modal. tak tercacat oleh kerugian, pada apa-apa nisbah kepada segala atau apa-apa aset atau kepada segala atau apa-apa liabiliti, atau kepada kedua-dua aset atau liabiliti itu, Bank dan kesemua pejabatnya di dalam dan di luar Malaysia sebagaimana yang ditentukan oleh Menteri.
+13. (1) Menteri boleh menghendaki
+
+<!-- marginal: Bank -->
+
+<!-- marginal: raan wang -->
+
+menyenggarakan, pada setiap masa, wang modal yang
+
+<!-- marginal: modal. -->
+
+tak tercacat oleh kerugian, pada apa-apa nisbah kepada segala atau apa-apa aset atau kepada segala atau apa-apa liabiliti, atau kepada kedua-dua aset atau liabiliti itu, Bank dan kesemua pejabatnya di dalam dan di luar Malaysia sebagaimana yang ditentukan oleh Menteri.
 
 (2) Jika Bank tidak mematuhi subseksyen (1), ia adalah melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi satu juta ringgit dan, dalam hal kesalahan berterusan, boleh didenda selanjutnya tidak melebihi satu ribu ringgit bagi setiap hari yang kesalahan itu berterusan selepas sabitan.
 
-Penyengga-
+<!-- marginal: Penyengga- -->
 
-14. (1) Menteri boleh menentukan bahawa Bank raan aset cair. hendaklah memegang apa-apa amaun minimum aset cair, atau amaun purata minimum aset cair di Malaysia pada setiap masa atau selama apa-apa tempoh masa sebagaimana yang dinyatakan dalam penentuan itu.
+14. (1) Menteri boleh menentukan bahawa Bank
+
+<!-- marginal: raan aset cair. -->
+
+hendaklah memegang apa-apa amaun minimum aset cair, atau amaun purata minimum aset cair di Malaysia pada setiap masa atau selama apa-apa tempoh masa sebagaimana yang dinyatakan dalam penentuan itu.
 
 (2) Amaun minimum aset cair, atau amaun purata minimum aset cair, yang ditentukan di bawah subseksyen
 
@@ -912,13 +990,21 @@ apa amaun minimum aset sebagaimana yang dinyatakan dalam penentuan itu.
 
 <!-- page 30 -->
 
-Pelaburan
+<!-- marginal: Pelaburan -->
 
-16. (1) Tertakluk kepada arahan atau garis panduan yang wang. ditentukan oleh Menteri, Bank hendaklah, setakat yang praktik dan kecuali bagi jumlah wang diberi untuk disimpan dalam tangan bagi maksud am Bank, melaburkan dalam—
+16. (1) Tertakluk kepada arahan atau garis panduan yang
+
+<!-- marginal: wang. -->
+
+ditentukan oleh Menteri, Bank hendaklah, setakat yang praktik dan kecuali bagi jumlah wang diberi untuk disimpan dalam tangan bagi maksud am Bank, melaburkan dalam—
 
 (a) sekuriti Kerajaan dan pihak-pihak berkuasa awam;
 
-(b) pelaburan lain yang dibenarkan oleh atau di Akta 208. bawah Akta Pemegang Amanah 1949;
+(b) pelaburan lain yang dibenarkan oleh atau di
+
+<!-- marginal: Akta 208. -->
+
+bawah Akta Pemegang Amanah 1949;
 
 (c) pinjaman dan pendahuluan kepada pelanggan bagi apa-apa maksud yang diluluskan oleh Lembaga; dan
 
@@ -926,9 +1012,13 @@ Pelaburan
 
 (2) Bank boleh, dengan terlebih dahulu mendapat kelulusan bertulis daripada Menteri, melabur di luar Malaysia.
 
-Pelanlikan
+<!-- marginal: Pelanlikan -->
 
-17. (1) Walau apa pun apa-apa jua dalam mana-mana juruaudit. undang-undang bertulis lain, Bank hendaklah melantik seorang juruaudit yang diluluskan oleh Menteri setiap tahun sebelum suatu tarikh yang ditentukan oleh Menteri.
+17. (1) Walau apa pun apa-apa jua dalam mana-mana
+
+<!-- marginal: juruaudit. -->
+
+undang-undang bertulis lain, Bank hendaklah melantik seorang juruaudit yang diluluskan oleh Menteri setiap tahun sebelum suatu tarikh yang ditentukan oleh Menteri.
 
 (2) Jika Bank tidak melantik seorang juruaudit di bawah subseksyen (1) sebelum tarikh yang ditentukan di bawahnya, Menteri boleh melantik seorang juruaudit bagi Bank dan menentukan saraan dan perbelanjaannya, dan ia hendaklah dibayar kepada juruaudit itu oleh Bank.
 
@@ -984,11 +1074,19 @@ Dengan syarat bahawa Menteri boleh membatalkan kehilangan kelayakan yang mana- m
 
 (9) Bagi maksud seksyen ini, seseorang tidaklah boleh disifatkan sebagai seorang pegawai Bank atau perbadanan berhubungannya semata-mata oleh sebab dia telah dilantik sebagai seorang juruaudit Bank atau perbadanan berhubungannya.
 
-(10) Mana-mana orang atau firma yang dilantik sebagai juruaudit bagi Bank yang, pada bila-bila masa selepas pelantikan itu, menjadi tertakluk kepada apa-apa kehilangan kelayakan yang disebutkan dalam seksyen ini Akta 125. atau dalam seksyen 9 Akta Syarikat 1965, hendaklah dengan serta-merta sesudah itu berhenti menjadi juruaudit Bank dan tidaklah boleh selepas itu bertindak sebagai juruauditnya atau dikehendaki atau dibenarkan oleh Bank untuk bertindak sebagai sedemikian.
+(10) Mana-mana orang atau firma yang dilantik sebagai juruaudit bagi Bank yang, pada bila-bila masa selepas pelantikan itu, menjadi tertakluk kepada apa-apa kehilangan kelayakan yang disebutkan dalam seksyen ini
+
+<!-- marginal: Akta 125. -->
+
+atau dalam seksyen 9 Akta Syarikat 1965, hendaklah dengan serta-merta sesudah itu berhenti menjadi juruaudit Bank dan tidaklah boleh selepas itu bertindak sebagai juruauditnya atau dikehendaki atau dibenarkan oleh Bank untuk bertindak sebagai sedemikian.
 
 (11) Jika Bank tidak mematuhi subseksyen (1), (2) atau (3), ia adalah melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi satu juta ringgit dan, dalam hal kesalahan berterusan, boleh didenda selanjutnya tidak melebihi satu ribu ringgit bagi setiap hari yang kesalahan itu berterusan selepas sabitan.
 
-(12) Jika Bank melakukan suatu kesalahan di bawah subseksyen (11), mana-mana orang yang pada masa berlakunya kesalahan itu ialah orang yang bertanggungjawab bagi Bank, adalah juga melakukan kesalahan itu dan apabila disabitkan, boleh didenda tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya dan, dalam hal kesalahan berterusan, boleh didenda selanjutnya tidak melebihi satu ribu ringgit bagi setiap hari yang kesalahan itu berterusan selepas sabitan.
+(12) Jika Bank melakukan suatu kesalahan di bawah subseksyen (11), mana-mana orang yang pada masa berlakunya kesalahan itu ialah orang
+
+<!-- marginal: yang -->
+
+bertanggungjawab bagi Bank, adalah juga melakukan kesalahan itu dan apabila disabitkan, boleh didenda tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya dan, dalam hal kesalahan berterusan, boleh didenda selanjutnya tidak melebihi satu ribu ringgit bagi setiap hari yang kesalahan itu berterusan selepas sabitan.
 
 <!-- page 34 -->
 
@@ -998,9 +1096,13 @@ Dengan syarat bahawa Menteri boleh membatalkan kehilangan kelayakan yang mana- m
 
 (15) Mana-mana orang yang tidak mematuhi subseksyen (10) adalah melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi tiga juta ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya dan, dalam hal kesalahan berterusan, boleh didenda selanjutnya tidak melebihi tiga ribu ringgit bagi setiap hari yang kesalahan itu berterusan selepas sabitan.
 
-Tugas
+<!-- marginal: Tugas -->
 
-18. (1) Tugas-tugas juruaudit yang dilantik di bawah juruaudit. subseksyen 17(1) atau 17(2) ialah—
+18. (1) Tugas-tugas juruaudit yang dilantik di bawah
+
+<!-- marginal: juruaudit. -->
+
+subseksyen 17(1) atau 17(2) ialah—
 
 (a) untuk menjalankan audit ke atas akaun-akaun Bank; dan
 
@@ -1008,7 +1110,11 @@ Tugas
 
 (2) Laporan juruaudit yang disebut di bawah perenggan
 
-(1)(b) hendaklah dibuat mengikut seksyen 174 Akta Akta 125. Syarikat 1965.
+(1)(b) hendaklah dibuat mengikut seksyen 174 Akta
+
+<!-- marginal: Akta 125. -->
+
+Syarikat 1965.
 
 (3) Menteri boleh, pada bila-bila masa, menghendaki seorang juruaudit yang dilantik di bawah seksyen 17 supaya—
 
@@ -1020,9 +1126,7 @@ Tugas
 
 (c) menjalankan apa-apa pemeriksaan khusus atau mengadakan apa-apa prosedur dalam mana-mana hal tertentu; atau
 
-(d) mengemukakan suatu laporan mengenai apa- apa perkara yang disebut dalam perenggan (a),
-
-(b) dan (c),
+(d) mengemukakan suatu laporan mengenai apa- apa perkara yang disebut dalam perenggan (a), (b) dan (c),
 
 dan Menteri boleh menentukan masa yang dalam tempohnya mana-mana kehendak hendaklah dipatuhi oleh juruaudit itu dan menentukan saraan yang hendaklah dibayar kepada juruaudit oleh Bank berkenaan dengannya.
 
@@ -1092,15 +1196,17 @@ keseluruhan operasinya di Malaysia dua salinan bagi setiap satu dokumen yang ber
 
 (ii) pengarah di bawah subseksyen 169(5) Akta Syarikat 1965.
 
-(2) Dalam masa yang dinyatakan dalam subseksyen
-
-(1), Bank hendaklah, sebagai tambahan kepada kehendak- kehendak di bawah subseksyen (1), mengemukakan kepada Menteri jika Bank mempunyai pejabat atau subsidiari di luar Malaysia, segala dokumen yang disebut di bawah subseksyen (1) berkenaan dengan—
+(2) Dalam masa yang dinyatakan dalam subseksyen (1), Bank hendaklah, sebagai tambahan kepada kehendak- kehendak di bawah subseksyen (1), mengemukakan kepada Menteri jika Bank mempunyai pejabat atau subsidiari di luar Malaysia, segala dokumen yang disebut di bawah subseksyen (1) berkenaan dengan—
 
 (a) operasinya di setiap negara di luar Malaysia; dan
 
 (b) keseluruhan operasinya baik di dalam mahupun di luar Malaysia atas dasar disatukan.
 
-(3) Menteri boleh, sama ada sebelum atau selepas Bank mematuhi kehendak subseksyen (1) atau (2), menghendaki Bank supaya mengemukakan maklumat lanjut atau tambahan sebagaimana yang difikirkannya perlu sama ada dengan cara penghuraian, penjelasan atau selainnya mengenai mana-mana dokumen yang dikemukakan di bawah subseksyen (1) atau (2), mengikut mana-mana yang berkenaan, atau supaya meminda atau mengubahsuaikan dokumen itu tentang bentuk atau kandungan sebagaimana yang difikirkan sesuai oleh Menteri.
+(3) Menteri boleh, sama ada sebelum atau selepas Bank mematuhi kehendak subseksyen (1) atau (2), menghendaki Bank supaya mengemukakan maklumat lanjut atau tambahan sebagaimana yang difikirkannya perlu sama ada dengan cara penghuraian, penjelasan atau selainnya mengenai mana-mana dokumen yang dikemukakan di bawah subseksyen (1) atau (2), mengikut mana-mana yang berkenaan, atau supaya meminda
+
+<!-- marginal: atau -->
+
+mengubahsuaikan dokumen itu tentang bentuk atau kandungan sebagaimana yang difikirkan sesuai oleh Menteri.
 
 <!-- page 38 -->
 
@@ -1180,9 +1286,33 @@ Menteri—
 
 ## PEMUNYAAN, PENGAWALAN DAN PENGURUSAN BANK
 
-Pemerolehan
+<!-- marginal: Pemerolehan -->
 
-22. (1) Tanpa menjejaskan seksyen 24, dan tertakluk atau kepada seksyen 23, tiada seorang pun boleh membuat pelupusan pegangan apa-apa perjanjian atau perkiraan untuk memperolehi yang atau melupuskan apa-apa kepentingan dalam syer Bank agregatnya sebanyak yang menurutnya, jika perjanjian atau perkiraan itu lima peratus. dilaksanakan, dia akan—
+22. (1) Tanpa menjejaskan seksyen 24, dan tertakluk
+
+<!-- marginal: atau -->
+
+kepada seksyen 23, tiada seorang pun boleh membuat
+
+<!-- marginal: pelupusan -->
+
+<!-- marginal: pegangan -->
+
+apa-apa perjanjian atau perkiraan untuk memperolehi
+
+<!-- marginal: yang -->
+
+atau melupuskan apa-apa kepentingan dalam syer Bank
+
+<!-- marginal: agregatnya -->
+
+<!-- marginal: sebanyak -->
+
+yang menurutnya, jika perjanjian atau perkiraan itu
+
+<!-- marginal: lima peratus. -->
+
+dilaksanakan, dia akan—
 
 (a) memperolehi, berserta dengan apa-apa kepentingan dalam syer Bank yang telah pun ketika itu dipegang olehnya, atau olehnya dan oleh orang-orang yang bertindak bersama-sama dengannya; atau
 
@@ -1254,7 +1384,11 @@ memegang, atau mana-mana dua orang atau lebih daripada orang-orang yang disebutk
 
 <!-- page 43 -->
 
-(c) jika seseorang adalah suatu koperasi, pegangan subsidiari-subsidiarinya sebagaimana yang Akia 502, ditakrifkan dalam seksyen 2 Akta Koperasi 1993 dan pegangan perbadanan-perbadanan berhubungan atau sekutu bagi subsidiari- subsidiari itu; dan
+(c) jika seseorang adalah suatu koperasi, pegangan subsidiari-subsidiarinya sebagaimana yang
+
+<!-- marginal: Akia 502, -->
+
+ditakrifkan dalam seksyen 2 Akta Koperasi 1993 dan pegangan perbadanan-perbadanan berhubungan atau sekutu bagi subsidiari- subsidiari itu; dan
 
 (d) pegangan orang-orang yang bertindak bersama- sama dengan orang itu.
 
@@ -1284,11 +1418,25 @@ memegang, atau mana-mana dua orang atau lebih daripada orang-orang yang disebutk
 
 (1) adalah melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi lima juta ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya dan, dalam hal kesalahan berterusan, boleh didenda selanjutnya tidak melebihi lima puluh ribu ringgit bagi setiap hari yang kesalahan itu berterusan selepas sabitan.
 
-Sanksi
+<!-- marginal: Sanksi -->
 
-24. (1) Tiada seorang pun boleh membuat perjanjian atau dikehendaki perkiraan— bagi pembentukan
+24. (1) Tiada seorang pun boleh membuat perjanjian atau
 
-(a) yang akan mengakibatkan perubahan tentang semula dsb., Bank. kawalan Bank atau syarikat pegangannya;
+<!-- marginal: dikehendaki -->
+
+perkiraan—
+
+<!-- marginal: bagi -->
+
+<!-- marginal: pembentukan -->
+
+(a) yang akan mengakibatkan perubahan tentang
+
+<!-- marginal: semula dsb., -->
+
+<!-- marginal: Bank. -->
+
+kawalan Bank atau syarikat pegangannya;
 
 (b) bagi penjualan, pelupusan, atau pemindahan keseluruhan atau mana-mana bahagian perniagaan Bank;
 
@@ -1344,7 +1492,33 @@ butir dan butir terperinci yang relevan yang ada dalam pengetahuannya pada masa 
 
 <!-- page 46 -->
 
-26. (1) Jika mana-mana orang bercadang untuk memberi- Kemudahan kredit yang kan apa-apa kemudahan kredit kepada mana-mana orang bercagarkan bercagarkan apa-apa harta Bank, maka dia hendaklah, hartaBank hendaklah sebelum memberi kemudahan kredit itu, mengemukakan dilaporkan suatu laporan mengenai kemudahan kredit yang kepada Menteri. dicadangkan itu kepada Menteri jika harta yang hendak diadakan sebagai cagaran bagi maksud kemudahan kredit yang dicadangkan itu, dengan sendirinya atau bersama- sama dengan apa-apa harta lain Bank yang telah pun dipegang sebagai cagaran bagi apa-apa kemudahan kredit lain yang diberi olehnya, akan merupakan lima peratus atau lebih daripada harta Bank.
+26. (1) Jika mana-mana orang bercadang untuk memberi-
+
+<!-- marginal: Kemudahan -->
+
+<!-- marginal: kredit yang -->
+
+kan apa-apa kemudahan kredit kepada mana-mana orang
+
+<!-- marginal: bercagarkan -->
+
+bercagarkan apa-apa harta Bank, maka dia hendaklah,
+
+<!-- marginal: hartaBank -->
+
+<!-- marginal: hendaklah -->
+
+sebelum memberi kemudahan kredit itu, mengemukakan
+
+<!-- marginal: dilaporkan -->
+
+suatu laporan mengenai kemudahan kredit yang
+
+<!-- marginal: kepada -->
+
+<!-- marginal: Menteri. -->
+
+dicadangkan itu kepada Menteri jika harta yang hendak diadakan sebagai cagaran bagi maksud kemudahan kredit yang dicadangkan itu, dengan sendirinya atau bersama- sama dengan apa-apa harta lain Bank yang telah pun dipegang sebagai cagaran bagi apa-apa kemudahan kredit lain yang diberi olehnya, akan merupakan lima peratus atau lebih daripada harta Bank.
 
 (2) Jika Bank bercadang untuk mengadakan hartanya sebagai cagaran berkenaan dengan sesuatu kemudahan kredit yang akan diberikan oleh mana-mana orang kepada Bank atau kepada mana-mana orang lain, ia hendaklah, sebelum berbuat demikian, mengemukakan suatu laporan mengenai perkara itu kepada Menteri.
 
@@ -1356,9 +1530,7 @@ butir dan butir terperinci yang relevan yang ada dalam pengetahuannya pada masa 
 
 (iii) amaun kemudahan kredit yang dicadangkan itu.
 
-(4) Mana-mana orang yang tidak mematuhi subseksyen
-
-(1) atau (2) adalah melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi lima juta ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya dan, dalam hal kesalahan berterusan, boleh didenda selanjutnya tidak melebihi lima ribu ringgit bagi setiap hari yang kesalahan itu berterusan selepas sabitan.
+(4) Mana-mana orang yang tidak mematuhi subseksyen (1) atau (2) adalah melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi lima juta ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya dan, dalam hal kesalahan berterusan, boleh didenda selanjutnya tidak melebihi lima ribu ringgit bagi setiap hari yang kesalahan itu berterusan selepas sabitan.
 
 <!-- page 47 -->
 
@@ -1458,9 +1630,29 @@ orang telah melanggar peruntukan-peruntukan seksyen
 
 (10) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu juta ringgit dan, dalam hal kesalahan berterusan, boleh didenda selanjutnya tidak melebihi satu ribu ringgit bagi setiap hari yang kesalahan itu berterusan selepas sabitan.
 
-Pengarah,
+<!-- marginal: Pengarah, -->
 
-29. (1) Tiap-tiap orang yang menjadi, atau akan menjadi, pengawal atau seorang pengarah, pengawal atau pengurus Bank hendaklah pengurus Bank seorang yang layak dan sesuai untuk memegang jawatan hendaklah tertentu, yang dipegangnya atau akan dipegangnya. seorang yang layak dan sesuai.
+29. (1) Tiap-tiap orang yang menjadi, atau akan menjadi,
+
+<!-- marginal: pengawal atau -->
+
+seorang pengarah, pengawal atau pengurus Bank hendaklah
+
+<!-- marginal: pengurus -->
+
+<!-- marginal: Bank -->
+
+seorang yang layak dan sesuai untuk memegang jawatan
+
+<!-- marginal: hendaklah -->
+
+tertentu, yang dipegangnya atau akan dipegangnya.
+
+<!-- marginal: seorang yang -->
+
+<!-- marginal: layak dan -->
+
+<!-- marginal: sesuai. -->
 
 (2) Dalam menentukan sama ada seseorang adalah seorang yang layak dan sesuai untuk memegang apa-apa jawatan tertentu, Bank hendaklah memberikan perhatian kepada kejujurannya, kekompetenannya dan kewarasan pertimbangannya untuk menunaikan tanggungjawab jawatan itu, kepada usaha yang dengannya dia sedang menunaikan atau berkemungkinan menunaikan tanggungjawab itu dan tentang sama ada kepentingan pendeposit atau bakal pendeposit Bank, jika ada, adalah atau berkemungkinan menjadi, dengan apa-apa jua cara terancam disebabkan dia memegang jawatan itu.
 
@@ -1508,9 +1700,23 @@ atau pemilihan itu.
 
 (1) adalah melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi tiga juta ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.
 
-Kehilangan
+<!-- marginal: Kehilangan -->
 
-31. (1) Tiada seorang pun boleh dilantik atau dipilih, kelayakan atau menyetujuterima pelantikan atau pemilihan, sebagai pengarah atau pegawai seorang pengarah, pengurus, setiausaha, atau pegawai Bank. lain yang bersangkut-paut dalam pengurusan, Bank—
+31. (1) Tiada seorang pun boleh dilantik atau dipilih,
+
+<!-- marginal: kelayakan -->
+
+atau menyetujuterima pelantikan atau pemilihan, sebagai
+
+<!-- marginal: pengarah -->
+
+<!-- marginal: atau pegawai -->
+
+seorang pengarah, pengurus, setiausaha, atau pegawai
+
+<!-- marginal: Bank. -->
+
+lain yang bersangkut-paut dalam pengurusan, Bank—
 
 (a) jika dia seorang bankrap, telah menggantung pembayaran, atau telah menyelesaikan pembayaran dengan pemiutangnya, sama ada di dalam atau di luar Malaysia;
 
@@ -1558,9 +1764,17 @@ sebagai pengarah, pengurus, setiausaha, atau pegawai lain yang bersangkut-paut d
 
 (3) atau (4) adalah melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi tiga juta ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya dan, dalam hal kesalahan berterusan, boleh didenda selanjutnya tidak melebihi tiga ribu bagi setiap hari yang kesalahan itu berterusan selepas sabitan.
 
-Pelantikan
+<!-- marginal: Pelantikan -->
 
-32. (1) Tertakluk kepada subseksyen (2), Bank hendak- ketua lah melantik seorang ketua eksekutif Bank yang eksekutif. hendaklah—
+32. (1) Tertakluk kepada subseksyen (2), Bank hendak-
+
+<!-- marginal: ketua -->
+
+lah melantik seorang ketua eksekutif Bank yang
+
+<!-- marginal: eksekutif. -->
+
+hendaklah—
 
 (a) seorang individu; dan
 
@@ -1608,17 +1822,55 @@ dipermodalkannya (termasuk belanja permulaan, belanja penyusunan, komisen menjua
 
 kesalahan itu dan apabila disabitkan, boleh didenda tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.
 
-Pendahuluan
+<!-- marginal: Pendahuluan -->
 
-34. (1) Bank tidaklah boleh memberi apa-apa kemudahan bersandarkan kredit, atau membuat apa-apa transaksi lain, berdasarkan cagaran atas syer-syer cagaran atas syer-syernya sendiri atau syer-syer syarikat sendiri atau pegangannya. syer-syer syarikat pegangan.
+34. (1) Bank tidaklah boleh memberi apa-apa kemudahan
+
+<!-- marginal: bersandarkan -->
+
+kredit, atau membuat apa-apa transaksi lain, berdasarkan
+
+<!-- marginal: cagaran atas -->
+
+<!-- marginal: syer-syer -->
+
+cagaran atas syer-syernya sendiri atau syer-syer syarikat
+
+<!-- marginal: sendiri atau -->
+
+pegangannya.
+
+<!-- marginal: syer-syer -->
+
+<!-- marginal: syarikat -->
+
+<!-- marginal: pegangan. -->
 
 (2) Jika Bank tidak mematuhi subseksyen (1), ia adalah melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi tiga juta ringgit.
 
 (3) Jika Bank melakukan suatu kesalahan di bawah subseksyen (2), mana-mana orang yang pada masa berlakunya kesalahan itu ialah orang yang bertanggungjawab bagi Bank, adalah juga melakukan kesalahan itu dan apabila disabitkan, boleh didenda tidak melebihi tiga juta ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.
 
-Pemberian
+<!-- marginal: Pemberian -->
 
-35. (1) Tertakluk kepada kelulusan bertulis terlebih dahulu kemudahan- oleh Menteri, Bank tidaklah boleh memberi kepada rnana- kemudahan kredit mana orang apa-apa kemudahan kredit tak bercagar yang, bercagar dan berserta dengan apa-apa kemudahan kredit lain yang tak bercagar. diberikan terdahulu kepadanya, melebihi suatu amaun agregat yang ditentukan oleh Menteri.
+35. (1) Tertakluk kepada kelulusan bertulis terlebih dahulu
+
+<!-- marginal: kemudahan- -->
+
+oleh Menteri, Bank tidaklah boleh memberi kepada rnana-
+
+<!-- marginal: kemudahan -->
+
+<!-- marginal: kredit -->
+
+mana orang apa-apa kemudahan kredit tak bercagar yang,
+
+<!-- marginal: bercagar dan -->
+
+berserta dengan apa-apa kemudahan kredit lain yang
+
+<!-- marginal: tak bercagar. -->
+
+diberikan terdahulu kepadanya, melebihi suatu amaun agregat yang ditentukan oleh Menteri.
 
 (2) Subseksyen (1) tidaklah terpakai bagi apa-apa kemudahan kredit yang diberikan—
 
@@ -1656,11 +1908,33 @@ Bank Simpanan Nasional Berhad
 
 (9) Jika Bank tidak mematuhi subseksyen (1), (4), (5) atau (8), ia adalah melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi lima juta ringgit.
 
-(10) Jika Bank melakukan suatu kesalahan di bawah subseksyen (9), mana-mana orang yang pada masa berlakunya kesalahan itu ialah orang yang bertanggungjawab bagi Bank, adalah juga melakukan kesalahan itu dan apabila disabitkan, boleh didenda tidak melebihi lima juta ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
+(10) Jika Bank melakukan suatu kesalahan di bawah subseksyen (9), mana-mana orang yang pada masa berlakunya kesalahan itu ialah orang
 
-Sekatan
+<!-- marginal: yang -->
 
-36. (1) Banktidaklah boleh memberi kepada mana-mana mengenai orang seorang apa-apa kemudahan kredit, atau menanggung kemudahan kredit kepada apa-apa liabiliti bagi pihak mana-mana orang seorang, pelanggan yang, berserta dengan apa-apa kemudahan kredit yang seorang. diberikan dahulu kepada orang seorang itu, dan apa-apa liabiliti yang ditanggung dahulu bagi pihaknya, oleh Bank, melebihi apa-apa peratusan yang ditetapkan bagi Bank oleh Menteri berhubungan dengan wang modal Bank, yang tak tercacat oleh kerugian atau selainnya.
+bertanggungjawab bagi Bank, adalah juga melakukan kesalahan itu dan apabila disabitkan, boleh didenda tidak melebihi lima juta ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
+
+<!-- marginal: Sekatan -->
+
+36. (1) Banktidaklah boleh memberi kepada mana-mana
+
+<!-- marginal: mengenai -->
+
+orang seorang apa-apa kemudahan kredit, atau menanggung
+
+<!-- marginal: kemudahan -->
+
+<!-- marginal: kredit kepada -->
+
+apa-apa liabiliti bagi pihak mana-mana orang seorang,
+
+<!-- marginal: pelanggan -->
+
+yang, berserta dengan apa-apa kemudahan kredit yang
+
+<!-- marginal: seorang. -->
+
+diberikan dahulu kepada orang seorang itu, dan apa-apa liabiliti yang ditanggung dahulu bagi pihaknya, oleh Bank, melebihi apa-apa peratusan yang ditetapkan bagi Bank oleh Menteri berhubungan dengan wang modal Bank, yang tak tercacat oleh kerugian atau selainnya.
 
 <!-- page 59 -->
 
@@ -1696,9 +1970,27 @@ Dengan syarat bahawa Menteri boleh menentukan bahawa kesemua atau mana-mana oran
 
 (6) Jika Bank melakukan suatu kesalahan di bawah subseksyen (5), mana-mana orang yang pada masa berlakunya kesalahan itu ialah orang yang bertanggungjawab bagi Bank, adalah juga melakukan kesalahan itu dan apabila disabitkan, boleh didenda tidak melebihi lima juta ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
-Larangan
+<!-- marginal: Larangan -->
 
-37. (1) Melainkan jika dikecualikan oleh Menteri secara memberi bertulis dengan atau tanpa syarat, atau kecuali sebagaimana kemudahan kredit kepada yang diperuntukkan di bawah subseksyen (2) atau (3), pengarah dan Bank tidaklah boleh memberi apa-apa kemudahan kredit pegawai. kepada—
+37. (1) Melainkan jika dikecualikan oleh Menteri secara
+
+<!-- marginal: memberi -->
+
+bertulis dengan atau tanpa syarat, atau kecuali sebagaimana
+
+<!-- marginal: kemudahan -->
+
+<!-- marginal: kredit kepada -->
+
+yang diperuntukkan di bawah subseksyen (2) atau (3),
+
+<!-- marginal: pengarah dan -->
+
+Bank tidaklah boleh memberi apa-apa kemudahan kredit
+
+<!-- marginal: pegawai. -->
+
+kepada—
 
 (a) mana-mana pengarah atau pegawai Bank atau mana-mana orang lain yang menerima saraan daripadanya (selain daripada mana-mana akauntan, peguambela dan peguamcara, arkitek, ejen harta tanah, doktor dan mana-mana orang lain yang menerima saraan daripadanya berkenaan dengan perkhidmatan profesionalnya);
 
@@ -1740,9 +2032,23 @@ pun pengarah atau pegawai Bank mempunyai apa-apa kepentingan material dalam syer
 
 (6) Jika Bank melakukan suatu kesalahan di bawah subseksyen (5), mana-mana orang yang pada masa berlakunya kesalahan itu ialah orang yang bertanggungjawab bagi Bank, adalah juga melakukan kesalahan itu dan apabila disabitkan, boleh didenda tidak melebihi lima juta ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
-Sekatan
+<!-- marginal: Sekatan -->
 
-38. (1) Banktidaklahbolehmemberiapa-apakemudahan mengenai kredit di bawah apa-apa pengecualian oleh Menteri yang pemberian kemudahan disebut dalam subseksyen 37(1) atau memberi apa-apa kredit. kemudahan kredit di bawah subseksyen 37(3) melainkan jika syarat-syarat yang berikut ditunaikan:
+38. (1) Banktidaklahbolehmemberiapa-apakemudahan
+
+<!-- marginal: mengenai -->
+
+kredit di bawah apa-apa pengecualian oleh Menteri yang
+
+<!-- marginal: pemberian -->
+
+<!-- marginal: kemudahan -->
+
+disebut dalam subseksyen 37(1) atau memberi apa-apa
+
+<!-- marginal: kredit. -->
+
+kemudahan kredit di bawah subseksyen 37(3) melainkan jika syarat-syarat yang berikut ditunaikan:
 
 (a) orang yang kepadanya kemudahan kredit diberikan mempunyai kelayakan kredit yang tidak kurang daripada kemudahan kredit yang biasanya dikehendaki oleh Bank daripada orang-orang lain yang kepadanya kemudahan-kemudahan kredit diberikan;
 
@@ -1758,9 +2064,19 @@ Sekatan
 
 (3) Jika Bank melakukan suatu kesalahan di bawah subseksyen di bawah subseksyen (2), mana-mana orang yang pada masa berlakunya kesalahan itu ialah orang yang bertanggungjawab bagi Bank, adalah juga melakukan kesalahan itu dan apabila disabitkan, boleh didenda tidak melebihi lima juta ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
-Pendedahan
+<!-- marginal: Pendedahan -->
 
-39. (1) Tiap-tiap pengarah Bank yang mempunyai dengan kepentingan apa-apa cara, sama ada secara langsung atau secara tak oleh pengarah. langsung, apa-apa kepentingan dalam sesuatu kemudahan kredit yang dicadangkan untuk diberikan kepada mana- mana orang oleh Bank hendaklah dengan seberapa segera yang praktik mengisytiharkan secara bertulis jenis kepentingannya, kepada mesyuarat pengarah yang dianggotai dengan sempurnanya, dan setiausaha Bank, atau pegawai lain yang dilantik oleh Bank bagi maksud itu, hendaklah menyebabkan suatu salinan perisytiharan itu diedarkan dengan serta-merta kepada tiap-tiap pengarah Bank tidak kira sama ada dia telah hadir atau pun tidak dalam mesyuarat itu.
+39. (1) Tiap-tiap pengarah Bank yang mempunyai dengan
+
+<!-- marginal: kepentingan -->
+
+apa-apa cara, sama ada secara langsung atau secara tak
+
+<!-- marginal: oleh -->
+
+<!-- marginal: pengarah. -->
+
+langsung, apa-apa kepentingan dalam sesuatu kemudahan kredit yang dicadangkan untuk diberikan kepada mana- mana orang oleh Bank hendaklah dengan seberapa segera yang praktik mengisytiharkan secara bertulis jenis kepentingannya, kepada mesyuarat pengarah yang dianggotai dengan sempurnanya, dan setiausaha Bank, atau pegawai lain yang dilantik oleh Bank bagi maksud itu, hendaklah menyebabkan suatu salinan perisytiharan itu diedarkan dengan serta-merta kepada tiap-tiap pengarah Bank tidak kira sama ada dia telah hadir atau pun tidak dalam mesyuarat itu.
 
 (2) Bagi maksud subseksyen (1), suatu notis am secara bertulis yang disampaikan kepada setiap seorang pengarah Bank yang disebut dalam subseksyen itu oleh seseorang pengarah yang bermaksud bahawa dia adalah seorang pengarah, pegawai atau anggota pertubuhan perbadanan atau tak diperbadankan, atau seorang pengarah atau pegawai
 
@@ -1792,9 +2108,7 @@ mengikut mana-mana yang berkenaan.
 
 (8) Mana-mana pengarah yang tidak mematuhi subseksyen (3) atau (5), adalah melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi tiga juta ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.
 
-(9) Mana-mana orang yang tidak mematuhi subseksyen
-
-(6) adalah melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.
+(9) Mana-mana orang yang tidak mematuhi subseksyen (6) adalah melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.
 
 <!-- marginal: Pengawalan -->
 
@@ -1824,9 +2138,17 @@ boleh memberi apa-apa kemudahan kredit yang melebihi had, atau di luar bidang ap
 
 (5) Jika Bank melakukan suatu kesalahan di bawah subseksyen (4), mana-mana orang yang pada masa berlakunya kesalahan itu ialah orang yang bertanggungjawab bagi Bank, adalah juga melakukan kesalahan itu dan apabila disabitkan, boleh didenda tidak melebihi tiga juta ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya dan, dalam hal kesalahan berterusan, boleh didenda selanjutnya tidak melebihi tiga ribu ringgit bagi setiap hari yang kesalahan itu berterusan selepas sabitan.
 
-Sekatan
+<!-- marginal: Sekatan -->
 
-41. (1) Kecuali sebagaimana yang dibenarkan selainnya mengenai oleh seksyen 16, Bank tidaklah boleh memperolehi atau pelaburan. memegang—
+41. (1) Kecuali sebagaimana yang dibenarkan selainnya
+
+<!-- marginal: mengenai -->
+
+oleh seksyen 16, Bank tidaklah boleh memperolehi atau
+
+<!-- marginal: pelaburan. -->
+
+memegang—
 
 (a) apa-apa syer, atau selainnya mempunyai suatu kepentingan dalam syer mengenai, mana-mana perbadanan; atau
 
@@ -1856,15 +2178,41 @@ di bawah Akta Perindustrian Sekuriti 1983.
 
 (4) Apa-apa pemerolehan, pegangan atau pelupusan syer atau kepentingan dalam syer bagi maksud atau dalam hal keadaan yang disebut dalam perenggan 2(a), (b) atau
 
-(c) atau dalam subseksyen (3) tidak boleh dikira sebagai Akta 280. "berniaga sekuriti" bagi maksud Akta Perindustrian Sekuriti
+(c) atau dalam subseksyen (3) tidak boleh dikira sebagai
+
+<!-- marginal: Akta 280. -->
+
+"berniaga sekuriti" bagi maksud Akta Perindustrian Sekuriti
 
 1983.
 
 (5) Jika Bank tidak mematuhi subseksyen (1) atau (3), ia adalah melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi satu juta ringgit dan, dalam hal kesalahan berterusan, boleh didenda selanjutnya tidak melebihi satu ribu ringgit bagi setiap hari yang kesalahan itu berterusan selepas sabitan.
 
-Batasan,
+<!-- marginal: Batasan, -->
 
-42. (1) Menteri boleh menentukan batasan, terma dan terma dan syarat berkenaan dengan pemberian apa-apa kelas, kategori syarat berkenaan atau perihalan kemudahan kredit yang akan diberikan dengan oleh Bank, termasuklah pemberian apa-apa kemudahan pemberian kredit kepada mana-mana orang— kemudahan kredit.
+42. (1) Menteri boleh menentukan batasan, terma dan
+
+<!-- marginal: terma dan -->
+
+syarat berkenaan dengan pemberian apa-apa kelas, kategori
+
+<!-- marginal: syarat -->
+
+<!-- marginal: berkenaan -->
+
+atau perihalan kemudahan kredit yang akan diberikan
+
+<!-- marginal: dengan -->
+
+oleh Bank, termasuklah pemberian apa-apa kemudahan
+
+<!-- marginal: pemberian -->
+
+kredit kepada mana-mana orang—
+
+<!-- marginal: kemudahan -->
+
+<!-- marginal: kredit. -->
 
 (a) bagi maksud membiayai—
 
@@ -1908,21 +2256,59 @@ secara bertulis oleh Menteri untuk berbuat demikian, mengemukakan kepada Menteri
 
 ## KE ATAS BANK
 
-Bank di bawah
+<!-- marginal: Bank di bawah -->
 
-44. Bankhendaklahberadadibawahpengawasan am Menteri pengawasan dan, tertakluk kepada peruntukan Akta ini, Menteri boleh, Menteri. dari semasa ke semasa, memberi arahan-arahan am yang tidak tak konsisten dengan peruntukan Akta ini mengenai pelaksanaan fungsi atau tugas dan penjalanan kuasa-kuasa Bank.
+44. Bankhendaklahberadadibawahpengawasan am Menteri
 
-Pemeriksaan
+<!-- marginal: pengawasan -->
 
-45. Menteri bolehlah, dari semasa ke semasa, memeriksa, ke atas Bank. tanpa apa-apa notis terlebih dahulu, buku atau dokumen lain, akaun dan transaksi Bank dan pejabatnya di dalam dan di luar Malaysia.
+dan, tertakluk kepada peruntukan Akta ini, Menteri boleh,
 
-Kuasa Menteri
+<!-- marginal: Menteri. -->
 
-46. Menteri boleh pada bila-bila masa mengarahkan mana- untuk mana orang membuat sesuatu pemeriksaan mengenai buku mengarahkan supaya atau dokumen lain, akaun dan transaksi Bank dan pejabatnya pemeriksaan di dalam dan di luar Malaysia jika dia mengesyaki bahawa dibuat. Bank sedang menjalankan perniagaannya dengan cara yang memudaratkan, atau yang mungkin memudaratkan, kepentingan pendeposit atau pemiutangnya, atau mempunyai aset yang tak cukup untuk meliputi liabilitinya kepada orang awam, atau sedang melanggari mana-mana peruntukan Akta ini atau mana-mana undang-undang bertulis yang lain.
+dari semasa ke semasa, memberi arahan-arahan am yang tidak tak konsisten dengan peruntukan Akta ini mengenai pelaksanaan fungsi atau tugas dan penjalanan kuasa-kuasa Bank.
 
-Pengemukaan
+<!-- marginal: Pemeriksaan -->
 
-47. (1) Bagi maksud sesuatu pemeriksaan di bawah seksyen buku-buku 45 atau 46, Bank dan pengarah-pengarah serta pegawai- Bank, dsb. pegawainy a hendaklah membenarkan mana-mana orang yang menjalankan pemeriksaan itu akses kepada segala bukunya atau dokumen lain dan akaunny a, termasuk dokumen-dokumen hakmilik kepada aset-asetnya, semua cagaran yang dipegang olehny a berkenaan dengan transaksi pelanggan-pelangganny a, segala wang tunainya, dan kepada segala dokumen, maklumat dankemudahan sebagaimanayang dikehendaki oleh orang itu bagi maksud pemeriksaan itu, dan hendaklah mengemukakan kepada orang itu segala buku atau dokumen lain, akaun, hakmilik, cagaran atau wang tunai dan memberi segala maklumat, sebagaimana yang dikehendakinya:
+45. Menteri bolehlah, dari semasa ke semasa, memeriksa,
+
+<!-- marginal: ke atas Bank. -->
+
+tanpa apa-apa notis terlebih dahulu, buku atau dokumen lain, akaun dan transaksi Bank dan pejabatnya di dalam dan di luar Malaysia.
+
+<!-- marginal: Kuasa Menteri -->
+
+46. Menteri boleh pada bila-bila masa mengarahkan mana-
+
+<!-- marginal: untuk -->
+
+mana orang membuat sesuatu pemeriksaan mengenai buku
+
+<!-- marginal: mengarahkan -->
+
+<!-- marginal: supaya -->
+
+atau dokumen lain, akaun dan transaksi Bank dan pejabatnya
+
+<!-- marginal: pemeriksaan -->
+
+di dalam dan di luar Malaysia jika dia mengesyaki bahawa
+
+<!-- marginal: dibuat. -->
+
+Bank sedang menjalankan perniagaannya dengan cara yang memudaratkan, atau yang mungkin memudaratkan, kepentingan pendeposit atau pemiutangnya, atau mempunyai aset yang tak cukup untuk meliputi liabilitinya kepada orang awam, atau sedang melanggari mana-mana peruntukan Akta ini atau mana-mana undang-undang bertulis yang lain.
+
+<!-- marginal: Pengemukaan -->
+
+47. (1) Bagi maksud sesuatu pemeriksaan di bawah seksyen
+
+<!-- marginal: buku-buku -->
+
+45 atau 46, Bank dan pengarah-pengarah serta pegawai-
+
+<!-- marginal: Bank, dsb. -->
+
+pegawainy a hendaklah membenarkan mana-mana orang yang menjalankan pemeriksaan itu akses kepada segala bukunya atau dokumen lain dan akaunny a, termasuk dokumen-dokumen hakmilik kepada aset-asetnya, semua cagaran yang dipegang olehny a berkenaan dengan transaksi pelanggan-pelangganny a, segala wang tunainya, dan kepada segala dokumen, maklumat dankemudahan sebagaimanayang dikehendaki oleh orang itu bagi maksud pemeriksaan itu, dan hendaklah mengemukakan kepada orang itu segala buku atau dokumen lain, akaun, hakmilik, cagaran atau wang tunai dan memberi segala maklumat, sebagaimana yang dikehendakinya:
 
 <!-- page 71 -->
 
@@ -1942,19 +2328,57 @@ Dengan syarat bahawa, setakat yang konsisten dengan penjalanan pemeriksaan itu, 
 
 <!-- page 72 -->
 
-Bank tak
+<!-- marginal: Bank tak -->
 
-48. (1) Sekiranya Bank tak solven, atau mungkin akan upaya menjadi tak berupaya untuk melaksanakan semua atau mana- melaksanakan obligasi mana daripada obligasinya, atau, bahawa ia hampir hendak hendaklah menggantung pembayaran kepada apa-apa takat, hendaklah memberitahu dengan serta-merta memberitahu kepada Menteri tentang Menteri. hakikat itu.
+48. (1) Sekiranya Bank tak solven, atau mungkin akan
+
+<!-- marginal: upaya -->
+
+menjadi tak berupaya untuk melaksanakan semua atau mana-
+
+<!-- marginal: melaksanakan -->
+
+<!-- marginal: obligasi -->
+
+mana daripada obligasinya, atau, bahawa ia hampir hendak
+
+<!-- marginal: hendaklah -->
+
+menggantung pembayaran kepada apa-apa takat, hendaklah
+
+<!-- marginal: memberitahu -->
+
+dengan serta-merta memberitahu kepada Menteri tentang
+
+<!-- marginal: Menteri. -->
+
+hakikat itu.
 
 (2) Jika Bank tidak mematuhi subseksyen (1), ia adalah melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidakmelebihi tiga juta ringgit dan, dalam hal kesalahan berterusan, boleh didenda selanjutnya tidak melebihi tiga ribu ringgit bagi setiap hari yang kesalahan itu berterusan selepas sabitan.
 
 (3) Jika Bank melakukan suatu kesalahan di bawah subseksyen (2), mana-mana orang y ang pada masa berlakuny a kesalahan itu ialah orang yang bertanggungjawab bagi Bank, adalah juga melakukan kesalahan itu dan apabila disabitkan, boleh didenda tidak melebihi tiga juta ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya dan, dalam hal kesalahan berterusan, boleh didenda selanjutny a tidak melebihi tiga ribu ringgit setiap hari yang kesalahan itu berterusan selepas sabitan.
 
-Tindakan oleh
+<!-- marginal: Tindakan oleh -->
 
-49. (1) Jika— Menteri berkenaan
+49. (1) Jika—
 
-(a) Bank memberitahu Menteri— dengan Bank dalamhal (i) bahawa ia tak solven; keadaan tertentu. (ii) bahawa ia mungkin akan menjadi tak berupaya untuk menunaikan kesemua atau mana-mana obligasinya; atau (iii) bahawa ia hampir hendak menggantung pembayaran kepada apa-apa takat; atau
+<!-- marginal: Menteri -->
+
+<!-- marginal: berkenaan -->
+
+(a) Bank memberitahu Menteri—
+
+<!-- marginal: dengan Bank -->
+
+<!-- marginal: dalamhal -->
+
+(i) bahawa ia tak solven;
+
+<!-- marginal: keadaan -->
+
+<!-- marginal: tertentu. -->
+
+(ii) bahawa ia mungkin akan menjadi tak berupaya untuk menunaikan kesemua atau mana-mana obligasinya; atau (iii) bahawa ia hampir hendak menggantung pembayaran kepada apa-apa takat; atau
 
 (b) sama ada selepas suatu pemeriksaan di bawah seksyen 45 atau 46, atau selainnya, Menteri berpuas hati bahawa Bank— (i) sedangmenjalankanperniagaannyamengikut cara yang memudaratkan kepentingan pendepositnya, ataupemiutangnya, atauorang awam secara amnya;
 
@@ -1974,7 +2398,9 @@ maka Menteri boleh, melalui perintah secara bertulis, menjalankan mana-mana satu
 
 <!-- page 74 -->
 
-74 Rang Undang-Undang
+<!-- marginal: 74 -->
+
+Rang Undang-Undang
 
 (dd) walau apa pun apa-apa jua dalam mana-mana undang-undang bertulis, atau apa-apa batasan yang terkandung dalam dokumen konstituen Bank, dan, khususnya, walau apa pun apa-apa batasan di dalamnya tentang bilangan minimum atau maksimum pengarah, kerana sebab-sebab y ang akan direkodkan olehnya secara bertulis— (i) memecat daripada jawatan, mulai dari suatu tarikh yang dinyatakan dalam perintah itu, mana-mana pengarah Bank; atau
 
@@ -2048,7 +2474,9 @@ bagi apa-apa tempoh yang diputuskan oleh Menteri, yang
 
 tidak melebihi, dalam apa-apa jua hal, dua tahun, tetapi boleh dilantik semula bagi tiga tempoh lagi y ang berturut-turut tidak melebihi satu tahun setiap satunya, dan hendaklah, di sepanjang tempoh pelantikan atau pelantikan semula itu, memegang jawatannya mengikut kehendak Menteri.
 
-(2) Terma dan syarat sesuatu pelantikan yang disebut dalam subseksyen (1) hendaklah, tertakluk kepada perintah y ang di bawahny a pelantikan itu dibuat, dan kepada subseksyen (1), diputuskan oleh Menteri dan hendaklah mengikat Bank.
+(2) Terma dan syarat sesuatu pelantikan yang disebut dalam subseksyen (1) hendaklah, tertakluk kepada perintah y ang di bawahny a pelantikan itu dibuat, dan kepada subseksyen
+
+(1), diputuskan oleh Menteri dan hendaklah mengikat Bank.
 
 (3) Pelantikan pengarah atau pengarah-pengarah di bawah subperenggan 49(1)(dd)(ii) tidaklah menjejaskan mana-mana peruntukan dokumen konstituen yang membolehkan Bank mempunyai pengarah-pengarah tambahan jika bilangan maksimum pengarah yang dibenarkan di bawah dokumen konstituen belum lagi mencapai atau melebihi bilangan pelantikan atau pelantikan-pelantikan di bawah subperenggan 49(1)(dd)(ii).
 
@@ -2060,9 +2488,43 @@ tidak melebihi, dalam apa-apa jua hal, dua tahun, tetapi boleh dilantik semula b
 
 (6) Jika Bank tidak mematuhi subperenggan 49( 1 )(dd)(ii) atauperenggan49(l)(ee) ia adalah melakukan suata kesalahan dan apabila disabitkan, boleh didenda tidak melebihi satu juta ringgit dan, dalam hal kesalahan berterusan, boleh didenda tidak melebihi satu ribu ringgit bagi setiap hari yang kesalahan itu berterusan selepas sabitan.
 
-Peruntukan-
+<!-- marginal: Peruntukan- -->
 
-51. (1) Mana-mana pegawai atau pengarah yang dipecat pemntukan daripada jawatan dalam Bank di bawah perenggan 49(l)(cc) berhubungan dengan atau subperenggan 49( 1 )(dd)(i) hendaklah terhenti memegang pemecatan jawatan yang dia dipecat daripadanya mulai dari tarikh yang jawatan di bawah dinyatakan dalam perintah itu, dan tidaklah boleh selepas itu perenggan memegang apa-apa jawatan lain dalam Bank atau, dengan 49(l)(cc) atau subperenggan apa-apa jua cara, sama ada secara langsung atau secara tak 49(1)(dd)(i). langsung, bersangkut-paut dengan, atau mengambil bahagian atau terlibat dalam, apa-apa aktiviti, hal-ehwal atau perniagaan bagi atau berhubungan dengan Bank.
+51. (1) Mana-mana pegawai atau pengarah yang dipecat
+
+<!-- marginal: pemntukan -->
+
+daripada jawatan dalam Bank di bawah perenggan 49(l)(cc)
+
+<!-- marginal: berhubungan -->
+
+<!-- marginal: dengan -->
+
+atau subperenggan 49( 1 )(dd)(i) hendaklah terhenti memegang
+
+<!-- marginal: pemecatan -->
+
+jawatan yang dia dipecat daripadanya mulai dari tarikh yang
+
+<!-- marginal: jawatan di -->
+
+<!-- marginal: bawah -->
+
+dinyatakan dalam perintah itu, dan tidaklah boleh selepas itu
+
+<!-- marginal: perenggan -->
+
+memegang apa-apa jawatan lain dalam Bank atau, dengan
+
+<!-- marginal: 49(l)(cc) atau -->
+
+<!-- marginal: subperenggan -->
+
+apa-apa jua cara, sama ada secara langsung atau secara tak
+
+<!-- marginal: 49(1)(dd)(i). -->
+
+langsung, bersangkut-paut dengan, atau mengambil bahagian atau terlibat dalam, apa-apa aktiviti, hal-ehwal atau perniagaan bagi atau berhubungan dengan Bank.
 
 (2) Pemecatan seseorang pegawai atau pengarah di bawah perenggan 49(1)(cc) atau subperenggan 49(1)(dd)(i) adalah menurut undang-undang dan sah walau apa pun apa-apa jua yang terkandung dalam mana-mana kontrak perkhidmatan atau kontrak atau perjanjian yang lain, sama ada nyata atau tersirat, sama ada secara individu atau kolektif, dan sama ada dibuat atau diperuntukkan ataupun tidak di bawah mana- mana undang-undang bertulis, dan seseorang yang dipecat sedemikian daripada jawatan tidaklah berhak untuk menuntut apa-apa pampasan kerana kehilangan atau penamatan jawatan itu.
 
@@ -2182,9 +2644,7 @@ kerugian atau tidak digambarkan oleh aset-aset yang ada.
 
 juga memerintahkan supaya syer-syer itu yang pembayarannya belum lagi dibuat dikenselkan dengan sewajarnya.
 
-(3) JikamodalsyerBankdikurangkanmenurutsubseksyen
-
-(1), atau mana-mana syernya telah dikenselkan menurut subseksyen (2), maka Menteri, atau orang dilantik, mengikut mana-mana yang berkenaan, boleh menyebabkan dokumen konstituen itu diubahpinda dengan sewajarnya.
+(3) JikamodalsyerBankdikurangkanmenurutsubseksyen (1), atau mana-mana syernya telah dikenselkan menurut subseksyen (2), maka Menteri, atau orang dilantik, mengikut mana-mana yang berkenaan, boleh menyebabkan dokumen konstituen itu diubahpinda dengan sewajarnya.
 
 (4) Kuasa-kuasa yang diberikan kepada Menteri dan orang dilantik di bawah subseksyen (1), (2) dan (3) hendaklah sebagai tambahan kepada apa-apa kuasa yang boleh dijalankan
 
@@ -2200,15 +2660,31 @@ di bawah subseksyen 64(1) Akta Syarikat 1965, dan jika sesuatu permohonan dibuat
 
 <!-- page 82 -->
 
-82 Rang Undang-Undang
+<!-- marginal: 82 -->
 
-(b) subseksyen 64(9) dan (10) Akta Syarikat 1965 Akta 125. hendaklah terpakai berhubungan dengannya.
+Rang Undang-Undang
 
-Pinjaman
+(b) subseksyen 64(9) dan (10) Akta Syarikat 1965
 
-54. (1) Jika Menteri fikirkan bahawa Bank— kepada Bank dan
+<!-- marginal: Akta 125. -->
 
-(a) berkemungkinantakberupayamenunaikankesemua pemerolehan atau mana-mana obligasinya; atau syer-syemya.
+hendaklah terpakai berhubungan dengannya.
+
+<!-- marginal: Pinjaman -->
+
+54. (1) Jika Menteri fikirkan bahawa Bank—
+
+<!-- marginal: kepada Bank -->
+
+<!-- marginal: dan -->
+
+(a) berkemungkinantakberupayamenunaikankesemua
+
+<!-- marginal: pemerolehan -->
+
+atau mana-mana obligasinya; atau
+
+<!-- marginal: syer-syemya. -->
 
 (b) hampir hendak menggantung pembayaran kepada apa-apa takat,
 
@@ -2222,15 +2698,33 @@ Menteri boleh—
 
 (2) Menteri, atau institusi berlesen yang kepadanya Menteri telah memberi pinjaman di bawah perenggan (1 )( cc), hendaklah melupuskan apa-apa syer yang dibeli olehnya menurut subseksyen (1) pada masa apabila Menteri berpuas hati bahawa sebab-sebabnya yang syer-syer itu dibeli tidak wujud lagi.
 
-Perluasan
+<!-- marginal: Perluasan -->
 
-55. Apa-apa sebutan dalam Bahagian ini mengenai Bank btdang kuasa hendaklah dibaca sebagai termasuk sebutan mengenai— di bawah Bahagian ini
+55. Apa-apa sebutan dalam Bahagian ini mengenai Bank
 
-(a) mana-mana perbadanan berhubungan Bank; dan kepada syarikat
+<!-- marginal: btdang kuasa -->
 
-(b) seseorang yang dikawal oleh seorang pengarah atau berhubungan Bank. pengarah-pengarah Bank, atau oleh orang yang bertindak bersama-sama dengan seorang pengarah atau pengarah-pengarah Bank.
+hendaklah dibaca sebagai termasuk sebutan mengenai—
 
-Moratorium.
+<!-- marginal: di bawah -->
+
+<!-- marginal: Bahagian ini -->
+
+(a) mana-mana perbadanan berhubungan Bank; dan
+
+<!-- marginal: kepada -->
+
+<!-- marginal: syarikat -->
+
+(b) seseorang yang dikawal oleh seorang pengarah atau
+
+<!-- marginal: berhubungan -->
+
+<!-- marginal: Bank. -->
+
+pengarah-pengarah Bank, atau oleh orang yang bertindak bersama-sama dengan seorang pengarah atau pengarah-pengarah Bank.
+
+<!-- marginal: Moratorium. -->
 
 56. (1) Menteri boleh, jika difikirkannya berfaedah kepada kepentingan pendeposit Bank, melalui perintah yang disiarkan dalam Warta—
 
@@ -2256,9 +2750,23 @@ Bank Simpanan Nasional Berhad
 
 (4) Sesuatu perintah yang dibuat di bawah subseksyen (1), atau menurut kuasa subseksyen (2), boleh pada bila-bila masa dibatalkan oleh Menteri melalui suatu perintah, dan apa-apa perintah itu boleh mengandungi segala perintah, arahan atau peruntukan yang bersifat berdampingan, bersampingan atau berbangkit sebagaimana yang difikirkan perlu oleh Menteri.
 
-Kedahuluan
+<!-- marginal: Kedahuluan -->
 
-57. (1) Jika Bank menjadi tak berupaya untuk menunaikan bayaran kesemua atau mana-mana obligasinya, atau menggantung sekiranya Bank tak bayaran kepada apa-apa takat, maka harta-harta Bank di solven. Malaysia hendaklah tersedia ada untuk menunaikan semua liabiliti Bank berkenaan dengan deposit-deposit di Malaysia dengan diberi kedahuluan daripada semua liabiliti lain Bank di Malaysia.
+57. (1) Jika Bank menjadi tak berupaya untuk menunaikan
+
+<!-- marginal: bayaran -->
+
+kesemua atau mana-mana obligasinya, atau menggantung
+
+<!-- marginal: sekiranya -->
+
+<!-- marginal: Bank tak -->
+
+bayaran kepada apa-apa takat, maka harta-harta Bank di
+
+<!-- marginal: solven. -->
+
+Malaysia hendaklah tersedia ada untuk menunaikan semua liabiliti Bank berkenaan dengan deposit-deposit di Malaysia dengan diberi kedahuluan daripada semua liabiliti lain Bank di Malaysia.
 
 (2) Dalam memutuskan jumlah liabiliti Bank kepada seseorang di bawah subseksyen (1), tiada perkiraan boleh diambil berkenaan dengan sesuatu deposit jika ia telah dibuat dengan Bank, atau yang diterima oleh Bank, berlanggaran dengan Akta ini selepas tarikh yang ditetapkan, atau jika ia telah selainnya dibuat atau diterima dengan menyalahi undang- undang sama ada sebelum atau selepas tarikh yang ditetapkan.
 
@@ -2272,9 +2780,15 @@ Kedahuluan
 
 ## DAN PENYITAAN
 
-Pelantikan dan
+<!-- marginal: Pelantikan dan -->
 
-58. (1) Bagi maksud-maksud Bahagian ini, Menteri boleh fungsi pegawai melantik mana-mana orang sebagai seorang pegawai penyiasat. penyiasat.
+58. (1) Bagi maksud-maksud Bahagian ini, Menteri boleh
+
+<!-- marginal: fungsi pegawai -->
+
+melantik mana-mana orang sebagai seorang pegawai penyiasat.
+
+<!-- marginal: penyiasat. -->
 
 <!-- page 85 -->
 
@@ -2304,7 +2818,9 @@ yang difikirkannya perlu, bahawa terdapat sebab yang munasabah untuk mempercayai
 
 <!-- page 86 -->
 
-86 Rang Undang-Undang
+<!-- marginal: 86 -->
+
+Rang Undang-Undang
 
 pelakuan suatu kesalahan di bawah Akta ini, maka Majistret boleh mengeluarkan waran yang memberikuasa pegawai penyiasat untuk, pada bila-bila masa yang munasabah sama ada siang atau malam dan sama ada dengan bantuan atau tanpa bantuan—
 
@@ -2360,13 +2876,25 @@ dia boleh menjalankan, di dalam dan berkenaan dengan premis itu, segala kuasa ya
 
 (7) Suatu rekod secara bertulis hendaklah dibuat oleh pegawai yang menyebabkan apa-apa pelepasan mana-mana harta, buku atau dokumen lain di bawah subseksyen (6) berkenaan dengan pelepasan sedemikian dengan menyatakan dalamnya secara terperinci hal keadaan, dan sebab bagi, pelepasan sedemikian.
 
-(8) Jika pegawai penyiasat tidak dapat menentukan orang yang berhak di sisi undang-undang terhadap harta, buku atau dokumen lain itu atau jika terdapat lebih daripada satu pihak menuntut terhadap harta, buku atau dokumen lain itu, pegawai penyiasat hendaklah melaporkan perkara itu kepada Majistret yang hendaklah kemudiannya memperlakukan harta, buku atau dokumen lain itu sebagaimana yang diperuntukkan dalam subseksyen 413(2), (3) dan (4), dan seksyen 414,415 dan 416 N.M.B. Kanun Prosedur Jenayah.
+(8) Jika pegawai penyiasat tidak dapat menentukan orang yang berhak di sisi undang-undang terhadap harta, buku atau dokumen lain itu atau jika terdapat lebih daripada satu pihak menuntut terhadap harta, buku atau dokumen lain itu, pegawai penyiasat hendaklah melaporkan perkara itu kepada Majistret yang hendaklah kemudiannya memperlakukan harta, buku atau dokumen lain itu sebagaimana yang diperuntukkan dalam subseksyen 413(2), (3) dan (4), dan seksyen 414,415 dan 416
+
+<!-- marginal: N.M.B. -->
+
+Kanun Prosedur Jenayah.
 
 ## Bab 6.
 
-Pemeriksaan
+<!-- marginal: Pemeriksaan -->
 
-60. (1) Seseorangpegawaipenyiasatbolehmemeriksamana- ke atas mana orang yang pada dirinya pegawai penyiasat itu seseorang. mempunyai sebab untuk percaya ada apa-apa harta, buku atau dokumen lain, atau artikel lain, yang perlu, pada pendapatnya,
+60. (1) Seseorangpegawaipenyiasatbolehmemeriksamana-
+
+<!-- marginal: ke atas -->
+
+mana orang yang pada dirinya pegawai penyiasat itu
+
+<!-- marginal: seseorang. -->
+
+mempunyai sebab untuk percaya ada apa-apa harta, buku atau dokumen lain, atau artikel lain, yang perlu, pada pendapatnya,
 
 <!-- page 89 -->
 
@@ -2426,9 +2954,19 @@ alasan-alasan yang munasabah bagi mengesyaki bahawa suatukesalahantelah atau sed
 
 (1) adalah melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi lima juta ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya dan, dalam hal kesalahan berterusan, boleh didenda selanjutny a tidak melebihi lima ribu ringgit bagi setiap hari yang kesalahan itu berterusan selepas sabitan.
 
-Kehendak
+<!-- marginal: Kehendak -->
 
-62. (1) Jika seseorang pegawai penyiasat menjumpai, untuk menyita, menahan atau mengambil milik, apa-apa buku atau menyediakan terjemahan. dokumen lain dalam menjalankan apa-apa kuasa di bawah Bahagian ini, dan buku atau dokumen lain itu atau apa-apa bahagiannya adalah di dalam suatu bahasa selain daripada bahasa kebangsaan atau bahasa Inggeris, atau di dalam apa- apa isyarat atau kod, maka pegawai penyiasat itu boleh secara lisan atau secara bertulis menghendaki orang yang mempuny ai milikan, jagaan atau kawalan ke atas buku atau dokumen lain itu, supaya memberi kepada pegawai penyiasat itu suatu terjemahan di dalam bahasa kebangsaan akan buku atau dokumen lain itu dalam apa-apa tempoh yang, pada pendapat pegawai penyiasat itu, adalah munasabah memandangkan betapa panjangnya buku atau dokumen lain itu, atau hal keadaan lain yang berhubungan dengannya.
+62. (1) Jika seseorang pegawai penyiasat menjumpai,
+
+<!-- marginal: untuk -->
+
+menyita, menahan atau mengambil milik, apa-apa buku atau
+
+<!-- marginal: menyediakan -->
+
+<!-- marginal: terjemahan. -->
+
+dokumen lain dalam menjalankan apa-apa kuasa di bawah Bahagian ini, dan buku atau dokumen lain itu atau apa-apa bahagiannya adalah di dalam suatu bahasa selain daripada bahasa kebangsaan atau bahasa Inggeris, atau di dalam apa- apa isyarat atau kod, maka pegawai penyiasat itu boleh secara lisan atau secara bertulis menghendaki orang yang mempuny ai milikan, jagaan atau kawalan ke atas buku atau dokumen lain itu, supaya memberi kepada pegawai penyiasat itu suatu terjemahan di dalam bahasa kebangsaan akan buku atau dokumen lain itu dalam apa-apa tempoh yang, pada pendapat pegawai penyiasat itu, adalah munasabah memandangkan betapa panjangnya buku atau dokumen lain itu, atau hal keadaan lain yang berhubungan dengannya.
 
 (2) Tiada seorang pun boleh dengan disedarinya memberi suatu terjemahan di bawah subseksyen (1) yang bukannya suatu terjemahan yang tepat, atau dengan disedarinya rnembuat suatu terjemahan di bawah subseksyen itu yang tidak tepat.
 
@@ -2460,17 +2998,9 @@ ini, maka dia boleh, jika pada pendapatnya adalah semunasabahnya perlu untuk ber
 
 (2) Seseorang yang kepadanya suatu perintah di bawah subperenggan (1)(a) atau (b), atau suatu notis bertulis di bawah subperenggan (l)(c), telah diberikan hendaklah mematuhi terma-termaperintah atau notis bertulis itu, mengikut mana-mana yang berkenaan, dan, khususnya—
 
-(a) seseorang yang kepadanya suatu perintah di bawah perenggan (1)(a) telah diberikan hendaklah hadir mengikut terma-terma perintah itu untuk diperiksa, dan hendaklah terus hadir sedemikian dari sehari ke sehari sebagaimana yang diarahkan oleh pegawai penyiasat sehinggalah pemeriksaan itu selesai, dan hendaklah di sepanjang pemeriksaan tersebut mendedahkan segala maklumat yang ada dalam pengetahuannya, atau yang tersedia ada untuknya, atau yang boleh didapatkan olehnya, berkenaan dengan perkara yang berhubungan dengannya dia sedang diperiksa, sama ada apa-apa soalan dikemukakan kepadanya ataupun
+(a) seseorang yang kepadanya suatu perintah di bawah perenggan (1)(a) telah diberikan hendaklah hadir mengikut terma-terma perintah itu untuk diperiksa, dan hendaklah terus hadir sedemikian dari sehari ke sehari sebagaimana yang diarahkan oleh pegawai penyiasat sehinggalah pemeriksaan itu selesai, dan hendaklah di sepanjang pemeriksaan tersebut mendedahkan segala maklumat yang ada dalam pengetahuannya, atau yang tersedia ada untuknya, atau yang boleh didapatkan olehnya, berkenaan dengan perkara yang berhubungan dengannya dia sedang diperiksa, sama ada apa-apa soalan dikemukakan kepadanya ataupun tidak mengenainya itu, dan jika apa-apa soalan dikemukakan kepadanya dia hendaklah menjawab soalan itu dengan benar dan sepanjang yang dia tahu dan percaya, dan tidaklah boleh enggan menjawab apa-apa soalan atas alasan yang soalan itu mungkin menunjukkan dia atau suami atau isterinya, adalah bersalah;
 
-<!-- marginal: tidak -->
-
-mengenainya itu, dan jika apa-apa soalan dikemukakan kepadanya dia hendaklah menjawab soalan itu dengan benar dan sepanjang yang dia tahu dan percaya, dan tidaklah boleh enggan menjawab apa-apa soalan atas alasan yang soalan itu mungkin menunjukkan dia atau suami atau isterinya, adalah bersalah;
-
-(b) seseorang yang kepadanya suatu perintah telah diberikan di bawah perenggan (1)(b) tidaklah boleh menyembunyikan, menyorokkan, memusnahkan, mengubahpinda, memindahkan dari atau menghantar ke luar Malaysia,
-
-<!-- marginal: atau -->
-
-mengurusniagakan, membelanjakan, atau melupuskan, apa-apa buku, dokumen lain, harta, artikel, atau benda yang ditentukan dalam perintah itu, atau mengubahpinda atau merosakkan apa-apa catatan dalam mana-mana buku atau dokumen lain yang tersebut atau menyebabkannya supaya dilakukan, atau membantu atau berkomplot untuk melakukannya; dan
+(b) seseorang yang kepadanya suatu perintah telah diberikan di bawah perenggan (1)(b) tidaklah boleh menyembunyikan, menyorokkan, memusnahkan, mengubahpinda, memindahkan dari atau menghantar ke luar Malaysia, atau mengurusniagakan, membelanjakan, atau melupuskan, apa-apa buku, dokumen lain, harta, artikel, atau benda yang ditentukan dalam perintah itu, atau mengubahpinda atau merosakkan apa-apa catatan dalam mana-mana buku atau dokumen lain yang tersebut atau menyebabkannya supaya dilakukan, atau membantu atau berkomplot untuk melakukannya; dan
 
 (c) seseorang yang kepadanya suatu notis bertulis telah diberikan di bawah perenggan (1)(c) hendaklah, dalam pernyataannya yang dibuat atas sumpah atau
 
@@ -2558,17 +3088,49 @@ orang yang disyaki telah melakukan suatu kesalahan di bawah Akta ini;
 
 96 Rang Undang-Undang
 
-Bantuan kepada
+<!-- marginal: Bantuan kepada -->
 
-65. Menteri boleh atas inisiatifnya sendiri, atau atas pegawai polis permintaan seseorang pegawai awam— atau pegawai awam lain.
+65. Menteri boleh atas inisiatifnya sendiri, atau atas
+
+<!-- marginal: pegawai polis -->
+
+permintaan seseorang pegawai awam—
+
+<!-- marginal: atau pegawai -->
+
+<!-- marginal: awam lain. -->
 
 (a) membekalkan kepada pegawai polis atau mana- mana pegawai awam lain satu salinan apa-apabuku atau dokumen lain y ang disita, ditahan atau diambil milik di bawah seksyen 59 atau 60, atau apa-apa rekod pemeriksaan di bawah perenggan 63(l)(a), atau apa-apa pernyataan bertulis atas sumpah atau ikrar y ang dibuat di bawah perenggan 63(1)(c), atau apa-apa buku atau dokumen lain yang dikemukakan di bawah perenggan 63(1)(b), atau selainny a semasa berjalannya apa-apa pemeriksaan di bawah perenggan 63(1)(a), atau di bawah apa-apa pernyataan bertulis atas sumpah atau ikrar yang dibuat menurut perenggan 63(l)(c), dan pegawai polis atau pegawai awam lain itu boleh menggunakan salinan bagi rekod, pernyataan, buku atau dokumen Jain itu sebagaimana yang perlu atau suaimanfaat berhubungan dengan penjalanan kuasa-kuasanya, pelaksanaan fungsi-fungsinya, atau penunaian tugas- tugasnya, berkenaan dengan mana-mana orang; atau
 
 (b) membenarkan seseorang pegawai polis atau mana- mana pegawai awam lain untuk mempunyai akses kepada dan memeriksa apa-apa harta, buku, dokumen lain, artikel atau benda yang telah dikemukakan di hadapan, atau disita, ditahan atau diambil milik, oleh seseorang pegawai penyiasat di bawah Bahagian ini, dan pegawai polis atau pegawai awam lain itu boleh menggunakan apa-apa pengetahuan yang diperolehi dengan cara akses atau pemeriksaan sebagaimana yang perlu atau suaimanfaat berhubungan dengan penjalanan kuasa- kuasanya, pelaksanaan fungsi-fungsinya, atau penunaian tugas-tugasnya, berkenaan dengan mana- mana orang.
 
-Pegawai
+<!-- marginal: Pegawai -->
 
-66. Seseorang pegawai penyiasat hendaklah disifatkan penyiasat sebagai seorang pengkhidmat awam bagi maksud-maksud disifatkan sebagai Kanun Keseksaan, dan sebagai seorang pegawai awam bagi pengkhidmat maksud-maksud Kanun Prosedur Jenayah, atau mana-mana awamdan pegawai awam. undang-undang bertulis lain yang ditetapkan oleh Menteri. NM.B.Bab45. NM.B.Bab6.
+66. Seseorang pegawai penyiasat hendaklah disifatkan
+
+<!-- marginal: penyiasat -->
+
+sebagai seorang pengkhidmat awam bagi maksud-maksud
+
+<!-- marginal: disifatkan -->
+
+<!-- marginal: sebagai -->
+
+Kanun Keseksaan, dan sebagai seorang pegawai awam bagi
+
+<!-- marginal: pengkhidmat -->
+
+maksud-maksud Kanun Prosedur Jenayah, atau mana-mana
+
+<!-- marginal: awamdan -->
+
+<!-- marginal: pegawai awam. -->
+
+undang-undang bertulis lain yang ditetapkan oleh Menteri.
+
+<!-- marginal: NM.B.Bab45. -->
+
+<!-- marginal: NM.B.Bab6. -->
 
 <!-- page 97 -->
 
@@ -2618,17 +3180,37 @@ Menteri supaya menyiasat secara khusus hal-ehwal mana- mana pelanggan individu B
 
 (1) atau (3) adalah melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi tiga juta ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.
 
-Pendedahan
+<!-- marginal: Pendedahan -->
 
-69. Peruntukan-peruntukan seksyen 68 tidaklah terpakai bagi bagi memper- pendedahan apa-apa maklumat atau dokumen— mudahkan pelaksanaan
+69. Peruntukan-peruntukan seksyen 68 tidaklah terpakai bagi
 
-(a) kepada Menteri atau kepada mana-mana pegawai fungsi-fungsi Menteri. Kerajaan atau kepada mana-mana orang yang dilantik oleh Menteri di bawah seksyen 88, jika pendedahan itu adalah bagi maksud menjalankan kuasa-kuasa, melaksanakan fungsi-fungsi atau menunaikan tugas-tugas Menteri, atau pegawai Kerajaan itu atau orang yang dilantik di bawah seksyen 88; atau
+<!-- marginal: bagi memper- -->
+
+pendedahan apa-apa maklumat atau dokumen—
+
+<!-- marginal: mudahkan -->
+
+<!-- marginal: pelaksanaan -->
+
+(a) kepada Menteri atau kepada mana-mana pegawai
+
+<!-- marginal: fungsi-fungsi -->
+
+<!-- marginal: Menteri. -->
+
+Kerajaan atau kepada mana-mana orang yang dilantik oleh Menteri di bawah seksyen 88, jika pendedahan itu adalah bagi maksud menjalankan kuasa-kuasa, melaksanakan fungsi-fungsi atau menunaikan tugas-tugas Menteri, atau pegawai Kerajaan itu atau orang yang dilantik di bawah seksyen 88; atau
 
 (b) kepada mana-mana orang yang memberi perkhidmatan profesional kepada Menteri berhubungan dengan apa-apa perkara undang- undang, perakaunan, penilaian, atau apa-apa perkara lain yang memerlukan pengetahuan profesional, di mana dia dibenarkan secara bertulis oleh Menteri untuk mendapatkan maklumat daripada Bank bagi maksud perkhidmatannya kepada Menteri.
 
-Pendedahan
+<!-- marginal: Pendedahan -->
 
-70. (1) Peruntukan-peruntukan seksyen 68 tidaklah terpakai lain yang bagi pendedahan apa-apa maklumat atau dokumen— dibenarkan.
+70. (1) Peruntukan-peruntukan seksyen 68 tidaklah terpakai
+
+<!-- marginal: lain yang -->
+
+bagi pendedahan apa-apa maklumat atau dokumen—
+
+<!-- marginal: dibenarkan. -->
 
 (a) yang pelanggan, atau wakil dirinya, telah memberi kebenaran secara bertulis untuk didedahkan;
 
@@ -2662,25 +3244,55 @@ itu, memerintahkan sedemikian, diadakan secara tertutup dan, dalam hal yang sede
 
 (3) Melainkan jika diperintahkan selainnya oleh mahkamah, tiada seorang pun boleh menyiarkan nama, alamat atau fotograf mana-mana pihak dalam prosiding sivil itu seperti yang disebut dalam subseksyen (2), atau apa-apa maklumat yang mungkin membawa kepada pengenalpastian pihak-pihak dalam prosiding itu, sama ada semasa berlangsungnya prosiding itu atau pada bila-bila masa selepas prosiding itu telah tamat.
 
-(4) Mana-mana orang yang tidak mematuhi subseksyen
+(4) Mana-mana orang yang tidak mematuhi subseksyen (2) atau (3) adalah melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi tiga juta ringgit atau dipenjarakan selama tempoh tidak inelebihi tiga tahun atau kedua-duanya.
 
-(2) atau (3) adalah melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi tiga juta ringgit atau dipenjarakan selama tempoh tidak inelebihi tiga tahun atau kedua-duanya.
+<!-- marginal: Pendedahan di -->
 
-Pendedahan di
+71. Tiada apa-apa jua dalam Bahagian ini bolehmenghadkan
 
-71. Tiada apa-apa jua dalam Bahagian ini bolehmenghadkan bawah Akta apa-apa kuasa yang diberi kepada Mahkamah Tinggi atau (Keterangan) Buku Banker seseorang hakim Mahkamah Tinggi oleh Akta (Keterangan)
+<!-- marginal: bawah Akta -->
 
-1949. Buku Banker 1949 atau melarang pematuhan kepada sesuatu Akta33. perintah yang dibuat di bawah Akta itu.
+apa-apa kuasa yang diberi kepada Mahkamah Tinggi atau
+
+<!-- marginal: (Keterangan) -->
+
+<!-- marginal: Buku Banker -->
+
+seseorang hakim Mahkamah Tinggi oleh Akta (Keterangan)
+
+1949. Buku Banker 1949 atau melarang pematuhan kepada sesuatu
+
+<!-- marginal: Akta33. -->
+
+perintah yang dibuat di bawah Akta itu.
 
 ## BAHAGIAN XII
 
 ## KESALAHAN-KESALAHAN
 
-Kesalahan-
+<!-- marginal: Kesalahan- -->
 
-72. (1) Tiada seorang pun boleh, dengan niat untuk kesalahan memperdaya— berhubungan dengan
+72. (1) Tiada seorang pun boleh, dengan niat untuk
 
-(a) membuat atau menyebabkan dibuat suatu catatan catatan- catatan dalam palsu; buku, dokumen. dll.
+<!-- marginal: kesalahan -->
+
+memperdaya—
+
+<!-- marginal: berhubungan -->
+
+<!-- marginal: dengan -->
+
+(a) membuat atau menyebabkan dibuat suatu catatan
+
+<!-- marginal: catatan- -->
+
+<!-- marginal: catatan dalam -->
+
+palsu;
+
+<!-- marginal: buku, -->
+
+<!-- marginal: dokumen. dll. -->
 
 (b) meninggalkan daripada membuat, atau menyebabkan ditinggalkan daripada dibuat, apa- apa catatan; atau
 
@@ -2732,11 +3344,33 @@ Dengan syarat bahawa perbuatan, peninggalan, pengabaian atau keingkaran itu tela
 
 102 Rang Undang-Undang
 
-Pencantuman 75. Walau apa pun apa-apa jua yang terkandung dalam kesalahan- mana-mana undang-undang bertulis lain, jika seseorang kesalahan. dituduh atas lebih daripada satu kesalahan di bawah Akta ini, dia boleh dipertuduhkan dengan dan dibicarakan dalam satu perbicaraan bagi seberapa banyak kesalahan yang dilakukan dalam jarak masa tidak kira apa jua pun tempohnya.
+Pencantuman 75. Walau apa pun apa-apa jua yang terkandung dalam
 
-Kuasa
+<!-- marginal: kesalahan- -->
 
-76. (1) Menteri boleh, dalam hal di mana difikirkannya Menteri untuk layak dan patut untuk berbuat demikian dan tertakluk kepada mengkompaun kesalahan- keizinan bertulis daripada Pendakwa Raya terlebih dahulu, kesalahan. mengkompaunkan apa-apa kesalahan yang dilakulcan oleh mana-mana orang yang boleh dihukum di bawah mana-mana peruntukan Akta ini, dengan membuat suatu tawaran bertulis kepada orang itu untuk mengkompaunkan kesalahan itu dengan membayar kepada Menteri dalam masa yang ditentukan dalam tawaran itu apa-apa jumlah wang sebagaimana yang ditentukan dalam tawaran itu yang tidaklah boleh melebihi lima puluh peratus daripada amaun denda maksimum (termasuk denda harian, jika ada, dalam hal suatu kesalahan yang berterusan) yang boleh dikenakan kepada orang itu jika dia telah disabitkan atas kesalahan itu.
+mana-mana undang-undang bertulis lain, jika seseorang
+
+<!-- marginal: kesalahan. -->
+
+dituduh atas lebih daripada satu kesalahan di bawah Akta ini, dia boleh dipertuduhkan dengan dan dibicarakan dalam satu perbicaraan bagi seberapa banyak kesalahan yang dilakukan dalam jarak masa tidak kira apa jua pun tempohnya.
+
+<!-- marginal: Kuasa -->
+
+76. (1) Menteri boleh, dalam hal di mana difikirkannya
+
+<!-- marginal: Menteri untuk -->
+
+layak dan patut untuk berbuat demikian dan tertakluk kepada
+
+<!-- marginal: mengkompaun -->
+
+<!-- marginal: kesalahan- -->
+
+keizinan bertulis daripada Pendakwa Raya terlebih dahulu,
+
+<!-- marginal: kesalahan. -->
+
+mengkompaunkan apa-apa kesalahan yang dilakulcan oleh mana-mana orang yang boleh dihukum di bawah mana-mana peruntukan Akta ini, dengan membuat suatu tawaran bertulis kepada orang itu untuk mengkompaunkan kesalahan itu dengan membayar kepada Menteri dalam masa yang ditentukan dalam tawaran itu apa-apa jumlah wang sebagaimana yang ditentukan dalam tawaran itu yang tidaklah boleh melebihi lima puluh peratus daripada amaun denda maksimum (termasuk denda harian, jika ada, dalam hal suatu kesalahan yang berterusan) yang boleh dikenakan kepada orang itu jika dia telah disabitkan atas kesalahan itu.
 
 (2) Apa-apa wang yang dibayar kepada Menteri menurut peruntukan-peruntukan subseksyen (1) hendaklah dibayar ke dalam dan menjadi sebahagian daripada Kumpulan Wang Disatukan Persekutuan.
 
@@ -2856,7 +3490,7 @@ adalah melakukan kesalahan itu dan boleh dikenakan penalti yang diperuntukkan ba
 
 (2) Mana-mana peruntukan Akta ini yang mengandungi sebutan mengenai suatu kesalahan di bawah mana-mana peruntukan tertentu Akta ini hendaklah dibaca sebagai termasuk sebutan mengenai suatu kesalahan di bawah subseksyen (1) berhubungan dengan kesalahan di bawah peruntukan tertentu itu.
 
-Penalti am.
+<!-- marginal: Penalti am. -->
 
 81. Mana-mana orang yang melanggar—
 
@@ -2870,9 +3504,29 @@ adalah melakukan suatu kesalahan di bawah peruntukan tersebut, dan jika tiada pe
 
 ## PERUNTUKAN-PERUNTUKAN AM
 
-Pengemukaan
+<!-- marginal: Pengemukaan -->
 
-82. (1) Jika,bagimaksudmenjalankanmana-manakuasanya, kepada melaksanakan mana-mana fungsiny a, atau menunaikan mana- Menteri maklumat mana tugasnya, di bawah Akta ini, atau di bawah mana-mana yang undang-undang bertulis lain, Menteri berkehendakkan apa- dikehendaki olehnya. apa maklumat daripada Bank atau daripada mana-mana perbadanan yang berkaitan dengan Bank, mengenai apa-apa perkara yang berhubungan dengan hal-ehwal atau perniagaan Bank atau perbadanan tersebut, maka Bank atau perbadanan tersebut, hendaklah mengemukakan maklumat tersebut kepada Menteri.
+82. (1) Jika,bagimaksudmenjalankanmana-manakuasanya,
+
+<!-- marginal: kepada -->
+
+melaksanakan mana-mana fungsiny a, atau menunaikan mana-
+
+<!-- marginal: Menteri -->
+
+<!-- marginal: maklumat -->
+
+mana tugasnya, di bawah Akta ini, atau di bawah mana-mana
+
+<!-- marginal: yang -->
+
+undang-undang bertulis lain, Menteri berkehendakkan apa-
+
+<!-- marginal: dikehendaki -->
+
+<!-- marginal: olehnya. -->
+
+apa maklumat daripada Bank atau daripada mana-mana perbadanan yang berkaitan dengan Bank, mengenai apa-apa perkara yang berhubungan dengan hal-ehwal atau perniagaan Bank atau perbadanan tersebut, maka Bank atau perbadanan tersebut, hendaklah mengemukakan maklumat tersebut kepada Menteri.
 
 <!-- page 105 -->
 
@@ -2910,9 +3564,21 @@ Dengan syarat bahawa perbuatan tersebut atau pernyataan tersebut telah dilakukan
 
 (3) Dalam subseksyen (2) "anggota pentadbiran" mempunyai erti yang diberikan kepadanya dalam Perkara 160(2) Perlembagaan Persekutuan.
 
-Kawalan ke
+<!-- marginal: Kawalan ke -->
 
-84. (1) JikaMenteriberpendapatbahawaapa-apapernyataan atas iklan yang yang dibuat dalam sesuatu iklan yang diterbitkan oleh Bank diterbitkan adalah palsu, memperdayakan, mengganggu atau oleh Bank. mengelimkan, Menteri boleh melalui notis secara bertulis mengarahkan Bank supaya melakukan kesemua atau mana- mana daripada yang berikut:
+84. (1) JikaMenteriberpendapatbahawaapa-apapernyataan
+
+<!-- marginal: atas iklan yang -->
+
+yang dibuat dalam sesuatu iklan yang diterbitkan oleh Bank
+
+<!-- marginal: diterbitkan -->
+
+adalah palsu, memperdayakan, mengganggu atau
+
+<!-- marginal: oleh Bank. -->
+
+mengelimkan, Menteri boleh melalui notis secara bertulis mengarahkan Bank supaya melakukan kesemua atau mana- mana daripada yang berikut:
 
 (a) memberhentikan penerbitan berterusan iklan itu;
 
@@ -2962,27 +3628,59 @@ Bank, boleh, sama ada secara langsung atau tak langsung, meminta atau menerima, 
 
 (2) Peruntukan subseksyen (1) tidaklah dengan apa-apa jua cara mengurangkan, dan hendaklah tanpa menjejaskan, mana-mana nndang-undang bertulis lain yang berhubungan dengan rasuah atau suapan yang menyalahi undang-undang.
 
-(3) Mana-mana orang yang tidak mematuhi subseksyen (1) adalah melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi sepuluh juta ringgit atau dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau kedua-duanya.
+(3) Mana-mana orang yang tidak mematuhi subseksyen
+
+(1) adalah melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi sepuluh juta ringgit atau dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau kedua-duanya.
 
 <!-- page 108 -->
 
-86. (1) Bank hendaklah berunding dengan Menteri sebelum Perniagaan bank atau menjalankan perniagaan bank Islam atau perniagaan kewangan kewangan Islam. Islam.
+86. (1) Bank hendaklah berunding dengan Menteri sebelum
 
-(2) Menteri boleh, dengan perundingan dengan Majlis Akta 372. Penasihat Syariah yang ditubuhkan di bawah Akta Bank dan Institusi-Institusi Kewangan 1989 mengeluarkan arahan bertulis kepada Bank mengenai perkara yang berkaitan dengan perniagaan bank Islam atau apa-apa perniagaan kewangan Islam yang lain dan Bank hendaklah mematuhi arahan bertulis itu.
+<!-- marginal: Perniagaan -->
+
+<!-- marginal: bank atau -->
+
+menjalankan perniagaan bank Islam atau perniagaan kewangan
+
+<!-- marginal: kewangan -->
+
+Islam.
+
+<!-- marginal: Islam. -->
+
+(2) Menteri boleh, dengan perundingan dengan Majlis
+
+<!-- marginal: Akta 372. -->
+
+Penasihat Syariah yang ditubuhkan di bawah Akta Bank dan Institusi-Institusi Kewangan 1989 mengeluarkan arahan bertulis kepada Bank mengenai perkara yang berkaitan dengan perniagaan bank Islam atau apa-apa perniagaan kewangan Islam yang lain dan Bank hendaklah mematuhi arahan bertulis itu.
 
 (3) Bank boleh, dalam menjalankan perniagaan bank Islam atau perniagaan kewangan Islam, meminta nasihat Majlis Penasihat Syariah mengenai pengendalian perniagaannya untuk memastikan bahawa ia tidak melibatkan mana-mana elemen yang tidak dibenarkan oleh agama Islam.
 
 (4) Bagi maksud seksyen ini—
 
-(a) "perniagaan bank Islam" mempunyai erti yang Akta 276. diberikan kepadanya oleh Akta Bank Islam 1983; dan
+(a) "perniagaan bank Islam" mempunyai erti yang
+
+<!-- marginal: Akta 276. -->
+
+diberikan kepadanya oleh Akta Bank Islam 1983; dan
 
 (b) "perniagaan kewangan Islam" ertinya apa-apa perniagaan kewangan Islam, yang tujuan dan pengendaliannya, tidak melibatkan elemen yang tidak dibenarkan oleh agama Islam.
 
-Peraturan-
+<!-- marginal: Peraturan- -->
 
-87. Menteri boleh, dari semasa ke semasa, membuat apa-apa peraturan. peraturan yang perlu atau suaimanfaat untuk memberi kesan penuh kepada peruntukan Akta ini, untuk menjalankan atau mencapai tujuan dan maksud Akta ini atau mana-mana peruntukannya, atau untuk melaksanakan peruntukan- peruntukan Akta ini dengan lebih lanjut, lebih baik atau lebih mudah.
+87. Menteri boleh, dari semasa ke semasa, membuat apa-apa
 
-88. Menteri boleh, sama ada secara am atau dalam mana- Pelantikan orang. mana hal yang tertentu, melantik mana-mana orang yang bukan seorang pegawai Kerajaan, untuk memberi apa-apa bantuan sebagaimana yang ditentukannya dalam menjalankan kuasa-kuasanya, melaksanakan fungsi-fungsinya, atau menunaikan tugas-tugasnya, di bawah Akta ini.
+<!-- marginal: peraturan. -->
+
+peraturan yang perlu atau suaimanfaat untuk memberi kesan penuh kepada peruntukan Akta ini, untuk menjalankan atau mencapai tujuan dan maksud Akta ini atau mana-mana peruntukannya, atau untuk melaksanakan peruntukan- peruntukan Akta ini dengan lebih lanjut, lebih baik atau lebih mudah.
+
+88. Menteri boleh, sama ada secara am atau dalam mana-
+
+<!-- marginal: Pelantikan -->
+
+<!-- marginal: orang. -->
+
+mana hal yang tertentu, melantik mana-mana orang yang bukan seorang pegawai Kerajaan, untuk memberi apa-apa bantuan sebagaimana yang ditentukannya dalam menjalankan kuasa-kuasanya, melaksanakan fungsi-fungsinya, atau menunaikan tugas-tugasnya, di bawah Akta ini.
 
 <!-- page 109 -->
 
@@ -3026,23 +3724,59 @@ dalam Warta, mengisytiharkan mana-mana hari sebagai hari kelepasan bagi Bank.
 
 <!-- page 110 -->
 
-Pemakaian
+<!-- marginal: Pemakaian -->
 
-91. Bank, yang diperbadankan di bawah Akta Syarikat Akta 1965 adalah tertakluk kepada peruntukan Akta itu dan Syarikat juga kepada peruntukan Akta ini, tetapi jika terdapat apa-
+91. Bank, yang diperbadankan di bawah Akta Syarikat
 
-1965. Akta 125. apa percanggahan atau ketakkonsistenan antara peruntukan Akta Syarikat 1965 dan Akta ini dalam pemakaiannya masing-masing bagi Bank, peruntukan Akta ini hendaklah mengatasi.
+<!-- marginal: Akta -->
 
-Pengecualian.
+1965 adalah tertakluk kepada peruntukan Akta itu dan
 
-92. Akta Bank Islam 1983 dan seksyen 25, 26, 27 dan Akta 276. 28 Akta Bank dan Institusi-Institusi Kewangan 1989 Akta 372. tidaklah terpakai bagi Bank selagi Bank dimiliki sepenuhnya oleh Kerajaan.
+<!-- marginal: Syarikat -->
 
-Kontrak tak
+juga kepada peruntukan Akta ini, tetapi jika terdapat apa-
 
-93. Kecuali sebagaimana yang diperuntukkan dalam Akta terjejas. ini, tiada kontrak, perjanjian atau perkiraan yang dibuat oleh atau dengan Bank Simpanan Nasional sebelum mula berkuatkuasanya Akta ini tetapi yang pada masa ini melanggar Akta ini adalah terbatal semata-mata oleh sebab pelanggaran itu.
+1965.
 
-Pemansuhan
+<!-- marginal: Akta 125. -->
 
-94. (1) Akta Bank Simpanan Nasional 1974 adalah dan dimansuhkan. peruntukan peralihan. Akta 146. (2) Walau apa pun subseksyen (1), mana-mana peraturan yang dibuat di bawah atau mengikut Akta termansuh itu hendaklah setakat yang ia tidak tak konsisten dengan Akta ini, terus berkuatkuasa sehingga dimansuhkan, dibatalkan atau digantikan dengan peraturan-peraturan baru yang dibuat di bawah Akta ini.
+apa percanggahan atau ketakkonsistenan antara peruntukan Akta Syarikat 1965 dan Akta ini dalam pemakaiannya masing-masing bagi Bank, peruntukan Akta ini hendaklah mengatasi.
+
+<!-- marginal: Pengecualian. -->
+
+92. Akta Bank Islam 1983 dan seksyen 25, 26, 27 dan
+
+<!-- marginal: Akta 276. -->
+
+28 Akta Bank dan Institusi-Institusi Kewangan 1989
+
+<!-- marginal: Akta 372. -->
+
+tidaklah terpakai bagi Bank selagi Bank dimiliki sepenuhnya oleh Kerajaan.
+
+<!-- marginal: Kontrak tak -->
+
+93. Kecuali sebagaimana yang diperuntukkan dalam Akta
+
+<!-- marginal: terjejas. -->
+
+ini, tiada kontrak, perjanjian atau perkiraan yang dibuat oleh atau dengan Bank Simpanan Nasional sebelum mula berkuatkuasanya Akta ini tetapi yang pada masa ini melanggar Akta ini adalah terbatal semata-mata oleh sebab pelanggaran itu.
+
+<!-- marginal: Pemansuhan -->
+
+94. (1) Akta Bank Simpanan Nasional 1974 adalah
+
+<!-- marginal: dan -->
+
+dimansuhkan.
+
+<!-- marginal: peruntukan -->
+
+<!-- marginal: peralihan. -->
+
+<!-- marginal: Akta 146. -->
+
+(2) Walau apa pun subseksyen (1), mana-mana peraturan yang dibuat di bawah atau mengikut Akta termansuh itu hendaklah setakat yang ia tidak tak konsisten dengan Akta ini, terus berkuatkuasa sehingga dimansuhkan, dibatalkan atau digantikan dengan peraturan-peraturan baru yang dibuat di bawah Akta ini.
 
 ## HURAIAN
 

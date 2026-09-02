@@ -140,7 +140,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_12",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam perenggan (d), dengan memotong perkataan \"Jabatan\" yang terdapat sebelum perkataan \"Polis\". Pindaan"
+        "@value": "dalam perenggan (d), dengan memotong perkataan \"Jabatan\" yang terdapat sebelum perkataan \"Polis\"."
       }
     },
     {
@@ -148,9 +148,13 @@
       "@type": "akn:clause",
       "eli:number": "13",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 19(1) Akta ibu adalah dipinda dengan"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Subseksyen 19(1) Akta ibu adalah dipinda dengan seksyen 19. menggantikan perkataan \"Pengarah sesuatu kawasan pendaftaran\" dan perkataan \"Pengarah\" yang mula-mula terdapat dengan perkataan \"pendaftar berlesen\". Pindaan"
+        "@value": "menggantikan perkataan \"Pengarah sesuatu kawasan pendaftaran\" dan perkataan \"Pengarah\" yang mula-mula terdapat dengan perkataan \"pendaftar berlesen\"."
       }
     },
     {
@@ -158,9 +162,13 @@
       "@type": "akn:clause",
       "eli:number": "14",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 21 Akta ibu adalah dipinda dengan"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Seksyen 21 Akta ibu adalah dipinda dengan seksyen 21. menggantikan perkataan \"Pengarah\" di mana-mana jua terdapat dengan perkataan \"pendaftar berlesen\". Pindaan"
+        "@value": "menggantikan perkataan \"Pengarah\" di mana-mana jua terdapat dengan perkataan \"pendaftar berlesen\"."
       }
     },
     {
@@ -168,9 +176,13 @@
       "@type": "akn:clause",
       "eli:number": "15",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 22 Akta ibu adalah dipinda dengan"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Seksyen 22 Akta ibu adalah dipinda dengan seksyen 22. menggantikan perkataan \"Pengarah bagi kawasan pendaftaran\" , \"Pengarah sesuatu kawasan pendaftaran\" dan \"Pengarah\" di mana-mana jua terdapat dengan perkataan \"pendaftar berlesen\". Pindaan"
+        "@value": "menggantikan perkataan \"Pengarah bagi kawasan pendaftaran\" , \"Pengarah sesuatu kawasan pendaftaran\" dan \"Pengarah\" di mana-mana jua terdapat dengan perkataan \"pendaftar berlesen\"."
       }
     },
     {
@@ -178,9 +190,13 @@
       "@type": "akn:clause",
       "eli:number": "16",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 23 Akta ibu adalah dipinda dengan"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Seksyen 23 Akta ibu adalah dipinda dengan seksyen 23. menggantikan perkataan \"Pengarah\" di mana-mana jua terdapat dengan perkataan \"pendaftar berlesen\". Pindaan"
+        "@value": "menggantikan perkataan \"Pengarah\" di mana-mana jua terdapat dengan perkataan \"pendaftar berlesen\"."
       }
     },
     {
@@ -188,9 +204,13 @@
       "@type": "akn:clause",
       "eli:number": "17",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 24 Akta ibu adalah dipinda dengan"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Seksyen 24 Akta ibu adalah dipinda dengan seksyen 24. menggantikan perkataan \"Pengarah\" di mana-mana jua terdapat dengan perkataan \"pendaftar berlesen\". Pindaan"
+        "@value": "menggantikan perkataan \"Pengarah\" di mana-mana jua terdapat dengan perkataan \"pendaftar berlesen\"."
       }
     },
     {
@@ -202,9 +222,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_18__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@",
-      "schema:text": {
+      "schema:name": {
         "@language": "ms",
-        "@value": "Subseksyen 27(6) Akta ibu adalah dipinda— seksyen 27."
+        "@value": "Subseksyen 27(6) Akta ibu adalah dipinda—"
       }
     },
     {
@@ -224,7 +244,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_18",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut: \"(c) selama tempoh dua belas bulan dari tarikh pembatalan lesen memandu di bawah seksyen 35, 35A, 41, 42, 43, 44, 45, 45A, 45B atau 45c.\". Pindaan"
+        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut: \"(c) selama tempoh dua belas bulan dari tarikh pembatalan lesen memandu di bawah seksyen 35, 35A, 41, 42, 43, 44, 45, 45A, 45B atau 45c.\"."
       }
     },
     {
@@ -237,9 +257,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_19__para_c"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@",
-      "schema:text": {
+      "schema:name": {
         "@language": "ms",
-        "@value": "Seksyen 29 Akta ibu adalah dipinda— seksyen 29."
+        "@value": "Seksyen 29 Akta ibu adalah dipinda—"
       }
     },
     {
@@ -253,7 +273,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_19",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (1)— \"(a) memegang lesen memandu percubaan selama tempoh dua tahun dan membuat permohonan dalam tempoh satu tahun selepas habis tempoh itu;\";"
+        "@value": "dalam subseksyen (1)—"
       }
     },
     {
@@ -273,7 +293,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_19__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perenggan (a) dengan perenggan yang berikut:"
+        "@value": "dengan menggantikan perenggan (a) dengan perenggan yang berikut: \"(a) memegang lesen memandu percubaan selama tempoh dua tahun dan membuat permohonan dalam tempoh satu tahun selepas habis tempoh itu;\";"
       }
     },
     {
@@ -293,7 +313,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_19",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: \"(4A) Jika seseorang yang memegang lesen belajar memandu lulus ujian kekompetenan yang ditetapkan, Pengarah hendaklah memberinya lesen memandu percubaan dan lesen itu hendaklah dalam bentuk yang ditetapkan dan tertakluk kepada syarat-syarat yang ditetapkan dan hendaklah sah selama dua tahun. (4B) Subseksyen (4A) tidaklah terpakai kepada pemohon yang memegang lesen memandu, selain daripada lesen belajar memandu, daripada kelas atau perihalan yang lain. (4c) Jika mana-mana orang yang kepadanya lesen memandu percubaan diberikan gagal mematuhi mana-mana syarat yang tertakluk kepadanya lesen itu diberikan, maka dia adalah melakukan suatu kesalahan.\". Pindaan"
+        "@value": "dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: \"(4A) Jika seseorang yang memegang lesen belajar memandu lulus ujian kekompetenan yang ditetapkan, Pengarah hendaklah memberinya lesen memandu percubaan dan lesen itu hendaklah dalam bentuk yang ditetapkan dan tertakluk kepada syarat-syarat yang ditetapkan dan hendaklah sah selama dua tahun. (4B) Subseksyen (4A) tidaklah terpakai kepada pemohon yang memegang lesen memandu, selain daripada lesen belajar memandu, daripada kelas atau perihalan yang lain. (4c) Jika mana-mana orang yang kepadanya lesen memandu percubaan diberikan gagal mematuhi mana-mana syarat yang tertakluk kepadanya lesen itu diberikan, maka dia adalah melakukan suatu kesalahan.\"."
       }
     },
     {
@@ -349,9 +369,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_20__para_f"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@",
-      "schema:text": {
+      "schema:name": {
         "@language": "ms",
-        "@value": "Seksyen 35 Akta ibu adalah dipinda— seksyen 35."
+        "@value": "Seksyen 35 Akta ibu adalah dipinda—"
       }
     },
     {
@@ -418,13 +438,6 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_21",
       "@type": "akn:clause",
       "eli:number": "21",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_21__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_21__subsec_3",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_21__subsec_4",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_21__subsec_5",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_21__subsec_6"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@",
       "schema:name": {
         "@language": "ms",
@@ -432,57 +445,7 @@
       },
       "schema:text": {
         "@language": "ms",
-        "@value": "seksyen 35 seksyen yang berikut: 35A. (1) Walau apa pun yang terkandung di \"Kuasa Ketua dalam Akta ini, Ketua Pengarah hendaklah Pengarah membatalkan lesen memandu percubaan untuk membatal- seseorang jika dalam tempoh dua puluh empat kan lesen bulan dari tarikh pemberian lesen memandu memandu percubaan. percubaan rekod orang itu, yang disimpan oleh Ketua Pengarah, sebagai pemandu sesuatu kenderaan motor, atau kelakuan atau kebiasaannya sebagai pemandu, membuktikan bahawa adalah tidak menjadi kepentingan untuk keselamatan awam bagi orang itu memegang suatu lesen memandu yang sah atau bahawa orang itu tidak kompeten untuk memandu sesuatu kenderaan motor."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_21__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_21",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Bagi maksud membuktikan bahawa adalah tidak menjadi kepentingan untuk keselamatan awam bagi seseorang itu memegang suatu lesen memandu atau bahawa orang itu tidak kompeten untuk memandu sesuatu kenderaan motor, Menteri boleh membuat kaedah-kaedah menetapkan suatu sistem pemberian mata terhadap seseorang kerana melakukan suatu kesalahan di bawah Akta ini atau apa-apa kaedah yang dibuat di bawahnya: Dengan syarat bahawa kaedah-kaedah sedemikian boleh membuat peruntukan bagi menghendaki orang itu menjalani apa-apa kursus sebagaimana yang ditetapkan oleh Ketua Pengarah."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_21__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_21",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Kaedah-kaedah yang dibuat di bawah subseksyen (2) hendaklah menyatakan jumlah mata maksimum yang akan diberikan terhadap seseorang sebelum boleh dibuktikan bahawa adalah tidak menjadi kepentingan untuk keselamatan awam bagi orang itu memegang suatu lesen memandu atau bahawa orang itu tidak kompeten untuk memandu sesuatu kenderaan motor."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_21__subsec_4",
-      "@type": "akn:subsection",
-      "eli:number": "4",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_21",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Kuasa yang diberikan kepada Ketua Pengarah oleh seksyen ini untuk membatalkan lesen memandu percubaan seseorang hendaklah dijalankan pada masa selepas jumlah mata maksimum yang disebut dalam subseksyen (3) diberikan terhadap orang itu sebagaimana yang difikirkan patut oleh Ketua Pengarah."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_21__subsec_5",
-      "@type": "akn:subsection",
-      "eli:number": "5",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_21",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Jika seseorang itu yang lesen memandu percubaannya dibatalkan dan dihilangkan kelayakan melalui suatu perintah mahkamah daripada memegang atau mendapatkan lesen memandu bagi apa-apa tempoh masa sebagaimana yang dinyatakan dalam perintah itu, tiap-tiap mata yang diberikan terhadapnya di bawah kaedah-kaedah yang dibuat di bawah subseksyen (2) hendaklah kemudiannya dibatalkan."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_21__subsec_6",
-      "@type": "akn:subsection",
-      "eli:number": "6",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_21",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Bagi maksud-maksud seksyen ini, seseorang hendaklah disifatkan telah melakukan suatu kesalahan di bawah Akta ini jika dia membayar penalti yang ditetapkan bagi kesalahan itu di bawah seksyen 119.\". Pindaan"
+        "@value": "seksyen 35 seksyen yang berikut: 35A. (1) Walau apa pun yang terkandung di dalam Akta ini, Ketua Pengarah hendaklah membatalkan lesen memandu percubaan seseorang jika dalam tempoh dua puluh empat bulan dari tarikh pemberian lesen memandu percubaan rekod orang itu, yang disimpan oleh Ketua Pengarah, sebagai pemandu sesuatu kenderaan motor, atau kelakuan atau kebiasaannya sebagai pemandu, membuktikan bahawa adalah tidak menjadi kepentingan untuk keselamatan awam bagi orang itu memegang suatu lesen memandu yang sah atau bahawa orang itu tidak kompeten untuk memandu sesuatu kenderaan motor. (2) Bagi maksud membuktikan bahawa adalah tidak menjadi kepentingan untuk keselamatan awam bagi seseorang itu memegang suatu lesen memandu atau bahawa orang itu tidak kompeten untuk memandu sesuatu kenderaan motor, Menteri boleh membuat kaedah-kaedah menetapkan suatu sistem pemberian mata terhadap seseorang kerana melakukan suatu kesalahan di bawah Akta ini atau apa-apa kaedah yang dibuat di bawahnya: Dengan syarat bahawa kaedah-kaedah sedemikian boleh membuat peruntukan bagi menghendaki orang itu menjalani apa-apa kursus sebagaimana yang ditetapkan oleh Ketua Pengarah. (3) Kaedah-kaedah yang dibuat di bawah subseksyen (2) hendaklah menyatakan jumlah mata maksimum yang akan diberikan terhadap seseorang sebelum boleh dibuktikan bahawa adalah tidak menjadi kepentingan untuk keselamatan awam bagi orang itu memegang suatu lesen memandu atau bahawa orang itu tidak kompeten untuk memandu sesuatu kenderaan motor. (4) Kuasa yang diberikan kepada Ketua Pengarah oleh seksyen ini untuk membatalkan lesen memandu percubaan seseorang hendaklah dijalankan pada masa selepas jumlah mata maksimum yang disebut dalam subseksyen (3) diberikan terhadap orang itu sebagaimana yang difikirkan patut oleh Ketua Pengarah. (5) Jika seseorang itu yang lesen memandu percubaannya dibatalkan dan dihilangkan kelayakan melalui suatu perintah mahkamah daripada memegang atau mendapatkan lesen memandu bagi apa-apa tempoh masa sebagaimana yang dinyatakan dalam perintah itu, tiap-tiap mata yang diberikan terhadapnya di bawah kaedah-kaedah yang dibuat di bawah subseksyen (2) hendaklah kemudiannya dibatalkan. (6) Bagi maksud-maksud seksyen ini, seseorang hendaklah disifatkan telah melakukan suatu kesalahan di bawah Akta ini jika dia membayar penalti yang ditetapkan bagi kesalahan itu di bawah seksyen 119.\"."
       }
     },
     {
@@ -497,9 +460,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_22__para_e"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@",
-      "schema:text": {
+      "schema:name": {
         "@language": "ms",
-        "@value": "Seksyen 37 Akta ibu adalah dipinda— seksyen 37."
+        "@value": "Seksyen 37 Akta ibu adalah dipinda—"
       }
     },
     {
@@ -525,7 +488,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_22",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (1)— membatalkan\"; pembatalan\"; dan PENGANGKUTAN JALAN (PINDAAN) 11"
+        "@value": "dalam subseksyen (1)—"
       }
     },
     {
@@ -535,7 +498,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_22__para_b",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perkataan \"menggantung\" perkataan"
+        "@value": "dengan memasukkan selepas perkataan \"menggantung\" perkataan \"atau membatalkan\";"
       }
     },
     {
@@ -555,7 +518,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_22__para_b",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perkataan \"penggantungan\" perkataan"
+        "@value": "dengan memasukkan selepas perkataan \"penggantungan\" perkataan \"atau pembatalan\"; dan PENGANGKUTAN JALAN (PINDAAN) 11"
       }
     },
     {
@@ -580,7 +543,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_22",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (2)— membatalkan\"; pembatalan\";"
+        "@value": "dalam subseksyen (2)—"
       }
     },
     {
@@ -590,7 +553,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_22__para_c",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perkataan \"menggantung\" perkataan"
+        "@value": "dengan memasukkan selepas perkataan \"menggantung\" perkataan \"atau membatalkan\";"
       }
     },
     {
@@ -610,7 +573,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_22__para_c",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perkataan \"penggantungan\" perkataan"
+        "@value": "dengan memasukkan selepas perkataan \"penggantungan\" perkataan \"atau pembatalan\";"
       }
     },
     {
@@ -634,7 +597,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_22",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (4)— pembatalan\"; dan"
+        "@value": "dalam subseksyen (4)—"
       }
     },
     {
@@ -644,7 +607,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_22__para_e",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perkataan \"penggantungan\" perkataan"
+        "@value": "dengan memasukkan selepas perkataan \"penggantungan\" perkataan \"atau pembatalan\"; dan"
       }
     },
     {
@@ -684,7 +647,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_23",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (1)— membatalkan\"; dan"
+        "@value": "dalam subseksyen (1)—"
       }
     },
     {
@@ -694,7 +657,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_23__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perkataan \"menggantung\" perkataan"
+        "@value": "dengan memasukkan selepas perkataan \"menggantung\" perkataan \"atau membatalkan\"; dan"
       }
     },
     {
@@ -825,9 +788,13 @@
       "@type": "akn:clause",
       "eli:number": "24",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 41 Akta ibu adalah dipinda dengan"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Seksyen 41 Akta ibu adalah dipinda dengan Pindaan seksyen 41. memasukkan selepas subseksyen (3) subseksyen yang berikut: \"(3A) Walau apa pun subseksyen (1), jika seseorang yang memegang lesen memandu percubaan disabitkan di bawah seksyen ini, mahkamah hendaklah sesudah itu membatalkan lesen memandunya itu.\". Pindaan"
+        "@value": "memasukkan selepas subseksyen (3) subseksyen yang berikut: \"(3A) Walau apa pun subseksyen (1), jika seseorang yang memegang lesen memandu percubaan disabitkan di bawah seksyen ini, mahkamah hendaklah sesudah itu membatalkan lesen memandunya itu.\"."
       }
     },
     {
@@ -835,9 +802,13 @@
       "@type": "akn:clause",
       "eli:number": "25",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 42 Akta ibu adalah dipinda dengan"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Seksyen 42 Akta ibu adalah dipinda dengan seksyen 42. memasukkan selepas subseksyen (3) subseksyen yang berikut: \"(4) Walau apa pun subseksyen (1), jika seseorang yang memegang lesen memandu percubaan disabitkan di bawah seksyen ini, mahkamah hendaklah sesudah itu membatalkan lesen memandunya itu.\"."
+        "@value": "memasukkan selepas subseksyen (3) subseksyen yang berikut: \"(4) Walau apa pun subseksyen (1), jika seseorang yang memegang lesen memandu percubaan disabitkan di bawah seksyen ini, mahkamah hendaklah sesudah itu membatalkan lesen memandunya itu.\"."
       }
     },
     {
@@ -933,18 +904,21 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_2",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas takrif \"pemunya berdaftar\" takrif yang berikut: ' \"pendaftar berlesen\" ertinya seseorang yang dilesenkan di bawah seksyen 126 untuk menjalankan pendaftaran dan pelesenan kenderaan motor di bawah Akta ini;'. Pindaan"
+        "@value": "dengan memasukkan selepas takrif \"pemunya berdaftar\" takrif yang berikut: ' \"pendaftar berlesen\" ertinya seseorang yang dilesenkan di bawah seksyen 126 untuk menjalankan pendaftaran dan pelesenan kenderaan motor di bawah Akta ini;'."
       }
     },
     {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_3",
       "@type": "akn:clause",
       "eli:number": "3",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_3__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan menggantikan seksyen"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu adalah dipinda dengan menggantikan seksyen seksyen 8. 8 dengan seksyen yang berikut: \" Penyim- 8. (1) Seseorang pendaftar berlesen yang panan dipertugaskan kepada sesuatu kawasan rekod. pendaftaran hendaklah menyimpan dan menyenggara suatu daftar bagi segala kenderaan motor yang didaftarkan di bawah Akta ini dalam kawasan pendaftaran yang dipertugaskan kepadanya."
+        "@value": "8 dengan seksyen yang berikut: \" Penyim- 8. (1) Seseorang pendaftar berlesen yang panan dipertugaskan kepada sesuatu kawasan rekod. pendaftaran hendaklah menyimpan dan menyenggara suatu daftar bagi segala kenderaan motor yang didaftarkan di bawah Akta ini dalam kawasan pendaftaran yang dipertugaskan kepadanya. (2) Daftar itu hendaklah dalam apa-apa bentuk dan mengandungi apa-apa maklumat, perincian dan butir-butir sebagaimana yang diarahkan dari semasa ke semasa oleh Ketua Pengarah.\"."
       }
     },
     {
@@ -978,7 +952,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_30",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: \"(4A) Apabila disabitkan kali kedua atau kali kemudian bagi sesuatu kesalahan di bawah seksyen ini, pesalah itu hendaklah, melainkan jika mahkamah kerana sebab-sebab khas memikirkan patut diperintahkan selainnya dan tanpa menjejaskan kuasa mahkamah untuk memerintahkan tempoh kehilangan kelayakan yang lebih panjang, dihilangkan kelayakan bagi tempoh yang tidak kurang daripada dua belas bulan dari tarikh sabitan itu daripada memegang atau mendapatkan suatu lesen memandu. (4B) Walau apa pun subseksyen (4) dan (4A), jika seseorang yang memegang lesen memandu percubaan disabitkan di bawah seksyen ini, mahkamah hendaklah sesudah itu membatalkan lesen memandunya itu.\". Pindaan"
+        "@value": "dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: \"(4A) Apabila disabitkan kali kedua atau kali kemudian bagi sesuatu kesalahan di bawah seksyen ini, pesalah itu hendaklah, melainkan jika mahkamah kerana sebab-sebab khas memikirkan patut diperintahkan selainnya dan tanpa menjejaskan kuasa mahkamah untuk memerintahkan tempoh kehilangan kelayakan yang lebih panjang, dihilangkan kelayakan bagi tempoh yang tidak kurang daripada dua belas bulan dari tarikh sabitan itu daripada memegang atau mendapatkan suatu lesen memandu. (4B) Walau apa pun subseksyen (4) dan (4A), jika seseorang yang memegang lesen memandu percubaan disabitkan di bawah seksyen ini, mahkamah hendaklah sesudah itu membatalkan lesen memandunya itu.\"."
       }
     },
     {
@@ -990,9 +964,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_31__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@",
-      "schema:text": {
+      "schema:name": {
         "@language": "ms",
-        "@value": "Seksyen 45c Akta ibu adalah dipinda— seksyen 45c."
+        "@value": "Seksyen 45c Akta ibu adalah dipinda—"
       }
     },
     {
@@ -1182,7 +1156,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_33",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (3)— Pindaan"
+        "@value": "dalam subseksyen (3)—"
       }
     },
     {
@@ -1210,9 +1184,13 @@
       "@type": "akn:clause",
       "eli:number": "34",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 59(3) dan (6) Akta ibu adalah dipinda"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Subseksyen 59(3) dan (6) Akta ibu adalah dipinda seksyen 59. dengan menggantikan perkataan \"Pengarah bagi\" di mana- mana jua terdapat dengan perkataan \"pendaftar berlesen yang dipertugaskan kepada\". Pindaan"
+        "@value": "dengan menggantikan perkataan \"Pengarah bagi\" di mana- mana jua terdapat dengan perkataan \"pendaftar berlesen yang dipertugaskan kepada\"."
       }
     },
     {
@@ -1224,9 +1202,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_35__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@",
-      "schema:text": {
+      "schema:name": {
         "@language": "ms",
-        "@value": "Subseksyen 66(1) Akta ibu adalah dipinda— seksyen 66."
+        "@value": "Subseksyen 66(1) Akta ibu adalah dipinda—"
       }
     },
     {
@@ -1246,7 +1224,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_35",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam perenggan (y) dengan memotong perkataan \"dan lesen-lesen belajar memandu\". Pindaan"
+        "@value": "dalam perenggan (y) dengan memotong perkataan \"dan lesen-lesen belajar memandu\"."
       }
     },
     {
@@ -1254,9 +1232,13 @@
       "@type": "akn:clause",
       "eli:number": "36",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 102(2) Akta ibu adalah dipinda dengan"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Subseksyen 102(2) Akta ibu adalah dipinda dengan seksyen 102. menggantikan perkataan \"Pengarah\" dengan perkataan \"pendaftar berlesen\". Pindaan"
+        "@value": "menggantikan perkataan \"Pengarah\" dengan perkataan \"pendaftar berlesen\"."
       }
     },
     {
@@ -1264,9 +1246,13 @@
       "@type": "akn:clause",
       "eli:number": "37",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 117(3) Akta ibu adalah dipinda dengan"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Subseksyen 117(3) Akta ibu adalah dipinda dengan seksyen 117. menggantikan perkataan \"atau seorang Timbalan Pengarah\" dan \"atau Timbalan Pengarah\" dengan perkataan \", Timbalan Pengarah atau pendaftar berlesen\"."
+        "@value": "menggantikan perkataan \"atau seorang Timbalan Pengarah\" dan \"atau Timbalan Pengarah\" dengan perkataan \", Timbalan Pengarah atau pendaftar berlesen\"."
       }
     },
     {
@@ -1294,17 +1280,7 @@
       },
       "schema:text": {
         "@language": "ms",
-        "@value": "menggantikan perkataan \"atau Pengarah\" di mana-mana jua terdapat dengan perkataan \", Pengarah atau pendaftar berlesen\". Pindaan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_3__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Daftar itu hendaklah dalam apa-apa bentuk dan mengandungi apa-apa maklumat, perincian dan butir-butir sebagaimana yang diarahkan dari semasa ke semasa oleh Ketua Pengarah.\". Pindaan"
+        "@value": "menggantikan perkataan \"atau Pengarah\" di mana-mana jua terdapat dengan perkataan \", Pengarah atau pendaftar berlesen\"."
       }
     },
     {
@@ -1312,9 +1288,13 @@
       "@type": "akn:clause",
       "eli:number": "4",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dalam seksyen 9 dengan"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu adalah dipinda dalam seksyen 9 dengan seksyen 9. menggantikan perkataan \"Tiap-tiap Pengarah\" dengan perkataan \"Seseorang pendaftar berlesen\"."
+        "@value": "menggantikan perkataan \"Tiap-tiap Pengarah\" dengan perkataan \"Seseorang pendaftar berlesen\"."
       }
     },
     {
@@ -1322,9 +1302,13 @@
       "@type": "akn:clause",
       "eli:number": "40",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 126 Akta ibu adalah dipinda dengan"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Seksyen 126 Akta ibu adalah dipinda dengan seksyen 126 memasukkan selepas subseksyen (7) subseksyen yang berikut: \"(8) Walaupun mana-mana orang telah diberikuasa atau diberi lesen di bawah seksyen ini untuk menjalankan mana-mana fungsi seorang pegawai pengangkutan jalan, Menteri boleh memberikan arahan kepada Ketua Pengarah atau Pengarah supaya menjalankan mana-mana fungsi itu.\"."
+        "@value": "memasukkan selepas subseksyen (7) subseksyen yang berikut: \"(8) Walaupun mana-mana orang telah diberikuasa atau diberi lesen di bawah seksyen ini untuk menjalankan mana-mana fungsi seorang pegawai pengangkutan jalan, Menteri boleh memberikan arahan kepada Ketua Pengarah atau Pengarah supaya menjalankan mana-mana fungsi itu.\"."
       }
     },
     {
@@ -1378,7 +1362,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@/~cl_6__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perkataan \"Pengarah\" dengan perkataan \"seseorang pendaftar berlesen\";"
+        "@value": "dengan menggantikan \"Pengarah\" dengan perkataan \"seseorang pendaftar berlesen\";"
       }
     },
     {
@@ -1426,9 +1410,13 @@
       "@type": "akn:clause",
       "eli:number": "7",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas baru 11A. seksyen 11 seksyen yang berikut: \"Seseorang 11A. (1) Seseorang boleh mencadangkan boleh nombor pendaftarannya sendiri tetapi nombor menca- dangkan pendaftaran yang dicadangkan itu hendaklah nombor tertakluk kepada subseksyen (2) dan apa-apa pendaftaran sendiri. terma dan syarat yang ditetapkan oleh Ketua Pengarah. (2) Bagi maksud-maksud seksyen ini, perkataan \"nombor pendaftaran\" ertinya— (a) apa-apa kombinasi huruf sama ada atau tidak ia membentuk suatu perkataan; atau (b) apa-apa kombinasi huruf dan nombor.\"."
+        "@value": "seksyen 11 seksyen yang berikut: 11A. (1) Seseorang boleh mencadangkan nombor pendaftarannya sendiri tetapi nombor pendaftaran yang dicadangkan itu hendaklah tertakluk kepada subseksyen (2) dan apa-apa terma dan syarat yang ditetapkan oleh Ketua Pengarah. (2) Bagi maksud-maksud seksyen ini, perkataan \"nombor pendaftaran\" ertinya— (a) apa-apa kombinasi huruf sama ada atau tidak ia membentuk suatu perkataan; atau (b) apa-apa kombinasi huruf dan nombor.\"."
       }
     },
     {

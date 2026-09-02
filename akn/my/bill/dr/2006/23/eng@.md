@@ -230,7 +230,7 @@ HAVE AGREED upon the following provisions:
 
 Sphere of application and general provisions
 
-Article 1 — Definitions
+## Article 1 — Definitions
 
 In this Convention, except where the context otherwise requires, the following terms are employed with the meanings set out below:
 
@@ -282,7 +282,9 @@ In this Convention, except where the context otherwise requires, the following t
 
 (q) "leasing agreement" means an agreement by which one person (the lessor) grants a right to possession or control of an object (with or without an option to purchase) to another person (the lessee) in return for a rental or other payment;
 
-(r) "national interest" means an interest held by a creditor in an object and created by an internal transaction covered by a declaration under Article 50(1);
+(r) "national interest" means an interest held by a creditor in an object and created by an internal transaction covered by a declaration under
+
+## Article 50(1);
 
 (s) "non-consensual right or interest" means a right or interest conferred under the law of a Contracting State which has made a declaration under Article 39 to secure the performance of an obligation, including an obligation to a State, State entity or an intergovernmental or private organisation;
 
@@ -310,7 +312,9 @@ In this Convention, except where the context otherwise requires, the following t
 
 ### (Aircraft)
 
-(dd) "registrable non-consensual right or interest" means a non-consensual right or interest registrable pursuant to a declaration deposited under Article 40;
+(dd) "registrable non-consensual right or interest" means a non-consensual right or interest registrable pursuant to a declaration deposited under
+
+## Article 40;
 
 (ee) "Registrar" means, in respect of the Protocol, the person or body designated by that Protocol or appointed under Article 17(2)(b);
 
@@ -332,7 +336,7 @@ In this Convention, except where the context otherwise requires, the following t
 
 (nn) "writing" means a record of information (including information communicated by teletransmission) which is in tangible or other form and is capable of being reproduced in tangible form on a subsequent occasion and which indicates by reasonable means a person's approval of the record.
 
-Article 2 — The international interest
+## Article 2 — The international interest
 
 1. This Convention provides for the constitution and effects of an international interest in certain categories of mobile equipment and associated rights.
 
@@ -360,7 +364,7 @@ An interest falling within subparagraph (a) does not also fall within subparagra
 
 5. An international interest in an object extends to proceeds of that object.
 
-Article 3 — Sphere of application
+## Article 3 — Sphere of application
 
 1. This Convention applies when, at the time of the conclusion of the agreement creating or providing for the international interest, the debtor is situated in a Contracting State.
 
@@ -380,7 +384,7 @@ Article 4 — Where debtor is situated
 
 2. A reference in subparagraph (d) of the preceding paragraph to the debtor's place of business shall, if it has more than one place of business, mean its principal place of business or, if it has no place of business, its habitual residence.
 
-Article 5 — Interpretation and applicable law
+## Article 5 — Interpretation and applicable law
 
 1. In the interpretation of this Convention, regard is to be had to its purposes as set forth in the preamble, to its international character and to the need to promote uniformity and predictability in its application.
 
@@ -394,7 +398,7 @@ Article 5 — Interpretation and applicable law
 
 4. Where a State comprises several territorial units, each of which has its own rules of law in respect of the matter to be decided, and where there is no indication of the relevant territorial unit, the law of that State decides which is the territorial unit whose rules shall govern. In the absence of any such rule, the law of the territorial unit with which the case is most closely connected shall apply.
 
-Article 6 — Relationship between the Convention and the Protocol
+## Article 6 — Relationship between the Convention and the Protocol
 
 1. This Convention and the Protocol shall be read and interpreted together as a single instrument.
 
@@ -404,7 +408,7 @@ Article 6 — Relationship between the Convention and the Protocol
 
 Constitution of an international interest
 
-Article 7 — Formal requirements
+## Article 7 — Formal requirements
 
 An interest is constituted as an international interest under this Convention where the agreement creating or providing for the interest:
 
@@ -420,7 +424,7 @@ An interest is constituted as an international interest under this Convention wh
 
 Default remedies
 
-Article 8 — Remedies of chargees
+## Article 8 — Remedies of chargees
 
 1. In the event of default as provided in Article 11, the chargee may, to the extent that the chargor has at any time so agreed and subject to any declaration that may be made by a Contracting State under Article 54, exercise any one or more of the following remedies:
 
@@ -446,7 +450,7 @@ Article 8 — Remedies of chargees
 
 6. Where the sums collected or received by the chargee as a result of the exercise of any remedy set out in paragraph 1 or 2 exceed the amount secured by the security interest and any reasonable costs incurred in the exercise of any such remedy, then unless otherwise ordered by the court the chargee shall distribute the surplus among holders of subsequently ranking interests which have been registered or of which the chargee has been given notice, in order of priority, and pay any remaining balance to the chargor.
 
-Article 9 — Vesting of object in satisfaction; redemption
+## Article 9 — Vesting of object in satisfaction; redemption
 
 1. At any time after default as provided in Article 11, the chargee and all the interested persons may agree that ownership of (or any other interest of the chargor in) any object covered by the security interest shall vest in the chargee in or towards satisfaction of the secured obligations.
 
@@ -462,9 +466,13 @@ Article 9 — Vesting of object in satisfaction; redemption
 
 8(1)(b) or ordered under Article 8(2). Where, after such default, the payment of the amount secured is made in full by an interested person other than the debtor, that person is subrogated to the rights of the chargee.
 
-5. Ownership or any other interest of the chargor passing on a sale under Article 8(1)(b) or passing under paragraph 1 or 2 of this Article is free from any other interest over which the chargee's security interest has priority under the provisions of Article 29.
+5. Ownership or any other interest of the chargor passing on a sale under
 
-Article 10 — Remedies of conditional seller or lessor
+## Article 8(1)(b) or passing under paragraph 1 or 2 of this Article is free from
+
+any other interest over which the chargee's security interest has priority under the provisions of Article 29.
+
+## Article 10 — Remedies of conditional seller or lessor
 
 In the event of default under a title reservation agreement or under a leasing agreement as provided in Article 11, the conditional seller or the lessor, as the case may be, may:
 
@@ -472,13 +480,13 @@ In the event of default under a title reservation agreement or under a leasing a
 
 (b) apply for a court order authorising or directing either of these acts.
 
-Article 11 — Meaning of default
+## Article 11 — Meaning of default
 
 1. The debtor and the creditor may at any time agree in writing as to the events that constitute a default or otherwise give rise to the rights and remedies specified in Articles 8 to 10 and 13.
 
 2. Where the debtor and the creditor have not so agreed, "default" for the purposes of Articles 8 to 10 and 13 means a default which substantially deprives the creditor of what it is entitled to expect under the agreement.
 
-Article 12 — Additional remedies
+## Article 12 — Additional remedies
 
 Any additional remedies permitted by the applicable law, including any remedies agreed upon by the parties, may be exercised to the extent that they are not inconsistent with the mandatory provisions of this Chapter as set out in Article 15.
 
@@ -504,13 +512,15 @@ Article 13 — Relief pending final determination
 
 3. Before making any order under paragraph 1, the court may require notice of the request to be given to any of the interested persons.
 
-4. Nothing in this Article affects the application of Article 8(3) or limits the availability of forms of interim relief other than those set out in paragraph 1.
+4. Nothing in this Article affects the application of Article 8(3) or limits the availability of forms of interim relief other than those set out in paragraph
 
-Article 14 — Procedural requirements
+1.
+
+## Article 14 — Procedural requirements
 
 Subject to Article 54(2), any remedy provided by this Chapter shall be exercised in conformity with the procedure prescribed by the law of the place where the remedy is to be exercised.
 
-Article 15 — Derogation
+## Article 15 — Derogation
 
 In their relations with each other, any two or more of the parties referred to in this Chapter may at any time, by agreement in writing, derogate from or vary the effect of any of the preceding provisions of this Chapter except Articles 8(3) to (6), 9(3) and (4), 13(2) and 14.
 
@@ -518,7 +528,7 @@ In their relations with each other, any two or more of the parties referred to i
 
 The international registration system
 
-Article 16 — The International Registry
+## Article 16 — The International Registry
 
 1. An International Registry shall be established for registrations of:
 
@@ -540,7 +550,7 @@ Article 16 — The International Registry
 
 3. For the purposes of this Chapter and Chapter V, the term "registration" includes, where appropriate, an amendment, extension or discharge of a registration.
 
-Article 17 — The Supervisory Authority and the Registrar
+## Article 17 — The Supervisory Authority and the Registrar
 
 1. There shall be a Supervisory Authority as provided by the Protocol.
 
@@ -630,11 +640,11 @@ Article 17 — The Supervisory Authority and the Registrar
 
 ### is transmitted to the International Registry.
 
-### Article 19 — Validity and time of registration
+## Article 19 — Validity and time of registration
 
 1. A registration shall be valid only if made in conformity with Article
 
-### 20.
+20.
 
 2. A registration, if valid, shall be complete upon entry of the required
 
@@ -662,7 +672,7 @@ Article 17 — The Supervisory Authority and the Registrar
 
 6. A registration shall be searchable in the International Registry data base according to the criteria prescribed by the Protocol.
 
-Article 20 — Consent to registration
+## Article 20 — Consent to registration
 
 1. An international interest, a prospective international interest or an assignment or prospective assignment of an international interest may be registered, and any such registration amended or extended prior to its expiry, by either party with the consent in writing of the other.
 
@@ -676,11 +686,11 @@ Article 20 — Consent to registration
 
 6. A notice of a national interest may be registered by the holder thereof.
 
-Article 21 — Duration of registration
+## Article 21 — Duration of registration
 
 Registration of an international interest remains effective until discharged or until expiry of the period specified in the registration.
 
-Article 22 — Searches
+## Article 22 — Searches
 
 1. Any person may, in the manner prescribed by the Protocol and regulations, make or request a search of the International Registry by electronic means concerning interests or prospective international interests registered therein.
 
@@ -694,11 +704,13 @@ Article 22 — Searches
 
 3. A search certificate issued under the preceding paragraph shall indicate that the creditor named in the registration information has acquired or intends to acquire an international interest in the object but shall not indicate whether what is registered is an international interest or a prospective international interest, even if this is ascertainable from the relevant registration information.
 
-Article 23 — List of declarations and declared non-consensual rights or interests
+## Article 23 — List of declarations and declared non-consensual
+
+rights or interests
 
 The Registrar shall maintain a list of declarations, withdrawals of declaration and of the categories of non-consensual right or interest communicated to the Registrar by the Depositary as having been declared by Contracting States in conformity with Articles 39 and 40 and the date of each such declaration or withdrawal of declaration. Such list shall be recorded and searchable in the name of the declaring State and shall be made available as provided in the Protocol and regulations to any person requesting it.
 
-Article 24 — Evidentiary value of certificates
+## Article 24 — Evidentiary value of certificates
 
 A document in the form prescribed by the regulations which purports to be a certificate issued by the International Registry is prima facie proof:
 
@@ -706,7 +718,7 @@ A document in the form prescribed by the regulations which purports to be a cert
 
 (b) of the facts recited in i t , including the date and time of a registration.
 
-Article 25 — Discharge of registration
+## Article 25 — Discharge of registration
 
 1. Where the obligations secured by a registered security interest or the obligations giving rise to a registered non-consensual right or interest have been discharged, or where the conditions of transfer of title under a registered title reservation agreement have been fulfilled, the holder of such interest shall, without undue delay, procure the discharge of the registration after written demand by the debtor delivered to or received at its address stated in the registration.
 
@@ -720,7 +732,7 @@ Article 25 — Discharge of registration
 
 4. Where a registration ought not to have been made or is incorrect, the person in whose favour the registration was made shall, without undue delay, procure its discharge or amendment after written demand by the debtor delivered to or received at its address stated in the registration.
 
-Article 26 — Access to the international registration facilities
+## Article 26 — Access to the international registration facilities
 
 No person shall be denied access to the registration and search facilities of the International Registry on any ground other than its failure to comply with the procedures prescribed by this Chapter.
 
@@ -728,7 +740,7 @@ No person shall be denied access to the registration and search facilities of th
 
 Privileges and immunities of the Supervisory Authority and the Registrar
 
-Article 27 — Legal personality; immunity
+## Article 27 — Legal personality; immunity
 
 1. The Supervisory Authority shall have international legal personality where not already possessing such personality.
 
@@ -750,7 +762,7 @@ Article 27 — Legal personality; immunity
 
 Liability of the Registrar
 
-Article 23 — Liability and financial assurances
+## Article 23 — Liability and financial assurances
 
 1. The Registrar shall be liable for compensatory damages for loss suffered by a person directly resulting from an error or omission of the Registrar and its officers and employees or from a malfunction of the international registration
 
@@ -768,7 +780,7 @@ system except where the malfunction is caused by an event of an inevitable and i
 
 Effects of an international interest as against third parties
 
-Article 29 — Priority of competing interests
+## Article 29 — Priority of competing interests
 
 1. A registered interest has priority over any other interest subsequently registered and over an unregistered interest.
 
@@ -804,7 +816,7 @@ Article 29 — Priority of competing interests
 
 (b) does not prevent the creation of rights in an item, other than an object, which has previously been installed on an object where under the applicable law those rights are created.
 
-Article 30 — Effects of insolvency
+## Article 30 — Effects of insolvency
 
 1. In insolvency proceedings against the debtor an international interest is effective if prior to the commencement of the insolvency proceedings that interest was registered in conformity with this Convention.
 
@@ -820,7 +832,7 @@ Article 30 — Effects of insolvency
 
 Assignments of associated rights and international interests; rights of subrogation
 
-Article 31 — Effects of assignment
+## Article 31 — Effects of assignment
 
 1. Except as otherwise agreed by the parties, an assignment of associated rights made in conformity with Article 32 also transfers to the assignee:
 
@@ -838,7 +850,7 @@ Article 31 — Effects of assignment
 
 5. In the case of an assignment by way of security, the assigned associated rights revest in the assignor, to the extent that they are still subsisting, when the obligations secured by the assignment have been discharged.
 
-Article 32 — Formal requirements of assignment
+## Article 32 — Formal requirements of assignment
 
 1. An assignment of associated rights transfers the related international interest only if it:
 
@@ -852,7 +864,7 @@ Article 32 — Formal requirements of assignment
 
 3. This Convention does not apply to an assignment of associated rights which is not effective to transfer the related international interest.
 
-Article 33 — Debtor's duty to assignee
+## Article 33 — Debtor's duty to assignee
 
 1. To the extent that associated rights and the related international interest have been transferred in accordance with Articles 31 and 32, the debtor in relation to those rights and that interest is bound by the assignment and has a duty to make payment or give other performance to the assignee, if but only if:
 
@@ -868,7 +880,7 @@ Article 33 — Debtor's duty to assignee
 
 3. Nothing in this Article shall affect the priority of competing assignments.
 
-Article 34 — Default remedies in respect of assignment by way of security
+## Article 34 — Default remedies in respect of assignment by way of security
 
 In the event of default by the assignor under the assignment of associated rights and the related international interest made by way of security, Articles 8, 9 and 11 to 14 apply in the relations between the assignor and the assignee (and, in relation to associated rights, apply in so far as those provisions are capable of application to intangible property) as if references:
 
@@ -880,7 +892,7 @@ In the event of default by the assignor under the assignment of associated right
 
 (d) to the object were references to the assigned associated rights and the related international interest.
 
-Article 35 — Priority of competing assignments
+## Article 35 — Priority of competing assignments
 
 1. Where there are competing assignments of associated rights and at least one of the assignments includes the related international interest and is registered, the provisions of Article 29 apply as if the references to a registered interest were references to an assignment of the associated rights and the related registered interest and as if references to a registered or unregistered interest were references to a registered or unregistered assignment.
 
@@ -910,11 +922,11 @@ Article 36 — Assignee's priority with respect to associated rights
 
 3. In all other cases, the priority of the competing assignments of the associated rights shall be determined by the applicable law.
 
-Article 37 — Effects of assignor's insolvency
+## Article 37 — Effects of assignor's insolvency
 
 The provisions of Article 30 apply to insolvency proceedings against the assignor as if references to the debtor were references to the assignor.
 
-Article 38 — Subrogation
+## Article 38 — Subrogation
 
 1. Subject to paragraph 2, nothing in this Convention affects the acquisition of associated rights and the related international interest by legal or contractual subrogation under the applicable law.
 
@@ -950,7 +962,7 @@ A Contracting State may at any time in a declaration deposited with the Deposita
 
 Application of the Convention to sales
 
-Article 41 — Sale and prospective sale
+## Article 41 — Sale and prospective sale
 
 This Convention shall apply to the sale or prospective sale of an object as provided for in the Protocol with any modifications therein.
 
@@ -966,7 +978,7 @@ Choice of forum
 
 2. Any such agreement shall be in writing or otherwise concluded in accordance with the formal requirements of the law of the chosen forum.
 
-Article 43 — Jurisdiction under Article 13
+## Article 43 — Jurisdiction under Article 13
 
 1. The courts of a Contracting State chosen by the parties and the courts of the Contracting State on the territory of which the object is situated have jurisdiction to grant relief under Article 13(1)(a), (b), (c) and Article 13(4) in respect of that object.
 
@@ -978,7 +990,7 @@ Article 43 — Jurisdiction under Article 13
 
 3. A court has jurisdiction under the preceding paragraphs even if the final determination of the claim referred to in Article 13(1) will or may take place in a court of another Contracting State or by arbitration.
 
-Article 44 — Jurisdiction to make orders against the Registrar
+## Article 44 — Jurisdiction to make orders against the Registrar
 
 1. The courts of the place in which the Registrar has its centre of administration shall have exclusive jurisdiction to award damages or make orders against the Registrar.
 
@@ -988,7 +1000,7 @@ Article 44 — Jurisdiction to make orders against the Registrar
 
 4. Except as otherwise provided by the preceding paragraphs, no court may make orders or give judgments or rulings against or purporting to bind the Registrar.
 
-Article 45 — Jurisdiction in respect of insolvency proceedings
+## Article 45 — Jurisdiction in respect of insolvency proceedings
 
 The provisions of this Chapter are not applicable to insolvency proceedings.
 
@@ -1004,7 +1016,9 @@ Article 45 bis — Relationship with the United Nations Convention on the Assign
 
 This Convention shall prevail over the United Nations Convention on the Assignment of Receivables in International Trade, opened for signature in New York on 12 December 2001, as it relates to the assignment of receivables which are associated rights related to international interests in aircraft objects, railway rolling stock and space assets.
 
-Article 46 — Relationship with the UN1DROIT Convention on International Financial Leasing
+## Article 46 — Relationship with the UN1DROIT Convention
+
+on International Financial Leasing
 
 The Protocol may determine the relationship between this Convention and the UNIDROIT Convention on International Financial Leasing, signed at Ottawa on 28 May 1988.
 
@@ -1022,7 +1036,7 @@ Article 47 — Signature, ratification, acceptance, approval or accession
 
 4. Ratification, acceptance, approval or accession is effected by the deposit of a formal instrument to that effect with the Depositary.
 
-Article 48 — Regional Economic Integration Organisations
+## Article 48 — Regional Economic Integration Organisations
 
 1. A Regional Economic Integration Organisation which is constituted by sovereign States and has competence over certain matters governed by this Convention may similarly sign, accept, approve or accede to this Convention. The Regional Economic Integration Organisation shall in that case have the rights and obligations of a Contracting State, to the extent that that Organisation
 
@@ -1034,7 +1048,7 @@ has competence over matters governed by this Convention. Where the number of Con
 
 3. Any reference to a "Contracting State" or "Contracting States" or "State Party" or "'States Parties" in this Convention applies equally to a Regional Economic Integration Organisation where the context so requires.
 
-Article 49 — Entry into force
+## Article 49 — Entry into force
 
 1. This Convention enters into force on the first day of the month following the expiration of three months after the date of the deposit of the third instrument of ratification, acceptance, approval or accession but only as regards a category of objects to which a Protocol applies:
 
@@ -1048,7 +1062,7 @@ Article 49 — Entry into force
 
 (c) of the preceding paragraph.
 
-Article 50 — Internal transactions
+## Article 50 — Internal transactions
 
 1. A Contracting State may, at the time of ratification, acceptance, approval of, or accession to the Protocol, declare that this Convention shall not apply to a transaction which is an internal transaction in relation to that State with regard to all types of objects or some of them.
 
@@ -1060,7 +1074,7 @@ Article 50 — Internal transactions
 
 ### (Aircraft)
 
-Article 51 — Future Protocols
+## Article 51 — Future Protocols
 
 1. The Depositary may create working groups, in co-operation with such relevant non-governmental organisations as the Depositary considers appropriate, to assess the feasibility of extending the application of this Convention, through one or more Protocols, to objects of any category of high-value mobile equipment, other than a category referred to in Article 2(3), each member of which is uniquely identifiable, and associated rights relating to such objects.
 
@@ -1074,7 +1088,7 @@ Article 51 — Future Protocols
 
 6. Article 45 bis of this Convention applies to such a Protocol only if specifically provided for in that Protocol.
 
-Article 52 — Territorial units
+## Article 52 — Territorial units
 
 1. If a Contracting State has territorial units in which different systems of law are applicable in relation to the matters dealt with in this Convention, it may, at the time of ratification, acceptance, approval or accession, declare that this Convention is to extend to all its territorial units or only to one or more of them and may modify its declaration by submitting another declaration at any time.
 
@@ -1094,11 +1108,11 @@ Article 52 — Territorial units
 
 (c) any reference to the administrative authorities in that Contracting State shall be construed as referring to the administrative authorities having jurisdiction in a territorial unit to which this Convention applies.
 
-Article 53 — Determination of courts
+## Article 53 — Determination of courts
 
 A Contracting State may, at the time of ratification, acceptance, approval of, or accession to the Protocol, declare the relevant "court" or "courts" for the purposes of Article 1 and Chapter XII of this Convention.
 
-Article 54 — Declarations regarding remedies
+## Article 54 — Declarations regarding remedies
 
 1. A Contracting State may, at the time of ratification, acceptance, approval of, or accession to the Protocol, declare that while the charged object is situated within, or controlled from its territory the chargee shall not grant a lease of the object in that territory.
 
@@ -1112,13 +1126,13 @@ A Contracting State may, at the time of ratification, acceptance, approval of, o
 
 ### (Aircraft)
 
-Article 56 — Reservations and declarations
+## Article 56 — Reservations and declarations
 
 1. No reservations may be made to this Convention but declarations authorised by Articles 39, 40, 50, 52, 53, 54, 55, 57, 58 and 60 may be made in accordance with these provisions.
 
 2. Any declaration or subsequent declaration or any withdrawal of a declaration made under this Convention shall be notified in writing to the Depositary.
 
-Article 57 — Subsequent declarations
+## Article 57 — Subsequent declarations
 
 1. A State Party may make a subsequent declaration, other than a declaration authorised under Article 60, at any time after the date on which this Convention has entered into force for it, by notifying the Depositary to that effect.
 
@@ -1126,13 +1140,13 @@ Article 57 — Subsequent declarations
 
 3. Notwithstanding the previous paragraphs, this Convention shall continue to apply, as if no such subsequent declarations had been made, in respect of all rights and interests arising prior to the effective date of any such subsequent declaration.
 
-Article 58 — Withdrawal of declarations
+## Article 58 — Withdrawal of declarations
 
 1. Any State Party having made a declaration under this Convention, other than a declaration authorised under Article 60, may withdraw it at any time by notifying the Depositary. Such withdrawal is to take effect on the first day of the month following the expiration of six months after the date of receipt of the notification by the Depositary.
 
 2. Notwithstanding the previous paragraph, this Convention shall continue to apply, as if no such withdrawal of declaration had been made, in respect of all rights and interests arising prior to the effective date of any such withdrawal.
 
-Article 59 — Denunciations
+## Article 59 — Denunciations
 
 1. Any State Party may denounce this Convention by notification in writing to the Depositary.
 
@@ -1142,7 +1156,7 @@ Article 59 — Denunciations
 
 <!-- page 31 -->
 
-Article 60 — Transitional provisions
+## Article 60 — Transitional provisions
 
 1. Unless otherwise declared by a Contracting State at any time, the Convention does not apply to a pre-existing right or interest, which retains the priority it enjoyed under the applicable law before the effective date of this Convention.
 
@@ -1154,7 +1168,7 @@ Article 60 — Transitional provisions
 
 3. A Contracting State may in its declaration under paragraph 1 specify a date, not earlier than three years after the date on which the declaration becomes effective, when this Convention and the Protocol will become applicable, for the purpose of determining priority, including the protection of any existing priority, to pre-existing rights or interests arising under an agreement made at a time when the debtor was situated in a State referred to in subparagraph (b) of the preceding paragraph but only to the extent and in the manner specified in its declaration.
 
-Article 61 — Review Conferences, amendments and related matters
+## Article 61 — Review Conferences, amendments and related matters
 
 1. The Depositary shall prepare reports yearly or at such other time as the circumstances may require for the States Parties as to the manner in which the international regimen established in this Convention has operated in practice. In preparing such reports, the Depositary shall take into account the reports of the Supervisory Authority concerning the functioning of the international registration system.
 
@@ -1176,7 +1190,7 @@ Article 61 — Review Conferences, amendments and related matters
 
 4. Where the proposed amendment to this Convention is intended to apply to more than one category of equipment, such amendment shall also be approved by at least a two-thirds majority of States Parties to each Protocol that are participating in the Conference referred to in paragraph 2.
 
-Article 62 — Depositary and its functions
+## Article 62 — Depositary and its functions
 
 1. Instruments of ratification, acceptance, approval or accession shall be deposited with the International Institute for the Unification of Private Law (UNIDROIT), which is hereby designated the Depositary.
 
@@ -1230,7 +1244,7 @@ HAVE AGREED upon the following provisions relating to aircraft equipment:
 
 Sphere of application and general provisions
 
-Article I — Defined terms
+## Article I — Defined terms
 
 1. In this Protocol, except where the context otherwise requires, terms used in it have the meanings set out in the Convention.
 
@@ -1302,15 +1316,15 @@ Article II — Application of Convention as regards aircraft objects
 
 2. The Convention and this Protocol shall be known as the Convention on International Interests in Mobile Equipment as applied to aircraft objects.
 
-Article III — Application of Convention to sales
+## Article III — Application of Convention to sales
 
 The following provisions of the Convention apply as if references to an agreement creating or providing for an international interest were references to a contract of sale and as if references to an international interest, a prospective international interest, the debtor and the creditor were references to a sale, a prospective sale, the seller and the buyer respectively:
 
 Articles 3 and 4;
 
-### Article 16(1)(a);
+## Article 16(1)(a);
 
-Article 19(4);
+## Article 19(4);
 
 Article 20(1) (as regards registration of a contract of sale or a prospective sale);
 
@@ -1320,15 +1334,11 @@ Article 20(1) (as regards registration of a contract of sale or a prospective sa
 
 Article 25(2) (as regards a prospective sale); and
 
-Article 30.
+## Article 30.
 
-In addition, the general provisions of Article 1, Article 5, Chapters IV to VII, Article 29 (other than Article 29(3) which is replaced by Article XIV(l) and (2)), Chapter X, Chapter XII (other than Article 43), Chapter XIII and
+In addition, the general provisions of Article 1, Article 5, Chapters IV to VII, Article 29 (other than Article 29(3) which is replaced by Article XIV(l) and (2)), Chapter X, Chapter XII (other than Article 43), Chapter XIII and Chapter XIV (other than Article 60) shall apply to contracts of sale and prospective sales.
 
-## Chapter XIV (other than Article 60) shall apply to contracts of sale and
-
-prospective sales.
-
-Article IV — Sphere of application
+## Article IV — Sphere of application
 
 1. Without prejudice to Article 3(1) of the Convention, the Convention shall also apply in relation to a helicopter, or to an airframe pertaining to an aircraft, registered in an aircraft register of a Contracting State which is the State of registry, and where such registration is made pursuant to an agreement for registration of the aircraft it is deemed to have been effected at the time of the agreement.
 
@@ -1346,7 +1356,7 @@ at the time of the conclusion of the agreement creating or providing for the int
 
 effect of any of the provisions of this Protocol except Article IX (2)-(4).
 
-Article V — Formalities, effects and registration of contracts of sale
+## Article V — Formalities, effects and registration of contracts of sale
 
 1. For the purposes of this Protocol, a contract of sale is one which:
 
@@ -1362,15 +1372,15 @@ Article V — Formalities, effects and registration of contracts of sale
 
 3. Registration of a contract of sale remains effective indefinitely. Registration of a prospective sale remains effective unless discharged or until expiry of the period, if any, specified in the registration.
 
-Article VI — Representative capacities
+## Article VI — Representative capacities
 
 A person may enter into an agreement or a sale, and register an international interest in, or a sale of, an aircraft object, in an agency, trust or other representative capacity. In such case, that person is entitled to assert rights and interests under the Convention.
 
-Article VII — Description of aircraft objects
+## Article VII — Description of aircraft objects
 
 A description of an aircraft object that contains its manufacturer's serial number, the name of the manufacturer and its model designation is necessary and sufficient to identify the object for the purposes of Article 7(c) of the Convention and Article V(1)(c) of this Protocol.
 
-Article VIII — Choice of law
+## Article VIII — Choice of law
 
 1. This Article applies only where a Contracting State has made a declaration pursuant to Article XXX(l).
 
@@ -1470,7 +1480,7 @@ Article X — Modification of provisions regarding relief pending final determin
 
 ### and regulations.
 
-### Article XI — Remedies on insolvency
+## Article XI — Remedies on insolvency
 
 1. This Article applies only where a Contracting State that is the primary
 
@@ -1546,7 +1556,7 @@ Alternative B
 
 6. The aircraft object shall not be sold pending a decision by a court regarding the claim and the international interest.
 
-Article XII — Insolvency assistance
+## Article XII — Insolvency assistance
 
 1. This Article applies only where a Contracting State has made a declaration pursuant to Article XXX(l).
 
@@ -1566,7 +1576,7 @@ Article XIII — De-registration and export request authorisation
 
 4. The registry authority and other administrative authorities in Contracting States shall expeditiously co-operate with and assist the authorised party in the exercise of the remedies specified in Article IX.
 
-Article XIV - Modification of priority provisions
+## Article XIV - Modification of priority provisions
 
 1. A buyer of an aircraft object under a registered sale acquires its interest in that object free from an interest subsequently registered and from an unregistered interest, even if the buyer has actual knowledge of the unregistered interest.
 
@@ -1576,13 +1586,13 @@ Article XIV - Modification of priority provisions
 
 4. Article 29(7) of the Convention applies to an item, other than an object, installed on an airframe, aircraft engine or helicopter.
 
-Article XV — Modification of assignment provisions
+## Article XV — Modification of assignment provisions
 
 Article 33(1) of the Convention applies as if the following were added immediately after subparagraph (b):
 
 "and (c) the debtor has consented in writing, whether or not the consent is given in advance of the assignment or identifies the assignee."
 
-Article XVI — Debtor provisions
+## Article XVI — Debtor provisions
 
 1. In the absence of a default within the meaning of Article 11 of the Convention, the debtor shall be entitled to the quiet possession and use of the object in accordance with the agreement as against:
 
@@ -1602,7 +1612,7 @@ Article XVI — Debtor provisions
 
 ### Registry provisions relating to international interests in aircraft objects
 
-### Article XVII — The Supervisory Authority and the Registrar
+## Article XVII — The Supervisory Authority and the Registrar
 
 1. The Supervisory Authority shall be the international entity designated
 
@@ -1640,13 +1650,13 @@ Article XVI — Debtor provisions
 
 ### the Supervisory Authority.
 
-### Article XVIII — First regulations
+## Article XVIII — First regulations
 
 ### The first regulations shall be made by the Supervisory Authority so as to take
 
 ### effect upon the entry into force of this Protocol.
 
-### Article XIX — Designated entry points
+## Article XIX — Designated entry points
 
 1. Subject to paragraph 2, a Contracting State may at any time designate an
 
@@ -1670,7 +1680,7 @@ Article XVI — Debtor provisions
 
 ### (Aircraft)
 
-Article XX — Additional modifications to Registry provisions
+## Article XX — Additional modifications to Registry provisions
 
 1. For the purposes of Article 19(6) of the Convention, the search criteria for an aircraft object shall be the name of its manufacturer, its manufacturer's serial number and its model designation, supplemented as necessary to ensure uniqueness. Such supplementary information shall be specified in the regulations.
 
@@ -1688,13 +1698,13 @@ Article XX — Additional modifications to Registry provisions
 
 Jurisdiction
 
-Article XXI — Modification of jurisdiction provisions
+## Article XXI — Modification of jurisdiction provisions
 
 For the purposes of Article 43 of the Convention and subject to Article 42 of the Convention, a court of a Contracting State also has jurisdiction where the object is a helicopter, or an airframe pertaining to an aircraft, for which that State is the State of registry.
 
 <!-- page 45 -->
 
-Article XXII — Waivers of sovereign immunity
+## Article XXII — Waivers of sovereign immunity
 
 1. Subject to paragraph 2, a waiver of sovereign immunity from jurisdiction of the courts specified in Article 42 or Article 43 of the Convention or relating to enforcement of rights and interests relating to an aircraft object under the Convention shall be binding and, if the other conditions to such jurisdiction or enforcement have been satisfied, shall be effective to confer jurisdiction and permit enforcement, as the case may be.
 
@@ -1704,17 +1714,23 @@ Article XXII — Waivers of sovereign immunity
 
 Relationship with other conventions
 
-Article XXIII — Relationship with the Convention on the International Recognition of Rights in Aircraft
+## Article XXIII — Relationship with the Convention on the International
+
+Recognition of Rights in Aircraft
 
 The Convention shall, for a Contracting State that is a party to the Convention on the International Recognition of Rights in Aircraft, signed at Geneva on 19 June 1948, supersede that Convention as it relates to aircraft, as defined in this Protocol, and to aircraft objects. However, with respect to rights or interests not covered or affected by the present Convention, the Geneva Convention shall not be superseded.
 
-Article XXIV — Relationship with the Convention for the Unification of Certain Rules Relating to the Precautionary Attachment of Aircraft
+## Article XXIV — Relationship with the Convention for the
+
+Unification of Certain Rules Relating to the Precautionary Attachment of Aircraft
 
 1. The Convention shall, for a Contracting State that is a Party to the Convention for the Unification of Certain Rules Relating to the Precautionary Attachment of Aircraft, signed at Rome on 29 May 1933, supersede that Convention as it relates to aircraft, as defined in this Protocol.
 
 2. A Contracting State Party to the above Convention may declare, at the time of ratification, acceptance, approval of, or accession to this Protocol, that it will not apply this Article.
 
-Article XXV — Relationship with the UNIDROIT Convention on International Financial Leasing
+## Article XXV — Relationship with the UNIDROIT Convention on
+
+International Financial Leasing
 
 The Convention shall supersede the UNIDROIT Convention on International Financial Leasing, signed at Ottawa on 28 May 1988, as it relates to aircraft objects.
 
@@ -1738,7 +1754,7 @@ Article XXVI — Signature, ratification, acceptance, approval or accession
 
 5. A State may not become a Party to this Protocol unless it is or becomes also a Party to the Convention.
 
-Article XXVII — Regional Economic Integration Organisations
+## Article XXVII — Regional Economic Integration Organisations
 
 1. A Regional Economic Integration Organisation which is constituted by sovereign States and has competence over certain matters governed by this Protocol may similarly sign, accept, approve or accede to this Protocol. The Regional Economic Integration Organisation shall in that case have the rights and obligations of a Contracting State, to the extent that that Organisation has competence over matters governed by this Protocol. Where the number of Contracting States is relevant in this Protocol, the Regional Economic Integration Organisation shall not count as a Contracting State in addition to its Member States which are Contracting States.
 
@@ -1748,13 +1764,13 @@ Article XXVII — Regional Economic Integration Organisations
 
 <!-- page 47 -->
 
-Article XXVIII — Entry into force
+## Article XXVIII — Entry into force
 
 1. This Protocol enters into force on the first day of the month following the expiration of three months after the date of the deposit of the eighth instrument of ratification, acceptance, approval or accession, between the States which have deposited such instruments.
 
 2. For other States this Protocol enters into force on the first day of the month following the expiration of three months after the date of the deposit of its instrument of ratification, acceptance, approval or accession.
 
-Article XXIX — Territorial units
+## Article XXIX — Territorial units
 
 1. If a Contracting State has territorial units in which different systems of law are applicable in relation to the matters dealt with in this Protocol, it may, at the time of ratification, acceptance, approval or accession, declare that this Protocol is to extend to all its territorial units or only to one or more of them and may modify its declaration by submitting another declaration at any time.
 
@@ -1776,7 +1792,7 @@ Article XXIX — Territorial units
 
 ### (Aircraft)
 
-Article XXX — Declarations relating to certain provisions
+## Article XXX — Declarations relating to certain provisions
 
 1. A Contracting State may, at the time of ratification, acceptance, approval of, or accession to this Protocol, declare that it will apply any one or more of Articles VIII, XII and XIII of this Protocol.
 
@@ -1788,17 +1804,17 @@ Article XXX — Declarations relating to certain provisions
 
 5. A Contracting State may, at the time of ratification, acceptance, approval of, or accession to this Protocol, declare that it will not apply the provisions of Article XXI, wholly or in part. The declaration shall specify under which conditions the relevant Article will be applied, in case it will be applied partly, or otherwise which other forms of interim relief will be applied.
 
-Article XXXI — Declarations under the Convention
+## Article XXXI — Declarations under the Convention
 
 Declarations made under the Convention, including those made under Articles 39, 40, 50, 53, 54, 55, 57, 58 and 60 of the Convention, shall be deemed to have also been made under this Protocol unless stated otherwise.
 
-Article XXXII — Reservations and declarations
+## Article XXXII — Reservations and declarations
 
 1. No reservations may be made to this Protocol but declarations authorised by Articles XXIV, XXIX, XXX, XXXI, XXXIII and XXXIV may be made in accordance with these provisions.
 
 2. Any declaration or subsequent declaration or any withdrawal of a declaration made under this Protocol shall be notified in writing to the Depositary.
 
-Article XXXIII — Subsequent declarations
+## Article XXXIII — Subsequent declarations
 
 1. A State Party may make a subsequent declaration, other than a declaration made in accordance with Article XXXI under Article 60 of the Convention, at any time after the date on which this Protocol has entered into force for it, by notifying the Depositary to that effect.
 
@@ -1808,13 +1824,13 @@ Article XXXIII — Subsequent declarations
 
 3. Notwithstanding the previous paragraphs, this Protocol shall continue to apply, as if no such subsequent declarations had been made, in respect of all rights and interests arising prior to the effective date of any such subsequent declaration.
 
-Article XXXIV — Withdrawal of declarations
+## Article XXXIV — Withdrawal of declarations
 
 1. Any State Party having made a declaration under this Protocol, other than a declaration made in accordance with Article XXXI under Article 60 of the Convention, may withdraw it at any time by notifying the Depositary. Such withdrawal is to take effect on the first day of the month following the expiration of six months after the date of receipt of the notification by the Depositary.
 
 2. Notwithstanding the previous paragraph, this Protocol shall continue to apply, as if no such withdrawal of declaration had been made, in respect of all rights and interests arising prior to the effective date of any such withdrawal.
 
-Article XXXV — Denunciations
+## Article XXXV — Denunciations
 
 1. Any State Party may denounce this Protocol by notification in writing to the Depositary.
 
@@ -1822,7 +1838,7 @@ Article XXXV — Denunciations
 
 3. Notwithstanding the previous paragraphs, this Protocol shall continue to apply, as if no such denunciation had been made, in respect of all rights and interests arising prior to the effective date of any such denunciation.
 
-Article XXXVI — Review Conferences, amendments and related matters
+## Article XXXVI — Review Conferences, amendments and related matters
 
 1. The Depositary, in consultation with the Supervisory Authority, shall prepare reports yearly, or at such other time as the circumstances may require, for the States Parties as to the manner in which the international regime established in the Convention as amended by this Protocol has operated in practice. In preparing such reports, the Depositary shall take into account the reports of the Supervisory Authority concerning the functioning of the international registration system.
 
@@ -1842,7 +1858,7 @@ Article XXXVI — Review Conferences, amendments and related matters
 
 3. Any amendment to this Protocol shall be approved by at least a two-thirds majority of States Parties participating in the Conference referred to in the preceding paragraph and shall then enter into force in respect of States which have ratified, accepted or approved such amendment when it has been ratified, accepted or approved by eight States in accordance with the provisions of Article XXVIT1 relating to its entry into force.
 
-Article XXXVII — Depositary and its functions
+## Article XXXVII — Depositary and its functions
 
 1. Instruments of ratification, acceptance, approval or accession shall be deposited with the International Institute for the Unification of Private Law (UNIDROIT), which is hereby designated the Depositary.
 

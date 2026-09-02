@@ -1,0 +1,954 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-2-1993",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_35"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Penang Port Commission (Amendment) Bill 1993"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Penang Port Commission"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "(Amendment) Act 1993 and shall come into force on such date as the Minister may, by notification in the Gazette, appoint."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 38 the following new section 38A: Power to 38A. The Commission may, with the approval write off of the Minister, authorise the writing off of any bad debt. debt due to the Commission which the Commission considers bad or irrecoverable.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "49 and the heading \"Audit of Accounts\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_12__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_12__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 58 the following new section 58A: Additional 58A. (1) In addition to the duties provided duties of under this Act, the Commission may, with the the Commis- approval of the Minister, operate any port- sion. related' activities."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In the exercise of the duties subsection (1) the Commission may expend such moneys as are necessary."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_12__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_12__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_12__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this section, \"port- related activities\" means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_12__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_12__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "activities performed outside a port which relate to any duty of 4 BILL Commission or to operate or maintain a port or the transportation of goods through the port; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_12__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_12__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the development, operation or main- tenance outside the port of marinas and other properties necessary for the furtherance of any duty of Commission.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 60(5) of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the words \"five hundred dollars\" the words \"one thousand ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_14__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 64 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"or Her Britannic Majesty\" in the marginal note; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"or of Her Britannic Majesty\" in the section."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_15__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 70c the following new sections 70cA and 70cb: 70CB. Power of 70cA. (1) Notwithstanding anything to the Pilotage contrary in this Act the Commission may, if it Committee to license considers expedient, authorise the Pilotage employees Committee to issue a licence to any employee of a licensed of a licensed operator to pilot vessels in a operator. pilotage district of the Commission subject to such terms and conditions as the Commission thinks fit: Provided that no such licence shall be issued to any such employee unless the Pilotage Committee has examined the employee and be satisfied as to the employee's general fitness and competency, including his physical fitness to act as a pilot for the licensed operator."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licence issued under subsection (1) shall cease to be valid if the employee to whom it was issued ceases to be employed by the licensed operator. PENANG PORT COMMISSION (AMENDMENT) Vessel to be 70cB. No vessel shall be piloted in a pilotage piloted by district by any person other Commission pilot or Commission pilot or a person licensed under licensed section 70cA(l). person."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_16__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 70o of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"as a Commission pilot\" in paragraph (a) the words \"or as a pilot employed by a licensed operator\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"conduct of Commission pilots\" in paragraph (b) the words \"or persons licensed under section 70cA(l)\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_17__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 70j of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"a Commission pilot\" in subsection (1) the words \"or a person licensed under section 70cA(l)\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"five hundred dollars\" in subsection (3) the words \"two thousand ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_18__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_18__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 70; of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"a Commission pilot\" in subsection (1) the words \"or a person licensed under section 70cA(l)\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"the Commission pilot\" in subsection (2) the words \"or the person licensed under section 70cA(!)\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_18__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"Any Commission pilot\" in subsection (3) the words \"or any person licensed under section 70cA(l)\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 70M(1) of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "inserting after the words \"under section\" the words \"70CA(1) or\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 2 of the Penang Port Commission Act 1955,"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "which in this Act is referred to as the \"principal Act\", is amended by inserting after the definition of the word \"land\" the following new definition: ' \"licensed operator\" means a licensed operator licensed under Part III of the Ports (Privatisation) Act 1990;'. Act 422."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 70o(2) of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the words \"two thousand dollars\" the words \"five thousand ringgit\". 6 BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 82 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the words \"five hundred dollars\" the words \"two thousand ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 83 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the words \"five hundred dollars\" in subsections (2) and (4) the words \"two thousand ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "86A. section 86 the following new section 86A: 86A. Any person who hinders or obstructs any member, officer or servant of the Commission in the performance or execution of his duty or in carrying out anything which he is empowered or required to do by virtue of or in consequence of this Act shall be guilty of an offence under this Act and shall, on conviction, be liable to a fine not exceeding one thousand ringgit or to imprisonment for a term not exceeding six months or to both.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 87(2) of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the words \"one thousand dollars\" the words \"two thousand ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 88 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the words \"one thousand dollars\" the words \"two thousand ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "88A. section 88 the following new section 88A: Penalty 88A. Any person who makes any statement for giving which is false in any material particular in any false statement. return, claim, application, declaration or other document which is requested or authorised to be made by or under the provisions of this Act or of any by-laws made thereunder shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit.\" PENANG PORT COMMISSION (AMENDMENT)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "after section 89 the following new sections 89A and 89B: 89A. (1) When any person without lawful excuse refuses or neglects to obey any direction lawfully given under this Act or any by-laws made thereunder, the Commission may, irrespective of whether any proceedings have been instituted against or any punishment imposed on such person for the refusal or neglect, do or cause to be done all such acts as are in its opinion reasonable or necessary for the purpose of carrying out such direction. (2) The powers conferred by subsection (1) include the power to hire and employ such persons as are necessary and proper for making good whatever loss or damage that has been caused by any refusal or neglect of the person to whom the direction has been given. (3) Any expenses incurred in the exercise of the powers conferred under subsection (1) or (2) shall be recoverable from the person to whom the direction had been given as a civil debt. 89B. Where an offence under this Act or under any of the regulations or by-laws made thereunder is committed by a body corporate (whether or not the body corporate has been prosecuted), every director, secretary or manager of the body corporate shall be deemed to be guilty of the offence unless he proves that the offence was committed without his consent or connivance and that he exercised all due diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances of the case. BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 90 the following new sections 90A and 90B: 90A. (1) The General Manager or such person as may be authorised by him may board any . vessel within the port whenever he suspects that an offence under this Act or any by-laws made thereunder has been or is about to be committed on board such vessel or whenever he considers it necessary to do so in the discharge of his duties under this Act or any by-laws made thereunder. (2) The General Manager or such person as may be authorised by him may, in exercising his powers and carrying out his duties under subsection (1), seize any article, document or thing which he has reasonable grounds for believing has been used for the commission of, or is the subject matter of, or is required for the purpose of investigation and prosecution of, an offence under this Act or any by-laws made thereunder, (3) Any master of such vessel who wilfully delays, fails to comply with any order lawfully given, withholds any information or obstructs in any manner whatsoever the General Manager or such person as may be authorised by him pursuant to subsection (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one thousand ringgit. 90B. (1) In the event of fire breaking out on . board any vessel in the port, the General Manager or any person authorised by him may proceed to board the vessel with such persons and assistance as may seem fit to him and may give such orders to the master of the vessel as are necessary for scuttling the vessel or for removing that vessel or any other vessel, and he may take such other measures as are necessary and proper for the protection of life or property. (2) If the orders given pursuant to subsection (1) are not carried out forthwith by the master of the vessel, the General Manager or the person authorised by him may himself proceed to carry the orders into effect. (3) Any expenses incurred in the exercise of the powers conferred by subsections (1) and (2) shall be recoverable from the master or the owner of the vessel concerned as a civil debt.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_29__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 92A of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_29__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_29__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_29__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_29__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"not being a Commission pilot\" the words \"or a person licensed under section 70cA(l)\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_29__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_29__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"one thousand dollars\" the words \"two thousand ringgit\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_29__para_b__subpara_ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)— (i) by inserting after the words \"not a Commission pilot\" the words \"or a person licensed under section 70cA(l)\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_29__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_29__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"one thousand dollars\" the words \"two thousand ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_3__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_3__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_3__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 14 the following new section 14A: Establish- 1 4 A. (1) The Commission may, with the ment of a approval of the Minister, establish a security port security force for keeping order and security within the force. area vested or deemed to be vested in, or in the possession or under the control of, the Commission. 2 B I LL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_30__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_30__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 92e of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_30__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"Commission pilot\" in subsection (1) the words \"or a person licensed under section 70cA(l)\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_30__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_30__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_30__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_30__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_30__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"Commission pilot\" the words \"or a person licensed under section 70cA(l)\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_30__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_30__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"one hundred dollars\" the words \"five hundred ringgit\". BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_31__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_31__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 92c of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_31__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \", either within or without the districts for which he is licensed,\" in subsection (1) the words \"or any person licensed under section 70CA(l)\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_31__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following new subsection (4): \"(4) Any person licensed under section 70cA(l) who commits an offence under this section, or procures, aids, abets or connives at the commission of any such offence shall, on conviction, be liable to suspension or revocation of the licence.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_32__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_32__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 92D of the principal Act is amended—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "92D."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_32__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"Commission pilot\" the words \"or any person licensed under section 70CA(l) \"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_32__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the full stop appearing at the end thereof a colon and inserting immediately thereafter the following proviso: \"Provided that no person licensed under section 70CA(l) shall be dismissed by the Commission.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_33__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 92E the following new section 92E: 92E. (1) The master, owner or agent of a vessel navigating in circumstances in which the vessel is required by the Commission under section 70B to be under pilotage who does not employ a Commission pilot or a person licensed under section 70cA(1) for such purpose shall be guilty of an offence under this Act and shall, on conviction, be liable to a fine not exceeding five thousand ringgit. PENANG PORT COMMISSION (AMENDMENT) 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_33__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon being found guilty of any offence under subsection (1), the Court before which the master, owner or agent of the vessel is found guilty shall order such master, owner or agent to pay to the Commission the amount certified by the accountant of the Commission to be the amount of dues and rates which would have been payable to the Commission if the vessel has been under pilotage as required by this Act and such amount shall be recoverable in the same manner as a fine.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 101 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "inserting after the words \"this Act\" the words \"or the regulations or by-laws made thereunder\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_35__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_35__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 101 the following new section 10lA: 101A. (1) The Minister may by order to be published in the Gazette prescribe any offence against the provisions of this Act or of any regulations or by-laws made thereunder as an offence which may be compounded by the Commission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_35__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The General Manager may in his discretion compound such offence prescribed under subsection (1) by accepting from the person reasonably suspected of having committed any such offence a sum of money not exceeding five hundred ringgit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_35__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may by the same order made under subsection (1) prescribe the method and procedure for compounding any offence against the provisions of this Act or of any regulations or by-laws made thereunder.\". 12 BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The security force shall consist of such persons as may be appointed under section 14 of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding any written law to the contrary, a member of the security force shall have the power to arrest without warrant any person found without lawful excuse within the area vested in, or in the possession or under the control of, the Commission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_3__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every person arrested pursuant to subsection (3) shall be taken to the nearest police station and produced before Magistrate within twenty-four hours and shall thereafter be dealt with as provided by the F.MS Criminal Procedure Code. Cap. 6."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_3__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any regulations made under section 15 shall unless expressly excluded therein apply to members of the security force established under this section.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 24(5) the following new section 24(5): \"(5) The Commission may give loans to its officers and servants for such purpose as may be approved by the Commission and on such terms and conditions as the Commission thinks fit.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 25 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "inserting after subsection (3) the following new subsection (3A): \"(3A) The Commission may dispose of any capital asset or any asset kept in the store which is no longer required by the Commission.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 31(2) the following new section 31(2): \"(2) In this section \"water authority\" means the Penang Water Authority established under En. 7/1972. section 3 of the Penang Water Authority Enactment 1972.\". PENANG PORT COMMISSION (AMENDMENT)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 32(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the semicolon appearing at the end of paragraph (e) a comma; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph (f)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 36 the following new section 36A: Commis- 36A. The Commission may levy interest sion may charges on an outstanding account of any levy interest debtor.\". charges."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 37(1) of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "deleting the words \", and of the auditor appointed by the Minister,\"."
+      }
+    }
+  ]
+}

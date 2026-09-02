@@ -8,9 +8,7 @@
 
 bernama
 
-Suatu Akta untuk meminda Akta Institut Teknologi MARA
-
-1976. [ ]
+Suatu Akta untuk meminda Akta Institut Teknologi MARA 1976. [ ]
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 
@@ -54,21 +52,59 @@ Teknologi MARA (Pindaan) 1996.
 
 (c) dengan menggantikan perkataan "Pengetua" di mana-mana jua terdapat dalamnya dengan perkataan "Provos".
 
-Perubahan
+<!-- marginal: Perubahan -->
 
-4. (1) Segala sebutan mengenai Majlis Institut badan Teknologi MARA dalam mana-mana undang-undang eksekutif institut. bertulis atau dalam apa-apa suratcara, suratikatan, hakmilik, dokumen, bon, perjanjian atau perkiraan kerja yang wujud sebelum sahaja tarikh yang ditetapkan hendaklah, pada tarikh yang ditetapkan, ditafsirkan sebagai sebutan mengenai Lembaga Pengarah Institut Teknologi MARA.
+4. (1) Segala sebutan mengenai Majlis Institut
+
+<!-- marginal: badan -->
+
+Teknologi MARA dalam mana-mana undang-undang
+
+<!-- marginal: eksekutif -->
+
+<!-- marginal: institut. -->
+
+bertulis atau dalam apa-apa suratcara, suratikatan, hakmilik, dokumen, bon, perjanjian atau perkiraan kerja yang wujud sebelum sahaja tarikh yang ditetapkan hendaklah, pada tarikh yang ditetapkan, ditafsirkan sebagai sebutan mengenai Lembaga Pengarah Institut Teknologi MARA.
 
 (2) Perubahan nama dan perubahan badan eksekutif itu tidaklah inenyentuh apa-apa hak, keistimewaan, tanggungan, kewajipan atau obligasi Majlis, atau menjadikan cacat apa-apa prosiding undang-undang oleh atau terhadapnya.
 
 (3) Prosiding undang-undang yang boleh diteruskan atau dimulakan oleh atau terhadap Majlis sebelum tarikh yang ditetapkan boleh diteruskan atau dimulakan atas nama Lembaga Pengarah.
 
-Tanggungan
+<!-- marginal: Tanggungan -->
 
-5. Segala tanggungan yang sedia ada yang dilakukan boleh dikuat- oleh atau bagi pihak atau bagi maksud Majlis boleh, kuasakan terhadap pada tarikh yang ditetapkan, dikuatkuasakan terhadap Lembaga. Lembaga Pengarah.
+5. Segala tanggungan yang sedia ada yang dilakukan
 
-Peletakhakan
+<!-- marginal: boleh dikuat- -->
 
-6. Segala tanah, harta dan aset yang sebelum sahaja tanah, harta tarikh yang ditetapkan terletakhak pada atau dirizabkan dan aset pada bagi Majlis atau mana-mana orang yang bertindak bagi Lembaga. pihaknya hendaklah, pada tarikh yang ditetapkan, terletakhak pada atau dirizabkan bagi Lembaga Pengarah atau mana-mana orang yang bertindak bagi pihaknya tanpa pemindahhakan, penyerahakan, atau pemindahmilikan.
+oleh atau bagi pihak atau bagi maksud Majlis boleh,
+
+<!-- marginal: kuasakan -->
+
+<!-- marginal: terhadap -->
+
+pada tarikh yang ditetapkan, dikuatkuasakan terhadap
+
+<!-- marginal: Lembaga. -->
+
+Lembaga Pengarah.
+
+<!-- marginal: Peletakhakan -->
+
+6. Segala tanah, harta dan aset yang sebelum sahaja
+
+<!-- marginal: tanah, harta -->
+
+tarikh yang ditetapkan terletakhak pada atau dirizabkan
+
+<!-- marginal: dan aset -->
+
+<!-- marginal: pada -->
+
+bagi Majlis atau mana-mana orang yang bertindak bagi
+
+<!-- marginal: Lembaga. -->
+
+pihaknya hendaklah, pada tarikh yang ditetapkan, terletakhak pada atau dirizabkan bagi Lembaga Pengarah atau mana-mana orang yang bertindak bagi pihaknya tanpa pemindahhakan, penyerahakan, atau pemindahmilikan.
 
 <!-- page 3 -->
 
@@ -200,9 +236,17 @@ yang menyediakan pendidikan tinggi yang membawa kepada penganugerahan sijil, dip
 
 ' "Universiti" atau "Kolej Universiti" ertinya—
 
-(a) sesuatu Universiti atau Kolej Universiti yang ditubuhkan di bawah Akta Akta 30. Universiti dan Kolej Universiti 1971;
+(a) sesuatu Universiti atau Kolej Universiti yang ditubuhkan di bawah Akta
 
-(b) sesuatu Universiti atau Kolej Universiti yang ditubuhkan di bawah Akta Institusi Pendidikan Tinggi Swasta Akta 1996; atau
+<!-- marginal: Akta 30. -->
+
+Universiti dan Kolej Universiti 1971;
+
+(b) sesuatu Universiti atau Kolej Universiti yang ditubuhkan di bawah Akta Institusi Pendidikan Tinggi Swasta
+
+<!-- marginal: Akta -->
+
+1996; atau
 
 (c) Universiti atau Kolej Universiti lain—
 
@@ -210,11 +254,19 @@ yang menyediakan pendidikan tinggi yang membawa kepada penganugerahan sijil, dip
 
 (ii) sama ada di dalam atau di luar Malaysia.'.
 
-Pindaan am
+<!-- marginal: Pindaan am -->
 
-10. Teks bahasa kebangsaan Akta ibu adalah dipinda— dalam teks bahasa
+10. Teks bahasa kebangsaan Akta ibu adalah dipinda—
 
-(a) dengan menggantikan perkataan "Meteri", kebangsaan. "meteri" dan "dimeterikan" di mana-mana jua terdapat dalamnya masing-masing dengan perkataan "Meterai", "meterai"
+<!-- marginal: dalam teks -->
+
+<!-- marginal: bahasa -->
+
+(a) dengan menggantikan perkataan "Meteri",
+
+<!-- marginal: kebangsaan. -->
+
+"meteri" dan "dimeterikan" di mana-mana jua terdapat dalamnya masing-masing dengan perkataan "Meterai", "meterai"
 
 <!-- marginal: dan -->
 
@@ -222,9 +274,11 @@ Pindaan am
 
 (b) dengan menggantikan perkataan "pelajaran" di mana-mana jua terdapat dalamnya dengan perkataan "pendidikan".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-11. Seksyen 4 Akta ibu. adalah dipinda— seksyen 4.
+11. Seksyen 4 Akta ibu. adalah dipinda—
+
+<!-- marginal: seksyen 4. -->
 
 (a) dengan menomborkan semula peruntukan yang sedia ada sebagai subseksyen (1);
 
@@ -298,9 +352,15 @@ dan Diploma dan Diploma Lanjutan itu hendaklah diberi taraf ijazah yang dianuger
 
 seksyen 4 seksyen yang berikut:
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-4A. (1) Institut boleh, dengan kelulusan tambahan Menteri Kewangan— Institut.
+4A. (1) Institut boleh, dengan kelulusan
+
+<!-- marginal: tambahan -->
+
+Menteri Kewangan—
+
+<!-- marginal: Institut. -->
 
 (a) jika didapati perlu, berfaedah atau sesuai bagi atau berkaitan dengan penjalanan kuasa, pelaksanaan tugas dan penjalanan aktiviti Institut, menyertai penyertaan ekuiti, perkongsian, usahasama, pengusahaan atau apa-apa bentuk kerjasama atau perkiraan yang lain bersama-sama, atau selainnya, dengan— (i) sesuatu perusahaan, syari- kat, pengusahaan swasta atau sindiket orang yang
 
@@ -310,7 +370,11 @@ Kuasa
 
 ditubuhkan bagi menjalan- kan perniagaan di Malaysia atau di tempat lain; (ii) Kerajaan Persekutuan atau mana-mana Kerajaan Negeri; (iii) badan atau pihak berkuasa awam; (iv) suruhanjaya; atau (v) seseorang;
 
-(b) menubuhkan atau menganjurkan penubuhan syarikat di bawah Akta Akta 125. Syarikat 1965 untuk menjalankan atau melibatkan diri dalam mana- mana aktiviti yang telah diran- cangkan atau diusahakan oleh Institut;
+(b) menubuhkan atau menganjurkan penubuhan syarikat di bawah Akta
+
+<!-- marginal: Akta 125. -->
+
+Syarikat 1965 untuk menjalankan atau melibatkan diri dalam mana- mana aktiviti yang telah diran- cangkan atau diusahakan oleh Institut;
 
 (c) menubuhkan perbadanan untuk menjalankan dan bertanggungjawab bagi, mengendalikan dan meng- uruskan apa-apa harta, projek, skim atau perusahaan yang pada pendapat Institut bermanfaat atau berfaedah kepada Institut;
 
@@ -336,9 +400,11 @@ tanah dan harta alih yang perlu atau sesuai bagi mana-mana maksud Institut.
 
 (2) Peruntukan-peruntukan Jadual Pertama hendaklah terpakai bagi tiap-tiap perbadanan yang ditubuhkan oleh Institut di bawah perenggan (c) subseksyen (1).".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-13. Seksyen 5 Akta ibu adalah dipinda— seksyen 5.
+13. Seksyen 5 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 5. -->
 
 (a) dalam nota birai dengan memasukkan selepas perkataan "Meterai" perkataan "biasa";
 
@@ -354,7 +420,9 @@ Pindaan
 
 yang hendaklah menandatangani suratcara itu sebagai tanda bahawa meterai itu telah dicapkan di hadapan mereka, dan tandatangan itu hendaklah menjadi keterangan yang cukup bahawa meterai itu telah dicapkan dengan sempurna dan sepatutnya dan bahawa meterai itu ialah meterai Institut yang sah."; dan
 
-(d) dalam subseksyen (4)— (i) dalam teks bahasa kebangsaan dengan memasukkan selepas perkataan "Meterai" perkataan "biasa";
+(d) dalam subseksyen (4)—
+
+(i) dalam teks bahasa kebangsaan dengan memasukkan selepas perkataan "Meterai" perkataan "biasa";
 
 <!-- page 13 -->
 
@@ -422,11 +490,21 @@ yang hendaklah menandatangani suratcara itu sebagai tanda bahawa meterai itu tel
 
 "(4) Dalam seksyen ini, "gabungan" termasuklah pengendalian program berkembar.".
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-18. Akta ibu adalah dipinda dengan menggantikan seksyen 13. seksyen 13 dengan seksyen yang berikut:
+18. Akta ibu adalah dipinda dengan menggantikan
 
-Lembaga 13. (1) Maka hendaklah ditubuhkan suatu Pengarah. Lembaga Pengarah Institut yang dikenali sebagai Lembaga Pengarah Institut Teknologi
+<!-- marginal: seksyen 13. -->
+
+seksyen 13 dengan seksyen yang berikut:
+
+<!-- marginal: Lembaga -->
+
+13. (1) Maka hendaklah ditubuhkan suatu
+
+<!-- marginal: Pengarah. -->
+
+Lembaga Pengarah Institut yang dikenali sebagai Lembaga Pengarah Institut Teknologi
 
 ## MARA.
 
@@ -464,9 +542,11 @@ Lembaga 13. (1) Maka hendaklah ditubuhkan suatu Pengarah. Lembaga Pengarah Insti
 
 (10) Peruntukan-peruntukan Jadual Kedua hendaklah terpakai bagi Lembaga.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-19. Seksyen 16 Akta ibu adalah dipinda— seksyen 16.
+19. Seksyen 16 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 16. -->
 
 (a) dengan menggantikan subseksyen (1) dengan subseksyen yang berikut:
 
@@ -496,7 +576,9 @@ Pindaan
 
 seksyen 16 seksyen yang berikut:
 
-Senat. 16A. (1) Maka hendaklah ditubuhkan Senat Institut untuk menasihati Lembaga tentang segala perkara akademik Institut.
+<!-- marginal: Senat. -->
+
+16A. (1) Maka hendaklah ditubuhkan Senat Institut untuk menasihati Lembaga tentang segala perkara akademik Institut.
 
 (2) Senat hendaklah terdiri daripada—
 
@@ -516,9 +598,17 @@ Senat. 16A. (1) Maka hendaklah ditubuhkan Senat Institut untuk menasihati Lembag
 
 <!-- page 18 -->
 
-(5) Rektor boleh mengko-opt mana-mana orang lain menjadi anggota Senat atau menghadiri mesyuarat Senat, tetapi seseorang yang diko-opt tidak mempunyai hak mengundi.
+(5) Rektor boleh mengko-opt mana-mana
 
-(6) Senat hendaklah membuat syor kepada Lembaga tentang segala perkara yang berhubungan dengan—
+<!-- marginal: orang -->
+
+lain menjadi anggota Senat atau menghadiri mesyuarat Senat, tetapi seseorang yang diko-opt tidak mempunyai hak mengundi.
+
+(6) Senat hendaklah membuat syor kepada
+
+<!-- marginal: Lembaga -->
+
+tentang segala perkara yang berhubungan dengan—
 
 (a) kandungan dan penyusunan kursus pengajian yang diadakan di Institut;
 
@@ -558,7 +648,11 @@ mempunyai hak mengundi.
 
 (a) sebutan mengenai "Lembaga" hendaklah ditafsirkan sebagai sebutan mengenai "Senat"; dan
 
-(b) sebutan mengenai "Menteri" hendaklah ditafsirkan sebagai sebutan mengenai "Lembaga".
+(b) sebutan mengenai
+
+<!-- marginal: "Menteri" -->
+
+hendaklah ditafsirkan sebagai sebutan mengenai "Lembaga".
 
 <!-- marginal: Pemotongan -->
 
@@ -580,9 +674,11 @@ adalah dipinda dengan menggantikan perkataan "principal" dengan perkataan "chief
 
 <!-- page 20 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-23. Seksyen 21 Akta ibu adalah dipinda— seksyen 21.
+23. Seksyen 21 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 21. -->
 
 (a) dalam subseksyen (1) dengan menggantikan perkataan "Menteri" dengan perkataan "Lembaga";
 
@@ -594,17 +690,37 @@ Pindaan
 
 "(3) Pendaftar hendaklah melaksanakan tugas-tugasnya dan menunaikan kewajipan- kewajipannya di bawah arahan dan kawalan Rektor.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-24. Seksyen 22 Akta ibu adalah dipinda— seksyen 22.
+24. Seksyen 22 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 22. -->
 
 (a) dalam subseksyen (1) dengan menggantikan perkataan "Menteri" dengan perkataan "Lembaga"; dan
 
 (b) dalam subseksyen (2) dalam teks bahasa kebangsaan dengan menggantikan perkataan "ketua pegawai" dengan perkataan "pegawai utama".
 
-25. Akta ibu adalah dipinda dengan memasukkan selepas baru 22A. seksyen 22 seksyen yang berikut:
+<!-- marginal: Seksyen -->
 
-Pelantikan 22A. (1) Institut hendaklah mempunyai pegawai mana-mana pegawai utama lain yang utama lain. hendaklah dilantik oleh Lembaga dengan had- had dan syarat-syarat perkhidmatan yang diluluskan oleh Lembaga.
+25. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 22A. -->
+
+seksyen 22 seksyen yang berikut:
+
+<!-- marginal: Pelantikan -->
+
+22A. (1) Institut hendaklah mempunyai
+
+<!-- marginal: pegawai -->
+
+mana-mana pegawai utama lain yang
+
+<!-- marginal: utama -->
+
+<!-- marginal: lain. -->
+
+hendaklah dilantik oleh Lembaga dengan had- had dan syarat-syarat perkhidmatan yang diluluskan oleh Lembaga.
 
 (2) Pegawai-pegawai utama itu hendaklah melaksanakan apa-apa tugas dan menunaikan apa-apa kewajipan yang ditetapkan oleh Lembaga
 
@@ -612,7 +728,7 @@ Pelantikan 22A. (1) Institut hendaklah mempunyai pegawai mana-mana pegawai utama
 
 ## INSTITUT TEKNOLOGI MARA (PINDAAN)
 
-<!-- marginal: 21 -->
+21
 
 dan hendaklah melaksanakan tugas-tugas dan menunaikan kewajipan-kewajipan itu di bawah arahan dan kawalan Rektor.".
 
@@ -622,7 +738,9 @@ dan hendaklah melaksanakan tugas-tugas dan menunaikan kewajipan-kewajipan itu di
 
 <!-- marginal: seksyen 23. -->
 
-menggantikan subseksyen (1) dengan subseksyen yang berikut:
+menggantikan subseksyen (1) dengan subseksyen yang
+
+<!-- marginal: berikut: -->
 
 "(1) Lembaga boleh melantik, dengan had-had dan syarat-syarat perkhidmatan yang diluluskan oleh Lembaga, kakitangan lain yang perlu bagi menjalankan maksud-maksud Institut.".
 
@@ -634,7 +752,19 @@ menggantikan subseksyen (1) dengan subseksyen yang berikut:
 
 seksyen 23 seksyen yang berikut:
 
-"Tatatertib 23A. (1) Lembaga hendaklah mempunyai kaki- kuasa tatatertib ke atas semua kakitangannya tangan Institut. dan hendaklah menjalankah kawalan tatatertib berkenaan dengan kesemua orang itu mengikut Akta ini dan mana-mana kaedah yang dibuat di bawah seksyen 35.
+<!-- marginal: "Tatatertib -->
+
+23A. (1) Lembaga hendaklah mempunyai
+
+<!-- marginal: kaki- -->
+
+kuasa tatatertib ke atas semua kakitangannya
+
+<!-- marginal: tangan -->
+
+<!-- marginal: Institut. -->
+
+dan hendaklah menjalankah kawalan tatatertib berkenaan dengan kesemua orang itu mengikut Akta ini dan mana-mana kaedah yang dibuat di bawah seksyen 35.
 
 (2) Lembaga boleh, melalui pemberitahuan dalam Warta, menubuhkan jawatankuasa tatatertib yang berlainan bagi kategori kakitangan yang berlainan.
 
@@ -646,9 +776,7 @@ seksyen 23 seksyen yang berikut:
 
 (5) Dalam apa-apa hal jika seseorang anggota jawatankuasa tatatertib itu sendiri merupakan pengadu dalam apa-apa prosiding tatatertib di hadapan jawatankuasa tatatertib itu, maka dia tidak boleh hadir dalam prosiding itu dan Lembaga hendaklah melantik mana-mana orang lain untuk mengambil bahagian dalam prosiding itu.
 
-(6) Pada menjalankan tugas dan kuasa tatatertibnya, jawatankuasa tatatertib hendaklah mempunyai kuasa untuk mengambil tindakan tatatertib dan mengenakan mana-mana hukuman tatatertib atau apa-apa gabungan dua atau lebih hukuman tatatertib yang diperuntukkan di bawah kaedah-kaedah yang dibuat di bawah seksyen
-
-35.
+(6) Pada menjalankan tugas dan kuasa tatatertibnya, jawatankuasa tatatertib hendaklah mempunyai kuasa untuk mengambil tindakan tatatertib dan mengenakan mana-mana hukuman tatatertib atau apa-apa gabungan dua atau lebih hukuman tatatertib yang diperuntukkan di bawah kaedah-kaedah yang dibuat di bawah seksyen 35.
 
 (7) Jawatankuasa tatatertib tidak mempunyai bidang kuasa berkenaan dengan Rektor.
 
@@ -716,7 +844,11 @@ hendaklah menyempurnakan pendengaran itu mengikut kuasa yang terletakhak pada Ja
 
 sebelum tarikh yang ditetapkan tetapi tidak dimulakan sedemikian boleh, dalam masa tiga puluh hari dari tarikh yang ditetapkan, dimulakan dan diteruskan di bawah dan dengan mematuhi seksyen 23A Akta ibu.
 
-(4) Jika pada tarikh yang ditetapkan rayuan tatatertib di bawah subseksyen 4(5) Akta Institusi-Institusi Pelajaran Akta 174 (Tatatertib) 1976 sedang didengar atau telah didengar di hadapan Majlis tetapi belum lagi ada perintah atau keputusan dibuat atasnya, maka rayuan itu hendaklah diteruskan di hadapan Majlis melainkan jika perayu bersetuju diadakan suatu pendengaran semula di hadapan Lembaga Pengarah Institut.
+(4) Jika pada tarikh yang ditetapkan rayuan tatatertib di bawah subseksyen 4(5) Akta Institusi-Institusi Pelajaran
+
+<!-- marginal: Akta 174 -->
+
+(Tatatertib) 1976 sedang didengar atau telah didengar di hadapan Majlis tetapi belum lagi ada perintah atau keputusan dibuat atasnya, maka rayuan itu hendaklah diteruskan di hadapan Majlis melainkan jika perayu bersetuju diadakan suatu pendengaran semula di hadapan Lembaga Pengarah Institut.
 
 (5) Bagi maksud menyempurnakan pendengaran rayuan di hadapannya, atau membuat'perintah atau memberikan keputusan atas rayuan yang didengar di hadapannya sebelum tarikh yang ditetapkan, Majlis hendaklah menyempurnakan pendengaran rayuan itu mengikut kuasa yang terletakhak padanya sebelum sahaja tarikh yang ditetapkan dan boleh membuat apa-apa perintah atau keputusan yang boleh dibuat olehnya di bawah kuasa yang terletakhak padanya sebelum sahaja tarikh yang ditetapkan.
 
@@ -724,7 +856,11 @@ sebelum tarikh yang ditetapkan tetapi tidak dimulakan sedemikian boleh, dalam ma
 
 (7) Rayuan yang disebut dalam subseksyen (6) yang dibawa selepas tempoh yang dinyatakan dalamnya tidak boleh dibenarkan.
 
-(8) Jika hak untuk merayu terakru terhadap keputusan—
+(8) Jika hak untuk merayu terakru
+
+<!-- marginal: terhadap -->
+
+keputusan—
 
 (a) Jawatankuasa Tatatertib Institut; atau
 
@@ -774,9 +910,7 @@ IVA
 
 ## PELAJAR
 
-Tatatertib
-
-23B. (1) Rektor hendaklah mempunyai kuasa pelajar tatatertib ke atas tiap-tiap pelajar. Institut.
+Tatatertib 23B. (1) Rektor hendaklah mempunyai kuasa pelajar tatatertib ke atas tiap-tiap pelajar. Institut.
 
 (2) Rektor hendaklah mempunyai kuasa untuk mengambil tindakan tatatertib dan mengenakan apa-apa hukuman tatatertib yang diperuntukkan di bawah kaedah-kaedah yang dibuat di bawah seksyen 35.
 
@@ -798,9 +932,31 @@ boleh merayu terhadap keputusan itu kepada Menteri dan Menteri boleh, jika difik
 
 (6) Jika Menteri tidak menolak terus rayuan itu di bawah subseksyen (5), dia hendaklah melantik suatu jawatankuasa yang terdiri daripada dua orang atau lebih, dari dalam atau luar Institut, untuk menimbangkan rayuan itu dan membuat syor-syornya kepada Menteri, dan, apabila syor-syor itu diterima, Menteri bolehlah memberikan apa-apa keputusan mengenai rayuan itu sebagaimana yang difikirkannya patut dan wajar.
 
-Jawatan- 23c. (1) Institut hendaklah mempunyai suatu kuasa Jawatankuasa Perwakilan Pelajar ("JPP"). Perwakilan Pelajar. (2) Peruntukan-peruntukan Jadual Ketiga hendaklah terpakai bagi JPP.
+<!-- marginal: Jawatan- -->
 
-Penubuhan 23D. (1) Walau apa pun seksyen 23c, maka badan adalah sah bagi tidak kurang daripada sepuluh pelajar lain. orang pelajar—
+23c. (1) Institut hendaklah mempunyai suatu
+
+<!-- marginal: kuasa -->
+
+Jawatankuasa Perwakilan Pelajar ("JPP").
+
+<!-- marginal: Perwakilan -->
+
+<!-- marginal: Pelajar. -->
+
+(2) Peruntukan-peruntukan Jadual Ketiga hendaklah terpakai bagi JPP.
+
+<!-- marginal: Penubuhan -->
+
+23D. (1) Walau apa pun seksyen 23c, maka
+
+<!-- marginal: badan -->
+
+adalah sah bagi tidak kurang daripada sepuluh
+
+<!-- marginal: pelajar lain. -->
+
+orang pelajar—
 
 (a) dengan terlebih dahulu mendapat kelulusan Rektor yang diberikan selepas mendapat persetujuan Menteri; dan
 
@@ -812,7 +968,19 @@ menubuhkan suatu badan pelajar yang terdiri daripada pelajar-pelajar bagi mengan
 
 (2) Peruntukan-peruntukan Jadual Ketiga, kecuali perenggan 1 dan 7, hendaklah terpakai dengan apa-apa pengubahsuaian yang perlu bagi sesuatu badan pelajar di bawah seksyen ini sebagaimana ia terpakai bagi JPP.
 
-Pembubaran 23E. (1) Menteri atau Rektor boleh, menurut JPP atau budi bicara mutlaknya, tanpa memberikan apa- badan pelajar lain. apa sebab baginya—
+<!-- marginal: Pembubaran -->
+
+23E. (1) Menteri atau Rektor boleh, menurut
+
+<!-- marginal: JPP atau -->
+
+budi bicara mutlaknya, tanpa memberikan apa-
+
+<!-- marginal: badan -->
+
+<!-- marginal: pelajar lain. -->
+
+apa sebab baginya—
 
 (a) menggantung atau membubarkan JPP atau mana-mana badan pelajar yang ditubuhkan di bawah seksyen 23D; dan
 
@@ -826,9 +994,51 @@ Pembubaran 23E. (1) Menteri atau Rektor boleh, menurut JPP atau budi bicara mutl
 
 <!-- page 28 -->
 
-Pelajar atau 23F. (1) Tiada seorang pun, semasa dia pertubuhan, menjadi seorang.pelajar, boleh menjadi anggota, badan atau kumpulan atau boleh dengan apa-apa cara bersekutu pelajar dengan, mana-mana persatuan, parti politik, dilarang kesatuan sekerja atau mana-mana pertubuhan, bersekutu dengan badan atau kumpulan orang yang lain— persatuan, dsb. kecuali
+<!-- marginal: Pelajar atau -->
 
-(a) sama ada atau tidak ia ditubuhkan jika di bawah mana-mana undang- diluluskan oleh undang; Menteri.
+23F. (1) Tiada seorang pun, semasa dia
+
+<!-- marginal: pertubuhan, -->
+
+menjadi seorang.pelajar, boleh menjadi anggota,
+
+<!-- marginal: badan atau -->
+
+<!-- marginal: kumpulan -->
+
+atau boleh dengan apa-apa cara bersekutu
+
+<!-- marginal: pelajar -->
+
+dengan, mana-mana persatuan, parti politik,
+
+<!-- marginal: dilarang -->
+
+kesatuan sekerja atau mana-mana pertubuhan,
+
+<!-- marginal: bersekutu -->
+
+<!-- marginal: dengan -->
+
+badan atau kumpulan orang yang lain—
+
+<!-- marginal: persatuan, -->
+
+<!-- marginal: dsb. kecuali -->
+
+(a) sama ada atau tidak ia ditubuhkan
+
+<!-- marginal: jika -->
+
+di bawah mana-mana undang-
+
+<!-- marginal: diluluskan -->
+
+<!-- marginal: oleh -->
+
+undang;
+
+<!-- marginal: Menteri. -->
 
 (b) sama ada ia di dalam atau di luar Institut; dan
 
@@ -864,9 +1074,33 @@ apa-apa jua yang boleh ditafsirkan sebagai menyatakan—
 
 (5) Mana-mana orang yang melanggar subseksyen (1), (2), (3) atau (4) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.
 
-Pelajar 23G. (1) Tiada pelajar, atau pertubuhan, badan atau atau kumpulan pelajar, boleh, di dalam atau di pertubuhan, badan atau luar kampus, atau di dalam atau di luar kumpulan Malaysia— pelajar dilarang
+<!-- marginal: Pelajar -->
 
-(a) memungut atau cuba memungut; memungut wang.
+23G. (1) Tiada pelajar, atau pertubuhan, badan
+
+<!-- marginal: atau -->
+
+atau kumpulan pelajar, boleh, di dalam atau di
+
+<!-- marginal: pertubuhan, -->
+
+<!-- marginal: badan atau -->
+
+luar kampus, atau di dalam atau di luar
+
+<!-- marginal: kumpulan -->
+
+Malaysia—
+
+<!-- marginal: pelajar -->
+
+<!-- marginal: dilarang -->
+
+(a) memungut atau cuba memungut;
+
+<!-- marginal: memungut -->
+
+<!-- marginal: wang. -->
 
 (b) menganjurkan atau cuba mengan- jurkan apa-apa pemungutan;
 
@@ -886,9 +1120,33 @@ apa-apa wang atau harta lain daripada mana- mana orang, yang bukan wang atau har
 
 <!-- page 31 -->
 
-Tanggungan 23H. (1) Jika apa-apa kesalahan dilakukan di kejenayahan bawah mana-mana undang-undang bertulis— pemegang jawatan, dsb.,
+<!-- marginal: Tanggungan -->
 
-(a) sama ada atau tidak mana-mana pertubuhan, orang telah disabitkan atasnya; badan atau kumpulan dan pelajar.
+23H. (1) Jika apa-apa kesalahan dilakukan di
+
+<!-- marginal: kejenayahan -->
+
+bawah mana-mana undang-undang bertulis—
+
+<!-- marginal: pemegang -->
+
+<!-- marginal: jawatan, -->
+
+<!-- marginal: dsb., -->
+
+(a) sama ada atau tidak mana-mana
+
+<!-- marginal: pertubuhan, -->
+
+orang telah disabitkan atasnya;
+
+<!-- marginal: badan atau -->
+
+<!-- marginal: kumpulan -->
+
+dan
+
+<!-- marginal: pelajar. -->
 
 (b) kesalahan itu telah dilakukan atau berupa sebagai telah dilakukan atas nama atau bagi pihak—
 
@@ -904,7 +1162,7 @@ tiap-tiap pemegang jawatan pertubuhan, badan atau kumpulan pelajar itu dan tiap-
 
 (3) Dalam mana-mana pendakwaan di bawah seksyen "ini terhadap seseorang pemegang jawatan, atau mana-mana orang yang menguruskan atau membantu dalam pengurusan, mana-mana pertubuhan, badan atau kumpulan yang disebut dalam subseksyen (1), apa-apa dokumen yang dijumpai dalam milikan mana- mana pemegang jawatan, atau orang yang menguruskan atau membantu dalam pengurusan, pertubuhan, badan atau kumpulan itu, atau dalam milikan seseorang anggota pertubuhan, badan atau kumpulan itu adalah menjadi keterangan prima facie tentang kandungannya bagi maksud membuktikan bahawa apa-apa jua telah dilakukan atau berupa sebagai telah dilakukan oleh atau bagi pihak pertubuhan, badan atau kumpulan itu.
 
-Anggapan.
+<!-- marginal: Anggapan. -->
 
 23I. Dalam mana-mana pendakwaan di bawah Akta ini—
 
@@ -916,13 +1174,55 @@ Anggapan.
 
 (c) jika apa-apa buku, akaun, tulisan, senarai anggota, meterai, panji-panji atau lambang kebesaran bagi, atau yang berhubungan dengan, mana-mana pertubuhan, badan atau kumpulan orang dijumpai dalam milikan, jagaan atau di bawah kawalan mana-mana orang, maka hendaklah dianggap, sehingga dibuktikan sebaliknya, bahawa orang itu membantu dalam pengurusan pertubuhan, badan atau kumpulan itu.
 
-Peng- 23I. (1) Jika seseorang pelajar dipertuduh gantungan dengan suatu kesalahan jenayah— dan pem- buangan
+<!-- marginal: Peng- -->
 
-(a) dia boleh, selepas sahaja daripada pelajar itu, digantung daripada menjadi yang dipertuduh seorang pelajar; dan atas kesalahan
+23I. (1) Jika seseorang pelajar dipertuduh
 
-(b) dia tidak boleh, jika digantung jenayah sedemikian di bawah perenggan atau yang terhadapnya
+<!-- marginal: gantungan -->
 
-(a), semasa menanti keputusan kesalahan prosiding jenayah itu, berada di jenayah dibuktikan. dalam atau memasuki kampus Institut.
+dengan suatu kesalahan jenayah—
+
+<!-- marginal: dan pem- -->
+
+<!-- marginal: buangan -->
+
+(a) dia boleh, selepas sahaja daripada
+
+<!-- marginal: pelajar -->
+
+itu, digantung daripada menjadi
+
+<!-- marginal: yang -->
+
+<!-- marginal: dipertuduh -->
+
+seorang pelajar; dan
+
+<!-- marginal: atas -->
+
+<!-- marginal: kesalahan -->
+
+(b) dia tidak boleh, jika digantung
+
+<!-- marginal: jenayah -->
+
+sedemikian di bawah perenggan
+
+<!-- marginal: atau yang -->
+
+<!-- marginal: terhadapnya -->
+
+(a), semasa menanti keputusan
+
+<!-- marginal: kesalahan -->
+
+prosiding jenayah itu, berada di
+
+<!-- marginal: jenayah -->
+
+<!-- marginal: dibuktikan. -->
+
+dalam atau memasuki kampus Institut.
 
 (2) Jika mahkamah mendapati bahawa pertuduhan atas suatu kesalahan jenayah dibuktikan terhadap seseorang pelajar—
 
@@ -968,11 +1268,33 @@ yang difikirkannya patut menurut budi bicara mutlaknya.
 
 (8) Tanpa menjejaskan peruntukan- peruntukan mana-mana undang-undang bertulis lain berhubungan dengan pewakilan kuasa, Menteri boleh, melalui pemberitahuan dalam Warta, mewakilkan penjalanan mana-mana kuasanya di bawah seksyen ini kepada Rektor, tertakluk kepada apa-apa syarat dan sekatan yang ditetapkan dalam pemberitahuan itu.
 
-Kuasa 23K. (1) Menteri boleh— Menteri untuk meng-
+<!-- marginal: Kuasa -->
 
-(a) apabila dibuat representasi oleh gantung atau Institut; dan membuang pelajar
+23K. (1) Menteri boleh—
 
-(b) jika dia berpuas hati bahawa daripada Institut. adalah wajar berbuat sedemikian demi kepentingan Institut;
+<!-- marginal: Menteri -->
+
+<!-- marginal: untuk meng- -->
+
+(a) apabila dibuat representasi oleh
+
+<!-- marginal: gantung -->
+
+<!-- marginal: atau -->
+
+Institut; dan
+
+<!-- marginal: membuang -->
+
+<!-- marginal: pelajar -->
+
+(b) jika dia berpuas hati bahawa
+
+<!-- marginal: daripada -->
+
+<!-- marginal: Institut. -->
+
+adalah wajar berbuat sedemikian demi kepentingan Institut;
 
 <!-- page 36 -->
 
@@ -1014,19 +1336,55 @@ adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak mele
 
 (8) Suatu perintah untuk menggantung atau membuang seseorang pelajar daripada Institut di bawah seksyen ini boleh, pada bila-bila masa, dibatalkan oleh Menteri dan Menteri boleh, menurut budi bicara mutlaknya, mengenakan apa-apa syarat yang difikirkannya patut dikenakan ke atas pembatalan itu.
 
-Dikeluarkan 23L. Jika seseorang pelajar digantung atau daripada dibuang daripada Institut di bawah Akta ini, atau ditahan daripada Rektor— masuk ke datam Institut
+<!-- marginal: Dikeluarkan -->
 
-(a) hendaklah mengambil atau menyebabkan akan pelajar diambil segala langkah yang perlu untuk yang digantung memastikan atau mendapatkan supaya atau dibuang. pelajar itir dikeluarkah daripada atau
+23L. Jika seseorang pelajar digantung atau
+
+<!-- marginal: daripada -->
+
+dibuang daripada Institut di bawah Akta ini,
+
+<!-- marginal: atau ditahan -->
+
+<!-- marginal: daripada -->
+
+Rektor—
+
+<!-- marginal: masuk ke -->
+
+<!-- marginal: datam Institut -->
+
+(a) hendaklah mengambil atau menyebabkan
+
+<!-- marginal: akan pelajar -->
+
+diambil segala langkah yang perlu untuk
+
+<!-- marginal: yang -->
+
+<!-- marginal: digantung -->
+
+memastikan atau mendapatkan supaya
+
+<!-- marginal: atau dibuang. -->
+
+pelajar itir dikeluarkah daripada atau
 
 <!-- page 38 -->
 
 ditahan daripada masuk ke dalam Institut dengan bantuan mana-mana kakitangan Institut; dan
 
-(b) boleh meminta mana-mana pegawai polis membantu dalam memastikan atau mendapatkan supaya pelajar itu dikeluarkan daripada atau ditahan daripada masuk ke dalam Institut; dan pegawai polis itu boleh, atas permintaan itu, bagi maksud itu, menggunakan apa- apa kekerasan yang munasabah atau selainnya sebagaimana yang perlu ke atas pelajar itu atau mana-mana orang lain.".
+(b) boleh meminta mana-mana pegawai polis membantu dalam memastikan atau mendapatkan supaya pelajar
 
-Pindaan
+<!-- marginal: itu -->
 
-31. Seksyen 24 Akta ibu adalah dipinda— seksyen 24.
+dikeluarkan daripada atau ditahan daripada masuk ke dalam Institut; dan pegawai polis itu boleh, atas permintaan itu, bagi maksud itu, menggunakan apa- apa kekerasan yang munasabah atau selainnya sebagaimana yang perlu ke atas pelajar itu atau mana-mana orang lain.".
+
+<!-- marginal: Pindaan -->
+
+31. Seksyen 24 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 24. -->
 
 (a) dalam subseksyen (2)—
 
@@ -1042,15 +1400,23 @@ Pindaan
 
 102." dengan rujukan birai "Akta 372.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-32. Subseksyen 28(1) Akta ibu adalah dipinda dengan seksyen 28. memasukkan selepas perkataan "berwasiat" perkataan "subsidi, legasi".
+32. Subseksyen 28(1) Akta ibu adalah dipinda dengan
 
-33. Akta ibu adalah dipinda dengan memasukkan selepas baru 28A. seksyen 28 seksyen yang berikut:
+<!-- marginal: seksyen 28. -->
 
-Pengenaan
+memasukkan selepas perkataan "berwasiat" perkataan "subsidi, legasi".
 
-28A. (1) Seseorang yang merupakan atau surcaj. pernah menjadi kakitangan Institut boleh disurcaj
+<!-- marginal: Seksyen -->
+
+33. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 28A. -->
+
+seksyen 28 seksyen yang berikut:
+
+Pengenaan 28A. (1) Seseorang yang merupakan atau surcaj. pernah menjadi kakitangan Institut boleh disurcaj
 
 <!-- page 39 -->
 
@@ -1092,9 +1458,7 @@ daripada jumlah gaji bulanan atau pencen, mengikut mana-mana yang berkenaan, ora
 
 (7) Dalam apa-apa tindakan surcaj terhadap Rektor, keanggotaan Lembaga bagi maksud subseksyen (1) hingga (6) tidak termasuk Rektor.
 
-(8) Bagi maksud perenggan (d) subseksyen
-
-(1), "pegawai perakaunan" termasuklah tiap- tiap kakitangan Institut yang dipertanggungkan dengan kewajipan memungut, menerima, atau mengakaunkan, atau yang sebenarnya memungut, menerima atau mengakaunkan, apa-apa wang Institut, atau yang dipertanggungkan dengan kewajipan membayar, atau yang sebenarnya membayar, apa-apa wang itu, dan tiap-tiap kakitangan yang dipertanggungkan untuk menerima, menjaga atau melupuskan, atau mengakaunkan, apa-apa wang, setem, sekuriti, barang simpanan atau harta Institut atau yang sebenarnya menerima, memegang atau melupuskan wang, setem, sekuriti, barang simpanan atau harta itu.".
+(8) Bagi maksud perenggan (d) subseksyen (1), "pegawai perakaunan" termasuklah tiap- tiap kakitangan Institut yang dipertanggungkan dengan kewajipan memungut, menerima, atau mengakaunkan, atau yang sebenarnya memungut, menerima atau mengakaunkan, apa-apa wang Institut, atau yang dipertanggungkan dengan kewajipan membayar, atau yang sebenarnya membayar, apa-apa wang itu, dan tiap-tiap kakitangan yang dipertanggungkan untuk menerima, menjaga atau melupuskan, atau mengakaunkan, apa-apa wang, setem, sekuriti, barang simpanan atau harta Institut atau yang sebenarnya menerima, memegang atau melupuskan wang, setem, sekuriti, barang simpanan atau harta itu.".
 
 <!-- marginal: Pindaan -->
 
@@ -1126,15 +1490,37 @@ Kuasa 29A, (1) Menteri boleh, tertakluk kepada apa- Menteri apa syarat, batasan 
 
 (b) tidaklah menghalang Menteri dari- pada menjalankan, menunaikan, atau melaksanakan kuasa, kewajipan atau tugas yang diwakilkan itu sendiri dalam apa-apa hal jika didapatinya suai-manfaat dia berbuat sedemi- kian.".
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
-36. Akta ibu adalah dipinda dengan memasukkan selepas 34A dan 34B. seksyen 34 seksyen yang berikut:
+36. Akta ibu adalah dipinda dengan memasukkan selepas
 
-Perbuatan
+<!-- marginal: 34A dan 34B. -->
 
-34A. Tiada tindakan atau guaman boleh atau dimulakan atau dikekalkan di dalam mana-mana pening- mahkamah terhadap— galan yang dilakukan
+seksyen 34 seksyen yang berikut:
 
-(a) Lembaga; dengan suci hati.
+<!-- marginal: Perbuatan -->
+
+34A. Tiada tindakan atau guaman boleh
+
+<!-- marginal: atau -->
+
+dimulakan atau dikekalkan di dalam mana-mana
+
+<!-- marginal: pening- -->
+
+mahkamah terhadap—
+
+<!-- marginal: galan -->
+
+<!-- marginal: yang -->
+
+<!-- marginal: dilakukan -->
+
+(a) Lembaga;
+
+<!-- marginal: dengan -->
+
+<!-- marginal: suci hati. -->
 
 (b) anggota Lembaga;
 
@@ -1152,9 +1538,13 @@ Perbuatan
 
 bagi apa-apa perbuatan atau peninggalan yang dilakukan dengan suci hati dalam menjalankan atau menunaikan kuasa atau kewajipannya di bawah Akta ini dengan kepercayaan munasabah bahawa tindakan itu adalah perlu bagi maksud yang diniatkan untuk dicapai melaluinya.
 
-Penyam-
+<!-- marginal: Penyam- -->
 
-34B. (1) Penyampaian apa-apa notis di bawah paian. Akta ini atau mana-mana kaedah yang dibuat di bawahnya hendaklah dilaksanakan melalui
+34B. (1) Penyampaian apa-apa notis di bawah
+
+<!-- marginal: paian. -->
+
+Akta ini atau mana-mana kaedah yang dibuat di bawahnya hendaklah dilaksanakan melalui
 
 <!-- page 43 -->
 
@@ -1194,17 +1584,23 @@ pos berdaftar kepada orang yang terjejas olehnya dan hendaklah disifatkan telah 
 
 "(ea) apa-apa perkara yang ber- hubungan dengan JPP dan badan pelajar lain;".
 
-Jadual baru
+<!-- marginal: Jadual baru -->
 
-38. Akta ibu adalah dipinda dengan memasukkan selepas Pertama. seksyen 47 Jadual yang berikut: Kedua dan Ketiga.
+38. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: Pertama. -->
+
+seksyen 47 Jadual yang berikut:
+
+<!-- marginal: Kedua dan -->
+
+<!-- marginal: Ketiga. -->
 
 ## "JADUAL PERTAMA
 
 (Perenggan (c) subseksyen (1) seksyen 4A)
 
-Kuasa Institut
-
-1. Institut hendaklah, pada atau sebelum tarikh mana- untuk membuat mana perbadanan ditubuhkan di bawah perenggan (c) kaedah-kaedah berkenaan subseksyen (1) seksyen 4A, menetapkan melalui kaedah- dengan kaedah— perbadanan
+Kuasa Institut 1. Institut hendaklah, pada atau sebelum tarikh mana- untuk membuat mana perbadanan ditubuhkan di bawah perenggan (c) kaedah-kaedah berkenaan subseksyen (1) seksyen 4A, menetapkan melalui kaedah- dengan kaedah— perbadanan
 
 (a) maksud dan tujuan yang baginya perbadanan itu ditubuhkan;
 
@@ -1214,17 +1610,11 @@ Kuasa Institut
 
 (d) hubungan antara perbadanan itu dengan Institut dan hak kawalan oleh Institut ke atas perbadanan itu.
 
-Kuatkuasa
+Kuatkuasa 2. Mana-mana kaedah yang dibuat di bawah perenggan kaedah-kaedah I hendaklah mengikat perbadanan yang berkenaan dengannya kaedah-kaedah itu dibuat dan hendaklah mempunyai kuatkuasa bagi segala maksud seolah-olah kaedah-kaedah itu dibuat di bawah Akta ini.
 
-2. Mana-mana kaedah yang dibuat di bawah perenggan kaedah-kaedah I hendaklah mengikat perbadanan yang berkenaan dengannya kaedah-kaedah itu dibuat dan hendaklah mempunyai kuatkuasa bagi segala maksud seolah-olah kaedah-kaedah itu dibuat di bawah Akta ini.
+Kuasa untuk 3. Institut boleh pada bila-bila masa meminda, meminda, dsb., membatalkan, atau menambah kepada, apa-apa kaedah kaedah-kaedah yang dibuat berkenaan dengan mana-mana perbadanan di bawah perenggan 1.
 
-Kuasa untuk
-
-3. Institut boleh pada bila-bila masa meminda, meminda, dsb., membatalkan, atau menambah kepada, apa-apa kaedah kaedah-kaedah yang dibuat berkenaan dengan mana-mana perbadanan di bawah perenggan 1.
-
-Penggulungan.
-
-4. (1) Institut boleh, dengan kelulusan Menteri, selepas berunding dengan Menteri Kewangan,. mengarahkan supaya mana-mana perbadanan yang ditubuhkan olehnya digulung dan dibubarkan.
+Penggulungan. 4. (1) Institut boleh, dengan kelulusan Menteri, selepas berunding dengan Menteri Kewangan,. mengarahkan supaya mana-mana perbadanan yang ditubuhkan olehnya digulung dan dibubarkan.
 
 (2) Apabila mana-mana perbadanan dibubarkan di bawah subperenggan (1), aset perbadanan itu hendaklah berpindah milik kepada dan terletakhak pada Institut selepas ditunaikan segala tanggungannya.
 
@@ -1232,9 +1622,19 @@ Penggulungan.
 
 (3) Penggulungan sesuatu perbadanan di bawah subperenggan (1) hendaklah dijalankan mengikut apa- apa cara yang ditetapkan oleh Institut.
 
-Perbadanan
+<!-- marginal: Perbadanan -->
 
-5. Tiap-tiap perbadanan yang ditubuhkan di bawah hendaklah perenggan (c) subseksyen (1) seksyen 4A— menjadi pertubuhan perbadanan
+5. Tiap-tiap perbadanan yang ditubuhkan di bawah
+
+<!-- marginal: hendaklah -->
+
+perenggan (c) subseksyen (1) seksyen 4A—
+
+<!-- marginal: menjadi -->
+
+<!-- marginal: pertubuhan -->
+
+<!-- marginal: perbadanan -->
 
 (a) hendaklah menjadi suatu pertubuhan perbadanan dengan apa-apa nama yang diberikan oleh Lembaga kepada perbadanan itu;
 
@@ -1252,9 +1652,13 @@ Perbadanan
 
 tertakluk kepada apa-apa sekatan atau batasan yang dinyatakan oleh Institut dalam setiap hal.
 
-Meterai biasa
+<!-- marginal: Meterai biasa -->
 
-6. (1) Tiap-tiap perbadanan hendaklah mempunyai perbadanan. suatu meterai biasa yang mengandungi apa-apa tanda yang ditentukan oleh perbadanan dengan kelulusan Institut.
+6. (1) Tiap-tiap perbadanan hendaklah mempunyai
+
+<!-- marginal: perbadanan. -->
+
+suatu meterai biasa yang mengandungi apa-apa tanda yang ditentukan oleh perbadanan dengan kelulusan Institut.
 
 (2) Meterai biasa itu boleh dari semasa ke semasa dipecahkan, ditukar, diubah atau dibuat baharu sebagaimana yang difikirkan patut oleh perbadanan dengan kelulusan Institut.
 
@@ -1274,9 +1678,13 @@ Meterai biasa
 
 (Seksyen 13)
 
-Hilang
+<!-- marginal: Hilang -->
 
-1. Orang yang berikut hilang kelayakan untuk dilantik kelayakan. sebagai atau untuk menjadi anggota Lembaga:
+1. Orang yang berikut hilang kelayakan untuk dilantik
+
+<!-- marginal: kelayakan. -->
+
+sebagai atau untuk menjadi anggota Lembaga:
 
 (a) jika telah dibuktikan terhadapnya, atau dia telah disabitkan atas, suatu pertuduhan berkenaan dengan— (i) kesalahan yang melibatkan fraud, kecurangan atau keburukan akhlak; (ii) kesalahan di bawah undang-undang berhubungan dengan rasuah; (iii) kesalahan di bawah Akta ini; atau (iv) apa-apa kesalahan lain yang boleh dihukum dengan pemenjaraan selama tempoh yang melebihi dua tahun;
 
@@ -1284,9 +1692,15 @@ Hilang
 
 (c) jika dia didapati atau diisytiharkan tak sempurna akal atau selainnya tak berupaya untuk menguruskan hal-ehwalnya.
 
-Terhenti
+<!-- marginal: Terhenti -->
 
-2. Seseorang anggota Lembaga hendaklah terhenti menjadi menjadi anggota— anggota
+2. Seseorang anggota Lembaga hendaklah terhenti
+
+<!-- marginal: menjadi -->
+
+menjadi anggota—
+
+<!-- marginal: anggota -->
 
 (a) jlka dia tidak menghadiri mesyuarat Lembaga tiga kali berturut-turut tanpa kebenaran Pengerusi; atau
 
@@ -1294,23 +1708,71 @@ Terhenti
 
 <!-- page 47 -->
 
-Peletakan 3. Seseorang anggota Lembaga boleh meletakkan jawatan jawatan. dengan memberi notis satu bulan secara bertulis kepada Pengerusi.
+<!-- marginal: Peletakan -->
 
-Pengisian 4. Jika mana-mana orang terhenti menjadi anggota kekosongan. Lembaga oleh sebab peruntukan-peruntukan Akta ini, seorang lain boleh dilantik oleh Menteri untuk mengisi kekosongan itu bagi baki tempoh yang baginya anggota itu dilantik.
+3. Seseorang anggota Lembaga boleh meletakkan jawatan
 
-5. Anggota-anggota Lembaga hendaklah dibayar apa- Elaun. apa elaun yang ditentukan oleh Menteri.
+<!-- marginal: jawatan. -->
 
-Mesyuarat 6. (1) Pengerusi hendaklah mempengerusikan mesyuarat Lembaga dan semasa ketiadaannya anggota-anggota Lembaga hendaklah melantik salah seorang daripada mereka untuk mempengerusikan mesyuarat itu.
+dengan memberi notis satu bulan secara bertulis kepada Pengerusi.
+
+<!-- marginal: Pengisian -->
+
+4. Jika mana-mana orang terhenti menjadi anggota
+
+<!-- marginal: kekosongan. -->
+
+Lembaga oleh sebab peruntukan-peruntukan Akta ini, seorang lain boleh dilantik oleh Menteri untuk mengisi kekosongan itu bagi baki tempoh yang baginya anggota itu dilantik.
+
+5. Anggota-anggota Lembaga hendaklah dibayar apa-
+
+<!-- marginal: Elaun. -->
+
+apa elaun yang ditentukan oleh Menteri.
+
+<!-- marginal: Mesyuarat -->
+
+6. (1) Pengerusi hendaklah mempengerusikan mesyuarat Lembaga dan semasa ketiadaannya anggota-anggota Lembaga hendaklah melantik salah seorang daripada mereka untuk mempengerusikan mesyuarat itu.
 
 (2) Pengerusi dan tiap-tiap anggota Lembaga hendaklah mempunyai dan boleh menggunakan satu undi setiap orang, tetapi dalam keadaan bilangan undi sama banyak, Pengerusi atau anggota yang mempengerusikan mesyuarat hendaklah mempunyai dan boleh menggunakan undi pemutus sebagai tambahan kepada undi asalnya.
 
-Lembaga 7. (1) Lembaga boleh mengundang mana-mana orang boleh menghadiri mesyuarat atau pertimbangtelitian Lembaga mengundang orang lain bagi maksud menasihatinya tentang apa-apa perkara yang menghadiri dibincangkan tetapi mana-mana orang yang hadir mesyuarat sedemikian tidaklah berhak mengundi pada mesyuarat atau pertimbangtelitian tersebut.
+<!-- marginal: Lembaga -->
 
-(2) Seseorang yang diundang di bawah subperenggan (1) hendaklah dibayar apa-apa elaun yang ditentukan oleh Lembaga.
+7. (1) Lembaga boleh mengundang mana-mana orang
 
-Minit 8. Apa-apa minit yang dibuat mengenai mesyuarat Lembaga hendaklah, jika ditandatangani dengan sewajarnya, diterima sebagai keterangan dalam segala prosiding undang-undang tanpa bukti selanjutnya dan tiap- tiap mesyuarat Lembaga yang berkenaan dengannya minit telah dibuat sedemikian hendaklah disifatkan telah dipanggil dan diadakan dengan sewajarnya dan semua anggota pada mesyuarat itu layak dengan sewajarnya untuk bertindak.
+<!-- marginal: boleh -->
 
-Pendedahan 9. (1) Seseorang anggota Lembaga yang, secara langsung kepentingan atau secara tak langsung, mempunyai sendiri atau melalui pekongsinya—
+menghadiri mesyuarat atau pertimbangtelitian Lembaga
+
+<!-- marginal: mengundang -->
+
+<!-- marginal: orang lain -->
+
+bagi maksud menasihatinya tentang apa-apa perkara yang
+
+<!-- marginal: menghadiri -->
+
+dibincangkan tetapi mana-mana orang yang hadir
+
+<!-- marginal: mesyuarat -->
+
+sedemikian tidaklah berhak mengundi pada mesyuarat atau pertimbangtelitian tersebut.
+
+(2) Seseorang yang diundang di bawah subperenggan
+
+(1) hendaklah dibayar apa-apa elaun yang ditentukan oleh Lembaga.
+
+<!-- marginal: Minit -->
+
+8. Apa-apa minit yang dibuat mengenai mesyuarat Lembaga hendaklah, jika ditandatangani dengan sewajarnya, diterima sebagai keterangan dalam segala prosiding undang-undang tanpa bukti selanjutnya dan tiap- tiap mesyuarat Lembaga yang berkenaan dengannya minit telah dibuat sedemikian hendaklah disifatkan telah dipanggil dan diadakan dengan sewajarnya dan semua anggota pada mesyuarat itu layak dengan sewajarnya untuk bertindak.
+
+<!-- marginal: Pendedahan -->
+
+9. (1) Seseorang anggota Lembaga yang, secara langsung
+
+<!-- marginal: kepentingan -->
+
+atau secara tak langsung, mempunyai sendiri atau melalui pekongsinya—
 
 (a) apa-apa kepentingan dalam mana-mana syarikat atau pengusahaan yang dengannya Lembaga bercadang hendak membuat sesuatu kontrak; atau
 
@@ -1322,7 +1784,17 @@ hendaklah mendedahkan hakikat dan jenis kepentingannya itu kepada Lembaga.
 
 (2) Sesuatu pendedahan di bawah subperenggan (1) hendaklah direkodkan dalam minit Lembaga dan, melainkan jika dibenarkan secara khusus oleh Pengerusi, anggota itu tidak boleh mengambil bahagian dalam apa- apa pertimbangtelitian atau keputusan Lembaga yang berhubungan dengan kontrak atau perkara itu.
 
-Kesahan 10. Tiada perbuatan yang dilakukan atau prosiding yang perbuatan dan diambil di bawah Akta ini boleh dipersoalkan atas alasan prosiding bahawa—
+<!-- marginal: Kesahan -->
+
+10. Tiada perbuatan yang dilakukan atau prosiding yang
+
+<!-- marginal: perbuatan dan -->
+
+diambil di bawah Akta ini boleh dipersoalkan atas alasan
+
+<!-- marginal: prosiding -->
+
+bahawa—
 
 (a) ada apa-apa kekosongan dalam keanggotaan, atau ada apa-apa kecacatan dalam penubuhan, Lembaga;
 
@@ -1336,9 +1808,15 @@ Kesahan 10. Tiada perbuatan yang dilakukan atau prosiding yang perbuatan dan dia
 
 ## JAWATANKUASA PERWAKILAN PELAJAR
 
-Pemilihan JPP 1. Dalam memilih suatu Jawatankuasa Perwakilan Pelajar, pelajar-pelajar setiap lapangan tertentu hendaklah memilih, melalui undi rahsia yang dijalankan oleh Rektor, apa-apa bilangan pelajar yang belajar dalam lapangan masing-masing yang sama banyak sebagaimana yang ditentukan oleh Rektor untuk menjadi wakil dalam JPP; dan pembahagian pendidikan yang diadakan di Institut kepada pelbagai lapangan pengajian bagi maksud perenggan ini hendaklah dibuat oleh Rektor,
+<!-- marginal: Pemilihan JPP -->
 
-Pemegang 2. JPP hendaklah melantik dari kalangan anggotanya— jawatan JPP.
+1. Dalam memilih suatu Jawatankuasa Perwakilan Pelajar, pelajar-pelajar setiap lapangan tertentu hendaklah memilih, melalui undi rahsia yang dijalankan oleh Rektor, apa-apa bilangan pelajar yang belajar dalam lapangan masing-masing yang sama banyak sebagaimana yang ditentukan oleh Rektor untuk menjadi wakil dalam JPP; dan pembahagian pendidikan yang diadakan di Institut kepada pelbagai lapangan pengajian bagi maksud perenggan ini hendaklah dibuat oleh Rektor,
+
+<!-- marginal: Pemegang -->
+
+2. JPP hendaklah melantik dari kalangan anggotanya—
+
+<!-- marginal: jawatan JPP. -->
 
 (a) seorang Yang Dipertua;
 
@@ -1356,13 +1834,51 @@ Pemegang 2. JPP hendaklah melantik dari kalangan anggotanya— jawatan JPP.
 
 dan pemegang-pemegang jawatan itu sahajalah pemegang- pemegang jawatan dalam JPP itu.
 
-Tempoh 3. Anggota-anggota JPP dan pemegang-pemegang jawatan JPP jawatannya hendaklah dipilih bagi tempoh satu tahun. dan pemegang jawatannya. Kepulusan 4. Keputusan-keputusan JPP hendaklah diambil dengan dengan undi undi lebih suara tidak kurang daripada dua pertiga daripada lebih suara anggota-anggota yang hadir dan mengundi.
+<!-- marginal: Tempoh -->
 
-Jawatankuasa 5. JPP boleh menubuhkan, dari semasa ke semasa, ad hoc dengan terlebih dahulu mendapat kelulusan bertulis Rektor, jawatankuasa-jawatankuasa ad hoc dari kalangan anggotanya bagi maksud-maksud atau tujuan-tujuan tertentu.
+3. Anggota-anggota JPP dan pemegang-pemegang
 
-Hilang 6. (1) Tiada pelajar— kelayakan berkenaan
+<!-- marginal: jawatan JPP -->
 
-(a) yang terhadapnya prosiding tatatertib belum dengan JPP diputuskan; atau
+jawatannya hendaklah dipilih bagi tempoh satu tahun.
+
+<!-- marginal: dan pemegang -->
+
+<!-- marginal: jawatannya. -->
+
+<!-- marginal: Kepulusan -->
+
+4. Keputusan-keputusan JPP hendaklah diambil dengan
+
+<!-- marginal: dengan undi -->
+
+undi lebih suara tidak kurang daripada dua pertiga daripada
+
+<!-- marginal: lebih suara -->
+
+anggota-anggota yang hadir dan mengundi.
+
+<!-- marginal: Jawatankuasa -->
+
+5. JPP boleh menubuhkan, dari semasa ke semasa,
+
+<!-- marginal: ad hoc -->
+
+dengan terlebih dahulu mendapat kelulusan bertulis Rektor, jawatankuasa-jawatankuasa ad hoc dari kalangan anggotanya bagi maksud-maksud atau tujuan-tujuan tertentu.
+
+<!-- marginal: Hilang -->
+
+6. (1) Tiada pelajar—
+
+<!-- marginal: kelayakan -->
+
+<!-- marginal: berkenaan -->
+
+(a) yang terhadapnya prosiding tatatertib belum
+
+<!-- marginal: dengan JPP -->
+
+diputuskan; atau
 
 (b) yang telah didapati bersalah atas suatu kesalahan tatatertib,
 
@@ -1376,7 +1892,11 @@ boleh dipilih atau terus menjadi anggota JPP melainkan jika dibenarkan secara be
 
 sebelum sahaja mana-mana pemilihan yang dicadangkan bagi JPP atau oleh JPP adalah hilang kelayakan untuk dipilih dalam pemilihan atau pemilihan-pemilihan itu.
 
-Tujuan dan 7. Tujuan-tujuan dan tugas-tugas JPP adalah— tugas JPP.
+<!-- marginal: Tujuan dan -->
+
+7. Tujuan-tujuan dan tugas-tugas JPP adalah—
+
+<!-- marginal: tugas JPP. -->
 
 (a) untuk membantu dan menggalakkan, tertakluk kepada arahan Rektor, kemajuan kemudahan- kemudahan bagi pelajar-pelajar seperti kemudahan-kemudahan rekreasi dan pembekalan makanan dan minuman;
 
@@ -1386,9 +1906,11 @@ Tujuan dan 7. Tujuan-tujuan dan tugas-tugas JPP adalah— tugas JPP.
 
 (c) untuk mengusahakan apa-apa aktiviti lain yang ditentukan oleh Rektor dari semasa ke semasa.
 
-Perbelanjaan
+<!-- marginal: Perbelanjaan -->
 
-8. (1) JPP tidak boleh— JPP
+8. (1) JPP tidak boleh—
+
+<!-- marginal: JPP -->
 
 (a) menyenggarakan apa-apa kumpulanwang; atau
 
@@ -1398,11 +1920,15 @@ daripada apa-apa sumber.
 
 (2) Apa-apa perbelanjaan yang munasabah yang dibenarkan terlebih dahulu secara bertulis oleh Rektor untuk dilakukan oleh JPP boleh dibayar oleh Institut jika tuntutan-tuntutan bertulis yang munasabah yang disokong dengan resit-resit dan baucer-baucer dikemukakan oleh JPP kepada, dan diluluskan oleh, Rektor.
 
-9. (1) Bendahari hendaklah menyimpan akaun-akaun JPP Akaun JPP yang sewajarnya yang hendaklah diaudit oleh seseorang yang dilantik oleh Rektor.
+9. (1) Bendahari hendaklah menyimpan akaun-akaun JPP
+
+<!-- marginal: Akaun JPP -->
+
+yang sewajarnya yang hendaklah diaudit oleh seseorang yang dilantik oleh Rektor.
 
 (2) Sesuatu salinan akaun yang disimpan di bawah subperenggan (1) hendaklah dikemukakan oleh JPP kepada Rektor untuk mendapatkan kelulusan Rektor tidak lewat daripada tiga bulan selepas berakhirnya setiap tahun kewangan, iaitu tahun kewangan sebagaimana yang ditentukan oleh Rektor.
 
-Mesyuarat JPP.
+<!-- marginal: Mesyuarat JPP. -->
 
 10. (1) JPP hendaklah mengadakan mesyuarat dari semasa ke semasa sebagaimana yang difikirkannya perlu dan adalah menjadi kewajipan Setiausaha menyimpan minit tiap-tiap mesyuarat JPP dan minit itu hendaklah disahkan pada suatu mesyuarat yang berikutnya.
 
@@ -1414,9 +1940,25 @@ Mesyuarat JPP.
 
 <!-- page 51 -->
 
-Pemeriksaan 11. Rekod-rekod JPP atau rekod-rekod sesuatu rekod. jawaiankuasa ad hoc JPP hendaklah sentiasa terbuka untuk diperiksa oleh Rektor atau wakilnya.
+<!-- marginal: Pemeriksaan -->
 
-Pertikaian 12. (1) Jika apa-apa pertikaian timbul tentang sama tentang ada mana-mana anggota atau pemegang jawatan JPP pemilihan. atau tentang sesuatu jawatankuasa ad hoc JPP—
+11. Rekod-rekod JPP atau rekod-rekod sesuatu
+
+<!-- marginal: rekod. -->
+
+jawaiankuasa ad hoc JPP hendaklah sentiasa terbuka untuk diperiksa oleh Rektor atau wakilnya.
+
+<!-- marginal: Pertikaian -->
+
+12. (1) Jika apa-apa pertikaian timbul tentang sama
+
+<!-- marginal: tentang -->
+
+ada mana-mana anggota atau pemegang jawatan JPP
+
+<!-- marginal: pemilihan. -->
+
+atau tentang sesuatu jawatankuasa ad hoc JPP—
 
 (a) telah dipilih atau dilantik dengan sewajarnya, mengikut mana-mana yang berkenaan; atau
 
@@ -1426,7 +1968,17 @@ maka pertikaian itu hendaklah diputuskan oleh Rektor atau oleh seseorang yang di
 
 (2) Keputusan Rektor atau keputusan orang yang dilantik olehnya di bawah subperenggan (1) adalah muktamad.
 
-Takrif "pelajar" 13. (1) Bagi maksud Jadual ini, "pelajar" tidak termasuk bagi maksud seseorang pegawai awam yang mengikuti kursus pengajian Jadual ini di Institut.
+<!-- marginal: Takrif "pelajar" -->
+
+13. (1) Bagi maksud Jadual ini, "pelajar" tidak termasuk
+
+<!-- marginal: bagi maksud -->
+
+seseorang pegawai awam yang mengikuti kursus pengajian
+
+<!-- marginal: Jadual ini -->
+
+di Institut.
 
 (2) Seseorang hendaklah terhenti daripada menjadi pelajar mengikut pengertian perenggan ini—
 

@@ -58,11 +58,13 @@ III
 
 <!-- page 2 -->
 
-14. Pihak Berkuasa boleh membenarkan pembinaan bangunan-bangunan persendirian, dsb. 15. Kemasukan dan pemastautinan dalam
+14. Pihak Berkuasa boleh membenarkan pembinaan bangunan-bangunan persendirian, dsb.
 
-<!-- marginal: suatu zon -->
+15. Kemasukan dan pemastautinan dalam suatu zon perindustrian bebas.
 
-perindustrian bebas. 16. Penyingkiran barang-barang tertentu, dsb. 17. Laporan-laporan Tahunan dan akaun-akaun.
+16. Penyingkiran barang-barang tertentu, dsb.
+
+17. Laporan-laporan Tahunan dan akaun-akaun.
 
 ## BAHAGIAN
 
@@ -76,7 +78,39 @@ IV
 
 ## DAN PROSIDING
 
-18. Orang-orang yang terikat untuk memberi maklumat. 19. Penalti bagi kesalahan yang selainnya tidak diperuntukkan dengan nyata. 20. Percubaan dan persubahatan. 21. Mengeluarkan waran geledah. 22. Bila penggeledahan boleh dibuat tanpa waran. 23. Pegawai-pegawai kastam boleh menahan dan meng- geledah kenderaan. 24. Kuasa untuk membuka bungkusan dan memeriksa barang- barang. 25. Pemeriksaan orang-orang yang memasuki dan keluar dari zon bebas. 26. Penyitaan barang-barang yang menjadi subjek sesuatu kesalahan. 27. Pemulangan atau pelupusan harta alih. 28. Kuasa tangkapan. 29. Peruntukan-peruntukan berkaitan dengan penangkapan tanpa waran. 30. Siapa yang boleh mendakwa. 31. Perlindungan bagi pemberi maklumat daripada diketahui. 32. Kesalahan oleh kumpulan orang, dan oleh pengkhidmat- pengkhidmat dan ejen-ejen. 33. Mengkompaun kesalahan. 34. Perlindungan bagi Kerajaan daripada liabiliti. 35. Perlindungan bagi pegawai kastam daripada liabiliti.
+18. Orang-orang yang terikat untuk memberi maklumat. 19. Penalti bagi kesalahan yang selainnya tidak diperuntukkan dengan nyata.
+
+20. Percubaan dan persubahatan.
+
+21. Mengeluarkan waran geledah.
+
+22. Bila penggeledahan boleh dibuat tanpa waran.
+
+23. Pegawai-pegawai kastam boleh menahan dan meng- geledah kenderaan.
+
+24. Kuasa untuk membuka bungkusan dan memeriksa barang- barang.
+
+25. Pemeriksaan orang-orang yang memasuki dan keluar dari zon bebas.
+
+26. Penyitaan barang-barang yang menjadi subjek sesuatu kesalahan.
+
+27. Pemulangan atau pelupusan harta alih.
+
+28. Kuasa tangkapan.
+
+29. Peruntukan-peruntukan berkaitan dengan penangkapan tanpa waran.
+
+30. Siapa yang boleh mendakwa.
+
+31. Perlindungan bagi pemberi maklumat daripada diketahui.
+
+32. Kesalahan oleh kumpulan orang, dan oleh pengkhidmat- pengkhidmat dan ejen-ejen.
+
+33. Mengkompaun kesalahan.
+
+34. Perlindungan bagi Kerajaan daripada liabiliti.
+
+35. Perlindungan bagi pegawai kastam daripada liabiliti.
 
 <!-- page 3 -->
 
@@ -86,13 +120,19 @@ IV
 
 38. Barang-barang yang boleh dilucuthak.
 
-39. Mahkamah hendaklah memerintah perlucuthakan dan pelupusan barang-barang yang disita. 40. Barang-barang yang disita yang berkenaan dengannya tiada apa-apa pendakwaan. 41. Barang-barang yang disita boleh diserahkan kepada pemunya atau orang lain.
+39. Mahkamah hendaklah memerintah perlucuthakan dan pelupusan barang-barang yang disita.
+
+40. Barang-barang yang disita yang berkenaan dengannya tiada apa-apa pendakwaan.
+
+41. Barang-barang yang disita boleh diserahkan kepada pemunya atau orang lain.
 
 ## BAHAGIAN V
 
 ## PERUNTUKAN-PERUNTUKAN PELBAGAI
 
-42. Vesel berkaitan dengan zon bebas. 43. Pegawai kastam yang hak boleh mengambil sampel.
+42. Vesel berkaitan dengan zon bebas.
+
+43. Pegawai kastam yang hak boleh mengambil sampel.
 
 44. Pengkhidmat awam.
 
@@ -100,17 +140,23 @@ IV
 
 46. Rayuan atas keputusan Pihak Berkuasa atau Ketua Pengarah.
 
-47. Kuasa membuat peraturan-peraturan. 48. Kuasa untuk mewakil.
+47. Kuasa membuat peraturan-peraturan.
+
+48. Kuasa untuk mewakil.
 
 ## BAHAGIAN VI
 
 ## PINDAAN-PINDAAN DAN PEMANSUHAN
 
-49. Pindaan-pindaan dan pemansuhan. 50. Zon perdagangan bebas disifatkan sebagai
+49. Pindaan-pindaan dan pemansuhan.
+
+50. Zon perdagangan bebas disifatkan sebagai
 
 <!-- marginal: zon -->
 
-perindustrian bebas. 51. Menteri boleh membatalkan mana-mana pengisytiharan atau perintah.
+perindustrian bebas.
+
+51. Menteri boleh membatalkan mana-mana pengisytiharan atau perintah.
 
 ## JADUAL PERTAMA
 
@@ -162,13 +208,29 @@ UNDANG oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong denga
 
 <!-- page 6 -->
 
-"cukai jualan" ertinya apa-apa cukai yang dikenakan Akta 64. oleh atau di bawah Akta Cukai Jualan 1972;
+"cukai jualan" ertinya apa-apa cukai yang dikenakan
 
-"cukai perkhidmatan" ertinya apa-apa cukai yang Akta 151. dikenakan oleh atau di bawah Akta Cukai Perkhidmatan 1975;
+<!-- marginal: Akta 64. -->
 
-"duti eksais" ertinya apa-apa duti yang dikenakan Akta 176. oleh atau di bawah Akta Eksais 1976;
+oleh atau di bawah Akta Cukai Jualan 1972;
 
-"duti kastam" ertinya apa-apa duti yang dikenakan Akta 235. oleh atau di bawah Akta Kastam 1967;
+"cukai perkhidmatan" ertinya apa-apa cukai yang
+
+<!-- marginal: Akta 151. -->
+
+dikenakan oleh atau di bawah Akta Cukai Perkhidmatan 1975;
+
+"duti eksais" ertinya apa-apa duti yang dikenakan
+
+<!-- marginal: Akta 176. -->
+
+oleh atau di bawah Akta Eksais 1976;
+
+"duti kastam" ertinya apa-apa duti yang dikenakan
+
+<!-- marginal: Akta 235. -->
+
+oleh atau di bawah Akta Kastam 1967;
 
 "kawasan utama kastam" ertinya mana-mana bahagian Malaysia tetapi tidak termasuk zon bebas, Labuan dan Langkawi;
 
@@ -176,9 +238,7 @@ UNDANG oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong denga
 
 "Langkawi" hendaklah mempunyai pengertian yang sama seperti yang diberikan kepadanya di bawah seksyen 163A Akta Kastam 1967;
 
-"Menteri" ertinya Menteri
-
-<!-- marginal: yang -->
+"Menteri" ertinya Menteri yang
 
 <!-- marginal: sedang -->
 
@@ -222,15 +282,81 @@ khidmatan 1975;
 
 <!-- page 8 -->
 
-Perisy- 3. (1) Menteri boleh melalui pemberitahuan dalam tiharan Warta, mengisytiharkan mana-mana kawasan dalam zon-zon Malaysia sebagai suatu zon perdagangan bebas atau bebas dan perlan- zon perindustrian bebas dan setiap pemberitahuan itu tikan Pihak hendaklah mentakrifkan had-had zon itu. Berkuasa. (2) Menteri boleh melantik mana-mana badan berkanun yang ditubuhkan atau diwujudkan oleh atau di bawah suatu undang-undang Persekutuan atau mana-mana jabatan bagi Kerajaan Malaysia atau dengan persetujuan Negeri yang berkenaan, mana- mana badan berkanun yang ditubuhkan atau dibentuk oleh atau di bawah suatu undang-undang Negeri atau mana-mana jabatan Kerajaan bagi suatu Negeri atau mana-mana syarikat sebagai Pihak Berkuasa untuk mentadbir, menyenggara dan mengendali mana-mana zon bebas yang telah diisytiharkan sedemikian di bawah subseksyen (1).
+<!-- marginal: Perisy- -->
+
+3. (1) Menteri boleh melalui pemberitahuan dalam
+
+<!-- marginal: tiharan -->
+
+Warta, mengisytiharkan mana-mana kawasan dalam
+
+<!-- marginal: zon-zon -->
+
+Malaysia sebagai suatu zon perdagangan bebas atau
+
+<!-- marginal: bebas -->
+
+<!-- marginal: dan perlan- -->
+
+zon perindustrian bebas dan setiap pemberitahuan itu
+
+<!-- marginal: tikan Pihak -->
+
+hendaklah mentakrifkan had-had zon itu.
+
+<!-- marginal: Berkuasa. -->
+
+(2) Menteri boleh melantik mana-mana badan berkanun yang ditubuhkan atau diwujudkan oleh atau di bawah suatu undang-undang Persekutuan atau mana-mana jabatan bagi Kerajaan Malaysia atau dengan persetujuan Negeri yang berkenaan, mana- mana badan berkanun yang ditubuhkan atau dibentuk oleh atau di bawah suatu undang-undang Negeri atau mana-mana jabatan Kerajaan bagi suatu Negeri atau mana-mana syarikat sebagai Pihak Berkuasa untuk mentadbir, menyenggara dan mengendali mana-mana zon bebas yang telah diisytiharkan sedemikian di bawah subseksyen (1).
 
 ## BAHAGIAN II
 
 ## AKTIVITI YANG DIBENARKAN DALAM ZON BEBAS
 
-Barang" 4. Tertakluk kepada Akta ini apa-apa jenis barang- barang barang dan perkhidmatan kecuali bagi yang dilarang dan perkhid dengan tertentu dan mutlalc oleh undang-undang, matan dalan zon bebas. boleh dibawa masuk, dikeluarkan, dihasilkan atau dibekalkan dalam suatu zon bebas tanpa bayaran apa- apa duti kastam, duti eksais, cukai jualan atau cukai perkhidmatan.
+<!-- marginal: Barang" -->
 
-Urusan 5. (1) Melainkan jika diperuntukkan selainnya di mengenai bawah Akta ini atau mana-mana peraturan di atau bawahnya tiada seorang pun boleh berurusan dengan pelupusan barang- atau selainnya melupuskan apa-apa barang dalam zon barang bebas. dalam zon bebas. (2) Tertakluk kepada peruntukan-peruntukan Akta ini, barang-barang dalam suatu zon bebas bolehlah—
+4. Tertakluk kepada Akta ini apa-apa jenis barang-
+
+<!-- marginal: barang -->
+
+barang dan perkhidmatan kecuali bagi yang dilarang
+
+<!-- marginal: dan perkhid -->
+
+dengan tertentu dan mutlalc oleh undang-undang,
+
+<!-- marginal: matan dalan -->
+
+<!-- marginal: zon bebas. -->
+
+boleh dibawa masuk, dikeluarkan, dihasilkan atau dibekalkan dalam suatu zon bebas tanpa bayaran apa- apa duti kastam, duti eksais, cukai jualan atau cukai perkhidmatan.
+
+<!-- marginal: Urusan -->
+
+5. (1) Melainkan jika diperuntukkan selainnya di
+
+<!-- marginal: mengenai -->
+
+bawah Akta ini atau mana-mana peraturan di
+
+<!-- marginal: atau -->
+
+bawahnya tiada seorang pun boleh berurusan dengan
+
+<!-- marginal: pelupusan -->
+
+<!-- marginal: barang- -->
+
+atau selainnya melupuskan apa-apa barang dalam zon
+
+<!-- marginal: barang -->
+
+bebas.
+
+<!-- marginal: dalam -->
+
+<!-- marginal: zon bebas. -->
+
+(2) Tertakluk kepada peruntukan-peruntukan Akta ini, barang-barang dalam suatu zon bebas bolehlah—
 
 (a) dipindahkan dari zon bebas itu untuk eksport atau dihantar ke dalam suatu zon bebas yang lain sama ada dalam bungkusan asal atau selainnya;
 
@@ -248,7 +374,9 @@ selainnya dikendelat atau dikilang me- ngikut peruntukan-peruntukan Akta ini, at
 
 (c) dengan kelulusan Pihak Berkuasa, dan tertakiuk kepada syarat-syarat yang boleh dikenakan olehnya dihantar ke dalam mana- mana bahagian kawasan utama kastam dalam bungkusan asal dengan syarat bahawa Pihak Berkuasa hendaklah berunding dengan Ketua Pengarah sebelum pemindahan barang-barang itu dibenarkan.
 
-(3) Peruntukan-peruntukan seksyen ini tidaklah terpakai kepada barang-barang yang dikecualikan oleh perintah yang dibuat di bawah subseksyen (1) seksyen 6.
+(3) Peruntukan-peruntukan seksyen ini tidaklah terpakai kepada barang-barang yang dikecualikan oleh perintah yang dibuat di bawah subseksyen (1) seksyen
+
+6.
 
 <!-- marginal: Penge- -->
 
@@ -298,15 +426,57 @@ barang dan perkhidmatan yang dikecualikan sedemikian seolah-olah zon bebas itu a
 
 <!-- page 10 -->
 
-Barang- 7. Melainkan jika diperuntukkan selainnya di bawah barang Akta ini atau mana-mana peraturan di bawahnya atau disifatkan di bawah mana-mana undang-undang bertulis yang dieksport dari atau lain— diimport ke dalam
+<!-- marginal: Barang- -->
 
-(a) barang-barang yang dibawa keluar dari mana- Malaysia. mana bahagian kawasan utama kastam dan di- bawa ke dalam suatu zon bebas hendaklah disifatkan sebagai dieksport dari Malaysia; dan
+7. Melainkan jika diperuntukkan selainnya di bawah
+
+<!-- marginal: barang -->
+
+Akta ini atau mana-mana peraturan di bawahnya atau
+
+<!-- marginal: disifatkan -->
+
+di bawah mana-mana undang-undang bertulis yang
+
+<!-- marginal: dieksport -->
+
+<!-- marginal: dari atau -->
+
+lain—
+
+<!-- marginal: diimport -->
+
+<!-- marginal: ke dalam -->
+
+(a) barang-barang yang dibawa keluar dari mana-
+
+<!-- marginal: Malaysia. -->
+
+mana bahagian kawasan utama kastam dan di- bawa ke dalam suatu zon bebas hendaklah disifatkan sebagai dieksport dari Malaysia; dan
 
 (b) barang-barang yang dibawa keluar dari suatu zon bebas dan dibawa ke dalam mana-mana bahagian kawasan utama kastam hendaklah disifatkan sebagai diimport ke dalam Malaysia.
 
-Barang- 8. (1) Barang-barang yang dikilang dalam suatu zon barang perindustrian bebas tidak boleh dibawa keluar dari zon yang di- itu kecuali— kilang dalam zon perindustrian
+<!-- marginal: Barang- -->
 
-(a) untuk eksport; atau bebas.
+8. (1) Barang-barang yang dikilang dalam suatu zon
+
+<!-- marginal: barang -->
+
+perindustrian bebas tidak boleh dibawa keluar dari zon
+
+<!-- marginal: yang di- -->
+
+itu kecuali—
+
+<!-- marginal: kilang -->
+
+<!-- marginal: dalam zon -->
+
+<!-- marginal: perindustrian -->
+
+(a) untuk eksport; atau
+
+<!-- marginal: bebas. -->
 
 (b) dengan kelulusan Pihak Berkuasa dan selepas berunding dengan Ketua Pengarah dan, tertakluk kepada syarat-syarat yang boleh dikenakan, bagi pemindahan barang-barang itu ke suatu zon perdagangan bebas.
 
@@ -336,13 +506,61 @@ Dengan syarat bahawa jika nilai barang-barang itu tidak dapat ditentukan penalti
 
 <!-- page 12 -->
 
-Barang-
+<!-- marginal: Barang- -->
 
-11. (1) Tertakluk kepada Akta ini, barang-barang barang daripada apa-apa jenis yang akan digunakan secara yang di- langsung untuk pengilangan barang-barang lain dan benarkan ke dalam adalah diluluskan oleh Menteri atau barang-barang zon per- yang dikilangkan di mana-mana bahagian kawasan industrian bebas. utama kastam yang adalah untuk eksport bolehlah dibawa ke dalam suatu zon perindustrian bebas.
+11. (1) Tertakluk kepada Akta ini, barang-barang
+
+<!-- marginal: barang -->
+
+daripada apa-apa jenis yang akan digunakan secara
+
+<!-- marginal: yang di- -->
+
+langsung untuk pengilangan barang-barang lain dan
+
+<!-- marginal: benarkan -->
+
+<!-- marginal: ke dalam -->
+
+adalah diluluskan oleh Menteri atau barang-barang
+
+<!-- marginal: zon per- -->
+
+yang dikilangkan di mana-mana bahagian kawasan
+
+<!-- marginal: industrian -->
+
+<!-- marginal: bebas. -->
+
+utama kastam yang adalah untuk eksport bolehlah dibawa ke dalam suatu zon perindustrian bebas.
 
 (2) Tiada barang-barang lain kecuali yang disebut dalam subseksyen (1) boleh dibenarkan dibawa ke dalam suatu zon perindustrian bebas.
 
-Barang- 12. (1) Tertakluk kepada subseksyen (2), apa-apa barang jenis barang-barang boleh dibawa ke dalam suatu zon yang di- perdagangan bebas untuk perniagaan runcit atau benarkan ke dalam selainnya. zon per- dagangan bebas. (2) Menteri bolehlah, melalui perintah, melarang apa-apa barang-barang atau kelas barang-barang daripada dibawa ke dalam suatu zon perdagangan bebas.
+<!-- marginal: Barang- -->
+
+12. (1) Tertakluk kepada subseksyen (2), apa-apa
+
+<!-- marginal: barang -->
+
+jenis barang-barang boleh dibawa ke dalam suatu zon
+
+<!-- marginal: yang di- -->
+
+perdagangan bebas untuk perniagaan runcit atau
+
+<!-- marginal: benarkan -->
+
+<!-- marginal: ke dalam -->
+
+selainnya.
+
+<!-- marginal: zon per- -->
+
+<!-- marginal: dagangan -->
+
+<!-- marginal: bebas. -->
+
+(2) Menteri bolehlah, melalui perintah, melarang apa-apa barang-barang atau kelas barang-barang daripada dibawa ke dalam suatu zon perdagangan bebas.
 
 ## BAHAGIAN
 
@@ -350,9 +568,27 @@ III
 
 ## FUNGSI-FUNGSI TERTENTU PIHAK BERKUASA
 
-Pihak
+<!-- marginal: Pihak -->
 
-13. (1) Menteri boleh menghendaki Pihak Berkuasa Berkuasa mengadakan dan menyenggarakan dalam suatu zon hendaklah mengadakan bebas kemudahan-kemudahan yang difikirkannya perlu kemudahan- untuk membolehkan zon itu berfungsi dengan kemudahan. sepatutnya dan dengan cekap.
+13. (1) Menteri boleh menghendaki Pihak Berkuasa
+
+<!-- marginal: Berkuasa -->
+
+mengadakan dan menyenggarakan dalam suatu zon
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: mengadakan -->
+
+bebas kemudahan-kemudahan yang difikirkannya perlu
+
+<!-- marginal: kemudahan- -->
+
+untuk membolehkan zon itu berfungsi dengan
+
+<!-- marginal: kemudahan. -->
+
+sepatutnya dan dengan cekap.
 
 (2) Menteri boleh memberi kepada Pihak Berkuasa arahan-arahan yang difikirkannya perlu
 
@@ -370,7 +606,11 @@ pegawai-pegawai kastam yang mengikut tugas-tugas mereka dikehendaki hadir dalam 
 
 suatu zon bebas; dan Pihak Berkuasa hendaklah membenarkan pejabat-pejabat kastam ditubuhkan dalam suatu zon bebas—
 
-(a) untuk membolehkan Ketua Pengarah membuat apa-apa persediaan sebagaimana yang difikirkannya perlu untuk menjamin pengawasan yang sepatutnya, mengenai barang-barang yang dibawa keluar dari zon bebas itu; dan
+(a) untuk membolehkan Ketua
+
+<!-- marginal: Pengarah -->
+
+membuat apa-apa persediaan sebagaimana yang difikirkannya perlu untuk menjamin pengawasan yang sepatutnya, mengenai barang-barang yang dibawa keluar dari zon bebas itu; dan
 
 (b) bagi maksud yang difikirkan perlu oleh Menteri bagi pentadbiran peruntukan Akta ini dengan cara yang lebih baik.
 
@@ -436,9 +676,23 @@ subseksyen (1) seksyen ini adalah melakukan suatu kesalahan di bawah Akta ini.
 
 <!-- page 14 -->
 
-Penyingkir
+<!-- marginal: Penyingkir -->
 
-16. (1) Pihak Berkuasa boleh mengikut budi bicara- barang- nya memerintahkan penyingkiran atau pemindahan barang tertentu, dari suatu zon perindustrian bebas apa-apa barang- dsb. barang atau memberhentikan apa-apa aktiviti atau pengendalian yang pada pendapatnya
+16. (1) Pihak Berkuasa boleh mengikut budi bicara-
+
+<!-- marginal: barang- -->
+
+nya memerintahkan penyingkiran atau pemindahan
+
+<!-- marginal: barang -->
+
+<!-- marginal: tertentu, -->
+
+dari suatu zon perindustrian bebas apa-apa barang-
+
+<!-- marginal: dsb. -->
+
+barang atau memberhentikan apa-apa aktiviti atau pengendalian yang pada pendapatnya
 
 <!-- marginal: adalah -->
 
@@ -452,9 +706,21 @@ keputusan rayuan itu memihak kepada Pihak Berkuasa.
 
 (3) Keputusan Menteri hendaklah muktamad dan tidak boleh tertakluk kepada kajian semula oleh mana- mana mahkamah.
 
-Laporan-
+<!-- marginal: Laporan- -->
 
-17. (1) Pihak Berkuasa hendaklah menetapkan laporan bentuk dan cara menyimpan akaun-akaun suatu zon Tahunan dan akaun perindustrian bebas itu. akaun.
+17. (1) Pihak Berkuasa hendaklah menetapkan
+
+<!-- marginal: laporan -->
+
+bentuk dan cara menyimpan akaun-akaun suatu zon
+
+<!-- marginal: Tahunan -->
+
+<!-- marginal: dan akaun -->
+
+perindustrian bebas itu.
+
+<!-- marginal: akaun. -->
 
 (2) Pihak Berkuasa jika diarahkan sedemikian oleh Menteri hendaklah mengemuka kepadanya tiap-tiap tahun dan pada bila-bila masa lain sebagaimana yang ditetapkan oleh Menteri, laporan-laporan mengan- dungi pernyataan penuh mengenai semua aktiviti, pengendalian, penerimaan dan perbelanjaan dan apa-apa maklumat lain berkenaan dengan zon itu sebagaimana yang dikehendaki oleh Menteri.
 
@@ -578,17 +844,33 @@ mendepositkan barang-barang itu;
 
 (c) memecah buka, jika perlu, mana-mana pintu kedai, gudang, bangunan atau tempat itu dan masuk ke dalamnya;
 
-(d) memasuki dengan kekerasan,
-
-<!-- marginal: jika perlu, -->
-
-tempat itu dan tiap-tiap bahagiannya;
+(d) memasuki dengan kekerasan, jika perlu, tempat itu dan tiap-tiap bahagiannya;
 
 (e) membuang dengan kekerasan apa-apa gala- ngan terhadap kemasukan, penggeledahan, penyitaan dan pemindahan yang dia diberi kuasa untuk melakukannya; dan
 
 (f) menahan mana-mana orang yang dijumpai berada dalam tempat itu sehingga tempat itu telah digeledah.
 
-Bila pengge- 22. Apabila didapati oleh mana-mana pegawai kanan ledahan kastam bahawa ada sebab yang munasabah bagi boleh dibuat mempercayai bahawa dalam mana-mana kedai, gudang tanpa atau bangunan atau tempat lain dalam suatu zon bebas, waran. ada tersembunyi atau didepositkan apa-apa barang-ba- rang yang mengenainya suatu kesalahan di bawah Akta
+<!-- marginal: Bila pengge- -->
+
+22. Apabila didapati oleh mana-mana pegawai kanan
+
+<!-- marginal: ledahan -->
+
+kastam bahawa ada sebab yang munasabah bagi
+
+<!-- marginal: boleh -->
+
+<!-- marginal: dibuat -->
+
+mempercayai bahawa dalam mana-mana kedai, gudang
+
+<!-- marginal: tanpa -->
+
+atau bangunan atau tempat lain dalam suatu zon bebas,
+
+<!-- marginal: waran. -->
+
+ada tersembunyi atau didepositkan apa-apa barang-ba- rang yang mengenainya suatu kesalahan di bawah Akta
 
 <!-- page 17 -->
 
@@ -630,9 +912,65 @@ dikehendaki berbuat demikian oleh pegawai itu menghentikan kenderaan itu dan mem
 
 <!-- page 18 -->
 
-Kuasa 24. Mana-mana pegawai kastam yang hak boleh dalam untuk suatu zon bebas memeriksa apa-apa barang-barang membuka yang dibawa ke dalam atau yang dipindah keluar dari bungkusan dan me- suatu zon bebas atau yang dicadangkan untuk dibawa meriksa ke dalam atau keluar dari suatu zon bebas dan bagi barang- barang. maksud pemeriksaan itu mengarahkan barang-barang itu dibawa ke pejabat kastam atau balai kastam dan dia boleh membuka apa-apa bungkusan atau bekas.
+<!-- marginal: Kuasa -->
 
-Pemeriksaan 25. Mana-mana orang yang mendarat, atau hampir orang- akan mendarat atau setelah baru sahaja mendarat di orang suatu zon bebas, dari mana-mana vesel atau pesawat yang me- masuki udara, sama ada bagi maksud mendarat atau selainnya, atau atau memasuki atau setelah baru sahaja memasuki keluar dari zon suatu zon bebas melalui jalan atau keretapi atau keluar bebas. atau hampir hendak keluar dari suatu zon bebas dari mana-mana vesel atau pesawat udara, melalui jalan atau keretapi hendaklah, jika dikehendaki sedemikian oleh mana-mana pegawai kastam yang hak, membenar- kan sama ada dirinya, barang-barang dan begasinya diperiksa oleh pegawai itu atau bersama-sama dengan barang-barang dan begasi itu pergi bersama-sama pegawai itu ke pejabat kastam atau balai kastam atau balai polis dan di sana membenarkan dirinya, barang- barang dan begasinya diperiksa oleh seorang pegawai kastam:
+24. Mana-mana pegawai kastam yang hak boleh dalam
+
+<!-- marginal: untuk -->
+
+suatu zon bebas memeriksa apa-apa barang-barang
+
+<!-- marginal: membuka -->
+
+yang dibawa ke dalam atau yang dipindah keluar dari
+
+<!-- marginal: bungkusan -->
+
+<!-- marginal: dan me- -->
+
+suatu zon bebas atau yang dicadangkan untuk dibawa
+
+<!-- marginal: meriksa -->
+
+ke dalam atau keluar dari suatu zon bebas dan bagi
+
+<!-- marginal: barang- -->
+
+<!-- marginal: barang. -->
+
+maksud pemeriksaan itu mengarahkan barang-barang itu dibawa ke pejabat kastam atau balai kastam dan dia boleh membuka apa-apa bungkusan atau bekas.
+
+<!-- marginal: Pemeriksaan -->
+
+25. Mana-mana orang yang mendarat, atau hampir
+
+<!-- marginal: orang- -->
+
+akan mendarat atau setelah baru sahaja mendarat di
+
+<!-- marginal: orang -->
+
+suatu zon bebas, dari mana-mana vesel atau pesawat
+
+<!-- marginal: yang me- -->
+
+<!-- marginal: masuki -->
+
+udara, sama ada bagi maksud mendarat atau selainnya,
+
+<!-- marginal: atau -->
+
+atau memasuki atau setelah baru sahaja memasuki
+
+<!-- marginal: keluar -->
+
+<!-- marginal: dari zon -->
+
+suatu zon bebas melalui jalan atau keretapi atau keluar
+
+<!-- marginal: bebas. -->
+
+atau hampir hendak keluar dari suatu zon bebas dari mana-mana vesel atau pesawat udara, melalui jalan atau keretapi hendaklah, jika dikehendaki sedemikian oleh mana-mana pegawai kastam yang hak, membenar- kan sama ada dirinya, barang-barang dan begasinya diperiksa oleh pegawai itu atau bersama-sama dengan barang-barang dan begasi itu pergi bersama-sama pegawai itu ke pejabat kastam atau balai kastam atau balai polis dan di sana membenarkan dirinya, barang- barang dan begasinya diperiksa oleh seorang pegawai kastam:
 
 Dengan syarat bahawa—
 
@@ -688,7 +1026,19 @@ Dengan syarat bahawa notis itu tidaklah dikehendaki diberi jika penyitaan itu di
 
 (6) Peruntukan seksyen ini berhubungan dengan penyitaan kenderaan hendaklah terpakai bagi semua kelengkapannya.
 
-Pemulangan 27. (1) Jika mana-mana harta alih telah disita di atau pelu- bawah Akta ini, seseorang pegawai kanan kastam pusan harta boleh, mengikut budi bicaranya— alih.
+<!-- marginal: Pemulangan -->
+
+27. (1) Jika mana-mana harta alih telah disita di
+
+<!-- marginal: atau pelu- -->
+
+bawah Akta ini, seseorang pegawai kanan kastam
+
+<!-- marginal: pusan harta -->
+
+boleh, mengikut budi bicaranya—
+
+<!-- marginal: alih. -->
 
 (a) memulangkan harta alih itu secara sementara kepada pemunyanya atau kepada orang yang daripada milikan, jagaan atau kawalannya harta alih itu disita, atau kepada mana-mana orang yang dianggap oleh pegawai kanan kastam itu sebagai berhak terhadap harta alih itu tertakluk kepada apa-apa terma dan syarat yang boleh dikenakan dan, dalam apa-apa hal, tertakluk kepada pemberian cagaran yang mencukupi dengan memuaskan hati pegawai kanan kastam itu bahawa harta alih itu akan diserahkan kepada seseorang pegawai kanan
 
@@ -774,15 +1124,45 @@ jam tidak termasuk masa yang diperlukan untuk perjalanan dari tempat tangkapan i
 
 (3) Tiada seorang pun yang telah ditangkap oleh seorang pegawai kastam boleh dilepaskan kecuali atas bonnya sendiri atau jaminan atau di bawah suatu perintah khas bertulis oleh seorang Majistret atau seorang pegawai kanan kastam.
 
-30. Pendakwaan berkenaan dengan kesalahan-kesa- Siapa yang boleh lahan yang dilakukan di bawah— mendakwa.
+30. Pendakwaan berkenaan dengan kesalahan-kesa-
+
+<!-- marginal: Siapa -->
+
+<!-- marginal: yang boleh -->
+
+lahan yang dilakukan di bawah—
+
+<!-- marginal: mendakwa. -->
 
 (a) seksyen 5 dan 8 Akta ini boleh dijalankan oleh seorang pegawai kanan kastam atau oleh mana-mana pegawai kastam yang diberikuasa khas secara bertulis bagi maksud itu oleh Ketua Pengarah; dan
 
 (b) mana-mana peruntukan lain Akta ini atau mana-mana peraturan yang dibuat di bawah- nya boleh dijalankan oleh seorang pegawai bagi Pihak Berkuasa, yang diberikuasa khas atau am secara bertulis bagi maksud itu oleh Menteri.
 
-Perlin-
+<!-- marginal: Perlin- -->
 
-31. (1) Kecuali sebagaimana yang diperuntukkan ke- dungan mudian daripada ini, tiada seorang saksi pun dalam bagi mana-mana presiding sivil atau jenayah menurut Akta pemberi makluraat ini adalah diwajibkan atau dibenarkan untuk mende- daripada dahkan nama atau alamat pemberi maklumat atau diketahui. substans maklumat yang diterima daripadanya atau untuk menyatakan apa-apa perkara yang boleh mem- bawa kepada nama atau alamat pemberi maklumat itu diketahui.
+31. (1) Kecuali sebagaimana yang diperuntukkan ke-
+
+<!-- marginal: dungan -->
+
+mudian daripada ini, tiada seorang saksi pun dalam
+
+<!-- marginal: bagi -->
+
+mana-mana presiding sivil atau jenayah menurut Akta
+
+<!-- marginal: pemberi -->
+
+<!-- marginal: makluraat -->
+
+ini adalah diwajibkan atau dibenarkan untuk mende-
+
+<!-- marginal: daripada -->
+
+dahkan nama atau alamat pemberi maklumat atau
+
+<!-- marginal: diketahui. -->
+
+substans maklumat yang diterima daripadanya atau untuk menyatakan apa-apa perkara yang boleh mem- bawa kepada nama atau alamat pemberi maklumat itu diketahui.
 
 (2) Jika apa-apa buku, dokumen atau kertas yang menjadi keterangan atau yang boleh diperiksa dalam mana-mana presiding sivil atau jenayah mengandungi apa-apa Catalan atau petikan yang di dalamnya mana- mana pemberi maklumat ada dinamakan atau diper- ihalkan atau yang mungkin membawa kepada diketa- hui siapa pemberi maklumat itu, maka mahkamah hendaklah menyebabkan segala catatan atau petikan
 
@@ -828,11 +1208,41 @@ pa bagi syarikat, pertubuhan atau lain-lain kumpulan orang itu, pekongsi atau pe
 
 (2) Jika mana-mana orang boleh dikenakan di bawah Akta ini apa-apa hukuman, penalti atau per- lucuthakan kerana apa-apa perbuatan, peninggalan, pengabaian atau keingkaran, maka dia boleh dikena- kan hukuman, penalti atau perlucuthakan yang sama bagi tiap-tiap perbuatan, peninggalan, atau keingkaran yang dilakukan oleh mana-mana kerani, pengkhidmat atau ejennya, atau oleh kerani atau pengkhidmat bagi ejen itu dengan syarat bahawa perbuatan, peninggalan, pengabaian atau keingkaran itu dilakukan oleh kerani atau pengkhidmat itu dalam penjalanan pekerjaannya atau oleh ejen itu ketika bertindak bagi pihak orang itu atau oleh kerani atau pengkhidmat bagi ejen itu ketika bertindak dalam penjalanan pekerjaannya dalam hal keadaan di mana jika perbuatan, peninggalan, peng- abaian atau keingkaran itu dilakukan oleh ejen itu, prinsipalnya akan bertanggungan di bawah seksyen ini.
 
-Meng- 33. (1) Mana-mana pegawai kanan kastam boleh kompaun mengkompaun apa-apa kesalahan di bawah Akta ini kesalahan. yang ditetapkan sebagai suatu kesalahan yang boleh dikompaun dengan menghendaki orang yang semuna- sabahnya disyaki telah melakukan kesalahan itu mem- bay ar sejumlah wang tidak lebih daripada lima ribu ringgit.
+<!-- marginal: Meng- -->
+
+33. (1) Mana-mana pegawai kanan kastam boleh
+
+<!-- marginal: kompaun -->
+
+mengkompaun apa-apa kesalahan di bawah Akta ini
+
+<!-- marginal: kesalahan. -->
+
+yang ditetapkan sebagai suatu kesalahan yang boleh dikompaun dengan menghendaki orang yang semuna- sabahnya disyaki telah melakukan kesalahan itu mem- bay ar sejumlah wang tidak lebih daripada lima ribu ringgit.
 
 (2) Apabila jumlah wang yang sedemikian dibayar, orang yang semunasabahnya disyaki telah melakukan suatu kesalahan, jika dia berada dalam jagaan, hendak- lah dilepaskan, dan apa-apa harta yang telah disita hendaklah dilepaskan dan tiada prosiding selanjutnya boleh diambil terhadap orang atau harta itu, melain- kan jika harta itu terdiri daripada barang-barang yang pengimportannya ke dalam Malaysia dilarang secara mutlak atau bersyarat di bawah mana-mana undang- undang bertulis dan tiada lesen import dikeluarkan, maka jika dalam hal sedemikian, barang-barang itu hendaklah dilucuthak.
 
-Perlin- 34. Kerajaan atau Pihak Berkuasa, mengikut mana- dungan mana yang berkenaan, adalah tidak bertanggungan bagi untuk membayar apa-apa kerugian yang dialami ber- Kerajaan daripada kenaan dengan apa-apa barang-barang kerana keba- liabttiti. karan, kecurian, kerosakan atau sebab-sebab lain
+<!-- marginal: Perlin- -->
+
+34. Kerajaan atau Pihak Berkuasa, mengikut mana-
+
+<!-- marginal: dungan -->
+
+mana yang berkenaan, adalah tidak bertanggungan
+
+<!-- marginal: bagi -->
+
+untuk membayar apa-apa kerugian yang dialami ber-
+
+<!-- marginal: Kerajaan -->
+
+<!-- marginal: daripada -->
+
+kenaan dengan apa-apa barang-barang kerana keba-
+
+<!-- marginal: liabttiti. -->
+
+karan, kecurian, kerosakan atau sebab-sebab lain
 
 <!-- page 27 -->
 
@@ -932,9 +1342,53 @@ yang menjadikan suatu kesalahan di bawah Akta ini atau mana-mana peraturan yang 
 
 <!-- page 28 -->
 
-Barang- 38. Semua barang-barang yang disita di bawah Akta barang ini bolehlah dilucuthakkan. yang boleh dilucuthak.
+<!-- marginal: Barang- -->
 
-Mahkamah 39. (1) Suatu perintah bagi melucuthakkan atau bagi hendaklah melepaskan apa-apa benda yang boleh dilucuthak di memerintah bawah peruntukan-peruntukan Akta ini hendakiah perlucut- hakan dan dibuat oleh Mahkamah yang di hadapannya pelupusan pendakwaan tentangnya telah diadakan, dan suatu barang- barang perintah bagi melucuthak barang-barang itu hendaklah yang dibuat jika dibuktikan dengan memuaskan hati disita. Mahkamah bahawa suatu kesalahan terhadap Akta ini atau mana-mana peraturan yang dibuat di bawahnya telah dilakukan dan bahawa barang-barang itu adalah hal-perkara, atau digunakan dalam melakukan, kesalahan itu walaupun tiada seorang pun mungkin disabitkan atas kesalahan itu.
+38. Semua barang-barang yang disita di bawah Akta
+
+<!-- marginal: barang -->
+
+ini bolehlah dilucuthakkan.
+
+<!-- marginal: yang boleh -->
+
+<!-- marginal: dilucuthak. -->
+
+<!-- marginal: Mahkamah -->
+
+39. (1) Suatu perintah bagi melucuthakkan atau bagi
+
+<!-- marginal: hendaklah -->
+
+melepaskan apa-apa benda yang boleh dilucuthak di
+
+<!-- marginal: memerintah -->
+
+bawah peruntukan-peruntukan Akta ini hendakiah
+
+<!-- marginal: perlucut- -->
+
+<!-- marginal: hakan dan -->
+
+dibuat oleh Mahkamah yang di hadapannya
+
+<!-- marginal: pelupusan -->
+
+pendakwaan tentangnya telah diadakan, dan suatu
+
+<!-- marginal: barang- -->
+
+<!-- marginal: barang -->
+
+perintah bagi melucuthak barang-barang itu hendaklah
+
+<!-- marginal: yang -->
+
+dibuat jika dibuktikan dengan memuaskan hati
+
+<!-- marginal: disita. -->
+
+Mahkamah bahawa suatu kesalahan terhadap Akta ini atau mana-mana peraturan yang dibuat di bawahnya telah dilakukan dan bahawa barang-barang itu adalah hal-perkara, atau digunakan dalam melakukan, kesalahan itu walaupun tiada seorang pun mungkin disabitkan atas kesalahan itu.
 
 (2) Mahkamah hendakiah memerintah perlucut- hakan—
 
@@ -946,9 +1400,7 @@ jika ia dibuktikan dengan memuaskan hati Mahkamah bahawa suatu kesalahan terhada
 
 <!-- marginal: telah -->
 
-dilakukan dan harta alih berkenaan dengan mana amaun itu dicagarkan atau dihasilkan
-
-<!-- marginal: oleh -->
+dilakukan dan harta alih berkenaan dengan mana amaun itu dicagarkan atau dihasilkan oleh
 
 <!-- marginal: jualan, -->
 
@@ -1002,19 +1454,81 @@ tersebut mengikut cara yang dinyatakan kemudian daripada ini.
 
 supaya barang-barang itu dilucuthak, atau boleh tanpa bukti sedemikian memerintahkan barang-barang itu dilepaskan.
 
-Barang-
+<!-- marginal: Barang- -->
 
-41. Menteri boleh, apabila permohonan bertulis dibuat barang kepadanya melalui Ketua Pengarah, memerintahkan yang apa-apa barang-barang yang disita di bawah Akta ini, disita boleh sama ada dilucuthak, atau diambil dan disifatkan diserahkan sebagai terlucuthak, supaya diserahkan kepada kepada pemunya pemunya atau orang lain yang berhak terhadapnya, atau orang atas apa-apa terma dan syarat yang disifatkan patut: lain. Dengan syarat bahawa apa-apa permohonan sedemikian hendaklah dibuat sebelum tamatnya satu bulan kalendar dari tarikh perlucuthakkan barang- barang atau dari tarikh barang-barang itu diambil dan disifatkan sebagai terlucuthak, mengikut mana-mana yang berkenaan.
+41. Menteri boleh, apabila permohonan bertulis dibuat
+
+<!-- marginal: barang -->
+
+kepadanya melalui Ketua Pengarah, memerintahkan
+
+<!-- marginal: yang -->
+
+apa-apa barang-barang yang disita di bawah Akta ini,
+
+<!-- marginal: disita -->
+
+<!-- marginal: boleh -->
+
+sama ada dilucuthak, atau diambil dan disifatkan
+
+<!-- marginal: diserahkan -->
+
+sebagai terlucuthak, supaya diserahkan kepada
+
+<!-- marginal: kepada -->
+
+<!-- marginal: pemunya -->
+
+pemunya atau orang lain yang berhak terhadapnya,
+
+<!-- marginal: atau orang -->
+
+atas apa-apa terma dan syarat yang disifatkan patut:
+
+<!-- marginal: lain. -->
+
+Dengan syarat bahawa apa-apa permohonan sedemikian hendaklah dibuat sebelum tamatnya satu bulan kalendar dari tarikh perlucuthakkan barang- barang atau dari tarikh barang-barang itu diambil dan disifatkan sebagai terlucuthak, mengikut mana-mana yang berkenaan.
 
 ## BAHAGIAN V
 
 ## PERUNTUKAN-PERUNTUKAN PELBAGAI
 
-42. Mana-mana vesel yang ditambat di sepanjang tepi Vesel berkaitan dermaga sesuatu zon bebas hendaklah disifatkan dengan sebagai berada dalam zon bebas itu. zon bebas.
+42. Mana-mana vesel yang ditambat di sepanjang tepi
 
-Pegawai
+<!-- marginal: Vesel -->
 
-43. (1) Pegawai kastam yang hak boleh pada bila-bila kastam masa mengambil sampel mana-mana barang-barang yaog hak bagi menentukan sama ada barang-barang itu adalah boleh mengambil jenis yang boleh dikenakan apa-apa duti kastam atau sampel. bagi menentukan duti kastam atas barang-barang itu apabila masuk ke dalam kawasan utama kastam atau bagi apa-apa maksud lain yang disifatkan perlu oleh pegawai kastam yang hak itu, dan sampel-sampel itu boleh dilupuskan mengikut cara yang diarahkan oleh Ketua Pengarah.
+<!-- marginal: berkaitan -->
+
+dermaga sesuatu zon bebas hendaklah disifatkan
+
+<!-- marginal: dengan -->
+
+sebagai berada dalam zon bebas itu.
+
+<!-- marginal: zon bebas. -->
+
+<!-- marginal: Pegawai -->
+
+43. (1) Pegawai kastam yang hak boleh pada bila-bila
+
+<!-- marginal: kastam -->
+
+masa mengambil sampel mana-mana barang-barang
+
+<!-- marginal: yaog hak -->
+
+bagi menentukan sama ada barang-barang itu adalah
+
+<!-- marginal: boleh -->
+
+<!-- marginal: mengambil -->
+
+jenis yang boleh dikenakan apa-apa duti kastam atau
+
+<!-- marginal: sampel. -->
+
+bagi menentukan duti kastam atas barang-barang itu apabila masuk ke dalam kawasan utama kastam atau bagi apa-apa maksud lain yang disifatkan perlu oleh pegawai kastam yang hak itu, dan sampel-sampel itu boleh dilupuskan mengikut cara yang diarahkan oleh Ketua Pengarah.
 
 (2) Tiada apa-apa bayaran boleh dibuat bagi apa- apa sampel yang diambil tetapi pegawai kastam yang hak itu hendaklah memberi suatu resit bagi apa-apa sampel yang diambil.
 
@@ -1112,33 +1626,73 @@ dipinda sebagaimana yang berkenaan, setakat yang ditunjukkan dalam ruang kedua J
 
 <!-- page 32 -->
 
-Zon 50. Mana-mana zon perdagangan
+<!-- marginal: Zon -->
 
-<!-- marginal: bebas -->
+50. Mana-mana zon perdagangan bebas
 
 <!-- marginal: yang -->
 
-perdagangan diisytiharkan di bawah seksyen 3 Akta Zon Per- bebas dagangan Bebas 1971, dan yang masih berkuatkuasa disifatkan sebagai sebelum sahaja mula berkuatkuasanya Akta
+<!-- marginal: perdagangan -->
+
+diisytiharkan di bawah seksyen 3 Akta Zon Per-
+
+<!-- marginal: bebas -->
+
+dagangan Bebas 1971, dan yang masih berkuatkuasa
+
+<!-- marginal: disifatkan -->
+
+<!-- marginal: sebagai -->
+
+sebelum sahaja mula berkuatkuasanya Akta
 
 <!-- marginal: ini -->
 
-zon hendaklah disifatkan sebagai zon perindustrian bebas perindustrian bebas. yang diisytiharkan di bawah seksyen 3 Akta ini Akta 24. sehingga dibatalkan oleh Menteri.
+<!-- marginal: zon -->
 
-51. Menteri boleh membatalkan mana-mana Menteri boleh perisytiharan atau perintah yang dibuat di bawah Akta membatalkan ini atau mana-mana undang-undang bertulis yang mana-mana pengisytiha- dimansuhkan oleh Akta ini berkenaan dengan mana- ran atau mana zon bebas: perintah. Dengan syarat bahawa mana-mana perintah pembatalan yang dibuat di bawah seksyen ini, jika ia mempunyai kesan menghapuskan mana-mana zon bebas yang diisytiharkan itu, hendaklah membenarkan masa yang mencukupi bagi orang-orang dalam zon bebas yang terlibat secara langsung dengan perintah itu membuat persiapan bagi pelupusan barang-barang mereka.
+hendaklah disifatkan sebagai zon perindustrian bebas
+
+<!-- marginal: perindustrian -->
+
+<!-- marginal: bebas. -->
+
+yang diisytiharkan di bawah seksyen 3 Akta ini
+
+<!-- marginal: Akta 24. -->
+
+sehingga dibatalkan oleh Menteri.
+
+51. Menteri boleh membatalkan mana-mana
+
+<!-- marginal: Menteri -->
+
+<!-- marginal: boleh -->
+
+perisytiharan atau perintah yang dibuat di bawah Akta
+
+<!-- marginal: membatalkan -->
+
+ini atau mana-mana undang-undang bertulis yang
+
+<!-- marginal: mana-mana -->
+
+<!-- marginal: pengisytiha- -->
+
+dimansuhkan oleh Akta ini berkenaan dengan mana-
+
+<!-- marginal: ran atau -->
+
+mana zon bebas:
+
+<!-- marginal: perintah. -->
+
+Dengan syarat bahawa mana-mana perintah pembatalan yang dibuat di bawah seksyen ini, jika ia mempunyai kesan menghapuskan mana-mana zon bebas yang diisytiharkan itu, hendaklah membenarkan masa yang mencukupi bagi orang-orang dalam zon bebas yang terlibat secara langsung dengan perintah itu membuat persiapan bagi pelupusan barang-barang mereka.
 
 ## JADUAL PERTAMA
 
 [Seksyen 10(1) (a)]
 
-(1)
-
-<!-- marginal: (2) -->
-
-Nama bagi Zon Perdagangan
-
-<!-- marginal: Aktiviti-aktiviti -->
-
-Bebas
+(1) (2) Nama bagi Zon Perdagangan Aktiviti-aktiviti Bebas
 
 1. Mukim Plentong, Daerah Johor Bahru: Semua tanah yang terletak dalam Perdagangan
 
@@ -1178,11 +1732,7 @@ Semua tanah yang terletak dalam Mukim Plentong dalam Daerah Johor Bahru, yang di
 
 <!-- page 34 -->
 
-(1)
-
-<!-- marginal: (2) -->
-
-Nama bagi Zon Perindustrian Aktiviti-aktiviti Bebas
+(1) (2) Nama bagi Zon Perindustrian Aktiviti-aktiviti Bebas
 
 4. Mukim Pringgit dan Bukit Baru, Pengilangan Daerah Tengah, Melaka:
 
@@ -1228,35 +1778,33 @@ Semua tanah yang dilingkungi dengan garisan kelabu yang ditunjukkan dalam Pelan 
 
 Pindaan dan Pemansuhan
 
-(1)
+(1) (2)
 
-<!-- marginal: (2) -->
+<!-- marginal: Akta -->
 
-Akta
+Pindaan
 
-<!-- marginal: Pindaan -->
+<!-- marginal: Akta Kastam 1967 -->
 
-Akta Kastam 1967 Seksyen 2 adalah dipinda dengan menggantikan subseksyen (1A) dengan subseksyen (1A) baru yang berikut:
+Seksyen 2 adalah dipinda dengan menggantikan subseksyen (1A) dengan subseksyen (1A) baru yang berikut:
 
 " (1A) For the purposes of this Act (other than section 31), a free zone shall be deemed to be a place outside Malaysia.
 
-In this subsection the expression "free zone" has
+In this subsection the expression "free zone" has the meaning assigned to it under section 2 of the Free Zone Act 1990.".
 
-<!-- marginal: the meaning -->
+<!-- marginal: Akta Eksais 1976 -->
 
-assigned to it under section 2 of the Free Zone Act 1990.".
+Subseksyen (1) seksyen 2 adalah dipinda dengan menggantikan takrif "zon perdagangan bebas" dengan takrif baru yang berikut: " "zon bebas" mempunyai pe- ngertian yang diberikan kepada- nya di bawah seksyen 2 Akta Zon Bebas 1990, dan bagi maksud- maksud Akta ini suatu zon bebas hendaklah disifatkan sebagai suatu tempat di luar Malaysia;".
 
-Akta Eksais 1976 Subseksyen (1) seksyen 2 adalah dipinda dengan menggantikan takrif "zon perdagangan bebas" dengan takrif baru yang berikut: " "zon bebas" mempunyai pe- ngertian yang diberikan kepada- nya di bawah seksyen 2 Akta Zon Bebas 1990, dan bagi maksud- maksud Akta ini suatu zon bebas hendaklah disifatkan sebagai suatu tempat di luar Malaysia;".
+<!-- marginal: Akta Cukai Jualan -->
 
-Akta Cukai Jualan Seksyen 2A adalah dipinda dengan 1972 menggantikannya dengan seksyen 2A baru yang berkut: "2A. Bagi maksud-maksud Akta ini, sesuatu zon bebas hendaklah disifatkan sebagai sesuatu tempat di luar Malaysia.
+Seksyen 2A adalah dipinda dengan
 
-Dalam seksyen ini, ungkapan "zon bebas" mempunyai pengertian yang diberikan kepadanya
+<!-- marginal: 1972 -->
 
-<!-- marginal: di -->
+menggantikannya dengan seksyen 2A baru yang berkut: "2A. Bagi maksud-maksud Akta ini, sesuatu zon bebas hendaklah disifatkan sebagai sesuatu tempat di luar Malaysia.
 
-<!-- marginal: bawah -->
-
-seksyen 2 Akta Zon Bebas 1990.".
+Dalam seksyen ini, ungkapan "zon bebas" mempunyai pengertian yang diberikan kepadanya di bawah seksyen 2 Akta Zon Bebas 1990.".
 
 <!-- page 37 -->
 
@@ -1264,35 +1812,17 @@ seksyen 2 Akta Zon Bebas 1990.".
 
 Akta Cukai Per- Memasukkan selepas sahaja seksyen khidmatan 1975 2, seksyen 2A baru yang berikut:
 
-"2A. Bagi maksud-maksud Akta ini, sesuatu zon bebas hendaklah disifatkan sebagai sesuatu tempat di luar Malaysia. Dalam seksyen ini, ungkapan "zon bebas" mempunyai pengertian yang sama dengan pengertian
-
-<!-- marginal: yang -->
-
-diberikan kepadanya di
-
-<!-- marginal: bawah -->
-
-seksyen 2 Akta Zon Bebas 1990.".
+"2A. Bagi maksud-maksud Akta ini, sesuatu zon bebas hendaklah disifatkan sebagai sesuatu tempat di luar Malaysia. Dalam seksyen ini, ungkapan "zon bebas" mempunyai pengertian yang sama dengan pengertian yang diberikan kepadanya di bawah seksyen 2 Akta Zon Bebas 1990.".
 
 Akta Penggalakan
 
-(a) Subseksyen (5) seksyen 36 adalah Pelaburan 1986 dipiflda dengan menggantikan perkataan-perkataan "zon Per- dagangan bebas" dengan per- kataan-perkataan "Zon Perin- dustrian Bebas" yang
+(a) Subseksyen (5) seksyen 36 adalah Pelaburan 1986 dipiflda dengan menggantikan perkataan-perkataan "zon Per- dagangan bebas" dengan per- kataan-perkataan "Zon Perin- dustrian Bebas" yang terdapat dalamnya.
 
-<!-- marginal: terdapat -->
+(b) subseksyen (3) seksyen 36A adalah dipinda dengan menggantikan perkataan-perkataan "Zon Per- dagangan Bebas" bagi per- kataan-perkataan "Zon Perindus- trian Bebas" yang terdapat dalamnya.
 
-dalamnya.
+<!-- marginal: Zon -->
 
-(b) subseksyen (3) seksyen 36A adalah dipinda dengan menggantikan perkataan-perkataan "Zon Per- dagangan Bebas" bagi
-
-<!-- marginal: per- -->
-
-kataan-perkataan "Zon Perindus- trian Bebas" yang
-
-<!-- marginal: terdapat -->
-
-dalamnya.
-
-Zon Perdagangan Dimansuhkan keseluruhannya. Bebas 1971
+Perdagangan Dimansuhkan keseluruhannya. Bebas 1971
 
 ## HURAIAN
 
@@ -1310,11 +1840,7 @@ Rang Undang-Undang ini bertujuan untuk memperkenalkan suatu undang-undang baru�
 
 3. Fasal 1 memperuntukkan bagi tajuk ringkas Rang Undang- Undang ini dan juga memperuntukkan bahawa Rang Undang- Undang ini hendaklah mula berkuatkuasanya pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Menteri bolehlah menetapkan tarikh-tarikh yang berlainan bagi mula berkuatkuasa peruntukan-peruntukan yang berlainan Rang Undang-Undang ini.
 
-4. Fasal 2 mentakrifkan perkataan-perkataan
-
-<!-- marginal: tertentu dan -->
-
-ungkapan-ungkapan yang dipakai dalam Rang Undang-Undang ini.
+4. Fasal 2 mentakrifkan perkataan-perkataan tertentu dan ungkapan-ungkapan yang dipakai dalam Rang Undang-Undang ini.
 
 5. Fasal 3 memberikuasa kepada Menteri untuk mengisytiharkan melalui pemberitahuan dalam Warta mana-mana kawasan sebagai suatu zon perdagangan bebas atau suatu zon perindustrian bebas dan untuk mentakrifkan had-had zon tersebut. Fasal ini juga memberikuasa kepada Menteri untuk melantik mana-mana Jabatan Persekutuan atau Negeri, mana-mana pihak berkuasa berkanun yang diwujudkan oleh suatu undang-undang negeri atau mana-mana syarikat sebagai Pihak Berkuasa untuk mentadbir, menyenggara dan mengendalikan suatu zon bebas.
 
@@ -1460,6 +1986,4 @@ membatalkan mana-mana perintah atau pengisytiharan yang dibuat di bawah undang-u
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan,
-
-<!-- marginal: [PN. (U:) 1496.] -->
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan, [PN. (U:) 1496.]

@@ -54,11 +54,49 @@ used for trade;' dan
 
 ' "the regulations" means the regulations made under this Act;'.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Akta ibu adalah dipinda dengan menggantikan seksyen 3. seksyen 3 dengan seksyen yang berikut: ".Appoint-
+3. Akta ibu adalah dipinda dengan menggantikan
 
-3. (1) The Minister may appoint, from ment of amongst public officers, a Price Controller, a Price Controller, Deputy Price Controller and such number of Deputy Assistant Price Controllers and other officers Price Controller, as may be necessary for the purposes of this Assistant Act and the regulations. Price Controllers, (2) The Price Controller shall, subject to the etc. general direction and control of the Minister, perform the duties and functions imposed and exercise the powers conferred upon him under this Act and the regulations.
+<!-- marginal: seksyen 3. -->
+
+seksyen 3 dengan seksyen yang berikut:
+
+<!-- marginal: ".Appoint- -->
+
+3. (1) The Minister may appoint, from
+
+<!-- marginal: ment of -->
+
+amongst public officers, a Price Controller, a
+
+<!-- marginal: Price -->
+
+<!-- marginal: Controller, -->
+
+Deputy Price Controller and such number of
+
+<!-- marginal: Deputy -->
+
+Assistant Price Controllers and other officers
+
+<!-- marginal: Price -->
+
+<!-- marginal: Controller, -->
+
+as may be necessary for the purposes of this
+
+<!-- marginal: Assistant -->
+
+Act and the regulations.
+
+<!-- marginal: Price -->
+
+Controllers, (2) The Price Controller shall, subject to the
+
+<!-- marginal: etc. -->
+
+general direction and control of the Minister, perform the duties and functions imposed and exercise the powers conferred upon him under this Act and the regulations.
 
 (3) The Deputy Price Controller, Assistant Price Controllers and other officers appointed under subsection (1) shall be under the direction and control of the Price Controller.
 
@@ -70,7 +108,13 @@ Pindaan
 
 <!-- page 3 -->
 
-(7) All officers appointed under this section shall be deemed to be public servants within F.M.S. the meaning of the Penal Code.". Cap. 45
+(7) All officers appointed under this section shall be deemed to be public servants within
+
+<!-- marginal: F.M.S. -->
+
+the meaning of the Penal Code.".
+
+<!-- marginal: Cap. 45 -->
 
 <!-- marginal: Seksyen -->
 
@@ -80,7 +124,23 @@ Pindaan
 
 seksyen 3 seksyen yang berikut:
 
-National 3A. The Minister may establish a National Advisory Advisory Council for Consumers' Protection Council for consisting of such representatives of business, Consumers' 'government and other organisations as he Protection. may appoint to advise him on the following matters:
+<!-- marginal: National -->
+
+3A. The Minister may establish a National
+
+<!-- marginal: Advisory -->
+
+Advisory Council for Consumers' Protection
+
+<!-- marginal: Council -->
+
+<!-- marginal: for -->
+
+consisting of such representatives of business, Consumers' 'government and other organisations as he
+
+<!-- marginal: Protection. -->
+
+may appoint to advise him on the following matters:
 
 (a) the fixing or control of prices of any goods;
 
@@ -122,9 +182,15 @@ any person for an offence alleged to have been committed in relation to those go
 
 Provided that where any goods which have been seized under subsection (1) (a) are of a perishable nature they may be sold by the order of the Price Controller, the Deputy Price Controller or any Assistant Price Controller and this subsection shall apply to the disposal of the proceeds of the sale in the same manner as they would have applied to the disposal of those goods if the goods had not been sold.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-7. Perenggan 1 5( c) Akta ibu adalah dipinda dengan seksyen 15. memotong perkataan "Chief Price Inspector or Price Inspector,".
+7. Perenggan 1 5( c) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 15. -->
+
+memotong perkataan "Chief Price Inspector or Price
+
+<!-- marginal: Inspector,". -->
 
 <!-- page 5 -->
 
@@ -172,9 +238,11 @@ mcnggantikan perkataan "section 1 3( 2 ) ( a) or under scction 18(l)(c) or (e) o
 
 <!-- page 6 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-12. Subseksyen 29(2) Akta ibu adalah dipinda— seksyen 29.
+12. Subseksyen 29(2) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 29. -->
 
 (a) dengan memotong perkataan "and" dalam perenggan (c);
 

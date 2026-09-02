@@ -94,7 +94,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (a) semua jumlah wang yang kena dibayar kepada Perbadanan dengan cara permohonan beli saham modalnya di bawah dan mengikut cara pembayarannya sebagaimana yang diperuntukkan dalam Perkara 12 Perjanjian;
 
-(b) semua jumlah wang yang kena dibayar kepada Perbadanan dengan cara permohonan beli tambahan oleh Kerajaan bagi saham modal Perbadanan mengikut perenggan (6) Perkara 11 Perjanjian;
+(b) semua jumlah wang yang kena dibayar kepada Perbadanan dengan cara permohonan beli tambahan oleh Kerajaan bagi saham modal Perbadanan mengikut perenggan (6)
+
+## Perkara 11 Perjanjian;
 
 <!-- page 5 -->
 

@@ -60,7 +60,11 @@ Fasal baharu (4c) Perkara 43 Perlembagaan Persekutuan memperuntukkan kesinambung
 
 Fasal baharu (4d) Perkara 43 Perlembagaan Persekutuan memperuntukkan pengiraan tempoh yang pada agregatnya berjumlah sepuluh tahun sebagaimana yang disebut dalam Fasal baharu (4a) Perkara 43 Perlembagaan Persekutuan, menyatakan bahawa apa-apa tempoh yang seseorang memegang jawatan Perdana Menteri sebelum permulaan kuat kuasa pindaan ini hendaklah diambil kira, dan bahawa apa-apa tempoh yang orang itu melaksanakan fungsi Perdana Menteri berikutan pembubaran Parlimen di bawah Fasal (2) Perkara 55 Perlembagaan Persekutuan tidak boleh diambil kira.
 
-Sebagai tambahan, pindaan berbangkit juga dibuat kepada Fasal (5) Perkara 43 Perlembagaan Persekutuan berikutan kemasukan Fasal baharu (4a) dan (4b) Perkara 43 Perlembagaan Persekutuan mengenai pemberhentian jawatan Perdana Menteri dan Jemaah Menteri.
+Sebagai tambahan, pindaan berbangkit juga dibuat kepada Fasal (5)
+
+## Perkara 43 Perlembagaan Persekutuan berikutan kemasukan Fasal baharu (4a)
+
+dan (4b) Perkara 43 Perlembagaan Persekutuan mengenai pemberhentian jawatan Perdana Menteri dan Jemaah Menteri.
 
 <!-- page 4 -->
 

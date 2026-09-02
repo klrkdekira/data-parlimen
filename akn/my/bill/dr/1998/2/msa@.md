@@ -12,25 +12,9 @@ D.R. 2/98
 
 ## SUSUNAN FASAL
 
-Fasa)
+Fasa) 1. Tajuk ringkas dan mula berkuat kuasa.
 
-1. Tajuk ringkas dan mula berkuat kuasa.
-
-2. Tafsiran.
-
-3. Pemansuhan dan pembubaran.
-
-4. Perpindahan kuasa, hak, dsb.
-
-5. Perpindahan harta.
-
-6. Perpindahan wang.
-
-7. Kontrak sedia ada, dsb.
-
-8. Pegawai bertanggungjawab bagi pembayaran pencen.
-
-9. Pembayaran amaun pukal.
+2. Tafsiran. 3. Pemansuhan dan pembubaran. 4. Perpindahan kuasa, hak, dsb. 5. Perpindahan harta. 6. Perpindahan wang. 7. Kontrak sedia ada, dsb. 8. Pegawai bertanggungjawab bagi pembayaran pencen. 9. Pembayaran amaun pukal.
 
 10. Pembayaran tanpa probet atau surat kuasa mentadbir.
 
@@ -84,27 +68,57 @@ Rang Undang-Undang
 
 "orang yang layak" ertinya orang yang berhak mendapat elaun persaraan, ganjaran, pencen atau apa-apa faedah persaraan lain di bawah Ordinan;
 
-Ord. 20/63 "Ordinan" ertinya Ordinan Persaraan Guru-Guru 1963 (Sabah). (Sabah);
+<!-- marginal: Ord. 20/63 -->
+
+"Ordinan" ertinya Ordinan Persaraan Guru-Guru 1963
+
+<!-- marginal: (Sabah). -->
+
+(Sabah);
 
 "pencen" ertinya elaun persaraan tahunan yang kena dibayar di bawah seksyen 7 Ordinan, dan termasuklah apa-apa ganjaran, pencen, atau faedah persaraan lain yang kena dibayar di bawah Ordinan;
 
 "tarikh ditetapkan" ertinya tarikh yang ditetapkan oleh Menteri di bawah seksyen 1.
 
-Pemansuhan
+<!-- marginal: Pemansuhan -->
 
-3. Ordinan adalah dimansuhkan dan Lembaga dan dan Kumpulan Wang yang ditubuhkan di bawahnya adalah pembubaran. dibubarkan.
+3. Ordinan adalah dimansuhkan dan Lembaga dan
 
-Perpindahan
+<!-- marginal: dan -->
 
-4. Segala kuasa, hak, keistimewaan, kewajipan, liabiliti kuasa, hak, dan obligasi yang sebaik sebelum tarikh ditetapkan adalah dsb. kuasa, hak, keistimewaan, kewajipan, liabiliti dan obligasi Lembaga hendaklah, dari tarikh itu, turun kepada Kerajaan.
+Kumpulan Wang yang ditubuhkan di bawahnya adalah
 
-Perpindahan
+<!-- marginal: pembubaran. -->
 
-5. Semua harta tak alih dan aset yang sebaik sebelum harta. tarikh ditetapkan adalah terletakhak pada Kumpulan Wang atau mana-mana orang atau badan yang bertindak bagi pihaknya hendaklah, pada tarikh ditetapkan, terletakhak pada Kerajaan.
+dibubarkan.
 
-Perpindahan
+<!-- marginal: Perpindahan -->
 
-6. Semua wang yang ada pada, atau kena dibayar kepada, wang. Kumpulan Wang hendaklah, pada tarikh ditetapkan, berpindah kepada, dan terletakhak pada, Kerajaan.
+4. Segala kuasa, hak, keistimewaan, kewajipan, liabiliti
+
+<!-- marginal: kuasa, hak, -->
+
+dan obligasi yang sebaik sebelum tarikh ditetapkan adalah
+
+<!-- marginal: dsb. -->
+
+kuasa, hak, keistimewaan, kewajipan, liabiliti dan obligasi Lembaga hendaklah, dari tarikh itu, turun kepada Kerajaan.
+
+<!-- marginal: Perpindahan -->
+
+5. Semua harta tak alih dan aset yang sebaik sebelum
+
+<!-- marginal: harta. -->
+
+tarikh ditetapkan adalah terletakhak pada Kumpulan Wang atau mana-mana orang atau badan yang bertindak bagi pihaknya hendaklah, pada tarikh ditetapkan, terletakhak pada Kerajaan.
+
+<!-- marginal: Perpindahan -->
+
+6. Semua wang yang ada pada, atau kena dibayar kepada,
+
+<!-- marginal: wang. -->
+
+Kumpulan Wang hendaklah, pada tarikh ditetapkan, berpindah kepada, dan terletakhak pada, Kerajaan.
 
 <!-- page 5 -->
 
@@ -116,9 +130,7 @@ Kumpulan Wang Persaraan Guru-Guru (Sabah) (Pembubaran)
 
 9. (1) Seseorang yang ialah, pada 15 Februari 1983, orang yang layak hendaklah dibayar amaun sebagaimana yang dicadangkan dalam laporan aktuari bertarikh 30 Ogos 1996 dan apa-apa penyemakannya selepas itu yang dibuat oleh aktuari dan empat puluh peratus tambahan pada amaun itu.
 
-(2) Amaun pukal yang kena dibayar di bawah subseksyen
-
-(1) hendaklah dibayar daripada wang yang disebut dalam seksyen 6 dan, jika wang itu tidak cukup bagi maksud itu, daripada harta dan aset yang disebut dalam seksyen 5.
+(2) Amaun pukal yang kena dibayar di bawah subseksyen (1) hendaklah dibayar daripada wang yang disebut dalam seksyen 6 dan, jika wang itu tidak cukup bagi maksud itu, daripada harta dan aset yang disebut dalam seksyen 5.
 
 (3) Bagi maksud seksyen ini, "aktuari" ertinya aktuari yang dilantik oleh Lembaga di bawah Ordinan bagi maksud menentukan amaun yang hendak dibayar di bawah Akta ini.
 
@@ -192,17 +204,33 @@ atau terhadap Kerajaan sebagaimana prosiding itu boleh diteruskan atau dimulakan
 
 (3) Mana-mana rayuan yang dibawa, atau mana-mana kebenaran untuk merayu yang dipohon, pada atau selepas tarikh ditetapkan, terhadap sesuatu keputusan yang diberikan sebelum tarikh ditetapkan dalam mana-mana prosiding undang-undang yang dalamnya Lembaga atau mana-mana orang atau badan yang bertindak bagi pihaknya menjadi suatu pihak boleh dibawa oleh atau terhadap Kerajaan sebagaimana rayuan itu boleh dibawa oleh atau terhadap Lembaga seolah-seolah Akta ini tidak pernah diluluskan.
 
-Menghalang
+<!-- marginal: Menghalang -->
 
-13. (1) Jika apa-apa kesukaran atau anomali timbul kesukaran berkaitan dengan pelaksanaan Akta ini, Menteri boleh atau anomali. melalui perintah membuat apa-apa ubahsuaian kepada mana-mana peruntukan Akta ini sebagaimana yang didapatinya perlu bagi menghapuskan atau menghalang kesukaran atau anomali itu:
+13. (1) Jika apa-apa kesukaran atau anomali timbul
+
+<!-- marginal: kesukaran -->
+
+berkaitan dengan pelaksanaan Akta ini, Menteri boleh
+
+<!-- marginal: atau anomali. -->
+
+melalui perintah membuat apa-apa ubahsuaian kepada mana-mana peruntukan Akta ini sebagaimana yang didapatinya perlu bagi menghapuskan atau menghalang kesukaran atau anomali itu:
 
 Dengan syarat bahawa Menteri tidaklah boleh menjalankan kuasa yang diberikan oleh seksyen ini selepas habis tempoh tiga tahun dari tarikh ditetapkan.
 
 (2) Dalam seksyen ini, "ubahsuaian" termasuklah pindaan, penambahan, pemotongan, penggantian, penyesuaian, perubahan, pengubahan dan ketakpakaian mana-mana peruntukan Akta ini.
 
-Keterhentian
+<!-- marginal: Keterhentian -->
 
-14. Semua peraturan yang dibuat di bawah seksyen 18 peraturan- Ordinan Persaraan Guru-Guru 1963 (Sabah) hendaklah peraturan. terhenti berkuat kuasa pada tarikh ditetapkan.
+14. Semua peraturan yang dibuat di bawah seksyen 18
+
+<!-- marginal: peraturan- -->
+
+Ordinan Persaraan Guru-Guru 1963 (Sabah) hendaklah
+
+<!-- marginal: peraturan. -->
+
+terhenti berkuat kuasa pada tarikh ditetapkan.
 
 ## HURAIAN
 

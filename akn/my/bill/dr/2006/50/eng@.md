@@ -10,9 +10,7 @@
 
 ## PRELIMINARY
 
-1. Short title, application and commencement
-
-2. Interpretation
+1. Short title, application and commencement 2. Interpretation
 
 ## PARI II
 
@@ -26,17 +24,7 @@
 
 ## SUBDIVISION INTO PARCELS
 
-4. Establishment of a Joint Management Body
-
-5. Duty of developer to convene meeting
-
-6. First meeting of Joint Management Body
-
-7. Duty of Body to inform Commissioner of name of Body
-
-8. Duties and powers of Joint Management Body
-
-9. Annual general meeting
+4. Establishment of a Joint Management Body 5. Duty of developer to convene meeting 6. First meeting of Joint Management Body 7. Duty of Body to inform Commissioner of name of Body 8. Duties and powers of Joint Management Body 9. Annual general meeting
 
 10. Extraordinary general meeting
 
@@ -56,25 +44,55 @@
 
 ## BUILDING MAINTENANCE ACCOUNT
 
-16. Developer to open and maintain Building Maintenance Account 17. Duties of developer as to Building Maintenance Account 18. Moneys to be deposited into Building Maintenance Account 19. Moneys not to form part of the property of developer 20. Prohibition on collection of charges 21. Duty of developer in respect of charges for building completed before commencement of this Part
+16. Developer to open and maintain Building Maintenance Account
+
+17. Duties of developer as to Building Maintenance Account
+
+18. Moneys to be deposited into Building Maintenance Account
+
+19. Moneys not to form part of the property of developer
+
+20. Prohibition on collection of charges
+
+21. Duty of developer in respect of charges for building completed before commencement of this Part
 
 ## PART V
 
 ## BUILDING MAINTENANCE FUND AND SINKING FUND
 
-22. Building Maintenance Fund 23. Purchaser to pay maintenance charges 24. Joint Management Body to open and maintain sinking fund
+22. Building Maintenance Fund
+
+23. Purchaser to pay maintenance charges
+
+24. Joint Management Body to open and maintain sinking fund
 
 ## PART VI
 
 ## MANAGING AGENT
 
-25. Appointment of managing agent 26. Independence of managing agent 27. Managing agent to lodge bond 28. Powers and duties of managing agent 29. Developer not to be relieved of his obligations to carry out repairs, etc. 30. Termination of management agreement
+25. Appointment of managing agent
+
+26. Independence of managing agent
+
+27. Managing agent to lodge bond
+
+28. Powers and duties of managing agent
+
+29. Developer not to be relieved of his obligations to carry out repairs, etc.
+
+30. Termination of management agreement
 
 ## PART VII
 
 ## DEPOSIT AND RECOVERY OF CHARGES
 
-31. Developer to pay deposit to rectify defects on common property 32. Recovery of charges by Joint Management Body 33. Recovery of arrears of charges 34. Failure or refusal to pay charges
+31. Developer to pay deposit to rectify defects on common property
+
+32. Recovery of charges by Joint Management Body
+
+33. Recovery of arrears of charges
+
+34. Failure or refusal to pay charges
 
 <!-- page 3 -->
 

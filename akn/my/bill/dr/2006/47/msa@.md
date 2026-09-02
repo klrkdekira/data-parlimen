@@ -38,7 +38,9 @@ MAKA, OLEH YANG DEMIKIAN, menurut Fasal (4) Perkara 76 Perlembagaan Persekutuan,
 
 (b) meluaskan mana-mana atau kesemua peruntukan dalam Akta ini supaya terpakai bagi keseluruhan atau mana-mana kawasan atau bahagian mana-mana kawasan dalam Negeri itu yang bukan di bawah mana-mana pihak berkuasa tempatan; dan
 
-(c) membuat apa-apa ubahsuaian, pindaan atau perubahan yang perlu kepada peruntukan dalam Akta ini sebagaimana yang perlu bagi maksud pemakaiannya di bawah perenggan (b).
+(c) membuat apa-apa ubahsuaian, pindaan atau perubahan yang perlu kepada peruntukan dalam Akta ini sebagaimana yang perlu bagi maksud pemakaiannya di bawah perenggan
+
+(b).
 
 (5) Walau apa pun subseksyen (3), berhubung dengan Wilayah Persekutuan Kuala Lumpur dan Putrajaya, Akta ini hendaklah mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
 
@@ -54,19 +56,9 @@ MAKA, OLEH YANG DEMIKIAN, menurut Fasal (4) Perkara 76 Perlembagaan Persekutuan,
 
 (b) dengan menggantikan takrif "orang yang berkelayakan" dengan takrif yang berikut:
 
-' "orang yang berkelayakan" ertinya seorang Arkitek Profesional, Jurutera Profesional atau pelukis pelan bangunan yang berdaftar di bawah mana-mana undang- undang bertulis yang berhubungan
+' "orang yang berkelayakan" ertinya seorang Arkitek Profesional, Jurutera Profesional atau pelukis pelan bangunan yang berdaftar di bawah mana-mana undang- undang bertulis yang berhubungan dengan pendaftarannya;';
 
-<!-- marginal: dengan -->
-
-pendaftarannya;';
-
-(c) dengan memasukkan selepas takrif
-
-<!-- marginal: "orang -->
-
-<!-- marginal: yang -->
-
-berkelayakan" takrif yang berikut:
+(c) dengan memasukkan selepas takrif "orang yang berkelayakan" takrif yang berikut:
 
 ' "orang yang mengemukakan" ertinya orang yang berkelayakan yang mengemukakan pelan selain pelan bangunan kepada pihak berkuasa tempatan atau pihak berkuasa berkanun yang berkaitan mengikut Akta ini atau mana-mana undang-undang kecil yang dibuat di bawahnya dan termasuklah mana-mana orang yang berkelayakan lain yang mengambil alih kewajipan dan tanggungjawab atau bertindak untuk orang yang berkelayakan yang pertama disebut itu;';
 
@@ -74,11 +66,7 @@ berkelayakan" takrif yang berikut:
 
 ' "pelan bangunan" ertinya pelan yang termasuklah pelan tapak, pelan punca, pelan lantai, muka keratan dan tampak sebagaimana yang dinyatakan secara khusus dalam mana-mana undang-undang kecil yang dibuat di bawah Akta ini;';
 
-(e) dengan menggantikan takrif "Perakuan
-
-<!-- marginal: kelayakan -->
-
-menduduki, perakuan kelayakan menduduki sementara dan perakuan kelayakan menduduki sebahagian" dengan takrif yang berikut:
+(e) dengan menggantikan takrif "Perakuan kelayakan menduduki, perakuan kelayakan menduduki sementara dan perakuan kelayakan menduduki sebahagian" dengan takrif yang berikut:
 
 ' "perakuan siap dan pematuhan" ertinya perakuan yang diberi atau diluluskan di bawah mana-mana undang- undang kecil yang dibuat di bawah Akta ini;'; dan
 
@@ -110,9 +98,7 @@ menduduki, perakuan kelayakan menduduki sementara dan perakuan kelayakan mendudu
 
 (c) dalam subseksyen (4), dengan menggantikan perkataan "orang yang mengemukakan sesuatu pelan dan penentuan" dengan perkataan "orang utama yang mengemukakan atau orang yang mengemukakan";
 
-(d) dalam subseksyen (5), dengan menggantikan perkataan "orang" dengan perkataan "orang
-
-<!-- marginal: utama -->
+(d) dalam subseksyen (5), dengan menggantikan perkataan "orang" dengan perkataan "orang utama
 
 <!-- marginal: yang -->
 
@@ -140,17 +126,7 @@ mengemukakan atau orang yang mengemukakan";
 
 (j) dalam subseksyen (18), dengan menggantikan perkataan "orang yang telah mengemukakan pelan itu" dengan perkataan "orang utama yang mengemukakan atau orang yang mengemukakan";
 
-(k) dalam subseksyen (19), dengan menggantikan perkataan "seseorang yang berkelayakan" dengan
-
-<!-- marginal: perkataan -->
-
-"seseorang orang utama yang mengemukakan atau orang yang mengemukakan dan ditandatangani oleh pemunya atau ejen yang diberi kuasa oleh pemunya itu dan orang utama yang mengemukakan atau
-
-<!-- marginal: orang -->
-
-<!-- marginal: yang -->
-
-mengemukakan"; dan
+(k) dalam subseksyen (19), dengan menggantikan perkataan "seseorang yang berkelayakan" dengan perkataan "seseorang orang utama yang mengemukakan atau orang yang mengemukakan dan ditandatangani oleh pemunya atau ejen yang diberi kuasa oleh pemunya itu dan orang utama yang mengemukakan atau orang yang mengemukakan"; dan
 
 <!-- page 6 -->
 
@@ -162,11 +138,7 @@ dengan memasukkan selepas subseksyen (19) subseksyen yang berikut:
 
 (21) Sebelum pengeluaran suatu perakuan siap dan pematuhan, adalah menjadi kewajipan dan tanggungjawab orang utama yang mengemukakan untuk —
 
-(a) mengawasi pendirian bangunan
-
-<!-- marginal: itu untuk -->
-
-memastikan bahawa pendirian itu menepati pelan yang diluluskan dan kehendak peruntukan Akta ini atau mana-mana undang-undang kecil yang dibuat di bawahnya;
+(a) mengawasi pendirian bangunan itu untuk memastikan bahawa pendirian itu menepati pelan yang diluluskan dan kehendak peruntukan Akta ini atau mana-mana undang-undang kecil yang dibuat di bawahnya;
 
 (b) memastikan bahawa bangunan itu telah dibina dan disiapkan dengan sepatutnya menepati pelan yang telah diluluskan dan kehendak Akta ini atau mana-mana undang-undang kecil yang dibuat di bawahnya dan bahawa semua syarat teknikal yang dikenakan oleh pihak berkuasa tempatan telah dipatuhi dengan sepatutnya; dan
 
@@ -190,11 +162,7 @@ memastikan bahawa pendirian itu menepati pelan yang diluluskan dan kehendak peru
 
 (27) Mana-mana orang yang —
 
-(a) bukan orang utama yang mengemukakan tetapi mengeluarkan suatu perakuan
-
-<!-- marginal: siap dan -->
-
-pematuhan;
+(a) bukan orang utama yang mengemukakan tetapi mengeluarkan suatu perakuan siap dan pematuhan;
 
 <!-- page 8 -->
 

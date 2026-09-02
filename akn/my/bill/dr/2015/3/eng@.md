@@ -22,7 +22,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 Bill
 
-## Schedule
+## SCHEDULE
 
 Purpose Title
 
@@ -60,7 +60,7 @@ B. 42 Ministry of Health
 
 <!-- marginal: 200,723,500 -->
 
-ToTal
+## TOTAL
 
 <!-- marginal: 2,223,520,310 -->
 

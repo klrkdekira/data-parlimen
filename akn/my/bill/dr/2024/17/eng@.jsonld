@@ -1,0 +1,768 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-17-2024",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_29"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Drug Dependants (Treatment and Rehabilitation) (Amendment) Bill 2024"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 6 the following section: “Order of Magistrate which may be made on drug or substance misuser 6a. (1) Where a person who has undergone the tests referred to in section 3 or 4 and, in consequence of such tests, is certified by a government medical officer or a registered medical practitioner to be a drug or substance misuser, the officer shall produce the person, or cause the person to appear before a Magistrate. (2) Where a drug or substance misuser is produced or appears before a Magistrate, the Magistrate shall, on the recommendation of a Rehabilitation Officer and after giving such person an opportunity to make representations— (a) order such person to undergo treatment and rehabilitation in a community under the supervision of a Rehabilitation Officer at a place specified in the order for a period not exceeding two years; or (b) order such person to undergo treatment and rehabilitation at a Rehabilitation Centre specified in the order for a period not exceeding six months. (3) An order of treatment and rehabilitation in a community imposed on a person under paragraph (2)(a) shall contain the following conditions: (a) the person shall reside in a State or Federal Territory or any area as specified in the order; (b) the person shall not leave the area where he resides unless written permission is obtained from the Director General; (c) the person shall report at the nearest National Anti-Drugs Agency office at the time specified in the order; (d) the person shall not consume any dangerous drug or substance; (e) the person shall undergo such tests at such time and place as determined by a Rehabilitation Officer; (f) the person shall undergo such programme for the treatment and rehabilitation of drug or substance misuser as determined by a Rehabilitation Officer; and (g) the person shall comply with any direction specified in the Director General’s Standing Order. (4) If after due consideration of the Rehabilitation Officer, a person who is undergoing an order of treatment and rehabilitation in a community under paragraph (2)(a) requires treatment and rehabilitation at a Rehabilitation Centre, an officer may produce the person, or cause the person to appear before a Magistrate. (5) Where a person is produced or appears before a Magistrate under subsection (4), the Magistrate may, after considering the report by a Rehabilitation Officer and after giving such person opportunity to make representations, order the person to undergo treatment and rehabilitation at a Rehabilitation Centre for a period not exceeding six months. (6) Any person undergoing treatment and rehabilitation in a community under paragraph (2)(a) who fails to comply with any of the conditions imposed under subsection (3) commits an offence and shall, on conviction— (a) in the case of a first offence, be liable for an order of an extension of a period of treatment and rehabilitation in a community for a period not exceeding six months; and (b) in the case of a second or subsequent offence, be liable for an order to undergo treatment and rehabilitation at a Rehabilitation Centre for a period not exceeding one year.”. (Amendment) Amendment of heading of Part 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for the heading of Part 3 the following heading: “Part III TREATMENT AND REHABILITATION OF DRUG OR SUBSTANCE DEPENDANTS AND DRUG OR SUBSTANCE MISUSERS WHO VOLUNTEER FOR SAME”. Substitution of section 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 8 the following section: “Procedure for treatment and rehabilitation of drug or substance dependant and drug or substance misuser who voluntarily undergo treatment and rehabilitation 8. (1) Any person who is a drug or substance dependant or drug or substance misuser may apply to a Rehabilitation Officer to be provided with treatment and rehabilitation in respect of the drug and substance dependency or drug or substance misuse of such person. (2) Where a person makes an application under subsection (1), the Rehabilitation Officer shall as soon as possible make arrangements for the applicant to undergo tests at such place as may be determined by the Rehabilitation Officer. (3) Where the Rehabilitation Officer certifies the person as a drug or substance dependant or drug or substance misuser in consequence of the tests made under subsection (2), the Rehabilitation Officer shall decide whether such person— (a) to undergo treatment and rehabilitation at a Rehabilitation Centre, Service Centre or private rehabilitation centre for a period not exceeding two years; or (b) to undergo treatment and rehabilitation in a community under the supervision of the Rehabilition Officer at such place as may be determined by the Rehabilitation Officer for a period not exceeding two years. (4) The Rehabilitation Officer may impose such conditions as he may consider necessary or beneficial for the treatment and rehabilitation under subsection (3) and shall inform his decision to such person. (5) Any person undergoing treatment and rehabilitation at a Rehabilitation Centre or Service Centre who fails to comply with any of the conditions imposed under subsection (4) shall immediately cease to undergo treatment and rehabilitation and be removed from the Rehabilitation Centre or Service Centre.”. Amendment of section 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_13__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_13__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 9 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words “drug dependant” the words “drug or substance dependant and drug or substance misuser”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_13__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_13__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_13__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_13__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, by substituting for the words “ibu bapa” wherever appearing the words “ibu atau bapa”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_13__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_13__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “drug dependant” the words “drug or substance dependant or drug or substance misuser”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_13__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsections: “(3) Where the Rehabilition Officer decides that a minor is to undergo treatment and rehabilitation at the Rehabilitation Centre, Service Centre or private rehabilitation centre, or undergo treatment and rehabilitation in a community, the parent or guardian of the minor shall attend the treatment and (Amendment) rehabilitation programme together with the minor if the parent or guardian of the minor is required by the Rehabilitation Officer to do so. (4) Subject to subsection (3), the Rehabilitation Officer may impose such conditions to a parent or guardian of a minor who is a drug or substance dependant or drug or substance misuser as the Rehabilitation Officer thinks fit. (5) Any parent or guardian of a minor who is a drug or substance dependant or drug or substance misuser who fails to comply with any of the conditions imposed under subsection (4), commits an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit.”. Amendment of heading of Part 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for the heading of Part 4 the following heading: “Part IV CENTRES FOR TREATMENT AND REHABILITATION”. Amendment of section 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_15__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_15__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 10 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by inserting after the words “Rehabilitation Centres” the words “and Service Centres”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “Rehabilitation Centres” the words “and Service Centres”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_15__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “drug dependants” the words “drug or substance dependants or drug or substance misusers”. Amendment of section 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_16__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 11 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing section as subsection (1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the renumbered subsection (1) the following subsection: “(2) The Minister may determine the payment of allowances for members of the Board of Visitors.”. Substitution of section 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 12 the following section: “Shortening period of treatment and rehabilitation 12. The Director General may, on the recommendation of a Rehabilitation Officer, shorten the period of treatment and rehabilitation of any person at any Rehabilitation Centre or Service Centre or the period of treatment and rehabilitation in a community of any person for such reasons as the Director General thinks fit.”. Substitution of section 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 16 the following section: “Private rehabilitation centre for treatment, rehabilitation and after care 16. (1) No person shall operate, provide, handle or perform any service or participate in the management of any private rehabilitation centre for the treatment and rehabilitation of any (Amendment) drug or substance dependant or drug or substance misuser or for the after care of the drug or substance dependant or drug or substance misuser unless he holds an approval granted under this section. (2) The Minister may, on the application in writing of any individual or any organisation, body or group of persons, grant an approval for registration of a private rehabilitation centre— (a) for the treatment and rehabilitation of drug or substance dependants or drug or substance misusers; or (b) for the after care of persons who are drug or substance dependants or drug or substance misusers, for a period not exceeding three years and the approval may be renewed subject to such conditions as the Minister thinks fit. (3) The Minister may revoke the approval of the registration granted under subsection (2) if the individual or the organisation, body or group of persons to whom the approval was granted fails to comply with the conditions imposed by the Minister. (4) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine of not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both. (5) Any person who fails to comply with any of the conditions under subsection (2) commits an offence and shall, on conviction, be liable to a fine of not less than fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both.”. Amendment of section 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 17 of the principal Act is amended by inserting after the words “Rehabilitation Centre” wherever appearing the words “, Service Centre or private rehabilitation centre”. Amendment of heading of Part 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Drug Dependants (Treatment and Rehabilitation) (Amendment) Act 2024."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of long title"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Drug Dependants (Treatment and Rehabilitation) Act 1983 [Act 283], which is referred to as the “principal Act” in this Act, is amended in the long title by substituting for the words “drug dependants” the words “drug or substance dependants and drug or substance misusers”. Amendment of heading of Part 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended in the heading of Part 5 by substituting for the words “Part 5” the words “Part V”. Amendment of section 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_21__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 18 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words “drug dependants” the words “drug or substance dependants and drug or substance misusers”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “drug dependency” the words “drug or substance dependency or drug or substance misuse.”. Substitution of section 21"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 21 the following section: “Period of imprisonment or detention to be deemed a period of treatment and rehabilitation 21. (1) Where a person— (a) who is undergoing treatment and rehabilitation in a community or at a Rehabilitation Centre or Service Centre under the supervision of a Rehabilitation Officer; or (b) who has been ordered to undergo treatment and rehabilitation in a community or at a Rehabilitation Centre or Service Centre but has not yet commenced to undergo the treatment and rehabilitation, is sentenced by any court to any term of imprisonment or by a Court For Children to any term of detention, or is detained under any law relating to preventive detention, such imprisonment or detention shall take precedence over the order under sections 6 and 6a. (Amendment) (2) The period of imprisonment or detention served shall be deemed as the period of treatment and rehabilitation in a community or at a Rehabilitation Centre or Service Centre, as the case may be, and shall be deemed as undergone concurrently with the period of such imprisonment or detention. (3) Where upon completion of the period of imprisonment or detention, there still remain any part of the period for which the person has been ordered to undergo treatment and rehabilitation in a community or at a Rehabilitation Centre or Service Centre that has not yet been completed, such person shall undergo treatment and rehabilitation in a community or at the Rehabilitation Centre or Service Centre, as the case may be, for the remaining part of period that has not been completed. (4) During the period of imprisonment or detention, such drug or substance dependant or drug or substance misuser shall undergo treatment and rehabilitation conducted by the Rehabilitation Officer. (5) Subsections (1), (2) and (3) shall not apply to a person undergoing treatment and rehabilitation in a community or at a Rehabilitation Centre or Service Centre, as the case may be, under sections 8 and 9.”. Amendment of section 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 26 of the principal Act is amended by inserting after the words “Rehabilitation Centre” wherever appearing the words “or Service Centre”. Amendment of section 27"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 27 of the principal Act is amended in the shoulder note by substituting for the words “Separation of minors” the words “Separation of minors from adults”. New sections 27a, 27b and 27c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 27 the following sections: “Appointment of Rehabilitation Officer 27a. The Minister shall appoint such number of Rehabilitation Officers as required for all matters relating to the apprehension, treatment and rehabilitation of drug or substance dependant or drug or substance misuser from time to time for the purposes of this Act. Appointment of volunteer 27b. (1) The Director General may appoint such number of volunteers as may be necessary to assist an officer to execute functions for the treatment and rehabilitation under this Act. (2) A volunteer is subject to the direction, order and control of the Director General to assist an officer to execute functions for the treatment and rehabilitation under this Act. (3) A volunteer— (a) may be paid such allowance as may be determined by the Minister; and (b) shall not be entitled to any remuneration. (4) A volunteer in exercising any duty under this Act shall be deemed to be a public servant within the meaning of the Penal Code [Act 574]. Rehabilitation Officer Profession Council 27c. (1) The Minister shall establish a Rehabilitation Officer Profession Council and appoint such number of persons with experience, knowledge and expertise on matters relating to the affairs of the Rehabilitation Officers, the treatment and rehabilitation of drug or (Amendment) substance dependants and drug or substance misusers and other matters as may be prescribed, to be members of the Rehabilitation Officer Profession Council. (2) The Minister may determine the payment of allowances for members of the Rehabilitation Officer Profession Council.”. Amendment of section 28"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_26__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_26__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 28 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_26__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_26__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_26__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_26__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_26__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_26__para_a__subpara_i__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_26__para_a__subpara_i__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_26__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_26__para_a__subpara_i__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_26__para_a__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “Rehabilitation Centres,” the words “Service Centres”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_26__para_a__subpara_i__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_26__para_a__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “such Rehabilitation Centres” the words “, Service Centres”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_26__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_26__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (d), by inserting after the words “such Rehabilitation Centres” the words “, Service Centres”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_26__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_26__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (g) the following paragraph: “(ga) to provide for the composition, duties, functions and procedures of the Rehabilitation Officer Profession Council;”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_26__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “a fine not exceeding five hundred ringgit or imprisonment for a term not exceeding six months or both” the words “a fine not exceeding one thousand ringgit or to imprisonment for a term not exceeding one year or to both”. New sections 28a and 28b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 28 the following sections: “Power to amend Schedule 28a. The Minister may, by order published in the Gazette, amend the Schedule to this Act. Director General’s Standing Order 28b. The Director General may make and issue orders, to be called Director General’s Standing Order consistent with this Act and any rules made under the Act.”. New Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 31 the following schedule: “SCHEDULE [Section 2] SUBSTANCES 1. Psychotropic substances as specified in the Third Schedule of the Poisons Act 1952 [Act 366] 2. Toluene”. Saving"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_29__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_29__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_29__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All references to “drug dependants” in any written law shall, on the coming into operation of this Act, be construed as references to “drug or substance dependant”. (Amendment)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any action, application, approval or proceedings commenced or pending immediately before the coming into operation of this Act shall, after the date of coming into operation of this Act, be continued as if the principal Act had not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended in the heading of Part 1 by substituting for the words “Part 1” the words “Part I”. Amendment of section 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 1 of the principal Act is amended by substituting for the words “Drug Dependants” the words “Drug and Substance Dependants and Misusers”. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 2 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5__para_a__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5__para_a__subpara_v",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5__para_a__subpara_vi",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5__para_a__subpara_vii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5__para_a__subpara_viii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5__para_a__subpara_ix"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting before the definition of “tests” the following definition: ‘ “substance” means any of the substances specified in the Schedule;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “Director General”, by substituting for the words “subsection (2)” the words “section 4 of the National Anti-Drugs Agency Act 2004 [Act 638]”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “Board of Visitors” the following definition: ‘ “consumes” includes eat, chew, smoke, swallow, drink, inhale or introduce into the body in any manner or by any means whatsoever;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “officer”, by inserting after the words “Rehabilitation Officer” the words “, any officer of the Agency appointed under section 5 of the National Anti-Drugs Agency Act 2004”; (Amendment)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5__para_a__subpara_ix",
+      "@type": "akn:subparagraph",
+      "eli:number": "ix",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “tests” the following definition: ‘ “tests” means all such acts or procedures carried out for the purpose of determining whether a person is a drug or substance dependant or drug or substance misuser.’; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5__para_a__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “Rehabilitation Officer”, by substituting for the words “subsection (2)” the words “section 27a”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5__para_a__subpara_vi",
+      "@type": "akn:subparagraph",
+      "eli:number": "vi",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “drug dependant” the following definition: ‘ “drug or substance dependant” means a person who through the use of any dangerous drug or substance indicates the characteristics of dependency on the dangerous drug or substance that affects self-control which is verified by tests;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5__para_a__subpara_vii",
+      "@type": "akn:subparagraph",
+      "eli:number": "vii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting before the definition of “Minister” the following definition: ‘ “drug or substance misuser” means a person who consumes dangerous drug or substance into the body for non-medical purposes or without a lawful prescription by a government medical officer or registered medical practitioner which is verified by tests;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5__para_a__subpara_viii",
+      "@type": "akn:subparagraph",
+      "eli:number": "viii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “rules” the following definition: ‘ “Service Centre” means an institution established under section 10;’; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (2). Amendment of heading of Part 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for the heading of Part 2 the following heading: “Part II TREATMENT AND REHABILITATION OF DRUG OR SUBSTANCE DEPENDANTS AND DRUG OR SUBSTANCE MISUSERS UNDER COURT ORDER”. Amendment of section 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 3 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words “drug dependant” the words “drug or substance dependant and drug or substance misuser”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “drug dependant” the words “drug or substance dependant or drug or substance misuser”. Amendment of section 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 5 of the principal Act is amended in the shoulder note, by substituting for the words “drug dependant” the words “drug or substance dependant and drug or substance misuser”. Substitution of section 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/17/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 6 the following section: “Order of Magistrate which may be made on drug or substance dependant 6. (1) Where a person who has undergone the tests referred to in section 3 or 4 and, in consequence of such tests, is certified by a government medical officer or a registered (Amendment) medical practitioner to be a drug or substance dependant, the officer shall produce the person, or cause the person to appear before a Magistrate. (2) Where a drug or substance dependant is produced or appears before a Magistrate, the Magistrate shall, on the recommendation of a Rehabilitation Officer and after giving such person an opportunity to make representations— (a) order such person to undergo treatment and rehabilitation at a Rehabilitation Centre specified in the order for a period of two years and thereafter to undergo treatment and rehabilitation in a community under the supervision of a Rehabilitation Officer at a place specified in the order for a period of two years; or (b) order such person to undergo treatment and rehabilitation in a community under the supervision of a Rehabilitation Officer at a place specified in the order for a period of two years. (3) An order of treatment and rehabilitation in a community imposed on a person under paragraph (2)(a) or (b) shall contain the following conditions: (a) the person shall reside in a State or Federal Territory or any area as specified in the order; (b) the person shall not leave the area where he resides unless written permission is obtained from the Director General; (c) the person shall report at the nearest National Anti-Drugs Agency office at the time specified in the order; (d) the person shall not consume any dangerous drug or substance; (e) the person shall undergo such tests at such time and place as may be determined by a Rehabilitation Officer; (f) the person shall undergo such programme for the treatment and rehabilitation of drug or substance dependant as may be determined by a Rehabilitation Officer; and (g) the person shall comply with any direction specified in the Director General’s Standing Order. (4) If after due consideration of the Rehabilitation Officer, a person who is undergoing an order of treatment and rehabilitation in a community under paragraph (2)(a) or (b) requires treatment and rehabilitation at a Rehabilitation Centre, an officer may produce the person, or cause the person to appear before a Magistrate. (5) Where a person is produced or appears before a Magistrate under subsection (4), the Magistrate may, after considering the report by a Rehabilitation Officer and after giving such person an opportunity to make representations, order the person to undergo treatment and rehabilitation at a Rehabilitation Centre for a period not exceeding six months. (6) Any person undergoing treatment and rehabilitation in a community under paragraph (2)(a) or (b) who fails to comply with any of the conditions imposed under subsection (3) commits an offence and shall, on conviction, be liable to a fine or be ordered to perform community service not less than one hundred twenty hours in aggregate within the period of not exceeding six months or to imprisonment for a term not exceeding three years and if sentenced with imprisonment, may be liable for whipping not exceeding three strokes. (7) In this section, “community service” means any work, service, activity or course of instruction for the betterment of the public at large which may assist and preserve the rehabilitation of drug and substance dependant under the supervision of the Director General.”. (Amendment) New section 6a"
+      }
+    }
+  ]
+}

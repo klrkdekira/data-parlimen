@@ -38,9 +38,13 @@
       "@type": "akn:clause",
       "eli:number": "1",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/45/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta (Perbadanan) Synod"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ini bolehlah dinamakan Akta (Perbadanan) Synod dan mula Diocese Malaysia Barat (Pindaan) 1996 dan hendaklah berkuatkuasa. disifatkan telah mula berkuatkuasa pada 2 Februari 1996. Pindaan"
+        "@value": "Diocese Malaysia Barat (Pindaan) 1996 dan hendaklah disifatkan telah mula berkuatkuasa pada 2 Februari 1996."
       }
     },
     {
@@ -48,9 +52,13 @@
       "@type": "akn:clause",
       "eli:number": "2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/45/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta (Perbadanan) Synod Diocese Malaysia Barat 1971"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta (Perbadanan) Synod Diocese Malaysia Barat 1971 seksyen 3. adalah dipinda dalam subseksyen 3(2) dan 3(5) dengan Akta 36. menggantikan perkataan \"Canterbury\" dengan perkataan \"the Province of the Anglican Church in South-east Asia\"."
+        "@value": "adalah dipinda dalam subseksyen 3(2) dan 3(5) dengan menggantikan perkataan \"Canterbury\" dengan perkataan \"the Province of the Anglican Church in South-east Asia\"."
       }
     }
   ]

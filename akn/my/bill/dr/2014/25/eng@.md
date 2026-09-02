@@ -4,7 +4,7 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -12,7 +12,7 @@
 
 2. Interpretation
 
-## Part II
+## PART II
 
 ## NETTING PROVISION
 
@@ -30,7 +30,7 @@
 
 9. Power of Minister to amend Schedule
 
-## Schedule
+## SCHEDULE
 
 <!-- page 3 -->
 
@@ -42,7 +42,7 @@ An Act to provide for the enforceability of netting provision in financial agree
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -84,7 +84,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 5 -->
 
-## Part II
+## PART II
 
 ## NETTING PROVISION
 
@@ -152,11 +152,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Period of stay
 
-7. (1) The Minister may, on the recommendation of the relevant authority having the power to enforce the provisions specified in
-
-## Part II of the Schedule, prescribe any period during which the
-
-enforceability of the netting provision under section 3 shall be stayed for the purposes of the provisions specified in Part II of the Schedule.
+7. (1) The Minister may, on the recommendation of the relevant authority having the power to enforce the provisions specified in Part II of the Schedule, prescribe any period during which the enforceability of the netting provision under section 3 shall be stayed for the purposes of the provisions specified in Part II of the Schedule.
 
 (2) The Minister shall cause a reasonable notice to be given to persons affected by the period of stay prescribed under subsection (1), unless the circumstances do not permit.
 
@@ -176,17 +172,17 @@ enforceability of the netting provision under section 3 shall be stayed for the 
 
 (2) An order under subsection (1) shall be laid before the Dewan Rakyat as soon as practicable after its publication in the Gazette.
 
-## Schedule
+## SCHEDULE
 
 [Sections 3, 7 and 8]
 
-## Part I
+## PART I
 
 1. Sections 29a and 41 of the Pengurusan Danaharta Nasional Berhad Act 1998
 
 2. Section 346 c of the Capital Markets and Services Act 2007 [Act 671]
 
-## Part II
+## PART II
 
 1. Subsections 115(3) and 180(1) of the Malaysia Deposit Insurance Corporation Act 2011
 
@@ -196,7 +192,7 @@ enforceability of the netting provision under section 3 shall be stayed for the 
 
 4. Section 41 of the Pengurusan Danaharta Nasional Berhad Act 1998
 
-## Part III
+## PART III
 
 1. Subsections 115(3) to 115(7) and 180(2) to 180(5) of the Malaysia Deposit Insurance Corporation Act 2011
 

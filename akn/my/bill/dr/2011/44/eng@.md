@@ -6,21 +6,43 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Application 3. Non-application 4. Interpretation
 
-## Part II
+## PART II
 
 ## ADJUDICATION OF PAYMENT DISPUTES
 
-5. Payment claim 6. Payment response 7. Right to refer dispute to adjudication 8. Initiation of adjudication 9. Adjudication claim 10. Adjudication response 11. Adjudication reply 12. Adjudication and decision 13. Effect of adjudication decision 14. Consolidation of adjudication proceedings 15. Improperly procured adjudication decision 16. Stay of adjudication decision 17. Withdrawal and recommencement of adjudication proceedings 18. Costs of adjudication proceedings 19. Adjudicator’s fees and expenses, etc. 20. Confidentiality of adjudication
+5. Payment claim 6. Payment response 7. Right to refer dispute to adjudication 8. Initiation of adjudication 9. Adjudication claim
+
+10. Adjudication response
+
+11. Adjudication reply
+
+12. Adjudication and decision
+
+13. Effect of adjudication decision
+
+14. Consolidation of adjudication proceedings
+
+15. Improperly procured adjudication decision
+
+16. Stay of adjudication decision
+
+17. Withdrawal and recommencement of adjudication proceedings
+
+18. Costs of adjudication proceedings
+
+19. Adjudicator’s fees and expenses, etc.
+
+20. Confidentiality of adjudication
 
 <!-- page 2 -->
 
-## Part III
+## PART III
 
 ## ADJUDICATOR
 
@@ -38,7 +60,7 @@
 
 27. Jurisdiction of adjudicator
 
-## Part IV
+## PART IV
 
 ## ENFORCEMENT OF ADJUDICATION DECISION
 
@@ -50,7 +72,7 @@
 
 31. Concurrent exercise of remedies
 
-## Part V
+## PART V
 
 ## ADJUDICATION AUTHORITY
 
@@ -58,7 +80,7 @@
 
 33. Policy directions
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -72,7 +94,7 @@
 
 <!-- page 3 -->
 
-## Part VII
+## PART VII
 
 ## MISCELLANEOUS
 
@@ -88,7 +110,7 @@ An Act to facilitate regular and timely payment, to provide a mechanism for spee
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -174,7 +196,7 @@ and includes—
 
 “working day” means a calendar day but exclude weekends and public holidays applicable at the State or Federal Territory where the site is located.
 
-## Part II
+## PART II
 
 ## ADJUDICATION OF PAYMENT DISPUTES
 
@@ -362,7 +384,7 @@ and includes—
 
 (d) to the extent that disclosure is required for any purpose under this Act or otherwise required in any written law.
 
-## Part III
+## PART III
 
 ## ADJUDICATOR
 
@@ -470,7 +492,7 @@ and includes—
 
 (3) Notwithstanding a jurisdictional challenge, the adjudicator may in his discretion proceed and complete the adjudication proceedings without prejudice to the rights of any party to apply to set aside the adjudication decision under section 15 or to oppose the application to enforce the adjudication decision under subsection 28(1).
 
-## Part IV
+## PART IV
 
 ## ENFORCEMENT OF ADJUDICATION DECISION
 
@@ -522,7 +544,7 @@ and includes—
 
 (2) The remedies provided by this Act are without prejudice to other rights and remedies available in the construction contract or any written law, including any penalty provided under any written law.
 
-## Part V
+## PART V
 
 ## ADJUDICATION AUTHORITY
 
@@ -546,7 +568,7 @@ and includes—
 
 (2) The Minister charged with the responsibility for legal affairs shall consult the Minister before making any policy directions on the functions of the KLRCA under section 32.
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -608,7 +630,7 @@ and includes—
 
 (3) An adjudication proceeding is terminated if the dispute being adjudicated is settled by agreement in writing between the parties or decided by arbitration or the court.
 
-## Part VII
+## PART VII
 
 ## MISCELLANEOUS
 
@@ -648,7 +670,7 @@ from all or any of the provisions of this Act, subject to such terms and conditi
 
 The Construction Industry Payment Adjudication Act 2011 (“the proposed Act”) seeks to facilitate regular and timely payment in respect of construction contracts and to provide for speedy dispute resolution through adjudication. The purpose of the proposed Act is to alleviate payment problems that presently prevails pervasively and which stifles cash flow in the construction industry. The proposed Act further provides default payment terms in the absence of provisions to that effect and prohibits conditional payment terms that inhibit cash flow. The Act also seeks to provide remedies for the recovery of payment upon the conclusion of adjudication.
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act, which contains clauses 1 to 4, deals with preliminary matters.
 
@@ -662,7 +684,7 @@ The Construction Industry Payment Adjudication Act 2011 (“the proposed Act”)
 
 6. Clause 4 contains the definition of certain expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 7. Part II of the proposed Act, which contains clauses 5 to 20, deals with the procedures on the adjudication of payment disputes.
 
@@ -700,7 +722,7 @@ The Construction Industry Payment Adjudication Act 2011 (“the proposed Act”)
 
 23. Clause 20 provides that the adjudicator and the parties to the dispute shall not disclose any information or document produced or exchanged during the adjudication proceedings except under circumstances set out in the clause.
 
-## Part III
+## PART III
 
 24. Part III of the proposed Act, which contains clauses 21 to 27, deals with the provisions relating to adjudicators.
 
@@ -718,7 +740,7 @@ The Construction Industry Payment Adjudication Act 2011 (“the proposed Act”)
 
 30. Clause 27 provides that the jurisdiction of the adjudicator is limited only to the matter referred to adjudication by the parties pursuant to clauses 5 and 6 but the parties to adjudication may extend the jurisdiction by agreement in writing.
 
-## Part IV
+## PART IV
 
 31. Part IV of the proposed Act, which contains clauses 28 to 31, deals with the enforcement of the adjudication decision.
 
@@ -732,7 +754,7 @@ The Construction Industry Payment Adjudication Act 2011 (“the proposed Act”)
 
 <!-- page 29 -->
 
-## Part V
+## PART V
 
 36. Part V of the proposed Act, which contains clauses 32 to 33, deals with the designation of an adjudication authority.
 
@@ -740,7 +762,7 @@ The Construction Industry Payment Adjudication Act 2011 (“the proposed Act”)
 
 38. Clause 33 requires the KLRCA to obtain policy directions in respect of its duties and responsibilities as the adjudication authority from the Minister charged with the responsibility for legal affairs and for the policy directions to be made upon consultation with the Minister charged with the responsibility for works.
 
-## Part VI
+## PART VI
 
 39. Part VI of the proposed Act, which contains clauses 34 to 37, deals with general provisions.
 
@@ -752,7 +774,7 @@ The Construction Industry Payment Adjudication Act 2011 (“the proposed Act”)
 
 43. Clause 37 allows a dispute in respect of payment under a construction contract to be referred concurrently to adjudication, arbitration and the court. The provision for adjudication is therefore additional to and complements other dispute resolution mechanism. This clause further provides that a reference to other dispute resolution mechanism does not terminate the adjudication proceedings except if before the adjudication decision is made, the dispute is settled by agreement of the parties or has been decided by arbitration or the court.
 
-## Part VII
+## PART VII
 
 44. Part VII of the proposed Act, which contains clauses 38 to 41, deals with miscellaneous provisions.
 

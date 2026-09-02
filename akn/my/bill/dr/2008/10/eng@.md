@@ -420,11 +420,11 @@ tobacco industry; and
 
 ### Functions of the Board
 
-4. The functions of the Board shall be— (a) to implement policies and developmental programmes to ensure the viability of the kenaf industry;
+4. The functions of the Board shall be—
 
-(b) to plan, conduct, promote, co-ordinate, implement and monitor all research and development activities
+(a) to implement policies and developmental programmes to ensure the viability of the kenaf industry;
 
-<!-- marginal: relating -->
+(b) to plan, conduct, promote, co-ordinate, implement and monitor all research and development activities relating
 
 <!-- marginal: to -->
 
@@ -472,7 +472,9 @@ marketing, export and import of tobacco and tobacco products, including to regul
 
 ### Powers of the Board
 
-5. The powers of the Board shall include powers— (a) to undertake activities relating to research and development on the planting, production, harvesting, extraction, processing and marketing of —
+5. The powers of the Board shall include powers—
+
+(a) to undertake activities relating to research and development on the planting, production, harvesting, extraction, processing and marketing of —
 
 (i) kenaf, kenaf products and tobacco; (ii) other usage of kenaf, kenaf products and tobacco,
 
@@ -514,13 +516,23 @@ Board is a member or to such organizations related to the kenaf industry and tob
 
 6. The Board shall consist of the following members:
 
-(a) a Chairman who shall be appointed by the Minister; (b) the Secretary General of the Ministry responsible for the kenaf industry and tobacco industry;
+(a) a Chairman who shall be appointed by the Minister;
 
-(c) the Secretary General of the Ministry responsible for agriculture; (d) the Secretary General of the Treasury; (e) the Secretary General of the Ministry of Rural and Regional Development;
+(b) the Secretary General of the Ministry responsible for the kenaf industry and tobacco industry;
+
+(c) the Secretary General of the Ministry responsible for agriculture;
+
+(d) the Secretary General of the Treasury;
+
+(e) the Secretary General of the Ministry of Rural and Regional Development;
 
 (f) the Secretary General of the Ministry of International Trade and Industry;
 
-(g) the Secretary General of the Ministry of Health; (h) the Director General; and (i) six other persons who shall be appointed by the Minister who, in the opinion of the Minister, have the experience and shown capacity and professionalism in matters relating to the development of the kenaf industry and tobacco industry, of whom there shall be –
+(g) the Secretary General of the Ministry of Health;
+
+(h) the Director General; and
+
+(i) six other persons who shall be appointed by the Minister who, in the opinion of the Minister, have the experience and shown capacity and professionalism in matters relating to the development of the kenaf industry and tobacco industry, of whom there shall be –
 
 (i) a representative of the tobacco manufacturers;
 
@@ -754,9 +766,13 @@ for the approval of the Board;
 
 23. The Fund shall be expended for the purposes of—
 
-(a) paying any expenditure lawfully incurred by the Board, including— (i) the remuneration of the officers and servants of the Board, including the granting of loans, superannuation allowances, pensions or gratuities;
+(a) paying any expenditure lawfully incurred by the Board, including—
 
-(ii) insurance coverage for the officers and servants of the Board; (iii) costs incurred in providing for the welfare of the officers and servants of the Board;
+(i) the remuneration of the officers and servants of the Board, including the granting of loans, superannuation allowances, pensions or gratuities;
+
+(ii) insurance coverage for the officers and servants of the Board;
+
+(iii) costs incurred in providing for the welfare of the officers and servants of the Board;
 
 <!-- page 26 -->
 

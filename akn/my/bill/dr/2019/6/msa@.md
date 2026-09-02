@@ -310,7 +310,7 @@ apa-apa mesin atau alat yang dikendalikan dengan syiling, token atau seumpamanya
 
 ### “Mengimbangi cukai belum bayar terhadap pembayaran
 
-### balik
+<!-- marginal: balik -->
 
 27a. Walau apa pun apa-apa peruntukan Akta ini, jika mana-mana orang tidak membayar, secara keseluruhannya atau sebahagiannya—
 
@@ -466,7 +466,7 @@ asing”; dan
 
 37. Akta ibu dipinda dengan memasukkan selepas Bahagian IX bahagian yang berikut:
 
-“bahagian IXa
+## “BAHAGIAN IXA
 
 ## PERKHIDMATAN DIGITAL
 

@@ -4,7 +4,7 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -24,7 +24,7 @@
 
 8. Interests in shares
 
-## Part II
+## PART II
 
 ## FORMATION AND ADMINISTRATION OF COMPANIES
 
@@ -174,7 +174,7 @@ Division 10 Annual Return
 
 68. Duty to lodge annual return
 
-## Part III
+## PART III
 
 ## MANAGEMENT OF COMPANY
 
@@ -304,15 +304,55 @@ Subdivision 4 Reduction of Share Capital
 
 Subdivision 5 Assistance by a Company in the Purchase of Its Own Shares
 
-123. Financial assistance by a company in dealings in its shares, etc. 124. Consequences of failing to comply with this Subdivision 125. General exceptions 126. Financial assistance not exceeding ten per centum of shareholders’ funds 127. Purchase by a company of its own shares, etc. 128. Options to take up unissued shares 129. Register of options to take up unissued shares in a company 130. Power of company to pay interest out of capital in certain cases
+123. Financial assistance by a company in dealings in its shares, etc.
+
+124. Consequences of failing to comply with this Subdivision
+
+125. General exceptions
+
+126. Financial assistance not exceeding ten per centum of shareholders’ funds
+
+127. Purchase by a company of its own shares, etc.
+
+128. Options to take up unissued shares
+
+129. Register of options to take up unissued shares in a company
+
+130. Power of company to pay interest out of capital in certain cases
 
 Subdivision 6 Dividends
 
-131. Distribution out of profit 132. Distribution only if company is solvent 133. Recovery of distribution
+131. Distribution out of profit
+
+132. Distribution only if company is solvent
+
+133. Recovery of distribution
 
 Subdivision 7 Substantial Shareholdings
 
-134. Application and interpretation 135. Persons obliged to comply with Subdivision 136. Substantial shareholdings and substantial shareholders 137. Substantial shareholder to notify company of his interests 138. Substantial shareholder to notify company of change in his interests 139. Person who ceases to be substantial shareholder to notify company 140. References to operation of interests in shares 141. Copy of notice to be served on the Registrar 142. Notice to non-residents 143. Registrar may extend time for giving notice under this Subdivision 144. Company to keep and maintain register of substantial shareholders 145. Powers of Court with respect to defaulting substantial shareholders
+134. Application and interpretation
+
+135. Persons obliged to comply with Subdivision
+
+136. Substantial shareholdings and substantial shareholders
+
+137. Substantial shareholder to notify company of his interests
+
+138. Substantial shareholder to notify company of change in his interests
+
+139. Person who ceases to be substantial shareholder to notify company
+
+140. References to operation of interests in shares
+
+141. Copy of notice to be served on the Registrar
+
+142. Notice to non-residents
+
+143. Registrar may extend time for giving notice under this Subdivision
+
+144. Company to keep and maintain register of substantial shareholders
+
+145. Powers of Court with respect to defaulting substantial shareholders
 
 <!-- page 10 -->
 
@@ -372,11 +412,51 @@ Subdivision 9 Prospectus
 
 <!-- page 11 -->
 
-Subdivision 10 Debentures 171. Application of Subdivision 10 172. Specific performance of contracts 173. Perpetual debentures 174. Power to re-issue redeemed debentures 175. Deposit of debentures to secure advances 176. Qualifications of trustee for debenture holders 177. Duties of trustee 178. Retirement of trustee 179. Contents of trust deed 180. Power of Court in relation to certain irredeemable debentures 181. Power of trustee to apply to Court for directions, etc. 182. Obligations of borrowing corporation 183. Obligation of guarantor corporation to furnish information 184. Loans and deposits to be immediately refundable on certain events 185. Liability of trustee for debenture holders
+Subdivision 10 Debentures
+
+171. Application of Subdivision 10
+
+172. Specific performance of contracts
+
+173. Perpetual debentures
+
+174. Power to re-issue redeemed debentures
+
+175. Deposit of debentures to secure advances
+
+176. Qualifications of trustee for debenture holders
+
+177. Duties of trustee
+
+178. Retirement of trustee
+
+179. Contents of trust deed
+
+180. Power of Court in relation to certain irredeemable debentures
+
+181. Power of trustee to apply to Court for directions, etc.
+
+182. Obligations of borrowing corporation
+
+183. Obligation of guarantor corporation to furnish information
+
+184. Loans and deposits to be immediately refundable on certain events
+
+185. Liability of trustee for debenture holders
 
 Subdivision 11 Restrictions on Allotment and Commencement of Business
 
-186. Prohibition of allotment unless minimum subscription received 187. Application for moneys to be held in trust until allotment 188. Restriction on allotment in certain cases 189. Requirements as to statements in lieu of prospectus 190. Restrictions on commencement of business in certain circumstances 191. Restriction on varying contracts referred to in prospectus, etc.
+186. Prohibition of allotment unless minimum subscription received
+
+187. Application for moneys to be held in trust until allotment
+
+188. Restriction on allotment in certain cases
+
+189. Requirements as to statements in lieu of prospectus
+
+190. Restrictions on commencement of business in certain circumstances
+
+191. Restriction on varying contracts referred to in prospectus, etc.
 
 Division 2 Members, Directors and Officers of Companies
 
@@ -438,11 +518,61 @@ Subdivision 3 Directors’ Duties and Responsibilities
 
 <!-- page 13 -->
 
-216. Responsibility for actions of delegatee 217. Responsibility of a nominee director 218. Prohibition against improper use of property, position, etc. 219. General duty to make disclosure 220. Effect of other rules of law on duties of directors 221. Disclosure of interest in contracts, proposed contracts, property, offices, etc. 222. Interested director not to participate or vote 223. Approval of company required for disposal by directors of company’s undertaking or property 224. Loans to director 225. Prohibition of loans to persons connected with directors 226. Prohibition of tax free payments to directors 227. Payment to directors for loss of office, etc. 228. Transactions with directors, substantial shareholders or connected persons 229. Exception to section 228 230. Approvals for fees of directors 231. Directors’ service contracts 232. Copy of contracts to be available for inspection 233. Right of member to inspect and request copy 234. Contract with sole member who is also a director
+216. Responsibility for actions of delegatee
+
+217. Responsibility of a nominee director
+
+218. Prohibition against improper use of property, position, etc.
+
+219. General duty to make disclosure
+
+220. Effect of other rules of law on duties of directors
+
+221. Disclosure of interest in contracts, proposed contracts, property, offices, etc.
+
+222. Interested director not to participate or vote
+
+223. Approval of company required for disposal by directors of company’s undertaking or property
+
+224. Loans to director
+
+225. Prohibition of loans to persons connected with directors
+
+226. Prohibition of tax free payments to directors
+
+227. Payment to directors for loss of office, etc.
+
+228. Transactions with directors, substantial shareholders or connected persons
+
+229. Exception to section 228
+
+230. Approvals for fees of directors
+
+231. Directors’ service contracts
+
+232. Copy of contracts to be available for inspection
+
+233. Right of member to inspect and request copy
+
+234. Contract with sole member who is also a director
 
 Subdivision 4 Secretary
 
-235. Requirement for a secretary 236. Appointment of a secretary 237. Resignation of a secretary 238. Disqualification to act as a secretary 239. Removal of a secretary 240. Office of secretary shall not be left vacant 241. Requirement to register with Registrar 242. Prohibition to act in dual capacity
+235. Requirement for a secretary
+
+236. Appointment of a secretary
+
+237. Resignation of a secretary
+
+238. Disqualification to act as a secretary
+
+239. Removal of a secretary
+
+240. Office of secretary shall not be left vacant
+
+241. Requirement to register with Registrar
+
+242. Prohibition to act in dual capacity
 
 <!-- page 14 -->
 
@@ -504,7 +634,9 @@ Subdivision 2 Auditors
 
 ## Chapter I
 
-Provisions Relating to Auditor of Private Company 267. Appointment of auditors of private company
+Provisions Relating to Auditor of Private Company
+
+267. Appointment of auditors of private company
 
 268. Power of Registrar to appoint auditors of private company
 
@@ -608,15 +740,61 @@ Subdivision 2 Written Resolutions of Private Companies
 
 <!-- page 17 -->
 
-Subdivision 3 Passing Resolutions at Meetings of Members 309. Resolutions at meetings of members 310. Power to convene meetings of members 311. Power to require directors to convene meetings of members 312. Directors’ duty to call meetings required by members 313. Power of members to convene meeting of members at company’s expense 314. Power of Court to order meeting 315. Resolution passed at adjourned meeting
+Subdivision 3 Passing Resolutions at Meetings of Members
+
+309. Resolutions at meetings of members
+
+310. Power to convene meetings of members
+
+311. Power to require directors to convene meetings of members
+
+312. Directors’ duty to call meetings required by members
+
+313. Power of members to convene meeting of members at company’s expense
+
+314. Power of Court to order meeting
+
+315. Resolution passed at adjourned meeting
 
 Subdivision 4 Notice of Meetings
 
-316. Notice required for meetings of members 317. Contents of notices of meetings of members 318. Notice of adjourned meetings of members 319. Manner in which notice to be given 320. Notification of publication of notice of meeting on website 321. Persons entitled to receive notice of meetings of members 322. Resolution requiring special notice 323. Power of members to require circulation of statements 324. Director’s duty to circulate members’ statement 325. Power of Court to order non-circulation of member’s statement 326. Sending documents relating to a meeting by electronic means
+316. Notice required for meetings of members
+
+317. Contents of notices of meetings of members
+
+318. Notice of adjourned meetings of members
+
+319. Manner in which notice to be given
+
+320. Notification of publication of notice of meeting on website
+
+321. Persons entitled to receive notice of meetings of members
+
+322. Resolution requiring special notice
+
+323. Power of members to require circulation of statements
+
+324. Director’s duty to circulate members’ statement
+
+325. Power of Court to order non-circulation of member’s statement
+
+326. Sending documents relating to a meeting by electronic means
 
 Subdivision 5 Procedure at Meetings
 
-327. Meetings of members at two or more venues 328. Quorum at meetings 329. Chairperson of meetings of members 330. Declaration by chairperson on a show of hands 331. Right to demand a poll 332. Voting on a poll 333. Representation of corporations at meetings of members
+327. Meetings of members at two or more venues
+
+328. Quorum at meetings
+
+329. Chairperson of meetings of members
+
+330. Declaration by chairperson on a show of hands
+
+331. Right to demand a poll
+
+332. Voting on a poll
+
+333. Representation of corporations at meetings of members
 
 <!-- page 18 -->
 
@@ -670,15 +848,55 @@ Division 6 Remedies
 
 Division 7 Charges, Arrangement and Reconstructions and Receivership
 
-Subdivision 1 Charges 352. Registration of charges 353. Types of charges require registration 354. Registration of charges created over property outside Malaysia 355. Registration of charges in series of debentures 356. Duty of company to register charges existing on property acquired 357. Register of charges to be kept by Registrar 358. Endorsement of certificate of registration on debentures 359. Assignment and variation of charge 360. Satisfaction and release of property from charge 361. Extension of time and rectification of register of charges 362. Company to keep instruments of charges and register of charges 363. Documents made out of Malaysia 364. Application of this Subdivision to foreign company
+Subdivision 1 Charges
+
+352. Registration of charges
+
+353. Types of charges require registration
+
+354. Registration of charges created over property outside Malaysia
+
+355. Registration of charges in series of debentures
+
+356. Duty of company to register charges existing on property acquired
+
+357. Register of charges to be kept by Registrar
+
+358. Endorsement of certificate of registration on debentures
+
+359. Assignment and variation of charge
+
+360. Satisfaction and release of property from charge
+
+361. Extension of time and rectification of register of charges
+
+362. Company to keep instruments of charges and register of charges
+
+363. Documents made out of Malaysia
+
+364. Application of this Subdivision to foreign company
 
 Subdivision 2 Arrangements and Reconstructions
 
-365. Interpretation 366. Power of Court to order compromise or arrangement with creditors and members 367. Power of Court to appoint an approved liquidator 368. Power of Court to restrain proceedings 369. Information as to compromise or arrangement with creditors and members 370. Reconstruction and amalgamation of companies 371. Right of offeror to buy out
+365. Interpretation
+
+366. Power of Court to order compromise or arrangement with creditors and members
+
+367. Power of Court to appoint an approved liquidator
+
+368. Power of Court to restrain proceedings
+
+369. Information as to compromise or arrangement with creditors and members
+
+370. Reconstruction and amalgamation of companies
+
+371. Right of offeror to buy out
 
 Subdivision 3 Receivers and Receivers and Managers
 
-372. Qualification for appointment of receiver or receiver and manager 373. Disqualification for appointment as receiver or receiver and manager
+372. Qualification for appointment of receiver or receiver and manager
+
+373. Disqualification for appointment as receiver or receiver and manager
 
 <!-- page 20 -->
 
@@ -738,11 +956,63 @@ Subdivision 1 Corporate Voluntary Arrangement
 
 <!-- page 21 -->
 
-399. Summoning of meetings 400. Decisions of meetings 401. Implementation of proposal 402. Arrangements coming to an end prematurely
+399. Summoning of meetings
+
+400. Decisions of meetings
+
+401. Implementation of proposal
+
+402. Arrangements coming to an end prematurely
 
 Subdivision 2 Judicial Management
 
-403. Non-application of this Subdivision 404. Application to Court for a company to be placed under judicial management and for appointment of a judicial manager 405. Power of Court to make a judicial management order and appoint a judicial manager 406. Duration of judicial management order and its extension 407. Nomination of judicial manager 408. Notice of application for judicial management order 409. Dismissal of application for judicial management order 410. Effect of application for a judicial management order 411. Effect of judicial management order 412. Notification that a company is under judicial management order 413. Vacancy in appointment of judicial manager 414. General powers and duties of judicial manager 415. Power to deal with charged property, etc. 416. Agency and liability for contracts 417. Vacation of office and release 418. Information to be given by and to judicial manager 419. Company’s statement of affairs 420. Statement of proposals 421. Consideration of proposals by creditors’ meeting 422. Committee of creditors 423. Duty to manage company’s affairs, etc., in accordance with approved proposals 424. Duty to apply for discharge of judicial management order 425. Protection of interests of creditors and members 426. Undue preference in judicial management
+403. Non-application of this Subdivision
+
+404. Application to Court for a company to be placed under judicial management and for appointment of a judicial manager
+
+405. Power of Court to make a judicial management order and appoint a judicial manager
+
+406. Duration of judicial management order and its extension
+
+407. Nomination of judicial manager
+
+408. Notice of application for judicial management order
+
+409. Dismissal of application for judicial management order
+
+410. Effect of application for a judicial management order
+
+411. Effect of judicial management order
+
+412. Notification that a company is under judicial management order
+
+413. Vacancy in appointment of judicial manager
+
+414. General powers and duties of judicial manager
+
+415. Power to deal with charged property, etc.
+
+416. Agency and liability for contracts
+
+417. Vacation of office and release
+
+418. Information to be given by and to judicial manager
+
+419. Company’s statement of affairs
+
+420. Statement of proposals
+
+421. Consideration of proposals by creditors’ meeting
+
+422. Committee of creditors
+
+423. Duty to manage company’s affairs, etc., in accordance with approved proposals
+
+424. Duty to apply for discharge of judicial management order
+
+425. Protection of interests of creditors and members
+
+426. Undue preference in judicial management
 
 <!-- page 22 -->
 
@@ -754,7 +1024,7 @@ Subdivision 2 Judicial Management
 
 430. Application of provisions of winding up of a company under judicial management
 
-## Part IV
+## PART IV
 
 ## CESSATION OF COMPANIES
 
@@ -798,19 +1068,53 @@ Subdivision 3 Voluntary Winding Up
 
 Subdivision 4 Members’ Voluntary Winding Up
 
-445. Appointment and removal of liquidator 446. Power to fill vacancy in office of liquidator 447. Duty of liquidator to call for creditors’ meeting in case of insolvency 448. Conversion to creditors’ voluntary winding up
+445. Appointment and removal of liquidator
+
+446. Power to fill vacancy in office of liquidator
+
+447. Duty of liquidator to call for creditors’ meeting in case of insolvency
+
+448. Conversion to creditors’ voluntary winding up
 
 Subdivision 5 Creditors’ Voluntary Winding Up
 
-449. Meeting of creditors 450. Liquidators in creditors voluntary winding up 451. Property and proceedings
+449. Meeting of creditors
+
+450. Liquidators in creditors voluntary winding up
+
+451. Property and proceedings
 
 Subdivision 6 Provisions Applicable to Every Voluntary Winding Up
 
-452. Distribution of property of company 453. Appointment or removal of liquidator by Court 454. Remuneration of liquidators in voluntary winding up 455. Act of liquidator valid, etc. 456. Powers of liquidator in a voluntary winding up 457. Power of liquidator to accept shares, etc., as consideration for sale of property of company 458. Annual meeting of members and creditors 459. Final meeting and dissolution 460. Arrangement binding on creditors 461. Application to Court to have questions determined or powers exercised 462. Costs 463. Limitation on right to wind up voluntarily
+452. Distribution of property of company
+
+453. Appointment or removal of liquidator by Court
+
+454. Remuneration of liquidators in voluntary winding up
+
+455. Act of liquidator valid, etc.
+
+456. Powers of liquidator in a voluntary winding up
+
+457. Power of liquidator to accept shares, etc., as consideration for sale of property of company
+
+458. Annual meeting of members and creditors
+
+459. Final meeting and dissolution
+
+460. Arrangement binding on creditors
+
+461. Application to Court to have questions determined or powers exercised
+
+462. Costs
+
+463. Limitation on right to wind up voluntarily
 
 Subdivision 7 Winding Up by Court
 
-464. Petition of winding up 465. Circumstances in which company may be wound up by Court
+464. Petition of winding up
+
+465. Circumstances in which company may be wound up by Court
 
 <!-- page 24 -->
 
@@ -874,13 +1178,63 @@ Subdivision 9 General Powers of Court in Winding Up by Court
 
 <!-- page 25 -->
 
-493. Power of Court to terminate winding up 494. Matters relating to stay and termination of winding up 495. Debts due by contributory to company and extent of set off 496. Power of Court to make calls 497. Payment of moneys due to company into named bank 498. Order on contributory conclusive evidence 499. Appointment of special manager 500. Claims of creditors and distribution of assets 501. Inspection of books and papers by creditors and contributories 502. Power to summon persons connected with company 503. Power to order public examination of promoters, directors, etc. 504. Power to arrest absconding contributory 505. Delegation of powers of Court to liquidator 506. Powers of Court cumulative
+493. Power of Court to terminate winding up
+
+494. Matters relating to stay and termination of winding up
+
+495. Debts due by contributory to company and extent of set off
+
+496. Power of Court to make calls
+
+497. Payment of moneys due to company into named bank
+
+498. Order on contributory conclusive evidence
+
+499. Appointment of special manager
+
+500. Claims of creditors and distribution of assets
+
+501. Inspection of books and papers by creditors and contributories
+
+502. Power to summon persons connected with company
+
+503. Power to order public examination of promoters, directors, etc.
+
+504. Power to arrest absconding contributory
+
+505. Delegation of powers of Court to liquidator
+
+506. Powers of Court cumulative
 
 Division 2 Provisions Applicable to Every Winding Up
 
 Subdivision 1 General
 
-507. Investment of surplus funds on general account 508. Unclaimed assets to be paid to receiver of revenue 509. Books and papers to be kept by liquidator 510. Control of Court over liquidators 511. Delivery of property to liquidator 512. Powers of Official Receiver where no committee of inspection 513. Notice of appointment and address of liquidator 514. Liquidator’s accounts 515. Liquidator to make good defaults 516. Notification that a company is in liquidation 517. Appeal against decision of liquidator 518. Books and papers of company 519. Expenses of winding up where assets insufficient
+507. Investment of surplus funds on general account
+
+508. Unclaimed assets to be paid to receiver of revenue
+
+509. Books and papers to be kept by liquidator
+
+510. Control of Court over liquidators
+
+511. Delivery of property to liquidator
+
+512. Powers of Official Receiver where no committee of inspection
+
+513. Notice of appointment and address of liquidator
+
+514. Liquidator’s accounts
+
+515. Liquidator to make good defaults
+
+516. Notification that a company is in liquidation
+
+517. Appeal against decision of liquidator
+
+518. Books and papers of company
+
+519. Expenses of winding up where assets insufficient
 
 <!-- page 26 -->
 
@@ -984,7 +1338,7 @@ Subdivision 2 Management of Assets of Dissolved Companies
 
 <!-- page 28 -->
 
-## Part V
+## PART V
 
 ## MISCELLANEOUS
 
@@ -1040,15 +1394,61 @@ Subdivision 1 Enforcement of the Act
 
 <!-- page 29 -->
 
-583. Disposal of shares of shareholder whose whereabouts unknown 584. Furnishing of information and particulars of shareholding 585. Court may compel compliance 586. Translations of instruments 587. Protection to certain officers who make disclosures 588. General penalty provisions 589. Proceedings how and when taken 590. Investigation of affairs of company at direction of Minister
+583. Disposal of shares of shareholder whose whereabouts unknown
+
+584. Furnishing of information and particulars of shareholding
+
+585. Court may compel compliance
+
+586. Translations of instruments
+
+587. Protection to certain officers who make disclosures
+
+588. General penalty provisions
+
+589. Proceedings how and when taken
+
+590. Investigation of affairs of company at direction of Minister
 
 Subdivision 2 General Offences
 
-591. False and misleading statements 592. False reports 593. False report or statement to the Registrar 594. Fraudulently inducing persons to invest money 595. Fraud by officer 596. Restriction on offering shares, debentures, etc., for subscription or purchase 597. Restriction on the use of words “Limited”, “Berhad” and “Sendirian” 598. Prosecution of delinquent officers of company
+591. False and misleading statements
+
+592. False reports
+
+593. False report or statement to the Registrar
+
+594. Fraudulently inducing persons to invest money
+
+595. Fraud by officer
+
+596. Restriction on offering shares, debentures, etc., for subscription or purchase
+
+597. Restriction on the use of words “Limited”, “Berhad” and “Sendirian”
+
+598. Prosecution of delinquent officers of company
 
 Division 3 General Provisions
 
-599. Evidentiary value of copies certified by Registrar 600. Evidence of statutory requirements 601. Registers and inspection of Register 602. Rectification of registers 603. Disposal of old records 604. Electronic lodgement of documents 605. Issuing document electronically 606. Electronic information, etc. certified by Registrar admissible in evidence 607. Enforcement of duty to make returns 608. Relodging of lost or destroyed documents
+599. Evidentiary value of copies certified by Registrar
+
+600. Evidence of statutory requirements
+
+601. Registers and inspection of Register
+
+602. Rectification of registers
+
+603. Disposal of old records
+
+604. Electronic lodgement of documents
+
+605. Issuing document electronically
+
+606. Electronic information, etc. certified by Registrar admissible in evidence
+
+607. Enforcement of duty to make returns
+
+608. Relodging of lost or destroyed documents
 
 <!-- page 30 -->
 
@@ -1078,27 +1478,31 @@ Division 4 Saving and Transitional
 
 620. Repeal and savings
 
-## First schedule
+## FIRST SCHEDULE
 
-## second schedule
+## SECOND SCHEDULE
 
-## third schedule
+## THIRD SCHEDULE
 
-## Fourth schedule
+## FOURTH SCHEDULE
 
-## FiFth schedule
+## FIFTH SCHEDULE
 
-## sixth schedule
+## SIXTH SCHEDULE
 
-## seventh schedule
+## SEVENTH SCHEDULE
 
-## eighth schedule
+## EIGHTH SCHEDULE
 
-## ninth schedule
+## NINTH SCHEDULE
 
-## tenth schedule
+## TENTH SCHEDULE
 
-eleventh schedule twelFth schedule thirteenth schedule
+## ELEVENTH SCHEDULE
+
+## TWELFTH SCHEDULE
+
+## THIRTEENTH SCHEDULE
 
 <!-- page 31 -->
 
@@ -1110,7 +1514,7 @@ An Act to provide for the registration, administration and dissolution of compan
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -1538,7 +1942,7 @@ shall be treated as held or exercisable by that other corporation;
 
 (d) the fact that it is held by, or in the name of, a central depository or its nominee company under the Securities Industry (Central Depositories) Act 1991 [Act 453].
 
-## Part II
+## PART II
 
 ## FORMATION AND ADMINISTRATION OF COMPANIES
 
@@ -1966,7 +2370,9 @@ and includes any alteration or amendment made under section 36 or 37, if any, as
 
 (2) The company shall ensure that an office copy of an order made under subsection (1) together with a copy of the constitution as altered or amended is lodged with the Registrar for registration within thirty days from the date of the order.
 
-(3) The company and every officer who contravene subsection (2) commit an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit and, in the case of a continuing offence, to a further fine not exceeding five hundred ringgit for each day during which the offence continues after conviction.
+(3) The company and every officer who contravene subsection
+
+(2) commit an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit and, in the case of a continuing offence, to a further fine not exceeding five hundred ringgit for each day during which the offence continues after conviction.
 
 ### A company limited by guarantee shall have a constitution
 
@@ -2464,7 +2870,9 @@ commits an offence.
 
 (8) The company and every officer who contravenes the direction of the Registrar, a stock exchange or the Securities Commission commit an offence.
 
-(9) A person shall not be guilty of an offence under paragraph (7)(a) if he proves that the information in question was already in the possession of the company or that the requirement to give it was for any other reason that is frivolous or vexatious.
+(9) A person shall not be guilty of an offence under paragraph
+
+(7)(a) if he proves that the information in question was already in the possession of the company or that the requirement to give it was for any other reason that is frivolous or vexatious.
 
 <!-- page 82 -->
 
@@ -2710,7 +3118,9 @@ approved by the Board.
 
 (b) it is delivered as a deed.
 
-(2) For the purposes of paragraph (1)(b), a document is presumed to be delivered upon it being validly executed under subsection (1), unless a contrary intention is proved.
+(2) For the purposes of paragraph (1)(b), a document is presumed to be delivered upon it being validly executed under subsection
+
+(1), unless a contrary intention is proved.
 
 (3) Notwithstanding subsection (1), a company may, by instrument executed as a deed, empower a person, either generally or in respect of specified matters, to execute deeds or other documents on its behalf.
 
@@ -2770,7 +3180,7 @@ Annual Return
 
 <!-- page 94 -->
 
-## Part III
+## PART III
 
 ## MANAGEMENT OF COMPANY
 
@@ -3616,7 +4026,9 @@ Reduction of Share Capital
 
 (3) Notwithstanding subsection (2), the Court may, after considering any special circumstances of any case, direct that all or any of the provisions of that subsection shall not apply with regards to any class of creditors.
 
-(4) The Court may, on such terms and conditions as the Court thinks fit, make an order confirming the reduction if the Court is satisfied with respect to every creditor who under subsection (2) is entitled to object, that—
+(4) The Court may, on such terms and conditions as the Court thinks fit, make an order confirming the reduction if the Court is satisfied with respect to every creditor who under subsection
+
+(2) is entitled to object, that—
 
 (a) his consent to the reduction has been obtained; or
 
@@ -3652,7 +4064,9 @@ would have been liable to contribute if the company had commenced to be wound up
 
 (ii) make and enforce calls and orders on the contributories settled on the list as if the persons liable to contribute were ordinary contributories in a winding up.
 
-(10) The rights of the contributories shall not be affected notwithstanding the reduction of the share capital under subsection (9).
+(10) The rights of the contributories shall not be affected notwithstanding the reduction of the share capital under subsection
+
+(9).
 
 (11) This section shall not apply to an unlimited company, but nothing in this Act shall preclude an unlimited company from reducing its share capital in any manner.
 
@@ -3862,7 +4276,7 @@ company or its holding company, being a purchase or subscription by trustees of 
 
 ### Financial assistance not exceeding ten per centum of shareholders’
 
-### funds
+<!-- marginal: funds -->
 
 126. (1) This section shall not apply to a company whose shares are quoted on a stock exchange.
 
@@ -3892,7 +4306,9 @@ company or its holding company, being a purchase or subscription by trustees of 
 
 <!-- page 139 -->
 
-(5) Within fourteen days from giving financial assistance under this section, the company shall send to each member of the company a copy of the solvency statement made under paragraph (2)(b) and a notice containing the following information:
+(5) Within fourteen days from giving financial assistance under this section, the company shall send to each member of the company a copy of the solvency statement made under paragraph
+
+(2)(b) and a notice containing the following information:
 
 (a) the class and number of shares in respect of which the assistance was given;
 
@@ -3952,7 +4368,9 @@ company or its holding company, being a purchase or subscription by trustees of 
 
 (f) sell, transfer or otherwise use the treasury shares for such other purposes as the Minister may by order prescribe.
 
-(8) The holder of treasury shares which are held under subsection (5) shall not confer—
+(8) The holder of treasury shares which are held under subsection
+
+(5) shall not confer—
 
 (a) the right to attend or vote at meetings and any purported exercise of such rights is void; and
 
@@ -4930,7 +5348,9 @@ the Registrar may, by stop order in writing served on the corporation or such ot
 
 <!-- page 181 -->
 
-(8) Any person who contravenes a stop order made under subsection (1) or an interim stop order made under subsection (3) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding five years or to a fine not exceeding one million ringgit or to both.
+(8) Any person who contravenes a stop order made under subsection (1) or an interim stop order made under subsection
+
+(3) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding five years or to a fine not exceeding one million ringgit or to both.
 
 Subdivision 10
 
@@ -5016,7 +5436,9 @@ until the appointment has been made and the trustee corporation has consented to
 
 (b) apply to or in relation to the trustee for the holders of any such debentures,
 
-unless under any such debentures or trust deed a further offer of debentures is made to the public after the commencement of this Act.
+unless under any such debentures or trust deed a further offer of debentures is made to the public after the commencement of
+
+<!-- marginal: this Act. -->
 
 <!-- page 185 -->
 
@@ -10200,7 +10622,7 @@ the judicial manager, order that person to surrender the property to the judicia
 
 <!-- page 398 -->
 
-## Part IV
+## PART IV
 
 ## CESSATION OF COMPANIES
 
@@ -11120,9 +11542,7 @@ shall be made by one or more persons in subsection (2) and verified in the manne
 
 (a) without the authority under paragraph (b), exercise any of the general powers specified in Part I of the Twelfth Schedule; and
 
-(b) with the authority of the Court or the committee of inspection, exercise any of the powers specified in
-
-## Part II of the Twelfth Schedule.
+(b) with the authority of the Court or the committee of inspection, exercise any of the powers specified in Part II of the Twelfth Schedule.
 
 (2) The exercise by the liquidator in a winding up by the Court of the powers conferred by this section is subject to the control of the Court and any creditor or contributory may apply to the Court with respect to any exercise or proposed exercise of any of those powers.
 
@@ -12464,7 +12884,7 @@ but which was not got in, realized upon or otherwise disposed of or dealt with b
 
 (2) The Auditor General shall have all the powers in respect of those accounts as are conferred upon him by any Act relating to audit of public accounts.
 
-## Part V
+## PART V
 
 ## MISCELLANEOUS
 
@@ -12944,7 +13364,9 @@ Act by other officers of the company, he may report the matter in writing to the
 
 (2) The company shall not remove, demote, discriminate against, or interfere with the lawful employment or livelihood of such officer of the company by reason of the report submitted under subsection (1).
 
-(3) No officer of a company shall be liable to be sued in any court or be subject to any tribunal process, including disciplinary action for any report submitted by the officer under subsection (1) in good faith and in the intended performance of his duties as an officer of the company.
+(3) No officer of a company shall be liable to be sued in any court or be subject to any tribunal process, including disciplinary action for any report submitted by the officer under subsection
+
+(1) in good faith and in the intended performance of his duties as an officer of the company.
 
 ### General penalty provisions
 
@@ -13630,7 +14052,7 @@ of the company, entered into before such date or a trust deed or other document 
 
 <!-- page 544 -->
 
-## First schedule
+## FIRST SCHEDULE
 
 [Section 159]
 
@@ -13762,9 +14184,7 @@ Matters to be stated
 
 (a) for the purposes of subsection 158(5), a copy of a written valuation of the corporation’s interest in the land so mortgaged showing the nature and extent of the corporation’s interest made not more than six months before the date of the prospectus by a person competent and qualified to make the valuation in the place where the land is situated who is not an officer or employee of the corporation or of any of its guarantor corporations or of any corporation that by virtue of section 7 is deemed to be related to either the first-mentioned corporation or any of its guarantor corporations;
 
-(b) for the purposes of subsection 158(6), a summary made by the auditor who has made for inclusion in the prospectus the report required by
-
-## Part III of this Schedule; and
+(b) for the purposes of subsection 158(6), a summary made by the auditor who has made for inclusion in the prospectus the report required by Part III of this Schedule; and
 
 (c) any other additional information as specified by the Registrar.
 
@@ -13776,7 +14196,7 @@ Reports to be set out
 
 <!-- page 549 -->
 
-## second schedule
+## SECOND SCHEDULE
 
 [Section 189]
 
@@ -13790,23 +14210,19 @@ The share capital of the company
 
 <!-- marginal: RM -->
 
-Divided into
-
-<!-- marginal: Shares of RM -->
+Divided into Shares of RM
 
 <!-- marginal: each: RM -->
 
-<!-- marginal: Shares of RM -->
+Shares of RM
 
 <!-- marginal: each: RM -->
 
-<!-- marginal: Shares of RM -->
+Shares of RM
 
 <!-- marginal: each: RM -->
 
-Amount, if any, of the above capital which
-
-<!-- marginal: Shares of RM -->
+Amount, if any, of the above capital which Shares of RM
 
 <!-- marginal: each: RM -->
 
@@ -13818,51 +14234,17 @@ Names, descriptions and addresses of directors or proposed directors
 
 If the share capital of the company is divided into different classes of shares, the right of voting at meetings of the company conferred by, and the rights in respect of capital and dividends attached to, the several classes of shares respectively
 
-Number and amount of shares and debentures
-
-<!-- marginal: 1. shares of RM -->
+Number and amount of shares and debentures 1. shares of RM
 
 <!-- marginal: fully -->
 
-issued within the two years preceding the date
-
-<!-- marginal: 2. shares upon -->
+issued within the two years preceding the date 2. shares upon
 
 <!-- marginal: paid -->
 
-of this statement or proposed or agreed to be
+of this statement or proposed or agreed to be which issued as fully or partly paid up otherwise RM per share than in cash credited as paid 3. debentures RM The consideration for the issue or intended 4. Consideration: issue of those shares and debentures
 
-<!-- marginal: which -->
-
-issued as fully or partly paid up otherwise
-
-<!-- marginal: RM per share -->
-
-than in cash
-
-<!-- marginal: credited as paid -->
-
-<!-- marginal: 3. debentures RM -->
-
-The consideration for the issue or intended
-
-<!-- marginal: 4. Consideration: -->
-
-issue of those shares and debentures
-
-Number, description and amount of any
-
-<!-- marginal: 1. shares of -->
-
-shares or debentures which any person
-
-<!-- marginal: RM and -->
-
-has or is entitled to be given an option to
-
-<!-- marginal: debentures -->
-
-subscribe for, or to acquire from a person to whom they have been allotted or agreed to be allotted with a view to his offering them for sale
+Number, description and amount of any 1. shares of shares or debentures which any person RM and has or is entitled to be given an option to debentures subscribe for, or to acquire from a person to whom they have been allotted or agreed to be allotted with a view to his offering them for sale
 
 <!-- page 550 -->
 
@@ -13904,47 +14286,23 @@ Amount, if any, paid or payable as commission Amount paid: RM for subscribing or
 
 <!-- page 551 -->
 
-Rate of the commission
+Rate of the commission per cent
 
-<!-- marginal: per cent -->
-
-Amount or rate of brokerage
-
-<!-- marginal: RM -->
+Amount or rate of brokerage RM
 
 The number of shares, if any, which persons have agreed for a commission to subscribe absolutely
 
-Amount or estimated amount of preliminary
-
-<!-- marginal: RM -->
-
-expenses
+Amount or estimated amount of preliminary RM expenses
 
 By whom those expenses have been paid or are payable
 
-Amount paid or intended to be paid to any
+Amount paid or intended to be paid to any Name of promoter: promoter Amount: RM
 
-<!-- marginal: Name of promoter: -->
+Consideration for the payment Consideration:
 
-promoter
+Any other benefit given or intended to be Name of promoter: given to any promoter Nature and value of
 
-<!-- marginal: Amount: RM -->
-
-Consideration for the payment
-
-<!-- marginal: Consideration: -->
-
-Any other benefit given or intended to be
-
-<!-- marginal: Name of promoter: -->
-
-given to any promoter
-
-<!-- marginal: Nature and value of -->
-
-Consideration for giving of benefit
-
-<!-- marginal: Consideration: -->
+Consideration for giving of benefit Consideration:
 
 Dates of, parties to, and general nature of every material contract, other than contracts entered into in the ordinary course of the business intended to be carried on by the company or entered into more than two years before the delivery of this statement
 
@@ -14022,7 +14380,7 @@ Provisions applying to Parts I and II of this Schedule
 
 <!-- page 555 -->
 
-## third schedule
+## THIRD SCHEDULE
 
 [Section 212]
 
@@ -14116,7 +14474,7 @@ Associate Directors
 
 <!-- page 558 -->
 
-## Fourth schedule
+## FOURTH SCHEDULE
 
 [Paragraph 235(2)(a)]
 
@@ -14136,7 +14494,7 @@ Associate Directors
 
 7. Advocates Association of Sarawak
 
-## FiFth schedule
+## FIFTH SCHEDULE
 
 [Section 253]
 
@@ -14304,7 +14662,7 @@ including information about any policies of the company in relation to those mat
 
 8. For the purposes of this Part, “key performance indicators” means factors by reference to which the development, performance or position of the company’s business can be measured effectively.
 
-## sixth schedule
+## SIXTH SCHEDULE
 
 [Section 383]
 
@@ -14368,7 +14726,7 @@ including information about any policies of the company in relation to those mat
 
 4. In this Schedule, a reference, in relation to a receiver or receiver and manager, to property of a company is, unless the context otherwise requires, a reference to the property of the company in relation to which the receiver or receiver and manager was appointed.
 
-## seventh schedule
+## SEVENTH SCHEDULE
 
 [Sections 394 and 401]
 
@@ -14402,7 +14760,7 @@ including information about any policies of the company in relation to those mat
 
 (c) the directors or Official Receiver fail to comply with their duty under paragraph 2.
 
-## eighth schedule
+## EIGHTH SCHEDULE
 
 [Section 398]
 
@@ -14522,7 +14880,7 @@ Company invoices, orders for goods, etc.
 
 <!-- page 571 -->
 
-## ninth schedule
+## NINTH SCHEDULE
 
 [Subsection 414(4)]
 
@@ -14576,7 +14934,7 @@ The judicial manager may exercise all or any of the following powers:
 
 (v) to do all other things incidental to the exercise of the foregoing powers.
 
-## tenth schedule
+## TENTH SCHEDULE
 
 [Subsection 450(4)]
 
@@ -14632,7 +14990,9 @@ Vacancy
 
 13. Notwithstanding any vacancy in the committee, the continuing members may act if there are at least two continuing members.
 
-eleventh schedule [Section 456]
+## ELEVENTH SCHEDULE
+
+[Section 456]
 
 ## POWERS OF LIQUIDATOR IN VOLUNTARY WINDING UP
 
@@ -14650,7 +15010,7 @@ eleventh schedule [Section 456]
 
 <!-- page 575 -->
 
-twelFth schedule
+## TWELFTH SCHEDULE
 
 ## POWERS OF LIQUIDATOR IN WINDING UP BY COURT
 
@@ -14708,7 +15068,9 @@ Powers exercisable with authority
 
 <!-- page 577 -->
 
-thirteenth schedule [Subsection 561(2)]
+## THIRTEENTH SCHEDULE
+
+[Subsection 561(2)]
 
 ## ACTIVITIES NOT REGARDED AS CARRYING ON BUSINESS IN MALAYSIA
 
@@ -15164,7 +15526,9 @@ Subdivision 10 deals with the provisions regarding debentures.
 
 <!-- page 591 -->
 
-Clause 171 seeks to provide that Subdivision 10 is applicable only to an offer made to the public or a section of the public with regard to shares or debentures of an unlisted recreational club and corporations specified in clause 158.
+Clause 171 seeks to provide that Subdivision 10 is applicable only to an offer made to the public or a section of the public with regard to shares or debentures of an unlisted recreational club and corporations specified in clause
+
+158.
 
 Clause 172 contains the provision relating to specific performance which allows for the Court to enforce a contract to take up and pay for debentures and issue an order for specific performance.
 
@@ -15394,9 +15758,7 @@ Clause 266 provides for the general powers and duties of auditors including the 
 
 <!-- page 599 -->
 
-## Chapter 1 of this Subdivision deals with matters relating to auditor of a
-
-private company.
+Chapter 1 of this Subdivision deals with matters relating to auditor of a private company.
 
 Clause 267 states the requirement for private companies to appoint auditors for each financial year but the Registrar is empowered to exempt any private company from the requirement subject to certain conditions as determined by the Registrar. This clause further provides the procedures for the appointment of auditors in a private company.
 
@@ -15406,9 +15768,7 @@ Clause 269 provides that the term of office of an auditor of a private company s
 
 Clause 270 provides that an auditor of a private company shall not be deemed to be reappointed if the company has received notice from members holding at least five per centum of the voting rights.
 
-## Chapter 2 of this Subdivision deals with matters relating to auditors of
-
-public company.
+Chapter 2 of this Subdivision deals with matters relating to auditors of public company.
 
 Clause 271 states the requirement for public companies to appoint auditors for each financial year and further provides the procedures for such appointment.
 
@@ -15416,9 +15776,7 @@ Clause 272 empowers the Registrar to appoint an auditor for a public company, on
 
 Clause 273 states that the term of office of an auditor of a public company shall be in accordance with the term of his appointment and the time for him to take office.
 
-## Chapter III of this Subdivision deals with the requirements applicable to
-
-auditors generally.
+Chapter III of this Subdivision deals with the requirements applicable to auditors generally.
 
 Clause 274 provides that remuneration of auditors is to be fixed by the body of authority that appoints the directors. For example, if the auditor is appointed by the members of the company, then the company shall have the power to determine the remuneration.
 
@@ -15800,11 +16158,7 @@ Clause 429 seeks to allow the judicial manager to apply to the Court to make inq
 
 Clause 430 provides for the application of clauses 534, 535, 538 and 539 relating to the winding up for a company to a company which is under a judicial management order.
 
-5.
-
-## Part IV deals with matters relating to the cessation of a company and
-
-is divided into three Divisions.
+5. Part IV deals with matters relating to the cessation of a company and is divided into three Divisions.
 
 Division I deals with matters relating to voluntary and compulsory winding up of a company.
 
@@ -15912,9 +16266,7 @@ Clause 470 deals with the power of the Court to stay or restrain proceedings aga
 
 Clause 471 seeks to provide that no action or proceeding shall be proceeded against a company when a winding up order has been made or an interim liquidator has been appointed except with the leave of Court.
 
-Clause 472 provides that any disposition of property of the company other than an exempt disposition made after the presentation of the winding up petition, shall be void unless the Court otherwise orders. The clause further states that “exempt disposition” means a disposition made in accordance with
-
-## Part I of the Twelfth Schedule of the proposed Act.
+Clause 472 provides that any disposition of property of the company other than an exempt disposition made after the presentation of the winding up petition, shall be void unless the Court otherwise orders. The clause further states that “exempt disposition” means a disposition made in accordance with Part I of the Twelfth Schedule of the proposed Act.
 
 Clause 473 seeks to clarify that any petition for winding up of a company shall constitute a lis pendens within the meaning of any law relating to the effect of a lis pendens upon purchasers or mortgagees.
 

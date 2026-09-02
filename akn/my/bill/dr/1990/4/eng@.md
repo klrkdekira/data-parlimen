@@ -54,21 +54,41 @@ subsection (1)—
 
 (b) by substituting for the colon at the end of paragraph (c) a semicolon and by inserting after that paragraph the following paragraph: "(d) diagnosis of a disease as specified in the Schedule:".
 
-Amend-
+<!-- marginal: Amend- -->
 
-4. Section 4A of the principal Act is amended by ment of substituting therefor the following section: section 4A.
+4. Section 4A of the principal Act is amended by
 
-"Prohibi- 4A. Subject to this Act, no person shall take tion of part in the publication of any advertisement— advertise- ments
+<!-- marginal: ment of -->
 
-(a) which refers to any skill or service relating relating to the treatment, prevention to skill or service. or diagnosis of any ailment, disease, injury, infirmity or condition affecting the human body; and
+substituting therefor the following section:
 
-(b) which is capable of inducing, or which contains an invitation, whether express of implied, to, any person to seek the advice of the advertiser or any person referred to
+<!-- marginal: section 4A. -->
 
-<!-- marginal: in -->
+<!-- marginal: "Prohibi- -->
 
-<!-- marginal: the -->
+4A. Subject to this Act, no person shall take
 
-advertisement in connection with such skill or service:
+<!-- marginal: tion of -->
+
+part in the publication of any advertisement—
+
+<!-- marginal: advertise- -->
+
+<!-- marginal: ments -->
+
+(a) which refers to any skill or service
+
+<!-- marginal: relating -->
+
+relating to the treatment, prevention
+
+<!-- marginal: to skill or -->
+
+<!-- marginal: service. -->
+
+or diagnosis of any ailment, disease, injury, infirmity or condition affecting the human body; and
+
+(b) which is capable of inducing, or which contains an invitation, whether express of implied, to, any person to seek the advice of the advertiser or any person referred to in the advertisement in connection with such skill or service:
 
 Provided that this section shall not apply to any advertisement published—
 
@@ -132,13 +152,25 @@ Provided that no person shall be required under this section to perform a journe
 
 <!-- page 4 -->
 
-Amend-
+<!-- marginal: Amend- -->
 
-8. Section 6F of the principal Act is amended in ment of subsection (2) by substituting for the words "registered section 6B. pharmacist in the public service authorized in writing by the Public Prosecutor" the words "authorized officer".
+8. Section 6F of the principal Act is amended in
 
-Amend-
+<!-- marginal: ment of -->
 
-9. Section 7 of the principal Act is amended— ment of section 7.
+subsection (2) by substituting for the words "registered
+
+<!-- marginal: section 6B. -->
+
+pharmacist in the public service authorized in writing by the Public Prosecutor" the words "authorized officer".
+
+<!-- marginal: Amend- -->
+
+9. Section 7 of the principal Act is amended—
+
+<!-- marginal: ment of -->
+
+<!-- marginal: section 7. -->
 
 (a) in paragraph (a), by inserting after the words "purpose of the words "section 4A and"; and
 

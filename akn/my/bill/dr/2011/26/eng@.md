@@ -4,29 +4,41 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation 3. Delivery
 
-## Part II
+## PART II
 
 ## FUNCTIONS OF THE COMMISSION
 
 4. Functions of the Commission 5. Ensuring the provision of universal service 6. Monitoring and reporting to the Minister
 
-## Part III
+## PART III
 
 ## MINISTERIAL POWERS AND PROCEDURES
 
 7. Direction by the Minister 8. Variation of a direction 9. Register of directions
 
-## Part IV
+## PART IV
 
 ## LICENSING PROVISION
 
-10. Minister may grant licence 11. Application for licence 12. Non-application 13. Grant or refusal of licence 14. Conditions of licence 15. Power to add, vary or revoke conditions of licence 16. Assignment or transfer of licence
+10. Minister may grant licence
+
+11. Application for licence
+
+12. Non-application
+
+13. Grant or refusal of licence
+
+14. Conditions of licence
+
+15. Power to add, vary or revoke conditions of licence
+
+16. Assignment or transfer of licence
 
 <!-- page 2 -->
 
@@ -44,7 +56,7 @@
 
 23. Notice of intention to suspend operation
 
-## Part V
+## PART V
 
 ## PROVISIONS RELATING TO THE UNIVERSAL SERVICE LICENSEE
 
@@ -64,7 +76,7 @@
 
 31. Exemption from liability for loss, misdelivery, delay or damage
 
-## Part VI
+## PART VI
 
 ## GENERAL TERMS AND CONDITIONS OF POSTAL SERVICES
 
@@ -72,7 +84,7 @@
 
 33. Limitation of liability in universal service licensee’s general terms and conditions
 
-## Part VII
+## PART VII
 
 ## OTHER SERVICES
 
@@ -90,27 +102,63 @@
 
 <!-- page 3 -->
 
-## Part IX
+## PART IX
 
 ## GENERAL COMPETITION PRACTICES
 
-38. Prohibition on anti-competitive conduct 39. The Commission may publish guidelines 40. Prohibition on entering into collusive agreements 41. Prohibition on tying or linking arrangements 42. Dominant licensee 43. Guidelines as to the meaning of “dominant position” 44. The Commission may direct a licensee in a dominant position 45. Authorization of a conduct 46. Register of authorizations 47. Penalty for offence 48. Minister may make regulations
+38. Prohibition on anti-competitive conduct
 
-## Part X
+39. The Commission may publish guidelines
+
+40. Prohibition on entering into collusive agreements
+
+41. Prohibition on tying or linking arrangements
+
+42. Dominant licensee
+
+43. Guidelines as to the meaning of “dominant position”
+
+44. The Commission may direct a licensee in a dominant position
+
+45. Authorization of a conduct
+
+46. Register of authorizations
+
+47. Penalty for offence
+
+48. Minister may make regulations
+
+## PART X
 
 ## CONSUMER PROTECTION
 
-49. Postal Forum 50. Functions of the Postal Forum 51. Complaints handling procedures 52. Complaints of consumers 53. Circumstances in which a postal article may be opened 54. Notice to be applied and report to be submitted 55. Inspection by customs officials 56. Penalty for unlawfully disclosing contents of postal article
+49. Postal Forum
 
-## Part XI
+50. Functions of the Postal Forum
+
+51. Complaints handling procedures
+
+52. Complaints of consumers
+
+53. Circumstances in which a postal article may be opened
+
+54. Notice to be applied and report to be submitted
+
+55. Inspection by customs officials
+
+56. Penalty for unlawfully disclosing contents of postal article
+
+## PART XI
 
 ## POSTCODE AND ADDRESSING SYSTEM AND POSTAL IDENTIFIERS
 
-57. Postcode and addressing system 58. Assignment of postal identifiers
+57. Postcode and addressing system
+
+58. Assignment of postal identifiers
 
 <!-- page 4 -->
 
-## Part XII
+## PART XII
 
 ## POWER AND PROCEDURES OF THE MALAYSIAN COMMUNICATIONS
 
@@ -156,7 +204,7 @@ Investigation
 
 70. Tampering with official mark on a postal article
 
-## Part XIV
+## PART XIV
 
 ## INFORMATION GATHERING POWERS AND ENFORCEMENT PROVISIONS
 
@@ -170,23 +218,67 @@ Information gathering powers
 
 <!-- page 5 -->
 
-73. Access to records 74. Incorrect records 75. Record of information 76. Publication of information
+73. Access to records
+
+74. Incorrect records
+
+75. Record of information
+
+76. Publication of information
 
 ## Chapter 2
 
 Enforcement powers of authorized officer
 
-77. Authorized officer 78. Power of investigation 79. Search and seizure with warrant 80. Warrant admissible notwithstanding defects 81. Access to computerized data 82. List of books, records, accounts, etc., seized 83. Forfeiture 84. Release of books, records, accounts, documents, etc., seized 85. Additional powers 86. Power to require attendance of person acquainted with case 87. Examination of person acquainted with case 88. Admissibility of statements in evidence 89. Authorized officer to complete investigation and hand over to police 90. No cost or damages arising from seizure to be recoverable 91. Institution of prosecution 92. Jurisdiction to try offences 93. Offence for giving false and misleading information
+77. Authorized officer
+
+78. Power of investigation
+
+79. Search and seizure with warrant
+
+80. Warrant admissible notwithstanding defects
+
+81. Access to computerized data
+
+82. List of books, records, accounts, etc., seized
+
+83. Forfeiture
+
+84. Release of books, records, accounts, documents, etc., seized
+
+85. Additional powers
+
+86. Power to require attendance of person acquainted with case
+
+87. Examination of person acquainted with case
+
+88. Admissibility of statements in evidence
+
+89. Authorized officer to complete investigation and hand over to police
+
+90. No cost or damages arising from seizure to be recoverable
+
+91. Institution of prosecution
+
+92. Jurisdiction to try offences
+
+93. Offence for giving false and misleading information
 
 ## Chapter 3
 
 Miscellaneous
 
-94. Obstruction 95. Compounding of offences 96. Offences by body corporate 97. Abetment and attempt punishable as offences
+94. Obstruction
+
+95. Compounding of offences
+
+96. Offences by body corporate
+
+97. Abetment and attempt punishable as offences
 
 <!-- page 6 -->
 
-## Part XV
+## PART XV
 
 ## GENERAL
 
@@ -204,7 +296,7 @@ Miscellaneous
 
 104. Protection of officers and other persons
 
-## Part XVI
+## PART XVI
 
 ## NATIONAL INTEREST MATTERS
 
@@ -238,7 +330,7 @@ An Act to provide for the licensing of postal services and the regulation of the
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -364,7 +456,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (c) leaving the postal article with the addressee or his servant or agent or with any other person considered to be authorized by the addressee to receive the postal article, according to the usual manner of delivering postal article to that addressee, and where the addressee is a guest or a resident at a hotel, delivery to the proprietor or manager of the hotel or his agent shall be deemed to be delivery to the addressee.
 
-## Part II
+## PART II
 
 ## FUNCTIONS OF THE COMMISSION
 
@@ -456,7 +548,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 15 -->
 
-## Part III
+## PART III
 
 ## MINISTERIAL POWERS AND PROCEDURES
 
@@ -486,7 +578,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 16 -->
 
-## Part IV
+## PART IV
 
 ## LICENSING PROVISION
 
@@ -678,7 +770,7 @@ submit a written recommendation to the Minister.
 
 23. A licensee shall notify the Commission, in writing, of any intention to suspend operation in the manner as prescribed by the Minister.
 
-## Part V
+## PART V
 
 ## PROVISIONS RELATING TO THE UNIVERSAL SERVICE LICENSEE
 
@@ -740,7 +832,7 @@ submit a written recommendation to the Minister.
 
 31. A universal service licensee shall not be liable for any loss, misdelivery, delay of or damage to the postal articles during the transmission of postal articles, unless it is proven that the universal service licensee has maliciously or negligently or intentionally cause the loss, misdelivery, delay or damage.
 
-## Part VI
+## PART VI
 
 ## GENERAL TERMS AND CONDITIONS OF POSTAL SERVICES
 
@@ -766,7 +858,7 @@ submit a written recommendation to the Minister.
 
 (3) Notwithstanding subsection (2), if a universal service licensee has agreed contractually with another party on the limitation of liability provisions, that contractual terms and conditions shall prevail.
 
-## Part VII
+## PART VII
 
 ## OTHER SERVICES
 
@@ -822,7 +914,7 @@ submit a written recommendation to the Minister.
 
 (3) The Minister may, by order published in the Gazette, exempt any person from the payment of any rates in relation to postal services on such terms and conditions as he thinks fit.
 
-## Part IX
+## PART IX
 
 ## GENERAL COMPETITION PRACTICES
 
@@ -938,7 +1030,7 @@ submit a written recommendation to the Minister.
 
 (b) the misuse of market power in the postal market.
 
-## Part X
+## PART X
 
 ## CONSUMER PROTECTION
 
@@ -1036,7 +1128,9 @@ submit a written recommendation to the Minister.
 
 (2) An employee of a licensee who has been authorized by the licensee in writing may open postal articles in the circumstances under subsection (1) and in the presence of another employee who has been similarly authorized.
 
-(3) The contents of an opened postal article may be inspected no further than is warranted in the circumstances under subsection (1).
+(3) The contents of an opened postal article may be inspected no further than is warranted in the circumstances under subsection
+
+(1).
 
 ### Notice to be applied and report to be submitted
 
@@ -1072,7 +1166,7 @@ submit a written recommendation to the Minister.
 
 56. Any person who reveals, discloses or in any way makes known the contents of any postal article opened under the authority of this Act, unless so far as may be necessary for the purpose of returning the postal article or as may be authorized by the Commission in writing, commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding one year or to both.
 
-## Part XI
+## PART XI
 
 ## POSTCODE AND ADDRESSING SYSTEM AND POSTAL IDENTIFIERS
 
@@ -1092,7 +1186,7 @@ submit a written recommendation to the Minister.
 
 (3) The Commission shall maintain a register of licensees and the postal identifier in accordance with subsection 99(1).
 
-## Part XII
+## PART XII
 
 ## POWERS AND PROCEDURES OF THE MALAYSIAN
 
@@ -1228,7 +1322,7 @@ for the purpose of evading postage.
 
 (2) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding six months or to both.
 
-## Part XIV
+## PART XIV
 
 ## INFORMATION GATHERING POWERS AND ENFORCEMENT
 
@@ -1360,7 +1454,9 @@ Enforcement powers of authorized officer
 
 (c) any document, equipment, instrument or article that is reasonably believed to furnish evidence of the commission of the offence.
 
-(3) An authorized officer conducting a search under subsection (1) may, for the purpose of investigating into the offence, search any person who is in or on the premises.
+(3) An authorized officer conducting a search under subsection
+
+(1) may, for the purpose of investigating into the offence, search any person who is in or on the premises.
 
 (4) An authorized officer may detain any person found on any premises searched under subsection (3) until the search is completed.
 
@@ -1576,7 +1672,7 @@ Provided that any term of imprisonment imposed shall not exceed one-half of the 
 
 <!-- page 58 -->
 
-## Part XV
+## PART XV
 
 ## GENERAL
 
@@ -1732,7 +1828,7 @@ Provided that any term of imprisonment imposed shall not exceed one-half of the 
 
 (b) any other person in respect of any act done or purported to be done by him under the order, direction or instruction of the Commission or an authorized officer if the act was done in good faith and in a reasonable belief that it was necessary for the purpose intended to be served by it.
 
-## Part XVI
+## PART XVI
 
 ## NATIONAL INTEREST MATTERS
 
@@ -1812,7 +1908,9 @@ Provided that any term of imprisonment imposed shall not exceed one-half of the 
 
 (3) The licence issued under the repealed Act for a period of more than three years shall lapse if the holder does not apply for a licence under this Act within two years after the appointed date as stipulated under subsection (2).
 
-First s chedule [Section 12]
+## FIRST S CHEDULE
+
+[Section 12]
 
 1. Trade announcements, circulars, printed extracts from newspapers, or advertisements, without any name, address or other particulars of the recipient.
 
@@ -1838,7 +1936,9 @@ First s chedule [Section 12]
 
 11. Postal articles carried and delivered personally by the sender.
 
-second s chedule [Section 24]
+## SECOND S CHEDULE
+
+[Section 24]
 
 1. “Post Office”
 
@@ -1886,7 +1986,7 @@ The Postal Services Act 2011 (“the Act”) as proposed by this Bill seeks to r
 
 (h) to ensure fair competition amongst the parties involved in the postal services industry in Malaysia.
 
-## Part I
+## PART I
 
 2. Part 1 of the Act deals with preliminary matters.
 
@@ -1896,7 +1996,7 @@ The Postal Services Act 2011 (“the Act”) as proposed by this Bill seeks to r
 
 5. Clause 3 contains the definition of delivery.
 
-## Part II
+## PART II
 
 6. Part II of the Act sets out the functions of the Commission, the role of the Commission to safeguard the universal service and to monitor the performance of the licensees.
 
@@ -1908,7 +2008,7 @@ The Postal Services Act 2011 (“the Act”) as proposed by this Bill seeks to r
 
 9. Clause 6 provides for the Commission to monitor the performance of licensees and to submit an annual industry performance report to the Minister.
 
-## Part III
+## PART III
 
 10. Part III of the Act provides for the powers of the Minister.
 
@@ -1918,7 +2018,7 @@ The Postal Services Act 2011 (“the Act”) as proposed by this Bill seeks to r
 
 13. Clause 9 provides for the Commission to maintain a register of all directions issued by the Minister.
 
-## Part IV
+## PART IV
 
 14. Part IV of the Act deals with licensing provisions.
 
@@ -1952,7 +2052,7 @@ The Postal Services Act 2011 (“the Act”) as proposed by this Bill seeks to r
 
 28. Clause 23 provides that the licensee shall notify the Commission in writing of any intention to suspend its operation.
 
-## Part V
+## PART V
 
 29. Part V of the Act deals with provisions relevant to the universal service licensee.
 
@@ -1974,7 +2074,7 @@ The Postal Services Act 2011 (“the Act”) as proposed by this Bill seeks to r
 
 <!-- page 70 -->
 
-## Part VI
+## PART VI
 
 38. Part VI of the Act deals with the general terms and conditions of postal services.
 
@@ -1982,7 +2082,7 @@ The Postal Services Act 2011 (“the Act”) as proposed by this Bill seeks to r
 
 40. Clause 33 provides for the limitation of liability provided for in the universal service licensee’s general terms and conditions which shall be a defence against any prosecution, action or proceeding of any nature.
 
-## Part VII
+## PART VII
 
 41. Part VII of the Act contains other types of services that may be provided by the universal service licensee.
 
@@ -1998,7 +2098,7 @@ The Postal Services Act 2011 (“the Act”) as proposed by this Bill seeks to r
 
 46. Clause 37 enables the Minister on the recommendation of the Commission to make regulations on postage rates.
 
-## Part IX
+## PART IX
 
 47. Part IX of the Act contains provisions that deal with the general competition practices.
 
@@ -2026,7 +2126,7 @@ The Postal Services Act 2011 (“the Act”) as proposed by this Bill seeks to r
 
 58. Clause 48 enables the Minister to make regulations in relation to competition such as the prevention or mitigation of conduct that may lead to the lessening of competition, or misuse of market power, in the postal market.
 
-## Part X
+## PART X
 
 59. Part X of the Act contains provisions that deal with the consumer protection.
 
@@ -2048,7 +2148,7 @@ The Postal Services Act 2011 (“the Act”) as proposed by this Bill seeks to r
 
 <!-- page 72 -->
 
-## Part XI
+## PART XI
 
 68. Part XI of the Act contains provisions that deal with the postcode and addressing system and postal identifiers.
 
@@ -2056,7 +2156,7 @@ The Postal Services Act 2011 (“the Act”) as proposed by this Bill seeks to r
 
 70. Clause 58 enables the Commission to assign a postal identifier to licensee in connection with downstream access or for any reason.
 
-## Part XII
+## PART XII
 
 71. Part XII of the Act provides for the powers and procedures of the Malaysian Communications and Multimedia Commission.
 
@@ -2090,7 +2190,7 @@ The Postal Services Act 2011 (“the Act”) as proposed by this Bill seeks to r
 
 84. Clause 70 prohibits a person from tampering with the official mark on a postal article.
 
-## Part XIV
+## PART XIV
 
 85. Part XIV seeks to provide for the powers of the Commission or its authorized officers in respect of information gathering powers and enforcement provisions.
 
@@ -2150,7 +2250,7 @@ Clause 84 deals with the release of things seized.
 
 112. Clause 97 provides for the penalty for abetting or attempting to commit an offence.
 
-## Part XV
+## PART XV
 
 113. Part XV of the Act deals with general provisions.
 
@@ -2170,7 +2270,7 @@ Clause 84 deals with the release of things seized.
 
 120. Clause 104 provides for the protection of the Commission or its authorized officer or employee or agent from civil or criminal proceedings.
 
-## Part XVI
+## PART XVI
 
 121. Part XVI determines various obligations in relation to national interests matters that are imposed on the licensee.
 

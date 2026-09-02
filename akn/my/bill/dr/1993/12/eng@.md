@@ -4,9 +4,7 @@
 
 ### intituled
 
-An Act to amend the Street, Drainage and Building Act
-
-1974.
+An Act to amend the Street, Drainage and Building Act 1974.
 
 WHEREAS it is expedient for the purpose of ensuring uniformity of law and policy to amend the Street, Drainage and Building Act 1974:
 
@@ -40,9 +38,17 @@ and Building (Amendment) Act 1993.
 
 ## B I LL
 
-Amendment
+<!-- marginal: Amendment -->
 
-2. Section 3 of the Street, Drainage and Building Act of section 3. 1974, which in this Act is referred to as the "principal Act 133. Act", is amended—
+2. Section 3 of the Street, Drainage and Building Act
+
+<!-- marginal: of section 3. -->
+
+1974, which in this Act is referred to as the "principal
+
+<!-- marginal: Act 133. -->
+
+Act", is amended—
 
 (a) by inserting after the definition of "premises" the following new definition:
 
@@ -54,17 +60,33 @@ v "sewer" has the same meaning assigned to it under the Sewerage Services Act 19
 
 "sewerage system" has the same meaning assigned to it under the Sewerage Services Act 1993;'.
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Section 46 of the principal Act is amended by of section 46. deleting the words ", sewer" in paragraph (b) of subsection (1).
+3. Section 46 of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 46. -->
 
-4. Part III of the principal Act is amended by deleting of Part III. the words "SEWERS AND" in the subheading.
+deleting the words ", sewer" in paragraph (b) of subsection (1).
 
-5. The principal Act is amended by deleting section 49. Deletion of section 49. Amendment
+<!-- marginal: Amendment -->
 
-6. Section 51 of the principal Act is amended— of section 51
+4. Part III of the principal Act is amended by deleting
+
+<!-- marginal: of Part III. -->
+
+the words "SEWERS AND" in the subheading.
+
+5. The principal Act is amended by deleting section 49.
+
+<!-- marginal: Deletion of -->
+
+<!-- marginal: section 49. -->
+
+<!-- marginal: Amendment -->
+
+6. Section 51 of the principal Act is amended—
+
+<!-- marginal: of section 51 -->
 
 (a) by deleting the words "sewers," in the marginal note, subsection (1) and paragraphs (d) and (e) of subsection (4);
 
@@ -72,9 +94,11 @@ Amendment
 
 (c) by deleting the words "sewers or" in subsection (3).
 
-Amendment
+<!-- marginal: Amendment -->
 
-7. Section 53 of the principal Act is amended— of section 53.
+7. Section 53 of the principal Act is amended—
+
+<!-- marginal: of section 53. -->
 
 (a) by substituting for the word "sewers" in the marginal note of subsection (1) the words "surface and storm water drains, etc";
 
@@ -140,13 +164,23 @@ subsection (1); and
 
 ## B I LL
 
-Deletion of
+<!-- marginal: Deletion of -->
 
-11. The principal Act is amended by deleting sections sections 60, 60, 62, 63 and 64. 62, 63 and 64.
+11. The principal Act is amended by deleting sections
 
-Amendment
+<!-- marginal: sections 60, -->
 
-12. Section 70 of the principal Act is amended by of section 70. substituting for subsection (2) the following:
+60, 62, 63 and 64.
+
+<!-- marginal: 62, 63 and 64. -->
+
+<!-- marginal: Amendment -->
+
+12. Section 70 of the principal Act is amended by
+
+<!-- marginal: of section 70. -->
+
+substituting for subsection (2) the following:
 
 "(2) Any person who intends to erect any building shall submit—
 
@@ -154,29 +188,41 @@ Amendment
 
 (b) to the relevant statutory authority such plans and specifications in respect of the sewerage system as may be required by any other written law.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-13. Section 77 of the principal Act is amended— of section 77.
+13. Section 77 of the principal Act is amended—
+
+<!-- marginal: of section 77. -->
 
 (a) by inserting after the word "over" in the marginal note the word "public"; and
 
 (b) by inserting after the words "public sewer," in the section the words "private connection pipe,".
 
-Amendment
+<!-- marginal: Amendment -->
 
-14. Section 81 of the principal Act is amended, in of section 81. subsection (1)—
+14. Section 81 of the principal Act is amended, in
+
+<!-- marginal: of section 81. -->
+
+subsection (1)—
 
 (a) by deleting the words "sewer or"; and
 
 (b) by substituting for the words "to empty the sewage" the words "to drain waters other than sewage".
 
-Amendment
+<!-- marginal: Amendment -->
 
-15. Section 132 of the principal Act is amended by of section 132. deleting the words "sewer," in subsection (1).
+15. Section 132 of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 132. -->
 
-16. Section 133 of the principal Act is amended— of section 133.
+deleting the words "sewer," in subsection (1).
+
+<!-- marginal: Amendment -->
+
+16. Section 133 of the principal Act is amended—
+
+<!-- marginal: of section 133. -->
 
 (a) by inserting after the words "electric lines" in paragraph (i) the words "(other than sewers)";
 

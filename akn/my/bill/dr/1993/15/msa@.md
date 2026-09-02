@@ -10,7 +10,7 @@
 
 ## BAHAGIAN
 
-<!-- marginal: I -->
+I
 
 ## PERMULAAN
 
@@ -18,7 +18,7 @@
 
 ## BAHAGIAN
 
-<!-- marginal: II -->
+II
 
 ## TANGGUNGJAWAB BAGI SISTEM PEMBETUNGAN
 
@@ -28,11 +28,13 @@
 
 ## BAHAGIAN
 
-<!-- marginal: III -->
+III
 
 ## KETUA PENGARAH PERKHIDMATAN PEMBETUNGAN
 
-8. Ketua Pengarah, Timbalan Ketua Pengarah, dll. 9. Kuasa dan fungsi Ketua Pengarah. 10. Kuasa Menteri untuk memberikan arahan.
+8. Ketua Pengarah, Timbalan Ketua Pengarah, dll. 9. Kuasa dan fungsi Ketua Pengarah.
+
+10. Kuasa Menteri untuk memberikan arahan.
 
 ## BAHAGIAN
 
@@ -40,7 +42,11 @@ IV
 
 ## SISTEM PEMBETUNGAN AWAM
 
-11. Sistem pembetungan disifatkan sistem pembetungan awam. 12. Perisytiharan sistem pembetungan awam. 13. Sistem pembetungan awam boleh dibina.
+11. Sistem pembetungan disifatkan sistem pembetungan awam.
+
+12. Perisytiharan sistem pembetungan awam.
+
+13. Sistem pembetungan awam boleh dibina.
 
 <!-- page 2 -->
 
@@ -112,13 +118,39 @@ IX
 
 ## PELESENAN
 
-32. Lesen dikehendaki bagi perbuatan tertentu. 33. Permohonan dan pengeluaran lesen. 34. Kewajipan tambahan pemegang lesen.
+32. Lesen dikehendaki bagi perbuatan tertentu.
+
+33. Permohonan dan pengeluaran lesen.
+
+34. Kewajipan tambahan pemegang lesen.
 
 ## BAHAGIAN X
 
 ## PELBAGAI
 
-35. Penalti kerana menghalang Ketua Pengarah, dll. 36. Penalti kerana tidak mematuhi notis. 37. Prosiding jika penghuni menentang pelaksanaan kerja-kerja. 38. Kesalahan oleh pertubuhan perbadanan. 39. Penjalanan pendakwaan. 40. Kuasa untuk mengkompaunkan kesalahan, 41. Penyampaian dokumen. 42. Ketaktepatan dalam dokumen. 43. Perakuan bagi membuktikan tuan punya tanah. 44. Kebertanggungan pemindah milik. 45. Kuasa untuk membuat peraturan. 46. Kecualian dan peralihan.
+35. Penalti kerana menghalang Ketua Pengarah, dll.
+
+36. Penalti kerana tidak mematuhi notis.
+
+37. Prosiding jika penghuni menentang pelaksanaan kerja-kerja.
+
+38. Kesalahan oleh pertubuhan perbadanan.
+
+39. Penjalanan pendakwaan.
+
+40. Kuasa untuk mengkompaunkan kesalahan,
+
+41. Penyampaian dokumen.
+
+42. Ketaktepatan dalam dokumen.
+
+43. Perakuan bagi membuktikan tuan punya tanah.
+
+44. Kebertanggungan pemindah milik.
+
+45. Kuasa untuk membuat peraturan.
+
+46. Kecualian dan peralihan.
 
 <!-- page 5 -->
 
@@ -142,7 +174,7 @@ DAN BAHAWASANYA dihasratkan, bagi maksud keseragaman itu, supaya kuasa eksekutif
 
 MAKA, OLEH YANG DEMIKAN, mengikut Perkara 74 dan 80(2), dan Senarai III Jadual Kesembilan kepada, Perlembagaan Persekutuan, MAKA
 
-<!-- marginal: IN1LAH -->
+## IN1LAH
 
 <!-- page 6 -->
 
@@ -152,9 +184,21 @@ DIPERBUAT UNDANG-UNDANG oleh Dull Yang Maha Mulia Seri Paduka Baginda Yang di-Pe
 
 ## PERMULAAN
 
-Tajuk
+<!-- marginal: Tajuk -->
 
-1. (1) Akta ini bolehlah dinamakan Akta ringkas, Perkhidmatan Pembetungan 1993. pemakaian dan mula berkuatkuasa. (2) Akta ini hendaklah terpakai di seluruh Malaysia.
+1. (1) Akta ini bolehlah dinamakan Akta
+
+<!-- marginal: ringkas, -->
+
+Perkhidmatan Pembetungan 1993.
+
+<!-- marginal: pemakaian -->
+
+<!-- marginal: dan mula -->
+
+<!-- marginal: berkuatkuasa. -->
+
+(2) Akta ini hendaklah terpakai di seluruh Malaysia.
 
 (3) Akta ini hendaklah mula berkuatkuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta dan Menteri boleh menetapkan tarikh yang berlainan—
 
@@ -170,7 +214,7 @@ bahagian-bahagian yang berlainan di Malaysia;
 
 (4) Menteri boleh menggantung kuatkuasa keseluruhan atau mana-mana peruntukan Akta ini di mana-mana bahagian di Malaysia.
 
-Tafsiran.
+<!-- marginal: Tafsiran. -->
 
 2. Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—
 
@@ -218,7 +262,11 @@ menyediakan perkhidmatan pembetungan;
 
 "Pentadbir Tanah Daerah"—
 
-(a) berkenaan dengan Malaysia Barat, mempunyai erti yang diberikan kepada "Pentadbir Tanah" Akta 56/65. oleh seksyen 5 Kanun Tanah Negara;
+(a) berkenaan dengan Malaysia Barat, mempunyai erti yang diberikan kepada "Pentadbir Tanah"
+
+<!-- marginal: Akta 56/65. -->
+
+oleh seksyen 5 Kanun Tanah Negara;
 
 (b) berkenaan dengan Negeri Sabah, mempunyai erti yang diberikan kepada "Pemungut" oleh
 
@@ -236,11 +284,17 @@ seksyen 2 Kanun Tanah Sarawak;
 
 "perkhidmatan pembetungan" ertinya pengumpulan, pembawaan, pengolahan dan pelupusan kumbahan, dan termasuk pengendalian dan penyenggaraan sistem pembetungan dan pengemasan, pembersihan dan pengosongan tangki septik;
 
-"pihak berkuasa perancangan tempatan" ertinya mana-mana pihak berkuasa perancangan yang ditubuhkan menurut Akta Perancangan Bandar dan Desa Akta 172
+"pihak berkuasa perancangan tempatan" ertinya mana-mana pihak berkuasa perancangan yang ditubuhkan menurut Akta Perancangan Bandar dan Desa
+
+<!-- marginal: Akta 172 -->
 
 ## Bab 141.
 
-1976, Ordinan Perancangan Bandar dan Desa 1950, Bah 87. Sabah atau Ordinan Perancangan Bandar dan Desa 1952, Sarawak;
+1976, Ordinan Perancangan Bandar dan Desa 1950,
+
+<!-- marginal: Bah 87. -->
+
+Sabah atau Ordinan Perancangan Bandar dan Desa 1952, Sarawak;
 
 "pihak berkuasa tempatan"—
 
@@ -290,11 +344,7 @@ Ordinan Bandaraya Kuching 1988, Sarawak;
 
 "premis" termasuklah mesuaj, rumah, bangunan, tanah, tenemen, isemen dan hereditamen walau apa pun jenis pemegangannya, sama ada terbuka atau tertutup, sama ada dengan binaan atau tidak, sama ada awam atau persendirian, dan sama ada disenggarakan di bawah kuasa statutori atau tidak;
 
-"sistem pembetungan" ertinya
-
-<!-- marginal: sistem yang -->
-
-mengandungi pembetung, paip pelupusan, stesen pengepam atau tempat pengolahan atau apa-apa kombinasinya dan segala struktur, kelengkapan dan perlengkapan lain yang digunakan atau dimaksudkan untuk digunakan bagi mengumpulkan, membawa, mengepam atau mengolah kumbahan atau bagi melupuskan efluen atau enap cemar atau kumbahan yang sudah diolah;
+"sistem pembetungan" ertinya sistem yang mengandungi pembetung, paip pelupusan, stesen pengepam atau tempat pengolahan atau apa-apa kombinasinya dan segala struktur, kelengkapan dan perlengkapan lain yang digunakan atau dimaksudkan untuk digunakan bagi mengumpulkan, membawa, mengepam atau mengolah kumbahan atau bagi melupuskan efluen atau enap cemar atau kumbahan yang sudah diolah;
 
 "sistem pembetungan awam" ertinya apa-apa sistem yang diisytiharkan oleh Menteri menjadi sistem
 
@@ -322,9 +372,33 @@ II
 
 ## PERKHIDMATAN PEMBETUNGAN
 
-Kerajaan
+<!-- marginal: Kerajaan -->
 
-3. Kerajaan Persekutuan hendaklah, apabila Akta ini Persekutuan mula berkuatkuasa, mempunyai kuasa eksekutif hendaklah berkenaan dengan segala perkara yang berhubungan mempunyai kuasa dengan sistem pembetungan dan perkhidmatan mengenai pembetungan di seluruh Malaysia. sistem dan perkhidmatan pembetungan.
+3. Kerajaan Persekutuan hendaklah, apabila Akta ini
+
+<!-- marginal: Persekutuan -->
+
+mula berkuatkuasa, mempunyai kuasa eksekutif
+
+<!-- marginal: hendaklah -->
+
+berkenaan dengan segala perkara yang berhubungan
+
+<!-- marginal: mempunyai -->
+
+<!-- marginal: kuasa -->
+
+dengan sistem pembetungan dan perkhidmatan
+
+<!-- marginal: mengenai -->
+
+pembetungan di seluruh Malaysia.
+
+<!-- marginal: sistem dan -->
+
+<!-- marginal: perkhidmatan -->
+
+<!-- marginal: pembetungan. -->
 
 <!-- page 11 -->
 
@@ -380,9 +454,13 @@ dengan hakmilik, estet atau kepentingan dan pemegangan yang serupa sebagaimana h
 
 (7) Tiap-tiap hak dan liabiliti yang berpindah kepada Kerajaan Persekutuan di bawah seksyen ini boleh, pada dan selepas tarikh peletakhakan, dituntut melalui guaman, didapatkan atau dikuatkuasakan oleh atau terhadap Kerajaan Persekutuan dan tidaklah perlu bagi Kerajaan Persekutan memberikan notis kepada orang yang hak atau liabilitinya tersentuh oleh peletakhakan di bawah seksyen ini.
 
-Perjanjian
+<!-- marginal: Perjanjian -->
 
-5. Segala suratikatan, bon, perjanjian, suratcara dan sedia ada. perkiraan kerja yang masih berkuatkuasa sebelum sahaja tarikh peletakhakan yang menyentuh apa-apa aset, harta dan liabiliti sesuatu pihak berkuasa tempatan atau Kerajaan Negeri yang terletakhak pada Kerajaan Persekutuan di bawah seksyen 4 hendaklah mempunyai
+5. Segala suratikatan, bon, perjanjian, suratcara dan
+
+<!-- marginal: sedia ada. -->
+
+perkiraan kerja yang masih berkuatkuasa sebelum sahaja tarikh peletakhakan yang menyentuh apa-apa aset, harta dan liabiliti sesuatu pihak berkuasa tempatan atau Kerajaan Negeri yang terletakhak pada Kerajaan Persekutuan di bawah seksyen 4 hendaklah mempunyai
 
 <!-- page 13 -->
 
@@ -434,9 +512,25 @@ III
 
 ## KETUA PENGARAH PERKHIDMATAN PEMBETUNGAN
 
-Ketua
+<!-- marginal: Ketua -->
 
-8. (1) Menteri hendaklah melantik, daripada kalangan Pengarah, anggota perkhidmatan awam, seorang Ketua Pengarah Timbalan Ketua Perkhidmatan Pembetungan. Pengarah, dll. (2) Maka hendaklah dilantik, oleh Suruhanjaya Perkhidmatan yang berkenaan daripada kalangan anggota perkhidmatan awam yang relevan, seorang Timbalan Ketua Pengarah Perkhidmatan Pembetungan yang hendaklah, tertakluk kepada kawalan dan arahan Ketua Pengarah, mempunyai kuasa-kuasa dan fungsi- fungsi Ketua Pengarah, selain daripada kuasa perwakilan yang disebut dalam subseksyen (4).
+8. (1) Menteri hendaklah melantik, daripada kalangan
+
+<!-- marginal: Pengarah, -->
+
+anggota perkhidmatan awam, seorang Ketua Pengarah
+
+<!-- marginal: Timbalan -->
+
+<!-- marginal: Ketua -->
+
+Perkhidmatan Pembetungan.
+
+<!-- marginal: Pengarah, -->
+
+<!-- marginal: dll. -->
+
+(2) Maka hendaklah dilantik, oleh Suruhanjaya Perkhidmatan yang berkenaan daripada kalangan anggota perkhidmatan awam yang relevan, seorang Timbalan Ketua Pengarah Perkhidmatan Pembetungan yang hendaklah, tertakluk kepada kawalan dan arahan Ketua Pengarah, mempunyai kuasa-kuasa dan fungsi- fungsi Ketua Pengarah, selain daripada kuasa perwakilan yang disebut dalam subseksyen (4).
 
 (3) Maka hendaklah dilantik, oleh Suruhanjaya Perkhidmatan yang berkenaan daripada kalangan anggota perkhidmatan awam yang relevan, apa-apa bilangan Pengarah, Timbalan Pengarah, Penolong Pengarah dan pegawai lain yang perlu bagi maksud Akta ini dan mereka hendaklah tertakluk kepada kawalan, arahan dan pengawasan Ketua Pengarah.
 
@@ -488,7 +582,23 @@ Pengarah oleh mana-mana peruntukan lain Akta ini, Ketua Pengarah hendaklah mempu
 
 (I) menjalankan apa-apa aktiviti lain dan membuat apa-apa perkiraan kontraktual yang didapati oleh Ketua Pengarah dikehendaki, berfaedah atau sesuai bagi maksud menjalankan, atau berkaitan dengan, pelaksanaan kuasa-kuasa dan fungsi-fungsinya di bawah Akta ini.
 
-Kuasa 10. Menteri boleh, dari semasa ke semasa, memberikan Menteri arahan yang bersifat am yang tidak tak konsisten dengan untuk memberikan peruntukan-peruntukan Akta ini tentang penjalanan arahan. kuasa-kuasa dan pelaksanaan fungsi-fungsi Ketua Pengarah di bawah Akta ini dan hendaklah menjadi kewajipan Ketua Pengarah melaksanakan arahan-arahan itu.
+<!-- marginal: Kuasa -->
+
+10. Menteri boleh, dari semasa ke semasa, memberikan
+
+<!-- marginal: Menteri -->
+
+arahan yang bersifat am yang tidak tak konsisten dengan
+
+<!-- marginal: untuk -->
+
+<!-- marginal: memberikan -->
+
+peruntukan-peruntukan Akta ini tentang penjalanan
+
+<!-- marginal: arahan. -->
+
+kuasa-kuasa dan pelaksanaan fungsi-fungsi Ketua Pengarah di bawah Akta ini dan hendaklah menjadi kewajipan Ketua Pengarah melaksanakan arahan-arahan itu.
 
 <!-- page 17 -->
 
@@ -554,9 +664,49 @@ dibina sebagaimana yang difikirkannya perlu;
 
 <!-- page 18 -->
 
-Kehendak 14. (1) Jika seseorang bercadang untuk membina berkenaan pembetung atau sistem pembetungan dan Ketua dengan Pengarah berpendapat bahawa pembetung atau sistem pembetung atau sistem pembetungan yang dicadangkan itu akan, atau adalah, pembetungan atau mungkin akan, diperlukan untuk menjadi yang akan menjadi sebahagian daripada sistem pembentungan awam, Ketua sebahagian Pengarah boleh menghendaki orang itu— daripada sistem
+<!-- marginal: Kehendak -->
 
-(a) membina pembetung atau sistem pembetungan pembetungan awam. itu mengikut cara yang dinyatakan oleh Ketua Pengarah; atau
+14. (1) Jika seseorang bercadang untuk membina
+
+<!-- marginal: berkenaan -->
+
+pembetung atau sistem pembetungan dan Ketua
+
+<!-- marginal: dengan -->
+
+Pengarah berpendapat bahawa pembetung atau sistem
+
+<!-- marginal: pembetung -->
+
+<!-- marginal: atau sistem -->
+
+pembetungan yang dicadangkan itu akan, atau adalah,
+
+<!-- marginal: pembetungan -->
+
+atau mungkin akan, diperlukan untuk menjadi
+
+<!-- marginal: yang akan -->
+
+<!-- marginal: menjadi -->
+
+sebahagian daripada sistem pembentungan awam, Ketua
+
+<!-- marginal: sebahagian -->
+
+Pengarah boleh menghendaki orang itu—
+
+<!-- marginal: daripada -->
+
+<!-- marginal: sistem -->
+
+(a) membina pembetung atau sistem pembetungan
+
+<!-- marginal: pembetungan -->
+
+<!-- marginal: awam. -->
+
+itu mengikut cara yang dinyatakan oleh Ketua Pengarah; atau
 
 (b) membaiki dan menyenggara pembetung atau sistem pembetungan itu sehingga pembetung atau sistem pembetungan itu menjadi se- bahagian daripada sistem pembetungan awam.
 
@@ -564,11 +714,27 @@ Kehendak 14. (1) Jika seseorang bercadang untuk membina berkenaan pembetung atau
 
 (3) Jika Ketua Pengarah menjalankan kuasa- kuasanya di bawah subseksyen (1) dia hendaklah membayar orang yang membina pembetung atau sistem pembetungan itu belanja tambahan yang semuna- sabahnya dilakukan oleh orang itu bagi mematuhi kehendak Ketua Pengarah.
 
-Pengurusan, 15. (1) Ketua Pengarah hendaklah menyebabkan pengendalian, sistem-sistem pembetungan awam
+<!-- marginal: Pengurusan, -->
 
-<!-- marginal: diuruskan, -->
+15. (1) Ketua Pengarah hendaklah menyebabkan
 
-penyenggaraan, dsb , sistem dikendalikan, disenggara, diperiksa, dibaiki, diubah- pembetungan pulihkan, diubah, digerbangi atau diperbaiki selainnya awam. dan hendaklah mengolah dan melupuskan kandungan- nya, dan boleh menghentikan penggunaan, menutup atau memusnahkan mana-mana bahagiannya.
+<!-- marginal: pengendalian, -->
+
+sistem-sistem pembetungan awam diuruskan,
+
+<!-- marginal: penyenggaraan, -->
+
+<!-- marginal: dsb , sistem -->
+
+dikendalikan, disenggara, diperiksa, dibaiki, diubah-
+
+<!-- marginal: pembetungan -->
+
+pulihkan, diubah, digerbangi atau diperbaiki selainnya
+
+<!-- marginal: awam. -->
+
+dan hendaklah mengolah dan melupuskan kandungan- nya, dan boleh menghentikan penggunaan, menutup atau memusnahkan mana-mana bahagiannya.
 
 (2) Jika oleh sebab apa-apa pemeriksaan, pengubah- pulihan, pembaikan, pengubahan atau pemerbaikan mana-mana sistem pembetungan awam di bawah subseksyen (1) mana-mana orang tidak dapat menggunakan apa-apa pembetung dengan sah, Ketua Pengarah hendaklah dengan usaha yang wajar mengadakan kemudahan lain yang sama berkesan dengan apa yang tidak dapat digunakan oleh orang itu.
 
@@ -644,13 +810,7 @@ mendapat kebenaran Ketua Pengarah—
 
 <!-- marginal: awam, dsb. -->
 
-benarkan mana-mana
-
-<!-- marginal: paip -->
-
-<!-- marginal: sambungan -->
-
-persendirian, parit atau pembetung disambung- kan secara langsung atau tak langsung ke mana- mana pembetung awam atau tempat olahan awam; atau
+benarkan mana-mana paip sambungan persendirian, parit atau pembetung disambung- kan secara langsung atau tak langsung ke mana- mana pembetung awam atau tempat olahan awam; atau
 
 (b) menutup, menghalang, menyumbat atau melen- congkan mana-mana pembetung awam.
 
@@ -668,13 +828,39 @@ persendirian, parit atau pembetung disambung- kan secara langsung atau tak langs
 
 (b) didapati oleh Ketua Pengarah bahawa cara pembinaan atau keadaan pembetung awam atau tempat olahan awam itu adalah sedemikian rupa sehingga pembuatan sambungan itu mungkin menjejaskan sistem pembetungan awam.
 
-(4) Mana-mana orang yang melanggar subseksyen (1) atau tidak mematuhi perintah yang dikeluarkan di bawah subseksyen (2) adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi sepuluh ribu ringgit.
+(4) Mana-mana orang yang melanggar subseksyen
 
-Efluen
+(1) atau tidak mematuhi perintah yang dikeluarkan di bawah subseksyen (2) adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi sepuluh ribu ringgit.
 
-19. (1) Tiada seorang pun boleh melepaskan ke dalam industri atau membenarkan bertemu dengan mana-mana atau benda pembetung awam atau tempat olahan awam— berbahaya tidak boleh bertemu
+<!-- marginal: Efluen -->
 
-(a) apa-apa efluen industri, tanpa terlebih dahulu dengan mendapat kebenaran bertulis Ketua Pengarah; pembetung atau awam, dsb.
+19. (1) Tiada seorang pun boleh melepaskan ke dalam
+
+<!-- marginal: industri -->
+
+atau membenarkan bertemu dengan mana-mana
+
+<!-- marginal: atau benda -->
+
+pembetung awam atau tempat olahan awam—
+
+<!-- marginal: berbahaya -->
+
+<!-- marginal: tidak boleh -->
+
+<!-- marginal: bertemu -->
+
+(a) apa-apa efluen industri, tanpa terlebih dahulu
+
+<!-- marginal: dengan -->
+
+mendapat kebenaran bertulis Ketua Pengarah;
+
+<!-- marginal: pembetung -->
+
+atau
+
+<!-- marginal: awam, dsb. -->
 
 <!-- page 21 -->
 
@@ -716,13 +902,65 @@ membayar pampasan kepada Kerajaan Persekutuan bagi kerosakan yang disebabkan itu
 
 <!-- page 22 -->
 
-Kuasa untuk 22. Ketua Pengarah hendaklah menyebabkan tangki menyebabkan septik persendirian di kawasan-kawasan yang ditetapkan tangki septik persendirian oleh Menteri dari semasa ke semasa dikemaskan, dibersihkan. dibersihkan dan dikosongkan. dsb.
+<!-- marginal: Kuasa untuk -->
 
-Kuasa Ketua 23. (1) Jika Ketua Pengarah berpuas hati bahawa— Pengarah untuk
+22. Ketua Pengarah hendaklah menyebabkan tangki
 
-(a) suatu sistem pembetungan atau tangki septik menghendaki persendirian di mana-mana premis atau yang sistem memberikan kemudahan kepada mana-mana pembetungan persendirian premis; atau dijadikan berkeadaan
+<!-- marginal: menyebabkan -->
 
-(b) suatu paip sambungan persendirian yang teratur menyambungkan mana-mana premis ke suatu seperti yang sepatutnya. sistem pembetungan,
+septik persendirian di kawasan-kawasan yang ditetapkan
+
+<!-- marginal: tangki septik -->
+
+<!-- marginal: persendirian -->
+
+oleh Menteri dari semasa ke semasa dikemaskan,
+
+<!-- marginal: dibersihkan. -->
+
+dibersihkan dan dikosongkan.
+
+<!-- marginal: dsb. -->
+
+<!-- marginal: Kuasa Ketua -->
+
+23. (1) Jika Ketua Pengarah berpuas hati bahawa—
+
+<!-- marginal: Pengarah -->
+
+<!-- marginal: untuk -->
+
+(a) suatu sistem pembetungan atau tangki septik
+
+<!-- marginal: menghendaki -->
+
+persendirian di mana-mana premis atau yang
+
+<!-- marginal: sistem -->
+
+memberikan kemudahan kepada mana-mana
+
+<!-- marginal: pembetungan -->
+
+<!-- marginal: persendirian -->
+
+premis; atau
+
+<!-- marginal: dijadikan -->
+
+<!-- marginal: berkeadaan -->
+
+(b) suatu paip sambungan persendirian yang
+
+<!-- marginal: teratur -->
+
+menyambungkan mana-mana premis ke suatu
+
+<!-- marginal: seperti yang -->
+
+<!-- marginal: sepatutnya. -->
+
+sistem pembetungan,
 
 cacat atau tidak disenggara dengan sepatutnya atau memerlukan pembaikan, dia boleh mengeluarkan notis mengikut Akta ini kepada pemunya atau penghuni premis itu atau pemunya sistem pembetungan, tangki septik atau paip sambungan itu yang menghendaki pemunya atau penghuni itu membaiki
 
@@ -812,11 +1050,37 @@ septik itu diservis dan dibuang enap cemarnya;
 
 (1) adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi sepuluh ribu ringgit dan boleh didenda selanjutnya tidak melebihi satu ribu ringgit bagi setiap hari kesalahan itu berterusan selepas sabitan.
 
-Penalti
+<!-- marginal: Penalti -->
 
-26. (1) Pemunya— berkenaan dengan
+26. (1) Pemunya—
 
-(a) mana-mana sistem pembetungan atau tangki kacau- septik persendirian yang sebegitu kotor atau ganggu, dsb. yang yang dalam keadaan atau terletak sedemikian disebabkan rupa sehingga menjadi kacau-ganggu atau oleh sistem pembetungan berbahaya kepada kesihatan; atau persendirian.
+<!-- marginal: berkenaan -->
+
+<!-- marginal: dengan -->
+
+(a) mana-mana sistem pembetungan atau tangki
+
+<!-- marginal: kacau- -->
+
+septik persendirian yang sebegitu kotor atau
+
+<!-- marginal: ganggu, -->
+
+<!-- marginal: dsb. yang -->
+
+yang dalam keadaan atau terletak sedemikian
+
+<!-- marginal: disebabkan -->
+
+rupa sehingga menjadi kacau-ganggu atau
+
+<!-- marginal: oleh sistem -->
+
+<!-- marginal: pembetungan -->
+
+berbahaya kepada kesihatan; atau
+
+<!-- marginal: persendirian. -->
 
 (b) mana-mana bangunan yang—
 
@@ -870,7 +1134,23 @@ olehnya secara bertulis, boleh bagi maksud Akta ini masuk pada bila-bila masa ke
 
 (4) Walau apa pun subseksyen (2), notis tidak diperlukan dalam hal kecemasan jika sesuatu sistem pembetungan atau mana-mana bahagiannya, kerana apa- apa sebab, adalah atau mungkin menjadi berbahaya kepada awam.
 
-28. (1) Tertakluk kepada subseksyen (2), Ketua Kuasa untuk memasuki Pengarah, atau mana-mana orang yang diberikuasa tanah yang olehnya secara bertulis, boleh masuk ke mana-mana bersem- padanan. tanah yang bersempadanan dengan atau yang berada dalam lingkungan satu ratus meter dari apa-apa kerja yang dijalankan di bawah seksyen 27—
+28. (1) Tertakluk kepada subseksyen (2), Ketua
+
+<!-- marginal: Kuasa untuk -->
+
+<!-- marginal: memasuki -->
+
+Pengarah, atau mana-mana orang yang diberikuasa
+
+<!-- marginal: tanah yang -->
+
+olehnya secara bertulis, boleh masuk ke mana-mana
+
+<!-- marginal: bersem- -->
+
+<!-- marginal: padanan. -->
+
+tanah yang bersempadanan dengan atau yang berada dalam lingkungan satu ratus meter dari apa-apa kerja yang dijalankan di bawah seksyen 27—
 
 (a) bagi maksud meletakkan di atas tanah itu, tanih, kerikil, pasir, kapur, bata, batu, paip atau bahan lain; atau
 
@@ -882,7 +1162,9 @@ tanpa membuat apa-apa bayaran, tawaran wang atau deposit terlebih dahulu.
 
 (3) Mana-mana orang yang menggunakan mana- mana tanah di bawah subseksyen (1) hendaklah mengasingkan, dengan menggunakan pagar yang mencukupi, sekian bahagian tanah itu yang perlu digunakan bagi maksud-maksud yang tersebut dalam subseksyen itu daripada tanah lain yang bersempadanan dengannya.
 
-Pampasan. 29. (1) Orang yang menggunakan kuasa-kuasa yang diberikan melalui seksyen 27 dan 28 hendaklah seboleh- bolehnya melakukan sesedikit mungkin kerosakan dan apabila dia telah menjalankan kuasa itu dia hendaklah membayar pampasan penuh kepada semua orang yang berkepentingan bagi apa-apa kerosakan yang ditanggung oleh mereka oleh sebab penggunaan kuasa-kuasa itu.
+<!-- marginal: Pampasan. -->
+
+29. (1) Orang yang menggunakan kuasa-kuasa yang diberikan melalui seksyen 27 dan 28 hendaklah seboleh- bolehnya melakukan sesedikit mungkin kerosakan dan apabila dia telah menjalankan kuasa itu dia hendaklah membayar pampasan penuh kepada semua orang yang berkepentingan bagi apa-apa kerosakan yang ditanggung oleh mereka oleh sebab penggunaan kuasa-kuasa itu.
 
 <!-- page 27 -->
 
@@ -912,9 +1194,17 @@ VII
 
 ### CAJ
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-30. (1) Menteri boleh dari semasa ke semasa melalui mengenakan peraturan-peraturan menetapkan, sama ada secara caj. berasingan atau sebagai kadar yang disatukan, caj, fee atau levi pembetungan yang hendaklah dibayar oleh mana-mana orang yang kepadanya perkhidmatan pembetungan diberikan di bawah Akta ini.
+30. (1) Menteri boleh dari semasa ke semasa melalui
+
+<!-- marginal: mengenakan -->
+
+peraturan-peraturan menetapkan, sama ada secara
+
+<!-- marginal: caj. -->
+
+berasingan atau sebagai kadar yang disatukan, caj, fee atau levi pembetungan yang hendaklah dibayar oleh mana-mana orang yang kepadanya perkhidmatan pembetungan diberikan di bawah Akta ini.
 
 (2) Menteri boleh, melalui perintah yang disiarkan dalam Warta, memberikuasa kontraktor perkhidmatan pembetungan yang dengannya perjanjian telah dibuat di bawah seksyen 7 untuk menuntut, memungut dan menyimpan caj, fee atau levi pembetungan yang ditetapkan di bawah subseksyen (1) berkenaan dengan perkhidmatan pembetungan yang diberikan oleh kontraktor perkhidmatan pembetungan itu di bawah perjanjian itu.
 
@@ -1036,9 +1326,21 @@ kecuali di bawah dan mengikut terma lesen yang dikeluarkan di bawah Bahagian ini
 
 <!-- page 32 -->
 
-Permohonan
+<!-- marginal: Permohonan -->
 
-33. (1) Tiap-tiap permohonan bagi mendapatkan lesen dan untuk membuat apa-apa perbuatan yang dilarang di pengeluaran bawah seksyen 32 hendaklah dibuat secara bertulis dan lesen. hendaklah disertakan dengan apa-apa dokumen dan maklumat yang dinyatakan oleh Ketua Pengarah bagi maksud membuat keputusan tentang permohonan dan kesesuaian pemohon.
+33. (1) Tiap-tiap permohonan bagi mendapatkan lesen
+
+<!-- marginal: dan -->
+
+untuk membuat apa-apa perbuatan yang dilarang di
+
+<!-- marginal: pengeluaran -->
+
+bawah seksyen 32 hendaklah dibuat secara bertulis dan
+
+<!-- marginal: lesen. -->
+
+hendaklah disertakan dengan apa-apa dokumen dan maklumat yang dinyatakan oleh Ketua Pengarah bagi maksud membuat keputusan tentang permohonan dan kesesuaian pemohon.
 
 (2) Apabila diterimanya apa-apa permohonan yang dibuat mengikut subseksyen (1), Ketua Pengarah boleh—
 
@@ -1066,11 +1368,9 @@ Permohonan
 
 (6) Ketua Pengarah boleh membatalkan mana-mana lesen yang dikeluarkan di bawah Bahagian ini.
 
-(7) Mana-mana orang yang
+(7) Mana-mana orang yang terkilan dengan keputusan Ketua Pengarah di bawah subseksyen (3) atau
 
-<!-- marginal: terkilan dengan -->
-
-keputusan Ketua Pengarah di bawah subseksyen (3) atau (6) boleh merayu kepada Menteri yang keputusannya adalah muktamad dan konklusif.
+(6) boleh merayu kepada Menteri yang keputusannya adalah muktamad dan konklusif.
 
 <!-- marginal: Kewajipan -->
 
@@ -1114,15 +1414,41 @@ adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak me
 
 <!-- page 34 -->
 
-Penalti
+<!-- marginal: Penalti -->
 
-36. (1) Jika apa-apa notis di bawah Akta ini atau kerana tidak mana-mana peraturan yang dibuat di bawah Akta ini mematuhi menghendaki apa-apa perbuatan dilakukan atau kerja notis. dilaksanakan oleh pemunya atau penghuni mana-mana premis dan pemunya atau penghuni itu tidak mematuhi kehendak-kehendak notis itu, pemunya atau penghuni itu adalah meiakukan suatu kesalahan dan, apabila disabitkan, jika tiada denda diperuntukkan dengan khusus, boleh didenda tidak melebihi lima ribu ringgit dan boleh didenda selanjutnya tidak melebihi lima ratus ringgit bagi setiap hari kesalahan itu berterusan selepas sabitan.
+36. (1) Jika apa-apa notis di bawah Akta ini atau
+
+<!-- marginal: kerana tidak -->
+
+mana-mana peraturan yang dibuat di bawah Akta ini
+
+<!-- marginal: mematuhi -->
+
+menghendaki apa-apa perbuatan dilakukan atau kerja
+
+<!-- marginal: notis. -->
+
+dilaksanakan oleh pemunya atau penghuni mana-mana premis dan pemunya atau penghuni itu tidak mematuhi kehendak-kehendak notis itu, pemunya atau penghuni itu adalah meiakukan suatu kesalahan dan, apabila disabitkan, jika tiada denda diperuntukkan dengan khusus, boleh didenda tidak melebihi lima ribu ringgit dan boleh didenda selanjutnya tidak melebihi lima ratus ringgit bagi setiap hari kesalahan itu berterusan selepas sabitan.
 
 (2) Jika apa-apa notis menghendaki apa-apa perbuatan dilakukan atau kerja dilaksanakan yang baginya tiada tempoh masa ditetapkan oleh Akta ini atau mana-mana peraturan yang dibuat di bawah Akta ini, notis itu hendaklah menetapkan tempoh masa yang munasabah bagi pematuhan kehendak itu.
 
-Prosiding jika
+<!-- marginal: Prosiding jika -->
 
-37. (1) Jika penghuni mana-mana premis menghalang penghuni pemunya premis itu melaksanakan, berkenaan dengan menentang pelaksanaan premis itu mana-mana peruntukan Akta ini selepas notis kerja-kerja. tentang niatnya untuk berbuat demikian diberikan oleh pemunya itu kepada penghuni itu, Mahkamah Majistret, apabila dibuktikan penghalangan itu dan atas permohonan pemunya itu, boleh membuat perintah menghendaki penghuni itu membenarkan pemunya itu melaksanakan segala kerja berkenaan dengan premis itu sebagaimana yang perlu bagi melaksanakan peruntukan- peruntukan Akta ini dan boleh juga, jika difikirkannya patut, memerintahkan penghuni itu membayar kepada pemunya itu kos yang berhubungan dengan permohonan atau perintah itu.
+37. (1) Jika penghuni mana-mana premis menghalang
+
+<!-- marginal: penghuni -->
+
+pemunya premis itu melaksanakan, berkenaan dengan
+
+<!-- marginal: menentang -->
+
+<!-- marginal: pelaksanaan -->
+
+premis itu mana-mana peruntukan Akta ini selepas notis
+
+<!-- marginal: kerja-kerja. -->
+
+tentang niatnya untuk berbuat demikian diberikan oleh pemunya itu kepada penghuni itu, Mahkamah Majistret, apabila dibuktikan penghalangan itu dan atas permohonan pemunya itu, boleh membuat perintah menghendaki penghuni itu membenarkan pemunya itu melaksanakan segala kerja berkenaan dengan premis itu sebagaimana yang perlu bagi melaksanakan peruntukan- peruntukan Akta ini dan boleh juga, jika difikirkannya patut, memerintahkan penghuni itu membayar kepada pemunya itu kos yang berhubungan dengan permohonan atau perintah itu.
 
 (2) Penghuni mana-mana premis yang terus, selepas habis tempoh lapan hari dari tarikh perintah yang dibuat di bawah subseksyen (1), enggan membenarkan pemunya premis itu melaksanakan kerja-kerja yang dinyatakan dalam perintah itu adalah meiakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi lima ribu ringgit bagi tiap-tiap hari dia terus enggan sedemikian, dan pemunya itu hendaklah, semasa
 
@@ -1184,9 +1510,17 @@ mana orang hendaklah dilaksanakan—
 
 (2) Sesuatu dokumen yang dikehendaki disampaikan kepada pemunya atau penghuni mana-mana premis hendaklah disifatkan telah dialamatkan dengan sepatutnya jika dialamatkan dengan perihalan "pemunya" atau "penghuni" premis itu tanpa nama atau perihalan selanjutnya dan boleh disampaikan dengan menyerahkan dokumen itu kepada seorang orang dewasa di premis itu atau, jika tidak ada orang sedemikian di premis itu yang kepadanya dokumen itu boleh dengan usaha yang munasabah diserahkan, dengan melekatkan dokumen itu di suatu bahagian ketara premis itu.
 
-Ketaktepalan
+<!-- marginal: Ketaktepalan -->
 
-42. (1) Tiada kesilapan nama atau ketaktepatan dalam perihalan mana-mana orang, premis, bangunan, dokumen. pegangan, jalan atau tempat yang dinamakan atau diperihalkan dalam mana-mana dokumen yang disediakan, dikeluarkan atau disampaikan di bawah, menurut kuasa atau bagi maksud-maksud Akta ini atau mana-mana peraturan yang dibuat di bawah Akta ini boleh dengan apa-apa cara menyentuh kuatkuasa Akta ini atau peraturan itu berkenaan dengan orang atau tempat itu jika orang atau tempat itu dinyatakan dalam dokumen itu sedemikian rupa sehingga boleh dikenalpasti.
+42. (1) Tiada kesilapan nama atau ketaktepatan
+
+<!-- marginal: dalam -->
+
+perihalan mana-mana orang, premis, bangunan,
+
+<!-- marginal: dokumen. -->
+
+pegangan, jalan atau tempat yang dinamakan atau diperihalkan dalam mana-mana dokumen yang disediakan, dikeluarkan atau disampaikan di bawah, menurut kuasa atau bagi maksud-maksud Akta ini atau mana-mana peraturan yang dibuat di bawah Akta ini boleh dengan apa-apa cara menyentuh kuatkuasa Akta ini atau peraturan itu berkenaan dengan orang atau tempat itu jika orang atau tempat itu dinyatakan dalam dokumen itu sedemikian rupa sehingga boleh dikenalpasti.
 
 (2) Tiada presiding yang diambil di bawah atau menurut kuasa Akta ini atau mana-mana peraturan yang dibuat di bawah Akta ini boleh menjadi tak sah kerana ketaktepatan bentuk.
 
@@ -1218,11 +1552,7 @@ mindahmilikkan apa-apa harta yang berkenaan
 
 dengannya kos dan belanja telah dilakukan oleh Ketua Pengarah atau seseorang kontraktor perkhidmatan pembetungan atau kontraktor penyambungan, mengikut mana-mana yang berkenaan, pada atau semasa melaksanakan apa-apa kerja yang, di bawah Akta ini, boleh didapatkan daripada pemunya harta itu hendaklah terus menanggung liabiliti bagi pembayaran semua kos dan belanja yang kena dibayar berkenaan dengan harta itu dan bagi pelaksanaan segala obligasi lain yang dikenakan oleh Akta ini ke atas pemunya harta itu yang menjadi kena dibayar atau yang hendaklah dilaksanakan pada bila-bila masa sebelum pemindahmilikan itu berkuatkuasa.
 
-(2) Tiada apa-apa jua dalam Akta
-
-<!-- marginal: ini boleh -->
-
-menyentuh kebertanggungan pembeli atau rnenerima pindahan untuk membayar kos dan belanja berkenaan dengan harta yang disebut dalam subseksyen (1) atau menyentuh hak Ketua Pengarah atau seseorang kontraktor perkhidmatan pembetungan atau kontraktor penyambungan, mengikut mana-mana yang berkenaan, untuk mendapatkan kos dan belanja itu daripada atau menguatkuasakan mana-mana obligasi di bawah Akta ini terhadap pembeli atau penerima pindahan itu.
+(2) Tiada apa-apa jua dalam Akta ini boleh menyentuh kebertanggungan pembeli atau rnenerima pindahan untuk membayar kos dan belanja berkenaan dengan harta yang disebut dalam subseksyen (1) atau menyentuh hak Ketua Pengarah atau seseorang kontraktor perkhidmatan pembetungan atau kontraktor penyambungan, mengikut mana-mana yang berkenaan, untuk mendapatkan kos dan belanja itu daripada atau menguatkuasakan mana-mana obligasi di bawah Akta ini terhadap pembeli atau penerima pindahan itu.
 
 <!-- marginal: Kuasa untuk -->
 
@@ -1266,11 +1596,7 @@ memberikan kuatkuasa kepada, maksud-maksud Akta ini.
 
 (1) bentuk pemberitahuan, notis dan perintah yang hendaklah dibuat di bawah Akta ini dan cara penyampaiannya;
 
-(m) cara yang hendaklah diterima-pakai, sama ada dengan cara larangan atau selainnya, untuk mencegah atau memberhentikan apa-apa kacau- ganggu yang mungkin terbit atau yang terbit daripada pengerjaan apa-apa
-
-<!-- marginal: sistem -->
-
-pembetungan atau tangki septik persendirian;
+(m) cara yang hendaklah diterima-pakai, sama ada dengan cara larangan atau selainnya, untuk mencegah atau memberhentikan apa-apa kacau- ganggu yang mungkin terbit atau yang terbit daripada pengerjaan apa-apa sistem pembetungan atau tangki septik persendirian;
 
 (n) pengawalseliaan perkhidmatan yang diberikan oleh kontraktor perkhidmatan pembetungan termasuk peruntukan bagi mendapatkan caj, fee dan levi bagi perkhidmatan pembetungan, penyambungan, kemasukan ke dalam mana- mana premis oleh kontraktor perkhidmatan pembetungan atau pegawai-pegawai diberi- kuasanya bagi maksud-maksud yang ber- hubungan dengan perkhidmatan pembetungan dan bentuk apa-apa notis yang diperlukan;
 
@@ -1284,9 +1610,13 @@ pembetungan atau tangki septik persendirian;
 
 ditetapkan atau yang perlu atau suaimanfaat ditetapkan bagi menguatkuasakan Akta ini.
 
-Kecualian
+<!-- marginal: Kecualian -->
 
-46. (1) Tiada apa-apa jua boleh menyentuh kuatkuasa dan peralihan. sebelum ini, atau apa-apa jua yang dilakukan di bawah peruntukan-peruntukan, mana-mana undang-undang yang berhubungan dengan sistem dan perkhidmatan pembetungan yang diluluskan sebelum tarikh mula berkuatkuasanya Akta ini.
+46. (1) Tiada apa-apa jua boleh menyentuh kuatkuasa
+
+<!-- marginal: dan peralihan. -->
+
+sebelum ini, atau apa-apa jua yang dilakukan di bawah peruntukan-peruntukan, mana-mana undang-undang yang berhubungan dengan sistem dan perkhidmatan pembetungan yang diluluskan sebelum tarikh mula berkuatkuasanya Akta ini.
 
 (2) Apa-apa pelan atau spesifikasi berkenaan dengan apa-apa sistem pembetungan atau tangki septik yang diluluskan di bawah mana-mana undang-undang bertulis lain sebelum tarikh mula berkuatkuasanya Akta ini hendaklah disifatkan telah diluluskan di bawah seksyen
 
@@ -1422,6 +1752,4 @@ Fasal 46 mengandungi peruntukan-peruntukan kecualian dan peralihan.
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya tidak dapat ditentukan sekarang ini.
-
-<!-- marginal: [PN. (U2)1750.] -->
+Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya tidak dapat ditentukan sekarang ini. [PN. (U2)1750.]

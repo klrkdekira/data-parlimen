@@ -1,0 +1,2688 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-33-2010",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "National Visual Arts Development Board Bill 2010"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title and commencement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "NATIONAL VISUAL ARTS DEVELOPMENT BOARD Establishment of the National Visual Arts Development Board"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_21"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "OFFICERS AND SERVANTS OF THE BOARD Appointment of Director General"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_17__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_17__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may appoint a Director General for the purposes of this Act and for the efficient conduct of the affairs of the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The terms and conditions of appointment of the Director General shall be determined by the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_17__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the Director General is temporarily absent from Malaysia or is temporarily incapacitated through illness or for any other reason from the performance of his duties, the Board may direct any other officer to perform the duties of the Director General during his temporary absence or incapacity. Duties of Director General"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_18__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_18__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_18__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Director General shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be responsible for the management of the affairs of the Board subject to the directions of and in accordance with policies determined by the Board;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be responsible for putting into execution the decisions of the Board;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_18__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "exercise supervision and control over all the other officers and servants of the Board; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_18__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "perform such duties and exercise such powers as may from time to time be determined or delegated by the Board or as the Chairman may direct. Officers and servants of the Board"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_19__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_19__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_19__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall appoint such number of officers and servants of the Board as the Board may from time to time think necessary."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall have power to formulate and regulate the procedure for the appointment of its officers and servants."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_19__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An officer or servant of the Board shall hold his office for such period and on such terms and conditions as the Board may from time to time determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_19__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may, with the approval of the Minister, make regulations with respect to the conditions of service of its officers and servants. Power to grant loans and make advances to officers and servants"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may grant loans and make advances to its officers and servants for such purposes and on such terms and conditions as the Board may determine. Payment of retirement benefits, gratuities and other allowances"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may make arrangements for the payment to its officers and servants and their dependants of such retirement benefits, gratuities and other allowances as the Board may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_10__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_10__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_10__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall have a common seal which shall bear such device as the Board shall approve and such seal may be broken, changed, altered or made anew as the Board deems fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Until a seal is provided by the Board, a stamp bearing the words “National Visual Arts Development Board” may be used and shall be deemed to be the common seal of the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_10__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The common seal shall be kept in the custody of the Director General or such other person as may be authorized by the Board, and shall be authenticated by the Director General or such authorized person or by any officer authorized by either of them in writing; and all deeds, documents and other instruments purporting to be sealed with that seal, authenticated as specified in this subsection, shall, until the contrary is proved, be deemed to have been validly executed: Provided that any document or instrument which if executed by a person not being a body corporate would not be required to be under seal may in like manner be executed by the Board, and any such document or instrument may be executed on behalf of the Board by any officer or servant of the Board generally or specially authorized by the Board in that behalf."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_10__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The common seal of the Board shall be officially and judicially noticed. Power to establish companies"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may, from time to time, with the approval of the Minister establish companies under the Companies Act 1965 [Act 125] to carry out and have the charge, conduct and management of any project, scheme or enterprise which has been planned or undertaken by the Board in the performance of its functions or the exercise of its powers. Delegation of Board’s functions and powers"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_12__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_12__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_12__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may, in writing, delegate any of its functions and powers to the Chairman or any other member of the Board or to any officer of the Board, except the power to make subsidiary legislation, power to borrow money and power with regards to administrative and operational matters of the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person delegated with such powers shall be bound to observe and have regard to all conditions and restrictions imposed by the Board and all requirements, procedures and matters specified by the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_12__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any function or power delegated under this section shall be performed or exercised in the name and on behalf of the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_12__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A delegation under this section shall not preclude the Board itself from performing or exercising at any time any of the delegated functions or powers. Power of Minister to give directions and require information"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_13__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may give to the Board any direction of a general character consistent with the provisions of this Act and the Board shall give effect to such direction."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall furnish the Minister with such information with respect to its property and activities as he may from time to time require. Meetings and procedures of the Board"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_14__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_14__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_14__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_14__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_14__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall hold such number of meetings as may be necessary for the due fulfillment of its functions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chairman of the Board or the person appointed to exercise the functions of the Chairman pursuant to subsection 9(1) shall preside at any meeting of the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If at any meeting of the Board neither the Chairman nor the person appointed to exercise the functions of the Chairman pursuant to subsection 9(1) is present, the members present shall elect one of their members to be the chairman of the meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_14__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every question at a meeting of the Board shall be determined by a majority of the votes of the members present, and in the case of an equality of votes, the chairman of the meeting shall have a casting vote."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_14__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may act notwithstanding one or more vacancies among its members."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_14__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to this Act, the Board may determine its own procedure."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_14__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The quorum for a meeting of the Board shall be five. Secretary to the Board"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General shall be the secretary to the Board. Committees of the Board"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_16"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may establish such committees as it considers necessary or expedient to assist it in the performance of its functions under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_10",
+      "@type": "akn:subsection",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Meetings of a committee shall be held at such times and places as the chairman of the committee may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_11",
+      "@type": "akn:subsection",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_11__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A committee shall cause—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "minutes of all its meetings to be maintained and kept in proper form; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "copies of the minutes of all its meetings to be submitted to the Board as soon as practicable."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_12",
+      "@type": "akn:subsection",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any minutes made of a meeting of a committee shall, if duly signed, be admissible in evidence in all legal proceedings without further proof."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_13",
+      "@type": "akn:subsection",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every meeting of a committee in respect of the proceedings of which minutes have been made in accordance with subsections (11) and (12) shall be deemed to have been duly convened and held and all members thereat to have been duly qualified to act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_14",
+      "@type": "akn:subsection",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A committee may invite any person to attend any of its meetings, for the purpose of advising it on any matter under discussion, but that person shall not be entitled to vote at the meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_15",
+      "@type": "akn:subsection",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Members of a committee or any person invited to attend any meeting of a committee may be paid such allowances and other expenses as the Board may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_16",
+      "@type": "akn:subsection",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_16__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No act done or proceeding taken under this Act shall be questioned on the ground of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any vacancy in the membership of, or any defect in the constitution of, a committee; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any omission, defect or an irregularity not affecting the merits of the case."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may elect any of its members to be the chairman of a committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may appoint any person to be a member of any committee established under subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of a committee shall hold office for such term as may be specified in his letter of appointment and is eligible for reappointment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may at any time revoke the appointment of any member of a committee without assigning any reason for the revocation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of a committee may at any time resign by giving notice in writing to the Chairman of the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A committee may regulate its own procedure."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A committee shall be subject to and act in accordance with any direction given to the committee by the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16__subsec_9",
+      "@type": "akn:subsection",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may at any time discontinue or alter the constitution of a committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_3__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_3__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A body corporate by the name of “National Visual Arts Development Board” is established."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall have perpetual succession and a common seal."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may sue and be sued in its name."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_3__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_3__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_3__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_3__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to and for the purposes of this Act, the Board may, upon such terms as it deems fit—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_3__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_3__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "enter into contracts;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_3__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_3__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "acquire, purchase, take, hold and enjoy movable and immovable property of every description; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_3__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_3__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "convey, assign, surrender, yield up, charge, mortgage, demise, reassign, transfer, or otherwise dispose of, or deal with, any movable or immovable property or any interest vested in the Board. Functions of the Board"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4__para_k"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The functions of the Board shall be—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to make recommendations to the Minister as to the policies, methods, measures and strategies to be adopted to promote, nurture and facilitate the development of visual arts in Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to establish, operate and maintain the Gallery;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to purchase or acquire any works of visual arts;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to preserve the visual arts objects in the Gallery;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to maintain the standard and quality of the visual arts;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to provide assistance in monetary term or otherwise to visual arts operators in Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to initiate activities either with or without the participation of visual arts operators towards the advancement of visual arts development in Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to promote, assist and co-ordinate the activities of visual arts operators;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to provide support, including, but not limited to, financial support, advice and information, to any person, organization or institution towards the advancement of visual arts development in Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to conduct activities for the purpose of stimulating public interest in visual arts, promoting knowledge, appreciation and practice of the visual arts and improving standards in such art; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to act in any capacity or role towards the advancement of visual arts development Malaysia. Powers of the Board"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1__para_j"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to and for the purposes of this Act, the Board shall have the following powers:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to employ consultants, appoint agents and attorneys;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to hold any works of visual arts upon trust;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to provide training schemes and facilities, to control and supervise the implementation of training projects and programmes relating to the development or advancement of visual arts in Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to employ such number of officers and servants on such terms and conditions as the Minister may approve;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to manage and control the Gallery and for that purpose may employ such number of officers and servants to run the Gallery, on such terms and conditions as the Minister may approve;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to impose fees or any other charges it deems fit in respect of any entrance to any exhibition held at the Gallery or any other services rendered by the Gallery;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to lend any object belonging to the Gallery to any gallery, museum or exhibition on such terms and subject to such conditions as the Board thinks fit: Provided that the approval in writing of the Minister shall first be obtained if such gallery, museum or exhibition is outside Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "with the written consent of the Minister, and subject to any restrictions which the Minister may impose, to invest, borrow money or charge any movable or immovable property or any interest therein vested in the Board, upon such terms and conditions as the Board thinks fit;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to make available services in relation to the visual arts including the carrying out of investigations and the giving of advice; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to do all things reasonably necessary for the performance of its duties under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1) the Board, subject to any directive made by the Minister from time to time, shall have power to participate and promote participation in international collaborative projects, the participation whereof appears to it to be requisite, advantageous or convenient for or in connection with the performance of its functions under this Act. Membership of the Board"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_6__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_6__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_6__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_6__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_6__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_6__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall consist of the following members:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_6__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a Chairman to be appointed by the Minister;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_6__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Secretary General of the Ministry charged with the responsibility for the development of visual arts, or his representative;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_6__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Secretary General of the Ministry charged with the responsibility for finance, or his representative; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_6__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "not less than five but not more than ten other members to be appointed by the Minister of which half shall be practising artists or academics in the visual arts field who in the opinion of the Minister, would be able to contribute to the development of visual arts."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Board appointed by the Minister shall, unless his appointment is sooner revoked or he sooner resigns, hold office for a term not exceeding three years as the Minister may determine and is eligible for reappointment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Members of the Board shall be paid such allowances as the Minister may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_6__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The provisions of the Schedule shall apply to the Board. Revocation of appointment and resignation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_7__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The appointment of any member appointed under paragraph 6(1)(a) or (d) may at any time be revoked by the Minister without assigning any reasons for the revocation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member appointed by the Minister may at any time resign his office by giving a written notice addressed to the Minister. Vacation of office"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The office of a member appointed under paragraph 6(1)(a) or (d) shall be vacated if—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he dies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "there has been proved against him, or he has been convicted on, a charge in respect of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an offence involving fraud, dishonesty or moral turpitude;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an offence under any law relating to corruption; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other offence punishable with imprisonment (in itself only or in addition to or in lieu of a fine) for more than two years;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he becomes a bankrupt;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he is of unsound mind or is otherwise incapable of discharging his duties;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he absents himself from three consecutive meetings of the Board without leave of the Chairman or in the case of the Chairman, without leave of the Minister;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "his resignation is accepted by the Minister; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "his appointment is revoked by the Minister. Temporary exercise of functions of Chairman"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_9__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Chairman is for any reason unable to perform the functions of the Chairman or during any period of vacancy in the office of the Chairman, the Minister may appoint any member of the Board to perform the functions of the Chairman."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member appointed under subsection (1) shall, during the period in which he is performing the functions of the Chairman under this section, be deemed to be the Chairman."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any person ceases to be a member of the Board by reason of any of the provisions of this Act, another person shall be appointed in his place in accordance with the provisions applying. Common seal"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_29"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "FINANCE The Fund"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this Act, a fund to be known as the “National Visual Arts Fund” which shall be administered and controlled by the Board is established."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22__subsec_2__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Fund shall consist of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "such sums as may be provided annually by Parliament for the purposes of this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "such sums as may be paid to the Board from time to time for loans made by the Board;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "moneys received by the Board as donations, grants howsoever received or moneys earned from the operation of any project, scheme or enterprise financed from the Fund;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "moneys earned or arising from any property, investment, mortgage, charge or debenture acquired by or vested in the Board;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any property, investment, mortgage, charge or debenture acquired by or vested in the Board;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "sums borrowed by the Board for the purposes of meeting any of its obligations or discharging any of its duties;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "moneys collected by the Board under regulations made under this Act and specified therein as sums payable into the Fund; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all other sums or property which may in any manner become payable to or vested in the Board in respect of any matter incidental to its functions, powers and duties. Expenditure to be charged on the Fund"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_23__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_23__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_23__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_23__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_23__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_23__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_23__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Fund shall be expended for the purposes of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_23__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "paying any expenditure lawfully incurred by the Board;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_23__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "paying for the remuneration, allowances and other expenses of the Chairman, members of the Board, the Director General, members of the committees, officers and servants appointed and employed by the Board, including retirement benefits, pensions and gratuities;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_23__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "paying any expenses, costs or expenditure in relation to the management and control of the Gallery lawfully incurred or accepted by the Board;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_23__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "paying any other expenses, costs or expenditure lawfully incurred or accepted by the Board in the performance of its functions or the exercise of its powers under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_23__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "repaying any moneys borrowed under paragraph 22(2)(f) and the interest due on the borrowed moneys;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_23__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "granting loans and advances to officers and servants of the Board under section 20; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_23__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "generally, paying any expenses for carrying into effect the provisions of this Act. Conservation of the Fund"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "It shall be the duty of the Board to conserve the Fund by so performing its functions and exercising its powers under this Act to secure that the total revenues of the Board are sufficient to meet all sums properly chargeable to its revenue account, including depreciation and interest on capital, taking one year with another. Power to borrow"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may, with the approval of the Minister and the Minister of Finance, borrow, at such rate of interest and for such period and upon such terms as to the time and method of repayment and otherwise as the Minister and the Minister of Finance may approve, any sums required by the Board for meeting any of its obligations or discharging any of its duties under this Act. Deposit and investment of the Fund"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_26__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_26__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may, with the prior written approval of the Minister and the Minister of Finance—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_26__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "deposit, either in fixed deposit or in current account, any moneys for the time being uninvested with any bank in Malaysia holding a valid licence under the provisions of the Banking and Financial Institutions Act 1989 [Act 372] or the Islamic Banking Act 1983 [Act 276]; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_26__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "invest in securities of the Government or such other securities, such moneys of the Fund as may not be immediately required to be expended under this Act. Accounts and reports"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_27__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_27__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_27__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_27__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_27__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall cause to be kept proper accounts of the Fund and reports of its activities and shall, as soon as practicable after the end of each financial year, cause to be prepared for that financial year—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_27__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a statement of accounts of the Board which shall include a balance sheet and an account of its income and expenditure; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_27__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a statement of its activities."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall as soon as possible send a copy of the statement of accounts and the statement of its activities mentioned in subsection (1) certified by auditors and a copy of the auditor’s report to the Minister who shall cause them to be laid before both Houses of Parliament."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_27__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Statutory Bodies (Accounts and Annual Reports) Act 1980 [Act 240] shall apply to the Board. Expenditure and preparation of estimates"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_28__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_28__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_28__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_28__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_28__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The expenditure of the Board up to such amount as may be authorized by the Minister for any one year shall be defrayed out of the Fund."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_28__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Before the beginning of September of each year, the Board shall submit to the Minister an estimate of the expenditure including the expenditure for development projects, for the following year in such form and containing such particulars as the Minister may direct."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_28__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall, before the beginning of the following year, notify the Board of the amount authorized for expenditure generally or of the amounts authorized for each description of expenditure."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_28__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may, at any time, submit to the Minister a supplementary estimate for any one year and the Minister may allow the whole or any part of the additional expenditure included in the supplementary estimate. Financial year"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The financial year of the Board shall begin on 1 January and end on 31 December of each year."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the National Visual Arts Development Board Act 2010."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette, and the Minister may appoint different dates for the coming into operation of different provisions of this Act. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "“Gallery” includes a branch of the National Visual Arts Gallery established under section 30; “national visual arts collection” and “national collection” means all works of visual arts acquired by the Board; “Fund” means the National Visual Arts Fund established under section 22; “Board” means the National Visual Arts Development Board established under section 3; “acquire” means acquire by way of purchase, transfer, grant, exchange, gift, settlement or otherwise; “officer of the Board” includes the Director General; “visual arts operator” means any person who carries on any visual arts business or operation; “visual art” means art created from a suitable medium, technique, process or technology, appeals to the visual sense and exists in tangible form; “appointed date” means the date on which this Act comes into operation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_33"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "NATIONAL VISUAL ARTS GALLERY Establishment of the National Visual Arts Gallery"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_38"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "GENERAL Power to make regulations"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_45"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "REPEAL, SAVINGS AND TRANSITIONAL PROVISIONS Repeal and dissolution"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_39__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_39__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_39__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The National Art Gallery Act 1959 [Act 516] is repealed and the Board of Trustees of the National Art Gallery (the “dissolved Board”) is dissolved."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_39__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All appointments, regulations, rules, orders and directions made or having effect under the law repealed by this section and in force or having effect at the commencement of this Act shall, without prejudice to the power of the Minister to amend the regulations, rules or orders or to amend, revoke or withdraw the directions and subject to such modifications as may be necessary to bring the regulations, rules, orders or directions in conformity with this Act, continue to be in force and have effect as if they had been made, kept or granted under this Act, until otherwise provided for under this Act. Transfer of powers, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to the provisions of this Act, all powers, rights, privileges, duties, liabilities or obligations which immediately before the appointed date were those of the dissolved Board shall, as from that date, devolve on the Board established by this Act. Transfer of property"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_41__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_41__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_41__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_41__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to the provisions of this Act, any land which immediately before the appointed date was vested in the Government of Malaysia in respect of the dissolved Board shall, on that date, by virtue of this Act be vested in the Government of Malaysia in respect of the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_41__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to the provisions of this Act, and to any direction of the Minister, all property and assets, other than land, which immediately before the appointed date were vested in the dissolved Board shall, on that date, vest in the Board established by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_41__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "It is hereby declared that any property, whether movable or immovable, which, immediately before the appointed date, was used for the purposes which after that date become the purposes of the Board established by this Act shall, on that date, be vested in the Board. Existing contracts"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to the provisions of this Act, and to any direction of the Minister, all deeds, bonds, agreements, instruments and working arrangements subsisting immediately before the appointed date and affecting any of the property transferred under section 41 shall, on or after the appointed date, have full force and effect against or in favour of the Board established by this Act and shall be enforceable as fully and effectually as if, instead of the dissolved Board, the Board established by this Act had been named therein or had been a party thereto. Continuance of civil and criminal proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_43__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_43__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_43__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to the provisions of this Act, any proceedings, whether civil or criminal, or any cause of action pending or existing immediately before the appointed date by or against the dissolved Board, may, on or after the appointed date, be continued or instituted by or against the Board as it might have been by or against the same respectively as if this Act had not been enacted."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_43__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any appeal brought or any leave to appeal applied for on or after the appointed date against a decision given in any legal proceedings before that date may be brought by or against the Board established by this Act. Transfer of Fund"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All moneys standing in, belonging or due to be paid to the National Art Gallery Fund shall, on the appointed date, be vested in the Board established by this Act, be transferred to and be deemed to be part of the Fund established under section 22. Continuance of officers and servants"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_45__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_45__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_45__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_45__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_45",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every person who immediately before the appointed date was employed as an officer or servant of the dissolved Board shall, on the appointed date, be deemed to have been employed by the Board established by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_45__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_45",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every person who immediately before the appointed date was employed as an officer or servant of the dissolved Board shall, on the appointed date, be employed as an officer or servant, of the Board established by this Act upon terms and conditions of service not less favourable than the terms and conditions of service to which he was entitled immediately before the appointed date."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_45__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VII__cl_45",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If changes are made on and after the appointed date with respect to the terms and conditions of service of the officers and servants of the dissolved Board who are deemed under subsection (1) to have been employed by the Board established by this Act, they shall be given an option whether to continue to be subject to the existing terms and conditions of service or to be subject to the new terms and conditions of service."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_34__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_34__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_34__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may make such regulations as may be expedient or necessary for carrying into effect the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_34__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_34__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_34__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_34__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_34__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_34__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_34__subsec_2__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1), regulations may be made for all or any of the following purposes:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_34__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_34__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prescribing any matter which is required under this Act to be prescribed;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_34__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_34__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prescribing the conditions and restrictions on the use of the Gallery including the imposition and collection of fees and charges;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_34__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_34__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prescribing the manner in which documents, cheques and instruments of any description shall be signed or executed on behalf of the Board;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_34__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_34__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prescribing the responsibilities and control of officers and servants of the Board;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_34__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_34__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "providing generally for the performance of the functions, the exercise of the powers and the discharge of the duties of the Board under the provisions of this Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_34__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_34__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "providing for any other matter as are contemplated by, or necessary for giving full effect to, the provisions of this Act. Protection from personal liability"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No member of the Board or of any committee, and no officer, servant or agent of the Board, shall incur personal liability for any loss or damage caused by any act or omission in carrying out his powers or duties under this Act, unless such loss or damage is occasioned by an intentionally wrongful act or omission on his part. Public Authorities Protection Act 1948"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Public Authorities Protection Act 1948 [Act 198] shall apply to any action, suit, prosecution or proceedings against the Board or against any member of the Board, any member of a committee, any officer, servant or agent of the Board in respect of any act, neglect or default done or omitted by it or him in such capacity. Public servants"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Board or any committee and any officer, servant or agent of the Board while discharging his duty under this Act as such member, officer, servant or agent, shall be deemed to be a public servant within the meaning of the Penal Code [Act 574]. Amendment of Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, from time to time, amend the Schedule by order published in the Gazette."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "There is hereby established a National Visual Arts Gallery to be managed by the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may establish and maintain such branch or branches of the National Visual Arts Gallery at such place or places in Malaysia as the Board may consider desirable for the purpose of carrying out the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All national visual arts collection shall be kept in the Gallery."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30__subsec_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30__subsec_4__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30__subsec_4__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30__subsec_4__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30__subsec_4__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Gallery may, on behalf of the Board—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "exhibit, promote or make available for exhibition, works of visual arts from the national visual arts collection or by others;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "provide information on visual arts;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "develop and maintain a national collection of works of visual arts;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30__subsec_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "provide advice on preservation of visual arts;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30__subsec_4__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "arrange for or assist in research into matters pertaining to visual arts;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30__subsec_4__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "sell or exchange any such work of visual arts, or exhibit personal visual arts collection under the care or control of the Board;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30__subsec_4__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_30__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "establish and maintain facilities for the purchase by the public of books, papers, prints, postcards, reproductions, replicas, promotional materials and other articles in connection with works of visual arts at the Gallery. Disposal of works of visual arts from the Gallery"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_31__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_31__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_31__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_31__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_31__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_31__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsection (2), where the Board is satisfied that a work of visual arts in the national collection—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_31__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_31__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "is unfit for the national collection; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_31__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_31__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "is not required as part of the national collection, the Board may, with the approval of the Minister, dispose of such work by sale, gift or destruction."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_31__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A work of visual arts shall not be dispose of by way of destruction unless the Board is satisfied that the work has no saleable value."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_31__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The disposal of any work of visual arts under this section shall be carried out by the Gallery. Exchange of works of visual arts"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_32__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_32__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_32__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Board is satisfied that an exchange of a work of visual arts in the national collection for another work of visual arts would be advantageous to the collection, the Gallery may make that exchange by way of an agreement."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_32__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An agreement referred to in subsection (1) may include an undertaking by one party to pay an amount to the other party in recognition of the difference in value between the works of visual arts to be exchanged. Disposal of works of visual arts left with the Gallery"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_33__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_33__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_33__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_33__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_33__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_33__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_33__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_33__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_33__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a work of visual arts not acquired by the Gallery is left with the Gallery, and the Gallery has informed the Board that such work has not been collected by the owner for not less than one month without any reason, the Board shall give a written notice containing particulars of the work to the owner of the work to collect such work within the period specified in the notice which shall not be less than one month from the date of the notice—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_33__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_33__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by delivering the notice to the owner at his last-known place of residence;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_33__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_33__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by leaving the notice at the usual or last-known place of residence or business of the owner in an envelope addressed to such person; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_33__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_33__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by sending the notice by registered letter addressed to such person at his usual or last-known place of residence or business."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_33__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the owner of the work cannot be ascertained, a notice containing particulars of the work shall be affixed on two conspicuous part of the Gallery for the owner to collect his work within the period specified in the notice which shall not be less than one month from the date of the notice."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_33__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the owner fails to collect such work after the expiry of the period specified in the notice, the owner shall be deemed to have abandoned his work and the Board shall have the power to approve for such work to be acquired for the national collection or be disposed of by way of sale, gift or destruction."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_33__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall, in any proceedings before any court in respect of any work acquired for the national collection or disposed of by way of sale, gift or destruction under subsection (3), be entitled to the costs of such proceedings or to any damages or other relief unless such acquisition, disposal or destruction was made in bad faith."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_33__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~part_V__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All proceeds from the sale of any works of visual arts under this section shall devolve to the Fund."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Subsection 6(4)] Board may invite others to meetings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may invite any person to attend a meeting or deliberation of the Board for the purpose of advising it on any matter under discussion but that person shall not be entitled to vote at the meeting or deliberation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person invited under subparagraph (1) may be paid such fee as the Board may determine. Disclosure of interest"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Board having, directly or indirectly, by himself or his partner, any interest in any company or undertaking with which the Board proposes to make any contract or having any interest in any such contract or in any matter under discussion by the Board shall disclose to the Board the fact of his interest and the nature thereof, and such disclosure shall be recorded in the minutes of the Board and, unless specifically authorized thereto by the Chairman, such member shall take no part in any deliberation or decision of the Board relating to the contract or matter. Minutes"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_3__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall cause minutes of all its meetings to be maintained and kept in a proper form."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any minutes made of meetings of the Board shall, if duly signed, be admissible in evidence in all legal proceedings without further proof."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every meeting of the Board in respect of the proceedings of which minutes have been made in accordance with subparagraphs(1) and (2) shall be deemed to have been duly convened and held and all members thereat to have been duly qualified to act. Validity of acts and proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No act done or proceeding taken under this Act shall be questioned on the ground of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a vacancy in the membership of, or a defect in the constitution of, the Board;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the contravention by any member of the Board of the provisions of paragraph 2; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an omission, a defect or an irregularity not affecting the merits of the case. Member of Board to devote time to business of Board"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/33/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every member of the Board shall devote such time to the business of the Board as may be necessary to discharge his duties effectively."
+      }
+    }
+  ]
+}

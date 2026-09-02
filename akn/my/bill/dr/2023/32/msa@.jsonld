@@ -91,7 +91,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/32/msa@/~cl_2",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (1)— “(da) seseorang yang mewakili Negeri Sabah yang hendaklah dilantik oleh Menteri selepas berunding dengan Ketua Menteri Sabah; (db) seseorang yang mewakili Negeri Sarawak yang hendaklah dilantik oleh Menteri selepas berunding dengan Premier Sarawak; dan”; dan"
+        "@value": "dalam subseksyen (1)—"
       }
     },
     {
@@ -111,7 +111,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/32/msa@/~cl_2__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perenggan (d) perenggan yang berikut:"
+        "@value": "dengan memasukkan selepas perenggan (d) perenggan yang berikut: “(da) seseorang yang mewakili Negeri Sabah yang hendaklah dilantik oleh Menteri selepas berunding dengan Ketua Menteri Sabah; (db) seseorang yang mewakili Negeri Sarawak yang hendaklah dilantik oleh Menteri selepas berunding dengan Premier Sarawak; dan”; dan"
       }
     },
     {
@@ -125,7 +125,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/32/msa@/~cl_2",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (2)— Pindaan seksyen 7"
+        "@value": "dalam subseksyen (2)—"
       }
     },
     {
@@ -145,7 +145,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/32/msa@/~cl_2__para_b",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam teks bahasa kebangsaan, dengan menggantikan perkataan “berkedudukan atau berpengalaman” dengan perkataan “berkedudukan dan berpengalaman”."
+        "@value": "dalam teks bahasa kebangsaan, dengan menggantikan perkataan “berkedudukan atau berpengalaman” dengan perkataan “berkedudukan dan berpengalaman”. Pindaan seksyen 7"
       }
     },
     {

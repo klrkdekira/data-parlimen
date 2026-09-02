@@ -40,7 +40,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 4. Akta ibu dipinda dengan memasukkan selepas Bahagian V Bahagian yang berikut:
 
-“Bahagian Va
+## “BAHAGIAN VA
 
 ## PEREDARAN ANTARABANGSA PENGANGKUTAN AWAM DARAT
 

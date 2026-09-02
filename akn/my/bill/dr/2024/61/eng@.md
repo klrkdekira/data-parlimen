@@ -22,6 +22,10 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (b) by substituting for the words “domestic servant” wherever appearing the words “domestic employee”; and
 
+<!-- marginal: WJW24/1123 BI.indd 1 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 2 -->
 
 (c) by substituting for the words “domestic servants” wherever appearing the words “domestic employees”.
@@ -45,6 +49,10 @@ ENACTED by the Parliament of Malaysia as follows:
 ‘ “constructional contractor” means any person, firm, corporation or company who or which is established for the purpose of undertaking, either exclusively or in addition to or in conjunction with any other business, any type of constructional work, and who or which is carrying out such constructional work for or on behalf of some other person under a contract entered into by him or them with such other person, and includes his or their heirs, executors, administrators, assignees and successors;’;
 
 (v) in the definition of “contract of service”, by substituting for the word “other” the word “employee”;
+
+<!-- marginal: WJW24/1123 BI.indd 2 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 3 -->
 
@@ -72,6 +80,10 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (a) the number of hours of work carried out in excess of the normal hours of work per day; or
 
+<!-- marginal: WJW24/1123 BI.indd 3 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 4 -->
 
 (b) if any work is carried out after the spread over period of ten hours, the whole period beginning from the time that such spread over period ends up to the time that the employee ceases work for the day;’;
@@ -95,6 +107,10 @@ ENACTED by the Parliament of Malaysia as follows:
 (xv) by inserting after the definition of “repatriation” the following definition:
 
 ‘ “sexual harassment” means any unwanted conduct of a sexual nature, whether verbal, non-verbal, visual, gestural or physical,
+
+<!-- marginal: WJW24/1123 BI.indd 4 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 5 -->
 
@@ -121,6 +137,8 @@ directed at a person which is offensive or humiliating or is a threat to his wel
 (d) in subsection (6)—
 
 (i) by inserting after the word “order” the words “published in the Gazette”; and
+
+<!-- marginal: WJW24/1123 BI.indd 5 -->
 
 <!-- page 6 -->
 
@@ -149,6 +167,8 @@ directed at a person which is offensive or humiliating or is a threat to his wel
 ### Amendment of section 7
 
 6. The Ordinance is amended by deleting subsection 7(2).
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 7 -->
 
@@ -182,6 +202,10 @@ directed at a person which is offensive or humiliating or is a threat to his wel
 
 (b) by substituting for the words “subcontractor for labour” wherever appearing the words “contractor for labour”.
 
+<!-- marginal: WJW24/1123 BI.indd 7 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 8 -->
 
 ### Amendment of section 8m
@@ -208,6 +232,8 @@ Inquiry into 9b. (1) Upon receipt of a complaint of complaints sexual harassment
 
 (2) Subject to subsection (3), where an employer refuses to inquire into the complaint of sexual harassment as required under subsection (1), he shall, as soon as practicable but in any case not later than thirty days after the date of the receipt of the complaint, inform the complainant of the refusal and the reasons for the refusal in writing.
 
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 9 -->
 
 (3) Notwithstanding subsection (2), an employer may refuse to inquire into any complaint of sexual harassment as required under subsection (1) if—
@@ -224,9 +250,21 @@ Inquiry into 9b. (1) Upon receipt of a complaint of complaints sexual harassment
 
 (b) if he agrees with the decision of the employer not to conduct the inquiry, inform the person who referred the matter to him that no further action will be taken.
 
-Findings of 9c. (1) Where the employer conducts an inquiry by inquiry into a complaint of sexual harassment employer. received under subsection (1) of section 9b, and the employer is satisfied that sexual harassment is proven, the employer shall—
+<!-- marginal: Findings of -->
+
+9c. (1) Where the employer conducts an
+
+<!-- marginal: inquiry by -->
+
+inquiry into a complaint of sexual harassment
+
+<!-- marginal: employer. -->
+
+received under subsection (1) of section 9b, and the employer is satisfied that sexual harassment is proven, the employer shall—
 
 (a) in the case where the person against whom the complaint of sexual harassment is made is an employee,
+
+<!-- marginal: WJW24/1123 BI.indd 9 -->
 
 <!-- page 10 -->
 
@@ -240,11 +278,31 @@ take disciplinary action which may include the following:
 
 (b) in the case where the person against whom the complaint of sexual harassment is made is a person other than an employee, recommend that the person be brought before an appropriate disciplinary authority to which the person is subject to.
 
-Complaints 9d. (1) If a complaint of sexual harassment of sexual is made to the Director, the Director harassment shall assess the complaint and may direct made to the an employer to inquire into such complaint. Director.
+<!-- marginal: Complaints -->
+
+9d. (1) If a complaint of sexual harassment
+
+<!-- marginal: of sexual -->
+
+is made to the Director, the Director
+
+<!-- marginal: harassment -->
+
+shall assess the complaint and may direct
+
+<!-- marginal: made to the -->
+
+an employer to inquire into such complaint.
+
+<!-- marginal: Director. -->
 
 (2) The employer shall inquire into the complaint of sexual harassment when directed to do so under subsection (1) and submit a report of the inquiry to the Director within thirty days from the date of such direction.
 
 (3) If a complaint of sexual harassment received by the Director is made against an employer who is a sole proprietor, the Director shall inquire into such complaint himself in a manner prescribed by the Minister.
+
+<!-- marginal: WJW24/1123 BI.indd 10 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 11 -->
 
@@ -258,11 +316,23 @@ Complaints 9d. (1) If a complaint of sexual harassment of sexual is made to the 
 
 (6) Where the Director refuses to inquire into the complaint of sexual harassment received under subsection (3), he shall, as soon as practicable but in any case not later than thirty days after the date of the receipt of the complaint, inform the complainant of the refusal and the reasons for the refusal in writing.
 
-Effect of 9e. (1) Where the Director decides under decisions of the subsection (4) of section 9d that sexual Director. harassment is proven, the complainant may terminate his contract of service without notice.
+<!-- marginal: Effect of -->
+
+9e. (1) Where the Director decides under
+
+<!-- marginal: decisions of the -->
+
+subsection (4) of section 9d that sexual
+
+<!-- marginal: Director. -->
+
+harassment is proven, the complainant may terminate his contract of service without notice.
 
 (2) If the complainant terminates the contract of service under subsection (1), the complainant is entitled to—
 
 (a) wages as if the complainant has given the notice of the termination of contract of service; and
+
+<!-- marginal: WJW24/1123 BI.indd 11 -->
 
 <!-- page 12 -->
 
@@ -270,7 +340,9 @@ Effect of 9e. (1) Where the Director decides under decisions of the subsection (
 
 as provided for under the Ordinance or the contract of service, as the case may be.
 
-Offence. 9f. Any employer who fails—
+<!-- marginal: Offence. -->
+
+9f. Any employer who fails—
 
 (a) to inquire into complaints of sexual harassment under subsection (1) of section 9b;
 
@@ -282,19 +354,65 @@ Offence. 9f. Any employer who fails—
 
 commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit.
 
-Right of 9g. (1) No person shall prevent or attempt employee to to prevent any employee from appearing or appear or attend attending an inquiry in pursuance of this inquiry under Chapter. this Chapter.
+<!-- marginal: Right of -->
+
+9g. (1) No person shall prevent or attempt
+
+<!-- marginal: employee to -->
+
+to prevent any employee from appearing or
+
+<!-- marginal: appear or attend -->
+
+attending an inquiry in pursuance of this
+
+<!-- marginal: inquiry under -->
+
+Chapter.
+
+<!-- marginal: this Chapter. -->
 
 (2) Any person who contravenes or fails to comply with subsection (1) commits an offence and shall on conviction be liable to a fine not exceeding fifty thousand ringgit and in the case of a continuing offence, be liable to a fine not exceeding one thousand ringgit for each day during which such offence is continued after conviction.
 
+<!-- marginal: WJW24/1123 BI.indd 12 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 13 -->
 
-Notice 9h. An employer shall, at all times, exhibit on sexual conspicuously at the place of employment, harassment. a notice to raise awareness on sexual harassment.”.
+<!-- marginal: Notice -->
 
-### New section 10d
+9h. An employer shall, at all times, exhibit
 
-14. The Ordinance is amended by inserting after section 10c the following section:
+<!-- marginal: on sexual -->
 
-“Presumption 10 d. (1) In any proceeding under this as to who is Ordinance or any other written law, in employee and the absence of a written contract of service employer. relating to any category of employee under the First Schedule, it shall be presumed until the contrary is proved that a person is an employee—
+conspicuously at the place of employment,
+
+<!-- marginal: harassment. -->
+
+a notice to raise awareness on sexual harassment.”.
+
+<!-- marginal: New section 10d -->
+
+14. The Ordinance is amended by inserting after section 10c the
+
+<!-- marginal: following section: -->
+
+<!-- marginal: “Presumption -->
+
+10 d. (1) In any proceeding under this
+
+<!-- marginal: as to who is -->
+
+Ordinance or any other written law, in
+
+<!-- marginal: employee and -->
+
+the absence of a written contract of service
+
+<!-- marginal: employer. -->
+
+relating to any category of employee under the First Schedule, it shall be presumed until the contrary is proved that a person is an employee—
 
 (a) where his manner of work is subject to the control or direction of another person;
 
@@ -307,6 +425,8 @@ Notice 9h. An employer shall, at all times, exhibit on sexual conspicuously at t
 (e) where his work is performed solely for the benefit of another person; or
 
 (f) where payment is made to him in return for work done by him at regular intervals and such payment constitutes the majority of his income.
+
+<!-- marginal: WJW24/1123 BI.indd 13 -->
 
 <!-- page 14 -->
 
@@ -330,9 +450,19 @@ Notice 9h. An employer shall, at all times, exhibit on sexual conspicuously at t
 
 15. The Ordinance is amended by inserting after section 19 the following sections:
 
-“Discrimination 19a. (1) The Director may inquire into and in employment. decide any matter relating to discrimination in employment, and the Director may, pursuant to such inquiry, issue a directive or make an order to the employer as may be necessary or expedient to resolve the matter in respect of—
+<!-- marginal: “Discrimination -->
+
+19a. (1) The Director may inquire into and
+
+<!-- marginal: in employment. -->
+
+decide any matter relating to discrimination in employment, and the Director may, pursuant to such inquiry, issue a directive or make an order to the employer as may be necessary or expedient to resolve the matter in respect of—
 
 (a) any complaint by an employee; or
+
+<!-- marginal: WJW24/1123 BI.indd 14 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 15 -->
 
@@ -354,13 +484,19 @@ Prohibition of 19b. Any employer who threatens, deceives forced labour. or force
 
 17. The Ordinance is amended by deleting subsection 60(2).
 
+<!-- marginal: WJW24/1123 BI.indd 15 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 16 -->
 
-### New section 71a
+<!-- marginal: New section 71a -->
 
 18. The Ordinance is amended by inserting after section 71 the following section:
 
-“Interpretation. 71a. (1) In this Chapter, unless the context otherwise requires—
+<!-- marginal: “Interpretation. -->
+
+71a. (1) In this Chapter, unless the context otherwise requires—
 
 “employment” means employment in any labour for the purposes of gain, whether the gain be to a child, young person or to any other person;
 
@@ -373,6 +509,10 @@ Prohibition of 19b. Any employer who threatens, deceives forced labour. or force
 (b) to prejudice his attendance at school that includes any place which teaches any religion, his participation in vocational orientation or training programmes approved by the competent authority or his ca pa city to be ne f it f r om the instruction received;
 
 “public entertainment” means entertainment to which the public or any section of the public is admitted or in connection with which any charge, whether for admission or not, is made or at which any collection or subscription is received and includes performances for the making of films for public exhibition other than news films but does not include any entertainment given by the pupils of any school registered under the Education Act 1996 [Act 550] at or under the auspices
+
+<!-- marginal: WJW24/1123 BI.indd 16 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 17 -->
 
@@ -408,6 +548,10 @@ of such school, or any entertainment promoted by a voluntary, social or welfare 
 
 (iii) in paragraph (e), by substituting for the colon at the end of the paragraph a full stop; and
 
+<!-- marginal: WJW24/1123 BI.indd 17 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 18 -->
 
 (iv) by deleting the provisos;
@@ -438,6 +582,8 @@ of such school, or any entertainment promoted by a voluntary, social or welfare 
 
 22. The Ordinance is amended by deleting Chapter XIa.
 
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 19 -->
 
 ### Amendment of Chapter XIb
@@ -463,6 +609,10 @@ of such school, or any entertainment promoted by a voluntary, social or welfare 
 (c) in subsection (7)—
 
 (i) by substituting for the words “this section” the words “subsection (1)”; and
+
+<!-- marginal: WJW24/1123 BI.indd 19 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 20 -->
 
@@ -491,6 +641,8 @@ of such school, or any entertainment promoted by a voluntary, social or welfare 
 “Restriction on 92b. (1) Where a female employee is pregnant termination of or is suffering from an illness arising out of pregnant female her pregnancy, it shall be an offence for her employee. employer to terminate her service or give her notice of termination of service, except on the grounds of—
 
 (a) wilful breach of a condition of the contract of service under subsection (2) of section 13;
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 21 -->
 
@@ -524,6 +676,10 @@ of such school, or any entertainment promoted by a voluntary, social or welfare 
 
 ## “DOMESTIC EMPLOYEES.”.
 
+<!-- marginal: WJW24/1123 BI.indd 21 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 22 -->
 
 ### Amendment of section 101
@@ -547,6 +703,8 @@ Provided that any such contract may be terminated by either party without notice
 “(ea) to enable him to purchase a computer;
 
 (eb) to enable him to pay for medical expenses for himself or his immediate family members;
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 23 -->
 
@@ -580,6 +738,10 @@ Provided that any such contract may be terminated by either party without notice
 
 (vi) the Sarawak Independence Day:”; and
 
+<!-- marginal: WJW24/1123 BI.indd 23 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 24 -->
 
 (b) in paragraph (b), by substituting for the proviso the following proviso:
@@ -610,6 +772,8 @@ the working day following immediately the rest day or the other public holiday s
 
 36. Subsection 105c(3) of the Ordinance is amended by inserting after the the word “monthly” the words “or weekly”.
 
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 25 -->
 
 ### Amendment of section 105e
@@ -634,15 +798,33 @@ the working day following immediately the rest day or the other public holiday s
 
 (b) he has notified his employer of the pregnancy of his spouse at least thirty days from the expected confinement or as early as possible after the birth.
 
+<!-- marginal: WJW24/1123 BI.indd 25 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 26 -->
 
 (4) A married male employee referred to under subsection (1) employed on a monthly rate of pay shall be deemed to have received his paternity leave pay if he continues to receive his monthly wages during his abstention from work during the paternity leave period without abatement in respect of the abstention for the month in which he takes such paternity leave.”.
 
-### New section 108c
+<!-- marginal: New section 108c -->
 
 39. The Ordinance is amended by inserting after section 108b the following section:
 
-“Calculation 108c. (1) Notwithstanding subsection (3) of wages for of section 2 and section 108, an employee incomplete who is employed on a monthly rate of pay month of work. and has not completed a whole month of service—
+<!-- marginal: “Calculation -->
+
+108c. (1) Notwithstanding subsection (3)
+
+<!-- marginal: of wages for -->
+
+of section 2 and section 108, an employee
+
+<!-- marginal: incomplete -->
+
+who is employed on a monthly rate of pay
+
+<!-- marginal: month of work. -->
+
+and has not completed a whole month of service—
 
 (a) where he commenced employment after the first day of the month;
 
@@ -651,6 +833,10 @@ the working day following immediately the rest day or the other public holiday s
 (c) where he took leave of absence without pay for one or more days of the month; or
 
 (d) where he took leave of absence by reason of having been called up for national service under the National Service Act 1952 [Act 425], to present himself for national service training as required under
+
+<!-- marginal: WJW24/1123 BI.indd 26 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 27 -->
 
@@ -664,13 +850,25 @@ Monthly wages Number of X days eligible in the wage Number of days of the period
 
 40. The Ordinance is amended by substituting for section 109 the following section:
 
-“Time of
+<!-- marginal: “Time of -->
 
-109. (1) Subject to subsection (2), every payment of employer shall pay to each of his employees wages. not later than the seventh day after the last day of any wage period the wages, less lawful deductions earned by such employee during such wage period.
+109. (1) Subject to subsection (2), every
+
+<!-- marginal: payment of -->
+
+employer shall pay to each of his employees
+
+<!-- marginal: wages. -->
+
+not later than the seventh day after the last day of any wage period the wages, less lawful deductions earned by such employee during such wage period.
 
 (2) Wages for work done on a rest day, gazetted public holiday referred to in paragraphs (a) and (b) of subsection (1) of section 104 and overtime shall be paid not later than the last day of the next wage period.
 
 (3) Notwithstanding subsections (1) and (2), if the Director is satisfied that payment within such time is not reasonably practicable, he may, on the application of the employer, extend the time of payment by such number of days as he thinks fit.”.
+
+<!-- marginal: WJW24/1123 BI.indd 27 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 28 -->
 
@@ -678,7 +876,21 @@ Monthly wages Number of X days eligible in the wage Number of days of the period
 
 41. The Ordinance is amended by inserting after section 109 the following sections:
 
-“Payment 109a. (1) The wages, less lawful deductions, on normal earned by but not yet paid to an employee termination of shall be paid to such employee on the day on contract. which such contract of service is terminated in accordance with—
+<!-- marginal: “Payment -->
+
+109a. (1) The wages, less lawful deductions,
+
+<!-- marginal: on normal -->
+
+earned by but not yet paid to an employee
+
+<!-- marginal: termination of -->
+
+shall be paid to such employee on the day on
+
+<!-- marginal: contract. -->
+
+which such contract of service is terminated in accordance with—
 
 (a) subsection (1) of section 11a; or
 
@@ -686,11 +898,37 @@ Monthly wages Number of X days eligible in the wage Number of days of the period
 
 (2) The wages earned by but not yet paid to an employee whose contract of service is terminated by his employer in accordance with section 12, such wages shall be paid to the employee on the day on which such contract of service is terminated or, if this is not possible, on the first day, not being a rest day or gazetted holiday, after the day on which such contract of service is terminated.
 
-Payment on 109b. (1) Where an employer terminates termination the contract of service of an employee without of contract notice in accordance with subsection (1) or (2) in special of section 13 or paragraph (a) of subsection (1) circumstances of section 14— and on breach of contract.
+<!-- marginal: Payment on -->
+
+109b. (1) Where an employer terminates
+
+<!-- marginal: termination -->
+
+the contract of service of an employee without
+
+<!-- marginal: of contract -->
+
+notice in accordance with subsection (1) or (2)
+
+<!-- marginal: in special -->
+
+of section 13 or paragraph (a) of subsection (1)
+
+<!-- marginal: circumstances -->
+
+of section 14—
+
+<!-- marginal: and on breach -->
+
+<!-- marginal: of contract. -->
 
 (a) the wages, less any deductions which the employer is entitled to make under section 114, earned by such employee up to and including the day immediately preceding the day on which the termination of the contract of service takes effect; and
 
 (b) in addition, where the employer terminates the contract of service under subsection (1) of section 13, the indemnity payable to the employee under that subsection,
+
+<!-- marginal: WJW24/1123 BI.indd 28 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 29 -->
 
@@ -704,9 +942,25 @@ Provided that the employer may, subject to any order made by a court or the Dire
 
 42. The Ordinance is amended by substituting for section 111 the following section:
 
-“Wages to be
+<!-- marginal: “Wages to be -->
 
-111. (1) The entire amount of the wages paid through earned by, or payable to, any employee in financial respect of any work done by him less any institution. lawful deductions, shall be actually paid to him through payment into an account opened by a financial institution, being an account in the name of the employee or an account in the name of the employee jointly with one or more other persons as stipulated by the employee.
+111. (1) The entire amount of the wages
+
+<!-- marginal: paid through -->
+
+earned by, or payable to, any employee in
+
+<!-- marginal: financial -->
+
+respect of any work done by him less any
+
+<!-- marginal: institution. -->
+
+lawful deductions, shall be actually paid to him through payment into an account opened by a financial institution, being an account in the name of the employee or an account in the name of the employee jointly with one or more other persons as stipulated by the employee.
+
+<!-- marginal: WJW24/1123 BI.indd 29 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 30 -->
 
@@ -721,6 +975,10 @@ Provided that the employer may, subject to any order made by a court or the Dire
 (c) a prescribed institution under the Development Financial Institutions Act 2002 [Act 618].
 
 (4) The Minister may, by order published in the Gazette, specify any approved issuer of a designated payment instrument or any approved issuer of a designated Islamic payment instrument under paragraphs (a) and (b) of subsection (3) to be a recognized approved issuer of a designated payment instrument or approved issuer of a designated Islamic payment instrument for the purpose of payment of wages under this Chapter.”.
+
+<!-- marginal: WJW24/1123 BI.indd 30 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 31 -->
 
@@ -748,6 +1006,10 @@ Provided that the employer may, subject to any order made by a court or the Dire
 
 (a) in subsection (1), by inserting after the words “approved service” the words “or any approved incentive payment scheme”; and
 
+<!-- marginal: WJW24/1123 BI.indd 31 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 32 -->
 
 (b) in subsection (2)—
@@ -772,6 +1034,8 @@ Provided that the employer may, subject to any order made by a court or the Dire
 
 (2) A contractor for labour referred to in subsection (1) who supplies any employee to a principal, contractor or subcontractor shall enter into a contract in writing and shall make such contract or any other document relating to such contract available for inspection.
 
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 33 -->
 
 (3) If a contractor for labour referred to in subsection (1) supplies any employee, he shall keep or maintain one or more registers as may be determined by the Director containing information regarding each employee supplied by him and shall make such registers available for inspection.
@@ -790,13 +1054,17 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding f
 
 48. Section 119a of the Ordinance is amended by inserting after subsection (2) the following subsections:
 
-“(3) If the service of a non-resident employee is terminated—
+“(3) If the service of a non-resident employee is
+
+<!-- marginal: terminated— -->
 
 (a) by his employer;
 
 (b) by reason of the expiry of any pass relating to employment issued by the Immigration Department of Malaysia to the non-resident employee; or
 
 (c) by reason of the repatriation or deportation of the non-resident employee,
+
+<!-- marginal: WJW24/1123 BI.indd 33 -->
 
 <!-- page 34 -->
 
@@ -822,6 +1090,8 @@ the employer shall, within thirty days of the termination of service, inform the
 
 (d) has ceased operating his business;
 
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 35 -->
 
 (e) has terminated all the non-resident employees referred to in the Licence To Employ Non-Resident Employee;
@@ -844,6 +1114,8 @@ the employer shall, within thirty days of the termination of service, inform the
 
 (2) The Director shall not revoke a Licence To Employ Non-Resident Employee unless, after giving the employer a written notice specifying an opportunity to make any representation, reason or explanation in writing as to why the Licence To Employ Non-Resident Employee should not be revoked within the period specified in such written notice, he is satisfied with the representation, reason or explanation given in writing by the employer.
 
+<!-- marginal: WJW24/1123 BI.indd 35 -->
+
 <!-- page 36 -->
 
 (3) After the expiry of the period specified in the written notice under subsection (2) or after considering the representation, reason or explanation made under subsection (2), the Director shall decide whether or not to revoke the Licence To Employ Non-Resident Employee.
@@ -862,21 +1134,47 @@ the employer shall, within thirty days of the termination of service, inform the
 
 ## FLEXIBLE WORKING ARRANGEMENT.
 
-Flexible 121 a. (1) Subject to Chapter XIV or working anything contained in the contract of service, arrangment. an employee may apply to an employer for a flexible working arrangement to vary the hours of work, days of work or place of work in relation to his employment.
+<!-- marginal: Flexible -->
+
+121 a. (1) Subject to Chapter XIV or
+
+<!-- marginal: working -->
+
+anything contained in the contract of service,
+
+<!-- marginal: arrangment. -->
+
+an employee may apply to an employer for a flexible working arrangement to vary the hours of work, days of work or place of work in relation to his employment.
+
+<!-- marginal: WJW24/1123 BI.indd 36 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 37 -->
 
 (2) Where there is a collective agreement, any application made by the employee under subsection (1) shall be consistent with the terms and conditions in the collective agreement.
 
-Application for 121b. (1) The employee shall make an flexible working application for flexible working arrangement arrangement. under section 121 a in writing and in the form and manner as may be determined by the Director.
+<!-- marginal: Application for -->
+
+121b. (1) The employee shall make an
+
+<!-- marginal: flexible working -->
+
+application for flexible working arrangement
+
+<!-- marginal: arrangement. -->
+
+under section 121 a in writing and in the form and manner as may be determined by the Director.
 
 (2) Upon the application made under subsection (1), an employer shall, within sixty days from the date such application is received, approve or refuse the application.
 
 (3) The employer shall inform the employee in writing of the employer’s approval or refusal of the application under subsection (1) and in the case of a refusal, the employer shall state the ground of such refusal.”.
 
-### New Part IVa
+<!-- marginal: New Part IVa -->
 
-52. The Ordinance is amended by inserting after section 122 the following part:
+52. The Ordinance is amended by inserting after section 122
+
+<!-- marginal: the following part: -->
 
 “PART IVa.
 
@@ -890,13 +1188,13 @@ Chapter XVa.
 
 ## PRELIMINARY.
 
-Interpretation.
+<!-- marginal: Interpretation. -->
 
-### 122a.
-
-In this Part, unless the context otherwise requires—
+122A. In this Part, unless the context otherwise requires—
 
 “building” means, in relation to Chapter XVb, any building used for the housing of employees and includes a nursery and a community hall;
+
+<!-- marginal: WJW24/1123 BI.indd 37 -->
 
 <!-- page 38 -->
 
@@ -914,6 +1212,10 @@ In this Part, unless the context otherwise requires—
 
 (a) any person who has entered into a contract of service to employ any other person as an employee and includes the agent, manager and factor of such first mentioned person; or
 
+<!-- marginal: WJW24/1123 BI.indd 38 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 39 -->
 
 (b) where the owner or lessee (including the agent, manager and factor of such owner or lessee) of a place of employment (hereinafter referred to as the first mentioned person) has entered into an agreement, whether oral or in writing and whether expressed or implied, with another person for the purpose of executing any work for or connected with any business, trade, operation or interest of such first mentioned person, the term “employer” shall also include such first mentioned person,
@@ -926,6 +1228,8 @@ and the word “employ”, with its grammatical variations and cognate expressio
 
 “private hospital” means a private hospital as provided under the Private Healthcare Facilities and Services Act 1998 [Act 586];
 
+<!-- marginal: WJW24/1123 BI.indd 39 -->
+
 <!-- page 40 -->
 
 “resident manager”, in relation to an estate, means any employer or agent of an employer who resides on, or is in immediate charge of, the estate in which the employees are employed;
@@ -936,11 +1240,25 @@ Chapter XVb.
 
 ## HOUSING AND OTHER AMENITIES.
 
-Building to 122b. (1) Except as provided in subsection (2), comply with no employer shall house or cause or permit requirements. to be housed any employee employed by him or by any other person (with whom he has contracted for the purpose of executing any work for or connected with his business, trade, operation or interest) in any building either owned by him or is within his possession or control which does not comply with the provisions of this Part or any rules made thereunder.
+<!-- marginal: Building to -->
+
+122b. (1) Except as provided in subsection (2),
+
+<!-- marginal: comply with -->
+
+no employer shall house or cause or permit
+
+<!-- marginal: requirements. -->
+
+to be housed any employee employed by him or by any other person (with whom he has contracted for the purpose of executing any work for or connected with his business, trade, operation or interest) in any building either owned by him or is within his possession or control which does not comply with the provisions of this Part or any rules made thereunder.
 
 (2) Any building, which immediately before the commencement of this Part was used for the housing of employees, as a nursery or as a community hall, by an employer and was erected or converted in accordance with the requirements of any written law in force at the time of its erection or conversion may continue to be used by such employer:
 
 Provided that such building be converted to comply with the provisions of this Part or any rules made thereunder.
+
+<!-- marginal: WJW24/1123 BI.indd 40 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 41 -->
 
@@ -952,11 +1270,27 @@ Provided that such building be converted to comply with the provisions of this P
 
 (6) The order under subsection (5) may include a directive that no employee or his dependants shall be permitted to occupy any such building pending such demolition and replacement, alteration or repair, or the making good of any defect or deficiency thereof, or until the requirements of the order have been complied with:
 
+<!-- marginal: WJW24/1123 BI.indd 41 -->
+
 <!-- page 42 -->
 
 Provided that where an appeal has been made under section 122ao in respect of the order issued under subsection (5), then such order shall be suspended pending the determination of the appeal.
 
-Supply of water 122 c. (1) Where employees and their and electricity dependants are provided with housing at their and maintenance place of employment, it shall be the duty of of houses. the employer of such place of employment—
+<!-- marginal: Supply of water -->
+
+122 c. (1) Where employees and their
+
+<!-- marginal: and electricity -->
+
+dependants are provided with housing at their
+
+<!-- marginal: and maintenance -->
+
+place of employment, it shall be the duty of
+
+<!-- marginal: of houses. -->
+
+the employer of such place of employment—
 
 (a) to provide free and adequate piped water drawn from a public main, or where the Director so permits in writing, to provide free and adequate supply of potable piped water drawn from any other source which shall be filtered and treated in a manner approved by the Director;
 
@@ -970,6 +1304,10 @@ Supply of water 122 c. (1) Where employees and their and electricity dependants 
 
 Provided that the Director may, if he is satisfied in any case that it is impracticable to provide piped water supply for each house, approve any other means of water supply:
 
+<!-- marginal: WJW24/1123 BI.indd 42 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 43 -->
 
 Provided further that the Director may, in any case where he is satisfied that the provision of electricity supply is not practicable or viable, exempt the employer in writing from the requirement of such provision.
@@ -980,9 +1318,39 @@ Provided further that the Director may, in any case where he is satisfied that t
 
 (5) Where any extension or structural alteration has been made to the buildings without the permission of the Director, the Director may, after giving one month’s notice, require the employer to have the extension or structural alteration demolished.
 
-Erection 122d. (1) In relation to a building which is of building to be erected or converted for the housing intended to of employees or for use as a nursery or be used for community hall, the employer shall submit the housing of employees, as to the Director for his endorsement, the plans nursery or as of the building and of its site approved by community hall. the relevant authority.
+<!-- marginal: Erection -->
+
+122d. (1) In relation to a building which is
+
+<!-- marginal: of building -->
+
+to be erected or converted for the housing
+
+<!-- marginal: intended to -->
+
+of employees or for use as a nursery or
+
+<!-- marginal: be used for -->
+
+community hall, the employer shall submit
+
+<!-- marginal: the housing of -->
+
+<!-- marginal: employees, as -->
+
+to the Director for his endorsement, the plans
+
+<!-- marginal: nursery or as -->
+
+of the building and of its site approved by
+
+<!-- marginal: community hall. -->
+
+the relevant authority.
 
 (2) No work relating to the aforesaid building shall commence before the submission of such plan is endorsed by the Director.
+
+<!-- marginal: WJW24/1123 BI.indd 43 -->
 
 <!-- page 44 -->
 
@@ -990,13 +1358,25 @@ Erection 122d. (1) In relation to a building which is of building to be erected 
 
 (4) For the purposes of this section, the relevant authority shall be the authorities as may be determined by the Minister after consultation with the State Authority.
 
-Building 122 e. (1) The Director shall cause to endangering be inspected— health or safety.
+<!-- marginal: Building -->
+
+122 e. (1) The Director shall cause to
+
+<!-- marginal: endangering -->
+
+be inspected—
+
+<!-- marginal: health or safety. -->
 
 (a) by a Medical Officer of Health, any building, estate hospital, group estate hospital or clinic on a place of employment which, by reason of its design, site, size, sanitation, the quantity and quality of the water supply provided for the occupants of such buildings or other conditions, appears to the Director to be likely to endanger health; and
 
 (b) by the District Engineer, any building, estate hospital, group estate hospital or clinic on a place of employment which, by reason of its construction, state of repair or condition, appears to the Director to be likely to endanger the safety of any person.
 
 (2) The Medical Officer of Health or the District Engineer or both, as the case may be, shall, after inspecting any building, estate hospital, group estate hospital or clinic under this section, submit to the Director a report of his or their findings, together with any recommendation made thereon relating to the necessary measures required to be taken in respect of such building, estate hospital, group estate hospital or clinic.
+
+<!-- marginal: WJW24/1123 BI.indd 44 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 45 -->
 
@@ -1006,21 +1386,43 @@ Provided that where an appeal has been made under section 122ao in respect of th
 
 (4) No order under subsection (3) shall be issued unless a copy of the report under subsection (2) received by the Director has been furnished to the employer by the Director, and in making such order, the Director shall give due consideration to any representation that may be made by the employer in respect of the report.
 
-Building not 122f. (1) Except as provided in subsection (2), originally built a building originally built for a purpose other for housing than the housing of employees shall not of employees. be used for, or be converted for, the purpose of the housing of employees by an employer without an approval by the Director.
+<!-- marginal: Building not -->
+
+122f. (1) Except as provided in subsection (2),
+
+<!-- marginal: originally built -->
+
+a building originally built for a purpose other
+
+<!-- marginal: for housing -->
+
+than the housing of employees shall not
+
+<!-- marginal: of employees. -->
+
+be used for, or be converted for, the purpose of the housing of employees by an employer without an approval by the Director.
 
 (2) An employer may make an application to the Director in the manner specified under subsection (3) for the approval for the purpose specified under subsection (1).
+
+<!-- marginal: WJW24/1123 BI.indd 45 -->
 
 <!-- page 46 -->
 
 (3) The application required to be made under subsection (2) shall be accompanied by a plan of the site of the building and a plan setting out the details of the building or of the conversion proposed to be made thereto and subsections (2) and (3) of section 122d shall apply to such plan as they apply to a plan of a building or of the site of a building mentioned in that section.
 
-Nursery. 122g. (1) Where there are employees residing on the place of employment and such employees have together no less than five dependants under four years of age living with them, the Director may, by order, require the employer of such employees to construct at the aforesaid place of employment within such reasonable time as may be specified therein, a nursery of a size capable of accommodating such number of employees’ dependants, as may be specified therein, and on being so required, the employer shall construct such nursery accordingly:
+<!-- marginal: Nursery. -->
+
+122g. (1) Where there are employees residing on the place of employment and such employees have together no less than five dependants under four years of age living with them, the Director may, by order, require the employer of such employees to construct at the aforesaid place of employment within such reasonable time as may be specified therein, a nursery of a size capable of accommodating such number of employees’ dependants, as may be specified therein, and on being so required, the employer shall construct such nursery accordingly:
 
 Provided that any subsequent reduction in the number of dependants after the order has been issued shall not invalidate such order.
 
 (2) The employer shall maintain the nursery and shall accommodate therein the dependants of the employees during the period in which such employees are away working for the employer:
 
 Provided that he shall not accommodate therein such dependants in excess of the number specified in the order mentioned in subsection (1).
+
+<!-- marginal: WJW24/1123 BI.indd 46 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 47 -->
 
@@ -1032,13 +1434,21 @@ Provided that he shall not accommodate therein such dependants in excess of the 
 
 (4) Any employer who contravenes the provisions of this section commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit and shall also, in the case of a continuing offence, be liable to a daily fine not exceeding one thousand ringgit for each day the offence continues after conviction.
 
-Allotment of 122h. (1) Where there are employees residing land. on the place of employment, the employer of such employees shall set aside land which has been cleared, for allotment to such employees for cultivation, grazing or partly cultivation and partly grazing:
+<!-- marginal: Allotment of -->
+
+122h. (1) Where there are employees residing
+
+<!-- marginal: land. -->
+
+on the place of employment, the employer of such employees shall set aside land which has been cleared, for allotment to such employees for cultivation, grazing or partly cultivation and partly grazing:
 
 Provided that an employer is not required to excise any permanent cultivation which has been planted by him at least twelve months previously.
 
 (2) An employee residing on the place of employment who has been employed for a period of not less than six months by the employer aforesaid shall be entitled to have allotted to him an area for cultivation for communal use and food supply.
 
 (3) If an area of land allotted for cultivation (whether wholly or partly) shall remain unplanted for a period of six months from the date of the allotment, or if an employee uses the area of land allotted to him for a purpose different from that for which it was
+
+<!-- marginal: WJW24/1123 BI.indd 47 -->
 
 <!-- page 48 -->
 
@@ -1056,9 +1466,29 @@ allotted, or if he does not use it at all for the purpose for which it was allot
 
 (7) For the purposes of this section, “place of employment” means an estate or such other place as may be prescribed by the Minister by notification in the Gazette to be a place of employment.
 
+<!-- marginal: WJW24/1123 BI.indd 48 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 49 -->
 
-Community 122 i. (1) The Director may, by order, hall, sports require the employer in any place of and other employment where there are not less than recreational facilities. one hundred employees residing at the place of employment—
+<!-- marginal: Community -->
+
+122 i. (1) The Director may, by order,
+
+<!-- marginal: hall, sports -->
+
+require the employer in any place of
+
+<!-- marginal: and other -->
+
+employment where there are not less than
+
+<!-- marginal: recreational -->
+
+<!-- marginal: facilities. -->
+
+one hundred employees residing at the place of employment—
 
 (a) to construct at the place of employment, within such reasonable time as may be specified, a community hall capable of accommodating such number of persons as may be specified; and
 
@@ -1068,7 +1498,29 @@ Community 122 i. (1) The Director may, by order, hall, sports require the employ
 
 (3) Any employer who contravenes the provisions of this section commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit and shall also, in the case of a continuing offence, be liable to a daily fine not exceeding one thousand ringgit for each day the offence continues after conviction.
 
-No rent or 122j. An employee shall not be required charge to be to make any payment for rent or charge levied for in respect of any housing, nursery, community benefits under this hall, sports and other recreational facilities, Chapter. sanitation, or allotment of land provided for the employee under this Chapter.
+<!-- marginal: No rent or -->
+
+122j. An employee shall not be required
+
+<!-- marginal: charge to be -->
+
+to make any payment for rent or charge
+
+<!-- marginal: levied for -->
+
+in respect of any housing, nursery, community
+
+<!-- marginal: benefits -->
+
+<!-- marginal: under this -->
+
+hall, sports and other recreational facilities,
+
+<!-- marginal: Chapter. -->
+
+sanitation, or allotment of land provided for the employee under this Chapter.
+
+<!-- marginal: WJW24/1123 BI.indd 49 -->
 
 <!-- page 50 -->
 
@@ -1078,13 +1530,37 @@ No rent or 122j. An employee shall not be required charge to be to make any paym
 
 ## SANITATION.
 
-Definition of 122k. For the purposes of this Chapter, dependant. “dependant” means such member of the employee’s family, namely, spouse, father, mother and children under the age of eighteen, including children adopted in accordance with any written law, who are living with and dependent on the employee.
+<!-- marginal: Definition of -->
 
-Employer to 122l. (1) The Director may, at any time construct and by order in writing, after consultation with maintain estate the Minister of Health, require any employer hospital. to construct within a reasonable time to be stated in such order and thereafter to maintain at his own expense, a hospital, hereinafter called “estate hospital”, on or in the immediate neighbourhood of any estate upon which employees are employed by him with accommodation for such number of patients as may be stated in such order.
+122k. For the purposes of this Chapter,
+
+<!-- marginal: dependant. -->
+
+“dependant” means such member of the employee’s family, namely, spouse, father, mother and children under the age of eighteen, including children adopted in accordance with any written law, who are living with and dependent on the employee.
+
+<!-- marginal: Employer to -->
+
+122l. (1) The Director may, at any time
+
+<!-- marginal: construct and -->
+
+by order in writing, after consultation with
+
+<!-- marginal: maintain estate -->
+
+the Minister of Health, require any employer
+
+<!-- marginal: hospital. -->
+
+to construct within a reasonable time to be stated in such order and thereafter to maintain at his own expense, a hospital, hereinafter called “estate hospital”, on or in the immediate neighbourhood of any estate upon which employees are employed by him with accommodation for such number of patients as may be stated in such order.
 
 (2) Where there is already a hospital maintained by the employer, the Director may, by order in writing, after consultation with the Minister of Health, require the employer to enlarge or add to such hospital so as to provide accommodation for a further number of patients as may be stated in the order.
 
 (3) For the purposes of subsection (1) or (2), the Director may further require the employer to employ a registered medical practitioner to reside at and have charge of such hospital or any hospital maintained by such employer, and to provide such medical practitioner with fit and proper house accommodation to the satisfaction of the Medical Officer of Health.
+
+<!-- marginal: WJW24/1123 BI.indd 50 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 51 -->
 
@@ -1096,21 +1572,55 @@ Employer to 122l. (1) The Director may, at any time construct and by order in wr
 
 (7) Where there already exists an estate hospital or group estate hospital, the Director may order the employers concerned to join such estate hospital or group estate hospital, as the case may be, and be jointly responsible for the maintenance of such hospital.
 
+<!-- marginal: WJW24/1123 BI.indd 51 -->
+
 <!-- page 52 -->
 
 (8) Every employer referred to in this section and the resident manager of every estate concerned shall be responsible for the registration and the due maintenance of the estate hospital or group estate hospital, as the case may be, registered in accordance with the provisions of the Private Healthcare Facilities and Services Act 1998 and any regulation made thereunder.
 
 (9) No employer who has constructed and maintained an estate hospital or a group estate hospital, whether in pursuance of an order of the Director under this section or otherwise, shall reduce the number of beds or discontinue the maintenance and operation of such estate hospital or group estate hospital without prior written permission of the Director.
 
-Payment and 122m. (1) It shall be the duty of every recovery employer to provide for every employee of hospital employed on an estate with medical attendance, expenses by care and treatment including diet at the estate employer. hospital or group estate hospital established under section 122l or at the estate clinic established under section 122p.
+<!-- marginal: Payment and -->
+
+122m. (1) It shall be the duty of every
+
+<!-- marginal: recovery -->
+
+employer to provide for every employee
+
+<!-- marginal: of hospital -->
+
+employed on an estate with medical attendance,
+
+<!-- marginal: expenses by -->
+
+care and treatment including diet at the estate
+
+<!-- marginal: employer. -->
+
+hospital or group estate hospital established under section 122l or at the estate clinic established under section 122p.
 
 (2) The employer may recover from such employee the expenses of such care, treatment and maintenance at such rate as the Minister may prescribe by notification in the Gazette in respect of any period in excess of thirty days during which such employee shall have remained in the hospital.
 
 (3) For the purposes of this section, employee includes his dependants who reside on such estate or on any other land owned or leased by or is within the control of the employer.
 
+<!-- marginal: WJW24/1123 BI.indd 52 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 53 -->
 
-Sick employees 122n. (1) Every employee or any dependant being admitted of such employee, who is injured or falls to hospital. ill during the course of the employee’s employment shall be taken by the employer to a private hospital or a Government hospital, as the case may be.
+<!-- marginal: Sick employees -->
+
+122n. (1) Every employee or any dependant
+
+<!-- marginal: being admitted -->
+
+of such employee, who is injured or falls
+
+<!-- marginal: to hospital. -->
+
+ill during the course of the employee’s employment shall be taken by the employer to a private hospital or a Government hospital, as the case may be.
 
 (2) The expenses incurred under subsection (1) shall, whatever be the amount, be recoverable from the employer in a Civil Court at the suit of the Medical Officer in charge of such hospital, and the certificate of such Medical Officer shall be sufficient prima facie evidence that the amount therein specified is due from the employer:
 
@@ -1120,9 +1630,23 @@ Provided that not more than thirty days’ expenses in hospital in respect of an
 
 (4) No expenses paid by an employer under subsection (3) shall be recoverable from the employee.
 
-Transportation 122o. (1) It shall be the duty of the employer of sick and of the resident manager at their own employees to expenses— hospital.
+<!-- marginal: Transportation -->
+
+122o. (1) It shall be the duty of the employer
+
+<!-- marginal: of sick -->
+
+and of the resident manager at their own
+
+<!-- marginal: employees to -->
+
+expenses—
+
+<!-- marginal: hospital. -->
 
 (a) to have every employee employed on an estate to be transported safely without delay to and from the estate hospital or group estate hospital or, if there is no such hospital, to and from the private hospital or Government hospital, as the case may be; and
+
+<!-- marginal: WJW24/1123 BI.indd 53 -->
 
 <!-- page 54 -->
 
@@ -1134,7 +1658,27 @@ Transportation 122o. (1) It shall be the duty of the employer of sick and of the
 
 (4) For the purposes of this section, “employee” includes any dependant of such employees who requires medical treatment.
 
-Medical 122p. (1) On any estate where there is no treatment in estate hospital or a group estate hospital estate on which available, the Director may, by order, after a hospital is not maintained. consultation with the Medical Officer of Health, require an employer to establish and maintain a clinic or make such other provisions as are necessary for the treatment of sick employees and their dependants.
+<!-- marginal: Medical -->
+
+122p. (1) On any estate where there is no
+
+<!-- marginal: treatment in -->
+
+estate hospital or a group estate hospital
+
+<!-- marginal: estate on which -->
+
+available, the Director may, by order, after
+
+<!-- marginal: a hospital is -->
+
+<!-- marginal: not maintained. -->
+
+consultation with the Medical Officer of Health, require an employer to establish and maintain a clinic or make such other provisions as are necessary for the treatment of sick employees and their dependants.
+
+<!-- marginal: WJW24/1123 BI.indd 54 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 55 -->
 
@@ -1144,11 +1688,27 @@ Medical 122p. (1) On any estate where there is no treatment in estate hospital o
 
 (4) No employer who has established and maintained a clinic, whether pursuant to an order of the Director made under this section or otherwise, shall reduce the services, facilities or staff or discontinue the maintenance and operation of such clinic without prior written permission of the Director.
 
-Duty to report 122q. (1) It shall be the duty of the resident suspected cases registered medical practitioner or, in his of infectious absence or if there is no resident registered disease. medical practitioner, the resident manager—
+<!-- marginal: Duty to report -->
+
+122q. (1) It shall be the duty of the resident
+
+<!-- marginal: suspected cases -->
+
+registered medical practitioner or, in his
+
+<!-- marginal: of infectious -->
+
+absence or if there is no resident registered
+
+<!-- marginal: disease. -->
+
+medical practitioner, the resident manager—
 
 (a) to isolate at once any employee or other person on an estate whom he may suspect to be suffering from any infectious disease as defined in the Prevention and Control of Infectious Diseases Act 1988 [Act 342];
 
 (b) to detain under observation any other person whom he may deem likely to have contracted such disease; and
+
+<!-- marginal: WJW24/1123 BI.indd 55 -->
 
 <!-- page 56 -->
 
@@ -1158,7 +1718,27 @@ Duty to report 122q. (1) It shall be the duty of the resident suspected cases re
 
 (3) Any person who neglects to perform the duty imposed upon him or contravenes the provisions of this section commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit and shall also, in the case of a continuing offence, be liable to a daily fine not exceeding one thousand ringgit for each day the offence continues after conviction.
 
-Duty of 122r. (1) On the occurrence of any infectious employer to disease on any estate, it shall be the duty segregate of the employer forthwith, if so directed by employee the Medical Officer of Health— suffering from infectious disease.
+<!-- marginal: Duty of -->
+
+122r. (1) On the occurrence of any infectious
+
+<!-- marginal: employer to -->
+
+disease on any estate, it shall be the duty
+
+<!-- marginal: segregate -->
+
+of the employer forthwith, if so directed by
+
+<!-- marginal: employee -->
+
+the Medical Officer of Health—
+
+<!-- marginal: suffering from -->
+
+<!-- marginal: infectious -->
+
+<!-- marginal: disease. -->
 
 (a) to provide a place where an employee may be segregated in the interest of public health or of any other employee employed on the estate; and
 
@@ -1168,6 +1748,10 @@ Duty of 122r. (1) On the occurrence of any infectious employer to disease on any
 
 (ii) for the treatment of any employee suffering from such disease.
 
+<!-- marginal: WJW24/1123 BI.indd 56 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 57 -->
 
 (2) It shall be lawful for the Medical Officer of Health to cause such employee to be removed to such place as he may direct and continued to be detained in such place until discharged by order in writing of the Medical Officer of Health if at any time it appears to the Medical Officer of Health—
@@ -1176,13 +1760,57 @@ Duty of 122r. (1) On the occurrence of any infectious employer to disease on any
 
 (b) that it is otherwise necessary in the interest of public health or of the health of any other employee employed on the estate.
 
-Power of 122s. The Medical Officer of Health may, Medical at any time if it appears to him necessary Officer of for the health of the employees employed Health to order on any estate, by order in writing, direct immunization any employer or resident manager, at his against infectious own expense, to make arrangements so disease. that all or any of the employees and their dependants be given immunization against any infectious disease.
+<!-- marginal: Power of -->
 
-Weekly 122t. (1) It shall be the duty of the employer inspection of of a place of employment where employees employees’ and their dependants are provided with housing housing. accommodation to ensure that—
+122s. The Medical Officer of Health may,
+
+<!-- marginal: Medical -->
+
+at any time if it appears to him necessary
+
+<!-- marginal: Officer of -->
+
+for the health of the employees employed
+
+<!-- marginal: Health to order -->
+
+on any estate, by order in writing, direct
+
+<!-- marginal: immunization -->
+
+any employer or resident manager, at his
+
+<!-- marginal: against -->
+
+<!-- marginal: infectious -->
+
+own expense, to make arrangements so
+
+<!-- marginal: disease. -->
+
+that all or any of the employees and their dependants be given immunization against any infectious disease.
+
+<!-- marginal: Weekly -->
+
+122t. (1) It shall be the duty of the employer
+
+<!-- marginal: inspection of -->
+
+of a place of employment where employees
+
+<!-- marginal: employees’ -->
+
+and their dependants are provided with housing
+
+<!-- marginal: housing. -->
+
+accommodation to ensure that—
 
 (a) the area surrounding the employees’ housing is kept clear of undergrowth and maintained in a clean and sanitary condition;
 
 (b) the perimeter drains around each dwelling or block of dwellings including all outlet drains are kept in a good state of repair and clear of refuse or undergrowth to permit free flow of water;
+
+<!-- marginal: WJW24/1123 BI.indd 57 -->
 
 <!-- page 58 -->
 
@@ -1198,19 +1826,23 @@ Weekly 122t. (1) It shall be the duty of the employer inspection of of a place o
 
 (2) are not satisfactorily carried out, he may notify the employer accordingly, specifying the matters in respect whereof he is not satisfied, and the employer shall thereupon make further or other arrangements as the Medical Officer of Health may require.
 
+<!-- marginal: WJW24/1123 BI.indd 58 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 59 -->
 
 ## Chapter XVd.
 
 ## ACCOMMODATIONS.
 
-Application. 122u. This Chapter shall apply to employees who are employed otherwise than to work in an estate.
+<!-- marginal: Application. -->
 
-Interpretation.
+122u. This Chapter shall apply to employees who are employed otherwise than to work in an estate.
 
-### 122v.
+<!-- marginal: Interpretation. -->
 
-In this Chapter—
+122V. In this Chapter—
 
 “accommodation” means any permanent or temporary building or structure including any house, hut, shed or roofed enclosure used for the purpose of human habitation and includes centralized accommodation;
 
@@ -1220,17 +1852,39 @@ In this Chapter—
 
 “person in charge of accommodation” means any person appointed by an employer or centralized accommodation provider to be responsible for the management of the accommodation, and safety and health of the employees and other amenities in the accommodation.
 
-Requirement for 122w. (1) The Minister may prescribe any accommodation. class, category or description of employees that shall be provided with accommodation under this Chapter.
+<!-- marginal: Requirement for -->
+
+122w. (1) The Minister may prescribe any
+
+<!-- marginal: accommodation. -->
+
+class, category or description of employees that shall be provided with accommodation under this Chapter.
 
 (2) All employers, whose class, category or description of employees is prescribed by the Minister, shall provide such employees with accommodation.
+
+<!-- marginal: WJW24/1123 BI.indd 59 -->
 
 <!-- page 60 -->
 
 (3) Any employer who fails to provide accommodation or contravenes the provisions of this section commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit and shall also, in the case of a continuing offence, be liable to a daily fine not exceeding one thousand ringgit for each day the offence continues after conviction.
 
-Functions 122x. (1) For the purposes of this Chapter, and powers the Director shall have the following functions: of Director in relation to
+<!-- marginal: Functions -->
 
-(a) to administer and regulate all matters accommodation. relating to an accommodation;
+122x. (1) For the purposes of this Chapter,
+
+<!-- marginal: and powers -->
+
+the Director shall have the following functions:
+
+<!-- marginal: of Director -->
+
+<!-- marginal: in relation to -->
+
+(a) to administer and regulate all matters
+
+<!-- marginal: accommodation. -->
+
+relating to an accommodation;
 
 (b) to direct employer or centralized accommodation provider to submit any information and documents relating to an employee’s accommodation;
 
@@ -1244,25 +1898,99 @@ Functions 122x. (1) For the purposes of this Chapter, and powers the Director sh
 
 (3) The Director may, in issuing directions to any employer or centralized accommodation provider pursuant to the exercise of his functions and powers under subsection (1)
 
+<!-- marginal: WJW24/1123 BI.indd 60 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 61 -->
 
 or (2), direct that any expenses incurred in complying with such direction to be borne by the employer or the centralized accommodation provider.
 
-Accommodation 122 y. (1) No accommodation shall be to be provided to an employee unless certified with certified with a Certificate for Accommodation. Certificate for Accommodation. (2) An application for a Certificate for Accommodation shall be made by an employer or a centralized accommodation provider to the Director in the form and manner as may be determined by the Director and shall be accompanied by the prescribed processing fee.
+<!-- marginal: Accommodation -->
+
+122 y. (1) No accommodation shall be
+
+<!-- marginal: to be -->
+
+provided to an employee unless certified with
+
+<!-- marginal: certified with -->
+
+a Certificate for Accommodation.
+
+<!-- marginal: Certificate for -->
+
+<!-- marginal: Accommodation. -->
+
+(2) An application for a Certificate for Accommodation shall be made by an employer or a centralized accommodation provider to the Director in the form and manner as may be determined by the Director and shall be accompanied by the prescribed processing fee.
 
 (3) An employer who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit and shall also, in the case of a continuing offence, be liable to a daily fine not exceeding one thousand ringgit for each day the offence continues after conviction.
 
 (4) A centralized accommodation provider who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding one year or to both and shall also, in the case of a continuing offence, be liable to a daily fine not exceeding one thousand ringgit or to imprisonment for a term not exceeding one day or to both for each day the offence continues after conviction.
 
-Employer to 122z. (1) An employer shall, within thirty days give notice of from the date an accommodation is occupied occupation. by his employee, inform the Director of such occupation in the form and manner as may be determined by the Director.
+<!-- marginal: Employer to -->
+
+122z. (1) An employer shall, within thirty days
+
+<!-- marginal: give notice of -->
+
+from the date an accommodation is occupied
+
+<!-- marginal: occupation. -->
+
+by his employee, inform the Director of such occupation in the form and manner as may be determined by the Director.
+
+<!-- marginal: WJW24/1123 BI.indd 61 -->
 
 <!-- page 62 -->
 
 (2) Any employer who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit.
 
-Accommodation 122 a a. An employer or a centralized to comply accommodation provider shall ensure that with minimum every accommodation provided for employees standards. complies with the minimum standards required under this Part or any subsidiary legislation made thereunder.
+<!-- marginal: Accommodation -->
 
-Power of 122ab. (1) If the Director finds that any Director accommodation or amenities provided by an to direct employer or a centralized accommodation replacement, provider to an employee does not comply alteration with the minimum standards required under and repair of accommodation this Part, the Director may issue a notice to and amenities. the employer or centralized accommodation provider, as the case may be, to direct the employer or centralized accommodation provider to replace, alter or repair the accommodation or amenities within the period as the Director may specify in the notice.
+122 a a. An employer or a centralized
+
+<!-- marginal: to comply -->
+
+accommodation provider shall ensure that
+
+<!-- marginal: with minimum -->
+
+every accommodation provided for employees
+
+<!-- marginal: standards. -->
+
+complies with the minimum standards required under this Part or any subsidiary legislation made thereunder.
+
+<!-- marginal: Power of -->
+
+122ab. (1) If the Director finds that any
+
+<!-- marginal: Director -->
+
+accommodation or amenities provided by an
+
+<!-- marginal: to direct -->
+
+employer or a centralized accommodation
+
+<!-- marginal: replacement, -->
+
+provider to an employee does not comply
+
+<!-- marginal: alteration -->
+
+with the minimum standards required under
+
+<!-- marginal: and repair of -->
+
+<!-- marginal: accommodation -->
+
+this Part, the Director may issue a notice to
+
+<!-- marginal: and amenities. -->
+
+the employer or centralized accommodation provider, as the case may be, to direct the employer or centralized accommodation provider to replace, alter or repair the accommodation or amenities within the period as the Director may specify in the notice.
 
 (2) All expenses incurred by the employer or centralized accommodation provider in complying with the direction given under subsection (1) shall be borne by the employer or centralized accommodation provider.
 
@@ -1270,9 +1998,45 @@ Power of 122ab. (1) If the Director finds that any Director accommodation or ame
 
 (4) Any person who contravenes subsection (1), (2) or (3) commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both.
 
+<!-- marginal: WJW24/1123 BI.indd 62 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 63 -->
 
-Power of 122ac. (1) The Director may, if he thinks Director to necessary for the safety and well-being of direct employer the employees, issue a notice to the employer or centralized or centralized accommodation provider, accommodation as the case may be, to further direct the employer provider to provide or centralized accommodation provider to temporary whom the direction has been given under accommodation. subsection (1) of section 122ab to provide the employees with temporary accommodation in the manner as may be determined by the Director in the course of replacement, alteration or repair of the accommodation or amenities.
+<!-- marginal: Power of -->
+
+122ac. (1) The Director may, if he thinks
+
+<!-- marginal: Director to -->
+
+necessary for the safety and well-being of
+
+<!-- marginal: direct employer -->
+
+the employees, issue a notice to the employer
+
+<!-- marginal: or centralized -->
+
+or centralized accommodation provider,
+
+<!-- marginal: accommodation -->
+
+as the case may be, to further direct the employer
+
+<!-- marginal: provider -->
+
+<!-- marginal: to provide -->
+
+or centralized accommodation provider to
+
+<!-- marginal: temporary -->
+
+whom the direction has been given under
+
+<!-- marginal: accommodation. -->
+
+subsection (1) of section 122ab to provide the employees with temporary accommodation in the manner as may be determined by the Director in the course of replacement, alteration or repair of the accommodation or amenities.
 
 (2) The Director may impose any condition to the employer or centralized accommodation provider relating to the temporary accommodation provided to the employees under subsection (1).
 
@@ -1282,23 +2046,77 @@ Power of 122ac. (1) The Director may, if he thinks Director to necessary for the
 
 (5) The employer or centralized accommodation provider shall not recover from the employees the expenses incurred by the employer or centralized accommodation provider in complying with the direction given under subsection (1).
 
+<!-- marginal: WJW24/1123 BI.indd 63 -->
+
 <!-- page 64 -->
 
 (6) Any person who contravenes subsection (1), (2), (4) or (5) commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both.
 
-Deductions in 122ad. (1) Subject to any conditions as may respect of rent be prescribed by the Minister, an employer or charge for may collect from an employee any sum for accommodation. rent or charge in respect of any accommodation provided by the employer or any centralized accommodation provider under this Chapter.
+<!-- marginal: Deductions in -->
+
+122ad. (1) Subject to any conditions as may
+
+<!-- marginal: respect of rent -->
+
+be prescribed by the Minister, an employer
+
+<!-- marginal: or charge for -->
+
+may collect from an employee any sum for
+
+<!-- marginal: accommodation. -->
+
+rent or charge in respect of any accommodation provided by the employer or any centralized accommodation provider under this Chapter.
 
 (2) The sum collected under subsection (1) shall be made by deductions from the wages of the employee.
 
-Accommodation 122ae. (1) Notwithstanding section 122y, to comply with no employer or centralized accommodation any written provider shall use any building as laws. accommodation if the building is unfit for human habitation in accordance with the relevant written laws.
+<!-- marginal: Accommodation -->
+
+122ae. (1) Notwithstanding section 122y,
+
+<!-- marginal: to comply with -->
+
+no employer or centralized accommodation
+
+<!-- marginal: any written -->
+
+provider shall use any building as
+
+<!-- marginal: laws. -->
+
+accommodation if the building is unfit for human habitation in accordance with the relevant written laws.
 
 (2) Any employer or centralized accommodation provider who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit.
 
-Amenities. 122 a f. An employer or a centralized accommodation provider shall provide decent and adequate amenities in accordance with this Part or any subsidiary legislation made thereunder.
+<!-- marginal: Amenities. -->
 
-Duties and 122 a g. An employer or a centralized responsibilities accommodation provider who provides in respect of accommodation for an employee under this safety and Chapter shall have the following duties and health. responsibilities:
+122 a f. An employer or a centralized accommodation provider shall provide decent and adequate amenities in accordance with this Part or any subsidiary legislation made thereunder.
+
+<!-- marginal: Duties and -->
+
+122 a g. An employer or a centralized
+
+<!-- marginal: responsibilities -->
+
+accommodation provider who provides
+
+<!-- marginal: in respect of -->
+
+accommodation for an employee under this
+
+<!-- marginal: safety and -->
+
+Chapter shall have the following duties and
+
+<!-- marginal: health. -->
+
+responsibilities:
 
 (a) to provide separate accommodation to employees of the opposite gender;
+
+<!-- marginal: WJW24/1123 BI.indd 64 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 65 -->
 
@@ -1312,9 +2130,27 @@ Duties and 122 a g. An employer or a centralized responsibilities accommodation 
 
 (f) to take preventive measures to contain the spread of infectious diseases as ordered by the Medical Officer of Health in accordance with the relevant written laws and the employer shall, at his own expense, make arrangements as ordered by the Medical Officer of Health so that all or any of the employees be given immunization against any infectious disease.
 
-Maintenance. 122ah. An employer and a centralized accommodation provider shall ensure that every accommodation provided for employees under this Chapter is maintained as directed by the Director.
+<!-- marginal: Maintenance. -->
 
-Appointment 122ai. (1) An employer or a centralized of person accommodation provider shall appoint at in charge of least one person in charge of accommodation accommodation. provided under this Chapter, who will be responsible for the safety and well-being of the employees and the management of the accommodations and amenities, in accordance with the provisions of this Part or any subsidiary legislation made thereunder.
+122ah. An employer and a centralized accommodation provider shall ensure that every accommodation provided for employees under this Chapter is maintained as directed by the Director.
+
+<!-- marginal: Appointment -->
+
+122ai. (1) An employer or a centralized
+
+<!-- marginal: of person -->
+
+accommodation provider shall appoint at
+
+<!-- marginal: in charge of -->
+
+least one person in charge of accommodation
+
+<!-- marginal: accommodation. -->
+
+provided under this Chapter, who will be responsible for the safety and well-being of the employees and the management of the accommodations and amenities, in accordance with the provisions of this Part or any subsidiary legislation made thereunder.
+
+<!-- marginal: WJW24/1123 BI.indd 65 -->
 
 <!-- page 66 -->
 
@@ -1326,11 +2162,41 @@ Appointment 122ai. (1) An employer or a centralized of person accommodation prov
 
 (c) to ensure an employee is taken to a clinic or hospital if the employee complains of his health, or appears to be unwell or suffering from any disease or medical condition, and keeps a record of complaints as may be determined by the Director in the place of employment.
 
-Notice to vacate 122aj. (1) Subject to subsection (2), if an accommodation. employee resigns under a contract of service or his employment is otherwise terminated by not less than four weeks’ notice, the employee shall vacate the accommodation upon the effective date of his resignation or the date the contract of service is terminated.
+<!-- marginal: Notice to vacate -->
+
+122aj. (1) Subject to subsection (2), if an
+
+<!-- marginal: accommodation. -->
+
+employee resigns under a contract of service or his employment is otherwise terminated by not less than four weeks’ notice, the employee shall vacate the accommodation upon the effective date of his resignation or the date the contract of service is terminated.
 
 (2) Notwithstanding subsection (1), an employee whose contract of service is terminated by less than four weeks’ notice or is terminated with immediate effect shall vacate the accommodation within four weeks from the date of the notice or the date the contract of service is terminated.
 
-Employer 122ak. Nothing in this Chapter shall render not obligated an employer obligated to provide to provide accommodation for the dependants of an accommodation employee who is provided with accommodation for employees’ under this Chapter. dependants.
+<!-- marginal: Employer -->
+
+122ak. Nothing in this Chapter shall render
+
+<!-- marginal: not obligated -->
+
+an employer obligated to provide
+
+<!-- marginal: to provide -->
+
+accommodation for the dependants of an
+
+<!-- marginal: accommodation -->
+
+employee who is provided with accommodation
+
+<!-- marginal: for employees’ -->
+
+under this Chapter.
+
+<!-- marginal: dependants. -->
+
+<!-- marginal: WJW24/1123 BI.indd 66 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 67 -->
 
@@ -1338,19 +2204,67 @@ Chapter XVe.
 
 ## GENERAL PROVISIONS, APPEALS AND OFFENCES.
 
-Minister may 122 a l. The Minister may, subject to appoint any such restrictions and conditions as may officer or any be determined, appoint any officer or any suitable person suitable person to carry out all or any of with powers the powers conferred upon the Director by and duties. this Part and every duty so performed and every power so exercised shall be deemed to have been performed and exercised for the purposes of this Part.
+<!-- marginal: Minister may -->
 
-Power to issue 122 a m. The Minister may issue such directions. directions as he considers necessary for the purpose of ensuring compliance with this Part.
+122 a l. The Minister may, subject to
 
-Power of 122an. (1) The Director, Medical Officer of Director, etc. Health or District Engineer shall have power at to inspect, all times without the need for previous notice— investigate and to issue
+<!-- marginal: appoint any -->
 
-(a) to enter and inspect any place of summons. employment or any building which he believes is used by an employer for the housing of his employees or as a nursery or as a community hall;
+such restrictions and conditions as may
+
+<!-- marginal: officer or any -->
+
+be determined, appoint any officer or any
+
+<!-- marginal: suitable person -->
+
+suitable person to carry out all or any of
+
+<!-- marginal: with powers -->
+
+the powers conferred upon the Director by
+
+<!-- marginal: and duties. -->
+
+this Part and every duty so performed and every power so exercised shall be deemed to have been performed and exercised for the purposes of this Part.
+
+<!-- marginal: Power to issue -->
+
+122 a m. The Minister may issue such
+
+<!-- marginal: directions. -->
+
+directions as he considers necessary for the purpose of ensuring compliance with this Part.
+
+<!-- marginal: Power of -->
+
+122an. (1) The Director, Medical Officer of
+
+<!-- marginal: Director, etc. -->
+
+Health or District Engineer shall have power at
+
+<!-- marginal: to inspect, -->
+
+all times without the need for previous notice—
+
+<!-- marginal: investigate -->
+
+<!-- marginal: and to issue -->
+
+(a) to enter and inspect any place of
+
+<!-- marginal: summons. -->
+
+employment or any building which he believes is used by an employer for the housing of his employees or as a nursery or as a community hall;
 
 (b) to enter and inspect any place of employment or any building which he believes is used by an employer or centralized accommodation provider for the accommodation of the employees;
 
 (c) to enter and inspect any estate hospital, group estate hospital and clinic where employees are provided with medical attendance, care and treatment; and
 
 (d) to make such inquiry or investigation as he considers necessary in relation to any matter within the provisions of this Part.
+
+<!-- marginal: WJW24/1123 BI.indd 67 -->
 
 <!-- page 68 -->
 
@@ -1361,6 +2275,8 @@ Power of 122an. (1) The Director, Medical Officer of Director, etc. Health or Di
 (b) require the employer to produce before him all or any of the employees employed by him together with any records, registers and documents relating to matters covered under the provisions of this Part including any contract of service, book of account of wages, register or any other document relating to such employees or their employment and to answer such questions in respect thereof as he may think fit to ask;
 
 (c) copy or make extracts from such record, contract of service, book of account of wages, register and any other document referred to in paragraph (b);
+
+<!-- marginal: WJW24/1123 BI.indd 68 -->
 
 <!-- page 69 -->
 
@@ -1378,27 +2294,69 @@ Power of 122an. (1) The Director, Medical Officer of Director, etc. Health or Di
 
 (4) Section 129 of this Ordinance shall apply to the service of a summons issued under this Part.
 
+<!-- marginal: WJW24/1123 BI.indd 69 -->
+
 <!-- page 70 -->
 
-Appeals. 122 a o. (1) Subject to subsection (2), any employer or centralized accommodation provider aggrieved by any order or decision made under this Part or any subsidiary legislation made thereunder may, within thirty days of such order or decision in writing being received by him, appeal to the Minister.
+<!-- marginal: Appeals. -->
+
+122 a o. (1) Subject to subsection (2), any employer or centralized accommodation provider aggrieved by any order or decision made under this Part or any subsidiary legislation made thereunder may, within thirty days of such order or decision in writing being received by him, appeal to the Minister.
 
 (2) An appeal against the order or decision of an officer appointed under subsection (1a) of section 3 or any suitable person appointed under section 122al shall not be brought to the Minister unless and until such appeal shall have first been brought to the Director within the time stipulated in subsection (1).
 
 (3) The decision of the Minister in respect of an appeal under this section shall be final.
 
-Failure to 122ap. Any employer who fails to comply comply with with any order made under section 122b, 122e, order under 122i, 122l or 122p commits an offence and section 122b, shall, on conviction, be liable to a fine not 122e, 122i, exceeding fifty thousand ringgit and shall 122l or 122p. also, in the case of a continuing offence, be liable to a daily fine not exceeding one thousand ringgit for each day the offence continues after conviction.”.
+<!-- marginal: Failure to -->
+
+122ap. Any employer who fails to comply
+
+<!-- marginal: comply with -->
+
+with any order made under section 122b, 122e,
+
+<!-- marginal: order under -->
+
+122i, 122l or 122p commits an offence and
+
+<!-- marginal: section 122b, -->
+
+shall, on conviction, be liable to a fine not
+
+<!-- marginal: 122E, 122I, -->
+
+exceeding fifty thousand ringgit and shall
+
+<!-- marginal: 122L OR 122P. -->
+
+also, in the case of a continuing offence, be liable to a daily fine not exceeding one thousand ringgit for each day the offence continues after conviction.”.
 
 ### New sections 124ba and 124bb
 
 53. The Ordinance is amended by inserting after section 124b the following sections:
 
-“Jurisdiction. 124ba. (1) Notwithstanding the provisions of the Subordinate Courts Act 1948 [Act 92], all penalties for offences against this Ordinance may be had and recovered in the Sessions Court or the Court of a First Class Magistrate on complaint by any person aggrieved or by the Director or any person authorized by him in writing in that behalf.
+<!-- marginal: “Jurisdiction. -->
+
+124ba. (1) Notwithstanding the provisions of the Subordinate Courts Act 1948 [Act 92], all penalties for offences against this Ordinance may be had and recovered in the Sessions Court or the Court of a First Class Magistrate on complaint by any person aggrieved or by the Director or any person authorized by him in writing in that behalf.
+
+<!-- marginal: WJW24/1123 BI.indd 70 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 71 -->
 
 (2) Notwithstanding the provisions of any written law to the contrary, the Court of a First Class Magistrate shall have jurisdiction to try any offence under this Ordinance and to award the full punishment for any such offence.
 
-Court order for 124bb. (1) Where an employer has been payments due convicted of an offence relating to the payment to employee. of wages or any other payments payable to the employee under this Ordinance, the court before which he is convicted may order the employer to pay any payment due to the employee in relation to that offence.
+<!-- marginal: Court order for -->
+
+124bb. (1) Where an employer has been
+
+<!-- marginal: payments due -->
+
+convicted of an offence relating to the payment
+
+<!-- marginal: to employee. -->
+
+of wages or any other payments payable to the employee under this Ordinance, the court before which he is convicted may order the employer to pay any payment due to the employee in relation to that offence.
 
 (2) Where an employer fails to comply with an order made under subsection (1), the court shall, on the application of the employee, issue a warrant to levy the employer’s property for any payments due under that subsection in the following manner:
 
@@ -1409,6 +2367,8 @@ Court order for 124bb. (1) Where an employer has been payments due convicted of 
 ### Amendment of section 125a
 
 54. Section 125a of the Ordinance is amended by substituting for the words “and all officers” the words “, any officer or person”.
+
+<!-- marginal: WJW24/1123 BI.indd 71 -->
 
 <!-- page 72 -->
 
@@ -1429,6 +2389,8 @@ if the act was done in good faith and in a reasonable belief that it was necessa
 ### Amendment of section 127
 
 56. Section 127 of the Ordinance is amended by inserting after the words “under section 8a” the words “, 9d or 19a”.
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 73 -->
 
@@ -1460,11 +2422,13 @@ if the act was done in good faith and in a reasonable belief that it was necessa
 
 59. Section 130c of the Ordinance is amended—
 
-(a) in paragraph (a), by substituting for the words “subsection (1) of section 8a, subsection (1) of section 8c or subsection
-
-(1) of section 8d” the words “Chapter IIa”;
+(a) in paragraph (a), by substituting for the words “subsection (1) of section 8a, subsection (1) of section 8c or subsection (1) of section 8d” the words “Chapter IIa”;
 
 (b) by substituting for the words “ten thousand ringgit” the words “fifty thousand ringgit”; and
+
+<!-- marginal: WJW24/1123 BI.indd 73 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 74 -->
 
@@ -1493,6 +2457,8 @@ if the act was done in good faith and in a reasonable belief that it was necessa
 ### Deletion of section 130g
 
 63. The Ordinance is amended by deleting section 130g.
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 75 -->
 
@@ -1526,13 +2492,27 @@ if the act was done in good faith and in a reasonable belief that it was necessa
 
 (b) by substituting for the words “six months” the words “a term not exceeding one year”.
 
+<!-- marginal: WJW24/1123 BI.indd 75 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 76 -->
 
-### New section 130la
+<!-- marginal: New section 130la -->
 
 68. The Ordinance is amended by inserting after section 130l the following section:
 
-“Offence by 130la. (1) Where an offence under this body corporate, Ordinance has been committed by a body etc. corporate, partnership, society or trade union—
+<!-- marginal: “Offence by -->
+
+130la. (1) Where an offence under this
+
+<!-- marginal: body corporate, -->
+
+Ordinance has been committed by a body
+
+<!-- marginal: etc. -->
+
+corporate, partnership, society or trade union—
 
 (a) in the case of a body corporate, an officer as defined under the Companies Act 2016 [Act 777] of the body corporate at the time of the commission of the offence;
 
@@ -1545,6 +2525,10 @@ shall be deemed to have committed the offence and may be charged jointly or seve
 (2) If the body corporate, partnership, society or trade union is found guilty of the offence, the person referred to under paragraph (a), (b) or (c) of subsection (1) shall be deemed to be guilty of that offence and shall be liable to the same punishment or penalty as an individual unless, having regard to the nature of his functions in the capacity and to all circumstances, he proves—
 
 (i) that the offence was committed without his knowledge; or
+
+<!-- marginal: WJW24/1123 BI.indd 76 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 77 -->
 
@@ -1565,6 +2549,10 @@ shall be deemed to have committed the offence and may be charged jointly or seve
 (a) by substituting for the words “may, compound” the words “may compound, with the consent in writing of the Public Prosecutor,”; and
 
 (b) by substituting for the words “any rule” the words “any subsidiary legislation”.
+
+<!-- marginal: WJW24/1123 BI.indd 77 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 78 -->
 
@@ -1594,6 +2582,10 @@ shall be deemed to have committed the offence and may be charged jointly or seve
 
 (A) in subparagraph (i), by inserting after the semi colon at the end of the subparagraph the word “and”;
 
+<!-- marginal: WJW24/1123 BI.indd 78 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 79 -->
 
 (B) in subparagraph (ii), by deleting the word “and” at the end of the subparagraph; and
@@ -1620,6 +2612,10 @@ shall be deemed to have committed the offence and may be charged jointly or seve
 
 (a) prescribing the minimum requirements for various classes of buildings (including temporary buildings) to be used for the housing of employees, or as nurseries or community halls, the minimum sanitary requirements, water supplies, potable water supplies and electricity supplies and other matters pertaining to health in respect of such buildings;
 
+<!-- marginal: WJW24/1123 BI.indd 79 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 80 -->
 
 (b) prescribing the minimum requirements for various classes of buildings to be used for the accommodation and centralized accommodation of employees and the minimum sanitary requirements, water supplies, potable water supplies and electricity supplies and other matters pertaining to health in respect of such buildings;
@@ -1640,6 +2636,10 @@ shall be deemed to have committed the offence and may be charged jointly or seve
 
 (g) prescribing the procedure for the submission and approval of plans of buildings and their sites;
 
+<!-- marginal: WJW24/1123 BI.indd 80 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 81 -->
 
 (h) prescribing the form of any register, summons or order required to be kept, issued or made under Part IVa; and
@@ -1658,15 +2658,23 @@ shall be deemed to have committed the offence and may be charged jointly or seve
 
 73. The Schedule to the Ordinance is amended by substituting for the Schedule the following schedule:
 
-“first schedule
+## “FIRST SCHEDULE
 
 [Subsection (1) of section 2]
 
-(1) (2) Employee Provision of the Ordinance Not Applicable
+(1)
+
+<!-- marginal: (2) -->
+
+Employee Provision of the Ordinance Not Applicable
 
 1. Any person who has entered into a contract of service
 
 2. Notwithstanding paragraph 1, Definitions of “normal hours of the person whose wages exceeds work” and “overtime” in section 2, four thousand ringgit a month and subsections (6), (7), (8), (9) and (10) of section 104, and subsection (6) of section 105, and subsections (2), (3), (4) and (5) of section 105c, and section 105f, and paragraph (r) of subsection (2) of section 130o
+
+<!-- marginal: WJW24/1123 BI.indd 81 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 82 -->
 
@@ -1680,37 +2688,37 @@ shall be deemed to have committed the offence and may be charged jointly or seve
 
 (c) he supervises or oversees other employees engaged in manual labour employed by the same employer in and throughout the performance of their work
 
-(d) he is engaged in any capacity Definitions of “approved incentive in any vessel registered in payment scheme”, “hourly rate of Malaysia and who— pay”, “normal hours of work”, “ordinary rate of pay” and “overtime” in section 2, and subsections (3), (4) and (5) of section 2, and sections 104, 105, 105a, 105b, 105c, 105d, 105e and 105ea, and subsection (2) of section 106
+(d) he is engaged in any capacity Definitions of “approved incentive in any vessel registered in payment scheme”, “hourly rate of Malaysia and who— pay”, “normal hours of work”, “ordinary rate of pay” and “overtime” in section 2, and subsections (3), (4) and (5) of section 2, and sections 104, 105, 105A, 105B, 105C, 105D, 105E and 105ea, and subsection (2) of section 106 (i) is not an officer certificated under the Merchant Shipping Acts of the United Kingdom as amended from time to time
 
-(i) is not an officer certificated under the Merchant Shipping Acts of the United Kingdom as amended from time to time
+<!-- marginal: WJW24/1123 BI.indd 82 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 83 -->
 
-(1) (2) Employee Provision of the Ordinance Not Applicable
+(1)
 
-(ii) is not the holder of a local certificate as defined in Part VII of the Merchant Shipping Ordinance 1952 [Ordinance 70/1952]
+<!-- marginal: (2) -->
 
-(iii) has not entered into an agreement under
+Employee Provision of the Ordinance Not Applicable (ii) is not the holder of a local certificate as defined in Part VII of the Merchant Shipping Ordinance 1952 [Ordinance 70/1952] (iii) has not entered into an agreement under Part III of the Merchant Shipping Ordinance 1952
 
-## Part III of the Merchant
-
-Shipping Ordinance 1952
-
-(e) he is engaged as a domestic Definitions of “approved incentive employee payment scheme”, “hourly rate of pay”, “normal hours of work”, “ordinary rate of pay” and “overtime” in section 2, and subsections (3), (4) and (5) of section 2, and sections 11 and 12, and subsections (1) and (2) of section 14, and sections 58 and 59, and Chapter XIb, and sections 103, 104, 105, 105a, 105c, 105d, 105e, 105ea and 105f, and subsection (2) of section 106, and sections 119a, 119c, 119d and 119e, and Part IVa
-
-4. For the purposes of this First Schedule, “wages” means wages as defined in section 2, but shall not include any payment by way of commission, subsistence allowance and overtime payment”.
+(e) he is engaged as a domestic Definitions of “approved incentive employee payment scheme”, “hourly rate of pay”, “normal hours of work”, “ordinary rate of pay” and “overtime” in section 2, and subsections (3), (4) and (5) of section 2, and sections 11 and 12, and subsections (1) and (2) of section 14, and sections 58 and 59, and Chapter XIb, and sections 103, 104, 105, 105A, 105C, 105D, 105E, 105ea and 105f, and subsection (2) of section 106, and sections 119a, 119c, 119d and 119e, and Part IVa 4. For the purposes of this First Schedule, “wages” means wages as defined in section 2, but shall not include any payment by way of commission, subsistence allowance and overtime payment”.
 
 ### New Second and Third Schedules
 
 74. The Ordinance is amended by inserting after the First Schedule the following schedules:
 
-“second schedule
+## “SECOND SCHEDULE
 
 [Subsection (6) of section 73]
 
 Employment in which children or young persons shall not be required, permitted to be or engaged in—
 
 1. All kind of employment that make use of, procure, or offer children or young persons for prostitution.
+
+<!-- marginal: WJW24/1123 BI.indd 83 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 84 -->
 
@@ -1728,7 +2736,7 @@ Employment in which children or young persons shall not be required, permitted t
 
 8. All kind of activity that make use of, procure or involve children or young persons to conduct begging for gain.
 
-## third schedule
+## THIRD SCHEDULE
 
 [Subsection (7) of section 73]
 
@@ -1749,6 +2757,10 @@ Employment in which children or young persons shall not be required, permitted t
 (d) High pressure vessels.
 
 2. Heavy-duty machine such as tractors, rock breakers, graders, asphalt mixers, piling machine and agriculture machinery.
+
+<!-- marginal: WJW24/1123 BI.indd 84 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 85 -->
 
@@ -1788,6 +2800,10 @@ Employment in which children or young persons shall not be required, permitted t
 
 (b) Work in relation to production, processing, handling, storage, transport, removal, disposal or treatment of pesticides and scheduled waste as defined in the Pesticides Act 1974 [Act 149] and the Environmental Quality (Scheduled Wastes) Regulations 2005 [P.U. (A) 294/2005].
 
+<!-- marginal: WJW24/1123 BI.indd 85 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 86 -->
 
 3. Work that is exposed to biological hazards—
@@ -1816,6 +2832,8 @@ Work in an environment that relates to germs, bacteria, viruses, fungi, parasite
 
 (4) Any order, notice, summons, form or directive made, issued or given under the Ordinance before the date of coming into operation of this Act shall, in so far as it is consistent with this Act, continue to be valid and be deemed to have been made, issued or given under the provisions of the Ordinance as amended by this Act.
 
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 87 -->
 
 ## EXPLANATORY STATEMENT
@@ -1837,6 +2855,10 @@ This Bill seeks to amend the Sarawak Labour Ordinance (Sarawak Cap 76) (“the O
 8. Clause 7 seeks to amend paragraph 8a(2)(b) of the Ordinance to expand the power of the Director to hear and decide any claim made by a contractor for labour for any work done on behalf of the principal by the contractor or subcontractor.
 
 9. Clause 8 seeks to amend paragraph 8b(b) of the Ordinance as the power of the Minister under the Industrial Relations Act 1967 [Act 177] have been deleted and to maintain the limitation of powers of the Director not to hear and decide the decisions which have been decided under Act 177.
+
+<!-- marginal: WJW24/1123 BI.indd 87 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 88 -->
 
@@ -1866,6 +2888,8 @@ This Bill seeks to amend the Sarawak Labour Ordinance (Sarawak Cap 76) (“the O
 
 22. Clause 22 seeks to delete Chapter XIa of the Ordinance to comply with the requirement of the International Labour Organization in respect of the restriction of women in an employment.
 
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 89 -->
 
 23. Clause 23 seeks to amend the heading of Chapter XIb of the Ordinance to substitute for the words “MATERNITY PROTECTION.” the words
@@ -1889,6 +2913,10 @@ This Bill seeks to amend the Sarawak Labour Ordinance (Sarawak Cap 76) (“the O
 31. Clause 32 seeks to amend subsection 103(1) of the Ordinance to widen the application of the section by allowing advances to be made to an employee for various purposes such as payment for daily expenses and other necessary expenses to finance the needs of employees and their immediate family members. This clause also seeks to insert new subsection 103(1a) into the Ordinance to provide for new definition of “immediate family members” for the purpose of this section.
 
 32. Clause 33 seeks to amend subsection 104(1) of the Ordinance to increase the entitlement of minimum days of paid public holiday and other matters relating to it.
+
+<!-- marginal: WJW24/1123 BI.indd 89 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 90 -->
 
@@ -1914,6 +2942,8 @@ This Bill seeks to amend the Sarawak Labour Ordinance (Sarawak Cap 76) (“the O
 
 43. Clauses 45 and 46 seek to amend the words “subcontractor for labour” in subsections 117a(1) and 117b(1) of the Ordinance with the words “contractor for labour” as a consequence of the deletion of the definition of “subcontractor for labour” and the introduction of new definition of “contractor for labour” into the Ordinance.
 
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 91 -->
 
 44. Clause 47 seeks to insert new section 117d into the Ordinance to impose obligations on a contractor for labour who intends or undertakes to supply any employee to register with the Director in a prescribed form within fourteen days before supplying the employees. This clause also seeks to require the contractor for labour to keep or maintain information of the supplied labour in a register and such register shall be made available for inspection. This proposed new section 117d also seeks to provide for penal provision for non-compliance of any provisions under this section.
@@ -1931,6 +2961,10 @@ This Bill seeks to amend the Sarawak Labour Ordinance (Sarawak Cap 76) (“the O
 50. Clause 53 seeks to insert new sections 124ba and 124bb into the Ordinance to empower the Court of a First Class Magistrate to try any offence and to impose the full punishment under the Ordinance. This clause also seeks to empower the Magistrate Court as provided under the Rules of Court 2012 [P.U. (A) 205/2012] and the Criminal Procedure Code [Act 593] to order an employer to pay any payment due to an employee upon conviction of the employer of any offence under the Ordinance.
 
 51. Clause 54 seeks to amend section 125a of the Ordinance by substituting for the words “and all officers” the words “, any officer or person” to widen the scope for deeming provision of public servant within the meaning of the Penal Code.
+
+<!-- marginal: WJW24/1123 BI.indd 91 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->
 
 <!-- page 92 -->
 
@@ -1958,6 +2992,8 @@ This Bill seeks to amend the Sarawak Labour Ordinance (Sarawak Cap 76) (“the O
 
 63. Clause 71 seeks to amend section 130o of the Ordinance to empower the Minister to make rules, among others, relating to flexible working arrangement, minimum requirement of building, conditions peculiar to the State of Sarawak and any other matters that may be prescribed by the Minister under the Ordinance.
 
+<!-- marginal: 06/12/2024 5:56 PM -->
+
 <!-- page 93 -->
 
 64. Clause 72 seeks to insert new section 130p into the Ordinance to provide that any amendment to the Ordinance shall only be made after consultation with the State Authority.
@@ -1974,4 +3010,8 @@ This Bill seeks to amend the Sarawak Labour Ordinance (Sarawak Cap 76) (“the O
 
 This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
 
-[PN(U2)3365]
+<!-- marginal: [PN(U2)3365] -->
+
+<!-- marginal: WJW24/1123 BI.indd 93 -->
+
+<!-- marginal: 06/12/2024 5:56 PM -->

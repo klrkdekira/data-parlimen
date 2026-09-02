@@ -22,7 +22,19 @@
 
 6. Keanggotaan Perbadanan 7. Tempoh jawatan 8. Peletakan dan pembatalan jawatan 9. Pengosongan jawatan
 
-10. Saraan dan elaun 11. Ketua Pengarah dan Timbalan Ketua Pengarah 12. Mesyuarat 13. Perbadanan boleh mengundang orang lain untuk menghadiri mesyuarat 14. Kuasa Menteri untuk memberikan arahan dan menghendaki maklumat 15. Penzahiran kepentingan 16. Minit
+10. Saraan dan elaun
+
+11. Ketua Pengarah dan Timbalan Ketua Pengarah
+
+12. Mesyuarat
+
+13. Perbadanan boleh mengundang orang lain untuk menghadiri mesyuarat
+
+14. Kuasa Menteri untuk memberikan arahan dan menghendaki maklumat
+
+15. Penzahiran kepentingan
+
+16. Minit
 
 <!-- page 2 -->
 
@@ -34,7 +46,9 @@ III
 
 17. Fungsi Perbadanan
 
-18. Kuasa Perbadanan 19. Perbadanan boleh menubuhkan jawatankuasa
+18. Kuasa Perbadanan
+
+19. Perbadanan boleh menubuhkan jawatankuasa
 
 20. Pewakilan fungsi atau kuasa Perbadanan
 
@@ -184,7 +198,9 @@ Perbadanan Harta Intelek Malaysia 7
 
 4. (1) Tertakluk kepada Akta ini, Menteri boleh, dari semasa ke semasa, melalui perintah yang disiarkan dalam Warta, menetapkan suatu tarikh letak hak dan pada tarikh itu segala harta Kerajaan Malaysia dan segala hak atau liabiliti Kerajaan Malaysia, Pendaftar atau Pengawal yang ditentukan oleh Menteri dalam perintah itu hendaklah, menurut kuasa Akta ini, berpindah kepada dan terletak hak pada Perbadanan tanpa apa-apa pemindahhakan, penyerahhakan atau pemindahan hakmilik.
 
-(2) Tiap-tiap harta yang terletak hak menurut kuasa subseksyen (1) pada Perbadanan hendaklah terletak hak sedemikian pada Perbadanan dengan hakmilik, harta atau kepentingan yang serupa dan pemegangan yang serupa sebagaimana harta itu terletak hak atau dipegang sebaik sebelum tarikh letak hak itu.
+(2) Tiap-tiap harta yang terletak hak menurut kuasa subseksyen
+
+(1) pada Perbadanan hendaklah terletak hak sedemikian pada Perbadanan dengan hakmilik, harta atau kepentingan yang serupa dan pemegangan yang serupa sebagaimana harta itu terletak hak atau dipegang sebaik sebelum tarikh letak hak itu.
 
 (3) Tiap-tiap hak dalam tindakan yang terletak hak menurut kuasa subseksyen (1) pada Perbadanan boleh, pada dan selepas tarikh letak hak itu, dituntut melalui guaman, didapatkan atau dikuatkuasakan oleh Perbadanan atas namanya sendiri dan tidaklah perlu bagi Perbadanan, Kerajaan Malaysia, Pendaftar atau Pengawal memberikan notis kepada orang yang terikat dengan hak dalam tindakan itu mengenai peletakhakan yang dibuat di bawah subseksyen (1).
 
@@ -474,7 +490,9 @@ mengemaskinikan Perundangan Harta Intelek;
 
 21. (1) Perbadanan hendaklah, pada tarikh yang ditetapkan, menerima ke dalam penggajiannya tiap-tiap orang yang sebaik sebelum tarikh itu berada dalam penggajian atau perkhidmatan Bahagian Harta Intelek, Kementerian Perdagangan Dalam Negeri dan Hal Ehwal Pengguna, Malaysia dan yang telah diberi pilihan oleh Kerajaan Malaysia dan telah memilih untuk berkhidmat sebagai pekerja Perbadanan.
 
-(2) Tiap-tiap orang sedemikian yang memilih di bawah subseksyen (1) untuk berkhidmat sebagai pekerja Perbadanan hendaklah diambil kerja oleh Perbadanan atas terma dan syarat perkhidmatan yang tidak kurang baiknya daripada terma dan syarat perkhidmatan yang kepadanya dia berhak sebaik sebelum tarikh yang ditetapkan.
+(2) Tiap-tiap orang sedemikian yang memilih di bawah subseksyen
+
+(1) untuk berkhidmat sebagai pekerja Perbadanan hendaklah diambil kerja oleh Perbadanan atas terma dan syarat perkhidmatan yang tidak kurang baiknya daripada terma dan syarat perkhidmatan yang kepadanya dia berhak sebaik sebelum tarikh yang ditetapkan.
 
 (3) Sehingga terma dan syarat perkhidmatan pekerjanya ditentukan oleh Perbadanan, skim dan terma dan syarat perkhidmatan pekerja Kerajaan hendaklah terus terpakai bagi tiap-tiap orang yang diambil kerja oleh Perbadanan di bawah subseksyen (1).
 
@@ -516,7 +534,9 @@ orang itu ketika berada dalam penggajian Kerajaan sebelum memilih untuk memasuki
 
 (2) Sesuatu perintah, keputusan atau arahan yang dibuat atau diberikan oleh sesuatu pihak berkuasa tatatertib Perbadanan menurut seksyen ini hendaklah berkenaan dengan pekerja sedemikian mempunyai kuat kuasa dan kesan yang sama dengan perintah, keputusan atau arahan yang dibuat atau diberikan oleh Pihak Berkuasa Tatatertib, Lembaga Tatatertib atau Lembaga Rayuan Tatatertib, mengikut mana-mana yang berkenaan, di bawah undang-undang yang disebut dalam subseksyen (1).
 
-(3) Menteri boleh melalui perintah membuat apa-apa ubahsuaian yang perlu kepada undang-undang yang disebut dalam subseksyen (1) dalam pemakaiannya kepada pekerja sedemikian bagi maksud menghapuskan kesulitan yang berbangkit daripada peruntukan subseksyen itu.
+(3) Menteri boleh melalui perintah membuat apa-apa ubahsuaian yang perlu kepada undang-undang yang disebut dalam subseksyen
+
+(1) dalam pemakaiannya kepada pekerja sedemikian bagi maksud menghapuskan kesulitan yang berbangkit daripada peruntukan subseksyen itu.
 
 ### Perlindungan daripada liabiliti diri
 
@@ -850,9 +870,13 @@ Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan
 
 24. Regulations with respect to employment
 
-25. Continuation and completion of disciplinary proceedings 26. Protection from personal liability
+25. Continuation and completion of disciplinary proceedings
 
-27. Public servants 28. Public Authorities Protection Act 1948
+26. Protection from personal liability
+
+27. Public servants
+
+28. Public Authorities Protection Act 1948
 
 ## PART V
 
@@ -860,7 +884,9 @@ Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan
 
 29. The Fund
 
-30. Expenditure to be charged on the Fund 31. Expenditure and preparation of estimates
+30. Expenditure to be charged on the Fund
+
+31. Expenditure and preparation of estimates
 
 32. Conservation of the Fund
 
@@ -868,7 +894,9 @@ Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan
 
 34. Power to borrow
 
-35. Investment 36. Payment to the Federal Consolidated Fund
+35. Investment
+
+36. Payment to the Federal Consolidated Fund
 
 <!-- page 35 -->
 

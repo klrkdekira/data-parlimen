@@ -272,9 +272,7 @@ he shall refer the application to be approved by the State Authority.”.
 
 ### “Compounding of offences
 
-### 429 B.
-
-(1) The State Director or Land Administrator may, with the written consent of the Public Prosecutor, make a written offer to the person reasonably suspected of having committed an offence to compound the offence upon payment to the State Director or Land Administrator such amount not exceeding fifty per centum of the amount of maximum fine for that offence within such time as may be specified in the offer.
+429B. (1) The State Director or Land Administrator may, with the written consent of the Public Prosecutor, make a written offer to the person reasonably suspected of having committed an offence to compound the offence upon payment to the State Director or Land Administrator such amount not exceeding fifty per centum of the amount of maximum fine for that offence within such time as may be specified in the offer.
 
 <!-- page 11 -->
 
@@ -682,7 +680,7 @@ Plan
 
 Dated this................day of................., 20.....
 
-[Digital Signature]
+<!-- marginal: [Digital Signature] -->
 
 * Enter as appropriate
 
@@ -740,7 +738,7 @@ No. of immediately preceding title (if different from above):...................
 
 ## ** OTHER MATTERS AFFECTING TITLE
 
-[Digital Signature]
+<!-- marginal: [Digital Signature] -->
 
 * Enter as appropriate ** Enter when appropriate
 
@@ -806,7 +804,7 @@ No. of immediately preceding title (if different from above):...................
 
 ## ** OTHER MATTERS AFFECTING TITLE
 
-[Digital Signature]
+<!-- marginal: [Digital Signature] -->
 
 * Enter as appropriate ** Enter when appropriate
 
@@ -868,7 +866,7 @@ No. of immediately preceding title (if different from above): …….......…�
 
 ## ** OTHER MATTERS AFFECTING TITLE
 
-[Digital Signature]
+<!-- marginal: [Digital Signature] -->
 
 * Enter as appropriate ** Enter when appropriate
 
@@ -932,7 +930,7 @@ No. of immediately preceding title (if different from above):…….......……
 
 ## ** OTHER MATTERS AFFECTING TITLE
 
-[Digital Signature]
+<!-- marginal: [Digital Signature] -->
 
 * Enter as appropriate ** Enter when appropriate
 
@@ -1002,13 +1000,13 @@ No. of immediately preceding title (if different from above): …….........…
 
 ## ** OTHER MATTERS AFFECTING TITLE
 
-[Digital Signature]
+<!-- marginal: [Digital Signature] -->
 
 * Enter as appropriate ** Enter when appropriate
 
 Title ID : Date : Version No. : Page :
 
-## *CRDT/CIDT
+<!-- marginal: *CRDT/CIDT -->
 
 <!-- page 33 -->
 
@@ -1070,7 +1068,7 @@ No. of immediately preceding title (if different from above)……………:
 
 ## ** OTHER MATTERS AFFECTING TITLE
 
-[Digital Signature]
+<!-- marginal: [Digital Signature] -->
 
 * Enter as appropriate ** Enter when appropriate
 
@@ -1216,7 +1214,7 @@ Occupation will be subject to the provisions scheduled below and to any other pr
 
 Issued this ……….day of …………….., …………………
 
-[Digital Signature]
+<!-- marginal: [Digital Signature] -->
 
 ## DESCRIPTION OF LAND
 
@@ -1292,7 +1290,7 @@ is hereby permitted to enter on, and extract and remove rock material from, the 
 
 Issued this ……….day of …………….. 20.……
 
-[Digital Signature]
+<!-- marginal: [Digital Signature] -->
 
 ## DESCRIPTION OF LAND
 
@@ -1466,7 +1464,7 @@ Plan
 
 Issued this ……………… day of ……………………., ………….
 
-[Digital Signature]
+<!-- marginal: [Digital Signature] -->
 
 National Land Code
 
@@ -1604,4 +1602,4 @@ This Bill seeks to amend the National Land Code 1965 (“the Code”) which incl
 
 This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
 
-[PN(U2)2399/III]
+<!-- marginal: [PN(U2)2399/III] -->

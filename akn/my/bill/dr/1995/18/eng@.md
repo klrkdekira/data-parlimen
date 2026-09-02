@@ -4,19 +4,27 @@
 
 intituled
 
-An Act to amend the Penang Port Commission Act
-
-1955. [ ]
+An Act to amend the Penang Port Commission Act 1955. [ ]
 
 BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara dan Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
 
-Short title.
+<!-- marginal: Short title. -->
 
 1. This Act may be cited as the Penang Port Commission (Amendment) Act 1995.
 
-Amendment
+<!-- marginal: Amendment -->
 
-2. The Penang Port Commission Act 1955, which in this of section Act is referred to as the "principal Act", is amended in 33A Act 140 section 33A—
+2. The Penang Port Commission Act 1955, which in this
+
+<!-- marginal: of section -->
+
+Act is referred to as the "principal Act", is amended in
+
+<!-- marginal: 33A -->
+
+<!-- marginal: Act 140 -->
+
+section 33A—
 
 (a) in subsections (1) and (3) by substituting for the word "1989" the word "1990"; and
 
@@ -30,9 +38,13 @@ Amendment
 
 ## BILL
 
-New Part
+<!-- marginal: New Part -->
 
-3. The principal Act is amended by inserting after Part VI VIA. the following Part: "
+3. The principal Act is amended by inserting after Part VI
+
+<!-- marginal: VIA. -->
+
+the following Part: "
 
 ## PART VIA
 
@@ -40,25 +52,17 @@ New Part
 
 ## THE COMMISSION TO OTHER PORTS
 
-Power of
-
-80A. (1) The Minister may, by order published in Minister to the Gazette, extend the functions, powers, duties extend Com- mission's and jurisdiction of the Commission to other functions to ports. other ports.
+Power of 80A. (1) The Minister may, by order published in Minister to the Gazette, extend the functions, powers, duties extend Com- mission's and jurisdiction of the Commission to other functions to ports. other ports.
 
 (2) An order under subsection (1) may provide that the Commission shall, in carrying out the administration of the port to which its control is extended, include among its members such other person or persons as may be specified in the order either by name or by office.
 
-(3) Where an order is made under subsection
+(3) Where an order is made under subsection (1), the Commission shall be deemed for all purposes to be the port authority in respect of the port specified in the order as if it were the port authority established in respect of that port under this Act and shall in carrying out its functions be styled by such name as may be provided in the order.
 
-(1), the Commission shall be deemed for all purposes to be the port authority in respect of the port specified in the order as if it were the port authority established in respect of that port under this Act and shall in carrying out its functions be styled by such name as may be provided in the order.
-
-Commission
-
-80B. The Commission in carrying out its functions in carrying in respect of the port to which they are extended out its extended shall carry them out as if it were an independent functions port authority established in respect of such port. shall be deemed to be an independent port authority. Power of 80c. An order of the Minister under section 80A Minister may contain all such provisions as the Minister to make provisions may deem necessary to enable the Commission to for the carry out its functions in relation to the port to Commission to carry which they are extended. out its functions.
+Commission 80B. The Commission in carrying out its functions in carrying in respect of the port to which they are extended out its extended shall carry them out as if it were an independent functions port authority established in respect of such port. shall be deemed to be an independent port authority. Power of 80c. An order of the Minister under section 80A Minister may contain all such provisions as the Minister to make provisions may deem necessary to enable the Commission to for the carry out its functions in relation to the port to Commission to carry which they are extended. out its functions.
 
 <!-- page 3 -->
 
-Interpre-
-
-80D. For the purposes of this Part, "port" means tation. a port or place declared to be a port under section 70/52 5 of the Merchant Shipping Ordinance 1952.".
+Interpre- 80D. For the purposes of this Part, "port" means tation. a port or place declared to be a port under section 70/52 5 of the Merchant Shipping Ordinance 1952.".
 
 ## EXPLANATORY STATEMENT
 

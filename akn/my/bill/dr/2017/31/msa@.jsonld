@@ -153,7 +153,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/31/msa@/~cl_3",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (2)— “(bb) pembayaran anuiti menurut skim anuiti veteran;”; dan"
+        "@value": "dalam subseksyen (2)—"
       }
     },
     {
@@ -173,7 +173,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/31/msa@/~cl_3__para_b",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perenggan (ba) perenggan yang berikut:"
+        "@value": "dengan memasukkan selepas perenggan (ba) perenggan yang berikut: “(bb) pembayaran anuiti menurut skim anuiti veteran;”; dan"
       }
     },
     {

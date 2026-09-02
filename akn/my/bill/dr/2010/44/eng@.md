@@ -34,7 +34,9 @@
 
 ## PERMIT, LICENCE AND CERTIFICATE
 
-11. Requirement for permit, licence and certificate 12. Application for permit, licence and certificate
+11. Requirement for permit, licence and certificate
+
+12. Application for permit, licence and certificate
 
 <!-- page 2 -->
 
@@ -102,7 +104,27 @@
 
 <!-- page 3 -->
 
-40. Uniform 41. Office and facility 42. Power to amend Schedule 43. Offence committed by body corporate 44. Offence committed by partner, agent or servant 45. General penalty 46. Compounding of offences 47. Institution of prosecution 48. Protection against suit and legal proceedings 49. Regulations 50. Savings and transitional provisions
+40. Uniform
+
+41. Office and facility
+
+42. Power to amend Schedule
+
+43. Offence committed by body corporate
+
+44. Offence committed by partner, agent or servant
+
+45. General penalty
+
+46. Compounding of offences
+
+47. Institution of prosecution
+
+48. Protection against suit and legal proceedings
+
+49. Regulations
+
+50. Savings and transitional provisions
 
 ## FIRST SCHEDULE
 
@@ -576,7 +598,9 @@ refuse to answer any question the answer to which would have a tendency to expos
 
 <!-- page 25 -->
 
-(8) If it is proved that an offence under this Act has been committed and that the plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article referred to in subsection (7) was the subject matter of or was used in the commission of such offence, the Magistrate shall order the plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article to be forfeited, and shall, in the absence of such proof, order its release.
+(8) If it is proved that an offence under this Act has been committed and that the plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article referred to in subsection
+
+(7) was the subject matter of or was used in the commission of such offence, the Magistrate shall order the plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article to be forfeited, and shall, in the absence of such proof, order its release.
 
 (9) Any plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article forfeited or deemed to be forfeited shall be disposed of in such manner as the Director General thinks fit.
 
@@ -774,7 +798,7 @@ if the act was done in good faith and in a reasonable belief that it was necessa
 
 ## PENINSULAR MALAYSIA
 
-Kuala Perlis
+<!-- marginal: Kuala Perlis -->
 
 (a) the Government jetty at the main road terminus on the left bank of Perlis River and foreshore for 27.4 metres up stream and 18.3 metres down stream thereof;
 
@@ -782,35 +806,59 @@ Kuala Perlis
 
 (c) the Kuala Perlis Lembaga Kemajuan Ikan Malaysia Complex located at Latitude 6˚ 24’ 0.87” East and Longitude 100˚ 07’ 53.37” East.
 
-Kuah, Langkawi The Government jetty
+<!-- marginal: Kuah, Langkawi -->
 
-Tanjung Lembung, Langkawi Tanjung Lembung wharf located at Latitude 6˚ 17’ 46.5675” North to 6˚ 17’ 31.9646” North Longitude 99˚ 47’ 26.7936” East to 99˚ 47’ 13.1856” East
+The Government jetty
 
-Tanjung Malai, Langkawi The wharf and jetty (including the approach bridge) under the jurisdiction of the Marine Department at Tanjung Malai, Pulau Langkawi between Latitude 6˚ 15’ 25.4905” North to 6˚ 15’ 36.4138” North Longitude 99˚ 43’ 58.4052” East to 99˚ 44’ 3.9953” East
+<!-- marginal: Tanjung Lembung, Langkawi -->
 
-Telok Ewa, Langkawi Telok Ewa Jetty
+Tanjung Lembung wharf located at Latitude 6˚ 17’ 46.5675” North to 6˚ 17’ 31.9646” North Longitude 99˚ 47’ 26.7936” East to 99˚ 47’ 13.1856” East
 
-Kuala Kedah The Government jetty at the main road terminus on the left bank of the Kedah River and foreshore for 22.7 metres on either side thereof
+<!-- marginal: Tanjung Malai, Langkawi -->
 
-Georgetown, Pulau Pinang (a) the wharf of the Pulau Pinang Port Commission; (b) the portion of the foreshore from the southern end of the Penang Port Commission area southward to the northern edge of the Pengkalan Raja Tun Uda;
+The wharf and jetty (including the approach bridge) under the jurisdiction of the Marine Department at Tanjung Malai, Pulau Langkawi between Latitude 6˚ 15’ 25.4905” North to 6˚ 15’ 36.4138” North Longitude 99˚ 43’ 58.4052” East to 99˚ 44’ 3.9953” East
+
+<!-- marginal: Telok Ewa, Langkawi -->
+
+Telok Ewa Jetty
+
+<!-- marginal: Kuala Kedah -->
+
+The Government jetty at the main road terminus on the left bank of the Kedah River and foreshore for 22.7 metres on either side thereof
+
+<!-- marginal: Georgetown, Pulau Pinang -->
+
+(a) the wharf of the Pulau Pinang Port Commission;
+
+(b) the portion of the foreshore from the southern end of the Penang Port Commission area southward to the northern edge of the Pengkalan Raja Tun Uda;
 
 <!-- page 34 -->
 
-(c) the jetty of Pengkalan Kedah located at Latitude 05˚ 25’ 30” North Longitude 100˚ 20’ 75” East; (d) the landing Pontoon maintained by the Pulau Pinang Yacht Base.
+(c) the jetty of Pengkalan Kedah located at Latitude 05˚ 25’ 30” North Longitude 100˚ 20’ 75” East;
 
-Batu Maung The Lembaga Kemajuan Ikan Malaysia Jetty located at Latitude 50˚ 17’ North Longitude 100˚ 17’ East
+(d) the landing Pontoon maintained by the Pulau Pinang Yacht Base.
 
-Butterworth
+<!-- marginal: Batu Maung -->
 
-(a) the piers operated by Pulau Pinang Port Commission; (b) the five berths of the Butterworth wharves;
+The Lembaga Kemajuan Ikan Malaysia Jetty located at Latitude 50˚ 17’ North Longitude 100˚ 17’ East
+
+<!-- marginal: Butterworth -->
+
+(a) the piers operated by Pulau Pinang Port Commission;
+
+(b) the five berths of the Butterworth wharves;
 
 (c) North Butterworth Container Terminal operated by Pulau Pinang Port Commission.
 
-Prai
+<!-- marginal: Prai -->
 
-(a) the portion of the south bank of the Prai River extending from Railway Passenger Jetty westward to the sea including the Pulau Pinang Port Commission landing stage and wharf and also the foreshore of the reclamation and ending at a distance of 237.8 metres southward from the southern tip of the lighter basin; (b) Bulk Cargo Terminal operated by Pulau Pinang Port Commission located at Latitude 5˚ 22’ North and Longitude 100˚ 22’ East.
+(a) the portion of the south bank of the Prai River extending from Railway Passenger Jetty westward to the sea including the Pulau Pinang Port Commission landing stage and wharf and also the foreshore of the reclamation and ending at a distance of 237.8 metres southward from the southern tip of the lighter basin;
 
-Lumut, Perak (a) the Public Works Department Jetty situated on the left bank of the River Dindings and the piece of land comprised within the following boundaries, North-Dindings River South Government Road East. A point of the left bank of the Dindings River 73.1 metres east of the water gate at the junction of Garling Place and Titi Panjang Road West-Public Works Department jetty (inclusive);
+(b) Bulk Cargo Terminal operated by Pulau Pinang Port Commission located at Latitude 5˚ 22’ North and Longitude 100˚ 22’ East.
+
+<!-- marginal: Lumut, Perak -->
+
+(a) the Public Works Department Jetty situated on the left bank of the River Dindings and the piece of land comprised within the following boundaries, North-Dindings River South Government Road East. A point of the left bank of the Dindings River 73.1 metres east of the water gate at the junction of Garling Place and Titi Panjang Road West-Public Works Department jetty (inclusive);
 
 <!-- page 35 -->
 
@@ -818,57 +866,95 @@ Lumut, Perak (a) the Public Works Department Jetty situated on the left bank of 
 
 (c) the wharf and jetty of the Lumut Maritime Terminal Sdn. Bhd., on the east bank of Sungai Dindings at Latitude 4˚ 15’ 34” North Longitude 100˚ 39’ 43” East and southern limit at Latitude 4˚ 15’ 11” North Longitude 100˚ 39’ 33” East.
 
-Telok Muruh, Mukim Lumut The jetty of the Marina Sactuary Resort Sdn. Bhd. Teluk Muruh, Lumut, Perak at Latitude 04˚ 12’ 05.0” North Longitude 100˚ 36’ 00.0” East
+<!-- marginal: Telok Muruh, Mukim Lumut -->
 
-Telok Anson The Telok Anson/Telok Intan Railway Wharf No. 2
+The jetty of the Marina Sactuary Resort Sdn. Bhd. Teluk Muruh, Lumut, Perak at Latitude 04˚ 12’ 05.0” North Longitude 100˚ 36’ 00.0” East
 
-Hutan Melintang
+<!-- marginal: Telok Anson -->
+
+The Telok Anson/Telok Intan Railway Wharf No. 2
+
+<!-- marginal: Hutan Melintang -->
 
 (a) Ghadaf Marble Sdn. Bhd. Jetty in Hutan River on the side of the state of Perak Longitude 100˚ 48’ 45” East to the east Melintang located at the bank of the Bernam between Latitude 3˚ 51’ 30” North to the west;
 
 (b) Ghadaf Marble Sdn. Bhd. Jetty in Hutan Melintang located at the bank of the Bernam River on the side of the state of Perak between Latitude 3˚ 51’ 30” North to the west Longitude 100˚ 48’ 33” East to the east.
 
-Pulau Lekir 1 The jetty of Lekir Bulk Terminal Sdn. Bhd. located at Latitude 4˚ 08’ 06” North, 4˚ 08’ 54” North, 4˚ 09’ 26.5” North and 4˚ 10’ 10.1” North Longitude 100˚ 37’ 42” East, 100˚ 37’ 13” East, 100˚ 38’ 23.1” East and 100˚ 38’ 29.3” East
+<!-- marginal: Pulau Lekir 1 -->
 
-Port Klang (a) the wharf and jetty of the Port Klang Authority on the east bank of the Klang Straits between Sungai Tiga and Sungai Puloh;
+The jetty of Lekir Bulk Terminal Sdn. Bhd. located at Latitude 4˚ 08’ 06” North, 4˚ 08’ 54” North, 4˚ 09’ 26.5” North and 4˚ 10’ 10.1” North Longitude 100˚ 37’ 42” East, 100˚ 37’ 13” East, 100˚ 38’ 23.1” East and 100˚ 38’ 29.3” East
+
+<!-- marginal: Port Klang -->
+
+(a) the wharf and jetty of the Port Klang Authority on the east bank of the Klang Straits between Sungai Tiga and Sungai Puloh;
 
 <!-- page 36 -->
 
-(b) that portion of the foreshore which extends from a position of 93.41 metres north of the passenger jetty Jalan Foreshore to the mouth of the Sungai Aur and thence along the bank of the Sungai Aur to and including the concrete jetty at the cattle quarantine station and including jetty, wharf and pontoon extending from the said foreshore and river bank and wharf; (c) the wharf and jetty of the Port Klang Authority on the west bank of Pulau Indah between Sungai Chandong Besar on the northern west port limit at Latitude 02˚ 55’ 48” North Longitude 101˚ 20’ 24.5” East and Sungai Lurus on southern west limit at Latitude 02˚ 54’ 05” North and Longitude 101˚ 17’ 10” East; (d) the Star Cruise Sdn. Bhd. extending for a distance of 247.31 metres to the sea located on the west bank of Pulau Indah north of Sungai Chandong Besar at the coordination Latitude 02˚ 59’ 05.415” North, 02˚ 59’ 06.003” North Longitude 101˚ 20’ 15.723” East, 101˚ 20’ 16.921” East; (e) the jetty of ASA Niaga Sdn. Bhd. at Port Klang located on the left bank of Sungai Klang between Latitude 03˚ 00’ 31.9294” North to 03˚ 00’ 26.1835” North Longitude 101˚ 23’ 28.4299” East to 101˚ 23’ 26.4980” East.
+(b) that portion of the foreshore which extends from a position of 93.41 metres north of the passenger jetty Jalan Foreshore to the mouth of the Sungai Aur and thence along the bank of the Sungai Aur to and including the concrete jetty at the cattle quarantine station and including jetty, wharf and pontoon extending from the said foreshore and river bank and wharf;
 
-Port Dickson The railway jetty
+(c) the wharf and jetty of the Port Klang Authority on the west bank of Pulau Indah between Sungai Chandong Besar on the northern west port limit at Latitude 02˚ 55’ 48” North Longitude 101˚ 20’ 24.5” East and Sungai Lurus on southern west limit at Latitude 02˚ 54’ 05” North and Longitude 101˚ 17’ 10” East;
 
-Mukim Jimah, Port Dickson The jetty of Jimah Energy Ventures Sdn. Bhd. for 1400 MV coal fired power plant, extending for a distance of 1.3 kilometre to sea, located at Latitude 2˚ 34’ 41.72712” North to 2˚ 34’ 44.33909” North Longitude 101˚ 42’ 51.19108” East to 101˚ 43’ 1.05072” East
+(d) the Star Cruise Sdn. Bhd. extending for a distance of 247.31 metres to the sea located on the west bank of Pulau Indah north of Sungai Chandong Besar at the coordination Latitude 02˚ 59’ 05.415” North, 02˚ 59’ 06.003” North Longitude 101˚ 20’ 15.723” East, 101˚ 20’ 16.921” East;
+
+(e) the jetty of ASA Niaga Sdn. Bhd. at Port Klang located on the left bank of Sungai Klang between Latitude 03˚ 00’ 31.9294” North to 03˚ 00’ 26.1835” North Longitude 101˚ 23’ 28.4299” East to 101˚ 23’ 26.4980” East.
+
+<!-- marginal: Port Dickson -->
+
+The railway jetty
+
+<!-- marginal: Mukim Jimah, Port Dickson -->
+
+The jetty of Jimah Energy Ventures Sdn. Bhd. for 1400 MV coal fired power plant, extending for a distance of 1.3 kilometre to sea, located at Latitude 2˚ 34’ 41.72712” North to 2˚ 34’ 44.33909” North Longitude 101˚ 42’ 51.19108” East to 101˚ 43’ 1.05072” East
 
 <!-- page 37 -->
 
-Melaka
+<!-- marginal: Melaka -->
 
-(a) that portion of the left bank of the Melaka River from the Ferry Jetty upstream to the wire fence surrounding the protected Melaka Port area; (b) that portion of right bank of the Melaka River from Central Melaka Town Council Jetty, Melaka, stretching upstream to the point directly the corner of the Government Godown;
+(a) that portion of the left bank of the Melaka River from the Ferry Jetty upstream to the wire fence surrounding the protected Melaka Port area;
+
+(b) that portion of right bank of the Melaka River from Central Melaka Town Council Jetty, Melaka, stretching upstream to the point directly the corner of the Government Godown;
 
 (c) the Tanjung Bruas jetty.
 
-Sungai Udang, Melaka The jetty and wharf of Sungai Udang Port Sdn. Bhd.
+<!-- marginal: Sungai Udang, Melaka -->
 
-Sungai Rambai The Government jetty 115.457 metres in length on the bank of Sungai Kesang located between points T60903.0 and S66630.5 in the north and T60952.8 and S666526.0 to the south
+The jetty and wharf of Sungai Udang Port Sdn. Bhd.
 
-Kuala Linggi, Melaka The Government jetty 1048.614 metres in length on the bank of Sungai Linggi, District of Alor Gajah, Melaka located between point (1) N-36700.667, E-34479.870 and point (2) N-36760.354, E-3833.803 within the fenced area of 8.8013 hectares comprising of the land occupied by Delta Management Sdn. Bhd., Lembaga Kemajuan Ikan Malaysia, Havest Rimba Sdn. Bhd. and Yayasan Alor Gajah located at Latitude 2˚ 23’ 21.9418” North Longitude 101˚ 58’ 27.5071” East and Latitude 2˚ 23’ 33.4572” North Longitude 101˚ 58’ 59.4635” East
+<!-- marginal: Sungai Rambai -->
 
-Muar The Government wharf at Bandar Maharani situated on the left bank of the Muar River directly in front of the Customs Office
+The Government jetty 115.457 metres in length on the bank of Sungai Kesang located between points T60903.0 and S66630.5 in the north and T60952.8 and S666526.0 to the south
 
-Batu Pahat The Government wharf at Bandar Penggarang, situated on the left bank of Sungai Batu Pahat, directly opposite the Customs Office and Customs Warehouse
+<!-- marginal: Kuala Linggi, Melaka -->
+
+The Government jetty 1048.614 metres in length on the bank of Sungai Linggi, District of Alor Gajah, Melaka located between point (1) N-36700.667, E-34479.870 and point (2) N-36760.354, E-3833.803 within the fenced area of 8.8013 hectares comprising of the land occupied by Delta Management Sdn. Bhd., Lembaga Kemajuan Ikan Malaysia, Havest Rimba Sdn. Bhd. and Yayasan Alor Gajah located at Latitude 2˚ 23’ 21.9418” North Longitude 101˚ 58’ 27.5071” East and Latitude 2˚ 23’ 33.4572” North Longitude 101˚ 58’ 59.4635” East
+
+<!-- marginal: Muar -->
+
+The Government wharf at Bandar Maharani situated on the left bank of the Muar River directly in front of the Customs Office
+
+<!-- marginal: Batu Pahat -->
+
+The Government wharf at Bandar Penggarang, situated on the left bank of Sungai Batu Pahat, directly opposite the Customs Office and Customs Warehouse
 
 <!-- page 38 -->
 
-Minyak Beku, Batu Pahat The jetty of the E.S. Ng. Building Products Sdn. Bhd., part of Lot PTD 3732 and part of Lot 4747, Mukim Minyak Beku District of Batu Pahat, Johor, located at Latitude 01˚ 47’ 44.50” North, 01˚ 47’ 44.67” North, 01˚ 47’ 43.90” North and 01˚ 47’ 43.82” North Longitude 114˚ 34’ 38.76” East, 114˚ 34’ 38.82” East, 114˚ 34’ 31.43” East and 114˚ 34’ 41.39” East
+<!-- marginal: Minyak Beku, Batu Pahat -->
 
-Kukup The Government wharf
+The jetty of the E.S. Ng. Building Products Sdn. Bhd., part of Lot PTD 3732 and part of Lot 4747, Mukim Minyak Beku District of Batu Pahat, Johor, located at Latitude 01˚ 47’ 44.50” North, 01˚ 47’ 44.67” North, 01˚ 47’ 43.90” North and 01˚ 47’ 43.82” North Longitude 114˚ 34’ 38.76” East, 114˚ 34’ 38.82” East, 114˚ 34’ 31.43” East and 114˚ 34’ 41.39” East
 
-Johor Bahru
+<!-- marginal: Kukup -->
 
-(a) the Government wharf at Johor Bahru adjacent to Sungai Segget; (b) the wharf at Tanjung Putri; (c) the Johor Bahru International Ferry Terminal jetty on the bank of the Straits of Tebrau, Lot PTB 20380, Mukim of Bandar Johor Bahru belonging to Kelana Megah Sdn. Bhd. located at Latitude 1˚ 28’ 21.7” North, 1˚ 28’ 20.8” North and 1˚ 28’ 20.5” North Longitude 103˚ 47’ 9.9” East, 103˚ 47’ 13” East and 103˚ 47’ 8.5” East.
+The Government wharf
 
-Pasir Gudang, Johor Bahru
+<!-- marginal: Johor Bahru -->
+
+(a) the Government wharf at Johor Bahru adjacent to Sungai Segget;
+
+(b) the wharf at Tanjung Putri;
+
+(c) the Johor Bahru International Ferry Terminal jetty on the bank of the Straits of Tebrau, Lot PTB 20380, Mukim of Bandar Johor Bahru belonging to Kelana Megah Sdn. Bhd. located at Latitude 1˚ 28’ 21.7” North, 1˚ 28’ 20.8” North and 1˚ 28’ 20.5” North Longitude 103˚ 47’ 9.9” East, 103˚ 47’ 13” East and 103˚ 47’ 8.5” East.
+
+<!-- marginal: Pasir Gudang, Johor Bahru -->
 
 (a) that portion of the fenced in area of the foreshore, including the mouth of Sungai Buluh, all jetties and all wharves of the Johor Port Authority, situated between the west bank of Sungai Perembi located at Latitude 01˚ 26’ 28” North Longitude 103˚ 53’ 16” East, thus to a line joining the western most dolphin of DCJ 4 located at Latitude 01˚ 26’ 27” North Longitude 103˚ 53’ 06” East and finally joining the line of Johor Port Water Limit at Latitude 01˚ 26’ 14” North Longitude 103˚ 53’ 06” East;
 
@@ -904,125 +990,245 @@ Kampung Tekek, Pulau Tioman The jetty of the Marine Department
 
 <!-- page 40 -->
 
-Kuantan
+<!-- marginal: Kuantan -->
 
-(a) the Government wharf; (b) the wharf of the Pahang Consolidated Co. Ltd.
+(a) the Government wharf;
 
-Tanjung Gelang, Kuantan The wharf of Kuantan Port Authority in the First Basin (Basin A)
+(b) the wharf of the Pahang Consolidated Co. Ltd.
 
-Kampung Lalang, Pulau Tioman The jetty of Berjaya Tioman Resort located at Latitude 02˚ 48’ 45” North and Longitude 104˚ 08’ 31” East
+<!-- marginal: Tanjung Gelang, Kuantan -->
 
-Chukai, Kemaman The Government wharf
+The wharf of Kuantan Port Authority in the First Basin (Basin A)
 
-Pelabuhan Kemaman (a) the wharf of the Kemaman Port Authority located on the reclaimed land at Lot PT 3180; (b) the area known as the West Wharf situated at Lot PT 3410, Mukim of Teluk Kalong in the District of Kemaman operated by PTB West Wharf Sdn. Bhd.
+<!-- marginal: Kampung Lalang, Pulau Tioman -->
 
-Bunga Bunga, Kelantan On the right bank of Sungai Golok at a distance of 182 metres beginning from the eastern border opposite the right side of road heading towards the Tanah Merah-Gerik highway (Bearing 347˚ 00’ 00” a distance of 33 metres from the boundary stone north of Lot 2449) to the western border (after the channel) (Bearing 325˚ 00’ 00” a distance of 93 metres from the boundary stone west of the said Lot) Pengkalan Jenut, Mukim of Nibong, District of Jedok Administration of Tanah Merah, Kelantan marked with a grey line in the Gazette Plan (PW 696) deposited in the office of the Director of Survey and Mapping Kelantan
+The jetty of Berjaya Tioman Resort located at Latitude 02˚ 48’ 45” North and Longitude 104˚ 08’ 31” East
 
-Kuala Terengganu
+<!-- marginal: Chukai, Kemaman -->
 
-(a) the Government wharf on the right bank of Sungai Terengganu in front of Jalan Hiliran; (b) the wharf on the right bank of Sungai Terengganu in front of the Customs Warehouse.
+The Government wharf
 
-Kuala Besut The right bank of the Sungai Besut for a distance of 45.7 metres on either side of the Customs Station
+<!-- marginal: Pelabuhan Kemaman -->
 
-Pengkalan Kubor The jetty of the Public Works Department and the Immigration Jetty on the right bank between them
+(a) the wharf of the Kemaman Port Authority located on the reclaimed land at Lot PT 3180;
+
+(b) the area known as the West Wharf situated at Lot PT 3410, Mukim of Teluk Kalong in the District of Kemaman operated by PTB West Wharf Sdn. Bhd.
+
+<!-- marginal: Bunga Bunga, Kelantan -->
+
+On the right bank of Sungai Golok at a distance of 182 metres beginning from the eastern border opposite the right side of road heading towards the Tanah Merah-Gerik highway (Bearing 347˚ 00’ 00” a distance of 33 metres from the boundary stone north of Lot 2449) to the western border (after the channel) (Bearing 325˚ 00’ 00” a distance of 93 metres from the boundary stone west of the said Lot) Pengkalan Jenut, Mukim of Nibong, District of Jedok Administration of Tanah Merah, Kelantan marked with a grey line in the Gazette Plan (PW 696) deposited in the office of the Director of Survey and Mapping Kelantan
+
+<!-- marginal: Kuala Terengganu -->
+
+(a) the Government wharf on the right bank of Sungai Terengganu in front of Jalan Hiliran;
+
+(b) the wharf on the right bank of Sungai Terengganu in front of the Customs Warehouse.
+
+<!-- marginal: Kuala Besut -->
+
+The right bank of the Sungai Besut for a distance of 45.7 metres on either side of the Customs Station
+
+<!-- marginal: Pengkalan Kubor -->
+
+The jetty of the Public Works Department and the Immigration Jetty on the right bank between them
 
 <!-- page 41 -->
 
-Kota Bharu The Customs wharf, the Railway jetty, the Penambang Haji Idris jetty and river bank between them
+<!-- marginal: Kota Bharu -->
+
+The Customs wharf, the Railway jetty, the Penambang Haji Idris jetty and river bank between them
 
 ## SABAH
 
-Kota Kinabalu, Sabah The wharf of the Sabah Port Authority
+<!-- marginal: Kota Kinabalu, Sabah -->
 
-Ranca-Ranca, Labuan The wharf and jetty of the Asian Supply Base, Ranca-Ranca, Labuan located at Latitude 05˚ 15’ 55” North Longitude 115˚ 14’ 56” East
+The wharf of the Sabah Port Authority
 
-Labuan The Government wharf and the Small Ships’ wharf
+<!-- marginal: Ranca-Ranca, Labuan -->
 
-Sandakan The wharf and jetty of the Sabah Port Authority
+The wharf and jetty of the Asian Supply Base, Ranca-Ranca, Labuan located at Latitude 05˚ 15’ 55” North Longitude 115˚ 14’ 56” East
 
-Kudat The wharf of the Sabah Port Authority
+<!-- marginal: Labuan -->
 
-Lahad Datu The wharf of the Sabah Port Authority
+The Government wharf and the Small Ships’ wharf
 
-Menumbok The Government wharf including landing ramp and the passenggers’ ferry jetty adjacent to it
+<!-- marginal: Sandakan -->
 
-Sipitang The Government wharf
+The wharf and jetty of the Sabah Port Authority
+
+<!-- marginal: Kudat -->
+
+The wharf of the Sabah Port Authority
+
+<!-- marginal: Lahad Datu -->
+
+The wharf of the Sabah Port Authority
+
+<!-- marginal: Menumbok -->
+
+The Government wharf including landing ramp and the passenggers’ ferry jetty adjacent to it
+
+<!-- marginal: Sipitang -->
+
+The Government wharf
 
 ## SARAWAK
 
-Bintangor Rejang Port Authority at Bintangor
+<!-- marginal: Bintangor -->
 
-Bintulu Bintulu Port Authority’s Wharf at Tanjung Kedurong located at— (a) Wharf No. 1 Latitude 3˚ 15’ 53.3785” North 3˚ 15’ 53.3855” North Longitude 113˚ 3’ 57.5312” East 113˚ 3’ 52.0233” East; (b) Wharf No. 2 Latitude 3˚ 15’ 53.3714” North 3˚ 15’ 53.3785” North Longitude 113˚ 4’ 3.0390” East 113˚ 3’ 57.5312” East; (c) Wharf No. 3 Latitude 3˚ 15’ 53.3641” North 3˚ 15’ 53.3714” North Longitude 113˚ 4’ 8.6927” East 113˚ 4’ 3.0390” East;
+Rejang Port Authority at Bintangor
+
+<!-- marginal: Bintulu -->
+
+Bintulu Port Authority’s Wharf at Tanjung Kedurong located at—
+
+(a) Wharf No. 1 Latitude 3˚ 15’ 53.3785” North 3˚ 15’ 53.3855” North Longitude 113˚ 3’ 57.5312” East 113˚ 3’ 52.0233” East;
+
+(b) Wharf No. 2 Latitude 3˚ 15’ 53.3714” North 3˚ 15’ 53.3785” North Longitude 113˚ 4’ 3.0390” East 113˚ 3’ 57.5312” East;
+
+(c) Wharf No. 3 Latitude 3˚ 15’ 53.3641” North 3˚ 15’ 53.3714” North Longitude 113˚ 4’ 8.6927” East 113˚ 4’ 3.0390” East;
 
 <!-- page 42 -->
 
-(d) Wharf No. 4 Latitude 3˚ 15’ 53.3545” North 3˚ 15’ 53.3641” North Longitude 113˚ 4’ 16.1283” East 113˚ 4’ 8.6927” East; (e) Wharf No. 5 Latitude 3˚ 15’ 53.3449” North 3˚ 15’ 53.3545” North Longitude 113˚ 4’ 23.5647” East 113˚ 4’ 16.1283” East; (f) Ro-Ro Ramp Latitude 3˚ 15’ 52.7343” North 3˚ 15’ 52.7354” North Longitude 113˚ 3’ 52.0225” East 113˚ 3’ 51.1963” East; (g) Bulk Cargo Wharf Latitude 3˚ 15’ 52.7354” North 3˚ 15’ 43.9436” North Longitude 113˚ 3’ 51.1963” East 113˚ 3’ 16.1851” East.
+(d) Wharf No. 4 Latitude 3˚ 15’ 53.3545” North 3˚ 15’ 53.3641” North Longitude 113˚ 4’ 16.1283” East 113˚ 4’ 8.6927” East;
 
-Kuala Lawas R.C. Jetty with a length of 83.50 metres and a width of 19.90 metres located at Latitude 4˚ 57’ 19” North and Longitude 115˚ 25’ 16” East
+(e) Wharf No. 5 Latitude 3˚ 15’ 53.3449” North 3˚ 15’ 53.3545” North Longitude 113˚ 4’ 23.5647” East 113˚ 4’ 16.1283” East;
 
-Kuching, Sarawak (a) Kuching Port Authority’s wharf at Tanah Puteh;
+(f) Ro-Ro Ramp Latitude 3˚ 15’ 52.7343” North 3˚ 15’ 52.7354” North Longitude 113˚ 3’ 52.0225” East 113˚ 3’ 51.1963” East;
+
+(g) Bulk Cargo Wharf Latitude 3˚ 15’ 52.7354” North 3˚ 15’ 43.9436” North Longitude 113˚ 3’ 51.1963” East 113˚ 3’ 16.1851” East.
+
+<!-- marginal: Kuala Lawas -->
+
+R.C. Jetty with a length of 83.50 metres and a width of 19.90 metres located at Latitude 4˚ 57’ 19” North and Longitude 115˚ 25’ 16” East
+
+<!-- marginal: Kuching, Sarawak -->
+
+(a) Kuching Port Authority’s wharf at Tanah Puteh;
 
 (b) Datuk Sim Kheng Hong wharf at Pending.
 
-Lawas Customs wharf
+<!-- marginal: Lawas -->
 
-Limbang Customs wharf
+Customs wharf
 
-Lundu Government wharf
+<!-- marginal: Limbang -->
 
-Marudi Customs wharf
+Customs wharf
 
-Miri The wharf of the Miri Port Authority
+<!-- marginal: Lundu -->
 
-Miri Port, Kuala Baram The wharf of Miri Port Authority at Kuala Baram comprising 6 wharves with length of 390 metres and width of 50 metres located at Latitude 4˚ 34’ 00” North and Longitude 114˚ 2’ 36” East
+Government wharf
 
-Senari Port, Kuching Kuching Port Authority’s wharf at Kampung Senari with a length of 635 metres and width of 45 metres located at Latitude 01˚ 37.01’ 0” North Longitude 110˚ 26.89’ 0” East
+<!-- marginal: Marudi -->
+
+Customs wharf
+
+<!-- marginal: Miri -->
+
+The wharf of the Miri Port Authority
+
+<!-- marginal: Miri Port, Kuala Baram -->
+
+The wharf of Miri Port Authority at Kuala Baram comprising 6 wharves with length of 390 metres and width of 50 metres located at Latitude 4˚ 34’ 00” North and Longitude 114˚ 2’ 36” East
+
+<!-- marginal: Senari Port, Kuching -->
+
+Kuching Port Authority’s wharf at Kampung Senari with a length of 635 metres and width of 45 metres located at Latitude 01˚ 37.01’ 0” North Longitude 110˚ 26.89’ 0” East
 
 <!-- page 43 -->
 
-Tanjung Manis, Port Sarikei Rejang Port Authority’s wharf at Tanjung Manis with a length of 202 metres and width of 47 metres located at Latitude 2˚ 9’ 23.5772” North Longitude 111˚ 20’ 16.2431” East
+<!-- marginal: Tanjung Manis, Port Sarikei -->
 
-Punang Customs wharf
+Rejang Port Authority’s wharf at Tanjung Manis with a length of 202 metres and width of 47 metres located at Latitude 2˚ 9’ 23.5772” North Longitude 111˚ 20’ 16.2431” East
 
-Sarikei Rejang Port Authority wharf at Sarikei
+<!-- marginal: Punang -->
 
-Sejingkat The wharf of the Kuching Port Authority, 125 metres in length situated on the left bank of the Sarawak River located at Latitude 01˚ 35.05’ 0” North Longitude 110˚ 25.25’ 0” East
+Customs wharf
 
-Semantan
+<!-- marginal: Sarikei -->
+
+Rejang Port Authority wharf at Sarikei
+
+<!-- marginal: Sejingkat -->
+
+The wharf of the Kuching Port Authority, 125 metres in length situated on the left bank of the Sarawak River located at Latitude 01˚ 35.05’ 0” North Longitude 110˚ 25.25’ 0” East
+
+<!-- marginal: Semantan -->
 
 (a) The wharf of the Depoh Harwood at Semantan, 1000 feet in length and width of 120 feet located at Latitude 10˚ 45’ 39” North Longitude 109˚ 45’ 18” East;
 
 (b) That portion of the foreshore adjacent to Semantan Bazaar for a distance 45.7 metres.
 
-Sibu Rejang Port Authority wharf at Sibu
+<!-- marginal: Sibu -->
 
-Sundar Customs wharf
+Rejang Port Authority wharf at Sibu
+
+<!-- marginal: Sundar -->
+
+Customs wharf
 
 ## BY ROAD OR RAILWAY
 
 ## PENINSULAR MALAYSIA
 
-Bukit Kayu Hitam (a) the Customs Office and all its ancillary buildings and structures situated within the Bukit Kayu Hitam Immigration Complex which is located along Sadao/Changlun trunk road between 8.9 kilometre north of Changlun and 0.69 kilometre south of Danork (Thailand) Immigration or Customs Check Point in the Mukim of Laka Temin, Kubang Pasu, Kedah; (b) the Customs Office and all its ancillary buildings and structures situated within the Lembaga Kemajuan Ikan Malaysia Examination Complex which is located
+<!-- marginal: Bukit Kayu Hitam -->
+
+(a) the Customs Office and all its ancillary buildings and structures situated within the Bukit Kayu Hitam Immigration Complex which is located along Sadao/Changlun trunk road between 8.9 kilometre north of Changlun and 0.69 kilometre south of Danork (Thailand) Immigration or Customs Check Point in the Mukim of Laka Temin, Kubang Pasu, Kedah;
+
+(b) the Customs Office and all its ancillary buildings and structures situated within the Lembaga Kemajuan Ikan Malaysia Examination Complex which is located
 
 <!-- page 44 -->
 
 along Sadao/Changlun trunk road between 9.1 kilometre north of Changlun and 0.67 kilometre south of Danork (Thailand) Immigration or Customs Check Point as prescribed in plan Lot No. PT 890 and PT 2180 in the Mukim of Laka Temin, Kubang Pasu, Kedah.
 
-Kota Putra, The Customs Office and all buildings Durian Burung, situated within the Immigration, Customs, Padang Terap Quarantine and Security Complex, Kota Putra, Durian Burung, Padang Terap, Kedah, at Latitude 6˚ 28’ 15.1332” North Longitude 100˚ 42’ 35.0808” East
+<!-- marginal: Kota Putra, -->
 
-Padang Besar
+The Customs Office and all buildings
 
-(a) the Customs Office, Padang Besar situated within the Railway Station Building; (b) the Customs Office, Padang Besar at Containers Yard located at Latitude 6˚ 39’ 45.45” North Longitude 100˚ 19’ 19.21” East; (c) the Customs Office and all its ancillary buildings and structures situated within the Padang Besar Government Offices Complex on the main road running from Padang Besar to Thailand and is located at Latitude: 6˚ 39’ 58” North Longitude 100˚ 19’ 23” East; (d) the Lembaga Kemajuan Ikan Malaysia Fish Examination Complex and all its ancillary buildings and structures on the east of the Padang Besar Government Offices Complex located at Latitude 6˚ 39’ 45.42” North Longitude 100˚ 19’ 37” East.
+<!-- marginal: Durian Burung, -->
 
-Wang Kelian The Customs Office and all its ancillary buildings situated along the main road to Satun, Thailand, 6.5 metres from the main gate of the Malaysia and Thailand border
+situated within the Immigration, Customs,
+
+<!-- marginal: Padang Terap -->
+
+Quarantine and Security Complex, Kota Putra, Durian Burung, Padang Terap, Kedah, at Latitude 6˚ 28’ 15.1332” North Longitude 100˚ 42’ 35.0808” East
+
+<!-- marginal: Padang Besar -->
+
+(a) the Customs Office, Padang Besar situated within the Railway Station Building;
+
+(b) the Customs Office, Padang Besar at Containers Yard located at Latitude 6˚ 39’ 45.45” North Longitude 100˚ 19’ 19.21” East;
+
+(c) the Customs Office and all its ancillary buildings and structures situated within the Padang Besar Government Offices Complex on the main road running from Padang Besar to Thailand and is located at Latitude: 6˚ 39’ 58” North Longitude 100˚ 19’ 23” East;
+
+(d) the Lembaga Kemajuan Ikan Malaysia Fish Examination Complex and all its ancillary buildings and structures on the east of the Padang Besar Government Offices Complex located at Latitude 6˚ 39’ 45.42” North Longitude 100˚ 19’ 37” East.
+
+<!-- marginal: Wang Kelian -->
+
+The Customs Office and all its ancillary buildings situated along the main road to Satun, Thailand, 6.5 metres from the main gate of the Malaysia and Thailand border
 
 <!-- page 45 -->
 
-Bukit Berapit, The Customs Office and all its ancillary Pengkalan Hulu buildings and structures situated within the Bukit Berapit Immigration Complex located along Keroh/Betong trunk road between 136 ¼ mile and 136 ½ mile, in the Mukim of Keroh, Perak
+<!-- marginal: Bukit Berapit, -->
 
-Butterworth The ferry terminals operated by the Pulau Pinang Port Commission
+The Customs Office and all its ancillary
 
-Johor Bahru (a) for import by a motor car, bus, motorcycle, scooter, bicycle and foot passenger, the passenger Examination Gate, i.e. the area allocated for Immigration and Customs Examination; (b) for import by other vehicular traffic, the Customs Import Bay in the Customs Complex at Tanjung Putri enclosed within the perimeter fence commencing from the south by the entry gate nearest to Customs Booth No. 1 from the direction of Singapore and terminating at the exit gate nearest to Customs No. 3 as the northern boundary; (c) for export by road during normal working hours, the Customs Export Bay in the Customs Complex at Tanjung Putri bounded within the perimeter fence commencing from the north by the entry gate nearest to Customs Booth No. 3 and terminating at the exit gate nearest to Customs Export Exit Check-Point at Booth No. 2 of the northern boundary;
+<!-- marginal: Pengkalan Hulu -->
+
+buildings and structures situated within the Bukit Berapit Immigration Complex located along Keroh/Betong trunk road between 136 ¼ mile and 136 ½ mile, in the Mukim of Keroh, Perak
+
+<!-- marginal: Butterworth -->
+
+The ferry terminals operated by the Pulau Pinang Port Commission
+
+<!-- marginal: Johor Bahru -->
+
+(a) for import by a motor car, bus, motorcycle, scooter, bicycle and foot passenger, the passenger Examination Gate, i.e. the area allocated for Immigration and Customs Examination;
+
+(b) for import by other vehicular traffic, the Customs Import Bay in the Customs Complex at Tanjung Putri enclosed within the perimeter fence commencing from the south by the entry gate nearest to Customs Booth No. 1 from the direction of Singapore and terminating at the exit gate nearest to Customs No. 3 as the northern boundary;
+
+(c) for export by road during normal working hours, the Customs Export Bay in the Customs Complex at Tanjung Putri bounded within the perimeter fence commencing from the north by the entry gate nearest to Customs Booth No. 3 and terminating at the exit gate nearest to Customs Export Exit Check-Point at Booth No. 2 of the northern boundary;
 
 (d) for export by road outside normal working hours, the Customs Export Bay in the Customs Complex at Tanjung Putri as specified in paragraph (c), or at the direction of the Proper Officer of Customs;
 
@@ -1032,15 +1238,23 @@ Johor Bahru (a) for import by a motor car, bus, motorcycle, scooter, bicycle and
 
 Bahru, District of Johor Bahru, Johor enclosed within the perimeter fence, commencing from the south at the entry/exit gate facing the Lingkaran Dalam Road.
 
-Pasir Gudang (Free Zone)
+<!-- marginal: Pasir Gudang (Free Zone) -->
 
 (a) for import into the Zone-Customs Complex at Pasir Gudang, i.e. the area allocated for the Zone Authority and Customs Imports Examination which includes the railway yard of the road leading into the Zone;
 
 (b) for export from the Zone-Customs Complex at Pasir Gudang, i.e. the area allocated for the Zone Authority and Customs Exports Examination which includes the railway yard and the road leading out of the Zone.
 
-Tanjung Kupang, Johor Bahru The Sultan Abu Bakar Complex, Mukim of Tajung Kupang, District of Johor Bahru, enclosed within the perimeter fence, commencing from the south by the entry/exit gate along the perimeter fence nearest to the Import Holding Area from the direction of Singapore and terminating at the exit/entry gate along the perimeter fence nearest to the Export Holding Area
+<!-- marginal: Tanjung Kupang, Johor Bahru -->
 
-Rantau Panjang (a) the Immigration Check-Point at the Railway Bridge spanning the Sungai Golok; (b) the railway track at Rantau Panjang commencing from the Malaysian end of the railway bridge on the right bank of Sungai Golok and extending to southern approximately 155.4 metres to the road level crossing including the railway station platform running parallel to the track; (c) that area in Lot 251 in the village of Rantau Panjang, district of Pasir Mas, Kelantan comprising the Immigration Complex Check- Point and shed bounded on the north by the north gate and
+The Sultan Abu Bakar Complex, Mukim of Tajung Kupang, District of Johor Bahru, enclosed within the perimeter fence, commencing from the south by the entry/exit gate along the perimeter fence nearest to the Import Holding Area from the direction of Singapore and terminating at the exit/entry gate along the perimeter fence nearest to the Export Holding Area
+
+<!-- marginal: Rantau Panjang -->
+
+(a) the Immigration Check-Point at the Railway Bridge spanning the Sungai Golok;
+
+(b) the railway track at Rantau Panjang commencing from the Malaysian end of the railway bridge on the right bank of Sungai Golok and extending to southern approximately 155.4 metres to the road level crossing including the railway station platform running parallel to the track;
+
+(c) that area in Lot 251 in the village of Rantau Panjang, district of Pasir Mas, Kelantan comprising the Immigration Complex Check- Point and shed bounded on the north by the north gate and
 
 <!-- page 47 -->
 
@@ -1048,37 +1262,67 @@ fence on the Malaysian end of the road bridge connecting Rantau Panjang and Golo
 
 ## SABAH
 
-Long Pa Sia The Immigration Office and its compound approximately 30.5 metres from the Suspension Bridge over the Sungai Pa Sia where there is the only passage from Long Bawan, Indonesia or Long Semadon, Sarawak
+<!-- marginal: Long Pa Sia -->
 
-Pensiangan The Immigration Office and its compound approximately over 32.2 kilometre by Sungai Persiangan from a border post Bantul, which is manned by the border Scouts
+The Immigration Office and its compound approximately 30.5 metres from the Suspension Bridge over the Sungai Pa Sia where there is the only passage from Long Bawan, Indonesia or Long Semadon, Sarawak
+
+<!-- marginal: Pensiangan -->
+
+The Immigration Office and its compound approximately over 32.2 kilometre by Sungai Persiangan from a border post Bantul, which is manned by the border Scouts
 
 ## SARAWAK
 
-Batu Lintang Batu Lintang Customs Station
+<!-- marginal: Batu Lintang -->
 
-Bau Bau Government Station
+Batu Lintang Customs Station
 
-Biawak Biawak Customs Station
+<!-- marginal: Bau -->
 
-Bunan Gega Bunan Customs Station
+Bau Government Station
 
-Lubok Antu Lubok Antu Customs Station
+<!-- marginal: Biawak -->
 
-Lundu Lundu Government Station
+Biawak Customs Station
 
-Padawan Padawan Customs Station
+<!-- marginal: Bunan Gega -->
 
-Sematan Sematan Customs Station
+Bunan Customs Station
+
+<!-- marginal: Lubok Antu -->
+
+Lubok Antu Customs Station
+
+<!-- marginal: Lundu -->
+
+Lundu Government Station
+
+<!-- marginal: Padawan -->
+
+Padawan Customs Station
+
+<!-- marginal: Sematan -->
+
+Sematan Customs Station
 
 <!-- page 48 -->
 
-Sirikin Sirikin Customs Station
+<!-- marginal: Sirikin -->
 
-Sungai Tujuh Sungai Tujuh Customs Station
+Sirikin Customs Station
 
-Tebedu (a) Customs Office import examination area situated on the west of the Tebedu Immigration Complex; (b) Customs Office export examination area situated on the east of the Tebedu Immigration Complex.
+<!-- marginal: Sungai Tujuh -->
 
-Tadungan Customs Office Tadungan
+Sungai Tujuh Customs Station
+
+<!-- marginal: Tebedu -->
+
+(a) Customs Office import examination area situated on the west of the Tebedu Immigration Complex;
+
+(b) Customs Office export examination area situated on the east of the Tebedu Immigration Complex.
+
+<!-- marginal: Tadungan -->
+
+Customs Office Tadungan
 
 ## BY AIR
 
@@ -1098,51 +1342,97 @@ Bintulu Airport Kuching International Airport Lawas Airport Limbang Airport Maru
 
 ## INLAND PORT STATION
 
-Ipoh For import and export by rail, at the Customs Warehouse in the Railway Goods Yard, Ipoh
+<!-- marginal: Ipoh -->
+
+For import and export by rail, at the Customs Warehouse in the Railway Goods Yard, Ipoh
 
 ## INLAND CLEARANCE DEPOT
 
-Prai (a) Inland Clearance Depot Kontena Nasional No. 2443, Lorong Perusahaaan Satu, Kawasan Perusahaan Prai; (b) North Terminal Sdn. Bhd. 4935, Dermaga Prai.
+<!-- marginal: Prai -->
 
-Ipoh Ipoh Cargo Terminal, Jalan St. John, Ipoh
+(a) Inland Clearance Depot Kontena Nasional No. 2443, Lorong Perusahaaan Satu, Kawasan Perusahaan Prai;
 
-Kuala Lumpur (a) Internal Clearance Depot Seri Setia Batu 9, Jalan Klang Lama, Seri Setia, Petaling Jaya; (b) Express Rail Link Sdn. Bhd. KL City Air Terminal, KL Central Station, 50470 Kuala Lumpur; (c) Level 1 – Customs Office Area and carousel with an area of 2,520.75 square metres; (d) Level 2 – Baggage sorting area with an area of 1.303.55 square metres.
+(b) North Terminal Sdn. Bhd. 4935, Dermaga Prai.
+
+<!-- marginal: Ipoh -->
+
+Ipoh Cargo Terminal, Jalan St. John, Ipoh
+
+<!-- marginal: Kuala Lumpur -->
+
+(a) Internal Clearance Depot Seri Setia Batu 9, Jalan Klang Lama, Seri Setia, Petaling Jaya;
+
+(b) Express Rail Link Sdn. Bhd. KL City Air Terminal, KL Central Station, 50470 Kuala Lumpur;
+
+(c) Level 1 – Customs Office Area and carousel with an area of 2,520.75 square metres;
+
+(d) Level 2 – Baggage sorting area with an area of 1.303.55 square metres.
 
 <!-- page 50 -->
 
-Seremban Nilai Inland Port, Lot 574-576, 578, 648, 1271, 1272 and part of Lot 3.721, Mukim Sentul, Seremban
+<!-- marginal: Seremban -->
 
-Segamat Segamat Inland Port Sdn. Bhd. Lot 1150 & 1092, Mukim Pagoh, Segamat, Johor
+Nilai Inland Port, Lot 574-576, 578, 648, 1271, 1272 and part of Lot 3.721, Mukim Sentul, Seremban
 
-Tebedu SM Inland Port Sdn. Bhd. Lot 197, Blok 8, Tebedu, Serian, Kota Samarahan, Sarawak
+<!-- marginal: Segamat -->
+
+Segamat Inland Port Sdn. Bhd. Lot 1150 & 1092, Mukim Pagoh, Segamat, Johor
+
+<!-- marginal: Tebedu -->
+
+SM Inland Port Sdn. Bhd. Lot 197, Blok 8, Tebedu, Serian, Kota Samarahan, Sarawak
 
 ## FREE ZONE
 
-Mukim of Plentong, All those lands situated in the Mukim District of Johor Bahru of Plentong, District of Johor Bahru, Johor bounded by the grey line as shown in the Gazette Plan 2233 and 2234 deposited in the Office of the Director of Survey, Johor excluding the Customs Examination Area, an area of 0.459 hectare at Container Terminal in Lot 66208
+<!-- marginal: Mukim of Plentong, -->
 
-Mukim of Kapar, All those lands situated in the Mukim District of Klang, of Kapar, in the District of Klang, Selangor Selangor bounded by the grey line as shown in the Gazette Plan 882 deposited in the Office of the Director of Survey, Selangor excluding the areas specified as follows: (a) land occupied by the Klang Port Management Sdn. Bhd., comprising Export Stacking Bay (6 blocks: TA-TG), Refers Stack (2 Blocks: RA-RB), Customs Examination Bay (3 Blocks: 1-3), Godown Q (an area of 220’ X 150’), Godown P (an area of 600’ X 150’), Open Yard P (an area of 660’ X 217’), Transit Shed No. 13 (an area of 100’ X 101’), Transit Shed No. 16 (an area of 177’ X 105’), Transit Shed No. 18 (an area of 177’ X 105’) and Dock Area (an area of 700’ X 105’);
+All those lands situated in the Mukim
+
+<!-- marginal: District of Johor Bahru -->
+
+of Plentong, District of Johor Bahru, Johor bounded by the grey line as shown in the Gazette Plan 2233 and 2234 deposited in the Office of the Director of Survey, Johor excluding the Customs Examination Area, an area of 0.459 hectare at Container Terminal in Lot 66208
+
+<!-- marginal: Mukim of Kapar, -->
+
+All those lands situated in the Mukim
+
+<!-- marginal: District of Klang, -->
+
+of Kapar, in the District of Klang,
+
+<!-- marginal: Selangor -->
+
+Selangor bounded by the grey line as shown in the Gazette Plan 882 deposited in the Office of the Director of Survey, Selangor excluding the areas specified as follows:
+
+(a) land occupied by the Klang Port Management Sdn. Bhd., comprising Export Stacking Bay (6 blocks: TA-TG), Refers Stack (2 Blocks: RA-RB), Customs Examination Bay (3 Blocks: 1-3), Godown Q (an area of 220’ X 150’), Godown P (an area of 600’ X 150’), Open Yard P (an area of 660’ X 217’), Transit Shed No. 13 (an area of 100’ X 101’), Transit Shed No. 16 (an area of 177’ X 105’), Transit Shed No. 18 (an area of 177’ X 105’) and Dock Area (an area of 700’ X 105’);
 
 <!-- page 51 -->
 
-(b) land occupied by the Klang Container Terminal comprising the Export Stack (Block B1-Rows B11 to B30, Slots 01 to 14) (Blocks B2-Rows B11 to B29, Slots 15-31) (Block C1-Rows C01 to C34 and C99 Slots 01-14) (Block C2-Rows 01 to C35 Slot 15-31) (Block F-Rows F16 to F25 Slots 01-11 Rows F01 to F15 Slots 01 to 03) (Block G-Rows 01 to G16 Slots 01 to 14) (Refer-Row R01 to R52, Rows R59 to R87 Customs Examination Area bounded by the pink line as shown in the above Gazette Plan 882) (Rows E01 to E42 Slots 01 to 06) FS Stacking Area (Rows 01 to 06 Slots 16 to 62) and Container Freight Station (an area of 2.973 square metres); and (c) land occupied by Port Klang Distribution Park Sdn. Bhd., comprising the Customs Holding Area (an area of 20,000 square feet).
+(b) land occupied by the Klang Container Terminal comprising the Export Stack (Block B1-Rows B11 to B30, Slots 01 to 14) (Blocks B2-Rows B11 to B29, Slots 15-31) (Block C1-Rows C01 to C34 and C99 Slots 01-14) (Block C2-Rows 01 to C35 Slot 15-31) (Block F-Rows F16 to F25 Slots 01-11 Rows F01 to F15 Slots 01 to 03) (Block G-Rows 01 to G16 Slots 01 to 14) (Refer-Row R01 to R52, Rows R59 to R87 Customs Examination Area bounded by the pink line as shown in the above Gazette Plan 882) (Rows E01 to E42 Slots 01 to 06) FS Stacking Area (Rows 01 to 06 Slots 16 to 62) and Container Freight Station (an area of 2.973 square metres); and
 
-West Port, Pulau Indah, All those lands situated in the Mukim Mukim of Klang, District of Klang of Klang, District of Klang, Selangor bounded by the grey line as shown in the Gazette Plan 1174 deposited in the Office of the Director of Survey, Selangor
+(c) land occupied by Port Klang Distribution Park Sdn. Bhd., comprising the Customs Holding Area (an area of 20,000 square feet).
 
-Deep Water Wharf, Section 4, All those lands situated in Section 4, City of Butterworth, City of Butterworth, Northern District, District of North Seberang Prai Seberang Prai bounded by the grey line as shown in the Gazette Plan 573 deposited in the Office of the Director of Survey, Pulau Pinang, excluding the areas specified as follows: (a) land occupied by the Pulau Pinang Port Sdn. Bhd. comprising of—
+<!-- marginal: West Port, Pulau Indah, -->
 
-<!-- marginal: (i) Warehouse W2; -->
+All those lands situated in the Mukim
 
-<!-- marginal: (ii) Export Blocks (Block A-D: -->
+<!-- marginal: Mukim of Klang, District of Klang -->
 
-<!-- marginal: Slot No. 1-45) (Block E-H: -->
+of Klang, District of Klang, Selangor bounded by the grey line as shown in the Gazette Plan 1174 deposited in the Office of the Director of Survey, Selangor
 
-<!-- marginal: Slot No. 1-23); and -->
+<!-- marginal: Deep Water Wharf, Section 4, -->
 
-(iii) the Customs Examination Bay
+All those lands situated in Section 4,
 
-<!-- marginal: for containers (between Block -->
+<!-- marginal: City of Butterworth, -->
 
-<!-- marginal: D and the railway line). -->
+City of Butterworth, Northern District,
+
+<!-- marginal: District of North Seberang Prai -->
+
+Seberang Prai bounded by the grey line as shown in the Gazette Plan 573 deposited in the Office of the Director of Survey, Pulau Pinang, excluding the areas specified as follows:
+
+(a) land occupied by the Pulau Pinang Port Sdn. Bhd. comprising of— (i) Warehouse W2; (ii) Export Blocks (Block A-D: Slot No. 1-45) (Block E-H: Slot No. 1-23); and (iii) the Customs Examination Bay for containers (between Block D and the railway line).
 
 <!-- page 52 -->
 
@@ -1182,19 +1472,23 @@ MILS Logistik Hub, Lot 88077 an area of 13.359 hectare Mukim of Klang, District 
 
 ## QUARANTINE STATION
 
-## STATE
+<!-- marginal: STATE -->
 
-<!-- marginal: LOCATION -->
+## LOCATION
 
-Perlis Padang Besar Quarantine Station, 02100 Padang Besar, Perlis
+<!-- marginal: Perlis -->
 
-Pulau Pinang Batu Maung Quarantine Station, Pulau Pinang
+Padang Besar Quarantine Station, 02100 Padang Besar, Perlis
 
-Selangor Kuala Lumpur International Airport
+<!-- marginal: Pulau Pinang -->
 
-## (KLIA),
+Batu Maung Quarantine Station, Pulau Pinang
 
-Sepang Quarantine Station, Jalan Pekeliling 4, Zon Selatan, 64000 KLIA, Sepang, Selangor
+<!-- marginal: Selangor -->
+
+Kuala Lumpur International Airport
+
+(KLIA), Sepang Quarantine Station, Jalan Pekeliling 4, Zon Selatan, 64000 KLIA, Sepang, Selangor
 
 Port Klang Quarantine Station, Jalan Tangki Off Jalan Kem, 42000 Pelabuhan Klang, Selangor
 
@@ -1202,15 +1496,25 @@ Pulau Indah Quarantine Station, Pulau Indah, Pelabuhan Klang, Selangor
 
 Post-Entry Quarantine Station, Serdang, Selangor
 
-Federal Territory of Labuan Labuan Quarantine Station, Jalan Patau-Patau, Peti Surat 82071, 87030 Federal Territory of Labuan
+<!-- marginal: Federal Territory of Labuan -->
 
-Kelantan Rantau Panjang Quarantine Station, 17200 Rantau Panjang, Kelantan
+Labuan Quarantine Station, Jalan Patau-Patau, Peti Surat 82071, 87030 Federal Territory of Labuan
 
-Pahang Port Kuantan Quarantine Station, Kuantan, Pahang
+<!-- marginal: Kelantan -->
 
-Kedah Bukit Kayu Hitam Quarantine Station, Kedah
+Rantau Panjang Quarantine Station, 17200 Rantau Panjang, Kelantan
 
-Johor Gelang Patah Quarantine Station, Johor
+<!-- marginal: Pahang -->
+
+Port Kuantan Quarantine Station, Kuantan, Pahang
+
+<!-- marginal: Kedah -->
+
+Bukit Kayu Hitam Quarantine Station, Kedah
+
+<!-- marginal: Johor -->
+
+Gelang Patah Quarantine Station, Johor
 
 <!-- page 55 -->
 
@@ -1220,7 +1524,17 @@ Johor Gelang Patah Quarantine Station, Johor
 
 ## RELEVANT WRITTEN LAWS
 
-1. Animals Act 1953 [Act 647] 2. Plant Quarantine Act 1976 [Act 167] 3. Lembaga Kemajuan Ikan Malaysia Act 1971 [Act 49] 4. Food Act 1983 [Act 281] 5. Federal Agricultural Marketing Authority Act 1965 [Act 141] 6. Fisheries Act 1985 [Act 317]
+1. Animals Act 1953 [Act 647]
+
+2. Plant Quarantine Act 1976 [Act 167]
+
+3. Lembaga Kemajuan Ikan Malaysia Act 1971 [Act 49]
+
+4. Food Act 1983 [Act 281]
+
+5. Federal Agricultural Marketing Authority Act 1965 [Act 141]
+
+6. Fisheries Act 1985 [Act 317]
 
 ## EXPLANATORY STATEMENT
 

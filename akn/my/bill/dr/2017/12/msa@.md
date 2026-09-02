@@ -6,33 +6,39 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENTADBIRAN
 
 3. Fungsi dan kuasa Ketua Pengarah dan pegawai lain 4. Pekhidmat awam 5. Kad kuasa, dsb., hendaklah dikemukakan
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PENGENAAN CUKAI PELANCONGAN
 
 6. Pengenaan cukai pelancongan 7. Kewajipan pengendali untuk memungut cukai pelancongan dan membayar cukai pelancongan yang dipungut kepada Ketua Pengarah 8. Kadar cukai pelancongan 9. Kuasa Menteri untuk mengecualikan
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENDAFTARAN
 
-10. Tanggungan pengendali untuk berdaftar 11. Tanggungan pengendali yang mengendalikan premis penginapan sebelum kuat kuasa Akta untuk berdaftar 12. Pendaftaran pengendali 13. Pembatalan pendaftaran
+10. Tanggungan pengendali untuk berdaftar
+
+11. Tanggungan pengendali yang mengendalikan premis penginapan sebelum kuat kuasa Akta untuk berdaftar
+
+12. Pendaftaran pengendali
+
+13. Pembatalan pendaftaran
 
 <!-- page 2 -->
 
-## Bahagian V
+## BAHAGIAN V
 
 ## INVOIS, REKOD, PENYATA DAN TAKSIRAN
 
@@ -50,7 +56,7 @@
 
 20. Kuasa untuk mentaksir
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PEREMITAN, PEMBAYARAN BALIK DAN MENDAPATKAN BALIK
 
@@ -76,7 +82,7 @@
 
 31. Tanggungan bersesama dan berasingan bagi pekongsi, pegawai, anggota jawatankuasa atau pengarah
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PENGUATKUASAAN
 
@@ -88,19 +94,59 @@
 
 <!-- page 3 -->
 
-35. Majistret boleh mengeluarkan waran geledah 36. Penggeledahan boleh dibuat tanpa waran 37. Penyitaan buku, dokumen, dsb. 38. Kuasa menangkap
+35. Majistret boleh mengeluarkan waran geledah
 
-## Bahagian VIII
+36. Penggeledahan boleh dibuat tanpa waran
+
+37. Penyitaan buku, dokumen, dsb.
+
+38. Kuasa menangkap
+
+## BAHAGIAN VIII
 
 ## KESALAHAN DAN PENALTI
 
-39. Penalti bagi menghalang, dsb., pegawai kastam 40. Penalti bagi penyata yang tidak betul 41. Penalti bagi pemungutan cukai pelancongan oleh orang yang tidak bertanggungan untuk memungut cukai pelancongan 42. Penalti bagi pengelakan cukai pelancongan, fraud 43. Penalti bagi keengganan untuk menjawab soalan atau memberikan maklumat palsu 44. Percubaan dan pensubahatan 45. Penalti am 46. Kesalahan oleh kumpulan orang, dsb. 47. Kesalahan oleh pekerja atau ejen 48. Cukai pelancongan, dsb., hendaklah kena dibayar walau apa pun apa-apa prosiding, dsb.
+39. Penalti bagi menghalang, dsb., pegawai kastam
 
-## Bahagian IX
+40. Penalti bagi penyata yang tidak betul
+
+41. Penalti bagi pemungutan cukai pelancongan oleh orang yang tidak bertanggungan untuk memungut cukai pelancongan
+
+42. Penalti bagi pengelakan cukai pelancongan, fraud
+
+43. Penalti bagi keengganan untuk menjawab soalan atau memberikan maklumat palsu
+
+44. Percubaan dan pensubahatan
+
+45. Penalti am
+
+46. Kesalahan oleh kumpulan orang, dsb.
+
+47. Kesalahan oleh pekerja atau ejen
+
+48. Cukai pelancongan, dsb., hendaklah kena dibayar walau apa pun apa-apa prosiding, dsb.
+
+## BAHAGIAN IX
 
 ## PERBICARAAN DAN PROSIDING
 
-49. Pendakwaan 50. Bidang kuasa untuk membicarakan kesalahan 51. Sabitan di bawah undang-undang lain 52. Peruntukan keterangan 53. Nilai keterangan salinan notis elektronik 54. Pemenjaraan kerana tidak membayar denda 55. Tiada kos atau ganti rugi yang timbul daripada penyitaan yang boleh didapatkan balik melainkan penyitaan tanpa sebab yang munasabah atau sebab barangkali 56. Pengkompaunan kesalahan 57. Perintah mahkamah
+49. Pendakwaan
+
+50. Bidang kuasa untuk membicarakan kesalahan
+
+51. Sabitan di bawah undang-undang lain
+
+52. Peruntukan keterangan
+
+53. Nilai keterangan salinan notis elektronik
+
+54. Pemenjaraan kerana tidak membayar denda
+
+55. Tiada kos atau ganti rugi yang timbul daripada penyitaan yang boleh didapatkan balik melainkan penyitaan tanpa sebab yang munasabah atau sebab barangkali
+
+56. Pengkompaunan kesalahan
+
+57. Perintah mahkamah
 
 <!-- page 4 -->
 
@@ -108,7 +154,7 @@
 
 59. Perlindungan pemberi maklumat daripada diketahui
 
-## Bahagian X
+## BAHAGIAN X
 
 ## PELBAGAI
 
@@ -142,7 +188,7 @@ Suatu Akta untuk mengadakan peruntukan bagi pengenaan dan pemungutan cukai pelan
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -188,7 +234,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 7 -->
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENTADBIRAN
 
@@ -214,7 +260,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (2) Tidaklah menjadi suatu kesalahan bagi mana-mana orang untuk enggan mematuhi apa-apa permintaan, tuntutan atau perintah yang dibuat oleh mana-mana pegawai kastam yang bertindak atau yang berupa sebagai bertindak di bawah Akta ini jika pegawai itu tidak beruniform dan enggan untuk mengisytiharkan jawatannya dan mengemukakan kad kuasa atau lencananya apabila diminta berbuat demikian oleh orang itu.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PENGENAAN CUKAI PELANCONGAN
 
@@ -266,7 +312,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (2) Menteri boleh, dalam mana-mana kes tertentu dan tertakluk kepada apa-apa syarat sebagaimana yang difikirkannya patut untuk dikenakan, mengecualikan mana-mana orang daripada keseluruhan atau mana-mana peruntukan Akta ini.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENDAFTARAN
 
@@ -310,7 +356,7 @@ berkuat kuasa dari hari pertama bulan yang berikutnya selepas maklumat yang berh
 
 (2) Apabila pemberitahuan di bawah subseksyen (1) diterima, Ketua Pengarah boleh membatalkan pendaftaran pengendali itu dari tarikh yang ditentukan oleh Ketua Pengarah.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## INVOIS, REKOD, PENYATA DAN TAKSIRAN
 
@@ -440,7 +486,7 @@ Ketua Pengarah boleh mentaksir cukai pelancongan itu pada suatu amaun yang lebih
 
 (8) Ketua Pengarah boleh membuat apa-apa pengubahan atau tambahan kepada taksiran yang dibuat di bawah seksyen ini sebagaimana yang difikirkannya patut untuk memastikan ketepatan taksiran itu dan hendaklah dengan serta-merta memberitahu pengendali itu secara bertulis.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PEREMITAN, PEMBAYARAN BALIK DAN MENDAPATKAN BALIK
 
@@ -614,7 +660,7 @@ dan apa-apa amaun yang berupa sebagai cukai pelancongan hendaklah dibayar dengan
 
 (2) Berhubung dengan sesuatu syarikat yang sedang digulungkan, pengarah syarikat itu hanya bertanggungan sedemikian jika aset syarikat itu tidak mencukupi untuk menjelaskan amaun yang kena dibayar, selepas membayar apa-apa jumlah yang mempunyai keutamaan di bawah Akta Syarikat 2016 [Akta 777] berhubung dengan penggunaan aset syarikat itu dalam penggulungan itu berbanding cukai pelancongan, penalti, surcaj atau wang lain itu.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PENGUATKUASAAN
 
@@ -742,7 +788,7 @@ dan pegawai kastam itu boleh memeriksa atau menyebabkan untuk diperiksa mana-man
 
 (b) apabila diberitahu secara bertulis oleh penjamin orang itu bahawa orang itu berkemungkinan akan memungkiri mana-mana syarat yang berdasarkannya atau yang tertakluk kepadanya orang itu telah dilepaskan dan bahawa penjamin itu berhasrat untuk dilepaskan daripada tanggungjawabnya sebagai penjamin.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## KESALAHAN DAN PENALTI
 
@@ -854,7 +900,7 @@ dalam pengurusan itu, hendaklah disifatkan bersalah atas kesalahan itu melainkan
 
 48. Permulaan prosiding atau pengenaan suatu penalti, denda atau tempoh pemenjaraan di bawah Akta ini atau pengkompaunan suatu kesalahan di bawah seksyen 56 tidak melepaskan mana-mana orang daripada tanggungan untuk membayar cukai pelancongan, penalti, surcaj atau wang lain di bawah Akta ini.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## PERBICARAAN DAN PROSIDING
 
@@ -980,7 +1026,7 @@ diketahui, mahkamah hendaklah menyebabkan semua petikan itu disembunyikan daripa
 
 (3) Jika dalam perbicaraan bagi apa-apa kesalahan di bawah Akta ini, mahkamah, selepas penyiasatan penuh mengenai kes itu, mempercayai bahawa pemberi maklumat dengan sengaja membuat dalam aduannya sesuatu pernyataan penting yang diketahuinya atau dipercayainya sebagai palsu atau tidak dipercayai sebagai benar, atau jika dalam mana-mana prosiding lain mahkamah berpendapat bahawa keadilan tidak dapat dijalankan dengan sepenuhnya antara pihak tanpa diketahui pemberi maklumat itu, adalah sah bagi mahkamah untuk menghendaki pengemukaan aduan asal, jika secara bertulis, dan membenarkan pemeriksaan, dan menghendaki penzahiran sepenuhnya, berkenaan dengan pemberi maklumat itu.
 
-## Bahagian X
+## BAHAGIAN X
 
 ## PELBAGAI
 
@@ -1138,7 +1184,7 @@ kepada Ketua Pengarah dalam masa empat belas hari selepas ketetapan itu dilulusk
 
 Rang Undang-Undang Cukai Pelancongan 2017 yang dicadangkan ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan peruntukan bagi pengenaan cukai pelancongan ke atas pelancong yang menginap di premis pelancongan dan pemungutan cukai pelancongan itu oleh orang yang mengendalikan premis penginapan. Pelancong dan premis pelancongan yang dirujuk dalam Akta yang dicadangkan ditakrifkan dalam Akta Industri Pelancongan 1992 [Akta 482].
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I memperkatakan tentang perkara permulaan.
 
@@ -1146,7 +1192,7 @@ Rang Undang-Undang Cukai Pelancongan 2017 yang dicadangkan ini (“Akta yang dic
 
 4. Fasal 2 mengandungi takrif perkataan dan ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 5. Bahagian II mengandungi peruntukan yang berhubungan dengan pentadbiran.
 
@@ -1156,7 +1202,7 @@ Rang Undang-Undang Cukai Pelancongan 2017 yang dicadangkan ini (“Akta yang dic
 
 8. Fasal 5 bertujuan untuk menghendaki tiap-tiap pegawai kastam memperkenalkan diri mereka semasa melaksanakan kewajipan mereka dan mana-mana orang boleh menolak perintah yang dibuat oleh pegawai kastam itu jika mereka tidak memperkenalkan diri mereka.
 
-## Bahagian III
+## BAHAGIAN III
 
 9. Bahagian III mengandungi peruntukan yang berhubungan dengan pengenaan cukai pelancongan ke atas pelancong.
 
@@ -1170,7 +1216,7 @@ Rang Undang-Undang Cukai Pelancongan 2017 yang dicadangkan ini (“Akta yang dic
 
 13. Fasal 9 bertujuan untuk memberi Menteri kuasa untuk mengecualikan mana-mana pelancong atau golongan pelancong daripada pembayaran keseluruhan atau mana-mana bahagian daripada cukai pelancongan, atau untuk mengecualikan mana-mana pengendali atau golongan pengendali daripada memungut keseluruhan atau mana-mana bahagian daripada cukai pelancongan, untuk mengecualikan mana-mana pengendali atau golongan pengendali daripada kehendak untuk berdaftar di bawah Bahagian IV Akta yang dicadangkan, atau untuk mengecualikan mana-mana orang daripada keseluruhan atau mana-mana peruntukan Akta yang dicadangkan ini.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 14. Bahagian IV mengandungi peruntukan yang berhubungan dengan pendaftaran pengendali.
 
@@ -1182,7 +1228,7 @@ Rang Undang-Undang Cukai Pelancongan 2017 yang dicadangkan ini (“Akta yang dic
 
 17. Fasal 13 bertujuan untuk menghendaki seseorang pengendali untuk memberitahu Ketua Pengarah dalam tempoh tiga puluh hari apabila pengendali itu terhenti mengendalikan premis penginapan atau dikecualikan di bawah seksyen 9 Akta yang dicadangkan. Setelah menerima pemberitahuan itu, Ketua Pengarah boleh membatalkan pendaftaran yang dibuat oleh pengendali daripada tarikh yang ditentukan oleh Ketua Pengarah.
 
-## Bahagian V
+## BAHAGIAN V
 
 18. Bahagian V mengandungi peruntukan yang berhubungan dengan invois, rekod, penyata dan taksiran.
 
@@ -1202,7 +1248,7 @@ Rang Undang-Undang Cukai Pelancongan 2017 yang dicadangkan ini (“Akta yang dic
 
 25. Fasal 20 bertujuan untuk membenarkan Ketua Pengarah untuk mentaksir amaun cukai pelancongan dan penalti yang kena dibayar jika pengendali gagal memohon untuk pendaftaran, gagal untuk mengemukakan penyata atau mengemukakan penyata yang tidak lengkap atau tidak betul. Fasal ini mengehadkan rangka masa tidak melebihi enam tahun selepas berakhirnya suatu tempoh bercukai untuk Ketua Pengarah membuat taksiran melainkan dalam kes-kes fraud. Ia juga membenarkan Ketua Pengarah membuat taksiran jika cukai pelancongan telah dibayar tetapi tiada penyata dikemukakan atau orang itu gagal mengemukakan penyata bagi mana-mana tempoh bercukai kemudian. Ketua Pengarah boleh meningkatkan amaun cukai pelancongan yang ditaksirkan dalam kes di mana pengendali membayar cukai pelancongan mengikut amaun yang ditaksirkan tetapi berterusan gagal mengemukakan penyata. Fasal ini selanjutnya menyifatkan amaun yang ditaksirkan sebagai cukai pelancongan dan penalti yang betul yang kena dibayar oleh pengendali melainkan taksiran itu kemudiannya ditarik balik atau dikurangkan. Fasal ini juga membenarkan Ketua Pengarah untuk membuat taksiran tambahan yang melebihi taksiran terdahulu dan meminda taksiran untuk memastikan ketepatan taksirannya.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 26. Bahagian VI mengandungi peruntukan yang berhubungan dengan peremitan, pembayaran balik dan mendapatkan balik.
 
@@ -1236,7 +1282,7 @@ kepada Kerajaan. Pengeluaran suatu perakuan yang ditandatangani oleh Ketua Penga
 
 37. Fasal 31 bertujuan untuk mengadakan peruntukan bagi tanggungan pengarah syarikat, pekongsi firma atau anggota jawatankuasa pertubuhan untuk membayar apa-apa cukai, penalti atau surcaj yang belum dibayar.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 38. Bahagian VII mengandungi peruntukan yang berhubungan dengan penguatkuasaan.
 
@@ -1256,7 +1302,7 @@ kepada Kerajaan. Pengeluaran suatu perakuan yang ditandatangani oleh Ketua Penga
 
 45. Fasal 38 bertujuan untuk mengadakan peruntukan yang memberi mana- mana pegawai kastam kuasa untuk menangkap tanpa waran mana-mana orang yang didapati melakukan atau mencuba untuk melakukan atau mengambil khidmat atau membantu mana-mana orang melakukan atau bersubahat melakukan sesuatu kesalahan di bawah Akta yang dicadangkan ini, mana-mana orang yang disyaki dengan munasabah mempunyai dalam milikannya apa-apa buku, data, dokumen atau rekod atau benda lain yang boleh disita di bawah Akta yang dicadangkan ini atau mana-mana orang yang disyakinya dengan munasabah telah melakukan suatu kesalahan di bawah Akta yang dicadangkan ini. Mana-mana pegawai kastam yang membuat tangkapan hendaklah membawa orang yang ditangkap itu ke balai polis terdekat tanpa kelengahan yang tidak perlu. Fasal ini seterusnya memperuntukkan kuasa untuk menahan mana-mana orang yang boleh ditangkap tetapi tidak ditangkap pada masa kesalahan dilakukan atau orang yang telah melepaskan diri selepas tangkapan dibuat seolah-olah orang yang melakukan kesalahan itu telah ditangkap pada masa kesalahan dibuat. Orang yang ditangkap itu boleh dilepaskan daripada jagaan jika dia telah mendepositkan suatu jumlah wang yang munasabah atau menyempurnakan suatu bon dengan penjamin atau mendepositkan suatu jumlah wang yang munasabah dan menyempurnakan suatu bon dengan penjamin. Orang yang telah dilepaskan daripada jagaan boleh ditangkap tanpa waran jika terdapat alasan munasabah untuk mempercayai bahawa mana-mana syarat untuk orang itu dilepaskan telah atau berkemungkinan dilanggar atau setelah diberitahu oleh penjamin bahawa dia berhasrat untuk melepaskan dirinya daripada kewajipannya sebagai penjamin.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 46. Bahagian VIII memperkatakan pelbagai kesalahan dan hukuman di bawah Akta yang dicadangkan.
 
@@ -1282,7 +1328,7 @@ kepada Kerajaan. Pengeluaran suatu perakuan yang ditandatangani oleh Ketua Penga
 
 56. Fasal 48 bertujuan untuk mengadakan peruntukan bagi tanggungan seseorang untuk membayar cukai pelancongan, penalti, surcaj atau wang lain walau apa pun pemulaan suatu prosiding, pengenaan penalti, denda atau pemenjaraan atau pengkompaunan suatu kesalahan.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 57. Bahagian IX memperkatakan tentang peruntukan yang berhubungan dengan perbicaraan dan prosiding.
 
@@ -1310,7 +1356,7 @@ kepada Kerajaan. Pengeluaran suatu perakuan yang ditandatangani oleh Ketua Penga
 
 68. Fasal 59 bertujuan untuk menghendaki seorang saksi untuk tidak mendedahkan maklumat yang berhubungan dengan seorang pemberi maklumat yang boleh membawa kepada pemberi maklumat itu dikesan. Ia juga mengadakan peruntukan bagi suatu catatan dalam buku, dokumen atau kertas untuk disembunyikan atau dipadamkan bagi melindungi pemberi maklumat daripada dikesan semasa pemeriksaan buku, dokumen atau kertas dalam prosiding dan membenarkan mahkamah untuk menghendaki pengemukaan aduan asal atau pendedahan penuh mengenai pemberi maklumat jika mahkamah mendapati pemberi maklumat itu telah membuat penyataan palsu yang material atau keadilan tidak dapat dijalankan dengan sepenuhnya tanpa diketahui pemberi maklumat itu.
 
-## Bahagian X
+## BAHAGIAN X
 
 69. Bahagian X memperkatakan tentang peruntukan pelbagai.
 

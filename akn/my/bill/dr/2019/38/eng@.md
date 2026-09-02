@@ -256,7 +256,7 @@ shall be deemed to be transactions of the kind to which subsection (1) applies i
 
 (6) In this section, “transaction” has the same meaning assigned to it under paragraph 17c(6)(b).”.
 
-### New sections 22b, 22c, 22d, 22e and 22f
+## NEW SECTIONS 22B, 22C, 22D, 22E AND 22F
 
 11. The principal Act is amended by inserting after section 22a the following sections:
 

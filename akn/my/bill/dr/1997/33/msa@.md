@@ -56,17 +56,21 @@ dengan memasukkan selepas perkataan "Banking and Financial Institutions Act 1989
 
 (b) dengan memasukkan selepas perkataan "the Banking and Financial Institutions Act 1989" perkataan "and the Money-Changing Act 1997,".
 
-Pmdaan
+<!-- marginal: Pmdaan -->
 
-4. Perenggan 34(1)(b) Akta ibu adalah dipinda — seksyen 34.
+4. Perenggan 34(1)(b) Akta ibu adalah dipinda —
+
+<!-- marginal: seksyen 34. -->
 
 (a) dengan memotong perkataan "and" yang terdapat selepas perkataan "Takaful Act 1984,"; dan
 
 (b) dengan memasukkan selepas perkataan "Banking and Financial Institutions Act 1989" perkataan "and the Money-Changing Act 1997".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-5. Subperenggan 37(l)(e)(ii) Akta ibu adalah dipinda — seksyen 37.
+5. Subperenggan 37(l)(e)(ii) Akta ibu adalah dipinda —
+
+<!-- marginal: seksyen 37. -->
 
 (a) dengan menggantikan perkataan "or" yang terdapat selepas perkataan "1963" dengan koma; dan
 

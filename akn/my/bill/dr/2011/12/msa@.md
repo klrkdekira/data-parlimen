@@ -8,7 +8,7 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -16,21 +16,31 @@
 
 2. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PIHAK BERKUASA
 
-3. Penubuhan Pihak Berkuasa 4. Keanggotaan Pihak Berkuasa 5. Tempoh jawatan 6. Elaun 7. Pengerusi 8. Pembatalan pelantikan dan peletakan jawatan 9. Pengosongan jawatan 10. Jawatankuasa 11. Penzahiran kepentingan
+3. Penubuhan Pihak Berkuasa 4. Keanggotaan Pihak Berkuasa 5. Tempoh jawatan 6. Elaun 7. Pengerusi 8. Pembatalan pelantikan dan peletakan jawatan 9. Pengosongan jawatan
 
-## Bahagian III
+10. Jawatankuasa
+
+11. Penzahiran kepentingan
+
+## BAHAGIAN III
 
 ## FUNGSI DAN KUASA PIHAK BERKUASA
 
-12. Fungsi dan kuasa Pihak Berkuasa 13. Pewakilan fungsi dan kuasa Pihak Berkuasa 14. Kuasa Menteri untuk memberikan arahan 15. Penyata, laporan, akaun dan maklumat
+12. Fungsi dan kuasa Pihak Berkuasa
+
+13. Pewakilan fungsi dan kuasa Pihak Berkuasa
+
+14. Kuasa Menteri untuk memberikan arahan
+
+15. Penyata, laporan, akaun dan maklumat
 
 <!-- page 2 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PEGAWAI DAN PEKHIDMAT PIHAK BERKUASA
 
@@ -48,7 +58,7 @@
 
 22. Penerusan dan penyelesaian prosiding tatatertib
 
-## Bahagian V
+## BAHAGIAN V
 
 ## KEWANGAN
 
@@ -74,7 +84,7 @@
 
 33. Bayaran kepada Kumpulan Wang Disatukan Persekutuan
 
-## Bahagian VI
+## BAHAGIAN VI
 
 AM
 
@@ -94,7 +104,7 @@ AM
 
 41. Perkara yang dilakukan pada menjangkakan pembuatan Akta ini
 
-## Jadual
+## JADUAL
 
 <!-- page 3 -->
 
@@ -104,7 +114,7 @@ Suatu Akta untuk mengadakan peruntukan bagi penubuhan Pihak Berkuasa Peranti Per
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -136,7 +146,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “undang-undang peranti perubatan” ertinya Akta ini dan Akta Peranti Perubatan 2011 [Akta ], dan termasuklah mana-mana perundangan subsidiari yang dibuat di bawah undang-undang ini.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PIHAK BERKUASA
 
@@ -314,7 +324,7 @@ apabila perkara itu dibincangkan atau diputuskan.
 
 (e) mana-mana perbadanan mengikut pengertian Akta Syarikat 1965 [Akta 125], yang anggota itu atau mana-mana penamanya atau seseorang anggota keluarganya ialah seorang pengarah atau mempunyai pemegangan syer yang substansial dalam perbadanan itu.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## FUNGSI DAN KUASA PIHAK BERKUASA
 
@@ -370,7 +380,7 @@ apabila perkara itu dibincangkan atau diputuskan.
 
 (2) Penyata, laporan, akaun dan maklumat itu hendaklah dalam apa-apa bentuk dan hendaklah mengandungi apa-apa maklumat yang berhubungan dengan ulasan dan dasar Pihak Berkuasa dan apa-apa perkara lain sebagaimana yang dinyatakan oleh Menteri dari semasa ke semasa.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PEGAWAI DAN PEKHIDMAT PIHAK BERKUASA
 
@@ -434,7 +444,7 @@ Pihak Berkuasa, dan undang-undang yang terpakai bagi pekerja itu sebaik sebelum 
 
 (3) Menteri boleh melalui perintah membuat apa-apa ubah suaian yang perlu kepada undang-undang yang disebut dalam subseksyen (1) dalam pemakaiannya kepada pekerja Kerajaan itu jika perlu bagi maksud menghapuskan kesulitan yang berbangkit daripada peruntukan subseksyen itu.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## KEWANGAN
 
@@ -540,7 +550,7 @@ Pihak Berkuasa, dan undang-undang yang terpakai bagi pekerja itu sebaik sebelum 
 
 <!-- page 20 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 AM
 
@@ -596,7 +606,7 @@ mana-mana orang yang diberi kuasa oleh Pihak Berkuasa bagi maksud itu boleh, bag
 
 41. Segala perkara yang dilakukan oleh mana-mana orang atau pihak berkuasa bagi pihak Pihak Berkuasa sebagai persediaan atau ke arah pelaksanaan yang sepatutnya Akta ini, dan apa- apa perbelanjaan yang dilakukan berhubung dengannya, pada menjangkakan pembuatan Akta ini hendaklah disifatkan telah dibenarkan di bawah Akta ini, dan segala hak yang diperoleh atau obligasi yang ditanggung bagi pihak Pihak Berkuasa daripada apa-apa yang dilakukan sedemikian hendaklah apabila Akta ini mula berkuat kuasa disifatkan sebagai hak dan obligasi Pihak Berkuasa.
 
-## Jadual
+## JADUAL
 
 [Seksyen 4]
 
@@ -686,7 +696,7 @@ mana-mana orang yang diberi kuasa oleh Pihak Berkuasa bagi maksud itu boleh, bag
 
 Akta Peranti Perubatan 2011 yang dicadangkan (“Akta yang dicadangkan”) bertujuan untuk menubuhkan suatu pertubuhan perbadanan yang dikenali sebagai “Pihak Berkuasa Peranti Perubatan” (“Pihak Berkuasa”) yang akan dipertanggungkan dengan tanggungjawab mengawal dan mengawal selia peranti perubatan, industri peranti perubatan dan aktivitinya, serta melaksanakan dan menguatkuasakan undang-undang peranti perubatan.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan mengandungi perkara permulaan.
 
@@ -694,7 +704,7 @@ Fasal 1 mengandungi tajuk ringkas dan bertujuan membenarkan Menteri menetapkan t
 
 Fasal 2 mengandungi takrif pelbagai ungkapan yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 3. Bahagian II Akta yang dicadangkan mengandungi peruntukan berhubung dengan penubuhan Pihak Berkuasa Peranti Perubatan.
 
@@ -716,7 +726,7 @@ Fasal 10 bertujuan mengadakan peruntukan untuk memberi Pihak Berkuasa kuasa menu
 
 Fasal 11 mengenakan kewajipan ke atas seseorang anggota Pihak Berkuasa dan sesuatu jawatankuasa yang ditubuhkan oleh Pihak Berkuasa untuk menzahirkan kepentingannya dalam apa-apa perkara yang sedang dibincangkan oleh Pihak Berkuasa atau jawatankuasa.
 
-## Bahagian III
+## BAHAGIAN III
 
 4. Bahagian III Akta yang dicadangkan mengandungi peruntukan berhubung dengan fungsi Pihak Berkuasa.
 
@@ -728,7 +738,7 @@ Fasal 14 bertujuan untuk memberi Menteri kuasa bagi mengeluarkan arahan kepada P
 
 Fasal 15 menghendaki Pihak Berkuasa memberikan penyata, akaun dan maklumat kepada Menteri.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 5. Bahagian IV Akta yang dicadangkan mengandungi peruntukan mengenai Ketua Eksekutif dan pegawai serta pekhidmat Pihak Berkuasa.
 
@@ -746,7 +756,7 @@ Fasal 21 dan 22 memperkatakan tentang pengambilan kerja pekhidmat kerajaan dan p
 
 <!-- page 27 -->
 
-## Bahagian V
+## BAHAGIAN V
 
 6. Bahagian V Akta yang dicadangkan mengandungi peruntukan kewangan.
 
@@ -768,7 +778,7 @@ Fasal 32 memperuntukkan bahawa Akta Badan Berkanun (Akaun dan Laporan Tahunan) 1
 
 Fasal 33 memperuntukkan bahawa Pihak Berkuasa dikehendaki membuat sejumlah bayaran tertentu kepada Kumpulan Wang Disatukan Persekutuan.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 7. Bahagain VII Akta yang dicadangkan mengandungi peruntukan am.
 

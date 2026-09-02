@@ -32,4 +32,6 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Zon Ekonomi Eksklusif 1984 (
 
 ## IMPUKAS1 KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN(U2)2496]
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
+
+<!-- marginal: [PN(U2)2496] -->

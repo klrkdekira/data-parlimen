@@ -40,7 +40,19 @@ and includes any Social Welfare Officer appointed under any law regulating the a
 
 3. The principal Act is amended by substituting for section 5 the following section:
 
-Equality 5. (1) In relation to the custody or upbringing of an of infant or the administration of any property belonging to parental rights. or held in trust for an infant or the application of the income of any such property, a mother shall have the same rights and authority as the law allows to a father, and the rights and authority of mother and father shall be equal.
+<!-- marginal: Equality -->
+
+5. (1) In relation to the custody or upbringing of an
+
+<!-- marginal: of -->
+
+infant or the administration of any property belonging to
+
+<!-- marginal: parental -->
+
+<!-- marginal: rights. -->
+
+or held in trust for an infant or the application of the income of any such property, a mother shall have the same rights and authority as the law allows to a father, and the rights and authority of mother and father shall be equal.
 
 (2) The mother of an infant shall have the like powers of applying to the Court in respect of any matter affecting the infant as are possessed by the father.".
 
@@ -48,11 +60,25 @@ Equality 5. (1) In relation to the custody or upbringing of an of infant or the 
 
 4. The principal Act is amended by substituting for section 6 the following section:
 
-Rights of 6. (1) On the death of a parent of an infant, the surviving surviving parent, if any, shall, subject to this Act, be guardian to parent as
+<!-- marginal: Rights of -->
 
-### to
+6. (1) On the death of a parent of an infant, the surviving
 
-the infant either alone or jointly with any guardian appointed guardian- by the deceased parent, and— ship.
+<!-- marginal: surviving -->
+
+parent, if any, shall, subject to this Act, be guardian to
+
+<!-- marginal: parent as -->
+
+<!-- marginal: to -->
+
+the infant either alone or jointly with any guardian appointed
+
+<!-- marginal: guardian- -->
+
+by the deceased parent, and—
+
+<!-- marginal: ship. -->
 
 (a) if no guardian has been appointed by the deceased parent; or
 
@@ -66,7 +92,25 @@ the Court may, if it thinks fit, appoint a guardian to act jointly with the surv
 
 5. The principal Act is amended by substituting for section 7 the following section:
 
-Power of 7. (1) A parent of an infant may by deed or will appoint parent to any person to be guardian of the infant after that parent's appoint testamen- death. tary guardian. (2) Any guardian appointed under subsection (1) shall act jointly with the surviving parent, if any, but if—
+<!-- marginal: Power of -->
+
+7. (1) A parent of an infant may by deed or will appoint
+
+<!-- marginal: parent to -->
+
+any person to be guardian of the infant after that parent's
+
+<!-- marginal: appoint -->
+
+<!-- marginal: testamen- -->
+
+death.
+
+<!-- marginal: tary -->
+
+<!-- marginal: guardian. -->
+
+(2) Any guardian appointed under subsection (1) shall act jointly with the surviving parent, if any, but if—
 
 (a) the surviving parent objects to the guardian so acting; or
 
@@ -102,9 +146,7 @@ the guardian may apply to the Court and the Court may—
 
 7. The principal Act is amended by inserting after section 8 the following section:
 
-Protector
-
-8A. (1) If an infant- to be temporary (a) has been abandoned by his parent or guardian; guardian or
+Protector 8A. (1) If an infant- to be temporary (a) has been abandoned by his parent or guardian; guardian or
 
 ### of
 

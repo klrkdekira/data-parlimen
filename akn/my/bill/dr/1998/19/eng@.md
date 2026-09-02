@@ -50,9 +50,15 @@ paragraph (c) the following paragraphs:
 
 <!-- page 2 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Section 4 of the principal Act is amended by inserting of after subsection (3) the following subsections: section 4
+3. Section 4 of the principal Act is amended by inserting
+
+<!-- marginal: of -->
+
+after subsection (3) the following subsections:
+
+<!-- marginal: section 4 -->
 
 "(4) The Authority may, with the written approval of the Minister, establish or participate in any body corporate—
 
@@ -96,13 +102,29 @@ Authority (Amendment)
 
 18 the following section:
 
-Establish- 18A. (1) The Authority may, with the written ment of approval of the Minister, out of the funds of staff welfare the Authority, create and maintain a trust account fund. to be known as the "Labuan Offshore Financial Services Authority Staff Welfare Fund" for the benefits of its officers and employees including their dependants.
+<!-- marginal: Establish- -->
+
+18A. (1) The Authority may, with the written
+
+<!-- marginal: ment of -->
+
+approval of the Minister, out of the funds of
+
+<!-- marginal: staff -->
+
+<!-- marginal: welfare -->
+
+the Authority, create and maintain a trust account
+
+<!-- marginal: fund. -->
+
+to be known as the "Labuan Offshore Financial Services Authority Staff Welfare Fund" for the benefits of its officers and employees including their dependants.
 
 (2) The Labuan Offshore Financial Services Authority Staff Welfare Fund shall be utilized for such purposes conducive to the welfare of the officers and employees of the Authority, including their dependants, as may from time to time be provided in trust directions to be issued by the Authority with the approval of the Minister, and such directions may provide for the manner and the procedure for the making of the grant, loans or other payments from such Fund.".
 
 <!-- page 4 -->
 
-New Part
+<!-- marginal: New Part -->
 
 5. The principal Act is amended by inserting after Part
 
@@ -112,35 +134,51 @@ New Part
 
 ## SUBMISSION AND PRESERVATION OF INFORMATION
 
-Interpretation
+<!-- marginal: Interpretation -->
 
-28A. In this Part, unless the context otherwise in relation requires— to Part 11A.
+28A. In this Part, unless the context otherwise
+
+<!-- marginal: in relation -->
+
+requires—
+
+<!-- marginal: to Part 11A. -->
 
 "authority" means any authority situated within or outside Malaysia;
 
-"credit facility" has the meaning assigned to Act 443. it in the Offshore Banking Act 1990;
+"credit facility" has the meaning assigned to
+
+<!-- marginal: Act 443. -->
+
+it in the Offshore Banking Act 1990;
 
 "criminal offence" means any offence under—
 
 (a) any law in Malaysia relating to offshore financial services, if such offence is punishable with imprisonment;
 
-Act 574.
+<!-- marginal: Act 574. -->
 
 (b) the Penal Code;
 
-Act 234.
+<!-- marginal: Act 234. -->
 
 (c) the Dangerous Drugs Act 1952;
 
-Act 340
+<!-- marginal: Act 340 -->
 
 (d) the Dangerous Drugs (Forfeiture of Property) Act 1988; or
 
-(e) the Kidnapping Act 1961; Act 365.
+(e) the Kidnapping Act 1961;
+
+<!-- marginal: Act 365. -->
 
 "depositor" means any person who has placed a deposit or deposited a sum of money in a licensed offshore bank;
 
-"domestic law enforcement agency" means Act 344. the Royal Malaysia Police as defined in the Police Act 1967;
+"domestic law enforcement agency" means
+
+<!-- marginal: Act 344. -->
+
+the Royal Malaysia Police as defined in the Police Act 1967;
 
 "financial institution" means a licensed offshore bank, licensee, trust company or fund manager;
 
@@ -148,23 +186,45 @@ Act 340
 
 Authority (Amendment)
 
-"fund manager" means a manager as defined Act 579. in the Labuan Offshore Securities Industry Act 1998;
+"fund manager" means a manager as defined
 
-"home monetary authority" has the meaning assigned to it in the Offshore Banking Act 1990, Act 443. and includes the Bank;
+<!-- marginal: Act 579. -->
+
+in the Labuan Offshore Securities Industry Act 1998;
+
+"home monetary authority" has the meaning assigned to it in the Offshore Banking Act 1990,
+
+<!-- marginal: Act 443. -->
+
+and includes the Bank;
 
 "home supervisory authority" means any body or authority which is responsible for the supervision of a licensee in any country;
 
 "licensed offshore bank" has the meaning assigned to it in the Offshore Banking Act 1990;
 
-"licensee" has the meaning assigned to it in Act 444. the Offshore Insurance Act 1990;
+"licensee" has the meaning assigned to it in
 
-"trust company" has the meaning assigned Act 442. to it in the Labuan Trust Companies Act 1990.
+<!-- marginal: Act 444. -->
 
-Submission 28B. (1) The Authority may, in exercise of
+the Offshore Insurance Act 1990;
 
-### of
+"trust company" has the meaning assigned
 
-its supervisory functions under this Act or under information. any other law relating to offshore financial services, require any financial institution or any corporation related to any financial institution to submit to the Authority any information which the Authority deems necessary or expedient for the performance of such supervisory functions, but the Authority shall not require any information which dicloses the affairs, identify or account of a customer of such institution or corporation.
+<!-- marginal: Act 442. -->
+
+to it in the Labuan Trust Companies Act 1990.
+
+<!-- marginal: Submission -->
+
+28B. (1) The Authority may, in exercise of
+
+<!-- marginal: of -->
+
+its supervisory functions under this Act or under
+
+<!-- marginal: information. -->
+
+any other law relating to offshore financial services, require any financial institution or any corporation related to any financial institution to submit to the Authority any information which the Authority deems necessary or expedient for the performance of such supervisory functions, but the Authority shall not require any information which dicloses the affairs, identify or account of a customer of such institution or corporation.
 
 (2) The Authority may disclose any information submitted under subsection (1)—
 
@@ -172,11 +232,7 @@ its supervisory functions under this Act or under information. any other law rel
 
 <!-- page 6 -->
 
-(b) to the home monetary authority of the institution, and the disclosure may include any information which relates to an individual institution under
-
-<!-- marginal: the -->
-
-supervision of the home monetary authority.
+(b) to the home monetary authority of the institution, and the disclosure may include any information which relates to an individual institution under the supervision of the home monetary authority.
 
 (3) Nothing in subsections (1) and (2) shall be construed so as to prevent the exercise by the Authority of its power to require the submission of any information relating to the identity or particulars of any person who has obtained any credit facility from a licensed offshore bank, if the Authority is satisfied that such information is necessary for or incidental to its supervisory functions, and the Authority may disclose all or any part of such information—
 
@@ -184,7 +240,9 @@ supervision of the home monetary authority.
 
 (b) to the domestic law enforcement agency if the Authority is satisfied, based on the evidence made available to the Authority, that fraud or criminal offence has been or is likely to be committed.
 
-(4) Without prejudice to subsections (1) and (3), if the Authority is satisfied, based on the evidence made available to the Authority, that fraud or criminal offence has been or is likely to be committed, the Authority may require the submission of any information relating to—
+(4) Without prejudice to subsections (1) and
+
+(3), if the Authority is satisfied, based on the evidence made available to the Authority, that fraud or criminal offence has been or is likely to be committed, the Authority may require the submission of any information relating to—
 
 (a) the affairs, identity or account of any particular depositor of any licensed offshore bank;
 
@@ -228,11 +286,41 @@ Authority (Amendment)
 
 Authority (Amendment)
 
-Examina- 28c. (1) The Director-General or any person tion. authorised by the Authority may examine and inspect, under condition of secrecy, any financial institution or any corporation related to any financial institution for the purpose of verifying information submitted under subsections 28B(l), (3) and (4).
+<!-- marginal: Examina- -->
+
+28c. (1) The Director-General or any person
+
+<!-- marginal: tion. -->
+
+authorised by the Authority may examine and inspect, under condition of secrecy, any financial institution or any corporation related to any financial institution for the purpose of verifying information submitted under subsections 28B(l),
+
+(3) and (4).
 
 (2) Where there is a conflict between the provision of this section and the provision of any other law relating to offshore financial services, the provision of this section shall prevail.
 
-Appointment 28D. (1) For the purposes of carrying out of investigation of any offence under this Act or investigating officer, under any other law relating to offshore financial powers, services, the Authority may appoint, by an functions and duties. instrument in writing, any officer or employee of the Authority or any other suitable person to be an investigating officer.
+<!-- marginal: Appointment -->
+
+28D. (1) For the purposes of carrying out
+
+<!-- marginal: of -->
+
+investigation of any offence under this Act or
+
+<!-- marginal: investigating -->
+
+<!-- marginal: officer, -->
+
+under any other law relating to offshore financial
+
+<!-- marginal: powers, -->
+
+services, the Authority may appoint, by an
+
+<!-- marginal: functions -->
+
+<!-- marginal: and duties. -->
+
+instrument in writing, any officer or employee of the Authority or any other suitable person to be an investigating officer.
 
 (2) Subject to subsection (3), an investigating officer appointed under subsection (1) shall have all the powers, functions, and duties conferred on an investigating officer under this Act, and where such investigating officer is not an officer or employee of the Authority, he shall, in relation to such powers, functions and duties—
 
@@ -252,9 +340,11 @@ the provisions of this Act or other written law applicable to an officer or empl
 
 (6) Any person who obstructs any investigating officer from exercising his duties under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding six months or to both.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-6. Subsection 29(2) of the principal Act is amended— of section
+6. Subsection 29(2) of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 29.
 
@@ -310,9 +400,21 @@ any member, officer or employee of the Authority who has been admitted as an adv
 
 (2) Notwithstanding any provision to the contrary in this Act, the Authority may appoint an advocate and solicitor for the purpose provided in subsection (1).
 
-Com-
+<!-- marginal: Com- -->
 
-36B. (1) The Director-General may, with the pounding written consent of the Public Prosecutor, in a of case where he deems it fit and proper so to do, offences. compound any offence committed by any person which is punishable under this Act by making a written offer to such person to compound the offence on payment to the Director-General, within such time as may be specified in the offer, of an amount which shall not exceed fifty per centum of the amount of the maximum fine to which that person would have been liable if he had been convicted of the offence.
+36B. (1) The Director-General may, with the
+
+<!-- marginal: pounding -->
+
+written consent of the Public Prosecutor, in a
+
+<!-- marginal: of -->
+
+case where he deems it fit and proper so to do,
+
+<!-- marginal: offences. -->
+
+compound any offence committed by any person which is punishable under this Act by making a written offer to such person to compound the offence on payment to the Director-General, within such time as may be specified in the offer, of an amount which shall not exceed fifty per centum of the amount of the maximum fine to which that person would have been liable if he had been convicted of the offence.
 
 (2) An offer under subsection (1) may be made at any time after the offence has been committed, but before any prosecution for it has been instituted.
 
@@ -320,7 +422,27 @@ Com-
 
 (4) Where an offence has been compounded under subsection (1), no prosecution shall be instituted after that in respect of such offence against the person to whom the offer to compound was made.
 
-Liability 36c. Where any offence against any provision of of this Act has been committed by any offshore director, officer, financial institution, any person who at the time controller, of the commission of the offence was a director, etc. officer, or controller, of the offshore financial
+<!-- marginal: Liability -->
+
+36c. Where any offence against any provision
+
+<!-- marginal: of -->
+
+of this Act has been committed by any offshore
+
+<!-- marginal: director, -->
+
+<!-- marginal: officer, -->
+
+financial institution, any person who at the time
+
+<!-- marginal: controller, -->
+
+of the commission of the offence was a director,
+
+<!-- marginal: etc. -->
+
+officer, or controller, of the offshore financial
 
 <!-- page 13 -->
 

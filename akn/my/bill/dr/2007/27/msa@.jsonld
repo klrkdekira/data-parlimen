@@ -1,0 +1,277 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-27-2007",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_4"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Kerajaan Tempatan (Pindaan) 2007"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Kerajaan Tempatan (Pindaan) 2007."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini terpakai bagi Semenanjung Malaysia dan Wilayah Persekutuan Putrajaya"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri berkenaaan dengan sesuatu Negeri, selepas berunding dengan Pihak Berkuasa Negeri itu, melalui pemberitahuan dalam Warta dan Menteri boleh, selepas berunding dengan Pihak Berkuaaa Negeri, menetapkan tarikh-tarikh yang berlainan —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bagi permulaan kuat kuasa Akta ini di kawasan pihak berkuasa tempatan yang berlainan alau b:ihagian-bahagian kawasan pihak beTkuasa tempatan yang berlainan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bagi permulaan kuat kuasa peruntukan yang berlainan Akta ini; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bagi permulaan kuat kuasa peruntukan yang berlainan Akta ini di kawasan pihak berkuasa tempatan yang berlainan atau bahagian-bahagian kawasan pihak berkuasa tempatan yang berlainan,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa di Wilayah Persekutuan Kuala Lumpur dan Wilayah Persekutuan Putrajaya pada tarikh yang ditetapkan oleh Menteri yang bertanggungjawab bagi Wilayah Persekutuan Kuala Lumpur dan Wilayah Persekutuan Putrajaya pemberitahuan dalam Warta."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_5__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_5__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen (3), Pihak Berkuasa boleh. melalui pemberitahuan dalam Warta—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_5__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_5__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_5__list_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_5"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_5__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_5__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengecualikan mana-mana bahagian mana-mana kawasan pihak berkuasa tempatan daripada mana-mana atau kesemua peruntukan Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_5__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_5__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "meluaskan mana-mana atau kesemua peruntukan dalam Akta ini supaya terpakai bagi keseluruhan atau mana- mana kawasan atau bahagian mana-mana kawasan dalam Negeri itu yang bukan di bawah mana-mana pihak berkuasa tempatan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_5__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_5__list_2__para_b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_5"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_5__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_1__subsec_5__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membuat apa-apa ubah suaian, pindaan atau perubahan peruntukan dalam Akta ini sebagaimana yang perlu bagi maksud pemakaiannya di bawah perenggan (b) Pindaan seksyen 72"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Kerajaan Tempatan 1976 [Akra 1 7 1] , yang disebut \"Akta ibu\" dalam Akta ini. dipinda dalam subseksyen 72(1} —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan {a) dengan perenggan yang berikut: \"(a) untuk mengadakan, menyenggarakan dan menjalankan apa-apa perkhidmatan kebersihan bagi menguruskan effluen;\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subperenggan (f)(u). Pindaan seksyen 73"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 73(1) Akta ibu dipinda —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (a)(i) dcngan yang berikut: \"(a) (i) untuk mengadakan. menyenggarakan dan memaksa pcnggunaan apa-apa perkhidmatan bagi menguruskan effluen dan untuk menghendaki pemunya alau penduduk mana-mana premts untuk melakianakan urusan itu dan untuk mengawal selia dan mengawal caranya;\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (a)(ii) dengan perenggan yang berikut: “(ii) untuk memelihara tempat awam supaya berada dalam keadaan bersih dan bebas daripada effluen dan untuk mclarang air simhahan alau cecair buangan lain dibuangkan, dijatuhkan, diletakkan alau dikeluarkan ke mana-mana anak sungai, saluran atau alur air lain, dan menahan cecair itu daripada mengalir ke dalam mana-mana tempat itu, dan untuk mengawal selia atau melarang orang, binatang atau benda daripada dimandikan atau dibasuh di mana-mana tempat itu;\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (d)(iii) Kecualian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/27/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi mengelakkan keraguan, diisytiharkan bahawa walau apa pun apa-apa jua yang terkandung dalam Akta ini, mana-mana undang undang yang berhubungan dengan pengurusan sisa pepejal terkawal dan pembersihan awam yang pada masa ini berkuat kuasa dalam mana-mana kawasan pihak berkuasa tempatan atau kawasan bukan pihak berkuasa tempatan hendaklah terus berkuat kuasa melainkan jika dan sehingga Akta ini dan Akta Pengurusan Sisa Pepejal dan Pembersihan Awam 2007 dikuatkuasakan berkenaan dengan kawasan ilu."
+      }
+    }
+  ]
+}

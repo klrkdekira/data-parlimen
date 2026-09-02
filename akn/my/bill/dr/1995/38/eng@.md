@@ -40,17 +40,15 @@ is referred to as the "principal Act", is amended in section
 
 <!-- page 2 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Subsection 2(1) of the principal Act is amended— of section 2.
+3. Subsection 2(1) of the principal Act is amended—
+
+<!-- marginal: of section 2. -->
 
 (a) by inserting before the definition of "agent" the following definition:
 
-"accounting records" has the same meaning as is assigned to
-
-<!-- marginal: that -->
-
-Act 125 expression in the Companies Act 1965;';
+"accounting records" has the same meaning as is assigned to that Act 125 expression in the Companies Act 1965;';
 
 (b) by inserting after the definition of "agent" the following definition:
 
@@ -106,7 +104,11 @@ induce any person to enter into or to offer to enter into—
 
 (g) by inserting after the definition of "director" the following definition:
 
-"document" has the same meaning as is assigned to that expression in Act 56. the Evidence Act 1950;';
+"document" has the same meaning as is assigned to that expression in
+
+<!-- marginal: Act 56. -->
+
+the Evidence Act 1950;';
 
 (h) in the definition of "exempt dealer"—
 
@@ -128,7 +130,11 @@ induce any person to enter into or to offer to enter into—
 
 "(e) a licensed fund manager whose dealing in securities is solely incidental to his carrying on the business of managing a portfolio of securities on behalf of other persons;";
 
-(i) by inserting after the definition of "exempt dealer" the following definitions: ' "exempt fund manager" means a person exempted under paragraph (d) of subsection (2) of section 15A; "exempt stock market" means a stock market which is declared to be an exempt stock market under paragraph (a) of subsection (2) of section 7; "fund manager" means a person who pursuant to an agreement with any other person or persons, undertakes on behalf of that person or persons (whether on a discretionary authority granted by that person or persons or otherwise) the management of a portfolio of securities for the purposes of investment; "fund manager's representative" means a person, by whatever name described, who is in the employment of, or acting for or by arrangement with, a fund manager, not being a person described in subsection (2) of section 15A, and performs for that fund manager any of the functions of a fund manager, other than work ordinarily performed by accountants, clerks or cashiers; "futures contract" has the same meaning as is assigned to that Act 499. expression in the Futures Industry Act 1993;
+(i) by inserting after the definition of "exempt dealer" the following definitions: ' "exempt fund manager" means a person exempted under paragraph (d) of subsection (2) of section 15A; "exempt stock market" means a stock market which is declared to be an exempt stock market under paragraph (a) of subsection (2) of section 7; "fund manager" means a person who pursuant to an agreement with any other person or persons, undertakes on behalf of that person or persons (whether on a discretionary authority granted by that person or persons or otherwise) the management of a portfolio of securities for the purposes of investment; "fund manager's representative" means a person, by whatever name described, who is in the employment of, or acting for or by arrangement with, a fund manager, not being a person described in subsection (2) of section 15A, and performs for that fund manager any of the functions of a fund manager, other than work ordinarily performed by accountants, clerks or cashiers; "futures contract" has the same meaning as is assigned to that
+
+<!-- marginal: Act 499. -->
+
+expression in the Futures Industry Act 1993;
 
 <!-- page 6 -->
 
@@ -154,7 +160,11 @@ induce any person to enter into or to offer to enter into—
 
 but the expression does not include—';
 
-(ii) by renumbering paragraphs (a), (b), (c), (d), (e), (f) and (g) as paragraphs (c), (d), (e), (f), (g), (h) and (i) respectively;
+(ii) by renumbering paragraphs (a), (b), (c),
+
+(d), (e), (f) and (g) as paragraphs (c), (d),
+
+(e), (f), (g), (h) and (i) respectively;
 
 (iii) by deleting the word "or" at the end of paragraph (h);
 
@@ -214,7 +224,9 @@ granted or renewed under Part IV;';
 
 no mode is mentioned means prescribed from time to time by order published in the Gazette, and a power to prescribe includes the power to prescribe differently for different persons, securities or transactions, or different classes, categories or descriptions of persons, securities or transactions;
 
-"recognised clearing house" means a clearing house which is declared to be a recognised clearing house under subsection (1) of section 8A;';
+"recognised clearing house" means a clearing house which is declared to be a recognised clearing house under subsection
+
+(1) of section 8A;';
 
 (o) by inserting after the definition of "Registrar" the following definition:
 
@@ -256,13 +268,17 @@ limiting the generality of the foregoing, includes—
 
 (r) by inserting after the definition of "securities" the following definitions:
 
-"securities laws" means this Act, the Securities Industry (Central Act 453. Depositories) Act 1991, the Securities Act 498 Commission Act 1993 and unless expressly stated otherwise, includes any regulations, rules, orders, notifications or other subsidiary legislation made under those laws;
+"securities laws" means this Act, the Securities Industry (Central
 
-"specify", where no mode
+<!-- marginal: Act 453. -->
 
-<!-- marginal: is -->
+Depositories) Act 1991, the Securities
 
-mentioned, means specify from time to time in writing, and a power to specify includes the power to specify differently for different persons, securities or transactions, or different classes, categories or descriptions of persons, securities or transactions;';
+<!-- marginal: Act 498 -->
+
+Commission Act 1993 and unless expressly stated otherwise, includes any regulations, rules, orders, notifications or other subsidiary legislation made under those laws;
+
+"specify", where no mode is mentioned, means specify from time to time in writing, and a power to specify includes the power to specify differently for different persons, securities or transactions, or different classes, categories or descriptions of persons, securities or transactions;';
 
 (s) by inserting after the definition of "stock market" the following definition:
 
@@ -272,33 +288,49 @@ mentioned, means specify from time to time in writing, and a power to specify in
 
 <!-- page 12 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Paragraph 3(1)(d) of the principal Act is amended by of section 3. inserting before paragraph (iii) the following paragraphs:
+4. Paragraph 3(1)(d) of the principal Act is amended by
+
+<!-- marginal: of section 3. -->
+
+inserting before paragraph (iii) the following paragraphs:
 
 "(i) a person dealing in securities as a sole proprietor or in partnership with the other person;
 
 (ii) subject to subsection (2), a person who is a partner of the other person otherwise than as a result of him dealing in securities in partnership with the other person;".
 
-Amendment
+<!-- marginal: Amendment -->
 
-5. Subsection 4(5) of the principal Act is amended— of section 4.
+5. Subsection 4(5) of the principal Act is amended—
+
+<!-- marginal: of section 4. -->
 
 (a) by inserting after the word "interest" the words "in a security"; and
 
 (b) in paragraph (c) by inserting after the word "right" wherever it appears the words "or power".
 
-Amendment
+<!-- marginal: Amendment -->
 
-6. The principal Act is amended by substituting for the of heading heading of Part III the following heading: of Part III.
+6. The principal Act is amended by substituting for the
+
+<!-- marginal: of heading -->
+
+heading of Part III the following heading:
+
+<!-- marginal: of Part III. -->
 
 ## "STOCK EXCHANGES AND CLEARING
 
 ## HOUSES".
 
-Substitution
+<!-- marginal: Substitution -->
 
-7. The principal Act is amended by substituting for section of section 7. 7 the following section:
+7. The principal Act is amended by substituting for section
+
+<!-- marginal: of section 7. -->
+
+7 the following section:
 
 "Establishment 7. (1) A person shall not establish, operate or of stock maintain, or assist in establishing, operating or markets. maintaining, or hold himself out as providing, operating or maintaining, a stock market that is not a stock market of a stock exchange or an exempt stock market.
 
@@ -322,9 +354,19 @@ relating to the particular stock market, or stock market included in the particu
 
 <!-- marginal: 8A and 8B. -->
 
-8 the following sections: "Recognised
+8 the following sections:
 
-8A. (1) Where the Commission is satisfied that clearing it is appropriate to do so in the public interest, house. or for the proper regulation of services for the clearing and settlement of transactions in securities, it may, with the approval of the Minister, by notice published in the Gazette, declare a clearing house to be a recognised clearing house for the purposes of this Act subject to such conditions as the Commission thinks fit.
+<!-- marginal: "Recognised -->
+
+8A. (1) Where the Commission is satisfied that
+
+<!-- marginal: clearing -->
+
+it is appropriate to do so in the public interest,
+
+<!-- marginal: house. -->
+
+or for the proper regulation of services for the clearing and settlement of transactions in securities, it may, with the approval of the Minister, by notice published in the Gazette, declare a clearing house to be a recognised clearing house for the purposes of this Act subject to such conditions as the Commission thinks fit.
 
 <!-- page 14 -->
 
@@ -334,15 +376,29 @@ relating to the particular stock market, or stock market included in the particu
 
 (b) the rules of the clearing house in operation before the declaration shall continue to have effect unless otherwise specified, or until such time as may be specified, in the notice referred to in paragraph (a).
 
-Withdrawal 8B. (1) Subject to subsections (2) and (3), the of Commission may, with the approval of the recognition of clearing Minister, by notice published in the Gazette, house. withdraw a recognition given under subsection (1) of section 8A to a clearing house where the clearing house has contravened a securities law.
+<!-- marginal: Withdrawal -->
+
+8B. (1) Subject to subsections (2) and (3), the
+
+<!-- marginal: of -->
+
+Commission may, with the approval of the
+
+<!-- marginal: recognition -->
+
+<!-- marginal: of clearing -->
+
+Minister, by notice published in the Gazette,
+
+<!-- marginal: house. -->
+
+withdraw a recognition given under subsection
+
+(1) of section 8A to a clearing house where the clearing house has contravened a securities law.
 
 (2) The Commission shall give a recognised clearing house not less than fourteen days notice in writing—
 
-(a) stating that the Commission
-
-<!-- marginal: is -->
-
-considering whether to withdraw the recognition given under subsection (1) of section 8A;
+(a) stating that the Commission is considering whether to withdraw the recognition given under subsection (1) of section 8A;
 
 (b) stating the grounds on which the Commission's consideration is being based; and
 
@@ -368,7 +424,21 @@ considering whether to withdraw the recognition given under subsection (1) of se
 
 "Commission
 
-9. (1) No amendment to the rules of a stock to approve exchange shall have effect unless it has been amendment to rules of approved by the Commission under subsection stock exchange.
+9. (1) No amendment to the rules of a stock
+
+<!-- marginal: to approve -->
+
+exchange shall have effect unless it has been
+
+<!-- marginal: amendment -->
+
+<!-- marginal: to rules of -->
+
+approved by the Commission under subsection
+
+<!-- marginal: stock -->
+
+<!-- marginal: exchange. -->
 
 (3).
 
@@ -382,7 +452,7 @@ considering whether to withdraw the recognition given under subsection (1) of se
 
 <!-- page 16 -->
 
-16
+<!-- marginal: 16 -->
 
 ## BILL
 
@@ -414,9 +484,29 @@ section 9 the following sections:
 
 <!-- marginal: 9C. -->
 
-"Commission
+<!-- marginal: "Commission -->
 
-9A. (1) No amendment to the rules of a to approve recognised clearing house shall have effect unless amendment to rules of it has been approved in writing by the recognised Commission under subsection (3). clearing house. (2) Where a recognised clearing house proposes to make any amendment to its rules, the recognised clearing house shall submit to the Commission—
+9A. (1) No amendment to the rules of a
+
+<!-- marginal: to approve -->
+
+recognised clearing house shall have effect unless
+
+<!-- marginal: amendment -->
+
+<!-- marginal: to rules of -->
+
+it has been approved in writing by the
+
+<!-- marginal: recognised -->
+
+Commission under subsection (3).
+
+<!-- marginal: clearing -->
+
+<!-- marginal: house. -->
+
+(2) Where a recognised clearing house proposes to make any amendment to its rules, the recognised clearing house shall submit to the Commission—
 
 (a) the text of the proposed amendment; and
 
@@ -442,9 +532,21 @@ Provided that this subsection shall not have effect until a reasonable time has 
 
 <!-- page 19 -->
 
-Duties of 9B. (1) It shall be the duty of the stock exchange stock to ensure, so far as may be reasonably exchange. practicable, an orderly and fair market in the securities that are traded through its facilities.
+<!-- marginal: Duties of -->
 
-(2) In performing its duty under subsection (1), the stock exchange shall—
+9B. (1) It shall be the duty of the stock exchange
+
+<!-- marginal: stock -->
+
+to ensure, so far as may be reasonably
+
+<!-- marginal: exchange. -->
+
+practicable, an orderly and fair market in the securities that are traded through its facilities.
+
+(2) In performing its duty under subsection
+
+(1), the stock exchange shall—
 
 (a) act in the public interest; and
 
@@ -480,9 +582,19 @@ Duties of 9B. (1) It shall be the duty of the stock exchange stock to ensure, so
 
 (c) automated systems with adequate capacity, security arrangements and facilities to meet emergencies.
 
-Closure of
+<!-- marginal: Closure of -->
 
-9C. (1) The Minister may direct a stock stock exchange to close a stock market of the stock exchange in emergency. exchange for a period not exceeding five business days if the Minister is of the opinion that an orderly and fair market for trading in securities on the stock market is being or is likely to be prevented because—
+9C. (1) The Minister may direct a stock
+
+<!-- marginal: stock -->
+
+exchange to close a stock market of the stock
+
+<!-- marginal: exchange in -->
+
+<!-- marginal: emergency. -->
+
+exchange for a period not exceeding five business days if the Minister is of the opinion that an orderly and fair market for trading in securities on the stock market is being or is likely to be prevented because—
 
 (a) an emergency or natural disaster has occurred in Malaysia; or
 
@@ -494,9 +606,7 @@ Closure of
 
 (3) The Minister shall specify the grounds for the closure in the direction given under subsection (1) and the grounds for any extension of closure under subsection (2).
 
-(4) The Minister shall, as soon as may be practicable, give a copy of the direction under subsection (1) or extension under subsection
-
-(2) to a recognised clearing house and direct the recognised clearing house to do all that it is reasonably capable of doing to give effect to the direction under subsection (1) or extension under subsection (2) while the direction or extension remains in force.
+(4) The Minister shall, as soon as may be practicable, give a copy of the direction under subsection (1) or extension under subsection (2) to a recognised clearing house and direct the recognised clearing house to do all that it is reasonably capable of doing to give effect to the direction under subsection (1) or extension under subsection (2) while the direction or extension remains in force.
 
 (5) In this section—
 
@@ -514,9 +624,47 @@ sections 10 and 11 the following sections:
 
 <!-- marginal: 10 and 11. -->
 
-"Stock
+<!-- marginal: "Stock -->
 
-10. (1) A stock exchange or a recognised exchange clearing house shall provide such assistance to and recognised the Commission, or to a person acting on behalf clearing of or with the authority of the Commission, as house to the Commission or such person reasonably provide assistance requires including the furnishing of such returns, to and the provision of such information relating Commission or to the operations of the stock exchange or Registrar. recognised clearing house or in respect of such dealing in securities or any other information as the Commission or such person may require for the proper administration of the securities laws.
+10. (1) A stock exchange or a recognised
+
+<!-- marginal: exchange -->
+
+clearing house shall provide such assistance to
+
+<!-- marginal: and -->
+
+<!-- marginal: recognised -->
+
+the Commission, or to a person acting on behalf
+
+<!-- marginal: clearing -->
+
+of or with the authority of the Commission, as
+
+<!-- marginal: house to -->
+
+the Commission or such person reasonably
+
+<!-- marginal: provide -->
+
+<!-- marginal: assistance -->
+
+requires including the furnishing of such returns,
+
+<!-- marginal: to -->
+
+and the provision of such information relating
+
+<!-- marginal: Commission -->
+
+<!-- marginal: or -->
+
+to the operations of the stock exchange or
+
+<!-- marginal: Registrar. -->
+
+recognised clearing house or in respect of such dealing in securities or any other information as the Commission or such person may require for the proper administration of the securities laws.
 
 <!-- page 22 -->
 
@@ -534,9 +682,51 @@ sections 10 and 11 the following sections:
 
 <!-- page 23 -->
 
-Powers
+<!-- marginal: Powers -->
 
-11. (1) Where any person who is under an concerning obligation to comply with, observe, enforce or compliance with and give effect to any rule of the stock exchange enforcement or recognised clearing house fails to comply of rules or listing with, observe, enforce or give effect to any requirements such rule (the "person in default"), the stock of stock exchange or exchange or the recognised clearing house may recognised take any action against the person in default in clearing accordance with the rules of the stock exchange house. or recognised clearing house, as the case may be.
+11. (1) Where any person who is under an
+
+<!-- marginal: concerning -->
+
+obligation to comply with, observe, enforce or
+
+<!-- marginal: compliance -->
+
+<!-- marginal: with and -->
+
+give effect to any rule of the stock exchange
+
+<!-- marginal: enforcement -->
+
+or recognised clearing house fails to comply
+
+<!-- marginal: of rules or -->
+
+<!-- marginal: listing -->
+
+with, observe, enforce or give effect to any
+
+<!-- marginal: requirements -->
+
+such rule (the "person in default"), the stock
+
+<!-- marginal: of stock -->
+
+<!-- marginal: exchange or -->
+
+exchange or the recognised clearing house may
+
+<!-- marginal: recognised -->
+
+take any action against the person in default in
+
+<!-- marginal: clearing -->
+
+accordance with the rules of the stock exchange
+
+<!-- marginal: house. -->
+
+or recognised clearing house, as the case may be.
 
 (2) Without prejudice to subsection (1), where any person who is under an obligation to comply with, observe, enforce or give effect to the listing requirements of a stock exchange fails to comply with, observe, enforce or give effect to any such listing requirements (the "person in default"), the stock exchange may, in addition to or in lieu of any action which it may take under the listing requirements, take any one or more of the following actions:
 
@@ -568,7 +758,9 @@ shall be deemed to be under an obligation to comply with, observe, enforce or gi
 
 (b) any person aggrieved by the failure of the person in default to comply with, observe, enforce or give effect to the rules (the "aggrieved person"),
 
-at least fourteen days notice of its intention to take any of the actions under subsection (1) or (2), as the case may be, and shall state the grounds for the action taken in such notice.
+at least fourteen days notice of its intention to take any of the actions under subsection (1) or
+
+(2), as the case may be, and shall state the grounds for the action taken in such notice.
 
 (5) A direction given by the stock exchange under subsection (2) shall remain in force until it is revoked.
 
@@ -604,11 +796,35 @@ Provided that a stock exchange or a recognised clearing house shall not take any
 
 <!-- page 26 -->
 
-New sections
+<!-- marginal: New sections -->
 
-12. The principal Act is amended by inserting after section 11A and 11B. 11 the following sections:
+12. The principal Act is amended by inserting after section
 
-"Power of 11A. (1) Where the Commission is satisfied that Commission it is in the public interest, or it is appropriate to prohibit trading in to do so for the protection of investors, to prohibit particular the trading of particular securities or a particular securities. class of securities made available by a corporation on the stock market of a stock exchange, the Commission may give written notice to the stock exchange stating that it is so satisfied and setting out the reasons for that opinion and the date from which the stock exchange is to give effect to the notice.
+<!-- marginal: 11A and 11B. -->
+
+11 the following sections:
+
+<!-- marginal: "Power of -->
+
+11A. (1) Where the Commission is satisfied that
+
+<!-- marginal: Commission -->
+
+it is in the public interest, or it is appropriate
+
+<!-- marginal: to prohibit -->
+
+<!-- marginal: trading in -->
+
+to do so for the protection of investors, to prohibit
+
+<!-- marginal: particular -->
+
+the trading of particular securities or a particular
+
+<!-- marginal: securities. -->
+
+class of securities made available by a corporation on the stock market of a stock exchange, the Commission may give written notice to the stock exchange stating that it is so satisfied and setting out the reasons for that opinion and the date from which the stock exchange is to give effect to the notice.
 
 (2) Where the Commission gives a notice to a stock exchange under subsection (1), the Commission shall at the same time—
 
@@ -632,7 +848,41 @@ New sections
 
 (6) A stock exchange shall not permit trading in securities on a stock market of the stock exchange in contravention of a notice under subsection (1).
 
-Suspension 11B. (1) Without prejudice to section 9 C or 11A, order where the Minister is satisfied that it is in the relating to stock public interest, or it is appropriate to do so for exchange, the protection of investors or for the proper recognised clearing regulation of a stock exchange, recognised house or clearing house or central depository, the Minister central may, on the recommendation of the Commission, depository. make an order ("suspension order") relating to all or any of the following:
+<!-- marginal: Suspension -->
+
+11B. (1) Without prejudice to section 9 C or 11A,
+
+<!-- marginal: order -->
+
+where the Minister is satisfied that it is in the
+
+<!-- marginal: relating to -->
+
+<!-- marginal: stock -->
+
+public interest, or it is appropriate to do so for
+
+<!-- marginal: exchange, -->
+
+the protection of investors or for the proper
+
+<!-- marginal: recognised -->
+
+<!-- marginal: clearing -->
+
+regulation of a stock exchange, recognised
+
+<!-- marginal: house or -->
+
+clearing house or central depository, the Minister
+
+<!-- marginal: central -->
+
+may, on the recommendation of the Commission,
+
+<!-- marginal: depository. -->
+
+make an order ("suspension order") relating to all or any of the following:
 
 (a) the functions of the board of the stock exchange, recognised clearing house or central depository, or any member of its board;
 
@@ -682,9 +932,17 @@ section 13 the following section:
 
 <!-- marginal: 13. -->
 
-"Dealer's
+<!-- marginal: "Dealer's -->
 
-13. A person shall not act as a dealer's represen- representative unless— tative's licence.
+13. A person shall not act as a dealer's
+
+<!-- marginal: represen- -->
+
+representative unless—
+
+<!-- marginal: tative's -->
+
+<!-- marginal: licence. -->
 
 (a) the dealer holds a dealer's licence under this Part; and
 
@@ -692,17 +950,43 @@ section 13 the following section:
 
 <!-- page 30 -->
 
-Substitution
+<!-- marginal: Substitution -->
 
-14. The principal Act is amended by substituting for of sections 15 and 1 5A. sections 15 and 15A the following sections:
+14. The principal Act is amended by substituting for
 
-"Investment 15. A person shall not act as an investment represen- representative of an investment adviser unless— tative's licence.
+<!-- marginal: of sections -->
+
+<!-- marginal: 15 and 1 5A. -->
+
+sections 15 and 15A the following sections:
+
+<!-- marginal: "Investment -->
+
+15. A person shall not act as an investment
+
+<!-- marginal: represen- -->
+
+representative of an investment adviser unless—
+
+<!-- marginal: tative's -->
+
+<!-- marginal: licence. -->
 
 (a) the investment adviser holds an investment adviser's licence under this Part; and
 
 (b) the person holds an investment representative's licence under this Part.
 
-Fund 15A. (1) A person shall not act as a fund manager's manager or hold himself out to be a fund manager licence unless he is the holder of a fund manager's licence under this Part.
+<!-- marginal: Fund -->
+
+15A. (1) A person shall not act as a fund
+
+<!-- marginal: manager's -->
+
+manager or hold himself out to be a fund manager
+
+<!-- marginal: licence -->
+
+unless he is the holder of a fund manager's licence under this Part.
 
 (2) The provisions of subsection (1) shall not apply to—
 
@@ -726,13 +1010,41 @@ Fund 15A. (1) A person shall not act as a fund manager's manager or hold himself
 
 15A the following sections:
 
-"Fund 15B. A person shall not act as a fund manager's manager's representative unless— represen- tative's licence
+<!-- marginal: "Fund -->
+
+15B. A person shall not act as a fund manager's
+
+<!-- marginal: manager's -->
+
+representative unless—
+
+<!-- marginal: represen- -->
+
+<!-- marginal: tative's -->
+
+<!-- marginal: licence -->
 
 (a) the fund manager holds a fund manager's licence; and
 
 (b) the person holds a fund manager's representative's licence under this Part.
 
-Contra- 15C. A person who contravenes section 12, 13, vention of 14, 15, 15A or 15B commits an offence and is section 12, 13, 14, 15, liable on conviction to a fine not exceeding 15A or 15B. one million ringgit or to imprisonment for a term not exceeding ten years or to both.".
+<!-- marginal: Contra- -->
+
+15C. A person who contravenes section 12, 13,
+
+<!-- marginal: vention of -->
+
+14, 15, 15A or 15B commits an offence and is
+
+<!-- marginal: section 12, -->
+
+<!-- marginal: 13, 14, 15, -->
+
+liable on conviction to a fine not exceeding
+
+<!-- marginal: 15A or 15B. -->
+
+one million ringgit or to imprisonment for a term not exceeding ten years or to both.".
 
 <!-- marginal: Amendment -->
 
@@ -758,7 +1070,19 @@ section 17 the following section:
 
 <!-- marginal: 17. -->
 
-"Grounds 17. (1) The Commission may refuse an for refusal application made under section 16 if— to grant or renew licence.
+<!-- marginal: "Grounds -->
+
+17. (1) The Commission may refuse an
+
+<!-- marginal: for refusal -->
+
+application made under section 16 if—
+
+<!-- marginal: to grant or -->
+
+<!-- marginal: renew -->
+
+<!-- marginal: licence. -->
 
 (a) the application was not made in accordance with subsection (1) of section 16 or information was not supplied in accordance with subsection (2) of section 16;
 
@@ -774,13 +1098,39 @@ section 17 the following section:
 
 (3) The Minister may from time to time, on the recommendation of the Commission, by order published in the Gazette amend the Schedule.".
 
-New section
+<!-- marginal: New section -->
 
 18. The principal Act is amended by inserting after section
 
 17A. 17 the following section:
 
-"Licensed 17A. (1) A licensed person shall, immediately person to after the happening of an event that is a ground notify Commis- on which the Commission may revoke a licence sion of under section 27, give to the Commission written disqua- lifying notice setting out the particulars of the event. event. (2) Subject to subsection (1), it shall be a defence for a person who is required to give notice under subsection (1) if it is proved that when the requirement arose—
+<!-- marginal: "Licensed -->
+
+17A. (1) A licensed person shall, immediately
+
+<!-- marginal: person to -->
+
+after the happening of an event that is a ground
+
+<!-- marginal: notify -->
+
+<!-- marginal: Commis- -->
+
+on which the Commission may revoke a licence
+
+<!-- marginal: sion of -->
+
+under section 27, give to the Commission written
+
+<!-- marginal: disqua- -->
+
+<!-- marginal: lifying -->
+
+notice setting out the particulars of the event.
+
+<!-- marginal: event. -->
+
+(2) Subject to subsection (1), it shall be a defence for a person who is required to give notice under subsection (1) if it is proved that when the requirement arose—
 
 (a) the defendant was unaware of the event that gave rise to the requirement; and
 
@@ -790,19 +1140,17 @@ New section
 
 <!-- page 33 -->
 
-<!-- marginal: Substitution of -->
+Substitution of
 
-19. The principal Act is amended by substituting for
+19. The principal Act is amended by substituting for sections 18 and 19. sections 18 and 19 the following sections:
 
-<!-- marginal: sections 18 -->
+<!-- marginal: "Grant or -->
 
-<!-- marginal: and 19. -->
+18. (1) The Commission may—
 
-sections 18 and 19 the following sections:
+<!-- marginal: renewal of -->
 
-"Grant or
-
-18. (1) The Commission may— renewal of licences.
+<!-- marginal: licences. -->
 
 (a) on an application for the grant or renewal of a dealer's licence having been duly made in accordance with section 16 and after being provided with all such information and documents as it may require under that section, with the concurrence of the Minister, grant or renew a licence subject to such conditions or restrictions as it thinks fit; or
 
@@ -824,13 +1172,25 @@ having been duly made in accordance with section 16 and after being provided wit
 
 <!-- page 34 -->
 
-Commission's 19. (1) The holder of a representative's licence power to may make an application to the Commission in vary licences in certain the prescribed form and manner for a variation circumstances. of the name of the holder of a dealer's licence, a fund manager's licence or an investment adviser's licence, as the case may be, on whose behalf he may act.
+Commission's 19. (1) The holder of a representative's licence
+
+<!-- marginal: power to -->
+
+may make an application to the Commission in
+
+<!-- marginal: vary licences -->
+
+<!-- marginal: in certain -->
+
+the prescribed form and manner for a variation circumstances. of the name of the holder of a dealer's licence, a fund manager's licence or an investment adviser's licence, as the case may be, on whose behalf he may act.
 
 (2) Where an application is duly made under subsection (1) the Commission may, if the Commission is satisfied that the applicant meets the requirements in section 16 and none of the circumstances as described in subsection (1) of section 17 exist, vary the licence by varying the name and address of the dealer, fund manager or investment adviser specified in the licence.".
 
-Amendment of
+<!-- marginal: Amendment of -->
 
-20. Section 20 of the principal Act is amended— section 20.
+20. Section 20 of the principal Act is amended—
+
+<!-- marginal: section 20. -->
 
 (a) by substituting for the marginal note the following marginal note:
 
@@ -880,23 +1240,55 @@ Provided that in the case of a dealer's licence, such other conditions or restri
 
 And provided further that where the conditions or restrictions proposed to be imposed are likely to prejudice the interests of the licensed person, the Commission shall give such licensed person an opportunity to be heard.
 
-(2) Any condition or restriction imposed under subsection (1) shall be deemed to be a condition or restriction validly imposed under subsection (1) of section 18.".
+(2) Any condition or restriction imposed under subsection (1) shall be deemed to be a condition or restriction validly imposed under subsection
 
-Substitution
+(1) of section 18.".
 
-23. The principal Act is amended by substituting for of section section 23 the following section:
+<!-- marginal: Substitution -->
+
+23. The principal Act is amended by substituting for
+
+<!-- marginal: of section -->
+
+section 23 the following section:
 
 23.
 
-"Deposit to 23. (1) Except in the case of a dealer who is be lodged a member company, the Commission shall not in respect of dealer's grant or renew a dealer's or a fund manager's or fund licence unless there is lodged with the manager's Commission, at the time of the application for licence the licence, a deposit in the sum of one hundred thousand ringgit, or such greater sum as the Minister may specify to be lodged in respect of the licence.
+<!-- marginal: "Deposit to -->
+
+23. (1) Except in the case of a dealer who is
+
+<!-- marginal: be lodged -->
+
+a member company, the Commission shall not
+
+<!-- marginal: in respect -->
+
+<!-- marginal: of dealer's -->
+
+grant or renew a dealer's or a fund manager's
+
+<!-- marginal: or fund -->
+
+licence unless there is lodged with the
+
+<!-- marginal: manager's -->
+
+Commission, at the time of the application for
+
+<!-- marginal: licence -->
+
+the licence, a deposit in the sum of one hundred thousand ringgit, or such greater sum as the Minister may specify to be lodged in respect of the licence.
 
 (2) A deposit required by subsection (1) shall be in cash or in such other form as the Commission may in any particular case allow.
 
 (3) A deposit lodged under subsection (1) shall be applied by the Commission subject to and in accordance with the regulations made under this Act.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-24. Section 25 of the principal Act is amended— of section
+24. Section 25 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 25.
 
@@ -940,19 +1332,31 @@ accordance with subsection (1) or (2) of section 16,"; and
 
 <!-- page 38 -->
 
-(4) The information required
-
-<!-- marginal: to be -->
-
-published under subsection (3) shall be published at least once in each year.
+(4) The information required to be published under subsection (3) shall be published at least once in each year.
 
 (5) If the Commission at any time amends any register kept by it under this section by adding or removing the name of any licensed dealer, licensed fund manager or licensed investment adviser, the Commission shall cause particulars of the amendments to be published in the Gazette".
 
-Substitution
+<!-- marginal: Substitution -->
 
-26. The principal Act is amended by substituting for of sections sections 27 and 28 the following sections: 27 and 28.
+26. The principal Act is amended by substituting for
 
-"Revocation 27. (1) A licence shall be deemed to be and revoked— suspension of licence.
+<!-- marginal: of sections -->
+
+sections 27 and 28 the following sections:
+
+<!-- marginal: 27 and 28. -->
+
+<!-- marginal: "Revocation -->
+
+27. (1) A licence shall be deemed to be
+
+<!-- marginal: and -->
+
+revoked—
+
+<!-- marginal: suspension -->
+
+<!-- marginal: of licence. -->
 
 (a) in the case of an individual,— (i) if the licensed person dies; or (ii) if the licence is a representative's licence and the holder of such licence ceases to be a representative of the dealer, fund manager or investment adviser;
 
@@ -984,7 +1388,19 @@ Substitution
 
 <!-- page 40 -->
 
-(C) if the corporation is being or will be wound up; (D) if a receiver, or a receiver and manager, has been appointed, whether by the court or by the creditors in respect of the corporation's property; (E) if the corporation has entered into any composition or arrangement with its creditors; (F) if the corporation ceases to carry on the business for which it was licensed for a consecutive period of three months; (G) if the Commission has reason to believe that the corporation or any of its representatives has failed to perform its duties efficiently, honestly or fairly; (H) if the corporation contravenes or fails to comply with any of the rules of a stock exchange, recognised clearing house or central depository which is binding upon it; or (I) if the corporation contravenes or fails to comply with any condition or restriction applicable in respect of the licence or any other provision of this Act.
+(C) if the corporation is being or will be wound up;
+
+(D) if a receiver, or a receiver and manager, has been appointed, whether by the court or by the creditors in respect of the corporation's property;
+
+(E) if the corporation has entered into any composition or arrangement with its creditors;
+
+(F) if the corporation ceases to carry on the business for which it was licensed for a consecutive period of three months;
+
+(G) if the Commission has reason to believe that the corporation or any of its representatives has failed to perform its duties efficiently, honestly or fairly;
+
+(H) if the corporation contravenes or fails to comply with any of the rules of a stock exchange, recognised clearing house or central depository which is binding upon it; or
+
+(I) if the corporation contravenes or fails to comply with any condition or restriction applicable in respect of the licence or any other provision of this Act.
 
 <!-- page 41 -->
 
@@ -1002,7 +1418,9 @@ Provided that in the case of a dealer's licence, the licence may only be suspend
 
 (b) affect any right, obligation or liability under any such agreement, transaction or arrangement.
 
-Appeal. 28. (1) A person,other than a licensed dealer, who is aggrieved by any decision of the Commission under section 17 or 27 may appeal to the Minister within fourteen days of the decision of the Commission.
+<!-- marginal: Appeal. -->
+
+28. (1) A person,other than a licensed dealer, who is aggrieved by any decision of the Commission under section 17 or 27 may appeal to the Minister within fourteen days of the decision of the Commission.
 
 <!-- page 42 -->
 
@@ -1018,13 +1436,19 @@ Appeal. 28. (1) A person,other than a licensed dealer, who is aggrieved by any d
 
 (4) The decision of the Minister under subsection (3) shall be final.".
 
-New section
+<!-- marginal: New section -->
 
 27. The principal Act is amended by inserting after section
 
 28A. 28 the following section:
 
-"Surrender 28A. (1) Subject to subsection (2), a licensed of licence. person may surrender the licence by sending it to the Commission together with a written notice of its surrender.
+<!-- marginal: "Surrender -->
+
+28A. (1) Subject to subsection (2), a licensed
+
+<!-- marginal: of licence. -->
+
+person may surrender the licence by sending it to the Commission together with a written notice of its surrender.
 
 (2) The surrender of a licence shall not take effect until the Commission is satisfied that adequate arrangements have been made to meet all the liabilities and obligations of the licensed person that are outstanding at the time when the notice of surrender was given by the licensed person.
 
@@ -1078,9 +1502,11 @@ referred to in subsection (1) for the purposes of this Part provided that such p
 
 (b) in subsection (3) by substituting for the words "of the acquisition of the interest" the words "from the time at which he is reasonably deemed to be aware of the acquisition".
 
-Amendment
+<!-- marginal: Amendment -->
 
-30. Section 31 of the principal Act is amended— of section
+30. Section 31 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 31.
 
@@ -1088,9 +1514,11 @@ Amendment
 
 (b) in subsections (1) and (4) by substituting for the words "Licensing Officer" the word "Commission".
 
-Amendment
+<!-- marginal: Amendment -->
 
-31. Subsection 32(1) of the principal Act is amended— of section
+31. Subsection 32(1) of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 32.
 
@@ -1098,15 +1526,23 @@ Amendment
 
 (b) in paragraph (c) by substituting for the words "fourteen days" the words "within such time as may be prescribed".
 
-Amendment
+<!-- marginal: Amendment -->
 
-32. Subsection 37(1) of the principal Act is amended of section by substituting for the words "Licensing Officer" the
+32. Subsection 37(1) of the principal Act is amended
+
+<!-- marginal: of section -->
+
+by substituting for the words "Licensing Officer" the
 
 37. word "Commission".
 
-Substitution
+<!-- marginal: Substitution -->
 
-33. The principal Act is amended by substituting for of section 38. section 38 the following section:
+33. The principal Act is amended by substituting for
+
+<!-- marginal: of section 38. -->
+
+section 38 the following section:
 
 "Issue of 38. (1) The Minister may make regulations to contract provide for and with respect to the giving of notes. contract notes by dealers and fund managers for transactions entered into by them, or at their direction, on behalf of other persons in respect of a transaction of purchase or sale of securities.
 
@@ -1152,9 +1588,11 @@ a written offer or recommendation to which subsection (1), (4) or (5) applies, t
 
 "(11A) The Commission may, with the approval of the Minister if it is in the public interest, exempt in writing any securities or any class of securities from this section.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-35. Section 40 of the principal Act is amended— of section
+35. Section 40 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 40.
 
@@ -1162,17 +1600,27 @@ Amendment
 
 (b) in subsection (7)— (i) by substituting for the words "given to a dealer" the words "given to the dealer"; (ii) by inserting after the words "contract note" the words "or on becoming aware of the failure to comply with subsection (1) or (3), whichever is the later,"; and (iii) by substituting for the words "where a dealer fails" the words "where the dealer fails".
 
-New sections
+<!-- marginal: New sections -->
 
-36. The principal Act is amended by inserting after section 40A, 40B and 40 the following sections:
+36. The principal Act is amended by inserting after section
+
+<!-- marginal: 40A, 40B and -->
+
+40 the following sections:
 
 40C.
 
-"Recom- 40A. (1) An adviser shall not make a mendations recommendation with respect to securities or a by adviser. class of securities to a person who may reasonably be expected to rely on
+<!-- marginal: "Recom- -->
 
-<!-- marginal: the -->
+40A. (1) An adviser shall not make a
 
-recommendation without having a reasonable basis for making the recommendation to the person.
+<!-- marginal: mendations -->
+
+recommendation with respect to securities or a
+
+<!-- marginal: by adviser. -->
+
+class of securities to a person who may reasonably be expected to rely on the recommendation without having a reasonable basis for making the recommendation to the person.
 
 <!-- page 47 -->
 
@@ -1206,11 +1654,9 @@ the adviser shall be liable to pay damages to the person in respect of that loss
 
 (5) An adviser shall not be liable under subsection (4) if it is proved that a reasonable person in the circumstances could be expected to have done or omitted to do, as the case may be, that act in reliance on the recommendation even if the adviser had complied with that section in relation to the recommendation.
 
-(6) In the case of a contravention of subsection (1), an adviser shall not be so liable if it is proved that the recommendation was, in all circumstances, appropriate having regard to the information that, when making
+(6) In the case of a contravention of subsection
 
-<!-- marginal: the -->
-
-recommendation, the adviser had about the client's investment objectives, financial situation and particular needs.
+(1), an adviser shall not be so liable if it is proved that the recommendation was, in all circumstances, appropriate having regard to the information that, when making the recommendation, the adviser had about the client's investment objectives, financial situation and particular needs.
 
 (7) In this section—
 
@@ -1218,13 +1664,51 @@ recommendation, the adviser had about the client's investment objectives, financ
 
 (b) a reference to the making of a recommendation is a reference to the making of a recommendation whether expressly or by implication.
 
-Duty to 40B. (1) A dealer, fund manager or investment furnish adviser shall furnish such returns and provide Commission with such such information relating to its business as the returns and Commission may require. information as Commission (2) The Commission may specify that any requires. information required under subsection (1) shall be submitted within such period, at such intervals, in such manner or in such form as the Commission may specify.
+<!-- marginal: Duty to -->
+
+40B. (1) A dealer, fund manager or investment
+
+<!-- marginal: furnish -->
+
+adviser shall furnish such returns and provide
+
+<!-- marginal: Commission -->
+
+<!-- marginal: with such -->
+
+such information relating to its business as the
+
+<!-- marginal: returns and -->
+
+Commission may require.
+
+<!-- marginal: information -->
+
+<!-- marginal: as -->
+
+<!-- marginal: Commission -->
+
+(2) The Commission may specify that any
+
+<!-- marginal: requires. -->
+
+information required under subsection (1) shall be submitted within such period, at such intervals, in such manner or in such form as the Commission may specify.
 
 <!-- page 49 -->
 
-Additional
+<!-- marginal: Additional -->
 
-40C. (1) In addition to the requirements imposed obligations on licensed persons under this Act, the on licensed persons Commission may impose—
+40C. (1) In addition to the requirements imposed
+
+<!-- marginal: obligations -->
+
+on licensed persons under this Act, the
+
+<!-- marginal: on licensed -->
+
+<!-- marginal: persons -->
+
+Commission may impose—
 
 (a) in the case of licensed persons generally, or any class of licensed persons, by regulations made under this Act; or
 
@@ -1252,17 +1736,27 @@ substituting for paragraph (4)(c) the following paragraph:
 
 <!-- page 50 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-38. The heading of Part VII of the principal Act is of heading amended by inserting after the words "ACCOUNTS AND of Part VII. AUDIT" the following words:
+38. The heading of Part VII of the principal Act is
+
+<!-- marginal: of heading -->
+
+amended by inserting after the words "ACCOUNTS AND
+
+<!-- marginal: of Part VII. -->
+
+AUDIT" the following words:
 
 ## "DIVISION 1
 
 Accounts - Dealers".
 
-Amendment
+<!-- marginal: Amendment -->
 
-39. Section 42 of the principal Act is amended— of section
+39. Section 42 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 42.
 
@@ -1270,9 +1764,11 @@ Amendment
 
 (b) by substituting for the word "Part" the word "Division".
 
-Amendment
+<!-- marginal: Amendment -->
 
-40. Section 43 of the principal Act is amended— of section
+40. Section 43 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 43. (a) in the English language text in subsections (1) and (2) by inserting after the word "accounting" the word "records"; and
 
@@ -1282,7 +1778,11 @@ Amendment
 
 (a) keep or cause to be kept accounts and records in sufficient detail to show particulars of—
 
-(i) all monies received or paid by the dealer, including monies paid into, or disbursed from, a trust account;
+(i) all monies received or paid by the dealer, including monies paid
+
+<!-- marginal: into, or -->
+
+disbursed from, a trust account;
 
 (ii) all purchases and sales of securities made by the dealer, the charges and credits arising therefrom, and the names of the buyer and seller, respectively, of each of those securities;
 
@@ -1304,11 +1804,7 @@ Amendment
 
 (c) keep accounts and records specifying the day on which or the period during which each transaction by the dealer took place;
 
-(d) keep copies of acknowledgements of receipt of securities or documents of title to the securities received by the dealer from clients for sale or safe custody, clearly showing the name or names in which
-
-<!-- marginal: the -->
-
-particular securities are registered;
+(d) keep copies of acknowledgements of receipt of securities or documents of title to the securities received by the dealer from clients for sale or safe custody, clearly showing the name or names in which the particular securities are registered;
 
 (e) keep and maintain a General Scrip Register recording the receipt and disposal by the dealer of all securities other than those dealt with in the Safe Custody Scrip Register;
 
@@ -1354,7 +1850,7 @@ particular securities are registered;
 
 (c) in paragraph (b) by substituting for the words "within five bank trading days after receipt of such amounts" the words "not later than the next bank business day on which they were received by the dealer".
 
-New section
+<!-- marginal: New section -->
 
 42. The principal Act is amended by inserting after section
 
@@ -1364,15 +1860,19 @@ New section
 
 (2) A dealer who contravenes or fails to comply with the regulations made for the purposes of subsection (1) commits an offence.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-43. Section 45 of the principal Act is amended by of section substituting for paragraphs (a) and (b) the following
+43. Section 45 of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+substituting for paragraphs (a) and (b) the following
 
 45. paragraphs: "(a) to, or in accordance with the written instructions of, a person entitled to the money;
 
 (b) defraying brokerage and other proper charges; or".
 
-New section
+<!-- marginal: New section -->
 
 44. The principal Act is amended by inserting after section
 
@@ -1410,17 +1910,35 @@ transaction.".
 
 Accounts—Fund Managers
 
-Application
+<!-- marginal: Application -->
 
-47A. (1) This Division applies to and in relation of Division. to a fund manager.
+47A. (1) This Division applies to and in relation
+
+<!-- marginal: of Division. -->
+
+to a fund manager.
 
 (2) Nothing in subsection (1) shall apply to a corporation which manages a portfolio of securities solely for or on behalf of any of its related corporations, provided that the second- mentioned corporation's securities being managed by the first-mentioned corporation are not securities held on trust or on behalf of or beneficially belonging to any other person, or as a result of any investment contract entered into by the second-mentioned corporation.
 
-(3) For the purposes of this section, "investment contract" has the same meaning as is assigned to that expression in subsection (1) Act 125. of section 84 of the Companies Act 1965.
+(3) For the purposes of this section, "investment contract" has the same meaning as is assigned to that expression in subsection (1)
 
-Accounts to
+<!-- marginal: Act 125. -->
 
-47B. (1) A fund manager shall keep or cause be kept by to be kept such accounting records and other fund manager. records as will sufficiently explain the transactions and financial position of his business and enable true and fair profit and loss accounts and balance-sheets to be prepared from time to time, and shall cause those records to be kept in such form and manner as may be prescribed so as to enable them to be conveniently and properly audited.
+of section 84 of the Companies Act 1965.
+
+<!-- marginal: Accounts to -->
+
+47B. (1) A fund manager shall keep or cause
+
+<!-- marginal: be kept by -->
+
+to be kept such accounting records and other
+
+<!-- marginal: fund -->
+
+<!-- marginal: manager. -->
+
+records as will sufficiently explain the transactions and financial position of his business and enable true and fair profit and loss accounts and balance-sheets to be prepared from time to time, and shall cause those records to be kept in such form and manner as may be prescribed so as to enable them to be conveniently and properly audited.
 
 <!-- page 56 -->
 
@@ -1430,11 +1948,23 @@ Accounts to
 
 (3) A fund manager who contravenes this section commits an offence.
 
-Operation 47C. (1) A fund manager shall maintain a trust of trust account for all his client's monies or property account. and shall make arrangements for a custodian to maintain such trust account.
+<!-- marginal: Operation -->
+
+47C. (1) A fund manager shall maintain a trust
+
+<!-- marginal: of trust -->
+
+account for all his client's monies or property
+
+<!-- marginal: account. -->
+
+and shall make arrangements for a custodian to maintain such trust account.
 
 (2) The Commission may, where it thinks fit to do so, exempt a fund manager from the requirement under subsection (1) to arrange for a custodian to maintain the trust account and permit any other person to maintain the trust account.
 
-(3) A fund manager shall pay client's monies or property into the trust account maintained by a custodian or any other person as may be permitted by the Commission under subsection (2), as the case may be, not later than the next bank business day following the day on which the fund manager receives the client's monies or property.
+(3) A fund manager shall pay client's monies or property into the trust account maintained by a custodian or any other person as may be permitted by the Commission under subsection
+
+(2), as the case may be, not later than the next bank business day following the day on which the fund manager receives the client's monies or property.
 
 (4) Notwithstanding subsection (1), where monies or property that is required by this section to be paid or deposited into a trust account is received by a fund manager in a place outside Malaysia, the fund manager may pay those monies or deposit that property into a trust account maintained by him in that place.
 
@@ -1478,7 +2008,13 @@ Operation 47C. (1) A fund manager shall maintain a trust of trust account for al
 
 and contains in its title the words "Trust Account/Clients".
 
-Client's 47D. (1) A fund manager shall not deal in monies. securities for or on behalf of a client unless, to the extent that he receives client's monies or property,—
+<!-- marginal: Client's -->
+
+47D. (1) A fund manager shall not deal in
+
+<!-- marginal: monies. -->
+
+securities for or on behalf of a client unless, to the extent that he receives client's monies or property,—
 
 (a) he does so on the basis that it shall be applied solely for specified purposes agreed when or before he receives the monies or property;
 
@@ -1492,9 +2028,7 @@ Client's 47D. (1) A fund manager shall not deal in monies. securities for or on 
 
 (3) In this section, "client's monies or property" means monies received or retained by a fund manager, or property deposited with a fund manager, in the course of his business as such for which he is liable to account to the client, and includes monies received or property deposited with or held by a custodian or by any other person as may be permitted by the Commission under subsection (2) of section 47C for which it is liable to account or deliver to the client.
 
-Right to
-
-47E. (1) A fund manager shall supply, on copies of demand, to his clients or any person authorised book entries, by the client, copies of all entries in his books inspection relating to any transaction. of contract notes, etc. (2) A person referred to in subsection (1) shall be entitled free of charge either personally or by his agent to inspect any contract notes and vouchers relating to the said transaction.".
+Right to 47E. (1) A fund manager shall supply, on copies of demand, to his clients or any person authorised book entries, by the client, copies of all entries in his books inspection relating to any transaction. of contract notes, etc. (2) A person referred to in subsection (1) shall be entitled free of charge either personally or by his agent to inspect any contract notes and vouchers relating to the said transaction.".
 
 <!-- marginal: New -->
 
@@ -1516,15 +2050,17 @@ Audit".
 
 section 48 the following section:
 
-"Appoint-
-
-48. (1) This Division applies to the business ment of of a dealer, a fund manager, a stock exchange auditor. and a recognised clearing house.
+"Appoint- 48. (1) This Division applies to the business ment of of a dealer, a fund manager, a stock exchange auditor. and a recognised clearing house.
 
 (2) A reference to a relevant person in this Division shall be construed as a reference to a dealer, a fund manager, a stock exchange or a recognised clearing house.
 
 <!-- page 60 -->
 
-(3) Notwithstanding the provisions of the Act 125. Companies Act 1965, a relevant person shall appoint an auditor to carry out for the year in respect of which he is appointed an audit of the accounts of the relevant person.
+(3) Notwithstanding the provisions of the
+
+<!-- marginal: Act 125. -->
+
+Companies Act 1965, a relevant person shall appoint an auditor to carry out for the year in respect of which he is appointed an audit of the accounts of the relevant person.
 
 (4) A relevant person—
 
@@ -1538,19 +2074,25 @@ section 48 the following section:
 
 (b) if he considers that there are no such circumstances, a statement that there are none.
 
-(6) Notwithstanding any other provisions of this Act, the Commission may at any
+(6) Notwithstanding any other provisions of this Act, the Commission may at any time remove an auditor appointed by a relevant person if the Commission is not satisfied with the manner in which the auditor is performing his duties.".
 
-<!-- marginal: time -->
-
-remove an auditor appointed by a relevant person if the Commission is not satisfied with the manner in which the auditor is performing his duties.".
-
-New section
+<!-- marginal: New section -->
 
 49. The principal Act is amended by inserting after section
 
 48A. 48 the following section:
 
-"Associates 48A. A relevant person shall not appoint a person not to be who is an associate of the relevant person as appointed as auditors. an auditor of any of its accounts.".
+<!-- marginal: "Associates -->
+
+48A. A relevant person shall not appoint a person
+
+<!-- marginal: not to be -->
+
+who is an associate of the relevant person as
+
+<!-- marginal: appointed -->
+
+as auditors. an auditor of any of its accounts.".
 
 <!-- page 61 -->
 
@@ -1564,19 +2106,41 @@ sections 49 and 50 the following sections:
 
 <!-- marginal: 49 and 50. -->
 
-"Relevant
+<!-- marginal: "Relevant -->
 
-49. (1) A relevant person shall, within three person to months after the close of each financial year, lodge auditor's or such further period as the Commission may report. permit under subsection (2), lodge with the Commission and the Registrar, the auditor's report containing information on such matters as may be prescribed.
+49. (1) A relevant person shall, within three
+
+<!-- marginal: person to -->
+
+months after the close of each financial year,
+
+<!-- marginal: lodge -->
+
+<!-- marginal: auditor's -->
+
+or such further period as the Commission may
+
+<!-- marginal: report. -->
+
+permit under subsection (2), lodge with the Commission and the Registrar, the auditor's report containing information on such matters as may be prescribed.
 
 (2) Where an application for the extension of the period of three months specified in subsection (1) is made by a relevant person to the Commission and if the Commission is satisfied that there are special reasons for requiring the extension, the Commission may extend that period by three months subject to such conditions as the Commission thinks fit to impose.
 
 (3) A relevant person who contravenes or fails to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding three years or to both.
 
-(4) For the purposes of subsection (1), "financial year", in relation to a relevant person, means the financial year of the corporation within Act 125. the meaning of the Companies Act 1965.
+(4) For the purposes of subsection (1), "financial year", in relation to a relevant person, means the financial year of the corporation within
 
-Duties of
+<!-- marginal: Act 125. -->
 
-50. (1) Where, in the performance of his duties auditor. as auditor for a relevant person, an auditor becomes aware—
+the meaning of the Companies Act 1965.
+
+<!-- marginal: Duties of -->
+
+50. (1) Where, in the performance of his duties
+
+<!-- marginal: auditor. -->
+
+as auditor for a relevant person, an auditor becomes aware—
 
 (a) of any matter which in his opinion may constitute a breach of any provision of the securities laws;
 
@@ -1642,9 +2206,11 @@ and the Commission may specify the time within which any of the aforesaid requir
 
 <!-- page 64 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-52. Section 52 of the principal Act is amended— of section 52.
+52. Section 52 of the principal Act is amended—
+
+<!-- marginal: of section 52. -->
 
 (a) by substituting for subsection (1) the following subsection;
 
@@ -1660,13 +2226,21 @@ the Commission may, if the Commission is satisfied that it is in the interests o
 
 (c) in subsection (3) by substituting for the words "dealer or the relevant authority" the words "relevant person".
 
-Amendment of
+<!-- marginal: Amendment of -->
 
-53. Section 53 of the principal Act is amended in section 53. subsections (1), (2) and paragraph (4)(b) by substituting for the word "dealer" wherever it appears the words "relevant person".
+53. Section 53 of the principal Act is amended in
 
-Amendment of
+<!-- marginal: section 53. -->
 
-54. Section 55 of the principal Act is amended by section 55. substituting for the words "dealer" and "dealer's" wherever they appear the words "relevant person" and "relevant person's" respectively.
+subsections (1), (2) and paragraph (4)(b) by substituting for the word "dealer" wherever it appears the words "relevant person".
+
+<!-- marginal: Amendment of -->
+
+54. Section 55 of the principal Act is amended by
+
+<!-- marginal: section 55. -->
+
+substituting for the words "dealer" and "dealer's" wherever they appear the words "relevant person" and "relevant person's" respectively.
 
 <!-- page 65 -->
 
@@ -1718,23 +2292,27 @@ sections 60, 61, 62, 63 and 64 the following sections:
 
 <!-- marginal: 63 and 64. -->
 
-"Interpre-
-
-60. In this Part, unless the context or subject- tation. matter otherwise requires—
+"Interpre- 60. In this Part, unless the context or subject- tation. matter otherwise requires—
 
 "compensation fund" or "fund" means a compensation fund established and maintained under section 61;
 
 "relevant stock exchange", in relation to a compensation fund, means the stock exchange which established the compensation fund under section 61.
 
-Establish-
-
-61. (1) A stock exchange shall establish and ment of maintain a compensation fund which shall be compen- sation administered under this Part. fund.
+Establish- 61. (1) A stock exchange shall establish and ment of maintain a compensation fund which shall be compen- sation administered under this Part. fund.
 
 (2) The assets of the compensation fund shall be the property of the relevant stock exchange but the relevant stock exchange shall keep such assets separate from all its other property and shall hold such assets in trust for the purposes set out in the regulations made under this Act.
 
 <!-- page 66 -->
 
-Monies 62. The compensation fund of a relevant stock constituting compensation exchange shall consist of the following: fund.
+<!-- marginal: Monies -->
+
+62. The compensation fund of a relevant stock
+
+<!-- marginal: constituting -->
+
+compensation exchange shall consist of the following:
+
+<!-- marginal: fund. -->
 
 (a) monies paid to the credit of the compensation fund by the relevant stock exchange on the establishment of the compensation fund;
 
@@ -1750,15 +2328,39 @@ Monies 62. The compensation fund of a relevant stock constituting compensation e
 
 (g) all other monies lawfully paid into the compensation fund.
 
-Funds to 63. (1) All monies forming part of the be kept in compensation fund of a relevant stock exchange separate account. shall, pending its application in accordance with this Part and the regulations made under this Act, be paid or transferred into a separate trust account by the relevant stock exchange.
+<!-- marginal: Funds to -->
 
-(2) A trust account referred to in subsection (1) may be opened at one or more licensed institutions.
+63. (1) All monies forming part of the
+
+<!-- marginal: be kept in -->
+
+compensation fund of a relevant stock exchange
+
+<!-- marginal: separate -->
+
+<!-- marginal: account. -->
+
+shall, pending its application in accordance with this Part and the regulations made under this Act, be paid or transferred into a separate trust account by the relevant stock exchange.
+
+(2) A trust account referred to in subsection
+
+(1) may be opened at one or more licensed institutions.
 
 <!-- page 67 -->
 
-Payments
+<!-- marginal: Payments -->
 
-64. Subject to this Part, there shall be paid out out of of the compensation fund of a relevant stock compensation fund. exchange in such order as the relevant stock exchange thinks proper—
+64. Subject to this Part, there shall be paid out
+
+<!-- marginal: out of -->
+
+of the compensation fund of a relevant stock
+
+<!-- marginal: compensation -->
+
+<!-- marginal: fund. -->
+
+exchange in such order as the relevant stock exchange thinks proper—
 
 (a) the amount of all claims, including costs, allowed by the relevant stock exchange or established against the compensation fund under this Part;
 
@@ -1794,15 +2396,73 @@ Payments
 
 (i) by substituting for the word "committee" wherever it appears the words "relevant stock exchange"; and (ii) by substituting for the word "fidelity" the word "compensation".
 
-Substitution
+<!-- marginal: Substitution -->
 
-61. The principal Act is amended by substituting for of sections 66, sections 66, 67, 68 and 69 the following sections: 67, 68 and 69. "Require- 66. (1) The Commission may, after consultation ment of with a relevant stock exchange and with the relevant stock approval of the Minister, require the relevant exchange stock exchange to pay a portion of the net income to pay portion of of the relevant stock exchange in any particular net income financial year into the compensation fund. into compen- sation (2) Where the Commission requires a relevant fund. stock exchange to make a payment under subsection (1), it shall give notice in writing to the relevant stock exchange and the relevant stock exchange shall comply with
+61. The principal Act is amended by substituting for
 
-<!-- marginal: the -->
+<!-- marginal: of sections 66, -->
 
-requirement on or before the date specified in the written notice.
+sections 66, 67, 68 and 69 the following sections:
 
-Contribu- 67. (1) A member company shall, upon being tions to licensed under this Act, pay to the relevant stock compen- sation exchange the amount of thirty thousand ringgit fund. as a contribution to the compensation fund and shall thereafter on or before the thirty-first of December pay to the relevant stock exchange the amount of ten thousand ringgit as a contribution to the compensation fund.
+<!-- marginal: 67, 68 and 69. -->
+
+<!-- marginal: "Require- -->
+
+66. (1) The Commission may, after consultation
+
+<!-- marginal: ment of -->
+
+with a relevant stock exchange and with the
+
+<!-- marginal: relevant -->
+
+<!-- marginal: stock -->
+
+approval of the Minister, require the relevant
+
+<!-- marginal: exchange -->
+
+stock exchange to pay a portion of the net income
+
+<!-- marginal: to pay -->
+
+<!-- marginal: portion of -->
+
+of the relevant stock exchange in any particular
+
+<!-- marginal: net income -->
+
+financial year into the compensation fund.
+
+<!-- marginal: into -->
+
+<!-- marginal: compen- -->
+
+<!-- marginal: sation -->
+
+(2) Where the Commission requires a relevant
+
+<!-- marginal: fund. -->
+
+stock exchange to make a payment under subsection (1), it shall give notice in writing to the relevant stock exchange and the relevant stock exchange shall comply with the requirement on or before the date specified in the written notice.
+
+<!-- marginal: Contribu- -->
+
+67. (1) A member company shall, upon being
+
+<!-- marginal: tions to -->
+
+licensed under this Act, pay to the relevant stock
+
+<!-- marginal: compen- -->
+
+<!-- marginal: sation -->
+
+exchange the amount of thirty thousand ringgit
+
+<!-- marginal: fund. -->
+
+as a contribution to the compensation fund and shall thereafter on or before the thirty-first of December pay to the relevant stock exchange the amount of ten thousand ringgit as a contribution to the compensation fund.
 
 (2) All contributions made under this section shall not be refundable.
 
@@ -1810,15 +2470,53 @@ Contribu- 67. (1) A member company shall, upon being tions to licensed under thi
 
 (3) Notwithstanding anything in this section, the relevant stock exchange may, from time to time with the approval of the Commission, vary the amount and manner of contribution by member companies to the compensation fund.
 
-Provision 68. (1) Where the amount at credit in a where compensation fund exceeds fifty million ringgit, compen- sation fund or such greater sum as the Commission may exceeds after consultation with the relevant stock fifty million exchange determine, every member company ringgit. of the relevant stock exchange who has made fifty annual contributions, or such greater number as the Commission may after consultation with the relevant stock exchange determine, to the compensation fund, and in respect of whom no payment from the compensation fund has been made or, if any such payment has been made, the compensation fund has been fully reimbursed, shall be freed and discharged from further annual contributions to the compensation fund.
+<!-- marginal: Provision -->
+
+68. (1) Where the amount at credit in a
+
+<!-- marginal: where -->
+
+compensation fund exceeds fifty million ringgit,
+
+<!-- marginal: compen- -->
+
+<!-- marginal: sation fund -->
+
+or such greater sum as the Commission may
+
+<!-- marginal: exceeds -->
+
+after consultation with the relevant stock
+
+<!-- marginal: fifty -->
+
+<!-- marginal: million -->
+
+exchange determine, every member company
+
+<!-- marginal: ringgit. -->
+
+of the relevant stock exchange who has made fifty annual contributions, or such greater number as the Commission may after consultation with the relevant stock exchange determine, to the compensation fund, and in respect of whom no payment from the compensation fund has been made or, if any such payment has been made, the compensation fund has been fully reimbursed, shall be freed and discharged from further annual contributions to the compensation fund.
 
 (2) If a compensation fund, for any reason, stands below the sum of ten million ringgit, or such other sum as the Commission may after consultation with the relevant stock exchange determine, the relevant stock exchange may, with the approval of the Commission, require a member company of the relevant stock exchange who has been freed and discharged from the requirement to make annual contributions under subsection (1), to such extent as it thinks necessary, to pay annual contributions under section 67.
 
-Levy in 69. (1) If at any time a compensation fund is addition to not sufficient to satisfy the liabilities of the annual contribution. relevant stock exchange that are then ascertained in relation thereto, the relevant stock exchange may impose on every member company liable to contribute to that compensation fund a levy of such amount as may be determined by the
+<!-- marginal: Levy in -->
+
+69. (1) If at any time a compensation fund is
+
+<!-- marginal: addition to -->
+
+not sufficient to satisfy the liabilities of the
+
+<!-- marginal: annual -->
+
+<!-- marginal: contribution. -->
+
+relevant stock exchange that are then ascertained in relation thereto, the relevant stock exchange may impose on every member company liable to contribute to that compensation fund a levy of such amount as may be determined by the
 
 <!-- page 70 -->
 
-70
+<!-- marginal: 70 -->
 
 ## BILL
 
@@ -1826,9 +2524,11 @@ Minister to be appropriate as reasonable compensation against such liabilities, 
 
 (2) The amount of such levy shall be paid within the time and in the manner specified by the relevant stock exchange either generally or in relation to any particular case.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-62. Section 70 of the principal Act is amended— of section
+62. Section 70 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 70.
 
@@ -1836,17 +2536,51 @@ Amendment
 
 (b) by substituting for the word "fidelity" wherever it appears the word "compensation".
 
-Substitution
+<!-- marginal: Substitution -->
 
-63. The principal Act is amended by substituting for of sections sections 71 and 72 the following sections; 71 and 72
+63. The principal Act is amended by substituting for
 
-"Invest- 71. A relevant stock exchange may invest any ment of monies which form part of its compensation monies in compen- fund and is not immediately required for any sation other purpose under this Part— fund.
+<!-- marginal: of sections -->
+
+sections 71 and 72 the following sections;
+
+<!-- marginal: 71 and 72 -->
+
+<!-- marginal: "Invest- -->
+
+71. A relevant stock exchange may invest any
+
+<!-- marginal: ment of -->
+
+monies which form part of its compensation
+
+<!-- marginal: monies in -->
+
+<!-- marginal: compen- -->
+
+fund and is not immediately required for any
+
+<!-- marginal: sation -->
+
+other purpose under this Part—
+
+<!-- marginal: fund. -->
 
 (a) on fixed deposit with a licensed institution; or
 
 (b) in securities in which trustees are authorised by law to invest trust funds.
 
-Application 72. (1) Subject to this Part, if a person (the of compen- "person suffering the loss") suffers monetary sation fund. loss at any particular time because of—
+<!-- marginal: Application -->
+
+72. (1) Subject to this Part, if a person (the
+
+<!-- marginal: of compen- -->
+
+"person suffering the loss") suffers monetary
+
+<!-- marginal: sation fund. -->
+
+loss at any particular time because of—
 
 (a) a defalcation, or because of fraudulent misuse of monies or other property, by a director, officer, employee or representative of a licensed dealer that is at that time a member company;
 
@@ -1884,17 +2618,29 @@ shall not be greater than the amount stated in or calculated in accordance with 
 
 (b) where the relevant stock exchange determines, in accordance with its rules that the member company appears to be unable, or likely to become unable, to meet its obligations in respect of all trades effected on the relevant stock exchange to which the member company is a party.
 
-(6) If, in any particular case, after taking into account all ascertained or contingent liabilities of a compensation fund, the relevant stock exchange considers that the assets of the compensation fund so permit, the stock exchange may apply out of the compensation fund such sum in excess of the total amount limited by or under this Part and the regulations made thereunder as the relevant stock exchange in its absolute discretion thinks fit in or towards the compensation of persons who have suffered monetary loss as provided in subsection (1) or (2), as the case may be.
+(6) If, in any particular case, after taking into account all ascertained or contingent liabilities of a compensation fund, the relevant stock exchange considers that the assets of the compensation fund so permit, the stock exchange may apply out of the compensation fund such sum in excess of the total amount limited by or under this Part and the regulations made thereunder as the relevant stock exchange in its absolute discretion thinks fit in or towards the compensation of persons who have suffered monetary loss as provided in subsection (1) or
+
+(2), as the case may be.
 
 (7) For the purposes of this section, "director" includes a person who has been, but at the time of any defalcation or fraudulent misuse of monies or property in question has ceased to be, a director of a member company if, at the time of the defalcation or fraudulent misuse of monies or property the person claiming compensation has reasonable grounds to believe that the person is a director of a member company.".
 
-Deletion of
+<!-- marginal: Deletion of -->
 
-64. The principal Act is amended by deleting sections sections 73, 73, 75, 76 and 77. 75, 76 and
+64. The principal Act is amended by deleting sections
 
-77. Amendment
+<!-- marginal: sections 73, -->
 
-65. Section 78 of the principal Act is amended— of section
+73, 75, 76 and 77.
+
+<!-- marginal: 75, 76 and -->
+
+77.
+
+<!-- marginal: Amendment -->
+
+65. Section 78 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 78.
 
@@ -1916,13 +2662,53 @@ sections 79 and 80 the following sections:
 
 <!-- marginal: 79 and 80. -->
 
-"Subro-
+<!-- marginal: "Subro- -->
 
-79. If a relevant stock exchange makes a gation of payment out of its compensation fund in respect relevant stock of a claim for compensation under this Part,— exchange to rights
+79. If a relevant stock exchange makes a
 
-(a) the relevant stock exchange is subrogated and to the extent of the payment to all the remedies of claimant rights and remedies of the claimant in upon respect of the loss suffered by the payment from claimant; and compen- sation
+<!-- marginal: gation of -->
 
-(b) the claimant shall not have any claim or fund. right under any bankruptcy or legal proceeding or otherwise—
+payment out of its compensation fund in respect
+
+<!-- marginal: relevant -->
+
+<!-- marginal: stock -->
+
+of a claim for compensation under this Part,—
+
+<!-- marginal: exchange -->
+
+<!-- marginal: to rights -->
+
+(a) the relevant stock exchange is subrogated
+
+<!-- marginal: and -->
+
+to the extent of the payment to all the
+
+<!-- marginal: remedies -->
+
+of claimant rights and remedies of the claimant in
+
+<!-- marginal: upon -->
+
+respect of the loss suffered by the
+
+<!-- marginal: payment -->
+
+<!-- marginal: from -->
+
+claimant; and
+
+<!-- marginal: compen- -->
+
+<!-- marginal: sation -->
+
+(b) the claimant shall not have any claim or
+
+<!-- marginal: fund. -->
+
+right under any bankruptcy or legal proceeding or otherwise—
 
 (i) to receive in respect of the loss any sum out of the assets of the member company concerned; or
 
@@ -1930,29 +2716,89 @@ sections 79 and 80 the following sections:
 
 until the relevant stock exchange has been reimbursed the full amount of the payment made by it out of the . compensation fund, including any interest paid.
 
-Payment of
+<!-- marginal: Payment of -->
 
-80. No monies or other property belonging to claims only a relevant stock exchange, other than its from compen- compensation fund, shall be used for the payment sation fund. of any claim under this Part.".
+80. No monies or other property belonging to
+
+<!-- marginal: claims only -->
+
+a relevant stock exchange, other than its
+
+<!-- marginal: from -->
+
+<!-- marginal: compen- -->
+
+compensation fund, shall be used for the payment
+
+<!-- marginal: sation fund. -->
+
+of any claim under this Part.".
 
 <!-- page 74 -->
 
-Deletion of
+<!-- marginal: Deletion of -->
 
-67. The principal Act is amended by deleting section section 81.
+67. The principal Act is amended by deleting section
+
+<!-- marginal: section 81. -->
 
 81.
 
-Substitution
+<!-- marginal: Substitution -->
 
-68. The principal Act is amended by substituting for of sections sections 82 and 83 the following sections: 82 and 83.
+68. The principal Act is amended by substituting for
 
-"Power of 82. (1) A relevant stock exchange may enter relevant into a contract with a registered insurance stock exchange business in Malaysia under which the relevant to enter stock exchange will be insured or indemnified into contract to the extent and in the manner provided by of the contract against liability in respect of claims insurance. under this Part or any regulations made under this Act.
+<!-- marginal: of sections -->
+
+sections 82 and 83 the following sections:
+
+<!-- marginal: 82 and 83. -->
+
+<!-- marginal: "Power of -->
+
+82. (1) A relevant stock exchange may enter
+
+<!-- marginal: relevant -->
+
+into a contract with a registered insurance
+
+<!-- marginal: stock -->
+
+<!-- marginal: exchange -->
+
+business in Malaysia under which the relevant
+
+<!-- marginal: to enter -->
+
+stock exchange will be insured or indemnified
+
+<!-- marginal: into -->
+
+<!-- marginal: contract -->
+
+to the extent and in the manner provided by
+
+<!-- marginal: of -->
+
+the contract against liability in respect of claims
+
+<!-- marginal: insurance. -->
+
+under this Part or any regulations made under this Act.
 
 (2) A contract under subsection (1) may be entered into in relation to member companies generally, or in relation to a particular member company named in the contract, or in relation to member companies generally with the exclusion of particular member companies named in the contract.
 
 (3) An action shall not lie against a relevant stock exchange or against any member or employee, or against any committee or sub- committee of a relevant stock exchange, as the case may be, for injury alleged to have been suffered by any member company of the relevant stock exchange by reason of the publication in good faith of a statement that any contract entered into under this section does or does not apply with respect to the member company.
 
-Application 83. A claimant against a compensation fund of insurance of a relevant stock exchange shall not have— monies.
+<!-- marginal: Application -->
+
+83. A claimant against a compensation fund
+
+<!-- marginal: of insurance -->
+
+of a relevant stock exchange shall not have—
+
+<!-- marginal: monies. -->
 
 (a) a right of action against a person with whom a contract of insurance or indemnity is made under this Part in respect of such a contract; or
 
@@ -1970,15 +2816,61 @@ Application 83. A claimant against a compensation fund of insurance of a relevan
 
 <!-- marginal: and 83B. -->
 
-"Monies in
+<!-- marginal: "Monies in -->
 
-83A. In the event of a relevant stock exchange compen- being wound up under the Companies Act 1965, sation fund the relevant stock exchange shall, after satisfying where all the outstanding liabilities against its relevant stock compensation fund, make available to the exchange liquidator of the relevant stock exchange the wound up. balance of the amount available in the Act 125 compensation fund which shall form part of the assets of the relevant stock exchange and be available to the liquidator for distribution in accordance with the Companies Act 1965.
+83A. In the event of a relevant stock exchange
 
-Regula-
+<!-- marginal: compen- -->
 
-83B. (1) The Minister may by regulations tions in prescribe— respect of compen-
+being wound up under the Companies Act 1965,
 
-(a) in respect of a compensation fund of a sation fund. relevant stock exchange— (i) the powers of the Commission in relation to the compensation fund; (ii) the powers, obligations and liabilities of the relevant stock exchange in relation to the compensation fund; and (iii) the manner in which the compensation fund is to be administered;
+<!-- marginal: sation -->
+
+<!-- marginal: fund -->
+
+the relevant stock exchange shall, after satisfying
+
+<!-- marginal: where -->
+
+all the outstanding liabilities against its
+
+<!-- marginal: relevant -->
+
+<!-- marginal: stock -->
+
+compensation fund, make available to the
+
+<!-- marginal: exchange -->
+
+liquidator of the relevant stock exchange the
+
+<!-- marginal: wound up. -->
+
+balance of the amount available in the
+
+<!-- marginal: Act 125 -->
+
+compensation fund which shall form part of the assets of the relevant stock exchange and be available to the liquidator for distribution in accordance with the Companies Act 1965.
+
+<!-- marginal: Regula- -->
+
+83B. (1) The Minister may by regulations
+
+<!-- marginal: tions in -->
+
+prescribe—
+
+<!-- marginal: respect of -->
+
+<!-- marginal: compen- -->
+
+(a) in respect of a compensation fund of a
+
+<!-- marginal: sation -->
+
+<!-- marginal: fund. -->
+
+relevant stock exchange— (i) the powers of the Commission in relation to the compensation fund; (ii) the powers, obligations and liabilities of the relevant stock exchange in relation to the compensation fund; and (iii) the manner in which the compensation fund is to be administered;
 
 (b) the manner in which the relevant stock exchange shall apply its compensation fund; and
 
@@ -1994,15 +2886,19 @@ Regula-
 
 (2) The purposes that may be prescribed under paragraph (b) of subsection (1) include the satisfaction of claims in relation to any dealing or proposed dealing in securities made against member companies.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-70. Section 94A of the principal Act is amended by of section
+70. Section 94A of the principal Act is amended by
+
+<!-- marginal: of section -->
 
 94A. inserting before the words "the Registrar" wherever they appear the words "the Commission or".
 
-Amendment
+<!-- marginal: Amendment -->
 
-71. Section 95 of the principal Act is amended— of section
+71. Section 95 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 95.
 
@@ -2028,13 +2924,19 @@ Amendment
 
 95 the following section:
 
-"Power to
+"Power to 95A. (1) Where under any provision of
 
-95A. (1) Where under any provision of this specify Act— form and manner of infor-
+<!-- marginal: this -->
+
+specify Act— form and manner of infor-
 
 (a) any person is required to; or mation, returns or
 
-(b) power is given to the Commission or documents and the Registrar to require any person to, period for submission. submit to the Commission or the Registrar any information, returns or documents, the Commission or the Registrar, as the case may be, may specify that such information, returns or documents be submitted in such form or manner and within such period or at such intervals as the Commission or the Registrar may specify.
+(b) power is given to the Commission or documents and the Registrar to require any person to, period for submission. submit to the Commission or the Registrar any information, returns or documents,
+
+<!-- marginal: the -->
+
+Commission or the Registrar, as the case may be, may specify that such information, returns or documents be submitted in such form or manner and within such period or at such intervals as the Commission or the Registrar may specify.
 
 (2) The information, returns or documents referred to in subsection (1) may be submitted—
 
@@ -2044,7 +2946,11 @@ Amendment
 
 (c) by means of sound recordings;
 
-(d) by means of any electronic, magnetic, mechanical or other recording whatsoever,
+(d) by means of any electronic, magnetic, mechanical or other
+
+<!-- marginal: recording -->
+
+whatsoever,
 
 on any substance, material, thing or article.".
 
@@ -2072,9 +2978,11 @@ by inserting after the word "hinders" the words "the Commission or another perso
 
 (d) in subsection (3) by substituting for the word "him" the words "the Commission or the Registrar, as the case may be".
 
-Amendment of
+<!-- marginal: Amendment of -->
 
-75. Section 99 of the principal Act is amended— section 99.
+75. Section 99 of the principal Act is amended—
+
+<!-- marginal: section 99. -->
 
 (a) by inserting after the word "Where" the words "the Commission or";
 
@@ -2082,9 +2990,11 @@ Amendment of
 
 (c) by substituting for the words "he thinks" the words "the Commission or the Registrar thinks".
 
-Amendment of
+<!-- marginal: Amendment of -->
 
-76. Section 100 of the principal Act is amended— section 100
+76. Section 100 of the principal Act is amended—
+
+<!-- marginal: section 100 -->
 
 (a) in subsection (1)— (i) in paragraph (a)— (A) by inserting before the word "Registrar" the words "Commission or the"; and (B) by inserting after the word "contravention" the words ", or has engaged in, is engaging in, or is proposing to engage in, any conduct that constitutes or would constitute a contravention of this Act"; (ii) in paragraph (c)— (A) by inserting after the words "acting as" the words "a fund manager or"; (B) by inserting after the words "dealer's representative" the words ", a fund manager's representative"; and
 
@@ -2098,7 +3008,9 @@ Amendment of
 
 (b) by inserting after subsection (2) the following subsections:
 
-" (2A) Where an application is made to the High Court for an order under paragraph (fa) of subsection (1), the High Court may grant the order—
+" (2A) Where an application is made to the High Court for an order under paragraph
+
+(fa) of subsection (1), the High Court may grant the order—
 
 (a) where the High Court is satisfied that the person has refused or failed to do the required act or thing, whether or not it appears to the High Court that the person intends to again refuse or fail, or continue to refuse or fail, to do the required act or thing; or
 
@@ -2106,21 +3018,33 @@ Amendment of
 
 <!-- page 80 -->
 
-(2B) Where an application for an order under paragraph (fa) of subsection (1) is made by the Commission or the Registrar, or by any person duly authorised by
-
-<!-- marginal: the -->
-
-Commission or the Registrar, the High Court shall not, as a condition of the grant of the order, require any undertaking as to damages to be given by or on behalf of the Commission or the Registrar, as the case may be.";
+(2B) Where an application for an order under paragraph (fa) of subsection (1) is made by the Commission or the Registrar, or by any person duly authorised by the Commission or the Registrar, the High Court shall not, as a condition of the grant of the order, require any undertaking as to damages to be given by or on behalf of the Commission or the Registrar, as the case may be.";
 
 (c) in subsection (3)— (i) by inserting after the word "dealer" the words "or a fund manager"; and (ii) in paragraph (a) by inserting after the word "dealer" the words "or the fund manager, as the case may be,"; and
 
 (d) in subsection (4)— (i) by inserting after the words "in relation to a dealer" the words "or a fund manager"; (ii) by inserting after the words "by the dealer" the words "or fund manager"; and (iii) by substituting for the words "a business of dealing in securities carried on by the dealer" the words "the business of the dealer or the fund manager".
 
-Substitution of
+<!-- marginal: Substitution of -->
 
-77. The principal Act is amended by substituting for section 120. section 120 the following section:
+77. The principal Act is amended by substituting for
 
-"Prohibition 120. (1) A person who is not a stock broker, of use of a member of a stock exchange or a member certain titles. company shall not take or use or by inference adopt the name, title or description of "stock broker", "member of a stock exchange" or "member company", or take or use or have attached to or exhibited at any place any name, title or description implying or tending to create the belief that such person is a stock broker, member of a stock exchange or member company.
+<!-- marginal: section 120. -->
+
+section 120 the following section:
+
+<!-- marginal: "Prohibition -->
+
+120. (1) A person who is not a stock broker,
+
+<!-- marginal: of use of -->
+
+a member of a stock exchange or a member
+
+<!-- marginal: certain -->
+
+<!-- marginal: titles. -->
+
+company shall not take or use or by inference adopt the name, title or description of "stock broker", "member of a stock exchange" or "member company", or take or use or have attached to or exhibited at any place any name, title or description implying or tending to create the belief that such person is a stock broker, member of a stock exchange or member company.
 
 <!-- page 81 -->
 
@@ -2138,9 +3062,11 @@ Substitution of
 
 title or description implying or tending to create the belief that such person is a dealer's representative, a fund manager's representative or an investment representative, as the case may be.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-78. Section 121 of the principal Act is amended— of section
+78. Section 121 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 121.
 
@@ -2160,7 +3086,7 @@ Amendment
 
 (f) in subsection (4) by inserting after the word "dealer" the words "or a fund manager".
 
-New section
+<!-- marginal: New section -->
 
 79. The principal Act is amended by inserting after section
 
@@ -2204,11 +3130,37 @@ New section
 
 (iii) a person in accordance with whose directions or instructions the members of the corporation's board are accustomed to act.".
 
-New sections
+<!-- marginal: New sections -->
 
-81. The principal Act is amended by inserting after section I22A, 122B 122 the following sections: and 122C.
+81. The principal Act is amended by inserting after section
 
-"Falsification 122A. A director, manager, officer, trustee, of records auditor, employee or agent of a stock exchange, by directors, recognised clearing house, dealer, fund manager employees or investment adviser who— and agents.
+<!-- marginal: I22A, 122B -->
+
+122 the following sections:
+
+<!-- marginal: and 122C. -->
+
+<!-- marginal: "Falsification -->
+
+122A. A director, manager, officer, trustee,
+
+<!-- marginal: of records -->
+
+auditor, employee or agent of a stock exchange,
+
+<!-- marginal: by -->
+
+<!-- marginal: directors, -->
+
+recognised clearing house, dealer, fund manager
+
+<!-- marginal: employees -->
+
+or investment adviser who—
+
+<!-- marginal: and -->
+
+<!-- marginal: agents. -->
 
 (a) wilfully makes, or causes to be made, a false entry in any book or record or in any report, slip, document or statement of the business, affairs, transactions, conditions, assets or accounts of the stock exchange, recognised clearing house, dealer, fund manager or investment adviser;
 
@@ -2220,7 +3172,35 @@ New sections
 
 commits an offence and is liable on conviction to a fine not exceeding three million ringgit or to imprisonment for a term not exceeding ten years or to both.
 
-False 122B. A person who with intent to deceive, reports to makes or furnishes, or knowingly and wilfully Commission, stock authorises or permits the making or furnishing exchange of, any false or misleading statement or report or recognised to the Commission, a stock exchange or a clearing recognised clearing house relating to— house.
+<!-- marginal: False -->
+
+122B. A person who with intent to deceive,
+
+<!-- marginal: reports to -->
+
+makes or furnishes, or knowingly and wilfully
+
+<!-- marginal: Commission, -->
+
+<!-- marginal: stock -->
+
+authorises or permits the making or furnishing
+
+<!-- marginal: exchange -->
+
+of, any false or misleading statement or report
+
+<!-- marginal: or -->
+
+<!-- marginal: recognised -->
+
+to the Commission, a stock exchange or a
+
+<!-- marginal: clearing -->
+
+recognised clearing house relating to—
+
+<!-- marginal: house. -->
 
 (a) dealings in securities;
 
@@ -2232,9 +3212,19 @@ False 122B. A person who with intent to deceive, reports to makes or furnishes, 
 
 commits an offence and is liable on conviction to a fine not exceeding three million ringgit or to imprisonment for a term not exceeding ten years or to both.
 
-Attempts, 122C. A person who— abetments and
+<!-- marginal: Attempts, -->
 
-(a) attempts to commit any offence under conspiracies. this Act;
+122C. A person who—
+
+<!-- marginal: abetments -->
+
+<!-- marginal: and -->
+
+(a) attempts to commit any offence under
+
+<!-- marginal: conspiracies. -->
+
+this Act;
 
 (b) does any act in furtherance of the commission of any offence under this Act; or
 
@@ -2242,19 +3232,49 @@ Attempts, 122C. A person who— abetments and
 
 ## BILL
 
-(c) abets or is engaged in a criminal conspiracy to commit (as those terms are defined in the Penal Code) any F.M.S. offence under this Act, whether or not Cap. 45. the offence is committed in consequence thereof,
+(c) abets or is engaged in a criminal conspiracy to commit (as those terms are defined in the Penal Code) any
+
+<!-- marginal: F.M.S. -->
+
+offence under this Act, whether or not
+
+<!-- marginal: Cap. 45. -->
+
+the offence is committed in consequence thereof,
 
 commits such offence and is liable to the penalty for such offence.".
 
-Substitution
+<!-- marginal: Substitution -->
 
-82. The principal Act is amended by substituting for of sections sections 123 and 124 the following sections: 123 and 124.
+82. The principal Act is amended by substituting for
 
-"General 123. (1) A person who contravenes or fails penalty. to comply with a requirement or a provision of this Act commits an offence under this Act and, where no penalty is expressly provided, is liable on conviction to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.
+<!-- marginal: of sections -->
+
+sections 123 and 124 the following sections:
+
+<!-- marginal: 123 and 124. -->
+
+<!-- marginal: "General -->
+
+123. (1) A person who contravenes or fails
+
+<!-- marginal: penalty. -->
+
+to comply with a requirement or a provision of this Act commits an offence under this Act and, where no penalty is expressly provided, is liable on conviction to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.
 
 (2) In the case of a continuing offence the offender is, in addition to the penalties under subsection (1), liable to a fine not exceeding five thousand ringgit for every day or part of a day during which the offence continues after conviction.
 
-Compound- 124. (1) The Chairman of the Commission ing of may, with the consent in writing of the Public offences. Prosecutor, compound any offence committed by any person under Part IV, V or VII or any regulations made thereunder, by accepting from the person reasonably suspected of having committed such offence a sum of money not exceeding the maximum fine (including the daily fine in the case of a continuing offence, if any) for that offence.
+<!-- marginal: Compound- -->
+
+124. (1) The Chairman of the Commission
+
+<!-- marginal: ing of -->
+
+may, with the consent in writing of the Public
+
+<!-- marginal: offences. -->
+
+Prosecutor, compound any offence committed by any person under Part IV, V or VII or any regulations made thereunder, by accepting from the person reasonably suspected of having committed such offence a sum of money not exceeding the maximum fine (including the daily fine in the case of a continuing offence, if any) for that offence.
 
 (2) Upon receipt of the payment under subsection (1), no further proceedings shall be taken against such person in respect of such offence and where possession has been taken
 
@@ -2272,7 +3292,33 @@ of any books, records or other documents or any other thing, such books, records
 
 126A the following section:
 
-"Proceed- 126B. (1) For the purposes of this section— ings of recognised clearing "default rules", in relation to a recognised house in clearing house, means the rules made under event of insolvency subsection (2); of participant. "market contract" means a contract—
+<!-- marginal: "Proceed- -->
+
+126B. (1) For the purposes of this section—
+
+<!-- marginal: ings of -->
+
+<!-- marginal: recognised -->
+
+<!-- marginal: clearing -->
+
+"default rules", in relation to a recognised
+
+<!-- marginal: house in -->
+
+clearing house, means the rules made under
+
+<!-- marginal: event of -->
+
+<!-- marginal: insolvency -->
+
+subsection (2);
+
+<!-- marginal: of -->
+
+<!-- marginal: participant. -->
+
+"market contract" means a contract—
 
 (a) entered into by a member company on, or otherwise subject to the rules of, the stock exchange which is, or is to be, cleared and settled through a recognised clearing house; or
 
@@ -2282,23 +3328,29 @@ of any books, records or other documents or any other thing, such books, records
 
 <!-- page 88 -->
 
-(3) All default rules made under subsection (2) shall be approved by the Commission in accordance with subsection (3) of section 9A. (4) Where a participant of a recognised clearing house is being wound up, or appears to be unable or likely to become unable to meet its obligations in respect of all unsettled market contracts to which the participant is a party, any default proceedings or other action taken by the recognised clearing house under its default rules shall not be regarded as invalid on the ground that such proceeding or action is inconsistent with the law relating to the distribution of assets of persons on insolvency, bankruptcy or winding-up, or on the appointment of receivers over the assets of such persons. (5) Subject to subsections (6) and (7), in the event of a default or insolvency of a participant of a recognised clearing house who is also an authorised depository agent, an authorised direct member or a depositor (as Act 453. defined in the Securities Industry (Central Depositories) Act 1991), any transfer of securities from such a participant's securities account effected by or through the central depository up to the date of the winding-up or bankruptcy petition, as the case may be, shall have effect notwithstanding that such transfer is invalid on the ground that it is inconsistent with the law relating to the distribution of assets of persons on insolvency, bankruptcy or winding-up, or on the appointment of receivers over the assets of such persons. (6) Subsection (5) shall apply only in relation to transfers effected by the central depository arising as a result of, or to give effect to, the settlement of market contracts. (7) Subsection (5) shall not apply to any transfer in relation to market contracts which have been proved by the liquidator or receiver to have been effected by the defaulting or insolvent participant, as the case may be, with the intention to defraud creditors.".
+(3) All default rules made under subsection
+
+(2) shall be approved by the Commission in accordance with subsection (3) of section 9A. (4) Where a participant of a recognised clearing house is being wound up, or appears to be unable or likely to become unable to meet its obligations in respect of all unsettled market contracts to which the participant is a party, any default proceedings or other action taken by the recognised clearing house under its default rules shall not be regarded as invalid on the ground that such proceeding or action is inconsistent with the law relating to the distribution of assets of persons on insolvency, bankruptcy or winding-up, or on the appointment of receivers over the assets of such persons. (5) Subject to subsections (6) and (7), in the event of a default or insolvency of a participant of a recognised clearing house who is also an authorised depository agent, an authorised direct member or a depositor (as
+
+<!-- marginal: Act 453. -->
+
+defined in the Securities Industry (Central Depositories) Act 1991), any transfer of securities from such a participant's securities account effected by or through the central depository up to the date of the winding-up or bankruptcy petition, as the case may be, shall have effect notwithstanding that such transfer is invalid on the ground that it is inconsistent with the law relating to the distribution of assets of persons on insolvency, bankruptcy or winding-up, or on the appointment of receivers over the assets of such persons. (6) Subsection (5) shall apply only in relation to transfers effected by the central depository arising as a result of, or to give effect to, the settlement of market contracts. (7) Subsection (5) shall not apply to any transfer in relation to market contracts which have been proved by the liquidator or receiver to have been effected by the defaulting or insolvent participant, as the case may be, with the intention to defraud creditors.".
 
 <!-- page 89 -->
 
-<!-- marginal: Substitution -->
+Substitution
 
-84. The principal Act is amended by substituting for
-
-<!-- marginal: of section -->
-
-section 127 the following section:
+84. The principal Act is amended by substituting for of section section 127 the following section:
 
 <!-- marginal: 127. -->
 
-"Regula-
+<!-- marginal: "Regula- -->
 
-127. (1) The Minister may make such tions. regulations as may be—
+127. (1) The Minister may make such
+
+<!-- marginal: tions. -->
+
+regulations as may be—
 
 (a) required or permitted by this Act to be prescribed by regulations;
 
@@ -2338,7 +3390,17 @@ section 127 the following section:
 
 (n) to regulate or prohibit the sale of securities by any person who does not have a right to vest the securities in the purchaser;
 
-(o) to provide for matters relating to the listing of securities on the stock exchange, and in particular— (i) to require that the requirements be met before securities may be listed on the stock exchange; (ii) to provide the procedure for dealing with applications for the listing of securities on the stock exchange; (iii) to provide for the cancellation of the listing of any specified securities on the stock exchange if the Commission's requirements for listing, or the requirements of the undertaking referred to in subparagraph (vi), are not complied with, or where the Commission considers that such action is necessary to maintain an orderly market in Malaysia; (iv) to provide the conditions subject to which, and the circumstances in which, the stock exchange shall suspend dealings in securities; (v) to provide the procedure for, and the method of allotment of, any securities arising out of an offer for sale in respect of those securities; and
+(o) to provide for matters relating to the listing of securities on the stock exchange, and in particular—
+
+(i) to require that the requirements be met before securities may be listed on the stock exchange;
+
+(ii) to provide the procedure for dealing with applications for the listing of securities on the stock exchange;
+
+(iii) to provide for the cancellation of the listing of any specified securities on the stock exchange if the Commission's requirements for listing, or the requirements of the undertaking referred to in subparagraph (vi), are not complied with, or where the Commission considers that such action is necessary to maintain an orderly market in Malaysia;
+
+(iv) to provide the conditions subject to which, and the circumstances in which, the stock exchange shall suspend dealings in securities;
+
+(v) to provide the procedure for, and the method of allotment of, any securities arising out of an offer for sale in respect of those securities; and
 
 (vi) to require a corporation whose securities are listed or accepted for listing on the stock exchange to enter into such undertaking as may be required by the rules of the stock exchange, to provide such information at such times as may
 
@@ -2346,7 +3408,11 @@ section 127 the following section:
 
 be specified, and to carry out such duties in relation to its securities as may be imposed in the undertaking;
 
-(p) to provide for the supply to the Commission of— (i) such information as a person to whom sections 69C and 69D of the Act 125. Companies Act 1965 applies or any other person is required to supply; (ii) such notice as a person to whom section 69E, 69F or 69G of that Act applies is required to give;
+(p) to provide for the supply to the Commission of— (i) such information as a person to whom sections 69C and 69D of the
+
+<!-- marginal: Act 125. -->
+
+Companies Act 1965 applies or any other person is required to supply; (ii) such notice as a person to whom section 69E, 69F or 69G of that Act applies is required to give;
 
 (q) to provide for the authorisation of any person who maintains in Malaysia a register of members of a corporation whose securities are listed on the stock exchange and the requirements to which such person shall comply with;
 
@@ -2380,7 +3446,7 @@ be specified, and to carry out such duties in relation to its securities as may 
 
 (c) shall have effect in relation to any person referred to in paragraph (a) or (b) only to such extent as may be prescribed.".
 
-New
+<!-- marginal: New -->
 
 85. The principal Act is amended by inserting after section
 
@@ -2458,19 +3524,35 @@ and 88—
 
 commencement of this Act were those of the Licensing Officer shall, as from the commencement of this Act, be the powers, rights, privileges, duties, liabilities and obligations of the Commission.
 
-Specific
+<!-- marginal: Specific -->
 
-87. (1) Without limiting the generality of section 86, the transitional following transitional and savings provisions shall apply. and savings provisions.
+87. (1) Without limiting the generality of section 86, the
+
+<!-- marginal: transitional -->
+
+following transitional and savings provisions shall apply.
+
+<!-- marginal: and savings -->
+
+<!-- marginal: provisions. -->
 
 <!-- page 97 -->
 
 (2) Where—
 
-(a) a notice under subsection 9(1) of the principal Act was duly given by the committee of a stock exchange to the Commission before the commencement of this Act; and
+(a) a notice under subsection 9(1) of the principal Act was duly given by the committee of a stock exchange to the Commission before
+
+<!-- marginal: the -->
+
+commencement of this Act; and
 
 (b) a period of twenty-one days had not elapsed after the receipt of the notice by the Commission before the commencement of this Act; and
 
-(c) the Commission had not before the commencement of this Act disallowed the whole or any part of the amendment to which the notice relates,
+(c) the Commission had not before
+
+<!-- marginal: the -->
+
+commencement of this Act disallowed the whole or any part of the amendment to which the notice relates,
 
 the amendment shall not take effect unless—
 
@@ -2706,9 +3788,7 @@ contributions where the amount at credit in the compensation fund exceeds fifty 
 
 54. Clause 79 seeks to introduce a new section 121A to provide that any decision made by the Minister under this Act, whether an original decision by him or a decision on appeal to him from a decision of the Commission, shall be final.
 
-55. Clause 81 seeks to introduce new sections 122A, 122B and
-
-122C. Section 122A makes the falsification of records by directors, employees and agents an offence.
+55. Clause 81 seeks to introduce new sections 122A, 122B and 122C. Section 122A makes the falsification of records by directors, employees and agents an offence.
 
 Section 122B provides that it shall be an offence for any person, with intent to deceive, to make or funish any false or misleading statements to the Commission, stock exchange or recognised clearing house.
 

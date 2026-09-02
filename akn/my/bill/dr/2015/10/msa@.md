@@ -8,19 +8,19 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## KUASA PENANGKAPAN DAN REMAN
 
 3. Penangkapan dan pengemukaan di hadapan Majistret 4. Tatacara di hadapan Majistret 5. Orang dalam jagaan hendaklah dibawa di hadapan Pegawai Siasatan 6. Pelepasan orang yang direman dalam jagaan 7. Tatacara khas yang berhubungan dengan peranti pengawasan elektronik
 
-## Bahagian III
+## BAHAGIAN III
 
 ## SIASATAN
 
@@ -32,7 +32,7 @@
 
 12. Laporan Pegawai Siasatan
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PERINTAH TAHANAN DAN SEKATAN
 
@@ -70,7 +70,7 @@
 
 28. Kecualian berkenaan dengan pendakwaan orang yang ditahan
 
-## Bahagian V
+## BAHAGIAN V
 
 AM
 
@@ -88,7 +88,7 @@ AM
 
 35. Kecualian dan peralihan
 
-## Jadual
+## JADUAL
 
 <!-- page 3 -->
 
@@ -102,7 +102,7 @@ DAN BAHAWASANYA Parlimen berpendapat bahawa adalah perlu tindakan itu diberhenti
 
 MAKA, OLEH YANG DEMIKIAN, menurut Perkara 149 Perlembagaan Persekutuan, DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -142,7 +142,7 @@ MAKA, OLEH YANG DEMIKIAN, menurut Perkara 149 Perlembagaan Persekutuan, DIPERBUA
 
 <!-- page 5 -->
 
-## Bahagian II
+## BAHAGIAN II
 
 ## KUASA PENANGKAPAN DAN REMAN
 
@@ -256,7 +256,7 @@ memerintahkan orang itu direman dalam jagaan selama tempoh tiga puluh lapan hari
 
 (8) Apabila habis tempoh yang disebut dalam subseksyen (1), orang itu hendaklah melaporkan diri di balai polis yang terdekat untuk membuka peranti pengawasan elektronik itu.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## SIASATAN
 
@@ -348,7 +348,7 @@ bahawa orang itu terlibat dengan perbuatan melakukan atau menyokong perbuatan ke
 
 (b) jika Lembaga bersetuju dengan Pegawai Siasatan bahawa tidak ada alasan yang munasabah untuk mempercayai bahawa orang yang menjadi subjek siasatan terlibat dengan perbuatan melakukan atau menyokong perbuatan keganasan yang melibatkan organisasi pengganas tersenarai di sesuatu negara asing atau di mana-mana bahagian sesuatu negara asing, Lembaga hendaklah dengan segera mengarahkan mana-mana orang yang mempunyai jagaan ke atas orang itu, dalam masa dua puluh empat jam dari penerimaan arahan itu, untuk membawa orang itu di hadapan Hakim Mahkamah Sesyen, yang hendaklah dengan itu melepaskan perintah reman yang dibuat di bawah seksyen 4 dan, jika tidak ada alasan lain yang berdasarkannya orang itu ditahan dengan sah, hendaklah memerintahkan pelepasannya dengan serta-merta.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PERINTAH TAHANAN DAN SEKATAN
 
@@ -608,7 +608,7 @@ dengan mana-mana perintah di bawah seksyen 13 melakukan suatu kesalahan dan hend
 
 28. Penahanan mana-mana orang di bawah Bahagian ini tidaklah menjejaskan pembawaan apa-apa prosiding jenayah terhadap orang itu, sama ada semasa atau selepas tempoh tahanannya.
 
-## Bahagian V
+## BAHAGIAN V
 
 AM
 
@@ -748,7 +748,7 @@ Pada 24 September 2014, Majlis Keselamatan Pertubuhan Bangsa-Bangsa Bersatu tela
 
 4. Menurut Kertas Putih itu, Rang Undang-Undang ini bertujuan mengadakan peruntukan mengenai pencegahan pelakuan atau sokongan perbuatan keganasan yang melibatkan organisasi pengganas tersenarai di sesuatu negara asing atau di mana-mana bahagian sesuatu negara asing serta bagi kawalan terhadap orang yang terlibat dalam perbuatan sedemikian dan bagi perkara yang berkaitan.
 
-## Bahagian I
+## BAHAGIAN I
 
 5. Bahagian ini memperkatakan perkara permulaan.
 
@@ -756,7 +756,7 @@ Fasal 1 mengandungi tajuk ringkas dan peruntukan bagi permulaan kuat kuasa Akta 
 
 <!-- page 32 -->
 
-## Bahagian II
+## BAHAGIAN II
 
 6. Bahagian II mengandungi kuasa penangkapan, dan memperkatakan langkah- langkah sebelum siasatan diadakan di bawah Bahagian III.
 
@@ -778,7 +778,7 @@ itu di bawah fasal 10. Dalam mana-mana hal lain, atas permohonan seorang pegawai
 
 Fasal 7 menetapkan tatacara yang berhubungan dengan pemasangan peranti pengawasan elektronik pada orang yang direman apabila dia dilepaskan di bawah fasal 6.
 
-## Bahagian III
+## BAHAGIAN III
 
 7. Bahagian III memperkatakan siasatan.
 
@@ -796,7 +796,7 @@ Fasal 11 memperuntukkan mengenai akses oleh Pegawai Siasatan kepada orang yang d
 
 Fasal 12 menetapkan kehendak bagi Pegawai Siasatan membuat laporan kepada Lembaga. Jika Lembaga bersetuju dengan Pegawai Siasatan bahawa terdapat alasan yang munasabah untuk mempercayai bahawa orang yang menjadi subjek siasatan terlibat dengan perbuatan melakukan atau menyokong perbuatan keganasan yang melibatkan organisasi pengganas tersenarai di sesuatu negara asing atau di mana-mana bahagian sesuatu negara asing, Lembaga hendaklah meneruskan tindakan di bawah fasal 13. Jika tiada alasan munasabah untuk mempercayai sedemikian, Lembaga hendaklah dengan segera mengarahkan mana-mana orang yang mempunyai jagaan orang itu untuk membawa orang itu dalam masa dua puluh empat jam di hadapan Hakim Mahkamah Sesyen yang hendaklah dengan itu melepaskan perintah reman yang dibuat di bawah fasal 4. Selanjutnya, jika tidak ada alasan lain yang berdasarkannya orang itu ditahan dengan sah, Hakim Mahkamah Sesyen hendaklah memerintahkan pelepasannya dengan serta-merta.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 8. Bahagian IV mengadakan peruntukan mengenai perintah tahanan dan sekatan.
 
@@ -810,7 +810,11 @@ Subfasal (5) dan (6) menjadikannya suatu kesalahan bagi mana-mana orang sekatan 
 
 <!-- page 35 -->
 
-Subfasal (9) dimasukkan bagi mengelak keraguan tentang pemakaian Perkara 151 Perlembagaan Persekutuan. Oleh sebab Akta ini diperbuat di bawah Perkara 149 Perlembagaan Persekutuan dan mengadakan peruntukan mengenai tahanan pencegahan, perlindungan di bawah Perkara 151(1) secara automatik terpakai dan menghendaki bahawa mana-mana orang yang ditahan di bawah Akta ini diberi peluang untuk membuat representasi terhadap perintah tahanan itu seberapa segera yang boleh kepada suatu lembaga penasihat yang ditubuhkan di bawah Perkara 151(2). Tatacara bagi membuat representasi itu akan diperuntukkan dalam peraturan-peraturan yang dibuat di bawah Akta ini.
+Subfasal (9) dimasukkan bagi mengelak keraguan tentang pemakaian
+
+## Perkara 151 Perlembagaan Persekutuan. Oleh sebab Akta ini diperbuat di
+
+bawah Perkara 149 Perlembagaan Persekutuan dan mengadakan peruntukan mengenai tahanan pencegahan, perlindungan di bawah Perkara 151(1) secara automatik terpakai dan menghendaki bahawa mana-mana orang yang ditahan di bawah Akta ini diberi peluang untuk membuat representasi terhadap perintah tahanan itu seberapa segera yang boleh kepada suatu lembaga penasihat yang ditubuhkan di bawah Perkara 151(2). Tatacara bagi membuat representasi itu akan diperuntukkan dalam peraturan-peraturan yang dibuat di bawah Akta ini.
 
 Fasal 14 hingga 18
 
@@ -846,13 +850,9 @@ Fasal 26 menjadikannya suatu kesalahan bagi mana-mana orang berdaftar yang tidak
 
 Fasal 27 menjadikannya suatu kesalahan untuk melindungi mana-mana orang berdaftar yang melanggar mana-mana perintah di bawah fasal 13 dengan syarat bahawa fasal ini tidak terpakai dalam hal seseorang isteri yang melindungi atau menyembunyikan suaminya atau seseorang suami yang melindungi atau menyembunyikan isterinya. Suatu kesalahan di bawah fasal ini hendaklah dihukum dengan pemenjaraan selama tempoh yang tidak melebihi lima tahun atau denda yang tidak melebihi sepuluh ribu ringgit atau kedua-duanya.
 
-Fasal 28 memperuntukkan bahawa penahanan mana-mana orang di bawah
+Fasal 28 memperuntukkan bahawa penahanan mana-mana orang di bawah Bahagian IV tidaklah menjejaskan pembawaan apa-apa prosiding jenayah terhadap orang itu, sama ada semasa atau selepas tempoh tahanannya.
 
-## Bahagian IV tidaklah menjejaskan pembawaan apa-apa prosiding jenayah
-
-terhadap orang itu, sama ada semasa atau selepas tempoh tahanannya.
-
-## Bahagian V
+## BAHAGIAN V
 
 9. Bahagian V mengandungi peruntukan am tertentu.
 

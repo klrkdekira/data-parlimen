@@ -26,9 +26,15 @@ II
 
 3. Pelantikan Pengawal. 4. Pihak berkuasa pemerakuan hendaklah dilesenkan.
 
-5. Kelayakan pihak berkuasa pemerakuan. 6. Fungsi pihak berkuasa pemerakuan berlesen. 7. Permohonan bagi mendapatkan lesen. 8. Pemberian atau keengganan memberi lesen. 9. Pembatalan lesen. 10. Rayuan. 11. Penyerahan balik lesen.
+5. Kelayakan pihak berkuasa pemerakuan. 6. Fungsi pihak berkuasa pemerakuan berlesen. 7. Permohonan bagi mendapatkan lesen. 8. Pemberian atau keengganan memberi lesen. 9. Pembatalan lesen.
 
-12. Kesan pembatalan, penyerahan balik atau habisnya tempoh lesen. 13. Kesan ketiadaan lesen.
+10. Rayuan.
+
+11. Penyerahan balik lesen.
+
+12. Kesan pembatalan, penyerahan balik atau habisnya tempoh lesen.
+
+13. Kesan ketiadaan lesen.
 
 <!-- page 2 -->
 
@@ -100,25 +106,53 @@ Tandatangan Digital
 
 ## BAB 2
 
-Waranti dan obligasi pihak berkuasa pemerakuan berlesen 34. Waranti kepada pelanggan. 35. Obligasi berterusan kepada pelanggan. 36. Representasi atas pengeluaran. 37. Representasi atas penyiaran.
+Waranti dan obligasi pihak berkuasa pemerakuan berlesen
+
+34. Waranti kepada pelanggan.
+
+35. Obligasi berterusan kepada pelanggan.
+
+36. Representasi atas pengeluaran.
+
+37. Representasi atas penyiaran.
 
 ## BAB 3
 
 Representasi dan kewajipan atas penerimaan perakuan
 
-38. Representasi tersirat oleh pelanggan. 39. Representasi oleh ejen pelanggan. 40. Penolakan atau tanggung rugi terhad. 41. Penanggungan kerugian pihak berkuasa pemerakuan berlesen oleh pelanggan. 42. Pemerakuan ketepatan maklumat yang diberikan.
+38. Representasi tersirat oleh pelanggan.
+
+39. Representasi oleh ejen pelanggan.
+
+40. Penolakan atau tanggung rugi terhad.
+
+41. Penanggungan kerugian pihak berkuasa pemerakuan berlesen oleh pelanggan.
+
+42. Pemerakuan ketepatan maklumat yang diberikan.
 
 ## BAB 4
 
 Kawalan ke atas kunci persendirian
 
-43. Kewajipan pelanggan untuk menyimpan kunci persendirian dengan selamat. 44. Harta dalam kunci persendirian. 45. Pihak berkuasa pemerakuan berlesen hendaklah menjadi fidusiari jika memegang kunci persendirian pelanggan.
+43. Kewajipan pelanggan untuk menyimpan kunci persendirian dengan selamat.
+
+44. Harta dalam kunci persendirian.
+
+45. Pihak berkuasa pemerakuan berlesen hendaklah menjadi fidusiari jika memegang kunci persendirian pelanggan.
 
 ## BAB 5
 
 Penggantungan perakuan
 
-46. Penggantungan perakuan oleh pihak berkuasa pemerakuan berlesen yang mengeluarkan. 47. Penggantungan perakuan oleh Pengawal atau mahkamah. 48. Notis penggantungan. 49. Penamatan penggantungan yang dimulakan dengan permintaan. 50. Prosedur kontraktual silih ganti.
+46. Penggantungan perakuan oleh pihak berkuasa pemerakuan berlesen yang mengeluarkan.
+
+47. Penggantungan perakuan oleh Pengawal atau mahkamah.
+
+48. Notis penggantungan.
+
+49. Penamatan penggantungan yang dimulakan dengan permintaan.
+
+50. Prosedur kontraktual silih ganti.
 
 <!-- page 4 -->
 
@@ -182,13 +216,59 @@ Tandatangan Digital
 
 ## REPOSITORI DAN PERKHIDMATAN PENANDA TARIKH/MASA
 
-68. Pengiktirafan repositori. 69. Liabiliti repositori. 70. Pengiktirafan perkhidmatan penanda tarikh/masa.
+68. Pengiktirafan repositori.
+
+69. Liabiliti repositori.
+
+70. Pengiktirafan perkhidmatan penanda tarikh/masa.
 
 ## BAHAGIAN VII
 
 AM
 
-71. Larangan terhadap aktiviti merbahaya. 72. Kewajipan kerahsiaan. 73. Maklumat palsu. 74. Kesalahan oleh pertubuhan perbadanan. 75. Pegawai diberikuasa. 76. Kuasa untuk menyiasat. 77. Penggeledahan dengan waran. 78. Penggeledahan dan penyitaan tanpa waran. 79. Akses kepada data berkomputer. 80. Senarai benda disita. 81. Halangan pegawai diberikuasa. 82. Kuasa tambahan. 83. Penalti am. 84. Mendapatkan kos prosedural. 85. Tiada kos atau ganti rugi yang berbangkit daripada penyitaan boleh diperdapatkan. 86. Permulaan dan penjalanan pendakwaan. 87. Bidang kuasa membicarakan kesalahan. 88. Perlindungan pegawai. 89. Kuasa untuk mengecualikan. 90. Batasan atas penolakan atau penghadan pemakaian Akta. 91. Peraturan-peraturan. 92. Kecualian dan peralihan.
+71. Larangan terhadap aktiviti merbahaya.
+
+72. Kewajipan kerahsiaan.
+
+73. Maklumat palsu.
+
+74. Kesalahan oleh pertubuhan perbadanan.
+
+75. Pegawai diberikuasa.
+
+76. Kuasa untuk menyiasat.
+
+77. Penggeledahan dengan waran.
+
+78. Penggeledahan dan penyitaan tanpa waran.
+
+79. Akses kepada data berkomputer.
+
+80. Senarai benda disita.
+
+81. Halangan pegawai diberikuasa.
+
+82. Kuasa tambahan.
+
+83. Penalti am.
+
+84. Mendapatkan kos prosedural.
+
+85. Tiada kos atau ganti rugi yang berbangkit daripada penyitaan boleh diperdapatkan.
+
+86. Permulaan dan penjalanan pendakwaan.
+
+87. Bidang kuasa membicarakan kesalahan.
+
+88. Perlindungan pegawai.
+
+89. Kuasa untuk mengecualikan.
+
+90. Batasan atas penolakan atau penghadan pemakaian Akta.
+
+91. Peraturan-peraturan.
+
+92. Kecualian dan peralihan.
 
 <!-- page 7 -->
 
@@ -254,7 +334,11 @@ Tandatangan Digital
 
 (a) untuk menunjukkan persetujuan kepada sesuatu perakuan, apabila mengetahui atau mempunyai notis mengenai kandungannya; atau
 
-(b) untuk memohon kepada pihak berkuasa pemerakuan berlesen bagi suatu perakuan, tanpa membatalkan permohonan itu dengan menghantarserahkan notis pembatalan kepada pihak berkuasa pemerakuan berlesen itu, dan memperoleh resit bertulis yang ditandatangani daripada pihak berkuasa pemerakuan berlesen itu, jika pihak berkuasa pemerakuan berlesen itu kemudiannya mengeluarkan suatu perakuan berdasarkan permohonan itu;
+(b) untuk memohon kepada pihak berkuasa pemerakuan berlesen bagi suatu perakuan, tanpa membatalkan permohonan itu
+
+<!-- marginal: dengan -->
+
+menghantarserahkan notis pembatalan kepada pihak berkuasa pemerakuan berlesen itu, dan memperoleh resit bertulis yang ditandatangani daripada pihak berkuasa pemerakuan berlesen itu, jika pihak berkuasa pemerakuan berlesen itu kemudiannya mengeluarkan suatu perakuan berdasarkan permohonan itu;
 
 "mengeluarkan perakuan" ertinya tindakan pihak berkuasa pemerakuan dalam menghasilkan suatu perakuan dan memberitahu pelanggan yang disenaraikan dalam perakuan itu mengenai kandungan perakuan itu;
 
@@ -386,9 +470,7 @@ Rang Undang-Undang
 
 ## DAN PELESENAN PIHAK BERKUASA PEMERAKUAN
 
-Pelantikan
-
-3. (1) Menteri hendaklah melantik seorang Pengawal pengawai. pihak Berkuasa Pemerakuan bagi maksud Akta ini, khususnya bagi maksud mengawasi dan menyelia aktiviti pihak berkuasa pemerakuan.
+Pelantikan 3. (1) Menteri hendaklah melantik seorang Pengawal pengawai. pihak Berkuasa Pemerakuan bagi maksud Akta ini, khususnya bagi maksud mengawasi dan menyelia aktiviti pihak berkuasa pemerakuan.
 
 (2) Pengawal hendaklah menjalankan, menunaikan dan melaksanakan kuasa, kewajipan dan fungsi yang diberikan kepada Pengawal di bawah Akta ini.
 
@@ -400,9 +482,7 @@ Pelantikan
 
 (6) Pengawal hendaklah menyiarkan kandungan pangkalan data itu dalam sekurang-kurangnya satu repositori diiktiraf.
 
-pihak
-
-4. (1) Tiada seorang pun boleh menjalankan atau berkuasa mengendalikan, atau mengemukakan dirinya sebagai pemerakuan menjalankan atau mengendalikan, sebagai suatu pihak hendaklah berkuasa pemerakuan melainkan jika orang itu memegang dilesenkan suatu lesen sah yang dikeluarkan di bawah Akta ini.
+pihak 4. (1) Tiada seorang pun boleh menjalankan atau berkuasa mengendalikan, atau mengemukakan dirinya sebagai pemerakuan menjalankan atau mengendalikan, sebagai suatu pihak hendaklah berkuasa pemerakuan melainkan jika orang itu memegang dilesenkan suatu lesen sah yang dikeluarkan di bawah Akta ini.
 
 <!-- page 15 -->
 
@@ -430,17 +510,41 @@ daripada kehendak seksyen ini.
 
 (2) Menteri boleh pada bila-bila masa mengubah atau meminda kehendak kelayakan yang ditetapkan di bawah subseksyen (1) dengan syarat bahawa apa-apa perubahan atau pindaan sedemikian tidak boleh terpakai bagi pihak berkuasa pemerakuan yang memegang lesen sah di bawah Akta ini sehingga lesen itu habisnya tempoh.
 
-Fungsi pihak
+<!-- marginal: Fungsi pihak -->
 
-6. (1) Fungsi pihak berkuasa pemerakuan berlesen adalah berkuasa untuk mengeluarkan perakuan kepada pelanggan apabila pemerakuan berlesen. dipohon dan apabila kehendak pihak berkuasa pemerakuan berlesen tentang identiti pelanggan yang hendak disenaraikan dalam perakuan dipuaskan dan apabila dibayar fee dan caj yang ditetapkan.
+6. (1) Fungsi pihak berkuasa pemerakuan berlesen adalah
+
+<!-- marginal: berkuasa -->
+
+untuk mengeluarkan perakuan kepada pelanggan apabila
+
+<!-- marginal: pemerakuan -->
+
+<!-- marginal: berlesen. -->
+
+dipohon dan apabila kehendak pihak berkuasa pemerakuan berlesen tentang identiti pelanggan yang hendak disenaraikan dalam perakuan dipuaskan dan apabila dibayar fee dan caj yang ditetapkan.
 
 (2) Pihak berkuasa pemerakuan berlesen hendaklah, sebelum mengeluarkan mana-mana perakuan di bawah Akta ini, mengambil segala langkah munasabah untuk memeriksa bagi pengenalpastian sewajarnya pelanggan yang hendak disenaraikan dalam perakuan.
 
-(3) Pihak berkuasa pemerakuan berlesen hendaklah, apabila mana-mana perakuan dikeluarkan di bawah Akta ini, menyebabkan supaya permohonan bagi perakuan itu diperakui oleh notari awam yang dilantik dengan sewajarnya Akta 115. di bawah Akta Notari Awam 1959.
+(3) Pihak berkuasa pemerakuan berlesen hendaklah, apabila mana-mana perakuan dikeluarkan di bawah Akta ini, menyebabkan supaya permohonan bagi perakuan itu diperakui oleh notari awam yang dilantik dengan sewajarnya
 
-Permohonan
+<!-- marginal: Akta 115. -->
 
-7. (1) Suatu permohonan untuk mendapatkan lesen di bagi men- bawah Akta ini hendaklah dibuat secara bertulis kepada dapatkan lesen. Pengawal dalam borang yang ditetapkan.
+di bawah Akta Notari Awam 1959.
+
+<!-- marginal: Permohonan -->
+
+7. (1) Suatu permohonan untuk mendapatkan lesen di
+
+<!-- marginal: bagi men- -->
+
+bawah Akta ini hendaklah dibuat secara bertulis kepada
+
+<!-- marginal: dapatkan -->
+
+<!-- marginal: lesen. -->
+
+Pengawal dalam borang yang ditetapkan.
 
 (2) Tiap-tiap permohonan di bawah subseksyen (1) hendaklah disertakan dengan apa-apa dokumen atau maklumat sebagaimana yang ditetapkan dan Pengawal boleh, secara lisan atau bertulis pada bila-bila masa selepas menerima permohonan itu dan sebelum permohonan itu ditentukan, menghendaki pemohon memberi apa-apa dokumen atau maklumat tambahan sebagaimana yang difikirkan perlu oleh Pengawal bagi maksud menentukan kesesuaian pemohon untuk lesen itu.
 
@@ -512,7 +616,7 @@ Rang Undang-Undang
 
 (8) Apa-apa kelewatan atau kegagalan untuk menyiarkan atau mengiklankan notis pembatalan itu tidaklah dengan apa-apa jua cara menyentuh kesahan pembatalan itu.
 
-Rayuan.
+<!-- marginal: Rayuan. -->
 
 10. (1) Mana-mana orang yang terkilan dengan—
 
@@ -524,9 +628,13 @@ boleh merayu secara bertulis kepada Menteri dalam masa empat belas hari dari tar
 
 (2) Keputusan Menteri di bawah seksyen ini adalah muktamad dan konklusif.
 
-Penyerahan
+<!-- marginal: Penyerahan -->
 
-11. (1) Suatu pihak berkuasa pemerakuan berlesen boleh balik lesen. menyerahkan balik lesennya dengan mengemukakan lesen itu kepada Pengawal berserta dengan suatu notis bertulis mengenai penyerahan baliknya.
+11. (1) Suatu pihak berkuasa pemerakuan berlesen boleh
+
+<!-- marginal: balik lesen. -->
+
+menyerahkan balik lesennya dengan mengemukakan lesen itu kepada Pengawal berserta dengan suatu notis bertulis mengenai penyerahan baliknya.
 
 (2) Penyerahan balik itu hendaklah mula berkuatkuasa pada tarikh Pengawal menerima lesen itu dan notis di bawah subseksyen (1), atau jika suatu tarikh yang lebih lewat dinyatakan dalam notis itu, pada tarikh itu.
 
@@ -574,17 +682,19 @@ Rang Undang-Undang
 
 (7) Tiada apa-apa jua dalam subseksyen (6) boleh menghalang pihak berkuasa pemerakuan berlesen yang dilantik daripada menghendaki pelanggan itu mematuhi kehendaknya berhubungan dengan pengeluaran perakuan atau daripada mengeluarkan suatu perakuan baru kepada pelanggan itu bagi tempoh yang belum habis perakuan asal dengan syarat bahawa apa-apa fee atau caj tambahan yang hendak dikenakan hendaklah hanya dikenakan dengan kebenaran bertulis terdahulu Pengawal.
 
-(8) Jika Pengawal telah melantik suatu pihak berkuasa pemerakuan berlesen untuk mengambil alih perakuan sesuatu pihak berkuasa pemerakuan di bawah subseksyen
+(8) Jika Pengawal telah melantik suatu pihak berkuasa pemerakuan berlesen untuk mengambil alih perakuan sesuatu pihak berkuasa pemerakuan di bawah subseksyen (6), pihak berkuasa pemerakuan itu hendaklah membayar kepada pihak berkuasa pemerakuan berlesen yang dilantik itu apa-apa bahagian fee yang ditetapkan yang dibayar oleh pelanggan kepadanya sebagaimana yang ditentukan oleh Pengawal.
 
-(6), pihak berkuasa pemerakuan itu hendaklah membayar kepada pihak berkuasa pemerakuan berlesen yang dilantik itu apa-apa bahagian fee yang ditetapkan yang dibayar oleh pelanggan kepadanya sebagaimana yang ditentukan oleh Pengawal.
+<!-- marginal: Kesan -->
 
-Kesan
+13. (1) Had liabiliti yang dinyatakan dalam Bab 8
 
-13. (1) Had liabiliti yang dinyatakan dalam Bab 8 keliadaan
+<!-- marginal: keliadaan -->
 
-## Bahagian IV tidak terpakai bagi pihak berkuasa pemerakuan
+Bahagian IV tidak terpakai bagi pihak berkuasa pemerakuan
 
-lesen. tak berlesen.
+<!-- marginal: lesen. -->
+
+tak berlesen.
 
 (2) Bahagian V tidak terpakai berhubungan dengan sesuatu tandatangan digital yang tidak dapat disahbetulkan oleh suatu perakuan yang dikeluarkan oleh suatu pihak berkuasa pemerakuan berlesen.
 
@@ -626,9 +736,17 @@ Rang Undang-Undang
 
 (5) Tiada apa-apa jua dalam subseksyen (3) atau (4) boleh menyentuh kesahan atau kesan perakuan yang dikeluarkan itu.
 
-sekatan
+<!-- marginal: sekatan -->
 
-16. Kecuali dengan keizinan bertulis Pengawal, tiada penggunaan seorang pun, yang bukannya suatu pihak berkuasa ungkapan pemerakuan berlesen, boleh memakai atau menggunakan berkuasa ungkapan "pihak berkuasa pemerakuan" atau "pihak pemerakuan". berkuasa pemerakuan berlesen", mengikut mana-mana yang berkenaan, atau apa-apa terbitan daripada ungkapan ini dalam apa-apa bahasa, atau apa-apa perkataan lain dalam apa-apa bahasa yang boleh ditafsirkan sebagai menunjukkan penjalanan atau pengendalian perniagaan sedemikian, berhubungan dengan perniagaan atau mana- mana bahagian perniagaan yang dijalankan oleh orang itu, atau membuat apa-apa representasi yang bermaksud sedemikian dalam apa-apa kepala bil, surat, kertas, notis, iklan atau dengan apa-apa cara lain.
+16. Kecuali dengan keizinan bertulis Pengawal, tiada penggunaan seorang pun, yang bukannya suatu pihak berkuasa
+
+<!-- marginal: ungkapan -->
+
+pemerakuan berlesen, boleh memakai atau menggunakan
+
+<!-- marginal: berkuasa -->
+
+ungkapan "pihak berkuasa pemerakuan" atau "pihak pemerakuan". berkuasa pemerakuan berlesen", mengikut mana-mana yang berkenaan, atau apa-apa terbitan daripada ungkapan ini dalam apa-apa bahasa, atau apa-apa perkataan lain dalam apa-apa bahasa yang boleh ditafsirkan sebagai menunjukkan penjalanan atau pengendalian perniagaan sedemikian, berhubungan dengan perniagaan atau mana- mana bahagian perniagaan yang dijalankan oleh orang itu, atau membuat apa-apa representasi yang bermaksud sedemikian dalam apa-apa kepala bil, surat, kertas, notis, iklan atau dengan apa-apa cara lain.
 
 Pembaharuan 17. (1) Tiap-tiap pihak berkuasa pemerakuan berlesen lesen hendaklah mengemukakan permohonan kepada Pengawal dalam borang yang ditetapkan untuk pembaharuan lesennya sekurang-kurangnya tiga puluh, tetapi tidak lebih daripada enam puluh, hari sebelum tarikh habisnya tempoh lesen itu dan permohonan itu hendaklah disertakan dengan apa- apa dokumen dan maklumat sebagaimana yang dikehendaki oleh Pengawal.
 
@@ -662,9 +780,13 @@ yang disiarkan dalam Warta, pihak berkuasa pemerakuan yang dilesenkan atau yang 
 
 <!-- page 26 -->
 
-Audit
+<!-- marginal: Audit -->
 
-20. (1) Pengendalian sesuatu pihak berkuasa pemerakuan prestasi. berlesen hendaklah diaudit sekurang-kurangnya sekali dalam setahun untuk menilai pematuhannya dengan Akta ini.
+20. (1) Pengendalian sesuatu pihak berkuasa pemerakuan
+
+<!-- marginal: prestasi. -->
+
+berlesen hendaklah diaudit sekurang-kurangnya sekali dalam setahun untuk menilai pematuhannya dengan Akta ini.
 
 (2) Audit itu hendaklah dijalankan oleh seorang akauntan awam diperakui yang mempunyai kepakaran dalam keselamatan komputer atau oleh seorang ahli profesional keselamatan komputer bertauliah.
 
@@ -672,9 +794,19 @@ Audit
 
 (4) Pengawal hendaklah menyiarkan dalam rekod penzahiran pihak berkuasa pemerakuan yang disenggarakan olehnya bagi pihak berkuasa pemerakuan berlesen yang berkenaan tarikh dan keputusan audit itu.
 
-Pengecualian
+<!-- marginal: Pengecualian -->
 
-21. (1) Pengawal boleh mengecualikan sesuatu pihak daripada berkuasa pemerakuan berlesen daripada kehendak seksyen audit prestasi. 20 jika—
+21. (1) Pengawal boleh mengecualikan sesuatu pihak
+
+<!-- marginal: daripada -->
+
+berkuasa pemerakuan berlesen daripada kehendak seksyen
+
+<!-- marginal: audit -->
+
+<!-- marginal: prestasi. -->
+
+20 jika—
 
 (a) pihak berkuasa pemerakuan berlesen itu meminta secara bertulis untuk pengecualian;
 
@@ -722,25 +854,87 @@ dalam lesennya.
 
 Rang Undang-Undang
 
-Kehendak
+<!-- marginal: Kehendak -->
 
-23. Suatu pihak berkuasa pemerakuan berlesen hendaklah untuk mem- pada setiap masa mempamerkan lesennya pada suatu pamerkan lesen. tempat yang mudah dilihat di tempat perniagaannya.
+23. Suatu pihak berkuasa pemerakuan berlesen hendaklah
 
-Kehendak
+<!-- marginal: untuk mem- -->
 
-24. (1) Suatu pihak berkuasa pemerakuan berlesen untuk menge- hendaklah mengemukakan kepada Pengawal apa-apa mukakan maklumat maklumat dan butir-butir termasuk pernyataan kewangan, dan butir- kunci kira-kira dan akaun keuntungan dan kerugian teraudit butir yang berhubungan yang berhubungan dengan keseluruhan kendalian dengan perniagaannya sebagaimana yang dikehendaki oleh kendalian perniagaan. Pengawal dalam apa-apa tempoh yang ditentukannya.
+pada setiap masa mempamerkan lesennya pada suatu
+
+<!-- marginal: pamerkan -->
+
+<!-- marginal: lesen. -->
+
+tempat yang mudah dilihat di tempat perniagaannya.
+
+<!-- marginal: Kehendak -->
+
+24. (1) Suatu pihak berkuasa pemerakuan berlesen
+
+<!-- marginal: untuk menge- -->
+
+hendaklah mengemukakan kepada Pengawal apa-apa
+
+<!-- marginal: mukakan -->
+
+<!-- marginal: maklumat -->
+
+maklumat dan butir-butir termasuk pernyataan kewangan,
+
+<!-- marginal: dan butir- -->
+
+kunci kira-kira dan akaun keuntungan dan kerugian teraudit
+
+<!-- marginal: butir yang -->
+
+<!-- marginal: berhubungan -->
+
+yang berhubungan dengan keseluruhan kendalian
+
+<!-- marginal: dengan -->
+
+perniagaannya sebagaimana yang dikehendaki oleh
+
+<!-- marginal: kendalian -->
+
+<!-- marginal: perniagaan. -->
+
+Pengawal dalam apa-apa tempoh yang ditentukannya.
 
 (2) Seseorang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya, dan dalam hal suatu kesalahan yang berterusan boleh sebagai tambahan didenda harian tidak melebihi dua ribu ringgit bagi setiap hari kesalahan itu terus dilakukan.
 
-Pemberi-
+<!-- marginal: Pemberi- -->
 
-25. (1) Tiap-tiap pihak berkuasa pemerakuan berlesen tahuan hendaklah, sebelum membuat apa-apa pindaan atau mengenai pertukaran perubahan kepada mana-mana dokumen konstituennya, maklumat. atau sebelum apa-apa pertukaran pengarah atau ketua pegawai eksekutifnya, memberi kepada Pengawal butir- butir secara bertulis mengenai apa-apa pindaan, perubahan atau pertukaran yang dicadangkan itu.
+25. (1) Tiap-tiap pihak berkuasa pemerakuan berlesen
+
+<!-- marginal: tahuan -->
+
+hendaklah, sebelum membuat apa-apa pindaan atau
+
+<!-- marginal: mengenai -->
+
+<!-- marginal: pertukaran -->
+
+perubahan kepada mana-mana dokumen konstituennya,
+
+<!-- marginal: maklumat. -->
+
+atau sebelum apa-apa pertukaran pengarah atau ketua pegawai eksekutifnya, memberi kepada Pengawal butir- butir secara bertulis mengenai apa-apa pindaan, perubahan atau pertukaran yang dicadangkan itu.
 
 (2) Tiap-tiap pihak berkuasa pemerakuan berlesen hendaklah dengan serta-merta memberitahu Pengawal mengenai apa-apa pindaan atau perubahan kepada apa- apa maklumat atau dokumen yang telah diberikan kepada Pengawal berkaitan dengan lesen itu.
 
-Kehendak
+<!-- marginal: Kehendak -->
 
-26. Suatu pihak berkuasa pemerakuan berlesen tidak boleh tentang menyiarkan, sama ada dalam akhbar, risalah atau selainnya, pengiklanan. apa-apa iklan atau maklumat yang berhubungan dengan atau berkaitan dengan perniagaan sesuatu pihak berkuasa pemerakuan tanpa memasukkan—
+26. Suatu pihak berkuasa pemerakuan berlesen tidak boleh
+
+<!-- marginal: tentang -->
+
+menyiarkan, sama ada dalam akhbar, risalah atau selainnya,
+
+<!-- marginal: pengiklanan. -->
+
+apa-apa iklan atau maklumat yang berhubungan dengan atau berkaitan dengan perniagaan sesuatu pihak berkuasa pemerakuan tanpa memasukkan—
 
 (a) nombor lesen;
 
@@ -800,9 +994,23 @@ di bawah Akta ini, menzahirkan apa-apa pernyataan amalan pemerakuan material dan
 
 (2) Suatu pihak berkuasa pemerakuan berlesen boleh menghendaki pertanyaan yang ditandatangani, bertulis dan dengan munasabahnya spesifik daripada orang yang dikenal pasti, serta pembayaran fee yang ditetapkan, sebagai syarat duluan kepada pembuatan sesuatu penzahiran yang dikehendaki di bawah subseksyen (1).
 
-Prasyarat
+<!-- marginal: Prasyarat -->
 
-29. (1) Suatu pihak berkuasa pemerakuan berlesen boleh kepada mengeluarkan perakuan kepada pelanggan hanya selepas pengeluaran perakuan semua syarat yang berikut dipuaskan: kepada pelanggan.
+29. (1) Suatu pihak berkuasa pemerakuan berlesen boleh
+
+<!-- marginal: kepada -->
+
+mengeluarkan perakuan kepada pelanggan hanya selepas
+
+<!-- marginal: pengeluaran -->
+
+<!-- marginal: perakuan -->
+
+semua syarat yang berikut dipuaskan:
+
+<!-- marginal: kepada -->
+
+<!-- marginal: pelanggan. -->
 
 (a) pihak berkuasa pemerakuan berlesen itu telah menerima permintaan untuk pengeluaran yang ditandatangani oleh pelanggan prospektif itu; dan
 
@@ -900,9 +1108,25 @@ empat puluh lapan jam sebagaimana yang perlu untuk membolehkan penyiasatan dijal
 
 (3) Pihak berkuasa pemerakuan berlesen itu hendaklah dengan serta-merta memberitahu pelanggan itu mengenai pembatalan atau penggantungan di bawah seksyen ini.
 
-Penggan-
+<!-- marginal: Penggan- -->
 
-33. (1) Pengawal boleh memerintahkan pihak berkuasa lungan atau pemerakuan berlesen untuk menggantung atau pembatalan perakuan membatalkan sesuatu perakuan yang dikeluarkan olehnya oleh jika Pengawal menentukan bahawa— perintah.
+33. (1) Pengawal boleh memerintahkan pihak berkuasa
+
+<!-- marginal: lungan atau -->
+
+pemerakuan berlesen untuk menggantung atau
+
+<!-- marginal: pembatalan -->
+
+<!-- marginal: perakuan -->
+
+membatalkan sesuatu perakuan yang dikeluarkan olehnya
+
+<!-- marginal: oleh -->
+
+jika Pengawal menentukan bahawa—
+
+<!-- marginal: perintah. -->
 
 (a) perakuan itu telah dikeluarkan tanpa mematuhi seksyen 29 dan 30; dan
 
@@ -958,17 +1182,33 @@ yang dengan munasabahnya bergantung pada maklumat yang terkandung dalam perakuan
 
 <!-- page 34 -->
 
-Representasi
+<!-- marginal: Representasi -->
 
-37. Dengan menyiarkan sesuatu perakuan, pihak berkuasa atas pemerakuan berlesen memperakui kepada repositori yang penyiaran. dalamnya perakuan itu disiarkan dan kepada semua yang dengan munasabahnya bergantung pada maklumat yang terkandung dalam perakuan itu bahawa pihak berkuasa pemerakuan berlesen itu telah mengeluarkan perakuan itu kepada pelanggan itu.
+37. Dengan menyiarkan sesuatu perakuan, pihak berkuasa
+
+<!-- marginal: atas -->
+
+pemerakuan berlesen memperakui kepada repositori yang
+
+<!-- marginal: penyiaran. -->
+
+dalamnya perakuan itu disiarkan dan kepada semua yang dengan munasabahnya bergantung pada maklumat yang terkandung dalam perakuan itu bahawa pihak berkuasa pemerakuan berlesen itu telah mengeluarkan perakuan itu kepada pelanggan itu.
 
 ## BAB 3
 
 Representasi dan kewajipan atas penerimaan perakuan
 
-Representasi
+<!-- marginal: Representasi -->
 
-38. Dengan menerima sesuatu perakuan yang dikeluarkan tersirat oleh oleh pihak berkuasa pemerakuan berlesen, pelanggan yang petanggan. disenaraikan dalam perakuan itu memperakui kepada semua yang dengan munasabahnya bergantung pada maklumat yang terkandung dalam perakuan itu bahawa—
+38. Dengan menerima sesuatu perakuan yang dikeluarkan
+
+<!-- marginal: tersirat oleh -->
+
+oleh pihak berkuasa pemerakuan berlesen, pelanggan yang
+
+<!-- marginal: petanggan. -->
+
+disenaraikan dalam perakuan itu memperakui kepada semua yang dengan munasabahnya bergantung pada maklumat yang terkandung dalam perakuan itu bahawa—
 
 (a) pelanggan itu memegang kunci persendirian yang berpadanan dengan kunci awam yang disenaraikan dalam perakuan itu secara sah;
 
@@ -976,9 +1216,17 @@ Representasi
 
 (c) segala representasi material yang dibuat oleh pelanggan itu kepada pihak berkuasa pemerakuan berlesen atau yang dibuat dalam perakuan itu dan tidak disahkan oleh pihak berkuasa pemerakuan berlesen itu dalam mengeluarkan perakuan itu adalah benar.
 
-Representasi
+<!-- marginal: Representasi -->
 
-39. Dengan meminta bagi pihak seorang prinsipal bagi oleh ejen pengeluaran suatu perakuan yang menamakan prinsipal pelanggan. itu sebagai pelanggan, orang yang meminta itu memperakui dalam hak orang itu sendiri kepada semua yang dengan munasabahnya bergantung pada maklumat yang terkandung dalam perakuan itu bahawa orang yang meminta itu—
+39. Dengan meminta bagi pihak seorang prinsipal bagi
+
+<!-- marginal: oleh ejen -->
+
+pengeluaran suatu perakuan yang menamakan prinsipal
+
+<!-- marginal: pelanggan. -->
+
+itu sebagai pelanggan, orang yang meminta itu memperakui dalam hak orang itu sendiri kepada semua yang dengan munasabahnya bergantung pada maklumat yang terkandung dalam perakuan itu bahawa orang yang meminta itu—
 
 (a) memegang segala kuasa yang dikehendaki di sisi undang-undang untuk memohon bagi
 
@@ -1036,25 +1284,103 @@ jika representasi atau kegagalan untuk menzahirkan itu dibuat sama ada dengan ni
 
 (3) Tanggung rugi yang diperuntukkan dalam seksyen ini tidak boleh ditolak atau dihadkan skopnya secara kontraktual.
 
-Pemerakuan
+<!-- marginal: Pemerakuan -->
 
-42. Dalam memperoleh maklumat mengenai pelanggan ketepatan yang material kepada pengeluaran sesuatu perakuan, pihak maklumat yang berkuasa pemerakuan berlesen boleh menghendaki diberikan. pelanggan itu memperakui ketepatan maklumat yang relevan dengan terikat dengan sumpah atau ikrar.
+42. Dalam memperoleh maklumat mengenai pelanggan
+
+<!-- marginal: ketepatan -->
+
+yang material kepada pengeluaran sesuatu perakuan, pihak
+
+<!-- marginal: maklumat -->
+
+<!-- marginal: yang -->
+
+berkuasa pemerakuan berlesen boleh menghendaki
+
+<!-- marginal: diberikan. -->
+
+pelanggan itu memperakui ketepatan maklumat yang relevan dengan terikat dengan sumpah atau ikrar.
 
 ## BAB 4
 
 Kawalan ke atas kunci persendirian
 
-Kewajipan
+<!-- marginal: Kewajipan -->
 
-43. Dengan menerima sesuatu perakuan yang dikeluarkan pelanggan oleh pihak berkuasa pemerakuan berlesen, pelanggan yang untuk menyimpan dinamakan dalam perakuan itu menerima kewajipan untuk kunci menjalankan jagaan yang munasabah untuk mengekalkan persendirian dengan kawalan ke atas kunci persendirian dan mencegah selamat. pendedahannya kepada mana-mana orang yang tidak diberikuasa untuk menghasilkan tandatangan digital pelanggan itu.
+43. Dengan menerima sesuatu perakuan yang dikeluarkan
 
-Harta dalam
+<!-- marginal: pelanggan -->
 
-44. Suatu kunci persendirian merupakan harta kunci persendirian pelanggan yang memegangnya secara sah. persendirian.
+oleh pihak berkuasa pemerakuan berlesen, pelanggan yang
 
-Pihak
+<!-- marginal: untuk -->
 
-45. Jika suatu pihak berkuasa pemerakuan berlesen berkuasa memegang kunci persendirian yang berpadanan dengan pemerakuan berlesen kunci awam yang disenaraikan dalam perakuan yang hendaklah menjadi dikeluarkannya, pihak berkuasa pemerakuan berlesen itu fidusiari jika hendaklah memegang kunci persendirian itu sebagai memegang kunci fidusiari pelanggan yang dinamakan dalam perakuan itu, persendirian dan boleh menggunakan kunci persendirian itu hanya pelanggan. dengan kebenaran bertulis terdahulu pelanggan itu, melainkan jika pelanggan itu secara nyata dan bertiilis memberikan kunci persendirian itu kepada pihak berkuasa pemerakuan berlesen itu dan secara nyata dan bertulis membenarkan pihak berkuasa pemerakuan berlesen itu memegang kunci persendirian itu mengikut terma lain.
+<!-- marginal: menyimpan -->
+
+dinamakan dalam perakuan itu menerima kewajipan untuk
+
+<!-- marginal: kunci -->
+
+menjalankan jagaan yang munasabah untuk mengekalkan
+
+<!-- marginal: persendirian -->
+
+<!-- marginal: dengan -->
+
+kawalan ke atas kunci persendirian dan mencegah
+
+<!-- marginal: selamat. -->
+
+pendedahannya kepada mana-mana orang yang tidak diberikuasa untuk menghasilkan tandatangan digital pelanggan itu.
+
+<!-- marginal: Harta dalam -->
+
+44. Suatu kunci persendirian merupakan harta
+
+<!-- marginal: kunci -->
+
+persendirian pelanggan yang memegangnya secara sah.
+
+<!-- marginal: persendirian. -->
+
+<!-- marginal: Pihak -->
+
+45. Jika suatu pihak berkuasa pemerakuan berlesen
+
+<!-- marginal: berkuasa -->
+
+memegang kunci persendirian yang berpadanan dengan
+
+<!-- marginal: pemerakuan -->
+
+<!-- marginal: berlesen -->
+
+kunci awam yang disenaraikan dalam perakuan yang
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: menjadi -->
+
+dikeluarkannya, pihak berkuasa pemerakuan berlesen itu
+
+<!-- marginal: fidusiari jika -->
+
+hendaklah memegang kunci persendirian itu sebagai
+
+<!-- marginal: memegang -->
+
+<!-- marginal: kunci -->
+
+fidusiari pelanggan yang dinamakan dalam perakuan itu,
+
+<!-- marginal: persendirian -->
+
+dan boleh menggunakan kunci persendirian itu hanya
+
+<!-- marginal: pelanggan. -->
+
+dengan kebenaran bertulis terdahulu pelanggan itu, melainkan jika pelanggan itu secara nyata dan bertiilis memberikan kunci persendirian itu kepada pihak berkuasa pemerakuan berlesen itu dan secara nyata dan bertulis membenarkan pihak berkuasa pemerakuan berlesen itu memegang kunci persendirian itu mengikut terma lain.
 
 <!-- page 37 -->
 
@@ -1132,9 +1458,13 @@ Rang Undang-Undang
 
 (3) Pengawal atau agensi penguatkuasaan undang- undang lain boleh menyiasat penggantungan oleh Pengawal atau mahkamah bagi kemungkinan kesalahan oleh orang yang meminta penggantungan.
 
-Notis peng-
+<!-- marginal: Notis peng- -->
 
-48. (1) Dengan serta-merta selepas penggantungan gantungan. sesuatu perakuan oleh pihak berkuasa pemerakuan berlesen, pihak berkuasa pemerakuan berlesen itu hendaklah menyiarkan suatu notis yang ditandatangani mengenai penggantungan itu dalam repositori yang dinyatakan dalam perakuan itu bagi penyiaran notis penggantungan.
+48. (1) Dengan serta-merta selepas penggantungan
+
+<!-- marginal: gantungan. -->
+
+sesuatu perakuan oleh pihak berkuasa pemerakuan berlesen, pihak berkuasa pemerakuan berlesen itu hendaklah menyiarkan suatu notis yang ditandatangani mengenai penggantungan itu dalam repositori yang dinyatakan dalam perakuan itu bagi penyiaran notis penggantungan.
 
 (2) Jika satu atau lebih repositori dinyatakan, pihak berkuasa pemerakuan berlesen itu hendaklah menyiarkan notis yang ditandatangani mengenai penggantungan itu dalam semua repositori itu.
 
@@ -1226,9 +1556,17 @@ Rang Undang-Undang
 
 Pembatalan perakuan
 
-Pembatalan
+<!-- marginal: Pembatalan -->
 
-53. (1) Suatu pihak berkuasa pemerakuan berlesen atas hendaklah membatalkan sesuatu perakuan yang dikeluarkan permintaan. olehnya tetapi yang bukan suatu perakuan transaksi,—
+53. (1) Suatu pihak berkuasa pemerakuan berlesen
+
+<!-- marginal: atas -->
+
+hendaklah membatalkan sesuatu perakuan yang dikeluarkan
+
+<!-- marginal: permintaan. -->
+
+olehnya tetapi yang bukan suatu perakuan transaksi,—
 
 (a) apabila menerima permintaan
 
@@ -1240,17 +1578,39 @@ membatalkan daripada pelanggan yang dinamakan dalam perakuan itu; dan
 
 (2) Suatu pihak berkuasa pemerakuan berlesen hendaklah mengesahkan sesuatu permintaan untuk pembatalan dan membatalkan perakuan dalam satu hari perniagaan selepas menerima kedua-dua permintaan bertulis pelanggan dan keterangan yang dengan munasabahnya mencukupi untuk mengesahkan identiti orang yang meminta pembatalan itu atau ejen itu.
 
-Pembatalan
+<!-- marginal: Pembatalan -->
 
-54. Suatu pihak berkuasa pemerakuan berlesen hendaklah atas demis membatalkan sesuatu perakuan yang dikeluarkan pelanggan. olehnya—
+54. Suatu pihak berkuasa pemerakuan berlesen hendaklah
+
+<!-- marginal: atas demis -->
+
+membatalkan sesuatu perakuan yang dikeluarkan
+
+<!-- marginal: pelanggan. -->
+
+olehnya—
 
 (a) apabila menerima suatu salinan terperaku sijil kematian pelanggan itu atau apabila disahkan melalui keterangan lain bahawa pelanggan itu telah mati; atau
 
 (b) apabila diserahkan dokumen yang melaksanakan pembubaran pelanggan atau apabila disahkan melalui keterangan lain bahawa pelanggan itu telah dibubarkan atau tidak lagi wujud.
 
-Pembatalan
+<!-- marginal: Pembatalan -->
 
-55. (1) Suatu pihak berkuasa pemerakuan berlesen boleh perakuan membatalkan satu atau lebih perakuan yang dikeluarkan yang tidak boleh olehnya jika perakuan itu adalah atau menjadi tidak boleh dipercayai. dipercayai tidak kira sama ada pelanggan bersetuju kepada pembatalan itu dan walau apa pun apa-apa peruntukan yang berlawanan dalam kontrak antara pelanggan itu dan pihak berkuasa pemerakuan berlesen itu.
+55. (1) Suatu pihak berkuasa pemerakuan berlesen boleh
+
+<!-- marginal: perakuan -->
+
+membatalkan satu atau lebih perakuan yang dikeluarkan
+
+<!-- marginal: yang tidak -->
+
+<!-- marginal: boleh -->
+
+olehnya jika perakuan itu adalah atau menjadi tidak boleh
+
+<!-- marginal: dipercayai. -->
+
+dipercayai tidak kira sama ada pelanggan bersetuju kepada pembatalan itu dan walau apa pun apa-apa peruntukan yang berlawanan dalam kontrak antara pelanggan itu dan pihak berkuasa pemerakuan berlesen itu.
 
 <!-- page 41 -->
 
@@ -1298,17 +1658,41 @@ mengikut mana-mana yang berlaku dahulu.
 
 Rang Undang-Undang
 
-Kesan pem-
+<!-- marginal: Kesan pem- -->
 
-58. Atas pemberitahuan sebagaimana yang dikehendaki beritahuan di bawah seksyen 56, pihak berkuasa pemerakuan berlesen atas pihak berkuasa hendaklah dilepaskan daripada warantinya yang pemerakuan berdasarkan pengeluaran perakuan yang dibatalkan itu berlesen. dan terhenti memperakui sebagaimana yang diperuntukkan dalam seksyen 35 dan 36 berhubungan dengan perakuan yang dibatalkan itu.
+58. Atas pemberitahuan sebagaimana yang dikehendaki
+
+<!-- marginal: beritahuan -->
+
+di bawah seksyen 56, pihak berkuasa pemerakuan berlesen
+
+<!-- marginal: atas pihak -->
+
+<!-- marginal: berkuasa -->
+
+hendaklah dilepaskan daripada warantinya yang
+
+<!-- marginal: pemerakuan -->
+
+berdasarkan pengeluaran perakuan yang dibatalkan itu
+
+<!-- marginal: berlesen. -->
+
+dan terhenti memperakui sebagaimana yang diperuntukkan dalam seksyen 35 dan 36 berhubungan dengan perakuan yang dibatalkan itu.
 
 ## BAB 7
 
 Habisnya tempoh perakuan
 
-Habisnya
+<!-- marginal: Habisnya -->
 
-59. (1) Tarikh habisnya tempoh perakuan hendaklah tempoh dinyatakan dalam perakuan. perakuan.
+59. (1) Tarikh habisnya tempoh perakuan hendaklah
+
+<!-- marginal: tempoh -->
+
+dinyatakan dalam perakuan.
+
+<!-- marginal: perakuan. -->
 
 (2) Suatu perakuan boleh dikeluarkan bagi apa-apa tempoh tidak melebihi tiga tahun dari tarikh pengeluaran.
 
@@ -1320,9 +1704,19 @@ Habisnya
 
 Had pergantungan yang disyorkan dan liabiliti
 
-Had per-
+<!-- marginal: Had per- -->
 
-60. (1) Suatu pihak berkuasa pemerakuan berlesen gantungan hendaklah, dalam mengeluarkan perakuan kepada yang disyorkan. pelanggan, menyatakan had pergantungan yang disyorkan dalam perakuan itu.
+60. (1) Suatu pihak berkuasa pemerakuan berlesen
+
+<!-- marginal: gantungan -->
+
+hendaklah, dalam mengeluarkan perakuan kepada
+
+<!-- marginal: yang -->
+
+<!-- marginal: disyorkan. -->
+
+pelanggan, menyatakan had pergantungan yang disyorkan dalam perakuan itu.
 
 (2) Pihak berkuasa pemerakuan berlesen itu boleh menyatakan had berlainan dalam perakuan berlainan sebagaimana yang difikirkannya patut.
 
@@ -1402,9 +1796,19 @@ menandatangani mesej itu; dan
 
 (3) Tiada apa-apa jua dalam Akta ini boleh menghalang apa-apa simbol daripada menjadi sah sebagai suatu tandatangan di bawah mana-mana undang-undang terpakai lain.
 
-Tandatangan
+<!-- marginal: Tandatangan -->
 
-63. (1) Melainkan jika diperuntukkan selainnya oleh digital yang tidak boleh undang-undang atau kontrak, penerima tandatangan digital dipercayai. menerima risiko yang tandatangan digital dipalsukan, jika kebergantungan pada tandatangan digital itu tidak munasabah di bawah hal keadaan itu.
+63. (1) Melainkan jika diperuntukkan selainnya oleh
+
+<!-- marginal: digital yang -->
+
+<!-- marginal: tidak boleh -->
+
+undang-undang atau kontrak, penerima tandatangan digital
+
+<!-- marginal: dipercayai. -->
+
+menerima risiko yang tandatangan digital dipalsukan, jika kebergantungan pada tandatangan digital itu tidak munasabah di bawah hal keadaan itu.
 
 <!-- page 45 -->
 
@@ -1494,9 +1898,17 @@ fizikal di hadapan pihak berkuasa pemerakuan berlesen apabila tandatangan digita
 
 (b) ditambahkan semasa perakuan itu sah.
 
-Anggapan
+<!-- marginal: Anggapan -->
 
-67. Dalam menghakimi pertikaian yang melibatkan tanda- dalam tangan digital, mahkamah hendaklah menganggap— menghakimi pertikaian.
+67. Dalam menghakimi pertikaian yang melibatkan tanda-
+
+<!-- marginal: dalam -->
+
+tangan digital, mahkamah hendaklah menganggap—
+
+<!-- marginal: menghakimi -->
+
+<!-- marginal: pertikaian. -->
 
 (a) bahawa perakuan yang ditandatangani secara digital oleh pihak berkuasa pemerakuan berlesen dan—
 
@@ -1620,7 +2032,9 @@ dilesenkan atau tidak, boleh menjalankan perniagaannya
 
 dengan cara yang menghasilkan risiko kehilangan yang tak munasabah kepada pelanggan pihak berkuasa pemerakuan itu, kepada orang yang bergantung pada perakuan yang dikeluarkan oleh pihak berkuasa pemerakuan itu atau kepada repositori.
 
-(2) Pengawal boleh menyiarkan dalam satu atau lebih repositori diiktiraf pernyataan ringkas yang menasihatkan pelanggan, orang yang bergantung pada tandatangan digital dan repositori mengenai apa-apa aktiviti pihak berkuasa pemerakuan, sama ada dilesenkan atau tidak, yang menghasilkan risiko yang dilarang di bawah subseksyen (1).
+(2) Pengawal boleh menyiarkan dalam satu atau lebih repositori diiktiraf pernyataan ringkas yang menasihatkan pelanggan, orang yang bergantung pada tandatangan digital dan repositori mengenai apa-apa aktiviti pihak berkuasa pemerakuan, sama ada dilesenkan atau tidak, yang menghasilkan risiko yang dilarang di bawah subseksyen
+
+(1).
 
 <!-- page 50 -->
 
@@ -1638,9 +2052,13 @@ Rang Undang-Undang
 
 (8) Pengawal hendaklah menyiarkan keputusannya di bawah subseksyen (5), (6) atau (7), mengikut mana-mana yang berkenaan, dalam satu atau lebih repositori diiktiraf.
 
-Kewajipan
+<!-- marginal: Kewajipan -->
 
-72. (1) Kecuali bagi maksud Akta ini, tiada seorang kerahsiaan. pun yang mempunyai akses kepada apa-apa rekod, buku, daftar, surat, maklumat, dokumen atau bahan lain yang diperoleh di bawah Akta ini boleh menzahirkan rekod, buku, daftar, surat, maklumat, dokumen atau bahan lain itu kepada mana-mana orang lain.
+72. (1) Kecuali bagi maksud Akta ini, tiada seorang
+
+<!-- marginal: kerahsiaan. -->
+
+pun yang mempunyai akses kepada apa-apa rekod, buku, daftar, surat, maklumat, dokumen atau bahan lain yang diperoleh di bawah Akta ini boleh menzahirkan rekod, buku, daftar, surat, maklumat, dokumen atau bahan lain itu kepada mana-mana orang lain.
 
 (2) Seseorang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu ratus ribu ringgit atau
 
@@ -1692,11 +2110,19 @@ Rang Undang-Undang 52
 
 (c) oleh pekerja ejen itu dalam masa penggajian pekerja itu dengan ejen itu atau selainnya bagi pihak ejen itu.
 
-Pegawai
+<!-- marginal: Pegawai -->
 
-75. (1) Menteri boleh memberikuasa secara bertulis diberikuasa. mana-mana pegawai awam atau pegawai Pengawal untuk menjalankan kuasa penguatkuasaan di bawah Akta ini.
+75. (1) Menteri boleh memberikuasa secara bertulis
 
-(2) Mana-mana pegawai sedemikian hendaklah disifatkan sebagai seorang pengkhidmat awam mengikut N.M.B. pengertian Kanun Keseksaan.
+<!-- marginal: diberikuasa. -->
+
+mana-mana pegawai awam atau pegawai Pengawal untuk menjalankan kuasa penguatkuasaan di bawah Akta ini.
+
+(2) Mana-mana pegawai sedemikian hendaklah disifatkan sebagai seorang pengkhidmat awam mengikut
+
+<!-- marginal: N.M.B. -->
+
+pengertian Kanun Keseksaan.
 
 ## Bab 45.
 
@@ -1706,9 +2132,13 @@ Pegawai
 
 penguatkuasaan di bawah Akta ini, seseorang pegawai diberikuasa hendaklah, apabila diminta, mengemukakan kepada orang yang terhadapnya dia bertindak surat pemberikuasaan yang dikeluarkan kepadanya oleh Menteri.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-76. (1) Pengawal boleh menyiasat aktiviti suatu pihak menyiasat. berkuasa pemerakuan yang material kepada pematuhannya dengan Akta ini.
+76. (1) Pengawal boleh menyiasat aktiviti suatu pihak
+
+<!-- marginal: menyiasat. -->
+
+berkuasa pemerakuan yang material kepada pematuhannya dengan Akta ini.
 
 (2) Bagi maksud subseksyen (1), Pengawal boleh mengeluarkan perintah kepada pihak berkuasa pemerakuan untuk melanjutkan penyiasatannya dan mendapatkan pematuhan dengan Akta ini.
 
@@ -1758,9 +2188,19 @@ yang difikirkannya perlu, bahawa terdapat sebab yang munasabah untuk mempercayai
 
 (6) Seseorang yang, tanpa kuasa sah, memecahkan, mengganggu atau merosakkan lak yang disebut dalam subseksyen (5) atau memindahkan apa-apa buku, akaun, dokumen, data berkomputer, papan tanda, kad, surat, risalah, lembaran, notis, alat, artikel atau benda yang dilak atau mencuba untuk berbuat demikian adalah melakukan suatu kesalahan.
 
-Penggele-
+<!-- marginal: Penggele- -->
 
-78. Jika seorang pegawai polis yang pangkatnya tidak dahan dan rendah daripada Inspektor dalam mana-mana hal keadaan penyitaan tanpa waran. yang disebut dalam seksyen 77 mempunyai sebab munasabah untuk mempercayai bahawa oleh sebab kelewatan dalam memperoleh suatu waran geledah di bawah seksyen itu penyiasatan akan terjejas atau keterangan mengenai pelakuan sesuatu kesalahan berkemungkinan diganggu, dipindahkan, dirosakkan atau dimusnahkan, pegawai itu boleh masuk ke dalam premis itu dan menjalankan di dalam, ke atas dan berkenaan dengan premis itu semua kuasa yang disebut dalam seksyen 77 dengan cara yang sepenuhnya dan secukupnya seolah- olah dia diberikuasa untuk berbuat demikian oleh suatu waran yang dikeluarkan di bawah seksyen itu.
+78. Jika seorang pegawai polis yang pangkatnya tidak
+
+<!-- marginal: dahan dan -->
+
+rendah daripada Inspektor dalam mana-mana hal keadaan
+
+<!-- marginal: penyitaan -->
+
+<!-- marginal: tanpa waran. -->
+
+yang disebut dalam seksyen 77 mempunyai sebab munasabah untuk mempercayai bahawa oleh sebab kelewatan dalam memperoleh suatu waran geledah di bawah seksyen itu penyiasatan akan terjejas atau keterangan mengenai pelakuan sesuatu kesalahan berkemungkinan diganggu, dipindahkan, dirosakkan atau dimusnahkan, pegawai itu boleh masuk ke dalam premis itu dan menjalankan di dalam, ke atas dan berkenaan dengan premis itu semua kuasa yang disebut dalam seksyen 77 dengan cara yang sepenuhnya dan secukupnya seolah- olah dia diberikuasa untuk berbuat demikian oleh suatu waran yang dikeluarkan di bawah seksyen itu.
 
 <!-- page 55 -->
 
@@ -1788,7 +2228,11 @@ pegawai diberikuasa yang menjalankan penggeledahan di bawah seksyen 77 hendaklah
 
 <!-- marginal: benda disita. -->
 
-subseksyen (2), jika apa-apa buku, akaun, dokumen, data berkomputer, papan tanda, kad, surat, risalah, lembaran, notis, alat, artikel atau benda disita di bawah seksyen 77 atau 78, pegawai yang menyita itu hendaklah menyediakan senarai benda yang disita dan dengan serta-merta menghantarserahkan sesalinan senarai itu yang ditandatangani olehnya kepada penghuni premis yang digeledah, atau kepada ejen atau pengkhidmatnya, di premis itu.
+subseksyen (2), jika apa-apa buku, akaun, dokumen, data berkomputer, papan tanda, kad, surat, risalah, lembaran, notis, alat, artikel atau benda disita di bawah seksyen 77 atau 78, pegawai yang menyita itu hendaklah menyediakan senarai benda yang disita dan dengan serta-merta menghantarserahkan sesalinan senarai
+
+<!-- marginal: itu yang -->
+
+ditandatangani olehnya kepada penghuni premis yang digeledah, atau kepada ejen atau pengkhidmatnya, di premis itu.
 
 (2) Jika premis itu tidak didiami, pegawai yang menyita itu hendaklah bilamasa boleh melekatkan senarai benda yang disita itu di tempat yang mudah dilihat di premis itu.
 
@@ -1822,23 +2266,65 @@ Rang Undang-Undang 56
 
 (c) membuat apa-apa siasatan yang perlu untuk menentukan sama ada peruntukan-peruntukan Akta ini dipatuhi.
 
-Penalti am.
+<!-- marginal: Penalti am. -->
 
 83. (1) Seseorang yang melakukan suatu kesalahan di bawah Akta ini yang baginya tiada penalti diperuntukkan secara nyata, apabila disabitkan, boleh didenda tidak melebihi dua ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi empat tahun atau kedua-duanya, dan dalam hal suatu kesalahan yang berterusan boleh sebagai tambahan didenda harian tidak melebihi dua ribu ringgit bagi setiap hari kesalahan itu terus dilakukan.
 
 (2) Bagi maksud seksyen ini, "Akta ini" tidak termasuk peraturan-peraturan yang dibuat di bawah Akta ini.
 
-Mendapatkan
+<!-- marginal: Mendapatkan -->
 
-84. Jika Pengawal mendapati bahawa pihak berkuasa kos pemerakuan telah melanggar Akta ini, Pengawal boleh prosedural. memerintahkan pihak berkuasa pemerakuan itu membayar kos yang dilakukan oleh Pengawal dalam prosiding pendakwaan dan penghakiman berhubungan dengan perintah itu dan dalam menguatkuasakannya.
+84. Jika Pengawal mendapati bahawa pihak berkuasa
 
-Tiada kos
+<!-- marginal: kos -->
 
-85. Tiada seorang pun, dalam apa-apa prosiding di hadapan atau ganti mana-mana mahkamah berkenaan dengan penyitaan apa- rugi yang berbangkit apa buku, akaun, dokumen, data berkomputer, papan tanda, daripada kad, surat, risalah, lembaran, notis, alat, artikel atau benda penyitaan boleh diper- yang disita pada menjalankan atau yang dikatakan pada dapatkan. menjalankan mana-mana kuasa yang diberikan di bawah Akta ini, berhak kepada kos prosiding itu atau kepada apa-apa ganti rugi atau relif lain melainkan jika penyitaan itu dibuat tanpa sebab yang munasabah.
+pemerakuan telah melanggar Akta ini, Pengawal boleh
 
-Permulaan
+<!-- marginal: prosedural. -->
 
-86. (1) Tiada pendakwaan bagi atau yang berhubungan dan pen- dengan apa-apa kesalahan di bawah Akta ini boleh jalanan pendakwaan. dimulakan tanpa kebenaran secara bertulis Pendakwa Raya.
+memerintahkan pihak berkuasa pemerakuan itu membayar kos yang dilakukan oleh Pengawal dalam prosiding pendakwaan dan penghakiman berhubungan dengan perintah itu dan dalam menguatkuasakannya.
+
+<!-- marginal: Tiada kos -->
+
+85. Tiada seorang pun, dalam apa-apa prosiding di hadapan
+
+<!-- marginal: atau ganti -->
+
+mana-mana mahkamah berkenaan dengan penyitaan apa-
+
+<!-- marginal: rugi yang -->
+
+<!-- marginal: berbangkit -->
+
+apa buku, akaun, dokumen, data berkomputer, papan tanda,
+
+<!-- marginal: daripada -->
+
+kad, surat, risalah, lembaran, notis, alat, artikel atau benda
+
+<!-- marginal: penyitaan -->
+
+<!-- marginal: boleh diper- -->
+
+yang disita pada menjalankan atau yang dikatakan pada
+
+<!-- marginal: dapatkan. -->
+
+menjalankan mana-mana kuasa yang diberikan di bawah Akta ini, berhak kepada kos prosiding itu atau kepada apa-apa ganti rugi atau relif lain melainkan jika penyitaan itu dibuat tanpa sebab yang munasabah.
+
+<!-- marginal: Permulaan -->
+
+86. (1) Tiada pendakwaan bagi atau yang berhubungan
+
+<!-- marginal: dan pen- -->
+
+dengan apa-apa kesalahan di bawah Akta ini boleh
+
+<!-- marginal: jalanan -->
+
+<!-- marginal: pendakwaan. -->
+
+dimulakan tanpa kebenaran secara bertulis Pendakwa Raya.
 
 <!-- page 57 -->
 
@@ -1886,13 +2372,31 @@ dalam Warta, mengecualikan mana-mana orang atau golongan orang daripada semua at
 
 Rang Undang-Undang
 
-Batasan atas
+<!-- marginal: Batasan atas -->
 
-90. Melainkan jika diperuntukkan secara nyata di bawah penolakan atau Akta ini, tiada seorang pun boleh menolak atau menghadkan penghadan secara kontraktual pemakaian Akta ini. pemakaian Akta.
+90. Melainkan jika diperuntukkan secara nyata di bawah
 
-Peraturan-
+<!-- marginal: penolakan -->
 
-91. (1) Menteri boleh membuat peraturan-peraturan bagi peraturan. semua atau mana-mana maksud yang berikut:
+<!-- marginal: atau -->
+
+Akta ini, tiada seorang pun boleh menolak atau menghadkan
+
+<!-- marginal: penghadan -->
+
+secara kontraktual pemakaian Akta ini.
+
+<!-- marginal: pemakaian -->
+
+<!-- marginal: Akta. -->
+
+<!-- marginal: Peraturan- -->
+
+91. (1) Menteri boleh membuat peraturan-peraturan bagi
+
+<!-- marginal: peraturan. -->
+
+semua atau mana-mana maksud yang berikut:
 
 (a) menetapkan kehendak kelayakan bagi pihak berkuasa pemerakuan;
 
@@ -1962,9 +2466,7 @@ Fasal 4 bertujuan memasukkan suatu skim pelesenan wajib bagi pihak berkuasa peme
 
 <!-- page 61 -->
 
-dalam hal sedemikian dan sebagaimana yang diperuntukkan secara nyata dalam fasal 13 Akta yang dicadangkan, had liabiliti yang dinyatakan dalam Bab 8 Bahagian IV Akta yang dicadangkan mahupun
-
-## Bahagian V Akta yang dicadangkan tidak boleh terpakai.
+dalam hal sedemikian dan sebagaimana yang diperuntukkan secara nyata dalam fasal 13 Akta yang dicadangkan, had liabiliti yang dinyatakan dalam Bab 8 Bahagian IV Akta yang dicadangkan mahupun Bahagian V Akta yang dicadangkan tidak boleh terpakai.
 
 Subfasal 4(3) bertujuan membenarkan Menteri mengecualikan seseorang yang beroperasi sebagai pihak berkuasa pemerakuan dalam sesuatu organisast jika perakuan dan pasangan kunci dikeluarkan kepada anggota organisasi itu untuk kegunaan dalaman sahaja dan mana-mana orang atau golongan orang lain yang difikirkan patut oleh Menteri.
 

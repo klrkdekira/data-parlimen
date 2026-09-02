@@ -6,23 +6,41 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas, pemakaian dan permulaan kuat kuasa 2. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## LEMBAGA KEBAJIKAN HAIWAN
 
-3. Penubuhan Lembaga Kebajikan Haiwan 4. Fungsi Lembaga 5. Pewakilan fungsi Lembaga 6. Keanggotaan Lembaga 7. Anggota silih ganti 8. Tempoh jawatan 9. Elaun dan perbelanjaan 10. Pembatalan pelantikan dan peletakan jawatan 11. Pengosongan jawatan 12. Mesyuarat Lembaga 13. Jawatankuasa 14. Kuasa Menteri untuk memberikan arahan
+3. Penubuhan Lembaga Kebajikan Haiwan 4. Fungsi Lembaga 5. Pewakilan fungsi Lembaga 6. Keanggotaan Lembaga 7. Anggota silih ganti 8. Tempoh jawatan 9. Elaun dan perbelanjaan
 
-## Bahagian III
+10. Pembatalan pelantikan dan peletakan jawatan
+
+11. Pengosongan jawatan
+
+12. Mesyuarat Lembaga
+
+13. Jawatankuasa
+
+14. Kuasa Menteri untuk memberikan arahan
+
+## BAHAGIAN III
 
 ## PELESENAN
 
-15. Kehendak bagi lesen 16. Permohonan dan pengeluaran lesen 17. Lesen tidak boleh dipindah milik 18. Tempoh lesen 19. Pembaharuan lesen
+15. Kehendak bagi lesen
+
+16. Permohonan dan pengeluaran lesen
+
+17. Lesen tidak boleh dipindah milik
+
+18. Tempoh lesen
+
+19. Pembaharuan lesen
 
 <!-- page 2 -->
 
@@ -34,7 +52,7 @@
 
 23. Dihalang daripada memegang lesen
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PERKARA YANG BERHUBUNGAN DENGAN KEBAJIKAN HAIWAN
 
@@ -48,7 +66,7 @@
 
 28. Penjualan haiwan kepada orang berumur bawah dua belas tahun
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PENGANIAYAAN TERHADAP HAIWAN
 
@@ -62,7 +80,7 @@
 
 33. Kegagalan menjalankan jagaan dan pengawasan yang munasabah
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## HAIWAN DALAM DISTRES
 
@@ -70,7 +88,7 @@
 
 35. Perintah berhubung dengan haiwan yang diambil milik
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## KUASA YANG BERHUBUNGAN DENGAN PENGUATKUASAAN
 
@@ -84,21 +102,65 @@
 
 <!-- page 3 -->
 
-40. Penggeledahan dan penyitaan tanpa waran 41. Kuasa untuk memasuki premis 42. Kuasa untuk memberhentikan, menggeledah dan menyita pengangkut 43. Kuasa untuk mengelak premis atau pengangkut 44. Senarai benda yang disita 45. Perintah menahan haiwan, karkas, dsb., yang disita di bawah Akta ini 46. Perintah berhubung dengan haiwan, karkas, dsb., yang disita di bawah Akta ini 47. Pegawai kebajikan haiwan boleh meminta bantuan untuk memeriksa benda yang berhubungan dengan kesalahan 48. Kos menyimpan haiwan, dsb., yang disita 49. Tiada kos atau ganti rugi yang berbangkit daripada penyitaan boleh didapatkan semula
+40. Penggeledahan dan penyitaan tanpa waran
 
-## Bahagian VIII
+41. Kuasa untuk memasuki premis
+
+42. Kuasa untuk memberhentikan, menggeledah dan menyita pengangkut
+
+43. Kuasa untuk mengelak premis atau pengangkut
+
+44. Senarai benda yang disita
+
+45. Perintah menahan haiwan, karkas, dsb., yang disita di bawah Akta ini
+
+46. Perintah berhubung dengan haiwan, karkas, dsb., yang disita di bawah Akta ini
+
+47. Pegawai kebajikan haiwan boleh meminta bantuan untuk memeriksa benda yang berhubungan dengan kesalahan
+
+48. Kos menyimpan haiwan, dsb., yang disita
+
+49. Tiada kos atau ganti rugi yang berbangkit daripada penyitaan boleh didapatkan semula
+
+## BAHAGIAN VIII
 
 ## KUASA SAMPINGAN MAHKAMAH
 
-50. Kesalahan kedua atau berikutnya 51. Pelucuthakan 52. Hilang kelayakan 53. Penyitaan haiwan berhubung dengan hilang kelayakan 54. Kuasa mahkamah untuk memerintahkan pemusnahan haiwan 55. Pelucuthakan item yang digunakan atau berhubung dengan kesalahan
+50. Kesalahan kedua atau berikutnya
 
-## Bahagian IX
+51. Pelucuthakan
+
+52. Hilang kelayakan
+
+53. Penyitaan haiwan berhubung dengan hilang kelayakan
+
+54. Kuasa mahkamah untuk memerintahkan pemusnahan haiwan
+
+55. Pelucuthakan item yang digunakan atau berhubung dengan kesalahan
+
+## BAHAGIAN IX
 
 AM
 
-56. Kesalahan yang dilakukan oleh pertubuhan perbadanan 57. Kegagalan mematuhi perintah yang sah 58. Gambar haiwan boleh diterima sebagai keterangan 59. Perlindungan terhadap guaman dan prosiding undang-undang 60. Kesalahan yang boleh dikompaun 61. Pemulaan pendakwaan 62. Kuasa untuk membuat peraturan-peraturan 63. Kuasa untuk meminda Jadual 64. Peruntukan peralihan
+56. Kesalahan yang dilakukan oleh pertubuhan perbadanan
 
-## Jadual
+57. Kegagalan mematuhi perintah yang sah
+
+58. Gambar haiwan boleh diterima sebagai keterangan
+
+59. Perlindungan terhadap guaman dan prosiding undang-undang
+
+60. Kesalahan yang boleh dikompaun
+
+61. Pemulaan pendakwaan
+
+62. Kuasa untuk membuat peraturan-peraturan
+
+63. Kuasa untuk meminda Jadual
+
+64. Peruntukan peralihan
+
+## JADUAL
 
 <!-- page 5 -->
 
@@ -108,13 +170,15 @@ Suatu Akta untuk mengadakan peruntukan bagi penubuhan Lembaga Kebajikan Haiwan, 
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 ### Tajuk ringkas, pemakaian dan permulaan kuat kuasa
 
-1. (1) Akta ini bolehlah dinamakan Akta Kebajikan Haiwan 2015.
+1. (1) Akta ini bolehlah dinamakan Akta Kebajikan Haiwan
+
+2015.
 
 (2) Akta ini terpakai bagi Semenanjung Malaysia dan Wilayah Persekutuan Labuan.
 
@@ -156,7 +220,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “tatacara pengurusan veterinar yang diterima pakai” termasuklah nyahtanduk lembu, cucuk hidung lembu, pengacipan telinga, pengetagan telinga, pemangkasan bulu, tanduk, gading atau kuku, dan membuat tanda pada haiwan atau apa-apa tatacara lain yang ditentukan oleh Lembaga.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## LEMBAGA KEBAJIKAN HAIWAN
 
@@ -350,7 +414,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 14. Menteri boleh, dari semasa ke semasa, memberi arahan kepada Lembaga arahan selaras dengan peruntukan Akta ini dan Lembaga hendaklah melaksanakan segala arahan itu.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PELESENAN
 
@@ -466,7 +530,7 @@ boleh dalam masa tiga puluh hari dari tarikh dimaklumkan secara bertulis berkena
 
 <!-- page 19 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PERKARA YANG BERHUBUNGAN DENGAN KEBAJIKAN HAIWAN
 
@@ -566,7 +630,7 @@ kepada haiwan yang diangkut dalam pengangkut itu bagi memastikan penghantaran se
 
 28. Mana-mana orang yang menjual haiwan kepada seseorang yang dia mempunyai sebab yang munasabah untuk mempercayai bahawa orang itu berumur di bawah dua belas tahun, melainkan jika orang itu ditemani oleh seorang dewasa, melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang daripada lima belas ribu ringgit dan tidak lebih daripada tujuh puluh lima ribu ringgit atau dipenjarakan selama tempoh tidak lebih daripada dua tahun atau kedua-duanya.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PENGANIAYAAN TERHADAP HAIWAN
 
@@ -728,7 +792,9 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang da
 
 <!-- page 29 -->
 
-(5) Mana-mana orang yang melanggar subseksyen (1) atau (2) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang daripada dua puluh ribu ringgit dan tidak lebih daripada satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak lebih daripada tiga tahun atau kedua-duanya.
+(5) Mana-mana orang yang melanggar subseksyen (1) atau
+
+(2) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang daripada dua puluh ribu ringgit dan tidak lebih daripada satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak lebih daripada tiga tahun atau kedua-duanya.
 
 ### Kegagalan menjalankan jagaan dan pengawasan yang
 
@@ -738,7 +804,7 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang da
 
 (2) Seseorang yang disabitkan dengan suatu kesalahan di bawah subseksyen (1) atas sebab kecuaian tidak boleh dipenjarakan tanpa memberikannya pilihan untuk denda.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## HAIWAN DALAM DISTRES
 
@@ -826,7 +892,7 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang da
 
 (6) Seseorang yang dengan sengaja menghalang seseorang yang menjalankan apa-apa kuasa yang diberikan di bawah seksyen ini melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang daripada sepuluh ribu ringgit dan tidak lebih daripada lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak lebih daripada satu tahun atau kedua-duanya.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## KUASA YANG BERHUBUNGAN DENGAN PENGUATKUASAAN
 
@@ -896,7 +962,9 @@ dalam memperoleh suatu waran geledah di bawah seksyen 56 Kanun Tatacara Jenayah 
 
 (2) Pemunya atau penghuni premis atau pengangkut itu hendaklah bertanggungjawab bagi penjagaan umum atau kebajikan haiwan, keseluruhan penyelenggaraan dan penyimpanan selamat mana- mana haiwan, karkas, pengangkut, bahan atau benda lain yang telah dielak di dalam premis atau kenderaan yang disebut dalam subseksyen (1).
 
-(3) Mana-mana orang yang, tanpa kuasa yang sah, memecahkan, mengganggu atau merosakkan lak yang disebut dalam subseksyen (1) atau memindahkan haiwan, karkas, pengangkut, bahan atau benda lain yang dilak atau cuba untuk berbuat demikian melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak
+(3) Mana-mana orang yang, tanpa kuasa yang sah, memecahkan, mengganggu atau merosakkan lak yang disebut dalam subseksyen
+
+(1) atau memindahkan haiwan, karkas, pengangkut, bahan atau benda lain yang dilak atau cuba untuk berbuat demikian melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak
 
 <!-- page 36 -->
 
@@ -974,7 +1042,7 @@ boleh membuat suatu perintah untuk haiwan, karkas, bahan atau benda lain tersebu
 
 <!-- page 39 -->
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## KUASA SAMPINGAN MAHKAMAH
 
@@ -1060,7 +1128,7 @@ boleh membuat suatu perintah untuk haiwan, karkas, bahan atau benda lain tersebu
 
 (5) Bagi maksud seksyen ini, “item” ertinya apa-apa barang atau bahan berkenaan dengan suatu kesalahan yang telah dilakukan dan yang ialah suatu hal perkara berhubung dengan keterangan yang perlu untuk membuktikan pelakuan kesalahan itu.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 AM
 
@@ -1182,7 +1250,7 @@ jika perbuatan itu dilakukan dengan suci hati dan dengan kepercayaan munasabah b
 
 <!-- page 48 -->
 
-## Jadual
+## JADUAL
 
 [Seksyen 15]
 
@@ -1220,7 +1288,7 @@ Aktiviti berikut dianggap sebagai aktiviti yang melibatkan penggunaan haiwan bag
 
 Rang Undang-Undang Kebajikan Haiwan ini bertujuan untuk mengadakan peruntukan bagi pengurusan kebajikan dan kesejahteraan haiwan, pelesenan aktiviti yang melibatkan haiwan, penubuhan Lembaga Kebajikan Haiwan, pencegahan penganiayaan kepada haiwan dan bagi perkara-perkara lain yang berkaitan dengannya.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan mengandungi perkara permulaan.
 
@@ -1230,7 +1298,7 @@ Fasal 1 mengandungi tajuk ringkas, pemakaian dan bertujuan membenarkan Menteri u
 
 Fasal 2 mengandungi takrif ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 3. Bahagian II Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan penubuhan Lembaga Kebajikan Haiwan (“Lembaga”).
 
@@ -1258,7 +1326,7 @@ Fasal 13 bertujuan untuk memberi Lembaga kuasa menubuhkan jawatankuasa bagi memb
 
 Fasal 14 bertujuan untuk memberi Menteri kuasa untuk memberikan arahan kepada Lembaga.
 
-## Bahagian III
+## BAHAGIAN III
 
 4. Bahagian III Akta yang dicadangkan memperkatakan kehendak pelesenan, dsb.
 
@@ -1282,7 +1350,7 @@ Fasal 22 bertujuan untuk membenarkan pemohon untuk merayu terhadap apa-apa keput
 
 Fasal 23 bertujuan untuk tidak membenarkan seseorang yang pernah disabitkan dengan suatu kesalahan di bawah Akta yang dicadangkan atau mana- mana perundangan subsidiarinya untuk memegang apa-apa lesen. Larangan itu bermula pada tarikh prosiding berkenaan dengan sabitan diperuntukan dengan muktamad.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 5. Bahagian IV Akta yang dicadangkan mengandungi perkara yang berhubung dengan kebajikan haiwan.
 
@@ -1296,7 +1364,7 @@ Fasal 27 mengandungi peruntukan mengenai kewajipan pemunya atau pengendali yang 
 
 Fasal 28 menyatakan larangan penjualan haiwan kepada seseorang yang di bawah umur di bawah umur dua belas tahun.
 
-## Bahagian V
+## BAHAGIAN V
 
 6. Bahagian V Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan penganiayaan kepada haiwan.
 
@@ -1312,7 +1380,7 @@ Fasal 32 mengandungi peruntukan yang berhubungan dengan urus niaga perlagaan hai
 
 Fasal 33 mengandungi peruntukan mengenai kegagalan mana-mana orang yang untuk menjalankan penjagaan dan pengawasan yang munasabah, tanpa niat, berhubung dengan perlindungan haiwan.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 7. Bahagian VI Akta yang dicadangkan mengandungi peruntukan yang berhubung dengan haiwan dalam distres.
 
@@ -1320,7 +1388,7 @@ Fasal 34 menyatakan peranan dan kuasa doktor veterinar berdaftar dan kuasa serta
 
 Fasal 35 mengadakan peruntukan mengenai perintah oleh mahkamah berhubung dengan haiwan yang diambil milik.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 8. Bahagian VII Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan penguatkuasaan.
 
@@ -1348,7 +1416,7 @@ Fasal 48 bertujuan untuk memperuntukkan bahawa kos memegang apa- apa benda yang 
 
 Fasal 49 memperuntukkan bahawa tiada kos atau ganti rugi yang berbangkit daripada penyitaan apa-apa benda dalam menjalankan atau berupa penjalanan kuasa di bawah Akta yang dicadangkan boleh didapatkan dalam mana-mana prosiding di hadapan mana-mana mahkamah melainkan jika penyitaan itu dibuat tanpa sebab yang munasabah.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 9. Bahagian VII Akta yang dicadangkan mengandungi peruntukan yang berhubung dengan kuasa sampingan mahkamah.
 
@@ -1366,7 +1434,7 @@ Fasal 54 memperkatakan tentang kuasa mahkamah untuk memberikan perintah bagi hai
 
 Fasal 55 mengadakan peruntukan tentang peruntukan pelucuthakan item yang digunakan dalam atau berhubung dengan kesalahan.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 10. Bahagian IX Akta yang dicadangkan memperkatakan tentang peruntukan am.
 

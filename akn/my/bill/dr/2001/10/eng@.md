@@ -96,15 +96,37 @@ Provided that in relation to a company that is being wound up, the directors of 
 
 (4) Where, on the entry upon any premises under the provisions of this section, any dutiable goods are found in relation to which any offence under the provisions of this Act has been committed, then such dutiable goods shall be liable to forfeiture.
 
-Power of
+<!-- marginal: Power of -->
 
-106B. A proper officer of customs shall have all the investigation. powers necessary to carry out an inspection and to investigate the commission of any offence under this Act.",
+106B. A proper officer of customs shall have all the
+
+<!-- marginal: investigation. -->
+
+powers necessary to carry out an inspection and to investigate the commission of any offence under this Act.",
 
 ### New section 111B
 
-7. The principal Act is amended by inserting after section 1 1 1A the following section: " Access to
+7. The principal Act is amended by inserting after section 1 1 1A the following section: "
 
-111B. (1) Any officer of customs exercising his powers recorded under sections 106A, 107, 108, 109 and 111 shall be informa- tion or given access to any recorded information or computerized compute- data, whether stored in a computer or otherwise. rized data.
+<!-- marginal: Access to -->
+
+111B. (1) Any officer of customs exercising his powers
+
+<!-- marginal: recorded -->
+
+under sections 106A, 107, 108, 109 and 111 shall be
+
+<!-- marginal: informa- -->
+
+<!-- marginal: tion or -->
+
+given access to any recorded information or computerized
+
+<!-- marginal: compute- -->
+
+data, whether stored in a computer or otherwise.
+
+<!-- marginal: rized data. -->
 
 <!-- page 5 -->
 
@@ -164,7 +186,17 @@ Customs (Amendment) 7
 
 ### New sections 116A, 116B, 116C and 116D
 
-11. The principal Act is amended by inserting after section 116 the following sections: " Power to 116A. (1) A senior officer of customs investigating an examine offence under this Act may— persons.
+11. The principal Act is amended by inserting after section 116 the following sections: "
+
+<!-- marginal: Power to -->
+
+116A. (1) A senior officer of customs investigating an
+
+<!-- marginal: examine -->
+
+offence under this Act may—
+
+<!-- marginal: persons. -->
 
 (a) order any person who appears to be acquainted with the facts and circumstances of the case to attend before him for the purpose of being examined orally in relation to any matter which may, in his opinion, assist in the investigation into the offence; or
 
@@ -198,7 +230,17 @@ or deface any entry in any such book or document, or cause such act to be done, 
 
 regardless whether such proceedings are against the person who was examined, or who produced the book, document or article, or against any other person.
 
-Admissibility 116B. (1) In any trial or inquiry by a court into an offence of statements under this Act, any statement, whether the statement in evidence. amounts to a confession or not or whether it is oral or in writing, made at any time, whether before or after the person is charged and whether in the course of an investigation under this Act or not, and whether or not wholly or partly in answer to questions, by an accused
+<!-- marginal: Admissibility -->
+
+116B. (1) In any trial or inquiry by a court into an offence
+
+<!-- marginal: of statements -->
+
+under this Act, any statement, whether the statement
+
+<!-- marginal: in evidence. -->
+
+amounts to a confession or not or whether it is oral or in writing, made at any time, whether before or after the person is charged and whether in the course of an investigation under this Act or not, and whether or not wholly or partly in answer to questions, by an accused
 
 <!-- page 9 -->
 
@@ -216,9 +258,33 @@ person to or in the hearing of any officer of customs, and whether or not interp
 
 <!-- page 10 -->
 
-Procedure
+<!-- marginal: Procedure -->
 
-116C. (1) Whenever any person is arrested and detained where in custody and it appears that the investigation cannot be investigation cannot be completed within a period of twenty-four hours and there completed within are grounds for believing that the accusation or information twenty-four is well founded, the senior officer of customs making the hours. investigation under this Act shall immediately transmit to a Magistrate a copy of the entries in the diary prescribed under section 116D relating to the case and shall at the same time produce such person before the Magistrate.
+116C. (1) Whenever any person is arrested and detained
+
+<!-- marginal: where -->
+
+in custody and it appears that the investigation cannot be
+
+<!-- marginal: investigation -->
+
+<!-- marginal: cannot be -->
+
+completed within a period of twenty-four hours and there
+
+<!-- marginal: completed -->
+
+<!-- marginal: within -->
+
+are grounds for believing that the accusation or information
+
+<!-- marginal: twenty-four -->
+
+is well founded, the senior officer of customs making the
+
+<!-- marginal: hours. -->
+
+investigation under this Act shall immediately transmit to a Magistrate a copy of the entries in the diary prescribed under section 116D relating to the case and shall at the same time produce such person before the Magistrate.
 
 (2) The Magistrate before whom a person is produced under this section may, whether he has or has not jurisdiction to try the case, from time to time, authorize the detention of such person in such custody as the Magistrate considers fit for a term not exceeding fifteen days in the whole.
 
@@ -226,9 +292,19 @@ Procedure
 
 (4) A Magistrate authorizing detention under this section shall record his reasons for so doing.
 
-Diary of
+<!-- marginal: Diary of -->
 
-116D. (1) Every officer of customs making an investigation proceedings under this Act shall day by day enter his proceedings in in investigation. the investigation in a diary setting forth—
+116D. (1) Every officer of customs making an investigation
+
+<!-- marginal: proceedings -->
+
+under this Act shall day by day enter his proceedings in
+
+<!-- marginal: in -->
+
+<!-- marginal: investigation. -->
+
+the investigation in a diary setting forth—
 
 (a) the time at which the order, if any, for investigation reached him;
 
@@ -240,7 +316,9 @@ Diary of
 
 <!-- page 11 -->
 
-Act 56 (2) Notwithstanding anything contained in the Evidence Act 1950, an accused person shall not be entitled, either before or in the course of any proceedings under this Act, to call for or inspect any such diary:
+<!-- marginal: Act 56 -->
+
+(2) Notwithstanding anything contained in the Evidence Act 1950, an accused person shall not be entitled, either before or in the course of any proceedings under this Act, to call for or inspect any such diary:
 
 Provided that if the officer of customs who has made the investigation refers to the diary for the purposes of section 159 or 160 of the Evidence Act 1950, such entries only as the officer has referred to shall be shown to the accused, and the court shall at the request of the officer cause any other entries to be concealed from view or obliterated.".
 
@@ -250,7 +328,31 @@ Provided that if the officer of customs who has made the investigation refers to
 
 ### Substitution of section 120
 
-13. The principal Act is amended by substituting for section 120 the following section: " Proportional 120. (1) When any goods suspected of being prohibited examination or uncustomed or otherwise liable to seizure have been of goods seized to seized, it shall be sufficient to open and examine five per be centum only of each description of the package or receptacle accepted by courts in which such goods are contained.
+13. The principal Act is amended by substituting for section 120 the following section: "
+
+<!-- marginal: Proportional -->
+
+120. (1) When any goods suspected of being prohibited
+
+<!-- marginal: examination -->
+
+or uncustomed or otherwise liable to seizure have been
+
+<!-- marginal: of goods -->
+
+<!-- marginal: seized to -->
+
+seized, it shall be sufficient to open and examine five per
+
+<!-- marginal: be -->
+
+centum only of each description of the package or receptacle
+
+<!-- marginal: accepted -->
+
+<!-- marginal: by courts -->
+
+in which such goods are contained.
 
 (2) If it is necessary to test any goods seized under this Act, it shall be sufficient to test only a sample not exceeding five per centum in volume or weight of the goods examined under subsection (1).
 
@@ -260,9 +362,19 @@ Provided that if the officer of customs who has made the investigation refers to
 
 ### New section 124A
 
-14. The principal Act is amended by inserting after section 124 the following section: the following section: " Obligation
+14. The principal Act is amended by inserting after section 124 the following section: the following section: "
 
-124A. (1) Except as provided under section 125, the name of and address of an informer and the substance of the secrecy. information received from an informer shall be kept secret and shall not be disclosed by any proper officer of customs or any person who in the ordinary course of his duties comes into possession of or has control of or access to such information to any person except the designated officer of customs authorized by the Director General.
+<!-- marginal: Obligation -->
+
+124A. (1) Except as provided under section 125, the name
+
+<!-- marginal: of -->
+
+and address of an informer and the substance of the
+
+<!-- marginal: secrecy. -->
+
+information received from an informer shall be kept secret and shall not be disclosed by any proper officer of customs or any person who in the ordinary course of his duties comes into possession of or has control of or access to such information to any person except the designated officer of customs authorized by the Director General.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding five years or to both.".
 
@@ -422,4 +534,4 @@ of statements in a trial or inquiry by a court into an offence under Act 235. Se
 
 This Bill will not involve the Government in any extra financial expenditure.
 
-[PN(U2)2215]
+<!-- marginal: [PN(U2)2215] -->

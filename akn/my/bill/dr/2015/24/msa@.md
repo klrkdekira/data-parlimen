@@ -8,19 +8,19 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## MAJLIS PROFESION KESIHATAN BERSEKUTU MALAYSIA
 
 3. Penubuhan Majlis 4. Fungsi Majlis 5. Keanggotaan Majlis 6. Penjalanan sementara fungsi Pengerusi 7. Setiausaha 8. Jawatankuasa
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PROFESION KESIHATAN BERSEKUTU
 
@@ -36,7 +36,7 @@
 
 <!-- page 2 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENDAFTARAN
 
@@ -62,7 +62,7 @@
 
 24. Perakuan amalan sementara
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PROSIDING TATATERTIB
 
@@ -80,7 +80,7 @@
 
 31. Kemasukan semula selepas rayuan
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## KESALAHAN-KESALAHAN
 
@@ -98,7 +98,7 @@
 
 37. Penalti am
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PENGUATKUASAAN
 
@@ -108,7 +108,7 @@
 
 40. Pemulaan pendakwaan
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 AM
 
@@ -124,9 +124,9 @@ AM
 
 46. Peruntukan peralihan
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
-J adual Kedua
+## J ADUAL KEDUA
 
 <!-- page 5 -->
 
@@ -136,7 +136,7 @@ Suatu Akta untuk mengadakan peruntukan bagi penubuhan Majlis Profesion Kesihatan
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -168,11 +168,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “Pendaftar” ertinya Pendaftar Majlis Profesion Kesihatan Bersekutu Malaysia yang disebut dalam seksyen 14;
 
-“pengamal berdaftar” ertinya seseorang pengamal kesihatan bersekutu yang didaftarkan di bawah seksyen 17 dan bagi maksud
-
-## Bahagian V dan Bahagian VI termasuk seorang bukan warganegara
-
-Malaysia yang disifatkan sebagai pengamal berdaftar di bawah subseksyen 24(10);
+“pengamal berdaftar” ertinya seseorang pengamal kesihatan bersekutu yang didaftarkan di bawah seksyen 17 dan bagi maksud Bahagian V dan Bahagian VI termasuk seorang bukan warganegara Malaysia yang disifatkan sebagai pengamal berdaftar di bawah subseksyen 24(10);
 
 “perakuan” ertinya perakuan pendaftaran, perakuan amalan dan perakuan amalan sementara;
 
@@ -184,7 +180,7 @@ Malaysia yang disifatkan sebagai pengamal berdaftar di bawah subseksyen 24(10);
 
 “Profesion Kesihatan Bersekutu” ertinya profesion dalam kesihatan bersekutu yang dinyatakan dalam Jadual Kedua dan apa-apa aktiviti yang berhubungan dengan kesihatan bersekutu yang ditetapkan melalui peraturan-peraturan di bawah seksyen 11.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## MAJLIS PROFESION KESIHATAN BERSEKUTU MALAYSIA
 
@@ -290,7 +286,7 @@ Malaysia yang disifatkan sebagai pengamal berdaftar di bawah subseksyen 24(10);
 
 (7) Majlis boleh, pada bila-bila masa, memberhentikan atau menukar keanggotaan sesuatu jawatankuasa.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PROFESION KESIHATAN BERSEKUTU
 
@@ -346,7 +342,7 @@ kesihatan bersekutu itu melalui peraturan-peraturan, mengikut mana-mana yang ber
 
 <!-- page 13 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENDAFTARAN
 
@@ -508,7 +504,7 @@ mana-mana alamat hendaklah diberitahu oleh pemegang perakuan amalan sementara da
 
 (10) Pemegang perakuan amalan sementara hendaklah, selagi perakuan itu terus berkuat kuasa dan tertakluk kepada syarat dan sekatan yang dinyatakan dalam perakuan itu, disifatkan sebagai seorang pengamal berdaftar bagi maksud Bahagian V dan Bahagian VI.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PROSIDING TATATERTIB
 
@@ -618,7 +614,7 @@ mana-mana alamat hendaklah diberitahu oleh pemegang perakuan amalan sementara da
 
 <!-- page 24 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## KESALAHAN-KESALAHAN
 
@@ -760,7 +756,7 @@ hendaklah juga bersalah melakukan kesalahan itu dan boleh, apabila disabitkan,�
 
 (ii) berkenaan dengan kesalahan kedua atau yang berterusan, didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PENGUATKUASAAN
 
@@ -780,7 +776,7 @@ hendaklah juga bersalah melakukan kesalahan itu dan boleh, apabila disabitkan,�
 
 40. Tiada pendakwaan boleh dimulakan bagi mana-mana kesalahan di bawah Akta ini tanpa sanksi secara bertulis daripada Pendakwa Raya.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 AM
 
@@ -860,7 +856,7 @@ dilanjutkan oleh Majlis, mengambil tindakan yang perlu untuk mematuhi terma dan 
 
 <!-- page 34 -->
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
 (Seksyen 5)
 
@@ -996,7 +992,7 @@ dilanjutkan oleh Majlis, mengambil tindakan yang perlu untuk mematuhi terma dan 
 
 (b) apa-apa peninggalan, kecacatan atau ketidakteraturan yang tidak menyentuh merit sesuatu kes.
 
-## Jadual Kedua
+## JADUAL KEDUA
 
 (Seksyen 9 dan 10)
 
@@ -1054,7 +1050,7 @@ dilanjutkan oleh Majlis, mengambil tindakan yang perlu untuk mematuhi terma dan 
 
 Akta Profesion Kesihatan Bersekutu 2015 (“Akta”) yang dicadangkan dalam Rang Undang-Undang ini bertujuan untuk menubuhkan Majlis Profesion Kesihatan Bersekutu Malaysia, mengadakan peruntukan bagi pendaftaran orang yang beramal sebagai pengamal kesihatan bersekutu dan orang yang menjalankan aktiviti yang berhubungan dengan kesihatan bersekutu, mengawal selia amalan Profesion Kesihatan Bersekutu, dan bagi perkara-perkara berkaitan.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I memperkatakan perkara permulaan.
 
@@ -1062,7 +1058,7 @@ Fasal 1 mengandungi tajuk ringkas Akta dan bertujuan untuk membenarkan Menteri u
 
 Fasal 2 mengandungi takrif perkataan dan ungkapan tertentu yang digunakan dalam Akta.
 
-## Bahagian II
+## BAHAGIAN II
 
 3. Bahagian II mengandungi peruntukan berhubung dengan penubuhan Majlis Profesion Kesihatan Bersekutu Malaysia.
 
@@ -1080,7 +1076,7 @@ Fasal 7 bertujuan untuk mengadakan peruntukan bagi Setiausaha Majlis.
 
 Fasal 8 memberikan kuasa kepada Majlis untuk menubuhkan jawatankuasa bagi membantu Majlis menjalankan fungsinya.
 
-## Bahagian III
+## BAHAGIAN III
 
 4. Bahagian III mengandungi peruntukan berhubung dengan Profesion Kesihatan Bersekutu yang Akta ini terpakai baginya.
 
@@ -1092,7 +1088,7 @@ Fasal 12 bertujuan untuk membenarkan mana-mana orang untuk menjadikan profesion 
 
 Fasal 13 mengadakan peruntukan bagi amalan profesion dalam kesihatan bersekutu atau aktiviti yang berhubungan dengan kesihatan bersekutu diteruskan sementara pendaftarannya sebagai Profesion Kesihatan Bersekutu yang Akta ini terpakai baginya ditentukan.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 5. Bahagian IV mengandungi peruntukan berhubung dengan pendaftaran pengamal kesihatan bersekutu.
 
@@ -1118,7 +1114,7 @@ Fasal 23 bertujuan untuk mengadakan peruntukan bagi pembaharuan perakuan amalan.
 
 Fasal 24 bertujuan untuk mengadakan peruntukan bagi perakuan amalan sementara kepada bukan warganegara Malaysia yang sedang mengamalkan Profesion Kesihatan Bersekutu di luar Malaysia tertakluk kepada syarat dan sekatan yang dinyatakan dalam perakuan itu.
 
-## Bahagian V
+## BAHAGIAN V
 
 6. Bahagian V memperkatakan perkara tatatertib.
 
@@ -1136,7 +1132,7 @@ Fasal 30 membenarkan rayuan dibuat kepada Menteri terhadap perintah tatatertib.
 
 Fasal 31 bertujuan untuk mengadakan peruntukan bagi kemasukan semula pengamal berdaftar selepas rayuan dibenarkan.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 7. Bahagian VI memperkatakan kesalahan.
 
@@ -1154,7 +1150,7 @@ Fasal 37 bertujuan untuk mengadakan peruntukan bagi penalti am.
 
 <!-- page 42 -->
 
-## Bahagian VII
+## BAHAGIAN VII
 
 8. Bahagian VII memperkatakan penguatkuasaan.
 
@@ -1164,7 +1160,7 @@ Fasal 39 bert ujuan untuk me nga d akan pe runtukan bag i k uasa penyiasatan.
 
 Fasal 40 memperuntukkan bahawa pendakwaan bagi suatu kesalahan di bawah Akta ini hendaklah dimulakan hanya dengan sanksi secara bertulis daripada Pendakwa Raya.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 9. Bahagian VIII memperkatakan peruntukan am.
 

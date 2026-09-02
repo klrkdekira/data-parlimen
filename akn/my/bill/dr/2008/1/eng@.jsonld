@@ -1,0 +1,392 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-1-2008",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_7"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Labuan Offshore Financial Services Authority (Amendment) Bill 2008"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Labuan Offshore Financial Services Authority Act 1996 [Act 545], which is referred to as the \"principal Act\" in this Act, is amended in section 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_2__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_2__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_2__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1) in the definition of \"offshore financial services\" —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_2__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by inserting after the words \"foreign offshore company\" the words \"incorporated or\"; 2 Bill"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_2__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by deleting the words \"domestic company or foreign\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_2__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (e) the following paragraph: \"(ea) an exchange established under the Labuan Offshore Securities Industry Act 1998 [Act 579];\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by deleting the words company\", \"foreign company\",'. Amendment of section 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 4(5) of the principal Act is amended —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by substituting for the full stop a semicolon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (c) the paragraph: \"(d) the action to be taken by the offshore financial institution relating to its members or servants.\". New section 17A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 17 the following section: \"Preservation of secrecy 17A. (1) No member, officer, servant, agent or consultant of the Authority or person who has by any means access to any record, book, register, correspondence, document, material or information, relating to the business and affairs of the Authority in the performance of his duties or the exercise of his functions, shall give, divulge, reveal, publish or otherwise disclose to any person such record, book, register, correspondence, document, material or information unless he is lawfully required to do so by any court or under any written law. Labuan Offshore Financial Services Authority (Amendment) (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding six months or to both.\". Amendment of section 28A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_5__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_5__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_5__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 2 8A of the principal Act is amended —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of \"domestic enforcement agency\" the following definition: ' \"domestic law enforcement agency\" includes a body or agency that is for the time being responsible in Malaysia for the enforcement of laws relating to the prevention, detection and investigation of any criminal offence;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of \"financial institution\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_5__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_5__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_5__para_c__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_5__para_c__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of \"criminal offence\" —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_5__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_5__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by deleting the words \", if such offence is punishable with imprisonment\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_5__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_5__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word \"or\" at the end of paragraph (d);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_5__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_5__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting the word \"or\" at the end of paragraph (e); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_5__para_c__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_5__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (e) the following paragraph: \"(f) any other written law in Malaysia that is punishable with imprisonment;\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_5__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of \"home monetary authority\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_5__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of \"home supervisory authority\" the following definition: ' \"home supervisory authority\" means any relevant authority or body in Malaysia or of any other country which exercises supervisory functions over the operations of offshore financial institutions;'. Bill Amendment of section 28B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_6__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_6__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 28B of the principal Act is amended —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: \"(1) The Authority may, in exercise of its supervisory functions under this Act or other law relating to offshore financial services, require any offshore financial institution or any corporation related to the offshore financial institution to submit to the Authority any information- (a) relating to the identity, affairs, account or particulars of any person who is a customer of the offshore financial institution or any corporation related to the offshore financial institution, or his nominee or beneficiary; (b) relating to the identity, affairs or particulars of a beneficial owner of an account opened with the offshore financial institution or any corporation related to the offshore financial institution, or relating to such account; or (c) which the Authority deems necessary or expedient for the performance of such supervisory functions.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (2)(b) the following paragraph: \"(b) to the home supervisory authority of the offshore financial institution, and the disclosure may include any information which relates to an individual offshore financial institution under the supervision of the home supervisory authority.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (3);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsections (4) and (5) the following subsections: \"(4) The Authority may inform the home supervisory authority of any adverse conditions in the offshore financial institution if the Authority is satisfied that Labuan Offshore Financial Services Authority (Amendment) such information is necessary for the supervisory functions of the home supervisory authority. (5) Notwithstanding subsection (2), if the Authority has reasonable suspicion or is satisfied, based on the evidence made available to the Authority, that fraud, a money laundering offence, a terrorism financing offence or any criminal offence has been or is likely to be committed by any offshore financial institution or any corporation related, to the offshore financial institution or any person, the Authority may give information of such commission or likelihood, or convey any or all information in relation to such commission or likelihood to the home supervisory authority or domestic law enforcement agency.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_6__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_6__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_6__para_e__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (6) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_6__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_6__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"(3),\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_6__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_6__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"subsections (1), (3) and (4)\" the words \"subsection (1)\". Amendment of section 28c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 2 8 c ( l) of the principal Act is amended —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting before the word \"financial\" whenever appearing the word \"offshore\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/1/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"subsections 28B(1), (3) and (4)\" the words \"subsection 28B(1)\"."
+      }
+    }
+  ]
+}

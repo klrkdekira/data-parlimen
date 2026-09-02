@@ -22,7 +22,31 @@
 
 ## PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967
 
-3. Mula berkuatkuasanya pindaan kepada Akta Cukai Pendapatan 1967. 4. Pindaan seksyen 3. 5. Pindaan seksyen 6A. 6. Pindaan seksyen 34B. 7. Pindaan seksyen 39. 8. Pindaan seksyen 44. 9. Pindaan seksyen 46. 10. Pindaan seksyen 47. 11. Pindaan seksyen 48. 12. Pindaan seksyen 60. 13. Seksyen baru 60AB, 14. Pindaan seksyen 60E. 15. Pindaan seksyen 65A. 16. Pindaan seksyen 108. 17. Pindaan seksyen 110. 18. Pindaan seksyen 154. 19. Pindaan Jadual 1. 20. Pindaan Jadual 3. 21. Pindaan Jadual 6.
+3. Mula berkuatkuasanya pindaan kepada Akta Cukai Pendapatan 1967. 4. Pindaan seksyen 3. 5. Pindaan seksyen 6A. 6. Pindaan seksyen 34B. 7. Pindaan seksyen 39. 8. Pindaan seksyen 44. 9. Pindaan seksyen 46.
+
+10. Pindaan seksyen 47.
+
+11. Pindaan seksyen 48.
+
+12. Pindaan seksyen 60.
+
+13. Seksyen baru 60AB,
+
+14. Pindaan seksyen 60E.
+
+15. Pindaan seksyen 65A.
+
+16. Pindaan seksyen 108.
+
+17. Pindaan seksyen 110.
+
+18. Pindaan seksyen 154.
+
+19. Pindaan Jadual 1.
+
+20. Pindaan Jadual 3.
+
+21. Pindaan Jadual 6.
 
 <!-- page 2 -->
 
@@ -32,13 +56,21 @@
 
 ## (CUKAI PENDAPATAN) 1967
 
-22. Mula berkuatkuasanya pindaan kepada Akta Petroleum (Cukai Pendapatan) 1967. 23. Pindaan seksyen 2. 24. Pindaan seksyen 16. 25. Pindaan seksyen 22.
+22. Mula berkuatkuasanya pindaan kepada Akta Petroleum (Cukai Pendapatan) 1967.
+
+23. Pindaan seksyen 2.
+
+24. Pindaan seksyen 16.
+
+25. Pindaan seksyen 22.
 
 ## BAB IV
 
 ## PINDAAN KEPADA AKTA SETEM 1949
 
-26. Mula berkuatkuasanya pindaan kepada Akta Setem.1949. 27. Pindaan seksyen 20e.
+26. Mula berkuatkuasanya pindaan kepada Akta Setem.1949.
+
+27. Pindaan seksyen 20e.
 
 ## BAB V
 
@@ -46,7 +78,21 @@
 
 ## PELABURAN 1986
 
-28. Mula berkuatkuasanya pindaan kepada Akta Penggalakan Pelaburan 1986. 29. Pindaan seksyen 2. 30. Pindaan seksyen 4B. 31. Seksyen baru 26G. 32. Seksyen baru 27G. 33. Pindaan seksyen 28. 34. Seksyen baru 29H. 35. Pindaan seksyen 37.
+28. Mula berkuatkuasanya pindaan kepada Akta Penggalakan Pelaburan 1986.
+
+29. Pindaan seksyen 2.
+
+30. Pindaan seksyen 4B.
+
+31. Seksyen baru 26G.
+
+32. Seksyen baru 27G.
+
+33. Pindaan seksyen 28.
+
+34. Seksyen baru 29H.
+
+35. Pindaan seksyen 37.
 
 <!-- page 3 -->
 
@@ -124,17 +170,35 @@ hendaklah berkuatkuasa bagi tahun taksiran 1994 dan tahun-tahun taksiran yang be
 
 (4) Perenggan I9(c) dan 19(e) hendaklah mula berkuatkuasa pada 28hb Oktober 1994.
 
-Pindaan 4. Akta Cukai Pendapatan 1967, yang disebut "Akta seksyen 3. ibu" dalam Bab ini, adalah dipinda dengan memasukkan Akta 53. selepas seksyen 3B seksyen yang berikut:
+<!-- marginal: Pindaan -->
+
+4. Akta Cukai Pendapatan 1967, yang disebut "Akta
+
+<!-- marginal: seksyen 3. -->
+
+ibu" dalam Bab ini, adalah dipinda dengan memasukkan
+
+<!-- marginal: Akta 53. -->
+
+selepas seksyen 3B seksyen yang berikut:
 
 Non- 3c. Notwithstanding section 3, tax shall not charge- be charged under this Act on income arising ability to from sources outside Malaysia and received in tax in respect of Malaysia by a resident company (other than a income company carrying on the business of banking, received in Malaysia insurance, shipping and air transport).". from oulside Malaysia.
 
-Pindaan 5. Subseksyen 6A(2) Akta ibu adalah dipinda— seksyen 6A.
+<!-- marginal: Pindaan -->
+
+5. Subseksyen 6A(2) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 6A. -->
 
 (a) dalam perenggan (a) dengan menggantikan perkataan "ninety" dengan perkataan "one hundred and ten"; dan
 
 (b) dalam perenggan (b) dengan menggantikan perkataan "fifty" dengan perkataan "sixty".
 
-Pindaan 6. Seksyen 34B Akta ibu adalah dipinda— seksyen 34B.
+<!-- marginal: Pindaan -->
+
+6. Seksyen 34B Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 34B. -->
 
 (a) dalam subseksyen (1)— (i) dengan menggantikan
 
@@ -150,17 +214,9 @@ Pindaan 6. Seksyen 34B Akta ibu adalah dipinda— seksyen 34B.
 
 (No. 2)
 
-development company or a contract research
+development company or a contract research and development company.";
 
-<!-- marginal: and -->
-
-development company.";
-
-(b) dengan menggantikan noktah di hujung subseksyen (2) dengan noktah bertindih dan memasukkan kemudian daripada itu proviso yang berikut: "Provided that no deduction
-
-<!-- marginal: in -->
-
-respect of that expenditure shall be made under this section to a person being a related company of a research and development company which has been given approval under section Act 327. 27D(l) of the Promotion of Investments Act 1986 and whose period as prescribed under section 29E(2)(b) of that Act has not ended."; dan
+(b) dengan menggantikan noktah di hujung subseksyen (2) dengan noktah bertindih dan memasukkan kemudian daripada itu proviso yang berikut: "Provided that no deduction in respect of that expenditure shall be made under this section to a person being a related company of a research and development company which has been given approval under section Act 327. 27D(l) of the Promotion of Investments Act 1986 and whose period as prescribed under section 29E(2)(b) of that Act has not ended."; dan
 
 (c) dengan menggantikan noktah di hujung perenggan (4)(b) dengan koma bernoktah dan memasukkan kemudian daripada itu perenggan yang berikut: "(c) a "contract research and development company", a "related company" and a "research and development company" have the meaning assigned thereto in section 2 of the Promotion of Investments Act 1986.".
 
@@ -174,15 +230,15 @@ dipinda—
 
 (a) dengan memotong perkataan "or" d; hujung subperenggan (iv); dan
 
-(b) dengan memasukkan selepas subperenggan (v) subperenggan yang berikut: "(vi) the provision of promotional gifts within Malaysia consisting of articles incorporating a
-
-<!-- marginal: conspicuous -->
-
-advertisement or logo of the business; or".
+(b) dengan memasukkan selepas subperenggan (v) subperenggan yang berikut: "(vi) the provision of promotional gifts within Malaysia consisting of articles incorporating a conspicuous advertisement or logo of the business; or".
 
 <!-- page 6 -->
 
-8. Seksyen 44 Akta ibu adalah dipinda— Pindaan seksyen 44.
+8. Seksyen 44 Akta ibu adalah dipinda—
+
+<!-- marginal: Pindaan -->
+
+<!-- marginal: seksyen 44. -->
 
 (a) dalam subseksyen (1)— (i) dengan memotong perkataan "and" di hujung perenggan (b); (ii) dengan menggantikan perenggan (c) dengan perenggan yang berikut: "(c) next, by any deduction falling to be so made pursuant to subsection (6); and"; dan
 
@@ -192,17 +248,9 @@ advertisement or logo of the business; or".
 
 (b) dalam proviso kepada subseksyen (6) dengan menggantikan perkataan "31st January 1994" dengan perkataan "30th June 1994";
 
-(c) dalam subseksyen (7), dalam
+(c) dalam subseksyen (7), dalam takrif "institution"— (i) dengan memotong perkataan "or" di hujung perenggan (d); (ii) dengan memasukkan perkataan "or" di hujung perenggan (e); dan (iii) dengan memasukkan selepas perenggan
 
-<!-- marginal: takrif -->
-
-"institution"— (i) dengan memotong perkataan "or" di hujung perenggan (d); (ii) dengan memasukkan perkataan "or" di hujung perenggan (e); dan (iii) dengan memasukkan selepas perenggan
-
-(e) perenggan yang berikut: "(f) a technical or vocational training institute established
-
-<!-- marginal: and -->
-
-maintained by a statutory body;"; dan
+(e) perenggan yang berikut: "(f) a technical or vocational training institute established and maintained by a statutory body;"; dan
 
 (d) dengan memasukkan selepas subseksyen (7) subseksyen yang berikut: "(8) There shall be deducted pursuant to this subsection from the aggregate income of a person to whom section 34(6)(g) does not apply, for the relevant year reduced by any deduction for that year pursuant to subsection
 
@@ -230,9 +278,7 @@ maintained by a statutory body;"; dan
 
 <!-- marginal: the -->
 
-Government undertaken
-
-<!-- marginal: for -->
+Government undertaken for
 
 <!-- marginal: the -->
 
@@ -256,23 +302,23 @@ purpose of acquiring technical, vocational or industrial skills.".
 
 (b) dalam subseksyen (3) dengan menggantikan perkataan "subsections (1) and (2)" dengan perkataan "subsections (l)(a) and (2)".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-11. Seksyen 48 Akta ibu adalah dipinda— seksyen 48.
+11. Seksyen 48 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 48. -->
 
 (a) dalam perenggan (2)(a) dengan memotong perkataan "for the first five children in order of age,"; dan
 
 (b) dengan memotong subseksyen (7).
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-12. Seksyen 60 Akta ibu adalah dipinda— seksyen 60.
+12. Seksyen 60 Akta ibu adalah dipinda—
 
-(a) dengan menggantikan noktah di hujung subperenggan ( 2 ) ( b ) ( i i) dengan
+<!-- marginal: seksyen 60. -->
 
-<!-- marginal: koma -->
-
-bernoktah dan memasukkan kemudian daripada itu perenggan yang berikut:
+(a) dengan menggantikan noktah di hujung subperenggan ( 2 ) ( b ) ( i i) dengan koma bernoktah dan memasukkan kemudian daripada itu perenggan yang berikut:
 
 "(c) where an insurer carries on
 
@@ -302,23 +348,9 @@ investments made out of any of the insurer's life funds; and
 
 (b) deducting from that aggregate where paragraph (a)(ii) is applicable for that period to gross proceeds receivable in connection with any investments or rights, the cost of acquiring and realising those investments or rights.
 
-(3A) The adjusted income
+(3A) The adjusted income of the shareholders' fund for the basis period for a year of assessment of an insurer resident for the basis year for that year of assessment shall be ascertained by—
 
-<!-- marginal: of -->
-
-<!-- marginal: the -->
-
-shareholders' fund for the basis period for a year of assessment of an insurer resident for the basis year for that year of assessment shall be ascertained by—
-
-(a) taking the aggregate of— (i) the amount of gross income for that period from
-
-<!-- marginal: the -->
-
-investments made out of any of the shareholders' funds; and (ii) the amount of any gross proceeds (whether or not of an income nature) which are not gross income to which subparagraph (i) applies and which are first receivable in that period in connection with the realisation of those investments or any rights arising from them; and (iii) the amount of the actuarial surplus (subject
-
-<!-- marginal: to any -->
-
-adjustment as the Director
+(a) taking the aggregate of— (i) the amount of gross income for that period from the investments made out of any of the shareholders' funds; and (ii) the amount of any gross proceeds (whether or not of an income nature) which are not gross income to which subparagraph (i) applies and which are first receivable in that period in connection with the realisation of those investments or any rights arising from them; and (iii) the amount of the actuarial surplus (subject to any adjustment as the Director
 
 <!-- page 10 -->
 
@@ -330,15 +362,7 @@ General may think fit to make in accordance with the provisions of this Act) for
 
 "(4) The adjusted income of the life fund of an- insurer not resident for the basis year for that year of assessment shall where that business is wholly or partly carried on in Malaysia be ascertained by^^-
 
-(a) taking the aggregate of— (i) the amount of gross income for that period
-
-<!-- marginal: from -->
-
-investments made
-
-<!-- marginal: (in -->
-
-Malaysia or elsewhere) out of the insurer's Malaysian life fund; and (ii) the amount of any gross proceeds (whether or not of an income nature) which are not gross income to which subparagraph (i) applies and which are first receivable in that period in connection with the realisation of those investments or any rights arising from them; and
+(a) taking the aggregate of— (i) the amount of gross income for that period from investments made (in Malaysia or elsewhere) out of the insurer's Malaysian life fund; and (ii) the amount of any gross proceeds (whether or not of an income nature) which are not gross income to which subparagraph (i) applies and which are first receivable in that period in connection with the realisation of those investments or any rights arising from them; and
 
 (b) deducting from that aggregate where paragraph (a)(ii) is applicable for that period to gross proceeds receivable in
 
@@ -350,19 +374,9 @@ Malaysia or elsewhere) out of the insurer's Malaysian life fund; and (ii) the am
 
 connection with any investments or rights, the cost of acquiring and realising those investments or rights.
 
-(4A) The adjusted income
+(4A) The adjusted income of the shareholders' fund for the basis period for a year of assessment of an insurer not resident for the basis year for that year of assessment shall, where that business is wholly or partly carried on in Malaysia, be ascertained by—
 
-<!-- marginal: of -->
-
-<!-- marginal: the -->
-
-shareholders' fund for the basis period for a year of assessment of an insurer not resident for the basis year for that year of assessment shall, where that business is wholly or partly carried on in Malaysia, be ascertained by—
-
-(a) taking the aggregate of— (i) the amount of gross income for that period from the investments made out of any of the shareholders' funds; and (ii) the amount of any gross proceeds (whether or not of an income nature) which are not gross income to which subparagraph (i) applies and which are first receivable in that period in connection with the realisation of those investments or any rights arising from them; and (iii) the amount of the actuarial surplus (subject
-
-<!-- marginal: to any -->
-
-adjustment as the Director General may think fit to make in accordance with the provisions of this Act) for that period arising from the life fund as is apportioned to the shareholders' fund; and
+(a) taking the aggregate of— (i) the amount of gross income for that period from the investments made out of any of the shareholders' funds; and (ii) the amount of any gross proceeds (whether or not of an income nature) which are not gross income to which subparagraph (i) applies and which are first receivable in that period in connection with the realisation of those investments or any rights arising from them; and (iii) the amount of the actuarial surplus (subject to any adjustment as the Director General may think fit to make in accordance with the provisions of this Act) for that period arising from the life fund as is apportioned to the shareholders' fund; and
 
 (b) deducting from that aggregate where paragraph (a)(ii) is applicable for that period to gross proceeds receivable rn connection with any investments or rights, the cost of acquiring and realising those investments or rights.
 
@@ -370,25 +384,17 @@ adjustment as the Director General may think fit to make in accordance with the 
 
 (4s) The adjusted income as ascertained under subsections (3A) and (4A) shall be deemed to be the statutory income from that source.";
 
-(d) dalam subseksyen (5)— (i) dalam subperenggan
+(d) dalam subseksyen (5)—
 
-<!-- marginal: ( a ) ( i v) dengan -->
+(i) dalam subperenggan ( a ) ( i v) dengan memasukkan selepas perkataan "recovered" perkataan "or recoverable"; dan
 
-memasukkan selepas
+(ii) dalam perenggan (b) dengan meng- gantikan subperenggan (i) dengan sub- perenggan yang berikut: "(i) claims incurred in that period in connection with his general policies;";
 
-<!-- marginal: perkataan -->
+(e) dalam subseksyen (6)—
 
-"recovered" perkataan "or recoverable"; dan (ii) dalam perenggan (b) dengan meng- gantikan subperenggan (i) dengan sub- perenggan yang berikut: "(i) claims incurred in that period in connection with his general policies;";
+(i) dalam subperenggan ( a ) ( i v) dengan memasukkan selepas perkataan "recovered" perkataan "or recoverable"; dan
 
-(e) dalam subseksyen (6)— (i) dalam subperenggan
-
-<!-- marginal: ( a ) ( i v) dengan -->
-
-memasukkan selepas
-
-<!-- marginal: perkataan -->
-
-"recovered" perkataan "or recoverable"; dan (ii) dalam perenggan (b) dengan meng- gantikan subperenggan (i) dengan sub- perenggan yang berikut: "(i) claims incurred in that period in connection with his Malaysian general policies;"; dan
+(ii) dalam perenggan (b) dengan meng- gantikan subperenggan (i) dengan sub- perenggan yang berikut: "(i) claims incurred in that period in connection with his Malaysian general policies;"; dan
 
 (f) dengan memasukkan selepas subseksyen (10) subseksyen yang berikut: "(10A) Notwithstanding section 43(2) and section 60(10), any unabsorbed losses of the life business shall only be available for deduction against the statutory income for the basis period for a year of assessment and subsequent years of assessment in respect of the life fund of the insurer.
 
@@ -412,7 +418,23 @@ deduction against the adjusted income for the basis period for a year of assessm
 
 selepas seksyen 60AA seksyen yang berikut:
 
-Chargeable 60AB. The chargeable income in respect of income of the life fund as determined under sections life fund 60(3) and 60(4) is subject to tax as specified subject to tax. under Part VIII of Schedule 1.".
+<!-- marginal: Chargeable -->
+
+60AB. The chargeable income in respect of
+
+<!-- marginal: income of -->
+
+the life fund as determined under sections
+
+<!-- marginal: life fund -->
+
+60(3) and 60(4) is subject to tax as specified
+
+<!-- marginal: subject to -->
+
+<!-- marginal: tax. -->
+
+under Part VIII of Schedule 1.".
 
 <!-- marginal: Pindaan -->
 
@@ -422,45 +444,35 @@ Chargeable 60AB. The chargeable income in respect of income of the life fund as 
 
 (a) dengan memotong subseksyen (5);
 
-(b) dalam subseksyen (6) dengan memotong perkataan "or income exempt under subsection (5)"; dan
+(b) dalam subseksyen (6) dengan memotong perkataan "or income exempt under subsection
+
+(5)"; dan
 
 (c) dalam subseksyen (7)— (i) dengan menggantikan takrif "approved operational headquarters company" dengan takrif yang berikut; "apprcwed operational headquarters company" means a company—
 
-(a) which carries on a business in Malaysia of
+(a) which carries on a business in Malaysia of providing qualifying services to its offices outside Malaysia or to its related companies outside Malaysia; and
 
-<!-- marginal: providing -->
-
-qualifying services
-
-<!-- marginal: to -->
-
-<!-- marginal: its -->
-
-offices outside Malaysia or to its related companies outside Malaysia; and
-
-(b) which is approved by
-
-<!-- marginal: the -->
-
-Minister for the purposes of this section;
+(b) which is approved by the Minister for the purposes of this section;
 
 <!-- page 14 -->
 
 (ii) dengan memotong takrif "foreign company"; dan
 
-(iii) dalam subperenggan ( a ) ( i i i)
+(iii) dalam subperenggan ( a ) ( i i i) takrif "qualifying services" dengan meng- gantikan perkataan "and components" dengan perkataan ", components and finished products".
 
-<!-- marginal: takrif -->
+<!-- marginal: Pindaan -->
 
-"qualifying services" dengan meng- gantikan perkataan "and components" dengan perkataan ", components and finished products".
+15. Perenggan 65A(b) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 65A. -->
 
-15. Perenggan 65A(b) Akta ibu adalah dipinda dengan seksyen 65A. menggantikan perkataan "six" dengan perkataan "eight".
+menggantikan perkataan "six" dengan perkataan "eight".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-16. Seksyen 108 Akta ibu adalah dipinda— seksyen 108.
+16. Seksyen 108 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 108. -->
 
 (a) dengan memasukkan selepas subseksyen (2c) subseksyen yang berikut:
 
@@ -480,9 +492,7 @@ and a sum equal to the difference between that gross amount and the amount menti
 
 (b) dengan memasukkan selepas subseksyen (4c) subseksyen yang berikut: "(4D) In any case where tax has been deducted or deemed to have been deducted at the rate of thirty-two per cent on any dividend paid, credited or distributed during the basis year for the year of assessment 1995 to which subsection (2D) applies, the compared total shall be determined at the rate of thirty per cent."; dan
 
-(c) dalam subseksyen (11)— (i) dengan menggantikan noktah di hujung subperenggan (b)(ii) dengan tanda baca dan perkataan "; or"; dan (ii) dengan memasukkan
-
-<!-- marginal: selepas -->
+(c) dalam subseksyen (11)— (i) dengan menggantikan noktah di hujung subperenggan (b)(ii) dengan tanda baca dan perkataan "; or"; dan (ii) dengan memasukkan selepas
 
 <!-- marginal: sub- -->
 
@@ -512,69 +522,19 @@ memasukkan selepas perenggan (e) perenggan yang berikut: "(ea) prescribing penal
 
 <!-- page 16 -->
 
-Pindaan 19. Jadual 1 kepada Akta ibu adalah dipinda—
+<!-- marginal: Pindaan -->
+
+19. Jadual 1 kepada Akta ibu adalah dipinda—
 
 ## Jadual 1.
 
-(a) dalam perenggan 1 Bahagian I dengan menggantikan kadar-kadar dengan kadar-kadar yang berikut: Chargeable Income RM
-
-<!-- marginal: Rate of -->
-
-<!-- marginal: Income Tax -->
-
-For every ringgit of the first 2,500
-
-<!-- marginal: 0 per cent -->
-
-For every ringgit of the next 2,500
-
-<!-- marginal: 3 per cent -->
-
-For every ringgit of the next 5,000
-
-<!-- marginal: 6 per cent -->
-
-For every ringgit of the next 10,000
-
-<!-- marginal: 7 per cent -->
-
-For every ringgit of the next 15,000
-
-<!-- marginal: 12 per cent -->
-
-For every ringgit of the next 15,000
-
-<!-- marginal: 18 per cent -->
-
-For every ringgit of the next 20,000
-
-<!-- marginal: 23 per cent -->
-
-For every ringgit of the next 30,000
-
-<!-- marginal: 28 per cent -->
-
-For every ringgit of the next 50,000
-
-<!-- marginal: 31 per cent -->
-
-For every ringgit exceeding 150,000
-
-<!-- marginal: 32 per cent"; -->
+(a) dalam perenggan 1 Bahagian I dengan menggantikan kadar-kadar dengan kadar-kadar yang berikut: Chargeable Income RM Rate of Income Tax For every ringgit of the first 2,500 0 per cent For every ringgit of the next 2,500 3 per cent For every ringgit of the next 5,000 6 per cent For every ringgit of the next 10,000 7 per cent For every ringgit of the next 15,000 12 per cent For every ringgit of the next 15,000 18 per cent For every ringgit of the next 20,000 23 per cent For every ringgit of the next 30,000 28 per cent For every ringgit of the next 50,000 31 per cent For every ringgit exceeding 150,000 32 per cent";
 
 (b) dalam perenggan 2 Bahagian I dengan menggantikan perkataan "32 per cent" dengan perkataan "30 per cent";
 
 (c) dalam perenggan 1 dan 2 Bahagian II dengan menggantikan perkataan "20% of gross" dan "15% of gross" yang terdapat di bawah ruang "Rate of income tax" masing-masingnya dengan perkataan "15% of gross" dan "10% of gross";
 
-(d) dalam Bahagian IV dengan menggantikan kadar-kadar dengan kadar-kadar yang berikut: Chargeable Income RM
-
-<!-- marginal: Rate of -->
-
-<!-- marginal: Income Tax -->
-
-For every ringgit of the first 10,000
-
-<!-- marginal: 1 per cent -->
+(d) dalam Bahagian IV dengan menggantikan kadar-kadar dengan kadar-kadar yang berikut: Chargeable Income RM Rate of Income Tax For every ringgit of the first 10,000 1 per cent
 
 <!-- page 17 -->
 
@@ -582,51 +542,7 @@ For every ringgit of the first 10,000
 
 (No. 2)
 
-Chargeable Income RM
-
-<!-- marginal: Rate of -->
-
-<!-- marginal: Income Tax -->
-
-For every ringgit of the next 10,000
-
-<!-- marginal: 3 per cent -->
-
-For every ringgit of the next 10,000
-
-<!-- marginal: 6 per cent -->
-
-For every ringgit of the next 10,000
-
-<!-- marginal: 9 per cent -->
-
-For every ringgit of the next 10,000
-
-<!-- marginal: 12 per cent -->
-
-For every ringgit of the next 25,000
-
-<!-- marginal: 16 per cent -->
-
-For every ringgit of the next 25,000
-
-<!-- marginal: 20 per cent -->
-
-For every ringgit of the next 50,000
-
-<!-- marginal: 24 per cent -->
-
-For every ringgit of the next 100,000
-
-<!-- marginal: 27 per cent -->
-
-For every ringgit of the next 250,000
-
-<!-- marginal: 30 per cent -->
-
-For every ringgit exceeding 500,000
-
-<!-- marginal: 32 per cent"; -->
+Chargeable Income RM Rate of Income Tax For every ringgit of the next 10,000 3 per cent For every ringgit of the next 10,000 6 per cent For every ringgit of the next 10,000 9 per cent For every ringgit of the next 10,000 12 per cent For every ringgit of the next 25,000 16 per cent For every ringgit of the next 25,000 20 per cent For every ringgit of the next 50,000 24 per cent For every ringgit of the next 100,000 27 per cent For every ringgit of the next 250,000 30 per cent For every ringgit exceeding 500,000 32 per cent";
 
 (e) dalam Bahagian V dengan menggantikan perkataan "15% of gross" dengan perkataan "10% of gross"; dan
 
@@ -644,11 +560,7 @@ Notwithstanding Part I and Part II, income tax shall be charged on the chargeabl
 
 ## Jadual 3.
 
-(a) dalam perenggan 37B— (i) dengan menggantikan subperenggan (c) dengan subperenggan yang berikut: "(c) industrial, technical
-
-<!-- marginal: or -->
-
-yocational training approved by the Minister;";
+(a) dalam perenggan 37B— (i) dengan menggantikan subperenggan (c) dengan subperenggan yang berikut: "(c) industrial, technical or yocational training approved by the Minister;";
 
 <!-- page 18 -->
 
@@ -658,7 +570,9 @@ yocational training approved by the Minister;";
 
 "(e) research undertaken by a research and development company or a contract research and development company as defined in section 2 of the Aa 327 Promotion of Investments Act 1986,"; dan
 
-(b) dalam perenggan 62 dengan memasukkan selepas subperenggan (3) subperenggan yang berikut:
+(b) dalam perenggan 62 dengan memasukkan selepas subperenggan (3) subperenggan yang
+
+<!-- marginal: berikut: -->
 
 "(4) Notwithstanding paragraph 62(1) where an asset in relation to which the person has incurred qualifying plant expenditure for the purposes of a business of his is disposed of by way of gift, its disposal value shall be deemed to be zero if the gift is made to—
 
@@ -668,15 +582,19 @@ yocational training approved by the Minister;";
 
 (c) an approved research institute as defined in section 34B.".
 
-Pmdaan
+<!-- marginal: Pmdaan -->
 
 21. Jadual 6 kepada Akta ibu adalah dipinda dengan
 
 ## Jadual 6.
 
-memasukkan selepas perenggan 35 perenggan yang berikut:
+memasukkan selepas perenggan 35 perenggan yang
 
-"36. Sums received by way of annuities granted under annuity contracts issued by Malaysian life insurers.".
+<!-- marginal: berikut: -->
+
+"36. Sums received by way of annuities granted under annuity contracts issued by Malaysian life
+
+<!-- marginal: insurers.". -->
 
 <!-- page 19 -->
 
@@ -762,7 +680,17 @@ Januari 1995.
 
 <!-- page 20 -->
 
-Pindaan 27. Akta Setem 1949 adalah dipinda dengan seksyen 20B. menggantikan seksyen 20B dengan seksyen yang Akta 378. berikut:
+<!-- marginal: Pindaan -->
+
+27. Akta Setem 1949 adalah dipinda dengan
+
+<!-- marginal: seksyen 20B. -->
+
+menggantikan seksyen 20B dengan seksyen yang
+
+<!-- marginal: Akta 378. -->
+
+berikut:
 
 "20B. (1) Every conveyance either on sale or by way of gift or settlement which operates to vest or transfer an undivided interest in real property, shall contain an affidavit of the transferee certifying that the transaction effected by the instrument does not form part of a larger transaction or series of transactions completed or to be completed within a period of twelve months after the date of the first of the instruments employed to complete the conveyance of the property.
 
@@ -774,13 +702,39 @@ Pindaan 27. Akta Setem 1949 adalah dipinda dengan seksyen 20B. menggantikan seks
 
 ## PELABURAN 1986
 
-Mula berkuat- 28. Bab ini hendaklah mula berkuatkuasa pada 28hb kuasanya Oktober 1994 dan hendaklah berkuatkuasa bagi tahun pindaan taksiran 1995 dan tahun-tahun
+<!-- marginal: Mula berkuat- -->
 
-<!-- marginal: taksiran yang -->
+28. Bab ini hendaklah mula berkuatkuasa pada 28hb
 
-kepada Akta Penggalakan berikutnya. Pelaburan
+<!-- marginal: kuasanya -->
 
-1986. Pindaan 29. Akta Penggalakan Pelaburan 1986, yang disebut seksyen 2. "Akta ibu" dalam Bab ini, adalah dipinda dalam Akta 327 subseksyen 2(1)—
+Oktober 1994 dan hendaklah berkuatkuasa bagi tahun
+
+<!-- marginal: pindaan -->
+
+taksiran 1995 dan tahun-tahun taksiran yang
+
+<!-- marginal: kepada Akta -->
+
+<!-- marginal: Penggalakan -->
+
+berikutnya.
+
+<!-- marginal: Pelaburan -->
+
+1986.
+
+<!-- marginal: Pindaan -->
+
+29. Akta Penggalakan Pelaburan 1986, yang disebut
+
+<!-- marginal: seksyen 2. -->
+
+"Akta ibu" dalam Bab ini, adalah dipinda dalam
+
+<!-- marginal: Akta 327 -->
+
+subseksyen 2(1)—
 
 (a) dengan menggantikan perkataan "Perbadanan Kemajuan Pelancongan Malaysia" yang terdapat dalam takrif "hotel" dan "projek pelancongan" dengan perkataan "Kementerian Kebudayaan, Kesenian dan Pelancongan"; dan
 
@@ -826,21 +780,67 @@ kelulusan itu boleh diberikan dengan kuatkuasa kebelakangan dari suatu tarikh ya
 
 (3) Pada menjalankan kuasanya di bawah subseksyen (1) dan (2), Menteri hendaklah bertindak dengan persetujuan bertulis Menteri Kewangan.".
 
-Pindaan 33. Seksyen 28 Akta ibu adalah dipinda— seksyen 28
+<!-- marginal: Pindaan -->
+
+33. Seksyen 28 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 28 -->
 
 (a) dalam subseksyen (1)— (i) dengan menggantikan perkataan "atau 27F" dengan perkataan ", 27F atau 27G"; dan (ii) dengan memasukkan selepas perkataan "27F(2)" perkataan ",27G(l), 27G(2)"; dan
 
 (b) dalam subseksyen (2)— (i) dengan menggantikan perkataan "atau 27F(l)" dengan perkataan ", 27F(l) atau 27G(l)"; dan (ii) dalam perenggan (b) dengan memasuk- kan selepas perkataan "27F(2)" per- kataan ", 27G(l), 27G(2)".
 
-Seksyen baru 34. Akta ibu adalah dipinda dengan memasukkan
+<!-- marginal: Seksyen baru -->
 
-29H. selepas seksyen 29c seksyen yang berikut: Elaun 29H. (1) Jika sesuatu
+34. Akta ibu adalah dipinda dengan memasukkan
 
-<!-- marginal: syarikat -->
+29H. selepas seksyen 29c seksyen yang berikut:
 
-<!-- marginal: latihan -->
+<!-- marginal: Elaun -->
 
-cukai teknikal atau vokasional yang telah diberikan pelaburan bagi kelulusan di bawah seksyen 27o telah melaku- permohonan kan dalam tempoh asas bagi tahun taksiran di bawah berkenaan dengan suatu aktiviti berhubungan 26G yang dengan latihan teknikal atau vokasional telah perbelanjaan modal bagi maksud-maksud diberikan kelulusan aktiviti itu, maka hendaklah diberikan kepada di bawah syarikat itu bagi tahun taksiran itu elaun cukai 27G. pelaburan sebanyak seratus peratus daripada perbelanjaan itu.
+29H. (1) Jika sesuatu syarikat latihan
+
+<!-- marginal: cukai -->
+
+teknikal atau vokasional yang telah diberikan
+
+<!-- marginal: pelaburan -->
+
+<!-- marginal: bagi -->
+
+kelulusan di bawah seksyen 27o telah melaku-
+
+<!-- marginal: permohonan -->
+
+kan dalam tempoh asas bagi tahun taksiran
+
+<!-- marginal: di bawah -->
+
+berkenaan dengan suatu aktiviti berhubungan
+
+<!-- marginal: seksyen -->
+
+<!-- marginal: 26G yang -->
+
+dengan latihan teknikal atau vokasional
+
+<!-- marginal: telah -->
+
+perbelanjaan modal bagi maksud-maksud
+
+<!-- marginal: diberikan -->
+
+<!-- marginal: kelulusan -->
+
+aktiviti itu, maka hendaklah diberikan kepada
+
+<!-- marginal: di bawah -->
+
+syarikat itu bagi tahun taksiran itu elaun cukai
+
+<!-- marginal: seksyen -->
+
+27G. pelaburan sebanyak seratus peratus daripada perbelanjaan itu.
 
 <!-- page 23 -->
 
@@ -850,17 +850,7 @@ cukai teknikal atau vokasional yang telah diberikan pelaburan bagi kelulusan di 
 
 (2) Elaun bagi perbelanjaan yang diberikan di bawah subseksyen (1)—
 
-(a) tertakluk kepada subseksyen
-
-<!-- marginal: (4), -->
-
-hendaklah diberikan hanya bagi tahun taksiran dalam tempoh asas yang baginya perbelanjaan
-
-<!-- marginal: itu -->
-
-<!-- marginal: telah -->
-
-dilakukan;
+(a) tertakluk kepada subseksyen (4), hendaklah diberikan hanya bagi tahun taksiran dalam tempoh asas yang baginya perbelanjaan itu telah dilakukan;
 
 (b) hendaklah diberikan berkenaan dengan perbelanjaan yang dilakukan dalam tempoh sepuluh tahun dari tarikh yang kelulusan itu akan mula berkuatkuasa:
 
@@ -872,23 +862,11 @@ Dengan syarat bahawa amaun yang dikecualikan sedemikian tidak boleh melebihi tuj
 
 <!-- page 24 -->
 
-(4) Jika, oleh sebab tidak cukup atau tidak ada pendapatan statutori perniagaan syarikat itu berkenaan dengan suatu aktiviti ber- hubungan dengan latihan
+(4) Jika, oleh sebab tidak cukup atau tidak ada pendapatan statutori perniagaan syarikat itu berkenaan dengan suatu aktiviti ber- hubungan dengan latihan teknikal atau vokasional bagi suatu tahun taksiran, pelaksanaan tidak boleh dijalankan atau tidak boleh dijalankan sepenuhnya berkenaan dengan apa-apa elaun atau elaun-elaun yang syarikat itu berhak mendapatnya di bawah seksyen ini bagi tahun itu berhubungan dengan sumber yang terdiri daripada perniagaan itu, maka, walau apa pun subseksyen (1), (2) dan
 
-<!-- marginal: teknikal atau -->
+(3), sekian banyak daripada elaun atau elaun- elaun yang berkenaan yang tidak boleh diberikan bagi tahun itu hendaklah disifatkan sebagai elaun yang akan diberikan kepada syarikat itu di bawah seksyen ini bagi tahun taksiran pertama yang kemudiannya yang baginya terdapat pendapatan statutori daripada perniagaan itu, dan seterusnya bagi tahun- tahun taksiran yang kemudiannya sehinggalah syarikat itu telah menerima keseluruhan elaun atau elaun-elaun yang ia berhak mendapatnya sedemikian itu.
 
-vokasional bagi suatu
-
-<!-- marginal: tahun -->
-
-<!-- marginal: taksiran, -->
-
-pelaksanaan tidak boleh dijalankan atau tidak boleh dijalankan sepenuhnya berkenaan dengan apa-apa elaun atau elaun-elaun yang syarikat itu berhak mendapatnya di bawah seksyen ini bagi tahun itu berhubungan dengan sumber yang terdiri daripada perniagaan itu, maka, walau apa pun subseksyen (1), (2) dan (3), sekian banyak daripada elaun atau elaun- elaun yang berkenaan yang tidak boleh diberikan bagi tahun itu hendaklah disifatkan sebagai elaun yang akan diberikan kepada syarikat itu di bawah seksyen ini bagi tahun taksiran pertama yang kemudiannya yang baginya terdapat pendapatan statutori daripada perniagaan itu, dan seterusnya bagi tahun- tahun taksiran yang kemudiannya sehinggalah syarikat itu telah menerima keseluruhan elaun atau elaun-elaun yang ia berhak mendapatnya sedemikian itu.
-
-(5) Jika apa-apa pendapatan dikecualikan daripada cukai menurut kuasa subseksyen (3), seksyen 23 hendaklah
-
-<!-- marginal: terpakai bagi -->
-
-pendapatan itu (dengan apa-apa ubahsuaian yang perlu) sebagaimana yang ia terpakai bagi pendapatan yang dikecualikan di bawah seksyen 22.
+(5) Jika apa-apa pendapatan dikecualikan daripada cukai menurut kuasa subseksyen (3), seksyen 23 hendaklah terpakai bagi pendapatan itu (dengan apa-apa ubahsuaian yang perlu) sebagaimana yang ia terpakai bagi pendapatan yang dikecualikan di bawah seksyen 22.
 
 (6) Bagi maksud-maksud seksyen ini dan tertakluk kepada subseksyen (7), "perbelanjaan modal", berhubungan dengan latihan teknikal atau vokasional, ertinya perbelanjaan modal yang dilakukan ke atas bangunan atau ke atas apa-apa loji dan jentera yang digunakan di Malaysia berkaitan dengan dan bagi maksud- maksud aktiviti berhubungan dengan latihan.
 
@@ -924,7 +902,9 @@ Rang Undang-Undang ini bertujuan meminda Akta Cukai Pendapatan 1967, Akta Petrol
 
 <!-- page 26 -->
 
-mengelakkan syarikat berkaitan suatu syarikat penyelidikan dan kemajuan yang telah diberikan insentif di bawah Akta Penggalakan Pelaburan 1986 daripada layak bagi potongan khas berkenaan dengan perbelanjaan yang dilakukan bagi penggunaan perkhidmatan yang diadakan oleh syarikat penyelidikan dan kemajuan itu. Pindaan ini berkuatkuasa mulai dari tahun taksiran 1994.
+mengelakkan syarikat berkaitan suatu syarikat penyelidikan dan kemajuan yang telah diberikan insentif di bawah Akta Penggalakan Pelaburan 1986 daripada layak bagi potongan khas berkenaan dengan perbelanjaan yang dilakukan bagi penggunaan perkhidmatan yang diadakan oleh syarikat penyelidikan dan kemajuan itu. Pindaan ini berkuatkuasa mulai dari tahun taksiran
+
+1994.
 
 5. Fasal 7 bertujuan meminda proviso kepada perenggan 39(1)(l,). Dengan pindaan ini potongan berkenaan dengan perbelanjaan bagi keraian untuk mengadakan hadiah promosi yang dahulunya terhad kepada hadiah promosi yang diberikan di pameran perdagangan di luar Malaysia akan dibenarkan sepenuhnya tanpa mengira sama ada ia diberikan di dalam atau di luar Malaysia. Fasal ini bertujuan selanjutnya untuk menjelaskan bahawa potongan yang dibenarkan berkenaan dengan hadiah promosi hendaklah dihadkan kepada barang yang mempunyai iklan atau logo perniagaan yang mudah dilihat. Pindaan ini berkuatkuasa mulai dari tahun taksiran 1995.
 
@@ -976,11 +956,7 @@ memperuntukkan bahawa cukai yang boleh dipotong daripada dividen dalam tahun 199
 
 (No. 2)
 
-yang terpakai bagi orang bukan pemastautin dalam Bahagian II Jadual 1. Kadar-kadar sedia ada bagi koperasi yang terletak dalam julat 2 hingga 34 peratus telah dipinda kepada julat 1 hingga 32 peratus dalam Bahagian IV Jadual 1. Bahagian baru VIII dimasukkan ke dalam Jadual 1 untuk mencukai pendapatan yang boleh dicukai kumpulan wang nyawa penanggung insurans pada kadar konsesi 8 peratus. Kecuali kadar-kadar menahan cukai yang terpakai bagi orang bukan pemastautin dalam Bahagian II dan
-
-## Bahagian V yang berkuatkuasa mulai dari 28hb Oktober 1994,
-
-pindaan ini berkuatkuasa mulai dari tahun taksiran 1995.
+yang terpakai bagi orang bukan pemastautin dalam Bahagian II Jadual 1. Kadar-kadar sedia ada bagi koperasi yang terletak dalam julat 2 hingga 34 peratus telah dipinda kepada julat 1 hingga 32 peratus dalam Bahagian IV Jadual 1. Bahagian baru VIII dimasukkan ke dalam Jadual 1 untuk mencukai pendapatan yang boleh dicukai kumpulan wang nyawa penanggung insurans pada kadar konsesi 8 peratus. Kecuali kadar-kadar menahan cukai yang terpakai bagi orang bukan pemastautin dalam Bahagian II dan Bahagian V yang berkuatkuasa mulai dari 28hb Oktober 1994, pindaan ini berkuatkuasa mulai dari tahun taksiran 1995.
 
 18. Fasal 20 bertujuan meminda perenggan 37B Jadual 3 untuk membenarkan elaun bangunan industri diberikan berkenaan dengan perbelanjaan modal yang dilakukan atas bangunan yang digunakan untuk penyelidikan oleh syarikat penyelidikan dan kemajuan atau syarikat penyelidikan dan kemajuan kontrak, dan juga untuk latihan industri, teknikal atau yokasional. Fasal ini juga bertujuan meminda perenggan 62 Jadual 3 untuk memperuntukkan bahawa jika sesuatu aset, yang merupakan jentera atau loji, diberikan sebagai hadiah kepada institut latihan teknikal atau yokasional yang ditubuhkan dan disenggarakan oleh kerajaan atau badan berkanun, atau kepada institut latihan teknikal atau vokasional yang diluluskan oleh Menteri, atau kepada suatu institut penyelidikan yang diluluskan, nilai pelupusan hendaklah dianggap sebagai kosong. Pindaan ini berkuatkuasa mulai dari tahun taksiran 1995.
 

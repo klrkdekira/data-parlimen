@@ -18,7 +18,9 @@
 
 ## AMENDMENTS TO THE INCOME TAX ACT 967
 
-3. Commencement of amendments to the Income Tax Act 967 4. Amendment of section 3B 5. Amendment of section 5 6. Amendment of section 6 7. Amendment of section 27 8. Amendment of section 34 9. New section 34C 0. Amendment of section 44 . Amendment of section 44A 2. Amendment of section 46 3. Deletion of section 46A 4. Amendment of section 54A 5. Amendment of section 60AA 6. New section 60I 7. Amendment of section 67 8. Amendment of section 80 9. Amendment of section 07C 20. Amendment of section 08
+3. Commencement of amendments to the Income Tax Act 967 4. Amendment of section 3B 5. Amendment of section 5 6. Amendment of section 6 7. Amendment of section 27 8. Amendment of section 34 9. New section 34C 0. Amendment of section 44 . Amendment of section 44A 2. Amendment of section 46 3. Deletion of section 46A 4. Amendment of section 54A 5. Amendment of section 60AA 6. New section 60I 7. Amendment of section 67 8. Amendment of section 80 9. Amendment of section 07C
+
+20. Amendment of section 08
 
 <!-- page 2 -->
 
@@ -84,25 +86,57 @@
 
 <!-- page 3 -->
 
-5. Set-off under section 0 52. 08 balance or revised 08 balance after 3 December 203 53. Statutory income deemed total income 54. Debt discharge 55. Power to remit 56. Tax shall be deducted 57. Non-applicability
+5. Set-off under section 0
+
+52. 08 balance or revised 08 balance after 3 December 203
+
+53. Statutory income deemed total income
+
+54. Debt discharge
+
+55. Power to remit
+
+56. Tax shall be deducted
+
+57. Non-applicability
 
 ## CHAPTER III
 
 ## AMENDMENTS TO THE STAMP ACT 949
 
-58. Commencement of amendments to the Stamp Act 949 59. Amendment of section 2 60. New sections 36A and 36B 6. Amendment of section 37 62. Amendment of section 38 63. Amendment of section 38A 64. Amendment of section 39
+58. Commencement of amendments to the Stamp Act 949
+
+59. Amendment of section 2
+
+60. New sections 36A and 36B 6. Amendment of section 37
+
+62. Amendment of section 38
+
+63. Amendment of section 38A
+
+64. Amendment of section 39
 
 ## CHAPTER IV
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 967
 
-65. Commencement of amendments to the Petroleum (Income Tax) Act 967 66. Amendment of section 6 67. Amendment of section 22 68. Amendment of section 33 69. Amendment of Third Schedule
+65. Commencement of amendments to the Petroleum (Income Tax) Act 967
+
+66. Amendment of section 6
+
+67. Amendment of section 22
+
+68. Amendment of section 33
+
+69. Amendment of Third Schedule
 
 ## CHAPTER V
 
 ## AMENDMENTS TO THE LABUAN OFFSHORE BUSINESS ACTIVITY TAX ACT 990
 
-70. Commencement of amendments to the Labuan Offshore Business Activity Tax Act 990 7. Amendment of section 2 72. New section 3A
+70. Commencement of amendments to the Labuan Offshore Business Activity Tax Act 990 7. Amendment of section 2
+
+72. New section 3A
 
 <!-- page 5 -->
 
@@ -290,7 +324,9 @@ or Doctorate level, undertaken for the purpose of acquiring law, accounting, Isl
 
 in any institution or professional body in Malaysia recognized by the Government or approved by the Minister, as the case may be, and the total deduction under this paragraph is subject to a maximum amount of five thousand ringgit;”;
 
-(ii) by deleting the word “and” at the end of paragraph (i);
+(ii) by deleting the word “and” at the end of paragraph
+
+(i);
 
 (iii) by substituting for the full stop at the end of paragraph (j) the word “; and”; and
 
@@ -534,7 +570,9 @@ connection with any investment or right, the cost of acquiring and realizing the
 
 (iii) the amount of management expenses incurred by him in that period in connection with his family and general businesses.
 
-() The adjusted income as ascertained under subsections (9) and (0) shall be deemed to be the statutory income from that source.
+() The adjusted income as ascertained under subsections
+
+(9) and (0) shall be deemed to be the statutory income from that source.
 
 (2) Where an operator carrying on general business has re-takaful the risks or part of the risks with a re-takaful operator who either does not carry on the business of takaful of that kind in Malaysia or does not re-takaful the risks through a branch in Malaysia, there may be deducted under subparagraph (5)(b)(ii) or (7)(b)(ii) in respect of such risks which are re-takaful only ninety-five per cent of the amount which would otherwise be deductible:
 
@@ -1482,7 +1520,7 @@ This Bill seeks to amend the Income Tax Act 1967 (“Act 53”), the Stamp Act 1
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-## Chapter II of this Bill seeks to amend the Income Tax Act 1967.
+Chapter II of this Bill seeks to amend the Income Tax Act 1967.
 
 2. Clause 4 seeks to amend section 3b of Act 53. Currently, an offshore company is subject to the provisions of Act 445 in respect of its offshore business activity. With the proposed amendment, an offshore company can make an irrevocable election under section 3a of Act 445 to be taxed under Act 53.
 
@@ -1600,7 +1638,9 @@ This amendment comes into operation on the coming into operation of this Act.
 
 25. Clause 32 seeks to amend subsection 153(6) of Act 53 to provide that any approval or renewal as a tax agent may, be for a minimum period of twenty-four months or any other period as approved by the Minister.
 
-This amendment is deemed to have come into operation on 21 February 2007.
+This amendment is deemed to have come into operation on 21 February
+
+2007.
 
 <!-- page 62 -->
 
@@ -1646,9 +1686,7 @@ This amendment comes into operation on the coming into operation of this Act.
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
-## Chapter III of this Bill seeks to amend Stamp Act 1949. This Chapter comes
-
-into operation on 1 January 2008.
+Chapter III of this Bill seeks to amend Stamp Act 1949. This Chapter comes into operation on 1 January 2008.
 
 32. Clause 59 seeks to amend the definition of “duly stamped” in section 2 of Act 378.
 
@@ -1664,9 +1702,7 @@ Clause 60 also seeks to introduce new section 36b into Act 378 to empower the Co
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
-## Chapter IV of this Bill seeks to amend the Petroleum (Income Tax) Act 1967.
-
-The amendments under this Chapter other than the amendment under clause 66, come into operation on the coming into operation of this Act. Clause 66 has effect for the year of assessment 2009 and subsequent years of assessment.
+Chapter IV of this Bill seeks to amend the Petroleum (Income Tax) Act 1967. The amendments under this Chapter other than the amendment under clause 66, come into operation on the coming into operation of this Act. Clause 66 has effect for the year of assessment 2009 and subsequent years of assessment.
 
 36. Clause 66 seeks to amend subsection 16(7a) of Act 543. With the proposed amendment, a person is entitled to deduct from his gross income an amount equal to the expenditure incurred by him on the alteration or renovation of premises necessary to assist any disabled person in his employment.
 
@@ -1686,9 +1722,7 @@ Subclause 69(c) further seeks to empower the Special Commissioners to dismiss an
 
 ACT 1990
 
-## Chapter IV of this Bill seeks to amend the Labuan Offshore Business Activity
-
-Tax Act 1990. This Chapter has effect for the year of assessment 2008 and subsequent years of assessment.
+Chapter IV of this Bill seeks to amend the Labuan Offshore Business Activity Tax Act 1990. This Chapter has effect for the year of assessment 2008 and subsequent years of assessment.
 
 39. Clause 71 seeks to amend subsection 2(3) of Act 445 as a consequence of the introduction of a new section 3a of Act 445.
 

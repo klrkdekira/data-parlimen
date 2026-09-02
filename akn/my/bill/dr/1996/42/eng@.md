@@ -14,11 +14,39 @@ FINANCE (No. 2) BILL 1996
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-3. Commencement of amendments to the Income Tax Act 1967. 4. Amendment of section 2. 5. Amendment of section 4A. 6. Amendment of section 13. 7. Amendment of section 15A. 8. Amendment of section 34. 9. Amendment of section 39. 10. Amendment of section 44. 11. Amendment of section 46. 12. Amendment of section 49. 13. Amendment of section 60G. 14. New section 60H. 15. Amendment of section 83. 16. Amendment of section 103. 17. Amendment of section 107A. 18. Amendment of section 109. 19. Amendment of section 109B. 20. Amendment of section 136.
+3. Commencement of amendments to the Income Tax Act 1967. 4. Amendment of section 2. 5. Amendment of section 4A. 6. Amendment of section 13. 7. Amendment of section 15A. 8. Amendment of section 34. 9. Amendment of section 39.
+
+10. Amendment of section 44.
+
+11. Amendment of section 46.
+
+12. Amendment of section 49.
+
+13. Amendment of section 60G.
+
+14. New section 60H.
+
+15. Amendment of section 83.
+
+16. Amendment of section 103.
+
+17. Amendment of section 107A.
+
+18. Amendment of section 109.
+
+19. Amendment of section 109B.
+
+20. Amendment of section 136.
 
 <!-- page 2 -->
 
-21. Amendment of Schedule 1. 22. Amendment of Schedule 3. 23. Amendment of Schedule 6. 24. Amendment of Schedule 7A.
+21. Amendment of Schedule 1.
+
+22. Amendment of Schedule 3.
+
+23. Amendment of Schedule 6.
+
+24. Amendment of Schedule 7A.
 
 ## CHAPTER
 
@@ -26,7 +54,19 @@ III
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
-25. Commencement of amendments to the Petroleum (Income Tax) Act 1967. 26. Amendment of section 2. 27. Amendment of section 16. 28. Amendment of section 22. 29. Amendment of section 69. 30. Amendment of section 70. 31. Amendment of section 71.
+25. Commencement of amendments to the Petroleum (Income Tax) Act 1967.
+
+26. Amendment of section 2.
+
+27. Amendment of section 16.
+
+28. Amendment of section 22.
+
+29. Amendment of section 69.
+
+30. Amendment of section 70.
+
+31. Amendment of section 71.
 
 ## CHAPTER
 
@@ -34,7 +74,19 @@ IV
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
-32. Commencement of amendments to the Real Property Gains Tax Act 1976. 33. Amendment of section 2. 34. Amendment of section 45. 35. Amendment of section 46. 36. Amendment of section 47. 37. Amendment of section 54. 38. Amendment of Schedule 2.
+32. Commencement of amendments to the Real Property Gains Tax Act 1976.
+
+33. Amendment of section 2.
+
+34. Amendment of section 45.
+
+35. Amendment of section 46.
+
+36. Amendment of section 47.
+
+37. Amendment of section 54.
+
+38. Amendment of Schedule 2.
 
 ## CHAPTER V
 
@@ -42,7 +94,9 @@ IV
 
 ## ACTIVITY TAX ACT 1990
 
-39. Commencement of amendment to the Labuan Offshore Business Activity Tax Act 1990. 40. Amendment of section 2.
+39. Commencement of amendment to the Labuan Offshore Business Activity Tax Act 1990.
+
+40. Amendment of section 2.
 
 <!-- page 3 -->
 
@@ -62,13 +116,17 @@ IV
 
 ## AMENDMENT TO THE SALES TAX ACT 1972
 
-45. Commencement of amendment to the Sales Tax Act 1972. 46. New section 2B.
+45. Commencement of amendment to the Sales Tax Act 1972.
+
+46. New section 2B.
 
 ## CHAPTER VIII
 
 ## AMENDMENT TO THE CUSTOMS ACT 1967
 
-47. Commencement of amendment to the Customs Act 1967. 48. Amendment of section 65.
+47. Commencement of amendment to the Customs Act 1967.
+
+48. Amendment of section 65.
 
 ## CHAPTER
 
@@ -108,9 +166,7 @@ BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong with the advice a
 
 <!-- marginal: Short title. -->
 
-1. This Act may be cited as the Finance (No. 2) Act
-
-1996.
+1. This Act may be cited as the Finance (No. 2) Act 1996.
 
 <!-- marginal: Amendments -->
 
@@ -158,9 +214,25 @@ V, VI, VII, VIII and IX respectively.
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-Commence-
+<!-- marginal: Commence- -->
 
-3. (1) Except for paragraphs 4(a), 4(b), 19(a) and 1 9( b) ment of and sections 5, 7, 15, 16, 17, 18, 20 and 21, this Chapter amendments to the shall have effect for the year of assessment 1997 and Income Tax subsequent years of assessment. Act 1967
+3. (1) Except for paragraphs 4(a), 4(b), 19(a) and 1 9( b)
+
+<!-- marginal: ment of -->
+
+and sections 5, 7, 15, 16, 17, 18, 20 and 21, this Chapter
+
+<!-- marginal: amendments -->
+
+<!-- marginal: to the -->
+
+shall have effect for the year of assessment 1997 and
+
+<!-- marginal: Income Tax -->
+
+subsequent years of assessment.
+
+<!-- marginal: Act 1967 -->
 
 (2) Paragraphs 4( a) and 19(b) and sections 16, 17 and 18 shall be deemed to have come into force on 25 October 1996.
 
@@ -168,9 +240,17 @@ Commence-
 
 (4) Section 20 shall be deemed to have come into force on 2 August 1996.
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. The Income Tax Act 1967, which in this Chapter is of section 2. referred to as the "principal Act", is amended in subsection Act 53. 2(1)—
+4. The Income Tax Act 1967, which in this Chapter is
+
+<!-- marginal: of section 2. -->
+
+referred to as the "principal Act", is amended in subsection
+
+<!-- marginal: Act 53. -->
+
+2(1)—
 
 (a) in the definition of "approved loan " by inserting after the words "a person" in paragraph (b) the words "pursuant to an application received prior to 25 October 1996"; and
 
@@ -178,9 +258,13 @@ Amendment
 
 "(i) copyrights, artistic or scientific works, patents, designs or models, plans, secret processes or formulae, trademarks, or tapes for radio or television broadcasting, motion picture films, films or video tapes or other means of reproduction where such films or tapes have been or are to be used or reproduced in Malaysia or other like property or rights;".
 
-Amendment
+<!-- marginal: Amendment -->
 
-5. Paragraph 4A(iii) of the principal Act is amended by of section deleting the words "where the duty is leviable under the
+5. Paragraph 4A(iii) of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+deleting the words "where the duty is leviable under the
 
 4A. Cinematograph Film-Hire Duty Act 1965,".
 
@@ -230,13 +314,17 @@ Provided that where a deduction has been made under this paragraph, no further d
 
 <!-- page 8 -->
 
-8 Bill
+<!-- marginal: 8 -->
+
+Bill
 
 (j) an amount equal to the expenditure incurred by the relevant person in the relevant period in establishing and managing a musical or cultural group approved by the Minister.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-9. Subsection 39(1) of the principal Act is amended— of section 39.
+9. Subsection 39(1) of the principal Act is amended—
+
+<!-- marginal: of section 39. -->
 
 (a) in paragraph (f) by substituting for the semicolon at the end of the paragraph a colon and inserting thereafter the following proviso:
 
@@ -250,9 +338,11 @@ Amendment
 
 "Provided that this paragraph shall not apply if the payer has paid the amount referred to in subsection (2) of that section.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-10. Section 44 of the principal Act is amended— of section 44.
+10. Section 44 of the principal Act is amended—
+
+<!-- marginal: of section 44. -->
 
 (a) in paragraph (l)(c) by inserting after the word "(6)" the words "or (6A)";
 
@@ -270,17 +360,17 @@ and Antiquities or the National Archives of any gift of artefact or manuscript m
 
 "(f) a technical or vocational training institution;".
 
-<!-- marginal: Amendment -->
+Amendment
 
-11. Section 46 of the principal Act is amended—
-
-<!-- marginal: of section 46. -->
+11. Section 46 of the principal Act is amended— of section 46.
 
 (a) by renumbering the existing section 46 as subsection 46(1);
 
 (b) in paragraph (e) by deleting the word "and" at the end of the paragraph;
 
-(c) in paragraph (f) by substituting for the full stop at the end of the paragraph the word "; and"; and
+(c) in paragraph (f) by substituting for the full stop at the end of the paragraph the word "; and";
+
+<!-- marginal: and -->
 
 (d) by inserting after paragraph (f) the following paragraph;
 
@@ -298,15 +388,15 @@ Provided further that where the wife has no total income the total deduction und
 
 "child" shall be construed as referring to a child as defined in section 48(9);
 
-"serious disease" includes acquired immunity deficiency
+"serious disease" includes acquired immunity deficiency syndrome, Parkinson's disease, cancer, renal failure, leukaemia and other similar diseases.".
 
-<!-- marginal: syndrome, -->
+<!-- marginal: Amendment -->
 
-Parkinson's disease, cancer, renal failure, leukaemia and other similar diseases.".
+12. Section 49 of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section -->
 
-12. Section 49 of the principal Act is amended by of section substituting for subsection (2) the following subsection:
+substituting for subsection (2) the following subsection:
 
 49. " (2) For the purposes of subsection (1), no regard shall be had to any contribution to an approved scheme unless the contribution was obligatory by reason of—
 
@@ -316,15 +406,19 @@ Amendment
 
 and, where the contribution was partly obligatory by reason of such a contract or provision and partly not so obligatory, regard shall be had only to the part which was so obligatory.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-13. Subsection 60G(6) of the principal Act is amended of section by substituting for the definition of "foreign fund
+13. Subsection 60G(6) of the principal Act is amended
+
+<!-- marginal: of section -->
+
+by substituting for the definition of "foreign fund
 
 60G. management company" the following definition:
 
 "foreign fund management company" means a company incorporated in Malaysia and licensed Act 280. under the Securities Industry Act 1983;'.
 
-New section
+<!-- marginal: New section -->
 
 14. The principal Act is amended by inserting after section
 
@@ -420,17 +514,23 @@ substituting for subsection (2) the following subsection:
 
 sum shall be a debt due from him to the Government and shall be payable forthwith to the Director General.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-18. Section 109 of the principal Act is amended by of section substituting for subsection (2) the following subsection:
+18. Section 109 of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+substituting for subsection (2) the following subsection:
 
 109.
 
 "(2) Where the payer fails to pay any amount due from him under subsection (1), that amount which he fails to pay shall be increased by an amount equal to ten per cent of the interest or royalty liable to deduction of tax under subsection (1) and the total sum shall be a debt due from him to the Government and shall be payable forthwith to the Director General.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-19. Section 109B of the principal Act is amended— of section
+19. Section 109B of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 109B.
 
@@ -440,15 +540,23 @@ Amendment
 
 "(2) Where the payer fails to pay any amount due from him under subsection (1), that amount which he fails to pay shall be increased by an amount equal to ten per cent of the payments liable to deduction of tax under subsection (l)(a), (1)(b) or (1)(c) and the total sum shall be a debt due from him to the Government and shall be payable forthwith to the Director General.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-20. Subsection 136(8) of the principal Act is amended of section by inserting after the words "to that officer" the words
+20. Subsection 136(8) of the principal Act is amended
+
+<!-- marginal: of section -->
+
+by inserting after the words "to that officer" the words
 
 136. "or employee".
 
-Amendment
+<!-- marginal: Amendment -->
 
-21. Part V of Schedule 1 to the principal Act is amended of Schedule in paragraph (iii) by deleting the words "where the duty
+21. Part V of Schedule 1 to the principal Act is amended
+
+<!-- marginal: of Schedule -->
+
+in paragraph (iii) by deleting the words "where the duty
 
 1. is leviable under the Cinematograph Film-Hire Duty Act 1965".
 
@@ -518,19 +626,49 @@ III
 
 ## (INCOME TAX) ACT 1967
 
-Commence-
+<!-- marginal: Commence- -->
 
-25. (1) Except for sections 26,29, 30 and 31, this Chapter ment of shall have effect for the year of assessment 1997 and amendments to the subsequent years of assessment. Petroleum (Income Tax) Act 1967. (2) Sections 26, 29, 30 and 31 shall be deemed to have come into force on 2 August 1996.
+25. (1) Except for sections 26,29, 30 and 31, this Chapter
 
-Amendment
+<!-- marginal: ment of -->
 
-26. The Petroleum (Income Tax) Act 1967, which in of section 2. this Chapter is referred to as the "principal Act", is amended Act 543. in subsection 2(1) by inserting after the definition of "entertainment" the following definition:
+shall have effect for the year of assessment 1997 and
+
+<!-- marginal: amendments -->
+
+<!-- marginal: to the -->
+
+subsequent years of assessment.
+
+<!-- marginal: Petroleum -->
+
+<!-- marginal: (Income Tax) -->
+
+<!-- marginal: Act 1967. -->
+
+(2) Sections 26, 29, 30 and 31 shall be deemed to have come into force on 2 August 1996.
+
+<!-- marginal: Amendment -->
+
+26. The Petroleum (Income Tax) Act 1967, which in
+
+<!-- marginal: of section 2. -->
+
+this Chapter is referred to as the "principal Act", is amended
+
+<!-- marginal: Act 543. -->
+
+in subsection 2(1) by inserting after the definition of "entertainment" the following definition:
 
 "Inland Revenue Board of Malaysia" means the Inland Revenue Board of Malaysia established Act 533. under the Inland Revenue Board of Malaysia Act 1995;'.
 
-Amendment
+<!-- marginal: Amendment -->
 
-27. Section 16 of the principal Act is amended by inserting of section 16. after subsection (7A) the following subsections:
+27. Section 16 of the principal Act is amended by inserting
+
+<!-- marginal: of section 16. -->
+
+after subsection (7A) the following subsections:
 
 "(7B) There shall be deducted from the relevant gross income an amount equal to the amount of expenditure incurred by the relevant chargeable person
 
@@ -558,9 +696,11 @@ after subsection (1) the following subsection:
 
 18 Bill
 
-Amendment
+<!-- marginal: Amendment -->
 
-29. Section 69 of the principal Act is amended— of section 69.
+29. Section 69 of the principal Act is amended—
+
+<!-- marginal: of section 69. -->
 
 (a) in subsection (5) by inserting after the words "public officer" the words "or any employee of the Inland Revenue Board of Malaysia";
 
@@ -568,13 +708,21 @@ Amendment
 
 (c) in subsection (8) by inserting after the words "public officer" the words "or an employee of the Inland Revenue Board of Malaysia" and after the words "to that officer" the words "or employee".
 
-Amendment
+<!-- marginal: Amendment -->
 
-30. Subsection 70(2) of the principal Act is amended by of section 70. inserting after the words "public officer" the words "or an employee of the Inland Revenue Board of Malaysia.".
+30. Subsection 70(2) of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 70. -->
 
-31. Subsection 71(5) of the principal Act is amended in of section 71. the definition of "classified person"—
+inserting after the words "public officer" the words "or an employee of the Inland Revenue Board of Malaysia.".
+
+<!-- marginal: Amendment -->
+
+31. Subsection 71(5) of the principal Act is amended in
+
+<!-- marginal: of section 71. -->
+
+the definition of "classified person"—
 
 (a) by deleting the word "or" at the end of paragraph (b);
 
@@ -592,9 +740,29 @@ IV
 
 ## GAINS TAX ACT 1976
 
-Commence-
+<!-- marginal: Commence- -->
 
-32. (1) Except for sections 33, 34, 35, 36 and 37, this ment of Chapter shall be deemed to have come into force on 25 amendments October 1996. to the Real Property Gains Tax (2) Sections 33, 34, 35, 36 and 37 shall be deemed Act 1976. to have come into force on 2 August 1996.
+32. (1) Except for sections 33, 34, 35, 36 and 37, this
+
+<!-- marginal: ment of -->
+
+Chapter shall be deemed to have come into force on 25
+
+<!-- marginal: amendments -->
+
+October 1996.
+
+<!-- marginal: to the Real -->
+
+<!-- marginal: Property -->
+
+<!-- marginal: Gains Tax -->
+
+(2) Sections 33, 34, 35, 36 and 37 shall be deemed
+
+<!-- marginal: Act 1976. -->
+
+to have come into force on 2 August 1996.
 
 <!-- page 19 -->
 
@@ -682,15 +850,11 @@ Amendment
 
 Commence-
 
-39. This Chapter shall have effect for the year of ment of assessment 1997 and subsequent years of assessment. amendment to the Labuan Offshore Business Activity Tax Act
-
-1990.
+39. This Chapter shall have effect for the year of ment of assessment 1997 and subsequent years of assessment. amendment to the Labuan Offshore Business Activity Tax Act 1990.
 
 Amendment
 
-40. The Labuan Offshore Business Activity Tax Act of section 2. 1990 is amended in subsection 2(1) by substituting for Act
-
-445. the definition of "offshore trust" the following definition:
+40. The Labuan Offshore Business Activity Tax Act of section 2. 1990 is amended in subsection 2(1) by substituting for Act 445. the definition of "offshore trust" the following definition:
 
 "offshore trust" has the meaning assigned Act 554. thereto by the Labuan Offshore Trusts Act 1996;'.
 
@@ -762,31 +926,63 @@ substituting for the word "six" wherever appearing the word "twelve".
 
 ## AMENDMENT TO THE SALES TAX ACT 1972
 
-Commence-
+<!-- marginal: Commence- -->
 
-45. This Chapter shall be deemed to have come into ment of force on 25 October 1996. amendment to the Sales Tax Act
+45. This Chapter shall be deemed to have come into
+
+<!-- marginal: ment of -->
+
+force on 25 October 1996.
+
+<!-- marginal: amendment -->
+
+<!-- marginal: to the Sales -->
+
+<!-- marginal: Tax Act -->
 
 1972.
 
-New section
+<!-- marginal: New section -->
 
 46. The Sales Tax Act 1972 is amended by inserting
 
-2B. after section 2A the following section: Act 64. " Licensed 2B. For the purpose of this Act, a licensed warehouse warehouse and a licensed manufacturing and licensed warehouse shall be deemed to be a place outside manufac- Malaysia. turing ware- house deemed In this section, the expression "a licensed outside manufacturing warehouse" means a licensed Malaysia. warehouse in respect of which an additional licence to carry on any manufacturing process has been granted under section 65A of the Customs Act 235. Act 1967.".
+2B. after section 2A the following section:
+
+<!-- marginal: Act 64. -->
+
+" Licensed 2B. For the purpose of this Act, a licensed warehouse warehouse and a licensed manufacturing and licensed warehouse shall be deemed to be a place outside manufac- Malaysia. turing ware- house deemed In this section, the expression "a licensed outside manufacturing warehouse" means a licensed Malaysia. warehouse in respect of which an additional licence to carry on any manufacturing process has been granted under section 65A of the Customs Act 235. Act 1967.".
 
 ## CHAPTER VIII
 
 ## AMENDMENT TO THE CUSTOMS ACT 1967
 
-Commence-
+<!-- marginal: Commence- -->
 
-47. This Chapter shall be deemed to have come into ment of force on 25 October 1996. amendment to the Customs Act 1967.
+47. This Chapter shall be deemed to have come into
 
-Amendment
+<!-- marginal: ment of -->
 
-48. The Customs Act 1967 is amended in subsection of section 65(1) by inserting after the words "goods liable to customs
+force on 25 October 1996.
 
-65. Act 235. duties" the words "and any other goods".
+<!-- marginal: amendment to -->
+
+<!-- marginal: the Customs -->
+
+<!-- marginal: Act 1967. -->
+
+<!-- marginal: Amendment -->
+
+48. The Customs Act 1967 is amended in subsection
+
+<!-- marginal: of section -->
+
+65(1) by inserting after the words "goods liable to customs
+
+65.
+
+<!-- marginal: Act 235. -->
+
+duties" the words "and any other goods".
 
 <!-- page 23 -->
 
@@ -898,9 +1094,7 @@ Amendment
 
 Commence-
 
-60. This Chapter shall come into force on 1 January ment of 1997. repeal of the Cinematograph Film-Hire Duty Act
-
-1965.
+60. This Chapter shall come into force on 1 January ment of 1997. repeal of the Cinematograph Film-Hire Duty Act 1965.
 
 <!-- page 25 -->
 
@@ -920,9 +1114,7 @@ This Bill seeks to amend the Income Tax Act 1967, the Petroleum (Income Tax) Act
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-2. Subclause 4(a) seeks to amend the definition of "approved loan" in section 2 of the Act. Under the proposed amendment, "approved loan", in respect of applications for approval received on and after 25 October 1996, is now confined to loans made to the Government, State Government (including any loan made to a person other than the Government, or State Government where the loan or credit is guaranteed by the Government or State Government), local authority or statutory body. This amendment will be effective from 25 October
-
-1996.
+2. Subclause 4(a) seeks to amend the definition of "approved loan" in section 2 of the Act. Under the proposed amendment, "approved loan", in respect of applications for approval received on and after 25 October 1996, is now confined to loans made to the Government, State Government (including any loan made to a person other than the Government, or State Government where the loan or credit is guaranteed by the Government or State Government), local authority or statutory body. This amendment will be effective from 25 October 1996.
 
 Subclause 4(b) seeks to amend the definition of "royalty" to include payments for the use of or the right to use motion picture films, films or video tapes or other means of reproduction where such films or tapes have been or are to be used or reproduced in Malaysia. The proposed amendment seeks to bring to charge film rentals paid to non-residents which were previously subject to the Cinematograph Film-Hire Duty Act 1965. This amendment will be effective from 1 January 1997.
 
@@ -964,9 +1156,7 @@ provided to the individual, spouse or child for that disease. The amendment also
 
 ### Bill
 
-the Director General in respect of contract payments, interest and royalties and payments made under special classes of income to non- residents. These amendments will be effective from 25 October
-
-1996.
+the Director General in respect of contract payments, interest and royalties and payments made under special classes of income to non- residents. These amendments will be effective from 25 October 1996.
 
 15. Clause 22 seeks to amend subparagraph 42A(1) of Schedule 3 to provide for allowances to be given in respect of living accommodation provided by persons carrying on a manufacturing, hotel, tourism business or an approved service project to non- managerial, non-administrative and non-clerical employees. This amendment will be effective from the year of assessment 1997.
 

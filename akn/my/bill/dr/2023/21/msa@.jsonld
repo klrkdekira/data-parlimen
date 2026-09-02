@@ -260,7 +260,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/msa@/~cl_14",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam perenggan 7— Pemakaian perenggan 33b(2a)(e) dan (f) bagi orang yang telah dihukum bankrap sebelum permulaan kuat kuasa Akta ini"
+        "@value": "dalam perenggan 7—"
       }
     },
     {
@@ -280,7 +280,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/msa@/~cl_14__para_f",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perkataan “subsequent meeting” dengan perkataan “meeting of creditors”."
+        "@value": "dengan menggantikan perkataan “subsequent meeting” dengan perkataan “meeting of creditors”. Pemakaian perenggan 33b(2a)(e) dan (f) bagi orang yang telah dihukum bankrap sebelum permulaan kuat kuasa Akta ini"
       }
     },
     {
@@ -583,7 +583,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/msa@/~cl_8",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (2a)— “(e) a bankrupt who is incapable of managing himself and his affairs due to any mental disorder, as certified by a psychiatrist from any government hospital; and (f) a bankrupt aged seventy years and above and in the opinion of the Director General of Insolvency, is incapable of contributing to the administration of his estate.”; dan"
+        "@value": "dalam subseksyen (2a)—"
       }
     },
     {
@@ -613,7 +613,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/msa@/~cl_8__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perenggan (d) perenggan yang berikut:"
+        "@value": "dengan memasukkan selepas perenggan (d) perenggan yang berikut: “(e) a bankrupt who is incapable of managing himself and his affairs due to any mental disorder, as certified by a psychiatrist from any government hospital; and (f) a bankrupt aged seventy years and above and in the opinion of the Director General of Insolvency, is incapable of contributing to the administration of his estate.”; dan"
       }
     },
     {
@@ -639,9 +639,7 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/msa@/~cl_9__para_f",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/msa@/~cl_9__para_g",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/msa@/~cl_9__para_h",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/msa@/~cl_9__para_i",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/msa@/~cl_9__para_ii",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/msa@/~cl_9__para_iii"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/msa@/~cl_9__para_i"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/msa@",
       "schema:name": {
@@ -683,7 +681,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/msa@/~cl_9",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (2)— “(g) the debt provable in bankruptcy.”;"
+        "@value": "dalam subseksyen (2)—"
       }
     },
     {
@@ -733,7 +731,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/msa@/~cl_9__para_c",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perenggan (f) perenggan yang berikut:"
+        "@value": "dengan memasukkan selepas perenggan (f) perenggan yang berikut: “(g) the debt provable in bankruptcy.”;"
       }
     },
     {
@@ -825,6 +823,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/msa@/~cl_9__para_i",
       "@type": "akn:paragraph",
       "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/msa@/~cl_9__para_i__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/msa@/~cl_9__para_i__subpara_iii"
+      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/msa@/~cl_9",
       "schema:text": {
         "@language": "ms",
@@ -832,20 +834,20 @@
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/msa@/~cl_9__para_ii",
-      "@type": "akn:paragraph",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/msa@/~cl_9__para_i__subpara_ii",
+      "@type": "akn:subparagraph",
       "eli:number": "ii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/msa@/~cl_9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/msa@/~cl_9__para_i",
       "schema:text": {
         "@language": "ms",
         "@value": "dalam perenggan (b), dengan menggantikan noktah di hujung perenggan itu dengan perkataan “; or”; dan"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/msa@/~cl_9__para_iii",
-      "@type": "akn:paragraph",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/msa@/~cl_9__para_i__subpara_iii",
+      "@type": "akn:subparagraph",
       "eli:number": "iii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/msa@/~cl_9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/msa@/~cl_9__para_i",
       "schema:text": {
         "@language": "ms",
         "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut: “(c) on the expiration of the period referred to in paragraph (8c)(b).”. Pindaan seksyen 48"

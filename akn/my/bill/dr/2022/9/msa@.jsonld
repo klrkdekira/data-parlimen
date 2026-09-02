@@ -68,9 +68,13 @@
       "@type": "akn:clause",
       "eli:number": "2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/9/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perlembagaan Persekutuan dipinda dengan memasukkan selepas"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Perlembagaan Persekutuan dipinda dengan memasukkan selepas Perkara 119 Perkara yang berikut: “Ketidakpakaian Perkara 119 kepada Raja-Raja, dsb., melalui perintah 119a. Walau apa pun Perkara 119, Yang di-Pertuan Agong boleh, dengan persetujuan Majlis Raja-Raja, melalui perintah yang disiarkan dalam Warta, menetapkan suatu pengecualian kepada mana-mana Raja dan Isterinya, mana-mana Yang di-Pertua Negeri dan Isterinya, dan mana-mana bakal raja, waris ganti dan waris lain Raja dan isteri mereka, dan mana-mana orang lain, daripada pemakaian Perkara 119 dan mana-mana undang-undang yang berhubungan dengan pendaftaran pemilih.”."
+        "@value": "Perkara 119 Perkara yang berikut: “Ketidakpakaian Perkara 119 kepada Raja-Raja, dsb., melalui perintah 119a. Walau apa pun Perkara 119, Yang di-Pertuan Agong boleh, dengan persetujuan Majlis Raja-Raja, melalui perintah yang disiarkan dalam Warta, menetapkan suatu pengecualian kepada mana-mana Raja dan Isterinya, mana-mana Yang di-Pertua Negeri dan Isterinya, dan mana-mana bakal raja, waris ganti dan waris lain Raja dan isteri mereka, dan mana-mana orang lain, daripada pemakaian Perkara 119 dan mana-mana undang-undang yang berhubungan dengan pendaftaran pemilih.”."
       }
     }
   ]

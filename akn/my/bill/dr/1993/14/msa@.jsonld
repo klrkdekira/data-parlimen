@@ -84,7 +84,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/14/msa@/~cl_2",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan rujukan birai \"Act bersetentangan dengan rujukan kepada Akta Perkhidmatan Pembetungan 1993. 2 RANG UNDANG-UNDANG Pindaan"
+        "@value": "dengan memasukkan rujukan birai \"Act bersetentangan dengan rujukan kepada Akta Perkhidmatan Pembetungan 1993. 2 RANG UNDANG-UNDANG"
       }
     },
     {
@@ -92,9 +92,13 @@
       "@type": "akn:clause",
       "eli:number": "3",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/14/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 83 Ordinan adalah dipinda dengan memotong"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Seksyen 83 Ordinan adalah dipinda dengan memotong seksyen 83. perenggan (b). Pindaan"
+        "@value": "perenggan (b)."
       }
     },
     {
@@ -102,9 +106,13 @@
       "@type": "akn:clause",
       "eli:number": "4",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/14/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 97(1) Ordinan adalah dipinda dengan"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Subseksyen 97(1) Ordinan adalah dipinda dengan seksyen 97. memotong perkataan \"sewerage\"."
+        "@value": "memotong perkataan \"sewerage\"."
       }
     }
   ]

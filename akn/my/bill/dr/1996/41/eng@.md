@@ -36,13 +36,33 @@ hereby authorized, and that sum is appropriated for the purposes specified in th
 
 ## SCHEDULE
 
-Purpose Title Amount ( R M)
+Purpose Title
 
-B. 1 Parliament 30,276,300 B. 2 Office of the Keeper of the Rulers' 1,133,500 Seal B. 3 Audit Department 43,764,900 B. 4 Election Commission 21,636,900 B. 5 Public Services Commission 17,994,300 B. 6 Education Service Commission 6,744,800 B. 7 Prime Mmister's Department 1,013,423,800
+<!-- marginal: Amount -->
+
+<!-- marginal: ( R M) -->
+
+B. 1 Parliament 30,276,300 B. 2 Office of the Keeper of the Rulers'
+
+<!-- marginal: 1,133,500 -->
+
+Seal B. 3 Audit Department 43,764,900 B. 4 Election Commission 21,636,900 B. 5 Public Services Commission
+
+<!-- marginal: 17,994,300 -->
+
+B. 6 Education Service Commission
+
+<!-- marginal: 6,744,800 -->
+
+B. 7 Prime Mmister's Department 1,013,423,800
 
 <!-- page 2 -->
 
-Purpose Title Amount (RM) B. 8 Public Services Department 394,529,000 B. 9 Statistics Department 62,716,900 B. 10 Attorney General's Chambers 25,094,000 B. 11 Anti-Corruption Agency 32,395,600 B. 12 Office of the Pederal Secretary Sabah
+Purpose Title Amount
+
+<!-- marginal: (RM) -->
+
+B. 8 Public Services Department 394,529,000 B. 9 Statistics Department 62,716,900 B. 10 Attorney General's Chambers 25,094,000 B. 11 Anti-Corruption Agency 32,395,600 B. 12 Office of the Pederal Secretary Sabah
 
 <!-- marginal: 977,300 -->
 
@@ -54,92 +74,20 @@ Sarawak B. 14 Ministry of Housing and Local 111,215,400 Government B. 15 Town an
 
 <!-- page 3 -->
 
-Purpose Title
-
-<!-- marginal: Amount -->
+Purpose Title Amount
 
 <!-- marginal: (RM) -->
 
-B. 35 Ministry of Home Affairs
-
-<!-- marginal: 161,973,500 -->
-
-B. 36 Royal Malaysia Police
-
-<!-- marginal: 1,851,432,000 -->
-
-B. 37 Immigration Department
-
-<!-- marginal: 106,068,900 -->
-
-B. 38 Registration of Societies Department
+B. 35 Ministry of Home Affairs 161,973,500 B. 36 Royal Malaysia Police 1,851,432,000 B. 37 Immigration Department 106,068,900 B. 38 Registration of Societies Department
 
 <!-- marginal: 7,311,300 -->
 
-B. 39 National Registration Department
-
-<!-- marginal: 75,822,700 -->
-
-B. 40 Prisons Department
-
-<!-- marginal: 176,563,400 -->
-
-B. 41 Civil Defence Department
-
-<!-- marginal: 10,719,100 -->
-
-B. 42 Ministry of National Unity and
-
-<!-- marginal: 234,227,000 -->
-
-Social Development B. 43 Ministry of Land and Co-operative
-
-<!-- marginal: 233,972,900 -->
-
-Development B. 44 Ministry of Information
-
-<!-- marginal: 327,467.900 -->
-
-B. 45 Ministry of Human Resources
-
-<!-- marginal: 95,333,700 -->
-
-B. 46 Ministry of Science, Technology
-
-<!-- marginal: 227,170,300 -->
-
-and Environment B. 47 Ministry of Transport
-
-<!-- marginal: 301,638,800 -->
-
-B. 48 Ministry of Rural Development
-
-<!-- marginal: 380,035,500 -->
-
-B. 49 Ministry of Energy,
-
-<!-- marginal: 63,078,600 -->
-
-Telecommunications and Posts B. 50 Ministry of Entrepreneur
-
-<!-- marginal: 923,645,200 -->
-
-Development B. 51 Ministry of Foreign Affairs
-
-<!-- marginal: 249,390,400 -->
-
-B. 52 Ministry of Works
-
-<!-- marginal: 1,081,042.200 -->
+B. 39 National Registration Department 75,822,700 B. 40 Prisons Department 176,563,400 B. 41 Civil Defence Department 10,719,100 B. 42 Ministry of National Unity and 234,227,000 Social Development B. 43 Ministry of Land and Co-operative 233,972,900 Development B. 44 Ministry of Information 327,467.900 B. 45 Ministry of Human Resources 95,333,700 B. 46 Ministry of Science, Technology 227,170,300 and Environment B. 47 Ministry of Transport 301,638,800 B. 48 Ministry of Rural Development 380,035,500 B. 49 Ministry of Energy, 63,078,600 Telecommunications and Posts B. 50 Ministry of Entrepreneur 923,645,200 Development B. 51 Ministry of Foreign Affairs 249,390,400 B. 52 Ministry of Works 1,081,042.200
 
 ## TOTAL
 
-. .
-
-<!-- marginal: 31,047,131,700 -->
+. . 31,047,131,700
 
 ## EXPLANATORY STATEMENT
 
-This Bill seeks to provide for the issue from the Consolidated Fund of a sum of thirty-one billion forty-seven million one hundred and thirty-one thousand and seven hundred ringgit (RM31,047,131,700) for the service of the year 1997 and for that sum to be appropriated for the purposes specified in the Schedule.
-
-<!-- marginal: [PN. (U2) 1967.] -->
+This Bill seeks to provide for the issue from the Consolidated Fund of a sum of thirty-one billion forty-seven million one hundred and thirty-one thousand and seven hundred ringgit (RM31,047,131,700) for the service of the year 1997 and for that sum to be appropriated for the purposes specified in the Schedule. [PN. (U2) 1967.]

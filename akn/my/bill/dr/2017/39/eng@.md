@@ -4,7 +4,7 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -14,7 +14,7 @@
 
 3. Interpretation
 
-## Part II
+## PART II
 
 ## ADMINISTRATION OF EMPLOYMENT INSURANCE SYSTEM
 
@@ -26,7 +26,7 @@
 
 7. Exercise of functions and powers of Organization
 
-## Part III
+## PART III
 
 ## COMMITTEES
 
@@ -40,7 +40,7 @@
 
 12. Disclosure of interest
 
-## Part IV
+## PART IV
 
 ## REGISTRATION AND CONTRIBUTIONS
 
@@ -74,7 +74,7 @@
 
 26. Verification of contributions paid through agent
 
-## Part V
+## PART V
 
 ## BENEFITS
 
@@ -114,7 +114,7 @@
 
 <!-- page 6 -->
 
-## Part VI
+## PART VI
 
 ## RE-EMPLOYMENT PLACEMENT PROGRAMME
 
@@ -122,7 +122,7 @@
 
 45. Power to establish centre or institute
 
-## Part VII
+## PART VII
 
 ## FINANCIAL PROVISIONS
 
@@ -174,7 +174,7 @@
 
 <!-- page 7 -->
 
-## Part IX
+## PART IX
 
 ## EMPLOYMENT SERVICES OFFICER, ENFORCEMENT AND INVESTIGATION
 
@@ -200,7 +200,7 @@
 
 77. Compounding of offences
 
-## Part X
+## PART X
 
 ## GENERAL
 
@@ -230,13 +230,13 @@
 
 90. Electronic submission of documents
 
-## First schedule
+## FIRST SCHEDULE
 
-## second schedule
+## SECOND SCHEDULE
 
-## third schedule
+## THIRD SCHEDULE
 
-## Fourth schedule
+## FOURTH SCHEDULE
 
 <!-- page 8 -->
 
@@ -248,7 +248,7 @@ An Act to provide for the Employment Insurance System administered by the Social
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -358,7 +358,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “minimum retirement age” has the meaning assigned to it in the Minimum Retirement Age Act 2012 [Act 753].
 
-## Part II
+## PART II
 
 ## ADMINISTRATION OF EMPLOYMENT INSURANCE SYSTEM
 
@@ -402,7 +402,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (2) Notwithstanding subsection (1), the Director General may, in writing, delegate any of his powers and functions subject to such terms and restrictions as he thinks fit to the Deputy Directors General, Employment Services Officers, or officers and servants of the Organization for the purposes of this Act.
 
-## Part III
+## PART III
 
 ## COMMITTEES
 
@@ -526,7 +526,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 12. If any member of the Committee, or committee established under section 9, has any direct or indirect interest in any matter being considered by the Committee or committee established under section 9, as the case may be, he shall forthwith declare to the Chairman the nature and extent of his interest in the matter and the member shall not be present or take part in any discussion or decision of the Committee, or committee established under section 9, as the case may be, about the matter.
 
-## Part IV
+## PART IV
 
 ## REGISTRATION AND CONTRIBUTIONS
 
@@ -584,19 +584,11 @@ in such manner as prescribed irrespective of the amount of wages.
 
 the case may be.
 
-(4) Where the Minister determines the rates of contribution under subsection (3) to be in accordance with Part I, Part II,
-
-## Part III or Part IV of the Second Schedule, as the case may
-
-be, the assumed monthly wages for the purposes of calculating the benefits shall be as specified in Part I, Part II, Part III or
-
-## Part IV of the Third Schedule, respectively.
+(4) Where the Minister determines the rates of contribution under subsection (3) to be in accordance with Part I, Part II, Part III or Part IV of the Second Schedule, as the case may be, the assumed monthly wages for the purposes of calculating the benefits shall be as specified in Part I, Part II, Part III or Part IV of the Third Schedule, respectively.
 
 (5) Notwithstanding subsections (3) and (4), the Minister may, by order published in the Gazette and subject to such conditions, determine—
 
-(a) the minimum rate of contribution to be paid by an employer in respect of an employee based on the amount of the monthly wages of the employee insured in accordance with Part I, Part II, Part III or
-
-## Part IV of the Second Schedule, as the case may be; and
+(a) the minimum rate of contribution to be paid by an employer in respect of an employee based on the amount of the monthly wages of the employee insured in accordance with Part I, Part II, Part III or Part IV of the Second Schedule, as the case may be; and
 
 <!-- page 21 -->
 
@@ -666,7 +658,7 @@ the case may be.
 
 26. Any contribution paid to the Organization by an employer through any agent appointed under section 25 shall be verified by the Organization.
 
-## Part V
+## PART V
 
 ## BENEFITS
 
@@ -940,7 +932,7 @@ the job search allowance, early re-employment allowance, reduced income allowanc
 
 (2) If an insured person makes a claim for benefits to the Organization under this Act and also makes a representation, claim or complaint under paragraph (1)(a), (b) or (c), as the case may be, the Organization shall hold the determination on the question of loss of employment in respect of the claim for benefits until the insured person’s representation, claim or complaint under paragraph (1)(a), (b) or (c) has been resolved.
 
-## Part VI
+## PART VI
 
 ## RE-EMPLOYMENT PLACEMENT PROGRAMME
 
@@ -978,7 +970,7 @@ the job search allowance, early re-employment allowance, reduced income allowanc
 
 <!-- page 36 -->
 
-## Part VII
+## PART VII
 
 ## FINANCIAL PROVISIONS
 
@@ -1272,7 +1264,7 @@ by equal monthly instalments not exceeding one-fourth of the total monthly salar
 
 <!-- page 48 -->
 
-## Part IX
+## PART IX
 
 ## EMPLOYMENT SERVICES OFFICER, ENFORCEMENT AND
 
@@ -1402,7 +1394,7 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding t
 
 (5) All sums of moneys received by the Director General under this section shall be paid into and form part of the Fund.
 
-## Part X
+## PART X
 
 ## GENERAL
 
@@ -1544,7 +1536,7 @@ may be charged severally or jointly in the same proceedings with the body corpor
 
 (4) The acknowledgment of receipt by the Organization, returns, particulars, records, notices, reports, registers or other documents submitted or furnished pursuant to subsection (3) shall be admissible as evidence in any proceedings.
 
-## First schedule
+## FIRST SCHEDULE
 
 [Section 2]
 
@@ -1568,7 +1560,7 @@ may be charged severally or jointly in the same proceedings with the body corpor
 
 <!-- page 60 -->
 
-## second schedule
+## SECOND SCHEDULE
 
 [Section 18]
 
@@ -1580,9 +1572,7 @@ may be charged severally or jointly in the same proceedings with the body corpor
 
 (b) “wage period” means the period in respect of which the wages earned by an employee are payable.
 
-2. Contributions shall be calculated based on the monthly wages and shall be at the rate as specified in Part I, or if determination has been made by the Minister under subsection 18(3), at the rate as specified in Part I, Part II, Part III or
-
-## Part IV, as the case may be.
+2. Contributions shall be calculated based on the monthly wages and shall be at the rate as specified in Part I, or if determination has been made by the Minister under subsection 18(3), at the rate as specified in Part I, Part II, Part III or Part IV, as the case may be.
 
 ## PART I—RATES OF CONTRIBUTION
 
@@ -3156,7 +3146,7 @@ but not exceed RM4,000
 
 <!-- marginal: RM59.30 -->
 
-## third schedule
+## THIRD SCHEDULE
 
 [Sections 18, 34, 35, 36 and 37]
 
@@ -3214,13 +3204,11 @@ but not exceed RM4,000
 
 ## PART I—ASSUMED MONTHLY WAGES
 
-Actual monthly wages of the month
-
-<!-- marginal: Total -->
+Actual monthly wages of the month Total
 
 <!-- marginal: Corresponding -->
 
-<!-- marginal: contribution -->
+contribution
 
 <!-- marginal: assumed -->
 
@@ -3228,119 +3216,89 @@ Actual monthly wages of the month
 
 <!-- marginal: for the month -->
 
-1 Wages up to RM30 … … … …
-
-<!-- marginal: 10 sen -->
+1 Wages up to RM30 … … … … 10 sen
 
 <!-- marginal: RM20 -->
 
-2 When wages exceed RM30 but not
-
-<!-- marginal: 20 sen -->
+2 When wages exceed RM30 but not 20 sen
 
 <!-- marginal: RM40 -->
 
 exceed RM50
 
-3 When wages exceed RM50 but not
-
-<!-- marginal: 30 sen -->
+3 When wages exceed RM50 but not 30 sen
 
 <!-- marginal: RM60 -->
 
 exceed RM70
 
-4 When wages exceed RM70 but not
-
-<!-- marginal: 40 sen -->
+4 When wages exceed RM70 but not 40 sen
 
 <!-- marginal: RM85 -->
 
 exceed RM100
 
-5 When wages exceed RM100 but not
-
-<!-- marginal: 50 sen -->
+5 When wages exceed RM100 but not 50 sen
 
 <!-- marginal: RM120 -->
 
 exceed RM140
 
-6 When wages exceed RM140 but not
-
-<!-- marginal: 70 sen -->
+6 When wages exceed RM140 but not 70 sen
 
 <!-- marginal: RM170 -->
 
 exceed RM200
 
-7 When wages exceed RM200 but not
-
-<!-- marginal: RM1.00 -->
+7 When wages exceed RM200 but not RM1.00
 
 <!-- marginal: RM250 -->
 
 exceed RM300
 
-8 When wages exceed RM300 but not
-
-<!-- marginal: RM1.40 -->
+8 When wages exceed RM300 but not RM1.40
 
 <!-- marginal: RM350 -->
 
 exceed RM400
 
-9 When wages exceed RM400 but not
-
-<!-- marginal: RM1.80 -->
+9 When wages exceed RM400 but not RM1.80
 
 <!-- marginal: RM450 -->
 
 exceed RM500
 
-10 When wages exceed RM500 but not
-
-<!-- marginal: RM2.20 -->
+10 When wages exceed RM500 but not RM2.20
 
 <!-- marginal: RM550 -->
 
 exceed RM600
 
-11 When wages exceed RM600 but not
-
-<!-- marginal: RM2.60 -->
+11 When wages exceed RM600 but not RM2.60
 
 <!-- marginal: RM650 -->
 
 exceed RM700
 
-12 When wages exceed RM700 but not
-
-<!-- marginal: RM3.00 -->
+12 When wages exceed RM700 but not RM3.00
 
 <!-- marginal: RM750 -->
 
 exceed RM800
 
-13 When wages exceed RM800 but not
-
-<!-- marginal: RM3.40 -->
+13 When wages exceed RM800 but not RM3.40
 
 <!-- marginal: RM850 -->
 
 exceed RM900
 
-14 When wages exceed RM900 but not
-
-<!-- marginal: RM3.80 -->
+14 When wages exceed RM900 but not RM3.80
 
 <!-- marginal: RM950 -->
 
 exceed RM1,000
 
-15 When wages exceed RM1,000 but
-
-<!-- marginal: RM4.20 -->
+15 When wages exceed RM1,000 but RM4.20
 
 <!-- marginal: RM1,050 -->
 
@@ -3464,13 +3422,11 @@ not exceed RM2,800
 
 <!-- page 74 -->
 
-Actual monthly wages of the month
-
-<!-- marginal: Total -->
+Actual monthly wages of the month Total
 
 <!-- marginal: Corresponding -->
 
-<!-- marginal: contribution -->
+contribution
 
 <!-- marginal: assumed -->
 
@@ -3478,117 +3434,89 @@ Actual monthly wages of the month
 
 <!-- marginal: for the month -->
 
-33 When wages exceed RM2,800 but
-
-<!-- marginal: RM11.40 -->
+33 When wages exceed RM2,800 but RM11.40
 
 <!-- marginal: RM2,850 -->
 
 not exceed RM2,900
 
-34 When wages exceed RM2,900 but
-
-<!-- marginal: RM11.80 -->
+34 When wages exceed RM2,900 but RM11.80
 
 <!-- marginal: RM2,950 -->
 
 not exceed RM3,000
 
-35 When wages exceed RM3,000 but
-
-<!-- marginal: RM12.20 -->
+35 When wages exceed RM3,000 but RM12.20
 
 <!-- marginal: RM3,050 -->
 
 not exceed RM3,100
 
-36 When wages exceed RM3,100 but
-
-<!-- marginal: RM12.60 -->
+36 When wages exceed RM3,100 but RM12.60
 
 <!-- marginal: RM3,150 -->
 
 not exceed RM3,200
 
-37 When wages exceed RM3,200 but
-
-<!-- marginal: RM13.00 -->
+37 When wages exceed RM3,200 but RM13.00
 
 <!-- marginal: RM3,250 -->
 
 not exceed RM3,300
 
-38 When wages exceed RM3,300 but
-
-<!-- marginal: RM13.40 -->
+38 When wages exceed RM3,300 but RM13.40
 
 <!-- marginal: RM3,350 -->
 
 not exceed RM3,400
 
-39 When wages exceed RM3,400 but
-
-<!-- marginal: RM13.80 -->
+39 When wages exceed RM3,400 but RM13.80
 
 <!-- marginal: RM3,450 -->
 
 not exceed RM3,500
 
-40 When wages exceed RM3,500 but
-
-<!-- marginal: RM14.20 -->
+40 When wages exceed RM3,500 but RM14.20
 
 <!-- marginal: RM3,550 -->
 
 not exceed RM3,600
 
-41 When wages exceed RM3,600 but
-
-<!-- marginal: RM14.60 -->
+41 When wages exceed RM3,600 but RM14.60
 
 <!-- marginal: RM3,650 -->
 
 not exceed RM3,700
 
-42 When wages exceed RM3,700 but
-
-<!-- marginal: RM15.00 -->
+42 When wages exceed RM3,700 but RM15.00
 
 <!-- marginal: RM3,750 -->
 
 not exceed RM3,800
 
-43 When wages exceed RM3,800 but
-
-<!-- marginal: RM15.40 -->
+43 When wages exceed RM3,800 but RM15.40
 
 <!-- marginal: RM3,850 -->
 
 not exceed RM3,900
 
-44 When wages exceed RM3,900 but
-
-<!-- marginal: RM15.80 -->
+44 When wages exceed RM3,900 but RM15.80
 
 <!-- marginal: RM3,950 -->
 
 not exceed RM4,000
 
-45 When wages exceed RM4,000
-
-<!-- marginal: RM15.80 -->
+45 When wages exceed RM4,000 RM15.80
 
 <!-- marginal: RM3,950 -->
 
 ## PART II—ASSUMED MONTHLY WAGES
 
-Actual monthly wages of the month
-
-<!-- marginal: Total -->
+Actual monthly wages of the month Total
 
 <!-- marginal: Corresponding -->
 
-<!-- marginal: contribution -->
+contribution
 
 <!-- marginal: assumed -->
 
@@ -3596,15 +3524,11 @@ Actual monthly wages of the month
 
 <!-- marginal: for the month -->
 
-1 Wages up to RM30 … … … …
-
-<!-- marginal: 20 sen -->
+1 Wages up to RM30 … … … … 20 sen
 
 <!-- marginal: RM20 -->
 
-2 When wages exceed RM30 but not
-
-<!-- marginal: 40 sen -->
+2 When wages exceed RM30 but not 40 sen
 
 <!-- marginal: RM40 -->
 
@@ -3734,13 +3658,11 @@ not exceed RM1,600
 
 <!-- page 76 -->
 
-Actual monthly wages of the month
-
-<!-- marginal: Total -->
+Actual monthly wages of the month Total
 
 <!-- marginal: Corresponding -->
 
-<!-- marginal: contribution -->
+contribution
 
 <!-- marginal: assumed -->
 
@@ -3748,137 +3670,103 @@ Actual monthly wages of the month
 
 <!-- marginal: for the month -->
 
-21 When wages exceed RM1,600 but
-
-<!-- marginal: RM16.50 -->
+21 When wages exceed RM1,600 but RM16.50
 
 <!-- marginal: RM1,650 -->
 
 not exceed RM1,700
 
-22 When wages exceed RM1,700 but
-
-<!-- marginal: RM17.50 -->
+22 When wages exceed RM1,700 but RM17.50
 
 <!-- marginal: RM1,750 -->
 
 not exceed RM1,800
 
-23 When wages exceed RM1,800 but
-
-<!-- marginal: RM18.50 -->
+23 When wages exceed RM1,800 but RM18.50
 
 <!-- marginal: RM1,850 -->
 
 not exceed RM1,900
 
-24 When wages exceed RM1,900 but
-
-<!-- marginal: RM19.50 -->
+24 When wages exceed RM1,900 but RM19.50
 
 <!-- marginal: RM1,950 -->
 
 not exceed RM2,000
 
-25 When wages exceed RM2,000 but
-
-<!-- marginal: RM20.50 -->
+25 When wages exceed RM2,000 but RM20.50
 
 <!-- marginal: RM2,050 -->
 
 not exceed RM2,100
 
-26 When wages exceed RM2,100 but
-
-<!-- marginal: RM21.50 -->
+26 When wages exceed RM2,100 but RM21.50
 
 <!-- marginal: RM2,150 -->
 
 not exceed RM2,200
 
-27 When wages exceed RM2,200 but
-
-<!-- marginal: RM22.50 -->
+27 When wages exceed RM2,200 but RM22.50
 
 <!-- marginal: RM2,250 -->
 
 not exceed RM2,300
 
-28 When wages exceed RM2,300 but
-
-<!-- marginal: RM23.50 -->
+28 When wages exceed RM2,300 but RM23.50
 
 <!-- marginal: RM2,350 -->
 
 not exceed RM2,400
 
-29 When wages exceed RM2,400 but
-
-<!-- marginal: RM24.50 -->
+29 When wages exceed RM2,400 but RM24.50
 
 <!-- marginal: RM2,450 -->
 
 not exceed RM2,500
 
-30 When wages exceed RM2,500 but
-
-<!-- marginal: RM25.50 -->
+30 When wages exceed RM2,500 but RM25.50
 
 <!-- marginal: RM2,550 -->
 
 not exceed RM2,600
 
-31 When wages exceed RM2,600 but
-
-<!-- marginal: RM26.50 -->
+31 When wages exceed RM2,600 but RM26.50
 
 <!-- marginal: RM2,650 -->
 
 not exceed RM2,700
 
-32 When wages exceed RM2,700 but
-
-<!-- marginal: RM27.50 -->
+32 When wages exceed RM2,700 but RM27.50
 
 <!-- marginal: RM2,750 -->
 
 not exceed RM2,800
 
-33 When wages exceed RM2,800 but
-
-<!-- marginal: RM28.50 -->
+33 When wages exceed RM2,800 but RM28.50
 
 <!-- marginal: RM2,850 -->
 
 not exceed RM2,900
 
-34 When wages exceed RM2,900 but
-
-<!-- marginal: RM29.50 -->
+34 When wages exceed RM2,900 but RM29.50
 
 <!-- marginal: RM2,950 -->
 
 not exceed RM3,000
 
-35 When wages exceed RM3,000 but
-
-<!-- marginal: RM30.50 -->
+35 When wages exceed RM3,000 but RM30.50
 
 <!-- marginal: RM3,050 -->
 
 not exceed RM3,100
 
-36 When wages exceed RM3,100 but
-
-<!-- marginal: RM31.50 -->
+36 When wages exceed RM3,100 but RM31.50
 
 <!-- marginal: RM3,150 -->
 
 not exceed RM3,200
 
-37 When wages exceed RM3,200 but
-
-<!-- marginal: RM32.50 -->
+37 When wages exceed RM3,200 but RM32.50
 
 <!-- marginal: RM3,250 -->
 
@@ -4000,13 +3888,11 @@ exceed RM300
 
 <!-- page 78 -->
 
-Actual monthly wages of the month
-
-<!-- marginal: Total -->
+Actual monthly wages of the month Total
 
 <!-- marginal: Corresponding -->
 
-<!-- marginal: contribution -->
+contribution
 
 <!-- marginal: assumed -->
 
@@ -4014,137 +3900,103 @@ Actual monthly wages of the month
 
 <!-- marginal: for the month -->
 
-8 When wages exceed RM300 but not
-
-<!-- marginal: RM4.20 -->
+8 When wages exceed RM300 but not RM4.20
 
 <!-- marginal: RM350 -->
 
 exceed RM400
 
-9 When wages exceed RM400 but not
-
-<!-- marginal: RM5.40 -->
+9 When wages exceed RM400 but not RM5.40
 
 <!-- marginal: RM450 -->
 
 exceed RM500
 
-10 When wages exceed RM500 but not
-
-<!-- marginal: RM6.60 -->
+10 When wages exceed RM500 but not RM6.60
 
 <!-- marginal: RM550 -->
 
 exceed RM600
 
-11 When wages exceed RM600 but not
-
-<!-- marginal: RM7.80 -->
+11 When wages exceed RM600 but not RM7.80
 
 <!-- marginal: RM650 -->
 
 exceed RM700
 
-12 When wages exceed RM700 but not
-
-<!-- marginal: RM9.00 -->
+12 When wages exceed RM700 but not RM9.00
 
 <!-- marginal: RM750 -->
 
 exceed RM800
 
-13 When wages exceed RM800 but not
-
-<!-- marginal: RM10.20 -->
+13 When wages exceed RM800 but not RM10.20
 
 <!-- marginal: RM850 -->
 
 exceed RM900
 
-14 When wages exceed RM900 but not
-
-<!-- marginal: RM11.40 -->
+14 When wages exceed RM900 but not RM11.40
 
 <!-- marginal: RM950 -->
 
 exceed RM1,000
 
-15 When wages exceed RM1,000 but
-
-<!-- marginal: RM12.60 -->
+15 When wages exceed RM1,000 but RM12.60
 
 <!-- marginal: RM1,050 -->
 
 not exceed RM1,100
 
-16 When wages exceed RM1,100 but
-
-<!-- marginal: RM13.80 -->
+16 When wages exceed RM1,100 but RM13.80
 
 <!-- marginal: RM1,150 -->
 
 not exceed RM1,200
 
-17 When wages exceed RM1,200 but
-
-<!-- marginal: RM15.00 -->
+17 When wages exceed RM1,200 but RM15.00
 
 <!-- marginal: RM1,250 -->
 
 not exceed RM1,300
 
-18 When wages exceed RM1,300 but
-
-<!-- marginal: RM16.20 -->
+18 When wages exceed RM1,300 but RM16.20
 
 <!-- marginal: RM1,350 -->
 
 not exceed RM1,400
 
-19 When wages exceed RM1,400 but
-
-<!-- marginal: RM17.40 -->
+19 When wages exceed RM1,400 but RM17.40
 
 <!-- marginal: RM1,450 -->
 
 not exceed RM1,500
 
-20 When wages exceed RM1,500 but
-
-<!-- marginal: RM18.60 -->
+20 When wages exceed RM1,500 but RM18.60
 
 <!-- marginal: RM1,550 -->
 
 not exceed RM1,600
 
-21 When wages exceed RM1,600 but
-
-<!-- marginal: RM19.80 -->
+21 When wages exceed RM1,600 but RM19.80
 
 <!-- marginal: RM1,650 -->
 
 not exceed RM1,700
 
-22 When wages exceed RM1,700 but
-
-<!-- marginal: RM21.00 -->
+22 When wages exceed RM1,700 but RM21.00
 
 <!-- marginal: RM1,750 -->
 
 not exceed RM1,800
 
-23 When wages exceed RM1,800 but
-
-<!-- marginal: RM22.20 -->
+23 When wages exceed RM1,800 but RM22.20
 
 <!-- marginal: RM1,850 -->
 
 not exceed RM1,900
 
-24 When wages exceed RM1,900 but
-
-<!-- marginal: RM23.40 -->
+24 When wages exceed RM1,900 but RM23.40
 
 <!-- marginal: RM1,950 -->
 
@@ -4262,13 +4114,11 @@ not exceed RM3,600
 
 <!-- page 80 -->
 
-Actual monthly wages of the month
-
-<!-- marginal: Total -->
+Actual monthly wages of the month Total
 
 <!-- marginal: Corresponding -->
 
-<!-- marginal: contribution -->
+contribution
 
 <!-- marginal: assumed -->
 
@@ -4276,53 +4126,41 @@ Actual monthly wages of the month
 
 <!-- marginal: for the month -->
 
-41 When wages exceed RM3,600 but
-
-<!-- marginal: RM43.80 -->
+41 When wages exceed RM3,600 but RM43.80
 
 <!-- marginal: RM3,650 -->
 
 not exceed RM3,700
 
-42 When wages exceed RM3,700 but
-
-<!-- marginal: RM45.00 -->
+42 When wages exceed RM3,700 but RM45.00
 
 <!-- marginal: RM3,750 -->
 
 not exceed RM3,800
 
-43 When wages exceed RM3,800 but
-
-<!-- marginal: RM46.20 -->
+43 When wages exceed RM3,800 but RM46.20
 
 <!-- marginal: RM3,850 -->
 
 not exceed RM3,900
 
-44 When wages exceed RM3,900 but
-
-<!-- marginal: RM47.40 -->
+44 When wages exceed RM3,900 but RM47.40
 
 <!-- marginal: RM3,950 -->
 
 not exceed RM4,000
 
-45 When wages exceed RM4,000
-
-<!-- marginal: RM47.40 -->
+45 When wages exceed RM4,000 RM47.40
 
 <!-- marginal: RM3,950 -->
 
 ## PART IV—ASSUMED MONTHLY WAGES
 
-Actual monthly wages of the month
-
-<!-- marginal: Total -->
+Actual monthly wages of the month Total
 
 <!-- marginal: Corresponding -->
 
-<!-- marginal: contribution -->
+contribution
 
 <!-- marginal: assumed -->
 
@@ -4330,79 +4168,59 @@ Actual monthly wages of the month
 
 <!-- marginal: for the month -->
 
-1 Wages up to RM30 … … … …
-
-<!-- marginal: 30 sen -->
+1 Wages up to RM30 … … … … 30 sen
 
 <!-- marginal: RM20 -->
 
-2 When wages exceed RM30 but not
-
-<!-- marginal: 60 sen -->
+2 When wages exceed RM30 but not 60 sen
 
 <!-- marginal: RM40 -->
 
 exceed RM50
 
-3 When wages exceed RM50 but not
-
-<!-- marginal: 90 sen -->
+3 When wages exceed RM50 but not 90 sen
 
 <!-- marginal: RM60 -->
 
 exceed RM70
 
-4 When wages exceed RM70 but not
-
-<!-- marginal: RM1.30 -->
+4 When wages exceed RM70 but not RM1.30
 
 <!-- marginal: RM85 -->
 
 exceed RM100
 
-5 When wages exceed RM100 but not
-
-<!-- marginal: RM1.80 -->
+5 When wages exceed RM100 but not RM1.80
 
 <!-- marginal: RM120 -->
 
 exceed RM140
 
-6 When wages exceed RM140 but not
-
-<!-- marginal: RM2.60 -->
+6 When wages exceed RM140 but not RM2.60
 
 <!-- marginal: RM170 -->
 
 exceed RM200
 
-7 When wages exceed RM200 but not
-
-<!-- marginal: RM3.80 -->
+7 When wages exceed RM200 but not RM3.80
 
 <!-- marginal: RM250 -->
 
 exceed RM300
 
-8 When wages exceed RM300 but not
-
-<!-- marginal: RM5.30 -->
+8 When wages exceed RM300 but not RM5.30
 
 <!-- marginal: RM350 -->
 
 exceed RM400
 
-9 When wages exceed RM400 but not
-
-<!-- marginal: RM6.80 -->
+9 When wages exceed RM400 but not RM6.80
 
 <!-- marginal: RM450 -->
 
 exceed RM500
 
-10 When wages exceed RM500 but not
-
-<!-- marginal: RM8.30 -->
+10 When wages exceed RM500 but not RM8.30
 
 <!-- marginal: RM550 -->
 
@@ -4526,13 +4344,11 @@ not exceed RM2,300
 
 <!-- page 82 -->
 
-Actual monthly wages of the month
-
-<!-- marginal: Total -->
+Actual monthly wages of the month Total
 
 <!-- marginal: Corresponding -->
 
-<!-- marginal: contribution -->
+contribution
 
 <!-- marginal: assumed -->
 
@@ -4540,587 +4356,267 @@ Actual monthly wages of the month
 
 <!-- marginal: for the month -->
 
-28 When wages exceed RM2,300 but
-
-<!-- marginal: RM35.30 -->
+28 When wages exceed RM2,300 but RM35.30
 
 <!-- marginal: RM2,350 -->
 
 not exceed RM2,400
 
-29 When wages exceed RM2,400 but
-
-<!-- marginal: RM36.80 -->
+29 When wages exceed RM2,400 but RM36.80
 
 <!-- marginal: RM2,450 -->
 
 not exceed RM2,500
 
-30 When wages exceed RM2,500 but
-
-<!-- marginal: RM38.30 -->
+30 When wages exceed RM2,500 but RM38.30
 
 <!-- marginal: RM2,550 -->
 
 not exceed RM2,600
 
-31 When wages exceed RM2,600 but
-
-<!-- marginal: RM39.80 -->
+31 When wages exceed RM2,600 but RM39.80
 
 <!-- marginal: RM2,650 -->
 
 not exceed RM2,700
 
-32 When wages exceed RM2,700 but
-
-<!-- marginal: RM41.30 -->
+32 When wages exceed RM2,700 but RM41.30
 
 <!-- marginal: RM2,750 -->
 
 not exceed RM2,800
 
-33 When wages exceed RM2,800 but
-
-<!-- marginal: RM42.80 -->
+33 When wages exceed RM2,800 but RM42.80
 
 <!-- marginal: RM2,850 -->
 
 not exceed RM2,900
 
-34 When wages exceed RM2,900 but
-
-<!-- marginal: RM44.30 -->
+34 When wages exceed RM2,900 but RM44.30
 
 <!-- marginal: RM2,950 -->
 
 not exceed RM3,000
 
-35 When wages exceed RM3,000 but
-
-<!-- marginal: RM45.80 -->
+35 When wages exceed RM3,000 but RM45.80
 
 <!-- marginal: RM3,050 -->
 
 not exceed RM3,100
 
-36 When wages exceed RM3,100 but
-
-<!-- marginal: RM47.30 -->
+36 When wages exceed RM3,100 but RM47.30
 
 <!-- marginal: RM3,150 -->
 
 not exceed RM3,200
 
-37 When wages exceed RM3,200 but
-
-<!-- marginal: RM48.80 -->
+37 When wages exceed RM3,200 but RM48.80
 
 <!-- marginal: RM3,250 -->
 
 not exceed RM3,300
 
-38 When wages exceed RM3,300 but
-
-<!-- marginal: RM50.30 -->
+38 When wages exceed RM3,300 but RM50.30
 
 <!-- marginal: RM3,350 -->
 
 not exceed RM3,400
 
-39 When wages exceed RM3,400 but
-
-<!-- marginal: RM51.80 -->
+39 When wages exceed RM3,400 but RM51.80
 
 <!-- marginal: RM3,450 -->
 
 not exceed RM3,500
 
-40 When wages exceed RM3,500 but
-
-<!-- marginal: RM53.30 -->
+40 When wages exceed RM3,500 but RM53.30
 
 <!-- marginal: RM3,550 -->
 
 not exceed RM3,600
 
-41 When wages exceed RM3,600 but
-
-<!-- marginal: RM54.80 -->
+41 When wages exceed RM3,600 but RM54.80
 
 <!-- marginal: RM3,650 -->
 
 not exceed RM3,700
 
-42 When wages exceed RM3,700 but
-
-<!-- marginal: RM56.30 -->
+42 When wages exceed RM3,700 but RM56.30
 
 <!-- marginal: RM3,750 -->
 
 not exceed RM3,800
 
-43 When wages exceed RM3,800 but
-
-<!-- marginal: RM57.80 -->
+43 When wages exceed RM3,800 but RM57.80
 
 <!-- marginal: RM3,850 -->
 
 not exceed RM3,900
 
-44 When wages exceed RM3,900 but
-
-<!-- marginal: RM59.30 -->
+44 When wages exceed RM3,900 but RM59.30
 
 <!-- marginal: RM3,950 -->
 
 not exceed RM4,000
 
-45 When wages exceed RM4,000
-
-<!-- marginal: RM59.30 -->
+45 When wages exceed RM4,000 RM59.30
 
 <!-- marginal: RM3,950 -->
 
 <!-- page 83 -->
 
-## Fourth schedule
+## FOURTH SCHEDULE
 
 [Sections 32, 34 and 36]
 
 ## CONTRIBUTIONS QUALIFYING CONDITIONS
 
-Contributions qualifying conditions
-
-<!-- marginal: Period of -->
-
-<!-- marginal: payment for -->
-
-<!-- marginal: job search -->
-
-<!-- marginal: allowance and -->
-
-<!-- marginal: reduced income -->
-
-<!-- marginal: allowance -->
+Contributions qualifying conditions Period of payment for job search allowance and reduced income allowance
 
 (a) First claim
 
-(i) 12 to 15 months of contributions made in
+(i) 12 to 15 months of contributions made in 3 months the eligibility period of 24 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-<!-- marginal: 3 months -->
+(ii) 16 to 19 months of contributions made in 4 months the eligibility period of 24 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-the eligibility period of 24 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
+(iii) 20 to 23 months of contributions made in 5 months the eligibility period of 24 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-(ii) 16 to 19 months of contributions made in
-
-<!-- marginal: 4 months -->
-
-the eligibility period of 24 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
-
-(iii) 20 to 23 months of contributions made in
-
-<!-- marginal: 5 months -->
-
-the eligibility period of 24 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
-
-(iv) 24 months of contributions made in the
-
-<!-- marginal: 6 months -->
-
-eligibility period of 24 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
+(iv) 24 months of contributions made in the 6 months eligibility period of 24 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
 (b) Second claim
 
-(i) 18 to 23 months of contributions made in
-
-<!-- marginal: 3 months -->
-
-the eligibility period of 36 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
+(i) 18 to 23 months of contributions made in 3 months the eligibility period of 36 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
 <!-- page 84 -->
 
-Contributions qualifying conditions
+Contributions qualifying conditions Period of payment for job search allowance and reduced income allowance
 
-<!-- marginal: Period of -->
+(ii) 24 to 29 months of contributions made in 4 months the eligibility period of 36 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-<!-- marginal: payment for -->
+(iii) 30 to 35 months of contributions made in 5 months the eligibility period of 36 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-<!-- marginal: job search -->
-
-<!-- marginal: allowance and -->
-
-<!-- marginal: reduced income -->
-
-<!-- marginal: allowance -->
-
-(ii) 24 to 29 months of contributions made in
-
-<!-- marginal: 4 months -->
-
-the eligibility period of 36 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
-
-(iii) 30 to 35 months of contributions made in
-
-<!-- marginal: 5 months -->
-
-the eligibility period of 36 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
-
-(iv) 36 months of contributions made in the
-
-<!-- marginal: 6 months -->
-
-eligibility period of 36 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
+(iv) 36 months of contributions made in the 6 months eligibility period of 36 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
 (c) Third claim
 
-(i) 24 to 31 months of contributions made in
+(i) 24 to 31 months of contributions made in 3 months the eligibility period of 48 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-<!-- marginal: 3 months -->
+(ii) 32 to 39 months of contributions made in 4 months the eligibility period of 48 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-the eligibility period of 48 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
-
-(ii) 32 to 39 months of contributions made in
-
-<!-- marginal: 4 months -->
-
-the eligibility period of 48 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
-
-(iii) 40 to 47 months of contributions made in
-
-<!-- marginal: 5 months -->
-
-the eligibility period of 48 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
+(iii) 40 to 47 months of contributions made in 5 months the eligibility period of 48 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
 <!-- page 85 -->
 
-Contributions qualifying conditions
+Contributions qualifying conditions Period of payment for job search allowance and reduced income allowance
 
-<!-- marginal: Period of -->
-
-<!-- marginal: payment for -->
-
-<!-- marginal: job search -->
-
-<!-- marginal: allowance and -->
-
-<!-- marginal: reduced income -->
-
-<!-- marginal: allowance -->
-
-(iv) 48 months of contributions made in the
-
-<!-- marginal: 6 months -->
-
-eligibility period of 48 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
+(iv) 48 months of contributions made in the 6 months eligibility period of 48 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
 (d) Fourth claim
 
-(i) 30 to 39 months of contributions made in
+(i) 30 to 39 months of contributions made in 3 months the eligibility period of 60 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-<!-- marginal: 3 months -->
+(ii) 40 to 49 months of contributions made in 4 months the eligibility period of 60 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-the eligibility period of 60 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
+(iii) 50 to 59 months of contributions made in 5 months the eligibility period of 60 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-(ii) 40 to 49 months of contributions made in
-
-<!-- marginal: 4 months -->
-
-the eligibility period of 60 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
-
-(iii) 50 to 59 months of contributions made in
-
-<!-- marginal: 5 months -->
-
-the eligibility period of 60 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
-
-(iv) 60 months of contributions made in the
-
-<!-- marginal: 6 months -->
-
-eligibility period of 60 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
+(iv) 60 months of contributions made in the 6 months eligibility period of 60 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
 (e) Fifth claim
 
-(i) 36 to 47 months of contributions made in
-
-<!-- marginal: 3 months -->
-
-the eligibility period of 72 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
+(i) 36 to 47 months of contributions made in 3 months the eligibility period of 72 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
 <!-- page 86 -->
 
-Contributions qualifying conditions
+Contributions qualifying conditions Period of payment for job search allowance and reduced income allowance
 
-<!-- marginal: Period of -->
+(ii) 48 to 59 months of contributions made in 4 months the eligibility period of 72 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-<!-- marginal: payment for -->
+(iii) 60 to 71 months of contributions made in 5 months the eligibility period of 72 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-<!-- marginal: job search -->
-
-<!-- marginal: allowance and -->
-
-<!-- marginal: reduced income -->
-
-<!-- marginal: allowance -->
-
-(ii) 48 to 59 months of contributions made in
-
-<!-- marginal: 4 months -->
-
-the eligibility period of 72 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
-
-(iii) 60 to 71 months of contributions made in
-
-<!-- marginal: 5 months -->
-
-the eligibility period of 72 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
-
-(iv) 72 months of contributions made in the
-
-<!-- marginal: 6 months -->
-
-eligibility period of 72 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
+(iv) 72 months of contributions made in the 6 months eligibility period of 72 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
 (f) Sixth claim
 
-(i) 42 to 55 months of contributions made in
+(i) 42 to 55 months of contributions made in 3 months the eligibility period of 84 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-<!-- marginal: 3 months -->
+(ii) 56 to 69 months of contributions made in 4 months the eligibility period of 84 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-the eligibility period of 84 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
-
-(ii) 56 to 69 months of contributions made in
-
-<!-- marginal: 4 months -->
-
-the eligibility period of 84 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
-
-(iii) 70 to 83 months of contributions made in
-
-<!-- marginal: 5 months -->
-
-the eligibility period of 84 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
+(iii) 70 to 83 months of contributions made in 5 months the eligibility period of 84 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
 <!-- page 87 -->
 
-Contributions qualifying conditions
+Contributions qualifying conditions Period of payment for job search allowance and reduced income allowance
 
-<!-- marginal: Period of -->
-
-<!-- marginal: payment for -->
-
-<!-- marginal: job search -->
-
-<!-- marginal: allowance and -->
-
-<!-- marginal: reduced income -->
-
-<!-- marginal: allowance -->
-
-(iv) 84 months of contributions made in the
-
-<!-- marginal: 6 months -->
-
-eligibility period of 84 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
+(iv) 84 months of contributions made in the 6 months eligibility period of 84 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
 (g) Seventh claim
 
-(i) 48 to 63 months of contributions made in
+(i) 48 to 63 months of contributions made in 3 months the eligibility period of 96 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-<!-- marginal: 3 months -->
+(ii) 64 to 79 months of contributions made in 4 months the eligibility period of 96 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-the eligibility period of 96 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
+(iii) 80 to 95 months of contributions made in 5 months the eligibility period of 96 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-(ii) 64 to 79 months of contributions made in
-
-<!-- marginal: 4 months -->
-
-the eligibility period of 96 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
-
-(iii) 80 to 95 months of contributions made in
-
-<!-- marginal: 5 months -->
-
-the eligibility period of 96 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
-
-(iv) 96 months of contributions made in the
-
-<!-- marginal: 6 months -->
-
-eligibility period of 96 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
+(iv) 96 months of contributions made in the 6 months eligibility period of 96 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
 (h) Eighth claim
 
-(i) 54 to 71 months of contributions made in
-
-<!-- marginal: 3 months -->
-
-the eligibility period of 108 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
+(i) 54 to 71 months of contributions made in 3 months the eligibility period of 108 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
 <!-- page 88 -->
 
-Contributions qualifying conditions
+Contributions qualifying conditions Period of payment for job search allowance and reduced income allowance
 
-<!-- marginal: Period of -->
+(ii) 72 to 89 months of contributions made in 4 months the eligibility period of 108 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-<!-- marginal: payment for -->
+(iii) 90 to 107 months of contributions made in 5 months the eligibility period of 108 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-<!-- marginal: job search -->
-
-<!-- marginal: allowance and -->
-
-<!-- marginal: reduced income -->
-
-<!-- marginal: allowance -->
-
-(ii) 72 to 89 months of contributions made in
-
-<!-- marginal: 4 months -->
-
-the eligibility period of 108 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
-
-(iii) 90 to 107 months of contributions made in
-
-<!-- marginal: 5 months -->
-
-the eligibility period of 108 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
-
-(iv) 108 months of contributions made in the
-
-<!-- marginal: 6 months -->
-
-eligibility period of 108 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
+(iv) 108 months of contributions made in the 6 months eligibility period of 108 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
 (i) Ninth claim
 
-(i) 60 to 79 months of contributions made in
+(i) 60 to 79 months of contributions made in 3 months the eligibility period of 120 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-<!-- marginal: 3 months -->
+(ii) 80 to 99 months of contributions made in 4 months the eligibility period of 120 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-the eligibility period of 120 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
-
-(ii) 80 to 99 months of contributions made in
-
-<!-- marginal: 4 months -->
-
-the eligibility period of 120 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
-
-(iii) 100 to 119 months of contributions made in
-
-<!-- marginal: 5 months -->
-
-the eligibility period of 120 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
+(iii) 100 to 119 months of contributions made in 5 months the eligibility period of 120 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
 <!-- page 89 -->
 
-Contributions qualifying conditions
+Contributions qualifying conditions Period of payment for job search allowance and reduced income allowance
 
-<!-- marginal: Period of -->
-
-<!-- marginal: payment for -->
-
-<!-- marginal: job search -->
-
-<!-- marginal: allowance and -->
-
-<!-- marginal: reduced income -->
-
-<!-- marginal: allowance -->
-
-(iv) 120 months of contributions made in the
-
-<!-- marginal: 6 months -->
-
-eligibility period of 120 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
+(iv) 120 months of contributions made in the 6 months eligibility period of 120 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
 (j) Tenth claim
 
-(i) 66 to 87 months of contributions made in
+(i) 66 to 87 months of contributions made in 3 months the eligibility period of 132 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-<!-- marginal: 3 months -->
+(ii) 88 to 109 months of contributions made in 4 months the eligibility period of 132 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-the eligibility period of 132 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
+(iii) 110 to 131 months of contributions made in 5 months the eligibility period of 132 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-(ii) 88 to 109 months of contributions made in
-
-<!-- marginal: 4 months -->
-
-the eligibility period of 132 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
-
-(iii) 110 to 131 months of contributions made in
-
-<!-- marginal: 5 months -->
-
-the eligibility period of 132 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
-
-(iv) 132 months of contributions made in the
-
-<!-- marginal: 6 months -->
-
-eligibility period of 132 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
+(iv) 132 months of contributions made in the 6 months eligibility period of 132 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
 (k) Eleventh claim
 
-(i) 72 to 95 months of contributions made in
-
-<!-- marginal: 3 months -->
-
-the eligibility period of 144 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
+(i) 72 to 95 months of contributions made in 3 months the eligibility period of 144 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
 <!-- page 90 -->
 
-Contributions qualifying conditions
+Contributions qualifying conditions Period of payment for job search allowance and reduced income allowance
 
-<!-- marginal: Period of -->
+(ii) 96 to 119 months of contributions made in 4 months the eligibility period of 144 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-<!-- marginal: payment for -->
+(iii) 120 to 143 months of contributions made in 5 months the eligibility period of 144 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-<!-- marginal: job search -->
-
-<!-- marginal: allowance and -->
-
-<!-- marginal: reduced income -->
-
-<!-- marginal: allowance -->
-
-(ii) 96 to 119 months of contributions made in
-
-<!-- marginal: 4 months -->
-
-the eligibility period of 144 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
-
-(iii) 120 to 143 months of contributions made in
-
-<!-- marginal: 5 months -->
-
-the eligibility period of 144 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
-
-(iv) 144 months of contributions made in the
-
-<!-- marginal: 6 months -->
-
-eligibility period of 144 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
+(iv) 144 months of contributions made in the 6 months eligibility period of 144 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
 (l) Twelfth claim
 
-(i) 78 to 103 months of contributions made in
+(i) 78 to 103 months of contributions made in 3 months the eligibility period of 156 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-<!-- marginal: 3 months -->
+(ii) 104 to 129 months of contributions made in 4 months the eligibility period of 156 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
-the eligibility period of 156 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
-
-(ii) 104 to 129 months of contributions made in
-
-<!-- marginal: 4 months -->
-
-the eligibility period of 156 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
-
-(iii) 130 to 155 months of contributions made in
-
-<!-- marginal: 5 months -->
-
-the eligibility period of 156 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
+(iii) 130 to 155 months of contributions made in 5 months the eligibility period of 156 consecutive months immediately preceding the loss of employment which shall include the month in which the loss of employment occurs.
 
 <!-- page 91 -->
 
@@ -5148,7 +4644,7 @@ eligibility period of 156 consecutive months immediately preceding the loss of e
 
 The proposed Employment Insurance System Act 2017 (“the proposed Act”) seeks to provide for an insurance system for insured persons who have lost their employments by providing certain benefits and re-employment placement programme. The Employment Insurance System will promote active labour market policies.
 
-## Part I
+## PART I
 
 1. Part I deals with preliminary matters.
 
@@ -5158,7 +4654,7 @@ The proposed Employment Insurance System Act 2017 (“the proposed Act”) seeks
 
 4. Clause 3 contains the definitions of certain words and expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 5. Part II deals with the administration of the Employment Insurance System (“System”).
 
@@ -5174,7 +4670,7 @@ Directors General, respectively, for the purpose of the proposed Act. Clause 5 a
 
 9. Clause 7 seeks to provide that all functions which may be exercised by the Organization shall be exercised by the Director General and the Director General is empowered to delegate his powers and functions to the Deputy Directors General, Employment Services Officers, or officers and servants of the Organization for the purpose of the proposed Act.
 
-## Part III
+## PART III
 
 10. Part III deals with the establishment of the Employment Insurance Committee (“Committee”) and any other committee.
 
@@ -5188,7 +4684,7 @@ Directors General, respectively, for the purpose of the proposed Act. Clause 5 a
 
 15. Clause 12 seeks to provide for disclosure of interest of any member of the Committee or any committee established under clause 9 if he has any direct or indirect interest in any matter being considered by the Committee or committee.
 
-## Part IV
+## PART IV
 
 16. Part IV deals with the registration of industries and employees, and contribution to be made under the proposed Act.
 
@@ -5208,13 +4704,7 @@ Directors General, respectively, for the purpose of the proposed Act. Clause 5 a
 
 Clause 18 also empowers the Minister, after taking into consideration the sustainability of the Fund, to determine the rates of contribution to be in accordance with the proposed Part I, Part II, Part III or Part IV of the Second Schedule, as the case may be, in every three years or more.
 
-Clause 18 also empowers the Minister to determine the minimum rate of contribution based on the amount of the monthly wages of the employee insured in accordance with the proposed Part I, Part II, Part III or
-
-## Part IV of the Second Schedule, as the case may be, and the minimum
-
-rate of benefits based on the amount of the assumed monthly wages of the employee insured in accordance with the proposed Part I, Part II, Part III or
-
-## Part IV of the Third Schedule, as the case may be.
+Clause 18 also empowers the Minister to determine the minimum rate of contribution based on the amount of the monthly wages of the employee insured in accordance with the proposed Part I, Part II, Part III or Part IV of the Second Schedule, as the case may be, and the minimum rate of benefits based on the amount of the assumed monthly wages of the employee insured in accordance with the proposed Part I, Part II, Part III or Part IV of the Third Schedule, as the case may be.
 
 23. Clause 19 seeks to provide that if an employee has two or more employers, every employer shall pay the contributions in respect of the employee separately.
 
@@ -5234,7 +4724,7 @@ rate of benefits based on the amount of the assumed monthly wages of the employe
 
 30. Clause 26 seeks to provide that any contribution paid to the Organization by an employer through any agent shall be verified by the Organization.
 
-## Part V
+## PART V
 
 31. Part V deals with benefits provided to an insured person in the event of loss of employment.
 
@@ -5284,7 +4774,7 @@ Clause 37 also provides that an insured person who attends the training is entit
 
 <!-- page 97 -->
 
-## Part VI
+## PART VI
 
 49. Part VI deals with the re-employment placement programme for an insured person.
 
@@ -5292,7 +4782,7 @@ Clause 37 also provides that an insured person who attends the training is entit
 
 51. Clause 45 seeks to empower the Organization to establish any centre or institute for the purpose of providing the re-employment placement programme to insured persons.
 
-## Part VII
+## PART VII
 
 52. Part VII deals with financial provisions.
 
@@ -5346,7 +4836,7 @@ Clause 37 also provides that an insured person who attends the training is entit
 
 74. Clause 66 seeks to provide that the Appellate Board may, and if directed by the High Court shall, withhold the order appealed against relating to the payment of any sum of money pending the decision of the appeal.
 
-## Part IX
+## PART IX
 
 75. Part IX deals with the provisions relating to the Employment Services Officer, enforcement and investigation.
 
@@ -5374,7 +4864,7 @@ Clause 37 also provides that an insured person who attends the training is entit
 
 86. Clause 77 seeks to empower the Minister, with the approval of the Public Prosecutor, to make regulations prescribing any offence under the proposed Act or any regulations made under the proposed Act to be compoundable offence and the criteria, method and procedure for compounding such offence. Clause 77 also empowers the Director General or any authorized officer to compound such offences with the consent in writing of the Public Prosecutor. All sums of moneys received by the Director General under this clause shall be paid into and form part of the Employment Insurance Fund.
 
-## Part X
+## PART X
 
 87. Part X deals with general provisions.
 

@@ -12,7 +12,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
-1. (1) Akta ini bolehlah dinamakan Akta Hakmilik Strata (Pindaan) 2016.
+1. (1) Akta ini bolehlah dinamakan Akta Hakmilik Strata (Pindaan)
+
+2016.
 
 (2) Akta ini mula berkuat kuasa di setiap Negeri pada tarikh yang ditetapkan oleh Menteri, dengan kelulusan Majlis Tanah Negara berhubung dengan Negeri itu, melalui pemberitahuan dalam Warta, dan Menteri boleh, dengan kelulusan Majlis Tanah Negara, menetapkan tarikh yang berlainan bagi permulaan kuat kuasa peruntukan yang berlainan dalam Akta ini.
 
@@ -220,7 +222,7 @@ boleh memberi pengecualian bagi dokumen dalam perenggan (1)(e) dan (i) atau meng
 
 18. Akta ibu dipinda dengan memasukkan selepas Bahagian IV bahagian yang berikut:
 
-“bahagian iVa
+## “BAHAGIAN IVA
 
 ## KUTIPAN CUKAI
 
@@ -398,7 +400,7 @@ dengan, petak atau blok sementara yang terkesan oleh penyemakan dengan mengganti
 
 23j. Berhubung dengan memorial yang dibuat menurut subseksyen 57(2), Pendaftar hendaklah membuat suatu memorial pada dokumen hak milik daftar dan keluaran bagi lot itu, tarikh yang cukai bagi lot itu mula berkuat kuasa pada tahun kalendar yang berikutnya pada semakan terkini menurut seksyen 101 Kanun Tanah Negara.
 
-bahagian IVb
+## BAHAGIAN IVB
 
 ## PELUCUTHAKAN DAN PELETAKHAKAN
 
@@ -606,7 +608,7 @@ daripada dilakukan, berkaitan dengan apa-apa pelucuthakan di bawah Bahagian ini.
 
 27. Akta ibu dipinda dengan memasukkan selepas Bahagian VIII bahagian yang berikut:
 
-“bahagian VIIIa
+## “BAHAGIAN VIIIA
 
 ## KESAN PENGAMBILAN BANGUNAN ATAU TANAH
 
@@ -660,7 +662,7 @@ sebelum atau selepas permulaan kuat kuasa Sistem Pengkomputeran Hakmilik Strata 
 
 30. Akta ibu dipinda dengan memasukkan selepas Jadual Keenam jadual yang berikut:
 
-“Jadual KetuJuh
+## “JADUAL KETUJUH
 
 [Seksyen 57a]
 

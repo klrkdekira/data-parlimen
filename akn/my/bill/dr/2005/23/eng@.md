@@ -34,15 +34,17 @@ Bill
 
 ## SCHEDULE
 
-Amount
+<!-- marginal: Amount -->
 
 Purpose Title
 
-(RM)
+<!-- marginal: (RM) -->
 
 B. 1 Parliament 58,992,100
 
-B. 2 Office of the Keeper of the Rulers' Seal 1,886,600
+B. 2 Office of the Keeper of the Rulers' Seal
+
+<!-- marginal: 1,886,600 -->
 
 B. 3 Audit Department 87,430,000
 
@@ -120,9 +122,7 @@ B 40 Education Service Commission
 
 B 41
 
-Ministry of Education
-
-<!-- marginal: 17,542,945,200 -->
+Ministry of Education 17,542,945,200
 
 B 42
 

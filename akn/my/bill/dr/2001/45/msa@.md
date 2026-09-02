@@ -6,9 +6,7 @@
 
 bernama
 
-Suatu Akta untuk meminda Akta Majlis Peperiksaan Malaysia
-
-1980.
+Suatu Akta untuk meminda Akta Majlis Peperiksaan Malaysia 1980.
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 

@@ -261,7 +261,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/20/msa@/~cl_8",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam Borang MS 24— dengan perkataan “*DIKURUNG DI DALAM PENJARA/DITAHAN DI BAWAH MANA-MANA UNDANG-UNDANG BERTULIS”; *Potong jika tidak berkenaan.”; dan"
+        "@value": "dalam Borang MS 24—"
       }
     },
     {
@@ -271,7 +271,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/20/msa@/~cl_8__para_c",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam kepala Borang MS 24, dengan menggantikan perkataan “DI DALAM PENJARA”"
+        "@value": "dalam kepala Borang MS 24, dengan menggantikan perkataan “DI DALAM PENJARA” dengan perkataan “*DIKURUNG DI DALAM PENJARA/DITAHAN DI BAWAH MANA-MANA UNDANG-UNDANG BERTULIS”;"
       }
     },
     {
@@ -301,7 +301,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/20/msa@/~cl_8__para_c",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perkataan “Diangkat sumpah (seperti dalam Borang MS 26).” dengan perkataan “Diangkat sumpah (seperti dalam Borang MS 26)."
+        "@value": "dengan menggantikan perkataan “Diangkat sumpah (seperti dalam Borang MS 26).” dengan perkataan “Diangkat sumpah (seperti dalam Borang MS 26). *Potong jika tidak berkenaan.”; dan"
       }
     },
     {
@@ -315,7 +315,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/20/msa@/~cl_8",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam Borang MS 25— dengan perkataan “*DIKURUNG DI DALAM PENJARA/DITAHAN DI BAWAH MANA-MANA UNDANG-UNDANG BERTULIS”; dan (Wilayah-Wilayah Persekutuan) (Pindaan)"
+        "@value": "dalam Borang MS 25—"
       }
     },
     {
@@ -325,7 +325,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/20/msa@/~cl_8__para_d",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam kepala Borang MS 25, dengan menggantikan perkataan “DI DALAM PENJARA”"
+        "@value": "dalam kepala Borang MS 25, dengan menggantikan perkataan “DI DALAM PENJARA” dengan perkataan “*DIKURUNG DI DALAM PENJARA/DITAHAN DI BAWAH MANA-MANA UNDANG-UNDANG BERTULIS”; dan"
       }
     },
     {
@@ -335,7 +335,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/20/msa@/~cl_8__para_d",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perkataan “seorang banduan di .....................................” dengan perkataan “*orang yang dikurung di dalam ..................../ditahan di ....................”."
+        "@value": "dengan menggantikan perkataan “seorang banduan di .....................................” dengan perkataan “*orang yang dikurung di dalam ..................../ditahan di ....................”. (Wilayah-Wilayah Persekutuan) (Pindaan)"
       }
     }
   ]

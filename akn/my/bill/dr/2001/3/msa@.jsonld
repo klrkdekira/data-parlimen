@@ -367,7 +367,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/3/msa@/~cl_6",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (4)— Pindaan seksyen 9"
+        "@value": "dalam subseksyen (4)—"
       }
     },
     {
@@ -387,7 +387,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/3/msa@/~cl_6__para_b",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam teks bahasa Inggeris, dengan menggantikan perkataan \"his\" dengan perkataan \"its\"."
+        "@value": "dalam teks bahasa Inggeris, dengan menggantikan perkataan \"his\" dengan perkataan \"its\". Pindaan seksyen 9"
       }
     },
     {

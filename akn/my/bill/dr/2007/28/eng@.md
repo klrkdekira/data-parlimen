@@ -62,4 +62,6 @@ This Bill seeks to amend the Street, Drainage and Building Act 1974 ("the Act 13
 
 ## FINANCIAL IMPLICATIONS
 
-This Bill will involve the Government in extra financial expenditure, the amount of which cannot at present be ascertained. [PN(U2)2071]
+This Bill will involve the Government in extra financial expenditure, the amount of which cannot at present be ascertained.
+
+<!-- marginal: [PN(U2)2071] -->

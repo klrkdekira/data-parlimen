@@ -26,7 +26,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 Rang Undang-Undang
 
-## Jadual
+## JADUAL
 
 Maksud Tajuk
 
@@ -66,7 +66,7 @@ B. 42 Kementerian Kesihatan
 
 <!-- marginal: 200,723,500 -->
 
-<!-- marginal: Jumlah -->
+## JUMLAH
 
 <!-- marginal: 2,223,520,310 -->
 

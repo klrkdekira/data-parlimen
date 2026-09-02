@@ -1,0 +1,1291 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-28-2010",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_46",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_47"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Pemberi Pinjam Wang (Pindaan) 2010"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 6 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_10__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_10__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_10__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_10__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “moneylender”, di mana-mana jua terdapat, dengan perkataan “licensee”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_10__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_10__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (c) dengan perenggan yang berikut: “ (c) a business name, whether of an individual or of a firm in which he is a partner, under which he or the firm has been registered— (i) in the case of Peninsular Malaysia and the Federal Territory of Labuan, under the Registration of Businesses Act 1956 [Act 197]; (ii) in the case of the State of Sabah, under the Trade Licensing Ordinance [Sabah Cap. 144]; and (iii) in the case of the State of Sarawak, the Businesses, Professions and Trade Licensing Ordinance [Sarawak Cap. 33] and the Business Names Ordinance [Sarawak Cap. 64]”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “moneylender’s” dengan perkataan “licensee’s”. Pindaan seksyen 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 8 Akta ibu dipinda dengan menggantikan perkataan “any person” dengan perkataan “a licensee”. Pindaan seksyen 9a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 9a Akta ibu dipinda dengan menggantikan perkataan “moneylender”, di mana-mana jua terdapat, dengan perkataan “licensee”. Pindaan seksyen 9f"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_13__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 9f Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “person” dengan perkataan “licensee”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(3) A licensee may surrender his licence on his own initiative by forwarding the licence to the Registrar with a written notice of the surrender of the licence. (4) The surrender of the licence shall take effect fourteen days from the date the Registrar receives the licence and the written notice or such other date as may be specified by the Registrar. (5) Upon the surrender of the licence under this section, the Registrar shall not refund any fees paid by the licensee under subsections 5b(3) and 5e(4).”. Seksyen baru 9h"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 9g seksyen yang berikut: “Approval and notification of change of profile 9h. (1) Every licensee shall obtain the approval of the Registrar— (a) before changing his business name; (b) before the employment, appointment or admission of any person who will be responsible for the management of the licensee’s business of moneylending; or (c) before any person becomes a director or partner of the licensee. (2) Every licensee shall notify the Registrar, in writing, as soon as practicable— (a) of any person becoming a substantial shareholder of the licensee; or (b) of any substantial shareholder of the licensee increasing or reducing his substantial shareholding in the licensee. (3) Every licensee shall notify the Registrar, in writing— (a) of any person ceasing to be a director, partner or substantial shareholder of the licensee; or (b) of any person ceasing to be responsible for the management of the business of moneylending of the licensee, not later than fourteen days after the cessation. (4) Every licensee shall notify the Registrar, in writing, of a bankruptcy order against the licensee, or any director, partner or substantial shareholder of the licensee, not later than fourteen days after the bankruptcy order is made. (5) Any licensee who contravenes subsection (1), (2), (3) or (4) shall be guilty of an offence under this Act and shall be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding twelve months or to both.”. Pindaan seksyen 10b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_15__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_15__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 10b Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan memasukkan selepas perkataan “Registrar” perkataan “or in a book to be kept by an officer in charge of a police station”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: “(4a) A copy, which is certified to be a true copy by the Registrar or an officer in charge of a police district, of an entry under subsection (4) shall be admissible as evidence of the contents of the original and of the time, place and manner in which the complaint was recorded.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_15__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5), dengan memasukkan selepas perkataan “police officer” perkataan “not below the rank of Sergeant”. Pindaan seksyen 10d"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_16__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_16__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_16__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 10d Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_16__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_16__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_16__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_16__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_16__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “any premises,” perkataan “or any evidence necessary to establish the commission of an offence under this Act,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_16__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_16__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “police officer” dengan perkataan “a senior police officer”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_16__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_16__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “such premises” perkataan “at any reasonable time by day or night”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), (3), (7) dan (8), dengan menggantikan perkataan “police officer”, di mana-mana jua terdapat, dengan perkataan “a senior police officer”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_16__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_16__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_16__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_16__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_16__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “An Inspector or police officer” dengan perkataan “An Inspector or a senior police officer”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_16__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_16__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “police officer” dengan perkataan “senior police officer”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_16__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5), dengan menggantikan perkataan “police officer” dengan perkataan “senior police officer”. Pindaan seksyen 10e"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 10e dengan seksyen yang berikut: “Power of arrest 10e. (1) An Inspector or a police officer may arrest without warrant any person who commits or attempts to commit, or whom the Inspector or police officer reasonably suspects of committing or attempting to commit, any offence under this Act. (2) Where any person is arrested under subsection (1), he shall thereafter be dealt with as provided by the Criminal Procedure Code [Act 593].”. Pindaan seksyen 10f"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 10f Akta ibu dipinda dengan menggantikan perkataan “police officer”, di mana-mana jua terdapat, dengan perkataan “senior police officer”. Pindaan seksyen 10g"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_19__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 10g Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “police officer” dengan perkataan “a senior police officer”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “police officer” dengan perkataan “senior police officer”. Seksyen baru 10ga dan 10gb"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pemberi Pinjam Wang (Pindaan) 2010."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan am"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Pemberi Pinjam Wang 1951 [Akta 400], yang disebut “Akta ibu” dalam Akta ini, dipinda dengan menggantikan perkataan “holder of the licence”, di mana-mana jua terdapat, dengan perkataan “licensee”. Pindaan seksyen 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 10g seksyen yang berikut: “Additional powers 10ga. (1) Notwithstanding sections 10d and 10f, an Inspector or a senior police officer shall, for the execution of this Act, have power to do all or any of the following: (a) to visit, enter, inspect and examine with or without notice any premises where a moneylender is or is believed to be carrying on business; (b) to require the production of any information, book, record or other document kept by a moneylender or other person and to inspect, examine, make copies of them and take extracts from them; (c) to take photographs of the premises inspected or any part of the premises; (d) to seize and remove from the premises any book, record or other document, or any machine or equipment containing any book, record or other document; and (e) make such inquiry as may be necessary to ascertain whether the provisions of this Act have been complied with. (2) Where any book, record or other document, or any machine or equipment containing any book, record or other document is seized under paragraph (1)(d), the seizing officer shall prepare a list of the things seized and immediately deliver a copy signed by him to the moneylender, or to the moneylender’s officer or employee, at the premises. Access to computerized data 10gb. (1) An Inspector or a senior police officer conducting a search under this Act shall be given access to computerized data whether stored in a computer or otherwise. (2) For the purpose of this section, “access”— (a) includes being provided with the necessary password, encryption code, decryption code, software or hardware and any other means required to enable comprehension of such computerized data; and (b) has the same meaning assigned to it by subsections 2(2) and (5) of the Computer Crimes Act 1997 [Act 563].”. Pindaan seksyen 10h"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_21__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 10h Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “police officer” dengan perkataan “a senior police officer”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “police officer” dengan perkataan “senior police officer”. Pindaan seksyen 10j"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 10j dengan seksyen yang berikut: “Authority to act 10j. (1) There shall be issued to each Inspector an authority card to be signed by the Minister. (2) Whenever an Inspector exercises any of the powers under this Act, he shall on demand produce to the person against whom the power is being exercised the authority card issued to him under subsection (1).”. Pindaan seksyen 10k"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_23__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_23__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 10k(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_23__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “police officer” yang terdapat selepas perkataan “an Inspector or” dengan perkataan “a senior police officer”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_23__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “police officer” yang terdapat selepas perkataan “superior in rank to the” dengan perkataan “senior police officer”. Seksyen baru 10oa, 10ob dan 10oc"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 10o seksyen yang berikut: “Presumption as to the business of moneylending 10oa. Where in any proceedings against any person, it is alleged that such person is a moneylender, the proof of a single loan at interest made by such person shall raise a presumption that such person is carrying on the business of moneylending, until the contrary is proved. Evidence and records of previous conviction 10ob. (1) For the purposes of sentencing under this Act, when it is necessary to prove in any court that the offence for which a person is being convicted is a second or subsequent offence, a certificate purporting to be a record of his previous conviction, signed by— (a) the Registrar; or (b) any police officer authorized in writing in that behalf by the Chief Police Officer or Commissioner of Police, having custody of the records in which such conviction is kept, shall be admissible as evidence and shall constitute prima facie proof of any fact stated therein. (2) The certificate under subsection (1) shall only be admissible if it is a record in respect of the same offence and the conviction is obtained within five years from the date of the present conviction. Diary of proceedings in investigation 10oc. (1) Every Inspector or police officer making an investigation under this Act shall day by day enter his proceedings in the investigation in a diary setting forth— (a) the time at which the order to investigate, if any, reached him; (b) the time at which he began and closed the investigation; (c) the place or places visited by him; and (d) a statement of the circumstances ascertained through his investigation. (2) Notwithstanding anything contained in the Evidence Act 1950 [Act 56], an accused person shall not be entitled, either before or in the course of any proceedings under this Act, to call for or inspect any such diary: Provided that if the Inspector or police officer who has made the investigation refers to the diary for the purposes of section 159 or 160 of the Evidence Act 1950, only such entries as the officer has referred to shall be shown to the accused, and the court shall at the request of the Inspector or police officer cause any other entries to be concealed from view or obliterated.”. Pindaan seksyen 10p"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 10p Akta ibu dipinda dengan menggantikan perkataan “moneylender”, di mana-mana jua terdapat, dengan perkataan “licensee”. Pindaan seksyen 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_26__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_26__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_26__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 11 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_26__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan menggantikan perkataan “moneylender” dengan perkataan “licensee”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_26__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “moneylender”, di mana-mana jua terdapat, dengan perkataan “licensee”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_26__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “person” dengan perkataan “licensee”. Pindaan seksyen 11a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 11a Akta ibu dipinda dengan menggantikan perkataan “moneylender” dengan perkataan “licensee”. Pindaan seksyen 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 16 Akta ibu dipinda dengan menggantikan perkataan “moneylender”, di mana-mana jua terdapat, dengan perkataan “licensee”. Pindaan seksyen 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 17 Akta ibu dipinda dengan menggantikan perkataan “moneylender”, di mana-mana jua terdapat, dengan perkataan “licensee”. Pindaan seksyen 17a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 1(2) Akta ibu dipinda dengan menggantikan perkataan “States of Peninsular Malaysia only” dengan perkataan “whole of Malaysia”. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 17a Akta ibu dipinda dengan menggantikan perkataan “moneylender”, di mana-mana jua terdapat, dengan perkataan “licensee”. Pindaan seksyen 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_31__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_31__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_31__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 18 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_31__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan nota bahu dengan nota bahu yang berikut: Duty to keep original copy of moneylending agreement “ and accounts in permanent books”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_31__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Every licensee shall keep or cause to be kept and maintained— (a) such original copy of the moneylending agreement for each loan in which he is or has been concerned; and (b) such regular accounts of each loan made clearly stating in plain words and in English numerals with or without the numerals of the script otherwise used the terms and transactions incidental to the account entered in a book paged and bound in such manner as not to facilitate the elimination of pages or the interpolation or substitution of pages, for a period of not less than seven years from the end of the year in which the loan is made.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_31__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “person” dengan perkataan “licensee”. Pindaan seksyen 19"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_32__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_32__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 19 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_32__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_32",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “moneylender”, di mana- mana jua terdapat, dengan perkataan “licensee”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_32__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_32",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “First Schedule” dengan perkataan “First Schedule A”. Pindaan seksyen 20"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_33__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_33__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 20 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_33__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan menggantikan perkataan “moneylenders’ ” dengan perkataan “licensees’ ”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_33__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1) dan (2), dengan menggantikan perkataan “moneylender” dengan perkataan “licensee”. Pindaan seksyen 21"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 21 Akta ibu dipinda dengan menggantikan perkataan “moneylender”, di mana-mana jua terdapat, dengan perkataan “licensee”. Pindaan seksyen 23"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 23 Akta ibu dipinda dengan menggantikan perkataan “moneylender”, di mana-mana jua terdapat, dengan perkataan “licensee”. Pindaan seksyen 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 25 Akta ibu dipinda dengan menggantikan perkataan “moneylender”, di mana-mana jua terdapat, dengan perkataan “licensee”. Pindaan seksyen 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 26 Akta ibu dipinda dengan menggantikan perkataan “moneylender”, di mana-mana jua terdapat, dengan perkataan “licensee”. Seksyen baru 27a dan 27b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 27 seksyen yang berikut: “Prohibition of employing an agent or canvasser 27a. (1) No moneylender shall employ any agent or canvasser for the purpose of inviting any person to borrow money or to enter into any transaction involving the borrowing of money from a moneylender. (2) No person shall act as agent or canvasser, or demand or receive directly or indirectly any sum or other value consideration by way of commission or otherwise for introducing or undertaking to introduce to a moneylender any person desiring to borrow money. (2) Any person who contravenes subsections (1) and (2) shall be guilty of an offence under this Act and shall be liable to imprisonment for a term not exceeding two years or to a fine not exceeding fifty thousand ringgit or to both. Moneylending agreement in which amount is not truly stated or left blank 27b. Any licensee who prepares any moneylending agreement under section 16 in which the principal or rate of interest is not truly stated or is left blank to be filled after the execution of the moneylending agreement shall be guilty of an offence under this Act and shall be liable to imprisonment for a term not exceeding two years or to a fine not exceeding twenty thousand ringgit or to both.”. Pindaan seksyen 29a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_39__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_39__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_39__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 29a(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_39__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_39",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “or” yang terdapat di hujung perenggan (i);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_39__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_39",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan koma yang terdapat di hujung perenggan (j) dengan perkataan “; or”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_39__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_39",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (j) perenggan yang berikut: “ (k) demands or accepts security for a loan in any form prohibited by the regulations made under section 29h,”. Seksyen baru 29aa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_4__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_4__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 2 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 29a seksyen yang berikut: “ Prohibition of assisting unlicensed moneylending 29 a a. (1) Any person who assists a moneylender in contravention of subsection 5(1) shall be guilty of an offence under this Act and shall be liable to imprisonment for a term not exceeding two years or to a fine not exceeding twenty thousand ringgit or to both. (2) For the purpose of subsection (1), where the bank account, passbook, automated teller machine card, credit card or charge card of any person, or the post-dated cheque issued by any person, is proved to the satisfaction of the court to have been used to facilitate the carrying on of the business of a moneylender in contravention of subsection 5(1), that person shall be presumed, until the contrary is proved, to have assisted the moneylender in the contravention of subsection 5(1).”. Pindaan seksyen 29b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_41__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_41__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 29b Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_41__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_41__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_41__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_41",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_41__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_41__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “not exceeding one hundred thousand ringgit” dengan perkataan “of not less than fifty thousand ringgit but not more than two hundred and fifty thousand ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_41__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_41__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “fifteen months” dengan perkataan “three years”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_41__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_41__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_41__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_41",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_41__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_41__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “not exceeding twenty thousand ringgit” dengan perkataan “of not less than ten thousand ringgit but not more than fifty thousand ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_41__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_41__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “twelve months” dengan perkataan “two years”. Pindaan seksyen 29f"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_42__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_42__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 29f Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_42__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_42",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memasukkan selepas perkataan “Public Prosecutor” perkataan “in writing”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_42__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_42",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (5) dengan subseksyen yang berikut: “(5) All monies paid to the Registrar or to an Inspector specifically authorized under subsection (1) shall be paid into and form part of— (a) in the case of Peninsular Malaysia and the Federal Territory of Labuan, the Federal Consolidated Fund; and (b) in the case of the States of Sabah and Sarawak, the State Consolidated Fund of the State respectively.”. Pindaan seksyen 29h"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_43__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_43__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_43__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_43__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 29h(2) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_43__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_43",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “or” yang terdapat di hujung perenggan (g);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_43__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_43",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (h), dengan menggantikan perkataan “moneylender” dengan perkataan “licensee”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_43__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_43",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah yang terdapat di hujung perenggan (h) dengan perkataan “; or”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_43__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_43",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (h) perenggan yang berikut: “ (i) the form of security for the repayment of a loan which shall not be demanded or accepted by the licensee; (j) the annual statement, in such form and containing such information, to be sent to the Registrar.”. Seksyen baru 29i, 29j dan 29k"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 29h seksyen yang berikut: “Reward to informer 29i. (1) The Registrar may reward such amount of money to any informer whose information leads to the conviction of any person for an offence under this Act. (2) The reward made under subsection (1) shall be paid from— (a) in the case of Peninsular Malaysia and the Federal Territory of Labuan, the Federal Consolidated Fund; and (b) in the case of the States of Sabah and Sarawak, the State Consolidated Fund of the State respectively. Assignment of proceeds to the States of Sabah and Sarawak 29j. The following proceeds are assigned to the States of Sabah and Sarawak: (a) penalties for late renewal of licence under section 5e; and (b) fees for advertisement permits as prescribed under the Moneylenders (Control and Licensing) Regulations 2003 [P.U. (A) 400/2003]. Power to amend First Schedule 29k. The Minister may, by order published in the Gazette, amend the First Schedule.”. Penggantian Jadual Pertama"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan Jadual Pertama dengan Jadual yang berikut: “FIRST S CHEDULE [Subsection 2a(1)] 1. Any authority or body established, appointed or constituted by any written law, including any local authority. 2. Any co-operative society registered under the Co-operative Societies Act 1993 [Act 502]. 3. Any licensed bank or licensed merchant bank as defined under the Banking and Financial Institutions Act 1989 [Act 372] or any Islamic bank as defined under the Islamic Banking Act 1983 [Act 276]. 4. Any insurance company licensed under the Insurance Act 1996 [Act 553]. 5. Any company licensed under the Takaful Act 1984 [Act 314]. 6. Any pawnbroker licensed under the Pawnbrokers Act 1972 [Act 81]. 7. A development financial institution prescribed under the Development Financial Institutions Act 2001 [Act 618]. 8. A licensed finance company as defined under subsection 2(1) of the Banking and Financial Institutions Act 1989. 9. Any company who lends money to its related corporation as defined under the Companies Act 1965 [Act 125]. 10. Any company who lends money to its director, officer or employee as a benefit accorded to such person under his terms of employment. 11. Any person who subscribes or purchases debt securities which include— (a) stocks issued under the Loan (Local) Act 1959 [Act 637]; (b) Treasury Bills issued under the Treasury Bills (Local) Act 1946 [Act 188]; (c) investments under the Government Funding Act 1983 [Act 275]; and (d) debentures as defined under section 2 of the Capital Markets and Services Act 2007 [Act 671]. 12. Any person licensed, registered or regulated under the Capital Markets and Services Act 2007. 13. Any scheduled institution as defined under the Banking and Financial Institutions Act 1989. 14. Any company who is an issuer of a credit card or charge card approved under the Payment System Act 2003 [Act 627]. 15. Any Labuan bank as defined under the Labuan Financial Services and Securities Act 2010 [Act 704]. 16. Any company who is licensed under Part VII of the Labuan Financial Services and Securities Act 2010.”. Jadual Pertama A baru"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas Jadual Pertama Jadual yang berikut: “FIRST S CHEDULE A [Section 19] TABLE 1 PRINCIPAL AND INTEREST Principal Date on which loan was Rate per centum per made annum or the Amount of TABLE 2 REPAYMENT Amounts repaid Date 1. 2. 3. 4. 5. 6. TABLE 3 AMOUNT OF ARREARS Principal Date due Interest 1. 2. 3. 4. 5. 6. 7. TABLE 4 SUMS NOT YET DUE Principal Date due Interest 1. 2. 3. 4. 5. 6. 7. ”. Pembatalan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perintah Wilayah Persekutuan Labuan (Pemeluasan dan Ubah Suaian Akta Pemberi Pinjam Wang 1951) 2007 [P.U. (A) 413/2007] dan Perintah Negeri-Negeri Sabah dan Sarawak (Pemeluasan dan Ubah Suaian Akta Pemberi Pinjam Wang 1951) 2007 [P.U. (A) 414/2007] dibatalkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan sebelum takrif ‘ “authorized name” and “authorized address” ’ takrif yang berikut: ‘ “Authority” has the same meaning assigned to it in the Local Government Ordinance 1961 [Sabah Ord. 11/1961];’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “licence” takrif yang berikut: ‘ “licensee” means any moneylender to whom a licence has been issued under section 5b; “local authority” has the same meaning assigned to it in the Local Authorities Ordinance 1996 [Sarawak Ord. 20/1996];’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan takrif “moneylender” dengan takrif yang berikut: ‘ “moneylender” means any person who carries on or advertises or announces himself or holds himself out in any way as carrying on the business of moneylending, whether or not he carries on any other business;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “moneylender” takrif yang berikut: ‘ “moneylending” means the lending of money at interest, with or without security, by a moneylender to a borrower;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_4__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “moneylending agreement” takrif yang berikut: ‘ “Perbadanan Labuan” has the same meaning assigned to it in the Perbadanan Labuan Act 2001 [Act 609];” ’; (f) dalam takrif “police officer”, dengan memotong perkataan “senior”; dan (g) dengan memasukkan selepas takrif “Registrar” takrif yang berikut: ‘ “senior police officer” means a senior police officer as defined in the Police Act 1967;’. Pindaan seksyen 2a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 2a Akta ibu dipinda dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) This Act shall not apply to a person specified in the First Schedule, and such person shall be subject to any written law governing his business or activity.”. Pindaan seksyen 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 4(1) Akta ibu dipinda dengan memasukkan selepas perkataan “public service” perkataan “, officer of Perbadanan Labuan in the Federal Territory of Labuan, officer of the Authority in the State of Sabah and officer of the local authority in the State of Sarawak” . Pindaan seksyen 4a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 4a(2) Akta ibu dipinda dengan memasukkan selepas perkataan “public officer” perkataan “, officer of Perbadanan Labuan in the Federal Territory of Labuan, officer of the Authority in the State of Sabah and officer of the local authority in the State of Sarawak” . Pindaan seksyen 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 5 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “conduct business as a moneylender” dengan perkataan “carry on or advertise or announce himself or hold himself out in any way as carrying on the business of moneylending”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_8__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_8__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_8__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_8__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_8__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “carries on business as a moneylender” dengan perkataan “carries on or advertises or announces himself or holds himself out in any way as carrying on the business of moneylending”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_8__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_8__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “twenty” dengan perkataan “two hundred and fifty”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_8__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_8__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “one hundred thousand” dengan perkataan “one million”. Pindaan seksyen 5f"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 5f(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “moneylender” dengan perkataan “licensee”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/28/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “licence” dengan perkataan “original licence”. Pindaan seksyen 6"
+      }
+    }
+  ]
+}

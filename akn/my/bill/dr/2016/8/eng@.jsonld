@@ -1596,7 +1596,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/8/eng@/~cl_64",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (1a)— Amendment of section 425a"
+        "@value": "in subsection (1a)—"
       }
     },
     {
@@ -1616,7 +1616,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/8/eng@/~cl_64__para_b",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for the words “one year” the words “five years”."
+        "@value": "by substituting for the words “one year” the words “five years”. Amendment of section 425a"
       }
     },
     {
@@ -1883,7 +1883,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/8/eng@/~cl_74",
       "schema:text": {
         "@language": "en",
-        "@value": "in subparagraph (1)(a)(ii)— Amendment of section 433"
+        "@value": "in subparagraph (1)(a)(ii)—"
       }
     },
     {
@@ -1903,7 +1903,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/8/eng@/~cl_74__para_c",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after the words “other public place” the words “as he thinks fit”."
+        "@value": "by inserting after the words “other public place” the words “as he thinks fit”. Amendment of section 433"
       }
     },
     {

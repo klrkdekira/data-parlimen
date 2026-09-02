@@ -364,7 +364,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_29",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (1)— “(y) menetapkan kesalahan yang boleh dikompaun.”; dan"
+        "@value": "dalam subseksyen (1)—"
       }
     },
     {
@@ -384,7 +384,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_29__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perenggan (x) perenggan yang berikut:"
+        "@value": "dengan memasukkan selepas perenggan (x) perenggan yang berikut: “(y) menetapkan kesalahan yang boleh dikompaun.”; dan"
       }
     },
     {

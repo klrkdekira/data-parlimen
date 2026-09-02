@@ -1,0 +1,921 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-13-2005",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_26"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Insurance Act (Amendment) Bil 2005"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Insurance (Amendment) Act 2005. Amendment of long title"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 18(3) of the principal Act is amended by substituting for the words \"or licensed adjuster\" the words \", licensed adjuster or licensed financial adviser\". Amendment of section 23"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 23 of the principal Act is amended by substituting for the words \"or licensed adjuster\" the words \", licensed adjuster or licensed financial adviser\". Amendment of section 24"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 24(2)(b) of the principal Act is amended by substituting for the words \"or adjuster\" the words \", adjuster or financial adviser\". Amendment of section 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 26 of the principal Act is amended by substituting for the words 'or \"ajuster berlesen\" ' the words ', \"ajuster berlesen\" or \"penasihat kewangan berlesen\" '. Amendment of section 28"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_14__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 28 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing provision as subsection (1) of that section; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: \"(2) Subsection (1) shall not apply to a licensed financial adviser who is also a licensee under the Securities Industry Act 1983 [Act 280] or the Futures Industry Act 1993 [Act 499] in respect of activities licensed under those Acts.\". Amendment of section 31"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_15__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_15__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 31 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_15__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_15__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_15__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_15__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"or licensed adjuster\" the words \", licensed adjuster or licensed financial adviser\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_15__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_15__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (c) the following paragraph: \"(ca) the licensed financial adviser has ceased to carry on financial advisory business;\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (6), by substituting for the words \"or licensed adjuster\" the words \", licensed adjuster or licensed financial adviser\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_15__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (8), by substituting for the words \"or licensed adjuster\" the words \", licensed adjuster or licensed financial adviser\". Amendment of section 32"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 32(2) of the principal Act is amended by substituting for the words \"or adjuster\" the words \", adjuster or financial adviser\". Amendment of section 33"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_17__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_17__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 33 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_17__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_17__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_17__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_17__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"or adjuster\" the words \", adjuster or financial adviser\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_17__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_17__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting at the end of that subsection the following provision: \"Financial adviser - Imprisonment for two years or two million ringgit or both. Default penalty.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words \"or an adjuster\" the words \", an adjuster or a financial adviser\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_17__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words \"or adjuster\" the words \", adjuster or financial adviser\". Amendment of section 67"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 67 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words \"or licensed adjuster\" the words \", licensed adjuster or licensed financial adviser\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (3)(b) the following paragraph: \"(b) in the case of all other licensees or their controllers, approve or refuse the application.\". Amendment of section 70"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_19__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_19__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 70 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words \"or manager\" the words \", manager or financial adviser's representative\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: \"(1A) NO licensed financial adviser shall appoint a financial adviser's representative unless it has obtained the prior written approval of the Bank for the proposed appointment.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_19__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by inserting after the words \"subsection (1)\" the words \"or subsection (1A), as the case may be\". Amendment of section 71"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Insurance Act 1996 [Act 553], which is referred to as the \"principal Act\" in this Act, is amended in the long title by substituting for the words \"and adjusting business\" the words \", adjusting business and financial advisory business\". Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 71(2)(b) of the principal Act is amended by substituting for the words \"or licensed adjuster\" the words \", licensed adjuster or licensed financial adviser\". Amendment of section 73"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_21__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 73 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing provision as subsection (1) of that section; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: \"(2) A licensed financial adviser shall notify the Bank in writing that a person has ceased to be its financial adviser's representative and the reasons for it within fourteen days from the date of cessation. Penalty : Fifty thousand ringgit.\". Amendment of section 139"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_22__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_22__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 139 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_22__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words \"or adjusting business\" the words \", adjusting business or financial advisory business\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_22__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"or licensed adjuster\" the words \", licensed adjuster or licensed financial adviser\". Amendment of section 150"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_23__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_23__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 150 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_23__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by substituting for the words \"or insurance agent\" the words \", insurance agent, licensed financial adviser or financial adviser's representative\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_23__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (4)(cJ, by inserting after the words \"an insurance agent,\" the words \"a licensed financial adviser or a financial adviser's representative,\". Amendment of section 184"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_24__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 184 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_24__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words \"and insurance broker\" the words \", insurance broker and financial adviser\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsection: \"(4) No licensed financial adviser shall negotiate a contract of insurance with an insurer not licensed under this Act. Penalty: Imprisonment for two years or two million ringgit or both.\". Amendment of section 185"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_25__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_25__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 185 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_25__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by inserting after the words \"insurance broker\" the words \"and financial adviser\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_25__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_25__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_25__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_25__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_25__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"licensed insurance broker\" the words \"or licensed financial adviser\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_25__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_25__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"insurance broking business\" the words \"or financial advisory business, as the case may be\". Amendment of section 188"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 188(1) of the principal Act is amended by substituting for the words \"or insurance broking business\" the words \", insurance broking business or financial advisory business\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3__list_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3__list_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 2 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3__list_1__para_a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"employee\" the following definitions: ' \"financial adviser\" means a person who carries on financial advisory business;'; \"financial adviser's representative\" means an individual by whatever name described, in the direct employment of or acting for or by arrangement with a financial adviser, who performs for the financial adviser any of the functions of a financial adviser other than work ordinarily performed by accountants, clerks or cashiers, whether his remuneration, if any, is by way of payment of salary, wages, commission or otherwise and includes an officer of the financial adviser who performs for the financial adviser any of those functions, whether or not his remuneration is as aforesaid; \"financial advisory business\" means any or all of the following services:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3__list_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3__list_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3__list_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3__list_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "analysing the financial planning needs of a person relating to insurance products;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "recommending the appropriate insurance products;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "sourcing insurance products from a licensed insurer;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3__list_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "arranging of contracts in respect of insurance products; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3__list_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "other financial services as prescribed by the Bank;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3__list_3",
+      "@type": "akn:list",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3__list_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3__list_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3__list_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3__list_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of \"licensed business\", by substituting for the words \"or adjusting business\" the words \", adjusting business or financial advisory business\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3__list_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_3__list_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of \"licensee\", by substituting for the words \"or adjuster\" the words \", adjuster or financial adviser\". Amendment of section 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 9 of the principal Act is amended —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_4__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_4__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_4__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_4__para_a__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_4__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by deleting the word \"or\" at the end of the paragraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_4__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by substituting for the full stop at the end of the paragraph the words \"; or\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_4__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (c) the following paragraph: “(d) financial advisory business.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_4__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting at the end of that subsection the following provision: \"Financial adviser - Imprisonment for two years or two million ringgit or both. Default penalty.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: \"(3) Paragraph (l)(d) shall not apply to — (a) a licensed insurer or licensed insurance broker; (b) a licensed institution as defined under the Banking and Financial Institutions Act 1989 [Act 372]; (c) an Islamic bank licensed under the Islamic Banking Act 1983 [Act 276]; (d) a takaful operator or takaful broker as defined under the Takaful Act 1984 [Act 312]; (e) an insurance agent or takaful operator's agent; (f) a company registered under the Trust Companies Act 1949 [Act 100]; (g) an advocate and solicitor or accountant in practice whose carrying on of that business is solely incidental to the practice of his profession; (h) a person who is the proprietor of a newspaper and holder of a permit issued under the Printing Presses and Publications Act 1984 [Act 301] where — (i) insofar as the newspaper is distributed generally to the public, it is distributed only to subscribers for and purchasers of the newspaper for value; (ii) the advice is given, or the analyses or reports are issued or promulgated only through that newspaper; (iii) that person receives no commission or other consideration for giving the advice, or for issuing or promulgating the analyses or reports; and (iv) the advice is given, or the analyses or reports are issued or promulgated solely as incidental to the conduct of that person's business as a newspaper proprietor; (i) a person who owns, operates or provides an information service through an electronic, broadcasting or telecommunications medium, where— (i) the service is generally available to the public in Malaysia; (ii) the advice is given, or analyses or reports are issued or promulgated only through that service; (iii) that person receives no commission or other consideration for giving the advice, or for issuing or promulgating the analyses or reports; and (iv) the advice is given, or the analyses or reports are issued or promulgated solely as incidental to that person's ownership, operation or provision of that service; or (j) such other person as the Bank may specify.\". Amendment of section 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 10 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words \"or adjuster\" the words \", adjuster or financial adviser\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"or adjuster\" the words \", adjuster or financial adviser\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting at the end of that section the following provision: \"Financial adviser - Imprisonment for two years or two million ringgit or both. Default penalty.\". Amendment of section 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 11 the following section: \"Use of the words \"insurance\", \"assurance\", \"underwriter\" or \"financial adviser\" 11. (1) Except with the prior written approval of the Bank — (a) no person other than a licensee shall use the words \"insurance\", \"assurance\" or \"underwriter\"; and (b) no person who is not licensed under this Act to carry on financial advisory business shall use the words \"financial adviser\", or any of its derivatives in any language, or any other words in any language capable of being construed as indicating the carrying on of any of the licensed businesses in the name, description or title under which he carries on business or make any representation to such effect in any bill head, letter paper, notice or advertisement or in any other manner. Penalty: Five hundred thousand ringgit. Default penalty. (2) Subsection (1) shall not apply to— (a) a person who appends to his name an insurance qualification conferred on him by a prescribed body, where the qualification so appended is followed with the initials of the name of that body; (b) an association of licensees or association of employees of licensees; (c) an insurance agent registered with Life Insurance Association of Malaysia or General Insurance Association of Malaysia in relation to the use of the words \"insurance\", \"assurance\" or \"underwriter\" in paragraph (1)(a); and (d) persons mentioned in paragraphs 9(3)(a) to (d) in relation to the use of the words \"financial adviser\" in paragraph (l)(b).”. Amendment of section 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 13(2) of the principal Act is amended by substituting for the words \"or adjusting business\" the words \", adjusting business or financial advisory business\". Amendment of section 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 14(b) of the principal Act is amended by substituting for the words \"or adjusting business\" the words \", adjusting business or financial advisory business\". Amendment of section 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_9__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 17 of the principal Act is amended —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words \"and adjuster\" the words \", adjuster and financial adviser\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words \"or adjusting business\" the words \", adjusting business or financial advisory business\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/13/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words \"or an adjuster\" the words \", an adjuster or a financial adviser\". Amendment of section 18"
+      }
+    }
+  ]
+}

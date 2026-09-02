@@ -30,13 +30,29 @@ DIPERBUAT UNDANG-UNDANG oleh Seri Paduka Baginda Yang di-Pertuan Agong dengan na
 
 persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
 
-Tajuk ringkas
+<!-- marginal: Tajuk ringkas -->
 
-1. Akta ini bolehlah dinamakan Akta (Perbadanan) Synod dan mula Diocese Malaysia Barat (Pindaan) 1996 dan hendaklah berkuatkuasa. disifatkan telah mula berkuatkuasa pada 2 Februari 1996.
+1. Akta ini bolehlah dinamakan Akta (Perbadanan) Synod
 
-Pindaan
+<!-- marginal: dan mula -->
 
-2. Akta (Perbadanan) Synod Diocese Malaysia Barat 1971 seksyen 3. adalah dipinda dalam subseksyen 3(2) dan 3(5) dengan Akta 36. menggantikan perkataan "Canterbury" dengan perkataan "the Province of the Anglican Church in South-east Asia".
+Diocese Malaysia Barat (Pindaan) 1996 dan hendaklah
+
+<!-- marginal: berkuatkuasa. -->
+
+disifatkan telah mula berkuatkuasa pada 2 Februari 1996.
+
+<!-- marginal: Pindaan -->
+
+2. Akta (Perbadanan) Synod Diocese Malaysia Barat 1971
+
+<!-- marginal: seksyen 3. -->
+
+adalah dipinda dalam subseksyen 3(2) dan 3(5) dengan
+
+<!-- marginal: Akta 36. -->
+
+menggantikan perkataan "Canterbury" dengan perkataan "the Province of the Anglican Church in South-east Asia".
 
 ## HURAIAN
 

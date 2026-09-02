@@ -8,7 +8,7 @@
 
 ## SUSUNAN FASAL
 
-## BAhAgiAN I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -16,7 +16,7 @@
 
 2. Tafsiran
 
-## BAhAgiAN II
+## BAHAGIAN II
 
 ## MUFTI DAN TIMBALAN MUFTI
 
@@ -28,7 +28,7 @@
 
 6. Pengosongan jawatan
 
-## BAhAgiAN III
+## BAHAGIAN III
 
 ## JAWATANKUASA FATWA
 
@@ -40,7 +40,7 @@
 
 <!-- page 2 -->
 
-## BAhAgiAN IV
+## BAHAGIAN IV
 
 ## PENGELUARAN FATWA
 
@@ -58,7 +58,7 @@
 
 16. Panduan bagi mengeluarkan fatwa
 
-## BAhAgiAN V
+## BAHAGIAN V
 
 ## PENENTUAN ARAH KIBLAT
 
@@ -66,7 +66,7 @@
 
 18. Kesalahan
 
-## BAhAgiAN VI
+## BAHAGIAN VI
 
 ## JAWATANKUASA FALAK SYARIE
 
@@ -76,7 +76,7 @@
 
 21. Pembatalan pelantikan dan peletakan jawatan
 
-## BAhAgiAN VII
+## BAHAGIAN VII
 
 ## JAWATANKUASA MELIHAT RUKYAH HILAL
 
@@ -90,7 +90,7 @@
 
 <!-- page 3 -->
 
-## BAhAgiAN VIII
+## BAHAGIAN VIII
 
 ## JAWATANKUASA PENGAWASAN PENGAJARAN AGAMA ISLAM
 
@@ -104,7 +104,7 @@
 
 29. Perunding akidah
 
-## BAhAgiAN IX
+## BAHAGIAN IX
 
 ## PELBAGAI
 
@@ -122,11 +122,11 @@
 
 36. Kuasa meminda Jadual
 
-## JAdUAL PertAmA
+## JADUAL PERTAMA
 
-## JAdUAL KedUA
+## JADUAL KEDUA
 
-## JAdUAL KetigA
+## JADUAL KETIGA
 
 <!-- page 5 -->
 
@@ -138,7 +138,7 @@ BAHAWASANYA Parlimen boleh membuat undang-undang berkenaan dengan pemerintahan d
 
 MAKA, OLEH YANG DEMIKIAN, menurut Fasal (1) Perkara 74 Perlembagaan Persekutuan, DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## BAhAgiAN I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -180,7 +180,7 @@ MAKA, OLEH YANG DEMIKIAN, menurut Fasal (1) Perkara 74 Perlembagaan Persekutuan,
 
 (2) Bagi mengelakkan keraguan tentang identiti atau pentafsiran perkataan dan ungkapan yang digunakan dalam Akta ini yang disenaraikan dalam Jadual Pertama, rujukan boleh dibuat kepada tulisan Arab bagi perkataan dan ungkapan itu sebagaimana yang ditunjukkan bersetentangan dengannya dalam Jadual Pertama itu.
 
-## BAhAgiAN II
+## BAHAGIAN II
 
 ## MUFTI DAN TIMBALAN MUFTI
 
@@ -234,7 +234,7 @@ MAKA, OLEH YANG DEMIKIAN, menurut Fasal (1) Perkara 74 Perlembagaan Persekutuan,
 
 (d) dia menjadi tidak sempurna akal atau selainnya tidak berupaya menunaikan kewajipannya.
 
-## BAhAgiAN III
+## BAHAGIAN III
 
 ## JAWATANKUASA FATWA
 
@@ -288,7 +288,7 @@ MAKA, OLEH YANG DEMIKIAN, menurut Fasal (1) Perkara 74 Perlembagaan Persekutuan,
 
 (2) Anggota Jawatankuasa Fatwa yang dilantik di bawah perenggan 7(2)(g) boleh, pada bila-bila masa, meletakkan jawatan dengan memberikan suatu notis secara bertulis kepada Yang di-Pertuan Agong melalui Mufti.
 
-## BAhAgiAN IV
+## BAHAGIAN IV
 
 ## PENGELUARAN FATWA
 
@@ -374,7 +374,7 @@ dan Jawatankuasa Fatwa bersetuju dengan pandangan yang dikeluarkan oleh Jawatank
 
 (4) Dalam mengeluarkan apa-apa fatwa yang berhubungan dengan tasawuf, Jawatankuasa Fatwa hendaklah mengikut pegangan yang dibawa oleh Imam Junaid al-Baghdadi dan Imam al-Ghazali.
 
-## BAhAgiAN V
+## BAHAGIAN V
 
 ## PENENTUAN ARAH KIBLAT
 
@@ -408,7 +408,7 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 
 <!-- page 16 -->
 
-## BAhAgiAN VI
+## BAHAGIAN VI
 
 ## JAWATANKUASA FALAK SYARIE
 
@@ -470,7 +470,7 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 
 (2) Anggota Jawatankuasa Falak Syarie yang dilantik di bawah perenggan 19(2)(i) boleh, pada bila-bila masa, meletakkan jawatan dengan memberikan suatu notis secara bertulis kepada Mufti.
 
-## BAhAgiAN VII
+## BAHAGIAN VII
 
 ## JAWATANKUASA RUKYAH HILAL
 
@@ -528,7 +528,7 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 
 (4) Laporan yang diperaku di bawah subseksyen (3) adalah muktamad.
 
-## BAhAgiAN VIII
+## BAHAGIAN VIII
 
 ## JAWATANKUASA PENGAWASAN PENGAJARAN AGAMA ISLAM
 
@@ -600,7 +600,7 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 
 (6) Perunding akidah boleh menentukan tatacaranya sendiri berdasarkan garis panduan sebagaimana yang ditentukan oleh Mufti.
 
-## BAhAgiAN IX
+## BAHAGIAN IX
 
 ## PELBAGAI
 
@@ -648,33 +648,25 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 
 (f) untuk mengadakan peruntukan bagi semua perkara yang berhubungan dengan perunding akidah;
 
-(g) untuk mengadakan peruntukan bagi semua perkara yang
+(g) untuk mengadakan peruntukan bagi semua perkara yang berhubungan dengan pemberian tauliah bagi maksud mengajar agama Islam. selepas berunding dengan Mufti
 
-## RAHSIA
-
-berhubungan dengan pemberian tauliah bagi maksud
-
-## RAHSIA
-
-mengajar agama Islam. selepas berunding dengan Mufti boleh,
+<!-- marginal: boleh, -->
 
 <!-- marginal: dengan -->
 
 <!-- marginal: kelulusan -->
 
-36. Menteri selepas berunding dengan Mufti boleh,
+selepas berunding dengan Mufti
+
+<!-- marginal: boleh, -->
 
 <!-- marginal: dengan -->
 
 <!-- marginal: kelulusan -->
-
-36. Menteri Yang di-Pertuan Agong, melalui perintah yang disiarkan dalam Warta, meminda
 
 ### Kuasa meminda Jadual
 
-Yang di-Pertuan Agong, melalui perintah yang disiarkan dalam Warta, meminda Jadual Pertama, Kedua dan Ketiga.
-
-36. Menteri selepas berunding dengan Mufti boleh, dengan Jadual Pertama, Kedua dan Ketiga. kelulusan Yang di-Pertuan Agong, melalui perintah yang disiarkan dalam Warta, meminda Jadual Pertama, Kedua dan Ketiga.
+36. Menteri selepas berunding dengan Mufti boleh, dengan kelulusan Yang di-Pertuan Agong, melalui perintah yang disiarkan dalam Warta, meminda Jadual Pertama, Kedua dan Ketiga.
 
 ## JADUAL PERTAMA
 
@@ -682,7 +674,7 @@ Yang di-Pertuan Agong, melalui perintah yang disiarkan dalam Warta, meminda Jadu
 
 [Subseksyen 2(2)] [Subseksyen 2(2)]
 
-## JAdUAL PertAmA
+## JADUAL PERTAMA
 
 [Subseksyen 2(2)] qaul muktamad - دﻣﺗﻌﻣ لوﻗ qaul muktamad - دﻣﺗﻌﻣ لوﻗ - qaul muktamad
 
@@ -694,33 +686,23 @@ sighah - ﺔﻐﯾﺻ - sighah sighah - ﺔﻐﯾﺻ
 
 [Subseksyen 7(5), 19(5), 22(5) dan 26(4)] [Subseksyen 7(5), 19(5), 22(5) dan 26(4)]
 
-## PERUNTUKAN TAMBAHAN YANG BERHUBUNGAN DENGAN JAWATANKUASA
+Bagi maksud Jadual ini, “Jawatankuasa” ertinya jawatankuasa yang ditubuhkan di Bagi maksud Jadual ini, “Jawatankuasa” ertinya jawatankuasa yang ditubuhkan di
 
-## PERUNTUKAN TAMBAHAN YANG BERHUBUNGAN DENGAN JAWATANKUASA
+Jawatan seseorang anggota Jawatankuasa
 
-### Tafsiran
-
-### Tafsiran
-
-Bagi maksud Jadual ini, “Jawatankuasa” ertinya jawatankuasa yang ditubuhkan di Bagi maksud Jadual ini, “Jawatankuasa” ertinya jawatankuasa yang ditubuhkan di bawah subseksyen 7(1), 19(1), 22(1) dan 26(1) Akta ini. bawah subseksyen 7(1), 19(1), 22(1) dan 26(1) Akta ini.
-
-### Pengosongan jawatan
-
-### Pengosongan jawatan
-
-Jawatan seseorang anggota Jawatankuasa yang
+<!-- marginal: yang -->
 
 <!-- marginal: dilantik -->
 
 <!-- marginal: bawah -->
 
-Jawatan seseorang anggota Jawatankuasa yang
+Jawatan seseorang anggota Jawatankuasa
+
+<!-- marginal: yang -->
 
 <!-- marginal: dilantik -->
 
 <!-- marginal: bawah -->
-
-perenggan 7(2)(a), 19(2)(i), 22(2)(f) dan 26(2)(c) hendaklah menjadi kosong jika— perenggan 7(2)(a), 19(2)(i), 22(2)(f) dan 26(2)(c) hendaklah menjadi kosong jika—
 
 dia meninggal dunia;
 
@@ -728,13 +710,17 @@ dia meninggal dunia;
 
 (a)
 
-telah dibuktikan terhadapnya, atau dia telah
+telah dibuktikan terhadapnya, atau dia
+
+<!-- marginal: telah -->
 
 <!-- marginal: disabitkan -->
 
 <!-- marginal: atas -->
 
-(b) telah dibuktikan terhadapnya, atau dia telah
+(b) telah dibuktikan terhadapnya, atau dia
+
+<!-- marginal: telah -->
 
 <!-- marginal: disabitkan -->
 
@@ -750,7 +736,7 @@ dia menjadi seorang bankrap yang belum dilepaskan; dia menjadi seorang bankrap y
 
 <!-- page 25 -->
 
-## JAdUAL KedUA
+## JADUAL KEDUA
 
 [Subseksyen 7(5), 19(5), 22(5) dan 26(4)]
 
@@ -814,7 +800,7 @@ dia menjadi seorang bankrap yang belum dilepaskan; dia menjadi seorang bankrap y
 
 7. Jawatankuasa boleh menentukan tatacaranya sendiri.
 
-## JAdUAL KetigA
+## JADUAL KETIGA
 
 [Perenggan 23(b) dan subseksyen 25(1)]
 
@@ -832,7 +818,7 @@ dia menjadi seorang bankrap yang belum dilepaskan; dia menjadi seorang bankrap y
 
 Rang Undang-Undang Mufti (Wilayah-Wilayah Persekutuan) 2024 (“Akta yang dicadangkan”) bertujuan untuk mengadakan peruntukan yang berhubungan dengan Mufti, penentuan perkara mengenai hukum dan doktrin Syarak dan perkara yang berkaitan.
 
-## BAhAgiAN I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan memperkatakan perkara permulaan.
 
@@ -842,7 +828,7 @@ Rang Undang-Undang Mufti (Wilayah-Wilayah Persekutuan) 2024 (“Akta yang dicada
 
 <!-- page 28 -->
 
-## BAhAgiAN II
+## BAHAGIAN II
 
 5. Bahagian II Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan Mufti dan Timbalan Mufti.
 
@@ -854,7 +840,7 @@ Rang Undang-Undang Mufti (Wilayah-Wilayah Persekutuan) 2024 (“Akta yang dicada
 
 9. Fasal 6 bertujuan untuk mengadakan peruntukan bagi pengosongan jawatan Mufti dan Timbalan Mufti.
 
-## BAhAgiAN III
+## BAHAGIAN III
 
 10. Bahagian III Akta yang dicadangkan memperkatakan tentang penubuhan dan fungsi Jawatankuasa Fatwa Wilayah-Wilayah Persekutuan.
 
@@ -864,7 +850,7 @@ Rang Undang-Undang Mufti (Wilayah-Wilayah Persekutuan) 2024 (“Akta yang dicada
 
 13. Fasal 9 bertujuan untuk mengadakan peruntukan bagi pembatalan pelantikan dan peletakan jawatan anggota Jawatankuasa Fatwa.
 
-## BAhAgiAN IV
+## BAHAGIAN IV
 
 14. Bahagian IV Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan pengeluaran fatwa.
 
@@ -884,7 +870,7 @@ Rang Undang-Undang Mufti (Wilayah-Wilayah Persekutuan) 2024 (“Akta yang dicada
 
 21. Fasal 16 bertujuan untuk menyatakan panduan yang perlu diikuti oleh Jawatankuasa Fatwa dalam mengeluarkan fatwa yang berhubungan dengan syariah, akidah dan tasawuf.
 
-## BAhAgiAN V
+## BAHAGIAN V
 
 22. Bahagian V Akta yang dicadangkan memperkatakan penentuan arah kiblat, kesalahan dan penalti.
 
@@ -892,7 +878,7 @@ Rang Undang-Undang Mufti (Wilayah-Wilayah Persekutuan) 2024 (“Akta yang dicada
 
 24. Fasal 18 bertujuan untuk menjadikannya suatu kesalahan bagi mana-mana orang yang mengeluarkan sijil pengesahan arah kiblat tanpa kebenaran Mufti, menentukan, menyemak atau mengesahkan arah kiblat tanpa kebenaran Mufti dan dengan sengaja mengubah arah kiblat yang telah disahkan oleh Mufti.
 
-## BAhAgiAN VI
+## BAHAGIAN VI
 
 25. Bahagian VI Akta yang dicadangkan memperkatakan penubuhan dan fungsi Jawatankuasa Falak Syarie Wilayah-Wilayah Persekutuan.
 
@@ -902,7 +888,7 @@ Rang Undang-Undang Mufti (Wilayah-Wilayah Persekutuan) 2024 (“Akta yang dicada
 
 28. Fasal 21 bertujuan untuk mengadakan peruntukan bagi pembatalan pelantikan dan peletakan jawatan anggota Jawatankuasa Falak Syarie.
 
-## BAhAgiAN VII
+## BAHAGIAN VII
 
 29. Bahagian VII Akta yang dicadangkan memperkatakan penubuhan dan fungsi Jawatankuasa Rukyah Hilal Wilayah-Wilayah Persekutuan.
 
@@ -916,7 +902,7 @@ Rang Undang-Undang Mufti (Wilayah-Wilayah Persekutuan) 2024 (“Akta yang dicada
 
 33. Fasal 25 bertujuan untuk mengadakan peruntukan bagi kaedah penetapan bagi awal bulan Ramadan, Syawal dan Zulhijah.
 
-## BAhAgiAN VIII
+## BAHAGIAN VIII
 
 34. Bahagian VIII Akta yang dicadangkan memperkatakan penubuhan dan fungsi Jawatankuasa Pengawasan Pengajaran Agama Islam Wilayah-Wilayah Persekutuan dan perunding akidah.
 
@@ -928,7 +914,7 @@ Rang Undang-Undang Mufti (Wilayah-Wilayah Persekutuan) 2024 (“Akta yang dicada
 
 38. Fasal 29 bertujuan untuk memberi Mufti kuasa untuk melantik mana-mana orang yang layak dan sesuai dalam kalangan orang yang beragama Islam sebagai seorang perunding akidah. Fasal ini juga memperkatakan fungsi perunding akidah.
 
-## BAhAgiAN IX
+## BAHAGIAN IX
 
 39. Bahagian IX Akta yang dicadangkan memperkatakan peruntukan pelbagai.
 

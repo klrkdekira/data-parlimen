@@ -1,0 +1,68 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/16/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/16"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-16-2008",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/16/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/16/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/16/msa@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Perbekalan 2009"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/16/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/16/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perbekalan 2009. Pengeluaran dan peruntukan untuk perkhidmatan bagi tahun 2009"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/16/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/16/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengeluaran sejumlah wang yang tidak melebihi satu ratus dua puluh sembilan bilion sembilan ratus enam puluh satu ratus lapan puluh dua ribu tiga ratus ringgit (RM129,961,382,300) daripada Kumpulan Wang Disatukan untuk perkhidmatan bagi tahun 2009 adalah dengan ini dibenarkan, dan itu diperuntukkan bagi maksud-maksud yang dinyatakan dalam Jadual."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/16/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/16/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tajuk Parlimen Pejabat Penyimpan Mohor Besar Raja-Raja Jabatan Audit Suruhanjaya Pilihan Raya Suruhanjaya Perkhidmatan Awam Jabatan Perdana Menteri Jabatan Perkhidmatan Awam Jabatan Peguam Negara Badan Pencegah Rasuah Perbendaharaan Perkhidmatan Am Perbendaharaan Peruntukan kepada Kumpulan Wang Terkanun Kementerian Luar Negeri Kementerian Perusahaan Perladangan dan Komoditi Kementerian Pertanian dan Industri Asas Tani Kementerian Kemajuan Luar Bandar dan Wilayah Kementerian Sumber Asli dan Alam Sekitar Kementerian Perdagangan Antarabangsa dan Industri Kementerian Perdagangan Dalam Negeri dan Hal Ehwal Pengguna Kementerian Pembangunan Usahawan dan Koperasi Kementerian Kerja Raya Kementerian Pengangkutan Kementerian Tenaga, Air dan Komunikasi Kementerian Sains, Teknologi dan Inovasi Kementerian Pelancongan Perbekalan Maksud Tajuk B. 32 Kementerian Wilayah Persekutuan B. 40 Suruhanjaya Perkhidmatan Pelajaran B. 41 Kementerian Pelajaran B. 42 Kementerian Kesihatan B. 43 Kementerian Perumahan dan Kerajaan Tempatan B. 44 Kementerian Perpaduan, Kebudayaan, Kesenian dan Warisan B. 45 Kementerian Belia dan Sukan B. 46 Kementerian Sumber Manusia B. 47 Kementerian Penerangan B. 48 Kementerian Pembangunan Wanita, Keluarga dan Masyarakat B. 49 Kementerian Pengajian Tinggi B. 60 Kementerian Pertahanan B. 62 Kementerian Dalam Negeri JUMLAH"
+      }
+    }
+  ]
+}

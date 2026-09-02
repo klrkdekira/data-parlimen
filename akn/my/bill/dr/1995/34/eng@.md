@@ -60,7 +60,7 @@
 
 <!-- page 2 -->
 
-New section
+<!-- marginal: New section -->
 
 3. The principal Act is amended by inserting after section
 
@@ -80,9 +80,11 @@ exempt
 
 ### of the provisions of this Act.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Section 8 of the principal Act is amended— of section 8.
+4. Section 8 of the principal Act is amended—
+
+<!-- marginal: of section 8. -->
 
 (a) in paragraph (a)—
 
@@ -116,9 +118,11 @@ Amendment
 
 ### five" the words "sixty-five".
 
-Amendment
+<!-- marginal: Amendment -->
 
-5. Section 9 of the principal Act is amended by substituting of section 9
+5. Section 9 of the principal Act is amended by substituting
+
+<!-- marginal: of section 9 -->
 
 ### for paragraph (d) the following paragraph:
 
@@ -138,13 +142,15 @@ Amendment
 
 ### one hundred and twenty-six ringgit a month.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-6. Subsection 10(4) of the principal Act is amended by of section
+6. Subsection 10(4) of the principal Act is amended by
+
+<!-- marginal: of section -->
 
 ### substituting for the words "one hundred" the words "one
 
-10
+<!-- marginal: 10 -->
 
 ### thousand".
 
@@ -250,13 +256,17 @@ Amendment
 
 ### words "this section" and "twenty" respectively.
 
-Amendment
+<!-- marginal: Amendment -->
 
-10. The principal Act is amended by substituting for the of First and
+10. The principal Act is amended by substituting for the
+
+<!-- marginal: of First and -->
 
 ### First and Second Schedules the following Schedules:
 
-Second Schedules.
+<!-- marginal: Second -->
+
+<!-- marginal: Schedules. -->
 
 ## FIRST SCHEDULE
 
@@ -268,59 +278,25 @@ Second Schedules.
 
 ### total disablement
 
-Serial Description of Injury
+Serial Description of Injury Percentage of loss No. of earning capacity
 
-<!-- marginal: Percentage of loss -->
+1. Loss of both hands or amputation 100 at higher sites
 
-No.
+2. Loss of a hand and a foot 100
 
-<!-- marginal: of earning capacity -->
+3. Double amputation through leg or 100 thigh, or amputation through leg or thigh on one side and loss of other foot
 
-1. Loss of both hands or amputation
+4. Loss of sight to such an extent 100 as to render the claimant unable to perform any work for which eye-sight is essential
 
-<!-- marginal: 100 -->
+5. Very severe facial disfigurement 100
 
-at higher sites
+6. Absolute deafness 100
 
-2. Loss of a hand and a foot
+7. Total paralysis 100
 
-<!-- marginal: 100 -->
+8. Injuries resulting in being 100 permanently bedridden
 
-3. Double amputation through leg or
-
-<!-- marginal: 100 -->
-
-thigh, or amputation through leg or thigh on one side and loss of other foot
-
-4. Loss of sight to such an extent
-
-<!-- marginal: 100 -->
-
-as to render the claimant unable to perform any work for which eye-sight is essential
-
-5. Very severe facial disfigurement
-
-<!-- marginal: 100 -->
-
-6. Absolute deafness
-
-<!-- marginal: 100 -->
-
-7. Total paralysis
-
-<!-- marginal: 100 -->
-
-8. Injuries resulting in being
-
-<!-- marginal: 100 -->
-
-permanently bedridden
-
-9. Any other injury causing
-
-<!-- marginal: 100 -->
-
-permanent total incapacity
+9. Any other injury causing 100 permanent total incapacity
 
 <!-- page 5 -->
 
@@ -334,73 +310,33 @@ Amputation—upper limbs (either arm) cases
 
 Serial Description of Injury Percentage of loss No of earning capacity
 
-1. Amputation through shoulder joint
+1. Amputation through shoulder joint 90
 
-<!-- marginal: 90 -->
+2. Amputation below shoulder with 80 stump less than 8" from tip of acromion
 
-2. Amputation below shoulder with
+3. Amputation below 8" from tip of 70 acromion to less than 4 1/2" below tip of oiecranon
 
-<!-- marginal: 80 -->
+4. Loss of a hand or of the thumb 60 and four fingers of one hand or amputation from 4 1/2" below tip of oiecranon
 
-stump less than 8" from tip of acromion
+5. Loss of thumb 30
 
-3. Amputation below 8" from tip of
+6. Loss of thumb and its metacarpal 40 bone
 
-<!-- marginal: 70 -->
+7. Loss of four fingers of one hand 50
 
-acromion to less than 4 1/2" below tip of oiecranon
+8. Loss of three fingers of one hand 30
 
-4. Loss of a hand or of the thumb
+9. Loss of two fingers of one hand 20
 
-<!-- marginal: 60 -->
-
-and four fingers of one hand or amputation from 4 1/2" below tip of oiecranon
-
-5. Loss of thumb
-
-<!-- marginal: 30 -->
-
-6. Loss of thumb and its metacarpal
-
-<!-- marginal: 40 -->
-
-bone
-
-7. Loss of four fingers of one hand
-
-<!-- marginal: 50 -->
-
-8. Loss of three fingers of one hand
-
-<!-- marginal: 30 -->
-
-9. Loss of two fingers of one hand
-
-<!-- marginal: 20 -->
-
-10. Loss of terminal phalanx of thumb
-
-<!-- marginal: 20 -->
+10. Loss of terminal phalanx of thumb 20
 
 Amputation—lower limbs cases
 
-11. Amputation of both feet resulting
+11. Amputation of both feet resulting 90 in end-bearing stumps
 
-<!-- marginal: 90 -->
+12. Amputation through both feet 80 proximal to the metatarso- phalangeal joint
 
-in end-bearing stumps
-
-12. Amputation through both feet
-
-<!-- marginal: 80 -->
-
-proximal to the metatarso- phalangeal joint
-
-13. Loss of all toes of both feet through
-
-<!-- marginal: 40 -->
-
-the metatarso-phalangeal joint
+13. Loss of all toes of both feet through 40 the metatarso-phalangeal joint
 
 <!-- page 6 -->
 
@@ -418,21 +354,11 @@ proximal to the proximal inter- phalangeal joint
 
 distal to the proximal inter- phalangeal joint
 
-16. Amputation at hip
+16. Amputation at hip 90
 
-<!-- marginal: 90 -->
+17. Amputation below hip with stump 80 not exceeding 5" in length measured from tip of great trenchanter
 
-17. Amputation below hip with stump
-
-<!-- marginal: 80 -->
-
-not exceeding 5" in length measured from tip of great trenchanter
-
-18. Amputation below hip with stump
-
-<!-- marginal: 70 -->
-
-exceeding 5" in length measured from tip of great trenchanter but not beyond middle thigh
+18. Amputation below hip with stump 70 exceeding 5" in length measured from tip of great trenchanter but not beyond middle thigh
 
 19. Amputation below middle thigh to
 
@@ -440,17 +366,9 @@ exceeding 5" in length measured from tip of great trenchanter but not beyond mid
 
 3 1/2" below knee
 
-20. Amputation below knee with stump
+20. Amputation below knee with stump 50 exceeding 3 1/2" but not exceeding 5"
 
-<!-- marginal: 50 -->
-
-exceeding 3 1/2" but not exceeding 5"
-
-21. Amputation below knee with stump
-
-<!-- marginal: 40 -->
-
-exceeding 5"
+21. Amputation below knee with stump 40 exceeding 5"
 
 22. Amputation of one foot resulting
 
@@ -482,17 +400,9 @@ complications, the other being normal
 
 Serial Description of Injury Percentage of loss No. of earning capacity
 
-26. Loss of vision of one eye without
+26. Loss of vision of one eye without 30 complications or disfigurement of eye-ball, the other being normal
 
-<!-- marginal: 30 -->
-
-complications or disfigurement of eye-ball, the other being normal
-
-27. Permanent total loss of hearing
-
-<!-- marginal: 20 -->
-
-in one ear
+27. Permanent total loss of hearing 20 in one ear
 
 Loss of—
 
@@ -500,13 +410,9 @@ A—Fingers of right or left hand
 
 Index finger
 
-28. Whole
+28. Whole 14
 
-<!-- marginal: 14 -->
-
-29. Two phalanges
-
-<!-- marginal: 11 -->
+29. Two phalanges 11
 
 30. One phalanx
 
@@ -520,9 +426,7 @@ without loss of bone
 
 Middle finger
 
-32. Whole
-
-<!-- marginal: 12 -->
+32. Whole 12
 
 33. Two phalanges
 
@@ -562,9 +466,7 @@ B—Toes of right or left foot
 
 Great toe
 
-40. Through metatarso-phalangeal joint
-
-<!-- marginal: 14 -->
+40. Through metatarso-phalangeal joint 14
 
 41. Part, with some loss of bone
 
@@ -638,7 +540,13 @@ Description of Nature of occupation occupational diseases or injury
 
 <!-- page 9 -->
 
-Description of Nature of occupation occupational diseases or injury
+<!-- marginal: Description of -->
+
+Nature of occupation
+
+<!-- marginal: occupational -->
+
+<!-- marginal: diseases or injury -->
 
 (b) Phosphorus the use or handling of, or exposure to, the fumes, dust or vapour of phosphorus or a compound of phosphorus or a substance containing phosphorus
 
@@ -646,9 +554,17 @@ Description of Nature of occupation occupational diseases or injury
 
 (d) Mercury the use or handling of, or exposure to, the fumes, dust or vapour of mercury or a compound of mercury or a substance containing mercury
 
-(e) Carbon the use or handling of, or exposure bisulphide to, the fumes or vapour of carbon bisulphide or a compound of carbon bisulphide or a substance containing carbon bisulphide
+(e) Carbon the use or handling of, or exposure
 
-(f) Benzene or the use or handling of, or exposure a homologue to, the fumes of, or vapour containing, benzene or any of its homologues and their amino and nitroderivatives
+<!-- marginal: bisulphide -->
+
+to, the fumes or vapour of carbon bisulphide or a compound of carbon bisulphide or a substance containing carbon bisulphide
+
+(f) Benzene or the use or handling of, or exposure
+
+<!-- marginal: a homologue -->
+
+to, the fumes of, or vapour containing, benzene or any of its homologues and their amino and nitroderivatives
 
 (g) Manganese the use or handling of, or exposure to, the fumes, dust or vapour of manganese or a compound of manganese or a substance containing manganese
 
@@ -658,7 +574,13 @@ Description of Nature of occupation occupational diseases or injury
 
 <!-- page 10 -->
 
-Description of Nature of occupation occupational diseases or injury
+<!-- marginal: Description of -->
+
+Nature of occupation
+
+<!-- marginal: occupational -->
+
+<!-- marginal: diseases or injury -->
 
 (j) Antimony the use or handling of, or exposure to, the fumes, dust or vapour of antimony or a compound of antimony or a substance containing antimony
 
@@ -668,23 +590,103 @@ Description of Nature of occupation occupational diseases or injury
 
 (m) Chromium the use or handling of, or exposure to, the fumes, dust or vapour of chromium or a compound of chromium or a substance containing chromium
 
-(n) Organochlorine, the use or handling of organoch- organophosphate, lorine, organophosphate, carbamate, carbamate, nitrophenol, pentachlorophenol, nitrophenol, dimethyldithiocarbamate or com- pentachlo- pounds of chlorophenoxy and rophenol, dipyridyl for the destruction of dimethyldithi- pests or vermin ocarbamate or compounds of chlorophenoxy and dipyridyl
+(n) Organochlorine, the use or handling of organoch-
 
-(o) Nitrous the use or handling of nitric acid fumes or exposure to nitrous fumes
+<!-- marginal: organophosphate, -->
+
+lorine, organophosphate, carbamate,
+
+<!-- marginal: carbamate, -->
+
+nitrophenol, pentachlorophenol,
+
+<!-- marginal: nitrophenol, -->
+
+dimethyldithiocarbamate or com-
+
+<!-- marginal: pentachlo- -->
+
+pounds of chlorophenoxy and
+
+<!-- marginal: rophenol, -->
+
+dipyridyl for the destruction of
+
+<!-- marginal: dimethyldithi- -->
+
+pests or vermin
+
+<!-- marginal: ocarbamate or -->
+
+<!-- marginal: compounds of -->
+
+<!-- marginal: chlorophenoxy -->
+
+<!-- marginal: and dipyridyl -->
+
+(o) Nitrous the use or handling of nitric acid
+
+<!-- marginal: fumes -->
+
+or exposure to nitrous fumes
 
 (p) Rengas wood the manipulation of rengas wood or any process in or incidental to the manufacture of articles therefrom
 
-(q) Hydrogen the use or handling of, or exposure cyanide or to, the fumes or vapour of hydrogen hydrogen cyanide or hydrogen sulphide sulphide gas
+(q) Hydrogen the use or handling of, or exposure
+
+<!-- marginal: cyanide or -->
+
+to, the fumes or vapour of hydrogen
+
+<!-- marginal: hydrogen -->
+
+cyanide or hydrogen sulphide
+
+<!-- marginal: sulphide gas -->
 
 <!-- page 11 -->
 
-Description of Nature of occupation occupational diseases or injury
+<!-- marginal: Description of -->
 
-(r) The halogen the production, liberation or use of derivatives of hydrocarbons of the aliphatic series aliphatic or or aromatic series and their halogen aromatic derivatives hydrocarbons
+Nature of occupation
 
-(s) Alcohols, the use or handling of, or exposure glycols, to, the fumes or vapour of alcohols, ketones or glycols, ketones or aldehydes aldehydes
+<!-- marginal: occupational -->
 
-(t) Carbon . the use or handling of, or exposure monoxide gas to, carbon monoxide gas, and any process involving the use of—
+<!-- marginal: diseases or injury -->
+
+(r) The halogen the production, liberation or use of
+
+<!-- marginal: derivatives of -->
+
+hydrocarbons of the aliphatic series
+
+<!-- marginal: aliphatic or -->
+
+or aromatic series and their halogen
+
+<!-- marginal: aromatic -->
+
+derivatives
+
+<!-- marginal: hydrocarbons -->
+
+(s) Alcohols, the use or handling of, or exposure
+
+<!-- marginal: glycols, -->
+
+to, the fumes or vapour of alcohols,
+
+<!-- marginal: ketones or -->
+
+glycols, ketones or aldehydes
+
+<!-- marginal: aldehydes -->
+
+(t) Carbon . the use or handling of, or exposure
+
+<!-- marginal: monoxide gas -->
+
+to, carbon monoxide gas, and any process involving the use of—
 
 (a) dynamite and gunpowder for blasting in subterranean galleries;
 
@@ -696,9 +698,21 @@ Description of Nature of occupation occupational diseases or injury
 
 (e) gas engines
 
-(u) Carbon blasting, the manufacture of mineral dioxide gas waters, fermentation in breweries and the formation of lime in lime kilns
+(u) Carbon blasting, the manufacture of mineral
 
-(v) Diethylene the use or handling of, or exposure dioxide to, the fumes of or vapour containing (dioxane) diethylene dioxide
+<!-- marginal: dioxide gas -->
+
+waters, fermentation in breweries and the formation of lime in lime kilns
+
+(v) Diethylene the use or handling of, or exposure
+
+<!-- marginal: dioxide -->
+
+to, the fumes of or vapour containing
+
+<!-- marginal: (dioxane) -->
+
+diethylene dioxide
 
 2. Anthrax Any occupation involving the handling of wool, hair, bristle, hides or skins or other animal products or residues, or contact with animals infected with anthrax
 
@@ -736,9 +750,7 @@ Description of Nature of occupation occupational diseases or injury
 
 aplastic type, due to X-ray, ionising particles, radium or other radio-active substances or other forms of radiant energy
 
-8. Toxic jaundice Any occupation involving the use or handling of halogenated hydrocarbon or
-
-<!-- marginal: nitric -->
+8. Toxic jaundice Any occupation involving the use or handling of halogenated hydrocarbon or nitric
 
 <!-- marginal: or -->
 
@@ -758,33 +770,53 @@ amidoderivatives of benzene or other poisonous substances
 
 <!-- page 14 -->
 
-Description of Nature of occupation occupational diseases or injury
+<!-- marginal: Description of -->
 
-15. Cramp of the Any occupation involving prolonged hand or forearm periods of hand writing, typing or due to repetitive other repetitive movements of the movements fingers, hand or arm
+Nature of occupation
 
-16. Compressed air Any occupation or process carried illness or its on in compressed-air or under water sequelae
+<!-- marginal: occupational -->
 
-17. (a) Tuberculosis Any occupation involving close or or leprosy frequent contact with a source or sources of tuberculosis or leprosy infection by reason
+<!-- marginal: diseases or injury -->
 
-<!-- marginal: of -->
+15. Cramp of the Any occupation involving prolonged
 
-employment—
+<!-- marginal: hand or forearm -->
 
-(a) in the medical treatment or nursing of a person or persons suffering
+periods of hand writing, typing or
 
-<!-- marginal: from -->
+<!-- marginal: due to repetitive -->
 
-tuberculosis or leprosy or in a service ancillary to such treatment or nursing;
+other repetitive movements of the
+
+<!-- marginal: movements -->
+
+fingers, hand or arm
+
+16.
+
+<!-- marginal: Compressed air -->
+
+Any occupation or process carried
+
+<!-- marginal: illness or its -->
+
+on in compressed-air or under water
+
+<!-- marginal: sequelae -->
+
+17. (a) Tuberculosis Any occupation involving close or
+
+<!-- marginal: or leprosy -->
+
+frequent contact with a source or sources of tuberculosis or leprosy infection by reason of employment—
+
+(a) in the medical treatment or nursing of a person or persons suffering from tuberculosis or leprosy or in a service ancillary to such treatment or nursing;
 
 (b) in attendance upon a person or persons suffering from tuberculosis or leprosy where the need for such attendance arises by reason of physical or mental infirmity;
 
 (c) as a research worker engaged in research in connection with tuberculosis or leprosy; or
 
-(d) as a laboratory worker, pathologist or post-mortem worker, where
-
-<!-- marginal: the -->
-
-occupation involves working with material which is a source of tuberculosis or leprosy infection or in any occupation ancillary to such employment
+(d) as a laboratory worker, pathologist or post-mortem worker, where the occupation involves working with material which is a source of tuberculosis or leprosy infection or in any occupation ancillary to such employment
 
 <!-- page 15 -->
 
@@ -798,9 +830,7 @@ Description of Nature of occupation occupational diseases or injury
 
 (a) close and frequent contact with human blood or human blood products; or
 
-(b) close and frequent contact with a source of viral hepatitis infection by reason of employment
-
-<!-- marginal: in -->
+(b) close and frequent contact with a source of viral hepatitis infection by reason of employment in
 
 <!-- marginal: the -->
 
@@ -820,27 +850,61 @@ medical treatment or nursing of a person or persons suffering from viral hepatit
 
 <!-- page 16 -->
 
-16
+<!-- marginal: 16 -->
 
 ## BILL
 
-Description of Nature of occupation occupational diseases or injury
+<!-- marginal: Description of -->
 
-24. Occupational Any occupation involving the asthma caused by exposure to the inhalation of sensitising mineral dusts such as cement, agents or copper, zinc, animal dusts, such irritants as bone or hair, or dusts of plant origin such as cotton, wood, flax, jute, padi husks, cork, spices, hemp, sisal, tobacco, tea, flour or gases or vapours of toluene diisocyanate or formaldehyde
+Nature of occupation
 
-25. Pneumoconiosis Any occupation involving — (silicosis, asbestosis,
+<!-- marginal: occupational -->
 
-(a) the mining, quarrying or anthracosilicosis, working of silica rock or stannosis, siderosis the working of dried or siderosilicosis) quartzose sand or any dry deposit or dry residue of silica or any dry admixture containing such materials;
+<!-- marginal: diseases or injury -->
 
-(b) the handling of any of the materials specified
+24. Occupational Any occupation involving the
 
-<!-- marginal: in -->
+<!-- marginal: asthma caused by -->
 
-subparagraph (a)
+exposure to the inhalation of
 
-<!-- marginal: in or -->
+<!-- marginal: sensitising -->
 
-incidental to any of the operations mentioned therein or substantial exposure to the dust arising from such operations;
+mineral dusts such as cement,
+
+<!-- marginal: agents or -->
+
+copper, zinc, animal dusts, such
+
+<!-- marginal: irritants -->
+
+as bone or hair, or dusts of plant origin such as cotton, wood, flax, jute, padi husks, cork, spices, hemp, sisal, tobacco, tea, flour or gases or vapours of toluene diisocyanate or formaldehyde
+
+25.
+
+<!-- marginal: Pneumoconiosis -->
+
+Any occupation involving —
+
+<!-- marginal: (silicosis, -->
+
+<!-- marginal: asbestosis, -->
+
+(a) the mining, quarrying or
+
+<!-- marginal: anthracosilicosis, -->
+
+working of silica rock or
+
+<!-- marginal: stannosis, siderosis -->
+
+the working of dried
+
+<!-- marginal: or siderosilicosis) -->
+
+quartzose sand or any dry deposit or dry residue of silica or any dry admixture containing such materials;
+
+(b) the handling of any of the materials specified in subparagraph (a) in or incidental to any of the operations mentioned therein or substantial exposure to the dust arising from such operations;
 
 (c) the breaking, crushing or grinding of flint or the working or handling of broken, crushed or ground flint or materials containing such flint or substantial exposure to the dust arising from such operations;
 
@@ -848,49 +912,25 @@ incidental to any of the operations mentioned therein or substantial exposure to
 
 <!-- page 17 -->
 
-Description of Nature of occupation occupational diseases or injury
+<!-- marginal: Description of -->
+
+Nature of occupation
+
+<!-- marginal: occupational -->
+
+<!-- marginal: diseases or injury -->
 
 (e) the grinding of mineral graphite, or substantial exposure to the dust arising from such grinding;
 
-(f) work in a foundry or the performance
+(f) work in a foundry or the performance of, or substantial exposure to the dust arising from, any of the following operations:
 
-<!-- marginal: of, -->
+(i) the freeing of steel castings from adherent siliceous substance;
 
-<!-- marginal: or -->
+(ii) the freeing of metal castings from adherent siliceous substance;
 
-substantial exposure to the dust arising from, any of the following operations:
+(g) the manufacture of china or earthenware (including sanitary earthenware, electrical earthenware tiles), and any occupation involving substantial exposure to the dust arising therefrom;
 
-(i) the freeing of steel castings
-
-<!-- marginal: from -->
-
-adherent siliceous substance;
-
-(ii) the freeing of metal castings
-
-<!-- marginal: from -->
-
-adherent siliceous substance;
-
-(g) the manufacture of china or earthenware
-
-<!-- marginal: (including -->
-
-sanitary earthenware, electrical earthenware tiles), and any
-
-<!-- marginal: occupation -->
-
-involving
-
-<!-- marginal: substantial -->
-
-exposure to the dust arising therefrom;
-
-(h) the dressing of granite or any igneous rock by masons or the crushing of
-
-<!-- marginal: such -->
-
-materials or substantial exposure to the dust arising from such operations;
+(h) the dressing of granite or any igneous rock by masons or the crushing of such materials or substantial exposure to the dust arising from such operations;
 
 (i) the use, or preparation for use, of a grindstone or substantial exposure to the dust arising therefrom;
 
@@ -900,21 +940,19 @@ materials or substantial exposure to the dust arising from such operations;
 
 <!-- page 18 -->
 
-Description of Nature of occupation occupational diseases or injury
+<!-- marginal: Description of -->
+
+Nature of occupation
+
+<!-- marginal: occupational -->
+
+<!-- marginal: diseases or injury -->
 
 textiles or other articles containing asbestos, or substantial exposure to the dust arising from any of the foregoing operations;
 
-(l) work in
+(l) work in any mine (underground or above ground) in which one of the objects of the mining operations is the getting of any mineral, or the working or handling of any minerals extracted therefrom, or any operation incidental thereto;
 
-<!-- marginal: any mine -->
-
-(underground or above ground) in which one of the objects of the mining operations is the getting of any mineral, or the working or handling of any minerals extracted therefrom, or any operation incidental thereto;
-
-(m) the manufacture of carbon electrodes for use in the electrolytic extraction of aluminium oxide, and any occupation
-
-<!-- marginal: involving -->
-
-substantial exposure to the dust arising therefrom;
+(m) the manufacture of carbon electrodes for use in the electrolytic extraction of aluminium oxide, and any occupation involving substantial exposure to the dust arising therefrom;
 
 (n) exposure to the inhalation of dust containing iron and silica or haematite;
 
@@ -922,7 +960,11 @@ substantial exposure to the dust arising therefrom;
 
 26. Cancer caused by— Any occupation involving—
 
-(a) 4—amino- the use or handling of, or exposure biphenyl to, the fumes, dust or vapour of 4-aminobiphenyl or a substance containing 4-aminobiphenyl
+(a) 4—amino- the use or handling of, or exposure
+
+<!-- marginal: biphenyl -->
+
+to, the fumes, dust or vapour of 4-aminobiphenyl or a substance containing 4-aminobiphenyl
 
 (b) Arsenic the use or handling of, or exposure to, the fumes, dust or vapour of arsenic or a substance containing arsenic
 
@@ -930,11 +972,21 @@ substantial exposure to the dust arising therefrom;
 
 <!-- page 19 -->
 
-Description of Nature of occupation occupational diseases or injury
+<!-- marginal: Description of -->
+
+Nature of occupation
+
+<!-- marginal: occupational -->
+
+<!-- marginal: diseases or injury -->
 
 (d) Benzidine the use or handling of, or exposure to, the fumes, dust or vapour of benzidine or a substance containing benzidine
 
-(e) Bis-chloro the use or handling of, or exposure methyl ether to, the fumes, dust or vapour of bis- chloro methyl ether or a substance containing bis-chloro methyl ether
+(e) Bis-chloro the use or handling of, or exposure
+
+<!-- marginal: methyl ether -->
+
+to, the fumes, dust or vapour of bis- chloro methyl ether or a substance containing bis-chloro methyl ether
 
 (f) Chromium the use or handling of, or exposure to, the fumes, dust or vapour of chromium or a substance containing chromium
 
@@ -942,31 +994,85 @@ Description of Nature of occupation occupational diseases or injury
 
 (h) Mustard gas the use or handling of, or exposure to, mustard gas or a substance containing mustard gas
 
-(i) B-naph- the use or handling of, or exposure thylamme to, the fumes, dust or vapour of B- napthylamine or a substance containing B-napthylamine
+(i) B-naph- the use or handling of, or exposure
+
+<!-- marginal: thylamme -->
+
+to, the fumes, dust or vapour of B- napthylamine or a substance containing B-napthylamine
 
 (j) Nickel the use or handling of, or exposure to, the fumes, dust or vapour of nickel or a substance containing nickel
 
-(k) Soots, tars the use or handling of, or exposure and oils to, soots, tars and oils
+(k) Soots, tars the use or handling of, or exposure
+
+<!-- marginal: and oils -->
+
+to, soots, tars and oils
 
 (l) Vinyl chloride the use or handling of, or exposure to, the fumes, dust or vapour of vinyl chloride or a substance containing vinyl chloride
 
-(m) Particulate the use or handling of, or exposure polycyclic to, the fumes, dust or vapour of aromatic polycyclic aromatic hydrocarbon or hydrocarbon a substance containing polycyclic aromatic hydrocarbon
+(m) Particulate the use or handling of, or exposure
+
+<!-- marginal: polycyclic -->
+
+to, the fumes, dust or vapour of
+
+<!-- marginal: aromatic -->
+
+polycyclic aromatic hydrocarbon or
+
+<!-- marginal: hydrocarbon -->
+
+a substance containing polycyclic aromatic hydrocarbon
 
 <!-- page 20 -->
 
-Description of Nature of occupation occupational diseases or injury
+<!-- marginal: Description of -->
 
-(n) Acrylo- the use or handling of, or exposure nitrile to, the fumes, dust or vapour of acrylonitrile or a substance containing acrylonitrile
+Nature of occupation
 
-(o) 1, 2-dibromoe- the use or handling of, or exposure thane to the fumes, dust or vapour of (ethylene ethylene dibromide or a substance dibromide) containing dibromide
+<!-- marginal: occupational -->
+
+<!-- marginal: diseases or injury -->
+
+(n) Acrylo- the use or handling of, or exposure
+
+<!-- marginal: nitrile -->
+
+to, the fumes, dust or vapour of acrylonitrile or a substance containing acrylonitrile
+
+(o) 1, 2-dibromoe- the use or handling of, or exposure
+
+<!-- marginal: thane -->
+
+to the fumes, dust or vapour of
+
+<!-- marginal: (ethylene -->
+
+ethylene dibromide or a substance
+
+<!-- marginal: dibromide) -->
+
+containing dibromide
 
 (p) Wood dust the use or handling of, or exposure to, wood dust arising from the manufacture of wood products
 
-(q) Benz-o- the use or handling of, or exposure pyrene to, the fumes, dust or vapour of benz- o-pyrene or a substance containing benz-o-pyrene
+(q) Benz-o- the use or handling of, or exposure
+
+<!-- marginal: pyrene -->
+
+to, the fumes, dust or vapour of benz- o-pyrene or a substance containing benz-o-pyrene
 
 (r) Formaldehyde the use or handling of, or exposure to, the gas of formaldehyde
 
-27. Fibrotic disease of the lung caused by— Any occupation involving—
+27.
+
+<!-- marginal: Fibrotic -->
+
+<!-- marginal: disease of the -->
+
+<!-- marginal: lung caused by— -->
+
+Any occupation involving—
 
 (a) talc the use or handling of, or exposure to, dust of talc or a substance containing talc
 
@@ -978,13 +1084,13 @@ Description of Nature of occupation occupational diseases or injury
 
 ## EXPLANATORY STATEMENT
 
-This Bill seeks to amend the Workmen's Compensation Act 1952 ("the Act").
+This Bill seeks to amend the Workmen's Compensation Act 1952
+
+<!-- marginal: ("the Act"). -->
 
 <!-- page 21 -->
 
-2. Clause 2 seeks to amend the respective provisos to the definitions of "partial disablement" and "total disablement" to include the new
-
-## Part I and Part II of the First Schedule.
+2. Clause 2 seeks to amend the respective provisos to the definitions of "partial disablement" and "total disablement" to include the new Part I and Part II of the First Schedule.
 
 3. Clause 3 seeks to introduce a new section 3A to empower the Minister to exempt any person or class of persons from all or any
 

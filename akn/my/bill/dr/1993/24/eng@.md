@@ -48,21 +48,51 @@ inserting, immediately after subsection (5), the following new subsection (6):
 
 <!-- page 2 -->
 
-2
+<!-- marginal: 2 -->
 
 ## BILL
 
 fit, the Director-General may, in writing, delegate the exercise of any of his powers or the performance of any of his duties under this Act to any Fire Officer, and where the Director-General acts under this subsection, he shall specify the territorial limits and the duration of the delegated jurisdiction.".
 
-New 5. The principal Act is amended by
+<!-- marginal: New -->
 
-<!-- marginal: inserting, -->
+5. The principal Act is amended by inserting,
 
-sections 35A immediately after section 35, the following new sections and 35B. 35A and 35B:
+<!-- marginal: sections 35A -->
 
-' Power of 35A. (1) Notwithstanding any of the provisions Director- of this Act, where the Director-General is General to order satisfied that— activity to cease
+immediately after section 35, the following new sections
 
-(a) any continued activity in any premises in cases of would constitute an immediate danger urgency. of fire prejudicial to the safety of life or property; and
+<!-- marginal: and 35B. -->
+
+35A and 35B:
+
+<!-- marginal: ' Power of -->
+
+35A. (1) Notwithstanding any of the provisions
+
+<!-- marginal: Director- -->
+
+of this Act, where the Director-General is
+
+<!-- marginal: General -->
+
+<!-- marginal: to order -->
+
+satisfied that—
+
+<!-- marginal: activity -->
+
+<!-- marginal: to cease -->
+
+(a) any continued activity in any premises
+
+<!-- marginal: in cases of -->
+
+would constitute an immediate danger
+
+<!-- marginal: urgency. -->
+
+of fire prejudicial to the safety of life or property; and
 
 (b) the delay in applying for and obtaining a prohibitory order under section 35(2) would substantially increase the risk to such life or property, he may, by order, direct the owner or occupier of the premises to cease such activity.
 
@@ -70,11 +100,29 @@ sections 35A immediately after section 35, the following new sections and 35B. 3
 
 (3) Any person who fails to comply with an order of the Director-General made under subsection (1) shall be guilty of an offence.
 
-Appeal 35s. (1) An owner or occupier who
+<!-- marginal: Appeal -->
 
-<!-- marginal: is -->
+35s. (1) An owner or occupier who is
 
-against dissatisfied with an order to cease activity made order of by the Director-General under section 35A(1) Director- General may, within ten days of the making of the order, to cease appeal to the High Court. activity.
+<!-- marginal: against -->
+
+dissatisfied with an order to cease activity made
+
+<!-- marginal: order of -->
+
+by the Director-General under section 35A(1)
+
+<!-- marginal: Director- -->
+
+<!-- marginal: General -->
+
+may, within ten days of the making of the order,
+
+<!-- marginal: to cease -->
+
+appeal to the High Court.
+
+<!-- marginal: activity. -->
 
 (2) An appeal against an order to cease activity shall not operate as a stay of execution, but the court may, on application and on
 
@@ -150,9 +198,7 @@ AND WHEREAS the Director-General of Fire Services is satisfied that any delay oc
 
 of, a prohibitory order from the High Court would substantially increase the risk to such life or property:
 
-NOW THEREFORE I, in pursuance of section 35A(1) of the Fire Services Act 1988, hereby order that
-
-<!-- marginal: the activity of -->
+NOW THEREFORE I, in pursuance of section 35A(1) of the Fire Services Act 1988, hereby order that the activity of
 
 in the above-said premises do cease forthwith.
 
@@ -160,11 +206,9 @@ Dated the..........day of...............................19..........
 
 (Director-General of Fire Services) ".
 
-New Second
+<!-- marginal: New Second -->
 
-9. The principal Act is amended by
-
-<!-- marginal: inserting, -->
+9. The principal Act is amended by inserting,
 
 ## Schedule.
 
@@ -210,6 +254,4 @@ This Bill seeks to amend the Fire Services Act 1988.
 
 ## IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure.
-
-<!-- marginal: [PN. (U2) 1724.] -->
+This Bill will not involve the Government in any extra financial expenditure. [PN. (U2) 1724.]

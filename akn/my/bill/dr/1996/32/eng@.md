@@ -10,27 +10,13 @@
 
 ## PRELIMINARY
 
-1. Short title and commencement.
-
-2. Interpretation.
-
-3. Existence of a trust.
-
-4. Charitable and purpose trusts.
-
-5. Spendthrift or protective trust.
-
-6. Proper law of a trust and power to change proper law.
+1. Short title and commencement. 2. Interpretation. 3. Existence of a trust. 4. Charitable and purpose trusts. 5. Spendthrift or protective trust. 6. Proper law of a trust and power to change proper law.
 
 ## PART II
 
 ## CREATION AND RECOGNITION OF OFFSHORE TRUSTS
 
-7. Existence of offshore trust.
-
-8. Creation of offshore trust.
-
-9. Validity of offshore trust.
+7. Existence of offshore trust. 8. Creation of offshore trust. 9. Validity of offshore trust.
 
 10. Unenforceability of foreign claim or judgment.
 
@@ -128,7 +114,33 @@ III
 
 <!-- page 3 -->
 
-49. General powers of the Court. 50. Payment of costs. 51. Protection of persons dealing with trustees. 52. Limitation of action. 53. Money or other property from illegal activities. 54. General offence and penalty. 55. Power to prosecute. 56. Compounding of offences. 57. Regulations. 58. Exemption. 59. Prohibition on registration or carrying on of business. 60. Procedure where none laid down. 61. Saving in respect of trusts existing before commencement of this Act. 62. Non-application of certain laws.
+49. General powers of the Court.
+
+50. Payment of costs.
+
+51. Protection of persons dealing with trustees.
+
+52. Limitation of action.
+
+53. Money or other property from illegal activities.
+
+54. General offence and penalty.
+
+55. Power to prosecute.
+
+56. Compounding of offences.
+
+57. Regulations.
+
+58. Exemption.
+
+59. Prohibition on registration or carrying on of business.
+
+60. Procedure where none laid down.
+
+61. Saving in respect of trusts existing before commencement of this Act.
+
+62. Non-application of certain laws.
 
 <!-- page 5 -->
 
@@ -246,7 +258,11 @@ pursuant to section 43 of the Exchange Control Act 1953;
 
 "trust" includes the trust property and the rights, powers, duties, interests, relationships and obligations under a trust;
 
-"trust company" means a company registered under Act 442. section 4 of the Labuan Trust Companies Act 1990 to carry on business as a trust company;
+"trust company" means a company registered under
+
+<!-- marginal: Act 442. -->
+
+section 4 of the Labuan Trust Companies Act 1990 to carry on business as a trust company;
 
 "trust instrument" means an instrument by which a trust is created and includes a unilateral declaration of trust and any instrument varying the terms of the trust;
 
@@ -318,9 +334,17 @@ one or more of the following purposes and where the fulfilment of such purpose o
 
 (3) Notwithstanding any law to the contrary, a trust may be created or established for a particular purpose or purposes, whether charitable or not, but the trust must vest in natural persons within the perpetuity period applying or expressed to apply to the trust, and any trust so created or established shall be enforceable by the settlor or his personal representatives or by the person or persons named in the instrument creating or establishing the trust as the person or persons appointed to enforce the trust and the trust shall be enforceable at the instance of the person or persons so named notwithstanding that such person or persons are not beneficiaries under the trust.
 
-Spendthrift
+<!-- marginal: Spendthrift -->
 
-5. (1) The terms of a trust may make the interest of a or protective beneficiary in the trust property or in any income or trust. capital of such property—
+5. (1) The terms of a trust may make the interest of a
+
+<!-- marginal: or protective -->
+
+beneficiary in the trust property or in any income or
+
+<!-- marginal: trust. -->
+
+capital of such property—
 
 (a) liable to termination;
 
@@ -386,9 +410,17 @@ any one or more of them otherwise become entitled to be beneficiaries under the 
 
 (4) For the purpose of this section, the expression "at the time the trust is created", in relation to a trust created by a will, means the time at which the will takes effect.
 
-Creation of
+<!-- marginal: Creation of -->
 
-8. (1) An offshore trust shall not be valid unless it is offshore created by a will or other instrument in writing, including trust. a unilateral declaration of trust, but a unit trust shall be created only by a will or other instrument in writing.
+8. (1) An offshore trust shall not be valid unless it is
+
+<!-- marginal: offshore -->
+
+created by a will or other instrument in writing, including
+
+<!-- marginal: trust. -->
+
+a unilateral declaration of trust, but a unit trust shall be created only by a will or other instrument in writing.
 
 (2) A unilateral declaration of trust is a declaration in writing by a trust company stating—
 
@@ -450,9 +482,19 @@ the trust is valid with respect to the lawful purpose or purposes which do not a
 
 (5) A settlor or beneficiary of an offshore trust may also request for directives from the Court as to matters referred to in subsection (4).
 
-Unenforce-
+<!-- marginal: Unenforce- -->
 
-10. (1) Where an offshore trust is validly created in ability of accordance with or as provided by this Act, the Court foreign claim or judgment. shall not vary it or set it aside or recognize the validity of any claim against the trust property pursuant to the law of another jurisdiction or the order of a court of another jurisdiction in respect of—
+10. (1) Where an offshore trust is validly created in
+
+<!-- marginal: ability of -->
+
+accordance with or as provided by this Act, the Court
+
+<!-- marginal: foreign claim -->
+
+<!-- marginal: or judgment. -->
+
+shall not vary it or set it aside or recognize the validity of any claim against the trust property pursuant to the law of another jurisdiction or the order of a court of another jurisdiction in respect of—
 
 (a) the personal and proprietary consequences of marriage or the termination of marriage;
 
@@ -564,9 +606,17 @@ Penalty: Ten thousand ringgit.
 
 (9) For the purpose of subsection (8), if there are two or more trustees, the requirements of this section shall be deemed to have been complied with by all the trustees so long as one of them has complied with them.
 
-Registration
+<!-- marginal: Registration -->
 
-13. The trustee of a registered offshore trust may furnish of trust the Authority with a copy of the trust instrument or any instrument. amendment thereto which has been certified by the trustee and the Authority shall register and file that copy as a true copy.
+13. The trustee of a registered offshore trust may furnish
+
+<!-- marginal: of trust -->
+
+the Authority with a copy of the trust instrument or any
+
+<!-- marginal: instrument. -->
+
+amendment thereto which has been certified by the trustee and the Authority shall register and file that copy as a true copy.
 
 <!-- page 19 -->
 
@@ -624,11 +674,17 @@ for a period not exceeding one hundred years; but it may be terminated at any ti
 
 <!-- page 20 -->
 
-Variation and
+<!-- marginal: Variation and -->
 
-17. (1) An offshore trust may expressly provide— revocation of offshore
+17. (1) An offshore trust may expressly provide—
 
-(a) that its terms are capable of variation; or trust.
+<!-- marginal: revocation of -->
+
+<!-- marginal: offshore -->
+
+(a) that its terms are capable of variation; or
+
+<!-- marginal: trust. -->
 
 (b) that the trust itself or a power exercisable under the trust is revocable, either in whole or in part.
 
@@ -638,9 +694,17 @@ Variation and
 
 (4) Subject to the terms of the trust, where an offshore trust is revoked, either in whole or in part, the trustee shall hold the trust property affected by the revocation for the settlor absolutely or, if the settlor is dead, for the settlor's personal representative or estate.
 
-Failure or
+<!-- marginal: Failure or -->
 
-18. (1) Subject to the terms of an offshore trust and lapse of to any order of the Court, the trust property or interest interest. under the trust shall be held by the trustee in trust for the settlor absolutely or, if the settlor is dead, for the settlor's personal representative or estate where—
+18. (1) Subject to the terms of an offshore trust and
+
+<!-- marginal: lapse of -->
+
+to any order of the Court, the trust property or interest
+
+<!-- marginal: interest. -->
+
+under the trust shall be held by the trustee in trust for the settlor absolutely or, if the settlor is dead, for the settlor's personal representative or estate where—
 
 (a) the interest in question lapses;
 
@@ -684,13 +748,31 @@ the trust, where all the beneficiaries of an offshore trust are in existence and
 
 <!-- page 22 -->
 
-Redomi-
+<!-- marginal: Redomi- -->
 
-20. Subject to the provisions of this Act, a trust ciliation of established or created in accordance with the laws of foreign trust in Labuan. any country other than Malaysia, or of any jurisdiction within such a country, may, if it is so authorized by the laws of that country or jurisdiction, or the terms of the trust and its proper law, be enforceable, recognized or registered in Labuan as if it had been created under this Act.
+20. Subject to the provisions of this Act, a trust
 
-Migration of
+<!-- marginal: ciliation of -->
 
-21. (1) Subject to the provisions of this Act and the offshore trust terms of the trust and its proper law, an offshore trust from Labuan. validly created or recognized under this Act may be transferred to and become a trust under the laws of another country or of a jurisdiction within such a country.
+established or created in accordance with the laws of
+
+<!-- marginal: foreign trust -->
+
+<!-- marginal: in Labuan. -->
+
+any country other than Malaysia, or of any jurisdiction within such a country, may, if it is so authorized by the laws of that country or jurisdiction, or the terms of the trust and its proper law, be enforceable, recognized or registered in Labuan as if it had been created under this Act.
+
+<!-- marginal: Migration of -->
+
+21. (1) Subject to the provisions of this Act and the
+
+<!-- marginal: offshore trust -->
+
+terms of the trust and its proper law, an offshore trust
+
+<!-- marginal: from Labuan. -->
+
+validly created or recognized under this Act may be transferred to and become a trust under the laws of another country or of a jurisdiction within such a country.
 
 (2) An offshore trust which has been previously transferred to Labuan under the provisions of section 20 may be transferred to and become a trust under the laws of another country or of a jurisdiction within such a country in accordance with this section.
 
@@ -700,9 +782,13 @@ III
 
 ## BENEFICIARIES OF OFFSHORE TRUSTS
 
-Benefi-
+<!-- marginal: Benefi- -->
 
-22. (1) Subject to subsection 4(3), a beneficiary shall ciaries. be—
+22. (1) Subject to subsection 4(3), a beneficiary shall
+
+<!-- marginal: ciaries. -->
+
+be—
 
 (a) identifiable by name; or
 
@@ -772,9 +858,13 @@ shall apply where a trust, or an interest under a trust, is in favour of a class
 
 ## TRUSTEES OF OFFSHORE TRUSTS
 
-Appointment
+<!-- marginal: Appointment -->
 
-26. (1) Trustees are appointed by or as provided in the of trustees. trust instrument and in such number as may be provided therein.
+26. (1) Trustees are appointed by or as provided in the
+
+<!-- marginal: of trustees. -->
+
+trust instrument and in such number as may be provided therein.
 
 (2) There are no restrictions imposed on the number of trustees that may be provided for in a trust instrument but—
 
@@ -820,9 +910,13 @@ appointed as trustee does any act or thing in relation to the trust property con
 
 <!-- page 26 -->
 
-Resignation
+<!-- marginal: Resignation -->
 
-28. (1) Subject to subsection (2) and the terms of the of trustees. trust, a trustee may resign his office by delivering to—
+28. (1) Subject to subsection (2) and the terms of the
+
+<!-- marginal: of trustees. -->
+
+trust, a trustee may resign his office by delivering to—
 
 (a) the settlor or, in the absence of the settlor, at least one beneficiary; and
 
@@ -836,9 +930,13 @@ a notice in writing of his intention and the resignation shall take effect on th
 
 (b) it would result in there being no trustee, unless, before the resignation takes effect, an application has been made to the Court for the appointment of a new trustee and a new trustee has been appointed.
 
-Vacancy in
+<!-- marginal: Vacancy in -->
 
-29. (1) A trustee shall cease to be a trustee and a trust. his position as trustee shall be considered vacant upon—
+29. (1) A trustee shall cease to be a trustee and
+
+<!-- marginal: a trust. -->
+
+his position as trustee shall be considered vacant upon—
 
 (a) his removal as trustee by the Court;
 
@@ -884,9 +982,13 @@ without the approval of the Court.
 
 (6) A trustee shall keep the trust property distinct and separate from his own property and separately identifiable from any other property of which he is a trustee or to which he is beneficially entitled.
 
-Duty of co-
+<!-- marginal: Duty of co- -->
 
-31. (1) Subject to subsection (2) and the terms of the trustees. trust, where there is more than one trustee, all the trustees shall—
+31. (1) Subject to subsection (2) and the terms of the
+
+<!-- marginal: trustees. -->
+
+trust, where there is more than one trustee, all the trustees shall—
 
 (a) act jointly in the performance of their duties and the exercise of their powers; and
 
@@ -898,13 +1000,21 @@ Duty of co-
 
 (b) no act, decision, power or discretion to be done, taken or exercised by the majority of the trustees shall, notwithstanding anything contained in the terms of the trust, be valid or have effect if it is done, taken or exercised without the agreement of the trust company acting as one of the trustees of the trust.
 
-Impartiality
+<!-- marginal: Impartiality -->
 
-32. Subject to the terms of the trust and without prejudice of trustees. to the exercise of a discretion conferred upon a trustee by the terms of the trust, a trustee shall be impartial and shall not execute the trust for the advantage of a beneficiary or a charitable purpose at the expense of another beneficiary or charitable purpose where there is more than one beneficiary or charitable purpose under the trust, or for the advantage of a beneficiary at the expense of the charitable purpose or vice versa, where the trust has only one beneficiary and one charitable purpose.
+32. Subject to the terms of the trust and without prejudice
 
-Powers of
+<!-- marginal: of trustees. -->
 
-33. (1) Subject to the terms of the trust and to the trustees. provisions of this Act, a trustee shall have all the powers of a beneficial owner in relation to the trust property.
+to the exercise of a discretion conferred upon a trustee by the terms of the trust, a trustee shall be impartial and shall not execute the trust for the advantage of a beneficiary or a charitable purpose at the expense of another beneficiary or charitable purpose where there is more than one beneficiary or charitable purpose under the trust, or for the advantage of a beneficiary at the expense of the charitable purpose or vice versa, where the trust has only one beneficiary and one charitable purpose.
+
+<!-- marginal: Powers of -->
+
+33. (1) Subject to the terms of the trust and to the
+
+<!-- marginal: trustees. -->
+
+provisions of this Act, a trustee shall have all the powers of a beneficial owner in relation to the trust property.
 
 <!-- page 29 -->
 
@@ -944,9 +1054,17 @@ the appointment of a protector of the trust who shall be consulted upon by the t
 
 (3) Unless otherwise expressly excluded by the terms of the trust, a protector shall have the power to remove a trustee or to appoint a new or additional trustee, but if the protector removes a trust company as trustee, the protector shall appoint another trust company as a new trustee in its place.
 
-Delegation of
+<!-- marginal: Delegation of -->
 
-36. (1) A trustee shall not delegate his powers unless powers by permitted to do so by this Act or by the terms of the trustee. trust or by the Court.
+36. (1) A trustee shall not delegate his powers unless
+
+<!-- marginal: powers by -->
+
+permitted to do so by this Act or by the terms of the
+
+<!-- marginal: trustee. -->
+
+trust or by the Court.
 
 (2) A trustee may, unless the terms of the trust specifically provide to the contrary—
 
@@ -990,9 +1108,7 @@ contrary, a trustee may, by power of attorney, delegate for a period not exceedi
 
 (d) the trust or function delegated.
 
-(6) Failure of the donor to comply with subsection
-
-(4) or (5) shall not of itself, in favour of a person dealing with the donee, invalidate anything done by the donee.
+(6) Failure of the donor to comply with subsection (4) or (5) shall not of itself, in favour of a person dealing with the donee, invalidate anything done by the donee.
 
 <!-- page 32 -->
 
@@ -1000,9 +1116,27 @@ contrary, a trustee may, by power of attorney, delegate for a period not exceedi
 
 (8) The provisions of this section shall not apply to a trust company acting as trustee.
 
-Accumulation,
+<!-- marginal: Accumulation, -->
 
-38. (1) Where the terms of the trust direct or authorize advancement the accumulation for a period of all or part of the income or appropriation of the trust, the trustee shall distribute the income of the of trust trust which is not accumulated as directed or authorized property. by the terms of the trust.
+38. (1) Where the terms of the trust direct or authorize
+
+<!-- marginal: advancement -->
+
+the accumulation for a period of all or part of the income
+
+<!-- marginal: or -->
+
+<!-- marginal: appropriation -->
+
+of the trust, the trustee shall distribute the income of the
+
+<!-- marginal: of trust -->
+
+trust which is not accumulated as directed or authorized
+
+<!-- marginal: property. -->
+
+by the terms of the trust.
 
 (2) Subject to the terms of the trust, and subject to any prior interest or charges affecting the trust property, where a beneficiary is a minor and whether or not his interest is a vested interest or an interest which will become vested on attaining the age of majority or a later age or upon the happening of any event, the trustee may—
 
@@ -1060,9 +1194,19 @@ for services rendered unless authorized—
 
 <!-- page 34 -->
 
-Confiden-
+<!-- marginal: Confiden- -->
 
-41. (1) Subject to the terms of the trust and to any tiality in order of the Court given on special and exceptional relation to trusts. grounds, a trustee or any other person shall not be required to disclose to any person any document or information which discloses—
+41. (1) Subject to the terms of the trust and to any
+
+<!-- marginal: tiality in -->
+
+order of the Court given on special and exceptional
+
+<!-- marginal: relation to -->
+
+<!-- marginal: trusts. -->
+
+grounds, a trustee or any other person shall not be required to disclose to any person any document or information which discloses—
 
 (a) his deliberations as to how he should exercise or has exercised his functions as trustee;
 
@@ -1176,13 +1320,37 @@ a breach of trust shall, without prejudice to any other liability, be liable for
 
 ## BILL
 
-43. (1) A trustee acting for more than one trust shall Trustee acting in not, in the absence of fraud, be affected by notice of any respect of instrument, matter, fact or thing in relation to any particular more than one trust. trust if the trustee has obtained notice of it by reason of acting or having acted for the purposes of another trust.
+43. (1) A trustee acting for more than one trust shall
+
+<!-- marginal: Trustee -->
+
+<!-- marginal: acting in -->
+
+not, in the absence of fraud, be affected by notice of any
+
+<!-- marginal: respect of -->
+
+instrument, matter, fact or thing in relation to any particular
+
+<!-- marginal: more than -->
+
+<!-- marginal: one trust. -->
+
+trust if the trustee has obtained notice of it by reason of acting or having acted for the purposes of another trust.
 
 (2) A trustee of a trust shall disclose to any co-trustee any interest which he has as trustee of another trust if any transaction in relation to the first-mentioned trust is to be entered into with the trustee of the other trust.
 
-Dealings
+<!-- marginal: Dealings -->
 
-44. (1) Where in any transaction or matter affecting a with third trust, a trustee informs a third party that he is acting as parties. trustee, a claim by such third party in relation thereto shall extend only to the trust property.
+44. (1) Where in any transaction or matter affecting a
+
+<!-- marginal: with third -->
+
+trust, a trustee informs a third party that he is acting as
+
+<!-- marginal: parties. -->
+
+trustee, a claim by such third party in relation thereto shall extend only to the trust property.
 
 (2) Where in any such transaction or matter a trustee fails to inform a third party that he is acting as trustee and the third party is otherwise unaware of the fact, the trustee—
 
@@ -1194,9 +1362,13 @@ Dealings
 
 (4) In this section, "third party" means a person other than a settlor, trustee or beneficiary of the trust.
 
-Constructive
+<!-- marginal: Constructive -->
 
-45. (1) Subject to subsection (2), where a person makes trustee. or receives any profit, gain or advantage from a breach of trust he shall be deemed to be a constructive trustee of that profit, gain or advantage.
+45. (1) Subject to subsection (2), where a person makes
+
+<!-- marginal: trustee. -->
+
+or receives any profit, gain or advantage from a breach of trust he shall be deemed to be a constructive trustee of that profit, gain or advantage.
 
 <!-- page 39 -->
 
@@ -1234,9 +1406,23 @@ officers or employees, of trust property or the proceeds thereof in his possessi
 
 ## MISCELLANEOUS
 
-Variation of
+<!-- marginal: Variation of -->
 
-47. (1) Subject to subsection (2), the Court may, on terms of the application of a settlor or his personal representative, trust on behalf of the protector of a trust, a trustee or a beneficiary, on minors, etc. behalf of—
+47. (1) Subject to subsection (2), the Court may, on
+
+<!-- marginal: terms of -->
+
+the application of a settlor or his personal representative,
+
+<!-- marginal: trust on -->
+
+<!-- marginal: behalf of -->
+
+the protector of a trust, a trustee or a beneficiary, on
+
+<!-- marginal: minors, etc. -->
+
+behalf of—
 
 (a) any minor, or any person incapacitated at law, who has directly or indirectly an interest, whether vested or contingent, under the trust;
 
@@ -1308,13 +1494,25 @@ in connection with any matter concerning the trust and the Court may make such o
 
 (6) Subject to any order of the Court, a trustee appointed by the Court under this section shall have the same powers, discretions and duties as if he had been originally appointed a trustee.
 
-Payment of
+<!-- marginal: Payment of -->
 
-50. The costs and expenses of and incidental to an costs. application to the Court under this Act shall be paid out of the trust property or be borne and paid in such other manner or by such other person as the Court may order.
+50. The costs and expenses of and incidental to an
 
-Protection of
+<!-- marginal: costs. -->
 
-51. (1) A bona fide purchaser for value without actual persons notice of any breach of trust— dealing with trustees.
+application to the Court under this Act shall be paid out of the trust property or be borne and paid in such other manner or by such other person as the Court may order.
+
+<!-- marginal: Protection of -->
+
+51. (1) A bona fide purchaser for value without actual
+
+<!-- marginal: persons -->
+
+notice of any breach of trust—
+
+<!-- marginal: dealing with -->
+
+<!-- marginal: trustees. -->
 
 (a) may deal with a trustee in relation to trust property as if the trustee was the beneficial owner of the trust property; and
 
@@ -1350,9 +1548,19 @@ whichever is the earlier date.
 
 (4) The periods mentioned in this section shall be interrupted if a claim or action is filed in the competent court and served on the trustee before the expiration of the periods.
 
-Money or
+<!-- marginal: Money or -->
 
-53. (1) A trust company acting as a trustee of an offshore other trust shall not accept— property from illegal activities.
+53. (1) A trust company acting as a trustee of an offshore
+
+<!-- marginal: other -->
+
+trust shall not accept—
+
+<!-- marginal: property -->
+
+<!-- marginal: from illegal -->
+
+<!-- marginal: activities. -->
 
 (a) any money or other property originating from a transaction, operation or other activity which is a criminal offence under the laws of Malaysia or which, had it been carried out in Malaysia, would have been such an offence; or
 
@@ -1412,21 +1620,27 @@ may be instituted by the Authority except with the written consent of the Public
 
 Court and an offence punishable with imprisonment for a term exceeding three years shall be prosecuted in the Sessions Court or in the High Court.
 
-Com-
+<!-- marginal: Com- -->
 
-56. (1) The Authority may, with the consent of the pounding of Public Prosecutor, compound any offence committed by offences. any person against this Act, by making a written offer to such person to compound the offence upon payment to the Authority within such time as may be specified in the offer such sum of money as may be specified in the offer, which shall not exceed fifty per centum of the amount of the maximum fine to which that person would have been liable if he had been convicted of the offence.
+56. (1) The Authority may, with the consent of the
+
+<!-- marginal: pounding of -->
+
+Public Prosecutor, compound any offence committed by
+
+<!-- marginal: offences. -->
+
+any person against this Act, by making a written offer to such person to compound the offence upon payment to the Authority within such time as may be specified in the offer such sum of money as may be specified in the offer, which shall not exceed fifty per centum of the amount of the maximum fine to which that person would have been liable if he had been convicted of the offence.
 
 (2) An offer under subsection (1) may be made at any time after the offence has been committed, but before any prosecution for it has been instituted, and where the amount specified in the offer is not paid within the time specified in the offer, or within such extended period as the Authority may grant, prosecution for the offence may be instituted at any time thereafter against the person to whom the offer was made.
 
 (3) Where an offence has been compounded under subsection (1), no prosecution shall thereafter be instituted in respect of such offence against the person to whom the offer to compound was made.
 
-Regulations.
+<!-- marginal: Regulations. -->
 
 57. (1) The Minister may from time to time make such regulations as may be necessary or expedient for giving full effect to the provisions of this Act, for carrying out or achieving the objects and purposes of this Act, or for the further, better or more convenient implementation of the provisions of this Act.
 
-(2) Without prejudice to the generality of subsection
-
-(1), regulations may be made for prescribing such forms, notices, fees, charges and anything which is required by this Act to be prescribed or as the Minister may deem necessary.
+(2) Without prejudice to the generality of subsection (1), regulations may be made for prescribing such forms, notices, fees, charges and anything which is required by this Act to be prescribed or as the Minister may deem necessary.
 
 <!-- page 47 -->
 
@@ -1498,9 +1712,29 @@ the commencement of this Act.
 
 (2) Where, prior to the coming into force of this Act, a trust has been established or created in Labuan, the settlor, if he is still alive or in existence, or in any other case, the beneficiaries and the trustees including any protector, may, within a period of twelve months from the coming into force of this Act, amend or vary the trust to bring it into conformity with the provisions of this Act and upon such amendment or variation the trust shall be deemed to have been validly created in accordance with or as provided by this Act.
 
-Non-
+<!-- marginal: Non- -->
 
-62. The provisions of the Trustee Act 1949, the Trustee application (Incorporation) Act 1952 and section 9 of the Government of certain Proceedings Act 1956 shall not apply to an offshore laws. Act 208. trust validly created or enforced or registered under this Act 258. Act. Act 359.
+62. The provisions of the Trustee Act 1949, the Trustee
+
+<!-- marginal: application -->
+
+(Incorporation) Act 1952 and section 9 of the Government
+
+<!-- marginal: of certain -->
+
+Proceedings Act 1956 shall not apply to an offshore
+
+<!-- marginal: laws. -->
+
+<!-- marginal: Act 208. -->
+
+trust validly created or enforced or registered under this
+
+<!-- marginal: Act 258. -->
+
+Act.
+
+<!-- marginal: Act 359. -->
 
 ## EXPLANATORY STATEMENT
 

@@ -59,13 +59,9 @@
       "@type": "akn:clause",
       "eli:number": "10",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/11/eng@",
-      "schema:name": {
-        "@language": "en",
-        "@value": "Section 18 of the principal Act is amended by substituting"
-      },
       "schema:text": {
         "@language": "en",
-        "@value": "for the word \"three\" in paragraph (l)(c) the word \"six\"."
+        "@value": "Section 18 of the principal Act is amended by substituting of section for the word \"three\" in paragraph (l)(c) the word \"six\". 18 . Amendment"
       }
     },
     {
@@ -73,13 +69,9 @@
       "@type": "akn:clause",
       "eli:number": "11",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/11/eng@",
-      "schema:name": {
-        "@language": "en",
-        "@value": "Subsection 19(11) of the principal Act is amended by"
-      },
       "schema:text": {
         "@language": "en",
-        "@value": "substituting for the word \"directors\" the word \"directions\"."
+        "@value": "Subsection 19(11) of the principal Act is amended by of section substituting for the word \"directors\" the word \"directions\". 19 . New section"
       }
     },
     {
@@ -87,13 +79,9 @@
       "@type": "akn:clause",
       "eli:number": "12",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/11/eng@",
-      "schema:name": {
-        "@language": "en",
-        "@value": "The principal Act is amended by inserting after section"
-      },
       "schema:text": {
         "@language": "en",
-        "@value": "24 the following section: \"Service of 24A. (1) Any notice required or authorised under notice. this Act to be served on a person may be served— (a) by delivering it personally to the person to be served; (b) by sending it by registered post addressed to the person to be served at the usual or last known place or residence of the person; or (c) by affixing it on some conspicuous part of the controlled premises to which it relates if the person to be served cannot be served personally or by registered post. (2) In this section \"notice\" includes a certificate or other document.\". Savings"
+        "@value": "The principal Act is amended by inserting after section 24 A . 24 the following section: \"Service of 24A. (1) Any notice required or authorised under notice. this Act to be served on a person may be served— (a) by delivering it personally to the person to be served; (b) by sending it by registered post addressed to the person to be served at the usual or last known place or residence of the person; or (c) by affixing it on some conspicuous part of the controlled premises to which it relates if the person to be served cannot be served personally or by registered post. (2) In this section \"notice\" includes a certificate or other document.\"."
       }
     },
     {
@@ -101,9 +89,13 @@
       "@type": "akn:clause",
       "eli:number": "13",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/11/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The repeal of the principal Act under section 1A or 1B"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "The repeal of the principal Act under section 1A or 1B provision. shall not affect any application for the recovery of possession of any controlled premises made under section 16, 18 or 19 before the repeal, and section 16, 18 or 19 shall apply to such application as if the principal Act had not been repealed."
+        "@value": "shall not affect any application for the recovery of possession of any controlled premises made under section 16, 18 or 19 before the repeal, and section 16, 18 or 19 shall apply to such application as if the principal Act had not been repealed."
       }
     },
     {
@@ -137,7 +129,7 @@
       },
       "schema:text": {
         "@language": "en",
-        "@value": "referred to as the \"principal Act\", is amended by inserting after subsection 1(2) the following subsection: \"(3) Notwithstanding subsection (2) the State Authority may, by notification in the Gazette, exempt any area within any local authority area from all or any of the provisions of this Act.\" 2 BILL New"
+        "@value": "referred to as the \"principal Act\", is amended by inserting after subsection 1(2) the following subsection: \"(3) Notwithstanding subsection (2) the State Authority may, by notification in the Gazette, exempt any area within any local authority area from all or any of the provisions of this Act.\" BILL"
       }
     },
     {
@@ -145,9 +137,13 @@
       "@type": "akn:clause",
       "eli:number": "3",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/11/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal act is amended by inserting after section"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "The principal act is amended by inserting after section sections 1 the following sections: 1A and 1B. \"Repeal of 1A. (1) This Act, unless sooner repealed in Act upon accordance with section 1B, shall cease to be in cessation of operation at the expiration of five years after the operation. coming into force of this section. (2) For the purpose of any written law, when this Act ceases to be in operation by virtue of subsection (1) or section 1B, it shall thereupon be deemed to have been repealed. Cessation 1B. This Act shall cease to be in operation in of operation any State or in such part or parts of the State on of Act in stages. such date as the Minister may, after consultation with the State Authority, appoint in relation to the State by a notification in the Gazette, and the Minister may, after consultation with the State Authority, appoint different dates for the cessation of this Act in any State or in such part or parts operate in any State unless approved by resolution of the Legislative Assembly of the State.\". Amendment"
+        "@value": "1 the following sections: 1A. (1) This Act, unless sooner repealed in accordance with section 1B, shall cease to be in operation at the expiration of five years after the coming into force of this section. (2) For the purpose of any written law, when this Act ceases to be in operation by virtue of subsection (1) or section 1B, it shall thereupon be deemed to have been repealed. 1B. This Act shall cease to be in operation in any State or in such part or parts of the State on such date as the Minister may, after consultation with the State Authority, appoint in relation to the State by a notification in the Gazette, and the Minister may, after consultation with the State Authority, appoint different dates for the cessation of this Act in any State or in such part or parts operate in any State unless approved by resolution of the Legislative Assembly of the State.\"."
       }
     },
     {
@@ -160,9 +156,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/11/eng@/~cl_4__para_c"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/11/eng@",
-      "schema:text": {
+      "schema:name": {
         "@language": "en",
-        "@value": "Subsection 4(2) of the principal Act is amended— of section 4."
+        "@value": "Subsection 4(2) of the principal Act is amended—"
       }
     },
     {
@@ -220,7 +216,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/11/eng@/~cl_5",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (2)— \"(b) five ringgit for every one thousand ringgit or part thereof of the improved value of the controlled premises,\"; and"
+        "@value": "in subsection (2)—"
       }
     },
     {
@@ -230,7 +226,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/11/eng@/~cl_5__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for paragraph (b) the following paragraph:"
+        "@value": "by substituting for paragraph (b) the following paragraph: \"(b) five ringgit for every one thousand ringgit or part thereof of the improved value of the controlled premises,\"; and"
       }
     },
     {
@@ -264,7 +260,7 @@
       },
       "schema:text": {
         "@language": "en",
-        "@value": "8 the following section: \"Landlord 8A. (1) The landlord of any controlled premises may vary may vary the fair rent of the premises if, on the fair rent. date of the coming into force of this section, the fair rent per mensem of the premises is less than one-twelfth of the annual value thereof. (2) The provisions of section 7 relating to the procedure of determining the fair rent of premises shall apply mutatis mutandis to the varying of fair rent under this section.\"."
+        "@value": "8 the following section: 8A. (1) The landlord of any controlled premises may vary the fair rent of the premises if, on the date of the coming into force of this section, the fair rent per mensem of the premises is less than one-twelfth of the annual value thereof. (2) The provisions of section 7 relating to the procedure of determining the fair rent of premises shall apply mutatis mutandis to the varying of fair rent under this section.\"."
       }
     },
     {
@@ -309,7 +305,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/11/eng@/~cl_7",
       "schema:text": {
         "@language": "en",
-        "@value": "by deleting the full stop in subsection (4) and inserting thereafter the words \"one of whom shall be a valuation officer.\". Amendment"
+        "@value": "by deleting the full stop in subsection (4) and inserting thereafter the words \"one of whom shall be a valuation officer.\"."
       }
     },
     {
@@ -323,7 +319,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/11/eng@",
       "schema:name": {
         "@language": "en",
-        "@value": "Subsection 13(1) of the principal Act is amended— of section 13"
+        "@value": "Subsection 13(1) of the principal Act is amended—"
       }
     },
     {
@@ -343,7 +339,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/11/eng@/~cl_8",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for the full stop in paragraph (f) the word \"; and\" and inserting thereafter the following paragraph: \"(g) to hear and determine any application made under section 20 or 24.\". Amendment"
+        "@value": "by substituting for the full stop in paragraph (f) the word \"; and\" and inserting thereafter the following paragraph: \"(g) to hear and determine any application made under section 20 or 24.\"."
       }
     },
     {
@@ -357,7 +353,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/11/eng@",
       "schema:name": {
         "@language": "en",
-        "@value": "Section 16 of the principal Act is amended— of section"
+        "@value": "Section 16 of the principal Act is amended—"
       },
       "schema:text": {
         "@language": "en",
@@ -376,7 +372,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/11/eng@/~cl_9",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (1)— \"(f) where the owner of the controlled premises reasonably required the same for occupation by himself or any member of his family or any person for whom he holds the premises in trust, and the tenancy has been determined by not less than one year's notice to quit and there has been no change by purchase in the ownership of the premises within one year preceding the date of such notice: Provided that an order or judgment shall not be made or given on any ground specified in this paragraph if the court is satisfied that, having regard to all the circumstances of the case, including the question whether other accommodation is available for the owner or the tenant, greater hardship would be caused by granting an order or judgment than by refusing to grant it: Provided further that in the case of a controlled premises being used by the tenant for business, trade or professional purposes an order or judgment shall not be made or given on any grounds specified in this paragraph unless the court is satisfied that the owner requires the premises for the purpose of carrying on his own business, trade or profession;\"; and"
+        "@value": "in subsection (1)—"
       }
     },
     {
@@ -406,7 +402,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/11/eng@/~cl_9__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for paragraph (f) the following paragraph:"
+        "@value": "by substituting for paragraph (f) the following paragraph: \"(f) where the owner of the controlled premises reasonably required the same for occupation by himself or any member of his family or any person for whom he holds the premises in trust, and the tenancy has been determined by not less than one year's notice to quit and there has been no change by purchase in the ownership of the premises within one year preceding the date of such notice: Provided that an order or judgment shall not be made or given on any ground specified in this paragraph if the court is satisfied that, having regard to all the circumstances of the case, including the question whether other accommodation is available for the owner or the tenant, greater hardship would be caused by granting an order or judgment than by refusing to grant it: Provided further that in the case of a controlled premises being used by the tenant for business, trade or professional purposes an order or judgment shall not be made or given on any grounds specified in this paragraph unless the court is satisfied that the owner requires the premises for the purpose of carrying on his own business, trade or profession;\"; and"
       }
     },
     {
@@ -416,7 +412,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/11/eng@/~cl_9",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (3) by substituting for the word \"six\" the word \"three\"."
+        "@value": "in subsection (3) by substituting for the word \"six\" the word \"three\". Amendment"
       }
     }
   ]

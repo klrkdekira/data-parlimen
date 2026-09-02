@@ -44,21 +44,55 @@ subseksyen 1(2) subseksyen yang berikut:
 
 "(3) Notwithstanding subsection (2) the State Authority may, by notification in the Gazette, exempt any area within any local authority area from all or any of the provisions of this Act.".
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
-3. Akta ibu adalah dipinda dengan memasukkan selepas 1A dan 1B. seksyen 1 seksyen yang berikut:
+3. Akta ibu adalah dipinda dengan memasukkan selepas
 
-1A. (1) This Act, unless sooner repealed in "Repeal of Act upon accordance with section 1B, shall cease to be in cessation operation at the expiration of five years after the of operation. coming into force of this section.
+<!-- marginal: 1A dan 1B. -->
+
+seksyen 1 seksyen yang berikut:
+
+1A. (1) This Act, unless sooner repealed in
+
+<!-- marginal: "Repeal of -->
+
+<!-- marginal: Act upon -->
+
+accordance with section 1B, shall cease to be in
+
+<!-- marginal: cessation -->
+
+operation at the expiration of five years after the
+
+<!-- marginal: of -->
+
+<!-- marginal: operation. -->
+
+coming into force of this section.
 
 (2) For the purpose of any written law, when this Act ceases to be in operation by virtue of subsection (1) or section 1B, it shall thereupon be deemed to have been repealed.
 
-Cessation 1B. This Act shall cease to be in operation in any of operation State or in such part or parts of the State on such of Act in stages. date as the Minister may, after consultation with the State Authority, appoint in relation to the State by a notification in the Gazette, and the Minister may, after consultation with the State Authority, appoint different dates for the cessation of this Act in any State or in such part or parts of the State as may be specified in the notification:
+<!-- marginal: Cessation -->
+
+1B. This Act shall cease to be in operation in any
+
+<!-- marginal: of operation -->
+
+State or in such part or parts of the State on such
+
+<!-- marginal: of Act in -->
+
+<!-- marginal: stages. -->
+
+date as the Minister may, after consultation with the State Authority, appoint in relation to the State by a notification in the Gazette, and the Minister may, after consultation with the State Authority, appoint different dates for the cessation of this Act in any State or in such part or parts of the State as may be specified in the notification:
 
 Provided that the cessation of this Act shall not operate in any State unless approved by resolution of the Legislative Assembly of the State.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Subseksyen 4(2) Akta ibu adalah dipinda— seksyen 4.
+4. Subseksyen 4(2) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 4. -->
 
 (a) dengan memasukkan selepas perkataan "of any State" dalam perenggan (b) perkataan "or of any local authority";
 
@@ -96,15 +130,27 @@ dan
 
 seksyen 8 seksyen yang berikut:
 
-"Landlord 8A. (1) The landlord of any controlled premises may vary may vary the fair rent of the premises if, on the fair rent. date of the coming into force of this section, the fair rent per mensem of the premises is less than one-twelfth of the annual value thereof.
+<!-- marginal: "Landlord -->
+
+8A. (1) The landlord of any controlled premises
+
+<!-- marginal: may vary -->
+
+may vary the fair rent of the premises if, on the
+
+<!-- marginal: fair rent. -->
+
+date of the coming into force of this section, the fair rent per mensem of the premises is less than one-twelfth of the annual value thereof.
 
 (2) The provisions of section 7 relating to the procedure of determining the fair rent of premises shall apply mutatis mutandis to the varying of fair rent under this section.".
 
 <!-- page 4 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-7. Seksyen 12 Akta ibu adalah dipinda— seksyen 12.
+7. Seksyen 12 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 12. -->
 
 (a) dengan memasukkan selepas subseksyen (2) subseksyen yang berikut:
 
@@ -116,9 +162,11 @@ Pindaan
 
 (c) dengan memotong noktah dalam subseksyen (4) dan memasukkan selepas daripada itu perkataan "one of whom shall be a valuation officer.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-8. Subseksyen 13(1) Akta ibu adalah dipinda— seksyen 13.
+8. Subseksyen 13(1) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 13. -->
 
 (a) dalam perenggan (a) dengan memasukkan selepas perkataan "determining" perkataan "or varying"; dan
 
@@ -128,9 +176,11 @@ Pindaan
 
 "(g) to hear and determine any application made under section 20 or 24.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-9. Seksyen 16 Akta ibu adalah dipinda— seksyen 16.
+9. Seksyen 16 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 16. -->
 
 (a) dalam subseksyen (1)—
 
@@ -152,17 +202,29 @@ Provided further that in the case of a controlled premises being used by the ten
 
 (b) dalam subseksyen (3) dengan menggantikan perkataan "six" dengan perkataan "three".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-10. Seksyen 18 Akta ibu adalah dipinda dengan menggantikan seksyen 18. perkataan "three" dalam perenggan (l)(c) dengan perkataan "six".
+10. Seksyen 18 Akta ibu adalah dipinda dengan menggantikan
 
-Pindaan
+<!-- marginal: seksyen 18. -->
 
-11. Subseksyen 19(11) Akta ibu adalah dipinda dengan seksyen 19. menggantikan perkataan "directors" dengan perkataan "directions".
+perkataan "three" dalam perenggan (l)(c) dengan perkataan "six".
 
-Seksyen baru
+<!-- marginal: Pindaan -->
 
-12. Akta ibu adalah dipinda dengan memasukkan selepas 24A seksyen 24 seksyen yang berikut:
+11. Subseksyen 19(11) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 19. -->
+
+menggantikan perkataan "directors" dengan perkataan "directions".
+
+<!-- marginal: Seksyen baru -->
+
+12. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: 24A -->
+
+seksyen 24 seksyen yang berikut:
 
 "Service of 24A. (1) Any notice required or authorised under notice. this Act to be served on a person may be served—
 
@@ -174,9 +236,13 @@ Seksyen baru
 
 (2) In this section "notice" includes a certificate or other document.".
 
-Peruntukan
+<!-- marginal: Peruntukan -->
 
-13. Pemansuhan Akta ibu di bawah seksyen 1A atau 1B kecualian tidaklah memberi kesan kepada apa-apa permohonan bagi mendapatkan semula milikan mana-mana premis yang dikawal yang dibuat di bawah seksyen 16, 18 atau 19 sebelum pemansuhan itu, dan seksyen 16,18 atau 19 hendaklah terpakai bagi permohonan tersebut seolah-olah Akta ibu tidak dimansuhkan.
+13. Pemansuhan Akta ibu di bawah seksyen 1A atau 1B
+
+<!-- marginal: kecualian -->
+
+tidaklah memberi kesan kepada apa-apa permohonan bagi mendapatkan semula milikan mana-mana premis yang dikawal yang dibuat di bawah seksyen 16, 18 atau 19 sebelum pemansuhan itu, dan seksyen 16,18 atau 19 hendaklah terpakai bagi permohonan tersebut seolah-olah Akta ibu tidak dimansuhkan.
 
 <!-- page 7 -->
 
@@ -202,7 +268,9 @@ Rang Undang-Undang ini bertujuan meminda Akta Kawalan Sewa 1966 ("Akta").
 
 8. Fasal 8 bertujuan memperluaskan kuasa Tribunal Sewa di bawah seksyen 13 Akta. Melalui suatu pindaan kepada perenggan (1)(a), Tribunal Sewa diberi kuasa untuk mendengar apa-apa permohonan bagi mengubah sewa yang berpatutan di bawah seksyen baru 8A; dan melalui perenggan baru (1)(g), Tribunal Sewa diberi kuasa untuk mendengar dan menentukan apa-apa permohonan di bawah seksyen 20 atau 24 Akta.
 
-9. Fasal 9 bertujuan meminda seksyen 16 dengan menggantikan perenggan 16(1)(f) Akta. Perenggan baru (1)(f) adalah sememangnya perenggan (1)(f) yang sedia ada tetapi dengan pemotongan subperenggan (1)(f)(i). Perenggan itu memperkatakan tentang seorang pemunya yang mendapatkan semula milikan suatu premis yang dikawal untuk mendudukinya premis itu sendiri atau untuk diduduki oleh mana- mana ahli keluarganya.
+9. Fasal 9 bertujuan meminda seksyen 16 dengan menggantikan perenggan 16(1)(f) Akta. Perenggan baru (1)(f) adalah sememangnya perenggan (1)(f) yang sedia ada tetapi dengan pemotongan subperenggan
+
+(1)(f)(i). Perenggan itu memperkatakan tentang seorang pemunya yang mendapatkan semula milikan suatu premis yang dikawal untuk mendudukinya premis itu sendiri atau untuk diduduki oleh mana- mana ahli keluarganya.
 
 10. Fasal 10 bertujuan meminda perenggan 18(1)(c). Dengan menggantikan perkataan "three" dengan perkataan "six" yang terdapat di dalamnya, pemunya, dalam pengakuan secara bertulisnya yang disertakan bersama-sama suatu permohonan untuk mendapatkan semula milikan suatu premis yang dikawal bagi maksud pembangunan, telah diberi jangkawaktu yang realistik dari tarikh milikan premis yang dikawal untuk memulakan kerja bagi maksud memberi kesan kepada pembangunan itu.
 

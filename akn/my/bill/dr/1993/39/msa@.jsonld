@@ -69,7 +69,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/39/msa@",
       "schema:name": {
         "@language": "ms",
-        "@value": "Akta Jalan-Jalan Persekutuan"
+        "@value": "Akta Jalan-Jalan Persekutuan (Pengurusan"
       },
       "schema:text": {
         "@language": "ms",
@@ -83,7 +83,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/39/msa@/~cl_2",
       "schema:text": {
         "@language": "ms",
-        "@value": "Walau apa pun subseksyen (1) tol yang kena dibayar menurut kuasa suatu perintah yang dibuat menurut seksyen 2 bolehlah didapatkan melalui tindakan di sisi undang- undang oleh orang yang sedemikian di bawah seksyen tersebut. RANG UNDANG-UNDANG"
+        "@value": "Walau apa pun subseksyen (1) tol yang kena dibayar menurut kuasa suatu perintah yang dibuat menurut seksyen 2 bolehlah didapatkan melalui tindakan di sisi undang- undang oleh orang yang diberikuasa sedemikian di bawah seksyen tersebut. RANG UNDANG-UNDANG"
       }
     },
     {

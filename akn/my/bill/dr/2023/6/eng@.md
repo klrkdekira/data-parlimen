@@ -16,13 +16,11 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### New Chapter Xa
 
-2. The Criminal Procedure Code [Act 593], which is referred to as the “Code” in this Act, is amended by inserting after
-
-## Chapter X the following chapter:
+2. The Criminal Procedure Code [Act 593], which is referred to as the “Code” in this Act, is amended by inserting after Chapter X the following chapter:
 
 <!-- page 2 -->
 
-“Chapter Xa
+## “CHAPTER XA
 
 ## PROTECTION ORDER IN CASES OF STALKING
 
@@ -78,9 +76,7 @@ Penal Offence Whether Whether a Whether
 
 <!-- marginal: Maximum -->
 
-Code the police warrant or bailable or
-
-<!-- marginal: compoundable -->
+Code the police warrant or bailable or compoundable
 
 <!-- marginal: punishment -->
 

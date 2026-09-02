@@ -422,4 +422,6 @@ This Bill seeks to amend the Securities Commission Act 1993 ("Act 498"). The pro
 
 ## FINANCIAL IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure. [PN(U2)2595]
+This Bill will not involve the Government in any extra financial expenditure.
+
+<!-- marginal: [PN(U2)2595] -->

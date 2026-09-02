@@ -14,13 +14,23 @@
 
 ## PERMULAAN
 
-1. Tajuk ringkas, pemakaian dan permulaan kuat kuasa 2. Tafsiran 3. Kerajaan Persekutuan hendaklah mempunyai kuasa eksekutif 4. Perjanjian mengenai perkhidmatan pengurusan sisa pepejal dan perkhidmatan pengurusan pembersihan awam
+1. Tajuk ringkas, pemakaian dan permulaan kuat kuasa
+
+2. Tafsiran
+
+3. Kerajaan Persekutuan hendaklah mempunyai kuasa eksekutif
+
+4. Perjanjian mengenai perkhidmatan pengurusan sisa pepejal dan perkhidmatan pengurusan pembersihan awam
 
 ## BAHAGIAN II
 
 ## PENTADBIRAN
 
-5. Pelantikan Ketua Pengarah, Timbalan Ketua Pengarah dan pegawai lain 6. Fungsi dan kuasa Ketua Pengarah 7. Kuasa Menteri untuk memberikan arahan
+5. Pelantikan Ketua Pengarah, Timbalan Ketua Pengarah dan pegawai lain
+
+6. Fungsi dan kuasa Ketua Pengarah
+
+7. Kuasa Menteri untuk memberikan arahan
 
 ## BAHAGIAN III
 
@@ -30,15 +40,15 @@
 
 ## YANG DITETAPKAN
 
-8. Pembinaan atau pengubahan kemudahan pengurusan sisa pepejal yang ditetapkan 9. Syor oleh Perbadanan 10. Pemberian atau keengganan memberikan kelulusan
+8. Pembinaan atau pengubahan kemudahan pengurusan sisa pepejal yang ditetapkan
+
+9. Syor oleh Perbadanan
+
+10. Pemberian atau keengganan memberikan kelulusan
 
 <!-- page 2 -->
 
-11. Kajian semula kelulusan
-
-12. Permohonan untuk menutup mana-mana kemudahan pengurusan sisa pepejal yang ditetapkan
-
-13. Hak merayu kepada Menteri
+11. Kajian semula kelulusan 12. Permohonan untuk menutup mana-mana kemudahan pengurusan sisa pepejal yang ditetapkan 13. Hak merayu kepada Menteri
 
 ## BAHAGIAN IV
 
@@ -90,7 +100,65 @@ CAJ
 
 ## TRIBUNAL PERKHIDMATAN PENGURUSAN SISA PEPEJAL
 
-33. Pengertian "orang yang berkepentingan" 34. Penubuhan Tribunal Perkhidmatan Pengurusan Sisa Pepejal 35. Keanggotaan Tribunal 36. Penjalanan sementara fungsi Pengerusi 37. Pengosongan jawatan 38. Pembatalan pelantikan 39. Peletakan jawatan 40. Pengisian kekosongan 41. Saraan 42. Setiausaha Tribunal dan pegawai lain 43. Persidangan Tribunal 44. Pemulaan prosiding 45. Bidang kuasa Tribunal 46. Batas bidang kuasa 47. Peluasan bidang kuasa melalui perjanjian 48. Peninggalan untuk membawa tuntutan dalam bidang kuasa 49. Kausa tindakan tidak boleh dibahagi 50. Penyingkiran bidang kuasa mahkamah 51. Notis tuntutan dan pendengaran 52. Rundingan penyelesaian 53. Hak untuk hadir pada pendengaran 54. Prosiding hendaklah terbuka 55. Keterangan 56. Tribunal boleh bertindak semasa ketidakhadiran pihak 57. Award Tribunal 58. Rujukan kepada Hakim Mahkamah Tinggi atas persoalan undang- undang 59. Sebab keputusan 60. Perintah dan penyelesaian hendaklah direkodkan secara bertulis 61. Keputusan Tribunal adalah muktamad 62. Penalti jenayah kerana kegagalan mematuhi
+33. Pengertian "orang yang berkepentingan"
+
+34. Penubuhan Tribunal Perkhidmatan Pengurusan Sisa Pepejal
+
+35. Keanggotaan Tribunal
+
+36. Penjalanan sementara fungsi Pengerusi
+
+37. Pengosongan jawatan
+
+38. Pembatalan pelantikan
+
+39. Peletakan jawatan
+
+40. Pengisian kekosongan
+
+41. Saraan
+
+42. Setiausaha Tribunal dan pegawai lain
+
+43. Persidangan Tribunal
+
+44. Pemulaan prosiding
+
+45. Bidang kuasa Tribunal
+
+46. Batas bidang kuasa
+
+47. Peluasan bidang kuasa melalui perjanjian
+
+48. Peninggalan untuk membawa tuntutan dalam bidang kuasa
+
+49. Kausa tindakan tidak boleh dibahagi
+
+50. Penyingkiran bidang kuasa mahkamah
+
+51. Notis tuntutan dan pendengaran
+
+52. Rundingan penyelesaian
+
+53. Hak untuk hadir pada pendengaran
+
+54. Prosiding hendaklah terbuka
+
+55. Keterangan
+
+56. Tribunal boleh bertindak semasa ketidakhadiran pihak
+
+57. Award Tribunal
+
+58. Rujukan kepada Hakim Mahkamah Tinggi atas persoalan undang- undang
+
+59. Sebab keputusan
+
+60. Perintah dan penyelesaian hendaklah direkodkan secara bertulis
+
+61. Keputusan Tribunal adalah muktamad
+
+62. Penalti jenayah kerana kegagalan mematuhi
 
 <!-- page 4 -->
 
@@ -142,7 +210,9 @@ CAJ
 
 <!-- page 5 -->
 
-81. Menggeledah dan menyita dengan waran 82. Menggeledah dan menyita tanpa waran 83. Capaian kepada data berkomputer 84. Kuasa untuk memberhentikan, menggeledah dan menyita kenderaan 85. Senarai benda yang disita 86. Pemulangan sementara harta, dsb., yang disita 87. Kuasa untuk menghendaki kehadiran orang yang mempunyai pengetahuan tentang kes 88. Pemeriksaan orang yang mempunyai pengetahuan tentang kes 89. Kebolehterimaan pernyataan 90. Pelucuthakan atau pelepasan harta, dsb., yang disita 91. Kos bagi memegang kelengkapan, dsb., yang disita 92. Tiada kos atau ganti rugi yang berbangkit daripada penyitaan boleh didapatkan 93. Halangan 94. Pengkompaunan kesalahan 95. Pemulaan pendakwaan 96. Kesalahan oleh pertubuhan perbadanan 97. Penyampaian dokumen 98. Ketidaktepatan dalam dokumen 99. Kebertanggungan pemindah hakmilik 100. Kemudahan pengurusan sisa pepejal yang dipasang atau dibina tanpa kebenaran sebelum permulaan kuat kuasa Akta ini
+81. Menggeledah dan menyita dengan waran 82. Menggeledah dan menyita tanpa waran 83. Capaian kepada data berkomputer 84. Kuasa untuk memberhentikan, menggeledah dan menyita kenderaan 85. Senarai benda yang disita 86. Pemulangan sementara harta, dsb., yang disita 87. Kuasa untuk menghendaki kehadiran orang yang mempunyai pengetahuan tentang kes 88. Pemeriksaan orang yang mempunyai pengetahuan tentang kes 89. Kebolehterimaan pernyataan 90. Pelucuthakan atau pelepasan harta, dsb., yang disita 91. Kos bagi memegang kelengkapan, dsb., yang disita 92. Tiada kos atau ganti rugi yang berbangkit daripada penyitaan boleh didapatkan 93. Halangan 94. Pengkompaunan kesalahan 95. Pemulaan pendakwaan 96. Kesalahan oleh pertubuhan perbadanan 97. Penyampaian dokumen 98. Ketidaktepatan dalam dokumen 99. Kebertanggungan pemindah hakmilik
+
+100. Kemudahan pengurusan sisa pepejal yang dipasang atau dibina tanpa kebenaran sebelum permulaan kuat kuasa Akta ini
 
 ## BAHAGIAN X
 
@@ -150,7 +220,9 @@ CAJ
 
 ## PEPEJAL TERKAWAL
 
-101. Pengurangan, penggunaan semuladan pengitaran semula sisa pepejal terkawal 102. Sistem terima balik dan sistem bayaran balik deposit
+101. Pengurangan, penggunaan semuladan pengitaran semula sisa pepejal terkawal
+
+102. Sistem terima balik dan sistem bayaran balik deposit
 
 ## BAHAGIAN XI
 
@@ -800,7 +872,9 @@ Pengurusan Sisa Pepejal dan Pembersihan Awam 25
 
 (4) Keputusan Ketua Pengarah untuk memberikan lesen atau tidak hendaklah disampaikan kepada pemohon melalui notis bertulis secepat yang dapat dilaksanakan.
 
-(5) Notis bertulis oleh Ketua Pengarah di bawah subseksyen (4) hendaklah menyatakan —
+(5) Notis bertulis oleh Ketua Pengarah di bawah subseksyen
+
+(4) hendaklah menyatakan —
 
 (a) dalam hal jika lesen diberikan, hakikat mengenai pemberian itu dan kehendak dan syarat yang dikenakan di bawah subseksyen (2); dan
 
@@ -1660,7 +1734,9 @@ hendaklah dengan segera memaklumkan Perbadanan mengenai hakikat itu.
 
 (2) Kuasa Perbadanan di bawah perenggan (1)(B), (C) dan (D) hendaklah dijalankan hanya dengan persetujuan Menteri terlebih dahulu.
 
-(3) Jika mana-mana hal keadaan yang dinyatakan dalam perenggan (l)(a) dan (b) wujud berkenaan dengan pemegang lesen dan Perbadanan berpendapat bahawa adalah perlu demi kepentingan awam, Perbadanan boleh, sama ada atau tidak Perbadanan telah menjalankan mana-mana kuasanya di bawah perenggan (1)(A), (B), (C) atau (D), membuat syor kepada Menteri—
+(3) Jika mana-mana hal keadaan yang dinyatakan dalam perenggan (l)(a) dan (b) wujud berkenaan dengan pemegang lesen dan Perbadanan berpendapat bahawa adalah perlu demi kepentingan awam, Perbadanan boleh, sama ada atau tidak Perbadanan telah menjalankan mana-mana kuasanya di bawah perenggan (1)(A),
+
+(B), (C) atau (D), membuat syor kepada Menteri—
 
 (a) supaya Perbadanan mengambil alih kawalan ke atas keseluruhan harta, perniagaan dan hal ehwal pemegang lesen itu dan menjalankan keseluruhan perniagaan dan hal ehwalnya;
 
@@ -2122,7 +2198,9 @@ dengan membayar suatu amaun wang yang tidak melebihi lima puluh peratus daripada
 
 (2) Suatu tawaran di bawah subseksyen (1) boleh dibuat pada bila-bila masa selepas kesalahan itu dilakukan, tetapi sebelum apa- apa pendakwaan baginya dimulakan, dan jika amaun yang dinyatakan dalam tawaran itu tidak dibayar dalam masa yang dinyatakan dalam tawaran itu atau dalam apa-apa tempoh pelanjutan yang boleh diberikan oleh Ketua Pengarah atau Perbadanan, pendakwaan bagi kesalahan itu boleh dimulakan pada bila-bila masa selepas itu terhadap orang yang kepadanya tawaran itu telah dibuat.
 
-(3) Jika suatu kesalahan telah dikompaun di bawah subseksyen (1), tiada pendakwaan boleh selepas itu dimulakan berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk mengkompaun kesalahan itu telah dibuat.
+(3) Jika suatu kesalahan telah dikompaun di bawah subseksyen
+
+(1), tiada pendakwaan boleh selepas itu dimulakan berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk mengkompaun kesalahan itu telah dibuat.
 
 ### Pemulaan pendakwaan
 
@@ -2184,11 +2262,7 @@ pengetahuan, persetujuan atau pembiarannya; dan
 
 itu dan bagi pelaksanaan segala obligasi lain yang dikenakan oleh Akta ini ke atas pemilik harta itu yang menjadi kena dibayar atau yang hendaklah dilaksanakan pada bila-bila masa sebelum pemindahan hakmilik itu berkuat kuasa.
 
-(2) Tiada apa-apa jua dalam Akta ini boleh menyentuh kebertanggungan pembeli atau penerima pindahan hakmilik itu untuk membayar kos dan belanja berkenaan dengan harta yang disebut dalam subseksyen (1) atau menyentuh hak Ketua Pengarah atau pemegang lesen, mengikut mana-mana yang berkenaan, untuk mendapatkan kos dan belanja itu daripada,
-
-<!-- marginal: atau untuk -->
-
-menguatkuasakan mana-mana obligasi di bawah Akta ini terhadap, pembeli atau penerima pindahan hakmilik itu.
+(2) Tiada apa-apa jua dalam Akta ini boleh menyentuh kebertanggungan pembeli atau penerima pindahan hakmilik itu untuk membayar kos dan belanja berkenaan dengan harta yang disebut dalam subseksyen (1) atau menyentuh hak Ketua Pengarah atau pemegang lesen, mengikut mana-mana yang berkenaan, untuk mendapatkan kos dan belanja itu daripada, atau untuk menguatkuasakan mana-mana obligasi di bawah Akta ini terhadap, pembeli atau penerima pindahan hakmilik itu.
 
 ### Kemudahan pengurusan sisa pepejal yang dipasang atau dibina
 
@@ -2268,9 +2342,7 @@ Ketua Pengarah boleh membuat aduan bertulis kepada Majistret.
 
 (d) obligasi pengedar keluaran dan barang.
 
-(3) Mana-mana orang yang melanggar mana-mana perintah yang dibuat di bawah subseksyen (1) dan (2) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi sepuluh ribu ringgit atau dipenjarakan selama
-
-<!-- marginal: tempoh -->
+(3) Mana-mana orang yang melanggar mana-mana perintah yang dibuat di bawah subseksyen (1) dan (2) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi sepuluh ribu ringgit atau dipenjarakan selama tempoh
 
 <!-- marginal: tidak -->
 
@@ -2310,9 +2382,7 @@ melebihi enam bulan atau kedua-duanya.
 
 (b) suatu pernyataan mengenai aktivitinya.
 
-(5) Perbadanan hendaklah dengan seberapa segera yang mungkin menghantar suatu salinan penyata yang diperakui oleh juruaudit dan suatu salinan laporan juruaudit kepada Menteri dan Menteri hendaklah menyebabkan supaya penyata dan
-
-<!-- marginal: laporan -->
+(5) Perbadanan hendaklah dengan seberapa segera yang mungkin menghantar suatu salinan penyata yang diperakui oleh juruaudit dan suatu salinan laporan juruaudit kepada Menteri dan Menteri hendaklah menyebabkan supaya penyata dan laporan
 
 <!-- marginal: itu -->
 
@@ -2574,7 +2644,9 @@ Rang Undang-Undang ini bertujuan untuk mengadakan peruntukan bagi dan mengawal s
 
 36. Fasal 30 memberi Menteri kuasa untuk menetapkan caj, fi atau levi bagi perkhidmatan pengurusan sisa pepejal dan untuk membenarkan Perbadanan atau mana-mana orang yang dengannya suatu perjanjian telah dibuat di haw ah fasal 4 untuk memungut caj, fi atau levi itu. Subfasal (3) membolehkan Perbadanan atau orang yang diberi kuasa untuk memungut caj, fi atau levi perkhidmatan pengurusan sisa pepejal menurut subfasal (1) untuk mendapatkan caj tambahan bagi apa-apa pembayaran lewat caj, fi dan levi itu.
 
-37. Fasal 31 dan 32 mengadakan peruntukan bagi mendapatkan caj, fi atau levi oleh Perbadanan atau orang yang dengannya perjanjian telah dibuat di bawah fasal 4.
+37. Fasal 31 dan 32 mengadakan peruntukan bagi mendapatkan caj, fi atau levi oleh Perbadanan atau orang yang dengannya perjanjian telah dibuat di bawah fasal
+
+4.
 
 ## BAHAGIAN VI
 

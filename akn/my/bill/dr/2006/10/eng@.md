@@ -44,25 +44,65 @@
 
 <!-- page 2 -->
 
-! 21. Power to grant loans and make advances to officers and servants 22. Delegation of Director General's duties
+!
+
+21. Power to grant loans and make advances to officers and servants
+
+22. Delegation of Director General's duties
 
 ## PART IV
 
 ## FINANCE
 
-23. The Fund 24. Expenditure to be charged on the Fund 25. Conservation of Fund 26. Expenditure and preparation of estimates 27. Statutory Bodies (Accounts and Annual Reports) Act 1980
+23. The Fund
+
+24. Expenditure to be charged on the Fund
+
+25. Conservation of Fund
+
+26. Expenditure and preparation of estimates
+
+27. Statutory Bodies (Accounts and Annual Reports) Act 1980
 
 ## PART V
 
 ## OTHER POWERS AND FUNCTIONS OF THE BOARD
 
-28. Power to borrow 29. Investment 30. Commercialization of research findings 31. Power to employ agents, etc. 32. Power to grant loans 33. Power to establish corporations
+28. Power to borrow
+
+29. Investment
+
+30. Commercialization of research findings
+
+31. Power to employ agents, etc.
+
+32. Power to grant loans
+
+33. Power to establish corporations
 
 ## PART VI POWERS RELATING TO
 
 ## ENFORCEMENT, SEIZURE, ARREST, ETC.
 
-34. Authorization of officers 35. Power of investigation 36. Authority card 37. Power of arrest 38. Search and seizure with warrant 39. -Search and seizure without warrant 40. Power to enter premises 41. Search of persons 42. Seizure of thing, etc. 43. Power to stop, search and seize conveyances
+34. Authorization of officers
+
+35. Power of investigation
+
+36. Authority card
+
+37. Power of arrest
+
+38. Search and seizure with warrant
+
+39. -Search and seizure without warrant
+
+40. Power to enter premises
+
+41. Search of persons
+
+42. Seizure of thing, etc.
+
+43. Power to stop, search and seize conveyances
 
 <!-- page 3 -->
 
@@ -94,43 +134,7 @@
 
 55. Proportional examination or testing of seized pepper
 
-56. Cost of holding seized pepper, etc.
-
-57. No costs or damages arising from seizure to be recoverable
-
-58. Additional powers
-
-59. Offence to assault or obstruct autiiorized officer
-
-60. Duty to maintain secrecy
-
-61. False information
-
-62. Offence committed by body corporate
-
-63. Abetments and attempts punishable as offences
-
-64. Compounding of offences
-
-65. Institution and conduct of prosecution
-
-66. Jurisdiction to try offences
-
-67. Protection against suit and legal proceedings
-
-68. Rewards
-
-69. Protection of informers
-
-70. Power to exempt
-
-71. Amendment of Schedules
-
-72. Regulations
-
-73. Power of Minister to make regulations on marketing
-
-74. Validation of acts done in anticipation of the enactment of this Act
+56. Cost of holding seized pepper, etc. 57. No costs or damages arising from seizure to be recoverable 58. Additional powers 59. Offence to assault or obstruct autiiorized officer 60. Duty to maintain secrecy 61. False information 62. Offence committed by body corporate 63. Abetments and attempts punishable as offences 64. Compounding of offences 65. Institution and conduct of prosecution 66. Jurisdiction to try offences 67. Protection against suit and legal proceedings 68. Rewards 69. Protection of informers 70. Power to exempt 71. Amendment of Schedules 72. Regulations 73. Power of Minister to make regulations on marketing 74. Validation of acts done in anticipation of the enactment of this Act
 
 <!-- page 4 -->
 
@@ -138,7 +142,31 @@
 
 ## SAVINGS AND TRANSITIONAL
 
-75. Repeal and dissolution 76. Transfer of powers, etc. 77. Transfer of property 78. Existing contracts 79. Transfer of moneys in funds 80. Membership of dissolved Board 81. Continuance of officers and servants 82. Savings for licences and registers 83. Continuance of pending applications, etc. 84. Continuance of civil and criminal proceedings 85. Reference in law or document to dissolved Board 86. Continuance of use of name 87. Prevention of anomalies
+75. Repeal and dissolution
+
+76. Transfer of powers, etc.
+
+77. Transfer of property
+
+78. Existing contracts
+
+79. Transfer of moneys in funds
+
+80. Membership of dissolved Board
+
+81. Continuance of officers and servants
+
+82. Savings for licences and registers
+
+83. Continuance of pending applications, etc.
+
+84. Continuance of civil and criminal proceedings
+
+85. Reference in law or document to dissolved Board
+
+86. Continuance of use of name
+
+87. Prevention of anomalies
 
 ## SCHEDULE
 
@@ -158,9 +186,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Short title and commencement
 
-1. (1) This Act may be cited as the Malaysian Pepper Board Act
-
-2006.
+1. (1) This Act may be cited as the Malaysian Pepper Board Act 2006.
 
 (2) This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette, and the Minister may appoint different dates for the coming into operation of different provisions of this Act.
 
@@ -460,7 +486,9 @@ and any function or power so delegated may be performed or exercised by the memb
 
 (5) A committee may invite any person who is not a member of the committee to attend any meeting of the committee for the purpose of advising it on any matter under discussion but that person is not entitled to vote at the meeting.
 
-(6) Members of a committee or any person invited under subsection (5) to attend any meeting of a committee may be paid such allowances and other expenses as the Board may determine.
+(6) Members of a committee or any person invited under subsection
+
+(5) to attend any meeting of a committee may be paid such allowances and other expenses as the Board may determine.
 
 (7) A member of a committee shall hold office for such term as may be specified in his instrument of appointment and is eligible for reappointment.
 
@@ -852,7 +880,11 @@ proceeds of the sale be held while waiting for the result of any prosecution und
 
 (3) A person making a statement under this section shall be- legally bound to state the truth, whether or not such statement is made wholly or partly in answer to questions.
 
-(4) The authorized officer examining a person under subsection (1) shall first inform that person of the provisions of subsections (2) and (3).
+(4) The authorized officer examining a person under subsection
+
+(1) shall first inform that person of the provisions of subsections
+
+(2) and (3).
 
 (5) A statement made by any person under this section shall, whenever possible, be reduced into writing and signed by the person making it or affixed with his thumb print, as the case may be, after—
 
@@ -902,13 +934,9 @@ in his presence relating to the conduct in respect of which- he is charged, in s
 
 (5) On receipt of the notice referred to in subsection (4), the authorized officer shall refer the matter to the Director General who may direct that the pepper or pepper product or the proceeds of sale thereof, or the conveyance, machinery, contrivance, equipment, book, record, document or other article be released or may direct the authorized officer, by information in writing, to refer the matter to a Magistrate.
 
-(6) The Magistrate to whom a matter is referred under subsection
+(6) The Magistrate to whom a matter is referred under subsection (5) shall issue a summons requiring the Board and the person asserting that he is the owner of the pepper or pepper product or the proceeds of sale thereof, or of the conveyance, machinery, contrivance, equipment, book, record, document or other article and the person from whom it was seized to appear before the Magistrate, and when they appear or they fail to appear, due service of the summons having been proved, the Magistrate shall proceed to the examination of the matter.
 
-(5) shall issue a summons requiring the Board and the person asserting that he is the owner of the pepper or pepper product or the proceeds of sale thereof, or of the conveyance, machinery, contrivance, equipment, book, record, document or other article and the person from whom it was seized to appear before the Magistrate, and when they appear or they fail to appear, due service of the summons having been proved, the Magistrate shall proceed to the examination of the matter.
-
-(7) If it is proved that an offence under this Act has been committed and that the pepper or pepper product or the proceeds of sale thereof, or the conveyance, machinery, contrivance, equipment, book, record, document or other article referred to in subsection
-
-(6) was the subject-matter of or was used in the commission of such offence, the Magistrate shall order the pepper or pepper product or the proceeds of sale thereof, or the conveyance, machinery, contrivance, equipment, book, record, document or other article to be forfeited, and shall, in the absence of such proof, order its release.
+(7) If it is proved that an offence under this Act has been committed and that the pepper or pepper product or the proceeds of sale thereof, or the conveyance, machinery, contrivance, equipment, book, record, document or other article referred to in subsection (6) was the subject-matter of or was used in the commission of such offence, the Magistrate shall order the pepper or pepper product or the proceeds of sale thereof, or the conveyance, machinery, contrivance, equipment, book, record, document or other article to be forfeited, and shall, in the absence of such proof, order its release.
 
 (8) Any pepper or pepper product or the proceeds of sale thereof, or any conveyance, machinery, contrivance, equipment, book, record,
 
@@ -1034,7 +1062,9 @@ Provided that any term of imprisonment imposed shall not exceed one-half of the 
 
 (3) If the amount specified in the offer under subsection (1) is not paid within the time specified in the offer or within such extended period as the Director General may grant, prosecution for the offence may be instituted at any time thereafter against the person to whom the offer was made.
 
-(4) Where an offence has been compounded under subsection (1), no prosecution shall thereafter be instituted in respect of such offence against the person to whom the offer to compound was made and any pepper or pepper product or the proceeds of sale thereof, or any conveyance, machinery, contrivance, equipment, book, record, document or other article seized in connection with the offence may be released or forfeited by the Director General, subject to such terms and conditions as the Director General thinks fit to impose in accordance with the conditions of the compound.
+(4) Where an offence has been compounded under subsection
+
+(1), no prosecution shall thereafter be instituted in respect of such offence against the person to whom the offer to compound was made and any pepper or pepper product or the proceeds of sale thereof, or any conveyance, machinery, contrivance, equipment, book, record, document or other article seized in connection with the offence may be released or forfeited by the Director General, subject to such terms and conditions as the Director General thinks fit to impose in accordance with the conditions of the compound.
 
 ### Institution and conduct of prosecution
 
@@ -1532,4 +1562,6 @@ The proposed Malaysian Pepper Board Act 2006 ("the proposed Act'1) seeks to esta
 
 ## FINANCIAL IMPLICATIONS
 
-This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained. [PN(U2)24I61
+This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
+
+<!-- marginal: [PN(U2)24I61 -->

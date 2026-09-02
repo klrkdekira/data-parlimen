@@ -52,7 +52,11 @@ Purpose Title Amount (RM) B. 20 Ministry of Plantation Industries and 12.826,100
 
 B. 21 Ministry of Agricultural and Agro-based 256,330,000 Industry
 
-B. 22 Ministry of Rural and Regional 4,435,000 Development B. 24 Ministry of International Trade and 12,684,000 Industry B. 29 Ministry of Energy, Water and 56,000 Communications B. 41 Ministry of Education 803,000,000 B. 42 Ministry of Health 487,030,000 B. 44 Ministry of Culture, Arts and Heritage 6,500,000 B. 45 Ministry of Youth and Sports 3,040,900 B. 46 Ministry of Human Resources 4,528,000 B. 60 Ministry of Defence 828,015,733 B. 62 Ministry of Internal Security 254,670,400
+B. 22 Ministry of Rural and Regional 4,435,000 Development B. 24 Ministry of International Trade and 12,684,000 Industry B. 29 Ministry of Energy, Water and
+
+<!-- marginal: 56,000 -->
+
+Communications B. 41 Ministry of Education 803,000,000 B. 42 Ministry of Health 487,030,000 B. 44 Ministry of Culture, Arts and Heritage 6,500,000 B. 45 Ministry of Youth and Sports 3,040,900 B. 46 Ministry of Human Resources 4,528,000 B. 60 Ministry of Defence 828,015,733 B. 62 Ministry of Internal Security 254,670,400
 
 ## TOTAL
 
@@ -60,4 +64,6 @@ B. 22 Ministry of Rural and Regional 4,435,000 Development B. 24 Ministry of Int
 
 ## EXPLANATORY STATEMENT
 
-This Bill seeks to provide for the issue from the Consolidated Fund of a sum of nineteen billion eighty-one million nine hundred and twelve thousand and eight hundred and ninety-three ringgit (RM19,081,912,893) for the services and purposes specified in the Schedule for the year 2006. [PN(U2)2206]
+This Bill seeks to provide for the issue from the Consolidated Fund of a sum of nineteen billion eighty-one million nine hundred and twelve thousand and eight hundred and ninety-three ringgit (RM19,081,912,893) for the services and purposes specified in the Schedule for the year 2006.
+
+<!-- marginal: [PN(U2)2206] -->

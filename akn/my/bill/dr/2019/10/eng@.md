@@ -4,13 +4,13 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation 3. Definition of “trademark” 4. Definition of “well-known trademark” 5. Definition of “earlier trademark” 6. Definition of “infringing goods”, “infringing material”, “infringing articles”, “counterfeit goods” and “counterfeit trademarks” 7. References to use of trademark 8. Use of trademark for export trade or where form of trade changes 9. Determination of likelihood of confusion
 
-## Part II
+## PART II
 
 ## ADMINISTRATION
 
@@ -22,7 +22,7 @@
 
 13. Preliminary advice and search by Registrar
 
-## Part III
+## PART III
 
 ## THE REGISTER OF TRADEMARKS
 
@@ -32,7 +32,7 @@
 
 <!-- page 6 -->
 
-## Part IV
+## PART IV
 
 ## REGISTRATION OF TRADEMARKS
 
@@ -112,7 +112,7 @@ Registration
 
 36. Registration
 
-## Part V
+## PART V
 
 ## DIVISION AND MERGER
 
@@ -120,7 +120,7 @@ Registration
 
 38. Application for merger
 
-## Part VI
+## PART VI
 
 ## DURATION AND RENEWAL OF REGISTERED TRADEMARKS
 
@@ -132,7 +132,7 @@ Registration
 
 <!-- page 8 -->
 
-## Part VII
+## PART VII
 
 ## ALTERATION, CORRECTION, CANCELLATION, REVOCATION AND INVALIDITY
 
@@ -190,7 +190,7 @@ Infringement of trademarks
 
 <!-- page 9 -->
 
-## Part IX
+## PART IX
 
 ## TRADEMARKS AS OBJECT OF PROPERTY
 
@@ -206,7 +206,7 @@ Infringement of trademarks
 
 67. Application for registration trademark as an object of property
 
-## Part X
+## PART X
 
 ## LICENSING
 
@@ -218,7 +218,7 @@ Infringement of trademarks
 
 71. Exclusive licensee having rights and remedies of assignee
 
-## Part XI
+## PART XI
 
 ## COLLECTIVE MARKS AND CERTIFICATION MARKS
 
@@ -226,7 +226,7 @@ Infringement of trademarks
 
 73. Certification marks
 
-## Part XII
+## PART XII
 
 ## INTERNATIONAL MATTERS
 
@@ -286,7 +286,7 @@ Conventions and International Arrangements
 
 94. De Minimis Imports
 
-## Part XIV
+## PART XIV
 
 ## TRADEMARK AGENTS
 
@@ -300,7 +300,7 @@ Conventions and International Arrangements
 
 <!-- page 11 -->
 
-## Part XV
+## PART XV
 
 ## OFFENCE
 
@@ -324,7 +324,7 @@ Conventions and International Arrangements
 
 108. Unregistered persons practising, etc., as a registered trademark agent
 
-## Part XVI
+## PART XVI
 
 ## INVESTIGATION AND ENFORCEMENT
 
@@ -460,7 +460,7 @@ Powers of arrest, search, seizure and etc.
 
 162. Power to make regulations
 
-## Part XIX
+## PART XIX
 
 ## REPEAL, SAVINGS AND TRANSITIONAL PROVISIONS
 
@@ -514,9 +514,9 @@ Transitional provisions for trademarks
 
 182. Guidelines, etc., on transitional matters
 
-## First schedule
+## FIRST SCHEDULE
 
-## second schedule
+## SECOND SCHEDULE
 
 <!-- page 15 -->
 
@@ -528,7 +528,7 @@ An Act to provide for the registration of trademarks in relation to goods and se
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -730,7 +730,7 @@ and includes a trademark in respect of which an application for registration has
 
 (2) In determining whether the use of a sign is likely to cause confusion on the part of the public, the Registrar or the Court may take into account all factors relevant in the circumstances, including whether the use is likely to be associated with a registered trademark.
 
-## Part II
+## PART II
 
 ## ADMINISTRATION
 
@@ -782,7 +782,7 @@ and includes a trademark in respect of which an application for registration has
 
 (5) The application made by the applicant in subsection (2), and the preliminary advice and search result given by the Registrar are confidential and shall not be made available for public inspection.
 
-## Part III
+## PART III
 
 ## THE REGISTER OF TRADEMARKS
 
@@ -802,7 +802,7 @@ and includes a trademark in respect of which an application for registration has
 
 (2) Subject to the conditions in subsection (1), certified copies or extracts of any entry in the Register sealed with the seal of the Registrar shall be given to any person upon application in the form as determined by the Registrar together with the payment of the prescribed fee.
 
-## Part IV
+## PART IV
 
 ## REGISTRATION OF TRADEMARKS
 
@@ -1310,7 +1310,7 @@ the Registrar shall, unless the application has been accepted in error, register
 
 (4) An application for a certificate of registration under subsection (3) shall be made by the registered proprietor in the form as determined by the Registrar together with the payment of the prescribed fee.
 
-## Part V
+## PART V
 
 ## DIVISION AND MERGER
 
@@ -1328,7 +1328,7 @@ the Registrar shall, unless the application has been accepted in error, register
 
 <!-- page 47 -->
 
-## Part VI
+## PART VI
 
 ## DURATION AND RENEWAL OF REGISTERED TRADEMARKS
 
@@ -1380,7 +1380,7 @@ a person other than the person who was registered as the proprietor of the unren
 
 <!-- page 49 -->
 
-## Part VII
+## PART VII
 
 ## ALTERATION, CORRECTION, CANCELLATION, REVOCATION AND
 
@@ -1880,7 +1880,7 @@ any aggrieved person may bring proceedings for relief under this
 
 (6) Nothing in this section shall render an advocate and solicitor liable to an action under this section in respect of an act done by him in his professional capacity on behalf of a client.
 
-## Part IX
+## PART IX
 
 ## TRADEMARKS AS OBJECT OF PROPERTY
 
@@ -1970,7 +1970,7 @@ any aggrieved person may bring proceedings for relief under this
 
 (3) In section 65 as it applies in relation to a transaction affecting an application for the registration of trademark, the references to the entry of particulars in the Register, and to the making of an application to register particulars, shall be construed as references to the giving of notice to the Registrar of those particulars.
 
-## Part X
+## PART X
 
 ## LICENSING
 
@@ -2068,7 +2068,7 @@ and any reference to doing anything with, or without, the consent of a registere
 
 (10) Subsections (5) to (8) have effect subject to any agreement to the contrary between the exclusive licensee and the registered proprietor of the trademark.
 
-## Part XI
+## PART XI
 
 ## COLLECTIVE MARKS AND CERTIFICATION MARKS
 
@@ -2086,7 +2086,7 @@ and any reference to doing anything with, or without, the consent of a registere
 
 <!-- page 76 -->
 
-## Part XII
+## PART XII
 
 ## INTERNATIONAL MATTERS
 
@@ -2476,7 +2476,7 @@ depending on the circumstances of the case.
 
 (2) Small quantities referred to in subsection (1) means not more than two goods.
 
-## Part XIV
+## PART XIV
 
 ## TRADEMARK AGENTS
 
@@ -2544,7 +2544,7 @@ unless he is terminated by the person or ceases to act for him in accordance wit
 
 <!-- page 94 -->
 
-## Part XV
+## PART XV
 
 ## OFFENCE
 
@@ -2712,7 +2712,7 @@ knowing or having reason to believe that the representation is false commits an 
 
 108. Any person who carries on business, practices, acts, describes himself, holds himself out, or permits himself to be described or held out, as a trademark agent without being registered under this Act commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or two years imprisonment or both.
 
-## Part XVI
+## PART XVI
 
 ## INVESTIGATION AND ENFORCEMENT
 
@@ -3448,7 +3448,7 @@ an act in relation to an application for the registration of trademark or in pro
 
 <!-- page 133 -->
 
-## Part XIX
+## PART XIX
 
 ## REPEAL, SAVINGS AND TRANSITIONAL PROVISIONS
 
@@ -3638,7 +3638,7 @@ Transitional provisions for trademarks
 
 182. The Registrar may issue guidelines or practice directions to provide for any matters in force before the commencement of this Act to be dealt with in such manner to bring them in conformity with this Act.
 
-## First schedule
+## FIRST SCHEDULE
 
 [Section 72]
 
@@ -3792,7 +3792,7 @@ Transitional provisions for trademarks
 
 <!-- page 146 -->
 
-## second schedule
+## SECOND SCHEDULE
 
 [Section 73]
 
@@ -3956,7 +3956,7 @@ The proposed Act seeks to provide for the registration of trademarks in relation
 
 <!-- page 151 -->
 
-## Part I
+## PART I
 
 2. Part I deals with preliminary matters.
 
@@ -3968,7 +3968,7 @@ The proposed Act seeks to provide for the registration of trademarks in relation
 
 6. Clauses 7, 8 and 9 seek to provide for references to the use of trademark, use of trademark where the form of trade changes and the determination of likelihood of confusion on the public relating to the use of a trademark.
 
-## Part II
+## PART II
 
 7. Part II deals with the administration relating to trademark.
 
@@ -3980,7 +3980,7 @@ The proposed Act seeks to provide for the registration of trademarks in relation
 
 11. Clause 13 seeks to provide for the power of the Registrar to issue preliminary advice and search to any party who is interested to obtain them before filing for an application for registration of trademark.
 
-## Part III
+## PART III
 
 12. Part III contains provisions relating to the Register of Trademarks.
 
@@ -3990,7 +3990,7 @@ The proposed Act seeks to provide for the registration of trademarks in relation
 
 <!-- page 152 -->
 
-## Part IV
+## PART IV
 
 15. Part IV deals with all the matters relating to the registration of trademarks.
 
@@ -4038,7 +4038,7 @@ The proposed Act seeks to provide for the registration of trademarks in relation
 
 36. Clause 36 seeks to provide for the manner of registration of trademark which will take place in the event there is no opposition filed or the opposition has been dismissed. This registration of trademarks will be issued with a notification of registration with the date of registration being the same as the date of filing in Malaysia.
 
-## Part V
+## PART V
 
 37. Part V deals with matters relating to division and merger of an application or registration of trademarks.
 
@@ -4046,7 +4046,7 @@ The proposed Act seeks to provide for the registration of trademarks in relation
 
 39. Clause 38 sets out merger procedures where multiple applications or registrations to be merged into one application or registration.
 
-## Part VI
+## PART VI
 
 40. Part VII deals with matters relating to duration and related processes for renewal of registered trademark.
 
@@ -4058,7 +4058,7 @@ The proposed Act seeks to provide for the registration of trademarks in relation
 
 43. Clause 41 seeks to provide for the effect of ceasing of registration following any decision for revocation by the Registrar or on the basis of non-use or where it has been voluntarily cancelled regardless of the fact that the registration is still within the duration of protection of ten years.
 
-## Part VII
+## PART VII
 
 44. Part VII sets out when the trademarks can be altered, corrected, voluntarily cancelled, revoked by the Registrar and revoked or invalidated by the Court.
 
@@ -4110,7 +4110,7 @@ The proposed Act seeks to provide for the registration of trademarks in relation
 
 <!-- page 156 -->
 
-## Part IX
+## PART IX
 
 66. Part IX deals with all matters relating to a trademark as an object of property.
 
@@ -4126,7 +4126,7 @@ The proposed Act seeks to provide for the registration of trademarks in relation
 
 72. Clause 67 seeks to provide for certain dealings such as licensing or the granting of any security interest on an application for registration of trademark, to be accepted and recorded by the Registrar of Trademarks.
 
-## Part X
+## PART X
 
 73. Part X deals with matters relating to licensing and the rights of licensee.
 
@@ -4140,7 +4140,7 @@ The proposed Act seeks to provide for the registration of trademarks in relation
 
 <!-- page 157 -->
 
-## Part XI
+## PART XI
 
 78. Part XI deals with all matters relating to collective marks which would enable associations to register their sign as a collective mark for the goods or services provided by the associations or their members and all matters relating to certification marks which would enable authorized bodies to register their signs as certification marks used to certify the goods or services in respect of its origin, material, or mode of manufacture of goods or performance of services, quality, accuracy or other characteristics.
 
@@ -4148,7 +4148,7 @@ The proposed Act seeks to provide for the registration of trademarks in relation
 
 80. Clause 73 seeks to deal with all matters relating to a certification mark as well the applicability of the Second Schedule.
 
-## Part XII
+## PART XII
 
 81. Part XII deals with all international matters relating to trademarks such as the Madrid Protocol and Malaysia’s obligations under Paris Convention and TRIPS Agreement.
 
@@ -4204,7 +4204,7 @@ organizations of which one or more convention countries are members without the 
 
 103. Clause 94 seeks to provide for the minimum number of goods carried by travelers in their personal luggage or sent in small consignment upon their arrival at any borders of Malaysia.
 
-## Part XIV
+## PART XIV
 
 104. Part XIV deals with all matters relating to trademark agents including matters relating to their registration, renewal, conduct and address of service, where this mechanism aims to facilitate applicants and registered proprietors of trademarks to understand the circumstances and procedures involved for which the services of registered trademark agents are required.
 
@@ -4218,7 +4218,7 @@ organizations of which one or more convention countries are members without the 
 
 <!-- page 160 -->
 
-## Part XV
+## PART XV
 
 109. Part XXII deals with all matters which are regarded as offences.
 
@@ -4242,7 +4242,7 @@ organizations of which one or more convention countries are members without the 
 
 119. Clause 108 provides that a person who describes himself as a registered trademark agent without being registered commits an offence.
 
-## Part XVI
+## PART XVI
 
 120. Part XVI deals with matters relating to the empowerment of the Controller or Assistant Controller to carry out investigation and other relevant power to take action against an offender.
 
@@ -4374,7 +4374,7 @@ organizations of which one or more convention countries are members without the 
 
 176. Clause 162 seeks to empower the Minister to make all the necessary regulations as required under the proposed Act.
 
-## Part XIX
+## PART XIX
 
 177. Part XIX deals with repeal, savings and transitional matters.
 

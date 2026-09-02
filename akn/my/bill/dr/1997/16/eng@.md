@@ -38,39 +38,101 @@ Power of 91. Where the Minister is satisfied that, by Minister to virtue of the 
 
 appoint a date, hereinafter referred to as the "date of dissolution", for the dissolution of the Board.
 
-Effect of
+<!-- marginal: Effect of -->
 
-92. On the date of dissolution, the Board shall appoint- stand dissolved and this Act shall be repealed. ment of date of dissolution. Transfer
+92. On the date of dissolution, the Board shall
 
-93. Upon the dissolution of the Board, all rights, of rights, privileges, liabilities and obligations which privileges, etc. immediately before the date of dissolution were those of the Board shall, as from that date, devolve on the Government.
+<!-- marginal: appoint- -->
 
-Transfer of
+stand dissolved and this Act shall be repealed.
 
-94. (1) All lands which immediately before property. the date of dissolution were vested in the Board shall, on that date, vest in the Federal Lands Act 349. Commissioner appointed under the Federal Lands Commissioner Act 1957 for the purposes of the Government.
+<!-- marginal: ment of -->
+
+<!-- marginal: date of -->
+
+<!-- marginal: dissolution. -->
+
+<!-- marginal: Transfer -->
+
+93. Upon the dissolution of the Board, all rights,
+
+<!-- marginal: of rights, -->
+
+privileges, liabilities and obligations which
+
+<!-- marginal: privileges, -->
+
+<!-- marginal: etc. -->
+
+immediately before the date of dissolution were those of the Board shall, as from that date, devolve on the Government.
+
+<!-- marginal: Transfer of -->
+
+94. (1) All lands which immediately before
+
+<!-- marginal: property. -->
+
+the date of dissolution were vested in the Board shall, on that date, vest in the Federal Lands
+
+<!-- marginal: Act 349. -->
+
+Commissioner appointed under the Federal Lands Commissioner Act 1957 for the purposes of the Government.
 
 (2) All moneys standing in or due to be paid to the Board immediately before the date of dissolution shall, on that date, be transferred to, and vest in the Government.
 
 (3) All properties and assets other than land and moneys which immediately before the date of dissolution were vested in the Board or in any person on its behalf shall, on that date, vest in the Government.
 
-Existing
+<!-- marginal: Existing -->
 
-95. All deeds, bonds, agreements, instruments contracts, and working arrangements subsisting before the etc. date of dissolution and affecting any of the property transferred under section 94 shall be of full force and effect against or in favour of the Government and enforceable as fully and effectually as if, instead of the Board or any person acting on its behalf, the Government had been named therein or had been a party thereto.
+95. All deeds, bonds, agreements, instruments
+
+<!-- marginal: contracts, -->
+
+and working arrangements subsisting before the
+
+<!-- marginal: etc. -->
+
+date of dissolution and affecting any of the property transferred under section 94 shall be of full force and effect against or in favour of the Government and enforceable as fully and effectually as if, instead of the Board or any person acting on its behalf, the Government had been named therein or had been a party thereto.
 
 <!-- page 3 -->
 
-Continuance 96. (1) The repeal of this Act shall not affect of criminal any person's liability to be prosecuted or and civil proceedings. punished for offences committed under this Act before the date of dissolution, or any proceedings brought or sentence imposed before that date in respect of such offence.
+<!-- marginal: Continuance -->
+
+96. (1) The repeal of this Act shall not affect
+
+<!-- marginal: of criminal -->
+
+any person's liability to be prosecuted or
+
+<!-- marginal: and civil -->
+
+<!-- marginal: proceedings. -->
+
+punished for offences committed under this Act before the date of dissolution, or any proceedings brought or sentence imposed before that date in respect of such offence.
 
 (2) Any proceedings or cause of action pending or existing before the date of dissolution by or against the Board or any person acting on its behalf may be continued or instituted by or against the Government as it might have been continued or instituted by or against the Board or such person as if this Act had not been repealed.
 
 (3) Any appeal brought, or any leave to appeal applied for, on or after the date of dissolution, against a decision given before the date of dissolution in any legal proceedings to which the Board was a party may be brought by or against the Government as it might have been brought by or against the Board as if this Act had not been repealed.
 
-Continuance 97. All written laws affecting or for the of laws, protection of the Board and in force before the etc. date of dissolution shall, until amended or repealed by the authority having power so to do, continue in force and be construed as if this Act had not been repealed:
+<!-- marginal: Continuance -->
+
+97. All written laws affecting or for the
+
+<!-- marginal: of laws, -->
+
+protection of the Board and in force before the
+
+<!-- marginal: etc. -->
+
+date of dissolution shall, until amended or repealed by the authority having power so to do, continue in force and be construed as if this Act had not been repealed:
 
 Provided that any reference in such written laws to the Board, unless the context otherwise requires, shall be construed as a reference to the Government and expressions importing such a reference shall be construed accordingly".
 
 ## EXPLANATORY STATEMENT
 
-This Bill seeks to amend the Lembaga Letrik Sabah Act 1983 (the "Act").
+This Bill seeks to amend the Lembaga Letrik Sabah Act 1983 (the
+
+<!-- marginal: "Act"). -->
 
 <!-- page 4 -->
 

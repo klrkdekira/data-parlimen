@@ -32,11 +32,21 @@ the Consolidated Fund for the service of the year 1996 is hereby authorised, and
 
 ## SCHEDULE
 
-Purpose Title Amount
+Purpose Title
+
+<!-- marginal: Amount -->
 
 <!-- marginal: (RM) -->
 
-B. 1 Parliament 40,050,000 B. 2 Office of the Keeper of the Rulers' Seal 1,135,700 B. 3 Audit Department 37,650,000 B. 4 Election Commission 19,841,300 B. 5 Public Services Commission 18,693,000 B. 6 Education Service Commission 6,009,400 B. 7 Prime Minister's Department 880,205,900 B. 8 Public Services Department 400,290,400 B. 9 Statistics Department 48,682,600
+B. 1 Parliament 40,050,000 B. 2 Office of the Keeper of the Rulers' Seal
+
+<!-- marginal: 1,135,700 -->
+
+B. 3 Audit Department 37,650,000 B. 4 Election Commission 19,841,300 B. 5 Public Services Commission 18,693,000 B. 6 Education Service Commission
+
+<!-- marginal: 6,009,400 -->
+
+B. 7 Prime Minister's Department 880,205,900 B. 8 Public Services Department 400,290,400 B. 9 Statistics Department 48,682,600
 
 <!-- page 2 -->
 
@@ -126,7 +136,11 @@ B. 46 Ministry of Science, Technology 191,297,700 and Environment B. 47 Ministry
 
 <!-- marginal: 60,145,200 -->
 
-Telecommunications and Posts B. 50 Ministry of Entrepreneur 478,788,300 Development B. 51 Ministry of Foreign Affairs 242,115,000 B. 52 Ministry of Works 1,382,905,900 B. 53 Ministry of Land and Co-operative 186,495,600 Development
+Telecommunications and Posts B. 50 Ministry of Entrepreneur 478,788,300 Development B. 51 Ministry of Foreign Affairs 242,115,000 B. 52 Ministry of Works 1,382,905,900 B. 53 Ministry of Land and Co-operative
+
+<!-- marginal: 186,495,600 -->
+
+Development
 
 ## TOTAL
 

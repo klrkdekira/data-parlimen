@@ -14,7 +14,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas
 
-1. Akta ini bolehlah dinamakan Akta Keterangan (Pindaan) 2015.
+1. Akta ini bolehlah dinamakan Akta Keterangan (Pindaan)
+
+2015.
 
 ### Seksyen baru 32a
 

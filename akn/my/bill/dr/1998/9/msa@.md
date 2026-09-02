@@ -46,27 +46,51 @@ memasukkan selepas perkataan "the Yang di-Pertuan Agong" perkataan "on the recom
 
 <!-- page 2 -->
 
-Pindaan 4. Seksyen 42 Akta ibu adalah dipinda— seksyen 42.
+<!-- marginal: Pindaan -->
+
+4. Seksyen 42 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 42. -->
 
 (a) dalam subseksyen (1), dengan memotong perkataan ", if the parties consent,"; dan
 
 (b) dengan memotong subseksyen (3).
 
-5. Seksyen 44 Akta ibu adalah dipinda dengan Pindaan seksyen 44. menggantikan subseksyen (3) dengan subseksyen yang berikut:
+5. Seksyen 44 Akta ibu adalah dipinda dengan
+
+<!-- marginal: Pindaan -->
+
+<!-- marginal: seksyen 44. -->
+
+menggantikan subseksyen (3) dengan subseksyen yang berikut:
 
 "(3) Every order made under subsection (1) may, upon application by the aggrieved party made within ten days after the order is served, be affirmed, varied or discharged by the Court.".
 
-Pindaan 6. Seksyen 78 Akta ibu adalah dipinda— seksyen 78.
+<!-- marginal: Pindaan -->
+
+6. Seksyen 78 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 78. -->
 
 (a) dalam subseksyen (1), dengan memotong perkataan ", if the parties consent,"; dan
 
 (b) dengan memotong subseksyen (3).
 
-7. Seksyen 80 Akta ibu adalah dipinda dengan Pindaan seksyen 80. menggantikan subseksyen (3) dengan subseksyen yang berikut:
+7. Seksyen 80 Akta ibu adalah dipinda dengan
+
+<!-- marginal: Pindaan -->
+
+<!-- marginal: seksyen 80. -->
+
+menggantikan subseksyen (3) dengan subseksyen yang berikut:
 
 "(3) Every order made under subsection (1) may, upon application by the aggrieved party made within ten days after the order is served, be affirmed, varied or discharged by the Court.".
 
-Pindaan 8. (1) Seksyen 96 Akta ibu adalah dipinda— seksyen 96.
+<!-- marginal: Pindaan -->
+
+8. (1) Seksyen 96 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 96. -->
 
 (a) dengan memotong perkataan "granted in accordance with section 97"; dan
 
@@ -134,6 +158,4 @@ Sesuatu permohonan bagi kebenaran untuk merayu daripada Mahkamah Rayuan kepada M
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
-
-<!-- marginal: [PN.(U2)2083.] -->
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN.(U2)2083.]

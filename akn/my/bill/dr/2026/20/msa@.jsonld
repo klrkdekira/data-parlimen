@@ -1,0 +1,1738 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-20-2026",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Kebebasan Maklumat 2026"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERMULAAN Tajuk ringkas dan permulaan kuat kuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_II__cl_4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PEGAWAI YANG DILANTIK Pelantikan pegawai yang dilantik"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_11"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "TATACARA PERMINTAAN Permintaan untuk mendapatkan akses"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pihak berkuasa awam yang menerima suatu permintaan boleh menangguhkan pemberian akses kepada maklumat yang diminta jika maklumat itu telah dikemukakan untuk dan sedang menunggu penerbitan bagi apa-apa prosiding di Parlimen atau hebahan kepada media dan hendaklah memaklumkan kepada orang itu sebab bagi penangguhan itu dan menyatakan, setakat yang praktik, tempoh penangguhan itu. Semakan dalaman"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_11__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_11__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang terkilan dengan keputusan pihak berkuasa awam berhubung dengan permintaan yang dibuat boleh, dalam tempoh empat belas hari bekerja selepas tarikh penerimaan notis yang memaklumkan penolakan itu di bawah subseksyen 9(2), merayu secara bertulis kepada ketua pihak berkuasa awam."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua pihak berkuasa awam boleh, selepas menimbangkan rayuan yang dibuat di bawah subseksyen (1) mengesahkan, mengubah atau mengetepikan keputusan pihak berkuasa awam."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_11__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa keputusan yang dibuat oleh ketua pihak berkuasa awam di bawah subseksyen (2) hendaklah disampaikan secara bertulis kepada orang yang terkilan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang merupakan warganegara Malaysia yang berumur lapan belas tahun dan ke atas boleh meminta untuk mendapatkan akses kepada maklumat di bawah Akta ini yang berada dalam kawalan pihak berkuasa awam."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang disebut di bawah subseksyen (1) boleh meminta bagi pihak ketiga jika orang itu ialah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penjaga yang sah kepada pihak ketiga;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "waris yang sah; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pentadbir yang sah bagi pihak yang telah meninggal dunia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_3__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_3__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang disebut di bawah subseksyen (1) atau (2) boleh meminta untuk mendapatkan akses kepada maklumat dengan membuat suatu permintaan secara bertulis kepada pihak berkuasa awam yang menyatakan butir-butir maklumat yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "nama, nombor kad pengenalan, alamat kediaman dan poskod, dan butir-butir untuk dihubungi bagi orang itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam hal orang itu meminta untuk mendapatkan akses kepada maklumat bagi pihak suatu pertubuhan perbadanan atau yang tidak diperbadankan, nama, nombor pendaftaran, alamat berdaftar dan poskod dan butir-butir untuk dihubungi pertubuhan perbadanan atau yang tidak diperbadankan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam hal orang itu meminta untuk mendapatkan akses kepada maklumat bertindak atas kapasiti yang disebut di bawah subseksyen (2), dokumen berkaitan sebagai bukti kapasiti sedemikian;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "maklumat yang diminta; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_3__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tujuan khusus permintaan itu sebagaimana yang dinyatakan di bawah seksyen 6."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu permintaan yang dibuat di bawah seksyen ini hendaklah dikemukakan bersama pembayaran fi sebagaimana yang ditetapkan oleh Yang di-Pertuan Agong melalui suatu perintah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila menerima permintaan itu, pegawai yang dilantik hendaklah memberikan suatu akuan terima bertulis mengenai permintaan itu kepada orang itu. Tujuan permintaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_6__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_6__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_6__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_6__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_6__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Permintaan untuk mendapatkan akses kepada maklumat di bawah seksyen 5 boleh dibenarkan bagi tujuan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_6__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengesahkan dan membuat pembetulan kepada maklumat peribadi atau maklumat peribadi suatu pihak ketiga dalam hal yang disebut di bawah subseksyen 5(2);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_6__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penyelidikan atau tujuan pendidikan yang dijalankan bukan bagi tujuan komersial oleh mana-mana pelajar, perantis atau pelatih, atau penyelidik atau sarjana tamu di sesebuah institusi pendidikan tinggi atau institusi penyelidikan di Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_6__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pelaporan, penerbitan atau penyebaran maklumat oleh pengamal media kepada orang awam; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_6__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa tujuan lain yang tidak bertentangan dengan mana-mana undang-undang bertulis yang orang itu mempunyai kepentingan yang wajar dan nyata dan telah terjejas dengan tindakan oleh pihak berkuasa awam."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tujuan yang disebut di bawah subseksyen (1) tidak memberikan seseorang, akhbar atau media, suatu hak untuk akses kepada maklumat."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud seksyen ini, “pengamal media” mempunyai erti yang diberikan kepadanya di bawah Akta Majlis Media Malaysia 2025 [Akta 868]. Pengesahan permintaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pegawai yang dilantik boleh menghendaki orang yang membuat suatu permintaan di bawah seksyen 5 untuk memberikan bukti identiti dan kewarganegaraan yang munasabah, atau apa-apa maklumat atau dokumen lain yang berhubungan dengan permintaan itu mengikut cara yang boleh ditentukan oleh pihak berkuasa awam. Keputusan permintaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_8__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_8__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_8__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pihak berkuasa awam hendaklah, dalam tempoh lima belas hari bekerja selepas menerima permintaan itu di bawah seksyen 5, membuat keputusan untuk membenarkan permintaan untuk mendapatkan akses kepada maklumat yang diminta atau menolak permintaan itu atas mana-mana alasan yang disebut dalam seksyen 9, dan hendaklah dengan serta-merta memaklumkan keputusan itu kepada orang itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika suatu keputusan dibuat untuk membenarkan permintaan untuk mendapatkan akses kepada maklumat yang diminta di bawah subseksyen (1), maklumat itu hendaklah diberikan kepada orang itu dalam tempoh empat belas hari bekerja dari tarikh keputusan itu dibuat."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_8__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_8__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen (1), jika permintaan untuk mendapatkan akses kepada maklumat dibuat oleh seseorang yang menyentuh nyawa dan kebebasan seorang individu, pihak berkuasa awam hendaklah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_8__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_8__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam tempoh empat puluh lapan jam selepas menerima permintaan itu, membuat keputusan sama ada membenarkan atau menolak permintaan itu atas mana-mana alasan yang disebut dalam seksyen 9; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_8__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_8__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam hal permintaan itu dibenarkan, memberikan maklumat itu kepada orang itu dengan seberapa segera yang praktik dalam tempoh empat belas hari bekerja dari tarikh keputusan itu dibuat di bawah perenggan (a)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_8__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_8__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_8__subsec_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pihak berkuasa awam boleh melanjutkan tempoh yang disebut dalam subseksyen (2) atau perenggan (3)(b) selama suatu tempoh tidak melebihi dua puluh satu hari bekerja atau apa-apa tempoh munasabah yang lain jika—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_8__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_8__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "permintaan itu melibatkan bilangan dokumen yang banyak dan pemberian maklumat dalam tempoh empat belas hari bekerja akan mengganggu secara tidak munasabah aktiviti pihak berkuasa awam; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_8__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_8__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "permintaan itu memerlukan pencarian rekod di pejabat pihak berkuasa awam yang terletak di Negeri, bandar atau daerah yang berlainan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_8__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika tempoh untuk memberikan maklumat dilanjutkan disebabkan oleh apa-apa keadaan yang disebut dalam subseksyen (4), pegawai yang dilantik hendaklah, dalam tempoh empat belas hari bekerja dari tarikh tamat tempoh yang diperuntukkan di bawah subseksyen (2) atau perenggan (3)(b), memaklumkan kepada orang itu tempoh lanjutan dan sebab bagi lanjutan itu. Penolakan permintaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_1__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Permintaan untuk mendapatkan akses kepada maklumat di bawah seksyen 5 boleh ditolak oleh pihak berkuasa awam, atas sebab yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "maklumat yang diminta ialah maklumat yang dikecualikan di bawah Bahagian IV;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "maklumat yang diminta telah tersedia kepada umum;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "maklumat yang diminta tidak wujud atau tidak berada dalam kawalan pihak berkuasa awam;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tertakluk kepada subseksyen (3), maklumat yang diminta itu mengandungi maklumat peribadi pihak ketiga;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "permintaan itu adalah menyusahkan atau tidak munasabah; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "permintaan untuk mendapatkan akses kepada maklumat telah dibuat dan ditolak dalam tempoh enam bulan sebelumnya melainkan jika orang itu memberikan penjelasan yang munasabah bagi permintaan untuk maklumat yang sama itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika permintaan untuk mendapatkan akses kepada maklumat ditolak di bawah subseksyen (1), pegawai yang dilantik hendaklah memaklumkan penolakan itu secara bertulis kepada orang itu dalam tempoh yang diperuntukkan di bawah subseksyen 8(1) atau perenggan 8(3)(a), mengikut mana-mana yang berkenaan, dan notis bertulis itu hendaklah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyatakan sebab bagi penolakan permintaan sebagaimana yang dinyatakan di bawah subseksyen (1); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memaklumkan orang itu tentang tatacara untuk merayu kepada ketua pihak berkuasa awam terhadap penolakan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan (1)(d) tidak terpakai jika—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "orang yang membuat permintaan itu telah memperoleh persetujuan bertulis daripada pihak ketiga bagi pendedahan maklumat itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "orang itu ialah penjaga yang sah pihak ketiga itu atau waris yang sah; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_III__cl_9__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "orang itu ialah pentadbir yang sah bagi pihak ketiga yang telah meninggal dunia. Penangguhan akses"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri yang bertanggungjawab hendaklah melantik seorang pegawai atau lebih dalam pihak berkuasa awam sebagai pegawai yang dilantik untuk memproses permintaan untuk mendapatkan akses kepada maklumat di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "MAKLUMAT YANG DIKECUALIKAN Maklumat yang dikecualikan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_m",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_n",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_o",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_p",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_q"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Suatu maklumat hendaklah dikecualikan jika—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "maklumat itu berkaitan dengan dokumen rasmi, rahsia rasmi, rahsia, maklumat sulit atau maklumat yang dilindungi di bawah undang-undang bertulis yang lain;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "maklumat itu berkaitan dengan pengesanan, pencegahan, penguatkuasaan, penyiasatan atau pendakwaan terhadap apa-apa pelanggaran atau ketidakpatuhan mana-mana undang-undang;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "maklumat itu akan menzahirkan atau membolehkan seseorang untuk menentukan identiti suatu sumber maklumat sulit yang berkaitan dengan penguatkuasaan undang-undang atau pentadbiran keadilan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "maklumat itu akan menzahirkan kewujudan atau identiti seseorang yang dimasukkan dalam program perlindungan saksi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "maklumat itu akan menzahirkan langkah atau tatacara penyiasatan, termasuk metodologi pengumpulan risikan, teknik atau teknologi penyiasatan, amalan rahsia, atau perkiraan perkongsian maklumat antara agensi penguatkuasaan undang-undang;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "maklumat itu akan menjejaskan atau menghalang pentaksiran atau pemungutan apa-apa cukai, duti atau penalti;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "maklumat itu berkemungkinan akan membahayakan nyawa, keselamatan, kesihatan atau kebajikan mana-mana orang atau kumpulan orang;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "maklumat itu berkemungkinan akan menzahirkan rahsia perdagangan pihak berkuasa awam atau mana-mana orang lain;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penzahiran maklumat itu berkemungkinan akan menjejaskan kepentingan komersial, kewangan, ekonomi atau harta pihak berkuasa awam;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penzahiran maklumat itu berkemungkinan akan menjejaskan penjalanan apa-apa penyelidikan yang dijalankan oleh pihak berkuasa awam atau mana-mana orang;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_k__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_k__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_k__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "maklumat itu diperoleh—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_k__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_k",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "daripada pihak ketiga dan penyampaiannya akan terjumlah kepada pecah kepercayaan yang boleh diambil tindakan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_k__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_k",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "secara rahsia daripada pihak ketiga dan mengandungi rahsia dagangan atau penyampaiannya akan, atau berkemungkinan akan, menjejaskan dengan serius kepentingan komersial atau kewangan pihak ketiga itu; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_k__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_k",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "secara rahsia daripada suatu Negara lain atau suatu organisasi antarabangsa, dan penyampaiannya akan, atau berkemungkinan akan, menjejaskan dengan serius hubungan dengan Negara atau organisasi antarabangsa itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_l__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_l__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_l__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penzahiran maklumat itu akan melanggar satu atau lebih daripada yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_l__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_l",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu perjanjian atau kontrak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_l__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_l",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kewajipan kerahsiaan di bawah ekuiti; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_l__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_l",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu perintah mahkamah atau tribunal;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_m__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_m__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_m__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_m__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "maklumat itu yang berhubungan dengan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_m__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_m",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "keistimewaan profesional undang-undang atau keistimewaan peguam cara dan klien;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_m__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_m",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kerahsiaan doktor dan pesakit atau keistimewaan profesion perubatan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_m__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_m",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pentadbiran keadilan oleh mahkamah termasuk apa-apa prosiding kehakiman, sama ada sivil atau jenayah, prosiding pengantaraan dan pengurusan kes pra-perbicaraan dan inkues atau siasatan mengenai suatu kematian; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_m__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_m",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa prosiding di hadapan suatu tribunal atau lembaga;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_n",
+      "@type": "akn:paragraph",
+      "eli:number": "n",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "maklumat itu akan menzahirkan perkara yang berupa pendapat, nasihat atau syor yang disediakan oleh seorang pegawai pihak berkuasa awam atau Menteri, atau perundingan atau pertimbangtelitian yang telah dilakukan antara pegawai pihak berkuasa awam, Menteri dengan Menteri, atau antara seorang pegawai pihak berkuasa awam dengan seorang Menteri, dalam masa menjalankan, atau bagi maksud, proses pertimbangtelitian yang terlibat dalam fungsi suatu pihak berkuasa awam;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_o",
+      "@type": "akn:paragraph",
+      "eli:number": "o",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "maklumat itu akan melibatkan penzahiran maklumat peribadi seseorang individu, termasuk seseorang individu yang telah meninggal dunia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_p",
+      "@type": "akn:paragraph",
+      "eli:number": "p",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "maklumat itu akan melibatkan apa-apa bahan penyiaran yang belum diterbitkan, bahan komunikasi awam, kandungan media, draf penerbitan atau komunikasi strategik yang disediakan oleh atau untuk pihak berkuasa awam dan yang dimaksudkan bagi penerbitan, penyiaran atau penyebaran kepada orang awam pada masa hadapan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12__para_q",
+      "@type": "akn:paragraph",
+      "eli:number": "q",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_IV__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "maklumat itu akan menzahirkan sumber apa-apa maklumat yang diperoleh dalam masa menjalankan penghasilan apa-apa program atau penyiaran."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Kebebasan Maklumat 2026."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Perdana Menteri melalui pemberitahuan dalam Warta. Pemakaian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_2__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_2__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini hendaklah terpakai bagi Kerajaan Persekutuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini hendaklah memperuntukkan tatacara permintaan untuk mendapatkan akses kepada maklumat tertakluk kepada maklumat yang dikecualikan di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_2__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini hendaklah dibaca bersama-sama dengan peruntukan undang-undang bertulis lain yang membenarkan akses kepada dokumen rasmi atau maklumat, tertakluk kepada syarat yang diperuntukkan di bawah undang-undang bertulis itu, dan peruntukan Akta ini hendaklah menjadi tambahan kepada, dan tidak mengurangkan, peruntukan undang-undang bertulis yang berkaitan. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya mengkehendaki makna yang lain—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "“dokumen” mempunyai erti yang diberikan kepadanya di bawah Akta Keterangan 1950 [Akta 56]; “ketua pihak berkuasa awam” ertinya pegawai awam yang dipertanggungkan dengan tanggungjawab berkenaan dengan mana-mana Kementerian, jabatan atau mana-mana perkhidmatan awam; “maklumat” ertinya apa-apa maklumat yang terkandung dalam mana-mana dokumen rasmi yang berada dalam kawalan pihak berkuasa awam tidak termasuk perkara yang disebut dalam seksyen 9; “maklumat peribadi” ertinya maklumat mengenai seorang individu, termasuk—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_1__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "maklumat yang berhubungan dengan bangsa, asal-usul kerakyatan atau etnik, agama, umur, jantina atau taraf perkahwinan atau keluarga individu itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "maklumat yang berhubungan dengan pendidikan atau perubatan, sejarah psikiatri, psikologi, jenayah atau pekerjaan individu itu atau maklumat yang berhubungan dengan transaksi kewangan yang melibatkan individu itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa nombor, simbol atau butir-butir pengenalan lain yang diberikan kepada individu itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "alamat, nombor telefon, cap jari atau kumpulan darah individu itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "surat-menyurat yang dihantar kepada pihak berkuasa awam oleh individu itu yang bersifat persendirian atau sulit, dan jawapan kepada surat-menyurat itu yang akan mendedahkan kandungan asal surat-menyurat itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "nama individu itu yang kelihatan dengan maklumat peribadi lain yang berhubungan dengan individu itu atau apabila penzahiran nama itu akan mendedahkan maklumat peribadi lain mengenai individu itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pendapat atau pandangan peribadi individu itu kecuali jika pendapat atau pandangan itu berkaitan dengan individu lain; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pandangan atau pendapat individu lain mengenai individu itu; “maklumat yang dikecualikan” ertinya maklumat sebagaimana yang dinyatakan di bawah seksyen 12; “Menteri yang bertanggungjawab” ertinya tiap-tiap Menteri yang masing-masing dipertanggungkan dengan tanggungjawab berkenaan dengan fungsi mengikut Akta Fungsi-Fungsi Menteri 1969 [Akta 2]; “Ombudsman” mempunyai erti yang diberikan kepadanya di bawah Akta Ombudsman 20… [Akta …]; “pegawai yang dilantik” ertinya pegawai yang dilantik di bawah seksyen 4; “pihak berkuasa awam” ertinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kerajaan Persekutuan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perkhidmatan Parlimen yang ditubuhkan di bawah Akta Perkhidmatan Parlimen 2025 [Akta 869];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "badan berkanun Kerajaan Persekutuan yang ditubuhkan di bawah suatu Akta Parlimen; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_I__cl_3__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pihak berkuasa tempatan bagi Wilayah-Wilayah Persekutuan Kuala Lumpur, Labuan dan Putrajaya; “rahsia rasmi” mempunyai erti yang diberikan kepadanya di bawah Akta Rahsia Rasmi 1972 [Akta 88]; “rasmi” berhubungan dengan mana-mana pihak berkuasa awam."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V__cl_17"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "OMBUDSMAN Semakan luar"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_23"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "AM Kesalahan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_18__subsec_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_18__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_18__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_18__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_18__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggunakan apa-apa maklumat yang diperoleh di bawah Akta ini yang bertentangan dengan tujuan permintaan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_18__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memberikan maklumat palsu dalam permintaan yang dibuat di bawah seksyen 5;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_18__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "secara menyalahi undang-undang memusnahkan, memadamkan, mengubah, merosakkan, menyembunyikan, menyekat atau memalsukan apa-apa maklumat yang berada dalam kawalan pihak berkuasa awam dengan niat untuk menghalang secara menyalahi undang-undang pendedahan apa-apa maklumat atau mana-mana bahagiannya atau menghalang permintaan untuk mendapatkan akses kepada apa-apa maklumat, melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh yang tidak melebihi lima tahun atau kedua-duanya. Pendakwaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada pendakwaan boleh dimulakan bagi suatu kesalahan di bawah Akta ini tanpa keizinan secara bertulis Pendakwa Raya. Perlindungan terhadap tindakan bagi fitnah, dll."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_20__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Melainkan jika dibuktikan bahawa perbuatan, pengabaian atau keingkaran itu dilakukan atau ditinggalkan dengan niat jahat dan tanpa sebab yang munasabah, tiada tindakan bagi fitnah, pecah kepercayaan atau pelanggaran hak cipta boleh dibawa, dimulakan atau dikekalkan dalam mana-mana mahkamah terhadap pihak berkuasa awam, atau mana-mana pegawai atau pekerja pihak berkuasa awam, disebabkan atau berkenaan dengan apa-apa perbuatan, pengabaian atau keingkaran yang dilakukan atau ditinggalkan olehnya semasa menjalankan kewajipannya di bawah Akta ini—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berikutan dengan membenarkan permintaan untuk mendapatkan akses kepada maklumat; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_20__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_20__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berkenaan dengan apa-apa penerbitan yang terlibat dalam membenarkan permintaan untuk mendapatkan akses kepada maklumat oleh pihak berkuasa awam terhadap—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_20__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_20__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana orang yang merupakan pengarang dokumen itu; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_20__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_20__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana orang berikutan dengan orang itu telah membekalkan dokumen itu atau maklumat yang terkandung di dalamnya kepada pihak berkuasa awam. Penerbitan maklumat awam dan penzahiran proaktif"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_1__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_1__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap pihak berkuasa awam boleh menerbitkan, seberapa kerap yang perlu, maklumat yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "butiran struktur organisasinya, termasuk mana-mana entiti di bawah seliaannya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perihalan fungsi dan kuasanya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "butir-butir am untuk dihubungi dan waktu bekerja rasmi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "butir-butir perkhidmatan yang disediakan termasuk borang berkaitan dan prosedur operasi standard;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sistem pengurusan aduan awam;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "undang-undang yang terpakai termasuk peraturan-peraturan dan garis panduan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "maklumat am dan pelan strategik agensi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bilangan permintaan yang dibuat di bawah Akta ini dan bilangan permintaan yang dibenarkan di bawah Akta ini; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_1__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "butir-butir untuk dihubungi bagi pegawai yang dilantik yang bertanggungjawab bagi perkara yang berhubungan dengan permintaan untuk mendapatkan akses kepada maklumat di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud subseksyen (1), penerbitan maklumat kepada orang awam boleh dibuat melalui laman sesawang, media cetak, media digital atau apa-apa bentuk penyebaran maklumat kepada orang awam yang difikirkan sesuai oleh pihak berkuasa awam."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maklumat yang diterbitkan di bawah subseksyen (1) tidak boleh termasuk apa-apa maklumat yang mengenal pasti atau yang boleh digunakan untuk mengenal pasti mana-mana orang yang membuat permintaan atau mana-mana orang lain. Pentafsiran Akta ini"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada apa-apa dalam Akta ini boleh ditafsirkan sebagai kebebasan asasi di bawah Bahagian II Perlembagaan Persekutuan. Kuasa untuk membuat peraturan-peraturan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_23__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perdana Menteri boleh membuat peraturan-peraturan sebagaimana yang perlu atau suai manfaat bagi maksud melaksanakan peruntukan Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_23__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_23__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_23__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_23__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tanpa menjejaskan keluasan subseksyen (1), Perdana Menteri boleh membuat peraturan-peraturan bagi atau berkenaan dengan semua atau bagi perkara yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_23__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tatacara bagi permintaan untuk mendapatkan akses kepada maklumat;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_23__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "borang yang hendak digunakan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_23__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tatacara bagi semakan dalaman oleh pihak berkuasa awam;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_23__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_VI__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tatacara bagi semakan luar oleh Ombudsman."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang terkilan dengan keputusan ketua pihak berkuasa awam di bawah seksyen 11 boleh mengemukakan keputusan itu untuk disemak oleh Ombudsman. Keputusan Ombudsman"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V__cl_14__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada seksyen 9, Ombudsman boleh mengesahkan, mengubah atau mengetepikan keputusan ketua pihak berkuasa awam itu selepas menyemak keputusan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa keputusan yang dibuat oleh Ombudsman di bawah subseksyen (1) hendaklah disampaikan secara bertulis kepada orang yang terkilan itu. Ketidakpakaian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kuasa penyiasatan yang diberikan kepada Ombudsman di bawah ... Akta Ombudsman 20… [Akta …] tidak terpakai bagi Bahagian ini. Semakan kehakiman"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang terkilan dengan keputusan Ombudsman atau pihak berkuasa awam di bawah Akta ini boleh memohon kepada Mahkamah Tinggi bagi semakan kehakiman. Obligasi kerahsiaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V__cl_17__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V__cl_17__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V__cl_17__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kecuali bagi apa-apa maksud Akta ini atau bagi maksud apa-apa prosiding sivil atau jenayah di bawah mana-mana undang-undang bertulis—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V__cl_17__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V__cl_17__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tiada anggota, pegawai atau kakitangan Ombudsman, sama ada semasa atau selepas tempoh jawatan atau pekerjaannya, boleh mendedahkan apa-apa maklumat atau dokumen yang diperolehnya dalam perjalanan pekerjaannya di bawah Akta ini; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V__cl_17__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V__cl_17__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tiada mana-mana orang lain yang melalui apa-apa cara mengakses kepada apa-apa maklumat atau dokumen yang berhubungan dengan maklumat di bawah Akta ini boleh mendedahkan maklumat atau dokumen itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/20/msa@/~part_V__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dipenjarakan selama tempoh yang tidak melebihi lima tahun atau didenda tidak melebihi satu ratus ribu ringgit atau kedua-duanya."
+      }
+    }
+  ]
+}

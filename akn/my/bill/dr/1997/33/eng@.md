@@ -52,17 +52,23 @@ in section 16A by inserting after the words "Banking and Financial Institutions 
 
 ### Bill
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Paragraph 34( 1)(b) of the principal Act is amended— of section 34.
+4. Paragraph 34( 1)(b) of the principal Act is amended—
+
+<!-- marginal: of section 34. -->
 
 (a) by deleting the word "and" appearing after the words "Takaful Act 1984,"; and
 
 (b) by inserting after the words "Banking and Financial Institutions Act 1989" the words "and the Money-Changing Act 1997".
 
-Amendment
+<!-- marginal: Amendment -->
 
-5. Subparagraph 37(l)(e)(ii) of the principal Act is of section 37. amended—
+5. Subparagraph 37(l)(e)(ii) of the principal Act is
+
+<!-- marginal: of section 37. -->
+
+amended—
 
 (a) by substituting for the word "or" appearing after the words "1963" a comma; and
 

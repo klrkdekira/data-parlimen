@@ -62,7 +62,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 7. Akta ibu dipinda dengan menggantikan Jadual Kedua dengan jadual yang berikut:
 
-“Jadual Kedua
+## “JADUAL KEDUA
 
 [Seksyen 4 dan 5]
 

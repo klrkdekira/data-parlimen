@@ -14,7 +14,9 @@ FINANCE (No. 2) BILL 1992
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1%7
 
-3. Commencement of amendments to the Income Tax Act 1967. 4. Amendment of section 34. 5. New section 60p. 6. Amendment of section 108. 7. Amendment of section 109. 8. Amendment ot" section 110. 9. Amendment of Schedule 1. 10. Amendment of Schedule 6.
+3. Commencement of amendments to the Income Tax Act 1967. 4. Amendment of section 34. 5. New section 60p. 6. Amendment of section 108. 7. Amendment of section 109. 8. Amendment ot" section 110. 9. Amendment of Schedule 1.
+
+10. Amendment of Schedule 6.
 
 ## CHAPTER
 
@@ -22,7 +24,13 @@ III
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
-1 1. Commencement of amendments to the Stamp Act 1949. 12. Amendment of section 9. 13. Substitution of section 12A. 14. Amendment of First Schedule.
+1 1. Commencement of amendments to the Stamp Act 1949.
+
+12. Amendment of section 9.
+
+13. Substitution of section 12A.
+
+14. Amendment of First Schedule.
 
 ## CHAPTER
 
@@ -30,7 +38,7 @@ IV
 
 ## AMENDMENTS TO THE FINANCE ACT
 
-<!-- marginal: [99] -->
+[99]
 
 15. Amendment of section 3.
 
@@ -114,9 +122,13 @@ subsequent years of assessment.
 
 (4) Section 7 shall be deemed to have come into force on the 30th October 1992.
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Section 34 of the Income Tax Act 1967, which is of seciton 34. referred to as the "principal Act" in this Chapter, is amended, in subsection (6)—
+4. Section 34 of the Income Tax Act 1967, which is
+
+<!-- marginal: of seciton 34. -->
+
+referred to as the "principal Act" in this Chapter, is amended, in subsection (6)—
 
 (a) by deleting the word "and" at the end of paragraph (d):
 
@@ -130,9 +142,13 @@ Amendment
 
 professional, scientific or technical books approved by the Dewan Bahasa dan Pustaka.".
 
-New section
+<!-- marginal: New section -->
 
-5. The principal Act is amended by inserting, after 60 B. section 60E, the following section:
+5. The principal Act is amended by inserting, after
+
+<!-- marginal: 60 B. -->
+
+section 60E, the following section:
 
 "lnvest- 60p. ( 1) Where an investment
 
@@ -152,47 +168,19 @@ B A x —— 4C
 
 (NO. 2)
 
-where A is the total of the permitted expenses incurred for t h at basis period reduced by any receipt of a similar kind;
+<!-- marginal: where A -->
 
-B is the gross income consisting of dividend, interest
+is the total of the permitted expenses incurred for t h at basis period reduced by any receipt of a similar kind;
 
-<!-- marginal: and -->
-
-<!-- marginal: rent -->
-
-chargeable to tax for t h at basis period; and
+B is the gross income consisting of dividend, interest and rent chargeable to tax for t h at basis period; and
 
 C is the aggregate of the gross income consisting of dividend (whether exempt or not), interest and rent, and gains made from the realisation of investments for that basis period:
 
 Provided that-—
 
-(a) the amount of deduction to be made shall not exceed five per cent of the gross income
+(a) the amount of deduction to be made shall not exceed five per cent of the gross income consisting of dividend, interest and rent for that basis period; and
 
-<!-- marginal: consisting -->
-
-<!-- marginal: of -->
-
-dividend, interest and rent for that basis period; and
-
-(h) where, by reason of an absence or insutfficiency of aggregate income for that year of assessment, effect cannot be given or cannot be given
-
-<!-- marginal: in f u ll -->
-
-<!-- marginal: to any -->
-
-deduction
-
-<!-- marginal: falling -->
-
-<!-- marginal: to be -->
-
-made to the investment holding company under this section for that year, that deduction which has not been so made shall not be made to the investment holding company for any subsequent
-
-<!-- marginal: year -->
-
-<!-- marginal: of -->
-
-assessment.
+(h) where, by reason of an absence or insutfficiency of aggregate income for that year of assessment, effect cannot be given or cannot be given in f u ll to any deduction falling to be made to the investment holding company under this section for that year, that deduction which has not been so made shall not be made to the investment holding company for any subsequent year of assessment.
 
 (2) In this section—
 
@@ -208,19 +196,19 @@ assessment.
 
 (c) management fees;
 
-(d) secretarial, audit and accounting fees, telephone charges, printing
-
-<!-- marginal: and -->
-
-stationery costs and postage; and
+(d) secretarial, audit and accounting fees, telephone charges, printing and stationery costs and postage; and
 
 (e) rent and other expenses incidental to the maintenance of an office,
 
 which are not deductible under section 33( 1).".
 
-Amendment
+<!-- marginal: Amendment -->
 
-6. Section 108 of the principal Act is amended— of sectiun 108
+6. Section 108 of the principal Act is amended—
+
+<!-- marginal: of sectiun -->
+
+<!-- marginal: 108 -->
 
 (a) by inserting, after subsection (2A), the following subsection: "(2B) Notwithstanding any other provision of this Act, where a dividend is paid, credited or distributed with or without deduction of tax during the basis year for the year of assessment 1993, the amount of the dividend received by the shareholder shall be deemed to be a dividend of such a gross amount as after deduction of tax at the rate of thirty-four per cent would be equal to—
 
@@ -272,23 +260,11 @@ inserting, after subsection (1A), the following subsection:
 
 <!-- marginal: of Schedule I. -->
 
-(a) by substituting for the rates in paragraph 1 of
-
-## Part I the following rates:
-
-"Chargeable lucome
+(a) by substituting for the rates in paragraph 1 of Part I the following rates: "Chargeable lucome
 
 <!-- marginal: RatceIncome Tax -->
 
-For every ringgit of the first
-
-<!-- marginal: 2 per cent -->
-
-$2,500 For every ringgit of the next
-
-<!-- marginal: 5 per cent -->
-
-$2,500
+For every ringgit of the first 2 per cent $2,500 For every ringgit of the next 5 per cent $2,500
 
 <!-- page 8 -->
 
@@ -298,11 +274,7 @@ in paragraph
 
 (b) by substituting for the figures "35" 2 of Part I the figures "34";
 
-(c) by substituting for the rates in
-
-## Part IV the
-
-following rates: ""Chargeable Income Rate of Income Tax For every ringgit of the first 2 per cent $10,000 For every ringgit of the next 4 per cent $10.000 For every ringgit of the next 7 per cent $10.000 For every ringgit of the next 10 per cent $10,000 For every ringgit of the next 13 per cent $10.000 For every ringgit of the next 17 per cent $25.000 For every ringgil of the next 22 per cent $25,000 26 per cent For every ringgit of the n e xt $50,000 " For every riggit of the next 29 per cent $100.000 For every ringgit of the next 32 per cent $250.000 For every ringgit exceeding 34 per cent $500.000
+(c) by substituting for the rates in Part IV the following rates: ""Chargeable Income Rate of Income Tax For every ringgit of the first 2 per cent $10,000 For every ringgit of the next 4 per cent $10.000 For every ringgit of the next 7 per cent $10.000 For every ringgit of the next 10 per cent $10,000 For every ringgit of the next 13 per cent $10.000 For every ringgit of the next 17 per cent $25.000 For every ringgil of the next 22 per cent $25,000 26 per cent For every ringgit of the n e xt $50,000 " For every riggit of the next 29 per cent $100.000 For every ringgit of the next 32 per cent $250.000 For every ringgit exceeding 34 per cent $500.000
 
 <!-- page 9 -->
 
@@ -360,7 +332,15 @@ further amount of five hundred ringgit or ten per centum of the amount due which
 
 (2) A banker, stockbroker or insurer authorised under subsection (1) of section 9 of the principal Act before the 1st January 1993 shall as from that date be subject to the conditions in that subsection as amended by subsection (1) of this section.
 
-Sub.stitution 13. The principal Act is amended by substituting for of section section 12A the following section: I 2 A.
+<!-- marginal: Sub.stitution -->
+
+13. The principal Act is amended by substituting for
+
+<!-- marginal: of section -->
+
+section 12A the following section:
+
+<!-- marginal: I 2 A. -->
 
 "Assensment 12A. Where an instrument is chargeable with of Ihe duty under Item 32(a) of the First Schedule, the yalue of property date for determining the market value of any under property being transferred, settled or gifted transfer or settle- shall be— ment.
 
@@ -404,11 +384,7 @@ Item 32(«) the following provisions:
 
 (iii) $3.00 on any amount in excess of $500,000 but not exceeding $2,000,000;
 
-(iv) $4.00 on any amount
-
-<!-- marginal: in excess of -->
-
-$2,000,000.".
+(iv) $4.00 on any amount in excess of $2,000,000.".
 
 ## CHAPTER
 
@@ -440,9 +416,25 @@ amended—
 
 ## INCOME TAX ACT 1967
 
-Repeal and
+<!-- marginal: Repeal and -->
 
-16. (1) The Supplementary Income Tax Act 1967 is saving of the repealed with effect from the year of assessment 1993. Supple- mentary Income Tax (2) The repeal of the Act mentioned in subsection (1) Act 1967. shall not affect its operation for any year of assessment prior to the year of assessment 1993.
+16. (1) The Supplementary Income Tax Act 1967 is
+
+<!-- marginal: saving of the -->
+
+repealed with effect from the year of assessment 1993.
+
+<!-- marginal: Supple- -->
+
+<!-- marginal: mentary -->
+
+<!-- marginal: Income Tax -->
+
+(2) The repeal of the Act mentioned in subsection (1)
+
+<!-- marginal: Act 1967. -->
+
+shall not affect its operation for any year of assessment prior to the year of assessment 1993.
 
 ## EXPLANATORY STATEMENT
 

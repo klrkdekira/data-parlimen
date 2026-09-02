@@ -66,7 +66,31 @@ provisions.
 
 (5) The specified person may enter into any arrangements or agreements with the Government of Malaysia or any third party on any of the rights and liabilities arising under any loans vested in the specified person under subsection (1).
 
-Application 90B. (1) Where the Minister has appointed a vesting to High date under section 90A, the specified person shall make Court to give effect an application to the High Court by way of an ex pane to vesting : originating summons to seek all or any of the following of alienated lands in orders: Sabah.
+<!-- marginal: Application -->
+
+90B. (1) Where the Minister has appointed a vesting
+
+<!-- marginal: to High -->
+
+date under section 90A, the specified person shall make
+
+<!-- marginal: Court to -->
+
+<!-- marginal: give effect -->
+
+an application to the High Court by way of an ex pane
+
+<!-- marginal: to vesting -->
+
+: originating summons to seek all or any of the following
+
+<!-- marginal: of alienated -->
+
+<!-- marginal: lands in -->
+
+orders:
+
+<!-- marginal: Sabah. -->
 
 (a) an order giving effect to the vesting of all or any of the alienated lands, or any share or interest in such lands, in Sabah belonging to the Board in the specified person; or/and
 
@@ -74,9 +98,17 @@ Application 90B. (1) Where the Minister has appointed a vesting to High date und
 
 (2) On the hearing of an application under subsection (1), the High Court may grant an order in the terms applied for, or with such modifications or variations as the High Court deems just or proper in the circumstances of the case.
 
-(3) An order granted by the High Court under subsection (2) shall have effect according to its terms notwithstanding anything in any law or in any rule of law, and shall be binding on any person affected thereby, regardless that the person so affected is not a party to the proceedings, or had no notice of the proceedings under this section or of other related proceedings.
+(3) An order granted by the High Court under subsection
 
-(4) The specified person shall, as soon as practicable after the order has been made, present an authenticated copy of such order to the Registrar and the Collector for the registration of all or any of the alienated lands, or of any share or interest in such lands, in Sabah belonging to the Board in the name of such person in accordance Sabah with the Land Ordinance of Sabah. Cap. 68.
+(2) shall have effect according to its terms notwithstanding anything in any law or in any rule of law, and shall be binding on any person affected thereby, regardless that the person so affected is not a party to the proceedings, or had no notice of the proceedings under this section or of other related proceedings.
+
+(4) The specified person shall, as soon as practicable after the order has been made, present an authenticated copy of such order to the Registrar and the Collector for the registration of all or any of the alienated lands, or of any share or interest in such lands, in Sabah belonging to the Board in the name of such person in accordance
+
+<!-- marginal: Sabah -->
+
+with the Land Ordinance of Sabah.
+
+<!-- marginal: Cap. 68. -->
 
 <!-- page 4 -->
 

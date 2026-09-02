@@ -14,23 +14,43 @@
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan permulaan kuat kuasa 2. Akta hendaklah dibaca bersama-sama dengan undang-undang lain 3. Tafsiran
+1. Tajuk ringkas dan permulaan kuat kuasa
 
-## BAHAGIAN II
+2. Akta hendaklah dibaca bersama-sama dengan undang-undang lain
+
+3. Tafsiran
+
+## BAHAGIANII
 
 ## PIHAK BERKUASA
 
-4. Pihak Berkuasa Pengurusan Utama 5. Fungsi Pihak Berkuasa Pengurusan Utama 6. Pihak Berkuasa Pengurusan 7. Fungsi dan kuasa Pihak Berkuasa Pengurusan (cid:3) (cid:27)(cid:17)(cid:3) (cid:51)(cid:76)(cid:75)(cid:68)(cid:78)(cid:3)(cid:37)(cid:72)(cid:85)(cid:78)(cid:88)(cid:68)(cid:86)(cid:68)(cid:3)(cid:54)(cid:68)(cid:76)(cid:81)(cid:87)(cid:76)(cid:192)(cid:78)(cid:3)(cid:56)(cid:87)(cid:68)(cid:80)(cid:68)(cid:3)(cid:71)(cid:68)(cid:81)(cid:3)(cid:51)(cid:76)(cid:75)(cid:68)(cid:78)(cid:3)(cid:37)(cid:72)(cid:85)(cid:78)(cid:88)(cid:68)(cid:86)(cid:68)(cid:3)(cid:54)(cid:68)(cid:76)(cid:81)(cid:87)(cid:76)(cid:192)(cid:78) (cid:3) (cid:28)(cid:17)(cid:3) (cid:41)(cid:88)(cid:81)(cid:74)(cid:86)(cid:76)(cid:3)(cid:51)(cid:76)(cid:75)(cid:68)(cid:78)(cid:3)(cid:37)(cid:72)(cid:85)(cid:78)(cid:88)(cid:68)(cid:86)(cid:68)(cid:3)(cid:54)(cid:68)(cid:76)(cid:81)(cid:87)(cid:76)(cid:192)(cid:78)
+4. Pihak Berkuasa Pengurusan Utama
 
-## BAHAGIAN III
+5. Fungsi Pihak Berkuasa Pengurusan Utama
+
+6. Pihak Berkuasa Pengurusan
+
+7. Fungsi dan kuasa Pihak Berkuasa Pengurusan (cid:3) (cid:27)(cid:17)(cid:3) (cid:51)(cid:76)(cid:75)(cid:68)(cid:78)(cid:3)(cid:37)(cid:72)(cid:85)(cid:78)(cid:88)(cid:68)(cid:86)(cid:68)(cid:3)(cid:54)(cid:68)(cid:76)(cid:81)(cid:87)(cid:76)(cid:192)(cid:78)(cid:3)(cid:56)(cid:87)(cid:68)(cid:80)(cid:68)(cid:3)(cid:71)(cid:68)(cid:81)(cid:3)(cid:51)(cid:76)(cid:75)(cid:68)(cid:78)(cid:3)(cid:37)(cid:72)(cid:85)(cid:78)(cid:88)(cid:68)(cid:86)(cid:68)(cid:3)(cid:54)(cid:68)(cid:76)(cid:81)(cid:87)(cid:76)(cid:192)(cid:78) (cid:3) (cid:28)(cid:17)(cid:3) (cid:41)(cid:88)(cid:81)(cid:74)(cid:86)(cid:76)(cid:3)(cid:51)(cid:76)(cid:75)(cid:68)(cid:78)(cid:3)(cid:37)(cid:72)(cid:85)(cid:78)(cid:88)(cid:68)(cid:86)(cid:68)(cid:3)(cid:54)(cid:68)(cid:76)(cid:81)(cid:87)(cid:76)(cid:192)(cid:78)
+
+## BAHAGIANIII
 
 ## PERDAGANGAN SPESIES TERJADUAL
 
-10. Import dan eksport 11. Eksport semula dan membawa masuk dari laut 12. Pemilikan spesies terjadual 13. Spesies terjadual dalam persinggahan 14. Pembiakbakaan atau pembiakan spesies terjadual 15. Kuasa untuk menghendaki spesies terjadual untuk ditandakan, dsb.
+10. Import dan eksport
+
+11. Eksport semula dan membawa masuk dari laut
+
+12. Pemilikan spesies terjadual
+
+13. Spesies terjadual dalam persinggahan
+
+14. Pembiakbakaan atau pembiakan spesies terjadual
+
+15. Kuasa untuk menghendaki spesies terjadual untuk ditandakan, dsb.
 
 <!-- page 2 -->
 
-## BAHAGIAN IV
+## BAHAGIANIV
 
 ## PERMIT, PERAKUAN DAN PENDAFTARAN
 
@@ -94,17 +114,45 @@
 
 Spesies Terancam
 
-## BAHAGIAN VI
+## BAHAGIANVI
 
 AM
 
-41. Pembayaran ke dalam kumpulan wang 42. Pengkompaunan kesalahan 43. Pemulaan pendakwaan 44. Perisytiharan palsu 45. Kesalahan yang dilakukan oleh pertubuhan perbadanan 46. Kesalahan oleh pekongsi, ejen atau pekhidmat 47. Pensubahatan dan percubaan 48. Pekhidmat awam 49. Perlindungan daripada tindakan guaman dan prosiding undang-undang 50. Perlindungan pemberi maklumat 51. Ganjaran 52. Kuasa untuk mengecualikan 53. Kuasa untuk meminda Jadual 54. Kuasa untuk membuat peraturan-peraturan 55. Pencegahan anomali
+41. Pembayaran ke dalam kumpulan wang
 
-## JADUAL PERTAMA
+42. Pengkompaunan kesalahan
 
-## JADUAL KEDUA
+43. Pemulaan pendakwaan
 
-## JADUAL KETIGA
+44. Perisytiharan palsu
+
+45. Kesalahan yang dilakukan oleh pertubuhan perbadanan
+
+46. Kesalahan oleh pekongsi, ejen atau pekhidmat
+
+47. Pensubahatan dan percubaan
+
+48. Pekhidmat awam
+
+49. Perlindungan daripada tindakan guaman dan prosiding undang-undang
+
+50. Perlindungan pemberi maklumat
+
+51. Ganjaran
+
+52. Kuasa untuk mengecualikan
+
+53. Kuasa untuk meminda Jadual
+
+54. Kuasa untuk membuat peraturan-peraturan
+
+55. Pencegahan anomali
+
+## JADUALPERTAMA
+
+## JADUALKEDUA
+
+## JADUALKETIGA
 
 <!-- page 5 -->
 
@@ -136,9 +184,7 @@ MAKA, OLEH YANG DEMIKIAN, DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### lain
 
-2.
-
-(1) Akta ini hendaklah dibaca bersama-sama dengan mana- mana undang-undang bertulis lain yang berhubungan dengan import dan eksport, pemuliharaan tumbuhan, hutan dan haiwan dan perdagangan mengenai spesies terjadual, dan peruntukan Akta ini hendaklah menjadi tambahan kepada, dan tidak mengurangkan, peruntukan undang-undang bertulis lain itu.
+2. (1) Akta ini hendaklah dibaca bersama-sama dengan mana- mana undang-undang bertulis lain yang berhubungan dengan import dan eksport, pemuliharaan tumbuhan, hutan dan haiwan dan perdagangan mengenai spesies terjadual, dan peruntukan Akta ini hendaklah menjadi tambahan kepada, dan tidak mengurangkan, peruntukan undang-undang bertulis lain itu.
 
 (2) Sekiranya terdapat apa-apa ketidakselarasan antara peruntukan Akta ini dengan mana-mana undang-undang bertulis lain yang disebut dalam subseksyen (1), peruntukan Akta ini hendaklah terpakai.
 
@@ -298,9 +344,7 @@ Spesies Terancam
 
 ### Fungsi dan kuasa Pihak Berkuasa Pengurusan
 
-7.
-
-(1) Fungsi Pihak Berkuasa Pengurusan adalah—
+7. (1) Fungsi Pihak Berkuasa Pengurusan adalah—
 
 (a) untuk menyenggarakan rekod perdagangan antarabangsa mengenai spesies terjadual dan menyediakan laporan tahunan dan dwitahunan berkenaan dengan perdagangan itu, dan mengemukakan laporan itu kepada Pihak Berkuasa Pengurusan Utama pada atau sebelum apa-apa tarikh yang ditentukan oleh Pihak Berkuasa Pengurusan Utama itu;
 
@@ -318,9 +362,7 @@ Spesies Terancam
 
 ### Saintifik
 
-8.
-
-(1) Pihak Berkuasa Pengurusan Utama hendaklah menjadi Pihak Berkuasa Saintifik Utama.
+8. (1) Pihak Berkuasa Pengurusan Utama hendaklah menjadi Pihak Berkuasa Saintifik Utama.
 
 (2) Pihak Berkuasa Saintifik Utama boleh melantik apa-apa bilangan Pihak Berkuasa Saintifik sebagaimana yang perlu untuk memberikan nasihat tentang perdagangan antarabangsa mengenai spesies terjadual.
 
@@ -436,9 +478,7 @@ mana-mana spesies terjadual yang telah dihasilkan dengan melanggar subseksyen (1
 
 ### dsb.
 
-15.
-
-(1) Pihak Berkuasa Pengurusan boleh menghendaki mana- mana pemunya, pengimport, pengeksport atau pengeksport semula
+15. (1) Pihak Berkuasa Pengurusan boleh menghendaki mana- mana pemunya, pengimport, pengeksport atau pengeksport semula
 
 <!-- page 17 -->
 
@@ -472,15 +512,13 @@ spesies terjadual untuk menjenamakan, melabelkan atau selainnya menandakan mana-
 
 (b) dalam hal suatu haiwan— (i) pengimplanan peranti boleh imbas dalam haiwan itu; (ii) peletakan gelung pada mana-mana bahagian haiwan itu; (iii) peletakan (sama ada melalui penyucukan atau selainnya) tag, tatu atau cecincin pada mana-mana bahagian haiwan itu; atau (iv) pelabelan atau penandaan bekas yang di dalamnya haiwan itu disimpan.
 
-## BAHAGIAN IV
+## BAHAGIANIV
 
 ## PERMIT, PERAKUAN DAN PENDAFTARAN
 
 ### Permit, perakuan dan pendaftaran
 
-16.
-
-(1) Suatu permohonan bagi—
+16. (1) Suatu permohonan bagi—
 
 (a) permit untuk mengimport atau mengeksport mana-mana spesies terjadual;
 
@@ -538,9 +576,7 @@ Jika Pihak Berkuasa Pengurusan membatalkan permit, perakuan atau pendaftaran di 
 
 ### Pembiakbakaan dalam kurungan atau pembiakan buatan
 
-18.
-
-(1) Mana-mana orang yang didaftarkan dengan Pihak Berkuasa Pengurusan untuk menghasilkan haiwan dibiakbakakan dalam kurungan atau tumbuhan atau haiwan dibiakkan secara buatan daripada mana-mana spesies terjadual hendaklah menyimpan dan menyenggarakan rekod mengenai stok dan transaksi mereka.
+18. (1) Mana-mana orang yang didaftarkan dengan Pihak Berkuasa Pengurusan untuk menghasilkan haiwan dibiakbakakan dalam kurungan atau tumbuhan atau haiwan dibiakkan secara buatan daripada mana-mana spesies terjadual hendaklah menyimpan dan menyenggarakan rekod mengenai stok dan transaksi mereka.
 
 (2) Pihak Berkuasa Pengurusan boleh memeriksa, pada bila- bila masa, premis dan rekod mana-mana orang yang berdaftar dengan Pihak Berkuasa Pengurusan.
 
@@ -582,9 +618,7 @@ Spesies Terancam
 
 ### Kuasa penangkapan
 
-22.
-
-(1) Seseorang pegawai penguat kuasa boleh menangkap tanpa waran mana-mana orang—
+22. (1) Seseorang pegawai penguat kuasa boleh menangkap tanpa waran mana-mana orang—
 
 (a) yang didapati melakukan atau cuba melakukan atau bersubahat dalam pelakuan suatu kesalahan di bawah Akta ini; atau
 
@@ -594,9 +628,7 @@ Spesies Terancam
 
 ### Penggeledahan dan penyitaan dengan waran
 
-23.
-
-(1) Jika ternyata pada Majistret, berdasarkan maklumat bertulis yang dibuat atas sumpah dan selepas apa-apa siasatan sebagaimana yang difikirkannya perlu, bahawa terdapat sebab yang munasabah untuk mempercayai bahawa—
+23. (1) Jika ternyata pada Majistret, berdasarkan maklumat bertulis yang dibuat atas sumpah dan selepas apa-apa siasatan sebagaimana yang difikirkannya perlu, bahawa terdapat sebab yang munasabah untuk mempercayai bahawa—
 
 (a) mana-mana premis telah digunakan atau akan digunakan bagi; atau
 
@@ -682,9 +714,7 @@ Spesies Terancam
 
 ### Notis penyitaan
 
-29.
-
-(1) Jika apa-apa penyitaan dibuat di bawah Akta ini, pegawai penguat kuasa yang membuat penyitaan itu hendaklah memberikan suatu notis secara bertulis mengenai penyitaan itu dan alasan-alasan penyitaan itu kepada pemunya spesies terjadual, pengangkut, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain yang disita dengan menyerahkan suatu salinan notis itu kepada pemunya itu, jika pemunya itu atau tempat dia berada diketahui.
+29. (1) Jika apa-apa penyitaan dibuat di bawah Akta ini, pegawai penguat kuasa yang membuat penyitaan itu hendaklah memberikan suatu notis secara bertulis mengenai penyitaan itu dan alasan-alasan penyitaan itu kepada pemunya spesies terjadual, pengangkut, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain yang disita dengan menyerahkan suatu salinan notis itu kepada pemunya itu, jika pemunya itu atau tempat dia berada diketahui.
 
 (2) Notis di bawah subseksyen (1) tidak perlu diberikan jika penyitaan itu dibuat dalam kehadiran—
 
@@ -696,9 +726,7 @@ Spesies Terancam
 
 ### Pemulangan sementara pengangkut, dsb.
 
-30.
-
-(1) Pegawai penguat kuasa boleh atas budi bicaranya—
+30. (1) Pegawai penguat kuasa boleh atas budi bicaranya—
 
 (a) memulangkan buat sementara pengangkut, jentera, peralatan atau kelengkapan itu kepada pemunyanya atau orang yang daripada milik, jagaan atau kawalannya ia disita, atau kepada mana-mana orang yang difikirkan oleh pegawai penguat kuasa berhak kepadanya, tertakluk kepada apa-apa terma dan syarat yang dikenakan oleh pegawai penguat kuasa, dan tertakluk, dalam mana-mana hal, kepada pengadaan jaminan yang mencukupi yang memuaskan hati pegawai penguat kuasa bahawa pengangkut, jentera,
 
@@ -734,9 +762,7 @@ pegawai penguat kuasa itu mengetahui fakta dan hal keadaan kes itu supaya hadir 
 
 ### Pemeriksaan orang yang mengetahui kes
 
-32.
-
-(1) Seseorang pegawai penguat kuasa yang membuat penyiasatan di bawah Akta ini boleh memeriksa secara lisan mana-mana orang yang dijangkakan mengetahui fakta dan hal keadaan kes itu.
+32. (1) Seseorang pegawai penguat kuasa yang membuat penyiasatan di bawah Akta ini boleh memeriksa secara lisan mana-mana orang yang dijangkakan mengetahui fakta dan hal keadaan kes itu.
 
 (2) Orang itu adalah terikat untuk menjawab segala soalan yang berhubungan dengan kes itu yang dikemukakan kepadanya oleh pegawai penguat kuasa, tetapi dia boleh enggan menjawab apa-apa soalan yang jawapannya mungkin mendedahkannya kepada suatu pertuduhan jenayah atau penalti atau pelucuthakan.
 
@@ -908,9 +934,7 @@ Spesies Terancam
 
 ### Perisytiharan palsu
 
-44.
-
-(1) Mana-mana orang yang membuat, secara lisan atau bertulis, menandatangani atau memberikan apa-apa perisytiharan, penyata, perakuan atau dokumen atau maklumat lain yang dikehendaki di bawah Akta ini yang tidak benar, tidak tepat atau mengelirukan mengenai apa-apa butiran melakukan suatu kesalahan dan boleh, apabila disabitkan—
+44. (1) Mana-mana orang yang membuat, secara lisan atau bertulis, menandatangani atau memberikan apa-apa perisytiharan, penyata, perakuan atau dokumen atau maklumat lain yang dikehendaki di bawah Akta ini yang tidak benar, tidak tepat atau mengelirukan mengenai apa-apa butiran melakukan suatu kesalahan dan boleh, apabila disabitkan—
 
 (a) jika orang itu ialah orang perseorangan, didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tujuh tahun atau kedua-duanya;
 
@@ -974,9 +998,7 @@ jika perbuatan itu dilakukan dengan suci hati dan dengan mempercayai semunasabah
 
 ### Perlindungan pemberi maklumat
 
-50.
-
-(1) Kecuali sebagaimana yang diperuntukkan dalam subseksyen (2) dan (3), tiada saksi dalam apa-apa prosiding sivil atau jenayah boleh dikehendaki atau dibenarkan menzahirkan nama atau alamat pemberi maklumat atau isi maklumat yang diterima daripadanya atau menyatakan apa-apa perkara yang mungkin menyebabkan pemberi maklumat diketahui.
+50. (1) Kecuali sebagaimana yang diperuntukkan dalam subseksyen (2) dan (3), tiada saksi dalam apa-apa prosiding sivil atau jenayah boleh dikehendaki atau dibenarkan menzahirkan nama atau alamat pemberi maklumat atau isi maklumat yang diterima daripadanya atau menyatakan apa-apa perkara yang mungkin menyebabkan pemberi maklumat diketahui.
 
 (2) Jika apa-apa buku, rekod, akaun, dokumen atau data berkomputer yang menjadi keterangan atau yang boleh diperiksa dalam apa-apa prosiding sivil atau jenayah mengandungi apa-apa catatan yang dalamnya mana-mana pemberi maklumat dinamakan
 
@@ -1006,9 +1028,7 @@ atau diperihalkan atau yang mungkin menyebabkan pemberi maklumat diketahui, mahk
 
 ### Kuasa untuk membuat peraturan-peraturan
 
-54.
-
-(1) Menteri boleh membuat apa-apa peraturan-peraturan yang suai manfaat atau perlu bagi melaksanakan peruntukan Akta ini dengan lebih baik.
+54. (1) Menteri boleh membuat apa-apa peraturan-peraturan yang suai manfaat atau perlu bagi melaksanakan peruntukan Akta ini dengan lebih baik.
 
 (2) Tanpa menjejaskan keluasan subseksyen (1), peraturan- peraturan boleh dibuat bagi maksud yang berikut:
 
@@ -1056,7 +1076,7 @@ Dalam seksyen ini, “ubah suaian” termasuk pindaan, penambahan, pemotongan, p
 
 ### Spesies
 
-### Kawasan
+<!-- marginal: Kawasan -->
 
 ### Pengurusan
 
@@ -1518,17 +1538,43 @@ Aquila adalberti Accipiter spp. (Lang Adalbert) Aegypius monachus Aquila heliaca
 
 <!-- page 60 -->
 
-Haliaeetus albicilla Asturina nitida (Helang Laut Kelabu) (Grey-lined Hawk) Harpia harpyja Asturina plagiata (Lang Harpy) (Lang Kelabu) Pithecophaga jefferyi Aviceda spp. (Great Philippine Busarellus nigricollis Eagle) (Black-collared Hawk) Butastur spp. Buteo spp. Buteogallus spp. Chelictinia riocourii (African Swallow-tailed Kite) Chondrohierax spp. (Kecuali subspesies yang termasuk dalam Lampiran I) Circaetus spp. Circus spp. Dryotriorchis spectabilis (African Serpent-Eagle) Elanoides forficatus (Swallow-tailed Kite) Elanus spp. Erythrotriorchis buergersi (Chestnut-shouldered Hawk) Erythrotriorchis radiatus (Red Goshawk) Eutriorchis astur (Madagascar Serpent-eagle) Gampsonyx swainsonii (Pearl Kite) Geranoaetus melanoleucus (Black-chested Buzzard- eagle) Geranospiza caerulescens (Crane Hawk) Gypaetus barbatus (Bearded Vulture) Gypohierax angolensis (Vulturine Fish-eagle) Gyps spp. Haliaeetus spp. (Kecuali spesies yang termasuk dalam Lampiran I) Haliastur indus (Lang Merah)
+<!-- marginal: Haliaeetus albicilla -->
+
+Asturina nitida
+
+<!-- marginal: (Helang Laut Kelabu) -->
+
+(Grey-lined Hawk)
+
+<!-- marginal: Harpia harpyja -->
+
+Asturina plagiata
+
+<!-- marginal: (Lang Harpy) -->
+
+(Lang Kelabu)
+
+<!-- marginal: Pithecophaga jefferyi -->
+
+Aviceda spp.
+
+<!-- marginal: (Great Philippine -->
+
+Busarellus nigricollis
+
+<!-- marginal: Eagle) -->
+
+(Black-collared Hawk) Butastur spp. Buteo spp. Buteogallus spp. Chelictinia riocourii (African Swallow-tailed Kite) Chondrohierax spp. (Kecuali subspesies yang termasuk dalam Lampiran I) Circaetus spp. Circus spp. Dryotriorchis spectabilis (African Serpent-Eagle) Elanoides forficatus (Swallow-tailed Kite) Elanus spp. Erythrotriorchis buergersi (Chestnut-shouldered Hawk) Erythrotriorchis radiatus (Red Goshawk) Eutriorchis astur (Madagascar Serpent-eagle) Gampsonyx swainsonii (Pearl Kite) Geranoaetus melanoleucus (Black-chested Buzzard- eagle) Geranospiza caerulescens (Crane Hawk) Gypaetus barbatus (Bearded Vulture) Gypohierax angolensis (Vulturine Fish-eagle) Gyps spp. Haliaeetus spp. (Kecuali spesies yang termasuk dalam Lampiran I) Haliastur indus (Lang Merah)
 
 <!-- page 61 -->
 
 Spesies Terancam
 
-### I
+<!-- marginal: I -->
 
 ### II
 
-<!-- marginal: III -->
+### III
 
 Haliastur sphenurus (Whistling Eagle) Hamirostra melanosternon (Black-breasted Buzzard-kite) Harpagus bidentitus (Black-breasted Buzzard-kite) Harpagus diodon (Rufous-thighed Kite) Harpyhaliaetus spp. Henicopernis infuscatus (Black Honey-buzzard) Henicopernis longicauda (Long-tailed Honey-buzzard) Hieraaetus spp. Ichthyophaga humilis (Lesser Fish-eagle) Ichthyophaga ichthyaetus (Grey-headed Fish-eagle) Ictinaeetus malayensis (Lang Hitam) Ictnia mississippiensis (Mississippi Kite) Ictnia plumbea (Plumbeous Kite) Kaupifalco monogrammicus (Lizard Buzzard) Leptodon cayanensis (Lang Kepala Kelabu) Leptodon forbesi (White-collared Kite) Leucopternis spp. Lophaetus occipitalis (Long-crested Eagle) Lophoictinia isura (Square-tailed Kite) Macheiramphus alcinus (Lang Malam) Megatriorchis doriae (Doria’s Goshawk) Melierax spp. Milbus spp. Morphnus guianensis (Lang Berjambul)
 
@@ -1852,11 +1898,11 @@ Augastes spp. Basilinna leucotis (White-eared Hummingbird) Basilinna xantusii (B
 
 Spesies Terancam
 
-### I
+<!-- marginal: I -->
 
 ### II
 
-<!-- marginal: III -->
+### III
 
 Eriocnemis spp. (Puffleg) Eugenes fulgens (Magnificent Hummingbird) Eulampis spp. (Carib) Eupherusa spp. Eutoxeres spp. (Sicklebill) Florisuga spp. (Jacobin) Glaucis spp. (Kecuali spesies yang termasuk dalam Lampiran I) (Hermit) Goethalsia bella (Rufous-cheeked Hummingbird) Goldmania violiceps (Violet-capped Hummingbird) Haplophaedia spp. (Puffleg) Heliactin bilopha (Horned Sungem) Heliangelus spp. (Sunangel) Heliodoxa spp. Heliomaster spp. (Starthroat) Heliothryx spp. Hylocharis spp. Hylonympha macrocerca (Scissor-tailed Hummingbird) Klais guimeti (Violet-headed Hummingbird) Lafresnaya lafresnayi (Mountain Velvetbreast) Lampornis spp. Lamprolaima rhami (Garnet-throated Hummingbird) Lepidopyga spp. Lesbia spp. (Trainbeacer) Leucippus spp. Leucochloris albicollis (White-throated Hummingbird) Loddigesia mirabilis (Marvellous Spatuletail)
 

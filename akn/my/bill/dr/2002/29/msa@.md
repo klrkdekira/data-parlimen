@@ -28,30 +28,58 @@ Rang Undang-Undang
 
 ## JADUAL
 
-Maksud Tajuk Amaun (RM)
+Maksud Tajuk
 
-B. 7 Jabatan Perdana Menteri 128,340,000
+<!-- marginal: Amaun -->
 
-B. 19 Kementerian Pertanian 20,000,000
+<!-- marginal: (RM) -->
 
-B. 21 Kementerian Perdagangan Dalam Negeri 13,280,000 dan Hal Ehwal Pengguna
+B. 7 Jabatan Perdana Menteri
 
-B. 28 Perbendaharaan 4,975,500
+<!-- marginal: 128,340,000 -->
 
-B. 30 Peruntukan kepada Kumpulan Wang 8,632,630 Terkanun
+B. 19 Kementerian Pertanian
 
-B. 35 Kementerian Dalam Negeri 34,184,900
+<!-- marginal: 20,000,000 -->
 
-B. 38 Kementerian Pengangkutan 21,290,800
+B. 21 Kementerian Perdagangan Dalam Negeri
 
-B. 42 Kementerian Perpaduan Negara dan 85,100,000 Pembangunan Masyarakat
+<!-- marginal: 13,280,000 -->
+
+dan Hal Ehwal Pengguna
+
+B. 28 Perbendaharaan
+
+<!-- marginal: 4,975,500 -->
+
+B. 30 Peruntukan kepada Kumpulan Wang
+
+<!-- marginal: 8,632,630 -->
+
+Terkanun
+
+B. 35 Kementerian Dalam Negeri
+
+<!-- marginal: 34,184,900 -->
+
+B. 38 Kementerian Pengangkutan
+
+<!-- marginal: 21,290,800 -->
+
+B. 42 Kementerian Perpaduan Negara dan
+
+<!-- marginal: 85,100,000 -->
+
+Pembangunan Masyarakat
 
 ## JUMLAH
 
-315,803,830
+<!-- marginal: 315,803,830 -->
 
 ## HURAIAN
 
 Rang Undang-Undang ini bertujuan untuk mengadakan peruntukan bagi pengeluaran wang daripada Kumpulan Wang Disatukan sebanyak tiga ratus lima belas juta lapan ratus tiga ribu lapan ratus tiga puluh ringgit (RM315,803,830) untuk perkhidmatan dan maksud yang dinyatakan dalam Jadual bagi tahun
 
-2002. [PN(U2)2206]
+2002.
+
+<!-- marginal: [PN(U2)2206] -->

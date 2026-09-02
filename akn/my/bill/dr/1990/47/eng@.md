@@ -62,9 +62,7 @@ B. 1 ... Parliament $
 
 <!-- marginal: 16,324,000 -->
 
-B. 2 ... Office of the Keeper of
-
-<!-- marginal: the -->
+B. 2 ... Office of the Keeper of the
 
 <!-- marginal: 844,800 -->
 
@@ -156,13 +154,7 @@ Archives B. 24 ... National Museum
 
 <!-- marginal: 4,200,000 -->
 
-B. 25 ... Ministry of Defence
-
-<!-- marginal: 2,500,224,000 -->
-
-B. 26 ... Ministry of Education
-
-<!-- marginal: 5,551,520,900 -->
+B. 25 ... Ministry of Defence 2,500,224,000 B. 26 ... Ministry of Education 5,551,520,900
 
 <!-- page 3 -->
 
@@ -184,11 +176,7 @@ B. 29 ... Treasury General Services
 
 <!-- marginal: 708,686,070 -->
 
-B. 30 ... Contribution to Statutory Funds
-
-<!-- marginal: 1,958,621,010 -->
-
-B. 31 ... Royal Customs and Excise
+B. 30 ... Contribution to Statutory Funds 1,958,621,010 B. 31 ... Royal Customs and Excise
 
 <!-- marginal: 167,686,300 -->
 
@@ -208,11 +196,7 @@ B. 35 ... Ministry of Home Affairs
 
 <!-- marginal: 96,911,900 -->
 
-B. 36 ... Royal Malaysia Police
-
-<!-- marginal: 1,244,731,400 -->
-
-B. 37 ... Immigration Department
+B. 36 ... Royal Malaysia Police 1,244,731,400 B. 37 ... Immigration Department
 
 <!-- marginal: 60,735,000 -->
 
@@ -290,9 +274,7 @@ Purpose Title
 
 <!-- marginal: Amount -->
 
-B. 54 ... Ministry of Rural Development
-
-<!-- marginal: S -->
+B. 54 ... Ministry of Rural Development S
 
 <!-- marginal: 440,777,700 -->
 
@@ -310,12 +292,8 @@ Social Development B. 57 ... Department of National Unity
 
 ## TOTAL
 
-...
-
-<!-- marginal: $18,810,141,510 -->
+... $18,810,141,510
 
 ## EXPLANATORY STATEMENT
 
-This Bill makes provision for the issue from the Consolidated Fund a sum of twelve thousand eight hundred and six million seven hundred and five thousand four hundred and ninety ringgit ($12,806,705,490) for the service of the year 1991 and for that sum and the sum authorised to be issued under the Consolidated Fund (Expenditure on Account) Act 1990 to be appropriated for the purposes specified in the Schedule to this Bill.
-
-<!-- marginal: [PN. (U2) 1645.] -->
+This Bill makes provision for the issue from the Consolidated Fund a sum of twelve thousand eight hundred and six million seven hundred and five thousand four hundred and ninety ringgit ($12,806,705,490) for the service of the year 1991 and for that sum and the sum authorised to be issued under the Consolidated Fund (Expenditure on Account) Act 1990 to be appropriated for the purposes specified in the Schedule to this Bill. [PN. (U2) 1645.]

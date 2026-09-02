@@ -68,9 +68,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ## BANKRUPTCY”.
 
-### Seksyen baharu 2a, 2b, 2c, 2d, 2e, 2f, 2g, 2h, 2i, 2j, 2k, 2l,
+## SEKSYEN BAHARU 2A, 2B, 2C, 2D, 2E, 2F, 2G, 2H, 2I, 2J, 2K, 2L,
 
-### 2m, 2n, 2o, 2p dan 2q
+## 2M, 2N, 2O, 2P DAN 2Q
 
 8. Akta ibu dipinda dengan memasukkan selepas kepala Bahagian I seksyen yang berikut:
 

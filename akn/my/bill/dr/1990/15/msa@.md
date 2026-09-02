@@ -14,17 +14,33 @@ Suatu Akta untuk meminda Akta Institiut Penyelidikan dan Kemajuan Pertanian Mala
 
 oleh Dull Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
 
-1. Akta ini bolehlah dinamakan Akta Institiut Penyelidikan Tajuk ringkas. dan Kemajuan Pertanian Malaysia (Pindaan) 1990.
+1. Akta ini bolehlah dinamakan Akta Institiut Penyelidikan
 
-Pindaan
+<!-- marginal: Tajuk -->
 
-2. Seksyen 3 Akta Institiut Penyelidikan dan Kemajuan seksyen 3. Pertanian Malaysia 1969, yang disebut "Akta ibu" dalam Akta 11. Akta ini, adalah dipinda dengan menggantikan noktah di akhir perenggan (f) dengan koma bertitik, dan dengan memasukkan, selepas sahaja perenggan (f) perenggan baru (g) yang berikut:
+<!-- marginal: ringkas. -->
+
+dan Kemajuan Pertanian Malaysia (Pindaan) 1990.
+
+<!-- marginal: Pindaan -->
+
+2. Seksyen 3 Akta Institiut Penyelidikan dan Kemajuan
+
+<!-- marginal: seksyen 3. -->
+
+Pertanian Malaysia 1969, yang disebut "Akta ibu" dalam
+
+<!-- marginal: Akta 11. -->
+
+Akta ini, adalah dipinda dengan menggantikan noktah di akhir perenggan (f) dengan koma bertitik, dan dengan memasukkan, selepas sahaja perenggan (f) perenggan baru (g) yang berikut:
 
 "(g) menjalankan penyelidikan dan pengeluaran komersial bagi memajukan dan menggunakan dapatan-dapatan penyelidikannya dengan berkesan.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Seksyen 5 Akta ibu adalah dipinda dalam subseksyen seksyen 5.
+3. Seksyen 5 Akta ibu adalah dipinda dalam subseksyen
+
+<!-- marginal: seksyen 5. -->
 
 (2)-
 
@@ -36,7 +52,13 @@ Pindaan
 
 <!-- page 2 -->
 
-4. Akta ibu adalah dipinda dengan memasukkan selepas bam sahaja seksyen 5, seksyen baru SA yang berikut:
+<!-- marginal: Seksyen -->
+
+4. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: bam -->
+
+sahaja seksyen 5, seksyen baru SA yang berikut:
 
 5A. "Ahlisilih 5A. (1) Menteri boleh, ,berkenaan dengan setiap ganti. ahii Lembaga yang dilantik di bawah perenggan
 
@@ -46,15 +68,25 @@ Pindaan
 
 (3) Seseorang ahli silih ganti hendaklah, melainkan jika dia terlebih dahulu meletakkan jawatan atau jawatannya terlebih dahulu dibatalkan, terhenti menjadi seorang ahli silih ganti jika ahli yang baginya dia menjadi ahli silih ganti itu tidak lagi menjadi ahli Lembaga.".
 
-5. Akta ibu adalah dipinda dengan memasukkan selepas baru sahaja seksyen 6, seksyen baru 6A yang berikut:
+5. Akta ibu adalah dipinda dengan memasukkan selepas
 
-6A. 'Kuasa untuk
+<!-- marginal: Seksyen -->
 
-6A. Lembaga boleh ,dengan kelulusan Menteri dan mengambil persetujuan Menteri Kewangan, mengambil bahagian bahagian dalam penyertaan ekuiti dalam atau ialam penyertaan usahasama dengan mana-mana perusahaan ekuiti sekiranya penyertaan atau usahasama itu ternyata atau usahasama. kepadanya dikehendaki, berfaedah atau sesuai bagi atau berkaitan dengan pelaksanaan tugas-tugas Institiut.".
+<!-- marginal: baru -->
 
-6. Akta ibu adalah dipinda dengan memasukkan selepas baru sahaja seksyen 21, seksyen baru 21 A yang berikut:
+sahaja seksyen 6, seksyen baru 6A yang berikut:
 
-### 2 lA
+6A. 'Kuasa untuk 6A. Lembaga boleh ,dengan kelulusan Menteri dan mengambil persetujuan Menteri Kewangan, mengambil bahagian bahagian dalam penyertaan ekuiti dalam atau ialam penyertaan usahasama dengan mana-mana perusahaan ekuiti sekiranya penyertaan atau usahasama itu ternyata atau usahasama. kepadanya dikehendaki, berfaedah atau sesuai bagi atau berkaitan dengan pelaksanaan tugas-tugas Institiut.".
+
+<!-- marginal: Seksyen -->
+
+6. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru -->
+
+sahaja seksyen 21, seksyen baru 21 A yang berikut:
+
+<!-- marginal: 2 lA -->
 
 "Saraan 2lA. Maka hendaklah dibayar kepada ahli-ahli atau, Lembaga, Majlis Sains, jawatankuasa atau mana- mana orang lain (yang bukan seorang pegawai atau pengkhidmat Lembaga yang termasuk di dalam bidang kuasa peruntukan-peruntukan Akta ini berhubungan dengan terma dan sy arat perkhidmatan yang terpakai bagi halnya) apa-apa saraan atau elaun sebagaimana yang ditentukan oleh Menteri.".
 
@@ -62,7 +94,7 @@ Pindaan
 
 ## PERTANIAN MALAYSIA (PINDAAN)
 
-Pindaan
+<!-- marginal: Pindaan -->
 
 7. Jadual kepada Akta ibu adalah dipinda dengan
 
@@ -70,9 +102,7 @@ Pindaan
 
 menggantikan perenggan 6 dengan perenggan 6 baru yang berikut:
 
-"Perlantikan
-
-6. (1) Lembaga boleh melantik jawatankuasa- jawatan- jawatankuasa bagi apa-apa maksud yang berbangkit kuasa. daripada atau berkaitan dengan mana-mana kuasa, kewajipan dan tugasnya di bawah Akta ini; mana- mana jawatankuasa yang dilantik sedemikian hendaklah termasuk tidak kurang daripada seorang ahli Lembaga, dan bolehlahdilantikkejawatankuasa itu mana-mana orang lain sebagaimana yang difikirkan patut oleh Lembaga.
+"Perlantikan 6. (1) Lembaga boleh melantik jawatankuasa- jawatan- jawatankuasa bagi apa-apa maksud yang berbangkit kuasa. daripada atau berkaitan dengan mana-mana kuasa, kewajipan dan tugasnya di bawah Akta ini; mana- mana jawatankuasa yang dilantik sedemikian hendaklah termasuk tidak kurang daripada seorang ahli Lembaga, dan bolehlahdilantikkejawatankuasa itu mana-mana orang lain sebagaimana yang difikirkan patut oleh Lembaga.
 
 (2) Mana-mana jawatankuasa yang dilantik sedemikian hendaklah menepati apa-apa arahan yang diberikan kepadanya dan semasa ke semasa oleh Lembaga, dan Lembaga boleh pada bila-bila masa menghentikan atau mengubah keanggotaan mana-mana jawatankuasa yang dilantik sedemikian.
 

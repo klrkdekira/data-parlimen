@@ -10,27 +10,13 @@
 
 ## PRELIMINARY
 
-1. Short title, application and commencement.
-
-2. Extent of application.
-
-3. Interpretation.
-
-4. Exemption.
+1. Short title, application and commencement. 2. Extent of application. 3. Interpretation. 4. Exemption.
 
 ## PART II
 
 ## HOUSING AND OTHER AMENITIES
 
-5. Building to comply with requirements.
-
-6. Supply of water and electricity and maintenance of houses.
-
-7. Erection of building intended to be used for the housing of workers, as a nursery or as a community hall.
-
-8. Building endangering health or safety.
-
-9. Building not originally built for the housing of workers.
+5. Building to comply with requirements. 6. Supply of water and electricity and maintenance of houses. 7. Erection of building intended to be used for the housing of workers, as a nursery or as a community hall. 8. Building endangering health or safety. 9. Building not originally built for the housing of workers.
 
 10. Nursery.
 
@@ -58,7 +44,19 @@
 
 ## BILL
 
-2 18. Transportation of sick workers to hospital. 19. Medical treatment in estate on which a hospital is not maintained. 20. Duty to report suspected cases of infectious disease. 21. Duty of employer to segregate worker suffering from infectious disease. 22. Power of Medical Officer of Health to order immunisation against infectious disease. 23. Weekly inspection of workers housing. 24. Onus of proof.
+2 18. Transportation of sick workers to hospital.
+
+19. Medical treatment in estate on which a hospital is not maintained.
+
+20. Duty to report suspected cases of infectious disease.
+
+21. Duty of employer to segregate worker suffering from infectious disease.
+
+22. Power of Medical Officer of Health to order immunisation against infectious disease.
+
+23. Weekly inspection of workers housing.
+
+24. Onus of proof.
 
 ## PART IV
 
@@ -70,7 +68,19 @@
 
 ## GENERAL PROVISIONS, APPEALS AND OFFENCES
 
-26. Minister may vest certain officers with powers and duties. 27. Power of Director General to inspect, investigate and to issue summons. 28. Director General may prosecute. 29. Director General and officers deemed to be public servants. 30. Appeals. 31. Failure to comply with order under section 5, 8, 12, 15 or 19. 32. Failure to comply with section 20 or 21. 33. General penalty.
+26. Minister may vest certain officers with powers and duties.
+
+27. Power of Director General to inspect, investigate and to issue summons.
+
+28. Director General may prosecute.
+
+29. Director General and officers deemed to be public servants. 30. Appeals.
+
+31. Failure to comply with order under section 5, 8, 12, 15 or 19.
+
+32. Failure to comply with section 20 or 21.
+
+33. General penalty.
 
 ## PART VI
 
@@ -124,7 +134,7 @@ employment or part thereof, situated within the area of a City Council, a Munici
 
 (3) Upon the commencement of any order made under subsection (2), any written law in force in such area, relating to the control of erection of buildings, shall in respect of the said place of employment, cease to have effect.
 
-Interpretation.
+<!-- marginal: Interpretation. -->
 
 3. In this Act, unless the context otherwise requires—
 
@@ -146,7 +156,11 @@ relating to adoption; and
 
 relating to adoption;
 
-"Director General" means the Director General of Labour Act 265. appointed under section 3 (1) of the Employment Act 1955 and includes any officer who, by virtue of an order made under section 26, is vested with all or any of the powers of the aforesaid Director General;
+"Director General" means the Director General of Labour
+
+<!-- marginal: Act 265. -->
+
+appointed under section 3 (1) of the Employment Act 1955 and includes any officer who, by virtue of an order made under section 26, is vested with all or any of the powers of the aforesaid Director General;
 
 "District Engineer", in respect of a district, means any engineer in the service of the Federal or State Government who is for the time being carrying out the duties of the Public Works Department for that district and, for the purpose of section 27 (1), includes any officer authorized in writing in that behalf by the District Engineer;
 
@@ -176,15 +190,23 @@ the agent, manager and factor of such first- mentioned person; or
 
 "place of employment" means aplace where work is carried on by or on behalf of or for an employer and shall include any place in which workers are housed by an employer;
 
-"registered medical practitioner" means a medical practi- Act 50. tioner registered under the Medical Act 1971;
+"registered medical practitioner" means a medical practi-
+
+<!-- marginal: Act 50. -->
+
+tioner registered under the Medical Act 1971;
 
 "resident manager", in relation to an estate, means any employer or agent of an employer who resides on, or is in immediate charge of, the estate in which the workers are employed;
 
 "resident registered medical practitioner", in relation to an estate, means any registered medical practitioner employed by the employer and who resides on the estate in which the workers are employed;
 
-"worker" means an employee as defined in the First Act 265, Schedule to the Employment Act 1955 and includes his dependants.
+"worker" means an employee as defined in the First
 
-Exemption
+<!-- marginal: Act 265, -->
+
+Schedule to the Employment Act 1955 and includes his dependants.
+
+<!-- marginal: Exemption -->
 
 4. The Minister may by order exempt from all or any of the provisions of this Act any employer or class of employers or any building or class of buildings specified in the order.
 
@@ -192,9 +214,17 @@ Exemption
 
 ## HOUSING AND OTHER AMENITIES
 
-Building to
+<!-- marginal: Building to -->
 
-5. (1) Except as provided in subsection (2), no employer comply with shall house or cause or permit to be housed any worker requirements. employed by him or by any other person (with whom he has contracted for the purpose of executing any work for or connected with his business, trade, operation or interest) in any building either owned by him or is within his possession or control which does not comply with the provisions of this Act or any regulation made thereunder.
+5. (1) Except as provided in subsection (2), no employer
+
+<!-- marginal: comply with -->
+
+shall house or cause or permit to be housed any worker
+
+<!-- marginal: requirements. -->
+
+employed by him or by any other person (with whom he has contracted for the purpose of executing any work for or connected with his business, trade, operation or interest) in any building either owned by him or is within his possession or control which does not comply with the provisions of this Act or any regulation made thereunder.
 
 (2) Any building, which immediately before the com- mencement of this Act was used for the housing of workers or as a nursery or as a community hall by an employer and was erected or converted in accordance with the requirements of any written law in force at the time of its erection or conver- sion, may continue to be used by such employer:
 
@@ -214,9 +244,23 @@ Provided that where an appeal has been made under section 30 in respect of the o
 
 <!-- page 8 -->
 
-Supply of
+<!-- marginal: Supply of -->
 
-6. (1) Where workers and their dependants are provided water and with housing at their place of employment it shall be the electricity and the duty of the employer of such place of employment— maintenance of houses.
+6. (1) Where workers and their dependants are provided
+
+<!-- marginal: water and -->
+
+with housing at their place of employment it shall be the
+
+<!-- marginal: electricity -->
+
+<!-- marginal: and -->
+
+the duty of the employer of such place of employment—
+
+<!-- marginal: maintenance -->
+
+<!-- marginal: of houses. -->
 
 (a) to provide-free and adequate piped water drawn from a public main, or where the Director General so permits in writing, to provide free and adequate supply of potable piped water drawn from any other source which shall be filtered and treated in a manner approved by the Director General;
 
@@ -312,9 +356,23 @@ Provided that where an appeal has been made under section 30 in respect of the a
 
 (4) No order under subsection (3), shall be issued unless a copy of the report received by the Director General from the Medical Officer of Health or the District Engineer or both has been furnished to the employer, and in making such order the Director General shall give due consideration to any represen- tation that may be made by the employer in respect of the report aforesaid.
 
-Building not
+<!-- marginal: Building not -->
 
-9. (1) A building originally built for a purpose other than the orginally built housing of workers shall not be used for, or be converted for for the the purpose of, the housing of workers, unless an application housing of workers. in that behalf has been made to and approved by the Director General.
+9. (1) A building originally built for a purpose other than the
+
+<!-- marginal: orginally built -->
+
+housing of workers shall not be used for, or be converted for
+
+<!-- marginal: for the -->
+
+the purpose of, the housing of workers, unless an application
+
+<!-- marginal: housing of -->
+
+<!-- marginal: workers. -->
+
+in that behalf has been made to and approved by the Director General.
 
 <!-- page 11 -->
 
@@ -342,9 +400,13 @@ Provided that he shall not accommodate therein such dependants in excess of the 
 
 ## BILL
 
-Allotment
+<!-- marginal: Allotment -->
 
-11. (1) Where there are workers residing on the place of of land. employment, the employer of such workers shall set aside land which has been cleared, for allotment to such workers for cultivation, grazing or partly cultivation and partly grazing:
+11. (1) Where there are workers residing on the place of
+
+<!-- marginal: of land. -->
+
+employment, the employer of such workers shall set aside land which has been cleared, for allotment to such workers for cultivation, grazing or partly cultivation and partly grazing:
 
 Provided that an employer is not required to excise any permanent cultivation which has been planted by him at least 12 months previously.
 
@@ -392,7 +454,11 @@ less than 100 workers residing at the place of employment:
 
 (2) The employer shall maintain the community hall, sports and other recreational facilities aforesaid in a satisfactory condition.
 
-(3) Any employer who fails to comply with the provisions of this section shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one thousand ringgit and to a further fine of fifty ringgit for each day during which the offence continues.
+(3) Any employer who fails to comply with
+
+<!-- marginal: the -->
+
+provisions of this section shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one thousand ringgit and to a further fine of fifty ringgit for each day during which the offence continues.
 
 <!-- marginal: No rent or -->
 
@@ -430,7 +496,19 @@ member of the worker's family, namely, spouse, father, mother, and children unde
 
 ## BILL
 
-Employer to 15. (1) The Director General may, at any time by order in construct and writing, require any employer to construct within a reasonable maintain estate hospital. time to be stated in such order and thereafter to maintain at his own expense, a hospital, hereinafter called "estate hospital", on or in the immediate neighbourhood of any estate upon which workers are employed by him with accommodation for such number of patients as may be stated in such order.
+<!-- marginal: Employer to -->
+
+15. (1) The Director General may, at any time by order in
+
+<!-- marginal: construct and -->
+
+writing, require any employer to construct within a reasonable
+
+<!-- marginal: maintain -->
+
+<!-- marginal: estate hospital. -->
+
+time to be stated in such order and thereafter to maintain at his own expense, a hospital, hereinafter called "estate hospital", on or in the immediate neighbourhood of any estate upon which workers are employed by him with accommodation for such number of patients as may be stated in such order.
 
 (2) Where there is already a hospital maintained by the employer, the Director General may, by order in writing, require the employer to enlarge or add to such hospital so as to provide accommodation for a further number of patients as may be stated in the order.
 
@@ -472,9 +550,7 @@ dependants who reside on such estate or on any other land
 
 <!-- marginal: employer. -->
 
-owned or leased by or is within the control of the employer, medical attendance, care, and treatment including diet at the estate hospital or group estate hospital established under section 15 or at the estate clinic established under section
-
-19.
+owned or leased by or is within the control of the employer, medical attendance, care, and treatment including diet at the estate hospital or group estate hospital established under section 15 or at the estate clinic established under section 19.
 
 (2) The employer may recover from such worker the expenses of such care, treatment and maintenance at such rate as the Minister may from time to time prescribe by notification in the Gazette in respect of any period in excess of 30 days during which such worker or any of his dependants shall have remained in the hospital.
 
@@ -484,19 +560,37 @@ owned or leased by or is within the control of the employer, medical attendance,
 
 16
 
-Sick workers
+<!-- marginal: Sick workers -->
 
-17. (1) If a worker at the time of his admission to a being Government hospital was employed and residing on any admitted to a estate the employer shall pay the expenses of maintenance Government hospital. and treatment in such hospital of such worker and of any dependant of such worker at such rate as the Minister may, from time to time, prescribe by notification in the Gazette.
+17. (1) If a worker at the time of his admission to a
 
-(2) The expenses incurred under subsection (1) shall, whatever be the amount, be recoverable from the employer in a Civil Court at the suit of the Medical Officer in charge of such hospital, and the certificate of such Medical Officer shall be sufficient prima facie evidence that the amount therein specified is due from the employer: Provided that not more than thirty days' expenses in hospital in respect of any worker or dependant shall be recoverable.
+<!-- marginal: being -->
 
-(3) No expenses paid by an employer under subsection
+Government hospital was employed and residing on any
+
+<!-- marginal: admitted to a -->
+
+estate the employer shall pay the expenses of maintenance
+
+<!-- marginal: Government -->
+
+<!-- marginal: hospital. -->
+
+and treatment in such hospital of such worker and of any dependant of such worker at such rate as the Minister may, from time to time, prescribe by notification in the Gazette. (2) The expenses incurred under subsection (1) shall, whatever be the amount, be recoverable from the employer in a Civil Court at the suit of the Medical Officer in charge of such hospital, and the certificate of such Medical Officer shall be sufficient prima facie evidence that the amount therein specified is due from the employer: Provided that not more than thirty days' expenses in hospital in respect of any worker or dependant shall be recoverable. (3) No expenses paid by an employer under subsection
 
 (1) shall be recoverable from any worker.
 
-Transportation
+<!-- marginal: Transportation -->
 
-18. (1) It shall be the duty of the employer and of the of sick resident manager at their own expenses— workers to hospital.
+18. (1) It shall be the duty of the employer and of the
+
+<!-- marginal: of sick -->
+
+resident manager at their own expenses—
+
+<!-- marginal: workers to -->
+
+<!-- marginal: hospital. -->
 
 (a) to have every worker employed on the estate and any dependant of such worker who requires medical treatment to be transported safely without delay to and from the hospital provided for workers employed on the estate or, if there is no such hospital, to and from the nearest Government hospital; and
 
@@ -512,9 +606,27 @@ Transportation
 
 ringgit a day for each day during which the offence continues.
 
-Medical
+<!-- marginal: Medical -->
 
-19. (1) On any estate where there is no estate hospital or a treatment in group estate hospital available, the Director General may, by estate on which a order, after consultation with the Medical Officer of Health, hospital is not require an employer to establish and maintain a clinic or maintained. make such other provisions as are necessary for the treatment of sick workers and their dependants.
+19. (1) On any estate where there is no estate hospital or a
+
+<!-- marginal: treatment in -->
+
+group estate hospital available, the Director General may, by
+
+<!-- marginal: estate on -->
+
+<!-- marginal: which a -->
+
+order, after consultation with the Medical Officer of Health,
+
+<!-- marginal: hospital is not -->
+
+require an employer to establish and maintain a clinic or
+
+<!-- marginal: maintained. -->
+
+make such other provisions as are necessary for the treatment of sick workers and their dependants.
 
 (2) The Director General shall specify in such order the services, medicine, equipment and staff to be provided and the hours during which the treatment facilities shall be made available to the workers and their dependants.
 
@@ -522,9 +634,27 @@ Medical
 
 (4) No employer who has established and maintained a clinic, whether pursuant to an order of the Director General made under this section or otherwise, shall reduce the services, facilities or staff or discontinue the maintenance and operation of such clinic without the prior written permis- sion of the Director General.
 
-Duty to report
+<!-- marginal: Duty to report -->
 
-20. (1) It shall be the duty of the resident registered medical suspected practitioner, or, in his absence or if there is no resident cases of infectious registered medical practitioner, the resident manager, to disease. isolate at once any worker or other person on an estate whom he may suspect to be suffering from any i nfectious disease as defined in the Prevention and Control of Infectious Diseases Act 342. Act 1988, and to detain under observation any other person whom he may deem likely to have contracted such disease and with the least possible delay to notify the nearest Medical Officer, and pending the arrival on the e state of the Medical Officer of Health, the resident registered medical practitioner or the resident manager shall take appropriate preventive measures and thereafter consult the Medical Officer of Health on any further action to be taken.
+20. (1) It shall be the duty of the resident registered medical
+
+<!-- marginal: suspected -->
+
+practitioner, or, in his absence or if there is no resident
+
+<!-- marginal: cases of -->
+
+<!-- marginal: infectious -->
+
+registered medical practitioner, the resident manager, to
+
+<!-- marginal: disease. -->
+
+isolate at once any worker or other person on an estate whom he may suspect to be suffering from any i nfectious disease as defined in the Prevention and Control of Infectious Diseases
+
+<!-- marginal: Act 342. -->
+
+Act 1988, and to detain under observation any other person whom he may deem likely to have contracted such disease and with the least possible delay to notify the nearest Medical Officer, and pending the arrival on the e state of the Medical Officer of Health, the resident registered medical practitioner or the resident manager shall take appropriate preventive measures and thereafter consult the Medical Officer of Health on any further action to be taken.
 
 <!-- page 18 -->
 
@@ -534,19 +664,77 @@ Duty to report
 
 (2) Any person who neglects to perform the duty imposed upon him by subsection (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding two thousand ringgit and to a further fine of one hundred ringgit a day for each day during which the offence continues.
 
-Duty of
+<!-- marginal: Duty of -->
 
-21. (1) On the occurrence of any infectious disease on any employer to estate it shall be the duty of the employer forthwith if so segregate worker directed by the Medical Officer of Health or a Medical suffering from Officer, to provide a place where a worker may be infectious segregated in the interest of public health or of any other disease. worker employed on the estate and to make at his own expense such arrangements for the maintenance of such worker while so segregated and for the treatment of any worker suffering from such disease as may seem necessary to the Medical Officer of Health or such Medical Officer.
+21. (1) On the occurrence of any infectious disease on any
+
+<!-- marginal: employer to -->
+
+estate it shall be the duty of the employer forthwith if so
+
+<!-- marginal: segregate -->
+
+<!-- marginal: worker -->
+
+directed by the Medical Officer of Health or a Medical
+
+<!-- marginal: suffering from -->
+
+Officer, to provide a place where a worker may be
+
+<!-- marginal: infectious -->
+
+segregated in the interest of public health or of any other
+
+<!-- marginal: disease. -->
+
+worker employed on the estate and to make at his own expense such arrangements for the maintenance of such worker while so segregated and for the treatment of any worker suffering from such disease as may seem necessary to the Medical Officer of Health or such Medical Officer.
 
 (2) If at any time it appears to the Medical Officer of Health or a Medical Officer that a worker employed on any estate is suffering from any infectious disease or that it is otherwise necessary in the interest of public health or of the health of any other worker employed on the estate that he be removed and placed under medical supervision, it shall be lawful for the Medical Officer of Health or Medical Officer to cause such worker to be removed to such place as he may direct and there to be detained until discharged by order in writing of the Medical Officer of Health or a Medical Officer.
 
-Power of
+<!-- marginal: Power of -->
 
-22. The Medical Officer of Health may at any time if it Medical appears to him necessary for the health of the workers Officer of Health to employed on any estate, by order in writing to the employer or order resident manager, direct that such employer or resident immunisation manager at his own expense make arrangements so that all or against disease. infectious any of the workers and their dependants be given immunisation against any infectious disease.
+22. The Medical Officer of Health may at any time if it
 
-Weekly
+<!-- marginal: Medical -->
 
-23. (1) It shall be the duty of the employer of a place of inspection of employment where workers and their dependants are workers' housing. provided with housing accommodation to ensure that —
+appears to him necessary for the health of the workers
+
+<!-- marginal: Officer of -->
+
+<!-- marginal: Health to -->
+
+employed on any estate, by order in writing to the employer or
+
+<!-- marginal: order -->
+
+resident manager, direct that such employer or resident
+
+<!-- marginal: immunisation -->
+
+manager at his own expense make arrangements so that all or
+
+<!-- marginal: against -->
+
+<!-- marginal: disease. -->
+
+<!-- marginal: infectious -->
+
+any of the workers and their dependants be given immunisation against any infectious disease.
+
+<!-- marginal: Weekly -->
+
+23. (1) It shall be the duty of the employer of a place of
+
+<!-- marginal: inspection of -->
+
+employment where workers and their dependants are
+
+<!-- marginal: workers' -->
+
+<!-- marginal: housing. -->
+
+provided with housing accommodation to ensure that —
 
 (a) the area surrounding the workers' housing is kept clear of undergrowth and maintained in a clean and sanitary condition;
 
@@ -584,7 +772,9 @@ that he is not the employer, resident manager or other person, as the case may b
 
 ## REGULATIONS
 
-Regulations. 25. (1) The Minister may, from time to time, make such regulations as may be necessary or expedient for giving full effect to the provisions of this Act, or for the further, better or more convenient implementation of the provisions of this Act.
+<!-- marginal: Regulations. -->
+
+25. (1) The Minister may, from time to time, make such regulations as may be necessary or expedient for giving full effect to the provisions of this Act, or for the further, better or more convenient implementation of the provisions of this Act.
 
 (2) Without prejudice to the generality of subsection (1) regulations may be made—
 
@@ -684,9 +874,7 @@ building which, he believes, is used by an employer for the housing of his worke
 
 (3) As respects the power to inspect, inquire and investi- gate aforesaid, the Director General may by summons in the prescribed form require any person, whom he has reason to believe to be able to give any information relevant to the matter in question, to give such information, and any person so summoned shall be bound to attend before the Director General and to answer truthfully any question put to him by the Director General relating to the said matter.
 
-(4) The provisions of sections 82 and 83 of the Employ- ment Act 1955 shall apply to the service of a summons issued under this section as they apply to a summons issued under
-
-## Part XV of the said Act.
+(4) The provisions of sections 82 and 83 of the Employ- ment Act 1955 shall apply to the service of a summons issued under this section as they apply to a summons issued under Part XV of the said Act.
 
 <!-- page 23 -->
 
@@ -782,7 +970,19 @@ if no penalty is expressly provided for the offence shall, on conviction, be lia
 
 ## REPEAL AND SAVINGS
 
-Repeal and 34. (1) The written laws specified in the Schedule to this savings in Act are hereby repealed. respect thereof. (2) Any regulation made under any of the laws repealed in subsection (1) shall continue in force until revoked or replaced by regulations made under this Act.
+<!-- marginal: Repeal and -->
+
+34. (1) The written laws specified in the Schedule to this
+
+<!-- marginal: savings in -->
+
+Act are hereby repealed.
+
+<!-- marginal: respect -->
+
+<!-- marginal: thereof. -->
+
+(2) Any regulation made under any of the laws repealed in subsection (1) shall continue in force until revoked or replaced by regulations made under this Act.
 
 (3) The Minister may, whenever it appears to him necessary or expedient so to do whether for the purpose of removing difficulties or in consequence of the passing of this Act, by order make such modifications to any provision in any regulation in subsection (2) as he may think fit.
 
@@ -888,11 +1088,7 @@ however empowered to exempt any employer from this requirement for a certain per
 
 27. Clause 23 requires the employer to ensure that the areas surrounding the worker's housing are kept clean, the perimeter drains are not blocked, refuse is collected daily and disposed of satisfactorily, and communal latrines are kept in good sanitary condition. Itis the employer's duty to ensure that an estate hospital assistant makes weekly inspections of the buildings and also to maintain records of such inspections.
 
-28. Clause 24 provides for the onus of proof in all proceedings under
-
-## Part III to be upon the person who alleges that he is not the employer,
-
-resident manager or other person.
+28. Clause 24 provides for the onus of proof in all proceedings under Part III to be upon the person who alleges that he is not the employer, resident manager or other person.
 
 ## PART IV
 

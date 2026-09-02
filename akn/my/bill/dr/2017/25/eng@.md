@@ -32,7 +32,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 3. The principal Act is amended by inserting after Part I the following Part:
 
-“Part Ia
+## “PART IA
 
 ## LEGAL AID SERVICES
 
@@ -96,7 +96,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 9. The principal Act is amended by inserting after Part Va the following Part:
 
-“Part Vb
+## “PART VB
 
 ## LEGAL COMPANION SERVICES
 
@@ -152,7 +152,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 6 -->
 
-“FIFth Schedule
+## “FIFTH SCHEDULE
 
 [Subsection 29g(1)]
 

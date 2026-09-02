@@ -680,13 +680,7 @@ menyatakan sama ada orang itu mengetahui atau mempunyai alasan yang munasabah un
 
 (a) syarikat yang merupakan suatu institusi berlesen atau pengendali sistem pembayaran yang dikawal selia di bawah undang-undang yang dikuatkuasakan oleh Bank Negara Malaysia;
 
-(b) syarikat yang diluluskan atau didaftarkan di bawah
-
-## Bahagian II, dilesenkan atau didaftarkan di bawah
-
-## Bahagian III, diluluskan di bawah Bahagian IIIa
-
-atau diiktiraf di bawah Bahagian VIII Akta Pasaran Modal dan Perkhidmatan 2007; dan
+(b) syarikat yang diluluskan atau didaftarkan di bawah Bahagian II, dilesenkan atau didaftarkan di bawah Bahagian III, diluluskan di bawah Bahagian IIIa atau diiktiraf di bawah Bahagian VIII Akta Pasaran Modal dan Perkhidmatan 2007; dan
 
 (c) syarikat yang diluluskan di bawah Bahagian II Akta Perindustrian Sekuriti (Depositori Pusat) 1991.”.
 
@@ -722,13 +716,7 @@ atau diiktiraf di bawah Bahagian VIII Akta Pasaran Modal dan Perkhidmatan 2007; 
 
 (b) dengan menggantikan perenggan (b) dengan perenggan yang berikut:
 
-“(b) syarikat yang diluluskan atau didaftarkan di bawah
-
-## Bahagian II, dilesenkan atau didaftarkan di bawah
-
-## Bahagian III, diluluskan di bawah Bahagian IIIa
-
-atau diiktiraf di bawah Bahagian VIII Akta Pasaran Modal dan Perkhidmatan 2007; dan”; dan
+“(b) syarikat yang diluluskan atau didaftarkan di bawah Bahagian II, dilesenkan atau didaftarkan di bawah Bahagian III, diluluskan di bawah Bahagian IIIa atau diiktiraf di bawah Bahagian VIII Akta Pasaran Modal dan Perkhidmatan 2007; dan”; dan
 
 (c) dengan memasukkan selepas perenggan (b) perenggan yang berikut:
 
@@ -958,7 +946,7 @@ Perlindungan Barangan dan Perkhidmatan Perlu
 
 30. Akta ibu dipinda dengan memasukkan selepas Jadual Kesembilan jadual yang berikut:
 
-“Jadual Kesembilan a
+## “JADUAL KESEMBILAN A
 
 [Subseksyen 430a(4)]
 

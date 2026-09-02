@@ -1,0 +1,1412 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-19-1993",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "National Forestry (Amendment) Bill 1993"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_1__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 32(2) of the principal Act is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"five\" and \"two\" the words \"fifty\" and \"five\" respectiyely."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_11__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_11__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 40 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_11__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_11__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_11__list_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_11"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_11__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_11__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"one thousand ringgit or to imprisonment for a term not exceeding six months or to both such fine and imprisonment\" in subsection (2) the words \"five hundred thousand ringgit and imprisonment for a term which shall not be less than one year but shall not exceed twenty years\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_11__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_11__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following new subsection (2A); \"(2A) Any person convicted of an offence under this section may, in addition to any penalty imposed on the conviction, be ordered to pay, in respect of any forest produce unlawfully taken, to the State Authority—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_11__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_11__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_11__list_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_11__list_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_11"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_11__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_11__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a sum not exceeding ten times the royalty, premium and cess;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_11__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_11__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a sum not exceeding ten times the value of such forest produce; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_11__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_11__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other charges payable, and any sum ordered to be so paid shall be recoverable as if it were a fine so imposed.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 47(4) of the principal Act is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"five hundred\" and \"months\" the words \"ten thousand\" and \"years\" respectively."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 50(4) of the principal Act is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"two hundred and fifty\" the words \"ten thousand\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "the words \"five\" and \"two\" appearing in subsections 66(4) and 67(2) the words \"fifty\" and \"five\" respectively."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_15__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_15__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 68 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following new subsections (1) and (2); \"(1) No person shall have possession, custody or control any forest produce unless he is in possession of a removal pass for the removal of such forest produce. (2) Such removal pass shall be made available for inspection by any forest officer.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing subsection (2) as subsection (3); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_15__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the existing subsection (3) the following new subsection (4): \"(4) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall on conviction be liable— (a) if the offence is under subsection (1), to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding five years or to both such fine and imprisonment; (b) if the offence is under subsection (2), to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding three years or to both such fine and imprisonment\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_16__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_16__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 69 the following new section 69: 69. (1) No person shall engage in converting any forest produce or have in his control or charge a conversion plant unless he is in possession of a removal pass and a record of measurement in respect of all forest produce convertedorbeingorabouttobeconvertedor being in or about the conversion plant or other premises under his charge or control."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Such removal pass shall be made available for inspection by any forest officer."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_16__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_16__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_16__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall on corviction be liable—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_16__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_16__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if the offence is under subsection (1), to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding five years or such fine and imprisonment;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_16__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_16__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if the offence is under subsection (2), to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding three years or to both such such fine and imprisonment.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_17__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_17__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_17__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_17__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 81 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"or (c)\" and substituting for the words \"two hundred\" the words \"ten thousand\" in paragraph (2)(a);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"paragraph (b)\" the words \"or (c)\"t substituting for the words \"two\" and \"one\" the words \"fifty\" and \"five\" respectively and inserting after the semicolon the word \"and\" in paragraph (2)(b);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_17__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (2)(c) the following new paragraph (2)(c): \"(c) if the offence is under paragraph (d), (e), (f) or (g), to a fine not exceeding ten thousand ringgit imprisonment for a term not exceeding three years or to both such fine and imprisonment.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_17__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph (2)(d)\\ and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_17__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting before the word \"the\" in paragraph (3)(a) the words \"ten times\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "the words \"two\" and \"one\" appearing in subsections 82(2), 84(1), 96(2), 97(2) and 98(2), sections 87, 100 and 107 the words \"fifty\" and \"five\" respectively."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 83(2) of the principal Act is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"one\" and \"six months\" the words \"ten\" and \"three years\" respectively."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the National forestry (Amendment) Act 1993."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall not come into force in a State unless it has been adopted by a law made by the Legislature of the State pursuant to Clause (3) of Article 76 of the Federal Constitution."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall come into force in the Federal Territory of Kuala Lumpur on such date as the Minister may, by notification in the Gazette, appoint."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2__para_j"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The national language text of the National Porestry"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Act 1984, which in this Act is referred to as the \"principal Act\", is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 85(2) of the principal Act is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"five hundred\" and \"three months\" the words \"fifty thousand\" and \"five years\" respectively."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 86 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the words \"thousand ringgit or to imprisonment for a term not exceeding two years or to both such fine and imprisonment\" the words \"hundred thousand ringgit and to imprisonment for a term which shall not be less than one year but shall not exceed twenty years\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 92(3) of the principal Act is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"one\" and \"six months\" the words \"fifty\" and \"five years\" respectively."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 93 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for subsection (2) the following new subsection (2): \"(2) Any person (other than a forest officer, police officer or member of the armed forces authorized under this Act) who tampers with, removes, damages or destroys any thing marked under subsection (1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding five years or to both such fine and imprisonment.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_24__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 94 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_24__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"President\" wherever appearing therein the word \"Magistrate or Judge\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (6) the following new subsection (7): \"(7) The State Authority shall not be liable to any person for any deterioration, howsoever caused, in the quality of any thing seized under this Act.\". NATIONAL FORESTRY (AMENDMENT)11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_25__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_25__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 100 the following new sections 100A and 100A. The Director may order such rewards as he may deem fit to be paid to any forest officer or other person for services rendered in connection with any offence or seizure made under this Act. lOOB. (1) Except as hereinafter provided, no witness in any civil or criminal proceedings shall be obliged or permitted to disclose the name or address of an informer or the substance and nature of the information received from him or to state any matter which might lead to his discovery."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_25__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If any books, documents or papers which are in evidence or are liable to inspection in any civil or criminal proceedings contain any entry in which any informer is named or described or which might lead to his discovery, the court shall cause all such passages to be concealed from view or to be obliterated so far only as may be necessary to protect the informer from discovery."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_25__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If on trial for any offence against this Act the court after full inquiry into the case believes that the informer wilfully made in his complaint a material statement which he knew or believed to be false or did not believe to be true, or if in any other proceedings the court is of opinion that justice cannot be fully done between the parties thereto without the discovery of the informer, it shall be lawful for the court to require the production of the original complaint, if in writing, and permit inquiry, and require full disclosure concerning the informer.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_26__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_26__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_26__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_26__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_26__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 101 the following new section 101: 101. (1) Subject to subsection (2), the 101. Director may compound any offence under this Act except any offence under section 86 or 107 by making a written offer to such person to compound the offence upon payment to the Director of such amount not exceeding the maximum fine for that offence within such time as may be specified in the offer."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The offence which may be com- pounded under subsection (1) shall only be in respect of an offence committed for the first time."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_26__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_26__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_26__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_26__subsec_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_26__subsec_3__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the offence committed involves the taking of forest produce under section 15 or 40, the Director may, if he thinks fit, in addition to the amount payable under subsection (1), require such person to pay to the State Authority—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_26__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_26__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a sum not exceeding ten times the royalty, premium and cess of such forest produce;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_26__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_26__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a sum not exceeding ten times the value of such forest produce;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_26__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_26__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the costs of repairing any damage in respect of the offence committed; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_26__subsec_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_26__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other charges payable to the State Authority."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_26__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In compounding any offence under subsection (1), any thing seized under this Act shall be forfeited and disposed of in accordance with the direction of the Director."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_26__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An offer under subsection (1) may be made at any time after the offence has been committed, but before any prosecution for it has been instituted, and where the amount specified in the offer is not paid within the time specified in the offer or within such extended period as the Director may grant, prosecution for the offence may be instituted at any time thereafter against the person to whom the offer was made."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_26__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where an offence has been com- pounded under subsection (1), no prosecution shall thereafter be instituted in respect of such offence against the person to whom the offer to compound was made.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_27__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_27__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_27__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_27__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 101 the following new section 10lA: 10lA. (1) Subject to subsection (2), where any person is found guilty of an offence under this Act, the court may, in addition to any other penalty that may be imposed, order that any licence or permit issued under this Act in relation to which the offence has been committed be revoked."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any person is found guilty of an offence under section 15, 40 or 86, the court shall, in addition to any other penalty that may be imposed, order that any licence or permit issued under this Act in relation to which the offence has been committed be revoked."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_27__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any person to whom a licence or permit has been issued under this Act is charged with and found guilty of a second or subsequent offence under this Act, the court shall, in addition to any other penalty that may be imposed, order that any licence or permit issued under this Act in relation to which the offence has been committed be revoked."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_27__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any licence or permit has been revoked under this section, the court shall order that such person to whom a licence or permit has been issued be disqualified from holding any licence or permit for a period not exceeding five years."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_27__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who obtains or attempts to obtain any licence or permit under this Act while he is so disqualified shall be guilty of an offence.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 104 the following new section 104: 104. 104. In any proceedings for an offence under this Act, in so far as it may be necessary to establish the offence charged, it shall be presumed until the contrary is proven— (a) that any forest produce is the property of the State Authority; (b) that any map, plan or chart purporting to be made by the authority of the Director is so made and accurate; (c) that any mark placed on any tree, timber or any boundary mark of an area under a licence or permit within a permanent reserved forest or State land placed by or under the authority of a forest officer has been so placed and is accurate; (d) that any person found within a permanent reserved forest or State land in possession of any forest produce have taken or removed such forest produce without a licence or permit issued under this Act; and (e) that any person found within a permanent reserved forest or State land in possession of any machine, equipment or conveyance as specified in the Sixth Schedule intends to take or remove any forest produce.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_29__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_29__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 106 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"police officers\" in the marginal note the words \", members of the armed forces\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in line 3, by substituting for the word \"or\" first appearing therein a comma and inserting after the words \"police officer\" the words \"or member of the armed forces\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_29__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in line 11, by substituting for the word \"or\" a comma and inserting after the words \"police officer\" the words \"or member of the armed forces\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"tahi kelawar\", \"mandu lilin\" and \"kayu balak\" in the definition of \"hasil hutan\" the words \"guano\", \"madu dan lilin\" and \"kayu\" respectively;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word \"atau\" appearing in line 2 in the definition of \"kayu ditukar bentuk\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word \"tidak\" appearing in line 3 in the definition of \"kayu jaras\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"surat\" in the definition of \"tanda\" the word \"huruf\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"keadah\" in the definition of \"tukar bentuk\" the word \"kaedah\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"Pengarah Hutan Negeri\", \"Timbalan Pengarah Hutan Negeri\", \"Penolong Pengarah Hutan Negeri\", \"Ketua Pengarah Jabatan Hutan Persekutuan\", \"Jabatan Hutan Negeri\" and \"Pejabat Hutan Negeri\" wherever appearing therein the words \"Pengarah Perhutanan Negeri\", \"Timbalan Pengarah Perhutanan Negeri\", \"Penolong Pengarah Perhutanan Negeri\", \"Ketua Pengarah Jabatan Perhutanan Persekutuan\", \"Jabatan Perhutanan Negeri\" and \"Pejabat Perhutanan Negeri\" respectively;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"HASIL HUTAN UTAMA\", \"hasil hutan utama\", \"hutan hasil utama\", \"HASIL HUTAN KECIL\" and \"hasil hutan kecil\" wherever appearing therein the words \"HASIL UTAMA HUTAN\" , \"hasil utama hutan\", \"hasil utama hutan\", \"HASIL KECIL HUTAN\" and \"hasil kecil hutan\" respectively;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection 62(2), by substituting for the words \"lain-lain maksud bukan komersial\" in subparagraph (i) the words \"maksud-maksud bukan komersial yang lain\" and the words \"tiada atau\" in subparagraph (ii) the words \"atau tiada\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"tanpa\" in the marginal note of section 90 the word \"dengan\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"dengan\" in the marginal note of section 91 the word \"tanpa\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_3__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 109 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "deleting the words \"unless he proves that the offence was committed without his knowledge or that he took reasonable precautions to prevent its commission\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 110 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "deleting the words \"- , unless he proves that he took reasonable precautions to prevent the doing or commission of such thing\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 110 the following new section 110A: Offences 110A. Where any forest offence is committed committed by any person in relation to any licence or by licensee permit issued under this Act, such licensee or or holder of permit. holder of permit shall be deemed to have committed that offence.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_33__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_33__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The First Schedule to the principal Act is"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "amended— Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_33__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"five\" , \"two\" and \"three hundred\" in Form 2 the words \"fifty\", \"five\" and \"one thousand\" respectively; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_33__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting below the word \"Date ............\" in Form 8 the word \"Time .......„......\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "the words \"Rattan of the manau and sega species\" in paragraph (e) of the Second Schedule and the words \"Rattan of manau and sega species\" in paragraph (f) of the Third Schedule the words \"All types of rattan\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after the"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Schedule. Fifth Schedule the following new Sixth Schedule:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All references to Pengarah Hutan Negeri, Timbalan Pengarah Hutan Negeri, Penolong Pengarah Hutan Negeri, Ketua Pengarah Jabatan Hutan Persekutuan, Jabatan Hutan Negeri and Pejabat Hutan Negeri in any written law or in any instrument, deed, title, document, bond, agreement and working arrangement subsisting immediately before the coming into force of this Act shall, upon the coming into force of this Act, be construed as if all such references were references to Pengarah Perhutanan Negeri, Timbalan Pengarah Perhutanan Negeri, Penolong Pengarah Perhutanan Negeri, Ketua Pengarah Jabatan Perhutanan Persekutuan, Jabatan Perhutanan Negeri and Pejabat Perhutanan Negeri respectively."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The aforesaid change of names in the national language shall not affect any rights, privileges, liabilities, duties or obligations of the Pengarah Hutan Negeri, Timbalan Pengarah Hutan Negeri, Penolong Pengarah Hutan Negeri, Ketua Pengarah Jabatan Hutan Persekutuan, Jabatan Hutan Negeri and Pejabat Hutan Negeri, or render defective any legal proceedings by or against them; and any legal proceedings that could have been continued or commenced by or against them prior to the coming into force of this Act may be continued or commenced under their new names."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All existing liabilities incurred by or on behalf of or for the purposes of the Pengarah Hutan Negeri, Timbalan Pengarah Hutan Negeri, Penolong Pengarah Hutan Negeri, Ketua Pengarah Jabatan Hutan Persekutuan, Jabatan Hutan Negeri and Pejabat Hutan Negeri, may be enforced against Pengarah Perhutanan Negeri. Timbalan Pengarah Perhutanan Negeri, Penolong Pengarah Perhutanan Negeri, Ketua Pengarah Jabatan Perhutanan Persekutuan, Jabatan Perhutanan Negeri and Pejabat Perhutanan Negeri respectively, as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_4__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 2 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"forest management plan\" the following new definition: ' \"forest offence\" means an offence under this Act;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"mark\" the following new definition: ' \"member of the armed forces\" means any member of the armed ibrces not below the rank of Lance Corporal;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"pole\" the following new definition: ' \"police officer\" means any member of the Royal Malaysia Police;'; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"rules\" the following new definition: ' \"servant\" means any person whether or not he is a citizen of Malaysia who is employed for wages;'."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 3(2) of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the word \"and\" a comma and inserting after the word \"Officer\" in line 4 the words \"and other officers as may be necessary\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 5 the following new section 5: \"oeiegation 5. (1) The Director may, delegate in writing, of power subject to such conditions and restrictions as by Director. may be prescribed in the instrument of delegation, the exercise and performance of— (a) any power or duty conferred or imposed on him under this Act to any forest officer not below the rank of Assistant District Porest Officer; and (b) any power or duty conferred or imposed on him under section 88, 89, 90, 91, 92 or 93 to any member of the armed forces: Provided that a delegation to any member of the armed forces under section 88 shall not include the power of investigation. (2) Any delegation under this section with respect to any power or duty shall not prevent the Director from himself exercising that power or performing that duty in any case where it appears to him expedient to do so.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 12 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "inserting after the word \"conservation\" the words \", biodiversity\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 15 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"ten thousand ringgit or to imprisonment for a term not exceeding three years or to both such fine and imprisonment\" in subsection (2) the words \"five hundred thousand ringgit and imprisonment for a term which shall not be less than one year but shall not exceed twenty years\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (3) the following new subsection (3): \"(3) Any person convicted of an offence under this section may, in addition to any penalty imposed on the conviction, be ordered to pay, in respect of any forest produce unlawfully taken, to the State Authority— (a) a sum not exceeding ten times the royalty, premium and cess; (b) a sum not exceeding ten times the value of such forest produce; and (c) any other charges payable, and any sum ordered to be so paid shall be recoverable as if it were a fine so imposed,\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 25(2) of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the words \"five\", \"two\" and \"three hundred\" the words \"fifty\", \"five\" and \"one thousand\" respectively."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6",
+      "@type": "akn:schedule",
+      "eli:number": "6",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "(Section I04(e)) PART A - MACHINE (a) Grader (b) Log loader (c) Bulldozer (d) Crawler tractor (e) Winched skidder PART B - EQUIPMENT (a) Wire ropes (b) Machet (c) Axe (d) Fuel or oil tank (e) Oil drum (f) Measuring tapes (g) Chainsaw (h) Power saw (i) Mobile saw (j) Hand saw (k) Log tongs (I) Log hooks (m) Wedges"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C",
+      "@type": "akn:part",
+      "eli:number": "C",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6",
+      "schema:name": {
+        "@language": "en",
+        "@value": "CONVEYANCE"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C",
+      "schema:name": {
+        "@language": "en",
+        "@value": "LAND"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Timber lorry"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Winch lorry"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Locomotive"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C",
+      "schema:name": {
+        "@language": "en",
+        "@value": "AIR"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Aircraft"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Balloon"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_3__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_3__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C",
+      "schema:name": {
+        "@language": "en",
+        "@value": "WATER"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Boat"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Barge"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Tongkang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Sampan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_3__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/19/eng@/~sched_6__part_C__para_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Pontoon"
+      }
+    }
+  ]
+}

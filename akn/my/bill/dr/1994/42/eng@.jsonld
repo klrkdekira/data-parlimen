@@ -162,7 +162,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/eng@/~cl_13",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (2) by substituting for the words \"by the trial court\" the words \", confirmed 0r varied by the Court of Appeal\". Amendment"
+        "@value": "in subsection (2) by substituting for the words \"by the trial court\" the words \", confirmed 0r varied by the Court of Appeal\"."
       }
     },
     {
@@ -175,9 +175,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/eng@/~cl_14__para_c"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/eng@",
-      "schema:text": {
+      "schema:name": {
         "@language": "en",
-        "@value": "Section 93 of the principal Act is amended— of section 93."
+        "@value": "Section 93 of the principal Act is amended—"
       }
     },
     {
@@ -207,7 +207,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/eng@/~cl_14",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (4) by substituting for the words \"trial court\" the words \"High Court\". Amendment"
+        "@value": "in subsection (4) by substituting for the words \"trial court\" the words \"High Court\"."
       }
     },
     {
@@ -221,9 +221,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/eng@/~cl_15__para_d"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/eng@",
-      "schema:text": {
+      "schema:name": {
         "@language": "en",
-        "@value": "Section 95 of the principal Act is amended— of section 95."
+        "@value": "Section 95 of the principal Act is amended—"
       }
     },
     {
@@ -267,7 +267,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/eng@/~cl_15",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (3)— Amendment"
+        "@value": "in subsection (3)—"
       }
     },
     {
@@ -299,9 +299,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/eng@/~cl_16__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/eng@",
-      "schema:text": {
+      "schema:name": {
         "@language": "en",
-        "@value": "Section 96 of the principal Act is amended— of section 96."
+        "@value": "Section 96 of the principal Act is amended—"
       }
     },
     {
@@ -408,7 +408,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after subsection (2) the following subsection: \"(2A) An application for leave under subsection (2) shall be made within fourteen days after the date of the decision of the High Court.\". Amendment"
+        "@value": "by inserting after subsection (2) the following subsection: \"(2A) An application for leave under subsection (2) shall be made within fourteen days after the date of the decision of the High Court.\"."
       }
     },
     {
@@ -416,9 +416,13 @@
       "@type": "akn:clause",
       "eli:number": "3",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 51(2) of the principal Act is amended by"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Subsection 51(2) of the principal Act is amended by of section 51. substituting for the full stop a colon and inserting thereafter the following proviso: \"Provided that, in a case of an appeal under section 50(2), the computation of the aforesaid period of fourteen days shall commence from the date immediately after leave has been granted by the Court of Appeal.\". Amendment"
+        "@value": "substituting for the full stop a colon and inserting thereafter the following proviso: \"Provided that, in a case of an appeal under section 50(2), the computation of the aforesaid period of fourteen days shall commence from the date immediately after leave has been granted by the Court of Appeal.\"."
       }
     },
     {
@@ -430,9 +434,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/eng@/~cl_4__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/eng@",
-      "schema:text": {
+      "schema:name": {
         "@language": "en",
-        "@value": "Subsection 52(1) of the principal Act is amended— of section 52."
+        "@value": "Subsection 52(1) of the principal Act is amended—"
       }
     },
     {
@@ -452,7 +456,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/eng@/~cl_4",
       "schema:text": {
         "@language": "en",
-        "@value": "by deleting the proviso thereto. Amendment"
+        "@value": "by deleting the proviso thereto."
       }
     },
     {
@@ -460,9 +464,13 @@
       "@type": "akn:clause",
       "eli:number": "5",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 53(2) of the principal Act is amended by"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Subsection 53(2) of the principal Act is amended by of section 53. substituting for the words\"trial Court\" the words \"High Court\". Amendment"
+        "@value": "substituting for the words\"trial Court\" the words \"High Court\"."
       }
     },
     {
@@ -470,9 +478,13 @@
       "@type": "akn:clause",
       "eli:number": "6",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 57(1) of the principal Act is amended by"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Subsection 57(1) of the principal Act is amended by of section 57, substituting for the words \"trial Court\" the words \"High Court\". Amendment"
+        "@value": "substituting for the words \"trial Court\" the words \"High Court\"."
       }
     },
     {
@@ -484,9 +496,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/eng@/~cl_7__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/eng@",
-      "schema:text": {
+      "schema:name": {
         "@language": "en",
-        "@value": "Section 60 of the principal Act is amended— of section 60."
+        "@value": "Section 60 of the principal Act is amended—"
       }
     },
     {
@@ -506,7 +518,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/eng@/~cl_7",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (2) by substituting for the words \"by the trial court\" the words \", confirmed or varied by the High Court\". Amendment"
+        "@value": "in subsection (2) by substituting for the words \"by the trial court\" the words \", confirmed or varied by the High Court\"."
       }
     },
     {
@@ -514,9 +526,13 @@
       "@type": "akn:clause",
       "eli:number": "8",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 61(3) of the principal Act is amended by"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Subsection 61(3) of the principal Act is amended by of section 61, deleting the words \", but the evidence shall not be taken in the presence of a jury or assessors\". Amendment"
+        "@value": "deleting the words \", but the evidence shall not be taken in the presence of a jury or assessors\"."
       }
     },
     {
@@ -530,9 +546,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/eng@/~cl_9__para_d"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/eng@",
-      "schema:text": {
+      "schema:name": {
         "@language": "en",
-        "@value": "Section 63 of the principal Act is amended— of section 63."
+        "@value": "Section 63 of the principal Act is amended—"
       }
     },
     {

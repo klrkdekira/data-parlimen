@@ -306,9 +306,7 @@ sama ada secara langsung atau tidak langsung, melalui suatu siri yang berterusan
 
 (e) tidak lebih daripada lima orang anggota lain yang mempunyai pengalaman, pengetahuan dan kepakaran yang bersesuaian dalam perkara yang berhubungan dengan standard pengukuran dan teknologi pengukuran.
 
-(2) Menteri hendaklah melantik seorang Timbalan Pengerusi daripada kalangan anggota yang dilantik di bawah perenggan
-
-(1)(b) hingga (e).
+(2) Menteri hendaklah melantik seorang Timbalan Pengerusi daripada kalangan anggota yang dilantik di bawah perenggan (1)(b) hingga (e).
 
 (3) Fungsi Majlis adalah—
 
@@ -398,13 +396,47 @@ ampere Ampere ialah arus malar yang, jika arus elektrik (A) disenggara dalam dua
 
 <!-- page 15 -->
 
-Unit dan Kuantiti Takrif Simbol
+<!-- marginal: Unit dan -->
 
-kelvin suhu Kelvin ialah pecahan 1/273.16 (K) termodinamik daripada suhu termodinamik takat tigaan air.
+<!-- marginal: Kuantiti -->
 
-kandela keamatan Kandela i a l a h keamatan (cd) berluminositi, dalam arah yang berluminositi diberikan, daripada sumber yang memancarkan pancaran monokiomatik pada frekuensi 540 x 1012 hertz dan mempunyai keamatan sinaran dalam arah itu bersamaan (1/683) watt per steradian.
+Takrif
 
-1. Mol ialah amaun bahan suatu mol amaun bahan sistem yang mengandungi entiti (mol) asas yang sama banyak dengan bilangan atom dalam 0.012 kilogram atom karbon 12.
+<!-- marginal: Simbol -->
+
+<!-- marginal: kelvin -->
+
+<!-- marginal: suhu -->
+
+Kelvin ialah pecahan 1/273.16
+
+(K)
+
+<!-- marginal: termodinamik -->
+
+daripada suhu termodinamik takat tigaan air.
+
+<!-- marginal: kandela -->
+
+<!-- marginal: keamatan -->
+
+Kandela i a l a h keamatan
+
+(cd) berluminositi, dalam arah yang
+
+<!-- marginal: berluminositi -->
+
+diberikan, daripada sumber yang memancarkan pancaran monokiomatik pada frekuensi 540 x 1012 hertz dan mempunyai keamatan sinaran dalam arah itu bersamaan (1/683) watt per steradian.
+
+1. Mol ialah amaun bahan suatu
+
+<!-- marginal: mol -->
+
+<!-- marginal: amaun bahan -->
+
+sistem yang mengandungi entiti
+
+(mol) asas yang sama banyak dengan bilangan atom dalam 0.012 kilogram atom karbon 12.
 
 2. Apabila mol digunakan, entiti asas mestilah dinyatakan dan boleh jadi atom, molekul, ion, elektron, zarah lain atau kumpulan zarah tersebut yang dinyatakan.
 
@@ -414,23 +446,33 @@ kandela keamatan Kandela i a l a h keamatan (cd) berluminositi, dalam arah yang 
 
 1. Unit perolehan SI, Nama dan Simbol:
 
-Kuantiti Nama Simb Dinyatakan
+<!-- marginal: Kuantiti -->
+
+Nama Simb Dinyatakan Dinyatakan dalam sebutan dalam sebutan unit asas SI unit SI lain
+
+<!-- marginal: 1.1 Ruang dan Masa -->
+
+<!-- marginal: sudut satah -->
+
+<!-- marginal: radian -->
+
+rad m . m -1=l
+
+m2- m-2=l
+
+<!-- marginal: sudut pepejal -->
+
+<!-- marginal: steradian sr -->
+
+<!-- page 16 -->
+
+Kuantiti Nama Simbol Dinyatakan
 
 <!-- marginal: Dinyatakan -->
 
 dalam sebutan dalam sebutan unit asas SI
 
 <!-- marginal: unit SI lain -->
-
-1.1 Ruang dan Masa
-
-sudut satah radian rad m . m -1=l
-
-m2- m-2=l sudut pepejal steradian sr
-
-<!-- page 16 -->
-
-Kuantiti Nama Simbol Dinyatakan Dinyatakan dalam sebutan dalam sebutan unit asas SI unit SI lain
 
 luas m2 m2 meter persegi isipadu m3 m3 meter padu
 
@@ -464,9 +506,7 @@ haba
 
 <!-- page 17 -->
 
-Kuantiti Nama Simbol Dinyatakan Dinyatakan dalam sebutan dalam sebutan unit asas SI
-
-<!-- marginal: unit SI lain -->
+Kuantiti Nama Simbol Dinyatakan Dinyatakan dalam sebutan dalam sebutan unit asas SI unit SI lain
 
 kuasa, fluks sinaran
 
@@ -524,13 +564,7 @@ ketumpatan tenaga haba joule per J/m3 rrr1 . kg . s-2 meter padu
 
 <!-- page 19 -->
 
-Kuantiti Nama Simbol Dinyatakan
-
-<!-- marginal: Dinyatakan -->
-
-dalam sebutan dalam sebutan unit asas SI
-
-<!-- marginal: unit SI lain -->
+Kuantiti Nama Simbol Dinyatakan Dinyatakan dalam sebutan dalam sebutan unit asas SI unit SI lain
 
 1.5 Kimia Fizikal dan Fizik Molekul
 
@@ -540,7 +574,7 @@ tenaga molar joule per J/mol m2 . kg . S-2 . mol-1 mol
 
 entropy molar, joule per J/(mol . K) m2 . kg . S-2 . K-1 . mol-1 muatan haba molar mol kelvin
 
-1.6 Pancaran dan Cahaya
+### 1.6 Pancaran dan Cahaya
 
 luminans cd/m2 cd . m-2 candela per meter persegi
 
@@ -674,7 +708,9 @@ unit astronomi ua lua= 1.49597870691(6)xlO11m (c)
 
 Unit pengukuran dan kelas unit pengukuran yang boleh digunakan secara sementara:
 
-Nama Simbol Nilai 1. Luas b lb = 100 fm2 = 10 -28 m2 barn (kegunaannya hanya dibenarkan dalam fizik atom dan nuklear)
+Nama Simbol Nilai
+
+1. Luas b lb = 100 fm2 = 10 -28 m2 barn (kegunaannya hanya dibenarkan dalam fizik atom dan nuklear)
 
 2. Kelikatan dinamik
 

@@ -22,6 +22,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 2. Akta Hak Cipta 1987 [Akta 332], yang disebut “Akta ibu” dalam Akta ini, dipinda dengan menggantikan perkataan “persembahan secara langsung” di mana-mana jua terdapat dengan perkataan “persembahan”.
 
+<!-- marginal: JW516675 BM.indd 1 -->
+
 <!-- marginal: 12/13/10 3:27:45 PM -->
 
 <!-- page 2 -->
@@ -82,6 +84,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (b) dengan memasukkan selepas perkataan “pelaporan” perkataan “berita atau”.
 
+<!-- marginal: JW516675 BM.indd 3 -->
+
 <!-- marginal: 12/13/10 3:27:46 PM -->
 
 <!-- page 4 -->
@@ -103,6 +107,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 (i) dengan menggantikan perenggan (a) dengan perenggan yang berikut:
 
 “(a) perlakuan mana-mana perbuatan yang tersebut dalam subseksyen (1) secara urusan yang wajar termasuk bagi maksud
+
+<!-- marginal: JW516675 BM.indd 4 -->
 
 <!-- marginal: 12/13/10 3:27:46 PM -->
 
@@ -127,6 +133,8 @@ Dengan syarat bahawa ia disertai dengan suatu perakuan tajuk karya itu dan penci
 (vii) dengan memasukkan selepas perenggan (p) perenggan yang berikut: “
 
 (q) pembuatan suatu salinan elektronik fana dan sampingan suatu karya yang telah dijadikan tersedia di suatu rangkaian jika pembuatan salinan itu diperlukan untuk menonton, mendengar atau menggunakan karya tersebut.”; dan
+
+<!-- marginal: JW516675 BM.indd 5 -->
 
 <!-- marginal: 12/13/10 3:27:46 PM -->
 
@@ -155,6 +163,8 @@ Dengan syarat bahawa ia disertai dengan suatu perakuan tajuk karya itu dan penci
 ### Pemotongan seksyen 13c
 
 11. Akta ibu dipinda dengan memotong seksyen 13c.
+
+<!-- marginal: JW516675 BM.indd 6 -->
 
 <!-- marginal: 12/13/10 3:27:46 PM -->
 
@@ -188,6 +198,8 @@ Dengan syarat bahawa ia disertai dengan suatu perakuan tajuk karya itu dan penci
 
 “(iii) dibuat bagi maksud suatu prosiding kehakiman, suatu prosiding suruhanjaya diraja atau badan perundangan, suatu siasatan berkanun atau Kerajaan, atau laporan mengenai mana-mana prosiding atau siasatan itu, atau bagi maksud pemberian nasihat profesional oleh pengamal undang-undang;”; dan
 
+<!-- marginal: JW516675 BM.indd 7 -->
+
 <!-- marginal: 12/13/10 3:27:46 PM -->
 
 <!-- page 8 -->
@@ -214,6 +226,8 @@ Dengan syarat bahawa ia disertai dengan suatu perakuan tajuk karya itu dan penci
 
 (b) untuk mengubah apa-apa penentuan Tribunal yang terdahulu berhubungan dengan saraan yang saksama itu.
 
+<!-- marginal: JW516675 BM.indd 8 -->
+
 <!-- marginal: 12/13/10 3:27:46 PM -->
 
 <!-- page 9 -->
@@ -237,6 +251,8 @@ Dengan syarat bahawa ia disertai dengan suatu perakuan tajuk karya itu dan penci
 15. Seksyen 25a teks bahasa Inggeris Akta ibu dipinda dalam nota birai dengan menggantikan perkataan “right” dengan perkataan
 
 ### “rights”.
+
+<!-- marginal: JW516675 BM.indd 9 -->
 
 <!-- marginal: 12/13/10 3:27:46 PM -->
 
@@ -272,6 +288,8 @@ Dengan syarat bahawa ia disertai dengan suatu perakuan tajuk karya itu dan penci
 
 26b. (1) Pengawal hendaklah menyimpan dan menyenggara suatu daftar yang dinamakan Daftar Hak Cipta.
 
+<!-- marginal: JW516675 BM.indd 10 -->
+
 <!-- marginal: 12/13/10 3:27:46 PM -->
 
 <!-- page 11 -->
@@ -298,6 +316,8 @@ dan apa-apa pembetulan, pemadaman atau pindaan yang dibuat di bawah seksyen ini 
 
 (3) bagi maksud seksyen ini, “mahkamah” ertinya Mahkamah Tinggi yang berkenaan di Malaysia.”.
 
+<!-- marginal: JW516675 BM.indd 11 -->
+
 <!-- marginal: 12/13/10 3:27:46 PM -->
 
 <!-- page 12 -->
@@ -319,6 +339,8 @@ dan apa-apa pembetulan, pemadaman atau pindaan yang dibuat di bawah seksyen ini 
 (3) Apabila diterima suatu permohonan, Pengawal boleh mengisytiharkan pemohon sebagai suatu badan pelesenan dan mengeluarkan perisytiharan bertulis yang bermaksud sedemikian kepada pemohon itu.
 
 (4) Walau apa pun subseksyen (3), Pengawal hendaklah menolak sesuatu permohonan jika maklumat yang diberikan oleh pemohon menurut subseksyen (2) adalah tidak mencukupi atau tidak memuaskan untuk menunjukkan bahawa pemohon layak dan sesuai untuk menjadi badan pelesenan.
+
+<!-- marginal: JW516675 BM.indd 12 -->
 
 <!-- marginal: 12/13/10 3:27:46 PM -->
 
@@ -347,6 +369,8 @@ dan apa-apa pembetulan, pemadaman atau pindaan yang dibuat di bawah seksyen ini 
 (f) telah dibubarkan.
 
 (8) badan pelesenan yang terkilan dengan keputusan Pengawal di bawah subseksyen (7) boleh merayu kepada Tribunal dalam tempoh satu bulan dari tarikh keputusan itu.”.
+
+<!-- marginal: JW516675 BM.indd 13 -->
 
 <!-- marginal: 12/13/10 3:27:46 PM -->
 
@@ -430,6 +454,8 @@ dan apa-apa pembetulan, pemadaman atau pindaan yang dibuat di bawah seksyen ini 
 
 (d) penjalanan kuasa di bawah seksyen 31.”.
 
+<!-- marginal: JW516675 BM.indd 15 -->
+
 <!-- marginal: 12/13/10 3:27:46 PM -->
 
 <!-- page 16 -->
@@ -459,6 +485,8 @@ dan apa-apa pembetulan, pemadaman atau pindaan yang dibuat di bawah seksyen ini 
 “ (7) Dalam mana-mana hal yang disebut dalam subseksyen (6) jika anggota yang tidak dapat meneruskan prosiding ialah pengerusi prosiding itu, maka Menteri hendaklah—
 
 (a) melantik daripada kalangan anggota yang tinggal seorang pengerusi baru bagi maksud prosiding yang diteruskan itu; dan
+
+<!-- marginal: JW516675 BM.indd 16 -->
 
 <!-- marginal: 12/13/10 3:27:46 PM -->
 
@@ -491,6 +519,8 @@ dan apa-apa pembetulan, pemadaman atau pindaan yang dibuat di bawah seksyen ini 
 36a. (1) Jika suatu langkah perlindungan teknologi dipakai ke atas suatu salinan karya oleh atau dengan kebenaran pemunya hak cipta karya itu, tiada seorang pun boleh memintasi, atau menyebabkan atau membenarkan mana-mana orang lain untuk memintasi, langkah perlindungan teknologi—
 
 (a) yang digunakan oleh pemunya hak cipta itu berkaitan dengan penjalanan haknya di bawah Akta ini; dan
+
+<!-- marginal: JW516675 BM.indd 17 -->
 
 <!-- marginal: 12/13/10 3:27:46 PM -->
 
@@ -530,6 +560,8 @@ dan apa-apa pembetulan, pemadaman atau pindaan yang dibuat di bawah seksyen ini 
 
 (ii) menawarkan atau mendedahkan untuk dijual atau disewakan;
 
+<!-- marginal: JW516675 BM.indd 18 -->
+
 <!-- marginal: 12/13/10 3:27:46 PM -->
 
 <!-- page 19 -->
@@ -559,6 +591,8 @@ apa-apa teknologi, alat atau komponen yang— ( A) dipromosikan, diiklankan atau
 (b) mengedarkan, mengimport untuk pengedaran atau penyampaian kepada awam, tanpa kebenaran, karya atau salinan karya dengan mengetahui bahawa maklumat pengurusan hak elektronik telah ditanggalkan atau diubah tanpa kebenaran,
 
 dan dengan mengetahui atau mempunyai alasan munasabah untuk mengetahui bahawa perbuatan itu akan menyebabkan, membolehkan, memudahkan atau menyembunyikan suatu pelanggaran apa-apa hak di bawah Akta ini.
+
+<!-- marginal: JW516675 BM.indd 19 -->
 
 <!-- marginal: 12/13/10 3:27:47 PM -->
 
@@ -590,6 +624,8 @@ dan dengan mengetahui atau mempunyai alasan munasabah untuk mengetahui bahawa pe
 
 (c) suatu akaun keuntungan;
 
+<!-- marginal: JW516675 BM.indd 20 -->
+
 <!-- marginal: 12/13/10 3:27:47 PM -->
 
 <!-- page 21 -->
@@ -600,15 +636,21 @@ dan dengan mengetahui atau mempunyai alasan munasabah untuk mengetahui bahawa pe
 
 (2) Walau apa pun subseksyen (1), semua relief boleh didapati oleh plaintif dalam sesuatu tindakan di bawah subseksyen 36a(3) kecuali ganti rugi statutori.
 
-(3) Dalam membuat sesuatu award di bawah perenggan (1)(b), mahkamah boleh juga membuat perintah di bawah perenggan (1)(c) bagi suatu akaun apa-apa keuntungan yang boleh dikaitkan dengan pelanggaran atau perbuatan yang dilarang itu yang tidak diambil kira dalam mengira ganti rugi.
+(3) Dalam membuat sesuatu award di bawah perenggan
 
-(4) Kecuali sebagaimana yang diperuntukkan dalam subseksyen (3), jenis relief yang disebut dalam perenggan (1)(b), (c) dan (d) adalah berbeza sama sekali.
+(1)(b), mahkamah boleh juga membuat perintah di bawah perenggan (1)(c) bagi suatu akaun apa-apa keuntungan yang boleh dikaitkan dengan pelanggaran atau perbuatan yang dilarang itu yang tidak diambil kira dalam mengira ganti rugi.
+
+(4) Kecuali sebagaimana yang diperuntukkan dalam subseksyen (3), jenis relief yang disebut dalam perenggan
+
+(1)(b), (c) dan (d) adalah berbeza sama sekali.
 
 (5) bagi maksud perenggan (1)(d), semua bahagian sesuatu karya kolektif hendaklah dikira sebagai satu karya.
 
 (6) Jika dalam sesuatu tindakan di bawah seksyen ini telah dipastikan bahawa suatu pelanggaran atau perbuatan yang dilarang di bawah seksyen 36a atau 36b telah dilakukan tetapi juga telah dipastikan bahawa pada masa pelanggaran atau perbuatan yang dilarang itu dilakukan defendan tidak menyedari, dan tidak mempunyai alasan yang munasabah untuk mengesyaki, bahawa perbuatan itu ialah suatu pelanggaran hak cipta atau dilarang di bawah seksyen 36a atau 36b, plaintif tidaklah berhak di bawah seksyen ini kepada apa-apa ganti rugi terhadap defendan berkenaan dengan pelanggaran atau perbuatan yang dilarang yang dilakukan itu, tetapi hendaklah berhak kepada suatu akaun keuntungan atau ganti rugi statutori sama ada apa-apa relief lain diberikan atau tidak di bawah seksyen ini.
 
 (7) Jika dalam sesuatu tindakan di bawah seksyen ini pelanggaran hak cipta atau pelakuan perbuatan yang dilarang di bawah seksyen 36a atau 36b dipastikan, mahkamah boleh, dalam menilai ganti rugi bagi pelanggaran atau pelakuan perbuatan yang dilarang itu, mengaward apa-apa ganti rugi
+
+<!-- marginal: JW516675 BM.indd 21 -->
 
 <!-- marginal: 12/13/10 3:27:47 PM -->
 
@@ -646,6 +688,8 @@ tambahan yang difikirkannya patut dalam hal keadaan itu jika ia berpuas hati bah
 
 (a) “tindakan” termasuklah tuntutan balas, dan sebutan mengenai plaintif dan mengenai defendan dalam sesuatu tindakan hendaklah ditafsirkan sewajarnya;
 
+<!-- marginal: JW516675 BM.indd 22 -->
+
 <!-- marginal: 12/13/10 3:27:47 PM -->
 
 <!-- page 23 -->
@@ -676,6 +720,8 @@ tambahan yang difikirkannya patut dalam hal keadaan itu jika ia berpuas hati bah
 
 (i) dalam perenggan (h)— ( A) dengan memasukkan selepas perkataan “atau menyebabkan” perkataan “atau membenarkan”; dan ( b) dengan menggantikan perkataan “subseksyen 36(3)” dengan perkataan “subseksyen 36a(1)”;
 
+<!-- marginal: JW516675 BM.indd 23 -->
+
 <!-- marginal: 12/13/10 3:27:47 PM -->
 
 <!-- page 24 -->
@@ -694,6 +740,8 @@ tambahan yang difikirkannya patut dalam hal keadaan itu jika ia berpuas hati bah
 
 “(4) Jika sesuatu kesalahan di bawah seksyen ini dilakukan oleh suatu pertubuhan perbadanan atau oleh seseorang yang menjadi pekongsi dalam suatu firma, tiap-tiap pengarah, ketua pegawai eksekutif, ketua pegawai operasi, setiausaha, pengurus atau pegawai lain pertubuhan perbadanan itu yang serupa atau tiap- tiap pekongsi lain dalam firma itu atau bermaksud untuk bertindak dalam apa-apa sifat sedemikian atau dalam apa-apa cara atau bertanggungjawab hingga apa-apa takat bagi pengurusan hal ehwal pertubuhan perbadanan atau firma itu atau membantu dalam pengurusan sedemikian, mengikut mana-mana yang berkenaan, hendaklah disifatkan sebagai melakukan kesalahan itu dan boleh dipertuduh secara berasingan atau bersesama dalam prosiding yang sama dengan pertubuhan perbadanan atau firma itu melainkan jika dia membuktikan bahawa kesalahan itu telah dilakukan tanpa persetujuan atau pembiarannya dan bahawa dia telah menjalankan segala usaha wajar untuk menghalang pelakuan kesalahan itu.”.
 
+<!-- marginal: JW516675 BM.indd 24 -->
+
 <!-- marginal: 12/13/10 3:27:47 PM -->
 
 <!-- page 25 -->
@@ -706,7 +754,7 @@ tambahan yang difikirkannya patut dalam hal keadaan itu jika ia berpuas hati bah
 
 32. Akta ibu dipinda dengan memasukkan selepas bahagian VI bahagian yang berikut:
 
-“bahagian Via
+## “BAHAGIAN VIA
 
 ## ANTIRAKAMAN KAMERA
 
@@ -724,11 +772,13 @@ tambahan yang difikirkannya patut dalam hal keadaan itu jika ia berpuas hati bah
 
 “bilik penayangan” ertinya mana-mana tempat yang digunakan untuk mempamerkan atau menayangkan wayang gambar, termasuklah panggung wayang gambar.
 
+<!-- marginal: JW516675 BM.indd 25 -->
+
 <!-- marginal: 12/13/10 3:27:47 PM -->
 
 <!-- page 26 -->
 
-bahagian VIb
+## BAHAGIAN VIB
 
 PENGEHADAN TANGGUNGAN PEMbERI
 
@@ -756,6 +806,8 @@ PENGEHADAN TANGGUNGAN PEMbERI
 
 (b) bagi maksud bahagian ini selain seksyen 43c, ertinya seseorang yang memberikan, atau mengendalikan kemudahan bagi, perkhidmatan atas talian atau capaian rangkaian dan termasuk seseorang yang disebut dalam perenggan (a).
 
+<!-- marginal: JW516675 BM.indd 26 -->
+
 <!-- marginal: 12/13/10 3:27:47 PM -->
 
 <!-- page 27 -->
@@ -773,6 +825,8 @@ PENGEHADAN TANGGUNGAN PEMbERI
 (a) supaya mengambil langkah yang munasabah untuk melumpuhkan capaian kepada suatu lokasi atas talian yang secara fizikalnya terletak di luar Malaysia; atau
 
 (b) supaya menamatkan akaun tertentu itu.
+
+<!-- marginal: JW516675 BM.indd 27 -->
 
 <!-- marginal: 12/13/10 3:27:47 PM -->
 
@@ -802,6 +856,8 @@ Dengan syarat bahawa—
 
 (iii) ketiadaan gangguan terhadap teknologi yang digunakan di rangkaian pemula untuk mendapatkan maklumat mengenai penggunaan apa-apa karya di rangkaian pemula, yang merupakan teknologi yang konsisten dengan standard industri di Malaysia.
 
+<!-- marginal: JW516675 BM.indd 28 -->
+
 <!-- marginal: 12/13/10 3:27:47 PM -->
 
 <!-- page 29 -->
@@ -823,6 +879,8 @@ Dengan syarat bahawa—
 (bb) dalam ketiadaan pengetahuan sebenar, tidak sedar akan fakta atau hal keadaan yang daripadanya aktiviti langgaran itu ternyata;
 
 (ii) pemberi perkhidmatan tidak menerima apa- apa faedah kewangan yang boleh dikaitkan secara langsung dengan pelanggaran hak cipta dalam karya yang berlaku dalam, atau dalam urusan, menjadikan karya elektronik itu tersedia di rangkaian utamanya atau rangkaian lain, dan bahawa pemberi perkhidmatan itu tidak mempunyai hak dan keupayaan untuk mengawal aktiviti langgaran itu; dan
+
+<!-- marginal: JW516675 BM.indd 29 -->
 
 <!-- marginal: 12/13/10 3:27:47 PM -->
 
@@ -852,6 +910,8 @@ Dengan syarat bahawa—
 
 (b) pelumpuhan capaian kepada salinan elektronik karya di rangkaian utamanya atau rangkaian lain.
 
+<!-- marginal: JW516675 BM.indd 30 -->
+
 <!-- marginal: 12/13/10 3:27:47 PM -->
 
 <!-- page 31 -->
@@ -873,6 +933,8 @@ pemberi perkhidmatan hendaklah, setakat yang boleh dilaksanakan—
 Dengan syarat bahawa pemberi perkhidmatan itu dilengkapi dengan dokumentasi yang sepatutnya berhubungan dengan penyelesaian antara pihak- pihak atau penghakiman atau keputusan mahkamah atau tribunal itu.
 
 (4) Pemberi perkhidmatan tidak boleh dikira sebagai telah membenarkan pelakuan apa-apa perbuatan yang melanggar hak cipta di bawah Akta ini semata-mata oleh sebab pemberi perkhidmatan memberikan kemudahan yang telah digunakan oleh seseorang untuk melakukan perbuatan langgaran itu.
+
+<!-- marginal: JW516675 BM.indd 31 -->
 
 <!-- marginal: 12/13/10 3:27:47 PM -->
 
@@ -896,6 +958,8 @@ Dengan syarat bahawa pemunya hak cipta itu hendaklah mengaku janji untuk memampa
 
 (2) Pemberi perkhidmatan yang telah menerima pemberitahuan di bawah subseksyen (1) hendaklah menyingkirkan atau melumpuhkan apa-apa capaian kepada salinan elektronik yang melanggar itu di rangkaiannya tidak lewat daripada empat puluh lapan jam dari masa pemberitahuan itu diterima.
 
+<!-- marginal: JW516675 BM.indd 32 -->
+
 <!-- marginal: 12/13/10 3:27:47 PM -->
 
 <!-- page 33 -->
@@ -916,6 +980,8 @@ Dengan syarat bahawa orang itu hendaklah mengaku janji untuk memampasi pemberi p
 
 (b) pengenalan bahan yang telah disingkirkan atau yang kepadanya capaian telah dilumpuhkan dan lokasi di mana bahan itu muncul sebelum ia disingkirkan atau capaian kepadanya dilumpuhkan;
 
+<!-- marginal: JW516675 BM.indd 33 -->
+
 <!-- marginal: 12/13/10 3:27:47 PM -->
 
 <!-- page 34 -->
@@ -935,6 +1001,8 @@ Dengan syarat bahawa orang itu hendaklah mengaku janji untuk memampasi pemberi p
 (b) dia bertanggungan untuk membayar pampasan kepada mana-mana orang yang mengalami apa-apa kehilangan atau kerugian akibat daripada pembuatan pemberitahuan itu.
 
 (2) Subseksyen (1) hendaklah terpakai sama ada pernyataan itu dibuat di Malaysia atau tidak, dan jika seseorang membuat pernyataan di luar Malaysia, dia boleh diuruskan di bawah perenggan (1)(a) seolah-olah kesalahan itu dilakukan di Malaysia.”.
+
+<!-- marginal: JW516675 BM.indd 34 -->
 
 <!-- marginal: 12/13/10 3:27:47 PM -->
 
@@ -962,6 +1030,8 @@ Dengan syarat bahawa orang itu hendaklah mengaku janji untuk memampasi pemberi p
 
 50b. (1) Walau apa pun peruntukan dalam mana-mana undang- undang bertulis lain, Pendakwa Raya, jika difikirkannya bahawa apa-apa komunikasi berkemungkinan mengandungi apa-apa maklumat yang relevan bagi maksud apa-apa penyiasatan kesalahan di bawah Akta ini atau perundangan subsidiarinya, boleh, atas permohonan Penolong Pengawal atau pegawai polis yang berpangkat tidak rendah daripada Inspektor, membenarkan pegawai itu untuk memintas atau mendengar apa-apa komunikasi yang dipancarkan atau diterima oleh mana-mana komunikasi.
 
+<!-- marginal: JW516675 BM.indd 35 -->
+
 <!-- marginal: 12/13/10 3:27:48 PM -->
 
 <!-- page 36 -->
@@ -983,6 +1053,8 @@ Dengan syarat bahawa orang itu hendaklah mengaku janji untuk memampasi pemberi p
 ### “Keterangan agent provocateur boleh diterima
 
 51a. (1) Walau apa pun undang-undang bertulis atau rukun undang-undang yang berlawanan, tiada agent provocateur boleh dianggap sebagai tidak boleh dipercayai hanya oleh sebab dia cuba untuk bersubahat atau telah bersubahat dalam melakukan suatu kesalahan oleh mana-mana orang di bawah Akta ini jika cubaan untuk bersubahat atau pensubahatan itu adalah semata-mata bagi maksud mendapatkan keterangan terhadap orang itu.
+
+<!-- marginal: JW516675 BM.indd 36 -->
 
 <!-- marginal: 12/13/10 3:27:48 PM -->
 
@@ -1007,6 +1079,8 @@ adalah melakukan suatu kesalahan di bawah Akta ini.
 (2) Tiada apa pun dalam subseksyen (1) menjadikan suatu kesalahan bagi seseorang peguam bela dan peguam cara atau pekerjanya untuk menzahirkan apa-apa maklumat atau perkara lain—
 
 (a) kepada pelanggannya atau wakil pelanggannya berkaitan dengan pemberian nasihat kepada pelanggan itu dalam penjalanan dan bagi maksud khidmat profesional peguam bela dan peguam cara itu; atau
+
+<!-- marginal: JW516675 BM.indd 37 -->
 
 <!-- marginal: 12/13/10 3:27:48 PM -->
 
@@ -1054,6 +1128,8 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Hak Cipta 1987 (“Akta 332�
 
 11. Fasal 9 bertujuan untuk meminda subseksyen 13(1) dengan memasukkan unsur WCT mengenai hak sewaan komersial bagi filem kepada pencipta sekiranya sewaan komersial itu mengurangkan hak pengeluaran semula. Perenggan 13(2)(a) juga dipinda dengan meluaskan pengecualian dan pengehadan daripada perenggan (a) sedia ada bagi maksud penyelidikan, pengajian sendiri dan pelaporan peristiwa semasa. Pindaan kepada perenggan (gggg) adalah bagi membolehkan pengubahsuaian karya ke dalam format untuk orang kurang penglihatan atau yang cacat dari segi fizikal atau mental. Pindaan kepada perenggan (j) adalah bagi mengembangkan hak pengeluaran semula apa-apa karya melalui penyiaran kepada semua penyiar selain daripada penyiar yang dimiliki oleh Kerajaan. Kemasukan perenggan baru (q) adalah bagi menyesuaikan penggunaan yang wajar melalui internet.
 
+<!-- marginal: JW516675 BM.indd 39 -->
+
 <!-- marginal: 12/13/10 3:27:48 PM -->
 
 <!-- page 40 -->
@@ -1099,6 +1175,8 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Hak Cipta 1987 (“Akta 332�
 29. Fasal 31 bertujuan untuk meminda seksyen 42 akibat daripada fasal 16 berhubungan dengan petikan yang diperakui sah daripada Daftar Hak Cipta yang akan dimasukkan sebagai keterangan yang boleh diterima.
 
 30. Fasal 32 bertujuan untuk memperkenalkan bahagian VIa dan IVb baru yang mengandungi seksyen 43a tentang antirakaman kamera dan seksyen 43b hingga 43i tentang pengehadan tanggungan pemberi perkhidmatan. Seksyen baru 43a menguruskan perkara bagi melawan aktiviti rakaman kamera di tempat penayangan apa-apa filem atau wayang dan seksyen baru 43b hingga 43i memperuntukkan beberapa pengehadan ke atas tanggungan pemberi perkhidmatan internet.
+
+<!-- marginal: JW516675 BM.indd 41 -->
 
 <!-- marginal: 12/13/10 3:27:48 PM -->
 

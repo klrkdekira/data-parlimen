@@ -136,7 +136,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/13/eng@/~cl_3",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (2)— Amendment of section 29"
+        "@value": "in subsection (2)—"
       }
     },
     {
@@ -166,7 +166,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/13/eng@/~cl_3__para_b",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for the words “fifty thousand ringgit” the words “one million ringgit”."
+        "@value": "by substituting for the words “fifty thousand ringgit” the words “one million ringgit”. Amendment of section 29"
       }
     },
     {
@@ -206,7 +206,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/13/eng@/~cl_4",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (1) as renumbered— “(da) prescribe the grades of rice and the price control for the graded rice; (db) make provisions relating to the prohibition, regulation or control of the movement of padi or rice; and”; and"
+        "@value": "in subsection (1) as renumbered—"
       }
     },
     {
@@ -226,7 +226,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/13/eng@/~cl_4__para_b",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (d) the following paragraphs:"
+        "@value": "by inserting after paragraph (d) the following paragraphs: “(da) prescribe the grades of rice and the price control for the graded rice; (db) make provisions relating to the prohibition, regulation or control of the movement of padi or rice; and”; and"
       }
     },
     {

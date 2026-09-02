@@ -28,6 +28,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 1 a. (1) Akta ini hendaklah terpakai hanya bagi Sabah, Sarawak dan Wilayah Persekutuan Labuan.
 
+<!-- marginal: JW515484 Teks BM.indd 1 -->
+
 <!-- marginal: 4/8/10 8:53:08 AM -->
 
 <!-- page 2 -->
@@ -78,6 +80,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (3) Kuasa, hak, keistimewaan, liabiliti, obligasi dan kewajipan yang sebaik sebelum tarikh yang ditetapkan merupakan kuasa, hak, keistimewaan, liabiliti, obligasi dan kewajipan yang dipunyai oleh Lembaga yang dibubarkan hendaklah turun kepada Suruhanjaya Pengangkutan Darat, kemudian daripada ini disebut sebagai “Suruhanjaya”, mulai tarikh itu.
 
+<!-- marginal: JW515484 Teks BM.indd 3 -->
+
 <!-- marginal: 4/8/10 8:53:08 AM -->
 
 <!-- page 4 -->
@@ -113,6 +117,8 @@ kesalahan yang dilakukan di bawah Akta sebelum tarikh yang ditetapkan, atau apa-
 (3) Walau apa pun tempoh kesahan lesen atau pengecualian yang disebut dalam subseksyen (1), jika ia tidak didaftarkan dengan Suruhanjaya dalam tempoh bagi pendaftaran di bawah subseksyen (1), lesen atau pengecualian itu hendaklah luput pada tarikh tamat tempoh bagi pendaftaran itu.
 
 (4) Suatu lesen atau pengecualian yang disebut di bawah subseksyen (1) adalah tertakluk kepada terma dan syarat yang ditentukan oleh Suruhanjaya, dan peruntukan Akta Pengangkutan Awam Darat 2010 yang berhubungan dengan pembatalan, penggantungan dan pembaharuan lesen dan pengecualian itu hendaklah terpakai bagi semua lesen yang dikeluarkan dan pengecualian yang diberikan di bawah Akta Pengangkutan Awam Darat 2010 menurut subseksyen (1).
+
+<!-- marginal: JW515484 Teks BM.indd 5 -->
 
 <!-- marginal: 4/8/10 8:53:08 AM -->
 
@@ -165,5 +171,7 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Lembaga Pelesenan Kenderaan 
 Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya tidak dapat ditentukan sekarang ini.
 
 <!-- marginal: [PN(U2)2734] -->
+
+<!-- marginal: JW515484 Teks BM.indd 7 -->
 
 <!-- marginal: 4/8/10 8:53:08 AM -->

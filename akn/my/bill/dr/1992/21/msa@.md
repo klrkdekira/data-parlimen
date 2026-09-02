@@ -40,11 +40,7 @@ Pelabuhan Pulau Pinang (Pindaan) 1992.
 
 (c) dengan memasukkan, selepas subseksyen (1), subseksyen baru (2) dan (3) yang berikut:
 
-"(2) Subseksyen (1) tidaklah mempunyai kuatkuasa untuk menjadikan boleh terpakai, berkenaan dengan peruntukan
-
-<!-- marginal: itu, apa-apa -->
-
-penalti bagi sesuatu kesalahan mulai dari
+"(2) Subseksyen (1) tidaklah mempunyai kuatkuasa untuk menjadikan boleh terpakai, berkenaan dengan peruntukan itu, apa-apa penalti bagi sesuatu kesalahan mulai dari
 
 <!-- page 2 -->
 

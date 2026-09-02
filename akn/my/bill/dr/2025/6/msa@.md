@@ -94,7 +94,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 7. Akta ibu dipinda dengan memasukkan selepas seksyen baharu 22c bahagian yang berikut:
 
-“bahagian iVa
+## “BAHAGIAN IVA
 
 ## PENGIMPORTAN ELEKTRIK DAN PENGEKSPORTAN
 
@@ -146,7 +146,7 @@ mengikut tatacara sebagaimana yang ditetapkan.
 
 9. Akta ibu dipinda dengan memasukkan selepas seksyen 32 bahagian yang berikut:
 
-“bahagian Via
+## “BAHAGIAN VIA
 
 ## ATRIBUT HIJAU
 

@@ -54,9 +54,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### New Chapter 2a of Part II
 
-3. The principal Act is amended by inserting after Chapter 2 of
-
-## Part II the following chapter:
+3. The principal Act is amended by inserting after Chapter 2 of Part II the following chapter:
 
 “Chapter 2a
 
@@ -462,7 +460,7 @@ Provided that the Commission—
 
 31. The principal Act is amended by inserting after the Second Schedule the following schedule:
 
-“Third Schedule
+## “THIRD SCHEDULE
 
 [Section 2]
 
@@ -522,11 +520,7 @@ The proposed new section 12g provides for the duty of the intermediation busines
 
 10. Clauses 9, 10, 11, 12, 13, 14, 15 and 16 seek to amend sections 166, 167, 169, 171, 194, 195, 196 and 197 of Act 715 respectively in consequence of the the introduction of a new Chapter 2a of Part II to regulate the licensing of intermediation business.
 
-11. Clauses 18, 19, 21 and 22 seek to amend sections 200, 210, 230 and 237 of Act 715 respectively in consequence of the introduction of a new
-
-## Chapter 2a of Part II to regulate the licensing of intermediation businesses.
-
-The proposed paragraph 200(b) of Act 715 seeks to allow the Commission to take action against any persons who assaults, hinders or obstructs a licensee, terminal licensee, intermediation business licensee or licensed operator or an employee of the licensee, terminal licensee, intermediation business licensee or licensed operator.
+11. Clauses 18, 19, 21 and 22 seek to amend sections 200, 210, 230 and 237 of Act 715 respectively in consequence of the introduction of a new Chapter 2a of Part II to regulate the licensing of intermediation businesses. The proposed paragraph 200(b) of Act 715 seeks to allow the Commission to take action against any persons who assaults, hinders or obstructs a licensee, terminal licensee, intermediation business licensee or licensed operator or an employee of the licensee, terminal licensee, intermediation business licensee or licensed operator.
 
 12. Clause 23 seeks to introduce a new section 241a to empower a Magistrate to award full punishment for any offences under Act 715.
 

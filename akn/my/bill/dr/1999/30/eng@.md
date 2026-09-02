@@ -6,7 +6,7 @@ intituled
 
 An Act to authorise the expenditure for part of the year ending on 31 December 2000.
 
-<!-- marginal: [1 January 2000] -->
+[1 January 2000]
 
 ENACTED by the Parliament of Malaysia as follows:
 
@@ -20,7 +20,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 2. (1) In conformity with paragraph (a) of Article 102 of the Federal Constitution, expenditure of an amount not exceeding the sum of eighteen billion four hundred and twenty-nine million four hundred and three thousand ringgit (RM18,429,403,000) to be issued from the Consolidated Fund for the service of that part of the year 2000 preceding the date of coming into operation of the Supply Act in respect of that year is hereby authorised.
 
-(2) The amount authorised for each service specified in Column (1) of the Schedule is as specified in Column (2).
+(2) The amount authorised for each service specified in Column
+
+(1) of the Schedule is as specified in Column (2).
 
 <!-- page 2 -->
 
@@ -28,121 +30,119 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Column (1)
 
-<!-- marginal: Column (2) -->
+Column (2)
 
-Purpose Title
+<!-- marginal: Purpose -->
 
-<!-- marginal: Amount -->
+Title Amount (RM)
 
-<!-- marginal: (RM) -->
+<!-- marginal: B. 1 -->
 
-B. 1 Parliament
+Parliament 19,499,000
 
-<!-- marginal: 19,499,000 -->
+<!-- marginal: B. 2 -->
 
-B. 2 Office of the Keeper of the Rulers' Seal
+Office of the Keeper of the Rulers' Seal 569,000
 
-<!-- marginal: 569,000 -->
+<!-- marginal: B. 3 -->
 
-B. 3 Audit Department
+Audit Department 20,903,000
 
-<!-- marginal: 20,903,000 -->
+<!-- marginal: B. 4 -->
 
-B. 4 Election Commission
+Election Commission 9,867,000
 
-<!-- marginal: 9,867,000 -->
+<!-- marginal: B. 5 -->
 
-B. 5 Public Services Commission
+Public Services Commission 7,942,000
 
-<!-- marginal: 7,942,000 -->
+<!-- marginal: B. 6 -->
 
-B. 6 Education Service Commission
+Education Service Commission 3,407,000
 
-<!-- marginal: 3,407,000 -->
+<!-- marginal: B. 7 -->
 
-B. 7 Prime Minister's Department
+Prime Minister's Department 597,865,000
 
-<!-- marginal: 597,865,000 -->
+<!-- marginal: B. 8 -->
 
-B. 8 Public Services Department
+Public Services Department 237,247,000
 
-<!-- marginal: 237,247,000 -->
+<!-- marginal: B. 9 -->
 
-B. 9 Statistics Department
+Statistics Department 26,244,000
 
-<!-- marginal: 26,244,000 -->
+<!-- marginal: B. 10 -->
 
-B. 10 Attorney General's Chambers
+Attorney General's Chambers 14,774,000
 
-<!-- marginal: 14,774,000 -->
+<!-- marginal: B. 11 -->
 
-B. 11 Anti-Corruption Agency
+Anti-Corruption Agency 20,877,000
 
-<!-- marginal: 20,877,000 -->
+<!-- marginal: B. 12 -->
 
-B. 12 Office of the Federal Secretary Sabah
+Office of the Federal Secretary Sabah 665,000
 
-<!-- marginal: 665,000 -->
+<!-- marginal: B. 13 -->
 
-B. 13 Office of the Federal Secretary Sarawak
+Office of the Federal Secretary Sarawak 487,000
 
-<!-- marginal: 487,000 -->
+<!-- marginal: B. 14 -->
 
-B. 14 Ministry of Housing and Local Government
+Ministry of Housing and Local Government 51,010,000
 
-<!-- marginal: 51,010,000 -->
+<!-- marginal: B. 15 -->
 
-B. 15 Town and Country Planning Department
+Town and Country Planning Department 8,279,000
 
-<!-- marginal: 8,279,000 -->
+<!-- marginal: B. 16 -->
 
-B. 16 Fire and Rescue Department
+Fire and Rescue Department 94,174,000
 
-<!-- marginal: 94,174,000 -->
+<!-- marginal: B. 17 -->
 
-B. 17 Ministry of Youth and Sports
+Ministry of Youth and Sports 50,446,000
 
-<!-- marginal: 50,446,000 -->
+<!-- marginal: B. 18 -->
 
-B. 18 Ministry of Primary Industries
+Ministry of Primary Industries 64,687,000
 
-<!-- marginal: 64,687,000 -->
+<!-- marginal: B. 19 -->
 
-B. 19 Ministry of Agriculture
+Ministry of Agriculture 542,191,000
 
-<!-- marginal: 542,191,000 -->
+<!-- marginal: B. 20 -->
 
-B. 20 Ministry of International Trade and
+Ministry of International Trade and 82,675,000 Industry
 
-<!-- marginal: 82,675,000 -->
+<!-- marginal: B. 21 -->
 
-Industry B. 21 Ministry of Domestic Trade and Consumer
+Ministry of Domestic Trade and Consumer 47,521,000 Affairs
 
-<!-- marginal: 47,521,000 -->
+<!-- marginal: B. 22 -->
 
-Affairs B. 22 Ministry of Culture, Arts and Tourism
+Ministry of Culture, Arts and Tourism 101,349,000
 
-<!-- marginal: 101,349,000 -->
+<!-- marginal: B. 23 -->
 
-B. 23 Department of National Archives
+Department of National Archives 7,425,000
 
-<!-- marginal: 7,425,000 -->
+<!-- marginal: B. 24 -->
 
-B. 24 Museum and Antiquities Department
+Museum and Antiquities Department 3,064,000
 
-<!-- marginal: 3,064,000 -->
+<!-- marginal: B. 25 -->
 
-B. 25 Ministry of Defence
+Ministry of Defence 1,959,988,000
 
-<!-- marginal: 1,959,988,000 -->
+<!-- marginal: B. 26 -->
 
-B. 26 Ministry of Education
+Ministry of Education 5,845,683,000
 
-<!-- marginal: 5,845,683,000 -->
+<!-- marginal: B. 27 -->
 
-B. 27 Department of National Library
-
-<!-- marginal: 12,943,000 -->
+Department of National Library 12,943,000
 
 <!-- page 3 -->
 
@@ -150,113 +150,113 @@ Consolidated Fund (Expenditure on Account)
 
 ### Column (1)
 
-<!-- marginal: Column (2) -->
+### Column (2)
 
-Purpose Titte
+<!-- marginal: Purpose -->
 
-<!-- marginal: Amounl -->
+Titte Amounl
 
-<!-- marginal: (RM) -->
+### (RM)
 
-B. 28 Treasury
+<!-- marginal: B. 28 -->
 
-<!-- marginal: 215,616,000 -->
+Treasury 215,616,000
 
-B. 29 Treasury General Services
+<!-- marginal: B. 29 -->
 
-<!-- marginal: 1,338,444,000 -->
+Treasury General Services 1,338,444,000
 
-B. 30 Contribution to Statutory Funds
+<!-- marginal: B. 30 -->
 
-<!-- marginal: 1,280,896,000 -->
+Contribution to Statutory Funds 1,280,896,000
 
-B. 31 Royal Customs and Excise Department
+<!-- marginal: B. 31 -->
 
-<!-- marginal: 141,503,000 -->
+Royal Customs and Excise Department 141,503,000
 
-B. 32 Valuation and Property Services
+<!-- marginal: B. 32 -->
 
-<!-- marginal: 20,155,000 -->
+Valuation and Property Services 20,155,000 Department
 
-Department B. 33 Ministry of Works
+<!-- marginal: B. 33 -->
 
-<!-- marginal: 597,768,000 -->
+Ministry of Works 597,768,000
 
-B. 34 Ministry of Health
+<!-- marginal: B. 34 -->
 
-<!-- marginal: 2,011,581,000 -->
+Ministry of Health 2,011,581,000
 
-B. 35 Ministry of Home Affairs
+<!-- marginal: B. 35 -->
 
-<!-- marginal: 71,982,000 -->
+Ministry of Home Affairs 71,982,000
 
-B. 36 Royal Malaysia Police
+<!-- marginal: B. 36 -->
 
-<!-- marginal: 934,392,000 -->
+Royal Malaysia Police 934,392,000
 
-B. 37 Immigration Department
+<!-- marginal: B. 37 -->
 
-<!-- marginal: 117,953,000 -->
+Immigration Department 117,953,000
 
-B. 38 Registration of Societies Department
+<!-- marginal: B. 38 -->
 
-<!-- marginal: 3,640,000 -->
+Registration of Societies Department 3,640,000
 
-B. 39 National Registration Department
+<!-- marginal: B. 39 -->
 
-<!-- marginal: 45,448,000 -->
+National Registration Department 45,448,000
 
-B. 40 Prison Department
+<!-- marginal: B. 40 -->
 
-<!-- marginal: 88,358,000 -->
+Prison Department 88,358,000
 
-B. 41 Civil Defence Department
+<!-- marginal: B. 41 -->
 
-<!-- marginal: 5,212,000 -->
+Civil Defence Department 5,212,000
 
-B. 42 Ministry of National Unity and Social
+<!-- marginal: B. 42 -->
 
-<!-- marginal: 119,613,000 -->
+Ministry of National Unity and Social 119,613,000 Development
 
-Development B. 43 Ministry of Land and Co-operative
+<!-- marginal: B. 43 -->
 
-<!-- marginal: 129,998,000 -->
+Ministry of Land and Co-operative 129,998,000 Development
 
-Development B. 44 Ministry of Information
+<!-- marginal: B. 44 -->
 
-<!-- marginal: 318,331,000 -->
+Ministry of Information 318,331,000
 
-B. 45 Ministry of Human Resources
+<!-- marginal: B. 45 -->
 
-<!-- marginal: 68,873,000 -->
+Ministry of Human Resources 68,873,000
 
-B. 46 Ministry of Science, Technology and the
+<!-- marginal: B. 46 -->
 
-<!-- marginal: 119,704,000 -->
+Ministry of Science, Technology and the 119,704,000 Environment
 
-Environment B. 47 Ministry of Transport
+<!-- marginal: B. 47 -->
 
-<!-- marginal: 169,867,000 -->
+Ministry of Transport 169,867,000
 
-B. 48 Ministry of Rural Development
+<!-- marginal: B. 48 -->
 
-<!-- marginal: 175,429,000 -->
+Ministry of Rural Development 175,429,000
 
-B. 49 Ministry of Energy, Communications
+<!-- marginal: B. 49 -->
 
-<!-- marginal: 16,630,000 -->
+Ministry of Energy, Communications 16,630,000 and Multimedia
 
-and Multimedia B. 50 Ministry of Entrepreneur Development
+<!-- marginal: B. 50 -->
 
-<!-- marginal: 468,281,000 -->
+Ministry of Entrepreneur Development 468,281,000
 
-B. 51 Ministry of Foreign Affairs
+<!-- marginal: B. 51 -->
 
-<!-- marginal: 137,948,000 -->
+Ministry of Foreign Affairs 137,948,000
 
 ## TOTAL
 
-<!-- marginal: 18,429,403,000 -->
+18,429,403,000
 
 <!-- page 4 -->
 

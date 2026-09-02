@@ -462,7 +462,9 @@ Dengan syarat bahawa—
 
 <!-- page 16 -->
 
-maksud itu, boleh membuat suatu permohonan bertulis kepada Menteri bagi taraf perintis, dengan syarat bahawa permohonan itu diterimapada atau selepas 11 September 2004.
+maksud itu, boleh membuat suatu permohonan bertulis kepada Menteri bagi taraf perintis, dengan syarat bahawa permohonan itu diterimapada atau selepas 11 September
+
+2004.
 
 (1DG) Mana-mana syarikat atau orang yang bercadang hendak mendaftarkan suatu syarikat, yang berhasrat hendak menubuhkan atau menyertai dalam aktiviti teknologi maklumat dan komunikasi atau multimedia dan berniat supaya suatu bangunan dibina, atau jika bangunan telah sedia ada, diduduki di Malaysia bagi maksud itu, boleh membuat suatu permohonan bertulis kepada Menteri untuk taraf perintis atau supaya diberikan taraf perintis apabila syarikat yang dicadangkan itu telah didaftarkan, berhubung dengan aktiviti dan juga bangunan itu, dengan syarat bahawa permohonan itu diterima pada atau selepas 1 Oktober 2005."; dan
 
@@ -830,9 +832,13 @@ Dengan syarat bahawa bagi suatu syarikat yang sedang beroperasi di Malaysia, sub
 
 <!-- page 27 -->
 
-21DA(2), 21E(2), 21F(2), 21G(2), 21H(2), 21I(2), 21J(2), (3), (4), (5), 21K(2), 21L(2) atau 21M(2)";
+21DA(2), 21E(2), 21F(2), 21G(2), 21H(2), 21I(2), 21J(2),
 
-(b) dalam perenggan (2)(b), dengan menggantikan perkataan "21(1), 21B(2), 21C(2), 21D(2), 21E(2) atau 21F(2)" dengan perkataan "21(1), 21B(2), 21BA(2), 21C(2), 21D(2), 21DA(2), 21E(2), 21F(2), 21G(2), 21H(2), 21I(2), 21J(2), (3), (4), (5), 21K(2), 21L(2) atau 21M(2)"; dan
+(3), (4), (5), 21K(2), 21L(2) atau 21M(2)";
+
+(b) dalam perenggan (2)(b), dengan menggantikan perkataan "21(1), 21B(2), 21C(2), 21D(2), 21E(2) atau 21F(2)" dengan perkataan "21(1), 21B(2), 21BA(2), 21C(2), 21D(2), 21DA(2), 21E(2), 21F(2), 21G(2), 21H(2), 21I(2), 21J(2),
+
+(3), (4), (5), 21K(2), 21L(2) atau 21M(2)"; dan
 
 (c) dengan menggantikan subseksyen (4) dengan subseksyen yang berikut:
 
@@ -874,9 +880,7 @@ Dengan syarat bahawa subseksyen ini hendaklah hanya terpakai jika Menteri berpua
 
 22. Seksyen 26c Akta ibu dipinda dengan menggantikan subseksyen (2) dengan subseksyen yang berikut:
 
-"(2) Jika suatu syarikat telah diberikan taraf perintis, berkenaan dengan suatu aktiviti berhubung dengan penyelidikan dan kemajuan, ia layak memohon untuk kelulusan bagi maksud suatu elaun cukai pelaburan di bawah subseksyen
-
-(1) dengan memberikan notis bertulis kepada Menteri untuk menyerahkan pemberian taraf perintis berhubung dengan aktiviti itu:
+"(2) Jika suatu syarikat telah diberikan taraf perintis, berkenaan dengan suatu aktiviti berhubung dengan penyelidikan dan kemajuan, ia layak memohon untuk kelulusan bagi maksud suatu elaun cukai pelaburan di bawah subseksyen (1) dengan memberikan notis bertulis kepada Menteri untuk menyerahkan pemberian taraf perintis berhubung dengan aktiviti itu:
 
 <!-- page 29 -->
 
@@ -1024,7 +1028,7 @@ Dengan syarat bahawa —
 
 (5) Suatu permohonan yang dibuat di bawah subseksyen
 
-### (1) dan (2) hendaklah mengikut apa-apa peraturan-peraturan
+(1) dan (2) hendaklah mengikut apa-apa peraturan-peraturan
 
 ### sebagaimana yang dibuat di bawah Akta ini.
 
@@ -1284,7 +1288,9 @@ Dengan syarat bahawa—
 
 (3) Menteri boleh mengubah terma dan syarat yang dikenakan di bawah subseksyen (1) dan (2).
 
-(4) Pada menjalankan kuasanya di bawah subseksyen (1), (2) dan (3), Menteri hendaklah bertindak dengan persetujuan bertulis Menteri Kewangan.
+(4) Pada menjalankan kuasanya di bawah subseksyen (1),
+
+(2) dan (3), Menteri hendaklah bertindak dengan persetujuan bertulis Menteri Kewangan.
 
 ### Pemberian kelulusan permohonan bagi elaun cukai
 
@@ -2086,9 +2092,7 @@ Fasal ini juga bertujuan untuk meminda perenggan 6(3)(a) Akta 327 untuk memasukk
 
 9. Fasal 8 bertujuan untuk meminda subseksyen 7(1) Akta 327 bagi membolehkan syarikat yang telah diberikan taraf perintis mengemukakan permohonan sijil perakuan perintis dalam tempoh dua puluh empat bulan bagi menggantikan tempoh enam bulan yang sedia ada.
 
-10. Fasal 9 bertujuan untuk memasukkan seksyen baru 9A ke dalam Akta 327 bagi membolehkan syarikat menyerahkan taraf perintis untuk memohon elaun pelaburan semula di bawah Jadual 7A kepada Akta Cukai Pendapatan
-
-1967. Peruntukan ini dimasukkan dalam Bajet 2003.
+10. Fasal 9 bertujuan untuk memasukkan seksyen baru 9A ke dalam Akta 327 bagi membolehkan syarikat menyerahkan taraf perintis untuk memohon elaun pelaburan semula di bawah Jadual 7A kepada Akta Cukai Pendapatan 1967. Peruntukan ini dimasukkan dalam Bajet 2003.
 
 11. Fasal 10 bertujuan untuk memotong seksyen 12 Akta 327 kerana seksyen ini tidak lagi diperlukan.
 

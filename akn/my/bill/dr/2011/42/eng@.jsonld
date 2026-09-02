@@ -1,0 +1,2063 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-42-2011",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Peaceful Assembly Bill 2011"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title, commencement and non-application"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "RIGHT TO ASSEMBLE PEACEABLY AND WITHOUT ARMS Right to organize assembly or participate in assembly"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "RESPONSIBILITIES OF ORGANIZERS, PARTICIPANTS AND POLICE Responsibilities of organizers"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An organizer shall ensure that an assembly is in compliance with this Act and any other written law."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2__para_j"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of subsection (1), the organizer shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ensure that the organization and conduct of an assembly is not in contravention of this Act or any order issued under this Act or any other written law;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ensure that he or any other person at the assembly does not do any act or make any statement which has a tendency to promote feelings of ill-will, discontent or hostility amongst the public at large or do anything which will disturb public tranquility;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ensure that he or any other person at the assembly does not commit any offence under any written law;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ensure that the organization and conduct of an assembly is in accordance with the notification of assembly given under subsection 9(1) and any restrictions and conditions which may be imposed under section 15;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "appoint such number of persons as he thinks necessary to be in charge of the orderly conduct of the assembly;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "co-operate with the public authorities;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ensure that the assembly will not endanger health or cause damage to property or the environment;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ensure that the assembly will not cause any significant inconvenience to the public at large;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ensure the clean-up of the place of assembly or bear the clean-up cost of the place of assembly; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of simultaneous assemblies or counter assemblies, ensure that the organization of the assemblies are not intended to specifically prevent the other assembly from taking place or interfere with the organization of such assembly. Responsibilities of participants"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "A participant shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_7__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_7__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_7__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_7__para_a__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_7__para_a__subpara_v"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "refrain from—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_7__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_7__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "disrupting or preventing any assembly;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_7__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_7__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "behaving offensively or abusively towards any person;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_7__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_7__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "doing any act or making any statement which has a tendency to promote feelings of ill-will, discontent or hostility amongst the public at large or doing anything which will disturb public tranquility;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_7__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_7__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "committing any offence under any written law at any assembly; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_7__para_a__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_7__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "causing damage to property; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "adhere to the orders given by the police, organizer or any person appointed by the organizer to be in charge of the orderly conduct of the assembly. Responsibilities of police"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A police officer may take such measures as he deems necessary to ensure the orderly conduct of an assembly in accordance with this Act and any other written law."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_1__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The right to organize an assembly or participate in an assembly peaceably and without arms under this Act shall not extend to the following:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a non-citizen;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an assembly held at any prohibited place and within fifty metres from the limit of the prohibited place;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a street protest;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in relation to the organization of an assembly, a person below the age of twenty-one years; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in relation to the participation in an assembly other than an assembly specified in the Second Schedule, a child."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_2__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person commits an offence if—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "being a non-citizen, he organizes or participates in an assembly;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he organizes or participates in an assembly held at any prohibited place and within fifty metres from the limit of the prohibited place;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he organizes or participates in a street protest;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "being a person below the age of twenty-one years, he organizes an assembly;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "being a child, he participates in an assembly other than an assembly specified in the Second Schedule; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he recruits or brings a child to an assembly or allows a child to attend an assembly other than an assembly specified in the Second Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person who commits an offence under paragraph (2)(a), (b), (c), (d) or (e) shall, on conviction, be liable to a fine not exceeding ten thousand ringgit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person who commits an offence under paragraph (2)(f) shall, on conviction, be liable to a fine not exceeding twenty thousand ringgit. Right of person who has interests"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person who has interests shall have the right to be informed of the details of an assembly in the manner specified in section 12 so as to allow him to raise his concerns or objections to the assembly."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_19"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "REQUIREMENTS ON ORGANIZING OF ASSEMBLY Notification of assembly"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The notification made under subsection 9(1) shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be in the form in the Fourth Schedule;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be signed by the organizer;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be accompanied by a copy of the consent of the owner or occupier of the place of assembly, if applicable;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be accompanied by any additional document as may be specified by the Officer in Charge of the Police District, if any; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e__subpara_v",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e__subpara_vi",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e__subpara_vii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e__subpara_viii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e__subpara_ix",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e__subpara_x",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e__subpara_xi"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "contain the following particulars:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the name and details of the organizer;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the correspondence address of the organizer;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the name and address of the speakers in the assembly, if any;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the purpose of the assembly;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e__subpara_ix",
+      "@type": "akn:subparagraph",
+      "eli:number": "ix",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the expected number of participants;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the date on which the assembly is to be held;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e__subpara_vi",
+      "@type": "akn:subparagraph",
+      "eli:number": "vi",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the place at which the assembly is to be held;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e__subpara_vii",
+      "@type": "akn:subparagraph",
+      "eli:number": "vii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the times at which it is proposed that the assembly will begin and end;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e__subpara_viii",
+      "@type": "akn:subparagraph",
+      "eli:number": "viii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e__subpara_viii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e__subpara_viii__subpara_B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e__subpara_viii__subpara_C"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if the assembly is a procession—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e__subpara_viii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e__subpara_viii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the proposed route of the procession;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e__subpara_viii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e__subpara_viii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any place at which it is proposed that the procession will stop; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e__subpara_viii__subpara_C",
+      "@type": "akn:subparagraph",
+      "eli:number": "C",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e__subpara_viii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the length of time it is proposed that the procession will remain at each such place;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e__subpara_x",
+      "@type": "akn:subparagraph",
+      "eli:number": "x",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the person appointed by the organizer to be in charge of the orderly conduct of the assembly; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e__subpara_xi",
+      "@type": "akn:subparagraph",
+      "eli:number": "xi",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_10__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a description of the sound amplification equipment or device proposed to be used, if any, during the assembly. Consent of owner or occupier of place of assembly"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The organizer of an assembly, other than a religious assembly or a funeral procession or an assembly held at a designated place of assembly, shall obtain the consent of the owner or occupier of the place of assembly for it to be used for the purpose of the assembly. Requirement to inform persons who have interests"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_12__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_12__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_12__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_12__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon receipt of the notification under subsection 9(1), the Officer in Charge of the Police District shall, within forty-eight hours, cause the details of the assembly to be informed to persons who have interests—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_12__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by posting a notice conspicuously at various locations at the place of assembly; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_12__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by any reasonable means suitable or necessary so as to make the information available to such persons."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person who has interests may, in writing, inform his concerns or objections to the assembly together with his reasons to the Officer in Charge of the Police District within five days of being informed of the assembly under subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_12__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Officer in Charge of the Police District shall take into account the concerns or objections received for the purpose of imposing restrictions and conditions under section 15. Meeting with organizer"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Officer in Charge of the Police District may at any time after receiving the notification under subsection 9(1), if the circumstances warrant it, call the organizer for a meeting to advise the organizer on the assembly. Response to notification"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_14__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Officer in Charge of the Police District shall respond to the notification under subsection 9(1) within twelve days of the receipt of the notification and shall, in the response, inform the organizer of the restrictions and conditions imposed under section 15, if any."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the Officer in Charge of the Police District does not respond to the notification in accordance with subsection (1), the assembly shall proceed as proposed in the notification. Restrictions and conditions"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Officer in Charge of the Police District may impose restrictions and conditions on an assembly for the purpose of security or public order, including the protection of the rights and freedoms of other persons."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15__subsec_2__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The restrictions and conditions imposed under this section may relate to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the date, time and duration of assembly;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the place of assembly;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the manner of the assembly;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the conduct of participants during the assembly;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the payment of clean-up costs arising out of the holding of the assembly;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any inherent environmental factor, cultural or religious sensitivity and historical significance of the place of assembly;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the concerns and objections of persons who have interests; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other matters the Officer in Charge of the Police District deems necessary or expedient in relation to the assembly."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who fails to comply with any restrictions and conditions under this section commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit. Appeal on restrictions and conditions"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_16__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any organizer aggrieved by the imposition of restrictions and conditions under section 15 may, within four days of being informed of the restrictions and conditions, appeal to the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall give his decision within six days from the day the appeal under subsection (1) is received by him. Simultaneous assemblies"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_17__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the Officer in Charge of a Police District receives notifications for two or more assemblies to be organized, and the assemblies are proposed to be held at the same time, date and place, the assemblies may, subject to restrictions and conditions imposed under section 15, be held simultaneously."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_17__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_17__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If, in the opinion of the Officer in Charge of the Police District, the assemblies referred to in subsection (1) cannot be held simultaneously—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_17__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Officer in Charge of the Police District shall give preference to the organizer who first submitted the notification to hold the assembly in the place of assembly stated in the notification, unless the place of assembly is traditionally or contractually to be used for the other assembly; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_17__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of notifications of assembly received at the same time, the Officer in Charge of the Police District shall give preference to the organizer whose name is extracted in a draw held by the Officer in Charge of the Police District to hold the assembly in the place of assembly stated in the notification. Counter assembly"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the Officer in Charge of a Police District receives a notification of a counter assembly and it is evident that the organization of the counter assembly will cause conflict between the participants of the assemblies, the Officer in Charge of the Police District shall give an alternative for the counter assembly to be organized at another time, date or place. Presumption as to organizer"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_19__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_19__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_19__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "If—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an assembly is held at a designated place of assembly;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an assembly is specified in the Third Schedule;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_19__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a notification required under subsection 9(1) was not given; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_19__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a notification required under subsection 9(1) was given but the identity of the organizer stated in the notification is false, any person who initiates, leads, promotes, sponsors, holds or supervises the assembly, or invites or recruits participants or speakers for the assembly, shall be deemed to be the organizer of the assembly."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_9__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_9__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_9__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An organizer shall, within thirty days before the date of an assembly, notify the Officer in Charge of the Police District in which the assembly is to be held."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_9__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_9__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection (1) shall not apply to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_9__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an assembly which is to be held at a designated place of assembly; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_9__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other assemblies as may be specified in the Third Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the assembly is a religious assembly or a funeral procession, the organizer may inform the Officer in Charge of the Police District in which the assembly or procession is to be held; and may, if assistance is needed to maintain traffic or crowd control, request for such assistance."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_9__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The notification under subsection (1) shall be given to the Officer in Charge of the Police District in which the assembly is to be held by A.R. registered post or courier or by hand."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_9__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit. Requirements regarding notification of assembly"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_1__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Peaceful Assembly Act 2011."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_1__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_1__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall not apply to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_1__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_1__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an assembly which is an election campaign under the Election Offences Act 1954 [Act 5]; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_1__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_1__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an assembly which is a strike, lock-out or picket under the Industrial Relations Act 1967 [Act 177] and the Trade Unions Act 1959 [Act 262]. Objects"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The objects of this Act are to ensure—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "so far as it is appropriate to do so, that all citizens have the right to organize assemblies or to participate in assemblies, peaceably and without arms; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that the exercise of the right to organize assemblies or to participate in assemblies, peaceably and without arms, is subject only to restrictions deemed necessary or expedient in a democratic society in the interest of the security of the Federation or any part thereof or public order, including the protection of the rights and freedoms of other persons. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "“rights and freedoms of other persons” includes—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the right to peaceful enjoyment of one’s possession;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the right to freedom of movement;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the right to enjoy the natural environment; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the right to carry on business; “road” has the meaning assigned to it in the Road Transport Act 1987 [Act 333]; “child” means a person below the age of fifteen years; “Minister” means the Minister charged with the responsibility for home affairs; “person who has interests” means a person residing, working or carrying on business or having or owning residential or commercial property in the vicinity of or at the place of assembly; “organizer” means a person who is responsible for the organization of an assembly, including the arranging, convening, collecting or forming of the assembly, or who is responsible for the conduct of an assembly; “assembly” means an intentional and temporary assembly of a number of persons in a public place, whether or not the assembly is at a particular place or moving; “counter assembly” means an assembly organized to convey disagreement with the purpose for which another assembly is organized, and held at the same time, date and place or approximately at the same time, date and place as the other assembly; “simultaneous assemblies” means two or more assemblies to be held at the same time, date and place, but which have no relationship to each other; “participant” means a person intentionally or voluntarily present for the purpose of an assembly; “street protest” means an open air assembly which begins with a meeting at a specified place and consists of walking in a mass march or rally for the purpose of objecting to or advancing a particular cause or causes; “arms” means any firearm, ammunition, explosive, corrosive, injurious or obnoxious substance, stick, stone, or any weapon or object, which by its nature, can be used to incite fear or cause injury to persons, or damage to property; “public place” means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a road;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a place open to or used by the public as of right; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_2__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_2__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_2__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a place for the time being open to or used by the public, whether or not—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_2__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_2__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the place is ordinarily open to or used by the public;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_2__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_2__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by the express or implied consent of the owner or occupier; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_2__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_2__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "on payment of money; “prohibited places” means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_3",
+      "@type": "akn:list",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the protected areas and protected places declared under the Protected Areas and Protected Places Act 1959 [Act 298]; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_I__cl_3__list_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the places as may be specified in the First Schedule; “place of assembly” means the place where the assembly is held and in relation to a procession, includes a place at or through which it is proposed the assembly will stop or pass; “designated place of assembly” means a place designated by the Minister under section 25."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_21"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ENFORCEMENT Power of arrest"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI__cl_27"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MISCELLANEOUS Maintenance of register"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI__cl_22__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI__cl_22__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI__cl_22__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Officer in Charge of a Police District shall maintain a register containing the record of notifications received under subsection 9(1), in chronological order."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI__cl_22__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The register referred to in subsection (1) shall be in the form as the Minister may prescribe. Recordings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A police officer may make any form of recording of an assembly. Media access"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any media representative may have reasonable access to a place of assembly and use any equipment to report on the assembly. Designated place of assembly"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI__cl_25__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI__cl_25__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI__cl_25__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, by notification in the Gazette, designate any place to be a designated place of assembly."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI__cl_25__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the avoidance of doubt, any person who organizes or participates in an assembly held at a designated place of assembly shall have the same responsibilities as an organizer and a participant under sections 6 and 7. Power to amend Schedules"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, by order published in the Gazette, amend the Schedules. Regulations"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may make regulations for the better carrying out of the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_20__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_20__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_20__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_20__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A police officer may, without warrant, arrest any organizer or participant—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_20__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_20__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "who, during an assembly, refuses or fails to comply with any restrictions and conditions under section 15;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_20__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_20__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "who, during an assembly, has in his possession any arms; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_20__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_20__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "who recruits or brings a child to an assembly other than an assembly specified in the Second Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The police officer shall, before exercising the power of arrest under this section, take necessary measures to ensure voluntary compliance by the organizer or participant. Power to disperse assembly"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_21__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_21__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_21__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_21__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_21__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_21__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_21__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_21__subsec_1__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A police officer may issue an order to disperse in the following circumstances:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_21__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the assembly is held at a prohibited place or within fifty metres from the limit of a prohibited place;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_21__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the assembly is or has become a street protest;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_21__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any person at the assembly does any act or makes any statement which has a tendency to promote feelings of ill-will, discontent or hostility amongst the public at large or does anything which will disturb public tranquility;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_21__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any person at the assembly commits any offence under any written law;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_21__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the participants did not or do not comply with the restrictions and conditions imposed under section 15; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_21__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the participants are engaging in, or about to engage in, unlawful or disorderly conduct or violence towards persons or property."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The police officer, in exercising the power to disperse an assembly under this section, may use all reasonable force."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_21__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~part_V__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who fails to comply with the order issued under this section commits an offence and shall, on conviction, be liable to a fine not exceeding twenty thousand ringgit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Section 3] PROHIBITED PLACES Dams, reservoirs and water catchment areas Water treatment plants Electricity generating stations Petrol stations Hospitals Fire stations Airports Railways Land public transport terminals Ports, canals, docks, wharves, piers, bridges and marinas Places of worship Kindergartens and schools"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_2",
+      "@type": "akn:schedule",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Paragraph 4(1)(e)] ASSEMBLIES IN WHICH A CHILD MAY PARTICIPATE Religious assemblies Funeral processions Assemblies related to custom Assemblies approved by the Minister"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_3",
+      "@type": "akn:schedule",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Paragraph 9(2)(b)] ASSEMBLIES FOR WHICH NOTIFICATION IS NOT REQUIRED Religious assemblies Funeral processions Wedding receptions Open houses during festivities Family gatherings Family day held by an employer for the benefit of his employees and their families General meetings of societies or associations"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4",
+      "@type": "akn:schedule",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_14"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Section 10] FORM NOTIFICATION UNDER SUBSECTION 9(1) To: …………………………………………. (name and address of Officer in Charge of a Police District) …………………………………………. …………………………………………. …………………………………………."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Name and Identity Card No. of organizer*: …………………………….... ..................................................................................................................."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_10",
+      "@type": "akn:paragraph",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_10__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4",
+      "schema:name": {
+        "@language": "en",
+        "@value": "If the assembly is a procession—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the route of the procession:…………………………........................."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any place at which the procession will stop: ………………........…"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the length of time the procession will remain at each place: …......................................................................................................"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_11",
+      "@type": "akn:paragraph",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Expected number of participants:………….....................................……."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_12",
+      "@type": "akn:paragraph",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The person appointed by the organizer to be in charge of the orderly conduct of the assembly:………...……...……………………............................. .........................................................................................................................."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_13",
+      "@type": "akn:paragraph",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Description of the sound amplification equipment or device to be used, if any, during the assembly:............................................................................."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_14",
+      "@type": "akn:paragraph",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Other information, if necessary:…………………......……....................... …………………………………………………………….....................………… I confirm that all the information given in this notification is valid and correct. Signature: ……………………………………….. Name: ……………………………………………… Date: ………………………………….................... Note: *If there is more than one organizer, please specify the names, identity card number and contact details of all organizers as attachment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Address of organizer*:…………………………………………………......… ………………………………………………………………………………… …………………………………………………………………………………"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Correspondence address of organizer (if different from above address): ………………………………………………………………………………… …………………………………………………………………………………"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Contact details of organizer*: Tel. no.: ...................................................... Fax. no.: ...................................................... Email: ……………………………………….."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Name and address of the speakers in the assembly, if any: .................... ..................................................................................................................."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_6",
+      "@type": "akn:paragraph",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Purpose of assembly:…………………………………………..................… …………………………………………………………………………………"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_7",
+      "@type": "akn:paragraph",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Date of assembly:………………………………………………..................."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_8",
+      "@type": "akn:paragraph",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Place of assembly:……………………………………………......................"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4__para_9",
+      "@type": "akn:paragraph",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/42/eng@/~sched_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Times at which the assembly will begin and end:…………....................."
+      }
+    }
+  ]
+}

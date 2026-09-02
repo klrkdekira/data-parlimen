@@ -1,0 +1,448 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-6-2015",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_10"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-undang Langkah-langkah Khas Menentang Keganasan di Luar Negara 2015"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menteri boleh membuat peraturan-peraturan yang perlu atau suai manfaat untuk memberikan kuat kuasa penuh kepada atau untuk melaksanakan peruntukan Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta langkah-langkah khas menentang keganasan di luar Negara 2015."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh menteri melalui pemberitahuan dalam Warta. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "“dokumen perjalanan” ertinya suatu pasport atau apa-apa bentuk dokumen pengenalan diri yang sah yang dikeluarkan oleh mana-mana kerajaan bagi maksud perjalanan merentasi sempadan antarabangsa; “harta” ertinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tiap-tiap jenis aset, sama ada yang zahir atau tidak zahir, harta alih atau tak alih, yang ketara atau tidak ketara, walau bagaimanapun diperoleh; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dokumen atau surat cara undang-undang dalam apa-apa bentuk, termasuk elektronik atau digital, yang menjadi keterangan tentang hakmilik, atau kepentingan mengenai, aset itu, termasuk mata wang, kredit bank, deposit dan sumber kewangan yang lain, cek kembara, cek bank, kiriman wang, produk pasaran modal, draf dan surat kredit, sama ada terletak di dalam atau di luar malaysia, dan termasuklah kepentingan di sisi undang-undang atau ekuiti, sama ada sepenuhnya atau sebahagiannya, mengenai mana-mana harta itu; “ketua Pengarah imigresen” ertinya ketua Pengarah imigresen yang dilantik di bawah seksyen 3 Akta imigresen 1959/63 [Akta 155]; “menteri” ertinya menteri yang dipertanggungkan dengan tanggungjawab bagi hal ehwal dalam negeri; “organisasi pengganas tersenarai” ertinya mana-mana entiti ditentukan yang diisytiharkan di bawah seksyen 66b dan 66c Akta Pencegahan Pengubahan Wang haram, Pencegahan Pembiayaan keganasan dan hasil daripada Aktiviti haram 2001 [Akta 613]; “perbuatan keganasan” mempunyai erti yang sama yang diberikan kepadanya oleh kanun keseksaan [Akta 574]. Pemakaian luar wilayah"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini hendaklah, berhubung dengan mana-mana orang, walau apa pun kerakyatan atau kewarganegaraannya, mempunyai kuat kuasa di luar dan juga di dalam malaysia, dan jika suatu kesalahan di bawah Akta ini dilakukan oleh mana-mana orang di mana-mana tempat di luar malaysia, dia boleh diuruskan berkenaan dengan kesalahan sedemikian seolah-olah kesalahan itu telah dilakukan di mana-mana tempat dalam malaysia. Luar Negara Perbuatan keganasan di luar negara"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "langkah-langkah khas di bawah Akta ini hendaklah terpakai bagi mana-mana orang yang—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membuat perjalanan ke malaysia; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membuat perjalanan atau berniat untuk membuat perjalanan ke sesuatu negara asing atau ke mana-mana bahagian sesuatu negara asing dari atau menerusi malaysia, untuk terlibat dengan perbuatan melakukan atau menyokong perbuatan keganasan yang melibatkan organisasi pengganas tersenarai di sesuatu negara asing atau di mana-mana bahagian sesuatu negara asing. Penggantungan atau pembatalan dokumen perjalanan Malaysia"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_5__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_5__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_5__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_5__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Atas permintaan ketua Polis Negara, ketua Pengarah imigresen boleh melalui perintah menggantung atau membatalkan semua dokumen perjalanan malaysia yang telah dikeluarkan kepada seseorang dan hendaklah memberitahu orang yang kepadanya dokumen perjalanan itu telah dikeluarkan mengenai penggantungan atau pembatalan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_5__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_5__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ketua Polis Negara boleh membuat suatu permintaan di bawah subseksyen (1) jika ketua Polis Negara—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_5__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengesyaki bahawa orang itu mungkin meninggalkan malaysia untuk terlibat dengan perbuatan melakukan atau menyokong perbuatan keganasan yang melibatkan organisasi pengganas tersenarai di sesuatu negara asing atau di mana-mana bahagian sesuatu negara asing; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_5__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mempercayai bahawa penggantungan atau pembatalan sedemikian adalah perlu untuk mencegah orang itu daripada melakukan perbuatan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seseorang yang dokumen perjalanannya telah digantung atau dibatalkan boleh membuat permohonan secara bertulis kepada ketua Pengarah imigresen untuk mengkansel perintah penggantungan atau perintah pembatalan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_5__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Atas suatu permohonan di bawah subseksyen (3), ketua Pengarah imigresen boleh mengkanselkan atau mengekalkan perintah penggantungan atau perintah pembatalan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_5__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tiada seorang pun yang dokumen perjalanan malaysianya telah digantung atau dibatalkan di bawah Akta ini boleh memperoleh dokumen perjalanan malaysia gantian atau sementara semasa perintah penggantungan atau perintah pembatalan di bawah subseksyen (1) berkuat kuasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_5__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seseorang yang melanggar subseksyen (5) melakukan suatu kesalahan dan hendaklah dihukum dengan pemenjaraan selama tempoh sehingga dua tahun. Permintaan bagi penyerahan dokumen perjalanan asing"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_6__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_6__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_6__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Atas permintaan ketua Polis Negara, menteri boleh memerintahkan penyerahan dokumen perjalanan asing seseorang untuk empat belas hari jika menteri berpuas hati bahawa—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_6__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "orang itu mungkin meninggalkan malaysia untuk terlibat dengan perbuatan melakukan atau menyokong perbuatan keganasan yang melibatkan organisasi pengganas tersenarai di sesuatu negara asing atau di mana-mana bahagian sesuatu negara asing; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_6__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penyerahan dokumen perjalanan asing orang itu adalah perlu untuk mencegah orang itu daripada melakukan perbuatan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_6__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_6__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ketua Polis Negara boleh membuat suatu permintaan di bawah subseksyen (1) jika ketua Polis Negara—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_6__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_6__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengesyaki bahawa orang itu mungkin meninggalkan malaysia untuk terlibat dengan perbuatan melakukan atau menyokong perbuatan keganasan yang melibatkan organisasi pengganas tersenarai di sesuatu negara asing atau di mana-mana bahagian sesuatu negara asing; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_6__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_6__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mempercayai bahawa penyerahan dokumen perjalanan asing orang itu adalah perlu untuk mencegah orang itu daripada melakukan perbuatan itu. Luar Negara"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika menteri telah membuat suatu perintah di bawah subseksyen (1), sesuatu permintaan yang kemudian di bawah seksyen ini berhubung dengan orang yang sama tidak boleh dibuat melainkan jika ketua Polis Negara mengemukakan maklumat tambahan untuk menyokong permintaan itu. Tuntutan bagi penyerahan dokumen perjalanan asing"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_7__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_7__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_7__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_7__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika menteri telah membuat suatu perintah di bawah seksyen 6, seseorang pegawai polis boleh menuntut supaya orang itu menyerahkan dokumen perjalanan asing orang itu kepada pegawai polis itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika orang itu tidak menyerahkan dokumen perjalanan asing orang itu dengan serta-merta, pegawai polis itu boleh menyita dokumen perjalanan asing orang itu, sama ada dokumen perjalanan asing itu berada dalam milikan atau kawalannya atau tidak."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seseorang melakukan kesalahan jika orang itu tidak menyerahkan dokumen perjalanan itu kepada pegawai polis itu dengan serta-merta setelah suatu tuntutan dibuat di bawah subseksyen (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_7__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sesuatu dokumen perjalanan asing yang diperoleh oleh seorang pegawai polis di bawah seksyen ini hendaklah dengan serta-merta dikembalikan kepada orang yang kepadanya dokumen perjalanan itu telah dikeluarkan setelah habis tempoh perintah yang dibuat oleh menteri di bawah seksyen 6 yang berhubungan dengan dokumen itu melainkan jika penyimpanan dokumen perjalanan asing itu dikehendaki di bawah mana-mana undang- undang bertulis yang lain."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_7__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tiada seorang pun yang dokumen perjalanan asingnya telah disita di bawah seksyen ini boleh memperoleh dokumen perjalanan asing gantian atau sementara semasa dokumen perjalanan yang sedia ada disita."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_7__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seseorang yang melanggar subseksyen (3) atau (5) melakukan suatu kesalahan dan hendaklah dihukum dengan pemenjaraan selama tempoh sehingga dua tahun. Pemulaan pendakwaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tiada pendakwaan bagi atau berhubung dengan mana-mana kesalahan di bawah Akta ini boleh dimulakan kecuali oleh atau dengan keizinan bertulis Pendakwa Raya. Ketidakpakaian Akta Kehadiran Wajib Pesalah-Pesalah 1954 dan seksyen 173a, 293 dan 294 Kanun Tatacara Jenayah"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta kehadiran Wajib Pesalah-Pesalah 1954 [Akta 461] dan seksyen 173a, 293 dan 294 kanun tatacara Jenayah [Akta 593] tidak terpakai bagi suatu kesalahan di bawah Akta ini. Peraturan-peraturan"
+      }
+    }
+  ]
+}

@@ -6,19 +6,19 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title 2. Amendment of Acts
 
-## Part II
+## PART II
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
 3. Commencement of amendments to the Income Tax Act 1967 4. Amendment of section 66a 5. Amendment of section 77b 6. Amendment of section 82c 7. Amendment of section 113a 8. Amendment of section 125 9. Amendment of Schedule 5
 
-## Part III
+## PART III
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
@@ -44,7 +44,7 @@
 
 <!-- page 2 -->
 
-## Part IV
+## PART IV
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
@@ -94,7 +94,7 @@
 
 42. New section 77d
 
-## Part V
+## PART V
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
@@ -106,7 +106,7 @@
 
 <!-- page 3 -->
 
-## Part VI
+## PART VI
 
 ## AMENDMENT TO THE WINDFALL PROFIT LEVY ACT 1998
 
@@ -114,7 +114,7 @@
 
 47. New section 27a
 
-## Part VII
+## PART VII
 
 ## AMENDMENTS TO THE SALES TAX ACT 2018
 
@@ -144,7 +144,7 @@ An Act to provide for measures relating to the implementation of the collection,
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -160,7 +160,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 Profit Levy Act 1998 [Act 592], the Sales Tax Act 2018 [Act 806] and the Service Tax Act 2018 [Act 807] are amended in the manner specified in Parts II, III, IV, V, VI, VII and VIII respectively.
 
-## Part II
+## PART II
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
@@ -224,7 +224,7 @@ then, if no prosecution under subsection (1) has been instituted in respect of t
 
 “Provided that the appellant shall give a written notice to the Special Commissioners and the Director General within a period of six months from the date the appellant receives a written notice from the Director General under subsection 102(1).”.
 
-## Part III
+## PART III
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
@@ -320,7 +320,7 @@ furnish any form prescribed under this Act in an electronic medium or by way of 
 
 19. Subparagraph 9(1) of Schedule 3 to the principal Act is amended in paragraph (c) of the proviso, by substituting for the words “in writing addressed to the Director General” the words “furnished to the Director General in the prescribed form in an electronic medium or by way of an electronic transmission in accordance with section 57a”.
 
-## Part IV
+## PART IV
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
@@ -504,7 +504,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 <!-- page 20 -->
 
-section 35a for an assessment under section 36, 36a, 36aa, 36b or 36ca and—
+section 35a for an assessment under section 36, 36a,
+
+## 36AA, 36B OR 36CA AND—
 
 (a) the Collector has determined that the instrument is already fully stamped; or
 
@@ -630,7 +632,7 @@ and where no prosecution under subsection (1) has been instituted in respect of 
 
 77d. The Collector may prescribe such forms as may be required for the purposes of this Act.”.
 
-## Part V
+## PART V
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
@@ -652,7 +654,7 @@ and where no prosecution under subsection (1) has been instituted in respect of 
 
 <!-- page 26 -->
 
-## Part VI
+## PART VI
 
 ## AMENDMENT TO THE WINDFALL PROFIT LEVY ACT 1998
 
@@ -690,7 +692,7 @@ any defect or breakdown in the electronic service or in the equipment used for t
 
 (4) For the purposes of this section, “registered user” means any person who is authorized in writing by the Director General to gain access to and use the electronic service.”.
 
-## Part VII
+## PART VII
 
 ## AMENDMENTS TO THE SALES TAX ACT 2018
 
@@ -752,7 +754,7 @@ This Bill seeks to amend the Income Tax Act 1967 (“Act 53”), the Real Proper
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-## Part II of this Bill seeks to amend the Income Tax Act 1967.
+Part II of this Bill seeks to amend the Income Tax Act 1967.
 
 2. Clause 4 seeks to introduce new subsections (4) to (7) into section 66a of Act 53.
 
@@ -778,7 +780,7 @@ The proposed new subsection 66a(7) provides for an offence under the new subsect
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
-## Part III of this Bill seeks to amend the Real Property Gains Tax Act 1976.
+Part III of this Bill seeks to amend the Real Property Gains Tax Act 1976.
 
 8. Clause 11 seeks to amend section 13 of Act 169.
 
@@ -808,9 +810,7 @@ Clause 14 further seeks to provide that the certificate shall be deemed to have 
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
-## Part IV of this Bill seeks to amend the Stamp Act 1949, which among others,
-
-to introduce self-assessment system for stamp duty.
+Part IV of this Bill seeks to amend the Stamp Act 1949, which among others, to introduce self-assessment system for stamp duty.
 
 15. Clause 21 seeks to amend section 3a of Act 378 consequential to the introduction of the self-assessment system for stamp duty.
 
@@ -888,7 +888,7 @@ The proposed new subsection 72d(2) provides that the Collector may require the d
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
-## Part V of this Bill seeks to amend the Petroleum (Income Tax) Act 1967.
+Part V of this Bill seeks to amend the Petroleum (Income Tax) Act 1967.
 
 31. Clause 44 seeks to amend subsection 34b(7) of Act 543 to provide that the period for any person to issue a substitude electronic invoice is within the period of seventy-two hours from the time of issuance of a defective electronic invoice replacing the current three days requirement.
 
@@ -898,13 +898,13 @@ The proposed new subsection 72d(2) provides that the Collector may require the d
 
 ## AMENDMENT TO THE WINDFALL PROFIT LEVY ACT 1998
 
-## Part VI of this Bill seeks to amend the Windfall Profit Levy Act 1998.
+Part VI of this Bill seeks to amend the Windfall Profit Levy Act 1998.
 
 33. Clause 47 seeks to introduce a new section 27a into Act 592 to allow the Director General to provide an electronic service to any registered user for the filing or furnishing of any application, return, declaration or any other document, and the service of any notice, direction, order, permit, receipt or any other document.
 
 ## AMENDMENTS TO THE SALES TAX ACT 2018
 
-## Part VII of this Bill seeks to amend the Sales Tax Act 2018.
+Part VII of this Bill seeks to amend the Sales Tax Act 2018.
 
 34. Clause 49 seeks to amend subsection 26(2) of Act 806 to allow the registered manufacturer whose taxable period has been varied to furnish a return not later than the last day of the month following the end of the varied taxable period.
 
@@ -914,7 +914,7 @@ The proposed new subsection 72d(2) provides that the Collector may require the d
 
 ## AMENDMENT TO THE SERVICE TAX ACT 2018
 
-## Part VIII of this Bill seeks to amend the Service Tax Act 2018.
+Part VIII of this Bill seeks to amend the Service Tax Act 2018.
 
 37. Clause 53 seeks to amend subsection 26(2) of Act 807 to allow the registered person whose taxable period has been varied to furnish a return not later than the last day of the month following the end of the varied taxable period.
 

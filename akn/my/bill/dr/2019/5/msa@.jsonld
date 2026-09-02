@@ -273,7 +273,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (12)— Seksyen baharu 27a"
+        "@value": "dalam subseksyen (12)—"
       }
     },
     {
@@ -293,7 +293,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_e",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perkataan “subseksyen (9)” di mana-mana jua terdapat dengan perkataan “subseksyen (8)”."
+        "@value": "dengan menggantikan perkataan “subseksyen (9)” di mana-mana jua terdapat dengan perkataan “subseksyen (8)”. Seksyen baharu 27a"
       }
     },
     {

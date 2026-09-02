@@ -48,7 +48,9 @@ Corporation (Incorporation) Act 1966.
 
 <!-- marginal: National -->
 
-(2) The National Productivity Council (Incor-
+(2) The National Productivity Council
+
+<!-- marginal: (Incor- -->
 
 <!-- marginal: Produc- -->
 
@@ -84,7 +86,13 @@ commencement of this Act, be known as "the Director General" and all references 
 
 (4) The change of names provided by subsections (1) and (2) shall not affect any rights or obligations of the Council or render defective any legal proceedings by or against it; and any legal proceedings that could have been continued or commenced by or against it prior to the commencement of this Act may be continued or commenced under its new name.
 
-Amendment 3. The principal Act is amended by substituting for of section 2. section 2 the following:
+<!-- marginal: Amendment -->
+
+3. The principal Act is amended by substituting for
+
+<!-- marginal: of section 2. -->
+
+section 2 the following:
 
 "Interpre- 2. In this Act, unless the context otherwise tation. requires— " 'Corporation '' means the National Productivity Corporation established under section 3 (1); "Director General" means the executive officer appointed under section 5 (1);
 
@@ -94,7 +102,11 @@ Amendment 3. The principal Act is amended by substituting for of section 2. sect
 
 development.".
 
-Amendment 4. Section 3 of the principal Act is amended— of section 3.
+<!-- marginal: Amendment -->
+
+4. Section 3 of the principal Act is amended—
+
+<!-- marginal: of section 3. -->
 
 (a) by inserting, immediately after the words "Ministry of Trade and Industry" in paragraph
 
@@ -130,11 +142,17 @@ sector;";
 
 <!-- marginal: section 3A, -->
 
-immediately after section 3, the following new section 3A:
+immediately after section 3, the following new section
 
-"Alternate
+<!-- marginal: 3A: -->
 
-3A. (1) The Minister shall, in respect of each members. member of the Corporation specified in section 3 (3) (c) to (g), appoint one person from the same Ministry or department as that member to be an alternate member to attend, in place of the member, meetings of the Corporation that the member is for any reason unable to attend.
+<!-- marginal: "Alternate -->
+
+3A. (1) The Minister shall, in respect of each
+
+<!-- marginal: members. -->
+
+member of the Corporation specified in section 3 (3) (c) to (g), appoint one person from the same Ministry or department as that member to be an alternate member to attend, in place of the member, meetings of the Corporation that the member is for any reason unable to attend.
 
 (2) When attending meetings of the Corporation, an alternate member shall for all purposes be deemed to be a member of the Corporation.
 
@@ -142,23 +160,19 @@ immediately after section 3, the following new section 3A:
 
 <!-- page 4 -->
 
-Amendment 6. Section 5 of the principal Act is amended— of section 5.
+<!-- marginal: Amendment -->
+
+6. Section 5 of the principal Act is amended—
+
+<!-- marginal: of section 5. -->
 
 (a) by substituting for subsection (1) and the marginal note to section 5 the following;
 
 "Appoint- 5. (1) The Corporation— ment of Board of
 
-(a) shall, with the approval of the Management Minister, appoint an executive and other officers. officer who shall be
+(a) shall, with the approval of the Management Minister, appoint an executive and other officers. officer who shall be the Director General;
 
-<!-- marginal: the -->
-
-Director General;
-
-(b) may appoint
-
-<!-- marginal: such other -->
-
-officers as may be necessary on such terms and conditions as it thinks fit,
+(b) may appoint such other officers as may be necessary on such terms and conditions as it thinks fit,
 
 to the Board of Management which shall be responsible for the day to day administration and management of the affairs of the Corporation and which shall perform such duties and exercise such powers as may be delegated to it by the Corporation.";
 
@@ -166,7 +180,9 @@ to the Board of Management which shall be responsible for the day to day adminis
 
 (c) by substituting for the full stop at the end of paragraph (d) of subsection (2) a semicolon; and
 
-(d) by inserting, immediately after paragraph (d) of subsection (2), the following new paragraph (e):
+(d) by inserting, immediately after paragraph (d) of subsection (2), the following new paragraph
+
+(e):
 
 "(e) for the discipline of the officers and servants which may include—
 
@@ -182,15 +198,23 @@ suspension without salary or other remuneration, of an officer or servant during
 
 (iii) the procedure for disciplinary proceedings, which should pro- vide an opportunity for repre- sentations to be made by an officer or servant against whom disciplinary proceedings are taken before a decision is arrived at by the disciplinary authority on the disciplinary charge to be laid against such officer or servant.".
 
-<!-- marginal: New sections -->
+New sections
 
-7. The principal Act is amended by inserting,
+7. The principal Act is amended by inserting, 5A and 5B. immediately after section 5, the following new sections
 
-<!-- marginal: 5A and 5B. -->
+<!-- marginal: 5A and 5B: -->
 
-immediately after section 5, the following new sections 5A and 5B:
+<!-- marginal: "Discipline -->
 
-"Discipline 5A. (1) There shall be a Disciplinary of officers Committee of the Corporation which shall and servants. consist of—
+5A. (1) There shall be a Disciplinary
+
+<!-- marginal: of officers -->
+
+Committee of the Corporation which shall
+
+<!-- marginal: and servants. -->
+
+<!-- marginal: consist of— -->
 
 (a) two members to be elected by and from the members of the Corporation, one of whom shall be elected chairman; and
 
@@ -206,11 +230,7 @@ immediately after section 5, the following new sections 5A and 5B:
 
 (5) In the exercise of its disciplinary functions, the Disciplinary Committee shall have the power to impose such disciplinary punishment as may be provided for under any rules that may be made under section 5.
 
-(6) The Disciplinary Committee may, subject to subsection (7), delegate any of its disciplinary functions, powers or duties to any committee of officers or servants of the Corporation, in respect of any particular officer or servant of the Corporation, or in respect of any class or category of officers or servants of the Corporation, and
-
-<!-- marginal: the -->
-
-committee delegated with such functions, powers or duties shall carry out, exercise or discharge them under the direction and control of the Disciplinary Committee which shall have the power to review, rescind or vary any decision or finding of such committee.
+(6) The Disciplinary Committee may, subject to subsection (7), delegate any of its disciplinary functions, powers or duties to any committee of officers or servants of the Corporation, in respect of any particular officer or servant of the Corporation, or in respect of any class or category of officers or servants of the Corporation, and the committee delegated with such functions, powers or duties shall carry out, exercise or discharge them under the direction and control of the Disciplinary Committee which shall have the power to review, rescind or vary any decision or finding of such committee.
 
 (7) No delegation shall be made under subsection (6) so as to enable an officer or servant of the Corporation to be a member of
 
@@ -224,7 +244,17 @@ a committee which may exercise any disciplinary authority over an officer or ser
 
 (9) The decision of the Corporation upon such appeal shall be final.
 
-Corporation 5B. (1) The Corporation may appoint may appoint committees for any purpose arising out of or committees. connected with any of its powers, duties and functions under this Act; any committee so appointed shall include not less than one member of the Corporation and there may be appointed to such committee such other persons as the Corporation may think fit.
+<!-- marginal: Corporation -->
+
+5B. (1) The Corporation may appoint
+
+<!-- marginal: may appoint -->
+
+committees for any purpose arising out of or
+
+<!-- marginal: committees. -->
+
+connected with any of its powers, duties and functions under this Act; any committee so appointed shall include not less than one member of the Corporation and there may be appointed to such committee such other persons as the Corporation may think fit.
 
 (2) The committee so appointed shall regulate its own procedure.
 
@@ -236,39 +266,35 @@ Corporation 5B. (1) The Corporation may appoint may appoint committees for any p
 
 (5) The committee may invite any person who, in its opinion, is possessed of special knowledge of advantage to it, to attend any meeting of the committee and the person so invited shall not be entitled to vote at any such meeting.
 
-(6) The committee shall report
+(6) The committee shall report its recommendations to the Corporation.".
 
-<!-- marginal: its -->
+<!-- marginal: Amendment -->
 
-recommendations to the Corporation.".
+8. The principal Act is amended by substituting for
 
-Amendment
+<!-- marginal: of section 7. -->
 
-8. The principal Act is amended by substituting for of section 7. section 7 the following:
+section 7 the following:
 
-"Functions 7. The functions of the Corporation shall of the Cor- be— poration.
+<!-- marginal: "Functions -->
+
+7. The functions of the Corporation shall
+
+<!-- marginal: of the Cor- -->
+
+be—
+
+<!-- marginal: poration. -->
 
 (a) to lead in the promotion and dissemination of productivity related information and issues;
 
-(b) to establish an information
-
-<!-- marginal: and -->
-
-reference centre for productivity indices for the country and
-
-<!-- marginal: for -->
-
-management systems and case studies;
+(b) to establish an information and reference centre for productivity indices for the country and for management systems and case studies;
 
 (c) to generate local expertise in the field of productivity, quality, management and entrepreneurship;
 
 (d) to enhance the development of human resources both at the supervisory and management levels in the country;
 
-(e) to advise on and coordinate
-
-<!-- marginal: the -->
-
-implementation of programmes and activities related to productivity and. quality;
+(e) to advise on and coordinate the implementation of programmes and activities related to productivity and. quality;
 
 (f) to assess and certify supervisory and management training programmes, entrepreneurship programmes, and productivity and quality management programmes conducted by the private sector for the public;
 
@@ -288,15 +314,41 @@ implementation of programmes and activities related to productivity and. quality
 
 (I) to do all such matters and things as may be incidental to or consequential upon the discharge of its functions under this Act.".
 
-New
+<!-- marginal: New -->
 
-9. The principal Act is amended by inserting, sections immediately after section 7, the following new sections 7A and 7B. 7A and 7B: "Power
+9. The principal Act is amended by inserting,
 
-7A. The Corporation may employ and pay to employ agents and technical advisers, including agents. advocates and solicitors, bankers or other persons, to transact any business or to do any act required to be transacted or done in the execution of its duties or for the better carrying into effect of the purposes of this Act.
+<!-- marginal: sections -->
+
+immediately after section 7, the following new sections
+
+<!-- marginal: 7A and 7B. -->
+
+7A and 7B:
+
+<!-- marginal: "Power -->
+
+7A. The Corporation may employ and pay
+
+<!-- marginal: to employ -->
+
+agents and technical advisers, including
+
+<!-- marginal: agents. -->
+
+advocates and solicitors, bankers or other persons, to transact any business or to do any act required to be transacted or done in the execution of its duties or for the better carrying into effect of the purposes of this Act.
 
 <!-- page 10 -->
 
-Consul- 7B. (1) The Minister may from time to time tative establish one or more consultative panels. panels.
+<!-- marginal: Consul- -->
+
+7B. (1) The Minister may from time to time
+
+<!-- marginal: tative -->
+
+establish one or more consultative panels.
+
+<!-- marginal: panels. -->
 
 (2) It shall be the function of a consultative panel established under subsection (1) to advise the Corporation on any matters referred to it by the Corporation relating to the functions of the Corporation.
 
@@ -312,17 +364,21 @@ Consul- 7B. (1) The Minister may from time to time tative establish one or more 
 
 (4) The Minister may, in addition to the members specified in subsection (3), appoint any other member or members from amongst persons who are possessed of special knowledge in specified fields.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-10. Section 9 of the principal Act is amended— of section 9.
+10. Section 9 of the principal Act is amended—
+
+<!-- marginal: of section 9. -->
 
 (a) by inserting, immediately after the word "fees", a comma and the words "commissions or any other consideration"; and
 
 (b) by substituting for the words "the Centre" the word "it".
 
-Amendment
+<!-- marginal: Amendment -->
 
-11. Section 10 of the principal Act is amended— of section
+11. Section 10 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 10.
 

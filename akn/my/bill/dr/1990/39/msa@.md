@@ -46,11 +46,17 @@ seksyen baru 6A yang berikut:
 
 (c), (d), (e) dan (f) subseksyen (5) seksyen 10.
 
-(7) Dalam seksyen ini "Skim Kumpulan Wang Simpanan Pekerja" merujuk kepada suatu Kum- pulan Wang Simpanan yang ditubuhkan di bawah Akta Kumpulan Wang Simpanan Pekerja 1951, Akta 272 termasuk sesuatu kumpulan wang yang ditetapkan oleh Lembaga Kumpulan Wang Simpanan Pekerja di bawah seksyen 16 Akta itu sebagai suatu kumpulan wang yang diluluskan.".
+(7) Dalam seksyen ini "Skim Kumpulan Wang Simpanan Pekerja" merujuk kepada suatu Kum- pulan Wang Simpanan yang ditubuhkan di bawah Akta Kumpulan Wang Simpanan Pekerja 1951,
 
-Pindaan
+<!-- marginal: Akta 272 -->
 
-3. Seksyen 8 Akta ibu adalah dipinda — seksyen 8.
+termasuk sesuatu kumpulan wang yang ditetapkan oleh Lembaga Kumpulan Wang Simpanan Pekerja di bawah seksyen 16 Akta itu sebagai suatu kumpulan wang yang diluluskan.".
+
+<!-- marginal: Pindaan -->
+
+3. Seksyen 8 Akta ibu adalah dipinda —
+
+<!-- marginal: seksyen 8. -->
 
 (a) dengan memotong perkataan "atau" di akhir perenggan (a);
 
@@ -64,11 +70,9 @@ Pindaan
 
 <!-- page 3 -->
 
-<!-- marginal: Pindaan -->
+Pindaan
 
-4. Seksyen 10 Akta ibu adalah dipinda—
-
-<!-- marginal: seksyen 10. -->
+4. Seksyen 10 Akta ibu adalah dipinda— seksyen 10.
 
 (a) dengan memotong perkataan "atau" di akhir perenggan (d) subseksyen (5);
 
@@ -96,11 +100,21 @@ Dengan syarat bahawa persaraan itu di bawah perenggan ini tidaklah boleh dilaksa
 
 dilantik ke perkhidmatan awam selepas mula berkuatkuasanya subseksyen ini.".
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-5. Akta ibu adalah dipinda dengan menggantikan seksyen seksyen 12. 12 dengan yang berikut:
+5. Akta ibu adalah dipinda dengan menggantikan seksyen
 
-"Persaraan 12. (1) Yang di-Pertuan Agong, berkenaan pilihan. dengan pegawai selain daripada pegawai negeri, atau Pihak Berkuasa Negeri, berkenaan dengan pegawai negeri, boleh, atas permohonan pegawai itu, memberi persetujuan tentang persaraan seseorang pegawai apabila atau selepas mencapai umur empat puluh tahun,
+<!-- marginal: seksyen 12. -->
+
+12 dengan yang berikut:
+
+<!-- marginal: "Persaraan -->
+
+12. (1) Yang di-Pertuan Agong, berkenaan
+
+<!-- marginal: pilihan. -->
+
+dengan pegawai selain daripada pegawai negeri, atau Pihak Berkuasa Negeri, berkenaan dengan pegawai negeri, boleh, atas permohonan pegawai itu, memberi persetujuan tentang persaraan seseorang pegawai apabila atau selepas mencapai umur empat puluh tahun,
 
 (2) Jika seseorang pegawai yang diJantik sebelum mula berkuatkuasanya seksyen ini ber- sara di bawah subseksyen (1), pegawai sedemikian bolehlah diberi pencen, ganjaran atau lain-lain faedah hanya apabila mencapai umur—
 
@@ -110,11 +124,7 @@ Penggantian
 
 (iv) seseorang pegawai penjara yang berpangkat rendah daripada Penguasa; dan (v) seseorang jururawat lelaki di hos- pital mental; atau
 
-(b) lima puluh tahun bagi seseorang pegawai lelaki, selain daripada pegawai yang disebut dalam subperenggan (ii) hingga
-
-<!-- marginal: (v) -->
-
-perenggan (a).
+(b) lima puluh tahun bagi seseorang pegawai lelaki, selain daripada pegawai yang disebut dalam subperenggan (ii) hingga (v) perenggan (a).
 
 (3) Jika seseorang pegawai yang dilantik se- lepasmula berkuatkuasanya seksyen ini bersara dibawah subseksyen (1), pegawai sedemikian
 
@@ -178,7 +188,11 @@ faedah hanya boleh diberi kepada pegawai-pegawai sedemikian apabila mencapai umu
 
 <!-- page 7 -->
 
-7. Fasal 7 bertujuan meminda subseksyen (2) seksyen 23 Akta ber- kaitan dengan kuasa Yang di-Pertuan Agong menggantung pencen seseorang pegawai yang telah dibersarakan atas kehendak Kerajaan di bawah seksyen 1 1 ( a )( i) atau 11(b)(i) Akta jika pegawai itu telah melibat- kan dirinya dalam apa-apa aktiviti yang mungkin bercanggah dengan tujuan dia dibersarakan. Pindaan ini adalah perlu sebagai sampingan kepada pindaan yang dibuat terdahulu kepada seksyen 11 Akta oleh Akta Pencen (Pindaan) 1986, tetapi sebutan mengenai seksyen 11(b)(i), yang berhubungan dengan pegawai-pegawai negeri, hendaklah terpakai hanya bagi pegawai-pegawai yang dilantik ke perkhidmatan awam selepas mula berkuatkuasanya Rang Undang-Undang
+7. Fasal 7 bertujuan meminda subseksyen (2) seksyen 23 Akta ber- kaitan dengan kuasa Yang di-Pertuan Agong menggantung pencen seseorang pegawai yang telah dibersarakan atas kehendak Kerajaan di bawah seksyen 1 1 ( a )( i) atau 11(b)(i) Akta jika pegawai itu telah melibat- kan dirinya dalam apa-apa aktiviti yang mungkin bercanggah dengan tujuan dia dibersarakan. Pindaan ini adalah perlu sebagai sampingan kepada pindaan yang dibuat terdahulu kepada seksyen 11 Akta oleh Akta Pencen (Pindaan) 1986, tetapi sebutan mengenai seksyen 11(b)(i), yang berhubungan dengan pegawai-pegawai negeri,
+
+<!-- marginal: hendaklah -->
+
+terpakai hanya bagi pegawai-pegawai yang dilantik ke perkhidmatan awam selepas mula berkuatkuasanya Rang Undang-Undang
 
 <!-- marginal: ini, -->
 

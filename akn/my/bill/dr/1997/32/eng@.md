@@ -14,7 +14,27 @@
 
 ## LICENSING
 
-4. Prohibition from carrying on money-changing business. 5. Applicant for licence. 6. Application for licence. 7. Grant of licence. 8. Licence fee. 9. Period of licence. 10. Condition of licence. 11. Display of licence. 12. Revocation of licence. 13. Appeal against revocation of licence. 14. Licence to be forwarded to Bank on revocation. 15. Effect of revocation. 16. Surrender of licence. 17. Preservation of rights and claims. 18. Approval for change in licensing particulars. 19. List of licensees to be gazetted.
+4. Prohibition from carrying on money-changing business. 5. Applicant for licence. 6. Application for licence. 7. Grant of licence. 8. Licence fee. 9. Period of licence.
+
+10. Condition of licence.
+
+11. Display of licence.
+
+12. Revocation of licence.
+
+13. Appeal against revocation of licence.
+
+14. Licence to be forwarded to Bank on revocation.
+
+15. Effect of revocation.
+
+16. Surrender of licence.
+
+17. Preservation of rights and claims.
+
+18. Approval for change in licensing particulars.
+
+19. List of licensees to be gazetted.
 
 <!-- page 2 -->
 
@@ -22,23 +42,69 @@
 
 ## OFFICE OF LICENSEE
 
-20. Office of licensee. 21. Application for approval. 22. Fee for office.
+20. Office of licensee.
+
+21. Application for approval.
+
+22. Fee for office.
 
 ## PART IV
 
 ## MONEY-CHANGING BUSINESS
 
-23. Minimum paid-up share capital. 24. Use of words "money-changer", "currency exchange", etc. 25. Name to be affixed outside office. 26. Advertisement. 27. Display of rates. 28. Licensee to provide receipt. 29. Maximum holding of foreign currency. 30. No remittance or transfer of funds. 31. Prohibition from leasing, transferring, etc., money-changing business. 32. Appointment of director, etc. 33. Auditor. 34. Submission of information or document. 35. Submission of false information.
+23. Minimum paid-up share capital.
+
+24. Use of words "money-changer", "currency exchange", etc.
+
+25. Name to be affixed outside office.
+
+26. Advertisement.
+
+27. Display of rates.
+
+28. Licensee to provide receipt.
+
+29. Maximum holding of foreign currency.
+
+30. No remittance or transfer of funds.
+
+31. Prohibition from leasing, transferring, etc., money-changing business.
+
+32. Appointment of director, etc.
+
+33. Auditor.
+
+34. Submission of information or document.
+
+35. Submission of false information.
 
 ## PART V
 
 ## INVESTIGATION
 
-36. Appointment of investigating officer. 37. Power of investigating officer to search and seize. 38. Search of person. 39. Search of persons by person of the same gender. 40. Obstruction to investigating officer. 41. Requirement to provide translation. 42. Power to examine person.
+36. Appointment of investigating officer.
+
+37. Power of investigating officer to search and seize.
+
+38. Search of person.
+
+39. Search of persons by person of the same gender.
+
+40. Obstruction to investigating officer.
+
+41. Requirement to provide translation.
+
+42. Power to examine person.
 
 <!-- page 3 -->
 
-43. Delivery of property or document. 44. Assistance to public officer. 45. Investigating officer deemed to be public servant and public officer. 46. Arrested person to be made over to police.
+43. Delivery of property or document.
+
+44. Assistance to public officer.
+
+45. Investigating officer deemed to be public servant and public officer.
+
+46. Arrested person to be made over to police.
 
 ## PART VI
 
@@ -110,7 +176,11 @@ Companies Act 1965;
 
 "director" includes any person who occupies the position of a director, by whatever name called, and, in particular, without prejudice to the foregoing, in the case of—
 
-(a) a corporation, has the same meaning as given Act 125. in the Companies Act 1965;
+(a) a corporation, has the same meaning as given
+
+<!-- marginal: Act 125. -->
+
+in the Companies Act 1965;
 
 (b) a statutory body, means a member of the board, council or other governing body, by whatever name called, of the statutory body;
 
@@ -120,7 +190,11 @@ Companies Act 1965;
 
 (e) any other body, association or group of persons, whether corporate or unincorporate, means any person having the direction and control of the management of its affairs or business;
 
-"document" has the same meaning as given in the Act 56 Evidence Act 1950;
+"document" has the same meaning as given in the
+
+<!-- marginal: Act 56 -->
+
+Evidence Act 1950;
 
 "exchange transaction" means an exchange of one foreign currency with ringgit or with another foreign currency;
 
@@ -188,23 +262,35 @@ without a licence granted under this Act.
 
 (c) such other business as the Minister may prescribe.
 
-Applicant for
+<!-- marginal: Applicant for -->
 
-5. No person shall apply for a licence to carry on money- licence. changing business unless—
+5. No person shall apply for a licence to carry on money-
+
+<!-- marginal: licence. -->
+
+changing business unless—
 
 (a) it is a company; and
 
 (b) it has a minimum paid-up share capital, unimpaired by losses, of one hundred thousand ringgit or such other amount as the Minister may prescribe.
 
-Application
+<!-- marginal: Application -->
 
-6. An application for a licence shall be made in writing for licence. to the Bank in such form and manner as the Bank may specify.
+6. An application for a licence shall be made in writing
 
-Grant of
+<!-- marginal: for licence. -->
 
-7. Upon receiving an application under section 6, the licence Bank may grant a licence, with or without conditions, or refuse to grant a licence.
+to the Bank in such form and manner as the Bank may specify.
 
-Licence fee.
+<!-- marginal: Grant of -->
+
+7. Upon receiving an application under section 6, the
+
+<!-- marginal: licence -->
+
+Bank may grant a licence, with or without conditions, or refuse to grant a licence.
+
+<!-- marginal: Licence fee. -->
 
 8. (1) A licensee, upon being licensed or upon its licence being renewed, shall pay to the Bank a fee of five hundred ringgit, or such other amount as the Minister may prescribe, in respect of its principal place of business.
 
@@ -212,9 +298,13 @@ Licence fee.
 
 (3) Notwithstanding subsection (2), the licence of a licensee who fails to pay the fee under subsection (1) may be revoked under section 12.
 
-Period of
+<!-- marginal: Period of -->
 
-9. (1) A licence shall be in force for a period of five licence. years or such other period as the Bank may specify in the licence.
+9. (1) A licence shall be in force for a period of five
+
+<!-- marginal: licence. -->
+
+years or such other period as the Bank may specify in the licence.
 
 <!-- page 9 -->
 
@@ -276,7 +366,23 @@ Banking and Financial Institutions Act 1989,
 
 <!-- page 10 -->
 
-Act 276. the Islamic Banking Act 1983, the Insurance Act 553. Act 1996, the Takaful Act 1984, the Exchange Act 312. Act 17. Control Act 1953, the Companies Act 1965 or Act 125. any offence involving fraud or dishonesty.
+<!-- marginal: Act 276. -->
+
+the Islamic Banking Act 1983, the Insurance
+
+<!-- marginal: Act 553. -->
+
+Act 1996, the Takaful Act 1984, the Exchange
+
+<!-- marginal: Act 312. -->
+
+<!-- marginal: Act 17. -->
+
+Control Act 1953, the Companies Act 1965 or
+
+<!-- marginal: Act 125. -->
+
+any offence involving fraud or dishonesty.
 
 (2) Where the Bank proposes to revoke a licence, the Bank shall give the licensee a written notice setting out the proposed revocation and the grounds for the revocation.
 
@@ -292,9 +398,19 @@ Act 276. the Islamic Banking Act 1983, the Insurance Act 553. Act 1996, the Taka
 
 (7) Where the Bank decides under subsection (5) not to revoke the licence, it may impose such conditions or restrictions on the licensee as it may specify in the written notice given under that subsection.
 
-Appeal
+<!-- marginal: Appeal -->
 
-13. (1) A person whose licence has been revoked may, against within twenty-one days of the date of the written notice revocation of licence. in subsection 12(4) or (5) or within such extended period of time as the Bank may allow, appeal in writing against the revocation to the Minister whose decision shall be final.
+13. (1) A person whose licence has been revoked may,
+
+<!-- marginal: against -->
+
+within twenty-one days of the date of the written notice
+
+<!-- marginal: revocation of -->
+
+<!-- marginal: licence. -->
+
+in subsection 12(4) or (5) or within such extended period of time as the Bank may allow, appeal in writing against the revocation to the Minister whose decision shall be final.
 
 (2) Every appeal under subsection (1) shall be submitted to the Bank and the Bank shall forward the written appeal to the Minister together with the Bank's recommendation as to whether the appeal ought to be allowed or dismissed.
 
@@ -326,7 +442,9 @@ if he appeals under subsection 13(1), within fourteen days from the date the rev
 
 continue to carry on money-changing business after the revocation takes effect under section 12 or 13.
 
-(2) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.
+(2) Any person who fails to comply with subsection
+
+(1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.
 
 (3) Upon revocation of the licence, the Bank shall not refund any fees paid by the person under sections 8 and 22.
 
@@ -346,9 +464,15 @@ give the Bank a written notice informing the Bank of the proposed surrender of t
 
 (3) Upon surrender of the licence, the Bank shall not refund any fees paid by the licensee under sections 8 and 22.
 
-Preservation
+<!-- marginal: Preservation -->
 
-17. Sections 15 and 16 shall not prejudice the enforcement of rights and of— claims
+17. Sections 15 and 16 shall not prejudice the enforcement
+
+<!-- marginal: of rights and -->
+
+of—
+
+<!-- marginal: claims -->
 
 (a) any right or claim by any person against a person whose licence has been revoked or surrendered; or
 
@@ -356,9 +480,17 @@ Preservation
 
 arising out of, or concerning, any matter or thing done prior to the revocation or surrender of the licence.
 
-Approval for
+<!-- marginal: Approval for -->
 
-18. A licensee who, without the prior written approval change in of the Bank, effects any change in— licensing particulars
+18. A licensee who, without the prior written approval
+
+<!-- marginal: change in -->
+
+of the Bank, effects any change in—
+
+<!-- marginal: licensing -->
+
+<!-- marginal: particulars -->
 
 (a) its name;
 
@@ -374,9 +506,17 @@ Approval for
 
 shall be guilty of an offence and shall on conviction be liable to a fine not exceeding ten thousand ringgit.
 
-List of
+<!-- marginal: List of -->
 
-19. The Bank shall publish in the Gazette a list of licensees licensees to together with the addresses of their offices not later than be gazetted 30 April in each year and amendments to the list shall be published from time to time as they are made.
+19. The Bank shall publish in the Gazette a list of licensees
+
+<!-- marginal: licensees to -->
+
+together with the addresses of their offices not later than
+
+<!-- marginal: be gazetted -->
+
+30 April in each year and amendments to the list shall be published from time to time as they are made.
 
 <!-- page 13 -->
 
@@ -432,19 +572,51 @@ approval of the Bank under section 20 in such form and manner as the Bank may sp
 
 ## MONEY-CHANGING BUSINESS
 
-Minimum
+<!-- marginal: Minimum -->
 
-23. (1) Every licensee shall maintain in Malaysia at all paid-up share . times a minimum paid-up share capital, unimpaired by capital losses, of one hundred thousand ringgit or such other amount as the Minister may prescribe.
+23. (1) Every licensee shall maintain in Malaysia at all
+
+<!-- marginal: paid-up share -->
+
+. times a minimum paid-up share capital, unimpaired by
+
+<!-- marginal: capital -->
+
+losses, of one hundred thousand ringgit or such other amount as the Minister may prescribe.
 
 (2) A licensee who contravenes subsection (1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding fifty thousand ringgit.
 
-Use of
+<!-- marginal: Use of -->
 
-24. (1) No person shall without the prior written approval words of the Bank, use the words "money-changer", "currency "money- changer", exchange", "money exchange", "forex dealer", "foreign "currency exchange" or "bureau de change" or any of their exchange", etc. derivatives in any language, or any other words in any language capable of being construed as indicating the carrying on of money-changing business, in relation to its business, or in the name, description or title under which it carries on business or make any representation to such effect in any bill head, letter, notice or advertisement or in any other manner.
+24. (1) No person shall without the prior written approval
+
+<!-- marginal: words -->
+
+of the Bank, use the words "money-changer", "currency
+
+<!-- marginal: "money- -->
+
+<!-- marginal: changer", -->
+
+exchange", "money exchange", "forex dealer", "foreign
+
+<!-- marginal: "currency -->
+
+exchange" or "bureau de change" or any of their
+
+<!-- marginal: exchange", -->
+
+<!-- marginal: etc. -->
+
+derivatives in any language, or any other words in any language capable of being construed as indicating the carrying on of money-changing business, in relation to its business, or in the name, description or title under which it carries on business or make any representation to such effect in any bill head, letter, notice or advertisement or in any other manner.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.
 
-(3) Subsection (1) shall not apply to a licensee, an authorised dealer or a person given permission by the Controller of Foreign Exchange under section 4 of the Act 17. Exchange Control Act 1953 to buy and sell foreign currency.
+(3) Subsection (1) shall not apply to a licensee, an authorised dealer or a person given permission by the Controller of Foreign Exchange under section 4 of the
+
+<!-- marginal: Act 17. -->
+
+Exchange Control Act 1953 to buy and sell foreign currency.
 
 <!-- page 15 -->
 
@@ -504,9 +676,17 @@ current rates of exchange offered by it to customers for an exchange transaction
 
 (5) For the purposes of this section, "board" means a device used for displaying the rates of exchange required under this Act and includes a video display screen.
 
-Licensee to
+<!-- marginal: Licensee to -->
 
-28. (1) A licensee, before completing an exchange provide transaction or any other transaction relating to its money- receipt. changing business, shall legibly make out in duplicate a receipt both in the national language and the English language, by correctly completing, using Arabic numerals and an abbreviation commonly used to signify the type of currency, the following details:
+28. (1) A licensee, before completing an exchange
+
+<!-- marginal: provide -->
+
+transaction or any other transaction relating to its money-
+
+<!-- marginal: receipt. -->
+
+changing business, shall legibly make out in duplicate a receipt both in the national language and the English language, by correctly completing, using Arabic numerals and an abbreviation commonly used to signify the type of currency, the following details:
 
 (a) the licensee's name, address and telephone number;
 
@@ -566,15 +746,41 @@ fifty thousand ringgit, or such other amount as the Minister may prescribe, at e
 
 <!-- page 18 -->
 
-Prohibition
+<!-- marginal: Prohibition -->
 
-31. (1) No licensee shall without the written approval from leasing, of the Bank, allow any part of its money-changing transferring, etc., money- business to be leased, transferred or assigned to, or changing controlled by, any other person, except to such extent, business. or for such duration, as the Bank may specify in its approval.
+31. (1) No licensee shall without the written approval
+
+<!-- marginal: from leasing, -->
+
+of the Bank, allow any part of its money-changing
+
+<!-- marginal: transferring, -->
+
+<!-- marginal: etc., money- -->
+
+business to be leased, transferred or assigned to, or
+
+<!-- marginal: changing -->
+
+controlled by, any other person, except to such extent,
+
+<!-- marginal: business. -->
+
+or for such duration, as the Bank may specify in its approval.
 
 (2) Any licensee who contravenes subsection ( 1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding fifty thousand ringgit.
 
-Appointment
+<!-- marginal: Appointment -->
 
-32. (1) Every licensee shall, before appointing a director, of director, or an officer, who in any manner will have control of its etc. money-changing business, obtain the prior written approval of the Bank for the proposed appointment.
+32. (1) Every licensee shall, before appointing a director,
+
+<!-- marginal: of director, -->
+
+or an officer, who in any manner will have control of its
+
+<!-- marginal: etc. -->
+
+money-changing business, obtain the prior written approval of the Bank for the proposed appointment.
 
 (2) The Bank may specify the particulars and information to be submitted by the licensee in relation to the person for whom the written approval of the Bank is sought under subsection (1).
 
@@ -584,7 +790,7 @@ Appointment
 
 (5) The Bank shall have full discretion to determine whether a person has fulfilled the minimum criteria of a "fit and proper" person set out under paragraph (1) of the Second Schedule.
 
-Auditor.
+<!-- marginal: Auditor. -->
 
 33. (1) A licensee, at its own expense, shall appoint annually an auditor to carry out an audit of its money- changing business.
 
@@ -622,15 +828,29 @@ Auditor.
 
 (7) Any person who contravenes subsection (1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding fifty thousand ringgit.
 
-Submission
+<!-- marginal: Submission -->
 
-34. (1) Every licensee shall submit to the Bank, or to of such person as the Bank may authorise, such returns, information or document. document or information, and within such time, as the Bank may specify.
+34. (1) Every licensee shall submit to the Bank, or to
+
+<!-- marginal: of -->
+
+such person as the Bank may authorise, such returns,
+
+<!-- marginal: information -->
+
+<!-- marginal: or document. -->
+
+document or information, and within such time, as the Bank may specify.
 
 (2) A licensee who contravenes subsection (1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding ten thousand ringgit.
 
-Submission
+<!-- marginal: Submission -->
 
-35. A person who— of false information.
+35. A person who—
+
+<!-- marginal: of false -->
+
+<!-- marginal: information. -->
 
 (a) with intent to evade the provisions of this Act, destroys, mutilates, defaces, conceals or removes any documents; or
 
@@ -642,9 +862,19 @@ shall be guilty of an offence and shall on conviction be liable to a fine not ex
 
 ## INVESTIGATION
 
-Appointment
+<!-- marginal: Appointment -->
 
-36. (1) The Bank may appoint any of its officers or any of other person authorised under subsection 3(2) to be an investigating officer. investigating officer.
+36. (1) The Bank may appoint any of its officers or any
+
+<!-- marginal: of -->
+
+other person authorised under subsection 3(2) to be an
+
+<!-- marginal: investigating -->
+
+<!-- marginal: officer. -->
+
+investigating officer.
 
 (2) An investigating officer, not being an officer of the Bank, shall be subject to, and enjoy such rights, protection and indemnity as may be provided for in this
 
@@ -756,13 +986,29 @@ the purpose of the search may detain the person for such period as may be necess
 
 (2) An investigating officer making a search of a person under subsection (1) may seize, detain, or take possession of any property or document found upon such person, for the purpose of the investigation being carried out by him.
 
-Search of
+<!-- marginal: Search of -->
 
-39. No person shall be searched under this Part except persons by by an investigating officer of the same gender as the person of the same person being searched. gender.
+39. No person shall be searched under this Part except
 
-Obstruction to
+<!-- marginal: persons by -->
 
-40. Any person who— investigating officer.
+by an investigating officer of the same gender as the
+
+<!-- marginal: person of -->
+
+<!-- marginal: the same -->
+
+person being searched.
+
+<!-- marginal: gender. -->
+
+<!-- marginal: Obstruction to -->
+
+40. Any person who—
+
+<!-- marginal: investigating -->
+
+<!-- marginal: officer. -->
 
 (a) refuses an investigating officer exercising his powers under this Part access to any premises, or fails to submit to the search of his person;
 
@@ -834,9 +1080,17 @@ circumstances of a case to appear before him to be examined orally and shall red
 
 shall be guilty of an offence and shall on conviction be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both.
 
-Delivery of
+<!-- marginal: Delivery of -->
 
-43. (1) An investigating officer, by a notice in writing, property or may require any person to deliver to him any property document. or document which he has reason to believe has been used in the commission of an offence under this Act or is able to assist in the investigation of an offence under
+43. (1) An investigating officer, by a notice in writing,
+
+<!-- marginal: property or -->
+
+may require any person to deliver to him any property
+
+<!-- marginal: document. -->
+
+or document which he has reason to believe has been used in the commission of an offence under this Act or is able to assist in the investigation of an offence under
 
 <!-- page 27 -->
 
@@ -904,21 +1158,47 @@ prescribe.
 
 <!-- page 28 -->
 
-Arrested
+<!-- marginal: Arrested -->
 
-46. An investigating officer who makes an arrest under person to be section 53 shall make over the arrested person to a police made over to police. officer without unnecessary delay and the arrested person shall be dealt with according to the law relating to criminal procedure as if he had been arrested by a police officer.
+46. An investigating officer who makes an arrest under
+
+<!-- marginal: person to be -->
+
+section 53 shall make over the arrested person to a police
+
+<!-- marginal: made over to -->
+
+<!-- marginal: police. -->
+
+officer without unnecessary delay and the arrested person shall be dealt with according to the law relating to criminal procedure as if he had been arrested by a police officer.
 
 ## PART VI
 
 ## MISCELLANEOUS
 
-Offence by
+<!-- marginal: Offence by -->
 
-47. Subject to section 48, where a person convicted of a body an offence is a body corporate, the penalty of imprisonment corporate. for the offence, if any, shall not apply to it.
+47. Subject to section 48, where a person convicted of
 
-Liability of
+<!-- marginal: a body -->
 
-48. (1) Where an offence under this Act has been directors, committed by a body corporate, any person who at the etc. time of the commission of the offence was a director, or an officer, who in any manner has control of the money- changing business of the body corporate, or who was purporting to act in any such capacity, shall be deemed to have committed that offence and be punished accordingly unless he proves that the offence was committed without his consent or connivance and that he exercised such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his function in that capacity and to all the circumstances.
+an offence is a body corporate, the penalty of imprisonment
+
+<!-- marginal: corporate. -->
+
+for the offence, if any, shall not apply to it.
+
+<!-- marginal: Liability of -->
+
+48. (1) Where an offence under this Act has been
+
+<!-- marginal: directors, -->
+
+committed by a body corporate, any person who at the
+
+<!-- marginal: etc. -->
+
+time of the commission of the offence was a director, or an officer, who in any manner has control of the money- changing business of the body corporate, or who was purporting to act in any such capacity, shall be deemed to have committed that offence and be punished accordingly unless he proves that the offence was committed without his consent or connivance and that he exercised such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his function in that capacity and to all the circumstances.
 
 (2) Any person who would have been guilty of an offence if anything had been done or omitted to be done by him personally, shall be guilty of that offence and shall be liable to the same penalty if such thing had been done or omitted to be done by his agent or officer in the course of his business or in the course of his employment, as the case may be, unless he proves that the offence was committed without his knowledge or consent and that he took all reasonable precautions to prevent the doing of, or omission to do, such thing.
 
@@ -972,9 +1252,19 @@ offence, and a police officer not below the rank of Inspector, or an investigati
 
 <!-- page 30 -->
 
-Power of
+<!-- marginal: Power of -->
 
-54. (1) The Governor may compound an offence under Governor to this Act or under regulations made under this Act by compound offences. accepting from the person reasonably suspected of having committed the offence an amount not exceeding the fine for that offence or fifty thousand ringgit, whichever is the lower, within such time as may be specified in his written offer or such extension of time as the Governor may grant.
+54. (1) The Governor may compound an offence under
+
+<!-- marginal: Governor to -->
+
+this Act or under regulations made under this Act by
+
+<!-- marginal: compound -->
+
+<!-- marginal: offences. -->
+
+accepting from the person reasonably suspected of having committed the offence an amount not exceeding the fine for that offence or fifty thousand ringgit, whichever is the lower, within such time as may be specified in his written offer or such extension of time as the Governor may grant.
 
 (2) An offer under subsection (1) may be made at any time after the offence has been committed but before any prosecution for it has been instituted.
 
@@ -982,15 +1272,23 @@ Power of
 
 (4) Upon receipt of payment of the amount of money under subsection (1), no prosecution shall be instituted in respect of the offence against the person to whom the offer to compound was made.
 
-Prosecution.
+<!-- marginal: Prosecution. -->
 
 55. (1) No prosecution for an offence under this Act shall be instituted except with the written consent of the Public Prosecutor.
 
 (2) Subject to subsection (1), a prosecution may be conducted by an officer of the Bank or a person authorised in writing by the Bank.
 
-Attempts,
+<!-- marginal: Attempts, -->
 
-56. (1) A person commits an offence and is liable to abetments the penalty for that offence if he— and conspiracies.
+56. (1) A person commits an offence and is liable to
+
+<!-- marginal: abetments -->
+
+the penalty for that offence if he—
+
+<!-- marginal: and -->
+
+<!-- marginal: conspiracies. -->
 
 (a) attempts to commit an offence under this Act;
 
@@ -1078,17 +1376,47 @@ of validity of his licence within six months from the appointed date and section
 
 (b) subsection (1) or (2) is complied with but a licence is refused under section 7, on the date of the refusal.
 
-Transfer of
+<!-- marginal: Transfer of -->
 
-60. Within five years from the appointed date— business to company and
+60. Within five years from the appointed date—
 
-(a) a sole proprietorship or a partnership, deemed increase in to be licensed under subsection 58(1), shall paid-up share capital transfer to a company its property, business and liabilities relating to its money-changing business in Malaysia; and
+<!-- marginal: business to -->
+
+<!-- marginal: company and -->
+
+(a) a sole proprietorship or a partnership, deemed
+
+<!-- marginal: increase in -->
+
+to be licensed under subsection 58(1), shall
+
+<!-- marginal: paid-up share -->
+
+<!-- marginal: capital -->
+
+transfer to a company its property, business and liabilities relating to its money-changing business in Malaysia; and
 
 (b) a company deemed to be licensed under subsection 58(1), including a company under paragraph (a), shall increase its minimum paid- up share capital, unimpaired by losses, to one hundred thousand ringgit.
 
-Revocation
+<!-- marginal: Revocation -->
 
-61. Where section 60 is not complied with, the licence of licence granted under section 59 is deemed to have been revoked for non- compliance under section 12 upon expiry of the period provided for with section in section 60. 60
+61. Where section 60 is not complied with, the licence
+
+<!-- marginal: of licence -->
+
+granted under section 59 is deemed to have been revoked
+
+<!-- marginal: for non- -->
+
+<!-- marginal: compliance -->
+
+under section 12 upon expiry of the period provided for
+
+<!-- marginal: with section -->
+
+in section 60.
+
+<!-- marginal: 60 -->
 
 ## FIRST SCHEDULE
 
@@ -1096,11 +1424,7 @@ Revocation
 
 ## EXCLUDED FOREIGN CURRENCIES
 
-The currencies of the following territories are excluded from the definition of "foreign currency":
-
-1. Israel.
-
-2. Federal Republic of Yugoslavia (Serbia and Montenegro).
+The currencies of the following territories are excluded from the definition of "foreign currency": 1. Israel. 2. Federal Republic of Yugoslavia (Serbia and Montenegro).
 
 <!-- page 33 -->
 
@@ -1154,7 +1478,29 @@ this Act or the Exchange Control Act 1953 revoked;
 
 (b) as a director, or an officer, who in any manner has control of the money-changing business of a licensee, has caused the licensee to be compounded or convicted,
 
-Act 125 of an offence under this Act, the Companies Act 1965, the Central Act 519 Act 372 Bank of Malaysia Act 1958,the Banking and Financial InstitutionsAct Act 276 1989, the Islamic Banking Act 1983, the Insurance Act 1996, the Act 553 Act 312 Takaful Act 1984, the Exchange Control Act 1953 or any offence Act 17 involving fraud or dishonesty.
+<!-- marginal: Act 125 -->
+
+of an offence under this Act, the Companies Act 1965, the Central
+
+<!-- marginal: Act 519 -->
+
+<!-- marginal: Act 372 -->
+
+Bank of Malaysia Act 1958,the Banking and Financial InstitutionsAct
+
+<!-- marginal: Act 276 -->
+
+1989, the Islamic Banking Act 1983, the Insurance Act 1996, the
+
+<!-- marginal: Act 553 -->
+
+<!-- marginal: Act 312 -->
+
+Takaful Act 1984, the Exchange Control Act 1953 or any offence
+
+<!-- marginal: Act 17 -->
+
+involving fraud or dishonesty.
 
 ## EXPLANATORY STATEMENT
 

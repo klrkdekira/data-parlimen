@@ -16,7 +16,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 1. (1) Akta ini bolehlah dinamakan Akta Bank Kerjasama Rakyat Malaysia Berhad (Peruntukan Khas) (Pindaan) 2008.
 
-(2) Akta ini disifatkan telah mula berkuat kuasa pada 1 Januari 2008.
+(2) Akta ini disifatkan telah mula berkuat kuasa pada 1 Januari
+
+2008.
 
 ### Pindaan seksyen 2
 
@@ -24,7 +26,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ‘ “Suruhanjaya” ertinya Suruhanjaya Koperasi Malaysia yang ditubuhkan di bawah Akta Suruhanjaya Koperasi Malaysia 2007 [Akta 665];’.
 
-BM.indd 1
+<!-- marginal: BM.indd 1 -->
 
 <!-- marginal: 12/11/08 5:57:07 AM -->
 
@@ -58,6 +60,6 @@ Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan
 
 <!-- marginal: [PN(U2)2629] -->
 
-BM.indd 2
+<!-- marginal: BM.indd 2 -->
 
 <!-- marginal: 12/11/08 5:57:07 AM -->

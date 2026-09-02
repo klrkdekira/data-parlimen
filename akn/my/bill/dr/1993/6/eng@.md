@@ -16,13 +16,33 @@
 
 ## COUNTERVAILING DUTIES
 
-3. Imposition of countervailing duties. 4. Initiation of investigation. 5. Consultations with interested foreign government. 6. Amendments to the petition. 7. Duration of investigation. 8. Preliminary determination of subsidy and injury. 9. Provisional measures. 10. Final determination of subsidy and injury. 11. Termination of investigation. 12. Suspenston of investigation. 13. Administrative review. 14. Appeals to the Tribunal.
+3. Imposition of countervailing duties. 4. Initiation of investigation. 5. Consultations with interested foreign government. 6. Amendments to the petition. 7. Duration of investigation. 8. Preliminary determination of subsidy and injury. 9. Provisional measures.
+
+10. Final determination of subsidy and injury.
+
+11. Termination of investigation.
+
+12. Suspenston of investigation.
+
+13. Administrative review.
+
+14. Appeals to the Tribunal.
 
 ## PART III
 
 ## ANTI-DUMPING DUTIES
 
-15. Imposition of anti-dumping duties. 16. Normal value. 17. Export price. 18. Comparison of normal value and export price. 19. Subject merchandise from a non-market economy country. 20. Initiation of investigation.
+15. Imposition of anti-dumping duties.
+
+16. Normal value.
+
+17. Export price.
+
+18. Comparison of normal value and export price.
+
+19. Subject merchandise from a non-market economy country.
+
+20. Initiation of investigation.
 
 <!-- page 2 -->
 
@@ -262,21 +282,11 @@ where it determines—
 
 (a) that a subsidy is being provided with respect to the subject merchandise; and
 
-(b) that injury is found to exist in any one of the following ways: (i) the domestic industry
-
-<!-- marginal: in Malaysia -->
-
-producing a like product is materially injured by reason of
-
-<!-- marginal: the -->
+(b) that injury is found to exist in any one of the following ways: (i) the domestic industry in Malaysia producing a like product is materially injured by reason of the
 
 <!-- marginal: subject -->
 
-merchandise; (ii) the domestic industry
-
-<!-- marginal: in Malaysia -->
-
-producing a like product is threatened with material injury by reason of the subject merchandise; or (iii) the establishment of such industry in Malaysia is materially retarded by reason of the subject merchandise.
+merchandise; (ii) the domestic industry in Malaysia producing a like product is threatened with material injury by reason of the subject merchandise; or (iii) the establishment of such industry in Malaysia is materially retarded by reason of the subject merchandise.
 
 (2) The amount of countervailing duty
 
@@ -284,9 +294,7 @@ producing a like product is threatened with material injury by reason of the sub
 
 imposed—
 
-(a) shall be equal to the subsidy determined to be provided w i th respect to
-
-<!-- marginal: the -->
+(a) shall be equal to the subsidy determined to be provided w i th respect to the
 
 <!-- marginal: subject -->
 
@@ -304,15 +312,17 @@ injury determined in paragraph ( 1 )( b ), may be such lower duty.
 
 (3) Where the country of origin of the subject merchandise is a non-market economy country, the subsidy shall be determined in the prescribed manner.
 
-Initiation of 4. (1) A written petition requesting that a countervailing investigation. duty investigation be initiated with regard to merchandise imported into Malaysia may be submitted by a producer, producers or an association of producers of a like product on behalf of the domestic industry producing such product.
+<!-- marginal: Initiation of -->
+
+4. (1) A written petition requesting that a countervailing
+
+<!-- marginal: investigation. -->
+
+duty investigation be initiated with regard to merchandise imported into Malaysia may be submitted by a producer, producers or an association of producers of a like product on behalf of the domestic industry producing such product.
 
 (2) A petition shall include evidence of each of the elements specified in subsection 3(1).
 
-(3) The Government shall, within
-
-<!-- marginal: the period -->
-
-prescribed, review the petition and other available information and determine whether in fact—
+(3) The Government shall, within the period prescribed, review the petition and other available information and determine whether in fact—
 
 (a) there is sufficient evidence to warrant an investigation into whether the elements necessary for the imposition of a countervailing duty as provided under subsection 3(1) exist; and
 
@@ -342,9 +352,7 @@ Government shall provide any interested foreign
 
 <!-- marginal: governments. -->
 
-government an opportunity for consultation for the purpose of clarifying matters
-
-<!-- marginal: relevant -->
+government an opportunity for consultation for the purpose of clarifying matters relevant
 
 <!-- marginal: to -->
 
@@ -386,21 +394,11 @@ regarding—
 
 (a) whether a subsidy is being provided with respect to the subject merchandise; and
 
-(b) whether injury is found to exist in any one of the following ways: (i) the domestic industry
-
-<!-- marginal: in Malaysia -->
-
-producing the like product is materially injured by reason of
-
-<!-- marginal: the -->
+(b) whether injury is found to exist in any one of the following ways: (i) the domestic industry in Malaysia producing the like product is materially injured by reason of the
 
 <!-- marginal: subject -->
 
-merchandise; (ii) the domestic industry
-
-<!-- marginal: in Malaysia -->
-
-producing the like product is threatened with material injury by reason of the subject merchandise; or (iii) the establishment of such industry in Malaysia is materially retarded by reason of the subject merchandise.
+merchandise; (ii) the domestic industry in Malaysia producing the like product is threatened with material injury by reason of the subject merchandise; or (iii) the establishment of such industry in Malaysia is materially retarded by reason of the subject merchandise.
 
 <!-- page 11 -->
 
@@ -422,15 +420,31 @@ producing the like product is threatened with material injury by reason of the s
 
 and apply such provisional measures, if necessary.
 
-Provisional 9. (1) The Government shall apply provisional measures measures with regard to the subject merchandise imported into Malaysia on or after the publication of the notice of affirmative preliminary determination where the Government determines that such measures are necessary to prevent the injury referred to in paragraph 8(1)(b) from occurring during the period of investigation.
+<!-- marginal: Provisional -->
+
+9. (1) The Government shall apply provisional
+
+<!-- marginal: measures -->
+
+measures with regard to the subject merchandise imported into Malaysia on or after the publication of the notice of affirmative preliminary determination where the Government determines that such measures are necessary to prevent the injury referred to in paragraph 8(1)(b) from occurring during the period of investigation.
 
 (2) Provisional measures shall take the form of provisional countervailing duties guaranteed by a security equal to the amount of the estimated subsidy determined under subsection 8(1).
 
 (3) The provisional measures imposed under this section shall not exceed such period as may be prescribed.
 
-Final
+<!-- marginal: Final -->
 
-10. (1) The Government shall, within such period as determination may be prescribed, make a final determination of subsidy and injury regarding—
+10. (1) The Government shall, within such period as
+
+<!-- marginal: determination -->
+
+may be prescribed, make a final determination
+
+<!-- marginal: of subsidy -->
+
+<!-- marginal: and injury -->
+
+regarding—
 
 (a) whether a subsidy is being provided with respect to the subject merchandise, and the amount of such subsidy; and
 
@@ -440,13 +454,13 @@ Final
 
 <!-- marginal: 13 -->
 
-(b) whether injury is found to exist in any one of the following ways: (i) the domestic industry in Malaysia producing the like product is materially injured by reason of the
+(b) whether injury is found to exist in any one of the following ways: (i) the domestic industry in Malaysia producing the like product is materially injured by reason of the subject merchandise; (ii) the domestic industry in Malaysia producing the like product is threatened with material injury by reason of the subject merchandise; or (iii) the establishment of such industry in Malaysia is materially retarded by reason of the subject merchandise.
 
-<!-- marginal: subject -->
+(2) In making a final determination under subsection
 
-merchandise; (ii) the domestic industry in Malaysia producing the like product is threatened with material injury by reason of the subject merchandise; or (iii) the establishment of such industry in Malaysia is materially retarded by reason of the subject merchandise.
+(1), the Government may take into consideration whether the imposition of countervailing duties is in the public
 
-(2) In making a final determination under subsection (1), the Government may take into consideration whether the imposition of countervailing duties is in the public interest.
+<!-- marginal: interest. -->
 
 (3) Where the Government makes a negative final determination with regard to subsection (1), it shall—
 
@@ -454,19 +468,11 @@ merchandise; (ii) the domestic industry in Malaysia producing the like product i
 
 (b) terminate the provisional measures applied under section 9 and release the security required by such measures; and
 
-(c) publish a notice of the negative
-
-<!-- marginal: final -->
-
-determination, stating the reasons for its negative determination.
+(c) publish a notice of the negative final determination, stating the reasons for its negative determination.
 
 (4) Where the Government makes an affirmative final determination with regard to subsection (1), it shall—
 
-(a) publish a notice of affirmative
-
-<!-- marginal: final -->
-
-determination stating the reasons for its affirmative determination, the countervailing duties applicable and the subject merchandise on which the countervailing duties apply;
+(a) publish a notice of affirmative final determination stating the reasons for its affirmative determination, the countervailing duties applicable and the subject merchandise on which the countervailing duties apply;
 
 (b) impose countervailing duties in the amounts determined in accordance with subsection 3(2) on the subject merchandise imported into Malaysia on or after the date of publication of the final determination; and
 
@@ -646,15 +652,17 @@ Provided that no administrative review shall be undertaken unless the period pre
 
 (4) On the completion of the administrative review, the Government shall publish a final administrative review determination stating the reasons for its determination.
 
-(5) Any determination made pursuant to subsection
-
-(4) shall apply to the subject merchandise imported on or after the date of publication of the administrative review determination.
+(5) Any determination made pursuant to subsection (4) shall apply to the subject merchandise imported on or after the date of publication of the administrative review determination.
 
 (6) Countervailing duties shall not be collected on imports made after five years from the date of the publication of the notice of the final determination under section 10, unless the Government determines on the basis of an administrative review that there is good cause for the continued imposition of such duties.
 
-Appeals to
+<!-- marginal: Appeals to -->
 
-14. (1) The appropriate interested parties shall have the the Tribunal. right to appeal to the Tribunal against—
+14. (1) The appropriate interested parties shall have the
+
+<!-- marginal: the Tribunal. -->
+
+right to appeal to the Tribunal against—
 
 (a) an affirmative or negative final determination under section 10; or
 
@@ -668,43 +676,29 @@ Appeals to
 
 ## ANTI-DUMPING DUTIES
 
-<!-- marginal: Imposition of -->
+Imposition of
 
-15. (1) The Government may impose an anti-dumping
-
-<!-- marginal: anti-dumping -->
-
-duty on the subject merchandise imported into Malaysia
-
-<!-- marginal: duties. -->
-
-where it determines—
+15. (1) The Government may impose an anti-dumping anti-dumping duty on the subject merchandise imported into Malaysia duties. where it determines—
 
 (a) that the export price of the subject merchandise is less than its normal value; and
 
 (b) that injury is found to exist in any one of the following ways:
 
-(i) the domestic industry
+(i) the domestic industry in Malaysia producing a like product is materially injured by reason of the subject merchandise;
 
-<!-- marginal: in Malaysia -->
+(ii) the domestic industry in Malaysia producing a like product is threatened with material injury by reason of the subject merchandise; or
 
-producing a like product is materially injured by reason of
-
-<!-- marginal: the -->
-
-<!-- marginal: subject -->
-
-merchandise;
-
-(ii) the domestic industry in Malaysia producing a like product is threatened with material injury by reason of the subject merchandise; or (iii) the establishment of such industry in Malaysia is materially retarded by reason of the subject merchandise.
+(iii) the establishment of such industry in Malaysia is materially retarded by reason of the subject merchandise.
 
 (2) The amount of anti-dumping duty to be imposed—
 
-(a) shall be equal to the dumping margin determined to exist with respect to the subject merchandise; or
+(a) shall be equal to the dumping margin determined to exist with respect to the subject merchandise;
+
+<!-- marginal: or -->
 
 (b) if the Government determines that a lower anti- dumping duty will be sufficient to eliminate the injury determined in paragraph (l)(b), may be such lower duty.
 
-<!-- marginal: Normal value. -->
+Normal value.
 
 16. (1) For the purpose of this Act, the normal value shall be the comparable price actually paid or payable
 
@@ -724,7 +718,9 @@ in the ordinary course of trade for comparable merchandise sold for consumption 
 
 (3) Whenever there are reasonable grounds for believing or suspecting that the prices at which comparable merchandise is actually sold for consumption under subsection (1) or paragraph (2)(a) are less than the cost of producing that merchandise, sales at such prices may be considered as not having been made in the ordinary course of trade.
 
-(4) For the purpose of determining the cost of production referred to in paragraph (2)(b) and subsection (3), the cost of production shall be computed on the basis of all fixed and variable costs of materials and manufacturing in the ordinary course of trade in the exporting country, plus a reasonable amount for selling, administrative and other general expenses.
+(4) For the purpose of determining the cost of production referred to in paragraph (2)(b) and subsection
+
+(3), the cost of production shall be computed on the basis of all fixed and variable costs of materials and manufacturing in the ordinary course of trade in the exporting country, plus a reasonable amount for selling, administrative and other general expenses.
 
 (5) In the circumstances described in subsection (3), the normal value may be determined on the basis of—
 
@@ -772,21 +768,37 @@ physical characteristics of the merchandise, different selling conditions in eac
 
 (3) Where an exporter or importer claims for an adjustment under subsection (1), it must prove that its claim is justified.
 
-Subject
+<!-- marginal: Subject -->
 
-19. Where the country of origin of the subject merchandise merchandise is a non-market economy country, the from a non- market normal value shall be determined in the prescribed economy manner. country
+19. Where the country of origin of the subject
 
-Initiation of
+<!-- marginal: merchandise -->
 
-20. (1) A written petition requesting that an anti- investigation. dumping duty investigation be initiated with regard to merchandise imported into Malaysia may be submitted by a producer, producers or an association of producers of a like product on behalf of the domestic industry producing such product.
+merchandise is a non-market economy country, the
+
+<!-- marginal: from a non- -->
+
+<!-- marginal: market -->
+
+normal value shall be determined in the prescribed
+
+<!-- marginal: economy -->
+
+manner.
+
+<!-- marginal: country -->
+
+<!-- marginal: Initiation of -->
+
+20. (1) A written petition requesting that an anti-
+
+<!-- marginal: investigation. -->
+
+dumping duty investigation be initiated with regard to merchandise imported into Malaysia may be submitted by a producer, producers or an association of producers of a like product on behalf of the domestic industry producing such product.
 
 (2) A petition shall include evidence of each of the elements specified in subsection 15(1).
 
-(3) The Government shall, within
-
-<!-- marginal: the period -->
-
-prescribed, review the petition and other available information and determine whether in fact—
+(3) The Government shall, within the period prescribed, review the petition and other available information and determine whether in fact—
 
 (a) there is sufficient evidence to warrant an investigation into whether the elements necessary for the imposition of an anti-dumping duty as provided under subsection 15(1) exist; and
 
@@ -872,15 +884,31 @@ publish a notice stating the reasons for the negative determination and—
 
 and apply such provisional measures, if necessary.
 
-Provisional
+<!-- marginal: Provisional -->
 
-24. ( 1) The Government shall apply provisional measures. measures with regard to the subject merchandise imported into Malaysia on or after the publication of the notice of affirmative preliminary determination where the Government determines that such measures are necessary to prevent the injury referred to in paragraph 23(1)(b) from occurring during the period of investigation.
+24. ( 1) The Government shall apply provisional
+
+<!-- marginal: measures. -->
+
+measures with regard to the subject merchandise imported into Malaysia on or after the publication of the notice of affirmative preliminary determination where the Government determines that such measures are necessary to prevent the injury referred to in paragraph 23(1)(b) from occurring during the period of investigation.
 
 (2) Provisional measures shall take the form of provisional anti-dumping duties guaranteed by a security equal to the amount of estimated dumping margin determined under subsection 23(1).
 
 (3) The provisional measures imposed under this section shall not exceed such period as may be prescribed.
 
-Final 25. (1) The Government shall, within such period as determination may be prescribed, make a final determination of dumping and injury. regarding—
+<!-- marginal: Final -->
+
+25. (1) The Government shall, within such period as
+
+<!-- marginal: determination -->
+
+may be prescribed, make a final determination
+
+<!-- marginal: of dumping -->
+
+<!-- marginal: and injury. -->
+
+regarding—
 
 (a) whether a dumping margin exists with regard to the subject merchandise; and
 
@@ -894,7 +922,9 @@ Final 25. (1) The Government shall, within such period as determination may be p
 
 (ii) the domestic industry in Malaysia producing the like product is threatened with material injury by reason of the subject merchandise; or (iii) the establishment of such industry in Malaysia is materially retarded by reason of the subject merchandise.
 
-(2) In making a final determination under subsection (1), the Government may take into consideration whether the imposition of anti-dumping duties is in the public interest.
+(2) In making a final determination under subsection
+
+(1), the Government may take into consideration whether the imposition of anti-dumping duties is in the public interest.
 
 (3) Where the Government makes a negative final determination with regard to subsection (1), it shall—
 
@@ -1116,9 +1146,13 @@ Provided that no administrative review shall be undertaken unless the period pre
 
 (6) Anti-dumping duties shall not be collected on imports made after five years from the date of publication of the notice of the final determination under section 25, unless the Government determines on the basis of an administrative review that there is good cause for the continued imposition of such duties.
 
-Appeals to
+<!-- marginal: Appeals to -->
 
-29. (1) The appropriate interested parties shall have the the Tribunal. right to appeal to the Tribunal against—
+29. (1) The appropriate interested parties shall have the
+
+<!-- marginal: the Tribunal. -->
+
+right to appeal to the Tribunal against—
 
 (a) an affirmative or negative final determination under section 25; or
 
@@ -1146,9 +1180,13 @@ Provided that no administrative review shall be undertaken unless the period pre
 
 (6) Anti-dumping duties shall not be collected on imports made after five years from the date of publication of the notice of the final determination under section 25, unless the Government determines on the basis of an administrative review that there is good cause for the continued imposition of such duties.
 
-Appeals to
+<!-- marginal: Appeals to -->
 
-29. (1) The appropriate interested parties shall have the the Tribunal. right to appeal to the Tribunal against—
+29. (1) The appropriate interested parties shall have the
+
+<!-- marginal: the Tribunal. -->
+
+right to appeal to the Tribunal against—
 
 (a) an affirmative or negative final determination under section 25; or
 
@@ -1214,9 +1252,15 @@ of carrying into effect this Act, and no suit or prosecution shall lie in any co
 
 be done by him under the order, direction or instruction of any such person or officer if the act was done in good faith and in a reasonable belief that it was necessary for the purpose intended to be served thereby.
 
-Establishment
+<!-- marginal: Establishment -->
 
-32. (1) There shall be established a Tribunal to perform of the the functions specified in sections 14 and 28. Tribunal.
+32. (1) There shall be established a Tribunal to perform
+
+<!-- marginal: of the -->
+
+the functions specified in sections 14 and 28.
+
+<!-- marginal: Tribunal. -->
 
 (2) The Minister shall appoint the Chairman of the Tribunal and not more than two other persons as members of the Tribunal.
 
@@ -1228,11 +1272,29 @@ Establishment
 
 (6) The Chairman or any member of the Tribunal may at any time resign from his office by giving notice in writing to the Minister.
 
-(7) The Chairman and members of the Tribunal shall be deemed to be public servants within the meaning of F.MS the Penal Code. Cap 45 (8) The Minister may make such rules as may be necessary or expedient for the purpose of enabling the Tribunal to carry out its functions, and in particular, without prejudice to the generality of the foregoing, such rules may provide for the constitution, officers and proceedings of the Tribunal.
+(7) The Chairman and members of the Tribunal shall be deemed to be public servants within the meaning of
 
-Regulations
+<!-- marginal: F.MS -->
 
-33. The Minister of Finance may. in respect of certain in respect areas to be specified in regulations made under this of specified areas. section, make special provision to regulate those specified areas for the purposes of this Act;
+the Penal Code.
+
+<!-- marginal: Cap 45 -->
+
+(8) The Minister may make such rules as may be necessary or expedient for the purpose of enabling the Tribunal to carry out its functions, and in particular, without prejudice to the generality of the foregoing, such rules may provide for the constitution, officers and proceedings of the Tribunal.
+
+<!-- marginal: Regulations -->
+
+33. The Minister of Finance may. in respect of certain
+
+<!-- marginal: in respect -->
+
+areas to be specified in regulations made under this
+
+<!-- marginal: of specified -->
+
+<!-- marginal: areas. -->
+
+section, make special provision to regulate those specified areas for the purposes of this Act;
 
 <!-- page 33 -->
 
@@ -1356,9 +1418,13 @@ information public;
 
 (c) the reasons given for not providing non- confidential summaries under subsection (6) are not deemed adequate and the party supplying the information nevertheless refuses to provide non- confidential summaries.
 
-Verification
+<!-- marginal: Verification -->
 
-40. The Government may decide to verify the accuracy of information. of any information submitted during an investigation or administrative review using any reasonable method to conduct the verification.
+40. The Government may decide to verify the accuracy
+
+<!-- marginal: of information. -->
+
+of any information submitted during an investigation or administrative review using any reasonable method to conduct the verification.
 
 <!-- page 35 -->
 
@@ -1440,19 +1506,51 @@ shall be published in the Gazette, unless otherwise specified.
 
 ## BILL
 
-Double
+<!-- marginal: Double -->
 
-46. No merchandise shall be subject to both anti- counting not dumping and countervailing duties to compensate for the permitted. same situation of dumping or subsidization.
+46. No merchandise shall be subject to both anti-
 
-Customs
+<!-- marginal: counting not -->
 
-47. Any investigation conducted under this Act shall clearance not hinder the procedure for customs clearance. not to be hindered. Public
+dumping and countervailing duties to compensate for the
 
-48. Any person acting for and on behalf of or under the servants. direction of the Government under this Act shall be deemed to be a public servant within the meaning of the F.M.S. Penal Code. Cap. 45.
+<!-- marginal: permitted. -->
 
-Obligation
+same situation of dumping or subsidization.
 
-49. (1) No person who has access to any statement, of secrecy. accounts, record, correspondence, document, information or any other material obtained pursuant to the provisions of this Act shall disclose such statement, accounts, record, correspondence, document, information or other material to any other person unless—
+<!-- marginal: Customs -->
+
+47. Any investigation conducted under this Act shall
+
+<!-- marginal: clearance -->
+
+not hinder the procedure for customs clearance.
+
+<!-- marginal: not to be -->
+
+<!-- marginal: hindered. -->
+
+<!-- marginal: Public -->
+
+48. Any person acting for and on behalf of or under the
+
+<!-- marginal: servants. -->
+
+direction of the Government under this Act shall be deemed to be a public servant within the meaning of the
+
+<!-- marginal: F.M.S. -->
+
+Penal Code.
+
+<!-- marginal: Cap. 45. -->
+
+<!-- marginal: Obligation -->
+
+49. (1) No person who has access to any statement,
+
+<!-- marginal: of secrecy. -->
+
+accounts, record, correspondence, document, information or any other material obtained pursuant to the provisions of this Act shall disclose such statement, accounts, record, correspondence, document, information or other material to any other person unless—
 
 (a) such disclosure is authorized by the Minister; or
 
@@ -1460,13 +1558,19 @@ Obligation
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding one year or to both.
 
-Power to
+<!-- marginal: Power to -->
 
-50. (1) The Minister may make such regulations as may make be necessary or expedient for giving full effect to the regulations. provisions of this Act, for carrying out the purposes of this Act or any provisions thereof, or for the further, better or more convenient implementation of the provisions of this Act.
+50. (1) The Minister may make such regulations as may
 
-(2) Without prejudice to the generality of subsection
+<!-- marginal: make -->
 
-(1), regulations may be made—
+be necessary or expedient for giving full effect to the
+
+<!-- marginal: regulations. -->
+
+provisions of this Act, for carrying out the purposes of this Act or any provisions thereof, or for the further, better or more convenient implementation of the provisions of this Act.
+
+(2) Without prejudice to the generality of subsection (1), regulations may be made—
 
 (a) to prescribe the time periods for any action to be taken under this Act;
 

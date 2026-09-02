@@ -1,0 +1,96 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/37/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/37"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-37-1992",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/37/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/37/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/37/eng@/~cl_3"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Petroleum (Safety Measures) (Amendment) Bill 1992"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/37/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/37/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/37/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/37/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/37/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/37/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Petroleum (Safety Measures) (Amendment) Act 1992."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/37/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/37/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall come into force on such date as the Minister may, by notification in the Gazette, appoint."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/37/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/37/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Petroleum (Safety Measures) Act 1984, which in"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "this Act is referred to as the \"principal Act\", is amended by inserting, immediately after section 18, the following new section 18A: \"Part V not I 8 A. (1) This Part shall not apply to the supply applicable of gas to consumers through pipelines under to supply of gas by the Gas Supply Act 1992. pipelines. Act (2) For the purpose of this section, the terms \"gas\", \"consumers\" and \"pipelines\" shall have the same meaning assigned to them respectively by the Gas Supply Act 1992.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/37/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/37/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting,"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "immediately after section 27, the following new section 27A: \"Part VI not 27A. (1) This Part shall not apply to any applicable person who holds a licence under the Gas to licensee under Gas Supply Act 1992 for the supply of gas to Supply consumers through pipelines from the storage Act 1992. Act tank or cylinder specifically used reticulation of gas to any apparatus in any premises. (2) For the purpose of this section, the terms \"gas\", \"consumers\" and \"pipelines\" shall have the same meaning assigned to them respectively by the Gas Supply Act 1992.\"."
+      }
+    }
+  ]
+}

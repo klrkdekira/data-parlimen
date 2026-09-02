@@ -50,7 +50,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "PrELIMINarY Short title and commencement"
+        "@value": "PRELIMINARY Short title and commencement"
       }
     },
     {
@@ -462,7 +462,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20__subsec_4",
       "schema:text": {
         "@language": "en",
-        "@value": "provisions for— of an employee of the Board during the pendency of the disciplinary proceedings."
+        "@value": "provisions for—"
       }
     },
     {
@@ -482,7 +482,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20__subsec_4__para_c",
       "schema:text": {
         "@language": "en",
-        "@value": "the suspension without salary or other remuneration,"
+        "@value": "the suspension without salary or other remuneration, of an employee of the Board during the pendency of the disciplinary proceedings."
       }
     },
     {
@@ -539,21 +539,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_11__subsec_2",
       "@type": "akn:subsection",
       "eli:number": "2",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_11__subsec_2__para_e",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_11",
       "schema:text": {
         "@language": "en",
-        "@value": "Any member of the Board appointed under paragraph 8(1)"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_11__subsec_2__para_e",
-      "@type": "akn:paragraph",
-      "eli:number": "e",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_11__subsec_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "or (f) may, at any time, resign by giving a one-month written notice to the Minister. Meetings and procedures of the Board"
+        "@value": "Any member of the Board appointed under paragraph 8(1) (e) or (f) may, at any time, resign by giving a one-month written notice to the Minister. Meetings and procedures of the Board"
       }
     },
     {
@@ -1817,21 +1806,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_5",
       "@type": "akn:subsection",
       "eli:number": "5",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_5__para_c",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8",
       "schema:text": {
         "@language": "en",
-        "@value": "The Minister shall appoint a Deputy Chairman of the Board from amongst the members appointed under paragraphs (1)(b),"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_5__para_c",
-      "@type": "akn:paragraph",
-      "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_5",
-      "schema:text": {
-        "@language": "en",
-        "@value": "or (e). Tenure of office"
+        "@value": "The Minister shall appoint a Deputy Chairman of the Board from amongst the members appointed under paragraphs (1)(b), (c) or (e). Tenure of office"
       }
     },
     {
@@ -3037,7 +3015,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_33",
       "schema:text": {
         "@language": "en",
-        "@value": "by investing in— Power to establish or acquire corporation"
+        "@value": "by investing in—"
       }
     },
     {
@@ -3077,7 +3055,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_33__para_b",
       "schema:text": {
         "@language": "en",
-        "@value": "securities which are fully guaranteed by the Central Bank of Malaysia."
+        "@value": "securities which are fully guaranteed by the Central Bank of Malaysia. Power to establish or acquire corporation"
       }
     },
     {

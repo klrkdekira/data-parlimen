@@ -52,7 +52,25 @@ ENACTED by the Parliament of Malaysia as follows:
 
 3. The principal Act is amended by substituting for section 4 the following section:
 
-Registrar, 4. (1) The Director General of the Corporation shall be Deputy the Registrar of Trade Marks. Registrars and Assistant (2) The Corporation may appoint, on such terms and Registrars. conditions as it may determine, from amongst persons in the employment of the Corporation, such number of Deputy Registrars of Trade Marks, Assistant Registrars of Trade Marks and other officers as may be necessary for the proper administration of this Act, and may revoke the appointment of any person so appointed or deemed to have been so appointed under subsection (3).
+<!-- marginal: Registrar, -->
+
+4. (1) The Director General of the Corporation shall be
+
+<!-- marginal: Deputy -->
+
+the Registrar of Trade Marks.
+
+<!-- marginal: Registrars -->
+
+<!-- marginal: and -->
+
+<!-- marginal: Assistant -->
+
+(2) The Corporation may appoint, on such terms and
+
+<!-- marginal: Registrars. -->
+
+conditions as it may determine, from amongst persons in the employment of the Corporation, such number of Deputy Registrars of Trade Marks, Assistant Registrars of Trade Marks and other officers as may be necessary for the proper administration of this Act, and may revoke the appointment of any person so appointed or deemed to have been so appointed under subsection (3).
 
 (3) The persons holding office as Deputy Registrars, Assistant Registrars and other officers under this Act before the appointed date who were given an option by the Government of Malaysia to serve as employees of the Corporation and have so opted shall on the appointed date be deemed to have been appointed as Deputy Registrars, Assistant Registrars and such other officers under subsection (2).
 

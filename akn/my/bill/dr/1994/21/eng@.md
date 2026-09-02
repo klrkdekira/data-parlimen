@@ -46,13 +46,49 @@ ceases to be eligible to be conferred the status of a pensionable employee or ce
 
 (c) in the definition of "New Scheme", by inserting after the words "revision made" the words "or approved".
 
-ammendment 3. Section 6A of the principal Act is amended by section 6A. deleting subsection (7).
+<!-- marginal: ammendment -->
 
-4. The principal Act is amended by inserting after 6A,6C and 6D. section 6A the following sections:
+3. Section 6A of the principal Act is amended by
 
-Pension- 6B. (1) An employee— able employee
+<!-- marginal: section 6A. -->
 
-(a) who has been conferred the status of a may opt pensionable employee under section 6 for the Employees or is deemed to be a pensionable Provident employee under paragraph (a), (b) or (c) Fund Scheme. of section 7; or
+deleting subsection (7).
+
+4. The principal Act is amended by inserting after
+
+<!-- marginal: 6A,6C and 6D. -->
+
+section 6A the following sections:
+
+<!-- marginal: Pension- -->
+
+6B. (1) An employee—
+
+<!-- marginal: able -->
+
+<!-- marginal: employee -->
+
+(a) who has been conferred the status of a
+
+<!-- marginal: may opt -->
+
+pensionable employee under section 6
+
+<!-- marginal: for the -->
+
+<!-- marginal: Employees -->
+
+or is deemed to be a pensionable
+
+<!-- marginal: Provident -->
+
+employee under paragraph (a), (b) or (c)
+
+<!-- marginal: Fund -->
+
+<!-- marginal: Scheme. -->
+
+of section 7; or
 
 (b) who was appointed before the 12th April 1991 and has not been conferred the status of a pensionable employee,
 
@@ -72,11 +108,7 @@ may opt for the Employees Provident Fund Scheme.
 
 (6) Subsections (5) and (6) of section 6A and sections 6C and 6D shall apply to an employee who opts for the Employees Provident Fund Scheme under this section.
 
-Retrospec- 6C. An employer shall make contributions, in tive con- respect of each pensionable employee whose tributions to the option has taken effect, to the Employees Employees Provident Fund at the rate of seventeen and a Provident Fund. half per centum of the employee's monthly salary for each month in
-
-<!-- marginal: the period -->
-
-commencing from the date the employee becomes a pensionable employee under section 6 or section 7 and ending on the date he ceases to be a pensionable employee under section 6B.
+Retrospec- 6C. An employer shall make contributions, in tive con- respect of each pensionable employee whose tributions to the option has taken effect, to the Employees Employees Provident Fund at the rate of seventeen and a Provident Fund. half per centum of the employee's monthly salary for each month in the period commencing from the date the employee becomes a pensionable employee under section 6 or section 7 and ending on the date he ceases to be a pensionable employee under section 6B.
 
 Employer 6D. For the purpose of this Act, it shall be may offer lawful for an employer to offer to an employee Employees Provident an option to opt for the Employees Provident Fund Fund Scheme under section 6B.". Scheme.
 
@@ -84,7 +116,9 @@ Employer 6D. For the purpose of this Act, it shall be may offer lawful for an em
 
 5. (1) Every offer by an employer to an employee of an option to opt for the Employees Provident Fund Scheme, and every option made by an employee to opt for that Scheme, that would have been valid if the provisions of this Act had been in force at the time when the offer or option was made are hereby validated and declared to have been validly made.
 
-(2) Every employee who has opted for the Employees Provident Fund Scheme before the coming into force of this Act and whose option is declared under subsection (1) to have been validly made shall be deemed to have ceased to be eligible to be conferred the status of a
+(2) Every employee who has opted for the Employees Provident Fund Scheme before the coming into force of this Act and whose option is declared under subsection
+
+(1) to have been validly made shall be deemed to have ceased to be eligible to be conferred the status of a
 
 <!-- page 4 -->
 
@@ -94,13 +128,7 @@ Employer 6D. For the purpose of this Act, it shall be may offer lawful for an em
 
 (6) Subsections (5) and (6) of section 6A and sections 6c and 6D shall apply to an employee who opts for the Employees Provident Fund Scheme under this section.
 
-Retrospec- 6C. An employer shall make contributions, in tive con- respect of each pensionable employee whose tributions to the option has taken effect, to the Employees Employees Provident Fund at the rate of seventeen and a Provident Fund, half per centum of the employee's monthly salary for each month
-
-<!-- marginal: in -->
-
-<!-- marginal: the period -->
-
-commencing from the date the employee becomes a pensionable employee under section 6 or section 7 and ending on the date he ceases to be a pensionable employee under section 6B.
+Retrospec- 6C. An employer shall make contributions, in tive con- respect of each pensionable employee whose tributions to the option has taken effect, to the Employees Employees Provident Fund at the rate of seventeen and a Provident Fund, half per centum of the employee's monthly salary for each month in the period commencing from the date the employee becomes a pensionable employee under section 6 or section 7 and ending on the date he ceases to be a pensionable employee under section 6B.
 
 Employer 6D. For the purpose of this Act, it shall be may offer lawful for an employer to offer to an employee Employees Provident an option to opt for the Employees Provident Fund Fund Scheme under section 6B.". Scheme.
 
@@ -108,7 +136,9 @@ Employer 6D. For the purpose of this Act, it shall be may offer lawful for an em
 
 5. (1) Every offer by an employer to an employee of an option to opt for the Employees Provident Fund Scheme, and every option made by an employee to opt for that Scheme, that would have been valid if the provisions of this Act had been in force at the time when the offer or option was made are hereby validated and declared to have been validly made.
 
-(2) Every employee who has opted for the Employees Provident Fund Scheme before the coming into force of this Act and whose option is declared under subsection (1) to have been validly made shall be deemed to have ceased to be eligible to be conferred the status of a
+(2) Every employee who has opted for the Employees Provident Fund Scheme before the coming into force of this Act and whose option is declared under subsection
+
+(1) to have been validly made shall be deemed to have ceased to be eligible to be conferred the status of a
 
 <!-- page 5 -->
 

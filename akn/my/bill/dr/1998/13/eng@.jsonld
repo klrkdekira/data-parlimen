@@ -122,7 +122,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/13/eng@/~cl_3",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after the words \"to be maintained by them\" in paragraph (i) the words \"and the granting of exemptions by the Commissioner to any tourism enterprise or tourist guide from any requirement imposed by regulations made under this paragraph\". Amendment"
+        "@value": "by inserting after the words \"to be maintained by them\" in paragraph (i) the words \"and the granting of exemptions by the Commissioner to any tourism enterprise or tourist guide from any requirement imposed by regulations made under this paragraph\"."
       }
     },
     {
@@ -130,9 +130,13 @@
       "@type": "akn:clause",
       "eli:number": "4",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 25 of the principal Act is amended by"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Section 25 of the principal Act is amended by of section 25. substituting for the words \"twelve months\" the words \"not exceeding three years\". Amendment"
+        "@value": "substituting for the words \"twelve months\" the words \"not exceeding three years\"."
       }
     },
     {
@@ -140,9 +144,13 @@
       "@type": "akn:clause",
       "eli:number": "5",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 40(1) of the principal Act is amended by"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Subsection 40(1) of the principal Act is amended by of section 40. deleting the words \"or officer of the Malaysia Tourism Promotion Board\"."
+        "@value": "deleting the words \"or officer of the Malaysia Tourism Promotion Board\"."
       }
     }
   ]

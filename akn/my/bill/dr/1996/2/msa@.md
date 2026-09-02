@@ -24,7 +24,11 @@ II
 
 ## PENTADBIRAN
 
-3. Perlantikan Ketua Pendaftar, Timbalan Ketua Pendaftar, dll. dan tugas mereka. 4. Kuasa Menteri untuk mengeluarkan arahan am. 5. Kuasa Menteri untuk mengeluarkan arahan khas.
+3. Perlantikan Ketua Pendaftar, Timbalan Ketua Pendaftar, dll. dan tugas mereka.
+
+4. Kuasa Menteri untuk mengeluarkan arahan am.
+
+5. Kuasa Menteri untuk mengeluarkan arahan khas.
 
 ## BAHAGIAN
 
@@ -34,7 +38,13 @@ III
 
 ## TINGGI SWASTA
 
-6. Permohonan untuk kelulusan. 7. Kepentingan lain hendaklah dizahirkan oleh pemohon. 8. Ketua Pendaftar hendaklah membuat syor kepada Menteri. 9. Ketua Pendaftar boleh enggan meneruskan tindakan ke atas permohonan.
+6. Permohonan untuk kelulusan.
+
+7. Kepentingan lain hendaklah dizahirkan oleh pemohon.
+
+8. Ketua Pendaftar hendaklah membuat syor kepada Menteri.
+
+9. Ketua Pendaftar boleh enggan meneruskan tindakan ke atas permohonan.
 
 <!-- page 2 -->
 
@@ -50,13 +60,7 @@ III
 
 15. Kelulusan bagi pertukaran atau perubahan berkenaan dengan syarikat.
 
-16. Pemberitahuan pertukaran alamat.
-
-17. Maklumat yang dikehendaki oleh Ketua Pendaftar.
-
-18. Penubuhan cawangan, atau bergabung, dsb. dengan institusi pendidikan tinggi swasta lain.
-
-19. Kelulusan terdahulu Menteri mengenai perkiraan atau perjanjian.
+16. Pemberitahuan pertukaran alamat. 17. Maklumat yang dikehendaki oleh Ketua Pendaftar. 18. Penubuhan cawangan, atau bergabung, dsb. dengan institusi pendidikan tinggi swasta lain. 19. Kelulusan terdahulu Menteri mengenai perkiraan atau perjanjian.
 
 20. Menteri boleh mengubah syarat.
 
@@ -176,7 +180,9 @@ IX
 
 55. Alasan bagi pengkenselan pendaftaran.
 
-56. Notis untuk membatalkan kelulusan dan mengkensel pendaftaran. 57. Keputusan hendaklah berdasarkan dokumen dan pendengaran secara lisan tidak dibenarkan.
+56. Notis untuk membatalkan kelulusan dan mengkensel pendaftaran.
+
+57. Keputusan hendaklah berdasarkan dokumen dan pendengaran secara lisan tidak dibenarkan.
 
 <!-- page 5 -->
 
@@ -184,13 +190,23 @@ IX
 
 ## PENUTUPAN INSTITUSI PENDIDIKAN TINGGI SWASTA
 
-58. Kuasa Menteri untuk mengeluarkan arahan demi melindungi kepentingan pelajar. 59. Pemberhentian kegiatan perniagaan. 60. Notis tentang niat untuk menutup. 61. Perkiraan bagi penerusan pendidikan pelajar. 62. Pemulangan perakuan.
+58. Kuasa Menteri untuk mengeluarkan arahan demi melindungi kepentingan pelajar.
+
+59. Pemberhentian kegiatan perniagaan.
+
+60. Notis tentang niat untuk menutup.
+
+61. Perkiraan bagi penerusan pendidikan pelajar.
+
+62. Pemulangan perakuan.
 
 ## BAHAGIAN XII
 
 ## PEMERIKSAAN INSTITUSI PENDIDIKAN TINGGI SWASTA
 
-63. Pemeriksaan hendaklah dibuat dari semasa ke semasa. 64. Kuasa Ketua Pendaftar semasa memeriksa institusi pendidikan tinggi swasta.
+63. Pemeriksaan hendaklah dibuat dari semasa ke semasa.
+
+64. Kuasa Ketua Pendaftar semasa memeriksa institusi pendidikan tinggi swasta.
 
 ## BAHAGIAN XIII
 
@@ -198,15 +214,25 @@ IX
 
 65. Tafsiran pegawai penyiasat.
 
-66. Kuasa pegawai penyiasat. 67. Kuasa untuk menggeledah dan menyita. 68. Menggeledah dan menyita tanpa waran.
+66. Kuasa pegawai penyiasat.
 
-69. Kuasa untuk mengunci. 70. Kuasa untuk memanggil bagi tujuan pemeriksaan. 71. Tiada hak ke atas kos prosiding, kerugian atau relief lain, dsb.
+67. Kuasa untuk menggeledah dan menyita.
+
+68. Menggeledah dan menyita tanpa waran.
+
+69. Kuasa untuk mengunci.
+
+70. Kuasa untuk memanggil bagi tujuan pemeriksaan.
+
+71. Tiada hak ke atas kos prosiding, kerugian atau relief lain, dsb.
 
 ## BAHAGIAN XIV
 
 ## KESALAHAN DAN PENALTI
 
-72. Larangan tentang pengiklanan, dsb. 73. Kawalan pengiklanan.
+72. Larangan tentang pengiklanan, dsb.
+
+73. Kawalan pengiklanan.
 
 74. Tafsiran pengiklanan.
 
@@ -300,11 +326,19 @@ UNDANG-UNDANG oleh Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan 
 
 ## PERMULAAN
 
-Tajuk ringkas
+<!-- marginal: Tajuk ringkas -->
 
-1. Akta ini bolehlah dinamakan Akta Institusi Pendidikan dan mula Tinggi Swasta 1996 dan hendaklah mula berkuatkuasa berkuatkuasa. pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta, dan Menteri boleh menetapkan tarikh yang berlainan bagi peruntukan yang berlainan dalam Akta ini.
+1. Akta ini bolehlah dinamakan Akta Institusi Pendidikan
 
-Tafsiran.
+<!-- marginal: dan mula -->
+
+Tinggi Swasta 1996 dan hendaklah mula berkuatkuasa
+
+<!-- marginal: berkuatkuasa. -->
+
+pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta, dan Menteri boleh menetapkan tarikh yang berlainan bagi peruntukan yang berlainan dalam Akta ini.
+
+<!-- marginal: Tafsiran. -->
 
 2. Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—
 
@@ -350,7 +384,7 @@ Tafsiran.
 
 (iv) Universiti atau Kolej Universiti yang ditubuhkan di bawah Akta Universiti dan
 
-### Akta 30.
+<!-- marginal: Akta 30. -->
 
 Kolej Universiti 1971;
 
@@ -416,7 +450,7 @@ diperbadankan, dan sama ada atau selainnya ditubuhkan melalui dokumen konstituen
 
 "syarikat" ertinya syarikat yang diperbadankan di bawah
 
-### Akta 125.
+<!-- marginal: Akta 125. -->
 
 Akta Syarikat 1965 yang menubuhkan institusi pendidikan tinggi swasta di bawah Akta ini;
 
@@ -430,9 +464,29 @@ II
 
 ## PENTADBIRAN
 
-Perlantikan
+<!-- marginal: Perlantikan -->
 
-3. (1) Maka hendaklah ada seorang Ketua Pendaftar Ketua Institusi Pendidikan Tinggi Swasta yang hendaklah dilantik Pendaftar, Timbalan oleh Menteri daripada kalangan pegawai dalam Ketua Perkhidmatan Pendidikan. Pendaftar, dll. dan tugas mereka.
+3. (1) Maka hendaklah ada seorang Ketua Pendaftar
+
+<!-- marginal: Ketua -->
+
+Institusi Pendidikan Tinggi Swasta yang hendaklah dilantik
+
+<!-- marginal: Pendaftar, -->
+
+<!-- marginal: Timbalan -->
+
+oleh Menteri daripada kalangan pegawai dalam
+
+<!-- marginal: Ketua -->
+
+Perkhidmatan Pendidikan.
+
+<!-- marginal: Pendaftar, -->
+
+<!-- marginal: dll. dan tugas -->
+
+<!-- marginal: mereka. -->
 
 (2) Menteri hendaklah juga melantik seorang Timbalan Ketua Pendaftar dan sekian bilangan Pendaftar, Timbalan Pendaftar dan Penolong Pendaftar Institusi Pendidikan Tinggi Swasta, sebagaimana yang difikirkannya perlu bagi maksud Akta ini.
 
@@ -498,9 +552,17 @@ III
 
 PENUBUHAN INSTITUSI PENDIDIKAN TINGGl SWASTA
 
-Permohonan
+<!-- marginal: Permohonan -->
 
-6. (1) Kelulusan Menteri hendaklah diperolehi terlebih untuk dahulu sebelum sesuatu institusi pendidikan tinggi swasta kelulusan. boleh ditubuhkan atau disenggarakan.
+6. (1) Kelulusan Menteri hendaklah diperolehi terlebih
+
+<!-- marginal: untuk -->
+
+dahulu sebelum sesuatu institusi pendidikan tinggi swasta
+
+<!-- marginal: kelulusan. -->
+
+boleh ditubuhkan atau disenggarakan.
 
 (2) Permohonan bagi mendapatkan kelulusan di bawah Bahagian ini hendaklah dibuat kepada Ketua Pendaftar—
 
@@ -580,9 +642,27 @@ maklumat berkenaan dengan—
 
 (e) apa-apa kepentingan kewangan walau apa jua pun atau hak yang dipunyai oleh orang atau syarikat lain dalam urusan perniagaan yang lain pemohon.
 
-Ketua
+<!-- marginal: Ketua -->
 
-8. Ketua Pendaftar hendaklah, apabila permohonan dibuat Pendaftar dengan sewajarnya mengikut seksyen 6 dan 7, dan setelah hendaklah diberikan segala maklumat, butir-butir dan dokumen yang membuat syor kepada dikehendaki oleh Ketua Pendaftar di bawah seksyen Menteri. tersebut—
+8. Ketua Pendaftar hendaklah, apabila permohonan dibuat
+
+<!-- marginal: Pendaftar -->
+
+dengan sewajarnya mengikut seksyen 6 dan 7, dan setelah
+
+<!-- marginal: hendaklah -->
+
+diberikan segala maklumat, butir-butir dan dokumen yang
+
+<!-- marginal: membuat -->
+
+<!-- marginal: syor kepada -->
+
+dikehendaki oleh Ketua Pendaftar di bawah seksyen
+
+<!-- marginal: Menteri. -->
+
+tersebut—
 
 (a) mengambil langkah yang perlu untuk menyemak permohonan itu;
 
@@ -590,9 +670,31 @@ Ketua
 
 (c) membuat syor kepada Menteri tentang sama ada kelulusan boleh diberikan atau ditolak dan syarat, jika perlu, yang hendaklah dikenakan oleh Menteri.
 
-Ketua
+<!-- marginal: Ketua -->
 
-9. Ketua Pendaftar boleh enggan meneruskan tindakan Pendaftar ke atas suatu permohonan, dan boleh menghendaki supaya boleh enggan permohonan itu dipinda atau dilengkapkan dengan meneruskan tindakan sepatutnya dan dikemukakan semula atau supaya suatu ke atas permohonan baru dikemukakan bagi menggantikannya permohonan. jika—
+9. Ketua Pendaftar boleh enggan meneruskan tindakan
+
+<!-- marginal: Pendaftar -->
+
+ke atas suatu permohonan, dan boleh menghendaki supaya
+
+<!-- marginal: boleh enggan -->
+
+permohonan itu dipinda atau dilengkapkan dengan
+
+<!-- marginal: meneruskan -->
+
+<!-- marginal: tindakan -->
+
+sepatutnya dan dikemukakan semula atau supaya suatu
+
+<!-- marginal: ke atas -->
+
+permohonan baru dikemukakan bagi menggantikannya
+
+<!-- marginal: permohonan. -->
+
+jika—
 
 (a) borang permohonan sebagaimana yang ditetapkan tidak dilengkapkan dengan sewajarnya disebabkan apa-apa peninggalan atau salah perihalan;
 
@@ -622,7 +724,11 @@ Pendaftar di bawah seksyen 8, Menteri—
 
 institusi pendidikan tinggi swasta, dengan bersyarat atau tanpa syarat; atau
 
-(b) boleh menolak permohonan itu tanpa memberikan sebab bagi penolakan itu.
+(b) boleh menolak permohonan itu
+
+<!-- marginal: tanpa -->
+
+memberikan sebab bagi penolakan itu.
 
 (2) Jika Menteri menolak suatu permohonan, Ketua Pendaftar hendaklah memberitahu pemohon mengenai penolakan itu secara bertulis.
 
@@ -670,9 +776,25 @@ pendidikan yang mencukupi bagi penubuhan institusi pendidikan swasta itu;
 
 (ii) memegang jawatan sebagai presiden, setiausaha atau bendahari atau jawatan atau kedudukan lain yang seumpamanya, jika permohonan dibuat oleh pertubuhan.
 
-Pemohon
+<!-- marginal: Pemohon -->
 
-12. (1) Apabila kelulusan diberikan, jika pemohon yang hendaklah berjaya itu bukan syarikat yang diperbadankan di dalam memperbadan- kan syarikat negeri, pemohon hendaklah, dalam masa satu tahun dari di dalam negeri. diberitahu tentang kelulusan itu, memperbadankan suatu syarikat di dalam negeri—
+12. (1) Apabila kelulusan diberikan, jika pemohon yang
+
+<!-- marginal: hendaklah -->
+
+berjaya itu bukan syarikat yang diperbadankan di dalam
+
+<!-- marginal: memperbadan- -->
+
+<!-- marginal: kan syarikat -->
+
+negeri, pemohon hendaklah, dalam masa satu tahun dari
+
+<!-- marginal: di dalam -->
+
+<!-- marginal: negeri. -->
+
+diberitahu tentang kelulusan itu, memperbadankan suatu syarikat di dalam negeri—
 
 (a) yang mempunyai modal terbitan dan berbayar dalam amaun yang ditentukan oleh Menteri;
 
@@ -762,21 +884,67 @@ menukar atau mengubah—
 
 (e) memorandum dan perkara-perkara persatuannya.
 
-Pemberitahuan
+<!-- marginal: Pemberitahuan -->
 
-16. Suatu syarikat hendaklah memberitahu Ketua pertukaran Pendaftar tentang apa-apa pertukaran pada alamat alamat. perniagaannya, dalam masa empat belas hari dari pertukaran itu.
+16. Suatu syarikat hendaklah memberitahu Ketua
 
-Maklumat
+<!-- marginal: pertukaran -->
 
-17. Maka hendaklah menjadi kewajipan tiap-tiap syarikat yang untuk memberikan apabila diminta oleh Ketua Pendaftar, dikehendaki oleh Ketua dalam tempoh yang ditentukan olehnya, butir-butir— Pendaftar.
+Pendaftar tentang apa-apa pertukaran pada alamat
+
+<!-- marginal: alamat. -->
+
+perniagaannya, dalam masa empat belas hari dari pertukaran itu.
+
+<!-- marginal: Maklumat -->
+
+17. Maka hendaklah menjadi kewajipan tiap-tiap syarikat
+
+<!-- marginal: yang -->
+
+untuk memberikan apabila diminta oleh Ketua Pendaftar,
+
+<!-- marginal: dikehendaki -->
+
+<!-- marginal: oleh Ketua -->
+
+dalam tempoh yang ditentukan olehnya, butir-butir—
+
+<!-- marginal: Pendaftar. -->
 
 (a) mengenai apa-apa kepentingan kewangan walau apa jua pun yang dipunyai oleh orang lain dalam perniagaan syarikat itu atau hak yang dipunyai oleh orang lain untuk menamakan pengarah syarikat itu; dan
 
 (b) mengenai apa-apa kepentingan atau hak yang dipunyai oleh syarikat itu dalam perniagaan orang lain sama ada yang berhubungan dengan pendidikan atau selainnya.
 
-Penubuhan
+<!-- marginal: Penubuhan -->
 
-18. (1) Kelulusan Menteri hendaklah didapatkan terlebih cawangan, dahulu sebelum institusi pendidikan tinggi swasta atau bergabung, menubuhkan cawangan atau bergabung, bersekutu atau dsb. dengan bekerjasama dengan mana-mana institusi pendidikan tinggi institusi pendidikan lain, sama ada swasta atau awam. tinggi swasta lain. (2) Permohonan untuk mendapatkan kelulusan di bawah subseksyen (1) hendaklah dibuat kepada Ketua Pendaftar—
+18. (1) Kelulusan Menteri hendaklah didapatkan terlebih
+
+<!-- marginal: cawangan, -->
+
+dahulu sebelum institusi pendidikan tinggi swasta
+
+<!-- marginal: atau -->
+
+<!-- marginal: bergabung, -->
+
+menubuhkan cawangan atau bergabung, bersekutu atau
+
+<!-- marginal: dsb. dengan -->
+
+bekerjasama dengan mana-mana institusi pendidikan tinggi
+
+<!-- marginal: institusi -->
+
+<!-- marginal: pendidikan -->
+
+lain, sama ada swasta atau awam.
+
+<!-- marginal: tinggi swasta -->
+
+<!-- marginal: lain. -->
+
+(2) Permohonan untuk mendapatkan kelulusan di bawah subseksyen (1) hendaklah dibuat kepada Ketua Pendaftar—
 
 (a) dalam borang yang ditetapkan dan mengikut cara yang ditetapkan; dan
 
@@ -818,11 +986,27 @@ memberikan apa-apa sebab bagi penolakan itu.
 
 (9) Keputusan Menteri di bawah seksyen ini adalah muktamad.
 
-Kelulusan
+<!-- marginal: Kelulusan -->
 
-19. (1) Institusi pendidikan tinggi swasta tidak boleh terdahulu membuat perkiraan atau perjanjian— Menteri mengenai perkiraan
+19. (1) Institusi pendidikan tinggi swasta tidak boleh
 
-(a) untuk menjual, melupuskan atau membangunkan atau semula; atau perjanjian.
+<!-- marginal: terdahulu -->
+
+membuat perkiraan atau perjanjian—
+
+<!-- marginal: Menteri -->
+
+<!-- marginal: mengenai -->
+
+<!-- marginal: perkiraan -->
+
+(a) untuk menjual, melupuskan atau membangunkan
+
+<!-- marginal: atau -->
+
+semula; atau
+
+<!-- marginal: perjanjian. -->
 
 (b) untuk mengambil apa-apa tindakan yang akan menjejaskan secara yang material,
 
@@ -878,11 +1062,19 @@ tanpa menjejaskan pemohon untuk membuat permohonan baru.
 
 (9) Keputusan Menteri di bawah seksyen ini adalah muktamad.
 
-Menteri
+<!-- marginal: Menteri -->
 
-20. Menteri boleh pada bila-bila masa— boleh mengubah
+20. Menteri boleh pada bila-bila masa—
 
-(a) mengubah, mengkensel, menukar atau menambah syarat. kepada apa-apa syarat di bawah—
+<!-- marginal: boleh -->
+
+<!-- marginal: mengubah -->
+
+(a) mengubah, mengkensel, menukar atau menambah
+
+<!-- marginal: syarat. -->
+
+kepada apa-apa syarat di bawah—
 
 (i) perenggan 10(l)(aj;
 
@@ -904,13 +1096,41 @@ IV
 
 ## DAN KAMPUS CAWANGAN
 
-Penubuhan
+<!-- marginal: Penubuhan -->
 
-21. Kelulusan Menteri hendaklah didapatkan terlebih Universiti, dahulu bagi penubuhan institusi pendidikan tinggi swasta Kolej Universiti yang bertaraf Universiti atau Kolej Universiti atau kampus dan kampus cawangan. cawangan kedua-duanya atau kampus cawangan Universiti atau Kolej Universiti luar negeri.
+21. Kelulusan Menteri hendaklah didapatkan terlebih
 
-Permohonan
+<!-- marginal: Universiti, -->
 
-22. (1) Permohonan bagi mendapatkan kelulusan di bagi bawah seksyen 21 boleh dibuat kepada Menteri atas penubuhan dibuat atas pelawaannya untuk berbuat sedemikian. pelawaan.
+dahulu bagi penubuhan institusi pendidikan tinggi swasta
+
+<!-- marginal: Kolej -->
+
+<!-- marginal: Universiti -->
+
+yang bertaraf Universiti atau Kolej Universiti atau kampus
+
+<!-- marginal: dan kampus -->
+
+<!-- marginal: cawangan. -->
+
+cawangan kedua-duanya atau kampus cawangan Universiti atau Kolej Universiti luar negeri.
+
+<!-- marginal: Permohonan -->
+
+22. (1) Permohonan bagi mendapatkan kelulusan di
+
+<!-- marginal: bagi -->
+
+bawah seksyen 21 boleh dibuat kepada Menteri atas
+
+<!-- marginal: penubuhan -->
+
+<!-- marginal: dibuat atas -->
+
+pelawaannya untuk berbuat sedemikian.
+
+<!-- marginal: pelawaan. -->
 
 (2) Pelawaan di bawah subseksyen (1) boleh dibuat kepada pemohon yang dicadangkan, terraasuk kepada Universiti dan Kolej Universiti luar negeri dan kampus cawangan luar negeri, sama ada secara langsung atau melalui pengumuman dalam media atau selainnya.
 
@@ -978,9 +1198,7 @@ kepada Ketua Pendaftar—
 
 (d) bersekali dengan struktur fee yang menyeluruh yang hendak dikenakan ke atas pelajar mengenai setiap kursus pengajian.
 
-(3) Jika institusi pendidikan tinggi swasta itu tidak didaftarkan dalam masa yang dinyatakan dalam perenggan
-
-(2)(a), maka kelulusan yang diberikan bagi penubuhannya di bawah Bahagian III hendaklah disifatkan ditarik balik melainkan jika lanjutan masa diberikan oleh Menteri.
+(3) Jika institusi pendidikan tinggi swasta itu tidak didaftarkan dalam masa yang dinyatakan dalam perenggan (2)(a), maka kelulusan yang diberikan bagi penubuhannya di bawah Bahagian III hendaklah disifatkan ditarik balik melainkan jika lanjutan masa diberikan oleh Menteri.
 
 (4) Pada bila-bila masa selepas menerima permohonan pendaftaran dan sebelum ia ditentukan, Ketua Pendaftar boleh, melalui notis bertulis, menghendaki institusi pendidikan tinggi swasta itu memberikan maklumat, butir- butir atau dokumen tambahan.
 
@@ -1088,9 +1306,13 @@ mencukupi dan memuaskan bagi rekreasi pelajar;
 
 (d) bahawa struktur fee yang dicadangkan bagi pelajar adalah tak munasabah.
 
-Pertukaran
+<!-- marginal: Pertukaran -->
 
-28. (1) Institusi pendidikan tinggi swasta tidak boleh premis. berpindah premis tanpa mendapat kelulusan Ketua Pendaftar terlebih dahulu.
+28. (1) Institusi pendidikan tinggi swasta tidak boleh
+
+<!-- marginal: premis. -->
+
+berpindah premis tanpa mendapat kelulusan Ketua Pendaftar terlebih dahulu.
 
 (2) Permohonan bagi pendaftaran premis baru institusi pendidikan tinggi swasta hendaklah dibuat kepada Ketua Pendaftar dalam borang yang ditetapkan mengikut cara yang ditetapkan dan selepas membayar fee yang ditetapkan.
 
@@ -1276,9 +1498,7 @@ Ketua Pendaftar boleh selepas memberikan ketua eksekutif itu peluang untuk membu
 
 (b) hendaklah dibayar gaji dan saraannya oleh institusi pendidikan tinggi swasta itu, dalam amaun yang ditentukan Ketua Pendaftar.
 
-(6) Jika selepas tempoh sementara dalam subseksyen
-
-(4) habis, institusi pendidikan tinggi swasta itu tidak melantik seorang ketua eksekutif, maka pendaftaran institusi pendidikan tinggi swasta itu boleh dikenselkan oleh Ketua Pendaftar.
+(6) Jika selepas tempoh sementara dalam subseksyen (4) habis, institusi pendidikan tinggi swasta itu tidak melantik seorang ketua eksekutif, maka pendaftaran institusi pendidikan tinggi swasta itu boleh dikenselkan oleh Ketua Pendaftar.
 
 ## BAHAGIAN VII
 
@@ -1286,11 +1506,33 @@ Ketua Pendaftar boleh selepas memberikan ketua eksekutif itu peluang untuk membu
 
 ## INSTITUSI PENDIDIKAN TINGGI SWASTA
 
-Kelulusan
+<!-- marginal: Kelulusan -->
 
-38. (1) Kelulusan Menteri hendaklah diperolehi terlebih terdahulu dahulu sebelum sesuatu institusi pendidikan tinggi Menteri mengenai swasta— kursus pengajian
+38. (1) Kelulusan Menteri hendaklah diperolehi terlebih
 
-(a) boleh mengendalikan sesuatu kursus pengajian dan gabungan, atau program latihan; dsb.
+<!-- marginal: terdahulu -->
+
+dahulu sebelum sesuatu institusi pendidikan tinggi
+
+<!-- marginal: Menteri -->
+
+<!-- marginal: mengenai -->
+
+swasta—
+
+<!-- marginal: kursus -->
+
+<!-- marginal: pengajian -->
+
+(a) boleh mengendalikan sesuatu kursus pengajian
+
+<!-- marginal: dan -->
+
+<!-- marginal: gabungan, -->
+
+atau program latihan;
+
+<!-- marginal: dsb. -->
 
 <!-- page 35 -->
 
@@ -1358,7 +1600,9 @@ ini, Menteri boleh mengenakan—
 
 (b) fee yang ditetapkan.
 
-(2) Jika sesuatu institusi pendidikan tinggi swasta melanggar syarat yang dikenakan di bawah subseksyen (1), ia adalah melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.
+(2) Jika sesuatu institusi pendidikan tinggi swasta melanggar syarat yang dikenakan di bawah subseksyen
+
+(1), ia adalah melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.
 
 <!-- marginal: Bahasa -->
 
@@ -1418,25 +1662,31 @@ hendaklah mengendalikan kursus pengajiannya dalam bahasa kebangsaan.
 
 ### pendidikan tinggi swasta itu.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-42. (1) Berkenaan dengan kelulusan yang diberikan oleh Menteri
+42. (1) Berkenaan dengan kelulusan yang diberikan oleh
+
+<!-- marginal: Menteri -->
 
 ### Menteri di bawah subseksyen 38(1) Menteri boleh pada
 
-untuk mengarahkan
+<!-- marginal: untuk -->
+
+<!-- marginal: mengarahkan -->
 
 ### bila-bila masa selepas itu mengarahkan supaya bahasa
 
-supaya
+<!-- marginal: supaya -->
 
 ### kebangsaan digunakan untuk mengendalikan kursus
 
-bahasa kebangsaan
+<!-- marginal: bahasa -->
+
+<!-- marginal: kebangsaan -->
 
 ### pengajian tersebut.
 
-digunakan.
+<!-- marginal: digunakan. -->
 
 ### (2) Arahan Menteri di bawah subseksyen (1)—
 
@@ -1504,25 +1754,93 @@ pihak berkuasa yang disebut dalam seksyen 39.
 
 <!-- page 38 -->
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-45. Menteri boleh membuat peraturan-peraturan bagi Menteri penyeliaan, pengawalseliaan dan kawalan standard untuk membuat pendidikan di institusi pendidikan tinggi swasta mengikut peraturan- . tahap minimum yang ditentukan oleh pihak berkuasa yang peraturan bagi disebut dalam seksyen 3.9. penyeliaan dan kawalan standard pendidikan.
+45. Menteri boleh membuat peraturan-peraturan bagi
+
+<!-- marginal: Menteri -->
+
+penyeliaan, pengawalseliaan dan kawalan standard
+
+<!-- marginal: untuk -->
+
+<!-- marginal: membuat -->
+
+pendidikan di institusi pendidikan tinggi swasta mengikut
+
+<!-- marginal: peraturan- -->
+
+. tahap minimum yang ditentukan oleh pihak berkuasa yang
+
+<!-- marginal: peraturan bagi -->
+
+disebut dalam seksyen 3.9.
+
+<!-- marginal: penyeliaan -->
+
+<!-- marginal: dan kawalan -->
+
+<!-- marginal: standard -->
+
+<!-- marginal: pendidikan. -->
 
 ## BAHAGIAN VIII
 
 ## DISIPLIN DAN TATAKELAKUAN PELAJAR
 
-Pihak
+<!-- marginal: Pihak -->
 
-46. (1) Ketua eksekutif hendaklah bertanggungjawab berkuasa bagi disiplin dan tatakelakuan pelajar di institusi disiplin berkenaan pendidikan tinggi swasta itu. dengan pelajar.
+46. (1) Ketua eksekutif hendaklah bertanggungjawab
+
+<!-- marginal: berkuasa -->
+
+bagi disiplin dan tatakelakuan pelajar di institusi
+
+<!-- marginal: disiplin -->
+
+<!-- marginal: berkenaan -->
+
+pendidikan tinggi swasta itu.
+
+<!-- marginal: dengan -->
+
+<!-- marginal: pelajar. -->
 
 (2) Pada menunaikan kewajipannya di bawah subseksyen (1), ketua eksekutif hendaklah mematuhi dan melaksanakan arahan yang dikeluarkan oleh Ketua Pendaftar dari semasa ke semasa berkenaan dengan disiplin dan tatakelakuan pelajar institusi pendidikan tinggi swasta itu.
 
-Larangan ke
+<!-- marginal: Larangan ke -->
 
-47. (1) Perlembagaan hendaklah mengandungi atas pelajar, larangan— persatuan, badan atau
+47. (1) Perlembagaan hendaklah mengandungi
 
-(a) ke atas seseorang, sewaktu dia merupakan pelajar kumpulan pelajar yang institusi pendidikan tinggi swasta itu, daripada bersekutu menjadi ahli atau dalam apa-apa cara bersekutu dengan pertubuhan, dengan suatu pertubuhan, parti politik, kesatuan dsb. sekerja atau apa-apa organisasi, badan atau kumpulan orang lain—
+<!-- marginal: atas pelajar, -->
+
+larangan—
+
+<!-- marginal: persatuan, -->
+
+<!-- marginal: badan atau -->
+
+(a) ke atas seseorang, sewaktu dia merupakan pelajar
+
+<!-- marginal: kumpulan -->
+
+<!-- marginal: pelajar yang -->
+
+institusi pendidikan tinggi swasta itu, daripada
+
+<!-- marginal: bersekutu -->
+
+menjadi ahli atau dalam apa-apa cara bersekutu
+
+<!-- marginal: dengan -->
+
+<!-- marginal: pertubuhan, -->
+
+dengan suatu pertubuhan, parti politik, kesatuan
+
+<!-- marginal: dsb. -->
+
+sekerja atau apa-apa organisasi, badan atau kumpulan orang lain—
 
 (i) sama ada atau tidak ia ditubuhkan di bawah mana-mana undang-undang;
 
@@ -1570,11 +1888,33 @@ melainkan jika institusi pendidikan tinggi swasta itu memuaskan mahkamah—
 
 (6) Sabitan institusi pendidikan tinggi swasta di bawah subseksyen (5) boleh dijadikan alasan bagi membatalkan kelulusan penubuhannya.
 
-Tanggungan
+<!-- marginal: Tanggungan -->
 
-48. (1) Subseksyen (2) hendaklah terpakai jika suatu jenayah kesalahan dilakukan di bawah mana-mana undang-undang pemegang jawatan, dsb. bertulis— dalam persatuan,
+48. (1) Subseksyen (2) hendaklah terpakai jika suatu
 
-(a) sama ada atau tidak mana-mana orang telah badan atau kumpulan disabitkan berkenaan dengannya; atau pelajar.
+<!-- marginal: jenayah -->
+
+kesalahan dilakukan di bawah mana-mana undang-undang
+
+<!-- marginal: pemegang -->
+
+<!-- marginal: jawatan, dsb. -->
+
+bertulis—
+
+<!-- marginal: dalam -->
+
+<!-- marginal: persatuan, -->
+
+(a) sama ada atau tidak mana-mana orang telah
+
+<!-- marginal: badan atau -->
+
+<!-- marginal: kumpulan -->
+
+disabitkan berkenaan dengannya; atau
+
+<!-- marginal: pelajar. -->
 
 (b) termasuklah jika kesalahan itu telah dilakukan atau berupa dilakukan atas nama atau bagi pihak mana-mana persatuan, badan atau kumpulan pelajar institusi pendidikan tinggi swasta.
 
@@ -1656,9 +1996,21 @@ menjejaskan—
 
 (4) Jika arahan Ketua Pendaftar di bawah seksyen ini tidak dipatuhi, Ketua Pendaftar boleh mengkensel pendaftaran ketua eksekutif itu atau pendaftaran institusi pendidikan tinggi swasta itu.
 
-Peraturan-
+<!-- marginal: Peraturan- -->
 
-50. Ketua Pendaftar boleh menetapkan, selepas berunding peraturan dengan Menteri, peraturan-peraturan bagi pembuangan mengenai pembuangan pelajar dalam hal-hal tertentu. pelajar.
+50. Ketua Pendaftar boleh menetapkan, selepas berunding
+
+<!-- marginal: peraturan -->
+
+dengan Menteri, peraturan-peraturan bagi pembuangan
+
+<!-- marginal: mengenai -->
+
+<!-- marginal: pembuangan -->
+
+pelajar dalam hal-hal tertentu.
+
+<!-- marginal: pelajar. -->
 
 ## BAHAGIAN
 
@@ -1666,9 +2018,17 @@ IX
 
 ## PERMIT MENGAJAR
 
-Pengeluaran
+<!-- marginal: Pengeluaran -->
 
-51. (1) Seseorang hendaklah mendapatkan permit permit mengajar yang dikeluarkan oleh Ketua Pendaftar sebelum mengajar. dia boleh dibenarkan mengajar di mana-mana institusi pendidikan tinggi swasta.
+51. (1) Seseorang hendaklah mendapatkan permit
+
+<!-- marginal: permit -->
+
+mengajar yang dikeluarkan oleh Ketua Pendaftar sebelum
+
+<!-- marginal: mengajar. -->
+
+dia boleh dibenarkan mengajar di mana-mana institusi pendidikan tinggi swasta.
 
 (2) Permohonan bagi permit mengajar di bawah Akta ini hendaklah dibuat kepada Ketua Pendaftar dalam borang yang ditetapkan dan mengikut cara yang ditetapkan dan selepas membayar fee yang ditetapkan.
 
@@ -1816,9 +2176,17 @@ suatu notis tentang niat untuk membatalkan kelulusan institusi pendidikan tinggi
 
 (f) adalah sebagai tambahan kepada apa-apa alasan lain yang diperuntukkan di bawah mana-mana peruntukan lain dalam Akta ini.
 
-Alasan bagi
+<!-- marginal: Alasan bagi -->
 
-55. (1) Ketua Pendaftar boleh menyampaikan kepada pengkenselan institusi pendidikan tinggi swasta suatu notis tentang niat pendaftaran. untuk mengkenselkan pendaftaran institusi pendidikan tinggi swasta itu jika dia berpuas hati bahawa adalah suaimanfaat untuk berbuat sedemikian atas mana-mana alasan yang berikut:
+55. (1) Ketua Pendaftar boleh menyampaikan kepada
+
+<!-- marginal: pengkenselan -->
+
+institusi pendidikan tinggi swasta suatu notis tentang niat
+
+<!-- marginal: pendaftaran. -->
+
+untuk mengkenselkan pendaftaran institusi pendidikan tinggi swasta itu jika dia berpuas hati bahawa adalah suaimanfaat untuk berbuat sedemikian atas mana-mana alasan yang berikut:
 
 (a) bahawa pendaftaran institusi pendidikan tinggi swasta itu telah didapatkan melalui apa-apa pernyataan yang palsu atau mengelirukan;
 
@@ -1880,13 +2248,33 @@ alasan yang di atasnya pembatalan kelulusan atau pengkenselan pendaftaran itu di
 
 <!-- page 48 -->
 
-Keputusan
+<!-- marginal: Keputusan -->
 
-57. Keputusan Menteri dan Ketua Pendaftar dalam hendaklah Bahagian ini hendaklah dibuat berdasarkan dokumen berdasarkan dokumen dan berhubungan dengan perkara di hadapan mereka, dan pendengaran tidak boleh diadakan pendengaran secara
+57. Keputusan Menteri dan Ketua Pendaftar dalam
+
+<!-- marginal: hendaklah -->
+
+Bahagian ini hendaklah dibuat berdasarkan dokumen
+
+<!-- marginal: berdasarkan -->
+
+<!-- marginal: dokumen dan -->
+
+berhubungan dengan perkara di hadapan mereka, dan
+
+<!-- marginal: pendengaran -->
+
+tidak boleh diadakan pendengaran secara
 
 <!-- marginal: lisan -->
 
-secara lisan tidak mengenainya. dibenarkan.
+<!-- marginal: secara lisan -->
+
+<!-- marginal: tidak -->
+
+mengenainya.
+
+<!-- marginal: dibenarkan. -->
 
 ## BAHAGIAN XI
 
@@ -1894,9 +2282,29 @@ secara lisan tidak mengenainya. dibenarkan.
 
 ## TINGGI SWASTA
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-58. (1) Jika atas kerelaannya sendiri seorang ketua Menteri untuk eksekutif memberitahu Menteri atau jika daripada hasil mengeluarkan arahan demi pemeriksaan yang dibuat di bawah Bahagian XII atau melindungi atas apa-apa sebab lain Menteri berpendapat bahawa kepentingan pelajar. sesuatu institusi pendidikan tinggi swasta—
+58. (1) Jika atas kerelaannya sendiri seorang ketua
+
+<!-- marginal: Menteri untuk -->
+
+eksekutif memberitahu Menteri atau jika daripada hasil
+
+<!-- marginal: mengeluarkan -->
+
+<!-- marginal: arahan demi -->
+
+pemeriksaan yang dibuat di bawah Bahagian XII atau
+
+<!-- marginal: melindungi -->
+
+atas apa-apa sebab lain Menteri berpendapat bahawa
+
+<!-- marginal: kepentingan -->
+
+<!-- marginal: pelajar. -->
+
+sesuatu institusi pendidikan tinggi swasta—
 
 (a) tidak dapat memenuhi obligasinya kepada pelajarnya;
 
@@ -1918,9 +2326,13 @@ jawatankuasa, untuk menasihatkan ketua eksekutif tentang cara pengurusan institu
 
 (cc) mengambil apa-apa tindakan yang difikirkan perlu oleh Menteri dalam hal keadaan kes itu untuk menjadikan hal- ehwal institusi pendidikan tinggi swasta itu selaras dengan peruntukan Akta ini.
 
-(2) Tiap-tiap arahan Menteri yang dibuat di bawah subseksyen (1) atau nasihat atau arahan seseorang atau sesuatu jawatankuasa yang dilantik di bawah perenggan (1)(bb) hendaklah mengikut institusi pendidikan tinggi swasta itu.
+(2) Tiap-tiap arahan Menteri yang dibuat di bawah subseksyen (1) atau nasihat atau arahan seseorang atau sesuatu jawatankuasa yang dilantik di bawah perenggan
 
-(3) Kesemua perbelanjaan yang dilakukan oleh orang atau jawatankuasa yang dilantik di bawah perenggan (1)(bb) hendaklah dibayar oleh institusi pendidikan tinggi swasta itu.
+(1)(bb) hendaklah mengikut institusi pendidikan tinggi swasta itu.
+
+(3) Kesemua perbelanjaan yang dilakukan oleh orang atau jawatankuasa yang dilantik di bawah perenggan
+
+(1)(bb) hendaklah dibayar oleh institusi pendidikan tinggi swasta itu.
 
 (4) Jika suatu institusi pendidikan tinggi swasta tidak mematuhi apa-apa nasihat atau arahan yang diberikan kepadanya oleh orang atau jawatankuasa yang dilantik di bawah perenggan (1)(bb), maka ketakpatuhan itu boleh dijadikan alasan untuk membatalkan kelulusannya.
 
@@ -1952,9 +2364,17 @@ kursus pengajiannya jika—
 
 <!-- page 50 -->
 
-Notis tentang
+<!-- marginal: Notis tentang -->
 
-60. (1) Sesuatu institusi pendidikan tinggi swasta yang niat untuk sedang hendak menghentikan kegiatan perniagaannya menutup. kecuali atas sebab-sebab yang dinyatakan dalam perenggan 59(a) dan (b) dan subperenggan 59(d)(ii), hendaklah memberikan notis tentang niatnya untuk berbuat sedemikian sekurang-kurangnya bagi tempoh selama satu tahun kalender sebelum penutupannya.
+60. (1) Sesuatu institusi pendidikan tinggi swasta yang
+
+<!-- marginal: niat untuk -->
+
+sedang hendak menghentikan kegiatan perniagaannya
+
+<!-- marginal: menutup. -->
+
+kecuali atas sebab-sebab yang dinyatakan dalam perenggan 59(a) dan (b) dan subperenggan 59(d)(ii), hendaklah memberikan notis tentang niatnya untuk berbuat sedemikian sekurang-kurangnya bagi tempoh selama satu tahun kalender sebelum penutupannya.
 
 (2) Notis di bawah subseksyen (1) hendaklah—
 
@@ -2040,11 +2460,27 @@ ini bagi maksud memastikan bahawa Akta ini dan peraturan-peraturan yang dibuat d
 
 <!-- page 52 -->
 
-Kuasa Ketua
+<!-- marginal: Kuasa Ketua -->
 
-64. Dalam menjalankan pemeriksaan di bawah seksyen Pendaftar 63, Ketua Pendaftar boleh— semasa memeriksa institusi
+64. Dalam menjalankan pemeriksaan di bawah seksyen
 
-(a) memasuki— pendidikan tinggi swasta. (i) mana-mana kawasan termasuklah bangunan atau struktur di atasnya yang dipunyai atau digunakan oleh, sama ada secara tetap atau selainnya, atau sama ada didaftarkan atau tidak bagi kegunaan, institusi pendidikan tinggi swasta; atau
+<!-- marginal: Pendaftar -->
+
+63, Ketua Pendaftar boleh—
+
+<!-- marginal: semasa -->
+
+<!-- marginal: memeriksa -->
+
+<!-- marginal: institusi -->
+
+(a) memasuki—
+
+<!-- marginal: pendidikan -->
+
+<!-- marginal: tinggi swasta. -->
+
+(i) mana-mana kawasan termasuklah bangunan atau struktur di atasnya yang dipunyai atau digunakan oleh, sama ada secara tetap atau selainnya, atau sama ada didaftarkan atau tidak bagi kegunaan, institusi pendidikan tinggi swasta; atau
 
 (ii) mana-mana premis;
 
@@ -2112,9 +2548,17 @@ adalah melakukan suatu kesalahan, dan apabila disabitkan boleh didenda tidak mel
 
 (6) Seksyen ini tidak boleh ditafsirkan sebagai menghadkan atau menyentuh apa-apa kuasa yang serupa yang diberikan kepada mana-mana orang di bawah mana- mana undang-undang bertulis yang lain.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-67. (1) Jika didapati oleh Majistret, daripada maklumat menggeledah bertulis yang dibuat atas sumpah dan selepas apa-apa dan menyita. siasatan yang difikirkannya perlu, bahawa terdapat sebab yang munasabah untuk mempercayai bahawa—
+67. (1) Jika didapati oleh Majistret, daripada maklumat
+
+<!-- marginal: menggeledah -->
+
+bertulis yang dibuat atas sumpah dan selepas apa-apa
+
+<!-- marginal: dan menyita. -->
+
+siasatan yang difikirkannya perlu, bahawa terdapat sebab yang munasabah untuk mempercayai bahawa—
 
 (a) mana-mana premis telah digunakan atau sedang hendak digunakan bagi; atau
 
@@ -2170,9 +2614,13 @@ kelengahan mendapatkan waran geledah di bawah seksyen 67 maka—
 
 dia boleh menjalankan, di dalam dan berkenaan dengan premis itu, segala kuasa yang disebut dalam seksyen 67 secara yang sepenuhnya dan secukupnya seolah-olah dia telah diberikuasa berbuat sedemikian melalui waran yang dikeluarkan di bawah seksyen itu.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-69. (1) Jika pegawai penyiasat mempunyai alasan yang mengunci. munasabah untuk mempercayai bahawa mana-mana rumah, bangunan, premis atau tempat lain digunakan sebagai institusi pendidikan tinggi swasta—
+69. (1) Jika pegawai penyiasat mempunyai alasan yang
+
+<!-- marginal: mengunci. -->
+
+munasabah untuk mempercayai bahawa mana-mana rumah, bangunan, premis atau tempat lain digunakan sebagai institusi pendidikan tinggi swasta—
 
 (a) tanpa diluluskan dan didaftarkan di bawah Akta ini; dan
 
@@ -2238,7 +2686,27 @@ fakta dan keadaan sesuatu kes hadir di hadapannya dan untuk diperiksa secara lis
 
 adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu .tahun atau kedua-duanya.
 
-Tiada hak 71. Tiada seorang pun adalah, dalam apa-apa prosiding ke atas kos di hadapan mana-mana mahkamah berkenaan dengan prosiding, kerugian atau penyitaan apa-apa jua pun yang disita atau ditahan pada relief lain, menjalankan atau berupa menjalankan mana-mana kuasa dsb. yang diberikan kepadanya di bawah Bahagian ini, berhak mendapat kos prosiding itu atau apa-apa gantirugi atau relief lain, selain daripada perintah pemulangan benda yang disita atau ditahan itu, atau bayaran berdasarkan nilainya, melainkan jika penyitaan atau penahanan itu dibuat tanpa sebab yang munasabah atau berpatutan.
+<!-- marginal: Tiada hak -->
+
+71. Tiada seorang pun adalah, dalam apa-apa prosiding
+
+<!-- marginal: ke atas kos -->
+
+di hadapan mana-mana mahkamah berkenaan dengan
+
+<!-- marginal: prosiding, -->
+
+<!-- marginal: kerugian atau -->
+
+penyitaan apa-apa jua pun yang disita atau ditahan pada
+
+<!-- marginal: relief lain, -->
+
+menjalankan atau berupa menjalankan mana-mana kuasa
+
+<!-- marginal: dsb. -->
+
+yang diberikan kepadanya di bawah Bahagian ini, berhak mendapat kos prosiding itu atau apa-apa gantirugi atau relief lain, selain daripada perintah pemulangan benda yang disita atau ditahan itu, atau bayaran berdasarkan nilainya, melainkan jika penyitaan atau penahanan itu dibuat tanpa sebab yang munasabah atau berpatutan.
 
 <!-- page 59 -->
 
@@ -2286,23 +2754,41 @@ mengubahsuaikan iklan itu.
 
 <!-- page 60 -->
 
-(2) Ketua Pendaftar boleh mengubah, menambah kepada, menukar, membatalkan atau selainnya meminda apa-apa arahan yang dikeluarkan di bawah subseksyen (1) melalui notis secara bertulis k pada institusi pendidikan tinggi swasta yang berkenaan.
+(2) Ketua Pendaftar boleh mengubah, menambah kepada, menukar, membatalkan atau selainnya meminda apa-apa arahan yang dikeluarkan di bawah subseksyen
+
+(1) melalui notis secara bertulis k pada institusi pendidikan tinggi swasta yang berkenaan.
 
 (3) Selepas pendaftaran sesuatu institusi pendidikan tinggi swasta di bawah Bahagian V, mana-mana iklan berhubungan dengan institusi pendidikan tinggi swasta itu hendaklah mengandungi nombor pendaftaran institusi pendidikan tinggi swasta itu.
 
 (4) Mana-mana orang atau institusi pendidikan tinggi swasta yang melanggar arahan Ketua Pendaftar di bawah subseksyen (1) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.
 
-(5) Apa-apa tindakan yang diambil oleh Ketua Pendaftar di bawah seksyen ini tidak menjejaskan kuasa Pengawal, Timbalan Pengawal atau Penolong Pengawal Akta 87. Perihal Dagangan di bawah Akta Perihal Dagangan 1972.
+(5) Apa-apa tindakan yang diambil oleh Ketua Pendaftar di bawah seksyen ini tidak menjejaskan kuasa Pengawal, Timbalan Pengawal atau Penolong Pengawal
 
-Tafsiran
+<!-- marginal: Akta 87. -->
 
-74. Bagi maksud seksyen 72 dan 73, "iklan" ertinya pengiklanan apa-apa pemberitahuan atau maklumat mengenai penubuhan institusi pendidikan tinggi swasta—
+Perihal Dagangan di bawah Akta Perihal Dagangan 1972.
+
+<!-- marginal: Tafsiran -->
+
+74. Bagi maksud seksyen 72 dan 73, "iklan" ertinya
+
+<!-- marginal: pengiklanan -->
+
+apa-apa pemberitahuan atau maklumat mengenai penubuhan institusi pendidikan tinggi swasta—
 
 (a) yang disiarkan dalam mana-mana akhbar, jurnal atau majalah atau apa-apa bentuk lain;
 
 (b) yang dipamerkan pada mana-mana papan iklan, papan, bumbung, dinding, paling, pagar, rangka, papan tanda, plat, kain rentang, palang, batang tiang, tonggak, tuangan dawai atau binaan, struktur atau rekaan lain;
 
-(c) yang disampaikan melalui filem dalam pengertian Akta 35. Akta Filem Wayang Gambar (Penapisan) 1952 atau melalui alat terima radio atau alat terima P.W. 69/64. televisyen dalam pengertian Peraturan-Peraturan Telekom (Alat Terima Televisyen) 1964; atau
+(c) yang disampaikan melalui filem dalam pengertian
+
+<!-- marginal: Akta 35. -->
+
+Akta Filem Wayang Gambar (Penapisan) 1952 atau melalui alat terima radio atau alat terima
+
+<!-- marginal: P.W. 69/64. -->
+
+televisyen dalam pengertian Peraturan-Peraturan Telekom (Alat Terima Televisyen) 1964; atau
 
 <!-- page 61 -->
 
@@ -2418,25 +2904,67 @@ dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
 
 <!-- page 62 -->
 
-Penalti
+<!-- marginal: Penalti -->
 
-78. Mana-mana institusi pendidikan tinggi swasta yang kerana melanggar mana-mana syarat yang dikenakan atas pelanggaran syarat. kelulusan bagi penubuhannya dan pendaftarannya, adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.
+78. Mana-mana institusi pendidikan tinggi swasta yang
 
-Kesalahan
+<!-- marginal: kerana -->
 
-79. Mana-mana— dan penalti berhubungan
+melanggar mana-mana syarat yang dikenakan atas
 
-(a) pemohon yang, semasa membuat permohonan dengan untuk mendapatkan kelulusan bagi penubuhan permohonan yang dibuat suatu institusi pendidikan tinggi swasta; atau di bawah Akta.
+<!-- marginal: pelanggaran -->
+
+<!-- marginal: syarat. -->
+
+kelulusan bagi penubuhannya dan pendaftarannya, adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.
+
+<!-- marginal: Kesalahan -->
+
+79. Mana-mana—
+
+<!-- marginal: dan penalti -->
+
+<!-- marginal: berhubungan -->
+
+(a) pemohon yang, semasa membuat permohonan
+
+<!-- marginal: dengan -->
+
+untuk mendapatkan kelulusan bagi penubuhan
+
+<!-- marginal: permohonan -->
+
+<!-- marginal: yang dibuat -->
+
+suatu institusi pendidikan tinggi swasta; atau
+
+<!-- marginal: di bawah -->
+
+<!-- marginal: Akta. -->
 
 (b) institusi pendidikan tinggi swasta yang, semasa membuat apa-apa permohonan,
 
 di bawah Akta ini, membuat pernyataan yang diketahuinya adalah palsu atau yang dia atau ia percaya adalah tidak benar atau sengaja menyembunyikan apa-apa fakta yang material, atau memberikan apa-apa maklumat yang mengelirukan adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi dua ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
 
-Kesalahan
+<!-- marginal: Kesalahan -->
 
-80. Mana-mana— dan penalti berhubungan
+80. Mana-mana—
 
-(a) orang yang, sebagai pemunya atau penghuni dengan mana-mana rumah, bangunan, premis atau aktiviti tak sah. tempat, telah tidak mengambil langkah yang munasabah untuk mengelakkan
+<!-- marginal: dan penalti -->
+
+<!-- marginal: berhubungan -->
+
+(a) orang yang, sebagai pemunya atau penghuni
+
+<!-- marginal: dengan -->
+
+mana-mana rumah, bangunan, premis atau
+
+<!-- marginal: aktiviti tak -->
+
+<!-- marginal: sah. -->
+
+tempat, telah tidak mengambil langkah yang munasabah untuk mengelakkan
 
 <!-- marginal: rumah, -->
 
@@ -2490,7 +3018,11 @@ ditutup, ketua eksekutif itu tidak memulangkan
 
 <!-- marginal: tinggi swasta. -->
 
-kepada Ketua Pendaftar perakuan pendaftaran- nya dan perakuan pendaftaran institusi pendidikan tinggi swasta itu;
+kepada Ketua Pendaftar perakuan pendaftaran- nya dan perakuan pendaftaran
+
+<!-- marginal: institusi -->
+
+pendidikan tinggi swasta itu;
 
 (c) mana-mana orang bekerja atau menjadi guru di institusi pendidikan tinggi swasta yang tidak diluluskan dan didaftarkan di bawah Akta ini;
 
@@ -2518,17 +3050,39 @@ berjaga-jaga yang munasabah bagi mengelakkan daripada melakukan kesalahan yang s
 
 mengikut mana-mana yang berkenaan.
 
-Penalti am.
+<!-- marginal: Penalti am. -->
 
 82. Seseorang yang melakukan suatu kesalahan di bawah Akta ini yang berkenaan dengannya tiada penalti diperuntukkan dengan nyata, apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit.
 
-Penalti
+<!-- marginal: Penalti -->
 
-83. Seseorang yang melakukan suatu kesalahan di bawah dalam hal Akta ini hendaklah, dalam hal kesalahan yang berterusan, kesalahan yang sebagai tambahan kepada apa-apa penalti lain yang boleh berterusan. dikenakan ke atasnya di bawah Akta ini berkenaan dengan kesalahan itu, didenda tidak melebihi lima ratus ringgit bagi setiap hari kesalahan itu berterusan selepas sabitan.
+83. Seseorang yang melakukan suatu kesalahan di bawah
 
-Kesalahan
+<!-- marginal: dalam hal -->
 
-84. Jika suatu pertubuhan perbadanan melakukan suatu oleh kesalahan di bawah Akta ini— pertubuhan perbadanan.
+Akta ini hendaklah, dalam hal kesalahan yang berterusan,
+
+<!-- marginal: kesalahan -->
+
+<!-- marginal: yang -->
+
+sebagai tambahan kepada apa-apa penalti lain yang boleh
+
+<!-- marginal: berterusan. -->
+
+dikenakan ke atasnya di bawah Akta ini berkenaan dengan kesalahan itu, didenda tidak melebihi lima ratus ringgit bagi setiap hari kesalahan itu berterusan selepas sabitan.
+
+<!-- marginal: Kesalahan -->
+
+84. Jika suatu pertubuhan perbadanan melakukan suatu
+
+<!-- marginal: oleh -->
+
+kesalahan di bawah Akta ini—
+
+<!-- marginal: pertubuhan -->
+
+<!-- marginal: perbadanan. -->
 
 (a) mana-mana orang yang, pada masa kesalahan itu dilakukan merupakan pengarah, pengurus, setiausaha, atau pegawai yang seumpamanya bagi pertubuhan perbadanan itu, boleh didakwa secara berasingan atau bersesama dalam prosiding yang sama dengan pertubuhan perbadanan itu; dan
 
@@ -2614,7 +3168,17 @@ bagi mengelakkan kesalahan itu daripada berlaku, sebagaimana yang sepatutnya dia
 
 (4) Seseorang pekongsi, ejen, kerani atau pengkhidmat, atau kerani atau pengkhidmat pekongsi atau ejen itu, tidaklah terlepas daripada pendakwaan di bawah seksyen ini.
 
-86. (1) Ketua Pendaftar boleh, dengan kebenaran bertulis Kuasa untuk meng- Pendakwa Raya, mengkompaun apa-apa kesalahan yang . kompaun. dilakukan oleh institusi pendidikan tinggi swasta atau seseorang di bawah Akta ini atau peraturan-peraturan yang dibuat di bawah Akta ini, yang ditetapkan sebagai kesalahan yang boleh dikompaun.
+86. (1) Ketua Pendaftar boleh, dengan kebenaran bertulis
+
+<!-- marginal: Kuasa untuk -->
+
+<!-- marginal: meng- -->
+
+Pendakwa Raya, mengkompaun apa-apa kesalahan yang
+
+<!-- marginal: . kompaun. -->
+
+dilakukan oleh institusi pendidikan tinggi swasta atau seseorang di bawah Akta ini atau peraturan-peraturan yang dibuat di bawah Akta ini, yang ditetapkan sebagai kesalahan yang boleh dikompaun.
 
 (2) Tawaran bertulis hendaklah dibuat kepada orang itu untuk mengkompaun kesalahan itu dengan membayar kepada Ketua Pendaftar apa-apa jumlah wang yang dinyatakan, yang tidak melebihi lima puluh peratus denda maksimum yang boleh dikenakan kepada orang itu jika dia disabitkan atas kesalahan itu, dalam masa apa-apa tempoh yang dinyatakan dalam tawaran itu.
 
@@ -2660,9 +3224,27 @@ Pendaftar, Penolong Pendaftar atau seorang pegawai polis yang berpangkat tidak r
 
 ## PERATURAN-PERATURAN
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-88. (1) Tanpa menjejaskan kuasanya untuk membuat Menteri peraturan-peraturan di bawah mana-mana peruntukan lain untuk membuat dalam Akta ini, Menteri boleh membuat peraturan- peraturan- peraturan bagi maksud melaksanakan peruntukan Akta peraturan. ini.
+88. (1) Tanpa menjejaskan kuasanya untuk membuat
+
+<!-- marginal: Menteri -->
+
+peraturan-peraturan di bawah mana-mana peruntukan lain
+
+<!-- marginal: untuk -->
+
+<!-- marginal: membuat -->
+
+dalam Akta ini, Menteri boleh membuat peraturan-
+
+<!-- marginal: peraturan- -->
+
+peraturan bagi maksud melaksanakan peruntukan Akta
+
+<!-- marginal: peraturan. -->
+
+ini.
 
 (2) Tanpa menjejaskan keluasan kuasa yang diberikan dalam subseksyen (1), Menteri boleh membuat peraturan- peraturan bagi atau berkenaan dengan kesemua atau mana- mana perkara yang berikut:
 
@@ -2710,15 +3292,53 @@ Kuasa
 
 AM
 
-Membezakan
+<!-- marginal: Membezakan -->
 
-89. (1) Tertakluk kepada peruntukan Perkara 153 antara ras Perlembagaan Persekutuan, keanggotaan institusi dan kepercayaan pendidikan tinggi swasta, sama ada sebagai pegawai, guru dilarang. atau pelajar, hendaklah dibuka kepada semua orang tanpa mengira jantina, ras, agama, bangsa atau kelas.
+89. (1) Tertakluk kepada peruntukan Perkara 153
+
+<!-- marginal: antara ras -->
+
+Perlembagaan Persekutuan, keanggotaan institusi
+
+<!-- marginal: dan -->
+
+<!-- marginal: kepercayaan -->
+
+pendidikan tinggi swasta, sama ada sebagai pegawai, guru
+
+<!-- marginal: dilarang. -->
+
+atau pelajar, hendaklah dibuka kepada semua orang tanpa mengira jantina, ras, agama, bangsa atau kelas.
 
 (2) Tiada ujian mengenai agama yang dianuti atau kepercayaan boleh diadakan atau dipaksakan untuk membolehkan seseorang berhak diterima sebagai anggota sedemikian atau untuk dianugerahkan apa-apa ijazah, diploma atau sijil atau fellowship, biasiswa, bantuan, dermasiswa, pingat, hadiah, atau kepujian atau penganugerahan lain boleh dihadkan bagi orang daripada mana-mana ras, agama, bangsa atau kelas tertentu.
 
-Indemniti
+<!-- marginal: Indemniti -->
 
-90. Tiada tindakan boleh diambil atau pendakwaan boleh dan dibawa, dimulakan atau dibuat terhadap Kerajaan, Menteri, perlindungan daripada Ketua Pendaftar, Timbalan Ketua Pendaftar, Pendaftar, guaman dan Timbalan Pendaftar atau Penolong Pendaftar atau terhadap prosiding undang- mana-mana pegawai Kerajaan atau mana-mana orang yang undang. bertindak di bawah arahan Menteri atau Ketua Pendaftar,
+90. Tiada tindakan boleh diambil atau pendakwaan boleh
+
+<!-- marginal: dan -->
+
+dibawa, dimulakan atau dibuat terhadap Kerajaan, Menteri,
+
+<!-- marginal: perlindungan -->
+
+<!-- marginal: daripada -->
+
+Ketua Pendaftar, Timbalan Ketua Pendaftar, Pendaftar,
+
+<!-- marginal: guaman dan -->
+
+Timbalan Pendaftar atau Penolong Pendaftar atau terhadap
+
+<!-- marginal: prosiding -->
+
+<!-- marginal: undang- -->
+
+mana-mana pegawai Kerajaan atau mana-mana orang yang
+
+<!-- marginal: undang. -->
+
+bertindak di bawah arahan Menteri atau Ketua Pendaftar,
 
 <!-- page 71 -->
 
@@ -2788,7 +3408,7 @@ atau demi kepentingan pelajar atau orang awam, melalui perintah yang disiarkan d
 
 adalah tidak munasabah dalam keadaan yang sedemikian untuk menghendaki institusi pendidikan tinggi swasta itu mematuhi keperluan dalam peraturan-peraturan mengenainya dalam apa-apa aspek tertentu, maka Menteri boleh mengarahkan supaya premis itu disifatkan mematuhi piawai yang ditetapkan jika sebagai ganti pematuhan kepada piawai yang ditetapkan itu, premis itu mematuhi apa-apa kehendak lain yang ditentukan dalam arahan itu.
 
-Penyampaian.
+<!-- marginal: Penyampaian. -->
 
 94. (1) Apa-apa notis, perintah, dokumen atau perhubungan lain yang dikehendaki diberikan atau disampaikan di bawah Akta ini kepada institusi pendidikan tinggi swasta boleh, melainkan jika cara penyampaian yang lain ditetapkan, dihantar melalui pos berdaftar.
 
@@ -2870,21 +3490,71 @@ hendaklah, pada tarikh mula berkuatkuasanya Akta ini, disifatkan telah diluluska
 
 (4) Peruntukan Akta ini hendaklah terpakai bagi institusi pendidikan tinggi swasta itu seolah-olah institusi pendidikan tinggi swasta itu telah diluluskan, ditubuhkan dan didaftarkan di bawah Akta ini.
 
-Penukaran
+<!-- marginal: Penukaran -->
 
-97. (1) Perakuan pendaftaran sementara yang perakuan dikeluarkan atau disifatkan telah dikeluarkan kepada suatu pendaftaran sementara. institusi pendidikan tinggi swasta di bawah Akta Akta . Pendidikan 1996, hendaklah ditukarkan menjadi dan disifatkan menjadi suatu perakuan pendaftaran yang dikeluarkan di bawah Akta ini.
+97. (1) Perakuan pendaftaran sementara yang
+
+<!-- marginal: perakuan -->
+
+dikeluarkan atau disifatkan telah dikeluarkan kepada suatu
+
+<!-- marginal: pendaftaran -->
+
+<!-- marginal: sementara. -->
+
+institusi pendidikan tinggi swasta di bawah Akta
+
+<!-- marginal: Akta -->
+
+. Pendidikan 1996, hendaklah ditukarkan menjadi dan disifatkan menjadi suatu perakuan pendaftaran yang dikeluarkan di bawah Akta ini.
 
 (2) Sebagai tambahan kepada syarat yang boleh dikenakan di bawah mana-mana peruntukan Akta ini, institusi pendidikan tinggi swasta itu hendaklah juga mematuhi apa-apa syarat lain yang boleh dikenakan oleh Ketua Pendaftar, dari semasa ke semasa.
 
-98. (1) Menteri boleh, melalui kaedah-kaedah, membuat Kuasa Menteri apa-apa peruntukan yang difikirkannya perlu atau untuk membuat suaimanfaat bagi maksud menghapuskan apa-apa peruntukan kesukaran yang ditimbulkan oleh pemakaian Akta ini peralihan tambahan. bagi institusi pendidikan tinggi swasta—
+98. (1) Menteri boleh, melalui kaedah-kaedah, membuat
 
-P.U. (A)
+<!-- marginal: Kuasa -->
 
-(a) yang ditubuhkan di bawah Peraturan-Peraturan 234/69. Perlu (Yayasan Pengajian Tinggi) 1969;
+<!-- marginal: Menteri -->
 
-(b) yang didaftarkan atau disifatkan telah didaftarkan Akta . di bawah Akta Pendidikan 1996; dan
+apa-apa peruntukan yang difikirkannya perlu atau
 
-(c) yang kepadanya perakuan pendaftaran sementara telah dikeluarkan atau disifatkan telah Akta . dikeluarkan di bawah Akta Pendidikan 1996.
+<!-- marginal: untuk -->
+
+<!-- marginal: membuat -->
+
+suaimanfaat bagi maksud menghapuskan apa-apa
+
+<!-- marginal: peruntukan -->
+
+kesukaran yang ditimbulkan oleh pemakaian Akta ini
+
+<!-- marginal: peralihan -->
+
+<!-- marginal: tambahan. -->
+
+bagi institusi pendidikan tinggi swasta—
+
+<!-- marginal: P.U. (A) -->
+
+(a) yang ditubuhkan di bawah Peraturan-Peraturan
+
+<!-- marginal: 234/69. -->
+
+Perlu (Yayasan Pengajian Tinggi) 1969;
+
+(b) yang didaftarkan atau disifatkan telah didaftarkan
+
+<!-- marginal: Akta -->
+
+. di bawah Akta Pendidikan 1996; dan
+
+(c) yang kepadanya perakuan pendaftaran sementara telah dikeluarkan atau disifatkan
+
+<!-- marginal: telah -->
+
+<!-- marginal: Akta -->
+
+. dikeluarkan di bawah Akta Pendidikan 1996.
 
 (2) Kuasa Menteri di bawah subseksyen (1) hendaklah termasuk kuasa untuk membuat apa-apa ubahsuaian bagi melaksanakan peruntukan Akta ini.
 

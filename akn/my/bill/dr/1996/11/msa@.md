@@ -26,7 +26,7 @@ oleh Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan De
 
 2. Perkara 46 Perlembagaan Persekutuan adalah dipinda—
 
-<!-- marginal: Perkara 46. -->
+## Perkara 46.
 
 (a) dengan menggantikan perkataan "sembilan puluh dua" dalam Pasal (1) dengan perkataan "sembilan puluh tiga"; dan
 
@@ -42,13 +42,55 @@ oleh Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan De
 
 ## RANG UNDANG-UNDANG
 
-Keanggotaan
+<!-- marginal: Keanggotaan -->
 
-3. Perkara 46 Perlembagaan Persekutuan, sebagaimana Dewan yang dipinda oleh seksyen 2 Akta ini, tidaklah menyentuh Rakyat yang sedia ada keanggotaan Dewan Rakyat atau mana-mana pemilihan atau kepada Dewan itu sehingga pembubaran Parlimen yang pemilihan kepada berlaku pada atau selepas tarikh mula berkuatkuasanya Dewan itu Perintah yang dibuat di bawah seksyen 12 Jadual Ketiga sebelum Perintah Belas kepada Perlembagaan Persekutuan berikutan dengan yang dibuat kajian semula yang dijalankan menurut Pasal (2) Perkara di bawah 113 Perlembagaan Persekutuan dan Jadual Ketiga Belas seksyen 12
+3. Perkara 46 Perlembagaan Persekutuan, sebagaimana
+
+<!-- marginal: Dewan -->
+
+yang dipinda oleh seksyen 2 Akta ini, tidaklah menyentuh
+
+<!-- marginal: Rakyat yang -->
+
+<!-- marginal: sedia ada -->
+
+keanggotaan Dewan Rakyat atau mana-mana pemilihan
+
+<!-- marginal: atau -->
+
+kepada Dewan itu sehingga pembubaran Parlimen yang
+
+<!-- marginal: pemilihan -->
+
+<!-- marginal: kepada -->
+
+berlaku pada atau selepas tarikh mula berkuatkuasanya
+
+<!-- marginal: Dewan itu -->
+
+Perintah yang dibuat di bawah seksyen 12 Jadual Ketiga
+
+<!-- marginal: sebelum -->
+
+<!-- marginal: Perintah -->
+
+Belas kepada Perlembagaan Persekutuan berikutan dengan
+
+<!-- marginal: yang dibuat -->
+
+kajian semula yang dijalankan menurut Pasal (2) Perkara
+
+<!-- marginal: di bawah -->
+
+113 Perlembagaan Persekutuan dan Jadual Ketiga Belas
+
+<!-- marginal: seksyen 12 -->
 
 ## Jadual Ketiga
 
-tersebut. Belas.
+tersebut.
+
+<!-- marginal: Belas. -->
 
 ## HURAIAN
 

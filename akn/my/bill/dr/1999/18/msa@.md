@@ -14,19 +14,7 @@
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan permulaan kuat kuasa
-
-2. Pemakaian
-
-3. Tafsiran
-
-4. Penyingkiran pilihan undang-undang
-
-5. Kecualian bagi perundangan lain yang berkaitan
-
-6. Tidak boleh berkontrak keluar
-
-7. Pelantikan Pengawal, Timbalan Pengawal, dsb.
+1. Tajuk ringkas dan permulaan kuat kuasa 2. Pemakaian 3. Tafsiran 4. Penyingkiran pilihan undang-undang 5. Kecualian bagi perundangan lain yang berkaitan 6. Tidak boleh berkontrak keluar 7. Pelantikan Pengawal, Timbalan Pengawal, dsb.
 
 ## BAHAGIAN
 
@@ -36,9 +24,7 @@ II
 
 ## REPRESENTASI PALSU DAN AMALAN TAK SAKSAMA
 
-8. Tafsiran
-
-9. Perlakuan yang mengelirukan
+8. Tafsiran 9. Perlakuan yang mengelirukan
 
 10. Representasi palsu atau mengelirukan
 
@@ -168,13 +154,7 @@ Pelindungan Pengguna
 
 ## GERENTI BERKENAAN DENGAN PEMBEKALAN PERKHIDMATAN
 
-53. Gerenti tersirat mengenai ketelitian dan kemahiran munasabah
-
-54. Gerenti tersirat mengenai kesesuaian bagi maksud tertentu
-
-55. Gerenti tersirat mengenai masa siap
-
-56. Gerenti tersirat mengenai harga
+53. Gerenti tersirat mengenai ketelitian dan kemahiran munasabah 54. Gerenti tersirat mengenai kesesuaian bagi maksud tertentu 55. Gerenti tersirat mengenai masa siap 56. Gerenti tersirat mengenai harga
 
 <!-- page 4 -->
 
@@ -244,55 +224,13 @@ IX
 
 <!-- page 5 -->
 
-Pelindungan Pengguna
-
-80. Setiausaha kepada Majlis dan pegawai lain
-
-81. Elaun
-
-82. Majlis boleh mengundang orang lain menghadiri mesyuarat
-
-83. Kesahan tindakan dan prosiding
-
-84. Peraturan-peraturan yang berhubungan dengan Majlis
+Pelindungan Pengguna 80. Setiausaha kepada Majlis dan pegawai lain 81. Elaun 82. Majlis boleh mengundang orang lain menghadiri mesyuarat 83. Kesahan tindakan dan prosiding 84. Peraturan-peraturan yang berhubungan dengan Majlis
 
 ## BAHAGIAN XII
 
 ## TRIBUNAL TUNTUTAN PENGGUNA
 
-85. Penubuhan Tribunal Tuntutan Pengguna
-
-86. Keanggotaan Tribunal
-
-87. Penjalanan sementara fungsi Pengerusi
-
-88. Pengosongan jawatan
-
-89. Pembatalan pelantikan
-
-90. Peletakan jawatan
-
-91. Pengisian kekosongan
-
-92. Saraan
-
-93. Setiausaha Tribunal dan pegawai lain
-
-94. Pekhidmat awam
-
-95. Tiada tindakan terhadap Tribunal
-
-96. Sidang Tribunal
-
-97. Pemulaan prosiding
-
-98. Bidang kuasa Tribunal
-
-99. Pembatasan bidang kuasa
-
-100. Peluasan bidang kuasa melalui perjanjian
-
-101. Peninggalan untuk membawa tuntutan ke dalam bidang kuasa
+85. Penubuhan Tribunal Tuntutan Pengguna 86. Keanggotaan Tribunal 87. Penjalanan sementara fungsi Pengerusi 88. Pengosongan jawatan 89. Pembatalan pelantikan 90. Peletakan jawatan 91. Pengisian kekosongan 92. Saraan 93. Setiausaha Tribunal dan pegawai lain 94. Pekhidmat awam 95. Tiada tindakan terhadap Tribunal 96. Sidang Tribunal 97. Pemulaan prosiding 98. Bidang kuasa Tribunal 99. Pembatasan bidang kuasa 100. Peluasan bidang kuasa melalui perjanjian 101. Peninggalan untuk membawa tuntutan ke dalam bidang kuasa
 
 102. Kausa tindakan tidak boleh dibahagi
 
@@ -424,17 +362,13 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
-1. (1) Akta ini bolehlah dinamakan Akta Pelindungan Pengguna
-
-1999.
+1. (1) Akta ini bolehlah dinamakan Akta Pelindungan Pengguna 1999.
 
 (2) Akta ini hendaklah mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta, dan Menteri boleh menetapkan tarikh yang berlainan bagi peruntukan yang berlainan dalam Akta ini.
 
 ### Pemakaian
 
-2.
-
-(1) Tertakluk kepada subseksyen (2), Akta ini hendaklah terpakai berkenaan dengan semua barang dan perkhidmatan yang ditawarkan atau dibekalkan kepada seorang pengguna atau lebih secara perdagangan.
+2. (1) Tertakluk kepada subseksyen (2), Akta ini hendaklah terpakai berkenaan dengan semua barang dan perkhidmatan yang ditawarkan atau dibekalkan kepada seorang pengguna atau lebih secara perdagangan.
 
 (2) Akta ini tidaklah terpakai—
 
@@ -456,9 +390,7 @@ Rang Undang-Undang
 
 (g) bagi apa-apa urus niaga perdagangan yang dilaksanakan dengan cara elektronik melainkan jika ditetapkan selainnya oleh Menteri.
 
-(3) Walau apa pun subseksyen (1) dan (2), Akta ini hendaklah terpakai bagi apa-apa perkara yang ditetapkan di bawah seksyen
-
-103.
+(3) Walau apa pun subseksyen (1) dan (2), Akta ini hendaklah terpakai bagi apa-apa perkara yang ditetapkan di bawah seksyen 103.
 
 (4) Pemakaian Akta ini adalah bersifat tambahan dan tanpa menjejaskan apa-apa undang-undang lain yang mengawal selia hubungan kontrak.
 
@@ -1116,11 +1048,7 @@ IV
 
 ### Pelanggaran Bahagian II dan III menjadi suatu kesalahan
 
-25. (1) Mana-mana orang yang melanggar mana-mana peruntukan
-
-## Bahagian II dan III adalah melakukan suatu kesalahan dan apabila
-
-disabitkan boleh—
+25. (1) Mana-mana orang yang melanggar mana-mana peruntukan Bahagian II dan III adalah melakukan suatu kesalahan dan apabila disabitkan boleh—
 
 (a) jika orang itu suatu pertubuhan perbadanan, didenda tidak melebihi dua ratus lima puluh ribu ringgit dan bagi kesalahan kali kedua atau yang berikutnya, boleh didenda tidak melebihi lima ratus ribu ringgit;
 
@@ -1342,7 +1270,11 @@ Rang Undang-Undang
 
 (a) bahawa barang itu adalah semunasabahnya sesuai bagi apa-apa maksud tertentu yang telah dimaklumkan, secara nyata atau tersirat, oleh pengguna kepada pembekal sebagai maksud barang itu diperoleh oleh pengguna; dan
 
-(b) bahawa barang itu adalah semunasabahnya sesuai untuk apa-apa maksud tertentu yang telah dinyatakan oleh pembekal ia sesuai atau akan menjadi sesuai baginya.
+(b) bahawa barang itu adalah semunasabahnya sesuai untuk apa-apa maksud tertentu yang
+
+<!-- marginal: telah dinyatakan -->
+
+oleh pembekal ia sesuai atau akan menjadi sesuai baginya.
 
 (2) Gerenti tersirat yang disebut dalam subseksyen (1) tidaklah terpakai jika hal keadaan menunjukkan bahawa—
 
@@ -1482,7 +1414,9 @@ Pelindungan Pengguna
 
 (1)(a), atau enggan atau abai untuk berbuat demikian dalam masa yang munasabah, pengguna boleh—
 
-(a) membetulkan kegagalan itu di tempat
+(a) membetulkan kegagalan itu di
+
+<!-- marginal: tempat -->
 
 <!-- marginal: lain dan -->
 
@@ -1638,9 +1572,7 @@ itu atau seseorang yang bertindak bagi pihak pengedar itu berkaitan dengan, atau
 
 Pelindungan Pengguna
 
-(4) Jika pemegang serah hak yang disebut dalam subseksyen
-
-(2) atau pembiaya yang disebut dalam subseksyen (3) menanggung apa-apa kerugian disebabkan oleh liabiliti kepada pengguna di bawah Akta ini, pemegang serah hak atau pembiaya itu hendaklah, tertakluk kepada apa-apa perjanjian dengan pembekal, berhak untuk ditanggung rugi oleh pembekal terhadap kerugian itu.
+(4) Jika pemegang serah hak yang disebut dalam subseksyen (2) atau pembiaya yang disebut dalam subseksyen (3) menanggung apa-apa kerugian disebabkan oleh liabiliti kepada pengguna di bawah Akta ini, pemegang serah hak atau pembiaya itu hendaklah, tertakluk kepada apa-apa perjanjian dengan pembekal, berhak untuk ditanggung rugi oleh pembekal terhadap kerugian itu.
 
 (5) Tiada penyerahhakan hak di bawah sesuatu kontrak pembekalan boleh menjejaskan penggunaan mana-mana hak atau remedi yang diberikan di bawah Akta ini terhadap pembekal.
 
@@ -1806,7 +1738,11 @@ Rang Undang-Undang
 
 (1)(a), atau enggan atau abai untuk berbuat demikian dalam masa yang munasabah, pengguna boleh—
 
-(a) membetulkan kegagalan itu di tempat lain dan mendapatkan semua kos munasabah yang ditanggung dalam membetulkan kegagalan itu daripada pembekal; atau
+(a) membetulkan kegagalan itu di
+
+<!-- marginal: tempat lain dan -->
+
+mendapatkan semua kos munasabah yang ditanggung dalam membetulkan kegagalan itu daripada pembekal; atau
 
 (b) tertakluk kepada seksyen 61, membatalkan kontrak bagi pembekalan perkhidmatan itu mengikut seksyen 63.
 
@@ -2298,7 +2234,9 @@ Pelindungan Pengguna
 
 (ii) suatu kesalahan di bawah mana-mana undang- undang yang berhubungan dengan rasuah;
 
-(iii) suatu kesalahan di bawah Akta ini; atau
+(iii) suatu kesalahan di bawah Akta
+
+<!-- marginal: ini; atau -->
 
 (iv) apa-apa kesalahan lain yang boleh dihukum dengan pemenjaraan selama lebih daripada dua tahun;
 
@@ -2806,9 +2744,7 @@ apa-apa soalan, tetapi apa-apa jua yang kamu nyatakan, sama ada pada menjawab se
 
 (b) jika dibuat oleh mana-mana orang sebelum ada masa untuk dia diberi amaran, tidak boleh dijadikan tidak boleh diterima sebagai keterangan hanya atas sebab tidak ada amaran diberikan jika amaran itu telah diberikan dengan secepat mungkin.
 
-(3) Walau apa pun apa-apa jua yang berlawanan yang terkandung dalam mana-mana undang-undang bertulis, seseorang yang dipertuduh atas sesuatu kesalahan yang baginya subseksyen (1) terpakai tidaklah diwajibkan menjawab apa-apa soalan yang berhubungan dengan kes itu selepas amaran di bawah subseksyen
-
-(2) telah diberikan kepadanya.
+(3) Walau apa pun apa-apa jua yang berlawanan yang terkandung dalam mana-mana undang-undang bertulis, seseorang yang dipertuduh atas sesuatu kesalahan yang baginya subseksyen (1) terpakai tidaklah diwajibkan menjawab apa-apa soalan yang berhubungan dengan kes itu selepas amaran di bawah subseksyen (2) telah diberikan kepadanya.
 
 ### Pelucuthakan barang, dsb., yang disita
 
@@ -3044,7 +2980,9 @@ Pelindungan Pengguna
 
 ### Peraturan-peraturan
 
-150. (1) Menteri boleh membuat peraturan-peraturan yang perlu atau suaimanfaat bagi maksud melaksanakan peruntukan Akta ini.
+150. (1) Menteri boleh membuat peraturan-peraturan yang perlu atau suaimanfaat bagi maksud melaksanakan peruntukan Akta
+
+<!-- marginal: ini. -->
 
 (2) Khususnya dan tanpa menjejaskan keluasan subseksyen (1), peraturan-peraturan itu boleh—
 
@@ -3146,7 +3084,11 @@ Fasal 38 memperkatakan kesan gerenti nyata pengilang.
 
 7. Bahagian VI mengandungi peruntukan yang berhubungan dengan hak pengguna terhadap pembekal berkenaan dengan gerenti dalam pembekalan barang.
 
-Fasal 39 memberi pengguna hak tebus rugi terhadap pembekal barang jika barang itu gagal untuk mematuhi gerenti tersirat di bawah fasal 31 hingga 37. Subfasal 36(2) dan (3) mengehadkan hak tebus rugi terhadap pembekal bagi kegagalan untuk mematuhi gerenti tersirat mengenai harga hanya setakat keengganan untuk membayar lebih daripada harga yang munasabah.
+Fasal 39 memberi pengguna hak tebus rugi terhadap pembekal barang jika barang itu gagal untuk mematuhi gerenti tersirat di bawah
+
+<!-- marginal: fasal 31 hingga 37. -->
+
+Subfasal 36(2) dan (3) mengehadkan hak tebus rugi terhadap pembekal bagi kegagalan untuk mematuhi gerenti tersirat mengenai harga hanya setakat keengganan untuk membayar lebih daripada harga yang munasabah.
 
 Fasal 40 memperuntukkan bahawa tidak ada hak tebus rugi terhadap pembekal berkenaan dengan kegagalan barang untuk mematuhi gerenti tersirat mengenai kualiti boleh terima jika representasi mengenai kualiti boleh terima itu dibuat oleh pengilang selain dengan soatu pernyataan pada apa-apa pembungkus atau label dan barang itu akan mematuhi gerenti itu jika representasi itu tidak dibuat.
 

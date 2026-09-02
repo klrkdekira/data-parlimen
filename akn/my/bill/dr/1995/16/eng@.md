@@ -34,9 +34,13 @@ referred to as the "principal Act", is amended in section
 
 <!-- page 2 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Section 47 of the principal Act is amended by inserting of section after subsection (1) the following subsection:
+3. Section 47 of the principal Act is amended by inserting
+
+<!-- marginal: of section -->
+
+after subsection (1) the following subsection:
 
 47. "(1A) The powers referred to in subsection (1) shall include the power to amend the name of any port under the First Schedule.".
 

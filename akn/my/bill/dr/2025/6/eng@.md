@@ -92,7 +92,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 7. The principal Act is amended by inserting after new section 22c the following part:
 
-“Part IVa
+## “PART IVA
 
 ## IMPORTATION OF ELECTRICITY AND EXPORTATION OF
 
@@ -144,7 +144,7 @@ in accordance with the procedure as may be prescribed.
 
 9. The principal Act is amended by inserting after section 32 the following part:
 
-“Part VIa
+## “PART VIA
 
 ## GREEN ATTRIBUTES
 

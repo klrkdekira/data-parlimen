@@ -8,7 +8,15 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-1. Short title and commencement 2. Temporary revisionary jurisdiction of the Federal Court on death sentence 3. Application for review of death sentence 4. Temporary revisionary jurisdiction of the Federal Court on sentence of imprisonment for natural life 5. Application for review of sentence of imprisonment for natural life
+1. Short title and commencement
+
+2. Temporary revisionary jurisdiction of the Federal Court on death sentence
+
+3. Application for review of death sentence
+
+4. Temporary revisionary jurisdiction of the Federal Court on sentence of imprisonment for natural life
+
+5. Application for review of sentence of imprisonment for natural life
 
 <!-- page 3 -->
 

@@ -8,25 +8,37 @@ An Act to amend the Pensions Act 1980. [ ]
 
 BE IT ENACTED by the Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
 
-Short title.
+<!-- marginal: Short title. -->
 
 1. This Act may be cited as the Pensions (Amendment) Act 1990.
 
-New section
+<!-- marginal: New section -->
 
-2. The Pensions Act 1980, which in this Act is referred 6A. to as the "principal Act", is amended by inserting after Act227. section 6 the following new section 6A:
+2. The Pensions Act 1980, which in this Act is referred
 
-"Exercise
+<!-- marginal: 6A. -->
 
-6A. (1) An officer appointed on or after the of option. commencement of this section shall, before being confirmed in his appointment, be entitled to opt for the Employees Provident Fund Scheme.
+to as the "principal Act", is amended by inserting after
+
+<!-- marginal: Act227. -->
+
+section 6 the following new section 6A:
+
+"Exercise 6A. (1) An officer appointed on or after the of option. commencement of this section shall, before being confirmed in his appointment, be entitled to opt for the Employees Provident Fund Scheme.
 
 (2) The option under subsection (1) shall be made to the appropriate appointing authority in such manner as may be determined by the Director General.
 
-(3) The exercise of the option by an officer under this section shall take effect on his being confirmed in his appointment and shall thereupon be irrevocable.
+(3) The exercise of the option by an officer under this section shall take effect on his being confirmed in his appointment
+
+<!-- marginal: and -->
+
+<!-- marginal: shall -->
+
+thereupon be irrevocable.
 
 <!-- page 2 -->
 
-2
+<!-- marginal: 2 -->
 
 (4) Where an officer opts for the Employees Provident Fund Scheme, the provisions of this Act, except this section, shall not apply to such officer.
 
@@ -34,11 +46,17 @@ New section
 
 (6) The Yang di-Pertuan Agong, in the case of a federal officer or a local federal officer, or the State Authority, in the case of a state officer, may require an officer who opts for the Employees Provident Fund Scheme to retire from the public service in any of the circumstances referred to in paragraphs (a), (b), (c), (d), (e) and (f) of sub- section (5) of section 10.
 
-(7) In this section "Employees Provident Fund Scheme" refers to a provident fund estab- Act 2 72. lished under the Employees Provident Fund Act 1951, including a fund declared by the Em- ployees Provident Fund Board under section 16 of that Act to be an approved fund.".
+(7) In this section "Employees Provident Fund Scheme" refers to a provident fund estab-
 
-Amendment
+<!-- marginal: Act 2 72. -->
 
-3. Section 8 of the principal Act is amended— of section 8.
+lished under the Employees Provident Fund Act 1951, including a fund declared by the Em- ployees Provident Fund Board under section 16 of that Act to be an approved fund.".
+
+<!-- marginal: Amendment -->
+
+3. Section 8 of the principal Act is amended—
+
+<!-- marginal: of section 8. -->
 
 (a) by deleting the word "or" at the end of paragraph
 
@@ -46,17 +64,13 @@ Amendment
 
 (b) by substituting for the full stop at the end of para- graph (b) the words ";or"; and
 
-(c) by inserting after paragraph (b) the following new paragraph (c): "(c) a pensionable employee under the Statutory and Local Authorities Pension Act 1980 or any other written law who is perma- nently transferred by appointment
+(c) by inserting after paragraph (b) the following new paragraph (c): "(c) a pensionable employee under the Statutory and Local Authorities Pension Act 1980 or any other written law who is perma- nently transferred by appointment to the public service.".
 
-<!-- marginal: to -->
+<!-- marginal: Amendment -->
 
-<!-- marginal: the -->
+4. Section 10 of the principal Act is amended—
 
-public service.".
-
-Amendment
-
-4. Section 10 of the principal Act is amended— of section 10.
+<!-- marginal: of section 10. -->
 
 (a) by deleting the word "or" at the end of paragraph
 
@@ -86,9 +100,13 @@ Substitution
 
 5. The principal Act is amended by substituting for section of section 12. 12 the following:
 
-"Optional
+<!-- marginal: "Optional -->
 
-12. (1) The Yang di-Pertuan Agong, in the case of retirement. an officer other than a state officer, or the State Authority, in the case of a state officer, may, on the
+12. (1) The Yang di-Pertuan Agong, in the case of
+
+<!-- marginal: retirement. -->
+
+an officer other than a state officer, or the State Authority, in the case of a state officer, may, on the
 
 <!-- page 4 -->
 
@@ -122,9 +140,11 @@ half years from the date immediately following the date of death of the officer;
 
 tuting for the words "in the public interest" the words "under section 10(5)(d) or section 10(5)(f)".
 
-Amendment
+<!-- marginal: Amendment -->
 
-7. Section 23 of the principal Act is amended — of section 23.
+7. Section 23 of the principal Act is amended —
+
+<!-- marginal: of section 23. -->
 
 (a) by deleting the word "who" in subsection (2);
 

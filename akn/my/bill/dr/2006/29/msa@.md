@@ -120,4 +120,4 @@ empat puluh tiga ringgit (RM4,127,483,443) untuk perkhidmatan dan maksud
 
 yang dinyatakan dalam Jadual bagi tahun 2006.
 
-[PN(U2)2206]
+<!-- marginal: [PN(U2)2206] -->

@@ -8,7 +8,7 @@ An Act to amend the Criminal Procedure Code and the Criminal Procedure Code (Ame
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -18,7 +18,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (2) This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette and the Minister may appoint different dates for the coming into operation of different provisions of this Act.
 
-## Part II
+## PART II
 
 ## AMENDMENTS TO THE CRIMINAL PROCEDURE CODE
 
@@ -198,7 +198,7 @@ be sold by public auction or in such manner as may be practicable if—
 
 15. The Code is amended by inserting after Chapter XLI the following Chapter:
 
-“ChaPter XLIa
+## “CHAPTER XLIA
 
 ## PROVISIONS RELATING TO ORGANIZED CRIME
 
@@ -254,7 +254,9 @@ be sold by public auction or in such manner as may be practicable if—
 
 (iv) which is wholly or partly derived or obtained from or by means of any property referred to in paragraph (ii) or (iii);
 
-(v) which is wholly or partly traceable or attributable to any property referred to in paragraph (ii), (iii) or (iv), or to any income, earnings or assets of any such property;
+(v) which is wholly or partly traceable or attributable to any property referred to in paragraph (ii),
+
+(iii) or (iv), or to any income, earnings or assets of any such property;
 
 (vi) which is or was used to assist or facilitate the commission of any offence by any member of an organized criminal group; or
 
@@ -630,9 +632,7 @@ the High Court shall determine the same after giving an opportunity to be heard 
 
 (a) by inserting after the item relating to section 124 of the Penal Code, the following items under the respective columns:
 
-1 2 3 4 5
-
-<!-- marginal: 6 -->
+1 2 3 4 5 6
 
 <!-- marginal: 7 -->
 
@@ -686,7 +686,7 @@ parliamentary
 
 democracy
 
-124d Printing, do. do. do. do.
+124D Printing, do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -704,7 +704,7 @@ publication
 
 detrimental to parliamentary democracy
 
-124e Possession of do. do. do. do.
+124E Possession of do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -724,21 +724,17 @@ parliamentary democracy
 
 <!-- page 33 -->
 
-Penal Offence Whether the Whether Whether
-
-<!-- marginal: Whether -->
+Penal Offence Whether the Whether Whether Whether
 
 <!-- marginal: Maximum -->
 
-Code police may a bailable
-
-<!-- marginal: compoundable -->
+Code police may a bailable compoundable
 
 <!-- marginal: punishment -->
 
-ordinarily warrant or or not
+<!-- marginal: Section -->
 
-<!-- marginal: or not -->
+ordinarily warrant or or not or not
 
 <!-- marginal: under the -->
 
@@ -746,9 +742,7 @@ arrest a summons
 
 <!-- marginal: Penal Code -->
 
-without shall warrant ordinarily issue in the first instance 124f Importation of do. do. do.
-
-<!-- marginal: do. -->
+without shall warrant ordinarily issue in the first instance 124F Importation of do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -766,9 +760,7 @@ detrimental to
 
 parliamentary democracy
 
-124g Posting of do. do. do.
-
-<!-- marginal: do. -->
+124G Posting of do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -780,9 +772,7 @@ placards, etc.
 
 <!-- marginal: years -->
 
-124h Dissemination of do. do. do.
-
-<!-- marginal: do. -->
+124h Dissemination of do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -794,9 +784,7 @@ information
 
 <!-- marginal: years -->
 
-124I Dissemination of do. do. do.
-
-<!-- marginal: do. -->
+124I Dissemination of do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -808,9 +796,7 @@ false reports
 
 <!-- marginal: years -->
 
-124j Receipt of do. do. do.
-
-<!-- marginal: do. -->
+124j Receipt of do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -828,17 +814,13 @@ detrimental to
 
 parliamentary democracy
 
-124k Sabotage do. do. do.
-
-<!-- marginal: do. -->
+124K Sabotage do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
 <!-- marginal: for life -->
 
-124L Attempt to do. do. do.
-
-<!-- marginal: do. -->
+124L Attempt to do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -850,17 +832,13 @@ commit sabotage
 
 <!-- marginal: fifteen years -->
 
-124m Espionage do. do. do.
-
-<!-- marginal: do. -->
+124m Espionage do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
 <!-- marginal: for life -->
 
-124n Attempt do. do. do.
-
-<!-- marginal: do. -->
+124n Attempt do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -878,9 +856,7 @@ espionage
 
 (b) by inserting after the item relating to section 130f of the Penal Code, the following items under the respective columns:
 
-1 2 3 4 5
-
-<!-- marginal: 6 -->
+1 2 3 4 5 6
 
 <!-- marginal: 7 -->
 
@@ -892,6 +868,8 @@ Code police may a bailable compoundable
 
 <!-- marginal: punishment -->
 
+<!-- marginal: Section -->
+
 ordinarily warrant or or not or not
 
 <!-- marginal: under the -->
@@ -900,7 +878,11 @@ arrest a summons
 
 <!-- marginal: Penal Code -->
 
-without shall warrant or ordinarily not issue in the first instance “130fa Receiving do. do. do. do.
+without shall warrant or ordinarily not issue in the first instance
+
+<!-- marginal: “130FA -->
+
+Receiving do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -914,7 +896,9 @@ instruction
 
 from terrorist groups and persons committing terrorist acts
 
-130fb Attendance do. do. do. do.
+<!-- marginal: 130FB -->
+
+Attendance do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -930,9 +914,7 @@ training
 
 (c) by inserting after the item relating to section 130j of the Penal Code, the following items under the respective columns:
 
-1 2 3 4 5
-
-<!-- marginal: 6 -->
+1 2 3 4 5 6
 
 <!-- marginal: 7 -->
 
@@ -944,6 +926,8 @@ Code police may a bailable compoundable
 
 <!-- marginal: punishment -->
 
+<!-- marginal: Section -->
+
 ordinarily warrant or or not or not
 
 <!-- marginal: under the -->
@@ -952,7 +936,11 @@ arrest a summons
 
 <!-- marginal: Penal Code -->
 
-without shall warrant or ordinarily not issue in the first instance “130ja Travelling to, do. do. do. do.
+without shall warrant or ordinarily not issue in the first instance
+
+<!-- marginal: “130JA -->
+
+Travelling to, do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -966,7 +954,9 @@ from Malaysia
 
 for the commission of terrorist acts in foreign country
 
-130jb Possession, do. do. do. do.
+<!-- marginal: 130JB -->
+
+Possession, do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -990,21 +980,15 @@ or terrorist acts
 
 <!-- page 35 -->
 
-Penal Offence Whether the Whether Whether
-
-<!-- marginal: Whether -->
+Penal Offence Whether the Whether Whether Whether
 
 <!-- marginal: Maximum -->
 
-Code police may a bailable
-
-<!-- marginal: compoundable -->
+Code police may a bailable compoundable
 
 <!-- marginal: punishment -->
 
-ordinarily warrant or or not
-
-<!-- marginal: or not -->
+ordinarily warrant or or not or not
 
 <!-- marginal: under the -->
 
@@ -1012,9 +996,7 @@ arrest a summons
 
 <!-- marginal: Penal Code -->
 
-without shall warrant or ordinarily not issue in the first instance 130jC Offence to do. do. do.
-
-<!-- marginal: do. -->
+without shall warrant or ordinarily not issue in the first instance 130JC Offence to do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -1034,9 +1016,7 @@ acts
 
 <!-- marginal: of conveyance -->
 
-130jd Preparation of do. do. do.
-
-<!-- marginal: do. -->
+130JD Preparation of do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -1050,27 +1030,19 @@ terrorist acts
 
 (d) by inserting after the item relating to section 130k of the Penal Code, the following items under the respective columns:
 
-1 2 3 4 5
-
-<!-- marginal: 6 -->
+1 2 3 4 5 6
 
 <!-- marginal: 7 -->
 
-Penal Offence Whether the Whether Whether
-
-<!-- marginal: Whether -->
+Penal Offence Whether the Whether Whether Whether
 
 <!-- marginal: Maximum -->
 
-Code police may a bailable
-
-<!-- marginal: compoundable -->
+Code police may a bailable compoundable
 
 <!-- marginal: punishment -->
 
-ordinarily warrant or or not
-
-<!-- marginal: or not -->
+ordinarily warrant or or not or not
 
 <!-- marginal: under the -->
 
@@ -1080,9 +1052,7 @@ arrest a summons
 
 without shall warrant or ordinarily not issue in the first instance
 
-“130ka Member of a do. do. do.
-
-<!-- marginal: do. -->
+“130ka Member of a do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -1102,139 +1072,255 @@ terrorist group
 
 <!-- page 36 -->
 
-Penal Offence Whether the Whether Whether Whether
+<!-- marginal: Penal -->
 
-<!-- marginal: Maximum -->
+<!-- marginal: Offence -->
 
-Code police may a bailable compoundable
-
-<!-- marginal: punishment -->
-
-ordinarily warrant or or not or not
-
-<!-- marginal: under the -->
-
-arrest a summons
-
-<!-- marginal: Penal Code -->
-
-without shall warrant or ordinarily not issue in the first instance
-
-“130qa Accepting do. do. do. do.
-
-<!-- marginal: If the act -->
-
-gratification
-
-<!-- marginal: results in -->
-
-to facilitate
-
-<!-- marginal: death, with -->
-
-or enable
-
-<!-- marginal: death, in any -->
-
-terrorist acts
-
-<!-- marginal: other case, -->
-
-<!-- marginal: imprisonment -->
-
-<!-- marginal: for not less -->
-
-<!-- marginal: than seven -->
-
-<!-- marginal: years but not -->
-
-<!-- marginal: exceeding -->
-
-<!-- marginal: thirty years, -->
-
-<!-- marginal: and fine”; -->
-
-(f) by inserting after the item relating to section 130s of the Penal Code, the following items under the respective columns:
-
-1 2 3 4 5
-
-<!-- marginal: 6 -->
-
-<!-- marginal: 7 -->
-
-Penal Offence Whether the Whether Whether Whether
-
-<!-- marginal: Maximum -->
-
-Code police may a bailable compoundable
-
-<!-- marginal: punishment -->
-
-ordinarily warrant or or not or not
-
-<!-- marginal: under the -->
-
-arrest a summons
-
-<!-- marginal: Penal Code -->
-
-without shall warrant or ordinarily not issue in the first instance
-
-“ChaPter VIb – ORGANIZED CRIME
-
-130V Member of May Warrant Not Not
-
-<!-- marginal: Imprisonment -->
-
-an organized arrest bailable compoundable
-
-<!-- marginal: for not less -->
-
-criminal without
-
-<!-- marginal: than five years -->
-
-group warrant
-
-<!-- marginal: and not more -->
-
-<!-- marginal: than twenty -->
-
-<!-- marginal: years -->
-
-130w Assisting in do. do. do. do.
-
-<!-- marginal: Imprisonment -->
-
-an organized
-
-<!-- marginal: which may -->
-
-criminal
-
-<!-- marginal: extend to ten -->
-
-group
-
-<!-- marginal: years -->
-
-<!-- page 37 -->
-
-Penal Offence Whether the Whether Whether
+<!-- marginal: Whether the -->
 
 <!-- marginal: Whether -->
 
-<!-- marginal: Maximum -->
+<!-- marginal: Whether -->
 
-Code police may a bailable
+<!-- marginal: Whether -->
+
+Maximum
+
+<!-- marginal: Code -->
+
+<!-- marginal: police may -->
+
+<!-- marginal: a -->
+
+<!-- marginal: bailable -->
 
 <!-- marginal: compoundable -->
 
-<!-- marginal: punishment -->
+punishment
 
-ordinarily warrant or or not
+<!-- marginal: Section -->
+
+<!-- marginal: ordinarily -->
+
+<!-- marginal: warrant or -->
 
 <!-- marginal: or not -->
+
+<!-- marginal: or not -->
+
+under the
+
+<!-- marginal: arrest -->
+
+<!-- marginal: a summons -->
+
+Penal Code
+
+<!-- marginal: without -->
+
+<!-- marginal: shall -->
+
+<!-- marginal: warrant or -->
+
+<!-- marginal: ordinarily -->
+
+<!-- marginal: not -->
+
+<!-- marginal: issue in -->
+
+<!-- marginal: the first -->
+
+<!-- marginal: instance -->
+
+<!-- marginal: “130QA -->
+
+<!-- marginal: Accepting -->
+
+<!-- marginal: do. -->
+
+<!-- marginal: do. -->
+
+<!-- marginal: do. -->
+
+<!-- marginal: do. -->
+
+If the act
+
+<!-- marginal: gratification -->
+
+results in
+
+<!-- marginal: to facilitate -->
+
+death, with
+
+<!-- marginal: or enable -->
+
+death, in any
+
+<!-- marginal: terrorist acts -->
+
+other case, imprisonment for not less than seven years but not exceeding thirty years, and fine”;
+
+(f) by inserting after the item relating to section 130s of the Penal Code, the following items under the respective
+
+<!-- marginal: columns: -->
+
+<!-- marginal: 1 -->
+
+<!-- marginal: 2 -->
+
+<!-- marginal: 3 -->
+
+<!-- marginal: 4 -->
+
+<!-- marginal: 5 -->
+
+<!-- marginal: 6 -->
+
+7
+
+<!-- marginal: Penal -->
+
+<!-- marginal: Offence -->
+
+<!-- marginal: Whether the -->
+
+<!-- marginal: Whether -->
+
+<!-- marginal: Whether -->
+
+<!-- marginal: Whether -->
+
+Maximum
+
+<!-- marginal: Code -->
+
+<!-- marginal: police may -->
+
+<!-- marginal: a -->
+
+<!-- marginal: bailable -->
+
+<!-- marginal: compoundable -->
+
+punishment
+
+<!-- marginal: Section -->
+
+<!-- marginal: ordinarily -->
+
+<!-- marginal: warrant or -->
+
+<!-- marginal: or not -->
+
+<!-- marginal: or not -->
+
+under the
+
+<!-- marginal: arrest -->
+
+<!-- marginal: a summons -->
+
+Penal Code
+
+<!-- marginal: without -->
+
+<!-- marginal: shall -->
+
+<!-- marginal: warrant or -->
+
+<!-- marginal: ordinarily -->
+
+<!-- marginal: not -->
+
+<!-- marginal: issue in -->
+
+<!-- marginal: the first -->
+
+<!-- marginal: instance -->
+
+<!-- marginal: “ChaPter VIb – ORGANIZED CRIME -->
+
+<!-- marginal: 130V -->
+
+<!-- marginal: Member of -->
+
+<!-- marginal: May -->
+
+<!-- marginal: Warrant -->
+
+<!-- marginal: Not -->
+
+<!-- marginal: Not -->
+
+Imprisonment
+
+<!-- marginal: an organized -->
+
+<!-- marginal: arrest -->
+
+<!-- marginal: bailable -->
+
+<!-- marginal: compoundable -->
+
+for not less
+
+<!-- marginal: criminal -->
+
+<!-- marginal: without -->
+
+than five years
+
+<!-- marginal: group -->
+
+<!-- marginal: warrant -->
+
+and not more than twenty years
+
+<!-- marginal: 130W -->
+
+<!-- marginal: Assisting in -->
+
+<!-- marginal: do. -->
+
+<!-- marginal: do. -->
+
+<!-- marginal: do. -->
+
+<!-- marginal: do. -->
+
+Imprisonment
+
+<!-- marginal: an organized -->
+
+which may
+
+<!-- marginal: criminal -->
+
+extend to ten
+
+<!-- marginal: group -->
+
+years
+
+<!-- page 37 -->
+
+<!-- marginal: Penal -->
+
+Offence Whether the Whether Whether Whether
+
+<!-- marginal: Maximum -->
+
+<!-- marginal: Code -->
+
+police may a bailable compoundable
+
+<!-- marginal: punishment -->
+
+<!-- marginal: Section -->
+
+ordinarily warrant or or not or not
 
 <!-- marginal: under the -->
 
@@ -1244,9 +1330,9 @@ arrest a summons
 
 without shall warrant or ordinarily not issue in the first instance
 
-130X Harbouring do. do. do.
+<!-- marginal: 130X -->
 
-<!-- marginal: do. -->
+Harbouring do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -1264,9 +1350,9 @@ criminal
 
 group
 
-130y Consorting do. do. do.
+<!-- marginal: 130Y -->
 
-<!-- marginal: do. -->
+Consorting do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -1288,9 +1374,9 @@ group
 
 <!-- marginal: years -->
 
-130z Recruiting do. do. do.
+<!-- marginal: 130Z -->
 
-<!-- marginal: do. -->
+Recruiting do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -1308,9 +1394,9 @@ an organized
 
 criminal group
 
-130za Participation do. do. do.
+<!-- marginal: 130ZA -->
 
-<!-- marginal: do. -->
+Participation do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -1328,9 +1414,9 @@ criminal
 
 group
 
-130zb Accepting do. do. do.
+<!-- marginal: 130ZB -->
 
-<!-- marginal: do. -->
+Accepting do. do. do. do.
 
 <!-- marginal: If the act -->
 
@@ -1372,95 +1458,211 @@ activity
 
 <!-- page 38 -->
 
-Penal Offence Whether the Whether Whether Whether
+<!-- marginal: Penal -->
 
-<!-- marginal: Maximum -->
+<!-- marginal: Offence -->
 
-Code police may a bailable compoundable
+<!-- marginal: Whether the -->
 
-<!-- marginal: punishment -->
+<!-- marginal: Whether -->
 
-ordinarily warrant or or not or not
+<!-- marginal: Whether -->
 
-<!-- marginal: under the -->
+<!-- marginal: Whether -->
 
-arrest a summons
+Maximum
 
-<!-- marginal: Penal Code -->
+<!-- marginal: Code -->
 
-without shall warrant or ordinarily not issue in the first instance
+<!-- marginal: police may -->
 
-“176 If the do. do. do. do.
+<!-- marginal: a -->
 
-<!-- marginal: Imprisonment -->
+<!-- marginal: bailable -->
 
-notice of
+<!-- marginal: compoundable -->
 
-<!-- marginal: for seven -->
+punishment
 
-information
+<!-- marginal: Section -->
 
-<!-- marginal: years, or fine, -->
+<!-- marginal: ordinarily -->
 
-required
+<!-- marginal: warrant or -->
 
-<!-- marginal: or both”; -->
+<!-- marginal: or not -->
 
-respects the commission of offences under Chapter VIb
+<!-- marginal: or not -->
 
-(h) by inserting after the item relating to section 203 of the Penal Code, the following items under the respective columns:
+under the
 
-1 2 3 4 5
+<!-- marginal: arrest -->
+
+<!-- marginal: a summons -->
+
+Penal Code
+
+<!-- marginal: without -->
+
+<!-- marginal: shall -->
+
+<!-- marginal: warrant or -->
+
+<!-- marginal: ordinarily -->
+
+<!-- marginal: not -->
+
+<!-- marginal: issue in -->
+
+<!-- marginal: the first -->
+
+<!-- marginal: instance -->
+
+<!-- marginal: “176 -->
+
+<!-- marginal: If the -->
+
+<!-- marginal: do. -->
+
+<!-- marginal: do. -->
+
+<!-- marginal: do. -->
+
+<!-- marginal: do. -->
+
+Imprisonment
+
+<!-- marginal: notice of -->
+
+for seven
+
+<!-- marginal: information -->
+
+years, or fine,
+
+<!-- marginal: required -->
+
+or both”;
+
+<!-- marginal: respects the -->
+
+<!-- marginal: commission -->
+
+<!-- marginal: of offences -->
+
+<!-- marginal: under Chapter -->
+
+<!-- marginal: VIB -->
+
+(h) by inserting after the item relating to section 203 of the Penal Code, the following items under the respective
+
+<!-- marginal: columns: -->
+
+<!-- marginal: 1 -->
+
+<!-- marginal: 2 -->
+
+<!-- marginal: 3 -->
+
+<!-- marginal: 4 -->
+
+<!-- marginal: 5 -->
 
 <!-- marginal: 6 -->
 
-<!-- marginal: 7 -->
+7
 
-Penal Offence Whether the Whether Whether Whether
+<!-- marginal: Penal -->
 
-<!-- marginal: Maximum -->
+<!-- marginal: Offence -->
 
-Code police may a bailable compoundable
+<!-- marginal: Whether the -->
 
-<!-- marginal: punishment -->
+<!-- marginal: Whether -->
 
-ordinarily warrant or or not or not
+<!-- marginal: Whether -->
 
-<!-- marginal: under the -->
+<!-- marginal: Whether -->
 
-arrest a summons
+Maximum
 
-<!-- marginal: Penal Code -->
+<!-- marginal: Code -->
 
-without shall warrant or ordinarily not issue in the first instance “203a Disclosure of do. do. do. do.
+<!-- marginal: police may -->
 
-<!-- marginal: Fine not -->
+<!-- marginal: a -->
 
-information
+<!-- marginal: bailable -->
 
-<!-- marginal: more than -->
+<!-- marginal: compoundable -->
 
-<!-- marginal: one million -->
+punishment
 
-<!-- marginal: ringgit, or -->
+<!-- marginal: Section -->
 
-<!-- marginal: imprisonment -->
+<!-- marginal: ordinarily -->
 
-<!-- marginal: which may -->
+<!-- marginal: warrant or -->
 
-<!-- marginal: extend to -->
+<!-- marginal: or not -->
 
-<!-- marginal: one year, or -->
+<!-- marginal: or not -->
 
-<!-- marginal: both”; -->
+under the
+
+<!-- marginal: arrest -->
+
+<!-- marginal: a summons -->
+
+Penal Code
+
+<!-- marginal: without -->
+
+<!-- marginal: shall -->
+
+<!-- marginal: warrant or -->
+
+<!-- marginal: ordinarily -->
+
+<!-- marginal: not -->
+
+<!-- marginal: issue in -->
+
+<!-- marginal: the first -->
+
+<!-- marginal: instance -->
+
+<!-- marginal: “203A -->
+
+<!-- marginal: Disclosure of -->
+
+<!-- marginal: do. -->
+
+<!-- marginal: do. -->
+
+<!-- marginal: do. -->
+
+<!-- marginal: do. -->
+
+Fine not
+
+<!-- marginal: information -->
+
+more than one million ringgit, or imprisonment which may extend to one year, or both”;
 
 (i) in the item relating to section 324 of the Penal Code—
 
-(i) in column 4, by substituting for the word “do.” the word “Warrant”;
+(i) in column 4, by substituting for the word “do.”
 
-(ii) in column 5, by substituting for the word “do.” the words “Not bailable”; and
+<!-- marginal: the word “Warrant”; -->
 
-(iii) in column 7, by substituting for the word “three” the word “ten”;
+(ii) in column 5, by substituting for the word “do.”
+
+<!-- marginal: the words “Not bailable”; and -->
+
+(iii) in column 7, by substituting for the word “three”
+
+<!-- marginal: the word “ten”; -->
 
 <!-- page 39 -->
 
@@ -1474,27 +1676,19 @@ information
 
 (l) by inserting after the item relating to section 326 of the Penal Code, the following items under the respective columns:
 
-1 2 3 4 5
-
-<!-- marginal: 6 -->
+1 2 3 4 5 6
 
 <!-- marginal: 7 -->
 
-Penal Offence Whether the Whether Whether
-
-<!-- marginal: Whether -->
+Penal Offence Whether the Whether Whether Whether
 
 <!-- marginal: Maximum -->
 
-Code police may a bailable
-
-<!-- marginal: compoundable -->
+Code police may a bailable compoundable
 
 <!-- marginal: punishment -->
 
-ordinarily warrant or or not
-
-<!-- marginal: or not -->
+ordinarily warrant or or not or not
 
 <!-- marginal: under the -->
 
@@ -1504,9 +1698,7 @@ arrest a summons
 
 without shall warrant or ordinarily not issue in the first instance
 
-“326a Causing hurt do. do. do.
-
-<!-- marginal: do. -->
+“326A Causing hurt do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -1560,7 +1752,7 @@ arrest a summons
 
 without shall warrant or ordinarily not issue in the first instance
 
-“352a Using do. do. do. do.
+“352A Using do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -1588,9 +1780,7 @@ by spouse
 
 (n) by inserting after the item relating to section 375a of the Penal Code, the following items under the respective columns:
 
-1 2 3 4 5
-
-<!-- marginal: 6 -->
+1 2 3 4 5 6
 
 <!-- marginal: 7 -->
 
@@ -1612,7 +1802,7 @@ arrest a summons
 
 without shall warrant or ordinarily not issue in the first instance
 
-“375b Gang rape do. do. do. do.
+“375B Gang rape do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -1640,27 +1830,27 @@ without shall warrant or ordinarily not issue in the first instance
 
 (s) by inserting after the item relating to section 411 of the Penal Code, the following items under the respective columns:
 
-1 2 3 4 5
+<!-- marginal: 1 -->
 
-<!-- marginal: 6 -->
+2 3 4 5 6
 
 <!-- marginal: 7 -->
 
-Penal Offence Whether the Whether Whether
+<!-- marginal: Penal -->
 
-<!-- marginal: Whether -->
+Offence Whether the Whether Whether Whether
 
 <!-- marginal: Maximum -->
 
-Code police may a bailable
+<!-- marginal: Code -->
 
-<!-- marginal: compoundable -->
+police may a bailable compoundable
 
 <!-- marginal: punishment -->
 
-ordinarily warrant or or not
+<!-- marginal: Section -->
 
-<!-- marginal: or not -->
+ordinarily warrant or or not or not
 
 <!-- marginal: under the -->
 
@@ -1668,9 +1858,11 @@ arrest a summons
 
 <!-- marginal: Penal Code -->
 
-without shall warrant or ordinarily not issue in the first instance “411a Receiving do. do. do.
+without shall warrant or ordinarily not issue in the first instance
 
-<!-- marginal: do. -->
+<!-- marginal: “411A -->
+
+Receiving do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -1730,7 +1922,7 @@ activities of organized criminal group
 
 <!-- page 43 -->
 
-## Part III
+## PART III
 
 ## AMENDMENTS TO THE CRIMINAL PROCEDURE CODE
 
@@ -1848,13 +2040,13 @@ I hereby agree to and shall comply with the terms and conditions as stated in th
 
 This Bill seeks to amend the Criminal Procedure Code (“Act 593”) and the Criminal Procedure Code (Amendment) (No. 2) Act 2012 (“Act A1431”).
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 2. Clause 1 contains the short title and provision on the commencement of the proposed Act.
 
-## Part II
+## PART II
 
 ## AMENDMENT TO ACT 593
 
@@ -1902,7 +2094,7 @@ The right of a purchaser in good faith for valuable consideration relating to th
 
 19. Clause 18 seeks to amend the First Schedule to Act 593 consequential to the introduction of new offences into the Penal Code.
 
-## Part III
+## PART III
 
 ## AMENDMENT TO ACT A1431
 

@@ -22,17 +22,39 @@
 
 Penubuhan
 
-3. Penubuhan Suruhanjaya 4. Objektif Suruhanjaya 5. Peruntukan peletakhakan 6. Meterai perbadanan 7. Kuasa untuk melantik Wakil 8. Kuasa untuk menubuhkan pejabat dan subsidiari dan melantik ejen 9. Pelantikan seseorang selain pegawai atau pekerja 10. Suruhanjaya boleh menubuhkan jawatankuasa
+3. Penubuhan Suruhanjaya 4. Objektif Suruhanjaya 5. Peruntukan peletakhakan 6. Meterai perbadanan 7. Kuasa untuk melantik Wakil 8. Kuasa untuk menubuhkan pejabat dan subsidiari dan melantik ejen 9. Pelantikan seseorang selain pegawai atau pekerja
+
+10. Suruhanjaya boleh menubuhkan jawatankuasa
 
 ## Bab 2
 
 Lembaga pengarah
 
-11. Tugas dan komposisi 12. Undang-undang kecil Lembaga 13. Tempoh jawatan 34. Peletakan jawatan 15. Kehiiangan kelayakan dan penamatan pengarah
+11. Tugas dan komposisi
+
+12. Undang-undang kecil Lembaga
+
+13. Tempoh jawatan
+
+34. Peletakan jawatan
+
+15. Kehiiangan kelayakan dan penamatan pengarah
 
 <!-- page 2 -->
 
-16. Tindakan dan prosiding Lembaga tidak terjejas oleh kekosongan jawatan, dsb. 17. Elaun atau honorarium 18. Tugas pengarah 19. Mesyuarat 20. Lembaga boleh mengundang orang lain ke mesyuarat 21. Penzahiran kepentingan 22. Minit mesyuarat
+16. Tindakan dan prosiding Lembaga tidak terjejas oleh kekosongan jawatan, dsb.
+
+17. Elaun atau honorarium
+
+18. Tugas pengarah
+
+19. Mesyuarat
+
+20. Lembaga boleh mengundang orang lain ke mesyuarat
+
+21. Penzahiran kepentingan
+
+22. Minit mesyuarat
 
 ## BAHAGIAN III
 
@@ -40,7 +62,11 @@ Lembaga pengarah
 
 23. Kuasa dan fungsi Suruhanjaya
 
-24. Pewakilan kuasa atau fungsi Suruhanjaya 25. Kuasa Menteri untuk memberikan arahan dan menghendaki maklumat 26. Kuasa untuk berunding dengan Majlis Penasihat Syariah
+24. Pewakilan kuasa atau fungsi Suruhanjaya
+
+25. Kuasa Menteri untuk memberikan arahan dan menghendaki maklumat
+
+26. Kuasa untuk berunding dengan Majlis Penasihat Syariah
 
 ## BAHAGIAN IV
 
@@ -48,7 +74,11 @@ Lembaga pengarah
 
 27. Pegawai dan pekerja Suruhanjaya
 
-28. Bantuan kewangan kepada pegawai, pekerja dan orang lain 29. Pemakaian Akta Badan-Badan Berkanun (Tatatertib dan Surcaj) 2000 30. Penerusan dan penyelesaian prosiding tatatertib
+28. Bantuan kewangan kepada pegawai, pekerja dan orang lain
+
+29. Pemakaian Akta Badan-Badan Berkanun (Tatatertib dan Surcaj) 2000
+
+30. Penerusan dan penyelesaian prosiding tatatertib
 
 ## BAHAGIAN V
 
@@ -58,17 +88,31 @@ Lembaga pengarah
 
 Kewangan
 
-31. Modal 32. Kumpulan Wang Rizab Am 33. Pemberian tahunan Kerajaan
+31. Modal
+
+32. Kumpulan Wang Rizab Am
+
+33. Pemberian tahunan Kerajaan
 
 <!-- page 3 -->
 
-Suruhanjaya Koperasi Malaysia 34. Kumpulan wang operasi 35. Kuasa untuk meminjam atau menjana kumpulan wang 36. Kuasa untuk memberi pinjaman 37. Pelaburan
+Suruhanjaya Koperasi Malaysia
+
+34. Kumpulan wang operasi
+
+35. Kuasa untuk meminjam atau menjana kumpulan wang
+
+36. Kuasa untuk memberi pinjaman
+
+37. Pelaburan
 
 ## Bab 2
 
 Akaun dan laporan
 
-38. Kehendak untuk menyimpan buku, rekod, akaun, dsb. 39. Kehendak melapor
+38. Kehendak untuk menyimpan buku, rekod, akaun, dsb.
+
+39. Kehendak melapor
 
 40. Tahun kewangan
 
@@ -76,7 +120,11 @@ Akaun dan laporan
 
 Kumpulan wang
 
-41. Penyenggaraan kumpulan wang dan akaun 42. Kumpulan Wang Likuiditi Pusat 43. Akaun Deposit Koperasi
+41. Penyenggaraan kumpulan wang dan akaun
+
+42. Kumpulan Wang Likuiditi Pusat
+
+43. Akaun Deposit Koperasi
 
 ## BAHAGIAN VI
 
@@ -86,9 +134,21 @@ Kumpulan wang
 
 45. Pelantikan, kuasa, fungsi dan tugas pegawai penyiasat
 
-46. Kuasa memasuki, menggeledah dan menyita 47. Pemeriksaan orang
+46. Kuasa memasuki, menggeledah dan menyita
 
-48. Galangan terhadap penjalanan kuasa oleh pegawai penyiasat 49. Kehendak untuk menyediakan terjemahan 50. Kuasa untuk memeriksa orang 51. Orang tertentu yang berkenaan dengannya kuasa penyiasatan boleh dijalankan 52. Bantuan kepada pegawai polis, pegawai awam, dsb. 53. Percantuman kesalahan
+47. Pemeriksaan orang
+
+48. Galangan terhadap penjalanan kuasa oleh pegawai penyiasat
+
+49. Kehendak untuk menyediakan terjemahan
+
+50. Kuasa untuk memeriksa orang
+
+51. Orang tertentu yang berkenaan dengannya kuasa penyiasatan boleh dijalankan
+
+52. Bantuan kepada pegawai polis, pegawai awam, dsb.
+
+53. Percantuman kesalahan
 
 54. Kesalahan menjadi kesalahan boleh tangkap
 
@@ -262,7 +322,9 @@ Penubuhan
 
 (2) Tiap-tiap kuasa, fungsi dan tugas pemindah hendaklah, menurut kuasa Akta ini, dipindahkan dan diletakhakkan pada Suruhanjaya.
 
-(3) Tiap-tiap harta yang diletak hak menurut kuasa subseksyen (1) kepada Suruhanjaya hendaklah juga diletakhakkan pada Suruhanjaya sama seperti hakmilik, estet atau kepentingan dan mengikut tempoh milikan sebagaimana harta tersebut diletak hak atau dipegang sebaik sebelum tarikh peletakhakan.
+(3) Tiap-tiap harta yang diletak hak menurut kuasa subseksyen
+
+(1) kepada Suruhanjaya hendaklah juga diletakhakkan pada Suruhanjaya sama seperti hakmilik, estet atau kepentingan dan mengikut tempoh milikan sebagaimana harta tersebut diletak hak atau dipegang sebaik sebelum tarikh peletakhakan.
 
 (4) Tiap-tiap hak dalam tindakan, hak atau liabiliti yang diletak hak menurut kuasa subseksyen (1) kepada Suruhanjaya boleh, pada dan selepas tarikh peletakhakan, dituntut melalui guaman, didapatkan atau dikuatkuasakan oleh Suruhanjaya atas namanya sendiri dan tidaklah perlu bagi Suruhanjaya, Kerajaan Malaysia atau pemindah untuk memberikan notis —
 
@@ -1222,7 +1284,9 @@ itu untuk mengkompaun kesalahan itu dengan membayar kepada Suruhanjaya dalam mas
 
 (3) Sesuatu tawaran di bawah subseksyen (1) boleh dibuat pada bila-bila masa selepas kesalahan itu dilakukan tetapi sebelum apa- apa pendakwaan baginya telah dimulakan, dan jika amaun yang dinyatakan dalam tawaran itu tidak dibayar dalam masa yang dinyatakan dalam tawaran itu, atau apa-apa lanjutan masa yang boleh diberikan oleh Suruhanjaya, pendakwaan bagi kesalahan itu boleh dimulakan pada bila-bila masa selepas itu terhadap orang yang kepadanya tawaran itu dibuat.
 
-(4) Jika sesuatu kesalahan telah dikompaun di bawah subseksyen (1), tiada pendakwaan selepas itu boleh dimulakan berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk mengkompaun kesalahan itu dibuat, tertakluk kepada subseksyen 62(1).
+(4) Jika sesuatu kesalahan telah dikompaun di bawah subseksyen
+
+(1), tiada pendakwaan selepas itu boleh dimulakan berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk mengkompaun kesalahan itu dibuat, tertakluk kepada subseksyen 62(1).
 
 ### Kewajipan pegawai penyiasat untuk menyerahkan orang
 
@@ -1266,7 +1330,9 @@ Dengan syarat bahawa perbuatan dan pernyataan itu dilakukan atau dibuat, atau di
 
 (b) Pengerusi Eksekutif, Timbalan Pengerusi Eksekutif, pengarah, anggota jawatankuasa Suruhanjaya, pegawai, pekerja atau mana-mana orang yang dilantik oleh Suruhanjaya menurut seksyen 9, subseksyen 8(2) dan 10(2) dan perenggan 69A(2)(CI) Akta Koperasi 1993 dan mana-mana pelikuidasi yang dilantik di bawah seksyen 74 Akta Koperasi 1993, hendaklah disifatkan sebagai seorang pegawai Suruhanjaya.
 
-(3) Dalam subseksyen (2), "anggota pentadbiran" mempunyai erti yang sama sebagaimana yang diberikan kepadanya dalam Perkara 160(2) Perlembagaan Persekutuan.
+(3) Dalam subseksyen (2), "anggota pentadbiran" mempunyai erti yang sama sebagaimana yang diberikan kepadanya dalam
+
+## Perkara 160(2) Perlembagaan Persekutuan.
 
 ### Pemeliharaan kcrahsiaan
 
@@ -1444,4 +1510,6 @@ Akta Suruhanjaya Koperasi Malaysia 2006 ("Akta") yang dicadangkan oleh Rang Unda
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini. [PN(U2)2481J
+Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini.
+
+<!-- marginal: [PN(U2)2481J -->

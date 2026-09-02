@@ -26,7 +26,11 @@ Division 1
 
 Revenue
 
-10. Formulation of revenue policy 11. Revenue policy 12. Responsibility of Minister in relation to revenue policy
+10. Formulation of revenue policy
+
+11. Revenue policy
+
+12. Responsibility of Minister in relation to revenue policy
 
 <!-- page 2 -->
 
@@ -116,9 +120,9 @@ Mid-year expenditure performance report, fiscal risk statement and tax expenditu
 
 38. Tax expenditure statement
 
-## FIRST SChEdULE
+## FIRST SCHEDULE
 
-## SECONd SChEdULE
+## SECOND SCHEDULE
 
 <!-- page 5 -->
 
@@ -744,7 +748,7 @@ Mid-year expenditure performance report, fiscal risk statement and tax expenditu
 
 (3) The tax expenditure statement shall be used for the purpose of assessing revenue foregone arising from changes in the tax policy of the Government, including but not limited to exemption, remission, allowance, preferential tax rate, deferral or offset, that reduces tax obligation to achieve its intended objective.
 
-## FIRST SChEdULE
+## FIRST SCHEDULE
 
 [Subsection 8(2)]
 
@@ -780,7 +784,7 @@ product
 
 <!-- page 27 -->
 
-## SECONd SChEdULE
+## SECOND SCHEDULE
 
 [Sections 4 and 17]
 

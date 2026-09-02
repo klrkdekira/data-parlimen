@@ -18,7 +18,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 2 -->
 
-## Schedule
+## SCHEDULE
 
 Purpose Title
 
@@ -42,7 +42,7 @@ B. 64 Ministry of Higher Education
 
 <!-- marginal: 257,591,900 -->
 
-ToTal
+## TOTAL
 
 <!-- marginal: 7,938,212,000 -->
 
@@ -50,4 +50,4 @@ ToTal
 
 This Bill seeks to provide for the issue from the Consolidated Fund of a sum of seven billion nine hundred and thirty-eight million two hundred and twelve thousand ringgit (RM7,938,212,000) for the services and purposes specified in the Schedule for the year 2025.
 
-[PN(U2)2206/JLD.10]
+<!-- marginal: [PN(U2)2206/JLD.10] -->

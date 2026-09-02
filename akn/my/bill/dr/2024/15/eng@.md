@@ -234,7 +234,7 @@ whether or not such service is provided by a licensee, permit holder or otherwis
 
 <!-- page 10 -->
 
-“Part Va
+## “PART VA
 
 ## LICENSING AND CHARGES
 
@@ -398,7 +398,7 @@ party ground handling charges and other charges for aviation services at such in
 
 <!-- page 18 -->
 
-Part Vb
+## PART VB
 
 ## COMPETITION
 
@@ -408,9 +408,7 @@ Interpretation and application
 
 ### Interpretation
 
-### 36m.
-
-In this Part, unless the context otherwise requires—
+36M. In this Part, unless the context otherwise requires—
 
 “concerted practice” means any form of coordination between enterprises which knowingly substitutes practical co-operation between them for the risks of competition and includes any practice which involves direct or indirect contact or communication between enterprises, the object or effect of which is either—
 
@@ -906,7 +904,7 @@ General
 
 “annual turnover” means the aggregate of all sums received in the course of the business during financial year, as stated or otherwise shown in the accounts of the business, including grants from the Federal Government or the State Government.
 
-## Part Vc
+## PART VC
 
 ## AIR TRAFFIC RIGHT AND SLOT ALLOCATION
 
@@ -952,7 +950,7 @@ General
 
 (3) For the purposes of this section, “slot allocation” means the allocation of time slots for the purpose of granting aircraft access to aerodrome facilities for landing and taking-off at specific dates and times.
 
-## Part Vd
+## PART VD
 
 ## PUBLIC SERVICE OBLIGATIONS
 
@@ -974,7 +972,7 @@ General
 
 (e) require the relevant airlines to comply with all applicable agreements and laws in the carrying out of public service obligations.
 
-Part Ve
+## PART VE
 
 ## CONSUMER PROTECTION
 
@@ -1030,7 +1028,7 @@ Part Ve
 
 (2) In the case where a decision of the Authority is in favour of the consumer and the person against whom the decision was made fails to comply with the decision within thirty days from the date of decision, the Authority may, if the Authority thinks appropriate, bring the matter to the High Court on behalf of the consumer for an order requiring such person to comply with the decision.
 
-Part Vf
+## PART VF
 
 ## DISPUTE RESOLUTION
 
@@ -1072,7 +1070,7 @@ Part Vf
 
 <!-- page 43 -->
 
-Part Vg
+## PART VG
 
 ## INVESTIGATION AND ENFORCEMENT
 
@@ -1336,7 +1334,9 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding t
 
 19. The Schedule to the principal Act is amended—
 
-(a) by substituting for the title “Schedule” the title “firSt Schedule”; and
+(a) by substituting for the title “Schedule” the title
+
+## “FIRST SCHEDULE”; AND
 
 (b) in paragraph 1—
 
@@ -1362,7 +1362,7 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding t
 
 20. The principal Act is amended by inserting after the renamed First Schedule the following schedules:
 
-“Second Schedule
+## “SECOND SCHEDULE
 
 [Subsection 36c(1)]
 
@@ -1466,7 +1466,7 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding t
 
 <!-- page 58 -->
 
-## third Schedule
+## THIRD SCHEDULE
 
 [Subsection 36n(3)]
 

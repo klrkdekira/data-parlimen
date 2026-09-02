@@ -1,0 +1,356 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-14-2009",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_12"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Pasaran Modal dan Perkhidmatan (Pindaan) 2009"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 320 seksyen yang berikut: “Penyata kewangan palsu atau mengelirukan perbadanan tersenarai 320a. (1) Seseorang tidak boleh mempengaruhi, memaksa, mengelirukan atau memberi kuasa mana-mana orang yang terlibat dalam— (a) penyediaan penyata kewangan perbadanan tersenarai atau mana-mana perbadanan yang berhubungannya; atau (b) pelaksanaan audit ke atas penyata kewangan perbadanan tersenarai atau mana-mana perbadanan yang berhubungannya, untuk melakukan apa-apa yang diketahuinya atau semunasabahnya patut diketahuinya boleh menyebabkan penyata kewangan atau penyata kewangan teraudit itu menjadi palsu atau mengelirukan dalam butir-butir yang material. (2) Seseorang yang melanggar subseksyen (1) melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan pemenjaraan selama tempoh tidak melebihi sepuluh tahun dan boleh didenda tidak melebihi sepuluh juta ringgit.”. Pindaan seksyen 368"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 368(1) Akta ibu dipinda dengan menggantikan perkataan “dan seseorang pemegang Lesen Perkhidmatan Pasaran Modal” dengan perkataan “, seseorang pemegang Lesen Perkhidmatan Pasaran Modal atau perbadanan tersenarai atau mana-mana perbadanan yang berhubungannya”. Pindaan seksyen 371"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 371 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “apa-apa rekod atau akaun yang dikehendaki disimpan atau disenggarakan di bawah Akta ini” dengan perkataan “apa-apa buku, rekod atau akaun yang dikehendaki disimpan atau disenggarakan di bawah undang-undang sekuriti, mana-mana garis panduan yang dikeluarkan di bawah undang-undang sekuriti”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “mana-mana kuasa di bawah Akta ini” dengan perkataan “mana-mana kuasa di bawah undang-undang sekuriti”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pasaran Modal dan Perkhidmatan (Pindaan) 2009."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_1__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_1__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta, dan Menteri boleh menetapkan tarikh yang berlainan bagi permulaan kuat kuasa—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_1__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_1__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "peruntukan yang berlainan dalam Akta ini; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_1__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_1__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "semua peruntukan atau peruntukan yang berlainan dalam Akta ini berkenaan dengan kelas atau kategori orang atau sekuriti yang berlainan. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_2__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_2__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Pasaran Modal dan Perkhidmatan 2007 [Akta 671], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_2__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_2__list_1__para_a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_2__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_2__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “Lesen Wakil Perkhidmatan Pasaran Modal” takrif yang berikut: “Majlis Penasihat Syariah” ertinya Majlis Penasihat Syariah yang ditubuhkan di bawah seksyen 316a;”; dan (b) dengan memasukkan selepas takrif “unit” takrif yang berikut: ‘ “urusan atau transaksi pasaran modal Islam” ertinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_2__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_2__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_2__list_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_2__list_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_2__list_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_2__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "urusan menjalankan mana-mana aktiviti terkawal;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_2__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa cadangan yang termasuk dalam subseksyen 212(2);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_2__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa transaksi yang berhubungan dengan kontrak niaga hadapan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_2__list_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penubuhan, pengendalian atau penyenggaraan suatu pasaran saham atau pasaran niaga hadapan, yang tidak melibatkan apa-apa unsur yang tidak selaras dengan prinsip Syariah sebagaimana yang ditentukan oleh Majlis Penasihat Syariah;’. Pindaan seksyen 63"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 63(2) Akta ibu dipinda dengan menggantikan perkataan “dan menjadi sebahagian daripada Kumpulan Wang Disatukan Persekutuan” dengan perkataan “Kumpulan Wang yang ditubuhkan di bawah seksyen 23 Akta Suruhanjaya Sekuriti 1993”. Pindaan seksyen 216"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 216(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_4__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_4__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “kawalan”—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_4__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “hak mengundi sebanyak tiga puluh peratus atau lebih” dengan perkataan “hak mengundi sebanyak lebih daripada tiga puluh tiga peratus”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_4__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “dalam sesuatu syarikat”, perkataan “, walau bagaimana juapun dijalankan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan takrif “tawaran pengambilalihan” dengan takrif yang berikut: ‘ “tawaran pengambilalihan” ertinya sesuatu tawaran yang dibuat untuk mengambil semua atau sebahagian syer mengundi atau hak mengundi, atau mana-mana kelas atau kelas-kelas syer mengundi atau hak mengundi, dalam suatu syarikat dan termasuklah— (a) suatu transaksi pengambilalihan atau percantuman walau bagaimana juapun dijalankan yang mempunyai kesan atau berpotensi untuk mempunyai kesan mendapatkan atau mengukuhkan kawalan dalam syarikat itu; (b) suatu tawaran separa sebagaimana yang ditakrifkan dalam Kod; (c) suatu tawaran pengambilalihan oleh suatu syarikat induk bagi syer mengundi atau hak mengundi dalam subsidiarinya; atau (d) suatu perkiraan atau penyusunan semula yang melibatkan syer mengundi atau hak mengundi suatu syarikat tersenarai;’. Pindaan seksyen 220"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 220(1)(a) Akta ibu dipinda dengan memasukkan selepas perkataan “peruntukan” perkataan “Penggal ini,”. Pindaan seksyen 222"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 222(1) Akta ibu dipinda dengan menggantikan perkataan “termasuk syer yang telah dipegang” dengan perkataan “tidak termasuk syer yang telah dipegang”. Seksyen baru 316a, 316b, 316c, 316d, 316e, 316f, 316g dan 316h"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 316 seksyen yang berikut: “Penubuhan Majlis Penasihat Syariah bagi pasaran modal Islam 316a. (1) Suruhanjaya boleh menubuhkan suatu Majlis Penasihat Syariah bagi pasaran modal Islam yang hendaklah menjadi pihak berkuasa bagi penentuan pemakaian prinsip Syariah bagi maksud urusan atau transaksi pasaran modal Islam. (2) Majlis Penasihat Syariah boleh menentukan tatacaranya sendiri. Fungsi Majlis Penasihat Syariah 316b. Majlis Penasihat Syariah hendaklah mempunyai fungsi yang berikut: (a) untuk menentukan pemakaian prinsip Syariah mengenai apa-apa perkara berkaitan dengan urusan atau transaksi pasaran modal Islam dan mengeluarkan keputusan apabila dirujukkan kepadanya mengikut Bahagian ini; (b) untuk menasihati Suruhanjaya mengenai apa-apa isu Syariah yang berhubungan dengan urusan atau transaksi pasaran modal Islam; (c) untuk memberikan nasihat kepada mana-mana orang mengenai apa-apa isu Syariah yang berhubungan dengan urusan atau transaksi pasaran modal Islam; dan (d) apa-apa fungsi lain sebagaimana yang ditetapkan oleh Menteri. Pelantikan anggota Majlis Penasihat Syariah 316c. (1) Yang di-Pertuan Agong boleh, atas nasihat Menteri selepas berunding dengan Suruhanjaya, melantik sebagai anggota Majlis Penasihat Syariah orang yang mempunyai kelayakan dalam— (a) fiqh muamalah; (b) jurisprudens Islam; (c) kewangan Islam; atau (d) apa-apa disiplin lain yang berkaitan. (2) Jika seorang hakim Mahkamah Tinggi, Mahkamah Rayuan atau Mahkamah Persekutuan, atau seorang hakim Mahkamah Rayuan Syariah bagi Negeri atau Wilayah Persekutuan hendak dilantik di bawah subseksyen (1), pelantikan itu tidak boleh dibuat kecuali— (a) dalam hal seorang hakim Mahkamah Tinggi, Mahkamah Rayuan atau Mahkamah Persekutuan, selepas rundingan dibuat oleh Suruhanjaya dengan Ketua Hakim Mahkamah Persekutuan; dan (b) dalam hal seorang hakim Mahkamah Rayuan Syariah bagi Negeri atau Wilayah Persekutuan, selepas rundingan dibuat oleh Suruhanjaya dengan Ketua Hakim Syarie Negeri atau Wilayah Persekutuan itu, mengikut mana-mana yang berkenaan. (3) Seseorang anggota Majlis Penasihat Syariah yang dilantik di bawah subseksyen (1) hendaklah memegang jawatan atas apa-apa terma dan syarat sebagaimana yang diperuntukkan dalam surat pelantikan mereka masing-masing, dan adalah layak untuk dilantik semula. (4) Anggota Majlis Penasihat Syariah hendaklah dibayar apa-apa saraan dan elaun sebagaimana yang ditentukan oleh Suruhanjaya. Urus setia Majlis Penasihat Syariah 316d. Suruhanjaya boleh— (a) menubuhkan urus setia dan apa-apa jawatankuasa lain yang difikirkannya perlu untuk membantu Majlis Penasihat Syariah dalam menjalankan fungsinya di bawah seksyen 316b; dan (b) melantik seorang pegawai Suruhanjaya atau mana- mana orang lain untuk menjadi anggota urus setia atau mana-mana jawatankuasa itu. Nasihat atau keputusan Majlis Penasihat Syariah 316e. Mana-mana orang berlesen, bursa saham, bursa niaga hadapan, pusat penjelasan, depositari pusat, perbadanan tersenarai atau mana-mana orang lain boleh— (a) mendapatkan nasihat; atau (b) membuat rujukan untuk mendapatkan suatu keputusan, Majlis Penasihat Syariah mengenai apa-apa perkara yang berhubungan dengan urusan atau transaksi pasaran modal Islam untuk memastikan sama ada urusan atau transaksi pasaan modal Islam itu tidak melibatkan apa-apa elemen yang tidak konsisten dengan Syariah. Rujukan kepada Majlis Penasihat Syariah bagi keputusan daripada mahkamah atau penimbang tara 316f. (1) Jika dalam mana-mana prosiding di hadapan mana- mana mahkamah atau penimbang tara mengenai suatu perkara Syariah berhubung dengan urusan atau transaksi pasaran modal Islam, mahkamah atau penimbang tara itu, mengikut mana-mana yang berkenaan, hendaklah— (a) mengambil kira apa-apa keputusan Majlis Penasihat Syariah; atau (b) merujukkan perkara itu kepada Majlis Penasihat Syariah untuk keputusannya. (2) Apa-apa permintaan untuk nasihat atau suatu keputusan Majlis Penasihat Syariah di bawah Akta ini atau mana-mana undang-undang lain hendaklah dikemukakan kepada urus setia. Kesan keputusan Syariah 316g. Apa-apa keputusan yang dibuat oleh Majlis Penasihat Syariah di bawah seksyen 316e atau 316f hendaklah mengikat— (a) orang berlesen, bursa saham, bursa niaga hadapan, pusat penjelasan, depositori pusat, perbadanan tersenarai atau mana-mana orang lain yang disebut dalam seksyen 316e; dan (b) mahkamah atau penimbang tara yang disebut dalam seksyen 316f. Keputusan Majlis Penasihat Syariah terpakai 316h. (1) Jika keputusan yang diberikan oleh seorang penasihat Syariah berdaftar kepada seseorang yang terlibat dalam apa- apa urusan atau transaksi pasaran modal Islam berbeza dengan keputusan yang diberikan oleh Majlis Penasihat Syariah, keputusan Majlis Penasihat Syariah hendaklah terpakai. (2) Bagi maksud seksyen ini, “penasihat Syariah berdaftar” ertinya seseorang yang berdaftar di bawah mana-mana garis panduan yang dikeluarkan oleh Suruhanjaya di bawah seksyen 377.”. Seksyen baru 317a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 317 seksyen yang berikut: “Kelakuan yang dilarang oleh pengarah atau pegawai perbadanan tersenarai 317a. (1) Seorang pengarah atau pegawai suatu perbadanan tersenarai atau mana-mana perbadanan yang berhubungannya tidak boleh melakukan atau menyebabkan seseorang untuk melakukan apa-apa jua dengan niat menyebabkan kerugian salah terhadap perbadanan tersenarai itu atau mana-mana perbadanan yang berhubungannya tidak kira sama ada kelakuan itu menyebabkan kerugian salah sebenar. (2) Seksyen ini adalah tambahan kepada dan tidak mengurangkan mana-mana undang-undang yang berhubungan dengan kewajipan atau liabiliti pengarah atau pegawai suatu perbadanan tersenarai. (3) Seseorang yang melanggar subseksyen (1) melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan pemenjaraan selama tempoh tidak melebihi sepuluh tahun dan boleh didenda tidak melebihi sepuluh juta ringgit. (4) Bagi maksud seksyen ini— “harta” mempunyai erti yang sama sebagaimana dalam seksyen 138; “kerugian salah” ertinya kerugian harta dengan cara yang menyalahi undang-undang yang kepadanya orang yang kerugian itu berhak di sisi undang-undang; “pengarah” termasuklah seseorang yang merupakan seorang pengarah, ketua pegawai eksekutif, ketua pegawai operasi, ketua pengawal kewangan atau mana-mana orang lain yang secara terutamanya bertanggungjawab bagi pengendalian atau pengurusan kewangan sesuatu syarikat, walau apa jua nama disebut.”. Pindaan seksyen 319"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 319(4) Akta ibu dipinda dengan menggantikan perkataan “subseksyen (1)” dengan perkataan “subseksyen (3)”. Seksyen baru 320a"
+      }
+    }
+  ]
+}

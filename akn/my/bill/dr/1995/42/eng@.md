@@ -38,15 +38,27 @@ under the Universities and University Colleges Act 1971.
 
 <!-- page 2 -->
 
-Interpre-
+<!-- marginal: Interpre- -->
 
-2. (1) For the purposes of this Act, "appointed date" tation. means the date of coming into force of this Act appointed under subsection 1(2).
+2. (1) For the purposes of this Act, "appointed date"
+
+<!-- marginal: tation. -->
+
+means the date of coming into force of this Act appointed under subsection 1(2).
 
 (2) Notwithstanding subsection (1), where the whole or any of the provisions of this Act is or are suspended or exempted under subsection 1(3), the appointed date for such provisions shall be the date of coming into force of those provisions as the Minister may, by notification in the Gazette, appoint.
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. The Universities and University Colleges Act 1971, of section 2. which in this Act is referred to as the "principal Act", Act 30. is amended in section 2—
+3. The Universities and University Colleges Act 1971,
+
+<!-- marginal: of section 2. -->
+
+which in this Act is referred to as the "principal Act",
+
+<!-- marginal: Act 30. -->
+
+is amended in section 2—
 
 (a) by inserting before the definition of "Campus" the following definition: ' "Board", in relation to a University, means the Board of Directors of the University constituted in accordance with the Constitution of the University;';
 
@@ -90,35 +102,101 @@ after the word "Act" and before the full stop the words ", which shall be in acc
 
 <!-- page 4 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-5. Section 5 of the principal Act is amended by inserting of section 5. after the word "Act" the words "or any other written law regulating its establishment".
+5. Section 5 of the principal Act is amended by inserting
 
-Amendment
+<!-- marginal: of section 5. -->
 
-6. Subsection 5A(1) of the principal Act is amended by of section
+after the word "Act" the words "or any other written law regulating its establishment".
+
+<!-- marginal: Amendment -->
+
+6. Subsection 5A(1) of the principal Act is amended by
+
+<!-- marginal: of section -->
 
 5A. inserting after the word "any" the words "private higher educational institution conferred with the status of a University or University College under any written law, and any".
 
-General
+<!-- marginal: General -->
 
-7. The principal Act is amended by substituting for the amendment. words "University Council" wherever appearing therein the word "Board".
+7. The principal Act is amended by substituting for the
 
-Change of
+<!-- marginal: amendment. -->
 
-8. All references to the University Council in any written executive law or in any instrument, deed, title, document, bond, authority of University. agreement and working arrangement subsisting immediately before the appointed date shall, on the appointed date, be construed as references to the Board of Directors of the University.
+words "University Council" wherever appearing therein the word "Board".
 
-Rights, etc.
+<!-- marginal: Change of -->
 
-9. The change of name and change of executive authority, of Council from the University Council to the Board of Directors not affected and legal of the University, shall not affect any rights, privileges, proceedings liabilities, duties or obligations of the University Council not rendered defective. or render defective any legal proceedings by or against it.
+8. All references to the University Council in any written
 
-Legal
+<!-- marginal: executive -->
 
-10. Legal proceedings that could have been continued proceedings or commenced by or against the University Council prior to be continued in to the appointed date, may be continued or commenced the name of the Board. in the name of the Board of Directors of the University.
+law or in any instrument, deed, title, document, bond,
 
-Liabilities
+<!-- marginal: authority of -->
 
-11. All existing liabilities incurred by or on behalf of enforceable or for the purposes of the University Council may, on against the Board. the appointed date, be enforced against the Board of Directors of the University.
+<!-- marginal: University. -->
+
+agreement and working arrangement subsisting immediately before the appointed date shall, on the appointed date, be construed as references to the Board of Directors of the University.
+
+<!-- marginal: Rights, etc. -->
+
+9. The change of name and change of executive authority,
+
+<!-- marginal: of Council -->
+
+from the University Council to the Board of Directors
+
+<!-- marginal: not affected -->
+
+<!-- marginal: and legal -->
+
+of the University, shall not affect any rights, privileges,
+
+<!-- marginal: proceedings -->
+
+liabilities, duties or obligations of the University Council
+
+<!-- marginal: not rendered -->
+
+<!-- marginal: defective. -->
+
+or render defective any legal proceedings by or against it.
+
+<!-- marginal: Legal -->
+
+10. Legal proceedings that could have been continued
+
+<!-- marginal: proceedings -->
+
+or commenced by or against the University Council prior
+
+<!-- marginal: to be -->
+
+<!-- marginal: continued in -->
+
+to the appointed date, may be continued or commenced
+
+<!-- marginal: the name of -->
+
+<!-- marginal: the Board. -->
+
+in the name of the Board of Directors of the University.
+
+<!-- marginal: Liabilities -->
+
+11. All existing liabilities incurred by or on behalf of
+
+<!-- marginal: enforceable -->
+
+or for the purposes of the University Council may, on
+
+<!-- marginal: against the -->
+
+<!-- marginal: Board. -->
+
+the appointed date, be enforced against the Board of Directors of the University.
 
 <!-- page 5 -->
 
@@ -198,7 +276,7 @@ section 16A the following section: "Discipline 16A. (1) The Board shall have dis
 
 <!-- page 6 -->
 
-6
+<!-- marginal: 6 -->
 
 ## BILL
 
@@ -340,13 +418,47 @@ in respect of proceedings referred to in subsection (1), the appeal may be comme
 
 (ii) by inserting after the word "may" and before the word "appeal" the words ", within thirty days from the date of the service of the decision on him,".
 
-Transitional
+<!-- marginal: Transitional -->
 
-20. (1) Where on the appointed date, disciplinary provisions proceedings are in the course of being heard before, or relating to proceedings had been heard but no order or decision had been made pending thereon by— before, and appeals against
+20. (1) Where on the appointed date, disciplinary
 
-(a) the Deputy Vice-Chancellor under subsection decision of, 16B(2) of the principal Act; or Deputy Vice- Chancellor,
+<!-- marginal: provisions -->
 
-(b) any member of the staff, officer or employee etc. of the University or any board of members of the staff, officers or employees of the University to whom disciplinary functions have been delegated under subsection 16B(3) of the principal Act,
+proceedings are in the course of being heard before, or
+
+<!-- marginal: relating to -->
+
+<!-- marginal: proceedings -->
+
+had been heard but no order or decision had been made
+
+<!-- marginal: pending -->
+
+<!-- marginal: thereon by— -->
+
+<!-- marginal: before, and -->
+
+<!-- marginal: appeals -->
+
+<!-- marginal: against -->
+
+(a) the Deputy Vice-Chancellor under subsection
+
+<!-- marginal: decision of, -->
+
+16B(2) of the principal Act; or
+
+<!-- marginal: Deputy -->
+
+<!-- marginal: Vice- -->
+
+<!-- marginal: Chancellor, -->
+
+(b) any member of the staff, officer or employee
+
+<!-- marginal: etc. -->
+
+of the University or any board of members of the staff, officers or employees of the University to whom disciplinary functions have been delegated under subsection 16B(3) of the principal Act,
 
 <!-- page 11 -->
 
@@ -384,13 +496,31 @@ before the appointed date, but which were not so instituted may, within thirty d
 
 (8) An appeal referred to in subsection (7) which is made after the period specified therein shall not be allowed.
 
-Transitional
+<!-- marginal: Transitional -->
 
-21. All disciplinary rules made by the University Council provisions under section 16C of the principal Act shall, on the relating to disciplinary appointed date, be deemed to have been made by the rules. Board of Directors of the University and shall continue to remain in force until amended or revoked by the Board of Directors of the University.
+21. All disciplinary rules made by the University Council
 
-New
+<!-- marginal: provisions -->
 
-22. The principal Act is amended by inserting after section section 16D. 16C the following section:
+under section 16C of the principal Act shall, on the
+
+<!-- marginal: relating to -->
+
+<!-- marginal: disciplinary -->
+
+appointed date, be deemed to have been made by the
+
+<!-- marginal: rules. -->
+
+Board of Directors of the University and shall continue to remain in force until amended or revoked by the Board of Directors of the University.
+
+<!-- marginal: New -->
+
+22. The principal Act is amended by inserting after section
+
+<!-- marginal: section 16D. -->
+
+16C the following section:
 
 "Surcharge. 16D. (1) A person who is or was a staff, officer or employee of the University may be surcharged if it appears to the Board that the person—
 
@@ -504,15 +634,51 @@ the words "or any other written law regulating its establishment".
 
 <!-- page 16 -->
 
-27. The principal Act is amended by inserting after section New sections 24A, 24B, 24 the following sections: 24C and 24D.
+27. The principal Act is amended by inserting after section
 
-"Service. 24A. (1) Service of any notice under this Act shall be effected by registered post to the person affected thereby and shall be deemed to have been served on the day succeeding the day on which the notice would have been delivered in the ordinary course of post.
+<!-- marginal: New sections -->
+
+<!-- marginal: 24A, 24B, -->
+
+24 the following sections:
+
+<!-- marginal: 24C and 24D. -->
+
+<!-- marginal: "Service. -->
+
+24A. (1) Service of any notice under this Act shall be effected by registered post to the person affected thereby and shall be deemed to have been served on the day succeeding the day on which the notice would have been delivered in the ordinary course of post.
 
 (2) Where the person to whom there has been addressed a registered letter containing any notice which may be given under this Act is informed of the fact that there is a registered letter awaiting him, at a post office, and if such person refuses or neglects to take delivery of such registered letter, such notice shall be deemed to have been served upon him on the date on which he was so informed.
 
-Public 24B. The Public Authorities Protection Act 1948 Authorities shall apply to any action, suit, prosecution or Protection Act 1948. proceedings against the University, the Board, Act 198. the Senate, any member of the Board or Senate, the Vice-Chancellor, the Deputy Vice- Chancellors, the staff, the officer or the employee of the University in respect of any act, neglect or default done or committed by it or him in such capacity.
+<!-- marginal: Public -->
 
-Act or 24C. No action or suit shall be instituted or omission maintained in any court against— done in good faith.
+24B. The Public Authorities Protection Act 1948
+
+<!-- marginal: Authorities -->
+
+shall apply to any action, suit, prosecution or
+
+<!-- marginal: Protection -->
+
+<!-- marginal: Act 1948. -->
+
+proceedings against the University, the Board,
+
+<!-- marginal: Act 198. -->
+
+the Senate, any member of the Board or Senate, the Vice-Chancellor, the Deputy Vice- Chancellors, the staff, the officer or the employee of the University in respect of any act, neglect or default done or committed by it or him in such capacity.
+
+<!-- marginal: Act or -->
+
+24C. No action or suit shall be instituted or
+
+<!-- marginal: omission -->
+
+maintained in any court against—
+
+<!-- marginal: done in -->
+
+<!-- marginal: good faith. -->
 
 (a) the Board;
 
@@ -536,7 +702,21 @@ Act or 24C. No action or suit shall be instituted or omission maintained in any 
 
 for any act or omission done in good faith in the discharge of its or his powers and duties under this Act in a reasonable belief that it was necessary for the purpose intended to be served thereby.
 
-Public 24D. All members of the Board and Senate, servants. the Vice-Chancellor, Deputy Vice-Chancellors, staff, officers and employees of the University while discharging their functions as such members, Vice-Chancellor, Deputy Vice- Chancellors, staff, officers and employees, shall F.M.S be deemed to be public servants within the Cap 45. meaning of the Penal Code.".
+<!-- marginal: Public -->
+
+24D. All members of the Board and Senate,
+
+<!-- marginal: servants. -->
+
+the Vice-Chancellor, Deputy Vice-Chancellors, staff, officers and employees of the University while discharging their functions as such members, Vice-Chancellor, Deputy Vice- Chancellors, staff, officers and employees, shall
+
+<!-- marginal: F.M.S -->
+
+be deemed to be public servants within the
+
+<!-- marginal: Cap 45. -->
+
+meaning of the Penal Code.".
 
 <!-- marginal: Amendment -->
 
@@ -566,7 +746,7 @@ Public 24D. All members of the Board and Senate, servants. the Vice-Chancellor, 
 
 <!-- page 18 -->
 
-18
+<!-- marginal: 18 -->
 
 ## BILL
 
@@ -580,11 +760,7 @@ Public 24D. All members of the Board and Senate, servants. the Vice-Chancellor, 
 
 (bb) by substituting for the word "or" appearing after the word "holder" the word "of; and
 
-(cc) by inserting after the word "Statute" the words
-
-<!-- marginal: "or -->
-
-otherwise";
+(cc) by inserting after the word "Statute" the words "or otherwise";
 
 (vi) by inserting after the definition of "Officer" the following definition;
 
@@ -634,21 +810,17 @@ other form of co-operation or arrangement in association with, or otherwise—
 
 (ii) the Federal or State Government;
 
-(iii) a public body
-
-<!-- marginal: or -->
-
-authority;
+(iii) a public body or authority;
 
 (iv) a commission; or
 
 (v) a person;
 
-(b) establish or promote
+(b) establish or promote the establishment of companies
 
-<!-- marginal: the -->
+<!-- marginal: Act 125. -->
 
-establishment of companies Act 125. under the Companies Act 1965 to carry on and engage in any activity which has been planned or undertaken by the University;
+under the Companies Act 1965 to carry on and engage in any activity which has been planned or undertaken by the University;
 
 (c) establish corporations to carry out and have the charge, conduct and management of any property, project, scheme or enterprise which in the opinion of the Board would be beneficial and advantageous to the University;
 
@@ -674,15 +846,21 @@ establishment of companies Act 125. under the Companies Act 1965 to carry on and
 
 referred to in paragraph (f) and in particular to sell, transfer, exchange or otherwise dispose of the same; and
 
-(i) purchase, take on lease or hire or otherwise acquire and invest in any real and personal estate which may be deemed necessary or convenient for any of the purposes of
-
-<!-- marginal: the -->
-
-University.
+(i) purchase, take on lease or hire or otherwise acquire and invest in any real and personal estate which may be deemed necessary or convenient for any of the purposes of the University.
 
 (2) The provisions of section 4B shall apply to a corporation established under subsection (l)(b).
 
-Provisions 4B. (1) The Board shall, on or before relating to the date on which any corporation is corporations. established under section 4A(l)(c), prescribe by regulations—
+<!-- marginal: Provisions -->
+
+4B. (1) The Board shall, on or before
+
+<!-- marginal: relating to -->
+
+the date on which any corporation is
+
+<!-- marginal: corporations. -->
+
+established under section 4A(l)(c), prescribe by regulations—
 
 (a) the purposes and objects for which such corporation is established;
 
@@ -724,21 +902,13 @@ Provisions 4B. (1) The Board shall, on or before relating to the date on which a
 
 (f) may hold, and deal in or with, any movable or immovable property; and
 
-(g) may do all other matters and things incidental or appertaining to a body corporate not inconsistent with
-
-<!-- marginal: this -->
-
-Constitution,
+(g) may do all other matters and things incidental or appertaining to a body corporate not inconsistent with this Constitution,
 
 subject to such restrictions or limitations as may be specified by the Board in each case.
 
 (9) Every such corporation shall have a common seal, which shall bear such device as the corporation, with the approval of the Board, may determine.
 
-(10) The common seal may from time to time be broken, changed, altered and made anew by
-
-<!-- marginal: the -->
-
-corporation, with the approval of the Board, as the corporation shall think fit.
+(10) The common seal may from time to time be broken, changed, altered and made anew by the corporation, with the approval of the Board, as the corporation shall think fit.
 
 (11) Until a seal is provided by the corporation under subsection (9) a stamp bearing the name of the corporation encircling the letters "UNIVERSITY ..." may be used as its common seal.
 
@@ -750,7 +920,7 @@ corporation, with the approval of the Board, as the corporation shall think fit.
 
 ## UNIVERSITIES AND UNIVERSITY COLLEGES
 
-<!-- marginal: 25 -->
+25
 
 ## (AMENDMENT)
 
@@ -758,7 +928,25 @@ corporation, with the approval of the Board, as the corporation shall think fit.
 
 (15) The seal of every corporation shall be officially and judicially noticed.
 
-Conduct of 4C. The University may, with the study, etc. approval of the Minister, conduct any in associa- tion, etc. course of study or training programme with any University. jointly or in association, affiliation, collaboration or otherwise, with any university or institution of higher education or other educational institution or organization within or outside Malaysia.";
+<!-- marginal: Conduct of -->
+
+4C. The University may, with the
+
+<!-- marginal: study, etc. -->
+
+approval of the Minister, conduct any
+
+<!-- marginal: in associa- -->
+
+<!-- marginal: tion, etc. -->
+
+course of study or training programme
+
+<!-- marginal: with any -->
+
+<!-- marginal: University. -->
+
+jointly or in association, affiliation, collaboration or otherwise, with any university or institution of higher education or other educational institution or organization within or outside Malaysia.";
 
 (h) in section 6—
 
@@ -800,7 +988,7 @@ Conduct of 4C. The University may, with the study, etc. approval of the Minister
 
 ## UNIVERSITIES ANP UNIVERSITY COLLEGES
 
-<!-- marginal: 27 -->
+27
 
 ## (AMENDMENT)
 
@@ -824,7 +1012,15 @@ Conduct of 4C. The University may, with the study, etc. approval of the Minister
 
 (n) by substituting for sections 13, 14 and 15 the following sections:
 
-"The Board 13. The Board of Directors shall of consist of— Directors.
+<!-- marginal: "The Board -->
+
+13. The Board of Directors shall
+
+<!-- marginal: of -->
+
+consist of—
+
+<!-- marginal: Directors. -->
 
 (a) a Chairman;
 
@@ -840,7 +1036,17 @@ Conduct of 4C. The University may, with the study, etc. approval of the Minister
 
 (e) not more than three persons who because of their knowledge or experience would in the opinion of the Minister be of assistance to the Board, at least one of whom shall be from the private sector.
 
-Provisions 14. (1) The appointment of the relating to members of the Board, except the Vice- the Board. Chancellor, shall be made by the Minister for a period of three years and upon the expiry of such period the members of the Board shall be eligible for reappointment.
+<!-- marginal: Provisions -->
+
+14. (1) The appointment of the
+
+<!-- marginal: relating to -->
+
+members of the Board, except the Vice-
+
+<!-- marginal: the Board. -->
+
+Chancellor, shall be made by the Minister for a period of three years and upon the expiry of such period the members of the Board shall be eligible for reappointment.
 
 (2) The Secretary of the Board, who may or may not be a member of the Board, shall be appointed by the Chairman.
 
@@ -850,13 +1056,25 @@ Provisions 14. (1) The appointment of the relating to members of the Board, exce
 
 (5) Subject to this Constitution, the Board may determine its own procedure.
 
-Temporary 15. (1) The Minister may appoint any exercise of member of the Board to exercise the functions of Chair- functions of the Chairman during any man. period the Chairman is for any reason unable to exercise his functions or during any period of any vacancy in the office of the Chairman.
+<!-- marginal: Temporary -->
 
-(2) A member appointed as the Chairman under subsection (1) shall, during the period in which he is exercising the functions of
+15. (1) The Minister may appoint any
 
-<!-- marginal: the -->
+<!-- marginal: exercise of -->
 
-Chairman, under this section, be deemed to be the Chairman.";
+member of the Board to exercise the
+
+<!-- marginal: functions -->
+
+<!-- marginal: of Chair- -->
+
+functions of the Chairman during any
+
+<!-- marginal: man. -->
+
+period the Chairman is for any reason unable to exercise his functions or during any period of any vacancy in the office of the Chairman.
+
+(2) A member appointed as the Chairman under subsection (1) shall, during the period in which he is exercising the functions of the Chairman, under this section, be deemed to be the Chairman.";
 
 <!-- page 29 -->
 
@@ -870,11 +1088,7 @@ Chairman, under this section, be deemed to be the Chairman.";
 
 (iii) by substituting for the proviso the following subsection:
 
-"(2) No resolution shall be passed by the Board relating to any matter within the powers of the Senate, unless the Senate has first been given the opportunity of recording
-
-<!-- marginal: and -->
-
-transmitting to the Board its opinion thereon.";
+"(2) No resolution shall be passed by the Board relating to any matter within the powers of the Senate, unless the Senate has first been given the opportunity of recording and transmitting to the Board its opinion thereon.";
 
 (p) in section 17—
 
@@ -946,7 +1160,19 @@ transmitting to the Board its opinion thereon.";
 
 (r) by substituting for section 19 the following
 
-19. A Studies Committee may be "The Studies appointed by the Senate for either of Committee. the following purposes:
+<!-- marginal: section: -->
+
+19. A Studies Committee may be
+
+<!-- marginal: "The -->
+
+<!-- marginal: Studies -->
+
+appointed by the Senate for either of
+
+<!-- marginal: Committee. -->
+
+the following purposes:
 
 (a) to deal with matters pertaining to any Faculty, School, Centre, Academy and Institute; and
 
@@ -976,11 +1202,7 @@ and in either case to report thereon to such Faculty, School, Centre, Academy or
 
 (aa) by deleting the words "Boards of; and
 
-(bb) by inserting after the word "Selection" the
-
-<!-- marginal: word -->
-
-"Committee"; and
+(bb) by inserting after the word "Selection" the word "Committee"; and
 
 (iv) in subsection (3)—
 
@@ -1014,7 +1236,7 @@ Selection Committees in respect of different appointments and the"; and
 
 <!-- page 34 -->
 
-34
+<!-- marginal: 34 -->
 
 ## BILL
 
@@ -1064,11 +1286,7 @@ Selection Committees in respect of different appointments and the"; and
 
 (C) by substituting for section 41 the following
 
-"Form of 41. Any contract involving
-
-<!-- marginal: the -->
-
-contracts. expenditure by the University shall be in writing, signed on behalf of the University by any staff, officer or employee of the University duly authorised by the Board, either specially in any particular case or generally for all contracts below a certain value or otherwise as may be specified in the authorisation.";
+"Form of 41. Any contract involving the contracts. expenditure by the University shall be in writing, signed on behalf of the University by any staff, officer or employee of the University duly authorised by the Board, either specially in any particular case or generally for all contracts below a certain value or otherwise as may be specified in the authorisation.";
 
 (D) by deleting section 42;
 
@@ -1088,17 +1306,9 @@ contracts. expenditure by the University shall be in writing, signed on behalf o
 
 (i) by substituting for paragraph (2)(a) the following paragraph:
 
-"(a) the registered students of each Faculty, School, Centre, Academy and Institute shall elect by secret ballot conducted by the Dean of the Faculty or the Head of the School, Centre, Academy or Institute, as the case may be, such uniform number of registered students of
+"(a) the registered students of each Faculty, School, Centre, Academy and Institute shall elect by secret ballot conducted by the Dean of the Faculty or the Head of the School, Centre, Academy or Institute, as the case may be, such uniform number of registered students of the respective Faculty, School, Centre, Academy and Institute to be representatives in the SRC as may be determined by the Vice-Chancellor; and";
 
-<!-- marginal: the -->
-
-respective Faculty, School, Centre, Academy and Institute to be representatives in the SRC as may be determined by the Vice-Chancellor; and";
-
-(ii) in paragraph (2)(b), by substituting for the words "the Registrar of
-
-<!-- marginal: the -->
-
-University" the words "any officer appointed by the Vice-Chancellor for that purpose"; and
+(ii) in paragraph (2)(b), by substituting for the words "the Registrar of the University" the words "any officer appointed by the Vice-Chancellor for that purpose"; and
 
 (iii) in subsection (6), by inserting after the words "Vice-Chancellor," the word "appoint";
 
@@ -1114,19 +1324,17 @@ University" the words "any officer appointed by the Vice-Chancellor for that pur
 
 (ii) in subsection (1)—
 
-(aa) by inserting after the word "a" and before the word "diploma" the words "degree,"; and (bb) by inserting after the word "diploma" the words certificate"; and
+(aa) by inserting after the word "a" and before the word "diploma" the words "degree,"; and
+
+(bb) by inserting after the word "diploma" the words certificate"; and
 
 (iii) by inserting after subsection (1) the following subsection:
 
-"(2) Scandalous conduct
-
-<!-- marginal: in -->
-
-subsection (1) includes wilfully giving any staff, officer, employee or Authority of the University any information or document which is false or misleading in any material particular in obtaining a degree, diploma, certificate or other academic distinction from the University."; and
+"(2) Scandalous conduct in subsection (1) includes wilfully giving any staff, officer, employee or Authority of the University any information or document which is false or misleading in any material particular in obtaining a degree, diploma, certificate or other academic distinction from the University."; and
 
 (K) in section 54, by substituting for the word "Chancellor" the word "Minister".
 
-<!-- marginal: New Second -->
+New Second
 
 30. The principal Act is amended by inserting after the
 
@@ -1138,7 +1346,13 @@ First Schedule the following Schedule:
 
 (Section 12(3) of the Constitution)
 
-1. The following person shall be disqualified Disquali- fication. from being appointed or being a member of an Authority of the University:
+1. The following person shall be disqualified
+
+<!-- marginal: Disquali- -->
+
+<!-- marginal: fication. -->
+
+from being appointed or being a member of an Authority of the University:
 
 (a) if there has been proved against him, or he has been convicted on, a charge in respect of—
 
@@ -1158,19 +1372,49 @@ First Schedule the following Schedule:
 
 (c) if he has been found or declared to be of unsound mind or has otherwise become incapable of managing his affairs.
 
-Cessation 2. A member of an Authority shall cease to be from being a member— a member.
+<!-- marginal: Cessation -->
+
+2. A member of an Authority shall cease to be
+
+<!-- marginal: from being -->
+
+a member—
+
+<!-- marginal: a member. -->
 
 (a) if he fails to attend three consecutive meetings of the Authority without leave of the chairman of the Authority; or
 
 (b) if his appointment is revoked.
 
-Resignation. 3. A member of the Authority may resign by giving one month's notice in writing to the chairman of the Authority.
+<!-- marginal: Resignation. -->
 
-Filling of 4. Where any person ceases to be a member vacancies. of an Authority by reason of the provisions of this Act, another person may be appointed to fill the vacancy for the remainder of the term for which the member was appointed.
+3. A member of the Authority may resign by giving one month's notice in writing to the chairman of the Authority.
 
-Allowance. 5. Members of the Authority shall be paid such allowance as the Minister may determine.
+<!-- marginal: Filling of -->
 
-Authority 6. (1) The Authority may invite any person may invite to attend a meeting or deliberation of the others to meetings. Authority for the purpose of advising it on any matter under discussion but that person shall not be entitled to vote at the meeting or deliberation.
+4. Where any person ceases to be a member
+
+<!-- marginal: vacancies. -->
+
+of an Authority by reason of the provisions of this Act, another person may be appointed to fill the vacancy for the remainder of the term for which the member was appointed.
+
+<!-- marginal: Allowance. -->
+
+5. Members of the Authority shall be paid such allowance as the Minister may determine.
+
+<!-- marginal: Authority -->
+
+6. (1) The Authority may invite any person
+
+<!-- marginal: may invite -->
+
+to attend a meeting or deliberation of the
+
+<!-- marginal: others to -->
+
+<!-- marginal: meetings. -->
+
+Authority for the purpose of advising it on any matter under discussion but that person shall not be entitled to vote at the meeting or deliberation.
 
 (2) A person invited under subparagraph (1) shall be paid such allowance as the Authority may determine.
 
@@ -1178,13 +1422,21 @@ Authority 6. (1) The Authority may invite any person may invite to attend a meet
 
 ## (AMENDMENT)
 
-Minutes. 7. (1) The Authority shall cause minutes of all its meetings to be maintained and kept in a proper form.
+<!-- marginal: Minutes. -->
+
+7. (1) The Authority shall cause minutes of all its meetings to be maintained and kept in a proper form.
 
 (2) Minutes made of meetings of the Authority shall, if duly signed, be admissible in evidence in all legal proceedings without further proof.
 
 (3) Every meeting of the Authority in respect of the proceedings of which minutes have been so made shall be deemed to have been duly convened and held and all members thereat to have been duly qualified to act.
 
-Disclosure 8. (1) A member of the Authority having, of interest. directly or indirectly, by himself or his partner—
+<!-- marginal: Disclosure -->
+
+8. (1) A member of the Authority having,
+
+<!-- marginal: of interest. -->
+
+directly or indirectly, by himself or his partner—
 
 (a) an interest in a company or undertaking with which the Authority proposes to make a contract; or
 
@@ -1194,13 +1446,17 @@ shall disclose to the Authority the fact of his interest and its nature.
 
 (2) A disclosure under subparagraph (1) shall be recorded in the minutes of the Authority and, unless specifically authorised by the chairman, such member shall take no part in the deliberation or decision of the Authority relating to the contract or matter.
 
-Validity of 9. No act done or proceeding taken under this acts and Act shall be questioned on the ground of— proceedings.
+<!-- marginal: Validity of -->
 
-(a) a vacancy in the membership of, or a defect in the constitution of,
+9. No act done or proceeding taken under this
 
-<!-- marginal: the -->
+<!-- marginal: acts and -->
 
-Authority;
+Act shall be questioned on the ground of—
+
+<!-- marginal: proceedings. -->
+
+(a) a vacancy in the membership of, or a defect in the constitution of, the Authority;
 
 (b) a contravention by a member of the Authority of paragraph 8; or
 

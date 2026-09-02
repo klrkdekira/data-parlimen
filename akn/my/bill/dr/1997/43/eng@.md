@@ -64,31 +64,13 @@ Rulers' Seal B. 3 Audit Department 43,239,100 B. 4 Election Commission
 
 ### Title
 
-<!-- marginal: Amount -->
+### Amount
 
-<!-- marginal: (RM) -->
-
-B.30 Contribution to Statutory Funds 3,776,453,110 B.31 Royal Customs and Excise 284,546,900 Department B.32 Inland Revenue Department
+(RM) B.30 Contribution to Statutory Funds 3,776,453,110 B.31 Royal Customs and Excise 284,546,900 Department B.32 Inland Revenue Department
 
 <!-- marginal: 10 -->
 
-B.33 Valuation and Property 37,038,800 Services Department B.34 Ministry of Health 3,494,774,000 B.35 Ministry of Home Affairs 154,924,100 B.36 Royal Malaysia Police 1,826,369,100 B.37 Immigration Department 168,063,300 B.38 Registration of Societies
-
-<!-- marginal: 6,702,800 -->
-
-Department B. 39 National Registration
-
-<!-- marginal: 74,555,400 -->
-
-Department B.40 Prisons Department 162,002,900 B.41 Civil Defence Department
-
-<!-- marginal: 8,008,900 -->
-
-B.42 Ministry of National Unity 234,563,000 and Social Development B.43 Ministry of Land and 280,038,900 Co-operative Development B.44 Ministry of Information 335,065,200 B.45 Ministry of Human Resources 101,496,100 B.46 Ministry of Science, 219,338,800 Technology and the Environment B.47 Ministry of Transport 376,620,700 B.48 Ministry of Rural Development 322,454,400 B.49 Ministry of Energy,
-
-<!-- marginal: 67,459,200 -->
-
-Telecommunications and Posts B.50 Ministry of Entrepreneur 921,993,000 Development B:51 Ministry of Foreign Affairs 249,130,100 B.52 Ministry of Works 980,480,480
+B.33 Valuation and Property 37,038,800 Services Department B.34 Ministry of Health 3,494,774,000 B.35 Ministry of Home Affairs 154,924,100 B.36 Royal Malaysia Police 1,826,369,100 B.37 Immigration Department 168,063,300 B.38 Registration of Societies 6,702,800 Department B. 39 National Registration 74,555,400 Department B.40 Prisons Department 162,002,900 B.41 Civil Defence Department 8,008,900 B.42 Ministry of National Unity 234,563,000 and Social Development B.43 Ministry of Land and 280,038,900 Co-operative Development B.44 Ministry of Information 335,065,200 B.45 Ministry of Human Resources 101,496,100 B.46 Ministry of Science, 219,338,800 Technology and the Environment B.47 Ministry of Transport 376,620,700 B.48 Ministry of Rural Development 322,454,400 B.49 Ministry of Energy, 67,459,200 Telecommunications and Posts B.50 Ministry of Entrepreneur 921,993,000 Development B:51 Ministry of Foreign Affairs 249,130,100 B.52 Ministry of Works 980,480,480
 
 ## TOTAL
 

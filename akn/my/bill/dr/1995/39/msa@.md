@@ -16,9 +16,7 @@
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan mula berkuatkuasa.
-
-2. Tafsiran.
+1. Tajuk ringkas dan mula berkuatkuasa. 2. Tafsiran.
 
 ## BAHAGIAN
 
@@ -26,19 +24,7 @@ II
 
 ## LEMBAGA
 
-3. Lembaga dan objektifnya.
-
-4. Fungsi dan kuasa Lembaga.
-
-5. Keanggotaan Lembaga.
-
-6. Tempoh jawatan.
-
-7. Peletakhakan jawatan dan pembatalan.
-
-8. Pengosongan jawatan.
-
-9. Kuasa Menteri memberikan arahan dan menghendaki maklumat.
+3. Lembaga dan objektifnya. 4. Fungsi dan kuasa Lembaga. 5. Keanggotaan Lembaga. 6. Tempoh jawatan. 7. Peletakhakan jawatan dan pembatalan. 8. Pengosongan jawatan. 9. Kuasa Menteri memberikan arahan dan menghendaki maklumat.
 
 10. Lembaga hendaklah menentukan prosedurnya sendiri.
 
@@ -88,17 +74,7 @@ III
 
 29. Kumpulan Wang.
 
-30. Perbelanjaan yang hendaklah dipertanggungkan pada Kumpulan Wang.
-
-31. Pemeliharaan Kumpulan Wang.
-
-32. Levi.
-
-33. Akaun dan laporan.
-
-34. Kuasa untuk meminjam.
-
-35. Pelaburan.
+30. Perbelanjaan yang hendaklah dipertanggungkan pada Kumpulan Wang. 31. Pemeliharaan Kumpulan Wang. 32. Levi. 33. Akaun dan laporan. 34. Kuasa untuk meminjam. 35. Pelaburan.
 
 ## BAHAGIAN
 
@@ -106,13 +82,7 @@ IV
 
 AM
 
-36. Indemniti.
-
-37. Kuasa membuat peraturan-peraturan.
-
-38. Kuasa Menteri untuk membuat ubahsuaian.
-
-39. Kecualian dan peralihan.
+36. Indemniti. 37. Kuasa membuat peraturan-peraturan. 38. Kuasa Menteri untuk membuat ubahsuaian. 39. Kecualian dan peralihan.
 
 <!-- page 3 -->
 
@@ -160,7 +130,11 @@ di bawah Akta Bank Negara Malaysia 1958;
 
 "Kumpulan Wang" ertinya Kumpulan Wang yang ditubuhkan di bawah subseksyen 29(1);
 
-"Labuan" ertinya Kawasan Lembaga Pembangunan Akta 480 Labuan yang ditakrifkan dalam seksyen 2 Akta Lembaga Pembangunan Labuan 1992;
+"Labuan" ertinya Kawasan Lembaga Pembangunan
+
+<!-- marginal: Akta 480 -->
+
+Labuan yang ditakrifkan dalam seksyen 2 Akta Lembaga Pembangunan Labuan 1992;
 
 "Lembaga" ertinya Lembaga Perkhidmatan Kewangan Luar Pesisir Labuan yang ditubuhkan di bawah seksyen 3;
 
@@ -170,7 +144,9 @@ di bawah Akta Bank Negara Malaysia 1958;
 
 "pegawai perakaunan" termasuklah tiap-tiap pegawai dan pengkhidmat yang dipertanggungkan dengan kewajipan memungut, menerima, atau mengakaunkan, atau yang sebenarnya memungut, menerima atau mengakaunkan, apa-apa wang dalam Kumpulan Wang, atau yang dipertanggungkan dengan penerimaan, penjagaan atau pelupusan, atau pengakaunan, apa-apa barang simpanan dan harta Lembaga atau yang sebenarnya menerima, memegang atau melupuskan barang simpanan dan harta sedemikian;
 
-Akta 125. "Pendaftar" ertinya Pendaftar Syarikat di bawah Akta Syarikat 1965, dan termasuklah mana-mana Pendaftar Rantau, Timbalan Pendaftar atau Penolong Pendaftar Syarikat;
+<!-- marginal: Akta 125. -->
+
+"Pendaftar" ertinya Pendaftar Syarikat di bawah Akta Syarikat 1965, dan termasuklah mana-mana Pendaftar Rantau, Timbalan Pendaftar atau Penolong Pendaftar Syarikat;
 
 "Pengerusi" ertinya Pengerusi yang dilantik di bawah seksyen 5;
 
@@ -246,9 +222,13 @@ Kewangan Luar Pesisir Labuan" yang kekal turun-temurun dan mempunyai suatu meter
 
 ### Menteri berkenaan dengannya.
 
-Fungsi dan
+<!-- marginal: Fungsi dan -->
 
-4. (1) Fungsi Lembaga adalah— kuasa Lembaga.
+4. (1) Fungsi Lembaga adalah—
+
+<!-- marginal: kuasa -->
+
+<!-- marginal: Lembaga. -->
 
 (a) untuk mentadbirkan, menguatkuasakan, men-
 
@@ -256,19 +236,19 @@ Fungsi dan
 
 ### (i) Akta Syarikat Luar Pesisir 1990;
 
-Akta 441.
+<!-- marginal: Akta 441. -->
 
 ### (ii) Akta Syarikat Amanah Labuan 1990;
 
-Akta 442.
+<!-- marginal: Akta 442. -->
 
 ### (iii) Akta Bank Luar Pesisir 1990;
 
-Akta 443.
+<!-- marginal: Akta 443. -->
 
 ### (iv) Akta Insurans Luar Pesisir 1990; dan
 
-Akta 444.
+<!-- marginal: Akta 444. -->
 
 ### (v) mana-mana
 
@@ -364,19 +344,33 @@ berikut yang hendaklah dilantik oleh Menteri:
 
 (4) Sekiranya Ketua Pengarah tidak ada atau tidak dapat bertindak kerana sakit atau apa-apa sebab lain, Pengerusi hendaklah melantik mana-mana anggota Lembaga untuk menjalankan fungsi-fungsi Ketua Pengarah.
 
-Tempoh
+<!-- marginal: Tempoh -->
 
-6. Tertakluk kepada apa-apa syarat yang dinyatakan dalam jawatan. suratcara perlantikannya, seseorang anggota Lembaga hendaklah, melainkan jika dia terlebih dahulu meletakkan atau mengosongkan jawatannya atau perlantikannya terlebih dahulu dibatalkan, memegang jawatan selama tempoh yang tidak melebihi tiga tahun dan adalah layak untuk dilantik semula.
+6. Tertakluk kepada apa-apa syarat yang dinyatakan dalam
 
-Peletakan
+<!-- marginal: jawatan. -->
 
-7. (1) Perlantikan mana-mana anggota boleh pada bila- jawatan dan bila masa dibatalkan oleh Menteri. pembatalan.
+suratcara perlantikannya, seseorang anggota Lembaga hendaklah, melainkan jika dia terlebih dahulu meletakkan atau mengosongkan jawatannya atau perlantikannya terlebih dahulu dibatalkan, memegang jawatan selama tempoh yang tidak melebihi tiga tahun dan adalah layak untuk dilantik semula.
+
+<!-- marginal: Peletakan -->
+
+7. (1) Perlantikan mana-mana anggota boleh pada bila-
+
+<!-- marginal: jawatan dan -->
+
+bila masa dibatalkan oleh Menteri.
+
+<!-- marginal: pembatalan. -->
 
 (2) Seseorang anggota boleh pada bila-bila masa meletakkan jawatannya dengan notis bertulis yang ditujukan kepada Menteri.
 
-Pengosongan
+<!-- marginal: Pengosongan -->
 
-8. Jawatan seseorang anggota Lembaga hendaklah jawatan. menjadi kosong—
+8. Jawatan seseorang anggota Lembaga hendaklah
+
+<!-- marginal: jawatan. -->
+
+menjadi kosong—
 
 (a) jika dia mati;
 
@@ -476,7 +470,17 @@ Dengan syarat bahawa apa-apa dokumen atau suratcara yang, jika disempurnakan ole
 
 (4) Meterai biasa Lembaga hendaklah diberikan pengiktirafan kehakiman bagi semua maksud rasmi.
 
-14. (1) Lembaga boleh mewakilkan mana-mana fungsi Pewakilan fungsi atau atau kuasanya kepada— kuasa Lembaga.
+14. (1) Lembaga boleh mewakilkan mana-mana fungsi
+
+<!-- marginal: Pewakilan -->
+
+<!-- marginal: fungsi atau -->
+
+atau kuasanya kepada—
+
+<!-- marginal: kuasa -->
+
+<!-- marginal: Lembaga. -->
 
 (a) mana-mana anggota Lembaga;
 
@@ -530,15 +534,19 @@ membantunya dalam melaksanakan fungsi-fungsinya di bawah Akta ini,
 
 (9) Anggota sesuatu jawatankuasa boleh pada bila- bila masa meletakkan jawatan dengan memberikan notis bertulis kepada Pengerusi Lembaga.
 
-Minit.
+<!-- marginal: Minit. -->
 
 16. (1) Lembaga atau sesuatu jawatankuasa hendaklah menyebabkan minit semua mesyuaratnya disenggarakan dan disimpan dalam bentuk yang sepatutnya.
 
 (2) Apa-apa minit yang dibuat mengenai mesyuarat Lembaga atau sesuatu jawatankuasa, jika ditandatangani sewajarnya, hendaklah, dalam mana-mana prosiding undang-undang, boleh diterima sebagai keterangan prima facie mengenai fakta yang dinyatakan dalamnya dan tiap- tiap mesyuarat Lembaga atau sesuatu jawatankuasa berkenaan dengan prosiding yang mengenainya minit telah dibuat sedemikian hendaklah disifatkan telah dipanggil dan diadakan sewajarnya dan semua anggota pada mesyuarat itu adalah layak sewajarnya untuk bertindak.
 
-Pendedahan
+<!-- marginal: Pendedahan -->
 
-17. (1) Mana-mana anggota Lembaga atau sesuatu kepentingan. jawatankuasa yang mempunyai atau memperolehi secara langsung atau tak langsung, sendiri, atau melalui isterinya atau suaminya atau anaknya, atau pekongsinya atau ejennya—
+17. (1) Mana-mana anggota Lembaga atau sesuatu
+
+<!-- marginal: kepentingan. -->
+
+jawatankuasa yang mempunyai atau memperolehi secara langsung atau tak langsung, sendiri, atau melalui isterinya atau suaminya atau anaknya, atau pekongsinya atau ejennya—
 
 (a) apa-apa syer atau kepentingan dalam mana-mana institusi kewangan luar pesisir;
 
@@ -574,7 +582,11 @@ hendaklah mengisytiharkan jenis dan takat syer atau kepentingannya kepada Lembag
 
 <!-- marginal: atau -->
 
-jawatankuasa yang dalamnya apa-apa soal berhubungan dengan kontrak, pemerolehan, pembelian, pemajakan, urusniaga, projek atau skim yang disebut dalam perenggan itu mula-mula dipertimbangkan;
+jawatankuasa yang dalamnya apa-apa soal berhubungan dengan
+
+<!-- marginal: kontrak, -->
+
+pemerolehan, pembelian, pemajakan, urusniaga, projek atau skim yang disebut dalam perenggan itu mula-mula dipertimbangkan;
 
 (ii) jika anggota itu tidak mempunyai apa- apa syer atau kepentingan sebagaimana yang disebut dalam subperenggan (i) pada tarikh mesyuarat yang disebut dalam subperenggan itu, pada mesyuarat sedemikian yang berikutnya yang diadakan selepas dia memperolehi syer atau kepentingan itu; atau
 
@@ -590,7 +602,11 @@ jawatankuasa yang dalamnya apa-apa soal berhubungan dengan kontrak, pemerolehan,
 
 (6) Tiada seorang pun anggota Lembaga atau jawatankuasa boleh—
 
-(a) mengambil bahagian dalam apa-apa pertimbangtelitian (kecuali dengan undangan Lembaga atau jawatankuasa, mengikut mana- mana yang berkenaan) mengenai apa-apa perkara yang menyentuh mana-mana institusi kewangan luar pesisir yang dalamnya dia mempunyai apa- apa syer atau kepentingan, sama ada atau tidak dia sudah mengisytiharkan syer atau kepentingannya itu, atau dalam apa-apa keputusan yang berhubungan dengannya atau dalam apa-apa perkara yang bersampingan dengannya; atau
+(a) mengambil bahagian dalam
+
+<!-- marginal: apa-apa -->
+
+pertimbangtelitian (kecuali dengan undangan Lembaga atau jawatankuasa, mengikut mana- mana yang berkenaan) mengenai apa-apa perkara yang menyentuh mana-mana institusi kewangan luar pesisir yang dalamnya dia mempunyai apa- apa syer atau kepentingan, sama ada atau tidak dia sudah mengisytiharkan syer atau kepentingannya itu, atau dalam apa-apa keputusan yang berhubungan dengannya atau dalam apa-apa perkara yang bersampingan dengannya; atau
 
 (b) mengundi atas apa-apa ketetapan atau soal yang berhubungan dengan apa-apa kontrak, pemerolehan, pembelian, pajakan, urusniaga, projek atau skim yang dalamnya dia mempunyai
 
@@ -634,13 +650,35 @@ atas apa-apa terma dan syarat lain yang ditentukan oleh Lembaga.
 
 <!-- page 16 -->
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-19. Lembaga boleh memberikan pinjaman dan membuat memberikan pendahuluan kepada pegawai dan pengkhidmatnya atas pinjaman dan membuat apa-apa terma dan syarat yang ditentukan oleh Lembaga. pendahuluan kepada pegawai dan pengkhidmat.
+19. Lembaga boleh memberikan pinjaman dan membuat
 
-Jawatankuasa
+<!-- marginal: memberikan -->
 
-20. (1) Lembaga hendaklah mempunyai kuasa tatatertib tatatertib. ke atas semua pegawai dan pengkhidmatnya dan hendaklah menjalankan kawalan tatatertib berkenaan dengan semua orang sedemikian mengikut Akta ini dan mana-mana peraturan yang dibuat di bawah seksyen 22.
+pendahuluan kepada pegawai dan pengkhidmatnya atas
+
+<!-- marginal: pinjaman dan -->
+
+<!-- marginal: membuat -->
+
+apa-apa terma dan syarat yang ditentukan oleh Lembaga.
+
+<!-- marginal: pendahuluan -->
+
+<!-- marginal: kepada -->
+
+<!-- marginal: pegawai dan -->
+
+<!-- marginal: pengkhidmat. -->
+
+<!-- marginal: Jawatankuasa -->
+
+20. (1) Lembaga hendaklah mempunyai kuasa tatatertib
+
+<!-- marginal: tatatertib. -->
+
+ke atas semua pegawai dan pengkhidmatnya dan hendaklah menjalankan kawalan tatatertib berkenaan dengan semua orang sedemikian mengikut Akta ini dan mana-mana peraturan yang dibuat di bawah seksyen 22.
 
 (2) Bagi maksud seksyen ini—
 
@@ -700,9 +738,23 @@ bawah perenggan 20(2)(a) bolehlah dirayu kepada Menteri.
 
 (5) Keputusan Menteri atau Lembaga Rayuan Tatatertib di bawah subseksyen (3) adalah muktamad dan konklusif.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-22. (1) Lembaga boleh, dengan kelulusan Menteri, membuat membuat apa-apa peraturan yang difikirkannya perlu atau peraturan- peraturan suaimanfaat untuk mengadakan peruntukan bagi tatatertib tatatertib. pegawai dan pengkhidmat Lembaga.
+22. (1) Lembaga boleh, dengan kelulusan Menteri,
+
+<!-- marginal: membuat -->
+
+membuat apa-apa peraturan yang difikirkannya perlu atau
+
+<!-- marginal: peraturan- -->
+
+<!-- marginal: peraturan -->
+
+suaimanfaat untuk mengadakan peruntukan bagi tatatertib
+
+<!-- marginal: tatatertib. -->
+
+pegawai dan pengkhidmat Lembaga.
 
 (2) Peraturan-peraturan tatatertib yang dibuat di bawah seksyen ini—
 
@@ -832,9 +884,13 @@ III
 
 ## KEWANGAN
 
-Kumpulan
+<!-- marginal: Kumpulan -->
 
-29. (1) Maka adalah dengan ini ditubuhkan, bagi maksud Wang. Akta ini, suatu kumpulan wang yang hendaklah ditadbirkan dan dikawal oleh Lembaga.
+29. (1) Maka adalah dengan ini ditubuhkan, bagi maksud
+
+<!-- marginal: Wang. -->
+
+Akta ini, suatu kumpulan wang yang hendaklah ditadbirkan dan dikawal oleh Lembaga.
 
 (2) Kumpulan Wang hendaklah terdiri daripada—
 
@@ -850,11 +906,29 @@ Kumpulan
 
 (f) segala jumlah wang atau harta lain yang mungkin dengan apa-apa cara menjadi kena dibayar kepada atau terletakhak pada Lembaga berkenaan dengan apa-apa perkara yang bersampingan dengan fungsi dan kuasanya.
 
-Perbelanjaan
+<!-- marginal: Perbelanjaan -->
 
-30. Kumpulan Wang hendaklah dibelanjakan bagi yang maksud— hendaklah dipertanggungkan pada
+30. Kumpulan Wang hendaklah dibelanjakan bagi
 
-(a) membayar apa-apa perbelanjaan yang dilakukan Kumpulan dengan sah oleh Lembaga, termasuk fee dan Wang. kos guaman dan fee dan kos yang lain, dan saraan pegawai dan pengkhidmat Lembaga, termasuk pemberian pinjaman, elaun persaraan atau ganjaran;
+<!-- marginal: yang -->
+
+maksud—
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: dipertanggungkan -->
+
+<!-- marginal: pada -->
+
+(a) membayar apa-apa perbelanjaan yang dilakukan
+
+<!-- marginal: Kumpulan -->
+
+dengan sah oleh Lembaga, termasuk fee dan
+
+<!-- marginal: Wang. -->
+
+kos guaman dan fee dan kos yang lain, dan saraan pegawai dan pengkhidmat Lembaga, termasuk pemberian pinjaman, elaun persaraan atau ganjaran;
 
 <!-- page 23 -->
 
@@ -896,9 +970,13 @@ menjalankan kuasanya di bawah Akta ini dengan sedemikian cara supaya pasti bahaw
 
 (b) tertakluk kepada peruntukan berhubungan dengan kerahsiaan di bawah mana-mana undang-undang bertulis berhubungan dengan institusi kewangan luar pesisir, penyimpanan, pemeriksaan dan pengauditan akaun institusi kewangan luar pesisir berhubungan dengan pemungutan levi itu.
 
-Akaun dan
+<!-- marginal: Akaun dan -->
 
-33. (1) Lembaga hendaklah menyebabkan disimpan laporan. akaun yang sepatutnya bagi Kumpulan Wang dan laporan yang sepatutnya mengenai aktivitinya dan hendaklah, dengan seberapa segera yang praktik selepas berakhirnya setiap tahun kewangan, menyebabkan disediakan—
+33. (1) Lembaga hendaklah menyebabkan disimpan
+
+<!-- marginal: laporan. -->
+
+akaun yang sepatutnya bagi Kumpulan Wang dan laporan yang sepatutnya mengenai aktivitinya dan hendaklah, dengan seberapa segera yang praktik selepas berakhirnya setiap tahun kewangan, menyebabkan disediakan—
 
 (a) suatu penyata akaun Lembaga yang hendaklah mengandungi kunci kira-kira dan akaun pendapatan dan perbelanjaan; dan
 
@@ -908,11 +986,19 @@ bagi tahun kewangan itu.
 
 (2) Lembaga hendaklah dengan seberapa segera yang mungkin menghantar suatu salinan penyata akaun yang diperakui oleh juruaudit dan suatu salinan laporan juruaudit kepada Menteri yang hendaklah menyebabkannya dibentangkan di hadapan kedua-kedua Majlis Parlimen.
 
-(3) Akta Badan Berkanun (Akaun dan Laporan Akta 240. Tahunan) 1980 hendaklah terpakai bagi Lembaga.
+(3) Akta Badan Berkanun (Akaun dan Laporan
 
-Kuasa untuk
+<!-- marginal: Akta 240. -->
 
-34. Lembaga boleh dari semasa ke semasa, dengan meminjam. kelulusan Menteri, meminjam, pada apa-apa kadar bunga dan bagi apa-apa tempoh dan atas apa-apa terma tentang masa dan kaedah pembayaran balik dan selainnya
+Tahunan) 1980 hendaklah terpakai bagi Lembaga.
+
+<!-- marginal: Kuasa untuk -->
+
+34. Lembaga boleh dari semasa ke semasa, dengan
+
+<!-- marginal: meminjam. -->
+
+kelulusan Menteri, meminjam, pada apa-apa kadar bunga dan bagi apa-apa tempoh dan atas apa-apa terma tentang masa dan kaedah pembayaran balik dan selainnya
 
 <!-- page 25 -->
 
@@ -958,21 +1044,49 @@ menguatkuasakan peruntukan Akta ini.
 
 <!-- page 26 -->
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-38. (1) Tertakluk kepada subseksyen (2), Menteri boleh, Menteri bilamana didapatinya perlu atau suaimanfaat dibuat untuk membuat sedemikian sama ada bagi maksud menghapuskan kesulitan ubahsuaian. atau berikutan dengan terlulusnya Akta ini, melalui perintah membuat apa-apa ubahsuaian kepada mana-mana peruntukan dalam mana-mana undang-undang berhubungan dengan perkhidmatan kewangan luar pesisir sebagaimana yang difikirkannya patut.
+38. (1) Tertakluk kepada subseksyen (2), Menteri boleh,
+
+<!-- marginal: Menteri -->
+
+bilamana didapatinya perlu atau suaimanfaat dibuat
+
+<!-- marginal: untuk -->
+
+<!-- marginal: membuat -->
+
+sedemikian sama ada bagi maksud menghapuskan kesulitan
+
+<!-- marginal: ubahsuaian. -->
+
+atau berikutan dengan terlulusnya Akta ini, melalui perintah membuat apa-apa ubahsuaian kepada mana-mana peruntukan dalam mana-mana undang-undang berhubungan dengan perkhidmatan kewangan luar pesisir sebagaimana yang difikirkannya patut.
 
 (2) Menteri tidak boleh menjalankan kuasa yang diberikan di bawah subseksyen (1) selepas habis tempoh dua tahun dari mula berkuatkuasanya Akta ini.
 
-Kecualian
+<!-- marginal: Kecualian -->
 
-39. (1) Semua peraturan, petunjuk, arahan, perintah atau dan keputusan yang dibuat oleh Pendaftar atau Bank, mengikut peralihan. mana-mana yang berkenaan, di bawah mana-mana undang- undang berhubungan dengan perkhidmatan kewangan luar pesisir yang wujud sebelum mula berkuatkuasanya Akta ini hendaklah disifatkan telah dibuat oleh Lembaga sehingga dipinda atau dibatalkan atau sehingga tarikh ia habis tempoh.
+39. (1) Semua peraturan, petunjuk, arahan, perintah atau
+
+<!-- marginal: dan -->
+
+keputusan yang dibuat oleh Pendaftar atau Bank, mengikut
+
+<!-- marginal: peralihan. -->
+
+mana-mana yang berkenaan, di bawah mana-mana undang- undang berhubungan dengan perkhidmatan kewangan luar pesisir yang wujud sebelum mula berkuatkuasanya Akta ini hendaklah disifatkan telah dibuat oleh Lembaga sehingga dipinda atau dibatalkan atau sehingga tarikh ia habis tempoh.
 
 (2) Semua peraturan, petunjuk, arahan, perintah atau keputusan yang dibuat oleh Menteri
 
 <!-- marginal: yang -->
 
-Akta 441. bertanggungjawab bagi Akta Syarikat Luar Pesisir 1990 Akta 442 dan Akta Syarikat Amanah Labuan 1990 di bawah Akta- Akta itu yang wujud sebelum mula berkuatkuasanya Akta ini hendaklah disifatkan telah dibuat oleh Menteri yang dipertanggungkan dengan tanggungjawab bagi kewangan melainkan jika dipinda atau dibatalkan atau sehingga tarikh ia habis tempoh.
+<!-- marginal: Akta 441. -->
+
+bertanggungjawab bagi Akta Syarikat Luar Pesisir 1990
+
+<!-- marginal: Akta 442 -->
+
+dan Akta Syarikat Amanah Labuan 1990 di bawah Akta- Akta itu yang wujud sebelum mula berkuatkuasanya Akta ini hendaklah disifatkan telah dibuat oleh Menteri yang dipertanggungkan dengan tanggungjawab bagi kewangan melainkan jika dipinda atau dibatalkan atau sehingga tarikh ia habis tempoh.
 
 (3) Semua permohonan, kelulusan atau keputusan yang belum selesai di hadapan Pendaftar atau Bank, mengikut mana-mana yang berkenaan, di bawah mana-mana undang- undang berhubungan dengan perkhidmatan kewangan luar pesisir hendaklah, apabila mula berkuatkuasanya Akta ini, diuruskan oleh Lembaga.
 

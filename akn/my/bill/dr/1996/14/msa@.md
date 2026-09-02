@@ -58,11 +58,7 @@ seksyen 2—
 
 (iv) dengan memotong takrif "Directors";
 
-(v) dengan memasukkan selepas
-
-<!-- marginal: takrif -->
-
-"Deputy Chairman" takrif yang berikut:
+(v) dengan memasukkan selepas takrif "Deputy Chairman" takrif yang berikut:
 
 "Management Committee" means the Management Committee established under Act . section 17 of the Malaysian Rubber Board (Incorporation) Act 1996;';
 
@@ -124,21 +120,31 @@ Income of 5. (1) The income of the Corporation shall Corpora- accrue to the Boar
 
 (d) dengan memotong perenggan (k), (l), (m), (n), (o), (p), (q) dan (r).
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-6. Seksyen 7 Akta ibu adalah dipinda— seksyen 7.
+6. Seksyen 7 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 7. -->
 
 (a) dalam perenggan (1)(b) dengan memasukkan selepas perkataan "Ordinary Members" perkataan ", Associate Members"; dan
 
 (b) dengan memotong subseksyen (2).
 
-Pemotongan
+<!-- marginal: Pemotongan -->
 
-7. Akta ibu adalah dipinda dengan memotong seksyen seksyen 8. 8.
+7. Akta ibu adalah dipinda dengan memotong seksyen
 
-Penggantian
+<!-- marginal: seksyen 8. -->
 
-8. Akta ibu adalah dipinda dengan menggantikan seksyen seksyen 12. 12 dengan seksyen yang berikut:
+8.
+
+<!-- marginal: Penggantian -->
+
+8. Akta ibu adalah dipinda dengan menggantikan seksyen
+
+<!-- marginal: seksyen 12. -->
+
+12 dengan seksyen yang berikut:
 
 Manage- 12. (1) All the powers of the Corporation shall ment and be vested in and be exercisable by the Board administra- except in so far as the same are by this Act or tion of Corpora- by the rules expressly required to be exercised tion. by the Corporation in a general meeting or authorised to be delegated by the Board.
 
@@ -148,9 +154,11 @@ Manage- 12. (1) All the powers of the Corporation shall ment and be vested in an
 
 (4) The Board may appoint a Deputy Chairman of the Corporation.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-9. Seksyen 14 Akta ibu adalah dipinda— seksyen 14.
+9. Seksyen 14 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 14. -->
 
 (a) dengan memotong perenggan (f); dan
 

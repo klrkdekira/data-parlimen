@@ -24,7 +24,9 @@ II
 
 ## LEMBAGA PERANCANG BANDAR
 
-3. Penubuhan Lembaga. 4. Keanggotaan Lembaga. 5. Penamatan perlantikan. 6. Pembatalan perlantikan. 7. Pengisian kekosongan. 8. Fungsi Lembaga. 9. Kuasa untuk meminjam. 10. Jawatankuasa.
+3. Penubuhan Lembaga. 4. Keanggotaan Lembaga. 5. Penamatan perlantikan. 6. Pembatalan perlantikan. 7. Pengisian kekosongan. 8. Fungsi Lembaga. 9. Kuasa untuk meminjam.
+
+10. Jawatankuasa.
 
 ## BAHAGIAN
 
@@ -32,7 +34,11 @@ III
 
 ## PENDAFTARAN PERANCANG BANDAR
 
-11. Daftar. 12. Perlantikan dan tugas Pendaftar. 13. Hak.
+11. Daftar.
+
+12. Perlantikan dan tugas Pendaftar.
+
+13. Hak.
 
 <!-- page 2 -->
 
@@ -84,25 +90,53 @@ IV
 
 <!-- page 3 -->
 
-35. Pendaftaran adalah batal dan tak sah dalam hal keadaan tenentu. 36. Penyingkiran dari Daftar. 37. Pemulangan perakuan pendaftaran. 38. Kemasukan semula ke dalam Daftar.
+35. Pendaftaran adalah batal dan tak sah dalam hal keadaan tenentu.
+
+36. Penyingkiran dari Daftar.
+
+37. Pemulangan perakuan pendaftaran.
+
+38. Kemasukan semula ke dalam Daftar.
 
 ## BAHAGIAN VI
 
 ## RAYUAN
 
-39. Lembaga Rayuan. 40. Tempoh jawatan dan elaun anggota Lembaga Rayuan. 41. Prosedur Lembaga Rayuan. 42. Rayuan. 43. Prosedur rayuan.
+39. Lembaga Rayuan.
+
+40. Tempoh jawatan dan elaun anggota Lembaga Rayuan.
+
+41. Prosedur Lembaga Rayuan.
+
+42. Rayuan.
+
+43. Prosedur rayuan.
 
 ## BAHAGIAN VII
 
 ## KESALAHAN-KESALAHAN
 
-44. Kesalahan-kesalahan. 45. Penalti am. 46. Kesalahan-kesalahan oleh pertubuhan perbadanan. 47. Penjalanan pendakwaan. 48. Penjalanan prosiding sivil.
+44. Kesalahan-kesalahan.
+
+45. Penalti am.
+
+46. Kesalahan-kesalahan oleh pertubuhan perbadanan.
+
+47. Penjalanan pendakwaan.
+
+48. Penjalanan prosiding sivil.
 
 ## BAHAGIAN VIII
 
 AM
 
-49. Perbuatan atau peninggalan yang dilakukan dengan suci hati. 50. Kaedah-kaedah. 51. Perancang Bandar berdaftar, Perancang Bandar Siswazah berdaftar, dsb. tertakluk kepada Akta ini. 52. Kecualian tentang hak Kerajaan.
+49. Perbuatan atau peninggalan yang dilakukan dengan suci hati.
+
+50. Kaedah-kaedah.
+
+51. Perancang Bandar berdaftar, Perancang Bandar Siswazah berdaftar, dsb. tertakluk kepada Akta ini.
+
+52. Kecualian tentang hak Kerajaan.
 
 ## JADUAL.
 
@@ -242,7 +276,11 @@ hendaklah dikenali sebagai "Lembaga Perancang Bandar" yang hendaklah menjadi sua
 
 (b) memperolehi, membeli, mengambil, memegang dan menikmati segala perihal harta alih dan tak alih.
 
-(4) Lembaga boleh memindahhakkan, menyerahhakkan, menyerahkan dan memulangkan, menggadai, menggadai- janji, mendemiskan, menyerahhakkan semula, memindahmilikkan atau selainnya melupuskan, atau memperlakukan, harta alih atau tak alih yang terletakhak pada Lembaga—
+(4) Lembaga boleh memindahhakkan, menyerahhakkan, menyerahkan dan memulangkan, menggadai, menggadai- janji, mendemiskan, menyerahhakkan
+
+<!-- marginal: semula, -->
+
+memindahmilikkan atau selainnya melupuskan, atau memperlakukan, harta alih atau tak alih yang terletakhak pada Lembaga—
 
 (a) mengikut apa-apa terma yang difikirkan patut oleh Lembaga; dan
 
@@ -250,9 +288,13 @@ hendaklah dikenali sebagai "Lembaga Perancang Bandar" yang hendaklah menjadi sua
 
 <!-- page 8 -->
 
-Keanggotaan
+<!-- marginal: Keanggotaan -->
 
-4. (1) Lembaga hendaklah terdiri daripada anggota- Lembaga. anggota yang berikut:
+4. (1) Lembaga hendaklah terdiri daripada anggota-
+
+<!-- marginal: Lembaga. -->
+
+anggota yang berikut:
 
 (a) Pengerusi;
 
@@ -268,11 +310,23 @@ Keanggotaan
 
 (iii) seorang Perancang Bandar yang bekerja dengan mana-mana universiti atau institusi pengajian tinggi dan yang bertugas mengajar perancangan bandar dan desa atau perancangan bandar dan wilayah;
 
-(e) seorang anggota yang dinamakan oleh Lembaga Arkitek daripada kalangan anggota Lembaga itu Akta 117. yang ditubuhkan di bawah Akta Arkitek 1967;
+(e) seorang anggota yang dinamakan oleh Lembaga Arkitek daripada kalangan anggota Lembaga itu
 
-(f) seorang anggota yang dinamakan oleh Lembaga Jurutera daripada kalangan anggota Lembaga Akta 138. itu yang ditubuhkan di bawah Akta Pendaftaran Jurutera 1967; dan
+<!-- marginal: Akta 117. -->
 
-(g) seorang anggota yang dinamakan oleh Lembaga Juruukur daripada kalangan anggota Lembaga Akta 458. itu yang ditubuhkan di bawah Akta Juruukur Tanah Berlesen 1958.
+yang ditubuhkan di bawah Akta Arkitek 1967;
+
+(f) seorang anggota yang dinamakan oleh Lembaga Jurutera daripada kalangan anggota Lembaga
+
+<!-- marginal: Akta 138. -->
+
+itu yang ditubuhkan di bawah Akta Pendaftaran Jurutera 1967; dan
+
+(g) seorang anggota yang dinamakan oleh Lembaga Juruukur daripada kalangan anggota Lembaga
+
+<!-- marginal: Akta 458. -->
+
+itu yang ditubuhkan di bawah Akta Juruukur Tanah Berlesen 1958.
 
 <!-- page 9 -->
 
@@ -332,13 +386,19 @@ anggota Lembaga yang dilantik—
 
 (h) jika namanya disingkirkan dari Daftar.
 
-Pengisian
+<!-- marginal: Pengisian -->
 
-7. Jika seseorang anggota yang dilantik terhenti daripada kekosongan. menjadi anggota Lembaga, Menteri boleh melantik orang lain untuk mengisi kekosongan itu selama baki tempoh yang baginya anggota yang mengosongkan jawatan itu telah dilantik.
+7. Jika seseorang anggota yang dilantik terhenti daripada
 
-Fungsi
+<!-- marginal: kekosongan. -->
 
-8. Fungsi Lembaga ialah— Lembaga.
+menjadi anggota Lembaga, Menteri boleh melantik orang lain untuk mengisi kekosongan itu selama baki tempoh yang baginya anggota yang mengosongkan jawatan itu telah dilantik.
+
+<!-- marginal: Fungsi -->
+
+8. Fungsi Lembaga ialah—
+
+<!-- marginal: Lembaga. -->
 
 (a) menyimpan dan menyenggara Daftar;
 
@@ -374,15 +434,19 @@ Perancang Bandar berdaftar dan Perancang Bandar Siswazah berdaftar;
 
 <!-- page 12 -->
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-9. Lembaga boleh, dengan kelulusan Menteri dan meminjam. mengikut apa-apa terma dan syarat yang ditentukan olehnya, meminjam apa-apa jumlah wang yang diperlukan oleh Lembaga—
+9. Lembaga boleh, dengan kelulusan Menteri dan
+
+<!-- marginal: meminjam. -->
+
+mengikut apa-apa terma dan syarat yang ditentukan olehnya, meminjam apa-apa jumlah wang yang diperlukan oleh Lembaga—
 
 (a) bagi melaksanakan fungsinya; dan
 
 (b) bagi menunaikan obligasinya.
 
-Jawatankuasa.
+<!-- marginal: Jawatankuasa. -->
 
 10. (1) Lembaga boleh melantik jawatankuasa- jawatankuasa yang difikirkan suaimanfaat olehnya—
 
@@ -456,9 +520,17 @@ yang menyentuh pendaftaran seseorang Perancang Bandar berdaftar atau Perancang B
 
 maka Lembaga hendaklah menyebabkan suatu catatan dibuat dalam Daftar dengan sewajarnya.
 
-Perlantikan
+<!-- marginal: Perlantikan -->
 
-12. (1) Menteri hendaklah melantik seorang Pendaftar dan tugas Perancang Bandar yang hendaklah berada di bawah arahan Pendaftar. dan pengawasan am Lembaga.
+12. (1) Menteri hendaklah melantik seorang Pendaftar
+
+<!-- marginal: dan tugas -->
+
+Perancang Bandar yang hendaklah berada di bawah arahan
+
+<!-- marginal: Pendaftar. -->
+
+dan pengawasan am Lembaga.
 
 (2) Pendaftar hendaklah—
 
@@ -512,11 +584,31 @@ maksud Akta Perancangan Bandar dan Desa 1976;
 
 (2) Tiada apa-apa jua yang terkandung dalam seksyen ini boleh menjejaskan hak mana-mana orang lain di bawah mana-mana undang-undang bertulis lain untuk membuat mana-mana perkara di bawah subseksyen (1).
 
-Sekatan ke
+<!-- marginal: Sekatan ke -->
 
-14. (1) Tiada seorang pun melainkan jika dia ialah atas orang seorang Perancang Bandar berdaftar— yang tak berdaftar dan Perancang
+14. (1) Tiada seorang pun melainkan jika dia ialah
 
-(a) boleh menggunakan gelaran "Perancang Bandar Bandar berdaftar" atau apa-apa gelaran dalam apa-apa Siswazah berdaftar. bahasa yang boleh semunasabahnya ditafsirkan sebagai membayangkan bahawa dia ialah seorang Perancang Bandar berdaftar;
+<!-- marginal: atas orang -->
+
+seorang Perancang Bandar berdaftar—
+
+<!-- marginal: yang tak -->
+
+<!-- marginal: berdaftar dan -->
+
+<!-- marginal: Perancang -->
+
+(a) boleh menggunakan gelaran "Perancang Bandar
+
+<!-- marginal: Bandar -->
+
+berdaftar" atau apa-apa gelaran dalam apa-apa
+
+<!-- marginal: Siswazah -->
+
+<!-- marginal: berdaftar. -->
+
+bahasa yang boleh semunasabahnya ditafsirkan sebagai membayangkan bahawa dia ialah seorang Perancang Bandar berdaftar;
 
 (b) boleh menggunakan atau mempamerkan apa- apa papan tanda, papan, kad atau alat lain yang menggambarkan atau membayangkan bahawa dia ialah seorang Perancang Bandar berdaftar; atau
 
@@ -568,13 +660,21 @@ berhak, apabila permohonan dibuat olehnya, untuk didaftarkan di bawah Seksyen A 
 
 (6) Tiada seorang pun berhak untuk didaftarkan sebagai Perancang Bandar berdaftar atau Perancang Bandar Siswazah berdaftar jika pada bila-bila masa sebelum pendaftarannya wujud apa-apa hal keadaan yang boleh menjadikan pendaftarannya batal dan tak sah di bawah seksyen 35.
 
-Permohonan
+<!-- marginal: Permohonan -->
 
-16. Sesuatu permohonan pendaftaran di bawah seksyen pendaftaran. 15 hendaklah dibuat kepada Lembaga dalam borang dan mengikut cara yang ditetapkan dan disertai fee yang ditetapkan.
+16. Sesuatu permohonan pendaftaran di bawah seksyen
 
-Perakuan
+<!-- marginal: pendaftaran. -->
 
-17. (1) Pendaftar hendaklah mengeluarkan kepada pendaftaran. seseorang pemohon yang permohonan pendaftarannya diluluskan oleh Lembaga suatu perakuan pendaftaran dalam borang yang ditetapkan setelah menerima fee yang ditetapkan.
+15 hendaklah dibuat kepada Lembaga dalam borang dan mengikut cara yang ditetapkan dan disertai fee yang ditetapkan.
+
+<!-- marginal: Perakuan -->
+
+17. (1) Pendaftar hendaklah mengeluarkan kepada
+
+<!-- marginal: pendaftaran. -->
+
+seseorang pemohon yang permohonan pendaftarannya diluluskan oleh Lembaga suatu perakuan pendaftaran dalam borang yang ditetapkan setelah menerima fee yang ditetapkan.
 
 (2) Seseorang Perancang Bandar berdaftar atau Perancang Bandar Siswazah berdaftar yang kehilangan perakuan pendaftarannya hendaklah dikeluarkan kepadanya suatu pendua bagi perakuan pendaftaran itu apabila permohonan dibuat olehnya dan fee yang ditetapkan dibayar.
 
@@ -622,13 +722,25 @@ dan fee yang ditetapkan dibayar, meluluskan pendaftaran sementara sebagai Peranc
 
 (6) Seseorang Perancang Bandar asing yang tak berpuas hati dengan keputusan Lembaga yang menolak permohonannya bagi pendaftaran sementara atau pembaharuan pendaftaran sementara boleh, dalam masa dua puluh satu hari dari diberitahu mengenai tarikh penolakan itu, merayu kepada Menteri.
 
-(7) Keputusan Menteri atas rayuan di bawah subseksyen (6) adalah muktamad dan tidak boleh dirayui.
+(7) Keputusan Menteri atas rayuan di bawah subseksyen
+
+(6) adalah muktamad dan tidak boleh dirayui.
 
 (8) Bagi maksud seksyen ini, "Perancang Bandar asing" ertinya seseorang Perancang Bandar yang bukan warganegara atau pemastautin tetap Malaysia.
 
-Pemberitahuan
+<!-- marginal: Pemberitahuan -->
 
-19. Tiap-tiap Perancang Bandar berdaftar, Perancang mengenai Bandar Siswazah berdaftar dan Perancang Bandar asing pertukaran alamat. hendaklah memberitahu Pendaftar mengenai apa-apa pertukaran alamat perniagaannya atau alamat surat- menyuratnya, mengikut mana-mana yang berkenaan, dalam masa empat belas hari dari pertukaran itu.
+19. Tiap-tiap Perancang Bandar berdaftar, Perancang
+
+<!-- marginal: mengenai -->
+
+Bandar Siswazah berdaftar dan Perancang Bandar asing
+
+<!-- marginal: pertukaran -->
+
+<!-- marginal: alamat. -->
+
+hendaklah memberitahu Pendaftar mengenai apa-apa pertukaran alamat perniagaannya atau alamat surat- menyuratnya, mengikut mana-mana yang berkenaan, dalam masa empat belas hari dari pertukaran itu.
 
 ## BAHAGIAN
 
@@ -638,11 +750,35 @@ IV
 
 ## PERTUBUHAN PERBADANAN
 
-Komposisi
+<!-- marginal: Komposisi -->
 
-20. Lembaga boleh mengeluarkan permit kepada sesuatu pertubuhan pertubuhan perbadanan untuk ia menjalankan amalan perbadanan yang boleh sebagai Perancang Bandar jika— menjalankan amalan
+20. Lembaga boleh mengeluarkan permit kepada sesuatu
 
-(a) lembaga pengarah pertubuhan perbadanan itu sebagai terdiri daripada— Perancang Bandar. (i) keseluruhannya orang perseorangan yang adalah Perancang Bandar berdaftar;
+<!-- marginal: pertubuhan -->
+
+pertubuhan perbadanan untuk ia menjalankan amalan
+
+<!-- marginal: perbadanan -->
+
+<!-- marginal: yang boleh -->
+
+sebagai Perancang Bandar jika—
+
+<!-- marginal: menjalankan -->
+
+<!-- marginal: amalan -->
+
+(a) lembaga pengarah pertubuhan perbadanan itu
+
+<!-- marginal: sebagai -->
+
+terdiri daripada—
+
+<!-- marginal: Perancang -->
+
+<!-- marginal: Bandar. -->
+
+(i) keseluruhannya orang perseorangan yang adalah Perancang Bandar berdaftar;
 
 (ii) sebilangan besarnya orang perseorangan yang adalah Perancang Bandar berdaftar, dan orang perseorangan lain yang adalah Jurutera Profesional, Juruukur Bahan, Juruukur Tanah atau Arkitek yang berdaftar di bawah mana-mana undang- undang bertulis berhubungan dengan pendaftaran profesion-profesion itu; atau
 
@@ -698,7 +834,7 @@ perbadanan untuk menjalankan amalan sebagai Perancang Bandar hendaklah dibuat ke
 
 <!-- page 22 -->
 
-Permit.
+<!-- marginal: Permit. -->
 
 23. (1) Pendaftar hendaklah mengeluarkan kepada suatu pertubuhan perbadanan jika permohonannya untuk menjalankan amalan sebagai Perancang Bandar diluluskan oleh Lembaga suatu permit dalam borang yang ditetapkan setelah menerima fee yang ditetapkan.
 
@@ -710,11 +846,29 @@ Permit.
 
 (b) boleh dibaharui secara tahunan setelah fee yang ditetapkan dibayar.
 
-Pemberitahuan
+<!-- marginal: Pemberitahuan -->
 
-24. Sesuatu pertubuhan perbadanan yang menjalankan mengenai amalan sebagai Perancang Bandar hendaklah memberitahu perubahan komposisi Lembaga— dan pertukaran
+24. Sesuatu pertubuhan perbadanan yang menjalankan
 
-(a) mengenai apa-apa perubahan dalam komposisi alamat. lembaga pengarahnya atau pemegang sahamnya dalam suatu laporan yang mengandungi butir- butir penuh mengenai perubahan itu, dalam masa tiga puluh hari dari perubahan itu; dan
+<!-- marginal: mengenai -->
+
+amalan sebagai Perancang Bandar hendaklah memberitahu
+
+<!-- marginal: perubahan -->
+
+<!-- marginal: komposisi -->
+
+Lembaga—
+
+<!-- marginal: dan -->
+
+<!-- marginal: pertukaran -->
+
+(a) mengenai apa-apa perubahan dalam komposisi
+
+<!-- marginal: alamat. -->
+
+lembaga pengarahnya atau pemegang sahamnya dalam suatu laporan yang mengandungi butir- butir penuh mengenai perubahan itu, dalam masa tiga puluh hari dari perubahan itu; dan
 
 (b) mengenai apa-apa pertukaran
 
@@ -722,9 +876,19 @@ Pemberitahuan
 
 perniagaannya, dalam masa empat belas hari dari pertukaran itu.
 
-Lembaga
+<!-- marginal: Lembaga -->
 
-25. Lembaga boleh membatalkan permit yang dikeluarkan boleh kepada suatu pertubuhan perbadanan jika Lembaga membatalkan permit. mendapati bahawa—
+25. Lembaga boleh membatalkan permit yang dikeluarkan
+
+<!-- marginal: boleh -->
+
+kepada suatu pertubuhan perbadanan jika Lembaga
+
+<!-- marginal: membatalkan -->
+
+<!-- marginal: permit. -->
+
+mendapati bahawa—
 
 (a) pertubuhan perbadanan itu atau mana-mana pengarahnya atau pemegang sahamnya telah melanggar atau tidak mematuhi atau tidak menjalankan mana-mana terma, syarat atau sekatan yang dikenakan oleh Lembaga;
 
@@ -798,9 +962,13 @@ perbuatan atau hal yang menjadi alasan aduan itu telah terhenti daripada menjadi
 
 (c) tidak ada pengarah atau pemegang saham lain, selain daripada dengan sebab dia ialah pengarah atau pemegang saham pertubuhan perbadanan itu pada tarikh material itu, yang dengan apa- apa cara terbabit atau bersangkut-paut dengan perbuatan atau hal yang menjadi alasan aduan itu.
 
-Pemberhentian
+<!-- marginal: Pemberhentian -->
 
-27. (1) Apabila Lembaga membatalkan permitnya, amalan. pertubuhan perbadanan itu hendaklah terhenti daripada menjalankan amalan sebagai Perancang Bandar.
+27. (1) Apabila Lembaga membatalkan permitnya,
+
+<!-- marginal: amalan. -->
+
+pertubuhan perbadanan itu hendaklah terhenti daripada menjalankan amalan sebagai Perancang Bandar.
 
 (2) Walau apa pun pertubuhan perbadanan itu berhak untuk mendapatkan dalam mana-mana mahkamah apa- apa fee, caj atau saraan bagi nasihat profesional atau khidmat profesional yang diberikannya jika nasihat atau khidmat itu diberikan sebelum tarikh penerimaan notis daripada Lembaga tentang pembatalan permitnya.
 
@@ -894,15 +1062,41 @@ Perancang Bandar berdaftar atau Perancang Bandar Siswazah berdaftar; dan
 
 (b) suatu Jawatankuasa Tatatertib, yang terdiri daripada lima anggota Lembaga yang bukan anggota Jawatankuasa Penyiasatan, untuk membuat siasatan mengenai sesuatu aduan yang dirujukkan kepadanya oleh Jawatankuasa Penyiasatan.
 
-Penggantungan
+<!-- marginal: Penggantungan -->
 
-32. (1) Lembaga boleh, jika difikirkan patut olehnya, pendaftaran menggantung pendaftaran seseorang Perancang Bandar sementara menanti berdaftar atau Perancang Bandar Siswazah berdaftar selama selesai suatu tempoh yang tidak melebihi enam bulan sementara penyiasatan. menanti selesai apa-apa penyiasatan oleh Jawatankuasa Penyiasatan di bawah perenggan 3 1( a ).
+32. (1) Lembaga boleh, jika difikirkan patut olehnya,
+
+<!-- marginal: pendaftaran -->
+
+menggantung pendaftaran seseorang Perancang Bandar
+
+<!-- marginal: sementara -->
+
+<!-- marginal: menanti -->
+
+berdaftar atau Perancang Bandar Siswazah berdaftar selama
+
+<!-- marginal: selesai -->
+
+suatu tempoh yang tidak melebihi enam bulan sementara
+
+<!-- marginal: penyiasatan. -->
+
+menanti selesai apa-apa penyiasatan oleh Jawatankuasa Penyiasatan di bawah perenggan 3 1( a ).
 
 (2) Dalam masa tempoh penggantungan, Perancang Bandar berdaftar atau Perancang Bandar Siswazah berdaftar itu tidak boleh menjalankan apa-apa hak atau keistimewaan yang diberikan kepadanya di bawah Akta ini.
 
-Perintah
+<!-- marginal: Perintah -->
 
-33. Jawatankuasa Tatatertib boleh memerintahkan mana- Jawatankuasa mana satu atau mana-mana kombinasi dua atau lebih Tatatertib. yang berikut:
+33. Jawatankuasa Tatatertib boleh memerintahkan mana-
+
+<!-- marginal: Jawatankuasa -->
+
+mana satu atau mana-mana kombinasi dua atau lebih
+
+<!-- marginal: Tatatertib. -->
+
+yang berikut:
 
 (a) pengeluaran suatu celaan bertulis;
 
@@ -912,11 +1106,33 @@ Perintah
 
 (d) pembatalan pendaftaran.
 
-Hal keadaan
+<!-- marginal: Hal keadaan -->
 
-34. (1) Suatu perintah di bawah seksyen 33 boleh dibuat yang terhadap seseorang Perancang Bandar berdaftar atau mengenainya Jawatankuasa Perancang Bandar Siswazah berdaftar di bawah mana- Tatatertib mana hal keadaan yang berikut: boleh membuat
+34. (1) Suatu perintah di bawah seksyen 33 boleh dibuat
 
-(a) jika dia menawarkan atau menerima suatu perintah. komisen yang pada pendapat Jawatankuasa Tatatertib ialah komisen haram;
+<!-- marginal: yang -->
+
+terhadap seseorang Perancang Bandar berdaftar atau
+
+<!-- marginal: mengenainya -->
+
+<!-- marginal: Jawatankuasa -->
+
+Perancang Bandar Siswazah berdaftar di bawah mana-
+
+<!-- marginal: Tatatertib -->
+
+mana hal keadaan yang berikut:
+
+<!-- marginal: boleh -->
+
+<!-- marginal: membuat -->
+
+(a) jika dia menawarkan atau menerima suatu
+
+<!-- marginal: perintah. -->
+
+komisen yang pada pendapat Jawatankuasa Tatatertib ialah komisen haram;
 
 <!-- page 27 -->
 
@@ -1034,13 +1250,29 @@ butir-butir lain seorang Perancang Bandar berdaftar atau Perancang Bandar Siswaz
 
 (f) yang pendaftarannya adalah batal dan tak sah di bawah seksyen 35.
 
-Pemulangan
+<!-- marginal: Pemulangan -->
 
-37. Seseorang yang namanya telah disingkirkan dari perakuan Daftar hendaklah memulangkan kepada Lembaga perakuan pendaftaran. pendaftaran yang dikeluarkan kepadanya, dalam masa empat belas hari dari dia diberitahu melalui pos berdaftar mengenai penyingkiran itu.
+37. Seseorang yang namanya telah disingkirkan dari
 
-Kemasukan
+<!-- marginal: perakuan -->
 
-38. (1) Seseorang yang namanya telah disingkirkan dari semula ke Daftar menurut kuasa suatu perintah Jawatankuasa dalam Daftar. Tatatertib hendaklah dengan seberapa segera yang praktik dimasukkan semula ke dalam Daftar jika rayuannya dibenarkan.
+Daftar hendaklah memulangkan kepada Lembaga perakuan
+
+<!-- marginal: pendaftaran. -->
+
+pendaftaran yang dikeluarkan kepadanya, dalam masa empat belas hari dari dia diberitahu melalui pos berdaftar mengenai penyingkiran itu.
+
+<!-- marginal: Kemasukan -->
+
+38. (1) Seseorang yang namanya telah disingkirkan dari
+
+<!-- marginal: semula ke -->
+
+Daftar menurut kuasa suatu perintah Jawatankuasa
+
+<!-- marginal: dalam Daftar. -->
+
+Tatatertib hendaklah dengan seberapa segera yang praktik dimasukkan semula ke dalam Daftar jika rayuannya dibenarkan.
 
 (2) Seseorang yang namanya telah disingkirkan dari Daftar kerana tidak membaharui pendaftarannya hendaklah dengan seberapa segera yang praktik dimasukkan semula ke dalam Daftar—
 
@@ -1052,19 +1284,35 @@ Kemasukan
 
 ## RAYUAN
 
-Lembaga
+<!-- marginal: Lembaga -->
 
-39. Bagi maksud Bahagian ini, maka hendaklah Rayuan. ditubuhkan suatu Lembaga Rayuan yang terdiri daripada—
+39. Bagi maksud Bahagian ini, maka hendaklah
+
+<!-- marginal: Rayuan. -->
+
+ditubuhkan suatu Lembaga Rayuan yang terdiri daripada—
 
 (a) seorang Hakim Mahkamah Tinggi atau seorang bekas Hakim Mahkamah Tinggi, sebagai Pengerusi, yang hendaklah dilantik oleh Yang di-Pertuan Agong selepas berunding dengan Ketua Hakim Negara; dan
 
 (b) dua orang lain yang dilantik oleh Yang di-Pertuan Agong.
 
-Tempoh
+<!-- marginal: Tempoh -->
 
-40. Seseorang anggota Lembaga Rayuan hendaklah— jawatan dan elaun
+40. Seseorang anggota Lembaga Rayuan hendaklah—
 
-(a) melainkan jika dia meletakkan jawatan terlebih anggota dahulu atau perlantikannya dibatalkan terlebih Lembaga Rayuan.
+<!-- marginal: jawatan dan -->
+
+<!-- marginal: elaun -->
+
+(a) melainkan jika dia meletakkan jawatan terlebih
+
+<!-- marginal: anggota -->
+
+dahulu atau perlantikannya dibatalkan terlebih
+
+<!-- marginal: Lembaga -->
+
+<!-- marginal: Rayuan. -->
 
 <!-- page 31 -->
 
@@ -1130,9 +1378,11 @@ mengenai perkara yang dirayui.
 
 ## KESALAHAN-KESALAHAN
 
-Kesalahan-
+<!-- marginal: Kesalahan- -->
 
-44. (1) Seseorang melakukan kesalahan jika dia— kesalahan.
+44. (1) Seseorang melakukan kesalahan jika dia—
+
+<!-- marginal: kesalahan. -->
 
 (a) memperolehi atau menyebabkan pemerolehan suatu perakuan pendaftaran,
 
@@ -1174,29 +1424,69 @@ suatu akuan, perakuan, permohonan atau representasi palsu atau tipuan;
 
 (b) dalam hal kesalahan yang berterusan, didenda tidak melebihi lima ratus ringgit bagi tiap-tiap hari atau sebahagian daripada sehari selama kesalahan itu berterusan selepas sabitan.
 
-Kesalahan-
+<!-- marginal: Kesalahan- -->
 
-46. Jika sesuatu kesalahan di bawah Akta ini telah kesalahan dilakukan oleh sesuatu pertubuhan perbadanan, maka oleh pertubuhan seseorang yang, pada masa kesalahan itu dilakukan, ialah perbadanan. pengarah, pengurus, setiausaha atau pegawai serupa itu bagi pertubuhan perbadanan itu atau seseorang yang berupa sebagai bertindak atas kapasiti itu hendaklah, di samping pertubuhan perbadanan itu, disifatkan telah melakukan kesalahan itu, melainkan jika dia membuktikan bahawa kesalahan itu telah dilakukan tanpa pengetahuannya atau bahawa dia telah mengambil langkah yang munasabah untuk mencegahnya daripada berlaku.
+46. Jika sesuatu kesalahan di bawah Akta ini telah
 
-Penjalanan
+<!-- marginal: kesalahan -->
 
-47. Pendakwaan bagi sesuatu kesalahan di bawah Akta pendakwaan. ini tidak boleh dimulakan atau dijalankan kecuali dengan kebenaran bertulis Pendakwaraya.
+dilakukan oleh sesuatu pertubuhan perbadanan, maka
 
-Penjalanan
+<!-- marginal: oleh -->
 
-48. Lembaga boleh melantik seorang peguambela dan prosiding peguamcara untuk memulakan dan menjalankan apa-apa sivil. prosiding sivil bagi pihaknya.
+<!-- marginal: pertubuhan -->
+
+seseorang yang, pada masa kesalahan itu dilakukan, ialah
+
+<!-- marginal: perbadanan. -->
+
+pengarah, pengurus, setiausaha atau pegawai serupa itu bagi pertubuhan perbadanan itu atau seseorang yang berupa sebagai bertindak atas kapasiti itu hendaklah, di samping pertubuhan perbadanan itu, disifatkan telah melakukan kesalahan itu, melainkan jika dia membuktikan bahawa kesalahan itu telah dilakukan tanpa pengetahuannya atau bahawa dia telah mengambil langkah yang munasabah untuk mencegahnya daripada berlaku.
+
+<!-- marginal: Penjalanan -->
+
+47. Pendakwaan bagi sesuatu kesalahan di bawah Akta
+
+<!-- marginal: pendakwaan. -->
+
+ini tidak boleh dimulakan atau dijalankan kecuali dengan kebenaran bertulis Pendakwaraya.
+
+<!-- marginal: Penjalanan -->
+
+48. Lembaga boleh melantik seorang peguambela dan
+
+<!-- marginal: prosiding -->
+
+peguamcara untuk memulakan dan menjalankan apa-apa
+
+<!-- marginal: sivil. -->
+
+prosiding sivil bagi pihaknya.
 
 ## BAHAGIAN VIII
 
 AM
 
-Perbuatan
+<!-- marginal: Perbuatan -->
 
-49. Tiada tindakan atau guaman boleh dimulakan atau atau diteruskan dalam mana-mana mahkamah terhadap— peninggalan yang
+49. Tiada tindakan atau guaman boleh dimulakan atau
 
-(a) Lembaga; dilakukan dengan
+<!-- marginal: atau -->
 
-(b) seseorang anggota Lembaga; suci hati.
+diteruskan dalam mana-mana mahkamah terhadap—
+
+<!-- marginal: peninggalan -->
+
+<!-- marginal: yang -->
+
+(a) Lembaga;
+
+<!-- marginal: dilakukan -->
+
+<!-- marginal: dengan -->
+
+(b) seseorang anggota Lembaga;
+
+<!-- marginal: suci hati. -->
 
 (c) sesuatu jawatankuasa;
 
@@ -1282,17 +1572,41 @@ daripada dilakukan oleh atau di bawah kuasa Kerajaan Persekutuan atau Kerajaan m
 
 <!-- page 36 -->
 
-Lembaga boleh 3. (1) Lembaga boleh mengundang mana-mana orang untuk mengundang menghadiri mesyuarat atau perbincangan Lembaga bagi maksud orang lain menghadiri menasihatinya tentang apa-apa perkara yang dibincangkan, tetapi mesyuarat orang itu tidak berhak untuk mengundi dalam mesyuarat atau perbincangan itu.
+<!-- marginal: Lembaga boleh -->
+
+3. (1) Lembaga boleh mengundang mana-mana orang untuk
+
+<!-- marginal: mengundang -->
+
+menghadiri mesyuarat atau perbincangan Lembaga bagi maksud
+
+<!-- marginal: orang -->
+
+<!-- marginal: lain menghadiri -->
+
+menasihatinya tentang apa-apa perkara yang dibincangkan, tetapi
+
+<!-- marginal: mesyuarat -->
+
+orang itu tidak berhak untuk mengundi dalam mesyuarat atau perbincangan itu.
 
 (2) Seseorang yang diundang di bawah subperenggan (1) hendaklah dibayar apa-apa fee yang ditentukan oleh Lembaga.
 
-Minit. 4. (I) Lembaga hendaklah menyebabkan minit kesemua mesyuaratnya disenggarakan dan disimpan dalam bentuk yang sepatutnya.
+<!-- marginal: Minit. -->
+
+4. (I) Lembaga hendaklah menyebabkan minit kesemua mesyuaratnya disenggarakan dan disimpan dalam bentuk yang sepatutnya.
 
 (2) Minit yang dibuat mengenai mesyuarat Lembaga, jika ditandatangani dengan sewajarnya, hendaklah diterima sebagai keterangan dalam segala prosiding undang-undang tanpa bukti selanjutnya.
 
 (3) Tiap-tiap mesyuarat Lembaga yang minit berkenaan dengan prosidingnya telah dibuat sedemikian hendaklah disifatkan telah dipanggil dan diadakan dengan sewajarnya dan kesemua anggota dalam mesyuarat itu layak dengan sewajarnya untuk bertindak.
 
-Penzahiran 5. (1) Seseorang anggota Lembaga yang, secara langsung atau tak kepentingan langsung, mempunyai sendiri atau melalui pekongsinya—
+<!-- marginal: Penzahiran -->
+
+5. (1) Seseorang anggota Lembaga yang, secara langsung atau tak
+
+<!-- marginal: kepentingan -->
+
+langsung, mempunyai sendiri atau melalui pekongsinya—
 
 (a) suatu kepentingan dalam sesuatu syarikat atau usaha yang dengannya Lembaga bercadang hendak membuat sesuatu kontrak; atau
 
@@ -1302,7 +1616,13 @@ hendaklah menzahirkan kepada Lembaga hakikat dan jenis kepentingannya itu.
 
 (2) Penzahiran di bawah subperenggan (1) hendaklah direkodkan dalam minit Lembaga dan, melainkan jika dibenarkan secara khusus oleh Pengerusi, anggota itu tidak boleh mengambil bahagian dalam perbincangan atau keputusan Lembaga berhubungan dengan kontrak atau perkara itu.
 
-Kesahan tindakan 6. Tiada apa-apa tindakan yang dilakukan atau prosiding yang dan prosiding. dibuat di bawah Akta ini boleh dipersoalkan atas alasan bahawa—
+<!-- marginal: Kesahan tindakan -->
+
+6. Tiada apa-apa tindakan yang dilakukan atau prosiding yang
+
+<!-- marginal: dan prosiding. -->
+
+dibuat di bawah Akta ini boleh dipersoalkan atas alasan bahawa—
 
 (a) ada suatu kekosongan dalam keanggotaan, atau ada suatu kecacatan dalam penubuhan, Lembaga;
 

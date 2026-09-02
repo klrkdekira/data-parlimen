@@ -42,17 +42,17 @@ oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di- Pertuan Agong dengan 'nas
 
 menggantikan subperenggan (1) (b) (ii) dengan yang berikut:
 
-"(ii) dalam segala hal lain, kepada anggota-anggota pertubuhan mengikut
-
-<!-- marginal: kaedah-kaedah -->
-
-pertubuhan itu, atau jika tidak ada kaedah- kaedah sedemikian, maka Pegawai Pemegang Harta atau mana-mana pegawai lain hendaklah menyediakan suatu skim bagi penggunaan aset yang lebih itu untuk kelulusan Mahkamah Tinggi;".
+"(ii) dalam segala hal lain, kepada anggota-anggota pertubuhan mengikut kaedah-kaedah pertubuhan itu, atau jika tidak ada kaedah- kaedah sedemikian, maka Pegawai Pemegang Harta atau mana-mana pegawai lain hendaklah menyediakan suatu skim bagi penggunaan aset yang lebih itu untuk kelulusan Mahkamah Tinggi;".
 
 <!-- page 2 -->
 
-Pemotongan
+<!-- marginal: Pemotongan -->
 
-3. Subseksyen 17s (4) kepada Akta ibu adalah dipotong. subseksyen 17a (4).
+3. Subseksyen 17s (4) kepada Akta ibu adalah dipotong.
+
+<!-- marginal: subseksyen -->
+
+<!-- marginal: 17a (4). -->
 
 ## HURAIAN
 

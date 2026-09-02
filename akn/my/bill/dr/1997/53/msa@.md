@@ -14,19 +14,39 @@ Suatu Akta untuk meminda Akta Perindustrian Sekuriti 1983. [ ]
 
 oleh Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
 
-Tajuk
+<!-- marginal: Tajuk -->
 
-1. (1) Akta ini bolehlah dinamakan Akta Perindustrian ringkas dan Sekuriti (Pindaan) 1997. mula berkuat kuasa.
+1. (1) Akta ini bolehlah dinamakan Akta Perindustrian
+
+<!-- marginal: ringkas dan -->
+
+Sekuriti (Pindaan) 1997.
+
+<!-- marginal: mula berkuat -->
+
+<!-- marginal: kuasa. -->
 
 (2) Akta ini hendaklah mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri, melalui pemberitahuan dalam Warta, dan Menteri boleh menetapkan tarikh yang berlainan bagi peruntukan yang berlainan dalam Akta ini.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-2. Akta Perindustrian Sekuriti 1983, yang disebut "Akta tajuk ibu" dalam Akta ini, adalah dipinda dalam tajuk panjang panjang. Akta 280. dengan memotong perkataan ", broker-broker saham".
+2. Akta Perindustrian Sekuriti 1983, yang disebut "Akta
 
-Pindaan
+<!-- marginal: tajuk -->
 
-3. Seksyen 2 Akta ibu adalah dipinda— seksyen 2.
+ibu" dalam Akta ini, adalah dipinda dalam tajuk panjang
+
+<!-- marginal: panjang. -->
+
+<!-- marginal: Akta 280. -->
+
+dengan memotong perkataan ", broker-broker saham".
+
+<!-- marginal: Pindaan -->
+
+3. Seksyen 2 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 2. -->
 
 (a) dalam subseksyen (1)—
 
@@ -78,25 +98,47 @@ Pindaan
 
 <!-- page 4 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-5. Subseksyen 14(2) Akta ibu adalah dipinda dengan seksyen 14. menggantikan perkataan "seseorang broker saham atau pemegang suatu lesen peniaga" dengan perkataan "seseorang pemegang suatu lesen peniaga atau suatu lesen pengurus kumpulan wang".
+5. Subseksyen 14(2) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 14. -->
 
-6. Subseksyen 15A(2) Akta ibu adalah dipinda dalam seksyen 15A perenggan ( c) dengan menggantikan perkataan "diisytiharkan" dengan perkataan "ditetapkan".
+menggantikan perkataan "seseorang broker saham atau pemegang suatu lesen peniaga" dengan perkataan "seseorang pemegang suatu lesen peniaga atau suatu lesen pengurus kumpulan wang".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-7. Seksyen 33 dan subseksyen 34(1) Akta ibu adalah seksyen 33 dipinda dengan memotong perkataan "atau Pendaftar" dan 34. di mana-mana jua terdapat.
+6. Subseksyen 15A(2) Akta ibu adalah dipinda dalam
 
-Pindaan
+<!-- marginal: seksyen 15A -->
 
-8. Seksyen 35 Akta ibu dan nota birai kepada seksyen seksyen 35 itu adalah dipinda dengan memotong perkataan "atau Pendaftar".
+perenggan ( c) dengan menggantikan perkataan "diisytiharkan" dengan perkataan "ditetapkan".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-9. Subseksyen 39(6) Akta ibu adalah dipinda— seksyen 39.
+7. Seksyen 33 dan subseksyen 34(1) Akta ibu adalah
+
+<!-- marginal: seksyen 33 -->
+
+dipinda dengan memotong perkataan "atau Pendaftar"
+
+<!-- marginal: dan 34. -->
+
+di mana-mana jua terdapat.
+
+<!-- marginal: Pindaan -->
+
+8. Seksyen 35 Akta ibu dan nota birai kepada seksyen
+
+<!-- marginal: seksyen 35 -->
+
+itu adalah dipinda dengan memotong perkataan "atau Pendaftar".
+
+<!-- marginal: Pindaan -->
+
+9. Subseksyen 39(6) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 39. -->
 
 (a) dengan memasukkan selepas perkataan "wakil pelaburan" perkataan "(dalam subseksyen ini disebut sebagai "orang itu")"; dan
 
@@ -104,9 +146,11 @@ Pindaan
 
 "(c) jika orang itu adalah manusia biasa yang menjalankan urusan dalam suatu perbadanan, ditandatangani oleh seorang pengarah, seorang pegawai eksekutif atau setiausaha perbadanan itu; atau".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-10. Seksyen 41 Akta ibu adalah dipinda— seksyen 41
+10. Seksyen 41 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 41 -->
 
 (a) dengan menggantikan subseksyen (1) dengan subseksyen yang berikut:
 
@@ -114,11 +158,19 @@ Pindaan
 
 <!-- page 5 -->
 
-melainkan jika, pada masa dia menjualkannya—
+melainkan jika, pada masa
+
+<!-- marginal: dia -->
+
+menjualkannya—
 
 (a) dia mempunyai atau, jika dia menjual sebagai ejen, prinsipalnya mempunyai; atau
 
-(b) dia mempercayai atas alasan-alasan yang munasabah bahawa dia mempunyai, atau jika dia menjual sebagai ejen, prinsipalnya mempunyai,
+(b) dia mempercayai atas alasan-alasan yang munasabah bahawa
+
+<!-- marginal: dia -->
+
+mempunyai, atau jika dia menjual sebagai ejen, prinsipalnya mempunyai,
 
 pada masa itu suatu hak boleh guna dan tanpa syarat untuk meletak hak sekuriti itu pada seseorang pembeli sekuriti itu."; dan
 
@@ -128,7 +180,11 @@ pada masa itu suatu hak boleh guna dan tanpa syarat untuk meletak hak sekuriti i
 
 (ii) dengan menggantikan noktah di hujung subperenggan (c)(iii) dengan noktah bertindih; dan
 
-(iii) dengan memasukkan selepas subperenggan (c)(iii) perenggan yang berikut:
+(iii) dengan memasukkan
+
+<!-- marginal: selepas -->
+
+subperenggan (c)(iii) perenggan yang berikut:
 
 "(d) penjualan sekuriti-sekuriti yang dibenarkan oleh Bank Negara Malaysia dilakukan dalam pasaran wang jangka pendek; dan
 
@@ -150,25 +206,41 @@ subseksyen 44(1A) dengan menggantikan perkataan "trading" dengan perkataan "busi
 
 <!-- page 6 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-12. Subseksyen 47c(5) Akta ibu adalah dipinda dengan seksyen 47c memasukkan selepas perkataan "daripada" perkataan ", atau menguruskan apa-apa harta dalam,".
+12. Subseksyen 47c(5) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 47c -->
 
-13. Subseksyen 49(1) Akta ibu adalah dipinda dengan seksyen 49. memotong perkataan "dan Pendaftar,".
+memasukkan selepas perkataan "daripada" perkataan ", atau menguruskan apa-apa harta dalam,".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-14. Subseksyen 50(1) Akta ibu adalah dipinda dengan seksyen 50. menggantikan perenggan (e) dan (f) dengan perenggan yang berikut:
+13. Subseksyen 49(1) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 49. -->
+
+memotong perkataan "dan Pendaftar,".
+
+<!-- marginal: Pindaan -->
+
+14. Subseksyen 50(1) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 50. -->
+
+menggantikan perenggan (e) dan (f) dengan perenggan yang berikut:
 
 "(aa) dalam hal sesuatu syarikat anggota, bursa saham dan Suruhanjaya; atau
 
 (bb) dalam mana-mana hal lain, Suruhanjaya.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-15. Tajuk Bahagian IX Akta ibu adalah dipinda dengan tajuk memasukkan selepas tajuk
+15. Tajuk Bahagian IX Akta ibu adalah dipinda dengan
+
+<!-- marginal: tajuk -->
+
+memasukkan selepas tajuk
 
 ## "PERDAGANGAN
 
@@ -180,9 +252,11 @@ SEKURITI" subtajuk yang berikut:
 
 Pelakuan Yang Dilarang".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-16. Seksyen 84 Akta ibu adalah dipinda— seksyen 84.
+16. Seksyen 84 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 84. -->
 
 (a) dalam subseksyen (1), dengan menggantikan perkataan "Seseorang itu tidak boleh mewujudkan," dengan perkataan "Tertakluk kepada seksyen 87B, tiada seorang pun boleh mewujudkan,"; dan
 
@@ -236,9 +310,11 @@ menggantikan perkataan "Seseorang" dengan perkataan "Tertakluk kepada seksyen 87
 
 <!-- page 8 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-19. Seksyen 87 Akta ibu adalah dipinda— seksyen 87.
+19. Seksyen 87 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 87. -->
 
 (a) dengan menomborkan semula seksyen itu sebagai subseksyen (1);
 
@@ -248,15 +324,57 @@ Pindaan
 
 "(2) Dalam pendakwaan terhadap suatu kesalahan di bawah perenggan (d) subseksyen (1), berhubung dengan merekodkan atau menyimpan maklumat, adalah menjadi suatu pembelaan jika pihak defendan membuktikan bahawa semasa maklumat itu direkodkan atau disimpan, dia tidak mempunyai alasan yang munasabah untuk menjangka bahawa maklumat itu boleh didapati oleh mana-mana orang.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-20. Seksyen 8 7A Akta ibu adalah dipinda dengan seksyen 87A. menggantikan perkataan "Adalah" dengan perkataan "Tertakluk kepada seksyen 87B, adalah".
+20. Seksyen 8 7A Akta ibu adalah dipinda dengan
 
-21. Akta ibu adalah dipinda dengan memasukkan selepas baru 87B seksyen 87A seksyen yang berikut:
+<!-- marginal: seksyen 87A. -->
 
-Orang 87B. Menteri boleh menetapkan, dan membuat atau peraturan-peraturan berkenaan dengan, orang, transaksi yang atau transaksi yang berhubungan dengan sekuriti, baginya atau mana-mana kelas, kategori atau perihalan
+menggantikan perkataan "Adalah" dengan perkataan "Tertakluk kepada seksyen 87B, adalah".
 
-84. 85. tertentu bagi orang, atau mana-mana kelas, 86, 87 dan 87A kategori atau perihalan tertentu bagi transaksi tidak yang berhubungan dengan sekuriti, yang bagi terpakai. orang atau transaksi itu seksyen 84, 85, 86, 87 atau 87A tidak terpakai.".
+<!-- marginal: Seksyen -->
+
+21. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 87B -->
+
+seksyen 87A seksyen yang berikut:
+
+<!-- marginal: Orang -->
+
+87B. Menteri boleh menetapkan, dan membuat
+
+<!-- marginal: atau -->
+
+peraturan-peraturan berkenaan dengan, orang,
+
+<!-- marginal: transaksi -->
+
+<!-- marginal: yang -->
+
+atau transaksi yang berhubungan dengan sekuriti,
+
+<!-- marginal: baginya -->
+
+atau mana-mana kelas, kategori atau perihalan
+
+<!-- marginal: seksyen -->
+
+84. 85. tertentu bagi orang, atau mana-mana kelas,
+
+<!-- marginal: 86, 87 -->
+
+<!-- marginal: dan 87A -->
+
+kategori atau perihalan tertentu bagi transaksi
+
+<!-- marginal: tidak -->
+
+yang berhubungan dengan sekuriti, yang bagi
+
+<!-- marginal: terpakai. -->
+
+orang atau transaksi itu seksyen 84, 85, 86, 87 atau 87A tidak terpakai.".
 
 <!-- page 9 -->
 
@@ -270,13 +388,31 @@ seksyen 88 seksyen yang berikut:
 
 <!-- marginal: dan 88n. -->
 
-".Liabiliti
+<!-- marginal: ".Liabiliti -->
 
-88A. (1) Jika seseorang melanggar seksyen 84, sivil bagi 85, 86, 87, 8?A atau 88, mana-mana orang lain pelangga- ran yang membuat transaksi bagi penjualan dan pembelian sekuriti dengan orang yang pertama
+88A. (1) Jika seseorang melanggar seksyen 84,
+
+<!-- marginal: sivil bagi -->
+
+85, 86, 87, 8?A atau 88, mana-mana orang lain
+
+<!-- marginal: pelangga- -->
+
+<!-- marginal: ran -->
+
+yang membuat transaksi bagi penjualan dan
+
+<!-- marginal: seksyen -->
+
+pembelian sekuriti dengan orang yang pertama
 
 84. 85 ,
 
-86. 87, disebut itu atau dengan seseorang yang bertindak 87A dan bagi pihak orang yang pertama disebut itu boleh,
+86. 87, disebut itu atau dengan seseorang yang bertindak
+
+<!-- marginal: 87A dan -->
+
+bagi pihak orang yang pertama disebut itu boleh,
 
 88. melalui tindakan guaman terhadap orang yang pertama disebut itu atau terhadap mana-mana orang yang bertindak bagi pihak orang yang pertama disebut itu, mendapatkan amaun kerugian yang dialami oleh orang lain itu—
 
@@ -296,17 +432,25 @@ seksyen 88 seksyen yang berikut:
 
 Penalti bagi 88B. Seseorang yang melanggar atau tidak kesalahan di mematuhi seksyen 84, 85, 86, 87, 87A atau 88 bawah Penggal 1. adalah melakukan suatu kesalahan dan apabila disabitkan boleh dikenakan denda tidak kurang daripada satu juta ringgit dan penjara selama tempoh yang tidak melebihi sepuluh tahun.".
 
-Penggal
+<!-- marginal: Penggal -->
 
-23. Akta ibu adalah dipinda dengan memasukkan selepas baru 2. seksyen 88A subtajuk yang berikut:
+23. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 2. -->
+
+seksyen 88A subtajuk yang berikut:
 
 ## "PENGGAL 2
 
 Perdagangan Dalaman" .
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-24. Akta ibu adalah dipinda dengan menggantikan seksyen 89. seksyen 89 dengan seksyen yang berikut:
+24. Akta ibu adalah dipinda dengan menggantikan
+
+<!-- marginal: seksyen 89. -->
+
+seksyen 89 dengan seksyen yang berikut:
 
 "Maklumat. 89. Bagi maksud Penggai ini, "maklumat" termasuklah—
 
@@ -344,39 +488,101 @@ seksyen 89 seksyen yang berikut:
 
 <!-- marginal: 89G. 89H, -->
 
-Maklumat
+<!-- marginal: Maklumat -->
 
 89A. (l)Bagi maksud Penggal ini, maklumat
 
 <!-- marginal: 891. 89K, -->
 
-yang boleh
+<!-- marginal: yang boleh -->
 
 <!-- marginal: 89L 89M, -->
 
-boleh didapati secara umum jika maklumat itu didapati
+boleh didapati secara umum jika maklumat itu
+
+<!-- marginal: didapati -->
 
 <!-- marginal: 89N dan 89O. -->
 
-secara diberitahu mengikut cara yang akan, atau umum. berkecenderungan untuk, menarik perhatian orang yang munasabah yang melabur dalam suatu jenis sekuriti yang harga atau nilai sekuriti itu mungkin terjejas oleh maklumat itu, dan oleh kerana maklumat itu telah diberitahu, suatu tempoh yang munasabah bagi maklumat itu disebarkan di kalangan, dan diasimilasi oleh, orang itu telah luput.
+<!-- marginal: secara -->
+
+diberitahu mengikut cara yang akan, atau
+
+<!-- marginal: umum. -->
+
+berkecenderungan untuk, menarik perhatian orang yang munasabah yang melabur dalam suatu jenis sekuriti yang harga atau nilai sekuriti itu mungkin terjejas oleh maklumat itu, dan oleh kerana maklumat itu telah diberitahu, suatu tempoh yang munasabah bagi maklumat itu disebarkan di kalangan, dan diasimilasi oleh, orang itu telah luput.
 
 (2) Maklumat yang disebut dalam subseksyen
 
 (1) termasuklah maklumat yang terdiri daripada deduksi atau kesimpulan yang dibuat daripada maklumat itu.
 
-Kesan
+<!-- marginal: Kesan -->
 
-89B. Bagi maksud Penggal ini, suatu maklumat material ke yang apabila boleh didapati secara umum akan atas harga atau nilai atau berkecenderungan mempunyai kesan sekuriti. material ke atas harga atau nilai sekuriti, merujuk kepada maklumat yang akan atau berkecenderungan untuk, apabila boleh didapati secara umum, mempengaruhi orang yang munasabah yang melabur dalam sekuriti pada memutuskan sama ada atau tidak untuk memperoleh atau melupuskan sekuriti itu, atau membuat suatu perjanjian dengan tujuan memperoleh atau melupuskan sekuriti itu.
+89B. Bagi maksud Penggal ini, suatu maklumat
+
+<!-- marginal: material ke -->
+
+yang apabila boleh didapati secara umum akan
+
+<!-- marginal: atas harga -->
+
+<!-- marginal: atau nilai -->
+
+atau berkecenderungan mempunyai kesan
+
+<!-- marginal: sekuriti. -->
+
+material ke atas harga atau nilai sekuriti, merujuk kepada maklumat yang akan atau berkecenderungan untuk, apabila boleh didapati secara umum, mempengaruhi orang yang munasabah yang melabur dalam sekuriti pada memutuskan sama ada atau tidak untuk memperoleh atau melupuskan sekuriti itu, atau membuat suatu perjanjian dengan tujuan memperoleh atau melupuskan sekuriti itu.
 
 <!-- page 12 -->
 
-Berdagang 89c. Bagi maksud Penggal ini, berdagang sekuriti. sekuriti yang lazimnya dibenarkan di pasaran saham sesuatu bursa saham hendaklah dianggap dibenarkan di pasaran saham itu walaupun perdagangan mana-mana sekuriti di pasaran saham itu digantung.
+<!-- marginal: Berdagang -->
 
-Sebutan 89D. Bagi maksud Penggal ini dan seksyen 90A mengenai tetapi tanpa mengehadkan pengertian istilah "mengusaha- kan". "mengusahakan" sebagaimana yang diperuntukkan dalam seksyen ini, jika seseorang menghasut, mendorong, menggalakkan atau mengarahkan seorang lain berkenaan dengan suatu perbuatan atau peninggalan, maka orang yang pertama disebut itu dianggap mengusahakan perbuatan atau peninggalan orang lain itu.
+89c. Bagi maksud Penggal ini, berdagang
 
-Pelakuan 89E. (1) Seseorang ialah seorang "orang yang dalam" jika orang itu— dilarang ke atas orang yang
+<!-- marginal: sekuriti. -->
 
-(a) mempunyai maklumat yang tidak boleh mempunyai didapati secara umum yang apabila boleh maklumat dalaman. didapati secara umum, seseorang yang munasabah akan menjangka maklumat itu mempunyai kesan material ke atas harga atau nilai sekuriti itu; dan
+sekuriti yang lazimnya dibenarkan di pasaran saham sesuatu bursa saham hendaklah dianggap dibenarkan di pasaran saham itu walaupun perdagangan mana-mana sekuriti di pasaran saham itu digantung.
+
+<!-- marginal: Sebutan -->
+
+89D. Bagi maksud Penggal ini dan seksyen 90A
+
+<!-- marginal: mengenai -->
+
+tetapi tanpa mengehadkan pengertian istilah
+
+<!-- marginal: "mengusaha- -->
+
+<!-- marginal: kan". -->
+
+"mengusahakan" sebagaimana yang diperuntukkan dalam seksyen ini, jika seseorang menghasut, mendorong, menggalakkan atau mengarahkan seorang lain berkenaan dengan suatu perbuatan atau peninggalan, maka orang yang pertama disebut itu dianggap mengusahakan perbuatan atau peninggalan orang lain itu.
+
+<!-- marginal: Pelakuan -->
+
+89E. (1) Seseorang ialah seorang "orang
+
+<!-- marginal: yang -->
+
+dalam" jika orang itu—
+
+<!-- marginal: dilarang -->
+
+<!-- marginal: ke atas -->
+
+<!-- marginal: orang yang -->
+
+(a) mempunyai maklumat yang tidak boleh
+
+<!-- marginal: mempunyai -->
+
+didapati secara umum yang apabila boleh
+
+<!-- marginal: maklumat -->
+
+<!-- marginal: dalaman. -->
+
+didapati secara umum, seseorang yang munasabah akan menjangka maklumat itu mempunyai kesan material ke atas harga atau nilai sekuriti itu; dan
 
 (b) mengetahui atau semunasabahnya patut mengetahui bahawa maklumat itu tidak boleh didapati secara umum.
 
@@ -400,9 +606,35 @@ Pelakuan 89E. (1) Seseorang ialah seorang "orang yang dalam" jika orang itu— d
 
 <!-- page 14 -->
 
-Bukti 89F. Dalam pendakwaan bagi suatu kesalahan pelanggaran di bawah subseksyen (2) atau (3) seksyen 89E, seksyen 89E. tidaklah perlu bagi pihak pendakwa untuk membuktikan ketakwujudan fakta atau hal keadaan yang jika fakta atau hal keadaan itu wujud akan, menurut seksyen 89C, 89H, 89I, 89J, 89K, 89L, 89M, 89N atau 89o, atau mana- mana peraturan yang dibuat di bawah subseksyen (5) seksyen 89F, menghalang perbuatan itu daripada melanggar subseksyen (2) atau (3) seksyen 89E, mengikut mana-mana yang berkenaan.
+<!-- marginal: Bukti -->
 
-Perkiraan 89G. (1) Bagi maksud Penggal ini, sesuatu penyim- perbadanan disifatkan mempunyai apa-apa panan rahsia oleh maklumat— perbadanan.
+89F. Dalam pendakwaan bagi suatu kesalahan
+
+<!-- marginal: pelanggaran -->
+
+di bawah subseksyen (2) atau (3) seksyen 89E,
+
+<!-- marginal: seksyen 89E. -->
+
+tidaklah perlu bagi pihak pendakwa untuk membuktikan ketakwujudan fakta atau hal keadaan yang jika fakta atau hal keadaan itu wujud akan, menurut seksyen 89C, 89H, 89I, 89J, 89K, 89L, 89M, 89N atau 89o, atau mana- mana peraturan yang dibuat di bawah subseksyen
+
+(5) seksyen 89F, menghalang perbuatan itu daripada melanggar subseksyen (2) atau (3) seksyen 89E, mengikut mana-mana yang berkenaan.
+
+<!-- marginal: Perkiraan -->
+
+89G. (1) Bagi maksud Penggal ini, sesuatu
+
+<!-- marginal: penyim- -->
+
+perbadanan disifatkan mempunyai apa-apa
+
+<!-- marginal: panan -->
+
+<!-- marginal: rahsia oleh -->
+
+maklumat—
+
+<!-- marginal: perbadanan. -->
 
 (a) yang seseorang pegawai perbadanan—
 
@@ -444,7 +676,21 @@ semata-mata disebabkan maklumat itu dipunyai oleh perbadanan itu jika—
 
 dalam keputusan untuk membuat, atau terlibat dalam, transaksi atau perjanjian itu atau tidak terlibat dalam transaksi atau perjanjian itu.
 
-Perjanjian 89H.(1) Bagi maksud Penggal ini, seseorang penyim- pekongsi sesuatu perkongsian disifatkan panan rahsia oleh mempunyai apa-apa maklumat— perkongsian.
+<!-- marginal: Perjanjian -->
+
+89H.(1) Bagi maksud Penggal ini, seseorang
+
+<!-- marginal: penyim- -->
+
+pekongsi sesuatu perkongsian disifatkan
+
+<!-- marginal: panan -->
+
+<!-- marginal: rahsia oleh -->
+
+mempunyai apa-apa maklumat—
+
+<!-- marginal: perkongsian. -->
 
 (a) yang dipunyai oleh seorang pekongsi lain dan yang sampai ke pengetahuan pekongsi yang satu lagi itu atas sifatnya sebagai seorang pekongsi perkongsian itu;
 
@@ -460,7 +706,9 @@ Perjanjian 89H.(1) Bagi maksud Penggal ini, seseorang penyim- pekongsi sesuatu p
 
 dengan sebenarnya mempunyai maklumat pada masa itu jika—
 
-(a) keputusan untuk membuat transaksi atau perjanjian itu dibuat bagi pihak perkongsian itu oleh mana-mana satu orang atau lebih daripada orang yang berikut: (i) seseorang pekongsi yang dianggap mempunyai maklumat itu semata- mata sebab seseorang pekongsi lain, atau seseorang pekerja perkongsian itu, mempunyai maklumat itu; atau
+(a) keputusan untuk membuat transaksi atau perjanjian itu dibuat bagi pihak perkongsian itu oleh mana-mana satu orang atau lebih daripada orang yang berikut:
+
+(i) seseorang pekongsi yang dianggap mempunyai maklumat itu semata- mata sebab seseorang pekongsi lain, atau seseorang pekerja perkongsian itu, mempunyai maklumat itu; atau
 
 (ii) seseorang pekerja perkongsian itu yang tidak mempunyai maklumat itu; dan
 
@@ -478,9 +726,17 @@ dengan sebenarnya mempunyai maklumat pada masa itu jika—
 
 (2) Seseorang pekongsi sesuatu perkongsian tidak melanggar subseksyen (2) seksyen 89e dengan membuat transaksi atau perjanjian yang disebut dalam subseksyen itu selain bagi pihak perkongsian itu semata-mata sebab pekongsi itu dianggap mempunyai maklumat yang dipunyai oleh pekongsi atau pekerja lain perkongsian itu.
 
-Pengun-
+<!-- marginal: Pengun- -->
 
-89I. (1) Subseksyen (2) seksyen 89e tidaklah deraitan terpakai berkenaan dengan— dan subpeng- underaitan.
+89I. (1) Subseksyen (2) seksyen 89e tidaklah
+
+<!-- marginal: deraitan -->
+
+terpakai berkenaan dengan—
+
+<!-- marginal: dan subpeng- -->
+
+<!-- marginal: underaitan. -->
 
 (a) pembuatan suatu perjanjian pengun- deraitan atau suatu perjanjian sub- pengunderaitan; atau
 
@@ -494,11 +750,73 @@ Pengun-
 
 <!-- page 20 -->
 
-### Ketakpakaian
+<!-- marginal: Ketakpakaian -->
 
-89J. Seksyen 89E tidaklah terpakai bagi suatu seksyen 89E pemerolehan atau pelupusan sekuriti atau bagi transaksi yang di- penyampaian maklumat yang dijalankan di jalankan di bawah mana-mana undang-undang bertulis lain bawah skim perkiraan, yang berhubungan dengan skim perkiraan, dsb. di pembentukan semula dan pengambilalihan bawah berhubungan dengan perbadanan. mana-mana undang- undang beriulis. Kecualian
+89J. Seksyen 89E tidaklah terpakai bagi suatu
 
-89K. (1) Sesuatu perbadanan tidak melanggar bagi subseksyen (2) seksyen 89E dengan membuat perbadanan sesuatu transaksi atau perjanjian berhubungan yang mempunyai dengan sekuriti selain sekuriti perbadanan itu pengelahuan semata-mata sebab perbadanan itu menyedari tenlang niatnya. bahawa perbadanan itu bercadang untuk membuat, atau dahulunya telah membuat, satu atau lebih transaksi atau perjanjian berhubungan dengan sekuriti itu.
+<!-- marginal: seksyen 89E -->
+
+pemerolehan atau pelupusan sekuriti atau
+
+<!-- marginal: bagi transaksi -->
+
+<!-- marginal: yang di- -->
+
+penyampaian maklumat yang dijalankan di
+
+<!-- marginal: jalankan di -->
+
+bawah mana-mana undang-undang bertulis lain
+
+<!-- marginal: bawah skim -->
+
+<!-- marginal: perkiraan, -->
+
+yang berhubungan dengan skim perkiraan,
+
+<!-- marginal: dsb. di -->
+
+pembentukan semula dan pengambilalihan
+
+<!-- marginal: bawah -->
+
+berhubungan dengan perbadanan.
+
+<!-- marginal: mana-mana -->
+
+<!-- marginal: undang- -->
+
+<!-- marginal: undang -->
+
+<!-- marginal: beriulis. -->
+
+<!-- marginal: Kecualian -->
+
+89K. (1) Sesuatu perbadanan tidak melanggar
+
+<!-- marginal: bagi -->
+
+subseksyen (2) seksyen 89E dengan membuat
+
+<!-- marginal: perbadanan -->
+
+sesuatu transaksi atau perjanjian berhubungan
+
+<!-- marginal: yang -->
+
+<!-- marginal: mempunyai -->
+
+dengan sekuriti selain sekuriti perbadanan itu
+
+<!-- marginal: pengelahuan -->
+
+semata-mata sebab perbadanan itu menyedari
+
+<!-- marginal: tenlang -->
+
+<!-- marginal: niatnya. -->
+
+bahawa perbadanan itu bercadang untuk membuat, atau dahulunya telah membuat, satu atau lebih transaksi atau perjanjian berhubungan dengan sekuriti itu.
 
 (2) Tertakluk kepada subseksyen (3), sesuatu perbadanan tidak melanggar subseksyen (2) seksyen 89E dengan membuat sesuatu transaksi atau perjanjian berhubungan dengan sekuriti selain sekuriti perbadanan itu sebab seseorang pegawai perbadanan itu menyedari bahawa perbadanan itu bercadang untuk membuat, atau telah dahulunya membuat, satu atau lebih transaksi atau perjanjian berhubungan dengan sekuriti itu.
 
@@ -510,13 +828,55 @@ Pengun-
 
 (5) Subseksyen (4) tidaklah terpakai melainkan jika orang itu menyedari tentang perkara yang disebut dalam perjalanan tugasnya sebagai seorang pegawai perbadanan yang pertama disebut itu atau dalam perjalanan dia bertindak sebagai seorang ejen perbadanan yang pertama disebut itu.
 
-Kecualian
+<!-- marginal: Kecualian -->
 
-89L. Seseorang individu tidak melanggar bagi subseksyen (2) seksyen 89E dengan membuat pengetahuan sesuatu transaksi atau perjanjian berhubungan tentang mat atau dengan sekuriti semata-mata sebab dia menyedari akliviti bahawa dia bercadang untuk membuat, atau telah individu itu sendiri. dahulunya membuat, satu atau lebih transaksi atau perjanjian berhubungan dengan sekuriti itu.
+89L. Seseorang individu tidak melanggar
 
-Transaksi
+<!-- marginal: bagi -->
 
-89M. (1) Seseorang peniaga atau wakil peniaga yang tak tidak melanggar subseksyen (2) seksyen 89E disolisit oleh dengan membuat sesuatu transaksi atau perjanjian seseorang sebagai seorang ejen bgi seorang lain, yang broker berupa transaksi atau perjanjian yang dibuat di pasaran saham sesuatu bursa saham mengenai sekuriti yang disebut harga bagi perdagangan di pasaran saham bursa saham itu jika—
+subseksyen (2) seksyen 89E dengan membuat
+
+<!-- marginal: pengetahuan -->
+
+sesuatu transaksi atau perjanjian berhubungan
+
+<!-- marginal: tentang -->
+
+<!-- marginal: mat atau -->
+
+dengan sekuriti semata-mata sebab dia menyedari
+
+<!-- marginal: akliviti -->
+
+bahawa dia bercadang untuk membuat, atau telah
+
+<!-- marginal: individu itu -->
+
+<!-- marginal: sendiri. -->
+
+dahulunya membuat, satu atau lebih transaksi atau perjanjian berhubungan dengan sekuriti itu.
+
+<!-- marginal: Transaksi -->
+
+89M. (1) Seseorang peniaga atau wakil peniaga
+
+<!-- marginal: yang tak -->
+
+tidak melanggar subseksyen (2) seksyen 89E
+
+<!-- marginal: disolisit -->
+
+<!-- marginal: oleh -->
+
+dengan membuat sesuatu transaksi atau perjanjian
+
+<!-- marginal: seseorang -->
+
+sebagai seorang ejen bgi seorang lain, yang
+
+<!-- marginal: broker -->
+
+berupa transaksi atau perjanjian yang dibuat di pasaran saham sesuatu bursa saham mengenai sekuriti yang disebut harga bagi perdagangan di pasaran saham bursa saham itu jika—
 
 (a) transaksi atau perjanjian itu dibuat di bawah suatu arahan khusus oleh orang lain yang tidak disolisit oleh peniaga atau wakil peniaga itu;
 
@@ -528,13 +888,39 @@ Transaksi
 
 <!-- page 22 -->
 
-Kecuali bagi
+<!-- marginal: Kecuali bagi -->
 
-89N. Subseksyen (2) seksyen 89E tidaklah penebusan terpakai berkenaan dengan penebusan oleh u n il sesuatu skim amanah seseorang pemegang amanah di bawah suatu saham di surat ikatan amanah berhubungan dengan skim bawah waad belian balik amanah saham mengikut waad belian balik yang terkandung atau disifatkan terkandung dalam surat ikatan amanah pada harga yang dikehendaki oleh surat ikatan amanah itu dikira, setakat yang semunasabahnya praktik, melalui rujukan kepada nilai asas aset itu, ditolak apa-apa liabiliti skim amanah saham yang dimaksudkan oleh unit skim amanah saham itu, dan ditolak apa-apa caj munasabah bagi membeli unit-unit skim amanah saham atau kepentingan.
+89N. Subseksyen (2) seksyen 89E tidaklah
 
-Pembelaan
+<!-- marginal: penebusan -->
 
-89O. (1) Seseorang tidak melanggar persamaan subseksyen (2) seksyen 89E jika— maklumat.
+terpakai berkenaan dengan penebusan oleh
+
+<!-- marginal: u n il sesuatu -->
+
+<!-- marginal: skim amanah -->
+
+seseorang pemegang amanah di bawah suatu
+
+<!-- marginal: saham di -->
+
+surat ikatan amanah berhubungan dengan skim
+
+<!-- marginal: bawah waad -->
+
+<!-- marginal: belian balik -->
+
+amanah saham mengikut waad belian balik yang terkandung atau disifatkan terkandung dalam surat ikatan amanah pada harga yang dikehendaki oleh surat ikatan amanah itu dikira, setakat yang semunasabahnya praktik, melalui rujukan kepada nilai asas aset itu, ditolak apa-apa liabiliti skim amanah saham yang dimaksudkan oleh unit skim amanah saham itu, dan ditolak apa-apa caj munasabah bagi membeli unit-unit skim amanah saham atau kepentingan.
+
+<!-- marginal: Pembelaan -->
+
+89O. (1) Seseorang tidak melanggar
+
+<!-- marginal: persamaan -->
+
+subseksyen (2) seksyen 89E jika—
+
+<!-- marginal: maklumat. -->
 
 (a) sekuriti yang merupakan subjek transaksi atau perjanjian itu atau tindakan mengusahakan pembuatan sesuatu transaksi atau perjanjian bukannya sekuriti yang dibenarkan di pasaran saham sesuatu bursa saham;
 
@@ -558,23 +944,31 @@ tidak disedari dalam harga atau nilai sekuriti itu, mengikut mana- mana yang ber
 
 <!-- page 24 -->
 
-Penggal
+<!-- marginal: Penggal -->
 
-26. Akta ibu adalah dipinda dengan memasukkan selepas baru 3. seksyen 89o subtajuk yang berikut:
+26. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 3. -->
+
+seksyen 89o subtajuk yang berikut:
 
 ## " PENGGAL 3
 
 Liability Bagi Aktiviti Yang Tak Sah Di Sisi Undang-Undang ".
 
-Pengganlian
+<!-- marginal: Pengganlian -->
 
-27. Akta ibu adalah dipinda dengan menggantikan seksyen 90. seksyen 90 dengan seksyen yang berikut:
+27. Akta ibu adalah dipinda dengan menggantikan
 
-Remedi
+<!-- marginal: seksyen 90. -->
+
+seksyen 90 dengan seksyen yang berikut:
+
+<!-- marginal: Remedi -->
 
 90. (1) Jika Suruhanjaya mendapati bahawa
 
-### sivil.
+<!-- marginal: sivil. -->
 
 mana-mana orang telah melanggar seksyen 84, 85, 86, 87, 87A, 88 atau 89E, maka Suruhanjaya boleh memulakan presiding guaman dalam Mahkamah terhadap orang itu, sama ada atau tidak orang itu telah dipertuduh atas suatu kesalahan berkenaan dengan pelanggaran itu, atau sama ada atau tidak suatu pelanggaran telah dibuktikan dalam suatu pendakwaan.
 
@@ -586,9 +980,35 @@ mana-mana orang telah melanggar seksyen 84, 85, 86, 87, 87A, 88 atau 89E, maka S
 
 mengikut mana-mana yang terkemudian.".
 
-28. Akta ibu adalah dipinda dengan memasukkan selepas baru 90A. seksyen 90 seksyen yang berikut:
+<!-- marginal: Seksyen -->
 
-Menclapal- 90A. (1) Seseorang yang mengalami kan kehilangan atau kerugian disebabkan oleh, atau amaun kerugian kerana bergantung pada, pelakuan orang lain atau ganti yang telah melanggar seksyen 89e, boleh rugi. mendapatkan amaun kerugian atau gantirugi itu dengan memulakan presiding guaman terhadap orang lain itu, sama ada atau tidak orang lain itu telah dipertuduh atas suatu kesalahan berkenaan dengan pelanggaan itu, atau sama ada atau tidak suatu pelanggaran telah dibuktikan dalam suatu pendakwaan.
+28. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 90A. -->
+
+seksyen 90 seksyen yang berikut:
+
+<!-- marginal: Menclapal- -->
+
+90A. (1) Seseorang yang mengalami
+
+<!-- marginal: kan -->
+
+kehilangan atau kerugian disebabkan oleh, atau
+
+<!-- marginal: amaun -->
+
+<!-- marginal: kerugian -->
+
+kerana bergantung pada, pelakuan orang lain
+
+<!-- marginal: atau ganti -->
+
+yang telah melanggar seksyen 89e, boleh
+
+<!-- marginal: rugi. -->
+
+mendapatkan amaun kerugian atau gantirugi itu dengan memulakan presiding guaman terhadap orang lain itu, sama ada atau tidak orang lain itu telah dipertuduh atas suatu kesalahan berkenaan dengan pelanggaan itu, atau sama ada atau tidak suatu pelanggaran telah dibuktikan dalam suatu pendakwaan.
 
 <!-- page 25 -->
 
@@ -654,11 +1074,7 @@ atau pembuatan perjanjian itu, mengikut mana-mana yang berkenaan, sekiranya makl
 
 (5) atau (6) tidak diagihkan mengikut subseksyen
 
-(7), amaun itu hendaklah dibayar ke dalam tabung pampasan yang disenggara di bawah
-
-## Bahagian VIII atau disimpan oleh Suruhanjaya
-
-untuk membiayai kos mengawal selia perdagangan pasaran, sebagaimana yang ditentukan oleh Suruhanjaya, dengan kelulusan Menteri.
+(7), amaun itu hendaklah dibayar ke dalam tabung pampasan yang disenggara di bawah Bahagian VIII atau disimpan oleh Suruhanjaya untuk membiayai kos mengawal selia perdagangan pasaran, sebagaimana yang ditentukan oleh Suruhanjaya, dengan kelulusan Menteri.
 
 (10) Apa-apa hak tindakan yang dipunyai oleh seseorang di bawah seksyen ini adalah sebagai tambahan kepada apa-apa hak yang dipunyai oleh mana-mana orang lain di bawah mana- mana undang-undang bertulis lain.".
 
@@ -682,9 +1098,11 @@ untuk membiayai kos mengawal selia perdagangan pasaran, sebagaimana yang ditentu
 
 <!-- page 30 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-31. Seksyen 95 Akta ibu adalah dipinda— seksyen 95.
+31. Seksyen 95 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 95. -->
 
 (a) dalam nota birai, dengan menggantikan perkataan "Pesuruhjaya" dengan perkataan "Suruhanjaya";
 
@@ -692,25 +1110,37 @@ Pindaan
 
 (c) dalam teks bahasa Inggeris—
 
-(i) dalam subseksyen (1), dengan menggantikan perkataan "Registrar" dan "he" di mana-mana jua terdapat masing- masing dengan perkataan "Commission" dan "it"; dan
+(i) dalam subseksyen (1),
+
+<!-- marginal: dengan -->
+
+menggantikan perkataan "Registrar" dan "he" di mana-mana jua terdapat masing- masing dengan perkataan "Commission" dan "it"; dan
 
 (ii) dalam subseksyen (5), (6) dan (8), dengan menggantikan perkataan "Registrar" di mana-mana jua terdapat dengan perkataan "Suruhanjaya".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-32. Subseksyen 95A(1) Akta ibu adalah dipinda— seksyen 95A.
+32. Subseksyen 95A(1) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 95A. -->
 
 (a) dengan memotong perkataan "atau Pendaftar" di mana-mana jua terdapat perkataan itu; dan
 
 (b) dengan memotong perkataan "mengikut mana- mana yang berkenaan,".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-33. Subseksyen 96(3) Akta ibu adalah dipinda dengan seksyen 96. memotong perkataan "di bawah seksyen 94A, atau Pendaftar atau seorang lain dalam menjalankan apa-apa kuasa".
+33. Subseksyen 96(3) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 96. -->
 
-34. Seksyen 97 Akta ibu adalah dipinda— seksyen 97.
+memotong perkataan "di bawah seksyen 94A, atau Pendaftar atau seorang lain dalam menjalankan apa-apa kuasa".
+
+<!-- marginal: Pindaan -->
+
+34. Seksyen 97 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 97. -->
 
 (a) dalam teks bahasa kebangsaan, dalam subseksyen (1) dan (3), dengan menggantikan perkataan "Pendaftar" di mana-mana jua terdapat dengan perkataan "Suruhanjaya"; dan
 
@@ -762,9 +1192,19 @@ arahan yang diberikan kepada orang yang pertama disebut itu berkenaan dengan pem
 
 seksyen 99 dengan seksyen yang berikut:
 
-Penyia-
+<!-- marginal: Penyia- -->
 
-99. Jika Suruhanjaya mempunyai sebab untuk satan mengesyaki bahawa seseorang telah melakukan perkara terlentu. suatu kesalahan di bawah Akta ini atau telah melakukan kesalahan fraud atau suatu kesalahan di bawah mana-mana undang-undang bertulis lain yang berhubungan dengan perniagaan sekuriti, pengurusan kumpulan wang atau nasihat pelaburan, maka Suruhanjaya boleh membuat apa-apa penyiasatan yang difikirkan suai manfaat oleh Suruhanjaya bagi pentadbiran yang wajar Akta ini.".
+99. Jika Suruhanjaya mempunyai sebab untuk
+
+<!-- marginal: satan -->
+
+mengesyaki bahawa seseorang telah melakukan
+
+<!-- marginal: perkara -->
+
+<!-- marginal: terlentu. -->
+
+suatu kesalahan di bawah Akta ini atau telah melakukan kesalahan fraud atau suatu kesalahan di bawah mana-mana undang-undang bertulis lain yang berhubungan dengan perniagaan sekuriti, pengurusan kumpulan wang atau nasihat pelaburan, maka Suruhanjaya boleh membuat apa-apa penyiasatan yang difikirkan suai manfaat oleh Suruhanjaya bagi pentadbiran yang wajar Akta ini.".
 
 <!-- marginal: Seksyen baru -->
 
@@ -776,9 +1216,29 @@ seksyen 99 seksyen yang berikut:
 
 <!-- marginal: 99C dan 99D. -->
 
-Penzahiran
+<!-- marginal: Penzahiran -->
 
-99A. (1) Suruhanjaya boleh menghendaki maklumat seseorang menzahirkan kepada Suruhanjaya, ber- hubungan berhubungan dengan apa-apa perniagaan sekuriti, dengan sama ada atau tidak perniagaan itu dijalankan berniaga bagi pihak orang lain— sekuriti.
+99A. (1) Suruhanjaya boleh menghendaki
+
+<!-- marginal: maklumat -->
+
+seseorang menzahirkan kepada Suruhanjaya,
+
+<!-- marginal: ber- -->
+
+<!-- marginal: hubungan -->
+
+berhubungan dengan apa-apa perniagaan sekuriti,
+
+<!-- marginal: dengan -->
+
+sama ada atau tidak perniagaan itu dijalankan
+
+<!-- marginal: berniaga -->
+
+bagi pihak orang lain—
+
+<!-- marginal: sekuriti. -->
 
 (a) mana dan butir-butir yang mencukupi untuk mengenalpasti orang yang daripadanya, melaluinya atau yang bagi pihaknya sekuriti itu diniagakan;
 
@@ -796,9 +1256,49 @@ Penzahiran
 
 (2) Seseorang yang enggan atau tidak mematuhi kehendak Suruhanjaya di bawah subseksyen (1) melakukan suatu kesalahan dan apabila disabitkan boleh dikenakan denda yang tidak melebihi satu juta ringgit atau penjara selama tempoh yang tidak melebihi sepuluh tahun atau kedua-duanya.
 
-Kewajipan 99B. (1) Melainkan jika dikecualikan oleh ketua Suruhanjaya secara bertulis, seseorang yang— eksekutif dan pengarah
+<!-- marginal: Kewajipan -->
 
-(a) pada tarikh mula berkuat kuasanya perbadanan peruntukan ini, ialah ketua eksekutif atau yang disenaraikan pengarah suatu perbadanan yang untuk disenaraikan, dan kemudiannya menzahirkan kepentingan mempunyai kepentingan dalam sekuriti dalam perbadanan yang disenaraikan itu atau sekuriti. mana-mana perbadanan yang bersekutu dengan perbadanan yang disenaraikan itu; atau
+99B. (1) Melainkan jika dikecualikan oleh
+
+<!-- marginal: ketua -->
+
+Suruhanjaya secara bertulis, seseorang yang—
+
+<!-- marginal: eksekutif -->
+
+<!-- marginal: dan -->
+
+<!-- marginal: pengarah -->
+
+(a) pada tarikh mula berkuat kuasanya
+
+<!-- marginal: perbadanan -->
+
+peruntukan ini, ialah ketua eksekutif atau
+
+<!-- marginal: yang -->
+
+<!-- marginal: disenaraikan -->
+
+pengarah suatu perbadanan yang
+
+<!-- marginal: untuk -->
+
+disenaraikan, dan kemudiannya
+
+<!-- marginal: menzahirkan -->
+
+<!-- marginal: kepentingan -->
+
+mempunyai kepentingan dalam sekuriti
+
+<!-- marginal: dalam -->
+
+perbadanan yang disenaraikan itu atau
+
+<!-- marginal: sekuriti. -->
+
+mana-mana perbadanan yang bersekutu dengan perbadanan yang disenaraikan itu; atau
 
 (b) selepas tarikh mula berkuat kuasanya peruntukan ini, menjadi ketua eksekutif atau pengarah suatu perbadanan yang disenaraikan dan pada masa itu mempunyai kepentingan dalam sekuriti perbadanan yang disenaraikan itu atau mana-mana perbadanan yang bersekutu dengan perbadanan yang disenaraikan itu,
 
@@ -836,11 +1336,35 @@ adalah melakukan suatu kesalahan dan apabila disabitkan boleh dikenakan denda ya
 
 (5) Bagi maksud seksyen i n i, "ketua eksekutif dan "pengarah" termasuklah suami atau isteri, anak atau ibu bapa ketua eksekutif atau pengarah itu.
 
-Kehilangan 99c. (1) Seseorang— kelayakan ketuu
+<!-- marginal: Kehilangan -->
 
-(a) yang baginya subseksyen (1) seksyen 130 eksekutif Akta Syarikat 1965 terpakai; dan atau pengarah
+99c. (1) Seseorang—
 
-(b) yang berhasrat untuk memohon kebenaran syankat yang disenaraikan. daripada Mahkamah Tinggi untuk Akta 125. menjadi pengarah atau penganjur suatu perbadanan yang disenaraikan, atau secara
+<!-- marginal: kelayakan -->
+
+<!-- marginal: ketuu -->
+
+(a) yang baginya subseksyen (1) seksyen 130
+
+<!-- marginal: eksekutif -->
+
+Akta Syarikat 1965 terpakai; dan
+
+<!-- marginal: atau -->
+
+<!-- marginal: pengarah -->
+
+(b) yang berhasrat untuk memohon kebenaran
+
+<!-- marginal: syankat yang -->
+
+<!-- marginal: disenaraikan. -->
+
+daripada Mahkamah Tinggi untuk
+
+<!-- marginal: Akta 125. -->
+
+menjadi pengarah atau penganjur suatu perbadanan yang disenaraikan, atau secara
 
 <!-- page 37 -->
 
@@ -854,7 +1378,11 @@ hendaklah memberikan kepada Suruhanjaya notis yang tidak kurang daripada empat b
 
 (b) memohon kepada Mahkamah Tinggi untuk tidak membenarkan orang itu menjadi pengarah atau penaja suatu perbadanan yang disenaraikan, atau secara langsung atau tak langsung mempunyai perkaitan atau untuk mengambil bahagian, atau melibatkan diri, dalam pengurusan syarikat yang disenaraikan itu, untuk apa- apa tempoh yang lebih lama yang melebihi lima tahun sebagaimana yang difikirkan patut oleh Mahkamah Tinggi.
 
-(3) Walau apa pun subseksyen (1) seksyen Akta 125. 130 Akta Syarikat 1965, jika Suruhanjaya mendapati bahawa oleh sebab mana-mana ketua eksekutif atau pengarah sesuatu syarikat yang disenaraikan—
+(3) Walau apa pun subseksyen (1) seksyen
+
+<!-- marginal: Akta 125. -->
+
+130 Akta Syarikat 1965, jika Suruhanjaya mendapati bahawa oleh sebab mana-mana ketua eksekutif atau pengarah sesuatu syarikat yang disenaraikan—
 
 (a) telah disabitkan atas suatu kesalahan di bawah suatu undang-undang sekuriti; atau
 
@@ -892,7 +1420,17 @@ maka Mahkamah Tinggi boleh membuat suatu perintah bahawa ketua eksekutif atau pe
 
 lain dalam syarikat yang disenaraikan itu atau dalam apa-apa cara, sama ada secara langsung atau tak langsung, mempunyai perkaitan, atau mengambil bahagian, atau melibatkan diri, dalam apa-apa aktiviti, hal ehwal atau urusan syarikat yang disenaraikan itu, atau yang berhubungan dengan syarikat yang disenaraikan itu.
 
-Pengemu- 99D. (1) Sesuatu perbadanan yang disenaraikan kaan hendaklah menyebabkan supaya dikemukakan maklumat. kepada Suruhanjaya—
+<!-- marginal: Pengemu- -->
+
+99D. (1) Sesuatu perbadanan yang disenaraikan
+
+<!-- marginal: kaan -->
+
+hendaklah menyebabkan supaya dikemukakan
+
+<!-- marginal: maklumat. -->
+
+kepada Suruhanjaya—
 
 (a) suatu salinan akaun tahunannya yang teraudit dalam masa dua minggu dari tarikh mesyuarat agong tahunannya; dan
 
@@ -916,7 +1454,7 @@ Pindaan
 
 (a) dengan menggantikan subseksyen (1) dengan subseksyen yang berikut:
 
-"(1) Jika—
+<!-- marginal: "(1) Jika— -->
 
 (a) atas permohonan Suruhanjaya, Mahkamah Tinggi mendapati bahawa seseorang telah melakukan suatu kesalahan di bawah Akta ini, mana-mana undang-undang bertulis lain berhubungan dengan perniagaan sekuriti, pengurusan kumpulan wang atau nasihat pelaburan, atau telah melanggar syarat-syarat atau sekatan-sekatan suatu lesen atau kaedah-kaedah atau kehendak-kehendak penyenaraian suatu bursa saham atau akan melakukan suatu tindakan mengenai perniagaan sekuriti yang, jika dilakukan, akan menjadi suatu kesalahan atau pelanggaran, atau telah melibatkan diri dalam, sedang melibatkan diri dalam, atau bercadang untuk melibatkan diri dalam, apa-apa pelakuan yang menjadi atau akan menjadi suatu pelanggaran Akta ini atau mana- mana undang-undang bertulis lain berhubungan dengan perniagaan sekuriti, pengurusan kumpulan wang atau nasihat pelaburan, sama ada atau tidak orang itu telah dipertuduh dengan suatu kesalahan berkenaan dengan pelanggaran itu, atau sama ada atau tidak suatu pelanggaran telah dibuktikan dalam suatu pendakwaan;
 
@@ -982,7 +1520,9 @@ wang untuk atau bagi pihak orang lain sama ada sebagai amanah atau selainnya;
 
 (d) hendaklah mempunyai apa-apa kuasa lain berkenaan dengan sekuriti itu sebagaimana yang dinyatakan dalam perintah Mahkamah Tinggi itu.
 
-(4B) Hasil perniagaan atau pelupusan sekuriti di bawah perenggan (gg) subseksyen (1) hendaklah dibayar ke dalam Mahkamah Tinggi, dan mana-mana orang yang mendakwa mempunyai hak benefisial ke atas keseluruhan atau mana-mana bahagian hasil itu boleh, dalam masa tiga puluh hari dari pembayaran ke dalam Mahkamah Tinggi itu, memohon kepada Mahkamah Tinggi untuk pembayaran daripada hasil itu kepadanya."; dan
+(4B) Hasil perniagaan atau pelupusan sekuriti di bawah perenggan (gg) subseksyen
+
+(1) hendaklah dibayar ke dalam Mahkamah Tinggi, dan mana-mana orang yang mendakwa mempunyai hak benefisial ke atas keseluruhan atau mana-mana bahagian hasil itu boleh, dalam masa tiga puluh hari dari pembayaran ke dalam Mahkamah Tinggi itu, memohon kepada Mahkamah Tinggi untuk pembayaran daripada hasil itu kepadanya."; dan
 
 (f) dalam subseksyen (5)—
 
@@ -996,9 +1536,15 @@ wang untuk atau bagi pihak orang lain sama ada sebagai amanah atau selainnya;
 
 (c) kehendak Suruhanjaya atau pemegang amanah yang dilantik melalui perintah Mahkamah Tinggi di bawah perenggan (gg) subseksyen (1).".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-39. Seksyen 120 Akta ibu adalah dipinda dalam seksyen 120. subseksyen (1) dengan memotong perkataan "broker saham," dan ' "broker saham", * di mana-mana jua terdapat.
+39. Seksyen 120 Akta ibu adalah dipinda dalam
+
+<!-- marginal: seksyen 120. -->
+
+subseksyen (1) dengan memotong perkataan "broker saham," dan ' "broker saham", * di mana-mana jua
+
+<!-- marginal: terdapat. -->
 
 <!-- page 47 -->
 
@@ -1038,9 +1584,11 @@ adalah melakukan suatu kesalahan dan apabila disabitkan boleh dikenakan denda ti
 
 <!-- page 48 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-42. Seksyen 126 Akta ibu adalah dipinda— seksyen 126.
+42. Seksyen 126 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 126. -->
 
 (a) dengan menggantikan subseksyen (2) dengan subseksyen yang berikut:
 
@@ -1050,13 +1598,45 @@ Pindaan
 
 "(3) Bagi maksud subseksyen (2), "pegawai" mempunyai erti yang sama sebagaimana yang diberikan kepada ungkapan Akta 498 . itu dalam seksyen 2 Akta Suruhanjaya Sekuriti 1993.".
 
-43. Akta ibu adalah dipinda dengan memasukkan selepas baru 126c. seksyen 126B seksyen yang berikut:
+<!-- marginal: Seksyen -->
 
-Suruhan- 126c. (1) Walau apa pun peruntukan mana-mana jaya undang-undang bertulis— boleh diwakili oleh
+43. Akta ibu adalah dipinda dengan memasukkan selepas
 
-(a) dalam mana-mana presiding sivil oleh mana-mana atau terhadap Suruhanjaya; atau pegawai dalam
+<!-- marginal: baru 126c. -->
 
-(b) dalam mana-mana presiding sivil lain presiding sivil. yang Suruhanjaya dikehendaki atau dibenarkan oleh Mahkamah untuk diwakili, atau didengari, atau selainnya berhak untuk diwakili atau didengari,
+seksyen 126B seksyen yang berikut:
+
+<!-- marginal: Suruhan- -->
+
+126c. (1) Walau apa pun peruntukan mana-mana
+
+<!-- marginal: jaya -->
+
+undang-undang bertulis—
+
+<!-- marginal: boleh -->
+
+<!-- marginal: diwakili -->
+
+<!-- marginal: oleh -->
+
+(a) dalam mana-mana presiding sivil oleh
+
+<!-- marginal: mana-mana -->
+
+atau terhadap Suruhanjaya; atau
+
+<!-- marginal: pegawai -->
+
+<!-- marginal: dalam -->
+
+(b) dalam mana-mana presiding sivil lain
+
+<!-- marginal: presiding -->
+
+<!-- marginal: sivil. -->
+
+yang Suruhanjaya dikehendaki atau dibenarkan oleh Mahkamah untuk diwakili, atau didengari, atau selainnya berhak untuk diwakili atau didengari,
 
 mana-mana pegawai yang diberi kuasa oleh Suruhanjaya bagi maksud itu, boleh, bagi pihak Suruhanjaya, memulakan presiding itu atau nadir sebagai peguambela dalam presiding itu dan boleh memasukkan segala kehadiran dan membuat segala permohonan dan melakukan segala perbuatan berkenaan dengan presiding itu bagi pihak Suruhanjaya.
 

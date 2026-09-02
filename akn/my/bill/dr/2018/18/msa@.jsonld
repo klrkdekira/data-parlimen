@@ -1,0 +1,684 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-18-2018",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_7"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Jalan, Parit dan Bangunan (Pindaan) 2018"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_1__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_1__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Jalan, Parit dan Bangunan (Pindaan) 2018."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri berhubung dengan sesuatu Negeri, selepas berunding dengan Pihak Berkuasa Negeri itu, melalui pemberitahuan dalam Warta dan Menteri boleh, selepas berunding dengan Pihak Berkuasa Negeri, menetapkan tarikh yang berlainan bagi permulaan kuat kuasa Akta ini di kawasan pihak berkuasa tempatan yang berlainan atau bahagian-bahagian kawasan pihak berkuasa tempatan yang berlainan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa di Wilayah Persekutuan Kuala Lumpur, Wilayah Persekutuan Putrajaya dan Wilayah Persekutuan Labuan pada tarikh yang ditetapkan oleh Menteri yang bertanggungjawab bagi Wilayah Persekutuan Kuala Lumpur, Wilayah Persekutuan Putrajaya dan Wilayah Persekutuan Labuan melalui pemberitahuan dalam Warta."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_1__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_1__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_1__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_1__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen (3), Pihak Berkuasa Negeri boleh, melalui pemberitahuan dalam Warta—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_1__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_1__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengecualikan mana-mana bahagian mana-mana kawasan pihak berkuasa tempatan daripada mana-mana peruntukan Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_1__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_1__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "meluaskan mana-mana atau kesemua peruntukan Akta ini supaya terpakai bagi keseluruhan atau mana-mana kawasan atau bahagian mana-mana kawasan dalam Negeri itu yang bukan di bawah mana-mana pihak berkuasa tempatan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_1__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_1__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membuat apa-apa ubah suaian, pindaan atau perubahan kepada peruntukan Akta ini sebagaimana yang perlu bagi maksud pemakaiannya di bawah perenggan (b). Pindaan seksyen 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Jalan, Parit dan Bangunan 1974 [Akta 133], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 3—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “betung” takrif yang berikut: ‘ “cerun” ertinya kecerunan permukaan tanah atau batu sama ada dibina atau wujud secara semula jadi termasuk apa-apa binaan yang melawan daya dan momen cerun itu;’; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “cerun” takrif yang berikut: ‘ “geoteknikal” ertinya bidang kejuruteraan berhubung dengan sifat tanah dan batuan yang termasuklah jenis, keadaan, profil, reka bentuk struktur, penstabilan cerun dan kerja-kerja pemantauan lain berkaitan dengan sifat tanah dan batuan itu;’. Pindaan seksyen 39"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 39 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “lima ratus” dengan perkataan “lima puluh ribu”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_3__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_3__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_3__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_3__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “dengan sengaja”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_3__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_3__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “satu ribu” dengan perkataan “satu ratus ribu”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(3) Walau apa pun subseksyen (1) dan (2), pihak berkuasa tempatan boleh memberi notis secara bertulis untuk mengarahkan orang itu untuk membetulkan pengalihan, mengambil tempat atau membuat apa-apa perubahan kepada turap, papak atau bahan lain jalan awam atau pagar atau tiang-tiang jalan awam itu atau melaksanakan apa-apa pembaikan bagi kerosakan yang dilakukan pada jalan, siar kaki, jalan kaki lima, kerja atau harta, atau mana-mana bahagiannya. (4) Mana-mana orang yang tidak mematuhi arahan yang disebut dalam subseksyen (3), pihak berkuasa tempatan pada bila-bila masa selepas habis tempoh masa yang dinyatakan dalam notis boleh dengan sendirinya menyebabkan supaya kerja itu dilakukan dan menuntut kos dan belanjanya daripada orang itu.”. Pindaan seksyen 70"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 70(2) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan memotong perkataan “dan” di hujung perenggan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan menggantikan noktah di hujung perenggan itu dengan perkataan “; dan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perengan (b) perenggan yang berikut: “(c) kepada pihak berkuasa tempatan atau pihak berkuasa berkanun berkaitan suatu laporan geoteknikal bagi binaan yang melibatkan cerun dengan kecerunan yang lebih daripada dua puluh lima darjah dan jumlah ketinggian menegak yang lebih daripada sepuluh meter yang laporan itu hendaklah ditentusahkan oleh Pemeriksa Bertauliah yang berdaftar dengan Lembaga Jurutera di bawah Akta Pendaftaran Jurutera 1967 [Akta 138].”. Pindaan seksyen 85a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_k"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 85a Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memasukkan selepas perkataan “bangunan” perkataan “dan cerun”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan takrif “pemunya” dengan takrif yang berikut: ‘ “pemunya” ertinya pemunya sesuatu bangunan atau tanah dan berhubung dengan bangunan yang dipecahbahagikan termasuklah— (a) pemunya petak bangunan itu; (b) mana-mana orang yang bertanggungjawab atas bangunan itu; atau (c) badan pengurusan bersama dan perbadanan pengurusan di bawah Akta Pengurusan Strata 2013 [Akta 757].’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “hanya”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “suatu tingkat” perkataan “, dan tanah dengan cerun yang mempunyai kecerunan lebih daripada dua puluh lima darjah dan jumlah ketinggian menegak lebih daripada sepuluh meter, sama ada tanah itu didirikan dengan bangunan atau tidak”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_d__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_d__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “pemunya sesuatu bangunan, menghendaki bangunan itu diperiksa”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (a) dengan perenggan yang berikut: “(a) pemunya sesuatu bangunan, menghendaki bangunan itu diperiksa— (i) selepas tahun kesepuluh yang bermula dari tarikh perakuan siap dan pematuhan berkenaan dengan bangunan itu dikeluarkan; dan (ii) selepas daripada itu pada lat tempoh yang tidak lebih daripada sepuluh tahun dari tarikh penyempurnaan pemeriksaan yang terakhir bangunan itu; dan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_d__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (b) dengan perenggan yang berikut: “(b) pemunya tanah dengan cerun, menghendaki cerun itu diperiksa— (i) selepas tahun kelima yang bermula dari tarikh pemilikan tanah berkenaan dengan cerun itu; dan (ii) selepas daripada itu pada lat tempoh yang tidak lebih daripada lima tahun dari tarikh penyempurnaan pemeriksaan yang terakhir cerun itu.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_e__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “Pemunya sesuatu bangunan” perkataan “atau tanah dengan cerun”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “menyebabkan bangunan” perkataan “atau cerun”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_f__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_f__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_f__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_f",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “bangunan itu atau menyebabkan bangunan itu” dengan perkataan “bangunan atau cerun itu atau menyebabkan bangunan atau cerun itu”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_f__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_f",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “pemunya bangunan itu” perkataan “atau tanah dengan cerun itu”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_g__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_g__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_g__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_g__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (6)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_g__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_g",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “bangunan” di mana-mana jua terdapat perkataan “atau cerun”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_g__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_g__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_g__subpara_ii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_g",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_g__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_g__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “kestabilan atau keutuhan struktur” dengan perkataan “kestabilan atau keutuhan struktur atau cerun”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_g__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_g__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “siasatan struktur” dengan perkataan “siasatan struktur atau cerun”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_g__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_g__subpara_iii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_g__subpara_iii__subpara_B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_g__subpara_iii__subpara_C"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_g",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (d)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_g__subpara_iii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_g__subpara_iii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “siasatan struktur” dengan perkataan “siasatan struktur atau cerun”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_g__subpara_iii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_g__subpara_iii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subperenggan (ii) dengan subperenggan yang berikut: “(ii) menyemak pelan struktur bangunan atau cerun itu bersama dengan kiraan struktur atau laporan geoteknikalnya, atau dengan tujuan untuk menentukan apa-apa kekurangan pada unsur struktur bangunan atau cerun itu;”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_g__subpara_iii__subpara_C",
+      "@type": "akn:subparagraph",
+      "eli:number": "C",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_g__subpara_iii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subperenggan (ii) subperenggan yang berikut: “(iia) jika pelan struktur, kiraan struktur atau laporan geoteknikal yang disebut dalam subperenggan (ii) tidak boleh didapati, jurutera hendaklah membina semula pelan, kiraan atau laporan itu jika dikehendaki sedemikian oleh pihak berkuasa tempatan, dengan tujuan untuk menentukan apa-apa kekurangan pada unsur struktur bangunan atau cerun itu;”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_g__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_g",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (e), dengan menggantikan perkataan “siasatan struktur” dengan perkataan “siasatan struktur atau cerun”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (7)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_i__subpara_ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “siasatan struktur” dengan perkataan “siasatan struktur atau cerun”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_i__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_i__subpara_ii__subpara_i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “bangunan” di mana-mana jua terdapat perkataan “atau cerun”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_i__subpara_ii__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_i__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (8), dengan memasukkan selepas perkataan “bangunan” perkataan “atau tanah dengan cerun”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (10), dengan menggantikan perkataan “siasatan struktur” dengan perkataan “siasatan struktur atau cerun”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (11), (12) dan (14), dengan memasukkan selepas perkataan “bangunan” di mana-mana jua terdapat perkataan “atau tanah dengan cerun”. Pindaan seksyen 133"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 133(xiii) Akta ibu dipinda dengan memasukkan selepas perkataan “bangunan” perkataan “dan cerun”. Kecualian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_7__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua permohonan atau perkara lain yang menunggu kelulusan di bawah Akta ibu hendaklah, pada tarikh permulaan kuat kuasa Akta ini, diteruskan seolah-olah Akta ibu tidak dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana perintah atau prosiding yang belum selesai di bawah Akta ini hendaklah, sebelum tarikh permulaan kuat kuasa Akta ini, diteruskan seolah-olah Akta ibu tidak dipinda oleh Akta ini."
+      }
+    }
+  ]
+}

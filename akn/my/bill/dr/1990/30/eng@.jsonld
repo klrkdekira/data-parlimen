@@ -1,0 +1,1864 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-30-1990",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Offshore Banking Bill 1990"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_I__cl_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_13"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "LICENSING OF OFFSHORE BANKS"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_20"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "DUTIES OF LICENSED OFFSHORE BANKS"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_14__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_14__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licensed offshore bank shall not carry on offshore banking business in, from or through any place in Malaysia, other than the Federal Territory of Labuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licensed offshore bank which is an offshore company shall not open any office, or acquire or establish any subsidiary, in Malaysia, other than in the Federal Territory of Labuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licensed offshore bank which is an offshore company shall not open any office, or acquire or establish any subsidiary, in the Federal Territory of Labuan or outside Malaysia without the prior written consent of the Bank,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_14__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licensed offshore bank which is a foreign offshore company shall not open any office other than its principal place of business in the Federal Territory of Labuan without the prior written consent of the Bank."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_15__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No licensed offshore bank shall accept any money on deposit or loan which is repayable on demand by cheque, draft, order or any other instrument drawn by the depositor on the licensed offshore bank."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No licensed offshore bank shall open an account for a customer whose identity is not known to the offshore bank."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_16__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_16__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_16__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding anything in any other written law, a licensed offshore bank shall appoint an approved auditor annually before such date as may be specified by the Bank."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An auditor appointed under subsection (1) shall carry out an audit of the accounts of the licensed offshore bank in respect of its business operations in, from and through the Federal Territory of Labuan and shall submit areport of such1 audit together with his comments on the accounting system and controls of the licensed offshore bank to the participants of the licensed offshore bank and to the Bank,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_16__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to section 21, the Bank may, at any time, require an auditor appointed under this section to submit to the Bank such clarifications in relation to his audit as the Bank may specify."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_16__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_16__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_16__subsec_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this section—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_16__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_16__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Bank shall maintain a list of approved auditors; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_16__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_16__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "\"approved auditor\" means an auditor who is an approved company auditor under the Offshore Companies Act 1990 and appears on the list of auditors maintained by the Bank under paragraph (a)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_17__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Within three months after the close of each financial year of a licensed offshore bank, or such further period as the Bank may approve, a licensed offshore bank shall submit to the Bank, in respect of its entire business operations in, from and through the Federal Territory of Labuan, two copies each of its latest audited annual balance sheet, profit and loss account, a statement setting out the sources, allocation and utilization of its funds and the report of the auditor under section 16 (2)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licensed offshore bank shall submit to the Bank four copies each of the documents mentioned in subsection (1) as approved in accordance with its constituent documents by its participants within fourteen days of such approval,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_18__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_18__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_18__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every licensed offshore bank shall, on request, submit to the Bank a statement showing the assets and liabilities of the licensed offshore bank in relation to its offshore banking business in the Federal Territory of Labuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any information received from a licensed offshore bank under this section shall be secret as between that licensed offshore bank and the Bank."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_18__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (2), the Bank may publish any consolidated statement, in respect of any category, class or description of licensed offshore banks as the Bank deems appropriate, aggregating the figures in the returns submitted under subsection (1): Provided that nothing in this subsection shall authorise the Bank to designate any particular licensed offshore bank to constitute a category, class or description of licensed offshore banks for the purposes of this subsection."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_18__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the avoidance of doubt, it is declared that no provision in any written law relating to secrecy shall apply to any consolidated statement referred to in subsection (3)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licensed offshore bank shall pay such annual licence fee of such amount or calculated at such rate or in such manner as may be set out in regulations made under section 27."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_20__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_20__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_20__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No licensed offshore bank shall transact any business, or deal, in Malaysian currency."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_20__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_20__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), a licensed offshore bank may, subject to section 4 of the Exchange Control Act 1953 and any other provision thereof and any direction made thereunder, do the following;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_20__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "buy or sell foreign currency against Malaysian currency; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_20__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "engage in a swap transaction involving Malaysian currency."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_20__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any licensed offshore bank which contravenes subsection (1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding the amount of Malaysian currency which is the subject matter of the offence and, in the case of a continuing offence, shall, in addition, be liable to a daily fine not exceeding fifty per centum of the amount of Malaysian currency which is the subject matter of the offence for each day the offence continues to be committed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_20__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any director or officer of a licensed offshore bank who abets, connives with, consents to or conspires with, the bank or any person to do or cause to be done an act in contravention of subsection'( 1) shall be guilty of an offence and shall on conviction be liable to imprisonment for a term not exceeding ten years or a fine not exceeding five million ringgit or to both such imprisonment and fine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Where the revocation of a licence under section 8 or its"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "surrender under section 9 has taken effect, the offshore bank to which the licence was granted shall thereupon cease to carry on any offshore banking business: Provided that the Minister may, on the recommendation of the Bank, authorise the offshore bank in writing to carry on such activities for such duration, as the Minister may specify in the authorisation, for the purpose of winding-up its affairs."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_11__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "No applicant shall be granted a licence under section 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "and no licensed offshore bank shall carry on offshore banking business without the written consent of the Minister if its capital funds, unimpaired by losses, are less than ten million ringgit or its equivalent in any other currency."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_12__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_12__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every licensed Malaysian offshore bank shall, prior to the making of any amendment or alteration to any of its constituent documents, furnish to the Bank particulars in writing as to such proposed amendment or alteration for the approval of the Bank."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every licensed offshore bank shall, within three months after the making of any amendment or alteration to its constituent documents, furnish to the Bank particulars in writing of such amendment or alteration duly authenticated in a manner acceptable to the Bank by a director of the licensed offshore bank."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_12__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No licensed offshore bank shall make any amendment or alteration to its constituent documents which is contrary to any written law."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Bank shall publish annually not later than 31st"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "January of each year a list of all existing licensed offshore banks as at 31 st December of the preceding year and their licence numbers in the Gazette, and if any licence is issued, revoked or surrendered, subsequent to such publication, the Bank shall cause to be published in the Gazette as soon as practicable a revised list of all existing licensed offshore banks and their licence numbers."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "No person shall carry on offshore banking business"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "unless—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "it is an offshore company or a foreign offshore company, established or registered for the sole and exclusive purpose of carrying on offshore banking business in the Federal Territory of Labuan; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "it is a Malaysian bank, and holds a valid licence to carry on such business."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application for a licence to carry on offshore banking business shall be made in writing by or on behalf of the applicant to the Minister by submitting the application to the Bank."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application under subsection (1) by—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an offshore company or a foreign offshore company, established or registered other than for the sole and exclusive purpose of carrying on offshore banking business in the Federal Territory of Labuan; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_aa",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_bb",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_cc",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_dd",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_ee",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_ff"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a Malaysian bank, shall, unless otherwise specified by the Bank, be accompanied with the following:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_aa",
+      "@type": "akn:subparagraph",
+      "eli:number": "aa",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the constituent documents under which the applicant is established, duly authenticated by such director or officer of the applicant in such manner as may be acceptable to the Bank;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_bb",
+      "@type": "akn:subparagraph",
+      "eli:number": "bb",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_bb__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_bb__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of an application under paragraph (a), a proposed amendment to the applicant's constituent documents to the effect that—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_bb__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_bb",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the sole and exclusive object of the offshore company shall be the carrying on of offshore banking business in the Federal Territory of Labuan; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_bb__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_bb",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the sole and exclusive object of the foreign offshore company in the Federal Territory of Labuan shall be the carrying on of offshore banking business, as the case may be;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_cc",
+      "@type": "akn:subparagraph",
+      "eli:number": "cc",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_cc__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_cc__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "(i) where the applicant is a foreign offshore company or a Malaysian bank, a copy of the audited balance sheet of the applicant's business; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_cc__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_cc",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the applicant is an offshore company which is a subsidiary of a holding company, a copy of the audited balance sheet of its holding company's business; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_cc__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_cc",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the applicant is an offshore company which is not a subsidiary of any corporation, a copy of the audited balance sheet of the business of its participants who each holds ten per centum or more of the paid-up capital of the applicant, for each of the three financial years immediately preceding the date of the application;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_dd",
+      "@type": "akn:subparagraph",
+      "eli:number": "dd",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_dd__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_dd__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_dd__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a statement on the following:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_dd__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_dd",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the name, place and date of establishment of the applicant; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_dd__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_dd",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the principal business and the principal place of business of the applicant; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_dd__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_dd",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the names and addresses of the directors of the applicant and the participants who each holds ten per centum or more of the paid-up capital of the applicant;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_ee",
+      "@type": "akn:subparagraph",
+      "eli:number": "ee",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_ee__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_ee__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_ee__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a guarantee secured, and an undertaking given, by the applicant in respect of its offshore banking business in the Federal Territory of Labuan, in such manner and such form as may be acceptable to the Bank, and such guarantee and undertaking shall provide, inter alia, that—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_ee__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_ee",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the applicant shall comply with the financial obligations and requirements imposed under this Act and shall meet the applicant's liabilities in respect of its offshore banking business in, from and through the Federal Territory of Labuan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_ee__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_ee",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the applicant is an offshore company, no participant of the applicant who holds ten per centum or more of the paid-up capital of the applicant shall be changed without the prior written approval of the Bank; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_ee__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_ee",
+      "schema:text": {
+        "@language": "en",
+        "@value": "every director or the chief executive officer of the applicant responsible for the management of its offshore banking business in the Federal Territory of Labuan shall be a fit and proper person and the appointment of such director or chief executive officer shall only be made after consultation with the Bank; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b__subpara_ff",
+      "@type": "akn:subparagraph",
+      "eli:number": "ff",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a statement on the names, addresses, qualifications, working experience and proposed positions of all directors and officers who would be responsible for the management of the applicant's offshore banking business in the Federal Territory of Labuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application under subsection (1) by—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any person on behalf of a proposed offshore company which is to be incorporated under the Offshore Companies Act 1990; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_aa",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_bb",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_cc",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_dd",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_ee"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a foreign company which is seeking registration as a foreign offshore company under the Offshore Companies Act 1990, for the sole and exclusive purpose of carrying on offshore banking business shall, unless otherwise specified by the Bank, be accompanied with the following:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_aa",
+      "@type": "akn:subparagraph",
+      "eli:number": "aa",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_aa__subpara_ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "(i) in the case of an applicant under paragraph (a), the constituent documents under which it is to be established, duly authenticated in such manner as may be acceptable to the Bank by any of its proposed directors or officers; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_aa__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_aa",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of an applicant under paragraph (b), the constituent documents under which it is established, duly authenticated in such manner as may be acceptable to the Bank by any of its directors or officers;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_bb",
+      "@type": "akn:subparagraph",
+      "eli:number": "bb",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_bb__subpara_ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "(i) in the case of an applicant under paragraph (a), a copy of the audited balance sheet of the business of its proposed participants who would each holds ten per centum or more of its paid-up capital; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_bb__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_bb",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of an applicant under paragraph (b), a copy of the audited balance sheet of its business, for each of the three financial years immediately preceding the date of the application;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_cc",
+      "@type": "akn:subparagraph",
+      "eli:number": "cc",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_cc__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_cc__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_cc__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_cc__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a statement on the following:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_cc__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_cc",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the name, place and date of, the proposed establishment of the proposed offshore company or, the establishment of the foreign company, as the case may be;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_cc__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_cc",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the proposed principal business and the proposed principal place of business of the proposed offshore 'Company or the principal business and the principal place of business of the foreign company, as the case may be;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_cc__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_cc",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the names and addresses of, the proposed directors of the proposed offshore company or, directors of the foreign company, as the case may be; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_cc__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_cc",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the names and addresses of, the proposed participants of the proposed offshore company or, the participants of the foreign company, who each would hold ten per centum or more of the paid-up capital of the proposed offshore company or foreign company, as the case may be;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_dd",
+      "@type": "akn:subparagraph",
+      "eli:number": "dd",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_dd__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_dd__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_dd__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_dd",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of a proposed offshore company, a guarantee secured, and an undertaking given, by its proposed participants that they would cause the proposed company, upon being incorporated, to secure a guarantee and give an undertaking as are referred to in subsection (2) (ee); or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_dd__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_dd",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of a foreign company, a guarantee secured, and an undertaking given, by the applicant as are referred to in subsection (2)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_ee",
+      "@type": "akn:subparagraph",
+      "eli:number": "ee",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_ee__subpara_ee",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": ";and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_ee__subpara_ee",
+      "@type": "akn:subparagraph",
+      "eli:number": "ee",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_3__para_b__subpara_ee",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a statement on the names, addresses, qualifications, working experience and proposed positions of, all proposed directors and officers of the proposed offshore company, or, as the case may be, all directors and officers of the foreign company, who would be responsible for the management of its offshore banking business in the Federal Territory of Labuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Bank may, at any time after receiving an application under this section and before it is determined by the Minister, verbally or in writing require the applicant to provide verbally or in writing such additional information, or to provide such additional documents, as may be considered necessary by the Bank for the purposes of determining the suitability of the applicant for the licence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_6__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_6__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_6__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_6__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_6__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Bank shall, on an application having been duly made in accordance with section 5 and after being provided with all such information and documents as it may require under that section, consider the application and make a recommendation to the Minister as to whether or not the licence should be granted."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon receiving an application and recommendation of the Bank under subsection (1), the Minister may grant the licence or refuse to grant the licence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licence granted to any applicant under subsection (2) shall be assigned a licence number which shall be distinct and different from the licence numbers assigned to other offshore banks."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_6__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Bank shall without delay notify the applicant in writing of the grant of, or refusal to grant, the licence and, where the Minister grants the licence, of the licence number."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_6__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_6__subsec_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_6__subsec_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licence granted under this section in respect of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_6__subsec_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_6__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an applicant referred to in paragraph (a) of section 5 (2) shall be conditional upon its constituent documents being amended as described in paragraph (bb) of that section; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_6__subsec_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_6__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an applicant referred to in paragraph (a) or (b) of section 5(3) shall be conditional upon its incorporation or registration, as the case may be, under the Offshore Companies Act 1990, and the licence shall take effect upon such amendment, incorporation or registration, as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_6__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licence granted under this section shall not be transferable to any other person."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_6__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licence granted under this section shall remain in force until it is surrendered or revoked in accordance with the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_7__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licensed offshore bank shall at all times affix or paint, and keep affixed or painted, in a prominent position on the outside of each of its offices and so as to be easily legible, its name, licence number and the words \"licensed offshore bank\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licensed offshore bank shall, in any bill-head, printed form, letter paper, notice, advertisement, or any other document issued from its office and in the course of its business, prominently print its name, licence number and the words \"licensed offshore bank\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person, not being a licensed offshore bank, shall, without the written consent of the Bank, assume or use the words \"offshore bank\" or any derivative of such words in any language capable of being construed as indicating the carrying on of offshore banking business by such person."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_8__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_8__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_8__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, on the recommendation of the Bank, revoke the licence of any offshore bank if—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_8__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the licensed offshore bank has contravened any provision of its licence or its constituent documents or any provision of this Act or any written law regardless that there has been no prosecution for an offence in respect of such contravention;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_8__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Bank has, either in connection with the application for the licence or at any time after the grant of the licence, been provided with false or misleading information by or on behalf of the licensed offshore bank, or by or on behalf of any person who is or is to be a director or officer of the licensed offshore bank; or ( c) any guarantee or undertaking referred to in section 5 has not been honoured."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The revocation of licence under this section shall take effect on the date the decision of the Minister is communicated to the licensed offshore bank."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_9__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_9__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_9__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to this section, a licensed offshore licence bank may surrender its licence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any licensed offshore bank intending to surrender its licence shall seek the prior approval of the Bank."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Bank shall give its approval if it is satisfied that the licensed offshore bank has made adequate provision in respect of all its liabilities, and thereupon shall appoint a date on which the surrender shall take effect."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_9__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the approval of the Bank has been obtained under subsection (3), the licensed offshore bank shall, not later than twenty-one days before the date appointed under subsection (3), publish an advertisement of the proposed surrender of its licence in at least one widely circulated Malaysian newspaper and one international financial newspaper,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_9__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Bank shall, as soon as practicable, publish in the Gazette a notice of every surrender of a licence under this section but any delay in publishing such notice or failure to publish such notice shall not in any manner affect the validity of such surrender."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_23"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "SECRECY"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Nothing in this Act shall authorise the Minister to direct"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Bank, or shall authorise the Bank, to inquire specifically into the identity, accounts and affairs of any particular •customer of any licensed offshore bank."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No director or officer of any licensed offshore bank, whether during his tenure of office or during his employment or thereafter, and no person, including the Bank, its directors or officers, who for any reason has access to any record, book, register, correspondence, or other document or material whatsoever relating to the affairs or account of any particular customer of the licensed offshore bank, shall disclose to any person, or make a record for any person of, any information or document whatsoever relating to the affairs or account of that customer of the licensed offshore bank."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person who has any information or document which to his knowledge has been disclosed in contravention of subsection (1) shall in any manner howsoever disclose the same to any other person."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The provisions of subsection (1) shall not apply to the disclosure of any information or document which the customer or his personal representative has authorised the licensed offshore bank in writing to disclose."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The provisions of subsection (1) shall not apply OFFSHORE BANKING where disclosure is required under an order of the High Court made upon the application—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "of an interested party, where the customer is deceased or has been declared bankrupt, or if the customer is a corporation, the corporation is being or has been wound up, in Malaysia or in any country, territory or place outside Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": ".of any public officer in the course of any investigation of any offence; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22__subsec_4__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22__subsec_4__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "of the Bank—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22__subsec_4__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22__subsec_4__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "supported by a certificate under the hand of the Minister certifying that he is satisfied that the disclosure is in the interest of the financial or economic well- being of Malaysia or any part thereof; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22__subsec_4__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22__subsec_4__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "supported by a certificate under the hand of the Minister charged with responsibility for internal security certifying that the disclosure is in the interest of the internal security of Malaysia or any part thereof."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsection (6), nothing in this section shall limit any powers conferred upon the High Court or a judge thereof by the Bankers' Books (Evidence) Act 1949 or prohibit obedience to an order made under that Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 7 of the Bankers' Books (Evidence) Act 1949 shall not apply to licensed offshore banks, its directors or officers."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Bank may from time to time examine, under"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "conditions of secrecy, the books or other documents, accounts and transactions of any licensed offshore bank and of any office outside Malaysia of a licensed Malaysian offshore bank for the purposes of verifying the submissions of such licensed offshore bank under sections 17 and 18: Provided that nothing in this section shall authorise the Bank to inquire specifically into the identity, account or affairs of any particular customer of the licensed offshore bank."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Offshore Banking Act 1990"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "and shall come into force on such date as the Minister may, by notification in the Gazette, appoint,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_I__cl_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_I__cl_2__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_I__cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_I__cl_2__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_I__cl_2__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires — \"Bank\" means the Central Bank of Malaysia established by the Central Bank of Malaysia Ordinance 1958; \"capital funds\" means paid-up capital and reserves; \"constituent documents\", in relation to an applicant under section 5 or a licensed offshore bank, means the statute, charter, memorandum of association and articles of association, rules, by-laws, partnership agreement, or other instrument, under or by which the applicant or the licensed offshore bank is established and its governing and administrative structure and the scope of its functions, business, powers and duties are set out, whether contained in one or more documents; \"corporation\" has the meaning assigned to it in the , Offshore Companies Act 1990; \"credit facilities\" means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_I__cl_2__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_I__cl_2__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any advance, loan or other facility in whatever form or by whatever name called, by the giving of which the person to whom the same is given has access, directly or indirectly, to the funds of the person giving the same; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_I__cl_2__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_I__cl_2__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any liability whatsoever incurred on behalf of any person; \"director\", in relation to a person specified in the first column of the Schedule, has the meaning set out in the second column of the Schedule against such person; \"established\", in relation to a person specified in the first column of the Schedule, has the meaning set out in the third column of the Schedule against such person; \"foreign company\" has the meaning assigned to it in the Offshore Companies Act 1990; \"foreign offshore company\" has the meaning assigned to it in the Offshore Companies Act 1990; \"holding company\" has the meaning assigned to it in the Offshore Companies Act 1990; \"liabilities\" includes debts, duties and obligations of every kind, whether present or future, and whether vested or contingent; \"licence\" means a licence granted under section 6(2); \"licensed Malaysian offshore bank\" means a licensed offshore bank which is an office, or a subsidiary, of a Malaysian bank; \"licensed offshore bank\" means an offshore bank licensed under section 6 (2); \"Malaysian bank\" means a licensed bank as defined in the Banking and Financial Institutions Act 1989 or an Islamic bank as defined in the Islamic Banking Act 1983; \"Minister\" means the Minister for the time being charged with the responsibility for finance; \"office\" includes the principal place of business, a branch, an agency, amobile place of business, aplace of business set up and maintained for a limited period only, an electronic terminal and any other place of business; \"officer\", in relation to an applicant under section 5, a licensed offshore bank or the Bank, means any employee, and includes the chief executive officer of such applicant, offshore bank or the Bank; \"offshore bank\" means a person who carries on offshore banking business; \"offshore banking business\" means the business of receiving deposits on current account, deposit account, savings account, or any other account as may be specified by the Bank, and the provision of credit facilities, in any currency other than Malaysian currency; \"offshore company\" has the meaning assigned to it in the Offshore Companies Act 1990; \"paid-up capital\", in relation to an applicant under section 5 or a licensed offshore bank, means the amount of money or other property contributed by its participants for it to carry on business but does not include credit facilities granted to it by its participants; \"participant\", in relation to a person specified in the first column of the Schedule, has the meaning set out in the fourth column of the Schedule against such person; \"related\", in relation to a corporation, means related within the meaning of section 4 of the Offshore Companies Act 1990; \"specify\", where no mode is mentioned, means specify from time to time in writing, and a power to specify includes the power to specify differently for different persons; \"subsidiary\" has the meaning assigned to it under section 3 of the Offshore Companies Act 1990."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_I__cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any person is required by or under this Act to submit, produce or provide to the Bank any information, statistic, return or document, the Bank may specify that the same shall be submitted, produced or provided in such form and manner and within such period or at such intervals or times, not inconsistent with any provision of this Act or the regulation made thereunder, as the Bank may set out in the specification; and such person shall not submit, produce or provide as true or accurate any information, statistic, return or document which he knows, or has reason to believe, to be false, inaccurate or misleading."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_I__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_I__cl_3__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_I__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Bank shall have all the functions and powers conferred, and the duties imposed, on it by this Act and the same shall not derogate from, and shall be without prejudice to, the functions, powers and duties conferred on the Bank under any other written law."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_I__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Bank may authorise any officer of the Bank to perform any of the functions, exercise any of the powers, or discharge any of the duties of the Bank under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_32"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "GENERAL PROVISIONS"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_24__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_24__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_24__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_24__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes any provision of this Act shall be guilty of an offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_24__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person who is guilty of an offence under section 4, 7 (3), 10, 15, 22 (1) or 22 (2) shall, on conviction, be liable to imprisonment for a term not exceeding five years or a fine not exceeding ten million ringgit or to both such imprisonment and fine, and in the case of a continuing offence, shall, in addition, be liable to a daily fine not exceeding ten thousand ringgit for each day the offence continues to be committed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_24__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person who is guilty of an offence for which no penalty is expressly provided in this Act shall, on conviction, be liable to imprisonment for a term not exceeding three years or a fine not exceeding five million ringgit or to both such imprisonment and fine, and in the case of a continuing offence, shall, in addition, be liable to a daily fine not exceeding five thousand ringgit for each day the offence continues to be committed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_25__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_25__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_25__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Governor may, with the concurrence of the Minister, in a case where he deems it fit and proper so to do, compound any offence committed by any person which is punishable under this Act, by making a written offer to such person to compound the offence by paying to the Governor, within such time as may be specified in the offer, such sum of money, as may be so specified, which shall not exceed fifty per centum of the amount of the maximum fine to which that person would have been liable if he had been convicted of the offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_25__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An offer under subsection (1) may be made at any time after the offence has been committed, but before any prosecution for it has been instituted, and where the amount specified in the offer is not paid within the time specified in the offer, or within such extended period as the Governor OFFSHORE BANKING may grant, prosecution for the offence may be instituted at any time thereafter against the person to whom the offer was made. (3) Where an offence has been compounded under subsection (1), no prosecution shall thereafter be instituted in respect of such offence against the person to whom the offer to compound was made. (4) Any monies paid to the Governor pursuant to subsection (1) shall be paid into and form part of the Federal Consolidated Fund."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_26__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Government, the Bank, officers of the Government and officers of the Bank shall not be liable to any action, claim or demand by, nor shall be under any liability to, any person in respect of anything done or omitted to be done in good faith in pursuance of, or in execution of, or in connection with the execution or intended execution of, any power conferred by or under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this section \"officers of the Government\" includes the Minister and any public officer; and \"officers of the Bank\" includes the Governor, Deputy Governor, director and any employee of the Bank."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, on the recommendation of the Bank, make such regulations as may be necessary or expedient for giving full effect to the provisions of this Act, for the carrying out or achieving the objects and purposes of this Act or any provision thereof, or for the further, better or more convenient implementation of the provisions of this Act, including regulations to control the giving of any credit facility by a licensed Malaysian offshore bank to a single person or its directors, officers or other persons associated with such directors or officers."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_28__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_28__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_28__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_28__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In addition to this Act, the Offshore Companies Act 1990 shall apply to an offshore bank which is an offshore company or a foreign offshore company, and the Companies Act 1965 shall apply to an offshore bank which is an office of a Malaysian bank established under that Act,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_28__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where there is any conflict or inconsistency between the provisions of this Act and the other Acts referred to in subsection (1) in their application to the respective offshore banks, the provisions of this Act shall prevail."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_28__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any difficulty or doubt arises in the application of subsection (1) in relation to any particular licensed offshore bank, or any particular matter or circumstance, or generally, the Minister may, on the reference of the difficulty or doubt to him by the Bank, resolve the same by a direction in writing."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_29__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_29__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_29__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsection (2), nothing in this Act shall affect the provisions of the Exchange Control Act 1953, and in the application of any provision of this Act to any person 1953. ' or licensed offshore bank, such provision shall apply subject to the provisions of that Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where there is conflict or inconsistency between the provisions of this Act and the Exchange Control Act 1953, the provisions of that Act shall prevail."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The provisions of the Banking and Financial"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Institutions Act 1989 and the Islamic Banking Act 1983 shall not apply to licensed offshore banks, including licensed offshore banks which are offices of Malaysian banks in the Federal Territory of Labuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Minister may, on the recommendation of the Bank"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "and by a notice in writing, subject to any condition as he may impose, exempt any person from all or any of the provision of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_32__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_32__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_32__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_32__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_32__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_32__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding anything in any written law or rule of law, a licensed offshore bank may, without the production of letters of probate or letters of administration, pay any sum not exceeding the equivalent of five thousand ringgit standing to the credit of a deceased person to any person who produces satisfactory proof of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_32__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_32__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the death of such deceased person; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_32__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_32__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "his entitlement under the law to the said sum standing to the credit of such deceased person. OFFSHORE BANKING"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_32__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licensed offshore bank shall not make any payment under subsection (1) if it has received other claims to any money standing to the credit of the deceased person."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_32__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~part_V__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licensed offshore bank or its directors or officers shall not be liable in respect of any claim by any person in connection with any payment made in accordance with this section but such person may recover any sum lawfully due to him from the person to whom such payment has been made."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~sched_1__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~sched_1__para_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "(Section 2(1)) MEANING OF DIRECTOR First Column Second Column Third Column Fourth Column (person) (director) (established) Corporation a person occupying incorporated a shareholder the position of director of the corporation, by whatever name called, and includes a person in accordance with whose directions or instructions the directors of the corporation are accustomed to act and an alternate or substitute director Co-operative a member of the board registered, in- a member society or other governing corporated or body, howsoever called, otherwise coming of the co-operative into legal existence society as a co-operative society Statutory a member of the board. Us coming into a shareholder body committee, council existence under or, where the or other governing the law esta- statutory body body, howsoever called. Wishing, appoin- has no share of the statutory body ting or con- capital a stituting it person wholly, severally or jointly with other persons owning the statutory body Partnership a partner its formation a partner OFFSHORE BANKING proposed Offshore Companies Act 1990, the Companies Act 1965, the Exchange Control Act 1953 and the non-application of the Banking and Financial Institutions Act 1989 and the Islamic Banking Act 1983 to licensed offshore banks."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~sched_1__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Clause 1 provides for the date of coming into force of this Bill."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~sched_1__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/30/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Clause 2 (1) defines certain words and expressions used in the Bill. Some of these definitions are explained below. The word \"Bank\" is defined to mean the Central Bank of Malaysia established by the Central Bank of Malaysia Ordinance 1958. The words \"director\", \"established\" and \"participant\" are defined, in relation to different legal entities set out in the first column of the Schedule to the Bill, in the second, third and fourth columns, respectively, of that Schedule. \"offshore banking business\" is defined as the business of taking of deposits and the giving of credit facilities in currency other than the ringgit. Any person who carries on offshore banking business is an \"offshore bank\". An offshore bank granted a licence under this Bill is a ''licensed offshore bank\" and if the licensed offshore bank is a branch or a subsidiary of a bank licensed under the Banking and Financial Institutions Act 1989 or the Islamic Banking Act 1983, it is defined as a \"licensed Malaysian offshore bank\". The word \"specify\" is defined to mean specify in writing from time to time, and includes apower to specify differently for different persons. Clause 2 (2) explains that where any person is required to submit, produce or provide to the Bank any information, statistics, return or document, the Bank is empowered to specify various matters and details such as the intervals, the manner, the form and the means in or by which such submission, production or provision is to be made and such person is prohibited from submitting, producing or providing as true any information, statistics, return or document which he knows or believes to be false, inaccurate or misleading. 4. Clause 3 makes it clear that the functions, powers and duties conferred on the Bank under this Bill shall not derogate from or prejudice the functions, powers and duties conferred on the Bank under any other written law. 5. Clause 4 prohibits any person from carrying on offshore banking business unless such person is an offshore company or a foreign offshore company incorporated or registered, as the case may be, under the proposed Offshore Companies Act 1990, or a Malaysian bank and holds a valid licence granted under clause 6 (2) to carry on offshore banking business. First Column Second Column Third Column Fourth Column (person) (director) (established) Sole-proprietor- the sole proprietor where registra- the sole ship tion or other proprietor form of recor- ding or recog- nition is required before activities or business can lawfully be commenced, its registration, recording or legal recognition under the law applicable Any other body, any person having where registra- a member, how- association or direction or tion or other soever called, group of persons control of the form of recor- of such whether corporate management of its ding or recog- body, asso- or unincorporate affairs or business nition is re- ciation or quired before group activities or business can lawfully be commenced, its registration, recording or legal recognition under the law applicable"
+      }
+    }
+  ]
+}

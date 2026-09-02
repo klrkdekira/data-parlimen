@@ -27,7 +27,10 @@
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_I",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_VI"
       ],
       "schema:name": {
         "@language": "ms",
@@ -67,7 +70,8 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_14",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_15",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_16",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_17"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_18"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@",
       "schema:text": {
@@ -76,48 +80,214 @@
       }
     },
     {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III",
+      "@type": "akn:chapter",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_24"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PINDAAN KEPADA AKTA CUKAI KEUNTUNGAN HARTA TANAH 1976 Permulaan kuat kuasa pindaan kepada Akta Cukai Keuntungan Harta Tanah 1976"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_19__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 20 dan 21 berkuat kuasa bagi tahun taksiran 2026 dan tahun-tahun taksiran yang berikutnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 22, 23 dan 24 mula berkuat kuasa pada 1 Januari 2026. Pindaan seksyen 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Cukai Keuntungan Harta Tanah 1976, yang disebut “Akta ibu” dalam Bab ini, dipinda dalam perenggan 7(4)(b) dengan menggantikan perkataan “tahun-tahun taksiran yang berikutnya sehingga semua amaun kerugian yang boleh dibenarkan yang akan dibenarkan itu telah dibenarkan” dengan perkataan “tempoh sembilan tahun taksiran berturut-turut dan apa-apa amaun atau baki amaun yang tidak boleh ditolak pada hujung tempoh itu tidak diambil kira bagi maksud Akta ini”. Peruntukan khas yang berhubungan dengan seksyen 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen 7(4) Akta ibu, apa-apa amaun kerugian yang boleh dibenarkan bagi tahun taksiran 2025 dan tahun-tahun taksiran sebelumnya yang tidak dipotong menurut subseksyen 7(4) Akta ibu bagi tahun taksiran 2025 boleh diambil kira bagi maksud potongan di bawah perenggan 7(4)(b) Akta ibu bagi tahun taksiran 2026 dan tahun-tahun taksiran yang berikutnya hingga tahun taksiran 2035 dan apa-apa amaun yang tidak dipotong menurut perenggan 7(4)(b) Akta ibu selepas berakhirnya tahun taksiran 2035 tidak diambil kira bagi maksud Akta ibu. Pindaan seksyen 21"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 21(3) Akta ibu dipinda dengan memasukkan selepas perkataan “subseksyen (1)” perkataan “, (1A), (1B)”. Pindaan seksyen 21b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_23__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_23__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_23__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_23__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_23__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_23__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_23__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 21B Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_23__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Tertakluk kepada subseksyen (1A), (1B) dan (1c), jika suatu pelupusan yang seksyen 13 terpakai baginya dan balasan itu terdiri kesemuanya atau sebahagiannya daripada wang, pemeroleh itu hendaklah— (a) memegang simpan kesemua wang itu; (b) memegang simpan suatu jumlah wang tidak melebihi tiga peratus daripada jumlah nilai balasan itu; atau (c) meme gang simpan a ma un cuk ai a tas keuntungan yang boleh dikenakan cukai yang disifatkan telah ditaksirkan di bawah subseksyen 14(1), mengikut mana-mana yang kurang dan, sama ada amaun itu dipegang simpan atau tidak, dalam tempoh enam puluh hari selepas tarikh pelupusan itu membayar amaun itu kepada Ketua Pengarah.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_23__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1A) dengan subseksyen yang berikut: “(1 A) Tertakluk kepada subseksyen (1c), jika suatu pelupusan di bawah subseksyen (1) dibuat oleh seorang pelupus di bawah Bahagian II Jadual 5 berhubung dengan suatu pelupusan dalam tempoh tiga tahun selepas tarikh pemerolehan aset yang boleh dikenakan cukai, pemeroleh itu hendaklah— (a) memegang simpan kesemua wang itu; (b) memegang simpan suatu jumlah wang tidak melebihi lima peratus daripada jumlah nilai balasan itu; atau (c) meme gang simp an a ma u n cuk ai a ta s keuntungan yang boleh dikenakan cukai yang disifatkan telah ditaksirkan di bawah subseksyen 14(1), mengikut mana-mana yang kurang dan, sama ada amaun itu dipegang simpan atau tidak, dalam tempoh enam puluh hari selepas tarikh pelupusan itu membayar amaun itu kepada Ketua Pengarah.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_23__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1A) subseksyen yang berikut: “(1B) Tertakluk kepada subseksyen (1 c), jika suatu pelupusan di bawah subseksyen (1) dibuat oleh seorang pelupus di bawah Bahagian III Jadual 5, pemeroleh itu hendaklah— (a) memegang simpan kesemua wang itu; (b) memegang simpan suatu jumlah wang tidak melebihi tujuh peratus daripada jumlah nilai balasan itu; atau (c) memegang simpan amaun cukai atas keuntungan yang boleh dikenakan cukai yang disifatkan telah ditaksirkan di bawah subseksyen 14(1), mengikut mana-mana yang kurang dan, sama ada amaun itu dipegang simpan atau tidak, dalam tempoh enam puluh hari selepas tarikh pelupusan itu membayar amaun itu kepada Ketua Pengarah. (1 c) Berhubung dengan amaun yang dipegang simpan di bawah subseksyen (1), (1A) atau (1B), Ketua Pengarah boleh dalam hal keadaan khas membenarkan pelanjutan masa bagi amaun itu dibayar. (1d) Perenggan (1)(c), (1A)(c) atau (1B)(c) hanya boleh terpakai jika pemberitahuan di bawah subseksyen 13(9) diterima oleh pemeroleh itu sebelum amaun yang dipegang simpan di bawah perenggan (1)(a) atau (b), (1A)(a) atau (b), atau (1B)(a) atau (b) itu dibayar kepada Ketua Pengarah.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_23__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan memasukkan selepas perkataan “subseksyen (1),” perkataan “(1A) atau (1B),”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_23__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan memasukkan selepas perkataan “subseksyen (1)” di mana-mana jua terdapat perkataan “, (1A) atau (1B)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_23__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan memasukkan selepas perkataan “subseksyen (1)” di mana-mana jua terdapat perkataan “, (1A) atau (1B)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_23__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5), dengan menggantikan perkataan “seksyen 13” dengan perkataan “subseksyen 13(6)”. Pindaan seksyen 24"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_24__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 24 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_24__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (7A) dengan subseksyen yang berikut: “(7A) Apa-apa jumlah lebihan berkenaan dengan cukai yang kena dibayar bagi suatu tahun taksiran yang kena dibayar balik kepada seseorang di bawah subseksyen (1) boleh digunakan oleh Ketua Pengarah bagi bayaran— (a) apa-apa amaun cukai lain yang genap masa dan kena dibayar (termasuk apa-apa amaun ansuran yang genap masa dan kena dibayar) oleh orang itu di bawah Akta ini, Akta Cukai Pendapatan 1967, Akta Petroleum (Cukai Pendapatan) 1967 [Akta 543] atau Akta Cukai Aktiviti Perniagaan Labuan 1990 [Akta 445]; atau (b) apa-apa amaun duti lain yang genap masa dan kena dibayar oleh orang itu di bawah Akta Setem 1949 [Akta 378].”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_III__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (7B), dengan menggantikan perkataan “subseksyen 111(4A) Akta Cukai Pendapatan 1967 atau subseksyen 50(4) Akta Petroleum (Cukai Pendapatan) 1967” dengan perkataan “subseksyen 80c(1) Akta Setem 1949, subseksyen 111(4A) Akta Cukai Pendapatan 1967, subseksyen 50(4) Akta Petroleum (Cukai Pendapatan) 1967 atau subseksyen 12(2) Akta Cukai Aktiviti Perniagaan Labuan 1990”."
+      }
+    },
+    {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_10",
       "@type": "akn:clause",
       "eli:number": "10",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_10__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_10__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_10__para_c"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II",
       "schema:text": {
         "@language": "ms",
-        "@value": "Seksyen 65c Akta ibu dipinda dengan menggantikan takrif “disposal” dengan takrif yang berikut: ‘ “disposal” means—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_10__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_10",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "to sell, convey, transfer, assign, settle or alienate whether by an agreement or any written law;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_10__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_10",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "an extinguishment of any rights due to the dissolution or winding up of a company; or"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_10__para_c",
-      "@type": "akn:paragraph",
-      "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_10",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "a reduction of share capital, conversion of shares, redemption of shares, purchase by a company of its own shares or ownership of the capital asset ends.’. Pindaan seksyen 65d"
+        "@value": "Seksyen 65c Akta ibu dipinda dengan menggantikan takrif “disposal” dengan takrif yang berikut: ‘ “disposal” means— (a) to sell, convey, transfer, assign, settle or alienate whether by an agreement or any written law; (b) an extinguishment of any rights due to the dissolution or winding up of a company; or (c) a reduction of share capital, conversion of shares, redemption of shares, purchase by a company of its own shares or ownership of the capital asset ends.’. Pindaan seksyen 65d"
       }
     },
     {
@@ -233,9 +403,43 @@
       "@type": "akn:clause",
       "eli:number": "17",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jadual 1 kepada Akta ibu dipinda dengan memasukkan selepas Bahagian XXII bahagian yang berikut: “PArt XXIII 1. Notwithstanding Part I, income tax shall be charged upon the income of an individual, who is a partner of a limited liability partnership, which consists of profits derived from Malaysia paid, credited or distributed, whether in cash or in kind, to the individual by the limited liability partnership, in excess of one hundred thousand ringgit at the rate of two per cent on every ringgit of the chargeable income in respect of such profits. 2. In this Part, where the individual has income from a source other than profits referred to in paragraph 1, the chargeable income of the individual referred to in the paragraph, shall be as prescribed by the Minister.”. Pindaan Jadual 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II",
       "schema:name": {
         "@language": "ms",
-        "@value": "Jadual 1 kepada Akta ibu dipinda dengan memasukkan selepas"
+        "@value": "Jadual 6 kepada Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan 12c dengan perenggan yang berikut: “12c. Any profit paid, credited or distributed, whether in cash or in kind, to partners other than an individual, by a limited liability partnership.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan 12c perenggan yang berikut: “12d. Any profit paid, credited or distributed, whether in cash or in kind, to a partner who is an individual, by a limited liability partnership, amounting to one hundred thousand ringgit or less.”."
       }
     },
     {
@@ -256,21 +460,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_3__subsec_1",
       "@type": "akn:subsection",
       "eli:number": "1",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_3__subsec_1__para_ii",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_3",
       "schema:text": {
         "@language": "ms",
-        "@value": "Seksyen 4, 7, 8, 9, 17 dan 18, dan subperenggan 6(a)(i),"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_3__subsec_1__para_ii",
-      "@type": "akn:paragraph",
-      "eli:number": "ii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_3__subsec_1",
-      "schema:text": {
-        "@language": "ms",
-        "@value": ", (iii) dan (iv) berkuat kuasa bagi tahun taksiran 2026 dan tahun-tahun taksiran yang berikutnya."
+        "@value": "Seksyen 4, 7, 8, 9, 17 dan 18, dan subperenggan 6(a)(i), (ii), (iii) dan (iv) berkuat kuasa bagi tahun taksiran 2026 dan tahun-tahun taksiran yang berikutnya."
       }
     },
     {
@@ -397,7 +590,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_6",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (1)— “(d) for the purposes of subparagraph (iii), the vaccination which qualifies for deduction shall be vaccines registered with the National Pharmaceutical Regulatory Agency;”; “(r) an amount limited to a maximum of three thousand ringgit expended or deemed to have been expended under subsection (3) in that basis year by the individual on the amount expended for the payment of child care fees to— (i) a child care centre registered under the Child Care Centre Act 1984 [Act 308] or a kindergarten registered under the Education Act 1996 [Act 550] for a child of the individual aged six years and below; or (ii) a care centre registered under the Care Centres Act 1993 [Act 506] for a child of the individual aged twelve years and below: Provided that— (a) where a wife living together with her husband is assessed separately for that year, the deduction under this paragraph shall only be allowed either to the husband or to the wife; (b) the claim is evidenced by a receipt issued by the child care centre, kindergarten or care centre; and (c) the maximum amount of deduction under this paragraph shall apply notwithstanding that the individual may have more than one child;”; “(sa) an amount limited to a maximum of one thousand ringgit expended or deemed to have been expended under subsection (3) in that basis year by the individual as evidenced by a receipt on the amount expended for the payment of entrance fee to a tourist attraction, or for a cultural and arts programme;”; dan “(v) expenses expended in that basis year by the individual— (i) for the payment of installation, rental, purchase including hire-purchase of equipment or subscription for use of electric vehicle charging facility for his own vehicle and not being used for the purposes of his own business for each basis year for the years of assessment 2023, 2024, 2025, 2026 and 2027; (ii) for the purchase of food waste compost machine used for the household purpose of the individual for the years of assessment 2025, 2026 and 2027; (iii) for the payment of installation or for the purchase of food waste grinder machine used for the household purpose of the individual for the years of assessment 2026 and 2027; or (iv) for the payment of installation or for the purchase of closed-circuit television used for the household purpose of the individual for the years of assessment 2026 and 2027;”;"
+        "@value": "dalam subseksyen (1)—"
       }
     },
     {
@@ -417,7 +610,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_6__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam proviso kepada perenggan (g), dengan menggantikan perenggan (d) dengan perenggan yang berikut:"
+        "@value": "dalam proviso kepada perenggan (g), dengan menggantikan perenggan (d) dengan perenggan yang berikut: “(d) for the purposes of subparagraph (iii), the vaccination which qualifies for deduction shall be vaccines registered with the National Pharmaceutical Regulatory Agency;”;"
       }
     },
     {
@@ -437,7 +630,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_6__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perenggan (r) dengan perenggan yang berikut:"
+        "@value": "dengan menggantikan perenggan (r) dengan perenggan yang berikut: “(r) an amount limited to a maximum of three thousand ringgit expended or deemed to have been expended under subsection (3) in that basis year by the individual on the amount expended for the payment of child care fees to— (i) a child care centre registered under the Child Care Centre Act 1984 [Act 308] or a kindergarten registered under the Education Act 1996 [Act 550] for a child of the individual aged six years and below; or (ii) a care centre registered under the Care Centres Act 1993 [Act 506] for a child of the individual aged twelve years and below: Provided that— (a) where a wife living together with her husband is assessed separately for that year, the deduction under this paragraph shall only be allowed either to the husband or to the wife; (b) the claim is evidenced by a receipt issued by the child care centre, kindergarten or care centre; and (c) the maximum amount of deduction under this paragraph shall apply notwithstanding that the individual may have more than one child;”;"
       }
     },
     {
@@ -447,7 +640,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_6__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perenggan (s) perenggan yang berikut:"
+        "@value": "dengan memasukkan selepas perenggan (s) perenggan yang berikut: “(sa) an amount limited to a maximum of one thousand ringgit expended or deemed to have been expended under subsection (3) in that basis year by the individual as evidenced by a receipt on the amount expended for the payment of entrance fee to a tourist attraction, or for a cultural and arts programme;”; dan"
       }
     },
     {
@@ -457,7 +650,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_II__cl_6__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perenggan (v) dengan perenggan yang berikut:"
+        "@value": "dengan menggantikan perenggan (v) dengan perenggan yang berikut: “(v) expenses expended in that basis year by the individual— (i) for the payment of installation, rental, purchase including hire-purchase of equipment or subscription for use of electric vehicle charging facility for his own vehicle and not being used for the purposes of his own business for each basis year for the years of assessment 2023, 2024, 2025, 2026 and 2027; (ii) for the purchase of food waste compost machine used for the household purpose of the individual for the years of assessment 2025, 2026 and 2027; (iii) for the payment of installation or for the purchase of food waste grinder machine used for the household purpose of the individual for the years of assessment 2026 and 2027; or (iv) for the payment of installation or for the purchase of closed-circuit television used for the household purpose of the individual for the years of assessment 2026 and 2027;”;"
       }
     },
     {
@@ -535,6 +728,132 @@
       }
     },
     {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV",
+      "@type": "akn:chapter",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV__cl_30"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PINDAAN KEPADA AKTA SETEM 1949 Permulaan kuat kuasa pindaan kepada Akta Setem 1949"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bab ini mula berkuat kuasa pada 1 Januari 2026. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Setem 1949, yang disebut “Akta ibu” dalam Bab ini, dipinda dalam seksyen 2 dengan memasukkan selepas takrif “property” takrif yang berikut: ‘ “residential property” means a house, condominium, apartment, flat, service apartment or small office home office solely to be used as a dwelling house;’. Pindaan seksyen 21"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 21(7) Akta ibu dipinda dengan memasukkan selepas perkataan “the Collector” perkataan “, on an application made within twenty-four months after the date of instrument by the person whom it was first or alone executed,”. Seksyen baharu 80c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 80B seksyen yang berikut: “Power of Collector to utilize excess of duty 80c. (1) Any amount of excess in respect of duty payable which is to be refunded to a person under this Act may be utilized by the Collector for the payment of any other amount of— (a) duty which is due and payable by the person under this Act; or (b) tax which is due and payable (including any amount of instalments which are due and payable) by the person under the Income Tax Act 1967, the Petroleum (Income Tax) Act 1967 [Act 543], the Real Property Gains Tax Act 1976 [Act 169] or the Labuan Business Activity Tax Act 1990 [Act 445]. (2) Where amount of excess in respect of a person is ascertained in accordance with subsection 111(4A) of the Income Tax Act 1967, subsection 50(4) of the Petroleum (Income Tax) Act 1967, subsection 24(7A) of the Real Property Gains Tax Act 1976 or subsection 12(2) of the Labuan Business Activity Tax Act 1990, the excess shall be applied for the payment of duty which is due and payable by the person under this Act.”. Pindaan Jadual Pertama"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV__cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV__cl_29__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual Pertama kepada Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV__cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berhubung dengan butiran 4, dalam ruang “Description of Instrument”, di bawah “Exemptions”, dalam perenggan (b), dengan menggantikan perkataan “RM300 per month” dengan perkataan “RM3,000 per month”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV__cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV__cl_29__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV__cl_29__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berhubung dengan butiran 32—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV__cl_29__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV__cl_29__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam ruang “Description of Instrument”, dalam perenggan (aa), dengan menggantikan perkataan “except stock,” dengan perkataan “except residential property, stock,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV__cl_29__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV__cl_29__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (aa) dan butir-butir yang berhubungan dengannya perenggan dan butir-butir yang berikut: Item Description of Proper Stamp Instrument Duty RM8.00 for every “(ab) On sale of RM100.00 or any residential fractional part property from of RM100.00 1 January 2026 of the amount to a foreign of the money company or a value of the person who is consideration or not a citizen the market value and not a of the residential permanent property, resident whichever is the greater (iii) dalam ruang “Proper Stamp Duty”, dalam subperenggan (e)(i), dengan memasukkan selepas perkataan “Duty as in (a), (aa),” perkataan “(ab),”. Pindaan Jadual Ketiga"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jadual Ketiga kepada Akta ibu dipinda dalam butiran 7, dalam ruang “Person liable to pay Duty”, dengan menggantikan perkataan “The parties in equal shares” dengan perkataan “The grantee or transferee”."
+      }
+    },
+    {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_I__cl_1",
       "@type": "akn:clause",
       "eli:number": "1",
@@ -555,501 +874,119 @@
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII",
-      "@type": "akn:part",
-      "eli:number": "XXII",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__cl_18",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_V",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_VI"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@",
-      "schema:name": {
-        "@language": "ms",
-        "@value": "bahagian yang berikut:"
-      },
-      "schema:text": {
-        "@language": "ms",
-        "@value": "“PArt XXIII 1. Notwithstanding Part I, income tax shall be charged upon the income of an individual, who is a partner of a limited liability partnership, which consists of profits derived from Malaysia paid, credited or distributed, whether in cash or in kind, to the individual by the limited liability partnership, in excess of one hundred thousand ringgit at the rate of two per cent on every ringgit of the chargeable income in respect of such profits. 2. In this Part, where the individual has income from a source other than profits referred to in paragraph 1, the chargeable income of the individual referred to in the paragraph, shall be as prescribed by the Minister.”. Pindaan Jadual 6"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III",
-      "@type": "akn:chapter",
-      "eli:number": "III",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_19",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_20",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_21",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_22",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_23",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_24"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "PINDAAN KEPADA AKTA CUKAI KEUNTUNGAN HARTA TANAH 1976 Permulaan kuat kuasa pindaan kepada Akta Cukai Keuntungan Harta Tanah 1976"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_19",
-      "@type": "akn:clause",
-      "eli:number": "19",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_19__subsec_1",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_19__subsec_2"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III"
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_19__subsec_1",
-      "@type": "akn:subsection",
-      "eli:number": "1",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_19",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Seksyen 20 dan 21 berkuat kuasa bagi tahun taksiran 2026 dan tahun-tahun taksiran yang berikutnya."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_19__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_19",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Seksyen 22, 23 dan 24 mula berkuat kuasa pada 1 Januari 2026. Pindaan seksyen 7"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_20",
-      "@type": "akn:clause",
-      "eli:number": "20",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Akta Cukai Keuntungan Harta Tanah 1976, yang disebut “Akta ibu” dalam Bab ini, dipinda dalam perenggan 7(4)(b) dengan menggantikan perkataan “tahun-tahun taksiran yang berikutnya sehingga semua amaun kerugian yang boleh dibenarkan yang akan dibenarkan itu telah dibenarkan” dengan perkataan “tempoh sembilan tahun taksiran berturut-turut dan apa-apa amaun atau baki amaun yang tidak boleh ditolak pada hujung tempoh itu tidak diambil kira bagi maksud Akta ini”. Peruntukan khas yang berhubungan dengan seksyen 7"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_21",
-      "@type": "akn:clause",
-      "eli:number": "21",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Walau apa pun subseksyen 7(4) Akta ibu, apa-apa amaun kerugian yang boleh dibenarkan bagi tahun taksiran 2025 dan tahun-tahun taksiran sebelumnya yang tidak dipotong menurut subseksyen 7(4) Akta ibu bagi tahun taksiran 2025 boleh diambil kira bagi maksud potongan di bawah perenggan 7(4)(b) Akta ibu bagi tahun taksiran 2026 dan tahun-tahun taksiran yang berikutnya hingga tahun taksiran 2035 dan apa-apa amaun yang tidak dipotong menurut perenggan 7(4)(b) Akta ibu selepas berakhirnya tahun taksiran 2035 tidak diambil kira bagi maksud Akta ibu. Pindaan seksyen 21"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_22",
-      "@type": "akn:clause",
-      "eli:number": "22",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Subseksyen 21(3) Akta ibu dipinda dengan memasukkan selepas perkataan “subseksyen (1)” perkataan “, (1A), (1B)”. Pindaan seksyen 21b"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_23",
-      "@type": "akn:clause",
-      "eli:number": "23",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_23__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_23__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_23__para_c",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_23__para_d",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_23__para_e",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_23__para_f",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_23__para_g"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III",
-      "schema:name": {
-        "@language": "ms",
-        "@value": "Seksyen 21B Akta ibu dipinda—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_23__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_23",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Tertakluk kepada subseksyen (1A), (1B) dan (1c), jika suatu pelupusan yang seksyen 13 terpakai baginya dan balasan itu terdiri kesemuanya atau sebahagiannya daripada wang, pemeroleh itu hendaklah— (a) memegang simpan kesemua wang itu; (b) memegang simpan suatu jumlah wang tidak melebihi tiga peratus daripada jumlah nilai balasan itu; atau (c) meme gang simpan a ma un cuk ai a tas keuntungan yang boleh dikenakan cukai yang disifatkan telah ditaksirkan di bawah subseksyen 14(1), mengikut mana-mana yang kurang dan, sama ada amaun itu dipegang simpan atau tidak, dalam tempoh enam puluh hari selepas tarikh pelupusan itu membayar amaun itu kepada Ketua Pengarah.”;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_23__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_23",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan menggantikan subseksyen (1A) dengan subseksyen yang berikut: “(1 A) Tertakluk kepada subseksyen (1c), jika suatu pelupusan di bawah subseksyen (1) dibuat oleh seorang pelupus di bawah Bahagian II Jadual 5 berhubung dengan suatu pelupusan dalam tempoh tiga tahun selepas tarikh pemerolehan aset yang boleh dikenakan cukai, pemeroleh itu hendaklah— (a) memegang simpan kesemua wang itu; (b) memegang simpan suatu jumlah wang tidak melebihi lima peratus daripada jumlah nilai balasan itu; atau (c) meme gang simp an a ma u n cuk ai a ta s keuntungan yang boleh dikenakan cukai yang disifatkan telah ditaksirkan di bawah subseksyen 14(1), mengikut mana-mana yang kurang dan, sama ada amaun itu dipegang simpan atau tidak, dalam tempoh enam puluh hari selepas tarikh pelupusan itu membayar amaun itu kepada Ketua Pengarah.”;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_23__para_c",
-      "@type": "akn:paragraph",
-      "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_23",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan memasukkan selepas subseksyen (1A) subseksyen yang berikut: “(1B) Tertakluk kepada subseksyen (1 c), jika suatu pelupusan di bawah subseksyen (1) dibuat oleh seorang pelupus di bawah Bahagian III Jadual 5, pemeroleh itu hendaklah— (a) memegang simpan kesemua wang itu; (b) memegang simpan suatu jumlah wang tidak melebihi tujuh peratus daripada jumlah nilai balasan itu; atau (c) memegang simpan amaun cukai atas keuntungan yang boleh dikenakan cukai yang disifatkan telah ditaksirkan di bawah subseksyen 14(1), mengikut mana-mana yang kurang dan, sama ada amaun itu dipegang simpan atau tidak, dalam tempoh enam puluh hari selepas tarikh pelupusan itu membayar amaun itu kepada Ketua Pengarah. (1 c) Berhubung dengan amaun yang dipegang simpan di bawah subseksyen (1), (1A) atau (1B), Ketua Pengarah boleh dalam hal keadaan khas membenarkan pelanjutan masa bagi amaun itu dibayar. (1d) Perenggan (1)(c), (1A)(c) atau (1B)(c) hanya boleh terpakai jika pemberitahuan di bawah subseksyen 13(9) diterima oleh pemeroleh itu sebelum amaun yang dipegang simpan di bawah perenggan (1)(a) atau (b), (1A)(a) atau (b), atau (1B)(a) atau (b) itu dibayar kepada Ketua Pengarah.”;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_23__para_d",
-      "@type": "akn:paragraph",
-      "eli:number": "d",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_23",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dalam subseksyen (2), dengan memasukkan selepas perkataan “subseksyen (1),” perkataan “(1A) atau (1B),”;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_23__para_e",
-      "@type": "akn:paragraph",
-      "eli:number": "e",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_23",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dalam subseksyen (3), dengan memasukkan selepas perkataan “subseksyen (1)” di mana-mana jua terdapat perkataan “, (1A) atau (1B)”;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_23__para_f",
-      "@type": "akn:paragraph",
-      "eli:number": "f",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_23",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dalam subseksyen (4), dengan memasukkan selepas perkataan “subseksyen (1)” di mana-mana jua terdapat perkataan “, (1A) atau (1B)”; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_23__para_g",
-      "@type": "akn:paragraph",
-      "eli:number": "g",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_23",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dalam subseksyen (5), dengan menggantikan perkataan “seksyen 13” dengan perkataan “subseksyen 13(6)”. Pindaan seksyen 24"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_24",
-      "@type": "akn:clause",
-      "eli:number": "24",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_24__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_24__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III",
-      "schema:name": {
-        "@language": "ms",
-        "@value": "Seksyen 24 Akta ibu dipinda—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_24__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_24",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan menggantikan subseksyen (7A) dengan subseksyen yang berikut: “(7A) Apa-apa jumlah lebihan berkenaan dengan cukai yang kena dibayar bagi suatu tahun taksiran yang kena dibayar balik kepada seseorang di bawah subseksyen (1) boleh digunakan oleh Ketua Pengarah bagi bayaran— (a) apa-apa amaun cukai lain yang genap masa dan kena dibayar (termasuk apa-apa amaun ansuran yang genap masa dan kena dibayar) oleh orang itu di bawah Akta ini, Akta Cukai Pendapatan 1967, Akta Petroleum (Cukai Pendapatan) 1967 [Akta 543] atau Akta Cukai Aktiviti Perniagaan Labuan 1990 [Akta 445]; atau (b) apa-apa amaun duti lain yang genap masa dan kena dibayar oleh orang itu di bawah Akta Setem 1949 [Akta 378].”; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_24__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_III__cl_24",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dalam subseksyen (7B), dengan menggantikan perkataan “subseksyen 111(4A) Akta Cukai Pendapatan 1967 atau subseksyen 50(4) Akta Petroleum (Cukai Pendapatan) 1967” dengan perkataan “subseksyen 80c(1) Akta Setem 1949, subseksyen 111(4A) Akta Cukai Pendapatan 1967, subseksyen 50(4) Akta Petroleum (Cukai Pendapatan) 1967 atau subseksyen 12(2) Akta Cukai Aktiviti Perniagaan Labuan 1990”."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV",
-      "@type": "akn:chapter",
-      "eli:number": "IV",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV__cl_25",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV__cl_26",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV__cl_27",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV__cl_28",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV__cl_29",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV__cl_30"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "PINDAAN KEPADA AKTA SETEM 1949 Permulaan kuat kuasa pindaan kepada Akta Setem 1949"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV__cl_25",
-      "@type": "akn:clause",
-      "eli:number": "25",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Bab ini mula berkuat kuasa pada 1 Januari 2026. Pindaan seksyen 2"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV__cl_26",
-      "@type": "akn:clause",
-      "eli:number": "26",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Akta Setem 1949, yang disebut “Akta ibu” dalam Bab ini, dipinda dalam seksyen 2 dengan memasukkan selepas takrif “property” takrif yang berikut: ‘ “residential property” means a house, condominium, apartment, flat, service apartment or small office home office solely to be used as a dwelling house;’. Pindaan seksyen 21"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV__cl_27",
-      "@type": "akn:clause",
-      "eli:number": "27",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Subseksyen 21(7) Akta ibu dipinda dengan memasukkan selepas perkataan “the Collector” perkataan “, on an application made within twenty-four months after the date of instrument by the person whom it was first or alone executed,”. Seksyen baharu 80c"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV__cl_28",
-      "@type": "akn:clause",
-      "eli:number": "28",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 80B seksyen yang berikut: “Power of Collector to utilize excess of duty 80c. (1) Any amount of excess in respect of duty payable which is to be refunded to a person under this Act may be utilized by the Collector for the payment of any other amount of— (a) duty which is due and payable by the person under this Act; or (b) tax which is due and payable (including any amount of instalments which are due and payable) by the person under the Income Tax Act 1967, the Petroleum (Income Tax) Act 1967 [Act 543], the Real Property Gains Tax Act 1976 [Act 169] or the Labuan Business Activity Tax Act 1990 [Act 445]. (2) Where amount of excess in respect of a person is ascertained in accordance with subsection 111(4A) of the Income Tax Act 1967, subsection 50(4) of the Petroleum (Income Tax) Act 1967, subsection 24(7A) of the Real Property Gains Tax Act 1976 or subsection 12(2) of the Labuan Business Activity Tax Act 1990, the excess shall be applied for the payment of duty which is due and payable by the person under this Act.”. Pindaan Jadual Pertama"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV__cl_29",
-      "@type": "akn:clause",
-      "eli:number": "29",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV__cl_29__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV__cl_29__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV",
-      "schema:name": {
-        "@language": "ms",
-        "@value": "Jadual Pertama kepada Akta ibu dipinda—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV__cl_29__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV__cl_29",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "berhubung dengan butiran 4, dalam ruang “Description of Instrument”, di bawah “Exemptions”, dalam perenggan (b), dengan menggantikan perkataan “RM300 per month” dengan perkataan “RM3,000 per month”; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV__cl_29__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV__cl_29__para_b__subpara_i",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV__cl_29__para_b__subpara_ii"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV__cl_29",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "berhubung dengan butiran 32— Item Description of Instrument “(ab) On sale of any residential property from 1 January 2026 to a foreign company or a person who is not a citizen and not a permanent resident (iii) dalam ruang “Proper Stamp Duty”, dalam subperenggan (e)(i), dengan memasukkan selepas perkataan “Duty as in (a), (aa),” perkataan “(ab),”. Pindaan Jadual Ketiga"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV__cl_29__para_b__subpara_i",
-      "@type": "akn:subparagraph",
-      "eli:number": "i",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV__cl_29__para_b",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dalam ruang “Description of Instrument”, dalam perenggan (aa), dengan menggantikan perkataan “except stock,” dengan perkataan “except residential property, stock,”;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV__cl_29__para_b__subpara_ii",
-      "@type": "akn:subparagraph",
-      "eli:number": "ii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV__cl_29__para_b",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan memasukkan selepas perenggan (aa) dan butir-butir yang berhubungan dengannya perenggan dan butir-butir yang berikut:"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV__cl_30",
-      "@type": "akn:clause",
-      "eli:number": "30",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_IV",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Jadual Ketiga kepada Akta ibu dipinda dalam butiran 7, dalam ruang “Person liable to pay Duty”, dengan menggantikan perkataan “The parties in equal shares” dengan perkataan “The grantee or transferee”."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_V",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_V",
       "@type": "akn:chapter",
       "eli:number": "V",
       "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_V__cl_31",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_V__cl_32"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_V__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_V__cl_32"
       ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@",
       "schema:text": {
         "@language": "ms",
         "@value": "PINDAAN KEPADA AKTA CUKAI AKTIVITI PERNIAGAAN LABUAN 1990 Permulaan kuat kuasa pindaan kepada Akta Cukai Aktiviti Perniagaan Labuan 1990"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_VI",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_VI",
       "@type": "akn:chapter",
       "eli:number": "VI",
       "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_VI__cl_33",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_VI__cl_34"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_VI__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_VI__cl_34"
       ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@",
       "schema:text": {
         "@language": "ms",
         "@value": "PINDAAN KEPADA AKTA PETROLEUM (CUKAI PENDAPATAN) 1967 Permulaan kuat kuasa pindaan kepada Akta Petroleum (Cukai Pendapatan) 1967"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_VI__cl_33",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_VI__cl_33",
       "@type": "akn:clause",
       "eli:number": "33",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_VI",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_VI",
       "schema:text": {
         "@language": "ms",
         "@value": "Bab ini mula berkuat kuasa pada 1 Januari 2026. Pindaan seksyen 50"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_VI__cl_34",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_VI__cl_34",
       "@type": "akn:clause",
       "eli:number": "34",
       "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_VI__cl_34__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_VI__cl_34__para_b"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_VI__cl_34__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_VI__cl_34__para_b"
       ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_VI",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_VI",
       "schema:name": {
         "@language": "ms",
         "@value": "Akta Petroleum (Cukai Pendapatan) 1967 dipinda dalam seksyen 50—"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_VI__cl_34__para_a",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_VI__cl_34__para_a",
       "@type": "akn:paragraph",
       "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_VI__cl_34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_VI__cl_34",
       "schema:text": {
         "@language": "ms",
         "@value": "dengan menggantikan subseksyen (4) dengan subseksyen yang berikut: “(4) Any amount of excess in respect of tax payable for a year of assessment which is to be refunded to a person under subsection (1) may be utilized by the Director General for the payment of— (a) any other amount of tax which is due and payable (including any amount of instalments which are due and payable) by the person under this Act, the Income Tax Act 1967, the Real Property Gains Tax Act 1976 [Act 169] or the Labuan Business Activity Tax Act 1990 [Act 445]; or (b) any other amount of duty which is due and payable by the person under the Stamp Act 1949 [Act 378].”; dan"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_VI__cl_34__para_b",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_VI__cl_34__para_b",
       "@type": "akn:paragraph",
       "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_VI__cl_34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_VI__cl_34",
       "schema:text": {
         "@language": "ms",
         "@value": "dalam subseksyen (5), dengan menggantikan perkataan “subsection 111(4A) of the Income Tax Act 1967 or subsection 24(7A) of the Real Property Gains Tax Act 1976” dengan perkataan “subsection 80c(1) of the Stamp Act 1949, subsection 111(4A) of the Income Tax Act 1967, subsection 24(7A) of the Real Property Gains Tax Act 1976 or subsection 12(2) of the Labuan Business Activity Tax Act 1990”."
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_V__cl_31",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_V__cl_31",
       "@type": "akn:clause",
       "eli:number": "31",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_V",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_V",
       "schema:text": {
         "@language": "ms",
         "@value": "Bab ini mula berkuat kuasa pada 1 Januari 2026. Pindaan seksyen 12"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_V__cl_32",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_V__cl_32",
       "@type": "akn:clause",
       "eli:number": "32",
       "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_V__cl_32__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_V__cl_32__para_b"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_V__cl_32__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_V__cl_32__para_b"
       ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_V",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_V",
       "schema:name": {
         "@language": "ms",
         "@value": "Akta Cukai Aktiviti Perniagaan Labuan 1990 dipinda dalam seksyen 12—"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_V__cl_32__para_a",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_V__cl_32__para_a",
       "@type": "akn:paragraph",
       "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_V__cl_32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_V__cl_32",
       "schema:text": {
         "@language": "ms",
         "@value": "dengan menomborkan semula seksyen sedia ada sebagai subseksyen (1); dan"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_V__cl_32__para_b",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_V__cl_32__para_b",
       "@type": "akn:paragraph",
       "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__chp_V__cl_32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~chp_V__cl_32",
       "schema:text": {
         "@language": "ms",
         "@value": "dengan memasukkan selepas subseksyen (1) yang dinomborkan semula itu subseksyen yang berikut: “(2) Apa-apa jumlah lebihan berkenaan dengan cukai yang kena dibayar bagi suatu tahun taksiran yang kena dibayar balik kepada entiti Labuan di bawah subseksyen (1) boleh digunakan oleh Ketua Pengarah bagi bayaran— (a) apa-apa amaun cukai lain yang genap masa dan kena dibayar (termasuk apa-apa amaun ansuran yang genap masa dan kena dibayar) oleh entiti Labuan itu di bawah Akta ini, Akta Cukai Pendapatan 1967, Akta Petroleum (Cukai Pendapatan) 1967 [Akta 543] atau Akta Cukai Keuntungan Harta Tanah 1976 [Akta 169]; atau (b) apa-apa amaun duti lain yang genap masa dan kena dibayar oleh entiti Labuan itu di bawah Akta Setem 1949 [Akta 378]. (3) Jika amaun lebihan berkenaan dengan suatu entiti Labuan ditentukan mengikut subseksyen 80c(1) Akta Setem 1949, subseksyen 111(4A) Akta Cukai Pendapatan 1967, subseksyen 50(4) Akta Petroleum (Cukai Pendapatan) 1967 atau subseksyen 24(7A) Akta Cukai Keuntungan Harta Tanah 1976, lebihan itu hendaklah digunakan bagi pembayaran cukai yang genap masa dan kena dibayar (termasuk apa-apa amaun ansuran yang genap masa dan kena dibayar) oleh entiti Labuan itu di bawah Akta ini.”."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__cl_18",
-      "@type": "akn:clause",
-      "eli:number": "18",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__cl_18__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__cl_18__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII",
-      "schema:name": {
-        "@language": "ms",
-        "@value": "Jadual 6 kepada Akta ibu dipinda—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__cl_18__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__cl_18",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan menggantikan perenggan 12c dengan perenggan yang berikut: “12c. Any profit paid, credited or distributed, whether in cash or in kind, to partners other than an individual, by a limited liability partnership.”; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__cl_18__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/38/msa@/~part_XXII__cl_18",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan memasukkan selepas perenggan 12c perenggan yang berikut: “12d. Any profit paid, credited or distributed, whether in cash or in kind, to a partner who is an individual, by a limited liability partnership, amounting to one hundred thousand ringgit or less.”."
       }
     }
   ]

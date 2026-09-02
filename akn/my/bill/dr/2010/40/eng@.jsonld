@@ -1,0 +1,1378 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-40-2010",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_6"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "International Islamic Liquidity Management Corporation Bill 2010"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_10__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Corporation may waive any privileges and immunities conferred upon any person under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), the Corporation shall have a duty to waive any privileges and immunities conferred under this Act in cases where the privileges and immunities conferred would impede the administration of justice."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the International Islamic Liquidity Management Corporation Act 2010."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act is deemed to have come into operation on 25 October 2010. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "“this Act” includes any subsidiary legislation made under this Act; “trust or fund of the Corporation” means a trust or fund established by the Corporation to fulfill its objectives or to carry out any of its functions under the Articles of Agreement; “Pool of Assets” means the Shariah compliant assets contributed by the asset providers to the Corporation; “Bank” means Bank Negara Malaysia established under the Central Bank of Malaysia Act 2009 [Act 701]; “national interest” includes security, economic, social and political interests which would be beneficial or is important to Malaysia; “chief executive officer” means a person by whatever name called who is responsible for the conduct of the business and administration of the Corporation; “Governing Board” means the Governing Board of the Corporation; “Corporation” means the International Islamic Liquidity Management Corporation; “General Assembly” means the General Assembly of the Corporation; “Articles of Agreement” means the agreement for the establishment of the Corporation and includes any amendment, addition, modification or alteration made from time to time; “Islamic securities” means any securities issued by the Corporation, a subsidiary, a special purpose vehicle or a trust or fund of the Corporation pursuant to a scheme of financing in accordance with the principles of Shariah approved by the Shariah Committee of the Corporation; “special purpose vehicle” means a company established solely for the issuance of Islamic securities, by the Corporation or a subsidiary; “subsidiary” means a subsidiary established by the Corporation to fulfill its objectives or to carry out any of its functions under the Articles of Agreement. Corporation Corporation to be an international organization"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Corporation is conferred the status of an international organization for the purpose of this Act and shall be governed in accordance with the provisions of the Articles of Agreement. Juridical personality, common seal and powers of the Corporation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_4__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Corporation has juridical personality and perpetual succession and subject to this Act, has all such legal capacities as are necessary for the exercise of its powers and the performance of its functions in accordance with the Articles of Agreement."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_4__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_4__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_4__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1), the Corporation has the power to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_4__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_4__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "contract;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_4__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_4__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "acquire, hold and dispose of tangible and intangible property; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_4__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_4__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "institute legal proceedings."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Corporation may have a common seal and may use it for the purposes set out under this section or for such other matters as may be agreed by the Governing Board. Authorization to become a member of the Corporation and to sign the Articles of Agreement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_5__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Bank is authorized to become a member of the Corporation and to sign the Articles of Agreement and exercise the rights or perform the duties or functions in respect of its membership subject to the provisions of the Central Bank of Malaysia Act 2009."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_5__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_5__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Pursuant to subsection (1), the Bank may—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_5__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "cooperate in any arrangement, scheme, programme or initiative with the Corporation and use its best endeavours towards achieving its common objectives with the Corporation for the furtherance of Islamic finance; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_5__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "accept any payment made to it by the Corporation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_5__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_5__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Bank may, for the purpose of Malaysia being the host country of the Corporation—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_5__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_5__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "grant, donate, lend or advance any sum of money to the Corporation in accordance with the principles of Shariah for the establishment and continued existence of the Corporation, subject to the prior written approval of the Minister charged with the responsibility for finance; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_5__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_5__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "allow the Corporation to occupy and use, whether by lease or otherwise, the immoveable property of the Bank or procure the lease of any other property for the purpose of the Corporation, its officers including the chief executive officer or any member of a committee of the Corporation. Power of the Minister to confer the status of international organization and juridical personality upon a subsidiary"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_6__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister charged with the responsibility for foreign affairs may confer the status of international organization and juridical personality upon a subsidiary for the purpose of this Act by regulations subject to the conditions prescribed in such regulations."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection (1) shall not apply to a subsidiary established under any written law in Malaysia. Power of the Minister to confer privileges and immunities"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister charged with the responsibility for foreign affairs may by regulations, subject to the conditions prescribed in such regulations, confer upon—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Corporation or a subsidiary conferred with the status of international organization under subsection 6(1), all or any of the privileges and immunities specified in Schedule 1;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "who is, or is performing the duties of, the chief executive officer of the Corporation, all or any of the privileges and immunities specified in Part I of Schedule 2; and Corporation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "who was, or has ceased to perform the duties of, the chief executive officer of the Corporation, the immunities specified in Part II of Schedule 2;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "who is a representative of a member of the Governing Board and is performing his duties pursuant to the Articles of Agreement, all or any of the privileges and immunities specified in Part I of Schedule 3;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "accredited to, or is in attendance at an international conference or meeting that is convened by, the Corporation as a representative of a member of the General Assembly, all or any of the privileges and immunities specified in Part I of Schedule 3; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "who has ceased to be a representative of a member of the Governing Board, or was a person accredited to, or was in attendance at the conference or meeting convened by, the Corporation as a representative of a member of the General Assembly, the immunities specified in Part II of Schedule 3;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "who is serving on the committee of the Corporation, all or any of the privileges and immunities specified in Part I of Schedule 4; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "who was, or has ceased serving on the committee of the Corporation, the immunities specified in Part II of Schedule 4;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_e__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "who is an officer of the Corporation, all or any of the privileges and immunities specified in Part I of Schedule 5; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "who was, or has ceased to perform the duties of, an officer of the Corporation, the immunities specified in Part II of Schedule 5;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a subsidiary, a special purpose vehicle, a trust or fund of the Corporation, or any other person in relation to Islamic securities issued or guaranteed by the Corporation, a subsidiary, a special purpose vehicle or a trust or fund of the Corporation, as the case may be, all or any of the privileges specified in Part I of Schedule 6; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person who is an officer of a subsidiary, a special purpose vehicle or a trust or fund of the Corporation, all or any of the privileges specified in Part II of Schedule 6."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person conferred the privileges and immunities under subparagraph (1)(c)(i) and (ii) enjoys the same privileges and immunities while travelling to a place for the purpose of performing his duties as a representative of a member of the Governing Board or attending the conference or meeting and while returning from a place after performing his duties or attending the conference or meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person conferred the privileges and immunities under subparagraph (1)(d)(i) enjoys the same privileges and immunities while travelling to a place for the purpose of serving on the committee and while returning from a place after serving the committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The privileges and immunities that are conferred under subparagraph (1)(c)(i) and (ii) and subparagraph (1)(d)(i) applies to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an alternate or deputy of, or substitute for, a representative of a member of the Governing Board; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an adviser to a person, accredited to or in attendance at an international conference or meeting that is convened by the Corporation, as a representative of a member of the General Assembly."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A Malaysian citizen shall not be entitled to any privileges and immunities conferred under this Act, except immunity from suit and legal process in respect of acts and things done in his official capacity for the purpose of the Corporation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any privileges and immunities with respect to matters relating to finance shall only be conferred with the consent of the Minister charged with the responsibility for finance. Corporation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of paragraphs (1)(e) and (g), an “officer” means an officer who is working full time with the Corporation or a subsidiary, as the case may be, or whose rank shall be as prescribed by the Minister charged with the responsibility for foreign affairs by regulations. No immunity in certain circumstances"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_8__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_8__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Any immunity conferred under this Act shall not be applicable in respect of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a civil action arising from a commercial transaction;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a civil action by a third party for damage arising from an accident caused by a motor vehicle or other means of transport;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a criminal offence under any written law; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_8__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any matter affecting the national interest of Malaysia. Authority to hold land in the Federation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_9__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding the provisions of any written law to the contrary, the Corporation may own or hold or be granted, alienated, leased or transferred to, any land or any interest in any land in any part of the Federation, for the purposes of the Corporation or the residence or office of the chief executive officer or the officers of the Corporation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The land or interest referred to in subsection (1) may be held by the Corporation in its name or its behalf by any person nominated for the purposes of this subsection either generally or in a particular case by writing addressed to the Minister charged with the responsibility for foreign affairs by or on behalf of the Corporation, as the case may be, and the Corporation or person, as the case may be, shall be registered accordingly as proprietor, lessee or otherwise, as the case may require, in any register kept under the provisions of the National Land Code."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of any dealing in any land or interest in any land vested in the name of the Corporation, any person authorized for the purposes of this subsection either generally or in any particular case by writing addressed to the Minister charged with the responsibility for foreign affairs by or on behalf of the Corporation may, by virtue of such authorization, execute all or any instruments and do any act or thing for giving effect to any dealing with such land on behalf of the Corporation in the same manner and to the like extent as if such person had been authorized thereto by a valid power of attorney duly delivered under the provisions of the National Land Code. Waiver"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Paragraph 7(1)(a)] PRIVILEGES AND IMMUNITIES OF THE CORPORATION OR A SUBSIDIARY"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Immunity from suit and from other legal process in respect of acts and things done in its official capacity."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Inviolability of property and assets of, or in the custody of, or administered by, the Corporation or a subsidiary, as the case may be, (excluding any property or assets in the Pool of Assets) and of premises of, or occupied by, the Corporation or a subsidiary, as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Inviolability of documents."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to any written law relating to exchange control, exemption from currency and exchange restrictions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_5__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_5__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_5__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_5__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to compliance with such conditions as the Minister charged with the responsibility for finance may prescribe for the protection of revenue, exemption from all duties and taxes, including capital gains tax on—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "goods imported or exported by the Corporation or a subsidiary, as the case may be, for its official use; Corporation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "locally manufactured goods procured by the Corporation or a subsidiary, as the case may be, for its official use;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "official publications of the Corporation or a subsidiary, as the case may be, imported or exported by it;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_5__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "income arising or distributed from the issuance of Islamic securities by the Corporation or a subsidiary, as the case may be;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_5__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any coupon or discount in the form of profit rate, gains, rental payment or by whatever name called, distributed, paid or credited to any person in respect of any Islamic securities issued by the Corporation or a subsidiary, as the case may be; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_5__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "capital gains, reserves or income, either distributed or not, declared by the Corporation or a subsidiary, as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_6",
+      "@type": "akn:paragraph",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Exemption from income tax, real property gains tax and stamp duties that ordinarily would be payable by the Corporation or a subsidiary, as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_7",
+      "@type": "akn:paragraph",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Exemption from all taxes on all dealings relating to the sale, purchase, transfer or other disposition or acquisition of movable or immovable property required pursuant to a scheme of financing in accordance with the principles of Shariah approved by the Shariah Committee of the Corporation for the purpose of issuance of Islamic securities by the Corporation or a subsidiary, as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1__para_8",
+      "@type": "akn:paragraph",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Absence of censorship for official communications."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_2",
+      "@type": "akn:schedule",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_2__part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_2__part_II"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Paragraph 7(1)(b)]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_2__part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_2__part_I__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_2__part_I__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_2__part_I__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_2__part_I__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_2__part_I__para_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_2__part_I__para_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_2__part_I__para_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRIVILEGES AND IMMUNITIES OF A CHIEF EXECUTIVE OFFICER OF THE CORPORATION"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_2__part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "IMMUNITIES OF A FORMER CHIEF EXECUTIVE OFFICER OF THE CORPORATION Immunity from suit and from other legal process in respect of acts and things done in his official capacity as a chief executive officer."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_2__part_I__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_2__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Immunity from suit and from other legal process in respect of acts and things done in his official capacity."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_2__part_I__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_2__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Exemption from income tax on official salaries, emoluments, fees and bonuses."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_2__part_I__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_2__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Exemption (including exemption of spouse and children under the age of twenty-one years) from the application of laws relating to immigration and the registration of aliens."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_2__part_I__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_2__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Exemption from the obligation to perform national service."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_2__part_I__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_2__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to any written law relating to exchange control, exemption from currency and exchange restrictions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_2__part_I__para_6",
+      "@type": "akn:paragraph",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_2__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Repatriation facilities (including repatriation facilities for spouse and any dependent relatives) in time of international crisis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_2__part_I__para_7",
+      "@type": "akn:paragraph",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_2__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The right to import furniture and personal effects, including one motor vehicle, free of duties and taxes when first taking up a post in the Corporation in Malaysia and to export furniture and personal effects free of duties and taxes when leaving Malaysia on termination of his functions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_3",
+      "@type": "akn:schedule",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_3__part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_3__part_II"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Paragraph 7(1)(c)]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_3__part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_3__part_I__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_3__part_I__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_3__part_I__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_3__part_I__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_3__part_I__para_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRIVILEGES AND IMMUNITIES OF A REPRESENTATIVE OF A MEMBER OF THE GOVERNING BOARD AND PERSON ACCREDITED TO, OR IS IN ATTENDANCE AT THE CONFERENCE OR MEETING CONVENED BY, THE CORPORATION AS A REPRESENTATIVE OF A MEMBER OF THE GENERAL ASSEMBLY"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_3__part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "IMMUNITIES OF A FORMER REPRESENTATIVE OF A MEMBER OF THE GOVERNING BOARD AND PERSON ACCREDITED TO, OR WAS IN ATTENDANCE AT THE CONFERENCE OR MEETING CONVENED BY, THE CORPORATION AS A REPRESENTATIVE OF A MEMBER OF THE GENERAL ASSEMBLY Immunity from suit and from other legal process in respect of acts and things done in his official capacity as such a member or representative, as the case may be. Corporation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_3__part_I__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_3__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Immunity from personal arrest or detention."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_3__part_I__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_3__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Immunity from suit and from other legal process in respect of acts and things done in his official capacity as such a member or a representative, as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_3__part_I__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_3__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Inviolability of documents."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_3__part_I__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_3__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Absence of censorship for official communications."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_3__part_I__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_3__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to any written law relating to exchange control, exemption from currency and exchange restrictions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_4",
+      "@type": "akn:schedule",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_4__part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_4__part_II"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Paragraph 7(1)(d)]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_4__part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_4__part_I__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_4__part_I__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_4__part_I__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_4__part_I__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_4__part_I__para_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_4__part_I__para_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRIVILEGES AND IMMUNITIES OF A PERSON SERVING ON THE COMMITTEE OF THE CORPORATION"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_4__part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "IMMUNITIES OF A PERSON WHO HAS SERVED ON THE COMMITTEE OF THE CORPORATION Immunity from suit and from other legal process in respect of acts and things done in his official capacity as a person serving on the committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_4__part_I__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_4__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Immunity from personal arrest or detention."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_4__part_I__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_4__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Immunity from suit and from other legal process in respect of acts and things done in serving on the committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_4__part_I__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_4__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Inviolability of documents."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_4__part_I__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_4__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Absence of censorship for official communications."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_4__part_I__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_4__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to any written law relating to exchange control, exemption from currency and exchange restrictions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_4__part_I__para_6",
+      "@type": "akn:paragraph",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_4__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Exemption from income tax on official salaries, emoluments, fees and bonuses received for serving on the committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_5",
+      "@type": "akn:schedule",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_5__part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_5__part_II"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Paragraph 7(1)(e)]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_5__part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_5__part_I__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_5__part_I__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_5__part_I__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_5__part_I__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_5__part_I__para_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_5__part_I__para_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_5__part_I__para_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRIVILEGES AND IMMUNITIES OF AN OFFICER OF THE CORPORATION"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_5__part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "IMMUNITIES OF A FORMER OFFICER OF THE CORPORATION Immunity from suit and from other legal process in respect of acts and things done in his official capacity as an officer."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_5__part_I__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_5__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Immunity from suit and from other legal process in respect of acts and things done in his official capacity."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_5__part_I__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_5__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Exemption from income tax on official salaries, emoluments, fees and bonuses."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_5__part_I__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_5__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Exemption (including exemption of spouse and children under the age of twenty-one years) from the application of laws relating to immigration and the registration of aliens."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_5__part_I__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_5__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Exemption from the obligation to perform national service."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_5__part_I__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_5__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to any written law relating to exchange control, exemption from currency and exchange restrictions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_5__part_I__para_6",
+      "@type": "akn:paragraph",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_5__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Repatriation facilities (including repatriation facilities for spouse and any dependent relatives) in time of international crisis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_5__part_I__para_7",
+      "@type": "akn:paragraph",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_5__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The right to import furniture and personal effects, including one motor vehicle, free of duties and taxes when first taking up a post in Malaysia and to export furniture and personal effects free of duties and taxes when leaving Malaysia on termination of his functions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_6",
+      "@type": "akn:schedule",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_6__part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_6__part_II"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Paragraphs 7(1)(f) and (g)]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_6__part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_6__part_I__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_6__part_I__para_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRIVILEGES OF A SUBSIDIARY, A SPECIAL PURPOSE VEHICLE, A TRUST OR FUND OF THE CORPORATION, OR ANY OTHER PERSON IN RELATION TO ISLAMIC SECURITIES ISSUED OR GUARANTEED BY THE CORPORATION, A SUBSIDIARY, A SPECIAL PURPOSE VEHICLE OR A TRUST OR FUND OF THE CORPORATION"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_6__part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRIVILEGES OF AN OFFICER OF A SUBSIDIARY, A SPECIAL PURPOSE VEHICLE OR A TRUST OR FUND OF THE CORPORATION Exemption from income tax on official salaries, emoluments, fees and bonuses."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_6__part_I__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_6__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Exemption from stamp duties that would ordinarily be payable by a subsidiary, a special purpose vehicle, a trust or fund of the Corporation, or any other person in relation to Islamic securities issued or guaranteed by the Corporation, a subsidiary, a special purpose vehicle or a trust or fund of the Corporation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_6__part_I__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_6__part_I__para_2__subpara_iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_6__part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Exemption from all taxes— (i) on any capital gains, reserves or income, either distributed or not, declared by a subsidiary, a special purpose vehicle or a trust or fund of the Corporation; (ii) on any coupon or discount, as the case may be, in the form of profit rate, gains, rental payment or by whatever name called, distributed, paid or credited to any person in respect of any Islamic securities issued by a subsidiary, a special purpose vehicle or a trust or fund of the Corporation; and Corporation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_6__part_I__para_2__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/40/eng@/~sched_6__part_I__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "on any dealings relating to the sale, purchase, transfer or other disposition or acquisition of movable or immovable property required pursuant to a scheme of financing in accordance with the principles of Shariah approved by the Shariah Committee of the Corporation for the purpose of issuance of Islamic securities by a subsidiary, a special purpose vehicle or a trust or fund of the Corporation."
+      }
+    }
+  ]
+}

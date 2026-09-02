@@ -16,7 +16,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Short title and commencement
 
-1. (1) This Act may be cited as the Anti-Money Laundering Act 2001.
+1. (1) This Act may be cited as the Anti-Money Laundering Act
+
+2001.
 
 (2) This Act comes into operation on a date to be appointed by the Minister of Finance by notification in the Gazette.
 
@@ -220,7 +222,9 @@ or by any judge, magistrate or officer of such a court, as the case may be;
 
 money laundering, commits an offence and shall on conviction be liable to a fine not exceeding five million ringgit or to imprisonment for a term not exceeding five years or both.
 
-(2) A person may be convicted of an offence under subsection (1) irrespective of whether there is a conviction in respect of a serious offence or foreign serious offence or that a prosecution has been initiated for the commission of a serious offence or foreign serious offence.
+(2) A person may be convicted of an offence under subsection
+
+(1) irrespective of whether there is a conviction in respect of a serious offence or foreign serious offence or that a prosecution has been initiated for the commission of a serious offence or foreign serious offence.
 
 ### Protection of informers and information
 
@@ -402,7 +406,9 @@ commits an offence and shall on conviction be liable to a fine not exceeding fif
 
 and shall also include such other information as the competent authority may specify in writing.
 
-(4) For the purposes of this Part, multiple cash transactions in the domestic or foreign currency which, in aggregate, exceeds the amount specified by the competent authority pursuant to subsection (1) shall be treated as a single transaction if they are undertaken by or on behalf of any one person during any one day or such other period as the competent authority may specify.
+(4) For the purposes of this Part, multiple cash transactions in the domestic or foreign currency which, in aggregate, exceeds the amount specified by the competent authority pursuant to subsection
+
+(1) shall be treated as a single transaction if they are undertaken by or on behalf of any one person during any one day or such other period as the competent authority may specify.
 
 ### Report by reporting institutions
 
@@ -618,7 +624,9 @@ and that person shall give such document or information as the examiner may requ
 
 the competent authority or the relevant enforcement agency shall cause an investigation to be made and for such purpose may exercise all the powers of investigation provided for under this Act.
 
-(2) The competent authority or the relevant enforcement agency, as the case may be, may instruct any person to take such steps as may be necessary to facilitate an investigation under subsection (1).
+(2) The competent authority or the relevant enforcement agency, as the case may be, may instruct any person to take such steps as may be necessary to facilitate an investigation under subsection
+
+(1).
 
 (3) The competent authority and the relevant enforcement agency shall co-ordinate and co-operate with any other enforcement agency in and outside Malaysia, with respect to an investigation into any serious offence or foreign serious offence, as the case may be.
 
@@ -690,7 +698,11 @@ the competent authority or the relevant enforcement agency shall cause an invest
 
 (5) A person making a statement under paragraph (2)(c) shall be legally bound to state the truth, whether or not such statement is made wholly or partly in answer to the questions of the investigating officer.
 
-(6) An investigating officer examining a person under subsection (2) shall first inform that person of the provisions of subsections (4) and (5).
+(6) An investigating officer examining a person under subsection
+
+(2) shall first inform that person of the provisions of subsections
+
+(4) and (5).
 
 (7) A statement made by any person under paragraph (2)(c) shall, whenever possible, be reduced into writing and signed by the person making it or affixed with his thumb print—
 
@@ -898,7 +910,9 @@ arrested shall be dealt with according to the law relating to criminal procedure
 
 45. (1) In the course of an investigation into an offence under subsection 4(1), an investigating officer may, upon obtaining approval from an investigating officer senior in rank to him, seize any movable property which he has reasonable grounds to suspect to be the subject-matter of such offence or evidence relating to such offence.
 
-(2) A list of all movable property seized pursuant to subsection (1) and of the places in which they are respectively found shall be prepared by the investigating officer effecting the seizure and signed by him.
+(2) A list of all movable property seized pursuant to subsection
+
+(1) and of the places in which they are respectively found shall be prepared by the investigating officer effecting the seizure and signed by him.
 
 (3) A copy of the list referred to in subsection (2) shall be served as soon as possible on the owner of such property or on the person from whom the property was seized.
 
@@ -1002,7 +1016,9 @@ of the properties so identified was acquired and the manner in which it was acqu
 
 (ff) setting out all his sources of income, earnings or property.
 
-(2) An officer of any financial institution, or any person who is in any manner or to any extent responsible for the management and control of the affairs of any financial institution, shall furnish a copy of all accounts, books, records, reports or documents relating to any person to whom a notice may be issued under subsection (1).
+(2) An officer of any financial institution, or any person who is in any manner or to any extent responsible for the management and control of the affairs of any financial institution, shall furnish a copy of all accounts, books, records, reports or documents relating to any person to whom a notice may be issued under subsection
+
+(1).
 
 (3) Every person to whom a notice is sent by the Public Prosecutor under subsection (1) shall, notwithstanding any law or rule of law to the contrary, comply with the terms of the notice within such time as may be specified in the notice, and any person who wilfully neglects or fails to comply with the terms of the notice commits an offence and shall on conviction be liable to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding one year or to both, and, in the case of a continuing offence, to a further fine not exceeding one thousand ringgit for each day during which the offence continues after conviction.
 
@@ -1044,9 +1060,13 @@ of the properties so identified was acquired and the manner in which it was acqu
 
 (4) Subsection (3) shall not apply to a dealing effected by an officer of a public body in his capacity as such officer, or otherwise by or on behalf of the Federal Government of Malaysia or the Government of a State, or a local authority or other statutory authority.
 
-(5) Any person who contravenes subsection (2) or (3) or does any act which results in, or causes, a contravention of subsection (2) or (3) commits an offence and shall on conviction be liable to a fine not exceeding twice the value of the property in respect of which the Public Prosecutor's order had been contravened, or one million ringgit, whichever is the higher, or to imprisonment for a term not exceeding one year or to both, and, in the case of a continuing offence, to a further fine not exceeding one thousand ringgit for each day during which the offence continues after conviction.
+(5) Any person who contravenes subsection (2) or (3) or does any act which results in, or causes, a contravention of subsection
 
-(6) Where a Notice of Seizure has been issued under subsection (1), a registered proprietor of the immovable property which is seized under such Notice, or any other person having any interest in such immovable property, who has knowledge of such Notice, and who knowingly enters into any agreement with any person to sell, transfer, or otherwise dispose of or deal with, the whole or any part of such immovable property, commits an offence and shall on conviction be liable to a fine not exceeding twice the value of such property, or one million ringgit, whichever is the higher, or to imprisonment for a term not exceeding one year or
+(2) or (3) commits an offence and shall on conviction be liable to a fine not exceeding twice the value of the property in respect of which the Public Prosecutor's order had been contravened, or one million ringgit, whichever is the higher, or to imprisonment for a term not exceeding one year or to both, and, in the case of a continuing offence, to a further fine not exceeding one thousand ringgit for each day during which the offence continues after conviction.
+
+(6) Where a Notice of Seizure has been issued under subsection
+
+(1), a registered proprietor of the immovable property which is seized under such Notice, or any other person having any interest in such immovable property, who has knowledge of such Notice, and who knowingly enters into any agreement with any person to sell, transfer, or otherwise dispose of or deal with, the whole or any part of such immovable property, commits an offence and shall on conviction be liable to a fine not exceeding twice the value of such property, or one million ringgit, whichever is the higher, or to imprisonment for a term not exceeding one year or
 
 <!-- page 45 -->
 
@@ -1132,7 +1152,9 @@ the enforcement agency may seize the business in the manner provided under this 
 
 <!-- page 49 -->
 
-(2) The judge to whom an application is made under subsection (1) shall make an order for the forfeiture of the property if he is satisfied—
+(2) The judge to whom an application is made under subsection
+
+(1) shall make an order for the forfeiture of the property if he is satisfied—
 
 (a) that the property is the subject-matter of or was used in the commission of an offence under subsection 4(1); and
 
@@ -1176,7 +1198,9 @@ the enforcement agency may seize the business in the manner provided under this 
 
 the court may, if it considers it appropriate, assess in accordance with the manner prescribed by the Minister of Home Affairs by order published in the Gazette, the value of the benefits so derived and order that person to pay to the Federal Government a pecuniary penalty equal to the amount.
 
-(3) Where a forfeiture order has been made under sections 55 and 56 against any property that is proceeds of an offence under subsection 4(1), the pecuniary penalty to be paid under subsection (2) shall be reduced by an amount equal to the value of the property as at the time of making the order under subsection (2).
+(3) Where a forfeiture order has been made under sections 55 and 56 against any property that is proceeds of an offence under subsection 4(1), the pecuniary penalty to be paid under subsection
+
+(2) shall be reduced by an amount equal to the value of the property as at the time of making the order under subsection (2).
 
 (4) In determining whether or not any benefit is derived from an offence under subsection 4(1) the court shall apply the standard of proof required in civil proceedings.
 
@@ -1380,7 +1404,9 @@ shall be admissible in evidence for the purpose of proving the matters referred 
 
 76. (1) For the purposes of any proceedings under this Act, the fact that a person has been convicted or acquitted of an offence by or before any court in Malaysia or by a foreign court shall be admissible in evidence for the purpose of proving, where relevant to any issue in the proceedings, that he committed or did not commit that offence, whether or not he is a party to the proceedings, and where he was convicted whether he was so convicted upon plea of guilt or otherwise.
 
-(2) The court shall accept the conviction referred to in subsection (1) as conclusive unless—
+(2) The court shall accept the conviction referred to in subsection
+
+(1) as conclusive unless—
 
 (a) it is subject to review or appeal that has not yet been determined;
 
@@ -1554,9 +1580,7 @@ one million ringgit or to a term of imprisonment not exceeding one year or to bo
 
 <!-- page 68 -->
 
-(4) Where an offence has been compounded under subsection
-
-(1), no prosecution shall be instituted in respect of the offence against the person to whom the offer to compound was made.
+(4) Where an offence has been compounded under subsection (1), no prosecution shall be instituted in respect of the offence against the person to whom the offer to compound was made.
 
 ### Prosecution
 
@@ -1594,41 +1618,79 @@ Offshore financial services as defined in the Labuan Offshore Financial Services
 
 [Section 3, definition of "serious offence"]
 
-Offences Description *
+<!-- marginal: Offences -->
 
-1. Subsection 4(1) Offence of money laundering of this Act
+Description *
+
+1.
+
+<!-- marginal: Subsection 4(1) -->
+
+Offence of money laundering
+
+<!-- marginal: of this Act -->
 
 ### Anti-Corruption Act 1997 [Act 575]
 
-2. Section 10 Offence of accepting gratification
+2.
 
-3. Offence in giving or accepting gratification by Section 11 agent
+<!-- marginal: Section 10 -->
 
-4. Section 12 Acceptor or giver of gratification to be guilty notwithstanding that purpose was not carried out or matter not in relation to principal's affairs or business
+Offence of accepting gratification
 
-5. Corruptly procuring withdrawal of tender Section 13
+3. Offence in giving or accepting gratification by
 
-Section 14 Bribery of officer of public body
+<!-- marginal: Section 11 -->
+
+agent
+
+4.
+
+<!-- marginal: Section 12 -->
+
+Acceptor or giver of gratification to be guilty notwithstanding that purpose was not carried out or matter not in relation to principal's affairs or business
+
+5. Corruptly procuring withdrawal of tender
+
+<!-- marginal: Section 13 -->
+
+<!-- marginal: Section 14 -->
+
+Bribery of officer of public body
 
 6.
 
-7. Section 15 Misuse of position
+7.
 
-8. Dealing with, using, holding, receiving or Section 18 concealing gratification or advantage in relation to any offence
+<!-- marginal: Section 15 -->
 
-Section 20
+Misuse of position
+
+8. Dealing with, using, holding, receiving or
+
+<!-- marginal: Section 18 -->
+
+concealing gratification or advantage in relation to any offence
+
+<!-- marginal: Section 20 -->
 
 9. Attempts, preparations, abetments and criminal conspiracies punishable as offences
 
 ### Banking and Financial Institutions Act 1989 [Act 372]
 
-Section 25 Receiving, taking or acceptance of deposits
+<!-- marginal: Section 25 -->
+
+Receiving, taking or acceptance of deposits
 
 10. prohibited except under and in accordance with a valid licence granted under section 6(4).
 
 ### Betting Act 1953 [Act 495]
 
-11. Common betting-houses and betting information Section 4 centres
+11. Common betting-houses and betting information
+
+<!-- marginal: Section 4 -->
+
+centres
 
 <!-- page 70 -->
 
@@ -1646,25 +1708,37 @@ Offences Description*
 
 ### Companies Act 1965 [Act 125]
 
-Section 27 Invitation to public by private companies 15.
+Section 27 Invitation to public by private companies
 
-Section 38 Invitation to public to lend or deposit money 16. with a corporation
+15.
 
-Section 366 Inducing persons to invest money 17.
+Section 38 Invitation to public to lend or deposit money
+
+16. with a corporation
+
+Section 366 Inducing persons to invest money
+
+17.
 
 ### Copyright Act 1987 [Act 332]
 
-Infringement of copyright 18. Section 41
+Infringement of copyright
+
+18. Section 41
 
 ### Corrosive and Explosive Substances and Offensive Weapons
 
 ### Act 1958 [Act 357]
 
-Section 3 Possession of corrosive or explosive substance 19. for the purpose of causing hurt
+Section 3 Possession of corrosive or explosive substance
+
+19. for the purpose of causing hurt
 
 ### Customs Act 1967 [Act 235]
 
-Smuggling offences 20. Section 135
+Smuggling offences
+
+20. Section 135
 
 ### Dangerous Drugs Act 1952 [Act 234]
 
@@ -1680,275 +1754,607 @@ Restriction on exportation of raw opium,
 
 22. Section 5 leaves, poppy-straw and cannabis
 
-Restriction on import and export of certain Section 12 23. dangerous drugs
+Restriction on import and export of certain Section 12
 
-Subsection 19(4) 24. Export of dangerous drugs
+23. dangerous drugs
+
+Subsection 19(4)
+
+24. Export of dangerous drugs
 
 25. Import of dangerous drugs Subsection 20(5)
 
 <!-- page 71 -->
 
-Offences Description*
+<!-- marginal: Offences -->
+
+Description*
 
 26. Section 39B Trafficking in dangerous drugs
 
 ### Dangerous Drugs (Forfeiture of Property) Act 1988 [Act 340]
 
-27. Use of property for activity constituting certain Section 3 offences
+27. Use of property for activity constituting certain
 
-Dealing with, or using, holding, receiving or 28. Section 4 concealing illegal property
+<!-- marginal: Section 3 -->
 
-29. Attempts, abetments and criminal conspiracies Section 56 punishable as offences
+offences
+
+Dealing with, or using, holding, receiving or
+
+28.
+
+<!-- marginal: Section 4 -->
+
+concealing illegal property
+
+29. Attempts, abetments and criminal conspiracies
+
+<!-- marginal: Section 56 -->
+
+punishable as offences
 
 ### Explosives Act 1957 [Act 207]
 
-30. Subsection 4(2) Power to prohibit the manufacture, possession or importation of specially dangerous explosives
+30.
 
-31. Section 5 Acts causing explosions or fire
+<!-- marginal: Subsection 4(2) -->
 
-32. Section 6 Causing explosion likely to endanger life or property
+Power to prohibit the manufacture, possession or importation of specially dangerous explosives
 
-Section 7 Attempt to cause explosion, or making or 33. keeping explosive with intent to endanger life or property
+31.
 
-34. Section 8 Making or possessing explosives under suspicious circumstances
+<!-- marginal: Section 5 -->
+
+Acts causing explosions or fire
+
+32.
+
+<!-- marginal: Section 6 -->
+
+Causing explosion likely to endanger life or property
+
+<!-- marginal: Section 7 -->
+
+Attempt to cause explosion, or making or
+
+33. keeping explosive with intent to endanger life or property
+
+34.
+
+<!-- marginal: Section 8 -->
+
+Making or possessing explosives under suspicious circumstances
 
 ### Futures Industry Act 1993 [Act 499]
 
-Section 3 Establishment of futures markets 35.
+<!-- marginal: Section 3 -->
 
-Section 16 Futures brokers to be licensed 36.
+Establishment of futures markets
 
-Futures fund managers to be licensed 37. Section 16A
+35.
 
-38. False trading Section 79
+<!-- marginal: Section 16 -->
 
-39. Bucketing Section 80
+Futures brokers to be licensed
 
-Manipulation of price of futures contract and 40. Section 82 cornering
+36.
+
+Futures fund managers to be licensed
+
+37.
+
+<!-- marginal: Section 16A -->
+
+38. False trading
+
+<!-- marginal: Section 79 -->
+
+39. Bucketing
+
+<!-- marginal: Section 80 -->
+
+Manipulation of price of futures contract and
+
+40.
+
+<!-- marginal: Section 82 -->
+
+cornering
 
 <!-- page 72 -->
 
-Offences Description*
+<!-- marginal: Offences -->
 
-Section 83 41. Employment of devices, etc., to defraud
+Description*
 
-Prohibition or abuse of information obtained in 42. Section 86 official capacity
+<!-- marginal: Section 83 -->
+
+41. Employment of devices, etc., to defraud
+
+Prohibition or abuse of information obtained in
+
+42.
+
+<!-- marginal: Section 86 -->
+
+official capacity
 
 ### Kidnapping Act 1961 [Act 365]
 
-Section 3 Abduction, wrongful restraint or wrongful 43. confinement for ransom
+<!-- marginal: Section 3 -->
 
-Knowingly receiving ransom 44. Section 5
+Abduction, wrongful restraint or wrongful
 
-Knowingly negotiating to obtain, or for Section 6 45. payment of, ransom
+43. confinement for ransom
+
+Knowingly receiving ransom
+
+44.
+
+<!-- marginal: Section 5 -->
+
+Knowingly negotiating to obtain, or for
+
+<!-- marginal: Section 6 -->
+
+45. payment of, ransom
 
 ### Optical Discs Act 2000 [Act 606]
 
-Manufacturing without a valid licence Section 4 46.
+Manufacturing without a valid licence
 
-Section 21 Applying false manufacturer's code 47.
+<!-- marginal: Section 4 -->
+
+46.
+
+<!-- marginal: Section 21 -->
+
+Applying false manufacturer's code
+
+47.
 
 ### Penal Code [Act 574]
 
-Public servant taking a gratification other than Section 161 48. legal remuneration, in respect of an official act
+Public servant taking a gratification other than
 
-Taking a gratification in order, by corrupt or Section 162 49. illegal means, to influence a public servant
+<!-- marginal: Section 161 -->
 
-Taking a gratification, for the exercise of Section 163 50. personal influence with a public servant
+48. legal remuneration, in respect of an official act
 
-Section 164 51. Abetment by public servant of the offences under section 163
+Taking a gratification in order, by corrupt or
 
-Public servant obtaining any valuable thing, Section 165 52. without consideration, from person concerned in any proceeding or business transacted by such public servant
+<!-- marginal: Section 162 -->
 
-Fraudulent claim to property to prevent its Section 207 53. seizure as a forfeiture or in execution of a decree
+49. illegal means, to influence a public servant
+
+Taking a gratification, for the exercise of
+
+<!-- marginal: Section 163 -->
+
+50. personal influence with a public servant
+
+<!-- marginal: Section 164 -->
+
+51. Abetment by public servant of the offences under section 163
+
+Public servant obtaining any valuable thing,
+
+<!-- marginal: Section 165 -->
+
+52. without consideration, from person concerned in any proceeding or business transacted by such public servant
+
+Fraudulent claim to property to prevent its
+
+<!-- marginal: Section 207 -->
+
+53. seizure as a forfeiture or in execution of a decree
 
 <!-- page 73 -->
 
-Offences Description *
+<!-- marginal: Offences -->
 
-54. Taking gifts, etc., to screen an offender from Section 213 punishment
+Description *
 
-55. Offering gift or restoration of property Section 214 in consideration of screening offender
+54. Taking gifts, etc., to screen an offender from
 
-56. Taking gift to help to recover stolen property, Section 215 etc.
+<!-- marginal: Section 213 -->
 
-57. Harbouring robbers or gang-robbers, etc. Section 216A
+punishment
 
-58. Public servant disobeying a direction of law Section 217 with intent to save person from punishment, or property from forfeiture
+55. Offering gift or restoration of property
+
+<!-- marginal: Section 214 -->
+
+in consideration of screening offender
+
+56. Taking gift to help to recover stolen property,
+
+<!-- marginal: Section 215 -->
+
+etc.
+
+57. Harbouring robbers or gang-robbers, etc.
+
+<!-- marginal: Section 216A -->
+
+58. Public servant disobeying a direction of law
+
+<!-- marginal: Section 217 -->
+
+with intent to save person from punishment, or property from forfeiture
 
 Public servant framing an incorrect record or
 
-59. Section 218 writing with intent to save person from punishment, or property from forfeiture
+59.
 
-60. Voluntarily causing hurt to extort property or Section 327 to constrain to an illegal act
+<!-- marginal: Section 218 -->
 
-Voluntarily causing grievous hurt to extort Section 329
+writing with intent to save person from punishment, or property from forfeiture
+
+60. Voluntarily causing hurt to extort property or
+
+<!-- marginal: Section 327 -->
+
+to constrain to an illegal act
+
+Voluntarily causing grievous hurt to extort
+
+<!-- marginal: Section 329 -->
 
 61. property, or to constrain to an illegal act
 
-62. Voluntarily causing hurt to extort confession or Section 330 to compel restoration of property
+62. Voluntarily causing hurt to extort confession or
 
-63. Voluntarily causing grievous hurt to extort Section 331 confession or to compel restoration of property
+<!-- marginal: Section 330 -->
 
-64. Wrongful confinement for the purpose of Section 347 extorting property or constraining to an illegal act
+to compel restoration of property
 
-65. Wrongful confinement for the purpose of Section 348 extorting confession or of compelling restoration of property
+63. Voluntarily causing grievous hurt to extort
+
+<!-- marginal: Section 331 -->
+
+confession or to compel restoration of property
+
+64. Wrongful confinement for the purpose of
+
+<!-- marginal: Section 347 -->
+
+extorting property or constraining to an illegal act
+
+65. Wrongful confinement for the purpose of
+
+<!-- marginal: Section 348 -->
+
+extorting confession or of compelling restoration of property
 
 Kidnapping
 
-66. Section 363
+66.
 
-67. Kidnapping or abducting in order to murder Section 364
+<!-- marginal: Section 363 -->
 
-68. Kidnapping or abducting with intent to secretly Section 365 and wrongfully to confine a person
+67. Kidnapping or abducting in order to murder
+
+<!-- marginal: Section 364 -->
+
+68. Kidnapping or abducting with intent to secretly
+
+<!-- marginal: Section 365 -->
+
+and wrongfully to confine a person
 
 <!-- page 74 -->
 
-Offences Description *
+<!-- marginal: Offences -->
+
+Description *
 
 Kidnapping or abducting a woman to compel
 
-69. Section 366 her marriage, etc.
+69.
+
+<!-- marginal: Section 366 -->
+
+her marriage, etc.
 
 Kidnapping or abducting in order to subject a
 
-70. Section 367 person to grievous hurt, slavery, etc.
+70.
 
-Wrongfully concealing or keeping in Section 368
+<!-- marginal: Section 367 -->
+
+person to grievous hurt, slavery, etc.
+
+Wrongfully concealing or keeping in
+
+<!-- marginal: Section 368 -->
 
 71. confinement a kidnapped person
 
-72. Kidnapping or abducting child under 10 years Section 369 with intent to steal moveable property from the person of such child
+72. Kidnapping or abducting child under 10 years
+
+<!-- marginal: Section 369 -->
+
+with intent to steal moveable property from the person of such child
 
 Buying or disposing of any person as a slave
 
-73. Section 370
+73.
 
-74. Habitual dealing in slaves Section 371
+<!-- marginal: Section 370 -->
+
+74. Habitual dealing in slaves
+
+<!-- marginal: Section 371 -->
 
 Selling minor for purposes of prostitution, etc.
 
-75. Section 372
+75.
+
+<!-- marginal: Section 372 -->
 
 Buying minor for purposes of prostitution, etc.
 
-76. Section 373
+76.
+
+<!-- marginal: Section 373 -->
 
 Importing for purpose of prostitution.
 
-77. Section 373 A
+77.
+
+<!-- marginal: Section 373 A -->
 
 Theft
 
-78. Section 379
+78.
+
+<!-- marginal: Section 379 -->
 
 Theft of a motor vehicle
 
-79. Section 379A
+79.
 
-Theft in dwelling house, etc. 80. Section 380
+<!-- marginal: Section 379A -->
 
-Theft by clerk or servant of property in Section 381 81. possession of master
+Theft in dwelling house, etc.
 
-Theft after preparation made for causing death Section 382 82. or hurt in order to the committing of the theft
+80.
 
-Extortion 83. Section 384
+<!-- marginal: Section 380 -->
 
-Putting person in fear of injury in order to 84. Section 385 commit extortion
+Theft by clerk or servant of property in
 
-Extortion by putting a person in fear of death Section 386 85. or grievous hurt
+<!-- marginal: Section 381 -->
 
-Putting person in fear of death or of grievous Section 387 86. hurt in order to commit extortion
+81. possession of master
+
+Theft after preparation made for causing death
+
+<!-- marginal: Section 382 -->
+
+82. or hurt in order to the committing of the theft
+
+Extortion
+
+83.
+
+<!-- marginal: Section 384 -->
+
+Putting person in fear of injury in order to
+
+84.
+
+<!-- marginal: Section 385 -->
+
+commit extortion
+
+Extortion by putting a person in fear of death
+
+<!-- marginal: Section 386 -->
+
+85. or grievous hurt
+
+Putting person in fear of death or of grievous
+
+<!-- marginal: Section 387 -->
+
+86. hurt in order to commit extortion
 
 <!-- page 75 -->
 
-<!-- marginal: 79 -->
+79 Anti-Money Laundering
 
-Anti-Money Laundering
+<!-- marginal: Offences -->
 
-Offences Description*
+Description*
 
-87. Putting person in fear of accusation of offence, Section 389 in order to commit extortion
+87. Putting person in fear of accusation of offence,
 
-88. Section 392 Robbery
+<!-- marginal: Section 389 -->
 
-89. Voluntary causing hurt in committing robbery Section 394
+in order to commit extortion
 
-90. Section 395 Gang-robbery
+88.
 
-91. Section 396 Gang-robbery with murder
+<!-- marginal: Section 392 -->
 
-92. Section 399 Making preparation to commit gang-robbery
+Robbery
 
-93. Section 400 Belonging to gang of robbers
+89. Voluntary causing hurt in committing robbery
 
-94. Section 402 Assembling for purpose of committing gang- robbery
+<!-- marginal: Section 394 -->
 
-95. Dishonest misappropriation of property Section 403
+90.
 
-Dishonest misappropriation of property Section 404 96. possessed by a deceased person at the time of his death
+<!-- marginal: Section 395 -->
 
-97. Criminal breach of trust Section 406
+Gang-robbery
 
-98. Criminal breach of trust by carrier, etc. Section 407
+91.
 
-99. Criminal breach of trust by clerk or servant Section 408
+<!-- marginal: Section 396 -->
 
-100. Criminal breach of trust by public servant, or Section 409 by banker, merchant or agent
+Gang-robbery with murder
 
-101. Section 411 Dishonestly receiving stolen property
+92.
 
-Section 412 Dishonestly receiving property stolen in the 102. commission of a gang-robbery
+<!-- marginal: Section 399 -->
 
-Habitually dealing in stolen property 103. Section 413
+Making preparation to commit gang-robbery
 
-104. Assisting in concealment of stolen property Section 414
+93.
 
-105. Section 420 Cheating and dishonestly inducing delivery of property
+<!-- marginal: Section 400 -->
+
+Belonging to gang of robbers
+
+94.
+
+<!-- marginal: Section 402 -->
+
+Assembling for purpose of committing gang- robbery
+
+95. Dishonest misappropriation of property
+
+<!-- marginal: Section 403 -->
+
+Dishonest misappropriation of property
+
+<!-- marginal: Section 404 -->
+
+96. possessed by a deceased person at the time of his death
+
+97. Criminal breach of trust
+
+<!-- marginal: Section 406 -->
+
+98. Criminal breach of trust by carrier, etc.
+
+<!-- marginal: Section 407 -->
+
+99. Criminal breach of trust by clerk or servant
+
+<!-- marginal: Section 408 -->
+
+100. Criminal breach of trust by public servant, or
+
+<!-- marginal: Section 409 -->
+
+by banker, merchant or agent
+
+101.
+
+<!-- marginal: Section 411 -->
+
+Dishonestly receiving stolen property
+
+<!-- marginal: Section 412 -->
+
+Dishonestly receiving property stolen in the
+
+102. commission of a gang-robbery
+
+Habitually dealing in stolen property
+
+103.
+
+<!-- marginal: Section 413 -->
+
+104. Assisting in concealment of stolen property
+
+<!-- marginal: Section 414 -->
+
+105.
+
+<!-- marginal: Section 420 -->
+
+Cheating and dishonestly inducing delivery of property
 
 <!-- page 76 -->
 
-Offences Description*
+<!-- marginal: Offences -->
 
-106. Dishonest or fraudulent removal or concealment Section 421 of property to prevent distribution among creditors
+Description*
+
+106. Dishonest or fraudulent removal or concealment
+
+<!-- marginal: Section 421 -->
+
+of property to prevent distribution among creditors
 
 Dishonest or fraudulently preventing from
 
-107. Section 422 being made available for his creditors a debt or demand due to the offender
+107.
 
-Section 424 Dishonest or fraudulent removal or
+<!-- marginal: Section 422 -->
 
-<!-- marginal: concealment -->
+being made available for his creditors a debt or demand due to the offender
+
+<!-- marginal: Section 424 -->
+
+Dishonest or fraudulent removal or concealment
 
 108. of consideration
 
-109. Forgery Section 465
+109. Forgery
 
-110. Forgery for the purpose of cheating Section 468
+<!-- marginal: Section 465 -->
 
-Forging or counterfeiting currency notes or Section 489A 111. bank notes
+110. Forgery for the purpose of cheating
 
-112. Possession of forged or counterfeit
+<!-- marginal: Section 468 -->
 
-<!-- marginal: currency -->
+Forging or counterfeiting currency notes or
 
-Section 489c notes or bank notes
+<!-- marginal: Section 489A -->
+
+111. bank notes
+
+112. Possession of forged or counterfeit currency
+
+<!-- marginal: Section 489c -->
+
+notes or bank notes
 
 ### Securities Industry Act 1983 [Act 280]
 
-113. Establishment of stock markets Section 7
+113. Establishment of stock markets
 
-114. Dealer's licence Section 12
+<!-- marginal: Section 7 -->
 
-115. Section 15A Fund manager's licence
+114. Dealer's licence
 
-116. Section 84 Market rigging
+<!-- marginal: Section 12 -->
 
-117. Market manipulation Section 85
+115.
 
-Section 87A Use of manipulative and deceptive devices 118.
+<!-- marginal: Section 15A -->
 
-Insider trading Section 89B 119.
+Fund manager's licence
+
+116.
+
+<!-- marginal: Section 84 -->
+
+Market rigging
+
+117. Market manipulation
+
+<!-- marginal: Section 85 -->
+
+<!-- marginal: Section 87A -->
+
+Use of manipulative and deceptive devices
+
+118.
+
+Insider trading
+
+<!-- marginal: Section 89B -->
+
+119.
 
 * Note.—The short description of offences in this Schedule is for reference only.
 

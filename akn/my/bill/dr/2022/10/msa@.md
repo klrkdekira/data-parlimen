@@ -30,45 +30,25 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (i) dengan menggantikan butiran 44 dengan butiran yang berikut:
 
-Gaji Caruman Caruman
-
-<!-- marginal: Jumlah -->
-
-Bulanan Majikan Pekerja
+Gaji Caruman Caruman Jumlah Bulanan Majikan Pekerja
 
 “44. Apabila gaji RM69.15 RM19.75 RM88.90”; melebihi RM3,900 tetapi tidak melebihi RM4,000
 
 (ii) dengan menggantikan butiran 45 dengan butiran yang berikut:
 
-Gaji Caruman Caruman
-
-<!-- marginal: Jumlah -->
-
-Bulanan Majikan Pekerja
+Gaji Caruman Caruman Jumlah Bulanan Majikan Pekerja
 
 “45. Apabila gaji RM70.85 RM20.25 RM91.10”; dan melebihi RM4,000 tetapi tidak melebihi RM4,100
 
 (iii) dengan memasukkan selepas butiran 45 butiran yang berikut:
 
-Gaji Caruman Caruman
-
-<!-- marginal: Jumlah -->
-
-Bulanan Majikan Pekerja
+Gaji Caruman Caruman Jumlah Bulanan Majikan Pekerja
 
 “46. Apabila gaji RM72.65 RM20.75 RM93.40 melebihi RM4,100 tetapi tidak melebihi RM4,200
 
 <!-- page 3 -->
 
-Gaji Caruman
-
-<!-- marginal: Caruman -->
-
-<!-- marginal: Jumlah -->
-
-Bulanan Majikan
-
-<!-- marginal: Pekerja -->
+Gaji Caruman Caruman Jumlah Bulanan Majikan Pekerja
 
 47. Apabila gaji RM74.35 RM21.25 RM95.60 melebihi RM4,200 tetapi tidak melebihi RM4,300
 
@@ -86,11 +66,7 @@ Bulanan Majikan
 
 <!-- page 4 -->
 
-Gaji Caruman Caruman
-
-<!-- marginal: Jumlah -->
-
-Bulanan Majikan Pekerja
+Gaji Caruman Caruman Jumlah Bulanan Majikan Pekerja
 
 54. Apabila gaji RM86.65 RM24.75 RM111.40 melebihi RM4,900 tetapi tidak melebihi RM5,000
 
@@ -100,91 +76,37 @@ Bulanan Majikan Pekerja
 
 (i) dengan menggantikan butiran 45 dengan butiran yang berikut:
 
-Gaji Bulanan
+Gaji Bulanan Caruman Majikan
 
-<!-- marginal: Caruman -->
-
-<!-- marginal: Majikan -->
-
-“45. Apabila gaji melebihi RM4,000
-
-<!-- marginal: RM50.60”; dan -->
-
-tetapi tidak melebihi RM4,100
+“45. Apabila gaji melebihi RM4,000 RM50.60”; dan tetapi tidak melebihi RM4,100
 
 (ii) dengan memasukkan selepas butiran 45 butiran yang berikut:
 
-Gaji Bulanan
+Gaji Bulanan Caruman Majikan
 
-<!-- marginal: Caruman -->
+“46. Apabila gaji melebihi RM4,100 RM51.90 tetapi tidak melebihi RM4,200
 
-<!-- marginal: Majikan -->
+47. Apabila gaji melebihi RM4,200 RM53.10 tetapi tidak melebihi RM4,300
 
-“46. Apabila gaji melebihi RM4,100
+48. Apabila gaji melebihi RM4,300 RM54.40 tetapi tidak melebihi RM4,400
 
-<!-- marginal: RM51.90 -->
-
-tetapi tidak melebihi RM4,200
-
-47. Apabila gaji melebihi RM4,200
-
-<!-- marginal: RM53.10 -->
-
-tetapi tidak melebihi RM4,300
-
-48. Apabila gaji melebihi RM4,300
-
-<!-- marginal: RM54.40 -->
-
-tetapi tidak melebihi RM4,400
-
-49. Apabila gaji melebihi RM4,400
-
-<!-- marginal: RM55.60 -->
-
-tetapi tidak melebihi RM4,500
+49. Apabila gaji melebihi RM4,400 RM55.60 tetapi tidak melebihi RM4,500
 
 <!-- page 5 -->
 
-Gaji Bulanan
+Gaji Bulanan Caruman Majikan
 
-<!-- marginal: Caruman -->
+50. Apabila gaji melebihi RM4,500 RM56.90 tetapi tidak melebihi RM4,600
 
-<!-- marginal: Majikan -->
+51. Apabila gaji melebihi RM4,600 RM58.10 tetapi tidak melebihi RM4,700
 
-50. Apabila gaji melebihi RM4,500
+52. Apabila gaji melebihi RM4,700 RM59.40 tetapi tidak melebihi RM4,800
 
-<!-- marginal: RM56.90 -->
+53. Apabila gaji melebihi RM4,800 RM60.60 tetapi tidak melebihi RM4,900
 
-tetapi tidak melebihi RM4,600
+54. Apabila gaji melebihi RM4,900 RM61.90 tetapi tidak melebihi RM5,000
 
-51. Apabila gaji melebihi RM4,600
-
-<!-- marginal: RM58.10 -->
-
-tetapi tidak melebihi RM4,700
-
-52. Apabila gaji melebihi RM4,700
-
-<!-- marginal: RM59.40 -->
-
-tetapi tidak melebihi RM4,800
-
-53. Apabila gaji melebihi RM4,800
-
-<!-- marginal: RM60.60 -->
-
-tetapi tidak melebihi RM4,900
-
-54. Apabila gaji melebihi RM4,900
-
-<!-- marginal: RM61.90 -->
-
-tetapi tidak melebihi RM5,000
-
-55. Apabila gaji melebihi RM5,000
-
-<!-- marginal: RM61.90”. -->
+55. Apabila gaji melebihi RM5,000 RM61.90”.
 
 ### Pindaan Jadual Keempat
 
@@ -196,17 +118,7 @@ tetapi tidak melebihi RM5,000
 
 (c) dengan menggantikan butiran 45 dengan butiran yang berikut:
 
-Gaji bulanan Jenis Jenis
-
-<!-- marginal: Gaji bulanan -->
-
-yang sebenar Pertama Kedua
-
-<!-- marginal: anggapan yang -->
-
-bagi bulan itu
-
-<!-- marginal: bersamaan bagi -->
+Gaji bulanan Jenis Jenis Gaji bulanan yang sebenar Pertama Kedua anggapan yang bagi bulan itu bersamaan bagi
 
 <!-- marginal: bulan itu -->
 
@@ -216,61 +128,21 @@ bagi bulan itu
 
 (d) dengan memasukkan selepas butiran 45 butiran yang berikut:
 
-Gaji bulanan Jenis Jenis
+Gaji bulanan Jenis Jenis Gaji bulanan yang sebenar Pertama Kedua anggapan yang bagi bulan itu bersamaan bagi bulan itu
 
-<!-- marginal: Gaji bulanan -->
+“46. Apabila gaji RM93.40 RM51.90 RM4,150 melebihi RM4,100 tetapi tidak melebihi RM4,200
 
-yang sebenar Pertama Kedua
+47. Apabila gaji RM95.60 RM53.10 RM4,250 melebihi RM4,200 tetapi tidak melebihi RM4,300
 
-<!-- marginal: anggapan yang -->
+48. Apabila gaji RM97.90 RM54.40 RM4,350 melebihi RM4,300 tetapi tidak melebihi RM4,400
 
-bagi bulan itu
+49. Apabila gaji RM100.10 RM55.60 RM4,450 melebihi RM4,400 tetapi tidak melebihi RM4,500
 
-<!-- marginal: bersamaan bagi -->
+50. Apabila gaji RM102.40 RM56.90 RM4,550 melebihi RM4,500 tetapi tidak melebihi RM4,600
 
-<!-- marginal: bulan itu -->
+51. Apabila gaji RM104.60 RM58.10 RM4,650 melebihi RM4,600 tetapi tidak melebihi RM4,700
 
-“46. Apabila gaji RM93.40 RM51.90
-
-<!-- marginal: RM4,150 -->
-
-melebihi RM4,100 tetapi tidak melebihi RM4,200
-
-47. Apabila gaji RM95.60 RM53.10
-
-<!-- marginal: RM4,250 -->
-
-melebihi RM4,200 tetapi tidak melebihi RM4,300
-
-48. Apabila gaji RM97.90 RM54.40
-
-<!-- marginal: RM4,350 -->
-
-melebihi RM4,300 tetapi tidak melebihi RM4,400
-
-49. Apabila gaji RM100.10 RM55.60
-
-<!-- marginal: RM4,450 -->
-
-melebihi RM4,400 tetapi tidak melebihi RM4,500
-
-50. Apabila gaji RM102.40 RM56.90
-
-<!-- marginal: RM4,550 -->
-
-melebihi RM4,500 tetapi tidak melebihi RM4,600
-
-51. Apabila gaji RM104.60 RM58.10
-
-<!-- marginal: RM4,650 -->
-
-melebihi RM4,600 tetapi tidak melebihi RM4,700
-
-52. Apabila gaji RM106.90 RM59.40
-
-<!-- marginal: RM4,750 -->
-
-melebihi RM4,700 tetapi tidak melebihi RM4,800
+52. Apabila gaji RM106.90 RM59.40 RM4,750 melebihi RM4,700 tetapi tidak melebihi RM4,800
 
 <!-- page 7 -->
 

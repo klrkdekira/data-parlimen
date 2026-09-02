@@ -30,4 +30,6 @@ This Bill seeks to amend the Exclusive Economic Zone Act 1984 ("Act 311").
 
 ## FINANCIAL IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure. |PN(U2)2496J
+This Bill will not involve the Government in any extra financial expenditure.
+
+<!-- marginal: |PN(U2)2496J -->

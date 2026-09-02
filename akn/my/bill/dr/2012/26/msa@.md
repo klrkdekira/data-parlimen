@@ -8,33 +8,41 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Ketidakpakaian 3. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## UMUR PERSARAAN MINIMUM
 
 4. Umur persaraan minimum 5. Persaraan pramasa 6. Persaraan pilihan 7. Ketidaksahan terma kontrak perkhidmatan dan perjanjian kolektif
 
-## Bahagian III
+## BAHAGIAN III
 
 ## ADUAN DAN SIASATAN
 
-8. Kuasa Ketua Pengarah untuk menyiasat aduan 9. Rujukan kepada Mahkamah Tinggi bagi persoalan undang-undang 10. Rayuan 11. Ketidakpatuhan kepada arahan Ketua Pengarah
+8. Kuasa Ketua Pengarah untuk menyiasat aduan 9. Rujukan kepada Mahkamah Tinggi bagi persoalan undang-undang
 
-## Bahagian IV
+10. Rayuan
+
+11. Ketidakpatuhan kepada arahan Ketua Pengarah
+
+## BAHAGIAN IV
 
 ## PENYIASATAN DAN PENGUATKUASAAN
 
-12. Kuasa Ketua Pengarah 13. Kuasa untuk menghendaki kehadiran orang yang mempunyai pengetahuan tentang kes 14. Kuasa untuk menghendaki pengemukaan dokumen
+12. Kuasa Ketua Pengarah
+
+13. Kuasa untuk menghendaki kehadiran orang yang mempunyai pengetahuan tentang kes
+
+14. Kuasa untuk menghendaki pengemukaan dokumen
 
 <!-- page 2 -->
 
-## Bahagian V
+## BAHAGIAN V
 
 AM
 
@@ -48,7 +56,7 @@ AM
 
 19. Kuasa untuk membuat peraturan-peraturan
 
-## Jadual
+## JADUAL
 
 <!-- page 3 -->
 
@@ -58,7 +66,7 @@ Suatu Akta untuk mengadakan peruntukan bagi umur persaraan minimum dan bagi apa-
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -112,7 +120,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “umur persaraan minimum” ertinya umur persaraan yang diperuntukkan di bawah subseksyen 4(1) dan jika Menteri menetapkan suatu umur persaraan minimum yang lebih tinggi di bawah subseksyen 4(2), umur persaraan minimum yang lebih tinggi itu.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## UMUR PERSARAAN MINIMUM
 
@@ -146,7 +154,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (2) Mana-mana terma dalam sesuatu kontrak perkhidmatan atau perjanjian kolektif yang berhubungan dengan umur persaraan hendaklah terbatal jika terma itu mengecualikan atau mengehadkan kuat kuasa mana-mana peruntukan Akta ini.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## ADUAN DAN SIASATAN
 
@@ -218,7 +226,7 @@ representasi itu hendaklah dibuat dalam tempoh tiga puluh hari selepas penolakan
 
 <!-- page 10 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENYIASATAN DAN PENGUATKUASAAN
 
@@ -262,7 +270,7 @@ representasi itu hendaklah dibuat dalam tempoh tiga puluh hari selepas penolakan
 
 (2) Jika Ketua Pengarah berpuas hati bahawa mana-mana dokumen tidak lagi perlu dipegang simpan, Ketua Pengarah boleh mengembalikan dokumen itu kepada orang yang memberikan dokumen itu dengan secepat yang dapat dilaksanakan.
 
-## Bahagian V
+## BAHAGIAN V
 
 AM
 
@@ -300,7 +308,7 @@ kerja boleh menjalankan semua kuasa yang diberikan kepada Ketua Pengarah di bawa
 
 19. Menteri boleh membuat peraturan-peraturan sebagaimana perlu dan suai manfaat bagi maksud untuk melaksanakan peruntukan Akta ini.
 
-## Jadual
+## JADUAL
 
 (Seksyen 2)
 
@@ -332,7 +340,7 @@ kerja boleh menjalankan semua kuasa yang diberikan kepada Ketua Pengarah di bawa
 
 Rang Undang-Undang ini bertujuan untuk mengadakan peruntukan bagi umur persaraan minimum seseorang pekerja dan untuk mengadakan peruntukan bagi perkara yang berkaitan dengannya.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I memperkatakan perkara permulaan.
 
@@ -342,7 +350,7 @@ Rang Undang-Undang ini bertujuan untuk mengadakan peruntukan bagi umur persaraan
 
 5. Fasal 3 mengandungi takrif ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 6. Bahagian II Akta yang dicadangkan yang mengandungi fasal 4 hingga 7 memperkatakan umur persaraan minimum, persaraan pramasa, persaraan pilihan dan kesan pelaksanaan umur persaraan minimum di bawah Akta yang dicadangkan kepada terma dan syarat berkaitan dengan umur persaraan dalam sesuatu kontrak perkhidmatan dan perjanjian kolektif.
 
@@ -356,7 +364,7 @@ Rang Undang-Undang ini bertujuan untuk mengadakan peruntukan bagi umur persaraan
 
 <!-- page 15 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 11. Bahagian III Akta yang dicadangkan yang mengandungi fasal 8 hingga 11 memperkatakan tentang aduan dan siasatan.
 
@@ -368,7 +376,7 @@ Rang Undang-Undang ini bertujuan untuk mengadakan peruntukan bagi umur persaraan
 
 15. Fasal 11 memperuntukkan penalti bagi seseorang majikan yang tidak mematuhi arahan Ketua Pengarah dan memberi kuasa kuasa kepada mahkamah untuk membuat perintah bagi maksud pelaksanaan perintah Ketua Pengarah.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 16. Bahagian IV Akta yang dicadangkan yang mengandungi fasal 12 hingga 14 memperkatakan penyiasatan dan penguatkuasaan.
 
@@ -378,7 +386,7 @@ Rang Undang-Undang ini bertujuan untuk mengadakan peruntukan bagi umur persaraan
 
 19. Fasal 14 membolehkan Ketua Pengarah menghendaki pengemukaan mana-mana dokumen yang berkaitan dengan penyiasatannya.
 
-## Bahagian V
+## BAHAGIAN V
 
 20. Bahagian V Akta yang dicadangkan yang mengandungi fasal 15 hingga 19 memperkatakan peruntukan am.
 

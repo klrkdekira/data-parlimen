@@ -18,103 +18,99 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 2 -->
 
-## Schedule
+## SCHEDULE
 
-Purpose Title
+<!-- marginal: Purpose -->
 
-<!-- marginal: Amount -->
+Title Amount (RM)
 
-<!-- marginal: (RM) -->
+<!-- marginal: B. 1 -->
 
-B. 1 Parliament
+Parliament 125,172,700
 
-<!-- marginal: 125,172,700 -->
+<!-- marginal: B. 2 -->
 
-B. 2 Office of the Keeper of the Rulers’ Seal
+Office of the Keeper of the Rulers’ Seal 2,522,000
 
-<!-- marginal: 2,522,000 -->
+<!-- marginal: B. 3 -->
 
-B. 3 National Audit Department
+National Audit Department 146,958,900
 
-<!-- marginal: 146,958,900 -->
+<!-- marginal: B. 4 -->
 
-B. 4 Election Commission
+Election Commission 370,665,300
 
-<!-- marginal: 370,665,300 -->
+<!-- marginal: B. 5 -->
 
-B. 5 Public Services Commission
+Public Services Commission 37,491,400
 
-<!-- marginal: 37,491,400 -->
+<!-- marginal: B. 6 -->
 
-B. 6 Prime Minister’s Department
+Prime Minister’s Department 5,215,264,000
 
-<!-- marginal: 5,215,264,000 -->
+<!-- marginal: B. 7 -->
 
-B. 7 Public Service Department
+Public Service Department 1,981,807,500
 
-<!-- marginal: 1,981,807,500 -->
+<!-- marginal: B. 8 -->
 
-B. 8 Attorney General’s Chambers
+Attorney General’s Chambers 148,892,100
 
-<!-- marginal: 148,892,100 -->
+<!-- marginal: B. 9 -->
 
-B. 9 Malaysian Anti-Corruption Commission
+Malaysian Anti-Corruption Commission 242,134,500
 
-<!-- marginal: 242,134,500 -->
+<!-- marginal: B. 10 -->
 
-B. 10 Treasury
+Treasury 4,520,672,200
 
-<!-- marginal: 4,520,672,200 -->
+<!-- marginal: B. 11 -->
 
-B. 11 Treasury General Services
+Treasury General Services 26,832,774,000
 
-<!-- marginal: 26,832,774,000 -->
+<!-- marginal: B. 12 -->
 
-B. 12 Contribution to Statutory Funds
+Contribution to Statutory Funds 1,664,900,100
 
-<!-- marginal: 1,664,900,100 -->
+<!-- marginal: B. 13 -->
 
-B. 13 Ministry of Foreign Affairs
+Ministry of Foreign Affairs 616,677,700
 
-<!-- marginal: 616,677,700 -->
+<!-- marginal: B. 20 -->
 
-B. 20 Ministry of Plantation Industries and
+Ministry of Plantation Industries and 441,074,200 Commodities
 
-<!-- marginal: 441,074,200 -->
+<!-- marginal: B. 21 -->
 
-Commodities B. 21 Ministry of Agriculture and Agro-based
+Ministry of Agriculture and Agro-based 3,759,183,400 Industry
 
-<!-- marginal: 3,759,183,400 -->
+<!-- marginal: B. 22 -->
 
-Industry B. 22 Ministry of Rural and Regional
+Ministry of Rural and Regional 5,614,038,900 Development
 
-<!-- marginal: 5,614,038,900 -->
+<!-- marginal: B. 23 -->
 
-Development B. 23 Ministry of Natural Resources and
+Ministry of Natural Resources and 1,082,798,900 Environment
 
-<!-- marginal: 1,082,798,900 -->
+<!-- marginal: B. 24 -->
 
-Environment B. 24 Ministry of International Trade and
+Ministry of International Trade and 468,582,400 Industry
 
-<!-- marginal: 468,582,400 -->
+<!-- marginal: B. 25 -->
 
-Industry B. 25 Ministry of Domestic Trade,
+Ministry of Domestic Trade, 1,347,679,800 Co-operatives and Consumerism
 
-<!-- marginal: 1,347,679,800 -->
+<!-- marginal: B. 27 -->
 
-Co-operatives and Consumerism B. 27 Ministry of Works
+Ministry of Works 2,004,642,400
 
-<!-- marginal: 2,004,642,400 -->
+<!-- marginal: B. 28 -->
 
-B. 28 Ministry of Transport
+Ministry of Transport 1,505,085,600
 
-<!-- marginal: 1,505,085,600 -->
+<!-- marginal: B. 29 -->
 
-B. 29 Ministry of Energy, Green Technology
-
-<!-- marginal: 253,990,800 -->
-
-and Water
+Ministry of Energy, Green Technology 253,990,800 and Water
 
 <!-- page 3 -->
 
@@ -180,7 +176,7 @@ B. 64 Ministry of Higher Education
 
 <!-- marginal: 10,962,387,200 -->
 
-ToTal
+## TOTAL
 
 <!-- marginal: 172,929,672,100 -->
 

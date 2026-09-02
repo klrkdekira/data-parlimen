@@ -222,9 +222,7 @@ as if the offence had been committed in Malaysia.’’.
 
 ### New Part IIa
 
-8. The principal Act is amended by inserting after the deleted
-
-## Part II the following part:
+8. The principal Act is amended by inserting after the deleted Part II the following part:
 
 “Part IIa
 
@@ -582,7 +580,7 @@ unless he is the holder of a valid permit issued under subsection 16a(2) by the 
 
 26. The principal Act is amended by inserting after Part V the following parts:
 
-“Part Va
+## “PART VA
 
 ## SECURITY
 
@@ -596,7 +594,7 @@ unless he is the holder of a valid permit issued under subsection 16a(2) by the 
 
 25b. Any person who has knowledge and reason to believe that he discovers an item which is a radioactive material or nuclear material shall notify the Director General either orally or in writing within twenty-four hours from the time he discovers the item.
 
-Part Vb
+## PART VB
 
 ## SAFEGUARDS
 
@@ -694,7 +692,7 @@ Part Vb
 
 28. The principal Act is amended by deleting section 26.
 
-### New sections 26a, 26b, 26c and 26d
+## NEW SECTIONS 26A, 26B, 26C AND 26D
 
 29. The principal Act is amended by inserting after the deleted section 26 the following sections:
 

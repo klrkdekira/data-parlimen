@@ -12,25 +12,13 @@
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan permulaan kuat kuasa
-
-2. Tafsiran
-
-3. Pengertian “perniagaan”
-
-4. Pengertian “pembekalan”
+1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran 3. Pengertian “perniagaan” 4. Pengertian “pembekalan”
 
 ## BAHAGIAN II
 
 ## PENTADBIRAN
 
-5. Ketua Pengarah dan pegawai lain dan tanggungjawab mereka
-
-6. Pengiktirafan jawatan
-
-7. Penjawat awam
-
-8. Kerahsiaan maklumat
+5. Ketua Pengarah dan pegawai lain dan tanggungjawab mereka 6. Pengiktirafan jawatan 7. Penjawat awam 8. Kerahsiaan maklumat
 
 ## BAHAGIAN III
 
@@ -1646,11 +1634,7 @@ tidak lewat daripada hari terakhir bulan yang berturutan daripada bulan yang pem
 
 Ketua Pengarah boleh mentaksirkan mengikut pertimbangan terbaiknya amaun cukai yang genap masa dan kena dibayar oleh orang kena cukai dan hendaklah dengan serta-merta memberitahu orang itu secara bertulis tentang taksiran itu.
 
-(2) Jika suatu amaun telah dibayar kepada mana-mana orang sebagai pembayaran balik cukai di bawah subseksyen 38(3) dan
-
-## Bahagian VII yang sepatutnya tidak dibayar kepadanya, Ketua
-
-Pengarah boleh mentaksirkan amaun itu sebagai cukai yang genap masa dan kena dibayar olehnya dan hendaklah dengan serta-merta memberitahu orang itu secara bertulis tentang taksiran itu.
+(2) Jika suatu amaun telah dibayar kepada mana-mana orang sebagai pembayaran balik cukai di bawah subseksyen 38(3) dan Bahagian VII yang sepatutnya tidak dibayar kepadanya, Ketua Pengarah boleh mentaksirkan amaun itu sebagai cukai yang genap masa dan kena dibayar olehnya dan hendaklah dengan serta-merta memberitahu orang itu secara bertulis tentang taksiran itu.
 
 (3) Taksiran di bawah subseksyen (1) dan (2) tidak boleh dibuat lebih daripada enam tahun dari tarikh yang cukai itu telah genap masa dan kena dibayar atau dari tarikh pembayaran balik itu telah dibuat, mengikut mana-mana yang berkenaan, kecuali jika pada pendapat Ketua Pengarah apa-apa bentuk fraud atau keingkaran sengaja telah dilakukan oleh atau bagi pihak mana-mana orang berkaitan dengan atau berhubung dengan cukai, Ketua Pengarah boleh, bagi maksud menampung apa-apa kehilangan cukai atau pembayaran balik cukai yang boleh dikaitkan dengan fraud atau keingkaran sengaja itu, membuat pada bila-bila masa suatu taksiran.
 
@@ -3100,11 +3084,23 @@ di bawah mana-mana undang-undang bertulis bagi penyukatan itu hendaklah menjadi 
 
 Jika denda itu Tempoh maksimum
 
-tidak melebihi lima ribu dua bulan ringgit
+tidak melebihi lima ribu
 
-melebihi lima ribu ringgit empat bulan tetapi tidak melebihi sepuluh ribu ringgit
+<!-- marginal: dua bulan -->
 
-melebihi sepuluh ribu ringgit enam bulan tetapi tidak melebihi dua puluh ribu ringgit
+ringgit
+
+melebihi lima ribu ringgit
+
+<!-- marginal: empat bulan -->
+
+tetapi tidak melebihi sepuluh ribu ringgit
+
+melebihi sepuluh ribu ringgit
+
+<!-- marginal: enam bulan -->
+
+tetapi tidak melebihi dua puluh ribu ringgit
 
 dengan dua bulan tambahan bagi tiap-tiap sepuluh ribu ringgit selepas dua puluh ribu ringgit yang pertama denda itu sehingga mencapai suatu tempoh maksimum enam tahun.
 

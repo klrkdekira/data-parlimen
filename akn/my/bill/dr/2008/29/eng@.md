@@ -22,7 +22,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ‘ “Commission” means the Malaysia Co-operative Societies Commission established under the Malaysia Co-operative Commission act 2007 [Act 665];’.
 
-BI.indd 1
+<!-- marginal: BI.indd 1 -->
 
 <!-- marginal: 12/11/08 5:57:36 AM -->
 
@@ -56,6 +56,6 @@ This bill will not involve the Government in any extra financial expenditure.
 
 <!-- marginal: [PN(U2)2629] -->
 
-BI.indd 2
+<!-- marginal: BI.indd 2 -->
 
 <!-- marginal: 12/11/08 5:57:36 AM -->

@@ -58,7 +58,21 @@ adalah dipinda dengan menggantikan perkataan- perkataan "only to the States of W
 
 "racing club" means a racing club which is a member of the Malayan Racing Association or a successor thereof; and "sweepstakes" means any sweepstake promoted on the result of a horse race.'.
 
-Perluasan 4. Akta ibu sebagaimana dipinda oleh seksyen 2 dan 3 Akta ke adalah diperluaskan ke Negeri-Negeri Sabah dan Sabah, Sarawak Sarawak dan Wilayah Persekutuan Labuan. dan Labuan.
+<!-- marginal: Perluasan -->
+
+4. Akta ibu sebagaimana dipinda oleh seksyen 2 dan 3
+
+<!-- marginal: Akta ke -->
+
+adalah diperluaskan ke Negeri-Negeri Sabah dan
+
+<!-- marginal: Sabah, -->
+
+<!-- marginal: Sarawak -->
+
+Sarawak dan Wilayah Persekutuan Labuan.
+
+<!-- marginal: dan Labuan. -->
 
 ## HURAIAN
 
@@ -70,6 +84,4 @@ sebagaimana dipinda. ke seluruh Malaysia. Fasal 3 bertujuan untuk meminda seksye
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
-
-<!-- marginal: [PN. (U:) 1615.] -->
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN. (U:) 1615.]

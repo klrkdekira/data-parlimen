@@ -64,9 +64,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### “Mobility assistance allowance
 
-### 37a.
-
-If the claim for benefits in respect of an insured person has been approved under section 33 and the insured person accepts a new offer of employment and—
+37A. If the claim for benefits in respect of an insured person has been approved under section 33 and the insured person accepts a new offer of employment and—
 
 (a) has reported duty for work within a period not exceeding twelve months after receiving the last job search allowance; or
 
@@ -98,7 +96,7 @@ the insured person shall be entitled to a mobility assistance allowance at the r
 
 11. The principal Act is amended by inserting after section 45 the following parts:
 
-“Part VIa
+## “PART VIA
 
 ## EMPLOYMENT SERVICES
 
@@ -142,7 +140,7 @@ the insured person shall be entitled to a mobility assistance allowance at the r
 
 (4) Any employer who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit.
 
-Part VIb
+## PART VIB
 
 ## ACTIVE LABOUR MARKET
 

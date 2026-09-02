@@ -32,7 +32,6 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/48/eng@/~cl_5",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/48/eng@/~cl_6",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/48/eng@/~cl_7",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/48/eng@/~cl_8A",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/48/eng@/~cl_8",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/48/eng@/~cl_9",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/48/eng@/~cl_10",
@@ -361,7 +360,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/48/eng@/~cl_6",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (9)— New section 8A"
+        "@value": "in subsection (9)—"
       }
     },
     {
@@ -381,7 +380,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/48/eng@/~cl_6__para_f",
       "schema:text": {
         "@language": "en",
-        "@value": "by deleting the words “that other petition has been transferred to him under subsection (8) or”."
+        "@value": "by deleting the words “that other petition has been transferred to him under subsection (8) or”. New section 8A"
       }
     },
     {
@@ -391,7 +390,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/48/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "The principal Act is amended by inserting after section 8 the following section: “When any movable property is administered by the Corporation"
+        "@value": "The principal Act is amended by inserting after section 8 the following section: “When any movable property is administered by the Corporation 8A. Where a petition for distribution is lodged with a Land Administrator and that any movable property comprised in the estate had been administered or is being administered by the Corporation, the Corporation shall deliver to the Land Administrator any document relating to the property for the purpose of determining whether the estate is or is not a small estate.”. Amendment of section 12"
       }
     },
     {
@@ -402,16 +401,6 @@
       "schema:text": {
         "@language": "en",
         "@value": "Subsection 12(3) of the principal Act is amended by inserting after the words “any penghulu” the words “or a Settlement Officer”. New section 13A"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/48/eng@/~cl_8A",
-      "@type": "akn:clause",
-      "eli:number": "8A",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/48/eng@",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Where a petition for distribution is lodged with a Land Administrator and that any movable property comprised in the estate had been administered or is being administered by the Corporation, the Corporation shall deliver to the Land Administrator any document relating to the property for the purpose of determining whether the estate is or is not a small estate.”. Amendment of section 12"
       }
     },
     {

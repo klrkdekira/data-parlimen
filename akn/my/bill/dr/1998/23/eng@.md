@@ -346,4 +346,6 @@ Section 107F seeks to empower the Minister to grant exemptions from the provisio
 
 ## IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure. [PN. (U2) 2100.]
+This Bill will not involve the Government in any extra financial expenditure.
+
+<!-- marginal: [PN. (U2) 2100.] -->

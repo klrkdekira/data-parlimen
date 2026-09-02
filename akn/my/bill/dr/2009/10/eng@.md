@@ -106,7 +106,9 @@ comprehensive and co-ordinated development of small and medium enterprises acros
 
 <!-- page 4 -->
 
-4 Bill
+<!-- marginal: 4 -->
+
+Bill
 
 (h) the Minister responsible for higher education, or his representative;
 
@@ -148,17 +150,15 @@ Small and Medium Industries Development
 
 Corporation (Amendment)
 
-(3) The members referred to in paragraphs (2) (a), (b), (c), (d) and (e)-
+(3) The members referred to in paragraphs (2) (a), (b),
+
+(c), (d) and (e)-
 
 (a) shall be appointed by the Chairman for a term not exceeding two years; and
 
 (b) shall be eligible for reappointment upon expiry of his term of office.
 
-(4) The Corporation shall act as Secretariat to
-
-<!-- marginal: the -->
-
-Council.
+(4) The Corporation shall act as Secretariat to the Council.
 
 ### Functions of the Council
 
@@ -214,11 +214,7 @@ Council.
 
 <!-- page 7 -->
 
-Small and Medium Industries Development
-
-<!-- marginal: 7 -->
-
-Corporation (Amendment)
+Small and Medium Industries Development 7 Corporation (Amendment)
 
 (i) the Chief Executive Officer of the Corporation; and
 
@@ -230,29 +226,17 @@ Corporation (Amendment)
 
 ### "Functions of the Corporation
 
-### 1 2.
+<!-- marginal: 1 2. -->
 
-(1) The Corporation shall have t he
+(1) The Corporation shall have t he following functions:
 
-<!-- marginal: following -->
-
-functions:
-
-(a) to co-ordinate, monitor and evaluate
-
-<!-- marginal: t he -->
-
-implementation of the policies, strategies and programmes for small and medium enterprises across all sectors of the economy in line with the objectives of the Council;
+(a) to co-ordinate, monitor and evaluate t he implementation of the policies, strategies and programmes for small and medium enterprises across all sectors of the economy in line with the objectives of the Council;
 
 (b) to undertake studies related to the development of small and medium enterprises across all sectors of the economy;
 
 (c) to co-operate with Government ministries and agencies in the implementation of the policies, strategies and programmes for small and medium enterprises across all sectors of the economy;
 
-(d) to become the centre for collection, reference and dissemination of information related
-
-<!-- marginal: to small -->
-
-and medium enterprises across all sectors of the economy;
+(d) to become the centre for collection, reference and dissemination of information related to small and medium enterprises across all sectors of the economy;
 
 (e) to furnish annual reports on small and medium enterprises across all sectors of the economy to the Council;
 
@@ -264,7 +248,9 @@ and medium enterprises across all sectors of the economy;
 
 <!-- page 8 -->
 
-8 Bill
+<!-- marginal: 8 -->
+
+Bill
 
 (ii) to promote co-operation among small and medium enterprises;
 
@@ -278,11 +264,7 @@ and medium enterprises across all sectors of the economy;
 
 9. Section 13 of the principal Act is amended—
 
-(a) by substituting for paragraph (c) the
-
-<!-- marginal: following -->
-
-paragraph:
+(a) by substituting for paragraph (c) the following paragraph:
 
 "(c) to establish, maintain and manage a database and information system on small and medium enterprises across all sectors of the economy which includes the profile, economics and statistical data on the development programmes from any ministry or agency;";
 

@@ -156,7 +156,9 @@ Kuasa 40. (1) Pengerusi Suruhanjaya boleh, dengan keizinan Pengerusi bertulis Pe
 
 <!-- page 6 -->
 
-6 Rang Undang-Undang
+<!-- marginal: 6 -->
+
+Rang Undang-Undang
 
 berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk mengkompaun itu dibuat dan apa-apa benda yang disita berkaitan dengan kesalahan itu boleh dilepaskan atau dilucuthakkan oleh Pengerusi, tertakluk kepada apa-apa terma dan syarat yang difikirkan patut olehnya.
 
@@ -166,9 +168,23 @@ berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk mengk
 
 19. Akta ibu dipinda dengan menggantikan seksyen 41 dengan seksyen yang berikut:
 
-Kuasa 41. (1) Menteri boleh secara bertulis memberi kuasa penguat- mana-mana pegawai awam atau pengawai Suruhanjaya kuasaan. untuk menjalankan kuasa penguatkuasaan di bawah Akta ini atau mana-mana kaedah yang dibuat di bawahnya.
+<!-- marginal: Kuasa -->
 
-(2) Mana-mana pegawai yang sedemikian hendaklah disifatkan sebagai pekhidmat awam mengikut pengertian Akta 574. Kanun Keseksaan.
+41. (1) Menteri boleh secara bertulis memberi kuasa
+
+<!-- marginal: penguat- -->
+
+mana-mana pegawai awam atau pengawai Suruhanjaya
+
+<!-- marginal: kuasaan. -->
+
+untuk menjalankan kuasa penguatkuasaan di bawah Akta ini atau mana-mana kaedah yang dibuat di bawahnya.
+
+(2) Mana-mana pegawai yang sedemikian hendaklah disifatkan sebagai pekhidmat awam mengikut pengertian
+
+<!-- marginal: Akta 574. -->
+
+Kanun Keseksaan.
 
 (3) Pada menjalankan mana-manakuasapenguatkuasaan di bawah Akta ini atau mana-mana kaedah yang dibuat di bawahnya, seseorang pegawai yang diberi kuasa di bawah subseksyen (1) hendaklah, apabila diminta, menunjukkan kepada orang yang terhadapnya dia bertindak kuasa yang dikeluarkan kepadanya oleh Menteri.
 

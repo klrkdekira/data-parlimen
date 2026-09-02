@@ -48,15 +48,63 @@
 
 ## SCHEDULE
 
-Purpose Title Amount $ B. 1 Parliament 20,433,800 B. 2 Office of the Keeper of the Rulers' Seal 966,900 B. 3 Audit Department 32,964,400 B. 4 Election Commission 18,424,100 B. 5 Public Services Commission 12,549,200 B. 6 Education Service Commission 4,926,000 B. 7 Prime Minister's Department 481,171,100 B. 8 Public Services Department 651,519,600
+Purpose Title
+
+<!-- marginal: Amount -->
+
+$ B. 1 Parliament
+
+<!-- marginal: 20,433,800 -->
+
+B. 2 Office of the Keeper of the Rulers' Seal
+
+<!-- marginal: 966,900 -->
+
+B. 3 Audit Department
+
+<!-- marginal: 32,964,400 -->
+
+B. 4 Election Commission
+
+<!-- marginal: 18,424,100 -->
+
+B. 5 Public Services Commission
+
+<!-- marginal: 12,549,200 -->
+
+B. 6 Education Service Commission
+
+<!-- marginal: 4,926,000 -->
+
+B. 7 Prime Minister's Department
+
+<!-- marginal: 481,171,100 -->
+
+B. 8 Public Services Department
+
+<!-- marginal: 651,519,600 -->
 
 <!-- page 2 -->
 
 ## BILL
 
-Title Amount
+Title
 
-B. 9 Statistics Department 60,764,100 B. 10 Attorney General's Chambers, 14,042,300 B. 11 Anti-Corruption Agency 26,833,100 B. 12 Office ot the Federal Secretary, Sabah
+<!-- marginal: Amount -->
+
+B. 9 Statistics Department
+
+<!-- marginal: 60,764,100 -->
+
+B. 10 Attorney General's Chambers,
+
+<!-- marginal: 14,042,300 -->
+
+B. 11 Anti-Corruption Agency
+
+<!-- marginal: 26,833,100 -->
+
+B. 12 Office ot the Federal Secretary, Sabah
 
 <!-- marginal: 675,000 -->
 
@@ -64,7 +112,43 @@ B. 13 Office of the Federal Secretary, Sarawak
 
 <!-- marginal: 616,000 -->
 
-B. 14 Ministry of Housing and Local 56,244,600 Government B. 15 Town and Country Planning Department 11,791,500 B. 16 Fire Services Department 100,171,900 B. 17 Ministry of Youth and Sports 48,026,900 B. 18 Ministry of Primary Industries 124,451,600 B. 19 Ministry of Agriculture 889,729,400 B. 20 Ministry of International Trade and 106,000,000 Industry B. 21 Ministry of Domestic Trade and 50,047,800 Consumer Affairs B. 22 Ministry of Culture, Arts and Tourism 119,5 12,700 B. 23 Department of the National Archives
+B. 14 Ministry of Housing and Local
+
+<!-- marginal: 56,244,600 -->
+
+Government B. 15 Town and Country Planning Department
+
+<!-- marginal: 11,791,500 -->
+
+B. 16 Fire Services Department
+
+<!-- marginal: 100,171,900 -->
+
+B. 17 Ministry of Youth and Sports
+
+<!-- marginal: 48,026,900 -->
+
+B. 18 Ministry of Primary Industries
+
+<!-- marginal: 124,451,600 -->
+
+B. 19 Ministry of Agriculture
+
+<!-- marginal: 889,729,400 -->
+
+B. 20 Ministry of International Trade and
+
+<!-- marginal: 106,000,000 -->
+
+Industry B. 21 Ministry of Domestic Trade and
+
+<!-- marginal: 50,047,800 -->
+
+Consumer Affairs B. 22 Ministry of Culture, Arts and Tourism
+
+<!-- marginal: 119,5 12,700 -->
+
+B. 23 Department of the National Archives
 
 <!-- marginal: 9,629,400 -->
 
@@ -72,11 +156,51 @@ B. 24 National Museum
 
 <!-- marginal: 4.513,400 -->
 
-B. 25 Ministry of Defence 3,211,809,000 B. 26 Ministry of Education 7,286,249,000 B. 27 Department of National Library 25,857,800 B. 28 Treasury 267,861,000 B. 29 Treasury General Services 329,819,040 B. 30 Contribution to Statutory Funds 1,117,500,000 B. 31 Royal Customs and Excise Department 192,715,000 B. 32 Inland Revenue Department 133,775,700 B. 33 Valuation and Property Services 29,620,000 Department B. 34 Ministry of Health 1,932,917,800 B. 35 Ministry of Home Affairs 106,270,400 B. 36 Royal Malaysia Police 1,406,802.400 B. 37 Immigration Department 67.835.900 B. 38 Registration of Societies Department
+B. 25 Ministry of Defence 3,211,809,000 B. 26 Ministry of Education 7,286,249,000 B. 27 Department of National Library
+
+<!-- marginal: 25,857,800 -->
+
+B. 28 Treasury
+
+<!-- marginal: 267,861,000 -->
+
+B. 29 Treasury General Services
+
+<!-- marginal: 329,819,040 -->
+
+B. 30 Contribution to Statutory Funds 1,117,500,000 B. 31 Royal Customs and Excise Department
+
+<!-- marginal: 192,715,000 -->
+
+B. 32 Inland Revenue Department
+
+<!-- marginal: 133,775,700 -->
+
+B. 33 Valuation and Property Services
+
+<!-- marginal: 29,620,000 -->
+
+Department B. 34 Ministry of Health 1,932,917,800 B. 35 Ministry of Home Affairs
+
+<!-- marginal: 106,270,400 -->
+
+B. 36 Royal Malaysia Police 1,406,802.400 B. 37 Immigration Department
+
+<!-- marginal: 67.835.900 -->
+
+B. 38 Registration of Societies Department
 
 <!-- marginal: 3,307,700 -->
 
-B. 39 National Registration Department 56,834,300 B. 40 Prisons Department 130,415,900 B. 41 Civil Defence Department
+B. 39 National Registration Department
+
+<!-- marginal: 56,834,300 -->
+
+B. 40 Prisons Department
+
+<!-- marginal: 130,415,900 -->
+
+B. 41 Civil Defence Department
 
 <!-- marginal: 3,468,000 -->
 
@@ -84,7 +208,9 @@ B. 42 National Printing Department
 
 <!-- marginal: 10 -->
 
-B. 43 Ministry of Law 62,708,200
+B. 43 Ministry of Law
+
+<!-- marginal: 62,708,200 -->
 
 <!-- page 3 -->
 
@@ -170,11 +296,11 @@ This Bill makes provision for the issue from the Consolidated Fund a sum of twen
 
 ## PUBLISHED BY AUTHORITY
 
-Jil. 36
+<!-- marginal: Jil. 36 -->
 
 <!-- marginal: TAMBAHAN -->
 
-### No.
+<!-- marginal: No. -->
 
 ### 23
 

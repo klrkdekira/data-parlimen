@@ -1,0 +1,968 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-16-2017",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_20"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Commercial Vehicles Licensing Board (Amendment) Bill 2017"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 33 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing section as subsection (1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the renumbered subsection (1) the following subsection: “(2) For the purpose of this Act, subsection (1) shall not apply to an e-hailing vehicle.”. Amendment of section 36"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_11__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_11__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 36(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “section 15” the words “and subsection 26a(1)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “licence” wherever appearing the words “or an intermediation business licence”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_11__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the words “any other licence” the words “any other licence or intermediation business licence”. Amendment of section 37"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 37 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by inserting after the words “licence holder” the words “or intermediation business licence holder”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_12__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_12__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_12__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_12__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_12__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “licence” the words “or intermediation business licence”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_12__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_12__para_b__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_12__para_b__subpara_ii__subpara_B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_12__para_b__subpara_ii__subpara_C",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_12__para_b__subpara_ii__subpara_D"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_12__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_12__para_b__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_12__para_b__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “in his business” the words “in the business of the holder of a licence or the holder of an intermediation business licence”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_12__para_b__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_12__para_b__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, by inserting after the words “jika pemegang lesen” the words “atau pemegang lesen perniagaan pengantaraan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_12__para_b__subpara_ii__subpara_C",
+      "@type": "akn:subparagraph",
+      "eli:number": "C",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_12__para_b__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, by inserting after the words “jika pemegang lesen” the words “atau pemegang lesen perniagaan pengantaraan”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_12__para_b__subpara_ii__subpara_D",
+      "@type": "akn:subparagraph",
+      "eli:number": "D",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_12__para_b__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text, by inserting after the words “in the case of the holder” the words “of a licence or the holder of an intermediation business licence”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_12__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_12__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by substituting for the words “right which he has” the words “rights which the holder of a licence or the holder of an intermediation business licence has”. Amendment of section 42"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 42 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, by inserting after the word “lesen” wherever appearing the words “atau lesen perniagaan pengantaraan”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_a__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_a__subpara_ii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_a__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_a__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by inserting after the word “licence” wherever appearing the words “or intermediation business licence”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_a__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_a__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by inserting after the word “licence” wherever appearing the words “or an intermediation business licence”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_b__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_b__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_b__subpara_v"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by inserting after the word “licence” the words “or intermediation business licence”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by inserting after the word “licence” the words “, intermediation business licence”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_b__subpara_iii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_b__subpara_iii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (d)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_b__subpara_iii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_b__subpara_iii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “any licence” the words “or intermediation business licence”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_b__subpara_iii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_b__subpara_iii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “a licence” the words “or an intermediation business licence”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_b__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (e), by inserting after the word “licence” the words “or intermediation business licence”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_b__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the proviso, by inserting after the word “licence” wherever appearing the words “or intermediation business licence”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by inserting after the word “licence” wherever appearing the words “or intermediation business licence”. New section 43a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 43 the following section: “Offences by body corporate 43a. (1) If a body corporate commits an offence under this Act, any person who at the time of the commission of the offence was a director, chief executive officer, chief operating officer, manager, secretary or other similar officer of the body corporate or was purporting to act in any such capacity or was in any manner or to any extent responsible for the management of any of the affairs of the body corporate or was assisting in such management— (a) may be charged severally or jointly in the same proceedings with the body corporate; and (b) if the body corporate is found to have committed the offence, shall be deemed to have committed that offence unless, having regard to the nature of his functions in that capacity and to all circumstances, he proves— (i) that the offence was committed without his knowledge, consent or connivance; and (ii) that he had taken all reasonable precautions and exercised due diligence to prevent the commission of the offence. (2) If any person would be liable under this Act to any punishment or penalty for his act, omission, neglect or default, he shall be liable to the same punishment or penalty for every such act, omission, neglect or default of any employee or agent of his, or of the employee of the agent, if the act, omission, neglect or default was committed— (a) by that person’s employee in the course of his employment; (b) by the agent when acting on behalf of that person; or (c) by the employee of the agent in the course of his employment by the agent or otherwise on behalf of the agent acting on behalf of that person.”. Amendment of section 44b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_15__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 44b of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, by inserting after the word “lesen” the words “atau lesen perniagaan pengantaraan”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text, by substituting for the word “license” the words “licence or an intermediation business licence”. Amendment of section 46"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_16__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 46 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_16__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_16__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_16__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_16__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “a licence” the words “or an intermediation business licence”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_16__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_16__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “licence” wherever appearing the words “or intermediation business licence”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by inserting after the word “licence” the words “or an intermediation business licence”. Amendment of section 47"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 47 of the principal Act is amended in paragraphs (d),"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "(e), (f) and (h), by inserting after the word “licence” the words “or an intermediation business licence” respectively. Amendment of section 52"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_18__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_18__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_18__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 52 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by inserting after the word “licences” the words “or intermediation business licences”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by inserting after the word “licences” wherever appearing the words “or intermediation business licences”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_18__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_18__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_18__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_18__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_18__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “licence” the words “or an intermediation business licence”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_18__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_18__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “that such licence was” the words “that such licence or intermediation business licence was”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_18__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_18__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_18__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_18__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_18__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “licence” wherever appearing the words “or intermediation business licence”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_18__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_18__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “section 19” the words “or subsection 26a(5)”. Amendment of section 56"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_19__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_19__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_19__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_19__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 56(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraphs (b), (c) and (e), by inserting after the word “licences” wherever appearing the words “or intermediation business licences”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (g), by inserting after the word “licence” the words “or an intermediation business licence”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_19__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (h), by inserting after the words “licence holders” the words “or intermediation business licence holders”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_19__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (k), by substituting for the comma at the end of the paragraph a semicolon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_19__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (k) the following paragraphs: “(l) regulating any arrangement or agreement between a holder of a licence that is a company, a partnership or a firm and the driver of a public service vehicle; (m) regulating any arrangement or agreement regarding advertisement on an authorized vehicle,”. Savings and transitional"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Commercial Vehicles Licensing Board (Amendment) Act 2017."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette and the Minister may appoint different dates for the coming into operation of different provisions of this Act. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commercial Vehicles Licensing Board Act 1987 [Act 334], which is referred to as the “principal Act” in this Act, is amended in section 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_20__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_20__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who was operating or providing any service relating to an intermediation business, before the date of coming into operation of this Act, shall make an application for a licence in accordance with this Act within one year from the date of coming into operation of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any action, investigation or proceedings commenced or pending immediately before the date of coming into operation of this Act shall, after the date of coming into operation of this Act, be continued as if the principal Act had not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_20__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any such obligation, liability, penalty, or punishment accrued or incurred under the principal Act, may be continued, enforced, imposed and be dealt with, as the case may be, as if the principal Act had not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “express bus” the following definition: ‘ “e-hailing vehicle” means a motor vehicle having a seating capacity of four persons and not more than eleven persons (including the driver) used for the carriage of persons on any journey in consideration of a single or separate fares for each of them, in which the arrangement, booking or transaction, and the fare for such journey are facilitated through an electronic mobile application provided by an intermediation business;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “licence”, by inserting after the words “section 18” the words “except an intermediation business licence issued under Part IVa”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “hire car” the following definition: ‘ “intermediation business licence” means a licence issued under Part IVa;’ and (d) by inserting before the definition of “intermediation business licence” the following definition: ‘ “intermediation business” means the business of facilitating arrangements, bookings or transactions of an e-hailing vehicle whether for any valuable consideration or money’s worth or otherwise;’. Amendment of section 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 10(1) of the principal Act is amended by inserting after the word “licence” the words “or an intermediation business licence”. Amendment of section 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 14 of the principal Act is amended by inserting after subsection (1a) the following subsection: “(1b) For the purpose of this Act, an e-hailing vehicle shall be a public service vehicle and subject to an intermediation business licence issued under Part IVa.”. Amendment of section 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 26 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “holder of a licence” the words “or holder of an intermediation business licence”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “licence” wherever appearing the words “or intermediation business licence”. New Part IVa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after Part IV the following part: “PART IVA LICENSING OF INTERMEDIATION BUSINESS Licensing of intermediation business 26a. (1) No person shall operate or provide an intermediation business unless he holds an intermediation business licence issued under this section. (2) An application for an intermediation business licence under this section shall be made to the Board in the form and manner as determined by the Board and shall be accompanied by the prescribed application fee and such information and documents as may be specified by the Board. (3) The applicant shall provide to the Board complete information of his financial standing to prove his ability to maintain and operate the intermediation business. (4) Subject to this Act, the Board may, on an application for an intermediation business licence under this section— (a) grant the application in full or in part or with such modifications as the Board thinks fit, and, upon payment of the prescribed fee, issue an intermediation business licence to the applicant; or (b) refuse the application. (5) Every intermediation business licence issued under this section shall set out the duration of the licence and the Board may attach to the intermediation business licence conditions that include— (a) the type and extent of intermediation business to be operated or provided by the holder of an intermediation business licence; (b) the general level of service to be provided to persons using services provided by the holder of an intermediation business licence; (c) the measures to safeguard the safety and security of persons using services provided by the intermediation business; and (d) the standards of performance to be complied with by the holder of an intermediation business licence in the operation of the intermediation business. (6) The Board may, at any time, add, cancel or vary any of the conditions attached to an intermediation business licence issued under this section. (7) The issuance of an intermediation business licence by the Board under subsection (4) shall not impose any liability on the Board for any loss or damage occasioned by any act, omission or default of the holder of an intermediation business licence. (8) A person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding three years or to both. (9) A holder of an intermediation business licence who fails to comply with any of the conditions attached to the licence under subsection (5) commits an offence and shall, on conviction, be liable to a fine of not less than one thousand ringgit but not more than two hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both. Renewal of licence 26b. (1) Subject to subsections (2) and (3), the Board may, on an application by the holder of an intermediation business licence, renew the intermediation business licence on such conditions as the Board thinks fit or refuse the application. (2) An application for the renewal of an intermediation business licence under subsection (1) shall be made at least ninety days before the date of expiry of the intermediation business licence and shall be accompanied by the prescribed renewal fee and such documents as may be specified by the Board. (3) If the holder of an intermediation business licence fails to comply with subsection (2) and offers no reason which the Board thinks reasonable, the Board may refuse to proceed with, hear or determine such application. (4) Where no application for renewal of an intermediation business licence has been submitted, the holder of an intermediation business licence shall, within fourteen days from the date of expiry of the intermediation business licence, return the intermediation business licence to the Board. Application for variation 26c. On an application by a holder of an intermediation business licence for a variation of the intermediation business licence or the conditions of the intermediation business licence, the Board shall have full power in its discretion— (a) to grant the application in full or in part; (b) to refuse the application; or (c) to order any variation of the intermediation business licence or the conditions of the intermediation business licence, other than the variation specified in the application. Revocation or suspension of the intermediation business licence 26d. (1) The Board may, by written notice to the holder of an intermediation business licence and without any compensation, revoke or suspend any intermediation business licence issued under section 26a— (a) if any of the provisions of this Act or any of the conditions of the intermediation business licence has not been complied with; (b) if the issuance of the intermediation business licence was induced by a false representation of fact by or on behalf of the holder of an intermediation business licence; or (c) in the event of the death, incapacity, bankruptcy or, in the case of a company, liquidation of the holder of an intermediation business licence or, where a receiver or manager is appointed in relation to the business of providing intermediation business by the holder of an intermediation business licence: Provided that the Board— (A) in the case of paragraph (a), may in lieu of revocation or suspension of the intermediation business licence appoint a third party to rectify the non-compliance and recover the costs of such rectification from the holder of an intermediation business licence; (B) in the case of a breach of any of the conditions of the intermediation business licence under paragraph (a), shall not revoke or suspend the intermediation business licence unless it is satisfied, after giving the holder of an intermediation business licence an opportunity of making any representation in writing he may wish to make, that owing to the frequency of the breach, or to the breach having been committed wilfully or the danger to the public involved in the breach, the intermediation business licence should be revoked or suspended; or (C) in the case of a breach of any of the provisions of this Act under paragraph (a), or paragraph (b) or (c), shall not revoke or suspend the intermediation business licence unless it is satisfied that, after giving the holder of an intermediation business licence an opportunity of making any representation in writing he may wish to make, the intermediation business licence should be revoked or suspended. (2) Where an intermediation business licence— (a) has been revoked, it shall have no effect from the date of revocation and the holder of an intermediation business licence shall within fourteen days from the date of revocation of the intermediation business licence return the intermediation business licence to the Board; or (b) has been suspended, the holder of an intermediation business licence who continues to operate or provide an intermediation business during the period of suspension, shall be guilty of an offence and shall, on conviction, be liable to a fine of not less than one thousand ringgit but not more than ten thousand ringgit or to imprisonment for a term not exceeding one year or to both. Transfer of licence prohibited 26e. (1) Subject to subsection (3), an intermediation business licence issued under section 26a shall be personal to the holder of an intermediation business licence thereof, and shall not be transferred or assigned. (2) A holder of an intermediation business licence who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine of not less than one thousand ringgit but not more than ten thousand ringgit or to imprisonment for a term not exceeding one year or to both. (3) Notwithstanding paragraph 26d(1)(c), the Board may, in the event of the death, incapacity, bankruptcy or, in the case of a company, liquidation of the holder of an intermediation business licence or, where a receiver or manager is appointed in relation to the business of providing intermediation business of such holder of an intermediation business licence or, where for any reason the Board is satisfied that it would be unjust not to do so, authorize the transfer of such intermediation business licence. Duty of the holder of an intermediation business licence to keep records, etc. 26f. (1) It shall be the duty of the holder of an intermediation business licence to keep such accounts and records as required by the Board under section 40 in relation to the intermediation business licence issued to him. (2) A holder of an intermediation business licence who fails to comply with subsection (1) commits an offence and shall, on conviction, be liable to a fine of not less than one thousand ringgit but not more than ten thousand ringgit or to imprisonment for a term not exceeding one year or to both. Duty of the holder of an intermediation business licence to inform Board 26g. (1) It shall be the duty of every holder of an intermediation business licence, at all times, to inform the Board immediately of the following matters: (a) any proceedings or claims instituted or made against the holder of an intermediation business licence which might have an adverse effect on his financial condition or on his ability to perform any condition under the intermediation business licence; (b) any reprimands or fines imposed on the holder of an intermediation business licence by the Government; and (c) any change in the control of the holder of an intermediation business licence. (2) For the purposes of this section, “control”, in relation to a holder of an intermediation business licence, means having the power, directly or indirectly, to direct the management and policy of the holder of an intermediation business licence. (3) A holder of an intermediation business licence who fails to comply with subsection (1) commits an offence and shall, on conviction, be liable to a fine of not less than one thousand ringgit but not more than ten thousand ringgit or to imprisonment for a term not exceeding one year or to both.”. Amendment of section 27"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 27 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, by inserting after the word “lesen” wherever appearing the words “atau lesen perniagaan pengantaraan”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_7__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_7__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_7__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_7__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “a licence” wherever appearing the words “or an intermediation business licence”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_7__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_7__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “such licence” the words “or intermediation business licence”. Amendment of section 30"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 30 of the principal Act is amended by substituting for the words “under subsection 15(3) or under section 22” the words “under subsection 15(3), section 22 or 26c”. Amendment of section 31"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 31 the following section: “31. Notwithstanding sections 17 and 26a, where the Minister allows in full an appeal against an order revoking a licence or an intermediation business licence granted under this Act, the validity of the licence or intermediation business licence shall thereupon be extended by a period corresponding to that during which the licence or intermediation business licence was of no effect and such extended period shall accordingly be inserted in the licence or intermediation business licence.”. Amendment of section 33"
+      }
+    }
+  ]
+}

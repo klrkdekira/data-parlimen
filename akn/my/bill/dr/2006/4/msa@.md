@@ -20,9 +20,7 @@ D.R. 4/2006
 
 ## SURUHANJAYA
 
-3. Penubuhan Suruhanjaya
-
-4. Meterai perbadanan
+3. Penubuhan Suruhanjaya 4. Meterai perbadanan
 
 5. Keanggotaan Suruhanjaya
 
@@ -52,15 +50,7 @@ Rang Undang-Undang
 
 ## FUNGSI DAN KUASA SURUHANJAYA
 
-15. Fungsi Suruhanjaya
-
-16. Kuasa Suruhanjaya
-
-17. Pewakilan fungsi atau kuasa Suruhanjaya
-
-18. Arahan oleh Menteri
-
-19. Penyata, laporan, akaun dan maklumat
+15. Fungsi Suruhanjaya 16. Kuasa Suruhanjaya 17. Pewakilan fungsi atau kuasa Suruhanjaya 18. Arahan oleh Menteri 19. Penyata, laporan, akaun dan maklumat
 
 ## BAHAGIAN IV
 
@@ -882,4 +872,6 @@ Akta Suruhanjaya Perkhidmatan Air Negara 2006 ("Akta") yang dieadangkan bertujua
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya tidak dapat ditentukan sekarang ini. [PN(U2)2469]
+Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya tidak dapat ditentukan sekarang ini.
+
+<!-- marginal: [PN(U2)2469] -->

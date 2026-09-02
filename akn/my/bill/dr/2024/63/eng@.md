@@ -4,7 +4,7 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -12,7 +12,7 @@
 
 2. Interpretation
 
-## Part II
+## PART II
 
 ## MALAYSIAN MEDIA COUNCIL
 
@@ -26,7 +26,7 @@
 
 7. Membership of Council
 
-## Part III
+## PART III
 
 ## BOARD OF COUNCIL
 
@@ -46,7 +46,7 @@
 
 <!-- page 2 -->
 
-## Part IV
+## PART IV
 
 ## GRIEVANCE MECHANISM AND DISCIPLINARY PROCEEDINGS
 
@@ -54,7 +54,7 @@
 
 16. Matters in respect of disciplinary powers
 
-## Part V
+## PART V
 
 ## FINANCE
 
@@ -62,7 +62,7 @@
 
 18. Expenditure to be charged on Malaysian Media Council Fund
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -76,9 +76,9 @@
 
 23. Protection against suits and legal proceedings
 
-## First schedule
+## FIRST SCHEDULE
 
-## second schedule
+## SECOND SCHEDULE
 
 <!-- page 3 -->
 
@@ -90,7 +90,7 @@ An Act to provide for the establishment of the Malaysian Media Council and to ma
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -156,7 +156,7 @@ but does not include the advertising industry, online service providers and enti
 
 <!-- page 6 -->
 
-## Part II
+## PART II
 
 ## MALAYSIAN MEDIA COUNCIL
 
@@ -256,7 +256,7 @@ but does not include the advertising industry, online service providers and enti
 
 <!-- page 10 -->
 
-## Part III
+## PART III
 
 ## BOARD OF COUNCIL
 
@@ -388,7 +388,7 @@ but does not include the advertising industry, online service providers and enti
 
 (11) A member of the committee and any person invited under subsection (7) shall be paid such allowances and other expenses as the Council may determine by a resolution of a simple majority of votes of the members present and voting in the general meeting.
 
-## Part IV
+## PART IV
 
 ## GRIEVANCE MECHANISM AND
 
@@ -416,7 +416,7 @@ but does not include the advertising industry, online service providers and enti
 
 (2) The Council shall, establish any disciplinary offences, impose any disciplinary penalties and determine the procedures for disciplinary proceedings, by a resolution of a simple majority of votes of the members present and voting at the general meeting.
 
-## Part V
+## PART V
 
 ## FINANCE
 
@@ -464,7 +464,7 @@ but does not include the advertising industry, online service providers and enti
 
 (2) Notwithstanding paragraph (1)(e), any contributions to bodies or organizations outside Malaysia shall be subject to the approval of the Minister.
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -512,7 +512,7 @@ but does not include the advertising industry, online service providers and enti
 
 23. No action, suit, prosecution or other proceedings shall be brought, instituted or maintained in any court against the Board or any committee established by the Board on account of or in respect of any act, neglect or default done or omitted by them in the course of carrying out their duties under this Act unless it can be proven that the act, neglect or default was done or omitted in bad faith and without reasonable cause.
 
-## First schedule
+## FIRST SCHEDULE
 
 [Subsection 8(6)]
 
@@ -570,7 +570,7 @@ but does not include the advertising industry, online service providers and enti
 
 <!-- page 22 -->
 
-## second schedule
+## SECOND SCHEDULE
 
 [Section 19]
 
@@ -658,7 +658,7 @@ but does not include the advertising industry, online service providers and enti
 
 The Malaysian Media Council Bill (“the proposed Act”) seeks to provide for the establishment of the Malaysian Media Council and to provide for other matters connected therewith.
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act deals with preliminary matters.
 
@@ -666,7 +666,7 @@ The Malaysian Media Council Bill (“the proposed Act”) seeks to provide for t
 
 4. Clause 2 contains the definitions of certain words and expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 5. Part II of the proposed Act deals with the provision on the establishment of the Malaysian Media Council (“Council”).
 
@@ -680,7 +680,7 @@ The Malaysian Media Council Bill (“the proposed Act”) seeks to provide for t
 
 9. Clause 7 seeks to provide for matters in relation to the membership of the Council and to provide for the power of the Board of the Council (“Board”) to impose membership fees and annual fees at the rates as the Council may determine from time to time in the general meeting.
 
-## Part III
+## PART III
 
 10. Part III of the proposed Act deals with the provisions relating to the establishment and membership of the Board of the Council which will perform the functions of the Council and manage the affairs of the Council.
 
@@ -706,7 +706,7 @@ This clause also seeks to provide for the application of the First Schedule to t
 
 17. Clause 14 seeks to allow the Board to establish any committee as the Board considers necessary or expedient to assist the Board in the performance of its functions and in the exercise of its powers. This clause further provides that the committee may determine its own procedure and entitled for allowances or other expenses which shall be paid out of the Fund of the Council, as the Council may determine.
 
-## Part IV
+## PART IV
 
 18. Part IV of the proposed Act contains provisions relating to grievance mechanism and disciplinary proceedings.
 
@@ -714,7 +714,7 @@ This clause also seeks to provide for the application of the First Schedule to t
 
 20. Clause 16 seeks to provide for a disciplinary power of the Council towards its members. The Council shall establish disciplinary offences, provide for disciplinary punishments and prescribe the procedure for disciplinary proceedings, as determined in the general meeting.
 
-## Part V
+## PART V
 
 21. Part V of the proposed Act contains provisions relating to finance.
 
@@ -728,7 +728,7 @@ This clause also seeks to provide that the Council may receive foreign fund with
 
 23. Clause 18 seeks to provide for matters relating to expenditure to be charged on the Fund of the Council in which the Fund of the Council can be expended for the purposes as specified in subsection (1). This clause also provides that any contribution to bodies or organizations outside of Malaysia, related to journalism activities as determined by the Board shall subject to the approval of the Minister.
 
-## Part VI
+## PART VI
 
 24. Part VI of the proposed Act contains general provisions.
 

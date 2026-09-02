@@ -32,7 +32,6 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/48/msa@/~cl_5",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/48/msa@/~cl_6",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/48/msa@/~cl_7",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/48/msa@/~cl_8A",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/48/msa@/~cl_8",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/48/msa@/~cl_9",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/48/msa@/~cl_10",
@@ -361,7 +360,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/48/msa@/~cl_6",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (9) Seksyen 8A baru"
+        "@value": "dalam subseksyen (9)"
       }
     },
     {
@@ -381,7 +380,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/48/msa@/~cl_6__para_f",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memotong perkataan “that other petition has been transferred to him under subsection (8) or”."
+        "@value": "dengan memotong perkataan “that other petition has been transferred to him under subsection (8) or”. Seksyen 8A baru"
       }
     },
     {
@@ -391,7 +390,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/48/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 8 seksyen yang berikut: “When any movable property is administered by the Corporation"
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 8 seksyen yang berikut: “When any movable property is administered by the Corporation 8A. Where a petition for distribution is lodged with a Land Administrator and that any movable property comprised in the estate had been administered or is being administered by the Corporation, the Corporation shall deliver to the Land Administrator any document relating to the property for the purpose of determining whether the estate is or is not a small estate.”. Pindaan seksyen 12"
       }
     },
     {
@@ -402,16 +401,6 @@
       "schema:text": {
         "@language": "ms",
         "@value": "Subseksyen 12(3) Akta ibu dipinda dengan memasukkan selepas perkataan “any penghulu” perkataan “or a Settlement Officer”. Seksyen 13A baru"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/48/msa@/~cl_8A",
-      "@type": "akn:clause",
-      "eli:number": "8A",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/48/msa@",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Where a petition for distribution is lodged with a Land Administrator and that any movable property comprised in the estate had been administered or is being administered by the Corporation, the Corporation shall deliver to the Land Administrator any document relating to the property for the purpose of determining whether the estate is or is not a small estate.”. Pindaan seksyen 12"
       }
     },
     {

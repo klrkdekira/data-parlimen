@@ -58,8 +58,7 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/eng@/~cl_31",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/eng@/~cl_32",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/eng@/~cl_33",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/eng@/~cl_34",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/eng@/~sched_1"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/eng@/~cl_34"
       ],
       "schema:name": {
         "@language": "en",
@@ -165,7 +164,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/eng@/~cl_11",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (2) by substituting for the word \"two\" the word \"five\". Amendment"
+        "@value": "in subsection (2) by substituting for the word \"two\" the word \"five\"."
       }
     },
     {
@@ -173,9 +172,13 @@
       "@type": "akn:clause",
       "eli:number": "12",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 16(2) of the principal Act is amended"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Subsection 16(2) of the principal Act is amended of section 16 by substituting for the words \"cancel the registration of the society\" the words \"take steps to cancel the registration of the society under section 13\". Amendment"
+        "@value": "by substituting for the words \"cancel the registration of the society\" the words \"take steps to cancel the registration of the society under section 13\"."
       }
     },
     {
@@ -188,9 +191,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/eng@/~cl_13__para_c"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/eng@",
-      "schema:text": {
+      "schema:name": {
         "@language": "en",
-        "@value": "Section 21 of the principal Act is amended— of section 21."
+        "@value": "Section 21 of the principal Act is amended—"
       }
     },
     {
@@ -220,7 +223,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/eng@/~cl_13",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (2) by inserting after the word \"village,\" the word \"mukim,\". Amendment"
+        "@value": "in subsection (2) by inserting after the word \"village,\" the word \"mukim,\"."
       }
     },
     {
@@ -228,9 +231,13 @@
       "@type": "akn:clause",
       "eli:number": "14",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 28 of the principal Act is amended by"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Section 28 of the principal Act is amended by of section 28. substituting for the word \"one\" the word \"five\". Amendment"
+        "@value": "substituting for the word \"one\" the word \"five\"."
       }
     },
     {
@@ -242,9 +249,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/eng@/~cl_15__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/eng@",
-      "schema:text": {
+      "schema:name": {
         "@language": "en",
-        "@value": "Section 32 of the principal Act is amended— of section 32."
+        "@value": "Section 32 of the principal Act is amended—"
       }
     },
     {
@@ -470,7 +477,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/eng@/~cl_23",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after that subsection (1) the following subsection: \"(2) Except where the registration of a society has been cancelled under section 2A or paragraph (b) of subsection (1) of section 13 the restriction imposed on an office-bearer under subsection (1) shall cease upon the expiry of a period of five years beginning from the date of such cancellation.\". Amendment"
+        "@value": "by inserting after that subsection (1) the following subsection: \"(2) Except where the registration of a society has been cancelled under section 2A or paragraph (b) of subsection (1) of section 13 the restriction imposed on an office-bearer under subsection (1) shall cease upon the expiry of a period of five years beginning from the date of such cancellation.\"."
       }
     },
     {
@@ -478,9 +485,13 @@
       "@type": "akn:clause",
       "eli:number": "24",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 50(3) of the principal Act is amended"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Subsection 50(3) of the principal Act is amended of section 50. by substituting for the word \"one\" the word \"three\". Amendment"
+        "@value": "by substituting for the word \"one\" the word \"three\"."
       }
     },
     {
@@ -488,9 +499,13 @@
       "@type": "akn:clause",
       "eli:number": "25",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 52(3)of the principal Act is amended by"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Subsection 52(3)of the principal Act is amended by of section 52. substituting for the word \"ten\" the word \"fifteen\". Amendment"
+        "@value": "substituting for the word \"ten\" the word \"fifteen\"."
       }
     },
     {
@@ -498,9 +513,13 @@
       "@type": "akn:clause",
       "eli:number": "26",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 53(3) of the principal Act is amended"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Subsection 53(3) of the principal Act is amended of section 53. by substituting for the word \"two\" the word \"five\". New section"
+        "@value": "by substituting for the word \"two\" the word \"five\"."
       }
     },
     {
@@ -514,7 +533,7 @@
       },
       "schema:text": {
         "@language": "en",
-        "@value": "53A. 53 the following section: \"penalty for 53A. Any person who displays or uses any displaying or usingcertificate of registration or copy thereof of a certificate society whose registration has been cancelled of registration- with the knowledge that the certificate of which\" registration has been cancelled shall be guilty has been of an offence and shall be liable, on conviction, cancelled. to a fine not exceending two thousand ringgit.\". Amendment"
+        "@value": "53A. 53 the following section: \"penalty for 53A. Any person who displays or uses any displaying or usingcertificate of registration or copy thereof of a certificate society whose registration has been cancelled of registration- with the knowledge that the certificate of which\" registration has been cancelled shall be guilty has been of an offence and shall be liable, on conviction, cancelled. to a fine not exceending two thousand ringgit.\"."
       }
     },
     {
@@ -522,9 +541,13 @@
       "@type": "akn:clause",
       "eli:number": "28",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 54 of the principal Act is amended by"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Section 54 of the principal Act is amended by of section 54. substituting for the word \"two\" the word \"five\". New section"
+        "@value": "substituting for the word \"two\" the word \"five\"."
       }
     },
     {
@@ -568,7 +591,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (2) by substituting for the words \"subsection (1)\" the words \"subsections (1) and (lA)\". New"
+        "@value": "in subsection (2) by substituting for the words \"subsection (1)\" the words \"subsections (1) and (lA)\"."
       }
     },
     {
@@ -576,9 +599,13 @@
       "@type": "akn:clause",
       "eli:number": "3",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "The principal Act is amended by inserting after section section 3B. 3A the following section: \"power of 3e. (1) The Registrar may, in writing, delegate delegation of the powers conferred on him under this Act, except the power of delegation under this section, to any Assistant Registrar appointed under section 3. (2) A delegation under subsection (1) may be made subject to such restrictions and limitations as may be prescribed by the Registrar in the instrument of delegation. (3) The power of delegation under subsection (1) shall be exercised by the Registrar personally.\". Amendment"
+        "@value": "3A the following section: \"power of 3e. (1) The Registrar may, in writing, delegate delegation of the powers conferred on him under this Act, except the power of delegation under this section, to any Assistant Registrar appointed under section 3. (2) A delegation under subsection (1) may be made subject to such restrictions and limitations as may be prescribed by the Registrar in the instrument of delegation. (3) The power of delegation under subsection (1) shall be exercised by the Registrar personally.\"."
       }
     },
     {
@@ -690,7 +717,7 @@
       },
       "schema:text": {
         "@language": "en",
-        "@value": "in subparagraph 1( a) by substituting for the word \"office\""
+        "@value": "in subparagraph 1( a) by substituting for the word \"office\" Schedule. the words \"place of business\". 10 Bill"
       }
     },
     {
@@ -698,9 +725,13 @@
       "@type": "akn:clause",
       "eli:number": "4",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 6(3) of the principal Act is amended by"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Subsection 6(3) of the principal Act is amended by of section 6. substituting for the words \"two thousand\" and \"two hundred\" the words \"five thousand\" and \"five hundred\" respectively. Amendment"
+        "@value": "substituting for the words \"two thousand\" and \"two hundred\" the words \"five thousand\" and \"five hundred\" respectively."
       }
     },
     {
@@ -712,9 +743,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/eng@/~cl_5__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/eng@",
-      "schema:text": {
+      "schema:name": {
         "@language": "en",
-        "@value": "Section 7 of the principal Act is amended— of section 7."
+        "@value": "Section 7 of the principal Act is amended—"
       }
     },
     {
@@ -875,16 +906,6 @@
       "schema:text": {
         "@language": "en",
         "@value": "by substituting for the word \"ten\" the word \"fifteen\"."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/eng@/~sched_1",
-      "@type": "akn:schedule",
-      "eli:number": "1",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/eng@",
-      "schema:text": {
-        "@language": "en",
-        "@value": "the words \"place of business\". 10 Bill"
       }
     }
   ]

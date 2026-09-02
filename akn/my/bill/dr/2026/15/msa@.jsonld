@@ -146,7 +146,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_5",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (1)— “(ca) peserta itu dengan sengaja melanggar mana-mana terma atau syarat perjanjian itu; atau”;"
+        "@value": "dalam subseksyen (1)—"
       }
     },
     {
@@ -166,7 +166,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_5__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perenggan (c) perenggan yang berikut:"
+        "@value": "dengan memasukkan selepas perenggan (c) perenggan yang berikut: “(ca) peserta itu dengan sengaja melanggar mana-mana terma atau syarat perjanjian itu; atau”;"
       }
     },
     {

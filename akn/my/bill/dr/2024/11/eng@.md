@@ -18,6 +18,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 2. The Employees’ Social Security Act 1969 [ Act 4], which is referred to as the “principal Act” in this Act, is amended in subsection 5(2) by substituting for the words “five thousand ringgit” wherever appearing the words “six thousand ringgit”.
 
+<!-- marginal: WJW24/0231 BI.indd 1 -->
+
 <!-- marginal: 22/03/2024 4:09 PM -->
 
 <!-- page 2 -->
@@ -30,21 +32,13 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (i) by substituting for item 55 the following item:
 
-Monthly Wages Employer’s Employee’s
-
-<!-- marginal: Total -->
-
-Contribution Contribution
+Monthly Wages Employer’s Employee’s Total Contribution Contribution
 
 “55. When RM88.35 RM25.25 RM113.60”; and wages exceed RM5,000 but not RM5,100
 
 (ii) by inserting after item 55 the following items:
 
-Monthly Wages Employer’s Employee’s
-
-<!-- marginal: Total -->
-
-Contribution Contribution
+Monthly Wages Employer’s Employee’s Total Contribution Contribution
 
 “56. When RM90.15 RM25.75 RM115.90 wages exceed RM5,100 but not RM5,200
 
@@ -54,29 +48,17 @@ Contribution Contribution
 
 59. When RM95.35 RM27.25 RM122.60 wages exceed RM5,400 but not RM5,500
 
+<!-- marginal: WJW24/0231 BI.indd 2 -->
+
 <!-- marginal: 22/03/2024 4:09 PM -->
 
 <!-- page 3 -->
 
-Monthly Wages Employer’s
+Monthly Wages Employer’s Employee’s Total Contribution Contribution
 
-<!-- marginal: Employee’s -->
+60. When RM97.15 RM27.75 RM124.90 wages exceed RM5,500 but not RM5,600
 
-<!-- marginal: Total -->
-
-Contribution Contribution
-
-60. When RM97.15
-
-<!-- marginal: RM27.75 RM124.90 -->
-
-wages exceed RM5,500 but not RM5,600
-
-61. When RM98.85
-
-<!-- marginal: RM28.25 RM127.10 -->
-
-wages exceed RM5,600 but not RM5,700
+61. When RM98.85 RM28.25 RM127.10 wages exceed RM5,600 but not RM5,700
 
 62. When RM100.65 RM28.75 RM129.40 wages exceed RM5,700 but not RM5,800
 
@@ -90,17 +72,11 @@ wages exceed RM5,600 but not RM5,700
 
 (i) by substituting for item 55 the following item:
 
-Monthly Wages
+Monthly Wages Employer’s Contribution
 
-<!-- marginal: Employer’s -->
+“55. When wages exceed RM5,000 RM63.10”; and but not RM5,100
 
-<!-- marginal: Contribution -->
-
-“55. When wages exceed RM5,000
-
-<!-- marginal: RM63.10”; and -->
-
-but not RM5,100
+<!-- marginal: WJW24/0231 BI.indd 3 -->
 
 <!-- marginal: 22/03/2024 4:09 PM -->
 
@@ -108,87 +84,41 @@ but not RM5,100
 
 (ii) by inserting after item 55 the following items:
 
-<!-- marginal: Employer’s -->
+Employer’s Monthly Wages Contribution
 
-Monthly Wages
+“56. When wages exceed RM5,100 RM64.40 but not RM5,200
 
-<!-- marginal: Contribution -->
+57. When wages exceed RM5,200 RM65.60 but not RM5,300
 
-“56. When wages exceed RM5,100
+58. When wages exceed RM5,300 RM66.90 but not RM5,400
 
-<!-- marginal: RM64.40 -->
+59. When wages exceed RM5,400 RM68.10 but not RM5,500
 
-but not RM5,200
+60. When wages exceed RM5,500 RM69.40 but not RM5,600
 
-57. When wages exceed RM5,200
+61. When wages exceed RM5,600 RM70.60 but not RM5,700
 
-<!-- marginal: RM65.60 -->
+62. When wages exceed RM5,700 RM71.90 but not RM5,800
 
-but not RM5,300
+63. When wages exceed RM5,800 RM73.10 but not RM5,900
 
-58. When wages exceed RM5,300
-
-<!-- marginal: RM66.90 -->
-
-but not RM5,400
-
-59. When wages exceed RM5,400
-
-<!-- marginal: RM68.10 -->
-
-but not RM5,500
-
-60. When wages exceed RM5,500
-
-<!-- marginal: RM69.40 -->
-
-but not RM5,600
-
-61. When wages exceed RM5,600
-
-<!-- marginal: RM70.60 -->
-
-but not RM5,700
-
-62. When wages exceed RM5,700
-
-<!-- marginal: RM71.90 -->
-
-but not RM5,800
-
-63. When wages exceed RM5,800
-
-<!-- marginal: RM73.10 -->
-
-but not RM5,900
-
-64. When wages exceed RM5,900
-
-<!-- marginal: RM74.40 -->
-
-but not RM6,000
+64. When wages exceed RM5,900 RM74.40 but not RM6,000
 
 65. When wages exceed RM6,000 RM74.40”.
 
 ### Amendment of Fourth Schedule
 
-4. The Fourth Schedule to the principal Act is amended in paragraph 4—
+4. The Fourth Schedule to the principal Act is amended in
+
+<!-- marginal: paragraph 4— -->
 
 (a) by substituting for item 55 the following item:
 
-Actual monthly wage First Second
-
-<!-- marginal: Corresponding -->
-
-of the month Category Category
-
-<!-- marginal: assumed -->
-
-<!-- marginal: monthly wage -->
-
-<!-- marginal: for the month -->
+Actual monthly wage First Second Corresponding of the month Category Category assumed monthly wage for the month
 
 “55. When wages RM113.60 RM63.10 RM5,050”; and exceed RM5,000 but not RM5,100
+
+<!-- marginal: WJW24/0231 BI.indd 4 -->
 
 <!-- marginal: 22/03/2024 4:09 PM -->
 
@@ -196,77 +126,29 @@ of the month Category Category
 
 (b) by inserting after item 55 the following items:
 
-Actual monthly wage First Second
+Actual monthly wage First Second Corresponding of the month Category Category assumed monthly wage for the month
 
-<!-- marginal: Corresponding -->
+“56. When wages RM115.90 RM64.40 RM5,150 exceed RM5,100 but not RM5,200
 
-of the month Category Category
+57. When wages RM118.10 RM65.60 RM5,250 exceed RM5,200 but not RM5,300
 
-<!-- marginal: assumed -->
+58. When wages RM120.40 RM66.90 RM5,350 exceed RM5,300 but not RM5,400
 
-<!-- marginal: monthly wage -->
+59. When wages RM122.60 RM68.10 RM5,450 exceed RM5,400 but not RM5,500
 
-<!-- marginal: for the month -->
+60. When wages RM124.90 RM69.40 RM5,550 exceed RM5,500 but not RM5,600
 
-“56. When wages RM115.90 RM64.40
+61. When wages RM127.10 RM70.60 RM5,650 exceed RM5,600 but not RM5,700
 
-<!-- marginal: RM5,150 -->
+62. When wages RM129.40 RM71.90 RM5,750 exceed RM5,700 but not RM5,800
 
-exceed RM5,100 but not RM5,200
+63. When wages RM131.60 RM73.10 RM5,850 exceed RM5,800 but not RM5,900
 
-57. When wages RM118.10 RM65.60
+64. When wages RM133.90 RM74.40 RM5,950 exceed RM5,900 but not RM6,000
 
-<!-- marginal: RM5,250 -->
+65. When wages RM133.90 RM74.40 RM5,950”. exceed RM6,000
 
-exceed RM5,200 but not RM5,300
-
-58. When wages RM120.40 RM66.90
-
-<!-- marginal: RM5,350 -->
-
-exceed RM5,300 but not RM5,400
-
-59. When wages RM122.60 RM68.10
-
-<!-- marginal: RM5,450 -->
-
-exceed RM5,400 but not RM5,500
-
-60. When wages RM124.90 RM69.40
-
-<!-- marginal: RM5,550 -->
-
-exceed RM5,500 but not RM5,600
-
-61. When wages RM127.10 RM70.60
-
-<!-- marginal: RM5,650 -->
-
-exceed RM5,600 but not RM5,700
-
-62. When wages RM129.40 RM71.90
-
-<!-- marginal: RM5,750 -->
-
-exceed RM5,700 but not RM5,800
-
-63. When wages RM131.60 RM73.10
-
-<!-- marginal: RM5,850 -->
-
-exceed RM5,800 but not RM5,900
-
-64. When wages RM133.90 RM74.40
-
-<!-- marginal: RM5,950 -->
-
-exceed RM5,900 but not RM6,000
-
-65. When wages RM133.90 RM74.40
-
-<!-- marginal: RM5,950”. -->
-
-exceed RM6,000
+<!-- marginal: WJW24/0231 BI.indd 5 -->
 
 <!-- marginal: 22/03/2024 4:09 PM -->
 

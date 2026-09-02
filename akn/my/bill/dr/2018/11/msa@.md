@@ -6,29 +6,35 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENTADBIRAN
 
 3. Fungsi dan kuasa Ketua Pengarah dan pegawai lain 4. Orang yang dilantik atau diambil kerja hendaklah menjadi pekhidmat awam 5. Pengiktirafan jawatan 6. Kerahsiaan maklumat
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PENGENAAN DAN SKOP CUKAI PERKHIDMATAN
 
-7. Pengenaan dan skop cukai perkhidmatan 8. Perkhidmatan bercukai 9. Penentuan nilai bagi perkhidmatan bercukai 10. Kadar cukai perkhidmatan 11. Cukai perkhidmatan yang genap masa
+7. Pengenaan dan skop cukai perkhidmatan 8. Perkhidmatan bercukai 9. Penentuan nilai bagi perkhidmatan bercukai
 
-## Bahagian IV
+10. Kadar cukai perkhidmatan
+
+11. Cukai perkhidmatan yang genap masa
+
+## BAHAGIAN IV
 
 ## PENDAFTARAN
 
-12. Tanggungan untuk berdaftar 13. Permohonan bagi pendaftaran
+12. Tanggungan untuk berdaftar
+
+13. Permohonan bagi pendaftaran
 
 <!-- page 2 -->
 
@@ -46,7 +52,7 @@
 
 20. Pembatalan pendaftaran
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PERAKAUNAN, TAKSIRAN, MENDAPATKAN BALIK, DSB.
 
@@ -76,7 +82,7 @@
 
 33. Tanggungan pengarah, dsb.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PENGECUALIAN, PEMBAYARAN BALIK DAN PEREMITAN
 
@@ -88,25 +94,51 @@
 
 <!-- page 3 -->
 
-37. Pembayaran cukai perkhidmatan, dsb., yang terkurang dibayar atau dibayar balik secara silap 38. Pembayaran balik cukai perkhidmatan, dsb., yang terlebih bayar atau dibayar secara silap 39. Potongan daripada penyata bagi cukai perkhidmatan yang dipulangkan balik 40. Peremitan cukai perkhidmatan, dsb.
+37. Pembayaran cukai perkhidmatan, dsb., yang terkurang dibayar atau dibayar balik secara silap
 
-## Bahagian VII
+38. Pembayaran balik cukai perkhidmatan, dsb., yang terlebih bayar atau dibayar secara silap
+
+39. Potongan daripada penyata bagi cukai perkhidmatan yang dipulangkan balik
+
+40. Peremitan cukai perkhidmatan, dsb.
+
+## BAHAGIAN VII
 
 ## KETETAPAN
 
-41. Ketetapan umum 42. Ketetapan kastam 43. Membuat ketetapan kastam 44. Pindaan, pengubahsuaian atau pembatalan ketetapan kastam 45. Ketua Pengarah hendaklah mengisytiharkan ketetapan kastam terbatal, dsb. 46. Ketetapan kastam yang berbeza untuk hal perkara yang sama
+41. Ketetapan umum
 
-## Bahagian VIII
+42. Ketetapan kastam
+
+43. Membuat ketetapan kastam
+
+44. Pindaan, pengubahsuaian atau pembatalan ketetapan kastam
+
+45. Ketua Pengarah hendaklah mengisytiharkan ketetapan kastam terbatal, dsb.
+
+46. Ketetapan kastam yang berbeza untuk hal perkara yang sama
+
+## BAHAGIAN VIII
 
 ## PERUNTUKAN KHAS YANG BERHUBUNGAN DENGAN KAWASAN DITETAPKAN
 
-47. Tafsiran 48. Perkhidmatan bercukai yang diberikan di dalam atau di antara kawasan ditetapkan, dsb. 49. Perkhidmatan bercukai yang diberikan oleh orang yang tempat perniagaan utamanya terletak di kawasan ditetapkan 50. Perkhidmatan bercukai yang diberikan ke kawasan ditetapkan oleh orang berdaftar yang tempat perniagaan utamanya terletak di Malaysia 51. Kuasa Menteri untuk mengenakan cukai perkhidmatan
+47. Tafsiran
 
-## Bahagian IX
+48. Perkhidmatan bercukai yang diberikan di dalam atau di antara kawasan ditetapkan, dsb.
+
+49. Perkhidmatan bercukai yang diberikan oleh orang yang tempat perniagaan utamanya terletak di kawasan ditetapkan
+
+50. Perkhidmatan bercukai yang diberikan ke kawasan ditetapkan oleh orang berdaftar yang tempat perniagaan utamanya terletak di Malaysia
+
+51. Kuasa Menteri untuk mengenakan cukai perkhidmatan
+
+## BAHAGIAN IX
 
 ## PERUNTUKAN KHAS YANG BERHUBUNGAN DENGAN KAWASAN KHAS
 
-52. Tafsiran 53. Perkhidmatan bercukai yang diberikan di dalam atau di antara kawasan khas, dsb.
+52. Tafsiran
+
+53. Perkhidmatan bercukai yang diberikan di dalam atau di antara kawasan khas, dsb.
 
 <!-- page 4 -->
 
@@ -116,7 +148,7 @@
 
 56. Kuasa Menteri untuk mengenakan cukai perkhidmatan
 
-## Bahagian X
+## BAHAGIAN X
 
 ## PENGUATKUASAAN
 
@@ -134,7 +166,7 @@
 
 63. Kuasa menangkap
 
-## Bahagian XI
+## BAHAGIAN XI
 
 ## PERBICARAAN DAN PROSIDING
 
@@ -152,7 +184,7 @@
 
 70. Tiada kos atau ganti rugi yang berbangkit daripada penyitaan boleh didapatkan balik melainkan jika penyitaan dibuat tanpa sebab yang munasabah atau sebab yang barangkali
 
-## Bahagian XII
+## BAHAGIAN XII
 
 AM
 
@@ -162,13 +194,55 @@ AM
 
 <!-- page 5 -->
 
-73. Mendapatkan pembayaran balik secara tidak wajar 74. Pekerja boleh membuat urusan 75. Membuat urusan bagi pihak orang kena cukai 76. Kesalahan oleh orang yang diberi kuasa dan orang yang tidak diberi kuasa 77. Halangan 78. Kesalahan oleh syarikat, dsb. 79. Penalti am 80. Pengkompaunan kesalahan 81. Kajian semula dan rayuan 82. Pelikuidasi syarikat hendaklah memberikan notis penggulungan, dan mengetepikan cukai perkhidmatan 83. Pelantikan penerima hendaklah diberitahu kepada Ketua Pengarah 84. Orang berdaftar hendaklah mengemukakan perakuan audit 85. Cukai perkhidmatan, dsb., hendaklah kena dibayar walau apa pun apa-apa prosiding, dsb. 86. Penyampaian notis, dsb. 87. Penggunaan perkhidmatan elektronik 88. Perlindungan pegawai cukai perkhidmatan daripada tanggungan 89. Ganjaran 90. Kuasa Ketua Pengarah untuk mengenakan fi 91. Kuasa membuat peraturan-peraturan
+73. Mendapatkan pembayaran balik secara tidak wajar
 
-## Bahagian XIII
+74. Pekerja boleh membuat urusan
+
+75. Membuat urusan bagi pihak orang kena cukai
+
+76. Kesalahan oleh orang yang diberi kuasa dan orang yang tidak diberi kuasa
+
+77. Halangan
+
+78. Kesalahan oleh syarikat, dsb.
+
+79. Penalti am
+
+80. Pengkompaunan kesalahan
+
+81. Kajian semula dan rayuan
+
+82. Pelikuidasi syarikat hendaklah memberikan notis penggulungan, dan mengetepikan cukai perkhidmatan
+
+83. Pelantikan penerima hendaklah diberitahu kepada Ketua Pengarah
+
+84. Orang berdaftar hendaklah mengemukakan perakuan audit
+
+85. Cukai perkhidmatan, dsb., hendaklah kena dibayar walau apa pun apa-apa prosiding, dsb.
+
+86. Penyampaian notis, dsb.
+
+87. Penggunaan perkhidmatan elektronik
+
+88. Perlindungan pegawai cukai perkhidmatan daripada tanggungan
+
+89. Ganjaran
+
+90. Kuasa Ketua Pengarah untuk mengenakan fi
+
+91. Kuasa membuat peraturan-peraturan
+
+## BAHAGIAN XIII
 
 ## KECUALIAN DAN PERALIHAN
 
-92. Pendaftaran pada tarikh permulaan kuat kuasa 93. Perjanjian berperingkat atau berkala 94. Hak yang diberikan sepanjang hayat 95. Perkara yang dilakukan pada menjangkakan Akta ini diperbuat
+92. Pendaftaran pada tarikh permulaan kuat kuasa
+
+93. Perjanjian berperingkat atau berkala
+
+94. Hak yang diberikan sepanjang hayat
+
+95. Perkara yang dilakukan pada menjangkakan Akta ini diperbuat
 
 <!-- page 7 -->
 
@@ -178,7 +252,7 @@ Suatu Akta untuk mengadakan peruntukan bagi mengenakan, melevikan dan memungut c
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -260,7 +334,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “zon bebas” mempunyai erti yang diberikan kepadanya di bawah subseksyen 2(1) Akta Zon Bebas 1990 [Akta 438].
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENTADBIRAN
 
@@ -320,7 +394,7 @@ melakukan suatu kesalahan.
 
 (5) Walau apa pun subseksyen (4), Menteri boleh, sebagaimana yang difikirkan patut olehnya, membenarkan Ketua Pengarah untuk menghantar atau menyampaikan apa-apa dokumen, maklumat, penyata atau perisytiharan yang disebut dalam subseksyen (1) atau apa-apa jua yang terkandung dalamnya kepada mana-mana orang lain.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PENGENAAN DAN SKOP CUKAI PERKHIDMATAN
 
@@ -420,7 +494,7 @@ melakukan suatu kesalahan.
 
 (4) Jika perkhidmatan bercukai yang disebut dalam perenggan (3)(c) ialah pertaruhan dan perjudian, cukai perkhidmatan berkenaan dengan pertaruhan dan perjudian itu hendaklah menjadi genap masa pada masa yang ditetapkan di bawah perenggan (3)(b).
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENDAFTARAN
 
@@ -636,7 +710,7 @@ Ketua Pengarah boleh membatalkan pendaftaran orang itu berkuat kuasa dari tarikh
 
 <!-- page 29 -->
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PERAKAUNAN, TAKSIRAN, MENDAPATKAN BALIK, DSB.
 
@@ -936,7 +1010,7 @@ mengikut mana-mana yang berkenaan, hendaklah bersama dengan syarikat, perkongsia
 
 (2) Berhubung dengan suatu syarikat yang sedang digulung, pengarah syarikat itu hendaklah hanya bertanggungan jika aset syarikat itu tidak mencukupi untuk menjelaskan amaun yang terhutang, selepas membayar apa-apa jumlah wang yang mempunyai keutamaan di bawah Akta Syarikat 2016 [Akta 777] berhubung dengan penggunaan aset syarikat itu dalam penggulungan itu berbanding dengan cukai perkhidmatan, surcaj, penalti, fi atau wang lain itu.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PENGECUALIAN, PEMBAYARAN BALIK DAN PEREMITAN
 
@@ -1084,7 +1158,7 @@ boleh membuat tuntutan bagi pembayaran balik dalam borang yang ditetapkan.
 
 <!-- page 49 -->
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## KETETAPAN
 
@@ -1164,7 +1238,7 @@ boleh membuat tuntutan bagi pembayaran balik dalam borang yang ditetapkan.
 
 46. Jika pemohon yang disebut dalam seksyen 42 menerima dua atau lebih ketetapan kastam yang berbeza mengenai hal perkara yang sama, ketetapan-ketetapan itu hendaklah dianggap sebagai terbatal dan tidak sah, dan pemohon itu hendaklah dengan segera memberitahu Ketua Pengarah yang hendaklah, dalam masa tiga puluh hari dari tarikh pemberitahuan itu, membuat suatu ketetapan kastam yang baharu.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## PERUNTUKAN KHAS YANG BERHUBUNGAN DENGAN
 
@@ -1200,7 +1274,7 @@ boleh membuat tuntutan bagi pembayaran balik dalam borang yang ditetapkan.
 
 51. Menteri boleh, melalui perintah yang disiarkan dalam Warta, menetapkan apa-apa perkhidmatan yang diberikan di dalam atau di antara kawasan ditetapkan atau di antara kawasan ditetapkan dengan kawasan khas supaya dikenakan cukai perkhidmatan.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## PERUNTUKAN KHAS YANG BERHUBUNGAN DENGAN
 
@@ -1236,7 +1310,7 @@ boleh membuat tuntutan bagi pembayaran balik dalam borang yang ditetapkan.
 
 56. Menteri boleh, melalui perintah yang disiarkan dalam Warta, menetapkan apa-apa perkhidmatan yang diberikan di dalam atau di antara kawasan khas atau di antara kawasan khas dengan kawasan ditetapkan supaya dikenakan cukai perkhidmatan.
 
-## Bahagian X
+## BAHAGIAN X
 
 ## PENGUATKUASAAN
 
@@ -1398,7 +1472,7 @@ perkhidmatan itu, tetapi orang itu boleh ditahan sehingga ketibaan pegawai kanan
 
 (b) apabila diberitahu secara bertulis oleh penjamin orang itu bahawa orang itu berkemungkinan akan memungkiri mana-mana syarat yang tertakluk kepadanya orang itu dilepaskan dan bahawa penjamin itu berhasrat untuk dilepaskan daripada obligasinya sebagai penjamin.
 
-## Part XI
+## PART XI
 
 ## PERBICARAAN DAN PROSIDING
 
@@ -1474,7 +1548,7 @@ beban pembuktian bagi pertikaian itu hendaklah terletak pada tertuduh dalam pend
 
 70. Tiada seorang pun, dalam apa-apa prosiding di hadapan mana-mana mahkamah berkenaan dengan penyitaan apa-apa barang, dokumen, artikel atau benda dalam menjalankan atau berupa sebagai menjalankan apa-apa kuasa yang diberikan di bawah Akta ini, berhak untuk mendapatkan kos prosiding itu atau apa-apa ganti rugi atau relief lain, selain suatu perintah bagi pemulangan barang, dokumen, artikel atau benda itu atau pembayaran nilai barang, dokumen, artikel atau benda itu, melainkan jika penyitaan itu telah dibuat tanpa sebab yang munasabah atau sebab yang barangkali.
 
-## Bahagian XII
+## BAHAGIAN XII
 
 AM
 
@@ -1792,7 +1866,7 @@ atau sebab lain semasa barang, dokumen, artikel atau benda itu berada dalam jaga
 
 <!-- page 81 -->
 
-## Bahagian XIII
+## BAHAGIAN XIII
 
 ## KECUALIAN DAN PERALIHAN
 
@@ -1854,7 +1928,7 @@ atau sebab lain semasa barang, dokumen, artikel atau benda itu berada dalam jaga
 
 Rang Undang-Undang Cukai Perkhidmatan 2018 yang dicadangkan (“Akta yang dicadangkan”) bertujuan untuk mengadakan peruntukan bagi mengenakan, melevikan dan memungut cukai perkhidmatan, dan bagi perkara yang berkaitan dengannya. Akta yang dicadangkan dan Rang Undang-Undang Cukai Jualan 2018 yang dicadangkan memperuntukkan pelaksanaan suatu sistem percukaian baharu, iaitu cukai jualan dan cukai perkhidmatan, yang akan menggantikan cukai barang dan perkhidmatan di bawah Akta Cukai Barang dan Perkhidmatan 2014 [Akta 762].
 
-## Bahagian I
+## BAHAGIAN I
 
 1. Bahagian I memperkatakan perkara permulaan.
 
@@ -1862,7 +1936,7 @@ Rang Undang-Undang Cukai Perkhidmatan 2018 yang dicadangkan (“Akta yang dicada
 
 3. Fasal 2 mengandungi takrif bagi perkataan dan ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 4. Bahagian II memperkatakan pentadbiran mengenai perkara yang berhubungan dengan cukai perkhidmatan.
 
@@ -1876,7 +1950,7 @@ Rang Undang-Undang Cukai Perkhidmatan 2018 yang dicadangkan (“Akta yang dicada
 
 8. Fasal 6 bertujuan untuk memperuntukkan bahawa mana-mana orang yang mempunyai kewajipan rasmi, yang diambil kerja atau dilantik di bawah Akta yang dicadangkan, berkewajipan untuk menganggap dan menguruskan apa-apa maklumat, dokumen, penyata atau perisytiharan yang berhubungan dengan perniagaan atau nilai pembekalan perkhidmatan oleh mana-mana orang kena cukai sebagai rahsia. Fasal 6 juga bertujuan memperuntukkan bahawa maklumat, dokumen, penyata atau perisytiharan itu hanya boleh didedahkan oleh orang itu bagi maksud melaksanakan peruntukan Akta yang dicadangkan atau pendakwaan bagi suatu kesalahan.
 
-## Bahagian III
+## BAHAGIAN III
 
 9. Bahagian III memperkatakan peruntukan yang berhubungan dengan pengenaan dan skop cukai perkhidmatan.
 
@@ -1890,7 +1964,7 @@ Rang Undang-Undang Cukai Perkhidmatan 2018 yang dicadangkan (“Akta yang dicada
 
 14. Fasal 11 bertujuan untuk memperuntukkan bagi masa yang cukai perkhidmatan menjadi genap masa berkenaan dengan perkhidmatan bercukai.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 15. Bahagian IV memperkatakan peruntukan yang berhubungan dengan pendaftaran sebagai orang berdaftar di bawah Akta yang dicadangkan.
 
@@ -1914,7 +1988,7 @@ Rang Undang-Undang Cukai Perkhidmatan 2018 yang dicadangkan (“Akta yang dicada
 
 24. Fasal 20 memperkatakan pembatalan pendaftaran orang berdaftar dan tarikh kuat kuasa pembatalan itu.
 
-## Bahagian V
+## BAHAGIAN V
 
 25. Bahagian V memperkatakan tentang perakaunan, taksiran, mendapatkan balik, dsb., yang berhubungan dengan cukai perkhidmatan.
 
@@ -1948,7 +2022,7 @@ Rang Undang-Undang Cukai Perkhidmatan 2018 yang dicadangkan (“Akta yang dicada
 
 38. Fasal 33 bertujuan untuk memperkatakan tanggungan pengarah syarikat, pegawai pematuhan perkongsian liabiliti terhad, pekongsi firma, pemegang jawatan pertubuhan atau orang yang bertanggungjawab bagi pengurusan kumpulan orang bagi apa-apa cukai perkhidmatan yang genap masa dan kena dibayar, apa-apa surcaj yang terakru, atau apa-apa penalti, fi atau wang lain yang kena dibayar, oleh syarikat, perkongsian liabiliti terhad, firma, pertubuhan atau kumpulan orang itu.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 39. Bahagian VI memperkatakan peruntukan yang berhubungan dengan pengecualian, pembayaran balik dan peremitan cukai perkhidmatan.
 
@@ -1968,7 +2042,7 @@ Rang Undang-Undang Cukai Perkhidmatan 2018 yang dicadangkan (“Akta yang dicada
 
 46. Fasal 40 bertujuan untuk memberi Menteri kuasa untuk meremit cukai perkhidmatan yang genap masa dan kena dibayar di bawah Akta yang dicadangkan dan untuk memberi Ketua Pengarah kuasa untuk meremit surcaj yang terakru, atau penalti, fi atau wang lain yang kena dibayar, di bawah Akta yang dicadangkan.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 47. Bahagian VII memperkatakan ketetapan umum dan ketetapan kastam.
 
@@ -1986,7 +2060,7 @@ Rang Undang-Undang Cukai Perkhidmatan 2018 yang dicadangkan (“Akta yang dicada
 
 53. Fasal 46 bertujuan untuk memperuntukkan bahawa jika pemohon menerima dua atau lebih ketetapan kastam mengenai hal perkara yang sama, pemohon itu hendaklah dengan segera memberitahu Ketua Pengarah dan Ketua Pengarah hendaklah membuat suatu ketetapan kastam yang baharu dalam masa tiga puluh hari dari tarikh pemberitahuan itu.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 54. Bahagian VIII memperkatakan peruntukan khas yang berhubungan dengan kawasan ditetapkan (Labuan, Langkawi dan Tioman).
 
@@ -2000,7 +2074,7 @@ Rang Undang-Undang Cukai Perkhidmatan 2018 yang dicadangkan (“Akta yang dicada
 
 59. Fasal 51 bertujuan untuk memberi Menteri kuasa untuk menetapkan apa-apa perkhidmatan yang diberikan di dalam atau di antara kawasan ditetapkan atau di antara kawasan ditetapkan dengan kawasan khas supaya dikenakan cukai perkhidmatan.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 60. Bahagian IX memperkatakan peruntukan khas yang berhubungan dengan kawasan khas (mana-mana zon bebas, gudang berlesen dan gudang pengilangan berlesen, dan Kawasan Pembangunan Bersama).
 
@@ -2016,7 +2090,7 @@ Rang Undang-Undang Cukai Perkhidmatan 2018 yang dicadangkan (“Akta yang dicada
 
 65. Fasal 56 bertujuan untuk memberi Menteri kuasa untuk menetapkan apa-apa perkhidmatan yang diberikan di dalam atau di antara kawasan khas atau di antara kawasan khas dengan kawasan ditetapkan supaya dikenakan cukai perkhidmatan.
 
-## Bahagian X
+## BAHAGIAN X
 
 66. Bahagian X memperkatakan peruntukan yang berhubungan dengan penguatkuasaan Akta yang dicadangkan.
 
@@ -2036,7 +2110,7 @@ Rang Undang-Undang Cukai Perkhidmatan 2018 yang dicadangkan (“Akta yang dicada
 
 73. Fasal 63 bertujuan untuk memberi mana-mana pegawai cukai perkhidmatan yang hak kuasa untuk menangkap tanpa waran.
 
-## Bahagian XI
+## BAHAGIAN XI
 
 74. Bahagian XI memperkatakan peruntukan yang berhubungan dengan perbicaraan dan prosiding.
 
@@ -2054,7 +2128,7 @@ Rang Undang-Undang Cukai Perkhidmatan 2018 yang dicadangkan (“Akta yang dicada
 
 81. Fasal 70 bertujuan untuk tidak membenarkan apa-apa kos prosiding atau ganti rugi diawardkan berkenaan dengan apa-apa barang, dokumen, artikel atau benda yang disita melainkan jika penyitaan itu dibuat tanpa sebab yang munasabah.
 
-## Bahagian XII
+## BAHAGIAN XII
 
 82. Bahagian XII memperkatakan peruntukan am.
 
@@ -2104,7 +2178,7 @@ Rang Undang-Undang Cukai Perkhidmatan 2018 yang dicadangkan (“Akta yang dicada
 
 103. Fasal 91 bertujuan untuk memberi Menteri kuasa untuk membuat peraturan-peraturan bagi maksud Akta yang dicadangkan.
 
-## Bahagian XIII
+## BAHAGIAN XIII
 
 104. Bahagian XIII memperkatakan peruntukan kecualian dan peralihan.
 

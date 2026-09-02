@@ -132,7 +132,9 @@ This Bill seeks to amend the Small Estates (Distribution) Act 1955 (“Act 98”
 
 3. Clause 2 seeks to make general amendment to Act 98. The word “Collector” is now replaced with the words “Land Administrator”.
 
-4. Clause 3 seeks to amend section 2 of Act 98. This amendment seeks to introduce the definitions of “Corporation” and “valuation officer” into Act 98.
+4. Clause 3 seeks to amend section 2 of Act 98. This amendment seeks to introduce the definitions of “Corporation” and “valuation officer” into Act
+
+98.
 
 5. Clause 4 seeks to amend section 3 of Act 98 to redefine the expression of “small estate” to mean property of a deceased person not exceeding two million ringgit in total value, as distinct from its existing value of six hundred thousand ringgit.
 

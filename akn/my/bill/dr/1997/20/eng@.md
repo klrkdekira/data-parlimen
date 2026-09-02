@@ -38,7 +38,9 @@ BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong with the advice a
 
 <!-- page 2 -->
 
-2 Bill
+<!-- marginal: 2 -->
+
+Bill
 
 (b) a Director of Inland Revenue, Sabah and a Director of Inland Revenue, Sarawak; and
 

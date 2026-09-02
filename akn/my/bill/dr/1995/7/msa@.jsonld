@@ -96,7 +96,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@/~cl_2",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas takrif \"Pihak Berkuasa\" takrif yang berikut: \"tempat import atau eksport yang ditetapkan\" ertinya apa-apa tempat yang ditetapkan di bawah seksyen 142 Akta Kastam 1967 sebagai suatu tempat bagi import dan eksport barang-barang melalui jalan dan keretapi; \"tempat pendaratan yang sah di sisi undang- undang\" hendaklah mempunyai erti yang sama yang diberikan kepadanya di bawah Akta Kastam 1967;'. Pindaan"
+        "@value": "dengan memasukkan selepas takrif \"Pihak Berkuasa\" takrif yang berikut: \"tempat import atau eksport yang ditetapkan\" ertinya apa-apa tempat yang ditetapkan di bawah seksyen 142 Akta Kastam 1967 sebagai suatu tempat bagi import dan eksport barang-barang melalui jalan dan keretapi; \"tempat pendaratan yang sah di sisi undang- undang\" hendaklah mempunyai erti yang sama yang diberikan kepadanya di bawah Akta Kastam 1967;'."
       }
     },
     {
@@ -104,9 +104,13 @@
       "@type": "akn:clause",
       "eli:number": "3",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 17(1) Akta ibu adalah dipinda dengan"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Subseksyen 17(1) Akta ibu adalah dipinda dengan subseksyen memotong perkataan \"perindustrian\" yang terdapat selepas 17(1). perkataan \"zon\". Pindaan"
+        "@value": "memotong perkataan \"perindustrian\" yang terdapat selepas perkataan \"zon\"."
       }
     },
     {
@@ -114,9 +118,13 @@
       "@type": "akn:clause",
       "eli:number": "4",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 42 Akta ibu adalah dipinda dengan"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Seksyen 42 Akta ibu adalah dipinda dengan seksyen 42. menomborkannya semula sebagai subseksyen (1) seksyen itu dan dengan memasukkan selepas subseksyen (1) yang telah dinomborkan semula itu subseksyen yang berikut: \"(2) Apa-apa pemindahan dari kapal ke kapal dalam had-had pelabuhan zon bebas hendaklah disifatkan telah dilakukan dalam zon itu.\". Seksyen baru"
+        "@value": "menomborkannya semula sebagai subseksyen (1) seksyen itu dan dengan memasukkan selepas subseksyen (1) yang telah dinomborkan semula itu subseksyen yang berikut: \"(2) Apa-apa pemindahan dari kapal ke kapal dalam had-had pelabuhan zon bebas hendaklah disifatkan telah dilakukan dalam zon itu.\"."
       }
     },
     {
@@ -135,7 +143,7 @@
       },
       "schema:text": {
         "@language": "ms",
-        "@value": "42A. 42B seksyen 42 seksyen yang berikut: dan 42c Pemin- 42A. (1) Tiada barang-barang boleh dibawa dahan masuk ke, atau dimuatkan atau diangkut melalui barang- barang ke air untuk dimuatkan bagi dibawa keluar dari, dalam dan mana-mana zon bebas melalui laut— dari zon bebas"
+        "@value": "42A. 42B seksyen 42 seksyen yang berikut: Pemin- 42A. (1) Tiada barang-barang boleh dibawa dahan masuk ke, atau dimuatkan atau diangkut melalui barang- barang ke air untuk dimuatkan bagi dibawa keluar dari, dalam dan mana-mana zon bebas melalui laut— dari zon bebas"
       }
     },
     {

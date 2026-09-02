@@ -8,27 +8,41 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PIHAK BERKUASA
 
-3. Penubuhan Pihak Berkuasa 4. Meterai perbadanan 5. Keanggotaan Pihak Berkuasa 6. Anggota silih ganti 7. Tempoh jawatan 8. Saraan dan elaun 9. Pembatalan pelantikan dan peletakan jawatan 10. Pengosongan jawatan 11. Jawatankuasa 12. Penzahiran kepentingan 13.
+3. Penubuhan Pihak Berkuasa 4. Meterai perbadanan 5. Keanggotaan Pihak Berkuasa 6. Anggota silih ganti 7. Tempoh jawatan 8. Saraan dan elaun 9. Pembatalan pelantikan dan peletakan jawatan
+
+10. Pengosongan jawatan
+
+11. Jawatankuasa
+
+12. Penzahiran kepentingan
+
+13.
 
 ## Jadual
 
-14. Kod kelakuan 15. Panel Tatatertib dan prosiding tatatertib
+14. Kod kelakuan
 
-## Bahagian III
+15. Panel Tatatertib dan prosiding tatatertib
+
+## BAHAGIAN III
 
 ## FUNGSI DAN KUASA PIHAK BERKUASA
 
-16. Fungsi Pihak Berkuasa 17. Kuasa Pihak Berkuasa 18. Arahan oleh Menteri
+16. Fungsi Pihak Berkuasa
+
+17. Kuasa Pihak Berkuasa
+
+18. Arahan oleh Menteri
 
 <!-- page 2 -->
 
@@ -36,7 +50,7 @@
 
 20. Kesahan tindakan dan prosiding
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PEKERJA PIHAK BERKUASA
 
@@ -50,7 +64,7 @@
 
 25. Pembayaran faedah persaraan, dsb.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PERUNTUKAN KEWANGAN
 
@@ -76,7 +90,7 @@
 
 36. Kuasa untuk menubuhkan syarikat
 
-## Bahagian VI
+## BAHAGIAN VI
 
 AM
 
@@ -94,13 +108,13 @@ AM
 
 42. Obligasi kerahsiaan 43. Kuasa untuk meminda Jadual 44. Perkara yang dilakukan pada menjangkakan Akta ini diperbuat
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PERUNTUKAN PELETAKHAKAN
 
 45. Peruntukan peletakhakan
 
-## Jadual
+## JADUAL
 
 <!-- page 5 -->
 
@@ -110,7 +124,7 @@ Suatu Akta untuk menubuhkan dan memperbadankan Pihak Berkuasa Penerbangan Awam M
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -144,9 +158,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “Pihak Berkuasa” ertinya Pihak Berkuasa Penerbangan Awam Malaysia yang ditubuhkan di bawah seksyen 3.
 
-## Bahagian II
+## BAHAGIAN II
 
-PihaK BERKuaSa
+## PIHAK BERKUASA
 
 ### Penubuhan Pihak Berkuasa
 
@@ -398,9 +412,9 @@ apabila perkara itu dibincangkan atau diputuskan.
 
 <!-- page 17 -->
 
-## Bahagian iii
+## BAHAGIAN III
 
-FungSi dan KuaSa PihaK BERKuaSa
+## FUNGSI DAN KUASA PIHAK BERKUASA
 
 ### Fungsi Pihak Berkuasa
 
@@ -588,7 +602,7 @@ akan dibawa oleh kapal udara seperti penyediaan perkhidmatan dan kemudahan yang 
 
 (b) apa-apa peninggalan, kecacatan atau ketidakteraturan yang tidak menyentuh merit kes itu.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PEKERJA PIHAK BERKUASA
 
@@ -638,9 +652,9 @@ akan dibawa oleh kapal udara seperti penyediaan perkhidmatan dan kemudahan yang 
 
 25. Pihak Berkuasa boleh membuat perkiraan bagi pembayaran kepada pekerjanya dan tanggungan mereka apa-apa faedah persaraan, ganjaran dan elaun lain sebagaimana yang ditentukan oleh Pihak Berkuasa.
 
-## Bahagian V
+## BAHAGIAN V
 
-PERunTuKan KEWangan
+## PERUNTUKAN KEWANGAN
 
 ### Kumpuan Wang Pihak Berkuasa Penerbangan Awam Malaysia
 
@@ -740,7 +754,7 @@ PERunTuKan KEWangan
 
 <!-- page 31 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 AM
 
@@ -806,7 +820,7 @@ mana-mana orang yang diberi kuasa oleh Pihak Berkuasa bagi maksud itu boleh, bag
 
 44. Segala perbuatan dan perkara yang dilakukan oleh mana-mana orang atau pihak berkuasa bagi pihak Pihak Berkuasa dalam menyediakan atau menjangkakan pembuatan Akta ini dan apa-apa perbelanjaan yang dilakukan berhubungan dengannya hendaklah disifatkan telah dibenarkan di bawah Akta ini, dengan syarat perbuatan dan perkara yang dibuat itu selaras dengan niat dan maksud am Akta ini; dan segala hak dan obligasi yang diperoleh atau ditanggung akibat pelakuan perbuatan atau perkara itu termasuk apa-apa perbelanjaan yang dilakukan berhubung dengannya hendaklah, apabila Akta ini mula berkuat kuasa, disifatkan sebagai hak dan obligasi Pihak Berkuasa.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PERUNTUKAN PELETAKHAKAN
 
@@ -838,7 +852,7 @@ peletakhakan yang dibuat di bawah subseksyen (1).
 
 (8) Dalam seksyen ini, “tarikh peletakhakan” ertinya tarikh yang ditetapkan oleh Menteri di bawah subseksyen (1).
 
-## Jadual
+## JADUAL
 
 [Seksyen 13]
 
@@ -942,7 +956,7 @@ Pada masa ini fungsi Pihak Berkuasa yang dinyatakan dalam Akta yang dicadangkan 
 
 Dengan penubuhan Pihak Berkuasa ini sebagai suatu badan berkanun, Pihak Berkuasa akan mempunyai banyak keanjalan untuk menarik dan mengekalkan kakitangan teknikal yang berkelayakan dalam perkara yang berhubungan dengan penerbangan awam bagi memastikan obligasi Malaysia di peringkat kebangsaan dan antarabangsa yang berhubungan dengan penerbangan awam dapat dijalankan, dan standard dan kehendak perihal selamat dan keselamatan sejagat dalam penerbangan awam dikuatkuasakan, dipatuhi dan disenggara dengan baik.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan memperkatakan perkara permulaan.
 
@@ -952,7 +966,7 @@ Dengan penubuhan Pihak Berkuasa ini sebagai suatu badan berkanun, Pihak Berkuasa
 
 4. Fasal 2 mengandungi takrif beberapa perkataan dan ungkapan yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 5. Bahagian II Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan penubuhan Pihak Berkuasa.
 
@@ -984,7 +998,7 @@ Dengan penubuhan Pihak Berkuasa ini sebagai suatu badan berkanun, Pihak Berkuasa
 
 18. Fasal 15 bertujuan untuk mengadakan peruntukan bagi panel tatatertib yang hendaklah menjalankan prosiding tatatertib sekiranya terdapat apa-apa pelanggaran kod kelakuan.
 
-## Bahagian III
+## BAHAGIAN III
 
 19. Bahagian III Akta yang dicadangkan memperkatakan fungsi dan kuasa Pihak Berkuasa.
 
@@ -996,7 +1010,7 @@ Dengan penubuhan Pihak Berkuasa ini sebagai suatu badan berkanun, Pihak Berkuasa
 
 23. Fasal 20 bertujuan untuk mengadakan peruntukan mengenai tiada tindakan yang dilakukan atau prosiding yang diambil di bawah Akta yang dicadangkan boleh dipersoalkan atas alasan apa-apa kekosongan dalam keanggotaan atau apa-apa kecacatan dalam keanggotaan Pihak Berkuasa, atau apa-apa peninggalan, kecacatan atau ketidakteraturan yang tidak menyentuh merit kes itu.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 24. Bahagian IV Akta yang dicadangkan memperkatakan fungsi Ketua Pegawai Eksekutif, dan pekerja Pihak Berkuasa.
 
@@ -1012,7 +1026,7 @@ Dengan penubuhan Pihak Berkuasa ini sebagai suatu badan berkanun, Pihak Berkuasa
 
 29. Fasal 25 bertujuan untuk membenarkan Pihak Berkuasa untuk membuat perkiraan bagi pembayaran faedah persaraan, ganjaran dan elaun lain kepada pekerja Pihak Berkuasa dan tanggungan mereka.
 
-## Bahagian V
+## BAHAGIAN V
 
 30. Bahagian V Akta yang dicadangkan mengandungi peruntukan kewangan.
 
@@ -1042,7 +1056,7 @@ salinan laporan aktivitinya dan salinan laporan juruaudit kepada Menteri yang ke
 
 41. Fasal 36 bertujuan untuk membenarkan Pihak Berkuasa, dengan kelulusan Menteri dan persetujuan Menteri Kewangan, untuk menubuhkan syarikat.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 42. Bahagian VI Akta yang dicadangkan mengadakan peruntukan am.
 
@@ -1064,7 +1078,7 @@ salinan laporan aktivitinya dan salinan laporan juruaudit kepada Menteri yang ke
 
 50. Fasal 44 mengadakan peruntukan bagi kesahan perbuatan dan perkara yang dilakukan pada menjangkakan pembuatan Akta yang dicadangkan.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 51. Bahagian VII memperkatakan peruntukan peletakhakan.
 

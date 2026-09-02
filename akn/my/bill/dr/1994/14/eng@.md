@@ -10,11 +10,7 @@ BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong with the advice a
 
 <!-- marginal: Short title. -->
 
-1. This Act may be cited as
-
-<!-- marginal: the Constitution -->
-
-(Amendment) Act 1994.
+1. This Act may be cited as the Constitution (Amendment) Act 1994.
 
 <!-- marginal: Amendment -->
 
@@ -40,29 +36,47 @@ Clauses (1) and (2) by substituting for the words "Lord President of the Supreme
 
 inserting after Clause (1) the following Clause:
 
-"(1A) In the exercise of his functions under this Constitution or federal law, where
-
-<!-- marginal: the Yang -->
-
-di-Pertuan Agong is to act in accordance with advice, on advice. or after considering advice, the Yang di-Pertuan Agong shall accept and act in accordance with such advice.".
+"(1A) In the exercise of his functions under this Constitution or federal law, where the Yang di-Pertuan Agong is to act in accordance with advice, on advice. or after considering advice, the Yang di-Pertuan Agong shall accept and act in accordance with such advice.".
 
 <!-- page 2 -->
 
 ## BILL
 
-Amendment 5. Article 43A of the Federal Constitution is amended in of Article Clause (3) by substituting for the words "Clauses (5), (6)
+<!-- marginal: Amendment -->
+
+5. Article 43A of the Federal Constitution is amended in
+
+<!-- marginal: of Article -->
+
+Clause (3) by substituting for the words "Clauses (5), (6)
 
 43A. and (8)" the words "Clauses (5) and (6)".
 
-Amendment 6. Article 55 of the Federal Constitution is amended by of Article 55 deleting Clause (6).
+<!-- marginal: Amendment -->
 
-Amendment 7. Article 65 of the Federal Constitution is amended in of Article 65. Clause (3) by substituting for the word "Supreme" the word "Federal".
+6. Article 55 of the Federal Constitution is amended by
 
-Amendment 8. Article 66 of the Federal Constitution
+<!-- marginal: of Article 55 -->
+
+deleting Clause (6).
+
+<!-- marginal: Amendment -->
+
+7. Article 65 of the Federal Constitution is amended in
+
+<!-- marginal: of Article 65. -->
+
+Clause (3) by substituting for the word "Supreme" the word "Federal".
+
+<!-- marginal: Amendment -->
+
+8. Article 66 of the Federal Constitution
 
 <!-- marginal: is -->
 
-of Article 66. amended—
+<!-- marginal: of Article 66. -->
+
+amended—
 
 (a) by substituting for Clauses (4) and (4A) the following Clauses: "(4) The Yang di-Pertuan Agong shall within thirty days after a Bill is presented to him assent to the Bill by causing the Public Seal to be affixed thereto. (4A) If a Bill is not assented to by the Yang di-Pertuan Agong within the time specified in Clause (4), it shall become law at the expiration of the time specified in that Clause in the like manner as if he had assented thereto.";
 
@@ -70,13 +84,19 @@ of Article 66. amended—
 
 (c) in Clause (5), by substituting for the words "Clause (4B)" the words "Clause (4A)".
 
-Amendment 9. Article 80 of the Federal Constitution is amended in of Article
+<!-- marginal: Amendment -->
+
+9. Article 80 of the Federal Constitution is amended in
+
+<!-- marginal: of Article -->
 
 80. Clause (6) by substituting for the words "Lord President of the Supreme Court" the words "Chief Justice of the Federal Court".
 
-Amendment
+<!-- marginal: Amendment -->
 
-10. Article 87 of the Federal Constitution is amended— of Article 87.
+10. Article 87 of the Federal Constitution is amended—
+
+<!-- marginal: of Article 87. -->
 
 (a) in Clause (2)— (i) by substituting for the words "Lord President of the Supreme Court" in paragraph (a) the words "Chief Justice of the Federal Court"; and
 
@@ -144,19 +164,27 @@ amended—
 
 (d) in Clause (4), by substituting for the words "Borneo" and "Justice" the words "Sabah and Sarawak" and "Judge" respectively.
 
-Amendment
+<!-- marginal: Amendment -->
 
-14. Article 122 of the Federal Constitution
+14. Article 122 of the Federal Constitution is
 
-<!-- marginal: is -->
+<!-- marginal: of Article -->
 
-of Article amended— 122
+<!-- marginal: amended— -->
+
+<!-- marginal: 122 -->
 
 (a) in the marginal note, by substituting for the word "Supreme" the word "Federal";
 
-(b) in Clause (1)— (i) by substituting for the word "Supreme" the word "Federal"; and (ii) by substituting for the words "Lord President of the Supreme Court"), of the Chief Justices of the High Courts" the words "Chief Justice of the Federal Court"), of the President of the Court of Appeal, of the Chief Judges of the High Courts";
+(b) in Clause (1)—
 
-(c) in Clause (1A)— (i) by substituting for the words "Lord President of the Supreme Court" the words "Chief Justice of the Federal Court"; and
+(i) by substituting for the word "Supreme" the word "Federal"; and
+
+(ii) by substituting for the words "Lord President of the Supreme Court"), of the Chief Justices of the High Courts" the words "Chief Justice of the Federal Court"), of the President of the Court of Appeal, of the Chief Judges of the High Courts";
+
+(c) in Clause (1A)—
+
+(i) by substituting for the words "Lord President of the Supreme Court" the words "Chief Justice of the Federal Court"; and
 
 (ii) by substituting for the word "Supreme" the word "Federal"; and
 
@@ -176,7 +204,19 @@ for Article 122A the following Article:
 
 <!-- marginal: 122A. -->
 
-Constitu- 122A. (1) The Court of Appeal shall consist of tion of a chairman (to be styled the "President of Court of Appeal the Court of Appeal") and, until the Yang di-Pertuan Agong by order otherwise provides of ten other judges.
+<!-- marginal: Constitu- -->
+
+122A. (1) The Court of Appeal shall consist of
+
+<!-- marginal: tion of -->
+
+a chairman (to be styled the "President of
+
+<!-- marginal: Court of -->
+
+<!-- marginal: Appeal -->
+
+the Court of Appeal") and, until the Yang di-Pertuan Agong by order otherwise provides of ten other judges.
 
 (2) A judge of a High Court may sit as a judge of the Court of Appeal where the President of the Court of Appeal considers that the interests of justice so require, and the judge shall be nominated for the purpose (as occasion requires) by the President of the Court of Appeal after consulting the Chief Judge of that High Court.".
 
@@ -190,13 +230,19 @@ after Article 122A the following Articles:
 
 <!-- marginal: 122AB -->
 
-Constitu- 122AA. (1) Each of the High Courts shall tion of consist of a Chief Judge and not
+<!-- marginal: Constitu- -->
 
-<!-- marginal: less -->
+122AA. (1) Each of the High Courts shall
 
-<!-- marginal: than -->
+<!-- marginal: tion of -->
 
-the High Courts. four other judges; but the number of other judges shall not, until the Yang di-Pertuan Agong by order otherwise provides, exceed—
+consist of a Chief Judge and not less than
+
+<!-- marginal: the High -->
+
+<!-- marginal: Courts. -->
+
+four other judges; but the number of other judges shall not, until the Yang di-Pertuan Agong by order otherwise provides, exceed—
 
 (a) in the High Court in Malaya, forty-seven; and
 
@@ -210,19 +256,13 @@ the High Courts. four other judges; but the number of other judges shall not, un
 
 122AB. (1) For the despatch of business of the High Court in Malaya and the High Court in Sabah and Sarawak, the Yang di-Pertuan Agong acting on the advice of the Prime Minister, after consulting the Chief Justice of the Federal Court, may by order appoint to be judicial commissioner for such period or such purposes as may be specified in the order any person qualified for appointment as a judge of a High Court; and the person so appointed shall have power to perform such functions of a judge of the High Court as appear to him to require tp be performed; and anything done by him when acting in accordance with his appointment shall have the same validity and effect as if done by a judge of that Court, and in respect thereof he shall have the same powers and enjoy the same immunities as if he had been a judge of that Court.
 
-(2) The provisions of Clauses (2) and (5) of Article 124 shall apply to a
+(2) The provisions of Clauses (2) and (5) of Article 124 shall apply to a judicial commissioner as they apply to a judge of a High Court".
 
-<!-- marginal: judicial -->
+<!-- marginal: Amendment -->
 
-commissioner as they apply to a judge of a High Court".
+17. Article 122B of the Federal Constitution is
 
-Amendment
-
-17. Article 122B of the Federal Constitution
-
-<!-- marginal: is -->
-
-### of Article
+<!-- marginal: of Article -->
 
 amended—
 
@@ -268,17 +308,27 @@ amended—
 
 (ii) by substituting for the words "Lord President" the words "Chief Justice".
 
-Amendment
+<!-- marginal: Amendment -->
 
-18. Article 122c of the Federal Constitution is amended of Article by substituting for the words "Justice", "Lord President 122c. of the Supreme Court" and "Justices" wherever they appear the words "Judge", "Chief Justice of the Federal Court" and "Judges" respectively.
+18. Article 122c of the Federal Constitution is amended
 
-Amendment
+<!-- marginal: of Article -->
+
+by substituting for the words "Justice", "Lord President
+
+<!-- marginal: 122c. -->
+
+of the Supreme Court" and "Justices" wherever they appear the words "Judge", "Chief Justice of the Federal Court" and "Judges" respectively.
+
+<!-- marginal: Amendment -->
 
 19. Article 123 of the Federal Constitution
 
 <!-- marginal: is -->
 
-of Article amended—
+<!-- marginal: of Article -->
+
+amended—
 
 123.
 
@@ -286,13 +336,17 @@ of Article amended—
 
 (b) by substituting for the words "Supreme Court" the words "Federal Court, as a judge of the Court of Appeal".
 
-Amendment
+<!-- marginal: Amendment -->
 
 20. Article 124 of the Federal Constitution
 
 <!-- marginal: is -->
 
-of Article amended— 124
+<!-- marginal: of Article -->
+
+amended—
+
+<!-- marginal: 124 -->
 
 (a) in Clause (1), by substituting for the words "Lord President of the Supreme Court" the words "Chief Justice of the Federal Court";
 
@@ -318,27 +372,23 @@ of Article amended— 124
 
 (ii) by substituting for the word "Justice" wherever it appears the word "Judge".
 
-<!-- marginal: 1S Amendment -->
+1S Amendment
 
 21. Article 125 of the Federal Constitution
 
 <!-- marginal: of Article -->
 
-amended—
+<!-- marginal: amended— -->
 
 <!-- marginal: 125. -->
 
 (a) in Clauses (1) and (2), by substituting for the word "Supreme" the word "Federal";
 
-(b) in Clause (3)— (i) by substituting for the words "Lord President" and "Supreme" the words "Chief Justice" and
+(b) in Clause (3)—
 
-<!-- marginal: "Federal" -->
+(i) by substituting for the words "Lord President" and "Supreme" the words "Chief Justice" and "Federal" respectively; and
 
-respectively; and (ii) by substituting for
-
-<!-- marginal: the words -->
-
-"misbehaviour or" the words "any breach of any provision of the code of ethics prescribed under Clause (3A) or on the ground";
+(ii) by substituting for the words "misbehaviour or" the words "any breach of any provision of the code of ethics prescribed under Clause (3A) or on the ground";
 
 (c) by inserting after Clause (3) the following
 
@@ -350,7 +400,11 @@ respectively; and (ii) by substituting for
 
 consulting the Prime Minister, prescribe in writing a code of ethics which shall be observed by every judge of the Federal Court.";
 
-(d) in Clause (4)— (i) by substituting for the words "Supreme Court" the words "Federal Court, the Court of Appeal"; and (ii) by substituting for the words "Lord President of the Supreme Court, the Chief Justices" the words "Chief Justice of the Federal Court, the President and the Chief Judges";
+(d) in Clause (4)—
+
+(i) by substituting for the words "Supreme Court" the words "Federal Court, the Court of Appeal"; and
+
+(ii) by substituting for the words "Lord President of the Supreme Court, the Chief Justices" the words "Chief Justice of the Federal Court, the President and the Chief Judges";
 
 (e) in Clause (5), by substituting for the words "Lord President" and "Supreme" the words "Chief Justice" and "Federal" respectively;
 
@@ -422,11 +476,15 @@ by substituting for the words "Supreme Court" the words
 
 ## BILL
 
-Amendment 25. Article 128 of the Federal Constitution
+<!-- marginal: Amendment -->
+
+25. Article 128 of the Federal Constitution
 
 <!-- marginal: is -->
 
-of Article amended—
+<!-- marginal: of Article -->
+
+amended—
 
 128.
 
@@ -436,15 +494,25 @@ of Article amended—
 
 "(3) The jurisdiction of the Federal Court to determine appeals from the Court of Appeal, a High Court or a judge thereof shall be such as may be provided by federal law.".
 
-Amendment 26. Article 130 of the Federal Constitution is amended of Article by substituting for the word "Supreme" in the marginal
+<!-- marginal: Amendment -->
+
+26. Article 130 of the Federal Constitution is amended
+
+<!-- marginal: of Article -->
+
+by substituting for the word "Supreme" in the marginal
 
 130. note and wherever it appears the word "Federal".
 
-Amendment 27. Article 13lA of the Federal Constitution
+<!-- marginal: Amendment -->
+
+27. Article 13lA of the Federal Constitution
 
 <!-- marginal: is -->
 
-of Article amended—
+<!-- marginal: of Article -->
+
+amended—
 
 131A.
 
@@ -470,7 +538,7 @@ of Article amended—
 
 (iii) by substituting for the word "Supreme" the word "Federal".
 
-<!-- marginal: \ S Amendment -->
+\ S Amendment
 
 28. Article 132 of the Federal Constitution
 
@@ -496,7 +564,17 @@ for Article 134 the following Article:
 
 <!-- marginal: 134. -->
 
-Second- 134. (1) The Federation may, at the request of ment of a State, local authority, or statutory authority or officers. of any organisation, in or outside Malaysia, second any member of its public services to the service of that State, authority or organisation, as the case may be; and a State may, at the request of the Federation, another State, a local authority or a statutory authority or of any organisation, in or outside Malaysia, second any member of its own public service to the service of the Federation, other State, authority or organisation, as the case may be.
+<!-- marginal: Second- -->
+
+134. (1) The Federation may, at the request of
+
+<!-- marginal: ment of -->
+
+a State, local authority, or statutory authority or
+
+<!-- marginal: officers. -->
+
+of any organisation, in or outside Malaysia, second any member of its public services to the service of that State, authority or organisation, as the case may be; and a State may, at the request of the Federation, another State, a local authority or a statutory authority or of any organisation, in or outside Malaysia, second any member of its own public service to the service of the Federation, other State, authority or organisation, as the case may be.
 
 (2) A person seconded under this Article shall remain a member of the service to which he belongs, but his remuneration shall be paid by the Federation, State, authority or organisation, as the case may be, to whose service he is seconded.".
 
@@ -504,7 +582,13 @@ Second- 134. (1) The Federation may, at the request of ment of a State, local au
 
 ## BILL
 
-Amendment 30. Article 138 of the Federal Constitution is amended of Article in Clause (2)—
+<!-- marginal: Amendment -->
+
+30. Article 138 of the Federal Constitution is amended
+
+<!-- marginal: of Article -->
+
+in Clause (2)—
 
 138.
 
@@ -512,19 +596,27 @@ Amendment 30. Article 138 of the Federal Constitution is amended of Article in C
 
 (b) by substituting for the words "Supreme Court" in paragraph (c) the words "Federal Court, Court of Appeal".
 
-Amendment 31. Article 139 of the Federal Constitution is amended of Article in Clause (1) by substituting for the words "paragraphs
+<!-- marginal: Amendment -->
+
+31. Article 139 of the Federal Constitution is amended
+
+<!-- marginal: of Article -->
+
+in Clause (1) by substituting for the words "paragraphs
 
 139.
 
 (c), (e) and (f)' the words "paragraphs (c) and (f)".
 
-### Amendment
+<!-- marginal: Amendment -->
 
 32. Article 142 of the Federal Constitution
 
 <!-- marginal: is -->
 
-of Article amended—
+<!-- marginal: of Article -->
+
+amended—
 
 142.
 
@@ -532,19 +624,47 @@ of Article amended—
 
 (b) in Clause (6), by substituting for the words "Supreme Court" the words "Federal Court, of the Court of Appeal".
 
-Amendment 33. Article 143 of the Federal Constitution is amended of Article in Clause (1) by substituting for the word "Supreme" in
+<!-- marginal: Amendment -->
+
+33. Article 143 of the Federal Constitution is amended
+
+<!-- marginal: of Article -->
+
+in Clause (1) by substituting for the word "Supreme" in
 
 143. paragraph (c) the word "Federal".
 
-Amendment 34. Article 145 of the Federal Constitution is amended of Articte in Clauses (1) and (6) by substituting for the word
+<!-- marginal: Amendment -->
+
+34. Article 145 of the Federal Constitution is amended
+
+<!-- marginal: of Articte -->
+
+in Clauses (1) and (6) by substituting for the word
 
 145. "Supreme" the word "Federal".
 
-Amendment 35. Article 148 of the Federal Constitution is amended of article in Clause (2) by substituting for the words "Supreme
+<!-- marginal: Amendment -->
+
+35. Article 148 of the Federal Constitution is amended
+
+<!-- marginal: of article -->
+
+in Clause (2) by substituting for the words "Supreme
 
 148. Court" the words "Federal Court, of the Court of Appeal".
 
-Amendment 36. Article 151 of the Federal Constitution is amended of Article in Clause (2) by substituting for the words "Supreme 151 Court" where they first appear the words "Federal Court, the Court of Appeal".
+<!-- marginal: Amendment -->
+
+36. Article 151 of the Federal Constitution is amended
+
+<!-- marginal: of Article -->
+
+in Clause (2) by substituting for the words "Supreme
+
+<!-- marginal: 151 -->
+
+Court" where they first appear the words "Federal Court, the Court of Appeal".
 
 <!-- page 15 -->
 
@@ -620,13 +740,15 @@ paragraph (b) the words "Sabah and Sarawak".
 
 ## BILL
 
-Amendment
+<!-- marginal: Amendment -->
 
 42. Article 182 of the Federal Constitution
 
 <!-- marginal: is -->
 
-of Article amended—
+<!-- marginal: of Article -->
+
+amended—
 
 182.
 
@@ -634,11 +756,11 @@ of Article amended—
 
 (b) in Clauses (4) and (5), by substituting for the word "Supreme" the word "Federal"; and (c) in Clause (7), by substituting for the words "Lord President" the words "Chief Justice".
 
-Amendment
+<!-- marginal: Amendment -->
 
 43. The Sixth Schedule to the Federal Constitution is
 
-### of Sixth
+<!-- marginal: of Sixth -->
 
 amended, in the note to paragraph 1 —
 
@@ -648,15 +770,17 @@ amended, in the note to paragraph 1 —
 
 (b) by deleting the words "or any other".
 
-Amendment
+<!-- marginal: Amendment -->
 
-44. The Eighth Schedule to the Federal Constitution is of Eighth amended—
+44. The Eighth Schedule to the Federal Constitution is
+
+<!-- marginal: of Eighth -->
+
+amended—
 
 ## Schedule.
 
-(a) in section 1, by inserting after subsection (1) the following subsection: "(1A) In the exercise of his functions under the Constitution of this State or any law or as a member of the Conference of Rulers, where the Ruler is
-
-<!-- marginal: to act -->
+(a) in section 1, by inserting after subsection (1) the following subsection: "(1A) In the exercise of his functions under the Constitution of this State or any law or as a member of the Conference of Rulers, where the Ruler is to act
 
 <!-- marginal: in -->
 
@@ -754,6 +878,4 @@ Under the new Clause (10), the President of the Court of Appeal and the Chief Ju
 
 ## IMPLICATIONS
 
-This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
-
-<!-- marginal: [PN. (U2) 1813.] -->
+This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained. [PN. (U2) 1813.]

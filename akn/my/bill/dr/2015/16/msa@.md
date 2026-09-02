@@ -6,7 +6,9 @@
 
 bernama
 
-Suatu Akta untuk meminda Akta Pasaran Modal dan Perkhidmatan 2007. [ ]
+Suatu Akta untuk meminda Akta Pasaran Modal dan Perkhidmatan
+
+2007. [ ]
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
@@ -1298,11 +1300,7 @@ Rang Undang-undang ini bertujuan untuk meminda Akta Pasaran Modal dan Perkhidmat
 
 9. Fasal 8 bertujuan untuk memotong Subpenggal 3 Penggal 2 Bahagian II Akta 671 memandangkan ia telah dipindahkan ke Subpenggal baru 5a Penggal 2 Bahagian II Akta ini.
 
-10. Fasal 9 bertujuan untuk menggantikan Subpenggal 4 Penggal 2
-
-## Bahagian II Akta 671 untuk mengadakan peruntukan rangka kerja baharu bagi
-
-pengawalseliaan undang-undang baharu untuk pasaran diiktiraf bagi menggantikan kemudahan elektronik berdaftar. Subpenggal ini memperuntukkan mengenai permohonan pendaftaran pengendali pasaran diiktiraf dan kuasa Suruhanjaya untuk menarik balik suatu pendaftaran dan menyemak semula status sesebuah pasaran diiktiraf.
+10. Fasal 9 bertujuan untuk menggantikan Subpenggal 4 Penggal 2 Bahagian II Akta 671 untuk mengadakan peruntukan rangka kerja baharu bagi pengawalseliaan undang-undang baharu untuk pasaran diiktiraf bagi menggantikan kemudahan elektronik berdaftar. Subpenggal ini memperuntukkan mengenai permohonan pendaftaran pengendali pasaran diiktiraf dan kuasa Suruhanjaya untuk menarik balik suatu pendaftaran dan menyemak semula status sesebuah pasaran diiktiraf.
 
 11. Fasal 10 bertujuan untuk memasukkan Subpenggal baru 5a ke dalam Penggal 2 Bahagian II Akta 671 yang mengandungi peruntukan yang dahulunya di bawah Subpenggal 3 Penggal 2 yang telah dipotong. Subpenggal ini bertujuan untuk memberi Suruhanjaya kuasa untuk memindahkan kawalan dan akses sesuatu bursa kepada seorang pengurus berkanun sebagaimana yang dilantik oleh Suruhanjaya, bagi tujuan mengurus risiko sistemik, kepentingan awam, dsb., kuasa pengurus berkanun itu dan kuasa Suruhanjaya untuk mengenakan yuran tahunan atau apa-apa yuran lain yang perlu dibayar oleh sesuatu bursa. Subpenggal baharu ini juga akan memperuntukkan ketidakpakaian peruntukan dalam Akta Syarikat yang melarang penawaran saham syarikat persendirian kepada orang awam, jika penawaran saham itu dibuat di suatu pasaran yang dikawal selia di bawah undang-undang sekuriti.
 

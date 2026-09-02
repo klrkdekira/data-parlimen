@@ -40,21 +40,27 @@ BE IT ENACTED by the Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Ag
 
 review under Clause (2) and in conducting such review shall take into account any area which is affected in consequence of the amendment or the law referred to in paragraph (i) of Clause (3A).".
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. The Eighth Schedule to the Federal Constitution is of Eighth amended by inserting after the words "section 1(2)," in
+3. The Eighth Schedule to the Federal Constitution is
+
+<!-- marginal: of Eighth -->
+
+amended by inserting after the words "section 1(2)," in
 
 ## Schedule.
 
 section 22 the words "section 1A,".
 
-Amendment
+<!-- marginal: Amendment -->
 
 4. The Constitution (Amendment) Act 1992
 
 <!-- marginal: is -->
 
-ofActA837 amended—
+<!-- marginal: ofActA837 -->
+
+amended—
 
 (a) by repealing section 3 as if it had not been part of the Act; and
 
@@ -84,6 +90,4 @@ This Bill seeks to amend Article 113 and the Eighth Schedule to the Federal Cons
 
 ## IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure.
-
-<!-- marginal: [PN. (U2) 1754.] -->
+This Bill will not involve the Government in any extra financial expenditure. [PN. (U2) 1754.]

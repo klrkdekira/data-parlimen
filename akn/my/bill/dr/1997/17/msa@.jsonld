@@ -119,7 +119,7 @@
       },
       "schema:text": {
         "@language": "ms",
-        "@value": "\"hak\" ertinya segala hak, kuasa, keistimewaan dan kekebalan, sama ada sebenar, kontingen atau prospektif; \"harta\" termasuklah segala harta, sama ada alih atau tak alih, dan segala estet, kepentingan, isemen dan hak, sama ada di sisi ekuiti atau undang-undang dalam, pada atau daripada harta, hak dalam tindakan, wang dan nama baik; \"Lembaga\" ertinya Lembaga Penyatuan dan Pemulihan Akta 398. Tanah Persekutuan yang ditubuhkan di bawah Akta Lembaga Pemulihan dan Penyatuan Tanah Negara (Pemerbadanan) 1966; \"liabiliti\" ertinya segala jenis liabiliti, hutang, tanggungan, kewajipan dan obligasi (sama ada pada masa sekarang atau pada masa hadapan, sebenar atau kontingen, dan sama ada kena dibayar atau hendaklah dipatuhi atau dilaksanakan di Malaysia atau di tempat lain); \"Menteri\" ertinya Menteri yang pada masa ini dipertanggungkan dengan tanggungjawab bagi pembangunan luar bandar; \"Perbadanan\" ertinya Menteri Kewangan yang Akta 375. diperbadankan melalui Akta Menteri Kewangan (Pemerbadanan) 1957; \"syarikat pengganti\" ertinya syarikat berhad menurut Akta 125. syer yang diperbadankan di bawah Akta Syarikat 1965, dan yang dinamakan oleh Menteri dalam perintah yang dibuat di bawah subseksyen 3(1), yang kepadanya harta, hak dan liabiliti Lembaga dipindahkan dan diletakhakkan di bawah subseksyen itu; \"tarikh peletakhakan\" ertinya tarikh yang ditetapkan oleh Menteri di bawah subseksyen 3(1); \"terletakhak\", berhubungan dengan harta, termasuklah hak kepada harta masa hadapan atau kontingen dan hak perkembalian dan lebihan. Tanah Negara (Penggantian dan Pembubaran) II BAHAGIAN PELETAKHAKAN HARTA, DSB., PADA SYARIKAT PENGGANTI"
+        "@value": "\"hak\" ertinya segala hak, kuasa, keistimewaan dan kekebalan, sama ada sebenar, kontingen atau prospektif; \"harta\" termasuklah segala harta, sama ada alih atau tak alih, dan segala estet, kepentingan, isemen dan hak, sama ada di sisi ekuiti atau undang-undang dalam, pada atau daripada harta, hak dalam tindakan, wang dan nama baik; \"Lembaga\" ertinya Lembaga Penyatuan dan Pemulihan Tanah Persekutuan yang ditubuhkan di bawah Akta Lembaga Pemulihan dan Penyatuan Tanah Negara (Pemerbadanan) 1966; \"liabiliti\" ertinya segala jenis liabiliti, hutang, tanggungan, kewajipan dan obligasi (sama ada pada masa sekarang atau pada masa hadapan, sebenar atau kontingen, dan sama ada kena dibayar atau hendaklah dipatuhi atau dilaksanakan di Malaysia atau di tempat lain); \"Menteri\" ertinya Menteri yang pada masa ini dipertanggungkan dengan tanggungjawab bagi pembangunan luar bandar; \"Perbadanan\" ertinya Menteri Kewangan yang diperbadankan melalui Akta Menteri Kewangan (Pemerbadanan) 1957; \"syarikat pengganti\" ertinya syarikat berhad menurut syer yang diperbadankan di bawah Akta Syarikat 1965, dan yang dinamakan oleh Menteri dalam perintah yang dibuat di bawah subseksyen 3(1), yang kepadanya harta, hak dan liabiliti Lembaga dipindahkan dan diletakhakkan di bawah subseksyen itu; \"tarikh peletakhakan\" ertinya tarikh yang ditetapkan oleh Menteri di bawah subseksyen 3(1); \"terletakhak\", berhubungan dengan harta, termasuklah hak kepada harta masa hadapan atau kontingen dan hak perkembalian dan lebihan. Tanah Negara (Penggantian dan Pembubaran) II BAHAGIAN PELETAKHAKAN HARTA, DSB., PADA SYARIKAT PENGGANTI"
       }
     },
     {
@@ -215,7 +215,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_3",
       "schema:text": {
         "@language": "ms",
-        "@value": "Pada dan selepas tarikh peletakhakan, apa-apa suratikatan, bon, perjanjian, suratcara dan perkiraan kerja yang berhubungan dengan mana-mana harta, hak dan liabiliti yang dipindahkan kepada dan terletakhak pada syarikat pengganti di bawah subseksyen (1) yang kepadanya Lembaga menjadi suatu pihak sebelum sahaja tarikh peletakhakan, sama ada secara bertulis atau tidak, dan sama ada atau tidak sedemikian sifatnya sehingga hak dan liabiliti di bawahnya boleh diserahhakkan oleh Lembaga, hendaklah mempunyai kesan seolah-olah syarikat itu telah menjadi suatu pihak kepada suratikatan, bon, perjanjian; suratcara dan perkiraan kerja itu. Pemegangan"
+        "@value": "Pada dan selepas tarikh peletakhakan, apa-apa suratikatan, bon, perjanjian, suratcara dan perkiraan kerja yang berhubungan dengan mana-mana harta, hak dan liabiliti yang dipindahkan kepada dan terletakhak pada syarikat pengganti di bawah subseksyen (1) yang kepadanya Lembaga menjadi suatu pihak sebelum sahaja tarikh peletakhakan, sama ada secara bertulis atau tidak, dan sama ada atau tidak sedemikian sifatnya sehingga hak dan liabiliti di bawahnya boleh diserahhakkan oleh Lembaga, hendaklah mempunyai kesan seolah-olah syarikat itu telah menjadi suatu pihak kepada suratikatan, bon, perjanjian; suratcara dan perkiraan kerja itu."
       }
     },
     {
@@ -241,7 +241,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_4",
       "schema:text": {
         "@language": "ms",
-        "@value": "Sebagai akibat peletakhakan harta, hak dan liabiliti permulaan pada syarikat pengganti di bawah seksyen 3, syarikat Kerajaan dalam pengganti itu hendaklah menerbitkan apa-apa sekuriti syarikat syarikat itu sebagaimana yang diarahkan oleh Menteri pengganti. Kewangan dari semasa ke semasa—"
+        "@value": "Sebagai akibat peletakhakan harta, hak dan liabiliti pada syarikat pengganti di bawah seksyen 3, syarikat pengganti itu hendaklah menerbitkan apa-apa sekuriti syarikat itu sebagaimana yang diarahkan oleh Menteri Kewangan dari semasa ke semasa—"
       }
     },
     {
@@ -437,7 +437,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_5__subsec_5",
       "schema:text": {
         "@language": "ms",
-        "@value": "diperakui oleh Perbendaharaan sebagai telah dilaksanakan dengan penerbitan syer yang dimohon beli oleh Menteri Kewangan di bawah perenggan (l)(b). Penjalanan"
+        "@value": "diperakui oleh Perbendaharaan sebagai telah dilaksanakan dengan penerbitan syer yang dimohon beli oleh Menteri Kewangan di bawah perenggan (l)(b)."
       }
     },
     {
@@ -461,7 +461,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_6",
       "schema:text": {
         "@language": "ms",
-        "@value": "Menteri Kewangan boleh melantik mana-mana fungsi orang yang difikirkannya layak untuk bertindak sebagai Menteri Kewangan penamanya bagi maksud seksyen 4 atau 5 dan— melalui penama."
+        "@value": "Menteri Kewangan boleh melantik mana-mana orang yang difikirkannya layak untuk bertindak sebagai penamanya bagi maksud seksyen 4 atau 5 dan—"
       }
     },
     {
@@ -590,7 +590,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_7",
       "schema:text": {
         "@language": "ms",
-        "@value": "Sebutan dalam seksyen ini tentang akaun statutori syarikat pengganti ialah sebutan tentang apa-apa akaun yang disediakan oleh syarikat pengganti bagi maksud Akta 125. mana-mana peruntukan Akta Syarikat 1965."
+        "@value": "Sebutan dalam seksyen ini tentang akaun statutori syarikat pengganti ialah sebutan tentang apa-apa akaun yang disediakan oleh syarikat pengganti bagi maksud mana-mana peruntukan Akta Syarikat 1965."
       }
     },
     {
@@ -600,7 +600,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_7",
       "schema:text": {
         "@language": "ms",
-        "@value": "Bagi maksud seksyen ini, \"tahun perakaunan genap\" ertinya sesuatu tahun perakaunan yang berakhir pada 31 Disember atau suatu tempoh yang ditentukan oleh Menteri Kewangan. III BAHAGIAN PERUNTUKAN BERHUBUNGAN DENGAN KAKITANGAN Kakitangan."
+        "@value": "Bagi maksud seksyen ini, \"tahun perakaunan genap\" ertinya sesuatu tahun perakaunan yang berakhir pada 31 Disember atau suatu tempoh yang ditentukan oleh Menteri Kewangan. III BAHAGIAN PERUNTUKAN BERHUBUNGAN DENGAN KAKITANGAN"
       }
     },
     {
@@ -671,7 +671,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "AM Menghalang"
+        "@value": "AM"
       }
     },
     {
@@ -691,7 +691,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~part_V__cl_11",
       "schema:text": {
         "@language": "ms",
-        "@value": "Jika apa-apa kesukaran atau anomali timbul kesukaran berkaitan dengan pelaksanaan Akta ini, Menteri boleh dan anomali. melalui perintah membuat apa-apa ubahsuaian kepada mana-mana peruntukan Akta ini sebagaimana yang didapatinya perlu bagi menghapuskan atau menghalang kesukaran atau anomali itu: Dengan syarat bahawa Menteri tidaklah boleh menjalankan kuasa yang diberikan oleh seksyen ini selepas habis tempoh tiga tahun dari tarikh pembubaran."
+        "@value": "Jika apa-apa kesukaran atau anomali timbul berkaitan dengan pelaksanaan Akta ini, Menteri boleh melalui perintah membuat apa-apa ubahsuaian kepada mana-mana peruntukan Akta ini sebagaimana yang didapatinya perlu bagi menghapuskan atau menghalang kesukaran atau anomali itu: Dengan syarat bahawa Menteri tidaklah boleh menjalankan kuasa yang diberikan oleh seksyen ini selepas habis tempoh tiga tahun dari tarikh pembubaran."
       }
     },
     {

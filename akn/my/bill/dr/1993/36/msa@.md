@@ -54,15 +54,21 @@ dalam Akta ini, adalah dipinda dalam seksyen 2—
 
 transaksi;'.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Seksyen 43 Akta ibu adalah dipinda dalam perenggan seksyen 43.
+3. Seksyen 43 Akta ibu adalah dipinda dalam perenggan
+
+<!-- marginal: seksyen 43. -->
 
 (g) dengan menggantikan ungkapan "(3)" dengan ungkapan "(2)".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Seksyen 64 Akta ibu adalah dipinda dengan seksyen 64. jnenggantikan perkataan "berkelayakan" dengan perkataan "awam".
+4. Seksyen 64 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 64. -->
+
+jnenggantikan perkataan "berkelayakan" dengan perkataan "awam".
 
 5. Proviso kepada seksyen 66 Akta ibu adalah dipinda dengan memasukkan selepas perkataan "yang tidak di- chetak atau di-keluarkan sa-demikian" perkataan "seperti yang disebut terdahulu, atau membenarkan penggunaan apa-apa borang yang dikemukakan melalui pertukaran data elektronik".
 

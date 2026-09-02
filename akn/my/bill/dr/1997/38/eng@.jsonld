@@ -1,0 +1,3566 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-38-1997",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_2"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Counselors Bill 1997"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_10"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "THE MALAYSIAN COUNSELLORS ADVISORY COUNCIL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_17"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "THE BOARD OF COUNSELLORS"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "There is established a body corporate to be known"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "as the \"Board of Counsellors\" with perpetual succession and a common seal, which may sue and be sued in its corporate name and, subject to and for the purposes of this Act, may enter into contracts and may acquire, purchase, take, hold and enjoy movable and immovable property of every description and may convey, assign, surrender, yield up, charge, mortgage, demise, reassign, transfer or otherwise dispose of, or deal with, any movable or immovable property or any interest therein vested in the Board upon such terms as it considers fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12__para_k"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The functions of the Board shall be—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to oversee the provision of counselling services;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to evaluate the need for counselling services in Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to regulate the training of counsellors and determine the types and levels of counselling to be made available in Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to determine the qualifications entitling a person to be registered under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to determine the standard of counselling training programmes;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to make recommendations to the Government in relation to the standard of counselling services;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to register qualified counsellors;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to regulate the fees which can be charged by a registered counsellor for his counselling services;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to appoint members of the Board to sit on any board, committee or body formed for any purpose affecting the counselling profession;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to regulate the conduct of the counselling profession, including prescribing the code of ethics for the counselling profession; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to do such other things as may be necessary to enable it to carry out its functions effectively."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_1__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_1__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall consist of the following members who shall be appointed by the Minister:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a President, who shall be appointed from among the registered counsellors;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a representative of the Welfare Department;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a representative of the Ministry of Education;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a representative of the Ministry of Health;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a representative of the Islamic Development Department;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a representative of the Public Services Department;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a representative of the Ministry of Home Affairs;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "three representatives of higher educational institutions; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_1__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "six registered counsellors."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), the first Board shall be appointed by the Minister for a period not exceeding two years and shall consist of the following members:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Secretary General of the Ministry responsible for social welfare, as chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "nine persons representing professional bodies allied to the counselling profession; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "one person representing higher educational institutions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The provisions of the First Schedule shall apply to the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Registrar shall act as Secretary to the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, after consulting the Board, amend the First Schedule by order published in the Gazette."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Public Authorities Protection Act 1948 shall"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "apply to any action, suit, prosecution or proceeding against the Board or against any member, officer, servant or agent of the Board in respect of any act, neglect or default done or committed by him in such capacity."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every member of the Board or any of its committees and every officer, servant or agent of the Board, while discharging his duties as such member, officer, servant or agent, shall be deemed to be a public servant within the meaning of the Penal Code."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_16__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall furnish the Minister with all such returns, reports, accounts and information with respect to its property and activities as the Minister may require or direct."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1), the Board shall, as soon as practicable after the end of each financial year, cause to be made and transmitted to the Minister a report dealing with the activities of the Board during the preceding financial year and the report shall be in such form and shall contain such information relating to the proceedings and policy of the Board as the Minister may specify."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Board may appoint an advocate and solicitor to"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "institute and conduct any civil proceeding on its behalf."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_10__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council shall meet at least twice in each year."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "At a meeting of the Council fifteen members shall constitute a quorum."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "There is established an advisory council to be known"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "as the \"Malaysian Counsellors Advisory Council\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The functions of the Council shall be—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to advise the Minister on any matter pertaining to this Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to advise the Minister on any matter referred to it by the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council shall consist of the following members:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Secretary General of the Ministry responsible for social welfare, who shall be the chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Deputy Secretary General of the Ministry responsible for social welfare, who shall be the deputy chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the President of the Board or his representative;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Registrar, who shall be the secretary; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1__para_e__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1__para_e__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1__para_e__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1__para_e__subpara_v"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "not more than twenty-five other members appointed by the Minister from the following categories:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the public sector;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "professional bodies allied counselling profession and approved by the Minister;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1__para_e__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "representatives of higher educational institutions;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1__para_e__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "non-governmental organisations which provide counselling services; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1__para_e__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_1__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "individuals who, because of their knowledge and experience, would in the opinion of the Minister be of assistance to the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall be appointed to be a member of the Council unless he is a Malaysian citizen."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "A member of the Council appointed under paragraph"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "5 ( 1 )( e ), unless he sooner resigns or vacates his office or his appointment is sooner revoked, shall hold office for a term not exceeding two years and is eligible for reappointment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_7__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_7__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Minister shall revoke the appointment of a member"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "of the Council appointed under paragraph 5(1)(e)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if his conduct, whether in connection with his duties as a member of the Council or otherwise, has been such as to bring discredit on the Council;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_7__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_7__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_7__para_b__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_7__para_b__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if there has been proved against him, or he has been convicted on, a charge in respect of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_7__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_7__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an offence involving fraud, dishonesty or moral turpitude;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_7__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_7__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an offence under a law relating to corruption;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_7__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_7__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an offence under this Act; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_7__para_b__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_7__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other offence punishable with imprisonment for more than two years in itself only or in addition to or in lieu of a fine;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if he becomes a bankrupt; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_7__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if he becomes of unsound mind or is otherwise incapable of discharging his duties."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_8__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_8__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "A member of the Council appointed under paragraph"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "5 ( 1 )( e) shall cease to be a member—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if he is absent from three consecutive meetings of the Council without leave of the chairman of the Council;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if his apppointment is revoked;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "on his death; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_8__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if he resigns his office."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Council appointed by the Minister under paragraph 5 ( 1 )( e) may resign as a member of the Council at any time by giving one month's notice in writing to the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_32"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "REGISTRATION OF COUNSELLORS AND PRACTISING CERTIFICATES"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_18__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall appoint a Registrar of Counsellors who shall be under the general direction and supervision of the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_18__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_18__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_18__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_18__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Registrar shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_18__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "sign all certificates of registration and certificates of temporary registration;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_18__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "record all entries required to be made in the Register;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_18__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "remove from the Register the names and other particulars of a registered counsellor whose name has been ordered by the Board or the Disciplinary Committee to be removed; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_18__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "carry out any other duty required by this Act or regulations made under this Act to be carried out by him or as directed by the Board for the purposes of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_19__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_19__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_19__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Registrar shall keep and maintain a register called the Register of Counsellors."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Register shall be kept in such form and on such material as may be prescribed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_19__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Register shall be open to the inspection of the public in such manner as the Minister may by regulations prescribe."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_19__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Registrar may, with the prior approval of the Board, make amendments to the Register for the purpose of correcting any errors or updating any information contained therein; and shall publish in the Gazette the names and addresses of registered counsellors affected by such amendments."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_20__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_20__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_20__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_20__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may, if it is satisfied that a registered counsellor—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_20__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_20__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has died;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_20__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_20__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has become incapable of performing his professional duties as a counsellor due to physical or mental infirmity;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_20__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_20__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has failed to renew his certificate of temporary registration or practising certificate within four years from the date of its expiry, order the Registrar to remove the name and particulars relating to that registered counsellor from the Register."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Registrar shall publish in the Gazette the name of every person removed from the Register under subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_21__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_21__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall, on the application of any person whose name has been removed on the ground specified in paragraph 20(1)(c), reinstate him in the Register."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every application for reinstatement shall be made in the prescribed form and accompanied by the prescribed fee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_21__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall, upon the application of any person who has been reinstated under subsection (1), issue to him a practising certificate under subsection 27(4) or 28(3) as if such application had been made under subsection 27(2) or subsection 28(1), as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_22__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_22__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_22__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_22__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_22__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_22__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_22__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_22__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "practise or carry on or operate, or hold himself out as practising or carrying on or operating, or take up employment, as a counsellor;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_22__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_22__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "use the title \"registered counsellor\" or any title in any language which may be reasonably construed to imply that he is a registered counsellor; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_22__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_22__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "use or display any sign, board, card or other device representing or implying that he is a registered counsellor, unless he is registered under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_22__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding thirty thousand ringgit or to imprisonment for a term not exceeding three years or to both."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_23__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall practise as a counsellor unless he holds a valid practising certificate issued under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) shall be liable to disciplinary proceedings under Part VI and shall not be entitled to recover in any court any fee, charge or remuneration for his counselling services."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_24__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_24__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_24__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_24__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person shall be registered as a counsellor if he satisfies the Board that he is a Malaysian citizen or a permanent resident of Malaysia, is not less than twenty- one years of age, is a fit and proper person to be registered as a counsellor and holds any of the qualifications specified in the Second Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_24__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a person holds any qualification which is not specified in the Second Schedule but the Board is satisfied that such qualification is not less than any of the or equivalent to the qualifications specified in that Schedule, the Board may approve the registration of such person as a counsellor if he satisfies the Board that he is a Malaysian citizen or a permanent resident of Malaysia, is not less than twenty-one years of age and is a fit and proper person to be registered as a counsellor."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_24__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, after consulting the Board, amend the Second Schedule by order published in the Gazette."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "An application for registration as a counsellor shall"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "be made in the prescribed form and shall be accompanied by such information and documents as may be required by the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_26__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_26__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_26__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_26__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_26__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_26__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "On receipt of an application under section 25, the Board shall consider the application."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the Board decides to register the applicant, it shall direct the Registrar to enter the applicant's name and particulars in the Register and to issue to the applicant a certificate of registration."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_26__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The President shall sign every entry made in the Register."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_26__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Registrar shall publish in the Gazette the name and address of every person whose name and particulars have been entered in the Register under subsection (2)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_26__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the Board refuses to register the applicant, the Registrar shall immediately serve a notice of the Board's refusal on the applicant."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_26__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An applicant who is aggrieved by the refusal of the Board to register him may appeal in writing to the Minister within twenty-one days from the date on which the notice of such refusal is served on him."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_26__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The decision of the Minister shall be final."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27__subsec_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27__subsec_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27__subsec_10"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who is neither a Malaysian citizen nor a permanent resident of Malaysia who intends to practise as a counsellor in Malaysia may apply in the prescribed form for temporary registration."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27__subsec_10",
+      "@type": "akn:subsection",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every application made under subsection (9) shall be accompanied by the prescribed fee and such documents and information as may be required by the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application under subsection (1) shall be accompanied by an application for a practising certificate and the prescribed fee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27__subsec_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "On receipt of an application under subsection (1), the Board shall consider the application and may permit the applicant to be temporarily registered if the Board is satisfied that—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he is registered or licensed as a counsellor, or is otherwise permitted by law to practise as a counsellor, in the country where he ordinarily practises as a counsellor;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he possesses counselling expertise; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "his physical presence is required in Malaysia for not less than one hundred and eighty days in one calender year for purposes of providing counselling services or he is a resident representative of the foreign component of a joint venture for such purposes."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the Board permits an applicant to be temporarily registered, it shall direct the Registrar to issue to the applicant a certificate of temporary registration and a practising certificate."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the Board refuses to register the applicant, the Registrar shall immediately serve a notice of the Board's refusal on the applicant."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An applicant who is aggrieved by the refusal of the Board to register him may appeal in writing to the Minister within twenty-one days from the date on which the notice of such refusal is served on him."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The decision of the Minister shall be final."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A certificate of temporary registration and a practising certificate issued under subsection (4) shall be valid for a period of twelve months from the date the certificates are issued."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27__subsec_9",
+      "@type": "akn:subsection",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A certificate of temporary registration and a practising certificate issued under subsection (4) may be renewed on application being made to the Board in the prescribed form not less than thirty days before the date of expiry of the certificates."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_28__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_28__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_28__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_28__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_28__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_28__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_28__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_28__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A counsellor who is registered under section 26 and intends to practise as a counsellor shall make an application, in the prescribed form, within one month from the date a certificate of registration is issued to him under subsection 26(4), for a biennial practising certificate."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_28__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_28__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_28__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every application for a biennial practising certificate shall be accompanied by the prescribed fee and shall contain—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_28__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_28__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the address of the principal place, and other places, where the registered counsellor intends to carry on practice as a counsellor;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_28__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_28__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the registered counsellor's address correspondence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_28__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "On receipt of an application under subsection (1), the Board may issue to the applicant a biennial practising certificate authorising the applicant to practise as a counsellor at the places specified in the certificate during the period of two years for which the biennial practising certificate is issued."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_28__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding anything to the contrary in this Act, a registered counsellor who has made an application under subsection (1) may practise as a counsellor without a biennial practising certificate from the day his application under that subsection is received by the Board until the day the biennial practising certificate is issued to him under subsection (2), and, for the purpose of this Act and any regulations made under this Act, he shall be deemed to have a biennial practising certificate during that period."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_28__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A biennial practising certificate may be renewed on application being made to the Board in the prescribed form not less than thirty days before the date of expiry of the certificate."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_28__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application made later than the period mentioned in subsection (5) shall not be granted unless the prescribed additional fee has been paid."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_28__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsections (2) and (3) shall apply to an application for the renewal of a biennial practising certificate as they apply to a new application."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_29__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_29__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_29__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_29__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_29__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every registered counsellor shall exhibit, at a conspicuous place in the premises in which he practises as a counsellor, a copy of his certificate of registration or certificate of temporary registration, as the case may be, and his practising certificate."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a registered counsellor practises as a counsellor in more than one premises, he shall cause a copy of the certificate of registration or certificate of temporary registration, as the case may be, and the practising certificate, to be exhibited in a conspicuous place in each premises."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_29__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsections (1) or (2) shall be guilty of an offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_29__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who exhibits, or permits to be exhibited, in any premises, a certificate of registration or certificate of temporary registration or a practising certificate, or a copy of any of such certificates, bearing his name or photograph at any time when his name does not appear on the Register or when he does not hold a valid certificate of registration or certificate of temporary registration, as the case may be, or a practising certificate shall be guilty of an offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_30__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_30__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_30__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_30__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_30__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_30__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_30__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_30__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_30__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_30__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "there is a change in the address of the premises stated in the practising certificate in which a registered person practises as a counsellor; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_30__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_30__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a registered person practises as a counsellor in any premises additional to the premises stated in his practising certificate, he shall, within thirty days of such change or addition, notify the Registrar in writing of such change or addition."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_30__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_30__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_30__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every notification under subsection (1) shall be accompanied by—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_30__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_30__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "particulars of the certificate of registration or certificate of temporary registration, as the case may be; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_30__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_30__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the practising certificate, of the registered counsellor."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_30__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Registrar may require the registered counsellor to submit any information as he may deem necessary about the premises referred to in subsection (1) and the registered person shall comply with such requirement."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_30__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1), (2) or (3) shall be guilty of an offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_30__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Registrar shall endorse the new address or the address of the new premises where the registered counsellor practises as a counsellor on the registered counsellor's practising certificate and return the certificate to the registered counsellor."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_31__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_31__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_31__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every registered counsellor shall notify the Registrar of any change in his address for correspondence within fourteen days of the change."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_31__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) shall be guilty of an offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_32__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_32__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_32__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A registered counsellor whose certificate of registration or certificate of temporary registration, as the case may be, is lost shall immediately notify the Registrar of such loss."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_32__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_IV__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Registrar shall, on application being made and payment of the prescribed fee by the registered counsellor, issue to the registered counsellor a duplicate certificate of registration or certificate of temporary registration, as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Counsellors Act 1997 and shall come into operation on such date as the Minister may, by notification in the Gazette, appoint."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_I__cl_1__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_I__cl_1__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall not apply to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_I__cl_1__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_I__cl_1__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any health professional; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_I__cl_1__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_I__cl_1__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any company, society or local authority providing healthcare services such as hospital, nursing home, hospice, blood bank, psychiatric hospital, ambulatory care centre, maternity home, haemodialysis centre, community mental health centre, psychiatric nursing home, medical or dental clinic, or any other healthcare facility."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires— \"Board\" means the Board of Counsellors established under section 11; \"certificate of registration\" means a certificate issued under subsection 26(2) and includes a duplicate certificate of registration issued under subsection 32(2); \"certificate of temporary registration\" means a certificate issued under subsection 27(4) and includes a duplicate certificate of temporary registration issued under subsection 32(2); \"company\" has the meaning assigned to it in the Companies Act 1965; \"Council\" means the Malaysian Counsellors Advisory Council established under section 3; \"counselling\" means a systematic process of helping relationship based on psychological principles performed by a registered counsellor in accordance with the counselling code of ethics to achieve a voluntary favourable holistic change, development and adjustment of the client such that the change, development and adjustment will continue throughout the lifespan of the client; \"counsellor\" means a person who provides counselling services for a prescribed fee or any other consideration; \"Disciplinary Committee\" means the Disciplinary Committee established under paragraph 36(2)(b); \"health professional\" includes a medical practitioner, medical and clinical psychologist, nurse, midwive, medical assistant and any person involved in the giving of medical and health services under the jurisdiction of the Ministry of Health; \"higher educational institution\" means any institution established under the University and University Colleges Act 1971 or the Institut Teknologi MARA Act 1976 or the Private Higher Educational Institutions Act 1996; \"Investigation Committee\" means the Investigation Committee established under paragraph 36(2)(a); \"local authority\" means a local authority established under the Local Government Act 1976; \"Minister\" means the Minister for the time being charged with the responsibility for social welfare; \"practising certificate\" means a practising certificate issued under subsection 27(4) or 28(3), as the case may be; \"prescribed\" means prescribed by regulations made under this Act; \"President\" means the President of the Board of Counsellors; \"Register\" means the Register of Counsellors kept and maintained under section 19; \"registered counsellor\" means a person registered under section 26 or 27; \"Registrar\" means the Registrar of Counsellors appointed under subsection 18(1); \"society\" means a society registered under the Societies Act 1966."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_35"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "BODIES CORPORATE PRACTISING AS COUNSELLORS"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_43"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "DISCIPLINARY PROCEEDINGS"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_46",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_47"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "OFFENCES AND PENALTIES"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII",
+      "@type": "akn:part",
+      "eli:number": "VIII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_48",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MISCELLANEOUS"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_48",
+      "@type": "akn:clause",
+      "eli:number": "48",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_48__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_48__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_48__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_48__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_48",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The President of the Board or any officer authorised by him may, for the purpose of carrying out the objects of this Act or any regulations made under this Act, at any reasonable time and upon the production of his certificate of authorisation enter, inspect and examine any premises or any area including any building or structure thereon which belongs to or is used, whether permanently or otherwise, or whether or not registered for use, by a registered counsellor."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_48__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_48__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_48__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_48__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_48",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In carrying out an inspection under subsection (1), the President or an officer authorised by him may—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_48__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_48__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "enter any area or premises;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_48__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_48__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "examine such book, register, document, material or other article as he may consider necessary; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_48__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_48__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "remove and detain any book, register, document, material or other article."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_48__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_48",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An officer may for the purpose of this section seek whenever necessary the assistance of the police in the execution of his duty."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49",
+      "@type": "akn:clause",
+      "eli:number": "49",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1__para_j"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister, in consultation with the Board, may make regulations for all or any of the following purposes:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prescribing the manner of applying for certificates under this Act, the particulars to be supplied by an applicant, the manner of certification, the fees payable therefor, the conditions or restrictions to be imposed and the form or forms of certificates;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "regulating the keeping of the Register and of accounts, records, reports and documents and prescribing the form and contents thereof;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prescribing the management of the property of the Board and the audit of its accounts;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prescribing the procedure for the election or appointment of members of the committees of the Council or the Board;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prescribing the requirements to be complied with by the Board for engaging a legal adviser and the remuneration to be paid to him;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prescribing the procedure for investigation into complaints and for disciplinary inquiries;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prescribing the procedure for appeals;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prescribing matters in respect of which fees and charges are to be payable under this Act or the regulations made under this Act, the amount of the fees, and the persons liable to pay them;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prescribing the forms to be used in making applications under this Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other matter which is required by this Act to be prescribed or specified or which is necessary or expedient to be prescribed or specified for carrying this Act into effect."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Regulations made under this Act may—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "provide that any contravention of any of the provisions of the regulations shall be an offence;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "provide for such offence to be punished with a fine not exceeding three thousand ringgit or to imprisonment for a term not exceeding six months or to both;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be made to operate retrospectively to a date not earlier than the date of coming into force of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VIII__cl_49",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding paragraph (2)(c), no person shall be made or shall become liable to any penalty in respect of any act done before the date the regulations are published in the Gazette."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Any person who—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44",
+      "schema:text": {
+        "@language": "en",
+        "@value": "procures or causes the procurement of a certificate of registration, certificate of temporary registration or practising certificate—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by making or causing to be made; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by producing or causing to be produced, a false or fraudulent declaration, certificate, application or representation;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44",
+      "schema:text": {
+        "@language": "en",
+        "@value": "forges, alters or counterfeits a certificate of registration, certificate of temporary registration or practising certificate;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44",
+      "schema:text": {
+        "@language": "en",
+        "@value": "uses a forged, altered or counterfeited certificate of registration, certificate of temporary registration or practising certificate;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44",
+      "schema:text": {
+        "@language": "en",
+        "@value": "personates a registered person or a director of a body corporate practising as a counsellor;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44",
+      "schema:text": {
+        "@language": "en",
+        "@value": "buys or fraudulently obtains a certificate of registration, certificate of temporary registration, or practising certificate; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44__para_f__subpara_aa",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44__para_f__subpara_bb"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44",
+      "schema:text": {
+        "@language": "en",
+        "@value": "sells, assigns or transfers a certificate of registration, certificate of temporary registration or practising certificate, shall be guilty of an offence and shall on conviction—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44__para_f__subpara_aa",
+      "@type": "akn:subparagraph",
+      "eli:number": "aa",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding two years or to both; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44__para_f__subpara_bb",
+      "@type": "akn:subparagraph",
+      "eli:number": "bb",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_44__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of a continuing offence, be liable to a fine not exceeding one thousand ringgit for every day or part of a day during which the offence continues after conviction."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_45__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_45__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII",
+      "schema:name": {
+        "@language": "en",
+        "@value": "A person who contravenes any of the provisions of"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "this Act for which no penalty is expressly provided shall on conviction—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_45__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_45",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be liable to a fine not exceeding five thousand ringgit or imprisonment for a term not exceeding one year or to both; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_45__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_45",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of a continuing offence, be liable to a fine not exceeding five hundred ringgit for every day or part of a day during which the offence continues after conviction."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_46__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_46__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Where a body corporate commits an offence under"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "this Act or any regulations made under this Act, any person who, at the time of the commission of such offence, was a director, manager, secretary or other similar officer of such body corporate or was purporting to act in any such capacity, or was in any manner or to any extent responsible for the management of any of the affairs of such body corporate, or was assisting in such management—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_46__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "may be charged severally or jointly in the same proceedings with the body corporate; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_46__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_46__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_46__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the body corporate is found guilty of the offence, shall be deemed to be guilty of that offence unless, having regard to the nature of his functions in that capacity and to all circumstances, he proves—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_46__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_46__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that the offence was committed without his knowledge, consent or connivance; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_46__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_46__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that he took all reasonable precautions and had exercised due diligence to prevent the commission of the offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII__cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VII",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Prosecution in respect of an offence under this Act"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall not be instituted or conducted without the written consent of the Public Prosecutor."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_36__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_36__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_36__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall have disciplinary authority over all registered counsellors and shall exercise disciplinary control in respect of all such counsellors in accordance with this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_36__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_36__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_36__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this Part there shall be established—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_36__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_36__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an Investigation Committee comprising three members of the Board to investigate into a complaint made against a registered counsellor; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_36__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_36__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a Disciplinary Committee comprising five members of the Board, not being members of the Investigation Committee, to inquire into a complaint referred to it by the Investigation Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_37__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_37__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_37__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_37__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every complaint against any registered counsellor shall be addressed to the Registrar who shall immediately refer such complaint to the Investigation Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_37__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Investigation Committee shall investigate every complaint and shall, as soon as practicable, submit its report on such complaint to the Disciplinary Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_37__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_37__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_37__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every report under subsection (2) shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_37__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_37__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "state whether sufficient grounds exist for disciplinary proceedings to be taken against a registered counsellor; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_37__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_37__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be accompanied by such evidence as the Investigation Committee may have obtained in support of such statement."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_38__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_38__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_38__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_38__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the report submitted by the Investigation Committee states that sufficient grounds exist for disciplinary proceedings to be taken against a registered counsellor, the Disciplinary Commitee shall inquire into the case."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_38__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A registered counsellor against whom disciplinary proceedings are taken shall be given an opportunity to make representations against the disciplinary charge laid against him before a decision is arrived at by the Disciplinary Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_38__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The registered counsellor against whom disciplinary proceedings have been taken shall be notified by the Registrar by registered post of the decision of the Disciplinary Committee as soon as possible after the making of such decision."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_39__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_39__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_39__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_39__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may, if it considers fit, suspend the practising certificate of a registered counsellor for a period not exceeding six months pending the completion of an investigation by the Investigation Committee and inquiry by the Disciplinary Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_39__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No registered counsellor shall practise as a counsellor during the period of suspension under subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_39__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (2) shall be guilty of an offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Disciplinary Committee shall, upon being satisfied that—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_1__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_1__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_1__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_1__para_a__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "there has been proved against the registered counsellor, or the registered counsellor has been convicted on, a charge in respect of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_1__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_1__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an offence involving fraud, dishonesty or moral turpitude;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_1__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_1__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an offence under any law relating to corruption; ."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_1__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_1__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an offence under this Act; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_1__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_1__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other offence punishable with imprisonment for more than two years in itself only or in addition to or in lieu of a fine;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if the registered counsellor's registration has been obtained by fraud or misrepresentation; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the registered counsellor has become a bankrupt, order the name of the registered counsellor to be removed from the Register."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Disciplinary Committee may, upon being satisfied that—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the registered counsellor has offered or accepted a commission which in the opinion of the Disciplinary Committee is an illicit commission; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_2__para_b__subpara_aa",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_2__para_b__subpara_bb",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_2__para_b__subpara_cc",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_2__para_b__subpara_dd"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the registered counsellor has contravened any provision of this Act or any regulations made under this Act, impose any one or any. combination of the following disciplinary punishments:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_2__para_b__subpara_aa",
+      "@type": "akn:subparagraph",
+      "eli:number": "aa",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "order the name of the registered counsellor to be removed from the Register;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_2__para_b__subpara_bb",
+      "@type": "akn:subparagraph",
+      "eli:number": "bb",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "order the name of the registered counsellor to be suspended from the Register for a period not exceeding two years;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_2__para_b__subpara_cc",
+      "@type": "akn:subparagraph",
+      "eli:number": "cc",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "order the imposition of a fine not exceeding five thousand ringgit;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_2__para_b__subpara_dd",
+      "@type": "akn:subparagraph",
+      "eli:number": "dd",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_40__subsec_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "order the registered counsellor to be reprimanded."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_41__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_41__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_41__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A registered person shall surrender to the Board his certificate of registration or certificate of temporary registration, as the case may be, and his practising certificate within twenty-one days of being notified under subsection 38(3) of the decision of the Disciplinary Committee under section 40 to remove his name from the Register."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_41__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person who contravenes subsection (1) shall be guilty of an offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_42__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_42__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_42__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_42__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who is aggrieved by a decision of the Disciplinary Committee against him under section 40 may, within thirty days of being notified of such decision, appeal against the decision to the Minister:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_42__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may confirm, reverse or vary the decision of the Disciplinary Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_42__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A decision of the Minister under subsection (2) shall be final."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_43__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_43__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Registrar shall publish in the Gazette the name"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "of every registered counsellor whose name has been removed from the Register—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_43__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "on the expiry of the -period of specified in subsection 42(1), if the registered counsellor does not enter an appeal against the decision of the Disciplinary Committee; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_43__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_VI__cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "after the decision of the Minister upholding the decision of the Disciplinary Committee, if the registered counsellor enters an appeal against the decision of the Disciplinary Committee, as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_33__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_33__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_33__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_33__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_33__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No body corporate shall practise as a counsellor unless its board of directors consists—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_33__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_33__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "entirely of individual persons who are registered counsellors; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_33__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_33__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "of a majority of individual persons who are registered counsellors, and other individual persons belonging to a profession which is allied to the counselling profession and approved by the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_33__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any body corporate which contravenes subsection (1) shall be guilty of an offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_34__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_34__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_34__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V",
+      "schema:name": {
+        "@language": "en",
+        "@value": "A body corporate practising as a counsellor—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_34__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "may use the title \"registered counsellor\" or any title in any language which may be reasonably construed to imply that it is a body corporate practising as a counsellor;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_34__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "may use or display any sign, board, card or other devices representing or implying that it is a body corporate practising as a counsellor; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_34__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall be entitled to recover in any court any fee, charge or remuneration for its professional counselling services, as long as it complies with subsection 33(1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_35__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_35__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_35__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_35__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_35__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A body corporate practising as a counsellor shall notify the Board—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_35__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_35__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "of any change in the composition of its board of directors in a report containing full particulars of the change, within thirty days of the change; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_35__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_35__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "of any change in the address at which it carries on its practice as a counsellor, within fourteen days of the change."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_35__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~part_V__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any body corporate which contravenes subsection (1) shall be guilty of an offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_10"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Subsection 15(3)]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_1__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_1__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_1__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_1__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_10",
+      "@type": "akn:paragraph",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to this Act, the Board shall determine its own procedure."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall meet at least twice a year at a time and place to be appointed by the President."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "At least fourteen days notice in writing shall be given to the members."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The President shall preside at a meeting of the Board and in his absence the members of the Board shall elect one of their number to preside over the meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_1__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The quorum of the Board shall be seven."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_1__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every member of the Board present shall be entitled to one vote."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_1__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If on a question to be determined by the Board there is an equality of votes, the President, or where the President is absent, the member presiding over that meeting, shall have a casting vote."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Members of the Board shall be paid such allowances as the Minister may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_3__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may invite any person to attend a meeting or deliberation of the Board for the purpose of advising it on any matter under discussion but that person shall not be entitled to vote at the meeting or deliberation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person invited under subparagraph (1) may be paid such fee as the Board may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_4__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall cause minutes of all its meetings to be maintained and kept in a proper form."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Minutes made of meetings of the Board shall, if duly signed, be admissible in evidence in all legal proceedings without further proof."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every meeting of the Board in respect of the proceedings of which minutes have been so made shall be deemed to have been duly convened and held and all members thereat to have been duly qualified to act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_5__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_5__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_5__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "( 1 ) T he Board shall have a common seal-which shall bear such device as the Board shall, approve and such seal may be broken, changed, altered or made anew as the Board thinks fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The common seal shall be kept in the custody of the President or such other person as may be authorised by the Board in writing and shall be authenticated by the President or such authorised officer."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All deeds, documents and other instruments purporting to be sealed with the common seal, authenticated by either of the persons specified in subparagraph (1), shall until the contrary is proved, be deemed to have been validly executed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_5__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subparagraph (3), any document or instrument which if executed by a person not being a body corporate would not be required to be under seal may in like manner be executed by the Board; and any such document or instrument may be executed on- behalf of the Board by any member of the Board generally or specially authorised by the Board in that behalf."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_5__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The common seal of the Board shall be officially and judicially noticed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_6",
+      "@type": "akn:paragraph",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "A member of the Board having, directly or indirectly, by himself"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "or his partner, any interest in any company or undertaking with which the Board proposes to make any contract or having any interest in any such contractor in any matter under discussion by the Board shall disclose to the Board the fact of his interest and the nature thereof, and such disclosure shall be recorded in the minutes of the Board and, unless specifically authorised thereto by the President, such member shall take no part in deliberation or decision of the Board relating to the contract or matter."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_7",
+      "@type": "akn:paragraph",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "No act done or proceeding taken under this Act shall be questioned"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "on the ground of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a vacancy in the membership of, or a defect in the constitution of, the Board;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the contravention by any member of the Board of the provisions of paragraph 6; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an omission, a defect or an irregularity not affecting the merit of the case."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_8",
+      "@type": "akn:paragraph",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_8__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_8__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_8__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Money received by the Board whether from fees payable under this Act or other sources shall be applied by the Board—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_8__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the first place to defraying the expenses of registration and other expenses for the administration of this Act including any expenses of the Board that may be allowed under this Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_8__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "thereafter to the promotion and advancement of the profession of counselling."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Money that is not immediately required by the Board may be invested in such trust securities as the Board may, from time to time, determine after consultation with the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1__para_9",
+      "@type": "akn:paragraph",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Every member of the Board shall devote such time to the business"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "of the Board as may be necessary to discharge his duties effectively."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@/~sched_2",
+      "@type": "akn:schedule",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/38/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Subsection 25(1)] LIST OF REGISTRABLE QUALIFICATIONS Country Name of Description of in which Institution qualification qualification granting is granted qualification Malaysia University of Malaya Master of Education (Guidance and Counselling) Universiti Kebangsaan Diploma in Psychology Malaysia (Counselling) Master of Arts (Counselling Psychology) Master of Education (Guidance and Counselling) Universiti Putra Bachelor of Education Malaysia (Guidance and Counselling) Master of Science Universiti Teknologi Master of Education Malaysia (Guidance and Counselling) International Islamic Master of Education University (Guidance and Counselling) Universiti Sams Bachelor of Education Malaysia with Honours Master of Education Doctor of Philosophy (Education)"
+      }
+    }
+  ]
+}

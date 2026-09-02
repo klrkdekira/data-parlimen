@@ -1,0 +1,964 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-16-2017",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_20"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Lembaga Pelesenan Kenderaan Perdagangan (Pindaan) 2017"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 33 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula seksyen yang sedia ada sebagai subseksyen (1); dan Lembaga Pelesenan Kenderaan Perdagangan (Pindaan) 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) yang dinomborkan semula subseksyen yang berikut: “(2) Bagi maksud Akta ini, subseksyen (1) tidak terpakai bagi kenderaan e-hailing.”. Pindaan seksyen 36"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_11__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_11__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 36(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “seksyen 15” perkataan “dan subseksyen 26a(1)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “lesen” di mana-mana jua terdapat perkataan “atau lesen perniagaan pengantaraan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_11__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan menggantikan perkataan “apa-apa lesen lain” dengan perkataan “apa-apa lesen atau lesen perniagaan pengantaraan lain”. Pindaan seksyen 37"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 37 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memasukkan selepas perkataan “pemegang lesen” perkataan “atau pemegang lesen perniagaan pengantaraan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_12__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_12__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_12__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_12__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_12__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “lesen” perkataan “atau lesen perniagaan pengantaraan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_12__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_12__para_b__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_12__para_b__subpara_ii__subpara_B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_12__para_b__subpara_ii__subpara_C",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_12__para_b__subpara_ii__subpara_D"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_12__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_12__para_b__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_12__para_b__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “dalam perniagaan pemegang lesen” dengan perkataan “dalam perniagaan pemegang lesen atau pemegang lesen perniagaan pengantaraan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_12__para_b__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_12__para_b__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa kebangsaan, dengan memasukkan selepas perkataan “jika pemegang lesen” perkataan “atau pemegang lesen perniagaan pengantaraan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_12__para_b__subpara_ii__subpara_C",
+      "@type": "akn:subparagraph",
+      "eli:number": "C",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_12__para_b__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa kebangsaan, dengan memasukkan selepas perkataan “jika pemegang lesen” perkataan “atau pemegang lesen perniagaan pengantaraan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_12__para_b__subpara_ii__subpara_D",
+      "@type": "akn:subparagraph",
+      "eli:number": "D",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_12__para_b__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris, dengan memasukkan selepas perkataan “in the case of the holder” perkataan “of a licence or the holder of an intermediation business licence”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_12__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_12__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c), dengan menggantikan perkataan “hak yang dipunyai oleh pemegang lesen” dengan perkataan “hak yang dipunyai oleh pemegang lesen atau pemegang lesen perniagaan pengantaraan”. Pindaan seksyen 42"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 42 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa kebangsaan, dengan memasukkan selepas perkataan “lesen” di mana-mana jua terdapat perkataan “atau lesen perniagaan pengantaraan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_a__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_a__subpara_ii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_a__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_a__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan memasukkan selepas perkataan “licence” di mana-mana jua terdapat perkataan “or intermediation business licence”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_a__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_a__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan memasukkan selepas perkataan “licence” di mana-mana jua terdapat perkataan “or an intermediation business licence”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_b__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_b__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_b__subpara_v"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan memasukkan selepas perkataan “lesen” perkataan “atau lesen perniagaan pengantaraan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c), dengan memasukkan selepas perkataan “lesen” perkataan “, lesen perniagaan pengantaraan”; Lembaga Pelesenan Kenderaan Perdagangan (Pindaan) 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_b__subpara_iii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_b__subpara_iii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (d)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_b__subpara_iii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_b__subpara_iii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “apa-apa lesen” perkataan “atau lesen perniagaan pengantaraan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_b__subpara_iii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_b__subpara_iii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “sesuatu lesen” perkataan “atau lesen perniagaan pengantaraan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_b__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (e), dengan memasukkan selepas perkataan “lesen” perkataan “atau lesen perniagaan pengantaraan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_b__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam proviso, dengan memasukkan selepas perkataan “lesen” di mana-mana jua terdapat perkataan “atau lesen perniagaan pengantaraan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan memasukkan selepas perkataan “lesen” di mana-mana jua terdapat perkataan “atau lesen perniagaan pengantaraan”. Seksyen baharu 43a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 43 seksyen yang berikut: “Kesalahan oleh pertubuhan perbadanan 43a. (1) Jika sesuatu pertubuhan perbadanan melakukan suatu kesalahan di bawah Akta ini, mana-mana orang yang pada masa pelakuan kesalahan itu ialah seorang pengarah, ketua pegawai eksekutif, ketua pegawai operasi, pengurus, setiausaha atau pegawai lain yang seumpamanya dalam pertubuhan perbadanan itu atau yang berupa bertindak atas mana-mana sifat sedemikian atau yang mengikut apa-apa cara atau sehingga apa-apa takat bertanggungjawab bagi pengurusan apa-apa hal ehwal pertubuhan perbadanan itu atau yang membantu dalam pengurusan sedemikian— (a) boleh dipertuduh secara berasingan atau bersesama dalam prosiding yang sama bersekali dengan pertubuhan perbadanan itu; dan (b) jika pertubuhan perbadanan itu didapati telah melakukan kesalahan itu, hendaklah disifatkan telah melakukan kesalahan itu melainkan jika, dengan mengambil kira jenis fungsinya atas sifat itu dan segala hal keadaan, dia membuktikan— (i) bahawa kesalahan itu telah dilakukan tanpa pengetahuannya, persetujuannya atau pembiarannya; dan (ii) bahawa dia telah mengambil segala langkah berjaga-jaga yang munasabah dan telah menjalankan segala usaha yang wajar untuk mengelakkan pelakuan kesalahan itu. (2) Jika mana-mana orang di bawah Akta ini boleh dikenakan apa-apa hukuman atau penalti bagi perbuatan, peninggalan, pengabaian atau keingkarannya, dia boleh dikenakan hukuman atau penalti yang sama bagi tiap-tiap perbuatan, peninggalan, pengabaian atau keingkaran mana-mana pekerja atau ejennya, atau pekerja ejen itu, jika perbuatan, peninggalan, pengabaian atau keingkaran itu telah dilakukan— (a) oleh pekerja orang itu dalam masa penggajiannya; (b) oleh ejen itu semasa bertindak bagi pihak orang itu; atau (c) oleh pekerja ejen itu dalam masa penggajian pekerja itu dengan ejen itu atau selainnya bagi pihak ejen itu yang bertindak bagi pihak orang itu.”. Pindaan seksyen 44b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_15__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 44b Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa kebangsaan, dengan memasukkan selepas perkataan “lesen” perkataan “atau lesen perniagaan pengantaraan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris, dengan menggantikan perkataan “license” dengan perkataan “licence or an intermediation business licence”. Lembaga Pelesenan Kenderaan Perdagangan (Pindaan) 15 Pindaan seksyen 46"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_16__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 46 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_16__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_16__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_16__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_16__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “sesuatu lesen” perkataan “atau lesen perniagaan pengantaraan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_16__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_16__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “lesen” di mana-mana jua terdapat perkataan “atau lesen perniagaan pengantaraan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan memasukkan selepas perkataan “lesen” perkataan “atau lesen perniagaan pengantaraan”. Pindaan seksyen 47"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 47 Akta ibu dipinda dalam perenggan (d), (e), (f) dan (h), dengan memasukkan selepas perkataan “lesen” masing-masing perkataan “atau lesen perniagaan pengantaraan”. Pindaan seksyen 52"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_18__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_18__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_18__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 52 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memasukkan selepas perkataan “lesen” perkataan “atau lesen perniagaan pengantaraan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memasukkan selepas perkataan “lesen” di mana-mana jua terdapat perkataan “atau lesen perniagaan pengantaraan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_18__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_18__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_18__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_18__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_18__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “lesen” perkataan “atau lesen perniagaan pengantaraan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_18__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_18__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “bahawa lesen tersebut” dengan perkataan “bahawa lesen atau lesen perniagaan pengantaraan tersebut”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_18__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_18__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_18__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_18__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_18__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “lesen” di mana-mana jua terdapat perkataan “atau lesen perniagaan pengantaraan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_18__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_18__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “seksyen 19” perkataan “atau subseksyen 26a(5)”. Pindaan seksyen 56"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_19__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_19__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_19__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_19__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 56(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), (c) dan (e), dengan memasukkan selepas perkataan “lesen” di mana-mana jua terdapat perkataan “atau lesen perniagaan pengantaraan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (g), dengan memasukkan selepas perkataan “lesen” perkataan “atau lesen perniagaan pengantaraan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_19__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (h), dengan memasukkan selepas perkataan “pemegang lesen” perkataan “atau pemegang lesen perniagaan pengantaraan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_19__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (k), dengan menggantikan koma di hujung perenggan itu dengan koma bernoktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_19__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (k) perenggan yang berikut: “(l) mengawal selia apa-apa perkiraan atau perjanjian antara pemegang lesen yang merupakan suatu syarikat, suatu perkongsian atau suatu firma dengan pemandu kenderaan perkhidmatan awam; (m) mengawal selia apa-apa perkiraan atau perjanjian berkenaan dengan pengiklanan atas kenderaan dibenarkan,”. Lembaga Pelesenan Kenderaan Perdagangan (Pindaan) 17 Kecualian dan peralihan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Lembaga Pelesenan Kenderaan Perdagangan (Pindaan) 2017."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta dan Menteri boleh menetapkan tarikh yang berlainan bagi permulaan kuat kuasa peruntukan yang berlainan Akta ini. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Lembaga Pelesenan Kenderaan Perdagangan 1987 [Akta 334], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_20__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_20__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang mengendalikan atau mengadakan apa-apa perkhidmatan yang berhubungan dengan perniagaan pengantaraan, sebelum tarikh permulaan kuat kuasa Akta ini, hendaklah membuat permohonan bagi suatu lesen mengikut Akta ini dalam masa satu tahun dari tarikh permulaan kuat kuasa Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa tindakan, penyiasatan atau prosiding yang dimulakan atau yang belum selesai sebelum tarikh permulaan kuat kuasa Akta ini hendaklah, selepas tarikh permulaan kuat kuasa Akta ini, diteruskan seolah-olah Akta ibu tidak dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_20__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa obligasi, liabiliti, penalti, atau hukuman yang terakru atau dikenakan di bawah Akta ibu, boleh diteruskan, dikuatkuasakan, dikenakan dan diuruskan, mengikut mana-mana yang berkenaan, seolah-olah Akta ibu tidak dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “kenderaan dibenarkan” takrif yang berikut: ‘ “kenderaan e-hailing” ertinya suatu kenderaan motor yang muatan duduknya empat orang dan tidak lebih daripada sebelas orang (termasuk pemandu) yang digunakan untuk membawa orang dalam mana-mana perjalanan sebagai balasan bagi tambang perseorangan atau tambang berasingan bagi setiap satunya, yang perkiraan, penempahan atau transaksi, dan tambang bagi perjalanan itu dipermudah melalui suatu aplikasi elektronik mudah alih yang disediakan oleh suatu perniagaan pengantaraan;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “lesen”, dengan memasukkan selepas perkataan “seksyen 18” perkataan “kecuali lesen perniagaan pengantaraan yang dikeluarkan di bawah Bahagian IVa”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “lesen” takrif yang berikut: ‘ “lesen perniagaan pengantaraan” ertinya suatu lesen yang dikeluarkan di bawah Bahagian IVa;’ dan (d) dengan memasukkan sebelum takrif “pihak berkuasa tempatan” takrif yang berikut: ‘ “perniagaan pengantaraan” ertinya perniagaan yang memudahkan perkiraan, penempahan atau transaksi kenderaan e-hailing sama ada untuk apa-apa balasan berharga atau nilaian wang atau selainnya;’. Pindaan seksyen 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 10(1) Akta ibu dipinda dengan memasukkan selepas perkataan “lesen” perkataan “atau lesen perniagaan pengantaraan”. Pindaan seksyen 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 14 Akta ibu dipinda dengan memasukkan selepas subseksyen (1a) subseksyen yang berikut: “(1b) Bagi maksud Akta ini, kenderaan e-hailing hendaklah menjadi suatu kenderaan perkhidmatan awam dan tertakluk kepada suatu lesen perniagaan pengantaraan yang dikeluarkan di bawah Bahagian IVa.”. Pindaan seksyen 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 26 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “pemegang lesen” perkataan “atau pemegang lesen perniagaan pengantaraan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “lesen” di mana-mana jua terdapat perkataan “atau lesen perniagaan pengantaraan”. Bahagian baharu IVa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas Bahagian IV bahagian yang berikut: “BAHAGIAN IVA PELESENAN PERNIAGAAN PENGANTARAAN Pelesenan perniagaan pengantaraan 26a. (1) Tiada seorang pun boleh mengendalikan atau mengadakan perniagaan pengantaraan melainkan jika dia memegang suatu lesen perniagaan pengantaraan yang dikeluarkan di bawah seksyen ini. (2) Sesuatu permohonan bagi suatu lesen perniagaan pengantaraan di bawah seksyen ini hendaklah dibuat kepada Lembaga dalam bentuk dan mengikut cara yang ditentukan oleh Lembaga dan hendaklah disertai dengan fi permohonan yang ditetapkan dan apa-apa maklumat dan dokumen yang dinyatakan oleh Lembaga. (3) Pemohon hendaklah memberi Lembaga maklumat yang lengkap tentang kedudukan kewangannya untuk membuktikan keupayaannya untuk menyenggara dan mengendalikan perniagaan pengantaraan. (4) Tertakluk kepada Akta ini, Lembaga boleh, apabila suatu permohonan dibuat bagi lesen perniagaan pengantaraan di bawah seksyen ini— (a) meluluskan permohonan itu sepenuhnya atau sebahagiannya atau dengan apa-apa ubah suaian yang difikirkan patut oleh Lembaga, dan, apabila dibayar fi yang ditetapkan, mengeluarkan lesen perniagaan pengantaraan kepada pemohon; atau (b) menolak permohonan itu. (5) Tiap-tiap lesen perniagaan pengantaraan yang dikeluarkan di bawah seksyen ini hendaklah menyatakan jangka masa lesen itu dan Lembaga boleh mengenakan syarat pada lesen perniagaan pengantaraan itu yang termasuk— (a) jenis dan takat perniagaan pengantaraan yang akan dikendalikan atau disediakan oleh pemegang lesen perniagaan pengantaraan; (b) tahap am perkhidmatan yang hendak disediakan kepada orang yang menggunakan perkhidmatan yang disediakan oleh pemegang lesen perniagaan pengantaraan; (c) langkah untuk melindungi keselamatan dan sekuriti orang yang menggunakan perkhidmatan yang disediakan oleh perniagaan pengantaraan; dan (d) standard prestasi yang perlu dipatuhi oleh pemegang lesen perniagaan pengantaraan dalam mengendalikan perniagaan pengantaraan. (6) Lembaga boleh, pada bila-bila masa, menambahkan, membatalkan atau mengubah mana-mana syarat yang dikenakan pada suatu lesen perniagaan pengantaraan yang dikeluarkan di bawah seksyen ini. (7) Pengeluaran suatu lesen perniagaan pengantaraan oleh Lembaga di bawah subseksyen (4) tidak boleh mengenakan apa-apa tanggungan pada Lembaga bagi apa-apa kerugian atau kerosakan yang disebabkan oleh apa-apa perbuatan, peninggalan atau keingkaran pemegang lesen perniagaan pengantaraan. (8) Seseorang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak lebih daripada lima ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya. (9) Seseorang pemegang lesen perniagaan pengantaraan yang tidak mematuhi mana-mana syarat yang dikenakan pada lesen di bawah subseksyen (5) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang daripada satu ribu ringgit tetapi tidak lebih daripada dua ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya. Pembaharuan lesen 26b. (1) Tertakluk kepada subseksyen (2) dan (3), Lembaga boleh, apabila permohonan dibuat oleh pemegang lesen perniagaan pengantaraan, membaharui lesen perniagaan pengantaraan itu dengan apa-apa syarat yang difikirkan patut oleh Lembaga atau menolak permohonan itu. (2) Sesuatu permohonan untuk membaharui lesen perniagaan pengantaraan di bawah subseksyen (1) hendaklah dibuat sekurang-kurangnya sembilan puluh hari sebelum tarikh habis tempoh lesen perniagaan pengantaraan itu dan hendaklah disertai dengan fi pembaharuan yang ditetapkan dan apa-apa dokumen yang dinyatakan oleh Lembaga. (3) Jika pemegang lesen perniagaan pengantaraan tidak mematuhi subseksyen (2) dan tidak memberikan apa-apa alasan yang difikirkan munasabah oleh Lembaga, Lembaga boleh enggan untuk meneruskan dengan, mendengar atau menentukan permohonan itu. (4) Jika tiada permohonan untuk membaharui lesen perniagaan pengantaraan dikemukakan, pemegang lesen perniagaan pengantaraan hendaklah, dalam masa empat belas hari dari tarikh habis tempoh lesen perniagaan pengantaraan, mengembalikan lesen perniagaan pengantaraan itu kepada Lembaga. Permohonan bagi pengubahan 26c. Apabila permohonan dibuat oleh pemegang lesen perniagaan pengantaraan bagi pengubahan lesen perniagaan pengantaraan atau syarat lesen perniagaan pengantaraan, Lembaga hendaklah mempunyai kuasa penuh dalam budi bicaranya— (a) untuk meluluskan permohonan itu sepenuhnya atau sebahagiannya; (b) untuk menolak permohonan itu; atau (c) untuk memerintahkan apa-apa pengubahan pada lesen perniagaan pengantaraan itu atau syarat lesen perniagaan pengantaraan itu, selain pengubahan yang dinyatakan dalam permohonan itu. Pembatalan atau penggantungan lesen perniagaan pengantaraan 26d. (1) Lembaga boleh, melalui notis bertulis kepada pemegang lesen perniagaan pengantaraan dan tanpa apa-apa pampasan, membatalkan atau menggantung mana-mana lesen perniagaan pengantaraan yang dikeluarkan di bawah seksyen 26a— (a) jika mana-mana peruntukan Akta ini atau mana-mana syarat lesen perniagaan pengantaraan tidak dipatuhi; (b) jika pengeluaran lesen perniagaan pengantaraan itu didorong oleh suatu representasi palsu mengenai fakta oleh atau bagi pihak pemegang lesen perniagaan pengantaraan itu; atau (c) sekiranya berlaku kematian, ketidakupayaan, kebankrapan atau, dalam hal suatu syarikat, likuidasi pemegang lesen perniagaan pengantaraan itu atau, apabila seorang penerima atau pengurus dilantik berhubung dengan perniagaan menyediakan perniagaan pengantaraan oleh pemegang lesen perniagaan pengantaraan itu: Dengan syarat bahawa Lembaga— (A) dalam hal perenggan (a), boleh sebagai ganti pembatalan atau penggantungan lesen perniagaan pengantaraan melantik suatu pihak ketiga untuk membetulkan ketidakpatuhan itu dan mendapatkan semula kos pembetulan itu daripada pemegang lesen perniagaan pengantaraan itu; (B) dalam hal kemungkiran mana-mana syarat lesen perniagaan pengantaraan di bawah perenggan (a), tidak boleh membatalkan atau menggantung lesen perniagaan pengantaraan itu melainkan jika ia berpuas hati, selepas memberi pemegang lesen perniagaan pengantaraan itu suatu peluang untuk membuat apa-apa representasi bertulis yang dihasratinya untuk dibuat, bahawa disebabkan kekerapan kemungkiran itu, atau kemungkiran itu dilakukan dengan sengaja atau bahaya kepada orang awam yang terlibat dalam kemungkiran itu, lesen perniagaan pengantaraan itu patut dibatalkan atau digantung; atau (C) dalam hal kemungkiran mana-mana peruntukan Akta ini di bawah perenggan (a), atau perenggan (b) atau (c), tidak boleh membatalkan atau menggantung lesen perniagaan pengantaraan itu melainkan jika ia berpuas hati bahawa, selepas memberi pemegang lesen perniagaan pengantaraan itu suatu peluang untuk membuat apa-apa representasi bertulis yang dihasratinya untuk dibuat, lesen perniagaan pengantaraan itu patut dibatalkan atau digantung. (2) Jika suatu lesen perniagaan pengantaraan— (a) telah dibatalkan, lesen perniagaan pengantaraan itu tidak mempunyai kuat kuasa dari tarikh pembatalan itu dan pemegang lesen perniagaan pengantaraan itu hendaklah dalam masa empat belas hari dari tarikh pembatalan lesen perniagaan pengantaraan itu mengembalikan lesen perniagaan pengantaraan itu kepada Lembaga; atau (b) telah digantung, pemegang lesen perniagaan pengantaraan yang berterusan mengendalikan atau menyediakan suatu perniagaan pengantaraan dalam tempoh penggantungan itu, melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang daripada satu ribu ringgit tetapi tidak melebihi sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya. Pemindahan lesen dilarang 26e. (1) Tertakluk kepada subseksyen (3), suatu lesen perniagaan pengantaraan yang dikeluarkan di bawah seksyen 26a hendaklah menjadi khas untuk pemegang lesen perniagaan pengantaraan itu, dan tidak boleh dipindahkan atau diserahhakkan. (2) Seseorang pemegang lesen perniagaan pengantaraan yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang daripada satu ribu ringgit tetapi tidak lebih daripada sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya. (3) Walau apa pun perenggan 26d(1)(c), Lembaga boleh, sekiranya berlaku kematian, ketidakupayaan, kebankrapan atau, dalam hal suatu syarikat, likuidasi pemegang lesen perniagaan pengantaraan itu atau, apabila seorang penerima atau pengurus dilantik berhubung dengan perniagaan mengadakan perniagaan pengantaraan pemegang lesen perniagaan pengantaraan itu atau, jika atas apa-apa sebab Lembaga berpuas hati bahawa adalah tidak adil untuk tidak berbuat demikian, membenarkan pemindahan lesen perniagaan pengantaraan itu. Kewajipan pemegang lesen perniagaan pengantaraan untuk menyimpan rekod, dsb. 26f. (1) Menjadi kewajipan seorang pemegang lesen perniagaan pengantaraan untuk menyimpan apa-apa akaun dan rekod sebagaimana yang dikehendaki oleh Lembaga di bawah seksyen 40 berhubungan dengan lesen perniagaan pengantaraan yang dikeluarkan kepadanya. (2) Seseorang pemegang lesen perniagaan pengantaraan yang tidak mematuhi subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang daripada satu ribu ringgit tetapi tidak lebih daripada sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya. Kewajipan pemegang lesen perniagaan pengantaraan untuk memberitahu Lembaga 26g. (1) Menjadi kewajipan tiap-tiap pemegang lesen perniagaan pengantaraan, pada setiap masa, untuk memberitahu Lembaga dengan serta-merta mengenai perkara yang berikut: (a) apa-apa prosiding atau tuntutan yang dimulakan atau dibuat terhadap pemegang lesen perniagaan pengantaraan itu yang mungkin mempunyai kesan yang buruk pada keadaan kewangannya atau terhadap keupayaannya untuk melaksanakan apa-apa syarat di bawah lesen perniagaan pengantaraan itu; (b) apa-apa celaan atau denda yang dikenakan ke atas pemegang lesen perniagaan pengantaraan itu oleh Kerajaan; dan (c) apa-apa perubahan dalam kawalan pemegang lesen perniagaan pengantaraan itu. (2) Bagi maksud seksyen ini, “kawalan”, berhubung dengan seorang pemegang lesen perniagaan pengantaraan, ertinya mempunyai kuasa, secara langsung atau tidak langsung, untuk mengarahkan pengurusan dan dasar pemegang lesen perniagaan pengantaraan itu. (3) Seseorang pemegang lesen perniagaan pengantaraan yang tidak mematuhi subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang daripada satu ribu ringgit tetapi tidak lebih daripada sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.”. Pindaan seksyen 27"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 27 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa kebangsaan, dengan memasukkan selepas perkataan “lesen” di mana-mana jua terdapat perkataan “atau lesen perniagaan pengantaraan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_7__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_7__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_7__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_7__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “a licence” di mana-mana jua terdapat perkataan “or an intermediation business licence”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_7__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_7__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “such licence” perkataan “or intermediation business licence”. Pindaan seksyen 30"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 30 Akta ibu dipinda dengan mengantikan perkataan “di bawah subseksyen 15(3) atau seksyen 22” dengan perkataan “di bawah subseksyen 15(3), seksyen 22 atau 26c”. Pindaan seksyen 31"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/16/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 31 dengan seksyen yang berikut: “31. Walau apa pun seksyen 17 dan 26a, jika Menteri meluluskan sepenuhnya sesuatu rayuan terhadap sesuatu perintah yang membatalkan sesuatu lesen atau lesen perniagaan pengantaraan yang diberikan di bawah Akta ini, kesahan lesen atau lesen perniagaan pengantaraan itu hendaklah sesudah itu dilanjutkan selama suatu tempoh yang bersamaan dengan tempoh yang lesen atau lesen perniagaan pengantaraan itu tidak mempunyai kuat kuasa dan tempoh lanjutan itu hendaklah dimasukkan ke dalam lesen atau lesen perniagaan pengantaraan dengan sewajarnya.”. Pindaan seksyen 33"
+      }
+    }
+  ]
+}

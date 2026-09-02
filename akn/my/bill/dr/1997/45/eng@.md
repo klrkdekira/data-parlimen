@@ -46,7 +46,33 @@ section 11 the following section: " Electronic 11A. (1) The Registrar may provid
 
 (6) A document that is required to be stamped, signed or sealed shall, if it is to be electronically filed or lodged, be certified or authenticated in such manner as may be prescribed by regulations or approved by the Registrar.
 
-Evidentiary (7) A copy of or an extract from any value of document electronically filed or lodged with copies of electronically the Registrar under subsection (1) supplied or filed issued by the Registrar and certified to be a documents certified by true copy thereof or extract therefrom under Registrar. the hand and seal of the Registrar shall be admissible in evidence in any proceedings as of equal validity as the original document.
+<!-- marginal: Evidentiary -->
+
+(7) A copy of or an extract from any
+
+<!-- marginal: value of -->
+
+document electronically filed or lodged with
+
+<!-- marginal: copies of -->
+
+<!-- marginal: electronically -->
+
+the Registrar under subsection (1) supplied or
+
+<!-- marginal: filed -->
+
+issued by the Registrar and certified to be a
+
+<!-- marginal: documents -->
+
+<!-- marginal: certified by -->
+
+true copy thereof or extract therefrom under
+
+<!-- marginal: Registrar. -->
+
+the hand and seal of the Registrar shall be admissible in evidence in any proceedings as of equal validity as the original document.
 
 (8) Where a document is electronically filed or lodged with the Registrar, the Registrar or his authorised agents shall not be liable for any loss or damage suffered by any person by reason of any error or omission of whatever nature or however arising appearing in any document obtained by any person under the service referred to in subsection (1) if such error or omission was made in good faith and in the ordinary course of the discharge of the duties of the Registrar or of his authorised agents or occurred or arose as a result of any defect or breakdown in the service or in the equipment used for the provision of the service.".
 
@@ -64,11 +90,7 @@ Evidentiary (7) A copy of or an extract from any value of document electronicall
 
 (b) by inserting after subsection (7) the following subsection:
 
-"(8) Notwithstanding anything to the contrary in this Act or any rule of law, the Registrar shall refuse to register
-
-<!-- marginal: the -->
-
-memorandum of a proposed company if he is satisfied that—
+"(8) Notwithstanding anything to the contrary in this Act or any rule of law, the Registrar shall refuse to register the memorandum of a proposed company if he is satisfied that—
 
 (a) the proposed company is likely to be used for unlawful purposes or any purpose prejudicial to or incompatible with peace, welfare, security, public order, good order or morality in Malaysia; or
 
@@ -98,11 +120,33 @@ notifying the Registrar of that fact and of his intention to vacate the office o
 
 "(6) Every person shall, before he is appointed a secretary of a company, make a declaration in the prescribed form that he is not in contravention of sections 139A and 139c and that he consents to act as a secretary of the company.".
 
-New section
+<!-- marginal: New section -->
 
 5. The principal Act is amended by inserting before
 
-166A. section 167 in Division 1 of Part VI the following section: " Compliance 166A. (1) In this Part unless the contrary with intention appears, "approved accounting approved accounting standards" shall have the meaning assigned standards thereto in section 2 of the Financial Reporting Act 558 Act 1997.
+166A. section 167 in Division 1 of Part VI the following section: "
+
+<!-- marginal: Compliance -->
+
+166A. (1) In this Part unless the contrary
+
+<!-- marginal: with -->
+
+intention appears, "approved accounting
+
+<!-- marginal: approved -->
+
+<!-- marginal: accounting -->
+
+standards" shall have the meaning assigned
+
+<!-- marginal: standards -->
+
+thereto in section 2 of the Financial Reporting
+
+<!-- marginal: Act 558 -->
+
+Act 1997.
 
 (2) The approved accounting standards shall apply to the accounts of a company or the consolidated accounts of a holding company if, at the time when the accounts or consolidated accounts are made out, the approved accounting standards—
 
@@ -126,9 +170,13 @@ New section
 
 (6) Notwithstanding section 169(14), where any conflict or inconsistency arises between the provisions of an applicable approved accounting standard and a provision in the Ninth Schedule in their respective applications to the accounts or consolidated accounts of a company, the provisions of the applicable approved accounting standard shall prevail.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-6. Section 169 of the principal Act is amended by of section substituting for subsection (15) the following subsection:
+6. Section 169 of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+substituting for subsection (15) the following subsection:
 
 169.
 
@@ -142,13 +190,9 @@ Amendment
 
 (c) the accounts, and where applicable the consolidated accounts, have been made out in accordance with the applicable approved accounting standards.".
 
-<!-- marginal: Amendment -->
+Amendment
 
-7. Subsection 174(2) of the principal Act is amended—
-
-<!-- marginal: of section -->
-
-<!-- marginal: 174. -->
+7. Subsection 174(2) of the principal Act is amended— of section 174.
 
 (a) in paragraph (a)—
 
@@ -160,15 +204,13 @@ Amendment
 
 "(iii) in accordance with the applicable approved accounting standards;"; and
 
-(b) by inserting after paragraph (a) the following paragraph:
+(b) by inserting after paragraph (a) the following
+
+<!-- marginal: paragraph: -->
 
 "(aa) if in his opinion the accounts, and where applicable the consolidated accounts, have not been drawn up in accordance with a particular applicable approved accounting standard—
 
-(i) whether in his opinion the accounts or consolidated accounts, as the case may be, would, if drawn up
-
-<!-- marginal: in -->
-
-accordance with that approved accounting standard, have given a true and fair view of the matters required by section 169 to be dealt with in the accounts or consolidated accounts;
+(i) whether in his opinion the accounts or consolidated accounts, as the case may be, would, if drawn up in accordance with that approved accounting standard, have given a true and fair view of the matters required by section 169 to be dealt with in the accounts or consolidated accounts;
 
 <!-- page 8 -->
 
@@ -178,19 +220,29 @@ accordance with that approved accounting standard, have given a true and fair vi
 
 (iv) in a case to which neither subparagraph (ii) nor (iii) applies, particulars of the quantified financial effect on the accounts or consolidated accounts of the failure to so draw up the accounts or consolidated accounts, as the case may be;".
 
-Amendment
+<!-- marginal: Amendment -->
 
-8. Section 194 of the principal Act is amended in the of section definition of "declared company" by substituting for the word "proclamation" the word "order".
+8. Section 194 of the principal Act is amended in the
 
-Amendment
+<!-- marginal: of section -->
 
-9. Section 195 of the principal Act is amended by of section substituting for the word "proclamation" the word "order".
+definition of "declared company" by substituting for the word "proclamation" the word "order".
+
+<!-- marginal: Amendment -->
+
+9. Section 195 of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+substituting for the word "proclamation" the word "order".
 
 195.
 
-Amendment
+<!-- marginal: Amendment -->
 
-10. Subsection 217(1) of the principal Act is amended— of section
+10. Subsection 217(1) of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 217.
 

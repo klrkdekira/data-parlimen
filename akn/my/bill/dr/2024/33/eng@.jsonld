@@ -96,10 +96,7 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/33/eng@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/33/eng@/~cl_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/33/eng@/~cl_2__para_b"
-      ],
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/33/eng@/~cl_2__para_a",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/33/eng@",
       "schema:text": {
         "@language": "en",
@@ -113,17 +110,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/33/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection 2(1), by inserting after the definition of “public ruling” the following definition: ‘ “Pulau 1” means Pulau 1, Forest City situated in the Mukim of Tanjung Kupang, District of Johor Bahru, Johore as shown in the Gazette Plan PW50276 deposited in the Office of the Director of Survey and Mapping, Johore;’ and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/33/eng@/~cl_2__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/33/eng@/~cl_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "in subsection 2(1b), in the definition of “principal customs area”, by substituting for the words “and Pangkor” the words “, Pangkor and Pulau 1”. Amendment of section 154"
+        "@value": "in subsection 2(1), by inserting after the definition of “public ruling” the following definition: ‘ “Pulau 1” means Pulau 1, Forest City situated in the Mukim of Tanjung Kupang, District of Johor Bahru, Johore as shown in the Gazette Plan PW50276 deposited in the Office of the Director of Survey and Mapping, Johore;’ and (b) in subsection 2(1b), in the definition of “principal customs area”, by substituting for the words “and Pangkor” the words “, Pangkor and Pulau 1”. Amendment of section 154"
       }
     },
     {

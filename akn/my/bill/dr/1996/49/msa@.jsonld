@@ -1,0 +1,1758 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-49-1996",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VIII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Kesalahan Jenayah Syariah (Wilayah-Wilayah Persekutuan) 1996"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERMULAAN"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II__cl_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KESALAHAN YANG BERHUBUNGAN DENGAN 'AQIDAH"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_19"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KESALAHAN YANG BERHUBUNGAN DENGAN KESUCIAN AGAMA ISLAM DAN INSTITUSINYA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang mengingkari, melanggar,"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mempertikaikan, mempersendakan atau menyebabkan dipandang hina apa-apa perintah Hakim atau Mahkamah adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_11__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang mengajar atau mengaku mengajar apa-apa perkara yang berhubungan dengan agama Islam tanpa tauliah yang diberikan di bawah seksyen 96 Akta Pentadbiran adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_11__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_11__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen (1) tidaklah terpakai bagi—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_11__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana orang atau golongan orang yang dikecualikan oleh Majlis di bawah seksyen 98 Akta Pentadbiran; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_11__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana orang yang mengajar atau mengaku mengajar apa-apa perkara yang berhubungan dengan agama Islam di dalam kediamannya sendiri kepada anggota keluarganya sahaja."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang memberikan, mengem-"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bangkan atau menyebarkan apa-apa pendapat tentang ajaran Islam, Hukum Syarak atau apa-apa isu yang bertentangan dengan mana-mana fatwa yang sedang berkuatkuasa di Wilayah Persekutuan adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_13__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_13__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_13__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_13__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mencetak, menyiarkan, menerbitkan, me- rakamkan, menyebarkan atau dengan apa-apa cara lain menyebarkan apa-apa buku, risalah, dokumen atau apa-apa bentuk rakaman yang mengandungi apa-apa jua yang bertentangan dengan Hukum Syarak; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_13__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ada dalam miliknya apa-apa buku, risalah, dokumen atau rakaman sedemikian, adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mahkamah boleh memerintahkan supaya mana- mana buku, risalah, dokumen atau rakaman yang disebut dalam subseksyen (1) dilucuthakkan dan dimusnahkan, walaupun tiada seorang pun telah disabitkan atas kesalahan berkaitan dengan buku, risalah, dokumen atau rakaman itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Mana-mana orang lelaki, yang baligh, yang tidak"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menunaikan sembahyang Jumaat di masjid dalam kariahnya tiga kali berturut-turut tanpa uzur syarie atau tanpa sebab yang munasabah adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_15__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang pada waktu berpuasa dalam"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bulan Ramadhan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menjual kepada mana-mana orang Islam apa- apa makanan, minuman, rokok atau benda lain yang seumpamanya untuk dimakan, diminum atau dihisap serta-merta dalam waktu itu; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "secara terbuka atau di tempat awam didapati makan, minum atau menghisap rokok atau benda lain yang seumpamanya, adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya, dan bagi kesalahan yang kedua atau berikutnya boleh didenda tidak melebihi dua ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya. (Wilayah-Wilayah Persekutuan)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_16__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang wajib membayar zakat atau"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "fitrah tetapi—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "enggan membayar atau dengan sengaja tidak membayar zakat atau fitrah itu; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "enggan membayar atau dengan sengaja tidak membayar zakat atau fitrah itu melalui amil yang dilantik, atau mana-mana orang lain yang diberikuasa, oleh Majlis untuk memungut zakat atau fitrah, adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_17__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang menghasut atau mendorong mana-mana orang Islam supaya tidak menghadiri masjid atau pengajaran agama atau apa-apa upacara agama adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang dengan apa-apa cara mencegah orang yang lain daripada membayar zakat atau fitrah adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi dua ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_18__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang berjudi, atau didapati berada di rumah judi, adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam seksyen ini, \"rumah judi\" ertinya mana- mana premis, termasuk bilik, pejabat atau gerai, sama ada terbuka atau tertutup, yang digunakan atau disimpan bagi maksud penjalanan apa-apa permainan yang keputusannya bergantung kepada nasib atau campuran kemahiran dan nasib, sama ada dibenarkan oleh mana- mana undang-undang lain atau sebaliknya, untuk mendapat wang atau nilai wang."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_19__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang, di mana-mana kedai atau tempat awam lain, minum apa-apa minuman yang memabukkan adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang membuat, menjual, menawarkan atau mempamerkan untuk jualan, menyimpan atau membeli apa-apa minuman yang memabukkan adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua- duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang secara lisan atau secara bertulis"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "atau dengan gambaran yang tampak atau dengan apa- apa cara lain—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menghina agama Islam atau menyebabkan agama Islam dipandang hina;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mempersendakan, mengajuk-ajuk mencemuh amalan atau upacara yang berhubungan dengan agama Islam; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mempersendakan atau menyebabkan dipandang hina mana-mana undang-undang yang sedang berkuatkuasa di Wilayah Persekutuan yang berhubungan dengan agama Islam, adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang, dengan kata-katanya atau"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "atau perbuatannya, mempersendakan, menghina, mencemuh atau menyebabkan dipandang hina ayat-ayat Al-Quran atau Hadith adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_III",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang bertindak dengan cara yang"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menghina pihak berkuasa agama atau mengingkari, melanggar atau mempertikaikan perintah atau arahan Yang di-Pertuan Agong sebagai Ketua Agama Islam, Majlis atau Mufti, yang dinyatakan atau diberikan melalui fatwa, adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya. (Wilayah-Wilayah Persekutuan)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II__cl_3__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang memuja alam semula jadi atau melakukan apa-apa perbuatan yang menunjukkan pemujaan atau rasa hormat kepada mana-mana orang, binatang, tempat atau benda dengan apa-apa cara yang menyalahi Hukum Syarak adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mahkamah boleh memerintahkan supaya apa-apa peranti, barang atau benda yang digunakan dalam pelakuan atau yang ada kaitan dengan kesalahan yang disebut dalam subseksyen (1) dilucuthakkan dan dimusnahkan, walaupun tiada seorang pun telah disabitkan atas kesalahan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II__cl_4__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang mengajar atau menjelaskan apa-apa doktrin atau melaksanakan apa-apa upacara atau perbuatan yang berhubungan dengan agama Islam di mana- mana tempat, sama ada tempat persendirian atau tempat (Wilayah-Wilayah Persekutuan) awam, adalah melakukan suatu kesalahan jika doktrin atau upacara atau perbuatan itu berlawanan dengan Hukum Syarak atau mana-mana fatwa yang sedang berkuatkuasa di Wilayah Persekutuan, dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau disebat tidak melebihi enam sebatan atau dihukum dengan mana- mana kombinasi hukuman itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mahkamah boleh memerintahkan supaya mana- mana dokumen atau benda yang digunakan dalam pelakuan atau yang ada kaitan dengan kesalahan yang disebut dalam subseksyen (1) dilucuthakkan dan dimusnahkan, walaupun tiada seorang pun telah disabitkan atas kesalahan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang mengembangkan doktrin atau"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kepercayaan agama selain daripada doktrin atau kepercayaan agama Islam di kalangan orang yang beragama Islam adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II__cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II__cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II__cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengisytiharkan dirinya atau mana-mana orang lain sebagai rasul atau nabi, Imam Mahadi atau wali; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II__cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyatakan atau mendakwa bahawa dia atau mana-mana orang lain mengetahui peristiwa atau perkara di luar pemahaman atau pengetahuan manusia. sedangkan perisytiharan, pernyataan atau dakwaan itu adalah palsu dan berlawanan dengan ajaran Islam, adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua- duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_29"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KESALAHAN YANG BERHUBUNGAN DENGAN KESUS1LAAN"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang melakukan perbuatan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sumbang mahram adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau disebat tidak melebihi enam sebatan atau dihukum dengan mana-mana kombinasi hukuman itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_21__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang perempuan yang melacurkan dirinya adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau disebat tidak melebihi enam sebatan atau dihukum dengan mana-mana kombinasi hukuman itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_21__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_21__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_21__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_21__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "melacurkan isterinya atau kanak-kanak perempuan dalam peliharaannya; atau (Wilayah-Wilayah Persekutuan)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_21__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_21__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyebabkan atau membenarkan isterinya atau kanak-kanak perempuan dalam peliharaannya melacurkan diri, adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau disebat tidak melebihi enam sebatan atau dihukum dengan mana-mana kombinasi hukuman itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang bertindak sebagai muncikari adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau disebat tidak melebihi enam sebatan atau dihukum dengan mana-mana kombinasi hukuman itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_23__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_23__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_23__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang lelaki yang melakukan persetubuhan dengan orang perempuan yang bukan isterinya yang sah adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau disebat tidak melebihi enam sebatan atau dihukum dengan mana-mana kombinasi hukuman itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang perempuan yang melakukan persetubuhan dengan orang lelaki yang bukan suaminya yang sah adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau disebat tidak melebihi enam sebatan atau dihukum dengan mana-mana kombinasi hukuman itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_23__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Hakikat bahawa seorang perempuan hamil luar nikah akibat daripada persetubuhan yang dilakukan dengan kerelaannya adalah keterangan prima facie tentang pelakuan kesalahan di bawah subseksyen (2) oleh orang perempuan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_23__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud subseksyen (3), mana-mana orang perempuan yang melahirkan anak yang sempurna sifatnya dalam tempoh yang kurang daripada enam bulan qamariah dari tarikh pernikahannya hendaklah disifatkan telah hamil luar nikah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang melakukan apa-apa perbuatan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sebagai persediaan untuk melakukan persetubuhan luar nikah adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang lelaki yang melakukan liwat adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau disebat tidak melebihi enam, sebatan atau dihukum dengan mana- mana kombinasi hukuman itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Mana-mana orang perempuan yang melakukan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "musahaqah adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau disebat tidak melebihi enam sebatan atau dihukum dengan mana-mana kombinasi hukuman itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_27__subsec_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_27__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_27__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_27__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "orang lelaki yang didapati berada bersama dengan seorang atau lebih daripada seorang perempuan yang bukan isteri atau mahramnya; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_27__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "orang perempuan yang didapati berada bersama dengan seorang atau lebih daripada seorang lelaki yang bukan suami atau mahramnya, di mana-mana tempat yang terselindung atau di dalam rumah atau bilik dalam keadaan yang boleh menimbulkan syak bahawa mereka sedang melakukan perbuatan yang tidak bermoral adalah melakukan suatu kesalahan dan Kesalahan Jenayah Syariah (Wilayah-Wilayah Persekutuan) apabila disabitkan boleh didenda tidak melebihi tiga ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Mana-mana orang lelaki yang memakai pakaian"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perempuan dan berlagak seperti perempuan di mana-mana tempat awam atas tujuan yang tidak bermoral adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua- duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang bertindak atau berkelakuan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak sopan bertentangan dengan Hukum Syarak di mana- mana tempat awam adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Kesalahan Jenayah Syariah (Wilayah-Wilayah Persekutuan) 1996 dan hendaklah mula berkuatkuasa pada tarikh yang ditetapkan oleh Yang di-Pertuan Agong melalui pemberitahuan dalam Warta."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I__cl_1__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I__cl_1__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini hendaklah terpakai hanya bagi—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I__cl_1__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I__cl_1__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Wilayah Persekutuan Kuala Lumpur dan Labuan sahaja; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I__cl_1__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I__cl_1__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "orang Islam sahaja."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I__cl_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I__cl_2__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I__cl_2__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I__cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I__cl_2__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I__cl_2__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain— \"Akta Pentadbiran\" ertinya Akta Pentadbiran Undang- Undang Islam (Wilayah Persekutuan) 1993; \"baligh\" ertinya sudah cukup umur mengikut Hukum Syarak; \"Enakmen\" ertinya Enakmen Pentadbiran Hukum Syarak 1952 bagi Negeri Selangor—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I__cl_2__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I__cl_2__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berhubungan dengan Wilayah Persekutuan Kuala Lumpur, sebagaimana yang diubahsuaikan oleh Perintah Wilayah Persekutuan (Pengubahsuaian Pentadbiran Enakmen Hukum Syarak) 1974, 1981 dan 1988 yang dibuat menurut subseksyen 6 (4) Akta Perlembagaan (Pindaan) (No. 2) 1973 dan yang berkuatkuasa di Wilayah Persekutuan Kuala Lumpur menurut kuasa subseksyen 6(1) Akta itu dan Akta Pentadbiran Hukum Syarak (Pindaan) 1984; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I__cl_2__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I__cl_2__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berhubungan dengan Wilayah Persekutuan Labuan, sebagaimana yang diubahsuaikan dan diperluaskan oleh Perintah Wilayah Persekutuan Labuan (Pengubahsuaian dan Peluasan Enakmen Pentadbiran Hukum Syarak) 1985 yang dibuat menurut seksyen 7 Akta Perlembagaan (Pindaan) (No. 2) 1984; \"fatwa\" ertinya mana-mana fatwa yang dibuat di bawah seksyen 34 Akta Pentadbiran; \"Hakim\" ertinya hakim Mahkamah Rayuan Syariah, Mahkamah Tinggi Syariah, dan Mahkamah Rendah Syariah yang dilantik masing-masing di bawah seksyen 41, 42 dan 43 Akta Pentadbiran; \"Hukum Syarak\" ertinya Hukum Syarak mengikut mana- mana mazhab yang diiktiraf; \"iron\" ertinya sesuatu pengataan yang dibuat oleh seseorang lelaki dengan bersumpah mengikut Hukum Syarak bahawa isterinya telah melakukan zina; \"liwat\" ertinya perhubungan seks sesama lelaki; \"Mahkamah\" ertinya Mahkamah Rendah Syariah, Mahkamah Tinggi Syariah, atau Mahkamah Rayuan Syariah, mengikut mana-mana yang berkenaan, yang ditubuhkan di bawah seksyen 40 Akta Pentadbiran; (Wilayah-Wilayah Persekutuan) \"Majlis\" ertinya Majlis Agama Islam Wilayah Persekutuan yang ditubuhkan di bawah subseksyen 4(1) Akta Pentadbiran; \"Mufti\" ertinya orang yang dilantik menjadi Mufti bagi Wilayah Persekutuan di bawah seksyen 32 Akta Pentadbiran, dan termasuklah Timbalan Mufti; \"muncikari\" ertinya seseorang yang bertindak sebagai orang tengah antara seorang perempuan dengan seorang lelaki bagi apa-apa maksud yang menyalahi Hukum Syarak; \"musahaqah\" ertinya perhubungan seks sesama perempuan; \"pusat pemulihan diluluskan\" ertinya mana-mana tempat atau institusi yang ditetapkan sebagai sedemikian di bawah seksyen 54; \"qazaf\" ertinya membuat pengataan palsu terhadap mana-mana orang; \"rumah diluluskan\" ertinya mana-mana tempat atau institusi yang ditetapkan sebagai sedemikian di bawah seksyen 54; \"sumbang mahram\" ertinya persetubuhan antara lelaki dan perempuan yang dilarang mengahwini satu sama lain di bawah Hukum Syarak; \"takfir\" ertinya menganggap seseorang orang Islam sebagai orang bukan Islam; \"Wilayah Persekutuan\" ertinya Wilayah Persekutuan Kuala Lumpur dan Labuan; \"zina\" ertinya persetubuhan antara lelaki dengan perempuan tanpa nikah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I__cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua perkataan dan ungkapan yang digunakan dalam Akta ini dan yang tidak ditakrifkan dalamnya tetapi ditakrifkan dalam Akta-Akta Tafsiran 1948 dan 1967 hendaklah mempunyai erti yang diberikan kepadanya masing-masing dalam Akta-Akta itu setakat yang erti sedemikian tidak bercanggah dengan Hukum Syarak."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I__cl_2__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi mengelakkan keraguan tentang sifat atau tafsiran perkataan dan ungkapan yang digunakan dalam Akta ini yang disenaraikan dalam Jadual, rujukan bolehlah dibuat kepada tulisan Arab bagi perkataan dan ungkapan itu yang ditunjukkan bersetentangan dengannya dalam Jadual itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_42"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KESALAHAN PELBAGAI"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_46",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_47"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PENYUBAHATAN DAN PERCUBAAN"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_48",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_49",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_50",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_51",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_52",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_53"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KECUALIAN AM"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VIII",
+      "@type": "akn:part",
+      "eli:number": "VIII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VIII__cl_54",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VIII__cl_55",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VIII__cl_56",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VIII__cl_57",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VIII__cl_58"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERKARA AM"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VIII__cl_54",
+      "@type": "akn:clause",
+      "eli:number": "54",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VIII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Majlis boleh, melalui pemberitahuan dalam Warta,"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menetapkan mana-mana tempat atau institusi, menjadi pusat pemulihan diluluskan atau rumah diluluskan bagi maksud Akta ini. (Wilayah-Wilayah Persekutuan)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VIII__cl_55",
+      "@type": "akn:clause",
+      "eli:number": "55",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VIII__cl_55__subsec_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VIII__cl_55__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VIII__cl_55",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika Mahkamah telah mensabitkan mana-mana orang atas suatu kesalahan di bawah Bahagian II atau di bawah seksyen 7, 8, 9 atau 31, Mahkamah itu boleh, sebagai ganti hukuman atau sebagai tambahan bagi apa- apa hukuman yang ditentukan bagi kesalahan itu, memerintahkan mana-mana orang sedemikian dikomitkan ke pusat pemulihan diluluskan untuk menjalani apa-apa kaunseling atau pemulihan selama apa-apa tempoh yang tidak melebihi enam bulan sebagaimana yang dinyatakan dalam perintah itu; tetapi jika apa-apa hukuman pemenjaraan dikenakan sekali dengan kaunseling atau pemulihan, tempohnya tidaklah boleh melebihi agregat tiga tahun."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VIII__cl_56",
+      "@type": "akn:clause",
+      "eli:number": "56",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VIII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jika Mahkamah telah mensabitkan mana-mana orang"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perempuan atas suatu kesalahan di bawah Bahagian IV, Mahkamah itu boleh, sebagai ganti atau sebagai tambahan bagi apa-apa hukuman yang ditentukan bagi kesalahan itu, memerintahkan orang perempuan sedemikian dikomitkan ke suatu rumah diluluskan selama apa-apa tempoh yang tidak melebihi enam bulan sebagaimana yang dinyatakan dalam perintah itu; tetapi jika apa-apa tempoh pemenjaraan dikenakan sekali dengan komital itu, tempohnya tidaklah boleh melebihi agregat tiga tahun."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VIII__cl_57",
+      "@type": "akn:clause",
+      "eli:number": "57",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VIII__cl_57__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VIII__cl_57__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VIII__cl_57__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VIII__cl_57",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bahagian IX Enakmen, selain daripada seksyen 164 dan 165, hendaklah terhenti terpakai bagi Wilayah Persekutuan dan setakat itu hendaklah disifatkan telah dimansuhkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VIII__cl_57__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VIII__cl_57",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walaupun Bahagian IX Enakmen dimansuhkan (\"Bahagian termansuh\") segala prosiding di bawah Bahagian termansuh itu, termasuk apa-apa rayuan daripada mana-mana Mahkamah di bawah Bahagian termansuh itu, hendaklah diteruskan seolah-olah Akta ini tidak diluluskan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VIII__cl_58",
+      "@type": "akn:clause",
+      "eli:number": "58",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VIII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 164 Enakmen dalam pemakaiannya bagi"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Wilayah Persekutuan adalah dipinda dengan menggantikan perkataan \"34 of this Enactment\" dengan perkataan \"28 of the Administration of Islamic Law (Federal Territories) Act 1993\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_48",
+      "@type": "akn:clause",
+      "eli:number": "48",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Tidaklah menjadi kesalahan apa-apa jua yang"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dilakukan oleh seorang Hakim apabila bertindak secara kehakiman pada menjalankan apa-apa kuasa yang diberikan kepadanya, atau yang dia dengan suci hati percaya telah diberikan kepadanya, oleh undang-undang."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_49",
+      "@type": "akn:clause",
+      "eli:number": "49",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Tidaklah menjadi kesalahan apa-apa jua yang"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dilakukan menurut, atau yang diwajarkan oleh, penghakiman atau perintah Mahkamah, jika dilakukan semasa penghakiman atau perintah itu masih berkuatkuasa, walaupun Mahkamah itu tidak mempunyai bidang kuasa untuk membuat penghakiman atau perintah itu jika orang yang melakukan perbuatan itu percaya dengan suci hati bahawa Mahkamah itu mempunyai bidang kuasa untuk membuat penghakiman atau perintah itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_50",
+      "@type": "akn:clause",
+      "eli:number": "50",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Tidaklah menjadi kesalahan apa-apa jua yang"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dilakukan oleh seseorang yang mempunyai justifikasi di sisi undang-undang, atau yang oleh sebab kesilapan fakta dan bukan kesilapan undang-undang dengan suci hati percaya bahawa dia mempunyai justifikasi di sisi undang- undang untuk melakukan yang demikian."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_51",
+      "@type": "akn:clause",
+      "eli:number": "51",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Tidaklah menjadi kesalahan apa-apa jua yang"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dilakukan oleh kanak-kanak yang belum baligh."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_52",
+      "@type": "akn:clause",
+      "eli:number": "52",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_52__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_52__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_52__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_52__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_52",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tidaklah menjadi kesalahan apa-apa jua yang dilakukan oleh seseorang yang pada masa melakukan perbuatan itu, oleh sebab ketaksempurnaan akalnya, tak berupaya mengetahui sifat sebenar perbuatan itu, atau bahawa apa yang dilakukannya adalah salah dan berlawanan dengan undang-undang."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_52__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_52__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_52__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_52",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud seksyen ini, jika seseorang berada dalam keadaan mabuk pada masa perbuatan atau ketinggalan yang diadukan itu dan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_52__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_52__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "keadaan mabuk itu adalah sedemikian rupa sehingga dia tidak tahu bahawa perbuatan atau ketinggalan itu adalah salah atau dia tidak tahu apa yang dilakukannya; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_52__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_52__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "keadaan mabuk itu telah terjadi persetujuannya dan akibat perbuatan niat jahat atau kecuaian seorang yang lain, maka dia hendaklah disifatkan sebagai orang yang tak sempurna akal."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_52__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_52",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam seksyen ini, \"mabuk\" hendaklah disifatkan termasuk keadaan yang dihasilkan oleh dadah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_53",
+      "@type": "akn:clause",
+      "eli:number": "53",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_53__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_53__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_53__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_53",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tidaklah menjadi kesalahan apa-apa jua yang dilakukan oleh seseorang yang terpaksa melakukannya oleh sebab ugutan yang sedemikian sifatnya sehingga menyebabkan orang itu semunasabahnya percaya, pada masa dia melakukan perbuatan itu, bahawa jika dia tidak melakukannya dia akan mati pada masa itu juga."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_53__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VII__cl_53",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kecualian di bawah subseksyen (1) tidaklah terpakai jika orang yang melakukan perbuatan itu telah meletakkan dirinya, dengan kerelaannya sendiri, dalam keadaan yang menjadikannya tertakluk kepada paksaan itu,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_43__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_43__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_43__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seseorang menyubahati pelakuan sesuatu perkara jika"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dia—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_43__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_43",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menghasut mana-mana orang supaya melakukan perkara itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_43__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_43",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengambil bahagian bersama dengan seorang atau lebih daripada seorang lain dalam apa-apa pakatan jahat untuk melakukan perkara itu, jika sesuatu perbuatan atau ketinggalan yang menyalahi undang-undang berlaku ekoran daripada pakatan jahat itu, dan dengan tujuan hendak melakukan perkara itu; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_43__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_43",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan sengaja membantu, dengan apa-apa perbuatan atau ketinggalan yang menyalahi undang-undang, pelakuan perkara itu. Huraian 1—Seseorang yang, dengan penyataan salah sengaja, atau penyembunyian sengaja suatu fakta material yang dia terikat mendedahkannya, dengan sengaja menyebabkan atau mendapatkan, atau cuba untuk menyebabkan atau mendapatkan, supaya sesuatu perkara dilakukan adalah dikatakan menghasut supaya perkara itu dilakukan. 22 Rang Undang-Undang Huraian 2—Mana-mana orang, sama ada sebelum atau pada masa pelakuan sesuatu perbuatan, melakukan apa-apa jua dengan tujuan memudahkart pelakuan perbuatan itu, dan dengan itu memudahkan pelakuan itu. adalah dikatakan membantu dalam melakukan perbuatan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seseorang adalah menyubahati sesuatu kesalahan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengikut pengertian Akta ini jika di dalam Wilayah Persekutuan dia menyubahati pelakuan suatu perbuatan di luar Wilayah Persekutuan yang akan menjadi suatu kesalahan sekiranya dilakukan di Wilayah Persekutuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang menyubahati apa-apa"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kesalahan hendaklah, jika perbuatan yang disubahati itu dilakukan menurut penyubahatan itu, dihukum dengan hukuman yang diperuntukkan bagi kesalahan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_46__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_46__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jika sesuatu perbuatan disubahati dan suatu perbuatan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang berlainan dilakukan, penyubahat itu bertanggungan bagi perbuatan yang dilakukan mengikut cara yang sama dan sehingga takat yang sama seolah-olah dia telah menyubahati perbuatan yang dilakukan jika perbuatan yang dilakukan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_46__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_46",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "adalah akibat barangkali daripada penyubahatan itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_46__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_46",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "telah dilakukan dengan pegaruh hasutan itu, atau dengan bantuan atau kerana menurut pakatan jahat yang mewujudkan penyubahatan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_47__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_47__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_47__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_47__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_47__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_47",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang Cuba—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_47__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_47__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "melakukan sesuatu kesalahan yang boleh dihukum di bawah Akta ini atau di bawah mana- mana undang-undang bertulis lain yang berhubungan dengan Hukum Syarak; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_47__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_47__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyebabkan kesalahan itu dilakukan, dan dalam percubaan itu melakukan apa-apa perbuatan ke arah pelakuan kesalahan itu hendaklah, jika tiada peruntukan nyata dibuat oleh Akta ini atau undang-undang bertulis lain itu, mengikut mana-mana yang berkenaan, bagi hukuman percubaan itu, dihukum dengan apa-apa hukuman yang diperuntukkan bagi kesalahan itu. (Wilayah-Wilayah Persekutuan)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_47__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_VI__cl_47",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa tempoh pemenjaraan yang dikenakan sebagai hukuman bagi suatu percubaan untuk melakukan suatu kesalahan atau untuk menyebabkan suatu kesalahan dilakukan tidak boleh melebihi satu perdua daripada tempoh maksimum pemenjaraan yang diperuntukkan bagi kesalahan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_30__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_30__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_30__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang memberikan keterangan palsu atau memalsukan keterangan bagi maksud ia digunakan dalam apa-apa peringkat dalam sesuatu presiding kehakiman di Mahkamah adalah malakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_30__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang mengetahui atau mempunyai sebab untuk mempercayai bahawa suatu kesalahan telah dilakukan di bawah Akta ini atau di bawah mana-mana undang-undang bertulis yang lain berhubungan dengan agama Islam, memberikan apa-apa maklumat berhubungan dengan kesalahan itu yang diketahuinya atau dipercayainya sebagai palsu adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_31__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_31__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_31__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_31__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_31__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_31__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_31__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada subseksyen (2), mana-mana orang yang mengatakan atau menohmahkan dengan perkataan, sama ada secara lisan atau bertulis, atau dengan isyarat atau gambaran tampak, atau dengan apa-apa perbuatan, aktiviti atau pelakuan, atau dengan menganjurkan, menaja atau membuat perkiraan bagi apa- apa aktiviti atau selainnya dengan apa-apa cara, bahawa mana-mana orang yang menganut agama Islam atau orang yang tergolong dalam apa-apa kumpulan, golongan atau perihalan orang yang menganut agama Islam—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_31__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_31__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "adalah kafir;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_31__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_31__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak lagi menganut agama Islam;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_31__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_31__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak sepatutnya diterima, atau tidak boleh diterima, sebagai menganuti agama Islam; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_31__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_31__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak mempercayai, mengikuti, menganuti, atau tergolong dalam, agama Islam, adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_31__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_31__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_31__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen (1) tidaklah terpakai bagi—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_31__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_31__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa jua yang dilakukan oleh mana-mana Mahkamah atau pihak berkuasa agama yang ditubuhkan, dibentuk atau dilantik oleh atau di bawah mana-mana undang-undang bertulis dan yang diberikan kuasa untuk membuat atau mengeluarkan apa-apa keputusan mengenai apa- apa perkara yang berhubungan dengan agama Islam; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_31__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_31__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa jua yang dilakukan oleh mana-mana orang menurut atau mengikut apa-apa keputusan yang dibuat atau dikeluarkan oleh Mahkamah atau pihak berkuasa sedemikian, sama ada atau tidak keputusan itu adalah secara bertulis atau, jika bertulis, sama ada atau tidak ia disiarkan dalam Warta. (Wilayah-Wilayah Persekutuan)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Mana-raana orang yang memusnahkan, merosakkan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "atau mencemarkan mana-mana masjid atau surau atau tempat beribadat lain atau apa-apa kelengkapannya dengan niat menghina atau mempersendakan agama Islam adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua- duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang memungut zakat atau fitrah"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "atau menyebabkan dipungut zakat atau fitrah tanpa dia dilantik sebagai amil atau selainnya diberikuasa oleh Majlis adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya, dan Mahkamah hendaklah memerintahkan supaya pungutan itu dirampas dan dibayar ke dalam Kumpulan Wang yang ditubuhkan di bawah seksyen 60 Akta Pentadbiran."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang membayar atau menyebabkan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "supaya dibayar zakat atau fitrah kepada mana-mana orang yang tidak diberikuasa secara sah untuk memungut zakat atau fitrah adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang menganjurkan, mendorong"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "atau menggalakkan orang lain untuk melakukan apa-apa maksiat adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang memujuk lari seorang"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perempuan bersuami atau membawanya keluar dari atau dengan apa-apa cara mempengaruhinya supaya meninggalkan kediaman suami isteri yang ditentukan oleh suaminya adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya, dan Mahkamah boleh memerintahkan perempuan tersebut supaya kembali kepada suaminya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang menghalang sesuatu pasangan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang sudah bernikah daripada hidup sebagai suami isteri yang sudah bernikah dengan sah adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi dua ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya, dan Mahkamah hendaklah memerintahkan pasangan itu supaya hidup sebagai pasangan suami isteri yang sudah bernikah dengan sah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang menghasut, memaksa atau"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memujuk mana-mana orang lelaki atau orang perempuan supaya bercerai atau mengabaikan kewajipan dan tanggungjawabnya sebagai suami atau isteri adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua- duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang memujuk lari atau mendorong"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "atau memujuk mana-mana orang perempuan supaya lari daripada jagaan ibu bapanya atau penjaganya adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua- duanya, dan Mahkamah boleh membuat apa-apa perintah yang difikirkannya sesuai berkenaan dengan orang perempuan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang menjual, memberikan atau"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyerahkan anaknya atau kanak-kanak di bawah peliharaannya kepada mana-mana orang yang tidak beragama Islam adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya, dan Mahkamah boleh membuat apa-apa perintah yang difikirkannya sesuai berkenaan dengan anak atau kanak-kanak itu. (Wilayah-Wilayah Persekuluan)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Kecuali dalam kes li'an, mana-mana orang yang"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menuduh orang lain melakukan zina tanpa mengemukakan, mengikut Hukum Syarak, empat orang saksi lelaki atau iqrar orang yang dituduh itu adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V__cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~part_V",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang mempamerkan pada atau"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berkenaan dengan mana-mana makanan atau minuman yang tidak halal, apa-apa tanda yang menunjukkan bahawa makanan atau minuman itu adalah halal adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(Subseksyen 2(3)) TULISAN DALAM BAHASA ARAB BAGI PERKATAAN DAN UNGKAPAN TERTENTU 'aqidah — baligh — Hadith — iqrar — Iran — mahram — musahaqah — qamariah — qazaf — takfir — zina —"
+      }
+    }
+  ]
+}

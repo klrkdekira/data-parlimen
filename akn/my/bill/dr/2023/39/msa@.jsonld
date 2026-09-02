@@ -204,7 +204,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/39/msa@/~cl_4",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam seksyen 48— “(4a) Walau apa pun subseksyen (4), Lembaga boleh mengurangkan atau melanjutkan tempoh keahlian MPP dan pemegang jawatannya.”; “(11a) Universiti boleh menubuhkan apa-apa kumpulan wang atau memiliki apa-apa harta untuk diuruskan atau disenggara oleh MPP mengikut tatacara kewangan Universiti. (11b) Walau apa pun subseksyen (11a), MPP boleh, tertakluk kepada mana-mana undang-undang bertulis, menubuhkan, menguruskan atau menyenggara apa-apa kumpulan wang mengikut cara sebagaimana yang ditetapkan dalam peraturan-peraturan yang dibuat oleh Lembaga.”; dan “(12 a) Bagi maksud seksyen 15 a Akta Universiti dan Kolej Universiti 1971, Lembaga boleh membuat peraturan-peraturan untuk menetapkan cara bagi pembuatan atau penganjuran atau pengambilan bahagian dalam pungutan wang atau penerimaan wang atau sumbangan lain oleh MPP.”; dan"
+        "@value": "dalam seksyen 48—"
       }
     },
     {
@@ -224,7 +224,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/39/msa@/~cl_4__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas subseksyen (4) subseksyen yang berikut:"
+        "@value": "dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: “(4a) Walau apa pun subseksyen (4), Lembaga boleh mengurangkan atau melanjutkan tempoh keahlian MPP dan pemegang jawatannya.”;"
       }
     },
     {
@@ -244,7 +244,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/39/msa@/~cl_4__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas subseksyen (11) sebagaimana yang dipotong subseksyen yang berikut:"
+        "@value": "dengan memasukkan selepas subseksyen (11) sebagaimana yang dipotong subseksyen yang berikut: “(11a) Universiti boleh menubuhkan apa-apa kumpulan wang atau memiliki apa-apa harta untuk diuruskan atau disenggara oleh MPP mengikut tatacara kewangan Universiti. (11b) Walau apa pun subseksyen (11a), MPP boleh, tertakluk kepada mana-mana undang-undang bertulis, menubuhkan, menguruskan atau menyenggara apa-apa kumpulan wang mengikut cara sebagaimana yang ditetapkan dalam peraturan-peraturan yang dibuat oleh Lembaga.”; dan"
       }
     },
     {
@@ -254,7 +254,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/39/msa@/~cl_4__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas subseksyen (12) subseksyen yang berikut:"
+        "@value": "dengan memasukkan selepas subseksyen (12) subseksyen yang berikut: “(12 a) Bagi maksud seksyen 15 a Akta Universiti dan Kolej Universiti 1971, Lembaga boleh membuat peraturan-peraturan untuk menetapkan cara bagi pembuatan atau penganjuran atau pengambilan bahagian dalam pungutan wang atau penerimaan wang atau sumbangan lain oleh MPP.”; dan"
       }
     },
     {

@@ -96,7 +96,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Pindaan seksyen 46A
 
-10. Subseksyen 46A(1) Akta ibu dipinda dengan memotong perenggan (a).
+10. Subseksyen 46A(1) Akta ibu dipinda dengan memotong
+
+<!-- marginal: perenggan (a). -->
 
 ### Pindaan seksyen 64
 
@@ -194,7 +196,9 @@ Dengan syarat bahawa tempoh tidak kurang daripada empat belas hari itu tidak ter
 
 "(2A) Kuorum bagi suatu mesyuarat agung tahunan ialah lima peratus daripada jumlah bilangan ahli Bar Negeri setakat tarikh notis mesyuarat itu; dan tiada urusan boleh dijalankan dalam mana-mana mesyuarat agung tahunan melainkan jika ada cukup kuorum apabila mesyuarat itu bertindak menjalankan urusannya.
 
-(2B) Jika kuorum yang disebut dalam subseksyen (2A) tidak ada dalam masa satu jam dari masa yang ditetapkan untuk mengadakan mesyuarat itu, mesyuarat itu hendaklah ditangguhkan ke hari yang berikutnya pada masa dan di tempat yang sama melainkan jika ahli-ahli diberitahu selainnya oleh Jawatankuasa Bar Negeri dalam notis yang memanggil mesyuarat yang asal; dan jika pada mesyuarat agung tahunan yang ditangguhkan itu tidak ada cukup kuorum dalam masa satu jam dari masa yang ditetapkan untuk mengadakan mesyuarat yang ditangguhkan itu, ahli yang hadir hendaklah membentuk suatu kuorum.
+(2B) Jika kuorum yang disebut dalam subseksyen
+
+(2A) tidak ada dalam masa satu jam dari masa yang ditetapkan untuk mengadakan mesyuarat itu, mesyuarat itu hendaklah ditangguhkan ke hari yang berikutnya pada masa dan di tempat yang sama melainkan jika ahli-ahli diberitahu selainnya oleh Jawatankuasa Bar Negeri dalam notis yang memanggil mesyuarat yang asal; dan jika pada mesyuarat agung tahunan yang ditangguhkan itu tidak ada cukup kuorum dalam masa satu jam dari masa yang ditetapkan untuk mengadakan mesyuarat yang ditangguhkan itu, ahli yang hadir hendaklah membentuk suatu kuorum.
 
 (2c) Jika mana-mana ahli berhasrat untuk mencadangkan apa-apa usul untuk dipertimbangkan dalam mesyuarat agung tahunan yang dipanggil di bawah seksyen ini, dia hendaklah, tidak kurang daripada tujuh hari sebelum tarikh yang mula-mula ditetapkan untuk mengadakan mesyuarat itu, menyampaikan notis usul itu secara bertulis kepada Setiausaha Bar Negeri itu.";
 
@@ -240,7 +244,9 @@ undi dan jika terdapat undi yang sama banyak, ahli yang mempengerusikan hendakla
 
 (e) dalam subseksyen (5), dengan memasukkan selepas perkataan "mesyuarat agung" di mana-mana jua terdapat perkataan "luar biasa";
 
-(f) dalam subseksyen (6)— (i) dengan memasukkan selepas perkataan "mesyuarat agung" perkataan "luar biasa"; (ii) dengan menggantikan perkataan "subseksyen (3) atau (5)" dengan perkataan "seksyen ini"; (iii) dalam teks bahasa kebangsaan, dengan memasukkan selepas perkataan "tidak ada" perkataan "cukup"; dan (iv) dengan menggantikan perkataan "setengah" dengan perkataan "satu";
+(f) dalam subseksyen (6)— (i) dengan memasukkan selepas perkataan "mesyuarat agung" perkataan "luar biasa"; (ii) dengan menggantikan perkataan "subseksyen (3) atau (5)" dengan perkataan "seksyen ini";
+
+(iii) dalam teks bahasa kebangsaan, dengan memasukkan selepas perkataan "tidak ada" perkataan "cukup"; dan (iv) dengan menggantikan perkataan "setengah" dengan perkataan "satu";
 
 (g) dalam subseksyen (7)— (i) dengan memasukkan selepas perkataan "mesyuarat agung" perkataan "luar biasa"; dan (ii) dengan memasukkan selepas perkataan "dan" perkataan "jika terdapat undi yang sama banyak,"; dan
 
@@ -782,4 +788,4 @@ dijalankan oleh Jawatankuasa Tatatertib sahaja. Fasal ini juga menetapkan garis 
 
 Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
 
-[PN(U2)1855]
+<!-- marginal: [PN(U2)1855] -->

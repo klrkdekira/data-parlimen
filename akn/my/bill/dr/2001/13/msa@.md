@@ -38,7 +38,7 @@ supaya memberinya bantuan yang munasabah sebagaimana yang dikehendaki olehnya ba
 
 (3) Bagi maksud subseksyen (1), "akses" termasuklah diberi kata laluan, kod penyulitan, kod penyahsulitan, perisian atau perkakasan yang perlu dan apa-apa cara lain yang diperlukan untuk membolehkan maklumat berekod atau data berkomputer itu difahami.".
 
-### Pindaan seksyen 55
+<!-- marginal: Pindaan seksyen 55 -->
 
 4. Subseksyen 55(1) Akta ibu dipinda—
 
@@ -80,7 +80,39 @@ tertakluk kepadanya orang itu telah dilepaskan atau selainnya dibenarkan dijamin
 
 ### Penggantian seksyen 60
 
-7. Akta ibu dipinda dengan menggantikan seksyen 60 dengan seksyen yang berikut: " Pemeriksaan 60. (1) Apabila apa-apa barang yang disyaki sebagai sebahagian berduti atau selainnya boleh kena disita telah disita, maka barang- barang memadailah dibuka dan diperiksa lima peratus sahaja yang daripada setiap jenis bungkusan atau bekas yang disita hendaklah mengandungi barang-barang itu. diterima oleh mahkamah. (2) Jika didapati perlu untuk menguji mana-mana barang yang disita di bawah Akta ini, maka memadailah diuji hanya suatu contoh yang tidak melebihi lima peratus isipadu atau berat barang-barang yang diperiksa di bawah subseksyen (1).
+7. Akta ibu dipinda dengan menggantikan seksyen 60 dengan seksyen yang berikut: "
+
+<!-- marginal: Pemeriksaan -->
+
+60. (1) Apabila apa-apa barang yang disyaki sebagai
+
+<!-- marginal: sebahagian -->
+
+berduti atau selainnya boleh kena disita telah disita, maka
+
+<!-- marginal: barang- -->
+
+<!-- marginal: barang -->
+
+memadailah dibuka dan diperiksa lima peratus sahaja
+
+<!-- marginal: yang -->
+
+daripada setiap jenis bungkusan atau bekas yang
+
+<!-- marginal: disita -->
+
+<!-- marginal: hendaklah -->
+
+mengandungi barang-barang itu.
+
+<!-- marginal: diterima -->
+
+<!-- marginal: oleh -->
+
+<!-- marginal: mahkamah. -->
+
+(2) Jika didapati perlu untuk menguji mana-mana barang yang disita di bawah Akta ini, maka memadailah diuji hanya suatu contoh yang tidak melebihi lima peratus isipadu atau berat barang-barang yang diperiksa di bawah subseksyen (1).
 
 (3) Mahkamah hendaklah menganggap bahawa barang- barang yang terkandung dalam bungkusan-bungkusan atau bekas-bekas yang tidak dibuka itu adalah sama jenis, kuantiti dan kualitinya dengan barang-barang yang didapati dalam bungkusan-bungkusan atau bekas-bekas seumpamanya yang telah dibuka itu.".
 
@@ -88,13 +120,25 @@ tertakluk kepadanya orang itu telah dilepaskan atau selainnya dibenarkan dijamin
 
 ### Seksyen baru 63A
 
-8. Akta ibu dipinda dengan memasukkan selepas seksyen 63 seksyen yang berikut: " Kewajipan 63A. (1) Kecuali sebagaimana yang diperuntukkan di kerahsiaan. bawah seksyen 64, nama dan alamat seseorang pemberi maklumat dan isi maklumat yang diterima daripada seseorang pemberi maklumat hendaklah dirahsiakan dan tidak boleh dizahirkan oleh mana-mana pegawai yang hak atau mana-mana orang yang dalam perjalanan biasa tugasnya memperoleh atau mengawal atau mendapat akses kepada maklumat itu kepada mana-mana orang kecuali pegawai eksais ditetapkan yang diberi kuasa oleh Ketua Pengarah.
+8. Akta ibu dipinda dengan memasukkan selepas seksyen 63 seksyen yang berikut: "
 
-(2) Mana-mana orang yang tidak mematuhi subseksyen (1) adalah bersalah atas suatu kesalahan terhadap Akta ini dan boleh, apabila disabitkan, dikenakan denda tidak lebih daripada sepuluh ribu ringgit atau penjara selama tempoh tidak lebih daripada lima tahun atau denda dan penjara itu kedua-duanya.".
+<!-- marginal: Kewajipan -->
+
+63A. (1) Kecuali sebagaimana yang diperuntukkan di
+
+<!-- marginal: kerahsiaan. -->
+
+bawah seksyen 64, nama dan alamat seseorang pemberi maklumat dan isi maklumat yang diterima daripada seseorang pemberi maklumat hendaklah dirahsiakan dan tidak boleh dizahirkan oleh mana-mana pegawai yang hak atau mana-mana orang yang dalam perjalanan biasa tugasnya memperoleh atau mengawal atau mendapat akses kepada maklumat itu kepada mana-mana orang kecuali pegawai eksais ditetapkan yang diberi kuasa oleh Ketua Pengarah.
+
+(2) Mana-mana orang yang tidak mematuhi subseksyen
+
+(1) adalah bersalah atas suatu kesalahan terhadap Akta ini dan boleh, apabila disabitkan, dikenakan denda tidak lebih daripada sepuluh ribu ringgit atau penjara selama tempoh tidak lebih daripada lima tahun atau denda dan penjara itu kedua-duanya.".
 
 ### Pindaan seksyen 69
 
-9. Seksyen 69 Akta ibu dipinda dengan menggantikan subseksyen (2) dengan subseksyen yang berikut:
+9. Seksyen 69 Akta ibu dipinda dengan menggantikan subseksyen
+
+(2) dengan subseksyen yang berikut:
 
 "(2) Apabila jumlah wang yang sedemikian dibayar—
 

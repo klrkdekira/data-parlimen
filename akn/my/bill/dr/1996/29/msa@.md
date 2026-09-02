@@ -38,9 +38,29 @@ seksyen 2 dengan memasukkan selepas takrif "Negeri" takrif yang berikut:
 
 <!-- page 2 -->
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
-3. Akta ibu adalah dipinda dengan memasukkan selepas 17A, 17B, 17C, seksyen 17 seksyen yang berikut: 17D, 17B, 17F, 17G dan 17H. "Jawatan- 17A. (1) Lembaga hendaklah mempunyai kuasa kuasa tatatertib ke atas semua pegawai dan peng- tatatertib. khidmatnya dan hendaklah menjalankan kawalan tatatertib berkenaan dengan semua orang sedemikian mengikut Akta ini dan mana-mana peraturan yang dibuat di bawah seksyen 17c.
+3. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: 17A, 17B, 17C, -->
+
+seksyen 17 seksyen yang berikut:
+
+<!-- marginal: 17D, 17B, 17F, -->
+
+<!-- marginal: 17G dan 17H. -->
+
+<!-- marginal: "Jawatan- -->
+
+17A. (1) Lembaga hendaklah mempunyai kuasa
+
+<!-- marginal: kuasa -->
+
+tatatertib ke atas semua pegawai dan peng-
+
+<!-- marginal: tatatertib. -->
+
+khidmatnya dan hendaklah menjalankan kawalan tatatertib berkenaan dengan semua orang sedemikian mengikut Akta ini dan mana-mana peraturan yang dibuat di bawah seksyen 17c.
 
 (2) Bagi maksud seksyen ini—
 
@@ -66,9 +86,25 @@ Seksyen baru
 
 (5) Pada menjalankan fungsi dan kuasa tata- tertibnya, sesuatu jawatankuasa tatatertib yang disebut di bawah subseksyen (2) hendaklah mempunyai kuasa untuk mengambil tindakan tatatertib dan mengenakan apa-apa hukuman tatatertib atau apa-apa kombinasi dua hukuman tatatertib atau lebih sebagaimana yang diperuntukkan di bawah mana-mana peraturan yang dibuat di bawah seksyen 17c.
 
-Rayuan
+<!-- marginal: Rayuan -->
 
-17B. (1) Sesuatu keputusan jawatankuasa terhadap tatatertib di bawah seksyen 17A(2)(a) bolehlah keputusan jawatan- dirayu kepada Menteri. kuasa tatatertib. (2) Sesuatu keputusan jawatankuasa tatatertib di bawah seksyen 17A(2)(b) bolehlah dirayu kepada Jawatankuasa Rayuan Tatatertib yang hendaklah terdiri daripada ahli-ahli yang berikut:
+17B. (1) Sesuatu keputusan jawatankuasa
+
+<!-- marginal: terhadap -->
+
+tatatertib di bawah seksyen 17A(2)(a) bolehlah
+
+<!-- marginal: keputusan -->
+
+<!-- marginal: jawatan- -->
+
+dirayu kepada Menteri.
+
+<!-- marginal: kuasa -->
+
+<!-- marginal: tatatertib. -->
+
+(2) Sesuatu keputusan jawatankuasa tatatertib di bawah seksyen 17A(2)(b) bolehlah dirayu kepada Jawatankuasa Rayuan Tatatertib yang hendaklah terdiri daripada ahli-ahli yang berikut:
 
 (a) Pengerusi Lembaga, yang hendaklah menjadi pengerusi Jawatankuasa Rayuan Tatatertib dan mempunyai undi pemutus; dan
 
@@ -82,7 +118,23 @@ Rayuan
 
 (5) Keputusan Menteri atau Jawatankuasa Rayuan Tatatertib di bawah subseksyen (3) adalah muktamad dan konklusif.
 
-Kuasa 17c. (1) Lembaga boleh, dengan kelulusan membuat Menteri, membuat apa-apa peraturan yang peraturan- peraturan difikirkannya perlu atau suaimanfaat untuk tatatertib. mengadakan peruntukan bagi tatatertib pegawai- pegawai dan pengkhidmat-pengkhidmat Lembaga.
+<!-- marginal: Kuasa -->
+
+17c. (1) Lembaga boleh, dengan kelulusan
+
+<!-- marginal: membuat -->
+
+Menteri, membuat apa-apa peraturan yang
+
+<!-- marginal: peraturan- -->
+
+<!-- marginal: peraturan -->
+
+difikirkannya perlu atau suaimanfaat untuk
+
+<!-- marginal: tatatertib. -->
+
+mengadakan peruntukan bagi tatatertib pegawai- pegawai dan pengkhidmat-pengkhidmat Lembaga.
 
 (2) Peraturan-peraturan tatatertib yang dibuat di bawah seksyen ini—
 
@@ -112,9 +164,13 @@ Lembaga sementara menanti selesainya prosiding jenayah terhadapnya atau prosidin
 
 (e) boleh mengadakan peruntukan bagi penggantungan tanpa emolumen seseorang pegawai atau pengkhidmat Lembaga jika pegawai atau pengkhidmat itu telah disabitkan oleh mana-mana mahkamah jenayah atau jika suatu perintah tahanan atau sekatan telah dibuat berkenaan dengan atau dikenakan terhadap pegawai atau pengkhidmat itu.
 
-Pengenaan
+<!-- marginal: Pengenaan -->
 
-17D. (1) Seseorang yang sedang atau telah surcaj. bekerja dengan Lembaga boleh disurcaj jika ternyata kepada Lembaga bahawa orang itu—
+17D. (1) Seseorang yang sedang atau telah
+
+<!-- marginal: surcaj. -->
+
+bekerja dengan Lembaga boleh disurcaj jika ternyata kepada Lembaga bahawa orang itu—
 
 (a) tidak memungut apa-apa wang yang terhutang kepada Lembaga yang pemungutannya menjadi tanggung- jawabnya;
 
@@ -140,15 +196,33 @@ itu kena dibuat di bawah mana-mana undang-undang atau di bawah mana-mana kontrak
 
 (b) dalam hal subseksyen ( 1 )( d) dan (e), mensurcajkan apa-apa jumlah wang terhadap orang itu sebagaimana yang difikirkannya patut.
 
-Pemberi- 17E. Lembaga hendaklah memberitahu orang tahuan yang disurcajkan berkenaan dengan surcaj yang surcaj. dikenakan di bawah seksyen 17D(3).
+<!-- marginal: Pemberi- -->
 
-Penarik- 17F. Walau apa pun seksyen 17D(3) dan 17E, balikan Lembaga boleh pada bila-bila masa menarik balik surcaj. apa-apa surcaj yang berkenaan dengannya penjelasan yang memuaskan hati telah diterima atau jika ternyata selainnya bahawa tiada surcaj patut dibuat, dan Lembaga hendaklah dengan serta-merta memberitahu orang yang disurcajkan itu akan penarikbalikan itu.
+17E. Lembaga hendaklah memberitahu orang
+
+<!-- marginal: tahuan -->
+
+yang disurcajkan berkenaan dengan surcaj yang
+
+<!-- marginal: surcaj. -->
+
+dikenakan di bawah seksyen 17D(3).
+
+<!-- marginal: Penarik- -->
+
+17F. Walau apa pun seksyen 17D(3) dan 17E,
+
+<!-- marginal: balikan -->
+
+Lembaga boleh pada bila-bila masa menarik balik
+
+<!-- marginal: surcaj. -->
+
+apa-apa surcaj yang berkenaan dengannya penjelasan yang memuaskan hati telah diterima atau jika ternyata selainnya bahawa tiada surcaj patut dibuat, dan Lembaga hendaklah dengan serta-merta memberitahu orang yang disurcajkan itu akan penarikbalikan itu.
 
 <!-- page 8 -->
 
-Mendapatkan
-
-17G. Amaun apa-apa surcaj yang dikenakan di surcaj. bawah seksyen 17D(3) dan tidak ditarik balik di bawah seksyen 17F hendaklah menjadi hutang yang kena dibayar kepada Lembaga daripada orang yang terhadapnya surcaj itu dikenakan dan boleh didakwa dan diperdapatkan di dalam mana-mana mahkamah atas guaman Lembaga dan boleh juga, jika diarahkan sedemikian oleh Lembaga, diperdapatkan melalui potongan—
+Mendapatkan 17G. Amaun apa-apa surcaj yang dikenakan di surcaj. bawah seksyen 17D(3) dan tidak ditarik balik di bawah seksyen 17F hendaklah menjadi hutang yang kena dibayar kepada Lembaga daripada orang yang terhadapnya surcaj itu dikenakan dan boleh didakwa dan diperdapatkan di dalam mana-mana mahkamah atas guaman Lembaga dan boleh juga, jika diarahkan sedemikian oleh Lembaga, diperdapatkan melalui potongan—
 
 (a) daripada gaji orang yang disurcajkan; atau
 
@@ -156,9 +230,7 @@ Mendapatkan
 
 dengan ansuran bulanan yang sama banyak yang tidak melebihi satu perempat daripada jumlah gaji atau pencen bulanan, mengikut mana-mana yang berkenaan, orang itu.
 
-Keanggotaan
-
-17H. Dalam apa-apa tindakan surcaj terhadap Lembaga Pengurus Besar, keanggotaan Lembaga bagi dalam kes khas. maksud seksyen 17D dan 17G tidaklah termasuk Pengurus Besar.".
+Keanggotaan 17H. Dalam apa-apa tindakan surcaj terhadap Lembaga Pengurus Besar, keanggotaan Lembaga bagi dalam kes khas. maksud seksyen 17D dan 17G tidaklah termasuk Pengurus Besar.".
 
 ## HURAIAN
 

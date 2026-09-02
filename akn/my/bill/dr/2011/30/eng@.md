@@ -4,13 +4,13 @@ FINANCE (No. 2) BILL 2011
 
 ArrANgEmENt oF CLAusEs
 
-## Chapter I
+## CHAPTER I
 
 PrELImINArY 1. short title 2. Amendment of Acts
 
-## Chapter II
+## CHAPTER II
 
-## part I
+## PART I
 
 AmENdmENts to thE INComE tAx ACt 1967
 
@@ -52,7 +52,7 @@ AmENdmENts to thE INComE tAx ACt 1967
 
 26. Amendment of schedule 7a
 
-## part II
+## PART II
 
 sAvINgs ANd trANsItIoNAL ProvIsIoNs
 
@@ -72,7 +72,7 @@ AmENdmENts to thE stAmP ACt 1949
 
 32. Amendment of second schedule
 
-## Chapter Iv
+## CHAPTER IV
 
 AmENdmENt to thE rEAL ProPErtY gAINs tAx ACt 1976
 
@@ -80,7 +80,7 @@ AmENdmENt to thE rEAL ProPErtY gAINs tAx ACt 1976
 
 34. Amendment of schedule 2
 
-## Chapter v
+## CHAPTER V
 
 AmENdmENt to thE LABuAN BusINEss ACtIvItY tAx ACt 1990
 
@@ -90,13 +90,9 @@ AmENdmENt to thE LABuAN BusINEss ACtIvItY tAx ACt 1990
 
 <!-- page 3 -->
 
-## Chapter vI
+## CHAPTER VI
 
-AmENdmENt to thE FINANCE ACt 2009
-
-37. Commencement of amendment to the Finance Act 2009
-
-38. Amendment of section 3
+AmENdmENt to thE FINANCE ACt 2009 37. Commencement of amendment to the Finance Act 2009 38. Amendment of section 3
 
 <!-- page 5 -->
 
@@ -108,7 +104,7 @@ An Act to amend the Income tax Act 1967, the stamp Act 1949, the real Property g
 
 ENACTED by the Parliament of malaysia as follows:
 
-## Chapter I
+## CHAPTER I
 
 PrELImINArY
 
@@ -122,9 +118,9 @@ PrELImINArY
 
 <!-- page 6 -->
 
-## Chapter II
+## CHAPTER II
 
-## Part I
+## PART I
 
 AmENdmENts to thE INComE tAx ACt 1967
 
@@ -412,7 +408,7 @@ and the amount of compensation wrongly paid or ought not to have been paid and t
 
 (4) This section shall not apply—
 
-(a) if a person fails to furnish return for a year of assessment in accordance with section 77 or 77a;
+(a) if a person fails to furnish return for a year of assessment in accordance with section 77 or 77A;
 
 (b) in respect of excess of amount payable referred to in subsections 111(1a) and (1b); or
 
@@ -442,9 +438,7 @@ and the amount of compensation wrongly paid or ought not to have been paid and t
 
 ### Amendment of Schedule 1
 
-24. Schedule 1 to the principal Act is amended by inserting after
-
-## Part XIV the following Part:
+24. Schedule 1 to the principal Act is amended by inserting after Part XIV the following Part:
 
 “Part XV
 
@@ -494,7 +488,7 @@ Provided that in respect of portion of the building or extension of the building
 
 <!-- page 20 -->
 
-## Part II
+## PART II
 
 ## SAVINGS AND TRANSITIONAL PROVISIONS
 
@@ -540,7 +534,7 @@ and the amount apportioned to each of the ships shall be deducted against the st
 
 income of that person from that source which is exempt for the year of assessment 2013 and so on for subsequent years of assessment until the whole amount of the apportioned sum is fully deducted.
 
-## chapter III
+## CHAPTER III
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
@@ -636,7 +630,7 @@ Immigration in connection with the grant of any pass or permit issued under the 
 
 Department for the purpose of securing a pass
 
-## Chapter IV
+## CHAPTER IV
 
 ## AMENDMENT TO THE REAL PROPERTY GAINS TAX ACT 1976
 
@@ -654,7 +648,7 @@ Department for the purpose of securing a pass
 
 <!-- page 26 -->
 
-## chapter V
+## CHAPTER V
 
 ## AMENDMENT TO THE LABUAN BUSINESS ACTIVITY TAX
 
@@ -680,7 +674,7 @@ ACT 1990
 
 “tax information exchange arrangements” means an arrangement between the Government of Malaysia and the Government of any territory outside Malaysia under section 132a of the Income Tax Act 1967.”.
 
-## chapter VI
+## CHAPTER VI
 
 ## AMENDMENT TO THE FINANCE ACT 2009
 
@@ -702,7 +696,7 @@ This Bill seeks to amend the Income Tax Act 1967 (“Act 53”), the Stamp Act 1
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-## Chapter II of this Bill seeks to amend the Income Tax Act 1967.
+Chapter II of this Bill seeks to amend the Income Tax Act 1967.
 
 1. Clause 4 seeks to amend subsection 2(1) of Act 53. The proposed amendment seeks to extend the definition of approved scheme to include private retirement scheme.
 
@@ -830,9 +824,7 @@ This amendment comes into operation for the year of assessment 2012 and subseque
 
 ## MISCELLANEOUS
 
-## Part II of Chapter II of this Bill seeks to provide savings and transitional
-
-provisions in respect of amendments to the Income Tax Act 1967.
+Part II of Chapter II of this Bill seeks to provide savings and transitional provisions in respect of amendments to the Income Tax Act 1967.
 
 23. Clause 28 seeks to provide that any balance of allowance for the year of assessment 2011 which is determined based on the formula under that clause shall be made to a person in ascertaining the statutory income of that person in respect of a Malaysian ship for the year of assessment 2012. Any unabsorbed allowance to be carried forward must be utilized against the adjusted income of the person for the year of assessment 2013 and subsequent years of assessment from the same ship.
 
@@ -842,7 +834,7 @@ These amendments have effect for the year of assessment 2012 and subsequent year
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
-## Chapter III of this Bill seeks to amend the Stamp Act 1949.
+Chapter III of this Bill seeks to amend the Stamp Act 1949.
 
 24. Clause 30 seeks to amend section 9 of Act 378. With the proposed amendment, the power to compound for payment of duty stamp as regards to instrument of rights subscription forms is given to Bursa Malaysia.
 
@@ -862,7 +854,7 @@ This amendment comes into operation on the coming into operation of this Act.
 
 ## AMENDMENT TO THE REAL PROPERTY GAINS TAX ACT 1976
 
-## Chapter IV of this Bill seeks to amend the Real Property Gains Tax Act
+Chapter IV of this Bill seeks to amend the Real Property Gains Tax Act
 
 1976.
 
@@ -872,7 +864,7 @@ This amendment has effect from the year of assessment 2012.
 
 ## AMENDMENT TO THE LABUAN BUSINESS ACTIVITY TAX ACT 1990
 
-## Chapter V of this Bill seeks to amend the Labuan Business Activity Tax Act
+Chapter V of this Bill seeks to amend the Labuan Business Activity Tax Act
 
 1990.
 

@@ -64,19 +64,25 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (i) dengan memotong perkataan “dan” di hujung subperenggan (i);
 
-(ii) dengan menggantikan noktah di hujung subperenggan (ii) dengan perkataan “; dan”; dan
+(ii) dengan menggantikan noktah di hujung subperenggan
+
+(ii) dengan perkataan “; dan”; dan
 
 (iii) dengan memasukkan selepas subperenggan (ii) subperenggan yang berikut:
 
 “(iii) banduan yang dipindahkan sebagaimana yang diperuntukkan dalam Bahagian IVb.”; dan
 
-(c) dengan memasukkan selepas subseksyen (1) subseksyen yang berikut:
+(c) dengan memasukkan selepas subseksyen (1) subseksyen
+
+<!-- marginal: yang berikut: -->
 
 “(1a) Tertakluk kepada perintah Komisioner Jeneral, Pengarah Penjara Negeri hendaklah bagi Negeri yang di bawah jagaannya—
 
 (a) menyelia dan mengawal Pegawai yang Menjaga, pusat latihan pegawai penjara, parol dan perkhidmatan komuniti; dan
 
-(b) bertanggungjawab kepada Komisioner Jeneral bagi—
+(b) bertanggungjawab kepada Komisioner Jeneral
+
+<!-- marginal: bagi— -->
 
 (i) pematuhan sewajarnya oleh pegawai penjara dan banduan akan Akta ini dan semua undang-undang bertulis lain yang berhubungan dengan penjara, pusat latihan pegawai penjara, parol dan perkhidmatan komuniti;
 
@@ -92,7 +98,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 6. Akta ibu dipinda dengan memasukkan selepas seksyen 46o Bahagian yang berikut:
 
-‘bahagian IVb
+## ‘BAHAGIAN IVB
 
 ## PEMINDAHAN ANTARABANGSA BANDUAN
 

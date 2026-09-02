@@ -14,21 +14,37 @@ Suatu Akta untuk meminda Akta Pencen Pihak-Pihak Berkuasa Berkanun dan Tempatan 
 
 oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
 
-Tajuk ringkas.
+<!-- marginal: Tajuk ringkas. -->
 
 1. Akta ini bolehlah dinamakan Akta Pencen Pihak-Pihak Berkuasa Berkanun dan Tempatan (Pindaan) 1990.
 
-2. Akta Pencen Pihak-Pihak Berkuasa Berkanun dan baru 6A. Tempatan 1980, yang disebut "Akta ibu" dalam Akta ini, Akta 239. adalah dipinda dengan memasukkan selepas seksyen 6 seksyen baru 6A yang berikut:
+<!-- marginal: Seksyen -->
 
-"Pelaksanaan
+2. Akta Pencen Pihak-Pihak Berkuasa Berkanun dan
 
-6A. (1) Seseorang pekerja yang dilantik pada opsyen. atau selepas mula berkuatkuasanya seksyen ini hendaklah, sebelum disahkan dalam jawatannya, berhak untuk memilih Skim Kumpulan Wang Simpanan Pekerja,
+<!-- marginal: baru 6A. -->
 
-(2) Opsyen di bawah subseksyen (1) hendaklah dibuat kepada pihak berkuasa melantik yang berkenaan mengikut sesuatu cara yang ditetapkan oleh pihak berkuasa pencen.
+Tempatan 1980, yang disebut "Akta ibu" dalam Akta ini,
+
+<!-- marginal: Akta 239. -->
+
+adalah dipinda dengan memasukkan selepas seksyen 6 seksyen baru 6A yang berikut:
+
+"Pelaksanaan 6A. (1) Seseorang pekerja yang dilantik pada opsyen. atau selepas mula berkuatkuasanya seksyen ini hendaklah, sebelum disahkan
+
+<!-- marginal: dalam -->
+
+jawatannya, berhak untuk memilih Skim Kumpulan Wang Simpanan Pekerja,
+
+(2) Opsyen di bawah subseksyen
+
+<!-- marginal: (1) -->
+
+hendaklah dibuat kepada pihak berkuasa melantik yang berkenaan mengikut sesuatu cara yang ditetapkan oleh pihak berkuasa pencen.
 
 <!-- page 2 -->
 
-2
+<!-- marginal: 2 -->
 
 ## RANG UNDANG-UNDANG
 
@@ -40,21 +56,27 @@ Tajuk ringkas.
 
 (6) Pihak berkuasa yang berkenaan boleh, dengan persetujuan pihak berkuasa pencen, menghendaki seseorang pekerja yang memilih Skim Kumpulan Wang Simpanan Pekerja supaya bersara daripada perkhidmatan pihak berkuasa berkanun atau tempatan dalam mana- mana hal-keadaan yang disebut dalam perenggan (a), (b), (c), (d), (e) dan (f) sub- seksyen (5) seksyen 10.
 
-(7) Dalam seksyen ini "Skim Kumpulan Wang Simpanan Pekerja" merujuk kepada suatu Kumpulan Wang Simpanan yang ditubuhkan di Akta 272. bawah Akta Kumpulan Wang Simpanan Pekerja 1951, terrnasuk sesuatu kumpulan wang ditetapkan oleh Lembaga Kumpulan Wang Simpanan Pekerja di bawah seksyen 16 Akta itu sebagai suatu kumpulan wang yang diluluskan.".
+(7) Dalam seksyen ini "Skim Kumpulan Wang Simpanan Pekerja" merujuk kepada suatu Kumpulan Wang Simpanan yang ditubuhkan di
 
-Pindaan
+<!-- marginal: Akta 272. -->
 
-3. Seksyen 7 Akta ibu adalah dipinda dengan seksyen 7. menggantikan perkataan-perkataan "ditukarkan secara tetap" dalam perenggan (c) dengan perkataan-perkataan "ditukar tetap secara lantikan".
+bawah Akta Kumpulan Wang Simpanan Pekerja 1951, terrnasuk sesuatu kumpulan wang ditetapkan oleh Lembaga Kumpulan Wang Simpanan Pekerja di bawah seksyen 16 Akta itu sebagai suatu kumpulan wang yang diluluskan.".
+
+<!-- marginal: Pindaan -->
+
+3. Seksyen 7 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 7. -->
+
+menggantikan perkataan-perkataan "ditukarkan secara tetap" dalam perenggan (c) dengan perkataan-perkataan "ditukar tetap secara lantikan".
 
 <!-- page 3 -->
 
 ## DAN TEMPATAN (PINDAAN)
 
-<!-- marginal: Pindaan -->
+Pindaan
 
-4. Seksyen 10 Akta ibu adalah dipinda—
-
-<!-- marginal: seksyen 10. -->
+4. Seksyen 10 Akta ibu adalah dipinda— seksyen 10.
 
 (a) dengan memotong perkataan "atau" di akhir perenggan (d) subseksyen (5);
 
@@ -82,9 +104,21 @@ Dengan syarat bahawa persaraan itu di bawah perenggan ini tidaklah boleh dilaksa
 
 ke perkhidmatan pihak berkuasa berkanun atau tempatan selepas mula berkuatkuasanya subseksyen ini.".
 
-Penggantian 5. Akta ibu adalah dipinda dengan menggantikan seksyen seksyen 12. 12 dengan yang berikut:
+<!-- marginal: Penggantian -->
 
-"Persaraan 12. (1) Pihak berkuasa yang berkenaan boleh, pilihan. dengan kelulusan pihak berkuasa pencen atas permohonan pekerja itu, memberi persetujuan tentang persaraan seseorang pekerja apabila atau selepas mencapai umur empat puluh tahun.
+5. Akta ibu adalah dipinda dengan menggantikan seksyen
+
+<!-- marginal: seksyen 12. -->
+
+12 dengan yang berikut:
+
+<!-- marginal: "Persaraan -->
+
+12. (1) Pihak berkuasa yang berkenaan boleh,
+
+<!-- marginal: pilihan. -->
+
+dengan kelulusan pihak berkuasa pencen atas permohonan pekerja itu, memberi persetujuan tentang persaraan seseorang pekerja apabila atau selepas mencapai umur empat puluh tahun.
 
 (2) Jika seseorang pekerja yang dilantik sebelum mula berkuatkuasanya seksyen ini bersara di bawah subseksyen (1), pekerja sedemikian bolehlah diberi pencen, ganjaran atau lain-lain faedah hanya apabila mencapai umur—
 
@@ -104,13 +138,15 @@ Penggantian 5. Akta ibu adalah dipinda dengan menggantikan seksyen seksyen 12. 1
 
 ## DAN TEMPATAN (PINDAAN)
 
-dengan serta-merta memberi kepada orang yang ditetapkan dalam peraturan-peraturan itu pen- cen terbitan tidak kurang daripada satu perlima daripada gaji yang akhir diterima oleh pekerja yang mati itu dan ganjaran terbitan atau gan- jaran terbitan sahaja.
+dengan serta-merta memberi kepada orang yang ditetapkan dalam peraturan-peraturan itu pen- cen terbitan tidak kurang daripada satu perlima daripada gaji yang akhir diterima oleh pekerja yang mati itu dan ganjaran terbitan atau gan- jaran terbitan sahaja. (5) Tertakluk kepada seksyen 17, pencen terbitan yang diberi dalam hal-keadaan subseksyen (4) hendaklah kena dibayar selama tempoh tidak melebihi dua belas tahun setengah dari tarikh sebaik sahaja berikutan tarikh kematian pekerja itu; dan selepas itu penerima itu, dengan syarat dia adalah pemastautin di Malaysia, hendaklah terus menerima tujuh puluh peratus dari amaun yang diberikan itu.".
 
-(5) Tertakluk kepada seksyen 17, pencen terbitan yang diberi dalam hal-keadaan subseksyen (4) hendaklah kena dibayar selama tempoh tidak melebihi dua belas tahun setengah dari tarikh sebaik sahaja berikutan tarikh kematian pekerja itu; dan selepas itu penerima itu, dengan syarat dia adalah pemastautin di Malaysia, hendaklah terus menerima tujuh puluh peratus dari amaun yang diberikan itu.".
+<!-- marginal: Pindaan -->
 
-Pindaan
+6. Seksyen 14 Akta ibu adalah dipinda dengan
 
-6. Seksyen 14 Akta ibu adalah dipinda dengan seksyen 14. menggantikan perkataan-perkataan "demi kepentingan awam" dengan perkataan-perkataan "di bawah seksyen 10 (5}(d) atau seksyen 10(5)0)"-
+<!-- marginal: seksyen 14. -->
+
+menggantikan perkataan-perkataan "demi kepentingan awam" dengan perkataan-perkataan "di bawah seksyen 10 (5}(d) atau seksyen 10(5)0)"-
 
 ## HURAIAN
 

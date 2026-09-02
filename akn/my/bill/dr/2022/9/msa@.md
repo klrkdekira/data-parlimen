@@ -18,7 +18,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Perkara baharu 119a
 
-2. Perlembagaan Persekutuan dipinda dengan memasukkan selepas Perkara 119 Perkara yang berikut:
+2. Perlembagaan Persekutuan dipinda dengan memasukkan selepas
+
+## Perkara 119 Perkara yang berikut:
 
 ### “Ketidakpakaian Perkara 119 kepada Raja-Raja, dsb.,
 

@@ -42,9 +42,17 @@ dalam Akta ini, adalah dipinda dengan menggantikan subseksyen (1) dengan yang be
 
 (a) dengan menggantikan takrif "Enakmen Pentadbiran" dengan yang berikut: ' "Enakmen Pentadbiran" ertinya Enakmen Pentadbiran Hukum Syarak 1952 bagi Negeri Selangor—
 
-(a) berhubungan dengan Wilayah Perse- kutuan Kuala Lumpur, sebagaimana P.U. (A) 44174. yang diubahsuaikan oleh Perintah- P.I] (A) 390/81. Perintah Wilayah Persekutuan P.U (A) 163188. (Pengubahsuaian Enakmen Pentadbiran P.U. (A) 263/88. Hukum Syarak) 1974, 1981 dan 1988 Akta A206. yang dibuat menurut seksyen 6 (4) Akta Perlembagaan (Pindaan) (No. 2) 1973 dan berkuatkuasa di dalam Wilayah Persekutuan Kuala Lumpur menurut kuasa seksyen 6 (1) Akta itu; dan
+(a) berhubungan dengan Wilayah Perse- kutuan Kuala Lumpur, sebagaimana P.U. (A) 44174. yang diubahsuaikan oleh Perintah- P.I] (A) 390/81. Perintah Wilayah Persekutuan P.U (A) 163188. (Pengubahsuaian Enakmen Pentadbiran P.U. (A) 263/88. Hukum Syarak) 1974, 1981 dan 1988
 
-(b) berhubungan dengan Wilayah Perse- kutuan Labuan, sebagaimana yang diubahsuaikan dan diperluaskan melalui P.U. (A) 352/85. Perintah Wilayah Persekutuan Labuan (Pengubahsuaian dan Perluasan Enakmen Pentadbiran Hukum Syarak) 1985 yang dibuat menurut seksyen 7 Akta A585 Akta Perlembagaan (Pindaan) (No. 2) 1984;';
+<!-- marginal: Akta A206. -->
+
+yang dibuat menurut seksyen 6 (4) Akta Perlembagaan (Pindaan) (No. 2) 1973 dan berkuatkuasa di dalam Wilayah Persekutuan Kuala Lumpur menurut kuasa seksyen 6 (1) Akta itu; dan
+
+(b) berhubungan dengan Wilayah Perse- kutuan Labuan, sebagaimana yang diubahsuaikan dan diperluaskan melalui P.U. (A) 352/85. Perintah Wilayah Persekutuan Labuan (Pengubahsuaian dan Perluasan Enakmen Pentadbiran Hukum Syarak) 1985 yang dibuat menurut seksyen 7
+
+<!-- marginal: Akta A585 -->
+
+Akta Perlembagaan (Pindaan) (No. 2) 1984;';
 
 (b) dengan menggantikan perkataan "Wilayah" yang terdapat dalam takrif "wali Raja" dengan perkataan "Wilayah-Wilayah".
 

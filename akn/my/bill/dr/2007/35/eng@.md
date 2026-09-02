@@ -184,4 +184,6 @@ The proposed new section 40D provides that a takaful operator or international t
 
 ## FINANCIAL IMPLICATIONS
 
-The Bill will not involve the Government in any extra financial expenditure. [PN(U2)2584]
+The Bill will not involve the Government in any extra financial expenditure.
+
+<!-- marginal: [PN(U2)2584] -->

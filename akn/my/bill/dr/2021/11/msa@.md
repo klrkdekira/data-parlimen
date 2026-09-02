@@ -66,7 +66,11 @@ Rang Undang-Undang ini bertujuan untuk meminda Perlembagaan Persekutuan.
 
 5. Fasal 4 Rang Undang-Undang ini bertujuan untuk meminda Perkara 161a Perlembagaan Persekutuan.
 
-Subfasal 4(a) bertujuan untuk menggantikan perenggan (a) Fasal (6) Perkara 161a Perlembagaan Persekutuan untuk memperuntukkan bahawa, berhubung dengan Sarawak, ras yang dikira sebagai ras asli bagi Sarawak adalah seperti yang diperuntukkan dalam undang-undang Negeri.
+Subfasal 4(a) bertujuan untuk menggantikan perenggan (a) Fasal (6)
+
+## Perkara 161a Perlembagaan Persekutuan untuk memperuntukkan bahawa,
+
+berhubung dengan Sarawak, ras yang dikira sebagai ras asli bagi Sarawak adalah seperti yang diperuntukkan dalam undang-undang Negeri.
 
 Subfasal 4(b) bertujuan untuk memotong Fasal (7) Perkara 161a.
 

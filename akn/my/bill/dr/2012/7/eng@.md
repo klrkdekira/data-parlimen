@@ -10,7 +10,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Short title
 
-1. This act may be cited as the income Tax (amendment) act 2012.
+1. This act may be cited as the income Tax (amendment) act
+
+2012.
 
 ### Amendment of section 44
 

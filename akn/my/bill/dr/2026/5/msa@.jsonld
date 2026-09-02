@@ -186,7 +186,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_4",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam Fasal (2)— “(aa) Hakim Besar Mahkamah Tinggi di Malaya; (ab) Hakim Besar Mahkamah Tinggi di Sabah dan Sarawak;”; “(b) Peguam Negara, dengan syarat bahawa Peguam Negara bukanlah seorang ahli Parlimen;”; “(ba) Pendakwa Raya; (bb) Peguam Cara Negara; dan”; dan “(c) seorang anggota yang hendaklah dilantik oleh Yang di-Pertuan Agong menurut budi bicaranya, selepas berunding dengan Ketua Hakim Negara Mahkamah Persekutuan, daripada kalangan orang yang menjadi atau pernah menjadi, atau yang layak menjadi, hakim Mahkamah Persekutuan, Mahkamah Rayuan atau Mahkamah Tinggi.”. Pindaan Perkara 145"
+        "@value": "dalam Fasal (2)—"
       }
     },
     {
@@ -196,7 +196,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_4__para_b",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perenggan (a) perenggan yang berikut:"
+        "@value": "dengan memasukkan selepas perenggan (a) perenggan yang berikut: “(aa) Hakim Besar Mahkamah Tinggi di Malaya; (ab) Hakim Besar Mahkamah Tinggi di Sabah dan Sarawak;”;"
       }
     },
     {
@@ -206,7 +206,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_4__para_b",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perenggan (b) dengan perenggan yang berikut:"
+        "@value": "dengan menggantikan perenggan (b) dengan perenggan yang berikut: “(b) Peguam Negara, dengan syarat bahawa Peguam Negara bukanlah seorang ahli Parlimen;”;"
       }
     },
     {
@@ -216,7 +216,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_4__para_b",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut:"
+        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut: “(ba) Pendakwa Raya; (bb) Peguam Cara Negara; dan”; dan"
       }
     },
     {
@@ -226,7 +226,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_4__para_b",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perenggan (c) dengan perenggan yang berikut:"
+        "@value": "dengan menggantikan perenggan (c) dengan perenggan yang berikut: “(c) seorang anggota yang hendaklah dilantik oleh Yang di-Pertuan Agong menurut budi bicaranya, selepas berunding dengan Ketua Hakim Negara Mahkamah Persekutuan, daripada kalangan orang yang menjadi atau pernah menjadi, atau yang layak menjadi, hakim Mahkamah Persekutuan, Mahkamah Rayuan atau Mahkamah Tinggi.”. Pindaan Perkara 145"
       }
     },
     {

@@ -196,9 +196,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (5) Bank boleh pada bila-bila masa menarik balik apa- apa surcaj yang berkenaan dengannya penjelasan yang memuaskan telah diterima atau jika ternyata selainnya bahawa tiada surcaj patut dibuat, dan Bank hendaklah dengan serta-merta menyebabkan supaya Ketua Eksekutif diberitahu tentang penarikan balik itu dan Ketua Eksekutif hendaklah memaklumkan orang yang disurcaj itu mengenai penarikan balik itu.
 
-(6) Amaun apa-apa surcaj yang dikenakan di bawah subseksyen (3) dan tidak ditarik balik di bawah subseksyen
-
-(5) hendaklah menjadi hutang yang kena dibayar kepada Bank oleh orang yang disurcaj itu dan boleh dibawa guaman terhadapnya dan didapatkan kembali dalam mana-mana mahkamah atas tindakan guaman Bank dan boleh juga, jika diarahkan sedekimian oleh Bank, didapatkan kembali melalui potongan daripada—
+(6) Amaun apa-apa surcaj yang dikenakan di bawah subseksyen (3) dan tidak ditarik balik di bawah subseksyen (5) hendaklah menjadi hutang yang kena dibayar kepada Bank oleh orang yang disurcaj itu dan boleh dibawa guaman terhadapnya dan didapatkan kembali dalam mana-mana mahkamah atas tindakan guaman Bank dan boleh juga, jika diarahkan sedekimian oleh Bank, didapatkan kembali melalui potongan daripada—
 
 (a) gaji orang yang disurcaj itu; atau
 

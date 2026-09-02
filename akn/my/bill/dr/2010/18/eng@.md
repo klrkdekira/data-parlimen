@@ -30,13 +30,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “(1A) A hire-purchase agreement shall be in the national language or English language.”;
 
-(b) in subsection (2), by substituting for the words “subsection
+(b) in subsection (2), by substituting for the words “subsection (1)” the words “subsections (1) and (1A)”; and
 
-(1)” the words “subsections (1) and (1A)”; and
-
-(c) in subsection (3), by substituting for the words “subsection
-
-(1)” the words “subsections (1) and (1A)”.
+(c) in subsection (3), by substituting for the words “subsection (1)” the words “subsections (1) and (1A)”.
 
 ### Amendment of section 4B
 
@@ -126,7 +122,9 @@ to not more than one third of the total cash price of the goods comprised in the
 
 (1B) Where an owner has obtained an order of the court under subsection (1A) and he has served on the hirer a notice, in writing, in the form set out in the Fourth Schedule and the period fixed by the notice has expired, which shall not be less than twenty-one days after the service of the notice, the owner may exercise the power of taking possession of goods referred to in subsection (1A).”; and
 
-(c) by renumbering the existing subsection (1A) as subsection (1C).
+(c) by renumbering the existing subsection (1A) as subsection
+
+(1C).
 
 ### New sections 17A and 17B
 

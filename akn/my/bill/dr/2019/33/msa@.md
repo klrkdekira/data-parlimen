@@ -68,7 +68,7 @@
 
 29. Pindaan Jadual Pertama
 
-## bAb V
+## BAB V
 
 ## PINDAAN KEPADA AKTA PETROLEUM (CUKAI PENDAPATAN) 1967
 
@@ -84,7 +84,7 @@
 
 35. Pindaan seksyen 83
 
-## bAb VI
+## BAB VI
 
 ## PINDAAN KEPADA AKTA CUKAI JUALAN 2018
 
@@ -194,7 +194,9 @@ shall exclude a business trust and a company which is established for the issuan
 
 (b) shall not be granted in respect of the departure levy paid for the purpose of performing hajj.”; dan
 
-(c) dalam subseksyen (4), dengan menggantikan perkataan “subsections (2) and (3)” dengan perkataan “subsections (2), (2A) and (3)”.
+(c) dalam subseksyen (4), dengan menggantikan perkataan “subsections (2) and (3)” dengan perkataan “subsections (2),
+
+(2A) and (3)”.
 
 ### Pindaan seksyen 34
 
@@ -388,53 +390,7 @@ the next
 
 <!-- page 19 -->
 
-Chargeable income RM
-
-<!-- marginal: Rate of -->
-
-<!-- marginal: income tax -->
-
-For every ringgit of 15,000
-
-<!-- marginal: 3 per cent -->
-
-the next For every ringgit of 15,000
-
-<!-- marginal: 8 per cent -->
-
-the next For every ringgit of 20,000
-
-<!-- marginal: 14 per cent -->
-
-the next For every ringgit of 30,000
-
-<!-- marginal: 21 per cent -->
-
-the next For every ringgit of 150,000
-
-<!-- marginal: 24 per cent -->
-
-the next For every ringgit of 150,000
-
-<!-- marginal: 24.5 per cent -->
-
-the next For every ringgit of 200,000
-
-<!-- marginal: 25 per cent -->
-
-the next For every ringgit of 400,000
-
-<!-- marginal: 26 per cent -->
-
-the next For every ringgit of 1,000,000
-
-<!-- marginal: 28 per cent -->
-
-the next For every ringgit 2,000,000
-
-<!-- marginal: 30 per cent”; -->
-
-exceeding
+Chargeable income RM Rate of income tax For every ringgit of 15,000 3 per cent the next For every ringgit of 15,000 8 per cent the next For every ringgit of 20,000 14 per cent the next For every ringgit of 30,000 21 per cent the next For every ringgit of 150,000 24 per cent the next For every ringgit of 150,000 24.5 per cent the next For every ringgit of 200,000 25 per cent the next For every ringgit of 400,000 26 per cent the next For every ringgit of 1,000,000 28 per cent the next For every ringgit 2,000,000 30 per cent”; exceeding
 
 (ii) dalam perenggan 1A, dengan menggantikan perkataan “28 per cent” dengan perkataan “30 per cent”;
 
@@ -450,17 +406,7 @@ Chargeable income RM
 
 <!-- marginal: Rate of -->
 
-<!-- marginal: income tax -->
-
-For every ringgit of 600,000
-
-<!-- marginal: 17 per cent -->
-
-the first For every ringgit 600,000
-
-<!-- marginal: 24 per cent”; dan -->
-
-exceeding
+income tax For every ringgit of 600,000 17 per cent the first For every ringgit 600,000 24 per cent”; dan exceeding
 
 (iv) dengan menggantikan perenggan 2d dengan perenggan yang berikut:
 
@@ -470,17 +416,7 @@ Chargeable income RM
 
 <!-- marginal: Rate of -->
 
-<!-- marginal: income tax -->
-
-For every ringgit of 600,000
-
-<!-- marginal: 17 per cent -->
-
-the first For every ringgit 600,000
-
-<!-- marginal: 24 per cent”; dan -->
-
-exceeding
+income tax For every ringgit of 600,000 17 per cent the first For every ringgit 600,000 24 per cent”; dan exceeding
 
 (b) dalam Bahagian XVI, dengan menggantikan perkataan “death or permanently leaving Malaysia” dengan perkataan “death, permanently leaving Malaysia, healthcare or housing, for which such withdrawal shall be in compliance with the criteria as set out in the relevant guidelines of the Securities Commission”.
 
@@ -548,7 +484,7 @@ exceeding
 
 (b) dalam Bahagian III, dengan memasukkan selepas perkataan “atau wasi bagi harta pusaka si mati yang bukan warganegara dan bukan juga pemastautin tetap” perkataan “, atau syarikat yang tidak diperbadankan di Malaysia”.
 
-## bAb IV
+## BAB IV
 
 ## PINDAAN KEPADA AKTA SETEM 1949
 
@@ -560,7 +496,7 @@ exceeding
 
 29. Akta Setem 1949 dipinda dalam Jadual Pertama dalam subbutiran 27(a)(ii), dalam ruang “Proper Stamp Duty” dengan menggantikan perkataan “RM500” dengan perkataan “RM2,000”.
 
-## bAb V
+## BAB V
 
 ## PINDAAN KEPADA AKTA PETROLEUM
 
@@ -624,7 +560,7 @@ then, so long as the order remains in force, notwithstanding anything in any wri
 
 <!-- page 26 -->
 
-## bAb VI
+## BAB VI
 
 ## PINDAAN KEPADA AKTA CUKAI JUALAN 2018
 
@@ -634,11 +570,9 @@ then, so long as the order remains in force, notwithstanding anything in any wri
 
 ### Bahagian baharu IXa
 
-37. Akta Cukai Jualan 2018 dipinda dengan memasukkan selepas
+37. Akta Cukai Jualan 2018 dipinda dengan memasukkan selepas Bahagian IX bahagian yang berikut:
 
-## Bahagian IX bahagian yang berikut:
-
-“bAhAgiAN IXA
+## “BAHAGIAN IXA
 
 ## SKIM KHAS
 
@@ -656,7 +590,7 @@ then, so long as the order remains in force, notwithstanding anything in any wri
 
 (3) Jika mana-mana orang yang diberikan suatu kelulusan di bawah Skim Pengeksport Utama Diluluskan tidak mematuhi apa-apa syarat yang ditetapkan, apa-apa cukai jualan yang telah dikecualikan hendaklah menjadi genap masa dan kena dibayar oleh orang itu dari tarikh ketidakpatuhan syarat itu dan cukai jualan itu hendaklah dibayar mengikut bentuk dan cara yang ditentukan oleh Ketua Pengarah.”.
 
-## bAb Vii
+## BAB VII
 
 ## PINDAAN KEPADA AKTA KEWANGAN 2010
 
@@ -722,7 +656,7 @@ Provided that if that company, trust body or co-operative society pays that sum 
 
 <!-- page 30 -->
 
-## bAb VIII
+## BAB VIII
 
 ## PINDAAN KEPADA AKTA KEWANGAN 2018
 

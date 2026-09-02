@@ -68,9 +68,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### “Anggota silih ganti
 
-### 5a.
-
-(1) Menteri boleh, berhubung dengan setiap anggota yang dilantik di bawah perenggan 5(1)(c), (d) atau (e), melantik seseorang untuk menjadi anggota silih ganti untuk menghadiri, sebagai ganti anggota itu, mesyuarat Lembaga apabila anggota itu tidak dapat hadir kerana apa-apa sebab.
+5A. (1) Menteri boleh, berhubung dengan setiap anggota yang dilantik di bawah perenggan 5(1)(c), (d) atau (e), melantik seseorang untuk menjadi anggota silih ganti untuk menghadiri, sebagai ganti anggota itu, mesyuarat Lembaga apabila anggota itu tidak dapat hadir kerana apa-apa sebab.
 
 (2) Bagi maksud subseksyen (1), anggota silih ganti hendaklah dinamakan oleh anggota yang dilantik di bawah perenggan 5 (1)(c), (d) atau (e), dengan kelulusan Menteri.
 
@@ -142,9 +140,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 16a. Akta Badan-Badan Berkanun (Tatatertib dan Surcaj) 2000 [Akta 605] hendaklah terpakai bagi Lembaga.”.
 
-### Pemotongan seksyen 16b, 16c, 16d, 16e, 16f, 16g dan 16h
+## PEMOTONGAN SEKSYEN 16B, 16C, 16D, 16E, 16F, 16G DAN 16H
 
-8. Akta ibu dipinda dengan memotong seksyen 16b, 16c, 16d, 16e, 16f, 16g dan 16h.
+8. Akta ibu dipinda dengan memotong seksyen 16b, 16c, 16d, 16E, 16F, 16G DAN 16H.
 
 <!-- page 6 -->
 
@@ -162,9 +160,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### “Kuasa untuk menubuhkan jawatankuasa
 
-### 28 a.
-
-(1) Lembaga boleh menubuhkan jawatankuasa sebagaimana yang Lembaga fikirkan perlu atau suai manfaat untuk membantu Lembaga dalam melaksanakan fungsinya di bawah Akta ini.
+28A. (1) Lembaga boleh menubuhkan jawatankuasa sebagaimana yang Lembaga fikirkan perlu atau suai manfaat untuk membantu Lembaga dalam melaksanakan fungsinya di bawah Akta ini.
 
 (2) Jadual Ketiga hendaklah terpakai bagi tiap-tiap jawatankuasa yang ditubuhkan oleh Lembaga di bawah subseksyen (1).”.
 
@@ -194,7 +190,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 13. Akta ibu dipinda dengan memasukkan selepas Jadual Kedua Jadual yang berikut:
 
-“Jadual Ketiga
+## “JADUAL KETIGA
 
 [Subseksyen 28a(2)]
 
@@ -214,9 +210,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Mesyuarat
 
-2.
-
-(1) Mesyuarat sesuatu jawatankuasa hendaklah diadakan pada bila-bila masa dan di mana-mana tempat sebagaimana yang ditentukan oleh pengerusi jawatankuasa itu.
+2. (1) Mesyuarat sesuatu jawatankuasa hendaklah diadakan pada bila-bila masa dan di mana-mana tempat sebagaimana yang ditentukan oleh pengerusi jawatankuasa itu.
 
 (2) Sesuatu jawatankuasa boleh mengundang mana-mana orang yang bukan anggota jawatankuasa itu untuk menghadiri mana-mana mesyuarat jawatankuasa bagi maksud menasihati jawatankuasa itu tentang apa-apa perkara yang sedang dibincangkan tetapi orang itu tidak berhak untuk mengundi dalam mesyuarat itu.
 

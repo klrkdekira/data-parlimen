@@ -6,15 +6,25 @@ Rang Undang-Undang SURUhanjaya pelantikan kehakiman 2008
 
 SUSUnan faSal
 
-## Bahagian i
+## BAHAGIAN I
 
 peRmUlaan 1. tajuk ringkas, permulaan kuat kuasa dan pemakaian 2. mendukung kebebasan badan kehakiman 3. tafsiran
 
-## Bahagian ii
+## BAHAGIAN II
 
 penUbUhan SURUhanjaya pelantikan kehakiman
 
-4. penubuhan Suruhanjaya pelantikan kehakiman 5. keanggotaan Suruhanjaya 6. tempoh jawatan 7. elaun 8. penjalanan sementara fungsi pengerusi 9. pembatalan pelantikan dan peletakan jawatan 10. pengosongan jawatan 11. penzahiran kepentingan 12. perlindungan daripada liabiliti persendirian 13. mesyuarat 14. minit
+4. penubuhan Suruhanjaya pelantikan kehakiman 5. keanggotaan Suruhanjaya 6. tempoh jawatan 7. elaun 8. penjalanan sementara fungsi pengerusi 9. pembatalan pelantikan dan peletakan jawatan
+
+10. pengosongan jawatan
+
+11. penzahiran kepentingan
+
+12. perlindungan daripada liabiliti persendirian
+
+13. mesyuarat
+
+14. minit
 
 15. kesahan perbuatan dan prosiding
 
@@ -30,13 +40,13 @@ penUbUhan SURUhanjaya pelantikan kehakiman
 
 20. pegawai dan pekhidmat Suruhanjaya
 
-## Bahagian iii
+## BAHAGIAN III
 
 fUngSi dan kUaSa SURUhanjaya
 
 21. fungsi dan kuasa Suruhanjaya
 
-## Bahagian iV
+## BAHAGIAN IV
 
 pemilihan ke jawatan ketUa hakim negaRa mahkamah peRSekUtUan, pReSiden mahkamah RayUan, hakim-hakim beSaR mahkamah tinggi, hakim mahkamah peRSekUtUan, mahkamah RayUan, mahkamah tinggi dan peSURUhjaya kehakiman
 
@@ -56,7 +66,7 @@ pemilihan ke jawatan ketUa hakim negaRa mahkamah peRSekUtUan, pReSiden mahkamah 
 
 29. pesuruhjaya kehakiman boleh memohon untuk menjadi hakim mahkamah tinggi
 
-## Bahagian V
+## BAHAGIAN V
 
 am
 
@@ -84,7 +94,7 @@ Suatu akta untuk mengadakan peruntukan bagi penubuhan Suruhanjaya pelantikan keh
 
 DIPERBUAT oleh parlimen malaysia seperti yang berikut:
 
-## bahagian i
+## BAHAGIAN I
 
 peRmUlaan
 
@@ -128,7 +138,7 @@ peRmUlaan
 
 <!-- page 5 -->
 
-## bahagian ii
+## BAHAGIAN II
 
 penUbUhan SURUhanjaya pelantikan kehakiman
 
@@ -374,7 +384,7 @@ awam am persekutuan bagi apa-apa tempoh dan atas apa-apa terma dan syarat sebaga
 
 (2) tiap-tiap pegawai dan pekhidmat Suruhanjaya hendaklah tertakluk kepada arahan, kawalan dan pengawasan Setiausaha.
 
-## bahagian iii
+## BAHAGIAN III
 
 fUngSi dan kUaSa SURUhanjaya
 
@@ -398,7 +408,7 @@ fUngSi dan kUaSa SURUhanjaya
 
 (2) Suruhanjaya hendaklah mempunyai segala kuasa yang perlu bagi, atau yang berhubungan dengan, atau yang semunasabahnya bersampingan dengan, pelaksanaan fungsinya di bawah akta ini.
 
-## bahagian iV
+## BAHAGIAN IV
 
 pemilihan ke jawatan ketUa hakim negaRa mahkamah peRSekUtUan, pReSiden mahkamah RayUan, hakim-hakim beSaR mahkamah tinggi, hakim mahkamah peRSekUtUan, mahkamah RayUan, mahkamah tinggi dan peSURUhjaya kehakiman
 
@@ -482,7 +492,7 @@ mahkamah Rayuan, hakim besar mahkamah tinggi di malaya, hakim besar mahkamah tin
 
 29. Semua pesuruhjaya kehakiman yang dilantik sebelum permulaan kuat kuasa akta ini boleh memfailkan permohonan mereka dengan Suruhanjaya jika mereka berhasrat untuk dipilih sebagai hakim mahkamah tinggi mengikut peruntukan akta ini dalam masa dan mengikut cara yang dinyatakan oleh Suruhanjaya.
 
-## Bahagian V
+## BAHAGIAN V
 
 am
 
@@ -546,7 +556,7 @@ hURaian
 
 Rang Undang-Undang ini bertujuan untuk menubuhkan Suruhanjaya pelantikan kehakiman, untuk menyatakan kuasa dan fungsi Suruhanjaya itu, dan untuk mengadakan peruntukan bagi perkara-perkara yang berkaitan dan bersampingan dengannya. Rang Undang-Undang ini diadakan sebagai sebahagian daripada inisiatif kerajaan untuk memperbaik proses pelantikan hakim di bawah perlembagaan persekutuan. Rang Undang-Undang ini akan melengkapi peruntukan yang sedia ada dalam perlembagaan persekutuan, dengan menjadikan proses itu lebih bersifat kolektif dan telus di samping memelihara prerogatif perdana menteri dalam pelantikan kehakiman.
 
-## Bahagian i
+## BAHAGIAN I
 
 2. bahagian i akta yang dicadangkan mengandungi perkara-perkara permulaan.
 
@@ -558,7 +568,7 @@ Fasal 2 menyatakan keperluan untuk mendukung kebebasan badan kehakiman.
 
 Fasal 3 mengandungi takrif ungkapan tertentu yang digunakan dalam akta yang dicadangkan.
 
-## Bahagian ii
+## BAHAGIAN II
 
 3. bahagian ii akta yang dicadangkan mengandungi peruntukan tentang penubuhan Suruhanjaya pelantikan kehakiman (“Suruhanjaya”).
 
@@ -588,7 +598,7 @@ Fasal 18 bertujuan untuk membolehkan Suruhanjaya menubuhkan jawatankuasa untuk m
 
 Fasal 19 dan 20 mengadakan peruntukan bagi pelantikan Setiausaha, pegawai dan pekhidmat Suruhanjaya.
 
-## Bahagian iii
+## BAHAGIAN III
 
 4. bahagian iii akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan fungsi dan kuasa Suruhanjaya.
 
@@ -608,7 +618,7 @@ Fasal 21 menyatakan fungsi Suruhanjaya yang adalah seperti yang berikut:
 
 (f) untuk melakukan apa-apa benda lain yang difikirkannya patut untuk membolehkannya melaksanakan fungsinya dengan berkesan atau yang bersampingan dengan pelaksanaan fungsinya di bawah akta yang dicadangkan.
 
-## Bahagian iV
+## BAHAGIAN IV
 
 5. bahagian iV akta yang dicadangkan adalah berhubungan dengan proses pemilihan.
 
@@ -628,7 +638,7 @@ Fasal 28 menyatakan bahawa perdana menteri boleh memberikan nasihatnya mengikut 
 
 Fasal 29 memperuntukkan bahawa pesuruhjaya kehakiman yang dilantik sebelum permulaan kuat kuasa akta yang dicadangkan boleh memohon untuk menjadi hakim mahkamah tinggi.
 
-## Bahagian V
+## BAHAGIAN V
 
 5. bahagian V akta yang dicadangkan mengandungi peruntukan am.
 

@@ -140,7 +140,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_III",
       "schema:text": {
         "@language": "en",
-        "@value": "Any person who, in selling any price-controlled goods or in providing any charge-controlled services, imposes any condition of sale in relation to the prices of goods or the charges for services other than a condition— commits an offence."
+        "@value": "Any person who, in selling any price-controlled goods or in providing any charge-controlled services, imposes any condition of sale in relation to the prices of goods or the charges for services other than a condition—"
       }
     },
     {
@@ -170,7 +170,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_III__cl_13",
       "schema:text": {
         "@language": "en",
-        "@value": "requiring a deposit in respect of any container for those goods,"
+        "@value": "requiring a deposit in respect of any container for those goods, commits an offence."
       }
     },
     {
@@ -377,7 +377,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "aNtI-PrOFItEErING Offence to profiteer"
+        "@value": "ANTI-PROFITEERING Offence to profiteer"
       }
     },
     {
@@ -702,7 +702,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "PENaLtY Penalty"
+        "@value": "PENALTY Penalty"
       }
     },
     {
@@ -2362,7 +2362,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_31__subsec_2",
       "schema:text": {
         "@language": "en",
-        "@value": "may require— to provide him with such reasonable assistance as he may require for the purposes of this section."
+        "@value": "may require—"
       }
     },
     {
@@ -2382,7 +2382,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_31__subsec_2__para_b",
       "schema:text": {
         "@language": "en",
-        "@value": "the person having charge of, or is otherwise concerned with, the operation of the computer, apparatus or material,"
+        "@value": "the person having charge of, or is otherwise concerned with, the operation of the computer, apparatus or material, to provide him with such reasonable assistance as he may require for the purposes of this section."
       }
     },
     {

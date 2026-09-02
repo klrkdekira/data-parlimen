@@ -1,0 +1,368 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-24-1998",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_12"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Securities Commission (Amendment) Bill 1998"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 39B the following sections: 39c. (1) The Chairman of the Commission may, with the consent in writing of the Public Prosecutor, compound any offence under this Act or regulations made under this Act which is prescribed to be a compoundable offence by accepting from the person reasonably suspected of having committed such offence a sum of money not exceeding such amount as may be prescribed. (2) Upon receipt of the sum of money referred to in subsection (1), no further proceedings shall be taken against such person in respect of such offence and where possession has been taken of any goods such goods shall be released. subject to such conditions as may be imposed in accordance with the conditions of the composition. (3) All sums of money received under this section shall be paid into the Federal Consolidated Fund. 39D. (1) Where any complaint made by an officer of the Commission states that the complaint is made in consequence of information received by the officer making the complaint, the information referred to in the complaint and the identity of the person from whom such information is received shall be secret between the officer who made the complaint and the person who gave the information, and everything contained in such information, the identity of the person who gave the information and all other circumstances relating to the information, including the place where it was given, shall not be disclosed or be ordered or required to be disclosed in any civil, criminal or other proceedings before any court, tribunal or other authority. (2) If any book, paper or other document, or any visual or sound recording, or other matter or material which is given in evidence or liable to inspection in any civil, criminal or other proceedings before any court, tribunal or other authority contains any entry or other matter in which any person who gave the information is named or described or shown, or which might lead to his discovery, the court, tribunal or authority before which the proceedings are held shall cause all parts thereof or passages therein to be concealed from view or to be obliterated or otherwise removed so far as is necessary to protect such person from discovery. (3) Any person who gives the information referred to in subsection (1) knowing that the information is false shall be guilty of an offence and shall be liable on conviction to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding ten years or to both. Securities Commission (Amendment) (4) Subsections (1) and (2) shall not apply to any investigation into, or prosecution of, any offence under subsection (3). 39E. Every offence punishable under a securities law shall be a seizable offence, and a police officer not below the rank of Inspector, or an Investigating Officer of the Commission appointed under subsection 35( 1), may arrest without warrant any person whom he reasonably suspects to have committed or to be committing any such offence. 39F. If an Investigating Officer of the Commission appointed under subsection 35(1) makes an arrest under section 39E he shall without unnecessary delay make over the person so arrested to the nearest police officer or, in the absence of a police officer, take such person to the nearest police station, and thereafter the person arrested shall be dealt with in accordance with the law relating to criminal procedure for the time being in force as if he had been arrested by a police officer. 39G. Notwithstanding any other provision in any other written law relating to criminal procedure, a Magistrate authorising the detention of a person arrested under section 39E shall authorise the detention of the person arrested in the custody of the police.\". Amendment of section 43"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_11__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 43(2) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"fifty thousand\" the words \"one million\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"three\" the word \"five\". Amendment of section 43B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_12__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_12__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 43B of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: \"(1) Notwithstanding any provision to the contrary in this Act, the Commission may, upon receiving a written request from a foreign supervisory authority for assistance to investigate into an alleged breach of a legal or regulatory requirement which the foreign supervisory authority enforces or administers, provide assistance to the foreign supervisory authority by carrying out investigation of the alleged breach of the legal or regulatory requirement or provide such other assistance to the foreign supervisory authority as the Commission thinks fit.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2) by inserting after the words \"necessary to render assistance\" the words \"in the interest of the public\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_12__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsections: \"(3) For the purposes of subsection (1), the provisions of Part V shall, with such adaptations as are necessary, apply and have effect accordingly as if the breach of the legal or regulatory requirement were an offence under a securities law. (4) In determining whether it is in the interest of the public to render assistance under subsection (1), the Commission shall have regard to— (a) whether the foreign supervisory authority will pay to the Commission any costs and expenses incurred for providing the foreign supervisory authority with the assistance; and (b) whether the foreign supervisory authority will be able and willing to provide reciprocal assistance within its jurisdiction in response to a comparable request for assistance from the Commission.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Securities Commission (Amendment) Act 1998."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall come into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Securities Commission Act 1993 [Act 498], which in this Act is referred to as the \"principal Act\", is amended in section 2 by substituting for the definition of \"Court\" the following definition: ' \"Court\" means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a High Court established under Article 121 of the Federal Constitution or a Judge of the High Court; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a Sessions Court or a Magistrate's Court established under section 3 of the Subordinate Courts Act 1948 or a Sessions Court Judge or a Magistrate;'. Amendment of section 35"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsections 35(1) and (2) of the principal Act are amended by deleting the words \"or inspection\". New sections 35A and 35B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 35 the following sections: 35A. (1) The Commission may, from time to time, examine, without any prior notice, the books or other documents, accounts and transactions of a licensed person. (2) For the purposes of this section and section 35B, \"licensed person\" means a licensed person as defined in section 2 and includes— (a) a stock exchange, an exempt fund manager and a recognised clearing house as defined in the Securities Industry Act 1983; and (b) a central depository, an authorised depository agent and an authorised nominee as defined in the Securities Industry (Central Depositories) Act 1991. 35B. (1) For the purposes of an examination under section 35A the licensed person under examination and its directors and officers shall accord any person carrying out the examination access to all its books or other documents and accounts, including documents of title to its assets, all securities held by it in respect of securities transactions, all its cash, and all such documents, information and facilities as may be required by that person for the purpose of the examination, and shall produce to that person all such books or other documents, accounts, titles, securities or cash, and give all such information, as he may require, but so far as is consistent with the conduct of the examination, such books or documents, accounts, titles, securities and cash shall not be required to be produced at such times or at such places as may interfere with the proper conduct of the normal daily business of that licensed person. (2) Notwithstanding subsection (1), any person authorised by the Commission in writing for this purpose may take possession of any books or other documents, Securities Commission (Amendment) accounts, titles, securities or cash to which he has access under subsection (1) if in his opinion— (a) the inspection of them, the copying of them, or the making of extracts from them cannot reasonably be undertaken without taking possession of them; (b) they may be interfered with or destroyed unless he takes possession of them; or (c) they may be needed as evidence in any legal proceedings, whether civil or criminal, which may be instituted under or in connection with any securities law or any other written law. (3) No licensed person and no director or officer of the licensed person shall— (a) fail to allow access to, give possession of or produce, its books or other documents, accounts, titles, securities or cash; or (b) fail to give information or facilities in accordance with subsections (1) and (2).\". Amendment of section 36"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 36(3) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"fifty thousand\" the words \"one million\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"three\" the word \"five\". New sections 36A, 36B, 36c and 36D"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 36 the following sections: 36A. (1) A list of all things seized in the course of an inspection made under section 36 and of the place or building in which they are respectively found shall be prepared by the Investigating Officer of the Commission conducting the inspection and signed by him. (2) The occupant of the place or building entered under subsection 36(1), or some person in his behalf, shall in every instance be permitted to attend during the inspection, and a copy of the list prepared and signed under subsection (1) shall be delivered to such occupant or person at his request. (3) An Investigating Officer of the Commission shall, unless otherwise ordered by any court, on the close of investigations or any proceedings arising therefrom, release any property seized, detained or removed by him or any other Investigating Officer of the Commission, to such person as he determines to be lawfully entitled to the property, if he is satisfied that it is not required for the purpose of any prosecution or proceedings under any securities law, or for the purpose of any prosecution under any other written law. (4) A record in writing shall be made by the Investigating Officer of the Commission who releases any property under subsection (3) in respect of such release specifying therein the circumstances of, and the reason for, such release. (5) Where the Investigating Officer of the Commission is unable to determine the person who is lawfully entitled to the property or where there is more than one claimant to such property, the Investigating Officer of the Commission shall report the matter to a Magistrate who shall then order that the property be dealt with as provided for in section 36B. (6) For the purpose of this section and of sections 36B and 36c, \"property\" includes books and other documents. 36B. (1) Where a report is forwarded to the Magistrate by an Investigating Officer of the Commission under subsection 36A(5), the Magistrate shall make such order as he thinks fit respecting the delivery of such property to the person entitled to the possession of the property or, if such person cannot be ascertained, respecting the custody and production of such property. Securities Commission (Amendment) (2) If the person entitled to the property is known, the Magistrate may order the property to be delivered to him on such conditions, if any, as the Magistrate thinks fit, and shall, if he makes such order, cause a notice to be served on such person informing the person of the terms of the order and requiring him to take delivery of the property within such period from the date of the service of the notice (not being less than forty-eight hours) as the Magistrate may in such notice prescribe. (3) If the person to whotn property has been ordered to be delivered under subsection (2) neglects or omits to take delivery of such property within the period prescribed, the Magistrate may, where such property is subject to speedy and natural decay or where in his opinion its value is less than fifty ringgit, direct that such property be sold and the net proceeds of such sale shall, on demand, be paid over to the person entitled thereto. (4) If the person entitled to the possession of such property is absent from Malaysia and the property is subject to speedy and natural decay or the Magistrate to whom its seizure is reported is of the opinion that its sale would be for the benefit of the owner or that the value of such property is less than fifty ringgit, the Magistrate may, at any time, direct it to be sold and subsection 36c(4) shall apply to the net proceeds of such sale. (5) If the person entitled to the property is unknown, the Magistrate may direct that the property be detained in the custody of the Investigating Officer of the Commission. (6) Notwithstanding subsection (5), if the person entitled to the property is unknown and it is shown to the satisfaction of the Magistrate that such property is of no appreciable value, or that its value is so small as, in the opinion of the Magistrate, to render impracticable the sale, as provided in section 36c, of such property or as to make its detention in the custody of the Investigating Officer of the Commission unreasonable in view of the expense or inconvenience that would thereby be involved, the Magistrate may order such property to be destroyed or otherwise disposed of, either on the expiration of such period after the publication of the notification referred to in subsection 36c(l) as he may determine or forthwith as he thinks fit. 36c. (1) Where a Magistrate has directed under subsection 36B(5) that any property seized be detained in the custody of an Investigating Officer of the Commission, the Chairman acting on behalf of the Commission, shall issue a public notification specifying the articles of which the property consists and requiring any person who has any claim to make a claim within six months from the date of such public notification. (2) Every notification under subsection (1) shall, if the property has a value of fifty ringgit or more, be published in the Gazette. (3) If within three months from the publication of a notification under subsection (1) no person establishes a claim to such property, and if the person in whose possession such property was found is unable to show that it was legally acquired by him, such property may, after the expiration of such period of three months, be sold on the order of the Chairman acting on behalf of the Commission. (4) If within six months from the publication of a notification under subsection (1) no person has established a claim to such property, the ownership of such property, or, if sold, of the net proceeds of such sale, shall upon the expiration of such period of six months pass to and become vested in the Federal Government. (5) Where the property referred to in subsection (1) is subject to speedy and natural decay or the Chairman acting on behalf of the Commission is of the opinion that its value is less than fifty ringgit or where its custody involves unreasonable expense and inconvenience, such property may be sold at any time, and subsections (1), (2), (3) and (4) shall, as nearly as may be practicable, apply to the net proceeds of such sale as they apply to the property. Securities Commission (Amendment) 36D. (1) Notwithstanding any written law to the contrary, if an Investigating Officer of the Commission has grounds to believe that any person, who is the subject of an investigation in respect of an offence under a securities law suspected to have been committed by such person, is likely to leave Malaysia, the Investigating Officer of the Commission, with the approval bf the Commission, may by written notice require such person to surrender his certificate of identity, passport or exit permit, or any other travel document in his possession. (2) A notice under subsection (1) shall be served personally on the person to whom it is addressed. (3) A person on whom a notice under subsection (1) is served shall comply with such notice forthwith, failing which he may be arrested and taken before a Magistrate. (4) Where a person is taken before a Magistrate under subsection (3), the Magistrate shall, unless such person complies with the notice under subsection (1) or satisfies the Magistrate that he does not possess a travel document, by warrant commit him to prison— (a) until the expiry of a period of fourteen days from the date of his committal; or (b) until he complies with the notice under subsection ( 1) whichever occurs earlier. (5) For the purpose of subsection (4), a certificate signed by the Public Prosecutor to the effect that the person has complied with the notice under subsection (1) shall be sufficient warrant for the Superintendent of Prison to discharge such person. (6) No legal proceedings shall be instituted or maintained against the Government, an officer of the Commission, a public officer or any other person in respect of anything lawfully done under this section.\". Amendment of section 38"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_7__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_7__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 38 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: \"(1) If an Investigating Officer of the Commission carrying out an investigation under any securities law suspects or believes on reasonable grounds that any person can give information relevant to a matter that he is investigating, the Investigating Officer of the Commission may by notice in writing to such person require such person— (a) to give to the Investigating Officer of the Commission all reasonable assistance in connection with the investigation; and (b) to appear before a specified Investigating Officer of the Commission or specified Investigating Officers of the Commission to be examined orally.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: \"(1 A) An Investigating Officer of the Commission exercising his authority under paragraph (1)(b) shall reduce into writing any statement made by the person examined under subsection (1).\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsection: \"(3A) An examination of a person under subsection (1) shall take place in private and the Investigating Officer of the Commission or Investigating Officers of the Commission examining him may give directions about who may be present during the examination, or during any part of it.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_7__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_7__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_7__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_7__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_7__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"fifty thousand\" the words \"one million\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_7__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_7__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"three\" the word \"five\". Securities Commission (Amendment) New section 38A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Part V of the principal Act is amended by inserting after section 38 the following section: 38A. Any person who— (a) destroys, conceals, mutilates or alters; or (b) sends or attempts to send or conspires with any other person to remove from his premises or send out of Malaysia, any record or account in his possession that is required to be produced under this Part with intent to defraud any person, or to prevent, delay or obstruct the carrying out of an examination, audit or investigation, or the exercise of any power under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding ten million ringgit or to imprisonment for a term not exceeding ten years or to both.\". Amendment of section 39"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 39 of the principal Act is amended by deleting subsection"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "(2). New sections 39c, 39D, 39E, 39F and 39G"
+      }
+    }
+  ]
+}

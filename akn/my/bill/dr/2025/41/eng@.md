@@ -4,7 +4,7 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -12,13 +12,13 @@
 
 2. Interpretation
 
-## Part II
+## PART II
 
 ## BULLY
 
 3. Bully
 
-## Part III
+## PART III
 
 ## EDUCATIONAL INSTITUTION UNDER EDUCATION ACT 1996 [ACT 550]
 
@@ -32,7 +32,7 @@
 
 8. Committee in relation to prevention and management of bully case
 
-## Part IV
+## PART IV
 
 ## EDUCATIONAL INSTITUTION UNDER MAJLIS AMANAH RAKYAT ACT 1966
 
@@ -50,7 +50,7 @@
 
 <!-- page 2 -->
 
-## Part V
+## PART V
 
 ## EDUCATIONAL INSTITUTION UNDER MINISTRY OF DEFENCE
 
@@ -64,7 +64,7 @@
 
 18. Committee in relation to prevention and management of bully case
 
-## Part VI
+## PART VI
 
 ## INSTITUTION UNDER CHILD ACT 2001 [ACT 611]
 
@@ -80,7 +80,7 @@
 
 24. Committee in relation to prevention and management of bully case
 
-## Part VII
+## PART VII
 
 ## TRIBUNAL FOR ANTI-BULLY
 
@@ -142,7 +142,7 @@
 
 49. Reporting of activities relating to functions of Commission under this Act
 
-## Part IX
+## PART IX
 
 ## GENERAL
 
@@ -156,9 +156,9 @@
 
 54. Special provision for police report under any written laws
 
-## First schedule
+## FIRST SCHEDULE
 
-## second schedule
+## SECOND SCHEDULE
 
 <!-- page 5 -->
 
@@ -170,7 +170,7 @@ An Act to provide for a specific mechanism to address complaint of bully, to pre
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -218,7 +218,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 7 -->
 
-## Part II
+## PART II
 
 ## BULLY
 
@@ -238,7 +238,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (e) any act referred to in paragraph (b), (c) or (d) committed through electronic or digital communication.
 
-## Part III
+## PART III
 
 ## EDUCATIONAL INSTITUTION UNDER EDUCATION ACT 1996
 
@@ -314,7 +314,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (3) Notwithstanding paragraph (2)(c), the committee may, if it thinks appropriate, refer the complaint to the Tribunal subject to the complainant give informed consent to such reference.
 
-## Part IV
+## PART IV
 
 ## EDUCATIONAL INSTITUTION UNDER MAJLIS AMANAH RAKYAT
 
@@ -390,7 +390,7 @@ ACT 1966 [ACT 489]
 
 (3) Notwithstanding paragraph (2)(c), the committee may, if it thinks appropriate, refer the complaint to the Tribunal subject to the complainant give informed consent to such reference.
 
-## Part V
+## PART V
 
 ## EDUCATIONAL INSTITUTION UNDER MINISTRY OF DEFENCE
 
@@ -460,7 +460,7 @@ ACT 1966 [ACT 489]
 
 (3) Notwithstanding paragraph (2)(c), the committee may, if it thinks appropriate, refer the complaint to the Tribunal subject to the complainant give informed consent to such reference.
 
-## Part VI
+## PART VI
 
 ## INSTITUTION UNDER CHILD ACT 2001 [ACT 611]
 
@@ -538,7 +538,7 @@ ACT 1966 [ACT 489]
 
 (3) Notwithstanding paragraph (2)(c), the committee may, if it thinks appropriate, refer the complaint to the Tribunal subject to the complainant give informed consent to such reference.
 
-## Part VII
+## PART VII
 
 ## TRIBUNAL FOR ANTI-BULLY
 
@@ -952,7 +952,7 @@ and includes any directions about the conduct of that proceedings, but does not 
 
 49. For the purposes of this Part, the Commission shall provide in its annual report to Parliament, a reporting of all its activities relating to prevention and management of bully case in educational institution and institution during the year to which the report relates, pursuant to section 21 of the Human Rights Commission of Malaysia Act 1999.
 
-## Part IX
+## PART IX
 
 ## GENERAL
 
@@ -1012,7 +1012,7 @@ the Schedule to this Act.
 
 54. Notwithstanding a complaint of bully made under this Act, a complainant shall not be precluded from lodging a police report for any offence relating to bully under any written laws.
 
-## First schedule
+## FIRST SCHEDULE
 
 [Section 2]
 
@@ -1032,21 +1032,11 @@ In this Schedule—
 
 “Royal Military College” means an educational institution established by the Ministry of Defence.
 
-(1) (2) No. Educational institution
-
-1. Government educational institution
-
-2. Government-aided educational institution
-
-3. Private educational institution
-
-4. Maktab Rendah Sains MARA
-
-5. Royal Military College
+(1) (2) No. Educational institution 1. Government educational institution 2. Government-aided educational institution 3. Private educational institution 4. Maktab Rendah Sains MARA 5. Royal Military College
 
 <!-- page 37 -->
 
-## second schedule
+## SECOND SCHEDULE
 
 [Section 2]
 
@@ -1074,7 +1064,7 @@ This Bill (“the proposed Act”) seeks to provide for a specific mechanism to 
 
 <!-- page 38 -->
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act deals with preliminary matters.
 
@@ -1082,13 +1072,13 @@ This Bill (“the proposed Act”) seeks to provide for a specific mechanism to 
 
 4. Clause 2 contains the definitions of certain words and expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 5. Part II of the proposed Act deals with provisions relating to the definition of bully and the related matters.
 
 6. Clause 3 seeks to provide for the definition of bully and specific categories of bully under that definition.
 
-## Part III
+## PART III
 
 7. Part III of the proposed Act deals with provisions relating to the educational institution under the Education Act 1996 [Act 550] which consists of the definition of Minister, power of the Minister and duties of educational institution under this Part.
 
@@ -1104,7 +1094,7 @@ This Bill (“the proposed Act”) seeks to provide for a specific mechanism to 
 
 <!-- page 39 -->
 
-## Part IV
+## PART IV
 
 13. Part IV of the proposed Act deals with provisions relating to the educational institution under the Majlis Amanah Rakyat Act 1966 [Act 489] which consists of the definition of the Majlis, power of the Majlis and duties of educational institution under this Part.
 
@@ -1118,7 +1108,7 @@ This Bill (“the proposed Act”) seeks to provide for a specific mechanism to 
 
 18. Clause 13 seeks to provide for the establishment of a committee in relation to the prevention and management of bully case in every educational institution.
 
-## Part V
+## PART V
 
 19. Part V of the proposed Act deals with provisions relating to the educational institution established by the Ministry of Defence which consists of the definition of Minister, power of the Minister and duties of educational institution under this Part.
 
@@ -1134,7 +1124,7 @@ This Bill (“the proposed Act”) seeks to provide for a specific mechanism to 
 
 24. Clause 18 seeks to provide for the establishment of a committee in relation to the prevention and management of bully case in every educational institution.
 
-## Part VI
+## PART VI
 
 25. Part VI of the proposed Act deals with provisions relating to the institution under the Child Act 2001 [Act 611] which consists of the definition of Minister, power of the Minister, the determination of the Minister responsible for relevant institution under this Part and duties of institution under this Part.
 
@@ -1150,7 +1140,7 @@ This Bill (“the proposed Act”) seeks to provide for a specific mechanism to 
 
 31. Clause 24 seeks to provide for the establishment of a committee in relation to the prevention and management of bully case in every institution.
 
-## Part VII
+## PART VII
 
 32. Part VII of the proposed Act deals with the Tribunal for Anti-bully and other related matters.
 
@@ -1258,7 +1248,7 @@ Subclause 43(4) seeks to provide that the Tribunal may dismiss any complaint of 
 
 58. Clause 49 seeks to provide that the Commission shall provide in its annual report to Parliament, a reporting of all its activities relating to prevention and management of bully case in educational institution and institution during the year to which the report relates, pursuant to section 21 of the Human Rights Commission of Malaysia Act 1999 [Act 597].
 
-## Part IX
+## PART IX
 
 59. Part IX of the proposed Act contains general provisions.
 

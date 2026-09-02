@@ -24,6 +24,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 3. Section 1 of the principal Act is amended by substituting for the words “Civil Defence Act 1951” the words “Malaysia Civil Defence Force Act 1951”.
 
+<!-- marginal: WJW006533 BI.indd 1 -->
+
 <!-- marginal: 5/20/16 6:13 PM -->
 
 <!-- page 2 -->
@@ -55,6 +57,8 @@ ENACTED by the Parliament of Malaysia as follows:
 (d) preparedness to deal with any disaster;
 
 (e) prompt response to any threatening disaster situation or disaster;
+
+<!-- marginal: WJW006533 BI.indd 2 -->
 
 <!-- marginal: 5/20/16 6:13 PM -->
 
@@ -90,6 +94,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (a) to carry out disaster management;
 
+<!-- marginal: WJW006533 BI.indd 3 -->
+
 <!-- marginal: 5/20/16 6:13 PM -->
 
 <!-- page 4 -->
@@ -122,6 +128,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (k) to set up emergency and first-aid posts and provide first-aid to casualties and to transfer the casualties to hospitals or areas of safety;
 
+<!-- marginal: WJW006533 BI.indd 4 -->
+
 <!-- marginal: 5/20/16 6:13 PM -->
 
 <!-- page 5 -->
@@ -149,6 +157,8 @@ ENACTED by the Parliament of Malaysia as follows:
 ### Overlapping of functions
 
 2c. (1) Where there is any overlapping of functions relating to handling of disaster between the Force and any agency or authority, such overlapping of functions shall be resolved and dealt with administratively.
+
+<!-- marginal: WJW006533 BI.indd 5 -->
 
 <!-- marginal: 5/20/16 6:13 PM -->
 
@@ -214,6 +224,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 4b. The Chief Commissioner may make and issue orders, to be known as the Chief Commissioner’s Standing Orders, consistent with this Act or any subsidiary legislation made under this Act for the carrying out of or giving full effect to the provisions of this Act.
 
+<!-- marginal: WJW006533 BI.indd 7 -->
+
 <!-- marginal: 5/20/16 6:13 PM -->
 
 <!-- page 8 -->
@@ -235,6 +247,8 @@ ENACTED by the Parliament of Malaysia as follows:
 (f) to restrict the movement of persons and close to the traffic any road, street and any place to which the public have access.
 
 (2) Any person who does not comply with any order given under this section commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding five years or to both.
+
+<!-- marginal: WJW006533 BI.indd 8 -->
 
 <!-- marginal: 5/20/16 6:13 PM -->
 
@@ -263,6 +277,8 @@ ENACTED by the Parliament of Malaysia as follows:
 ### Auxiliary member of the Force
 
 4h. (1) The Chief Commissioner may, with the concurrence of the Minister, appoint any person to serve as an auxiliary member of the Force and may prescribe the area in which such auxiliary member shall serve.
+
+<!-- marginal: WJW006533 BI.indd 9 -->
 
 <!-- marginal: 5/20/16 6:13 PM -->
 
@@ -295,6 +311,8 @@ ENACTED by the Parliament of Malaysia as follows:
 ### “Director General for Civil Defence” the words “Chief
 
 ### Commissioner”;
+
+<!-- marginal: WJW006533 BI.indd 10 -->
 
 <!-- marginal: 5/20/16 6:13 PM -->
 
@@ -332,6 +350,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (i) by substituting for the words “the civil defence forces or services” the words “the Force”; and
 
+<!-- marginal: WJW006533 BI.indd 11 -->
+
 <!-- marginal: 5/20/16 6:13 PM -->
 
 <!-- page 12 -->
@@ -357,6 +377,8 @@ ENACTED by the Parliament of Malaysia as follows:
 ### Protection of employee’s rights
 
 7c. Any volunteer member or auxiliary member of the Force who, during call out by the Yang di-Pertuan Agong is absent from his usual employment by reason of carrying out duties in connection with civil defence in any capacity shall not be liable for dismissal, or loss of annual leave or other benefits to which he may be entitled under any award or agreement applicable to his usual employment, by reason only of such absence, whether or not his usual employer has consented to his absence.
+
+<!-- marginal: WJW006533 BI.indd 12 -->
 
 <!-- marginal: 5/20/16 6:13 PM -->
 
@@ -390,6 +412,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding five years or to both.”.
 
+<!-- marginal: WJW006533 BI.indd 13 -->
+
 <!-- marginal: 5/20/16 6:13 PM -->
 
 <!-- page 14 -->
@@ -410,7 +434,9 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding t
 
 15. The principal Act is amended by inserting after section 9 the following schedule:
 
-“Schedule [Section 7e]
+## “SCHEDULE
+
+[Section 7e]
 
 ## RANKS FOR THE FORCE
 
@@ -478,6 +504,8 @@ This Bill seeks to amend the Civil Defence Act 1951 (“Act 221”).
 
 6. Clause 6 seeks to amend section 3 of Act 221 which specifies the powers of the Minister under this Act to make rules for the Force. Paragraph 3(2)(j) of Act 221 is amended to enhance the existing penalty that can be imposed under any rules made under Act 221 from imprisonment for a term of three years and a fine of five thousand ringgit to a fine of ten thousand ringgit or imprisonment of five years or both. The new paragraph 3(2)(k) is introduced
 
+<!-- marginal: WJW006533 BI.indd 15 -->
+
 <!-- marginal: 5/20/16 6:13 PM -->
 
 <!-- page 16 -->
@@ -525,5 +553,7 @@ The proposed new section 7h provides the penalty for personation of any member o
 This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
 
 <!-- marginal: [PN(U2)2900] -->
+
+<!-- marginal: WJW006533 BI.indd 17 -->
 
 <!-- marginal: 5/20/16 6:13 PM -->

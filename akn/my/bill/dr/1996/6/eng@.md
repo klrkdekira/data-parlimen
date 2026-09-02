@@ -106,11 +106,29 @@ Sarawak
 
 <!-- page 4 -->
 
-New sections
+<!-- marginal: New sections -->
 
-4. The principal Act is amended by inserting after section 13A, 13B and 13 the following sections: 13c.
+4. The principal Act is amended by inserting after section
 
-"Design 13A. (1) It shall not be an infringement of any documents copyright in a design document or model and models. recording or embodying a design for anything other than an artistic work or a typeface—
+<!-- marginal: 13A, 13B and -->
+
+13 the following sections:
+
+<!-- marginal: 13c. -->
+
+<!-- marginal: "Design -->
+
+13A. (1) It shall not be an infringement of any
+
+<!-- marginal: documents -->
+
+copyright in a design document or model
+
+<!-- marginal: and -->
+
+<!-- marginal: models. -->
+
+recording or embodying a design for anything other than an artistic work or a typeface—
 
 (a) to make an article to the design, or to copy or to reproduce an article made to the design; or
 
@@ -122,9 +140,29 @@ New sections
 
 "design document" means any record of a design, whether in the form of a drawing, a written description, a photograph, data stored in a computer or otherwise.
 
-Effect of 13B. (1) This section applies where an artistic exploitation work has been exploited, by or with the licence of design of the copyright owner, by— derived from artistic
+<!-- marginal: Effect of -->
 
-(a) making, by an industrial process or work. means, articles falling to be treated for the purposes of this section and sections 13A and 13c as copies of the work; and
+13B. (1) This section applies where an artistic
+
+<!-- marginal: exploitation -->
+
+work has been exploited, by or with the licence
+
+<!-- marginal: of design -->
+
+of the copyright owner, by—
+
+<!-- marginal: derived -->
+
+<!-- marginal: from -->
+
+<!-- marginal: artistic -->
+
+(a) making, by an industrial process or
+
+<!-- marginal: work. -->
+
+means, articles falling to be treated for the purposes of this section and sections 13A and 13c as copies of the work; and
 
 (b) marketing such articles in Malaysia or elsewhere.
 
@@ -148,19 +186,35 @@ calendar year in which such articles are first marketed, the work may be copied 
 
 (b) references to the marketing of an article shall be construed as references to it being sold or let for hire or offered or exposed for sale or hire.
 
-13c. (1) The copyright in an artistic work is Things done in not infringed by anything done— reliance on
+13c. (1) The copyright in an artistic work is
 
-(a) in pursuance of an assignment or licence registration made or granted by a person registered of design. 12, 13 & 14 under the Registered Designs Act 1949 Geo. VI c.88. of the United Kingdom or under any written law enforced in Malaysia at the material time as the proprietor or owner of a corresponding design; and
+<!-- marginal: Things -->
+
+<!-- marginal: done in -->
+
+not infringed by anything done—
+
+<!-- marginal: reliance -->
+
+<!-- marginal: on -->
+
+(a) in pursuance of an assignment or licence
+
+<!-- marginal: registration -->
+
+made or granted by a person registered
+
+<!-- marginal: of design. -->
+
+<!-- marginal: 12, 13 & 14 -->
+
+under the Registered Designs Act 1949 Geo. VI c.88. of the United Kingdom or under any written law enforced in Malaysia at the material time as the proprietor or owner of a corresponding design; and
 
 <!-- page 6 -->
 
 ## BILL
 
-(b) in good faith in reliance on
-
-<!-- marginal: the -->
-
-registration and without notice of any proceedings for the cancellation of the registration or for rectifying the relevant entry in the register of designs,
+(b) in good faith in reliance on the registration and without notice of any proceedings for the cancellation of the registration or for rectifying the relevant entry in the register of designs,
 
 notwithstanding any defect that may afterwards be discovered in the registration.
 
@@ -168,15 +222,35 @@ notwithstanding any defect that may afterwards be discovered in the registration
 
 (3) For the purpose of this section, "any written law enforced in Malaysia at the material time" includes:
 
-(a) the United Kingdom Designs (Protection) Act 214. Act 1949; Sabah
+(a) the United Kingdom Designs (Protection)
 
-(b) the United Kingdom Designs (Protection) Cap. 152. Ordinance of Sabah; and
+<!-- marginal: Act 214. -->
 
-Sarawak
+Act 1949;
 
-(c) the Designs (United Kingdom) Ordinance Cap, 59. of Sarawak.".
+<!-- marginal: Sabah -->
 
-5. The principal Act is amended by inserting after Part New Part IVA. IV the following Part:
+(b) the United Kingdom Designs (Protection)
+
+<!-- marginal: Cap. 152. -->
+
+Ordinance of Sabah; and
+
+<!-- marginal: Sarawak -->
+
+(c) the Designs (United Kingdom) Ordinance
+
+<!-- marginal: Cap, 59. -->
+
+of Sarawak.".
+
+5. The principal Act is amended by inserting after Part
+
+<!-- marginal: New Part -->
+
+<!-- marginal: IVA. -->
+
+IV the following Part:
 
 ## PART
 
@@ -184,9 +258,21 @@ IVA
 
 ## COPYRIGHT LICENSING
 
-Licensing 27A. Sections 27B to 27G shall apply to— schemes to which sec-
+<!-- marginal: Licensing -->
 
-(a) licensing schemes operated by licensing tions 27B to bodies in relation to the copyright in 27G apply.
+27A. Sections 27B to 27G shall apply to—
+
+<!-- marginal: schemes to -->
+
+<!-- marginal: which sec- -->
+
+(a) licensing schemes operated by licensing
+
+<!-- marginal: tions 27B to -->
+
+bodies in relation to the copyright in
+
+<!-- marginal: 27G apply. -->
 
 <!-- page 7 -->
 
@@ -218,7 +304,27 @@ licences for—
 
 and in those sections, "licensing scheme" means a licensing scheme of any of those descriptions.
 
-Reference 27B. (1) The terms of a licensing scheme of pro- proposed to be operated by a licensing body posed licensing may be referred to the Tribunal by any scheme to organization claiming to be representative of Tribunal. persons claiming that they require licences in cases of a description to which the licensing scheme would apply, either generally or in relation to any description of case.
+<!-- marginal: Reference -->
+
+27B. (1) The terms of a licensing scheme
+
+<!-- marginal: of pro- -->
+
+proposed to be operated by a licensing body
+
+<!-- marginal: posed -->
+
+<!-- marginal: licensing -->
+
+may be referred to the Tribunal by any
+
+<!-- marginal: scheme to -->
+
+organization claiming to be representative of
+
+<!-- marginal: Tribunal. -->
+
+persons claiming that they require licences in cases of a description to which the licensing scheme would apply, either generally or in relation to any description of case.
 
 (2) The Tribunal shall first decide whether to entertain the reference, and may decline to do so on the ground that the reference is premature.
 
@@ -230,15 +336,23 @@ Reference 27B. (1) The terms of a licensing scheme of pro- proposed to be operat
 
 (4) An order under subsection (3) may be made so as to be in force indefinitely or for such period as the Tribunal may determine.
 
-Reference 27c. (1) If while a licensing scheme is in of licensing operation a dispute arises between the operator scheme to Tribunal. of the licensing scheme and—
+<!-- marginal: Reference -->
+
+27c. (1) If while a licensing scheme is in
+
+<!-- marginal: of licensing -->
+
+operation a dispute arises between the operator
+
+<!-- marginal: scheme to -->
+
+<!-- marginal: Tribunal. -->
+
+of the licensing scheme and—
 
 (a) a person claiming that he requires a licence in a case of a description to which the licensing scheme applies; or
 
-(b) an organization claiming
-
-<!-- marginal: to be -->
-
-representative of such persons,
+(b) an organization claiming to be representative of such persons,
 
 that person or organization may refer the licensing scheme to the Tribunal in so far as it relates to cases of that description.
 
@@ -250,17 +364,29 @@ that person or organization may refer the licensing scheme to the Tribunal in so
 
 <!-- page 9 -->
 
-Further 27D. (1) Where the Tribunal has on a previous reference reference of a licensing scheme under section of licensing 27B or 27c or under this section made an order scheme to Tribunal. with respect to the licensing scheme, then, while the order remains in force—
+<!-- marginal: Further -->
+
+27D. (1) Where the Tribunal has on a previous
+
+<!-- marginal: reference -->
+
+reference of a licensing scheme under section
+
+<!-- marginal: of licensing -->
+
+27B or 27c or under this section made an order
+
+<!-- marginal: scheme to -->
+
+<!-- marginal: Tribunal. -->
+
+with respect to the licensing scheme, then, while the order remains in force—
 
 (a) the operator of the licensing scheme;
 
 (b) a person claiming that he requires a licence in a case of the description to which the order applies; or
 
-(c) an organization claiming
-
-<!-- marginal: to be -->
-
-representative of such persons,
+(c) an organization claiming to be representative of such persons,
 
 may again refer the licensing scheme to the Tribunal so far as it relates to cases of that description.
 
@@ -278,9 +404,29 @@ may again refer the licensing scheme to the Tribunal so far as it relates to cas
 
 (5) An order under subsection (4) may be made so as to be in force indefinitely or for such period as the Tribunal may determine.
 
-Application 27E. (1) A person who claims, in a case covered for grant of by a licensing scheme, that the operator of the licence in connection licensing scheme— with licensing
+<!-- marginal: Application -->
 
-(a) has refused to grant him or procure the scheme. grant to him of a licence in accordance with the licensing scheme; or
+27E. (1) A person who claims, in a case covered
+
+<!-- marginal: for grant of -->
+
+by a licensing scheme, that the operator of the
+
+<!-- marginal: licence in -->
+
+<!-- marginal: connection -->
+
+licensing scheme—
+
+<!-- marginal: with -->
+
+<!-- marginal: licensing -->
+
+(a) has refused to grant him or procure the
+
+<!-- marginal: scheme. -->
+
+grant to him of a licence in accordance with the licensing scheme; or
 
 (b) has failed to grant him or procure the grant to him of a licence in accordance with the licensing scheme within a reasonable time after being asked,
 
@@ -306,7 +452,27 @@ may apply to the Tribunal for an order under subsection (4).
 
 (5) An order under subsection (4) may be made so as to be in force indefinitely or for such period as the Tribunal may determine.
 
-Application 27F. (1) Where the Tribunal has made an order for review under section 27E that a person is entitled to of order as to a licence under a licensing scheme, the operator entitlement of the licensing scheme or the original applicant to licence. may apply to the Tribunal to review its order.
+<!-- marginal: Application -->
+
+27F. (1) Where the Tribunal has made an order
+
+<!-- marginal: for review -->
+
+under section 27E that a person is entitled to
+
+<!-- marginal: of order -->
+
+<!-- marginal: as to -->
+
+a licence under a licensing scheme, the operator
+
+<!-- marginal: entitlement -->
+
+of the licensing scheme or the original applicant
+
+<!-- marginal: to licence. -->
+
+may apply to the Tribunal to review its order.
 
 (2) An application shall not be made, except with the special leave of the Tribunal,—
 
@@ -320,7 +486,23 @@ Application 27F. (1) Where the Tribunal has made an order for review under secti
 
 to the terms applicable in accordance with the licensing scheme or, as the case may be, the circumstances of the case.
 
-Effect of 27G. (1) A licensing scheme which has been order of confirmed or varied by the Tribunal under section Tribunal as to licensing 27B, 27c or 27D shall be in force or, as the case scheme. may be, remain in operation, so far as it relates to the description of case in respect of which the order was made, so long as the order remains in force.
+<!-- marginal: Effect of -->
+
+27G. (1) A licensing scheme which has been
+
+<!-- marginal: order of -->
+
+confirmed or varied by the Tribunal under section
+
+<!-- marginal: Tribunal as -->
+
+<!-- marginal: to licensing -->
+
+27B, 27c or 27D shall be in force or, as the case
+
+<!-- marginal: scheme. -->
+
+may be, remain in operation, so far as it relates to the description of case in respect of which the order was made, so long as the order remains in force.
 
 (2) While the order is in force a person, who in a case of a class to which the order applies, shall—
 
@@ -342,17 +524,29 @@ Effect of 27G. (1) A licensing scheme which has been order of confirmed or varie
 
 (5) Where the Tribunal has made an order under section 27E and the order remains in force, the person in whose favour the order is made shall, if he—
 
-(a) pays to the operator of the licensing scheme any charges payable
-
-<!-- marginal: in -->
-
-accordance with the order or, if the amount cannot be ascertained, gives an undertaking to the operator to pay the charges when ascertained; and
+(a) pays to the operator of the licensing scheme any charges payable in accordance with the order or, if the amount cannot be ascertained, gives an undertaking to the operator to pay the charges when ascertained; and
 
 (b) complies with the other terms specified in the order,
 
 be in the same position as regards infringement of copyright as if he had at all material times been the holder of a licence granted by the owner of the copyright in question on the terms specified in the order.
 
-Licences 27H. Sections 27I to 27L shall apply to the to which following descriptions of licence granted by a sections 27I to 27L licensing body otherwise than in pursuance of apply. a licensing scheme:
+<!-- marginal: Licences -->
+
+27H. Sections 27I to 27L shall apply to the
+
+<!-- marginal: to which -->
+
+following descriptions of licence granted by a
+
+<!-- marginal: sections -->
+
+<!-- marginal: 27I to 27L -->
+
+licensing body otherwise than in pursuance of
+
+<!-- marginal: apply. -->
+
+a licensing scheme:
 
 (a) licences relating to the copyright in literary or musical works which cover works of more than one author, so far as they authorize—
 
@@ -378,7 +572,25 @@ Licences 27H. Sections 27I to 27L shall apply to the to which following descript
 
 and in those sections, a "licence" means a licence of any of those descriptions.
 
-Reference 27I. (1) The terms on which a licensing body to Tribunal proposes to grant a licence may be referred to of terms of pro- the Tribunal by the prospective licensee. posed licence. (2) The Tribunal shall first decide whether to entertain the reference, and may decline to do so on the ground that the reference is premature.
+<!-- marginal: Reference -->
+
+27I. (1) The terms on which a licensing body
+
+<!-- marginal: to Tribunal -->
+
+proposes to grant a licence may be referred to
+
+<!-- marginal: of terms -->
+
+<!-- marginal: of pro- -->
+
+the Tribunal by the prospective licensee.
+
+<!-- marginal: posed -->
+
+<!-- marginal: licence. -->
+
+(2) The Tribunal shall first decide whether to entertain the reference, and may decline to do so on the ground that the reference is premature.
 
 (3) If the Tribunal decides to entertain the reference, it shall consider the terms of the proposed licence and make such order, either confirming or varying the terms, as the Tribunal may determine to be reasonable in the circumstances.
 
@@ -386,7 +598,21 @@ Reference 27I. (1) The terms on which a licensing body to Tribunal proposes to g
 
 <!-- page 15 -->
 
-Reference 27J. (1) A licensee under a licence which is to Tribunal due to expire, by effluxion of time or as a result of expiring of notice given by the licensing body, may apply licence. to the Tribunal on the ground that it is unreasonable in the circumstances that the licence should cease to be in force.
+<!-- marginal: Reference -->
+
+27J. (1) A licensee under a licence which is
+
+<!-- marginal: to Tribunal -->
+
+due to expire, by effluxion of time or as a result
+
+<!-- marginal: of expiring -->
+
+of notice given by the licensing body, may apply
+
+<!-- marginal: licence. -->
+
+to the Tribunal on the ground that it is unreasonable in the circumstances that the licence should cease to be in force.
 
 (2) Such an application may not be made until the last three months before the licence is due to expire.
 
@@ -396,7 +622,19 @@ Reference 27J. (1) A licensee under a licence which is to Tribunal due to expire
 
 (5) An order under subsection (4) may be made so as to be in force indefinitely or for such period as the Tribunal may determine.
 
-Application 27K. (1) Where the Tribunal has made an order for review under section 27I or 27J, the licensing body or of order as to licence. the person entitled to the benefit of the order may apply to the Tribunal to review its order.
+<!-- marginal: Application -->
+
+27K. (1) Where the Tribunal has made an order
+
+<!-- marginal: for review -->
+
+under section 27I or 27J, the licensing body or
+
+<!-- marginal: of order as -->
+
+<!-- marginal: to licence. -->
+
+the person entitled to the benefit of the order may apply to the Tribunal to review its order.
 
 (2) An application shall not be made, except with the special leave of the Tribunal,—
 
@@ -412,7 +650,23 @@ due to expire within fifteen months of that decision, until the last three month
 
 (3) The Tribunal shall on an application for review confirm or vary its order as the Tribunal may determine to be reasonable in the circumstances.
 
-Effect of 27L. (1) Where the Tribunal has made an order order of under section 27I or 27J and the order remains Tribunal as to in force, the person entitled to the benefit of licence. the order shall, if he—
+<!-- marginal: Effect of -->
+
+27L. (1) Where the Tribunal has made an order
+
+<!-- marginal: order of -->
+
+under section 27I or 27J and the order remains
+
+<!-- marginal: Tribunal -->
+
+<!-- marginal: as to -->
+
+in force, the person entitled to the benefit of
+
+<!-- marginal: licence. -->
+
+the order shall, if he—
 
 (a) pays to the licensing body any charges payable in accordance with the order or, if the amount cannot be ascertained, gives an undertaking to the operator to pay the charges when ascertained; and
 
@@ -464,9 +718,11 @@ earlier than the date on which the reference or application was made or, if late
 
 <!-- page 18 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-7. Section 30 of the principal Act is amended— of section 30.
+7. Section 30 of the principal Act is amended—
+
+<!-- marginal: of section 30. -->
 
 (a) in subsection (1)—
 
@@ -482,13 +738,31 @@ Amendment
 
 (7) In any such case as is mentioned in subsection (6) where the member who is unable to continue is the chairman of the proceedings, then the Minister shall appoint from amongst the remaining members a new chairman for the purposes of the continued proceedings.".
 
-New section
+<!-- marginal: New section -->
 
 8. The principal Act is amended by inserting after section
 
 30A. 30 the following section:
 
-"Reference 30A. (1) The Tribunal may of its own motion, of or shall at the request of a party, refer a question questions of law of law arising in proceedings concluded before to High it for determination by the High Court. Court.
+<!-- marginal: "Reference -->
+
+30A. (1) The Tribunal may of its own motion,
+
+<!-- marginal: of -->
+
+or shall at the request of a party, refer a question
+
+<!-- marginal: questions -->
+
+<!-- marginal: of law -->
+
+of law arising in proceedings concluded before
+
+<!-- marginal: to High -->
+
+it for determination by the High Court.
+
+<!-- marginal: Court. -->
 
 <!-- page 19 -->
 
@@ -520,7 +794,17 @@ New section
 
 41 the following section:
 
-"Compoun- 41 A. (1) The Controller or a Deputy Controller ding of may compound any offence under this Act or offences. subsidiary legislation made thereunder which
+<!-- marginal: "Compoun- -->
+
+41 A. (1) The Controller or a Deputy Controller
+
+<!-- marginal: ding of -->
+
+may compound any offence under this Act or
+
+<!-- marginal: offences. -->
+
+subsidiary legislation made thereunder which
 
 <!-- page 20 -->
 
@@ -530,13 +814,19 @@ is prescribed to be a compoundable offence by accepting from the person reasonab
 
 (3) The power to compound offences under subsection (1) shall be exercised by the Controller or the Deputy Controller personally.".
 
-Deletion of
+<!-- marginal: Deletion of -->
 
-11. The principal Act is amended by deleting section 58. section 58.
+11. The principal Act is amended by deleting
 
-Transitional
+<!-- marginal: section 58. -->
 
-12. Nothing in this Act shall affect— and savings.
+section 58.
+
+<!-- marginal: Transitional -->
+
+12. Nothing in this Act shall affect—
+
+<!-- marginal: and savings. -->
 
 (a) proceedings commenced under section 58 of the principal Act before the date of coming into force of this Act and still pending immediately prior to the date of coming into force of this Act; and
 
@@ -596,6 +886,4 @@ The new section 27L provides that while the order of the Copyright Tribunal is i
 
 ## IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure.
-
-<!-- marginal: [PN.(U2) 1503.] -->
+This Bill will not involve the Government in any extra financial expenditure. [PN.(U2) 1503.]

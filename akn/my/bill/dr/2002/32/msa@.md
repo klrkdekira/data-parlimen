@@ -98,25 +98,13 @@ sebagaimana yang diluluskan oleh Pendaftar dari semasa ke semasa, kepada atau ba
 
 "(d) pemohon sama ada—
 
-(i) telah memperoleh,
-
-<!-- marginal: atau -->
-
-<!-- marginal: akan -->
-
-memperoleh apa-apa polisi
-
-<!-- marginal: insurans -->
-
-tanggung rugi profesional dengan perlindungan yang tidak kurang daripada.satu juta ringgit atau yang setara dengannya dalam mana-mana mata wang asing atau apa-apa amaun lain sebagaimana yang ditentukan oleh Pendaftar, dan tetap ditanggung rugi di bawah polisi itu sepanjang operasinya sebagai suatu syarikat amanah; atau
+(i) telah memperoleh, atau akan memperoleh apa-apa polisi insurans tanggung rugi profesional dengan perlindungan yang tidak kurang daripada.satu juta ringgit atau yang setara dengannya dalam mana-mana mata wang asing atau apa-apa amaun lain sebagaimana yang ditentukan oleh Pendaftar, dan tetap ditanggung rugi di bawah polisi itu sepanjang operasinya sebagai suatu syarikat amanah; atau
 
 (ii) telah mendepositkan dengan Pendaftar cagaran yang bernilai satu ratus ribu ringgit atau apa-apa amaun lain sebagaimana yang ditentukan oleh Pendaftar;";
 
 <!-- page 5 -->
 
-Syarikat Amanah Labuan (Pindaan)
-
-<!-- marginal: 5 -->
+Syarikat Amanah Labuan (Pindaan) 5
 
 (vi) dengan menggantikan perenggan (e) dengan perenggan yang berikut:
 
@@ -140,7 +128,7 @@ Syarikat Amanah Labuan (Pindaan)
 
 "(4) Peruntukan perenggan (3)(b). dan (c) tidaklah terpakai bagi syarikat amanah yang diuruskan oleh syarikat amanah yang lain.".
 
-### Pindaan seksyen 5
+<!-- marginal: Pindaan seksyen 5 -->
 
 6. Seksyen 5 Akta ibu, dipinda dengan menggantikan sub- seksyen (2) dengan subseksyen yang berikut:
 
@@ -240,11 +228,7 @@ subseksyen (1), satu salinan disahkan perintah itu berserta dengan satu salinan 
 
 (b) jika tanah berimilik itu terletak di Sabah, penerima pindahan hendaklah, dengan seberapa segera yang dapat dilaksanakan selepas perintah itu dibuat, menyerahkan satu salinan perintah itu yang telah disahkan kepada Pendaftar bagi pendaftaran peletakhakan tanah berimilik itu atau bahagian atau kepentingan dalam tanah berimilik itu sebagaimana yang diperuntukkan di bawah Ordinan Tanah Sabah [Sabah Bab 68]', atau
 
-(c) jika tanah berimilik itu terletak di Sarawak, penerima pindahan hendaklah, dengan seberapa segera yang dapat dilaksanakan selepas perintah itu dibuat, mengemukakan satu salinan perintah itu yang telah disahkan kepada Pendaftar bagi pendaftaran peletakhakan tanah berimilik itu atau bahagian atau kepentingan dalam tanah berimilik pada penerima pindahan
-
-<!-- marginal: itu sebagaimana yang -->
-
-diperuntukkan di bawah seksyen 171 Kanun Tanah Sarawak [Sarawak Bab 81].
+(c) jika tanah berimilik itu terletak di Sarawak, penerima pindahan hendaklah, dengan seberapa segera yang dapat dilaksanakan selepas perintah itu dibuat, mengemukakan satu salinan perintah itu yang telah disahkan kepada Pendaftar bagi pendaftaran peletakhakan tanah berimilik itu atau bahagian atau kepentingan dalam tanah berimilik pada penerima pindahan itu sebagaimana yang diperuntukkan di bawah seksyen 171 Kanun Tanah Sarawak [Sarawak Bab 81].
 
 <!-- page 10 -->
 

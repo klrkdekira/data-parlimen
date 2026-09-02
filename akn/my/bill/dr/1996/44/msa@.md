@@ -26,7 +26,25 @@ II
 
 ## LEMBAGA PIAWA1AN PERAKAUNAN MALAYSIA
 
-3. Penubuhan Yayasan. 4. Fungsi-fungsi Yayasan. 5. Anggota Yayasan. 6. Mesyuarat Yayasan. 7. Penubuhan dan fungsi-fungsi Lembaga. 8. Anggota Lembaga. 9. Mesyuarat Lembaga. 10. Hilang kelayakan. 11. Saraan. 12. Tempoh jawatan. 13. Peletakan jawatan dan pembatalan pelantikan. 14. Pengosongan jawatan. 15. Arahan Menteri. 16. Kuasa dan kewajipan lain Yayasan dan Lembaga. 17. Pengambilan khidmat Pengarah Teknikal dan orang lain. 18. Pengambilan kerja pegawai dan pengkhidmat.
+3. Penubuhan Yayasan. 4. Fungsi-fungsi Yayasan. 5. Anggota Yayasan. 6. Mesyuarat Yayasan. 7. Penubuhan dan fungsi-fungsi Lembaga. 8. Anggota Lembaga. 9. Mesyuarat Lembaga.
+
+10. Hilang kelayakan.
+
+11. Saraan.
+
+12. Tempoh jawatan.
+
+13. Peletakan jawatan dan pembatalan pelantikan.
+
+14. Pengosongan jawatan.
+
+15. Arahan Menteri.
+
+16. Kuasa dan kewajipan lain Yayasan dan Lembaga.
+
+17. Pengambilan khidmat Pengarah Teknikal dan orang lain.
+
+18. Pengambilan kerja pegawai dan pengkhidmat.
 
 <!-- page 2 -->
 
@@ -122,13 +140,21 @@ ditubuhkan di bawah seksyen 3 Akta Akauntan 1967;
 
 "pegawai utama", berhubungan dengan sesuatu syarikat awam tersenarai, ertinya seseorang, dengan nama apa jua disebut, yang bertanggungjawab bagi perjalanan perniagaan dan pentadbiran syarikat awam tersenarai itu, dan termasuk pengerusi bukan eksekutif syarikat awam tersenarai itu;
 
-"Pendaftar Syarikat" ertinya Pendaftar Syarikat yang Akta 125. dilantik di bawah Akta Syarikat 1965;
+"Pendaftar Syarikat" ertinya Pendaftar Syarikat yang
+
+<!-- marginal: Akta 125. -->
+
+dilantik di bawah Akta Syarikat 1965;
 
 "piawaian perakaunan" ertinya pernyataan amalan perakaunan yang lazim yang digunakan bagi menyediakan penyata kewangan;
 
 "piawaian perakaunan diluluskan" ertinya piawaian perakaunan yang dikeluarkan atau diterima pakai oleh Lembaga di bawah subseksyen 7(1);
 
-"Suruhanjaya Sekuriti" ertinya Suruhanjaya Sekuriti Akta 498. yang ditubuhkan di bawah Akta Suruhanjaya Sekuriti 1993;
+"Suruhanjaya Sekuriti" ertinya Suruhanjaya Sekuriti
+
+<!-- marginal: Akta 498. -->
+
+yang ditubuhkan di bawah Akta Suruhanjaya Sekuriti 1993;
 
 "Yayasan" ertinya Yayasan Laporan Kewangan yang ditubuhkan di bawah seksyen 3.
 
@@ -140,9 +166,13 @@ II
 
 ## LEMBAGA PIAWAIAN PERAKAUNAN MALAYSIA
 
-Penubuhan
+<!-- marginal: Penubuhan -->
 
-3. Maka adalah dengan ini ditubuhkan suatu pertubuhan Yayasan. perbadanan bernama "Yayasan Laporan Kewangan" yang kekal turun-temurun dan mempunyai suatu meterai biasa, yang boleh mendakwa dan didakwa dengan namanya itu
+3. Maka adalah dengan ini ditubuhkan suatu pertubuhan
+
+<!-- marginal: Yayasan. -->
+
+perbadanan bernama "Yayasan Laporan Kewangan" yang kekal turun-temurun dan mempunyai suatu meterai biasa, yang boleh mendakwa dan didakwa dengan namanya itu
 
 <!-- page 5 -->
 
@@ -192,9 +222,7 @@ berikut yang hendaklah dilantik oleh Menteri:
 
 (h) dua belas orang anggota lain yang daripadanya—
 
-(i) lima orang hendaklah pegawai utama syarikat-syarikat awam tersenarai; (ii) empat orang hendaklah akauntan awam yang setiap seorang hendaklah merupakan rakan kongsi yang mempunyai tidak kurang daripada
-
-<!-- marginal: sepuluh -->
+(i) lima orang hendaklah pegawai utama syarikat-syarikat awam tersenarai; (ii) empat orang hendaklah akauntan awam yang setiap seorang hendaklah merupakan rakan kongsi yang mempunyai tidak kurang daripada sepuluh
 
 <!-- marginal: tahun -->
 
@@ -202,17 +230,33 @@ pengalaman dalam firma perakaunan;
 
 (iii) seorang hendaklah peguambela dan peguamcara yang merupakan rakan kongsi yang mempunyai tidak kurang daripada sepuluh tahun pengalaman dalam firma guaman; dan (iv) dua orang lain yang mempunyai pengalaman dan latar belakang yang relevan.
 
-(2) Menteri boleh melantik seorang Pengerusi daripada kalangan orang-orang yang disebut dalam subseksyen (1).
+(2) Menteri boleh melantik seorang Pengerusi daripada kalangan orang-orang yang disebut dalam subseksyen
 
-Mesyuarat
+(1).
 
-6. (1) Pengerusi Yayasan dan lapan orang anggota lain Yayasan hendaklah membentuk kuorum pada semua mesyuarat Yayasan.
+<!-- marginal: Mesyuarat -->
+
+6. (1) Pengerusi Yayasan dan lapan orang anggota lain
+
+<!-- marginal: Yayasan -->
+
+hendaklah membentuk kuorum pada semua mesyuarat Yayasan.
 
 (2) Yayasan hendaklah mempunyai kuasa untuk menentukan perjalanan prosidingnya.
 
-Penubuhan
+<!-- marginal: Penubuhan -->
 
-7. (1) Maka adalah dengan ini ditubuhkan suatu badan dan fungsi- dengan nama "Lembaga Piawaian Perakaunan Malaysia" fungsi Lembaga. yang fungsi-fungsinya ialah—
+7. (1) Maka adalah dengan ini ditubuhkan suatu badan
+
+<!-- marginal: dan fungsi- -->
+
+dengan nama "Lembaga Piawaian Perakaunan Malaysia"
+
+<!-- marginal: fungsi -->
+
+<!-- marginal: Lembaga. -->
+
+yang fungsi-fungsinya ialah—
 
 (a) mengeluarkan piawaian perakaunan baru sebagai piawaian perakaunan diluluskan;
 
@@ -232,7 +276,9 @@ Penubuhan
 
 (h) melaksanakan apa-apa fungsi lain sebagaimana yang boleh ditetapkan oleh Menteri melalui perintah yang disiarkan dalam Warta.
 
-(2) Lembaga hendaklah, berhubungan dengan fungsi- fungsinya di bawah perenggan (1)(a), (1)(b), (1)(c) atau (1)(g), meminta pandangan Yayasan.
+(2) Lembaga hendaklah, berhubungan dengan fungsi- fungsinya di bawah perenggan (1)(a), (1)(b), (1)(c) atau
+
+(1)(g), meminta pandangan Yayasan.
 
 (3) Piawaian perakaunan diluluskan yang dikeluarkan atau diterima pakai di bawah subseksyen (1) boleh dinyatakan terpakai berhubungan dengan—
 
@@ -250,13 +296,21 @@ dan boleh—
 
 (4) Bagi maksud perenggan (3)(a)—
 
-(a) "subsidiari" mempunyai erti yang diberikan Akta 125. kepadanya di bawah seksyen 5 Akta Syarikat 1965; dan
+(a) "subsidiari" mempunyai erti yang diberikan
+
+<!-- marginal: Akta 125. -->
+
+kepadanya di bawah seksyen 5 Akta Syarikat 1965; dan
 
 (b) "perbadanan berkaitan" ertinya perbadanan yang tidak kurang daripada tiga puluh peratus dan tidak lebih daripada lima puluh peratus syernya dipegang oleh suatu perbadanan lain, menjadikan perbadanan yang mula-mula disebut itu suatu perbadanan berkaitan bagi perbadanan yang satu lagi.
 
-Anggota
+<!-- marginal: Anggota -->
 
-8. (1) Tertakluk kepada subseksyen (2), Lembaga Lembaga hendaklah terdiri daripada anggota yang berikut yang hendaklah dilantik oleh Menteri:
+8. (1) Tertakluk kepada subseksyen (2), Lembaga
+
+<!-- marginal: Lembaga -->
+
+hendaklah terdiri daripada anggota yang berikut yang hendaklah dilantik oleh Menteri:
 
 (a) Pengerusi;
 
@@ -312,9 +366,11 @@ pertimbangtelitian Lembaga bagi maksud mendapatkan pandangan tentang apa-apa per
 
 <!-- page 10 -->
 
-Hilang
+<!-- marginal: Hilang -->
 
-10. (1) Seseorang— kelayakan.
+10. (1) Seseorang—
+
+<!-- marginal: kelayakan. -->
 
 (a) yang tak sempurna akal atau selainnya tidak berupaya untuk melaksanakan kewajipan- kewajipannya;
 
@@ -326,17 +382,31 @@ Hilang
 
 tidak layak dilantik menjadi anggota Yayasan atau Lembaga, atau jika dia sedang menjadi anggota Yayasan atau Lembaga hendaklah terhenti menjadi anggota sedemikian.
 
-Saraan.
+<!-- marginal: Saraan. -->
 
 11. Anggota-anggota Yayasan dan Lembaga dan penasihat kepada Lembaga tidak berhak mendapat apa-apa saraan tetapi boleh dibayar apa-apa honorarium dan elaun perjalanan dan elaun sara hidup sebagaimana yang ditentukan oleh Menteri.
 
-Tempoh
+<!-- marginal: Tempoh -->
 
-12. Tertakluk kepada seksyen 10, 13 dan 14, seseorang jawatan. anggota Yayasan atau Lembaga selain daripada anggota ex-officio hendaklah memegang jawatan selama tempoh yang tidak melebihi tiga tahun dan adalah layak dilantik semula bagi satu tempoh berturutan saja.
+12. Tertakluk kepada seksyen 10, 13 dan 14, seseorang
 
-Peletakan
+<!-- marginal: jawatan. -->
 
-13. (1) Seseorang anggota Yayasan atau Lembaga boleh jawatan dan pada bila-bila masa meletakkan jawatannya dengan pembatalan pelantikan. menghantar notis bertulis kepada—
+anggota Yayasan atau Lembaga selain daripada anggota ex-officio hendaklah memegang jawatan selama tempoh yang tidak melebihi tiga tahun dan adalah layak dilantik semula bagi satu tempoh berturutan saja.
+
+<!-- marginal: Peletakan -->
+
+13. (1) Seseorang anggota Yayasan atau Lembaga boleh
+
+<!-- marginal: jawatan dan -->
+
+pada bila-bila masa meletakkan jawatannya dengan
+
+<!-- marginal: pembatalan -->
+
+<!-- marginal: pelantikan. -->
+
+menghantar notis bertulis kepada—
 
 (a) Menteri, dalam hal Pengerusi; atau
 
@@ -410,9 +480,19 @@ dari semasa ke semasa oleh Yayasan, mana-mana orang untuk memberikan apa-apa ban
 
 12 Rang Undang-Undang
 
-Pengambilan
+<!-- marginal: Pengambilan -->
 
-18. (1) Yayasan boleh dari semasa ke semasa mengambil kerja bekerja orang-orang yang hendaklah dibayar apa-apa pegawai dan pengkhidmat. saraan dan elaun, dan hendaklah memegang jawatan atas apa-apa terma dan syarat lain, sebagaimana yang ditentukan oleh Yayasan.
+18. (1) Yayasan boleh dari semasa ke semasa mengambil
+
+<!-- marginal: kerja -->
+
+bekerja orang-orang yang hendaklah dibayar apa-apa
+
+<!-- marginal: pegawai dan -->
+
+<!-- marginal: pengkhidmat. -->
+
+saraan dan elaun, dan hendaklah memegang jawatan atas apa-apa terma dan syarat lain, sebagaimana yang ditentukan oleh Yayasan.
 
 (2) Yayasan boleh membuat perkiraan bagi pembayaran kepada pegawai-pegawai dan pengkhidmat-pengkhidmat- nya, termasuk Pengarah Teknikal yang dilantik di bawah subseksyen 17(2), dan orang-orang tanggungan mereka apa-apa faedah persaraan, ganjaran atau elaun lain sebagaimana yang ditentukan oleh Yayasan.
 
@@ -422,9 +502,13 @@ III
 
 ## KEWANGAN
 
-Kumpulan
+<!-- marginal: Kumpulan -->
 
-19. (1) Maka adalah dengan ini ditubuhkan, bagi maksud- Wang maksud Akta ini, suatu kumpulan wang yang hendaklah ditadbirkan oleh Yayasan.
+19. (1) Maka adalah dengan ini ditubuhkan, bagi maksud-
+
+<!-- marginal: Wang -->
+
+maksud Akta ini, suatu kumpulan wang yang hendaklah ditadbirkan oleh Yayasan.
 
 (2) Kumpulan Wang ini hendaklah mengandungi—
 
@@ -492,11 +576,15 @@ haribulan Disember pada setiap tahun.
 
 <!-- page 14 -->
 
-Laporan
+<!-- marginal: Laporan -->
 
-23. Yayasan hendaklah, dengan seberapa segera yang tahunan. praktik selepas tamat setiap tahun kewangan, menyediakan suatu laporan tentang kegiatan Yayasan dan Lembaga, kedua-duanya, sepanjang tahun kewangan itu dan menghantar satu salinan laporan itu kepada Menteri yang hendaklah menyebabkan satu salinan laporan itu dibentangkan di hadapan kedua-dua Majlis Parlimen.
+23. Yayasan hendaklah, dengan seberapa segera yang
 
-Akaun.
+<!-- marginal: tahunan. -->
+
+praktik selepas tamat setiap tahun kewangan, menyediakan suatu laporan tentang kegiatan Yayasan dan Lembaga, kedua-duanya, sepanjang tahun kewangan itu dan menghantar satu salinan laporan itu kepada Menteri yang hendaklah menyebabkan satu salinan laporan itu dibentangkan di hadapan kedua-dua Majlis Parlimen.
+
+<!-- marginal: Akaun. -->
 
 24. (1) Yayasan hendaklah menyebabkan supaya disimpan akaun yang sepatutnya bagi Kumpulan Wang dan hendaklah, dengan seberapa segera yang praktik selepas tamat setiap tahun kewangan, menyebabkan disediakan untuk tahun kewangan itu suatu penyata akaun bagi Yayasan yang hendaklah termasuk suatu kunci kira-kira, penyata pendapatan dan perbelanjaan dan penyata aliran tunai.
 
@@ -504,13 +592,23 @@ Akaun.
 
 (3) Yayasan hendaklah dengan seberapa segera yang praktik menghantar satu salinan penyata akaunnya yang sudah diaudit berserta satu salinan laporan juruaudit tentangnya kepada Menteri yang hendaklah menyebabkan satu salinan penyata dan laporan itu dibentangkan di hadapan kedua-dua Majlis Parlimen.
 
-Ketak-
+<!-- marginal: Ketak- -->
 
-25. Akta Badan Berkanun (Akaun dan Laporan Tahunan) pakaian 1980 tidaklah terpakai bagi Yayasan. Akta 240.
+25. Akta Badan Berkanun (Akaun dan Laporan Tahunan)
 
-Kuasa
+<!-- marginal: pakaian -->
 
-26. Yayasan boleh dari semasa ke semasa. dengan meminjam. kelulusan Menteri, meminjam, pada kadar faedah dan bagi tempoh dan atas terma tentang masa dan kaedah pembayaran balik dan selainnya sebagaimana yang diluluskan oleh Menteri, apa-apa jumlah wang yang diperlukan oleh Yayasan bagi memenuhi mana-mana obligasinya atau obligasi Lembaga atau menjalankan mana- mana fungsinya atau fungsi Lembaga.
+1980 tidaklah terpakai bagi Yayasan.
+
+<!-- marginal: Akta 240. -->
+
+<!-- marginal: Kuasa -->
+
+26. Yayasan boleh dari semasa ke semasa. dengan
+
+<!-- marginal: meminjam. -->
+
+kelulusan Menteri, meminjam, pada kadar faedah dan bagi tempoh dan atas terma tentang masa dan kaedah pembayaran balik dan selainnya sebagaimana yang diluluskan oleh Menteri, apa-apa jumlah wang yang diperlukan oleh Yayasan bagi memenuhi mana-mana obligasinya atau obligasi Lembaga atau menjalankan mana- mana fungsinya atau fungsi Lembaga.
 
 <!-- page 15 -->
 
@@ -572,9 +670,7 @@ Fasal 26 bertujuan untuk memberi Yayasan kuasa untuk meminjam wang bagi maksud m
 
 5. Bahagian IV mengandungi suatu peruntukan penting, iaitu kehendak (dalam fasal 27) supaya piawaian perakaunan diluluskan yang dikeluarkan oleh Lembaga dipatuhi berkenaan dengan akaun yang dikehendaki disimpan di bawah pelbagai undang-undang yang ditadbirkan oleh Bank Negara, Suruhanjaya Sekuriti dan Pendaftar Syarikat.
 
-## Bahagian IV juga mengandungi peruntukan yang bertujuan
-
-memastikan bahawa Yayasan dan Lembaga mengambil segala langkah yang munasabah untuk menghalang penggunaan atau pendedahan tanpa kebenaran maklumat yang diberikan secara sulit kepada Yayasan atau Lembaga, dan peruntukan yang bertujuan memberi Menteri kuasa untuk membuat peraturan-peraturan.
+Bahagian IV juga mengandungi peruntukan yang bertujuan memastikan bahawa Yayasan dan Lembaga mengambil segala langkah yang munasabah untuk menghalang penggunaan atau pendedahan tanpa kebenaran maklumat yang diberikan secara sulit kepada Yayasan atau Lembaga, dan peruntukan yang bertujuan memberi Menteri kuasa untuk membuat peraturan-peraturan.
 
 ## IMPLIKASI KEWANGAN
 

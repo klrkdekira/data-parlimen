@@ -8,7 +8,25 @@ Foreign Countries
 
 ## ARRANGEMENT OF CLAUSES
 
-1. Short title and commencement 2. Interpretation 3. Extra-territorial application 4. Terrorist acts in foreign country 5. Suspension or revocation of Malaysian travel documents 6. Request for surrender of foreign travel documents 7. Demand for surrender of foreign travel documents 8. Institution of prosecution 9. Non-application of Offenders Compulsory Attendance Act 1954 and sections 173a, 293 and 294 of the Criminal Procedure Code 10. Regulations
+1. Short title and commencement
+
+2. Interpretation
+
+3. Extra-territorial application
+
+4. Terrorist acts in foreign country
+
+5. Suspension or revocation of Malaysian travel documents
+
+6. Request for surrender of foreign travel documents
+
+7. Demand for surrender of foreign travel documents
+
+8. Institution of prosecution
+
+9. Non-application of Offenders Compulsory Attendance Act 1954 and sections 173a, 293 and 294 of the Criminal Procedure Code
+
+10. Regulations
 
 <!-- page 3 -->
 

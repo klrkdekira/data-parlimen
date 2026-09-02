@@ -48,9 +48,21 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Seksyen baru 22c
 
-3. Akta ibu dipinda dengan memasukkan selepas seksyen 22B seksyen yang berikut: " Joint and 22c. Where any customs duty is payable by— several liability of
+3. Akta ibu dipinda dengan memasukkan selepas seksyen 22B seksyen yang berikut: "
 
-(a) a company; director, etc.
+<!-- marginal: Joint and -->
+
+22c. Where any customs duty is payable by—
+
+<!-- marginal: several -->
+
+<!-- marginal: liability of -->
+
+(a) a company;
+
+<!-- marginal: director, -->
+
+<!-- marginal: etc. -->
 
 (b) a firm; or
 
@@ -102,7 +114,13 @@ Provided that in relation to a company that is being wound up, the directors of 
 
 (4) Where, on the entry upon any premises under the provisions of this section, any dutiable goods are found in relation to which any offence under the provisions of this Act has been committed, then such dutiable goods shall be liable to forfeiture.
 
-Power of 106B. A proper officer of customs shall have all the investigation powers necessary to carry out an inspection and to investigate the commission of any offence under this Act.".
+<!-- marginal: Power of -->
+
+106B. A proper officer of customs shall have all the
+
+<!-- marginal: investigation -->
+
+powers necessary to carry out an inspection and to investigate the commission of any offence under this Act.".
 
 <!-- page 5 -->
 
@@ -168,7 +186,17 @@ Kastam (Pindaan) 7
 
 ### Seksyen baru 116A, 116B, 116C dan 116D
 
-11. Akta ibu dipinda dengan memasukkan selepas seksyen 116 seksyen yang berikut: " Power to 116A. (1) A senior officer of customs investigating an examine offence under this Act may— persons.
+11. Akta ibu dipinda dengan memasukkan selepas seksyen 116 seksyen yang berikut: "
+
+<!-- marginal: Power to -->
+
+116A. (1) A senior officer of customs investigating an
+
+<!-- marginal: examine -->
+
+offence under this Act may—
+
+<!-- marginal: persons. -->
 
 (a) order any person who appears to be acquainted with the facts and circumstances of the case to attend before him for the purpose of being examined orally in relation to any matter which may, in his opinion, assist in the investigation into the offence; or
 
@@ -200,9 +228,17 @@ Kastam (Pindaan) 7
 
 regardless whether such proceedings are against the person who was examined, or who produced the book, document or article, or against any other person.
 
-Admissibility
+<!-- marginal: Admissibility -->
 
-116B. (1) In any trial or inquiry by a court into an offence of statements under this Act, any statement, whether the statement amounts in evidence. to a confession or not or whether it is oral or in writing, made at any time, whether before or after the person is charged and whether in the course of an investigation
+116B. (1) In any trial or inquiry by a court into an offence
+
+<!-- marginal: of statements -->
+
+under this Act, any statement, whether the statement amounts
+
+<!-- marginal: in evidence. -->
+
+to a confession or not or whether it is oral or in writing, made at any time, whether before or after the person is charged and whether in the course of an investigation
 
 <!-- page 9 -->
 
@@ -220,7 +256,33 @@ under this Act or not, and whether or not wholly or partly in answer to question
 
 <!-- page 10 -->
 
-Procedure 116c. (1) Whenever any person is arrested and detained where in custody and it appears that the investigation cannot be investigation cannot be completed within a period of twenty-four hours and there completed are grounds for believing that the accusation or information within twenty-four is well founded, the senior officer of customs making the hours. investigation under this Act shall immediately transmit to a Magistrate a copy of the entries in the diary prescribed under section 116D relating to the case and shall at the same time produce such person before the Magistrate.
+<!-- marginal: Procedure -->
+
+116c. (1) Whenever any person is arrested and detained
+
+<!-- marginal: where -->
+
+in custody and it appears that the investigation cannot be
+
+<!-- marginal: investigation -->
+
+<!-- marginal: cannot be -->
+
+completed within a period of twenty-four hours and there
+
+<!-- marginal: completed -->
+
+are grounds for believing that the accusation or information
+
+<!-- marginal: within -->
+
+<!-- marginal: twenty-four -->
+
+is well founded, the senior officer of customs making the
+
+<!-- marginal: hours. -->
+
+investigation under this Act shall immediately transmit to a Magistrate a copy of the entries in the diary prescribed under section 116D relating to the case and shall at the same time produce such person before the Magistrate.
 
 (2) The Magistrate before whom a person is produced under this section may, whether he has or has not jurisdiction to try the case, from time to time, authorize the detention of such person in such custody as the Magistrate considers fit for a term not exceeding fifteen days in the whole.
 
@@ -228,7 +290,17 @@ Procedure 116c. (1) Whenever any person is arrested and detained where in custod
 
 (4) A Magistrate authorizing detention under this section shall record his reasons for so doing.
 
-Diary of 116D. (1) Every officer of customs making an investigation proceedings under this Act shall day by day enter his proceedings in the in investigation. investigation in a diary setting forth—
+<!-- marginal: Diary of -->
+
+116D. (1) Every officer of customs making an investigation
+
+<!-- marginal: proceedings -->
+
+under this Act shall day by day enter his proceedings in the
+
+<!-- marginal: in -->
+
+investigation. investigation in a diary setting forth—
 
 (a) the time at which the order, if any, for investigation reached him;
 
@@ -240,7 +312,9 @@ Diary of 116D. (1) Every officer of customs making an investigation proceedings 
 
 <!-- page 11 -->
 
-Act 56 (2) Notwithstanding anything contained in the Evidence Act 1950, an accused person shall not be entitled, either before or in the course of any proceedings under this Act, to call for or inspect any such diary:
+<!-- marginal: Act 56 -->
+
+(2) Notwithstanding anything contained in the Evidence Act 1950, an accused person shall not be entitled, either before or in the course of any proceedings under this Act, to call for or inspect any such diary:
 
 Provided that if the officer of customs who has made the investigation refers to the diary for the purposes of section 159 or 160 of the Evidence Act 1950, such entries only as the officer has referred to shall be shown to the accused, and the court shall at the request of the officer cause any other entries to be concealed from view or obliterated.".
 
@@ -250,7 +324,31 @@ Provided that if the officer of customs who has made the investigation refers to
 
 ### Penggantian seksyen 120
 
-13. Akta ibu dipinda dengan menggantikan seksyen 120 dengan seksyen yang berikut: " Proportional 120. (1) When any goods suspected of being prohibited examination or uncustomed or otherwise liable to seizure have been of goods seized to seized, it shall be sufficient to open and examine five per be centum only of each description of the package or receptacle accepted by courts in which such goods are contained.
+13. Akta ibu dipinda dengan menggantikan seksyen 120 dengan seksyen yang berikut: "
+
+<!-- marginal: Proportional -->
+
+120. (1) When any goods suspected of being prohibited
+
+<!-- marginal: examination -->
+
+or uncustomed or otherwise liable to seizure have been
+
+<!-- marginal: of goods -->
+
+<!-- marginal: seized to -->
+
+seized, it shall be sufficient to open and examine five per
+
+<!-- marginal: be -->
+
+centum only of each description of the package or receptacle
+
+<!-- marginal: accepted -->
+
+<!-- marginal: by courts -->
+
+in which such goods are contained.
 
 (2) If it is necessary to test any goods seized under this Act, it shall be sufficient to test only a sample not exceeding five per centum in volume or weight of the goods examined under subsection (1).
 
@@ -260,7 +358,15 @@ Provided that if the officer of customs who has made the investigation refers to
 
 ### Seksyen baru 124A
 
-14. Akta ibu dipinda dengan memasukkan selepas seksyen 124 seksyen yang berikut: " Obligation 124A. (1) Except as provided under section 125, the name of secrecy. and address of an informer and the substance of the information received from an informer shall be kept secret and shall not be disclosed by any proper officer of customs or any person who in the ordinary course of his duties comes into possession of or has control of or access to such information to any person except the designated officer of customs authorized by the Director General.
+14. Akta ibu dipinda dengan memasukkan selepas seksyen 124 seksyen yang berikut: "
+
+<!-- marginal: Obligation -->
+
+124A. (1) Except as provided under section 125, the name
+
+<!-- marginal: of secrecy. -->
+
+and address of an informer and the substance of the information received from an informer shall be kept secret and shall not be disclosed by any proper officer of customs or any person who in the ordinary course of his duties comes into possession of or has control of or access to such information to any person except the designated officer of customs authorized by the Director General.
 
 (2) Any person who contravenes subsection (I) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding five years or to both.".
 

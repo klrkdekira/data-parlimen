@@ -56,13 +56,27 @@ Pertama dengan yang berikut:
 
 <!-- marginal: (3) -->
 
-Hakim Gaji Tarikh mula (berpencen) berkuatkuasa
+Hakim Gaji
 
-1. Ketua Hakim Negara $6,970 sebulan 1-10-1988
+<!-- marginal: Tarikh mula -->
 
-2. Hakim Besar Mahkamah $6,420 sebulan 1 -10-1988 Tinggi di Malaya
+(berpencen)
 
-3. Hakim Besar Mahkamah $6,270 sebulan 1 -10-1988 Tinggi di Borneo
+<!-- marginal: berkuatkuasa -->
+
+1. Ketua Hakim Negara $6,970 sebulan
+
+<!-- marginal: 1-10-1988 -->
+
+2. Hakim Besar Mahkamah $6,420 sebulan
+
+<!-- marginal: 1 -10-1988 -->
+
+Tinggi di Malaya 3. Hakim Besar Mahkamah $6,270 sebulan
+
+<!-- marginal: 1 -10-1988 -->
+
+Tinggi di Borneo
 
 <!-- page 2 -->
 
@@ -90,11 +104,11 @@ Hakim Gaji
 
 Tinggi di Malaya dan di Borneo
 
-emakaian.
+<!-- marginal: emakaian. -->
 
 4. Tertakluk kepada seksyen 5, seksyen 3 hendaklah dipakai bagi semua orang yang telah memegang jawatan sebagai Hakim pada 1hb Oktober 1988 atau yang telah atau dilantik sebagai Hakim selepas tarikh itu, walaupun dia mati, me- letakkan jawatan atau bersara daripada, atau terhenti dari- pada, memegang jawatan sebagai Hakim sebelum Akta ini disiarkan dalam Warm.
 
-pemilihan.
+<!-- marginal: pemilihan. -->
 
 5. Seseorang yang telah memegang jawatan sebagai Hakim pada 1hb Oktober 1988 boleh, dalam tempoh satu bulan selepas Akta ini disiarkan dalam Warta, memilih secara bertulis supaya dia tidak tertakluk kepada peruntukan- peruntukan Akta ini dan jika dia memilih sedemikian, dia hendaklah terus tertakluk kepada peruntukan-peruntukan Akta ibu seolah-olah Akta ini tidak diluluskan.
 

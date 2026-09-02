@@ -60,11 +60,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ‘ “penyalah guna dadah atau bahan” ertinya seseorang yang mengambil dadah berbahaya atau bahan ke dalam badan yang bukan bagi maksud perubatan atau tanpa preskripsi yang sah oleh pegawai perubatan kerajaan atau pengamal perubatan berdaftar yang ditentusahkan melalui ujian;’;
 
-(viii) dengan memasukkan sebelum
-
-<!-- marginal: takrif -->
-
-“Pusat Pemulihan” takrif yang berikut:
+(viii) dengan memasukkan sebelum takrif “Pusat Pemulihan” takrif yang berikut:
 
 ‘ “Pusat Khidmat” ertinya institusi yang ditubuhkan di bawah seksyen 10;’; dan
 
@@ -80,7 +76,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 6. Akta ibu dipinda dengan menggantikan tajuk Bahagian 2 dengan tajuk yang berikut:
 
-“Bahagian II
+## “BAHAGIAN II
 
 ## RAWATAN DAN PEMULIHAN PENAGIH DADAH ATAU BAHAN
 
@@ -150,7 +146,33 @@ boleh, apabila disabitkan, didenda atau diperintahkan untuk melaksanakan khidmat
 
 10. Akta ibu dipinda dengan memasukkan selepas seksyen 6 seksyen yang berikut:
 
-“Perintah 6a. (1) Jika seseorang yang telah menjalani Majistret ujian yang disebut dalam seksyen 3 atau 4 yang boleh dan, disebabkan oleh ujian itu, diperakui oleh dibuat ke atas pegawai perubatan kerajaan atau pengamal penyalah guna perubatan berdaftar sebagai penyalah guna dadah dadah atau atau bahan, pegawai itu hendaklah membawa bahan. orang itu, atau menyebabkan orang itu hadir di hadapan Majistret.
+<!-- marginal: “Perintah -->
+
+6a. (1) Jika seseorang yang telah menjalani
+
+<!-- marginal: Majistret -->
+
+ujian yang disebut dalam seksyen 3 atau 4
+
+<!-- marginal: yang boleh -->
+
+dan, disebabkan oleh ujian itu, diperakui oleh
+
+<!-- marginal: dibuat ke atas -->
+
+pegawai perubatan kerajaan atau pengamal
+
+<!-- marginal: penyalah guna -->
+
+perubatan berdaftar sebagai penyalah guna dadah
+
+<!-- marginal: dadah atau -->
+
+atau bahan, pegawai itu hendaklah membawa
+
+<!-- marginal: bahan. -->
+
+orang itu, atau menyebabkan orang itu hadir di hadapan Majistret.
 
 (2) Jika penyalah guna dadah atau bahan itu dibawa atau hadir di hadapan Majistret, Majistret itu hendaklah, atas syor Pegawai Pemulihan dan selepas memberi orang itu peluang untuk membuat representasi—
 
@@ -194,7 +216,7 @@ boleh, apabila disabitkan, didenda atau diperintahkan untuk melaksanakan khidmat
 
 11. Akta ibu dipinda dengan menggantikan tajuk Bahagian 3 dengan tajuk yang berikut:
 
-“Bahagian III
+## “BAHAGIAN III
 
 ## RAWATAN DAN PEMULIHAN PENAGIH DADAH ATAU BAHAN
 
@@ -246,7 +268,7 @@ boleh, apabila disabitkan, didenda atau diperintahkan untuk melaksanakan khidmat
 
 14. Akta ibu dipinda dengan menggantikan tajuk Bahagian 4 dengan tajuk yang berikut:
 
-“Bahagian IV
+## “BAHAGIAN IV
 
 ## PUSAT BAGI RAWATAN DAN PEMULIHAN”.
 
@@ -286,9 +308,33 @@ boleh, apabila disabitkan, didenda atau diperintahkan untuk melaksanakan khidmat
 
 18. Akta ibu dipinda dengan menggantikan seksyen 16 dengan seksyen yang berikut:
 
-“Pusat
+<!-- marginal: “Pusat -->
 
-16. (1) Tiada seorang pun boleh mengusahakan, pemulihan menyediakan, mengendalikan atau melaksanakan persendirian apa-apa perkhidmatan atau mengambil bahagian bagi rawatan, dalam pengurusan mana-mana pusat pemulihan pemulihan persendirian bagi rawatan dan pemulihan dan jagaan mana-mana penagih dadah atau bahan lanjutan. atau penyalah guna dadah atau bahan atau bagi jagaan lanjutan penagih dadah atau bahan atau penyalah guna dadah atau bahan melainkan jika dia memegang suatu kelulusan yang diberikan di bawah seksyen ini.
+16. (1) Tiada seorang pun boleh mengusahakan,
+
+<!-- marginal: pemulihan -->
+
+menyediakan, mengendalikan atau melaksanakan
+
+<!-- marginal: persendirian -->
+
+apa-apa perkhidmatan atau mengambil bahagian
+
+<!-- marginal: bagi rawatan, -->
+
+dalam pengurusan mana-mana pusat pemulihan
+
+<!-- marginal: pemulihan -->
+
+persendirian bagi rawatan dan pemulihan
+
+<!-- marginal: dan jagaan -->
+
+mana-mana penagih dadah atau bahan
+
+<!-- marginal: lanjutan. -->
+
+atau penyalah guna dadah atau bahan atau bagi jagaan lanjutan penagih dadah atau bahan atau penyalah guna dadah atau bahan melainkan jika dia memegang suatu kelulusan yang diberikan di bawah seksyen ini.
 
 (2) Menteri boleh, atas permohonan secara bertulis mana-mana orang perseorangan atau mana-mana organisasi, badan atau kumpulan orang, memberi kelulusan bagi pendaftaran suatu pusat pemulihan persendirian—
 
@@ -328,11 +374,31 @@ selama tempoh tidak melebihi tiga tahun dan kelulusan itu boleh diperbaharui ter
 
 22. Akta ibu dipinda dengan menggantikan seksyen 21 dengan seksyen yang berikut:
 
-“Tempoh
+<!-- marginal: “Tempoh -->
 
-21. (1) Jika seseorang— pemenjaraan atau tahanan
+21. (1) Jika seseorang—
 
-(a) yang menjalani rawatan dan hendaklah pemulihan dalam komuniti atau disifatkan sebagai di Pusat Pemulihan atau Pusat tempoh rawatan Khidmat di bawah pengawasan dan pemulihan. Pegawai Pemulihan; atau
+<!-- marginal: pemenjaraan -->
+
+<!-- marginal: atau tahanan -->
+
+(a) yang menjalani rawatan dan
+
+<!-- marginal: hendaklah -->
+
+pemulihan dalam komuniti atau
+
+<!-- marginal: disifatkan sebagai -->
+
+di Pusat Pemulihan atau Pusat
+
+<!-- marginal: tempoh rawatan -->
+
+Khidmat di bawah pengawasan
+
+<!-- marginal: dan pemulihan. -->
+
+Pegawai Pemulihan; atau
 
 (b) yang telah diperintahkan untuk menjalani rawatan dan pemulihan dalam komuniti atau di Pusat Pemulihan atau Pusat Khidmat tetapi masih belum mula menjalani rawatan dan pemulihan,
 
@@ -362,9 +428,25 @@ dihukum oleh mana-mana mahkamah dengan apa-apa tempoh pemenjaraan atau oleh Mahk
 
 25. Akta ibu dipinda dengan memasukkan selepas seksyen 27 seksyen yang berikut:
 
-“Pelantikan 27a. Menteri boleh melantik apa-apa bilangan Pegawai Pegawai Pemulihan yang dikehendaki bagi semua Pemulihan. perkara yang berhubungan dengan tangkapan, rawatan dan pemulihan bagi penagih dadah atau bahan atau penyalah guna dadah atau bahan dari semasa ke semasa bagi maksud Akta ini.
+<!-- marginal: “Pelantikan -->
 
-Pelantikan 27 b. (1) Ketua Pengarah boleh melantik sukarelawan. apa-apa bilangan sukarelawan sebagaimana yang perlu untuk membantu pegawai bagi melaksanakan fungsi bagi rawatan dan pemulihan di bawah Akta ini.
+27a. Menteri boleh melantik apa-apa bilangan
+
+<!-- marginal: Pegawai -->
+
+Pegawai Pemulihan yang dikehendaki bagi semua
+
+<!-- marginal: Pemulihan. -->
+
+perkara yang berhubungan dengan tangkapan, rawatan dan pemulihan bagi penagih dadah atau bahan atau penyalah guna dadah atau bahan dari semasa ke semasa bagi maksud Akta ini.
+
+<!-- marginal: Pelantikan -->
+
+27 b. (1) Ketua Pengarah boleh melantik
+
+<!-- marginal: sukarelawan. -->
+
+apa-apa bilangan sukarelawan sebagaimana yang perlu untuk membantu pegawai bagi melaksanakan fungsi bagi rawatan dan pemulihan di bawah Akta ini.
 
 (2) Seseorang sukarelawan adalah tertakluk pada arahan, perintah dan kawalan Ketua Pengarah untuk membantu pegawai bagi melaksanakan fungsi bagi rawatan dan pemulihan di bawah Akta ini.
 
@@ -378,7 +460,21 @@ Pelantikan 27 b. (1) Ketua Pengarah boleh melantik sukarelawan. apa-apa bilangan
 
 <!-- page 19 -->
 
-Majlis 27 c. (1) Menteri hendaklah menubuhkan Profesion suatu Majlis Profesion Pegawai Pemulihan Pegawai dan melantik apa-apa bilangan orang yang Pemulihan. mempunyai pengalaman, pengetahuan dan kepakaran mengenai perkara yang berhubungan dengan hal ehwal Pegawai Pemulihan, rawatan dan pemulihan penagih dadah atau bahan dan penyalah guna dadah atau bahan dan perkara lain sebagaimana yang ditetapkan, untuk menjadi anggota Majlis Profesion Pegawai Pemulihan itu.
+<!-- marginal: Majlis -->
+
+27 c. (1) Menteri hendaklah menubuhkan
+
+<!-- marginal: Profesion -->
+
+suatu Majlis Profesion Pegawai Pemulihan
+
+<!-- marginal: Pegawai -->
+
+dan melantik apa-apa bilangan orang yang
+
+<!-- marginal: Pemulihan. -->
+
+mempunyai pengalaman, pengetahuan dan kepakaran mengenai perkara yang berhubungan dengan hal ehwal Pegawai Pemulihan, rawatan dan pemulihan penagih dadah atau bahan dan penyalah guna dadah atau bahan dan perkara lain sebagaimana yang ditetapkan, untuk menjadi anggota Majlis Profesion Pegawai Pemulihan itu.
 
 (2) Menteri boleh menentukan pembayaran elaun bagi anggota Majlis Profesion Pegawai Pemulihan.”.
 
@@ -420,7 +516,7 @@ Perintah 28b. Ketua Pengarah boleh membuat dan Tetap Ketua mengeluarkan perintah
 
 28. Akta ibu dipinda dengan memasukkan selepas seksyen 31 jadual yang berikut:
 
-“Jadual
+## “JADUAL
 
 [Seksyen 2]
 

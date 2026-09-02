@@ -4,9 +4,7 @@
 
 intituled
 
-An Act to amend the Employees Provident Fund Act
-
-1991. [ ]
+An Act to amend the Employees Provident Fund Act 1991. [ ]
 
 BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
 
@@ -40,15 +38,21 @@ this Act is referred to as the "principal Act", is amended—
 
 <!-- page 2 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Section 2 of the principal Act is amended by inserting, of section 2. after the definition of "amount of wages for the month", the following definition:
+3. Section 2 of the principal Act is amended by inserting,
+
+<!-- marginal: of section 2. -->
+
+after the definition of "amount of wages for the month", the following definition:
 
 ' "chief executive officer" means any person appointed to be a chief executive officer under section 30 of the Act;'.
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Paragraph 26A(2) (c) of the principal Act is amended— of section
+4. Paragraph 26A(2) (c) of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 26A.
 
@@ -58,9 +62,11 @@ Amendment
 
 " Provided that the Minister may vary any limitation imposed on the total amount of the borrowings of the approved company in this paragraph;".
 
-Amendment
+<!-- marginal: Amendment -->
 
-5. Subsection 26B(3) of the principal Act is amended— of section
+5. Subsection 26B(3) of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 26B.
 
@@ -68,9 +74,13 @@ Amendment
 
 (b) by deleting paragraph (d).
 
-New section
+<!-- marginal: New section -->
 
-6. The principal Act is amended by inserting, after section 26c. 26B, the following section:
+6. The principal Act is amended by inserting, after section
+
+<!-- marginal: 26c. -->
+
+26B, the following section:
 
 Power 26c. (1) The Board may, in exercising the of the investment powers under this Act, from time Board to establish to time, with the special approval of the a corpora- Minister— nation or a
 
@@ -84,7 +94,11 @@ Power 26c. (1) The Board may, in exercising the of the investment powers under t
 
 project, joint venture, privatisation programme, scheme, enterprise or any other matters which have been planned or undertaken by the Board.
 
-(2) The Seventh Schedule shall apply to a corporation established under paragraph 1(a) Act 125. and the Companies Act 1965 shall apply to a company incorporated or taken over under paragraph (1)(b) or (c), respectively.".
+(2) The Seventh Schedule shall apply to a corporation established under paragraph 1(a)
+
+<!-- marginal: Act 125. -->
+
+and the Companies Act 1965 shall apply to a company incorporated or taken over under paragraph (1)(b) or (c), respectively.".
 
 <!-- marginal: IIIA. -->
 
@@ -94,7 +108,19 @@ project, joint venture, privatisation programme, scheme, enterprise or any other
 
 ## INVESTMENT BY MEMBER OF THE FUND
 
-Investment 29A. (1) Notwithstanding anything contrary to by member the provisions of this Act, the Board may, subject of the Fund. to any regulations and rules made under this Act, authorize an application for investment, made by a member of the Fund, partly any amount standing to the credit of such member of the Fund in fund management institutions approved by the Minister, subject to such terms and conditions as he thinks fit.
+<!-- marginal: Investment -->
+
+29A. (1) Notwithstanding anything contrary to
+
+<!-- marginal: by member -->
+
+the provisions of this Act, the Board may, subject
+
+<!-- marginal: of the -->
+
+<!-- marginal: Fund. -->
+
+to any regulations and rules made under this Act, authorize an application for investment, made by a member of the Fund, partly any amount standing to the credit of such member of the Fund in fund management institutions approved by the Minister, subject to such terms and conditions as he thinks fit.
 
 (2) Where the Board has authorized such transfer of a sum of money standing to the credit of such member under subsection (1), such amount so authorized shall not be paid dividend as declared by the Board under section 27.".
 
@@ -114,29 +140,27 @@ as he may determine, as chief executive officer, who may be designated by any na
 
 (b) by substituting for subsection (3) the following subsection: " (3) The Board shall appoint such number of other officers or servants, as it considers necessary for the efficient conduct of the business of the Board, on such terms and conditions as may be determined by the Board, who may be designated by any name as determined by the Board.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-9. Section 31 of the principal Act is amended— of section
+9. Section 31 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 31.
 
 (a) by deleting subsections (1), (1A) and (1B);
 
-(b) by substituting for subsection (2) the following subsection: " (2) Subject to subsection
-
-<!-- marginal: (4), -->
-
-<!-- marginal: the -->
-
-disciplinary authority of the Board in respect of officers and servants of the Board shall be the Disciplinary Committee of the Board which shall consist of five members of the Board to be appointed by the Board, one of whom shall be appointed chairman of the Committee.";
+(b) by substituting for subsection (2) the following subsection: " (2) Subject to subsection (4), the disciplinary authority of the Board in respect of officers and servants of the Board shall be the Disciplinary Committee of the Board which shall consist of five members of the Board to be appointed by the Board, one of whom shall be appointed chairman of the Committee.";
 
 (c) in subsection (2A), by substituting for the word "Chairman" the word "chairman"; and
 
 (d) in subsections (3) and (4), by deleting the word "appropriate".
 
-Amendment
+<!-- marginal: Amendment -->
 
-10. Section 33 of the principal Act is amended— of section
+10. Section 33 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 33.
 
@@ -192,29 +216,73 @@ proviso:
 
 <!-- page 6 -->
 
-New sections
+<!-- marginal: New sections -->
 
-14. The principal Act is amended by inserting, after 54A and 54B. section 54, the following sections:
+14. The principal Act is amended by inserting, after
 
-Payment 54A. Where any amount is withdrawn from the of Fund under sections 54, 55 or paid from the dividend in such Fund under section 56, the Board shall pay manner as dividend, on such amount so withdrawn, and determined in such manner as determined by the Board by the Board. from time to time.
+<!-- marginal: 54A and 54B. -->
 
-Date of 54B. For the purpose of withdrawal under this withdrawal. Act, the date of withdrawal shall be—
+section 54, the following sections:
+
+<!-- marginal: Payment -->
+
+54A. Where any amount is withdrawn from the
+
+<!-- marginal: of -->
+
+Fund under sections 54, 55 or paid from the
+
+<!-- marginal: dividend -->
+
+<!-- marginal: in such -->
+
+Fund under section 56, the Board shall pay
+
+<!-- marginal: manner as -->
+
+dividend, on such amount so withdrawn, and
+
+<!-- marginal: determined -->
+
+in such manner as determined by the Board
+
+<!-- marginal: by the -->
+
+<!-- marginal: Board. -->
+
+from time to time.
+
+<!-- marginal: Date of -->
+
+54B. For the purpose of withdrawal under this
+
+<!-- marginal: withdrawal. -->
+
+Act, the date of withdrawal shall be—
 
 (a) where payment is made by a warrant, the date on which the warrant for such withdrawal is issued; and
 
 (b) where payment is made in a manner other than by a warrant, the date on which such amount of withdrawal is debited from the account of such member of the Fund.".
 
-New section
+<!-- marginal: New section -->
 
 15. The principal Act is amended by inserting, after
 
 59A. section 59, the following section:
 
-"court 59A. Where any person is found guilty of an order. offence under subsection 59(b), the court before which such person is found guilty shall order such person to furnish or produce any declaration, return, certificate or other document required by this Act or any regulations or rules thereunder to be furnished or produced.".
+<!-- marginal: "court -->
 
-Amendment
+59A. Where any person is found guilty of an
 
-16. Section 71 of the principal Act is amended— of section
+<!-- marginal: order. -->
+
+offence under subsection 59(b), the court before which such person is found guilty shall order such person to furnish or produce any declaration, return, certificate or other document required by this Act or any regulations or rules thereunder to be furnished or produced.".
+
+<!-- marginal: Amendment -->
+
+16. Section 71 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 71.
 
@@ -276,23 +344,31 @@ wherever appearing therein.
 
 <!-- page 8 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-19. The Fifth Schedule of the principal Act is amended of the Fifth by inserting, after paragraph (3), the following paragraph:
+19. The Fifth Schedule of the principal Act is amended
+
+<!-- marginal: of the Fifth -->
+
+by inserting, after paragraph (3), the following paragraph:
 
 ## Schedule.
 
 " (4) For the purpose of this Schedule, a member's credit at the time of death shall not include the amount so invested under Part IIIA.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-20. The Sixth Schedule of the principal Act is amended of the Sixth by inserting, after paragraph (3), the following paragraph:
+20. The Sixth Schedule of the principal Act is amended
+
+<!-- marginal: of the Sixth -->
+
+by inserting, after paragraph (3), the following paragraph:
 
 ## Schedule.
 
 " (4) For the purpose of this Schedule, a member's credit at the time of incapacity shall not include the amount so invested under Part IIIA.".
 
-New Seventh
+<!-- marginal: New Seventh -->
 
 21. The principal Act is amended by inserting, after the
 

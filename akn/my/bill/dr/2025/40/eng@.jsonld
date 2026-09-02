@@ -252,7 +252,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/40/eng@/~cl_15",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (2)— New sections 29a and 29b"
+        "@value": "in subsection (2)—"
       }
     },
     {
@@ -272,7 +272,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/40/eng@/~cl_15__para_b",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for the words “five thousand” the words “one hundred thousand”."
+        "@value": "by substituting for the words “five thousand” the words “one hundred thousand”. New sections 29a and 29b"
       }
     },
     {
@@ -640,7 +640,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/40/eng@/~cl_8",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (7)— New section 20a"
+        "@value": "in subsection (7)—"
       }
     },
     {
@@ -660,7 +660,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/40/eng@/~cl_8__para_c",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for the words “twenty-five thousand” the words “two hundred and fifty thousand”."
+        "@value": "by substituting for the words “twenty-five thousand” the words “two hundred and fifty thousand”. New section 20a"
       }
     },
     {

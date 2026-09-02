@@ -1,0 +1,149 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-31-2002",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/eng@/~cl_3"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Majlis Amanah Rakyat (Amendment) Bill 2002"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Majlis Amanah Rakyat (Amendment) Act 2002. Amendment of section 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/eng@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Majlis Amanah Rakyat Act 1966 [Act489], which is referred to as the \"principal Act\" in this Act, is amended in section 6—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/eng@/~cl_2__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/eng@/~cl_2__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/eng@/~cl_2__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/eng@/~cl_2__para_a__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/eng@/~cl_2__para_a__subpara_v"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/eng@/~cl_2__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/eng@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"Minister,\" the words \"and in the case of the power set out in paragraph (d), the concurrence of the Minister of Finance,\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/eng@/~cl_2__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/eng@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (c) the following paragraph: \"(c) to carry on such activities in association with any person, public authority, corporation, company or other body (including the Federal Government or any State Government) as managing agent on its behalf or otherwise;\"; Bill"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/eng@/~cl_2__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/eng@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (c) the following paragraphs: \"(ca) for the purpose of carrying on any such activities, to enter into a partnership, joint venture or co-operation in any manner or to enter into an arrangement for the sharing of profits; (cb) to establish or promote the establishment of companies under the Companies Act 1965 [Act 125] to carry on or engage in any activity which has been planned or undertaken by the Majlis (including the taking over of the functions of a corporation which has been wound up and dissolved under Schedule lV);\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/eng@/~cl_2__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/eng@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (d) the following paragraph: \"(d) to purchase, underwrite or otherwise acquire shares and securities of any public authority, corporation, company or other body, and to sell, hold or reissue, with or without guarantee, such shares and securities or otherwise dispose of or deal with them as the Majlis may determine;\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/eng@/~cl_2__para_a__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/eng@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (e) the following paragraph: \"(e) to establish, operate and maintain training and educational institutions and to do all things expedient or reasonably necessary for or incidental to the performance of this function; and\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: \"(3) Notwithstanding any other provision in this Act or section 95 of the Private Higher Educational Institutions Act 1996 [Act 555], the Private Higher Educational Institutions Act 1996 shall apply to an educational institution established, operated and maintained under paragraph (2)(e)\". Validation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every act or thing done by the Majlis or the Minister or by both before the commencement of this Act that would have been lawful if subsection 6(2) of the principal Act had contained the provisions inserted by section 2 of this Act at the time when it was done is hereby validated and declared to have been lawfully done."
+      }
+    }
+  ]
+}

@@ -344,7 +344,9 @@ when the matter is discussed or decided upon.
 
 (6) The members of a committee or any person invited to attend any meeting of a committee may be paid such allowances and other expenses as the Corporation may determine.
 
-(7) Meetings of a committee shall be held at such times and places as the chairman of the committee may, subject to subsection (5), determine.
+(7) Meetings of a committee shall be held at such times and places as the chairman of the committee may, subject to subsection
+
+(5), determine.
 
 ### Delegation of the Corporation's functions or powers
 

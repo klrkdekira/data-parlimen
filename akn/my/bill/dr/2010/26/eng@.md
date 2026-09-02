@@ -14,13 +14,29 @@
 
 ## THE PERBADANAN
 
-3. The Perbadanan and its objectives 4. Functions of the Perbadanan 5. Powers of the Perbadanan 6. Membership of the Perbadanan 7. Tenure of office 8. Temporary exercise of functions of Chairman 9. Revocation of appointment and resignation 10. Vacation of office and filling of vacancy 11. Allowance 12. Power of Minister to give directions 13. Returns, reports, accounts and information 14. Delegation of the Perbadanan’s functions and powers 15. The Perbadanan may establish committees
+3. The Perbadanan and its objectives 4. Functions of the Perbadanan 5. Powers of the Perbadanan 6. Membership of the Perbadanan 7. Tenure of office 8. Temporary exercise of functions of Chairman 9. Revocation of appointment and resignation
+
+10. Vacation of office and filling of vacancy
+
+11. Allowance
+
+12. Power of Minister to give directions
+
+13. Returns, reports, accounts and information
+
+14. Delegation of the Perbadanan’s functions and powers
+
+15. The Perbadanan may establish committees
 
 ## PART III
 
 ## CHIEF EXECUTIVE OFFICER, OFFICERS AND SERVANTS OF THE PERBADANAN
 
-16. The Chief Executive Officer 17. Employment of other officers and servants of the Perbadanan 18. Financial assistance to officers, servants and other persons
+16. The Chief Executive Officer
+
+17. Employment of other officers and servants of the Perbadanan
+
+18. Financial assistance to officers, servants and other persons
 
 <!-- page 2 -->
 
@@ -84,7 +100,25 @@
 
 ## REPEAL, SAVINGS AND TRANSITIONAL
 
-40. Repeal and dissolution 41. Transfer of powers, etc. 42. Transfer of property 43. Existing contracts 44. Transfer of moneys in funds 45. Membership of dissolved Corporation 46. Continuance of officers and servants 47. Continuance of civil and criminal proceedings 48. Reference in law or document to dissolved Corporation 49. Continuance of use of name
+40. Repeal and dissolution
+
+41. Transfer of powers, etc.
+
+42. Transfer of property
+
+43. Existing contracts
+
+44. Transfer of moneys in funds
+
+45. Membership of dissolved Corporation
+
+46. Continuance of officers and servants
+
+47. Continuance of civil and criminal proceedings
+
+48. Reference in law or document to dissolved Corporation
+
+49. Continuance of use of name
 
 ## SCHEDULE
 
@@ -360,7 +394,9 @@ and any function or power so delegated may be performed or exercised by the memb
 
 (12) Any minutes made of a meeting of a committee shall, if duly signed, be admissible in evidence in all legal proceedings without further proof.
 
-(13) Every meeting of a committee in respect of the proceedings of which minutes have been made in accordance with subsections (11) and (12) shall be deemed to have been duly convened and held and all members thereat to have been duly qualified to act.
+(13) Every meeting of a committee in respect of the proceedings of which minutes have been made in accordance with subsections
+
+(11) and (12) shall be deemed to have been duly convened and held and all members thereat to have been duly qualified to act.
 
 ## PART III
 

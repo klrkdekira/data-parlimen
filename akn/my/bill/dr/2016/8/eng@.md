@@ -176,7 +176,9 @@ land, either that he has consented to the application or that his consent ought 
 
 (7) As soon as may be after the sum referred to in subsection (6) has been paid, the Land Administrator shall endorse, or cause to be endorsed, a memorial to effect such extended term on the register document of title to the land and on the issue document of title if he is able to secure or when the title is produced to him.
 
-(8) In the case of land with subdivided building, the application may be made by the management corporation on the authority of a unanimous resolution and such application shall be regarded as an application in respect of the alienated land and provisional block, if any, consist therein and in the case where the payment is made upon approval of the application in accordance with the foregoing provisions, the memorial to be endorsed as provided under subsection (7) shall be construed to apply also to the subsidiary titles relating to the approval.
+(8) In the case of land with subdivided building, the application may be made by the management corporation on the authority of a unanimous resolution and such application shall be regarded as an application in respect of the alienated land and provisional block, if any, consist therein and in the case where the payment is made upon approval of the application in accordance with the foregoing provisions, the memorial to be endorsed as provided under subsection
+
+(7) shall be construed to apply also to the subsidiary titles relating to the approval.
 
 (9) Nothing in this section shall preclude the State Authority from considering the application together with any other application provided under this Act.”.
 

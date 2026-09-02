@@ -22,7 +22,9 @@
 
 11. False representation and other misleading conduct in relation to land
 
-12. Misleading indication as to price 13. Bait advertising
+12. Misleading indication as to price
+
+13. Bait advertising
 
 14. Gifts, prizes, free offers, etc.
 
@@ -58,13 +60,33 @@
 
 ## PARTS II AND III
 
-25. Contravention of Parts II and III to be an offence 26. Offence caused by act or default of another person 27. Defence of mistake, accident, etc. 28. Defence of innocent publication of advertisement 29. Power of court to grant ancillary relief
+25. Contravention of Parts II and III to be an offence
+
+26. Offence caused by act or default of another person
+
+27. Defence of mistake, accident, etc.
+
+28. Defence of innocent publication of advertisement
+
+29. Power of court to grant ancillary relief
 
 ## PART V
 
 ## GUARANTEES IN RESPECT OF SUPPLY OF GOODS
 
-30. Application 31. Implied guarantee as to title 32. Implied guarantee as to acceptable quality 33. Implied guarantee as to fitness for particular purpose 34. Implied guarantee that goods comply with description 35. Implied guarantee that goods comply with sample 36. Implied guarantee as to price 37. Implied guarantee as to repairs and spare parts 38. Manufacturer's express guarantee
+30. Application
+
+31. Implied guarantee as to title 32. Implied guarantee as to acceptable quality 33. Implied guarantee as to fitness for particular purpose
+
+34. Implied guarantee that goods comply with description
+
+35. Implied guarantee that goods comply with sample
+
+36. Implied guarantee as to price
+
+37. Implied guarantee as to repairs and spare parts
+
+38. Manufacturer's express guarantee
 
 <!-- page 3 -->
 
@@ -112,13 +134,7 @@
 
 ## GUARANTEES IN RESPECT OF SUPPLY OF SERVICES
 
-53. Implied guarantee as to reasonable care and skill
-
-54. Implied guarantee as to fitness for particular purpose
-
-55. Implied guarantee as to time of completion
-
-56. Implied guarantee as to price
+53. Implied guarantee as to reasonable care and skill 54. Implied guarantee as to fitness for particular purpose 55. Implied guarantee as to time of completion 56. Implied guarantee as to price
 
 ## PART IX
 
@@ -126,25 +142,59 @@
 
 ## GUARANTEES IN THE SUPPPLY OF SERVICES
 
-57. Consumer's right of redress against suppliers
-
-58. Exceptions to right of redress against supplier in relation to services
+57. Consumer's right of redress against suppliers 58. Exceptions to right of redress against supplier in relation to services
 
 <!-- page 4 -->
 
-Bill 59. Contracts of work and materials 60. Options against suppliers where services do not comply with guarantees 61. Loss of right to cancel contract 62. Failure of substantial character 63. Rules applying to cancellation of contract 64. Effect of cancellation of contract 65. Power of court to grant ancillary relief
+Bill 59. Contracts of work and materials 60. Options against suppliers where services do not comply with guarantees 61. Loss of right to cancel contract
+
+62. Failure of substantial character
+
+63. Rules applying to cancellation of contract 64. Effect of cancellation of contract
+
+65. Power of court to grant ancillary relief
 
 ## PART X
 
 ## PRODUCT LIABILITY
 
-66. Interpretation 67. Meaning of "defect" 68. Liability for defective products 69. Extent of liability for loss or damage 70. Application of other written law 71. Prohibition on exclusion from liability 72. Defences
+66. Interpretation
+
+67. Meaning of "defect" 68. Liability for defective products
+
+69. Extent of liability for loss or damage
+
+70. Application of other written law
+
+71. Prohibition on exclusion from liability
+
+72. Defences
 
 ## PART XI
 
 ## THE NATIONAL CONSUMER ADVISORY COUNCIL
 
-73. Establishment of the National Consumer Advisory Council 74. Membership of Council 75. Temporary exercise of functions of Chairman 76. Vacation of office 77. Revocation of appointment 78. Resignation 79. Filling of vacancy 80. Secretary to Council and other officers 81. Allowance 82. Council may invite others to meetings 83. Validity of acts and proceedings 84. Regulations relating to the Council
+73. Establishment of the National Consumer Advisory Council
+
+74. Membership of Council
+
+75. Temporary exercise of functions of Chairman
+
+76. Vacation of office
+
+77. Revocation of appointment
+
+78. Resignation
+
+79. Filling of vacancy
+
+80. Secretary to Council and other officers
+
+81. Allowance
+
+82. Council may invite others to meetings
+
+83. Validity of acts and proceedings 84. Regulations relating to the Council
 
 <!-- page 5 -->
 
@@ -154,35 +204,7 @@ Consumer Protection
 
 ## THE TRIBUNAL FOR CONSUMER CLAIMS
 
-85. Establishment of the Tribunal for Consumer Claims
-
-86. Membership of Tribunal
-
-87. Temporary exercise of functions of Chairman
-
-88. Vacation of office
-
-89. Revocation of appointment
-
-90. Resignation
-
-91. Filling of vacancy
-
-92. Remuneration
-
-93. Secretary to Tribunal and other officers
-
-94. Public servant
-
-95. No action to lie against Tribunal
-
-96. Sittings of Tribunal
-
-97. Commencement of proceedings
-
-98. Jurisdiction of Tribunal
-
-99. Limitation of jurisdiction
+85. Establishment of the Tribunal for Consumer Claims 86. Membership of Tribunal 87. Temporary exercise of functions of Chairman 88. Vacation of office 89. Revocation of appointment 90. Resignation 91. Filling of vacancy 92. Remuneration 93. Secretary to Tribunal and other officers 94. Public servant 95. No action to lie against Tribunal 96. Sittings of Tribunal 97. Commencement of proceedings 98. Jurisdiction of Tribunal 99. Limitation of jurisdiction
 
 100. Extension of jurisdiction by agreement
 
@@ -218,19 +240,67 @@ Consumer Protection
 
 <!-- page 6 -->
 
-116. Decisions of Tribunal to be final 117. Criminal penalty for failure to comply 118. Procedure where no provision is made 119. Want of form 120. Disposal of documents, etc. 121. Act or omission done in good faith 122. Regulations in respect of the Tribunal
+116. Decisions of Tribunal to be final
+
+117. Criminal penalty for failure to comply
+
+118. Procedure where no provision is made
+
+119. Want of form
+
+120. Disposal of documents, etc.
+
+121. Act or omission done in good faith
+
+122. Regulations in respect of the Tribunal
 
 ## PART XIII
 
 ## ENFORCEMENT
 
-123. Power of investigation 124. Authority cards 125. Search by warrant 126. Search and seizure without warrant 127. List of things seized 128. Power to require attendance of person acquainted with case 129. Examination of person acquainted with case 130. Statement to be admissible in evidence 131. Forfeiture of goods, etc., seized 132. Cost of holding goods, etc., seized 133. No costs or damages arising from seizure to be recoverable 134. Protection of informers 135. Reward for information 136. Disappearance or destruction of goods, etc., to be seized 137. Offences with respect to information 138. Obstruction of Assistant Controller 139. Use of confidential information
+123. Power of investigation
+
+124. Authority cards
+
+125. Search by warrant
+
+126. Search and seizure without warrant
+
+127. List of things seized
+
+128. Power to require attendance of person acquainted with case
+
+129. Examination of person acquainted with case
+
+130. Statement to be admissible in evidence
+
+131. Forfeiture of goods, etc., seized
+
+132. Cost of holding goods, etc., seized
+
+133. No costs or damages arising from seizure to be recoverable
+
+134. Protection of informers
+
+135. Reward for information
+
+136. Disappearance or destruction of goods, etc., to be seized
+
+137. Offences with respect to information
+
+138. Obstruction of Assistant Controller
+
+139. Use of confidential information
 
 ## PART XIV
 
 ## GENERAL AND MISCELLANEOUS
 
-140. Receipts 141. Power to order compliance 142. Failure to comply with lawful order
+140. Receipts
+
+141. Power to order compliance
+
+142. Failure to comply with lawful order
 
 <!-- page 7 -->
 
@@ -268,9 +338,7 @@ BE IT ENACTED by the Parliament of Malaysia as follows:
 
 ### Short title and commencement
 
-1. (1) This Act may be cited as the Consumer Protection Act
-
-1999.
+1. (1) This Act may be cited as the Consumer Protection Act 1999.
 
 (2) This Act shall come into operation on a date to be appointed by the Minister, by notification in the Gazette, and the Minister may appoint different dates for different provisions of this Act.
 
@@ -604,7 +672,9 @@ contract but does not include rights, benefits or privileges in the form of the 
 
 (b) a right, power or privilege over or in connection with the land.
 
-(3) This section does not apply to housing accommodation as provided under the Housing Developers (Control and Licensing) Act 1966 [Act 118] except as may be prescribed under section 103.
+(3) This section does not apply to housing accommodation as provided under the Housing Developers (Control and Licensing) Act 1966 [Act 118] except as may be prescribed under section
+
+103.
 
 ### Misleading indication as to price
 
@@ -800,7 +870,9 @@ and may prescribe different safety standards for different goods or services, or
 
 (b) obtain advice from experts in the relevant field.
 
-(4) Where no safety standard has been prescribed under subsection (1), the person supplying or offering to supply the goods or services shall adopt and observe a reasonable standard of safety to be expected by a reasonable consumer, due regard being had to the nature of the goods or services concerned.
+(4) Where no safety standard has been prescribed under subsection
+
+(1), the person supplying or offering to supply the goods or services shall adopt and observe a reasonable standard of safety to be expected by a reasonable consumer, due regard being had to the nature of the goods or services concerned.
 
 <!-- page 26 -->
 
@@ -1024,7 +1096,9 @@ to the person who suffered, or is likely to suffer, the loss or damage, as the c
 
 (3) The advice given by the supplier under subsection (2) shall be as may be sufficient to enable a reasonable consumer to understand the general nature and effect of the variation.
 
-(4) Where a consumer has received oral advice under subsection (2)—
+(4) Where a consumer has received oral advice under subsection
+
+(2)—
 
 (a) the supplier shall give to the consumer a written copy of the security or agreement for supply or a written copy of the part thereof which provides for the variation as explained to the consumer under subsection (2); and
 
@@ -2076,7 +2150,9 @@ as the Minister may determine.
 
 101. (1) A claimant may abandon so much of a claim as exceeds ten thousand ringgit in order to bring the claim within the jurisdiction of the Tribunal.
 
-(2) Where a part of a claim has been abandoned under subsection (1), the Tribunal's record of an agreed settlement under subsection 107(3) or the Tribunal's award under section 112, as the case may require, in relation to the claim shall operate to discharge the person—
+(2) Where a part of a claim has been abandoned under subsection
+
+(1), the Tribunal's record of an agreed settlement under subsection 107(3) or the Tribunal's award under section 112, as the case may require, in relation to the claim shall operate to discharge the person—
 
 (a) who is a party to that agreed settlement; or
 
@@ -2150,7 +2226,9 @@ the Tribunal shall proceed to determine the dispute.
 
 (b) a minor or any other person under a disability may be represented by his next friend or guardian ad litem.
 
-(4) Where a party is represented as provided under subsection (3), the Tribunal may impose such conditions as it considers necessary to ensure that the other party to the proceedings is not substantially disadvantaged.
+(4) Where a party is represented as provided under subsection
+
+(3), the Tribunal may impose such conditions as it considers necessary to ensure that the other party to the proceedings is not substantially disadvantaged.
 
 ### Proceedings to be public
 
@@ -2430,9 +2508,7 @@ before which the prosecution with regard thereto has been held and an order for 
 
 (5) On receipt of the notice referred to in subsection (4), the Assistant Controller shall refer the matter to a Magistrate for a decision.
 
-(6) The Magistrate to whom a matter is referred under subsection
-
-(5) shall issue a summons requiring the person asserting that he is the owner of the goods, thing, book, document, record or other article and the person from whom they were seized, to appear before the Magistrate and on their appearance or default to appear, due service of the summons having been proved, the Magistrate shall proceed to the examination of the matter and on proof that an offence under this Act has been committed and that such goods, thing, book, document, record or other article was the subject- matter of or was used in the commission of such offence, shall order the same to be forfeited and shall, in the absence of such proof, order their release.
+(6) The Magistrate to whom a matter is referred under subsection (5) shall issue a summons requiring the person asserting that he is the owner of the goods, thing, book, document, record or other article and the person from whom they were seized, to appear before the Magistrate and on their appearance or default to appear, due service of the summons having been proved, the Magistrate shall proceed to the examination of the matter and on proof that an offence under this Act has been committed and that such goods, thing, book, document, record or other article was the subject- matter of or was used in the commission of such offence, shall order the same to be forfeited and shall, in the absence of such proof, order their release.
 
 <!-- page 82 -->
 
@@ -2604,7 +2680,9 @@ of any person (the "principal"), the principal shall be deemed to have committed
 
 (2) An offer under subsection ( 1) may be made at any time after the offence has been committed, but before any prosecution for it has been instituted, and where the amount specified in the offer is not paid within the time specified in the offer or within such extended period as the Controller or the Deputy Controller or any person authorized in writing by the Controller may grant, prosecution for the offence may be instituted at any time thereafter against the person to whom the offer was made.
 
-(3) Where an offence has been compounded under subsection (1)—
+(3) Where an offence has been compounded under subsection
+
+(1)—
 
 (a) no prosecution shall thereafter be instituted in respect of such offence against the person to whom the offer to compound was made; and
 

@@ -42,15 +42,25 @@ diperuntukkan dengan sepenuhnya oleh Akta Perbekalan
 
 <!-- marginal: Akta A787, -->
 
-dan Akta Perbekalan Tambahan (1989 dan 1990) (No. 2)
-
-1990. (2) Wang yang tersebut itu adalah diperuntukkan bagi maksud yang dinyatakan dalam Jadual Pertama.
+dan Akta Perbekalan Tambahan (1989 dan 1990) (No. 2) 1990. (2) Wang yang tersebut itu adalah diperuntukkan bagi maksud yang dinyatakan dalam Jadual Pertama.
 
 <!-- page 2 -->
 
-Perbelanjaan 3. (1) Maka adalah dibenarkan supaya dikeluarkan tambahan sejumlah wang yang tidak melebihi dua ratus lima juta bagi tahun
+<!-- marginal: Perbelanjaan -->
 
-1991. lima puluh sembilan ribu satu ratus ringgit ($205,059,100) daripada Kumpulan Wang Disatukan bagi perbelanjaan untuk perkhidmatan-perkhidmatan yang dinyatakan dalam Jadual Kedua bagi perkhidmatan tahun 1991, yang tidak diperuntukkan atau yang tidak diperuntukkan Akta A788. dengan sepenuhnya oleh Akta Perbekalan 1991. (2) Wang yang tersebut itu adalah diperuntukkan bagi maksud-maksud yang dinyatakan dalam Jadual Kedua.
+3. (1) Maka adalah dibenarkan supaya dikeluarkan
+
+<!-- marginal: tambahan -->
+
+sejumlah wang yang tidak melebihi dua ratus lima juta
+
+<!-- marginal: bagi tahun -->
+
+1991. lima puluh sembilan ribu satu ratus ringgit ($205,059,100) daripada Kumpulan Wang Disatukan bagi perbelanjaan untuk perkhidmatan-perkhidmatan yang dinyatakan dalam Jadual Kedua bagi perkhidmatan tahun 1991, yang tidak diperuntukkan atau yang tidak diperuntukkan
+
+<!-- marginal: Akta A788. -->
+
+dengan sepenuhnya oleh Akta Perbekalan 1991. (2) Wang yang tersebut itu adalah diperuntukkan bagi maksud-maksud yang dinyatakan dalam Jadual Kedua.
 
 ## JADUAL PERTAMA
 
@@ -58,9 +68,7 @@ Perbelanjaan 3. (1) Maka adalah dibenarkan supaya dikeluarkan tambahan sejumlah 
 
 <!-- marginal: Peruntukan -->
 
-<!-- marginal: kepada maksud -->
-
-B. 2
+kepada maksud B. 2
 
 <!-- marginal: 80,700 -->
 
@@ -72,11 +80,7 @@ B. 5
 
 <!-- marginal: 580,300 -->
 
-Suruhanjaya Perkhidmatan Awam Jabatan Perdana Menteri B. 7
-
-<!-- marginal: 135,100.000 -->
-
-B. 10 Jabatan Peguam Negara
+Suruhanjaya Perkhidmatan Awam Jabatan Perdana Menteri B. 7 135,100.000 B. 10 Jabatan Peguam Negara
 
 <!-- marginal: 959.800 -->
 
@@ -104,11 +108,7 @@ B. 29 Perkhidmatan Am Perbendaharaan
 
 <!-- marginal: 60,000,000 -->
 
-B. 30 Peruntukan kepada Kumpulan Wang
-
-<!-- marginal: 2,079,000,000 -->
-
-Terkanun B. 34 Kementerian Kesihatan
+B. 30 Peruntukan kepada Kumpulan Wang 2,079,000,000 Terkanun B. 34 Kementerian Kesihatan
 
 <!-- marginal: 20,000,000 -->
 
@@ -140,7 +140,7 @@ Kementerian Pembangunan Luar Bandar
 
 ## JUMLAH
 
-<!-- marginal: 2,541,470,000 -->
+2,541,470,000
 
 <!-- page 3 -->
 
@@ -150,7 +150,47 @@ Kementerian Pembangunan Luar Bandar
 
 ## JADUAL KEDUA
 
-(Seksyen 3) Tajuk Peruntukan Maksud kepada maksud Jabatan Perdana Menteri B. 7 5,782,000 Kementerian Pertanian B. 19 45.686,600 B. 20 Kementerian Perdagangan Antarabangsa 2,342,500 dan Industri B. 21 2,069.000 Kementerian Perdagangan Dalam Negeri dan Hal Ehwal Pengguna Peruntukan kepada Kumpulan Wang B. 30 100,500,000 Terkanun Polis DiRaja Malaysia B. 36 10,000,000 Kementerian Kerja Raya B. 52 12,000,000 Kementerian Pembangunan Luar Bandar B. 54 24,717,000 Kementerian Perpaduan Negara dan B. 56 1,962,000 Pembangunan Masyarakat
+(Seksyen 3) Tajuk
+
+<!-- marginal: Peruntukan -->
+
+Maksud
+
+<!-- marginal: kepada maksud -->
+
+Jabatan Perdana Menteri B. 7
+
+<!-- marginal: 5,782,000 -->
+
+Kementerian Pertanian B. 19
+
+<!-- marginal: 45.686,600 -->
+
+B. 20 Kementerian Perdagangan Antarabangsa
+
+<!-- marginal: 2,342,500 -->
+
+dan Industri B. 21
+
+<!-- marginal: 2,069.000 -->
+
+Kementerian Perdagangan Dalam Negeri dan Hal Ehwal Pengguna Peruntukan kepada Kumpulan Wang B. 30 100,500,000 Terkanun Polis DiRaja Malaysia B. 36
+
+<!-- marginal: 10,000,000 -->
+
+Kementerian Kerja Raya B. 52
+
+<!-- marginal: 12,000,000 -->
+
+Kementerian Pembangunan Luar Bandar B. 54
+
+<!-- marginal: 24,717,000 -->
+
+Kementerian Perpaduan Negara dan B. 56
+
+<!-- marginal: 1,962,000 -->
+
+Pembangunan Masyarakat
 
 ## JUMLAH
 

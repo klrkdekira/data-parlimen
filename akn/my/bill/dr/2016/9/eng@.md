@@ -220,7 +220,7 @@ may give exemption to the documents in paragraphs (1)(e) and (i) or require any 
 
 18. The principal Act is amended by inserting after Part IV the following parts:
 
-“Part IVa
+## “PART IVA
 
 ## COLLECTION OF RENT
 
@@ -326,9 +326,7 @@ In this Part, unless the context otherwise requires—
 
 ### Effect of payment of sum demanded
 
-### 23g.
-
-If the whole of the sum demanded in Form 11 is paid to the Land Administrator within the time specified therein, the notice shall cease to have effect, and the Land Administrator shall cancel, or cause to be cancelled, the note endorsed pursuant to subsection 23e(3) on the register document of title to the parcel or provisional block to which the notice relates.
+23G. If the whole of the sum demanded in Form 11 is paid to the Land Administrator within the time specified therein, the notice shall cease to have effect, and the Land Administrator shall cancel, or cause to be cancelled, the note endorsed pursuant to subsection 23e(3) on the register document of title to the parcel or provisional block to which the notice relates.
 
 ### Forfeiture for non-payment of sum demanded
 
@@ -384,21 +382,17 @@ If the whole of the sum demanded in Form 11 is paid to the Land Administrator wi
 
 ### Effect of termination of subdivision
 
-### 23 j.
-
-In relation to the memorial made pursuant to subsection 57(2), the Registrar shall make a memorial on the register and issue documents of title to the lot, the date on which the rent of the lot comes into operation the next following calendar year at the recent revision pursuant to section 101 of the National Land Code.
+23J. In relation to the memorial made pursuant to subsection 57(2), the Registrar shall make a memorial on the register and issue documents of title to the lot, the date on which the rent of the lot comes into operation the next following calendar year at the recent revision pursuant to section 101 of the National Land Code.
 
 <!-- page 16 -->
 
-Part IVb
+## PART IVB
 
 ## FORFEITURE AND VESTING
 
 ### Interpretation
 
-### 23k.
-
-In this Part, unless the context otherwise requires—
+23K. In this Part, unless the context otherwise requires—
 
 “transferee” means statutory authority prescribed to be registered as new proprietor by way of vesting to hold the parcel or provisional block on behalf, and for the benefit, of the State Authority;
 
@@ -636,7 +630,7 @@ In this Part, unless the context otherwise requires—
 
 <!-- page 25 -->
 
-“Seventh Schedule
+## “SEVENTH SCHEDULE
 
 [Section 57a]
 

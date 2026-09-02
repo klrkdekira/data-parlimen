@@ -22,101 +22,127 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 2 -->
 
-## Jadual
+## JADUAL
 
-Maksud Tajuk
+<!-- marginal: Maksud -->
+
+Tajuk
 
 <!-- marginal: Amaun -->
 
 <!-- marginal: (RM) -->
 
-B. 1 Parlimen
+<!-- marginal: B. 1 -->
+
+Parlimen
 
 <!-- marginal: 11,305,000 -->
 
-B. 6 Jabatan Perdana Menteri
+<!-- marginal: B. 6 -->
 
-<!-- marginal: 317,383,200 -->
+Jabatan Perdana Menteri 317,383,200
 
-B. 8 Jabatan Peguam Negara
+<!-- marginal: B. 8 -->
+
+Jabatan Peguam Negara
 
 <!-- marginal: 1,000,000 -->
 
-B. 11 Perkhidmatan Am Perbendaharaan
+<!-- marginal: B. 11 -->
 
-<!-- marginal: 6,000,000,000 -->
+Perkhidmatan Am Perbendaharaan 6,000,000,000
 
-B. 13 Kementerian Luar Negeri
+<!-- marginal: B. 13 -->
+
+Kementerian Luar Negeri
 
 <!-- marginal: 27,980,000 -->
 
-B. 20 Kementerian Perusahaan Perladangan dan
+<!-- marginal: B. 20 -->
 
-<!-- marginal: 786,200,000 -->
+Kementerian Perusahaan Perladangan dan 786,200,000 Komoditi
 
-Komoditi B. 21 Kementerian Pertanian dan Industri Asas Tani
+<!-- marginal: B. 21 -->
 
-<!-- marginal: 1,383,802,500 -->
+Kementerian Pertanian dan Industri Asas Tani 1,383,802,500
 
-B. 22 Kementerian Kemajuan Luar Bandar dan
+<!-- marginal: B. 22 -->
 
-<!-- marginal: 213,300,000 -->
+Kementerian Kemajuan Luar Bandar dan 213,300,000 Wilayah
 
-Wilayah B. 23 Kementerian Sumber Asli dan Alam Sekitar
+<!-- marginal: B. 23 -->
+
+Kementerian Sumber Asli dan Alam Sekitar
 
 <!-- marginal: 38,500,000 -->
 
-B. 24 Kementerian Perdagangan Antarabangsa dan
+<!-- marginal: B. 24 -->
+
+Kementerian Perdagangan Antarabangsa dan
 
 <!-- marginal: 13,123,000 -->
 
-Industri B. 27 Kementerian Kerja Raya
+Industri
 
-<!-- marginal: 100,000,000 -->
+<!-- marginal: B. 27 -->
 
-B. 28 Kementerian Pengangkutan
+Kementerian Kerja Raya 100,000,000
 
-<!-- marginal: 198,740,000 -->
+<!-- marginal: B. 28 -->
 
-B. 30 Kementerian Sains, Teknologi dan Inovasi
+Kementerian Pengangkutan 198,740,000
+
+<!-- marginal: B. 30 -->
+
+Kementerian Sains, Teknologi dan Inovasi
 
 <!-- marginal: 7,730,000 -->
 
-B. 32 Kementerian Wilayah Persekutuan dan
+<!-- marginal: B. 32 -->
+
+Kementerian Wilayah Persekutuan dan
 
 <!-- marginal: 15,000,000 -->
 
-Kesejahteraan Bandar B. 41 Kementerian Pelajaran
+Kesejahteraan Bandar
 
-<!-- marginal: 1,540,369,000 -->
+<!-- marginal: B. 41 -->
 
-B. 42 Kementerian Kesihatan
+Kementerian Pelajaran 1,540,369,000
 
-<!-- marginal: 1,037,800,000 -->
+<!-- marginal: B. 42 -->
 
-B. 43 Kementerian Perumahan dan Kerajaan
+Kementerian Kesihatan 1,037,800,000
 
-<!-- marginal: 442,149,000 -->
+<!-- marginal: B. 43 -->
 
-Tempatan B. 47 Kementerian Penerangan, Komunikasi dan
+Kementerian Perumahan dan Kerajaan 442,149,000 Tempatan
+
+<!-- marginal: B. 47 -->
+
+Kementerian Penerangan, Komunikasi dan
 
 <!-- marginal: 70,283,700 -->
 
-Kebudayaan B. 48 Kementerian Pembangunan Wanita, Keluarga
+Kebudayaan
 
-<!-- marginal: 458,750,000 -->
+<!-- marginal: B. 48 -->
 
-dan Masyarakat B. 60 Kementerian Pertahanan
+Kementerian Pembangunan Wanita, Keluarga 458,750,000 dan Masyarakat
 
-<!-- marginal: 493,297,600 -->
+<!-- marginal: B. 60 -->
 
-B. 62 Kementerian Dalam Negeri
+Kementerian Pertahanan 493,297,600
+
+<!-- marginal: B. 62 -->
+
+Kementerian Dalam Negeri
 
 <!-- marginal: 30,000,000 -->
 
-Jumlah
+## JUMLAH
 
-<!-- marginal: 13,186,713,000 -->
+13,186,713,000
 
 <!-- page 3 -->
 

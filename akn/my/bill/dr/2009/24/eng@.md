@@ -78,17 +78,13 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (i) in paragraph (a), by substituting for the words "a centre for offshore" the words "an international centre for business and";
 
-in paragraph ( b ) , by substituting for the words (ii) "offshore financial services in Labuan, and to make recommendations to the Minister in respect thereof." the words "the international business and financial services in Labuan; and"; and
+in paragraph ( b ) , by substituting for the words
+
+(ii) "offshore financial services in Labuan, and to make recommendations to the Minister in respect thereof." the words "the international business and financial services in Labuan; and"; and
 
 (iii) by inserting after paragraph ( b ) the following paragraph:
 
-" ( c ) to act as the central regulatory, supervisory and enforcement authority
-
-<!-- marginal: of -->
-
-<!-- marginal: the -->
-
-international business and financial services industry in Labuan.".
+" ( c ) to act as the central regulatory, supervisory and enforcement authority of the international business and financial services industry in Labuan.".
 
 <!-- page 4 -->
 
@@ -110,11 +106,7 @@ subsection (1)-
 
 (iv) by substituting for paragraph ( f ) the following paragraph:
 
-" ( f ) to co-operate with Labuan
-
-<!-- marginal: financial -->
-
-institutions and professional and industry associations in Labuan to promote and provide financial services and to foster high standards for Labuan financial services;";
+" ( f ) to co-operate with Labuan financial institutions and professional and industry associations in Labuan to promote and provide financial services and to foster high standards for Labuan financial services;";
 
 (v) by substituting for paragraph ( g ) the following paragraph:
 
@@ -276,9 +268,7 @@ day during which the offence continues after conviction.
 
 ( b ) to the home supervisory authority of the Labuan financial institution and the disclosure may include any information which relates to an individual Labuan financial institution under the supervision of the home supervisory authority if the home supervisory authority has the necessary provision in its constituent documents or corresponding laws to safeguard such information from unlawful disclosure;
 
-(c) to the domestic law enforcement agency, when there is reasonable suspicion based on the evidence made available to the Authority that a criminal offence is about to be committed or is being committed or has been committed provided that the domestic law enforcement agency has executed
-
-<!-- marginal: a -->
+(c) to the domestic law enforcement agency, when there is reasonable suspicion based on the evidence made available to the Authority that a criminal offence is about to be committed or is being committed or has been committed provided that the domestic law enforcement agency has executed a
 
 <!-- marginal: secrecy -->
 
@@ -286,11 +276,7 @@ undertaking in favour of the Authority relating to any information provided unde
 
 <!-- page 10 -->
 
-( d ) pursuant to an order by any court of competent jurisdiction in any proceedings, where
-
-<!-- marginal: the order -->
-
-obtained has been obtained by an ex-parte application, the Authority may notify the person affected by the order and upon receipt of such notification, the affected person may file in the necessary application to the court to contest the order or otherwise comply with the order accordingly;
+( d ) pursuant to an order by any court of competent jurisdiction in any proceedings, where the order obtained has been obtained by an ex-parte application, the Authority may notify the person affected by the order and upon receipt of such notification, the affected person may file in the necessary application to the court to contest the order or otherwise comply with the order accordingly;
 
 ( e ) with the consent of the Labuan financial institution or the customer of such Labuan financial institution; or
 
@@ -304,15 +290,7 @@ obtained has been obtained by an ex-parte application, the Authority may notify 
 
 Minister; or
 
-(iii) any relevant domestic law
-
-<!-- marginal: enforcement -->
-
-agency with the approval of
-
-<!-- marginal: the relevant -->
-
-minister.
+(iii) any relevant domestic law enforcement agency with the approval of the relevant minister.
 
 (7) Without prejudice to any other provision in this Act or the laws specified in the Schedule, the Authority may receive any information from any person or authority in the course of carrying out any power or duty under this Act or the laws specified in the Schedule.";
 
@@ -322,11 +300,7 @@ minister.
 
 (Amendment)
 
-( f ) by substituting for subsection (10) the
-
-<!-- marginal: following -->
-
-subsection:
+( f ) by substituting for subsection (10) the following subsection:
 
 "(10) Any person who submits false or misleading or inaccurate information to the Authority or fails to comply with this section shall be guilty of an offence and shall be liable, on conviction-
 
@@ -530,11 +504,7 @@ notwithstanding any written law or rule of law to the contrary, be admissible in
 
 (f) rescues or attempts to rescue any thing which has been duly seized;
 
-( g ) furnishes to an investigating officer as
-
-<!-- marginal: true any -->
-
-information which he knows or has reason to believe to be false; or
+( g ) furnishes to an investigating officer as true any information which he knows or has reason to believe to be false; or
 
 ( h ) before or after any search or seizure, breaks or otherwise destroys any thing to prevent its seizure, or the securing of the property, record, report or document, commits an offence and shall on conviction be liable to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding five years or to both, and, in the case of a continuing offence, to a further fine not exceeding one thousand ringgit for each day during which the offence continues after conviction.
 

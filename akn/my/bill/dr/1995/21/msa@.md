@@ -42,13 +42,17 @@ ibu" dalam Akta ini, adalah dipinda dalam seksyen 2—
 
 <!-- page 2 -->
 
-2
+<!-- marginal: 2 -->
 
 ## RANG UNDANG-UNDANG
 
 (b) dengan menggantikan takrif "bursa" dengan takrif yang berikut:
 
-' "bursa" ertinya bursa saham yang Akta 280 ditubuhkan di bawah subseksyen 8(2) Akta Perindustrian Sekuriti 1983 atau suatu syarikat bursa;';
+' "bursa" ertinya bursa saham yang
+
+<!-- marginal: Akta 280 -->
+
+ditubuhkan di bawah subseksyen 8(2) Akta Perindustrian Sekuriti 1983 atau suatu syarikat bursa;';
 
 (c) dengan memotong takrif "bursa niaga hadapan";
 
@@ -60,11 +64,23 @@ ibu" dalam Akta ini, adalah dipinda dalam seksyen 2—
 
 (e) dengan menggantikan takrif "kontrak niaga hadapan" dengan takrif yang berikut:
 
-' "kontrak niaga hadapan" mempunyai Akta 499. pengertian yang sama seperti dalam Akta Perindustrian Niaga Hadapan 1993;';
+' "kontrak niaga hadapan" mempunyai
+
+<!-- marginal: Akta 499. -->
+
+pengertian yang sama seperti dalam Akta Perindustrian Niaga Hadapan 1993;';
 
 (f) dengan memasukkan selepas takrif "Kumpulan Wang" takrif yang berikut:
 
-' "lesen" ertinya mana-mana lesen yang Akta 280. dikeluarkan di bawah Bahagian IV Akta Perindustrian Sekuriti 1983 atau Bahagian III Akta 499. Akta Perindustrian Niaga Hadapan 1993;';
+' "lesen" ertinya mana-mana lesen yang
+
+<!-- marginal: Akta 280. -->
+
+dikeluarkan di bawah Bahagian IV Akta Perindustrian Sekuriti 1983 atau Bahagian III
+
+<!-- marginal: Akta 499. -->
+
+Akta Perindustrian Niaga Hadapan 1993;';
 
 (g) dengan memasukkan selepas takrif "Mahkamah" takrif yang berikut:
 
@@ -98,11 +114,7 @@ pengertian yang sama seperti dalam Akta Perindustrian Niaga Hadapan 1993;';
 
 (k) dalam takrif "pusat penjelasan"—
 
-(i) dengan menggantikan
-
-<!-- marginal: perkataan -->
-
-"penyelesaian perdagangan kontrak niaga hadapan" dengan perkataan "pusat penjelasan yang diluluskan di bawah subseksyen 6B(1) Akta Perindustrian Niaga Hadapan 1993"; dan
+(i) dengan menggantikan perkataan "penyelesaian perdagangan kontrak niaga hadapan" dengan perkataan "pusat penjelasan yang diluluskan di bawah subseksyen 6B(1) Akta Perindustrian Niaga Hadapan 1993"; dan
 
 (ii) dengan memasukkan rujukan birai "Akta
 
@@ -114,7 +126,7 @@ pengertian yang sama seperti dalam Akta Perindustrian Niaga Hadapan 1993;';
 
 <!-- page 4 -->
 
-4
+<!-- marginal: 4 -->
 
 ## RANG UNDANG-UNDANG
 
@@ -124,23 +136,65 @@ pengertian yang sama seperti dalam Akta Perindustrian Niaga Hadapan 1993;';
 
 (n) dengan memasukkan selepas takrif "syarikat" takrif yang berikut:
 
-' "syarikat bursa" ertinya sesuatu syarikat yang ditubuhkan di bawah subseksyen 4(1) Akta Akia 499. Perindustrian Niaga Hadapan 1993;
+' "syarikat bursa" ertinya sesuatu syarikat yang ditubuhkan di bawah subseksyen 4(1) Akta
 
-"undang-undang sekuriti" ertinya Akta Aha 280. Akta 453. Perindustrian Sekuriti 1983, Akta Perindustrian Sekuriti (Depositori Pusat) 1991, Akta Akta 498 Suruhanjaya Sekuriti 1993 dan Akta Perindustrian Akta 499 Niaga Hadapan 1993;';
+<!-- marginal: Akia 499. -->
+
+Perindustrian Niaga Hadapan 1993;
+
+"undang-undang sekuriti" ertinya Akta
+
+<!-- marginal: Aha 280. -->
+
+<!-- marginal: Akta 453. -->
+
+Perindustrian Sekuriti 1983, Akta Perindustrian Sekuriti (Depositori Pusat) 1991, Akta
+
+<!-- marginal: Akta 498 -->
+
+Suruhanjaya Sekuriti 1993 dan Akta Perindustrian
+
+<!-- marginal: Akta 499 -->
+
+Niaga Hadapan 1993;';
 
 (o) dengan memotong takrif "transaksi opsyen niaga hadapan".
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
 3. Akta ibu adalah dipinda dengan memasukkan selepas
 
 2A. seksyen 2 seksyen baru yang berikut:
 
-"Sebutan 2A. Apa-apa sebutan dalam Akta ini mengenai mengenai "Akta ini" atau "undang-undang sekuriti", "Akta ini" dan melainkan jika disebut dengan nyata selainnya, "undang- termasuklah sebutan mengenai mana-mana undang sekuriti". peraturan, kaedah, perintah, pemberitahuan atau perundangan subsidiari lain yang dibuat di bawah Akta ini atau suatu undang-undang sekuriti, mengikut mana-mana yang berkenaan.".
+<!-- marginal: "Sebutan -->
 
-Pindaan
+2A. Apa-apa sebutan dalam Akta ini mengenai
 
-4. Seksyen 13 Akta ibu adalah dipinda— seksyen 13.
+<!-- marginal: mengenai -->
+
+"Akta ini" atau "undang-undang sekuriti",
+
+<!-- marginal: "Akta ini" -->
+
+<!-- marginal: dan -->
+
+melainkan jika disebut dengan nyata selainnya,
+
+<!-- marginal: "undang- -->
+
+termasuklah sebutan mengenai mana-mana
+
+<!-- marginal: undang -->
+
+<!-- marginal: sekuriti". -->
+
+peraturan, kaedah, perintah, pemberitahuan atau perundangan subsidiari lain yang dibuat di bawah Akta ini atau suatu undang-undang sekuriti, mengikut mana-mana yang berkenaan.".
+
+<!-- marginal: Pindaan -->
+
+4. Seksyen 13 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 13. -->
 
 (a) dalam subseksyen (1) dengan menggantikan perkataan "apa-apa kepentingan dalam apa-apa perkara" dan "hakikat" mas ing-masingnya dengan perkataan "atau yang memperolehi kepentingan langsung atau tak langsung berhubungan dengan apa-apa perkara" dan "kewujudan";
 
@@ -160,7 +214,15 @@ Pindaan
 
 15 dengan seksyen yang berikut:
 
-"Fungsi- 15. (1) Suruhanjaya hendaklah mempunyai fungsi fungsi-fungsi yang berikut: Suruhanjaya.
+<!-- marginal: "Fungsi- -->
+
+15. (1) Suruhanjaya hendaklah mempunyai
+
+<!-- marginal: fungsi -->
+
+fungsi-fungsi yang berikut:
+
+<!-- marginal: Suruhanjaya. -->
 
 (a) menasihati Menteri dalam segala perkara berhubungan dengan perindustrian sekuriti dan perindustrian niaga hadapan;
 
@@ -186,11 +248,7 @@ Pindaan
 
 (j) menimbangkan dan membuat syor-syor bagi pembaharuan undang-undang berhubungan dengan sekuriti dan kontrak niaga hadapan;
 
-(k) menggalakkan dan memajukan pem- bangunan pasaran sekuriti dan niaga hadapan di Malaysia
-
-<!-- marginal: termasuk -->
-
-penyelidikan dan latihan berkaitan dengannya;
+(k) menggalakkan dan memajukan pem- bangunan pasaran sekuriti dan niaga hadapan di Malaysia termasuk penyelidikan dan latihan berkaitan dengannya;
 
 (l) menggalakkan dan memajukan pengawal- seliaan sendiri oleh persatuan-persatuan profesional atau badan-badan pasaran dalam perindustrian sekuriti dan niaga hadapan;
 
@@ -198,7 +256,11 @@ penyelidikan dan latihan berkaitan dengannya;
 
 (n) memajukan dan mengekalkan integriti semua orang berlesen dalam perindustrian sekuriti dan niaga hadapan.
 
-(2) Fungsi-fungsi Suruhanjaya berhubungan dengan kontrak niaga hadapan di bawah Akta ini tidaklah terpakai bagi mana-mana kontrak niaga hadapan komoditi yang diperdagangkan Akta 324. di bawah Akta Dagangan Komoditi 1985.
+(2) Fungsi-fungsi Suruhanjaya berhubungan dengan kontrak niaga hadapan di bawah Akta ini tidaklah terpakai bagi mana-mana kontrak niaga hadapan komoditi yang diperdagangkan
+
+<!-- marginal: Akta 324. -->
+
+di bawah Akta Dagangan Komoditi 1985.
 
 <!-- page 7 -->
 
@@ -240,17 +302,41 @@ penyelidikan dan latihan berkaitan dengannya;
 
 <!-- page 8 -->
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
 9. Akta ibu adalah dipinda dengan memasukkan selepas
 
 22A. seksyen 22 seksyen yang berikut:
 
-"Suruhanjaya 22A. Suruhanjaya boleh, dengan kelulusan boleh Menteri, menubuhkan dan menyertai mana-mana menubuhkan dan pertubuhan perbadanan bagi maksud memajukan menyertai penyelidikan dan latihan berhubungan dengan pertubuhan perbadanan. perindustrian sekuriti dan niaga hadapan.".
+<!-- marginal: "Suruhanjaya -->
 
-Pindaan
+22A. Suruhanjaya boleh, dengan kelulusan
 
-10. Seksyen 24 Akta ibu adalah dipinda— seksyen 24.
+<!-- marginal: boleh -->
+
+Menteri, menubuhkan dan menyertai mana-mana
+
+<!-- marginal: menubuhkan -->
+
+<!-- marginal: dan -->
+
+pertubuhan perbadanan bagi maksud memajukan
+
+<!-- marginal: menyertai -->
+
+penyelidikan dan latihan berhubungan dengan
+
+<!-- marginal: pertubuhan -->
+
+<!-- marginal: perbadanan. -->
+
+perindustrian sekuriti dan niaga hadapan.".
+
+<!-- marginal: Pindaan -->
+
+10. Seksyen 24 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 24. -->
 
 (a) dengan menggantikan subseksyen (2) dengan subseksyen yang berikut:
 
@@ -258,7 +344,11 @@ Pindaan
 
 (b) dengan menggantikan subseksyen (6) dengan subseksyen yang berikut:
 
-"(6) Bagi maksud seksyen ini, istilah "kedudukan pendek" dan "kedudukan panjang" mempunyai pengertian yang sama seperti dalam Akta Perindustrian Niaga Hadapan Akta 499. 1993.".
+"(6) Bagi maksud seksyen ini, istilah "kedudukan pendek" dan "kedudukan panjang" mempunyai pengertian yang sama seperti dalam Akta Perindustrian Niaga Hadapan
+
+<!-- marginal: Akta 499. -->
+
+1993.".
 
 <!-- page 9 -->
 
@@ -268,7 +358,7 @@ Pindaan
 
 ## Bahagian IV.
 
-## Bahagian IV dengan Bahagian yang berikut:
+Bahagian IV dengan Bahagian yang berikut:
 
 ## BAHAGIAN
 
@@ -282,7 +372,23 @@ IV
 
 ## CADANGAN BERHUBUNGAN DENGAN SEKURITI
 
-Cadangan 32, (1) Dalam Penggal ini dan Jadual— hendaklah dikemukakan kepada Suruhanjaya. "Bank Negara Malaysia" ertinya Bank Negara yang ditubuhkan di bawah Akta Bank Negara Akta 519. Malaysia 1958;
+<!-- marginal: Cadangan -->
+
+32, (1) Dalam Penggal ini dan Jadual—
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: dikemukakan -->
+
+<!-- marginal: kepada -->
+
+<!-- marginal: Suruhanjaya. -->
+
+"Bank Negara Malaysia" ertinya Bank Negara yang ditubuhkan di bawah Akta Bank Negara
+
+<!-- marginal: Akta 519. -->
+
+Malaysia 1958;
 
 "cadangan" ertinya cadangan yang disebut dalam subseksyen 32(2);
 
@@ -304,29 +410,21 @@ tetapi tidak termasuk seorang penerima yang bukan juga seorang pengurus, penerim
 
 "pemohon" ertinya mana-mana orang yang disebut dalam subseksyen 32(2);
 
-"syarikat persendirian" dan "syarikat awam" mempunyai pengertian yang sama seperti dalam Akta 125. subseksyen 4(1) Akta Syarikat 1965.
+"syarikat persendirian" dan "syarikat awam" mempunyai pengertian yang sama seperti dalam
+
+<!-- marginal: Akta 125. -->
+
+subseksyen 4(1) Akta Syarikat 1965.
 
 (2) Seksyen ini terpakai bagi seseorang yang bercadang hendak melakukan mana-mana yang berikut:
 
-(a) menyediakan, menawarkan bagi langganan atau pembelian, atau mengeluarkan pelawaan
+(a) menyediakan, menawarkan bagi langganan atau pembelian, atau mengeluarkan pelawaan untuk melanggan atau membeli sekuriti di Malaysia;
 
-<!-- marginal: untuk -->
-
-melanggan atau membeli sekuriti di Malaysia;
-
-(b) menyediakan, menawarkan bagi langganan atau pembelian, atau mengeluarkan pelawaan
-
-<!-- marginal: untuk -->
-
-melanggan atau membeli, di luar Malaysia, sekuriti sesuatu syarikat awam, atau menyenaraikan sekuriti itu di bursa sekuriti di luar Malaysia;
+(b) menyediakan, menawarkan bagi langganan atau pembelian, atau mengeluarkan pelawaan untuk melanggan atau membeli, di luar Malaysia, sekuriti sesuatu syarikat awam, atau menyenaraikan sekuriti itu di bursa sekuriti di luar Malaysia;
 
 (c) mengeluarkan terbitan bonus sekuriti sesuatu syarikat awam selain daripada dengan cara mempermodalkan keuntungan belum diasingkan;
 
-(d) dengan cara terbitan
-
-<!-- marginal: sekuriti, -->
-
-melaksanakan—
+(d) dengan cara terbitan sekuriti, melaksanakan—
 
 (i) suatu kompromi atau perkiraan sama ada atau tidak bagi maksud atau berkaitan dengan suatu skim kompromi atau perkiraan bagi penyatuan mana-mana dua perbadanan atau lebih atau bagi penyusunan semula mana-mana perbadanan;
 
@@ -342,11 +440,7 @@ melaksanakan—
 
 (g) melaksanakan suatu penyusunan semula yang melibatkan pemerolehan atau pelupusan aset (sama ada dengan cara terbitan sekuriti atau tidak) yang mengakibatkan suatu perubahan yang bermakna dalam haluan perniagaan atau dasar sesuatu syarikat awam yang disenaraikan.
 
-(3) Seseorang pemohon
-
-<!-- marginal: hendaklah -->
-
-mengemukakan kepada Suruhanjaya apa-apa dokumen dan apa-apa maklumat lain berhubungan dengan cadangan itu dalam apa-apa bentuk dan mengikut apa-apa cara dan pada bila-bila masa yang dikehendaki oleh Suruhanjaya.
+(3) Seseorang pemohon hendaklah mengemukakan kepada Suruhanjaya apa-apa dokumen dan apa-apa maklumat lain berhubungan dengan cadangan itu dalam apa-apa bentuk dan mengikut apa-apa cara dan pada bila-bila masa yang dikehendaki oleh Suruhanjaya.
 
 (4) Tertakluk kepada seksyen 32A, tiada seorang pun yang disebut dalam subseksyen (2) boleh melaksanakan atau menjalankan sesuatu cadangan melainkan jika Suruhanjaya telah meluluskan cadangan itu di bawah seksyen ini.
 
@@ -382,17 +476,23 @@ maka Suruhanjaya boleh—
 
 Dengan syarat bahawa Suruhanjaya hanya boleh membatalkan atau menyemak semula kelulusan sedemikian atau mengenakan apa-apa terma dan syarat tambahan jika pembatalan, penyemakan semula atau pengenaan sedemikian tidak akan menyentuh hak-hak pihak ketiga yang mungkin diwujudkan oleh atau yang berbangkit daripada penjalanan atau pelaksanaan suatu cadangan mengikut kelulusan yang telah diberikan di bawah subseksyen (5).
 
-(8) Suruhanjaya hendaklah memberikan notis bertulis kepada pemohon mengenai niatnya hendak mengambil tindakan di bawah subseksyen (7) dan hendaklah memberi pemohon peluang untuk didengar sebelum mengambil apa-apa tindakan di bawah subseksyen (7).
+(8) Suruhanjaya hendaklah memberikan notis bertulis kepada pemohon mengenai niatnya hendak mengambil tindakan di bawah subseksyen
+
+(7) dan hendaklah memberi pemohon peluang untuk didengar sebelum mengambil apa-apa tindakan di bawah subseksyen (7).
 
 (9) Jika Suruhanjaya telah memberikan kelulusannya terhadap suatu cadangan di bawah subseksyen (5)—
 
-(a) jika pendaftaran prospektus dikehendaki di bawah Bahagian IV Akta Syarikat 1965 Akta 125. berkaitan dengan cadangan itu, prospektus itu hendaklah termasuk suatu pernyataan bahawa Suruhanjaya telah meluluskan cadangan itu menurut seksyen ini dan bahawa kelulusan Suruhanjaya mengenai cadangan itu tidaklah boleh dikira sebagai menunjukkan bahawa Suruhanjaya mengesyorkan cadangan itu; atau
+(a) jika pendaftaran prospektus dikehendaki di bawah Bahagian IV Akta Syarikat 1965
 
-(b) jika pendaftaran prospektus
+<!-- marginal: Akta 125. -->
 
-<!-- marginal: tidak -->
+berkaitan dengan cadangan itu, prospektus itu hendaklah termasuk suatu pernyataan bahawa Suruhanjaya telah meluluskan cadangan itu menurut seksyen ini dan bahawa kelulusan Suruhanjaya mengenai cadangan itu tidaklah boleh dikira sebagai menunjukkan bahawa Suruhanjaya mengesyorkan cadangan itu; atau
 
-Akta 125 dikehendaki di bawah Bahagian IV Akta Syarikat 1965 berkaitan dengan cadangan itu, pemohon hendaklah memasukkan dalam mana-mana dokumen yang
+(b) jika pendaftaran prospektus tidak
+
+<!-- marginal: Akta 125 -->
+
+dikehendaki di bawah Bahagian IV Akta Syarikat 1965 berkaitan dengan cadangan itu, pemohon hendaklah memasukkan dalam mana-mana dokumen yang
 
 <!-- page 14 -->
 
@@ -408,11 +508,7 @@ orang itu tidaklah boleh dikira, bagi maksud subseksyen (4), sebagai telah menga
 
 (11) Berkenaan dengan mana-mana cadangan yang disebut dalam subseksyen 32 (2)—
 
-(a) Suruhanjaya bolehlah mengarahkan pemohon untuk membuat
-
-<!-- marginal: suatu -->
-
-pengumuman mengenai suatu cadangan mengikut kaedah-kaedah bursa saham, jika terpakai; dan
+(a) Suruhanjaya bolehlah mengarahkan pemohon untuk membuat suatu pengumuman mengenai suatu cadangan mengikut kaedah-kaedah bursa saham, jika terpakai; dan
 
 (b) mana-mana orang boleh membuat suatu pengumuman mengenai suatu cadangan sebelum mengemukakan cadangan itu kepada Suruhanjaya untuk kelulusannya di bawah seksyen ini.
 
@@ -422,19 +518,35 @@ pengumuman mengenai suatu cadangan mengikut kaedah-kaedah bursa saham, jika terp
 
 (13) Mana-mana orang yang melanggar subseksyen (3), (4), (9) atau (11) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau kedua-duanya.
 
-Kelas atau 32A. (1) Subseksyen 32(4) tidaklah terpakai bagi kategori yang berikut: transaksi atau sekuriti
+<!-- marginal: Kelas atau -->
 
-(a) apa-apa kelas atau kategori sekuriti atau yang tidak tertakluk kelas atau kategori transaksi yang kepada dinyatakan dalam Jadual; subseksyen 32(4).
+32A. (1) Subseksyen 32(4) tidaklah terpakai bagi
 
-(b) menyediakan, menawarkan
+<!-- marginal: kategori -->
 
-<!-- marginal: bagi -->
+yang berikut:
 
-langganan atau pembelian,
+<!-- marginal: transaksi -->
 
-<!-- marginal: atau -->
+<!-- marginal: atau sekuriti -->
 
-mengeluarkan suatu pelawaan untuk melanggan atau membeli sekuriti yang ditetapkan oleh Menteri berasaskan cara atau nilai keseluruhannya atau sifat, jenis atau bilangan pelabur yang berhubungan dengannya;
+(a) apa-apa kelas atau kategori sekuriti atau
+
+<!-- marginal: yang tidak -->
+
+<!-- marginal: tertakluk -->
+
+kelas atau kategori transaksi yang
+
+<!-- marginal: kepada -->
+
+dinyatakan dalam Jadual;
+
+<!-- marginal: subseksyen -->
+
+<!-- marginal: 32(4). -->
+
+(b) menyediakan, menawarkan bagi langganan atau pembelian, atau mengeluarkan suatu pelawaan untuk melanggan atau membeli sekuriti yang ditetapkan oleh Menteri berasaskan cara atau nilai keseluruhannya atau sifat, jenis atau bilangan pelabur yang berhubungan dengannya;
 
 (c) apa-apa kategori atau kelas sekuriti yang ditetapkan oleh Menteri.
 
@@ -442,7 +554,19 @@ mengeluarkan suatu pelawaan untuk melanggan atau membeli sekuriti yang ditetapka
 
 (3) Mana-mana ketetapan yang dibuat di bawah seksyen ini adalah tertakluk kepada apa- apa syarat, sekatan atau batasan yang dikenakan oleh Menteri.
 
-Pernyataan 32B. (1) Jika apa-apa pernyataan atau palsu atau maklumat dikehendaki dikemukakan kepada mengeliru- kan. dsb. Suruhanjaya di bawah Penggal ini berhubungan dengan atau berkaitan dengan apa-apa cadangan yang dikemukakan menurut seksyen 32—
+<!-- marginal: Pernyataan -->
+
+32B. (1) Jika apa-apa pernyataan atau
+
+<!-- marginal: palsu atau -->
+
+maklumat dikehendaki dikemukakan kepada
+
+<!-- marginal: mengeliru- -->
+
+<!-- marginal: kan. dsb. -->
+
+Suruhanjaya di bawah Penggal ini berhubungan dengan atau berkaitan dengan apa-apa cadangan yang dikemukakan menurut seksyen 32—
 
 (a) seorang pemohon, mana-mana pegawai- nya atau sekutunya;
 
@@ -476,15 +600,13 @@ tidaklah boleh—
 
 (a) pernyataan atau maklumat yang disebut dalam subseksyen (1) telah dikemukakan atau diberikan kepada Suruhanjaya, atau kelakuan yang disebut dalam subseksyen (1) telah dilakukan; dan
 
-(b) orang yang disebut dalam subseksyen itu menyedari sebelum cadangan
-
-<!-- marginal: itu -->
-
-dilaksanakan atau dijalankan sepenuh- nya— (i) bahawa pernyataan atau maklumat itu mungkin palsu atau menge- lirukan atau tak lengkap secara material; atau (ii) bahawa kelakuan itu cenderung kepada mengelirukan atau mem- perdayakan,
+(b) orang yang disebut dalam subseksyen itu menyedari sebelum cadangan itu dilaksanakan atau dijalankan sepenuh- nya— (i) bahawa pernyataan atau maklumat itu mungkin palsu atau menge- lirukan atau tak lengkap secara material; atau (ii) bahawa kelakuan itu cenderung kepada mengelirukan atau mem- perdayakan,
 
 maka orang itu hendaklah dengan serta-merta memberitahu Suruhanjaya mengenai fakta yang disebut dalam subperenggan (b)(i) atau (b)(ii), jika terpakai, dan mengambil apa-apa tindakan yang dikehendaki oleh Suruhanjaya menurut subseksyen 32(7).
 
-(4) Seseorang yang melanggar subseksyen (1) atau subseksyen (3) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga juta ringgit atau dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau kedua-duanya.
+(4) Seseorang yang melanggar subseksyen
+
+(1) atau subseksyen (3) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga juta ringgit atau dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau kedua-duanya.
 
 ## PENGGAL 2
 
@@ -492,9 +614,13 @@ maka orang itu hendaklah dengan serta-merta memberitahu Suruhanjaya mengenai fak
 
 ## PENGAMBILAN WAJIB
 
-Takrif. 33. (1) Dalam Penggal ini—
+<!-- marginal: Takrif. -->
 
-"berkaitan", berhubungan dengan sesuatu perbadanan, ertinya berkaitan dalam pengertian seksyen 6 Akta Syarikat 1965; Akta 125
+33. (1) Dalam Penggal ini—
+
+"berkaitan", berhubungan dengan sesuatu perbadanan, ertinya berkaitan dalam pengertian seksyen 6 Akta Syarikat 1965;
+
+<!-- marginal: Akta 125 -->
 
 <!-- page 18 -->
 
@@ -530,7 +656,11 @@ tetapi tidak termasuk seorang penerima yang bukan juga seorang pengurus, penerim
 
 "syarikat", berhubungan dengan sesuatu syarikat yang diambilalih, ertinya sesuatu syarikat awam, sama ada atau tidak ia disenaraikan di mana-mana bursa saham, dan termasuk mana- mana syarikat persendirian yang ditentukan oleh Suruhanjaya;
 
-"syarikat persendirian" dan "syarikat awam" mempunyai pengertian yang sama seperti dalam Akta 125. subseksyen 4(1) Akta Syarikat 1965;
+"syarikat persendirian" dan "syarikat awam" mempunyai pengertian yang sama seperti dalam
+
+<!-- marginal: Akta 125. -->
+
+subseksyen 4(1) Akta Syarikat 1965;
 
 "syer mengundi", berhubungan dengan sesuatu syarikat, mempunyai pengertian yang sama seperti dalam subseksyen 4(1) Akta Syarikat 1965;
 
@@ -544,7 +674,9 @@ tetapi tidak termasuk seorang penerima yang bukan juga seorang pengurus, penerim
 
 (b) bertindak secara bersesama atau berasingan bagi maksud menjalankan kuasa kawalan ke atas sesuatu syarikat.
 
-(3) Tanpa menjejaskan keluasan subseksyen (2), orang yang berikut hendaklah dianggap sebagai orang yang bertindak bersama-sama melainkan jika dibuktikan sebaliknya:
+(3) Tanpa menjejaskan keluasan subseksyen
+
+(2), orang yang berikut hendaklah dianggap sebagai orang yang bertindak bersama-sama melainkan jika dibuktikan sebaliknya:
 
 (a) sesuatu perbadanan dan perbadanan berkaitannya dan perbadanan sekutunya;
 
@@ -560,17 +692,29 @@ tetapi tidak termasuk seorang penerima yang bukan juga seorang pengurus, penerim
 
 mempunyai sepuluh peratus atau lebih syer mengundi dalam perbadanan itu; dan
 
-(f) seseorang yang memiliki
-
-<!-- marginal: atau -->
-
-mempunyai kawalan ke atas dua puluh peratus atau lebih syer mengundi sesuatu perbadanan yang termasuk dalam perenggan (a) dan mana-mana ibu atau bapa, anak, abang atau kakak atau adik orang itu, atau suami atau isteri orang itu atau mana-mana saudara mara sedemikian, atau mana-mana amanah berkaitan beserta dengan seorang atau beberapa orang yang termasuk dalam perenggan (a).
+(f) seseorang yang memiliki atau mempunyai kawalan ke atas dua puluh peratus atau lebih syer mengundi sesuatu perbadanan yang termasuk dalam perenggan (a) dan mana-mana ibu atau bapa, anak, abang atau kakak atau adik orang itu, atau suami atau isteri orang itu atau mana-mana saudara mara sedemikian, atau mana-mana amanah berkaitan beserta dengan seorang atau beberapa orang yang termasuk dalam perenggan (a).
 
 (4) Bagi maksud subseksyen (2), suatu perjanjian, perkiraan atau persefahaman ertinya suatu perjanjian, perkiraan atau persefahaman sama ada formal atau tak formal, sama ada bertulis atau lisan, sama ada nyata atau tersirat atau sama ada mempunyai kuatkuasa undang-undang atau ekuiti.
 
 (5) Bagi maksud perenggan (3)(a), suatu perbadanan bersekutu ertinya suatu perbadanan yang berkenaan dengannya tidak kurang daripada dua puluh peratus syer mengundi perbadanan itu dipegang oleh perbadanan lain, perbadanan yang mula-mula disebut dengan itu menjadi perbadanan sekutu perbadanan yang satu lagi itu.
 
-Kod 33A. (1) Menteri boleh, atas syor Suruhanjaya, Malaysia menetapkan suatu Kod yang hendaklah disiarkan mengenai Pengambil- dalam Warta. alihan dan Percantuman. (2) Menteri boleh, dari semasa ke semasa atas syor Suruhanjaya, meminda mana-mana peruntukan Kod dan mana-mana pindaan kepada Kod hendaklah disiarkan dalam Warta.
+<!-- marginal: Kod -->
+
+33A. (1) Menteri boleh, atas syor Suruhanjaya,
+
+<!-- marginal: Malaysia -->
+
+menetapkan suatu Kod yang hendaklah disiarkan
+
+<!-- marginal: mengenai -->
+
+<!-- marginal: Pengambil- -->
+
+dalam Warta.
+
+<!-- marginal: alihan dan -->
+
+Percantuman. (2) Menteri boleh, dari semasa ke semasa atas syor Suruhanjaya, meminda mana-mana peruntukan Kod dan mana-mana pindaan kepada Kod hendaklah disiarkan dalam Warta.
 
 <!-- page 22 -->
 
@@ -596,17 +740,9 @@ termaklum dan, tanpa menghadkan keluasan yang terdahulu, hendaklah mengambil kir
 
 (ii) mempunyai masa yang munasabah untuk menimbangkan sesuatu tawaran pengambilalihan; dan
 
-(iii) dibekalkan dengan maklumat yang mencukupi yang perlu untuk membolehkan mereka menilai merit mana-mana
+(iii) dibekalkan dengan maklumat yang mencukupi yang perlu untuk membolehkan mereka menilai merit mana-mana tawaran pengambilalihan;
 
-<!-- marginal: tawaran -->
-
-pengambilalihan;
-
-(b) bahawa, setakat yang praktik, semua pemegang syer penerima
-
-<!-- marginal: tawaran -->
-
-mempunyai peluang yang sama untuk menyertai dalam faedah yang terakru daripada tawaran pengambilalihan itu, termasuk dalam premium yang kena dibayar bagi kawalan;
+(b) bahawa, setakat yang praktik, semua pemegang syer penerima tawaran mempunyai peluang yang sama untuk menyertai dalam faedah yang terakru daripada tawaran pengambilalihan itu, termasuk dalam premium yang kena dibayar bagi kawalan;
 
 (c) bahawa hasrat memperlakukan semua pemegang syer, khususnya pemegang syer minoriti, secara adil dan sama rata akan tercapai, berhubungan dengan tawaran pengambilalihan, percantuman atau pengambilan wajib; dan
 
@@ -618,7 +754,17 @@ mempunyai peluang yang sama untuk menyertai dalam faedah yang terakru daripada t
 
 tujuan-tujuan itu, yang dinyatakan dalam subseksyen ini, dan bahawa pemegang syer minoriti tidak tertindas atau berada dalam keadaan merugikan oleh perlakuan dan kelakuan pengarah-pengarah penerima tawaran atau pengambil itu.
 
-Pematuhan 33B. (1) Seseorang yang membuat suatu tawaran Kod dan pengambilalihan hendaklah berbuat sedemikian arahan. mengikut peruntukan-peruntukan Kod dan mana- mana arahan yang dibuat di bawah subseksyen 33A(4).
+<!-- marginal: Pematuhan -->
+
+33B. (1) Seseorang yang membuat suatu tawaran
+
+<!-- marginal: Kod dan -->
+
+pengambilalihan hendaklah berbuat sedemikian
+
+<!-- marginal: arahan. -->
+
+mengikut peruntukan-peruntukan Kod dan mana- mana arahan yang dibuat di bawah subseksyen 33A(4).
 
 (2) Tertakluk kepada seksyen 33c, seorang pengambil yang telah mendapat kawalan dalam sesuatu syarikat hendaklah membuat tawaran pengambilalihan, selain daripada berkenaan dengan syer mengundi syarikat itu yang pada tarikh tawaran itu dibuat sudah dipegang oleh pengambil itu atau yang berhak dijalankan oleh pengambil itu, mengikut peruntukan-peruntukan Kod dan mana-mana arahan yang dibuat di bawah subseksyen 33A(4).
 
@@ -628,11 +774,35 @@ Pematuhan 33B. (1) Seseorang yang membuat suatu tawaran Kod dan pengambilalihan 
 
 <!-- page 25 -->
 
-Pengecualian. 33c. (1) Tertakluk kepada subseksyen 33A(5), Suruhanjaya boleh memberikan pengecualian secara bertulis kepada mana-mana orang atau tawaran pengambilalihan yang tertentu atau kepada mana-mana golongan, kategori atau perihalan orang atau kelas, kategori atau perihalan tawaran pengambilalihan yang tertentu daripada peruntukan-peruntukan Penggal ini, Kod dan mana-mana arahan yang dibuat di bawah subseksyen 33A(4).
+<!-- marginal: Pengecualian. -->
+
+33c. (1) Tertakluk kepada subseksyen 33A(5), Suruhanjaya boleh memberikan pengecualian secara bertulis kepada mana-mana orang atau tawaran pengambilalihan yang tertentu atau kepada mana-mana golongan, kategori atau perihalan orang atau kelas, kategori atau perihalan tawaran pengambilalihan yang tertentu daripada peruntukan-peruntukan Penggal ini, Kod dan mana-mana arahan yang dibuat di bawah subseksyen 33A(4).
 
 (2) Mana-mana pengecualian yang diberikan di bawah subseksyen (1) boleh tertakluk kepada apa-apa syarat, sekatan atau batasan yang dikenakan oleh Suruhanjaya.
 
-Tindakan 33D. (1) Jika mana-mana orang yang berada di oleh bawah suatu obligasi untuk mematuhi, menuruti Suruhanjaya dalam hal atau melaksanakan peruntukan-peruntukan Kod ketak- atau mana-mana arahan yang dibuat di bawah patuhan Kod dan arahan. subseksyen 33A(4), tidak mematuhi, menuruti atau melaksanakan mana-mana peruntukan sedemikian Kod atau arahan (kemudian daripada ini disebut "orang yang ingkar"), Suruhanjaya bolehlah mengambil satu atau lebih daripada tindakan yang berikut:
+<!-- marginal: Tindakan -->
+
+33D. (1) Jika mana-mana orang yang berada di
+
+<!-- marginal: oleh -->
+
+bawah suatu obligasi untuk mematuhi, menuruti
+
+<!-- marginal: Suruhanjaya -->
+
+<!-- marginal: dalam hal -->
+
+atau melaksanakan peruntukan-peruntukan Kod
+
+<!-- marginal: ketak- -->
+
+atau mana-mana arahan yang dibuat di bawah
+
+<!-- marginal: patuhan Kod -->
+
+<!-- marginal: dan arahan. -->
+
+subseksyen 33A(4), tidak mematuhi, menuruti atau melaksanakan mana-mana peruntukan sedemikian Kod atau arahan (kemudian daripada ini disebut "orang yang ingkar"), Suruhanjaya bolehlah mengambil satu atau lebih daripada tindakan yang berikut:
 
 (a) mengarahkan orang yang ingkar itu untuk mematuhi, menuruti atau melaksanakan mana-mana peruntukan sedemikian Kod atau arahan;
 
@@ -658,15 +828,31 @@ Tindakan 33D. (1) Jika mana-mana orang yang berada di oleh bawah suatu obligasi 
 
 (2) Suruhanjaya hendaklah memberikan notis bertulis kepada orang yang ingkar mengenai niatnya hendak mengambil tindakan di bawah subseksyen (1) dan hendaklah memberi orang yang ingkar itu peluang untuk didengar sebelum Suruhanjaya mengambil apa-apa tindakan di bawah subseksyen (1).
 
-(3) Mahkamah boleh, dalam hal jika Suruhanjaya memberikan arahan di bawah perenggan ( 1 )( a ), apabila dibuat permohonan oleh Suruhanjaya, membuat
-
-<!-- marginal: perintah -->
-
-mengarahkan orang yang ingkar itu supaya mematuhi, menuruti atau melaksanakan peruntukan-peruntukan Kod atau arahan.
+(3) Mahkamah boleh, dalam hal jika Suruhanjaya memberikan arahan di bawah perenggan ( 1 )( a ), apabila dibuat permohonan oleh Suruhanjaya, membuat perintah mengarahkan orang yang ingkar itu supaya mematuhi, menuruti atau melaksanakan peruntukan-peruntukan Kod atau arahan.
 
 <!-- page 27 -->
 
-Dokumen, 33E. (1) Jika apa-apa dokumen atau maklumat maklumat, dikehendaki dikemukakan kepada Suruhanjaya dsb. yang palsu atau di bawah Penggal ini atau Kod berhubungan mengeliru- dengan atau berkaitan dengan sesuatu tawaran kan. pengambilalihan, percantuman atau pengambilan wajib—
+<!-- marginal: Dokumen, -->
+
+33E. (1) Jika apa-apa dokumen atau maklumat
+
+<!-- marginal: maklumat, -->
+
+dikehendaki dikemukakan kepada Suruhanjaya
+
+<!-- marginal: dsb. yang -->
+
+<!-- marginal: palsu atau -->
+
+di bawah Penggal ini atau Kod berhubungan
+
+<!-- marginal: mengeliru- -->
+
+dengan atau berkaitan dengan sesuatu tawaran
+
+<!-- marginal: kan. -->
+
+pengambilalihan, percantuman atau pengambilan wajib—
 
 (a) seorang pengambil, pembuat tawaran atau orang yang membuat pengambilan wajib atau melaksanakan percantuman itu, pegawai atau sekutunya;
 
@@ -698,21 +884,25 @@ maklumat itu diberikan atau penglibatannya dalam kelakuan itu, sememangnya mempe
 
 (c) tidak terdapat ketinggalan material; atau
 
-(d) kelakuan yang berkenaan
-
-<!-- marginal: tidak -->
-
-mengelirukan atau memperdayakan.
+(d) kelakuan yang berkenaan tidak mengelirukan atau memperdayakan.
 
 (3) Seseorang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga juta ringgit atau dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau kedua-duanya.
 
-Pengambilan 34. (1) Tertakluk kepada seksyen 34B, jika wajib. sesuatu tawaran pengambilalihan oleh seorang pembuat tawaran untuk memperoleh kesemua syer atau kesemua syer dalam mana-mana kelas atau kelas-kelas tertentu penerima tawaran telah, dalam tempoh empat bulan selepas tawaran pengambilalihan itu dibuat, diterima oleh pemegang tidak kurang daripada sembilan persepuluh nilai nominal syer itu atau syer daripada kelas atau kelas-kelas itu (selain daripada syer yang sudah dipegang pada tarikh tawaran pengambilalihan itu dibuat oleh pembuat tawaran itu atau oleh seorang penama bagi atau oleh perbadanan berkaitan pembuat tawaran itu), pembuat tawaran itu boleh, pada bila-bila masa dalam tempoh dua bulan selepas tawaran pengambilalihan itu diterima sedemikian, memberikan notis mengikut cara yang ditetapkan di bawah Kod kepada mana-mana pemegang syer tak setuju bahawa ia berhasrat memperoleh syernya beserta dengan suatu akuan berkanun oleh pembuat tawaran itu bahawa syarat-syarat bagi pemberian notis itu telah dipenuhi.
+<!-- marginal: Pengambilan -->
+
+34. (1) Tertakluk kepada seksyen 34B, jika
+
+<!-- marginal: wajib. -->
+
+sesuatu tawaran pengambilalihan oleh seorang pembuat tawaran untuk memperoleh kesemua syer atau kesemua syer dalam mana-mana kelas atau kelas-kelas tertentu penerima tawaran telah, dalam tempoh empat bulan selepas tawaran pengambilalihan itu dibuat, diterima oleh pemegang tidak kurang daripada sembilan persepuluh nilai nominal syer itu atau syer daripada kelas atau kelas-kelas itu (selain daripada syer yang sudah dipegang pada tarikh tawaran pengambilalihan itu dibuat oleh pembuat tawaran itu atau oleh seorang penama bagi atau oleh perbadanan berkaitan pembuat tawaran itu), pembuat tawaran itu boleh, pada bila-bila masa dalam tempoh dua bulan selepas tawaran pengambilalihan itu diterima sedemikian, memberikan notis mengikut cara yang ditetapkan di bawah Kod kepada mana-mana pemegang syer tak setuju bahawa ia berhasrat memperoleh syernya beserta dengan suatu akuan berkanun oleh pembuat tawaran itu bahawa syarat-syarat bagi pemberian notis itu telah dipenuhi.
 
 <!-- page 29 -->
 
 (2) Jika seorang pembuat tawaran telah memberikan notis kepada mana-mana pemegang syer tak setuju bahawa ia berhasrat memperoleh syernya menurut subseksyen (1), pemegang syer tak setuju itu adalah berhak menghendaki pembuat tawaran itu, dengan permintaan bertulis yang disampaikan kepada pembuat tawaran itu dalam tempoh satu bulan dari tarikh notis itu diberikan, membekalkan kepadanya suatu pernyataan bertulis mengenai nama-nama dan alamat-alamat semua pemegang syer tak setuju yang lain sebagaimana yang ditunjukkan dalam daftar anggota dan pembuat tawaran itu tidaklah berhak atau terikat untuk memperoleh syer pemegang syer tak setuju itu sehingga empat belas hari selepas pernyataan mengenai nama-nama dan alamat-alamat itu diposkan kepada pemegang syer tak setuju itu.
 
-(3) Apabila notis dan akuan berkanun diberikan di bawah subseksyen (1), atau jika subseksyen (2) terpakai, apabila peruntukan- peruntukan dalam subseksyen (2) dipatuhi, pembuat tawaran hendaklah mengikut subseksyen (7) memperoleh syer-syer itu atas terma-terma tawaran pengambilalihan itu atau, jika tawaran pengambilalihan itu mengandungi dua set terma yang alternatif atau lebih, atas terma-terma yang dinyatakan dalam tawaran pengambilalihan itu sebagaimana yang terpakai bagi pemegang- pemegang syer tak setuju itu.
+(3) Apabila notis dan akuan berkanun diberikan di bawah subseksyen (1), atau jika subseksyen (2) terpakai, apabila peruntukan- peruntukan dalam subseksyen (2) dipatuhi, pembuat tawaran hendaklah mengikut subseksyen
+
+(7) memperoleh syer-syer itu atas terma-terma tawaran pengambilalihan itu atau, jika tawaran pengambilalihan itu mengandungi dua set terma yang alternatif atau lebih, atas terma-terma yang dinyatakan dalam tawaran pengambilalihan itu sebagaimana yang terpakai bagi pemegang- pemegang syer tak setuju itu.
 
 (4) Mana-mana orang yang—
 
@@ -738,15 +928,13 @@ pembuat tawaran itu hendaklah dikira, bagi maksud seksyen ini, sebagai telah mem
 
 <!-- page 31 -->
 
-(7) Tertakluk kepada seksyen 34B, jika suatu notis telah diberikan oleh pembuat tawaran di bawah subseksyen (1), pembuat tawaran hendaklah, selepas habis tempoh satu bulan dari tarikh notis itu diberikan, atau jika subseksyen (2) terpakai selepas empat belas hari dari tarikh pernyataan itu diposkan kepada pemegang syer tak setuju—
+(7) Tertakluk kepada seksyen 34B, jika suatu notis telah diberikan oleh pembuat tawaran di bawah subseksyen (1), pembuat tawaran hendaklah, selepas habis tempoh satu bulan dari tarikh notis itu diberikan, atau jika subseksyen
+
+(2) terpakai selepas empat belas hari dari tarikh pernyataan itu diposkan kepada pemegang syer tak setuju—
 
 (a) menghantar suatu notis kepada penerima tawaran beserta dengan suatu suratcara pemindahan yang disempurnakan bagi pihak seorang pemegang syer tak setuju oleh seseorang yang dilantik oleh pembuat tawaran itu; dan
 
-(b) membayar, menguntukkan
-
-<!-- marginal: atau -->
-
-memindahkan kepada penerima tawaran itu amaun atau balasan lain bagi syer yang notis itu berhubungan dengannya,
+(b) membayar, menguntukkan atau memindahkan kepada penerima tawaran itu amaun atau balasan lain bagi syer yang notis itu berhubungan dengannya,
 
 dan penerima tawaran itu sesudah itu hendaklah mendaftarkan pembuat tawaran itu sebagai pemegang syer-syer itu.
 
@@ -760,7 +948,21 @@ dan penerima tawaran itu sesudah itu hendaklah mendaftarkan pembuat tawaran itu 
 
 (10) Menteri hendaklah menjual atau melupuskan apa-apa balasan yang diterima di bawah subseksyen (9) mengikut cara yang difikirkannya patut dan hendaklah menguruskan hasil jualan atau pelupusan itu seolah-olah ia adalah wang yang dibayar kepadanya menurut undang-undang berhubungan dengan wang tak dituntut.
 
-34A. (1) Tertakluk kepada seksyen 34B, jika Hak pemegang suatu tawaran pengambilalihan adalah syer berhubungan dengan kesemua syer atau kesemua minoriti. syer dalam mana-mana kelas atau kelas-kelas penerima tawaran dan, pada bila-bila masa sebelum berakhirnya tempoh yang dalamnya tawaran pengambilalihan itu boleh diterima—
+34A. (1) Tertakluk kepada seksyen 34B, jika
+
+<!-- marginal: Hak -->
+
+<!-- marginal: pemegang -->
+
+suatu tawaran pengambilalihan adalah
+
+<!-- marginal: syer -->
+
+berhubungan dengan kesemua syer atau kesemua
+
+<!-- marginal: minoriti. -->
+
+syer dalam mana-mana kelas atau kelas-kelas penerima tawaran dan, pada bila-bila masa sebelum berakhirnya tempoh yang dalamnya tawaran pengambilalihan itu boleh diterima—
 
 (a) pembuat tawaran itu telah, menurut kuasa penerimaan-penerimaan tawaran pengam- bilalihan itu, memperolehi sebahagian (tetapi bukan semua) syer yang tawaran pengambilalihan itu berhubungan dengannya atau syer daripada mana-mana kelas atau kelas-kelas yang tawaran pengambilalihan itu berhubungan dengannya; dan
 
@@ -770,7 +972,9 @@ dan penerima tawaran itu sesudah itu hendaklah mendaftarkan pembuat tawaran itu 
 
 maka pemegang mana-mana syer atau mana- mana kelas atau kelas-kelas syer yang tawaran pengambilalihan itu berhubungan dengannya boleh, dengan notis kepada pembuat tawaran itu, menghendakinya supaya memperoleh syer- syer itu, dan pembuat tawaran itu adalah terikat untuk memperoleh syer-syer itu atas terma-terma tawaran pengambilalihan itu atau terma-terma lain yang dipersetujui.
 
-(2) Dalam tempoh satu bulan dari masa yang dinyatakan dalam subseksyen (1), pembuat tawaran itu hendaklah memberi mana-mana pemegang syer yang tidak menerima tawaran pengambilalihan itu, notis, mengikut cara yang ditetapkan di bawah Kod, mengenai hak-hak yang boleh dijalankan olehnya di bawah subseksyen (1) dan, jika notis itu diberikan sebelum tempoh yang disebut dalam subseksyen (1), ia hendaklah menyatakan bahawa tawaran pengambilalihan itu masih terbuka untuk diterima.
+(2) Dalam tempoh satu bulan dari masa yang dinyatakan dalam subseksyen (1), pembuat tawaran itu hendaklah memberi mana-mana pemegang syer yang tidak menerima tawaran pengambilalihan itu, notis, mengikut cara yang ditetapkan di bawah Kod, mengenai hak-hak yang boleh dijalankan olehnya di bawah subseksyen (1) dan, jika notis itu diberikan sebelum tempoh yang disebut dalam subseksyen
+
+(1), ia hendaklah menyatakan bahawa tawaran pengambilalihan itu masih terbuka untuk diterima.
 
 (3) Notis di bawah subseksyen (2) boleh menentukan tempoh bagi penjalanan hak-hak yang diberikan oleh seksyen ini dan dalam hal sedemikian hak-hak itu tidaklah boleh dijalankan selepas berakhirnya tempoh itu; tetapi tiada tempoh sedemikian boleh berakhir kurang daripada tiga bulan selepas berakhirnya tempoh yang dalamnya tawaran pengambilalihan itu boleh diterima.
 
@@ -782,7 +986,17 @@ maka pemegang mana-mana syer atau mana- mana kelas atau kelas-kelas syer yang ta
 
 ## RANG UNDANG-UNDANG
 
-Permohonan 34B. (1) Jika suatu notis diberikan di bawah kepada subseksyen 34(1), Mahkamah boleh, atas suatu Mahkamah permohonan yang dibuat oleh mana-mana pemegang syer tak setuju dalam tempoh satu bulan dari tarikh notis itu diberikan—
+<!-- marginal: Permohonan -->
+
+34B. (1) Jika suatu notis diberikan di bawah
+
+<!-- marginal: kepada -->
+
+subseksyen 34(1), Mahkamah boleh, atas suatu
+
+<!-- marginal: Mahkamah -->
+
+permohonan yang dibuat oleh mana-mana pemegang syer tak setuju dalam tempoh satu bulan dari tarikh notis itu diberikan—
 
 (a) memerintahkan bahawa pembuat tawaran itu tidak berhak dan tidak terikat untuk memperoleh syer-syer itu; atau
 
@@ -804,11 +1018,7 @@ Permohonan 34B. (1) Jika suatu notis diberikan di bawah kepada subseksyen 34(1),
 
 (6) Mahkamah hanya boleh memberikan perintah di bawah subseksyen (5) apabila berpuas hati bahawa—
 
-(a) kegagalan pembuat tawaran itu untuk memperolehi penerimaan-penerimaan sedemikian adalah
-
-<!-- marginal: disebabkan -->
-
-ketakupayaannya mengesan seorang atau lebih orang yang memegang syer yang tawaran pengambilalihan itu berhubungan dengannya selepas membuat penyiasatan yang munasabah;
+(a) kegagalan pembuat tawaran itu untuk memperolehi penerimaan-penerimaan sedemikian adalah disebabkan ketakupayaannya mengesan seorang atau lebih orang yang memegang syer yang tawaran pengambilalihan itu berhubungan dengannya selepas membuat penyiasatan yang munasabah;
 
 (b) syer yang telah diperolehi atau dibuat kontrak untuk diperoleh oleh pembuat tawaran itu menurut kuasa penerimaan- penerimaan tawaran pengambilalihan itu, beserta dengan syer-syer yang dipegang oleh orang atau orang-orang yang disebut dalam perenggan (a), berjumlah tidak kurang daripada minimum yang dinyatakan dalam subseksyen 34 (1); dan
 
@@ -822,13 +1032,21 @@ Dengan syarat bahawa Mahkamah tidak boleh membuat perintah sedemikian melainkan 
 
 34c. Peruntukan seksyen 180 Akta Syarikat 1965 180 Akta tidaklah terpakai berkenaan dengan tawaran Syarikat 1965 pengambilalihan yang baginya subseksyen 34(1) tidaklah terpakai.". terpakai bagi tawaran pengambil- alihan yang baginya subseksyen 34(1) terpakai. Akta 125.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-12. Seksyen 36 Akta ibu adalah dipinda dalam perenggan seksyen 36. ( 1 )( b) dengan menggantikan perkataan "Akta ini" dengan perkataan "undang-undang sekuriti".
+12. Seksyen 36 Akta ibu adalah dipinda dalam perenggan
 
-Seksyen bam
+<!-- marginal: seksyen 36. -->
 
-13. Akta ibu adalah dipinda dengan memasukkan selepas 39A dan 39B. seksyen 39 seksyen yang berikut:
+( 1 )( b) dengan menggantikan perkataan "Akta ini" dengan perkataan "undang-undang sekuriti".
+
+<!-- marginal: Seksyen bam -->
+
+13. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: 39A dan 39B. -->
+
+seksyen 39 seksyen yang berikut:
 
 "Penalti am. 39A. (1) Mana-mana orang yang melanggar kehendak atau mana-mana peruntukan Akta ini adalah melakukan suatu kesalahan.
 
@@ -850,7 +1068,19 @@ masa pelakuan kesalahan itu ialah pengarah, pegawai eksekutif, pekerja atau seti
 
 41 dengan seksyen yang berikut:
 
-"Kuasa 41. Suruhanjaya boleh, sama ada secara am atau untuk dalam sesuatu perkara tertentu, menguna-khidmat, niengguna- khidmat. di bawah terma-terma dan syarat-syarat guna- khidmat yang ditentukan oleh Suruhanjaya dari semasa ke semasa, mana-mana orang yang bukannya pegawai Suruhanjaya untuk memberikan apa-apa bantuan yang diperlukan atau ditentukan oleh Suruhanjaya berkaitan dengan pelaksanaan fungsi-fungsinya, atau penunaian kewajipan-kewajipannya di bawah undang-undang sekuriti, atau untuk melaksanakan fungsi atau menunaikan kewajipan itu bagi pihak dan atas nama Suruhanjaya.".
+<!-- marginal: "Kuasa -->
+
+41. Suruhanjaya boleh, sama ada secara am atau
+
+<!-- marginal: untuk -->
+
+dalam sesuatu perkara tertentu, menguna-khidmat,
+
+<!-- marginal: niengguna- -->
+
+<!-- marginal: khidmat. -->
+
+di bawah terma-terma dan syarat-syarat guna- khidmat yang ditentukan oleh Suruhanjaya dari semasa ke semasa, mana-mana orang yang bukannya pegawai Suruhanjaya untuk memberikan apa-apa bantuan yang diperlukan atau ditentukan oleh Suruhanjaya berkaitan dengan pelaksanaan fungsi-fungsinya, atau penunaian kewajipan-kewajipannya di bawah undang-undang sekuriti, atau untuk melaksanakan fungsi atau menunaikan kewajipan itu bagi pihak dan atas nama Suruhanjaya.".
 
 <!-- marginal: Seksyen -->
 
@@ -860,15 +1090,53 @@ masa pelakuan kesalahan itu ialah pengarah, pegawai eksekutif, pekerja atau seti
 
 seksyen 42 seksyen yang berikut: '
 
-"Keputusan 42A. Kecuali sebagaimana yang diperuntukkan Suruhan- selainnya dalam Akta ini, apa-apa keputusan jaya adalah yang dibuat oleh Suruhanjaya di bawah Akta muktamad. ini, sama ada keputusan asal yang dibuat olehnya atau keputusan selepas kajian semula di bawah subseksyen 42 (1), adalah muktamad.".
+<!-- marginal: "Keputusan -->
+
+42A. Kecuali sebagaimana yang diperuntukkan
+
+<!-- marginal: Suruhan- -->
+
+selainnya dalam Akta ini, apa-apa keputusan
+
+<!-- marginal: jaya -->
+
+<!-- marginal: adalah -->
+
+yang dibuat oleh Suruhanjaya di bawah Akta
+
+<!-- marginal: muktamad. -->
+
+ini, sama ada keputusan asal yang dibuat olehnya atau keputusan selepas kajian semula di bawah subseksyen 42 (1), adalah muktamad.".
 
 <!-- page 38 -->
 
-Seksyen bam
+<!-- marginal: Seksyen bam -->
 
-16. Akta ibu adalah dipinda dengan memasukkan selepas 43A, 43B dan seksyen 43 seksyen yang berikut: 43c.
+16. Akta ibu adalah dipinda dengan memasukkan selepas
 
-"Bantuan 43A. Walau apa pun seksyen 43, Suruhanjaya kepada boleh, atas inisiatifnya sendiri atau atas polis atau pegawai permintaan pegawai awam— awam yang lain.
+<!-- marginal: 43A, 43B dan -->
+
+seksyen 43 seksyen yang berikut:
+
+<!-- marginal: 43c. -->
+
+<!-- marginal: "Bantuan -->
+
+43A. Walau apa pun seksyen 43, Suruhanjaya
+
+<!-- marginal: kepada -->
+
+boleh, atas inisiatifnya sendiri atau atas
+
+<!-- marginal: polis atau -->
+
+<!-- marginal: pegawai -->
+
+permintaan pegawai awam—
+
+<!-- marginal: awam -->
+
+<!-- marginal: yang lain. -->
 
 (a) membekalkan kepada seorang pegawai polis atau mana-mana pegawai awam yang lain suatu salinan mana-mana buku atau dokumen lain yang disita, ditahan atau diambil milik di bawah seksyen 36 atau mana-mana rekod pemeriksaan yang dibuat di bawah seksyen 38, atau mana- mana pernyataan yang dibuat di bawah subseksyen 38(3), atau mana-mana buku atau dokumen lain yang dikemukakan di bawah subseksyen 36(2), atau selainnya dalam perjalanan mana-mana pemeriksaan di bawah seksyen 38, dan pegawai polis atau pegawai awam yang lain itu boleh menggunakan salinan buku, pernyataan, rekod atau dokumen lain itu sebagaimana yang perlu atau suaimanfaat berhubungan dengan penjalanan kuasa-kuasanya, pelaksanaan fungsi-fungsinya, atau penunaian kewajipan-kewajipannya, berkenaan dengan mana-mana orang; atau
 
@@ -878,21 +1146,57 @@ Seksyen bam
 
 yang perlu atau suaimanfaat berhubungan dengan penjalanan kuasa-kuasanya, pelaksanaan fungsi-fungsinya, atau penunaian kewajipan-kewajipannya, berkenaan dengan mana-mana orang.
 
-Bantuan 43B. (1) Walau apa pun seksyen 43,Suruhanjaya kepada dan boleh, atas permintaan suatu pihak berkuasa kerjasama dengan menyelia asing, memberikan bantuan kepada pihak pihak berkuasa menyelia asing itu sebagaimana berkuasa menyelia. yang difikirkan patut oleh Suruhanjaya.
+<!-- marginal: Bantuan -->
+
+43B. (1) Walau apa pun seksyen 43,Suruhanjaya
+
+<!-- marginal: kepada dan -->
+
+boleh, atas permintaan suatu pihak berkuasa
+
+<!-- marginal: kerjasama -->
+
+<!-- marginal: dengan -->
+
+menyelia asing, memberikan bantuan kepada
+
+<!-- marginal: pihak -->
+
+pihak berkuasa menyelia asing itu sebagaimana
+
+<!-- marginal: berkuasa -->
+
+<!-- marginal: menyelia. -->
+
+yang difikirkan patut oleh Suruhanjaya.
 
 (2) Dalam seksyen ini, "pihak berkuasa menyelia asing" ertinya pihak berkuasa asing yang menjalankan fungsi-fungsi yang bersamaan dengan fungsi-fungsi Suruhanjaya di bawah suatu undang-undang sekuriti atau mana-mana orang di luar Malaysia yang menjalankan fungsi-fungsi pengawalseliaan dan yang berkenaan dengannya Suruhanjaya berpendapat adalah wajar dan perlu diberikan bantuan.
 
-Kuasa 43c. Jika di bawah Akta ini, kuasa diberikan Suruhanjaya kepada Suruhanjaya untuk menghendaki mana- untuk menghendaki mana orang, atau jika mana-mana orang maklumat. dikehendaki di bawah Akta
+<!-- marginal: Kuasa -->
 
-<!-- marginal: ini, untuk -->
+43c. Jika di bawah Akta ini, kuasa diberikan
 
-mengemukakan kepada Suruhanjaya apa-apa maklumat, dokumen atau buku, Suruhanjaya boleh menghendaki supaya maklumat, dokumen atau buku itu dikemukakan dalam apa-apa tempoh, pada apa-apa lat-tempoh, mengikut apa- apa cara, dalam apa-apa bentuk, dan secara bertulis atau dengan cara apa-apa rakaman tampak (sama ada imej kaku atau bergerak) atau rakaman bunyi, atau apa-apa rakaman elektronik, magnetik, mekanik atau apa jua pun rakaman lain, pada apa-apa bahan, material, benda atau artikel, sebagaimana yang dinyatakan oleh Suruhanjaya dalam penentuan itu.".
+<!-- marginal: Suruhanjaya -->
+
+kepada Suruhanjaya untuk menghendaki mana-
+
+<!-- marginal: untuk -->
+
+<!-- marginal: menghendaki -->
+
+mana orang, atau jika mana-mana orang
+
+<!-- marginal: maklumat. -->
+
+dikehendaki di bawah Akta ini, untuk mengemukakan kepada Suruhanjaya apa-apa maklumat, dokumen atau buku, Suruhanjaya boleh menghendaki supaya maklumat, dokumen atau buku itu dikemukakan dalam apa-apa tempoh, pada apa-apa lat-tempoh, mengikut apa- apa cara, dalam apa-apa bentuk, dan secara bertulis atau dengan cara apa-apa rakaman tampak (sama ada imej kaku atau bergerak) atau rakaman bunyi, atau apa-apa rakaman elektronik, magnetik, mekanik atau apa jua pun rakaman lain, pada apa-apa bahan, material, benda atau artikel, sebagaimana yang dinyatakan oleh Suruhanjaya dalam penentuan itu.".
 
 <!-- page 40 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-17. Seksyen 44 Akta ibu adalah dipinda— seksyen 44.
+17. Seksyen 44 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 44. -->
 
 (a) dengan menggantikan perenggan (2)(c) dan (d) dengan perenggan yang berikut:
 
@@ -904,17 +1208,13 @@ Pindaan
 
 "(3) Peraturan-peraturan yang dibuat di bawah seksyen ini boleh membuat peruntukan bagi pengenaan penalti yang tidak melebihi dua puluh lima ribu ringgit bagi mana-mana kesalahan di bawahnya.".
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
 18. Akta ibu adalah dipinda dengan memasukkan selepas
 
 44A. seksyen 44 seksyen yang berikut:
 
-"indemniti. 44A. Suruhanjaya, mana-mana
-
-<!-- marginal: anggota -->
-
-Suruhanjaya atau mana-mana jawatankuasa yang ditubuhkan oleh Suruhanjaya, Pengerusi dan mana-mana pegawai Suruhanjaya tidaklah bertanggungan bagi sesuatu tindakan atau prosiding lain bagi ganti-rugi bagi atau oleh sebab, atau berkenaan dengan, apa-apa tindakan yang dilakukan atau pernyataan yang dibuat, ditinggalkan daripada dilakukan atau dibuat, menurut atau dalam melaksanakan sesuatu undang-undang sekuriti atau dalam melaksanakan mana-mana fungsi, atau dalam menjalankan mana-mana kuasa, yang diberikan atau dinyatakan sebagai diberikan oleh atau di bawah sesuatu undang-undang sekuriti:
+"indemniti. 44A. Suruhanjaya, mana-mana anggota Suruhanjaya atau mana-mana jawatankuasa yang ditubuhkan oleh Suruhanjaya, Pengerusi dan mana-mana pegawai Suruhanjaya tidaklah bertanggungan bagi sesuatu tindakan atau prosiding lain bagi ganti-rugi bagi atau oleh sebab, atau berkenaan dengan, apa-apa tindakan yang dilakukan atau pernyataan yang dibuat, ditinggalkan daripada dilakukan atau dibuat, menurut atau dalam melaksanakan sesuatu undang-undang sekuriti atau dalam melaksanakan mana-mana fungsi, atau dalam menjalankan mana-mana kuasa, yang diberikan atau dinyatakan sebagai diberikan oleh atau di bawah sesuatu undang-undang sekuriti:
 
 <!-- page 41 -->
 
@@ -964,9 +1264,13 @@ Kelas Atau Kategori Sekuriti Atau Kelas Atau Kategori Transaksi Yang Tidak Terta
 
 11. Penerbitan atau penguntukan sekuriti oleh suatu perbadanan yang tersenarai menurut perjalanan suatu waran, nota boleh tukar, opsyen atau hak melanggan boleh tukar, yang berkenaan dengannya Suruhanjaya telah terlebih dahulu memberikan kelulusannya di bawah subseksyen 32(4).".
 
-Kecualian dan
+<!-- marginal: Kecualian dan -->
 
-20. (1) Semua tindakan, peraturan, perintah, arahan, peralihan. pemberitahuan, kelulusan, keputusan, garis panduan dan tindakan eksekutif yang lain, apa jua pun dipanggil, yang dibuat, diberikan atau dilakukan di bawah, atau mengikut, atau menurut kuasa Akta ibu sebelum mula berkuatkuasanya Akta ini hendaklah disifatkan telah dibuat, diberikan atau dilakukan di bawah, atau mengikut, atau menurut kuasa, peruntukan yang bersamaan yang dimasukkan atau dipinda oleh Akta ini, dan hendaklah terus mempunyai kuatkuasa dan kesan sepenuhnya berhubungan dengan orang yang baginya ia terpakai sehingga dipinda, dimansuhkan atau dibatalkan di bawah, mengikut, atau menurut kuasa, peruntukan yang bersamaan yang dimasukkan atau dipinda oleh Akta ini.
+20. (1) Semua tindakan, peraturan, perintah, arahan,
+
+<!-- marginal: peralihan. -->
+
+pemberitahuan, kelulusan, keputusan, garis panduan dan tindakan eksekutif yang lain, apa jua pun dipanggil, yang dibuat, diberikan atau dilakukan di bawah, atau mengikut, atau menurut kuasa Akta ibu sebelum mula berkuatkuasanya Akta ini hendaklah disifatkan telah dibuat, diberikan atau dilakukan di bawah, atau mengikut, atau menurut kuasa, peruntukan yang bersamaan yang dimasukkan atau dipinda oleh Akta ini, dan hendaklah terus mempunyai kuatkuasa dan kesan sepenuhnya berhubungan dengan orang yang baginya ia terpakai sehingga dipinda, dimansuhkan atau dibatalkan di bawah, mengikut, atau menurut kuasa, peruntukan yang bersamaan yang dimasukkan atau dipinda oleh Akta ini.
 
 (2) Tiada apa-apa jua dalam Akta ibu atau Akta ini boleh menyentuh liabiliti mana-mana orang untuk didakwa atau dihukum bagi kesalahan-kesalahan yang dilakukan di bawah Akta ibu sebelum mula berkuatkuasanya Akta ini atau mana-mana prosiding yang dibawa atau hukuman yang dikenakan sebelum hari itu berkenaan dengan kesalahan itu.
 

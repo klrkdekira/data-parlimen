@@ -32,7 +32,13 @@ III
 
 ## PERUNTUKAN SAMPINGAN DAN AM
 
-9. Skop wilayah kesalahan di bawah Akta ini. 10. Kuasa penggeledahan, penyitaan dan penangkapan. 11. Menghalang penggeledahan. 12. Pendakwaan.
+9. Skop wilayah kesalahan di bawah Akta ini.
+
+10. Kuasa penggeledahan, penyitaan dan penangkapan.
+
+11. Menghalang penggeledahan.
+
+12. Pendakwaan.
 
 <!-- page 3 -->
 
@@ -210,11 +216,7 @@ II
 
 5. (1) Seseorang adalah melakukan suatu kesalahan jika dia melakukan apa-apa perbuatan yang dia tahu akan menyebabkan pengubahsuaian tanpa kuasa akan kandungan mana-mana komputer.
 
-(2) Bagi maksud seksyen ini, adalah tak material bahawa perbuatan berkenaan tidak
-
-<!-- marginal: ditujukan -->
-
-kepada—
+(2) Bagi maksud seksyen ini, adalah tak material bahawa perbuatan berkenaan tidak ditujukan kepada—
 
 (a) mana-mana atur cara atau data yang tertentu;
 
@@ -332,6 +334,4 @@ Fasal 12 memperkatakan keperluan untuk mendapatkan keizinan secara bertulis dari
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
-
-<!-- marginal: [PN. (U2) 1976.] -->
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN. (U2) 1976.]

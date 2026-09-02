@@ -38,7 +38,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 4. Akta ibu dipinda dengan menggantikan Jadual Pertama dengan Jadual yang berikut:
 
-“Jadual Pertama
+## “JADUAL PERTAMA
 
 (Seksyen 3)
 

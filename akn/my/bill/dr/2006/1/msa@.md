@@ -280,7 +280,9 @@ and includes —
 
 (c) permit the Chief Inspector or any other person authorized in writing by the Chief Inspector to have access to or examine or inspect any document, machinery or equipment maintained or used for the payment or collection of charges, fees or levy.
 
-(6) The authorization of a licensed person under subsection (3) shall not render the Federal Government liable to any person in respect of any injury, damage or loss occasioned by the failure of the licensed person to carry out his obligations under this Act in respect of which charges, fees or levy are demanded, collected and retained.
+(6) The authorization of a licensed person under subsection
+
+(3) shall not render the Federal Government liable to any person in respect of any injury, damage or loss occasioned by the failure of the licensed person to carry out his obligations under this Act in respect of which charges, fees or levy are demanded, collected and retained.
 
 (7) If a licensed person contravenes any condition of the licence or any of the provisions of any order made under this section or any of the provisions of subsection (5) with which he is required to comply he shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
@@ -314,7 +316,9 @@ and includes —
 
 7F. (1) Upon the revocation under section 7E of a licence granted to the licensed person, the Minister may, after consulting the Chief Inspector, appoint another person to carry out, discharge, assume or perform any of the functions, obligations, duties, responsibilities and conditions conferred or imposed by the revoked licence, and to receive any payments, benefits or privileges which the person whose licence is revoked is entitled to receive or enjoy under the terms and conditions of the licence.
 
-(2) The person whose licence is revoked and his agents or employees shall render all necessary assistance and cooperation to the person appointed by the Minister under subsection (1).".
+(2) The person whose licence is revoked and his agents or employees shall render all necessary assistance and cooperation to the person appointed by the Minister under subsection
+
+(1).".
 
 ### Pindaan seksyen 8
 
@@ -646,7 +650,9 @@ members nominated by the Minister, who in his opinion, have wide experience and 
 
 (3) An offer under subsection (2) may be made at any time after the offence has been committed, but before any prosecution is instituted, and where the amount specified in the offer is not paid within the time specified in the offer, or within such extended period as the Chief Inspector or the Deputy Chief Inspector or the Senior Inspector may grant, prosecution for the offence may be instituted at any time thereafter against the person to whom the offer was made.
 
-(4) Where an offence has been compounded under subsection (2) no prosecution shall thereafter be instituted in respect of the offence against the person to whom the offer to compound was made.
+(4) Where an offence has been compounded under subsection
+
+(2) no prosecution shall thereafter be instituted in respect of the offence against the person to whom the offer to compound was made.
 
 <!-- page 24 -->
 

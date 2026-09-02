@@ -56,7 +56,13 @@ diberikan kepadanya di bawah subseksyen (7) seksyen 29 dan hendaklah termasuk pe
 
 sebahagiannya bagi kegunaan seseorang pengarah atau orang individu yang menjadi ahli kakitangan pengurusan, pentadbiran atau perkeranian.".
 
-3. Seksyen 36 Akta ibu adalah dipinda dengan Pindaan seksyen 36. menggantikan subseksyen (2) dengan yang berikut:
+3. Seksyen 36 Akta ibu adalah dipinda dengan
+
+<!-- marginal: Pindaan -->
+
+<!-- marginal: seksyen 36. -->
+
+menggantikan subseksyen (2) dengan yang berikut:
 
 "(2) Amaun pendapatan statutori yang hendak dikurangkan di bawah subseksyen (1) hendaklah amaun yang ditentukan dengan mengenakan kepada pendapatan statutori kadar yang sama banyak dengan dua puluh lima peratus daripada jualan eksport atas jumlah jualan:
 
@@ -98,27 +104,37 @@ Dengan syarat selanjutnya bahawa jika suatu syarikat itu mengeksport pada atau s
 
 <!-- page 4 -->
 
-(b) dengan menggantikan noktah
-
-<!-- marginal: dalam -->
-
-subperenggan (b)(ii) dengan noktah bertindih dan memasukkan selepas subperenggan (ii) proviso yang berikut:
+(b) dengan menggantikan noktah dalam subperenggan (b)(ii) dengan noktah bertindih dan memasukkan selepas subperenggan (ii) proviso yang berikut:
 
 "Dengan syarat bahawa jika tempoh asas suatu syarikat bagi tahun taksiran 1994 termasuklah suatu tempoh sebelum 1hb Januari 1993, amaun potongan yang hendak dibuat di bawah subseksyen (1) hendaklah jumlah—
 
-(A) amaun yang sama banyak dengan lima peratus daripada pendapatan kasar yang ditentukan di bawah perenggan (2)(a) yang diperolehi daripada pengeksportan
-
-<!-- marginal: hasil -->
-
-pertanian atau pengeksportan oleh suatu syarikat perdagangan akan keluaran-keluaran yang dikilang di Malaysia dalam tempoh sebelum 1hb Januari 1993; dan
+(A) amaun yang sama banyak dengan lima peratus daripada pendapatan kasar yang ditentukan di bawah perenggan (2)(a) yang diperolehi daripada pengeksportan hasil pertanian atau pengeksportan oleh suatu syarikat perdagangan akan keluaran-keluaran yang dikilang di Malaysia dalam tempoh sebelum 1hb Januari 1993; dan
 
 (B) amaun yang sama banyak dengan tiga peratus daripada pendapatan kasar yang ditentukan di bawah perenggan
 
 (2)(a) yang diperolehi daripada pengeksportan hasil pertanian atau pengeksportan oleh suatu syarikat perdagangan akan keluaran-keluaran yang dikilang di Malaysia dalam tempoh selepas 31hb Disember 1992.".
 
-6. Akta ibu adalah dipinda dengan memasukkan selepas baru 40A. seksyen 40 seksyen yang berikut:
+6. Akta ibu adalah dipinda dengan memasukkan selepas
 
-"Elaun eks- 40A. Bab ini tidaklah terpakai bagi suatu port tidak syarikat berkenaan dengan eksport yang dibuat boleh didapati. pada atau selepas 1hb Januari 1994.".
+<!-- marginal: Seksyen -->
+
+<!-- marginal: baru 40A. -->
+
+seksyen 40 seksyen yang berikut:
+
+<!-- marginal: "Elaun eks- -->
+
+40A. Bab ini tidaklah terpakai bagi suatu
+
+<!-- marginal: port tidak -->
+
+syarikat berkenaan dengan eksport yang dibuat
+
+<!-- marginal: boleh -->
+
+<!-- marginal: didapati. -->
+
+pada atau selepas 1hb Januari 1994.".
 
 <!-- page 5 -->
 

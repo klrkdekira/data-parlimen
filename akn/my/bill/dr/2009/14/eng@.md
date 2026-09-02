@@ -112,7 +112,9 @@ which does not involve any element that is inconsistent with the principles of S
 
 (d) any other relevant discipline.
 
-(2) If a judge of the High Court, the Court of Appeal or the Federal Court, or a judge of the Shariah Appeal Court of a State or Federal Territory is to be appointed under subsection (1), such appointment shall not be made except—
+(2) If a judge of the High Court, the Court of Appeal or the Federal Court, or a judge of the Shariah Appeal Court of a State or Federal Territory is to be appointed under subsection
+
+(1), such appointment shall not be made except—
 
 (a) in the case of a judge of the High Court, the Court of Appeal or the Federal Court, after consultation by the Commission with the Chief Justice of the Federal Court; and
 

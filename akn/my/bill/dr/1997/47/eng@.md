@@ -40,7 +40,7 @@ after section 73 the following section: " Knowingly 73A. Notwithstanding section
 
 2 Bill
 
-New section
+<!-- marginal: New section -->
 
 3. The principal Act is amended by inserting after section
 
@@ -52,11 +52,15 @@ New section
 
 (b) exhibit the cheque or a copy of the cheque.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Section 80 of the principal Act is amended by inserting of section 80. after the words "a crossed cheque" the words "(including a cheque which under section 8lA or otherwise is not transferable)".
+4. Section 80 of the principal Act is amended by inserting
 
-New section
+<!-- marginal: of section 80. -->
+
+after the words "a crossed cheque" the words "(including a cheque which under section 8lA or otherwise is not transferable)".
+
+<!-- marginal: New section -->
 
 5. The principal Act is amended under the heading
 

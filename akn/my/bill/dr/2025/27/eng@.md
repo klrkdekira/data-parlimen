@@ -4,29 +4,41 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation
 
-## Part II
+## PART II
 
 ## SERVICE AGREEMENT
 
 3. Service agreement 4. Saving of existing service agreement 5. Prevailing terms and conditions 6. Validity of terms and conditions 7. Matters not provided under this Act
 
-## Part III
+## PART III
 
 ## GIG WORKER
 
-8. Rights of gig worker 9. Prohibition on contracting entity in respect of certain acts 10. Rights of gig worker to join, participate in or establish gig workers’ association 11. Rights to earnings 12. Deduction of earnings, tip and gratuities 13. Right to be issued earnings slip 14. Deactivation under service agreement, etc.
+8. Rights of gig worker 9. Prohibition on contracting entity in respect of certain acts
 
-15. Priority of earnings over other debts 16. Duties of contracting entity under this Part
+10. Rights of gig worker to join, participate in or establish gig workers’ association
+
+11. Rights to earnings
+
+12. Deduction of earnings, tip and gratuities
+
+13. Right to be issued earnings slip
+
+14. Deactivation under service agreement, etc.
+
+15. Priority of earnings over other debts
+
+16. Duties of contracting entity under this Part
 
 <!-- page 2 -->
 
-## Part IV
+## PART IV
 
 ## DISPUTE RESOLUTION
 
@@ -44,7 +56,7 @@
 
 23. Application of Public Authorities Protection Act 1948
 
-## Part V
+## PART V
 
 ## GIG WORKERS TRIBUNAL
 
@@ -84,15 +96,61 @@
 
 <!-- page 3 -->
 
-41. Exclusion of evidence 42. Award of Tribunal 43. Award of Tribunal to be binding 44. Appeal to High Court 45. Criminal penalty for failure to comply
+41. Exclusion of evidence
 
-## Part VI
+42. Award of Tribunal
+
+43. Award of Tribunal to be binding
+
+44. Appeal to High Court
+
+45. Criminal penalty for failure to comply
+
+## PART VI
 
 ## CONSULTATIVE COUNCIL
 
-46. Establishment of Consultative Council 47. Functions and powers of Council 48. Recommendation by Council 49. Decision on recommendation 50. Order of Minister 51. Membership of Council 52. Temporary exercise of functions of Chairman 53. Secretary 54. Tenure of office 55. Allowances 56. Revocation of appointment and resignation 57. Vacation of office 58. Meetings 59. Minutes 60. Council may invite others to attend meetings 61. Procedures 62. Council may establish committees 63. Secretariat 64. Obligation of secrecy
+46. Establishment of Consultative Council
 
-65. Funds 66. Validity of acts and proceedings
+47. Functions and powers of Council
+
+48. Recommendation by Council
+
+49. Decision on recommendation
+
+50. Order of Minister
+
+51. Membership of Council
+
+52. Temporary exercise of functions of Chairman
+
+53. Secretary
+
+54. Tenure of office
+
+55. Allowances
+
+56. Revocation of appointment and resignation
+
+57. Vacation of office
+
+58. Meetings
+
+59. Minutes
+
+60. Council may invite others to attend meetings
+
+61. Procedures
+
+62. Council may establish committees
+
+63. Secretariat
+
+64. Obligation of secrecy
+
+65. Funds
+
+66. Validity of acts and proceedings
 
 <!-- page 4 -->
 
@@ -100,7 +158,7 @@
 
 68. Application of Public Authorities Protection Act 1948
 
-## Part VII
+## PART VII
 
 ## PROVISION RELATING TO SUPERVISION AND ENFORCEMENT OF PART III,
 
@@ -154,21 +212,61 @@
 
 <!-- page 5 -->
 
-90. Compounding of offences 91. Power of investigation 92. Public servant 93. Application of Public Authorities Protection Act 1948 94. Matters to be decided by Tribunal under Self-Employment Social Security Act 2017
+90. Compounding of offences
 
-## Part IX
+91. Power of investigation
+
+92. Public servant
+
+93. Application of Public Authorities Protection Act 1948
+
+94. Matters to be decided by Tribunal under Self-Employment Social Security Act 2017
+
+## PART IX
 
 ## OCCUPATIONAL SAFETY AND HEALTH
 
-95. Director General, Deputy Director General and officers 96. Functions of Director General 97. Powers of Director General 98. Application of this Part 99. Investigating officers and enforcement officers 100. Authority card 101. Power of enforcement, investigation and inspection 102. Compounding of offences 103. Duties of contracting entity under this Part 104. Duties of gig worker under this Part 105. Public servant 106. Application of Public Authorities Protection Act 1948
+95. Director General, Deputy Director General and officers
 
-## Part X
+96. Functions of Director General
+
+97. Powers of Director General
+
+98. Application of this Part
+
+99. Investigating officers and enforcement officers
+
+100. Authority card
+
+101. Power of enforcement, investigation and inspection
+
+102. Compounding of offences
+
+103. Duties of contracting entity under this Part
+
+104. Duties of gig worker under this Part
+
+105. Public servant
+
+106. Application of Public Authorities Protection Act 1948
+
+## PART X
 
 ## MISCELLANEOUS
 
-107. Prosecution 108. General penalty 109. Offence by body corporate, etc. 110. Power to amend Schedule 111. Power to exempt 112. Power to make regulations
+107. Prosecution
 
-## Schedule
+108. General penalty
+
+109. Offence by body corporate, etc.
+
+110. Power to amend Schedule
+
+111. Power to exempt
+
+112. Power to make regulations
+
+## SCHEDULE
 
 <!-- page 7 -->
 
@@ -180,7 +278,7 @@ An Act to protect the rights of a gig worker, to provide for the duties of a con
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -250,11 +348,9 @@ who engages and enters into a service agreement with a gig worker for the perfor
 
 (b) a payment voluntarily made through a contracting entity with the intention that the payment would be made to the gig worker in addition to his earnings;
 
-“Tribunal” means the Gig Workers Tribunal established under
+“Tribunal” means the Gig Workers Tribunal established under Part V of this Act.
 
-## Part V of this Act.
-
-## Part II
+## PART II
 
 ## SERVICE AGREEMENT
 
@@ -296,7 +392,7 @@ who engages and enters into a service agreement with a gig worker for the perfor
 
 7. If there is no provision made in respect of any matter under this Act, the matter shall not be prevented from being provided in a service agreement or from being negotiated upon between a contracting entity and a gig worker.
 
-## Part III
+## PART III
 
 ## GIG WORKER
 
@@ -442,7 +538,7 @@ Provided that the total amount of the earnings of any gig worker to which priori
 
 <!-- page 17 -->
 
-## Part IV
+## PART IV
 
 ## DISPUTE RESOLUTION
 
@@ -512,7 +608,7 @@ Provided that the total amount of the earnings of any gig worker to which priori
 
 23. The Public Authorities Protection Act 1948 [Act 198] shall apply to any action, suit, prosecution or proceedings against the Conciliator in respect of any act, neglect or default done or committed by him in good faith or any omission by him in good faith, in such capacity.
 
-## Part V
+## PART V
 
 ## GIG WORKERS TRIBUNAL
 
@@ -780,7 +876,7 @@ Provided that the total amount of the earnings of any gig worker to which priori
 
 (2) In the case of a continuing offence, the offender shall, in addition to the penalties under subsection (1), be liable to a fine not exceeding five hundred ringgit for each day or part of a day during which the offence continues after conviction.
 
-## Part VI
+## PART VI
 
 ## CONSULTATIVE COUNCIL
 
@@ -1060,7 +1156,7 @@ Provided that the total amount of the earnings of any gig worker to which priori
 
 68. The Public Authorities Protection Act 1948 shall apply to any action, suit, prosecution or proceedings against any member of the Council or committee, or officer of the Council in respect of any act, neglect or default done or committed by him in good faith or any omission by him in good faith, in such capacity.
 
-## Part VII
+## PART VII
 
 ## PROVISION RELATING TO SUPERVISION AND
 
@@ -1124,9 +1220,7 @@ Provided that the total amount of the earnings of any gig worker to which priori
 
 (b) to enter into any premise and to inspect any document, record or other relevant thing to ensure compliance with any relevant provision in Part III, Part V and Part VI;
 
-(c) to seize any document, record or other relevant thing for the purposes of investigation under Part III, Part V and
-
-## Part VI; and
+(c) to seize any document, record or other relevant thing for the purposes of investigation under Part III, Part V and Part VI; and
 
 (d) to investigate the commission of any offence under
 
@@ -1136,11 +1230,7 @@ Provided that the total amount of the earnings of any gig worker to which priori
 
 ### Compounding of offences
 
-75. (1) For the purposes of this Part, the Director General may, with the consent in writing of the Public Prosecutor, compound any offence committed by any person under Part III, Part V and
-
-## Part VI prescribed to be a compoundable offence by making
-
-a written offer to the person suspected to have committed the offence to compound the offence upon payment to the Director General of an amount of money not exceeding fifty per centum of the amount of maximum fine for that offence within such time as may be specified in his written offer.
+75. (1) For the purposes of this Part, the Director General may, with the consent in writing of the Public Prosecutor, compound any offence committed by any person under Part III, Part V and Part VI prescribed to be a compoundable offence by making a written offer to the person suspected to have committed the offence to compound the offence upon payment to the Director General of an amount of money not exceeding fifty per centum of the amount of maximum fine for that offence within such time as may be specified in his written offer.
 
 (2) An offer under subsection (1) may be made at any time after the offence has been committed but before any prosecution for it has been instituted.
 
@@ -1328,7 +1418,7 @@ commits an offence and shall, on conviction, be liable to imprisonment for a ter
 
 94. The Tribunal established under Part VII of the Self-Employment Social Security Act 2017 shall have the powers to decide on any matter in respect of this Part referred to the Tribunal by any person.
 
-## Part IX
+## PART IX
 
 ## OCCUPATIONAL SAFETY AND HEALTH
 
@@ -1442,7 +1532,7 @@ commits an offence and shall, on conviction, be liable to imprisonment for a ter
 
 106. The Public Authorities Protection Act 1948 shall apply to any action, suit, prosecution or proceedings against any officer in respect of any act, neglect or default done or committed by him in good faith or any omission by him in good faith, in such capacity.
 
-## Part X
+## PART X
 
 ## MISCELLANEOUS
 
@@ -1494,21 +1584,15 @@ may be charged jointly or severally with the body corporate, partnership, sole p
 
 (c) the offences which may be compounded, the forms to be used, and the methods and procedures for compounding such offences under this Act;
 
-(d) any matter to be prescribed by the Minister under
-
-## Part VIII; and
+(d) any matter to be prescribed by the Minister under Part VIII; and
 
 (e) any other matter for the better carrying out of the provisions of this Act.
 
-## Schedule
+## SCHEDULE
 
 [Section 2]
 
-(1) (2)
-
-<!-- marginal: (3) -->
-
-No. Service Relevant gig worker
+(1) (2) (3) No. Service Relevant gig worker
 
 1. Acting Actor
 
@@ -1536,29 +1620,17 @@ No. Service Relevant gig worker
 
 <!-- marginal: (3) -->
 
-No. Service
+No. Service Relevant gig worker
 
-<!-- marginal: Relevant gig worker -->
+5. Translation (a) sign interpreter
 
-5. Translation (a)
+(b) interpreter or translator
 
-<!-- marginal: sign interpreter -->
+(c) transcriber
 
-(b)
+6. Journalism (a) journalist
 
-<!-- marginal: interpreter or translator -->
-
-(c)
-
-<!-- marginal: transcriber -->
-
-6. Journalism (a)
-
-<!-- marginal: journalist -->
-
-(b)
-
-<!-- marginal: stringer -->
+(b) stringer
 
 7. Prenatal and postnatal care Caregiver or treatment 8. Palliative, elderly and Caregiver rehabilitation care
 
@@ -1572,7 +1644,7 @@ No. Service
 
 The Gig Workers Act 2025 (“the proposed Act”) seeks to protect the rights of the gig worker, to provide for the duties of the contracting entity, to regulate terms and conditions of the service agreement entered into between a contracting entity and gig worker, to provide for dispute resolution mechanism, to provide for the establishment of the Consultative Council, to provide for the establishment of the Gig Workers Tribunal and to provide for related matters.
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act deals with preliminary matters.
 
@@ -1582,7 +1654,7 @@ The Gig Workers Act 2025 (“the proposed Act”) seeks to protect the rights of
 
 <!-- page 58 -->
 
-## Part II
+## PART II
 
 5. Part II of the proposed Act deals with provisions relating to the service agreement and all related matters.
 
@@ -1596,7 +1668,7 @@ The Gig Workers Act 2025 (“the proposed Act”) seeks to protect the rights of
 
 10. Clause 7 seeks to provide that if any matter is not provided for under the proposed Act, such matter is not prevented from being provided for in the service agreement or being negotiated upon between a contracting entity and a gig worker.
 
-## Part III
+## PART III
 
 11. Part III of the proposed Act deals with provisions relating to the gig workers and their rights which are protected under the proposed Act.
 
@@ -1620,7 +1692,7 @@ The Gig Workers Act 2025 (“the proposed Act”) seeks to protect the rights of
 
 20. Clause 16 seeks to provide for duties of contracting entity to fulfil rights of the gig worker as provided under this Act.
 
-## Part IV
+## PART IV
 
 21. Part IV of the proposed Act deals with the internal grievance mechanism and conciliation process under the proposed Act.
 
@@ -1638,7 +1710,7 @@ The Gig Workers Act 2025 (“the proposed Act”) seeks to protect the rights of
 
 28. Clause 23 seeks to provide for the application of the Public Authorities Protection Act 1948.
 
-## Part V
+## PART V
 
 29. Part V of the proposed Act deals with the Gig Workers Tribunal and other related matters.
 
@@ -1690,7 +1762,7 @@ The Gig Workers Act 2025 (“the proposed Act”) seeks to protect the rights of
 
 <!-- page 61 -->
 
-## Part VI
+## PART VI
 
 52. Part VI of the proposed Act deals with the establishment, functions and powers of the Consultative Council.
 
@@ -1742,7 +1814,7 @@ The Gig Workers Act 2025 (“the proposed Act”) seeks to protect the rights of
 
 75. Clause 68 seeks to provide for the application of the Public Authorities Protection Act 1948.
 
-## Part VII
+## PART VII
 
 76. Part VII of the proposed Act deals with the provision relating to supervision and enforcement of Part III, Part V and Part VI.
 
@@ -1806,7 +1878,7 @@ The Gig Workers Act 2025 (“the proposed Act”) seeks to protect the rights of
 
 <!-- page 64 -->
 
-## Part IX
+## PART IX
 
 104. Part IX of the proposed Act deals with the provision relating to occupational safety and health of the gig worker.
 
@@ -1834,7 +1906,7 @@ The Gig Workers Act 2025 (“the proposed Act”) seeks to protect the rights of
 
 116. Clause 106 seeks to provide for the application of the Public Authorities Protection Act 1948.
 
-## Part X
+## PART X
 
 117. Part X deals with miscellaneous provisions.
 

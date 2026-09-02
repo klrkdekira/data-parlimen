@@ -1,0 +1,430 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-20-2018",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_9"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Children and Young Persons (Employment) (Amendment) Bill 2018"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Children and Young Persons (Employment) (Amendment) Act 2018."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette and the Minister may appoint different dates for the coming into operation of different provisions of this Act. Amendment of section 1a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Children and Young Persons (Employment) Act 1966 [Act 350], which is referred to as the “principal Act” in this Act, is amended in subsection 1a(1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “child” the following definition: ‘ “child” means a person under the age of fifteen years;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “entertainment” the following definition: ‘ “family” means a parent, sibling or guardian who has custody, of a child or young person;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “light work” the following definition: ‘ “light work” means any work performed by a child or young person which is not likely— (a) to be harmful to his health, mental, or physical capacity; or (b) to prejudice his attendance at school that includes any place which teaches any religion, his participation in vocational orientation or training programmes approved by the competent authority or his capacity to benefit from the instruction received;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “Minister”, by substituting for the word “labour” the words “human resources”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “young person” the following definition: ‘ “young person” means a person who has attained the age of fifteen years and under the age of eighteen years.’. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 2 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “(1) For the purpose of this section, “hazardous work” means work specified in the Fourth Schedule.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsections: “(1 a) No child or young person shall be, or be required or permitted to be, engaged in any hazardous work, or any employment other than those specified in this section. (1b) Notwithstanding subsection (1a), a young person may be engaged in any hazardous work with personal supervision if he is— (a) under an apprenticeship contract; or (b) undergoing a vocational training.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsections: “(2a) The age of admission to light work as specified in paragraph (2)(a) shall not be less than thirteen years. (2b) Notwithstanding subsections (2) and (3), no child or young person shall be, or be required or permitted to be, engaged in any employment specified in the Fifth Schedule.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3__para_d__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3__para_d__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3__para_d__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph (b);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by deleting the words “bars,” and “, club”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3__para_d__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (e), by substituting for the colon at the end of the paragraph a full stop; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3__para_d__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the provisos;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5), by deleting the words “or in any employment requiring him to work underground”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (6). Amendment of section 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the heading to section 8; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting section 8. Amendment of section 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 11(1) of the principal Act is amended by deleting the words “or by the Director General”. Amendment of section 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_6__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 14(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one year” the words “two years”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “five thousand” the words “fifty thousand”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “three years” the words “five years”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “ten thousand” the words “one hundred thousand”. Amendment of section 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 15 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting the word “and” at the end of paragraph 2(a);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 2(b), by substituting for words “; and” a full stop; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph 2(c). New section 15a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 15 the following section: “Power to amend Schedules 15a. The Minister may, by order published in the Gazette, amend the Schedules to this Act.”. New Schedules"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/20/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after the Third Schedule the following Schedules: “FOURTH SCHEDULE (Subsection 2(1)) List of hazardous work A. WORK RELATED TO MACHINES, INSTALLATIONS AND OTHER EQUIPMENT 1. Machinery (a) Any machine tools or production machine which can pose high risk such as drilling machines, grinding machines, cutting machines, lathes machines, scraping machines, power press machine, knitting machines, weaving machines, packaging machines and bottling machines; (b) Steam boiler or internal combustion engine such as diesel engines, turbines and engines for generating electricity; (c) Hoisting and loading machine such as lift, hoist, crane, escalators, conveyor belts, gondolas and forklift; or (d) High pressure vessels. 2. Heavy-duty machine such as tractors, rock breakers, graders, asphalt mixers, piling machine and agriculture machinery. 3. Installations such as pressure pipe, electricity, firefighting system and electricity transmission lines. B. WORK CONDUCTED IN HAZARDOUS ENVIRONMENT 1. Work that is exposed to physical hazards (a) Underground work, underwater or in a confined space such as a well or a tunnel; (b) Working at height which can lead to serious bodily injury; (c) Working environment which involves electricity at high voltage power line; (d) Working in a caisson with limited ventilation; (e) Work that uses electric welding machines or gas welding machines; (f) Work in an environment with extreme temperature and moisture or high-speed wind; (g) Work in an environment with noise or vibration where intensity exceeds the permissible exposure limits; (h) Work to handle, store, use and transport radioactive substances; (i) Work that produces ionizing radiation or work in an environment with ionizing radiation; (j) Work in a dusty environment that is detrimental to health; (k) Work which may lead to electrocution, fire or explosion; or (l) Manual handling works which may pose high risk such as lifting, lowering, pushing, pulling, carrying or moving a load. 2. Work that is exposed to chemical hazards (a) Work in relation to production, processing, handling, storage, transport, removal, disposal or treatment of hazardous chemical as defined in the Occupational Safety and Health (Classification, Labelling and Safety Data Sheet of Hazardous Chemicals) Regulations 2013 [P.U. (A) 310/2013]; or (b) Work in relation to production, processing, handling, storage, transport, removal, disposal or treatment of pesticides and schedule waste as defined in the Pesticides Act 1974 [Act 149] and the Environmental Quality (Scheduled Wastes) Regulations 2005 [P.U. (A) 294/2005]. 3. Work that is exposed to biological hazards Work in an environment that relates to germs, bacteria, viruses, fungi, parasites and other biological agents such as works in clinical laboratories, slaughter house, meat processing place and silo or storage for storing crops. C. WORK CONTAIN CERTAIN HAZARDOUS NATURE AND CONDITION 1. Construction work including construction of building, bridges, roads, or irrigation project. 2. Work in timber industry such as cutting, transporting and unloading trees. 3. Work offshore such as working in a petroleum platform. 4. Work above or near water where the risk of drowning exist such as lifeguard, fishing activities and work in water treatment plant. FIFTH SCHEDULE [Subsection 2(2b)] Employment in which children or young persons shall not be required, permitted to be or engaged in— 1. All kind of employment that make use of, procure, or offer children or young persons for prostitution. 2. All kind of employment as social escorts, hostesses and any other related activities. 3. All kind of employment that require children or young persons to involve in the production or trade of alcoholic beverages. 4. All kind of employment related to gambling and lotteries activities. 5. All kind of employment that require children or young persons to work in any activities related to massage services or reflexology services. 6. All kind of employment that make use of, procure, or offer children or young persons for any kind of job related to pornography. 7. All kind of employment that make use of, procure, or involve children or young persons for the production and trade of drugs, narcotics, psychotropic substances and other addictive substances which are prohibited under any written law in operation.”."
+      }
+    }
+  ]
+}

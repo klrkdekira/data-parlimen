@@ -86,4 +86,6 @@ This Bill seeks to amend the Bank Kerjasama Rakyat Malaysia Berhad (Special Prov
 
 ## FIN A NCI A L IMPLICA TIONS
 
-This Bill will not involve the Government in any extra financial expenditure. [PN(U2)2482]
+This Bill will not involve the Government in any extra financial expenditure.
+
+<!-- marginal: [PN(U2)2482] -->

@@ -44,15 +44,23 @@ may hold shares, either individually or with another person, in an offshore comp
 
 <!-- page 2 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Section 29 of the principal Act is amended by of section 29. substituting for the words "and any person" in subsection
+3. Section 29 of the principal Act is amended by
+
+<!-- marginal: of section 29. -->
+
+substituting for the words "and any person" in subsection
 
 (2) the words "except by an offshore company or foreign offshore company granted a licence under the Offshore Banking Act 1990 and any person, other than an offshore company or foreign offshore company so granted a licence under that Act,".
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Section 31 of the principal Act is amended by of section 31. substituting for subsection (6) the following:
+4. Section 31 of the principal Act is amended by
+
+<!-- marginal: of section 31. -->
+
+substituting for subsection (6) the following:
 
 "(6) In this section, "prescribed company" means—
 
@@ -60,15 +68,21 @@ Amendment
 
 (b) an offshore company or a foreign offshore company or a trust company which has been declared by the Minister by notice published in the Gazette to be a prescribed company for the purposes of this section.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-5. Section 87 of the principal Act is amended by of section 87. substituting for the full stop at the end of subsection (2) a colon and inserting immediately thereafter the following new proviso:
+5. Section 87 of the principal Act is amended by
+
+<!-- marginal: of section 87. -->
+
+substituting for the full stop at the end of subsection (2) a colon and inserting immediately thereafter the following new proviso:
 
 "Provided that an officer of a domestic or foreign company granted a licence or registered under the Insurance Act 1963, Islamic Banking Act 1983, Takaful Act 1984 or the Banking and Financial Institutions Act 1989 made available for the appointment by such domestic or foreign company, as the case may be, may act or be appointed as a resident director of an offshore company in which such domestic or foreign company holds shares.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-6. Section 109 of the principal Act is amended— of section
+6. Section 109 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 109.
 
@@ -100,9 +114,7 @@ inserting, immediately after the words "audited accounts" in lines three and fou
 
 <!-- marginal: New -->
 
-9. The principal Act is amended by
-
-<!-- marginal: inserting, -->
+9. The principal Act is amended by inserting,
 
 <!-- marginal: section 113A. -->
 
@@ -120,17 +132,67 @@ immediately after section 113, the following new section
 
 (c) the members of the company so resolve at a meeting of members of the company that such an appointment need not be made in respect of each financial year.".
 
-New
+<!-- marginal: New -->
 
-10. The principal Act is amended by inserting, sections immediately after section 149, the following new 150, 151 and 152. sections 150, 151 and 152:
+10. The principal Act is amended by inserting,
 
-"Power of 150. The Minister may, on the recommen- exemption. dation of the Registrar, on an application in writing, exempt any offshore company or foreign offshore company or class of offshore companies or foreign offshore companies from any of the provisions of this Act and may, in granting such exemption, impose such terms and conditions as the Minister thinks fit.
+<!-- marginal: sections -->
 
-Additional 151. (1) An offshore company or foreign fee. offshore company carrying on an offshore business activity which is an offshore trading Act 445. activity as defined in Labuan Offshore Business Activity Tax Act 1990 may, in addition to any other fee payable under this Act, pay a fee of twenty thousand ringgit to the Registrar.
+immediately after section 149, the following new
+
+<!-- marginal: 150, 151 -->
+
+<!-- marginal: and 152. -->
+
+sections 150, 151 and 152:
+
+<!-- marginal: "Power of -->
+
+150. The Minister may, on the recommen-
+
+<!-- marginal: exemption. -->
+
+dation of the Registrar, on an application in writing, exempt any offshore company or foreign offshore company or class of offshore companies or foreign offshore companies from any of the provisions of this Act and may, in granting such exemption, impose such terms and conditions as the Minister thinks fit.
+
+<!-- marginal: Additional -->
+
+151. (1) An offshore company or foreign
+
+<!-- marginal: fee. -->
+
+offshore company carrying on an offshore business activity which is an offshore trading
+
+<!-- marginal: Act 445. -->
+
+activity as defined in Labuan Offshore Business Activity Tax Act 1990 may, in addition to any other fee payable under this Act, pay a fee of twenty thousand ringgit to the Registrar.
 
 (2) Such fee shall be paid not later than the 31st day of March of a calendar year.
 
-Non- 152. (1) The Yang di-Pertuan Agong may, by application order published in the Gazette, provide that any of specified written written law, or part thereof, specified in the laws. order, shall not apply in relation to an offshore company, a foreign offshore company, a trust company, or a person who holds a valid licence granted under either section 6 (2) of the Act 443. Offshore Banking Act 1990 or section 9 (1) of Act 444. the Offshore Insurance Act 1990, or shall apply thereto with such modifications as may be set out in the order.
+<!-- marginal: Non- -->
+
+152. (1) The Yang di-Pertuan Agong may, by
+
+<!-- marginal: application -->
+
+order published in the Gazette, provide that any
+
+<!-- marginal: of specified -->
+
+<!-- marginal: written -->
+
+written law, or part thereof, specified in the
+
+<!-- marginal: laws. -->
+
+order, shall not apply in relation to an offshore company, a foreign offshore company, a trust company, or a person who holds a valid licence granted under either section 6 (2) of the
+
+<!-- marginal: Act 443. -->
+
+Offshore Banking Act 1990 or section 9 (1) of
+
+<!-- marginal: Act 444. -->
+
+the Offshore Insurance Act 1990, or shall apply thereto with such modifications as may be set out in the order.
 
 (2) The modifications made to a written law by an order made under subsection (1) shall be deemed to be an integral part of such written law for the purposes of the order.
 

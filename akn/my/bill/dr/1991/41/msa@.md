@@ -14,17 +14,17 @@
 
 <!-- marginal: TAMBAHAN -->
 
-Jil. 35 12hb Disember 1991 No. 25
+<!-- marginal: Jil. 35 -->
+
+12hb Disember 1991
+
+<!-- marginal: No. 25 -->
 
 <!-- marginal: No. 12 -->
 
 ## RANG UNDANG-UNDANG
 
-Rang Undang-undang yang berikut
-
-<!-- marginal: telah di- -->
-
-bentangkan dalam Parlimen adalah diterbitkan untuk makluman umum:
+Rang Undang-undang yang berikut telah di- bentangkan dalam Parlimen adalah diterbitkan untuk makluman umum:
 
 The following Bills introduced into Parliament are published for general information:
 
@@ -62,7 +62,23 @@ Naskhah Sahih—Bahasa Malaysia
 
 ## SUSUNAN FASAL
 
-1. Tajuk ringkas dan pemakaian. 2. Tafsiran. 3. Pemberikuasaan Menandatangani Perjanjian. 4. Sumbangan kepada Tabung. 5. Kelulusan Dewan Rakyat mengenai sumbangan tambahan kepada Tabung. 6. Pengeluaran nota tak boleh niaga dan nota tanpa bunga. 7. Pertanggungan bayaran-bayaran lain kepada Kumpulan Wang Disatukan. 8. Penerimaan. 9. Perintah-perintah bagi menguatkuasakan Perjanjian.
+1. Tajuk ringkas dan pemakaian.
+
+2. Tafsiran.
+
+3. Pemberikuasaan Menandatangani Perjanjian.
+
+4. Sumbangan kepada Tabung.
+
+5. Kelulusan Dewan Rakyat mengenai sumbangan tambahan kepada Tabung.
+
+6. Pengeluaran nota tak boleh niaga dan nota tanpa bunga.
+
+7. Pertanggungan bayaran-bayaran lain kepada Kumpulan Wang Disatukan.
+
+8. Penerimaan.
+
+9. Perintah-perintah bagi menguatkuasakan Perjanjian.
 
 <!-- page 5 -->
 
@@ -104,23 +120,61 @@ Pembangunan Pertanian pada 13hb Jun 1976 di Rome, dan di mana satu salinan teks 
 
 "Tabung" ertinya Tabung Antarabangsa bagi Pembangunan Pertanian yang ditubuhkan melalui Perjanjian.
 
-Pemberikuasaan
+<!-- marginal: Pemberikuasaan -->
 
-3. Yang di-Pertuan Agong boleh, melalui suratcara di Menandatangani bawah tandatangannya, memberi kuasa kepada mana- Perjanjian. mana orang sebagaimana yang dinamakan dalam suratcara itu, bagi pihak Kerajaan Malaysia—
+3. Yang di-Pertuan Agong boleh, melalui suratcara di
+
+<!-- marginal: Menandatangani -->
+
+bawah tandatangannya, memberi kuasa kepada mana-
+
+<!-- marginal: Perjanjian. -->
+
+mana orang sebagaimana yang dinamakan dalam suratcara itu, bagi pihak Kerajaan Malaysia—
 
 (a) untuk menandatangani Perjanjian itu; dan
 
 (b) untuk menyimpan di Tabung suatu suratcara penerimaan Perjanjian itu yang menyatakan bahawa Kerajaan Malaysia telah menerima Perjanjian itu mengikut undang-undangnya dan telah mengambil segala langkah yang perlu untuk membolehkan Kerajaan Malaysia menjalankan semua obligasinya di bawah Perjanjian tersebut.
 
-Sumbangan
+<!-- marginal: Sumbangan -->
 
-4. (1) Maka hendaklah dipertanggungkan kepada kepada Kumpulan Wang Disatukan apa-apa bahagian Tabung. sumbangan Malaysia kepada Tabung menurut seksyen 3 Perkara 4 Perjanjian yang, mengikut seksyen 5 Perkara 4 Perjanjian, kena dibayar dengan mata wang boleh tukar secara bebas atau dengan mata wang Malaysia.
+4. (1) Maka hendaklah dipertanggungkan kepada
+
+<!-- marginal: kepada -->
+
+Kumpulan Wang Disatukan apa-apa bahagian
+
+<!-- marginal: Tabung. -->
+
+sumbangan Malaysia kepada Tabung menurut seksyen 3 Perkara 4 Perjanjian yang, mengikut seksyen 5 Perkara 4 Perjanjian, kena dibayar dengan mata wang boleh tukar secara bebas atau dengan mata wang Malaysia.
 
 (2) Tertakluk kepada seksyen 5, maka hendaklah dipertanggungkan kepada Kumpulan Wang Disatukan mana-mana bahagian apa-apa penambahan sumbangan Malaysia kepada Tabung sebagaimana yang, menurut seksyen 4 Perkara 4 Perjanjian, kena dibayar dengan mata wang boleh tukar secara bebas atau dengan mata wang Malaysia.
 
-Kelulusan
+<!-- marginal: Kelulusan -->
 
-5. Bila masa juga apa-apa penambahan sumbangan Dewan Rakyat Malaysia kepada Tabung dibenarkan menurut seksyen mengenai sumbangan 4 Perkara 4 Perjanjian, tiada amaun boleh disumbangkan tambahan berkenaan dengannya kecuali dengan keiulusan terlebih kepada dahulu daripada Dewan Rakyat, yang ditandakan Tabung. melalui ketetapan.
+5. Bila masa juga apa-apa penambahan sumbangan
+
+<!-- marginal: Dewan Rakyat -->
+
+Malaysia kepada Tabung dibenarkan menurut seksyen
+
+<!-- marginal: mengenai -->
+
+<!-- marginal: sumbangan -->
+
+4 Perkara 4 Perjanjian, tiada amaun boleh disumbangkan
+
+<!-- marginal: tambahan -->
+
+berkenaan dengannya kecuali dengan keiulusan terlebih
+
+<!-- marginal: kepada -->
+
+dahulu daripada Dewan Rakyat, yang ditandakan
+
+<!-- marginal: Tabung. -->
+
+melalui ketetapan.
 
 <!-- page 7 -->
 
@@ -178,9 +232,19 @@ Malaysia kepada Tabung di bawah seksyen
 
 <!-- page 8 -->
 
-Perintah-
+<!-- marginal: Perintah- -->
 
-9. (1) Yang di-Pertuan Agong boleh melalui perintah perintah bagi membuat apa-apa peruntukan sebagaimana yang menguatkuasa- kan Perjanjian. difikirkan semunasabahnya perlu bagi menguatkuasakan mana-mana peruntukan Perjanjian berhubungan dengan taraf, kekebalan-kekebalan dan keistimewaan- keistimewaan Tabung dan gabenor-gabenor, pengarah- pengarah eksekutif, anggota-anggota silih ganti, pegawai-pegawai dan pekerja-pekerja masing-masing.
+9. (1) Yang di-Pertuan Agong boleh melalui perintah
+
+<!-- marginal: perintah bagi -->
+
+membuat apa-apa peruntukan sebagaimana yang
+
+<!-- marginal: menguatkuasa- -->
+
+<!-- marginal: kan Perjanjian. -->
+
+difikirkan semunasabahnya perlu bagi menguatkuasakan mana-mana peruntukan Perjanjian berhubungan dengan taraf, kekebalan-kekebalan dan keistimewaan- keistimewaan Tabung dan gabenor-gabenor, pengarah- pengarah eksekutif, anggota-anggota silih ganti, pegawai-pegawai dan pekerja-pekerja masing-masing.
 
 (2) Tanpa menjejaskan keluasan subseksyen (1), apa- apa perintah yang dibuat di bawah subseksyen itu boleh mengisytiharkan bahawa mana-mana peruntukan tertentu dalam Perjanjian hendaklah mempunyai kuatkuasa undang-undang di Malaysia.
 

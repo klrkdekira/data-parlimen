@@ -50,7 +50,11 @@ seksyen 2—
 
 "Minister" means the Minister of the Federal Government who is for the time being charged with the responsibility for pensions;'.
 
-Pindaan 3. Seksyen 3 Ordinan adalah dipinda— seksyen 3.
+<!-- marginal: Pindaan -->
+
+3. Seksyen 3 Ordinan adalah dipinda—
+
+<!-- marginal: seksyen 3. -->
 
 (a) dengan menggantikan subseksyen (2) dengan subseksyen yang berikut:
 
@@ -58,13 +62,7 @@ Pindaan 3. Seksyen 3 Ordinan adalah dipinda— seksyen 3.
 
 (a) the local pensions authority, who shall be the Chairman;
 
-(b) two officers from the Public Service Department, Malaysia,
-
-<!-- marginal: to -->
-
-<!-- marginal: be -->
-
-appointed by the Director General of Public Service;
+(b) two officers from the Public Service Department, Malaysia, to be appointed by the Director General of Public Service;
 
 (c) one officer from the Chief Minister's Department, to be appointed by the State Secretary;
 

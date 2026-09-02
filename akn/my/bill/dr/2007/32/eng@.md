@@ -82,11 +82,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 4 -->
 
-(ID) Upon receipt of the notification under subsection (lc), the Minister shall give his decision as to whether any workman or workmen are employed
-
-<!-- marginal: in a -->
-
-managerial, executive, confidential or security capacity and communicate in writing the decision to the trade union of workmen, to the employer and to the trade union of employers concerned.";
+(ID) Upon receipt of the notification under subsection (lc), the Minister shall give his decision as to whether any workman or workmen are employed in a managerial, executive, confidential or security capacity and communicate in writing the decision to the trade union of workmen, to the employer and to the trade union of employers concerned.";
 
 (b) in subsection (2), by substituting for the words "A trade union" the words "Subject to subsection (1), a trade union";
 
@@ -98,11 +94,7 @@ managerial, executive, confidential or security capacity and communicate in writ
 
 (d) by inserting after subsection (3), the following subsection:
 
-"(3A) Upon according recognition to the trade union of workmen concerned under paragraph (3)(a),
-
-<!-- marginal: the -->
-
-employer or the trade union of employers concerned shall notify the Director General.";
+"(3A) Upon according recognition to the trade union of workmen concerned under paragraph (3)(a), the employer or the trade union of employers concerned shall notify the Director General.";
 
 (e) by substituting for subsection (4) the following subsection:
 
@@ -136,11 +128,7 @@ report the matter in writing to the Director General, failing which the claim fo
 
 (iii) in paragraph (b) —
 
-(A) by substituting for the words "for his decision any question on" the words "for him
-
-<!-- marginal: to -->
-
-ascertain"; and
+(A) by substituting for the words "for his decision any question on" the words "for him to ascertain"; and
 
 (B) by substituting for the full stop the word "; and"; and
 
@@ -236,7 +224,9 @@ such trade union shall not make any further claim for recognition in respect of 
 
 16. Section 20 of the principal Act is amended —
 
-(a) by substituting for subsection (6) the following subsection:
+(a) by substituting for subsection (6) the following
+
+<!-- marginal: subsection: -->
 
 "(6) In any proceedings under subsection (2) —
 
@@ -256,7 +246,9 @@ such trade union shall not make any further claim for recognition in respect of 
 
 (iii) notwithstanding anything to the contrary contained in any written law relating to the registration of trade unions, be represented by any official of an organization of workmen registered in Malaysia (not being a trade union of workmen)."; and
 
-(b) by inserting after subsection (8) the following subsection:
+(b) by inserting after subsection (8) the following
+
+<!-- marginal: subsection: -->
 
 <!-- page 10 -->
 
@@ -474,7 +466,11 @@ may be charged severally or jointly in the same proceedings as the body corporat
 
 ### Amendment of section 61
 
-31. Section 61 of the principal Act is amended by substituting for the word "Schedule" the words "First Schedule or Second
+31. Section 61 of the principal Act is amended by substituting
+
+<!-- marginal: for -->
+
+the word "Schedule" the words "First Schedule or Second
 
 ## Schedule".
 
@@ -622,4 +618,6 @@ Subclause 8(h) seeks to amend subsection 9(4c) of Act 177 by requiring the Direc
 
 ## FINANCIAL IMPLICATIONS
 
-This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained. [PN(U2)2187]
+This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
+
+<!-- marginal: [PN(U2)2187] -->

@@ -1,0 +1,1356 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-29-1990",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Labuan Trust Companies Bill 1990"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_11"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_17"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "POWERS OF TRUST COMPANIES"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_27"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MISCELLANEOUS"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Where a trust company has been appointed as"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "executor, administrator, trustee, agent or attorney, it shall be subject in all respects to the same control and to removal or restraint from acting, and generally to the jurisdiction of the Court, in the same manner as any other executor, administrator, trustee, agent or attorney."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In all cases in which a trust company is required or"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "authorized to make any affidavit, declaration or statement, it may do so by any of its officers appointed for the purpose."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_20__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_20__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_20__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_20__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_20__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_20__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "satisfies the Court that he has an interest under any trust which is for the time being under the control or management of a trust company; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_20__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_20__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "objects to an act or decision of the trust company on the basis that there was some irregularity or impropriety by the trust company in doing that act or making that decision, may apply to the Court to have such entries in the books and accounts of the trust company as are related to that act or decision examined."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Court receives an application under subsection (1), it may appoint an auditor to examine such entries in the books and accounts of the trust company and the auditor shall report his findings to the Court."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_20__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where it is established by the findings of the auditor that there has been an irregularity or impropriety by the trust company, the Court may make such order as it thinks fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_21__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any money or other valuable consideration paid or given to a trust company pursuant to any instrument creating a trust shall be held by the trust company, separate from its own money and other valuable con- sideration, in trust for the purposes for which it was paid or given and the trust company shall account for it separately."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A trust company which fails to comply with the requirement of subsection (1) and every officer of that trust company who is in default shall be guilty of an offence against this Act. Penalty: Thirty thousand ringgit or five years imprisonment or both."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_22__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_22__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_22__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_22__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_22__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_22__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_22__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A trust company shall be entitled—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_22__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_22__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where it holds an estate on behalf of any person, to receive out of the estate a commission, in addition to all moneys properly expended by the trust company and fees payable to it and charge- able against the estate; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_22__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_22__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in all other cases, to levy fees, charges and expenses in respect of any work performed by the trust company for or on behalf of any person."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_22__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Court is of the opinion that any commis- sion, fee, charges or expenses levied in respect of any estate or in respect of any work performed by the trust company are excessive, the Court may, on the application of any person, on whose behalf the estate is held, or on whose behalf the work was performed, review that commission, fee, charges or expenses, and may reduce it as it thinks fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_22__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The commission, fee, charges or expenses which a trust company is entitled to receive under this section shall not in any way be affected or diminished by the fact that any other person may be entitled to a commission, fee, charges or expenses in respect of the work performed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_22__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A trust company shall have the right to share the commission, fee, charges or expenses to which it is entitled under this section with any other person."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_23__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_23__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_23__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A trust company and the officers, servants and agents thereof, and the auditor appointed under subsection (2) of section 20 to examine the books and accounts of a trust company shall not, except when lawfully required to do so by the Court or under the provisions of any law in force in Malaysia, make any disclosure as to the existence of any particular trust or estate or the identity of any executor, settlor, appointor, guardian, trustee or beneficiary of any particular trust or estate except as is necessary for the purposes of administering such trust or estate or investing, recovering or getting in the assets thereof or as authorized by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Except when lawfully required to do so by the Court or under the provisions of any law in force in Malaysia or, in the case of any public officer, for the purpose of carrying out his duties or the performance of his functions under this Act, no person shall, unless specifically so authorized by the trust company concerned, disclosed to any person information entrusted to him in confidence, or acquired by him in his capacity or in the course of his duties as a public officer, employee, agent, liquidator, receiver or in a professional or similar fiduciary relationship, in relation to the affairs of any trust company whatsoever, whether while employed or acting in such capacity or relationship or after he has ceased to be employed or to act in such capacity or relationship."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_23__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The provisions of this section shall have effect with respect to any such information entrusted to or acquired by any person in relation to the affairs of any trust company whether such information was entrusted to or acquired by him before or after the commencement of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_23__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) or (2) shall be guilty of an offence against this Act. Penalty: Thirty thousand ringgit or five years impri- sonment or both."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_24__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_24__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_24__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_24__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Registrar may, in a case where he deems it fit and proper to do so, compound any offence committed by any person under this Act, by making a written offer to such person to compound the offence by paying to the Registrar within such time as may be specified in the offer such sum of money as may be specified in the offer which shall not exceed fifty per cent of the amount of the maximum fine to which that person would have been liable if he had been convicted of the offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_24__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An offer under subsection (1) may be made at any time after the offence has been committed, but before any prosecution for it has been instituted, and where the amount specified in the offer is not paid within the time specified in the offer, or during such extended period as the Registrar may grant, prosecution for the offence may be instituted at any time thereafter against the person to whom the offer was made."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_24__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where an offence has been compounded under subsection (1), no prosecution shall thereafter be instituted in respect of the offence against the person to whom the offer to compound was made."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may make regulations generally as may be necessary or expedient for the purpose of carrying out, or giving effect to, the provisions of this Act and in particular, but without prejudice to the generality of the foregoing, for prescribing such forms, notices, fees, charges and anything as are required by this Act to be prescribed or as he may deem necessary."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In the event that any act or step is required or permit-"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "ted to be done or taken under this Act and no form is prescribed or procedure laid down for the purpose either in this Act or any regulation made thereunder, application may be made to the Registrar for directions as to the manner in which the act or step may be done or taken, and any act or step done or taken in accordance which his directions shall be a valid performance of such act or step."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_27__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_27__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any instrument or document required to be lodged with the Registrar is in a language other than in the national or English language, the instrument or document shall be accompanied by a verified or certified translation thereof either in the national or English language."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_III__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any accounts or other records required to be kept under this Act are not kept in the national or English language, the directors of the trust company shall cause a true translation of such accounts and records to be made from time to time at intervals of not more than seven days and shall cause such translations to be kept with the original accounts and records."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Where any trust company is appointed either alone"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "or jointly with any other person as executor in the last will of any testator or in a codicil thereto (whether the will or codicil was made before or after the commencement of this Act), the trust company may act as executor and may apply for probate of such will and any codicil thereto, and may do and discharge all the acts and duties of an executor as fully and effectively as any other executor."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_13__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_13__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_13__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In any case in which a person may apply for a grant of letters of administration of the estate of a deceased person (whether with or without the will annexed), that person may—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_13__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "join with a trust company in an application for a grant of letters of administration of the estate to himself and the trust company jointly; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_13__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "instead of himself applying, authorize a trust company to apply for a grant of letters of adminis- tration of the estate."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where administration of any estate (whether with or without the will annexed) is granted to a trust company either alone or jointly with any other person, the trust company may do and discharge all acts and duties which belong to the office of an administrator or joint administrator, as the case may be, notwithstanding its incorporation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "A trust company may be appointed as agent or trustee"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "under any settlement or other instrument creating a trust, or to perform any trust or duty which it is authorized, by this Act or by its memorandum or articles of association or by any instrument whereunder the trust company was incorporated, to undertake, and may be so appointed, whether the settlement or instrument creating the trust or imposing the duty was made or came into operation before or after the commencement of this Act, and whether as an original trustee, a new trustee or an additional trustee, and may do and discharge all the acts and duties of a trustee as fully and effectively as any other trustee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_15__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A trust company may be appointed or continue to act as sole trustee notwithstanding that it is provided by the terms of the instrument creating the trust or any power or otherwise that there shall be more than one trustee to perform the trust."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_15__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_15__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_15__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A trust company shall not be appointed or be entitled to act as sole trustee in any case in which the instrument creating the trust or power expressly—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_15__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_15__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "forbids the appointment of a trust company;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_15__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_15__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "provides that there shall be another trustee in addition to a trust company; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_15__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_15__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "provides that a trust company shall not be ap- pointed to act as sole trustee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_16__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_16__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_16__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_16__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A trust company may act as trustee, executor or agent jointly with another trust company or person if—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_16__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_16__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the instrument under which it acts so provides;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_16__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_16__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "it is authorized or required to do so by law; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_16__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_16__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Court so orders."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A trust company shall not be liable for breach of trust or loss resulting from any act or omission of a joint trustee, executor or agent with whom it is acting, unless the trust company has itself actively participated in, or assented to, such breach of trust."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_17__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "It shall be lawful for any executor, administrator, trustee or agent to delegate by deed or in writing to a trust company either alone or jointly with any other company or person, as his attorney, all such trusts and powers as may be lawfully delegated by him."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All acts done by the trust company as such delegatee shall, as against any person dealing with the trust company without notice of the revocation of such authority by such executor, administrator, trustee or agent, be valid and effectual notwithstanding such revocation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Labuan Trust Companies"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Act 1990 and shall come into force on such date as the Minister may, by notification in the Gazette, appoint."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the Registrar is satisfied that any trust company—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has contravened or failed to comply with any term or condition of its registration;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "is in contravention of any of the provisions of this Act or of any regulation made thereunder;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has contravened any other law which imposes duties or obligations upon it; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has been convicted of an offence, whether in Malaysia or elsewhere, and sentenced to a fine of not less than two thousand ringgit, and the Registrar considers that, having regard to the nature of the contravention, failure or offence, it is undesirable that the trust company should continue to be registered, he shall notify the trust company of his opinion and of the reasons therefor and shall require the trust company to make representations within thirty days as to why the registration of the trust company should not be cancelled."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon receipt of any representations made under subsection (1) and after due consideration of those representations, or on expiry of the time prescribed in that subsection if no such representations are made, the Registrar shall cancel the registration of the trust company or take any other action as he may deem fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Registrar decides to cancel the regist- ration of a trust company under subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he shall inform the trust company of his decision and of the reasons therefor; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the trust company may, not later than thirty days after being informed of the Registrar's decision, appeal to the Minister who may confirm, vary or reverse the decision."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Minister has confirmed the Registrar's decision to cancel the registration of a trust company or where a trust company has been informed of the Registrar's decision to cancel its registration and has not appealed within the time prescribed, the Registrar shall cause a notice of the cancellation to be published in the Gazette and the trust company shall cease to carry on business from the date of cancellation specified in that notice."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (4) of section 10, the"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Registrar may authorize in writing the trust company to carry on business to such extent and for such duration as he may specify in the authorization for the purpose only of enabling the trust company to wind up its affairs consequent upon the cancellation of its registration."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "\"auditor\" means an approved company auditor as defined in the Companies Act 1965; \"carry on business\", in relation to a trust company, means carrying on any economic activity as a trustee, agent, executor or administrator pursuant to the objects of the trust company and, without limiting the generality of the foregoing, includes— (a) establishing or using a share transfer office or share registration office;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_1__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "administering, managing or otherwise dealing with property as an agent, legal personal repre- sentative or trustee, whether by servant or agent or otherwise;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "maintaining an agent for the purpose of soliciting or procuring business, whether or not the agent is continuously resident in Labuan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "maintaining an office, agency or branch, whether or not that office, agency or branch is also used for any purpose by another company;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_1__para_e__subpara_ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the provision of— (i) management and accounting services to; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_1__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_1__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "directors, secretaries and registered offices for, offshore companies incorporated under the Offshore Companies Act 1990 and foreign off- shore companies registered under that Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "incorporating or registering companies under the Offshore Companies Act 1990 and generally acting as a lodging agent for any document required to be lodged by a company or person under that Act; \"Court\" means the High Court or a judge thereof; \"estate\" means any property, whether real or personal, which is committed to the administration or management of a trust company as executor, administrator, trustee, receiver, committee, guardian or agent; \"Labuan\" means the Federal Territory of Labuan; \"Minister\" means the Minister for the time being charged with the responsibility for trade and industry; \"non-resident\" means a person who is not a citizen or permanent resident of Malaysia and who does not engage in a trade or business in Malaysia, and includes any offshore company incorporated under the Offshore Companies Act 1990 and any foreign offshore company registered under that Act; \"officer\", in relation to a trust company, includes—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any director, secretary or employee of the trust company;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a receiver and manager of any part of the under- taking of the trust company appointed under a power contained in any instrument; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_2__para_c__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_2__para_c__subpara_B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_2__para_c__subpara_C"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any liquidator of a trust company appointed in a voluntary winding up, but does not include—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_2__para_c__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_2__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any receiver who is not also a manager;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_2__para_c__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_2__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any receiver and manager appointed by the Court; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_2__para_c__subpara_C",
+      "@type": "akn:subparagraph",
+      "eli:number": "C",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_2__list_2__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any liquidator appointed by the Court or by the creditors; \"Registrar\" means the Registrar of Companies under the Companies Act 1965 and includes any Regional Registrar, Deputy Registrar or Assistant Registrar, of Companies; \"trust company\" means any company registered to carry on business as a trust company under section 4."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_3__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No company shall carry on business as a trust company in Labuan unless that company is registered so to do under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in this Act shall be deemed to affect in any way the operation of the Public Trustee established under the Public Trustee Act 1950."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any company that is incorporated under the Companies Act 1965 or that is registered as a foreign company under that Act may apply in the prescribed form and on payment of the prescribed fee to the Registrar for registration as a trust company to carry on business in Labuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4__subsec_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No company shall be considered for registration as a trust company unless—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the authorized capital of the company is not less than five hundred thousand ringgit divided into shares of not less than ten ringgit each;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "at least one-half of the amount of every share issued by the company remains unpaid and is not liable to be called up, except in the event and for the purpose of the winding up or dissolution of the company;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "at least one hundred and fifty thousand ringgit of the authorized capital has been bonafide paid up;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the company has deposited with the Accountant- General securities to be approved by the Registrar to the value of one hundred thousand ringgit; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the company is able to meet its obligations, apart from its liability to its shareholders, without taking into account the securities so deposited with the Accountant-General,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No company having either its head office or its registered office outside Labuan shall be registered as a trust company unless such company designates and notifies the Registrar in writing of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "its office in Labuan; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_4__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "two of its officers as authorized agents of the trust company in Labuan,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_5__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Registrar may approve the application for registration as a trust company subject to such terms and conditions (if any) as he may deem fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon registration, every trust company shall pay to the Registrar such initial and annual registration fees as may be prescribed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The provisions of the Trust Companies Act 1949 shall not apply to a company registered as a trust company under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_6__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A company incorporated outside Malaysia and registered as a trust company under this Act shall maintain such minimum level of capital and reserves in Labuan as may be prescribed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_6__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_6__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every trust company to which subsection (3) of section 4 applies shall, within seven days, lodge a notice LABUAN TRUST COMPANIES in the prescribed form with the Registrar of any change of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_6__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "its office in Labuan; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_6__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "either or both of its authorized agents."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every trust company shall, when and as often as any alteration is made to its memorandum or articles of association or to any other instrument whereunder the trust company was incorporated, within seven days, lodge with the Registrar the full particulars in writing of such alteration, verified by an affidavit made or declaration sworn, as the case may be, by an officer of the trust company."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The registration of a company to carry on business as"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "a trust company under this Act shall not relieve the company from compliance with the Companies Act 1965."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "A trust company shall provide service to non- residents"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "only."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_9__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_9__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_9__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every trust company shall submit to the Registrar such information, data and returns as may be prescribed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding section 23, the Registrar may, for the purpose of satisfying himself that the provisions of this Act are being complied with and that the trust company is in a sound financial position, have access to and inspect the books, records, vouchers, documents, cash and securi- ties of any trust company and call for any information from any officer of the trust company as may be necessary."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may in writing authorize any other person to assist the Registrar in the performance of his functions under this section."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_9__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any officer of the trust company who obstructs or hinders the Registrar or any person so authorized while exercising any of the powers referred to in subsection (2) shall be guilty of an offence against this Act. Penalty: Three thousand ringgit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_9__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/29/eng@/~part_I__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any officer of the trust company who, in supplying any information as required under subsection (2), know- ingly or recklessly makes any statement which is false in any material particular shall be guilty of an offence against this Act. Penalty: Three thousand ringgit,"
+      }
+    }
+  ]
+}

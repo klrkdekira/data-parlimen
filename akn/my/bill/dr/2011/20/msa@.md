@@ -226,13 +226,7 @@
 
 ## PEMANSUHAN, KECUALIAN DAN PERALIHAN
 
-93. Pemansuhan
-
-94. Kecualian
-
-95. Pemberian lesen kepada orang yang disifatkan sebagai dilesenkan atau dibenarkan untuk menjalankan perniagaan
-
-96. Peralihan
+93. Pemansuhan 94. Kecualian 95. Pemberian lesen kepada orang yang disifatkan sebagai dilesenkan atau dibenarkan untuk menjalankan perniagaan 96. Peralihan
 
 ## JADUAL
 

@@ -1,0 +1,646 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-13-2024",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_12"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Perlembagaan (Pindaan) 2024"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual Pertama kepada Perlembagaan Persekutuan dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “[Perkara 18(1), 19(9)]” dengan perkataan “[Perkara 18(1), 18(1a), 19(9) dan seksyen 3 Bahagian II Jadual Kedua]”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan tajuk “Sumpah Pemohon bagi Pendaftaran atau Penaturalisasian” dengan tajuk “Sumpah Pelepasan, Kesetiaan dan Taat Setia”. Pindaan Jadual Kedua"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual Kedua kepada Perlembagaan Persekutuan dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Bahagian II—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_i__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_i__subpara_B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_i__subpara_C",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_i__subpara_D"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam seksyen 1—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_i__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan menggantikan perkataan “seorang warganegara atau bermastautin secara tetap di Persekutuan” dengan perkataan “seorang warganegara”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_i__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_i__subpara_B__subpara_AA",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_i__subpara_B__subpara_BB"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_i__subpara_B__subpara_AA",
+      "@type": "akn:subparagraph",
+      "eli:number": "AA",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_i__subpara_B",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “yang bapanya” dengan perkataan “dan sekurang-kurangnya seorang daripada ibu bapanya”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_i__subpara_B__subpara_BB",
+      "@type": "akn:subparagraph",
+      "eli:number": "BB",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_i__subpara_B",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “sesuatu Negeri” perkataan “dan dalam masa satu tahun selepas kelahiran itu berlaku atau dalam masa apa-apa tempoh yang lebih lanjut sebagaimana yang dibenarkan oleh Kerajaan Persekutuan dalam mana-mana hal tertentu, kelahiran itu didaftarkan di suatu konsulat Persekutuan atau dengan Kerajaan Persekutuan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_i__subpara_C",
+      "@type": "akn:subparagraph",
+      "eli:number": "C",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_i__subpara_C__subpara_AA",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_i__subpara_C__subpara_BB"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_i__subpara_C__subpara_AA",
+      "@type": "akn:subparagraph",
+      "eli:number": "AA",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_i__subpara_C",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “yang bapanya” dengan perkataan “dan sekurang-kurangnya seorang daripada ibu bapanya”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_i__subpara_C__subpara_BB",
+      "@type": "akn:subparagraph",
+      "eli:number": "BB",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_i__subpara_C",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “di Brunei atau”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_i__subpara_D",
+      "@type": "akn:subparagraph",
+      "eli:number": "D",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (d);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_ii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam seksyen 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memotong perkataan “, (d)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “bapanya” di mana-mana jua terdapat dengan perkataan “ibu atau bapanya”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas seksyen 2 seksyen yang berikut: “ 3. (1) Seseorang yang merupakan seorang warganegara menurut perenggan (b) atau (c) seksyen 1 hendaklah, dalam masa empat puluh lapan bulan selepas dia mencapai umur lapan belas tahun, mengangkat sumpah yang dinyatakan dalam Jadual Pertama. (2) Jika seseorang warganegara yang disebut dalam subseksyen (1) tidak mengangkat sumpah yang dinyatakan dalam Jadual Pertama apabila mencapai umur dua puluh dua tahun, dia hendaklah terhenti menjadi warganegara. (3) Seseorang kanak-kanak yang dilahirkan di luar Persekutuan, daripada seorang warganegara menurut perenggan (c) seksyen 1 dan tidak bermastautin di Persekutuan, bukanlah warganegara melalui kuat kuasa undang-undang dan orang itu boleh membuat permohonan bagi anaknya untuk menjadi warganegara melalui pendaftaran.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Bahagian III—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam seksyen 9, dengan menggantikan perkataan “dua puluh satu tahun” dengan perkataan “lapan belas tahun”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_b__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_b__subpara_ii__subpara_B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_b__subpara_ii__subpara_C",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_b__subpara_ii__subpara_D"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam seksyen 19—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_b__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_b__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “bapa” di mana-mana jua terdapat dengan perkataan “ibu atau bapa”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_b__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_b__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “bapanya” dengan perkataan “ibu atau bapanya”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_b__subpara_ii__subpara_C",
+      "@type": "akn:subparagraph",
+      "eli:number": "C",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_b__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “kematian bapa itu” dengan perkataan “kematian ibu atau bapanya itu”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_b__subpara_ii__subpara_D",
+      "@type": "akn:subparagraph",
+      "eli:number": "D",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_b__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “sekiranya dia mati selepas Hari Merdeka hendaklah disifatkan sebagai taraf atau perihalan yang terpakai baginya pada masa kematiannya” dengan perkataan “sekiranya ibu atau bapanya mati selepas Hari Merdeka hendaklah disifatkan sebagai taraf atau perihalan yang terpakai bagi ibu atau bapanya pada masa kematian ibu atau bapanya; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_11__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam seksyen 19b, dengan menggantikan perkataan “ibunya bermastautin secara tetap di tempat itu” dengan perkataan “ibunya ialah seorang warganegara”. Kecualian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_12__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Taraf kewarganegaraan mana-mana orang yang lahir di dalam atau di luar Persekutuan sebelum tarikh permulaan kuat kuasa Akta ini hendaklah, pada tarikh permulaan kuat kuasa Akta ini, diuruskan mengikut Bahagian III Perlembagaan Persekutuan seolah-olah Perlembagaan Persekutuan tidak dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa permohonan yang dibuat oleh mana-mana orang kepada Kerajaan Persekutuan di bawah Bahagian III Perlembagaan Persekutuan yang belum selesai sebelum tarikh permulaan kuat kuasa Akta ini hendaklah, pada tarikh permulaan kuat kuasa Akta ini, diuruskan mengikut Bahagian III Perlembagaan Persekutuan seolah-olah Perlembagaan Persekutuan tidak dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perlembagaan (Pindaan) 2024."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Yang di-Pertuan Agong melalui pemberitahuan dalam Warta dan Yang di-Pertuan Agong boleh menetapkan tarikh yang berlainan bagi permulaan kuat kuasa peruntukan yang berlainan Akta ini. Pindaan Perkara 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perlembagaan Persekutuan dipinda dalam Perkara 15—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_2__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_2__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_2__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Fasal (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_2__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan memotong perkataan “dan” di hujung perenggan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_2__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan menggantikan noktah di hujung perenggan itu dengan perkataan “; dan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_2__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut: “(c) bahawa dia mempunyai pengetahuan yang mencukupi dalam bahasa Melayu.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Fasal (2), dengan menggantikan perkataan “dua puluh satu tahun” dengan perkataan “lapan belas tahun”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong Fasal (3). Pindaan Perkara 15a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perkara 15a Perlembagaan Persekutuan dipinda dengan menggantikan perkataan “dua puluh satu tahun” dengan perkataan “lapan belas tahun”. Pemotongan Perkara 16a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perlembagaan Persekutuan dipinda dengan memotong"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perkara 16a. Pindaan Perkara 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perkara 18 Perlembagaan Persekutuan dipinda dengan memasukkan selepas Fasal (1) Fasal yang berikut: “(1a) Seseorang di bawah umur lapan belas tahun yang menjadi warganegara melalui pendaftaran hendaklah, apabila mencapai umur lapan belas tahun, mengangkat sumpah yang dinyatakan dalam Jadual Pertama, dan jika orang itu tidak mengangkat sumpah dalam masa empat puluh lapan bulan selepas dia mencapai umur lapan belas tahun, dia hendaklah terhenti menjadi warganegara.”. Pindaan Perkara 19"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perkara 19 Perlembagaan Persekutuan dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Fasal (1), dengan menggantikan perkataan “dua puluh satu tahun” dengan perkataan “lapan belas tahun”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Fasal (2), dengan menggantikan perkataan “dua puluh satu tahun” dengan perkataan “lapan belas tahun”. Pindaan Perkara 23"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perkara 23 Perlembagaan Persekutuan dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Fasal (1), dengan menggantikan perkataan “dua puluh satu tahun” dengan perkataan “lapan belas tahun”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan Fasal (2) dengan Fasal yang berikut: “(2) Kecuali dengan kelulusan Kerajaan Persekutuan, suatu akuan yang dibuat di bawah Perkara ini tidaklah boleh didaftarkan jika— (a) akuan itu dibuat dalam masa apa-apa peperangan yang dalamnya Persekutuan terlibat; atau (b) Kerajaan Persekutuan berpuas hati bahawa pelepasan itu memudaratkan keselamatan Persekutuan atau mana-mana bahagian dalam Persekutuan, ketenteraman awam atau kepentingan awam.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_7__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_7__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Fasal (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_7__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_7__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris, dengan menggantikan perkataan “twenty-one years” dengan perkataan “eighteen years”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_7__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_7__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa kebangsaan, dengan menggantikan perkataan “dua puluh satu tahun” di mana-mana jua terdapat dengan perkataan “lapan belas tahun”. Pindaan Perkara 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perkara 26 Perlembagaan Persekutuan dipinda dalam Fasal (2) dengan menggantikan perkataan “tarikh perkahwinan itu” dengan perkataan “tarikh pemerolehan kewarganegaraan melalui pendaftaran”. Pindaan Perkara 26a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perkara 26a Perlembagaan Persekutuan dipinda dengan menggantikan perkataan “dua puluh satu” dengan perkataan “lapan belas”. Pindaan Jadual Pertama"
+      }
+    }
+  ]
+}

@@ -40,11 +40,17 @@ on such date as the Minister may, by notification in the Gazette, appoint.
 
 (b) is entitled to provide a mutual fund with such services or facilities under any recognised country or jurisdiction,
 
-and includes an offshore bank, a trust company and a management company licensed under section 130c of Act 441. the Offshore Companies Act 1990;
+and includes an offshore bank, a trust company and a management company licensed under section 130c of
+
+<!-- marginal: Act 441. -->
+
+the Offshore Companies Act 1990;
 
 "auditor" means a person qualified to perform audits under the laws of Malaysia or any recognised country or jurisdiction and approved by the Authority;
 
-Act 545. "Authority" has the meaning assigned to it in the Labuan Offshore Financial Services Authority Act 1996;
+<!-- marginal: Act 545. -->
+
+"Authority" has the meaning assigned to it in the Labuan Offshore Financial Services Authority Act 1996;
 
 "business day" means a day during any part of which the facilities of the Exchange are available to its trading members for trading purposes or would have been available but for a suspension of trading ordered by the Authority under section 38;
 
@@ -98,9 +104,17 @@ Act 545. "Authority" has the meaning assigned to it in the Labuan Offshore Finan
 
 and includes an umbrella fund whose shares are split into a number of different class funds or sub-funds and participants in which are entitled to exchange rights in one part for rights in another;
 
-"offshore bank" means a bank licensed under subsection Act 443. 6(2) of the Offshore Banking Act 1990;
+"offshore bank" means a bank licensed under subsection
 
-"offshore company" has the meaning assigned to it in Act 441. the Offshore Companies Act 1990;
+<!-- marginal: Act 443. -->
+
+6(2) of the Offshore Banking Act 1990;
+
+"offshore company" has the meaning assigned to it in
+
+<!-- marginal: Act 441. -->
+
+the Offshore Companies Act 1990;
 
 <!-- page 5 -->
 
@@ -200,9 +214,13 @@ the Labuan Trust Companies Act 1990;
 
 ## MUTUAL FUNDS
 
-Trustees and
+<!-- marginal: Trustees and -->
 
-3. (1) No person shall carry on business in or from custodians. within Labuan as—
+3. (1) No person shall carry on business in or from
+
+<!-- marginal: custodians. -->
+
+within Labuan as—
 
 (a) a trustee of a public fund unless that person is a trust company; or
 
@@ -248,9 +266,13 @@ Trustees and
 
 (5) No person exercising any power or dicharging any duty under this Act shall, knowingly, have any financial interest in any person who has been granted a consent or who has been registered, licensed or given written permission under this Act.
 
-Registration
+<!-- marginal: Registration -->
 
-5. (1) Where the Authority grants consent to a private procedure. fund under section 8, it shall—
+5. (1) Where the Authority grants consent to a private
+
+<!-- marginal: procedure. -->
+
+fund under section 8, it shall—
 
 (a) enter the particulars relating to the private fund in the register maintained under section 4; and
 
@@ -314,19 +336,39 @@ setting out the details of the scope and nature of its business.
 
 (c) the information required under section 21.
 
-Power to
+<!-- marginal: Power to -->
 
-8. The Authority may grant or refuse to grant a consent grant or to a private fund and may make a grant of consent subject refuse consent for to any terms, conditions, limitations or restrictions. private funds.
+8. The Authority may grant or refuse to grant a consent
 
-Public funds.
+<!-- marginal: grant or -->
+
+to a private fund and may make a grant of consent subject
+
+<!-- marginal: refuse -->
+
+<!-- marginal: consent for -->
+
+to any terms, conditions, limitations or restrictions.
+
+<!-- marginal: private funds. -->
+
+<!-- marginal: Public funds. -->
 
 9. (1) No public fund shall carry on business or arrange or administer its affairs in or from within Labuan unless it has been granted registration under paragraph 11(1)(a).
 
 (2) The promoters for a proposed public fund to whom a provisional acceptance has been granted under paragraph 1 1 ( 1 )( b) shall not carry on business or arrange or administer its affairs without the prior written consent of the Authority.
 
-Application
+<!-- marginal: Application -->
 
-10. An application by the promoters for a proposed public by public fund or by a public fund to the Authority for registration funds. to carry on business or arrange or administer its affairs in or from within Labuan shall be—
+10. An application by the promoters for a proposed public
+
+<!-- marginal: by public -->
+
+fund or by a public fund to the Authority for registration
+
+<!-- marginal: funds. -->
+
+to carry on business or arrange or administer its affairs in or from within Labuan shall be—
 
 (a) made in such form and contain such information as may be prescribed; and
 
@@ -400,15 +442,29 @@ within Labuan as—
 
 (3) Paragraph 12(1)(b) does not apply to a person who—
 
-(a) is an offshore bank, a trust company or a management company licensed under section Act 441. 130c of the Offshore Companies Act 1990; or
+(a) is an offshore bank, a trust company or a management company licensed under section
+
+<!-- marginal: Act 441. -->
+
+130c of the Offshore Companies Act 1990; or
 
 (b) is and continues to be a qualified administrator of mutual funds under the laws of any recognised country or jurisdiction,
 
 and has received written permission from the Authority to carry on business as manager or administrator of public funds in or from within Labuan.
 
-Application
+<!-- marginal: Application -->
 
-13. (1) Subject to subsection 12(2), an application for for licence a licence to carry on business in or from within Labuan and registration. as a manager of a public fund shall be made to the Authority in such manner as the Authority may prescribe in writing.
+13. (1) Subject to subsection 12(2), an application for
+
+<!-- marginal: for licence -->
+
+a licence to carry on business in or from within Labuan
+
+<!-- marginal: and -->
+
+<!-- marginal: registration. -->
+
+as a manager of a public fund shall be made to the Authority in such manner as the Authority may prescribe in writing.
 
 (2) An application under subsection 13(1) shall be accompanied by—
 
@@ -462,9 +518,11 @@ licence or registration to any applicant.
 
 (2) The Authority may delegate any of its powers or duties under this Act to any person appointed by the Authority.
 
-Accounts and
+<!-- marginal: Accounts and -->
 
-16. (1) Every registered public fund shall— audit.
+16. (1) Every registered public fund shall—
+
+<!-- marginal: audit. -->
 
 (a) keep or cause to be kept accounts and records and shall, after the end of each financial year cause to be prepared a statement of accounts for that financial year which shall include a balance sheet and an account of income and expenditure in accordance with generally accepted accounting principles applicable in Malaysia or in any recognised country or jurisdiction;
 
@@ -510,11 +568,19 @@ Accounts and
 
 (4) Where any change occurs which materially affects any of the matters required to be disclosed under subsection 17(2), the registered public fund shall within twenty- one days of such occurrence incorporate such amendment to the prospectus and provide a copy thereof to each of its investors and to the Authority.
 
-(5) Sections 28 to 39 inclusive of the Offshore Act 441. Companies Act 1990 shall not apply to mutual funds consented to or registered in compliance with this Act.
+(5) Sections 28 to 39 inclusive of the Offshore
 
-Investors
+<!-- marginal: Act 441. -->
 
-18. (1) If a registered public fund publishes a prospectus rights. or any amendment thereto that contains any misrepresentation relating to any of the matters required to be disclosed under subsection 17(2), a person who purchased any shares pursuant to such prospectus or amendment thereto is deemed to have relied upon the misrepresentation and shall have the rights provided in subsection 18(2).
+Companies Act 1990 shall not apply to mutual funds consented to or registered in compliance with this Act.
+
+<!-- marginal: Investors -->
+
+18. (1) If a registered public fund publishes a prospectus
+
+<!-- marginal: rights. -->
+
+or any amendment thereto that contains any misrepresentation relating to any of the matters required to be disclosed under subsection 17(2), a person who purchased any shares pursuant to such prospectus or amendment thereto is deemed to have relied upon the misrepresentation and shall have the rights provided in subsection 18(2).
 
 (2) A person referred to in subsection 18(1) may elect to exercise a right of action—
 
@@ -576,9 +642,15 @@ shall be accompanied by the following particulars:
 
 (2) If any change is made or occurs in respect of information under subsection 21(1), the applicant, upon being granted consent, registered, provisionally accepted or licensed as the case may be, shall within twenty-one days after the change occurs file with the Authority a notice signed by him specifying the nature of change.
 
-Consent,
+<!-- marginal: Consent, -->
 
-22. A consent, licence or registration granted under this licence, or Act shall— registration.
+22. A consent, licence or registration granted under this
+
+<!-- marginal: licence, or -->
+
+Act shall—
+
+<!-- marginal: registration. -->
 
 (a) be in such form as may be prescribed;
 
@@ -588,9 +660,19 @@ Consent,
 
 (d) be admissible in all courts as prima facie evidence of the facts stated in it.
 
-Revocation
+<!-- marginal: Revocation -->
 
-23. The Authority may, subject to section 24 and of consent, subsection 25(2), revoke any consent, licence or licence or registration. registration under this Act—
+23. The Authority may, subject to section 24 and
+
+<!-- marginal: of consent, -->
+
+subsection 25(2), revoke any consent, licence or
+
+<!-- marginal: licence or -->
+
+<!-- marginal: registration. -->
+
+registration under this Act—
 
 (a) at the request of the holder thereof; or
 
@@ -638,15 +720,19 @@ registration under paragraph 23(b), the Authority shall—
 
 (4) For the purposes of subsection 25(3), the appellant shall not carry on any business or activity without the prior written consent of the Authority.
 
-Appeal
+<!-- marginal: Appeal -->
 
-26. An appeal under subsection 25(2) shall be brought procedure. by-
+26. An appeal under subsection 25(2) shall be brought
+
+<!-- marginal: procedure. -->
+
+by-
 
 (a) serving on the Authority a notice of appeal within twenty-one days, or such longer period as the Minister may allow, of the receipt by the appellant of the notice required under subsection 24(2); and
 
 (b) summons for the hearing of the appeal before the court.
 
-Enforcement.
+<!-- marginal: Enforcement. -->
 
 27. (1) For the purpose of discharging the duties imposed upon the Authority under this Act the Authority or any person authorised by it may at all reasonable times in writing direct any person to whom this Act applies to—
 
@@ -692,7 +778,9 @@ section 4, any information, material or document furnished to or filed with the 
 
 <!-- page 24 -->
 
-(b) the publication by the Authority and other supervisory authorities of general information and statistics relating to registrations, consents and licences granted under, and
+(b) the publication by the Authority and other supervisory authorities of general information and statistics relating to registrations, consents and licences granted under,
+
+<!-- marginal: and -->
 
 <!-- marginal: the -->
 
@@ -700,9 +788,17 @@ implementation and operation of, this Act.
 
 (4) For the purpose of this section, "other supervisory authorities" includes the relevant supervisory authority of any recognised country or jurisdiction which exercises functions corresponding to those of the Securities Commission over the supervision or establishment of mutual funds.
 
-Variation of
+<!-- marginal: Variation of -->
 
-29. (1) Notwithstanding subsection 48(2) and section statutory 55 of the Offshore Companies Act 1990 to the contrary— provisions. Act 441.
+29. (1) Notwithstanding subsection 48(2) and section
+
+<!-- marginal: statutory -->
+
+55 of the Offshore Companies Act 1990 to the contrary—
+
+<!-- marginal: provisions. -->
+
+<!-- marginal: Act 441. -->
 
 (a) a mutual fund which is a company may—
 
@@ -754,7 +850,11 @@ of the Offshore Companies Act 1990 shall not apply to a mutual fund which is est
 
 (iii) the persons who or which have been declared by the Minister, on the recommendation of the Securities Commission, by notification in the Gazette to be exempt purchasers for the purpose of this subsection; and
 
-(b) "non-resident has the meaning assigned to it Act 498. in section 2 of the Labuan Trust Companies Act 1990.
+(b) "non-resident has the meaning assigned to it
+
+<!-- marginal: Act 498. -->
+
+in section 2 of the Labuan Trust Companies Act 1990.
 
 ## PART
 
@@ -762,13 +862,25 @@ III
 
 ## EXCHANGE
 
-Establishment
+<!-- marginal: Establishment -->
 
-30. The Minister may, on the written recommendation of the of the Authority, establish a body corporate which is Exchange. an offshore company to be an exchange in Labuan by the name of "Labuan International Financial Exchange" with perpetual succession and a common seal, which may sue and be sued in its name and, subject to and for the purpose of this Act, may enter into contracts and may acquire, purchase, take, hold and enjoy movable and immovable property of every description and may convey, assign, surrender, yield up, charge, mortgage, demise, reassign, transfer or otherwise dispose of, or deal with, any movable or immovable property or any interest therein vested in the Exchange upon such terms as it deems fit.
+30. The Minister may, on the written recommendation
 
-By-laws of
+<!-- marginal: of the -->
 
-31. The Authority may, with the approval of the the Exchange. Minister, prescribe such by-laws as may be expedient or necessary for the purpose of carrying out the provisions and matters connected with the Exchange.
+of the Authority, establish a body corporate which is
+
+<!-- marginal: Exchange. -->
+
+an offshore company to be an exchange in Labuan by the name of "Labuan International Financial Exchange" with perpetual succession and a common seal, which may sue and be sued in its name and, subject to and for the purpose of this Act, may enter into contracts and may acquire, purchase, take, hold and enjoy movable and immovable property of every description and may convey, assign, surrender, yield up, charge, mortgage, demise, reassign, transfer or otherwise dispose of, or deal with, any movable or immovable property or any interest therein vested in the Exchange upon such terms as it deems fit.
+
+<!-- marginal: By-laws of -->
+
+31. The Authority may, with the approval of the
+
+<!-- marginal: the Exchange. -->
+
+Minister, prescribe such by-laws as may be expedient or necessary for the purpose of carrying out the provisions and matters connected with the Exchange.
 
 <!-- page 27 -->
 
@@ -806,25 +918,41 @@ Authority, make rules which provide for—
 
 (l) such other matters as the Exchange deems necessary or desirable for the proper and efficient regulation, management and control of the Exchange and the securities market operated by it.
 
-Powers of the
+<!-- marginal: Powers of the -->
 
-33. (1) The affairs of the Exchange shall be managed committee. by a committee consisting of not less than five persons who possess relevant experience in financial, commercial or legal matters of whom the chairman and one other person shall be appointed by the Minister and the rest appointed by the Authority.
+33. (1) The affairs of the Exchange shall be managed
+
+<!-- marginal: committee. -->
+
+by a committee consisting of not less than five persons who possess relevant experience in financial, commercial or legal matters of whom the chairman and one other person shall be appointed by the Minister and the rest appointed by the Authority.
 
 (2) Subject to Part III, the committee shall have full power in all things to administer the affairs of the Exchange.
 
-Act 441
+<!-- marginal: Act 441 -->
 
 (3) Subject to section 53, the provisions of the Offshore Companies Act 1990 shall, unless the context otherwise requires, apply in all respects to the persons who make up the committee as if such persons were directors for the purposes of that Act.
 
-Dealing in
+<!-- marginal: Dealing in -->
 
-34. (1) No person other than a trading member shall securities. engage in or hold himself out as engaging in the business of dealing in securities on the Exchange.
+34. (1) No person other than a trading member shall
+
+<!-- marginal: securities. -->
+
+engage in or hold himself out as engaging in the business of dealing in securities on the Exchange.
 
 (2) Any person who contravenes subsection 34(1) commits an offence and shall be liable on conviction to a fine not exceeding two hundred thousand ringgit or to imprisonment for a period not exceeding five years or to both.
 
-Register of
+<!-- marginal: Register of -->
 
-35. (1) The secretary shall keep a register of the trading trading members and shall enter therein the names and addresses members. of the trading members and the date upon which each was admitted and ceased to be a trading member.
+35. (1) The secretary shall keep a register of the trading
+
+<!-- marginal: trading -->
+
+members and shall enter therein the names and addresses
+
+<!-- marginal: members. -->
+
+of the trading members and the date upon which each was admitted and ceased to be a trading member.
 
 (2) The register of trading members shall be made available for inspection at the registered office of the Exchange during business hours.
 
@@ -898,9 +1026,13 @@ wholly for a period not exceeding five consecutive business days or in respect o
 
 (6) The Authority may revoke, withdraw or modify any direction made under subsections 38(1) and (3) at any time prior to expiry of the period of suspension or extension thereof.
 
-Powers of
+<!-- marginal: Powers of -->
 
-39. (1) For the purposes of this Act and the proper the Authority. conduct of the business of the Exchange and in addition to any other powers accorded to it under this Act the Authority may—
+39. (1) For the purposes of this Act and the proper
+
+<!-- marginal: the Authority. -->
+
+conduct of the business of the Exchange and in addition to any other powers accorded to it under this Act the Authority may—
 
 (a) at any time investigate or enquire into any transaction involving the purchase or sale of securities entered into by any person whether directly or indirectly to ascertain if that person has used dishonest, unfair or unethical devices or trading practices whether such devices or trading practices constitute an offence under this Act or any other written law or an infringement of any of the rules or otherwise;
 
@@ -916,11 +1048,7 @@ Powers of
 
 (iii) any advice, report or analysis concerning securities; or
 
-(iv) the accounts or records of any person concerned in any capacity with the matters referred to in subparagraph 39(c)(i), (ii) or (iii) any
-
-<!-- marginal: audit of, or -->
-
-report of an auditor concerning, the same; or
+(iv) the accounts or records of any person concerned in any capacity with the matters referred to in subparagraph 39(c)(i), (ii) or (iii) any audit of, or report of an auditor concerning, the same; or
 
 (d) with the authority of a search warrant issued by the court to that effect and with or without the assistance of such persons as the Authority may require unless the Authority has reasonable grounds for believing that, by reason of the delay in obtaining the search warrant, the object of any entry is likely to be frustrated, and in such instance without a warrant—
 
@@ -946,17 +1074,25 @@ commits an offence and is liable on conviction to a fine not exceeding ten milli
 
 ## MISCELLANEOUS
 
-Indemnity.
+<!-- marginal: Indemnity. -->
 
 40. No person shall be liable to be sued in any court for any act or matter done or ordered to be done or omitted to be done by him in good faith and in the intended exercise of any power or discharge of any duty conferred or imposed on him under this Act.
 
-Conflict
+<!-- marginal: Conflict -->
 
-41. Where there is any conflict or inconsistency between between laws. this Act and any other written law, this Act shall prevail.
+41. Where there is any conflict or inconsistency between
 
-Power of
+<!-- marginal: between laws. -->
 
-42. The Minister may, on the written recommendation exemption. of the Authority, direct that any of the provisions of this Act shall not apply, or apply with such modifications as may be specified in the direction, to any person or class of persons and may attach such conditions to or revoke such direction.
+this Act and any other written law, this Act shall prevail.
+
+<!-- marginal: Power of -->
+
+42. The Minister may, on the written recommendation
+
+<!-- marginal: exemption. -->
+
+of the Authority, direct that any of the provisions of this Act shall not apply, or apply with such modifications as may be specified in the direction, to any person or class of persons and may attach such conditions to or revoke such direction.
 
 <!-- page 33 -->
 
@@ -1016,7 +1152,7 @@ the notice shall be deemed to have been served upon him on the date on which he 
 
 shall until the contrary is proved, be evidence that the addressee has been so informed or that the registered letter has been tendered to him, as the case may be.
 
-Fees.
+<!-- marginal: Fees. -->
 
 45. (1) Where—
 
@@ -1070,17 +1206,25 @@ Public Prosecutor, compound any offence committed by any person under this Act, 
 
 (3) Where an offence has been compounded under subsection 47(1), and the sum of money stipulated in the offer duly paid, no prosecution shall thereafter be instituted in respect of such offence against the person to whom the offer to compound was made.
 
-Prosecution,
+<!-- marginal: Prosecution, -->
 
 48. A prosecution under this Act shall not be instituted except by, or with the consent in writing of, the Public Prosecutor.
 
-Fees and
+<!-- marginal: Fees and -->
 
-49. (1) All fees and penalties paid to the Authority penalties. under this Act and all sums of money paid under section 47 shall be paid into and form part of the Fund Act 545. established under section 29 of the Labuan Offshore Financial Services Authority Act 1996.
+49. (1) All fees and penalties paid to the Authority
+
+<!-- marginal: penalties. -->
+
+under this Act and all sums of money paid under section 47 shall be paid into and form part of the Fund
+
+<!-- marginal: Act 545. -->
+
+established under section 29 of the Labuan Offshore Financial Services Authority Act 1996.
 
 (2) Notwithstanding subsection 49(1), all fees paid under subsection 35(4) shall be paid into the fund of the Exchange and may be used in accordance with the provisions of the by-laws.
 
-Regulations.
+<!-- marginal: Regulations. -->
 
 50. The Minister may make regulations for—
 
@@ -1130,23 +1274,63 @@ of the Authority issue, by notification in the Gazette, a direction—
 
 (2) A direction made under this section may be revoked or varied by the Minister.
 
-Power of the
+<!-- marginal: Power of the -->
 
-52. (1) Subject to subsection 52(2), the Minister may, Minister to whenever it appears to him necessary or expedient so to make modi- fications. do whether for the purpose of removing difficulties or in consequence of the passing of this Act, by order make such modifications to any provision in any law relating to offshore securities as he may think fit.
+52. (1) Subject to subsection 52(2), the Minister may,
+
+<!-- marginal: Minister to -->
+
+whenever it appears to him necessary or expedient so to
+
+<!-- marginal: make modi- -->
+
+<!-- marginal: fications. -->
+
+do whether for the purpose of removing difficulties or in consequence of the passing of this Act, by order make such modifications to any provision in any law relating to offshore securities as he may think fit.
 
 (2) The Minister shall not exercise the power conferred under subsection 52(1) after the expiration of two years from the commencement of this Act.
 
-Procedure
+<!-- marginal: Procedure -->
 
-53. In the event that any act or step is required or where none permitted to be done or taken under this Act and no laid down. form is prescribed or procedure laid down either in this Act or the regulations, application may be made to the Authority for directions as to the manner in which the same may be done or taken, and any act or step done or taken in accordance with such directions shall be a valid performance of such act or step.
+53. In the event that any act or step is required or
 
-Disapplication
+<!-- marginal: where none -->
 
-54. (1) The provisions of the Securities Commission of certain Act 1993 and the Securities Industry Act 1983 shall not existing legislation. be applicable to the establishment, conduct, activity and Act 498. business of the Exchange. Act 280.
+permitted to be done or taken under this Act and no
 
-(2) Subsection 7(3), subsection 21(2), section 24, section 85, subsections 87(2), (4), (5) and (10) and Act 441. subsections 93(2), (6) and (7) of the Offshore Companies Act 1990 shall not be applicable to the Exchange.
+<!-- marginal: laid down. -->
 
-Act 369. (3) The provisions of the Holidays Act 1951 shall not apply to the Exchange and the Exchange may carry on its business for twenty-four hours in each day on any and all days of each week subject to any limitation or restriction imposed by or pursuant to the by-laws or the rules, as the case may be.
+form is prescribed or procedure laid down either in this Act or the regulations, application may be made to the Authority for directions as to the manner in which the same may be done or taken, and any act or step done or taken in accordance with such directions shall be a valid performance of such act or step.
+
+<!-- marginal: Disapplication -->
+
+54. (1) The provisions of the Securities Commission
+
+<!-- marginal: of certain -->
+
+Act 1993 and the Securities Industry Act 1983 shall not
+
+<!-- marginal: existing -->
+
+<!-- marginal: legislation. -->
+
+be applicable to the establishment, conduct, activity and
+
+<!-- marginal: Act 498. -->
+
+business of the Exchange.
+
+<!-- marginal: Act 280. -->
+
+(2) Subsection 7(3), subsection 21(2), section 24, section 85, subsections 87(2), (4), (5) and (10) and
+
+<!-- marginal: Act 441. -->
+
+subsections 93(2), (6) and (7) of the Offshore Companies Act 1990 shall not be applicable to the Exchange.
+
+<!-- marginal: Act 369. -->
+
+(3) The provisions of the Holidays Act 1951 shall not apply to the Exchange and the Exchange may carry on its business for twenty-four hours in each day on any and all days of each week subject to any limitation or restriction imposed by or pursuant to the by-laws or the rules, as the case may be.
 
 <!-- page 39 -->
 
@@ -1312,9 +1496,7 @@ This Bill seeks to introduce a regulatory framework for the regulation of securi
 
 58. Clause 53 seeks to empower the Authority to give directions as to the manner of complying with any provisions of this proposed Act where no specific procedure has been provided.
 
-59. Clause 54 seeks to provide for the disapplication of the Securities Commission Act 1993, the Securities Industry Act 1983, certain parts of the Offshore Companies Act 1990 and the Holidays Act
-
-1951.
+59. Clause 54 seeks to provide for the disapplication of the Securities Commission Act 1993, the Securities Industry Act 1983, certain parts of the Offshore Companies Act 1990 and the Holidays Act 1951.
 
 60. Clause 55 seeks to provide for a period of six months for existing mutual funds in Labuan to comply with the proposed Act.
 

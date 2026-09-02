@@ -16,7 +16,21 @@
 
 ## THE AUTHORITY
 
-3. The Authority and its objectives. 4. Functions and powers of the Authority. 5. Membership of the Authority. 6. Tenure of office. 7. Resignation and revocation. 8. Vacation of office. 9. Power of the Minister to give directions and require information. 10. Authority to determine its own procedure. 11. Authority may invite others to meetings. 12. Remuneration or allowance. 13. Common seal. 14. Delegation of Authority's function or powers. 15. Authority may establish committees. 16. Minutes. 17. Disclosure of interest. 18. Appointment of officers and servants of the Authority. 19. Power to grant loans and make advances to its officers and servants. 20. Disciplinary committees. 21. Appeal against decision of disciplinary committee.
+3. The Authority and its objectives. 4. Functions and powers of the Authority. 5. Membership of the Authority. 6. Tenure of office. 7. Resignation and revocation. 8. Vacation of office. 9. Power of the Minister to give directions and require information.
+
+10. Authority to determine its own procedure.
+
+11. Authority may invite others to meetings.
+
+12. Remuneration or allowance.
+
+13. Common seal.
+
+14. Delegation of Authority's function or powers.
+
+15. Authority may establish committees.
+
+16. Minutes. 17. Disclosure of interest. 18. Appointment of officers and servants of the Authority. 19. Power to grant loans and make advances to its officers and servants. 20. Disciplinary committees. 21. Appeal against decision of disciplinary committee.
 
 <!-- page 2 -->
 
@@ -24,7 +38,19 @@
 
 ## BILL
 
-22. Power to make disciplinary regulations. 23. Imposition of surcharge. 24. Notification of surcharge. 25. Withdrawal of surcharge. 26. Recovery of surcharge. 27. Composition of the Authority in special cases. 28. Public servants.
+22. Power to make disciplinary regulations.
+
+23. Imposition of surcharge.
+
+24. Notification of surcharge.
+
+25. Withdrawal of surcharge.
+
+26. Recovery of surcharge.
+
+27. Composition of the Authority in special cases.
+
+28. Public servants.
 
 ## PART
 
@@ -32,13 +58,31 @@ III
 
 ## FINANCE
 
-29. The Fund. 30. Expenditure to be charged on the Fund. 31. Conservation of Fund. 32. Levies. 33. Accounts and reports. 34. Power to borrow. 35. Investment.
+29. The Fund.
+
+30. Expenditure to be charged on the Fund.
+
+31. Conservation of Fund.
+
+32. Levies.
+
+33. Accounts and reports.
+
+34. Power to borrow.
+
+35. Investment.
 
 ## PART IV
 
 ## GENERAL
 
-36. Indemnity. 37. Power to make regulations. 38. Power of the Minister to make modifications. 39. Savings and transitional.
+36. Indemnity.
+
+37. Power to make regulations.
+
+38. Power of the Minister to make modifications.
+
+39. Savings and transitional.
 
 <!-- page 3 -->
 
@@ -84,7 +128,11 @@ on such date as the Minister may, by notification in the Gazette, appoint; and t
 
 "Authority" means the Labuan Offshore Financial Services Authority established under section 3;
 
-"Bank" means the Central Bank of Malaysia established Act 519 under the Central Bank of Malaysia Act 1958;
+"Bank" means the Central Bank of Malaysia established
+
+<!-- marginal: Act 519 -->
+
+under the Central Bank of Malaysia Act 1958;
 
 "Chairman" means the Chairman appointed under section 5;
 
@@ -94,7 +142,11 @@ on such date as the Minister may, by notification in the Gazette, appoint; and t
 
 "Fund" means the Fund established under subsection 29(1);
 
-"Labuan" means the Kawasan Lembaga Pembangunan Act 480. Labuan defined in section 2 of the Lembaga Pembangunan Labuan Act 1992;
+"Labuan" means the Kawasan Lembaga Pembangunan
+
+<!-- marginal: Act 480. -->
+
+Labuan defined in section 2 of the Lembaga Pembangunan Labuan Act 1992;
 
 "Minister" means the Minister for the time being charged with the responsibility for finance;
 
@@ -102,9 +154,17 @@ on such date as the Minister may, by notification in the Gazette, appoint; and t
 
 "offshore financial services" means any service provided by-
 
-(a) an offshore company or foreign offshore Act 441. company registered under the Offshore Companies Act 1990;
+(a) an offshore company or foreign offshore
 
-(b) any domestic company or foreign company Act 442. registered under the Labuan Trust Companies Act 1990;
+<!-- marginal: Act 441. -->
+
+company registered under the Offshore Companies Act 1990;
+
+(b) any domestic company or foreign company
+
+<!-- marginal: Act 442. -->
+
+registered under the Labuan Trust Companies Act 1990;
 
 <!-- page 5 -->
 
@@ -162,17 +222,35 @@ Authority" with perpetual succession and a common seal, which may sue and be sue
 
 <!-- page 6 -->
 
-4. (1) The functions of the Authority shall be— Functions and powers of the
+4. (1) The functions of the Authority shall be—
 
-(a) to administer, enforce, carry out and give effect Authority. to the provisions of—
+<!-- marginal: Functions -->
 
-Act 441. (i) the Offshore Companies Act 1990;
+<!-- marginal: and powers -->
 
-Act 442. (ii) the Labuan Trust Companies Act 1990;
+<!-- marginal: of the -->
 
-Act 443. (iii) the Offshore Banking Act 1990;
+(a) to administer, enforce, carry out and give effect
 
-Act 444. (iv) the Offshore Insurance Act 1990; and
+<!-- marginal: Authority. -->
+
+to the provisions of—
+
+<!-- marginal: Act 441. -->
+
+(i) the Offshore Companies Act 1990;
+
+<!-- marginal: Act 442. -->
+
+(ii) the Labuan Trust Companies Act 1990;
+
+<!-- marginal: Act 443. -->
+
+(iii) the Offshore Banking Act 1990;
+
+<!-- marginal: Act 444. -->
+
+(iv) the Offshore Insurance Act 1990; and
 
 (v) any other law relating to offshore financial services in Labuan;
 
@@ -232,19 +310,33 @@ members who shall be appointed by the Minister:
 
 <!-- page 8 -->
 
-Tenure of
+<!-- marginal: Tenure of -->
 
-6. Subject to such conditions as may be specified in his office. instrument of appointment, a member of the Authority shall, unless he sooner resigns or vacates his office or his appointment is sooner revoked, hold office for a term not exceeding three years and is eligible for reappointment.
+6. Subject to such conditions as may be specified in his
 
-Resignation
+<!-- marginal: office. -->
 
-7. (1) The appointment of any member may at any time and be revoked by the Minister. revocation.
+instrument of appointment, a member of the Authority shall, unless he sooner resigns or vacates his office or his appointment is sooner revoked, hold office for a term not exceeding three years and is eligible for reappointment.
+
+<!-- marginal: Resignation -->
+
+7. (1) The appointment of any member may at any time
+
+<!-- marginal: and -->
+
+be revoked by the Minister.
+
+<!-- marginal: revocation. -->
 
 (2) A member may at any time resign his office by a written notice addressed to the Minister.
 
-Vacation of
+<!-- marginal: Vacation of -->
 
-8. The office of a member of the Authority shall be office. vacated—
+8. The office of a member of the Authority shall be
+
+<!-- marginal: office. -->
+
+vacated—
 
 (a) if he dies;
 
@@ -256,15 +348,39 @@ Vacation of
 
 (e) if he absents himself from three consecutive meetings of the Authority without leave of the Chairman or in the case of the Chairman, without leave of the Minister.
 
-Power of the
+<!-- marginal: Power of the -->
 
-9. (1) The Minister may, from time to time, give to Minister to the Authority directions of a general character not give directions inconsistent with the provisions of this Act and such and require directions shall be binding on the Authority. information.
+9. (1) The Minister may, from time to time, give to
+
+<!-- marginal: Minister to -->
+
+the Authority directions of a general character not
+
+<!-- marginal: give -->
+
+<!-- marginal: directions -->
+
+inconsistent with the provisions of this Act and such
+
+<!-- marginal: and require -->
+
+directions shall be binding on the Authority.
+
+<!-- marginal: information. -->
 
 (2) The Minister may, from time to time, require the Authority to furnish the Minister with such returns, accounts and information with respect to the performance of any of its functions under this Act and any other law relating to offshore financial services and the Authority shall comply with such requirement.
 
-Authority to
+<!-- marginal: Authority to -->
 
-10. Subject to this Act and the approval of the Minister, determine its the Authority shall determine its own procedure. own procedure.
+10. Subject to this Act and the approval of the Minister,
+
+<!-- marginal: determine its -->
+
+the Authority shall determine its own procedure.
+
+<!-- marginal: own -->
+
+<!-- marginal: procedure. -->
 
 <!-- page 9 -->
 
@@ -310,11 +426,21 @@ Provided that any document or instrument which, if executed by a person not bein
 
 <!-- page 10 -->
 
-Delegation
+<!-- marginal: Delegation -->
 
-14. (1) The Authority may delegate any of its functions of or powers to— Authority's functions or
+14. (1) The Authority may delegate any of its functions
 
-(a) any member of the Authority; powers.
+<!-- marginal: of -->
+
+or powers to—
+
+<!-- marginal: Authority's -->
+
+<!-- marginal: functions or -->
+
+(a) any member of the Authority;
+
+<!-- marginal: powers. -->
 
 (b) any committee established by the Authority; or
 
@@ -322,15 +448,27 @@ Delegation
 
 (2) A delegation under this section shall not preclude the Authority itself from performing or exercising at any time any of the functions or powers so delegated.
 
-Authority
+<!-- marginal: Authority -->
 
-15. (1) The Authority may establish such committees may establish as it considers necessary or expedient to assist it in the committees. performance of its functions under this Act.
+15. (1) The Authority may establish such committees
 
-(2) The Authority may appoint any person to be a member of any committee established under subsection (1).
+<!-- marginal: may establish -->
+
+as it considers necessary or expedient to assist it in the
+
+<!-- marginal: committees. -->
+
+performance of its functions under this Act.
+
+(2) The Authority may appoint any person to be a member of any committee established under subsection
+
+(1).
 
 (3) A committee established under this section may elect any of its members to be chairman and may regulate its own procedure and, in the exercise of its powers under this subsection, such committee shall be subject to and act in accordance with any direction given to the committee by the Authority.
 
-(4) Meetings of a committee established under this section shall be held at such times and places as the chairman of the committee may, subject to subsection (3), determine.
+(4) Meetings of a committee established under this section shall be held at such times and places as the chairman of the committee may, subject to subsection
+
+(3), determine.
 
 (5) A committee may invite any person, for the purpose of advising it on any matter under discussion, to attend any meeting of the committee but the person so invited shall not be entitled to vote at any such meeting.
 
@@ -398,7 +536,9 @@ made with or by that company or firm, shall be deemed to be a sufficient declara
 
 (4) A notice given under subsection (3) shall be of no effect unless it is given at a meeting of the Authority or the committee, as the case may be, or the member concerned takes reasonable steps to secure that it is brought up and read at the next meeting of the Authority or the committee after it is given.
 
-(5) Every declaration made in pursuance of subsection (1) shall be recorded in the minutes of the meeting at which it was made or read.
+(5) Every declaration made in pursuance of subsection
+
+(1) shall be recorded in the minutes of the meeting at which it was made or read.
 
 (6) No member of the Authority or committee shall—
 
@@ -414,21 +554,57 @@ and if he does so—
 
 <!-- page 14 -->
 
-(7) A member who, before his appointment as a member of the Authority or a committee, has already acquired the share or interest referred to in subsection (1) shall declare the nature and extent of his share or interest to the Authority or committee, as the case may be, immediately upon his appointment by a general notice to be given to the Authority or the committee.
+(7) A member who, before his appointment as a member of the Authority or a committee, has already acquired the share or interest referred to in subsection
+
+(1) shall declare the nature and extent of his share or interest to the Authority or committee, as the case may be, immediately upon his appointment by a general notice to be given to the Authority or the committee.
 
 (8) Any member of the Authority or a committee who fails to disclose his share or interest as provided under this section shall be guilty of an offence and shall on conviction be liable to a fine not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding five years or to both.
 
-Appointment
+<!-- marginal: Appointment -->
 
-18. (1) The Authority may, from time to time, employ of officers persons who shall be paid such remuneration and and servants allowances and shall hold their employment on such other of the Authority. terms and conditions as the Authority may determine.
+18. (1) The Authority may, from time to time, employ
+
+<!-- marginal: of officers -->
+
+persons who shall be paid such remuneration and
+
+<!-- marginal: and servants -->
+
+allowances and shall hold their employment on such other
+
+<!-- marginal: of the -->
+
+<!-- marginal: Authority. -->
+
+terms and conditions as the Authority may determine.
 
 (2) The Authority may make arrangements for the payment to its officers and servants and their dependants of such retirement benefits, gratuities or other allowances as it may determine.
 
-Power to
+<!-- marginal: Power to -->
 
-19. The Authority may grant loans and make advances grant loans to its officers and servants on such terms and conditions and make advances to as the Authority may determine. its officers and servants. Disciplinary
+19. The Authority may grant loans and make advances
 
-20. (1) The Authority shall have disciplinary authority committees. over all its officers and servants and shall exercise disciplinary control in respect of all such persons in accordance with this Act and any regulations made under section 22.
+<!-- marginal: grant loans -->
+
+to its officers and servants on such terms and conditions
+
+<!-- marginal: and make -->
+
+<!-- marginal: advances to -->
+
+as the Authority may determine.
+
+<!-- marginal: its officers -->
+
+<!-- marginal: and servants. -->
+
+<!-- marginal: Disciplinary -->
+
+20. (1) The Authority shall have disciplinary authority
+
+<!-- marginal: committees. -->
+
+over all its officers and servants and shall exercise disciplinary control in respect of all such persons in accordance with this Act and any regulations made under section 22.
 
 (2) For the purposes of this section—
 
@@ -484,9 +660,19 @@ paragraph 20(2)(a) shall be appealable to the Minister.
 
 (5) The decision of the Minister or the Disciplinary Appeal Board under subsection (3) shall be final and conclusive.
 
-Power to
+<!-- marginal: Power to -->
 
-22. (1) The Authority may, with the approval of the make Minister, make such regulations as it deems necessary disciplinary regulations. or expedient to provide for the discipline of the officers and servants of the Authority.
+22. (1) The Authority may, with the approval of the
+
+<!-- marginal: make -->
+
+Minister, make such regulations as it deems necessary
+
+<!-- marginal: disciplinary -->
+
+<!-- marginal: regulations. -->
+
+or expedient to provide for the discipline of the officers and servants of the Authority.
 
 (2) The disciplinary regulations made under this section—
 
@@ -514,9 +700,13 @@ forfeiture of emoluments, a deferment of salary movement, reduction of salary, r
 
 (e) may provide for the suspension without emoluments of an officer or servant of the Authority where the officer or servant has been convicted by any criminal court or where an order of detention or restriction has been made in respect of or imposed on the officer or servant.
 
-Imposition of
+<!-- marginal: Imposition of -->
 
-23. (1) A person who is or was in the employment of surcharge. the Authority may be surcharged if it appears to the Authority that the person—
+23. (1) A person who is or was in the employment of
+
+<!-- marginal: surcharge. -->
+
+the Authority may be surcharged if it appears to the Authority that the person—
 
 (a) has failed to collect money owing to the Authority for the collection of which he is or was responsible;
 
@@ -612,7 +802,7 @@ III
 
 ## FINANCE
 
-The Fund.
+<!-- marginal: The Fund. -->
 
 29. (1) There is hereby established, for the purposes of this Act, a fund to be administered and controlled by the Authority.
 
@@ -630,11 +820,19 @@ The Fund.
 
 (f) all other sums or property which may in any manner become payable to or vested in the Authority in respect of any matter incidental to its functions and powers.
 
-Expenditure
+<!-- marginal: Expenditure -->
 
-30. The Fund shall be expended for the purpose of— to be charged on
+30. The Fund shall be expended for the purpose of—
 
-(a) paying any expenditure lawfully incurred by the Fund. the Authority, including legal fees and costs and other fees and costs, and the remuneration of officers and servants of the Authority, including the granting of loans, superannuation allowances or gratuities;
+<!-- marginal: to be -->
+
+<!-- marginal: charged on -->
+
+(a) paying any expenditure lawfully incurred by
+
+<!-- marginal: the Fund. -->
+
+the Authority, including legal fees and costs and other fees and costs, and the remuneration of officers and servants of the Authority, including the granting of loans, superannuation allowances or gratuities;
 
 (b) paying any other expenses, costs or expenditure properly incurred or accepted by the Authority in the performance of its functions or the exercise of its powers under this Act;
 
@@ -678,7 +876,13 @@ Fund by so performing its functions and exercising its powers under this Act as 
 
 ## BILL
 
-33. (1) The Authority shall cause proper accounts of Accounts and reports. the Fund and proper reports of its activities to be kept and shall, as soon as practicable after the end of each financial year, cause to be prepared—
+33. (1) The Authority shall cause proper accounts of
+
+<!-- marginal: Accounts and -->
+
+<!-- marginal: reports. -->
+
+the Fund and proper reports of its activities to be kept and shall, as soon as practicable after the end of each financial year, cause to be prepared—
 
 (a) a statement of accounts of the Authority which shall include a balance sheet and an account of income and expenditure; and
 
@@ -688,13 +892,21 @@ for that financial year.
 
 (2) The Authority shall as soon as possible send a copy of the statement of accounts certified by the auditors and a copy of the auditor's report to the Minister who shall cause them to be laid before both Houses of Parliament.
 
-(3) The Statutory Bodies (Accounts and Annual Reports) Act 240 Act 1980 shall apply to the Authority.
+(3) The Statutory Bodies (Accounts and Annual Reports)
 
-Power to
+<!-- marginal: Act 240 -->
 
-34. The Authority may from time to time, with the borrow. approval of the Minister, borrow, at such rate of interest and for such period and upon such terms as to the time and method of repayment and otherwise as the Minister may approve, any sums required by the Authority for meeting any of its obligations or performing any of its functions under this Act.
+Act 1980 shall apply to the Authority.
 
-Investment.
+<!-- marginal: Power to -->
+
+34. The Authority may from time to time, with the
+
+<!-- marginal: borrow. -->
+
+approval of the Minister, borrow, at such rate of interest and for such period and upon such terms as to the time and method of repayment and otherwise as the Minister may approve, any sums required by the Authority for meeting any of its obligations or performing any of its functions under this Act.
+
+<!-- marginal: Investment. -->
 
 35. The moneys of the Authority shall, in so far as they are not required to be expended by the Authority under this Act, be invested in such manner as the Authority deems fit.
 
@@ -704,7 +916,7 @@ IV
 
 ## GENERAL
 
-Indemnity.
+<!-- marginal: Indemnity. -->
 
 36. The Authority, any member of the Authority or of any committee established by the Authority, and any officer or servant of the Authority shall not be liable to any action or other proceedings for damages for or on account of, or in respect of, any act done or statement
 
@@ -760,7 +972,15 @@ or decisions made by the Registrar or the Bank, as the case may be, under any la
 
 <!-- page 24 -->
 
-(2) All regulations, instructions, directions, orders or decisions made by the Minister responsible for the Offshore Act 441 Companies Act 1990 and the Labuan Trust Companies Act 442. Act 1990 under those Acts existing before the commencement of this Act shall be deemed to have been made by the Minister charged with the responsibility for finance unless amended or revoked or until the date upon which they expire.
+(2) All regulations, instructions, directions, orders or decisions made by the Minister responsible for the Offshore
+
+<!-- marginal: Act 441 -->
+
+Companies Act 1990 and the Labuan Trust Companies
+
+<!-- marginal: Act 442. -->
+
+Act 1990 under those Acts existing before the commencement of this Act shall be deemed to have been made by the Minister charged with the responsibility for finance unless amended or revoked or until the date upon which they expire.
 
 (3) All applications, approvals or decisions pending before the Registrar or the Bank, as the case may be, under any law relating to offshore financial services shall, upon the commencement of this Act, be dealt with by the Authority.
 

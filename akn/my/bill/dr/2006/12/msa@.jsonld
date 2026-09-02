@@ -1,0 +1,1483 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-12-2006",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_VII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_VIII"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Pelindung 2006"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERMULAAN Tajuk ringkas dan permulaan kuat kuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PIHAK BERKUASA PENYIASAT Pelantikan pihak berkuasa penyiasat"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_III__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_III__cl_9"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PENENTUAN KEMUDARATAN YANG SERIUS ATAU ANCAMAN KEMUDARATAN YANG SERIUS DAN HUBUNGAN BERSEBAB Kemudaratan yang serius dan hubungan bersebab"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_III__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_III__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_III__cl_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_III__cl_8__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_III__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu penentuan mengenai sama ada peningkatan import telah menyebabkan atau mengancam untuk menyebabkan kemudaratan yang serius kepada suatu industri dalam negeri di bawah Akta ini, semua faktor relevan yang objektif dan yang boleh dinyatakan kuantiti keluaran yang disiasat, keluaran serupa dan keluaran yang bersaing secara langsung hendaklah dinilai sebagaimana yang ditetapkan, yang mempunyai kaitan dengan keadaan industri itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_III__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Penentuan yang disebut dalam subseksyen (1) tidak boleh dibuat melainkan penyiasatan ini menunjukkan, berdasarkan keterangan yang objektif, kewujudan hubungan bersebab antara peningkatan import bagi keluaran yang disiasat dengan kemudaratan yang serius atau ancamannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_III__cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila faktor selain peningkatan import terhadap keluaran yang disiasat adalah pada masa yang sama menyebabkan atau mengancam untuk menyebabkan kemudaratan kepada industri dalam negeri, kemudaratan itu tidaklah boleh dianggap disebabkan oleh peningkatan import. Ancaman kemudaratan yang serius dan hubungan bersebab"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_III__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_III__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_III__cl_9__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_III__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu penentuan mengenai suatu ancaman kemudaratan yang serius yang disebabkan oleh peningkatan import hendaklah berasaskan pada fakta dan bukan semata-mata pada pengataan, terkaan atau kemungkinan yang tipis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_III__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam mempertimbangkan sama ada peningkatan import mengancam untuk menyebabkan kemudaratan yang serius, faktor berkaitan yang hendaklah dinilai, hendaklah sebagaimana yang ditetapkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh melantik dan memberi kuasa kepada suatu pihak berkuasa penyiasat untuk menjalankan suatu penyiasatan di bawah Akta ini. Pelantikan pegawai"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, dari semasa ke semasa, melantik dan memberi kuasa kepada apa-apa bilangan pegawai yang perlu untuk melaksanakan fungsi dan kuasa di bawah Akta ini. Perlindungan pegawai dan orang yang bertindak di bawah Akta dan peraturan-peraturan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada tindakan atau pendakwaan boleh dibawa, dimulakan atau dikekalkan dalam mana-mana mahkamah terhadap mana-mana pegawai atau orang yang diberi kuasa di bawah Akta ini dan peraturan-peraturan yang dibuat di bawah Akta ini bagi atau atas sebab atau berkenaan dengan mana-mana tindakan yang diperintahkan atau dilakukan bagi maksud menguatkuasakan Akta ini dan peraturan- peraturan yang dibuat di bawah Akta ini, dan tiada guaman atau pendakwaan boleh dibawa dalam mana-mana mahkamah terhadap mana-mana orang bagi atau atas sebab atau berkenaan dengan apa-apa tindakan yang dilakukan atau berupa sebagai dilakukan olehnya atas perintah, arahan atau suruhan mana-mana pegawai atau orang itu jika tindakan itu dilakukan dengan suci hati dan dengan kepercayaan yang munasabah bahawa tindakan itu adalah perlu bagi maksud yang diniatkan untuk dicapai olehnya. Tugas dan kuasa pihak berkuasa penyiasat"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_6__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_6__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_6__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_6__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pihak berkuasa penyiasat hendaklah melaksanakan apa-apa tugas dan fungsi dan menjalankan apa-apa kuasa sebagaimana yang boleh diperuntukkan di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Penjalanan penyiasatan yang berhubungan dengan kemudaratan yang serius atau ancamannya, hendaklah sebagaimana yang ditetapkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pihak berkuasa penyiasat hendaklah tertakluk kepada peruntukan Akta ini dalam menjalankan fungsi yang ditugaskan kepadanya di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_6__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mengenai prosiding di bawah Akta ini, pihak berkuasa penyiasat tidak boleh mendedahkan apa-apa maklumat yang berhak diterima sebagai sulit di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_6__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pihak berkuasa penyiasat boleh meminta secara terus daripada pihak berkepentingan yang turut serta, ejen kastam, syarikat pemeriksa, syarikat penghantar, dan perusahaan dan entiti lain bagi sektor awam dan swasta, apa-apa data dan maklumat yang dianggap relevan bagi pelaksanaan tugas mereka. Pihak yang menerima permintaan tersebut hendaklah menyediakan maklumat yang diminta, dan maklumat itu hendaklah diletakkan dalam fail awam."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_6__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pihak berkuasa penyiasat boleh memutuskan untuk menentusahkan ketepatan apa-apa maklumat yang dikemukakan semasa suatu penyiasatan atau kajian semula sebagaimana yang ditetapkan. Kuasa untuk mewakilkan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_7__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, secara bertulis, mewakilkan mana-mana fungsinya di bawah Akta ini dan peraturan-peraturan yang dibuat di bawah Akta ini, tertakluk kepada apa-apa syarat, batasan atau sekatan yang difikirkannya patut, kepada seseorang atau golongan orang dan orang atau golongan orang yang kepadanya fungsi itu diwakilkan boleh melaksanakan fungsi itu mengikut cara yang sama dan dengan kesan yang sama seolah-olah fungsi itu telah diberikan kepadanya atau mereka di bawah Akta ini dan peraturan- peraturan yang dibuat di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang berupa sebagai bertindak menurut pewakilan yang dibuat di bawah seksyen ini hendaklah, jika tiada bukti yang berlawanan, dianggap sebagai bertindak mengikut terma pewakilan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pewakilan yang dibuat di bawah seksyen ini boleh pada bila-bila masa dibatalkan oleh Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_24"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PENYIASATAN Petisyen bagi memulakan suatu penyiasatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Permintaan bagi suatu penyiasatan untuk menentukan sama ada peningkatan import keluaran yang disiasat telah menyebabkan atau mengancam untuk menyebabkan kemudaratan yang serius terhadap industri dalam negeri boleh dimulakan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apabila terdapat suatu petisyen bertulis dialamatkan kepada Kementerian Perdagangan Antarabangsa dan Industri; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "atas inisiatif Kerajaan. Keperluan bagi suatu petisyen bertulis"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu petisyen di bawah perenggan XO(a) hendaklah termasuk maklumat sebagaimana yang ditetapkan. Penarikan balik petisyen sebelum memulakan suatu penyiasatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu petisyen di bawah seksyen 10 boleh ditarik balik sebelum memulakan suatu penyiasatan, yang dalam hal petisyen itu hendaklah dianggap tidak pernah dibuat. Pindaan kepada petisyen"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu petisyen yang meminta suatu penyiasatan dimulakan boleh dipinda tertakluk kepada apa-apa syarat yang Kerajaan fikirkan patut- Keputusan untuk memulakan suatu penyiasatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_14__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_14__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kerajaan boleh memulakan suatu penyiasatan, sama ada atas permintaan suatu industri dalam negeri atau atas inisiatif Kerajaan sendiri, hanya apabila Kerajaan memutuskan bahawa terdapat bukti yang mencukupi tentang kemudaratan yang serius atau ancamannya disebabkan oleh peningkatan import."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika Kerajaan memutuskan untuk memulakan suatu penyiasatan di bawah subseksyen (1), Kerajaan boleh meminta maklumat tambahan sebagaimana yang Kerajaan fikirkan perlu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika Kerajaan memutuskan untuk tidak memulakan suatu penyiasatan, Kerajaan hendaklah memberitahu secara bertulis kepada pempetisyen sebab-sebab penyiasatan tidak dimulakan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_14__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika suatu petisyen diterima, Kerajaan hendaklah, dari tarikh petisyen itu diterima, memutuskan sama ada hendak memulakan suatu penyiasatan atau tidak dalam tempoh sebagaimana yang ditetapkan. Apabila petisyen itu melibatkan isu yang rumit, atau jika Kerajaan perlu meminta maklumat tambahan sebagaimana yang diperuntukkan dalam subseksyen (2), tempoh berkenaan boleh dilanjutkan kepada tempoh lain sebagaimana yang ditetapkan. Notis bagi memulakan suatu penyiasatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jawatankuasa hendaklah diberitahu mengenai keputusan untuk"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memulakan suatu penyiasatan. Pemberitahuan itu hendaklah dibuat sebaik selepas pemulaan penyiasatan dijalankan. Penyiaran notis bagi memulakan suatu penyiasatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Notis bagi memulakan suatu penyiasatan hendaklah disiarkan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "oleh Kerajaan. Kandungan notis bagi memulakan suatu penyiasatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Kandungan notis bagi memulakan suatu penyiasatan hendaklah"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sebagaimana yang ditetapkan. Perbicaraan awain dan hujah bertulis"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_18__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_18__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_18__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua pihak berkepentingan yang turut serta hendaklah diberi peluang mengikut peruntukan seksyen ini—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_18__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bagi perbicaraan awam atau cara lain yang sesuai yang pengimport, pengeksport dan pihak berkepentingan yang lain dapat membentangkan keterangan dan pandangan mereka; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_18__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memberi jawapan kepada suatu pembentangan bertulis dan lisan oleh pihak berkepentingan yang lain yang mengambil bahagian dan untuk mengemukakan pandangan sama ada pelaksanaan suatu langkah perlindungan adalah demi kepentingan umum."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tatacara untuk perbicaraan awam hendaklah sebagaimana yang ditetapkan. Memperlakukan maklumat sulk"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_19__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_19__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa maklumat yang dari segi sifatnya adalah sulit atau yang disediakan secara sulit hendaklah, apabila sebab ditunjukkan, diperlakukan sedemikian oleh Kerajaan. Maklumat berkenaan tidak boleh didedahkan tanpa kebenaran bertulis yang khusus daripada pihak yang mengemukakan maklumat sulit itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pihak yang menyediakan maklumat sulit hendaklah diminta untuk memberikan ringkasan tidak sulit maklumat sulit itu atau, jika pihak itu menunjukkan bahawa maklumat itu tidak boleh diringkaskan, sebab-sebab mengapa suatu ringkasan tidak dapat disediakan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_19__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika Kerajaan mendapati bahawa suatu permintaan bagi memperlakukan maklumat sulit adalah tidak wajar, dan jika pembekal maklumat tidak rela untuk mendedahkan maklumat kepada umum, atau membenarkan pendedahan maklumat itu dalam bentuk umum atau ringkasan, Kerajaan boleh mengetepikan maklumat itu melainkan jika dapat ditunjukkan daripada sumber yang sepatutnya sehingga Kerajaan berpuas hati bahawa maklumat itu adalah betul. Penentuan awal"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kerajaan hendaklah, dalam tempoh yang ditetapkan, membuat penentuan awal tentang —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sama ada keluaran yang disiasat diimport ke dalam Malaysia dalam kuantiti yang meningkat, secara mutlak atau relatif kepada pengeluaran dalam negeri; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sama ada dalam keadaan itu, ia menyebabkan atau mengancam untuk menyebabkan kemudaratan yang serius kepada industri dalam negeri yang mengeluarkan keluaran serupa atau keluaran yang bersaing secara langsung."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika Kerajaan membuat penentuan awal negatif mengenai subseksyen (1), Kerajaan hendaklah menyiarkan suatu notis yang menyatakan sebab-sebab bagi penentuan negatif itu dan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "meneruskan penyiasatan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menamatkan penyiasatan itu jika Kerajaan fikirkan patut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika Kerajaan membuat penentuan awal afirmatif mengenai subseksyen (1), Kerajaan hendaklah meneruskan penyiasatan dan menyiarkan suatu notis bagi —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penentuan awal afirmatif itu, dengan menyatakan sebab- sebab bagi penentuannya berkenaan dengan perenggan \\{a) dan (b); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "langkah perlindungan sementara yang terpakai."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika keputusannya adalah untuk mengenakan suatu langkah perlindungan sementara, notis berkaitan pelaksanaan suatu langkah perlindungan sementara hendaklah sebagaimana yang ditetapkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika Kerajaan memutuskan untuk tidak mengenakan suatu langkah perlindungan sementara, notis penentuan awal negatif hendaklah sebagaimana yang ditetapkan. Pemberitahuan dan perundingan bagi suatu langkah perlindungan sementara"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_21__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila suatu keputusan telah diambil untuk mengenakan suatu langkah perlindungan sementara dan sebelum langkah berkenaan berkuat kuasa, Kerajaan hendaklah memberitahu kepada Jawatankuasa bertepatan dengan keperluan yang telah ditetapkan oleh Jawatankuasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sebelum langkah itu dikenakan, peluang bagi perundingan seperti yang disebut dalam Perjanjian hendaklah diberikan. Langkah perlindungan sementara"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_22__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_22__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_22__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_22__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_22__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_22__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kerajaan boleh mengenakan suatu langkah perlindungan sementara berhubung dengan keluaran yang disiasat yang diimport ke dalam Malaysia pada atau selepas penyiaran notis penentuan awal afirmatif jika Kerajaan menentukan bahawa langkah itu adalah perlu untuk mencegah kemudaratan yang disebut dalam subseksyen 8(1) dan 9(1) daripada berlaku ketika dalam tempoh penyiasatan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_22__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu langkah perlindungan sementara hendaklah dalam bentuk duti perlindungan sementara yang dijamin dengan suatu bon atau cagaran yang sama dengan amaun yang ditentukan oleh Kerajaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_22__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Langkah perlindungan sementara yang dikenakan di bawah seksyen ini tidak boleh melebihi dua ratus hari."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_22__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika penyiasatan seterusnya tidak mendapati bahawa suatu penentuan yang peningkatan import telah menyebabkan atau mengancam untuk menyebabkan kemudaratan yang serius kepada industri dalam negeri, apa-apa bon atau cagaran hendaklah dikembalikan segera."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_22__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pungutan apa-apa duti pelindung sementara yang dikenakan di bawah Akta ini hendaklah dijalankan oleh seorang pegawai kastam. Penentuan muktamad"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kerajaan hendaklah, dalam tempoh yang ditetapkan, membuat suatu penentuan muktamad tentang—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sama ada keluaran yang disiasat diimport ke dalam Malaysia dalam kuantiti yang meningkat, secara mutlak atau relatif kepada pengeluaran dalam negeri; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sama ada dalam keadaan itu, ia menyebabkan atau mengancam untuk menyebabkan kemudaratan yang serius kepada industri dalam negeri yang mengeluarkan keluaran serupa atau keluaran yang bersaing secara langsung."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika Kerajaan membuat suatu penentuan muktamad negatif mengenai subseksyen (1), Kerajaan hendaklah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menamatkan penyiasatan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menamatkan langkah perlindungan sementara yang dikenakan di bawah seksyen 22, dan melepaskan bon atau cagaran yang dikehendaki oleh langkah itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyiarkan suatu notis mengenai penentuan muktamad negatif itu, dengan menyatakan sebab-sebab bagi penentuan negatifnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika Kerajaan membuat suatu penentuan muktamad afirmatif mengenai subseksyen (1), Kerajaan hendaklah —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyiarkan suatu notis penentuan muktamad afirmatif; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengenakan suatu langkah perlindungan muktamad,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kerajaan hendaklah memberitahu dengan segera kepada Jawatankuasa jika Kerajaan memutuskan bahawa peningkatan import telah menyebabkan atau mengancam untuk meyebabkan kemudaratan yang serius kepada industri dalam negeri. Apa-apa pemberitahuan itu hendaklah mematuhi keperluan yang telah ditetapkan oleh Jawatankuasa. Notis bagi penentuan muktamad"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kerajaan hendaklah menyiarkan suatu notis bagi penentuan muktamad mengenai kemudaratan yang serius dan hubungan bersebab sebagaimana yang ditetapkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pelindung 2006."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang akan ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_2__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_2__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain —"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "\"ancaman kemudaratan yang serius\" ertinya kemudaratan serius yang pasti akan berlaku; \"Anggota\" ertinya Anggota kepada Pertubuhan Perdagangan Dunia; \"ASEAN\" ertinya Pertubuhan bagi Negara-Negara Asia Tenggara; \"ditetapkan\" ertinya ditetapkan oleh peraturan-peraturan yang dibuat di bawah Akta ini; \"GATT 1994\" ertinya Perjanjian Am mengenai Tarif dan Perdagangan 1994 yang dinyatakan dalam Lampiran 1A kepada Perjanjian Pertubuhan Perdagangan Dunia; \"industri dalam negeri\" ertinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_2__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_2__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_2__list_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_2__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengeluar dalam negeri secara keseluruhannya bagi keluaran serupa atau yang bersaing secara langsung dengan keluaran yang disiasat, yang beroperasi di dalam Malaysia; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_2__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengeluar dalam negeri yang beroperasi di dalam Malaysia yang keluaran secara keseluruhan bagi keluaran serupa atau yang bersaingan secara langsung menjadi suatu bahagian besar jumlah keseluruhan pengeluaran dalam negeri bagi keluaran berkenaan; \"Jawatankuasa\" ertinya Jawatankuasa tentang Pelindung bagi Pertubuhan Perdagangan Dunia; \"keluaran serupa\" ertinya keluaran yang sama atau serupa daripada segala hal dengan keluaran yang disiasat atau, dalam ketiadaan keluaran sedemikian, keluaran lain yang walaupun tidak serupa daripada segala hal mempunyai ciri-ciri yang hampir menyerupai keluaran yang disiasat; \"keluaran yang bersaing secara langsung\" ertinya keluaran yang bersaing walaupun berbeza daripada ciri-ciri atau bahan pembuatannya, adalah keluaran yang boleh diganti dari segi kebergunaan atau persaingan komersial; \"keluaran yang disiasat\" ertinya kelas atau jenis keluaran yang diimport atau dijual bagi pengimportan ke dalam Malaysia yang tertakluk kepada tindakan perlindungan di bawah Akta ini seperti yang ditentukan sesuai oleh Kerajaan bagi membuktikan skop tindakan; \"kemudaratan yang serius\" ertinya suatu kemudaratan keseluruhan yang ketara terhadap kedudukan suatu industri dalam negeri; \"Kerajaan\" ertinya Kerajaan Malaysia; \"Menteri\" ertinya Menteri yang dipertanggungkan dengan tanggungjawab bagi perdagangan antarabangsa dan industri; \"Negara\" termasuklah semua Anggota Pertubuhan Perdagangan Dunia dan mana-mana negara lain atau wilayah kastam berautonomi; \"pegawai kastam\" mempunyai erti yang sama seperti yang diberikan kepada ungkapan itu di bawah seksyen 2 Akta Kastam 1967 [Akta 235]; \"Perjanjian\" ertinya Perjanjian tentang Pelindung bagi Pertubuhan Perdagangan Dunia; \"pihak berkepentingan\" ertinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_2__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_2__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_2__list_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_2__list_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_2__list_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_2__list_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_2__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengeksport asing dan pengeluar bagi keluaran yang disiasat;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_2__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengimport keluaran yang disiasat;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_2__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kerajaan negara atau negara-negara pengeksport;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_2__list_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengeluar dalam negeri bagi keluaran serupa atau yang bersaing secara langsung;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_2__list_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "persatuan perdagangan dan perniagaan berdaftar di Malaysia yang relevan; \"pihak berkepentingan yang turut serta\" ertinya pihak berkepentingan yang telah membayangkan niat untuk menyertai suatu penyiasatan menurut seksyen 10; \"pihak berkuasa penyiasat\" ertinya pihak berkuasa penyiasat yang dilantik di bawah seksyen 3; \"WTO\" ertinya Pertubuhan Perdagangan Dunia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_30"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "LANGKAH PERLINDUNGAN MUKTAMAD Penentuan bagi langkah perlindungan muktamad"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KAJIAN SEMULA LANGKAH PERLINDUNGAN Kajian semula 36. (1) Jika tempoh suatu langkah perlindungan sementara, termasuk tempoh pengenaan apa-apa langkah perlindungan sementara, melebihi tiga tahun, Kerajaan yang mengenakan langkah itu hendaklah mengkaji semula keadaan itu tidak lewat daripada separuh penggal pengenaan langkah itu atau meningkatkan kadar pelonggaran. (2) Suatu notis untuk mengekalkan, melonggarkan atau menarik balik suatu langkah perlindungan muktamad, meringkaskan keputusan kajian semula, bolehlah disiarkan. Pelanjutan bagi suatu langkah perlindungan muktamad 37. (1) Atas inisiatif Kerajaan sendiri atau atas permintaan yang berasas, suatu pelanjutan langkah perlindungan muktamad melebihi tempoh permulaan dan mematuhi tatacara yang dinyatakan di bawah seksyen 8, 9, 16, 21, 23 dan 25 boleh diberikan— (a) jika langkah perlindungan itu terus menjadi perlu untuk menghalang atau meremedi kemudaratan yang serius; dan (b) terdapat bukti bahawa industri membuat penyesuaian, dengan syarat bahawa peruntukan Perjanjian adalah dipenuhi. (2) Suatu langkah perlindungan muktamad yang dilanjutkan tidak boleh lebih menyekat daripada langkah yang dikenakan pada penghujung tempoh permulaan pengenaan. Selama tempoh lanjutan, langkah itu hendaklah terus dilonggarkan secara berperingkat- peringkat mengikut jadual yang disiarkan dalam notis untuk melanjutkan suatu langkah perlindungan muktamad. (3) Dalam melanjutkan suatu langkah perlindungan muktamad melebihi tiga tahun, Kerajaan hendaklah berusaha untuk mengekalkan suatu tahap konsesi setaraf yang substantif dan obligasi lain yang ada di bawah GATT antara Malaysia dengan Anggota pengeksport yang akan terjejas oleh langkah itu. (4) Keperluan berkaitan dengan pemberitahuan kepada Jawatankuasa dan Majlis bagi Perdagangan Barangan WTO sebagaimana yang diperuntukkan di bawah subseksyen 21(1), 23(4) dan 27(3), dan keperluan berkaitan dengan perundingan dengan Anggota yang mempunyai kepentingan substantif sebagai pengeksport keluaran berkenaan sebagaimana yang diperuntukkan di bawah subseksyen 27(2) hendaklah terpakai bagi apa-apa pelanjutan suatu langkah perlindungan. Pemberitahuan untuk melanjutkan 38. Apabila suatu keputusan telah diambil untuk melanjutkan langkah perlindungan, Kerajaan hendaklah memberitahu kepada Jawatankuasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PENGENAAN SEMULA SUATU LANGKAH PERLINDUNGAN Pengenaan semula 39. (1) Tiada langkah perlindungan baru boleh dikenakan bagi suatu tempoh sekurang-kurangnya dua tahun kepada suatu keluaran import yang merupakan perkara kepada suatu langkah perlindungan muktamad. (2) Walau apa pun peruntukan subseksyen (1), suatu langkah perlindungan muktamad bagi suatu tempoh masa seratus lapan puluh hari atau kurang bolehlah dikenakan kepada import keluaran yang disiasat yang merupakan perkara kepada langkah perlindungan terdahulu jika— (a) sekurang-kurangnya satu tahun telah berlalu sejak tarikh pengenaan langkah perlindungan terdahulu kepada import keluaran itu; dan (b) langkah perlindungan sedemikian belum pernah dikenakan kepada keluaran import yang sama lebih daripada dua kali dalam tempoh lima tahun sebaik sebelum tarikh pengenalan langkah itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_VIII",
+      "@type": "akn:part",
+      "eli:number": "VIII",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PELBAGAI Obligasi antarabangsa 40. Akta ini hendaklah terpakai bertepatan dengan obligasi Malaysia di bawah Perjanjian Penubuhan Pertubuhan Perdagangan Dunia yang dibuat di Marrakesh, pada 15 April 1994, termasuk GATT 1994, dan Perjanjian tentang Pelindung. Peraturan-peraturan 41. Menteri boleh membuat peraturan-peraturan berkaitan dengan apa-apa perkara yang akan ditetapkan dan peraturan-peraturan lain yang perlu atau suai manfaat untuk memberi kesan sepenuhnya kepada atau bagi melaksanakan peruntukan Akta ini. Penyiaran notis 42. Semua notis yang dikehendaki untuk disiarkan di bawah Akta ini hendaklah disiarkan dalam Warta."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_25__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_25__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jika Kerajaan memutuskan semasa suatu langkah perlindungan semcntara bahawa—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_25__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "keluaran yang disiasat dimport ke dalam Malaysia dalam kuantiti yang meningkat, secara mutlak atau relatif kepada pengeluaran dalam negeri; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_25__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam keadaan itu, ia menyebabkan atau mengancam untuk menyebabkan kemudaratan yang serius kepada industri dalam negeri yang mengeluarkan keluaran serupa atau keluaran yang bersaing secara langsung, Kerajaan hendaklah mengenakan suatu langkah perlindungan muktamad. Notis bagi langkah perlindungan muktamad"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sebaik selepas suatu keputusan diambil mengenai suatu langkah perlindungan muktamad, Kerajaan hendaklah menyiarkan suatu notis mengenai pengenaan suatu langkah perlindungan muktamad dan notis itu hendaklah mengandungi maklumat sebagaimana yang ditetapkan. Pemberitahuan dan perundingan suatu langkah perlindungan muktamad"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27__subsec_1__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sebaik selepas suatu keputusan diambil untuk mengenakan suatu langkah perlindungan muktamad, tetapi sebelum langkah berkenaan berkuat kuasa, Kerajaan hendaklah memberitahu Jawatankuasa mengenai —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bukti kemudaratan yang serius atau ancamannya disebabkan oleh peningkatan import;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perihal yang tepat bagi keluaran yang disiasat;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bentuk, tahap dan jangka masa bagi langkah yang dicadangkan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tarikh yang dicadangkan bagi pengenaan langkah itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tarikh yang dicadangkan untuk memperkenalkan, tempoh yang dijangka dan jadual waktu bagi pelonggaran secara berperingkat-peringkat."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sebelum suatu langkah perlindungan muktamad dikenakan, Kerajaan hendaklah menyediakan peluang yang cukup bagi perundingan dengan Anggota yang mempunyai kepentingan yang substantif sebagai pengeksport keluaran yang disiasat, dengan suatu tujuan untuk —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengkaji semula maklumat yang diberitahu kepada Jawatankuasa mengenai dapatan kemudaratan yang serius atau ancamannya disebabkan oleh peningkatan import dan langkah yang dicadangkan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bertukar pandangan mengenai langkah itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mencapai suatu persefahaman tentang cara untuk mencapai objektif untuk mengekalkan suatu tahap konsesi setaraf yang substantif dan obligasi lain yang wujud di bawah GATT 1994 antara Malaysia dengan Anggota pengeksport yang akan terjejas oleh pengenaan langkah itu. Kerajaan boleh berusaha untuk menyediakan apa-apa cara ganti rugi perdagangan yang mencukupi bagi kesan buruk langkah itu kepada perdagangan mereka."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kerajaan hendaklah memberitahu Majlis bagi Perdagangan Barangan WTO dengan segera, melalui Jawatankuasa, mengenai keputusan perundingan itu. Bentuk dan pengenaan suatu langkah perlindungan muktamad"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_28__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_28__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_28__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_28__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_28__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_28__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu langkah perlindungan muktamad boleh dikenakan dalam bentuk—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_28__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_28__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu duti pelindung; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_28__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_28__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu kuota terhadap import; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_28__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_28__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu duti pelindung dan suatu kuota terhadap import."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_28__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada seksyen 34, apa-apa langkah perlindungan muktamad di bawah perenggan (l)(a) dan (b) hendaklah dikenakan kepada semua import keluaran yang disiasat, tanpa mengira sumber, yang masuk pada atau selepas tarikh langkah itu berkuat kuasa. Perkara pentadbiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_29__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_29__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_29__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_29__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_29__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_29__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_29__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_29__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa petisyen yang dikehendaki untuk dikemukakan di bawah Bahagian IV hendaklah dikemukakan kepada Kementerian Perdagangan Antarabangsa dan Industri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada peruntukan Akta ini, apa-apa tindakan yang dikehendaki dijalankan atau diambil di bawah Akta ini hendaklah dijalankan atau diambil oleh mana-mana pegawai atau orang yang diberi kuasa secara bertulis bagi maksud itu oleh Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_29__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa dapatan mengenai suatu penyiasatan, sama ada bagi maksud penentuan awal atau muktamad, atau suatu kajian semula, di bawah Akta ini, hendaklah dikemukakan kepada Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_29__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah membuat keputusan dan keputusan itu hendaklah muktamad."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_29__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah membuat suatu syor kepada Menteri Kewangan untuk mengenakan suatu langkah perlindungan muktamad."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_29__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pelaksanaan suatu langkah perlindungan muktamad dalam bentuk yang diperuntukkan dalam subseksyen 28(1) hendaklah dijalankan oleh seorang pegawai kastam."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_29__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika apa-apa soalan timbul mengenai sama ada apa-apa keluaran tertentu adalah atau adalah tidak termasuk dalam apa-apa pemberitahuan yang diberi di bawah Akta ini, soalan itu hendaklah dirujuk kepada pihak berkuasa penyiasat yang hendaklah membuat suatu keputusan tentang perkara itu. Pemindahan kapal"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/12/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam hal dagangan tidak diimport ke dalam Malaysia secara langsung dari negara asal, tetapi dieksport ke Malaysia dari suatu negara perantaraan, peruntukan Akta ini hendaklah terpakai sepenuhnya dan transaksi itu, bagi maksud Akta ini, hendaklah diambil kira sebagai telah dibuat antara negara asal dengan Malaysia. Pelonggaran bagi langkah perlindungan 35. Jika tempoh pengenaan melebihi satu tahun, langkah yang dikenakan hendaklah dilonggarkan secara berperingkat-peringkat pada jarak waktu tetap semasa tempoh pengenaan."
+      }
+    }
+  ]
+}

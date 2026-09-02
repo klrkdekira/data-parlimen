@@ -10,7 +10,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Short title
 
-1. This Act may be cited as the Service Tax (Amendment) Act 2001.
+1. This Act may be cited as the Service Tax (Amendment) Act
+
+2001.
 
 ### Amendment of section 2
 
@@ -96,7 +98,9 @@ and includes the provision of insurance policies to cover risks relating to the 
 
 ### Amendment of section 24
 
-6. Section 24 of the principal Act is amended by deleting subsections (3) and (4).
+6. Section 24 of the principal Act is amended by deleting subsections
+
+(3) and (4).
 
 ### New section 26A
 

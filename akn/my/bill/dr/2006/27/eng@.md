@@ -18,13 +18,27 @@
 
 Establishment
 
-3. Establishment of the Commission 4. Objects of the Commission 5. Vesting provisions 6. Common seal 7. Power to appoint Attorney 8. Power to establish office and subsidiary and to appoint agents 9. Appointment of person other than officer or employee 10. Commission may establish committee
+3. Establishment of the Commission 4. Objects of the Commission 5. Vesting provisions 6. Common seal 7. Power to appoint Attorney 8. Power to establish office and subsidiary and to appoint agents 9. Appointment of person other than officer or employee
+
+10. Commission may establish committee
 
 ## Chapter 2
 
 Board of directors
 
-11. Duties and composition 12. By-laws of Board 13. Tenure of office 14. Resignation 15. Disqualification and termination of director 16. Actions and proceedings of Board not affected by vacancy, etc. 17. Allowance or honorarium
+11. Duties and composition
+
+12. By-laws of Board
+
+13. Tenure of office
+
+14. Resignation
+
+15. Disqualification and termination of director
+
+16. Actions and proceedings of Board not affected by vacancy, etc.
+
+17. Allowance or honorarium
 
 <!-- page 2 -->
 
@@ -52,7 +66,17 @@ Finance
 
 31. Capital
 
-32. General Reserve Fund 33. Annual Government g] :ant 34. Operating fund 35. Power to borrow or raise fund 36. Power to lend 37. Investment
+32. General Reserve Fund
+
+33. Annual Government g] :ant
+
+34. Operating fund
+
+35. Power to borrow or raise fund
+
+36. Power to lend
+
+37. Investment
 
 <!-- page 3 -->
 
@@ -60,25 +84,65 @@ Finance
 
 ## Chapter 2
 
-Account and report 38. Requirements to keep book, record, account, etc. 39. Reporting requirement 40. Financial year
+Account and report
+
+38. Requirements to keep book, record, account, etc.
+
+39. Reporting requirement
+
+40. Financial year
 
 ## Chapter 3
 
 Fund
 
-41. Maintenance of fund and account 42. Central Liquidity Fund 43. Co-operative Deposit Account
+41. Maintenance of fund and account
+
+42. Central Liquidity Fund
+
+43. Co-operative Deposit Account
 
 ## PART VI
 
 ## INVESTIGATION, SEARCH AND SEIZURE
 
-44. Application of this Part 45. Appointment, power, function and duty of investigating officer 46. Powers of entry, search and seizure 47. Search of person 48. Obstruction to exercise of power by investigating officer 49. Requirement to provide translation 50. Power to examine person 51. Specific person in respect of whom power of investigation may be exercised 52. Assistance to police, public officer, etc. 53. Joinder of offences 54. Offence to be seizable offence
+44. Application of this Part
+
+45. Appointment, power, function and duty of investigating officer
+
+46. Powers of entry, search and seizure
+
+47. Search of person
+
+48. Obstruction to exercise of power by investigating officer
+
+49. Requirement to provide translation
+
+50. Power to examine person
+
+51. Specific person in respect of whom power of investigation may be exercised
+
+52. Assistance to police, public officer, etc.
+
+53. Joinder of offences
+
+54. Offence to be seizable offence
 
 ## PART VII
 
 ## GENERAL
 
-55. Specific offence 56. Power of Commission to compound offence 57. Duty of investigating officer to make over arrested person to police 58. Public servant 59. Public Authorities Protection Act 1948 60. Immunity
+55. Specific offence
+
+56. Power of Commission to compound offence
+
+57. Duty of investigating officer to make over arrested person to police
+
+58. Public servant
+
+59. Public Authorities Protection Act 1948
+
+60. Immunity
 
 <!-- page 4 -->
 
@@ -1252,11 +1316,7 @@ The Malaysia Co-operative Societies Commission Act 2006 ("the Act") proposed by 
 
 45. Clause 43 provides that within two years of coming into force of this clause or such longer period as may be permitted in writing by the Commission, all co-operative societies are required to deposit their funds not immediately needed for operation or investment into the Co-operative Deposit Account. The Commission may, with the approval of the Minister, make any regulations on the scope, operation and management of the Co-operative Deposit Account.
 
-46.
-
-## Part VI of the Bill contains provisions on investigation, search and
-
-seizure.
+46. Part VI of the Bill contains provisions on investigation, search and seizure.
 
 47. Clause 44 provides that Part VI of the Act shall apply to offences committed by any person under the Act, the Co-operative Societies Act 1993, any other written law enforced by the Commission, regulations, orders and directives made under these Acts or such written law.
 
@@ -1300,4 +1360,4 @@ seizure.
 
 This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
 
-[PN(U2)2481]
+<!-- marginal: [PN(U2)2481] -->

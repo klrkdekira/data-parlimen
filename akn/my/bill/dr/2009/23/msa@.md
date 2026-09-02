@@ -10,7 +10,7 @@ Liabiliti Terhad Labuan
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -18,13 +18,13 @@ Liabiliti Terhad Labuan
 
 2. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENTADBIRAN AKTA
 
 3. Pentadbiran Akta
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PERKONGSIAN TERHAD LABUAN
 
@@ -96,13 +96,15 @@ Pembubaran perkongsian terhad Labuan
 
 Liabiliti Terhad Labuan
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PERKONGSIAN LIABILITI TERHAD LABUAN
 
 ## Bab 1
 
-Penubuhan perkongsian liabiliti terhad Labuan 29. Perkongsian liabiliti terhad Labuan
+Penubuhan perkongsian liabiliti terhad Labuan
+
+29. Perkongsian liabiliti terhad Labuan
 
 30. Pendaftaran perkongsian liabiliti terhad Labuan
 
@@ -202,13 +204,15 @@ Liabiliti Terhad Labuan
 
 ## Bab 6
 
-Pembubaran perkongsian liabiliti terhad Labuan 67. Penerimaan dan penggulungan
+Pembubaran perkongsian liabiliti terhad Labuan
+
+67. Penerimaan dan penggulungan
 
 68. Tatacara alternatif bagi penggulungan secara sukarela perkongsian liabiliti terhad Labuan
 
 69. Pembatalan pembubaran
 
-## Bahagian V
+## BAHAGIAN V
 
 AM
 
@@ -266,9 +270,9 @@ Suatu Akta untuk mengadakan peruntukan bagi penubuhan, pengawalseliaan dan pembu
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian i
+## BAHAGIAN I
 
-PERMULaan
+## PERMULAAN
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
@@ -372,7 +376,7 @@ Liabiliti Terhad Labuan
 
 (2) Bagi maksud Akta ini, suatu perkongsian terhad Labuan adalah tidak solven pada sesuatu masa tertentu apabila pekongsi am tidak berupaya untuk menunaikan hutang dan obligasi perkongsian terhad Labuan itu, tidak termasuk liabiliti kepada pekongsi berkenaan dengan kepentingan perkongsiannya, apabila ia kena dibayar, daripada aset perkongsian terhad Labuan itu tanpa menggunakan aset berasingan seseorang pekongsi am yang tidak disumbangkan kepada perkongsian terhad Labuan itu, dan “solven” hendaklah ditafsirkan dengan sewajarnya.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENTADBIRAN AKTA
 
@@ -388,9 +392,9 @@ Liabiliti Terhad Labuan
 
 (4) Semua mahkamah, hakim dan orang yang bertindak secara kehakiman hendaklah memberi pengiktirafan kehakiman kepada meterai Lembaga.
 
-## Bahagian iii
+## BAHAGIAN III
 
-PERKOngSian TERhaD LaBUan
+## PERKONGSIAN TERHAD LABUAN
 
 ## Bab 1
 
@@ -440,7 +444,9 @@ Liabiliti Terhad Labuan
 
 (4) Apabila sesuatu perkongsian terhad Labuan didaftarkan, Lembaga hendaklah mengeluarkan suatu perakuan pendaftaran yang hendaklah ditandatangani oleh Lembaga atau mana-mana pegawai diberi kuasanya dan dimeteraikan dengan meterai Lembaga.
 
-(5) Sesuatu perakuan yang dikeluarkan di bawah subseksyen (4) hendaklah menjadi keterangan muktamad bahawa sesuatu perkongsian terhad Labuan telah didaftarkan dengan Lembaga.
+(5) Sesuatu perakuan yang dikeluarkan di bawah subseksyen
+
+(4) hendaklah menjadi keterangan muktamad bahawa sesuatu perkongsian terhad Labuan telah didaftarkan dengan Lembaga.
 
 <!-- page 14 -->
 
@@ -882,9 +888,9 @@ hendaklah difailkan dalam masa tiga puluh hari oleh pekongsi terhad itu dengan L
 
 (e) kepada pekongsi am berkenaan dengan bahagian keuntungan mereka.
 
-## Bahagian iV
+## BAHAGIAN IV
 
-PERKOngSian LiaBiLiTi TERhaD LaBUan
+## PERKONGSIAN LIABILITI TERHAD LABUAN
 
 ## Bab 1
 
@@ -1166,7 +1172,9 @@ sebulan selepas tarikh pendaftaran perkongsian liabiliti terhad yang diiktiraf i
 
 51. (1) Jika apa-apa perubahan dibuat atau berlaku dalam apa- apa butir berkenaan dengan sesuatu perkongsian liabiliti terhad yang diiktiraf yang didaftarkan di bawah seksyen 48, perkongsian liabiliti terhad yang diiktiraf itu hendaklah dalam masa tiga puluh hari selepas perubahan itu, atau apa-apa tempoh lanjutan yang dibenarkan oleh Lembaga atas permohonan, memfailkan dengan Lembaga suatu notis yang menyatakan jenis perubahan itu.
 
-(2) Apabila diterima butir-butir perubahan di bawah subseksyen (1), Lembaga hendaklah, tertakluk kepada Akta ini, mendaftarkan perubahan itu dan boleh, jika difikirkan patut oleh Lembaga, mengeluarkan suatu perakuan di bawah tandatangan dan meterainya, dan perakuan itu hendaklah menjadi keterangan prima facie dalam semua Mahkamah tentang perubahan butir-butir perkongsian liabiliti terhad yang diiktiraf itu.
+(2) Apabila diterima butir-butir perubahan di bawah subseksyen
+
+(1), Lembaga hendaklah, tertakluk kepada Akta ini, mendaftarkan perubahan itu dan boleh, jika difikirkan patut oleh Lembaga, mengeluarkan suatu perakuan di bawah tandatangan dan meterainya, dan perakuan itu hendaklah menjadi keterangan prima facie dalam semua Mahkamah tentang perubahan butir-butir perkongsian liabiliti terhad yang diiktiraf itu.
 
 (3) Jika sesuatu perkongsian liabiliti terhad yang diiktiraf tidak mematuhi subseksyen (1), perkongsian liabiliti terhad yang diiktiraf itu boleh dikenakan suatu penalti pentadbiran yang dinyatakan oleh Lembaga.
 
@@ -1498,11 +1506,7 @@ dan jika perakuan sedemikian itu tidak boleh diberikan tanpa syarat, hal yang be
 
 (a) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi sepuluh ribu ringgit; dan
 
-(b) apabila disabitkan di bawah perenggan (a), hendaklah digulungkan oleh mahkamah menurut peruntukan
-
-## Bahagian X (setakat yang peruntukan itu berhubungan
-
-dengan syarikat berhad menurut syer) Akta Syarikat 1965 [Akta 125] dan Kaedah-Kaedah Syarikat (Penggulungan) 1972 [P.U. (A) 289/1972], tertakluk kepada apa-apa ubah suaian dan penyesuaian yang perlu, dan khususnya, ubah suaian yang disebut dalam subseksyen 67(2).
+(b) apabila disabitkan di bawah perenggan (a), hendaklah digulungkan oleh mahkamah menurut peruntukan Bahagian X (setakat yang peruntukan itu berhubungan dengan syarikat berhad menurut syer) Akta Syarikat 1965 [Akta 125] dan Kaedah-Kaedah Syarikat (Penggulungan) 1972 [P.U. (A) 289/1972], tertakluk kepada apa-apa ubah suaian dan penyesuaian yang perlu, dan khususnya, ubah suaian yang disebut dalam subseksyen 67(2).
 
 (3) Seseorang pekongsi ditetapkan yang memfailkan perakuan yang disebut dalam subseksyen (1) tanpa mempunyai alasan yang munasabah bagi pendapatnya melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi sepuluh ribu ringgit.
 
@@ -1610,9 +1614,9 @@ Liabiliti Terhad Labuan
 
 (4) Apabila dibatalkan pembubaran di bawah subseksyen (1), perkongsian liabiliti terhad Labuan itu hendaklah memberitahu Lembaga dengan menyampaikan salinan perintah yang dimeterai ke atas Lembaga.
 
-## Bahagian V
+## BAHAGIAN V
 
-aM
+AM
 
 ### Akaun hendaklah disimpan
 
@@ -1648,7 +1652,9 @@ yang disiarkan dalam Warta, mengenakan syarat yang tertakluk kepadanya sesuatu p
 
 (2) Sesuatu perkongsian terhad Labuan atau perkongsian liabiliti terhad Labuan hendaklah membayar apa-apa fi tahunan yang ditetapkan, pada atau sebelum setiap ulang tahun tarikh pendaftarannya.
 
-(3) Apa-apa fi yang dipungut oleh atau dibayar kepada Lembaga di bawah Akta ini hendaklah menjadi sebahagian daripada dan dikreditkan ke dalam kumpulan wangnya yang ditubuhkan di bawah seksyen 29 Akta Lembaga Perkhidmatan Kewangan Labuan 1996.
+(3) Apa-apa fi yang dipungut oleh atau dibayar kepada Lembaga di bawah Akta ini hendaklah menjadi sebahagian daripada dan dikreditkan ke dalam kumpulan wangnya yang ditubuhkan di bawah seksyen 29 Akta Lembaga Perkhidmatan Kewangan Labuan
+
+1996.
 
 ### Pemeriksaan dan pengemukaan dokumen yang disimpan
 
@@ -1830,7 +1836,9 @@ Liabiliti Terhad Labuan
 
 (b) menghendaki, pada bila-bila masa, sesuatu perkongsian terhad Labuan atau perkongsian liabiliti terhad Labuan atau mana-mana pekongsinya untuk mengemukakan apa-apa maklumat, statistik, penyata atau dokumen yang berhubungan dengan perkongsian itu kepada Lembaga pada masa dan tempat yang dinyatakan oleh Lembaga.
 
-(2) Jika mana-mana orang dikehendaki di bawah subperenggan (1)(a)(ii) atau perenggan (1)(b) untuk memberikan apa-apa maklumat, statistik, penyata atau dokumen kepada Lembaga, orang
+(2) Jika mana-mana orang dikehendaki di bawah subperenggan
+
+(1)(a)(ii) atau perenggan (1)(b) untuk memberikan apa-apa maklumat, statistik, penyata atau dokumen kepada Lembaga, orang
 
 <!-- page 74 -->
 
@@ -1920,7 +1928,7 @@ Liabiliti Terhad Labuan
 
 Rang Undang-Undang ini bertujuan untuk mengadakan peruntukan bagi penubuhan, pengawalseliaan dan pembubaran perkongsian terhad Labuan dan perkongsian liabiliti terhad Labuan dan bagi perkara yang berkaitan atau bersampingan dengannya.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Rang Undang-Undang mengandungi peruntukan permulaan.
 
@@ -1928,11 +1936,11 @@ Rang Undang-Undang ini bertujuan untuk mengadakan peruntukan bagi penubuhan, pen
 
 4. Fasal 2 mentakrifkan perkataan dan ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 5. Fasal 3 bertujuan untuk mengadakan peruntukan bahawa Akta yang dicadangkan akan ditadbir oleh Lembaga.
 
-## Bahagian III
+## BAHAGIAN III
 
 6. Bahagian III Rang Undang-Undang mengandungi peruntukan mengenai penubuhan, pengurusan dan pembubaran sesuatu perkongsian terhad Labuan.
 
@@ -1996,7 +2004,7 @@ Fasal 27 bertujuan untuk memberi mahkamah kuasa untuk memerintahkan pembubaran s
 
 Liabiliti Terhad Labuan
 
-## Bahagian IV
+## BAHAGIAN IV
 
 29. Bahagian IV Rang Undang-Undang mengandungi peruntukan bagi penubuhan, pengurusan dan pembubaran sesuatu perkongsian liabiliti terhad Labuan, penukaran kepada perkongsian liabiliti terhad Labuan dan perkongsian liabiliti terhad yang diiktiraf.
 
@@ -2074,9 +2082,9 @@ liabiliti terhad Labuan apabila perkongsian liabiliti terhad Labuan itu tidak so
 
 61. Fasal 69 memberi Mahkamah Tinggi kuasa untuk membuat suatu perintah bagi membatalkan pembubaran perkongsian liabiliti terhad Labuan jika kehendak tertentu dipenuhi.
 
-## Bahagian V
+## BAHAGIAN V
 
-## Bahagian V Rang Undang-Undang mengandungi peruntukan am.
+Bahagian V Rang Undang-Undang mengandungi peruntukan am.
 
 62. Fasal 70 bertujuan untuk mengawal selia penyimpanan dan pengauditan rekod perakaunan dan rekod lain sesuatu perkongsian terhad Labuan dan perkongsian liabiliti terhad Labuan.
 

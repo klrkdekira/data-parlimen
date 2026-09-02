@@ -60,7 +60,11 @@ i n i, adalah dipinda—
 
 (ii) perniagaan pemajakan;
 
-(iii) perniagaan sewa-beli, termasuklah perniagaan yang tertakluk kepada Akta Sewa- Akta 212 Beli 1967; atau
+(iii) perniagaan sewa-beli, termasuklah perniagaan yang tertakluk kepada Akta Sewa-
+
+<!-- marginal: Akta 212 -->
+
+Beli 1967; atau
 
 <!-- page 3 -->
 
@@ -72,7 +76,11 @@ i n i, adalah dipinda—
 
 (xi) dengan memasukkan, selepas takrif "saudara", takrif yang berikut:
 
-' "sekuriti" mempunyai erti yang diberikan kepadanya di bawah Akta 280. subseksyen 2(1) Akta Perindustrian Sekuriti 1983;';
+' "sekuriti" mempunyai erti yang diberikan kepadanya di bawah
+
+<!-- marginal: Akta 280. -->
+
+subseksyen 2(1) Akta Perindustrian Sekuriti 1983;';
 
 (xii) dengan memasukkan, selepas takrif "subsidiari", takrif yang berikut:
 
@@ -82,11 +90,7 @@ i n i, adalah dipinda—
 
 (b) dengan menggantikan subseksyen (4) dengan subseksyen yang berikut:
 
-"(4) Jika di bawah mana-mana peruntukan Akta ini, kuasa diberikan kepada Bank untuk menghendaki mana-mana orang, atau jika mana-mana orang dikehendaki di bawah mana-mana peruntukan Akta ini, untuk mengemukakan, mengadakan
-
-<!-- marginal: atau -->
-
-menyediakan kepada Bank apa-apa maklumat, pernyataan, statistik, penyata atau dokumen___
+"(4) Jika di bawah mana-mana peruntukan Akta ini, kuasa diberikan kepada Bank untuk menghendaki mana-mana orang, atau jika mana-mana orang dikehendaki di bawah mana-mana peruntukan Akta ini, untuk mengemukakan, mengadakan atau menyediakan kepada Bank apa-apa maklumat, pernyataan, statistik, penyata atau dokumen___
 
 (a) Bank boleh menentukan bahawa maklumat, pernyataan, statistik, penyata atau dokumen itu hendaklah dikemukakan, diadakan atau disediakan
 
@@ -120,11 +124,7 @@ dan setelah penyiaran sedemikian, takrif "deposit" atau "suratcara terbitan", me
 
 (b) "suratcara terbitan kewangan" ertinya kontrak niaga hadapan, kontrak hadapan, kontrak swap, atau kontrak opsyen, atau suratcara kewangan lain yang mempunyai ciri- ciri yang serupa tetapi tidak termasuk—
 
-(i) semua penerimaan
-
-<!-- marginal: atau -->
-
-pembayaran atas kunci kira- kira, termasuklah yang memperolehi nilainya atau secara kontrak menghendaki wang tunai daripada harga sekuriti atau indeks lain, seperti sekuriti bersandarkan gadai-janji, kewajipan faedah sahaja dan wang pokok sahaja, dan suratcara hutang diindeks; dan
+(i) semua penerimaan atau pembayaran atas kunci kira- kira, termasuklah yang memperolehi nilainya atau secara kontrak menghendaki wang tunai daripada harga sekuriti atau indeks lain, seperti sekuriti bersandarkan gadai-janji, kewajipan faedah sahaja dan wang pokok sahaja, dan suratcara hutang diindeks; dan
 
 (ii) ciri-ciri opsyen yang ter- kandung dalam kunci kira-kira yang boleh diterima atau boleh dibayar, seperti bentuk pertukaran dan peruntukan panggilan yang terkandung dalam bon boleh tukar; dan
 
@@ -134,19 +134,27 @@ pembayaran atas kunci kira- kira, termasuklah yang memperolehi nilainya atau sec
 
 <!-- marginal: hadapan, -->
 
-komoditi swap, komoditi opsyen atau suratcara komoditi
+komoditi swap, komoditi opsyen atau suratcara komoditi lain yang mempunyai ciri-ciri yang serupa, yang secara munasabahnya boleh diselesaikan secara tunai atau dengan sekuriti atau suratcara terbitan lain.".
 
-<!-- marginal: lain yang -->
+<!-- marginal: Kuatkuasa -->
 
-mempunyai ciri-ciri yang serupa, yang secara munasabahnya boleh diselesaikan secara tunai atau dengan sekuriti atau suratcara terbitan lain.".
+(2) Perenggan (l)(a)(ix) hendaklah mula berkuatkuasa
 
-Kuatkuasa (2) Perenggan (l)(a)(ix) hendaklah mula berkuatkuasa kebelakangan dan hendaklah sentiasa disifatkan sebagai suatu bahagian perenggan
+<!-- marginal: kebelakangan -->
+
+dan hendaklah sentiasa disifatkan sebagai suatu bahagian
+
+<!-- marginal: perenggan -->
 
 (1)(d). integral Akta ibu mulai dari tarikh mula berkuatkuasanya Akta ibu.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Akta ibu adalah dipinda— perkataan "Ordinan".
+3. Akta ibu adalah dipinda—
+
+<!-- marginal: perkataan -->
+
+<!-- marginal: "Ordinan". -->
 
 (a) dalam subseksyen 2(1) dengan memotong takrif "Ordinan"; dan
 
@@ -156,9 +164,13 @@ Pindaan
 
 (ii) memasukkan sebagai nota birai di mana jua perkataan "Akta Bank Negara Malaysia 1958" terdapat perkataan "Akta 579.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Seksyen 7 Akta ibu adalah dipinda dengan seksyen 7. menggantikan subseksyen (3) dengan subseksyen yang berikut:
+4. Seksyen 7 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 7. -->
+
+menggantikan subseksyen (3) dengan subseksyen yang berikut:
 
 "(3) Mana-mana institusi yang tidak berpuas hati dengan apa-apa keputusan Menteri untuk membatalkan lesennya di bawah seksyen ini boleh—
 
@@ -202,13 +214,21 @@ memotong perkataan "tempatan".
 
 <!-- page 8 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-7. Subseksyen 18(1) Akta ibu adalah dipinda dengan seksyen 18. memotong perkataan "atau disifatkan memegang".
+7. Subseksyen 18(1) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 18. -->
 
-8. Seksyen 19 Akta ibu adalah dipinda dengan seksyen 19. menggantikan subseksyen (1) dengan subseksyen yang berikut:
+memotong perkataan "atau disifatkan memegang".
+
+<!-- marginal: Pindaan -->
+
+8. Seksyen 19 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 19. -->
+
+menggantikan subseksyen (1) dengan subseksyen yang berikut:
 
 "(1) Tiada seorang pun boleh mula menjalankan perniagaan institusi terjadual selepas tarikh berkuatkuasa melainkan jika—
 
@@ -218,29 +238,33 @@ Pindaan
 
 (c) ia telah mematuhi kehendak seksyen 21(1) dan telah memperolehi pengakuan bertulis daripada Bank berkenaan dengan pematuhan tersebut.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-9. Seksyen 23 Akta ibu adalah dipinda— seksyen 23.
+9. Seksyen 23 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 23. -->
 
 (a) dengan menggantikan koma selepas perkataan "pemfaktoran" dengan perkataan "atau"; dan
 
-(b) dengan memotong perkataan
+(b) dengan memotong perkataan 'atau "cek kembara" '.
 
-<!-- marginal: 'atau "cek -->
+<!-- marginal: Pindaan -->
 
-kembara" '.
+10. Seksyen 24 Akta ibu adalah dipinda—
 
-Pindaan
-
-10. Seksyen 24 Akta ibu adalah dipinda— seksyen 24.
+<!-- marginal: seksyen 24. -->
 
 (a) dalam nota birai dan dalam subseksyen (1) dengan memotong perkataan ", XI"; dan
 
 (b) dalam teks bahasa kebangsaan, dalatn baris 23 subseksyen (1) dengan memotong perkataan "tertentu".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-11. Teks bahasa kebangsaan seksyen 26 Akta ibu adalah seksyen 26. dipinda dengan menggantikan perkataan "tak bertujuan mensolisit" di mana jua terdapat dalamnya dan dalam nota birai dengan perkataan "tanpa diminta".
+11. Teks bahasa kebangsaan seksyen 26 Akta ibu adalah
+
+<!-- marginal: seksyen 26. -->
+
+dipinda dengan menggantikan perkataan "tak bertujuan mensolisit" di mana jua terdapat dalamnya dan dalam nota birai dengan perkataan "tanpa diminta".
 
 <!-- page 9 -->
 
@@ -306,9 +330,11 @@ dipinda dalam nota birai dengan menggantikan perkataan "urusniaga yang dijalanka
 
 (4) Tiada apa-apa dalam seksyen ini boleh memberikuasa kepada suatu institusi berlesen untuk membayar dividen daripada kumpulan wang rizab itu.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-18. Seksyen 37 Akta ibu adalah dipinda— seksyen 37.
+18. Seksyen 37 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 37. -->
 
 (a) dalam nota birai dengan memotong perkataan "dan wang kerja bersih"; dan
 
@@ -316,19 +342,25 @@ Pindaan
 
 "(1) Bank boleh menentukan bahawa suatu institusi berlesen hendaklah menyenggarakan, pada setiap masa, wang modal yang tak tercacat oleh kerugian, pada apa-apa nisbah kepada segala atau apa-apa aset atau kepada segala atau apa-apa liabiliti, atau kepada kedua-dua aset atau liabiliti itu, institusi itu dan kesemua pejabatnya di dalam dan di luar Malaysia sebagaimana yang dinyatakan dalam penentuan itu.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-19. Seksyen 38 Akta ibu adalah dipinda— seksyen 38
+19. Seksyen 38 Akta ibu adalah dipinda—
 
-(a) dalam teks bahasa kebangsaan dalam subseksyen (2) dengan menggantikan perkataan "dilakukan" dengan perkataan "ditanggung"; dan
+<!-- marginal: seksyen 38 -->
+
+(a) dalam teks bahasa kebangsaan dalam subseksyen
+
+(2) dengan menggantikan perkataan "dilakukan" dengan perkataan "ditanggung"; dan
 
 (b) dengan menggantikan subseksyen (5) dengan subseksyen yang berikut:
 
 "(5) Bank boleh melarang mana-mana institusi berlesen daripada memberikan apa- apa kemudahan kredit kepada mana-mana orang dalam tempoh yang institusi itu telah gagal untuk mematuhi mana-mana kehendak suatu penentuan di bawah seksyen ini.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-20. Subseksyen 40(15) Akta ibu adalah dipinda— seksyen 40.
+20. Subseksyen 40(15) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 40. -->
 
 (a) dalam perenggan (a) dengan memasukkan, selepas perkataan "kesalahan", perkataan "yang berkaitan dengan ketidakjujuran atau fraud";
 
@@ -382,9 +414,11 @@ memotong perkataan "tempatan".
 
 (b) dalam teks bahasa kebangsaan, dalam perenggan (3)(a) dan (b), dengan menggantikan perkataan "berkenaan dengan" di mana jua terdapat dalamnya dengan perkataan "bagi".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-24. Seksyen 46 Akta ibu adalah dipinda— seksyen 46.
+24. Seksyen 46 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 46. -->
 
 (a) dalam subseksyen (1)—
 
@@ -414,11 +448,7 @@ meluluskan sebaliknya."; dan
 
 ## (PINDAAN)
 
-dicadangkan itu dan hendaklah
-
-<!-- marginal: terus -->
-
-memberitahu Bank tentang apa-apa pelupusan yang dicadangkan selanjutnya selagi individu atau orang lain itu memegang tidak kurang daripada lima peratus kepentingan dalam syer institusi itu.
+dicadangkan itu dan hendaklah terus memberitahu Bank tentang apa-apa pelupusan yang dicadangkan selanjutnya selagi individu atau orang lain itu memegang tidak kurang daripada lima peratus kepentingan dalam syer institusi itu.
 
 (6) Bank boleh, pada bila-bila masa melalui notis secara bertulis, menghendaki mana-mana orang untuk mengemukakan-
 
@@ -426,11 +456,7 @@ memberitahu Bank tentang apa-apa pelupusan yang dicadangkan selanjutnya selagi i
 
 (b) pernyataan mengenai pegangan kepentingan semasanya dalam syer institusi berlesen.
 
-(7) Mana-mana orang yang
-
-<!-- marginal: telah -->
-
-disampaikan kepadanya suatu notis di bawah subseksyen (6) hendaklah, dalam masa tujuh hari dari penerimaan notis itu atau apa-apa tempoh yang lebih panjang sebagaimana yang dibenarkan oleh Bank dalam apa-apa hal tertentu, mengemukakan kepada Bank segala maklumat dan butir-butir atau perayataan yang perlu, mengikut mana-mana yang berkenaan, sebagaimana yang dikehendaki oleh Bank dan ditentusahkan sewajarnya melalui akuan berkanun.".
+(7) Mana-mana orang yang telah disampaikan kepadanya suatu notis di bawah subseksyen (6) hendaklah, dalam masa tujuh hari dari penerimaan notis itu atau apa-apa tempoh yang lebih panjang sebagaimana yang dibenarkan oleh Bank dalam apa-apa hal tertentu, mengemukakan kepada Bank segala maklumat dan butir-butir atau perayataan yang perlu, mengikut mana-mana yang berkenaan, sebagaimana yang dikehendaki oleh Bank dan ditentusahkan sewajarnya melalui akuan berkanun.".
 
 <!-- marginal: Pindaan -->
 
@@ -438,15 +464,19 @@ disampaikan kepadanya suatu notis di bawah subseksyen (6) hendaklah, dalam masa 
 
 <!-- marginal: seksyen 49. -->
 
-(a) dalam teks bahasa kebangsaan, dalam subseksyen (1), dengan menggantikan perkataan "berkenaan dengan" di mana jua terdapat dalamnya dengan perkataan "bagi"; dan
+(a) dalam teks bahasa kebangsaan, dalam subseksyen
+
+(1), dengan menggantikan perkataan "berkenaan dengan" di mana jua terdapat dalamnya dengan perkataan "bagi"; dan
 
 <!-- page 14 -->
 
 (b) dalam subseksyen (6) dengan memotong perkataan "bahawa ia akan berlawanan dengan mana-mana peruntukan lain Akta ini untuk meluluskan permohonan itu, atau".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-26. Seksyen 50 Akta ibu adalah dipinda- seksyen 50.
+26. Seksyen 50 Akta ibu adalah dipinda-
+
+<!-- marginal: seksyen 50. -->
 
 (a) dalam teks bahasa kebangsaan, dalam baris 22 perenggan (1)(i), dengan menggantikan perkataan "cagaran" dengan perkataan "jaminan";
 
@@ -462,19 +492,23 @@ Sabah diperuntukkan di bawah Ordinan Tanah
 
 Sabah; atau"; dan
 
-(c) dalam teks bahasa kebangsaan, dalam sub- seksyen (7), dengan menggantikan perkataan "melaksanakannya" dengan
+(c) dalam teks bahasa kebangsaan, dalam sub- seksyen (7), dengan menggantikan perkataan "melaksanakannya" dengan perkataan "dilaksanakan".
 
-<!-- marginal: perkataan -->
+<!-- marginal: Pindaan -->
 
-"dilaksanakan".
+27. Seksyen 51 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 51. -->
 
-27. Seksyen 51 Akta ibu adalah dipinda dengan seksyen 51. memotong perkataan "tempatan" dalam teks dan dalam nota birai.
+memotong perkataan "tempatan" dalam teks dan dalam nota birai.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-28. Teks bahasa kebangsaan subseksyen 52(1) Akta ibu seksyen 52. adalah dipinda dengan menggantikan perkataan "cuma harta itu sahaja" dengan perkataan "dengan sendirinya".
+28. Teks bahasa kebangsaan subseksyen 52(1) Akta ibu
+
+<!-- marginal: seksyen 52. -->
+
+adalah dipinda dengan menggantikan perkataan "cuma harta itu sahaja" dengan perkataan "dengan sendirinya".
 
 <!-- page 15 -->
 
@@ -528,23 +562,37 @@ menyetujuterima perlantikan atau pemilihan; atau
 
 sebagai pengarah, pengurus, setiausaha, atau pegawai lain yang bersangkut-paut dalam pengurusan mana-mana institusi berlesen jika Menteri berpuas hati, atas syor Bank, bahawa kriteria yang dinyatakan dalam perenggan (1) Jadual Kedua telah dipenuhi berkenaan dengannya.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-32. Subseksyen 58(1) dan (2) Akta ibu adalah dipinda seksyen 58. dengan memotong perkataan "tempatan" di mana jua terdapat dalamnya.
+32. Subseksyen 58(1) dan (2) Akta ibu adalah dipinda
 
-Pindaan
+<!-- marginal: seksyen 58. -->
 
-33. Perenggan 60(3)(c) Akta ibu adalah dipinda dengan seksyen 60. memasukkan, selepas perkataan "perbadanan berkaitannya", perkataan "yang bukannya suatu institusi atau orang lain yang disebut dalam perenggan (a) dan
+dengan memotong perkataan "tempatan" di mana jua terdapat dalamnya.
+
+<!-- marginal: Pindaan -->
+
+33. Perenggan 60(3)(c) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 60. -->
+
+memasukkan, selepas perkataan "perbadanan berkaitannya", perkataan "yang bukannya suatu institusi atau orang lain yang disebut dalam perenggan (a) dan
 
 (b) masing-masingnya".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-34. Subseksyen 61(1) Akta ibu adalah dipinda dengan seksyen 61. memotong perkataan ", atau, dalam hal sesuatu bank asing berlesen, wang kerja bersihnya,".
+34. Subseksyen 61(1) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 61. -->
 
-35. Seksyen 62 Akta ibu adalah dipinda— seksyen 62.
+memotong perkataan ", atau, dalam hal sesuatu bank asing berlesen, wang kerja bersihnya,".
+
+<!-- marginal: Pindaan -->
+
+35. Seksyen 62 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 62. -->
 
 (a) dalam perenggan (2)(a) dengan menggantikan perkataan "pinjaman" dengan perkataan "kemudahan kredit";
 
@@ -602,9 +650,11 @@ dipinda—
 
 ## RANG UNDANG-UNDANG
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-39. Seksyen 66 Akta ibu adalah dipinda— seksyen 66.
+39. Seksyen 66 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 66. -->
 
 (a) dalam subperenggan (2)(a)(iii) dengan memotong perkataan "atau";
 
@@ -702,13 +752,19 @@ menggantikan perkataan "mana-mana pejabat di luar Malaysia bagi sesuatu institus
 
 (f) dalam teks bahasa kebangsaan, dalam subseksyen (5), dengan menggantikan perkataan "oleh Bank mengikut cara yang sama," dengan perkataan "mengikut cara yang sama, oleh Bank".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-44. Teks bahasa kebangsaan seksyen 77 Akta ibu adalah seksyen 77. dipinda dalam subseksyen (1) dengan menggantikan perkataan "membatalkan" dengan perkataan "mengkensel".
+44. Teks bahasa kebangsaan seksyen 77 Akta ibu adalah
 
-Pindaan
+<!-- marginal: seksyen 77. -->
 
-45. Seksyen 79 Akta ibu adalah dipinda dengan— seksyen 79.
+dipinda dalam subseksyen (1) dengan menggantikan perkataan "membatalkan" dengan perkataan "mengkensel".
+
+<!-- marginal: Pindaan -->
+
+45. Seksyen 79 Akta ibu adalah dipinda dengan—
+
+<!-- marginal: seksyen 79. -->
 
 (a) dengan menggantikan noktah bertindih dengan noktah;
 
@@ -716,9 +772,11 @@ Pindaan
 
 (c) dalam teks bahasa kebangsaan, dengan menggantikan perkataan "subsidiari-subsidiari institusi berlesen" dalam nota birai dengan perkataan "perbadanan-perbadanan berkaitan".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-46. Seksyen 80 Akta ibu adalah dipinda— seksyen 80.
+46. Seksyen 80 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 80. -->
 
 (a) dalam perenggan (1)(d) dengan memasukkan, selepas koma bernoktah, perkataan "atau"; dan
 
@@ -750,23 +808,35 @@ memasukkan, selepas subseksyen (2), subseksyen yang berikut:
 
 (6) Suatu rekod bertulis hendaklah dibuat oleh pegawai yang menyebabkan apa-apa pelepasan mana- mana harta, buku atau dokumen lain di bawah subseksyen (5) berkenaan dengan pelepasan sedemikian dengan menyatakan dalamnya secara terperinci hal keadaan, dan sebab bagi, pelepasan sedemikian.
 
-(7) Jika pegawai penyiasat tidak dapat menentukan orang yang berhak di sisi undang-undang terhadap harta, buku atau dokumen lain itu atau jika terdapat lebih daripada satu pihak menuntut harta, buku atau dokumen lain itu, pegawai penyiasat hendaklah melaporkan perkara itu kepada Majistret yang hendaklah kemudiannya memperlakukati harta, buku atau dokumen lain itu sebagaimana yang diperuntukkan dalam seksyen N.M.B.Bab 6. 413(2), (3) dan (4), 414, 415 dan 416 Kanun Prosedur Jenayah.".
+(7) Jika pegawai penyiasat tidak dapat menentukan orang yang berhak di sisi undang-undang terhadap harta, buku atau dokumen lain itu atau jika terdapat lebih daripada satu pihak menuntut harta, buku atau dokumen lain itu, pegawai penyiasat hendaklah melaporkan perkara itu kepada Majistret yang hendaklah kemudiannya memperlakukati harta, buku atau dokumen lain itu sebagaimana yang diperuntukkan dalam seksyen
 
-Pindaan
+<!-- marginal: N.M.B.Bab 6. -->
 
-48. Teks bahasa kebangsaan perenggan 8 5( b) Akta ibu seksyen 85. adalah dipinda dengan menggantikan perkataan "melambat-lambatkan" dengan perkataan "melengah- lengahkan".
+413(2), (3) dan (4), 414, 415 dan 416 Kanun Prosedur Jenayah.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-49. Seksyen 87 Akta ibu adalah dipinda— seksyen 87.
+48. Teks bahasa kebangsaan perenggan 8 5( b) Akta ibu
+
+<!-- marginal: seksyen 85. -->
+
+adalah dipinda dengan menggantikan perkataan "melambat-lambatkan" dengan perkataan "melengah- lengahkan".
+
+<!-- marginal: Pindaan -->
+
+49. Seksyen 87 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 87. -->
 
 (a) dalam teks bahasa kebangsaan, dalam baris 12 perenggan (2)(b), dengan memasukkan selepas perkataan "dokumen lain yang tersebut" perkataan "atau"; dan
 
 (b) dalam subseksyen (6) dengan menggantikan perkataan "direkodkan oleh pegawai penyiasat secara bertulis dalam tandatangannya sendiri" dengan perkataan "dijadikan dalam bentuk tulisan oleh pegawai penyiasat".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-50. Seksyen 91 Akta ibu adalah dipinda— seksyen 91.
+50. Seksyen 91 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 91. -->
 
 (a) dalam teks bahasa kebangsaan, dalam baris 6 perenggan (b), dengan menggantikan perkataan "berjadual" dengan perkataan "terjadual"; dan
 
@@ -828,27 +898,45 @@ memasukkan, selepas perkataan "mana-mana institusi berlesen," perkataan "atau ma
 
 "(i) jika pendedahan sedemikian dibenarkan secara bertulis oleh Bank.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-55. Seksyen 101 Akta ibu adalah dipinda dengan seksyen 101. memotong perenggan ( 1 )( a ).
+55. Seksyen 101 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 101. -->
 
-56. Teks bahasa kebangsaan seksyen 102 Akta ibu adalah seksyen 102. dipinda dengan menggantikan perkataan "atau mana-mana pejabat di negara, wilayah atau tempat mana-mana institusi berlesen itu" dengan perkataan "atau mana-mana pejabat mana-mana institusi berlesen di negara, wilayah atau tempat itu".
+memotong perenggan ( 1 )( a ).
 
-57. Teks bahasa kebangsaan seksyen 103 Akta ibu adalah Pindaan seksyen 103. dipinda dengan memotong perkataan "masing-masingnya" dalam perenggan (2)(c).
+<!-- marginal: Pindaan -->
 
-Pindaan
+56. Teks bahasa kebangsaan seksyen 102 Akta ibu adalah
 
-58. Seksyen 113 Akta ibu adalah dipinda— seksyen 113.
+<!-- marginal: seksyen 102. -->
+
+dipinda dengan menggantikan perkataan "atau mana-mana pejabat di negara, wilayah atau tempat mana-mana institusi berlesen itu" dengan perkataan "atau mana-mana pejabat mana-mana institusi berlesen di negara, wilayah atau tempat itu".
+
+57. Teks bahasa kebangsaan seksyen 103 Akta ibu adalah
+
+<!-- marginal: Pindaan -->
+
+<!-- marginal: seksyen 103. -->
+
+dipinda dengan memotong perkataan "masing-masingnya" dalam perenggan (2)(c).
+
+<!-- marginal: Pindaan -->
+
+58. Seksyen 113 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 113. -->
 
 (a) dalam subseksyen (2) dengan memasukkan, selepas perkataan "undang-undang bertulis", perkataan "atau bagi maksud-maksud biro kredit yang ditubuhkan di bawah seksyen 30(1)(mmm) Akta 519 Akta Bank Negara Malaysia 1958"; dan
 
 (b) dengan memotong subseksyen (3).
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-59. Seksyen 114 Akta ibu adalah dipinda— seksyen 114.
+59. Seksyen 114 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 114. -->
 
 (a) dalam teks bahasa kebangsaan, dalam subseksyen (1), dengan menggantikan
 
@@ -858,9 +946,13 @@ Pindaan
 
 (b) dalam perenggan (2)(b) dengan memasukkan, selepas perkataan "seksyen 73(2)(b)", perkataan "atau (c)".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-60. Teks bahasa kebangsaan seksyen 115 Akta ibu adalah seksyen 115. dipinda—
+60. Teks bahasa kebangsaan seksyen 115 Akta ibu adalah
+
+<!-- marginal: seksyen 115. -->
+
+dipinda—
 
 (a) dalam subseksyen (1) dengan memotong perkataan "(sama ada atau tidak ia telah mematuhi kehendak-kehendak seksyen 21(1))"; dan
 
@@ -870,17 +962,17 @@ Pindaan
 
 (b) dalam perenggan (1)(c) dengan menggantikan perkataan "mengambil" dengan perkataan "mengeluarkan".
 
-<!-- marginal: Pindaan -->
+Pindaan
 
-61. Seksyen 116 Akta ibu adalah dipinda—
-
-<!-- marginal: seksyen 116. -->
+61. Seksyen 116 Akta ibu adalah dipinda— seksyen 116.
 
 (a) dengan menggantikan subperenggan (2)(a)(ii) dengan subperenggan yang berikut:
 
 "(ii) pemberian apa-apa kemudahan kredit oleh mana-mana institusi berlesen kepada mana-mana orang dalam bentuk kredit pengguna, atau bagi pembiayaan apa-apa suratcara terbitan, pemerolehan atau pegangan harta tak alih atau apa- apa kepentingan dalamnya, atau pemerolehan atau pegangan apa-apa syer atau apa-apa kepentingan dalam syer, atau pemerolehan atau pegangan apa- apa harta lain sebagaimana yang ditetapkan oleh Bank;
 
-(b) dengan memasukkan selepas subperenggan (2)(a)(ii) subperenggan yang berikut:
+(b) dengan memasukkan selepas subperenggan
+
+(2)(a)(ii) subperenggan yang berikut:
 
 "(iii) pengeluaran atau pemerolehan, pegangan atau pelupusan suratcara terbitan oleh suatu institusi berlesen;
 
@@ -912,23 +1004,39 @@ pemegang syer institusi berlesen atau syarikat pegangan institusi berlesen; atau
 
 (ii) pihak kepada mana-mana sistem pemindahan kumpulan wang elektronik yang ditubuhkan, atau beroperasi, di Malaysia;".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-62. Teks bahasa kebangsaan perenggan 1 1 8 ( 1 )( a) seksyen 118. Akta ibu adalah dipinda dengan menggantikan perkataan "sebagai balasan" dengan perkataan
+62. Teks bahasa kebangsaan perenggan 1 1 8 ( 1 )( a)
+
+<!-- marginal: seksyen 118. -->
+
+Akta ibu adalah dipinda dengan menggantikan perkataan "sebagai balasan" dengan perkataan
 
 <!-- marginal: "dalam -->
 
 menimbangkan".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-63. Teks bahasa kebangsaan subseksyen 119(7) Akta seksyen 119. ibu adalah dipinda dengan menggantikan perkataan "bersampingan atau berdampingan" dengan perkataan "berdampingan atau bersampingan".
+63. Teks bahasa kebangsaan subseksyen 119(7) Akta
 
-Pindaan
+<!-- marginal: seksyen 119. -->
 
-64. Teks bahasa kebangsaan subseksyen 121(3) Akta seksyen 121. ibu adalah dipinda dalam baris 10 dengan memasukkan, selepas perkataan "perniagaan", perkataan "institusi itu".
+ibu adalah dipinda dengan menggantikan perkataan "bersampingan atau berdampingan" dengan perkataan "berdampingan atau bersampingan".
 
-65. Seksyen 122 Akta ibu adalah dipinda— Pindaan seksyen 122.
+<!-- marginal: Pindaan -->
+
+64. Teks bahasa kebangsaan subseksyen 121(3) Akta
+
+<!-- marginal: seksyen 121. -->
+
+ibu adalah dipinda dalam baris 10 dengan memasukkan, selepas perkataan "perniagaan", perkataan "institusi itu".
+
+65. Seksyen 122 Akta ibu adalah dipinda—
+
+<!-- marginal: Pindaan -->
+
+<!-- marginal: seksyen 122. -->
 
 (a) dalam subseksyen (1) dengan menggantikan perkataan "Jika sesuatu institusi berlesen atau sesuatu institusi terjadual atau sesuatu institusi
 
@@ -946,7 +1054,25 @@ tak terjadual yang berkenaan dengannya Menteri telah membuat suatu perintah di b
 
 <!-- marginal: seksyen 124. -->
 
-seksyen 124 dengan seksyen yang berikut: " Perniagaan 124. (1) Kecuali sebagaimana yang bank atau diperuntukkan dalam seksyen 33, tiada apa pun kewangan Islam. dalam Akta ini atau Akta Bank Islam 1983 yang Akia 276. melarang atau menyekat mana-mana institusi berlesen daripada menjalankan perniagaan bank Islam atau perniagaan kewangan Islam, sebagai tambahan kepada perniagaan berlesennya yang sedia ada, dengan syarat bahawa institusi berlesen itu hendaklah berunding dengan Bank sebelum ia menjalankan perniagaan bank Islam atau perniagaan kewangan Islam.
+seksyen 124 dengan seksyen yang berikut: "
+
+<!-- marginal: Perniagaan -->
+
+124. (1) Kecuali sebagaimana yang
+
+<!-- marginal: bank atau -->
+
+diperuntukkan dalam seksyen 33, tiada apa pun
+
+<!-- marginal: kewangan -->
+
+<!-- marginal: Islam. -->
+
+dalam Akta ini atau Akta Bank Islam 1983 yang
+
+<!-- marginal: Akia 276. -->
+
+melarang atau menyekat mana-mana institusi berlesen daripada menjalankan perniagaan bank Islam atau perniagaan kewangan Islam, sebagai tambahan kepada perniagaan berlesennya yang sedia ada, dengan syarat bahawa institusi berlesen itu hendaklah berunding dengan Bank sebelum ia menjalankan perniagaan bank Islam atau perniagaan kewangan Islam.
 
 (2) Bagi mengelakkan keraguan, adalah diisytiharkan bahawa suatu institusi berlesen hendaklah, berkenaan dengan perniagaan bank Islam atau perniagaan kewangan Islam yang dijalankan olehnya, tertakluk kepada peruntukan Akta ini.
 
@@ -980,7 +1106,7 @@ Majlis Penasihat Syariah yang ditubuhkan di bawah subseksyen (7), mengenai penge
 
 <!-- marginal: seksyen 128. -->
 
-dipinda-
+<!-- marginal: dipinda- -->
 
 (a) dalam perenggan (b) dengan menggantikan perkataan "arahan" di mana jua terdapat dalamnya dengan perkataan "nota"; dan
 
@@ -1012,7 +1138,9 @@ Rang Undang-Undang ini bertujuan meminda Akta Bank dan Institusi- Institusi Kewa
 
 3.
 
-(a) Fasal 2(1)(a) bertujuan mengadakan peruntukan bagi takrif suratcara terbitan. Fasal 2(1)(a)(iii), (iv), (v), (vi), (viii) dan (x) bertujuan menggantikan perkataan tertentu dalam teks bahasa kebangsaan untuk menjadikan teks bahasa kebangsaan lebih tepat. Pelbagai pindaan telah juga dibuat di bawah fasal 10(b), 11, 12, 15, 16, 19(a), 20(c), 23(b), 25(a), 26(a) dan (c), 28, 29, 31(b), 36, 37(b), 38(a), 43(a), (d) dan (f), 44, 45(c), 46(b), 48, 49(a), 50(a), 56, 57, 59(a), 60, 61(c), 62, 63, 64, 65(b) dan 67 atas sebab yang sama.
+(a) Fasal 2(1)(a) bertujuan mengadakan peruntukan bagi takrif suratcara terbitan. Fasal 2(1)(a)(iii), (iv), (v), (vi), (viii) dan (x) bertujuan menggantikan perkataan tertentu dalam teks bahasa kebangsaan untuk menjadikan teks bahasa kebangsaan lebih tepat. Pelbagai pindaan telah juga dibuat di bawah fasal 10(b), 11, 12, 15, 16, 19(a), 20(c), 23(b), 25(a), 26(a) dan (c), 28, 29, 31(b), 36, 37(b), 38(a), 43(a),
+
+(d) dan (f), 44, 45(c), 46(b), 48, 49(a), 50(a), 56, 57, 59(a), 60, 61(c), 62, 63, 64, 65(b) dan 67 atas sebab yang sama.
 
 (b) Fasal 2(1)(a)(i), (ii), (vii) dan (xiii) bertujuan memotong perkataan dan ungkapan tertentu yang tidak lagi sesuai digunakan setelah bank-bank asing diperbadankan di Malaysia. Pelbagai pindaan telah juga dibuat di bawah fasal 6, 7, 13, 14, 17(a), 18(a) dan (b), 21, 22, 23(a), 24(a) dan (b), 27, 30, 32, 34, 37(a), 41, 42, 43(b) dan (e), 45(a) dan (b), 55 dan 59(b) atas sebab yang sama.
 
@@ -1050,11 +1178,7 @@ Rang Undang-Undang ini bertujuan meminda Akta Bank dan Institusi- Institusi Kewa
 
 1 3 .F a s al 20 bertujuan meminda perenggan (a) dan (b) subseksyen 40(15) untuk menghendaki juruaudit untuk melaporkan hanya kesalahan berkaitan dengan ketidakjujuran atau fraud dan apa-apa kerugian yang mengurangkan kumpulan wang modal institusi berlesen setakat yang ia tidak lagi berupaya memenuhi Nisbah Kecukupan Modal yang ditentukan oleh Bank Negara.
 
-14. Fasal 24(a)(iii) bertujuan meminda subseksyen 46(1) untuk membolehkan Menteri secara pentadbiran meluluskan pengecualian bagi pegangan maksimum yang dibenarkan dalam institusi-institusi kewangan. Fasal 24(c) bertujuan memasukkan subseksyen baru (5),
-
-(6) dan (7). Subseksyen baru (5) memasukkan suatu kehendak baru bagi pemegang syer untuk memberitahu Bank mengenai pelupusan kepentingan dalam syer jika mereka memegang lebih 10% (individu) atau 20% (perbadanan) sesuatu institusi berlesen. Subseksyen baru
-
-(6) dan (7) memberi Bank Negara kuasa untuk menghendaki mana- mana orang untuk menyerahkan maklumat tentang pemegangannya dalam syer dalam institusi berlesen.
+14. Fasal 24(a)(iii) bertujuan meminda subseksyen 46(1) untuk membolehkan Menteri secara pentadbiran meluluskan pengecualian bagi pegangan maksimum yang dibenarkan dalam institusi-institusi kewangan. Fasal 24(c) bertujuan memasukkan subseksyen baru (5), (6) dan (7). Subseksyen baru (5) memasukkan suatu kehendak baru bagi pemegang syer untuk memberitahu Bank mengenai pelupusan kepentingan dalam syer jika mereka memegang lebih 10% (individu) atau 20% (perbadanan) sesuatu institusi berlesen. Subseksyen baru (6) dan (7) memberi Bank Negara kuasa untuk menghendaki mana- mana orang untuk menyerahkan maklumat tentang pemegangannya dalam syer dalam institusi berlesen.
 
 15. Fasal 25(b) bertujuan mengeluarkan syarat dalam subseksyen 49(6) bahawa apa-apa kelulusan yang diberikan bagi pertukaran kawalan dalam institusi berlesen atau syarikat pegangannya hendaklah tidak boleh bercanggah dengan peruntukan lain dalam Akta kerana apa-apa kelulusan yang diberikan di bawah perenggan 49(l)(a) akan sentiasa menjadi tak konsisten dengan peruntukan subseksyen 46(1) yang menghadkan pemegangan syer dalam mana-mana institusi berlesen kepada 10% (individu) atau 20% (perbadanan).
 

@@ -22,6 +22,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (b) by substituting for the words “prescribed time” wherever appearing the words “prescribed period”.
 
+<!-- marginal: WJW21/1475 Teks BI.indd 1 -->
+
 <!-- marginal: 06/12/2021 8:46 PM -->
 
 <!-- page 2 -->
@@ -54,6 +56,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 of the pharmaceutical sector that includes active ingredient necessary for its manufacture and diagnostic kit needed for its use;’;
 
+<!-- marginal: WJW21/1475 Teks BI.indd 2 -->
+
 <!-- marginal: 06/12/2021 8:46 PM -->
 
 <!-- page 3 -->
@@ -79,6 +83,8 @@ of the pharmaceutical sector that includes active ingredient necessary for its m
 (g) by inserting after the definition of “right” the following definition:
 
 ‘ “TRIPS Agreement” means the Agreement on Trade-Related Aspects of Intellectual Property Rights, set out in Annex 1C to the Agreement Establishing the World Trade Organization.’.
+
+<!-- marginal: WJW21/1475 Teks BI.indd 3 -->
 
 <!-- marginal: 06/12/2021 8:46 PM -->
 
@@ -142,6 +148,8 @@ of the pharmaceutical sector that includes active ingredient necessary for its m
 
 “(2) An application for the grant of a written authority by the Registrar referred to in subsection (1) shall be made by the resident in the prescribed manner together with the payment of the prescribed fee.”.
 
+<!-- marginal: WJW21/1475 Teks BI.indd 5 -->
+
 <!-- marginal: 06/12/2021 8:46 PM -->
 
 <!-- page 6 -->
@@ -202,6 +210,8 @@ of the pharmaceutical sector that includes active ingredient necessary for its m
 
 (4) The deposit of micro-organism with the National Depositary Authority or the International Depositary Authority, as the case may be, shall be recognized as fulfilling the requirement of disclosure in a patent application.
 
+<!-- marginal: WJW21/1475 Teks BI.indd 7 -->
+
 <!-- marginal: 06/12/2021 8:46 PM -->
 
 <!-- page 8 -->
@@ -259,6 +269,8 @@ of the pharmaceutical sector that includes active ingredient necessary for its m
 (b) the applicant does not comply with the request of the Registrar to file the required correction under subsection (2), the application shall be treated as abandoned;
 
 (c) the applicant complies with the request of the Registrar to make payment of the prescribed fee for each subsequent claim under subsection (2a), the Registrar shall record as the filing date the date of receipt of the application under subsection (1); or
+
+<!-- marginal: WJW21/1475 Teks BI.indd 9 -->
 
 <!-- marginal: 06/12/2021 8:46 PM -->
 
@@ -319,6 +331,8 @@ within the prescribed period, the application for a patent shall be deemed to be
 ### patent
 
 31a. An owner of a patent or a patent applicant may make a request to the Registrar for a certified or non-certified copy of any form or document concerning his patent application
+
+<!-- marginal: WJW21/1475 Teks BI.indd 11 -->
 
 <!-- marginal: 06/12/2021 8:46 PM -->
 
@@ -382,6 +396,8 @@ or patent filed at the Patent Registration Office in the form as determined by t
 
 (b) by deleting subsection (4).
 
+<!-- marginal: WJW21/1475 Teks BI.indd 13 -->
+
 <!-- marginal: 06/12/2021 8:46 PM -->
 
 <!-- page 14 -->
@@ -439,6 +455,8 @@ public inspection in the prescribed manner the following information or document
 (h) patent and non-patent related literature citations submitted by the applicant or any other person to the Patent Registration Office.”;
 
 (b) by deleting subsection (2);
+
+<!-- marginal: WJW21/1475 Teks BI.indd 15 -->
 
 <!-- marginal: 06/12/2021 8:46 PM -->
 
@@ -501,6 +519,8 @@ public inspection in the prescribed manner the following information or document
 31. Section 37 of the principal Act is amended—
 
 (a) in subsection (1), by substituting for the words “and in particular not to acts done only for scientific research”
+
+<!-- marginal: WJW21/1475 Teks BI.indd 17 -->
 
 <!-- marginal: 06/12/2021 8:46 PM -->
 
@@ -570,6 +590,8 @@ the words “and shall not extend to acts done for experimental or scientific re
 
 (a) in the definition of “beneficiary of the compulsory licence”, by deleting the word “and” at the end of that definition;
 
+<!-- marginal: WJW21/1475 Teks BI.indd 19 -->
+
 <!-- marginal: 06/12/2021 8:46 PM -->
 
 <!-- page 20 -->
@@ -623,6 +645,8 @@ the words “and shall not extend to acts done for experimental or scientific re
 “(2) Where an application for a compulsory licence is made pursuant to section 49 or a request for a compulsory licence is made pursuant to section 49a, the Registrar shall furnish a copy of the application or the request to the licensor or the licensee, as the case may be, for an opportunity to make observations on the application or request within the prescribed period.”; and
 
 (d) by deleting subsection (3).
+
+<!-- marginal: WJW21/1475 Teks BI.indd 21 -->
 
 <!-- marginal: 06/12/2021 8:46 PM -->
 
@@ -692,6 +716,8 @@ the words “and shall not extend to acts done for experimental or scientific re
 
 55a. (1) Where no proceedings under any provision of this Act is instituted at the Court in relation to a patent,
 
+<!-- marginal: WJW21/1475 Teks BI.indd 23 -->
+
 <!-- marginal: 06/12/2021 8:46 PM -->
 
 <!-- page 24 -->
@@ -745,6 +771,8 @@ any interested person may, within the prescribed period from the date of publica
 (a) both parties to the opposition proceedings agree for the invalidation proceedings to be instituted before the Court; or
 
 (b) the interested person is a defendant in an infringement proceedings.
+
+<!-- marginal: WJW21/1475 Teks BI.indd 25 -->
 
 <!-- marginal: 06/12/2021 8:46 PM -->
 
@@ -804,6 +832,8 @@ any interested person may, within the prescribed period from the date of publica
 
 78 f. (1) Any person who is a citizen of Malaysia residing outside Malaysia or a resident shall be entitled
 
+<!-- marginal: WJW21/1475 Teks BI.indd 27 -->
+
 <!-- marginal: 06/12/2021 8:46 PM -->
 
 <!-- page 28 -->
@@ -857,6 +887,8 @@ to file an international application for a patent with the Patent Registration O
 (a) by inserting after subsection (1) the following subsections:
 
 “(1a) Where the Registrar finds that the request for amendment of patent under subsection (1) requires
+
+<!-- marginal: WJW21/1475 Teks BI.indd 29 -->
 
 <!-- marginal: 06/12/2021 8:46 PM -->
 
@@ -913,6 +945,8 @@ an Examiner to re-examine the patent, the owner of a patent shall file a request
 60. Section 82 of the principal Act is amended—
 
 (a) by renumbering the existing provision as subsection (1);
+
+<!-- marginal: WJW21/1475 Teks BI.indd 31 -->
 
 <!-- marginal: 06/12/2021 8:46 PM -->
 
@@ -984,6 +1018,8 @@ an Examiner to re-examine the patent, the owner of a patent shall file a request
 
 (a) all matters relating to patent application and patent which are required to be published under this Act or any regulations made under this Act; and
 
+<!-- marginal: WJW21/1475 Teks BI.indd 33 -->
+
 <!-- marginal: 06/12/2021 8:46 PM -->
 
 <!-- page 34 -->
@@ -1045,6 +1081,8 @@ an Examiner to re-examine the patent, the owner of a patent shall file a request
 (b) by substituting for subsection (2) the following subsection:
 
 “(2) The procedures of appeal under subsection (1) shall be made in accordance with the rules of court in civil matters.”.
+
+<!-- marginal: WJW21/1475 Teks BI.indd 35 -->
 
 <!-- marginal: 06/12/2021 8:46 PM -->
 
@@ -1112,6 +1150,8 @@ In the absence of a cause of action against the Registrar, the Registrar shall n
 
 88e. The Minister may, by order published in the Gazette, amend the Schedule to this Act.”.
 
+<!-- marginal: WJW21/1475 Teks BI.indd 37 -->
+
 <!-- marginal: 06/12/2021 8:46 PM -->
 
 <!-- page 38 -->
@@ -1148,6 +1188,8 @@ In the absence of a cause of action against the Registrar, the Registrar shall n
 
 (ii) an Examiner’s first report made under subsection 30(1) or (2) of the principal Act is issued by the Registrar;
 
+<!-- marginal: WJW21/1475 Teks BI.indd 39 -->
+
 <!-- marginal: 06/12/2021 8:46 PM -->
 
 <!-- page 40 -->
@@ -1161,6 +1203,8 @@ In the absence of a cause of action against the Registrar, the Registrar shall n
 (h) subsection 34(3) of the principal Act as amended in section 26 of this Act shall, on the date of coming into operation of this Act, apply to an application for a patent or application for a certificate for a utility innovation filed under the principal Act before the date of coming into operation of this Act if the request for inspection under subsection 34(3) is made on or after the date of coming into operation of this Act;
 
 (i) new section 34a as introduced in section 27 of this Act shall, on the date of coming into operation of this Act, apply to an application for a patent or an application
+
+<!-- marginal: WJW21/1475 Teks BI.indd 40 -->
 
 <!-- marginal: 06/12/2021 8:46 PM -->
 
@@ -1177,6 +1221,8 @@ for certificate for a utility innovation filed under the principal Act before th
 (m) new subsection 79a(1a) as introduced in section 57 of this Act shall, on the date of coming into operation of this Act, apply to any request to amend a patent or certificate for a utility innovation filed before the date of coming into operation of this Act which is pending before the Registrar on the date of coming into operation of this Act;
 
 (n) new subsection 82(2) as introduced in section 60 of this Act shall, on the date of coming into operation of this Act, apply to any act or thing which is to be done under the principal Act and the prescribed period for such act or thing to be done has expired before the date of coming into operation of this Act;
+
+<!-- marginal: WJW21/1475 Teks BI.indd 41 -->
 
 <!-- marginal: 06/12/2021 8:46 PM -->
 
@@ -1228,6 +1274,8 @@ Paragraph 2(b) seeks to substitute for the words “prescribed time” wherever 
 
 10. Clause 9 seeks to amend section 21 of Act 291 to clarify that the Federal or State Governments have the right to patent their inventions under Act 291.
 
+<!-- marginal: WJW21/1475 Teks BI.indd 43 -->
+
 <!-- marginal: 06/12/2021 8:46 PM -->
 
 <!-- page 44 -->
@@ -1277,6 +1325,8 @@ Paragraph 17(e) seeks to amend subsection 29a(6) of Act 291 to provide that a pa
 23. Clause 22 seeks to introduce a new subsection (3) into section 33a of Act 291 to clarify that no person in the employment of the Corporation shall be required to attend court for the purpose of producing documents relating to a patent application or patent which may be obtained pursuant to the provisions of Act 291 or documents which are not to be made available to any third party in accordance with Act 291.
 
 24. Clause 23 seeks to amend section 33b of Act 291 to provide that an owner of a patent may make a request to the Registrar to amend the name or address of an inventor of the patent in addition to the existing provision which enables an owner of a patent to amend the name or address of himself.
+
+<!-- marginal: WJW21/1475 Teks BI.indd 45 -->
 
 <!-- marginal: 06/12/2021 8:46 PM -->
 
@@ -1332,6 +1382,8 @@ Paragraph 30(b) seeks to introduce a new subsection (5) into section 36 of Act 2
 
 43. Clause 51 seeks to introduce a new section 76a into Act 291 to provide for the compounding of offences.
 
+<!-- marginal: WJW21/1475 Teks BI.indd 47 -->
+
 <!-- marginal: 06/12/2021 8:46 PM -->
 
 <!-- page 48 -->
@@ -1383,6 +1435,8 @@ The new section 88a of Act 291 seeks to empower the court to award cost to any p
 The new section 88 b of Act 291 seeks to protect the Registrar, Deputy Registrars, Assistant Registrars, Examiners and any other officer of the Corporation against any action, suit, prosecution or other proceedings for acts ordered or done in good faith in carrying into effect of Act 291.
 
 The new section 88c of Act 291 seeks to provide that a copy of every application to the Court including an appeal relating to any patent application or patent shall be served on the Registrar by the parties to the application. Furthermore, the new section also requires a party in whose favour the order or judgement is made or given to serve the order or judgement on the Registrar.
+
+<!-- marginal: WJW21/1475 Teks BI.indd 49 -->
 
 <!-- marginal: 06/12/2021 8:46 PM -->
 

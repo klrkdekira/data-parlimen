@@ -96,28 +96,21 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/36/msa@/~cl_2",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas \"peratoran2\" takrif yang berikut: \"pertukaran data elektronik\" ertinya pemindahan, dari komputer ke komputer, transaksi perdagangan dan pentadbiran dengan menggunakan standard perutusan yang dipersetujui untuk menstrukturkan data yang berhubungan dengan transaksi;'. Pindaan"
+        "@value": "dengan memasukkan selepas \"peratoran2\" takrif yang berikut: \"pertukaran data elektronik\" ertinya pemindahan, dari komputer ke komputer, transaksi perdagangan dan pentadbiran dengan menggunakan standard perutusan yang dipersetujui untuk menstrukturkan data yang berhubungan dengan transaksi;'."
       }
     },
     {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/36/msa@/~cl_3",
       "@type": "akn:clause",
       "eli:number": "3",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/36/msa@/~cl_3__para_g",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/36/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 43 Akta ibu adalah dipinda dalam perenggan"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Seksyen 43 Akta ibu adalah dipinda dalam perenggan seksyen 43."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/36/msa@/~cl_3__para_g",
-      "@type": "akn:paragraph",
-      "eli:number": "g",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/36/msa@/~cl_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan menggantikan ungkapan \"(3)\" dengan ungkapan \"(2)\". Pindaan"
+        "@value": "(g) dengan menggantikan ungkapan \"(3)\" dengan ungkapan \"(2)\"."
       }
     },
     {
@@ -125,9 +118,13 @@
       "@type": "akn:clause",
       "eli:number": "4",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/36/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 64 Akta ibu adalah dipinda dengan"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Seksyen 64 Akta ibu adalah dipinda dengan seksyen 64. jnenggantikan perkataan \"berkelayakan\" dengan perkataan \"awam\"."
+        "@value": "jnenggantikan perkataan \"berkelayakan\" dengan perkataan \"awam\"."
       }
     },
     {

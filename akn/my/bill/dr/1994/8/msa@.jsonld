@@ -1,0 +1,681 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-8-1994",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Pengangkutan Jalan (Pindaan) 1994"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pengangkutan Jalan (Pindaan) 1994."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas Bahagian II Bahagian yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Pengangkutan Jalan 1987, yang disebut \"Akta ibu\" dalam Akta ini, adalah dipinda dalam seksyen 3A—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (3)(c) dengan perenggan yang berikut: \"(c) sebutan mengenai \"Wilayah Persekutuan Kuala Lumpur\" ialah sebutan mengenai Bandaraya itu.\"; dan RANG UNDANG-UNDANG"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: \" (4) Bagi maksud-maksud seksyen ini— \"Datuk Bandar sesuatu Majlis Bandaraya\" termasuklah Datuk Bandar sesuatu Bandaraya dan \"Datuk Bandar\" hendaklah ditafsirkan dengan sewajarnya; \"Majlis Bandaraya\" termasuklah Majlis sesuatu Bandaraya dan Bandaraya.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 16 Akta ibu adalah dipinda dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: \"(2) Tiap-tiap pemohon bagi lesen kenderaan motor hendaklah memberi apa-apa butir dan mengemukakan apa-apa keterangan yang ditetapkan dan khususnya bahawa sama ada— (a) semasa tempoh keesahan lesen yang dipohon itu akan ada berkuatkuasa apa-apa polisi insurans atau apa-apa jaminan, yang berhubungan dengan kenderaan motor yang baginya lesen itu dikehendaki, yang mematuhi kehendak-kehendak Bahagian IV; atau (b) kenderaan motor itu adalah suatu kenderaan yang, oleh sebab subseksyen (5) seksyen 90, seksyen 90 tidak terpakai baginya.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 17 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_4__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_4__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_4__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_4__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c) memasukkan selepas koma bertitik perkataan \"dan\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_4__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (d) menggantikan perkataan \"; dan\" dengan noktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_4__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (e); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (1A),"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 20(2) Akta ibu adalah dipinda dalam teks bahasa kebangsaan sahaja dengan menggantikan perkataan \"tiruan berwarna\" dengan perkataan \"tiruan serupa\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_6__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 59 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_6__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_6__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_6__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"menjalankan\" perkataan menyebabkan dijalankan\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_6__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"memuaskan hatinya sendiri bahawa peruntukan-peruntukan\" dengan per- kataan \"memastikan bahawa kehendak- kehendak\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2) dengan memasukkan selepas perkataan \"kecacatan di dalamnya,\" perkataan \"yang adalah kecacatan-kecacatan yang ditetapkan oleh kaedah-kaedah sebagai kecacatan-kecacatan serius,\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5) dengan memasukkan selepas perkataan \"digunakan\" perkataan \"dan bagi maksud ini dia boleh menghendaki supaya suatu pemeriksaan dijalankan\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (7) dengan menggantikan perkataan \"boleh memisahkan menanggalkan\" dengan perkataan \"boleh menyebabkan dipisahkan dan ditanggalkan\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 60 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula peruntukan yang sedia ada sebagai subseksyen (1) dan menggantikan perkataan \"bagi maksud memuaskan hatinya\" dalam seksyen itu dengan perkataan \"atau seseorang yang dilesenkan untuk menjalankan pemeriksaan di bawah Akta ini bagi maksud memastikan\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) yang dinomborkan semula subseksyen yang berikut: \"(2) Jika, atas pemeriksaan itu, seseorang pegawai pengangkutan jalan berpendapat bahawa, oleh sebab apa-apa kecacatan di dalamnya, yang adalah kecacatan-kecacatan yang ditetapkan oleh kaedah-kaedah sebagai kecacatan-kecacatan serius, kenderaan motor itu tidak layak atau mungkin menjadi tidak layak untuk digunakan, atau penggunaannya itu adalah merbahaya atau mungkin mendatangkan bahaya melainkan jika kecacatan-kecacatan itu dibaiki, dia boleh melarang penggunaan kenderaan motor itu: Dengan syarat bahawa jika pada pendapat pegawai pengangkutan jalan itu, kecacatan- kecacatan itu adalah yang boleh dibaiki dalam apa-apa tempoh yang tidak melebihi sepuluh hari dan bukannya kecacatan-kecacatan yang melibatkan risiko serta-merta kepada orang- orang yang menggunakan kenderaan motor itu atau kepada orang-orang yang menggunakan jalan, maka larangan itu tidak boleh berkuatkuasa sebelum tamat tempoh itu. (3) Subseksyen 59(3) hingga (9) adalah terpakai bagi seksyen ini dalam hal jika suatu perintah larangan telah dikeluarkan di bawah subseksyen (2).\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 61(1) Akta ibu adalah dipinda dengan menggantikan perkataan \"pemeriksaannya,\" dengan perkataan \"pemeriksaan, atas perbelanjaan pemunya berdaftar,\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 63 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1) dengan memasukkan selepas perkataan \"pegawai itu\" perkataan \"atau mana-mana orang lain yang diberikuasa untuk menjalankan penimbangan\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2) dengan memasukkan selepas perkataan \"pegawai\" di mana-mana jua terdapat perkataan \"atau orang\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A",
+      "@type": "akn:part",
+      "eli:number": "11A",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_14"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PEMERIKSAAN BERKALA KENDERAAN MOTOR 66A. (1) Tiada seorang pun boleh menggunakan atau menyebabkan atau membenarkan digunakan sesuatu kenderaan motor yang tergolong dalam kelas atau kategori kenderaan motor yang dikehendaki menjalani pemeriksaan berkala di bawah Bahagian ini melainkan jika ada berkuat- kuasa suatu perakuan pemeriksaan yang dikeluarkan di bawah Bahagian ini berkenaan dengan kenderaan motor itu. (2) Mana-mana orang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan bagi tempoh tidak melebihi lima tahun atau kedua-duanya. RANG UNDANG-UNDANG 66B. (1) Menteri boleh melalui kaedah- kaedah menentukan kelas atau kategori kenderaan yang dikehendaki menjalani pemeriksaan berkala di bawah Bahagian ini bagi maksud menentukan bahawa kenderaan itu mematuhi kehendak-kehendak mengenai pembinaan, kelengkapan dan penggunaan dan frekuensi pemeriksaan itu berkenaan dengan kelas atau kategori tertentu kenderaan. (2) Seksyen ini tidaklah terpakai bagi sesuatu kenderaan motor yang telah tidak digunakan di bawah seksyen 15. 66c. (1) Jika, atas pemeriksaan, sesuatu kenderaan motor adalah didapati mematuhi kehendak-kehendak mengenai pembinaan, kelengkapan dan penggunaan sesuatu kenderaan motor, orang yang dilesenkan untuk menjalankan pemeriksaan di bawah Akta ini hendaklah mengeluarkan suatu perakuan pemeriksaan berkenaan dengan kenderaan motor itu menyatakan bahawa kenderaan motor itu telah lulus pemeriksaan pada tarikh pemeriksaan. (2) Jika suatu perakuan pemeriksaan ditolak, orang yang dilesenkan untuk menjalankan pemeriksaan di bawah Akta ini hendaklah menyatakan alasan-alasan bagi penolakan itu. (3) Seseorang yang terkilan dengan penolakan itu boleh merayu kepada Ketua Pengarah, dan atas rayuan itu, Ketua Pengarah hendaklah menyebabkan suatu pemeriksaan semula dijalankan atas perbelanjaan orang yang terkilan itu dan selepas pemeriksaan semula itu boleh menyebabkan dikeluarkan atau menolak untuk mengeluarkan suatu perakuan pemeriksaan. PENGANGKUTAN JALAN (PINDAAN) 7 (4) Keputusan Ketua Pengarah di bawah subseksyen (3) adalah muktamad. 66D. (1) Tiap-tiap perakuan pemeriksaan yang dikeluarkan di bawah seksyen 66c hendaklah dilekatkan dan dipamerkan pada kenderaan motor yang berkenaan dengannya ia dikeluarkan mengikut apa-apa cara dan tertakluk kepada apa-apa syarat yang ditetapkan. (2) Tiada seorang pun boleh (sama ada secara bertulis, melukis atau dengan apa-apa cara lain) mengubah, mencacatkan, merosakkan, atau menambah apa-apa kepada mana-mana perakuan pemeriksaan, atau tiada mana-mana orang pun boleh mempamerkan pada mana-mana kenderaan motor apa-apa perakuan pemeriksaan yang telah diubah, dicacatkan, dirosakkan atau ditambah seperti yang tersebut dahulu, atau yang padanya angka-angka atau butir-butir telah tidak boleh dibaca atau yang warnanya telah berubah, kerana pudar atau selainnya, atau tiada mana- mana orang pun boleh mempamerkan apa-apa tiruan serupa mana-mana perakuan itu. (3) Mana-mana orang yang melanggar seksyen ini adalah melakukan suatu kesalahan. 66E. (1) Tiada seorang pun selain daripada orang yang dilesenkan untuk menjalankan pemeriksaan di bawah Akta ini boleh memeriksa sesuatu kenderaan motor. (2) Mana-mana orang yang melanggar seksyen ini adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi sepuluh ribu ringgit atau dipenjarakan bagi tempoh tidak melebihi dua tahun atau kedua-duanya. RANG UNDANG-UNDANG 66F. (1) Seseorang yang dilesenkan untuk menjalankan pemeriksaan di bawah Akta ini hendaklah mengambil kerja orang-orang yang mempunyai kelayakan dan kekompetenan yang perlu sebagaimana ditetapkan dalam kaedah- kaedah sebagai pemeriksa-pemeriksa untuk menjalankan pemeriksaan dan untuk mengeluarkan perakuan-perakuan pemerik- saan. (2) Mana-mana orang yang melanggar seksyen ini adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan bagi tempoh tidak melebihi satu tahun atau kedua-duanya. 66G. Menteri boleh membuat kaedah-kaedah bagi apa-apa maksud yang baginya kaedah- kaedah boleh dibuat di bawah Bahagian ini dan bagi menetapkan apa-apa yang boleh ditetapkan di bawah Bahagian ini, dan pada amnya bagi maksud menguatkuasakan Bahagian ini, dan khususnya, tetapi tanpa menjejaskan keluasan peruntukan-peruntukan yang terdahulu, boleh membuat kaedah-kaedah berkenaan dengan mana-mana perkara yang berikut: (a) untuk menetapkan jenis dan prosedur bagi pemeriksaan kenderaan motor; (b) untuk menetapkan jenis kelengkapan dan sistem yang akan digunakan bagi pemeriksaan, dan pembaikan, penyeng- garaan, penentukuran dan pengujian aparatus atau kelengkapan bagi pemeriksaan; (c) untuk menetapkan bentuk perakuan pemeriksaan dan untuk mengawalselia cara ia dikeluarkan; (d) untuk menetapkan cara yang mengikut- nya kenderaan motor hendaklah dikemukakan bagi pemeriksaan; (e) untuk mengawalselia penggunaan pusat pemeriksaan kenderaan dan aparatus dan kelengkapan di dalamnya oleh seseorang pegawai pengangkutan jalan yang diberikuasa oleh Ketua Pengarah untuk menjalankan pemeriksaan rambang ke atas pemeriksaan yang dijalankan di pusat itu; (f) untuk menetapkan jenis papan tanda di pusat-pusat pemeriksaan kenderaan; dan (g) untuk menetapkan cara yang mengikutnya rayuan boleh dibuat oleh mana-mana orang dan prosedur baginya.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_11__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_11__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 117 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_11__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_11__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_11__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_11__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"pegawai pengangkutan jalan\" perkataan \"atau mana-mana orang yang dilesenkan di bawah Akta ini\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_11__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_11__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"pegawai itu\" perkataan \"atau orang yang dilesenkan di bawah Akta ini\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_11__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_11__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (6)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_11__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_11__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan koma di akhir perenggan (e) dengan koma bertitik; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_11__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_11__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (e) perenggan yang berikut: \"(f) mana-mana orang yang dilesenkan di bawah Akta ini,\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_11__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (7) dengan memasukkan selepas perkataan \"pengkhidmat awam\" di mana-mana jua terdapat perkataan \", mana-mana orang yang dilesenkan di bawah Akta ini\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas seksyen 119 seksyen yang berikut: 119A. Jika sesuatu kesalahan di bawah Akta ini dilakukan oleh pertubuhan perbadanan (sama ada atau tidak pertubuhan perbadanan itu telah didakwa), tiap-tiap pengarah, setiausaha atau pengurus pertubuhan perbadanan itu hendaklah disifatkan bersalah atas kesalahan itu melainkan jika dia membuktikan bahawa kesalahan itu telah dilakukan tanpa persetujuan atau pembiarannya dan bahawa dia telah menjalankan segala usaha untuk menghalang pelakuan kesalahan itu sebagaimana yang patut dijalankannya memandangkan jenis fungsi-fungsinya atas sifat itu dan kepada segala hal keadaan kes itu.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan menggantikan seksyen 126 dengan seksyen yang berikut: 126. (1) Walau apa pun apa-apa jua dalam Akta ini, Menteri hendaklah mempunyai kuasa untuk memberikuasa atau memberi lesen atas apa-apa syarat yang difikirkannya patut kepada mana-mana orang untuk menjalankan mana- mana fungsi seseorang pegawai pengangkutan jalan di bawah Akta ini yang didapatinya perlu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh membuat kaedah-kaedah bagi maksud subseksyen (1), dan khususnya, tetapi tanpa menjejaskan keluasan peruntukan yang terdahulu, boleh membuat kaedah-kaedah berkenaan dengan mana-mana perkara yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menetapkan (a), fee atau levi yang hendaklah dibayar kepada mana-mana orang yang diberikuasa atau dilesenkan di bawah subseksyen (1) berkenaan dengan perkhidmatan yang diadakan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "uhtuk menetapkan kelayakan orang- orang yang akan diambil kerja oleh orang yang diberikuasa atau dilesenkan di bawah,.subseksyen (1) dan untuk mengawalselia kekompetenan mereka;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menetapkan jenis rekod yang hendaklah disimpan oleh orang yang diberikuasa atau dilesenkan di bawah subseksyeh (l);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk men tapkan jenis penyata yang hendaklah dikemukakan oleh orang yang diberikuasa atau dilesenkan di bawah subseksyen (1) kepada Ketua Pengarah pada lat-lat tempoh tertentu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengawalselia pemeriksaan oleh Ketua Pengarah akan premis orang yang diberikuasa 'atau dilesehkan di bawah subseksyen (1)'dan rekod yang disimpan di situ."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, melalui perintah yang disiarkan dalam Warta memberikuasa orang yang diberikuasa atau dilesenkan di bawah subseksyen (l)\"untuk methinta, memungut dan menyimpan caj, fee atau levi yang ditetapkan di bawah subseksyen (2) berkenaan dengan perkhidmatan-perkhidmatan yang diadakan olehnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sesuatu perintah di bawah, subseksyen ,(3) hendaklah menyatakan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": ".,jenis-jenis perkhidmatan yang ber- kenaan dengannya caj, fee atau levi boleh diminta,,dipungut dan disimpan; RANG UNDANG-UNDANG"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "orang yang diberikuasa untuk meminta, memungut dan menyimpan caj, fee atau levi itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tempoh pemberikuasaan untuk meminta, memungut dan menyimpan caj, fee atau levi itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang diberikuasa di bawah subseksyen (3) hendaklah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyimpan apa-apa akaun, buku dan rekod berkenaan dengan pembayaran dan pemungutan caj, fee atau levi yang dikehendaki oleh Ketua Pengarah;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengemukakan kepada Ketua Pengarah apa-apa maklumat, penyata dan akaun berkenaan dengan pembayaran dan pemungutan caj, fee atau levi yang dikehendaki oleh Ketua Pengarah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membenarkan Ketua Pengarah atau mana-mana pegawai yang diberi- kuasa secara bertulis olehnya untuk mendapatkan akses kepada atau memeriksa atau meneliti mana-mana dokumen, jentera atau kelengkapan yang disenggarakan atau digunakan bagi pembayaran atau pemungutan caj, fee atau levi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pemberikuasaan mana-mana orang di bawah subseksyen (3) tidaklah menjadikan Kerajaan Persekutuan bertanggungan kepada mana-mana orang berkenaan dengan apa-apa kecederaan, kerosakan atau kerugian yang disebabkan oleh kegagalan orang yang diberikuasa atau dilesenkan untuk menjalankan obligasinya di bawah Akta yang berkenaan dengannya caj, fee atau levi diminta, dipungut dan disimpan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika seseorang yang diberikuasa atau dilesenkan di bawah subseksyen (1) melanggar atau tidak mematuhi mana-mana syarat pemberikuasaan atau lesen atau mana-mana peruntukan seksyen ini atau kaedah-kaedah yang dibuat di bawahnya yang baginya tiada penalti diperuntukkan secara khusus orang itu adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi sepuluh ribu ringgit atau dipenjarakan bagi tempoh tidak melebihi dua tahun atau kedua-duanya.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/msa@/~part_11A",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas seksyen 126 seksyen yang berikut: \"Pembatalan. 126A. (1) Pemberikuasaan atau lesen yang dikeluarkan di bawah seksyen 126 hendaklah, melainkan jika terlebih dahulu dibatalkan, terus berkuatkuasa bagi apa-apa tempoh yang ditentukan oleh Menteri. (2) Menteri boleh membatalkan mana-mana pemberikuasaan atau lesen yang dikeluarkan di bawah seksyen 126.\"."
+      }
+    }
+  ]
+}

@@ -716,9 +716,7 @@ the licensee of the licensed warehouse, or warehouse or other place approved by 
 
 <!-- page 30 -->
 
-(5) Any person who contravenes subsection (1), (2), (3) or
-
-(4) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.”.
+(5) Any person who contravenes subsection (1), (2), (3) or (4) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.”.
 
 ### Amendment of section 36
 
@@ -2038,9 +2036,7 @@ General or any officer of customs authorized by the Director General which forms
 
 (3) No statement made or document produced by or on behalf of any person shall be inadmissible in evidence against that person in any proceedings against him to which this section applies by reason only that he was or may have been induced to make such statement or produce such document by any inducement or promise lawfully given or made by any person having any official duty under, or being employed in the administration of this Act.
 
-(4) Nothing in this Act shall affect the operation of
-
-## Chapter IX of Part III of the Evidence Act 1950.
+(4) Nothing in this Act shall affect the operation of Chapter IX of Part III of the Evidence Act 1950.
 
 (5) For the purposes of paragraph 135(1)(g) or section 135b or 135c, where in any proceedings it is proved that any false statement or entry has been made in any declaration rendered under this Act by or on behalf of any person, or in any books of account or records of any person—
 

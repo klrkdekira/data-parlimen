@@ -1,0 +1,306 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-20-1999",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_8"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Sale of Drugs (Amendment) Bill 1999"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Sale of Drugs (Amendment) Act 1999."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall come into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Sale of Drugs Act 1952 [Act 368], which in this Act is referred to as the \"principal Act\", is amended in section 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"(1)\" appearing before the words \"In this Act\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of \"drug\" the following definition: 9' \"drug\" includes any substance, product or article intended to be used or capable, or purported or claimed to be capable, of being used on humans or any animal, whether internally or externally, for a medicinal purpose;'; Bill"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"inspector\" the following definition: ' \"medicinal purpose\" means any of the following purposes:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_2__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "alleviating, treating, curing or preventing a disease or a pathological condition or symptoms of a disease;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "diagnosing a disease or ascertaining the existence, degree or extent of a physiological or pathological condition;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "contraception;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "inducing anaesthesia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "maintaining, modifying, preventing, restoring, or interfering with, the normal operation of a physiological function;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "controlling body weight;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "general maintenance or promotion of health or well-being;'; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_3",
+      "@type": "akn:list",
+      "eli:number": "3",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_3__para_d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_2__list_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of ' \"sale\" or \"sell\" ', by deleting the words \" , and refers only to sale for human consumption or use\". Amendment of section 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": ", Subsection 9(4) of the principal Act is amended by substituting for the words \"effect of this Act shall be liable\" the words \"effect the provisions of this Act commits an offence and shall be liable on conviction\". Amendment of section 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 10 of the principal Act is amended by deleting subsection"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "(4). Sale of Drugs (Amendment) Substitution of section 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_5__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 12 the following section: 'General 12. (1) Subject to subsection (2), any person who penalty, commits an offence against this Act or any regulation made under this Act for which no penalty is expressly provided shall be liable on conviction to a fine not exceeding twenty-five thousand ringgit or to imprisonment for a term not exceeding three years or to both, and for a second or subsequent offence he shall be liable on conviction to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding five years or to both."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any body corporate who commits an offence against this Act or any regulation made under this Act for which no penalty is expressly provided shall be liable on conviction to a fine not exceeding fifty thousand ringgit, and for a second or subsequent offence it shall be liable on conviction to a fine not exceeding one hundred thousand ringgit.\". Amendment of section 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 17 of the principal Act is amended by inserting after the word \"human\" wherever it appears the words \"or animal\". Amendment of section 23"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 23(1) of the principal Act is amended by inserting after the words \"the fact\" the word \"that\". Amendment of section 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/20/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 26(1)(k) of the principal Act is amended by substituting for the words \"the fine, not exceeding one thousand ringgit,\" the words \"a fine not exceeding fifty thousand ringgit or imprisonment for a term not exceeding five years or both\". Bill"
+      }
+    }
+  ]
+}

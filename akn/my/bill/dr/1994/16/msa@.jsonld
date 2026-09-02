@@ -80,7 +80,7 @@
       },
       "schema:text": {
         "@language": "ms",
-        "@value": "subseksyen (1) dengan menggantikan proviso kepadanya dengan proviso yang berikut: 'Provided that for the purpose of proceedings in Magistrates' Courts, section 13(b) shall be read as if t he words \"twenty-five substituted for the words \"two hundred and fifty thousand\".'."
+        "@value": "subseksyen (1) dengan menggantikan proviso kepadanya dengan proviso yang berikut: 'Provided that for the purpose of proceedings in Magistrates' Courts, section 13(b) shall be read as if t he words \"twenty-five thousand\" were substituted for the words \"two hundred and fifty thousand\".'."
       }
     },
     {
@@ -129,7 +129,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/msa@/~cl_2",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perenggan (b) dalam takrif \"local jurisdiction of the High Court\" dengan perenggan yang berikut: \"(b) in the case of the High Court in Sabah and Sarawak, the territory comprised in the States of Sabah and Sarawak;\". Pindaan"
+        "@value": "dengan menggantikan perenggan (b) dalam takrif \"local jurisdiction of the High Court\" dengan perenggan yang berikut: \"(b) in the case of the High Court in Sabah and Sarawak, the territory comprised in the States of Sabah and Sarawak;\"."
       }
     },
     {
@@ -137,9 +137,13 @@
       "@type": "akn:clause",
       "eli:number": "3",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 4 Akta ibu adalah dipinda dengan"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Seksyen 4 Akta ibu adalah dipinda dengan seksyen 4. menggantikan perkataan \"Justice\" dengan perkataan \"Judge\". Pindaan"
+        "@value": "menggantikan perkataan \"Justice\" dengan perkataan \"Judge\"."
       }
     },
     {
@@ -147,9 +151,13 @@
       "@type": "akn:clause",
       "eli:number": "4",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 59 A k ta ibu adalah dipinda dengan"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Seksyen 59 A k ta ibu adalah dipinda dengan seksyen 59. menggantikan perkataan \"Justice\" dalam subseksyen (3) dan (4) dengan perkataan \"Judge\". Pindaan"
+        "@value": "menggantikan perkataan \"Justice\" dalam subseksyen (3) dan (4) dengan perkataan \"Judge\"."
       }
     },
     {
@@ -157,9 +165,13 @@
       "@type": "akn:clause",
       "eli:number": "5",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 65 A k ta ibu adalah dipinda dengan"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Seksyen 65 A k ta ibu adalah dipinda dengan seksyen 65. menggantikan subseksyen (1) dengan subseksyen yang berikut: \"(1) Subject to the limitations contained in this Act, a Sessions Court shall have— (a) unlimited jurisdiction to try all actions and suits of a civil nature in respect of motor vehicle accidents, landlord and tenant and distress; and (b) jurisdiction to try all other actions and suits of a civil nature where the amount in dispute or the value of the subject-matter does not exceed two hundred and fifty ringgit.\". Pmdaan"
+        "@value": "menggantikan subseksyen (1) dengan subseksyen yang berikut: \"(1) Subject to the limitations contained in this Act, a Sessions Court shall have— (a) unlimited jurisdiction to try all actions and suits of a civil nature in respect of motor vehicle accidents, landlord and tenant and distress; and (b) jurisdiction to try all other actions and suits of a civil nature where the amount in dispute or the value of the subject-matter does not exceed two hundred and fifty ringgit.\"."
       }
     },
     {
@@ -171,9 +183,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/msa@/~cl_6__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/msa@",
-      "schema:text": {
+      "schema:name": {
         "@language": "ms",
-        "@value": "Seksyen 70 Akta ibu adalah dipinda— seksyen 70."
+        "@value": "Seksyen 70 Akta ibu adalah dipinda—"
       }
     },
     {
@@ -193,7 +205,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/msa@/~cl_6",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memotong subseksyen (3). Pindaan"
+        "@value": "dengan memotong subseksyen (3)."
       }
     },
     {
@@ -201,16 +213,19 @@
       "@type": "akn:clause",
       "eli:number": "7",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 72 A k ta ibu adalah dipinda dengan"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Seksyen 72 A k ta ibu adalah dipinda dengan seksyen 72. memotong perkataan \"where the amount of rent to be distrained does not exceed ninety-six thousand ringgit\"."
+        "@value": "memotong perkataan \"where the amount of rent to be distrained does not exceed ninety-six thousand ringgit\"."
       }
     },
     {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/msa@/~cl_8",
       "@type": "akn:clause",
       "eli:number": "8",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/msa@/~cl_8__para_b",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/msa@",
       "schema:name": {
         "@language": "ms",
@@ -218,17 +233,7 @@
       },
       "schema:text": {
         "@language": "ms",
-        "@value": "menggantikan perkataan \"one hundred\" dalam perenggan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/msa@/~cl_8__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/msa@/~cl_8",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan perkataan \"two hundred and fifty\"."
+        "@value": "menggantikan perkataan \"one hundred\" dalam perenggan (b) dengan perkataan \"two hundred and fifty\"."
       }
     },
     {

@@ -1649,7 +1649,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_26",
       "schema:text": {
         "@language": "ms",
-        "@value": "jika badan berkanun itu didapati bersalah atas kesalahan itu, hendaklah disifatkan bersalah atas kesalahan itu dan boleh dikenakan hukuman atau penalti yang sama sebagaimana seorang individu melainkan jika, dengan mengambil kira jenis fungsinya atas sifat itu dan segala hal keadaan, dia membuktikan— Kuasa untuk mengecualikan"
+        "@value": "jika badan berkanun itu didapati bersalah atas kesalahan itu, hendaklah disifatkan bersalah atas kesalahan itu dan boleh dikenakan hukuman atau penalti yang sama sebagaimana seorang individu melainkan jika, dengan mengambil kira jenis fungsinya atas sifat itu dan segala hal keadaan, dia membuktikan—"
       }
     },
     {
@@ -1669,7 +1669,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_26__para_b",
       "schema:text": {
         "@language": "ms",
-        "@value": "bahawa kesalahan itu telah dilakukan tanpa persetujuan atau pembiarannya dan bahawa dia telah mengambil segala langkah yang munasabah dan menjalankan usaha yang wajar untuk menghalang pelakuan kesalahan itu."
+        "@value": "bahawa kesalahan itu telah dilakukan tanpa persetujuan atau pembiarannya dan bahawa dia telah mengambil segala langkah yang munasabah dan menjalankan usaha yang wajar untuk menghalang pelakuan kesalahan itu. Kuasa untuk mengecualikan"
       }
     },
     {
@@ -1839,11 +1839,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
       "schema:name": {
         "@language": "ms",
-        "@value": "Akta Lembaga Kemajuan Wilayah Pulau Pinang"
-      },
-      "schema:text": {
-        "@language": "ms",
-        "@value": "1983 [Akta 282]"
+        "@value": "Akta Lembaga Kemajuan Wilayah Pulau Pinang Subseksyen 32(1) 1983 [Akta 282]"
       }
     },
     {
@@ -1853,7 +1849,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
       "schema:name": {
         "@language": "ms",
-        "@value": "Akta Pelesenan Tenaga Atom 1984 [Akta 304]"
+        "@value": "Akta Pelesenan Tenaga Atom 1984 [Akta 304] Seksyen 41"
       }
     },
     {
@@ -1863,7 +1859,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
       "schema:name": {
         "@language": "ms",
-        "@value": "Akta Hakcipta 1987 [Akta 332]"
+        "@value": "Akta Hakcipta 1987 [Akta 332] Seksyen 52"
       }
     },
     {
@@ -1871,13 +1867,9 @@
       "@type": "akn:paragraph",
       "eli:number": "17",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
-      "schema:name": {
-        "@language": "ms",
-        "@value": "Akta Lembaga Kemajuan Industri Malaysia"
-      },
       "schema:text": {
         "@language": "ms",
-        "@value": "(Pemerbadanan) 1965 [Akta 397]"
+        "@value": "Akta Lembaga Kemajuan Industri Malaysia Subseksyen 13(2) (Pemerbadanan) 1965 [Akta 397]"
       }
     },
     {
@@ -1887,11 +1879,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
       "schema:name": {
         "@language": "ms",
-        "@value": "Akta Majlis Produktiviti Negara (Pemerbadanan)"
-      },
-      "schema:text": {
-        "@language": "ms",
-        "@value": "1966 [Akta 408]"
+        "@value": "Akta Majlis Produktiviti Negara (Pemerbadanan) Subseksyen 17(2) 1966 [Akta 408]"
       }
     },
     {
@@ -1901,11 +1889,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
       "schema:name": {
         "@language": "ms",
-        "@value": "Akta Lembaga Pembangunan Langkawi 1990"
-      },
-      "schema:text": {
-        "@language": "ms",
-        "@value": "[Akta 423]"
+        "@value": "Akta Lembaga Pembangunan Langkawi 1990 Subseksyen 30(1) [Akta 423]"
       }
     },
     {
@@ -1925,11 +1909,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
       "schema:name": {
         "@language": "ms",
-        "@value": "Akta Maktab Kerjasama (Pemerbadanan)"
-      },
-      "schema:text": {
-        "@language": "ms",
-        "@value": "1968 [Akta 437]"
+        "@value": "Akta Maktab Kerjasama (Pemerbadanan) Subseksyen 12c(1) 1968 [Akta 437]"
       }
     },
     {
@@ -1939,11 +1919,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
       "schema:name": {
         "@language": "ms",
-        "@value": "Akta Lembaga Penggalakan Pelancongan Malaysia"
-      },
-      "schema:text": {
-        "@language": "ms",
-        "@value": "1992 [Akta 481]"
+        "@value": "Akta Lembaga Penggalakan Pelancongan Malaysia Subseksyen 23(1) 1992 [Akta 481]"
       }
     },
     {
@@ -1953,7 +1929,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
       "schema:name": {
         "@language": "ms",
-        "@value": "Akta Industri Pelancongan 1992 [Akta 482]"
+        "@value": "Akta Industri Pelancongan 1992 [Akta 482] Subseksyen 35(1)"
       }
     },
     {
@@ -1963,7 +1939,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
       "schema:name": {
         "@language": "ms",
-        "@value": "Akta Majlis Amanah Rakyat 1966 [Akta 489]"
+        "@value": "Akta Majlis Amanah Rakyat 1966 [Akta 489] Seksyen 32"
       }
     },
     {
@@ -1971,13 +1947,9 @@
       "@type": "akn:paragraph",
       "eli:number": "24",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
-      "schema:name": {
-        "@language": "ms",
-        "@value": "Akta Lembaga Pembangunan Industri Pembinaan"
-      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Malaysia 1994 [Akta 520]"
+        "@value": "Akta Lembaga Pembangunan Industri Pembinaan Subseksyen 36(1) Malaysia 1994 [Akta 520]"
       }
     },
     {
@@ -1987,7 +1959,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
       "schema:name": {
         "@language": "ms",
-        "@value": "Akta Kawalan Padi dan Beras 1994 [Akta 522]"
+        "@value": "Akta Kawalan Padi dan Beras 1994 [Akta 522] Subseksyen 30(1)"
       }
     },
     {
@@ -1997,11 +1969,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
       "schema:name": {
         "@language": "ms",
-        "@value": "Akta Lembaga Hasil Dalam Negeri Malaysia"
-      },
-      "schema:text": {
-        "@language": "ms",
-        "@value": "1995 [Akta 533]"
+        "@value": "Akta Lembaga Hasil Dalam Negeri Malaysia Subseksyen 31(1) 1995 [Akta 533]"
       }
     },
     {
@@ -2011,7 +1979,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
       "schema:name": {
         "@language": "ms",
-        "@value": "Akta Perbadanan Putrajaya 1995 [Akta 536]"
+        "@value": "Akta Perbadanan Putrajaya 1995 [Akta 536] Subseksyen 32(1)"
       }
     },
     {
@@ -2019,13 +1987,9 @@
       "@type": "akn:paragraph",
       "eli:number": "28",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
-      "schema:name": {
-        "@language": "ms",
-        "@value": "Akta Perbadanan Tabung Pendidikan Tinggi"
-      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Nasional 1997 [Akta 566]"
+        "@value": "Akta Perbadanan Tabung Pendidikan Tinggi Subseksyen 54(1) Nasional 1997 [Akta 566]"
       }
     },
     {
@@ -2035,11 +1999,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
       "schema:name": {
         "@language": "ms",
-        "@value": "Akta Lembaga Minyak Sawit Malaysia 1998"
-      },
-      "schema:text": {
-        "@language": "ms",
-        "@value": "[Akta 582]"
+        "@value": "Akta Lembaga Minyak Sawit Malaysia 1998 Subseksyen 66(1) [Akta 582]"
       }
     },
     {
@@ -2063,7 +2023,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
       "schema:name": {
         "@language": "ms",
-        "@value": "Akta Perbadanan Labuan 2001 [Akta 609]"
+        "@value": "Akta Perbadanan Labuan 2001 [Akta 609] Subseksyen 26(1)"
       }
     },
     {
@@ -2073,11 +2033,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
       "schema:name": {
         "@language": "ms",
-        "@value": "Akta Pembangunan Sumber Manusia Berhad"
-      },
-      "schema:text": {
-        "@language": "ms",
-        "@value": "2001 [Akta 612]"
+        "@value": "Akta Pembangunan Sumber Manusia Berhad Subseksyen 51(1) 2001 [Akta 612]"
       }
     },
     {
@@ -2087,11 +2043,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
       "schema:name": {
         "@language": "ms",
-        "@value": "Akta Suruhanjaya Syarikat Malaysia 2001"
-      },
-      "schema:text": {
-        "@language": "ms",
-        "@value": "[Akta 614]"
+        "@value": "Akta Suruhanjaya Syarikat Malaysia 2001 Subseksyen 38(1) [Akta 614]"
       }
     },
     {
@@ -2102,11 +2054,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
       "schema:name": {
         "@language": "ms",
-        "@value": "Akta Perbadanan Harta Intelek Malaysia 2002"
-      },
-      "schema:text": {
-        "@language": "ms",
-        "@value": "[Akta 617]"
+        "@value": "Akta Perbadanan Harta Intelek Malaysia 2002 Subseksyen 39(1) [Akta 617]"
       }
     },
     {

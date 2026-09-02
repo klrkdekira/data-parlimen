@@ -1,0 +1,1219 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-30-2023",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_36"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Trade Unions (Amendment) Bill 2023"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_10__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 25a of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_10__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_10__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_10__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_10__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (a) the following paragraph: “(a) in the case of a trade union of workmen, without first obtaining at least more than one-half of the votes by secret ballot in favour of the proposed strike of at least sixty per centum of its total number of members who are entitled to vote and in respect of whom the strike is to be called; and in the case of a trade union of employers, without first obtaining at least more than one-half of the votes by secret ballot in favour of the proposed lock-out of at least sixty per centum of its total number of members who are entitled to vote;”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_10__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_10__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the words “seven days” the words “seven working days”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “two thousand ringgit, or to imprisonment for a term not exceeding one year, or to both, and a further fine of one hundred ringgit” the words “five thousand ringgit and a further fine of two hundred ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (7) the following subsection: “(8) For the purposes of this section, “working day” means a calendar day but excludes weekends and public holidays applicable at the Federal Territory or State where the registered office of the trade union is situated.”. Amendment of section 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_11__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_11__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_11__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_11__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_11__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 26 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words “of minors” the words “of trade union”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “under the age of twenty-one, but above the age of sixteen” the words “who has attained the age of fifteen years, but under the age of twenty-one years”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_11__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1a), by substituting for the words “employed or engaged in any establishment, trade, occupation or industry in respect of which the trade union is registered” the words “a workman or an employer”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_11__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1b) the following subsection: “(1b) Notwithstanding subsection (1a)— (a) no workman or employer shall be accepted as a member of a trade union except as provided in the rules of the trade union; and (b) any workman who has been dismissed, discharged, retrenched, or has retired may be retained as a member of a trade union subject to the rules of the trade union.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_11__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1b) the following subsection: “(1c) No membership of a trade union shall be confined to a particular race, religion or nationality.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_11__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: “(2a) A member of a trade union from amongst the workmen who has been dismissed, discharged, retrenched, or has retired shall not be entitled to vote on strike and all matters relating thereto.”. Amendment of section 28"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_12__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_12__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_12__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 28(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by substituting for the words “subparagraph 15(1)(b)(iv), (v) or (vi)” the words “subparagraph 15(1)(b)(vi) or paragraph 15(1)(d)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (c1) the following paragraph: “(ca) he is an office-bearer of a political party;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_12__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (d), by deleting the words “or of any offence which in the opinion of the Director General renders him unfit to be an officer of a trade union”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_12__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the proviso, by substituting for the words “paragraphs (a) and (b)” the words “paragraph (a)”. Amendment of section 29"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_13__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 29 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “(1) A registered trade union or registered federation of trade unions may, subject to subsection (2) and the rules of such trade union or federation of trade unions, employ any person as an employee of the registered trade union or of the registered federation of trade unions.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_13__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_13__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_13__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_13__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words “subsection (1) or”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_13__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_13__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “imprisonment for a term not exceeding one year, or to a fine not exceeding two thousand ringgit, or to both” the words “a fine not exceeding five thousand ringgit”. Amendment of section 31"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_14__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 31 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “(1) Subject to section 34, any registered trade union may, with the consent of more than one-half of its members or delegates, change its name.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by inserting after the words “its members” the words “or delegates”. Amendment of section 32"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 32 of the principal Act is amended by deleting the words “whose members are employed within similar trades, occupations or industries”. Amendment of section 33"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 33(1)(a) of the principal Act is amended by deleting the words “whose members are employed within similar trades, occupations or industries”. Amendment of section 34"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 34(2) of the principal Act is amended by substituting for the word “undesirable” the words “would promote feelings of ill-will and hostility between different races, religions or nationalities”. Amendment of section 38"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_18__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_18__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 38(3) of the principal Act is amended in the proviso—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “increase of members’ subscription” the words “imposition of levy”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “more than one-half” the words “of the votes returned”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_18__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “have voted in favour of” the words “are in favour of”. Amendment of section 40"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 40(6) of the principal Act is amended by substituting for the words “this Act or any other written law” the words “this section or section 25a or any of the provisions of Part IX of the Industrial Relations Act 1967”. Amendment of section 49"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Trade Unions (Amendment) Act 2023."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette and the Minister may appoint different dates for the coming into operation of different provisions of this Act. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Trade Unions Act 1959 [Act 262], which is referred to as the “principal Act” in this Act, is amended in section 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 49(3) of the principal Act is amended by substituting for the words “imprisonment for a term not exceeding two years, or to a fine not exceeding two thousand ringgit or to both” the words “a fine not exceeding ten thousand ringgit”. Amendment of section 54"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 54(3) of the principal Act is amended by substituting for the words “three thousand ringgit, or to imprisonment for a term not exceeding three years, or to both” the words “five thousand ringgit”. Amendment of section 56"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 56(5) of the principal Act is amended by substituting for the words “one thousand ringgit, or to imprisonment for a term not exceeding six months, or to both” the words “five thousand ringgit”. Amendment of section 57"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 57(4) of the principal Act is amended by substituting for the words “one thousand ringgit, or to imprisonment for a term not exceeding six months, or to both” the words “five thousand ringgit”. Amendment of section 61"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 61 of the principal Act is amended by substituting for the words “two hundred ringgit, or to imprisonment for a term not exceeding three months, or to both” the words “five thousand ringgit”. Amendment of section 62"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_25__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_25__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 62 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_25__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “one thousand ringgit” the words “five thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_25__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “one thousand ringgit, or to imprisonment for a term not exceeding six months, or to both” the words “five thousand ringgit”. NEW SECTIONS 63A, 63B, 63C, 63D AND 63E"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 63 the following sections: “Power of enforcement 63a. The Director General shall have all the powers necessary to investigate into any offence or enforce any provision under this Act or any regulations made under this Act. Enforcement officer 63b. (1) The Director General may appoint such number of enforcement officers from amongst the officers appointed under section 4 to perform such duties of the Director General relating to investigation and enforcement under this Act or any regulations made under this Act. (2) There shall be issued to each enforcement officer an authority card to be signed by the Director General. (3) When such enforcement officer exercises any of the powers under this Act or any regulations made under this Act, he shall, on demand, produce to the person against whom the power is being exercised the authority card issued to him under subsection (2). Powers of examination 63c. (1) The Director General in carrying out an investigation into any offence under this Act or any regulations made under this Act may by notice in writing, require the attendance of any person acquainted with the facts and circumstances of a case to appear before him for the purpose of being examined orally by the Director General in relation to any matter which may, in the opinion of the Director General, assist in the investigation. (2) A person to whom a written notice under subsection (1) has been given shall comply with the terms of such written notice and shall attend in accordance with the terms of the written notice to be examined, and shall continue to so attend from day to day as directed by the Director General until the examination is completed, and shall during such examination disclose all information which is within his knowledge, or which is available to him, or which is capable of being obtained by him, in respect of the matter in relation to which he is being examined. (3) An examination under subsection (1) shall be reduced into writing by the Director General and shall be read to and signed by the person being examined, and where such person refuses to sign the statement reduced into writing, the Director General shall endorse thereon under his hand the fact of such refusal and the reasons thereof, if any, stated by the person examined. (4) Any statement made by any person under this section shall be admissible as evidence in any proceedings in court under this Act against the person or any other person. Production, etc., of article or document 63D. In the course of investigation or examination under this Part, the Director General may— (a) require any such person to produce to him such article or document; and (b) inspect, make copies of, take extracts from, remove and detain any article or document. Seizure of article or document 63e. Where the Director General in carrying out an investigation under this Act or any regulations made under this Act, has reason to believe that an offence has been committed against this Act or regulations made under this Act, he may seize any article or document produced under section 63d and such article and document shall be admissible in evidence in any proceedings in court under this Act against the person or any other person.”. New section 65a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 65 the following section: “Liability of president, secretary, treasurer etc., of trade union 65a. Where an offence under this Act or any regulations made under this Act has been committed by a trade union, any person who at the time of commission of the offence was a president, secretary, treasurer or other officer of the trade union or person purporting to act on the instruction of the president, secretary, treasurer or such other officer of the trade union— (a) may be charged severally or jointly in the same proceedings with the trade union; and (b) if the trade union is found guilty of the offence, shall be deemed to be guilty of that offence and shall be liable to the same fine or penalty as an individual unless having regard to the nature of his functions in that capacity and to all circumstances, he proves— (i) that the offence was committed without his knowledge; and (ii) that the offence was committed without his consent or connivance and that he had taken all reasonable precautions and exercised due diligence to prevent the commission of the offence.”. Amendment of section 71"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_28__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_28__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 71(4) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_28__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “may be arrested and detained in custody” the words “shall be guilty of an offence”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_28__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “five hundred ringgit” the words “five thousand ringgit”. Amendment of section 71a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_29__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 71a of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_29__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_29__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_29__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_29__para_a__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_29__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_29__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph (a);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_29__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_29__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by deleting the words “paragraph 15(2)(b) or”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_29__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_29__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph (e); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_29__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_29__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (l), by substituting for the words “subsection 76c(1)” the words “section 76c”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “An appeal” the words “Except in matters relating to cancellation or withdrawal of certificate of registration of trade union, an appeal”. New section 71b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), in the definition of ‘ “trade union” or “union” ’, by deleting paragraph (a); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (2). Amendment of section 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 7 of the principal Act is amended by inserting after subsection (1) the following subsection: “(1 a) For the purpose of maintaining the register, the Director General may require any officer of a registered trade union to produce such document or provide such information to the Director General in respect of the officer’s registered trade union as the Director General may specify, and the officer shall comply with the requirement of the Director General.”. Amendment of section 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 71a the following section: “Admissibility of electronic record 71b. (1) Notwithstanding any other written law, where in any proceedings under this Act an electronic record of— (a) any prescribed form is furnished by way of electronic transmission; or (b) any other document is stored or received by or communicated to the Director General in an electronic medium or by way of electronic transmission, the electronic record or the copy or print-out of that electronic record shall be admissible as evidence of the facts stated or contained therein: Provided that the electronic record or the copy or print-out of that electronic record is— (i) certified by the Director General to contain all or any information furnished, stored, communicated or received in an electronic medium or by way of electronic transmission under this section; or (ii) otherwise authenticated in the manner provided in the Evidence Act 1950 [Act 56] for authentication of documents produced by computer. (2) Where the electronic record of any form prescribed under this Act or any other document, or a copy or print-out of that electronic record is admissible under subsection (1), it shall be presumed, until the contrary is proved, that the record or copy or print-out of that record accurately reproduces the content of that form or document. (3) For the purposes of this Act, “electronic medium” includes data, text, image or any other information stored, received or communicated by means of electronic, magnetic, optical, imaging or any other data processing device.”. Amendment of section 72"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_31__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_31__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_31__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 72 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_31__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words “whose members are employed in a similar trade, occupation or industry”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_31__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “consent of the members” the words “or delegates”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_31__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “Director General and all members” the words “or delegates”. Substitution of section 74"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 74 the following section: “Affiliation with registered federation of trade unions 74. (1) A registered trade union may affiliate with a registered federation of trade unions if a resolution has been passed by majority of votes taken at a general meeting or a meeting of delegates, as the case may be, and upon the acceptance by the federation of such affiliation by notice. (2) The registered trade union shall file with the Director General the notice of resolution to affiliate together with the notice of acceptance by the federation referred to in subsection (1), within one month from the date of the notice of acceptance by the federation. (3) Upon the filing of both the notices under subsection (2), the Director General shall, if he is satisfied that the provisions of this section have been complied with, enter the fact of such affiliation in the register, and thereupon the trade union shall be deemed to be a member of the federation from the date of acceptance of such affiliation by the federation.”. Amendment of section 76a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_33__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_33__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 76a of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_33__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (1)(b), by inserting after the words “that the consent of the members” the words “or delegates”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_33__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (2)(a), by inserting after the words “if the consent of the members” the words “or delegates”. Amendment of section 76c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_34__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_34__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 76c of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_34__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words “the Director General is satisfied that”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_34__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “has acted or is acting in contravention of any provision of this Act or any other written law or any condition imposed by him, he may” the words “has been convicted of any of the offences specified in the Fourth Schedule, the Director General may”. New Fourth Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after the Third Schedule the following schedule: “FOURTH SCHEDULE [Paragraph 15(1)(d), subsection 15(1a) and section 76c] Offences under Chapters VI, VIa and VIb of the Penal Code [Act 574]”. Saving"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_36__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_36__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_36__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_36__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any application made under the principal Act immediately before the date of coming into operation of this Act and pending under the principal Act shall, on the date of coming into operation of this Act, continue to be dealt with under the principal Act as if the principal Act had not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_36__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any opinion, order, declaration, refusal, cancellation, withdrawal, direction or decision, made, issued, given or effected under the principal Act immediately before the date of coming into operation of this Act shall, on the date of coming into operation of this Act, continue to remain in force and effect until amended, repealed, rescinded, revoked or replaced."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_36__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any action, appeal or proceedings commenced under the principal Act immediately before the date of coming into operation of this Act and pending under the principal Act shall, on the date of coming into operation of this Act, be continued as if the principal Act had not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 8 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “one month” the words “six months”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), in the proviso, by substituting for the words “six months” the words “twelve months”. Amendment of section 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 9(1) of the principal Act is amended by substituting for the words “within any particular establishment, trade, occupation or industry, and” the words “of such workmen or employers”. Amendment of section 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_6__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 12 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (2);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_6__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_6__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_6__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_6__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraphs (a), (b) and (c); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_6__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_6__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (e)(ii), by substituting for the word “undesirable” the words “would promote feelings of ill-will and hostility between different races, religions or nationalities”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsection: “(4) Where the Director General refuses to register a trade union under this section, he shall inform the trade union in writing of his refusal and the grounds for such refusal.”. Amendment of section 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 15 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_a__subpara_i__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_a__subpara_i__subpara_B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_a__subpara_i__subpara_C",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_a__subpara_i__subpara_D",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_a__subpara_i__subpara_E"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_a__subpara_i__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_a__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subparagraph (ii);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_a__subpara_i__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_a__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subparagraph (iii) the following subparagraph: “(iii) that the membership of its executive is in contravention of paragraph 28(1)(c) or (d);”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_a__subpara_i__subpara_C",
+      "@type": "akn:subparagraph",
+      "eli:number": "C",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_a__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subparagraphs (iv) and (v);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_a__subpara_i__subpara_D",
+      "@type": "akn:subparagraph",
+      "eli:number": "D",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_a__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subparagraph (vi) the following subparagraph: “(vi) that the funds of the trade union are or have been expended for purposes prejudicial to or incompatible with the security of the Federation or any part thereof or public order, including for purposes which contravene subsection 25a(2) or section 52; or”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_a__subpara_i__subpara_E",
+      "@type": "akn:subparagraph",
+      "eli:number": "E",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_a__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (vii), by deleting the word “or” at the end of the subparagraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by substituting for the full stop at the end of the paragraph the words “; or”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (c) the following paragraph: “(d) if the trade union has been convicted of any of the offences specified in the Fourth Schedule.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(1a) The Minister may by order add to, delete from or amend the Fourth Schedule.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (2);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2a), by deleting the words “or paragraph (2)(a)”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (2b). Deletion of section 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 17. Amendment of section 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 18(8) of the principal Act is amended by substituting for the words “three thousand ringgit, or to imprisonment for a term not exceeding three years, or to both” the words “ten thousand ringgit”. Amendment of section 25a"
+      }
+    }
+  ]
+}

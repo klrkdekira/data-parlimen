@@ -60,15 +60,47 @@ Act 1975, which in this Act is referred to as the
 
 (f) by substituting for the words "INSTITIUT" and "Institiut" wherever appearing therein except in the third line of the long title, in subsection 42(1) and wherever it appears after the word "Pengarah" in subsection 42(2) the words "INSTITUT" and "Institut" respectively.
 
-Construction
+<!-- marginal: Construction -->
 
-3. Where, upon the coming into force of this Act, a of references reference is made in any written law to the Bahasa to the Bahasa Malaysia text of the principal Act, such reference shall Malaysia be construed as a reference to the Akta Institut Standard text of the principal Act. dan Penyelidikan Perindustrian Malaysia (Perbadanan)
+3. Where, upon the coming into force of this Act, a
 
-1975.
+<!-- marginal: of references -->
 
-Change of
+reference is made in any written law to the Bahasa
 
-4. (1) The Standards and Industrial Research Institute name of the of Malaysia, which in this Act is referred to as the Institute in Bahasa "Institute", established under section 3 of the principal Malaysia. Act, shall, upon the coming into force of this Act, be known in Bahasa Malaysia as "Institut Standard dan Penyelidikan Perindustrian Malaysia"; and all references to the Institute in Bahasa Malaysia in any written law shall be construed accordingly.
+<!-- marginal: to the -->
+
+<!-- marginal: Bahasa -->
+
+Malaysia text of the principal Act, such reference shall
+
+<!-- marginal: Malaysia -->
+
+be construed as a reference to the Akta Institut Standard
+
+<!-- marginal: text of the -->
+
+<!-- marginal: principal Act. -->
+
+dan Penyelidikan Perindustrian Malaysia (Perbadanan) 1975.
+
+<!-- marginal: Change of -->
+
+4. (1) The Standards and Industrial Research Institute
+
+<!-- marginal: name of the -->
+
+of Malaysia, which in this Act is referred to as the
+
+<!-- marginal: Institute in -->
+
+<!-- marginal: Bahasa -->
+
+"Institute", established under section 3 of the principal
+
+<!-- marginal: Malaysia. -->
+
+Act, shall, upon the coming into force of this Act, be known in Bahasa Malaysia as "Institut Standard dan Penyelidikan Perindustrian Malaysia"; and all references to the Institute in Bahasa Malaysia in any written law shall be construed accordingly.
 
 (2) The change of name in Bahasa Malaysia provided by subsection (1) shall not affect any rights, privileges, liabilities, duties or obligations of the Institute or render defective any legal proceedings by or against it; and any legal proceedings that could have been continued or commenced by or against it prior to the coming into force of this Act may be continued or commenced under its new name.
 
@@ -156,7 +188,11 @@ behalf shall, upon the coming into force of this Act, vest in or be reserved for
 
 "certification" means an action by a third party to demonstrate that there is adequate confidence in an identified commodity, process, practice or service and that such commodity, process, practice or service is in conformity with a specified standard or other normative document;';
 
-(b) by substituting for the definitions of "Chairman" and "Deputy Chairman" the following new definition:
+(b) by substituting for the definitions of "Chairman" and "Deputy Chairman"
+
+<!-- marginal: the -->
+
+following new definition:
 
 ' "Chairman" means the Chairman of the Board appointed under section 7(1);';
 
@@ -166,7 +202,11 @@ behalf shall, upon the coming into force of this Act, vest in or be reserved for
 
 (d) by inserting, immediately after the definition of "commodity", the following new definition:
 
-' "company" has the same meaning as that assigned to "corporation" under section 4(1) Act 125. of the Companies Act 1965;';
+' "company" has the same meaning as that assigned to "corporation" under section 4(1)
+
+<!-- marginal: Act 125. -->
+
+of the Companies Act 1965;';
 
 (e) by deleting the definition of "Controller";
 
@@ -176,7 +216,11 @@ behalf shall, upon the coming into force of this Act, vest in or be reserved for
 
 (g) by inserting, immediately after the definition of "Council", the following new definitions:
 
-' "Deputy Director-General" and "Director" mean a Deputy Director-General and a Director of the Institute respectively appointed under section 17;
+' "Deputy Director-General"
+
+<!-- marginal: and -->
+
+"Director" mean a Deputy Director-General and a Director of the Institute respectively appointed under section 17;
 
 <!-- page 5 -->
 
@@ -210,9 +254,11 @@ behalf shall, upon the coming into force of this Act, vest in or be reserved for
 
 (n) by inserting, immediately after the number "28" in the definition of "standard specification", the words "but does not include a provisional standard specification".
 
-General
+<!-- marginal: General -->
 
-9. The principal Act is amended— amendments.
+9. The principal Act is amended—
+
+<!-- marginal: amendments. -->
 
 (a) by substituting for the words "COUNCIL" in the heading of Part III and "Council" wherever appearing therein except in subsection 42(1), sections 43, 44, 45 and 46 the words "BOARD" and "Board" respectively;
 
@@ -220,9 +266,35 @@ General
 
 (c) by substituting for the word "committee" and "sub-committee" wherever appearing therein the word "Council" and "committee" respectively.
 
-Change of
+<!-- marginal: Change of -->
 
-10. (1) All references to the Council, committees and name of their respective sub-committees, and the Controller in Council, committee any written law or in any instrumenl, deed, title, and sub- committee document, bond, agreement and working arrangement and change subsisting immediately before the coming into force of of designation of Controller. this Act shall, upon the coming into force of this Act, be construed as if all such references were references to the Board, Councils and their respective committees and the Director-General respectively.
+10. (1) All references to the Council, committees and
+
+<!-- marginal: name of -->
+
+their respective sub-committees, and the Controller in
+
+<!-- marginal: Council, -->
+
+<!-- marginal: committee -->
+
+any written law or in any instrumenl, deed, title,
+
+<!-- marginal: and sub- -->
+
+<!-- marginal: committee -->
+
+document, bond, agreement and working arrangement
+
+<!-- marginal: and change -->
+
+subsisting immediately before the coming into force of
+
+<!-- marginal: of designation -->
+
+<!-- marginal: of Controller. -->
+
+this Act shall, upon the coming into force of this Act, be construed as if all such references were references to the Board, Councils and their respective committees and the Director-General respectively.
 
 (2) The aforesaid change of name shall not affect any rights, privileges, liabilities, duties or obligations of the Council, committees and their respective sub- committees, and the Controller, or render defective any legal proceedings by or against them; and any legal proceedings that could have been continued or commenced by or against them prior to the coming into force of this Act may be continued or commenced under their new names.
 
@@ -296,7 +368,9 @@ inserting, immediately after the word "undertake" in paragraph (d), the words "s
 
 (a) by inserting, immediately after paragraph (a), the following new paragraphs (aa), (ab), (ac), (ad) and (ae).
 
-"(aa) undertake certification of com- modities, processes, practices and services and issue licences or certificates, as the case may be, to evidence conformity of
+"(aa) undertake certification of com- modities, processes, practices and services and issue licences or certificates, as the case may be, to evidence conformity
+
+<!-- marginal: of -->
 
 <!-- marginal: the -->
 
@@ -362,13 +436,27 @@ Institute or are delegated to the Institute; and
 
 (x) perform any other functions as the Minister may require.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-15. The principal Act is amended by substituting for of section 7. section 7 the following new section 7:
+15. The principal Act is amended by substituting for
 
-"Member-
+<!-- marginal: of section 7. -->
 
-7. (1) The Board shall consist of the ship of the following members who shall be appointed by Board. the Minister:
+section 7 the following new section 7:
+
+<!-- marginal: "Member- -->
+
+7. (1) The Board shall consist of the
+
+<!-- marginal: ship of -->
+
+<!-- marginal: the -->
+
+following members who shall be appointed by
+
+<!-- marginal: Board. -->
+
+the Minister:
 
 (a) a Chairman;
 
@@ -382,11 +470,31 @@ Amendment
 
 (3) The Board shall exercise its powers, discharge its functions and perform its duties in accordance with the Schedule.".
 
-New sections
+<!-- marginal: New sections -->
 
-16. The principal Act is amended by inserting, 7A and 7B. immediately after section 7, the following new sections 7A and 7B: "Temporary
+16. The principal Act is amended by inserting,
 
-7A. The Minister may appoint any member of exercise of the Board as he thinks fit to exercise the functions of functions of the Chairman during the period in Chairman. which the Chairman is, for any reason, unable to exercise his functions or during the period of any vacancy in the office of the Chairman,
+<!-- marginal: 7A and 7B. -->
+
+immediately after section 7, the following new sections 7A and 7B:
+
+<!-- marginal: "Temporary -->
+
+7A. The Minister may appoint any member of
+
+<!-- marginal: exercise of -->
+
+the Board as he thinks fit to exercise the
+
+<!-- marginal: functions -->
+
+<!-- marginal: of -->
+
+functions of the Chairman during the period in
+
+<!-- marginal: Chairman. -->
+
+which the Chairman is, for any reason, unable to exercise his functions or during the period of any vacancy in the office of the Chairman,
 
 <!-- page 11 -->
 
@@ -396,25 +504,21 @@ New sections
 
 and such member shall, during the period in which he is exercising the functions of the Chairman under this section, be deemed to be the Chairman.
 
-Powers of 7B. The Board shall have the power to do all the Board. things reasonably necessary for, or expedient or incidental to, the exercise of the powers and the discharge of the functions of the Institute and for carrying out the provisions of this Act, and in particular but without prejudice to the generality of the foregoing, it shall have the power—
+<!-- marginal: Powers of -->
+
+7B. The Board shall have the power to do all
+
+<!-- marginal: the Board. -->
+
+things reasonably necessary for, or expedient or incidental to, the exercise of the powers and the discharge of the functions of the Institute and for carrying out the provisions of this Act, and in particular but without prejudice to the generality of the foregoing, it shall have the power—
 
 (a) to determine the policies of the Institute;
 
 (b) to carry on all activities the carrying on whereof appears to it to be requisite, advantageous or convenient for or in connexion with the discharge of the functions of the Institute;
 
-(c) to promote and co-ordinate the carrying on of the activities of corporations, companies and other bodies or persons arid to give assistance
+(c) to promote and co-ordinate the carrying on of the activities of corporations, companies and other bodies or persons arid to give assistance to such corporations, companies and other bodies or persons including financial assistance, by way of grant, loan or otherwise;
 
-<!-- marginal: to -->
-
-<!-- marginal: such -->
-
-corporations, companies and other bodies or persons including financial assistance, by way of grant, loan or otherwise;
-
-(d) with the approval of the Minister and the concurrence of the Minister of Finance, to enter into a partnership, a joint- venture, an undertaking, co-operation in any manner, an arrangement for the sharing of profits or otherwise, with any person, body, public
-
-<!-- marginal: authority, -->
-
-corporation, company or other body carrying on or engaged in, or about to carry on or engage in, any activities similar to those of the Institute, and to take or otherwise acquire shares and securities of any such enterprise,
+(d) with the approval of the Minister and the concurrence of the Minister of Finance, to enter into a partnership, a joint- venture, an undertaking, co-operation in any manner, an arrangement for the sharing of profits or otherwise, with any person, body, public authority, corporation, company or other body carrying on or engaged in, or about to carry on or engage in, any activities similar to those of the Institute, and to take or otherwise acquire shares and securities of any such enterprise,
 
 <!-- page 12 -->
 
@@ -428,15 +532,25 @@ venture, person, body, public authority, corporation or company, and to sell, ho
 
 (g) to do anything and to enter into any transaction (whether or not involving expenditure, borrowing in accordance with this Act, granting of loans or investment of moneys, the acquisition, use and disposal of any movable or immovable property) which in its opinion is calculated to facilitate the proper discharge of its functions effectively.".
 
-Deletion of
+<!-- marginal: Deletion of -->
 
-17. Sections 8, 9, 10, 11, 12 and 15 of the principal Act sections 8, 9, are deleted. 10, 11, 12 and
+17. Sections 8, 9, 10, 11, 12 and 15 of the principal Act
 
-15. Substitution
+<!-- marginal: sections 8, 9, -->
 
-18. The principal Act is amended by substituting for of Part IV.
+<!-- marginal: are deleted. -->
 
-## Part IV the following new Part IV:
+<!-- marginal: 10, 11, 12 and -->
+
+15.
+
+<!-- marginal: Substitution -->
+
+18. The principal Act is amended by substituting for
+
+<!-- marginal: of Part IV. -->
+
+Part IV the following new Part IV:
 
 ## "PART IV
 
@@ -444,11 +558,25 @@ Deletion of
 
 ## AND EMPLOYEES
 
-Appoint-
+<!-- marginal: Appoint- -->
 
-16. (1) There shall be a Director-General who ment and shall be appointed by the Minister. duties of the Director-
+16. (1) There shall be a Director-General who
 
-(2) The appointment of the Director- General. General shall be on such terms and conditions as the Minister may determine.
+<!-- marginal: ment and -->
+
+shall be appointed by the Minister.
+
+<!-- marginal: duties -->
+
+<!-- marginal: of the -->
+
+<!-- marginal: Director- -->
+
+(2) The appointment of the Director-
+
+<!-- marginal: General. -->
+
+General shall be on such terms and conditions as the Minister may determine.
 
 (3) The Director-General shall be the chief executive, officer of the Institute and shall,
 
@@ -456,7 +584,7 @@ Appoint-
 
 ## STANDARDS AND INDUSTRIAL RES ARCH INSTITUTE
 
-<!-- marginal: 1 3 -->
+1 3
 
 ## OF MALAYSIA (INCORPORATION) (AMENDMENT)
 
@@ -468,11 +596,7 @@ subject to the directions and control of the Board, be responsible for—
 
 (c) keeping the Board fully informed of the progress of the programmes, schemes, projects and activities of the Board and the Institute;
 
-(d) the issue of policy guidance or elucidation of the decisions of the Board to officers and employees of
-
-<!-- marginal: the -->
-
-Institute;
+(d) the issue of policy guidance or elucidation of the decisions of the Board to officers and employees of the Institute;
 
 (e) implementing the policy decisions of the Board;
 
@@ -496,9 +620,31 @@ other duties as may be necessary for carrying out the administration of the Inst
 
 (7) If the Director-General is unable to exercise the powers and perform the duties of his office during any period, owing to absence from Malaysia, illness, or any other cause, or if the office of the Director-General is for the time being vacant, the Minister shall, on the advice of the Chairman, appoint one of the Deputy Director-Generals to act as Director- General; and the Deputy Director-General so appointed shall exercise the powers and perform the duties of the Director-General until such time as the Director-General is able to resume the exercise of his powers and the performance of his duties or until a Director- General is appointed under subsection (1).
 
-Appoint-
+<!-- marginal: Appoint- -->
 
-17. The Board may appoint from time to time ment and Deputy Director-Generals and Directors from duties of the Deputy among the officers appointed under section 18 Director- who shall be responsible for the functions and Generals and activities of the Institute relating to— Directors.
+17. The Board may appoint from time to time
+
+<!-- marginal: ment and -->
+
+Deputy Director-Generals and Directors from
+
+<!-- marginal: duties of -->
+
+<!-- marginal: the Deputy -->
+
+among the officers appointed under section 18
+
+<!-- marginal: Director- -->
+
+who shall be responsible for the functions and
+
+<!-- marginal: Generals -->
+
+<!-- marginal: and -->
+
+activities of the Institute relating to—
+
+<!-- marginal: Directors. -->
 
 (a) administration;
 
@@ -512,23 +658,51 @@ Appoint-
 
 (f) any other functions, duties and activities as may be determined or delegated by the Board.
 
-Appoint-
+<!-- marginal: Appoint- -->
 
-18. (1) Subject to subsection (2) and any ment of regulations made under paragraphs (k), (ka) officers and and (kb) of section 21(1), the Board may employees appoint from time to time, on such terms and of the Institute. conditions as the Board may think fit, such number of officers and employees as are, in the opinion of the Board, necessary for carrying out the purposes of this Act.
+18. (1) Subject to subsection (2) and any
+
+<!-- marginal: ment of -->
+
+regulations made under paragraphs (k), (ka)
+
+<!-- marginal: officers -->
+
+<!-- marginal: and -->
+
+and (kb) of section 21(1), the Board may
+
+<!-- marginal: employees -->
+
+appoint from time to time, on such terms and
+
+<!-- marginal: of the -->
+
+<!-- marginal: Institute. -->
+
+conditions as the Board may think fit, such number of officers and employees as are, in the opinion of the Board, necessary for carrying out the purposes of this Act.
 
 <!-- page 15 -->
 
 ## OF MALAYSIA (INCORPORATION) (AMENDMENT)
 
-(2) No person shall be eligible
-
-<!-- marginal: for -->
-
-employment as an officer or employee of the Institute if he has, directly or indirectly, any share or interest in any contract or proposed contract with the Board.
+(2) No person shall be eligible for employment as an officer or employee of the Institute if he has, directly or indirectly, any share or interest in any contract or proposed contract with the Board.
 
 (3) The Board shall not establish or modify any post or scheme of service for officers or employees of the Institute, including the terms and conditions of service, the salary scheme, pension scheme and any scheme relating to allowances and other remuneration, without the approval of the Minister of Finance and the Director General of the Public Services Department.
 
-Discipline 18A. (1) There shall be a Disciplinary Council of officers of the Board which shall consist of two and employees members to be elected by and from the members of the Board, one of whom shall be elected chairman, and the Director-General.
+<!-- marginal: Discipline -->
+
+18A. (1) There shall be a Disciplinary Council
+
+<!-- marginal: of officers -->
+
+of the Board which shall consist of two
+
+<!-- marginal: and -->
+
+<!-- marginal: employees -->
+
+members to be elected by and from the members of the Board, one of whom shall be elected chairman, and the Director-General.
 
 (2) The disciplinary authority in respect of every officer and employee of the Institute other than the Director-General shall be the Disciplinary Council of the Board established under subsection (1).
 
@@ -560,7 +734,19 @@ Committee, as the case may be, against whose decision the appeal is made, shall 
 
 (10) The decision of the Board upon such appeal shall be final and conclusive.
 
-Power to 18B. (1) The Board may, from time to time, make with the approval of the Minister make such disciplinary regulations. disciplinary regulations as it deems necessary or expedient to provide for the discipline of the Director-General and officers and employees of the Institute.
+<!-- marginal: Power to -->
+
+18B. (1) The Board may, from time to time,
+
+<!-- marginal: make -->
+
+with the approval of the Minister make such
+
+<!-- marginal: disciplinary -->
+
+<!-- marginal: regulations. -->
+
+disciplinary regulations as it deems necessary or expedient to provide for the discipline of the Director-General and officers and employees of the Institute.
 
 (2) The regulations made under this section may include provisions for—
 
@@ -578,13 +764,29 @@ of the Director-General and officers and employees of the Institute during the p
 
 ## BILL
 
-Substitution
+<!-- marginal: Substitution -->
 
-19. The principal Act is amended by substituting for of section 19. section 19 the following new section 19:
+19. The principal Act is amended by substituting for
 
-"Research
+<!-- marginal: of section 19. -->
 
-19. (1) The Board shall appoint a Research and and Development Council which shall consist Develop- ment of the following members: Council.
+section 19 the following new section 19:
+
+<!-- marginal: "Research -->
+
+19. (1) The Board shall appoint a Research
+
+<!-- marginal: and -->
+
+and Development Council which shall consist
+
+<!-- marginal: Develop- -->
+
+<!-- marginal: ment -->
+
+of the following members:
+
+<!-- marginal: Council. -->
 
 (a) two Board members, one of whom shall be the chairman of the Council; and
 
@@ -624,7 +826,13 @@ immediately after section 19, the following new sections
 
 <!-- marginal: 19G and 19H. -->
 
-"Standards 19A. (1) The Board shall appoint a Standards Council. Council which shall consist of the following members:
+<!-- marginal: "Standards -->
+
+19A. (1) The Board shall appoint a Standards
+
+<!-- marginal: Council. -->
+
+Council which shall consist of the following members:
 
 (a) two Board members, one of whom shall be the chairman of the Council; and
 
@@ -650,9 +858,17 @@ immediately after section 19, the following new sections
 
 (g) any other functions as may be determined or delegated by the Board.
 
-Industrial
+<!-- marginal: Industrial -->
 
-19B. (1) The Board shall appoint an Industrial Extension Extension Council which shall consist of the Council . following members:
+19B. (1) The Board shall appoint an Industrial
+
+<!-- marginal: Extension -->
+
+Extension Council which shall consist of the
+
+<!-- marginal: Council . -->
+
+following members:
 
 (a) two Board members, one of whom shall be the chairman of the Council; and
 
@@ -682,11 +898,17 @@ Industrial
 
 (h) any other functions as may be determined or delegated by the Board.
 
-Accredita- 19c. (1) The Board shall appoint
+<!-- marginal: Accredita- -->
 
-<!-- marginal: an -->
+19c. (1) The Board shall appoint an
 
-tion Accreditation Council which shall consist of Council. the following members:
+<!-- marginal: tion -->
+
+Accreditation Council which shall consist of
+
+<!-- marginal: Council. -->
+
+the following members:
 
 (a) two Board members, one of whom shall be the chairman of the Council;
 
@@ -698,11 +920,7 @@ tion Accreditation Council which shall consist of Council. the following members
 
 (b) to advise the Board on the promotion and implementation of accreditation schemes;
 
-(c) to advise and submit recommendations for the consideration and approval of the Board in respect of programmes, schemes, projects and activities for the National Measurement System and to promote the development of
-
-<!-- marginal: the -->
-
-metrology and calibration services of the Institute;
+(c) to advise and submit recommendations for the consideration and approval of the Board in respect of programmes, schemes, projects and activities for the National Measurement System and to promote the development of the metrology and calibration services of the Institute;
 
 <!-- page 22 -->
 
@@ -714,17 +932,39 @@ metrology and calibration services of the Institute;
 
 (f) any other functions as may be determined or delegated by the Board.
 
-Appoint-
+<!-- marginal: Appoint- -->
 
-19D. (1) The Board may appoint such other ment Councils as it thinks expedient to advise the of other Councils. Board on such matters concerning the functions, powers and duties of the Institute as may be referred to the Board or for the proper exercise of powers, discharge of functions, and performance of duties of the Institute or for any purpose arising out of or connected with any of its functions, powers or duties.
+19D. (1) The Board may appoint such other
+
+<!-- marginal: ment -->
+
+Councils as it thinks expedient to advise the
+
+<!-- marginal: of other -->
+
+<!-- marginal: Councils. -->
+
+Board on such matters concerning the functions, powers and duties of the Institute as may be referred to the Board or for the proper exercise of powers, discharge of functions, and performance of duties of the Institute or for any purpose arising out of or connected with any of its functions, powers or duties.
 
 (2) There may be appointed to such Council such other persons as the Board may think fit and any Council appointed under subsection
 
 (1) shall include at least one member of the Board.
 
-Supple-
+<!-- marginal: Supple- -->
 
-19E. (1) Subject to this Act and the rules, and mentary to any directions given by the Board, a provisions in respect Council may regulate its own procedure. of Councils.
+19E. (1) Subject to this Act and the rules, and
+
+<!-- marginal: mentary -->
+
+to any directions given by the Board, a
+
+<!-- marginal: provisions -->
+
+<!-- marginal: in respect -->
+
+Council may regulate its own procedure.
+
+<!-- marginal: of Councils. -->
 
 (2) A Council shall conform to any instructions from time to time given to it by the Board and the Board may, at any time, discontinue or alter the constitution of any Council.
 
@@ -740,7 +980,23 @@ Supple-
 
 (5) A Council shall cause minutes of all its meetings to be maintained and kept in a proper form and copies of such minutes shall forthwith be submitted to the Board.
 
-Appomt- 19p. (1) Subject to such limitations, restric- ment and tions or conditions as may be prescribed by procedure of the Board, a Council may appoint one or more committees. committees to assist it in exercising its powers, discharging its functions and performing its duties.
+<!-- marginal: Appomt- -->
+
+19p. (1) Subject to such limitations, restric-
+
+<!-- marginal: ment and -->
+
+tions or conditions as may be prescribed by
+
+<!-- marginal: procedure -->
+
+<!-- marginal: of -->
+
+the Board, a Council may appoint one or more
+
+<!-- marginal: committees. -->
+
+committees to assist it in exercising its powers, discharging its functions and performing its duties.
 
 (2) There may be appointed to such committee such other persons as the Council appointing it thinks fit.
 
@@ -758,11 +1014,41 @@ Appomt- 19p. (1) Subject to such limitations, restric- ment and tions or conditi
 
 (7) A committee shall cause minutes of all its meetings to be maintained and kept in a proper form and copies of such minutes shall forthwith be submitted to the Council appointing it.
 
-Remunera- 19G. There shall be paid to members of the tion or Councils and committees such remuneration or allowance of members allowances as the Minister shall determine of Councils after consultation with the Minister of Finance. and committees. Power to 19H. The Board may employ and pay agents employ. and technical advisers, including advocates and solicitors, bankers, surveyors, valuers and other persons, to transact any business or to do any act required to be transacted or done in the exercise of its powers, the discharge of its functions or the performance of its duties, or for the better carrying into effect the purposes of this Act.".
+<!-- marginal: Remunera- -->
 
-Amendment
+19G. There shall be paid to members of the
 
-21. Section 20 of the principal Act is amended— of section 20.
+<!-- marginal: tion or -->
+
+Councils and committees such remuneration or
+
+<!-- marginal: allowance -->
+
+<!-- marginal: of members -->
+
+allowances as the Minister shall determine
+
+<!-- marginal: of Councils -->
+
+after consultation with the Minister of Finance.
+
+<!-- marginal: and -->
+
+<!-- marginal: committees. -->
+
+<!-- marginal: Power to -->
+
+19H. The Board may employ and pay agents
+
+<!-- marginal: employ. -->
+
+and technical advisers, including advocates and solicitors, bankers, surveyors, valuers and other persons, to transact any business or to do any act required to be transacted or done in the exercise of its powers, the discharge of its functions or the performance of its duties, or for the better carrying into effect the purposes of this Act.".
+
+<!-- marginal: Amendment -->
+
+21. Section 20 of the principal Act is amended—
+
+<!-- marginal: of section 20. -->
 
 (a) by substituting for paragraphs (a) and (b) of subsection (1) the following new paragraphs
 
@@ -858,7 +1144,19 @@ immediately after Part V, the following new Part VA:
 
 ## CORPORATIONS
 
-Institute 2lA. (1) The Institute may, with the approval may of the Minister and the concurrence of the establish corporations. Minister of Finance, from time to time by order published in the Gazette, establish a corporation by such name as may be specified in the order to carry out and have the charge, conduct and management, on behalf of the Institute, of any project, scheme or enterprise which has been determined, planned or undertaken by the Institute in the exercise of its powers, discharge of its functions and performance of its duties under this Act, and may in like manner cancel, vary or amend any such order.
+<!-- marginal: Institute -->
+
+2lA. (1) The Institute may, with the approval
+
+<!-- marginal: may -->
+
+of the Minister and the concurrence of the
+
+<!-- marginal: establish -->
+
+<!-- marginal: corporations. -->
+
+Minister of Finance, from time to time by order published in the Gazette, establish a corporation by such name as may be specified in the order to carry out and have the charge, conduct and management, on behalf of the Institute, of any project, scheme or enterprise which has been determined, planned or undertaken by the Institute in the exercise of its powers, discharge of its functions and performance of its duties under this Act, and may in like manner cancel, vary or amend any such order.
 
 (2) An order made under subsection (1) shall make provision in respect of the following:
 
@@ -872,11 +1170,7 @@ Institute 2lA. (1) The Institute may, with the approval may of the Minister and 
 
 (e) the finances of the corporation;
 
-(f) the making of loans by, and
-
-<!-- marginal: the -->
-
-repayment thereof to, the corporation;
+(f) the making of loans by, and the repayment thereof to, the corporation;
 
 <!-- page 28 -->
 
@@ -888,13 +1182,47 @@ repayment thereof to, the corporation;
 
 (3) Subject to this Act and to any provision made under subsection (2), a corporation shall have the power to regulate its own procedure.
 
-Limitation 2lB. Nothing in section 2lA shall be deemed on power to authorize the Institute to establish any to establish corpora- corporation for any purpose or object more tions. extensive in scope than the purposes or objects for which the Institute was constituted or to confer on any corporation any right, duty, power or function which is not within the rights, duties, powers or functions of the Board and the Institute under this Act.
+<!-- marginal: Limitation -->
 
-Register 21c. The Board shall keep a register in the of prescribed form of all corporations established corporations. by the Institute under section 2lA and such register shall be open to public inspection at such place or places and at such times as it may prescribe.
+2lB. Nothing in section 2lA shall be deemed
 
-Winding
+<!-- marginal: on power -->
 
-21D. (1) The Institute may, with the approval up of of the Minister, by order published in the corporations. Gazette, direct that any corporation established by it be wound up and dissolved.
+to authorize the Institute to establish any
+
+<!-- marginal: to establish -->
+
+<!-- marginal: corpora- -->
+
+corporation for any purpose or object more
+
+<!-- marginal: tions. -->
+
+extensive in scope than the purposes or objects for which the Institute was constituted or to confer on any corporation any right, duty, power or function which is not within the rights, duties, powers or functions of the Board and the Institute under this Act.
+
+<!-- marginal: Register -->
+
+21c. The Board shall keep a register in the
+
+<!-- marginal: of -->
+
+prescribed form of all corporations established
+
+<!-- marginal: corporations. -->
+
+by the Institute under section 2lA and such register shall be open to public inspection at such place or places and at such times as it may prescribe.
+
+<!-- marginal: Winding -->
+
+21D. (1) The Institute may, with the approval
+
+<!-- marginal: up of -->
+
+of the Minister, by order published in the
+
+<!-- marginal: corporations. -->
+
+Gazette, direct that any corporation established by it be wound up and dissolved.
 
 (2) Upon the dissolution of any corporation under this section, the assets of the corporation after payment of all liabilities shall be transferred to and shall vest in the Institute.
 
@@ -904,9 +1232,23 @@ Winding
 
 ## STANDARDS AND INDUSTRIAL RESEARCH INSTITUTE
 
-OF MALAYSIA (INCORPORATlON) (AMENDMENT) Incorpo- 2lE. Every corporation established under ration. section 21A shall be a body corporate by such name as shall be specified by the Institute in the order by which such corporation is established and shall have perpetual succession and may sue and be sued in such name and, for the purpose of carrying into effect the project, scheme or enterprise for which the corporation was established, may do all other matters and things incidental or appertaining to a body corporate not inconsistent with the provisions of this Act and subject to such restrictions or limitations as may be prescribed by the Institute in the order by which such corporation was established.
+OF MALAYSIA (INCORPORATlON) (AMENDMENT)
 
-Common 2lF. (1) Every corporation shall have a seal. common seal which shall bear such device as the corporation, with the approval of the Board, may approve and such seal may from time to time be broken, changed, altered or made anew by the corporation, with the approval of the Board, as the corporation shall think fit.
+<!-- marginal: Incorpo- -->
+
+2lE. Every corporation established under
+
+<!-- marginal: ration. -->
+
+section 21A shall be a body corporate by such name as shall be specified by the Institute in the order by which such corporation is established and shall have perpetual succession and may sue and be sued in such name and, for the purpose of carrying into effect the project, scheme or enterprise for which the corporation was established, may do all other matters and things incidental or appertaining to a body corporate not inconsistent with the provisions of this Act and subject to such restrictions or limitations as may be prescribed by the Institute in the order by which such corporation was established.
+
+<!-- marginal: Common -->
+
+2lF. (1) Every corporation shall have a
+
+<!-- marginal: seal. -->
+
+common seal which shall bear such device as the corporation, with the approval of the Board, may approve and such seal may from time to time be broken, changed, altered or made anew by the corporation, with the approval of the Board, as the corporation shall think fit.
 
 (2) Until a seal is provided by the corporation under this section, a stamp bearing the name of the corporation encircling the letters "SIRIM" may be used and shall be deemed to be the common seal of the corporation.
 
@@ -922,9 +1264,11 @@ corporate would not be required to be under seal may in like manner be executed 
 
 (4) The common seal of every corporation shall be officially and judicially noticed.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-24. Section 22 of the principal Act is amended— of section 22.
+24. Section 22 of the principal Act is amended—
+
+<!-- marginal: of section 22. -->
 
 (a) by inserting, immediately after the word "Institute" in paragraph (2)(d), the words "from within or outside Malaysia";
 
@@ -964,31 +1308,31 @@ Amendment
 
 section 23 the following new section 23:
 
-"Power to 23. The Board may, from time to time, with invest. the approval of the Minister and
+<!-- marginal: "Power to -->
 
-<!-- marginal: the -->
+23. The Board may, from time to time, with
 
-concurrence of the Minister of Finance, invest moneys belonging to the Institute, such moneys not being immediately required for meeting the Board's obligations or for carrying out the functions or duties of the Institute and available for investment—
+<!-- marginal: invest. -->
+
+the approval of the Minister and the concurrence of the Minister of Finance, invest moneys belonging to the Institute, such moneys not being immediately required for meeting the Board's obligations or for carrying out the functions or duties of the Institute and available for investment—
 
 (a) subject to the terms of any trust or endowment, in investments or securities in accordance with the law regulating the investment of trust funds; or
 
 (b) in such other investments or securities as the Board thinks fit:
 
-Provided that the Board shall not invest
-
-<!-- marginal: its -->
-
-moneys in any securities issued outside Malaysia or in any other property situated outside Malaysia except with the prior approval of the Minister of Finance.".
+Provided that the Board shall not invest its moneys in any securities issued outside Malaysia or in any other property situated outside Malaysia except with the prior approval of the Minister of Finance.".
 
 <!-- page 32 -->
 
 ## BILL
 
-New section
+<!-- marginal: New section -->
 
 26. The principal Act is amended by inserting,
 
-27A. immediately after section 27, the following new section 27A:
+27A. immediately after section 27, the following new section
+
+<!-- marginal: 27A: -->
 
 "Surcharge. 27A. (1) If it appears to the Board that any person who is or was in the employment of the Institute—
 
@@ -1028,17 +1372,15 @@ by equal monthly instalments not exceeding one-fourth of the total monthly salar
 
 ## BILL
 
-Amendment
+<!-- marginal: Amendment -->
 
-27. Section 28 of the principal Act is amended— of section 28.
+27. Section 28 of the principal Act is amended—
 
-(a) by inserting, immediately after the words "standard specification" in line 3 of subsection
+<!-- marginal: of section 28. -->
 
-(1), the words "or a provisional standard specification";
+(a) by inserting, immediately after the words "standard specification" in line 3 of subsection (1), the words "or a provisional standard specification";
 
-(b) by inserting, immediately after the words "standard specification" in line 5 of subsection
-
-(1), the words "or provisional standard specification";
+(b) by inserting, immediately after the words "standard specification" in line 5 of subsection (1), the words "or provisional standard specification";
 
 (c) by inserting, immediately after subsection (l), the following new subsection (1A):
 
@@ -1046,17 +1388,19 @@ Amendment
 
 (d) by substituting for the words "or practice" wherever they appear in subsection (2) the words "practice or service";
 
-(e) by substituting for the full stop in subsection
+(e) by substituting for the full stop in subsection (3) a colon and inserting immediately thereafter the following new proviso:
 
-(3) a colon and inserting immediately thereafter the following new proviso:
+"Provided that this subsection
 
-"Provided that this subsection shall not apply to a provisional standard specification.".
+<!-- marginal: shall -->
 
-### Amendment
+not apply to a provisional standard specification.".
+
+<!-- marginal: Amendment -->
 
 28. Section 29 of the principal Act is amended—
 
-### of section 29.
+<!-- marginal: of section 29. -->
 
 (a) by substituting for the numbers "26/50" in the marginal note the words "Act 775.";
 
@@ -1076,17 +1420,9 @@ Amendment
 
 (d) by substituting for paragraphs (a) and (b) of subsection (2) the following new paragraphs (a) and (b);
 
-"(a) a mark adapted in relation to any commodity, process, practice or service to distinguish in the course of trade commodities, processes, practices or services that conform to a standard specification or an international or foreign specification or any specification which is approved by the Board from commodities, processes, practices and services that do not conform to that standard specification or international or foreign specification or any specifica- tion which is approved by the Board shall be registrable as a certification trade mark under section 56 of the said Act in respect of the first-mentioned commodity, process, practice and service in the name of the Board as
+"(a) a mark adapted in relation to any commodity, process, practice or service to distinguish in the course of trade commodities, processes, practices or services that conform to a standard specification or an international or foreign specification or any specification which is approved by the Board from commodities, processes, practices and services that do not conform to that standard specification or international or foreign specification or any specifica- tion which is approved by the Board shall be registrable as a certification trade mark under section 56 of the said Act in respect of the first-mentioned commodity, process, practice and service in the name of the Board as the proprietor of the certification trade mark;
 
-<!-- marginal: the -->
-
-proprietor of the certification trade mark;
-
-(b) any such certification trade mark may contain or consist of the words "Malaysian Standard" or the acronym "MS" or "SIRIM"; and, in the case of the certification to an international or foreign specification or any specification which is approved by the Board, the certification trade mark may contain words or acronyms denoting
-
-<!-- marginal: this -->
-
-international or foreign specification or the specification which is approved by the Board; and in relation to an application made under this section, those words and acronyms shall be deemed, for the purposes of section 56(2) of the said Act, to be inherently adapted to distinguish that commodity, process, practice and service;";
+(b) any such certification trade mark may contain or consist of the words "Malaysian Standard" or the acronym "MS" or "SIRIM"; and, in the case of the certification to an international or foreign specification or any specification which is approved by the Board, the certification trade mark may contain words or acronyms denoting this international or foreign specification or the specification which is approved by the Board; and in relation to an application made under this section, those words and acronyms shall be deemed, for the purposes of section 56(2) of the said Act, to be inherently adapted to distinguish that commodity, process, practice and service;";
 
 <!-- page 36 -->
 
@@ -1104,19 +1440,17 @@ international or foreign specification or the specification which is approved by
 
 (i) by substituting for the word "acronym" in line 7 of paragraph (2)(d) the word "acronyms".
 
-Amendment of section 30. 29. Section 30 of the principal Act is amended—
+<!-- marginal: Amendment -->
+
+of section 30. 29. Section 30 of the principal Act is amended—
 
 (a) by inserting, immediately after the word "Licences" in the marginal note, the words "or certificates";
 
 (b) by inserting, immediately after the word "licence" wherever appearing therein, the words "or certificate,";
 
-(c) by deleting the word "or" in line 2 of subsection
+(c) by deleting the word "or" in line 2 of subsection (1) and inserting, immediately after the word "practice", the words "or service";
 
-(1) and inserting, immediately after the word "practice", the words "or service";
-
-(d) by deleting the word "or" in line 2 of subsection
-
-(2) and inserting, immediately after the word "practice" in line 3, the words "or service";
+(d) by deleting the word "or" in line 2 of subsection (2) and inserting, immediately after the word "practice" in line 3, the words "or service";
 
 (e) by inserting, immediately after the word "such" in line 6 of subsection (2), the words "terms and";
 
@@ -1132,11 +1466,7 @@ Amendment of section 30. 29. Section 30 of the principal Act is amended—
 
 (g) by inserting, immediately after the word "terms" in subsection (3)(a), the words "and conditions";
 
-(h) by substituting for paragraph (4)(a)
-
-<!-- marginal: the -->
-
-following new paragraph (a):
+(h) by substituting for paragraph (4)(a) the following new paragraph (a):
 
 "(a) submit for assessment, examination or testing samples of the commodity, or documents on the process, practice or service, in respect of which the licence or certificate, as the case may be, is applied for or has been granted;";
 
@@ -1144,19 +1474,9 @@ following new paragraph (a):
 
 (j) by substituting for subsections (5) and (6) the following:
 
-"(5) Any sample of a commodity or document on the process, practice or service required under subsection
+"(5) Any sample of a commodity or document on the process, practice or service required under subsection (4) to be submitted for assessment, examination or testing may be selected by any person authorized by the Board and shall be submitted to the Board without any charge being made by the person submitting it.
 
-<!-- marginal: (4) -->
-
-<!-- marginal: to be -->
-
-submitted for assessment, examination or testing may be selected by any person authorized by the Board and shall be submitted to the Board without any charge being made by the person submitting it.
-
-(6) When any sample of a commodity or document on the process, practice or service has been submitted or selected
-
-<!-- marginal: for -->
-
-assessment, examination or testing pursuant to this section, there shall be payable to the Board by the applicant, licensee or certificate holder, whose commodity, process, practice or service has been so submitted or selected, the reasonable costs of the assessment, examination or testing and such other costs as may reasonably be incurred in connexion with the assessment, examination or testing."; and
+(6) When any sample of a commodity or document on the process, practice or service has been submitted or selected for assessment, examination or testing pursuant to this section, there shall be payable to the Board by the applicant, licensee or certificate holder, whose commodity, process, practice or service has been so submitted or selected, the reasonable costs of the assessment, examination or testing and such other costs as may reasonably be incurred in connexion with the assessment, examination or testing."; and
 
 <!-- page 38 -->
 
@@ -1166,19 +1486,23 @@ assessment, examination or testing pursuant to this section, there shall be paya
 
 (8), the words "or certificate holder".
 
-New section
+<!-- marginal: New section -->
 
 30. The principal Act is amended by inserting,
 
-30A. immediately after section 30, the following new section 30A:
+30A. immediately after section 30, the following new section
 
-### "Accredita-
+<!-- marginal: 30A: -->
+
+<!-- marginal: "Accredita- -->
 
 30A. (1) Any person desiring to be accredited
 
-### tion
+<!-- marginal: tion -->
 
-as— certificates.
+as—
+
+<!-- marginal: certificates. -->
 
 (a) a certification agent;
 
@@ -1224,29 +1548,33 @@ he is at any time required by the Board to do so,—
 
 under paragraph (a) may appeal to the Minister whose decision shall be final.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-31. Section 32 of the principal Act is amended— of section 32.
+31. Section 32 of the principal Act is amended—
 
-(a) by substituting for the words "Yang di-Pertuan Agong" in the marginal note and in subsection
+<!-- marginal: of section 32. -->
 
-(1) the word "Minister";
+(a) by substituting for the words "Yang di-Pertuan Agong" in the marginal note and in subsection (1) the word "Minister";
 
 (b) by inserting, immediately after the word "corporation" in paragraph 1( a) the words "or company"; and
 
 (c) by substituting for the word "article" in paragraph \(b) the word "commodity".
 
-Amendment
+<!-- marginal: Amendment -->
 
-32. Section 33 of the principal Act is amended— of section 33.
+32. Section 33 of the principal Act is amended—
+
+<!-- marginal: of section 33. -->
 
 (a) by inserting, immediately after the word "thereof" in subsection (1), the words "or any misleading abbreviation or marks of the Board or any resemblance thereof"; and
 
 (b) by substituting for the words "five thousand dollars" in subsection (4) the words "ten thousand ringgit".
 
-Amendment
+<!-- marginal: Amendment -->
 
-33. Section 34 of the principal Act is amended— of section 34.
+33. Section 34 of the principal Act is amended—
+
+<!-- marginal: of section 34. -->
 
 (a) by substituting for the words "or practice" in paragraphs (a) and (b) the words "practice or service";
 
@@ -1270,37 +1598,31 @@ Amendment
 
 (f) by inserting, immediately after the word "licence" wherever appearing in paragraph (c), the words "or certificate";
 
-(x) by substituting for the comma at the end of paragraph (c) a semicolon and inserting, immediately after that paragraph, the following new paragraphs (d), (e) and (f): "(d) makes any statement or representation, whether in writing or otherwise, with reference to any commodity, process, practice or service that conveys or is likely to convey the impression that a person who is not accredited under this Act with reference to that commodity, process, practice or service
+(x) by substituting for the comma at the end of paragraph (c) a semicolon and inserting, immediately after that paragraph, the following new paragraphs (d), (e) and (f): "(d) makes any statement or representation, whether in writing or otherwise, with reference to any commodity, process, practice or service that conveys or is likely to convey the impression that a person who is not accredited under this Act with reference to that commodity, process, practice or service is so accredited; ( e) makes any statement or representation, whether in writing or otherwise, that conveys or is likely to convey the impression that a commodity, process, practice or service complies with the requirements of accreditation when it does not so comply; or
 
-<!-- marginal: is so -->
-
-accredited; ( e) makes any statement or representation, whether in writing or otherwise, that conveys or is likely to convey the impression that a commodity, process, practice or service complies with the requirements of accreditation when it does not so comply; or (f) having been accredited, uses
-
-<!-- marginal: that -->
-
-accreditation certificate after
-
-<!-- marginal: i ts -->
-
-revocation, or during its suspension, or otherwise than in accordance with the terms and conditions of
-
-<!-- marginal: the -->
-
-accreditation certificate,"; and
+(f) having been accredited, uses that accreditation certificate after i ts revocation, or during its suspension, or otherwise than in accordance with the terms and conditions of the accreditation certificate,"; and
 
 (h) by substituting for the words "ten thousand dollars" and "one hundred dollars" the words "one hundred thousand ringgit" and "one thousand ringgit" respectively.
 
-<!-- marginal: New section -->
+New section
 
-34. The principal Act is amended by inserting,
+34. The principal Act is amended by inserting, 34A. immediately after section 34, the following new section
 
-<!-- marginal: 34A. -->
+<!-- marginal: 34A: -->
 
-immediately after section 34, the following new section 34A:
+<!-- marginal: "Offences -->
 
-### "Offences
+34A. Where an offence against this Act has
 
-34A. Where an offence against this Act has committed been committed by a body corporate, any by body corporate person who at the time of the commission of
+<!-- marginal: committed -->
+
+been committed by a body corporate, any
+
+<!-- marginal: by body -->
+
+<!-- marginal: corporate -->
+
+person who at the time of the commission of
 
 <!-- page 42 -->
 
@@ -1308,11 +1630,19 @@ immediately after section 34, the following new section 34A:
 
 the offence was a director, manager, secretary or other similar officer of the body cprporate, or was purporting to act in such capacity, shall be deemed to have committed that offence unless he proves that the offence was committed without his consent or connivance and that he exercised all due diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his functions in that capacity and to all the circumstances.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-35. Section 35 of the principal Act is amended by of section 35. deleting the word "or" in line 3 and inserting, immediately after the word "practice", the words "or service".
+35. Section 35 of the principal Act is amended by
 
-Amendment of section 37. 36. Section 37 of the principal Act is amended—
+<!-- marginal: of section 35. -->
+
+deleting the word "or" in line 3 and inserting, immediately after the word "practice", the words "or
+
+<!-- marginal: service". -->
+
+<!-- marginal: Amendment -->
+
+of section 37. 36. Section 37 of the principal Act is amended—
 
 (a) by deleting the word "or" first appearing in line 1 of paragraph (1)(a) and inserting, immediately after the word "practice", the words "or service";
 
@@ -1344,7 +1674,19 @@ inserting, immediately after the word "research," the word "design,".
 
 section 40 the following new section 40:
 
-"Public 40. All members of the Board, Councils and servants. committees, the Director-General and all officers and employees of the Institute shall be deemed to be public servants within the P.M.S. meaning of the Penal Code.". Cap. 45.
+<!-- marginal: "Public -->
+
+40. All members of the Board, Councils and
+
+<!-- marginal: servants. -->
+
+committees, the Director-General and all officers and employees of the Institute shall be deemed to be public servants within the
+
+<!-- marginal: P.M.S. -->
+
+meaning of the Penal Code.".
+
+<!-- marginal: Cap. 45. -->
 
 <!-- marginal: New section -->
 
@@ -1352,11 +1694,23 @@ section 40 the following new section 40:
 
 <!-- marginal: 40A. -->
 
-immediately after section 40, the following new section 40A:
+immediately after section 40, the following new section
 
-"Public 40A, The Public Authorities Protection Act Authorities 1948 shall apply to any action, suit, Protection Act
+<!-- marginal: 40A: -->
 
-1948. prosecution or proceedings against the Board Act 198. or against any member of the Board, Council or committee, or against the Director-General or any officer or employee of the Institute in respect of any act, neglect or default done or committed by him in such capacity.".
+<!-- marginal: "Public -->
+
+40A, The Public Authorities Protection Act Authorities 1948 shall apply to any action, suit,
+
+<!-- marginal: Protection -->
+
+<!-- marginal: Act -->
+
+1948. prosecution or proceedings against the Board
+
+<!-- marginal: Act 198. -->
+
+or against any member of the Board, Council or committee, or against the Director-General or any officer or employee of the Institute in respect of any act, neglect or default done or committed by him in such capacity.".
 
 <!-- marginal: Amendment -->
 
@@ -1378,7 +1732,7 @@ immediately after section 40, the following new section 40A:
 
 (e) by substituting for the words "process, or practice" in subsection (2) the words "commodity, process, practice or service".
 
-New
+<!-- marginal: New -->
 
 41. The principal Act is amended by inserting,
 
@@ -1392,11 +1746,17 @@ immediately after section 50, the following new
 
 [Section 7(3)]
 
-### Appointment,
+<!-- marginal: Appointment, -->
 
-1. (1) A member of the Board other than the Director- revocation Generat shall, unless he sooner resigns or his and
+1. (1) A member of the Board other than the Director-
 
-### resignation
+<!-- marginal: revocation -->
+
+Generat shall, unless he sooner resigns or his
+
+<!-- marginal: and -->
+
+<!-- marginal: resignation -->
 
 appointment is sooner revoked, hold office for a term not exceeding three years and he shall be eligible for reappointment.
 
@@ -1406,9 +1766,13 @@ appointment is sooner revoked, hold office for a term not exceeding three years 
 
 (4) Every member of the Board shall devote such time to the business of the Board as is necessary to discharge his duties effectively.
 
-Vocation
+<!-- marginal: Vocation -->
 
-2. (1) The office of a member of the Board other than of office. the Director-General shall be vacated—
+2. (1) The office of a member of the Board other than
+
+<!-- marginal: of office. -->
+
+the Director-General shall be vacated—
 
 (a) if he dies;
 
@@ -1432,9 +1796,17 @@ Vocation
 
 (2) Where any person ceases to be a member of the Board by reason of any of the provisions of this Act, the Minister may appoint another person to fitl the vacancy for the remainder of the term for which the vacating member was appointed.
 
-Remunceration 3. There may be paid to members of the Board or any or allowances other person, not being an officer or employee of the Institute, such remuneration or allowances as the Minister may determine after consultation with the Minister of Finance.
+<!-- marginal: Remunceration -->
 
-Meetmgs, 4. (1) The Board shall meet as often and at such times and places as the Chairman may determine but there shalt be at least two meetings a year.
+3. There may be paid to members of the Board or any
+
+<!-- marginal: or allowances -->
+
+other person, not being an officer or employee of the Institute, such remuneration or allowances as the Minister may determine after consultation with the Minister of Finance.
+
+<!-- marginal: Meetmgs, -->
+
+4. (1) The Board shall meet as often and at such times and places as the Chairman may determine but there shalt be at least two meetings a year.
 
 (2) Meetings of the Board shall be summoned by the Secretary who shall give at least fourteen days notice of the meeting and of the business to be transacted at the meeting: Provided that where the Chairman is of the opinion that a meeting of the Board is necessary on grounds of the urgency and exigency of the business to be transacted, the Chairman shall request the Secretary to summon the meeting by giving at least three days' notice of the meeting.
 
@@ -1460,17 +1832,21 @@ Meetmgs, 4. (1) The Board shall meet as often and at such times and places as th
 
 (b) the paper clearly specifies the question for determination and the final date, which shall not be less than fourteen days after the date of despatch of the paper, for the receipt of votes by the Board.
 
-Board may
+<!-- marginal: Board may -->
 
-5. The Board may request any person, not being a invite others member of the Board, to attend any meeting or deliberation of the Board for the purpose of advising it on any matter under discussion, but any person so attending shall have no right to vote at the said meeting or deliberation.
+5. The Board may request any person, not being a
 
-Minutes.
+<!-- marginal: invite others -->
+
+member of the Board, to attend any meeting or deliberation of the Board for the purpose of advising it on any matter under discussion, but any person so attending shall have no right to vote at the said meeting or deliberation.
+
+<!-- marginal: Minutes. -->
 
 6. ( 1) The Board shall cause minutes of all its meetings to be maintained and kept in a proper form.
 
 (2) Any minutes made of meetings of the Board shall, if duly signed, be admissible in evidence in all legal proceedings without further proof and every meeting of the Board in respect of the proceedings of which minutes have been so made shall be deemed to have been duly convened and held and all members thereat to have been d u ly qualified to act.
 
-Common seal
+<!-- marginal: Common seal -->
 
 7. ( 1) The Board shall have a common seal which shall bear such device as the Board shall approve and such seal may from time to time be broken, changed, altered or made anew as the Board may think fit.
 
@@ -1488,9 +1864,21 @@ Provided that any document or instrument which if executed by a person not being
 
 (3) The common seal of the Board shall be officially and judicially noticed.
 
-Disclosure 8. A member of the Board having, directly or of interest. indirectly, any interest in any company or undertaking with which the Board proposes to make any contract or having any interest in any such contract or in any matter under discussion by the Board shall disclose to the Board the fact of his interest and the nature thereof, and such disclosure shall be recorded in the minutes of the Board and, unless specifically authorized thereto by the Chairman, such member shal! take no part in any deliberation or decision of the Board relating to the contract or matter.
+<!-- marginal: Disclosure -->
 
-Validity of 9. No act done or proceedings taken under this Act acts done shall be questioned on the ground of—
+8. A member of the Board having, directly or
+
+<!-- marginal: of interest. -->
+
+indirectly, any interest in any company or undertaking with which the Board proposes to make any contract or having any interest in any such contract or in any matter under discussion by the Board shall disclose to the Board the fact of his interest and the nature thereof, and such disclosure shall be recorded in the minutes of the Board and, unless specifically authorized thereto by the Chairman, such member shal! take no part in any deliberation or decision of the Board relating to the contract or matter.
+
+<!-- marginal: Validity of -->
+
+9. No act done or proceedings taken under this Act
+
+<!-- marginal: acts done -->
+
+shall be questioned on the ground of—
 
 (a) any vacancy in the membership of, or of any defect in the constitution of, the Board;
 
@@ -1498,7 +1886,13 @@ Validity of 9. No act done or proceedings taken under this Act acts done shall b
 
 (c) any omission, defect or irregularity not affecting the merits of the case.
 
-Procedure 10. Subject to the provisions of this Act, the Board of Board. shall determine its own procedure.".
+<!-- marginal: Procedure -->
+
+10. Subject to the provisions of this Act, the Board
+
+<!-- marginal: of Board. -->
+
+shall determine its own procedure.".
 
 <!-- page 48 -->
 

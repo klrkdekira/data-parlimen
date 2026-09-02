@@ -110,7 +110,9 @@
 
 36. Bidang kuasa tatatertib Majlis
 
-37. Hukuman tatatertib 38. Rayuan terhadap perintah Majlis
+37. Hukuman tatatertib
+
+38. Rayuan terhadap perintah Majlis
 
 39. Kemasukan semula nama dalam daftar
 

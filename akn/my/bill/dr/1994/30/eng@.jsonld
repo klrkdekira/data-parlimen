@@ -52,7 +52,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/30/eng@/~cl_1",
       "schema:text": {
         "@language": "en",
-        "@value": "This Act may be cited as the Widows' and and commence- Orphans' Pensions (Sarawak) (Amendment) Act 1994. ment."
+        "@value": "This Act may be cited as the Widows' and Orphans' Pensions (Sarawak) (Amendment) Act 1994."
       }
     },
     {
@@ -62,7 +62,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/30/eng@/~cl_1",
       "schema:text": {
         "@language": "en",
-        "@value": "This Act shall come into force on such date as the Minister may, by notification in the Gazette, appoint. Amendment"
+        "@value": "This Act shall come into force on such date as the Minister may, by notification in the Gazette, appoint."
       }
     },
     {
@@ -74,9 +74,13 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/30/eng@/~cl_2__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/30/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Widows' and Orphans' Pensions Ordinance of"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "The Widows' and Orphans' Pensions Ordinance of of section 2. Sarawak, which in this Act is referred to as the Sarawak Cap 90. \"Ordinance\", is amended in section 2—"
+        "@value": "Sarawak, which in this Act is referred to as the \"Ordinance\", is amended in section 2—"
       }
     },
     {
@@ -96,7 +100,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/30/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after the definition of \"local Federal officer\" the following definitions: ' \"local pensions authority\" means the Director General of Public Service or any officer authorised by him in writing to act on his behalf; \"Minister\" means the Minister of the Federal Government who is for the time being charged with the responsibility for pensions;'. Amendment"
+        "@value": "by inserting after the definition of \"local Federal officer\" the following definitions: ' \"local pensions authority\" means the Director General of Public Service or any officer authorised by him in writing to act on his behalf; \"Minister\" means the Minister of the Federal Government who is for the time being charged with the responsibility for pensions;'."
       }
     },
     {
@@ -108,9 +112,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/30/eng@/~cl_3__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/30/eng@",
-      "schema:text": {
+      "schema:name": {
         "@language": "en",
-        "@value": "Section 3 of the Ordinance is amended— of section 3."
+        "@value": "Section 3 of the Ordinance is amended—"
       }
     },
     {
@@ -130,7 +134,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/30/eng@/~cl_3",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after subsection (2) the following subsections: \"(2A) Members of the Board, other than the Chairman, shall hold office for such period as may be determined by the respective appointing authorities specified in subsection (2). (2s) The Board shall appoint a Secretary who shall assist the Board in the administration of the Fund.\". Amendment"
+        "@value": "by inserting after subsection (2) the following subsections: \"(2A) Members of the Board, other than the Chairman, shall hold office for such period as may be determined by the respective appointing authorities specified in subsection (2). (2s) The Board shall appoint a Secretary who shall assist the Board in the administration of the Fund.\"."
       }
     },
     {
@@ -138,9 +142,13 @@
       "@type": "akn:clause",
       "eli:number": "4",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/30/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 7 of the Ordinance is amended by"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Section 7 of the Ordinance is amended by of section 7. substituting for the words \"approved by the Minister\" the words \"appointed by the Minister\"."
+        "@value": "substituting for the words \"approved by the Minister\" the words \"appointed by the Minister\"."
       }
     }
   ]

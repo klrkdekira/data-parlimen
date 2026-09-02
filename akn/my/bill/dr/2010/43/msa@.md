@@ -22,13 +22,27 @@
 
 ## Jadual
 
-8. Kelulusan untuk memegang jawatan lain 9. Tempoh jawatan 10. Saraan dan elaun 11. Pembatalan pelantikan dan peletakan jawatan 12. Pengosongan jawatan 13. Jawatankuasa 14. Penzahiran kepentingan
+8. Kelulusan untuk memegang jawatan lain 9. Tempoh jawatan
+
+10. Saraan dan elaun
+
+11. Pembatalan pelantikan dan peletakan jawatan
+
+12. Pengosongan jawatan
+
+13. Jawatankuasa
+
+14. Penzahiran kepentingan
 
 ## BAHAGIAN III
 
 ## FUNGSI DAN KUASA PIHAK BERKUASA
 
-15. Fungsi Pihak Berkuasa 16. Kuasa Pihak Berkuasa 17. Fungsi tambahan Pihak Berkuasa
+15. Fungsi Pihak Berkuasa
+
+16. Kuasa Pihak Berkuasa
+
+17. Fungsi tambahan Pihak Berkuasa
 
 <!-- page 2 -->
 

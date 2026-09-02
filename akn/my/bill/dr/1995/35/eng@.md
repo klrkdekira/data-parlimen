@@ -22,7 +22,15 @@ III
 
 ## NATIONAL EDUCATION ADVISORY COUNCIL
 
-10. National Education Advisory Council. 11. Functions of National Education Advisory Council. 12. Right of attendance. 13. Power to make regulations in relation to National Education Advisory Council. 14. National Education Advisory Council may regulate its own procedure.
+10. National Education Advisory Council.
+
+11. Functions of National Education Advisory Council.
+
+12. Right of attendance.
+
+13. Power to make regulations in relation to National Education Advisory Council.
+
+14. National Education Advisory Council may regulate its own procedure.
 
 <!-- page 2 -->
 
@@ -124,9 +132,7 @@ IV
 
 ## Chapter 10 — Religious Teaching in Educational Institutions
 
-50. Teaching of the Islamic religion.
-
-51. Teaching of religious knowledge of a religion other than Islam.
+50. Teaching of the Islamic religion. 51. Teaching of religious knowledge of a religion other than Islam.
 
 <!-- page 4 -->
 
@@ -214,11 +220,7 @@ IV
 
 81. Provisional certificates of registration.
 
-82. Registration.
-
-83. Change in respect of educational institution premises.
-
-84. Refusal to register an educational institution.
+82. Registration. 83. Change in respect of educational institution premises. 84. Refusal to register an educational institution.
 
 85. Notice of refusal to register an educational institution.
 
@@ -232,25 +234,7 @@ IV
 
 ## Chapter 3 — Registration of Governors and Employees
 
-88. All governors and employees to be registered.
-
-89. Registration of governor or employee.
-
-90. Grounds of refusal to register a governor or an employee.
-
-91. Notice of refusal to register a governor or an employee.
-
-92. Appeal against refusal to register a governor or an employee.
-
-93. Power of Registrar General to strike off the register a governor or an employee.
-
-94. Retirement of governors and employees.
-
-95. Persons struck off the register to be notified.
-
-96. Appeal against striking off the register.
-
-97. Surrender of certificate of registration.
+88. All governors and employees to be registered. 89. Registration of governor or employee. 90. Grounds of refusal to register a governor or an employee. 91. Notice of refusal to register a governor or an employee. 92. Appeal against refusal to register a governor or an employee. 93. Power of Registrar General to strike off the register a governor or an employee. 94. Retirement of governors and employees. 95. Persons struck off the register to be notified. 96. Appeal against striking off the register. 97. Surrender of certificate of registration.
 
 ## Chapter 4 — Registration of Pupils
 
@@ -370,33 +354,13 @@ IX
 
 133. Offences and penalties relating to registration of teachers.
 
-134. Offences and penalties relating to Inspectors.
-
-135. General penalty.
-
-136. Power to investigate.
-
-137. Power to enter without warrant.
-
-138. Institution and conduct of prosecution.
-
-139. Power to compound offences.
+134. Offences and penalties relating to Inspectors. 135. General penalty. 136. Power to investigate. 137. Power to enter without warrant. 138. Institution and conduct of prosecution. 139. Power to compound offences.
 
 ## PART XV
 
 ## MISCELLANEOUS
 
-140. Officers deemed to be public servants.
-
-141. Requirements as to premises.
-
-142. Enrolment of pupils in government or government-aided educational institutions.
-
-143. Power to exempt educational institutions.
-
-144. Special Committee.
-
-145. Service of notices, etc.
+140. Officers deemed to be public servants. 141. Requirements as to premises. 142. Enrolment of pupils in government or government-aided educational institutions. 143. Power to exempt educational institutions. 144. Special Committee. 145. Service of notices, etc.
 
 <!-- page 9 -->
 
@@ -466,9 +430,19 @@ Now, THEREFORE, BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong w
 
 ## PRELIMINARY
 
-Short
+<!-- marginal: Short -->
 
-1. This Act may be cited as the Education Act 1995 title and and shall come into force on a date to be appointed by commence- ment. the Minister by notification in the Gazette, and the Minister may appoint different dates for different provisions of this Act.
+1. This Act may be cited as the Education Act 1995
+
+<!-- marginal: title and -->
+
+and shall come into force on a date to be appointed by
+
+<!-- marginal: commence- -->
+
+<!-- marginal: ment. -->
+
+the Minister by notification in the Gazette, and the Minister may appoint different dates for different provisions of this Act.
 
 <!-- page 13 -->
 
@@ -702,19 +676,43 @@ from amongst the officers in the Education Service.
 
 ## BILL
 
-State
+<!-- marginal: State -->
 
-4. There shall be— Directors of Education
+4. There shall be—
 
-(a) for each State or for such other area in Malaysia and other as may be determined by the Minister a Director Education of Education; and Officers.
+<!-- marginal: Directors of -->
+
+<!-- marginal: Education -->
+
+(a) for each State or for such other area in Malaysia
+
+<!-- marginal: and other -->
+
+as may be determined by the Minister a Director
+
+<!-- marginal: Education -->
+
+of Education; and
+
+<!-- marginal: Officers. -->
 
 (b) for each district or for such other area in a State as may be determined by the Minister an Education Officer designed as such for the purposes of this Act,
 
 who shall be appointed by the Minister.
 
-Registrar
+<!-- marginal: Registrar -->
 
-5. (1) There shall be a Registrar General of Schools General of and Teachers who shall be appointed by the Minister. Schools and Teachers. (2) The Minister may appoint a Deputy Registrar General of Schools and Teachers.
+5. (1) There shall be a Registrar General of Schools
+
+<!-- marginal: General of -->
+
+and Teachers who shall be appointed by the Minister.
+
+<!-- marginal: Schools and -->
+
+<!-- marginal: Teachers. -->
+
+(2) The Minister may appoint a Deputy Registrar General of Schools and Teachers.
 
 (3) The Minister shall appoint a Registrar of Schools and Teachers for each State, and may appoint such numbers of Assistant Registrars of Schools and Assistant Registrars of Teachers as may be considered necessary for the purposes of this Act.
 
@@ -724,9 +722,21 @@ Registrar
 
 (6) The Registrar or Assistant Registrar may exercise all the powers and functions conferred on the Registrar General by or under this Act, subject to any restriction that may be imposed by the Registrar General.
 
-Chief
+<!-- marginal: Chief -->
 
-6. (1) The Minister shall appoint a Chief Inspector of Inspector of Schools. Schools and Inspectors of Schools. (2) The Minister shall appoint such other Inspectors of Schools as may be considered necessary for the purposes of this Act.
+6. (1) The Minister shall appoint a Chief Inspector of
+
+<!-- marginal: Inspector of -->
+
+Schools.
+
+<!-- marginal: Schools and -->
+
+<!-- marginal: Inspectors of -->
+
+<!-- marginal: Schools. -->
+
+(2) The Minister shall appoint such other Inspectors of Schools as may be considered necessary for the purposes of this Act.
 
 <!-- page 21 -->
 
@@ -788,29 +798,75 @@ III
 
 ## NATIONAL EDUCATION ADVISORY COUNCIL
 
-National
+<!-- marginal: National -->
 
-10. ( I) There may be established for the purposes of Education this Act a National Education Advisory Council. Advisory Council. (2) The National Education Advisory Council shall consist of a chairman and such other persons as may be appointed by the Minister.
+10. ( I) There may be established for the purposes of
+
+<!-- marginal: Education -->
+
+this Act a National Education Advisory Council.
+
+<!-- marginal: Advisory -->
+
+<!-- marginal: Council. -->
+
+(2) The National Education Advisory Council shall consist of a chairman and such other persons as may be appointed by the Minister.
 
 (3) Subject to regulations made under this Part, each member of the National Education Advisory Council shall hold office for such term and subject to such conditions as may be specified in his letter of appointment.
 
 (4) Any appointment made under this section shall be published in the Gazette.
 
-Functions of
+<!-- marginal: Functions of -->
 
-11. (1) The Minister may refer to the National Education National Advisory Council any matter relating to education for Education Advisory its advice. Council
+11. (1) The Minister may refer to the National Education
+
+<!-- marginal: National -->
+
+Advisory Council any matter relating to education for
+
+<!-- marginal: Education -->
+
+<!-- marginal: Advisory -->
+
+its advice.
+
+<!-- marginal: Council -->
 
 (2) The National Education Advisory Council shall, when any matter is referred to it under subsection (1), consider such matter and submit to the Minister its advice thereon.
 
-Right of
+<!-- marginal: Right of -->
 
-12. The Minister may attend, and may nominate attendance. representatives to attend, any meeting of the National Education Advisory Council.
+12. The Minister may attend, and may nominate
 
-Power
+<!-- marginal: attendance. -->
 
-13. The Minister may make regulations for the purpose to make of giving effect to the provisions of this Part, and, without regulations prejudice to the generality of such power, may by the in relation to National regulations provide for— Education Advisory
+representatives to attend, any meeting of the National Education Advisory Council.
 
-(a) the number of members of the Council; Council
+<!-- marginal: Power -->
+
+13. The Minister may make regulations for the purpose
+
+<!-- marginal: to make -->
+
+of giving effect to the provisions of this Part, and, without
+
+<!-- marginal: regulations -->
+
+prejudice to the generality of such power, may by the
+
+<!-- marginal: in relation -->
+
+<!-- marginal: to National -->
+
+regulations provide for—
+
+<!-- marginal: Education -->
+
+<!-- marginal: Advisory -->
+
+(a) the number of members of the Council;
+
+<!-- marginal: Council -->
 
 (b) the terms and conditions of office of members;
 
@@ -912,9 +968,19 @@ under section 28 or any other educational institution exempted by the Minister f
 
 (2) Where the main medium of instruction in an educational institution is other than the national language, the national language shall be taught as a compulsory subject in the educational institution.
 
-National
+<!-- marginal: National -->
 
-18. (1) The Minister shall prescribe a curriculum to be Curriculum known as the National Curriculum which, subject to to be used by all schools. subsection (3), shall be used by all schools in the National Education System.
+18. (1) The Minister shall prescribe a curriculum to be
+
+<!-- marginal: Curriculum -->
+
+known as the National Curriculum which, subject to
+
+<!-- marginal: to be used -->
+
+<!-- marginal: by all schools. -->
+
+subsection (3), shall be used by all schools in the National Education System.
 
 (2) The National Curriculum prescribed under subsection (1) shall specify the knowledge, skills and values that are expected to be acquired by pupils at the end of their respective periods of schooling and shall include the core subjects as set out in the Schedule and such other subjects as may be prescribed.
 
@@ -924,15 +990,47 @@ National
 
 ## Schedule.
 
-Schools to
+<!-- marginal: Schools to -->
 
-19. Every school shall prepare its pupils for examinations prepare prescribed by or under this Act or any regulations made pupils for prescribed under this Act unless otherwise exempted by or under examinations. this Act.
+19. Every school shall prepare its pupils for examinations
+
+<!-- marginal: prepare -->
+
+prescribed by or under this Act or any regulations made
+
+<!-- marginal: pupils for -->
+
+<!-- marginal: prescribed -->
+
+under this Act unless otherwise exempted by or under
+
+<!-- marginal: examinations. -->
+
+this Act.
 
 ## Chapter 2 — Pre-School Education
 
-Prohibition
+<!-- marginal: Prohibition -->
 
-20. (1) No kindergarten shall be established, operated against the or managed unless it is registered under this Act. establishment. operation or management (2) A person who contravenes subsection (1) shall of kindergartens. be guilty of an offence.
+20. (1) No kindergarten shall be established, operated
+
+<!-- marginal: against the -->
+
+or managed unless it is registered under this Act.
+
+<!-- marginal: establishment. -->
+
+<!-- marginal: operation or -->
+
+<!-- marginal: management -->
+
+(2) A person who contravenes subsection (1) shall
+
+<!-- marginal: of -->
+
+<!-- marginal: kindergartens. -->
+
+be guilty of an offence.
 
 <!-- page 25 -->
 
@@ -986,7 +1084,7 @@ out of the provisions of this Chapter.
 
 <!-- marginal: education. -->
 
-## Chapter 2 not
+<!-- marginal: Chapter 2 not -->
 
 25. The provisions of this Chapter shall not apply to a
 
@@ -1060,9 +1158,19 @@ designed for a duration of six years but which may be completed within five to s
 
 ## Chapter 4 — Secondary Education
 
-Minister
+<!-- marginal: Minister -->
 
-30. (1) It shall be the duty of the Minister to provide to provide secondary education in the following national secondary secondary education schools:
+30. (1) It shall be the duty of the Minister to provide
+
+<!-- marginal: to provide -->
+
+secondary education in the following national secondary
+
+<!-- marginal: secondary -->
+
+<!-- marginal: education -->
+
+schools:
 
 (a) academic secondary schools;
 
@@ -1072,19 +1180,41 @@ Minister
 
 (2) Subject to the provisions of this Act, the Minister may provide upper secondary education in any national secondary school.
 
-Establishment
+<!-- marginal: Establishment -->
 
-31. Subject to the provisions of this Act, the Minister and may establish and maintain any of the schools described maintenance of secondary in section 30. schools.
+31. Subject to the provisions of this Act, the Minister
 
-Transition
+<!-- marginal: and -->
 
-32. The Minister may provide for a transition class in class any academic national secondary school.
+may establish and maintain any of the schools described
+
+<!-- marginal: maintenance -->
+
+<!-- marginal: of secondary -->
+
+in section 30.
+
+<!-- marginal: schools. -->
+
+<!-- marginal: Transition -->
+
+32. The Minister may provide for a transition class in
+
+<!-- marginal: class -->
+
+any academic national secondary school.
 
 ## Chapter 5 — Post-Secondary Education
 
-Post-
+<!-- marginal: Post- -->
 
-33. The Minister may provide post-secondary education secondary in— education.
+33. The Minister may provide post-secondary education
+
+<!-- marginal: secondary -->
+
+in—
+
+<!-- marginal: education. -->
 
 (a) the national secondary schools described in paragraphs 30(1 )(a) and (l)(b);
 
@@ -1118,7 +1248,11 @@ and University Colleges Act 1971;
 
 (c) polytechnics; and
 
-(d) any other educational institution, the establishment or maintenance of which is not provided for under this Act or the Universities
+(d) any other educational institution,
+
+<!-- marginal: the -->
+
+establishment or maintenance of which is not provided for under this Act or the Universities
 
 <!-- marginal: Act 30. -->
 
@@ -1170,17 +1304,59 @@ section 30; or
 
 (d) such other technical or vocational training as may be approved by the Minister.
 
-Polytechnics
+<!-- marginal: Polytechnics -->
 
-36. A polytechnic established under paragraph 34(l)(c) may offer may— courses of study and
+36. A polytechnic established under paragraph 34(l)(c)
 
-(a) offer courses of study and training programmes award qualifications approved by the Minister; and approved by the Minister.
+<!-- marginal: may offer -->
+
+may—
+
+<!-- marginal: courses of -->
+
+<!-- marginal: study and -->
+
+(a) offer courses of study and training programmes
+
+<!-- marginal: award -->
+
+<!-- marginal: qualifications -->
+
+approved by the Minister; and
+
+<!-- marginal: approved by -->
+
+<!-- marginal: the Minister. -->
 
 (b) award certificates, diplomas or such other qualifications as may be prescribed.
 
-Collaboration
+<!-- marginal: Collaboration -->
 
-37. (1) Subject to the approval of the Minister, a with other polytechnic established under this Act may, in institutions and industrial collaboration with any institution, corporation or industrial organizations organization, conduct technical or vocational courses or in technical and vocational training programmes (including exchange programmes) education. which the Minister deems expedient for the purposes of—
+37. (1) Subject to the approval of the Minister, a
+
+<!-- marginal: with other -->
+
+polytechnic established under this Act may, in
+
+<!-- marginal: institutions -->
+
+<!-- marginal: and industrial -->
+
+collaboration with any institution, corporation or industrial
+
+<!-- marginal: organizations -->
+
+organization, conduct technical or vocational courses or
+
+<!-- marginal: in technical -->
+
+<!-- marginal: and vocational -->
+
+training programmes (including exchange programmes)
+
+<!-- marginal: education. -->
+
+which the Minister deems expedient for the purposes of—
 
 (a) giving effect to the transfer of technology;
 
@@ -1194,9 +1370,33 @@ polytechnic; and
 
 (2) The approval given under subsection (1) may be subject to such terms and conditions as the Minister may impose.
 
-Provisions as
+<!-- marginal: Provisions as -->
 
-38. (1) A polytechnic established under this Act may, to courses with the approval of the Minister, conduct courses of of study in respect of study or training programmes for diplomas, certificates degrees or other forms of recognition of a qualification conferred conferred by universities, by any university or other institution of higher education etc. within Malaysia or outside Malaysia.
+38. (1) A polytechnic established under this Act may,
+
+<!-- marginal: to courses -->
+
+with the approval of the Minister, conduct courses of
+
+<!-- marginal: of study in -->
+
+<!-- marginal: respect of -->
+
+study or training programmes for diplomas, certificates
+
+<!-- marginal: degrees -->
+
+or other forms of recognition of a qualification conferred
+
+<!-- marginal: conferred by -->
+
+<!-- marginal: universities, -->
+
+by any university or other institution of higher education
+
+<!-- marginal: etc. -->
+
+within Malaysia or outside Malaysia.
 
 <!-- page 29 -->
 
@@ -1262,11 +1462,27 @@ expedient.
 
 ## BILL
 
-Power to
+<!-- marginal: Power to -->
 
-41. (1) Subject to subsections (2) and (3), the Minister prescribe the duration may by regulations prescribe— of and curriculum
+41. (1) Subject to subsections (2) and (3), the Minister
 
-(a) the duration of primary and secondary education on special education. suitable to the needs of a pupil in receipt of special education;
+<!-- marginal: prescribe -->
+
+<!-- marginal: the duration -->
+
+may by regulations prescribe—
+
+<!-- marginal: of and -->
+
+<!-- marginal: curriculum -->
+
+(a) the duration of primary and secondary education
+
+<!-- marginal: on special -->
+
+<!-- marginal: education. -->
+
+suitable to the needs of a pupil in receipt of special education;
 
 (b) the curriculum to be used in respect of special education;
 
@@ -1280,13 +1496,33 @@ Power to
 
 ## Chapter 9 — Teacher Education
 
-Restriction on
+<!-- marginal: Restriction on -->
 
-42. No person shall establish or maintain a teacher establishment of teacher education college except with the approval of the Minister. education colleges.
+42. No person shall establish or maintain a teacher
 
-Registration
+<!-- marginal: establishment -->
 
-43. All teacher education colleges, the establishment or of teacher education maintenance of which have been approved under section colleges. 42, shall be registered under this Act.
+<!-- marginal: of teacher -->
+
+education college except with the approval of the Minister.
+
+<!-- marginal: education -->
+
+<!-- marginal: colleges. -->
+
+<!-- marginal: Registration -->
+
+43. All teacher education colleges, the establishment or
+
+<!-- marginal: of teacher -->
+
+<!-- marginal: education -->
+
+maintenance of which have been approved under section
+
+<!-- marginal: colleges. -->
+
+42, shall be registered under this Act.
 
 <!-- page 31 -->
 
@@ -1390,9 +1626,23 @@ institution of higher education within Malaysia or outside Malaysia.
 
 ## BILL
 
-Instrument of
+<!-- marginal: Instrument of -->
 
-48. (1) Except for teacher education colleges established government and maintained by the Minister under section 45, every for teacher teacher education college established under this Act shall education colleges. have an instrument of government.
+48. (1) Except for teacher education colleges established
+
+<!-- marginal: government -->
+
+and maintained by the Minister under section 45, every
+
+<!-- marginal: for teacher -->
+
+teacher education college established under this Act shall
+
+<!-- marginal: education -->
+
+<!-- marginal: colleges. -->
+
+have an instrument of government.
 
 (2) Every instrument of government under this section shall be approved by, and shall be deposited with, the Registrar General at the time of registration.
 
@@ -1400,7 +1650,27 @@ Instrument of
 
 (4) Every instrument of government under this section shall be made, amended or revoked in such manner as may be prescribed.
 
-49. The Minister may make regulations for the carrying Power to make into effect of the provisions of this Chapter and, without regulations prejudice to the generality of such power, the regulations in relation to teacher may provide for— education colleges
+49. The Minister may make regulations for the carrying
+
+<!-- marginal: Power -->
+
+<!-- marginal: to make -->
+
+into effect of the provisions of this Chapter and, without
+
+<!-- marginal: regulations -->
+
+prejudice to the generality of such power, the regulations
+
+<!-- marginal: in relation to -->
+
+<!-- marginal: teacher -->
+
+may provide for—
+
+<!-- marginal: education -->
+
+<!-- marginal: colleges -->
 
 (a) the establishment of a board or body to carry out evaluation or assessment or to conduct examinations for teacher education;
 
@@ -1476,17 +1746,59 @@ or to any of them but—
 
 (b) no pupil shall attend teaching in a religion other than that which he professes, except with the written consent of his parent.
 
-Financial
+<!-- marginal: Financial -->
 
-52. Subject to such conditions and limitations as the assistance Minister may deem fit to impose, financial assistance by to Islamic educational way of grant may be given out of monies provided by institution not Parliament to an Islamic educational institution which is established or maintained by not maintained by the Minister under this Act or by the the Minister Government of a State and which is either an educational or State Government. institution within the meaning of this Act or is not such an educational institution only because the teaching therein is confined exclusively to the teaching of the religion of Islam.
+52. Subject to such conditions and limitations as the
+
+<!-- marginal: assistance -->
+
+Minister may deem fit to impose, financial assistance by
+
+<!-- marginal: to Islamic -->
+
+<!-- marginal: educational -->
+
+way of grant may be given out of monies provided by
+
+<!-- marginal: institution not -->
+
+Parliament to an Islamic educational institution which is
+
+<!-- marginal: established or -->
+
+<!-- marginal: maintained by -->
+
+not maintained by the Minister under this Act or by the
+
+<!-- marginal: the Minister -->
+
+Government of a State and which is either an educational
+
+<!-- marginal: or State -->
+
+<!-- marginal: Government. -->
+
+institution within the meaning of this Act or is not such an educational institution only because the teaching therein is confined exclusively to the teaching of the religion of Islam.
 
 ## Chapter 11 — Management of Educational
 
 Institutions
 
-Instrument of
+<!-- marginal: Instrument of -->
 
-53. (1) Subject to the provisions of this Act, every government educational institution shall have an instrument of for educational government. institutions.
+53. (1) Subject to the provisions of this Act, every
+
+<!-- marginal: government -->
+
+educational institution shall have an instrument of
+
+<!-- marginal: for -->
+
+<!-- marginal: educational -->
+
+government.
+
+<!-- marginal: institutions. -->
 
 (2) Every instrument of government shall provide for the constitution of a board of governors, with a chairman, for the management of the educational institution by the governors in a manner not inconsistent with this Act and any regulations made under this Act.
 
@@ -1494,9 +1806,29 @@ Instrument of
 
 (4) Every instrument of government shall be made, amended or revoked in such manner as may be prescribed.
 
-Power
+<!-- marginal: Power -->
 
-54. (1) The Minister may make regulations for the to make establishment of a board of governors and for the regulations in relation to management of an educational institution by a board of instruments governors and, without prejudice to the generality of of government. such power, the Minister may, in the regulations, prescribe the duties of the governors and other persons responsible for the management of educational institutions.
+54. (1) The Minister may make regulations for the
+
+<!-- marginal: to make -->
+
+establishment of a board of governors and for the
+
+<!-- marginal: regulations -->
+
+<!-- marginal: in relation to -->
+
+management of an educational institution by a board of
+
+<!-- marginal: instruments -->
+
+governors and, without prejudice to the generality of
+
+<!-- marginal: of -->
+
+<!-- marginal: government. -->
+
+such power, the Minister may, in the regulations, prescribe the duties of the governors and other persons responsible for the management of educational institutions.
 
 <!-- page 35 -->
 
@@ -1556,15 +1888,45 @@ he may appoint by name such additional governors of the educational institution 
 
 <!-- page 36 -->
 
-Appointment
+<!-- marginal: Appointment -->
 
-57. Subject to the other provisions of this Act and any of teachers regulations made under this Act, teachers in an educational under instrument of institution other than a government or government-aided government educational institution shall be appointed in accordance and Act. with the instrument of government.
+57. Subject to the other provisions of this Act and any
 
-Power of
+<!-- marginal: of teachers -->
 
-58. (1) If the Minister is satisfied that in an educational Minister in institution— relation to exercise of
+regulations made under this Act, teachers in an educational
 
-(a) the governors have been acting or are proposing functions, etc to act unreasonably with respect to the exercise of any power conferred or the discharge of any duty imposed by or under this Act; or
+<!-- marginal: under -->
+
+<!-- marginal: instrument of -->
+
+institution other than a government or government-aided
+
+<!-- marginal: government -->
+
+educational institution shall be appointed in accordance
+
+<!-- marginal: and Act. -->
+
+with the instrument of government.
+
+<!-- marginal: Power of -->
+
+58. (1) If the Minister is satisfied that in an educational
+
+<!-- marginal: Minister in -->
+
+institution—
+
+<!-- marginal: relation to -->
+
+<!-- marginal: exercise of -->
+
+(a) the governors have been acting or are proposing
+
+<!-- marginal: functions, etc -->
+
+to act unreasonably with respect to the exercise of any power conferred or the discharge of any duty imposed by or under this Act; or
 
 (b) the governors have failed to discharge any duty imposed upon them by or under this Act,
 
@@ -1576,13 +1938,35 @@ the Minister may—
 
 (2) If at any time, for an educational institution, there is no board of governors constituted under this Act the Minister may appoint such person or persons as he may think fit to exercise the functions of governors for the institution for such period as he may direct.
 
-Dissolution
+<!-- marginal: Dissolution -->
 
-59. (1) The Minister may, after giving the board of of board of governors of a government or government-aided governors of government educational institution an opportunity
+59. (1) The Minister may, after giving the board of
+
+<!-- marginal: of board of -->
+
+governors of a government or government-aided
+
+<!-- marginal: governors of -->
+
+<!-- marginal: government -->
+
+educational institution an opportunity
 
 <!-- marginal: to make -->
 
-or representations in accordance with regulations made under government- aided this Act, by notice in writing addressed to and served educational institution.
+<!-- marginal: or -->
+
+representations in accordance with regulations made under
+
+<!-- marginal: government- -->
+
+<!-- marginal: aided -->
+
+this Act, by notice in writing addressed to and served
+
+<!-- marginal: educational -->
+
+<!-- marginal: institution. -->
 
 <!-- page 37 -->
 
@@ -1650,11 +2034,25 @@ the educational institution or by such other person as the Minister may nominate
 
 (3) After the dissolution of a board of governors of a government or government-aided educational institution under section 59 sections 53, 54, 55, 56, 57 and 87 shall not apply to the educational institution.
 
-Dissolution
+<!-- marginal: Dissolution -->
 
-62. (1) Every board of managers or board of governors of board of of a government educational institution except— managers or governors of
+62. (1) Every board of managers or board of governors
 
-(a) a government national-type primary school; and government educational institution.
+<!-- marginal: of board of -->
+
+of a government educational institution except—
+
+<!-- marginal: managers or -->
+
+<!-- marginal: governors of -->
+
+(a) a government national-type primary school; and
+
+<!-- marginal: government -->
+
+<!-- marginal: educational -->
+
+<!-- marginal: institution. -->
 
 (b) a government national primary school or government national secondary school to be determined by the Minister,
 
@@ -1668,9 +2066,13 @@ established prior to the appointed date, shall be dissolved on that date in such
 
 (c) sections 53, 54, 55, 56, 59 and 87 shall not apply to the government educational institution.
 
-Inter-
+<!-- marginal: Inter- -->
 
-63. References to a board of governors in this Chapter pretation. shall, in relation to Sabah, include a Management Committee and, in relation to Sarawak, include a Committee of Management.
+63. References to a board of governors in this Chapter
+
+<!-- marginal: pretation. -->
+
+shall, in relation to Sabah, include a Management Committee and, in relation to Sarawak, include a Committee of Management.
 
 <!-- page 39 -->
 
@@ -1722,21 +2124,29 @@ is reasonable and practicable so to do, provide for the medical and dental inspe
 
 <!-- page 40 -->
 
-Boarding
+<!-- marginal: Boarding -->
 
-66. Without prejudice to the generality of the power facilities. conferred by section 64, the Minister may, where pupils cannot reasonably be provided with the requisite education or training unless boarding accommodation is provided, make such arrangements for the accommodation (whether free or subject to such charges as the arrangements provide) as he may consider appropriate.
+66. Without prejudice to the generality of the power
+
+<!-- marginal: facilities. -->
+
+conferred by section 64, the Minister may, where pupils cannot reasonably be provided with the requisite education or training unless boarding accommodation is provided, make such arrangements for the accommodation (whether free or subject to such charges as the arrangements provide) as he may consider appropriate.
 
 ## PART V
 
 ## ASSESSMENT AND EXAMINATION
 
-Assessment
+<!-- marginal: Assessment -->
 
-67. (1) The Minister may prescribe the manner in which of pupils. pupils in primary and secondary schools shall be assessed and the standards to be achieved by the pupils,
+67. (1) The Minister may prescribe the manner in which
+
+<!-- marginal: of pupils. -->
+
+pupils in primary and secondary schools shall be assessed and the standards to be achieved by the pupils,
 
 (2) The assessment prescribed under subsection (1) shall be in addition to any prescribed examination.
 
-Examinations.
+<!-- marginal: Examinations. -->
 
 68. The Minister may make regulations to provide for-
 
@@ -1810,15 +2220,45 @@ under the Malaysian Examinations Council Act 1980; and
 
 ## HIGHER EDUCATION
 
-Minister
+<!-- marginal: Minister -->
 
-70. The Minister may provide higher education in higher to be educational institutions in accordance with any written responsible for higher law relating to higher education and shall be responsible education. for the general direction thereof.
+70. The Minister may provide higher education in higher
 
-Establish-
+<!-- marginal: to be -->
 
-71. No person shall— ment of higher educational
+educational institutions in accordance with any written
 
-(a) establish, form, promote or carry on any activity institutions, for the purpose of establishing or forming, or etc. is prohibited. towards the establishment or formation of, a higher educational institution;
+<!-- marginal: responsible -->
+
+<!-- marginal: for higher -->
+
+law relating to higher education and shall be responsible
+
+<!-- marginal: education. -->
+
+for the general direction thereof.
+
+<!-- marginal: Establish- -->
+
+71. No person shall—
+
+<!-- marginal: ment of -->
+
+<!-- marginal: higher -->
+
+<!-- marginal: educational -->
+
+(a) establish, form, promote or carry on any activity
+
+<!-- marginal: institutions, -->
+
+for the purpose of establishing or forming, or
+
+<!-- marginal: etc. is -->
+
+<!-- marginal: prohibited. -->
+
+towards the establishment or formation of, a higher educational institution;
 
 (b) collect, give or receive any monies, contributions, gifts or donations, or do any act or carry on any activity for the purpose of establishing or forming a higher educational institution;
 
@@ -1832,7 +2272,7 @@ except in accordance with any written law on higher education.
 
 ## EDUCATION
 
-43
+<!-- marginal: 43 -->
 
 <!-- marginal: Penalty. -->
 
@@ -1944,13 +2384,63 @@ based on the prescribed curriculum.
 
 (1)(e) shall be taught in addition to any other subject or course of study taught in the private educational institutions.
 
-Power to
+<!-- marginal: Power to -->
 
-76. The Minister may make regulations for the make supervision, regulation or control of the standard of regulations for education in private educational institutions. supervision and control of standard of education.
+76. The Minister may make regulations for the
 
-Prohibition
+<!-- marginal: make -->
 
-77. (1) No private educational institution shall conduct as to any course of study or training programme jointly or in courses of study association, affiliation, collaboration or otherwise, with and training in respect a university or institution of higher education or other of degrees, educational institution or organization within or outside etc. conferred by Malaysia, except with the approval in writing of the universities, etc Minister.
+supervision, regulation or control of the standard of
+
+<!-- marginal: regulations -->
+
+<!-- marginal: for -->
+
+education in private educational institutions.
+
+<!-- marginal: supervision -->
+
+<!-- marginal: and control -->
+
+<!-- marginal: of standard -->
+
+<!-- marginal: of education. -->
+
+<!-- marginal: Prohibition -->
+
+77. (1) No private educational institution shall conduct
+
+<!-- marginal: as to -->
+
+any course of study or training programme jointly or in
+
+<!-- marginal: courses -->
+
+<!-- marginal: of study -->
+
+association, affiliation, collaboration or otherwise, with
+
+<!-- marginal: and training -->
+
+<!-- marginal: in respect -->
+
+a university or institution of higher education or other
+
+<!-- marginal: of degrees, -->
+
+educational institution or organization within or outside
+
+<!-- marginal: etc. -->
+
+<!-- marginal: conferred by -->
+
+Malaysia, except with the approval in writing of the
+
+<!-- marginal: universities, -->
+
+<!-- marginal: etc -->
+
+Minister.
 
 (2) The Minister shall not give his approval under subsection (1) unless he is satisfied that the private educational institution has made suitable arrangements with the university or institution of higher education or other educational institution or organization as to the facilities for the provision of the course of study or training programme referred to in the subsection.
 
@@ -2038,7 +2528,7 @@ his discretion, issue to the person who is to act as chairman of the board of go
 
 ## BILL
 
-Registration.
+<!-- marginal: Registration. -->
 
 82. (1) Without prejudice to section 81 and subject to subsection (3) and section 83, the Registrar General shall, upon an application for the registration of an educational institution duly made and after such inquiry as he may think necessary, and upon payment of such fee as may be prescribed, register the educational institution and issue to the chairman of the board of governors or to the person responsible for the management of the educational institution a certificate of registration.
 
@@ -2046,15 +2536,37 @@ Registration.
 
 (3) The Registrar General may impose such conditions precedent to registration as he deems fit.
 
-Change in
+<!-- marginal: Change in -->
 
-83. (1) No educational institution shall change the respect of address of its premises or make any alteration to the educational institution premises without the prior approval of the Registrar premises. General.
+83. (1) No educational institution shall change the
+
+<!-- marginal: respect of -->
+
+address of its premises or make any alteration to the
+
+<!-- marginal: educational -->
+
+<!-- marginal: institution -->
+
+premises without the prior approval of the Registrar
+
+<!-- marginal: premises. -->
+
+General.
 
 (2) An application for a change of address of the premises of an educational institution or alteration to the premises shall be made to the Registrar General in such form and manner as may be prescribed.
 
-Refusal to
+<!-- marginal: Refusal to -->
 
-84. The Registrar General may refuse to register an register an educational institution if he is satisfied— educational institution.
+84. The Registrar General may refuse to register an
+
+<!-- marginal: register an -->
+
+educational institution if he is satisfied—
+
+<!-- marginal: educational -->
+
+<!-- marginal: institution. -->
 
 (a) that the educational institution does not satisfy the prescribed standards of health and safety;
 
@@ -2118,9 +2630,29 @@ or otherwise, unless the educational institution has been registered or a provis
 
 ## Chapter 2 — Cancellation of Registration
 
-Ground for
+<!-- marginal: Ground for -->
 
-87. (1) The Registrar General may serve on the chairman cancellation of the board of governors or any person responsible for of registration the management of an educational institution a notice of of an intention to cancel the registration of the educational educational institution. institution if he is satisfied that it is expedient so to do on any of the following grounds:
+87. (1) The Registrar General may serve on the chairman
+
+<!-- marginal: cancellation -->
+
+of the board of governors or any person responsible for
+
+<!-- marginal: of -->
+
+<!-- marginal: registration -->
+
+the management of an educational institution a notice of
+
+<!-- marginal: of an -->
+
+intention to cancel the registration of the educational
+
+<!-- marginal: educational -->
+
+<!-- marginal: institution. -->
+
+institution if he is satisfied that it is expedient so to do on any of the following grounds:
 
 (a) the ground specified in paragraph 84(a);
 
@@ -2194,9 +2726,23 @@ a permit, in such form as may be prescribed, to act in that capacity, and while 
 
 (3) A permit issued under subsection (2) may be revoked by the Registrar General at any time and, in the case of a person applying for registration, shall cease to be in force upon the registration under this Act of the person to whom the permit is issued.
 
-Grounds
+<!-- marginal: Grounds -->
 
-90. (1) The Registrar General may refuse to register a of refusal person as a governor or employee of an educational to register a governor institution if— or an employee.
+90. (1) The Registrar General may refuse to register a
+
+<!-- marginal: of refusal -->
+
+person as a governor or employee of an educational
+
+<!-- marginal: to register -->
+
+<!-- marginal: a governor -->
+
+institution if—
+
+<!-- marginal: or an -->
+
+<!-- marginal: employee. -->
 
 (a) the person has been convicted of an offence by a court of law and sentenced to imprisonment for a term of not less than one year or to a fine of not less than two thousand ringgit;
 
@@ -2320,33 +2866,85 @@ of the board of governors of the educational institution or a person authorised 
 
 ## BILL
 
-Persons
+<!-- marginal: Persons -->
 
-95. When a person has been struck off the register under struck off section 93 or 94 the Registrar General shall forthwith the register inform him by notice in writing that he has been so to be notified. struck off and of the grounds thereof.
+95. When a person has been struck off the register under
 
-Appeal
+<!-- marginal: struck off -->
 
-96. A person struck off the register under section 93 or against 94 may, within twenty-one days of the notice being served striking off the upon him in accordance with section 95, appeal to the register. Minister.
+section 93 or 94 the Registrar General shall forthwith
 
-Surrender of
+<!-- marginal: the register -->
 
-97. (1) A person who has been struck off the register certificate shall, within twenty-one days of the service of the notice of registration. under section 95, surrender to the Registrar General the certificate of registration issued to him under this Act or any previous written law relating to the registration of a governor or an employee, as the case may be, of an educational institution.
+inform him by notice in writing that he has been so
+
+<!-- marginal: to be -->
+
+<!-- marginal: notified. -->
+
+struck off and of the grounds thereof.
+
+<!-- marginal: Appeal -->
+
+96. A person struck off the register under section 93 or
+
+<!-- marginal: against -->
+
+94 may, within twenty-one days of the notice being served
+
+<!-- marginal: striking -->
+
+<!-- marginal: off the -->
+
+upon him in accordance with section 95, appeal to the
+
+<!-- marginal: register. -->
+
+Minister.
+
+<!-- marginal: Surrender of -->
+
+97. (1) A person who has been struck off the register
+
+<!-- marginal: certificate -->
+
+shall, within twenty-one days of the service of the notice
+
+<!-- marginal: of -->
+
+<!-- marginal: registration. -->
+
+under section 95, surrender to the Registrar General the certificate of registration issued to him under this Act or any previous written law relating to the registration of a governor or an employee, as the case may be, of an educational institution.
 
 (2) If an appeal is made under section 96, the certificate referred to in subsection (1) need not be surrendered until the determination of the appeal in favour of the Registrar General,
 
 ## Chapter 4 — Registration of Pupils
 
-Registration
+<!-- marginal: Registration -->
 
-98. The governors, head teachers or other persons of pupils. responsible for the management of an educational institution shall keep or cause to be kept, in such manner as may be prescribed, a register containing the prescribed particulars with respect to all pupils at the educational institution.
+98. The governors, head teachers or other persons
+
+<!-- marginal: of pupils. -->
+
+responsible for the management of an educational institution shall keep or cause to be kept, in such manner as may be prescribed, a register containing the prescribed particulars with respect to all pupils at the educational institution.
 
 ## Chapter 5 — Inspection of Educational Institutions
 
 by the Registrar General
 
-Inspections
+<!-- marginal: Inspections -->
 
-99. The Registrar General shall, from time to time, inspect to be made or cause to be inspected an educational institution from time to time. registered under this Act for the purpose of ascertaining that this Act and the regulations made under this Act have been and are being complied with.
+99. The Registrar General shall, from time to time, inspect
+
+<!-- marginal: to be made -->
+
+or cause to be inspected an educational institution
+
+<!-- marginal: from time -->
+
+<!-- marginal: to time. -->
+
+registered under this Act for the purpose of ascertaining that this Act and the regulations made under this Act have been and are being complied with.
 
 <!-- page 53 -->
 
@@ -2410,9 +3008,23 @@ or other place is being used as an educational institution without being registe
 
 ## BILL
 
-Power to
+<!-- marginal: Power to -->
 
-102. (1) Where the Registrar General or a public officer close authorised by the Registrar General in that behalf in unregistered educational writing or a police officer not below the rank of Inspector institution. has reasonable cause to believe that any house, building or other place is being used as an educational institution without being registered under this Act or is being used in contravention of any of the conditions imposed by the Minister under subsection 47(2) or 77(3), the Registrar General or the public officer or the police officer, accompanied by such persons as he may deem necessary may, without prejudice to the exercise of the powers conferred on him under sections 99, 100 and 101, forthwith take such steps as he may deem necessary or by any means close the educational institution.
+102. (1) Where the Registrar General or a public officer
+
+<!-- marginal: close -->
+
+authorised by the Registrar General in that behalf in
+
+<!-- marginal: unregistered -->
+
+<!-- marginal: educational -->
+
+writing or a police officer not below the rank of Inspector
+
+<!-- marginal: institution. -->
+
+has reasonable cause to believe that any house, building or other place is being used as an educational institution without being registered under this Act or is being used in contravention of any of the conditions imposed by the Minister under subsection 47(2) or 77(3), the Registrar General or the public officer or the police officer, accompanied by such persons as he may deem necessary may, without prejudice to the exercise of the powers conferred on him under sections 99, 100 and 101, forthwith take such steps as he may deem necessary or by any means close the educational institution.
 
 (2) Any action taken under subsection (1) in respect of any house, building or other place shall not prohibit the Registrar General from prosecuting any person using such house, building or place as an educational institution without being registered under this Act.
 
@@ -2422,9 +3034,13 @@ Power to
 
 ## Chapter 1 — Registration of Teachers
 
-Prohibition
+<!-- marginal: Prohibition -->
 
-103. (1) Subject to subsection (2), no person shall teach to teach. in an educational institution unless he is registered as a teacher under this Act.
+103. (1) Subject to subsection (2), no person shall teach
+
+<!-- marginal: to teach. -->
+
+in an educational institution unless he is registered as a teacher under this Act.
 
 (2) Subsection (1) shall not apply—
 
@@ -2530,17 +3146,29 @@ with section 107, appeal to the Minister.
 
 ## BILL
 
-Registration
+<!-- marginal: Registration -->
 
-109. (1) Subject to sections 106 and 108, the Registrar of teachers General shall, upon application for registration under this Chapter duly made and after such inquiry as he may deem necessary, and upon payment of such fee as may be prescribed, register the applicant and issue to him a certificate of registration as a teacher in the prescribed manner.
+109. (1) Subject to sections 106 and 108, the Registrar
+
+<!-- marginal: of teachers -->
+
+General shall, upon application for registration under this Chapter duly made and after such inquiry as he may deem necessary, and upon payment of such fee as may be prescribed, register the applicant and issue to him a certificate of registration as a teacher in the prescribed manner.
 
 (2) The Registrar General may impose such terms and conditions as he deems fit when registering an applicant under subsection (1) and he may at any time revoke, alter or add to the terms and conditions.
 
-Revocation
+<!-- marginal: Revocation -->
 
-110. (1) If the Registrar General is satisfied— of registration
+110. (1) If the Registrar General is satisfied—
 
-(a) that it is expedient so to do on any of the grounds after notice. set out in paragraphs 106(c) to (e);
+<!-- marginal: of -->
+
+<!-- marginal: registration -->
+
+(a) that it is expedient so to do on any of the grounds
+
+<!-- marginal: after notice. -->
+
+set out in paragraphs 106(c) to (e);
 
 (b) that a registered teacher has committed a breach of or has failed to comply with any condition imposed under subsection 109(2);
 
@@ -2622,9 +3250,19 @@ teach to the following persons, not being registered teachers:
 
 ## Chapter 3 — Miscellaneous
 
-Surrender of
+<!-- marginal: Surrender of -->
 
-115. A certificate of registration as a teacher issued under certificates of this Act or any former written law relating to registration registration as a teacher of teachers or any document evidencing registration or exemption from registration as a teacher or that a teacher is deemed to be registered under such law, or a permit to teach issued under section 114 shall—
+115. A certificate of registration as a teacher issued under
+
+<!-- marginal: certificates of -->
+
+this Act or any former written law relating to registration
+
+<!-- marginal: registration -->
+
+<!-- marginal: as a teacher -->
+
+of teachers or any document evidencing registration or exemption from registration as a teacher or that a teacher is deemed to be registered under such law, or a permit to teach issued under section 114 shall—
 
 (a) on the revocation of the certificate, document or permit;
 
@@ -2636,9 +3274,27 @@ Surrender of
 
 be surrendered within twenty-one days by the person to whom it was issued or the person in whose possession it is to the Registrar General.
 
-Duly of
+<!-- marginal: Duly of -->
 
-116. Every registered teacher shall within fourteen days teacher to of commencing or ceasing to teach in an educational notify change of institution report in writing to the Registrar General the educational name of the educational institution in which he is teaching institution. or has ceased to teach and the date on which he commenced teaching or ceased to teach in the educational institution.
+116. Every registered teacher shall within fourteen days
+
+<!-- marginal: teacher to -->
+
+of commencing or ceasing to teach in an educational
+
+<!-- marginal: notify change -->
+
+<!-- marginal: of -->
+
+institution report in writing to the Registrar General the
+
+<!-- marginal: educational -->
+
+name of the educational institution in which he is teaching
+
+<!-- marginal: institution. -->
+
+or has ceased to teach and the date on which he commenced teaching or ceased to teach in the educational institution.
 
 <!-- page 59 -->
 
@@ -2718,9 +3374,19 @@ to section 117, and where the report is made by an Inspector of Schools, he shal
 
 ## Chapter 2 — General
 
-General
+<!-- marginal: General -->
 
-121. For the purpose of making any inspection of an powers of educational institution under section 117 the Chief Inspector Inspectors of Schools. or an Inspector of Schools (in this section referred to as an "Inspector") may—
+121. For the purpose of making any inspection of an
+
+<!-- marginal: powers of -->
+
+educational institution under section 117 the Chief Inspector
+
+<!-- marginal: Inspectors of -->
+
+<!-- marginal: Schools. -->
+
+or an Inspector of Schools (in this section referred to as an "Inspector") may—
 
 (a) at any time enter an educational institution; and
 
@@ -2730,9 +3396,29 @@ General
 
 (ii) to furnish the Inspector with such information relating to the teaching in, or the organization of, the educational institution as the Inspector may demand, and which it is within the power of the chairman, governor or such other person responsible for the management of the educational institution, teacher, employee or person to furnish.
 
-Chief
+<!-- marginal: Chief -->
 
-122. The Chief Inspector may authorise in writing an Inspector Education Officer appointed under section 4 to act on his may behalf in exercising his powers or carrying out his duties authorise Education under this Act. Officers to act on his behalf.
+122. The Chief Inspector may authorise in writing an
+
+<!-- marginal: Inspector -->
+
+Education Officer appointed under section 4 to act on his
+
+<!-- marginal: may -->
+
+behalf in exercising his powers or carrying out his duties
+
+<!-- marginal: authorise -->
+
+<!-- marginal: Education -->
+
+under this Act.
+
+<!-- marginal: Officers to -->
+
+<!-- marginal: act on his -->
+
+<!-- marginal: behalf. -->
 
 <!-- page 61 -->
 
@@ -2828,9 +3514,15 @@ allows the appeal forthwith, shall constitute a Committee of Enquiry consisting 
 
 ## BILL
 
-Powers of
+<!-- marginal: Powers of -->
 
-127. Subject to section 129 and any regulations made under Committee of this Act, a Committee of Enquiry shall have power— Enquiry.
+127. Subject to section 129 and any regulations made under
+
+<!-- marginal: Committee of -->
+
+this Act, a Committee of Enquiry shall have power—
+
+<!-- marginal: Enquiry. -->
 
 (a) to procure and receive all such evidence, written or oral, and to examine all such persons (including the appellant) as the Committee of Enquiry may consider desirable;
 
@@ -2842,11 +3534,39 @@ Powers of
 
 (e) to exclude the public from any investigation or any part thereof and, if the Committee of Enquiry considers it in the public interest so to do, receive evidence in the absence of the appellant; but where evidence is received in the absence of the appellant the Committee of Enquiry shall communicate to the appellant the substance of the evidence so far as it may be compatible with public interest so to do and shall in every such case include in the report to the Minister a statement of the circumstances in which the evidence was received.
 
-128. Notwithstanding anything to the contrary in any written No appearance law, no advocate or solicitor shall be allowed to appear in by advocate any proceedings before the Committee of Enquiry. and solicitor before the Committee of Enquiry.
+128. Notwithstanding anything to the contrary in any written
 
-Evidence
+<!-- marginal: No -->
 
-129. (1) No person required to give evidence before a before the Committee of Enquiry shall be obliged to disclose the name Committee of Enquiry. or address of any person who has given information in confidence to a public officer in relation to any facts which are the subject of investigation nor shall the person be obliged to state any matter which in his opinion might lead to the discovery of the person who has given the information.
+<!-- marginal: appearance -->
+
+law, no advocate or solicitor shall be allowed to appear in
+
+<!-- marginal: by advocate -->
+
+any proceedings before the Committee of Enquiry.
+
+<!-- marginal: and solicitor -->
+
+<!-- marginal: before the -->
+
+<!-- marginal: Committee of -->
+
+<!-- marginal: Enquiry. -->
+
+<!-- marginal: Evidence -->
+
+129. (1) No person required to give evidence before a
+
+<!-- marginal: before the -->
+
+Committee of Enquiry shall be obliged to disclose the name
+
+<!-- marginal: Committee of -->
+
+<!-- marginal: Enquiry. -->
+
+or address of any person who has given information in confidence to a public officer in relation to any facts which are the subject of investigation nor shall the person be obliged to state any matter which in his opinion might lead to the discovery of the person who has given the information.
 
 <!-- page 63 -->
 
@@ -2884,7 +3604,7 @@ may make regulations for the purpose of carrying into effect the provisions of t
 
 <!-- page 64 -->
 
-64
+<!-- marginal: 64 -->
 
 ## BILL
 
@@ -2928,7 +3648,7 @@ or other matter printed or written or otherwise the use of which by the distance
 
 <!-- page 66 -->
 
-66
+<!-- marginal: 66 -->
 
 ## BILL
 
@@ -3016,7 +3736,7 @@ institution shall be guilty of an offence and shall, on conviction, be liable to
 
 <!-- page 68 -->
 
-68
+<!-- marginal: 68 -->
 
 ## BILL
 
@@ -3032,7 +3752,9 @@ of subsection 100(2) or furnishes any information which he knows is false or doe
 
 (h) being the chairman of a board of governors or a governor or a person responsible for the management of an educational institution has failed to prevent the educational institution from being used for any activity or purpose of an unlawful nature, or for any activity or purpose of an unlawful organization, society or other body of persons,
 
-shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding thirty thousand ringgit or to imprisonment for a term not exceeding two years or to both.
+shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding thirty thousand ringgit or to imprisonment for a term not exceeding two years or to
+
+<!-- marginal: both. -->
 
 (3) A person who—
 
@@ -3096,11 +3818,19 @@ shall, on conviction of an offence under paragraph (b) or
 
 (c), (d), (f) or (g), be liable to a fine not exceeding five thousand ringgit.
 
-Offences and
+<!-- marginal: Offences and -->
 
-134. A person who— penalties relating to
+134. A person who—
 
-(a) obstructs or impedes the Chief Inspector or an Inspectors. Inspector of Schools in the exercise of any powers conferred on him by section 121;
+<!-- marginal: penalties -->
+
+<!-- marginal: relating to -->
+
+(a) obstructs or impedes the Chief Inspector or an
+
+<!-- marginal: Inspectors. -->
+
+Inspector of Schools in the exercise of any powers conferred on him by section 121;
 
 (b) refuses to produce any time-table, syllabus, record, book, material, document or article, or to furnish information, in contravention of subparagraph 121(b)(ii); or
 
@@ -3156,11 +3886,33 @@ in that behalf in writing or a police officer not below the rank of Inspector ha
 
 ## BILL
 
-138. The Registrar General or a public officer authorised Institution and conduct by the Registrar General in that behalf in writing or a of police officer not below the rank of Inspector may, with prosecution. the written consent of the Public Prosecutor, institute and conduct prosecution in respect of an offence under this Act or any regulations made under this Act.
+138. The Registrar General or a public officer authorised
 
-Power to
+<!-- marginal: Institution -->
 
-139. (1) The Registrar General may, in a case where he compound deems it fit and proper so to do, and with the written offences. consent of the Public Prosecutor, compound any offence committed by a person which is punishable under this Act, except an offence under section 72 and subsection 132(1), or any regulations made under this Act by making a written offer to the person to compound the offence on payment to the Registrar General, within such time as may be specified in the offer, of such sum of money, as may be so specified, which shall not exceed fifty per centum of the amount of the maximum fine to which the person would have been liable if he had been convicted of the offence.
+<!-- marginal: and conduct -->
+
+by the Registrar General in that behalf in writing or a
+
+<!-- marginal: of -->
+
+police officer not below the rank of Inspector may, with
+
+<!-- marginal: prosecution. -->
+
+the written consent of the Public Prosecutor, institute and conduct prosecution in respect of an offence under this Act or any regulations made under this Act.
+
+<!-- marginal: Power to -->
+
+139. (1) The Registrar General may, in a case where he
+
+<!-- marginal: compound -->
+
+deems it fit and proper so to do, and with the written
+
+<!-- marginal: offences. -->
+
+consent of the Public Prosecutor, compound any offence committed by a person which is punishable under this Act, except an offence under section 72 and subsection 132(1), or any regulations made under this Act by making a written offer to the person to compound the offence on payment to the Registrar General, within such time as may be specified in the offer, of such sum of money, as may be so specified, which shall not exceed fifty per centum of the amount of the maximum fine to which the person would have been liable if he had been convicted of the offence.
 
 (2) An offer under subsection (1) may be made at any time after the offence has been committed, but before any prosecution for it has been instituted, and where the amount specified in the offer is not paid within the time specified in the offer, or within such extended period as the Registrar General may grant, prosecution for the offence may be instituted at any time thereafter against the person to whom the offer was made.
 
@@ -3258,9 +4010,13 @@ of the pupils or the public, by order published in the Gazette, exempt the educa
 
 ## BILL
 
-Special
+<!-- marginal: Special -->
 
-144. Notwithstanding any other provision in this Act, the Committee. Minister may constitute a special committee consisting of such persons as the Minister may appoint in respect of—
+144. Notwithstanding any other provision in this Act, the
+
+<!-- marginal: Committee. -->
+
+Minister may constitute a special committee consisting of such persons as the Minister may appoint in respect of—
 
 (a) any particular educational institution or class of educational institutions; or
 
@@ -3268,9 +4024,13 @@ Special
 
 for the purpose of advising him in matters relating thereto, and may in his discretion confer on the committee all or any of the powers conferred on a Committee of Enquiry by section 127.
 
-Service of
+<!-- marginal: Service of -->
 
-145. (1) Any notice, order or communication, which is notices, etc. required to be, or which may be, sent to or served on—
+145. (1) Any notice, order or communication, which is
+
+<!-- marginal: notices, etc. -->
+
+required to be, or which may be, sent to or served on—
 
 (a) a chairman of a board of governors, governor or other person responsible for the management, or an employee, of an educational institution registered under this Act, may be served by letter addressed to the chairman, governor, person or employee at the registered address of the educational institution or may be served by affixing the notice, order or communication on a conspicuous part of the premises of the educational institution as the Registrar General may deem fit;
 
@@ -3352,29 +4112,101 @@ were in receipt of grant-in-aid or other similar financial assistance from the G
 
 <!-- page 76 -->
 
-Saving in
+<!-- marginal: Saving in -->
 
-149. Notwithstanding anything to the contrary, the Federal respect of Government may continue to make payments in respect of contribution towards the cost referred to in section 37 of the Education Act 1961 religious in relation to religious instruction given under section 36 teaching. Act 43/61. of the Act as if the sections had not been repealed by this Act.
+149. Notwithstanding anything to the contrary, the Federal
 
-Saving in
+<!-- marginal: respect of -->
 
-150. Until such date as the Minister may, by notification respect of in the Gazette, appoint— certain exempted educational institutions, etc.
+Government may continue to make payments in respect of
 
-(a) all educational institutions exempt from the Act 43/61. provisions of the Education Act 1961 by section 127 of the Act shall be exempted from the corresponding provisions of this Act; and
+<!-- marginal: contribution -->
 
-(b) a teacher exempted from the provisions of Part Act 43/61 VI of the Education Act 1961 by section 128 of the Act shall be exempted from the provisions of
+<!-- marginal: towards -->
 
-## Part IX of this Act.
+the cost referred to in section 37 of the Education Act 1961
 
-Saving in
+<!-- marginal: religious -->
 
-151. An educational institution, governor, manager or respect of employee registered or deemed to be registered under the registered educational provisions of the Education Act 1961 shall, on the appointed institution, date, be deemed to have been registered under this Act governor, manager or and— employee. Act 43/61
+in relation to religious instruction given under section 36
+
+<!-- marginal: teaching. -->
+
+<!-- marginal: Act 43/61. -->
+
+of the Act as if the sections had not been repealed by this Act.
+
+<!-- marginal: Saving in -->
+
+150. Until such date as the Minister may, by notification
+
+<!-- marginal: respect of -->
+
+in the Gazette, appoint—
+
+<!-- marginal: certain -->
+
+<!-- marginal: exempted -->
+
+<!-- marginal: educational -->
+
+<!-- marginal: institutions, -->
+
+<!-- marginal: etc. -->
+
+(a) all educational institutions exempt from the
+
+<!-- marginal: Act 43/61. -->
+
+provisions of the Education Act 1961 by section 127 of the Act shall be exempted from the corresponding provisions of this Act; and
+
+(b) a teacher exempted from the provisions of Part
+
+<!-- marginal: Act 43/61 -->
+
+VI of the Education Act 1961 by section 128 of the Act shall be exempted from the provisions of Part IX of this Act.
+
+<!-- marginal: Saving in -->
+
+151. An educational institution, governor, manager or
+
+<!-- marginal: respect of -->
+
+employee registered or deemed to be registered under the
+
+<!-- marginal: registered -->
+
+<!-- marginal: educational -->
+
+provisions of the Education Act 1961 shall, on the appointed
+
+<!-- marginal: institution, -->
+
+date, be deemed to have been registered under this Act
+
+<!-- marginal: governor, -->
+
+<!-- marginal: manager or -->
+
+and—
+
+<!-- marginal: employee. -->
+
+<!-- marginal: Act 43/61 -->
 
 (a) subject to paragraph (b), the provisions of this Act shall apply to the educational institution, governor, manager or employee as if the educational institution, governor, manager or employee was registered under this Act;
 
 (b) the conditions imposed on the educational institution, governor, manager or employee prior to the coming into force of this Act shall continue to remain in force as if the conditions were imposed under this Act.
 
-152. (1) The Minister may, on a date to be determined Winding up of Central by him, by notice published in the Gazette, order the winding Board.
+152. (1) The Minister may, on a date to be determined
+
+<!-- marginal: Winding up -->
+
+<!-- marginal: of Central -->
+
+by him, by notice published in the Gazette, order the winding
+
+<!-- marginal: Board. -->
 
 <!-- page 77 -->
 
@@ -3440,13 +4272,43 @@ references to the board of managers under the Act.
 
 <!-- page 78 -->
 
-Repeal.
+<!-- marginal: Repeal. -->
 
-155. (1) The Education Act 1961, the Education Act 43/61 (Amendment) Act 1963, the Education Act (Extension to Act 32/63. Sarawak) Order 1975 and the Education Act (Extension to P.U. (A) 425/75. Sabah) Order 1976 are repealed. P U. (A) 176/76. (2) All appointments, regulations, rules, by-laws, exemptions, directions and orders made, all registers kept and all certificates granted or having effect under the laws or orders repealed by this section and in force or having effect at the commencement of this Act, shall (without prejudice to the power of the Minister to amend the regulations, rules and by-laws, by any regulations or to amend, revoke or withdraw the exemptions, directions or certificates by order or direction made under the appropriate provisions of this Act and subject to such modifications as may be necessary to bring the regulations, rules, by-laws, exemptions, directions, or orders in conformity with this Act) continue to be in force and have effect as if they had been made, kept, or granted under this Act, until otherwise provided for under this Act.
+155. (1) The Education Act 1961, the Education
 
-Power of
+<!-- marginal: Act 43/61 -->
 
-156. Nothing in this Act shall be deemed to affect the Minister of exercise by the Minister of Finance of the powers conferred Finance. Act 61. upon him by section 6 of the Financial Procedure Act 1957 in respect of the management of the Consolidated Fund and the supervision, control and direction of matters relating to the financial affairs of Malaysia.
+(Amendment) Act 1963, the Education Act (Extension to
+
+<!-- marginal: Act 32/63. -->
+
+Sarawak) Order 1975 and the Education Act (Extension to
+
+<!-- marginal: P.U. (A) -->
+
+<!-- marginal: 425/75. -->
+
+Sabah) Order 1976 are repealed.
+
+<!-- marginal: P U. (A) -->
+
+<!-- marginal: 176/76. -->
+
+(2) All appointments, regulations, rules, by-laws, exemptions, directions and orders made, all registers kept and all certificates granted or having effect under the laws or orders repealed by this section and in force or having effect at the commencement of this Act, shall (without prejudice to the power of the Minister to amend the regulations, rules and by-laws, by any regulations or to amend, revoke or withdraw the exemptions, directions or certificates by order or direction made under the appropriate provisions of this Act and subject to such modifications as may be necessary to bring the regulations, rules, by-laws, exemptions, directions, or orders in conformity with this Act) continue to be in force and have effect as if they had been made, kept, or granted under this Act, until otherwise provided for under this Act.
+
+<!-- marginal: Power of -->
+
+156. Nothing in this Act shall be deemed to affect the
+
+<!-- marginal: Minister of -->
+
+exercise by the Minister of Finance of the powers conferred
+
+<!-- marginal: Finance. -->
+
+<!-- marginal: Act 61. -->
+
+upon him by section 6 of the Financial Procedure Act 1957 in respect of the management of the Consolidated Fund and the supervision, control and direction of matters relating to the financial affairs of Malaysia.
 
 ## SCHEDULE
 
@@ -3454,9 +4316,23 @@ Power of
 
 ## CORE SUBJECTS IN THE NATIONAL CURRICULUM
 
-Core subjects in 1. The core subjects in the National Curriculum shall form the the National fundamental basis of the education of a pupil in all schools within Curriculum. the National Education System.
+<!-- marginal: Core subjects in -->
 
-Core subjects at 2. The core subjects at the primary school level shall be— the primary level.
+1. The core subjects in the National Curriculum shall form the
+
+<!-- marginal: the National -->
+
+fundamental basis of the education of a pupil in all schools within
+
+<!-- marginal: Curriculum. -->
+
+the National Education System.
+
+<!-- marginal: Core subjects at -->
+
+2. The core subjects at the primary school level shall be—
+
+<!-- marginal: the primary level. -->
 
 (a) the National Language;
 
@@ -3528,41 +4404,27 @@ Clauses 8 and 9 deal with the powers of the Minister to issue directions on matt
 
 5. Part IV sets out clearly the National Education System which comprise the pre-school education, primary education, secondary education, post-secondary education and higher education. The National Education System shall have three categories of educational institutions, namely, educational institutions established and maintained by the Minister, educational institutions which receive financial aid from the Government, and educational institutions which are established and maintained by private body. Educational institutions within the National Education System are required to use the national language as the main medium of instruction and the National Curriculum as prescribed by the Minister. The educational institutions are required to prepare the pupils for common examinations prescribed by the Minister.
 
-## Chapter 2 seeks to introduce provisions relating to pre-school
-
-education so that the Minister of Education may regulate the establishment and management of kindergartens.
+Chapter 2 seeks to introduce provisions relating to pre-school education so that the Minister of Education may regulate the establishment and management of kindergartens.
 
 Chapters 3, 4 and 5 deal with primary education, secondary education, and post-secondary education, respectively.
 
-## Chapter 6 deals with the establishment and maintenance by the
-
-Minister of special schools, polytechnics, colleges other than those
+Chapter 6 deals with the establishment and maintenance by the Minister of special schools, polytechnics, colleges other than those
 
 <!-- page 81 -->
 
 with the status of university or university college established under the Universities and University Colleges Act 1971, and any other educational institution not established or maintained by the said Act or this Act.
 
-## Chapter 7 contains provisions relating to technical education and
-
-education in polytechnics so as to enable emphasis to be given to the training in technological fields and specialised skills.
+Chapter 7 contains provisions relating to technical education and education in polytechnics so as to enable emphasis to be given to the training in technological fields and specialised skills.
 
 The provisions in Chapter 8 provide for special education to cater for the special educational needs of pupils.
 
-## Chapter 9 deals with the establishment, maintenance and management
+Chapter 9 deals with the establishment, maintenance and management of teacher education colleges.
 
-of teacher education colleges.
+Chapter 10 makes provisions for the giving of religious teaching in educational institutions. In this respect, the Minister, having regard to Islam as the religion of Malaysia, may provide financial assistance to Islamic educational institutions established or maintained by him or otherwise.
 
-## Chapter 10 makes provisions for the giving of religious teaching
+Chapter 11 deals with the management of educational institutions. Except for government educational institutions other than national- type primary school, all other educational institutions registered under the Act are required to have an instrument of government and these educational institutions shall be managed in strict accordance with their instruments of government. Chapter 11 also contains, in clause 62, provisions relating to the dissolution of the board of managers or board of governors in any educational institution established by the Minister prior to the date of coming into force of the Act except a board of managers or governors in national-type primary school, and national primary school or national secondary school to be determined by the Minister.
 
-in educational institutions. In this respect, the Minister, having regard to Islam as the religion of Malaysia, may provide financial assistance to Islamic educational institutions established or maintained by him or otherwise.
-
-## Chapter 11 deals with the management of educational institutions.
-
-Except for government educational institutions other than national- type primary school, all other educational institutions registered under the Act are required to have an instrument of government and these educational institutions shall be managed in strict accordance with their instruments of government. Chapter 11 also contains, in clause 62, provisions relating to the dissolution of the board of managers or board of governors in any educational institution established by the Minister prior to the date of coming into force of the Act except a board of managers or governors in national-type primary school, and national primary school or national secondary school to be determined by the Minister.
-
-## Chapter 12 relates to the powers of the Minister to render assistance
-
-whether financial or otherwise to pupils in government or government- aided educational institutions so as to enable the pupils to take full advantage of the educational facilities available to them.
+Chapter 12 relates to the powers of the Minister to render assistance whether financial or otherwise to pupils in government or government- aided educational institutions so as to enable the pupils to take full advantage of the educational facilities available to them.
 
 6. Part V deals with the assessment and examination of pupils in primary and secondary schools to ascertain the standard achieved by the pupils in such schools.
 
@@ -3578,21 +4440,13 @@ Clause 70 specifies that the Minister is responsible for the general direction o
 
 Clause 71 prohibits a person from establishing higher educational institutions except in accordance with any written law on higher education and clause 72 makes it an offence for a person to contravene the prohibition.
 
-8.
-
-## Part VII deals with private education and private educational
-
-institutions.
+8. Part VII deals with private education and private educational institutions.
 
 Clause 73 allows a private person to establish and maintain an educational institution. However, the educational institution shall comply with the provisions of the Act.
 
 Clause 74 requires private educational institutions providing primary or secondary education to comply with the requirements of the National Curriculum.
 
-9.
-
-## Part VIII deals with the registration and revocation of registration
-
-of educational institutions. It also deals with the registration and revocation of registration of governors and employees of educational institutions.
+9. Part VIII deals with the registration and revocation of registration of educational institutions. It also deals with the registration and revocation of registration of governors and employees of educational institutions.
 
 10. Part IX contains provisions relating to the registration of teachers. Under this Part, the Registrar General is empowered to register or to refuse the registration of teachers on the grounds specified in clause
 
@@ -3650,7 +4504,7 @@ D . R. 35/95
 
 ### This Bill is amended in section 73 by inserting after subsection
 
-(2) the following subsection:
+### (2) the following subsection:
 
 ### "(3)
 
@@ -3668,6 +4522,4 @@ D . R. 35/95
 
 ### Jabatan Peguam Negara
 
-Malaysia
-
-19.12.1995.
+Malaysia 19.12.1995.

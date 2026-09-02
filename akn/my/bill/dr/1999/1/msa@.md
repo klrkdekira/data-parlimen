@@ -32,29 +32,45 @@ Rang Undang-Undang
 
 Maksud Tajuk
 
-### Amaun
+<!-- marginal: Amaun -->
 
 <!-- marginal: (RM) -->
 
-B. 16 Jabatan Bomba dan Penyelamat 4,568,230
+B. 16 Jabatan Bomba dan Penyelamat
 
-B. 20 Kementerian Perdagangan Antarabangsa 3,746,400 dan Industri
+<!-- marginal: 4,568,230 -->
 
-B. 29 Perkhidmatan Am Perbendaharaan 206,420,560
+B. 20 Kementerian Perdagangan Antarabangsa
 
-B. 30 Peruntukan kepada Kumpulan Wang 9,409,450,403 Terkanun
+<!-- marginal: 3,746,400 -->
+
+dan Industri
+
+B. 29 Perkhidmatan Am Perbendaharaan
+
+<!-- marginal: 206,420,560 -->
+
+B. 30 Peruntukan kepada Kumpulan Wang
+
+<!-- marginal: 9,409,450,403 -->
+
+Terkanun
 
 B. 32 Jabatan Hasil Dalam Negeri
 
 <!-- marginal: 421,862 -->
 
-B. 40 Jabatan Penjara 1,641,163
+B. 40 Jabatan Penjara
 
-B. 51 Kementerian Luar Negeri 33,502,298
+<!-- marginal: 1,641,163 -->
+
+B. 51 Kementerian Luar Negeri
+
+<!-- marginal: 33,502,298 -->
 
 ## JUMLAH
 
-9,659,750,916
+<!-- marginal: 9,659,750,916 -->
 
 ## JADUAL KEDUA
 
@@ -62,15 +78,19 @@ Maksud
 
 ### Tajuk
 
-Amaun
+<!-- marginal: Amaun -->
 
 <!-- marginal: (RM) -->
 
-B. 49 Kementerian Tenaga, Komunikasi 60,000,000 dan Multimedia
+B. 49 Kementerian Tenaga, Komunikasi
+
+<!-- marginal: 60,000,000 -->
+
+dan Multimedia
 
 ## JUMLAH
 
-60,000,000
+<!-- marginal: 60,000,000 -->
 
 <!-- page 3 -->
 

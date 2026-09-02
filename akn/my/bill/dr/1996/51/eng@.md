@@ -142,9 +142,7 @@ When Character is Qarinah
 
 ## ORAL EVIDENCE
 
-46. Proof of facts by oral evidence.
-
-47. Oral evidence must be direct.
+46. Proof of facts by oral evidence. 47. Oral evidence must be direct.
 
 <!-- page 4 -->
 
@@ -184,25 +182,7 @@ Public Documents
 
 Presumption as to Documents
 
-62. Presumption as to genuineness of certified copies.
-
-63. Presumption as to documents produced as record of evidence.
-
-64. Presumption as to Gazettes, newspapers, etc.
-
-65. Presumption as to maps or plans made by authority of Government.
-
-66. Presumption as to collection of laws and reports of decisions.
-
-67. Presumption as to powers of attorney.
-
-68. Presumption as to certified copies of foreign judicial records.
-
-69. Presumption as to books, maps and charts.
-
-70. Presumption as to telegraphic messages.
-
-71. Presumption as to due execution, etc., of documents not produced.
+62. Presumption as to genuineness of certified copies. 63. Presumption as to documents produced as record of evidence. 64. Presumption as to Gazettes, newspapers, etc. 65. Presumption as to maps or plans made by authority of Government. 66. Presumption as to collection of laws and reports of decisions. 67. Presumption as to powers of attorney. 68. Presumption as to certified copies of foreign judicial records. 69. Presumption as to books, maps and charts. 70. Presumption as to telegraphic messages. 71. Presumption as to due execution, etc., of documents not produced.
 
 <!-- page 5 -->
 
@@ -262,27 +242,11 @@ III
 
 89. Order of production and examination of witnesses.
 
-90. Court to decide as to admissibility of evidence.
-
-91. Examination-in-chief, cross-examination and re-examination.
+90. Court to decide as to admissibility of evidence. 91. Examination-in-chief, cross-examination and re-examination.
 
 <!-- page 6 -->
 
-92. Order of examinations and direction of re-examination.
-
-93. Cross-examination of person called to produce a document.
-
-94. Witnesses to character.
-
-95. Leading questions.
-
-96. When leading questions may not be asked.
-
-97. When leading questions may be asked.
-
-98. Evidence as to matters in writing.
-
-99. Cross-examination as to previous statements in writing.
+92. Order of examinations and direction of re-examination. 93. Cross-examination of person called to produce a document. 94. Witnesses to character. 95. Leading questions. 96. When leading questions may not be asked. 97. When leading questions may be asked. 98. Evidence as to matters in writing. 99. Cross-examination as to previous statements in writing.
 
 100. Questions lawful in cross-examination.
 
@@ -294,33 +258,15 @@ III
 
 104. Indecent and scandalous questions.
 
-105. Questions intended to insult or annoy.
+105. Questions intended to insult or annoy. 106. Exclusion of evidence to contradict answers to questions testing veracity.
 
-106. Exclusion of evidence to contradict answers to questions testing veracity.
-
-107. Question by party to his own witness.
-
-108. Impeaching credit of witness.
+107. Question by party to his own witness. 108. Impeaching credit of witness.
 
 109. Questions tending to corroborate evidence of relevant fact admissible.
 
-110. Former statements of witness may be proved to corroborate later testimony as to same fact.
+110. Former statements of witness may be proved to corroborate later testimony as to same fact. 111. What matters may be proved in connection with proved statement which is qarinah under section 20 or 21. 112. Refreshing memory.
 
-111. What matters may be proved in connection with proved statement which is qarinah under section 20 or 21.
-
-112. Refreshing memory.
-
-113. Testimony to facts stated in document mentioned in section 112.
-
-114. Right of adverse party as to writing used to refresh memory.
-
-115. Production of documents and their translation.
-
-116. Giving as evidence of document called for and produced on notice.
-
-117. Using as evidence of document production of which was refused on notice.
-
-118. Judge's power to put questions or order production.
+113. Testimony to facts stated in document mentioned in section 112. 114. Right of adverse party as to writing used to refresh memory. 115. Production of documents and their translation. 116. Giving as evidence of document called for and produced on notice. 117. Using as evidence of document production of which was refused on notice. 118. Judge's power to put questions or order production.
 
 <!-- page 7 -->
 
@@ -370,17 +316,37 @@ IV
 
 <!-- page 8 -->
 
-Court may
+<!-- marginal: Court may -->
 
-35H. (1) Subject to subsection (2), a court may, make con- on the application of the client or the unlicensed sequential orders person, make such orders as it would have power to make if the client had duly rescinded the agreement for misrepresentation by the unlicensed person.
+35H. (1) Subject to subsection (2), a court may,
+
+<!-- marginal: make con- -->
+
+on the application of the client or the unlicensed
+
+<!-- marginal: sequential -->
+
+<!-- marginal: orders -->
+
+person, make such orders as it would have power to make if the client had duly rescinded the agreement for misrepresentation by the unlicensed person.
 
 (2) The court is not empowered to make an order under subsection (1) if the order would prejudice a right acquired by a person (other than the unlicensed person) in good faith, for valuable consideration and without notice of the facts entitling the client to give the notice.
 
-Agreement
+<!-- marginal: Agreement -->
 
-35I. (1) This section applies— unen- forceable
+35I. (1) This section applies—
 
-(a) where— against client. (i) the client is entitled to give a notice under section 35E; and
+<!-- marginal: unen- -->
+
+<!-- marginal: forceable -->
+
+(a) where—
+
+<!-- marginal: against -->
+
+<!-- marginal: client. -->
+
+(i) the client is entitled to give a notice under section 35E; and
 
 (ii) a notice so given will result under section 35F in rescission of the agreement; and
 
@@ -394,11 +360,25 @@ but does not otherwise apply.
 
 (b) to rely on the agreement, whether directly or indirectly and whether by way of defence or otherwise.
 
-Unlicensed
+<!-- marginal: Unlicensed -->
 
-35J. (1) Without limiting the generality of person not section 35I, this section applies— entitled to recover
+35J. (1) Without limiting the generality of
 
-(a) where the client is entitled to give a notice commission. under section 35E; and
+<!-- marginal: person not -->
+
+section 35I, this section applies—
+
+<!-- marginal: entitled -->
+
+<!-- marginal: to -->
+
+<!-- marginal: recover -->
+
+(a) where the client is entitled to give a notice
+
+<!-- marginal: commission. -->
+
+under section 35E; and
 
 <!-- page 9 -->
 
@@ -410,13 +390,79 @@ but does not otherwise apply.
 
 (2) The unlicensed person is not entitled to recover by any means, including set-off or a claim on quantum meruit, any brokerage, commission or other fee for which the client would, apart from this section, have been liable to the unlicensed person under or in connection with the agreement.
 
-Onus of 35K. For the purposes of determining, in a establishing proceeding in a court, whether or not the non- application unlicensed person is, or was at a particular time, of entitled as mentioned in subsection 35I(2) or 35J(2), it shall be presumed, unless the contrary 35I or 35J. is proved, that section 35I or 35J, as the case may be, applies, or applied at that time, as the case may be.
+<!-- marginal: Onus of -->
 
-Client 35L. (1) Without limiting the generality of may section 35H, if the client gives a notice under recover commission section 35E, the client may, even if the notice paid to does not result under section 35F in rescission unlicensed of the agreement, recover from the unlicensed person person as a debt the amount of any brokerage, commission or other fee that the client has paid to the unlicensed person under or in connection with the agreement.
+35K. For the purposes of determining, in a
+
+<!-- marginal: establishing -->
+
+proceeding in a court, whether or not the
+
+<!-- marginal: non- -->
+
+<!-- marginal: application -->
+
+unlicensed person is, or was at a particular time,
+
+<!-- marginal: of -->
+
+entitled as mentioned in subsection 35I(2) or
+
+<!-- marginal: section -->
+
+35J(2), it shall be presumed, unless the contrary
+
+<!-- marginal: 35I or 35J. -->
+
+is proved, that section 35I or 35J, as the case may be, applies, or applied at that time, as the case may be.
+
+<!-- marginal: Client -->
+
+35L. (1) Without limiting the generality of
+
+<!-- marginal: may -->
+
+section 35H, if the client gives a notice under
+
+<!-- marginal: recover -->
+
+<!-- marginal: commission -->
+
+section 35E, the client may, even if the notice
+
+<!-- marginal: paid to -->
+
+does not result under section 35F in rescission
+
+<!-- marginal: unlicensed -->
+
+of the agreement, recover from the unlicensed
+
+<!-- marginal: person -->
+
+person as a debt the amount of any brokerage, commission or other fee that the client has paid to the unlicensed person under or in connection with the agreement.
 
 (2) The Commission may, if it considers that it is in the public interest to do so, bring an action under subsection (1) in the name of, and for the benefit of, the client.
 
-Remedies 35M. The client's rights and remedies under this under Part are additional to, and do not affect and this Part additional are not prejudicial to, any other right or remedy to other of the client.". remedies
+<!-- marginal: Remedies -->
+
+35M. The client's rights and remedies under this
+
+<!-- marginal: under -->
+
+Part are additional to, and do not affect and
+
+<!-- marginal: this Part -->
+
+<!-- marginal: additional -->
+
+are not prejudicial to, any other right or remedy
+
+<!-- marginal: to other -->
+
+of the client.".
+
+<!-- marginal: remedies -->
 
 <!-- page 10 -->
 
@@ -538,7 +584,7 @@ A is charged for an offence of khalwat with B. At his trial the following facts 
 
 (3) For the avoidance of doubt as to the identity or interpretation of the words and expressions used in this Act that are listed in the Schedule, reference may be made to the Arabic Script for those words and expressions as shown against them therein.
 
-Presumption
+<!-- marginal: Presumption -->
 
 4. (1) Whenever it is provided by this Act that the Court may presume the existence of a fact, it may either regard the fact as proved unless and until it is disproved, or may call for proof of it.
 
@@ -550,9 +596,25 @@ Presumption
 
 General
 
-Evidence
+<!-- marginal: Evidence -->
 
-5. Evidence may be given in any suit or proceeding of may be the existence or non-existence of every fact in issue and given of facts in of such other facts as are hereinafter declared to be qarinah, issue and and of no others. qarinah.
+5. Evidence may be given in any suit or proceeding of
+
+<!-- marginal: may be -->
+
+the existence or non-existence of every fact in issue and
+
+<!-- marginal: given of -->
+
+<!-- marginal: facts in -->
+
+of such other facts as are hereinafter declared to be qarinah,
+
+<!-- marginal: issue and -->
+
+and of no others.
+
+<!-- marginal: qarinah. -->
 
 Explanation—This section shall not enable any person to give evidence of a fact which he is disentitled to prove by the law relating to civil procedure.
 
@@ -642,7 +704,31 @@ Explanation 2—When the conduct of any person is qarinah any statement made to 
 
 (c) A is accused of a crime. The fact that after the commission of the alleged crime he absconded or attempted to conceal things which were or might have been used in committing it is qarinah.
 
-9. Facts necessary to explain or introduce a fact in issue Facts necessary to or relevant fact, or which support or rebut an inference explain or suggested by a fact in issue or relevant fact, or which introduce establish the identity of any thing or person whose identity fact in issue or relevant is relevant, or fix the time or place at which any fact fact. in issue or relevant fact happened or which show the relation of parties by whom any such fact was transacted, are qarinah so far as they are necessary for that purpose.
+9. Facts necessary to explain or introduce a fact in issue
+
+<!-- marginal: Facts -->
+
+<!-- marginal: necessary to -->
+
+or relevant fact, or which support or rebut an inference
+
+<!-- marginal: explain or -->
+
+suggested by a fact in issue or relevant fact, or which
+
+<!-- marginal: introduce -->
+
+establish the identity of any thing or person whose identity
+
+<!-- marginal: fact in issue -->
+
+<!-- marginal: or relevant -->
+
+is relevant, or fix the time or place at which any fact
+
+<!-- marginal: fact. -->
+
+in issue or relevant fact happened or which show the relation of parties by whom any such fact was transacted, are qarinah so far as they are necessary for that purpose.
 
 ## ILLUSTRATIONS
 
@@ -698,21 +784,81 @@ their common intention after the time when the intention was first entertained b
 
 <!-- page 18 -->
 
-In suits for
+<!-- marginal: In suits for -->
 
-12. In suits in which damages are claimed any fact which damages, will enable the Court to determine the amount of damages facts lending to enable which ought to be awarded is qarinah. Court to determine amount are qarinah
+12. In suits in which damages are claimed any fact which
 
-Fact which
+<!-- marginal: damages, -->
 
-13. Where the question is as to the existence of any becomes right or 'urf the following facts are qarinah: qarinah when right or 'urf is in
+will enable the Court to determine the amount of damages
 
-(a) any transaction by which the right or 'urf in question question was created, claimed, modified, recognized, asserted or denied or which was inconsistent with its existence;
+<!-- marginal: facts lending -->
+
+<!-- marginal: to enable -->
+
+which ought to be awarded is qarinah.
+
+<!-- marginal: Court to -->
+
+<!-- marginal: determine -->
+
+<!-- marginal: amount are -->
+
+<!-- marginal: qarinah -->
+
+<!-- marginal: Fact which -->
+
+13. Where the question is as to the existence of any
+
+<!-- marginal: becomes -->
+
+right or 'urf the following facts are qarinah:
+
+<!-- marginal: qarinah when -->
+
+<!-- marginal: right or 'urf -->
+
+<!-- marginal: is in -->
+
+(a) any transaction by which the right or 'urf in
+
+<!-- marginal: question -->
+
+question was created, claimed, modified, recognized, asserted or denied or which was inconsistent with its existence;
 
 (b) particular instances in which the right or 'urf was claimed, recognized or exercised or in which its exercise was disputed, asserted or departed from.
 
-Facts
+<!-- marginal: Facts -->
 
-14. Facts showing the existence of any state of mind, showing such as intention, knowledge, good faith, negligence, existence of state of rashness, ill-will or good-will towards any particular mind or of person, or showing the existence of any state of body body or bodily or bodily feeling, are qarinah when the existence of any feeling are such state of mind or body or bodily feeling is in issue qarinah. or relevant.
+14. Facts showing the existence of any state of mind,
+
+<!-- marginal: showing -->
+
+such as intention, knowledge, good faith, negligence,
+
+<!-- marginal: existence of -->
+
+<!-- marginal: state of -->
+
+rashness, ill-will or good-will towards any particular
+
+<!-- marginal: mind or of -->
+
+person, or showing the existence of any state of body
+
+<!-- marginal: body or -->
+
+<!-- marginal: bodily -->
+
+or bodily feeling, are qarinah when the existence of any
+
+<!-- marginal: feeling are -->
+
+such state of mind or body or bodily feeling is in issue
+
+<!-- marginal: qarinah. -->
+
+or relevant.
 
 Explanation 1—A fact relevant as showing the existence of a relevant state of mind must show that the state of mind exists not generally but in reference to the particular matter in question.
 
@@ -786,9 +932,13 @@ is qarinah.
 
 Iqrar
 
-Iqrar
+<!-- marginal: Iqrar -->
 
-17. (1) An iqrar is an admission made by a person, in defined writing or orally or by gesture, stating that he is under an obligation or liability to another person in respect of some right.
+17. (1) An iqrar is an admission made by a person, in
+
+<!-- marginal: defined -->
+
+writing or orally or by gesture, stating that he is under an obligation or liability to another person in respect of some right.
 
 (2) An iqrar shall be made—
 
@@ -798,9 +948,11 @@ Iqrar
 
 (3) An iqrar which relates to any fact in issue or relevant fact is qarinah.
 
-Admissibility
+<!-- marginal: Admissibility -->
 
-18. (1) The following iqrar is inadmissible: of iqrar.
+18. (1) The following iqrar is inadmissible:
+
+<!-- marginal: of iqrar. -->
 
 (a) iqrar of a person who is not "aqil baligh',
 
@@ -904,9 +1056,37 @@ in commerce, written or signed by him, or of the date of a letter or other docum
 
 (c) when the person who made the statement refuses to give evidence on the ground that he has no evidence relevant to the dispute or that he did not make the statement or that he made a mistake in relation to the said statement.
 
-Relevancy of
+<!-- marginal: Relevancy of -->
 
-21. Evidence given by a witness in a judicial proceeding, certain or before any person authorized by law to take it, is evidence for proving in qarinah for the purpose of proving in a subsequent judicial subsequent proceeding, or in a later stage of the same judicial proceeding the truth of proceeding, the truth of the facts which it states, when facts therein the witness is dead or cannot be found or is incapable stated. of giving evidence, or is kept out of the way by the adverse party, or if his presence cannot be obtained without an amount of delay or expense which under the circumstances of the case the Court considers unreasonable:
+21. Evidence given by a witness in a judicial proceeding,
+
+<!-- marginal: certain -->
+
+or before any person authorized by law to take it, is
+
+<!-- marginal: evidence for -->
+
+<!-- marginal: proving in -->
+
+qarinah for the purpose of proving in a subsequent judicial
+
+<!-- marginal: subsequent -->
+
+proceeding, or in a later stage of the same judicial
+
+<!-- marginal: proceeding -->
+
+<!-- marginal: the truth of -->
+
+proceeding, the truth of the facts which it states, when
+
+<!-- marginal: facts therein -->
+
+the witness is dead or cannot be found or is incapable
+
+<!-- marginal: stated. -->
+
+of giving evidence, or is kept out of the way by the adverse party, or if his presence cannot be obtained without an amount of delay or expense which under the circumstances of the case the Court considers unreasonable:
 
 Provided that —
 
@@ -1038,19 +1218,91 @@ any such law, and any report of a ruling of the courts of that country contained
 
 How Much of a Statement to be proved
 
-What
+<!-- marginal: What -->
 
-27. When any statement of which evidence is given forms evidence to part of a longer statement or of a conversation, or part be given when of an isolated document or is contained in a document statement which forms part of a book or of a connected series of forms part of a letters or papers, evidence shall be given of so much conversation, and no more of the statement, conversation, document, document, book or book or series of letters or papers as the Court considers series of necessary in that particular case to the full understanding letters or papers. of the nature and effect of the statement and of the circumstances under which it was made.
+27. When any statement of which evidence is given forms
+
+<!-- marginal: evidence to -->
+
+part of a longer statement or of a conversation, or part
+
+<!-- marginal: be given -->
+
+<!-- marginal: when -->
+
+of an isolated document or is contained in a document
+
+<!-- marginal: statement -->
+
+which forms part of a book or of a connected series of
+
+<!-- marginal: forms part -->
+
+<!-- marginal: of a -->
+
+letters or papers, evidence shall be given of so much
+
+<!-- marginal: conversation, -->
+
+and no more of the statement, conversation, document,
+
+<!-- marginal: document, -->
+
+<!-- marginal: book or -->
+
+book or series of letters or papers as the Court considers
+
+<!-- marginal: series of -->
+
+necessary in that particular case to the full understanding
+
+<!-- marginal: letters or -->
+
+<!-- marginal: papers. -->
+
+of the nature and effect of the statement and of the circumstances under which it was made.
 
 When Judgments of Courts are Qarinah
 
-Previous
+<!-- marginal: Previous -->
 
-28. The existence of any judgment, order or decree which judgments by law prevents any Court from taking cognizance of a relevant to bar a second suit or holding a trial is qarinah when the question is suit or trial. whether the Court ought to take cognizance of the suit or to hold the trial.
+28. The existence of any judgment, order or decree which
 
-When
+<!-- marginal: judgments -->
 
-29. (1) A final judgment, order or decree of a Court, certain in the exercise of probate or matrimonial jurisdiction, judgments in probate, which confers upon or takes away from any person any etc., are legal character, or which declares any person to be entitled qarinah. to any such character, or to be entitled to any specific thing, not as against any specified person but absolutely, is qarinah when the existence of any such legal character or the title of any such person to any such thing is qarinah.
+by law prevents any Court from taking cognizance of a
+
+<!-- marginal: relevant to -->
+
+<!-- marginal: bar a second -->
+
+suit or holding a trial is qarinah when the question is
+
+<!-- marginal: suit or trial. -->
+
+whether the Court ought to take cognizance of the suit or to hold the trial.
+
+<!-- marginal: When -->
+
+29. (1) A final judgment, order or decree of a Court,
+
+<!-- marginal: certain -->
+
+in the exercise of probate or matrimonial jurisdiction,
+
+<!-- marginal: judgments -->
+
+<!-- marginal: in probate, -->
+
+which confers upon or takes away from any person any
+
+<!-- marginal: etc., are -->
+
+legal character, or which declares any person to be entitled
+
+<!-- marginal: qarinah. -->
+
+to any such character, or to be entitled to any specific thing, not as against any specified person but absolutely, is qarinah when the existence of any such legal character or the title of any such person to any such thing is qarinah.
 
 (2) Such judgment, order or decree is conclusive proof—
 
@@ -1178,11 +1430,35 @@ An entry in a memorandum-book by C, the deceased father of B, of his daughter's 
 
 The question is whether a certain document was written by A. Another document is produced which is proved or admitted to have been written by A. The opinions of experts on the question whether the two documents were written by the same person or by different persons are qarinah.
 
-Facts bearing
+<!-- marginal: Facts bearing -->
 
-34. Facts not otherwise qarinah are qarinah if they upon support or are inconsistent with the opinions of experts opinions of when such opinions are qarinah. experts.
+34. Facts not otherwise qarinah are qarinah if they
 
-35. When the Court has to form an opinion as to the When opinion as to person by whom any document was written or signed, handwriting the opinion of any person acquainted with the handwriting is qarinah. of the person by whom it was supposed to have been written or signed, that it was or was not written or signed by that person, is qarinah.
+<!-- marginal: upon -->
+
+support or are inconsistent with the opinions of experts
+
+<!-- marginal: opinions of -->
+
+when such opinions are qarinah.
+
+<!-- marginal: experts. -->
+
+35. When the Court has to form an opinion as to the
+
+<!-- marginal: When -->
+
+<!-- marginal: opinion as to -->
+
+person by whom any document was written or signed,
+
+<!-- marginal: handwriting -->
+
+the opinion of any person acquainted with the handwriting
+
+<!-- marginal: is qarinah. -->
+
+of the person by whom it was supposed to have been written or signed, that it was or was not written or signed by that person, is qarinah.
 
 Explanation—A person is said to be acquainted with the handwriting of another person when he has seen that person write, or when he has received documents purporting to be written by that person in answer to documents written by himself or under his authority and addressed to that person, or when, in the ordinary course of business, documents purporting to be written by that person have been habitually submitted to him.
 
@@ -1194,21 +1470,45 @@ The question is whether a given letter is from A to his wife. The evidence is gi
 
 (Federal Territories)
 
-When
+<!-- marginal: When -->
 
-36. When the Court has to form an opinion as to the opinion as existence of any right or 'urf, the opinions as to the to existence of right or existence of such right or 'urf of persons who would be 'urf
+36. When the Court has to form an opinion as to the
+
+<!-- marginal: opinion as -->
+
+existence of any right or 'urf, the opinions as to the
+
+<!-- marginal: to existence -->
+
+<!-- marginal: of right or -->
+
+existence of such right or 'urf of persons who would be
+
+<!-- marginal: 'urf -->
 
 <!-- marginal: is -->
 
-likely to know of its existence, if it existed, are qarinah. qarinah.
+likely to know of its existence, if it existed, are qarinah.
+
+<!-- marginal: qarinah. -->
 
 Explanation—The expression "right or 'urf" includes right or 'urf common to any considerable class of persons.
 
-When
+<!-- marginal: When -->
 
-37. When the Court has to form an opinion as to— opinion as to usages,
+37. When the Court has to form an opinion as to—
 
-(a) the usages and tenets of any body of men or tenets, etc., family; is qarinah.
+<!-- marginal: opinion as -->
+
+<!-- marginal: to usages, -->
+
+(a) the usages and tenets of any body of men or
+
+<!-- marginal: tenets, etc., -->
+
+family;
+
+<!-- marginal: is qarinah. -->
 
 (b) the constitution and government of any religious or charitable foundation; or
 
@@ -1216,9 +1516,19 @@ When
 
 the opinions of persons having special means of knowledge thereon are qarinah.
 
-When
+<!-- marginal: When -->
 
-38. When the Court has to form an opinion as to the opinion as to relationship of one person to another, the opinion expressed relationship is qarinah. by conduct as to the existence of such relationship of any person who as a member of the family or otherwise has special means of knowledge on the subject is qarinah.
+38. When the Court has to form an opinion as to the
+
+<!-- marginal: opinion as to -->
+
+relationship of one person to another, the opinion expressed
+
+<!-- marginal: relationship -->
+
+<!-- marginal: is qarinah. -->
+
+by conduct as to the existence of such relationship of any person who as a member of the family or otherwise has special means of knowledge on the subject is qarinah.
 
 ## ILLUSTRATIONS
 
@@ -1226,9 +1536,17 @@ When
 
 (b) The question is whether A was a legitimate son of B. The fact that A was always treated as such by members of the family is qarinah.
 
-When
+<!-- marginal: When -->
 
-39. Whenever the opinion of any living person is qarinah, grounds of the grounds on which his opinion is based are also qarinah. opinion are qarinah.
+39. Whenever the opinion of any living person is qarinah,
+
+<!-- marginal: grounds of -->
+
+the grounds on which his opinion is based are also qarinah.
+
+<!-- marginal: opinion are -->
+
+<!-- marginal: qarinah. -->
 
 <!-- page 30 -->
 
@@ -1238,17 +1556,57 @@ An expert may give an account of experiments performed by him for the purpose of
 
 When Character is Qarinah
 
-In civil cases,
+<!-- marginal: In civil cases, -->
 
-40. In civil cases, the fact that the character of any character to person concerned is such as to render probable or prove conduct imputed is improbable any conduct imputed to him is not qarinah not qarinah. except so far as his character appears from facts which are qarinah.
+40. In civil cases, the fact that the character of any
 
-In criminal
+<!-- marginal: character to -->
 
-41. In criminal proceedings, the fact that the accused proceedings, person is of a good character is qarinah. previous good character is qarinah.
+person concerned is such as to render probable or
 
-Previous bad
+<!-- marginal: prove conduct -->
 
-42. In criminal proceedings, the fact that the accused character not person has a bad character is not qarinah unless evidence qarinah except in has been given that he has a good character, in which reply. case it becomes qarinah.
+<!-- marginal: imputed is -->
+
+improbable any conduct imputed to him is not qarinah
+
+<!-- marginal: not qarinah. -->
+
+except so far as his character appears from facts which are qarinah.
+
+<!-- marginal: In criminal -->
+
+41. In criminal proceedings, the fact that the accused
+
+<!-- marginal: proceedings, -->
+
+person is of a good character is qarinah.
+
+<!-- marginal: previous -->
+
+<!-- marginal: good -->
+
+<!-- marginal: character is -->
+
+<!-- marginal: qarinah. -->
+
+<!-- marginal: Previous bad -->
+
+42. In criminal proceedings, the fact that the accused
+
+<!-- marginal: character not -->
+
+person has a bad character is not qarinah unless evidence
+
+<!-- marginal: qarinah -->
+
+<!-- marginal: except in -->
+
+has been given that he has a good character, in which
+
+<!-- marginal: reply. -->
+
+case it becomes qarinah.
 
 Explanation 1—This section does not apply to cases in which the bad character of any person is itself a fact in issue.
 
@@ -1262,13 +1620,37 @@ Explanation 2—A previous conviction is relevant as evidence of bad character.
 
 ## FACTS WHICH NEED NOT BE PROVED
 
-Facts
+<!-- marginal: Facts -->
 
-43. No fact of which the Court will take judicial notice judicially need be proved. noticeable need not be proved. Facts of
+43. No fact of which the Court will take judicial notice
 
-44. (1) The Court shall take judicial notice of the which Court following facts: must take judicial
+<!-- marginal: judicially -->
 
-(a) all laws having the force of law now or heretofore notice. in force or hereafter to be in force in Malaysia;
+need be proved.
+
+<!-- marginal: noticeable -->
+
+<!-- marginal: need not be -->
+
+<!-- marginal: proved. -->
+
+<!-- marginal: Facts of -->
+
+44. (1) The Court shall take judicial notice of the
+
+<!-- marginal: which Court -->
+
+following facts:
+
+<!-- marginal: must take -->
+
+<!-- marginal: judicial -->
+
+(a) all laws having the force of law now or heretofore
+
+<!-- marginal: notice. -->
+
+in force or hereafter to be in force in Malaysia;
 
 <!-- page 31 -->
 
@@ -1298,9 +1680,19 @@ Facts
 
 (3) If the Court is called upon by any person to take judicial notice of any fact, it may refuse to do so unless and until the person produces any such book or document as it considers necessary to enable it to do so.
 
-Facts
+<!-- marginal: Facts -->
 
-45. (1) Subject to subsection 17(2), no fact need be proved admitted in any proceeding which the parties thereto or their agents need not be proved. agree to admit at the hearing or which before the hearing they agree to admit by any writing under their hands, or which by any rule of pleading in force at the time they are deemed to have admitted by their pleadings.
+45. (1) Subject to subsection 17(2), no fact need be proved
+
+<!-- marginal: admitted -->
+
+in any proceeding which the parties thereto or their agents
+
+<!-- marginal: need not be -->
+
+<!-- marginal: proved. -->
+
+agree to admit at the hearing or which before the hearing they agree to admit by any writing under their hands, or which by any rule of pleading in force at the time they are deemed to have admitted by their pleadings.
 
 (2) The Court may, in its discretion, require the facts admitted to be proved otherwise than by such iqrar.
 
@@ -1308,13 +1700,27 @@ Facts
 
 ## ORAL EVIDENCE
 
-Proof of
+<!-- marginal: Proof of -->
 
-46. All facts, except the contents of documents, may be facts by oral proved by oral evidence. evidence.
+46. All facts, except the contents of documents, may be
 
-Oral
+<!-- marginal: facts by oral -->
 
-47. (1) Oral evidence shall in all cases whatever be direct, evidence that is to say— must be direct.
+proved by oral evidence.
+
+<!-- marginal: evidence. -->
+
+<!-- marginal: Oral -->
+
+47. (1) Oral evidence shall in all cases whatever be direct,
+
+<!-- marginal: evidence -->
+
+that is to say—
+
+<!-- marginal: must be -->
+
+<!-- marginal: direct. -->
 
 (a) if it refers to a fact which could be seen, it must be the evidence of a witness who says he saw it;
 
@@ -1366,9 +1772,11 @@ Explanation 3—A document produced by a computer is primary evidence.
 
 A person is shown to have been in possession of a number of placards, all printed at one time from one original. Any one of the placards is primary evidence of the contents of any other, but no one of them is primary evidence of the contents of the original.
 
-Secondary
+<!-- marginal: Secondary -->
 
-50. Secondary evidence includes— evidence.
+50. Secondary evidence includes—
+
+<!-- marginal: evidence. -->
 
 (a) certified copies given under the provisions hereinafter contained;
 
@@ -1388,9 +1796,17 @@ Secondary
 
 (c) A copy transcribed from a copy but afterwards compared with the original is secondary evidence, but the copy not so compared is not secondary evidence of the original, although the copy from which it was transcribed was compared with the original.
 
-Proof of
+<!-- marginal: Proof of -->
 
-51. Documents must be proved by primary evidence documents except in the cases hereinafter mentioned. by primary evidence.
+51. Documents must be proved by primary evidence
+
+<!-- marginal: documents -->
+
+except in the cases hereinafter mentioned.
+
+<!-- marginal: by primary -->
+
+<!-- marginal: evidence. -->
 
 <!-- page 35 -->
 
@@ -1454,9 +1870,17 @@ and when after the notice mentioned in section 53 such person does not produce i
 
 (d) In the case referred to in paragraph (1)(g), evidence may be given as to the general result of the documents by any person who has examined them and who is skilled in the examination of such documents.
 
-Rules as to
+<!-- marginal: Rules as to -->
 
-53. Secondary evidence of the contents of the documents notice to referred to in paragraph 52(1)(a), shall not be given unless produce. the party proposing to give such secondary evidence has previously given to the party in whose possession or power the document is, or to his Peguam Syarie or other persons authorized by law to appear or act before it, such notice to produce it as is prescribed by law; and if no notice is prescribed by law, then such notice as the Court considers reasonable under the circumstances of the case:
+53. Secondary evidence of the contents of the documents
+
+<!-- marginal: notice to -->
+
+referred to in paragraph 52(1)(a), shall not be given unless
+
+<!-- marginal: produce. -->
+
+the party proposing to give such secondary evidence has previously given to the party in whose possession or power the document is, or to his Peguam Syarie or other persons authorized by law to appear or act before it, such notice to produce it as is prescribed by law; and if no notice is prescribed by law, then such notice as the Court considers reasonable under the circumstances of the case:
 
 Provided that such notice shall not be required in order to render secondary evidence admissible in any of the following cases or in any other case in which the Court thinks fit to dispense with it:
 
@@ -1542,9 +1966,11 @@ writing or the liability created therein, the writing and the execution of such 
 
 Public Documents
 
-Public
+<!-- marginal: Public -->
 
-57. The following documents are public documents: documents
+57. The following documents are public documents:
+
+<!-- marginal: documents -->
 
 (a) documents forming the acts or records of the acts of—
 
@@ -1556,9 +1982,13 @@ Public
 
 (b) public records kept in Malaysia of private documents.
 
-Private
+<!-- marginal: Private -->
 
-58. All documents other than those mentioned in documents. section 57 are private.
+58. All documents other than those mentioned in
+
+<!-- marginal: documents. -->
+
+section 57 are private.
 
 <!-- page 39 -->
 
@@ -1630,9 +2060,23 @@ as follows:
 
 Presumption as to Documents
 
-Presumption
+<!-- marginal: Presumption -->
 
-62. (1) The Court shall presume to be genuine every as to document purporting to be a certificate, certified copy genuineness of certified or other document which is by law declared to be copies. admissible as evidence of any particular fact, and which purports to be duly certified by any Government officer in or outside Malaysia who is duly authorized thereto:
+62. (1) The Court shall presume to be genuine every
+
+<!-- marginal: as to -->
+
+document purporting to be a certificate, certified copy
+
+<!-- marginal: genuineness -->
+
+<!-- marginal: of certified -->
+
+or other document which is by law declared to be
+
+<!-- marginal: copies. -->
+
+admissible as evidence of any particular fact, and which purports to be duly certified by any Government officer in or outside Malaysia who is duly authorized thereto:
 
 Provided that the document is substantially in the form and purports to be executed in the manner directed by law in that behalf.
 
@@ -1732,25 +2176,91 @@ of the Government of any country and to contain any of the laws of that country;
 
 (b) to contain reports or decisions of the courts of that country.
 
-Presumption
+<!-- marginal: Presumption -->
 
-67. The Court shall presume that every document as to powers purporting to be a power of attorney, and to have been of attorney. executed before and authenticated by a Judge or consular officer of Malaysia was so executed and authenticated.
+67. The Court shall presume that every document
 
-Presumption
+<!-- marginal: as to powers -->
 
-68. The Court may presume that any document purporting as to to be a certified copy of any judicial record of any foreign certified copies of country is genuine and accurate if the document purports foreign to be certified in any manner which is certified by any judicial records. representative of the Yang di-Pertuan Agong in or for such country to be the manner commonly in use in that country for the certification of copies of judicial records.
+purporting to be a power of attorney, and to have been
 
-Presumption
+<!-- marginal: of attorney. -->
 
-69. The Court may presume that any book to which it as to books. may refer for information on Islamic Law or any matter maps and charts. of public or general interest, and that any published map or chart the statements of which are relevant facts and which is produced for its inspection, was written and published by the person and at the time and place by whom or at which it purports to have been written or published.
+executed before and authenticated by a Judge or consular officer of Malaysia was so executed and authenticated.
 
-Presumption
+<!-- marginal: Presumption -->
 
-70. The Court may presume that a message forwarded as to from a telegraph office to the person to whom it purports telegraphic messages. to be addressed corresponds with a message delivered for transmission at the office from which the message purports to be sent; but the Court shall not make any presumption as to the person by whom the message was delivered for transmission.
+68. The Court may presume that any document purporting
 
-Presumption
+<!-- marginal: as to -->
 
-71. The Court shall presume that every document called as to due for and not produced, after notice to produce was given execution, etc., of under section 53, was attested, stamped and executed in documents the manner required by law. not produced.
+to be a certified copy of any judicial record of any foreign
+
+<!-- marginal: certified -->
+
+<!-- marginal: copies of -->
+
+country is genuine and accurate if the document purports
+
+<!-- marginal: foreign -->
+
+to be certified in any manner which is certified by any
+
+<!-- marginal: judicial -->
+
+<!-- marginal: records. -->
+
+representative of the Yang di-Pertuan Agong in or for such country to be the manner commonly in use in that country for the certification of copies of judicial records.
+
+<!-- marginal: Presumption -->
+
+69. The Court may presume that any book to which it
+
+<!-- marginal: as to books. -->
+
+may refer for information on Islamic Law or any matter
+
+<!-- marginal: maps and -->
+
+<!-- marginal: charts. -->
+
+of public or general interest, and that any published map or chart the statements of which are relevant facts and which is produced for its inspection, was written and published by the person and at the time and place by whom or at which it purports to have been written or published.
+
+<!-- marginal: Presumption -->
+
+70. The Court may presume that a message forwarded
+
+<!-- marginal: as to -->
+
+from a telegraph office to the person to whom it purports
+
+<!-- marginal: telegraphic -->
+
+<!-- marginal: messages. -->
+
+to be addressed corresponds with a message delivered for transmission at the office from which the message purports to be sent; but the Court shall not make any presumption as to the person by whom the message was delivered for transmission.
+
+<!-- marginal: Presumption -->
+
+71. The Court shall presume that every document called
+
+<!-- marginal: as to due -->
+
+for and not produced, after notice to produce was given
+
+<!-- marginal: execution, -->
+
+<!-- marginal: etc., of -->
+
+under section 53, was attested, stamped and executed in
+
+<!-- marginal: documents -->
+
+the manner required by law.
+
+<!-- marginal: not -->
+
+<!-- marginal: produced. -->
 
 <!-- page 43 -->
 
@@ -1828,9 +2338,27 @@ He must prove it.
 
 <!-- page 44 -->
 
-Burden of
+<!-- marginal: Burden of -->
 
-76. The burden of proving any fact necessary to be proved proving fact in order to enable any person to give evidence of any necessary to other fact, is on the person who wishes to give the be proved to make evidence. evidence admissible.
+76. The burden of proving any fact necessary to be proved
+
+<!-- marginal: proving fact -->
+
+in order to enable any person to give evidence of any
+
+<!-- marginal: necessary to -->
+
+other fact, is on the person who wishes to give the
+
+<!-- marginal: be proved to -->
+
+<!-- marginal: make -->
+
+evidence.
+
+<!-- marginal: evidence -->
+
+<!-- marginal: admissible. -->
 
 ## ILLUSTRATIONS
 
@@ -1842,9 +2370,29 @@ A must prove marad al-maut and B's death.
 
 A must prove that the document has been lost.
 
-Burden of
+<!-- marginal: Burden of -->
 
-77. When a person is accused of any offence, the burden proving that of proving the existence of circumstances bringing the case of accused case within any of the general exceptions provided in comes within the Syariah Criminal Offences (Federal Territories) Act exceptions. Act 1996 is upon him, and the Court shall presume the absence of those circumstances.
+77. When a person is accused of any offence, the burden
+
+<!-- marginal: proving that -->
+
+of proving the existence of circumstances bringing the
+
+<!-- marginal: case of -->
+
+<!-- marginal: accused -->
+
+case within any of the general exceptions provided in
+
+<!-- marginal: comes within -->
+
+the Syariah Criminal Offences (Federal Territories) Act
+
+<!-- marginal: exceptions. -->
+
+<!-- marginal: Act -->
+
+1996 is upon him, and the Court shall presume the absence of those circumstances.
 
 ## ILLUSTRATIONS
 
@@ -1862,9 +2410,21 @@ C claims that he had already married D in a foreign country.
 
 The burden of proving that such marriage took place lies on C.
 
-Burden of
+<!-- marginal: Burden of -->
 
-78. When any fact is especially within the knowledge proving fact of any person, the burden of proving that fact is upon especially within him. knowledge.
+78. When any fact is especially within the knowledge
+
+<!-- marginal: proving fact -->
+
+of any person, the burden of proving that fact is upon
+
+<!-- marginal: especially -->
+
+<!-- marginal: within -->
+
+him.
+
+<!-- marginal: knowledge. -->
 
 <!-- page 45 -->
 
@@ -1994,9 +2554,13 @@ Explanation—The bayyinah of a minor in the case of an injury caused by some mi
 
 (7) A person whose credibility is suspected because of his bad relationship with the adverse party is competent to give bayyinah but not competent to give syahadah.
 
-Dumb
+<!-- marginal: Dumb -->
 
-84. ( 1) A witness who is unable to speak may give his witnesses. bayyinah in any manner in which he can make it intelligible such as by writing or by signs.
+84. ( 1) A witness who is unable to speak may give his
+
+<!-- marginal: witnesses. -->
+
+bayyinah in any manner in which he can make it intelligible such as by writing or by signs.
 
 (2) The bayyinah referred to in subsection (1) shall be given in open Court.
 
@@ -2004,9 +2568,19 @@ Dumb
 
 (Federal Territories)
 
-Evidence of
+<!-- marginal: Evidence of -->
 
-85. (1) Evidence of a husband against his wife and husband, that of a wife against her husband is admissible as wife, parent and child. syahadah and bayyinah.
+85. (1) Evidence of a husband against his wife and
+
+<!-- marginal: husband, -->
+
+that of a wife against her husband is admissible as
+
+<!-- marginal: wife, parent -->
+
+<!-- marginal: and child. -->
+
+syahadah and bayyinah.
 
 (2) Evidence of a child against his parent and that of a parent against his child is admissible as syahadah and bayyinah.
 
@@ -2014,9 +2588,13 @@ Evidence of
 
 (4) Evidence of a parent for his child and that of a child for his parent is admissible as bayyinah,
 
-Number of
+<!-- marginal: Number of -->
 
-86. (1) A claim by a person who is known to be rich witnesses. that he has become a pauper is not sufficient to prove his claim unless it is corroborated by the evidence of three male witnesses.
+86. (1) A claim by a person who is known to be rich
+
+<!-- marginal: witnesses. -->
+
+that he has become a pauper is not sufficient to prove his claim unless it is corroborated by the evidence of three male witnesses.
 
 Explanation—In the collection of zakat, admission of a rich man that he has become a pauper shall not constitute sufficient proof unless it is corroborated by the evidence of three male witnesses.
 
@@ -2044,9 +2622,17 @@ Evidence of a female who breast-fed a child or that of a midwife in matters rela
 
 (6) Except as otherwise provided in this section, evidence shall be given by two male witnesses or by one male and two female witnesses.
 
-Manner of
+<!-- marginal: Manner of -->
 
-87. (1) In a civil case, evidence shall be given by the giving plaintiff and the defendant, and if the defendant denies evidence. the claim made against him he shall be required to take an oath according to Islamic Law.
+87. (1) In a civil case, evidence shall be given by the
+
+<!-- marginal: giving -->
+
+plaintiff and the defendant, and if the defendant denies
+
+<!-- marginal: evidence. -->
+
+the claim made against him he shall be required to take an oath according to Islamic Law.
 
 (2) (a) Where the defendant takes the oath under subsection (1), the claim made by the plaintiff shall be dismissed.
 
@@ -2054,9 +2640,23 @@ Manner of
 
 (3) In a criminal case, evidence shall be given for the prosecution and the accused unless the accused pleads guilty.
 
-Evidence by
+<!-- marginal: Evidence by -->
 
-88. Where in a civil suit, there is only one witness a single produced by the plaintiff, the evidence of such witness witness and oath by shall only be admissible if his evidence is given together plaintiff. with the oath of the plaintiff.
+88. Where in a civil suit, there is only one witness
+
+<!-- marginal: a single -->
+
+produced by the plaintiff, the evidence of such witness
+
+<!-- marginal: witness and -->
+
+<!-- marginal: oath by -->
+
+shall only be admissible if his evidence is given together
+
+<!-- marginal: plaintiff. -->
+
+with the oath of the plaintiff.
 
 ## ILLUSTRATION
 
@@ -2118,17 +2718,43 @@ The fact that the person is dead must be proved by the person proposing to prove
 
 The fact that the original is lost must be proved by the person proposing to produce the copy before the copy is produced.
 
-Examination-
+<!-- marginal: Examination- -->
 
-91. (1) The examination of a witness by the party who in-chief, calls him shall be called his examination-in-chief. cross- examination and re-
+91. (1) The examination of a witness by the party who
 
-(2) The examination of a witness by the adverse party examination. shall be called his cross-examination.
+<!-- marginal: in-chief, -->
+
+calls him shall be called his examination-in-chief.
+
+<!-- marginal: cross- -->
+
+<!-- marginal: examination -->
+
+<!-- marginal: and re- -->
+
+(2) The examination of a witness by the adverse party
+
+<!-- marginal: examination. -->
+
+shall be called his cross-examination.
 
 (3) Where a witness has been cross-examined and is then examined by the party who called him, such examination shall be called his re-examination.
 
-Order of
+<!-- marginal: Order of -->
 
-92. (1) Witnesses shall be first examined-in-chief, then, examinations if the adverse party so desires, cross-examined then, if and direction the party calling them so desires, re-examined. of re- examination.
+92. (1) Witnesses shall be first examined-in-chief, then,
+
+<!-- marginal: examinations -->
+
+if the adverse party so desires, cross-examined then, if
+
+<!-- marginal: and direction -->
+
+the party calling them so desires, re-examined.
+
+<!-- marginal: of re- -->
+
+<!-- marginal: examination. -->
 
 (2) The examination and cross-examination must relate to relevant facts, but the cross-examination need not be confined to the facts to which the witness testified on his examination-in-chief.
 
@@ -2136,39 +2762,99 @@ Order of
 
 (4) The Court may in all cases permit a witness to be recalled either for further examination-in-chief or for further cross-examination, and if it does so, the parties have the right of further cross-examination and re- examination respectively.
 
-Cross-
+<!-- marginal: Cross- -->
 
-93. A person summoned to produce a document does examination not become a witness by the mere fact that he produces of person it, and may not be cross-examined unless and until he called to produce a is called as a witness. document. Witnesses to
+93. A person summoned to produce a document does
 
-94. Witnesses to character may be cross-examined and character. re-examined.
+<!-- marginal: examination -->
+
+not become a witness by the mere fact that he produces
+
+<!-- marginal: of person -->
+
+it, and may not be cross-examined unless and until he
+
+<!-- marginal: called to -->
+
+<!-- marginal: produce a -->
+
+is called as a witness.
+
+<!-- marginal: document. -->
+
+<!-- marginal: Witnesses to -->
+
+94. Witnesses to character may be cross-examined and
+
+<!-- marginal: character. -->
+
+re-examined.
 
 <!-- page 51 -->
 
 (Federal Territories)
 
-Leading
+<!-- marginal: Leading -->
 
-95. Any question suggesting the answer which the person questions. putting it wishers or expects to receive or suggesting disputed facts as to which the witness is to testify, is called a leading question.
+95. Any question suggesting the answer which the person
 
-When
+<!-- marginal: questions. -->
 
-96. (1) Leading questions may not, if objected to by leading the adverse party, be asked in an examination-in-chief questions may not be or in a re-examination, except with the permission of asked. the Court.
+putting it wishers or expects to receive or suggesting disputed facts as to which the witness is to testify, is called a leading question.
+
+<!-- marginal: When -->
+
+96. (1) Leading questions may not, if objected to by
+
+<!-- marginal: leading -->
+
+the adverse party, be asked in an examination-in-chief
+
+<!-- marginal: questions -->
+
+<!-- marginal: may not be -->
+
+or in a re-examination, except with the permission of
+
+<!-- marginal: asked. -->
+
+the Court.
 
 (2) The Court shall permit leading questions as to matters which are introductory or undisputed, or which have in its opinion been already sufficiently proved.
 
-When
+<!-- marginal: When -->
 
-97. (1) Leading questions may be asked in cross- leading examination, subject to the following qualifications: questions may be
+97. (1) Leading questions may be asked in cross-
 
-(a) the question may not put into the mouth of the asked witness the very words which he is to echo again; and
+<!-- marginal: leading -->
+
+examination, subject to the following qualifications:
+
+<!-- marginal: questions -->
+
+<!-- marginal: may be -->
+
+(a) the question may not put into the mouth of the
+
+<!-- marginal: asked -->
+
+witness the very words which he is to echo again; and
 
 (b) the question may not assume that facts have been proved which have not been proved, or that particular answers have been given contrary to the fact.
 
 (2) The Court, in its discretion, may prohibit leading questions from being put to a witness who shows a strong interest or bias in favour of the cross-examining party.
 
-Evidence as
+<!-- marginal: Evidence as -->
 
-98. Any witness may be asked whilst under examination to matters in whether any contract, grant or other disposition of property writing. as to which he is giving evidence was not contained in a document, and if he says that it was, or if he is about to make any statement as to the contents of any document which in the opinion of the Court ought to be produced, the adverse party may object to the evidence being given until the document is produced or until facts have been proved which entitle the party who called the witness to give secondary evidence of it.
+98. Any witness may be asked whilst under examination
+
+<!-- marginal: to matters in -->
+
+whether any contract, grant or other disposition of property
+
+<!-- marginal: writing. -->
+
+as to which he is giving evidence was not contained in a document, and if he says that it was, or if he is about to make any statement as to the contents of any document which in the opinion of the Court ought to be produced, the adverse party may object to the evidence being given until the document is produced or until facts have been proved which entitle the party who called the witness to give secondary evidence of it.
 
 <!-- page 52 -->
 
@@ -2180,15 +2866,39 @@ The question is whether A assaulted B.
 
 C deposes that he heard A. say to D: "B wrote a letter accusing me of theft and I will be revenged on him.". The statement is relevant as showing A 's motive for the assault and evidence may be given of it though no other evidence is given about the letter.
 
-Cross-
+<!-- marginal: Cross- -->
 
-99. (1) A witness may be cross-examined as to previous examination statements made by him in writing or reduced into writing, as to pevious statements in and relevant to matters in question in the suit or proceeding writing. in which he is cross-examined, without the writing being shown to him or being proved; but if it is intended to contradict him by the writing, his attention must, before the writing can be proved, be called to those parts of it which are to be used for the purpose of contradicting him.
+99. (1) A witness may be cross-examined as to previous
+
+<!-- marginal: examination -->
+
+statements made by him in writing or reduced into writing,
+
+<!-- marginal: as to pevious -->
+
+<!-- marginal: statements in -->
+
+and relevant to matters in question in the suit or proceeding
+
+<!-- marginal: writing. -->
+
+in which he is cross-examined, without the writing being shown to him or being proved; but if it is intended to contradict him by the writing, his attention must, before the writing can be proved, be called to those parts of it which are to be used for the purpose of contradicting him.
 
 (2) If a witness, upon cross-examination as to a previous oral statement made by him relevant to matters in question in the suit or proceeding in which he is cross-examined and inconsistent with his present testimony, does not distinctly admit that he made such statement, proof may be given that he did in fact make it; but before proof can be given, the circumstances of the supposed statement, sufficient to designate the particular occasion, shall be mentioned to the witness, and he shall be asked whether or not he made such statement.
 
-Questions
+<!-- marginal: Questions -->
 
-100. When a witness may be cross-examined he may, lawful in in addition to the questions hereinbefore referred to, be cross- examination. asked any question which tends—
+100. When a witness may be cross-examined he may,
+
+<!-- marginal: lawful in -->
+
+in addition to the questions hereinbefore referred to, be
+
+<!-- marginal: cross- -->
+
+<!-- marginal: examination. -->
+
+asked any question which tends—
 
 (a) to test his accuracy, veracity or credibility;
 
@@ -2272,17 +2982,55 @@ is well founded.
 
 (d) A witness of whom nothing whatever is known, being questioned as to his mode of life and means of living, gives unsatisfactory answers. This may be a reasonable ground for asking him if he is a professional gambler.
 
-Procedure of
+<!-- marginal: Procedure of -->
 
-103. If the Court is of the opinion that any such question Court in case as is referred to in section 101 was asked without of question being asked reasonable grounds, it may, if it was asked by a Peguam without Syarie, report the circumstances of the case to the Majlis reasonable grounds. Agama Islam Wilayah Persekutuan or other authority to which the Peguam Syarie is subject in the exercise of his profession.
+103. If the Court is of the opinion that any such question
 
-Indecent and
+<!-- marginal: Court in case -->
 
-104. The Court may forbid any question or inquiry which scandalous it regards as indecent or scandalous, although they may questions. have some bearing on the questions before the Court, unless they relate to facts in issue or to matters necessary to be known in order to determine whether or not the facts in issue existed.
+as is referred to in section 101 was asked without
 
-Questions
+<!-- marginal: of question -->
 
-105. The Court shall forbid any question which appears intended to to it to be intended to insult or annoy, or which, though insult or annoy proper in itself, appears to the Court needlessly offensive in form.
+<!-- marginal: being asked -->
+
+reasonable grounds, it may, if it was asked by a Peguam
+
+<!-- marginal: without -->
+
+Syarie, report the circumstances of the case to the Majlis
+
+<!-- marginal: reasonable -->
+
+<!-- marginal: grounds. -->
+
+Agama Islam Wilayah Persekutuan or other authority to which the Peguam Syarie is subject in the exercise of his profession.
+
+<!-- marginal: Indecent and -->
+
+104. The Court may forbid any question or inquiry which
+
+<!-- marginal: scandalous -->
+
+it regards as indecent or scandalous, although they may
+
+<!-- marginal: questions. -->
+
+have some bearing on the questions before the Court, unless they relate to facts in issue or to matters necessary to be known in order to determine whether or not the facts in issue existed.
+
+<!-- marginal: Questions -->
+
+105. The Court shall forbid any question which appears
+
+<!-- marginal: intended to -->
+
+to it to be intended to insult or annoy, or which, though
+
+<!-- marginal: insult or -->
+
+<!-- marginal: annoy -->
+
+proper in itself, appears to the Court needlessly offensive in form.
 
 <!-- page 55 -->
 
@@ -2350,7 +3098,17 @@ might be put in cross-examination by the adverse party.
 
 <!-- page 56 -->
 
-108. The credit of a witness may be impeached in the Impeaching following ways by the adverse party or, with the consent credit of of the Court, by the party who calls him: witness.
+108. The credit of a witness may be impeached in the
+
+<!-- marginal: Impeaching -->
+
+following ways by the adverse party or, with the consent
+
+<!-- marginal: credit of -->
+
+of the Court, by the party who calls him:
+
+<!-- marginal: witness. -->
 
 (a) by the evidence of persons who testify that they from their knowledge of the witness believe him to be unworthy of credit;
 
@@ -2360,7 +3118,29 @@ might be put in cross-examination by the adverse party.
 
 Explanation—A witness declaring another witness to be unworthy of credit may not, upon his examination-in-chief, give reasons for his belief, but he may be asked his reasons in cross-examination, and the answers which he gives shall not be contradicted, though, if they are false, he may afterwards be charged with giving false evidence.
 
-109. When a witness whom it is intended to corroborate Questions gives evidence of any relevant fact, he may be questioned tending to as to any other circumstances which he observed at or near corroborate to the time or place at which the relevant fact occurred, if evidence of relevant fact the Court is of the opinion that the circumstances, if admissible proved, would corroborate the testimony of the witness as to the relevant fact to which he testifies.
+109. When a witness whom it is intended to corroborate
+
+<!-- marginal: Questions -->
+
+gives evidence of any relevant fact, he may be questioned
+
+<!-- marginal: tending to -->
+
+as to any other circumstances which he observed at or near
+
+<!-- marginal: corroborate -->
+
+to the time or place at which the relevant fact occurred, if
+
+<!-- marginal: evidence of -->
+
+<!-- marginal: relevant fact -->
+
+the Court is of the opinion that the circumstances, if
+
+<!-- marginal: admissible -->
+
+proved, would corroborate the testimony of the witness as to the relevant fact to which he testifies.
 
 ## ILLUSTRATION
 
@@ -2368,7 +3148,33 @@ A, an accomplice, gives an account of an offence in which he took part. He descr
 
 Independent evidence of these facts may be given in order to corroborate his evidence as to the offence itself.
 
-110. In order to corroborate the testimony of a witness, Former any former statement made by him whether written or statements of verbal, on oath, or in ordinary conversation, relating to the witness may same fact at or about the time when the fact took place, or be proved to corroborate before any authority legally competent to investigate the later fact, may be proved. testimony as to same fact.
+110. In order to corroborate the testimony of a witness,
+
+<!-- marginal: Former -->
+
+any former statement made by him whether written or
+
+<!-- marginal: statements of -->
+
+verbal, on oath, or in ordinary conversation, relating to the
+
+<!-- marginal: witness may -->
+
+same fact at or about the time when the fact took place, or
+
+<!-- marginal: be proved to -->
+
+<!-- marginal: corroborate -->
+
+before any authority legally competent to investigate the
+
+<!-- marginal: later -->
+
+fact, may be proved.
+
+<!-- marginal: testimony as -->
+
+<!-- marginal: to same fact. -->
 
 <!-- page 57 -->
 
@@ -2454,25 +3260,91 @@ A book-keeper may testify to facts recorded by him in books regularly kept in th
 
 <!-- page 58 -->
 
-Right of
+<!-- marginal: Right of -->
 
-114. Any writing referred to under section 112 or 113 adverse party shall be produced and shown to the adverse party if he as to writing used to requires it; such party may, if he pleases, cross-examine refresh memory the witness thereupon.
+114. Any writing referred to under section 112 or 113
 
-Production
+<!-- marginal: adverse party -->
 
-115. (1) A witness summoned to produce a document of shall, if it is in his possession or power, bring it to Court documents and their notwithstanding any objection which there may be to its translation. production or to its admissibility. The validity of any such objection shall be decided on by the Court.
+shall be produced and shown to the adverse party if he
+
+<!-- marginal: as to writing -->
+
+<!-- marginal: used to -->
+
+requires it; such party may, if he pleases, cross-examine
+
+<!-- marginal: refresh -->
+
+<!-- marginal: memory -->
+
+the witness thereupon.
+
+<!-- marginal: Production -->
+
+115. (1) A witness summoned to produce a document
+
+<!-- marginal: of -->
+
+shall, if it is in his possession or power, bring it to Court
+
+<!-- marginal: documents -->
+
+<!-- marginal: and their -->
+
+notwithstanding any objection which there may be to its
+
+<!-- marginal: translation. -->
+
+production or to its admissibility. The validity of any such objection shall be decided on by the Court.
 
 (2) The Court, if it sees fit, may inspect the document unless it refers to affairs of State, or take other evidence to enable it to determine on its admissibility.
 
 (3) If for such a purpose it is necessary to cause any document to be translated, the Court may, if it thinks fit, direct the translator to keep the contents secret unless the document is to be given in evidence.
 
-Giving as
+<!-- marginal: Giving as -->
 
-116. When a party calls for a document which he has evidence of given the other party notice to produce, and the document document called for is produced and inspected by the party calling for its and produced production, he is bound to give it as evidence if the on notice party producing it requires him to do so and if it is relevant.
+116. When a party calls for a document which he has
 
-Using as
+<!-- marginal: evidence of -->
 
-117. When a party refuses to produce a document which evidence of he has had notice to produce, he may not afterwards use document production of the document as evidence without the consent of the which was other party or the order of the Court. refused on notice
+given the other party notice to produce, and the document
+
+<!-- marginal: document -->
+
+<!-- marginal: called for -->
+
+is produced and inspected by the party calling for its
+
+<!-- marginal: and produced -->
+
+production, he is bound to give it as evidence if the
+
+<!-- marginal: on notice -->
+
+party producing it requires him to do so and if it is relevant.
+
+<!-- marginal: Using as -->
+
+117. When a party refuses to produce a document which
+
+<!-- marginal: evidence of -->
+
+he has had notice to produce, he may not afterwards use
+
+<!-- marginal: document -->
+
+<!-- marginal: production of -->
+
+the document as evidence without the consent of the
+
+<!-- marginal: which was -->
+
+other party or the order of the Court.
+
+<!-- marginal: refused on -->
+
+<!-- marginal: notice -->
 
 ## ILLUSTRATION
 
@@ -2552,9 +3424,13 @@ related to him.
 
 <!-- page 60 -->
 
-Secret
+<!-- marginal: Secret -->
 
-121. (1) A secret examination shall be conducted by examination. means of a secret letter in which a Judge will write the name of the defendant or the accused and the subject- matter of the claim or the charge, as the case may be, the name of the witness, his identification, occupation and place of residence.
+121. (1) A secret examination shall be conducted by
+
+<!-- marginal: examination. -->
+
+means of a secret letter in which a Judge will write the name of the defendant or the accused and the subject- matter of the claim or the charge, as the case may be, the name of the witness, his identification, occupation and place of residence.
 
 (2) The secret letter shall be enclosed in a sealed envelope and delivered by the Court to the person appointed as the secret examiner.
 
@@ -2562,19 +3438,43 @@ Secret
 
 (4) Where the secret letter is returned to the Judge with the words "tidak 'adil" or "Wallahu a'alam" or any other words to that effect written thereon, or if there is nothing written thereon, the Judge shall not admit the evidence of such witness and may request another witness to be produced.
 
-Number of
+<!-- marginal: Number of -->
 
-122. The secret examination may be conducted by one secret or more secret examiners as may be determined by the examiners. Judge.
+122. The secret examination may be conducted by one
 
-Open
+<!-- marginal: secret -->
 
-123. (1) A Judge may order a witness to be examined examination. in open Court although such witness has been subject to a secret examination and found to be 'adil by the secret examiners.
+or more secret examiners as may be determined by the
+
+<!-- marginal: examiners. -->
+
+Judge.
+
+<!-- marginal: Open -->
+
+123. (1) A Judge may order a witness to be examined
+
+<!-- marginal: examination. -->
+
+in open Court although such witness has been subject to a secret examination and found to be 'adil by the secret examiners.
 
 (2) An open examination of a witness shall be conducted by the secret examiners in open Court before a Judge in the presence of the parties to the proceedings.
 
-Testimony in
+<!-- marginal: Testimony in -->
 
-124. The testimony of a witness in an open examination open conducted under section 123 shall form part of his examination forms part of syahadah. syahadah.
+124. The testimony of a witness in an open examination
+
+<!-- marginal: open -->
+
+conducted under section 123 shall form part of his
+
+<!-- marginal: examination -->
+
+<!-- marginal: forms part of -->
+
+syahadah.
+
+<!-- marginal: syahadah. -->
 
 <!-- page 61 -->
 
@@ -2660,21 +3560,67 @@ Judge for the witness to take the oath as a witness of truth so as to strengthen
 
 ## GENERAL
 
-Final
+<!-- marginal: Final -->
 
-130. (1) Any provision or interpretation of the provision reference of this Act which is inconsistent with Islamic Law shall, to the extent of the inconsistency, be void.
+130. (1) Any provision or interpretation of the provision
+
+<!-- marginal: reference -->
+
+of this Act which is inconsistent with Islamic Law shall, to the extent of the inconsistency, be void.
 
 (2) If there is any matter which is not provided for or is not clearly stated in this Act, the Court shall refer to Islamic Law.
 
-Disconti-
+<!-- marginal: Disconti- -->
 
-131. With the coming into operation of this Act, the nuance of Evidence Act 1950 shall not be applicable to the Court. application of Evidence Act 1950 Act 56
+131. With the coming into operation of this Act, the
 
-Cessation of
+<!-- marginal: nuance of -->
 
-132. Section 53 of the Administration of Muslim Law application Enactment 1952 of the State of Selangor, as modified of the Enactment. by the Federal Territory (Modification of Administration En. Sel. of Muslim Law Enactment) Order 1974 and the Federal 3/52 Territory of Labuan (Modification and Extension of P.U
+Evidence Act 1950 shall not be applicable to the Court.
 
-(A) 44/74 Administration of Muslim Law Enactment) Order 1985 P.U. (A) shall cease to apply to the Federal Territories. 352/85.
+<!-- marginal: application -->
+
+<!-- marginal: of Evidence -->
+
+<!-- marginal: Act 1950 -->
+
+<!-- marginal: Act 56 -->
+
+<!-- marginal: Cessation of -->
+
+132. Section 53 of the Administration of Muslim Law
+
+<!-- marginal: application -->
+
+Enactment 1952 of the State of Selangor, as modified
+
+<!-- marginal: of the -->
+
+<!-- marginal: Enactment. -->
+
+by the Federal Territory (Modification of Administration
+
+<!-- marginal: En. Sel. -->
+
+of Muslim Law Enactment) Order 1974 and the Federal
+
+<!-- marginal: 3/52 -->
+
+Territory of Labuan (Modification and Extension of
+
+<!-- marginal: P.U -->
+
+(A)
+
+<!-- marginal: 44/74 -->
+
+Administration of Muslim Law Enactment) Order 1985
+
+<!-- marginal: P.U. (A) -->
+
+shall cease to apply to the Federal Territories.
+
+<!-- marginal: 352/85. -->
 
 ## SCHEDULE
 
@@ -2742,9 +3688,7 @@ III
 
 (Federal Territories)
 
-explains burden of proof. Clause 74 specifies on whom the burden of proof lies. Clause 75 deals with burden of proof as to particular fact. Clause 76 deals with the burden of proving fact necessary to be proved to make evidence admissible. Clause 77 deals with the burden of proving that case of accused comes within exceptions provided in the Syariah Criminal Offences (Federal Territories) Act
-
-1996. Clause 78 relates to burden of proving fact especially within knowledge. Clause 79 provides for burden of proving death of person known to have been alive within thirty years. Clause 80 provides for burden of proving that person is alive who has not been heard of for four years. Clause 81 deals with the burden of proof as to ownership. Clause 82 gives discretion to the Court to presume the existence of certain fact.
+explains burden of proof. Clause 74 specifies on whom the burden of proof lies. Clause 75 deals with burden of proof as to particular fact. Clause 76 deals with the burden of proving fact necessary to be proved to make evidence admissible. Clause 77 deals with the burden of proving that case of accused comes within exceptions provided in the Syariah Criminal Offences (Federal Territories) Act 1996. Clause 78 relates to burden of proving fact especially within knowledge. Clause 79 provides for burden of proving death of person known to have been alive within thirty years. Clause 80 provides for burden of proving that person is alive who has not been heard of for four years. Clause 81 deals with the burden of proof as to ownership. Clause 82 gives discretion to the Court to presume the existence of certain fact.
 
 18. Chapter 2 deals with witnesses. Clause 83 provides for persons who may testify as witnesses. Clause 84 relates to dumb witnesses. Clause 85 deals with the evidence of husband, wife, parent and children as witnesses. Clause 86 specifies the number of witnesses in certain circumstances as specified therein. Clause 87 explains the manner of giving evidence. Clause 88 deals with evidence of a single witness and oath by plaintiff.
 

@@ -106,4 +106,4 @@ This Bill seeks to amend the Bank Pertanian Malaysia Act 1969 ("Act 9").
 
 This Bill will not involve the Government in any extra financial expenditure.
 
-[PN(U2)1937]
+<!-- marginal: [PN(U2)1937] -->

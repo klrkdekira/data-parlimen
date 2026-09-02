@@ -94,7 +94,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/35/msa@/~cl_2",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas \"pengilangan\" takrif yang berikut: ' \"pertukaran data elektronik\" ertinya pemindahan, dari komputer ke komputer, transaksi perdagangan dan pentadbiran dengan menggunakan standard perutusan yang dipersetujui untuk menstrukturkan data yang berhubungan dengan transaksi;'. Pindaan"
+        "@value": "dengan memasukkan selepas \"pengilangan\" takrif yang berikut: ' \"pertukaran data elektronik\" ertinya pemindahan, dari komputer ke komputer, transaksi perdagangan dan pentadbiran dengan menggunakan standard perutusan yang dipersetujui untuk menstrukturkan data yang berhubungan dengan transaksi;'."
       }
     },
     {
@@ -102,9 +102,13 @@
       "@type": "akn:clause",
       "eli:number": "3",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/35/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Proviso kepada seksyen 48 Akta ibu adalah dipinda"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Proviso kepada seksyen 48 Akta ibu adalah dipinda seksyen 48. dengan memasukkan selepas perkataan \"sesuatu borang yang tidak dicetak atau dikeluarkan sedemikian\" perkataan \"seperti yang disebut terdahulu, atau membenarkan penggunaan apa-apa borang yang dikemukakan melalui pertukaran data elektronik\"."
+        "@value": "dengan memasukkan selepas perkataan \"sesuatu borang yang tidak dicetak atau dikeluarkan sedemikian\" perkataan \"seperti yang disebut terdahulu, atau membenarkan penggunaan apa-apa borang yang dikemukakan melalui pertukaran data elektronik\"."
       }
     }
   ]

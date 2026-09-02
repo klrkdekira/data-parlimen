@@ -22,6 +22,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ‘ “Chairman of a Municipal Council” means the Chairman of a Municipal Council referred to in section 2 of the Local Government Ordinance 1961 [Sabah No. 11 of 1991] and subsection 2(1) of the Local Authorities Ordinance 1996 [Sarawak Cap. 20] and includes the Deputy Chairman of the Municipal Council;’;
 
+<!-- marginal: WJW006558 BI.indd 1 -->
+
 <!-- marginal: 5/20/16 11:22 PM -->
 
 <!-- page 2 -->
@@ -58,6 +60,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### of City Council or Municipal Council, etc.”;
 
+<!-- marginal: WJW006558 BI.indd 2 -->
+
 <!-- marginal: 5/20/16 11:22 PM -->
 
 <!-- page 3 -->
@@ -77,6 +81,8 @@ ENACTED by the Parliament of Malaysia as follows:
 (ii) by inserting after the definition of “Mayor of a City Council” the following definition:
 
 ‘ “Municipal Council” means a Municipal Council for a local authority area that has been declared and determined in accordance with paragraph 3(d) of the Local Government Act 1976, paragraph 6(1)(cc) of the Local Government Ordinance 1961 and paragraph 3(1)(e) of the Local Authorities Ordinance 1996.’.
+
+<!-- marginal: WJW006558 BI.indd 3 -->
 
 <!-- marginal: 5/20/16 11:22 PM -->
 
@@ -140,6 +146,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 11. Subsection 53a(1) of the principal Act is amended in the English language text, by substituting for the word “shall” the word “may”.
 
+<!-- marginal: WJW006558 BI.indd 5 -->
+
 <!-- marginal: 5/20/16 11:22 PM -->
 
 <!-- page 6 -->
@@ -196,6 +204,8 @@ This Bill also seeks to provide for the improvement on the implementation and th
 
 10. Clause 12 seeks to amend section 65 of Act 333 to empower the President of a Municipal Council or the Chairman of a Municipal Council to remove broken down and abandoned vehicles on a road.
 
+<!-- marginal: WJW006558 BI.indd 7 -->
+
 <!-- marginal: 5/20/16 11:22 PM -->
 
 <!-- page 8 -->
@@ -210,6 +220,6 @@ This Bill also seeks to provide for the improvement on the implementation and th
 
 This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
 
-[PN(U2)3019]
+<!-- marginal: [PN(U2)3019] -->
 
 <!-- marginal: 5/20/16 11:22 PM -->

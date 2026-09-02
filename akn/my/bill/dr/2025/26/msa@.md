@@ -46,7 +46,13 @@ alam sekeliling daripada kesan memudaratkan aktiviti yang melibatkan tenaga atom
 
 <!-- page 3 -->
 
-Pemakaian luar 1b. Peruntukan seksyen 25h dan Bahagian VIIIa wilayah. hendaklah terpakai bagi kesalahan yang dilakukan—
+<!-- marginal: Pemakaian luar -->
+
+1b. Peruntukan seksyen 25h dan Bahagian VIIIa
+
+<!-- marginal: wilayah. -->
+
+hendaklah terpakai bagi kesalahan yang dilakukan—
 
 (a) oleh mana-mana warganegara Malaysia atau pemastautin tetap Malaysia dalam mana-mana kapal atau dalam mana-mana kapal udara yang didaftarkan di Malaysia;
 
@@ -220,7 +226,7 @@ seolah-olah kesalahan itu telah dilakukan di Malaysia.”.
 
 8. Akta ibu dipinda dengan memasukkan selepas Bahagian II yang dipotong bahagian yang berikut:
 
-“Bahagian IIa
+## “BAHAGIAN IIA
 
 ## MAJLIS PENASIHAT TENAGA ATOM
 
@@ -250,7 +256,13 @@ Penubuhan 2a. (1) Suatu majlis penasihat dengan nama Majlis Penasihat. “Majlis
 
 <!-- page 11 -->
 
-Fungsi Majlis 2b. Majlis Penasihat hendaklah mempunyai Penasihat. fungsi yang berikut:
+<!-- marginal: Fungsi Majlis -->
+
+2b. Majlis Penasihat hendaklah mempunyai
+
+<!-- marginal: Penasihat. -->
+
+fungsi yang berikut:
 
 (a) untuk menasihati Menteri mengenai perkara dasar dan strategik Akta ini;
 
@@ -258,7 +270,17 @@ Fungsi Majlis 2b. Majlis Penasihat hendaklah mempunyai Penasihat. fungsi yang be
 
 (c) untuk menasihati Menteri mengenai apa-apa perkara yang dirujuk oleh Menteri yang berhubungan dengan Akta ini.
 
-Mesyuarat 2c. (1) Majlis Penasihat hendaklah mengadakan Majlis mesyuaratnya seberapa kerap sebagaimana Penasihat. yang ditentukan oleh Pengerusi dan mesyuarat hendaklah diadakan pada masa dan di tempat sebagaimana yang ditentukan oleh Pengerusi.
+<!-- marginal: Mesyuarat -->
+
+2c. (1) Majlis Penasihat hendaklah mengadakan
+
+<!-- marginal: Majlis -->
+
+mesyuaratnya seberapa kerap sebagaimana
+
+<!-- marginal: Penasihat. -->
+
+yang ditentukan oleh Pengerusi dan mesyuarat hendaklah diadakan pada masa dan di tempat sebagaimana yang ditentukan oleh Pengerusi.
 
 (2) Pengerusi hendaklah mempengerusikan semua mesyuarat Majlis Penasihat.
 
@@ -276,7 +298,9 @@ Mesyuarat 2c. (1) Majlis Penasihat hendaklah mengadakan Majlis mesyuaratnya sebe
 
 (8) Majlis Penasihat boleh menentukan tatacaranya sendiri.
 
-Elaun. 2d. Pengerusi dan anggota Majlis Penasihat boleh dibayar apa-apa elaun dan perbelanjaan lain sebagaimana yang ditentukan oleh Menteri dengan persetujuan Menteri Kewangan.”.
+<!-- marginal: Elaun. -->
+
+2d. Pengerusi dan anggota Majlis Penasihat boleh dibayar apa-apa elaun dan perbelanjaan lain sebagaimana yang ditentukan oleh Menteri dengan persetujuan Menteri Kewangan.”.
 
 ### Pindaan seksyen 12
 
@@ -312,7 +336,9 @@ Elaun. 2d. Pengerusi dan anggota Majlis Penasihat boleh dibayar apa-apa elaun da
 
 10. Akta ibu dipinda dengan memasukkan selepas seksyen 12 seksyen yang berikut:
 
-“Permit. 12 a. (1) Tanpa menjejaskan kehendak mana-mana undang-undang lain, tiada seorang pun boleh—
+<!-- marginal: “Permit. -->
+
+12 a. (1) Tanpa menjejaskan kehendak mana-mana undang-undang lain, tiada seorang pun boleh—
 
 (a) mengimport bahan radioaktif, bahan nuklear, barang berkaitan nuklear atau teknologi berkaitan nuklear; atau
 
@@ -546,15 +572,19 @@ Pemakaian Akta 18b. Walau apa pun seksyen 12a, Perdagangan Akta Perdagangan Stra
 
 26. Akta ibu dipinda dengan memasukkan selepas Bahagian V bahagian yang berikut:
 
-“Bahagian Va
+## “BAHAGIAN VA
 
 ## SEKURITI
 
-Tanggungjawab 25a. Pemegang lesen hendaklah melaksanakan pemegang lesen langkah-langkah sebagaimana yang ditetapkan untuk memastikan untuk memastikan sekuriti bahan radioaktif, sekuriti. bahan nuklear dan kemudahan.
+Tanggungjawab 25a. Pemegang lesen hendaklah melaksanakan pemegang lesen langkah-langkah sebagaimana yang ditetapkan untuk memastikan untuk memastikan sekuriti bahan radioaktif,
+
+<!-- marginal: sekuriti. -->
+
+bahan nuklear dan kemudahan.
 
 Pemberitahuan 25b. Mana-mana orang yang mempunyai penemuan bahan pengetahuan dan ada sebab untuk mempercayai radioaktif atau bahawa dia menemukan barang yang merupakan bahan nuklear. bahan radioaktif atau bahan nuklear hendaklah memberitahu Ketua Pengarah sama ada secara lisan atau secara bertulis dalam masa dua puluh empat jam daripada masa dia menemukan barang itu.
 
-Bahagian VB
+## BAHAGIAN VB
 
 ## KAWAL GUNA
 
@@ -562,17 +592,75 @@ Tanggungjawab 25c. Pemegang lesen hendaklah mewujudkan bagi kawal guna. dan meny
 
 <!-- page 24 -->
 
-Pemeriksaan 25 d. (1) Apabila diberitahu pelantikan kawal guna. pemeriksa ke Malaysia oleh Agensi, Ketua Pengarah boleh mengambil tindakan yang perlu untuk memudahkan pemeriksaan kawal guna oleh pemeriksa, termasuk dengan mengeluarkan suatu perakuan kepada pemeriksa sebagai pemeriksa antarabangsa bagi maksud Akta ini.
+<!-- marginal: Pemeriksaan -->
+
+25 d. (1) Apabila diberitahu pelantikan
+
+<!-- marginal: kawal guna. -->
+
+pemeriksa ke Malaysia oleh Agensi, Ketua Pengarah boleh mengambil tindakan yang perlu untuk memudahkan pemeriksaan kawal guna oleh pemeriksa, termasuk dengan mengeluarkan suatu perakuan kepada pemeriksa sebagai pemeriksa antarabangsa bagi maksud Akta ini.
 
 (2) Pemeriksa antarabangsa yang disebut dalam subseksyen (1) boleh menjalankan pemeriksaan kawal guna mengikut cara sebagaimana yang ditetapkan.
 
 (3) Mana-mana orang hendaklah mematuhi kehendak pemeriksaan kawal guna sebagaimana yang ditetapkan.
 
-Maklumat 25e. (1) Mana-mana orang yang berniat untuk mengenai menjalankan suatu aktiviti yang berhubungan barang berkaitan dengan barang berkaitan nuklear atau teknologi nuklear atau berkaitan nuklear, hendaklah memberi Ketua teknologi Pengarah maklumat sebagaimana yang berkaitan nuklear. ditetapkan sebelum permulaan aktiviti itu tidak kira sama ada aktiviti itu melibatkan bahan nuklear atau tidak.
+<!-- marginal: Maklumat -->
+
+25e. (1) Mana-mana orang yang berniat untuk
+
+<!-- marginal: mengenai -->
+
+menjalankan suatu aktiviti yang berhubungan
+
+<!-- marginal: barang berkaitan -->
+
+dengan barang berkaitan nuklear atau teknologi
+
+<!-- marginal: nuklear atau -->
+
+berkaitan nuklear, hendaklah memberi Ketua
+
+<!-- marginal: teknologi -->
+
+Pengarah maklumat sebagaimana yang
+
+<!-- marginal: berkaitan -->
+
+<!-- marginal: nuklear. -->
+
+ditetapkan sebelum permulaan aktiviti itu tidak kira sama ada aktiviti itu melibatkan bahan nuklear atau tidak.
 
 (2) Mana-mana orang yang enggan atau tidak mematuhi subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau didenda tidak melebihi lima ratus ribu ringgit atau kedua-duanya.
 
-Maklumat 25f. (1) Mana-mana orang yang berniat untuk mengenai menjalankan apa-apa aktiviti penyelidikan aktiviti dan pembangunan berkaitan kitaran bahan api penyelidikan dan nuklear hendaklah memberi Ketua Pengarah pembangunan maklumat sebagaimana yang ditetapkan berkaitan kitaran bahan api sebelum permulaan aktiviti itu, tidak kira nuklear. sama ada aktiviti itu melibatkan bahan nuklear atau tidak.
+<!-- marginal: Maklumat -->
+
+25f. (1) Mana-mana orang yang berniat untuk
+
+<!-- marginal: mengenai -->
+
+menjalankan apa-apa aktiviti penyelidikan
+
+<!-- marginal: aktiviti -->
+
+dan pembangunan berkaitan kitaran bahan api
+
+<!-- marginal: penyelidikan dan -->
+
+nuklear hendaklah memberi Ketua Pengarah
+
+<!-- marginal: pembangunan -->
+
+maklumat sebagaimana yang ditetapkan
+
+<!-- marginal: berkaitan kitaran -->
+
+<!-- marginal: bahan api -->
+
+sebelum permulaan aktiviti itu, tidak kira
+
+<!-- marginal: nuklear. -->
+
+sama ada aktiviti itu melibatkan bahan nuklear atau tidak.
 
 <!-- page 25 -->
 
@@ -596,7 +684,21 @@ Maklumat 25f. (1) Mana-mana orang yang berniat untuk mengenai menjalankan apa-ap
 
 <!-- page 26 -->
 
-Kuasa Ketua 25g. (1) Ketua Pengarah boleh meminta Pengarah maklumat daripada mana-mana orang jika untuk meminta Ketua Pengarah mempunyai sebab yang maklumat. munasabah untuk mempercayai bahawa maklumat itu berkaitan dengan pematuhan Protokol Tambahan.
+<!-- marginal: Kuasa Ketua -->
+
+25g. (1) Ketua Pengarah boleh meminta
+
+<!-- marginal: Pengarah -->
+
+maklumat daripada mana-mana orang jika
+
+<!-- marginal: untuk meminta -->
+
+Ketua Pengarah mempunyai sebab yang
+
+<!-- marginal: maklumat. -->
+
+munasabah untuk mempercayai bahawa maklumat itu berkaitan dengan pematuhan Protokol Tambahan.
 
 (2) Bagi maksud subseksyen (1), Ketua Pengarah boleh mengeluarkan suatu notis kepada mana-mana orang menghendaki orang itu untuk memberikan maklumat, mengikut apa-apa bentuk dan dalam tempoh atau pada masa sebagaimana yang dinyatakan dalam notis itu.
 
@@ -604,7 +706,11 @@ Kuasa Ketua 25g. (1) Ketua Pengarah boleh meminta Pengarah maklumat daripada man
 
 (4) Dalam seksyen ini, “Protokol Tambahan” ertinya Protokol Tambahan kepada Perjanjian antara Kerajaan Malaysia dengan Agensi Tenaga Atom Antarabangsa bagi Pemakaian Kawal Guna berkaitan dengan Triti Ketakcambahan Senjata Nuklear.
 
-Larangan senjata 25h. (1) Tiada seorang pun boleh— nuklear.
+<!-- marginal: Larangan senjata -->
+
+25h. (1) Tiada seorang pun boleh—
+
+<!-- marginal: nuklear. -->
 
 (a) membangun, menguji, mengeluarkan, mengilang, selainnya memperoleh, memiliki atau menyimpan stok senjata nuklear atau peranti letupan nuklear lain;
 
@@ -696,7 +802,17 @@ Pelan penutupan 27b. (1) Pemegang lesen suatu kemudahan bagi kemudahan pelupusan
 
 <!-- page 31 -->
 
-Penubuhan 28b. (1) Suatu kumpulan wang yang dikenali Kumpulan Wang sebagai “Kumpulan Wang Sisa Radioaktif” Sisa Radioaktif. ditubuhkan dan hendaklah ditadbir dan dikawal oleh Ketua Pengarah.
+<!-- marginal: Penubuhan -->
+
+28b. (1) Suatu kumpulan wang yang dikenali
+
+<!-- marginal: Kumpulan Wang -->
+
+sebagai “Kumpulan Wang Sisa Radioaktif”
+
+<!-- marginal: Sisa Radioaktif. -->
+
+ditubuhkan dan hendaklah ditadbir dan dikawal oleh Ketua Pengarah.
 
 (2) Kumpulan Wang Sisa Radioaktif hendaklah terdiri daripada—
 
@@ -706,13 +822,27 @@ Penubuhan 28b. (1) Suatu kumpulan wang yang dikenali Kumpulan Wang sebagai “Ku
 
 (c) segala derma dan sumbangan yang diterima dari dalam atau luar Malaysia.
 
-Pemakaian 28 c. Kumpulan Wang Sisa Radioaktif Kumpulan Wang hendaklah ditadbirkan bagi maksud— Sisa Radioaktif.
+<!-- marginal: Pemakaian -->
+
+28 c. Kumpulan Wang Sisa Radioaktif
+
+<!-- marginal: Kumpulan Wang -->
+
+hendaklah ditadbirkan bagi maksud—
+
+<!-- marginal: Sisa Radioaktif. -->
 
 (a) penyelidikan berhubung dengan pengurusan sisa radioaktif; dan
 
 (b) langkah-langkah pemuliharaan untuk perlindungan alam sekeliling terhadap apa-apa kerosakan yang disebabkan oleh apa-apa kejadian yang melibatkan bahan radioaktif, bahan nuklear atau sisa radioaktif.
 
-Ses 28d. (1) Menteri boleh, selepas berunding penyelidikan. dengan Menteri Kewangan, membuat perintah yang disiarkan dalam Warta bagi pengenaan dan kutipan, atau pengubahan atau pembatalan ses yang dikenakan kepada mana-mana orang yang terlibat dalam penjanaan, pengeluaran atau penyimpanan sisa radioaktif.
+<!-- marginal: Ses -->
+
+28d. (1) Menteri boleh, selepas berunding
+
+<!-- marginal: penyelidikan. -->
+
+dengan Menteri Kewangan, membuat perintah yang disiarkan dalam Warta bagi pengenaan dan kutipan, atau pengubahan atau pembatalan ses yang dikenakan kepada mana-mana orang yang terlibat dalam penjanaan, pengeluaran atau penyimpanan sisa radioaktif.
 
 (2) Ses yang dikutip di bawah seksyen ini hendaklah dibayar ke dalam Kumpulan Wang Sisa Radioaktif.”.
 
@@ -824,7 +954,9 @@ alasan yang munasabah untuk mempercayai bahawa di dalam atau di atas mana-mana p
 
 bagi waran itu dan apa-apa bahan radioaktif, bahan nuklear, penjana sinaran, peranti, buku, dokumen atau benda lain yang disita di bawah waran itu boleh diterima sebagai keterangan dalam mana-mana prosiding di bawah Akta ini.
 
-Kad kuasa. 34b. (1) Maka hendaklah dikeluarkan kepada setiap pegawai diberi kuasa suatu kad kuasa yang ditandatangani oleh pihak berkuasa berkenaan.
+<!-- marginal: Kad kuasa. -->
+
+34b. (1) Maka hendaklah dikeluarkan kepada setiap pegawai diberi kuasa suatu kad kuasa yang ditandatangani oleh pihak berkuasa berkenaan.
 
 (2) Bilamana pegawai diberi kuasa itu menjalankan mana-mana kuasa di bawah Akta ini, pegawai diberi kuasa itu hendaklah, apabila diminta, mengemukakan kepada orang yang terhadapnya kuasa itu sedang dijalankan kad kuasa yang dikeluarkan kepadanya di bawah subseksyen (1).”.
 
@@ -870,7 +1002,13 @@ Kad kuasa. 34b. (1) Maka hendaklah dikeluarkan kepada setiap pegawai diberi kuas
 
 44. Akta ibu dipinda dengan memasukkan selepas seksyen 35 seksyen yang berikut:
 
-“Kuasa 35a. (1) Seseorang pegawai diberi kuasa atau penyiasatan. pegawai polis yang berpangkat tidak rendah daripada Inspektor hendaklah mempunyai segala kuasa yang perlu untuk menjalankan penyiasatan pelakuan apa-apa kesalahan di bawah Akta ini.
+<!-- marginal: “Kuasa -->
+
+35a. (1) Seseorang pegawai diberi kuasa atau
+
+<!-- marginal: penyiasatan. -->
+
+pegawai polis yang berpangkat tidak rendah daripada Inspektor hendaklah mempunyai segala kuasa yang perlu untuk menjalankan penyiasatan pelakuan apa-apa kesalahan di bawah Akta ini.
 
 (2) Dalam mana-mana hal yang berhubungan dengan pelakuan kesalahan di bawah Akta ini, mana-mana pegawai diberi kuasa atau pegawai polis yang berpangkat tidak rendah daripada Inspektor yang menjalankan penyiasatan boleh menjalankan segala atau mana-mana kuasa khas berhubung dengan penyiasatan polis dalam kes boleh tangkap yang diperuntukkan di bawah Kanun Tatacara Jenayah [Akta 593].”.
 
@@ -922,7 +1060,21 @@ hadir di hadapannya seseorang yang pada hemat pegawai diberi kuasa atau pegawai 
 
 (2) Jika orang itu tidak hadir sebagaimana yang dikehendaki, pegawai diberi kuasa atau pegawai polis yang berpangkat tidak rendah daripada Inspektor itu boleh melaporkan ketidakhadiran itu kepada seorang Majistret yang hendaklah mengeluarkan suatu waran untuk memastikan kehadiran orang itu.
 
-Pemeriksaan 37b. (1) Seseorang pegawai diberi kuasa orang yang atau pegawai polis yang berpangkat tidak mengetahui rendah daripada Inspektor yang menjalankan tentang kes. penyiasatan di bawah Akta ini boleh memeriksa secara lisan seseorang yang dianggap mengetahui tentang fakta dan hal keadaan kes dan hendaklah mengubah dalam bentuk bertulis apa-apa pernyataan yang dibuat oleh orang yang diperiksa sedemikian.
+<!-- marginal: Pemeriksaan -->
+
+37b. (1) Seseorang pegawai diberi kuasa
+
+<!-- marginal: orang yang -->
+
+atau pegawai polis yang berpangkat tidak
+
+<!-- marginal: mengetahui -->
+
+rendah daripada Inspektor yang menjalankan
+
+<!-- marginal: tentang kes. -->
+
+penyiasatan di bawah Akta ini boleh memeriksa secara lisan seseorang yang dianggap mengetahui tentang fakta dan hal keadaan kes dan hendaklah mengubah dalam bentuk bertulis apa-apa pernyataan yang dibuat oleh orang yang diperiksa sedemikian.
 
 (2) Orang yang diperiksa di bawah subseksyen (1) adalah terikat untuk menjawab semua soalan berhubungan dengan kes itu yang diajukan kepadanya oleh pegawai diberi kuasa atau pegawai polis yang berpangkat tidak rendah daripada Inspektor itu, tetapi dia boleh enggan menjawab apa-apa soalan yang jawapannya mungkin mendedahkannya kepada suatu pertuduhan jenayah atau penalti atau pelucuthakan.
 
@@ -934,7 +1086,21 @@ Pemeriksaan 37b. (1) Seseorang pegawai diberi kuasa orang yang atau pegawai poli
 
 (5) Suatu pernyataan yang dibuat oleh mana-mana orang di bawah seksyen ini hendaklah, bilamana mungkin, diubah ke dalam bentuk bertulis dan ditandatangani oleh orang yang membuatnya atau ditandakan dengan cap ibu jarinya, mengikut mana-mana yang berkenaan, selepas pernyataan itu dibacakan kepadanya dalam bahasa pernyataan itu dibuatnya dan selepas dia diberi peluang untuk membuat apa-apa pembetulan yang dia mahu, dan jika orang yang diperiksa itu enggan menandatangani atau menandakan cap ibu jarinya pada pernyataan itu, seorang pegawai diberi kuasa atau pegawai polis yang berpangkat tidak rendah daripada Inspektor hendaklah mengendorskan padanya di bawah tandatangannya fakta keengganan itu dan sebabnya, jika ada, sebagaimana yang dinyatakan oleh orang yang diperiksa itu.
 
-Kebolehterimaan 37c. (1) Kecuali sebagaimana yang pernyataan diperuntukkan dalam seksyen ini, tiada sebagai pernyataan yang dibuat oleh mana-mana keterangan. orang kepada pegawai diberi kuasa atau pegawai polis yang berpangkat tidak rendah daripada Inspektor dalam penjalanan suatu penyiasatan yang dibuat di bawah Akta ini boleh digunakan sebagai keterangan.
+<!-- marginal: Kebolehterimaan -->
+
+37c. (1) Kecuali sebagaimana yang
+
+<!-- marginal: pernyataan -->
+
+diperuntukkan dalam seksyen ini, tiada
+
+<!-- marginal: sebagai -->
+
+pernyataan yang dibuat oleh mana-mana
+
+<!-- marginal: keterangan. -->
+
+orang kepada pegawai diberi kuasa atau pegawai polis yang berpangkat tidak rendah daripada Inspektor dalam penjalanan suatu penyiasatan yang dibuat di bawah Akta ini boleh digunakan sebagai keterangan.
 
 (2) Apabila mana-mana saksi dipanggil bagi pendakwaan atau bagi pembelaan, selain tertuduh, mahkamah hendaklah, atas permintaan tertuduh atau pendakwa, merujuk kepada mana-mana pernyataan yang dibuat oleh saksi itu kepada pegawai diberi kuasa atau pegawai polis yang berpangkat tidak rendah daripada Inspektor dalam penjalanan penyiasatan di bawah Akta ini dan boleh kemudian, jika mahkamah fikirkan patut demi
 
@@ -984,11 +1150,23 @@ bahan radioaktif, bahan nuklear, penjana sinaran atau sisa radioaktif yang diseb
 
 50. Akta ibu dipinda dengan memasukkan selepas seksyen 38 seksyen yang berikut:
 
-“Kos
+<!-- marginal: “Kos -->
 
 ### 38a.
 
-Jika apa-apa bahan radioaktif, bahan memegang, nuklear, penjana sinaran, sisa radioaktif, menanggalkan peranti, bekas, buku, dokumen, pengangkut dan atau benda lain yang secara langsung atau melupuskan tidak langsung yang berhubungan dengan atau bahan radioaktif, berkaitan dengan aktiviti yang melibatkan bahan nuklear, bahan radioaktif, bahan nuklear, penjana penjana sinaran sinaran atau sisa radioaktif yang disita atau sisa di bawah Akta ini dipegang dalam jagaan radioaktif yang Kerajaan Malaysia sementara menunggu disita. penyelesaian apa-apa prosiding berkenaan dengan suatu kesalahan di bawah Akta ini, kos untuk memegang, menanggalkan dan melupuskan bahan radioaktif, bahan nuklear, penjana sinaran, sisa radioaktif, peranti, bekas, buku, dokumen, pengangkut atau benda lain yang secara langsung atau tidak langsung yang berhubungan dengan atau berkaitan dengan aktiviti yang melibatkan bahan radioaktif, bahan nuklear, penjana sinaran atau sisa radioaktif itu dalam jagaan hendaklah, sekiranya mana-mana orang didapati bersalah atas suatu kesalahan, menjadi hutang yang kena dibayar kepada Kerajaan Malaysia oleh orang itu dan hendaklah didapatkan semula dengan sewajarnya.
+Jika apa-apa bahan radioaktif, bahan memegang, nuklear, penjana sinaran, sisa radioaktif, menanggalkan peranti, bekas, buku, dokumen, pengangkut
+
+<!-- marginal: dan -->
+
+atau benda lain yang secara langsung atau melupuskan tidak langsung yang berhubungan dengan atau
+
+<!-- marginal: bahan -->
+
+radioaktif, berkaitan dengan aktiviti yang melibatkan bahan nuklear, bahan radioaktif, bahan nuklear, penjana penjana sinaran sinaran atau sisa radioaktif yang disita atau sisa di bawah Akta ini dipegang dalam jagaan radioaktif yang Kerajaan Malaysia sementara menunggu
+
+<!-- marginal: disita. -->
+
+penyelesaian apa-apa prosiding berkenaan dengan suatu kesalahan di bawah Akta ini, kos untuk memegang, menanggalkan dan melupuskan bahan radioaktif, bahan nuklear, penjana sinaran, sisa radioaktif, peranti, bekas, buku, dokumen, pengangkut atau benda lain yang secara langsung atau tidak langsung yang berhubungan dengan atau berkaitan dengan aktiviti yang melibatkan bahan radioaktif, bahan nuklear, penjana sinaran atau sisa radioaktif itu dalam jagaan hendaklah, sekiranya mana-mana orang didapati bersalah atas suatu kesalahan, menjadi hutang yang kena dibayar kepada Kerajaan Malaysia oleh orang itu dan hendaklah didapatkan semula dengan sewajarnya.
 
 <!-- page 47 -->
 
@@ -1038,7 +1216,13 @@ Tiada kos atau 38b. Tiada seorang pun, dalam apa-apa ganti rugi yang prosiding d
 
 53. Akta ibu dipinda dengan memasukkan selepas seksyen 40 seksyen yang berikut:
 
-“Pengkompaunan 40a. (1) Menteri boleh, dengan kelulusan kesalahan. Pendakwa Raya, membuat peraturan-peraturan yang menetapkan—
+<!-- marginal: “Pengkompaunan -->
+
+40a. (1) Menteri boleh, dengan kelulusan
+
+<!-- marginal: kesalahan. -->
+
+Pendakwa Raya, membuat peraturan-peraturan yang menetapkan—
 
 (a) apa-apa kesalahan di bawah Akta ini sebagai suatu kesalahan yang boleh dikompaun; dan
 
@@ -1060,21 +1244,57 @@ Tiada kos atau 38b. Tiada seorang pun, dalam apa-apa ganti rugi yang prosiding d
 
 54. Akta ibu dipinda dengan memasukkan selepas Bahagian VIII bahagian yang berikut:
 
-“Bahagian Viiia
+## “BAHAGIAN VIIIA
 
 ## KESALAHAN YANG BERHUBUNGAN DENGAN SEKURITI
 
-Pencurian atau 41a. (1) Mana-mana orang yang melakukan perompakan. pencurian bahan radioaktif atau bahan nuklear melakukan suatu kesalahan dan boleh, apabila disabitkan, dipenjarakan selama tempoh tidak kurang daripada lima tahun tetapi tidak melebihi dua puluh tahun atau didenda tidak melebihi sepuluh juta ringgit atau kedua-duanya.
+<!-- marginal: Pencurian atau -->
+
+41a. (1) Mana-mana orang yang melakukan
+
+<!-- marginal: perompakan. -->
+
+pencurian bahan radioaktif atau bahan nuklear melakukan suatu kesalahan dan boleh, apabila disabitkan, dipenjarakan selama tempoh tidak kurang daripada lima tahun tetapi tidak melebihi dua puluh tahun atau didenda tidak melebihi sepuluh juta ringgit atau kedua-duanya.
 
 <!-- page 51 -->
 
 (2) Mana-mana orang yang melakukan perompakan bahan radioaktif atau bahan nuklear melakukan suatu kesalahan dan boleh, apabila disabitkan, dipenjarakan selama tempoh tidak kurang daripada tujuh tahun tetapi tidak melebihi tiga puluh tahun atau didenda tidak melebihi dua puluh juta ringgit atau kedua-duanya.
 
-Pecah amanah 41b. Mana-mana orang yang melakukan jenayah. pecah amanah jenayah berhubung dengan bahan radioaktif atau bahan nuklear melakukan suatu kesalahan dan boleh, apabila disabitkan, dipenjarakan selama tempoh tidak kurang daripada tujuh tahun tetapi tidak melebihi tiga puluh tahun atau didenda tidak melebihi sepuluh juta ringgit atau kedua-duanya.
+<!-- marginal: Pecah amanah -->
 
-Menipu. 41c. Mana-mana orang yang menipu dan dengan itu dengan curang mendorong seseorang yang terpedaya, untuk memperoleh bahan radioaktif atau bahan nuklear melakukan suatu kesalahan dan boleh, apabila disabitkan, dipenjarakan selama tempoh tidak kurang daripada tujuh tahun tetapi tidak melebihi tiga puluh tahun atau didenda tidak melebihi sepuluh juta ringgit atau kedua-duanya.
+41b. Mana-mana orang yang melakukan
 
-Menjalankan 41d. (1) Mana-mana orang yang menjalankan aktiviti apa-apa aktiviti yang melibatkan bahan dengan niat radioaktif atau bahan nuklear dengan niat menyebabkan untuk menyebabkan kematian melakukan kematian atau suatu kesalahan dan boleh, apabila disabitkan, kecederaan. dihukum dengan hukuman mati atau pemenjaraan bagi tempoh tidak kurang daripada tiga puluh tahun tetapi tidak melebihi empat puluh tahun dan jika tidak dikenakan hukuman mati, hendaklah juga dihukum dengan hukuman sebat tidak kurang daripada dua belas sebatan.
+<!-- marginal: jenayah. -->
+
+pecah amanah jenayah berhubung dengan bahan radioaktif atau bahan nuklear melakukan suatu kesalahan dan boleh, apabila disabitkan, dipenjarakan selama tempoh tidak kurang daripada tujuh tahun tetapi tidak melebihi tiga puluh tahun atau didenda tidak melebihi sepuluh juta ringgit atau kedua-duanya.
+
+<!-- marginal: Menipu. -->
+
+41c. Mana-mana orang yang menipu dan dengan itu dengan curang mendorong seseorang yang terpedaya, untuk memperoleh bahan radioaktif atau bahan nuklear melakukan suatu kesalahan dan boleh, apabila disabitkan, dipenjarakan selama tempoh tidak kurang daripada tujuh tahun tetapi tidak melebihi tiga puluh tahun atau didenda tidak melebihi sepuluh juta ringgit atau kedua-duanya.
+
+<!-- marginal: Menjalankan -->
+
+41d. (1) Mana-mana orang yang menjalankan
+
+<!-- marginal: aktiviti -->
+
+apa-apa aktiviti yang melibatkan bahan
+
+<!-- marginal: dengan niat -->
+
+radioaktif atau bahan nuklear dengan niat
+
+<!-- marginal: menyebabkan -->
+
+untuk menyebabkan kematian melakukan
+
+<!-- marginal: kematian atau -->
+
+suatu kesalahan dan boleh, apabila disabitkan,
+
+<!-- marginal: kecederaan. -->
+
+dihukum dengan hukuman mati atau pemenjaraan bagi tempoh tidak kurang daripada tiga puluh tahun tetapi tidak melebihi empat puluh tahun dan jika tidak dikenakan hukuman mati, hendaklah juga dihukum dengan hukuman sebat tidak kurang daripada dua belas sebatan.
 
 <!-- page 52 -->
 
@@ -1082,7 +1302,9 @@ Menjalankan 41d. (1) Mana-mana orang yang menjalankan aktiviti apa-apa aktiviti 
 
 (3) Mana-mana orang yang menjalankan apa-apa aktiviti yang melibatkan bahan radioaktif atau bahan nuklear dengan niat untuk menyebabkan kerosakan teruk kepada harta atau kepada alam sekeliling melakukan suatu kesalahan dan boleh, apabila disabitkan, dipenjarakan selama tempoh tidak kurang daripada lima tahun tetapi tidak melebihi tiga puluh tahun atau didenda tidak melebihi tiga puluh juta ringgit atau kedua-duanya.
 
-Sabotaj. 41e. (1) Mana-mana orang yang melakukan perbuatan sabotaj atau mengancam untuk melakukan suatu perbuatan sabotaj terhadap kemudahan, bahan radioaktif atau bahan nuklear atau suatu perbuatan yang sengaja mengganggu pengendalian kemudahan, dengan niat untuk menyebabkan atau mungkin menyebabkan kematian atau kecederaan serius kepada mana-mana orang atau kerosakan teruk kepada harta atau kepada alam sekeliling, melalui pendedahan kepada sinaran atau pelepasan benda radioaktif atau selainnya atau kerugian ekonomi melakukan suatu kesalahan dan boleh, apabila disabitkan—
+<!-- marginal: Sabotaj. -->
+
+41e. (1) Mana-mana orang yang melakukan perbuatan sabotaj atau mengancam untuk melakukan suatu perbuatan sabotaj terhadap kemudahan, bahan radioaktif atau bahan nuklear atau suatu perbuatan yang sengaja mengganggu pengendalian kemudahan, dengan niat untuk menyebabkan atau mungkin menyebabkan kematian atau kecederaan serius kepada mana-mana orang atau kerosakan teruk kepada harta atau kepada alam sekeliling, melalui pendedahan kepada sinaran atau pelepasan benda radioaktif atau selainnya atau kerugian ekonomi melakukan suatu kesalahan dan boleh, apabila disabitkan—
 
 (a) jika perbuatan itu menyebabkan kematian, dihukum dengan hukuman mati atau pemenjaraan bagi tempoh tidak kurang daripada tiga puluh tahun tetapi tidak melebihi empat puluh tahun dan jika tidak dikenakan
 
@@ -1096,7 +1318,51 @@ hukuman mati, hendaklah juga dihukum dengan hukuman sebat tidak kurang daripada 
 
 (3) Dalam seksyen ini, “sabotaj” ertinya apa-apa tindakan sengaja yang terarah terhadap suatu kemudahan, bahan radioaktif atau bahan nuklear dalam penggunaan, penstoran atau pengangkutan yang boleh secara langsung atau tidak langsung membahayakan kesihatan dan keselamatan pekerja, orang awam atau alam sekeliling melalui pendedahan kepada sinaran atau pelepasan benda radioaktif.
 
-Desakan melalui 41f. Mana-mana orang yang melakukan suatu paksaan untuk perbuatan yang terjumlah kepada desakan untuk mendapatkan mendapatkan bahan radioaktif atau bahan bahan radioaktif nuklear dengan ancaman yang boleh atau bahan dipercayai atau penggunaan kekerasan nuklear dengan ancaman yang atau bentuk intimidasi lain melakukan suatu boleh dipercayai, kesalahan dan boleh, apabila disabitkan, penggunaan dipenjarakan selama tempoh tidak kurang kekerasan atau daripada tujuh tahun tetapi tidak melebihi bentuk intimidasi tiga puluh tahun atau didenda tidak melebihi lain. sepuluh juta ringgit atau kedua-duanya.
+<!-- marginal: Desakan melalui -->
+
+41f. Mana-mana orang yang melakukan suatu
+
+<!-- marginal: paksaan untuk -->
+
+perbuatan yang terjumlah kepada desakan untuk
+
+<!-- marginal: mendapatkan -->
+
+mendapatkan bahan radioaktif atau bahan
+
+<!-- marginal: bahan radioaktif -->
+
+nuklear dengan ancaman yang boleh
+
+<!-- marginal: atau bahan -->
+
+dipercayai atau penggunaan kekerasan
+
+<!-- marginal: nuklear dengan -->
+
+<!-- marginal: ancaman yang -->
+
+atau bentuk intimidasi lain melakukan suatu
+
+<!-- marginal: boleh dipercayai, -->
+
+kesalahan dan boleh, apabila disabitkan,
+
+<!-- marginal: penggunaan -->
+
+dipenjarakan selama tempoh tidak kurang
+
+<!-- marginal: kekerasan atau -->
+
+daripada tujuh tahun tetapi tidak melebihi
+
+<!-- marginal: bentuk intimidasi -->
+
+tiga puluh tahun atau didenda tidak melebihi
+
+<!-- marginal: lain. -->
+
+sepuluh juta ringgit atau kedua-duanya.
 
 <!-- page 54 -->
 

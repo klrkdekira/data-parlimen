@@ -298,7 +298,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/23/msa@/~cl_6",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam proviso— Pemotongan seksyen 16a"
+        "@value": "dalam proviso—"
       }
     },
     {
@@ -318,7 +318,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/23/msa@/~cl_6__para_c",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memotong perkataan “dan adalah bermastautin di Malaysia.”."
+        "@value": "dengan memotong perkataan “dan adalah bermastautin di Malaysia.”. Pemotongan seksyen 16a"
       }
     },
     {

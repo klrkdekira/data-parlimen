@@ -76,9 +76,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “(hc) menetapkan kaedah-kaedah mengenai pengambilan insurans tanggung rugi profesional bagi penilai, pentaksir dan ejen harta tanah terhadap apa- apa kelas liabiliti profesional;
 
-(hd) menetapkan standard, arahan, surat pekeliling atau garis panduan untuk melaksanakan peruntukan
-
-## Bahagian III hingga Bahagian VIII; dan”.
+(hd) menetapkan standard, arahan, surat pekeliling atau garis panduan untuk melaksanakan peruntukan Bahagian III hingga Bahagian VIII; dan”.
 
 ### Seksyen baru 10A
 
@@ -294,7 +292,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (A) dalam subperenggan (ii), dengan memotong perkataan “dan” di hujung subperenggan itu; dan
 
-(B) dengan memasukkan selepas subperenggan (iii) subperenggan yang berikut:
+(B) dengan memasukkan selepas subperenggan
+
+(iii) subperenggan yang berikut:
 
 “(iv) dalam hal suatu perkongsian atau pertubuhan perbadanan yang semua pekongsi bagi perkongsian itu atau semua pengarah dan pemegang syer pertubuhan
 

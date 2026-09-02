@@ -46,19 +46,29 @@ yang dipinda oleh Akta ini) hendaklah dan dengan ini diperluaskan ke Negeri Saba
 
 <!-- page 2 -->
 
-Pindaan am 4. Teks bahasa kebangsaan Akta ibu adalah dipinda— dalam teks bahasa
+<!-- marginal: Pindaan am -->
 
-(a) dalam subseksyen 3(1), dengan memotong kebangsaan. perkataan "Barat"; dan
+4. Teks bahasa kebangsaan Akta ibu adalah dipinda—
+
+<!-- marginal: dalam teks -->
+
+<!-- marginal: bahasa -->
+
+(a) dalam subseksyen 3(1), dengan memotong
+
+<!-- marginal: kebangsaan. -->
+
+perkataan "Barat"; dan
 
 (b) dengan menggantikan perkataan "penjawat" dan "penjawat-penjawat" di mana-mana jua terdapat di dalamnya masing-masingnya dengan perkataan "pengkhidmat" dan "pengkhidmat-pengkhidmat".
 
-Pindaan 5. Seksyen 2 Akta ibu adalah dipinda— seksyen 2.
+<!-- marginal: Pindaan -->
 
-(a) dengan memasukkan selepas takrif "ahli" takrif yang berikut: ' "jawatankuasa tatatertib"
+5. Seksyen 2 Akta ibu adalah dipinda—
 
-<!-- marginal: ertinya -->
+<!-- marginal: seksyen 2. -->
 
-jawatankuasa tatatertib Lembaga yang disebut dalam seksyen 18A(2);
+(a) dengan memasukkan selepas takrif "ahli" takrif yang berikut: ' "jawatankuasa tatatertib" ertinya jawatankuasa tatatertib Lembaga yang disebut dalam seksyen 18A(2);
 
 "Ketua Pengarah" ertinya Ketua Pengarah Lembaga yang dilantik di bawah seksyen 16;';
 
@@ -66,7 +76,11 @@ jawatankuasa tatatertib Lembaga yang disebut dalam seksyen 18A(2);
 
 (c) dengan menggantikan perkataan "pelajaran" dalam takrif "Menteri" dalam teks bahasa kebangsaan dengan perkataan "pendidikan".
 
-Pindaan 6. Subseksyen 4(1) Akta ibu adalah dipinda— seksyen 4.
+<!-- marginal: Pindaan -->
+
+6. Subseksyen 4(1) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 4. -->
 
 (a) dengan menggantikan perkataan "Pelajaran" dalam perenggan (b) dan (c) dengan perkataan "Pendidikan atau wakilnya";
 
@@ -98,11 +112,7 @@ Pindaan 6. Subseksyen 4(1) Akta ibu adalah dipinda— seksyen 4.
 
 (b) dalam perenggan (iv)—
 
-(i) dengan menggantikan
-
-<!-- marginal: perkataan -->
-
-"menstandardisasikan" dalam teks bahasa kebangsaan dengan perkataan "untuk membakukan";
+(i) dengan menggantikan perkataan "menstandardisasikan" dalam teks bahasa kebangsaan dengan perkataan "untuk membakukan";
 
 (ii) dengan memotong perkataan "teknik"; dan
 
@@ -120,21 +130,59 @@ Pindaan 6. Subseksyen 4(1) Akta ibu adalah dipinda— seksyen 4.
 
 <!-- page 4 -->
 
-Pindaan 8. Seksyen 6 Akta ibu adalah dipinda— seksyen 6.
+<!-- marginal: Pindaan -->
+
+8. Seksyen 6 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 6. -->
 
 (a) dengan memotong perkataan "dan kuasa-kuasa" dalam nota birai; dan
 
-(b) dengan memotong subseksyen (2). 9. Akta ibu adalah dipinda dengan memasukkan selepas baru 6A seksyen 6 seksyen yang berikut: dan 6B.
+(b) dengan memotong subseksyen (2).
 
-6A. Lembaga hendaklah menjadi pihak berkuasa Lembaga menjadi penyelaras yang tunggal berkenaan dengan pihak membentuk, mencipta dan membakukan istilah- berkuasa penyelaras istilah dalam bahasa kebangsaan. yang tunggal.
+<!-- marginal: Seksyen -->
 
-Perwakilan. 6B. (1) Lembaga boleh, dengan suatu suratcara secara bertulis yang mengandungi meterai biasanya dan tertakluk kepada apa-apa syarat atau sekatan sebagaimana yang ditetapkan di dalamnya, mewakilkan mana-mana tugas atau kuasanya yang dipertanggungjawabkan atau diberikan kepadanya, kecuali kuasa di bawah seksyen 18A, 18B, 19 dan 27, kepada—
+9. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 6A -->
+
+seksyen 6 seksyen yang berikut:
+
+<!-- marginal: dan 6B. -->
+
+6A. Lembaga hendaklah menjadi pihak berkuasa
+
+<!-- marginal: Lembaga -->
+
+<!-- marginal: menjadi -->
+
+penyelaras yang tunggal berkenaan dengan
+
+<!-- marginal: pihak -->
+
+membentuk, mencipta dan membakukan istilah-
+
+<!-- marginal: berkuasa -->
+
+<!-- marginal: penyelaras -->
+
+istilah dalam bahasa kebangsaan.
+
+<!-- marginal: yang -->
+
+<!-- marginal: tunggal. -->
+
+<!-- marginal: Perwakilan. -->
+
+6B. (1) Lembaga boleh, dengan suatu suratcara secara bertulis yang mengandungi meterai biasanya dan tertakluk kepada apa-apa syarat atau sekatan sebagaimana yang ditetapkan di dalamnya, mewakilkan mana-mana tugas atau kuasanya yang dipertanggungjawabkan atau diberikan kepadanya, kecuali kuasa di bawah seksyen 18A, 18B, 19 dan 27, kepada—
 
 (a) Ketua Pengarah; atau
 
 (b) mana-mana pegawai atau pengkhidmat Lembaga.
 
-(2) Sesuatu perwakilan di bawah subseksyen (1)-
+(2) Sesuatu perwakilan di bawah subseksyen
+
+(1)-
 
 (a) boleh dibatalkan atau diubah pada bila- bila masa oleh Lembaga; dan
 
@@ -152,11 +200,37 @@ Perwakilan. 6B. (1) Lembaga boleh, dengan suatu suratcara secara bertulis yang m
 
 7 dengan seksyen yang berikut:
 
-7. (1) Lembaga hendaklah mempunyai kuasa Kuasa- kuasa am untuk melakukan apa-apa perkara dan untuk Lembaga membuat kontrak atau apa-apa transaksi untuk membuat perniagaan (sama ada atau tidak melibatkan kontrak, perbelanjaan, perolehan, penggunaan dan dsb. pelupusan apa-apa harta alih, tak alih, ketara atau tak ketara) yang pada pendapatnya dikira akan memudahkan pelaksanaan tugasnya atau penjalanan kuasanya dengan berkesan:
+7. (1) Lembaga hendaklah mempunyai kuasa
+
+<!-- marginal: Kuasa- -->
+
+<!-- marginal: kuasa am -->
+
+untuk melakukan apa-apa perkara dan untuk
+
+<!-- marginal: Lembaga -->
+
+membuat kontrak atau apa-apa transaksi
+
+<!-- marginal: untuk -->
+
+<!-- marginal: membuat -->
+
+perniagaan (sama ada atau tidak melibatkan
+
+<!-- marginal: kontrak, -->
+
+perbelanjaan, perolehan, penggunaan dan
+
+<!-- marginal: dsb. -->
+
+pelupusan apa-apa harta alih, tak alih, ketara atau tak ketara) yang pada pendapatnya dikira akan memudahkan pelaksanaan tugasnya atau penjalanan kuasanya dengan berkesan:
 
 Dengan syarat bahawa kuasa ini tidaklah termasuk kuasa untuk meminjam selain daripada yang diperuntukkan dalam seksyen 19(2).
 
-(2) Tanpa menjejaskan keluasan subseksyen (1), Lembaga hendaklah mempunyai kuasa—
+(2) Tanpa menjejaskan keluasan subseksyen
+
+(1), Lembaga hendaklah mempunyai kuasa—
 
 (a) untuk menjalankan apa-apa aktiviti perdagangan, perindustrian, penyeli- dikan atau latihan atau apa-apa aktiviti lain yang penjalanannya ternyata kepadanya diperlukan, berfaedah atau sesuai bagi atau berkaitan dengan pelaksanaan tugasnya atau penjalanan kuasanya;
 
@@ -174,9 +248,43 @@ diletakhakkan pada atau diwakilkan kepada Lembaga di bawah mana-mana undang-unda
 
 (a) "perolehan", berhubungan dengan harta, termasuklah pembelian, pengambilan pajakan dan penyewagunaan harta itu; dan
 
-(b) "pelupusan", berhubungan dengan harta, termasuklah pemindahhakan, penjualan, penyerahhakan, penyerahan dan pemulangan, penggadaian, peng- gadaijanjian, pendemisan, penyewaan dan penyewaan kecil, penyerahhakan semula dan pemindahmilikan harta itu.". 11. Akta ibu adalah dipinda dengan memasukkan selepas baru 7A. seksyen 7 seksyen yang berikut:
+(b) "pelupusan", berhubungan dengan harta, termasuklah pemindahhakan, penjualan, penyerahhakan, penyerahan dan pemulangan, penggadaian, peng- gadaijanjian, pendemisan, penyewaan dan penyewaan kecil, penyerahhakan semula dan pemindahmilikan harta itu.".
 
-Kuasa- 7A. (1) Lembaga boleh, berhubungan dengan kuasa penjalanan tujuannya di bawah seksyen 5 (iii), Lembaga memindah- memindahkan atau melupuskan apa-apa aktiviti kan atau atau tugasnya kepada mana-mana orang atau melupus- kan aktiviti badan tertakluk kepada apa-apa terma dan syarat atau tugas. sebagaimana yang dikenakannya.
+<!-- marginal: Seksyen -->
+
+11. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 7A. -->
+
+seksyen 7 seksyen yang berikut:
+
+<!-- marginal: Kuasa- -->
+
+7A. (1) Lembaga boleh, berhubungan dengan
+
+<!-- marginal: kuasa -->
+
+penjalanan tujuannya di bawah seksyen 5 (iii),
+
+<!-- marginal: Lembaga -->
+
+<!-- marginal: memindah- -->
+
+memindahkan atau melupuskan apa-apa aktiviti
+
+<!-- marginal: kan atau -->
+
+atau tugasnya kepada mana-mana orang atau
+
+<!-- marginal: melupus- -->
+
+<!-- marginal: kan aktiviti -->
+
+badan tertakluk kepada apa-apa terma dan syarat
+
+<!-- marginal: atau tugas. -->
+
+sebagaimana yang dikenakannya.
 
 (2) Lembaga boleh membuat kaedah-kaedah untuk mengawalselia aktiviti orang atau badan itu dan menetapkan kadar dan caj yang boleh ditetapkan oleh orang atau badan itu berkenaan dengan aktiviti atau tugas orang atau badan itu di bawah subseksyen (1).".
 
@@ -192,7 +300,23 @@ Kuasa- 7A. (1) Lembaga boleh, berhubungan dengan kuasa penjalanan tujuannya di b
 
 11 dengan seksyen yang berikut:
 
-"Perlan- 11. (1) Lembaga boleh melantik satu atau lebih tikan dan jawatankuasa yang difikirkannya patut untuk tatacara jawatan- membantunya dalam melaksanakan tugasnya dan kuasa. menjalankan kuasanya tentang apa-apa perkara yang berbangkit daripada atau berkaitan dengan apa-apa tugas atau kuasanya di bawah Akta ini.
+<!-- marginal: "Perlan- -->
+
+11. (1) Lembaga boleh melantik satu atau lebih
+
+<!-- marginal: tikan dan -->
+
+jawatankuasa yang difikirkannya patut untuk
+
+<!-- marginal: tatacara -->
+
+<!-- marginal: jawatan- -->
+
+membantunya dalam melaksanakan tugasnya dan
+
+<!-- marginal: kuasa. -->
+
+menjalankan kuasanya tentang apa-apa perkara yang berbangkit daripada atau berkaitan dengan apa-apa tugas atau kuasanya di bawah Akta ini.
 
 (2) Tertakluk kepada Akta ini, dan kepada apa-apa arahan yang diberikan oleh Lembaga, sesuatu jawatankuasa boleh mengawalselia tatacaranya sendiri.
 
@@ -210,7 +334,27 @@ seksyen 11 seksyen yang berikut:
 
 <!-- marginal: dan 11B. -->
 
-"perlanti- 11A. (1) Tertakluk kepada apa-apa batasan, kan dan sekatan atau syarat sebagaimana yang ditetapkan tatacara oleh Lembaga, suatu jawatankuasa boleh melantik jawatan- kuasa satu atau lebih jawatankuasa kecil untuk kecil. membantunya dalam melaksanakan tugasnya dan menjalankan kuasanya.
+<!-- marginal: "perlanti- -->
+
+11A. (1) Tertakluk kepada apa-apa batasan,
+
+<!-- marginal: kan dan -->
+
+sekatan atau syarat sebagaimana yang ditetapkan
+
+<!-- marginal: tatacara -->
+
+oleh Lembaga, suatu jawatankuasa boleh melantik
+
+<!-- marginal: jawatan- -->
+
+<!-- marginal: kuasa -->
+
+satu atau lebih jawatankuasa kecil untuk
+
+<!-- marginal: kecil. -->
+
+membantunya dalam melaksanakan tugasnya dan menjalankan kuasanya.
 
 <!-- page 8 -->
 
@@ -220,25 +364,45 @@ seksyen 11 seksyen yang berikut:
 
 (4) Sesuatu jawatankuasa kecil hendaklah menepati apa-apa arahan yang diberikan kepadanya dari semasa ke semasa oleh jawatankuasa dan jawatankuasa itu boleh, pada bila-bila masa, memberhentikan atau mengubah pertubuhan jawatankuasa kecil yang dilantik sedemikian.
 
-Saraan 11B. Jika seseorang yang bukan ahli, pegawai atau elaun, atau pengkhidmat Lembaga diundang untuk menghadiri sesuatu mesyuarat Lembaga, mana- mana jawatankuasa atau jawatankuasa kecil bagi maksud memberi bantuan atau nasihat di bawah seksyen 9(3), 11(l)atau 11A(1) Lembaga boleh melalui resolusi menetapkan saraan atau elaun bagi orang itu, dan wang itu hendaklah dibayar daripada Kumpulanwang.".
+<!-- marginal: Saraan -->
 
-Pindaan
+11B. Jika seseorang yang bukan ahli, pegawai
 
-14. Akta ibu adalah dipinda.dengan memasukkan selepas tajuk perkataan "PENTADBIRAN" dalam tajuk Bahagian III Bahagian III perkataan ", TATATERTIB".
+<!-- marginal: atau elaun, -->
+
+atau pengkhidmat Lembaga diundang untuk menghadiri sesuatu mesyuarat Lembaga, mana- mana jawatankuasa atau jawatankuasa kecil bagi maksud memberi bantuan atau nasihat di bawah seksyen 9(3), 11(l)atau 11A(1) Lembaga boleh melalui resolusi menetapkan saraan atau elaun bagi orang itu, dan wang itu hendaklah dibayar daripada Kumpulanwang.".
+
+<!-- marginal: Pindaan -->
+
+14. Akta ibu adalah dipinda.dengan memasukkan selepas
+
+<!-- marginal: tajuk -->
+
+perkataan "PENTADBIRAN" dalam tajuk Bahagian III
+
+<!-- marginal: Bahagian -->
+
+<!-- marginal: III -->
+
+perkataan ", TATATERTIB".
 
 <!-- page 9 -->
 
 ## DAN PERLUASAN)
 
-<!-- marginal: Seksyen -->
+15. Akta ibu adalah dipinda dengan memasukkan selepas baru 16A. seksyen 16 seksyen yang berikut:
 
-15. Akta ibu adalah dipinda dengan memasukkan selepas
+16A. Ketua Pengarah hendaklah, tertakluk kepada
 
-<!-- marginal: baru 16A. -->
+<!-- marginal: Tugas -->
 
-seksyen 16 seksyen yang berikut:
+<!-- marginal: Ketua -->
 
-16A. Ketua Pengarah hendaklah, tertakluk kepada Tugas Ketua arahan dan kawalan Lembaga, bertanggungjawab Pengarah. bagi—
+arahan dan kawalan Lembaga, bertanggungjawab
+
+<!-- marginal: Pengarah. -->
+
+bagi—
 
 (a) pentadbiran dan pengurusan hari ke hari hal-ehwal Lembaga;
 
@@ -254,21 +418,39 @@ seksyen 16 seksyen yang berikut:
 
 (g) pengawasan dan pengawalan ke atas pelaksanaan keputusan-keputusan Lembaga.".
 
-<!-- marginal: Pindaan -->
+Pindaan
 
-16. Seksyen 17 Akta ibu adalah dipinda dengan memotong
+16. Seksyen 17 Akta ibu adalah dipinda dengan memotong seksyen 17. perkataan, "menggantung jawatan, membuangkerja,
 
-<!-- marginal: seksyen 17. -->
-
-perkataan, "menggantung jawatan, membuangkerja, mendenda,".
+<!-- marginal: mendenda,". -->
 
 <!-- page 10 -->
 
-Subtajuk
+<!-- marginal: Subtajuk -->
 
-17. Akta ibu adalah dipinda dengan memasukkan selepas baru dan seksyen 18 subtajuk dan seksyen yang berikut: seksyen baru 18A dan 18B. "Tatatertib
+17. Akta ibu adalah dipinda dengan memasukkan selepas
 
-Jawatan- 18A. (1) Lembaga hendaklah mempunyai kuasa kuasa tata- tatatertib ke atas semua pegawai dan tertib. pengkhidmatnya dan hendaklah menjalankan kawalan tatatertib berkenaan dengan semua orang itu mengikut Akta ini dan mana-mana peraturan yang dibuat di bawah seksyen 18B.
+<!-- marginal: baru dan -->
+
+seksyen 18 subtajuk dan seksyen yang berikut:
+
+<!-- marginal: seksyen baru -->
+
+<!-- marginal: 18A dan 18B. -->
+
+"Tatatertib
+
+<!-- marginal: Jawatan- -->
+
+18A. (1) Lembaga hendaklah mempunyai kuasa
+
+<!-- marginal: kuasa tata- -->
+
+tatatertib ke atas semua pegawai dan
+
+<!-- marginal: tertib. -->
+
+pengkhidmatnya dan hendaklah menjalankan kawalan tatatertib berkenaan dengan semua orang itu mengikut Akta ini dan mana-mana peraturan yang dibuat di bawah seksyen 18B.
 
 (2) Bagi maksud seksyen ini—
 
@@ -278,11 +460,7 @@ Jawatan- 18A. (1) Lembaga hendaklah mempunyai kuasa kuasa tata- tatatertib ke at
 
 (ii) dua ahli Lembaga yang hendaklah dilantik oleh Lembaga; dan
 
-(b) Lembaga boleh, melalui pemberitahuan dalam Warta, menubuhkan jawatan- kuasa tatatertib yang berlainan bagi kategori pegawai-pegawai
-
-<!-- marginal: atau -->
-
-pengkhidmat-pengkhidmat Lembaga yang berlainan.
+(b) Lembaga boleh, melalui pemberitahuan dalam Warta, menubuhkan jawatan- kuasa tatatertib yang berlainan bagi kategori pegawai-pegawai atau pengkhidmat-pengkhidmat Lembaga yang berlainan.
 
 (3) Yang berikut hendaklah terpakai kepada mana-mana jawatankuasa tatatertib yang ditubuhkan menurut subseksyen (2)(b);
 
@@ -318,25 +496,33 @@ dan Menteri atau Lembaga, mengikut mana-mana yang berkenaan, boleh mengesahkan, 
 
 <!-- page 12 -->
 
-jawatankuasa tatatertib yang
-
-<!-- marginal: terhadap -->
-
-keputusannya rayuan itu dibuat yang juga ahli Lembaga tidak boleh hadir atau dalam apa-apa cara turut serta dalam apa-apa prosiding yang berhubungan dengan rayuan itu.
+jawatankuasa tatatertib yang terhadap keputusannya rayuan itu dibuat yang juga ahli Lembaga tidak boleh hadir atau dalam apa-apa cara turut serta dalam apa-apa prosiding yang berhubungan dengan rayuan itu.
 
 (8) Keputusan Menteri atau Lembaga di bawah subseksyen (6) adalah muktamad dan konklusif.
 
-Kuasa untuk 18B. (1) Lembaga boleh, dengan kelulusan membuat Menteri, membuat apa-apa peraturan yang peraturan- peraturan difikirkannya perlu atau suai-manfaat bagi tatatertib. mengadakan peruntukan mengenai tatatertib Ketua Pengarah, pegawai-pegawai dan pengkhidmat-pengkhidmat Lembaga.
+<!-- marginal: Kuasa untuk -->
+
+18B. (1) Lembaga boleh, dengan kelulusan
+
+<!-- marginal: membuat -->
+
+Menteri, membuat apa-apa peraturan yang
+
+<!-- marginal: peraturan- -->
+
+<!-- marginal: peraturan -->
+
+difikirkannya perlu atau suai-manfaat bagi
+
+<!-- marginal: tatatertib. -->
+
+mengadakan peruntukan mengenai tatatertib Ketua Pengarah, pegawai-pegawai dan pengkhidmat-pengkhidmat Lembaga.
 
 (2) Peraturan-peraturan tatatertib yang dibuat di bawah seksyen ini—
 
 (a) boleh mewujudkan kesalahan tatatertib;
 
-(b) boleh mengadakan peruntukan bagi hukuman tatatertib yang difikirkan sesuai oleh Lembaga, dan hukuman- hukuman yang diperuntukkan itu boleh meliputi pelucuthakan emolumen, penangguhan pergerakan
-
-<!-- marginal: gaji, -->
-
-pengurangan gaji, penurunan pangkat dan pembuangan kerja; dan
+(b) boleh mengadakan peruntukan bagi hukuman tatatertib yang difikirkan sesuai oleh Lembaga, dan hukuman- hukuman yang diperuntukkan itu boleh meliputi pelucuthakan emolumen, penangguhan pergerakan gaji, pengurangan gaji, penurunan pangkat dan pembuangan kerja; dan
 
 (c) hendaklah memberikan kepada orang yang terhadapnya prosiding tatatertib itu diambil peluang membuat representasi terhadap tuduhan tatatertib yang dibuat terhadapnya sebelum suatu keputusan dicapai oleh jawatankuasa tatatertib itu kecuali dalam hal-hal yang berikut:
 
@@ -346,63 +532,25 @@ pengurangan gaji, penurunan pangkat dan pembuangan kerja; dan
 
 ## DAN PERLUASAN)
 
-alasan kelakuan yang berkenaan dengannya suatu pertuduhan jenayah telah
+alasan kelakuan yang berkenaan dengannya suatu pertuduhan jenayah telah dibuktikan terhadapnya;
 
-<!-- marginal: dibuktikan -->
+(ii) jika Lembaga, atas syor Menteri yang bertanggungjawab bagi hal- ehwal dalam negeri, berpuas hati bahawa demi kepentingan keselamatan Persekutuan atau mana-mana bahagiannya adalah tidak suai-manfaat untuk menjalankan kehendak pe- renggan ini; atau
 
-terhadapnya;
+(iii) jika telah dibuat terhadap seseorang pegawai atau pengkhidmat Lembaga itu apa- apa perintah tahanan, pengawasan, kediaman terhad, buang negeri atau deportasi, atau jika telah dikenakan terhadap pegawai atau pengkhidmat Lembaga itu apa-apa bentuk sekatan atau pengawasan dengan bon atau selainnya, di bawah mana-mana undang-undang berhubungan dengan keselamatan Persekutuan atau mana-mana bahagiannya, pencegahan jenayah, tahanan pencegahan, kediaman terhad, buang negeri, imigresen, atau perlindungan wanita dan gadis;
 
-(ii) jika Lembaga, atas syor Menteri yang bertanggungjawab bagi hal- ehwal dalam negeri, berpuas hati bahawa demi kepentingan keselamatan Persekutuan atau mana-mana bahagiannya adalah tidak suai-manfaat
-
-<!-- marginal: untuk -->
-
-menjalankan kehendak pe- renggan ini; atau
-
-(iii) jika telah dibuat
-
-<!-- marginal: terhadap -->
-
-seseorang
-
-<!-- marginal: pegawai -->
-
-<!-- marginal: atau -->
-
-pengkhidmat Lembaga itu apa- apa perintah
-
-<!-- marginal: tahanan, -->
-
-pengawasan, kediaman terhad, buang negeri atau deportasi, atau jika telah dikenakan terhadap pegawai atau pengkhidmat Lembaga itu apa-apa bentuk sekatan atau pengawasan dengan bon atau selainnya, di bawah mana-mana undang-undang berhubungan dengan keselamatan Persekutuan atau mana-mana bahagiannya,
-
-<!-- marginal: pencegahan -->
-
-jenayah, tahanan pencegahan, kediaman terhad, buang negeri, imigresen, atau perlindungan wanita dan gadis;
-
-(d) peruntukan-peruntukan bagi penahanan kerja dengan pengurangan emolumen seseorang pegawai atau pengkhidmat Lembaga sementara menanti suatu prosiding jenayah terhadapnya atau prosiding tatatertib terhadapnya dengan tujuan membuang
-
-<!-- marginal: kerja -->
-
-<!-- marginal: atau -->
-
-menurunkan pangkatnya; dan
+(d) peruntukan-peruntukan bagi penahanan kerja dengan pengurangan emolumen seseorang pegawai atau pengkhidmat Lembaga sementara menanti suatu prosiding jenayah terhadapnya atau prosiding tatatertib terhadapnya dengan tujuan membuang kerja atau menurunkan pangkatnya; dan
 
 <!-- page 14 -->
 
-(e) peruntukan-peruntukan
-
-<!-- marginal: bagi -->
-
-penggantungan kerja tanpa emolumen seseorang pegawai atau pengkhidmat Lembaga jika pegawai
-
-<!-- marginal: atau -->
-
-pengkhidmat itu telah disabitkan oleh mana-mana mahkamah jenayah atau jika suatu perintah tahanan atau sekatan telah dibuat berkenaan dengan atau dikenakan ke atas pegawai atau pengkhidmat itu.
+(e) peruntukan-peruntukan bagi penggantungan kerja tanpa emolumen seseorang pegawai atau pengkhidmat Lembaga jika pegawai atau pengkhidmat itu telah disabitkan oleh mana-mana mahkamah jenayah atau jika suatu perintah tahanan atau sekatan telah dibuat berkenaan dengan atau dikenakan ke atas pegawai atau pengkhidmat itu.
 
 (3) Bagi maksud subseksyen (2), "pegawai" termasuklah Ketua Pengarah.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-18. Seksyen 22 Akta ibu adalah dipinda— seksyen 22.
+18. Seksyen 22 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 22. -->
 
 (a) dengan menggantikan perkataan "seksyen- seksyen 11(4)" dengan perkataan "seksyen- seksyen 11B";
 
@@ -414,7 +562,25 @@ Pindaan
 
 "(e) bagi memberi pinjaman-pinjaman kepada pegawai-pegawai dan pengkhidmat- pengkhidmat Lembaga bagi apa-apa maksud lain yang diluluskan oleh Lembaga.".
 
-19. Akta ibu adalah dipinda dengan memasukkan selepas baru 24A, seksyen 24 seksyen yang berikut: 24B, 24c dan 24D. "Pengenaan 24A. (1) Seseorang yang atau telah dalam surcaj. penggajian Lembaga boleh disurcajkan jika didapati oleh Lembaga bahawa orang itu—
+<!-- marginal: Seksyen -->
+
+19. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 24A, -->
+
+seksyen 24 seksyen yang berikut:
+
+<!-- marginal: 24B, 24c -->
+
+<!-- marginal: dan 24D. -->
+
+<!-- marginal: "Pengenaan -->
+
+24A. (1) Seseorang yang atau telah dalam
+
+<!-- marginal: surcaj. -->
+
+penggajian Lembaga boleh disurcajkan jika didapati oleh Lembaga bahawa orang itu—
 
 (a) telah gagal memungut apa-apa wang yang terhutang kepada Lembaga yang pemungutannya menjadi tanggung- jawabnya;
 
@@ -430,17 +596,7 @@ sepatutnya daripada Kumpulanwang atau atas apa-apa pembayaran wang yang tidak di
 
 (d) sebagai atau semasa menjadi pegawai perakaunan, gagal atau telah gagal menyimpan akaun atau rekod yang sepatutnya; atau
 
-(e) telah gagal membuat
-
-<!-- marginal: apa-apa -->
-
-pembayaran, atau adalah atau telah bertanggungjawab atas apa-apa kelewatan dalam pembayaran, wang daripada Kumpulanwang kepada mana- mana orang
-
-<!-- marginal: yang -->
-
-<!-- marginal: kepadanya -->
-
-pembayaran itu kena dibayar di bawah mana-mana kontrak, perjanjian atau perkiraan yang dibuat antara orang itu dengan Lembaga.
+(e) telah gagal membuat apa-apa pembayaran, atau adalah atau telah bertanggungjawab atas apa-apa kelewatan dalam pembayaran, wang daripada Kumpulanwang kepada mana- mana orang yang kepadanya pembayaran itu kena dibayar di bawah mana-mana kontrak, perjanjian atau perkiraan yang dibuat antara orang itu dengan Lembaga.
 
 (2) Lembaga hendaklah, sebelum orang itu disurcajkan, menyampaikan suatu notis bertulis kepadanya yang memintanya menunjukkan sebab mengapa dia tidak sepatutnya disurcajkan.
 
@@ -454,11 +610,29 @@ pembayaran itu kena dibayar di bawah mana-mana kontrak, perjanjian atau perkiraa
 
 (b) dalam hal subseksyen (l)(d) dan (e), mensurcajkan apa-apa jumlah wang yang difikirkan patut oleh Lembaga terhadap orang itu.
 
-Pemberita- 24B. Lembaga hendaklah memberitahu orang huan surcaj. yang disurcajkan itu berkenaan dengan apa-apa surcaj yang dibuat di bawah seksyen 24A(3).
+<!-- marginal: Pemberita- -->
 
-Penarikan 24c. Walau apa pun seksyen 24A(3) dan seksyen balik surcaj. 24s, Lembaga boleh pada bila-bila masa menarik balik apa-apa surcaj yang berkenaan dengannya suatu penjelasan yang memuaskan hati telah diterima atau jika ternyata selainnya bahawa tiada surcaj patut dibuat, dan Lembaga hendaklah dengan segera memberitahu orang itu tentang penarikan balik itu.
+24B. Lembaga hendaklah memberitahu orang
 
-Mendapat- 24o. Amaun apa-apa surcaj yang dibuat di bawah kan surcaj. seksyen 24A(3) dan tidak ditarik balik di bawah seksyen 24c hendaklah menjadi suatu hutang yang kena dibayar kepada Lembaga daripada orang yang terhadapnya surcaj itu dibuat dan boleh didakwa dan didapatkan di dalam mana- mana mahkamah atas guaman Lembaga dan boleh juga jika diarahkan oleh Lembaga didapatkan melalui pemotongan—
+<!-- marginal: huan surcaj. -->
+
+yang disurcajkan itu berkenaan dengan apa-apa surcaj yang dibuat di bawah seksyen 24A(3).
+
+<!-- marginal: Penarikan -->
+
+24c. Walau apa pun seksyen 24A(3) dan seksyen
+
+<!-- marginal: balik surcaj. -->
+
+24s, Lembaga boleh pada bila-bila masa menarik balik apa-apa surcaj yang berkenaan dengannya suatu penjelasan yang memuaskan hati telah diterima atau jika ternyata selainnya bahawa tiada surcaj patut dibuat, dan Lembaga hendaklah dengan segera memberitahu orang itu tentang penarikan balik itu.
+
+<!-- marginal: Mendapat- -->
+
+24o. Amaun apa-apa surcaj yang dibuat di bawah
+
+<!-- marginal: kan surcaj. -->
+
+seksyen 24A(3) dan tidak ditarik balik di bawah seksyen 24c hendaklah menjadi suatu hutang yang kena dibayar kepada Lembaga daripada orang yang terhadapnya surcaj itu dibuat dan boleh didakwa dan didapatkan di dalam mana- mana mahkamah atas guaman Lembaga dan boleh juga jika diarahkan oleh Lembaga didapatkan melalui pemotongan—
 
 (a) gaji orang yang disurcajkan; atau
 
@@ -544,6 +718,4 @@ penggunaan bahasa kebangsaan yang betul dan menggalakkan penggunaannya yang lebi
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
-
-<!-- marginal: [PN. (U2)1256.] -->
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN. (U2)1256.]

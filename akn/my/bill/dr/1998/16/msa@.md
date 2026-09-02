@@ -28,7 +28,19 @@
 
 ## Jadual.
 
-8. Akuan berkanun oleh anggota Suruhanjaya. 9. Kelulusan untuk memegang jawatan lain. 10. Tempoh jawatan. 11. Saraan dan elaun. 12. Pembatalan pelantikan dan peletakan jawatan. 13. Pengosongan jawatan. 14. Penjalanan sementara fungsi Pengerusi. 15. Jawatankuasa.
+8. Akuan berkanun oleh anggota Suruhanjaya. 9. Kelulusan untuk memegang jawatan lain.
+
+10. Tempoh jawatan.
+
+11. Saraan dan elaun.
+
+12. Pembatalan pelantikan dan peletakan jawatan.
+
+13. Pengosongan jawatan.
+
+14. Penjalanan sementara fungsi Pengerusi.
+
+15. Jawatankuasa.
 
 <!-- page 2 -->
 
@@ -92,13 +104,45 @@ Multimedia Malaysia
 
 ## KEWANGAN
 
-38. Kumpulan Wang. 39. Perbelanjaan yang hendaklah dipertanggungkan pada Kumpulan Wang. 40. Pemeliharaan Kumpulan Wang. 41. Perbelanjaan dan penyediaan anggaran. 42. Akaun bank. 43. Kuasa untuk meminjam. 44. Pelaburan. 45. Sekatan ke atas kontrak. 46. Tahun kewangan. 47. Akaun. 48. Ketakpakaian Akta Badan Berkanun (Akaun dan Laporan Tahunan) 1980.
+38. Kumpulan Wang.
+
+39. Perbelanjaan yang hendaklah dipertanggungkan pada Kumpulan Wang.
+
+40. Pemeliharaan Kumpulan Wang.
+
+41. Perbelanjaan dan penyediaan anggaran.
+
+42. Akaun bank.
+
+43. Kuasa untuk meminjam.
+
+44. Pelaburan.
+
+45. Sekatan ke atas kontrak.
+
+46. Tahun kewangan.
+
+47. Akaun.
+
+48. Ketakpakaian Akta Badan Berkanun (Akaun dan Laporan Tahunan) 1980.
 
 ## BAHAGIAN VI
 
 ### AM
 
-49. Pelantikan dan kuasa pegawai penyiasat. 50. Pekhidmat awam. 51. Akta Perlindungan Pihak Berkuasa Awam 1948. 52. Kewajipan kerahsiaan. 53. Pewakilan dalam prosiding sivil. 54. Kuasa untuk mengambil kerja. 55. Perkara yang dilakukan pada menjangkakan Akta ini diperbuat.
+49. Pelantikan dan kuasa pegawai penyiasat.
+
+50. Pekhidmat awam.
+
+51. Akta Perlindungan Pihak Berkuasa Awam 1948.
+
+52. Kewajipan kerahsiaan.
+
+53. Pewakilan dalam prosiding sivil.
+
+54. Kuasa untuk mengambil kerja.
+
+55. Perkara yang dilakukan pada menjangkakan Akta ini diperbuat.
 
 ## JADUAL
 
@@ -142,7 +186,11 @@ menghendaki makna yang lain—
 
 "Suruhanjaya" ertinya Suruhanjaya Komunikasi dan Multimedia Malaysia yang ditubuhkan di bawah seksyen 4;
 
-"undang-undang komunikasi dan multimedia" ertinya Akta Akta ini dan Akta Komunikasi dan Multimedia 1998, dan termasuklah mana-mana perundangan subsidiari yang dibuat di bawah undang-undang itu, dan mana-mana undang-undang bertulis lain yang di bawahnya Suruhanjaya dikehendaki menjaiankan apa-apa fungsi.
+"undang-undang komunikasi dan multimedia" ertinya
+
+<!-- marginal: Akta -->
+
+Akta ini dan Akta Komunikasi dan Multimedia 1998, dan termasuklah mana-mana perundangan subsidiari yang dibuat di bawah undang-undang itu, dan mana-mana undang-undang bertulis lain yang di bawahnya Suruhanjaya dikehendaki menjaiankan apa-apa fungsi.
 
 ## BAHAGIAN
 
@@ -150,7 +198,9 @@ II
 
 ## SURUHANJAYA
 
-Penubuhan 4. (1) Maka inilah ditubuhkan suatu pertubuhan Suruhanjaya. perbadanan dengan nama "Suruhanjaya Komunikasi dan Multimedia Malaysia".
+<!-- marginal: Penubuhan -->
+
+4. (1) Maka inilah ditubuhkan suatu pertubuhan Suruhanjaya. perbadanan dengan nama "Suruhanjaya Komunikasi dan Multimedia Malaysia".
 
 (2) Suruhanjaya adalah kekal turun-temurun.
 
@@ -202,9 +252,7 @@ Keanggotaan 6. Suruhanjaya hendaklah terdiri daripada anggota yang suruhanjaya. 
 
 perintah yang disiarkan dalam Warta.
 
-Akuan
-
-8. (1) Tiada seorangpun boleh dilantik sebagai anggota berkanun oleh anggota Suruhanjaya itu membuat suatu akuan berkanun sama ada dia mempunyai
+Akuan 8. (1) Tiada seorangpun boleh dilantik sebagai anggota berkanun oleh anggota Suruhanjaya itu membuat suatu akuan berkanun sama ada dia mempunyai
 
 <!-- page 9 -->
 
@@ -268,7 +316,13 @@ pemenjaraan sahaja atau sebagai tambahan kepada denda atau sebagai ganti denda) 
 
 (i) jika peletakanjawatannya diterima oleh Menteri.
 
-Penjalanan 14. Menteri boleh melantik mana-mana anggota untuk sementara bertindak sebagai Pengerusi—
+<!-- marginal: Penjalanan -->
+
+14. Menteri boleh melantik mana-mana anggota untuk
+
+<!-- marginal: sementara -->
+
+bertindak sebagai Pengerusi—
 
 (b) semasa apa-apa tempoh Pengerusi tidak hadir bertugas atau tidak ada di Malaysia; dan
 
@@ -316,7 +370,17 @@ III
 
 ## KUASA DAN FUNGSI SURUHANJAYA
 
-Kuasa dan 16. (1) Suruhanjaya hendaklah mempunyai segala fungsi fungsi yang dipertanggungkan ke atasnya di bawah undang-undang Susurhanjaya komunikasi dan multimedia dan, tanpa menjejaskan keluasan yang disebut terdahulu, Suruhanjaya hendaklah juga mempunyai fungsi-fungsi yang berikut:
+<!-- marginal: Kuasa dan -->
+
+16. (1) Suruhanjaya hendaklah mempunyai segala fungsi
+
+<!-- marginal: fungsi -->
+
+yang dipertanggungkan ke atasnya di bawah undang-undang
+
+<!-- marginal: Susurhanjaya -->
+
+komunikasi dan multimedia dan, tanpa menjejaskan keluasan yang disebut terdahulu, Suruhanjaya hendaklah juga mempunyai fungsi-fungsi yang berikut:
 
 (a) menasihati Menteri tentang perkara-perkara berkenaan dengan objektif dasar kebangsaan bagi aktiviti-aktiviti komunikasi dan multimedia;
 
@@ -366,13 +430,23 @@ multimedia; dan
 
 (4) Pewakilan di bawah seksyen ini tidaklah menghalang Suruhanjaya daripada melaksanakan atau menjalankan sendiri mana-mana fungsi atau kuasa yang diwakilkan itu pada bila-bila masa.
 
-Arahan 18. (1) Suruhanjaya hendaklah bertanggungjawab kepada Menteri Menteri.
+<!-- marginal: Arahan -->
+
+18. (1) Suruhanjaya hendaklah bertanggungjawab kepada
+
+<!-- marginal: Menteri -->
+
+Menteri.
 
 arahan-arahan yang bersifat am yang tidak tak selaras dengan peruntukan-peruntukan Akta ini berhubungan dengan pelaksanaan fungsi-fungsi dan kuasa-kuasa Suruhanjaya dan Suruhanjaya hendaklah melaksanakan arahan-arahan itu.
 
-Penyata,
+<!-- marginal: Penyata, -->
 
-19. (1) Suruhanjaya hendaklah memberikan kepada akaun dan Menteri, dan mana-mana pihak berkuasa awam maklumat. sebagaimana yang ditentukan oleh Menteri, apa-apa penyata, laporan, akaun dan maklumat mengenai aktiviti- (2) Penyata-penyata, laporan-laporan, akaun-akaun dan .
+19. (1) Suruhanjaya hendaklah memberikan kepada akaun dan Menteri, dan mana-mana pihak berkuasa awam
+
+<!-- marginal: maklumat. -->
+
+sebagaimana yang ditentukan oleh Menteri, apa-apa penyata, laporan, akaun dan maklumat mengenai aktiviti- (2) Penyata-penyata, laporan-laporan, akaun-akaun dan .
 
 maklumat-maklumat itu hendaklah dalam apa-apa bentuk dan hendaklah mengandungi apa-apa maklumat berhubungan dengan perjalanan dan dasar Suruhanjaya dan apa-apa perkara lain yang ditentukan oleh Menteri, dari semasa ke semasa.
 
@@ -382,7 +456,15 @@ IV
 
 ## PEKERJA SURUHANJAYA
 
-20. (1) Tanpa menjejaskan peruntukan lain dalam Akta Pengerusi hendaklah ini, Pengerusi hendaklah menjadi Ketua Eksekutif menjadi
+20. (1) Tanpa menjejaskan peruntukan lain dalam Akta
+
+<!-- marginal: Pengerusi -->
+
+<!-- marginal: hendaklah -->
+
+ini, Pengerusi hendaklah menjadi Ketua Eksekutif
+
+<!-- marginal: menjadi -->
 
 <!-- page 15 -->
 
@@ -474,11 +556,7 @@ kepentingan keselamatan Malaysia atau mana-mana bahagiannya adalah tidak suaiman
 
 (iii) jika telah—
 
-(A) dibuat terhadap seseorang pekerja apa-apa perintah
-
-<!-- marginal: tahanan, -->
-
-pengawasan, kediaman terhad, buang negeri atau pengusiran; atau
+(A) dibuat terhadap seseorang pekerja apa-apa perintah tahanan, pengawasan, kediaman terhad, buang negeri atau pengusiran; atau
 
 (B) dikenakan terhadap seseorang pekerja apa-apa bentuk sekatan atau pengawasan dengan bon atau selainnya,
 
@@ -486,11 +564,7 @@ di bawah mana-mana undang-undang berhubungan dengan keselamatan Malaysia atau ma
 
 (d) boleh mengadakan peruntukan bagi penahanan kerja dengan pengurangan emolumen seseorang pekerja semasa menanti selesainya prosiding jenayah atau prosiding tatatertib terhadapnya dengan tujuan buang kerja atau turun pangkat; dan
 
-(e) boleh mengadakan peruntukan
-
-<!-- marginal: bagi -->
-
-penggantungan tanpa emolumen seseorang pekerja—
+(e) boleh mengadakan peruntukan bagi penggantungan tanpa emolumen seseorang pekerja—
 
 (i) jika pekerja itu telah disabitkan oleh suatu mahkamah jenayah; atau
 
@@ -528,7 +602,13 @@ kepentingan awam, maka Suruhanjaya bolehlah meminta daripada pegawai atasan peke
 
 (4) Walau apa pun apa-apa jua dalam Akta ini dan mana-mana undang-undang lain yang berlawanan, dalam menamatkan perkhidmatan seseorang pekerja demi kepentingan awam di bawah seksyen ini, pekerja itu boleh tidak diberikan peluang untuk didengar dan seseorang pekerja yang perkhidmatannya telah ditamatkan demi kepentingan awam di bawah seksyen ini tidak boleh dianggap telah dibuang kerja, tanpa mengira sama ada penamatan perkhidmatan pekerja itu rnelibatkan suatu elemen hukuman atau berkaitan dengan tatakelakuan berhubungan dengan jawatannya yang dianggap oleh Suruhanjaya tak memuaskan atau patut disalahkan.
 
-Pengenaan 31. (1) Seseorang yang sedang atau pernah bekerja dengan surcaj. Suruhanjaya boleh disurcaj jika ternyata kepada Suruhanjaya bahawa orang itu—
+<!-- marginal: Pengenaan -->
+
+31. (1) Seseorang yang sedang atau pernah bekerja dengan
+
+<!-- marginal: surcaj. -->
+
+Suruhanjaya boleh disurcaj jika ternyata kepada Suruhanjaya bahawa orang itu—
 
 (a) tidak memungut apa-apa wang yang terhutang kepada Suruhanjaya yang pemungutannya menjadi tanggungjawabnya;
 
@@ -566,13 +646,29 @@ dalam masa empat belas hari dari tarikh notis disampaikan surcaj kepada seseoran
 
 (b) dalam hal mana-rnana perbuatan atau peninggalan yang disebut dalam perenggan 31 (l ) ( d) dan (e), mensurcaj terhadap orang itu apa-apa jumlah wang yang difikirkan patut oleh Suruhanjaya.
 
-Pemberitahuan
+<!-- marginal: Pemberitahuan -->
 
-34. Suruhanjaya hendaklah memberitahu orang yang surcaj. disurcaj berkenaan dengan apa-apa surcaj yang dikenakan di bawah seksyen 33.
+34. Suruhanjaya hendaklah memberitahu orang yang
 
-Penarikbalikan 35. Walau apa pun seksyen 33 dan 34, Suruhanjaya boleh surcaj. pada bila-bila masa menarik balik apa-apa surcaj yang berkenaan dengannya penjelasan yang memuaskan hati telah diterima atau jika ternyata selainnya bahawa tiada surcaj patut dibuat, dan Suruhanjaya hendaklah dengan serta-merta memberitahu orang yang disurcaj itu tentang penarikbalikan itu.
+<!-- marginal: surcaj. -->
 
-Mendapatkan 36. Amaun apa-apa surcaj yang dikenakan di bawah surcaj. seksyen 33 dan tidak ditarik balik di bawah seksyen 35 hendaklah menjadi hutang yang kena dibayar kepada Suruhanjaya daripada orang yang disurcaj dan boleh didakwa dan didapatkan di dalam mana-mana mahkamah atas guaman Suruhanjaya dan boleh juga, jika diarahkan oleh Suruhanjaya, didapatkan melalui potongan—
+disurcaj berkenaan dengan apa-apa surcaj yang dikenakan di bawah seksyen 33.
+
+<!-- marginal: Penarikbalikan -->
+
+35. Walau apa pun seksyen 33 dan 34, Suruhanjaya boleh
+
+<!-- marginal: surcaj. -->
+
+pada bila-bila masa menarik balik apa-apa surcaj yang berkenaan dengannya penjelasan yang memuaskan hati telah diterima atau jika ternyata selainnya bahawa tiada surcaj patut dibuat, dan Suruhanjaya hendaklah dengan serta-merta memberitahu orang yang disurcaj itu tentang penarikbalikan itu.
+
+<!-- marginal: Mendapatkan -->
+
+36. Amaun apa-apa surcaj yang dikenakan di bawah
+
+<!-- marginal: surcaj. -->
+
+seksyen 33 dan tidak ditarik balik di bawah seksyen 35 hendaklah menjadi hutang yang kena dibayar kepada Suruhanjaya daripada orang yang disurcaj dan boleh didakwa dan didapatkan di dalam mana-mana mahkamah atas guaman Suruhanjaya dan boleh juga, jika diarahkan oleh Suruhanjaya, didapatkan melalui potongan—
 
 (a) gaji orang yang disurcaj; atau
 
@@ -580,7 +676,29 @@ Mendapatkan 36. Amaun apa-apa surcaj yang dikenakan di bawah surcaj. seksyen 33 
 
 dengan ansuran bulanan yang sama banyak yang tidak melebihi satu perempat daripada jumlah gaji atau pencen bulanan, mengikut mana-mana yang berkenaan, orang itu.
 
-Suruhanjaya 37. Dalam membuat apa-apa peraturan di bawah Bahagian boleh ini, Suruhanjaya boleh, dengan kelulusan Menteri, menerima pakai menerima pakai dengan membuat apa-apa ubahsuaian peraturan- peraturan, yang difikirkannya patut mana-mana peraturan, kaedah, dsb. dasar, pekeliling dan arahan yang diperbuat atau dikeluarkan oleh Kerajaan Persekutuan.
+<!-- marginal: Suruhanjaya -->
+
+37. Dalam membuat apa-apa peraturan di bawah Bahagian
+
+<!-- marginal: boleh -->
+
+ini, Suruhanjaya boleh, dengan kelulusan Menteri,
+
+<!-- marginal: menerima -->
+
+<!-- marginal: pakai -->
+
+menerima pakai dengan membuat apa-apa ubahsuaian
+
+<!-- marginal: peraturan- -->
+
+<!-- marginal: peraturan, -->
+
+yang difikirkannya patut mana-mana peraturan, kaedah,
+
+<!-- marginal: dsb. -->
+
+dasar, pekeliling dan arahan yang diperbuat atau dikeluarkan oleh Kerajaan Persekutuan.
 
 <!-- page 23 -->
 
@@ -628,9 +746,27 @@ Akta Komunikasi dan Multimedia 1998;
 
 (i) semua wang lain yang diterima secara sah oleh Suruhanjaya, termasuklah bunga.
 
-Perbelanjaan 39. Kumpulan Wang hendaklah dibelanjakan bagi maksud- yang maksud yang berikut: hendaklah dipertanggung-
+<!-- marginal: Perbelanjaan -->
 
-(a) membayar apa-apa perbelanjaan yang dilakukan kan pada Kumpulan secara sah oleh Suruhanjaya; Wang.
+39. Kumpulan Wang hendaklah dibelanjakan bagi maksud-
+
+<!-- marginal: yang -->
+
+maksud yang berikut:
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: dipertanggung- -->
+
+(a) membayar apa-apa perbelanjaan yang dilakukan
+
+<!-- marginal: kan pada -->
+
+<!-- marginal: Kumpulan -->
+
+secara sah oleh Suruhanjaya;
+
+<!-- marginal: Wang. -->
 
 (b) membayar saraan, elaun dan perbelanjaan lain anggota-anggota Suruhanjaya, anggota-anggota jawatankuasa, pekerja-pekerja Suruhanjaya, termasuklah pinjaman dan wang pendahuluan, elaun persaraan, faedah pesaraan, pencen dan gratuiti;
 
@@ -690,15 +826,37 @@ hendaklah dibayar daripada Kumpulan Wang.
 
 <!-- page 26 -->
 
-Kuasa untuk 43. Suruhanjaya boleh, dari semasa ke semasa, meminjam meminjam. dalam apa-apa bentuk dan pada apa-apa kadar bunga dan bagi apa-apa tempoh dan atas apa-apa terma tentang masa dan kaedah pembayaran balik dan selainnya, sebagaimana yang diluluskan oleh Menteri dengan persetujuan Menteri Kewangan, apa-apa wang yang diperlukan oleh Suruhanjaya bagi memenuhi mana-mana obligasinya atau bagi melaksanakan mana-mana kewajipannya.
+<!-- marginal: Kuasa untuk -->
 
-Pelaburan. 44. Wang Suruhanjaya hendaklah, setakat yang tidak diperlukan untuk dibelanjakan dengan segera oleh Suruhanjaya di bawah Akta ini, dilaburkan dengan apa- apa cara sebagaimana yang diluluskan oleh Menteri dengan persetujuan Menteri Kewangan.
+43. Suruhanjaya boleh, dari semasa ke semasa, meminjam
 
-Sekatan ke 45. Suruhanjaya tidak boleh, tanpa kelulusan Menteri atas kontrak. dan persetujuan Menteri Kewangan, membuat apa-apa kontrak yang di bawahnya Suruhanjaya kena membayar atau akan menerima suatu amaun yang melebihi lima juta ringgit.
+<!-- marginal: meminjam. -->
 
-Tahun 46. Tahun kewangan Suruhanjaya hendaklah bermula kewangan. pada 1 Januari dan berakhir pada 31 Disember setiap tahun.
+dalam apa-apa bentuk dan pada apa-apa kadar bunga dan bagi apa-apa tempoh dan atas apa-apa terma tentang masa dan kaedah pembayaran balik dan selainnya, sebagaimana yang diluluskan oleh Menteri dengan persetujuan Menteri Kewangan, apa-apa wang yang diperlukan oleh Suruhanjaya bagi memenuhi mana-mana obligasinya atau bagi melaksanakan mana-mana kewajipannya.
 
-Akaun. 47. (1) Suruhanjaya hendaklah menyebabkan disimpan akaun yang sepatutnya bagi Kumpulan Wang dan hendaklah, dengan secepat yang dapat dilaksanakan selepas berakhirnya setiap tahun kewangan, menyebabkan disediakan bagi tahun kewangan itu suatu penyata akaun Suruhanjaya yang hendaklah mengandungi kunci kira- kira dan akaun pendapatan dan perbelanjaan.
+<!-- marginal: Pelaburan. -->
+
+44. Wang Suruhanjaya hendaklah, setakat yang tidak diperlukan untuk dibelanjakan dengan segera oleh Suruhanjaya di bawah Akta ini, dilaburkan dengan apa- apa cara sebagaimana yang diluluskan oleh Menteri dengan persetujuan Menteri Kewangan.
+
+<!-- marginal: Sekatan ke -->
+
+45. Suruhanjaya tidak boleh, tanpa kelulusan Menteri
+
+<!-- marginal: atas kontrak. -->
+
+dan persetujuan Menteri Kewangan, membuat apa-apa kontrak yang di bawahnya Suruhanjaya kena membayar atau akan menerima suatu amaun yang melebihi lima juta ringgit.
+
+<!-- marginal: Tahun -->
+
+46. Tahun kewangan Suruhanjaya hendaklah bermula
+
+<!-- marginal: kewangan. -->
+
+pada 1 Januari dan berakhir pada 31 Disember setiap tahun.
+
+<!-- marginal: Akaun. -->
+
+47. (1) Suruhanjaya hendaklah menyebabkan disimpan akaun yang sepatutnya bagi Kumpulan Wang dan hendaklah, dengan secepat yang dapat dilaksanakan selepas berakhirnya setiap tahun kewangan, menyebabkan disediakan bagi tahun kewangan itu suatu penyata akaun Suruhanjaya yang hendaklah mengandungi kunci kira- kira dan akaun pendapatan dan perbelanjaan.
 
 (2) Suruhanjaya hendaklah menyebabkan penyata akaun itu diaudit oleh juruaudit-juruaudit bebas yang dilantik oleh Suruhanjaya.
 
@@ -802,7 +960,17 @@ atau ejen Suruhanjaya atau mana-mana orang yang menghadiri mana-mana mesyuarat S
 
 (2) Mana-mana orang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan hendaklah, apabila disabitkan, didenda tidak melebihi sepuluh ribu ringgit atau dipenjarakan selama suatu tempoh yang tidak melebihi satu bulan atau kedua-duanya.
 
-Pewakilan 53. Walau apa pun peruntukan dalam mana-mana undang- dalam undang bertulis yang lain— prosiding sivil.
+<!-- marginal: Pewakilan -->
+
+53. Walau apa pun peruntukan dalam mana-mana undang-
+
+<!-- marginal: dalam -->
+
+undang bertulis yang lain—
+
+<!-- marginal: prosiding -->
+
+<!-- marginal: sivil. -->
 
 (a) dalam apa-apa prosiding sivil oleh atau terhadap Suruhanjaya; atau
 
@@ -810,9 +978,17 @@ Pewakilan 53. Walau apa pun peruntukan dalam mana-mana undang- dalam undang bert
 
 mana-mana orang yang diberi kuasa oleh Suruhanjaya bagi maksud itu boleh, bagi pihak Suruhanjaya, memulakan prosiding itu atau hadir untuknya dan boleh membuat semua kehadiran dan permohonan dan melakukan segala perbuatan berkenaan dengan prosiding itu bagi pihak Suruhanjaya.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-54. Suruhanjaya boleh mengambil kerja dan membayar mengambil ejen dan penasihat teknikal, termasuklah peguambela dan kerja. peguamcara, ahli bank, pakar runding dan orang lain, untuk membuat apa-apa urusan atau untuk melakukan
+54. Suruhanjaya boleh mengambil kerja dan membayar
+
+<!-- marginal: mengambil -->
+
+ejen dan penasihat teknikal, termasuklah peguambela dan
+
+<!-- marginal: kerja. -->
+
+peguamcara, ahli bank, pakar runding dan orang lain, untuk membuat apa-apa urusan atau untuk melakukan
 
 <!-- page 29 -->
 
@@ -870,7 +1046,13 @@ yang perlu bagi melaksanakan fungsi-fungsinya dengan berkesan dan mesyuarat-mesy
 
 <!-- page 30 -->
 
-Keretapan tanpa 5. (1) Sesuatu ketetapan dianggap telah diluluskan dalam sesuatu bermesyuarat. mesyuarat Suruhanjaya jika—
+<!-- marginal: Keretapan tanpa -->
+
+5. (1) Sesuatu ketetapan dianggap telah diluluskan dalam sesuatu
+
+<!-- marginal: bermesyuarat. -->
+
+mesyuarat Suruhanjaya jika—
 
 (a) semua anggota Suruhanjaya telah diberitahu tentang ketetapan yang dicadangkan itu, atau usaha yang munasabah telah dibuat untuk memberitahu semua anggota Surhanjaya tentang ketetapan yang dicadangkan itu; dan
 
@@ -882,15 +1064,25 @@ Keretapan tanpa 5. (1) Sesuatu ketetapan dianggap telah diluluskan dalam sesuatu
 
 (b) memutuskan cara yang melaluinya anggota Suruhanjaya boleh menandakan persetujuan ke atas ketetapan-ketetapan.
 
-Minit. 6. (1) Suruhanjaya hendaklah menyebabkan minit kesemua mesyuarat Suruhanjaya disenggarakan dan disimpan dalam bentuk yang sepatutnya.
+<!-- marginal: Minit. -->
+
+6. (1) Suruhanjaya hendaklah menyebabkan minit kesemua mesyuarat Suruhanjaya disenggarakan dan disimpan dalam bentuk yang sepatutnya.
 
 (2) Minit yang dibuat mengenai mesyuarat Suruhanjaya, jika ditandatangani dengan sewajarnya, hendaklah diterima sebagai keterangan primafacie dalam segala prosiding undang-undang tanpa bukti selanjutnya.
 
 (3) Tiap-tiap mesyuarat Suruhanjaya yang minit mengenainya telah dibuat mengikut subperenggan (1) dan (2) hendaklah disifatkan telah dipanggil dan diadakan dengan sewajarnya dan kesemua anggota dalam mesyuarat itu layak dengan sewajarnya untuk bertindak.
 
-Tatacara. 7. Suruhanjaya boleh mengawal selia tatacaranya sendiri.
+<!-- marginal: Tatacara. -->
 
-Penzahiran 8. (1) Seseorang anggota Suruhanjaya yang, secara langsung atau kepentingan. tak langsung, mempunyai sendiri atau melalui pekongsinya, suatu kepentingan dalam suatu perkara yang sedang dipertimbangkan oleh Suruhanjaya hendaklah dengan seberapa cepat yang dapat selepas fakta yang berkaitan sampai kepada pengetahuannya, menzahirkan kepada Suruhanjaya hakikat dan jenis kepentingannya itu.
+7. Suruhanjaya boleh mengawal selia tatacaranya sendiri.
+
+<!-- marginal: Penzahiran -->
+
+8. (1) Seseorang anggota Suruhanjaya yang, secara langsung atau
+
+<!-- marginal: kepentingan. -->
+
+tak langsung, mempunyai sendiri atau melalui pekongsinya, suatu kepentingan dalam suatu perkara yang sedang dipertimbangkan oleh Suruhanjaya hendaklah dengan seberapa cepat yang dapat selepas fakta yang berkaitan sampai kepada pengetahuannya, menzahirkan kepada Suruhanjaya hakikat dan jenis kepentingannya itu.
 
 (2) Penzahiran di bawah subperenggan (1) hendaklah direkodkan dalam minit Suruhanjaya dan, selepas penzahiran itu, melainkan jika dibenarkan oleh Pengerusi—
 

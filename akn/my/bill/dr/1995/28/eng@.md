@@ -52,7 +52,7 @@ repealed and the Perbadanan established thereunder is dissolved.
 
 <!-- page 3 -->
 
-Savings.
+<!-- marginal: Savings. -->
 
 4. (1) Notwithstanding the repeal under section 3, all—
 
@@ -84,11 +84,21 @@ under section 18 of the Perbadanan Pembangunan Bandar Act 1971 which immediately
 
 (b) any instrument or document issued,
 
-by the Perbadanan by virtue of its power under section 18 of the repealed Act shall continue to have force and effect and shall be deemed to have been granted or issued by the Government by virtue of the operation of subsection (1) until the same is amended, modified, revoked, or cancelled by the Government.
+by the Perbadanan by virtue of its power under section 18 of the repealed Act shall continue to have force and effect and shall be deemed to have been granted or issued by the Government by virtue of the operation of subsection
 
-Prevention of
+(1) until the same is amended, modified, revoked, or cancelled by the Government.
 
-5. (1) If any difficulty or anomaly arises in connection difficulties or with the implementation of the provisions of this Act, the anomalies. Minister may by order make such modifications therein as may appear to him necessary for removing or preventing such difficulty or anomaly.
+<!-- marginal: Prevention of -->
+
+5. (1) If any difficulty or anomaly arises in connection
+
+<!-- marginal: difficulties or -->
+
+with the implementation of the provisions of this Act, the
+
+<!-- marginal: anomalies. -->
+
+Minister may by order make such modifications therein as may appear to him necessary for removing or preventing such difficulty or anomaly.
 
 <!-- page 4 -->
 

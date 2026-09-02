@@ -34,7 +34,7 @@ Naskhah Sahih—Bahasa Malaysia
 
 <!-- page 3 -->
 
-3
+<!-- marginal: 3 -->
 
 ## RANG UNDANG-UNDANG
 
@@ -46,19 +46,37 @@ Suatu Akta untuk memansuhkan Akta Lembaga Loteri Perkhidmatan Masyarakat dan Keb
 
 oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
 
-Tajuk
+<!-- marginal: Tajuk -->
 
-1. Akta ini bolehlah dinamakan Akta Lembaga Loteri ringkas dan Perkhidmatan Masyarakat dan Kebajikan (Pembubaran) mula ber- kuatkuasa. 1991 dan hendaklah mula berkuatkuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
+1. Akta ini bolehlah dinamakan Akta Lembaga Loteri
 
-Tafsiran.
+<!-- marginal: ringkas dan -->
+
+Perkhidmatan Masyarakat dan Kebajikan (Pembubaran)
+
+<!-- marginal: mula ber- -->
+
+<!-- marginal: kuatkuasa. -->
+
+1991 dan hendaklah mula berkuatkuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
+
+<!-- marginal: Tafsiran. -->
 
 2. Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—
 
-"Lembaga" ertinya Lembaga Loteri Perkhidmatan Masyarakat dan Kebajikan yang ditubuhkan di bawah Akta 252. Akta Lembaga Loteri Perkhidmatan Masyarakat dan Kebajikan 1950-1962;
+"Lembaga" ertinya Lembaga Loteri Perkhidmatan Masyarakat dan Kebajikan yang ditubuhkan di bawah
+
+<!-- marginal: Akta 252. -->
+
+Akta Lembaga Loteri Perkhidmatan Masyarakat dan Kebajikan 1950-1962;
 
 "Menteri" ertinya Menteri yang sedang di- pertanggungkan dengan tanggungjawab bagi kebajikan masyarakat;
 
-"Pesuruhjaya Tanah Persekutuan" ertinya Pesuruhjaya Akta 349. Tanah Persekutuan yang dilantik di bawah Akta Pesuruhjaya Tanah Persekutuan 1957;
+"Pesuruhjaya Tanah Persekutuan" ertinya Pesuruhjaya
+
+<!-- marginal: Akta 349. -->
+
+Tanah Persekutuan yang dilantik di bawah Akta Pesuruhjaya Tanah Persekutuan 1957;
 
 <!-- page 4 -->
 
@@ -68,23 +86,75 @@ Tafsiran.
 
 "tarikh ditetapkan" ertinya tarikh yang ditetapkan oleh Menteri di bawah seksyen 1.
 
-Pemansuhan 3. Akta Lembaga Loteri Perkhidmatan Masyarakat dan dan Kebajikan 1950-1962 adalah dimansuhkan dan Lembaga pembubaran. yang ditubuhkan di bawahnya adalah dibubarkan.
+<!-- marginal: Pemansuhan -->
 
-Pemindahan 4. Segala kuasa, hak, keistimewaan, tugas, liabiliti dan kuasa, hak, kewajipan yang sebelum sahaja tarikh ditetapkan adalah dsb. kuasa, hak, keistimewaan, tugas, liabiliti dan kewajipan Lembaga hendaklah, dari tarikh itu, diturunkan kepada Kerajaan.
+3. Akta Lembaga Loteri Perkhidmatan Masyarakat dan
 
-Pemindahan 5. (1) Semua tanah yang sebelum sahaja tarikh harta. ditetapkan adalah terletakhak pada Lembaga hendaklah, pada tarikh ditetapkan, terletakhak pada Pesuruhjaya Tanah Persekutuan bagi maksud-maksud Kerajaan.
+<!-- marginal: dan -->
+
+Kebajikan 1950-1962 adalah dimansuhkan dan Lembaga
+
+<!-- marginal: pembubaran. -->
+
+yang ditubuhkan di bawahnya adalah dibubarkan.
+
+<!-- marginal: Pemindahan -->
+
+4. Segala kuasa, hak, keistimewaan, tugas, liabiliti dan
+
+<!-- marginal: kuasa, hak, -->
+
+kewajipan yang sebelum sahaja tarikh ditetapkan adalah
+
+<!-- marginal: dsb. -->
+
+kuasa, hak, keistimewaan, tugas, liabiliti dan kewajipan Lembaga hendaklah, dari tarikh itu, diturunkan kepada Kerajaan.
+
+<!-- marginal: Pemindahan -->
+
+5. (1) Semua tanah yang sebelum sahaja tarikh
+
+<!-- marginal: harta. -->
+
+ditetapkan adalah terletakhak pada Lembaga hendaklah, pada tarikh ditetapkan, terletakhak pada Pesuruhjaya Tanah Persekutuan bagi maksud-maksud Kerajaan.
 
 (2) Semua harta dan aset selain daripada tanah yang sebelum sahaja tarikh ditetapkan adalah terletakhak pada Lembaga atau pada mana-mana orang bagi pihaknya hendaklah, pada tarikh itu, terletakhak pada Kerajaan.
 
-Pemindahan 6. Semua wang yang berada pada, atau kena dibayar wang. kepada, Lembaga hendaklah, pada tarikh ditetapkan, dipindahkan kepada, dan diletakhakkan pada, Kerajaan.
+<!-- marginal: Pemindahan -->
 
-Kontrak- 7. Segala suratikatan, bon, perjanjian, suratcara dan kontrak perkiraan kerja yang wujud sebelum sahaja tarikh sedia ada. ditetapkan dan menyentuh mana-mana harta yang dipindahkan di bawah seksyen 5 hendaklah mempunyai kuatkuasa dan kesan yang penuh terhadap atau memihak kepada Kerajaan dan boleh dikuatkuasakan sepenuhnya dan dengan berkesannya seolah-olah Kerajaan, dan bukannya Lembaga atau mana-mana orang yang bertindak bagi pihaknya, telah dinamakan di dalamnya atau telah menjadi suatu pihak kepadanya.
+6. Semua wang yang berada pada, atau kena dibayar
 
-Penerusan 8. (1) Pemansuhan Akta Lembaga Loteri Perkhidmatan presiding Masyarakat dan Kebajikan 1950-1962
+<!-- marginal: wang. -->
+
+kepada, Lembaga hendaklah, pada tarikh ditetapkan, dipindahkan kepada, dan diletakhakkan pada, Kerajaan.
+
+<!-- marginal: Kontrak- -->
+
+7. Segala suratikatan, bon, perjanjian, suratcara dan
+
+<!-- marginal: kontrak -->
+
+perkiraan kerja yang wujud sebelum sahaja tarikh
+
+<!-- marginal: sedia ada. -->
+
+ditetapkan dan menyentuh mana-mana harta yang dipindahkan di bawah seksyen 5 hendaklah mempunyai kuatkuasa dan kesan yang penuh terhadap atau memihak kepada Kerajaan dan boleh dikuatkuasakan sepenuhnya dan dengan berkesannya seolah-olah Kerajaan, dan bukannya Lembaga atau mana-mana orang yang bertindak bagi pihaknya, telah dinamakan di dalamnya atau telah menjadi suatu pihak kepadanya.
+
+<!-- marginal: Penerusan -->
+
+8. (1) Pemansuhan Akta Lembaga Loteri Perkhidmatan
+
+<!-- marginal: presiding -->
+
+Masyarakat dan Kebajikan 1950-1962
 
 <!-- marginal: tidaklah -->
 
-jenayah dan sivil. menyentuh liabiliti mana-mana orang untuk didakwa atau dihukum bagi kesalahan-kesalahan yang dilakukan di bawah Akta yang dimansuhkan itu sebelum tarikh
+<!-- marginal: jenayah -->
+
+<!-- marginal: dan sivil. -->
+
+menyentuh liabiliti mana-mana orang untuk didakwa atau dihukum bagi kesalahan-kesalahan yang dilakukan di bawah Akta yang dimansuhkan itu sebelum tarikh
 
 <!-- page 5 -->
 

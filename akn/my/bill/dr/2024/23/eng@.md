@@ -50,11 +50,7 @@ thousand ringgit but not exceeding fifty thousand ringgit or with imprisonment f
 
 (ii) a licensed Islamic bank under the Islamic Financial Services Act 2013 [Act 759]; and
 
-(iii) a prescribed
-
-<!-- marginal: institution under -->
-
-the Development Financial Institutions Act 2002 [Act 618]; and
+(iii) a prescribed institution under the Development Financial Institutions Act 2002 [Act 618]; and
 
 (b) “payment instrument” means—
 

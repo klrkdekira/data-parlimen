@@ -22,7 +22,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 2 -->
 
-## Jadual
+## JADUAL
 
 Maksud Tajuk
 
@@ -186,7 +186,7 @@ B. 64 Kementerian Pendidikan Tinggi
 
 <!-- marginal: 12,212,788,400 -->
 
-Jumlah
+## JUMLAH
 
 <!-- marginal: 214,554,264,300 -->
 

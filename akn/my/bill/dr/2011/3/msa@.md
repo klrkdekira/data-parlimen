@@ -6,21 +6,37 @@ RANG UNDANG-UNDANG iNstitUt sUkAN NeGARA 2011
 
 sUsUNAN fAsAl
 
-## Bahagian i
+## BAHAGIAN I
 
 PeRMUlAAN
 
 1. tajuk ringkas dan permulaan kuat kuasa 2. tafsiran
 
-## Bahagian ii
+## BAHAGIAN II
 
 iNstitUt sUkAN NeGARA
 
-3. Penubuhan institut 4. Meterai perbadanan 5. fungsi institut 6. kuasa institut 7. keanggotaan institut 8. tempoh jawatan 9. Penjalanan sementara fungsi Pengerusi 10. Pembatalan pelantikan dan peletakan jawatan 11. Pengosongan jawatan dan pengisian kekosongan 12. elaun 13. setiausaha 14. Arahan oleh Menteri 15. Penyata, laporan, akaun dan maklumat 16. Pewakilan fungsi dan kuasa institut 17. institut boleh menubuhkan jawatankuasa
+3. Penubuhan institut 4. Meterai perbadanan 5. fungsi institut 6. kuasa institut 7. keanggotaan institut 8. tempoh jawatan 9. Penjalanan sementara fungsi Pengerusi
+
+10. Pembatalan pelantikan dan peletakan jawatan
+
+11. Pengosongan jawatan dan pengisian kekosongan
+
+12. elaun
+
+13. setiausaha
+
+14. Arahan oleh Menteri
+
+15. Penyata, laporan, akaun dan maklumat
+
+16. Pewakilan fungsi dan kuasa institut
+
+17. institut boleh menubuhkan jawatankuasa
 
 <!-- page 2 -->
 
-## Bahagian iii
+## BAHAGIAN III
 
 ketUA PeGAWAi eksekUtif, PeGAWAi DAN PekeRJA iNstitUt
 
@@ -30,7 +46,7 @@ ketUA PeGAWAi eksekUtif, PeGAWAi DAN PekeRJA iNstitUt
 
 20. Bantuan kewangan kepada pegawai, pekerja dan orang lain
 
-## Bahagian iV
+## BAHAGIAN IV
 
 PeRkHiDMAtAN DAlAM sAiNs sUkAN DAN PeRUBAtAN sUkAN
 
@@ -40,7 +56,7 @@ PeRkHiDMAtAN DAlAM sAiNs sUkAN DAN PeRUBAtAN sUkAN
 
 23. Pangkalan data
 
-## Bahagian V
+## BAHAGIAN V
 
 PeNYeliDikAN, PeMBANGUNAN DAN PeNGkOMeRsiAlAN
 
@@ -54,7 +70,7 @@ PeNYeliDikAN, PeMBANGUNAN DAN PeNGkOMeRsiAlAN
 
 28. Pengkomersialan dapatan penyelidikan
 
-## Bahagian Vi
+## BAHAGIAN VI
 
 keWANGAN
 
@@ -78,7 +94,7 @@ keWANGAN
 
 37. Akta Badan Berkanun (Akaun dan laporan tahunan) 1980
 
-## Bahagian Vii
+## BAHAGIAN VII
 
 kUAsA lAiN iNstitUt
 
@@ -92,7 +108,7 @@ kUAsA lAiN iNstitUt
 
 42. Bantuan kewangan kepada syarikat yang ditubuhkan oleh institut, dsb.
 
-## Bahagian Viii
+## BAHAGIAN VIII
 
 AM
 
@@ -108,7 +124,7 @@ AM
 
 48. tindakan yang dilakukan pada menjangkakan pembuatan Akta ini
 
-## Jadual
+## JADUAL
 
 <!-- page 5 -->
 
@@ -118,13 +134,15 @@ suatu Akta untuk mengadakan peruntukan mengenai penubuhan institut sukan Negara,
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian i
+## BAHAGIAN I
 
 PeRMUlAAN
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
-1. (1) Akta ini bolehlah dinamakan Akta institut sukan Negara 2011.
+1. (1) Akta ini bolehlah dinamakan Akta institut sukan Negara
+
+2011.
 
 (2) Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
 
@@ -166,7 +184,7 @@ PeRMUlAAN
 
 “sains sukan” ertinya bidang yang berkaitan dengan pemakaian prinsip saintifik bagi memperbaik prestasi kesukanan.
 
-## Bahagian ii
+## BAHAGIAN II
 
 iNstitUt sUkAN NeGARA
 
@@ -396,7 +414,9 @@ dan mana-mana fungsi atau kuasa yang diwakilkan sedemikian boleh dilaksanakan at
 
 17. (1) institut boleh menubuhkan apa-apa jawatankuasa sebagaimana yang difikirkannya perlu atau suai manfaat untuk membantunya dalam melaksanakan fungsinya di bawah Akta ini.
 
-(2) sesuatu jawatankuasa yang ditubuhkan di bawah subseksyen (1) hendaklah menimbangkan perkara yang dirujuk kepadanya oleh institut dan membuat syor yang sesuai mengenainya kepada institut.
+(2) sesuatu jawatankuasa yang ditubuhkan di bawah subseksyen
+
+(1) hendaklah menimbangkan perkara yang dirujuk kepadanya oleh institut dan membuat syor yang sesuai mengenainya kepada institut.
 
 (3) institut boleh memilih mana-mana anggotanya atau mana- mana orang lain menjadi pengerusi sesuatu jawatankuasa yang ditubuhkan di bawah subseksyen (1).
 
@@ -430,7 +450,7 @@ dan mana-mana fungsi atau kuasa yang diwakilkan sedemikian boleh dilaksanakan at
 
 (13) hendaklah disifatkan telah dipanggil dan diadakan dengan sewajarnya dan semua anggota dalam mesyuarat itu layak dengan sewajarnya untuk bertindak.
 
-## Bahagian iii
+## BAHAGIAN III
 
 ketUA PeGAWAi eksekUtif, PeGAWAi DAN PekeRJA iNstitUt
 
@@ -480,7 +500,7 @@ ketUA PeGAWAi eksekUtif, PeGAWAi DAN PekeRJA iNstitUt
 
 atas apa-apa terma dan syarat yang ditentukan oleh institut.
 
-## Bahagian iV
+## BAHAGIAN IV
 
 PeRkHiDMAtAN DAlAM sAiNs sUkAN DAN PeRUBAtAN sUkAN
 
@@ -518,7 +538,7 @@ PeRkHiDMAtAN DAlAM sAiNs sUkAN DAN PeRUBAtAN sUkAN
 
 <!-- page 20 -->
 
-## Bahagian V
+## BAHAGIAN V
 
 PeNYeliDikAN, PeMBANGUNAN DAN PeNGkOMeRsiAlAN
 
@@ -568,7 +588,7 @@ PeNYeliDikAN, PeMBANGUNAN DAN PeNGkOMeRsiAlAN
 
 <!-- page 22 -->
 
-## Bahagian Vi
+## BAHAGIAN VI
 
 keWANGAN
 
@@ -664,7 +684,7 @@ keWANGAN
 
 37. Akta Badan Berkanun (Akaun dan laporan tahunan) 1980 [Akta 240] hendaklah terpakai bagi institut.
 
-## Bahagian Vii
+## BAHAGIAN VII
 
 kUAsA lAiN iNstitUt
 
@@ -700,7 +720,7 @@ dengan atau tanpa bunga dan bagi apa-apa tempoh dan atas apa-apa terma mengenai 
 
 <!-- page 27 -->
 
-## Bahagian Viii
+## BAHAGIAN VIII
 
 AM
 
@@ -756,7 +776,7 @@ berkenaan dengan apa-apa perbuatan, pengabaian, keingkaran atau peninggalan yang
 
 <!-- page 29 -->
 
-## Jadual
+## JADUAL
 
 [subseksyen 7(2)]
 
@@ -818,7 +838,7 @@ Akta institut sukan Negara 2011 (“Akta”) yang dicadangkan bertujuan untuk me
 
 <!-- page 31 -->
 
-## Bahagian i
+## BAHAGIAN I
 
 2. Bahagian i Rang Undang-Undang mengandungi peruntukan permulaan.
 
@@ -826,7 +846,7 @@ Akta institut sukan Negara 2011 (“Akta”) yang dicadangkan bertujuan untuk me
 
 4. Fasal 2 mengandungi takrif ungkapan tertentu yang digunakan dalam Akta.
 
-## Bahagian ii
+## BAHAGIAN II
 
 5. Bahagian ii Rang Undang-Undang mengandungi peruntukan yang berhubungan dengan institut sukan Negara.
 
@@ -858,7 +878,7 @@ Akta institut sukan Negara 2011 (“Akta”) yang dicadangkan bertujuan untuk me
 
 18. Fasal 17 bertujuan untuk memberi institut kuasa untuk menubuhkan jawatankuasa bagi membantunya dalam pelaksanaan fungsinya di bawah Akta.
 
-## Bahagian iii
+## BAHAGIAN III
 
 19. Bahagian iii Rang Undang-Undang mengandungi peruntukan mengenai ketua Pegawai eksekutif, pegawai dan pekerja institut.
 
@@ -868,7 +888,7 @@ Akta institut sukan Negara 2011 (“Akta”) yang dicadangkan bertujuan untuk me
 
 22. Fasal 20 bertujuan untuk memberi institut kuasa untuk memberikan bantuan kewangan kepada pegawai, pekerjanya dan orang lain.
 
-## Bahagian iV
+## BAHAGIAN IV
 
 23. Bahagian iV Rang Undang-Undang mengandungi peruntukan mengenai perkhidmatan dalam sains sukan dan perubatan sukan.
 
@@ -878,7 +898,7 @@ Akta institut sukan Negara 2011 (“Akta”) yang dicadangkan bertujuan untuk me
 
 26. Fasal 23 meletakkan kewajipan ke atas institut untuk menyimpan dan mengemas kini pangkalan data atlet dan atlet yang berpotensi.
 
-## Bahagian V
+## BAHAGIAN V
 
 27. Bahagian V Rang Undang-Undang mengandungi peruntukan mengenai penyelidikan, pembangunan dan pengkomersialan.
 
@@ -894,7 +914,7 @@ Akta institut sukan Negara 2011 (“Akta”) yang dicadangkan bertujuan untuk me
 
 32. Fasal 28 mengadakan peruntukan bagi pengkomersialan dapatan penyelidikan.
 
-## Bahagian Vi
+## BAHAGIAN VI
 
 33. Bahagian Vi Rang Undang-Undang mengandungi peruntukan kewangan.
 
@@ -914,7 +934,7 @@ Akta institut sukan Negara 2011 (“Akta”) yang dicadangkan bertujuan untuk me
 
 41. Fasal 37 memperuntukkan bahawa Akta Badan Berkanun (Akaun dan laporan tahunan) 1980 [Akta 240] terpakai bagi institut.
 
-## Bahagian Vii
+## BAHAGIAN VII
 
 42. Bahagian Vii Rang Undang-Undang memperkatakan kuasa lain institut.
 
@@ -928,7 +948,7 @@ Akta institut sukan Negara 2011 (“Akta”) yang dicadangkan bertujuan untuk me
 
 46. Fasal 42 bertujuan untuk memberi institut kuasa, dengan kelulusan Menteri dan Menteri kewangan, untuk memberikan bantuan kewangan kepada syarikat yang ditubuhkan di bawah fasal 41 dan kepada mana-mana orang yang terlibat dalam menjalankan aktiviti penyelidikan, pembangunan dan inovasi yang berhubungan dengan sains sukan dan perubatan sukan.
 
-## Bahagian Viii
+## BAHAGIAN VIII
 
 47. Bahagian Viii Rang Undang-Undang mengandungi peruntukan am.
 

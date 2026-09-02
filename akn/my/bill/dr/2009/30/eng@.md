@@ -24,7 +24,25 @@
 
 ## OFFERS
 
-8. Offers or invitations which require the approval of the Authority 9. False or misleading statements 10. Advertisements 11. Registration of prospectus 12. Document containing offer of securities to be made via Labuan trust company or bank licensee and to be deemed prospectus 13. Expert’s consent to issue of prospectus containing statement by him 14. Civil liability for mis-statement in prospectus 15. Criminal liability for mis-statement in prospectus 16. Labuan trust company or bank licensee as agent in offer 17. Prohibition of allotment unless minimum subscription received 18. Application monies to be held in trust until issuance or allotment
+8. Offers or invitations which require the approval of the Authority 9. False or misleading statements
+
+10. Advertisements
+
+11. Registration of prospectus
+
+12. Document containing offer of securities to be made via Labuan trust company or bank licensee and to be deemed prospectus
+
+13. Expert’s consent to issue of prospectus containing statement by him
+
+14. Civil liability for mis-statement in prospectus
+
+15. Criminal liability for mis-statement in prospectus
+
+16. Labuan trust company or bank licensee as agent in offer
+
+17. Prohibition of allotment unless minimum subscription received
+
+18. Application monies to be held in trust until issuance or allotment
 
 <!-- page 2 -->
 
@@ -88,7 +106,13 @@
 
 <!-- page 3 -->
 
-36. Investors’ rights 37. Limitation 38. Certificate of compliance 39. Foreign public fund may be managed or administered in Labuan
+36. Investors’ rights
+
+37. Limitation
+
+38. Certificate of compliance
+
+39. Foreign public fund may be managed or administered in Labuan
 
 ## DIVISION 3
 
@@ -98,7 +122,15 @@
 
 ## FUND MANAGERS AND FUND ADMINISTRATORS
 
-40. Licensing of fund managers 41. Licensing of fund administrators 42. Application for fund manager’s licence 43. Application for fund administrator’s licence 44. Power to grant or refuse licence
+40. Licensing of fund managers
+
+41. Licensing of fund administrators
+
+42. Application for fund manager’s licence
+
+43. Application for fund administrator’s licence
+
+44. Power to grant or refuse licence
 
 ## SUBDIVISION 2
 
@@ -116,7 +148,15 @@
 
 ## DUTIES
 
-47. Duties of fund managers and fund administrators of public funds 48. Duties of fund managers, fund administrators, trustees or custodians and directors under applicable law 49. Specific duties of fund managers of public funds 50. Duty to segregate client’s assets 51. Duty of fund manager and custodian or trustee to be independent of each other
+47. Duties of fund managers and fund administrators of public funds
+
+48. Duties of fund managers, fund administrators, trustees or custodians and directors under applicable law
+
+49. Specific duties of fund managers of public funds
+
+50. Duty to segregate client’s assets
+
+51. Duty of fund manager and custodian or trustee to be independent of each other
 
 <!-- page 4 -->
 
@@ -178,25 +218,55 @@
 
 ## POWERS OF LABUAN TRUST COMPANIES
 
-64. Disclosure of interests in relation to Labuan trust company 65. Labuan trust company’s power to act as executor 66. Labuan trust company’s power to act as administrator 67. Additional powers of a Labuan trust company 68. Labuan trust company’s power to act as sole trustee 69. Labuan trust company’s power to act as joint trustee with another 70. Delegation to Labuan trust company
+64. Disclosure of interests in relation to Labuan trust company
+
+65. Labuan trust company’s power to act as executor
+
+66. Labuan trust company’s power to act as administrator
+
+67. Additional powers of a Labuan trust company
+
+68. Labuan trust company’s power to act as sole trustee
+
+69. Labuan trust company’s power to act as joint trustee with another
+
+70. Delegation to Labuan trust company
 
 ## DIVISION 3
 
 ## LABUAN MANAGED TRUST COMPANIES
 
-71. Licensing of Labuan managed trust companies 72. Terms and conditions of licence as Labuan managed trust company
+71. Licensing of Labuan managed trust companies
+
+72. Terms and conditions of licence as Labuan managed trust company
 
 ## DIVISION 4
 
 ## LABUAN PRIVATE TRUST COMPANIES
 
-73. Meaning of “connected persons” 74. Registration as Labuan private trust company 75. Terms and conditions of registration as a Labuan private trust company 76. Duties of agent of Labuan private trust company 77. Powers of the Authority 78. Non-application of the provisions of this Part
+73. Meaning of “connected persons”
+
+74. Registration as Labuan private trust company
+
+75. Terms and conditions of registration as a Labuan private trust company
+
+76. Duties of agent of Labuan private trust company
+
+77. Powers of the Authority
+
+78. Non-application of the provisions of this Part
 
 ## DIVISION 5
 
 ## MISCELLANEOUS
 
-79. Labuan trust company subject to same control as any other executor 80. Affidavit of officer 81. Examination of books and accounts of a Labuan trust company 82. Retention of records
+79. Labuan trust company subject to same control as any other executor
+
+80. Affidavit of officer
+
+81. Examination of books and accounts of a Labuan trust company
+
+82. Retention of records
 
 <!-- page 6 -->
 
@@ -274,7 +344,17 @@
 
 ## INSURANCE-RELATED ACTIVITIES
 
-102. Licensing of Labuan insurance business and Labuan insurance-related activities 103. Application for insurance licence to carry on Labuan insurance business 104. Application for insurance licence to carry on Labuan insurance-related activities 105. Grant of insurance licence 106. Publication of list of all insurance licensees 107. Continuing licensing requirements
+102. Licensing of Labuan insurance business and Labuan insurance-related activities
+
+103. Application for insurance licence to carry on Labuan insurance business
+
+104. Application for insurance licence to carry on Labuan insurance-related activities
+
+105. Grant of insurance licence
+
+106. Publication of list of all insurance licensees
+
+107. Continuing licensing requirements
 
 ## DIVISION 3
 
@@ -282,7 +362,19 @@
 
 ## ON INSURANCE LICENSEES
 
-108. Appointment of actuary 109. Margin of solvency 110. Separate accounts to be kept by Labuan insurer 111. Submission of financial statements 112. Subsidiaries and offices of insurance licensee 113. Restriction on business by Labuan insurer 114. Restrictions on and duties of Labuan insurance manager, Labuan underwriting manager and Labuan insurance broker
+108. Appointment of actuary
+
+109. Margin of solvency
+
+110. Separate accounts to be kept by Labuan insurer
+
+111. Submission of financial statements
+
+112. Subsidiaries and offices of insurance licensee
+
+113. Restriction on business by Labuan insurer
+
+114. Restrictions on and duties of Labuan insurance manager, Labuan underwriting manager and Labuan insurance broker
 
 <!-- page 8 -->
 
@@ -356,13 +448,53 @@
 
 ## EXCHANGES
 
-134. Establishment of exchanges 135. By-laws of exchanges 136. Rules of exchanges 137. Regulatory functions of exchanges 138. Powers of the committee 139. Dealing in securities 140. Register of trading agents and listing sponsors 141. Financial statements of an exchange 142. Persons not deemed to be carrying on business in Malaysia 143. Suspension of trading on exchanges 144. Minister’s power to suspend trading 145. Powers of the Authority
+134. Establishment of exchanges
+
+135. By-laws of exchanges
+
+136. Rules of exchanges
+
+137. Regulatory functions of exchanges
+
+138. Powers of the committee
+
+139. Dealing in securities
+
+140. Register of trading agents and listing sponsors
+
+141. Financial statements of an exchange
+
+142. Persons not deemed to be carrying on business in Malaysia
+
+143. Suspension of trading on exchanges
+
+144. Minister’s power to suspend trading
+
+145. Powers of the Authority
 
 ## DIVISION 3
 
 ## FALSE OR MISLEADING MARKET AND INSIDER DEALING
 
-146. Creation of false or misleading market 147. Insider dealing 148. Defences 149. Dealing in securities 150. Procuring the acquisition or disposal of securities 151. Inside information 152. “Price-affected securities” and “price-sensitive information” 153. Information as an insider 154. Definition of “made public” 155. Exceptions
+146. Creation of false or misleading market
+
+147. Insider dealing
+
+148. Defences
+
+149. Dealing in securities
+
+150. Procuring the acquisition or disposal of securities
+
+151. Inside information
+
+152. “Price-affected securities” and “price-sensitive information”
+
+153. Information as an insider
+
+154. Definition of “made public”
+
+155. Exceptions
 
 <!-- page 10 -->
 
@@ -428,7 +560,59 @@
 
 <!-- page 11 -->
 
-176. Money or other property from illegal activities 177. Examination and inspection of books and documents of licensed entities 178. Secrecy 179. Translation 180. Application of Labuan Financial Services Authority Act 1996 181. Application of Labuan Islamic Financial Services and Securities Act 2009 182. Application of Exchange Control Act 1953 183. Application of Capital Markets and Services Act 2007 184. Application of Labuan Companies Act 1990 and Companies Act 1965 185. Non-application of certain laws 186. Immunity 187. General penalty 188. Offences by body corporate 189. Annual and licence fees 190. Fees and penalties to be paid into Fund 191. Procedure where none laid down 192. Misrepresentation 193. Enforcement 194. Power to compound 195. Service of documents 196. Power of the Minister to make regulations 197. Power of the Minister to issue directions 198. Power of the Minister to amend schedules 199. Power of the Minister to grant exemptions 200. Publication of notification, Gazette 201. Repeal, savings and transitional 202. Continuance of other rights, liabilities, etc., under the repealed Acts
+176. Money or other property from illegal activities
+
+177. Examination and inspection of books and documents of licensed entities
+
+178. Secrecy
+
+179. Translation
+
+180. Application of Labuan Financial Services Authority Act 1996
+
+181. Application of Labuan Islamic Financial Services and Securities Act 2009
+
+182. Application of Exchange Control Act 1953
+
+183. Application of Capital Markets and Services Act 2007
+
+184. Application of Labuan Companies Act 1990 and Companies Act 1965
+
+185. Non-application of certain laws
+
+186. Immunity
+
+187. General penalty
+
+188. Offences by body corporate
+
+189. Annual and licence fees
+
+190. Fees and penalties to be paid into Fund
+
+191. Procedure where none laid down
+
+192. Misrepresentation
+
+193. Enforcement
+
+194. Power to compound
+
+195. Service of documents
+
+196. Power of the Minister to make regulations
+
+197. Power of the Minister to issue directions
+
+198. Power of the Minister to amend schedules
+
+199. Power of the Minister to grant exemptions
+
+200. Publication of notification, Gazette
+
+201. Repeal, savings and transitional
+
+202. Continuance of other rights, liabilities, etc., under the repealed Acts
 
 ## FIRST SCHEDULE
 
@@ -2226,7 +2410,9 @@ may apply to the Court to have such entries in the books and accounts of the Lab
 
 82. (1) A Labuan trust company shall maintain any record as may be required to be kept under this Act for a period of not less than six years from the date an account has been closed or the transaction has been completed or terminated.
 
-(2) Any Labuan trust company which contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding three years or to both.
+(2) Any Labuan trust company which contravenes subsection
+
+(1) commits an offence and shall, on conviction, be liable to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding three years or to both.
 
 <!-- page 82 -->
 
@@ -2384,19 +2570,11 @@ in any currency (including ringgit where permitted by the Exchange Control Act 1
 
 in any currency (including ringgit where permitted by the Exchange Control Act 1953 or such other relevant law in force);
 
-“Labuan Islamic banking business” means Islamic banking business carried on by a person licensed to do so under
-
-## Part VI of the Labuan Islamic Financial Services and Securities
-
-Act 2009;
+“Labuan Islamic banking business” means Islamic banking business carried on by a person licensed to do so under Part VI of the Labuan Islamic Financial Services and Securities Act 2009;
 
 “Labuan Islamic financial business” means Islamic financial business carried on by a person licensed to do so under Part VI of the Labuan Islamic Financial Services and Securities Act 2009;
 
-“Labuan Islamic investment banking business” means Islamic investment banking business carried on by a person licensed under
-
-## Part VI of the Labuan Islamic Financial Services and Securities
-
-Act 2009;
+“Labuan Islamic investment banking business” means Islamic investment banking business carried on by a person licensed under Part VI of the Labuan Islamic Financial Services and Securities Act 2009;
 
 “leasing business” means the business of letting or sub-letting property on hire for the purpose of the use of such property by the hirer regardless whether the letting is with or without an option to purchase the property, including charters of ships, and for the purpose of this definition, “property” includes any plant, machinery, equipment or other chattel attached or to be attached to the earth and “charters of ships” means bareboat charters only and does not include the transportation of passengers or cargo by sea or the charter of ships on a voyage or time charter;
 
@@ -2794,11 +2972,7 @@ and holds a valid insurance licence.
 
 (3) Except with the prior written approval of the Authority, a person who is not an insurance licensee shall not assume or use the words “Labuan insurer”, “Labuan insurance manager”, “Labuan underwriting manager”, “Labuan insurance broker” or any derivative of such words in any language capable of being construed as indicating the carrying on of Labuan insurance business or Labuan insurance-related activities by such person.
 
-(4) This section shall not apply to bank licensees as defined in
-
-## Part VI, distributing the insurance products of a Labuan insurer
-
-subject to the prior written approval of the Authority.
+(4) This section shall not apply to bank licensees as defined in Part VI, distributing the insurance products of a Labuan insurer subject to the prior written approval of the Authority.
 
 ### Application for insurance licence to carry on Labuan insurance
 
@@ -4378,9 +4552,7 @@ it shall be the duty of such person to forthwith bring the matter to the notice 
 
 (a) the provisions of the Capital Markets and Services Act 2007 shall not be applicable to the establishment, conduct, activity and business of any exchanges established under Division 2 of Part IX;
 
-(b) section 7, subsection 21(2), sections 24, 85, subsections 87(2), 87(4), 87(5), 87(10), 93(2), 93(6) and 93(7) of the Labuan Companies Act 1990 shall not be applicable to any exchange established under Division 2 of
-
-## Part IX; and
+(b) section 7, subsection 21(2), sections 24, 85, subsections 87(2), 87(4), 87(5), 87(10), 93(2), 93(6) and 93(7) of the Labuan Companies Act 1990 shall not be applicable to any exchange established under Division 2 of Part IX; and
 
 <!-- page 169 -->
 
@@ -4676,37 +4848,39 @@ Partnership a partner its formation
 
 <!-- page 180 -->
 
-First Column Second Column Third Column
+<!-- marginal: First Column -->
 
-<!-- marginal: Fourth Column -->
+Second Column Third Column Fourth Column
 
-(person) (director) (established)
+<!-- marginal: (person) -->
 
-<!-- marginal: (participant) -->
+(director) (established) (participant)
 
-<!-- marginal: a partner -->
+a partner its formation
 
-its formation Limited the general partner (or or where partnership person holding such registration or similar role) other form of recording or recognition is required before activities or business can lawfully be commenced, its registration, recording or legal recognition under the law applicable
+<!-- marginal: Limited -->
 
-Limited liability the designated partner its formation
+the general partner (or or where
 
-<!-- marginal: a limited -->
+<!-- marginal: partnership -->
 
-partnership (or person holding such or where
+person holding such registration or similar role) other form of recording or recognition is required before activities or business can lawfully be commenced, its registration, recording or legal recognition under the law applicable
 
-<!-- marginal: partner -->
+<!-- marginal: Limited liability -->
 
-similar role) registration or other form of recording or recognition is required before activities or business can lawfully be commenced, its registration, recording or legal recognition under the law applicable
+the designated partner its formation a limited
 
-Sole- the sole proprietor where registration
+<!-- marginal: partnership -->
 
-<!-- marginal: the sole -->
+(or person holding such or where partner similar role) registration or other form of recording or recognition is required before activities or business can lawfully be commenced, its registration, recording or legal recognition under the law applicable
 
-proprietorship or other form
+<!-- marginal: Sole- -->
 
-<!-- marginal: proprietor -->
+the sole proprietor where registration the sole
 
-of recording or recognition is required before activities or business can lawfully be commenced, its registration, recording or legal recognition under the law applicable
+<!-- marginal: proprietorship -->
+
+or other form proprietor of recording or recognition is required before activities or business can lawfully be commenced, its registration, recording or legal recognition under the law applicable
 
 <!-- page 181 -->
 

@@ -4,9 +4,7 @@
 
 intituled
 
-An Act to amend the Employees' Social Security Act
-
-1969. [ ]
+An Act to amend the Employees' Social Security Act 1969. [ ]
 
 BE IT ENACTED by the Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
 
@@ -48,9 +46,11 @@ principal Act", is amended by substituting for the words "certain benefits to em
 
 <!-- page 2 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Section 2 of the principal Act is amended— of section 2.
+3. Section 2 of the principal Act is amended—
+
+<!-- marginal: of section 2. -->
 
 (a) by substituting for paragraph (b) of subsection (3) the following:
 
@@ -64,9 +64,11 @@ Amendment
 
 "(6A) "Fund" means the Social Security Fund established under section 68;".
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Section 3 of the principal Act is amended— of section 3.
+4. Section 3 of the principal Act is amended—
+
+<!-- marginal: of section 3. -->
 
 (a) in subsection (1)-—
 
@@ -84,25 +86,11 @@ Amendment
 
 <!-- marginal: of section 6. -->
 
-(a) by substituting for subsection
-
-<!-- marginal: (2) -->
-
-<!-- marginal: the -->
-
-following:
+(a) by substituting for subsection (2) the following:
 
 "(2) The contributions shall fall into the following two categories, namely:
 
-(a) the contributions of the
-
-<!-- marginal: first -->
-
-category, being the contributions payable by or on behalf of the employees insured against
-
-<!-- marginal: the -->
-
-contingencies of invalidity and employment injury; and
+(a) the contributions of the first category, being the contributions payable by or on behalf of the employees insured against the contingencies of invalidity and employment injury; and
 
 (b) the contributions of the second category, being the contributions payable by or on behalf of employees insured only against the contingency of employment injury.";
 
@@ -126,7 +114,7 @@ contingencies of invalidity and employment injury; and
 
 <!-- page 4 -->
 
-New section
+<!-- marginal: New section -->
 
 7. The principal Act is amended by inserting,
 
@@ -138,15 +126,23 @@ New section
 
 contribution Organisation for an employee who was not collected, registered for purposes of insurance under this Act for any period prior to the 1st July 1987 is hereby validated and declared to have been lawfully collected.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-8. Section 12 of the principal Act is amended by of section 12. substituting for the words "local limits" in subsection
+8. Section 12 of the principal Act is amended by
+
+<!-- marginal: of section 12. -->
+
+substituting for the words "local limits" in subsection
 
 (1) the words "area or areas".
 
-Amendment
+<!-- marginal: Amendment -->
 
-9. Section 13 of the principal Act is amended by of section 13. inserting, immediately after subsection (2),
+9. Section 13 of the principal Act is amended by
+
+<!-- marginal: of section 13. -->
+
+inserting, immediately after subsection (2),
 
 <!-- marginal: the -->
 
@@ -154,13 +150,19 @@ following new subsection (3):
 
 "(3) Any order made under this section shall be served either personally or by registered post.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-10. Section 15 of the principal Act is amended by of section 15. deleting the words ", as are entitled to compensation under this Act" in paragraph (c).
+10. Section 15 of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 15. -->
 
-11. Section 17 of the principal Act is amended— of section 17.
+deleting the words ", as are entitled to compensation under this Act" in paragraph (c).
+
+<!-- marginal: Amendment -->
+
+11. Section 17 of the principal Act is amended—
+
+<!-- marginal: of section 17. -->
 
 (a) in subsection (2)—
 
@@ -228,13 +230,13 @@ section 19 the following:
 
 "Provided that a minimum average monthly wage shall be three hundred and forty-two ringgit and eighty-six sen subject to such amount as may be prescribed by the Minister from time to time by regulations.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-16. Section 20A of the principal Act is amended
+16. Section 20A of the principal Act is amended in
 
-<!-- marginal: in -->
+<!-- marginal: of section -->
 
-of section subsection (2)—
+subsection (2)—
 
 20A.
 
@@ -244,11 +246,25 @@ of section subsection (2)—
 
 (b) and (c) of the definition of "dependent" ' the words 'paragraph (b) of the definition of "dependant" '.
 
-Substitution
+<!-- marginal: Substitution -->
 
-17. The principal Act is amended by substituting for of section 24. section 24 the following:
+17. The principal Act is amended by substituting for
 
-"Accidents 24. (1) An accident happening to an insured while person shall be deemed to arise out of and in travelling. the course of his employment if the accident happens while the insured person—
+<!-- marginal: of section 24. -->
+
+section 24 the following:
+
+<!-- marginal: "Accidents -->
+
+24. (1) An accident happening to an insured
+
+<!-- marginal: while -->
+
+person shall be deemed to arise out of and in
+
+<!-- marginal: travelling. -->
+
+the course of his employment if the accident happens while the insured person—
 
 (a) is travelling on a route between his place of residence or stay and his place of work;
 
@@ -290,37 +306,51 @@ subsection (2)—
 
 <!-- page 8 -->
 
-Substitution
+<!-- marginal: Substitution -->
 
-20. The principal Act is amended by substituting for of section 31. section 31 the following: "Liability 31. An insured person or his dependants shall of not be entitled to receive or recover from the employer and his employer of the insured person, or from any servant. other person who is the servant of the employer, any compensation or damages under any other law for the time being in force in respect of an employment injury sustained as an employee under this Act.".
+20. The principal Act is amended by substituting for
 
-New section
+<!-- marginal: of section 31. -->
+
+section 31 the following: "Liability 31. An insured person or his dependants shall of not be entitled to receive or recover from the employer and his employer of the insured person, or from any servant. other person who is the servant of the employer, any compensation or damages under any other law for the time being in force in respect of an employment injury sustained as an employee under this Act.".
+
+<!-- marginal: New section -->
 
 21. The principal Act is amended by inserting,
 
-33A. immediately after section 33, the following new section 33A: "Insured 33A. Where an insured person, having person dies submitted his notice of invalidity or before medical application for reference to the medical board board for determination of the disablement question examination. in accordance with the regulations, dies before being examined by a medical board, the Organisation may in its discretion, subject to any available medical evidence to
+33A. immediately after section 33, the following new section 33A: "Insured 33A. Where an insured person, having person dies submitted his notice of invalidity or before medical application for reference to the medical board board for determination of the disablement question examination. in accordance with the regulations, dies before being examined by a medical board, the Organisation may in its discretion, subject to any available medical evidence
+
+<!-- marginal: to -->
 
 <!-- marginal: its -->
 
 satisfaction, refer such a case to the medical board for determination of the invalidity question or disablement question, as the case may be.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-22. Section 57 of the principal Act is amended by of section 57. deleting the words ", where he is required to go outside his place of residence" in subsection (4).
+22. Section 57 of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 57. -->
+
+deleting the words ", where he is required to go outside his place of residence" in subsection (4).
+
+<!-- marginal: Amendment -->
 
 23. The Bahasa Malaysia text of the principal Act
 
 <!-- marginal: is -->
 
-of section amended by substituting for the word "pekerja-pekerja"
+<!-- marginal: of section -->
+
+amended by substituting for the word "pekerja-pekerja"
 
 59B. in paragraph (d) of subsection (2) of section 59B the word "majikan-majikan".
 
-Amendment
+<!-- marginal: Amendment -->
 
-24. Section 59J of the principal Act is amended— of section 59J
+24. Section 59J of the principal Act is amended—
+
+<!-- marginal: of section 59J -->
 
 (a) by deleting the subsection number "(1)"; and
 
@@ -378,25 +408,45 @@ Organisation, other than the Director-General and the Deputy Director-General, s
 
 <!-- page 11 -->
 
-59s. (1) There shall be established
+59s. (1) There shall be established a
 
-<!-- marginal: a -->
+<!-- marginal: Establish- -->
 
-Establish- ment of Disciplinary Appeal Board composed as Disciplinary follows; Appeal Board, (a) the Chairman of the Board, as Chairman; and
+<!-- marginal: ment of -->
+
+Disciplinary Appeal Board composed as
+
+<!-- marginal: Disciplinary -->
+
+follows;
+
+<!-- marginal: Appeal -->
+
+<!-- marginal: Board, -->
+
+(a) the Chairman of the Board, as Chairman; and
 
 (b) members of the Board, excluding the members who sit in the Disciplinary Committee.
 
 (2) The decision of the Disciplinary Appeal Board shall be final.
 
-Power 59T. (1) The Board may, with the approval of to make the Minister, make such disciplinary rules as disciplinary rules. it deems necessary or expedient to provide for the discipline of the officers and servants of the Organisation.
+<!-- marginal: Power -->
+
+59T. (1) The Board may, with the approval of
+
+<!-- marginal: to make -->
+
+the Minister, make such disciplinary rules as
+
+<!-- marginal: disciplinary -->
+
+<!-- marginal: rules. -->
+
+it deems necessary or expedient to provide for the discipline of the officers and servants of the Organisation.
 
 (2) The disciplinary rules made by the Board under this section may include—
 
-(a) provisions for the interdiction with reduction in salary or in other remuneration, or provisions for the suspension without salary or other remuneration, of an officer or servant of the Organisation during
-
-<!-- marginal: the -->
-
-pendency of disciplinary proceedings;
+(a) provisions for the interdiction with reduction in salary or in other remuneration, or provisions for the suspension without salary or other remuneration, of an officer or servant of the Organisation during the pendency of disciplinary proceedings;
 
 (b) provisions for disciplinary offences and punishment as the Board may deem appropriate, and the punish- ments so provided may extend to dismissal or reduction in rank; and
 
@@ -406,7 +456,13 @@ pendency of disciplinary proceedings;
 
 ## BILL
 
-Imposition 59u. (1) If the Board is satisfied that any of surcharge. person who is or was in the employment of the Organisation—
+<!-- marginal: Imposition -->
+
+59u. (1) If the Board is satisfied that any
+
+<!-- marginal: of surcharge. -->
+
+person who is or was in the employment of the Organisation—
 
 (a) is or was responsible for any improper payment of moneys from the Fund or for any payment of such moneys which is not duly vouched;
 
@@ -432,23 +488,43 @@ and if a satisfactory explanation is not furnished to the Board within a period 
 
 by equal monthly instalments not exceeding one-fourth of the total monthly salary or pension, as the case may be, of the person.
 
-Establish- 59v. (1) There shall be established
+<!-- marginal: Establish- -->
 
-<!-- marginal: a -->
+59v. (1) There shall be established a
 
-ment of Promotion Board in respect of each of the Promotion Board. categories of officers and servants as set out in the first column of the Tenth Schedule, constituting the members specified in the second column of the same Schedule.
+<!-- marginal: ment of -->
 
-(2) The relevant Promotion Board shall have jurisdiction and shall exercise
+Promotion Board in respect of each of the
 
-<!-- marginal: its -->
+<!-- marginal: Promotion -->
 
-functions in all matters relating to promotion in respect of all officers and servants of the Organisation in the category specified in the first column of the Tenth Schedule.
+<!-- marginal: Board. -->
+
+categories of officers and servants as set out in the first column of the Tenth Schedule, constituting the members specified in the second column of the same Schedule.
+
+(2) The relevant Promotion Board shall have jurisdiction and shall exercise its functions in all matters relating to promotion in respect of all officers and servants of the Organisation in the category specified in the first column of the Tenth Schedule.
 
 <!-- page 14 -->
 
 ## BILL
 
-Establish- 59w. (1) There shall be established a ment of Promotion Appeal Board in respect of each of Promotion Appeal the categories of officers and servants as set Board. out in the first column of the Tenth Schedule constituting the members specified in the third column of the same Schedule.
+<!-- marginal: Establish- -->
+
+59w. (1) There shall be established a
+
+<!-- marginal: ment of -->
+
+Promotion Appeal Board in respect of each of
+
+<!-- marginal: Promotion -->
+
+<!-- marginal: Appeal -->
+
+the categories of officers and servants as set
+
+<!-- marginal: Board. -->
+
+out in the first column of the Tenth Schedule constituting the members specified in the third column of the same Schedule.
 
 (2) The Promotion Appeal Board shall have jurisdiction and shall exercise its functions in respect of any appeal against any decision of a Promotion Board relating to an officer or servant over whom that Promotion Board has jurisdiction.
 
@@ -460,11 +536,27 @@ Establish- 59w. (1) There shall be established a ment of Promotion Appeal Board 
 
 (6) The decision of the Promotion Appeal Board shall be final.".
 
-Substitu-
+<!-- marginal: Substitu- -->
 
-27. The principal Act is amended by substituting for tion of section 68 the following: section 68.
+27. The principal Act is amended by substituting for
 
-"Social 68. There shall be established under this Act Security the Social Security Fund into which shall be Fund paid—
+<!-- marginal: tion of -->
+
+section 68 the following:
+
+<!-- marginal: section 68. -->
+
+<!-- marginal: "Social -->
+
+68. There shall be established under this Act
+
+<!-- marginal: Security -->
+
+the Social Security Fund into which shall be
+
+<!-- marginal: Fund -->
+
+paid—
 
 (a) contributions payable by or in respect of insured persons;
 
@@ -472,11 +564,7 @@ Substitu-
 
 (b) rent, interest, dividend or any other income derived from the assets of the Organisation;
 
-(c) sums properly accruing to the Fund under this Act, including
-
-<!-- marginal: the -->
-
-repayment of benefits;
+(c) sums properly accruing to the Fund under this Act, including the repayment of benefits;
 
 (d) sums recovered under this Act as fees, costs, charges and any interest on arrears of contributions;
 
@@ -496,7 +584,17 @@ section 69 the following:
 
 <!-- marginal: 69. -->
 
-69. (1) The Social Security Fund shall.be "Adminis- tration of held and administered by the Organisation for the Fund. the purposes of this Act.
+69. (1) The Social Security Fund shall.be
+
+<!-- marginal: "Adminis- -->
+
+<!-- marginal: tration of -->
+
+held and administered by the Organisation for
+
+<!-- marginal: the Fund. -->
+
+the purposes of this Act.
 
 (2) All monies accruing or payable to the said Fund shall be paid into such banks as may be authorised by the Board:
 
@@ -504,19 +602,25 @@ Provided that the Board may authorise post offices also to accept, on behalf of 
 
 <!-- page 16 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-29. Section 71 of the principal Act is amended by of section 71. substituting for the words "Social Security Invalidity Pension Fund and the Social Security Employment Injury Fund" the words "Social Security Fund".
+29. Section 71 of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 71. -->
 
-30. Section 72 of the principal Act is amended— of section 72.
+substituting for the words "Social Security Invalidity Pension Fund and the Social Security Employment Injury Fund" the words "Social Security Fund".
+
+<!-- marginal: Amendment -->
+
+30. Section 72 of the principal Act is amended—
+
+<!-- marginal: of section 72. -->
 
 (a) by substituting for the words "Invalidity Pension Fund or the Employment Injury Fund or both" the words "Social Security Fund"; and
 
 (b) by substituting for the words "fund for officers" in paragraph (a) the words "fund, welfare and recreation of officers".
 
-New section
+<!-- marginal: New section -->
 
 31. The principal Act is amended by inserting,
 
@@ -528,13 +632,17 @@ New section
 
 "Withdrawal from Fund Organisation may authorise the withdrawal of for loans. such amount from the Social Security Fund as may be required for granting loans to officers and servants of the Organisation as provided in the staff rules or for purposes similar to those approved by the Government for members of the public services.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-32. Section 75A of the principal Act is amended by of section inserting, immediately after the word "Organisation" in
+32. Section 75A of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+inserting, immediately after the word "Organisation" in
 
 75A. paragraph (c) of subsection (2), the words "as Deputy Chairman".
 
-New section
+<!-- marginal: New section -->
 
 33. The principal Act is amended by inserting,
 
@@ -582,9 +690,13 @@ section 93 the following: "Punishment 93. Where any person, for the purpose of f
 
 shall be punishable with imprisonment for a term which may extend to six months, or with a fine not exceeding two thousand ringgit, or with both.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-36. Section 95 of the principal Act is amended by of section 95. inserting, immediately after subsection (1),
+36. Section 95 of the principal Act is amended by
+
+<!-- marginal: of section 95. -->
+
+inserting, immediately after subsection (1),
 
 <!-- marginal: the -->
 
@@ -592,13 +704,25 @@ following new subsection (2):
 
 "(2) Prosecutions in respect of any offence under this Act or any regulations or rules made thereunder may be conducted by any officer authorised in writing in that behalf by the Director-General.".
 
-Substitution
+<!-- marginal: Substitution -->
 
-37. The principal Act is amended by substituting for of section 96. section 96 the following: "Insured 96. (1) An insured person shall not be person allowed to receive, for the same period and in not entitled respect of the same disablement, invalidity to more pension and permanent disablement benefit. than one benefit. (2) Where a person is entitled to both benefits, he may choose which benefit he shall receive for that period.".
+37. The principal Act is amended by substituting for
 
-Substitution
+<!-- marginal: of section 96. -->
 
-38. The principal Act is amended by substituting for of section section 96A the following: 96A- 96A. (1) A dependant shall not be allowed to "Dependant not entitled receive, for the same period in respect of the to both same insured person, survivors' pension and survivors* pension and dependants' benefit. dependants' benefit for (2) Where a dependant is entitled to both the same period. survivors' pension and dependants' benefit, he may choose to receive the benefit which is payable at the higher rate.".
+section 96 the following: "Insured 96. (1) An insured person shall not be person allowed to receive, for the same period and in not entitled respect of the same disablement, invalidity to more pension and permanent disablement benefit. than one benefit. (2) Where a person is entitled to both benefits, he may choose which benefit he shall receive for that period.".
+
+<!-- marginal: Substitution -->
+
+38. The principal Act is amended by substituting for
+
+<!-- marginal: of section -->
+
+section 96A the following:
+
+<!-- marginal: 96A- -->
+
+96A. (1) A dependant shall not be allowed to "Dependant not entitled receive, for the same period in respect of the to both same insured person, survivors' pension and survivors* pension and dependants' benefit. dependants' benefit for (2) Where a dependant is entitled to both the same period. survivors' pension and dependants' benefit, he may choose to receive the benefit which is payable at the higher rate.".
 
 <!-- page 19 -->
 
@@ -654,19 +778,35 @@ practitioner representing such insured person or his dependants.
 
 <!-- page 20 -->
 
-(2) The Organisation may refuse
+(2) The Organisation may refuse to entertain any representation made by any other person.
 
-<!-- marginal: to -->
+<!-- marginal: Benefit for -->
 
-entertain any representation made by any other person.
+112. (1) Where a person sustains permanent
 
-Benefit for 112. (1) Where a person sustains permanent two or disablement as a result of two or more more successive successive accidents, he shall not for the same accidents. period be entitled to receive disablement benefit for permanent disablement in excess of the daily rate for permanent total disablement.
+<!-- marginal: two or -->
+
+disablement as a result of two or more
+
+<!-- marginal: more -->
+
+<!-- marginal: successive -->
+
+successive accidents, he shall not for the same
+
+<!-- marginal: accidents. -->
+
+period be entitled to receive disablement benefit for permanent disablement in excess of the daily rate for permanent total disablement.
 
 (2) The Minister may make regulations to provide for adjusting the disablement benefit payable in respect of successive accidents or the conditions for the receipt of such benefit in any case where the disablement benefit has been commuted into a lump sum.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-43. The First Schedule to the principal Act is of First amended—
+43. The First Schedule to the principal Act is
+
+<!-- marginal: of First -->
+
+amended—
 
 ## Schedule.
 
@@ -730,23 +870,11 @@ exceed $1,400 but not $1,500
 
 exceed $1,500 but not $1,600
 
-21. When wages $28.85 $8.25
+21. When wages $28.85 $8.25 $37.10 exceed $1,600 but not $1,700
 
-<!-- marginal: $37.10 -->
+22. When wages $30.65 $8.75 $39.40 exceed $1,700 but not $1,800
 
-exceed $1,600 but not $1,700
-
-22. When wages $30.65 $8.75
-
-<!-- marginal: $39.40 -->
-
-exceed $1,700 but not $1,800
-
-23. When wages $32.35 $9.25
-
-<!-- marginal: $41.60 -->
-
-exceed $1,800 but not $1,900
+23. When wages $32.35 $9.25 $41.60 exceed $1,800 but not $1,900
 
 24. When wages $34.15 $9.75 $43.90"; exceed $1,900
 
@@ -798,11 +926,7 @@ amended—
 
 (c) by inserting, immediately after item 14 in paragraph 4, the following new items 15, 16, 17, 18, 19, 20, 21, 22, 23 and 24:
 
-"15. When wages $23.60 $13.10
-
-<!-- marginal: $1,050 -->
-
-exceed $1,000 but not $1,100
+"15. When wages $23.60 $13.10 $1,050 exceed $1,000 but not $1,100
 
 16. When wages $25.90 $14.40 $1,150 exceed $1,100 but not $1,200
 
@@ -812,17 +936,9 @@ exceed $1,000 but not $1,100
 
 18. When wages $30.40 $16.90 $1,350 exceed $1,300 but not $1,400
 
-19. When wages $32.60 $18.10
+19. When wages $32.60 $18.10 $1,450 exceed $1,400 but not $1,500
 
-<!-- marginal: $1,450 -->
-
-exceed $1,400 but not $1,500
-
-20. When wages $34.90 $19.40
-
-<!-- marginal: $1,550 -->
-
-exceed $1,500 but not $1,600
+20. When wages $34.90 $19.40 $1,550 exceed $1,500 but not $1,600
 
 21. When wages $37.10 $20.60 $1,650 exceed $1,600 but not $1,700
 
@@ -832,9 +948,13 @@ exceed $1,500 but not $1,600
 
 24. When wages $43.90 $24.40 $1,950". exceed $1,900
 
-Amendment
+<!-- marginal: Amendment -->
 
-46. The Seventh Schedule to the principal Act is of Seventh amended in paragraph 1—
+46. The Seventh Schedule to the principal Act is
+
+<!-- marginal: of Seventh -->
+
+amended in paragraph 1—
 
 ## Schedule.
 
@@ -842,9 +962,13 @@ Amendment
 
 (b) by substituting for the words "; and" appearing at the end of subparagraph (i) a full stop.
 
-Amendment
+<!-- marginal: Amendment -->
 
-47. The Eighth Schedule to the principal Act is of Eighth amended—
+47. The Eighth Schedule to the principal Act is
+
+<!-- marginal: of Eighth -->
+
+amended—
 
 ## Schedule.
 

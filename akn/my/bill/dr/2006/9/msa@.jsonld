@@ -1,0 +1,123 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/9/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/9"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-9-2006",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/9/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/9/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/9/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/9/msa@/~cl_4"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Pengangkutan Jalan (Pindaan) 2006"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/9/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/9/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/9/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/9/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/9/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/9/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pengangkutan Jalan (Pindaan) 2006."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/9/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/9/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta, dan Menteri boleh menetapkan tarikh yang berlainan bagi permulaan kuat kuasa Akta ini dalam bahagian yang berlainan di Malaysia. Pindaan seksyen 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/9/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Pengangkutan Jalan 1987 [Akta 333], yang disebut \"Akta ibu\" dalam Akta ini, dipinda dalam subseksyen 3(6) dengan memasukkan selepas perkataan \"seksyen ini\" perkataan \", dan semua pegawai awam dan pegawai Pihak Berkuasa yang diberi kuasa di bawah seksyen 88D\". Bahagian baru IIIA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/9/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 88 bahagian yang berikut: \"BAHAGIAN IIIA CAJ JALAN BAGI KENDERAAN MOTOR Tafsiran 88A. Bagi maksud Bahagian ini, melainkan jika konteksnya menghendaki makna yang lain— \"caj\" ertinya caj jalan bagi kenderaan motor; \"Pihak Berkuasa\" ertinya mana-mana badan, sama ada diperbadankan atau tidak diperbadankan, yang ditubuhkan, dilantik atau diperbadankan di bawah mana-mana undang-undang bertulis; \"pintu masuk yang dibenarkan\" ertinya sesuatu pintu masuk yang diisytiharkan sebagai pintu masuk yang dibenarkan di bawah subseksyen 5(1) Akta Imigresen 1959/63 [Akta 155]. Pemakaian 88B. Bahagian ini hendaklah terpakai bagi kenderaan motor, selain kenderaan barangan, yang didaftarkan dalam mana-mana negara asing. Caj jalan bagi kenderaan motor 88c. (1) Tertakluk kepada peruntukan Bahagian ini, hendaklah dikenakan ke atas tiap-tiap kenderaan motor yang memasuki Malaysia melalui darat mengikut pintu masuk yang dibenarkan suatu caj jalan bagi kenderaan motor. (2) Menteri boleh melalui perintah yang disiarkan dalam Warta— (a) menetapkan jenis atau kelas kenderaan motor yang berkenaan dengannya caj kena dibayar; (b) menetapkan amaun bagi caj yang kena dibayar; dan (c) menyatakan cara pembayaran caj dan tempat di mana pembayaran itu boleh dipungut. (3) Caj yang dikenakan di bawah seksyen ini hendaklah dibayar oleh orang yang pada masa itu raemandu kenderaan motor itu. Kuasa untuk meminta, memungut dan menyimpan caj 88D. (1) Mana-mana pegawai pengangkutan jalan yang diberi kuasa secara bertulis bagi maksud itu oleh Ketua Pengarah, boleh meminta, memungut dan menyimpan caj yang ditetapkan di bawah Bahagian ini. (2) Tanpa menjejaskan subseksyen (1), Menteri boleh secara bertulis memberi kuasa kepada mana-mana pegawai awam atau Pihak Berkuasa untuk meminta, memungut dan menyimpan caj yang ditetapkan di bawah Bahagian ini, atas apa-apa syarat yang difikirkannya perlu. (3) Apabila Menteri telah memberi kuasa kepada Pihak Berkuasa untuk meminta, memungut dan menyimpan caj di bawah subseksyen (2), hendaklah disifatkan bahawa pegawai Pihak Berkuasa telah diberi kuasa dengan sewajarnya untuk meminta, memungut dan menyimpan caj sedemikian bagi pihak Pihak Berkuasa itu. (4) Menteri boleh membatalkan mana-mana pemberikuasaan yang dibuat di bawah subseksyen (2) tanpa memberikan apa-apa sebab. Pengecualian 88K. Menteri boleh melalui perintah yang disiarkan dalam Warta mengecualikan mana-mana kenderaan motor atau jenis atau kelas kenderaan motor daripada mana-mana peruntukan Bahagian ini, tertakluk kepada apa-apa syarat yang difikirkannya patut. Kewajipan untuk mengemukakan perakuan pendaftaran, till. 88F. Orang yang pada masa itu memandu suatu kenderaan motor hendaklah, apabila dikehendaki oleh pegawai pengangkutan jalan, pegawai awam atau pegawai Pihak Berkuasa yang diberi kuasa di bawah seksyen 88D, mengemukakan apa-apa perakuan pendaftaran, lesen, permit atau apa-apa dokumen lain yang seumpama itu yang dikeluarkan berkenaan dengan kenderaan motor itu oleh pihak berkuasa yang patut dalam negara asing yang di dalamnya kenderaan motor itu telah didaftarkan.\". Pindaan seksyen 127"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/9/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/9/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/9/msa@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/9/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 127(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/9/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/9/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (r), dengan menggantikan noktah di hujung perenggan itu dengan koma bernoktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/9/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/9/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (r) perenggan yang berikut: *(s) mengawal selia permintaan, pemungutan dan penyimpanan caj jalan bagi kenderaan motor, termasuk tatacara dan perkara yang berkaitan dengan permintaan, pemungutan dan penyimpanan caj sedemikian.\"."
+      }
+    }
+  ]
+}

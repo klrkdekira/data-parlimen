@@ -16,13 +16,21 @@ DJR. 27/99
 
 ## PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967
 
-3. Pemulaan kuat kuasa pindaan kepada Akta Cukai Pendapatan 1967 4. Pindaan seksyen 46 5. Pindaan seksyen 49 6. Penggantian seksyen 50 7. Pemotongan seksyen 60D 8. Pindaan seksyen 107B 9. Pindaan Jadual 1 10. Pindaan Jadual 3 11. Pindaan Jadual 6
+3. Pemulaan kuat kuasa pindaan kepada Akta Cukai Pendapatan 1967 4. Pindaan seksyen 46 5. Pindaan seksyen 49 6. Penggantian seksyen 50 7. Pemotongan seksyen 60D 8. Pindaan seksyen 107B 9. Pindaan Jadual 1
+
+10. Pindaan Jadual 3
+
+11. Pindaan Jadual 6
 
 ## BAB III
 
 ## PINDAAN KEPADA AKTA PETROLEUM (CUKAI PENDAPATAN) 1967
 
-12. Pemulaan kuat kuasa pindaan kepada Akta Petroleum (Cukai Pendapatan) 1967 13. Pindaan seksyen 13A 14. Pindaan Jadual Kedua
+12. Pemulaan kuat kuasa pindaan kepada Akta Petroleum (Cukai Pendapatan) 1967
+
+13. Pindaan seksyen 13A
+
+14. Pindaan Jadual Kedua
 
 <!-- page 2 -->
 
@@ -114,13 +122,33 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 Provided that where the wife has no total income the total deduction under this subsection shall not exceed one thousand ringgit."; dan
 
-(e) dalam subseksyen (3), dengan menggantikan perkataan 'this section "insurance" and "deferred annuity", in relation to an individual claiming a deduction under subsection (1),' dengan perkataan 'relation to an individual claiming a deduction under subsection (1), "insurance" and "deferred annuity" '.
+(e) dalam subseksyen (3), dengan menggantikan perkataan 'this section "insurance" and "deferred annuity", in relation to an individual claiming a deduction under subsection
+
+(1),' dengan perkataan 'relation to an individual claiming a deduction under subsection (1), "insurance" and "deferred annuity" '.
 
 ### Penggantian seksyen 50
 
 6. Akta ibu dipinda dengan menggantikan seksyen 50 dengan seksyen yang berikut:
 
-"Application 50. (1) Where an individual who is resident for the 49 where" basis year for a year of assessment has a wife living husband together with him at any time in that basis year, and and wife they did not in that basis year—— together (a) cease to live together; or are living
+"Application 50. (1) Where an individual who is resident for the
+
+<!-- marginal: 49 where" -->
+
+basis year for a year of assessment has a wife living
+
+<!-- marginal: husband -->
+
+together with him at any time in that basis year, and
+
+<!-- marginal: and wife -->
+
+they did not in that basis year——
+
+<!-- marginal: together -->
+
+(a) cease to live together; or
+
+<!-- marginal: are living -->
 
 <!-- page 6 -->
 
@@ -154,93 +182,27 @@ the application of section 49 to that individual shall be subject to this sectio
 
 (i) dalam perenggan 1, dengan menggantikan kadar- kadar sedia ada dengan kadar-kadar yang berikut:
 
-"Chargeable Income
+"Chargeable Income RM Rate of Income Tax
 
-<!-- marginal: RM -->
+For every ringgit of 2,500 0 per cent the first
 
-<!-- marginal: Rate of Income -->
+For every ringgit of 2,500 1 per cent the next
 
-<!-- marginal: Tax -->
+For every ringgit of 5,000 3 per cent the next
 
-For every ringgit of
+For every ringgit of 10,000 5 per cent the next
 
-<!-- marginal: 2,500 -->
+For every ringgit of 15,000 9 per cent the next
 
-<!-- marginal: 0 per cent -->
+For every ringgit of 15,000 15 per cent the next
 
-the first
+For every ringgit of 20,000 20 per cent the next
 
-For every ringgit of
+For every ringgit of 30,000 25 per cent the next
 
-<!-- marginal: 2,500 -->
+For every ringgit of 50,000 28 per cent the next
 
-<!-- marginal: 1 per cent -->
-
-the next
-
-For every ringgit of
-
-<!-- marginal: 5,000 -->
-
-<!-- marginal: 3 per cent -->
-
-the next
-
-For every ringgit of
-
-<!-- marginal: 10,000 -->
-
-<!-- marginal: 5 per cent -->
-
-the next
-
-For every ringgit of
-
-<!-- marginal: 15,000 -->
-
-<!-- marginal: 9 per cent -->
-
-the next
-
-For every ringgit of
-
-<!-- marginal: 15,000 -->
-
-<!-- marginal: 15 per cent -->
-
-the next
-
-For every ringgit of
-
-<!-- marginal: 20,000 -->
-
-<!-- marginal: 20 per cent -->
-
-the next
-
-For every ringgit of
-
-<!-- marginal: 30,000 -->
-
-<!-- marginal: 25 per cent -->
-
-the next
-
-For every ringgit of
-
-<!-- marginal: 50,000 -->
-
-<!-- marginal: 28 per cent -->
-
-the next
-
-For every ringgit
-
-<!-- marginal: 150,000 -->
-
-<!-- marginal: 29 per cent"; -->
-
-exceeding
+For every ringgit 150,000 29 per cent"; exceeding
 
 dan
 
@@ -252,77 +214,29 @@ dan
 
 (b) dalam Bahagian IV, dengan menggantikan kadar-kadar sedia ada dengan kadar-kadar yang berikut:
 
-"Chargeable Income RM
+"Chargeable Income RM Rate of Income Tax
 
-<!-- marginal: Rate of Income -->
+For every ringgit of 10,000 0 per cent the first
 
-<!-- marginal: Tax -->
+For every ringgit of 10,000 1 per cent the next
 
-For every ringgit of 10,000
+For every ringgit of 10,000 4 per cent the next
 
-<!-- marginal: 0 per cent -->
+For every ringgit of 10,000 7 per cent the next
 
-the first
+For every ringgit of 10,000 10 per cent the next
 
-For every ringgit of 10,000
+For every ringgit of 25,000 13 per cent the next
 
-<!-- marginal: 1 per cent -->
+For every ringgit of 25,000 17 per cent the next
 
-the next
+For every ringgit of 50,000 21 per cent the next
 
-For every ringgit of 10,000
+For every ringgit of 100,000 24 per cent the next
 
-<!-- marginal: 4 per cent -->
+For every ringgit of 250,000 27 per cent the next
 
-the next
-
-For every ringgit of 10,000
-
-<!-- marginal: 7 per cent -->
-
-the next
-
-For every ringgit of 10,000
-
-<!-- marginal: 10 per cent -->
-
-the next
-
-For every ringgit of 25,000
-
-<!-- marginal: 13 per cent -->
-
-the next
-
-For every ringgit of 25,000
-
-<!-- marginal: 17 per cent -->
-
-the next
-
-For every ringgit of 50,000
-
-<!-- marginal: 21 per cent -->
-
-the next
-
-For every ringgit of 100,000
-
-<!-- marginal: 24 per cent -->
-
-the next
-
-For every ringgit of 250,000
-
-<!-- marginal: 27 per cent -->
-
-the next
-
-For every ringgit 500,000
-
-<!-- marginal: 29 per cent". -->
-
-exceeding
+For every ringgit 500,000 29 per cent". exceeding
 
 ### Pindaan Jadual 3
 
@@ -404,19 +318,9 @@ Kewangan
 
 (B) dengan menggantikan perkataan "subparagraph 2(c)" dengan perkataan "subparagraph 2(l)(c)";
 
-(C) dalam subsubperenggan
+(C) dalam subsubperenggan ( a ), dengan memasukkan selepas perkataan "ten per cent" perkataan "or such other rate as may be prescribed"; dan
 
-<!-- marginal: ( a ), -->
-
-<!-- marginal: dengan -->
-
-memasukkan selepas perkataan "ten per cent" perkataan "or such other rate as may be prescribed"; dan
-
-(D) dalam subsubperenggan
-
-<!-- marginal: ( b ), dengan -->
-
-memasukkan selepas perkataan "eight per cent" perkataan "or such other rate as may be prescribed"; dan
+(D) dalam subsubperenggan ( b ), dengan memasukkan selepas perkataan "eight per cent" perkataan "or such other rate as may be prescribed"; dan
 
 (ii) dalam subperenggan (2)—
 
@@ -484,11 +388,7 @@ Rang Undang-Undang
 
 16. Akta Setem 1949 dipinda dalam Jadual Kedua dengan memasukkan selepas butiran 18 butiran yang berikut:
 
-Nature of Instrument and the
-
-<!-- marginal: Person required to cancel -->
-
-Item Number thereto in
+Nature of Instrument and the Person required to cancel Item Number thereto in
 
 <!-- marginal: the adhesive stamp -->
 
@@ -568,7 +468,9 @@ Akta Petroleum (Cukai Pendapatan) 1967 disebut "Akta 543" dalam Bab ini.
 
 Kewangan
 
-orang yang boleh dikenakan cukai itu tidak melakukan perbelanjaan yang layak berkenaan dengan aset itu. Pindaan ini akan berkuat kuasa dari tahun taksiran 2000.
+orang yang boleh dikenakan cukai itu tidak melakukan perbelanjaan yang layak berkenaan dengan aset itu. Pindaan ini akan berkuat kuasa dari tahun taksiran
+
+2000.
 
 10. Fasal 14 Rang Undang-Undang ini bertujuan untuk meminda Jadual Kedua kepada Akta 543. Perenggan 8, 12, 13 dan 14 Jadual Kedua dipinda untuk membolehkan Menteri Kewangan menetapkan kadar bagi elaun pemulaan berkenaan dengan loji dan jentera dan kadar bagi elaun tahunan bagi loji, jentera, pelantar luar pesisir tetap dan bangunan industri. Pindaan ini hendaklah disifatkan telah berkuat kuasa dari tahun taksiran 1996.
 

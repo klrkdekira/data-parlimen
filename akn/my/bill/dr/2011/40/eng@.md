@@ -38,25 +38,55 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (i) if the offence is punishable with imprisonment:
 
-Where the maximum The period shall term of imprisonment— not exceed— does not exceed the maximum term six months of imprisonment exceeds six months six months but does not exceed one year exceeds one year but one year does not exceed two years exceeds two years half of the maximum term of imprisonment;
+Where the maximum
 
-(ii) if the offence is not punishable with imprisonment:
+<!-- marginal: The period shall -->
 
-Where the fine— The period shall not exceed— does not exceed one month five hundred ringgit
+term of imprisonment—
 
-<!-- page 3 -->
+<!-- marginal: not exceed— -->
+
+does not exceed
+
+<!-- marginal: the maximum term -->
+
+six months
+
+<!-- marginal: of imprisonment -->
+
+exceeds six months
 
 <!-- marginal: six months -->
 
-exceeding five hundred ringgit but does not exceed one thousand ringgit
+but does not exceed one year exceeds one year but
 
 <!-- marginal: one year -->
 
-exceeding one thousand ringgit but does not exceed five thousand ringgit exceeds five thousand
+does not exceed two years exceeds two years
 
-<!-- marginal: three years;”. -->
+<!-- marginal: half of the -->
 
-ringgit
+<!-- marginal: maximum term -->
+
+<!-- marginal: of imprisonment; -->
+
+(ii) if the offence is not punishable with imprisonment:
+
+Where the fine—
+
+<!-- marginal: The period shall -->
+
+<!-- marginal: not exceed— -->
+
+does not exceed
+
+<!-- marginal: one month -->
+
+five hundred ringgit
+
+<!-- page 3 -->
+
+six months exceeding five hundred ringgit but does not exceed one thousand ringgit one year exceeding one thousand ringgit but does not exceed five thousand ringgit exceeds five thousand three years;”. ringgit
 
 ### Amendment of section 396
 

@@ -62,9 +62,7 @@ Suruhanjaya Komunikasi dan Multimedia 3 Malaysia (Pindaan)
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
-
-<!-- marginal: [PN(U2)2336] -->
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN(U2)2336]
 
 <!-- page 4 -->
 

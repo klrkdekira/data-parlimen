@@ -1,0 +1,305 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-24-2008",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_9"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Pensions Adjustment (Amendment) Bill 2008"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_1__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Pensions Adjustment (Amendment) Act 2008."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsection (3), this Act comes into operation on 1 January 2009."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Sections 2 and 3 and subsection 9(4) are deemed to have come into operation on 1 January 2008. Amendment of section 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Pensions Adjustment Act 1980 [Act 238], which is referred to as “the principal Act” in this Act, is amended in section 1—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_2__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_2__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_2__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (d), by substituting for the comma at the end of the paragraph a full stop; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_2__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words “who are resident in Malaysia.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsections (3) and (4). Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 2 of the principal Act is amended by deleting the definition of “resident in Malaysia”. Amendment of section 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 4(3) of the principal Act is amended by substituting for the words “any of the periods referred to in subparagraphs 1(a), (b) or (c) of the Second Schedule” the words “the period of twelve and a half years from the date of retirement of an officer or the date immediately following the date of death in service of an officer”. Amendment of section 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 5 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “Third Schedule” the words “Second Schedule”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by substituting for the words “and the Third Schedule, the payment of such derivative pension or derivative retiring allowance after the expiration of any of the periods referred to in subparagraph 1(a), (b), (c) or (d) of the Third Schedule” the words “and the Second Schedule, the payment of such derivative pension or derivative retiring allowance after the expiration of the period of twelve and a half years from the date of retirement of an officer or the date immediately following the date of death in service of an officer”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (6), by substituting for the words “Third Schedule” the words “Second Schedule”. Amendment of First Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The First Schedule to the principal Act is amended by substituting for the figure “300” wherever it appears the figure “360”. Substitution of Second Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_7__para_b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for the Second Schedule the following schedule: “SECOND SCHEDULE [Sections 4 and 5] Type of Benefit 1. Derivative pension shall be paid or be payable for life– (a) from the date immediately 1/600 x number of months of reckonable following the date of death service (subject to not more than 360 in service of the officer on months) x corresponding last drawn or after 1 July 1980; or salary; but the amount of derivative pension, as adjusted, which is paid (b) from the date immediately or payable on the death in service of following the date of death the officer shall not be less than 1/5 of the officer in retirement of the officer’s corresponding last on or after 1 July 1980. drawn salary. 2. Where no derivative pension is paid or Adjusted based on the same formula payable under paragraph 1, a derivative provided in respect of subparagraphs retiring allowance shall be paid or be 1(a) and (b) but limited to 3/4 of the payable in any of the circumstances amount determined in each case.”. referred to in subparagraph 1(a) or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": ". Deletion of Third Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting the Third"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Schedule. Savings and transitional provisions"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_9__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_9__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsection (2), any officer or his dependant who is qualified for the adjustment of pension, derivative pension, retiring allowance or derivative retiring allowance under the principal Act before 1 January 2009 but the adjustment has not been made before that date, such pension, derivative pension, retiring allowance or derivative retiring allowance shall be adjusted until 31 December 2008 as provided in the Schedules to the principal Act as if the Schedules have not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The pension, derivative pension, retiring allowance or derivative retiring allowance of the officer or his dependants shall, from 1 January 2009, be calculated based on the Schedules as amended by this Act and shall be payable from that date."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For any officer or his dependant whose pension, derivative pension, retiring allowance or derivative retiring allowance has been adjusted immediately before 1 January 2009, the pension, derivative pension, retiring allowance or derivative retiring allowance shall, from 1 January 2009, be calculated based on the Schedules as amended by this Act and shall be payable from that date."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_9__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In the case of the abolishment of the requirement of residency in Malaysia, the grant or adjustment of pension, derivative pension, retiring allowance or derivative retiring allowance before 1 January 2008 shall be based on the principal Act as if it has not been amended by this Act and such grant or adjustment of pensions, derivative pension, retiring allowance or derivative retiring allowance shall be based on the amendments made to the principal Act by this Act only from 1 January 2008 and shall be payable from that date."
+      }
+    }
+  ]
+}

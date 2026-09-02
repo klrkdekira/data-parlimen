@@ -58,11 +58,7 @@ Tambahan (1995) 1995 dan Akta Perbekalan Tambahan
 
 ## JADUAL
 
-(Seksyen 2) Maksud Tajuk
-
-<!-- marginal: Peruntukan -->
-
-kepada Maksud
+(Seksyen 2) Maksud Tajuk Peruntukan kepada Maksud
 
 <!-- marginal: RM -->
 
@@ -102,19 +98,11 @@ B. 25 Kementerian Pertahanan
 
 <!-- marginal: 81,584,256 -->
 
-B. 26 Kementerian Pendidikan
-
-<!-- marginal: 310,466,085 -->
-
-B.28 Perbendaharaan
+B. 26 Kementerian Pendidikan 310,466,085 B.28 Perbendaharaan
 
 <!-- marginal: 2,083,300 -->
 
-B.29 Perkhidmatan Am Perbendaharaan
-
-<!-- marginal: 135,699,900 -->
-
-B.30 Peruntukan kepada Kumpulan Wang 14,000,000,000 Terkanun B.31 Jabatan Kastam dan Eksais DiRaja
+B.29 Perkhidmatan Am Perbendaharaan 135,699,900 B.30 Peruntukan kepada Kumpulan Wang 14,000,000,000 Terkanun B.31 Jabatan Kastam dan Eksais DiRaja
 
 <!-- marginal: 10,638,499 -->
 

@@ -8,31 +8,41 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian i
+## BAHAGIAN I
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
+1. Tajuk ringkas dan permulaan kuat kuasa
 
-## Bahagian ii
+2. Tafsiran
+
+## BAHAGIAN II
 
 ## PENUBUHAN DAN PELANTIKAN
 
 ## PASUKAN SUKARELAWAN MALAYSIA (RELA)
 
-3. Penubuhan Pasukan Sukarelawan Malaysia 4. Pelantikan Ketua Pengarah, Timbalan Ketua Pengarah dan pegawai lain
+3. Penubuhan Pasukan Sukarelawan Malaysia
 
-## Bahagian iii
+4. Pelantikan Ketua Pengarah, Timbalan Ketua Pengarah dan pegawai lain
+
+## BAHAGIAN III
 
 ## TUGAS DAN KUASA RELA
 
-5. Tugas RELA 6. Kuasa untuk mengawal dan mengubah haluan kenderaan motor
+5. Tugas RELA
 
-## Bahagian iV
+6. Kuasa untuk mengawal dan mengubah haluan kenderaan motor
+
+## BAHAGIAN IV
 
 ## ANGGOTA RELA DAN PENDAFTARAN
 
-7. Pendaftaran sebagai anggota RELA 8. Perakuan pelantikan 9. Tempoh keanggotaan
+7. Pendaftaran sebagai anggota RELA
+
+8. Perakuan pelantikan
+
+9. Tempoh keanggotaan
 
 <!-- page 2 -->
 
@@ -48,7 +58,7 @@
 
 15. Elaun
 
-## Bahagian V
+## BAHAGIAN V
 
 ## KESALAHAN
 
@@ -58,7 +68,7 @@
 
 18. Penyamaran
 
-## Bahagian Vi
+## BAHAGIAN VI
 
 AM
 
@@ -82,7 +92,7 @@ AM
 
 28. Peruntukan kecualian
 
-## Jadual
+## JADUAL
 
 <!-- page 3 -->
 
@@ -92,7 +102,7 @@ Suatu Akta untuk mengadakan peruntukan bagi penubuhan, tugas dan kuasa Pasukan S
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian i
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -124,7 +134,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “warden lalu lintas” mempunyai erti yang sama yang diberikan kepadanya dalam seksyen 2 Akta Pengangkutan Jalan 1987.
 
-## Bahagian ii
+## BAHAGIAN II
 
 ## PENUBUHAN DAN PELANTIKAN
 
@@ -148,7 +158,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (4) Ketua Pengarah boleh secara bertulis, tertakluk kepada apa- apa syarat, batasan atau sekatan yang difikirnya patut dikenakan, mewakilkan segala atau mana-mana kuasa atau fungsinya di bawah Akta ini kepada Timbalan Ketua Pengarah RELA atau kepada pegawai RELA.
 
-## Bahagian iii
+## BAHAGIAN III
 
 ## TUGAS DAN KUASA RELA
 
@@ -180,7 +190,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (2) Pada menjalankan kuasa di bawah subseksyen (1), pegawai dan anggota RELA hendaklah berada di bawah perintah pegawai polis atau warden lalu lintas, mengikut mana-mana yang berkenaan, yang berada di tempat itu.
 
-## Bahagian iV
+## BAHAGIAN IV
 
 ## ANGGOTA RELA DAN PENDAFTARAN
 
@@ -270,7 +280,7 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 
 <!-- page 10 -->
 
-## Bahagian V
+## BAHAGIAN V
 
 ## KESALAHAN
 
@@ -298,7 +308,7 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 
 <!-- page 11 -->
 
-## Bahagian Vi
+## BAHAGIAN VI
 
 AM
 
@@ -374,7 +384,7 @@ AM
 
 (2) Tertakluk kepada subseksyen 7(4), orang yang didaftarkan sebagai anggota Ikatan Relawan Rakyat di bawah Peraturan-Peraturan Perlu (Ikatan Relawan Rakyat) 1966 hendaklah terus menjadi anggota di bawah Akta ini seolah-olah orang itu didaftarkan di bawah subseksyen 7(2) Akta ini.
 
-## Jadual
+## JADUAL
 
 [Seksyen 22]
 
@@ -398,7 +408,7 @@ Prebet
 
 Rang Undang-Undang Pasukan Sukarelawan Malaysia (RELA) 2012 (“Akta yang dicadangkan”) bertujuan untuk mengadakan peruntukan berkaitan dengan penubuhan Pasukan Sukarelawan Malaysia (RELA), dan untuk mengadakan peruntukan bagi tugas dan kuasanya dan bagi perkara-perkara yang berkaitan dengannya.
 
-## Bahagian i
+## BAHAGIAN I
 
 2. Bahagian I memperkatakan perkara permulaan.
 
@@ -406,7 +416,7 @@ Rang Undang-Undang Pasukan Sukarelawan Malaysia (RELA) 2012 (“Akta yang dicada
 
 4. Fasal 2 mengandungi takrif beberapa perkataan dan ungkapan yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian ii
+## BAHAGIAN II
 
 5. Bahagian II mengandungi peruntukan yang berhubungan dengan penubuhan dan pelantikan Pasukan Sukarelawan Malaysia (RELA).
 
@@ -416,7 +426,7 @@ Rang Undang-Undang Pasukan Sukarelawan Malaysia (RELA) 2012 (“Akta yang dicada
 
 7. Fasal 4 bertujuan untuk mengadakan peruntukan bagi pelantikan Ketua Pengarah, Timbalan Ketua Pengarah dan pegawai RELA lain.
 
-## Bahagian iii
+## BAHAGIAN III
 
 8. Bahagian III Akta yang dicadangkan memperkatakan tugas dan kuasa
 
@@ -426,7 +436,7 @@ Rang Undang-Undang Pasukan Sukarelawan Malaysia (RELA) 2012 (“Akta yang dicada
 
 10. Fasal 6 memberi pegawai dan anggota RELA kuasa untuk mengawal dan mengubah haluan kenderaan motor.
 
-## Bahagian iV
+## BAHAGIAN IV
 
 11. Bahagian IV Akta yang dicadangkan memperkatakan anggota RELA dan pendaftaran.
 
@@ -454,7 +464,7 @@ Rang Undang-Undang Pasukan Sukarelawan Malaysia (RELA) 2012 (“Akta yang dicada
 
 20. Fasal 15 memberi Menteri kuasa untuk menentukan elaun yang akan dibayar kepada anggota RELA.
 
-## Bahagian V
+## BAHAGIAN V
 
 21. Bahagian V Akta yang dicadangkan mengandungi peruntukan yang memperkatakan kesalahan.
 
@@ -462,7 +472,7 @@ Rang Undang-Undang Pasukan Sukarelawan Malaysia (RELA) 2012 (“Akta yang dicada
 
 23. Fasal 18 memperkatakan kesalahan penyamaran.
 
-## Bahagian Vi
+## BAHAGIAN VI
 
 24. Bahagian VI Akta yang dicadangkan mengandungi peruntukan am.
 

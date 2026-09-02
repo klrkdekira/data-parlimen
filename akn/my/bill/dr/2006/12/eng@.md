@@ -28,23 +28,73 @@
 
 ## INVESTIGATION
 
-10. Petition for initiation 11. Requirements for a written petition 12. Withdrawal of the petition before initiation 13. Amendments to the petition 14. Decision to initiate 15. Notice of initiation 16. Publication of the notice of initiation
+10. Petition for initiation
+
+11. Requirements for a written petition
+
+12. Withdrawal of the petition before initiation
+
+13. Amendments to the petition
+
+14. Decision to initiate
+
+15. Notice of initiation
+
+16. Publication of the notice of initiation
 
 <!-- page 2 -->
 
-17. Contents of the notice of initiation 18. Public hearings and written arguments 19. Treatment of confidential information 20. Preliminary determination 21. Notification and consultation of a provisional safeguard measure 22. Provisional safeguard measure 23. Final determination 24. Notice of final determination
+17. Contents of the notice of initiation
+
+18. Public hearings and written arguments
+
+19. Treatment of confidential information
+
+20. Preliminary determination
+
+21. Notification and consultation of a provisional safeguard measure
+
+22. Provisional safeguard measure
+
+23. Final determination
+
+24. Notice of final determination
 
 ## PART V
 
 ## DEFINITIVE SAFEGUARD MEASURE
 
-25. Determination of definitive safeguard measure 26. Notice of definitive safeguard measure 27. Notification and consultation of a definitive safeguard measure 28. Form and application of a definitive safeguard measure 29. Administrative matters 30. Transhipment 31. Customs clearance not to be hindered 32. Application of the Customs Act 1967 33. Developing country Member 34. Duration of definitive safeguard measure 35. Liberalization of safeguard measure
+25. Determination of definitive safeguard measure
+
+26. Notice of definitive safeguard measure
+
+27. Notification and consultation of a definitive safeguard measure
+
+28. Form and application of a definitive safeguard measure
+
+29. Administrative matters
+
+30. Transhipment
+
+31. Customs clearance not to be hindered
+
+32. Application of the Customs Act 1967
+
+33. Developing country Member
+
+34. Duration of definitive safeguard measure
+
+35. Liberalization of safeguard measure
 
 ## PART VI
 
 ## REVIEW OF SAFEGUARD MEASURE
 
-36. Review 37. Extension of a definitive safeguard measure 38. Notification to extend
+36. Review
+
+37. Extension of a definitive safeguard measure
+
+38. Notification to extend
 
 ## PART VII
 
@@ -480,7 +530,9 @@ the Government shall apply a definitive safeguard measure.
 
 ### Application of the Customs Act 1967
 
-32. (1) This Act shall be construed as one with the Customs Act 1967.
+32. (1) This Act shall be construed as one with the Customs Act
+
+1967.
 
 <!-- page 17 -->
 

@@ -4,23 +4,33 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation 3. Application 4. Act to be read together with other laws 5. Competent Court 6. Authorization of Malaysian insolvency office-holder to act in foreign State 7. Public policy exception 8. Additional assistance under other written laws
 
-## Part II
+## PART II
 
 ## ACCESS OF FOREIGN REPRESENTATIVES AND FOREIGN CREDITORS
 
 ## TO COURTS IN MALAYSIA
 
-9. Right of direct access 10. Limited jurisdiction 11. Application by foreign representative to commence proceedings under Malaysian insolvency law 12. Participation of foreign representative in proceedings under Malaysian insolvency law 13. Access of foreign creditor to proceedings under Malaysian insolvency law 14. Notification to foreign creditor of proceedings under Malaysian insolvency law
+9. Right of direct access
+
+10. Limited jurisdiction
+
+11. Application by foreign representative to commence proceedings under Malaysian insolvency law
+
+12. Participation of foreign representative in proceedings under Malaysian insolvency law
+
+13. Access of foreign creditor to proceedings under Malaysian insolvency law
+
+14. Notification to foreign creditor of proceedings under Malaysian insolvency law
 
 <!-- page 2 -->
 
-## Part III
+## PART III
 
 ## RECOGNITION OF FOREIGN PROCEEDINGS AND RELIEF
 
@@ -44,7 +54,7 @@
 
 24. Intervention by foreign representative in proceedings in Malaysia
 
-## Part IV
+## PART IV
 
 ## COOPERATION WITH FOREIGN COURTS AND FOREIGN REPRESENTATIVES
 
@@ -54,7 +64,7 @@
 
 27. Forms of cooperation
 
-## Part V
+## PART V
 
 ## CONCURRENT PROCEEDINGS
 
@@ -70,13 +80,13 @@
 
 <!-- page 3 -->
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
 33. Power to make regulations 34. Power to amend Schedule 35. Saving
 
-## Schedule
+## SCHEDULE
 
 <!-- page 5 -->
 
@@ -104,7 +114,7 @@ AND WHEREAS it is also expedient to provide for the establishment of an effectiv
 
 NOW, THEREFORE, IT IS ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -240,7 +250,7 @@ NOW, THEREFORE, IT IS ENACTED by the Parliament of Malaysia as follows:
 
 8. Nothing in this Act limits the power of the Court or a Malaysian insolvency office-holder to provide additional assistance to a foreign representative under other written laws.
 
-## Part II
+## PART II
 
 ## ACCESS OF FOREIGN REPRESENTATIVES AND FOREIGN
 
@@ -306,7 +316,7 @@ NOW, THEREFORE, IT IS ENACTED by the Parliament of Malaysia as follows:
 
 (c) contain any other information required to be included in such a notification to creditors under the laws of Malaysia and the orders of the Court.
 
-## Part III
+## PART III
 
 ## RECOGNITION OF FOREIGN PROCEEDINGS AND RELIEF
 
@@ -526,7 +536,7 @@ being the rights which would have been exercisable if the debtor had been made t
 
 24. Upon recognition of foreign proceedings, a foreign representative may, subject to compliance with the requirements under the Companies Act 2016, the Labuan Companies Act 1990 or any other applicable written laws, intervene in any proceedings in which the debtor is a party.
 
-## Part IV
+## PART IV
 
 ## COOPERATION WITH FOREIGN COURTS AND FOREIGN
 
@@ -568,7 +578,7 @@ being the rights which would have been exercisable if the debtor had been made t
 
 <!-- page 25 -->
 
-## Part V
+## PART V
 
 ## CONCURRENT PROCEEDINGS
 
@@ -634,7 +644,7 @@ being the rights which would have been exercisable if the debtor had been made t
 
 <!-- page 28 -->
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -660,11 +670,11 @@ being the rights which would have been exercisable if the debtor had been made t
 
 (4) Nothing in this Act shall affect the rights and remedies of any creditor arising or accrued under the law applicable before the date of coming into operation of this Act, unless otherwise agreed by the relevant parties or directed by the Court under this Act.
 
-## Schedule
+## SCHEDULE
 
 [Paragraph 3(2)(d), subsection 5(2) and paragraph 20(3)(c)]
 
-## Part I
+## PART I
 
 Non-application
 
@@ -706,7 +716,7 @@ This Act shall not apply to—
 
 17. any Labuan foundation established under section 4 of the Labuan Foundations Act 2010 [Act 706] or any Labuan Islamic foundation established under section 107 of the Labuan Islamic Financial Services and Securities Act 2010.
 
-## Part II
+## PART II
 
 Provisions in relation to restrictions on granting recognition, relief, etc., in certain circumstances
 
@@ -750,7 +760,7 @@ unless the foreign representative or other applicant has obtained prior written 
 
 This Bill (“the proposed Act”) seeks to provide for a legal framework for matters relating to cross-border insolvency, including access to Court by foreign representatives and foreign creditors, recognition of foreign insolvency proceedings, granting of relief in relation to recognition of foreign proceedings, cooperation with foreign courts and foreign representatives, coordination of concurrent proceedings and other related matters in accordance with the principles of the Model Law on Cross-Border Insolvency adopted by the United Nations Commission on International Trade Law (UNCITRAL).
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act deals with preliminary matters.
 
@@ -772,7 +782,7 @@ This Bill (“the proposed Act”) seeks to provide for a legal framework for ma
 
 10. Clause 8 seeks to provide that the proposed Act does not limit the powers of the Court or a Malaysian insolvency office-holder to provide additional assistance to foreign representatives under other written laws.
 
-## Part II
+## PART II
 
 11. Part II of the proposed Act deals with provisions relating to the access of foreign representatives and foreign creditors to Courts in Malaysia.
 
@@ -790,7 +800,7 @@ This Bill (“the proposed Act”) seeks to provide for a legal framework for ma
 
 17. Clause 14 seeks to provide that notification of insolvency proceedings under Malaysian insolvency law shall be given to known foreign creditors. Besides that, this clause also sets out the manner, content and form of such notifications, including to empower the Court to make an order requiring that reasonable steps be taken to notify any foreign creditor when the foreign creditors’ address is unknown.
 
-## Part III
+## PART III
 
 18. Part III of the proposed Act deals with the provisions relating to the recognition of foreign proceedings and relief that may be granted in relation to such proceedings.
 
@@ -818,7 +828,7 @@ This Bill (“the proposed Act”) seeks to provide for a legal framework for ma
 
 28. Clause 24 seeks to provide for the rights of a foreign representative, upon recognition of foreign proceedings, to intervene in any proceedings in Malaysia to which the debtor is a party. This is subject to compliance with the requirements under the Companies Act 2016, the Labuan Companies Act 1990 or any other applicable written laws.
 
-## Part IV
+## PART IV
 
 29. Part IV of the proposed Act deals with provisions relating to the cooperation with foreign courts and foreign representatives.
 
@@ -830,7 +840,7 @@ This Bill (“the proposed Act”) seeks to provide for a legal framework for ma
 
 32. Clause 27 seeks to provide that the cooperation referred to in clauses 25 and 26 may be implemented by any appropriate means including the appointment of a person to act under the direction of the Court, the communication of information by any appropriate means, the coordination of administration and supervision of the debtor’s property and affairs, the approval or implementation of agreements for coordination of proceedings, and the coordination of concurrent proceedings relating to the same debtor.
 
-## Part V
+## PART V
 
 33. Part V of the proposed Act deals with the provisions relating to concurrent proceedings.
 
@@ -846,7 +856,7 @@ This Bill (“the proposed Act”) seeks to provide for a legal framework for ma
 
 38. Clause 32 seeks to provide for a rule of equitable payment in concurrent proceedings by ensuring that a creditor who has received part payment in foreign insolvency proceedings shall not receive a greater share than other creditors of the same class in proceedings in Malaysia. In this regard, this provision is subject to any security claim or right in rem.
 
-## Part VI
+## PART VI
 
 39. Part VI of the proposed Act deals with general provisions.
 

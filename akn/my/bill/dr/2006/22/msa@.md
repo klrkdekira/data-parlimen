@@ -332,7 +332,9 @@ on such terms, and conditions as the Board deems desirable.
 
 (h) all other moneys or property which may in any manner become payable to or vested in the Board in respect of any matter incidental to its functions and powers.
 
-(3) The expenses of the Board up to such amounts as may be authorized by the Minister for any one year shall be defrayed from the funds of the Board in accordance with the estimates as approved by the Minister under section 9B.".
+(3) The expenses of the Board up to such amounts as may be authorized by the Minister for any one year shall be defrayed from the funds of the Board in accordance with the estimates as approved by the Minister under section
+
+9B.".
 
 ### Seksyen baru 8A
 

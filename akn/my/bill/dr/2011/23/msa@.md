@@ -18,7 +18,9 @@ Dan Bahawasanya melalui Fasal (1)(b) Perkara 76 Perlembagaan Persekutuan, Parlim
 
 Negeri atau lebih, dan bahawasanya penyu dan penangkapan ikan di sungai ialah perkara yang disenaraikan dalam Senarai Negeri di bawah butiran 12 Senarai II Jadual Kesembilan kepada Perlembagaan Persekutuan:
 
-Maka, Oleh yang DeMikian, inilah DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
+## MAKA,OLEH YANGDEMIKIAN, INILAHDIPERBUATOLEHPARLIMEN
+
+Malaysia seperti yang berikut:
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
@@ -34,9 +36,7 @@ Maka, Oleh yang DeMikian, inilah DIPERBUAT oleh Parlimen Malaysia seperti yang b
 
 “(3) Walau apa pun subseksyen (1) dan (2), permit untuk mengimport atau mengeksport apa-apa ikan hidup hendaklah dikeluarkan oleh Ketua Pengarah Kuarantin dan Pemeriksaan mengikut Akta Perkhidmatan Kuarantin dan Pemeriksaan Malaysia 2011 [Akta ].
 
-(4) Mana-mana orang yang mengimport atau mengeksport apa-apa ikan hidup tanpa permit yang dikeluarkan oleh Ketua Pengarah Kuarantin dan Pemeriksaan melakukan suatu kesalahan di bawah Akta Perkhidmatan Kuarantin dan Pemeriksaan Malaysia
-
-2011.
+(4) Mana-mana orang yang mengimport atau mengeksport apa-apa ikan hidup tanpa permit yang dikeluarkan oleh Ketua Pengarah Kuarantin dan Pemeriksaan melakukan suatu kesalahan di bawah Akta Perkhidmatan Kuarantin dan Pemeriksaan Malaysia 2011.
 
 (5) Suatu permohonan bagi permit untuk mengimport dan mengeksport apa-apa ikan hidup hendaklah dibuat mengikut Akta Perkhidmatan Kuarantin dan Pemeriksaan Malaysia 2011.
 

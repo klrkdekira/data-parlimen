@@ -16,13 +16,31 @@
 
 ## COMMISSION
 
-3. Establishment of the Commission 4. Common seal 5. Membership of the Commission 6. Temporary exercise of functions of the Chairman 7. Statutory declaration by members of the Commission 8. Approval to hold other office 9. Tenure of office 10. Remuneration and allowances 11. Revocation of appointment and resignation 12. Vacation of office 13. Committees 14. Disclosure of interest
+3. Establishment of the Commission 4. Common seal 5. Membership of the Commission 6. Temporary exercise of functions of the Chairman 7. Statutory declaration by members of the Commission 8. Approval to hold other office 9. Tenure of office
+
+10. Remuneration and allowances
+
+11. Revocation of appointment and resignation
+
+12. Vacation of office
+
+13. Committees
+
+14. Disclosure of interest
 
 ## PART III
 
 ## FUNCTIONS AND POWERS OF THE COMMISSION
 
-15. Functions of the Commission 16. Powers of the Commission 17. Delegation of the Commission's functions or powers 18. Direction by Minister 19. Returns, reports, accounts and information
+15. Functions of the Commission
+
+16. Powers of the Commission
+
+17. Delegation of the Commission's functions or powers
+
+18. Direction by Minister
+
+19. Returns, reports, accounts and information
 
 <!-- page 2 -->
 
@@ -730,4 +748,6 @@ II. Clause 8 requires the Chairman of the Commission to seek the prior approval 
 
 ## FINANCIAL IMPLICATIONS
 
-This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained. [PN(U2)2469]
+This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
+
+<!-- marginal: [PN(U2)2469] -->

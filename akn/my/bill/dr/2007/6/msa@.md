@@ -180,4 +180,6 @@ awam. Penamatan sedemikian bukanlah pembuangan kerja sebagaimana yang diperuntuk
 
 ## IMPL1KASI KEWANGAN
 
-Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini. [PN(U2)2411]
+Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini.
+
+<!-- marginal: [PN(U2)2411] -->

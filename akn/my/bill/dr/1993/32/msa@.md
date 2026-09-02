@@ -54,11 +54,37 @@ ibu" dalam Akta ini, adalah dipinda dalam teks bahasa kebangsaan dengan menggant
 
 memasukkan, selepas takrif itu, takrif yang berikut: ' "standard ketulenan", berhubung dengan artikel yang dibuat daripada logam berharga, ertinya bilangan bahagian mengikut berat emas, perak atau platinum tulen dalam seribu bahagian mengikut berat logam berharga;.
 
-Pindaan 4. Subseksyen 4(1) Akta ibu adalah dipinda dengan seksyen 4. menggantikan perenggan (e) dengan perenggan yang berikut; "(e) standard ketulenan artikel-artikel yang dibuat daripada logam berharga;". 5. Akta ibu adalah dipinda dengan memasukkan selepas baru 21 A. seksyen 21 seksyen yang berikut: Pengkom- 2lA. (1) Pengawal atau Timbalan Pengawal paunan boleh mengkompaun apa-apa kesalahan di kesalahan. bawah Akta ini atau mana-mana peraturan yang dibuat di bawahnya yang ditetapkan sebagai kesalahan boleh kompaun dengan membuat suatu tawaran bertulis, kepada orang yang disyaki dengan munasabahnya telah melakukan kesalahan
+<!-- marginal: Pindaan -->
 
-<!-- marginal: itu, untuk meng- -->
+4. Subseksyen 4(1) Akta ibu adalah dipinda dengan
 
-kompaunkan kesalahan itu apabila dibayar kepada Pengawal atau Timbalan Pengawal apa-apa jumlah wang dalam masa yang dinyatakan dalam tawaran itu.
+<!-- marginal: seksyen 4. -->
+
+menggantikan perenggan (e) dengan perenggan yang
+
+<!-- marginal: berikut; -->
+
+"(e) standard ketulenan artikel-artikel yang dibuat daripada logam berharga;".
+
+<!-- marginal: Seksyen -->
+
+5. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 21 A. -->
+
+seksyen 21 seksyen yang berikut:
+
+<!-- marginal: Pengkom- -->
+
+2lA. (1) Pengawal atau Timbalan Pengawal
+
+<!-- marginal: paunan -->
+
+boleh mengkompaun apa-apa kesalahan di
+
+<!-- marginal: kesalahan. -->
+
+bawah Akta ini atau mana-mana peraturan yang dibuat di bawahnya yang ditetapkan sebagai kesalahan boleh kompaun dengan membuat suatu tawaran bertulis, kepada orang yang disyaki dengan munasabahnya telah melakukan kesalahan itu, untuk meng- kompaunkan kesalahan itu apabila dibayar kepada Pengawal atau Timbalan Pengawal apa-apa jumlah wang dalam masa yang dinyatakan dalam tawaran itu.
 
 (2) Sesuatu tawaran di bawah seksyen kecil (1) boleh dibuat pada bila-bila masa selepas kesalahan itu dilakukan, tetapi sebelum apa- apa pendakwaan baginya dimulakan, dan jika amaun yang ditentukan dalam tawaran itu tidak dibayar dalam masa yang ditentukan dalam tawaran itu atau dalam apa-apa tempoh lanjutan yang diberikan oleh Pengawal atau Timbalan Pengawal, pendakwaan bagi kesalahan itu boleh dimulakan pada bila-bila masa selepas itu terhadap orang yang kepadanya tawaran itu dibuat.
 
@@ -66,13 +92,9 @@ kompaunkan kesalahan itu apabila dibayar kepada Pengawal atau Timbalan Pengawal 
 
 ## PERIHAL DAGANGAN (PINDAAN)
 
-<!-- marginal: 3 -->
+3
 
-(3) Jika sesuatu kesalahan telah dikompaun- kan di bawah seksyen kecil (1),
-
-<!-- marginal: tiada -->
-
-pendakwaan boleh selepas itu dimulakan berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk meng- kompaunkan kesalahan itu dibuat dan jika apa- apa barang atau dokumen telah diambil milik di bawah Akta ini atau mana-mana peraturan yang dibuat di bawahnya barang-barang atau dokumen itu boleh dilepaskan, tertakluk kepada apa-apa syarat yang dikenakan.
+(3) Jika sesuatu kesalahan telah dikompaun- kan di bawah seksyen kecil (1), tiada pendakwaan boleh selepas itu dimulakan berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk meng- kompaunkan kesalahan itu dibuat dan jika apa- apa barang atau dokumen telah diambil milik di bawah Akta ini atau mana-mana peraturan yang dibuat di bawahnya barang-barang atau dokumen itu boleh dilepaskan, tertakluk kepada apa-apa syarat yang dikenakan.
 
 (4) Kuasa untuk mengkompaun kesalahan di bawah seksyen kecil (1) hendaklah dijalan- kan oleh Pengawal atau Timbalan Pengawal sendiri.".
 
@@ -84,21 +106,13 @@ pendakwaan boleh selepas itu dimulakan berkenaan dengan kesalahan itu terhadap o
 
 (a) dengan memasukkan selepas perenggan (b) perenggan yang berikut:
 
-"(ba) menetapkan fee yang dikehendaki dikenakan berkenaan
-
-<!-- marginal: dengan -->
-
-penggunaan apa-apa perbahasaan atau petunjuk yang digunakan dalam perjalanan sesuatu perdagangan atau perniagaan berhubungan dengan harga barang-barang atau bayaran atau kadar bagi perkhidmatan, tempat tinggal atau kemudahan;";
+"(ba) menetapkan fee yang dikehendaki dikenakan berkenaan dengan penggunaan apa-apa perbahasaan atau petunjuk yang digunakan dalam perjalanan sesuatu perdagangan atau perniagaan berhubungan dengan harga barang-barang atau bayaran atau kadar bagi perkhidmatan, tempat tinggal atau kemudahan;";
 
 (b) dengan menggantikan noktah di penghujung perenggan (d) dengan koma bertitik; dan
 
 (c) dengan memasukkan selepas perenggan (d) perenggan yang berikut:
 
-"(e) menetapkan standard
-
-<!-- marginal: ketulenan -->
-
-artikel-artikel yang dibuat daripada logam berharga dan mengawalselia atau mengawal penggunaan apa-apa perbahasaan atau petunjuk yang digunakan dalam perjalanan sesuatu perdagangan atau perniagaan ber- hubung dengan standard ketulenan sedemikian;
+"(e) menetapkan standard ketulenan artikel-artikel yang dibuat daripada logam berharga dan mengawalselia atau mengawal penggunaan apa-apa perbahasaan atau petunjuk yang digunakan dalam perjalanan sesuatu perdagangan atau perniagaan ber- hubung dengan standard ketulenan sedemikian;
 
 <!-- page 4 -->
 

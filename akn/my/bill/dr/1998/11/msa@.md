@@ -62,21 +62,37 @@ Larangan 29A. (1) Walau apa pun apa-apa yang atas berlawanan yang terkandung dal
 
 "premis" termasuklah mana-mana tanah.
 
-Pemunya 29s. Jika pembakaran terbuka berlaku di mana- atau mana premis— penduduk premis bertanggung-
+<!-- marginal: Pemunya -->
 
-(a) pemunya; atau jawab bagi pembakaran terbuka.
+29s. Jika pembakaran terbuka berlaku di mana-
+
+<!-- marginal: atau -->
+
+mana premis—
+
+<!-- marginal: penduduk -->
+
+<!-- marginal: premis -->
+
+<!-- marginal: bertanggung- -->
+
+(a) pemunya; atau
+
+<!-- marginal: jawab bagi -->
+
+<!-- marginal: pembakaran -->
+
+<!-- marginal: terbuka. -->
 
 (b) penduduk,
 
 premis itu yang mempunyai kawalan atas premis itu adalah disifatkan telah melanggar subseksyen 29A(1) melainkan jika dibuktikan selainnya.
 
-Pembelaan. 29c. Dalam apa-apa pendakwaan di bawah seksyen 29A atau 29B, adalah menjadi pembelaan jika orang, pemunya atau penduduk premis itu membuktikan—
+<!-- marginal: Pembelaan. -->
 
-(a) bahawa pembakaran terbuka itu berlaku di luar kawalannya atau
+29c. Dalam apa-apa pendakwaan di bawah seksyen 29A atau 29B, adalah menjadi pembelaan jika orang, pemunya atau penduduk premis itu membuktikan—
 
-<!-- marginal: tanpa -->
-
-pengetahuan atau pembiaran atau persetujuannya; atau
+(a) bahawa pembakaran terbuka itu berlaku di luar kawalannya atau tanpa pengetahuan atau pembiaran atau persetujuannya; atau
 
 <!-- page 3 -->
 

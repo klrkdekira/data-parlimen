@@ -38,9 +38,13 @@
       "@type": "akn:clause",
       "eli:number": "1",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/12/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Evidence (Amendment) Act"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "This Act may be cited as the Evidence (Amendment) Act 2015. New section 32a"
+        "@value": "2015. New section 32a"
       }
     },
     {

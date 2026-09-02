@@ -16,7 +16,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 2. The Criminal Procedure Code [Act 593] is amended by inserting after Chapter XXV the following Chapter:
 
-“Chapter XXVa
+## “CHAPTER XXVA
 
 RECORDiNG OF PROCEEDiNGS bY MECHaNiCal MEaNS
 

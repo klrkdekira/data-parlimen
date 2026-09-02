@@ -46,43 +46,65 @@ is amended—
 
 <!-- page 2 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Subsection 51(2) of the principal Act is amended by of section 51. substituting for the full stop a colon and inserting thereafter the following proviso:
+3. Subsection 51(2) of the principal Act is amended by
+
+<!-- marginal: of section 51. -->
+
+substituting for the full stop a colon and inserting thereafter the following proviso:
 
 "Provided that, in a case of an appeal under section 50(2), the computation of the aforesaid period of fourteen days shall commence from the date immediately after leave has been granted by the Court of Appeal.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Subsection 52(1) of the principal Act is amended— of section 52.
+4. Subsection 52(1) of the principal Act is amended—
+
+<!-- marginal: of section 52. -->
 
 (a) by substituting for the colon appearing after the word "proceedings" a full stop; and
 
 (b) by deleting the proviso thereto.
 
-Amendment
+<!-- marginal: Amendment -->
 
-5. Subsection 53(2) of the principal Act is amended by of section 53. substituting for the words"trial Court" the words "High Court".
+5. Subsection 53(2) of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 53. -->
 
-6. Subsection 57(1) of the principal Act is amended by of section 57, substituting for the words "trial Court" the words "High Court".
+substituting for the words"trial Court" the words "High Court".
 
-Amendment
+<!-- marginal: Amendment -->
 
-7. Section 60 of the principal Act is amended— of section 60.
+6. Subsection 57(1) of the principal Act is amended by
+
+<!-- marginal: of section 57, -->
+
+substituting for the words "trial Court" the words "High Court".
+
+<!-- marginal: Amendment -->
+
+7. Section 60 of the principal Act is amended—
+
+<!-- marginal: of section 60. -->
 
 (a) in subsection (1) by substituting for the words "trial court" appearing after the words "decision of the" the words "High Court"; and
 
 (b) in subsection (2) by substituting for the words "by the trial court" the words ", confirmed or varied by the High Court".
 
-Amendment
+<!-- marginal: Amendment -->
 
-8. Subsection 61(3) of the principal Act is amended by of section 61, deleting the words ", but the evidence shall not be taken in the presence of a jury or assessors".
+8. Subsection 61(3) of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 61, -->
 
-9. Section 63 of the principal Act is amended— of section 63.
+deleting the words ", but the evidence shall not be taken in the presence of a jury or assessors".
+
+<!-- marginal: Amendment -->
+
+9. Section 63 of the principal Act is amended—
+
+<!-- marginal: of section 63. -->
 
 (a) by substituting for the marginal note the following marginal note:
 
@@ -136,9 +158,11 @@ by inserting after the word "civil" the words "cause or".
 
 <!-- page 4 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-14. Section 93 of the principal Act is amended— of section 93.
+14. Section 93 of the principal Act is amended—
+
+<!-- marginal: of section 93. -->
 
 (a) in subsections (1) and (2) by substituting for the words "trial court" the words "High Court";
 
@@ -146,9 +170,11 @@ Amendment
 
 (c) in subsection (4) by substituting for the words "trial court" the words "High Court".
 
-Amendment
+<!-- marginal: Amendment -->
 
-15. Section 95 of the principal Act is amended— of section 95.
+15. Section 95 of the principal Act is amended—
+
+<!-- marginal: of section 95. -->
 
 (a) by substituting for the marginal note the following marginal note:
 
@@ -164,9 +190,11 @@ Amendment
 
 (ii) by substituting for the words "trial court" appearing after the words "order of the" the words "High Court or as varied by the Court of Appeal".
 
-Amendment
+<!-- marginal: Amendment -->
 
-16. Section 96 of the principal Act is amended— of section 96.
+16. Section 96 of the principal Act is amended—
+
+<!-- marginal: of section 96. -->
 
 (a) by deleting the words "enactments or"; and
 
@@ -220,6 +248,4 @@ This Bill seeks to introduce some amendments to the Courts of Judicature Act 196
 
 ## IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure.
-
-<!-- marginal: [PN. (U2) 1859.] -->
+This Bill will not involve the Government in any extra financial expenditure. [PN. (U2) 1859.]

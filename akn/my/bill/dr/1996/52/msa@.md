@@ -40,9 +40,15 @@ Niaga Hadapan (Pindaan dan Penyatuan) 1996.
 
 ## PINDAAN AKTA SURUHANJAYA SEKURITI 1993
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-2. Akta Suruhanjaya Sekuriti 1993 adalah dipinda dengan seksyen 15. memotong subseksyen 15(2). Akta 498
+2. Akta Suruhanjaya Sekuriti 1993 adalah dipinda dengan
+
+<!-- marginal: seksyen 15. -->
+
+memotong subseksyen 15(2).
+
+<!-- marginal: Akta 498 -->
 
 ## BAB III
 
@@ -50,9 +56,17 @@ Pindaan
 
 ## HADAPAN 1993
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Akta Perindustrian Niaga Hadapan 1993, yang disebut seksyen 2. "Akta ibu" dalam Bab ini, adalah dipinda dalam Akta 499. seksyen 2—
+3. Akta Perindustrian Niaga Hadapan 1993, yang disebut
+
+<!-- marginal: seksyen 2. -->
+
+"Akta ibu" dalam Bab ini, adalah dipinda dalam
+
+<!-- marginal: Akta 499. -->
+
+seksyen 2—
 
 (a) dengan memotong takrif "kontrak niaga hadapan komoditi";
 
@@ -72,19 +86,7 @@ perdagangan dalam kontrak niaga hadapan; atau
 
 (Pindaan dan Penyatuan)
 
-di bawah sesuatu amanah dalam keuntungan
-
-<!-- marginal: atau -->
-
-pendapatan yang
-
-<!-- marginal: terdiri -->
-
-daripada atau
-
-<!-- marginal: termasuk -->
-
-keuntungan atau pendapatan yang berbangkit daripada perdagangan dalam kontrak niaga hadapan,
+di bawah sesuatu amanah dalam keuntungan atau pendapatan yang terdiri daripada atau termasuk keuntungan atau pendapatan yang berbangkit daripada perdagangan dalam kontrak niaga hadapan,
 
 tetapi tidak termasuk sesuatu perbuatan yang dilakukan oleh seseorang—
 
@@ -96,13 +98,11 @@ tetapi tidak termasuk sesuatu perbuatan yang dilakukan oleh seseorang—
 
 (c) dalam takrif "suratcara", dalam perenggan (a), dengan memasukkan selepas perkataan "termasuk" perkataan "sesuatu komoditi, atau".
 
-<!-- marginal: Pindaan -->
+Pindaan
 
-4. Seksyen 6 Akta ibu adalah dipinda dengan
+4. Seksyen 6 Akta ibu adalah dipinda dengan seksyen 6. memasukkan selepas subseksyen (1A) subseksyen yang
 
-<!-- marginal: seksyen 6. -->
-
-memasukkan selepas subseksyen (1A) subseksyen yang berikut:
+<!-- marginal: berikut: -->
 
 "(1B) Jika—
 
@@ -114,23 +114,31 @@ memasukkan selepas subseksyen (1A) subseksyen yang berikut:
 
 Suruhanjaya hendaklah berunding dengan Menteri itu sebelum memberitahukan keputusannya kepada syarikat bursa itu di bawah subseksyen (2).".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-5. Subseksyen 17(5) Akta ibu adalah dipinda dengan seksyen 17. memasukkan selepas perkataan "subseksyen (1)" perkataan "atau (2)".
+5. Subseksyen 17(5) Akta ibu adalah dipinda dengan
 
-Bahagian
+<!-- marginal: seksyen 17. -->
 
-6. Akta ibu adalah dipinda dengan memasukkan selepas baru
+memasukkan selepas perkataan "subseksyen (1)" perkataan "atau (2)".
+
+<!-- marginal: Bahagian -->
+
+6. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru -->
 
 ## Bahagian III Bahagian yang berikut:
 
-## IIIA.
+<!-- marginal: IIIA. -->
 
 ## "BAHAGIAN IIIA
 
 ## PERJANJIAN DENGAN ORANG TAK BERLESEN
 
-Tafsiran. 35A. Dalam Bahagian ini, melainkan jika konteksnya menghendaki makna yang lain—
+<!-- marginal: Tafsiran. -->
+
+35A. Dalam Bahagian ini, melainkan jika konteksnya menghendaki makna yang lain—
 
 "klien" ertinya seseorang yang membuat suatu perjanjian dengan orang tak berlesen dalam hal keadaan yang disebut dalam seksyen 35B, 35c atau 35D, mengikut kehendak keadaan, tetapi tidak termasuk seseorang klien yang dikecualikan;
 
@@ -160,9 +168,27 @@ dan termasuklah seseorang yang merupakan sekutu bagi seorang lain jika orang itu
 
 (d) berhubungan dengan peruntukan lain Bahagian ini, seseorang yang tidak memegang mana-mana lesen yang disebut dalam perenggan (a), (b) dan (c).
 
-Perjanjian 35B. Jika— mengenai suatu perdagangan
+<!-- marginal: Perjanjian -->
 
-(a) seseorang orang tak berlesen dan yang seseorang klien membuat suatu perjanjian melanggar seksyen 16 yang berhubungan dengan perdagangan, atau perdagangan yang dicadangkan, dalam kontrak niaga hadapan oleh orang tak berlesen itu bagi pihak klien itu; dan
+35B. Jika—
+
+<!-- marginal: mengenai -->
+
+<!-- marginal: suatu -->
+
+<!-- marginal: perdagangan -->
+
+(a) seseorang orang tak berlesen dan
+
+<!-- marginal: yang -->
+
+seseorang klien membuat suatu perjanjian
+
+<!-- marginal: melanggar -->
+
+<!-- marginal: seksyen 16 -->
+
+yang berhubungan dengan perdagangan, atau perdagangan yang dicadangkan, dalam kontrak niaga hadapan oleh orang tak berlesen itu bagi pihak klien itu; dan
 
 (b) perdagangan atau perdagangan yang dicadangkan itu melibatkan pelanggaran seksyen 16,
 
@@ -172,11 +198,73 @@ Rang Undang-Undang
 
 Bahagian ini terpakai sama ada atau tidak mana- mana orang lain menjadi pihak kepada perjanjian itu.
 
-Perjanjian 35c. Jika, dalam sesuatu tempoh semasa dengan seseorang orang tak berlesen menjalankan seseorang yang ber- perniagaan pengurusan kumpulan wang niaga tindak hadapan atau mengemukakan dirinya sebagai dengan pengurus kumpulan wang niaga hadapan, orang melanggar seksyen 16A tak berlesen itu dan seseorang klien membuat suatu perjanjian berhubungan dengan tawaran atau pelawaan daripada jenis yang disebut dalam takrif "perniagaan pengurusan kumpulan wang niaga hadapan", Bahagian ini terpakai sama ada atau tidak mana-mana orang lain menjadi pihak kepada perjanjian itu.
+<!-- marginal: Perjanjian -->
 
-Perjanjian 35D. Jika, dalam sesuatu tempoh semasa dengan sese- seseorang orang tak berlesen menjalankan orang yang bertindak perniagaan nasihat niaga hadapan atau dengan mengemukakan dirinya sebagai penasihat melanggar perdagangan niaga hadapan, orang tak berlesen seksyen 17. itu dan seseorang klien membuat suatu perjanjian berhubungan dengan pemberian nasihat kepada klien itu mengenai kontrak niaga hadapan atau memberi klien itu laporan niaga hadapan, Bahagian ini terpakai sama ada atau tidak mana- mana orang lain menjadi pihak kepada perjanjian itu.
+35c. Jika, dalam sesuatu tempoh semasa
 
-Klien boleh 35E. (1) Tertakluk kepada seksyen ini, seseorang memberikan klien boleh, sama ada sebelum atau selepas notis pembatalan. penyempurnaan perjanjian yang disebut dalam seksyen 35B, 35c atau 35D, memberikan notis bertulis kepada orang tak berlesen yang menyatakan bahawa klien itu ingin membatalkan perjanjian itu.
+<!-- marginal: dengan -->
+
+seseorang orang tak berlesen menjalankan
+
+<!-- marginal: seseorang -->
+
+<!-- marginal: yang ber- -->
+
+perniagaan pengurusan kumpulan wang niaga
+
+<!-- marginal: tindak -->
+
+hadapan atau mengemukakan dirinya sebagai
+
+<!-- marginal: dengan -->
+
+pengurus kumpulan wang niaga hadapan, orang
+
+<!-- marginal: melanggar -->
+
+<!-- marginal: seksyen 16A -->
+
+tak berlesen itu dan seseorang klien membuat suatu perjanjian berhubungan dengan tawaran atau pelawaan daripada jenis yang disebut dalam takrif "perniagaan pengurusan kumpulan wang niaga hadapan", Bahagian ini terpakai sama ada atau tidak mana-mana orang lain menjadi pihak kepada perjanjian itu.
+
+<!-- marginal: Perjanjian -->
+
+35D. Jika, dalam sesuatu tempoh semasa
+
+<!-- marginal: dengan sese- -->
+
+seseorang orang tak berlesen menjalankan
+
+<!-- marginal: orang yang -->
+
+<!-- marginal: bertindak -->
+
+perniagaan nasihat niaga hadapan atau
+
+<!-- marginal: dengan -->
+
+mengemukakan dirinya sebagai penasihat
+
+<!-- marginal: melanggar -->
+
+perdagangan niaga hadapan, orang tak berlesen
+
+<!-- marginal: seksyen 17. -->
+
+itu dan seseorang klien membuat suatu perjanjian berhubungan dengan pemberian nasihat kepada klien itu mengenai kontrak niaga hadapan atau memberi klien itu laporan niaga hadapan, Bahagian ini terpakai sama ada atau tidak mana- mana orang lain menjadi pihak kepada perjanjian itu.
+
+<!-- marginal: Klien boleh -->
+
+35E. (1) Tertakluk kepada seksyen ini, seseorang
+
+<!-- marginal: memberikan -->
+
+klien boleh, sama ada sebelum atau selepas
+
+<!-- marginal: notis -->
+
+<!-- marginal: pembatalan. -->
+
+penyempurnaan perjanjian yang disebut dalam seksyen 35B, 35c atau 35D, memberikan notis bertulis kepada orang tak berlesen yang menyatakan bahawa klien itu ingin membatalkan perjanjian itu.
 
 (2) Klien itu hanya boleh memberikan notis di bawah seksyen ini dalam tempoh yang munasabah selepas menyedari hakikat yang memberikan hak kepada klien itu untuk memberikan notis.
 
@@ -200,17 +288,47 @@ mengikut kehendak keadaan.
 
 <!-- page 8 -->
 
-35F. (1) Sesuatu notis yang diberikan di bawah Kesan notis di seksyen 35E membatalkan perjanjian itu bawah melainkan jika pembatalan perjanjian itu akan
+35F. (1) Sesuatu notis yang diberikan di bawah
+
+<!-- marginal: Kesan -->
+
+<!-- marginal: notis di -->
+
+seksyen 35E membatalkan perjanjian itu
+
+<!-- marginal: bawah -->
+
+melainkan jika pembatalan perjanjian itu akan
+
+<!-- marginal: seksyen -->
 
 35E. menjejaskan sesuatu hak yang diperolehi oleh seseorang (selain daripada orang tak berlesen itu) secara suci hati, dengan balasan berharga dan tanpa notis tentang hakikat yang memberikan hak kepada klien itu untuk memberikan notis sedemikian.
 
-(2) Ketakbatalan perjanjian itu
+(2) Ketakbatalan perjanjian itu tidak menyentuh hak seseorang klien untuk memberikan notis di bawah-seksyen 35E.
 
-<!-- marginal: tidak -->
+<!-- marginal: Klien boleh -->
 
-menyentuh hak seseorang klien untuk memberikan notis di bawah-seksyen 35E.
+35G. (1) Jika klien memberikan notis di bawah
 
-Klien boleh 35G. (1) Jika klien memberikan notis di bawah memohon seksyen 35E tetapi notis itu tidak membatalkan kepada mahkamah perjanjian itu kerana pembatalan perjanjian itu untuk akan menjejaskan hak yang disebut dalam pengubahan perjanjian seksyen 35F, klien itu boleh, dalam suatu tempoh yang munasabah selepas memberikan notis itu, memohon kepada mahkamah bagi suatu perintah di bawah subseksyen (3).
+<!-- marginal: memohon -->
+
+seksyen 35E tetapi notis itu tidak membatalkan
+
+<!-- marginal: kepada -->
+
+<!-- marginal: mahkamah -->
+
+perjanjian itu kerana pembatalan perjanjian itu
+
+<!-- marginal: untuk -->
+
+akan menjejaskan hak yang disebut dalam
+
+<!-- marginal: pengubahan -->
+
+<!-- marginal: perjanjian -->
+
+seksyen 35F, klien itu boleh, dalam suatu tempoh yang munasabah selepas memberikan notis itu, memohon kepada mahkamah bagi suatu perintah di bawah subseksyen (3).
 
 (2) Jika sesuatu permohonan dibuat di bawah subseksyen (1), mahkamah boleh, tanpa menjejaskan apa-apa kuasa yang ada padanya selain daripada di bawah seksyen ini, membuat apa-apa perintah yang dinyatakan sebagai mempunyai kuatkuasa sehingga pemutusan permohonan itu sebagaimana yang mahkamah itu mempunyai kuasa untuk membuatnya sekiranya notis itu telah membatalkan perjanjian di bawah seksyen 35F dan permohonan itu adalah bagi perintah di bawah seksyen 35H.
 
@@ -228,13 +346,25 @@ yang dapat dilakukan tanpa menjejaskan hak yang disebut dalam seksyen 35F yang d
 
 (4) Jika mahkamah membuat suatu perintah di bawah subseksyen (3), perjanjian itu hendaklah dikira bagi maksud seksyen 35H sebagai telah dibatalkan di bawah seksyen 35F.
 
-(5) Sesuatu perintah di bawah subseksyen (3) tidak menyentuh pemakaian seksyen 35J atau 35L berhubungan dengan perjanjian
+(5) Sesuatu perintah di bawah subseksyen (3) tidak menyentuh pemakaian seksyen 35J atau 35L berhubungan dengan perjanjian itu sebagaimana yang dibuat pada asalnya atau sebagaimana yang diubah oleh perintah itu.
 
-<!-- marginal: itu -->
+<!-- marginal: Mahkamah -->
 
-sebagaimana yang dibuat pada asalnya atau sebagaimana yang diubah oleh perintah itu.
+35H. (1) Tertakluk kepada subseksyen (2),
 
-Mahkamah 35H. (1) Tertakluk kepada subseksyen (2), boleh sesuatu mahkamah boleh, atas permohonan klien membuat perintah atau orang tak berlesen itu, membuat apa-apa berbangkit perintah sebagaimana yang mahkamah itu mempunyai kuasa untuk membuatnya sekiranya klien itu telah membatalkan perjanjian itu dengan sewajarnya kerana salah nyata oleh orang tak berlesen itu.
+<!-- marginal: boleh -->
+
+sesuatu mahkamah boleh, atas permohonan klien
+
+<!-- marginal: membuat -->
+
+<!-- marginal: perintah -->
+
+atau orang tak berlesen itu, membuat apa-apa
+
+<!-- marginal: berbangkit -->
+
+perintah sebagaimana yang mahkamah itu mempunyai kuasa untuk membuatnya sekiranya klien itu telah membatalkan perjanjian itu dengan sewajarnya kerana salah nyata oleh orang tak berlesen itu.
 
 (2) Mahkamah tidak diberi kuasa untuk membuat perintah di bawah subseksyen (1) jika perintah itu akan menjejaskan sesuatu hak yang diperolehi oleh seseorang (selain daripada orang tak berlesen itu) secara suci hati, dengan balasan berharga dan tanpa notis tentang hakikat yang memberikan hak kepada klien itu untuk memberikan notis itu.
 
@@ -242,9 +372,25 @@ Mahkamah 35H. (1) Tertakluk kepada subseksyen (2), boleh sesuatu mahkamah boleh,
 
 Rang Undang-Undang
 
-Perjanjian 35I. (1) Seksyen ini terpakai— yang tak boleh dikuat-
+<!-- marginal: Perjanjian -->
 
-(a) jika— kuasakan terhadap klien (i) klien berhak memberikan notis di bawah seksyen 35E; dan
+35I. (1) Seksyen ini terpakai—
+
+<!-- marginal: yang tak -->
+
+<!-- marginal: boleh -->
+
+<!-- marginal: dikuat- -->
+
+(a) jika—
+
+<!-- marginal: kuasakan -->
+
+<!-- marginal: terhadap -->
+
+<!-- marginal: klien -->
+
+(i) klien berhak memberikan notis di bawah seksyen 35E; dan
 
 (ii) sesuatu notis yang diberikan sedemikian akan mengakibatkan pembatalan perjanjian di bawah seksyen 35E; dan
 
@@ -258,9 +404,25 @@ tetapi tidak selainnya terpakai.
 
 (b) untuk bergantung pada perjanjian itu, sama ada secara langsung atau tak langsung dan sama ada sebagai pembelaan atau selainnya.
 
-Orang tak 35J. (1) Tanpa menghadkan keluasan seksyen berlesen 35I. seksyen ini terpakai— tidak berhak mendapat kenibali
+<!-- marginal: Orang tak -->
 
-(a) jika klien berhak memberikan notis di komisen. bawah seksyen 35E; dan
+35J. (1) Tanpa menghadkan keluasan seksyen
+
+<!-- marginal: berlesen -->
+
+35I. seksyen ini terpakai—
+
+<!-- marginal: tidak berhak -->
+
+<!-- marginal: mendapat -->
+
+<!-- marginal: kenibali -->
+
+(a) jika klien berhak memberikan notis di
+
+<!-- marginal: komisen. -->
+
+bawah seksyen 35E; dan
 
 (b) selepas klien itu memberikan notis sedemikian walaupun notis itu tidak mengakibatkan pembatalan perjanjian di bawah seksyen 35F,
 
@@ -272,39 +434,111 @@ Perindustrian Niaga Hadapan 11 (Pindaan dan Penyatuan)
 
 (2) Orang tak berlesen tidak berhak untuk mendapat kembali melalui apa-apa cara, termasuk tolakan atau tuntutan berdasarkan quantum meruit, apa-apa caj pembrokeran, komisen atau fee lain yang baginya klien akan, jika tidak kerana seksyen ini, bertanggungan kepada orang tak berlesen itu di bawah atau berkaitan dengan perjanjian itu.
 
-Beban 35K. Bagi maksud menentukan, dalam sesuatu membukti- presiding di mahkamah, sama ada atau tidak kan ketak- pakaian orang tak berlesen adalah, atau telah pada suatu seksyen 35I masa yang tertentu, berhak sebagaimana yang atau 35J. disebut dalam subseksyen 35I(2) atau 35J(2), adalah dianggap, melainkan jika dibuktikan sebaliknya, bahawa seksyen 35I atau 35J, mengikut mana-mana yang berkenaan, terpakai, atau telah terpakai pada masa itu, mengikut mana-mana yang berkenaan.
+<!-- marginal: Beban -->
 
-Klien boleh 35L. (1) Tanpa menjejaskan keluasan seksyen mendapatkan 35H, jika klien memberikan notis di bawah kembali seksyen 35E, klien itu boleh, walaupun notis komisen yang itu tidak mengakibatkan pembatalan perjanjian dibayar itu di bawah seksyen 35F, mendapatkan kembali kepada orang tak daripada orang tak berlesen sebagai suatu hutang berlesen. amaun apa-apa caj pembrokeran, komisen atau fee lain yang telah dibayar oleh klien itu kepada orang tak berlesen di bawah atau berkaitan dengan perjanjian itu.
+35K. Bagi maksud menentukan, dalam sesuatu
+
+<!-- marginal: membukti- -->
+
+presiding di mahkamah, sama ada atau tidak
+
+<!-- marginal: kan ketak- -->
+
+<!-- marginal: pakaian -->
+
+orang tak berlesen adalah, atau telah pada suatu
+
+<!-- marginal: seksyen 35I -->
+
+masa yang tertentu, berhak sebagaimana yang
+
+<!-- marginal: atau 35J. -->
+
+disebut dalam subseksyen 35I(2) atau 35J(2), adalah dianggap, melainkan jika dibuktikan sebaliknya, bahawa seksyen 35I atau 35J, mengikut mana-mana yang berkenaan, terpakai, atau telah terpakai pada masa itu, mengikut mana-mana yang berkenaan.
+
+<!-- marginal: Klien boleh -->
+
+35L. (1) Tanpa menjejaskan keluasan seksyen
+
+<!-- marginal: mendapatkan -->
+
+35H, jika klien memberikan notis di bawah
+
+<!-- marginal: kembali -->
+
+seksyen 35E, klien itu boleh, walaupun notis
+
+<!-- marginal: komisen -->
+
+<!-- marginal: yang -->
+
+itu tidak mengakibatkan pembatalan perjanjian
+
+<!-- marginal: dibayar -->
+
+itu di bawah seksyen 35F, mendapatkan kembali
+
+<!-- marginal: kepada -->
+
+<!-- marginal: orang tak -->
+
+daripada orang tak berlesen sebagai suatu hutang
+
+<!-- marginal: berlesen. -->
+
+amaun apa-apa caj pembrokeran, komisen atau fee lain yang telah dibayar oleh klien itu kepada orang tak berlesen di bawah atau berkaitan dengan perjanjian itu.
 
 (2) Suruhanjaya boleh, jika dianggapnya bahawa adalah demi kepentingan awam untuk berbuat demikian, membawa tindakan di bawah subseksyen (1) atas nama, dan bagi manfaat, klien itu.
 
-Remedi 35M. Hak dan remedi klien di bawah Bahagian di bawah ini adalah tambahan kepada, dan tidak menyentuh Bahagian ini serta tidak menjejaskan keluasan, apa-apa hak tambahan kepada atau remedi lain klien itu.". remedi lain.
+<!-- marginal: Remedi -->
+
+35M. Hak dan remedi klien di bawah Bahagian
+
+<!-- marginal: di bawah -->
+
+ini adalah tambahan kepada, dan tidak menyentuh
+
+<!-- marginal: Bahagian -->
+
+<!-- marginal: ini -->
+
+serta tidak menjejaskan keluasan, apa-apa hak
+
+<!-- marginal: tambahan -->
+
+<!-- marginal: kepada -->
+
+atau remedi lain klien itu.".
+
+<!-- marginal: remedi lain. -->
 
 <!-- page 12 -->
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
 7. Bahagian V Akta ibu adalah dipinda dengan
 
-48A. memasukkan sebelum seksyen 49 seksyen yang berikut: " Pengik- 48A. (1) Dalam seksyen ini, melainkan jika lanan konteksnya menghendaki makna yang lain— yang tak diingini. "menerbitkan", berhubungan dengan sesuatu pernyataan, ertinya—
+48A. memasukkan sebelum seksyen 49 seksyen yang berikut: "
 
-(a) memasukkan pernyataan itu ke dalam akhbar atau terbitan
+<!-- marginal: Pengik- -->
 
-<!-- marginal: berkala -->
+48A. (1) Dalam seksyen ini, melainkan jika
 
-atau menyebabkannya dimasukkan sedemikian;
+<!-- marginal: lanan -->
 
-(b) mempamerkan di khalayak
+konteksnya menghendaki makna yang lain—
 
-<!-- marginal: ramai -->
+<!-- marginal: yang tak -->
 
-pernyataan itu atau menyebabkannya dipamerkan di khalayak ramai; atau
+<!-- marginal: diingini. -->
 
-(c) menyertakan pernyataan
+"menerbitkan", berhubungan dengan sesuatu pernyataan, ertinya—
 
-<!-- marginal: itu, atau -->
+(a) memasukkan pernyataan itu ke dalam akhbar atau terbitan berkala atau menyebabkannya dimasukkan sedemikian;
 
-menyebabkannya disertakan, dalam suatu dokumen yang, sama ada sebagai respons kepada sesuatu permintaan atau tidak, dihantar atau dihantarserahkan kepada seseorang, atau dilemparkan atau ditinggalkan di premis yang didiami oleh mana-mana orang;
+(b) mempamerkan di khalayak ramai pernyataan itu atau menyebabkannya dipamerkan di khalayak ramai; atau
+
+(c) menyertakan pernyataan itu, atau menyebabkannya disertakan, dalam suatu dokumen yang, sama ada sebagai respons kepada sesuatu permintaan atau tidak, dihantar atau dihantarserahkan kepada seseorang, atau dilemparkan atau ditinggalkan di premis yang didiami oleh mana-mana orang;
 
 "menyiarkan", berhubungan dengan sesuatu pernyataan, ertinya menyiarkan pernyataan itu melalui pemancaran wayarles atau televisyen atau menyebabkannya disiarkan sedemikian.
 
@@ -340,11 +574,21 @@ melainkan jika bentuk dan kandungan pernyataan itu telah diluluskan oleh Suruhan
 
 adalah dianggap, melainkan jika dibuktikan sebaliknya, bahawa pernyataan itu telah diterbitkan atau disiarkan oleh orang itu.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-8. Subseksyen 52 (1) Akta ibu adalah dipinda dalam seksyen 52 takrif "menyelesaikan" dengan menggantikan perkataan "komoditi" dengan perkataan "suratcara".
+8. Subseksyen 52 (1) Akta ibu adalah dipinda dalam
 
-9. Akta ibu adalah dipinda dengan memasukkan selepas baru 55A. seksyen 55 seksyen yang berikut: " Kedudukan 55A. (1) Suruhanjaya boleh menentukan atau yang kena mengubah melalui notis bertulis saiz agregat dilaporkan. kedudukan panjang atau kedudukan pendek, atau mana-mana kombinasi kedudukan panjang atau kedudukan pendek, berhubungan dengan sesuatu kelas atau kelas-kelas kontrak niaga hadapan yang—
+<!-- marginal: seksyen 52 -->
+
+takrif "menyelesaikan" dengan menggantikan perkataan "komoditi" dengan perkataan "suratcara".
+
+<!-- marginal: Seksyen -->
+
+9. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 55A. -->
+
+seksyen 55 seksyen yang berikut: " Kedudukan 55A. (1) Suruhanjaya boleh menentukan atau yang kena mengubah melalui notis bertulis saiz agregat dilaporkan. kedudukan panjang atau kedudukan pendek, atau mana-mana kombinasi kedudukan panjang atau kedudukan pendek, berhubungan dengan sesuatu kelas atau kelas-kelas kontrak niaga hadapan yang—
 
 (a) boleh diambil oleh seseorang; atau
 
@@ -362,11 +606,9 @@ dan yang jika dilampaui, orang itu atau orang itu dan sekutunya hendaklah melapo
 
 (Pindaan dan Penyatuan)
 
-<!-- marginal: Pindaan -->
+Pindaan
 
-10. Seksyen 102 Akta ibu adalah dipinda—
-
-<!-- marginal: seksyen 102. -->
+10. Seksyen 102 Akta ibu adalah dipinda— seksyen 102.
 
 (a) dengan menggantikan subseksyen (1) dan (1A) dengan subseksyen yang berikut:
 
@@ -380,11 +622,7 @@ dan yang jika dilampaui, orang itu atau orang itu dan sekutunya hendaklah melapo
 
 (a) mana-mana pasaran niaga hadapan sebagai suatu Bursa Ditentukan; dan
 
-(b) mana-mana kelas kontrak niaga hadapan pasaran niaga hadapan sesuatu Bursa Ditentukan sebagai suatu kelas kontrak niaga hadapan
-
-<!-- marginal: yang -->
-
-diluluskan.";
+(b) mana-mana kelas kontrak niaga hadapan pasaran niaga hadapan sesuatu Bursa Ditentukan sebagai suatu kelas kontrak niaga hadapan yang diluluskan.";
 
 (b) dengan memasukkan selepas subseksyen ( 1A) subseksyen yang berikut:
 
@@ -394,19 +632,11 @@ diluluskan.";
 
 <!-- page 16 -->
 
-(b) adalah ditunjukkan bahawa seseorang broker niaga hadapan atau mana-mana pekerja, pengarah atau wakilnya telah bertindak dengan apa-apa cara, berhubungan dengan pengendalian— (i) mana-mana pasaran niaga hadapan sesuatu syarikat bursa atau yang berkenaan dengannya suatu pusat penjelasan mengadakan kemudahan- kemudahan pusat penjelasan; atau (ii) mana-mana pasaran niaga hadapan sesuatu
-
-<!-- marginal: Bursa -->
-
-Ditentukan,
+(b) adalah ditunjukkan bahawa seseorang broker niaga hadapan atau mana-mana pekerja, pengarah atau wakilnya telah bertindak dengan apa-apa cara, berhubungan dengan pengendalian— (i) mana-mana pasaran niaga hadapan sesuatu syarikat bursa atau yang berkenaan dengannya suatu pusat penjelasan mengadakan kemudahan- kemudahan pusat penjelasan; atau (ii) mana-mana pasaran niaga hadapan sesuatu Bursa Ditentukan,
 
 yang berkemungkinan memudaratkan kepentingan awam;
 
-(c) seseorang broker niaga hadapan telah melanggar— (i) Akta ini; (ii) kaedah-kaedah perniagaan sesuatu syarikat bursa atau pusat penjelasan yang baginya broker niaga hadapan
-
-<!-- marginal: itu -->
-
-menjadi gabungan; atau (iii) mana-mana syarat yang terpakai berkenaan dengan lesennya; atau
+(c) seseorang broker niaga hadapan telah melanggar— (i) Akta ini; (ii) kaedah-kaedah perniagaan sesuatu syarikat bursa atau pusat penjelasan yang baginya broker niaga hadapan itu menjadi gabungan; atau (iii) mana-mana syarat yang terpakai berkenaan dengan lesennya; atau
 
 (d) hal-hal keadaan yang ditetapkan yang lain yang wujud berkenaan dengan seseorang broker niaga hadapan,
 
@@ -468,25 +698,61 @@ adalah dipinda dengan menggantikan perkataan "futures brokers licence" dengan pe
 
 "pasaran niaga hadapan" mempunyai erti yang sama seperti dalam Akta ibu;
 
-"Pesuruhjaya" mempunyai erti yang sama seperti dalam Akta 324. Akta Dagangan Komoditi 1985;
+"Pesuruhjaya" mempunyai erti yang sama seperti dalam
+
+<!-- marginal: Akta 324. -->
+
+Akta Dagangan Komoditi 1985;
 
 "Suruhanjaya Dagangan Komoditi" ertinya Suruhanjaya Dagangan Komoditi yang ditubuhkan oleh Akta Dagangan Komoditi 1985;
 
-"Suruhanjaya Sekuriti" ertinya Suruhanjaya Sekuriti Akta 498. yang ditubuhkan oleh Akta Suruhanjaya Sekuriti 1993;
+"Suruhanjaya Sekuriti" ertinya Suruhanjaya Sekuriti
+
+<!-- marginal: Akta 498. -->
+
+yang ditubuhkan oleh Akta Suruhanjaya Sekuriti 1993;
 
 "tarikh mula berkuatkuasa", apabila digunakan dalam sesuatu peruntukan dalam Bab ini, ertinya tarikh peruntukan itu mula berkuatkuasa.
 
-Pemansuhan
+<!-- marginal: Pemansuhan -->
 
-14. (1) Akta Dagangan Komoditi 1985, yang disebut dan "Akta termansuh" dalam Bab ini, adalah dimansuhkan. pembatalan. Akta 324. (2) Apa-apa perundangan subsidiari yang dibuat, atau disifatkan telah dibuat, di bawah Akta termansuh adalah dibatalkan.
+14. (1) Akta Dagangan Komoditi 1985, yang disebut
 
-Pembubaran
+<!-- marginal: dan -->
 
-15. Suruhanjaya Dagangan Komoditi adalah, pada tarikh Suruhanjaya mula berkuatkuasa, dibubarkan. Dagangan Komoditi.
+"Akta termansuh" dalam Bab ini, adalah dimansuhkan.
 
-Kakitangan
+<!-- marginal: pembatalan. -->
 
-16. (1) Seseorang yang, sebelum sahaja tarikh mula Suruhanjaya berkuatkuasa, merupakan seorang pekerja Suruhanjaya Dagangan Komoditi. Dagangan Komoditi boleh, pada tarikh mula berkuatkuasa, membuat pilihan untuk menjadi pekerja Suruhanjaya Sekuriti.
+<!-- marginal: Akta 324. -->
+
+(2) Apa-apa perundangan subsidiari yang dibuat, atau disifatkan telah dibuat, di bawah Akta termansuh adalah dibatalkan.
+
+<!-- marginal: Pembubaran -->
+
+15. Suruhanjaya Dagangan Komoditi adalah, pada tarikh
+
+<!-- marginal: Suruhanjaya -->
+
+mula berkuatkuasa, dibubarkan.
+
+<!-- marginal: Dagangan -->
+
+<!-- marginal: Komoditi. -->
+
+<!-- marginal: Kakitangan -->
+
+16. (1) Seseorang yang, sebelum sahaja tarikh mula
+
+<!-- marginal: Suruhanjaya -->
+
+berkuatkuasa, merupakan seorang pekerja Suruhanjaya
+
+<!-- marginal: Dagangan -->
+
+<!-- marginal: Komoditi. -->
+
+Dagangan Komoditi boleh, pada tarikh mula berkuatkuasa, membuat pilihan untuk menjadi pekerja Suruhanjaya Sekuriti.
 
 (2) Jika seseorang membuat pilihan sedemikian, Suruhanjaya Sekuriti hendaklah mengambil kerja orang
 
@@ -586,11 +852,23 @@ berkuatkuasa, disifatkan telah menggantikan Suruhanjaya Dagangan Komoditi atau P
 
 (5) Jika, sebelum sahaja tarikh mula berkuatkuasa, apa-apa prosiding jenayah sedang menunggu penyelesaian dalam mana-mana mahkamah, prosiding itu hendaklah diteruskan seolah-olah pindaan kepada Akta ini telah tidak dibuat.
 
-(6) Bagi mengelakkan keraguan, tiada apa-apa jua Akta 388. dalam seksyen ini menyentuh seksyen 30 Akta Tafsiran 1948 dan 1967.
+(6) Bagi mengelakkan keraguan, tiada apa-apa jua
 
-Syarikat
+<!-- marginal: Akta 388. -->
 
-21. (1) Jika, sebelum sahaja tarikh mula berkuatkuasa, bursa sesuatu syarikat telah diluluskan di bawah seksyen 19 yang ada. Akta termansuh untuk menubuhkan dan mengendalikan suatu bursa komoditi, syarikat itu hendaklah, pada tarikh mula berkuatkuasa, disifatkan sebagai suatu syarikat yang berhubungan dengannya suatu kelulusan di bawah subseksyen 4(1) Akta ibu berkuatkuasa.
+dalam seksyen ini menyentuh seksyen 30 Akta Tafsiran 1948 dan 1967.
+
+<!-- marginal: Syarikat -->
+
+21. (1) Jika, sebelum sahaja tarikh mula berkuatkuasa,
+
+<!-- marginal: bursa -->
+
+sesuatu syarikat telah diluluskan di bawah seksyen 19
+
+<!-- marginal: yang ada. -->
+
+Akta termansuh untuk menubuhkan dan mengendalikan suatu bursa komoditi, syarikat itu hendaklah, pada tarikh mula berkuatkuasa, disifatkan sebagai suatu syarikat yang berhubungan dengannya suatu kelulusan di bawah subseksyen 4(1) Akta ibu berkuatkuasa.
 
 <!-- page 21 -->
 
@@ -648,15 +926,61 @@ pengertian Akta termansuh, syarikat itu hendaklah, pada tarikh mula berkuatkuasa
 
 (4) Kuasa yang diberikan oleh subseksyen (2) tidak boleh dijalankan selepas dua tahun dari tarikh mula berkuatkuasa.
 
-Pengarah
+<!-- marginal: Pengarah -->
 
-24. Pengarah sesuatu pusat penjelasan yang disebut dalam yang seksyen 23 yang memegang jawatan sebelum sahaja tarikh ada bagi pusat mula berkuatkuasa hendaklah terus memegang jawatan penjelasan. selama tempoh satu tahun dari tarikh mula berkuatkuasa seolah-olah mereka ialah pengarah yang dipilih atau dilantik dengan sewajarnya di bawah seksyen 6c Akta ibu.
+24. Pengarah sesuatu pusat penjelasan yang disebut dalam
 
-Pindaan yang
+<!-- marginal: yang -->
 
-25. Jika, sebelum tarikh mula berkuatkuasa— belum selesai kepada per- lembagaan
+seksyen 23 yang memegang jawatan sebelum sahaja tarikh
 
-(a) sesuatu syarikat yang adalah— atau kaedah- (i) suatu syarikat bursa; atau kaedah perniagaan (ii) suatu pusat penjelasan, bagi syarikat bursa mengikut pengertian Akta termansuh telah atau pusat penjelasan. mengemukakan kepada Suruhanjaya Dagangan Komoditi apa-apa pindaan kepada perlembagaan, kaedah-kaedah atau peraturan-peraturannya di bawah seksyen 20 Akta termansuh; dan
+<!-- marginal: ada bagi -->
+
+<!-- marginal: pusat -->
+
+mula berkuatkuasa hendaklah terus memegang jawatan
+
+<!-- marginal: penjelasan. -->
+
+selama tempoh satu tahun dari tarikh mula berkuatkuasa seolah-olah mereka ialah pengarah yang dipilih atau dilantik dengan sewajarnya di bawah seksyen 6c Akta ibu.
+
+<!-- marginal: Pindaan yang -->
+
+25. Jika, sebelum tarikh mula berkuatkuasa—
+
+<!-- marginal: belum selesai -->
+
+<!-- marginal: kepada per- -->
+
+<!-- marginal: lembagaan -->
+
+(a) sesuatu syarikat yang adalah—
+
+<!-- marginal: atau -->
+
+<!-- marginal: kaedah- -->
+
+(i) suatu syarikat bursa; atau
+
+<!-- marginal: kaedah -->
+
+<!-- marginal: perniagaan -->
+
+(ii) suatu pusat penjelasan,
+
+<!-- marginal: bagi -->
+
+<!-- marginal: syarikat -->
+
+<!-- marginal: bursa -->
+
+mengikut pengertian Akta termansuh telah
+
+<!-- marginal: atau pusat -->
+
+<!-- marginal: penjelasan. -->
+
+mengemukakan kepada Suruhanjaya Dagangan Komoditi apa-apa pindaan kepada perlembagaan, kaedah-kaedah atau peraturan-peraturannya di bawah seksyen 20 Akta termansuh; dan
 
 (b) Suruhanjaya Dagangan Komoditi belum memberitahu syarikat itu di bawah subseksyen 20(3) Akta termansuh mengenai kelulusannya atau keengganannya untuk meluluskan pindaan sedemikian,
 
@@ -778,9 +1102,17 @@ pengertian seksyen 29 Akta termansuh dan Menteri itu
 
 belum, sebelum tarikh mula berkuatkuasa, bertindak atas syor itu, syor itu hendaklah disifatkan telah dibuat dengan sewajarnya oleh Suruhanjaya Sekuriti di bawah seksyen 11 Akta ibu kepada Menteri yang pada masa ini dipertanggungkan dengan tanggungjawab bagi kewangan dan Menteri itu boleh bertindak atas syor itu.
 
-Orang
+<!-- marginal: Orang -->
 
-30. (1) Jika, sebelum sahaja tarikh mula berkuatkuasa, berdaftar seseorang telah didaftarkan sebagai peniaga di bawah yang ada. seksyen 33 Akta termansuh, orang itu hendaklah, pada tarikh mula berkuatkuasa, disifatkan telah diberi—
+30. (1) Jika, sebelum sahaja tarikh mula berkuatkuasa,
+
+<!-- marginal: berdaftar -->
+
+seseorang telah didaftarkan sebagai peniaga di bawah
+
+<!-- marginal: yang ada. -->
+
+seksyen 33 Akta termansuh, orang itu hendaklah, pada tarikh mula berkuatkuasa, disifatkan telah diberi—
 
 (a) dalam hal sesuatu perbadanan, suatu lesen broker niaga hadapan; dan
 
@@ -850,21 +1182,73 @@ oleh seksyen 30 telah diberi suatu lesen telah digantung, penggantungan itu hend
 
 (2) Hakikat bahawa pendaftaran orang berdaftar itu telah, sebelum sahaja tarikh mula berkuatkuasa, digantung hendaklah disifatkan bagi maksud seksyen 28 Akta ibu sebagai suatu pengataan bahawa orang itu bukan lagi seorang yang layak dan sesuai sebagaimana yang disebut dalam perenggan 28(l)(b) Akta itu.
 
-Akaun
+<!-- marginal: Akaun -->
 
-34. Segala wang atau harta lain yang terkandung, terasing sebelum sahaja tarikh mula berkuatkuasa, dalam suatu klien. akaun terasing yang ditubuhkan dan disimpan oleh seseorang peniaga di bawah seksyen 53 Akta termansuh, hendaklah, pada tarikh mula berkuatkuasa, disifatkan telah didepositkan di bawah seksyen 52A Akta ibu.
+34. Segala wang atau harta lain yang terkandung,
 
-Pengecualian
+<!-- marginal: terasing -->
 
-35. (1) Seksyen 49 dan 51 Akta ibu tidaklah terpakai terhad bagi seseorang yang, pada tarikh mula berkuatkuasa, daripada tugas disifatkan oleh subseksyen 31(1) Akta ini telah diberi mengeluarkan lesen broker niaga hadapan. nota kontrak dan memberi penyata. (2) Subseksyen (1) hendaklah terhenti mempunyai kuatkuasa enam bulan selepas tarikh mula berkuatkuasa.
+sebelum sahaja tarikh mula berkuatkuasa, dalam suatu
 
-Juruaudit
+<!-- marginal: klien. -->
 
-36. Seseorang yang telah dilantik sebagai seorang juruaudit yang dilantik oleh Pesuruhjaya di bawah seksyen 59 atau 60 Akta di bawah Akta termansuh hendaklah, jika pelantikan itu masih termansuh. berkuatkuasa pada tarikh mula berkuatkuasa, disifatkan telah dilantik sebagai seorang juruaudit oleh Suruhanjaya Sekuriti di bawah seksyen 40 Akta ibu.
+akaun terasing yang ditubuhkan dan disimpan oleh seseorang peniaga di bawah seksyen 53 Akta termansuh, hendaklah, pada tarikh mula berkuatkuasa, disifatkan telah didepositkan di bawah seksyen 52A Akta ibu.
 
-Kumpulan
+<!-- marginal: Pengecualian -->
 
-37. (1) Sesuatu syarikat bursa yang, sebelum sahaja tarikh wang mula berkuatkuasa, menyenggarakan suatu kumpulan wang pampasan. pampasan di bawah seksyen 80 Akta termansuh hendaklah, pada tarikh mula berkuatkuasa, menyeng- garakan kumpulan wang itu sebagai suatu tabung kesetiaan di bawah seksyen 58 Akta ibu.
+35. (1) Seksyen 49 dan 51 Akta ibu tidaklah terpakai
+
+<!-- marginal: terhad -->
+
+bagi seseorang yang, pada tarikh mula berkuatkuasa,
+
+<!-- marginal: daripada -->
+
+<!-- marginal: tugas -->
+
+disifatkan oleh subseksyen 31(1) Akta ini telah diberi
+
+<!-- marginal: mengeluarkan -->
+
+lesen broker niaga hadapan.
+
+<!-- marginal: nota kontrak -->
+
+<!-- marginal: dan memberi -->
+
+<!-- marginal: penyata. -->
+
+(2) Subseksyen (1) hendaklah terhenti mempunyai kuatkuasa enam bulan selepas tarikh mula berkuatkuasa.
+
+<!-- marginal: Juruaudit -->
+
+36. Seseorang yang telah dilantik sebagai seorang juruaudit
+
+<!-- marginal: yang dilantik -->
+
+oleh Pesuruhjaya di bawah seksyen 59 atau 60 Akta
+
+<!-- marginal: di bawah -->
+
+<!-- marginal: Akta -->
+
+termansuh hendaklah, jika pelantikan itu masih
+
+<!-- marginal: termansuh. -->
+
+berkuatkuasa pada tarikh mula berkuatkuasa, disifatkan telah dilantik sebagai seorang juruaudit oleh Suruhanjaya Sekuriti di bawah seksyen 40 Akta ibu.
+
+<!-- marginal: Kumpulan -->
+
+37. (1) Sesuatu syarikat bursa yang, sebelum sahaja tarikh
+
+<!-- marginal: wang -->
+
+mula berkuatkuasa, menyenggarakan suatu kumpulan wang
+
+<!-- marginal: pampasan. -->
+
+pampasan di bawah seksyen 80 Akta termansuh hendaklah, pada tarikh mula berkuatkuasa, menyeng- garakan kumpulan wang itu sebagai suatu tabung kesetiaan di bawah seksyen 58 Akta ibu.
 
 (2) Walau apa pun Bahagian VI Akta ibu jika sesuatu hak untuk membuat tuntutan terhadap kumpulan wang pampasan itu berbangkit sebelum tarikh mula berkuatkuasa, dan tuntutan itu belum dibereskan sebelum tarikh itu, syarikat itu hendaklah, selepas tarikh mula berkuatkuasa—
 

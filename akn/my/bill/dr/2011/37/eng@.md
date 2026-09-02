@@ -330,7 +330,7 @@ shall be guilty of an offence and shall on conviction be liable to a fine not ex
 
 13. The principal Act is amended by inserting after Part V the following Part:
 
-“Part Va
+## “PART VA
 
 ## ENFORCEMENT
 

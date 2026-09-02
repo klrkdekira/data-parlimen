@@ -1,0 +1,2116 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-15-2012",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Kesalahan Keselamatan (Langkah-Langkah Khas) 2012"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_I__cl_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERMULAAN Tajuk ringkas dan permulaan kuat kuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KUASA KHAS BAGI KESALAHAN KESELAMATAN Kuasa penangkapan dan penahanan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III__cl_7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "TATACARA KHAS YANG BERHUBUNGAN DENGAN PERANTI PENGAWASAN ELEKTRONIK Tatacara khas yang berhubungan dengan peranti pengawasan elektronik"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III__cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III__cl_7__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III__cl_7__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III__cl_7__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III__cl_7__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III__cl_7__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III__cl_7__subsec_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III__cl_7__subsec_9"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila permohonan oleh Pendakwa Raya dibuat di bawah seksyen 4, Mahkamah hendaklah memerintahkan supaya orang itu dipasangkan dengan suatu peranti pengawasan elektronik bagi tempoh sebagaimana yang ditentukan oleh Mahkamah tetapi tempoh itu hendaklah tidak melebihi baki tempoh tahanan yang dibenarkan di bawah subseksyen 4(5) bagi maksud penyiasatan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mahkamah hendaklah menjelaskan pengendalian peranti pengawasan elektronik serta terma dan syarat peranti pengawasan elektronik itu kepada orang itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III__cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Orang itu hendaklah menandatangani suatu borang sebagaimana yang dinyatakan dalam Jadual Kedua dan mendepositkan borang itu dengan Mahkamah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III__cl_7__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Orang itu hendaklah dipasangkan dengan peranti pengawasan elektronik oleh seorang pegawai polis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III__cl_7__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Orang itu hendaklah mematuhi semua terma dan syarat peranti pengawasan elektronik dan hendaklah melaporkan diri di balai polis yang terdekat pada masa yang dinyatakan dalam borang itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III__cl_7__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang tidak mematuhi terma dan syarat di bawah subseksyen (5) melakukan suatu kesalahan dan boleh, apabila disabitkan, dipenjarakan selama tempoh tidak melebihi tiga tahun."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III__cl_7__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang mengganggu atau merosakkan peranti pengawasan elektronik melakukan suatu kesalahan dan boleh, apabila disabitkan, dipenjarakan selama tempoh tidak melebihi tiga tahun dan orang itu bolehlah dipertanggungkan untuk membayar apa-apa kerosakan kepada peranti pengawasan elektronik itu yang berbangkit daripada perbuatannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III__cl_7__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila habis tempoh yang disebut dalam subseksyen (1), orang itu hendaklah melaporkan diri di balai polis yang terdekat untuk membuka peranti pengawasan elektronik itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III__cl_7__subsec_9",
+      "@type": "akn:subsection",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen ini mempunyai kuat kuasa walau apa pun yang berlawanan dengan Perkara 9 Perlembagaan Persekutuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_12"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seorang pegawai polis boleh, tanpa waran, menangkap dan menahan mana-mana orang yang berkenaan dengannya dia mempunyai sebab untuk mempercayai terlibat dalam kesalahan keselamatan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_10",
+      "@type": "akn:subsection",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen ini mempunyai kuat kuasa walau apa pun jua yang berlawanan dengan Perkara 5 dan 9 Perlembagaan Persekutuan dan seksyen 117 Kanun Tatacara Jenayah [Akta 593]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_11",
+      "@type": "akn:subsection",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen (5) hendaklah disemak tiap-tiap lima tahun dan hendaklah terhenti berkuat kuasa melainkan jika, apabila semakan dibuat, suatu ketetapan diluluskan oleh kedua-dua Majlis Parlimen untuk melanjutkan tempoh kuat kuasa peruntukan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_12",
+      "@type": "akn:subsection",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_12__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_12__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud seksyen ini, “kepercayaan politik atau aktiviti politik” ertinya penglibatan dalam aktiviti yang sah di sisi undang-undang melalui—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_12__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_12__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pernyataan pendapat atau pengambilan tindakan yang dibuat menurut rukun sesuatu parti politik yang pada masa yang berkaitan itu berdaftar di bawah Akta Pertubuhan 1966 [Akta 335] yang terbukti melalui—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_12__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_12__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "keanggotaan atau sumbangan kepada parti itu; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_12__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_12__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penyertaan terbuka dan aktif dalam hal ehwal parti itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pernyataan pendapat yang ditujukan terhadap mana-mana Kerajaan di dalam Persekutuan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_12__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengambilan tindakan yang ditujukan terhadap mana-mana Kerajaan di dalam Persekutuan. Pemberitahuan kepada waris kadim dan rundingan dengan pengamal undang-undang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang ditangkap di bawah subseksyen (1) hendaklah dimaklumkan dengan seberapa segera yang boleh alasan dia ditangkap oleh pegawai polis yang membuat tangkapan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada seorang pun boleh ditangkap dan ditahan di bawah seksyen ini semata-mata atas kepercayaan politiknya atau aktiviti politiknya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Orang yang ditangkap dan ditahan di bawah subseksyen (1) itu boleh ditahan untuk tempoh selama dua puluh empat jam bagi maksud penyiasatan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen (4), seorang pegawai polis yang berpangkat Penguasa Polis atau berpangkat lebih tinggi daripada Penguasa Polis boleh melanjutkan tempoh tahanan untuk tempoh yang tidak lebih daripada dua puluh lapan hari, bagi maksud penyiasatan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika pegawai polis itu berpendapat bahawa tahanan lanjut tidak diperlukan di bawah subseksyen (5), orang itu boleh dilepaskan tetapi suatu peranti pengawasan elektronik boleh dipasangkan pada orang itu mengikut subseksyen (7) dan (8) bagi maksud penyiasatan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika pegawai polis itu bercadang untuk memasang suatu peranti pengawasan elektronik kepada orang itu apabila orang itu dilepaskan, pegawai polis itu hendaklah mengemukakan suatu laporan mengenai penyiasatan itu kepada Pendakwa Raya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila laporan di bawah subseksyen (7) diterima, Pendakwa Raya boleh memohon kepada Mahkamah supaya orang itu dipasangkan dengan peranti pengawasan elektronik mengikut peruntukan dalam Bahagian III bagi suatu tempoh yang tidak melebihi baki tempoh tahanan yang dibenarkan di bawah subseksyen (5). MISALAN D telah ditahan untuk kesalahan keselamatan. Selepas tahanan selama dua puluh empat jam seorang Penguasa Polis melanjutkan tahanannya selama tujuh hari lagi. Apabila habis tempoh tujuh hari D telah dilepaskan tetapi dia masih diperlukan untuk membantu penyiasatan. Apabila laporan oleh pegawai polis diterima, Pendakwa Raya boleh memohon kepada Mahkamah supaya suatu peranti pengawasan elektronik dipasang pada D. Mahkamah boleh membenarkan peranti pengawasan elektronik dipasang pada D sehingga tempoh dua puluh satu hari."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4__subsec_9",
+      "@type": "akn:subsection",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Satu minggu sebelum habis tempoh tahanan di bawah subseksyen (5), pegawai polis yang menjalankan penyiasatan itu hendaklah mengemukakan kertas siasatan kepada Pendakwa Raya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_5__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_5__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_5__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila seseorang ditangkap dan ditahan di bawah seksyen 4, pegawai polis yang menjalankan penyiasatan hendaklah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_5__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan segera memberitahu waris kadim kepada orang itu mengenai tangkapan dan penahanan orang itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_5__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tertakluk kepada subseksyen (2), membenarkan orang itu untuk berunding dengan pengamal undang-undang pilihannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_5__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_5__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_5__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_5__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seorang pegawai polis yang berpangkat tidak rendah daripada Penguasa Polis boleh membenarkan penangguhan tidak lebih daripada empat puluh lapan jam untuk rundingan di bawah perenggan (1)(b) jika pegawai polis itu berpendapat bahawa—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_5__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "terdapat sebab yang munasabah untuk mempercayai bahawa penggunaan hak itu akan mengganggu keterangan yang berkaitan dengan kesalahan keselamatan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_5__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ia akan menyebabkan kecederaan kepada orang lain;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_5__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ia akan menyebabkan amaran diberikan kepada orang lain yang disyaki melakukan kesalahan itu tetapi masih belum ditangkap; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_5__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ia akan menghalang harta yang diperoleh akibat kesalahan itu daripada didapatkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen ini mempunyai kuat kuasa walau apa pun yang berlawanan dengan Perkara 5 Perlembagaan Persekutuan. Kuasa untuk memintas komunikasi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun mana-mana undang-undang bertulis yang lain, Pendakwa Raya, jika Pendakwa Raya berpendapat bahawa sesuatu berkemungkinan mengandungi apa-apa maklumat yang berhubungan dengan pelakuan sesuatu kesalahan keselamatan, boleh membenarkan mana-mana pegawai polis—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memintas, menahan dan membuka apa-apa barang pos dalam masa penghantaran melalui pos;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memintas apa-apa mesej yang dihantar atau diterima oleh mana-mana komunikasi; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memintas atau mendengar apa-apa perbualan melalui mana-mana komunikasi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pendakwa Raya, jika Pendakwa Raya berpendapat bahawa sesuatu berkemungkinan mengandungi apa-apa maklumat yang berhubungan dengan komunikasi suatu kesalahan keselamatan, boleh—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menghendaki pemberi perkhidmatan komunikasi untuk memintas dan menyimpan perihalan yang diterima atau dihantar yang tertentu, atau yang akan diterima atau dihantar oleh pemberi perkhidmatan komunikasi itu; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membenarkan pegawai polis untuk memasuki mana-mana premis dan untuk memasang di premis itu, apa-apa peranti bagi pemintasan dan penyimpanan komunikasi tertentu atau komunikasi daripada perihalan yang tertentu dan untuk memindahkan dan menyimpan keterangan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen (1), seorang pegawai polis berpangkat tidak rendah daripada Penguasa Polis boleh—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memintas, menahan dan membuka apa-apa barang pos dalam masa penghantaran melalui pos;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memintas apa-apa mesej yang dihantar atau diterima oleh mana-mana komunikasi; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memintas atau mendengar apa-apa perbualan melalui mana-mana komunikasi, tanpa kebenaran Pendakwa Raya dalam hal mendesak dan mendadak yang memerlukan tindakan segera tanpa masa untuk berfikir panjang."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika seorang pegawai polis telah bertindak di bawah subseksyen (3), pegawai polis itu hendaklah dengan segera memaklumkan Pendakwa Raya mengenai tindakannya itu dan sesudah itu dia hendaklah disifatkan sebagai telah bertindak di bawah kebenaran Pendakwa Raya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mahkamah hendaklah mengambil perhatian tentang apa-apa kebenaran oleh Pendakwa Raya di bawah seksyen ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen ini mempunyai kuat kuasa walau apa pun yang berlawanan dengan Perkara 5 Perlembagaan Persekutuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud seksyen ini— “komunikasi” ertinya suatu komunikasi yang diterima atau dihantar melalui pos atau suatu komunikasi telegraf, komunikasi telefon atau komunikasi lain yang diterima atau dihantar melalui cara elektrik, magnetik atau cara lain; “pemberi perkhidmatan komunikasi” ertinya seseorang yang memberikan perkhidmatan bagi penghantaran atau penerimaan komunikasi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_11"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "TATACARA KHAS YANG BERHUBUNGAN DENGAN MAKLUMAT SENSITIF Maklumat sensitif yang hendak digunakan sebagai keterangan oleh Pendakwa Raya"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_10__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_10__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_10__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila notis di bawah seksyen 9 diterima daripada tertuduh mahkamah hendaklah menjalankan pendengaran secara tertutup."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertuduh itu hendaklah mengemukakan maklumat sensitif itu kepada mahkamah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_10__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mahkamah hendaklah melihat maklumat sensitif itu dan memutuskan keberkaitan maklumat sensitif itu dalam perbicaraan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_10__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika mahkamah memutuskan bahawa maklumat sensitif itu adalah berkaitan mahkamah hendaklah menjalankan perbicaraan secara tertutup. Maklumat sensitif yang berbangkit semasa perbicaraan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_11__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_11__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_11__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika dalam masa menjalankan perbicaraan mahkamah mengeluarkan saman kepada Pendakwa Raya supaya mengemukakan suatu dokumen di bawah seksyen 51 Kanun Tatacara Jenayah dan dokumen itu mengandungi maklumat sensitif, Pendakwa Raya hendaklah mengemukakan dokumen itu untuk mahkamah merujuk kepada dokumen itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mahkamah setelah merujuk kepada dokumen itu hendaklah memutuskan keberkaitan dokumen itu dalam perbicaraan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_11__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_11__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_11__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada subseksyen (4), jika mahkamah memutuskan bahawa dokumen itu adalah berkaitan mahkamah hendaklah kemudiannya memerintahkan Pendakwa Raya untuk mengemukakan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_11__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_11__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu pernyataan yang menyatakan fakta berkaitan yang akan dibuktikan oleh maklumat sensitif itu; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_11__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_11__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu ringkasan mengenai maklumat sensitif itu, untuk diterima sebagai keterangan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_11__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_11__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_11__subsec_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mahkamah tidak boleh memerintahkan Pendakwa Raya untuk mengemukakan apa-apa—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_11__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_11__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pernyataan yang menyatakan fakta berkaitan yang akan dibuktikan oleh maklumat sensitif itu; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_11__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_11__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ringkasan mengenai maklumat sensitif itu, jika Menteri memperakui bahawa pengemukaan pernyataan atau ringkasan itu akan memudaratkan keselamatan negara atau kepentingan negara."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun seksyen 51A Kanun Tatacara Jenayah, jika perbicaraan kesalahan keselamatan melibatkan perkara yang berhubungan dengan maklumat sensitif Pendakwa Raya boleh, sebelum permulaan perbicaraan, memohon melalui permohonan ex parte kepada mahkamah untuk dikecualikan daripada kewajipan di bawah seksyen 51A Kanun Tatacara Jenayah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pendakwa Raya hendaklah menzahirkan kepada mahkamah niat untuk mengemukakan maklumat sensitif sebagai keterangan terhadap tertuduh itu semasa perbicaraan dan mahkamah hendaklah membenarkan permohonan di bawah subseksyen (1) itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mahkamah hendaklah melihat maklumat sensitif itu dan dokumen lain yang berhubungan dengan maklumat sensitif itu dan mahkamah hendaklah, sebagai ganti serahan dokumen oleh Pendakwa Raya kepada tertuduh itu, memerintahkan Pendakwa Raya supaya mengemukakan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu pernyataan yang menyatakan fakta berkaitan yang akan dibuktikan oleh maklumat sensitif itu; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu ringkasan mengenai maklumat sensitif itu, untuk diterima sebagai keterangan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila pernyataan atau ringkasan mengenai maklumat sensitif itu diserahkan menurut seksyen 51A Kanun Tatacara Jenayah, jika tertuduh membantah terhadap penerimaan masuk pernyataan atau ringkasan mengenai maklumat sensitif itu sebagai keterangan, peguam tertuduh itu hendaklah dibenarkan untuk—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "melihat maklumat sensitif itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengemukakan hujah membantah penerimaan masuk pernyataan atau ringkasan mengenai maklumat sensitif itu dalam perbicaraan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengemukakan hujah supaya maklumat sensitif itu dizahirkan kepada tertuduh."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pendakwa Raya hendaklah kemudiannya mengemukakan penghujahan pematahan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pendengaran itu hendaklah diadakan secara tertutup."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Selepas pendengaran penghujahan Pendakwa Raya, mahkamah hendaklah memutuskan sama ada—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pernyataan atau ringkasan mengenai maklumat sensitif itu boleh diterima sebagai keterangan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "maklumat sensitif itu hendaklah dizahirkan kepada tertuduh itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Keputusan mahkamah di bawah seksyen ini tidak boleh dirayu. Notis mengenai niat tertuduh untuk menzahirkan maklumat sensitif"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_9__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_9__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_9__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika seorang tertuduh semunasabahnya menjangkakan untuk menzahirkan atau menyebabkan dizahirkan maklumat sensitif dengan apa-apa cara dalam pembelaannya, tertuduh itu hendaklah, memberikan dua hari notis kepada Pendakwa Raya dan mahkamah secara bertulis mengenai niatnya untuk berbuat demikian."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Notis itu hendaklah termasuk perihalan ringkas mengenai maklumat sensitif itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila seorang tertuduh mengetahui adanya maklumat sensitif tambahan yang dia semunasabahnya menjangkakan untuk menzahirkan dalam perbicaraannya, tertuduh itu hendaklah memberikan dua hari notis kepada Pendakwa Raya dan mahkamah secara bertulis mengenai niatnya untuk berbuat demikian dan notis itu hendaklah termasuk perihalan ringkas mengenai maklumat sensitif itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_9__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada seorang tertuduh pun boleh menzahirkan apa-apa maklumat yang diketahui atau dipercayai sebagai sensitif berkaitan dengan perbicaraannya sehingga notis diberikan di bawah seksyen ini dan sehingga mahkamah membuat keputusan menurut tatacara dalam seksyen 10."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_9__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika tertuduh itu tidak mematuhi kehendak dalam seksyen ini, mahkamah boleh menghalang penzahiran apa-apa maklumat sensitif yang tidak menjadi subjek notis dan boleh melarang pemeriksaan mana-mana saksi mengenai apa-apa maklumat sedemikan oleh tertuduh itu. Pendengaran mengenai penzahiran maklumat sensitif oleh tertuduh"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Kesalahan Keselamatan (Langkah-Langkah Khas) 2012."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pemakaian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini hendaklah terpakai bagi kesalahan keselamatan. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_I__cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_I__cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "“kesalahan keselamatan” ertinya kesalahan sebagaimana yang dinyatakan dalam Jadual Pertama; “Mahkamah” ertinya Mahkamah Sesyen; “maklumat sensitif” ertinya apa-apa dokumen, maklumat dan bahan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_I__cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang berhubungan dengan Jemaah Menteri, jawatankuasa Jemaah Menteri dan Majlis Mesyuarat Kerajaan Negeri; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_I__cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang menyentuh kedaulatan, keselamatan negara, pertahanan, ketenteraman awam, dan hubungan antarabangsa, sama ada atau tidak dikelaskan sebagai “Rahsia Besar”, “Rahsia”, “Sulit” atau “Terhad” oleh seorang menteri, Menteri Besar, Ketua Menteri sesuatu Negeri atau mana-mana pegawai awam yang dilantik oleh seorang menteri; “Menteri” ertinya Menteri yang dipertanggungkan dengan tanggungjawab bagi hal ehwal dalam negeri; “saksi yang dilindungi” ertinya seorang saksi yang pendedahannya akan menjejaskan pengumpulan keterangan atau risikan atau membahayakan nyawa dan keselamatan dirinya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_V__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_V__cl_13"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERBICARAAN Perbicaraan kesalahan keselamatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_16"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "TATACARA KHAS YANG BERHUBUNGAN DENGAN SAKSI YANG DILINDUNGI Keterangan saksi diberikan dengan cara khas"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_26"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KETERANGAN Ketidakselarasan dengan Akta Keterangan 1950"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII",
+      "@type": "akn:part",
+      "eli:number": "VIII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_32"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PELBAGAI Kuasa untuk merekod pernyataan dan pengakuan salah"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_27__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_27__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_27__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_27__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_27__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana Hakim Mahkamah Sesyen boleh merekodkan apa-apa pernyataan atau pengakuan salah yang dibuat kepadanya pada bila-bila masa sebelum permulaan perbicaraan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pernyataan atau pengakuan salah itu hendaklah direkodkan sepenuhnya secara bertulis oleh Hakim Mahkamah Sesyen yang kepadanya pernyataan atau pengakuan salah itu dibuat dan hendaklah kemudiannya dikemukakan kepada mahkamah yang di hadapannya kes itu akan dibicarakan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_27__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada Hakim Mahkamah Sesyen boleh merekodkan apa-apa pernyataan atau pengakuan salah melainkan jika, apabila menyoal orang yang membuat pernyataan atau pengakuan salah itu, dia berpuas hati bahawa pernyataan atau pengakuan salah itu telah dibuat tanpa ugutan, dorongan atau janji pada masa itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_27__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila Hakim Mahkamah Sesyen merekodkan apa-apa pengakuan salah dia hendaklah membuat suatu memorandum di kaki rekod itu seperti yang berikut: “Saya berpuas hati bahawa pengakuan salah ini telah dibuat tanpa ugutan, dorongan atau janji. Pengakuan salah itu telah dibuat dalam kehadiran dan pendengaran saya dan telah dibacakan semula kepada orang yang membuatnya dan diakui oleh orang itu sebagai betul dan pengakuan salah itu mengandungi kenyataan yang lengkap dan benar mengenai apa yang dikatakannya. (Ditandatangani) A.B. Hakim Mahkamah Sesyen.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_27__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sumpah atau ikrar hendaklah diangkat atau dibuat oleh mana-mana orang yang membuat pernyataan atau pengakuan salah di bawah seksyen ini. Perlindungan pemberi maklumat"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_28__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_28__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_28__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada aduan oleh pemberi maklumat tentang kesalahan keselamatan di bawah Akta ini boleh diterima sebagai keterangan dalam mana-mana jua prosiding sivil atau jenayah, dan tiada saksi boleh dikehendaki atau dibenarkan untuk menzahirkan nama atau alamat mana-mana pemberi maklumat, atau menyatakan apa-apa perkara yang mungkin menyebabkan dia diketahui."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_28__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika mana-mana buku, dokumen atau kertas yang menjadi keterangan atau yang boleh diperiksa dalam mana-mana jua prosiding sivil atau jenayah mengandungi apa-apa entri yang dalamnya mana-mana pemberi maklumat dinamakan atau diperihalkan atau yang mungkin menyebabkan dia diketahui, mahkamah yang di hadapannya prosiding itu diadakan hendaklah menyebabkan semua petikan sedemikian ditutup daripada penglihatan atau dipadamkan setakat yang perlu untuk melindungi pemberi maklumat itu daripada diketahui, tetapi tidak lebih daripada itu. Akses oleh polis kepada tahanan atau banduan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_29__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun mana-mana undang-undang bertulis lain, pegawai polis yang menjalankan penyiasatan di bawah Akta ini hendaklah diberi akses kepada mana-mana orang yang dia mempunyai sebab untuk mempercayai terlibat dalam kesalahan keselamatan yang—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ditahan di bawah mana-mana undang-undang bertulis lain; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "di bawah pengurungan dalam penjara, sama ada telah disabitkan atau tidak. Penahanan sementara menunggu proses undang-undang habis"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_30__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_30__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_30__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_30__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_30__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_30__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_30__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_30__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun Perkara 9 Perlembagaan Persekutuan, jika mahkamah perbicaraan membebaskan tertuduh bagi kesalahan keselamatan Pendakwa Raya boleh memohon secara lisan kepada mahkamah untuk tertuduh direman di dalam penjara sementara menunggu notis rayuan difailkan terhadap pembebasan tertuduh itu oleh Pendakwa Raya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_30__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Atas permohonan oleh Pendakwa Raya di bawah subseksyen (1), mahkamah hendaklah memerintahkan tertuduh itu direman di dalam penjara sementara menunggu notis rayuan difailkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_30__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila Pendakwa Raya memfailkan rayuan terhadap pembebasan itu, Pendakwa Raya boleh memohon kepada mahkamah perbicaraan bagi suatu perintah untuk memenjarakan tertuduh itu sementara menunggu beresnya rayuan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_30__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Atas permohonan oleh Pendakwa Raya di bawah subseksyen (3), mahkamah hendaklah memenjarakan tertuduh itu sementara menunggu beresnya rayuan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_30__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika rayuan oleh Pendakwa Raya ditolak dan perintah pembebasan itu disahkan, Pendakwa Raya boleh membuat permohonan secara lisan kepada mahkamah supaya tertuduh itu direman di dalam penjara sementara menunggu notis rayuan difailkan terhadap keputusan Mahkamah Rayuan oleh Pendakwa Raya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_30__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Atas permohonan oleh Pendakwa Raya di bawah subseksyen (5), mahkamah hendaklah mereman tertuduh di dalam penjara sementara menunggu pemfailan notis rayuan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_30__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang tertuduh yang dipenjarakan di bawah seksyen ini hendaklah ditahan sehingga semua rayuan dibereskan. Kuasa untuk membuat peraturan-peraturan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh membuat peraturan-peraturan yang perlu atau suai manfaat bagi melaksanakan sepenuhnya atau menjalankan peruntukan Akta ini. Pemansuhan dan kecualian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_32__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_32__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_32__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_32",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Keselamatan Dalam Negeri 1960 [Akta 82] dimansuhkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_32__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_32__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_32__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_32",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pemansuhan Akta Keselamatan Dalam Negeri 1960 tidaklah menjejaskan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_32__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa perintah yang dikeluarkan atau dibuat di bawah Akta yang dimansuhkan itu sebelum tarikh permulaan kuat kuasa Akta ini, melainkan jika dibatalkan terlebih dahulu oleh Menteri; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_32__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VIII__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa tindakan atau prosiding yang diambil di bawah Akta yang dimansuhkan itu sebelum tarikh permulaan kuat kuasa Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bahagian ini hendaklah berkuat kuasa walau apa pun apa-apa ketidakselarasan dengan Akta Keterangan 1950 [Akta 56]. Pernyataan oleh mana-mana orang yang sudah mati, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu pernyataan yang dibuat sama ada secara lisan atau bertulis, semasa, atau bagi maksud, suatu penyiasatan atau siasatan tentang suatu kesalahan keselamatan oleh mana-mana orang yang sudah mati atau yang tidak dijumpai, atau yang menjadi tidak berupaya untuk memberikan keterangan hendaklah boleh diterima sebagai keterangan. Sabitan berdasarkan testimoni kanak-kanak dalam usia mentah"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu sabitan yang diperoleh berdasarkan testimoni yang tidak disokong oleh kanak-kanak dalam usia mentah tidaklah menyalahi undang-undang, walaupun tidak diberikan secara bersumpah, jika mahkamah berpendapat bahawa kanak-kanak itu mempunyai kepintaran yang mencukupi dan memahami kewajipan untuk bercakap benar. Dokumen yang disita semasa serbuan atau semasa penyiasatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua dokumen yang disita semasa serbuan atau semasa penyiasatan dan kandungan dokumen itu hendaklah boleh diterima sebagai keterangan. Keterangan mengenai pengecaman tertuduh atau orang lain"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Keterangan mengenai pengecaman seseorang tertuduh atau orang lain sebelum perbicaraan hendaklah boleh diterima sebagai keterangan walaupun pengecaman itu dilakukan melalui gambar foto atau kaedah lain atau dijalankan dalam hal keadaan yang dalamnya saksi yang mengecam tertuduh atau orang lain itu tidak dapat dilihat oleh tertuduh atau orang lain itu. Senarai penggeledahan hendaklah diterima sebagai keterangan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Senarai penggeledahan semua dokumen dan benda yang disita semasa serbuan hendaklah boleh diterima sebagai keterangan di mahkamah untuk membuktikan kewujudan dokumen dan benda yang disita itu yang tidak dikemukakan di mahkamah oleh sebab sifat dokumen dan benda itu. Tidak mengemukakan ekshibit"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tidak mengemukakan ekshibit sebenar yang dilindungi di bawah seksyen 8 dan 11 tidak menjejaskan kes pendakwaan. Kebolehterimaan komunikasi yang dipintas"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika seseorang dipertuduh atas suatu kesalahan keselamatan, apa-apa maklumat yang diperoleh melalui pemintasan komunikasi di bawah seksyen 6 hendaklah boleh diterima sebagai keterangan semasa perbicaraannya dan tiada seorang pun atau pegawai polis berada di bawah apa-apa kewajipan, obligasi atau liabiliti atau dengan apa-apa cara boleh dipaksa untuk menzahirkan dalam apa-apa prosiding tatacara, kaedah, cara atau apa-apa jalan atau peranti, atau apa-apa perkara jua pun mengenai apa-apa perkara yang dilakukan di bawah seksyen 6. Kebolehterimaan dokumen yang dihasilkan oleh komputer dan pernyataan yang terkandung dalamnya"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa dokumen yang dihasilkan oleh komputer dan pernyataan yang terkandung dalamnya hendaklah boleh diterima sebagai keterangan. Keterangan oleh rakan sejenayah dan ejen provokasi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_26__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_26__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_26__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun apa-apa rukun undang-undang atau mana- mana undang-undang bertulis lain yang berlawanan, dalam mana- mana prosiding terhadap mana-mana orang atas suatu kesalahan keselamatan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_26__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_26__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tiada saksi boleh dianggap sebagai rakan sejenayah hanya oleh sebab saksi itu telah dengan apa-apa cara terlibat dalam pelakuan kesalahan keselamatan itu atau mempunyai pengetahuan tentang pelakuan kesalahan keselamatan itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_26__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_26__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tiada ejen provokasi boleh dianggap tidak boleh dipercayai hanya oleh sebab dia telah cuba untuk bersubahat dalam atau telah menyubahati dalam pelakuan kesalahan keselamatan itu oleh mana-mana orang jika percubaan untuk bersubahat atau penyubahatan itu adalah bagi maksud semata-mata untuk mendapatkan keterangan terhadap orang itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VII__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun apa-apa rukun undang-undang atau mana-mana undang-undang bertulis lain yang berlawanan, dan walaupun ejen provokasi itu ialah seorang pegawai polis tidak kira pangkatnya, apa-apa pernyataan, sama ada secara lisan atau bertulis yang dibuat kepada ejen provokasi oleh mana-mana orang yang kemudiannya dipertuduh atas suatu kesalahan keselamatan hendaklah boleh diterima sebagai keterangan semasa perbicaraannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_14__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_14__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun Perkara 5 Perlembagaan Persekutan dan seksyen 264 Kanun Tatacara Jenayah, jika pada bila-bila masa semasa perbicaraan bagi kesalahan keselamatan, mana-mana saksi pendakwaan yang enggan identitinya didedahkan dan mahu memberikan keterangan dalam cara yang dia tidak dapat dilihat atau didengar oleh kedua-dua tertuduh dan peguamnya, Pendakwa Raya boleh membuat suatu permohonan secara lisan kepada mahkamah supaya tatacara dalam seksyen ini terpakai."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud memuaskan hatinya tentang keperluan untuk melindungi identiti saksi itu, mahkamah hendaklah mengadakan suatu siasatan secara tertutup dengan menyoal saksi yang berkenaan itu atau mana-mana saksi lain tanpa kehadiran tertuduh dan peguamnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika selepas siasatan itu mahkamah berpuas hati tentang keperluan untuk melindungi identiti saksi itu, keterangan saksi itu hendaklah diberikan dalam cara yang dia tidak dapat dilihat oleh tertuduh dan peguamnya tetapi boleh dilihat oleh mahkamah; dan selanjutnya jika saksi itu bimbang suaranya akan dicam, keterangannya hendaklah diberikan dalam cara yang dia tidak dapat didengar oleh tertuduh dan peguamnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_14__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mahkamah boleh melarang apa-apa soalan untuk dikemukakan kepada saksi itu tentang nama, alamat, umur, pekerjaan, rasnya atau butir-butir lain atau apa-apa soalan lain yang pada pendapat mahkamah akan menyebabkan saksi itu dicam. Pengecaman oleh saksi jika keterangan diambil secara tertutup"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika semasa mengambil keterangan di bawah seksyen 14 tertuduh atau mana-mana orang lain dikehendaki untuk dicam oleh saksi yang memberikan keterangan dengan cara yang diperuntukkan dalam seksyen itu, pengecaman itu boleh dibuat oleh saksi melalui seorang jurubahasa atau pegawai lain mahkamah. Perlindungan identiti saksi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_16__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_16__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_16__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_16__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_16__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun mana-mana undang-undang bertulis yang berlawanan, apa-apa laporan melalui apa-apa cara mengenai saksi yang dilindungi tidak boleh mendedahkan atau mengandungi—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_16__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_16__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "nama;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_16__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_16__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "alamat;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_16__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_16__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "gambar saksi yang dilindungi atau mana-mana orang lain, tempat atau benda yang boleh menyebabkan saksi yang dilindungi itu dicam; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_16__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_16__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa keterangan atau apa-apa benda lain yang berkemungkinan menyebabkan saksi yang dilindungi itu dicam."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_VI__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang menyediakan laporan berlanggaran dengan subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, dipenjarakan selama tempoh tidak melebihi lima tahun dan juga didenda tidak melebihi sepuluh ribu ringgit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_V__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua kesalahan keselamatan hendaklah dibicarakan oleh Mahkamah Tinggi. Jaminan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_V__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_V__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_V__cl_13__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_V__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_V__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jaminan tidak boleh diberikan kepada seseorang yang dipertuduh atas suatu kesalahan keselamatan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_V__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_V__cl_13__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_V__cl_13__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_V__cl_13__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_V__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_V__cl_13__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_V__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang yang berumur di bawah lapan belas tahun;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_V__cl_13__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_V__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang perempuan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_V__cl_13__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~part_V__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang yang sakit atau seorang yang uzur, yang dipertuduh atas suatu kesalahan keselamatan, selain suatu kesalahan di bawah Bab VIA Kanun Keseksaan [Akta 574], boleh dilepaskan dengan jaminan tertakluk kepada suatu permohonan oleh Pendakwa Raya supaya peranti pengawasan elektronik dipasangkan kepada orang itu mengikut Kanun Tatacara Jenayah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(Seksyen 3) KESALAHAN KESELAMATAN Kanun Keseksaan [Akta 574]: (i) Kesalahan di bawah Bab VI (ii) Kesalahan di bawah Bab VIA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2",
+      "@type": "akn:schedule",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_9"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(Seksyen 7) BORANG PERANTI PENGAWASAN ELEKTRONIK MAHKAMAH TINGGI DI MALAYA/MAHKAMAH TINGGI DI SABAH DAN SARAWAK"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Nama: ......................................................................................................"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "No. Kes: ................................................................................................"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "No. Kad Pengenalan: ............................................................................."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Alamat: .................................................................................................. ................................................................................................................ ................................................................................................................"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "No. Telefon: ..........................................................................................."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_6",
+      "@type": "akn:paragraph",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Anggota keluarga untuk dihubungi: ...................................................... ................................................................................................................"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_7",
+      "@type": "akn:paragraph",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tempoh peranti pengawasan elektronik (“peranti”) dipasang: .............."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8",
+      "@type": "akn:paragraph",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8__para_k"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Terma-terma dan syarat-syarat—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melaporkan diri di balai polis yang terdekat pada/bagi tiap-tiap ……………………;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memahami bahawa semua pergerakan akan dijejaki dan disimpan sebagai rekod rasmi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bersetuju untuk dikehendaki untuk melaporkan diri bagi pemeriksaan kelengkapan peranti jika perlu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memberitahu pegawai polis jika terdapat apa-apa perubahan alamat;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk membenarkan pemeriksaan peranti oleh pegawai polis;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melaporkan diri di balai polis yang terdekat bagi peranti itu dibuka;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memulangkan semua kelengkapan peranti kepada pegawai polis;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mematuhi tatacara yang dikehendaki oleh pegawai polis;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menyenggara peranti sebagaimana yang diarahkan oleh pegawai polis;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mematuhi apa-apa arahan pegawai polis;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mematuhi apa-apa syarat lain sebagaimana yang ditentukan oleh mahkamah;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2__para_9",
+      "@type": "akn:paragraph",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/msa@/~sched_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketidakpatuhan terma-terma dan syarat-syarat ini merupakan suatu kesalahan di bawah subseksyen 7(6) Akta ini. Saya dengan ini bersetuju dan akan mematuhi terma-terma dan syarat-syarat sebagaimana yang dinyatakan dalam Borang ini. ……………………………………………… ( )"
+      }
+    }
+  ]
+}

@@ -4,13 +4,13 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## ChApTER I
+## CHAPTER I
 
 ## PRELIMINARY
 
 1. Short title 2. Amendment of Acts
 
-## ChApTER II
+## CHAPTER II
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
@@ -60,7 +60,7 @@
 
 30. Special provision relating to paragraph 5A of Schedule 7b
 
-## ChApTER III
+## CHAPTER III
 
 ## AMENDMENTS TO THE PROMOTION OF INVESTMENTS ACT 1986
 
@@ -130,7 +130,7 @@
 
 62. Amendment of section 30A
 
-## ChApTER IV
+## CHAPTER IV
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
@@ -146,7 +146,7 @@
 
 68. Amendment of First Schedule
 
-## ChApTER V
+## CHAPTER V
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
@@ -154,7 +154,7 @@
 
 70. Amendment of Schedule 5
 
-## ChApTER VI
+## CHAPTER VI
 
 ## AMENDMENTS TO THE LABUAN BUSINESS ACTIVITY TAX ACT 1990
 
@@ -184,7 +184,7 @@
 
 82. Amendment of section 25
 
-## ChApTER VII
+## CHAPTER VII
 
 ## AMENDMENTS TO THE SERVICE TAX ACT 2018
 
@@ -204,7 +204,7 @@
 
 90. Amendment of section 27
 
-## ChApTER VIII
+## CHAPTER VIII
 
 ## AMENDMENTS TO THE SALES TAX ACT 2018
 
@@ -232,7 +232,7 @@ An Act to amend the Income Tax Act 1967, Promotion of Investments Act 1986, Stam
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## ChApTER I
+## CHAPTER I
 
 ## PRELIMINARY
 
@@ -246,7 +246,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 14 -->
 
-## ChApTER II
+## CHAPTER II
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
@@ -736,7 +736,7 @@ that amount relates to allowance ascertained at the end of the fifteen consecuti
 
 (b) any amount of that allowance or that aggregate amount at the end of that period which has not been given to that person, by reason of insufficiency or absence of statutory income from a business of his for those period, shall be disregarded for the purpose of Schedule 7b of the principal Act.
 
-## ChApTER III
+## CHAPTER III
 
 ## AMENDMENTS TO THE PROMOTION OF INVESTMENTS ACT 1986
 
@@ -1068,7 +1068,7 @@ be given under subsections 29j(4), 29k(4), 29L(2),(3),(4),(5) and (6), 29N(4) an
 
 62. Subsection 30A(1) of the principal Act is amended by substituting for the word “two” the word “five”.
 
-## ChApTER IV
+## CHAPTER IV
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
@@ -1184,33 +1184,13 @@ be given under subsections 29j(4), 29k(4), 29L(2),(3),(4),(5) and (6), 29N(4) an
 
 “(1) Being the only or principal or primary security for any annuity (except upon the original creation thereof by way of sale or security, and except a superannuation annuity), or for any sum or sums of money at stated periods, not being interest for any sum secured by a duly stamped instrument, nor rent reserved by a lease or tack—
 
-<!-- marginal: The same ad -->
+The same ad
 
-(a) for a definite and certain
-
-<!-- marginal: valorem duty as a -->
-
-period so that the
-
-<!-- marginal: charge or mortgage -->
-
-total amount to be
-
-<!-- marginal: for such total -->
-
-ultimately payable can
-
-<!-- marginal: amount. -->
-
-be ascertained
+(a) for a definite and certain valorem duty as a period so that the charge or mortgage total amount to be for such total ultimately payable can amount. be ascertained
 
 (b) for the term of life or any other indefinite period—
 
-for every RM100
-
-<!-- marginal: RM1.00”; and -->
-
-and also for any fractional part of R M 1 0 0 o f the annuity or sum periodically payable
+for every RM100 RM1.00”; and and also for any fractional part of R M 1 0 0 o f the annuity or sum periodically payable
 
 (ii) in subitem (6), by inserting after the words “in accordance with the” the words “conventional hire purchase and”;
 
@@ -1218,7 +1198,7 @@ and also for any fractional part of R M 1 0 0 o f the annuity or sum periodicall
 
 ## “29A CONSTITUTION OF A
 
-<!-- marginal: RM200.00”; -->
+RM200.00”;
 
 ## COMPANY
 
@@ -1234,7 +1214,7 @@ and also for any fractional part of R M 1 0 0 o f the annuity or sum periodicall
 
 (e) by deleting item 53.
 
-## ChApTER V
+## CHAPTER V
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
@@ -1254,7 +1234,7 @@ and also for any fractional part of R M 1 0 0 o f the annuity or sum periodicall
 
 (c) in Part III, in the column “Rate of tax” in item 2, by substituting for the words “5 per cent” dengan “10 per cent”.
 
-## ChApTER VI
+## CHAPTER VI
 
 ## AMENDMENTS TO THE LABUAN BUSINESS ACTIVITY
 
@@ -1354,7 +1334,7 @@ as prescribed by the Minister by regulations made under this Act.”.
 
 <!-- page 59 -->
 
-## ChApTER VII
+## CHAPTER VII
 
 ## AMENDMENTS TO THE SERVICE TAX ACT 2018
 
@@ -1508,7 +1488,7 @@ the Director General may assess to the best of his judgment the amount of servic
 
 (e) in subsection (6), by substituting for the words “to any taxable person under subsection (1), (2) or (5), it shall be deemed to be an amount of service tax due and payable, and penalty payable, by him and may be recovered accordingly and the amount of service tax and penalty, if any, shall be paid by the taxable person, whether or not that taxable person” the words “pursuant to subsection (1), (2) or (5), it shall be deemed to be an amount of service tax due and payable, and penalty payable, by the person and may be recovered accordingly and the amount of service tax and penalty, if any, shall be paid by the person, whether or not that person”.
 
-## ChApTER VIII
+## CHAPTER VIII
 
 ## AMENDMENTS TO THE SALES TAX ACT 2018
 
@@ -1584,7 +1564,7 @@ This Bill seeks to amend the Income Tax Act 1967 (“Act 53”), the Promotion o
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-## Chapter II of this Bill seeks to amend the Income Tax Act 1967.
+Chapter II of this Bill seeks to amend the Income Tax Act 1967.
 
 2. Clause 4 seeks to amend section 2 of Act 53. Subclause (a) seeks to substitute the definition of “Labuan company” to cover a Labuan entity as provided in the Schedule to Act 445.
 
@@ -1710,7 +1690,7 @@ This amendment has effect from the year of assessment 2019 and subsequent years 
 
 ## AMENDMENTS TO THE PROMOTION OF INVESTMENTS ACT 1986
 
-## Chapter III of this Bill seeks to amend the Promotion of Investments Act 1986.
+Chapter III of this Bill seeks to amend the Promotion of Investments Act 1986.
 
 25. Clause 32 seeks to amend section 2 of Act 327 to introduce the definition of “research and development”. The amendment corresponds with the introduction of the same definition into section 2 of Act 53 in clause 4.
 
@@ -1852,7 +1832,7 @@ This amendment has effect from the year of assessment 2019 and subsequent years 
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
-## Chapter IV of this Bill seeks to amend the Stamp Act 1949.
+Chapter IV of this Bill seeks to amend the Stamp Act 1949.
 
 56. Clause 64 seeks to amend section 2 of Act 378 to amend the existing definition of “banker” and “small and medium enterprise”.
 
@@ -1892,17 +1872,13 @@ This amendment comes into operation on 1 January 2019.
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
-## Chapter V of this Bill seeks to amend the Real Property Gains Tax Act 1976.
-
-This Chapter comes into operation on 1 January 2019.
+Chapter V of this Bill seeks to amend the Real Property Gains Tax Act 1976. This Chapter comes into operation on 1 January 2019.
 
 61. Clause 70 seeks to amend Schedule 5 of Act 169 to provide for a new rate of tax on the disposal of a chargeable asset made by an individual who is a citizen and a permanent resident of Malaysia, a company and an individual who is not a citizen and not a permanent resident of Malaysia.
 
 ## AMENDMENTS TO THE LABUAN BUSINESS ACTIVITY TAX ACT 1990
 
-## Chapter VI of this Bill seeks to amend the Labuan Business Activity
-
-Tax Act 1990. This Chapter comes into operation on 1 January 2019.
+Chapter VI of this Bill seeks to amend the Labuan Business Activity Tax Act 1990. This Chapter comes into operation on 1 January 2019.
 
 62. Clause 72 seeks to amend subsection 2(1) of Act 445 to amend the definition of “Labuan business activity” to provide that Labuan business activity means a Labuan trading or a Labuan non-trading activity which is carried on in, from or through Labuan. The proposed amendment is to allow the Labuan entity to deal with resident and in ringgit.
 
@@ -1922,9 +1898,7 @@ Tax Act 1990. This Chapter comes into operation on 1 January 2019.
 
 ## AMENDMENTS TO THE SERVICE TAX ACT 2018
 
-## Chapter VII of this Bill seeks to amend the Service Tax Act 2018. This Chapter
-
-comes into operation on 1 January 2019.
+Chapter VII of this Bill seeks to amend the Service Tax Act 2018. This Chapter comes into operation on 1 January 2019.
 
 69. Clause 84 seeks to introduce a definition of “imported taxable service” into section 2 of Act 807.
 
@@ -1942,9 +1916,7 @@ comes into operation on 1 January 2019.
 
 ## AMENDMENTS TO THE SALES TAX ACT 2018
 
-## Chapter VIII of this Bill seeks to amend the Sales Tax Act 2018. This Chapter
-
-comes into operation on 1 January 2019.
+Chapter VIII of this Bill seeks to amend the Sales Tax Act 2018. This Chapter comes into operation on 1 January 2019.
 
 76. Clause 92 seeks to amend subsection 9(3) to expand application of the subsection to all manufacturers.
 

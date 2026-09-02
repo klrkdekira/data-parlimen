@@ -16,15 +16,37 @@ RANG UNDANG-UNDANG KEWANGAN (No. 2) 2009
 
 ## PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967
 
-3. Permulaan kuat kuasa pindaan kepada Akta Cukai Pendapatan 1967 4. Pindaan seksyen 2 5. Pindaan seksyen 46 6. Pindaan seksyen 49 7. Pindaan seksyen 60I 8. Pindaan seksyen 83 9. Pindaan seksyen 107 10. Pindaan seksyen 107C 11. Pindaan seksyen 112 12. Pindaan seksyen 120 13. Pindaan seksyen 152A 14. Pindaan Jadual 1 15. Pindaan Jadual 6 16. Pindaan Jadual 7B
+3. Permulaan kuat kuasa pindaan kepada Akta Cukai Pendapatan 1967 4. Pindaan seksyen 2 5. Pindaan seksyen 46 6. Pindaan seksyen 49 7. Pindaan seksyen 60I 8. Pindaan seksyen 83 9. Pindaan seksyen 107
+
+10. Pindaan seksyen 107C
+
+11. Pindaan seksyen 112
+
+12. Pindaan seksyen 120
+
+13. Pindaan seksyen 152A
+
+14. Pindaan Jadual 1
+
+15. Pindaan Jadual 6
+
+16. Pindaan Jadual 7B
 
 ## BAB III
 
 ## PINDAAN KEPADA AKTA SETEM 1949
 
-17. Permulaan kuat kuasa pindaan kepada Akta Setem 1949 18. Seksyen baru 72A 19. Pindaan Jadual Pertama 20. Pindaan Jadual Kedua
+17. Permulaan kuat kuasa pindaan kepada Akta Setem 1949
 
-JW514777 BM.indd 1 JW514777 BM.indd 1
+18. Seksyen baru 72A
+
+19. Pindaan Jadual Pertama
+
+20. Pindaan Jadual Kedua
+
+<!-- marginal: JW514777 BM.indd 1 -->
+
+<!-- marginal: JW514777 BM.indd 1 -->
 
 <!-- marginal: 10/23/09 4:41:40 AM -->
 
@@ -96,7 +118,37 @@ JW514777 BM.indd 2 JW514777 BM.indd 2
 
 <!-- page 3 -->
 
-42. Pindaan seksyen 16 43. Pindaan seksyen 17 44. Pindaan seksyen 20 45. Pindaan seksyen 21A 46. Pindaan seksyen 21B 47. Pindaan seksyen 22 48. Pindaan seksyen 24 49. Seksyen baru 48A 50. Pindaan seksyen 52 51. Pindaan seksyen 53 52. Pindaan seksyen 55 53. Seksyen baru 57A 54. Pindaan Jadual 2 55. Pindaan Jadual 4 56. Pindaan Jadual 5 57. Peruntukan kecualian dan peralihan
+42. Pindaan seksyen 16
+
+43. Pindaan seksyen 17
+
+44. Pindaan seksyen 20
+
+45. Pindaan seksyen 21A
+
+46. Pindaan seksyen 21B
+
+47. Pindaan seksyen 22
+
+48. Pindaan seksyen 24
+
+49. Seksyen baru 48A
+
+50. Pindaan seksyen 52
+
+51. Pindaan seksyen 53
+
+52. Pindaan seksyen 55
+
+53. Seksyen baru 57A
+
+54. Pindaan Jadual 2
+
+55. Pindaan Jadual 4
+
+56. Pindaan Jadual 5
+
+57. Peruntukan kecualian dan peralihan
 
 ## BAB VI
 
@@ -104,9 +156,13 @@ JW514777 BM.indd 2 JW514777 BM.indd 2
 
 ## LABUAN 1990
 
-58. Permulaan kuat kuasa pindaan kepada Akta Cukai Aktiviti Perniagaan Luar Pesisir Labuan 1990 59. Seksyen baru 12A
+58. Permulaan kuat kuasa pindaan kepada Akta Cukai Aktiviti Perniagaan Luar Pesisir Labuan 1990
 
-JW514777 BM.indd 3 JW514777 BM.indd 3
+59. Seksyen baru 12A
+
+<!-- marginal: JW514777 BM.indd 3 -->
+
+<!-- marginal: JW514777 BM.indd 3 -->
 
 <!-- marginal: 10/23/09 4:41:40 AM -->
 
@@ -144,7 +200,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ## Bab II, III, IV, V dan VI.
 
-JW514777 BM.indd 5 JW514777 BM.indd 5
+<!-- marginal: JW514777 BM.indd 5 -->
+
+<!-- marginal: JW514777 BM.indd 5 -->
 
 <!-- marginal: 10/23/09 4:41:41 AM -->
 
@@ -214,7 +272,9 @@ Provided that the amount of deduction allowed under that subsection and further 
 
 (b) where subsection 50(2) or 50(3) applies, the total deduction under that subsection shall not exceed six thousand ringgit or where paragraph (a) applies, shall not exceed seven thousand ringgit.”.
 
-JW514777 BM.indd 7 JW514777 BM.indd 7
+<!-- marginal: JW514777 BM.indd 7 -->
+
+<!-- marginal: JW514777 BM.indd 7 -->
 
 <!-- marginal: 10/23/09 4:41:41 AM -->
 
@@ -286,7 +346,9 @@ employee on or before the last day of February in the year immediately following
 
 (a) dalam subseksyen (4), dengan memasukkan selepas perkataan “in a year of assessment” perkataan “and the basis period for that year is not less than six months”;
 
-JW514777 BM.indd 9 JW514777 BM.indd 9
+<!-- marginal: JW514777 BM.indd 9 -->
+
+<!-- marginal: JW514777 BM.indd 9 -->
 
 <!-- marginal: 10/23/09 4:41:41 AM -->
 
@@ -318,7 +380,9 @@ Provided that if that company, trust body or co-operative society pays that sum 
 
 “(4) The Director General may require any person to pay an additional amount of penalty in accordance with subsection (3) in respect of any additional tax which is payable by that person for a year of assessment.”.
 
-JW514777 BM.indd 10 JW514777 BM.indd 10
+<!-- marginal: JW514777 BM.indd 10 -->
+
+<!-- marginal: JW514777 BM.indd 10 -->
 
 <!-- marginal: 10/23/09 4:41:41 AM -->
 
@@ -358,7 +422,9 @@ JW514777 BM.indd 10 JW514777 BM.indd 10
 
 (ii) dalam perenggan 1A, dengan menggantikan perkataan “27 per cent” dengan perkataan “26 per cent”;
 
-JW514777 BM.indd 11 JW514777 BM.indd 11
+<!-- marginal: JW514777 BM.indd 11 -->
+
+<!-- marginal: JW514777 BM.indd 11 -->
 
 <!-- marginal: 10/23/09 4:41:41 AM -->
 
@@ -396,7 +462,9 @@ JW514777 BM.indd 11 JW514777 BM.indd 11
 
 (a) dalam takrif “capital expenditure”, dengan menggantikan noktah di hujung takrif dengan noktah bertindih; dan
 
-JW514777 BM.indd 12 JW514777 BM.indd 12
+<!-- marginal: JW514777 BM.indd 12 -->
+
+<!-- marginal: JW514777 BM.indd 12 -->
 
 <!-- marginal: 10/23/09 4:41:42 AM -->
 
@@ -436,7 +504,9 @@ JW514777 BM.indd 12 JW514777 BM.indd 12
 
 (f) has in his possession any certificate which he knows to be a counterfeit of any stamp certificate, intending to use or dispose of it as a genuine stamp certificate in order that it may be used as a genuine stamp certificate; or
 
-JW514777 BM.indd 13 JW514777 BM.indd 13
+<!-- marginal: JW514777 BM.indd 13 -->
+
+<!-- marginal: JW514777 BM.indd 13 -->
 
 <!-- marginal: 10/23/09 4:41:42 AM -->
 
@@ -508,7 +578,9 @@ JW514777 BM.indd 14 JW514777 BM.indd 14
 
 the Director General may direct that the basis period for the year of assessment in which the failure occurs, or the basis periods for that year and the following year of assessment, shall consist of a period or periods (which may be of any length) as specified in the direction.”.
 
-JW514777 BM.indd 15 JW514777 BM.indd 15
+<!-- marginal: JW514777 BM.indd 15 -->
+
+<!-- marginal: JW514777 BM.indd 15 -->
 
 <!-- marginal: 10/23/09 4:41:42 AM -->
 
@@ -576,7 +648,9 @@ petroleum agreement is signed, or on such other date as may be determined by the
 
 (4) Where an amended return is furnished by a chargeable person under subsection (1), any amount of tax or additional tax payable by that person under the amended return shall be increased by a sum equal to ten per cent of that amount and the increased sum shall constitute part of such tax or additional tax payable by that person.
 
-JW514777 BM.indd 17 JW514777 BM.indd 17
+<!-- marginal: JW514777 BM.indd 17 -->
+
+<!-- marginal: JW514777 BM.indd 17 -->
 
 <!-- marginal: 10/23/09 4:41:42 AM -->
 
@@ -610,7 +684,9 @@ no amendment shall be made under this section.”.
 
 (3) Every chargeable person shall, for each exploration period or basis period for the year of assessment, make up accounts of his expenditure or profits or losses arising from his petroleum operations and those accounts which shall be
 
-JW514777 BM.indd 18 JW514777 BM.indd 18
+<!-- marginal: JW514777 BM.indd 18 -->
+
+<!-- marginal: JW514777 BM.indd 18 -->
 
 <!-- marginal: 10/23/09 4:41:42 AM -->
 
@@ -644,7 +720,9 @@ audited by a professional accountant, together with a report made by that accoun
 
 “38. (1) Where a chargeable person has furnished a return under section 30 to the Director General for a year of assessment, the Director General shall be deemed to have made, on the day on which the return is furnished, an assessment in respect
 
-JW514777 BM.indd 19 JW514777 BM.indd 19
+<!-- marginal: JW514777 BM.indd 19 -->
+
+<!-- marginal: JW514777 BM.indd 19 -->
 
 <!-- marginal: 10/23/09 4:41:42 AM -->
 
@@ -672,7 +750,9 @@ Provided that the making of an assessment in respect of a chargeable person unde
 
 39A. (1) Where for a year of assessment a chargeable person has furnished an amended return in accordance with section 30B, the Director General shall be deemed to have made, on the day on which the amended return is furnished, an assessment or additional assessment in respect of that person relating to the amount of tax or additional tax payable on the chargeable income, based on the respective amounts as specified in the amended return.
 
-JW514777 BM.indd 20 JW514777 BM.indd 20
+<!-- marginal: JW514777 BM.indd 20 -->
+
+<!-- marginal: JW514777 BM.indd 20 -->
 
 <!-- marginal: 10/23/09 4:41:43 AM -->
 
@@ -708,7 +788,9 @@ JW514777 BM.indd 20 JW514777 BM.indd 20
 
 (c) gives any incorrect information in relation to any matter affecting his own chargeability to tax,
 
-JW514777 BM.indd 21 JW514777 BM.indd 21
+<!-- marginal: JW514777 BM.indd 21 -->
+
+<!-- marginal: JW514777 BM.indd 21 -->
 
 <!-- marginal: 10/23/09 4:41:43 AM -->
 
@@ -734,7 +816,9 @@ for any year or years of assessment (hereinafter referred to in this section as 
 
 (c) the amount or aggregate amount of any penalty imposed by virtue of subsection 51(3) or 52(2) or both (or where such penalty is abated or remitted under section 63, so much, if any, of the penalty which has not been abated or remitted); and
 
-JW514777 BM.indd 22 JW514777 BM.indd 22
+<!-- marginal: JW514777 BM.indd 22 -->
+
+<!-- marginal: JW514777 BM.indd 22 -->
 
 <!-- marginal: 10/23/09 4:41:43 AM -->
 
@@ -764,7 +848,9 @@ JW514777 BM.indd 22 JW514777 BM.indd 22
 
 (4) Where any tax due and payable under subsection (1) has not been paid by the due date, so much of the tax as is unpaid upon the expiration of that date shall without any further notice being served be increased by a sum equal
 
-JW514777 BM.indd 23 JW514777 BM.indd 23
+<!-- marginal: JW514777 BM.indd 23 -->
+
+<!-- marginal: JW514777 BM.indd 23 -->
 
 <!-- marginal: 10/23/09 4:41:43 AM -->
 
@@ -778,7 +864,9 @@ to ten per cent of the tax so unpaid, and that sum shall be recoverable as if it
 
 (6) Where any tax is payable in accordance with subsection (2), the Director General may allow the tax to be paid by instalments in such amounts and on such dates as he may determine and in the event of default in payment of any one the instalment on the date specified for payment the balance of the tax then outstanding shall be due and payable on that date and shall without any further notice being served be increased by a sum equal to ten per cent of that balance, and that sum shall be recoverable as if it were tax due and payable under this Act.
 
-(7) Notwithstanding the foregoing subsections, where the tax due and payable is increased by a sum under subsection (4), (5) or (6), the Director General may in his discretion for any good cause shown remit the whole or any part of that sum and, where the amount remitted has been paid, the Director General shall repay that amount.
+(7) Notwithstanding the foregoing subsections, where the tax due and payable is increased by a sum under subsection
+
+(4), (5) or (6), the Director General may in his discretion for any good cause shown remit the whole or any part of that sum and, where the amount remitted has been paid, the Director General shall repay that amount.
 
 (8) For the purposes of this section, “due date” means the last day of the seventh month from the date following the end of the accounting period.”.
 
@@ -790,7 +878,9 @@ to ten per cent of the tax so unpaid, and that sum shall be recoverable as if it
 
 49A. (1) Every chargeable person shall, with respect to the basis period for each year of assessment, furnish to the Director General an estimate of his tax payable for that year of assessment.
 
-JW514777 BM.indd 24 JW514777 BM.indd 24
+<!-- marginal: JW514777 BM.indd 24 -->
+
+<!-- marginal: JW514777 BM.indd 24 -->
 
 <!-- marginal: 10/23/09 4:41:43 AM -->
 
@@ -820,7 +910,9 @@ JW514777 BM.indd 24 JW514777 BM.indd 24
 
 (e) the chargeable person shall indicate in the prescribed form referred to in subsection (2), the respective months in the basis period of that year of assessment or the following basis period, in which the ten monthly instalments shall be paid.
 
-JW514777 BM.indd 25 JW514777 BM.indd 25
+<!-- marginal: JW514777 BM.indd 25 -->
+
+<!-- marginal: JW514777 BM.indd 25 -->
 
 <!-- marginal: 10/23/09 4:41:43 AM -->
 
@@ -836,13 +928,17 @@ JW514777 BM.indd 25 JW514777 BM.indd 25
 
 (b) where the amount of instalments which is payable in that year prior to that revised estimate exceeds the revised estimate, the remaining instalments shall cease immediately.
 
-(8) Notwithstanding subsections (1), (3), (4), (5), (6) and (7), the Director General may direct any chargeable person to make payment by instalments on account of tax which is or may be payable by that chargeable person for a year of assessment at such times and in such amounts as the Director General may direct.
+(8) Notwithstanding subsections (1), (3), (4), (5), (6) and
+
+(7), the Director General may direct any chargeable person to make payment by instalments on account of tax which is or may be payable by that chargeable person for a year of assessment at such times and in such amounts as the Director General may direct.
 
 (9) Where the Director General directs a chargeable person to make payment by instalments under subsection (8) before the sixth month of the basis period for a year of assessment of that chargeable person, the total amount of that instalments shall be deemed, for the purpose of this section, to be the estimate of tax payable by that chargeable person for that year of assessment:
 
 Provided that subject to any revision under subsection (7), that instalments shall be payable in accordance with subsections (8) and (11).
 
-JW514777 BM.indd 26 JW514777 BM.indd 26
+<!-- marginal: JW514777 BM.indd 26 -->
+
+<!-- marginal: JW514777 BM.indd 26 -->
 
 <!-- marginal: 10/23/09 4:41:43 AM -->
 
@@ -868,7 +964,9 @@ such tax payable shall without any further notice be increased by a sum equal to
 
 Provided that if that person pays that sum or, where the sum is remitted under subsection (14), he shall not be liable to be charged on the same facts with an offence under section 58.
 
-JW514777 BM.indd 27 JW514777 BM.indd 27
+<!-- marginal: JW514777 BM.indd 27 -->
+
+<!-- marginal: JW514777 BM.indd 27 -->
 
 <!-- marginal: 10/23/09 4:41:44 AM -->
 
@@ -896,7 +994,9 @@ JW514777 BM.indd 27 JW514777 BM.indd 27
 
 (2) Where a person has been convicted of an offence under subsection (1), the court may make a further order that the person shall comply with the relevant provision of this Act under which the offence has been committed within thirty days, or such other period as the court deems fit, from the date the order is made.
 
-JW514777 BM.indd 28 JW514777 BM.indd 28
+<!-- marginal: JW514777 BM.indd 28 -->
+
+<!-- marginal: JW514777 BM.indd 28 -->
 
 <!-- marginal: 10/23/09 4:41:44 AM -->
 
@@ -926,7 +1026,9 @@ JW514777 BM.indd 28 JW514777 BM.indd 28
 
 “(c) fails to furnish an estimate in accordance with subsection 49A(2) or (3), or paragraph 49A(4)(a),”.
 
-JW514777 BM.indd 29 JW514777 BM.indd 29
+<!-- marginal: JW514777 BM.indd 29 -->
+
+<!-- marginal: JW514777 BM.indd 29 -->
 
 <!-- marginal: 10/23/09 4:41:44 AM -->
 
@@ -956,7 +1058,9 @@ JW514777 BM.indd 29 JW514777 BM.indd 29
 
 (ii) the information provided by him to the tax agent for the preparation of the form is true and correct;
 
-JW514777 BM.indd 30 JW514777 BM.indd 30
+<!-- marginal: JW514777 BM.indd 30 -->
+
+<!-- marginal: JW514777 BM.indd 30 -->
 
 <!-- marginal: 10/23/09 4:41:44 AM -->
 
@@ -986,7 +1090,9 @@ JW514777 BM.indd 30 JW514777 BM.indd 30
 
 35. (1) Akta ibu hendaklah terpakai bagi maksud Bahagian ini melainkan jika diperuntukkan selainnya.
 
-JW514777 BM.indd 31 JW514777 BM.indd 31
+<!-- marginal: JW514777 BM.indd 31 -->
+
+<!-- marginal: JW514777 BM.indd 31 -->
 
 <!-- marginal: 10/23/09 4:41:44 AM -->
 
@@ -1054,7 +1160,9 @@ JW514777 BM.indd 32 JW514777 BM.indd 32
 
 (b) oleh sebab tidak cukupnya atau tidak adanya jumlah keuntungan yang boleh dikenakan cukai bagi tahun taksiran yang kerugian yang boleh dibenarkan itu timbul, kuat kuasa tidak dapat diberikan atau
 
-JW514777 BM.indd 33 JW514777 BM.indd 33
+<!-- marginal: JW514777 BM.indd 33 -->
+
+<!-- marginal: JW514777 BM.indd 33 -->
 
 <!-- marginal: 10/23/09 4:41:44 AM -->
 
@@ -1116,7 +1224,9 @@ JW514777 BM.indd 34 JW514777 BM.indd 34
 
 21B. (1) Jika sesuatu pelupusan yang seksyen 13 terpakai baginya, balasannya terdiri kesemuanya atau sebahagiannya daripada wang, pemeroleh hendaklah memegang simpan kesemua wang itu atau suatu jumlah wang tidak melebihi
 
-JW514777 BM.indd 35 JW514777 BM.indd 35
+<!-- marginal: JW514777 BM.indd 35 -->
+
+<!-- marginal: JW514777 BM.indd 35 -->
 
 <!-- marginal: 10/23/09 4:41:45 AM -->
 
@@ -1138,7 +1248,9 @@ Dengan syarat bahawa Ketua Pengarah boleh dalam hal keadaan khas membenarkan pel
 
 (4) Walau apa pun subseksyen (1), jika amaun yang genap masanya dibayar daripada pemeroleh di bawah subseksyen (1) dinaikkan dengan suatu jumlah di bawah subseksyen (2), Ketua Pengarah boleh menurut budi bicaranya kerana apa- apa sebab yang baik yang diberikan meremitkan kesemua atau mana-mana bahagian daripada jumlah wang itu dan, jika jumlah wang yang diremitkan telah dibayar, Ketua Pengarah hendaklah membayar balik jumlah wang itu.”.
 
-JW514777 BM.indd 36 JW514777 BM.indd 36
+<!-- marginal: JW514777 BM.indd 36 -->
+
+<!-- marginal: JW514777 BM.indd 36 -->
 
 <!-- marginal: 10/23/09 4:41:45 AM -->
 
@@ -1178,7 +1290,9 @@ JW514777 BM.indd 36 JW514777 BM.indd 36
 
 (a) mana-mana borang yang ditetapkan yang dikemukakan melalui penghantaran elektronik di bawah seksyen 57A; atau
 
-JW514777 BM.indd 37 JW514777 BM.indd 37
+<!-- marginal: JW514777 BM.indd 37 -->
+
+<!-- marginal: JW514777 BM.indd 37 -->
 
 <!-- marginal: 10/23/09 4:41:45 AM -->
 
@@ -1208,7 +1322,9 @@ Dengan syarat bahawa rekod atau salinan atau cetakan itu—
 
 (b) dalam subseksyen (2), dengan memotong perkataan “permintaan atau” di mana-mana jua terdapat.
 
-JW514777 BM.indd 38 JW514777 BM.indd 38
+<!-- marginal: JW514777 BM.indd 38 -->
+
+<!-- marginal: JW514777 BM.indd 38 -->
 
 <!-- marginal: 10/23/09 4:41:45 AM -->
 
@@ -1248,7 +1364,9 @@ JW514777 BM.indd 38 JW514777 BM.indd 38
 
 (ii) dengan memotong subperenggan (2);
 
-JW514777 BM.indd 39 JW514777 BM.indd 39
+<!-- marginal: JW514777 BM.indd 39 -->
+
+<!-- marginal: JW514777 BM.indd 39 -->
 
 <!-- marginal: 10/23/09 4:41:45 AM -->
 
@@ -1326,7 +1444,9 @@ relief itu hendaklah dibenarkan sebagai suatu potongan daripada jumlah cukai yan
 
 (2) Wang daripada Kumpulan Wang yang disebut dalam subseksyen (1) hendaklah dipakai bagi membuat sesuatu pembayaran balik di bawah seksyen 12.
 
-JW514777 BM.indd 41 JW514777 BM.indd 41
+<!-- marginal: JW514777 BM.indd 41 -->
+
+<!-- marginal: JW514777 BM.indd 41 -->
 
 <!-- marginal: 10/23/09 4:41:45 AM -->
 
@@ -1392,7 +1512,9 @@ Pindaan-pindaan ini berkuat kuasa bagi tahun taksiran 2011 dan tahun-tahun taksi
 
 Pindaan ini mula berkuat kuasa pada tarikh Akta ini mula berkuat kuasa.
 
-JW514777 BM.indd 43 JW514777 BM.indd 43
+<!-- marginal: JW514777 BM.indd 43 -->
+
+<!-- marginal: JW514777 BM.indd 43 -->
 
 <!-- marginal: 10/23/09 4:41:46 AM -->
 
@@ -1464,7 +1586,9 @@ Pindaan ini berkuat kuasa bagi tahun taksiran 2010 dan tahun-tahun taksiran yang
 
 Pindaan yang dicadangkan selanjutnya memperuntukkan bahawa penyata yang dikemukakan di bawah seksyen ini hendaklah menyatakan pendapatan yang boleh dikenakan cukai dan amaun cukai yang kena dibayar ke atas pendapatan yang boleh dikenakan cukai itu dan ia hendaklah juga mengandungi butir-butir yang dikehendaki oleh Ketua Pengarah.
 
-JW514777 BM.indd 45 JW514777 BM.indd 45
+<!-- marginal: JW514777 BM.indd 45 -->
+
+<!-- marginal: JW514777 BM.indd 45 -->
 
 <!-- marginal: 10/23/09 4:41:46 AM -->
 
@@ -1522,7 +1646,9 @@ Pindaan ini berkuat kuasa bagi tahun taksiran 2010 dan tahun-tahun taksiran yang
 
 28. Fasal 33 bertujuan untuk meminda seksyen 58 Akta 543 berbangkit daripada kemasukan seksyen baru 49A ke dalam Akta 543 untuk mengadakan peruntukan bagi kesalahan kerana kegagalan untuk mengemukakan anggaran di bawah seksyen baru itu.
 
-JW514777 BM.indd 47 JW514777 BM.indd 47
+<!-- marginal: JW514777 BM.indd 47 -->
+
+<!-- marginal: JW514777 BM.indd 47 -->
 
 <!-- marginal: 10/23/09 4:41:46 AM -->
 
@@ -1564,7 +1690,9 @@ JW514777 BM.indd 48 JW514777 BM.indd 48
 
 <!-- page 49 -->
 
-34. Fasal 41 bertujuan untuk meminda masing-masing subseksyen 13(1), (2) dan (3) Akta 169 bagi memperuntukkan bahawa penyata bagi pelupusan harta di bawah Akta itu mestilah dikemukakan kepada Ketua Pengarah dalam masa enam puluh hari dari tarikh pelupusan harta itu.
+34. Fasal 41 bertujuan untuk meminda masing-masing subseksyen 13(1), (2) dan
+
+(3) Akta 169 bagi memperuntukkan bahawa penyata bagi pelupusan harta di bawah Akta itu mestilah dikemukakan kepada Ketua Pengarah dalam masa enam puluh hari dari tarikh pelupusan harta itu.
 
 35. Fasal 45 bertujuan untuk meminda seksyen 21A Akta 169 untuk memperuntukkan bahawa suatu perakuan yang tidak dikenakan cukai dikeluarkan kepada pelupus untuk memberitahu pelupus itu bahawa tiada keuntungan yang boleh dikenakan cukai daripada pelupusan harta yang dibuat oleh pelupus itu.
 
@@ -1582,7 +1710,9 @@ JW514777 BM.indd 48 JW514777 BM.indd 48
 
 42. Fasal 56 bertujuan untuk meminda Bahagian I Jadual 5 kepada Akta 169 untuk memperuntukkan bahawa pelupusan suatu aset yang boleh dikenakan cukai yang dibuat selepas tahun kelima atau selepasnya daripada pemerolehan aset yang boleh dikenakan cukai itu oleh seseorang individu adalah dikenakan cukai pada kadar lima peratus.
 
-JW514777 BM.indd 49 JW514777 BM.indd 49
+<!-- marginal: JW514777 BM.indd 49 -->
+
+<!-- marginal: JW514777 BM.indd 49 -->
 
 <!-- marginal: 10/23/09 4:41:46 AM -->
 

@@ -10,7 +10,15 @@
 
 3. Repeal and dissolution. 4. Transfer of powers, rights, etc. 5. Transfer of property. 6. Transfer of funds. 7. Existing contracts, etc. 8. Officer responsible for payment of pension. 9. Payment of lump sum amount.
 
-10. Payment without probate or letters of administration. 11. Payment to constitute full discharge. 12. Continuance of criminal and civil proceedings. 13. Prevention of difficulties or anomalies. 14. Cessation of regulations.
+10. Payment without probate or letters of administration.
+
+11. Payment to constitute full discharge.
+
+12. Continuance of criminal and civil proceedings.
+
+13. Prevention of difficulties or anomalies.
+
+14. Cessation of regulations.
 
 <!-- page 3 -->
 
@@ -52,27 +60,77 @@ Superannuation Fund (Sabah) (Dissolution) Act 1998.
 
 "Minister" means the Minister charged with the responsibility for finance;
 
-Ord. 20/63 "Ordinance" means the Teachers' Superannuation (Sabah). Ordinance 1963 (Sabah);
+<!-- marginal: Ord. 20/63 -->
+
+"Ordinance" means the Teachers' Superannuation
+
+<!-- marginal: (Sabah). -->
+
+Ordinance 1963 (Sabah);
 
 "pension" means an annual superannuation allowance payable under section 7 of the Ordinance, and includes any gratuity, pension, or other retirement benefit payable under the Ordinance.
 
-Repeal and 3. The Ordinance is repealed and the Board and the dissolution. Fund established thereunder are dissolved.
+<!-- marginal: Repeal and -->
 
-Transfer of 4. All powers, rights, privileges, duties, liabilities and powers, obligations which immediately before the appointed date rights, were those of the Board shall, as from that date, devolve etc. on the Government.
+3. The Ordinance is repealed and the Board and the
 
-Transfer of 5. All immovable property and assets which immediately
+<!-- marginal: dissolution. -->
 
-### property.
+Fund established thereunder are dissolved.
+
+<!-- marginal: Transfer of -->
+
+4. All powers, rights, privileges, duties, liabilities and
+
+<!-- marginal: powers, -->
+
+obligations which immediately before the appointed date
+
+<!-- marginal: rights, -->
+
+were those of the Board shall, as from that date, devolve
+
+<!-- marginal: etc. -->
+
+on the Government.
+
+<!-- marginal: Transfer of -->
+
+5. All immovable property and assets which immediately
+
+<!-- marginal: property. -->
 
 before the appointed date were vested in the Fund or in any person or body acting on its behalf shall, on the appointed date, vest in the Government.
 
-Transfer of 6. All moneys standing in, or due to be paid to, the Fund funds. shall, on the appointed date, be transferred to, and vest in the Government.
+<!-- marginal: Transfer of -->
 
-Existing 7. All deeds, bonds, agreements, instruments and working contracts, etc. arrangements subsisting immediately before the appointed date and affecting any of the property and moneys transferred under sections 5 and 6 shall be of full force and effect against or in favour of the Government and enforceable as fully and effectually as if, instead of the Board or the Fund, or any person or body acting on its behalf, the Government had been named therein or had been a party thereto.
+6. All moneys standing in, or due to be paid to, the Fund
 
-### Officer
+<!-- marginal: funds. -->
 
-8. The State Treasurer of Sabah shall be the officer responsible responsible for effecting the payment of the amounts for payment of pension. provided for in section 9.
+shall, on the appointed date, be transferred to, and vest in the Government.
+
+<!-- marginal: Existing -->
+
+7. All deeds, bonds, agreements, instruments and working
+
+<!-- marginal: contracts, etc. -->
+
+arrangements subsisting immediately before the appointed date and affecting any of the property and moneys transferred under sections 5 and 6 shall be of full force and effect against or in favour of the Government and enforceable as fully and effectually as if, instead of the Board or the Fund, or any person or body acting on its behalf, the Government had been named therein or had been a party thereto.
+
+<!-- marginal: Officer -->
+
+8. The State Treasurer of Sabah shall be the officer
+
+<!-- marginal: responsible -->
+
+responsible for effecting the payment of the amounts
+
+<!-- marginal: for payment -->
+
+<!-- marginal: of pension. -->
+
+provided for in section 9.
 
 <!-- page 5 -->
 
@@ -144,13 +202,17 @@ and
 
 (iv) the mother of a deceased eligible person or if his mother is not living, his dependant father.
 
-### Payment to
+<!-- marginal: Payment to -->
 
 11. Where payment is made in good faith under section
 
-### constitute full
+<!-- marginal: constitute full -->
 
-9 or 10 and in accordance with the provisions of this discharge. Act-
+9 or 10 and in accordance with the provisions of this
+
+<!-- marginal: discharge. -->
+
+<!-- marginal: Act- -->
 
 (a) such payment shall constitute a full and proper discharge of all the liability of the Government under the Ordinance and this Act and no eligible person shall be entitled to any further payment thereafter; and
 
@@ -200,9 +262,15 @@ amendments, additions, deletions, substitutions, adaptations, variations, altera
 
 <!-- page 8 -->
 
-Bill Cessation of
+Bill
 
-14. All regulations made under section 18 of the Teachers' regulations. Superannuation Ordinance 1963 (Sabah) shall cease to have effect on the appointed date.
+<!-- marginal: Cessation of -->
+
+14. All regulations made under section 18 of the Teachers'
+
+<!-- marginal: regulations. -->
+
+Superannuation Ordinance 1963 (Sabah) shall cease to have effect on the appointed date.
 
 ## EXPLANATORY STATEMENT
 

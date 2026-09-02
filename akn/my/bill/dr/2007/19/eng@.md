@@ -216,4 +216,6 @@ This Bill seeks to amend the Weights and Measures Act 1972 ("Act 71") to exclude
 
 ## FINANCIAL IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure. [PN(U2)2353]
+This Bill will not involve the Government in any extra financial expenditure.
+
+<!-- marginal: [PN(U2)2353] -->

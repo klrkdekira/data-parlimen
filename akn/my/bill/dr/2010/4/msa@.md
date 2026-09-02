@@ -6,19 +6,19 @@ RANG UNDANG-UNDANG peRDAGANGAN stRAteGik 2010
 
 sUsUsAN FAsAL
 
-## Bahagian i
+## BAHAGIAN I
 
 peRMULAAN
 
 1. tajuk ringkas dan permulaan kuat kuasa 2. tafsiran 3. Undang-undang yang terpakai 4. pemakaian luar wilayah
 
-## Bahagian ii
+## BAHAGIAN II
 
 peLANtikAN DAN kUAsA peNGAWAL peRDAGANGAN stRAteGik
 
 5. pelantikan pengawal, dsb. 6. Fungsi dan kuasa pengawal
 
-## Bahagian iii
+## BAHAGIAN III
 
 kAWALAN BARANG stRAteGik, BARANG tiDAk teRseNARAi DAN AktiViti teRHAD
 
@@ -32,7 +32,7 @@ kAWALAN BARANG stRAteGik, BARANG tiDAk teRseNARAi DAN AktiViti teRHAD
 
 <!-- page 2 -->
 
-## Bahagian iV
+## BAHAGIAN IV
 
 peRMit DAN peNDAFtARAN
 
@@ -62,7 +62,7 @@ peRMit DAN peNDAFtARAN
 
 25. Daftar
 
-## Bahagian V
+## BAHAGIAN V
 
 peNGUAtkUAsAAN
 
@@ -110,7 +110,7 @@ peNGUAtkUAsAAN
 
 46. Halangan pegawai diberi kuasa
 
-## Bahagian Vi
+## BAHAGIAN VI
 
 AM
 
@@ -134,7 +134,9 @@ AM
 
 56. pindaan Jadual
 
-57. kecualian dan peralihan J adual
+57. kecualian dan peralihan
+
+## J ADUAL
 
 <!-- page 5 -->
 
@@ -144,7 +146,7 @@ suatu Akta untuk mengadakan peruntukan mengenai kawalan ke atas eksport, peminda
 
 DIPERBUAT oleh parlimen Malaysia seperti yang berikut:
 
-## Bahagian i
+## BAHAGIANI
 
 peRMULAAN
 
@@ -274,7 +276,7 @@ supaya teknologi strategik itu boleh dicapai oleh mana-mana orang, sama ada di d
 
 <!-- page 11 -->
 
-## Bahagian ii
+## BAHAGIAN II
 
 peLANtikAN DAN kUAsA peNGAWAL peRDAGANGAN stRAteGik
 
@@ -314,7 +316,7 @@ peLANtikAN DAN kUAsA peNGAWAL peRDAGANGAN stRAteGik
 
 (3) pengawal hendaklah mempunyai arahan dan kawalan am ke atas pegawai diberi kuasa bagi maksud mengawal selia barang strategik, barang tidak tersenarai dan aktiviti terhad di bawah Akta ini.
 
-## Bahagian iii
+## BAHAGIAN III
 
 kAWALAN BARANG stRAteGik, BARANG tiDAk teRseNARAi DAN AktiViti teRHAD
 
@@ -496,7 +498,7 @@ pengetahuan bahawa pengeksportan, pemindahan atau pembawaan dalam transit barang
 
 <!-- page 23 -->
 
-## Bahagian iV
+## BAHAGIAN IV
 
 peRMit DAN peNDAFtARAN
 
@@ -702,7 +704,7 @@ tidak kurang daripada sepuluh juta ringgit atau dengan kedua- duanya, dan dalam 
 
 (4) Daftar hendaklah menjadi keterangan muktamad sekiranya apa-apa persoalan berbangkit tentang sama ada mana-mana orang memegang permit sah atau didaftarkan sebagai broker di bawah Akta ini.
 
-## Bahagian V
+## BAHAGIAN V
 
 peNGUAtkUAsAAN
 
@@ -972,7 +974,7 @@ melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan dend
 
 (2) seseorang yang melanggar subseksyen (1) melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan denda tidak melebihi lima juta ringgit atau dengan pemenjaraan selama tempoh tidak melebihi lima tahun atau dengan kedua- duanya.
 
-## Bahagian Vi
+## BAHAGIAN VI
 
 AM
 
@@ -1080,7 +1082,7 @@ daripada mana-mana peruntukan Akta ini, tertakluk kepada apa- apa syarat yang di
 
 <!-- page 50 -->
 
-## Jadual
+## JADUAL
 
 [seksyen 2]
 
@@ -1108,7 +1110,7 @@ HURAiAN
 
 Rang Undang-Undang ini mengadakan peruntukan mengenai kawalan ke atas eksport, pemindahan, transit dan pembrokeran barang strategik, termasuk senjata dan bahan yang berkaitan, dan aktiviti lain yang akan atau boleh memudahkan reka bentuk, pemajuan dan penghasilan senjata pemusnah besar-besaran dan sistem penghantarannya dan bagi perkara lain yang berkaitan dengannya, selaras dengan keselamatan negara dan obligasi antarabangsa Malaysia.
 
-## Bahagian i
+## BAHAGIAN I
 
 2. Bahagian i Rang Undang-Undang mengandungi perkara permulaan.
 
@@ -1124,7 +1126,7 @@ percanggahan atau ketidakselarasan antara peruntukan Akta yang dicadangkan denga
 
 Fasal 4 mengadakan peruntukan mengenai pemakaian luar wilayah Akta yang dicadangkan.
 
-## Bahagian ii
+## BAHAGIAN II
 
 3. Bahagian ii Rang Undang-Undang mengadakan peruntukan mengenai pelantikan dan kuasa pengawal perdagangan strategik.
 
@@ -1132,7 +1134,7 @@ Fasal 5 mengadakan peruntukan mengenai pelantikan pengawal perdagangan strategik
 
 Fasal 6 memperuntukkan mengenai fungsi dan kuasa pengawal.
 
-## Bahagian iii
+## BAHAGIAN III
 
 4. Bahagian iii Rang Undang-Undang memperkatakan kawalan barang strategik, barang tidak tersenarai dan aktiviti terhad.
 
@@ -1150,7 +1152,7 @@ Fasal 12 bertujuan untuk menghendaki seseorang yang berurusan dengan barang tida
 
 puluh hari sebelum eksport itu dilaksanakan jika dia diberitahu oleh pihak Berkuasa yang berkenaan atau selainnya tahu atau mempunyai sebab untuk mempercayai bahawa barang tidak tersenarai itu akan atau mungkin digunakan bagi suatu aktiviti terhad. pengeksportan barang tidak tersenarai sedemikian tertakluk kepada kelulusan pihak Berkuasa yang berkenaan.
 
-## Bahagian iV
+## BAHAGIAN IV
 
 5. Bahagian iV Rang Undang-Undang memperkatakan permit dan pendaftaran yang dikehendaki di bawah Akta yang dicadangkan.
 
@@ -1172,7 +1174,7 @@ Fasal 25 menghendaki pengawal untuk menyimpan dan menyenggarakan daftar pemegang
 
 <!-- page 53 -->
 
-## Bahagian V
+## BAHAGIAN V
 
 6. Bahagian V Rang Undang-Undang mengandungi peruntukan berhubungan dengan penguatkuasaan Akta yang dicadangkan.
 
@@ -1214,7 +1216,7 @@ Fasal 45 bertujuan untuk memperuntukkan bahawa tiada kos atau ganti rugi yang be
 
 Fasal 46 bertujuan untuk menjadikan halangan pegawai diberi kuasa dalam melaksanakan fungsinya di bawah Akta yang dicadangkan suatu kesalahan.
 
-## Bahagian Vi
+## BAHAGIAN VI
 
 7. Bahagian Vi Rang Undang-Undang mengandungi peruntukan am.
 

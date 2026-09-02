@@ -18,13 +18,31 @@ D.R. 6/2006
 
 ## MAJLIS PEMBANGUNAN KEMAHIRAN KEBANGSAAN
 
-3. Penubuhan Mailis 4. Fungsi Majlis 5. Keanggotaan Majlis 6. Timbalan Pengerusi 7. Setiausaha 8. Jawatankuasa 9. Pelantikan, pelantikan semula, pembatalan dan peletakan jawatan 10. Anggota hendaklah menumpukan masa kepada Majlis 11. Pengosongan jawatan 12. Mesyuarat 13. Majlis boleh mengundang orang lain menghadiri mesyuarat 14. Saraan atau elaun 15. Minit 16. Tatacara
+3. Penubuhan Mailis 4. Fungsi Majlis 5. Keanggotaan Majlis 6. Timbalan Pengerusi 7. Setiausaha 8. Jawatankuasa 9. Pelantikan, pelantikan semula, pembatalan dan peletakan jawatan
+
+10. Anggota hendaklah menumpukan masa kepada Majlis
+
+11. Pengosongan jawatan
+
+12. Mesyuarat
+
+13. Majlis boleh mengundang orang lain menghadiri mesyuarat
+
+14. Saraan atau elaun
+
+15. Minit
+
+16. Tatacara
 
 ## BAHAGIAN III
 
 ## PELANTIKAN PEGAWAI
 
-17. Pelantikan pegawai 18. Pewakilan kuasa 19. Kuasa Menteri untuk memberikan arahan
+17. Pelantikan pegawai
+
+18. Pewakilan kuasa
+
+19. Kuasa Menteri untuk memberikan arahan
 
 <!-- page 2 -->
 
@@ -86,19 +104,59 @@ Fa sal
 
 ## PEMERIKSAAN PENYEDIA LATIHAN KEMAHIRAN
 
-37. Inspektor 38. Pemeriksaan hendaklah dibuat dari semasa ke semasa 39. Kuasa untuk memeriksa penyedia latihan kemahiran
+37. Inspektor
+
+38. Pemeriksaan hendaklah dibuat dari semasa ke semasa
+
+39. Kuasa untuk memeriksa penyedia latihan kemahiran
 
 ## BAHAGIAN IX
 
 ## PENGUATKUASAAN DAN PENYIASATAN
 
-40. Pegawai penguat kuasa 41. Kuasa pegawai penguat kuasa 42. Kuasa membuat pemeriksaan 43. Pengemukaan dokumen, dsb. 44. Penyitaan dokumen, dsb. 45. Permohonan waran geledah 46. Kuasa Majistret untuk mengeluarkan waran geledah 47. Kuasa untuk memasuki premis tanpa waran atau notis 48. Penggeledahan dan penyitaan tanpa waran 49. Kuasa untuk mengelak 50. Pengemukaan kad kuasa 51. Tiada hak ke atas kos prosiding, kerugian atau relief lain, dsb.
+40. Pegawai penguat kuasa
+
+41. Kuasa pegawai penguat kuasa
+
+42. Kuasa membuat pemeriksaan
+
+43. Pengemukaan dokumen, dsb.
+
+44. Penyitaan dokumen, dsb.
+
+45. Permohonan waran geledah
+
+46. Kuasa Majistret untuk mengeluarkan waran geledah
+
+47. Kuasa untuk memasuki premis tanpa waran atau notis
+
+48. Penggeledahan dan penyitaan tanpa waran
+
+49. Kuasa untuk mengelak
+
+50. Pengemukaan kad kuasa
+
+51. Tiada hak ke atas kos prosiding, kerugian atau relief lain, dsb.
 
 ## BAHAGIAN X
 
 ## KESALAHAN DAN PENALTI
 
-52. Pengambilan pelatih tanpa sijil pentauliahan 53. Larangan ke atas pengiklanan, dsb. 54. Kawalan pengiklanan 55. Kesalahan dan penalti yang berhubungan dengan persijilan 56. Penalti bagi pelanggaran syarat 57. Kesalahan dan penalti yang berhubungan dengan permohonan yang dibuat di bawah Akta 58. Kesalahan dan penalti yang berhubungan dengan sijil pentauliahan 59. Kesalahan yang berhubungan dengan pemeriksaan, penguatkuasaan dan penyiasatan
+52. Pengambilan pelatih tanpa sijil pentauliahan
+
+53. Larangan ke atas pengiklanan, dsb.
+
+54. Kawalan pengiklanan
+
+55. Kesalahan dan penalti yang berhubungan dengan persijilan
+
+56. Penalti bagi pelanggaran syarat
+
+57. Kesalahan dan penalti yang berhubungan dengan permohonan yang dibuat di bawah Akta
+
+58. Kesalahan dan penalti yang berhubungan dengan sijil pentauliahan
+
+59. Kesalahan yang berhubungan dengan pemeriksaan, penguatkuasaan dan penyiasatan
 
 <!-- page 4 -->
 
@@ -194,7 +252,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 "penyedia latihan kemahiran" ertinya suatu pertubuhan perbadanan, organisasi atau Iain-lain kumpulan orang yang mengendalikan program latihan kemahiran yang maksud utamanya adalah bagi memenuhi kehendak Standard berkaitan;
 
-"perkhidmatan awam" ertinya perkhidmatan awam di bawah Perkara 132(1) Perlembagaan Persekutuan;
+"perkhidmatan awam" ertinya perkhidmatan awam di bawah
+
+## Perkara 132(1) Perlembagaan Persekutuan;
 
 "premis" ertinya mana-mana bangunan atau tempat lain yang digunakan untuk latihan, penginapan dan kemudahan lain untuk pelatih dan kakitangan penyedia latihan kemahiran atau pusat bertauliah tetapi tidak termasuk mana-mana tanah yang didudukinya;
 
@@ -1224,4 +1284,4 @@ suatu program latihan yang dikatakan sebagai suatu program yang ditauliahkan tan
 
 Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini.
 
-[PN(U2)2132]
+<!-- marginal: [PN(U2)2132] -->

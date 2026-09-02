@@ -40,43 +40,63 @@ memasukkan selepas perkataan "Mahkamah Persekutuan" perkataan ". Mahkamah Rayuan
 
 <!-- page 2 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Seksyen SB Akta ibu adalah dipinda— sekyen SB.
+4. Seksyen SB Akta ibu adalah dipinda—
+
+<!-- marginal: sekyen SB. -->
 
 (a) dalam subseksyen (1) dengan memasukkan selepas perkataan "Mahkamah Persekuiuan" perkataan ", Mahkamah Rayuan"; dan
 
 (b) dalam subseksyen (2) dengan memasukkan selepas perkataan "Hakim-hakim Besar" perkataan ", Presiden".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-5. Seksyen 8c Akta ibu adalah dipinda dengan 8c. memasukkan selepas perkataan "Mahkamah Persekutuan" perkataan ", Mahkamah Rayuan".
+5. Seksyen 8c Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen -->
 
-6. Seksyen 9 Akta ibu adalah dipinda— sekyen 9
+8c. memasukkan selepas perkataan "Mahkamah Persekutuan" perkataan ", Mahkamah Rayuan".
 
-(a) dalam nota birai dan di mana-mana j ua terdapat dengan memasukkan selepas perkataan "Ketua Hakim Negara" perkataan ", Presiden"; dan
+<!-- marginal: Pindaan -->
+
+6. Seksyen 9 Akta ibu adalah dipinda—
+
+<!-- marginal: sekyen 9 -->
+
+(a) dalam nota birai dan di mana-mana j ua terdapat dengan memasukkan
+
+<!-- marginal: selepas -->
+
+perkataan "Ketua Hakim Negara" perkataan ", Presiden"; dan
 
 (b) dalam perenggan (a) dengan menggantikan perkataan "kedua-dua" dengan perkataan "kesemua".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-7. Subseksyen 15B(5) Akta ibu adalah dipinda dengan sekyen 15B menggantikan perenggan (b) dengan perenggan yang berikut:
+7. Subseksyen 15B(5) Akta ibu adalah dipinda dengan
+
+<!-- marginal: sekyen 15B -->
+
+menggantikan perenggan (b) dengan perenggan yang berikut:
 
 "(b) seorang Hakim Mahkamah Persekutuan atau Mahkamah Rayuan atau Presiden atau Hakim Besar; atau".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
 8. Jadual Pertama kepada Akta ibu adalah dipinda—
 
 ## Jadual
 
-Pertama
+<!-- marginal: Pertama -->
 
 (a) dengan memasukkan selepas butiran 1 butiran yang berikut:
 
-(1) (2) (3) Hakim Gaji Tarikh Muta (berpencen) Berkuatkuasa-
+(1) (2)
+
+<!-- marginal: (3) -->
+
+Hakim Gaji Tarikh Muta (berpencen) Berkuatkuasa-
 
 1A. Presiden RM10370.00 1-7-1994 Mahkamah sebulan Rayuan
 
@@ -86,17 +106,11 @@ Pertama
 
 (b) dengan memasukkan selepas butiran 4 butiran yang berikut:
 
-(1) (2)
-
-<!-- marginal: (3) -->
+(1) (2) (3)
 
 Hakim Gaji Tarikh Mula (berpencen) Berkuatkuasa
 
-4A. Hakim RM9265.00
-
-<!-- marginal: 1-7-1994 -->
-
-Mahkamah sebulan Rayuan
+4A. Hakim RM9265.00 1-7-1994 Mahkamah sebulan Rayuan
 
 <!-- marginal: Pindaan -->
 
@@ -114,25 +128,11 @@ Mahkamah sebulan Rayuan
 
 perenggan 1 subperenggan yang berikut:
 
-(1)
+(1) (2)
 
-<!-- marginal: (2) -->
+Hakim Tarikh Mula Berkuatkuasa
 
-Hakim
-
-<!-- marginal: Tarikh -->
-
-<!-- marginal: Mula -->
-
-Berkuatkuasa
-
-1A. Presiden
-
-<!-- marginal: 1-7-1994 -->
-
-Mahkamah Rayuan— ( i) rumah khas jabatan percuma berperabot lengkap, atau sebagai gantinya subsidi sewa rumah sebanyak RM2500.00 sebulan; dan ( i i) seorang butler, dua orang tukang kebun dan seorang penjaga rumah dan peruntukan sebanyak RM 1500.00 setahun untuk penyelenggaraan rumah dan halaman
-
-<!-- marginal: "; dan -->
+1A. Presiden 1-7-1994 Mahkamah Rayuan— ( i) rumah khas jabatan percuma berperabot lengkap, atau sebagai gantinya subsidi sewa rumah sebanyak RM2500.00 sebulan; dan ( i i) seorang butler, dua orang tukang kebun dan seorang penjaga rumah dan peruntukan sebanyak RM 1500.00 setahun untuk penyelenggaraan rumah dan halaman "; dan
 
 <!-- page 4 -->
 
@@ -150,7 +150,11 @@ Hakim Tarikh Mula Berkuatkuasa
 
 (b) dalam perenggan "2. ELAUN KERAIAN"—
 
-( i) dengan memasukkan selepas subperenggan 1 subperenggan yang berikut:
+<!-- marginal: ( i) dengan -->
+
+memasukkan selepas subperenggan 1 subperenggan yang
+
+<!-- marginal: berikut: -->
 
 (l) (2) (3)
 
@@ -160,15 +164,9 @@ Hakim Amaitn Tarikh Muia Berkuatkuasa
 
 <!-- page 5 -->
 
-(ii) dengan memasukkan
+(ii) dengan memasukkan selepas subperenggan 4 subperenggan yang berikut:
 
-<!-- marginal: selepas -->
-
-subperenggan 4 subperenggan yang berikut:
-
-CD (2)
-
-<!-- marginal: (3) -->
+CD (2) (3)
 
 Hakim Amaun Tarikh Mula Berkuatkuasa
 
@@ -176,7 +174,9 @@ Hakim Amaun Tarikh Mula Berkuatkuasa
 
 (c) dalam subperenggan "12. (a) Cuti Rehat"—
 
-(i) dengan memasukkan sebelum perkataan "Hakim Besar" dalam subsubperenggan (ii) perkataan "Presiden,"; dan
+(i) dengan memasukkan sebelum perkataan "Hakim Besar" dalam subsubperenggan
+
+(ii) perkataan "Presiden,"; dan
 
 (ii) dengan memasukkan selepas subsub- perenggan (ii) subsubperenggan yang berikut:
 
@@ -186,25 +186,17 @@ Hakim Amaun Tarikh Mula Berkuatkuasa
 
 ## ELAUN
 
-<!-- marginal: KHAS -->
+## KHAS
 
 ## KEHAKIMAN"—
 
-(i) dengan memasukkan
+(i) dengan memasukkan selepas subperenggan 1 subperenggan yang berikut;
 
-<!-- marginal: selepas -->
-
-subperenggan 1 subperenggan yang berikut;
-
-(1) (2)
-
-<!-- marginal: (3) -->
+(1) (2) (3)
 
 Hakim Amaun Tarikh Mula Berkuatkuasa
 
-IA. Presiden RM3000.00 1-7-1994 Mahkamah sebulan Rayuan
-
-<!-- marginal: "; dan -->
+IA. Presiden RM3000.00 1-7-1994 Mahkamah sebulan Rayuan "; dan
 
 <!-- page 6 -->
 

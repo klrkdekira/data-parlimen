@@ -1080,7 +1080,9 @@ whichever is the earlier.
 
 ### Amendment of section 40
 
-38. Section 40 of the principal Act is amended in paragraph (4)(b) by substituting for the words “three years” the words “two years”.
+38. Section 40 of the principal Act is amended in paragraph (4)(b) by substituting for the words “three years” the words “two
+
+<!-- marginal: years”. -->
 
 <!-- page 40 -->
 

@@ -12,13 +12,21 @@
 
 ## PRELIMINARY
 
-1. Short title, application and commencement. 2. Application. 3. Interpretation. 4. General title of form.
+1. Short title, application and commencement.
+
+2. Application.
+
+3. Interpretation.
+
+4. General title of form.
 
 ## PART II
 
 ## EFFECT OF NON-COMPLIANCE
 
-5. Non-compliance. 6. Application to set aside for irregularity.
+5. Non-compliance.
+
+6. Application to set aside for irregularity.
 
 ## PART
 
@@ -36,7 +44,13 @@ III
 
 ## SUMMONS
 
-8. Form of summons. 9. Copies of summons. 10. Issue and service. 11. Time of service. 12. Loss of summons.
+8. Form of summons. 9. Copies of summons.
+
+10. Issue and service.
+
+11. Time of service.
+
+12. Loss of summons.
 
 <!-- page 2 -->
 
@@ -44,7 +58,11 @@ III
 
 ## APPLICATIONS
 
-13. Form of application. 14. Application of sections 9, 10, 11 and 12. 15. Application for divorce.
+13. Form of application.
+
+14. Application of sections 9, 10, 11 and 12.
+
+15. Application for divorce.
 
 ## CHAPTER 4
 
@@ -62,13 +80,33 @@ IV
 
 ## GENERAL
 
-17. Interpretation. 18. Joinder of parties. 19. Changes of parties, 20. Misjoinder or nonjoinder of parties. 21. Amendment and services. 22. Abatement of action. 23. Devolution of interest.
+17. Interpretation. 18. Joinder of parties.
+
+19. Changes of parties,
+
+20. Misjoinder or nonjoinder of parties.
+
+21. Amendment and services.
+
+22. Abatement of action.
+
+23. Devolution of interest.
 
 ## CHAPTER 2
 
 ## PERSONS UNDER DISABILITY
 
-24. Person under disability. 25. Consent on behalf of person under disability. 26. General provisions as to disability. 27. Irregular proceedings. 28. Removal of guardian ad litem. 29. Minor plaintiff attaining majority. 30. Minor defendant attaining majority.
+24. Person under disability.
+
+25. Consent on behalf of person under disability.
+
+26. General provisions as to disability.
+
+27. Irregular proceedings.
+
+28. Removal of guardian ad litem.
+
+29. Minor plaintiff attaining majority. 30. Minor defendant attaining majority.
 
 <!-- page 3 -->
 
@@ -78,7 +116,11 @@ IV
 
 ## POOR PERSONS
 
-31. Application to sue or defend as a poor person. 32. Poor person not to discontinue, etc. without leave. 33. Costs.
+31. Application to sue or defend as a poor person.
+
+32. Poor person not to discontinue, etc. without leave.
+
+33. Costs.
 
 ## PART V
 
@@ -88,7 +130,13 @@ IV
 
 35. Service on Peguam Syarie.
 
-36. Change of Peguam Syarie. 37. Discharge of Peguam Syarie. 38. Discharge on application of Peguam Syarie. 39. Death.
+36. Change of Peguam Syarie.
+
+37. Discharge of Peguam Syarie.
+
+38. Discharge on application of Peguam Syarie.
+
+39. Death.
 
 ## PART VI
 
@@ -98,9 +146,27 @@ IV
 
 ## SERVICE WITHIN JURISDICTION
 
-40. Address for service. 41. Mode of service. 42. Non-acceptance.
+40. Address for service.
 
-43. Service on Peguam Syarie. 44. Service at address for service. 45. Day of appearance. 46. Place and time of service. 47. Special cases. 48. Substituted service. 49. Proof of service. 50. Variation of orders. 51. Issue of warrant in lieu of or in addition to summons.
+41. Mode of service.
+
+42. Non-acceptance.
+
+43. Service on Peguam Syarie.
+
+44. Service at address for service.
+
+45. Day of appearance.
+
+46. Place and time of service.
+
+47. Special cases.
+
+48. Substituted service.
+
+49. Proof of service.
+
+50. Variation of orders. 51. Issue of warrant in lieu of or in addition to summons.
 
 <!-- page 4 -->
 
@@ -108,13 +174,31 @@ IV
 
 ## SERVICE OUT OF THE JURISDICTION
 
-52. When allowed. 53. Form of order. 54. Mode of service out of jurisdiction within Malaysia. 55. Variation order.
+52. When allowed.
+
+53. Form of order.
+
+54. Mode of service out of jurisdiction within Malaysia.
+
+55. Variation order.
 
 ## PART VII
 
 ## INTERPLEADER
 
-56. Entitlement to relief by way of interpleader. 57. Claim to goods, etc. taken in execution. 58. Mode of application. 59. Service of summons. 60. Powers of Court hearing summons. 61. Other powers. 62. Trial of interpleader issue.
+56. Entitlement to relief by way of interpleader.
+
+57. Claim to goods, etc. taken in execution.
+
+58. Mode of application.
+
+59. Service of summons.
+
+60. Powers of Court hearing summons.
+
+61. Other powers.
+
+62. Trial of interpleader issue.
 
 ## PART VIII
 
@@ -130,13 +214,31 @@ IV
 
 <!-- page 5 -->
 
-(Federal Territories) 75. Order for payment out of Court. 76. Costs. 77. Other relief. 78. Tender. 79. Counterclaims.
+(Federal Territories)
+
+75. Order for payment out of Court.
+
+76. Costs.
+
+77. Other relief.
+
+78. Tender.
+
+79. Counterclaims.
 
 ## PART X
 
 ## AMENDMENT
 
-80. Amendment of summons or pleading. 81. Amendment to application. 82. Defective proceedings. 83. Mode of amendment. 84. Slip or omission.
+80. Amendment of summons or pleading.
+
+81. Amendment to application.
+
+82. Defective proceedings.
+
+83. Mode of amendment.
+
+84. Slip or omission.
 
 ## PART XI
 
@@ -158,11 +260,7 @@ IV
 
 <!-- page 6 -->
 
-96. Effect of withdrawal on future proceedings.
-
-97. Stay.
-
-98. Withdrawal of defence.
+96. Effect of withdrawal on future proceedings. 97. Stay. 98. Withdrawal of defence.
 
 99. Sulh.
 
@@ -230,13 +328,35 @@ Syariah Court Civil Procedure 7 (Federal Territories)
 
 ## HEARING
 
-119. Hearing in Court. 120. Appearance. 121. Absence of parties. 122. Counterclaims. 123. Mutual claims. 124. Notes of evidence. 125. Documents or exhibits. 126. Order of speeches. 127. Power of Court. 128. Trial not concluded. 129. Adjournment.
+119. Hearing in Court.
+
+120. Appearance.
+
+121. Absence of parties.
+
+122. Counterclaims.
+
+123. Mutual claims.
+
+124. Notes of evidence.
+
+125. Documents or exhibits.
+
+126. Order of speeches.
+
+127. Power of Court.
+
+128. Trial not concluded.
+
+129. Adjournment.
 
 ## PART XVI
 
 ## JUDGMENT AND ORDERS
 
-130. Judgment. 131. Consent judgment. 132. Terms of judgment or order to be settled by Court. 133. Instalments, when due. 134. Order for instalments. 135. Judgment, etc. requiring act to be done; time for doing it. 136. Date of judgment or order. 137. Judgment on movable property.
+130. Judgment.
+
+131. Consent judgment. 132. Terms of judgment or order to be settled by Court. 133. Instalments, when due. 134. Order for instalments. 135. Judgment, etc. requiring act to be done; time for doing it. 136. Date of judgment or order. 137. Judgment on movable property.
 
 ## PART XVII
 
@@ -302,15 +422,29 @@ Syariah Court Civil Procedure 7 (Federal Territories)
 
 163. Seizure and delivery.
 
-164. Deposit of expenses.
-
-165. Entry of premises.
+164. Deposit of expenses. 165. Entry of premises.
 
 166. Receipt.
 
 <!-- page 9 -->
 
-(Federal Territories) 167. Application of proceeds. 168. Expenses. 169. Return of order. 170. List of inventory: 171. Direction as to performance of bailiffs duty. 172. Delivery to bailiff. 173. Payment out of Court. 174. Sale.
+(Federal Territories)
+
+167. Application of proceeds.
+
+168. Expenses.
+
+169. Return of order.
+
+170. List of inventory:
+
+171. Direction as to performance of bailiffs duty.
+
+172. Delivery to bailiff.
+
+173. Payment out of Court.
+
+174. Sale.
 
 ## CHAPTER 4
 
@@ -318,7 +452,15 @@ Syariah Court Civil Procedure 7 (Federal Territories)
 
 ## SUMMONS
 
-175. Application. 176. Application for judgment debtor summons. 177. Issue of judgment debtor summons. 178. Examination of judgment debtor. 179. Application for judgment notice. 180. Issue of judgment notice. 181. Hearing of judgment notice. 182. Order of committal. 183. Payment by judgment debtor. 184. Certificate of satisfaction. 185. Date of committal order.
+175. Application.
+
+176. Application for judgment debtor summons.
+
+177. Issue of judgment debtor summons.
+
+178. Examination of judgment debtor. 179. Application for judgment notice.
+
+180. Issue of judgment notice. 181. Hearing of judgment notice. 182. Order of committal. 183. Payment by judgment debtor. 184. Certificate of satisfaction. 185. Date of committal order.
 
 ## PART XIX
 
@@ -340,19 +482,59 @@ Syariah Court Civil Procedure 7 (Federal Territories)
 
 <!-- page 10 -->
 
-188. Notice of application shall be filed. 189. Service of application. 190. Affidavit. 191. Copies of the documents. 192. Adjournment. 193. Non-appearance. 194. Order made ex pane may be set aside. 195. Application in a proceedings.
+188. Notice of application shall be filed.
+
+189. Service of application.
+
+190. Affidavit.
+
+191. Copies of the documents.
+
+192. Adjournment.
+
+193. Non-appearance.
+
+194. Order made ex pane may be set aside.
+
+195. Application in a proceedings.
 
 ## CHAPTER 2
 
 ## INTERIM ORDER
 
-196. Application. 197. Power of Court to grant interim order. 198. No appeal against interim order. 199. Detention, preservation, etc. of subject matter of cause or matter. 200. Injunction. 201. An interim order as to hadhanah. 202. Interim order as to maintenance. 203. Power to order samples to be taken, etc. 204. Sale of perishable property, etc. 205. Order for early trial. 206. Recovery of movable property subject to lien, etc. 207. Allowance of income of property the subject matter of proceedings.
+196. Application.
+
+197. Power of Court to grant interim order.
+
+198. No appeal against interim order.
+
+199. Detention, preservation, etc. of subject matter of cause or matter.
+
+200. Injunction.
+
+201. An interim order as to hadhanah.
+
+202. Interim order as to maintenance.
+
+203. Power to order samples to be taken, etc.
+
+204. Sale of perishable property, etc.
+
+205. Order for early trial.
+
+206. Recovery of movable property subject to lien, etc.
+
+207. Allowance of income of property the subject matter of proceedings.
 
 ## PART XXI
 
 ## POWERS OF JUDGE AND REGISTRAR
 
-208. Powers of Registrar. 209. Powers of Judge. 210. Appeal against judgment, etc. of Registrar to Judge in Chambers.
+208. Powers of Registrar.
+
+209. Powers of Judge.
+
+210. Appeal against judgment, etc. of Registrar to Judge in Chambers.
 
 ## PART XXII
 
@@ -362,13 +544,43 @@ Syariah Court Civil Procedure 7 (Federal Territories)
 
 <!-- page 11 -->
 
-(Federal Territories) 213. Payment into bank. 214. Notice to person entitled. 215. Payment out. 216. Mode of payment. 217. Remittance by post. 218. Books of account. 219. Service cost. 220. Unclaimed fund, etc.
+(Federal Territories)
+
+213. Payment into bank.
+
+214. Notice to person entitled.
+
+215. Payment out.
+
+216. Mode of payment.
+
+217. Remittance by post.
+
+218. Books of account.
+
+219. Service cost.
+
+220. Unclaimed fund, etc.
 
 ## PART XXIII
 
 ## COSTS. ALLOWANCE AND COURT FEES
 
-221. Court fees. 222. Costs. 223. Assessment of costs. 224. Witnesses. 225. Expert witnesses. 226. Subsistence and travelling allowances. 227. Attendance in more than one proceedings. 228. Witness not called.
+221. Court fees.
+
+222. Costs.
+
+223. Assessment of costs.
+
+224. Witnesses.
+
+225. Expert witnesses.
+
+226. Subsistence and travelling allowances.
+
+227. Attendance in more than one proceedings.
+
+228. Witness not called.
 
 ## PART XXIV
 
@@ -502,9 +714,17 @@ any rules made thereunder shall not render any proceedings void unless the Court
 
 <!-- page 16 -->
 
-Application
+<!-- marginal: Application -->
 
-6. Any application to set aside for irregularity any to set aside for proceedings, step taken in any proceedings or any irregularity. document, judgment or order therein shall not be allowed unless it is made within a reasonable time and before the party applying has taken a fresh step after becoming aware of the irregularity.
+6. Any application to set aside for irregularity any to set aside
+
+<!-- marginal: for -->
+
+proceedings, step taken in any proceedings or any
+
+<!-- marginal: irregularity. -->
+
+document, judgment or order therein shall not be allowed unless it is made within a reasonable time and before the party applying has taken a fresh step after becoming aware of the irregularity.
 
 ## PART
 
@@ -516,9 +736,19 @@ III
 
 ## GENERAL
 
-Mode of
+<!-- marginal: Mode of -->
 
-7. (1) Subject to subsection (2) or any other written beginning law, every civil proceedings in a Court shall be begun civil proceedings. by summons.
+7. (1) Subject to subsection (2) or any other written
+
+<!-- marginal: beginning -->
+
+law, every civil proceedings in a Court shall be begun
+
+<!-- marginal: civil -->
+
+<!-- marginal: proceedings. -->
+
+by summons.
 
 (2) All proceedings in respect of any of the matters specified in the Second Schedule shall be begun by application.
 
@@ -526,21 +756,29 @@ Mode of
 
 ## SUMMONS
 
-Form of
+<!-- marginal: Form of -->
 
-8. Every summons— summons.
+8. Every summons—
+
+<!-- marginal: summons. -->
 
 (a) shall be in Form MS 2; and
 
 (b) shall be accompanied by a statement of claim which shall comply with the requirements of section 63.
 
-Copies of
+<!-- marginal: Copies of -->
 
-9. Every summons against a single defendant shall be summons. presented for filing in triplicate and an additional copy shall be presented for every additional defendant.
+9. Every summons against a single defendant shall be
 
-Issue and
+<!-- marginal: summons. -->
 
-10. (1) The Registrar shall examine the summons and— service.
+presented for filing in triplicate and an additional copy shall be presented for every additional defendant.
+
+<!-- marginal: Issue and -->
+
+10. (1) The Registrar shall examine the summons and—
+
+<!-- marginal: service. -->
 
 (a) if the summons appears to be in proper form; and
 
@@ -592,29 +830,49 @@ shall be made by notice in Form MS 3 and supported by an affidavit sworn in acco
 
 (3) In an application, the objector shall be referred to as the respondent.
 
-Application
+<!-- marginal: Application -->
 
-14. Sections 9, 10, 11 and 12 shall apply, with such of sections 9, modifications as may be necessary, in relation to an 10, II and
+14. Sections 9, 10, 11 and 12 shall apply, with such
+
+<!-- marginal: of sections 9, -->
+
+modifications as may be necessary, in relation to an
+
+<!-- marginal: 10, II and -->
 
 12. application as they apply in relation to summons.
 
-Application
+<!-- marginal: Application -->
 
-15. Notwithstanding anything in this Part, an application for divorce. for divorce shall be made in accordance with the Act 303. procedures laid down in the Islamic Family Law (Federal Territories) Act 1984, and further proceedings in respect thereof shall be conducted in accordance with that Act.
+15. Notwithstanding anything in this Part, an application
+
+<!-- marginal: for divorce. -->
+
+for divorce shall be made in accordance with the
+
+<!-- marginal: Act 303. -->
+
+procedures laid down in the Islamic Family Law (Federal Territories) Act 1984, and further proceedings in respect thereof shall be conducted in accordance with that Act.
 
 ## CHAPTER 4
 
 ## ORAL CLAIM OR DEFENCE
 
-Oral claim
+<!-- marginal: Oral claim -->
 
-16. (1) Notwithstanding anything in this Act, the Court or defence. may, in its discretion, allow any claim or defence to be made orally:
+16. (1) Notwithstanding anything in this Act, the Court
+
+<!-- marginal: or defence. -->
+
+may, in its discretion, allow any claim or defence to be made orally:
 
 Provided that in such a case the Court shall record the particulars of the claim or defence having regard to the requirements of this Act relating to summons or applications, as the case may be.
 
 (2) The Court shall serve a copy of the record made under subsection (1) on the party for whom the particulars of the claim or defence, as the case may be, is recorded.
 
-(3) On receipt of the record referred to in subsection (2), the party on whom it is served shall—
+(3) On receipt of the record referred to in subsection
+
+(2), the party on whom it is served shall—
 
 (a) certify the particulars contained therein by setting down his signature or affixing his right thumbprint on the record;
 
@@ -658,15 +916,27 @@ in one action as plaintiffs or as defendants with the leave of the Court or wher
 
 <!-- page 20 -->
 
-Changes of
+<!-- marginal: Changes of -->
 
-19. (1) Subject to subsection (2), the Court may, on parties. its own motion or on the application of any parties at any stage of the proceedings, strike out, substitute or add any party in such manner and upon such terms as may be just and proper.
+19. (1) Subject to subsection (2), the Court may, on
+
+<!-- marginal: parties. -->
+
+its own motion or on the application of any parties at any stage of the proceedings, strike out, substitute or add any party in such manner and upon such terms as may be just and proper.
 
 (2) No person shall be made plaintiff without his consent or, if under disability, the consent of his representatives which shall be signified in writing or in such other manner as may be authorized.
 
-Misjoinder or
+<!-- marginal: Misjoinder or -->
 
-20. (1) Subject to subsection (2), at any stage of the nonjoinder of proceedings in any cause or matter the Court may, as parties. it thinks just and either of its own motion or on application—
+20. (1) Subject to subsection (2), at any stage of the
+
+<!-- marginal: nonjoinder of -->
+
+proceedings in any cause or matter the Court may, as
+
+<!-- marginal: parties. -->
+
+it thinks just and either of its own motion or on application—
 
 (a) order any party who has been improperly or unnecessarily made a party or who has for any reason ceased to be a proper or necessary party, to cease to be a party; or
 
@@ -674,9 +944,13 @@ Misjoinder or
 
 (2) No person shall be added as a plaintiff without his consent which shall be signified in writing or in such other manner as may be authorized.
 
-Amendment
+<!-- marginal: Amendment -->
 
-21. (1) Where any change of parties occur during the and services. pendency of any proceedings—
+21. (1) Where any change of parties occur during the
+
+<!-- marginal: and services. -->
+
+pendency of any proceedings—
 
 (a) the title of the proceedings shall be amended accordingly; and
 
@@ -726,29 +1000,59 @@ transmission or devolution of the interest, estate, title or liability of any pa
 
 ## PERSONS UNDER DISABILITY
 
-Person under
+<!-- marginal: Person under -->
 
-24. Any person under disability may sue or be sued by disability his guardian ad litem duly approved by the Court.
+24. Any person under disability may sue or be sued by
 
-Consent on
+<!-- marginal: disability -->
 
-25. A consent or waiver which is given on behalf of a behalf of person under disability by his guardian ad litem with the person under disability. approval of the Court shall be binding on the person under disability.
+his guardian ad litem duly approved by the Court.
 
-General
+<!-- marginal: Consent on -->
 
-26. Where a plaintiff is a person under disability— provisions as to disability.
+25. A consent or waiver which is given on behalf of a
+
+<!-- marginal: behalf of -->
+
+person under disability by his guardian ad litem with the
+
+<!-- marginal: person under -->
+
+<!-- marginal: disability. -->
+
+approval of the Court shall be binding on the person under disability.
+
+<!-- marginal: General -->
+
+26. Where a plaintiff is a person under disability—
+
+<!-- marginal: provisions as -->
+
+<!-- marginal: to disability. -->
 
 (a) no settlement or compromise shall be valid without the Court's sanction;
 
 (b) all money or other property recovered for the plaintiff in, or in consequence of, the action shall be paid into Court or deposited in Court unless the Court otherwise orders.
 
-Irregular
+<!-- marginal: Irregular -->
 
-27. Any proceedings taken by or against a person under proceedings. disability otherwise than in accordance with this Act or Islamic Law shall be dismissed and any judgment or order made therein may be set aside.
+27. Any proceedings taken by or against a person under
 
-Removal of
+<!-- marginal: proceedings. -->
 
-28. (1) The Court may for sufficient reason in accordance guardian ad with Islamic Law remove any guardian ad litem and litem. replace him by another, being a fit and proper person and willing to act.
+disability otherwise than in accordance with this Act or Islamic Law shall be dismissed and any judgment or order made therein may be set aside.
+
+<!-- marginal: Removal of -->
+
+28. (1) The Court may for sufficient reason in accordance
+
+<!-- marginal: guardian ad -->
+
+with Islamic Law remove any guardian ad litem and
+
+<!-- marginal: litem. -->
+
+replace him by another, being a fit and proper person and willing to act.
 
 (2) The Court may appoint one of its officers to be a guardian ad litem.
 
@@ -834,7 +1138,25 @@ the Court shall make an order admitting the applicant (hereinafter called the "p
 
 (6) Where the Court is not so satisfied it shall dismiss the application and there shall be no appeal against the dismissal.
 
-Poor person 32. The poor person shall not discontinue, settle or not to compromise the action or other proceedings without the discontinue. leave of the Court. etc. without leave. Costs. 33. Unless the Court otherwise orders, no poor person shall be liable to pay costs to any party, or be entitled to receive from any other party any costs other than the actual expenses incurred in the course of the proceedings.
+<!-- marginal: Poor person -->
+
+32. The poor person shall not discontinue, settle or
+
+<!-- marginal: not to -->
+
+compromise the action or other proceedings without the
+
+<!-- marginal: discontinue. -->
+
+leave of the Court.
+
+<!-- marginal: etc. without -->
+
+<!-- marginal: leave. -->
+
+<!-- marginal: Costs. -->
+
+33. Unless the Court otherwise orders, no poor person shall be liable to pay costs to any party, or be entitled to receive from any other party any costs other than the actual expenses incurred in the course of the proceedings.
 
 <!-- page 25 -->
 
@@ -924,27 +1246,47 @@ Form MS 8 and serve a copy of the notice on the party he represented.
 
 ## SERVICE WITHIN JURISDICTION
 
-Address for
+<!-- marginal: Address for -->
 
-40. (1) Subject to subsection (2), every plaintiff or service. applicant and every person filing a summons or other documents in any proceedings, other than an officer of a Court acting as such, and any other person ordered by the Court so to do shall give an address for service in the Federal Territories.
+40. (1) Subject to subsection (2), every plaintiff or
+
+<!-- marginal: service. -->
+
+applicant and every person filing a summons or other documents in any proceedings, other than an officer of a Court acting as such, and any other person ordered by the Court so to do shall give an address for service in the Federal Territories.
 
 (2) Where any such plaintiff, applicant or other person is represented by a Peguam Syarie, the address of the Peguam Syarie shall be the address for service.
 
-Mode of
+<!-- marginal: Mode of -->
 
-41. (1) Subject to this Part, a summons or other service. documents shall be served personally, and shall be effected by delivering the summons or other documents, or by producing it for inspection and delivering a copy of the summons or other documents, to the person to be served.
+41. (1) Subject to this Part, a summons or other
+
+<!-- marginal: service. -->
+
+documents shall be served personally, and shall be effected by delivering the summons or other documents, or by producing it for inspection and delivering a copy of the summons or other documents, to the person to be served.
 
 (2) For the purpose of subsection (1), a copy bearing the seal of the Court and the signature of the Registrar shall be deemed to be an original summons or document.
 
 (3) Service of a summons or other document shall be effected by an officer of the Court or any other person.
 
-Non-
+<!-- marginal: Non- -->
 
-42. Where the person required to be served with a acceptance. summons or other document refuses to accept the summons, document or copy thereof, it may be left near him and his attention shall be directed to it.
+42. Where the person required to be served with a
 
-Service on
+<!-- marginal: acceptance. -->
 
-43. A summons or other document may be served on Peguam the Peguam Syarie of any party who has filed a Syarie. memorandum of appointment in accordance with section 34 except as otherwise provided by this Act.
+summons or other document refuses to accept the summons, document or copy thereof, it may be left near him and his attention shall be directed to it.
+
+<!-- marginal: Service on -->
+
+43. A summons or other document may be served on
+
+<!-- marginal: Peguam -->
+
+the Peguam Syarie of any party who has filed a
+
+<!-- marginal: Syarie. -->
+
+memorandum of appointment in accordance with section 34 except as otherwise provided by this Act.
 
 <!-- page 27 -->
 
@@ -1000,9 +1342,13 @@ day and at any time of the day or night.
 
 <!-- page 28 -->
 
-Substituted
+<!-- marginal: Substituted -->
 
-48. (1) Where the Court is satisfied that for any service. sufficient reason the summons or other document cannot be served in the ordinary way, the Court may order the summons or other document to be served by affixing a copy thereof on the Court's notice board and also on some conspicuous part of the building in which the party to be served is known to have last resided, or in any other manner as the Court thinks fit.
+48. (1) Where the Court is satisfied that for any
+
+<!-- marginal: service. -->
+
+sufficient reason the summons or other document cannot be served in the ordinary way, the Court may order the summons or other document to be served by affixing a copy thereof on the Court's notice board and also on some conspicuous part of the building in which the party to be served is known to have last resided, or in any other manner as the Court thinks fit.
 
 (2) The Court may also, in any case falling within subsection (1), make an order for service by advertisement in such local newspaper or newspapers as the Court may think fit.
 
@@ -1018,9 +1364,13 @@ Substituted
 
 (6) Any application for an order under this section shall be supported by an affidavit stating the facts on which the application is founded.
 
-Proof of
+<!-- marginal: Proof of -->
 
-49. (1) Service of summons or other document may, service. unless the Court otherwise orders, be proved by affidavit of the person who effected service and, where the service was personal and the person served was not personally known to him, by the affidavit of the person who identified the person to be served.
+49. (1) Service of summons or other document may,
+
+<!-- marginal: service. -->
+
+unless the Court otherwise orders, be proved by affidavit of the person who effected service and, where the service was personal and the person served was not personally known to him, by the affidavit of the person who identified the person to be served.
 
 (2) The person served shall sign an acknowledgement of service, but refusal or inability so to sign shall not affect the validity of the service.
 
@@ -1080,29 +1430,61 @@ an application out of the jurisdiction—
 
 (2) Subject to section 54, any order giving leave to effect service out of the jurisdiction outside Malaysia shall direct in what mode the service is to be effected and how such service may be proved.
 
-Form of
+<!-- marginal: Form of -->
 
-53. An order for service out of the jurisdiction shall fix order. the day of appearance of the person to be served and the Court shall have regard to and may require evidence as to means of communication and transport.
+53. An order for service out of the jurisdiction shall fix
 
-Mode of
+<!-- marginal: order. -->
 
-54. (1) Any summons or application for service out of service out the jurisdiction within Malaysia may be sent to any Court of having jurisdiction in the local area in which the person jurisdiction within to be served is said to be. Malaysia.
+the day of appearance of the person to be served and the Court shall have regard to and may require evidence as to means of communication and transport.
+
+<!-- marginal: Mode of -->
+
+54. (1) Any summons or application for service out of
+
+<!-- marginal: service out -->
+
+the jurisdiction within Malaysia may be sent to any Court
+
+<!-- marginal: of -->
+
+having jurisdiction in the local area in which the person
+
+<!-- marginal: jurisdiction -->
+
+<!-- marginal: within -->
+
+to be served is said to be.
+
+<!-- marginal: Malaysia. -->
 
 (2) The summons or application to be served may be sent by post or otherwise with a written request for service signed by the Judge or the Registrar.
 
-Variation
+<!-- marginal: Variation -->
 
-55. An order for service out of the jurisdiction may be order. varied by the Court.
+55. An order for service out of the jurisdiction may be
+
+<!-- marginal: order. -->
+
+varied by the Court.
 
 ## PART VII
 
 ## INTERPLEADER
 
-Entitlement
+<!-- marginal: Entitlement -->
 
-56. Where— to relief by way of
+56. Where—
 
-(a) a person is under a liability in respect of any interpleader. debt or in respect of any money, goods or other movable property and he is, or expects to be, sued for or in respect of such debt, money, goods or property by two or more persons making adverse claims in respect thereof; or
+<!-- marginal: to relief by -->
+
+<!-- marginal: way of -->
+
+(a) a person is under a liability in respect of any
+
+<!-- marginal: interpleader. -->
+
+debt or in respect of any money, goods or other movable property and he is, or expects to be, sued for or in respect of such debt, money, goods or property by two or more persons making adverse claims in respect thereof; or
 
 (b) claim is made to any money, goods or other movable property taken or intended to be taken by a bailiff in execution under any judgment, or to the proceeds or value of any such goods or property by a person other than the person against whom the judgment is issued,
 
@@ -1158,15 +1540,27 @@ be made by summons in Form MS 12 or MS 13, whichever is appropriate.
 
 (3) Where the applicant is a bailiff, he shall not provide such affidavit as is referred to in subsection (2) unless the Court otherwise orders.
 
-Service of
+<!-- marginal: Service of -->
 
-59. (1) Unless the Court otherwise orders, the summons summons. referred to in section 58 shall be served personally at least seven days before the day of appearance.
+59. (1) Unless the Court otherwise orders, the summons
+
+<!-- marginal: summons. -->
+
+referred to in section 58 shall be served personally at least seven days before the day of appearance.
 
 (2) An interpleader summons shall be in one of the forms in Form MS 14.
 
-Powers of
+<!-- marginal: Powers of -->
 
-60. (1) Where on the hearing of a summons under this Court hearing Part all the persons by whom adverse claims to the subject summons. matter in dispute (hereinafter in this Part referred to as the "claimants") appear, the Court may order—
+60. (1) Where on the hearing of a summons under this
+
+<!-- marginal: Court hearing -->
+
+Part all the persons by whom adverse claims to the subject
+
+<!-- marginal: summons. -->
+
+matter in dispute (hereinafter in this Part referred to as the "claimants") appear, the Court may order—
 
 (a) that any claimant be made a defendant in any action pending with respect to the subject matter in dispute in substitution for or in addition to the applicant for relief under this Part; or
 
@@ -1236,9 +1630,15 @@ the plaintiff or his Peguam Syarie and shall contain—
 
 (2) Where more than one cause of action is relied on, the grounds of each and the relief claimed thereon shall be stated separately.
 
-Defendant to
+<!-- marginal: Defendant to -->
 
-64. (1) A defendant who disputes his liability for the serve whole or part of any claim in the action may— defence.
+64. (1) A defendant who disputes his liability for the
+
+<!-- marginal: serve -->
+
+whole or part of any claim in the action may—
+
+<!-- marginal: defence. -->
 
 (a) at any time before the day of appearance, serve on the plaintiff a defence; or
 
@@ -1248,9 +1648,13 @@ Defendant to
 
 (3) A defence shall be in Form MS 16.
 
-Form of
+<!-- marginal: Form of -->
 
-65. (1) Every defence shall be signed by the defendant defence. or his Peguam Syarie and shall—
+65. (1) Every defence shall be signed by the defendant
+
+<!-- marginal: defence. -->
+
+or his Peguam Syarie and shall—
 
 (a) either admit or deny every material allegation of the fact in the statement of claim;
 
@@ -1260,7 +1664,7 @@ Form of
 
 (2) A denial under paragraph (l)faj shall not be evasive but shall answer the point of substance.
 
-Counterclaim.
+<!-- marginal: Counterclaim. -->
 
 66. (1) Every counterclaim shall contain the like matter and particulars as a statement of claim and shall be signed by the defendant or his Peguam Syarie.
 
@@ -1334,31 +1738,47 @@ satisfaction of the claim or any part thereof and may also pay into Court a sum 
 
 ### Bill
 
-Payment out
+<!-- marginal: Payment out -->
 
-73. Subject to sections 26 and 78, where the payment of Court. into Court is of the amount claimed or the plaintiff elects to take it in satisfaction of the whole of his claim, the amount shall be paid out to him, and he may obtain judgment for all costs actually incurred prior to his receiving notice of the payment into Court, and costs of entering judgment for such costs, unless paid without order.
+73. Subject to sections 26 and 78, where the payment
 
-Part
+<!-- marginal: of Court. -->
 
-74. Where the payment referred to in section 73 is in satisfaction. respect of a part of his claim, the plaintiff may continue the action in respect of the other part.
+into Court is of the amount claimed or the plaintiff elects to take it in satisfaction of the whole of his claim, the amount shall be paid out to him, and he may obtain judgment for all costs actually incurred prior to his receiving notice of the payment into Court, and costs of entering judgment for such costs, unless paid without order.
 
-Order for
+<!-- marginal: Part -->
 
-75. Except as otherwise provided in sections 73 and 74, payment out money paid into Court shall not be paid out without the of Court. order of the Court.
+74. Where the payment referred to in section 73 is in
 
-Costs.
+<!-- marginal: satisfaction. -->
+
+respect of a part of his claim, the plaintiff may continue the action in respect of the other part.
+
+<!-- marginal: Order for -->
+
+75. Except as otherwise provided in sections 73 and 74,
+
+<!-- marginal: payment out -->
+
+money paid into Court shall not be paid out without the
+
+<!-- marginal: of Court. -->
+
+order of the Court.
+
+<!-- marginal: Costs. -->
 
 76. Where money has been paid into Court and the plaintiff fails to obtain judgment for any larger amount, the costs incurred by the defendant after the payment into Court shall be paid by the plaintiff.
 
-Other relief.
+<!-- marginal: Other relief. -->
 
 77. Where the plaintiff seeks relief other than the payment of money, he may continue his action for that other relief, notwithstanding the payment out of Court to him of any money.
 
-Tender.
+<!-- marginal: Tender. -->
 
 78. Where payment into Court is made with a defence of tender and is accepted, the defendant shall be entitled to full costs of the action and the money in Court shall not be paid out without order of the Court.
 
-Counterclaims.
+<!-- marginal: Counterclaims. -->
 
 79. This Part shall, with such modifications as may be necessary, apply to counterclaims.
 
@@ -1366,9 +1786,17 @@ Counterclaims.
 
 ## AMENDMENT
 
-Amendment
+<!-- marginal: Amendment -->
 
-80. (1) Subject to this Part, the Court may, at any stage of summons of the proceedings, allow the plaintiff to amend his or pleading summons, or any party to amend his pleading, on such terms as to costs or otherwise as may be just and in such manner, if any, as it may direct.
+80. (1) Subject to this Part, the Court may, at any stage
+
+<!-- marginal: of summons -->
+
+of the proceedings, allow the plaintiff to amend his
+
+<!-- marginal: or pleading -->
+
+summons, or any party to amend his pleading, on such terms as to costs or otherwise as may be just and in such manner, if any, as it may direct.
 
 <!-- page 37 -->
 
@@ -1426,9 +1854,15 @@ slips or omissions may at any time be corrected by the Court without formality.
 
 ## DISCOVERY
 
-Discovery of
+<!-- marginal: Discovery of -->
 
-85. (1) The Court may, where necessary and upon such documents terms as it thinks just, order any party— and facts.
+85. (1) The Court may, where necessary and upon such
+
+<!-- marginal: documents -->
+
+terms as it thinks just, order any party—
+
+<!-- marginal: and facts. -->
 
 (a) to state on oath, orally or by affidavit what document he has or has had in his possession or power relating to the matters in question, or whether he has or has had in his possession or power any specified document or documents or class of documents and, in either case, the present whereabouts of any documents formerly, but not now, in his possession or power; or
 
@@ -1438,17 +1872,39 @@ Discovery of
 
 (3) The Court may stay the proceedings pending compliance of the order or direction of the Court under this section.
 
-Inspection of
+<!-- marginal: Inspection of -->
 
-86. Any party shall be entitled to inspect and copy any documents. document in the possession or power of another party and referred to in any pleading, affidavit or other documents filed by him in the proceedings or on oral examination under section 85.
+86. Any party shall be entitled to inspect and copy any
 
-Privileged
+<!-- marginal: documents. -->
 
-87. Production and inspection of documents under this communica- Part shall be subject to the provisions of any law relating tions and documents. to privileged communications and documents.
+document in the possession or power of another party and referred to in any pleading, affidavit or other documents filed by him in the proceedings or on oral examination under section 85.
 
-No appeal
+<!-- marginal: Privileged -->
 
-88. There shall be no appeal against any order of the against the Court under this Part except in an appeal against the order. judgment of the case as a whole.
+87. Production and inspection of documents under this
+
+<!-- marginal: communica- -->
+
+Part shall be subject to the provisions of any law relating
+
+<!-- marginal: tions and -->
+
+<!-- marginal: documents. -->
+
+to privileged communications and documents.
+
+<!-- marginal: No appeal -->
+
+88. There shall be no appeal against any order of the
+
+<!-- marginal: against the -->
+
+Court under this Part except in an appeal against the
+
+<!-- marginal: order. -->
+
+judgment of the case as a whole.
 
 <!-- page 39 -->
 
@@ -1472,7 +1928,9 @@ any proceedings in that Court can be more conveniently
 
 or fairly tried in some other Court, he may order the proceedings to be transferred to the other Court.
 
-(2) Any transfer of any proceedings under subsection (1) may be made by the Judge of his own motion or on the application of any party by notice.
+(2) Any transfer of any proceedings under subsection
+
+(1) may be made by the Judge of his own motion or on the application of any party by notice.
 
 <!-- marginal: Procedure on -->
 
@@ -1520,27 +1978,65 @@ or certified copies of the order, enter the proceedings in the appropriate Regis
 
 (2) Subject to any directions contained in the order of the Syariah High Court, the trial shall proceed as if the proceedings had commenced in a Syariah Subordinate Court.
 
-Procedure on
+<!-- marginal: Procedure on -->
 
-93. Where an order is made by the Syariah High Court transfer from for the transfer of any proceedings from a Syariah Syariah Subordinate Subordinate Court to the Syariah High Court, the Registrar Court to of the Syariah Subordinate Court shall send to the Registrar Syariah High Court. of the Syariah High Court the file of the proceedings, all documents, exhibits and certified copies of the notes of evidence, if any, and the Registrar shall give notice of the transfer in Form MS 18 to every party to the action.
+93. Where an order is made by the Syariah High Court
+
+<!-- marginal: transfer from -->
+
+for the transfer of any proceedings from a Syariah
+
+<!-- marginal: Syariah -->
+
+<!-- marginal: Subordinate -->
+
+Subordinate Court to the Syariah High Court, the Registrar
+
+<!-- marginal: Court to -->
+
+of the Syariah Subordinate Court shall send to the Registrar
+
+<!-- marginal: Syariah High -->
+
+<!-- marginal: Court. -->
+
+of the Syariah High Court the file of the proceedings, all documents, exhibits and certified copies of the notes of evidence, if any, and the Registrar shall give notice of the transfer in Form MS 18 to every party to the action.
 
 ## PART XIII
 
 ## SETTLEMENT, WITHDRAWAL AND DISCONTINUANCE
 
-Settlement of
+<!-- marginal: Settlement of -->
 
-94. Where by agreement of the parties an action has action. been settled, the Court may at any time, by consent of the parties, record the fact of such settlement with the terms thereof, and the record of the settlement shall afford a defence by way of resjudicata to subsequent proceedings from the same, or substantially the same, cause of action.
+94. Where by agreement of the parties an action has
 
-Withdrawal
+<!-- marginal: action. -->
 
-95. (1) The plaintiff may, with leave of the Court, at of claim. any time before judgment withdraw any proceedings wholly or in part by giving notice in Form MS 19 to the Court and serving a copy of the notice to the defendant.
+been settled, the Court may at any time, by consent of the parties, record the fact of such settlement with the terms thereof, and the record of the settlement shall afford a defence by way of resjudicata to subsequent proceedings from the same, or substantially the same, cause of action.
+
+<!-- marginal: Withdrawal -->
+
+95. (1) The plaintiff may, with leave of the Court, at
+
+<!-- marginal: of claim. -->
+
+any time before judgment withdraw any proceedings wholly or in part by giving notice in Form MS 19 to the Court and serving a copy of the notice to the defendant.
 
 (2) Where the plaintiff withdraws any proceedings under subsection (1), the defendant shall be entitled to the costs of the proceedings.
 
-Effect of
+<!-- marginal: Effect of -->
 
-96. Where the plaintiff has withdrawn the proceedings withdrawal under section 95, he shall not thereafter bring an action on future proceedings. for the same, or substantially the same, cause of action unless the Court has granted leave to institute fresh proceedings.
+96. Where the plaintiff has withdrawn the proceedings
+
+<!-- marginal: withdrawal -->
+
+under section 95, he shall not thereafter bring an action
+
+<!-- marginal: on future -->
+
+<!-- marginal: proceedings. -->
+
+for the same, or substantially the same, cause of action unless the Court has granted leave to institute fresh proceedings.
 
 <!-- page 41 -->
 
@@ -1598,31 +2094,63 @@ proceedings, order that the affidavit of any witness to be read at the trial if 
 
 ## SUBPOENAS
 
-Request for
+<!-- marginal: Request for -->
 
-102. (1) Before a subpoena is issued a request in Form issue of MS 20 for the issue of the subpoena shall be filed in subpoena. Court; and the request shall contain the name and address of the party requesting for the issue of the subpoena if he is acting in person, or the name of the firm and the business address of the party's Peguam Syarie.
+102. (1) Before a subpoena is issued a request in Form
+
+<!-- marginal: issue of -->
+
+MS 20 for the issue of the subpoena shall be filed in
+
+<!-- marginal: subpoena. -->
+
+Court; and the request shall contain the name and address of the party requesting for the issue of the subpoena if he is acting in person, or the name of the firm and the business address of the party's Peguam Syarie.
 
 (2) Issue of a subpoena takes place upon it being sealed by an officer of the Court.
 
 (3) A subpoena shall be in one of the forms in Form MS 21, MS 22 or MS 23, as the case may require.
 
-Number of
+<!-- marginal: Number of -->
 
-103. (1) Every subpoena other than a subpoena to persons in produce documents or things may include the names of subpoena. two or more persons.
+103. (1) Every subpoena other than a subpoena to
+
+<!-- marginal: persons in -->
+
+produce documents or things may include the names of
+
+<!-- marginal: subpoena. -->
+
+two or more persons.
 
 (2) A subpoena to produce documents or things shall contain the name of one person only.
 
-Subpoena to
+<!-- marginal: Subpoena to -->
 
-104. Any person served with a subpoena to produce a produce document or thing only shall sufficiently comply if he documents. causes the document or thing to be produced without attending personally.
+104. Any person served with a subpoena to produce a
 
-Amendment
+<!-- marginal: produce -->
 
-105. Where there is a mistake in any person's name of subpoena. and address in a subpoena, and if the subpoena has not been served, the party on whose request the subpoena was issued may by filing a second request under subsection 102(1) have the subpoena re-sealed in the correct form endorsed with the words "Amended and re-sealed".
+document or thing only shall sufficiently comply if he
 
-Service of
+<!-- marginal: documents. -->
 
-106. Unless the Court otherwise orders, a subpoena shall subpoena. be served personally and the service shall not be valid unless effected within twelve weeks after the date of issue of the subpoena.
+causes the document or thing to be produced without attending personally.
+
+<!-- marginal: Amendment -->
+
+105. Where there is a mistake in any person's name
+
+<!-- marginal: of subpoena. -->
+
+and address in a subpoena, and if the subpoena has not been served, the party on whose request the subpoena was issued may by filing a second request under subsection 102(1) have the subpoena re-sealed in the correct form endorsed with the words "Amended and re-sealed".
+
+<!-- marginal: Service of -->
+
+106. Unless the Court otherwise orders, a subpoena shall
+
+<!-- marginal: subpoena. -->
+
+be served personally and the service shall not be valid unless effected within twelve weeks after the date of issue of the subpoena.
 
 <!-- page 43 -->
 
@@ -1692,9 +2220,13 @@ by whom service was effected.
 
 ## AFFIDAVITS
 
-Making of
+<!-- marginal: Making of -->
 
-112. An affidavit to be used in any proceedings in Court affidavit. shall be sworn—
+112. An affidavit to be used in any proceedings in Court
+
+<!-- marginal: affidavit. -->
+
+shall be sworn—
 
 (a) in the Federal Territories, before any Syariah Judge or Registrar;
 
@@ -1702,23 +2234,41 @@ Making of
 
 (c) at any place outside Malaysia, before any Muslim officer of the Malaysian Embassy or High Commission or Consulate or Permanent Mission thereat authorized to administer oath.
 
-Form of
+<!-- marginal: Form of -->
 
-113. (1) An affidavit shall be in Form MS 26. affidavit.
+113. (1) An affidavit shall be in Form MS 26.
+
+<!-- marginal: affidavit. -->
 
 (2) Notwithstanding subsection (1), the Court may, in its discretion, accept an affidavit notwithstanding any irregularity in the form thereof.
 
-Copy of
+<!-- marginal: Copy of -->
 
-114. (1) A copy of any document to be used in document conjunction with an affidavit shall be annexed to the shall be annexed to affidavit as an exhibit. the affidavit.
+114. (1) A copy of any document to be used in
+
+<!-- marginal: document -->
+
+conjunction with an affidavit shall be annexed to the
+
+<!-- marginal: shall be -->
+
+<!-- marginal: annexed to -->
+
+affidavit as an exhibit.
+
+<!-- marginal: the affidavit. -->
 
 (2) An exhibit to an affidavit shall be identified by a certificate of the person before whom the affidavit is sworn, and such certificate shall be in Form MS 27.
 
-Rejection of
+<!-- marginal: Rejection of -->
 
-115. The Court may in its discretion reject any affidavit affidavit. the content of which cannot be easily read or understood, or in which there is any interlineation, alteration or erasure or other defect of form.
+115. The Court may in its discretion reject any affidavit
 
-Amendment.
+<!-- marginal: affidavit. -->
+
+the content of which cannot be easily read or understood, or in which there is any interlineation, alteration or erasure or other defect of form.
+
+<!-- marginal: Amendment. -->
 
 116. (1) An affidavit which has been filed cannot be amended except for the purpose of correcting any defect of form or clerical mistake.
 
@@ -1774,9 +2324,11 @@ other written law, all proceedings begun by way of summons shall be heard and de
 
 <!-- page 46 -->
 
-Absence of
+<!-- marginal: Absence of -->
 
-121. (1) If, when any action is called on for hearing— parties.
+121. (1) If, when any action is called on for hearing—
+
+<!-- marginal: parties. -->
 
 (a) neither party appears, the Court may dismiss the action;
 
@@ -1790,17 +2342,21 @@ Absence of
 
 (4) The Court may in its discretion in any of the cases specified in subsection (1) or (3) order an adjournment.
 
-Counterclaims.
+<!-- marginal: Counterclaims. -->
 
 122. The stay, withdrawal, striking out or dismissal of the plaintiffs claim shall not prevent the hearing and determination of a counterclaim.
 
-Mutual claims
+<!-- marginal: Mutual claims -->
 
 123. Where judgment is given for sums of money on both claim and counterclaim, the Court may set the one off against the other and give judgment for the balance only but without prejudice to the power of the Court to make such order as to costs as it thinks just.
 
-Notes of
+<!-- marginal: Notes of -->
 
-124. The Court shall record the evidence given and, so evidence. far as appears desirable, of the submissions of law made, including any objections to evidence, and may record such remarks on the demeanour of witnesses and other material matters.
+124. The Court shall record the evidence given and, so
+
+<!-- marginal: evidence. -->
+
+far as appears desirable, of the submissions of law made, including any objections to evidence, and may record such remarks on the demeanour of witnesses and other material matters.
 
 <!-- page 47 -->
 
@@ -1852,15 +2408,29 @@ to submit a written submission in such order and within such time as he may dire
 
 (b) order the plaintiff to take an oath admitting the truth of his claim, and if the plaintiff refuses to take such oath, the Court shall dismiss his case.
 
-Power of
+<!-- marginal: Power of -->
 
-127. In the interest of justice, the Court may, at any Court. stage of the proceedings, call any party to adduce evidence and may inspect any place or thing.
+127. In the interest of justice, the Court may, at any
 
-128. (1) Where a Judge has commenced the trial of Trial not concluded any proceedings and is unable for any reason to conclude the trial, another Judge may with the consent of all parties continue the trial and give judgment.
+<!-- marginal: Court. -->
+
+stage of the proceedings, call any party to adduce evidence and may inspect any place or thing.
+
+128. (1) Where a Judge has commenced the trial of
+
+<!-- marginal: Trial not -->
+
+<!-- marginal: concluded -->
+
+any proceedings and is unable for any reason to conclude the trial, another Judge may with the consent of all parties continue the trial and give judgment.
 
 (2) Where the consent referred to in subsection (1) cannot be obtained, there shall be a new hearing.
 
-. 129. The Court may from time to time adjourn or transfer Adjournmen any trial from one place to another, and in so doing may impose any condition.
+. 129. The Court may from time to time adjourn or transfer
+
+<!-- marginal: Adjournmen -->
+
+any trial from one place to another, and in so doing may impose any condition.
 
 <!-- page 49 -->
 
@@ -1932,17 +2502,37 @@ and the Court may, after hearing the parties, make such order as it thinks just.
 
 (3) Any party may, if an order for payment by instalments has been made, apply that it be vacated or that the instalments be increased or decreased and the Court, after hearing the parties, may make such order as it thinks just.
 
-Judgment,
+<!-- marginal: Judgment, -->
 
-135. (1) Every judgment or order requiring any person etc. requiring to do any act, other than the payment of money, act to be done; time shall state the time within which the act is to be for doing it. done, and if no time be so stated, the act shall be done within seven days from the date of the judgment or order.
+135. (1) Every judgment or order requiring any person
+
+<!-- marginal: etc. requiring -->
+
+to do any act, other than the payment of money,
+
+<!-- marginal: act to be -->
+
+<!-- marginal: done; time -->
+
+shall state the time within which the act is to be
+
+<!-- marginal: for doing it. -->
+
+done, and if no time be so stated, the act shall be done within seven days from the date of the judgment or order.
 
 (2) Where the person required to do the act was personally present or represented by his Peguam Syarie when the judgment or order was given or made, it shall not be necessary to serve him with a copy of the judgment or order.
 
 (3) Where the person required to do the act was not personally present or represented, no proceedings for his arrest or commitment shall be taken unless he has been served with a copy of the judgment or order endorsed with a notice in Form MS 28.
 
-Date of
+<!-- marginal: Date of -->
 
-136. Every judgment or order shall be dated and take judgment or effect on the date on which it was given or made. order.
+136. Every judgment or order shall be dated and take
+
+<!-- marginal: judgment or -->
+
+effect on the date on which it was given or made.
+
+<!-- marginal: order. -->
 
 <!-- page 51 -->
 
@@ -1996,19 +2586,41 @@ Subordinate Court shall be made to the Syariah High Court, and the decision of a
 
 (8) The notice of appeal shall be served by the appellant within the time limited for filing the appeal on all parties affected by the appeal or their respective Peguam Syarie.
 
-Notice ot
+<!-- marginal: Notice ot -->
 
-140. A respondent in any appeal may, within seven days counter from the date of the service of the notice of appeal on appeal. him, file in the Court hearing the appeal and serve on the appellant a notice in Form MS 31 of his intention to submit at the hearing of the appeal that the decision appealed against should be varied.
+140. A respondent in any appeal may, within seven days
 
-Grounds of
+<!-- marginal: counter -->
 
-141. (1) Within fourteen days from the date of receipt appeal. of the notification under subsection 139 (6), the appellant shall lodge with the Registrar of the Court appealed from grounds of appeal in five copies addressed to the Court hearing the appeal.
+from the date of the service of the notice of appeal on
+
+<!-- marginal: appeal. -->
+
+him, file in the Court hearing the appeal and serve on the appellant a notice in Form MS 31 of his intention to submit at the hearing of the appeal that the decision appealed against should be varied.
+
+<!-- marginal: Grounds of -->
+
+141. (1) Within fourteen days from the date of receipt
+
+<!-- marginal: appeal. -->
+
+of the notification under subsection 139 (6), the appellant shall lodge with the Registrar of the Court appealed from grounds of appeal in five copies addressed to the Court hearing the appeal.
 
 (2) Every ground of appeal shall state briefly the substance of the judgment appealed against and shall contain definite particulars of the point of law or fact in respect of which the appeal is made and, except with leave of the Court hearing the appeal, the appellant shall not be permitted on the hearing of the appeal to rely on any ground other than those set out in the grounds of appeal.
 
-Appeal
+<!-- marginal: Appeal -->
 
-142. (1) When the appellant who is represented by a record where Peguam Syarie has complied with the requirements of appellant is represented sections 139 and 141, the appellant shall prepare the requisite number of copies of the appeal record and the record shall contain copies of—
+142. (1) When the appellant who is represented by a
+
+<!-- marginal: record where -->
+
+Peguam Syarie has complied with the requirements of
+
+<!-- marginal: appellant is -->
+
+<!-- marginal: represented -->
+
+sections 139 and 141, the appellant shall prepare the requisite number of copies of the appeal record and the record shall contain copies of—
 
 (a) the pleadings;
 
@@ -2070,17 +2682,41 @@ number of copies of the appeal record which shall contain copies of the document
 
 <!-- page 54 -->
 
-Stay of
+<!-- marginal: Stay of -->
 
-144. The filing of a notice of appeal shall not operate execution as a stay of execution, but the Court may, on application pending appeal and on sufficient cause being shown, stay execution on such terms as it may think fit.
+144. The filing of a notice of appeal shall not operate
 
-Judgment to
+<!-- marginal: execution -->
 
-145. The Court hearing the appeal shall state the grounds state of its judgment in writing. grounds.
+as a stay of execution, but the Court may, on application
 
-Execution of
+<!-- marginal: pending -->
 
-146. When either party has extracted the order of the judgment on Court hearing the appeal and has produced the order to appeal. the Court appealed from, the Court appealed from shall execute the order in accordance with the provisions of this Act.
+<!-- marginal: appeal -->
+
+and on sufficient cause being shown, stay execution on such terms as it may think fit.
+
+<!-- marginal: Judgment to -->
+
+145. The Court hearing the appeal shall state the grounds
+
+<!-- marginal: state -->
+
+of its judgment in writing.
+
+<!-- marginal: grounds. -->
+
+<!-- marginal: Execution of -->
+
+146. When either party has extracted the order of the
+
+<!-- marginal: judgment on -->
+
+Court hearing the appeal and has produced the order to
+
+<!-- marginal: appeal. -->
+
+the Court appealed from, the Court appealed from shall execute the order in accordance with the provisions of this Act.
 
 ## PART XVIII
 
@@ -2090,9 +2726,13 @@ Execution of
 
 ## GENERAL
 
-Duty to
+<!-- marginal: Duty to -->
 
-147. (1) Every person directed by any judgment to do comply. any act shall comply therewith without demand, and it shall not be necessary to serve on him the judgment or any notice of the judgment except as provided in subsection 135(3).
+147. (1) Every person directed by any judgment to do
+
+<!-- marginal: comply. -->
+
+any act shall comply therewith without demand, and it shall not be necessary to serve on him the judgment or any notice of the judgment except as provided in subsection 135(3).
 
 (2) A judgment debtor shall from time to time inform the Court of his latest address of residence and failure to comply with the requirement of this subsection shall be deemed to be a contempt of Court.
 
@@ -2100,9 +2740,23 @@ Duty to
 
 ## ENFORCEMENT
 
-Enforcement
+<!-- marginal: Enforcement -->
 
-148. (1) Subject to this Act, a judgment or an order of judgment, for the payment of money, other than a judgment or an etc for payment of -. order for the payment of money into Court, may be money. enforced by one or more of the following means, that is to say—
+148. (1) Subject to this Act, a judgment or an order
+
+<!-- marginal: of judgment, -->
+
+for the payment of money, other than a judgment or an
+
+<!-- marginal: etc for -->
+
+<!-- marginal: payment of -. -->
+
+order for the payment of money into Court, may be
+
+<!-- marginal: money. -->
+
+enforced by one or more of the following means, that is to say—
 
 (a) an order of seizure and sale;
 
@@ -2184,11 +2838,21 @@ of the property may be enforced by one or more of the following means, that is t
 
 (4) A judgment or order for the payment of the assessed value of any movable property may be enforced by the same means as any other judgment or order for the payment of money.
 
-Enforcement
+<!-- marginal: Enforcement -->
 
-151. (1) Where— of judgment to do or
+151. (1) Where—
 
-(a) a person required by a judgment or order to do abstain from doing an act an act within a time specified in the judgment or order refuses or neglects to do it within that time or within that time as extended or abridged under section 238, as the case may be; or
+<!-- marginal: of judgment -->
+
+<!-- marginal: to do or -->
+
+(a) a person required by a judgment or order to do
+
+<!-- marginal: abstain from -->
+
+<!-- marginal: doing an act -->
+
+an act within a time specified in the judgment or order refuses or neglects to do it within that time or within that time as extended or abridged under section 238, as the case may be; or
 
 <!-- page 57 -->
 
@@ -2226,9 +2890,23 @@ which that act is to be done, the Court may, on such terms as it thinks just, ma
 
 (3) An application for an order under this section shall be made in Form MS 34 and copies of the application shall, notwithstanding any other provisions of this Act, be served on the person required to do the act in question.
 
-Execution by
+<!-- marginal: Execution by -->
 
-153. (1) Any person, not being a party to a cause or or against matter, who obtains an order or in whose favour an order person not being a is made, shall be entitled to enforce obedience to the party. order by the same process as if he were a party in the cause or matter.
+153. (1) Any person, not being a party to a cause or
+
+<!-- marginal: or against -->
+
+matter, who obtains an order or in whose favour an order
+
+<!-- marginal: person not -->
+
+<!-- marginal: being a -->
+
+is made, shall be entitled to enforce obedience to the
+
+<!-- marginal: party. -->
+
+order by the same process as if he were a party in the cause or matter.
 
 (2) Any person, not being a party to a cause or matter, against whom obedience to any judgment or order may be enforced, shall be liable to the same process for enforcing obedience to the judgment or order as if he were a party in the cause or matter.
 
@@ -2236,9 +2914,15 @@ Execution by
 
 ## EXECUTION
 
-Leave to
+<!-- marginal: Leave to -->
 
-154. (1) An order for execution to enforce a judgment issue order or an order shall not issue without the leave of the Court— of execution.
+154. (1) An order for execution to enforce a judgment
+
+<!-- marginal: issue order -->
+
+or an order shall not issue without the leave of the Court—
+
+<!-- marginal: of execution. -->
 
 (a) if the judgment or order is subject to any condition or contingency;
 
@@ -2326,9 +3010,13 @@ to take any one or more of the following actions:
 
 (3) The Court may, on the application of any judgment creditor, issue a further order of execution in respect of different property or different methods of execution from those set out in the current order for execution.
 
-Seizure and
+<!-- marginal: Seizure and -->
 
-160. The following provisions shall apply when an sale. execution by seizure and sale is ordered for any property:
+160. The following provisions shall apply when an
+
+<!-- marginal: sale. -->
+
+execution by seizure and sale is ordered for any property:
 
 (a) the bailiff shall—
 
@@ -2424,23 +3112,35 @@ of a chattel—
 
 (c) an order under paragraph (b) shall not bar proceedings for commitment.
 
-Deposit of
+<!-- marginal: Deposit of -->
 
-164. (1) The bailiff shall not be obliged to take any expenses. action under an order for execution until the judgment creditor has deposited a sum sufficient in the opinion of the bailiff to defray any expenses of the execution, including those of keeping possession for a period not exceeding fourteen days, and if the bailiff has to remain in possession for more than fourteen days, he may require a further deposit and may release the property if such deposit is not furnished.
+164. (1) The bailiff shall not be obliged to take any
+
+<!-- marginal: expenses. -->
+
+action under an order for execution until the judgment creditor has deposited a sum sufficient in the opinion of the bailiff to defray any expenses of the execution, including those of keeping possession for a period not exceeding fourteen days, and if the bailiff has to remain in possession for more than fourteen days, he may require a further deposit and may release the property if such deposit is not furnished.
 
 (2) The bailiff shall keep a record of all monies deposited with him under subsection (1).
 
-Entry of
+<!-- marginal: Entry of -->
 
-165. The bailiff shall not break into any enclosed house premises. or inhabited building except with the leave of the Court.
+165. The bailiff shall not break into any enclosed house
 
-Receipt
+<!-- marginal: premises. -->
+
+or inhabited building except with the leave of the Court.
+
+<!-- marginal: Receipt -->
 
 166. The bailiff shall give a receipt for every sum of money received by him by way of levy, deposit or otherwise, and shall pay the money to the proper officer of the Registry.
 
-Application
+<!-- marginal: Application -->
 
-167. The bailiff shall apply monies levied or received of proceeds. by him by way of execution in the following order;
+167. The bailiff shall apply monies levied or received
+
+<!-- marginal: of proceeds. -->
+
+by him by way of execution in the following order;
 
 (a) expenses of execution;
 
@@ -2522,7 +3222,7 @@ Provided that the Registrar may in his discretion in any case and shall, if he h
 
 ### Bill
 
-Sale.
+<!-- marginal: Sale. -->
 
 174. Unless the Court otherwise orders, all sales shall be by public auction during office hours and a notice in Form MS 41 as to the date, time and place of the intended sale shall be posted at the Court's Notice Board and at the place of the intended sale not less than seven days before such sale.
 
@@ -2532,23 +3232,43 @@ Sale.
 
 ## DEBTOR SUMMONS
 
-Application.
+<!-- marginal: Application. -->
 
 175. (1) Unless otherwise provided under any other written law, this Chapter shall apply to the execution of any judgment for the payment of money.
 
 (2) In this Chapter, "judgment" includes any order for the payment of money.
 
-Application
+<!-- marginal: Application -->
 
-176. (1) Where a judgment of the Court is for the for judgment payment of money, the judgment creditor who is entitled debtor summons. to enforce the judgment may require the judgment debtor liable under the judgment to appear in Court to be examined orally as to his capacity of paying or settling the judgment debt and to get any property which may be used for such payment.
+176. (1) Where a judgment of the Court is for the
+
+<!-- marginal: for judgment -->
+
+payment of money, the judgment creditor who is entitled
+
+<!-- marginal: debtor -->
+
+<!-- marginal: summons. -->
+
+to enforce the judgment may require the judgment debtor liable under the judgment to appear in Court to be examined orally as to his capacity of paying or settling the judgment debt and to get any property which may be used for such payment.
 
 (2) An application requesting a judgment debtor to appear under subsection (1) shall be made by filing a request in Form MS 42, signed by the applicant or his Peguam Syarie.
 
 (3) Where a judgment has been given against two or more persons, the judgment creditor may require the judgment debtor summons to be issued against each or any of the persons liable under the judgment.
 
-Issue of
+<!-- marginal: Issue of -->
 
-177. (1) On receipt of an application under section 176, judgment the Court shall issue a judgment debtor summons in debtor Form MS 43. summons.
+177. (1) On receipt of an application under section 176,
+
+<!-- marginal: judgment -->
+
+the Court shall issue a judgment debtor summons in
+
+<!-- marginal: debtor -->
+
+Form MS 43.
+
+<!-- marginal: summons. -->
 
 (2) A judgment debtor summons shall be served on the judgment debtor at least seven days before the day fixed for the hearing of the summons.
 
@@ -2610,31 +3330,63 @@ MS 45.
 
 <!-- page 68 -->
 
-Hearing of
+<!-- marginal: Hearing of -->
 
-181. (1) The Court may, after hearing the judgment judgment debtor who appears pursuant to a judgment notice under notice. section 180, make an order of committal for a period not exceeding thirty days or vary the order referred to in section 178 as it thinks just.
+181. (1) The Court may, after hearing the judgment
+
+<!-- marginal: judgment -->
+
+debtor who appears pursuant to a judgment notice under
+
+<!-- marginal: notice. -->
+
+section 180, make an order of committal for a period not exceeding thirty days or vary the order referred to in section 178 as it thinks just.
 
 (2) If an order of committal is made, the Court may order the execution of the order to be suspended with or without condition to enable the judgment debtor to pay the amount in respect of which the order is made.
 
-Order of
+<!-- marginal: Order of -->
 
-182. An order of committal under section 181 shall be committal. in Form MS 46.
+182. An order of committal under section 181 shall be
 
-Payment by
+<!-- marginal: committal. -->
 
-183. Where an order of committal is made under section judgment 181, the judgment debtor may, at any time pay, either debtor. to the bailiff or, if the judgment debtor is in prison, to the officer in charge of the prison the amount stated in the order, and obtain his discharge.
+in Form MS 46.
 
-Certificate o1
+<!-- marginal: Payment by -->
 
-184. (1) Where any judgment debt in respect of which satisfaction. a judgment debtor is imprisoned under section 181 is satisfied by payment or otherwise, the judgment creditor shall lodge with the Registrar a certificate of satisfaction signed by him in Form MS 47,
+183. Where an order of committal is made under section
+
+<!-- marginal: judgment -->
+
+181, the judgment debtor may, at any time pay, either
+
+<!-- marginal: debtor. -->
+
+to the bailiff or, if the judgment debtor is in prison, to the officer in charge of the prison the amount stated in the order, and obtain his discharge.
+
+<!-- marginal: Certificate o1 -->
+
+184. (1) Where any judgment debt in respect of which
+
+<!-- marginal: satisfaction. -->
+
+a judgment debtor is imprisoned under section 181 is satisfied by payment or otherwise, the judgment creditor shall lodge with the Registrar a certificate of satisfaction signed by him in Form MS 47,
 
 (2) If the judgment creditor makes default in lodging the certificate referred to in subsection (1), the judgment debtor or any person on his behalf may apply to the Court for an order for his discharge, and the Court in making such order may direct that the cost for such application be paid by the judgment creditor.
 
 (3) An order under subsection (2) shall be in Form MS 48.
 
-Date of
+<!-- marginal: Date of -->
 
-185. Any order of committal of a judgment debtor under committal section 181 shall contain the date on which the order is order. made and shall be enforced for a period of one year from that date.
+185. Any order of committal of a judgment debtor under
+
+<!-- marginal: committal -->
+
+section 181 shall contain the date on which the order is
+
+<!-- marginal: order. -->
+
+made and shall be enforced for a period of one year from that date.
 
 <!-- page 69 -->
 
@@ -2704,9 +3456,13 @@ Provided that—
 
 ## INTERLOCUTORY PROCEEDINGS
 
-Mode of
+<!-- marginal: Mode of -->
 
-187. (1) Where by this Act an application in the course application. of any proceedings, whether before or after judgment, is expressly or by implication authorized to be made to the Court, such application shall be made in Form MS 49 and shall, unless the Court otherwise directs, be heard in Chambers before a Judge.
+187. (1) Where by this Act an application in the course
+
+<!-- marginal: application. -->
+
+of any proceedings, whether before or after judgment, is expressly or by implication authorized to be made to the Court, such application shall be made in Form MS 49 and shall, unless the Court otherwise directs, be heard in Chambers before a Judge.
 
 (2) Every application shall state the nature of the order applied for in general terms and the grounds of the application.
 
@@ -2768,9 +3524,13 @@ in evidence in proceedings relating to the application shall, if it is available
 
 (2) If the hearing is adjourned generally, the party by whom the application was taken out may restore it on two clear days' notice before the day specified for the hearing to all the other parties on whom the application was served.
 
-Non-
+<!-- marginal: Non- -->
 
-193. (1) Where the applicant fails to attend on the appearance. hearing of his application, the Court may dismiss the application.
+193. (1) Where the applicant fails to attend on the
+
+<!-- marginal: appearance. -->
+
+hearing of his application, the Court may dismiss the application.
 
 (2) Where any party to an application fails to attend on the first or any resumed hearing of the application and the Court thinks it expedient to proceed with the hearing in the absence of any party, the Court may do so.
 
@@ -2780,15 +3540,31 @@ Non-
 
 (5) Where the Court hearing an application proceeded with in the absence of a party, then, provided that any order made on the hearing has not been perfected, the Court, if satisfied that it is just to do so, may re-hear the application.
 
-Order made
+<!-- marginal: Order made -->
 
-194. (1) The Court may, on the application of any party ex pane may to any cause or matter, set aside an order made ex pane be set aside. under this Chapter.
+194. (1) The Court may, on the application of any party
+
+<!-- marginal: ex pane may -->
+
+to any cause or matter, set aside an order made ex pane
+
+<!-- marginal: be set aside. -->
+
+under this Chapter.
 
 (2) An application under subsection (1) shall be made within fourteen days from the date of the order and shall be heard interparte.
 
-Application
+<!-- marginal: Application -->
 
-195. The Court may, in its discretion, during the hearing in a of an application under this Chapter, allow any application proceedings. therein to be heard orally.
+195. The Court may, in its discretion, during the hearing
+
+<!-- marginal: in a -->
+
+of an application under this Chapter, allow any application
+
+<!-- marginal: proceedings. -->
+
+therein to be heard orally.
 
 <!-- page 73 -->
 
@@ -2928,23 +3704,53 @@ application of any party for the hadhanah of a child in any cause or matter, tha
 
 <!-- page 76 -->
 
-Interim order
+<!-- marginal: Interim order -->
 
-202. (1) Subject to the Islamic Family Law (Federal as to Territories) Act 1984, if the Court is satisfied, on the maintenance. Act 303. application of any party entitled to maintenance in any cause or matter, that the circumstances require an interim order for maintenance to be made against the person liable under Islamic Law to pay maintenance, the Court may make such an order which shall have immediate effect and shall continue in force until the Court has made a decision on the cause or matter.
+202. (1) Subject to the Islamic Family Law (Federal
 
-(2) Where the application referred to in subsection (1) is in respect of an interim order for the maintenance of a child, the Court shall not make such an order unless it is satisfied that the father or the person liable under Islamic Law for the maintenance of the child has the capability to pay for the maintenance applied for.
+<!-- marginal: as to -->
 
-Power to
+Territories) Act 1984, if the Court is satisfied, on the
 
-203. (1) Where the Court considers it necessary or order expedient for the purpose of obtaining full information samples to be taken, etc. or evidence in any cause or matter, the Court may, on the application of any party to the cause or matter, and on such term, if any, as it thinks just, by order authorize or require any sample to be taken of any property which is the subject matter of the cause or matter or as to which any question may arise therein, any observation to be made on such property or any experiment to be tried on or with such property.
+<!-- marginal: maintenance. -->
+
+<!-- marginal: Act 303. -->
+
+application of any party entitled to maintenance in any cause or matter, that the circumstances require an interim order for maintenance to be made against the person liable under Islamic Law to pay maintenance, the Court may make such an order which shall have immediate effect and shall continue in force until the Court has made a decision on the cause or matter.
+
+(2) Where the application referred to in subsection
+
+(1) is in respect of an interim order for the maintenance of a child, the Court shall not make such an order unless it is satisfied that the father or the person liable under Islamic Law for the maintenance of the child has the capability to pay for the maintenance applied for.
+
+<!-- marginal: Power to -->
+
+203. (1) Where the Court considers it necessary or
+
+<!-- marginal: order -->
+
+expedient for the purpose of obtaining full information
+
+<!-- marginal: samples to be -->
+
+<!-- marginal: taken, etc. -->
+
+or evidence in any cause or matter, the Court may, on the application of any party to the cause or matter, and on such term, if any, as it thinks just, by order authorize or require any sample to be taken of any property which is the subject matter of the cause or matter or as to which any question may arise therein, any observation to be made on such property or any experiment to be tried on or with such property.
 
 (2) For the purpose of enabling any order under subsection (1) to be carried out, the Court may by the order authorize any person to enter upon any immovable property in the possession of any party to the cause or matter.
 
 (3) An application under this section shall be supported by an affidavit.
 
-Sale of
+<!-- marginal: Sale of -->
 
-204. The Court may, on the application of any party to perishable any cause or matter, make an order for the sale by such property, etc. person, in such manner and on such terms, if any, as may be specified in the order of any movable property
+204. The Court may, on the application of any party to
+
+<!-- marginal: perishable -->
+
+any cause or matter, make an order for the sale by such
+
+<!-- marginal: property, etc. -->
+
+person, in such manner and on such terms, if any, as may be specified in the order of any movable property
 
 <!-- page 77 -->
 
@@ -3014,9 +3820,13 @@ whole or part of the income of the property to be paid, during such period as it
 
 ## POWERS OF JUDGE AND REGISTRAR
 
-Powers of
+<!-- marginal: Powers of -->
 
-208. In any Court to which he is appointed, the Registrar Registrar. in Chambers may—
+208. In any Court to which he is appointed, the Registrar
+
+<!-- marginal: Registrar. -->
+
+in Chambers may—
 
 (a) adjourn any proceedings;
 
@@ -3030,7 +3840,11 @@ Powers of
 
 (f) carry out any other functions provided under this Act or any order of a Judge.
 
-Powers of 209. (1) A Judge may— Judge.
+<!-- marginal: Powers of -->
+
+209. (1) A Judge may—
+
+<!-- marginal: Judge. -->
 
 (a) exercise all duties and powers conferred upon him by any written law;
 
@@ -3038,7 +3852,9 @@ Powers of 209. (1) A Judge may— Judge.
 
 (c) enter judgment by confession or consent of parties in Court or in Chambers.
 
-(2) A Judge may exercise in Court or in Chambers all the powers conferred on the Registrar under section 208.
+(2) A Judge may exercise in Court or in Chambers all the powers conferred on the Registrar under section
+
+208.
 
 (3) A Judge of a Syariah High Court may, on the application of any person or in his discretion, order the Syariah Subordinate Court to reinstate any case that have been rejected.
 
@@ -3110,7 +3926,7 @@ notice of the payment to the person to whose credit the money is paid.
 
 <!-- page 80 -->
 
-Payment out.
+<!-- marginal: Payment out. -->
 
 215. Before making any payment out of Court, the Registrar—
 
@@ -3118,9 +3934,11 @@ Payment out.
 
 (b) shall ascertain that all monies due to the Government of which he has notice has been paid or deducted.
 
-Mode of
+<!-- marginal: Mode of -->
 
-216. (1) Payment out of Court— payment.
+216. (1) Payment out of Court—
+
+<!-- marginal: payment. -->
 
 (a) if not more than fifty ringgit, may be made in cash; and
 
@@ -3128,25 +3946,41 @@ Mode of
 
 (2) Cheques not cashed within ninety days from the date of the cheques may be renewed or replaced.
 
-Remittance
+<!-- marginal: Remittance -->
 
-217. (1) The Registrar may in his discretion or if so by post. requested remit by post any money to be paid out of Court.
+217. (1) The Registrar may in his discretion or if so
+
+<!-- marginal: by post. -->
+
+requested remit by post any money to be paid out of Court.
 
 (2) Where any money is remitted by post, the Registrar shall procure its receipt after remittance is made and the responsibility for its loss shall be borne by the recipient.
 
-Books of
+<!-- marginal: Books of -->
 
-218. (1) The Court shall maintain such book of account account. as may be required by the Treasury's Instructions.
+218. (1) The Court shall maintain such book of account
 
-(2) In this section, "Treasury's Instructions" means instructions issued by the Treasury under section 4 of Act 61. the Financial Procedure Act 1957.
+<!-- marginal: account. -->
 
-Service cost.
+as may be required by the Treasury's Instructions.
+
+(2) In this section, "Treasury's Instructions" means instructions issued by the Treasury under section 4 of
+
+<!-- marginal: Act 61. -->
+
+the Financial Procedure Act 1957.
+
+<!-- marginal: Service cost. -->
 
 219. No service costs shall be payable upon any fund kept in the Court.
 
-Unclaimed
+<!-- marginal: Unclaimed -->
 
-220. (1) Notwithstanding anything in any other written fund, etc. law, fund in Court and all jewelleries, securities and movable property, other than money, and any deeds or documents required for the purpose of the hearing or proceedings, which are unclaimed after fifteen years, shall become the property of and be vested in the Baitulmal.
+220. (1) Notwithstanding anything in any other written
+
+<!-- marginal: fund, etc. -->
+
+law, fund in Court and all jewelleries, securities and movable property, other than money, and any deeds or documents required for the purpose of the hearing or proceedings, which are unclaimed after fifteen years, shall become the property of and be vested in the Baitulmal.
 
 <!-- page 81 -->
 
@@ -3194,33 +4028,73 @@ attends Court as an expert witness, he may be allowed a fee for attending the Co
 
 <!-- page 82 -->
 
-Subsistence
+<!-- marginal: Subsistence -->
 
-226. In addition to any of the allowances payable under and sections 224 and 225, a witness or a party may be allowed travelling allowances. such expenses which the witness or party has actually or reasonably incurred in travelling to and from the Court or in staying at his place of abode.
+226. In addition to any of the allowances payable under
 
-Attendance
+<!-- marginal: and -->
 
-227. Where a witness or party attends Court in respect in more of two or more proceedings, the sum which might be than one proceedings. allowed to him under section 224 or 225 in respect of a proceedings may be apportioned between the several proceedings.
+sections 224 and 225, a witness or a party may be allowed
 
-Witness not
+<!-- marginal: travelling -->
 
-228. Allowance may be made to a witness whether he called. was called or not, if his attendance was necessary.
+<!-- marginal: allowances. -->
+
+such expenses which the witness or party has actually or reasonably incurred in travelling to and from the Court or in staying at his place of abode.
+
+<!-- marginal: Attendance -->
+
+227. Where a witness or party attends Court in respect
+
+<!-- marginal: in more -->
+
+of two or more proceedings, the sum which might be
+
+<!-- marginal: than one -->
+
+<!-- marginal: proceedings. -->
+
+allowed to him under section 224 or 225 in respect of a proceedings may be apportioned between the several proceedings.
+
+<!-- marginal: Witness not -->
+
+228. Allowance may be made to a witness whether he
+
+<!-- marginal: called. -->
+
+was called or not, if his attendance was necessary.
 
 ## PART XXIV
 
 ## CONTEMPT OF COURT
 
-Notice to
+<!-- marginal: Notice to -->
 
-229. (1) The Court shall have the jurisdiction to show commence proceedings against any person for contempt cause. of Court and may, in such proceedings, make an order of committal for a period not exceeding six months or may impose a fine not exceeding two thousand ringgit.
+229. (1) The Court shall have the jurisdiction to
+
+<!-- marginal: show -->
+
+commence proceedings against any person for contempt
+
+<!-- marginal: cause. -->
+
+of Court and may, in such proceedings, make an order of committal for a period not exceeding six months or may impose a fine not exceeding two thousand ringgit.
 
 (2) Where contempt is committed in the face of the Court, it shall not be necessary for the Court to serve the notice to show cause but the Court shall ensure that the person alleged to be in contempt understands the nature of the offence alleged against him and has the opportunity to be heard in his own defence, and shall make a proper record of the proceedings.
 
 (3) In the case of contempt committed outside Court, notice to show cause why an action or proceedings should not be taken against him shall be served personally on the person alleged to have committed such contempt.
 
-Contempt by
+<!-- marginal: Contempt by -->
 
-230. Where contempt of Court is committed by a body body corporate, any person who at the time of the commission corporate. of such contempt is a director, manager or secretary of the body corporate or otherwise responsible for the
+230. Where contempt of Court is committed by a body
+
+<!-- marginal: body -->
+
+corporate, any person who at the time of the commission
+
+<!-- marginal: corporate. -->
+
+of such contempt is a director, manager or secretary of the body corporate or otherwise responsible for the
 
 <!-- page 83 -->
 
@@ -3282,13 +4156,25 @@ doing the act, the officer charged with doing of the act
 
 shall not be obliged to do it until the fee or deposit or the amount of the disbursement has been paid.
 
-Prohibition
+<!-- marginal: Prohibition -->
 
-236. No officer of the Court shall become a surety, or on officers sign any receipt or document or receive any money for of the Court. or on behalf of any party to any proceedings in the Court, or bid or otherwise become purchaser directly or indirectly at any sale by the Court.
+236. No officer of the Court shall become a surety, or
 
-Furnishing
+<!-- marginal: on officers -->
 
-237. (1) Security shall be given by deposit of money security. or by bond, the amount of which shall be fixed by the Court or the Registrar.
+sign any receipt or document or receive any money for
+
+<!-- marginal: of the Court. -->
+
+or on behalf of any party to any proceedings in the Court, or bid or otherwise become purchaser directly or indirectly at any sale by the Court.
+
+<!-- marginal: Furnishing -->
+
+237. (1) Security shall be given by deposit of money
+
+<!-- marginal: security. -->
+
+or by bond, the amount of which shall be fixed by the Court or the Registrar.
 
 (2) Expenses of security, if any, shall be borne by the person giving the security.
 
@@ -3298,9 +4184,19 @@ Furnishing
 
 (5) Where security is given by bond, one surety shall be required unless the Court otherwise orders.
 
-Enlargement
+<!-- marginal: Enlargement -->
 
-238. (1) The Court may, upon such terms as it thinks or just, by an order, extend or abridge the period within abridgement of time. which a person is required or authorized by this Act or by any judgment, order or direction to do any act in any proceedings.
+238. (1) The Court may, upon such terms as it thinks
+
+<!-- marginal: or -->
+
+just, by an order, extend or abridge the period within
+
+<!-- marginal: abridgement -->
+
+<!-- marginal: of time. -->
+
+which a person is required or authorized by this Act or by any judgment, order or direction to do any act in any proceedings.
 
 (2) The Court may extend any such period as is referred to in subsection (1) although the application
 
@@ -3308,13 +4204,13 @@ Enlargement
 
 extension is not made until after the expiration of such period.
 
-Scandalous
+<!-- marginal: Scandalous -->
 
-239. The Court may, of its own motion or on the matter, etc. application of any party, at any time, order that any scandalous, irrelevant, vexatious,
+239. The Court may, of its own motion or on the
 
-<!-- marginal: oppressive, -->
+<!-- marginal: matter, etc. -->
 
-argumentative or lengthy document, or content of a document, be struck out.
+application of any party, at any time, order that any scandalous, irrelevant, vexatious, oppressive, argumentative or lengthy document, or content of a document, be struck out.
 
 <!-- page 85 -->
 
@@ -3368,19 +4264,31 @@ may, in the case of any pending proceedings before another Court, take evidence 
 
 <!-- page 86 -->
 
-Inherent
+<!-- marginal: Inherent -->
 
-244. Nothing in this Act shall be deemed to limit or power of the affect the inherent power of the Court to make any order Court. as may be necessary to prevent injustice or to prevent an abuse of the process of the Court.
+244. Nothing in this Act shall be deemed to limit or
 
-Islamic Law.
+<!-- marginal: power of the -->
+
+affect the inherent power of the Court to make any order
+
+<!-- marginal: Court. -->
+
+as may be necessary to prevent injustice or to prevent an abuse of the process of the Court.
+
+<!-- marginal: Islamic Law. -->
 
 245. (1) Any provisions or interpretation of the provisions under this Act which is inconsistent with Islamic Law shall, to the extent of the inconsistency, be void.
 
 (2) In the event of a lacuna or where any matter is not expressly provided for in this Act, the Court shall apply Islamic Law.
 
-Rules
+<!-- marginal: Rules -->
 
-246. (1) There shall be established a Committee to be Committee. called the Syariah Court Rules Committee consisting of—
+246. (1) There shall be established a Committee to be
+
+<!-- marginal: Committee. -->
+
+called the Syariah Court Rules Committee consisting of—
 
 (a) the Chief Syariah Judge who shall be the Chairman;
 
@@ -3396,7 +4304,7 @@ Rules
 
 (3) The Chief Registrar of the Syariah Court shall be the* Secretary of the Committee.
 
-Rules.
+<!-- marginal: Rules. -->
 
 247. (1) The Syariah Court Rules Committee may make rules, which shall be published in the Gazette, for carrying out the provisions of this Act, and in particular but without prejudice to the generality of the foregoing, such rules may provide for—
 
@@ -3548,7 +4456,11 @@ Between
 
 (2) Plaintiff Applicant and
 
-(3) ....................................................................... Defendant Respondent
+(3) .......................................................................
+
+<!-- marginal: Defendant -->
+
+<!-- marginal: Respondent -->
 
 Notes:
 
@@ -3618,7 +4530,11 @@ To ..................................................... (the abovenamed defenda
 
 <!-- marginal: the -->
 
-abovenamed applicant will apply to the Syariah .......................................................................................... Court
+abovenamed applicant will apply to the
+
+<!-- marginal: Syariah -->
+
+.......................................................................................... Court
 
 <!-- marginal: at -->
 
@@ -3644,9 +4560,7 @@ Note: The nature of the order applied for shall be stated with precision. Differ
 
 (General Title)
 
-I....................................................................... make oath and say—
-
-1. I reside at..................................................................................
+I....................................................................... make oath and say— 1. I reside at..................................................................................
 
 and am a ....................................................................................... (state occupation)
 
@@ -3906,9 +4820,7 @@ I apply for an interpleader summons to be issued.
 
 Dated this ....... day of ................................ 19..... ...........•--•• -•
 
-Interpleader Summons to issue returnable the ...... day of .......................
-
-19...... at ........... a.m./p.m.
+Interpleader Summons to issue returnable the ...... day of ....................... 19...... at ........... a.m./p.m.
 
 Dated this ...... day of .................................. 19.......
 
@@ -4360,15 +5272,17 @@ I (name, address and description of deponent) make oath and say as follows:
 
 (State the facts to be deposed in numbered paragraph in the affidavit)
 
-1. .................................................................................................. 2. .................................................................................................. 3. .................................................................................................. 4. .................................................................................................
+1. ..................................................................................................
+
+2. ..................................................................................................
+
+3. ..................................................................................................
+
+4. .................................................................................................
 
 Sworn on this ..... day of ................... 19....,
 
-at ...................................................................
-
-<!-- marginal: Signature -->
-
-by ..................................................................
+at ................................................................... Signature by ..................................................................
 
 Before me,
 
@@ -4718,9 +5632,7 @@ To..............................................................................
 
 <!-- marginal: 'alaih. -->
 
-You are hereby summoned to appear before the abovenamed Court on ....................... the ........ day of................... 19..... at................... a.m./p.m. to be examined as to any property of the judgment debtor
-
-(name) ................................................................... which may be, or may, since the service of the hiwalah notice on you, have been in your possession, custody or control and as to any debts due or accruing due from you to the said judgment debtor, and to bring with you all books and other documents relating thereto in your possession, custody or control.
+You are hereby summoned to appear before the abovenamed Court on ....................... the ........ day of................... 19..... at................... a.m./p.m. to be examined as to any property of the judgment debtor (name) ................................................................... which may be, or may, since the service of the hiwalah notice on you, have been in your possession, custody or control and as to any debts due or accruing due from you to the said judgment debtor, and to bring with you all books and other documents relating thereto in your possession, custody or control.
 
 Take notice that, in default of such appearance, an order may be made against you in your absence.
 
@@ -4996,7 +5908,7 @@ Dated this .............. day of ................................ 19.........
 
 (Seal)
 
-<!-- marginal: Registrar -->
+Registrar
 
 ## FORM MS 48
 
@@ -5016,9 +5928,7 @@ Whereas it has been shown to be satisfaction of the Court that the judgment debt
 
 <!-- page 126 -->
 
-he is imprisoned under an Order of Commitment No. ............. of
-
-19.......... dated the ............ day of ................................. 19............ in the above action.
+he is imprisoned under an Order of Commitment No. ............. of 19.......... dated the ............ day of ................................. 19............ in the above action.
 
 You are hereby directed to discharge from your custody the said judgment debtor for which this Order shall be your sufficient authority.
 

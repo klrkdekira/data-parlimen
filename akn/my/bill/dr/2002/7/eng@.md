@@ -148,7 +148,9 @@ a term not exceeding one year or to a fine not exceeding three thousand ringgit 
 
 <!-- page 6 -->
 
-6 Bill
+<!-- marginal: 6 -->
+
+Bill
 
 (c) inform the presiding officer at each polling station in writing of the name and address of—
 
@@ -324,7 +326,9 @@ or any form of temporary billboard and the measurement for each—
 
 <!-- page 12 -->
 
-12 Bill
+<!-- marginal: 12 -->
+
+Bill
 
 pursuant to section 24e(2) or committee-room hired pursuant to section (4)(b);
 
@@ -556,7 +560,9 @@ delete whichever is inapplicable."; and
 
 <!-- page 20 -->
 
-20 Bill
+<!-- marginal: 20 -->
+
+Bill
 
 (B) by deleting the words "and if no such writing be left or address given, then all notices may be given by leaving the same at the office of the Registrar.";
 
@@ -588,11 +594,7 @@ delete whichever is inapplicable."; and
 
 <!-- page 21 -->
 
-newspaper circulating within
-
-<!-- marginal: the -->
-
-constituency or electoral ward in which the election was held stating that such petition has been presented and that a copy of the notice of presentation of the petition and a copy of the petition may be obtained by the respondent free of charge on application at the office of the Registrar.
+newspaper circulating within the constituency or electoral ward in which the election was held stating that such petition has been presented and that a copy of the notice of presentation of the petition and a copy of the petition may be obtained by the respondent free of charge on application at the office of the Registrar.
 
 (2) If the respondent to whom there has been addressed a pre-paid registered post referred to in subrule (1)—
 
@@ -612,7 +614,9 @@ shall, until the contrary is proved, be evidence that the addressee has been so 
 
 <!-- page 22 -->
 
-22 Bill
+<!-- marginal: 22 -->
+
+Bill
 
 (4) An affidavit of service of the documents referred to in subrule (1) stating by whom the documents were served, the day of the week and date on which the documents were served, where they were served and how they were served must be filed in the Court in which the petition was presented.";
 
@@ -644,9 +648,7 @@ shall, until the contrary is proved, be evidence that the addressee has been so 
 
 <!-- page 23 -->
 
-Elections Offences (Amendment)
-
-<!-- marginal: 23 -->
+Elections Offences (Amendment) 23
 
 shall be given by the party or person interested in the same manner as notice of an application to withdraw a petition.
 
@@ -782,4 +784,4 @@ The effect of the decision of an Election Judge or the Federal Court is provided
 
 This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
 
-[PN(U2)2190J
+<!-- marginal: [PN(U2)2190J -->

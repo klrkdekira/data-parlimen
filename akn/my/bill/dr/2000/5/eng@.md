@@ -90,9 +90,7 @@ This Bill seeks to amend the Sale of Drugs Act 1952 ("Act 368") to extend the sc
 
 3. To achieve the purpose of increasing the penalties under Act 368, it is that section 12 of Act 368 be amended so that the proposed, in clause 5, general penalty for an individual offender is increased from a fine of five hundred ringgit to a maximum fine of twenty-five thousand ringgit or imprisonment for a maximum term of three years or to both for a first offence, and a maximum fine of fifty thousand ringgit or imprisonment for a maximum term of five years for a second or subsequent offence. For a body corporate, it is proposed that the quantum of the maximum fines be doubled.
 
-4. Clause 4 of the Bill seeks to repeal subsection 10(4) of Act 368 which contains the penalty for the contravention of that section. With this repeal, the general penalty proposed in clause 5 shall apply to offences against section
-
-10.
+4. Clause 4 of the Bill seeks to repeal subsection 10(4) of Act 368 which contains the penalty for the contravention of that section. With this repeal, the general penalty proposed in clause 5 shall apply to offences against section 10.
 
 5. Another proposal for the purpose of increasing penalties under Act 368 is contained in clause 8. It is proposed that the penalty for the contravention of regulations made under Act 368 be increased from a fine of one thousand ringgit to a fine not exceeding fifty thousand ringgit or im~risonment for a term not exceeding five years or both.
 

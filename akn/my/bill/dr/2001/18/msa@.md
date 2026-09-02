@@ -6,9 +6,7 @@
 
 bernama
 
-Suatu Akta untuk meminda Akta Kumpulan Wang Simpanan Pekerja
-
-1991.
+Suatu Akta untuk meminda Akta Kumpulan Wang Simpanan Pekerja 1991.
 
 ### [
 
@@ -86,7 +84,9 @@ mengikut apa-apa cara yang ditetapkan oleh Lembaga.
 
 (d) dengan memasukkan selepas subseksyen (4) subseksyen yang berikut:
 
-"(4A) Subseksyen (5) tidak terpakai bagi seseorang ahli Kumpulan Wang yang disebut dalam subseksyen (4).";
+"(4A) Subseksyen (5) tidak terpakai bagi seseorang ahli Kumpulan Wang yang disebut dalam subseksyen
+
+(4).";
 
 (e) dalam subseksyen (6)—
 
@@ -116,9 +116,33 @@ mengikut apa-apa cara yang ditetapkan oleh Lembaga.
 
 ### "
 
-Penge- 54c. (1) Tertakluk kepada seksyen 56, Lembaga boleh luaran membenarkan seseorang ahli Kumpulan Wang yang oleh pekerja merupakan seorang pekerja berpencen yang belum berpencen. mencapai umur lima puluh lima tahun dan masih bekerja dengan Kerajaan Malaysia, mana-mana Kerajaan Negeri atau pihak berkuasa berkanun atau tempatan untuk mengeluarkan kesemua jumlah wang yang ada pada kreditnya mengikut apa-apa terma dan syarat yang ditetapkan oleh Lembaga.
+<!-- marginal: Penge- -->
 
-(2) Walau apa pun subseksyen (1), Lembaga boleh membenarkan seseorang ahli Kumpulan Wang yang merupakan seorang pekerja berpencen yang belum mencapai umur lima puluh lima tahun untuk mengeluarkan kesemua atau sebahagian daripada jumlah wang yang ada pada kreditnya atas apa-apa terma dan syarat yang ditetapkan oleh Lembaga jika Lembaga berpuas hati bahawa ahli Kumpulan Wang itu telah dikehendaki untuk bersara atau telah memilih untuk bersara di bawah seksyen 10, Akta 227. 11, 12 dan 12A Akta Pencen 1980 atau seksyen 10, 11, Akta 239. 12 dan 13 Akta Pencen Pihak-Pihak Berkuasa Berkanun dan Tempatan 1980.
+54c. (1) Tertakluk kepada seksyen 56, Lembaga boleh
+
+<!-- marginal: luaran -->
+
+membenarkan seseorang ahli Kumpulan Wang yang
+
+<!-- marginal: oleh -->
+
+<!-- marginal: pekerja -->
+
+merupakan seorang pekerja berpencen yang belum
+
+<!-- marginal: berpencen. -->
+
+mencapai umur lima puluh lima tahun dan masih bekerja dengan Kerajaan Malaysia, mana-mana Kerajaan Negeri atau pihak berkuasa berkanun atau tempatan untuk mengeluarkan kesemua jumlah wang yang ada pada kreditnya mengikut apa-apa terma dan syarat yang ditetapkan oleh Lembaga.
+
+(2) Walau apa pun subseksyen (1), Lembaga boleh membenarkan seseorang ahli Kumpulan Wang yang merupakan seorang pekerja berpencen yang belum mencapai umur lima puluh lima tahun untuk mengeluarkan kesemua atau sebahagian daripada jumlah wang yang ada pada kreditnya atas apa-apa terma dan syarat yang ditetapkan oleh Lembaga jika Lembaga berpuas hati bahawa ahli Kumpulan Wang itu telah dikehendaki untuk bersara atau telah memilih untuk bersara di bawah seksyen 10,
+
+<!-- marginal: Akta 227. -->
+
+11, 12 dan 12A Akta Pencen 1980 atau seksyen 10, 11,
+
+<!-- marginal: Akta 239. -->
+
+12 dan 13 Akta Pencen Pihak-Pihak Berkuasa Berkanun dan Tempatan 1980.
 
 <!-- page 6 -->
 

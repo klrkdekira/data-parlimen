@@ -4,7 +4,7 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -12,7 +12,7 @@
 
 2. Interpretation
 
-## Part II
+## PART II
 
 ## NATIONAL SPORTS INSTITUTE
 
@@ -58,7 +58,7 @@
 
 20. Financial assistance to officers, employees and other persons
 
-## Part IV
+## PART IV
 
 ## SERVICES IN SPORTS SCIENCE AND SPORTS MEDICINE
 
@@ -68,7 +68,7 @@
 
 23. Database
 
-## Part V
+## PART V
 
 ## RESEARCH, DEVELOPMENT AND COMMERCIALIZATION
 
@@ -82,7 +82,7 @@
 
 28. Commercialization of research findings
 
-## Part VI
+## PART VI
 
 ## FINANCE
 
@@ -106,7 +106,7 @@
 
 <!-- page 3 -->
 
-## Part VII
+## PART VII
 
 ## OTHER POWERS OF THE INSTITUTE
 
@@ -136,7 +136,7 @@
 
 48. Acts done in anticipation of the enactment of this Act
 
-## Schedule
+## SCHEDULE
 
 <!-- page 5 -->
 
@@ -148,13 +148,15 @@ An Act to provide for the establishment of the National Sports Institute, to set
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 ### Short title and commencement
 
-1. (1) This Act may be cited as the National Sports Institute Act 2011.
+1. (1) This Act may be cited as the National Sports Institute Act
+
+2011.
 
 (2) This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette.
 
@@ -196,7 +198,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 7 -->
 
-## Part II
+## PART II
 
 ## NATIONAL SPORTS INSTITUTE
 
@@ -460,7 +462,7 @@ and any function or power so delegated may be performed or exercised by the memb
 
 (12) and (13) shall be deemed to have been duly convened and held and all members thereat to have been duly qualified to act.
 
-## Part III
+## PART III
 
 ## CHIEF EXECUTIVE OFFICER, OFFICERS AND EMPLOYEES OF THE
 
@@ -514,7 +516,7 @@ on such terms and conditions as the Institute may determine.
 
 <!-- page 18 -->
 
-## Part IV
+## PART IV
 
 ## SERVICES IN SPORTS SCIENCE AND SPORTS MEDICINE
 
@@ -550,7 +552,7 @@ on such terms and conditions as the Institute may determine.
 
 (2) The Institute may make a written request for any additional information relating to the athletes and potential athletes from any Government entity, public or private higher educational institutions, sports body or organization for the purpose of updating the database.
 
-## Part V
+## PART V
 
 ## RESEARCH, DEVELOPMENT AND COMMERCIALIZATION
 
@@ -600,7 +602,7 @@ on such terms and conditions as the Institute may determine.
 
 <!-- page 21 -->
 
-## Part VI
+## PART VI
 
 ## FINANCE
 
@@ -670,7 +672,9 @@ on such terms and conditions as the Institute may determine.
 
 (2) Before 1 September of each year, the Institute shall submit to the Minister an estimate of the expenditure, including the expenditure for research and development activities, for the following year in such form and containing such particulars as the Minister may direct.
 
-(3) The Minister shall, before the beginning of the following year, notify the Institute of the amount authorized for expenditure generally or of the amounts authorized for each description of expenditure based on the estimate prepared under subsection (2).
+(3) The Minister shall, before the beginning of the following year, notify the Institute of the amount authorized for expenditure generally or of the amounts authorized for each description of expenditure based on the estimate prepared under subsection
+
+(2).
 
 (4) The Institute may at any time submit to the Minister a supplementary estimate of its expenditure for any one year and the Minister may allow the whole or any part of the additional expenditure included in the supplementary estimate.
 
@@ -694,7 +698,7 @@ on such terms and conditions as the Institute may determine.
 
 37. The Statutory Bodies (Accounts and Annual Reports) Act 1980 [Act 240] shall apply to the Institute.
 
-## Part VII
+## PART VII
 
 ## OTHER POWERS OF THE INSTITUTE
 
@@ -780,7 +784,7 @@ in respect of any act, neglect, default or omission done or omitted by him or it
 
 48. All acts and things done by any person on behalf of the Institute in the preparation for or in anticipation of the enactment of this Act and any expenditure incurred in relation thereto shall be deemed to have been authorized under this Act, provided that the acts and things done are consistent with the general intention and purposes of this Act; and all rights and obligations acquired or incurred as a result of doing those acts or things including any expenditure incurred in relation thereto shall, on coming into operation of this Act, be deemed to be the rights and obligations of the Institute.
 
-## Schedule
+## SCHEDULE
 
 [Subsection 7(2)]
 
@@ -842,7 +846,7 @@ in respect of any act, neglect, default or omission done or omitted by him or it
 
 The proposed National Sports Institute Act 2011 (“the Act”) seeks to establish the National Sports Institute, to set out the functions and powers of the Institute and to provide for matters connected therewith or incidental thereto. The establishment of the National Sports Institute is to strengthen the provision of services in sports science and sports medicine towards national sports excellence. These services will benefit not only the athletes but also the development of the sports industry as one of the country’s economic generators.
 
-## Part I
+## PART I
 
 2. Part I of the Bill contains preliminary matters.
 
@@ -850,7 +854,7 @@ The proposed National Sports Institute Act 2011 (“the Act”) seeks to establi
 
 4. Clause 2 contains the definitions of certain expressions used in the Act.
 
-## Part II
+## PART II
 
 5. Part II of the Bill contains provisions relating to the National Sports Institute.
 
@@ -882,7 +886,7 @@ The proposed National Sports Institute Act 2011 (“the Act”) seeks to establi
 
 18. Clause 17 seeks to empower the Institute to establish committees to assist it in the performance of its functions under the Act.
 
-## Part III
+## PART III
 
 19. Part III of the Bill contains provisions on the Chief Executive Officer, officers and employees of the Institute.
 
@@ -892,7 +896,7 @@ The proposed National Sports Institute Act 2011 (“the Act”) seeks to establi
 
 22. Clause 20 seeks to empower the Institute to grant financial assistance to its officers, employees and other persons.
 
-## Part IV
+## PART IV
 
 23. Part IV of the Bill contains provisions on services in sports science and sports medicine.
 
@@ -904,7 +908,7 @@ The proposed National Sports Institute Act 2011 (“the Act”) seeks to establi
 
 26. Clause 23 places a duty on the Institute to keep and update the database of athletes and potential athletes.
 
-## Part V
+## PART V
 
 27. Part V of the Bill contains provisions on research, development and commercialization.
 
@@ -918,7 +922,7 @@ The proposed National Sports Institute Act 2011 (“the Act”) seeks to establi
 
 32. Clause 28 provides for the commercialization of research findings.
 
-## Part VI
+## PART VI
 
 33. Part VI of the Bill contains financial provisions.
 
@@ -940,7 +944,7 @@ The proposed National Sports Institute Act 2011 (“the Act”) seeks to establi
 
 41. Clause 37 provides that the Statutory Bodies (Accounts and Annual Reports) Act 1980 [Act 240] applies to the Institute.
 
-## Part VII
+## PART VII
 
 42. Part VII of the Bill deals with other powers of the Institute.
 

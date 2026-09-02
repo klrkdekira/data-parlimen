@@ -1,0 +1,642 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-13-2024",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_12"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Constitution (Amendment) Bill 2024"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The First Schedule to the Federal Constitution is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “[Articles 18(1), 19(9)]” the words “[Articles 18(1), 18(1a), 19(9) and section 3 of Part II of the Second Schedule]”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the heading “Oath of Applicants for Registration or Naturalization” the heading “Oath of Renunciation, Loyalty and Allegiance”. Amendment of Second Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Second Schedule to the Federal Constitution is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Part II—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_i__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_i__subpara_B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_i__subpara_C",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_i__subpara_D"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in section 1—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_i__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the words “either a citizen or permanently resident in the Federation” the words “a citizen”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_i__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_i__subpara_B__subpara_AA",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_i__subpara_B__subpara_BB"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_i__subpara_B__subpara_AA",
+      "@type": "akn:subparagraph",
+      "eli:number": "AA",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_i__subpara_B",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “whose father” the words “of whose parents one at least”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_i__subpara_B__subpara_BB",
+      "@type": "akn:subparagraph",
+      "eli:number": "BB",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_i__subpara_B",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “of a State” the words “and whose birth is, within one year of its occurrence or within such longer period as the Federal Government may in any particular case allow, registered at a consulate of the Federation or with the Federal Government”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_i__subpara_C",
+      "@type": "akn:subparagraph",
+      "eli:number": "C",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_i__subpara_C__subpara_AA",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_i__subpara_C__subpara_BB"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_i__subpara_C__subpara_AA",
+      "@type": "akn:subparagraph",
+      "eli:number": "AA",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_i__subpara_C",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “whose father” the words “of whose parents one at least”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_i__subpara_C__subpara_BB",
+      "@type": "akn:subparagraph",
+      "eli:number": "BB",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_i__subpara_C",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words “in Brunei or”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_i__subpara_D",
+      "@type": "akn:subparagraph",
+      "eli:number": "D",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph (d);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_ii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in section 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by deleting the words “, (d)”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “his father” wherever appearing the words “his mother or father”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after section 2 the following section: “3. (1) A person who is a citizen by virtue of paragraph (b) or (c) of section 1 shall, within forty-eight months after he attains the age of eighteen years, take the oath set out in the First Schedule. (2) Where a citizen referred to in subsection (1) fails to take the oath set out in the First Schedule upon attaining the age of twenty-two years, he shall cease to be a citizen. (3) A child born outside the Federation, to a person who is a citizen by virtue of paragraph (c) of section 1 and does not reside in the Federation, is not a citizen by operation of law and such person may make an application for his child to be a citizen by registration.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Part III—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in section 9, by substituting for the words “twenty-one years” the words “eighteen years”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_b__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_b__subpara_ii__subpara_B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_b__subpara_ii__subpara_C",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_b__subpara_ii__subpara_D"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in section 19—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_b__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_b__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “the father” wherever appearing the words “the mother or father”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_b__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_b__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “his father” the words “his mother or father”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_b__subpara_ii__subpara_C",
+      "@type": "akn:subparagraph",
+      "eli:number": "C",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_b__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “the father’s death” the words “the death of his mother or father”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_b__subpara_ii__subpara_D",
+      "@type": "akn:subparagraph",
+      "eli:number": "D",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_b__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “had he died after Merdeka Day shall be deemed to be the status or description applicable to him at the time of his death” the words “had she or he died after Merdeka Day shall be deemed to be the status or description applicable to her or him at the time of her or his death”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_11__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in section 19b, by substituting for the words “a mother permanently resident there” the words “a mother who is a citizen.” Saving"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_12__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The status of citizenship of any person born within or outside the Federation before the date of coming into operation of this Act shall, on the date of coming into operation of this Act, be dealt with in accordance with Part III of the Federal Constitution as if the Federal Constitution had not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any application made by any person to the Federal Government under Part III of the Federal Constitution which is pending before the date of coming into operation of this Act shall, on the date of coming into operation of this Act, be dealt with in accordance with Part III of the Federal Constitution as if the Federal Constitution had not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Constitution (Amendment) Act 2024."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Yang di-Pertuan Agong by notification in the Gazette and the Yang di-Pertuan Agong may appoint different dates for the coming into operation of different provisions of this Act. Amendment of Article 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Federal Constitution is amended in Article 15—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_2__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_2__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_2__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_2__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by deleting the word “and” at the end of the paragraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_2__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the full stop at the end of the paragraph the words “; and”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_2__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (b) the following paragraph: “(c) that she has an adequate knowledge of the Malay language.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (2), by substituting for the words “twenty-one years” the words “eighteen years”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting Clause (3). Amendment of Article 15a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Article 15a of the Federal Constitution is amended by substituting for the words “twenty-one years” the words “eighteen years”. Deletion of Article 16a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Federal Constitution is amended by deleting Article 16a. Amendment of Article 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Article 18 of the Federal Constitution is amended by inserting after Clause (1) the following Clause: “(1a) A person under the age of eighteen years who is a citizen by registration shall, upon attaining the age of eighteen years, take the oath set out in the First Schedule, and if the person fails to take the oath within forty-eight months after he attains the age of eighteen years, he shall cease to be a citizen.”. Amendment of Article 19"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 19 of the Federal Constitution is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (1), by substituting for the words “twenty-one years” the words “eighteen years”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (2), by substituting for the words “twenty-one years” the words “eighteen years”. Amendment of Article 23"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 23 of the Federal Constitution is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (1), by substituting for the words “twenty-one years” the words “eighteen years”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for Clause (2) the following Clause: “(2) Except with the approval of the Federal Government, a declaration made under this Article shall not be registered if— (a) the declaration is made during any war in which the Federation is engaged; or (b) the Federal Government is satisfied that such renunciation is prejudicial to the security of the Federation or any part of the Federation, public order or public interest.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_7__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_7__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_7__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_7__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text, by substituting for the words “twenty-one years” the words “eighteen years”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_7__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_7__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, by substituting for the words “dua puluh satu tahun” wherever appearing the words “lapan belas tahun”. Amendment of Article 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Article 26 of the Federal Constitution is amended in Clause (2) by substituting for the words “date of the marriage” the words “date of the acquisition of citizenship by registration”. Amendment of Article 26a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Article 26a of the Federal Constitution is amended by substituting for the words “twenty-one” the word “eighteen”. Amendment of First Schedule"
+      }
+    }
+  ]
+}

@@ -16,19 +16,7 @@
 
 ## ESTABLISHMENT OF OFFSHORE LIMITED PARTNERSHIPS
 
-3. Offshore limited partnership.
-
-4. Registration of an offshore limited partnership.
-
-5. Amendment of partnership agreement.
-
-6. Name of partnership.
-
-7. Registered office.
-
-8. Contribution of limited partner.
-
-9. Rights and obligations of general partner.
+3. Offshore limited partnership. 4. Registration of an offshore limited partnership. 5. Amendment of partnership agreement. 6. Name of partnership. 7. Registered office. 8. Contribution of limited partner. 9. Rights and obligations of general partner.
 
 10. Enforcement of judgments against property of offshore limited
 
@@ -80,9 +68,7 @@ III
 
 30. Inspection and production of documents kept by the Authority
 
-31. Form of offshore limited partnership's records.
-
-32. Offences relating to the documents of offshore limited
+31. Form of offshore limited partnership's records. 32. Offences relating to the documents of offshore limited
 
 33. Offence by body corporate, etc.
 
@@ -162,9 +148,17 @@ date as the Minister may, by notification in the Gazette, appoint.
 
 "Minister" means the Minister for the time being charged with the responsibility for finance;
 
-"non-resident" has the meaning assigned to it in the Act 442. Labuan Trust Companies Act 1990;
+"non-resident" has the meaning assigned to it in the
 
-"offshore company" has the meaning assigned to it in Act 441. the Offshore Companies Act 1990;
+<!-- marginal: Act 442. -->
+
+Labuan Trust Companies Act 1990;
+
+"offshore company" has the meaning assigned to it in
+
+<!-- marginal: Act 441. -->
+
+the Offshore Companies Act 1990;
 
 "offshore financial services" has the meaning assigned to it in the Authority Act;
 
@@ -206,9 +200,17 @@ Labuan Trust Companies Act 1990.
 
 ## PARTNERSHIPS
 
-Offshore
+<!-- marginal: Offshore -->
 
-3. (1) Subject to the provisions of this Act, an limited offshore limited partnership may be formed by any partnership. person for any lawful purpose.
+3. (1) Subject to the provisions of this Act, an
+
+<!-- marginal: limited -->
+
+offshore limited partnership may be formed by any
+
+<!-- marginal: partnership. -->
+
+person for any lawful purpose.
 
 (2) An offshore limited partnership shall consist of not less than two partners and not more than twenty partners, of whom—
 
@@ -344,9 +346,13 @@ shall end with the words "Limited Partnership" in full or the abbreviation "Ltd.
 
 (5) The Authority may refuse to register an offshore limited partnership where the name of the offshore limited partnership to be registered is in its opinion in any way misleading or otherwise undesirable.
 
-Registered
+<!-- marginal: Registered -->
 
-7. (1) An offshore limited partnership shall have a office. registered office in Labuan which shall be the registered office of a trust company.
+7. (1) An offshore limited partnership shall have a
+
+<!-- marginal: office. -->
+
+registered office in Labuan which shall be the registered office of a trust company.
 
 (2) An offshore limited partnership may change the address of its registered office from time to time by filing notice of such change with the Authority.
 
@@ -388,9 +394,17 @@ change of address of an offshore limited partnership is registered, a person may
 
 (7) If an offshore limited partnership fails to comply with this section, the offshore limited partnership and each of the general partners shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one thousand ringgit and, in the case of a continuing offence, to a further fine not exceeding two hundred ringgit for each day on which the offence continues after conviction.
 
-Contribution
+<!-- marginal: Contribution -->
 
-8. (1) Any contribution to be made by a limited partner of limited to an offshore limited partnership may be in the form partner. of money in any currency, any other property, or services.
+8. (1) Any contribution to be made by a limited partner
+
+<!-- marginal: of limited -->
+
+to an offshore limited partnership may be in the form
+
+<!-- marginal: partner. -->
+
+of money in any currency, any other property, or services.
 
 (2) Where the contribution of the limited partner is made or undertaken to be made otherwise than in cash—
 
@@ -456,9 +470,15 @@ or a limited partner of the offshore limited partnership, shall have no claim ag
 
 (3) Nothing in subsection (1) shall preclude the enforcement of an order of the court relating to the property of an offshore limited partnership in any case where, by reason of any of the events mentioned in paragraph 22(l)(a) or 22(1)(b), a judgment could not be granted against a general partner in his capacity as a general partner of that offshore limited partnership.
 
-Rights of
+<!-- marginal: Rights of -->
 
-11. (1) A limited partner has the same right as a general limited partner— partner.
+11. (1) A limited partner has the same right as a general
+
+<!-- marginal: limited -->
+
+partner—
+
+<!-- marginal: partner. -->
 
 (a) during business hours, to inspect and make copies of or take extracts from the offshore limited partnership books, documents and records; and
 
@@ -534,9 +554,19 @@ contributions; and
 
 (c) any other matter.
 
-Return of
+<!-- marginal: Return of -->
 
-15. (1) A limited partner shall not, on dissolution or limited otherwise, receive out of the capital of an offshore limited partner's contribution. partnership a payment representing a return of any part of his contribution to the offshore limited partnership unless at the time of and immediately following such payment the offshore limited partnership is solvent.
+15. (1) A limited partner shall not, on dissolution or
+
+<!-- marginal: limited -->
+
+otherwise, receive out of the capital of an offshore limited
+
+<!-- marginal: partner's -->
+
+<!-- marginal: contribution. -->
+
+partnership a payment representing a return of any part of his contribution to the offshore limited partnership unless at the time of and immediately following such payment the offshore limited partnership is solvent.
 
 (2) For a period of six months from the date of receipt by a limited partner of any payment representing a return of contribution or part thereof received by such limited partner in circumstances where the requirements of subsection (1) have not been met, such payment shall be repayable by such limited partner with interest at the prescribed rate to the extent that such contribution or part thereof is necessary to discharge a debt or obligation of the offshore limited partnership incurred during the period that the contribution represented an asset of the offshore limited partnership.
 
@@ -654,7 +684,7 @@ with the partnership agreement and by entry in the register under paragraph l(4)
 
 <!-- page 20 -->
 
-Assignments.
+<!-- marginal: Assignments. -->
 
 19. (1) A limited partner shall not assign his interest, in whole or in part, in the offshore limited partnership unless—
 
@@ -798,9 +828,23 @@ partnership to creditors shall be paid first, and then tax liabilities due to th
 
 (e) to general partners in respect of their share of profits.
 
-Legal
+<!-- marginal: Legal -->
 
-25. (1) Except as provided in this Act, legal proceedings proceedings by or against an offshore limited partnership shall be and service of instituted by or against any one or more of the general documents. partners only and no limited partner shall be a party to or named in such proceedings.
+25. (1) Except as provided in this Act, legal proceedings
+
+<!-- marginal: proceedings -->
+
+by or against an offshore limited partnership shall be
+
+<!-- marginal: and service -->
+
+<!-- marginal: of -->
+
+instituted by or against any one or more of the general
+
+<!-- marginal: documents. -->
+
+partners only and no limited partner shall be a party to or named in such proceedings.
 
 (2) A general partner or, with the leave of the court, any other person shall have the right to join or otherwise institute proceedings against one or more of the limited partners who may be liable to the offshore limited partnership pursuant to subsection 12(3), subsection 15(2), section 16 or subsection 17(3).
 
@@ -812,9 +856,13 @@ Legal
 
 (b) sending it by post or delivering it to the registered office of the offshore limited partnership.
 
-Authority to
+<!-- marginal: Authority to -->
 
-26. Where a general partner executes a document on sign. behalf of the offshore limited partnership, it shall be
+26. Where a general partner executes a document on
+
+<!-- marginal: sign. -->
+
+behalf of the offshore limited partnership, it shall be
 
 <!-- page 25 -->
 
@@ -848,25 +896,69 @@ duties conferred or imposed upon the Authority under any other written law, the 
 
 <!-- page 26 -->
 
-Prohibition
+<!-- marginal: Prohibition -->
 
-28. (1) An offshore limited partnership shall not carry and on in Labuan any business which an offshore company restriction on offshore is prohibited to carry on unless expressly permitted under limited this Act. partnership.
+28. (1) An offshore limited partnership shall not carry
+
+<!-- marginal: and -->
+
+on in Labuan any business which an offshore company
+
+<!-- marginal: restriction on -->
+
+<!-- marginal: offshore -->
+
+is prohibited to carry on unless expressly permitted under
+
+<!-- marginal: limited -->
+
+this Act.
+
+<!-- marginal: partnership. -->
 
 (2) The Minister may, by notice published in the Gazette, order that any offshore limited partnership be restricted from carrying on any specified business in Labuan and may, by notice published in the Gazette, impose conditions subject to which any specified business may be carried on by an offshore limited partnership in Labuan.
 
 (3) Any offshore limited partnership which contravenes subsection (1) or the restriction or order or condition imposed under subsection (2) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one thousand ringgit.
 
-Fees.
+<!-- marginal: Fees. -->
 
 29. (1) The Authority may charge fees in respect of any services provided by the Authority under this Act.
 
 (2) Any fees collected by or paid to the Authority under this Act shall form part of and credited into its Fund established under section 29 of the Authority Act,
 
-Inspection
+<!-- marginal: Inspection -->
 
-30. (1) Subject to the provisions of this Act, a person and may if so authorised by the relevant offshore limited production partnership— of documents kept by the Authority
+30. (1) Subject to the provisions of this Act, a person
 
-(a) inspect a document served on, registered by or and the filed with the Authority under this Act and kept offshore limited by the Authority or, if the Authority thinks fit, partnership. a copy thereof;
+<!-- marginal: and -->
+
+may if so authorised by the relevant offshore limited
+
+<!-- marginal: production -->
+
+partnership—
+
+<!-- marginal: of documents -->
+
+<!-- marginal: kept by the -->
+
+<!-- marginal: Authority -->
+
+(a) inspect a document served on, registered by or
+
+<!-- marginal: and the -->
+
+filed with the Authority under this Act and kept
+
+<!-- marginal: offshore -->
+
+<!-- marginal: limited -->
+
+by the Authority or, if the Authority thinks fit,
+
+<!-- marginal: partnership. -->
+
+a copy thereof;
 
 (b) require to be given to him a certificate of the registration of an offshore limited partnership or of any other document or part of any other document referred to in paragraph (a),
 
@@ -942,25 +1034,51 @@ corporate, any person who at the time of the commission of the offence was a dir
 
 28 Bill
 
-Documents
+<!-- marginal: Documents -->
 
-34. (1) Every document required or permitted to be lodged to be filed or filed with the Authority under this Act shall be lodged through trust company. or filed through a trust company.
+34. (1) Every document required or permitted to be lodged
+
+<!-- marginal: to be filed -->
+
+or filed with the Authority under this Act shall be lodged
+
+<!-- marginal: through trust -->
+
+<!-- marginal: company. -->
+
+or filed through a trust company.
 
 (2) Every application to the Authority for any certificate or for any extract or copy of any certificate to be issued under this Act or of any document lodged or filed with the Authority shall be made through a trust company.
 
 (3) Subsection (2) shall not apply where an application is made in respect of an offshore limited partnership by any of the partners of that offshore limited partnership and the document, certificate, extract or copy is for his own personal use.
 
-Procedure
+<!-- marginal: Procedure -->
 
-35. In the event that any act or step is required or where none permitted to be done or taken under this Act and no laid down. form is prescribed or procedure laid down either in this Act or the regulations made under this Act application may be made to the Authority for directions as to the manner in which the same may be done or taken, and any act or step done or taken in accordance with his directions shall be a valid performance of such act or step.
+35. In the event that any act or step is required or
 
-Indemnity.
+<!-- marginal: where none -->
+
+permitted to be done or taken under this Act and no
+
+<!-- marginal: laid down. -->
+
+form is prescribed or procedure laid down either in this Act or the regulations made under this Act application may be made to the Authority for directions as to the manner in which the same may be done or taken, and any act or step done or taken in accordance with his directions shall be a valid performance of such act or step.
+
+<!-- marginal: Indemnity. -->
 
 36. The Authority or any officer or agent or servant of the Authority shall not be liable to be sued in any court for any act or matter done or ordered to be done or omitted to be done, by the Authority or him in good faith and in the intended exercise of any power or performance of any duty conferred or imposed on the Authority or him by or under this Act.
 
-Power to
+<!-- marginal: Power to -->
 
-37. (1) The Chairman may, with the written consent of compound the Public Prosecutor, in a case where he deems it fit offences. and proper so to do, compound any offence committed by any person which is punishable under this Act, by making a written offer to such person to compound the offence by paying to the Chairman, within such time as
+37. (1) The Chairman may, with the written consent of
+
+<!-- marginal: compound -->
+
+the Public Prosecutor, in a case where he deems it fit
+
+<!-- marginal: offences. -->
+
+and proper so to do, compound any offence committed by any person which is punishable under this Act, by making a written offer to such person to compound the offence by paying to the Chairman, within such time as
 
 <!-- page 29 -->
 
@@ -996,13 +1114,21 @@ the Authority may within 30 days from the date of the expiration of the period m
 
 (3) An offshore limited partnership that has been struck off the register under this section remains liable for all claims, debts, liabilities and obligations of the offshore limited partnership, and the striking off shall not affect the liability of any of its partners.
 
-Restoration
+<!-- marginal: Restoration -->
 
-39. Where the name of an offshore limited partnership to register. has been struck off the register under subsection 38(2), the offshore limited partnership, or a partner or a liquidator thereof may, within - 3 years immediately following the date of the striking-off, apply to the Authority to have the name of the offshore limited partnership restored to the register, and upon payment to the Authority of the prescribed fees and all other prescribed fees due, the Authority may restore the name of the offshore limited partnership to the register and upon restoration of the name of the offshore, limited partnership to the register, the name of the offshore limited partnership shall be deemed never to have been struck off the register.
+39. Where the name of an offshore limited partnership
 
-Effect of
+<!-- marginal: to register. -->
 
-40. (1) Where the name of an offshore limited striking off. partnership has been struck off the register, the offshore limited partnership, and the partners, liquidators and receivers thereof, shall not—
+has been struck off the register under subsection 38(2), the offshore limited partnership, or a partner or a liquidator thereof may, within - 3 years immediately following the date of the striking-off, apply to the Authority to have the name of the offshore limited partnership restored to the register, and upon payment to the Authority of the prescribed fees and all other prescribed fees due, the Authority may restore the name of the offshore limited partnership to the register and upon restoration of the name of the offshore, limited partnership to the register, the name of the offshore limited partnership shall be deemed never to have been struck off the register.
+
+<!-- marginal: Effect of -->
+
+40. (1) Where the name of an offshore limited
+
+<!-- marginal: striking off. -->
+
+partnership has been struck off the register, the offshore limited partnership, and the partners, liquidators and receivers thereof, shall not—
 
 (a) commence or defend any legal proceedings, carry on any business or in any way deal with the assets of the offshore limited partnership;
 
@@ -1054,7 +1180,7 @@ any information concerning or touching upon partnership interest, management, an
 
 (4) Nothing in this section shall prevent any court from exercising its discretion to require any person to produce any document or to give any evidence in any proceedings before the court which is relevant to those proceedings.
 
-Regulations.
+<!-- marginal: Regulations. -->
 
 42. The Minister may make regulations prescribing all matters and things required by this Act to be prescribed or provided, for the carrying out of, or giving full effect
 
@@ -1152,7 +1278,11 @@ This Bill seeks to provide for the establishment, regulation and dissolution of 
 
 26. Clause 25 seeks to regulate the procedures for commencing legal proceedings against and service of documents on an offshore limited partnership.
 
-27. Clause 26 seeks to empower the general partner to execute a document for and on behalf of the offshore limited partnership.
+27. Clause 26 seeks to empower the general partner to execute a document for and on behalf of the offshore
+
+<!-- marginal: limited -->
+
+partnership.
 
 <!-- page 36 -->
 

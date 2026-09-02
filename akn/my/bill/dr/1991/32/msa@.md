@@ -12,15 +12,7 @@ Naskhah Sahih—Bahasa Malaysia
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan pemakaian.
-
-2. Perintah Menteri.
-
-3. Arahan khas Menteri untuk memakai Akta ini jika tiada perintah dibuat di bawah seksyen 2.
-
-4. Arahan Menteri untuk memakai prosedur dalam seksyen 20.
-
-5. Tafsiran.
+1. Tajuk ringkas dan pemakaian. 2. Perintah Menteri. 3. Arahan khas Menteri untuk memakai Akta ini jika tiada perintah dibuat di bawah seksyen 2. 4. Arahan Menteri untuk memakai prosedur dalam seksyen 20. 5. Tafsiran.
 
 ## BAHAGIAN
 
@@ -28,9 +20,7 @@ II
 
 ## KESALAHAN EKSTRADISI
 
-6. Kesalahan ekstradisi.
-
-7. Undang-undang sesebuah negara.
+6. Kesalahan ekstradisi. 7. Undang-undang sesebuah negara.
 
 ## BAHAGIAN
 
@@ -38,9 +28,7 @@ III
 
 ## PEMULANGAN PENJENAYAH BURUAN
 
-8. Sekatan ke atas pemulangan penjenayah buruan.
-
-9. Kecualian kepada kesalahan-kesalahan politik.
+8. Sekatan ke atas pemulangan penjenayah buruan. 9. Kecualian kepada kesalahan-kesalahan politik.
 
 10. Bila keizinan Menteri perlu.
 
@@ -64,7 +52,19 @@ IV
 
 <!-- page 2 -->
 
-16. Prosedur berkenaan dengan penjenayah buruan yang diberkas berdasarkan waran sementara. 17. Prosedur berkenaan dengan penjenayah buruan yang diberkas berdasarkan waran sementara jika perintah telah diterima oleh Majistret. 18. Kuasa-kuasa dan bidang kuasa Mahkamah Sesyen. 19. Prosedur di hadapan Mahkamah Sesyen. 20. Prosedur di hadapan Mahkamah Sesyen jika arahan khas telah diberikan di bawah seksyen 4. 21. Pemulangan penjenayah buruan. 22. Penepian presiding pengkomitan oleh penjenayah buruan. 23. Deposisi menjadi keterangan. 24. Pengesahan dokumen-dokumen asing.
+16. Prosedur berkenaan dengan penjenayah buruan yang diberkas berdasarkan waran sementara. 17. Prosedur berkenaan dengan penjenayah buruan yang diberkas berdasarkan waran sementara jika perintah telah diterima oleh Majistret.
+
+18. Kuasa-kuasa dan bidang kuasa Mahkamah Sesyen. 19. Prosedur di hadapan Mahkamah Sesyen.
+
+20. Prosedur di hadapan Mahkamah Sesyen jika arahan khas telah diberikan di bawah seksyen 4.
+
+21. Pemulangan penjenayah buruan.
+
+22. Penepian presiding pengkomitan oleh penjenayah buruan.
+
+23. Deposisi menjadi keterangan.
+
+24. Pengesahan dokumen-dokumen asing.
 
 ## BAHAGIAN V
 
@@ -72,7 +72,13 @@ IV
 
 ## BRUNEI DARUSSALAM DAN REPUBLIK SINGAPURA
 
-25. Pemakaian bagi Brunei Darussalam dan Singapura. 26. Pengendorsan waran yang dikeluarkan di Brunei Darussalam atau Singapura. 27. Waran yang dilaksanakan di Brunei Darussalam atau Singapura disifatkan telah dilaksanakan dengan sah di Malaysia. 28. Pemindahan orang ke Brunei Darussalam atau Singapura,
+25. Pemakaian bagi Brunei Darussalam dan Singapura.
+
+26. Pengendorsan waran yang dikeluarkan di Brunei Darussalam atau Singapura.
+
+27. Waran yang dilaksanakan di Brunei Darussalam atau Singapura disifatkan telah dilaksanakan dengan sah di Malaysia.
+
+28. Pemindahan orang ke Brunei Darussalam atau Singapura,
 
 ## BAHAGIAN VI
 
@@ -82,7 +88,11 @@ IV
 
 ## PERBICARAAN
 
-29. Prosedur bagi pemulangan. 30. Penjenayah buruan tidak lagi boleh dikehendaki menjalani hukuman di Malaysia, masa yang dihabiskan dalam jagaan yang berkaitan dengan pengeluaran waran penyerahan sementara. 31. Pengeluaran waran oleh Menteri.
+29. Prosedur bagi pemulangan.
+
+30. Penjenayah buruan tidak lagi boleh dikehendaki menjalani hukuman di Malaysia, masa yang dihabiskan dalam jagaan yang berkaitan dengan pengeluaran waran penyerahan sementara.
+
+31. Pengeluaran waran oleh Menteri.
 
 ## BAHAGIAN VII
 
@@ -90,7 +100,13 @@ IV
 
 ## DISABITKAN KE MALAYSIA
 
-32. Kesalahan-kesalahan boleh diekstradisi. 33. Pemindahan orang yang dituduh atau disabitkan yang dipulangkan. 34. Orang yang dituduh atau disabitkan yang dipulangkan ke Malaysia tidak boleh dibicarakan bagi kesalahan yang dahulu atau dipulangkan ke negara lain. 35. Orang yang dipulangkan sementara ke Malaysia.
+32. Kesalahan-kesalahan boleh diekstradisi.
+
+33. Pemindahan orang yang dituduh atau disabitkan yang dipulangkan.
+
+34. Orang yang dituduh atau disabitkan yang dipulangkan ke Malaysia tidak boleh dibicarakan bagi kesalahan yang dahulu atau dipulangkan ke negara lain.
+
+35. Orang yang dipulangkan sementara ke Malaysia.
 
 <!-- page 3 -->
 
@@ -182,9 +198,13 @@ Dengan syarat bahawa Bahagian V hendaklah terpakai bagi Brunei Darussalam dan Re
 
 <!-- page 6 -->
 
-Perintah
+<!-- marginal: Perintah -->
 
-2. (1) Jika sesuatu perkiraan mengikat telah dibuat di Menteri. antara Malaysia dengan mana-mana negara bagi ekstradisi penjenayah-penjenayah buruan, maka Menteri boleh, melalui perintah yang disiarkan di dalam Warta yang menyebutkan atau mengandungi terma-terma perkiraan sedemikian, mengarahkan
+2. (1) Jika sesuatu perkiraan mengikat telah dibuat di
+
+<!-- marginal: Menteri. -->
+
+antara Malaysia dengan mana-mana negara bagi ekstradisi penjenayah-penjenayah buruan, maka Menteri boleh, melalui perintah yang disiarkan di dalam Warta yang menyebutkan atau mengandungi terma-terma perkiraan sedemikian, mengarahkan
 
 <!-- marginal: bahawa -->
 
@@ -196,9 +216,37 @@ peruntukan-peruntukan Akta ini hendaklah terpakai bagi negara itu tertakluk kepa
 
 (4) Sesuatu perintah yang dibuat di bawah seksyen ini hendaklah menjadi keterangan konklusif bahawa perkiraan yang disebutkan di dalamnya mematuhi peruntukan-peruntukan Akta ini, dan bahawa Akta ini terpakai dalam hal negara yang tersebut dalam perintah itu, dan keesahan perintah sedemikian tidak boleh dipersoalkan dalam apa-apa jua presiding undang- undang.
 
-Arahan khas
+<!-- marginal: Arahan khas -->
 
-3. Jika sesuatu negara yang berkenaan dengannya tiada Menteri perintah dibuat di bawah seksyen 2 membuat suatu untuk permintaan bagi ekstradisi seseorang penjenayah buruan memakai Akta ini jika ke negara itu, maka Menteri boleh, jika difikirkannya tiada perintah patut berbuat demikian, memberikan sendiri arahan khas dibuat di bawah secara bertulis bahawa peruntukan-peruntukan Akta ini seksyen 2. hendaklah terpakai bagi negara itu berhubungan dengan ekstradisi penjenayah buruan yang berkenaan ke negara itu.
+3. Jika sesuatu negara yang berkenaan dengannya tiada
+
+<!-- marginal: Menteri -->
+
+perintah dibuat di bawah seksyen 2 membuat suatu
+
+<!-- marginal: untuk -->
+
+permintaan bagi ekstradisi seseorang penjenayah buruan
+
+<!-- marginal: memakai -->
+
+<!-- marginal: Akta ini jika -->
+
+ke negara itu, maka Menteri boleh, jika difikirkannya
+
+<!-- marginal: tiada perintah -->
+
+patut berbuat demikian, memberikan sendiri arahan khas
+
+<!-- marginal: dibuat di -->
+
+<!-- marginal: bawah -->
+
+secara bertulis bahawa peruntukan-peruntukan Akta ini
+
+<!-- marginal: seksyen 2. -->
+
+hendaklah terpakai bagi negara itu berhubungan dengan ekstradisi penjenayah buruan yang berkenaan ke negara itu.
 
 <!-- page 7 -->
 
@@ -262,9 +310,13 @@ II
 
 ## KESALAHAN EKSTRADISI
 
-Kesalahan
+<!-- marginal: Kesalahan -->
 
-6. (1) Seseorang penjenayah buruan hendaklah ekstradisi. dipulangkan hanya bagi suatu kesalahan ekstradisi.
+6. (1) Seseorang penjenayah buruan hendaklah
+
+<!-- marginal: ekstradisi. -->
+
+dipulangkan hanya bagi suatu kesalahan ekstradisi.
 
 (2) Bagi maksud-maksud Akta ini, kesalahan ekstradisi ialah suatu kesalahan, bagaimanapun diperihalkan, termasuk kesalahan-kesalahan fiskal—
 
@@ -274,9 +326,19 @@ Kesalahan
 
 (3) Sesuatu kesalahan hendaklah juga menjadi suatu kesalahan ekstradisi jika ia terdiri daripada suatu percubaan atau komplot untuk melakukan, atau suatu pensubahatan pelakuan, mana-mana kesalahan yang diperihalkan dalam subseksyen (2).
 
-Undang-
+<!-- marginal: Undang- -->
 
-7. Sesuatu sebutan dalam Akta ini mengenai undang- undang undang sesuatu negara termasuklah sebutan mengenai sesebuah negara. sesuatu undang-undang bagi, atau yang berkuatkuasa di dalam, sesuatu bahagian negara itu.
+7. Sesuatu sebutan dalam Akta ini mengenai undang-
+
+<!-- marginal: undang -->
+
+undang sesuatu negara termasuklah sebutan mengenai
+
+<!-- marginal: sesebuah -->
+
+<!-- marginal: negara. -->
+
+sesuatu undang-undang bagi, atau yang berkuatkuasa di dalam, sesuatu bahagian negara itu.
 
 <!-- page 9 -->
 
@@ -316,9 +378,23 @@ pemulangannya itu didasarkan atau apa-apa kesalahan yang lebih ringan hukumannya
 
 (f) melainkan jika peruntukan dibuat oleh undang- undang negara itu, atau dalam perkiraan ekstradisi dengan negara itu, bahawa seseorang penjenayah buruan yang telah tidak mempunyai peluang yang munasabah untuk meninggalkan negara itu tidak boleh diekstradisikan ke negara lain bagi perbicaraan atau hukuman atas apa- apa kesalahan yang dikatakan telah dilakukan atau yang dilakukan sebelum pemulangan penjenayah buruan itu ke negara yang mula- mula disebut itu melainkan jika keizinan pihak berkuasa yang berkenaan di negara diminta telah diperolehi.
 
-Kecualian
+<!-- marginal: Kecualian -->
 
-9. (1) Bagi maksud-maksud perenggan 8(a), mana- kepada mana daripada kesalahan yang berikut tidak boleh dikira kesalahan- kesalahan kesalahan yang bersifat politik berhubungan dengan politik. sesuatu negara yang telah membuat peruntukan- peruntukan yang bersamaan dalam undang-undangnya:
+9. (1) Bagi maksud-maksud perenggan 8(a), mana-
+
+<!-- marginal: kepada -->
+
+mana daripada kesalahan yang berikut tidak boleh dikira
+
+<!-- marginal: kesalahan- -->
+
+<!-- marginal: kesalahan -->
+
+kesalahan yang bersifat politik berhubungan dengan
+
+<!-- marginal: politik. -->
+
+sesuatu negara yang telah membuat peruntukan- peruntukan yang bersamaan dalam undang-undangnya:
 
 (a) pembunuhan atau jenayah sengaja yang lain terhadap diri Ketua Negara atau anggota keluarga terdekat Ketua Negara itu;
 
@@ -400,9 +476,17 @@ berserta dengan, dalam setiap hal, butir-butir penjenayah buruan yang pemulangan
 
 (4) Jika Menteri berpendapat bahawa kesalahan yang berhubungan dengan waran itu ialah kesalahan yang bersifat politik, maka dia boleh, jika difikirkannya patut, enggan membuat apa-apa perintah sedemikian, dan boleh juga pada bila-bila masa memerintahkan supaya seseorang penjenayah buruan yang disabitkan atas kesalahan sedemikian dilepaskan daripada jagaan.
 
-Pengeluaran
+<!-- marginal: Pengeluaran -->
 
-13. (1) Jika seseorang penjenayah buruan berada di waran oleh Malaysia atau disyaki sedang berada di Malaysia atau Majistret. dalam perjalanan ke Malaysia, maka Majistret—
+13. (1) Jika seseorang penjenayah buruan berada di
+
+<!-- marginal: waran oleh -->
+
+Malaysia atau disyaki sedang berada di Malaysia atau
+
+<!-- marginal: Majistret. -->
+
+dalam perjalanan ke Malaysia, maka Majistret—
 
 (a) hendaklah, apabila diterima sesuatu perintah yang dibuat di bawah subseksyen 12(3), mengeluarkan suatu waran bagi pemberkasan penjenayah buruan itu; atau
 
@@ -480,7 +564,37 @@ Sesyen; dan
 
 <!-- page 14 -->
 
-Prosedur 16. (1) Seseorang penjenayah buruan yang diberkas berkenaan berdasarkan suatu waran sernentara hendaklah dibawa dengan penjenayah ke hadapan mana-mana Majistret yang hendaklah, jika buruan yang Menteri tidak menerima apa-apa permintaan bagi diberkas pemulangan penjenayah buruan itu, memerintahkan berdasarkan waran supaya penjenayah buruan itu ditahan dalam jagaan sementara. selama tempoh masa yang munasabah yang ditetapkan olehnya setelah mengambil kira hal keadaan kes itu, dan, bagi.maksud ini, Majistret hendaklah mengambil kira apa-apa tempoh dalam perkiraan ekstradisi yang relevan yang berhubungan dengan tempoh penahanan yang dibenarkan apabila penjenayah buruan ditangkap sernentara.
+<!-- marginal: Prosedur -->
+
+16. (1) Seseorang penjenayah buruan yang diberkas
+
+<!-- marginal: berkenaan -->
+
+berdasarkan suatu waran sernentara hendaklah dibawa
+
+<!-- marginal: dengan -->
+
+<!-- marginal: penjenayah -->
+
+ke hadapan mana-mana Majistret yang hendaklah, jika
+
+<!-- marginal: buruan yang -->
+
+Menteri tidak menerima apa-apa permintaan bagi
+
+<!-- marginal: diberkas -->
+
+pemulangan penjenayah buruan itu, memerintahkan
+
+<!-- marginal: berdasarkan -->
+
+<!-- marginal: waran -->
+
+supaya penjenayah buruan itu ditahan dalam jagaan
+
+<!-- marginal: sementara. -->
+
+selama tempoh masa yang munasabah yang ditetapkan olehnya setelah mengambil kira hal keadaan kes itu, dan, bagi.maksud ini, Majistret hendaklah mengambil kira apa-apa tempoh dalam perkiraan ekstradisi yang relevan yang berhubungan dengan tempoh penahanan yang dibenarkan apabila penjenayah buruan ditangkap sernentara.
 
 (2) Apabila diterima perintah Menteri yang memaklumkan bahawa suatu permintaan telah dibuat bagi pemulangan penjenayah buruan itu, Majistret hendaklah memerintahkan—
 
@@ -490,15 +604,49 @@ Prosedur 16. (1) Seseorang penjenayah buruan yang diberkas berkenaan berdasarkan
 
 (3) Majistret hendaklah, jika dia tidak menerima suatu perintah daripada Menteri dalam tempoh masa yang ditetapkannya di bawah subseksyen (1) yang memaklumkan bahawa suatu permintaan telah dibuat bagi pemulangan penjenayah buruan itu, memerintahkan supaya penjenayah buruan itu dilepaskan.
 
-Prosedur 17. Jika, pada masa penjenayah buruan yang diberkas berkenaan berdasarkan waran sementara dibawa ke hadapan mana- dengan mana Majistret, Majistret itu telah menerima suatu penjenayah buruan yang perintah Menteri yang memaklumkan bahawa suatu diberkas permintaan telah dibuat bagi pemulangan penjenayah berdasarkan waran buruan itu, maka Majistret
+<!-- marginal: Prosedur -->
 
-<!-- marginal: itu -->
+17. Jika, pada masa penjenayah buruan yang diberkas
 
-<!-- marginal: hendaklah -->
+<!-- marginal: berkenaan -->
 
-sementara memerintahkan— jika perintah telah diterima oleh
+berdasarkan waran sementara dibawa ke hadapan mana-
 
-(a) supaya kes itu dipindahkan ke Mahkamah Majistret. Sesyen; dan
+<!-- marginal: dengan -->
+
+mana Majistret, Majistret itu telah menerima suatu
+
+<!-- marginal: penjenayah -->
+
+<!-- marginal: buruan yang -->
+
+perintah Menteri yang memaklumkan bahawa suatu
+
+<!-- marginal: diberkas -->
+
+permintaan telah dibuat bagi pemulangan penjenayah
+
+<!-- marginal: berdasarkan -->
+
+<!-- marginal: waran -->
+
+buruan itu, maka Majistret itu hendaklah
+
+<!-- marginal: sementara -->
+
+memerintahkan—
+
+<!-- marginal: jika perintah -->
+
+<!-- marginal: telah diterima -->
+
+<!-- marginal: oleh -->
+
+(a) supaya kes itu dipindahkan ke Mahkamah
+
+<!-- marginal: Majistret. -->
+
+Sesyen; dan
 
 <!-- page 15 -->
 
@@ -536,11 +684,7 @@ menerima apa-apa keterangan yang dikemukakan oleh
 
 <!-- marginal: Sesyen. -->
 
-atau bagi pihak penjenayah buruan
-
-<!-- marginal: itu untuk -->
-
-menunjukkan—
+atau bagi pihak penjenayah buruan itu untuk menunjukkan—
 
 (a) bahawa dia tidak melakukan atau meninggalkan daripada melakukan perbuatan yang dikatakan telah dilakukan atau ditinggalkan olehnya;
 
@@ -606,21 +750,23 @@ itu;
 
 (c) apabila berpuas hati bahawa perbuatan atau peninggalan yang dikatakan dilakukan oleh penjenayah buruan itu akan, sekiranya telah berlaku di Malaysia, menjadi suatu kesalahan di bawah undang-undang Malaysia;
 
-(d) jika penjenayah buruan itu tidak memuaskan hati Mahkamah bahawa terdapat alasan-alasan substansial bagi mempercayai bahawa— (i) kesalahan itu ialah kesalahan yang bersifat politik atau bahawa prosiding itu telah diambil dengan
-
-<!-- marginal: tujuan mem- -->
-
-bicarakan atau menghukumnya atas kesalahan yang bersifat politik; (ii) pendakwaan bagi kesalahan yang ber- kenaan dengannya pemulangannya cuba didapatkan adalah terhalang oleh masa di negara yang cuba mendapatkan pemulangannya itu; (iii) kesalahan itu ialah suatu kesalahan di bawah undang-undang tentera yang bukanlah suatu kesalahan juga di bawah undang-undang jenayah am; (iv) penjenayah buruan itu telah dibebaskan atau diampunkan oleh suatu tribunal atau pihak berkuasa yang kompeten di negara yang cuba mendapatkan pemulangannya atau di Malaysia; (v) penjenayah buruan itu telah menjalani hukuman yang diperuntukkan oleh undang-undang negara yang cuba mendapatkan pemulangannya atau
+(d) jika penjenayah buruan itu tidak memuaskan hati Mahkamah bahawa terdapat alasan-alasan substansial bagi mempercayai bahawa— (i) kesalahan itu ialah kesalahan yang bersifat politik atau bahawa prosiding itu telah diambil dengan tujuan mem- bicarakan atau menghukumnya atas kesalahan yang bersifat politik; (ii) pendakwaan bagi kesalahan yang ber- kenaan dengannya pemulangannya cuba didapatkan adalah terhalang oleh masa di negara yang cuba mendapatkan pemulangannya itu; (iii) kesalahan itu ialah suatu kesalahan di bawah undang-undang tentera yang bukanlah suatu kesalahan juga di bawah undang-undang jenayah am; (iv) penjenayah buruan itu telah dibebaskan atau diampunkan oleh suatu tribunal atau pihak berkuasa yang kompeten di negara yang cuba mendapatkan pemulangannya atau di Malaysia; (v) penjenayah buruan itu telah menjalani hukuman yang diperuntukkan oleh undang-undang negara yang cuba mendapatkan pemulangannya atau
 
 <!-- page 18 -->
 
-undang-undang Malaysia yang ber- kenaan dengan kesalahan ekstradisi itu atau mana-mana kesalahan lain yang terdiri daripada perbuatan yang sama dengan yang menjadi kesalahan ekstradisi itu;
+undang-undang Malaysia yang ber- kenaan dengan kesalahan ekstradisi itu atau mana-mana kesalahan lain yang terdiri daripada perbuatan yang sama dengan yang menjadi
+
+<!-- marginal: kesalahan -->
+
+ekstradisi itu;
 
 (e) apabila berpuas hati bahawa penjenayah buruan itu tidak dituduh atas sesuatu kesalahan, dan tidak juga sedang menjalani sesuatu hukuman berkenaan dengan sesuatu kesalahan, di Malaysia, selain daripada kesalahan ekstradisi yang berkenaan dengannya pemulangannya cuba didapatkan,
 
 mengkomitkan penjenayah buruan itu ke penjara untuk menunggu perintah Menteri bagi penyerahannya.
 
-(2) Dalam prosiding di hadapan Mahkamah Sesyen di bawah subseksyen (1) penjenayah buruan itu tidak berhak untuk mengemukakan, dan Mahkamah tidak berhak untuk menerima, keterangan untuk menyangkal pengataan bahawa penjenayah buruan itu
+(2) Dalam prosiding di hadapan Mahkamah Sesyen di bawah subseksyen (1) penjenayah buruan itu tidak berhak untuk mengemukakan, dan Mahkamah tidak berhak untuk menerima, keterangan untuk menyangkal pengataan bahawa penjenayah buruan
+
+<!-- marginal: itu -->
 
 <!-- marginal: telah -->
 
@@ -664,7 +810,27 @@ bagi memerintahkan penjenayah buruan itu diserahkan kepada orang yang pada penda
 
 menerima, menahan di dalam jagaan dan membawa, dalam bidang kuasa negara yang telah membuat permintaan bagi pemulangannya, penjenayah buruan itu dan jika penjenayah buruan itu lepas lari dari mana- mana jagaan yang kepadanya dia boleh diserahkan menurut waran sedemikian, adalah sah menahannya semula mengikut cara yang sama seperti mana-mana orang yang dituduh melakukan apa-apa jenayah terhadap undang-undang Malaysia boleh ditahan semula apabila lepas lari.
 
-22. (1) Apabila penjenayah buruan dibawa ke hadapan Penepian Mahkamah Sesyen, dia boleh memberitahu Mahkamah prosiding pengkomitan itu bahawa dia bersetuju untuk menepikan prosiding oleh pengkomitan di Mahkamah itu dan Mahkamah itu penjenayah buruan. hendaklah—
+22. (1) Apabila penjenayah buruan dibawa ke hadapan
+
+<!-- marginal: Penepian -->
+
+Mahkamah Sesyen, dia boleh memberitahu Mahkamah
+
+<!-- marginal: prosiding -->
+
+<!-- marginal: pengkomitan -->
+
+itu bahawa dia bersetuju untuk menepikan prosiding
+
+<!-- marginal: oleh -->
+
+pengkomitan di Mahkamah itu dan Mahkamah itu
+
+<!-- marginal: penjenayah -->
+
+<!-- marginal: buruan. -->
+
+hendaklah—
 
 (a) memastikan sama ada persetujuan itu diberikan secara sukarela;
 
@@ -734,13 +900,45 @@ salinannya, dan perakuan-perakuan asing tentang atau dokumen-dokumen kehakiman a
 
 ## DARUSSALAM DAN REPUBLIK SINGAPURA
 
-Pemakaian
+<!-- marginal: Pemakaian -->
 
-25. (1) Bahagian ini terpakai berhubungan dengan bagi Brunei Brunei Darussalam dan Republik Singapura. Darussalam dan Singapura. (2) Dalam Bahagian ini, "kesalahan" ertinya kesalahan boleh tangkap atau kesalahan yang boleh dihukum, apabila disabitkan, dengan hukuman pemenjaraan selama tempoh yang melebihi enam bulan di bawah undang-undang Brunei Darussalam atau Republik Singapura.
+25. (1) Bahagian ini terpakai berhubungan dengan
 
-Pengendorsan
+<!-- marginal: bagi Brunei -->
 
-26. Jika, di bawah peruntukan mana-mana undang- waran yang undang yang berkuatkuasa di Brunei Darussalam atau dikeluarkan di Brunei Republik Singapura, suatu pihak berkuasa kehakiman Darussalam telah mengeluarkan waran yang memberikuasa atau Singapura. penangkapan seseorang yang dituduh atau disabitkan
+Brunei Darussalam dan Republik Singapura.
+
+<!-- marginal: Darussalam -->
+
+<!-- marginal: dan -->
+
+<!-- marginal: Singapura. -->
+
+(2) Dalam Bahagian ini, "kesalahan" ertinya kesalahan boleh tangkap atau kesalahan yang boleh dihukum, apabila disabitkan, dengan hukuman pemenjaraan selama tempoh yang melebihi enam bulan di bawah undang-undang Brunei Darussalam atau Republik Singapura.
+
+<!-- marginal: Pengendorsan -->
+
+26. Jika, di bawah peruntukan mana-mana undang-
+
+<!-- marginal: waran yang -->
+
+undang yang berkuatkuasa di Brunei Darussalam atau
+
+<!-- marginal: dikeluarkan -->
+
+<!-- marginal: di Brunei -->
+
+Republik Singapura, suatu pihak berkuasa kehakiman
+
+<!-- marginal: Darussalam -->
+
+telah mengeluarkan waran yang memberikuasa
+
+<!-- marginal: atau -->
+
+<!-- marginal: Singapura. -->
+
+penangkapan seseorang yang dituduh atau disabitkan
 
 <!-- page 23 -->
 
@@ -810,11 +1008,7 @@ mungkin ke hadapan seorang Majistret di Malaysia,
 
 <!-- marginal: Singapura. -->
 
-yang hendaklah, jika berpuas hati bahawa orang itu ialah orang yang dinyatakan dalam waran, mengarahkan supaya orang yang ditangkap itu diserahkan dengan serta-merta dalam jagaan kepada mahkamah yang berkenaan di Brunei Darussalam atau Republik Singapura; dan mana-mana orang
-
-<!-- marginal: sedemikian -->
-
-hendaklah, ketika dalam jagaan itu, disifatkan bagi segala maksud berada dalam jagaan yang sah:
+yang hendaklah, jika berpuas hati bahawa orang itu ialah orang yang dinyatakan dalam waran, mengarahkan supaya orang yang ditangkap itu diserahkan dengan serta-merta dalam jagaan kepada mahkamah yang berkenaan di Brunei Darussalam atau Republik Singapura; dan mana-mana orang sedemikian hendaklah, ketika dalam jagaan itu, disifatkan bagi segala maksud berada dalam jagaan yang sah:
 
 Dengan syarat bahawa Majistret itu boleh, jika atas sebab-sebab yang hendaklah direkodkan olehnya dia berpuas hati bahawa adalah bagi kepentingan keadilan dia berbuat demikian, dan jika kes itu ialah kes yang boleh diberikan jaminan dengan sah, melepaskan orang yang ditangkap itu atas jaminan dengan syarat orang itu hadir di hadapan mahkamah yang berkenaan di Brunei Darussalam atau Republik Singapura pada masa yang hendaklah dinyatakan di dalam bon dan bon jaminan.
 
@@ -826,9 +1020,13 @@ Dengan syarat bahawa Majistret itu boleh, jika atas sebab-sebab yang hendaklah d
 
 ## BANDUAN UNTUK MENGHADAPI PERBICARAAN
 
-Prosedur bagi
+<!-- marginal: Prosedur bagi -->
 
-29. (1) Sesuatu permintaan daripada mana-mana negara pemulangan. bagi pemulangan seseorang penjenayah buruan yang sedang menjalani hukuman atau hukuman-hukuman pemenjaraan berkenaan dengan sesuatu kesalahan atau kesalahan-kesalahan terhadap undang-undang Malaysia, bagi maksud menjalankan perbicaraan terhadapnya, hendaklah dibuat kepada Menteri melalui wakil diplomatik negara yang berkenaan.
+29. (1) Sesuatu permintaan daripada mana-mana negara
+
+<!-- marginal: pemulangan. -->
+
+bagi pemulangan seseorang penjenayah buruan yang sedang menjalani hukuman atau hukuman-hukuman pemenjaraan berkenaan dengan sesuatu kesalahan atau kesalahan-kesalahan terhadap undang-undang Malaysia, bagi maksud menjalankan perbicaraan terhadapnya, hendaklah dibuat kepada Menteri melalui wakil diplomatik negara yang berkenaan.
 
 (2) Maka hendaklah diberikan dengan apa-apa permintaan yang dibuat di bawah subseksyen (1) butir- butir tentang penjenayah buruan yang pemulangannya diminta dan fakta-fakta yang berdasarkannya dan undang-undang yang di bawahnya dia dituduh serta juga akunjaji-akujanji yang mencukupi yang bermaksud bahawa—
 
@@ -904,9 +1102,7 @@ dikeluarkan di bawah perenggan 2\(2)(a) (termasuklah masa yang dihabiskan dalam 
 
 <!-- marginal: Menteri. -->
 
-(a) seseorang penjenayah buruan dipulangkan ke sesuatu negara di bawah suatu waran penyerahan sementara dan
-
-<!-- marginal: selepas -->
+(a) seseorang penjenayah buruan dipulangkan ke sesuatu negara di bawah suatu waran penyerahan sementara dan selepas
 
 <!-- marginal: itu -->
 
@@ -938,15 +1134,77 @@ diperihalkan, termasuklah kesalahan-kesalahan fiskal, boleh dihukum di bawah und
 
 <!-- page 26 -->
 
-Pemindahan
+<!-- marginal: Pemindahan -->
 
-33. Mana-mana orang yang dituduh atau disabitkan atas Drang yang sesuatu kesalahan boleh ekstradisi yang dipulangkan dituduh atau disabitkan oleh sesuatu negara boleh, di bawah waran tangkap bagi yang pemulangannya yang dikeluarkan di negara itu, dibawa iipulangkan. masuk ke Malaysia dan diserahkan kepada pihak berkuasa yang sepatutnya untuk diperlakukan mengikut undang-undang.
+33. Mana-mana orang yang dituduh atau disabitkan atas
 
-Orang yang
+<!-- marginal: Drang yang -->
 
-34. Bilamana mana-mana orang yang dituduh atau dituduh atau disabitkan atas sesuatu kesalahan boleh ekstradisi iisabitkan yang dipulangkan oleh sesuatu negara, orang itu tidak boleh, iipulangkan melainkan jika dia telah meninggalkan atau telah ke Malaysia tidak boleh berpeluang meninggalkan Malaysia— dibicarakan lagi
+sesuatu kesalahan boleh ekstradisi yang dipulangkan
 
-(a) ditahan atau dibicarakan di Malaysia atas apa- kesalahan yang dahulu apa kesalahan yang dikatakan telah dilakukan, itau atau yang telah dilakukan, sebelum pemulangan dipulangkan ke negara orang itu, selain daripada— lain. (i) kesalahan boleh ekstradisi yang ber- kenaan dengannya dia dipulangkan;
+<!-- marginal: dituduh atau -->
+
+<!-- marginal: disabitkan -->
+
+oleh sesuatu negara boleh, di bawah waran tangkap bagi
+
+<!-- marginal: yang -->
+
+pemulangannya yang dikeluarkan di negara itu, dibawa
+
+<!-- marginal: iipulangkan. -->
+
+masuk ke Malaysia dan diserahkan kepada pihak berkuasa yang sepatutnya untuk diperlakukan mengikut undang-undang.
+
+<!-- marginal: Orang yang -->
+
+34. Bilamana mana-mana orang yang dituduh atau
+
+<!-- marginal: dituduh atau -->
+
+disabitkan atas sesuatu kesalahan boleh ekstradisi
+
+<!-- marginal: iisabitkan -->
+
+<!-- marginal: yang -->
+
+dipulangkan oleh sesuatu negara, orang itu tidak boleh,
+
+<!-- marginal: iipulangkan -->
+
+melainkan jika dia telah meninggalkan atau telah
+
+<!-- marginal: ke Malaysia -->
+
+<!-- marginal: tidak boleh -->
+
+berpeluang meninggalkan Malaysia—
+
+<!-- marginal: dibicarakan -->
+
+<!-- marginal: lagi -->
+
+(a) ditahan atau dibicarakan di Malaysia atas apa-
+
+<!-- marginal: kesalahan -->
+
+<!-- marginal: yang dahulu -->
+
+apa kesalahan yang dikatakan telah dilakukan,
+
+<!-- marginal: itau -->
+
+atau yang telah dilakukan, sebelum pemulangan
+
+<!-- marginal: dipulangkan -->
+
+<!-- marginal: ke negara -->
+
+orang itu, selain daripada—
+
+<!-- marginal: lain. -->
+
+(i) kesalahan boleh ekstradisi yang ber- kenaan dengannya dia dipulangkan;
 
 (ii) mana-mana kesalahan yang lebih ringan hukumannya yang dibuktikan oleh fakta- fakta yang menjadi asas bagi pe- mulangan itu; atau
 
@@ -1008,9 +1266,21 @@ Mahkamah Tinggi bagi mendapatkan suatu writ habeas corpus mengikut prosedur sepe
 
 <!-- page 28 -->
 
-Kajian
+<!-- marginal: Kajian -->
 
-37. (1) Jika seseorang penjenayah buruan di- semula oleh perintahkan oleh Mahkamah Sesyen supaya dilepaskan Mahkamah di bawah subseksyen 19(4), Pendakwa Raya boleh, atas Tinggi. permintaan negara yang cuba mendapatkan pe- mulangannya, dalam masa sepuluh hari dari tarikh pembuatan perintah itu oleh Mahkamah Sesyen, memohon kepada Mahkamah Tinggi bagi mendapatkan kajian semula perintah pelepasan itu mengenai apa-apa soal undang-undang, dan atas permohonan
+37. (1) Jika seseorang penjenayah buruan di-
+
+<!-- marginal: semula oleh -->
+
+perintahkan oleh Mahkamah Sesyen supaya dilepaskan
+
+<!-- marginal: Mahkamah -->
+
+di bawah subseksyen 19(4), Pendakwa Raya boleh, atas
+
+<!-- marginal: Tinggi. -->
+
+permintaan negara yang cuba mendapatkan pe- mulangannya, dalam masa sepuluh hari dari tarikh pembuatan perintah itu oleh Mahkamah Sesyen, memohon kepada Mahkamah Tinggi bagi mendapatkan kajian semula perintah pelepasan itu mengenai apa-apa soal undang-undang, dan atas permohonan
 
 <!-- marginal: itu -->
 
@@ -1130,13 +1400,55 @@ tempoh masa atau di tempat yang ditentukan oleh Menteri.
 
 (4) Kuasa yang diberikan kepada Pendakwa Raya untuk mengeluarkan sesuatu kebenaran bertulis di bawah subseksyen (1) adalah termasuk kuasa untuk membatalkan, mengkensel atau menggantung kebenaran bertulis itu.
 
-Bidang kuasa
+<!-- marginal: Bidang kuasa -->
 
-42. Jika kesalahan yang berkenaan dengannya terhadap pemulangan seseorang penjenayah buruan itu cuba kesalahan didapatkan telah dilakukan di atas mana-mana vesel di yang dilakukan di laut lepas atau mana-mana pesawat udara semasa di laut atau udara di luar Malaysia yang masuk ke mana-mana udara. pelabuhan atau padang terbang di Malaysia, Menteri dan mana-mana Majistret yang mempunyai bidang kuasa di pelabuhan atau padang terbang itu boleh menggunakan kuasa-kuasa yang diberikan oleh Akta ini.
+42. Jika kesalahan yang berkenaan dengannya
 
-Pelepasan
+<!-- marginal: terhadap -->
 
-43. Jika seseorang penjenayah buruan yang, menurut penjenayah Akta ini, telah dikomitkan ke penjara untuk menunggu buruan jika tidak pemulangannya ke mana-mana negara tidak dibawa dipulangkan keluar dari Malaysia dalam masa tiga bulan selepas dalam tempoh pengkomitan itu, atau jika sesuatu permohonan bagi tiga bulan.
+pemulangan seseorang penjenayah buruan itu cuba
+
+<!-- marginal: kesalahan -->
+
+didapatkan telah dilakukan di atas mana-mana vesel di
+
+<!-- marginal: yang -->
+
+<!-- marginal: dilakukan di -->
+
+laut lepas atau mana-mana pesawat udara semasa di
+
+<!-- marginal: laut atau -->
+
+udara di luar Malaysia yang masuk ke mana-mana
+
+<!-- marginal: udara. -->
+
+pelabuhan atau padang terbang di Malaysia, Menteri dan mana-mana Majistret yang mempunyai bidang kuasa di pelabuhan atau padang terbang itu boleh menggunakan kuasa-kuasa yang diberikan oleh Akta ini.
+
+<!-- marginal: Pelepasan -->
+
+43. Jika seseorang penjenayah buruan yang, menurut
+
+<!-- marginal: penjenayah -->
+
+Akta ini, telah dikomitkan ke penjara untuk menunggu
+
+<!-- marginal: buruan jika -->
+
+<!-- marginal: tidak -->
+
+pemulangannya ke mana-mana negara tidak dibawa
+
+<!-- marginal: dipulangkan -->
+
+keluar dari Malaysia dalam masa tiga bulan selepas
+
+<!-- marginal: dalam tempoh -->
+
+pengkomitan itu, atau jika sesuatu permohonan bagi
+
+<!-- marginal: tiga bulan. -->
 
 <!-- page 31 -->
 
@@ -1178,11 +1490,7 @@ yang mungkin perlu sebagai keterangan dalam
 
 <!-- marginal: buruan. -->
 
-membuktikan kesalahan ekstradisi itu boleh diserahkan bersama dengan penjenayah buruan
-
-<!-- marginal: itu semasa -->
-
-pemulangannya, tertakluk kepada—
+membuktikan kesalahan ekstradisi itu boleh diserahkan bersama dengan penjenayah buruan itu semasa pemulangannya, tertakluk kepada—
 
 (a) sesuatu penangguhan penyerahan barang-barang itu jika ia diperlukan sebagai keterangan di Malaysia;
 
@@ -1190,7 +1498,9 @@ pemulangannya, tertakluk kepada—
 
 (c) hak-hak, jika ada, pihak-pihak ketiga berkenaan dengan barang-barang itu.
 
-(2) Segala-gala yang disebutkan dalam subseksyen (1) boleh diserahkan walaupun ekstradisi penjenayah buruan itu tidak dapat dilaksanakan disebabkan dia mati, hilang atau lepas lari, tertakluk kepada syarat-syarat yang tersebut dalam subseksyen itu.
+(2) Segala-gala yang disebutkan dalam subseksyen
+
+(1) boleh diserahkan walaupun ekstradisi penjenayah buruan itu tidak dapat dilaksanakan disebabkan dia mati, hilang atau lepas lari, tertakluk kepada syarat-syarat yang tersebut dalam subseksyen itu.
 
 <!-- marginal: Borang- -->
 
@@ -1202,19 +1512,47 @@ boleh digunakan dalam perkara-perkara yang tersebut dalam Borang-Borang itu.
 
 <!-- page 32 -->
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-47. Jika didapati oleh Menteri bahawa oleh sebab— Menteri untuk
+47. Jika didapati oleh Menteri bahawa oleh sebab—
 
-(a) ringannya kes itu; atau melepaskan mana-mana
+<!-- marginal: Menteri -->
 
-(b) permohonan bagi pemulangan seseorang penjenayah penjenayah buruan tidak dibuat dengan suci hati buruan dalam atau demi kepentingan keadilan atau adalah jagaan. dibuat atas sebab-sebab politik,
+<!-- marginal: untuk -->
+
+(a) ringannya kes itu; atau
+
+<!-- marginal: melepaskan -->
+
+<!-- marginal: mana-mana -->
+
+(b) permohonan bagi pemulangan seseorang
+
+<!-- marginal: penjenayah -->
+
+penjenayah buruan tidak dibuat dengan suci hati
+
+<!-- marginal: buruan dalam -->
+
+atau demi kepentingan keadilan atau adalah
+
+<!-- marginal: jagaan. -->
+
+dibuat atas sebab-sebab politik,
 
 atau atas apa-apa sebab lain, setelah mengambil kira segala hal keadaan, adalah tidak adil atau suatu perbuatan menindas jika penjenayah buruan itu dipulangkan, Menteri boleh, melalui perintah, pada bila- bila masa, menggantung mana-mana prosiding di bawah Akta ini dan mengarahkan supaya apa-apa waran yang dikeluarkan atau yang diendorskan di bawah Akta ini dibatalkan dan orang yang bagi penangkapannya waran itu telah dikeluarkan dilepaskan.
 
-Rekuisisi-
+<!-- marginal: Rekuisisi- -->
 
-48. (1) Jika rekuisi bagi pemulangan seseorang rekuisisi penjenayah buruan diterima daripada lebih daripada satu serentak. negara, Menteri boleh, setelah mengambil kira hal keadaan kes itu, memulangkan penjenayah buruan itu kepada negara yang difikirkannya patut.
+48. (1) Jika rekuisi bagi pemulangan seseorang
+
+<!-- marginal: rekuisisi -->
+
+penjenayah buruan diterima daripada lebih daripada satu
+
+<!-- marginal: serentak. -->
+
+negara, Menteri boleh, setelah mengambil kira hal keadaan kes itu, memulangkan penjenayah buruan itu kepada negara yang difikirkannya patut.
 
 (2) Menteri, dalam menentukan kepada negara yang manakah penjenayah buruan itu sepatutnya dipulangkan, hendaklah menimbangkan segala hal keadaan kes itu dan khususnya—
 
@@ -1224,11 +1562,31 @@ Rekuisisi-
 
 (c) kewarganegaraan atau taraf kerakyatan lain penjenayah buruan itu dan kemastautinannya yang biasa.
 
-Budi bicara
+<!-- marginal: Budi bicara -->
 
-49. (1) Menteri boleh, mengikut budi bicaranya, berkenaan enggan menyerahkan atau memulangkan seseorang dengan penjenayah buruan jika— pemulangan penjenayah- penjenayah
+49. (1) Menteri boleh, mengikut budi bicaranya,
 
-(a) penjenayah buruan itu warganegara Malaysia; buruan atau tertemu.
+<!-- marginal: berkenaan -->
+
+enggan menyerahkan atau memulangkan seseorang
+
+<!-- marginal: dengan -->
+
+penjenayah buruan jika—
+
+<!-- marginal: pemulangan -->
+
+<!-- marginal: penjenayah- -->
+
+<!-- marginal: penjenayah -->
+
+(a) penjenayah buruan itu warganegara Malaysia;
+
+<!-- marginal: buruan -->
+
+atau
+
+<!-- marginal: tertemu. -->
 
 (b) kesalahan ekstradisi itu ialah kesalahan yang berkenaan dengannya mahkamah-mahkamah di Malaysia mempunyai bidang kuasa.
 
@@ -1270,7 +1628,9 @@ Mahkamah atau Tribunal di mana-mana negara.
 
 mengambil keterangan tiap-tiap saksi yang hadir di hadapannya bagi maksud yang disebutkan dalam subseksyen (1) mengikut cara yang sama seolah-olah saksi itu hadir bagi suatu siasatan permulaan dalam kes seseorang yang dituduh atas suatu kesalahan yang boleh dibicarakan oleh Mahkamah Tinggi dan hendaklah mengesahkan pada kaki deposisi yang diambil sedemikian bahawa keterangan itu telah diambil di hadapannya dan hendaklah menghantarnya kepada Menteri.
 
-(3) Keterangan yang disebutkan dalam subseksyen (1) boleh diambil semasa orang yang dituduh, jika ada, hadir atau tak hadir dan hakikat kehadiran atau ketakhadiran itu hendaklah dinyatakan dalam deposisi- deposisi itu.
+(3) Keterangan yang disebutkan dalam subseksyen
+
+(1) boleh diambil semasa orang yang dituduh, jika ada, hadir atau tak hadir dan hakikat kehadiran atau ketakhadiran itu hendaklah dinyatakan dalam deposisi- deposisi itu.
 
 (4) Seksyen ini tidaklah terpakai dalam hal apa-apa perkara jenayah yang bersifat politik.
 
@@ -1300,7 +1660,33 @@ sama dan tertakluk kepada syarat-syarat yang sama sebagaimana dia boleh dipaksa 
 
 oleh Mahkamah Tinggi, dan tiap-tiap orang sedemikian hendaklah, berkenaan dengan segala keterangan dan jawapan yang diberikan olehnya, menjadi terikat di sisi undang-undang untuk menyatakan yang benar.
 
-Pengambilan 52. (1) Jika sesuatu waran telah dikeluarkan di keterangan Malaysia bagi pemberkasan seseorang dan dia berada, bagi maksud atau disyaki berada, di negara lain, Menteri boleh pemulangan penjenayah- melalui perintah secara bertulis memberikuasa penjenayah seseorang Majistret mengambil keterangan di Malaysia buruan ke Malaysia. untuk dihantar ke negara yang berkenaan bagi digunakan dalam apa-apa prosiding di negara itu bagi pemulangan orang itu ke Malaysia.
+<!-- marginal: Pengambilan -->
+
+52. (1) Jika sesuatu waran telah dikeluarkan di
+
+<!-- marginal: keterangan -->
+
+Malaysia bagi pemberkasan seseorang dan dia berada,
+
+<!-- marginal: bagi maksud -->
+
+atau disyaki berada, di negara lain, Menteri boleh
+
+<!-- marginal: pemulangan -->
+
+<!-- marginal: penjenayah- -->
+
+melalui perintah secara bertulis memberikuasa
+
+<!-- marginal: penjenayah -->
+
+seseorang Majistret mengambil keterangan di Malaysia
+
+<!-- marginal: buruan ke -->
+
+<!-- marginal: Malaysia. -->
+
+untuk dihantar ke negara yang berkenaan bagi digunakan dalam apa-apa prosiding di negara itu bagi pemulangan orang itu ke Malaysia.
 
 (2) Apabila perintah itu diterima, Majistret itu
 
@@ -1314,7 +1700,13 @@ Pengambilan 52. (1) Jika sesuatu waran telah dikeluarkan di keterangan Malaysia 
 
 (3) Orang yang terhadapnya waran tangkap telah dikeluarkan di bawah subseksyen (1) tidak berhak untuk membuat apa-apa representasi atau menyebabkan apa- apa representasi dibuat dalam prosiding di bawah subseksyen (2) itu.
 
-Kaedah- 53. (1) Menteri boleh membuat kaedah-kaedah secara kaedah. umum bagi menguatkuasakan Akta ini, dan, khususnya dan tanpa menjejaskan keluasan yang terdahulu, kaedah- kaedah sedemikian boleh membuat peruntukan bagi—
+<!-- marginal: Kaedah- -->
+
+53. (1) Menteri boleh membuat kaedah-kaedah secara
+
+<!-- marginal: kaedah. -->
+
+umum bagi menguatkuasakan Akta ini, dan, khususnya dan tanpa menjejaskan keluasan yang terdahulu, kaedah- kaedah sedemikian boleh membuat peruntukan bagi—
 
 (a) apa-apa perkara yang dikehendaki, atau boleh, ditetapkan di bawah Akta ini;
 
@@ -1396,9 +1788,7 @@ Menteri
 
 Kepada Ketua Polis Negara Polis Diraja Malaysia dan semua pegawai polis lain di Malaysia
 
-BAHAWASANYA Menteri telah melalui Perintah di bawah tandatangan dan meterainya memaklumkan
-
-<!-- marginal: saya -->
+BAHAWASANYA Menteri telah melalui Perintah di bawah tandatangan dan meterainya memaklumkan saya
 
 <!-- marginal: bahawa -->
 
@@ -1436,7 +1826,11 @@ Potong mana-mana yang lidak berkenaan.
 
 ## WARAN PENGKOMITAN
 
-Kepada ...................................................................(Pegawai Polis) dan kepada Pegawai Penjaga Penjara di...................................................... BAHAWASANYA pada.......hb........,......19...... ...........yang beralamat di.......................................dtbawa ke hadapan saya, seorang Hakim Mahkamah Sesyen, menurut permintaan yang dibuat oleh Kerajaan ...............................atas alasan bahawa dia dituduh/disabitkan* kerana melakukan kesalahan.......................................di dalam bidang kuasa......................................................... DAN BAHAWASANYA suatu kes prima facie telah dibuktikan bagi menyokong permintaan yang dibuat oleh Kerajaan ............................ ..............................itu, MAKA, OLEH YANG DEMIKIAN, saya...................................................... yang bertandatangan di bawah, memerintahkan anda, Pegawai Polis tersebut, supaya dengan serta-merta membawa dan menyerahkan ......................................................................................yang tersebut ke dalam jagaan Pegawai Penjaga Penjara di ........................................... dan anda, Pegawai Penjaga Penjara tersebut, supaya menerima .................................................................................yang tersebut ke dalam jagaan dan menahannya di situ dengan selamat sehingga dia diserahkan menurut peruntukan-peruntukan Akta Ekstradisi 1991, dan bagi maksud itu inilah waran anda. Diberikan di bawah tandatangan dan meterai saya di............... .................................... pada..............hb......,,....................... 19. (L.S.)
+Kepada ...................................................................(Pegawai Polis) dan kepada Pegawai Penjaga Penjara di...................................................... BAHAWASANYA pada.......hb........,......19...... ...........yang beralamat di.......................................dtbawa ke hadapan saya, seorang Hakim Mahkamah Sesyen, menurut permintaan yang dibuat oleh Kerajaan ...............................atas alasan bahawa dia dituduh/disabitkan* kerana melakukan kesalahan.......................................di dalam bidang kuasa......................................................... DAN BAHAWASANYA suatu kes prima facie telah dibuktikan bagi menyokong permintaan yang dibuat oleh Kerajaan ............................ ..............................itu, MAKA, OLEH YANG DEMIKIAN, saya...................................................... yang bertandatangan di bawah, memerintahkan anda, Pegawai Polis tersebut, supaya dengan serta-merta membawa dan menyerahkan ......................................................................................yang
+
+<!-- marginal: tersebut ke -->
+
+dalam jagaan Pegawai Penjaga Penjara di ........................................... dan anda, Pegawai Penjaga Penjara tersebut, supaya menerima .................................................................................yang tersebut ke dalam jagaan dan menahannya di situ dengan selamat sehingga dia diserahkan menurut peruntukan-peruntukan Akta Ekstradisi 1991, dan bagi maksud itu inilah waran anda. Diberikan di bawah tandatangan dan meterai saya di............... .................................... pada..............hb......,,....................... 19. (L.S.)
 
 Hakim Mahkamah Sesyen
 
@@ -1674,11 +2068,7 @@ Fasal 23 bertujuan untuk membolehkan dokumen-dokumen tertentu diterima sebagai k
 
 sewajarnya; dan dokumen-dokumen itu adalah disifatkan telah disahkan dengan sewajarnya jika telah disahkan sebagaimana yang diperuntukkan dalam fasal 24.
 
-6. Bahagian V mengandungi peruntukan-peruntukan yang berhubungan dengan pemulangan penjenayah-penjenayah buruan ke Brunei Darussalam dan Republik Singapura. Fasal 25 mengandungi peruntukan-peruniukan yang menjadikan
-
-## Bahagian VI terpakai bagi Brunei Darussalam dan Singapura dan
-
-takrif istilah "kesalahan". Fasal 26 bertujuan memberi seseorang Majistret di Malaysia kuasa untuk mengendors waran yang dikeluarkan oleh pihak berkuasa kehakiman di Brunei Darussalam atau Singapura yang memberikuasa penangkapan seseorang yang dituduh atau disabitkan atas suatu kesalahan dan yang dipercayai ada di Malaysia. la juga bertujuan memberi Menteri kuasa untuk mengkensel sesuatu waran terendos di bawah hal-hal keadaan tertentu. Di bawah fasal 27 sesuatu waran yang dikeluarkan di Malaysia tetapi diendors dan dilaksanakan di Brunei Darussalam atau Singapura akan disifatkan teiah dilaksanakan dengan sah seolah-olah ia telah dilaksanakan di Maiaysia. Fasal 28 mengandungi prosedur bagi pemindahan ke Brunei Darussalam atau Singapura penjenayah-penjenayah buruan yang ditangkap di bawah waran yang dilaksanakan di Malaysia menurut fasal 26.
+6. Bahagian V mengandungi peruntukan-peruntukan yang berhubungan dengan pemulangan penjenayah-penjenayah buruan ke Brunei Darussalam dan Republik Singapura. Fasal 25 mengandungi peruntukan-peruniukan yang menjadikan Bahagian VI terpakai bagi Brunei Darussalam dan Singapura dan takrif istilah "kesalahan". Fasal 26 bertujuan memberi seseorang Majistret di Malaysia kuasa untuk mengendors waran yang dikeluarkan oleh pihak berkuasa kehakiman di Brunei Darussalam atau Singapura yang memberikuasa penangkapan seseorang yang dituduh atau disabitkan atas suatu kesalahan dan yang dipercayai ada di Malaysia. la juga bertujuan memberi Menteri kuasa untuk mengkensel sesuatu waran terendos di bawah hal-hal keadaan tertentu. Di bawah fasal 27 sesuatu waran yang dikeluarkan di Malaysia tetapi diendors dan dilaksanakan di Brunei Darussalam atau Singapura akan disifatkan teiah dilaksanakan dengan sah seolah-olah ia telah dilaksanakan di Maiaysia. Fasal 28 mengandungi prosedur bagi pemindahan ke Brunei Darussalam atau Singapura penjenayah-penjenayah buruan yang ditangkap di bawah waran yang dilaksanakan di Malaysia menurut fasal 26.
 
 1. Bahagian VI memperkatakan perkara-perkara yang berhubungan dengan pemulangan seseorang penjenayah buruan yang sedang menjalani hukuman di Malaysia untuk dibicarakan di negara yang cuba mendapatkan pemulangannya. Fasal 29 mengandungi prosedur bagi pemulangan penjenayah buruan seperti itu. Permintaan bagi pemulangannya mestilah dibuat kepada Menteri oleh wakil diplomatik negara yang cuba mendapatkan pemulangannya. Negara itu akan dikehendaki memberikan akujanji, antara lain, bahawa dia akan dipulangkan dengan serta-merta ke Malaysia apabila perbicaraannya tamat. Bagaimanapun, di bawah fasal 30, jika dia tidak lagi, semasa dia di negara yang satu lagi itu, kena menjalani hukuman di Malaysia, akujanji itu tidak lagi perlu dipatuhi. Masa yang dihabiskan oieh penjenayah buruan itu dalam jagaan berkaitan dengan pemulangannya di bawah fasal 29 akan dikira sebagai masa yang dihabiskan untuk hukumannya di Malaysia. Di bawah fasal 31, Menteri boleh mengeluarkan waran bagi pemulangan ke negara lain seseorang penjenayah buruan yang telah dipulangkan ke negara itu dan kemudiannya dipulangkan pula ke Malaysia jika negara itu masih mahu akan pemulangan penjenayah itu selepas dia menjalani hukumannnya di Malaysia.
 

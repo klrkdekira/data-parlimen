@@ -24,35 +24,69 @@
 
 ## DIRECTORS AND OTHER OFFICERS AND SERVANTS
 
-10. Appointment of the Director General, Deputy Director Generals, Directors and other officers and servants. 11. Ineligibility for appointment. 12. Regulations with respect to conditions of service. 13. Regulations with respect to discipline.
+10. Appointment of the Director General, Deputy Director Generals, Directors and other officers and servants.
+
+11. Ineligibility for appointment.
+
+12. Regulations with respect to conditions of service.
+
+13. Regulations with respect to discipline.
 
 ## PART IV
 
 ## FINANCE
 
-14. The Fund. 15. Conservation of Fund. 16. Expenditure to be charged on the Fund.
+14. The Fund.
+
+15. Conservation of Fund.
+
+16. Expenditure to be charged on the Fund.
 
 <!-- page 2 -->
 
-17. Expenditure and preparation of estimates. 18. Statutory Bodies (Acccount and Annual Reports) Act 1980.
+17. Expenditure and preparation of estimates.
+
+18. Statutory Bodies (Acccount and Annual Reports) Act 1980.
 
 ## PART V
 
 ## OTHER POWERS OF THE BOARD
 
-19. Delegation by the Board. 20. Power to borrow. 21. Investment. 22. Power to employ.
+19. Delegation by the Board.
+
+20. Power to borrow.
+
+21. Investment.
+
+22. Power to employ.
 
 ## PART VI
 
 ## GENERAL
 
-23. Obligation of secrecy. 24. Power to make regulations.
+23. Obligation of secrecy.
+
+24. Power to make regulations.
 
 ## PART VII
 
 ## REPEAL AND TRANSITIONAL PROVISIONS
 
-25. Repeal. 26. Continuance of members of the Board of Management and officers and servants. 27. Transfer of fund, assets, property, rights, liabilities and obligations. 28. Construction. 29. Continuance of laws, etc. 30. Existing contracts. 31. Continuance of criminal and civil proceedings. 32. Prevention of anomalies.
+25. Repeal.
+
+26. Continuance of members of the Board of Management and officers and servants.
+
+27. Transfer of fund, assets, property, rights, liabilities and obligations.
+
+28. Construction.
+
+29. Continuance of laws, etc.
+
+30. Existing contracts.
+
+31. Continuance of criminal and civil proceedings.
+
+32. Prevention of anomalies.
 
 ## SCHEDULE
 
@@ -102,7 +136,11 @@ Promotion Board Act 1991.
 
 <!-- page 4 -->
 
-"Corporation" means the Tourist Development Corporation of Malaysia established under the Tourist Act 72. Development Corporation of Malaysia Act 1972;
+"Corporation" means the Tourist Development Corporation of Malaysia established under the Tourist
+
+<!-- marginal: Act 72. -->
+
+Development Corporation of Malaysia Act 1972;
 
 "Deputy Chairman" means the Deputy Chairman appointed under section 5;
 
@@ -126,9 +164,13 @@ Promotion Board Act 1991.
 
 ## THE MALAYSIA TOURISM PROMOTION BOARD
 
-Establishment
+<!-- marginal: Establishment -->
 
-3. There is hereby established a body corporate by the of the Board. name of "Malaysia Tourism Promotion Board" with perpetual succession and a common seal, which may sue and be sued in its name and, subject to and for the purposes of this Act, may enter into contracts and may acquire, purchase, take, hold and enjoy movable and
+3. There is hereby established a body corporate by the
+
+<!-- marginal: of the Board. -->
+
+name of "Malaysia Tourism Promotion Board" with perpetual succession and a common seal, which may sue and be sued in its name and, subject to and for the purposes of this Act, may enter into contracts and may acquire, purchase, take, hold and enjoy movable and
 
 <!-- page 5 -->
 
@@ -212,21 +254,59 @@ development and promotion of the tourism industry in Malaysia and where approved
 
 (4) The provisions of the Schedule shall apply to the Board.
 
-Public
+<!-- marginal: Public -->
 
-6. The Public Authorities Protection Act 1948 shall Authorities apply to any action, suit, prosecution or proceedings Protection Act 1948. against the Board or any member, officer, servant or Act 198. agent of the Board in respect of any act, neglect or default done or committed by him in such capacity.
+6. The Public Authorities Protection Act 1948 shall
 
-Public
+<!-- marginal: Authorities -->
 
-7. All members, officers and servants of the Board, servants. while discharging their duties as such members, officers and servants, shall be deemed to be public servants P.M.S. within the meaning of the Penal Code. Cap. 45.
+apply to any action, suit, prosecution or proceedings
 
-Power of the
+<!-- marginal: Protection -->
 
-8. The Board shall be responsible to the Minister, and Minister to the Minister may from time to time give directions not give directions. inconsistent with the provisions of this Act and the Board shall give effect to all such directions.
+<!-- marginal: Act 1948. -->
 
-Reports and
+against the Board or any member, officer, servant or
 
-9. (1) The Board shall furnish to the Minister such information. information with respect to its property and activities as the Minister may from time to time require or direct.
+<!-- marginal: Act 198. -->
+
+agent of the Board in respect of any act, neglect or default done or committed by him in such capacity.
+
+<!-- marginal: Public -->
+
+7. All members, officers and servants of the Board,
+
+<!-- marginal: servants. -->
+
+while discharging their duties as such members, officers and servants, shall be deemed to be public servants
+
+<!-- marginal: P.M.S. -->
+
+within the meaning of the Penal Code.
+
+<!-- marginal: Cap. 45. -->
+
+<!-- marginal: Power of the -->
+
+8. The Board shall be responsible to the Minister, and
+
+<!-- marginal: Minister to -->
+
+the Minister may from time to time give directions not
+
+<!-- marginal: give -->
+
+<!-- marginal: directions. -->
+
+inconsistent with the provisions of this Act and the Board shall give effect to all such directions.
+
+<!-- marginal: Reports and -->
+
+9. (1) The Board shall furnish to the Minister such
+
+<!-- marginal: information. -->
+
+information with respect to its property and activities as the Minister may from time to time require or direct.
 
 (2) The Board shall, not later than the 30th day of June of each year, cause to be made and transmitted to the Minister a report dealing with the activities of the Board during the preceding year and the report shall contain such information relating to the proceedings and policy of the Board as the Minister may from time to time specify.
 
@@ -294,17 +374,43 @@ on such terms and conditions, including remuneration, as may be determined by th
 
 (8) If the Director General is temporarily absent from Malaysia or is temporarily incapacitated through illness or for any other sufficient reason from the performance of his duties, the Board may direct any Deputy Director General to perform his duties during such temporary absence or incapacity.
 
-Ineligibility
+<!-- marginal: Ineligibility -->
 
-11. No person shall be eligible for employment as an for officer or servant of the Board if he has, directly or appointment. indirectly, by himself or his partner, any share or interest in any contract or proposed contract with, for or on behalf of the Board.
+11. No person shall be eligible for employment as an
 
-Regulations
+<!-- marginal: for -->
 
-12. The Board may, from time to time, with the with respect approval of the Minister, make regulations with respect to conditions of service. to the conditions of service of its officers and servants.
+officer or servant of the Board if he has, directly or
 
-Regulations
+<!-- marginal: appointment. -->
 
-13. (1) The Board may, from time to time, with the with respect approval of the Minister, make regulations with respect to discipline. to the discipline of its officers and servants.
+indirectly, by himself or his partner, any share or interest in any contract or proposed contract with, for or on behalf of the Board.
+
+<!-- marginal: Regulations -->
+
+12. The Board may, from time to time, with the
+
+<!-- marginal: with respect -->
+
+approval of the Minister, make regulations with respect
+
+<!-- marginal: to conditions -->
+
+<!-- marginal: of service. -->
+
+to the conditions of service of its officers and servants.
+
+<!-- marginal: Regulations -->
+
+13. (1) The Board may, from time to time, with the
+
+<!-- marginal: with respect -->
+
+approval of the Minister, make regulations with respect
+
+<!-- marginal: to discipline. -->
+
+to the discipline of its officers and servants.
 
 (2) The regulations made under this section may include provisions for—
 
@@ -362,11 +468,19 @@ Fund by so performing, exercising and discharging its functions, powers and duti
 
 sums properly chargeable to its revenue account, including depreciation and interest on capital, taking one year with another.
 
-Expenditure
+<!-- marginal: Expenditure -->
 
-16. The Fund shall be expended for the purpose of— to be charged on
+16. The Fund shall be expended for the purpose of—
 
-(a) paying any expenditure lawfully incurred by the Fund. the Board, including legal fees and other fees and costs, and the remuneration of officers and servants appointed and employed by the Board, including superannuation allowances, pensions and gratuities;
+<!-- marginal: to be -->
+
+<!-- marginal: charged on -->
+
+(a) paying any expenditure lawfully incurred by
+
+<!-- marginal: the Fund. -->
+
+the Board, including legal fees and other fees and costs, and the remuneration of officers and servants appointed and employed by the Board, including superannuation allowances, pensions and gratuities;
 
 (b) paying any other expenses, costs or expenditure properly incurred or accepted by the Board in the performance of its functions or the exercise of its powers under section 4;
 
@@ -382,9 +496,19 @@ performance of its functions or the exercise of its powers under section 4;
 
 (e) generally, paying any expenses for carrying into effect the provisions of this Act.
 
-Expenditure
+<!-- marginal: Expenditure -->
 
-17. (1) The expenditure of the Board up to such amount and as may be authorised by the Minister for any one year preparation of estimates. shall be defrayed out of the Fund.
+17. (1) The expenditure of the Board up to such amount
+
+<!-- marginal: and -->
+
+as may be authorised by the Minister for any one year
+
+<!-- marginal: preparation -->
+
+<!-- marginal: of estimates. -->
+
+shall be defrayed out of the Fund.
 
 (2) Before the beginning of September of each year, the Board shall submit to the Minister an estimate of the expenditure for the following year in such form and containing such particulars as the Minister may direct; and the Minister shall, before the beginning of the following year, notify the Board of the amount authorised for expenditure generally or the amounts authorised for each description of expenditure.
 
@@ -454,13 +578,31 @@ technical advisers, including advocates and solicitors, bankers, stockbrokers, s
 
 ## GENERAL
 
-Obligation 23. (1) Except for any of the purposes of this Act or of secrecy. for any civil or criminal proceedings under any written law, no member, officer or servant of the Board shall disclose any information which has been obtained by him in the course of his duties and which is not published in pursuance of this Act.
+<!-- marginal: Obligation -->
+
+23. (1) Except for any of the purposes of this Act or
+
+<!-- marginal: of secrecy. -->
+
+for any civil or criminal proceedings under any written law, no member, officer or servant of the Board shall disclose any information which has been obtained by him in the course of his duties and which is not published in pursuance of this Act.
 
 (2) Any person contravening subsection (1) shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding one year or to a fine not exceeding five thousand ringgit or to both.
 
-Power to 24. (1) The Board may, with the approval of the make Minister, make such regulations as may be expedient or regulations. necessary for the better carrying out of the provisions of this Act.
+<!-- marginal: Power to -->
 
-(2) Without prejudice to the generality of subsection (1), regulations may be made for—
+24. (1) The Board may, with the approval of the
+
+<!-- marginal: make -->
+
+Minister, make such regulations as may be expedient or
+
+<!-- marginal: regulations. -->
+
+necessary for the better carrying out of the provisions of this Act.
+
+(2) Without prejudice to the generality of subsection
+
+(1), regulations may be made for—
 
 (a) prescribing the manner in which documents, cheques and instruments of any description shall be signed or executed on behalf of the Board;
 
@@ -546,13 +688,25 @@ be transferred to the Fund.
 
 <!-- page 16 -->
 
-Construction. 28. All references in any other written law to the Corporation shall be construed as references to—
+<!-- marginal: Construction. -->
+
+28. All references in any other written law to the Corporation shall be construed as references to—
 
 (a) in the case of matters relating to licensing or registration, the Commissioner of Tourism; and
 
 (b) in any other case, the Board.
 
-Continuance 29. (1) All orders, regulations, directions, appoint- of ments, notifications, exemptions and approvals made or laws, etc. given under, or in accordance with, or by virtue of, the repealed Act shall, in so far as they are not inconsistent with the provisions of this Act or the Tourism Industry Act 1991, be deemed to have been made or given under this Act or the Tourism Industry Act 1991 and shall continue in force until other provisions shall be made under this Act or the Tourism Industry Act 1991 or until the date upon which they expire.
+<!-- marginal: Continuance -->
+
+29. (1) All orders, regulations, directions, appoint-
+
+<!-- marginal: of -->
+
+ments, notifications, exemptions and approvals made or
+
+<!-- marginal: laws, etc. -->
+
+given under, or in accordance with, or by virtue of, the repealed Act shall, in so far as they are not inconsistent with the provisions of this Act or the Tourism Industry Act 1991, be deemed to have been made or given under this Act or the Tourism Industry Act 1991 and shall continue in force until other provisions shall be made under this Act or the Tourism Industry Act 1991 or until the date upon which they expire.
 
 (2) Any application for a licence or certificate of registration, approval or consent, or for any purpose whatsoever, or any appeal, made by any person to the Minister or the Corporation before the appointed day, and pending immediately before such day, shall, if there is a corresponding provision under this Act or the Tourism Industry Act 1991 be dealt with as if made under that provision, and if there is no such corresponding provision, such application or appeal shall lapse on the appointed day.
 
@@ -560,9 +714,13 @@ Continuance 29. (1) All orders, regulations, directions, appoint- of ments, noti
 
 <!-- page 17 -->
 
-Prevention
+<!-- marginal: Prevention -->
 
-32. (1) If any difficulty arises in respect to the of anomalies foregoing transitional provisions of this Act the Minister may, by order, make such modifications in those provisions as may appear to him necessary for preventing anomalies:
+32. (1) If any difficulty arises in respect to the
+
+<!-- marginal: of anomalies -->
+
+foregoing transitional provisions of this Act the Minister may, by order, make such modifications in those provisions as may appear to him necessary for preventing anomalies:
 
 Provided that the Minister shall not exercise the powers conferred by this section after the expiration of two years from the appointed day.
 
@@ -576,9 +734,23 @@ amendments, additions, deletions, substitutions, adaptations, variations, altera
 
 (Subsection 5(4))
 
-Appointment, 1. (1) A member of the Board, other than the Director General, revocation and shall, subject to such conditions of appointment, hold office for a resignalion. term not exceeding three years and is eligible for reappointment. (2) The appointment of any member may at any time be revoked by the Minister without assignmg any reason therefor. (3) A member, other than the Director General, may at any time resign his office by letter addressed to the Minister. (4) The Director General may at any time resign his office by letter addressed to the Board and to the Minister in accordance with the terms and conditions of service applicable to his case. (5) Every member shall devote such time to the business of the Board as is necessary to discharge his duties effectively.
+<!-- marginal: Appointment, -->
 
-Vacation of 2. (1) The office of a member of the Board shall be vacated— office.
+1. (1) A member of the Board, other than the Director General,
+
+<!-- marginal: revocation and -->
+
+shall, subject to such conditions of appointment, hold office for a
+
+<!-- marginal: resignalion. -->
+
+term not exceeding three years and is eligible for reappointment. (2) The appointment of any member may at any time be revoked by the Minister without assignmg any reason therefor. (3) A member, other than the Director General, may at any time resign his office by letter addressed to the Minister. (4) The Director General may at any time resign his office by letter addressed to the Board and to the Minister in accordance with the terms and conditions of service applicable to his case. (5) Every member shall devote such time to the business of the Board as is necessary to discharge his duties effectively.
+
+<!-- marginal: Vacation of -->
+
+2. (1) The office of a member of the Board shall be vacated—
+
+<!-- marginal: office. -->
 
 (a) if he dies;
 
@@ -632,17 +804,25 @@ purpose of advising it on any matter under discussion, but any person so attendi
 
 (4) The common seal of the Board shall be officially and judicially noticed.
 
-Disclosure of
+<!-- marginal: Disclosure of -->
 
-7. A member of the Board having, directly or indirectly, by ingterest. himself or his partner, any interest in any company or undertaking with which the Board proposes to make any contract or having any interest in any such contract or in any matter under discussion by the Board shall disclose to the Board the fact of his interest and the nature thereof, and such disclosure shall be recorded in the minutes of the Board and unless specifically authorised thereto by the Chairman, such member shall take no part in any deliberation or decision of the Board relating to the contract or matter.
+7. A member of the Board having, directly or indirectly, by
+
+<!-- marginal: ingterest. -->
+
+himself or his partner, any interest in any company or undertaking with which the Board proposes to make any contract or having any interest in any such contract or in any matter under discussion by the Board shall disclose to the Board the fact of his interest and the nature thereof, and such disclosure shall be recorded in the minutes of the Board and unless specifically authorised thereto by the Chairman, such member shall take no part in any deliberation or decision of the Board relating to the contract or matter.
 
 8. (1) The Board shall cause minutes of all meetings of the Board to be maintained and kept in a proper form.
 
 (2) Any minutes made of meetings of the Board shall, if duly signed, be admissible in evidence in all legal proceedings without further proof and every meeting of the Board in respect of the proceedings of which minutes have been so made shall be deemed to have been duly convened and held and all members thereat to have been duly qualified to act.
 
-Validity of acu
+<!-- marginal: Validity of acu -->
 
-9. No act done or proceedings taken under this Act shall be and proceeding questioned on the ground of— (a) any vacancy in the membership of, or of any defect in the constitution of, the Board; (b) the contravention by any member of the Board of the provisions of paragraph 7; or (c) any omission, defect or irregularity not affecting the merits of the case.
+9. No act done or proceedings taken under this Act shall be
+
+<!-- marginal: and proceeding -->
+
+questioned on the ground of— (a) any vacancy in the membership of, or of any defect in the constitution of, the Board; (b) the contravention by any member of the Board of the provisions of paragraph 7; or (c) any omission, defect or irregularity not affecting the merits of the case.
 
 ## EXPLANATORY STATEMENT
 
@@ -668,6 +848,4 @@ This Bill seeks to establish a new body corporate by the name of "Malaysia Touri
 
 ## IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure.
-
-<!-- marginal: [PN. (U2) 1606] -->
+This Bill will not involve the Government in any extra financial expenditure. [PN. (U2) 1606]

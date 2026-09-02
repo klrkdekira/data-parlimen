@@ -478,7 +478,7 @@ terminal, pemegang lesen perniagaan pengantaraan atau pengendali berlesen itu, t
 
 31. Akta ibu dipinda dengan memasukkan selepas Jadual Kedua jadual yang berikut:
 
-“Jadual Ketiga
+## “JADUAL KETIGA
 
 [Seksyen 2]
 

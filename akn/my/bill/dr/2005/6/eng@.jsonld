@@ -187,7 +187,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/6/eng@/~cl_4",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (1) — (Amendment)"
+        "@value": "in subsection (1) —"
       }
     },
     {
@@ -227,7 +227,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/6/eng@/~cl_4__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "in paragraph (d), by substituting for the words \"nine thousand eight hundred and sixty-one ringgit and fifty sen\" the words \"ten thousand eight hundred and forty-seven ringgit and sixty-five sen\"; and"
+        "@value": "in paragraph (d), by substituting for the words \"nine thousand eight hundred and sixty-one ringgit and fifty sen\" the words \"ten thousand eight hundred and forty-seven ringgit and sixty-five sen\"; and (Amendment)"
       }
     },
     {

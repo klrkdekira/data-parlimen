@@ -1,0 +1,1226 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-52-1996",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Futures Industry (Amendment and Consolidation) Bill 1996"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_I",
+      "@type": "akn:chapter",
+      "eli:number": "I",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_I__cl_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMITARY"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_II",
+      "@type": "akn:chapter",
+      "eli:number": "II",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_II__cl_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "AMENDMENT OF THE SECURITIES COMMISSION ACT 1993"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III",
+      "@type": "akn:chapter",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_12"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "AMENDMENTS OF THE FUTURES INDUSTRY ACT 1993"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_10__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 102 of the principal Act is amended—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "102."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsections (1) and (1A) the following subsections: \"(1) A futures broker shall not trade in a futures contract on any futures market outside Malaysia unless— (a) the futures market is a futures market of a Specified Exchange; and (b) the futures contract is of an approved class of futures contracts. (1A) The Minister may prescribe— (a) any futures market outside Malaysia to be a Specified Exchange; and Consolidation) (b) any class of futures contracts of the futures market of a Specified Exchange to be an approved class of futures contracts.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1A) the following subsection: \"(1B) If—— (a) the Commission has reason to believe that a situation exists which, in the opinion of the Commission, is likely to affect the proper operation of the futures market of any Specified Exchange or cause a disruption to the orderly trading of futures contracts on such a futures market; (b) it is shown that a futures broker or any of its employees, directors or representatives has acted in any manner, in relation to the operation— (i) of any futures market of an exchange company or in respect of which a clearing house provides clearing house facilities; or (ii) of any futures market of a Specified Exchange, which is likely to prejudice public interest; (c) a futures broker has contravened— (i) this Act; (ii) the business rules of an exchange company or a clearing house of which the futures broker is an affiliate; or (iii) any condition applicable in respect of its licence; or 14 Bill (d) other prescribed circumstances exist in respect of a futures broker, the Commission may direct— (aa) the futures broker to cease trading in futures contracts, or in any class of futures contracts, on the futures market of any Specified Exchange; or (bb) that trading in futures contracts, or in any class of futures contracts, by the futures broker on the futures market of any Specified Exchange be limited to the closing out of futures contracts.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by inserting after the words \"subsection (1)\" the words \"or any direction made under subsection (1B)\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The English language text of subsection 105(2) of"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "the principal Act is amended by substituting for the words 105. \"futures brokers licence\" the words \"futures broker's licence\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "108."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Futures Industry Act 1993, which in this Chapter"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "is referred to as the \"principal Act\", is amended in section (a) by deleting the definition of \"commodity futures (b) by substituting for the definition of \"futures fund management business\" the following ' \"futures fund management business\", in relation to a person, means a business of offering to any person for subscription, or inviting any person to subscribe for— (a) interests to which Division 5 of Part IV of the Companies Act 1965 applies where any of the money subscribed is intended to be applied in relation to trading in futures contracts; or (b) interests entitling such person to participate as a beneficiary under a trust in profits or income which comprise or include profits or income arising from trading in futures contracts, but does not include an act that a person (aa) while employed by, or acting for, or by arrangement with, another person; (bb) as employee or agent of, or otherwise on behalf of, on account of, or for the benefit of, the other person; and (cc) in connection with a futures fund management business carried on by the other person;'; and Consolidation) (c) in the definition of \"instrument\", in paragraph (a), by inserting after the word \"including\" the words \"a commodity, or\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 6 of the principal Act is amended by inserting"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "after subsection (1A) the following subsection: \"(1B) Where— (a) proposed business rules or amendments to existing business rules involve introduction of a class of futures contracts, the instrument in respect of which is a commodity, to be offered for trading on a futures market of the exchange company; and (b) the Minister responsible in respect of the commodity is the Minister for the time being charged with the responsibility for primary industries, the Commission shall consult that Minister before notifying the exchange company of its decision under subsection (2).\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_5__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 17(5) of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "inserting after the words \"subsection (1)\" the words \"or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after Part"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "III the following Part: \"PART IIIA AGREEMENTS WITH UNLICENSED PERSONS Interpretation. 35A. In this Part, unless the context otherwise requires— \"client\" means a person who enters into an agreement with an unlicensed person in the circumstances referred to in section 35B, 35c or 35D, as the case requires, but does not include an excluded client; \"excluded client\" means— (a) a futures broker; (b) a futures fund manager; (c) a futures trading adviser; or (d) one of two or more persons who together constitute a futures broker, futures fund manager or futures trading adviser, and includes a person who is an associate of another person if that person knows, or ought reasonably to know, that that other person is an unlicensed person; \"unlicensed person\" means— (a) in relation to section 35B, a person who does not hold a futures broker's licence; (b) in relation to section 35c, a person who does not hold a futures broker's licence or a futures fund manager's licence; (c) in relation to section 35D, a person who does not hold a futures broker's licence or a futures fund manager's licence or a futures trading adviser's licence; and (d) in relation to the rest of this Part, a person who does not hold any of the licences referred to in paragraphs (a), (b) and (c). 35B. If— (a) an unlicensed person and a client enter into an agreement relating to a trading or proposed trading in a futures contract by the unlicensed person on the client's behalf; and (b) the trading or proposed trading involves a contravention of section 16, Consolidation) this Part applies whether or not any other person is a party to the agreement. 35c. If, during a period when an unlicensed person carries on a futures fund management business or holds himself out as a futures fund manager, the unlicensed person and a client enter into an agreement that relates to an offer or invitation of a kind mentioned in the definition of \"futures fund management business\", this Part applies whether or not any other person is a party to the agreement. 35D. If, during a period when an unlicensed person carries on a futures advice business or holds himself out as a futures trading adviser, the unlicensed person and a client enter into an agreement that relates to the giving of advice to the client about futures contracts or to giving the client futures reports, this Part applies whether or not any other person is a party to the agreement. 35E. (1) Subject to this section, a client may, whether before or after the completion of the agreement referred to in section 35B, 35c or 35D, give to the unlicensed person a written notice stating that the client wishes to rescind the agreement. (2) The client may only give a notice under this section within a reasonable period after becoming aware of the facts entitling the client to give the notice. (3) The client shall not be entitled to give a notice under this section if the client engages in conduct because of which the client would, if the entitlement to give such a notice were a right to rescind the agreement for misrepresentation by the unlicensed person, be taken to have affirmed the agreement. Bill (4) The client shall not be entitled to give a notice under this section if, within a reasonable period before the agreement was entered into, the unlicensed person informs the client (whether or not in writing) that— (a) the unlicensed person does not hold a futures broker's licence; (b) the unlicensed person does not hold a futures broker's licence or a futures fund manager's licence; or (c) the unlicensed person does not hold a futures broker's licence or a futures fund manager's licence or a futures trading adviser's licence, as the case requires. (5) If, at a time when a futures broker's licence, futures fund manager's licence, or futures trading adviser's licence held by the unlicensed person was suspended, the unlicensed person informs the client that the licence has been suspended, the unlicensed person shall be taken for the purpose of subsection (4) to have informed the client at that time that the unlicensed person does not hold a licence as mentioned in paragraph (4)(a), (4)(b) or (4)(c). 35F. (1) A notice given under section 35E rescinds the agreement unless rescission of the agreement would prejudice a right acquired by a person (other than the unlicensed person) in good faith, for valuable consideration and without notice of the facts entitling the client to give such notice. (2) The non-rescission of the agreement does not affect a client's right to give a notice under section 35E. Consolidation) 35G. (1) If the client gives a notice under section 35E but the notice does not rescind the agreement because rescission of the agreement would prejudice a right referred to in section 35F, the client may, within a reasonable period after giving the notice, apply to a court for an order under subsection (3). (2) If an application is made under subsection (1), the court may, without prejudice to any power it has otherwise than under this section, make such orders expressed to have effect until the determination of the application as it would have power to make if the notice had rescinded the agreement under section 35F and the application were for orders under section 35H. (3) On an application under subsection (1), the court may make an order— (a) varying the agreement in such a way as to put the client in the same position, as nearly as can be done without prejudicing a right referred to in section 35F acquired before the order is made, as if the agreement had not been entered into; and (b) declaring the agreement to have had effect as so varied at and after the time when it was originally made. (4) If the court makes an order under subsection (3), the agreement shall be taken for the purposes of section 35H to have been rescinded under section 35F. (5) An order under subsection (3) does not affect the application of section 35J or 35L in relation to the agreement as originally made or as varied by the order. 35H. (1) Subject to subsection (2), a court may, on the application of the client or the unlicensed person, make such orders as it would have power to make if the client had duly rescinded the agreement for misrepresentation by the unlicensed person. (2) The court is not empowered to make an order under subsection (1) if the order would prejudice a right acquired by a person (other than the unlicensed person) in good faith, for valuable consideration and without notice of the facts entitling the client to give the notice. 35I. (1) This section applies— (a) where— (i) the client is entitled to give a notice under section 35E; and (ii) a notice so given will result under section 35F in rescission of the agreement; and (b) after the agreement is rescinded under section 35F, but does not otherwise apply. (2) The unlicensed person is not entitled, as against the client— (a) to enforce the agreement, whether directly or indirectly; or (b) to rely on the agreement, whether directly or indirectly and whether by way of defence or otherwise. 35J. (1) Without limiting the generality of section 35I, this section applies— (a) where the client is entitled to give a notice under section 35E; and Consolidation) (b) after the client gives such a notice, even if the notice does not result under section 35F in rescission of the agreement, but does not otherwise apply. (2) The unlicensed person is not entitled to recover by any means, including set-off or a claim on quantum meruit, any brokerage, commission or other fee for which the client would, apart from this section, have been liable to the unlicensed person under or in connection with the agreement. 35K. For the purposes of determining, in a proceeding in a court, whether or not the unlicensed person is, or was at a particular time, entitled as mentioned in subsection 35I(2) or 35J(2), it shall be presumed, unless the contrary is proved, that section 35I or 35J, as the case may be, applies, or applied at that time, as the case may be. 35L. (1) Without limiting the generality of section 35H, if the client gives a notice under section 35E, the client may, even if the notice does not result under section 35F in rescission of the agreement, recover from the unlicensed person as a debt the amount of any brokerage, commission or other fee that the client has paid to the unlicensed person under or in connection with the agreement. (2) The Commission may, if it considers that it is in the public interest to do so, bring an action under subsection (1) in the name of, and for the benefit of, the client. 35M. The client's rights and remedies under this Part are additional to, and do not affect and are not prejudicial to, any other right or remedy of the client.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Part V of the principal Act is amended by inserting"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "48A. before section 49 the following section: \" 48A. (1) In this section, unless the context otherwise requires— \"broadcast\", in relation to a statement, means to broadcast the statement by wireless transmission or television or cause it to be so broadcast; \"publish\", in relation to a statement, means— (a) to insert the statement in a newspaper or periodical or cause it to be so inserted; (b) to publicly exhibit the statement or cause it to be publicly exhibited; or (c) to include the statement, or cause it to be included, in a document that, whether or not in response to a request, is sent or delivered to a person, or thrown or left upon premises occupied by any person. (2) If the Commission considers that, having regard to the conduct that a person has engaged in, is engaging in, or proposes to engage in, it is in the public interest to do so, it may, by written order given to the person, prohibit the person from publishing or broadcasting statements about— (a) futures contracts; (b) business carried on, or proposed to be carried on, by persons and involving trading in futures contracts on behalf of other persons; (c) futures fund management business or proposed futures fund management business; or Consolidation) (d) futures advice business or proposed futures advice business, unless the form and content of the statements have been approved by the Commission. (3) An order under subsection (2) shall not be made unless the Commission has first given the person in relation to whom it proposes to make the order an opportunity to appear at a hearing before the Commission and make submissions and give evidence to the Commission in relation to the matter. (4) A person to whom an order under subsection (2) applies who fails to comply with the order contravenes this section. (5) For the purposes of this section, where a statement is published or broadcast and there is also published or broadcast in relation to the statement— (a) the name or address of a person; (b) the telephone, telex or facsimile number of a person; or (c) the post office or other delivery box number of a person, it shall be presumed, unless the contrary is proved, that the statement was published or broadcast by that person.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 52(1) of the principal Act is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of \"settling\" by substituting for the words \"a commodity\" the words \"an instrument\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_9__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "55 the following section; \" 55A. (1) The Commission may fix or vary by notice in writing the size of aggregate long or Bill short positions, or any combination of long and short positions, in relation to a class or classes of futures contracts which—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "may be assumed by a person; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "may be assumed by a person and any of his associates, and in excess of which the person or the person and his associate or associates shall report particulars of their positions to the Commission in the prescribed form and manner."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_9__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_9__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person contravenes this section—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_9__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if he assumes a long or short position the effect of which is to exceed the size fixed by the Commission under subsection (1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_9__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_III__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if he does not report particulars of positions assumed by him, or by him and any of his associates in the prescribed form and manner.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_II__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Securities Commission Act 1993 is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "deleting subsection 15(2). 2 Bill"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV",
+      "@type": "akn:chapter",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_37"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "REPEAL OF THE COMMODITIES TRADING ACT 1985 AND SAVING AND TRANSITIONAL PROVISIONS"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Chapter, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "\"affiliate\" has the same meaning as in the principal Act; \"commencement date\", when used in a provision of this Chapter, means the date on which the provision comes into force; \"Commissioner\" has the same meaning as in the Commodities Trading Act 1985; Consolidation) \"Commodities Trading Commission\" means the Commodities Trading Commission established by the Commodities Trading Act 1985; \"futures contract\" has the same meaning as in the principal Act; \"futures market\" has the same meaning as in the principal Act; \"Minister\" has the same meaning as in the principal Act; \"principal Act\" means the Futures Industry Act 1993; \"Securities Commission\" means the Securities Commission established by the Securities Commission Act 1993; \"trade\" has the same meaning as in the principal Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_14__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commodities Trading Act 1985, which in this Chapter is referred to as the \"repealed Act\", is repealed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any subsidiary legislation made, or deemed to have been made, under the repealed Act is revoked."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Commodities Trading Commission is, on the"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "commencement date, dissolved."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_16__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person who was, immediately before the commencement date, an employee of the Commodities Trading Commission may, on the commencement date, elect to become an employee of the Securities Commission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If a person so elects, the Securities Commission shall employ the person on terms and conditions which are not less favourable than those applicable in respect of the person immediately before the commencement date. 16 Bill"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_17__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any money contained, immediately before the commencement date, in the Commodities Trading Commission Fund established under subsection 13(1) of the repealed Act shall become, on the commencement date, the property of the Government and shall be paid into the Federal Consolidated Fund."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any other property contained in the Commodities Trading Commission Fund immediately before the commencement date shall become, on the commencement date, the property of the Securities Commission unless the Minister declares in writing otherwise."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Any money contained, immediately before the"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "commencement date, in the Futures Trading Deposits Account established under subsection 14(1) of the repealed Act shall, on the commencement date, be paid to the Securities Commission and shall be deemed to have been paid under section 103 of the principal Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Any property held, immediately before the"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "commencement date, on trust by the Commodities Trading Commission or the Commissioner pursuant to an order under subparagraph 116(l)(iv) of the repealed Act shall become, on the commencement date, the property of the Securities Commission and shall be held on trust subject to the terms of the trust on which the property was so held by the Commodities Trading Commission or the Commissioner."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_20__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_20__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_20__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_20__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_20__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If, immediately before the commencement date, proceedings to which the Commodities Trading Commission or the Commissioner was a party were pending in any court, the Securities Commission shall, on the commencement date, be deemed to have been substituted for the Commodities Trading Commission or the Commissioner as a party to the proceedings and shall have the same rights in the proceedings as those had by the Commodities Trading Commission or Commissioner."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A right of action in favour of or against the Commodities Trading Commission or the Commissioner Consolidation) existing immediately before the commencement date shall, on the commencement date, be deemed to be a right of action in favour of or against the Securities Commission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_20__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An appeal made to the Commodities Trading Commission under section 46, 73 or 95 of the repealed Act which had not been determined before the commencement date shall, on the commencement date, be deemed to have been made to the Securities Commission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_20__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A right of appeal to the Commodities Trading Commission under section 46, 73 or 95 of the repealed Act existing immediately before the commencement date shall, on the commencement date, be deemed to be a right of appeal to the Securities Commission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_20__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If, immediately before the commencement date, any criminal proceedings were pending in any court, the proceedings shall be continued as if the amendments made by this Act had not been passed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_20__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the avoidance of doubt, nothing in this section affects section 30 of the Interpretation Acts 1948 and 1967."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_21__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_21__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_21__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_21__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If, immediately before the commencement date, a company was approved under section 19 of the repealed Act to establish and operate a commodity exchange, that company shall, on the commencement date, be deemed to be a company in relation to which an approval under subsection 4(1) of the principal Act is in force."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the approval of the company under section 19 of the repealed Act was given subject to conditions, the approval that is taken by subsection (1) to have been given under subsection 4(1) of the principal Act shall be deemed to have been given subject to the same conditions, in so far as the conditions are not inconsistent with the provisions of the principal Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_21__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsection (5), the Minister may, not less than one year after the commencement date, impose any additional term or condition as he thinks fit on a company that is deemed by subsection (1) to have been approved as an exchange company under subsection 4(1) of the principal Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_21__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any term or condition imposed under subsection (3) shall be deemed to have been imposed under subsection 4(4) of the principal Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_21__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The power conferred by subsection (3) may not be exercised after two years from the commencement date."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The members of the Management Board of a company"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "referred to in section 21 who were elected or appointed under subsection 22(2) of the repealed Act and holding office immediately before the commencement date shall continue to hold office for a period of one year from the commencement date as if they were the directors duly elected or appointed under section 5 of the principal Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_23__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_23__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_23__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If, immediately before the commencement date, a company was a clearing house within the meaning of the repealed Act, that company shall, on commencement date, be deemed to have been approved as a clearing house under subsection 6B(l) of the principal Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsection (4), the Minister may, not less than one year after the commencement date, impose any term or condition as he thinks fit on a company that is deemed by subsection (1) to have been approved as a clearing house under subsection 6B(1) of the principal Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_23__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any condition imposed under subsection (2) shall be deemed to be a condition of approval for the purposes of section 7A of the principal Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_23__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The power conferred by subsection (2) may not be exercised after two years from the commencement date. Consolidation)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The directors of a clearing house referred to in section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "23 holding office immediately before the commencement date shall continue to hold office for a period of one year from the commencement date as if they were the directors duly elected or appointed under section 6c of the principal Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_25__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_25__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "If, before the commencement date—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_25__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_25__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_25__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a company that was—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_25__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_25__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an exchange company; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_25__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_25__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a clearing house, within the meaning of the repealed Act had submitted to the Commodities Trading Commission any amendment to its constitution, rules or regulations under section 20 of the repealed Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_25__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_25__para_b__subpara_aa",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_25__para_b__subpara_bb"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Commodities Trading Commission had not notified the company under subsection 20(3) of the repealed Act of its approval of or refusal to approve such amendments, the submission shall, on the commencement date, be deemed to have been made to the Securities Commission—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_25__para_b__subpara_aa",
+      "@type": "akn:subparagraph",
+      "eli:number": "aa",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_25__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of a company that was an exchange company within the meaning of the repealed Act, by an exchange company under section 6 of the principal Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_25__para_b__subpara_bb",
+      "@type": "akn:subparagraph",
+      "eli:number": "bb",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_25__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of a company that was a clearing house within the meaning of the repealed Act, by a clearing house under section 60 of the principal Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "A direction given under subsection 26(1) of the"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "repealed Act, or a notice given under subsection 26(2) of the repealed Act, that was in force immediately before the commencement date, shall be deemed to have been duly given under section 8 of the principal Act and that section shall apply in respect of the direction or the notice after the commencement date."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "A direction given under subsection 27(1) of the"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "repealed Act that was in force immediately before the commencement date shall be deemed to have been duly given under subsection 9(1) of the principal Act and that subsection 9(1) shall apply in respect of the direction."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Actions taken by the Commodities Trading"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Commission under section 28 of the repealed Act shall, if they were in force immediately before commencement date, be deemed to have been duly taken by the Securities Commission under section 10 of the principal Act and that section 10 shall apply in respect of those actions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Where the Commodities Trading Commission has"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "made to the Minister for the time being charged with the responsibility for primary industries a recommendation within the meaning of section 29 of the repealed Act and that Minister had not, before the commencement date, acted on the recommendation, the recommendation shall be deemed to have been duly made by the Securities Commission under section 11 of the principal Act to the Minister for the time being charged with the responsibility for finance and such Minister may act on such recommendation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_30__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_30__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_30__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_30__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_30__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_30__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_30__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_30__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If, immediately before the commencement date, a person was registered as a dealer under section 33 of the repealed Act, the person shall, on the commencement date, be deemed to have been granted—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_30__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_30__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of a corporation, a futures broker's licence; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_30__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_30__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of an individual, a futures broker's representative's licence, under subsection 22(1) of the principal Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_30__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If, immediately before the commencement date, a person was registered as a commodity trading adviser under section 34 of the repealed Act, the person shall, on the commencement date, be deemed to have been Consolidation) granted a futures trading adviser's licence under subsection 22(1) of the principal Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_30__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If, immediately before the commencement date, a person was registered as a dealer's representative under section 35 of the repealed Act, the person shall, on the commencement date, be deemed to have been granted a futures broker's representative's licence under subsection 22(1) of the principal Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_30__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If, immediately before the commencement date, a person was registered as a commodity trading adviser's representative under section 36 of the repealed Act, the person shall, on the commencement date, be deemed to have been granted a futures trading adviser's representative's licence under subsection 22(1) of the principal Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_30__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a registration under the repealed Act was made subject to conditions, the licence taken to have been granted by this section in respect of the registration shall be deemed to have been granted subject to the same conditions in so far as the conditions are not inconsistent with the provisions of the principal Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "An application duly made to the Commissioner for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "renewal of registration under subsection 41(1) of the repealed Act that had not been dealt with before the commencement date shall be deemed to have been made to the Securities Commission under section 25 of the principal Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "If, before the commencement date, an inquiry was"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "being held by the Commissioner under section 44 of the repealed Act but the inquiry had not been completed before the commencement date, the inquiry may be completed by the Securities Commission under section 28 of the principal Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_33__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_33__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_33__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_33__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_33__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If, immediately before the commencement date, the registration of a registered person who is deemed by section 30 to have been granted a licence was under suspension, the suspension shall continue after the commencement date—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_33__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_33__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of a suspension under section 43 of the repealed Act, until the person's rights to trade in futures contracts on the futures market of an exchange company, within the meaning of the principal Act, of which the person is an affiliate is restored by the exchange company; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_33__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_33__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of a suspension pursuant to section 44 of the repealed Act, for such time, or until the happening of such event, as had been determined by the Commissioner under paragraph 44(2)(b) of the repealed Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_33__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The fact that the registration of the registered person was, immediately before the commencement date, under suspension shall be deemed for the purposes of section 28 of the principal Act to be an allegation that the person is no longer a fit and proper person as mentioned in paragraph 28(1)(b) of that Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "All money or other property contained, immediately"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "before the commencement date, in a segregated account established and kept by a dealer under section 53 of the repealed Act shall, on the commencement date, be deemed to have been deposited under section 52A of the principal Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_35__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_35__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_35__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Sections 49 and 51 of the principal Act shall not apply to a person who, on the commencement date, is deemed by subsection 31(1) of this Act to have been granted a futures broker's licence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_35__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection (1) shall cease to have effect six months after the commencement date."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "A person who was appointed as an auditor by the"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Commissioner under section 59 or 60 of the repealed Act shall, if the appointment is still in force on the commencement date, be deemed to have been appointed as an auditor by the Securities Commission under section 40 of the principal Act. Consolidation)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_37__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_37__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_37__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_37__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An exchange company that, immediately before the commencement date, maintained a compensation fund under section 80 of the repealed Act shall, on the commencement date, maintain the fund as a fidelity fund under section 58 of the principal Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_37__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_37__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_37__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding Part VI of the principal Act, if a right to claim against the compensation fund arose before the commencement date and the claim had not been disposed of before that date, the company shall, after the commencement date—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_37__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_37__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "hear and determine the claim; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_37__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_37__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "apply its fidelity fund in respect of the claim, in accordance with the repealed Act as if the amendments made by this Act had not been passed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_37__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_37__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_37__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If a claim is made after the commencement date in respect of a right to claim against the compensation fund which arose before the commencement date, the Securities Commission—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_37__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_37__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall be substituted, for the purposes of subsection (2), for the Commodities Trading Commission in Part IX of the repealed Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_37__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_IV__cl_37__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall have all the powers which the Commodities Trading Commission, but for this Act, would have had under that Part in respect of the claim, including the power to hear appeals."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Futures Industry (Amendment and Consolidation) Act 1996."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/52/eng@/~chp_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall come into force on such date or dates as the Minister may, by notification in the Gazette, appoint, and the Minister may appoint different dates for the coming into force of different provisions of this Act."
+      }
+    }
+  ]
+}

@@ -445,7 +445,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for the definition of \"Certificate of fitness for occupation, temporary certificate of fitness occupation and partial certificate of fitness for occupation\" the following definition: ' \"certificate of completion and compliance\" means the certificate given or granted under any by-laws made under this Act;';"
+        "@value": "by substituting for the definition of \"Certificate of fitness for occupation, temporary certificate of fitness for occupation and partial certificate of fitness for occupation\" the following definition: ' \"certificate of completion and compliance\" means the certificate given or granted under any by-laws made under this Act;';"
       }
     },
     {
@@ -546,7 +546,6 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_g",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_h",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_i",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_ii",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_j",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_k"
       ],
@@ -664,6 +663,7 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_i",
       "@type": "akn:paragraph",
       "eli:number": "i",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_i__subpara_ii",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5",
       "schema:text": {
         "@language": "en",
@@ -671,21 +671,21 @@
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_ii",
-      "@type": "akn:paragraph",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_i__subpara_ii",
+      "@type": "akn:subparagraph",
       "eli:number": "ii",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_ii__subpara_i",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_i__subpara_ii__subpara_i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_i",
       "schema:text": {
         "@language": "en",
         "@value": "by substituting for the words \"two hundred and fifty\" the words \"one thousand\";"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_ii__subpara_i",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_i__subpara_ii__subpara_i",
       "@type": "akn:subparagraph",
       "eli:number": "i",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_i__subpara_ii",
       "schema:text": {
         "@language": "en",
         "@value": "in subsection (14), by inserting before the words \"in accordance with this Act\" the words \"by the principal submitting person or submitting person\";"
@@ -787,7 +787,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_9",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (9) — Substitution of section 123"
+        "@value": "in subsection (9) —"
       }
     },
     {
@@ -807,7 +807,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_9__para_c",
       "schema:text": {
         "@language": "en",
-        "@value": "by deleting the words \"by the local authority\"."
+        "@value": "by deleting the words \"by the local authority\". Substitution of section 123"
       }
     }
   ]

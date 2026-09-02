@@ -48,9 +48,11 @@ mengikut mana-mana yang berkenaan, sebagaimana yang diarahkan oleh Pesuruhjaya."
 
 <!-- page 2 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Subseksyen 34(2) Akta ibu adalah dipinda— seksyen 34.
+3. Subseksyen 34(2) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 34. -->
 
 (a) dengan memasukkan selepas perenggan (c) perenggan yang berikut:
 
@@ -60,13 +62,21 @@ Pindaan
 
 (c) dengan memasukkan selepas perkataan "yang hendaklah disenggarakan oleh mereka" dalam perenggan (i) perkataan "dan pemberian pengecualian oleh Pesuruhjaya kepada mana- mana pengusahaan pelancongan atau pemandu pelancong daripada apa-apa kehendak yang dikenakan oleh peraturan-peraturan yang dibuat di bawah perenggan ini".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Seksyen 25 Akta ibu adalah dipinda dengan seksyen 25. menggantikan perkataan "dua belas bulan" dengan perkataan "tidak melebihi tiga tahun".
+4. Seksyen 25 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 25. -->
 
-5. Subseksyen 40(1) Akta ibu adalah dipinda dengan seksyen 40. memotong perkataan "atau pegawai Lembaga Penggalakan Pelancongan Malaysia".
+menggantikan perkataan "dua belas bulan" dengan perkataan "tidak melebihi tiga tahun".
+
+<!-- marginal: Pindaan -->
+
+5. Subseksyen 40(1) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 40. -->
+
+memotong perkataan "atau pegawai Lembaga Penggalakan Pelancongan Malaysia".
 
 ## HURAIAN
 

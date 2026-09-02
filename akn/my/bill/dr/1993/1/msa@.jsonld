@@ -1,0 +1,238 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-1-1993",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_8"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Perlembagaan (Pindaan) 1993"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perlembagaan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(Pindaan) 1993."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Fasal (1) Perkara 32 Perlembagaan Persekutuan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perkara 32. adalah dipinda dengan memasukkan, selepas perkataan \"mahkamah\", perkataan \"tetapi hanya berkenaan dengan apa-apa jua yang dilakukan atau ditinggalkan daripada dilakukan olehnya dalam penjalanan atau yang berupa sebagai penjalanan fungsi-fungsinya di bawah mana- mana undang-undang bertulis\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perkara 38 Perlembagaan Persekutuan adalah di-"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perkara 38. pinda"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Fasal (2) (i) dengan menggantikan koma di hujung perenggan (c) dengan koma bernoktah; dan (ii) dengan memasukkan, selepas perenggan (c), perenggan-perenggan yang berikut: \"(d) melantik anggota-anggota Mah- kamah Khas di bawah Fasal (6) Perkara 181; RANG UNDANG-UNDANG (e) memberi ampun, reprief dan respit, atau meremitkan, menggantung atau meringankan hukuman- hukuman, di bawah Fasal (12) Perkara 42,\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_3__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_3__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_3__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Fasal (6)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_3__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_3__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"atau\" selepas koma bernoktah di hujung perenggan (c);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_3__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_3__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah di hujung perenggan (d) dengan koma bernoktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_3__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_3__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas perenggan (d), perenggan-perenggan yang berikut: \"(e) perlantikan anggota-anggota Mahkamah Khas di bawah Fasal (6) Perkara 181; atau (f) pemberian ampun, reprief dan respit, atau peremitan, peng- gantungan atau peringanan hukuman-hukuman, di bawah Fasal (12) Perkara 42.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perkara 42 Perlembagaan Persekutuan adalah"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perkara 42. dipinda dengan memasukkan, selepas Fasal (11), Fasal- Fasal yang berikut: \"(12) Walau apa pun apa-apa jua yang terkandung dalam Perlembagaan ini, jika kuasa- kuasa yang tersebut dalam Perkara ini (a) kena dijalankan oleh Yang di-Pertua Negeri sesuatu Negeri dan dikehendaki dijalankan berkenaan dengan dirinya atau isterinya, anak lelakinya atau anak perempuannya, kuasa-kuasa itu hendaklah dijalankan oleh Yang di-Pertuan Agong yang bertindak atas nasihat Lembaga Pengampunan yang ditubuhkan bagi Negeri itu di bawah Perkara ini dan yang hendaklah dipengerusikan olehnya; PERLEMBAGAAN (PINDAAN) (b) dikehendaki dijalankan berkenaan dengan Yang di-Pertuan Agong, Raja sesuatu Negeri, atau Konsortnya, mengikut mana- mana yang berkenaan, kuasa-kuasa itu hendaklah dijalankan oleh Majlis Raja-Raja dan peruntukan-peruntukan yang berikut hendaklah terpakai: (i) apabila menghadiri mana-mana presiding di bawah Fasal ini, Yang di-Pertuan Agong tidak boleh disertai oleh Perdana Menteri dan Raja-Raja lain tidak boleh disertai oleh Menteri- Menteri Besar mereka; (ii) sebelum membuat keputusannya ten- tang apa-apa perkara di bawah Fasal ini, Majlis Raja-Raja hendaklah me- nimbangkan apa-apa pendapat bertulis yang mungkin telah diberikan oleh Peguam Negara tentang perkara itu; (c) dikehendaki dijalankan oleh Yang di-Pertuan Agong atau Raja sesuatu Negeri berkenaan dengan anak lelakinya atau anak perempuannya, mengikut mana-mana yang berkenaan, kuasa-kuasa itu hendaklah dijalankan oleh Raja sesuatu Negeri yang dinamakan oleh Majlis Raja-Raja dan Raja itu hendaklah bertindak mengikut nasihat Lembaga Pengampunan yang relevan yang ditubuhkan di bawah Perkara ini. (13) Bagi maksud perenggan (b) dan (c) Fasal (12), Yang di-Pertuan Agong atau Raja Negeri yang berkenaan, mengikut mana-mana yang berkenaan, dan Yang di-Pertua-Yang di-Pertua Negeri tidak boleh menjadi anggota Majlis Raja-Raja.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perkara 63 Perlembagaan Persekutuan adalah"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perkara 63. dipinda dengan memasukkan, selepas Fasal (4), Fasal yang berikut: \"(5) Walau apa pun Fasal (4), tiada seorang pun boleh dikenakan apa-apa presiding dalam mana- mana mahkamah berkenaan dengan apa-apa jua RANG UNDANG-UNDANG yang dikatakan olehnya tentang Yang di-Pertuan Agong atau seseorang Raja semasa mengambil bahagian dalam apa-apa presiding mana-mana satu Majlis Parlimen atau mana-mana jawatankuasanya kecuali jika dia menganjurkan penghapusan kedudukan berperlembagaan Yang di-Pertuan Agong sebagai Kepala Utama Negara bagi Persekutuan atau kedudukan berperlembagaan Raja sesuatu Negeri, mengikut mana-mana yang berkenaan.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perkara 72 Perlembagaan Persekutuan adalah"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perkara 72. dipinda dengan memasukkan, selepas Fasal (4), Fasal yang berikut: \"(5) Walau apa pun Fasal (4), tiada seorang pun boleh dikenakan apa-apa prosiding dalam mana- mana mahkamah berkenaan dengan apa-apa jua yang dikatakan olehnya tentang Raja mana-mana Negeri semasa mengambil bahagian dalam apa-apa prosiding Dewan Undangan mana-mana Negeri atau mana-mana jawatankuasanya kecuali jika dia menganjurkan penghapusan kedudukan Raja itu sebagai Raja berperlembagaan Negeri itu.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perkara 181 Perlembagaan Persekutuan adalah"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perkara 181. dipinda"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Fasal (2), dengan menggantikan perkataan \"atas sifat peribadinya\" dengan perkataan \"tetapi hanya berkenaan dengan apa- apa jua yang dilakukan atau ditinggalkan daripada dilakukan olehnya dalam penjalanan atau yang berupa sebagai penjalanan fungsi- fungsinya di bawah mana-mana undang-undang bertulis\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas Fasal (2), Fasal- Fasal yang berikut: \"(3) Mana-mana undang-undang yang membuat peruntukan bagi kekebalan Raja sesuatu Negeri atas sifat peribadinya terhadap apa-apa prosiding undang-undang jua pun dalam mana-mana mahkamah, atau memberikan perlindungan tak boleh cabul kepada kediamannya, adalah, setakat itu, tak sah. (4) Walau apa pun Fasal (1) Perkara 32 dan Fasal (2) Perkara 181, tiada mahkamah mempunyai bidang kuasa untuk melayani atau memutuskan apa-apa tindakan, sivil atau jenayah, terhadap Yang di-Pertuan Agong atau Raja sesuatu Negeri berkenaan dengan apa-apa jua yang dilakukan atau ditinggalkan daripada dilakukan olehnya atas sifat peribadinya. (5) Apa-apa proesiding terhadap Yang di-Pertuan Agong atau Raja sesuatu Negeri atas sifat peribadinya hendaklah dibawa dalam Mahkamah Khas yang ditubuhkan di bawah Fasal (6). (6) Maka hendaklah ada suatu mahkamah yang hendaklah dikenali sebagai Mahkamah Khas dan hendaklah terdiri daripada Ketua Hakim Negara Mahkamah Agung, yang hendaklah menjadi Pengerusi, Hakim-Hakim Besar Mahkamah Tinggi, dan dua orang lain yang memegang atau pernah memegang jawatan sebagai hakim Mahkamah Agung atau Mahkamah Tinggi yang dilantik oleh Majlis Raja-Raja. (7) Mahkamah Khas hendaklah mem- punyai bidang kuasa dan kuasa-kuasa yang sama seperti yang terletakhak pada mahkamah-mahkamah bawahan, Mahkamah Tinggi dan Mahkamah Agung melalui Perlembagaan ini atau mana-mana undang- undang persekutuan dan hendaklah mempunyai pejabat pendaftarannya di Kuala Lumpur. (8) Mahkamah Khas hendaklah mem- punyai bidang kuasa eksklusif untuk membicarakan segala kesalahan yang dilakukan di Persekutuan oleh Yang RANG UNDANG-UNDANG di-Pertuan Agong atau Raja sesuatu Negeri dan segala kes sivil oleh atau terhadap Yang di-Pertuan Agong atau Raja sesuatu Negeri walau di mana pun kausa tindakan ber- bangkit. (9) Sehingga Parlimen, melalui undang- undang, membuat peruntukan khas yang berlawanan berkenaan dengan prosedur (termasuk pendengaran prosiding secara tertutup) dalam kes-kes sivil atau jenayah dan undang-undang yang mengawalselia keterangan dan pembuktian dalam prosiding sivil dan jenayah, maka amalan dan prosedur yang terpakai dalam mana-mana prosiding dalam mana-mana mahkamah bawahan, mana-mana Mahkamah Tinggi dan Mahkamah Agung hendaklah terpakai dalam mana-mana prosiding dalam Mahkamah Khas. (10) Prosiding dalam Mahkamah Khas hendaklah diputuskan mengikut pendapat majoriti anggota dan keputusannya adalah muktamad dan konklusif dan tidak boleh dicabar atau dipertikaikan dalam mana-mana mahkamah atas apa-apa alasan. (11) Yang di-Pertuan Agong boleh, atas nasihat Ketua Hakim Negara, membuat apa- apa kaedah yang difikirkannya perlu atau suaimanfaat untuk membuat peruntukan bagi penghapusan apa-apa kesulitan atau anomali jua pun dalam mana-mana undang-undang bertulis atau dalam pelaksanaan apa-apa fungsi, penjalanan apa-apa kuasa, penunaian apa-apa kewajipan, atau pembuatan apa-apa perbuatan, di bawah mana-mana undang- undang bertulis, yang mungkin disebabkan oleh Perkara ini, dan bagi maksud itu kaedah-kaedah itu boleh membuat apa-apa pengubahsuaian, adaptasi, pengubahan, pertukaran atau pindaan jua pun kepada mana-mana undang-undang bertulis\". PERLEMBAGAAN (PINDAAN)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Bagi mengelakkan apa-apa keraguan, adalah dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ini diisytiharkan bahawa tiada apa-apa presiding jua pun boleh dibawa dalam mana-mana mahkamah terhadap Yang di-Pertuan Agong atau Raja sesuatu Negeri atas sifat peribadinya berkenaan dengan apa-apa jua yang dilakukan atau ditinggalkan daripada dilakukan olehnya sebelum mula berkuatkuasanya Akta ini."
+      }
+    }
+  ]
+}

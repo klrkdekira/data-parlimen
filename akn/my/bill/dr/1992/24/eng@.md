@@ -18,7 +18,9 @@ II
 
 ## REGISTRATION
 
-4. Societies which may be registercd. 5. Conditions for registration 6. Application tbr registration. 7. Registration. 8. Special provision for certain societies. 9. Societies lo be bodies, corporate. 10. Evidence ot registration.
+4. Societies which may be registercd. 5. Conditions for registration 6. Application tbr registration. 7. Registration. 8. Special provision for certain societies. 9. Societies lo be bodies, corporate.
+
+10. Evidence ot registration.
 
 ## PART
 
@@ -26,7 +28,35 @@ I II
 
 ## DUTIES A ND PRIVILEGES OF REGISTERED SOCIETIES
 
-1 1. Address of registered society. 12. Registered name to be displayed. 13. Documents opcn to inspection. 14. Documents to be lodged with the Registrar-General 15. Register of members. 16. Proof of entries in books of society. 17. By-laws lo bind members. 18. Amendment of the by-laws of a registered society 19. Formation of subsidiaries. 20. Disposal of produce to or through a registered society. 21. Creation of charges m favour of registered societies. 22. Lien and set-otT in respect of share or mterest of members. 23. Share, subscription or interest nol liable to attachment or sale. 24. Power to deal w i th the property and mterest of dcccased members. 25. Deposits by or on behalf of minors.
+1 1. Address of registered society.
+
+12. Registered name to be displayed.
+
+13. Documents opcn to inspection.
+
+14. Documents to be lodged with the Registrar-General
+
+15. Register of members.
+
+16. Proof of entries in books of society.
+
+17. By-laws lo bind members.
+
+18. Amendment of the by-laws of a registered society
+
+19. Formation of subsidiaries.
+
+20. Disposal of produce to or through a registered society.
+
+21. Creation of charges m favour of registered societies.
+
+22. Lien and set-otT in respect of share or mterest of members.
+
+23. Share, subscription or interest nol liable to attachment or sale.
+
+24. Power to deal w i th the property and mterest of dcccased members.
+
+25. Deposits by or on behalf of minors.
 
 <!-- page 2 -->
 
@@ -106,7 +136,17 @@ PROPERTY AND FUNDS Of REGISTERED SOCIETIES
 
 ## CO-OPERATIVE SOCIETIES
 
-Clauses 53. Restriction on other transactions with non-members. 54. Investment of funds. 55. Capital gains. 56. Net profits. 57. Distribution of audited net profits.
+Clauses
+
+53. Restriction on other transactions with non-members.
+
+54. Investment of funds.
+
+55. Capital gains.
+
+56. Net profits.
+
+57. Distribution of audited net profits.
 
 ## PART VII
 
@@ -114,21 +154,47 @@ Clauses 53. Restriction on other transactions with non-members. 54. Investment o
 
 DIT
 
-58. Maintenance of accounts 59 Financial statement and report of the Board. 60. Audit. 61. Approval ol auditor of registered societies. 62. Circumstances disqualifying a person from being approved or acting as auditor of a registered society. 63. Dulies of auditor.
+58. Maintenance of accounts 59 Financial statement and report of the Board.
+
+60. Audit.
+
+61. Approval ol auditor of registered societies.
+
+62. Circumstances disqualifying a person from being approved or acting as auditor of a registered society.
+
+63. Dulies of auditor.
 
 ## PART VIII
 
-64 Power of Registrar-General to inspect books. etc., of registered societies. 65. Power to seize and detain hooks and documents. 66. Inquiry. 67. Registrar- general may communicate in registered society result of inspection or inquiry. 68. Inspection on the application of creditors. 69. Power of Registrar-General consequent upon inquiry. 70. Officer removed by the order of Registrar-General shall not hc reappointed. 7 1. Dissolution 72 Revocation of registration of a society due
+64 Power of Registrar-General to inspect books. etc., of registered societies.
 
-<!-- marginal: to -->
+65. Power to seize and detain hooks and documents.
+
+66. Inquiry.
+
+67. Registrar- general may communicate in registered society result of inspection or inquiry.
+
+68. Inspection on the application of creditors.
+
+69. Power of Registrar-General consequent upon inquiry.
+
+70. Officer removed by the order of Registrar-General shall not hc reappointed. 7 1. Dissolution 72 Revocation of registration of a society due to
 
 <!-- marginal: l a ek of -->
 
-memhership 73 Effect of renocation of registration. 74. Liquidaton after revocation of registration of
+memhership 73 Effect of renocation of registration.
 
-<!-- marginal: society. -->
+74. Liquidaton after revocation of registration of society.
 
-75. Liquidator's powers. 76. Power of Registrar-Gcneral to control liquidation. 77. Entorcement of order. 7S. Limilation of the junsdiction of the civil court. 79. Priority of payments by liquidator. X0. Power of Registrar-General to sureharge officers. ete of a registered society.
+75. Liquidator's powers.
+
+76. Power of Registrar-Gcneral to control liquidation.
+
+77. Entorcement of order.
+
+7S. Limilation of the junsdiction of the civil court.
+
+79. Priority of payments by liquidator. X0. Power of Registrar-General to sureharge officers. ete of a registered society.
 
 <!-- page 4 -->
 
@@ -292,15 +358,27 @@ Undesirable Persons Act 1969 as specified in the First and Second Schedules to t
 
 "subscription" means the sum contributed at regular intervals by a member in respect of his membership in a registered society and withdrawable on termination of membership;
 
-"subsidiary" of a registered society means a company, Act 125, as defined in the Companies Act 1965, in which such registered society controls the composition of the Board of Directors or more than half of the voting power, or holds more than half of the issued share capital, and includes a subsidiary, as defined in that Act, of such a company;
+"subsidiary" of a registered society means a company,
+
+<!-- marginal: Act 125, -->
+
+as defined in the Companies Act 1965, in which such registered society controls the composition of the Board of Directors or more than half of the voting power, or holds more than half of the issued share capital, and includes a subsidiary, as defined in that Act, of such a company;
 
 "surplus funds" means the funds in excess of the amounts required for immediate use by a registered society as working capital for its business, which may be deposited or invested away from the society without affecting the operation of such business;
 
 "tertiary society" means a society registered under subsection 4(3).
 
-Registrar-
+<!-- marginal: Registrar- -->
 
-3. (1) The Yang di-Pertuan Agong may appoint a General and person to be the Registrar-General of Co-operative Registrars. Societies for Malaysia.
+3. (1) The Yang di-Pertuan Agong may appoint a
+
+<!-- marginal: General and -->
+
+person to be the Registrar-General of Co-operative
+
+<!-- marginal: Registrars. -->
+
+Societies for Malaysia.
 
 (2) The Registrar-General may appoint such number of public officers as may be necessary to be Registrars to assist him and the Registrars shall, subject to the control of the Registrar-General, have all the powers and functions of the Registrar-General except those specified in sections 65, 69, 71, 72, 80, 92 and 93.
 
@@ -340,9 +418,19 @@ Registrar-
 
 ## REGISTRATION
 
-Societies
+<!-- marginal: Societies -->
 
-4. (I) A society which consists of individual persons which only and which has as its object the promotion of the may be registered. economic interest of its members in accordance with co- operative principles may be registered under this Act as a primary society.
+4. (I) A society which consists of individual persons
+
+<!-- marginal: which -->
+
+only and which has as its object the promotion of the
+
+<!-- marginal: may be -->
+
+<!-- marginal: registered. -->
+
+economic interest of its members in accordance with co- operative principles may be registered under this Act as a primary society.
 
 (2) A society which consists of primary societies only and which has as its object the facilitation of the operations of such societies may be registered under this Act as a secondary society.
 
@@ -378,9 +466,7 @@ registered as a primary society unless—
 
 <!-- marginal: for -->
 
-submitted to the Registrar-General
-
-<!-- marginal: in -->
+submitted to the Registrar-General in
 
 <!-- marginal: the form -->
 
@@ -412,9 +498,19 @@ prescribed in the regulations and shall be signed—
 
 (5) The word "Berhad" shall be the last word in the name of every society registered under this Act.
 
-Special
+<!-- marginal: Special -->
 
-8. ( 1) Notwithstanding subsection 5( 1), if a society is provision unable to fulfill the condition specified in paragraph for certain societies. 5 ( \ ) ( a) but is otherwise entitled to registration under section 7, the Registrar-General may, after taking into account the number of persons in such society's proposed area of operation who are qualified for membership and the nature of the society's proposed activities, and if such society consists of at least twenty persons, register such society as a primary society under this Act.
+8. ( 1) Notwithstanding subsection 5( 1), if a society is
+
+<!-- marginal: provision -->
+
+unable to fulfill the condition specified in paragraph
+
+<!-- marginal: for certain -->
+
+<!-- marginal: societies. -->
+
+5 ( \ ) ( a) but is otherwise entitled to registration under section 7, the Registrar-General may, after taking into account the number of persons in such society's proposed area of operation who are qualified for membership and the nature of the society's proposed activities, and if such society consists of at least twenty persons, register such society as a primary society under this Act.
 
 (2) Notwithstanding paragraph 6 ( 2 ) ( b ),
 
@@ -422,17 +518,27 @@ Special
 
 application for registration of such a society as is referred to in subsection ( 1) shall be accompanied by minutes of the inaugural general meeting signed by all persons present.
 
-Societies to
+<!-- marginal: Societies to -->
 
-9. The registration of a society shall render it a body the bodies corporate by the name under which it is registered, with corporate perpetual succession and a common seal, and with power to hold movable and immovable property of every description, to enter into contracts, to institute and defend suits and other legal proceedings and to do all things necessary for the purposes for which it is constituted.
+9. The registration of a society shall render it a body
 
-Evidence of
+<!-- marginal: the bodies -->
+
+corporate by the name under which it is registered, with
+
+<!-- marginal: corporate -->
+
+perpetual succession and a common seal, and with power to hold movable and immovable property of every description, to enter into contracts, to institute and defend suits and other legal proceedings and to do all things necessary for the purposes for which it is constituted.
+
+<!-- marginal: Evidence of -->
 
 10. A certificate of registration signed by
 
 <!-- marginal: the -->
 
-registration Registrar-General shall be conclusive evidence that the society therein mentioned is duly registered, unless it is proved that the registration of the society has been revoked.
+<!-- marginal: registration -->
+
+Registrar-General shall be conclusive evidence that the society therein mentioned is duly registered, unless it is proved that the registration of the society has been revoked.
 
 <!-- page 13 -->
 
@@ -522,19 +628,51 @@ registered society shall be prima facie evidence of the name, address, identity 
 
 ## BILL
 
-Proof of
+<!-- marginal: Proof of -->
 
-16. (1) A copy of any entry in a book of a registered entries in society regularly kept in the course of business shall, if books of certified in such manner as may be prescribed by the society. regulations, be received in any legal proceedings, whether civil or criminal, and shall be admitted as evidence of the matters, transactions and accounts therein recorded in every case where, and to the same extent as, the original entry itself is admissible.
+16. (1) A copy of any entry in a book of a registered
+
+<!-- marginal: entries in -->
+
+society regularly kept in the course of business shall, if
+
+<!-- marginal: books of -->
+
+certified in such manner as may be prescribed by the
+
+<!-- marginal: society. -->
+
+regulations, be received in any legal proceedings, whether civil or criminal, and shall be admitted as evidence of the matters, transactions and accounts therein recorded in every case where, and to the same extent as, the original entry itself is admissible.
 
 (2) No officer of any registered society shall, in any legal proceedings to which the registered society is not a party, be compelled to produce any of the registered society's books, the contents of which can be proved under subsection (1), or to appear as a witness to prove any matters, transactions or accounts therein recorded, unless the court for special reasons so directs.
 
-By-laws
+<!-- marginal: By-laws -->
 
-17. The by-laws of a registered society shall, when to bind registered, bind the registered society and its members members. to the same extent as if they were signed by each member and contained covenants on the part of each member for himself and for his successor to observe all the provisions of the by-laws.
+17. The by-laws of a registered society shall, when
 
-Amendment
+<!-- marginal: to bind -->
 
-18. (1) Any registered society may, subject to this Act of the by- and the regulations, amend its by-laws, including the laws of a registered by-law which declares the name of the society. society.
+registered, bind the registered society and its members
+
+<!-- marginal: members. -->
+
+to the same extent as if they were signed by each member and contained covenants on the part of each member for himself and for his successor to observe all the provisions of the by-laws.
+
+<!-- marginal: Amendment -->
+
+18. (1) Any registered society may, subject to this Act
+
+<!-- marginal: of the by- -->
+
+and the regulations, amend its by-laws, including the
+
+<!-- marginal: laws of a -->
+
+<!-- marginal: registered -->
+
+by-law which declares the name of the society.
+
+<!-- marginal: society. -->
 
 (2) No amendment of the by-laws of a registered society shall be valid until that amendment has been registered under this Act, for which purpose copies of the amendment shall be forwarded to the Registrar- General.
 
@@ -546,11 +684,7 @@ Amendment
 
 (5) An amendment which changes the name of a registered society shall not affect any right or obligation of the society or of any of its members or past members, and any legal proceedings pending may be continued by or against the society under its new name.
 
-(6) When the Registrar-General
-
-<!-- marginal: registers an -->
-
-amendment of the by-laws of a registered society, he shall issue to the society a copy of the amendment certified by him, which shall be conclusive evidence of the fact that the amendment has been duly registered.
+(6) When the Registrar-General registers an amendment of the by-laws of a registered society, he shall issue to the society a copy of the amendment certified by him, which shall be conclusive evidence of the fact that the amendment has been duly registered.
 
 (7) In this section, "amendment" includes the making of a new by-law and the variation or rescission of a by-law.
 
@@ -588,9 +722,23 @@ produce of agriculture, animal husbandry, forestry, fisheries, handicrafts or ot
 
 <!-- page 16 -->
 
-Creation of
+<!-- marginal: Creation of -->
 
-21. (1) Subject to any prior claim of the Federal charges in Government or any State Government on the property favour of registered of the debtor and to the lien or claim of a landlord in societies. respect of rent or any money recoverable as rent and, in the case of immovable property, to any prior registered charge thereon—
+21. (1) Subject to any prior claim of the Federal
+
+<!-- marginal: charges in -->
+
+Government or any State Government on the property
+
+<!-- marginal: favour of -->
+
+<!-- marginal: registered -->
+
+of the debtor and to the lien or claim of a landlord in
+
+<!-- marginal: societies. -->
+
+respect of rent or any money recoverable as rent and, in the case of immovable property, to any prior registered charge thereon—
 
 (a) any debt or outstanding demand payable to a registered society by any member or past member shall be a first charge on all crops or other agricultural produce, fish (fresh water and salt water), felled timber or other forest produce, marine produce, livestock, fodder, agricultural, industrial and fishing implements, plant, machinery, boats, tackle and nets, raw materials, stock-in-trade and generally all produce of labour and things used
 
@@ -602,9 +750,23 @@ connection with production raised, purchased or produced in whole or in part fro
 
 (2) Nothing in paragraph ( 1 )( a) shall affect the claim of any bona fide purchaser or transferee without notice.
 
-Lien and set-
+<!-- marginal: Lien and set- -->
 
-22. A registered society shall have a lien upon the share off in respect or subscription or interest in the capital and deposits of of share or interest of a member or past member or deceased member and upon members. any dividend, patronage rebate, or profits payable to a member or past member or to the estate of a deceased member in respect of any debt due to the society from such member or past member or estate, and may set-off any sum credited or payable to a member or past member or estate of a deceased member in or towards payment of any such debt.
+22. A registered society shall have a lien upon the share
+
+<!-- marginal: off in respect -->
+
+or subscription or interest in the capital and deposits of
+
+<!-- marginal: of share or -->
+
+<!-- marginal: interest of -->
+
+a member or past member or deceased member and upon
+
+<!-- marginal: members. -->
+
+any dividend, patronage rebate, or profits payable to a member or past member or to the estate of a deceased member in respect of any debt due to the society from such member or past member or estate, and may set-off any sum credited or payable to a member or past member or estate of a deceased member in or towards payment of any such debt.
 
 <!-- page 17 -->
 
@@ -660,11 +822,7 @@ accordance with thc regulations in this bchalf or, if there is no person so nomi
 
 or may pay to such legal representativc, nominee, heir or person, as the case may be, a sum representing the value of the deccased member's sharc or interest, as ascertained in accordance with the regulations or its by- laws.
 
-(2) If the deceased member was not a Muslim, and the nominee, heir or legal representative is not qualified for membership in accordance with
-
-<!-- marginal: t h is Act, the -->
-
-regulations or the by-Iaws, the registered society may, on the application of such nominee, heir or legal representative, as the case may be, within six months of the death of such member, transfer the share or interest of such member to any person specified in the application who is so qualified.
+(2) If the deceased member was not a Muslim, and the nominee, heir or legal representative is not qualified for membership in accordance with t h is Act, the regulations or the by-Iaws, the registered society may, on the application of such nominee, heir or legal representative, as the case may be, within six months of the death of such member, transfer the share or interest of such member to any person specified in the application who is so qualified.
 
 <!-- page 18 -->
 
@@ -674,9 +832,17 @@ regulations or the by-Iaws, the registered society may, on the application of su
 
 (4) A registered society may pay all other moneys due to a deceased member from the registered society to the legal representative, Official Administrator, nominee, heir or person, as the case may be, referred to in subsections (1) and (3).
 
-Deposits by
+<!-- marginal: Deposits by -->
 
-25. (1) A registered society may receive deposits from or on behalf or for the benefit of minors and the society may pay a of minors. bonus out of its n'et profit on such deposits.
+25. (1) A registered society may receive deposits from
+
+<!-- marginal: or on behalf -->
+
+or for the benefit of minors and the society may pay a
+
+<!-- marginal: of minors. -->
+
+bonus out of its n'et profit on such deposits.
 
 (2) Any deposit made by or for the benefit of the minor may, together with the bonus, be paid to the minor or to the guardian of that minor for the use of that minor.
 
@@ -686,9 +852,15 @@ Deposits by
 
 ## RIGHTS AND LIABILITIES OF MEMBERS
 
-Qualification
+<!-- marginal: Qualification -->
 
-26. In order to qualify for membership in a primary for member- society, a person must— ship.
+26. In order to qualify for membership in a primary
+
+<!-- marginal: for member- -->
+
+society, a person must—
+
+<!-- marginal: ship. -->
 
 (a) be a citizen of Malaysia;
 
@@ -758,25 +930,83 @@ registered society shall have more than one vote in the conduct of the affairs o
 
 <!-- page 20 -->
 
-Representation
+<!-- marginal: Representation -->
 
-31. A member of a secondary or a tertiary society rnay by proxy. appoint any one of its delegates, who must be a member of its Board, as its proxy for the purpose of voting in the conduct of the affairs of such secondary or tertiary society.
+31. A member of a secondary or a tertiary society rnay
 
-Contracts
+<!-- marginal: by proxy. -->
 
-32. The minority of any person duly admitted as a with society member of any registered society shall not debar that of members who are person from executing any instrument or giving any minors. acquittance necessary to be executed or given under this Act or the regulations and shall not be a ground for invalidating or avoiding any contract entered into by any such person with the society; and any such contract entered into by any such person with the society, whether as principal or as surety, shall be enforceable at law or against such person notwitnstanding his minority.
+appoint any one of its delegates, who must be a member of its Board, as its proxy for the purpose of voting in the conduct of the affairs of such secondary or tertiary society.
 
-Restriction
+<!-- marginal: Contracts -->
 
-33. No member, other than a registered society, shall on share- hold more than one-fifth of the share capital of any holding. registered society.
+32. The minority of any person duly admitted as a
 
-Restrictions
+<!-- marginal: with society -->
 
-34. The transfer or charge of the share or subscription on transfer or interest of a member or past member or deceased or charge of share or member in the capital of a registered society shall be subscription subject to such conditions as to maximum holding as or interest. may be prescribed by or under this Act.
+member of any registered society shall not debar that
 
-Liability of
+<!-- marginal: of members -->
 
-35. (1) The liability of a past member of a registered past member society for the debts of the registered society as they and eslate for debts of existed on the date on which he ceased to be a member society. shall not continue for a period of more than two years reckoned from that date.
+<!-- marginal: who are -->
+
+person from executing any instrument or giving any
+
+<!-- marginal: minors. -->
+
+acquittance necessary to be executed or given under this Act or the regulations and shall not be a ground for invalidating or avoiding any contract entered into by any such person with the society; and any such contract entered into by any such person with the society, whether as principal or as surety, shall be enforceable at law or against such person notwitnstanding his minority.
+
+<!-- marginal: Restriction -->
+
+33. No member, other than a registered society, shall
+
+<!-- marginal: on share- -->
+
+hold more than one-fifth of the share capital of any
+
+<!-- marginal: holding. -->
+
+registered society.
+
+<!-- marginal: Restrictions -->
+
+34. The transfer or charge of the share or subscription
+
+<!-- marginal: on transfer -->
+
+or interest of a member or past member or deceased
+
+<!-- marginal: or charge of -->
+
+<!-- marginal: share or -->
+
+member in the capital of a registered society shall be
+
+<!-- marginal: subscription -->
+
+subject to such conditions as to maximum holding as
+
+<!-- marginal: or interest. -->
+
+may be prescribed by or under this Act.
+
+<!-- marginal: Liability of -->
+
+35. (1) The liability of a past member of a registered
+
+<!-- marginal: past member -->
+
+society for the debts of the registered society as they
+
+<!-- marginal: and eslate for -->
+
+<!-- marginal: debts of -->
+
+existed on the date on which he ceased to be a member
+
+<!-- marginal: society. -->
+
+shall not continue for a period of more than two years reckoned from that date.
 
 (2) The estate of a deceased member of a registered society shall not be liable for the debts of the registered society as they existed on the date of his decease for a period of more than two years reckoned from the date of his decease.
 
@@ -862,13 +1092,27 @@ hundred of the members or delegates of the society, whichever is less, convene a
 
 (2) The Registrar-General or any person authorised by the Registrar-General may summon at any time a special general meeting of a registered society in such manner and at such time and place as he may direct, and may specify what matters shall be discussed by the meeting; and such meeting shall have all the powers and be subject to the same rules as a general meeting called in accordance with this Act or the by-laws of the registered society.
 
-Notice of
+<!-- marginal: Notice of -->
 
-41. Every registered society shall give to the Registrar- meetings to General reasonable written notice of all general Registrar- General. meetings which it is to hold and shall furnish to the Registrar-General information relating to the date, time, place and the agenda of such meetings; and the Registrar-General or any person authorised by general or special order in writing by the Registrar-General shall have the right to attend any such meeting and to give advice on any matter under discussion, but the Registrar-General or such authorised person shall have no right to vote at such meeting,
+41. Every registered society shall give to the Registrar-
 
-Officers of
+<!-- marginal: meetings to -->
 
-42. Every registered society shall have— a registered society.
+General reasonable written notice of all general
+
+<!-- marginal: Registrar- -->
+
+<!-- marginal: General. -->
+
+meetings which it is to hold and shall furnish to the Registrar-General information relating to the date, time, place and the agenda of such meetings; and the Registrar-General or any person authorised by general or special order in writing by the Registrar-General shall have the right to attend any such meeting and to give advice on any matter under discussion, but the Registrar-General or such authorised person shall have no right to vote at such meeting,
+
+<!-- marginal: Officers of -->
+
+42. Every registered society shall have—
+
+<!-- marginal: a registered -->
+
+<!-- marginal: society. -->
 
 (a) a Board, which shall consist of not less than six and not more than fifteen members; and
 
@@ -876,9 +1120,23 @@ Officers of
 
 duly appointed at the annual general meeting.
 
-Eligibility for
+<!-- marginal: Eligibility for -->
 
-43. (1) No person shall be eligible to be appointed to appomtment the Board or the Internal Audit Committee of a to the Board or Internal registered society if— Audit Commmee.
+43. (1) No person shall be eligible to be appointed to
+
+<!-- marginal: appomtment -->
+
+the Board or the Internal Audit Committee of a
+
+<!-- marginal: to the Board -->
+
+<!-- marginal: or Internal -->
+
+registered society if—
+
+<!-- marginal: Audit -->
+
+<!-- marginal: Commmee. -->
 
 (a) he has been convicted of an offence under this Act; or
 
@@ -924,17 +1182,51 @@ done or statement made bona fide in pursuance or execution or intended execution
 
 (3) If the Board of a registered society has appointed a person as a manager to administer and manage the affairs of such registered society, such appointment shall not absolye the members of the Board from their liability and responsibility for the proper direction and conduct of the affairs of such registered society.
 
-Remuneration
+<!-- marginal: Remuneration -->
 
-46. (1) A member of the Board or the Internal Audit to the Committee of a registered society may rcceive an members of the Board allowance from that registcred society, but the amount and Internal of allowance shall not exceed a sum which shall be fixed Audit Committee. by the general meeting of that registered society before or at the commencement of his term of office.
+46. (1) A member of the Board or the Internal Audit
+
+<!-- marginal: to the -->
+
+Committee of a registered society may rcceive an
+
+<!-- marginal: members of -->
+
+<!-- marginal: the Board -->
+
+allowance from that registcred society, but the amount
+
+<!-- marginal: and Internal -->
+
+of allowance shall not exceed a sum which shall be fixed
+
+<!-- marginal: Audit -->
+
+<!-- marginal: Committee. -->
+
+by the general meeting of that registered society before or at the commencement of his term of office.
 
 (2) No member of the Board of a registered society appointed to represent such registered society on the board of directors of any of its subsidiaries shall receive or accept any remuneration from such subsidiary without the prior approval of the general meeting of such registered society.
 
-(3) In this section, "allowance" means the remuneration paid to a member of the Board of a registered society or a member of the Intcrnal Audit Committee of a registered society in consideration of his services rendered to the society on a regular basis.
+(3) In this section, "allowance" means
 
-Suspension
+<!-- marginal: the -->
 
-47. (1) If any proceedings are instituted against an of officer officer of a registered society in respect of a registrable of registered offence or an offence under this Act, then— society.
+remuneration paid to a member of the Board of a registered society or a member of the Intcrnal Audit Committee of a registered society in consideration of his services rendered to the society on a regular basis.
+
+<!-- marginal: Suspension -->
+
+47. (1) If any proceedings are instituted against an
+
+<!-- marginal: of officer -->
+
+officer of a registered society in respect of a registrable
+
+<!-- marginal: of registered -->
+
+offence or an offence under this Act, then—
+
+<!-- marginal: society. -->
 
 (a) the Board of that registered society shall suspend such officer from being an officer of that registered society; and
 
@@ -996,9 +1288,15 @@ and its subsidiary or subsidiaries, if any, for the purpose of determining wheth
 
 ## PROPERTY AND FUNDS OF REGISTERED SOCIETIES
 
-Funds of a
+<!-- marginal: Funds of a -->
 
-50. The funds of a registered society may be raised by registered any or all of the following: society.
+50. The funds of a registered society may be raised by
+
+<!-- marginal: registered -->
+
+any or all of the following:
+
+<!-- marginal: society. -->
 
 (a) entrance fees, which shall not be refundable except in cases where an application for membership has been rejected;
 
@@ -1054,21 +1352,47 @@ and such loan or other credit facility shall be subject to—
 
 (3) The Minister may, by general or special order, prohibit or restrict the lending of money on a charge or mortgage of immovable property by any registered society or class of registered societies.
 
-Restriction
+<!-- marginal: Restriction -->
 
-52. (1) A registered society may, subject to the on borrowing. approval of its general meeting or special general meeting, borrow funds from its members and non- members to be used for a specific purpose in its business.
+52. (1) A registered society may, subject to the
+
+<!-- marginal: on borrowing. -->
+
+approval of its general meeting or special general meeting, borrow funds from its members and non- members to be used for a specific purpose in its business.
 
 (2) A registered society shall determine annually, at a general meeting, the maximum limit of indebtedness in respect of existing and new borrowings and deposits which may be incurred in the coming year.
 
-Restriction
+<!-- marginal: Restriction -->
 
-53. Subject to sections 51 and 52, the transactions of on other a registered society with persons other than its members transactions with non- shall be subject to such prohibitions and restrictions as members. may be prescribed by its by-laws.
+53. Subject to sections 51 and 52, the transactions of
 
-Investment
+<!-- marginal: on other -->
 
-54. (1) Subject to the regulations and its by-laws, a of funds. registered society may invest or deposit its surplus funds in—
+a registered society with persons other than its members
 
-(a) any financial institution licensed under the Act 372. Banking and Pinancial Institutions Act 1989;
+<!-- marginal: transactions -->
+
+<!-- marginal: with non- -->
+
+shall be subject to such prohibitions and restrictions as
+
+<!-- marginal: members. -->
+
+may be prescribed by its by-laws.
+
+<!-- marginal: Investment -->
+
+54. (1) Subject to the regulations and its by-laws, a
+
+<!-- marginal: of funds. -->
+
+registered society may invest or deposit its surplus funds in—
+
+(a) any financial institution licensed under the
+
+<!-- marginal: Act 372. -->
+
+Banking and Pinancial Institutions Act 1989;
 
 (b) any financial institution established by the Federal Government;
 
@@ -1080,7 +1404,11 @@ Gazette;
 
 (d) any bonds or securities issued in Malaysia and approved by Bank Negara Malaysia;
 
-(e) new shares, the.issue or sale of which has been approved under the Securities Industry Act 280. Act 1983, in any public limited company incorporated in Malaysia which is already listed on a stock exchange in Malaysia or the listing of which on a stock exchange in
+(e) new shares, the.issue or sale of which has been approved under the Securities Industry
+
+<!-- marginal: Act 280. -->
+
+Act 1983, in any public limited company incorporated in Malaysia which is already listed on a stock exchange in Malaysia or the listing of which on a stock exchange in
 
 <!-- page 29 -->
 
@@ -1134,13 +1462,21 @@ exceeding a limit which shall be determined by its general meeting.
 
 (7) This section shall not apply to a registered society that is required by the provisions of any other written law governing its operations to deal with its capital gains in the manner provided in such law.
 
-Net profits.
+<!-- marginal: Net profits. -->
 
 56. The audited net profits of a registered society for each financial year shall be determined after allowing for the operational expenses, provision for bad and doubtful debts, depreciation of assets, and diminution of investments.
 
-Distribution
+<!-- marginal: Distribution -->
 
-57. (1) Every registered society shall pay into its of audited Reserve Fund not less than fifteen per centum of its net profits. audited net profits for the preceding financial year.
+57. (1) Every registered society shall pay into its
+
+<!-- marginal: of audited -->
+
+Reserve Fund not less than fifteen per centum of its
+
+<!-- marginal: net profits. -->
+
+audited net profits for the preceding financial year.
 
 (2) Subject to subsection (7), every registered society shall, out of its audited net profits for the preceding financial year, pay such sum as may be determined by the Minister to—
 
@@ -1160,11 +1496,15 @@ or to both, or to the Co-operative Education Trust Fund established under the re
 
 (i) the affiliation of all registered societies without any restrictions or the payment of any fee except entrance fees; and
 
-(ii) the appointment to its Board, by the Minister, of at least one representative from his ministry and of one representative from the Ministry of Finance.
+(ii) the appointment to its Board, by the Minister, of at least one representative from his ministry and
 
-(4) There may be deducted from the sum mentioned in subsection (1) any sum paid pursuant to subsection
+<!-- marginal: of -->
 
-(2).
+<!-- marginal: one -->
+
+representative from the Ministry of Finance.
+
+(4) There may be deducted from the sum mentioned in subsection (1) any sum paid pursuant to subsection (2).
 
 (5) Subject to subsection (7), a registered society may, after the payments specified in subsections (1) and
 
@@ -1194,9 +1534,13 @@ prescribed in the regulations, on the shares and subscriptions of members of the
 
 ## ACCOUNTS AND AUDIT
 
-Maintenance
+<!-- marginal: Maintenance -->
 
-58. (1) Every registered society shall cause to be of accounts. maintained such accounting and other records as will sufficiently explain the transactions and financial position of the registered society and its subsidiary or subsidiaries, if any, and enable true and fair trading and profit and loss accounts and balance sheets and any
+58. (1) Every registered society shall cause to be
+
+<!-- marginal: of accounts. -->
+
+maintained such accounting and other records as will sufficiently explain the transactions and financial position of the registered society and its subsidiary or subsidiaries, if any, and enable true and fair trading and profit and loss accounts and balance sheets and any
 
 <!-- page 33 -->
 
@@ -1278,15 +1622,25 @@ in the case of the first account, since the registration of the society, or its 
 
 (5) Every trading and profit and loss account and balance sheet laid before a registered society in the annual general meeting, including any consolidated profit and loss account and consolidated balance sheet, shall give a true and fair view of the state of affairs of the registered society and of its subsidiary or subsidiaries, if any.
 
-Audit.
+<!-- marginal: Audit. -->
 
 60. (1) Every registered society shall cause its accounts to be audited once at least in every financial year by some person approved by the Registrar-General.
 
 (2) Notwithstanding subsection (1), the Registrar- General may at any time, of his own motion or on the application of a registered society, audit or cause to be audited the accounts of any registered society.
 
-Approval of
+<!-- marginal: Approval of -->
 
-61. (1) For the purposes of subsection 64(1), the auditor of Registrar-General may by general or special order in registered societies. writing, and upon the payment of such fees as may be prescribed, approve any competent person to audit the accounts of a registered society or societies, as the case may be, under this Act if—
+61. (1) For the purposes of subsection 64(1), the
+
+<!-- marginal: auditor of -->
+
+Registrar-General may by general or special order in
+
+<!-- marginal: registered -->
+
+<!-- marginal: societies. -->
+
+writing, and upon the payment of such fees as may be prescribed, approve any competent person to audit the accounts of a registered society or societies, as the case may be, under this Act if—
 
 (a) such person applies in writing to the Registrar- General to be so approved; and
 
@@ -1368,9 +1722,31 @@ and shall state in his report whether—
 
 ## INSPECTION, INQUIRY, DISSOLUTION AND DISPUTES
 
-Power of
+<!-- marginal: Power of -->
 
-64. The Registrar-General, or any public officer Registrar- authorised by him generally or specially in writing, shall General to inspect have access to all the books, accounts, documents and books, etc., securities of a registered society and its subsidiary or of registered subsidiaries, if any, and shall be entitled to inspect the societies. cash in hand; and every officer (including any past
+64. The Registrar-General, or any public officer
+
+<!-- marginal: Registrar- -->
+
+authorised by him generally or specially in writing, shall
+
+<!-- marginal: General to -->
+
+<!-- marginal: inspect -->
+
+have access to all the books, accounts, documents and
+
+<!-- marginal: books, etc., -->
+
+securities of a registered society and its subsidiary or
+
+<!-- marginal: of registered -->
+
+subsidiaries, if any, and shall be entitled to inspect the
+
+<!-- marginal: societies. -->
+
+cash in hand; and every officer (including any past
 
 <!-- page 39 -->
 
@@ -1408,13 +1784,45 @@ the Registrar-General or the public officer authorised by him in writing to make
 
 ## BILL
 
-Registrar-
+<!-- marginal: Registrar- -->
 
-67. If an inspection is carried out under section 64 or General may an inquiry is held under section 66, the Registrar- communicate General may communicate the result of the inspection to registered society result or the inquiry to the registered society and may, by order of inspection in writing, direct any officer of the registered society to or inquiry. take such actions as may be determined in the order to remedy, within such time as may be specified therein, the defects, if any, disclosed as a result of the inspection or the inquiry.
+67. If an inspection is carried out under section 64 or
 
-Inspection
+<!-- marginal: General may -->
 
-68. (1) The Registrar-General may, on the application on the of a creditor of a registered society, inspect or direct application of creditors. any public officer authorised by him by order in writing in this behalf to inspect books, accounts, cash or other properties belonging to the registered society and its subsidiary or subsidiaries, if any, and the Registrar- General or such public officer shall have all the powers under section 64.
+an inquiry is held under section 66, the Registrar-
+
+<!-- marginal: communicate -->
+
+General may communicate the result of the inspection
+
+<!-- marginal: to registered -->
+
+<!-- marginal: society result -->
+
+or the inquiry to the registered society and may, by order
+
+<!-- marginal: of inspection -->
+
+in writing, direct any officer of the registered society to
+
+<!-- marginal: or inquiry. -->
+
+take such actions as may be determined in the order to remedy, within such time as may be specified therein, the defects, if any, disclosed as a result of the inspection or the inquiry.
+
+<!-- marginal: Inspection -->
+
+68. (1) The Registrar-General may, on the application
+
+<!-- marginal: on the -->
+
+of a creditor of a registered society, inspect or direct
+
+<!-- marginal: application -->
+
+<!-- marginal: of creditors. -->
+
+any public officer authorised by him by order in writing in this behalf to inspect books, accounts, cash or other properties belonging to the registered society and its subsidiary or subsidiaries, if any, and the Registrar- General or such public officer shall have all the powers under section 64.
 
 (2) No inspection shall be made or directed under subsection (1) on the application of a creditor of a registered society unless the creditor—
 
@@ -1428,9 +1836,23 @@ satisfaction within reasonable time; and
 
 (3) The Registrar-General shall communicate the result of an inspection under subsection (1) to the creditor and the registered society.
 
-Power of
+<!-- marginal: Power of -->
 
-69. (1) The Registrar-General may, after considering Registrar- the facts disclosed in an inquiry under section 66 and General if he deems it necessary in the interest of the registered consequent upon inquiry. society so to do, by order—
+69. (1) The Registrar-General may, after considering
+
+<!-- marginal: Registrar- -->
+
+the facts disclosed in an inquiry under section 66 and
+
+<!-- marginal: General -->
+
+if he deems it necessary in the interest of the registered
+
+<!-- marginal: consequent -->
+
+<!-- marginal: upon inquiry. -->
+
+society so to do, by order—
 
 (a) suspend all or any of the activities of the registered society, for such period as he shall specify;
 
@@ -1466,11 +1888,31 @@ management of the registered society the following provisions shall have effect:
 
 (7) Any person aggrieved by the order of the Registrar-General made under subsection (1) or subsection (6) may, within twenty-one days of the making of such order, appeal to the Minister, who shall confirm or set aside such order and the decision of the Minister shall be final and conclusive.
 
-Officer
+<!-- marginal: Officer -->
 
-70. If an officer of a registered society has been removed by removed by order of the Registrar-General under the the order of Registrar- provision of subsection 69(6), such officer shall General thereafter not be eligible to be appointed as a member shall not be reappointed. of the Board or any committee of the registered society or be re-employed by that or any other registered society, as the case may be, for a period of five years from the date of such removal.
+70. If an officer of a registered society has been
 
-Dissolution.
+<!-- marginal: removed by -->
+
+removed by order of the Registrar-General under the
+
+<!-- marginal: the order -->
+
+<!-- marginal: of Registrar- -->
+
+provision of subsection 69(6), such officer shall
+
+<!-- marginal: General -->
+
+thereafter not be eligible to be appointed as a member
+
+<!-- marginal: shall not be -->
+
+<!-- marginal: reappointed. -->
+
+of the Board or any committee of the registered society or be re-employed by that or any other registered society, as the case may be, for a period of five years from the date of such removal.
+
+<!-- marginal: Dissolution. -->
 
 71. (1) If the Registrar-General, after an inspection has been made under section 64 or 68 or after an inquiry has been held under section 66 or on receipt of an application made by three-fourths of the members of a registered society, is of the opinion that the registered society ought to be dissolved, he may make an order for the revocation of the registration of the society.
 
@@ -1538,9 +1980,13 @@ registered society.
 
 <!-- page 44 -->
 
-Liquidator's
+<!-- marginal: Liquidator's -->
 
-75. (1) A liquidator appointed under section 74 shall, powers. subject to the guidance and control of the Registrar- General and to any limitations imposed by the Registrar- General by order under section 76, have power to—
+75. (1) A liquidator appointed under section 74 shall,
+
+<!-- marginal: powers. -->
+
+subject to the guidance and control of the Registrar- General and to any limitations imposed by the Registrar- General by order under section 76, have power to—
 
 (a) determine from time to time the contributions to be made by members and past members or by the estates of deceased members of the registered society to its assets;
 
@@ -1552,7 +1998,11 @@ Liquidator's
 
 (e) empower any person to make collections and to grant valid receipts on his behalf;
 
-(f) decide by what persons and in what proportions the costs of liquidation are to be borne;
+(f) decide by what persons and
+
+<!-- marginal: in what -->
+
+proportions the costs of liquidation are to be borne;
 
 (g) give such directions in regard to the collection and distribution of the assets of the registered society and the disposal of the books and documents of the society as may be necessary in the course of winding up the society;
 
@@ -1570,11 +2020,7 @@ Liquidator's
 
 (m) enter into any arrangement, agreement, composition, compromise, or scheme, with any depositors, creditors, customers or persons having any lawful dealings or transactions with the registered society whereby any right of any such person, or any liability of the registered society to any such person, is made subject to the arrangement, agreement, composition, compromise or scheme entered into by the liquidator;
 
-(n) employ any person as an employee of the registered society, or terminate
-
-<!-- marginal: the -->
-
-employment of any employee of the registered
+(n) employ any person as an employee of the registered society, or terminate the employment of any employee of the registered
 
 <!-- page 46 -->
 
@@ -1646,17 +2092,43 @@ and make whatever new order is required;
 
 ## BILL
 
-Enforcement
+<!-- marginal: Enforcement -->
 
-77. An order made by the liquidator or by the Registrar- of order. General under section 75 or 76 shall be enforced by any Sessions Court having jurisdiction over the place where the registered office of the society is situated in like manner as a judgement of that Court.
+77. An order made by the liquidator or by the Registrar-
 
-Limitation
+<!-- marginal: of order. -->
 
-78. Except as provided expressly in section 77, no civil of the court shall have any jurisdiction in respect of any matter jurisdiction of the civil concerned with the dissolution of a registered society court. under this Act, and no appeal shall lie to any civil court from any order of the liquidator.
+General under section 75 or 76 shall be enforced by any Sessions Court having jurisdiction over the place where the registered office of the society is situated in like manner as a judgement of that Court.
 
-Priority of
+<!-- marginal: Limitation -->
 
-79. (1) In the liquidation of a society whose payments by registration has been revoked, funds of the society, liquidator. including the funds in the Reserve Account, shall be applied first to the costs of liquidation, then to the discharge of the liabilities of the society, then to the payment of the share or subscription capital and then, if the by-laws of the society permit, to the payment of a dividend at the rate prescribed in the regulations for any period for which no dividend was paid.
+78. Except as provided expressly in section 77, no civil
+
+<!-- marginal: of the -->
+
+court shall have any jurisdiction in respect of any matter
+
+<!-- marginal: jurisdiction -->
+
+<!-- marginal: of the civil -->
+
+concerned with the dissolution of a registered society
+
+<!-- marginal: court. -->
+
+under this Act, and no appeal shall lie to any civil court from any order of the liquidator.
+
+<!-- marginal: Priority of -->
+
+79. (1) In the liquidation of a society whose
+
+<!-- marginal: payments by -->
+
+registration has been revoked, funds of the society,
+
+<!-- marginal: liquidator. -->
+
+including the funds in the Reserve Account, shall be applied first to the costs of liquidation, then to the discharge of the liabilities of the society, then to the payment of the share or subscription capital and then, if the by-laws of the society permit, to the payment of a dividend at the rate prescribed in the regulations for any period for which no dividend was paid.
 
 (2) The priority of payment of the unsecured debts of a society in such liquidation as is referred to in subsection (1) shall rank in the following order:
 
@@ -1720,13 +2192,31 @@ retained or become liable or accountable for any money or property of such socie
 
 (3) This section shall apply notwithstanding that the act referred to in subsection (1) is one for which the offender may be criminally responsible.
 
-Appeal
+<!-- marginal: Appeal -->
 
-81. Any person aggrieved by any order of the against Registrar-General made under section 80 may appeal to the order of Registrar- the Minister within twenty-one days from the date of General. such order and the decision of the Minister shall be final and conclusive.
+81. Any person aggrieved by any order of the
 
-Settlement
+<!-- marginal: against -->
 
-82. (1) If a dispute touching the constitution, by-laws, of disputes. election of officers, conduct of general meetings, management or business of a registered society arises—
+Registrar-General made under section 80 may appeal to
+
+<!-- marginal: the order of -->
+
+<!-- marginal: Registrar- -->
+
+the Minister within twenty-one days from the date of
+
+<!-- marginal: General. -->
+
+such order and the decision of the Minister shall be final and conclusive.
+
+<!-- marginal: Settlement -->
+
+82. (1) If a dispute touching the constitution, by-laws,
+
+<!-- marginal: of disputes. -->
+
+election of officers, conduct of general meetings, management or business of a registered society arises—
 
 (a) among members, past members and persons claiming through members, past members and deceased members;
 
@@ -1768,7 +2258,7 @@ Sessions Court having jurisdiction over the place where the registered office of
 
 (8) Any party aggrieved by the decision of the court on any dispute referred to it under paragraph (3)(c) may appeal therefrom in accordance with the provisions of the rules of court applicable thereto.
 
-Tribunal.
+<!-- marginal: Tribunal. -->
 
 83. (1) The Minister may, on the recommendation of the Registrar-General, establish a tribunal to perform the functions specified in subsection (2).
 
@@ -1816,9 +2306,17 @@ shall be referred to such tribunal.
 
 (10) Any reference in this Act to a decision of the Registrar-General or an award of an arbitrator or arbitrators shall, in respect of disputes determined by a tribunal under this section, be construed as a reference to an award of such tribunal.
 
-Case stated
+<!-- marginal: Case stated -->
 
-84. (1) Notwithstanding anything contained in section on question 82, the Registrar-General, at any time when proceeding of law. to a decision under this Act, or the Minister at any time when an appeal has been preferred to him against any decision of the Registrar-General under this Act, may refer any question of law arising out of such decision for the opinion of the High Court.
+84. (1) Notwithstanding anything contained in section
+
+<!-- marginal: on question -->
+
+82, the Registrar-General, at any time when proceeding
+
+<!-- marginal: of law. -->
+
+to a decision under this Act, or the Minister at any time when an appeal has been preferred to him against any decision of the Registrar-General under this Act, may refer any question of law arising out of such decision for the opinion of the High Court.
 
 <!-- page 55 -->
 
@@ -1876,9 +2374,7 @@ giving effect to the principles and provisions of this Act.
 
 (c) prescribe the matters in respect of which a registered society may or shall make by-laws and for the procedure to be followed in making, amending and rescinding by-laws, and the conditions to be satisfied prior to such making, amendment or recission;
 
-(d) prescribe all matters relating
-
-<!-- marginal: to -->
+(d) prescribe all matters relating to
 
 <!-- marginal: the -->
 
@@ -1888,17 +2384,13 @@ appointments and terms of office of members of the Board of a registered society
 
 (f) prescribe the purposes for which specific savings may be utilised;
 
-(g) prescribe all matters relating
-
-<!-- marginal: to -->
+(g) prescribe all matters relating to
 
 <!-- marginal: the -->
 
 amalgamation and division of registered societies and the transfer of assets and liabilities of registered societies, including the vesting of assets and liabilities of—
 
-(i) amalgamating societies
-
-<!-- marginal: in -->
+(i) amalgamating societies in
 
 <!-- marginal: the -->
 
@@ -1936,13 +2428,23 @@ the registration of the amalgamated society, the new societies and the transfer,
 
 ## BILL
 
-Exemption.
+<!-- marginal: Exemption. -->
 
 87. The Minister may, on being satisfied that it is desirable to do so in the interest of the development of registered societies generally or of a particular registered society or a particular class of registered societies, by general or special order, subject to such conditions as he may impose, exempt any registered society or class of registered societies, from any of the provisions of this Act, or direct that such provisions shall apply to any registered society, or class of registered societies, with effect from such date or with such modifications as may be specified in the order.
 
-Recovery
+<!-- marginal: Recovery -->
 
-88. (1) All sums due from a registered society or from of sums an officer or member or past member of a registered due to Government. society as such to the Federal Government or any State Government may be recovered as a debt due to such Government.
+88. (1) All sums due from a registered society or from
+
+<!-- marginal: of sums -->
+
+an officer or member or past member of a registered
+
+<!-- marginal: due to -->
+
+<!-- marginal: Government. -->
+
+society as such to the Federal Government or any State Government may be recovered as a debt due to such Government.
 
 (2) Sums due from a registered society to the Federal Government or any State Government and recoverable under subsection (1) may be recovered—
 
@@ -1952,9 +2454,19 @@ Recovery
 
 (c) thirdly, in the case of other societies, from the members.
 
-Prohibition
+<!-- marginal: Prohibition -->
 
-89. (1) No person other than a registered society shall of the use trade or carry on business under any name or title of of the word "koperasi". which the word "koperasi" or its equivalent in any other language is part.
+89. (1) No person other than a registered society shall
+
+<!-- marginal: of the use -->
+
+trade or carry on business under any name or title of
+
+<!-- marginal: of the word -->
+
+<!-- marginal: "koperasi". -->
+
+which the word "koperasi" or its equivalent in any other language is part.
 
 (2) Any person who contravenes the provisions of subsection (1) shall be guilty of an offence and shall be liable, on conviction, to a fine not exceeding five thousand ringgit, and, in the case of a continuing offence, to a further fine not exceeding five hundred ringgit for each day during which the offence continues after conviction.
 
@@ -1998,11 +2510,35 @@ companies shall not apply to societies registered under this Act.
 
 (2) Every registered society or officer, employee or member of a registered society, or other person, guilty of an offence under this section shall be liable, on conviction, to a fine not exceeding fifty thousand ringgit or to a term of imprisonment not exceeding four years or to both, and, in the case of a continuing offence, to a further fine of one hundred ringgit for each day during which the offence continues after conviction.
 
-Proceedings
+<!-- marginal: Proceedings -->
 
-92. The Registrar-General or any public officer how and authorised by him in writing may, with the consent of when taken. the Public Prosecutor in writing, prosecute in any court any case in respect of any offence committed under this Act.
+92. The Registrar-General or any public officer
 
-93. (1) The Registrar-General may, in a case where he Power of Registrar- deems it fit and proper to do so, compound any offence General to committed by any person which is punishable under any compound offences. provision of this Act, by making a written offer to such person to compound the offence by paying to the Registrar-General within such time as may be specified in the offer such sum of money as may be determined in the offer which shall not exceed fifty per centum of the amount of the maximum fine (including the daily fine, if any, in the case of a continuing offence) to which that person would have been liable if he had been convicted.
+<!-- marginal: how and -->
+
+authorised by him in writing may, with the consent of
+
+<!-- marginal: when taken. -->
+
+the Public Prosecutor in writing, prosecute in any court any case in respect of any offence committed under this Act.
+
+93. (1) The Registrar-General may, in a case where he
+
+<!-- marginal: Power of -->
+
+<!-- marginal: Registrar- -->
+
+deems it fit and proper to do so, compound any offence
+
+<!-- marginal: General to -->
+
+committed by any person which is punishable under any
+
+<!-- marginal: compound -->
+
+<!-- marginal: offences. -->
+
+provision of this Act, by making a written offer to such person to compound the offence by paying to the Registrar-General within such time as may be specified in the offer such sum of money as may be determined in the offer which shall not exceed fifty per centum of the amount of the maximum fine (including the daily fine, if any, in the case of a continuing offence) to which that person would have been liable if he had been convicted.
 
 (2) An offer under subsection (1) may be made at any time after the offence has been committed, but before prosecution for it has been instituted, and where the amount specified in the offer is not paid within the time specified in the offer, or any extension of it which the Registrar-General may grant, prosecution for the offence may be instituted at any time thereafter against the person to whom the offer was made.
 
@@ -2076,9 +2612,29 @@ registered societies in the State of Sabah or Sarawak, as the case may be, and s
 
 (5) The Minister may make regulations to provide for the manner in which the Fund referred to in paragraph ( 4 )( a) shall be held and administered and, upon such Fund becoming exhausted, for its dissolution and for other matters connected therewith.
 
-Status of
+<!-- marginal: Status of -->
 
-96. (1) A society which was immediately before the registration commencement of this Act registered or deemed to be and by-laws of societies registered under the provisions of the repealed laws registered shall be deemed to have been registered under this Act. under the repealed laws.
+96. (1) A society which was immediately before the
+
+<!-- marginal: registration -->
+
+commencement of this Act registered or deemed to be
+
+<!-- marginal: and by-laws -->
+
+<!-- marginal: of societies -->
+
+registered under the provisions of the repealed laws
+
+<!-- marginal: registered -->
+
+shall be deemed to have been registered under this Act.
+
+<!-- marginal: under the -->
+
+<!-- marginal: repealed -->
+
+<!-- marginal: laws. -->
 
 (2) Subject to subsection (3), societies registered or deemed to be registered under any of the repealed laws shall, not later than two years after the commencement of this Act, amend their by-laws so as to bring them in conformity with the provisions of this Act.
 
@@ -2112,7 +2668,11 @@ Clauses 17 and 18 contain provisions relating to the by-laws of a co-operative s
 
 Clause 19 seeks to allow a co-operative society to own a subsidiary, but only with the approval of the Registrar-General.
 
-Clause 20 seeks to enable a co-operative society to require its members to dispose of their products to or through the society.
+Clause 20 seeks to enable a co-operative society
+
+<!-- marginal: to require its -->
+
+members to dispose of their products to or through the society.
 
 Clauses 21 and 22 deal with the rights of a co-operative society in respect of debts or outstanding demands payable to the society by any member or past member.
 

@@ -1,0 +1,1287 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-40-1994",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_34"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Employees Provident Fund (Amendment) Bill 1994"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_10__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_10__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_10__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_10__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_10__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 31 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"and Assistant General Managers\" after the words \"Deputy General Managers\" in subsection (1);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"two\" the word \"four\" in paragraph (l)(b);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsections: \"(1A) The Chairman of the Disciplinary Committee of the Board and two members of the Committee shall form a quorum at all meetings of the Disciplinary Committee. (IB) The Disciplinary Committee shall have powers to determine the conduct of its proceedings.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_10__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"and Assistant General Managers\" after the words \"other than the deputy General Managers\" in subsection (2);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_10__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"two\" the word \"four\" in paragraph (2}(a);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_10__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the proviso to subsection (2) the following subsections: \"(2A) The Chairman of the Disciplinary Committee of the Board and two members of the Committee shall form a quorum at all meetings of the Disciplinary Committee. (2B) The Disciplinary Committee shall have powers to determine the conduct of its proceedings.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_10__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"against such decision to the Board which may give such decision thereon as it deems fit and proper\" the words \"to the Board within thirty days from the date of the service of the decision to the last known address of the officer or servant and such decision of the Board thereon shall be final\" in subsection (7)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_11__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_11__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 33 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"two\" the word \"four\" in paragraph (1)(b);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsections: \"(1A) The Chairman of the Promotion Committee and two other members of the Promotion Committee shall form a quorum at all meetings of the Promotion Committee. (lB) If on any question to be determined there is an equality of votes, the Chairman of the Promotion Committee shall have the casting vote in addition to his original vote, (Ic) The Promotion Committee shall have powers to determine the conduct of its proceedings.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_11__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"which may give such decision thereon as it deems fit and proper\" the words \"within thirty days from the date of the service of the decision to the last known address of the officer or servant, and such decision of the Board thereon shall be final\" in subsection (4)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 34 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"for the purposes of this Act\" the words \"from any officer and servant appointed under section 30(3)(b)\" in subsection (1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \", Deputy General Managers and Assistant General Managers\" the words \"and Deputy General Managers\" in subsection (4)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 35 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "deleting the words \"within the local limit of his jurisdiction if any for which he is appointed\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 36 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "inserting after subsection (1) the following subsection: \"(1A) For the purpose of this section, an Inspector shall include any officer who is vested with the powers of an Inspector.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_15__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 37 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"in the prescribed form\" in subsection (5); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (6)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_16__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_16__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 37 the following section— Power of 37A. (1) An Inspector or an officer vested the Board with the powers of an Inspector may, assess to assess any contributions which is due by any employer contribu- tions based on any information available if the based on employer— informa- tion"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "fails to keep or maintain any statement, available. particulars, register book or any record pertaining to each employee as required to be performed by him under this Act; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "fails or refuse to submit any statement, particulars, register book or record pertaining to each employee as required to be submitted by him under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The assessment made under subsection (1) shall be sufficient proof of the Board's claim for the recovery of any contributions under section 65.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_17__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 43 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"monthly contributions\" the words \"on the amount of wages for the month\" in subsection (1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (8) the following subsection: \"(8) Notwithstanding subsection (1)— (a) a self-employed person; (b) a pensionable employee; (c) any person not being an employer or an employee within the meaning of this Act; or (d) any person not being an employer and not being an employee within the meaning of this Act and both have given their consent to contribute, may, by giving notice in such manner and form as may be prescribed by the Board, elect to pay monthly contributions in accordance with the rate as prescribed by the Board.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 44 the following section: 44. In addition to and not in derogation of section 43(3), an employer may with the retirement consent of an employee, remit to the Board at any time any moneys being retirement benefits of any employee in such manner as may be prescribed by the Board and where any such moneys has been received, the Board shall cause such moneys to be paid into the Fund in accordance with section 50.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_19__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 45 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"the rate of the word \"last\" in the proviso to subsection (3); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsection: \"(4) Any employer who contravenes the provisions of subsection (3) shall be guilty of an offence and shall, on conviction, be liable to imprisonment for a term not exceeding three years or to a fine not exceeding ten thousand ringgit or both.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Employees Provident Fund (Amendment) Act 1994."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall come into force on a date to be appointed by the Minister by notification in the Gazette, and the Minister may appoint different dates for the coming into force of different provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2__subsec_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_20__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_20__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 46 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting after the words \"Where any\" the words \"sum of money by way of and after the word \"contributions\" the words \"together with any dividend due thereon\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering section 46 as subsection 46(1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_20__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: \"(2) In this the word \"contribution\" shall be deemed to include any dividend and interest due on any contributions.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 47 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for subsection (1) the following subsection (1): \"(1) Notwithstanding any contract to the contrary, the employer shall not be entitled to deduct or otherwise recover from the wages or remuneration of the employee, the employer's contribution, from the employee.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 48 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "deleting subsection (6)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 50 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "inserting after the words \"at the rate of the word \"last\" in subparagraph (a)(ii) of the proviso to subsection (2)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "50A. section 50 the following section: Additional 50A. In addition to payment of dividend paid payment of under the proviso to section 50(2), the Board dividend. may pay to the member of the Fund who has made a withdrawal under section 54(1), an additional dividend as determined by the Board.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 51 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the colon after the words \"any such sum or amount\" with a full stop and by deleting the proviso."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_26__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_26__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 54 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_26__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsections (1), (2), (3) and (4) the following subsections: \"(1) No sum of money standing to the credit of a member of the Fund may be withdrawn except with the authority of the Board, and subject to any rules made under this section, such authority shall not be given unless the Board is satisfied that— (a) the member of the Fund has died; (b) the member of the Fund has attained the age of fifty-five years; (c) the member of the Fund is physically or mentally incapacitated engaging in any further employment; or (d) the member of the Fund not being a Malaysian citizen is about to leave Malaysia with no intention of returning thereto. (2) When a withdrawal under sub- section(l)(b) has been made of any amount standing to the credit of the member of the Fund, the member shall not thereafter be treated as an employee unless he has given to the Board and his employer, notice in such manner and form as may be prescribed by the Board, his intention to contribute: Provided that the member of the Fund who has contributed under subsection (2), shall only be allowed to make a subsequent withdrawal under subsection (1)(b), (1)(c) or (1)(d) and subsequently after he has made any such withdrawal, he shall cease to be a member of the Fund and shall be precluded from making any further contributions. (3) Notwithstanding subsection (1) the Board may authorize application of withdrawal from the Fund partly any amount standing to the credit of the member of the Fund and, subject to any rules made under this section, and such authority shall not be given unless the Board is satisfied that a member of the Fund— (a) has attained the age of fifty years; (b) has purchased or built a house; (c) has purchased or built a house and has taken a loan made on the security of a charge on the said house for its purchase or construction; (d) has purchased or built a house and has taken a loan under paragraph 26(1)(f) for its purchase or construction; or (e) or any other person approved by the Board, require medical financing. (4) Notwithstanding subsection (3), the Minister may prescribe the amount the Board may authorize for withdrawal under the same subsection.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_26__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"subsection (3)(b)\" the words \"subsection (3)\" in subsection (5)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 55 the following section: 55. (1) Notwithstanding section 54(1), any Periodical payment member of the Fund who has attained the age in lieu of lump sum of fifty-five years may— payment. (a) apply to withdraw the amount standing to his credit in periodical payments in lieu of a lump sum payment; or (b) apply to withdraw dividend only on the amount standing to his credit in lieu of a lump sum payment, and the Board may, subject to any rules made under this section, authorize such withdrawal. (2) Where the Board has authorized withdrawal under paragraph (a) of subsection (1), the member of the Fund shall be precluded from withdrawing the amount standing to his credit under section 54(1)(b).\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 58 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "inserting after subsection (1) the following subsection: \"(1A) Notwithstanding subsection (1), the Board may not pay the additional amount, if the Board is satisfied that no person as approved by the Board survived the member of the Fund.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 63 the following section: 63. (1) Notwithstanding the provision of any other written law, where an employer is found guilty of an offence under section 43(2) or 48(3), the Court before which the employer is found guilty shall order such employer to pay to the Fund the amount of contributions, together with any dividend credited thereon, due and payable to the Board and certified by an officer authorized by the Board to be due from such employer, prior to the date of such finding of guilt. (2) Where an employer is found guilty of an offence under section 45(3), the Court before which the employer is found guilty shall order such employer to pay to the Fund any amount of dividend thereon due and payable to the Board and certified by an officer authorized by the Board to be due from such employer. (3) A court order issued under subsection (1) or (2) or both shall be paid by the employer in a single payment at the date the order was issued except if the Court is satisfied that the employer has no capability in terms of financial and on special reasons the offence was committed, the Court may order the arrears of contributions to be paid in not more than six monthly instalments from the date of the order. (4) Where an employer fails to comply with any order made under subsection (3), the Court shall issue a warrant to levy the whole amount of such arrears by way of distress and sale of the employer's property in accordance with the same procedure of execution under rule 30 of the Subordinate Courts Rules 1980 and this rule shall apply mutatis mutandis notwithstanding the amount ordered for arrears of contribution or dividend or both.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2__subsec_1__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2__subsec_1__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 2 of the Employees Provident Fund Act 1991, which in this Act is referred to as the \"principal Act\", is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"section 26\" the words \"section 26A\" in paragraph (c) of the definition of \"approved company\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"who has attained the age of sixteen years\" in the definition of \"employee\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"Fund\" the following definition: ' \"gratuity\" means any payment paid by an employer to an employee upon completion of service or voluntary resignation as a recognition of such employee's service;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"and includes a Probationary Inspector\" in the definition of \"Inspector\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"member\" the following definition: ' \"Minister\" means the Minister charged with responsibility for matters relating to the Employees Provident Fund Board;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"new scheme\" the following definition: ' \"overtime payment\" means any payment due from an employer to an employee for work carried out in excess of the normal working hours of such employee and includes any payment paid to an employee for work carried out on public holidays and rest days;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"person\" the following definition: ' \"retirement benefit\" means any payment paid to an employee upon retirement either compulsory or optional or on medical grounds as stated under the contract of service of the employee;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"service charge\" the following definition: ' \"special housing loan\" means any loan to an approved company solely for the purpose of relending to borrowers for the purchase of low cost houses;'; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2__subsec_1__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_2__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of \"wages\"— (i) by deleting the word \"or\" at the end of paragraph (c): (ii) by substituting for the full stop at the end of paragraph (d) the word \"; or\"; and (iii) by inserting after paragraph (d) the following paragraphs: \"(e) retrenchment, lay-off or termination benefits; (f) any travelling allowance or the value of any concession; or (g) any other remuneration or payment as may be exempted by the Minister.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 4(4) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 65(1) of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the words \"All contributions\" the words \"Notwithstanding the provisions of any other written law all contributions\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_31__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_31__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 66 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_31__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"during the twelve months before the date of such order\" in subsection (1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_31__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: \"(2) In this section the word \"contribution\" shall be deemed to include any dividend and interest due on any contributions.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "paragraph 12(b) the following paragraph: \"(c) declare any person or class of persons employed, engaged or contracted with to carry out work in any occupation in any agricultural or industrial undertaking, constructional work, trade, business or place of work as an employee or employees and the person who employs, involves or contracts with each of the person or class of persons above-mentioned, shall be deemed to be an employer and such employer and employee shall be deemed to have made a contract of service with each other and the Minister may determine any payment received by the person above-mentioned to be wages for the purpose of this Act;\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_33__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_33__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_33__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_33__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 73 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_33__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subparagraph (m)(iv) the following subparagraph: \"(iv) the disciplinary rules made under this Act may, in prescribing the procedure for disciplinary proceedings, provide for an opportunity for representations to be made in certain circumstances by the person against whom the disciplinary proceedings are taken before a decision is arrived at by the disciplinary authority on the disciplinary charge laid against such person;\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_33__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word \"and\" at the end of subparagraph (m)(iv);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_33__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (m) the following paragraph: \"(n) to prescribe the procedures to be followed in matters relating to finance and accounts of the Fund; and\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_33__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing paragraph (n) as paragraph (o)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Fourth Schedule to the principal Act is deleted. Deletion of"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the colon a full stop; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the proviso."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 13 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "inserting after the words \"and one other member of the Board\" the words \"or any two other members of the Board\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 24(2) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (b) the following paragraph: \"(b) investment under this Act;\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"other fees and costs\" the words \"under section 14\" in paragraph (d); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"under section 14\" in paragraph (e)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 26 the following section: Power of 26. (1) The Board may subject to sectior the Board 18(2), invest moneys belonging to the Fund ir to invest. the following manner:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to be deposited in—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Bank Negara Malaysia; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "banks duly licensed under the Act 372. Banking and Financial Institutions Act 1989; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other financial institution duly licensed under the Banking and Financial Institutions Act 1989 and approved by the Minister;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to be invested in—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shares of any public company listed on the stock exchange established in Malaysia and buying of new shares, the issue or sale of which has been approved under the Securities Industry Act 1983, in any public limited company incorporated in Malaysia which is listed on a stock exchange in Malaysia or the listing of which on a stock exchange in Malaysia has been approved under the Securities Industry Act 1983; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "debentures of any public company;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in bonds or purchasing of mortgage papers, commercial notes, banker's acceptances, money market papers, certificates of deposits, private debt securities, promissory notes and bills of exchange within the meaning of the Bills of Exchange Act 1949 and other negotiable instrument of similar nature;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in accordance with the provisions of the Trustee Act 1949: Provided however, where the Board invests in or upon titles to immovable property in Malaysia in accordance with section 4(l)(c) of the Trustee Act 1949, such immovable property may or may not yield any income at the time of such investment;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to provide loans to Federal or State Government; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to provide loans to members of the Fund subject to such terms and conditions as may be determined by the Board for the purpose of purchasing or building a house."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__subsec_2__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may with the written approval of the Minister, invest moneys belonging to the Fund in the following manner:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to be deposited in any bank or financial institution established by or under any written law;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to be invested in any joint venture;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by participating in any privatisation programme;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to provide loans to any company incorporated under the Companies Act 1965 or any corporation established by or under any written law;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by investing in any investment outside Malaysia; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "investing in any other form of investment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of this section— \"debenture\" includes debenture stock, bonds, notes and any other securities of a corporation whether constituting a charge on the assets of the corporation or not; and \"share\" means paid-up shares (whether fully paid or not) in the share capital of a company and includes stocks and rights to subscribe for any stocks and shares.'."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 26 the following sections: 26A. (1) In addition to the powers of the Board to invest in accordance with section 26, the Board may invest— (a) in loans to an approved company or the buying of shares in an approved company; or (b) in special housing loans to an approved company. (2) No moneys belonging to the Fund shall be invested in accordance with subsection (1) unless— (a) the paid-up ordinary share capital of the approved company is not less than five million Malaysian ringgit; (b) the approved company has paid a dividend at the rate of not less than five per centum upon such ordinary share capital during each of the last three years prior to the time of investment and where the approved company is a company which has acquired the assets and liabilities of another approved company, payment of a dividend by that other company during each of the last three years prior to the time of such acquisition shall be treated as payment by the approved company; (c) in the case of an approved company having as its sole or primary object the promotion of home ownership and, the total amount of the borrowings of the approved company from all sources, excluding the amount of any special housing loan, whether trustee or not, accepted by the approved company on loan and deposit, and including interest due thereon and not repaid by the approved company, does not at any time exceed three-fourths of the amount, excluding prospective interest, for the time being secured to the approved company from its borrowers; (d) a certificate that the provisions of paragraphs (a), (b) and (c) of this subsection were complied with in respect of the last financial year of the approved company, if incorporated in the auditor's report annexed to the approved company's annual accounts required to be prepared under the Companies Act 1965, to which the approved company is subject, shall be conclusive in favour of the Board making such investment; and (e) any agreement as to repayment made between the Board and the approved company shall be immediately determined if— (i) the approved company shall cease to comply with any of the provisions of paragraphs (a), (b) and (c) of this subsection; (ii) the approved company shall fail to obtain a certificate in the terms and in the manner stated in paragraph (d) of this subsection; or (iii) the Minister may at any time by notification in the Gazette, order that the company shall cease to be an approved company in consequence of his considering that the company has departed from its sole or primary object, and any moneys belonging to the Fund shall be repayable immediately thereupon. Board to 26B. (1) Subject to any variation which the invest in Minister may make under subsection (2), the Government Securities. Board shall invest or re-invest at least fifty per centum of the moneys belonging to the Fund and invested or reinvested during any one year, in securities issued by the Government of Malaysia, provided that the total amount of moneys so invested in such securities at any one time shall not be less than seventy per centum of the Fund's total investments. (2) The Minister may, upon the application of the Board, vary the percentage specified in subsection (1). (3) For the purpose of this section, securities issued by the Government of Malaysia shall include— (a) loans which are fully guaranteed by the Federal Government; (b) Bank Negara Malaysia papers with a maturity period of at least three years from the date of issue; (c) any commercial instrument elements of negotiability) issued by the State Government or local authorities with a maturity period of at least three years from the date of issue; (d) any bonds whatsoever with a maturity period of at least two years from the date of issue; and (e) any deposit in advance subscription account under section 26(l)(a)(i).\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 27 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "inserting after the words \"the Board shall\" the words \"with the approval of the Minister,\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 30 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"be the General Manager\" the words \"exercise the duties of the General Manager and shall be known as the Executive Chairman and any remuneration or allowance paid shall be determined by the Minister\" in subsection (2); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"and Assistant General Managers\" in paragraph (3)(a)."
+      }
+    }
+  ]
+}

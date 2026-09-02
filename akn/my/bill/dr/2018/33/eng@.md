@@ -18,6 +18,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 2. The Administration of Islamic Law (Federal Territories) Act 1993 [Act 505], which is referred to as the “principal Act” in this Act, is amended in paragraph 7(2)(f) by substituting for the words “Islamic schools” the words “Islamic religious school”.
 
+<!-- marginal: WJW012507 BI.indd 1 -->
+
 <!-- marginal: 07/12/2018 11:36 AM -->
 
 <!-- page 2 -->
@@ -77,5 +79,7 @@ This Bill seeks to amend the Administration of Islamic Law (Federal Territories)
 This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
 
 <!-- marginal: [PN(U2)3134] -->
+
+<!-- marginal: WJW012507 BI.indd 3 -->
 
 <!-- marginal: 07/12/2018 11:36 AM -->

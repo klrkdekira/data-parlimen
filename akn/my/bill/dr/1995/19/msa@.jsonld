@@ -28,8 +28,7 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_1",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_2",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_3",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_4",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~part_VII"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_4"
       ],
       "schema:name": {
         "@language": "ms",
@@ -85,7 +84,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_2",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas subseksyen (1) yang dinomborkan semula itu subseksyen yang berikut: \"(2) Walau apa pun subseksyen (1), seksyen 92 hendaklah disifatkan telah mula berkuatkuasa pada 16 Ogos 1981. (3) Apa-apa tindakan atau perkara yang dilakukan atau apa-apa wang yang dipungut, dibelanjakan atau dilaburkan oleh Lembaga sebelum mula berkuatkuasanya Akta ini yang akan menjadi sah jika peruntukan-peruntukan Akta ini telah berkuatkuasa pada masa ia dilakukan adalah dengan ini disahkan dan diisytiharkan telah dilakukan atau dipungut, dibelanjakan atau dilaburkan olehnya secara sah.\". Pindaan"
+        "@value": "dengan memasukkan selepas subseksyen (1) yang dinomborkan semula itu subseksyen yang berikut: \"(2) Walau apa pun subseksyen (1), seksyen 92 hendaklah disifatkan telah mula berkuatkuasa pada 16 Ogos 1981. (3) Apa-apa tindakan atau perkara yang dilakukan atau apa-apa wang yang dipungut, dibelanjakan atau dilaburkan oleh Lembaga sebelum mula berkuatkuasanya Akta ini yang akan menjadi sah jika peruntukan-peruntukan Akta ini telah berkuatkuasa pada masa ia dilakukan adalah dengan ini disahkan dan diisytiharkan telah dilakukan atau dipungut, dibelanjakan atau dilaburkan olehnya secara sah.\"."
       }
     },
     {
@@ -97,9 +96,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_3__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@",
-      "schema:text": {
+      "schema:name": {
         "@language": "ms",
-        "@value": "Seksyen 27A Akta ibu adalah dipinda— seksyen 27A."
+        "@value": "Seksyen 27A Akta ibu adalah dipinda—"
       }
     },
     {
@@ -119,7 +118,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_3",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: \"(2A) Jika jawapan diterima daripada Lembaga mengenai memorandum yang dikemukakan di bawah subseksyen (1) menunjukkan keputusan Lembaga untuk tidak membenarkan perubahan kepada struktur caj yang sedia ada yang terdapat di dalam memorandum, mana- mana orang atau kumpulan orang yang terkilan dengan keputusan Lembaga boleh, dalam tempoh empat belas hari dari tarikh keputusan itu dibuat, merayu kepada Menteri dan keputusan Menteri itu adalah muktamad.\". Bahagian"
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: \"(2A) Jika jawapan diterima daripada Lembaga mengenai memorandum yang dikemukakan di bawah subseksyen (1) menunjukkan keputusan Lembaga untuk tidak membenarkan perubahan kepada struktur caj yang sedia ada yang terdapat di dalam memorandum, mana- mana orang atau kumpulan orang yang terkilan dengan keputusan Lembaga boleh, dalam tempoh empat belas hari dari tarikh keputusan itu dibuat, merayu kepada Menteri dan keputusan Menteri itu adalah muktamad.\"."
       }
     },
     {
@@ -127,23 +126,13 @@
       "@type": "akn:clause",
       "eli:number": "4",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas baru VIIA."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~part_VII",
-      "@type": "akn:part",
-      "eli:number": "VII",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@",
       "schema:name": {
         "@language": "ms",
-        "@value": "Bahagian yang berikut:"
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas"
       },
       "schema:text": {
         "@language": "ms",
-        "@value": "\" BAHAGIAN VIIA PERLUASAN FUNGSI-FUNGSI, DLL., LEMBAGA PELABUHAN KEPADA PELABUHAN-PELABUHAN LAIN Kuasa 66A. (1) Menteri boleh, melalui perintah yang Menteri disiarkan dalam Warta, memperluaskan fungsi- memperluas- kan fungsi fungsi, kuasa-kuasa, tugas-tugas dan bidang kuasa Lembaga Lembaga kepada pelabuhan-pelabuhan lain. kepada pelabuhan lain. (2) Suatu perintah yang dibuat di bawah subseksyen (1) boleh memperuntukkan bahawa Lembaga hendaklah, dalam menjalankan pentadbiran pelabuhan yang kepadanya kawalan Lembaga diperluaskan, memasukkan antara ahlinya mana-mana orang lain sebagaimana yang ditentukan dalam perintah itu sama ada melalui nama atau jawatan. (3) Jika suatu perintah dibuat di bawah subseksyen (1), Lembaga hendaklah bagi segala maksud disifatkan sebagai lembaga pelabuhan berkenaan dengan pelabuhan yang disebutkan dalam perintah itu seolah-olah ia adalah suatu lembaga pelabuhan yang ditubuhkan berkenaan dengan pelabuhan itu di bawah Akta ini dan hendaklah dalam menjalankan fungsi-fungsinya digelar dengan nama yang diperuntukkan dalam perintah itu. Lembaga 66B. Lembaga dalam menjalankan fungsi- dalam fungsinya berkenaan dengan pelabuhan yang menjalankan fungsinya kepadanya fungsi-fungsi itu diperluaskan yang hendaklah menjalankannya seolah-olah ia suatu diperluaskan hendaklah lembaga pelabuhan yang bebas yang ditubuhkan disifatkan sebagai berkenaan dengan pelabuhan itu. lembaga pelabuhan yang bebas. Kuasa 66c. Perintah Menteri di bawah seksyen 66A Menteri boleh mengandungi segala peruntukan yang membuat peruntukan dianggap oleh Menteri sebagai perlu untuk bagi membolehkan Lembaga menjalankan fungsi- Lembaga menjalankan fungsinya berhubungan dengan pelabuhan yang fungsinya. kepadanya fungsi-fungsi itu diperluaskan. Tafsiran. 66D. Bagi maksud-maksud Bahagian ini, \"pelabuhan\" ertinya pelabuhan Persekutuan atau tempat yang diisytiharkan sebagai pelabuhan Persekutuan oleh undang-undang Persekutuan.\"."
+        "@value": "Bahagian VII Bahagian yang berikut: \" BAHAGIAN VIIA PERLUASAN FUNGSI-FUNGSI, DLL., LEMBAGA PELABUHAN KEPADA PELABUHAN-PELABUHAN LAIN Kuasa 66A. (1) Menteri boleh, melalui perintah yang Menteri disiarkan dalam Warta, memperluaskan fungsi- memperluas- kan fungsi fungsi, kuasa-kuasa, tugas-tugas dan bidang kuasa Lembaga Lembaga kepada pelabuhan-pelabuhan lain. kepada pelabuhan lain. (2) Suatu perintah yang dibuat di bawah subseksyen (1) boleh memperuntukkan bahawa Lembaga hendaklah, dalam menjalankan pentadbiran pelabuhan yang kepadanya kawalan Lembaga diperluaskan, memasukkan antara ahlinya mana-mana orang lain sebagaimana yang ditentukan dalam perintah itu sama ada melalui nama atau jawatan. (3) Jika suatu perintah dibuat di bawah subseksyen (1), Lembaga hendaklah bagi segala maksud disifatkan sebagai lembaga pelabuhan berkenaan dengan pelabuhan yang disebutkan dalam perintah itu seolah-olah ia adalah suatu lembaga pelabuhan yang ditubuhkan berkenaan dengan pelabuhan itu di bawah Akta ini dan hendaklah dalam menjalankan fungsi-fungsinya digelar dengan nama yang diperuntukkan dalam perintah itu. 66B. Lembaga dalam menjalankan fungsi- fungsinya berkenaan dengan pelabuhan yang kepadanya fungsi-fungsi itu diperluaskan hendaklah menjalankannya seolah-olah ia suatu lembaga pelabuhan yang bebas yang ditubuhkan berkenaan dengan pelabuhan itu. 66c. Perintah Menteri di bawah seksyen 66A boleh mengandungi segala peruntukan yang dianggap oleh Menteri sebagai perlu untuk membolehkan Lembaga menjalankan fungsi- fungsinya berhubungan dengan pelabuhan yang kepadanya fungsi-fungsi itu diperluaskan. 66D. Bagi maksud-maksud Bahagian ini, \"pelabuhan\" ertinya pelabuhan Persekutuan atau tempat yang diisytiharkan sebagai pelabuhan Persekutuan oleh undang-undang Persekutuan.\"."
       }
     }
   ]

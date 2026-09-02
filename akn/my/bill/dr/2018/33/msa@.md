@@ -22,6 +22,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 2. Akta Pentadbiran Undang-Undang Islam (Wilayah-Wilayah Persekutuan) 1993 [Akta 505], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam perenggan 7(2)(f) dengan menggantikan perkataan “sekolah-sekolah Islam” dengan perkataan “sekolah agama Islam”.
 
+<!-- marginal: WJW012507 BM.indd 1 -->
+
 <!-- marginal: 07/12/2018 11:37 AM -->
 
 <!-- page 2 -->
@@ -78,6 +80,8 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Pentadbiran Undang-Undang Is
 
 5. Fasal 4 bertujuan untuk meminda seksyen 99 Akta 505. Subfasal 4(b) bertujuan untuk memberi Yang di-Pertuan Agong kuasa, atas nasihat Majlis, untuk membuat kaedah-kaedah mengenai pendaftaran dan pengawalseliaan sekolah agama Islam dan aktiviti yang berhubungan dengan pengajaran dan pembelajaran agama Islam. Subfasal 4(c) bertujuan untuk memasukkan subseksyen baharu 99(2) untuk memberi Yang di-Pertuan Agong kuasa, atas nasihat Majlis, untuk menetapkan kesalahan dan penalti bagi kesalahan itu iaitu denda tidak melebihi lima ribu ringgit atau pemenjaraan selama tempoh tidak melebihi tiga tahun atau kedua-duanya dalam mana-mana kaedah-kaedah yang dibuat di bawah Akta 505.
 
+<!-- marginal: WJW012507 BM.indd 3 -->
+
 <!-- marginal: 07/12/2018 11:37 AM -->
 
 <!-- page 4 -->
@@ -87,5 +91,7 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Pentadbiran Undang-Undang Is
 Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini.
 
 <!-- marginal: [PN(U2)3134] -->
+
+<!-- marginal: WJW012507 BM.indd 4 -->
 
 <!-- marginal: 07/12/2018 11:37 AM -->

@@ -24,23 +24,67 @@ D.R. 21/2007
 
 ## PENGIKTIRAFAN UNDANG-UNDANG MESEJ ELEKTRONIK
 
-10. Pengiktirafan undang-undang mesej elektronik 11. Pembentukan dan kesahan kontrak
+10. Pengiktirafan undang-undang mesej elektronik
+
+11. Pembentukan dan kesahan kontrak
 
 ## BAHAGIAN IV
 
 ## MEMENUHI KEHENDAK UNDANG-UNDANG MELALUI CARA ELEKTRONIK
 
-12. Tulisan 13. Tandatangan
+12. Tulisan
+
+13. Tandatangan
 
 <!-- page 2 -->
 
-14. Meterai 15. Saksi 16. Asal 17. Salman diakui sah 18. Salinan 19. Pengemukaan dokumen 20. Bentuk yang ditetapkan 21. Kehendak untuk mengeluarkan lesen, permit, kelulusan, kebenaran, dsb. 22. Penyimpanan dokumen 23. Daftar elektronik 24. Penyampaian dan penyerahan 25. Penyampaian ke diri 26. Pembayaran 27. Resit
+14. Meterai
+
+15. Saksi
+
+16. Asal
+
+17. Salman diakui sah
+
+18. Salinan
+
+19. Pengemukaan dokumen
+
+20. Bentuk yang ditetapkan
+
+21. Kehendak untuk mengeluarkan lesen, permit, kelulusan, kebenaran, dsb.
+
+22. Penyimpanan dokumen
+
+23. Daftar elektronik
+
+24. Penyampaian dan penyerahan
+
+25. Penyampaian ke diri
+
+26. Pembayaran
+
+27. Resit
 
 ## BAHAGIAN V
 
 ## KOMUNIKASI MESEJ ELEKTRONIK
 
-28. Anggapan mesej elektronik 29. Kandungan mesej elektronik 30. Setiap mesej elektronik dianggap berasingan 31. Masa pengiriman 32. Masa penerimaan 33. Tempat pengiriman 34. Tempat penerimaan 35. Pengakuterimaan
+28. Anggapan mesej elektronik
+
+29. Kandungan mesej elektronik
+
+30. Setiap mesej elektronik dianggap berasingan
+
+31. Masa pengiriman
+
+32. Masa penerimaan
+
+33. Tempat pengiriman
+
+34. Tempat penerimaan
+
+35. Pengakuterimaan
 
 ## BAHAGIAN VI
 

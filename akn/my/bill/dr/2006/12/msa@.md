@@ -30,7 +30,11 @@
 
 ## PENYIASATAN
 
-10. Petisyen bagi memulakan suatu penyiasatan 11. Keperluan bagi suatu petisyen bertulis 12. Penarikan balik petisyen sebelum memulakan suatu penyiasatan
+10. Petisyen bagi memulakan suatu penyiasatan
+
+11. Keperluan bagi suatu petisyen bertulis
+
+12. Penarikan balik petisyen sebelum memulakan suatu penyiasatan
 
 <!-- page 2 -->
 
@@ -680,4 +684,4 @@ semula keadaan tidak lewat daripada pertengahan tempoh langkah untuk mengekalkan
 
 Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini.
 
-[PN(U2)2376]
+<!-- marginal: [PN(U2)2376] -->

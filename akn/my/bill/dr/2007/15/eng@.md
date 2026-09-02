@@ -550,7 +550,9 @@ Provided that—
 
 Provided that this subsection shall not apply for the purpose of an application for an investment tax allowance under this Act.
 
-(3) Where the Minister is satisfied with the reasons for the surrender of such status or certificate under subsection (1) or (2), the Minister may grant it retrospectively, and the surrender shall have effect—
+(3) Where the Minister is satisfied with the reasons for the surrender of such status or certificate under subsection
+
+(1) or (2), the Minister may grant it retrospectively, and the surrender shall have effect—
 
 (a) from the date the pioneer status is granted; or
 
@@ -650,9 +652,7 @@ Provided that in the case of a company that is already operating in Malaysia, su
 
 21H. (1) This section shall apply to a company which has been granted pioneer status under subsection 6(1AE), provided that an application under subsection 5(1DB) is received on or after a date as prescribed in the statutory order published in the Gazette.
 
-(2) Subject to any condition which may be specified in the pioneer certificate of a company issued under section 7, for the purpose of computation of income during the tax relief period in respect of subsection (1), subsections 21E
-
-(2), (3), (4) and (5) shall apply mutatis mutandis.
+(2) Subject to any condition which may be specified in the pioneer certificate of a company issued under section 7, for the purpose of computation of income during the tax relief period in respect of subsection (1), subsections 21E (2), (3), (4) and (5) shall apply mutatis mutandis.
 
 ### Computation of income during tax relief period in respect
 
@@ -664,9 +664,7 @@ Provided that in the case of a company that is already operating in Malaysia, su
 
 21I. (1) This section shall apply to a company which has been granted pioneer status under subsection 6(1AF), provided that an application under subsection 5(1DC) is received on or after a date as prescribed in the statutory order published in the Gazette.
 
-(2) Subject to any condition which may be specified in the pioneer certificate of a company issued under section 7, for the purpose of computation of income during the tax relief period in respect of subsection (1), subsections 21E
-
-(2), (3), (4) and (5) shall apply mutatis mutandis.
+(2) Subject to any condition which may be specified in the pioneer certificate of a company issued under section 7, for the purpose of computation of income during the tax relief period in respect of subsection (1), subsections 21E (2), (3), (4) and (5) shall apply mutatis mutandis.
 
 ### Computation of income during tax relief period in respect
 
@@ -1040,7 +1038,9 @@ Provided that—
 
 (c) by inserting after subsection (3) the following subsection:
 
-"(4) In exercising his powers under subsections (1), (2) and (3), the Minister shall act with the concurrence in writing of the Minister of Finance.".
+"(4) In exercising his powers under subsections (1),
+
+(2) and (3), the Minister shall act with the concurrence in writing of the Minister of Finance.".
 
 <!-- page 37 -->
 
@@ -1116,9 +1116,7 @@ was deemed as a promoted activity or promoted product under section 4E, the appr
 
 Provided that where the Minister is satisfied that the company was engaged in an activity or had otherwise incurred capital expenditure in relation thereto, from a date prior to the date from which the activity or product was deemed as a promoted activity or promoted product under section 4F, the approval may be granted on the first day capital expenditure is incurred and that date shall not be earlier than the date the application is received by the Minister.
 
-(2) In relation to hotel business and tourist project, approval shall be granted retrospectively under subsection
-
-(1) from a date not earlier than the date from which the company has incurred capital expenditure in relation thereto, but not earlier than three years from the date the application under subsection 26K(1) is received by the Minister.
+(2) In relation to hotel business and tourist project, approval shall be granted retrospectively under subsection (1) from a date not earlier than the date from which the company has incurred capital expenditure in relation thereto, but not earlier than three years from the date the application under subsection 26K(1) is received by the Minister.
 
 <!-- page 40 -->
 
@@ -1202,7 +1200,13 @@ Provided that —
 
 (a) by substituting for subsection ( 1 ) the following subsection:
 
-"(1) Where a company which has been granted an approval under section 27, 27A, 27B, 27C, 27D, 27E, 27F, 27G, 27H, 27K 27J, 27K, 27L, 27M, 27N or 27o fails to comply with any of the terms or conditions imposed under subsection 27(1), (1A), (2), 27A(1), (2), 27B(1), (2), 27c(l), (2), 27D(1), (2), 27E(1), (2), 27F(1), (2), 27G(1), (2), (3), 27H(1), (2), 27i(l), (2), 27J(1), (2), 27K(1), (2), (3), 27L(1), (2), 27M(1), (2), 27N(1), (2), 27o(l), (2) or with any other provisions of this Act, the Minister shall by notice in writing require the company within thirty days from the date of service of the notice to show cause why the approval should not be withdrawn."; and
+"(1) Where a company which has been granted an approval under section 27, 27A, 27B, 27C, 27D, 27E, 27F, 27G, 27H, 27K 27J, 27K, 27L, 27M, 27N or 27o fails to comply with any of the terms or conditions imposed under subsection 27(1), (1A), (2), 27A(1), (2), 27B(1), (2), 27c(l), (2), 27D(1), (2), 27E(1), (2), 27F(1),
+
+(2), 27G(1), (2), (3), 27H(1), (2), 27i(l), (2), 27J(1),
+
+(2), 27K(1), (2), (3), 27L(1), (2), 27M(1), (2), 27N(1),
+
+(2), 27o(l), (2) or with any other provisions of this Act, the Minister shall by notice in writing require the company within thirty days from the date of service of the notice to show cause why the approval should not be withdrawn."; and
 
 (b) by substituting for subsection (2) the following subsection:
 

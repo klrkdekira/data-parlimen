@@ -1,0 +1,2125 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-18-2025",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_46",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_48"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Fisheries (Amendment) Bill 2025."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_1__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_10__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_10__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 9 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_10__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_10__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_10__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_10__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “construction” the words “or procurement”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_10__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_10__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “other information” the words “other information including matters in respect of the safety, comfort and sanitation on the vessel”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(1a) The Director General may from time to time issue any specification and general layout of new fishing vessel to any owner and the owner shall comply with such specification and general layout.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_10__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_10__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_10__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_10__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “construction” the words “or procurement”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_10__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_10__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “and tonnage” the words “, tonnage, engine, safety, comfort and sanitation”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_10__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by inserting after the words “not constructed” the words “or not procured”. Amendment of section 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 10(4)(a) of the principal Act is amended by substituting for the words “by notice in the Gazette issue directions in relation to” the words “issue written directions in relation to”. New section 10a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 10 the following section: “Landing, transhipment etc., activities involving local fishing vessel 10a. (1) No owner, master or member of the crew of any local fishing vessel shall— (a) land any fish at any base or port in or outside Malaysia other than the Malaysian base or port specified in the licence issued in respect of such local fishing vessel; (b) unload or take supplies, fuel or bait at any base or port in or outside Malaysia other than the Malaysian base or port specified in the licence issued in respect of such local fishing vessel; (c) carry out a transhipment activity in Malaysian fisheries waters or on the high seas in any circumstances other than those activities licensed under this Act; or (d) carry out vessel maintenance or repair outside of Malaysian fisheries waters, unless if such person obtains written approval from the Director General. (2) Any person who contravenes subsection (1) shall be guilty of an offence.”. Amendment of section 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_13__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 13 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (2)(c), by inserting after the words “or safety” the words “, comfort and sanitation”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsection: “(3a) Any person whose licence is cancelled under subsection (3) shall not be allowed to make any application for a new licence within the period of not more than five years from the date such licence is cancelled.”. New section 13a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 13 the following section: “Return of licence and notification of location of fishing vessel 13a. (1) When a licence is cancelled or deemed to be cancelled, the licensee shall, within fourteen days after the licence is cancelled or deemed to be cancelled— (a) return the licence and the fishing vessel identification marking to the Director General; and (b) notify the location of that vessel, in any form or manner as the Director General may determine. (2) Any person who contravenes subsection (1) shall be guilty of an offence.”. Amendment of section 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_15__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_15__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 14 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “(1) Any licence issued under this Part shall, unless suspended or cancelled or unless otherwise specified in such licence, be valid for a period— (a) not more than twelve months for local fishing vessel operating in Malaysian fisheries waters; and (b) not more than twenty-four months for local fishing vessel operating on the high seas, from the date of issuance of such licence.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_15__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_15__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_15__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_15__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the words “or tonnage” the words “, tonnage, engine or any identification”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_15__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_15__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (a) the following paragraph: “(aa) Any person who damages any identification of a licensed fishing vessel or any identification of a licensed fishing appliance shall be guilty of an offence.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_15__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for paragraph (b) the following paragraph: “(b) Any owner, master or every member of the crew of the fishing vessel using any letters, numbers or other means of identification other than the letters, numbers or other means of identification as assigned to the fishing vessel shall be guilty of an offence and may be prosecuted separately.”. Amendment of section 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_16__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_16__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 15 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (1)(a), by deleting the words “or attempt to fish”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: “(2) No owner, master or member of the crew of any foreign fishing vessel in Malaysian fisheries waters shall— (a) load or unload any fish, supplies, fuel or bait; (b) carry out the activity of transhipment; or (c) carry out any maintenance activity or any other activity, in any circumstances in relation to any fishing vessel or conveyance or any base or port except with the written approval of the Director General.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_16__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: “(3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence.”. Amendment of section 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_17__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_17__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 16 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “telex or facsimile” the words “facsimile or any means of official electronic communication”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 4(b), by inserting after the word “fulfilled” the words “and the master of the foreign fishing vessel shall notify an authorized officer by radio, facsimile or any means of official electronic communication in the English or Malay Language”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_17__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (4) the following subsection: “(5) Any person who contravenes subsection (3) or (4) shall be guilty of an offence.”. Deletion of section 20"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 20. Amendment of section 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 25(b) of the principal Act is amended by substituting for the words “twenty thousand ringgit” the words “one hundred thousand ringgit”. Amendment of section 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Fisheries (Amendment) Act 2025."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette and the Minister may appoint different dates for the coming into operation of different provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (2), section 26 of this Act shall not come into operation in any State in Malaysia until it has been adopted by a law made by the Legislature of that State. Amendment of long title"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Fisheries Act 1985 [Act 317], which is referred to as the “principal Act” in this Act, is amended in the long title—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_20__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_20__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 26 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “(1) Any person who— (a) uses or attempts to use any explosive, poison or pollutant, or part thereof, or any substance suspected to be capable of being used as explosive, poison or pollutant, or any apparatus utilizing an electric current or part thereof, or any prohibited gear or part thereof, for the purpose of killing, stunning, disabling or catching fish, or in any other way rendering such fish to be more easily caught; (b) carries or has in his possession or under his control any explosive, poison or pollutant, or part thereof, or any substance suspected to be capable of being used as explosive, poison or pollutant, or any apparatus utilizing an electric current or part thereof, or any prohibited gear or part thereof, for the purpose of using the explosive, poison or pollutant, substance or apparatus, or prohibited gear, or part thereof, for any of the purposes referred to in paragraph (a); or (c) carries, receives or has in his possession or under his control any fish caught using explosive, poison or pollutant, or part thereof, or any substance suspected to be capable of being used as explosive, poison or pollutant, or any apparatus utilizing an electric current or part thereof, or any prohibited gear or part thereof, shall be guilty of an offence and liable to a fine not exceeding two hundred and fifty thousand ringgit or a term of imprisonment not exceeding five years or both.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by inserting after the words “apparatus or gear” the words “, or part thereof”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_20__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsections: “(3) Where packages or receptacles containing fish specified in paragraph (1)(c) have been seized, it shall be sufficient to open and examine one per centum or not less than five samples of each description of the package or receptacle in which such fish is contained. (4) If it is necessary to test any fish specified under paragraph (1)(c) which has been seized, it shall be sufficient to test only a sample not exceeding five per centum in volume or weight of the fish examined under subsection (1). (5) The court shall presume that the fish contained in the unopened packages or receptacles are of the same nature, quantity and quality as those found in the similar packages or receptacles which have been opened.”. Amendment of section 27"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_21__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 27 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_21__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_21__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_21__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_21__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “or take” the words “, kill, take, possess, sell, buy, export, transport or keep”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_21__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_21__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “turtle” the words “or any of its part or derivative”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by substituting for the words “five thousand ringgit” the words “two hundred and fifty thousand ringgit.”. Amendment of section 29"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 29 of the principal Act is amended by substituting for the words “turtle, fishing appliance, explosives, poison, pollutant, apparatus, prohibited gear” the words “turtle including its part or derivative, fishing appliance, explosives, poison or pollutant, or part thereof, substance suspected to be capable of being used as explosives, poison or pollutant, apparatus or part thereof, prohibited gear or part thereof,”. Substitution of section 31"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 31 the following section: “Compounding of offences 31. (1) The Minister may, with the approval of the Public Prosecutor, make regulations prescribing— (a) any offence under this Act as an offence which may be compounded; and (b) the method and procedure for compounding such offence. (2) The Director General may, with the consent in writing of the Public Prosecutor, at any time before a prosecution is being instituted, compound any offence prescribed as an offence which may be compounded by making a written offer to the person reasonably suspected of having committed the offence to compound the offence upon payment to the Director General of a sum of money not below one hundred ringgit and not exceeding the maximum fine to which the person would have been liable to if he had been convicted of the offence within such time as may be specified in the written offer. (3) A written offer under subsection (2) may be made at any time after the offence has been committed but before any prosecution for it has been instituted, and where the amount specified in the offer is not paid within the time specified in the offer or within such extended time as the Director General may grant, prosecution for the offence may be instituted at any time after that against the person to whom the offer was made. (4) Where any offence committed under this Act has been compounded in accordance with this section, the Director General shall direct that any article of a perishable nature which is the subject matter of any offence be sold and the proceeds of the sale forfeited. (5) All sums of money received by the Director General under this section shall be paid into the Federal Consolidated Fund. (6) Any offence committed in contravention of paragraph 8(a), subsection 11(3), 11(3a), 15(1), 15(2) or 19(5), or section 16, 26 or 44 is not compoundable. (7) Notwithstanding subsection (6), the Director General may compound any offence under paragraph 8(a), subsection 11(3) or 11(3a) where the fishing appliance relating to which such offence is committed is a traditional fishing appliance. (8) Where a fishing appliance is the subject matter of any offence compounded under subsection (2), such fishing appliance may be confiscated and disposed of as directed by the Director General.”. Amendment of section 34"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 34 of the principal Act is amended by substituting for the words “vessel, vehicle” wherever appearing the words “fishing vessel, conveyance”. Amendment of section 37"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_25__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_25__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_25__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_25__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_25__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 37 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_25__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words “development and management” the words “development, management, protection and conservation”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_25__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “in consultation with the State Authority concerned, promote the development and rational management” the words “after consultation with the State Authority concerned, promote the rational development, management, protection and conservation”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_25__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (d), by deleting the word “and” at the end of the paragraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_25__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (e), by substituting for the full stop at the end of the paragraph the words “; and”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_25__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (e) the following paragraph: “(f) the provision of conservation of an area or species.”. Amendment of section 38"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26__para_j"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 38(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “Federal Territories of Kuala Lumpur and Labuan” wherever appearing the words “Federal Territories of Kuala Lumpur, Labuan and Putrajaya”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “development, management” the words “development, management, research”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the words “and management” the words “, management, conservation and research”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (d), by substituting for the words “traps or nets” the words “fishing appliance”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, in paragraph (e), by substituting for the word “senggaraan” the word “penyelenggaraan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (f), by substituting for the words “or sport” the words “, sport or recreational fishing”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (g), by inserting after the words “certain species of fish” the words “or minimum weight and size of fish”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (l), by deleting the word “and” at the end of the paragraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26__para_i__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26__para_i__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (m)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26__para_i__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26__para_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “development, management” the words “development, management, research”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26__para_i__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26__para_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the full stop at the end of the paragraph a semicolon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (m) the following paragraphs: “(n) to prescribe prohibited areas for the purposes of conservation and management of turtle and inland fisheries; and (o) to regulate fish release activity in order to prevent the release of species which does not originate from any part of Malaysia or from the Malaysian fisheries waters.”. Amendment of section 39"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 39 of the principal Act is amended by substituting for the words “in consultation” the words “after consultation”. Substitution of section 41"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 41 the following section: “Declaration of marine park or marine reserve 41. (1) The Minister may, upon the advice of the National Advisory Council for Marine Park and Marine Reserve, by order published in the Gazette— (a) declare any area or part of an area in Malaysian fisheries waters identified as an ecologically or biologically important area and which has a high conservation importance as marine park and marine reserve to— (i) afford special protection to the aquatic flora and fauna of such area or part thereof and to manage, protect, preserve and control the natural breeding grounds and habitat of aquatic life, with particular regard to species of rare or endangered flora and fauna; (ii) allow for the natural regeneration of aquatic life in such area or part thereof where such life has been depleted; (iii) promote scientific study research, monitoring and education in respect of such area or part thereof; (iv) preserve and enhance the natural state and productivity of such area or part thereof; and (v) regulate recreational and other activities in such area or part thereof to avoid irreversible damage to its environment; (b) revoke the declaration of any area or part of an area of the marine park or marine reserve, provided that such area or part of such area of the marine park or marine reserve shall be replaced by an area with the size and ecosystem equivalent to it. (2) For purposes of paragraph (1)(b), the Minister shall, upon the advice of the National Advisory Council for Marine Park and Marine Reserve, by order published in the Gazette, declare the replaced area as the marine park or marine reserve. (3) The order under subsection (2) shall be published in the Gazette together with the order under paragraph (1)(b).”. Amendment of section 41a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 41a of the principal Act is amended by substituting for subsection (2) the following subsection: “(2) The National Advisory Council for Marine Park and Marine Reserve shall consist of the following members to be appointed by the Minister: (a) the Secretary General of the Ministry charged with the responsibility for fisheries; (b) a representative of the State Government concerned; (c) a representative of the Ministry charged with the responsibility for finance; (d) a representative of the Ministry charged with the responsibility for environment; (e) a representative of the Ministry or Agency charged with the responsibility for tourism; (f) a representative of the Department or Agency charged with the responsibility for national security; (g) a representative of the Marine Department of Malaysia; (h) a representative of the Department of Fisheries of Malaysia; (i) a representative of the Department of Wildlife and National Parks (PERHILITAN); (j) a representative of the public university or research institute or a person who has knowledge and experience in relation to research matter; (k) a representative of the non-governmental organization; (l) a representative of the State parks; and (m) any other member to be appointed from time to time.”. Amendment of section 41b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “management” the words “, aquaculture, research, expansion”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “in Malaysian fisheries waters,” the words “the assurance of safety and quality of fish and fish products”. Amendment of preamble"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended in the preamble—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_30__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_30__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_30__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 41b of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_30__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the words “the guideline” the words “the management plans and guideline”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_30__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (a) the following paragraph: “(aa) to declare and revoke the declaration of any area or part thereof in the Malaysian fisheries waters as a marine park or marine reserve;”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_30__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, in paragraph (c), by substituting for the word “teknik” the word “teknikal”. Amendment of section 43"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_31__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_31__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 43 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_31__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_31__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_31__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_31__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_31__para_a__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_31__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_31__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by deleting the words “or attempts to fish”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_31__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_31__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, in paragraph (c), by substituting for the words “tapak pembiak-baik semulajadi” the words “tapak pembiakan semula jadi”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_31__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_31__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (d), by inserting after the word “constructs” the words “, installs, puts”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_31__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_31__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “an offence” the words “and liable to a fine not less than one thousand ringgit and not exceeding one million ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_31__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(1a) The Director General may issue a notice in writing to direct any person who has committed an offence under paragraph (1)(d) in a marine park or marine reserve area to remove any building or other structure within such time as specified in the notice and any cost for the removal shall be borne by such person.”. Amendment of section 46"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_32__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_32__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_32__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_32__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_32__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 46 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_32__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the words “any vessel within Malaysian fisheries waters” the words “any fishing vessel or conveyance within Malaysian fisheries waters or on the high seas”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_32__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (b) the following paragraph: “(b) stop, board and search, and inspect any fishing vessel or conveyance transporting or capable of transporting fish, whether within Malaysian fisheries waters, on the high seas or on land;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_32__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by inserting after the words “Malaysian fisheries waters” the words “, on the high seas”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_32__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (d), by inserting after the words “Malaysian fisheries waters” the words “or on the high seas”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_32__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (e), by substituting for the words “inspect any licence, permit” the words “require to be produced and inspect any licence, permit, permission”. Amendment of section 47"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_33__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_33__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_33__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_33__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_33__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 47(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_33__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the words “any fish found in any vessel or vehicle” the words “any fish found in any fishing vessel or conveyance”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_33__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_33__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_33__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (d)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_33__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_33__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “vessel” the words “fishing vessel or conveyance”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_33__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_33__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words “, or any vehicle”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_33__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_33__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_33__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (f)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_33__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_33__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “prohibited gear” the words “or part thereof”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_33__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_33__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word “or” at the end of the paragraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_33__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (g), by substituting for the full stop at the end of the paragraph the words “; or”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_33__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (g) the following paragraph: “(h) seize any licence, permit, permission, device, computer, record, certificate or any other document required under this Act or under any generally accepted international rules and standards.”. Amendment of section 47d"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 47d of the principal Act is amended by inserting after subsection (2) the following subsection: “(3) For the purposes of subsection (1), the period of detention shall not exceed twenty-four hours exclusive of the time necessary for the journey from the place of arrest to the Magistrates’ Court.”. Amendment of section 48"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_35__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_35__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_35__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 48 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_35__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by inserting after the word “Sale” the words “or disposal”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_35__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(1a) The Director General may dispose any fish of a kind inappropriate for sale seized under this Act, in such manner as he thinks fit, and any cost incurred for the disposal shall be borne by the owner.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_35__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: “(2) The Government of Malaysia shall not be liable to any person for— (a) any deterioration, howsoever caused, in the quality of any fish or other article; or (b) the disposal of any fish, seized under this Act.”. Amendment of section 49"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 49 of the principal Act is amended by substituting for the words “vessel, vehicle” wherever appearing the words “fishing vessel, conveyance”. Amendment of section 50"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_37__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_37__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_37__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 50 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_37__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the word “vessel” the words “fishing vessel”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_37__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “vessel, vehicle” wherever appearing the words “fishing vessel, conveyance”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_37__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “vessel (including its equipment, furniture, appurtenances, stores, cargo and fishing appliance), vehicle” the words “fishing vessel, convenyance”. Amendment of section 51"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_38__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_38__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 51 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_38__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the word “vessel” the words “fishing vessel”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_38__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “vessel, vehicle” wherever appearing the words “fishing vessel, conveyance”. New section 51a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 51 the following section: “No costs or damages arising from seizure to be recoverable 51a. No person shall, in any proceedings before any court in respect of the seizure of any fishing vessel, conveyance, article or thing seized in the exercise or the purported exercise of any power conferred under this Act, be entitled to the costs of such proceedings or to any damages or other relief.”. Amendment of section 52"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “management” the words “, aquaculture, research, expansion”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “in Malaysian fisheries waters” the words “, the assurance of safety and quality of fish and fish products”. Amendment of section 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 1(1) of the principal Act is amended by substituting for the words “the Federal Territories of Kuala Lumpur and Labuan” the words “the Federal Territories of Kuala Lumpur, Labuan and Putrajaya”. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_40__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_40__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_40__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 52 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_40__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_40",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, in the marginal note, by substituting for the word “Rampasan” the word “Pelucuthakan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_40__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_40__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_40__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_40__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_40",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_40__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_40__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (a) the following paragraph: “(a) under paragraph 8(a) or 14(3)(b), subsection 11(3), 11(3a), 15(1), 15(2) or 19(5), or section 10a, 26 or 44; or”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_40__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_40__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (i), by substituting for the words “vessel (including its equipment, furniture, appurtenances, stores, cargo and fishing appliance), vehicle” the words “fishing vessel, conveyance”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_40__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_40__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subparagraph (ii) the following subparagraph: “(ii) order that any fish seized or the proceeds of the sale of any fish or other article of a perishable nature referred to in section 48, and any explosive, poison, pollutant, apparatus or prohibited gear, or part thereof, used or intended to be used in the commission of such offence be forfeited.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_40__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_40",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: “(2) Any fishing vessel, conveyance, article, thing, explosive, poison, pollutant, apparatus or prohibited gear, or part thereof, fish ordered to be forfeited under subsection (1) or deemed or ordered to be forfeited under section 49 shall be disposed of in accordance with such manner as the Director General may think fit.”. Substitution of section 53"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 53 the following section: “Obstruction of authorized officer 53. Any person who— (a) refuses any authorized officer access to any place, fishing vessel or conveyance which the authorized officer is entitled to have under this Act or any of its subsidiary legislation or in the execution of any duty imposed or power conferred by this Act; (b) assaults, obstructs, hinders or delays any authorized officer in effecting any entry which the authorized officer is entitled to effect under this Act or in the execution of any duty imposed or power conferred by this Act; or (c) refuses any authorized officer any information relating to an offence or suspected offence under this Act or any of its subsidiary legislation or any other information which may reasonably be required of him and which he has in his knowledge or power to give, shall be guilty of an offence.”. Deletion of section 55"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 55. New sections 56a, 56b and 56c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 56 the following sections: “Presumptive evidence 56a. Where the Director General or any person certified in writing by him to have special knowledge or skill in fisheries testifies in court under oath that any article or thing, as the case may be, is a fish, turtle including its part or derivative, fishing appliance, and any fish disease, fish breeding, fisheries management, fish genetic or fisheries forensic, it shall be presumed unless the contrary is proved that the article or thing, as the case may be, is a fish, turtle including its part or derivative, fishing appliance, and a fish disease, fish breeding, fisheries management, fish genetic or fisheries forensic. Protection against suit and legal proceedings 56b. No action shall lie or prosecution shall be brought, instituted or maintained in any court against— (a) an authorized officer for or on account of or in respect of any act done or purported to be done by him; and (b) any other person for or on account of or in respect of any act done or purported to be done by him under the order, direction or instruction of an authorized officer, if the act done in good faith and in a reasonable belief that it was necessary for the purpose intended to be served by it and for the carrying into effect the provisions of this Act. Prohibition of fisheries activity 56c. (1) The Director General may issue notice on prohibition of fisheries activity in any area where pollutant is found within the Malaysian fisheries waters for a period as he deems appropriate or until such area has recovered. (2) Subject to subsection (1), any person conducting fisheries activity at such area prohibited by the Director General shall be guilty of an offence. (3) For the purposes of this section, the Director General may issue any guidelines for the implementation of subsection (1).”. Amendment of section 57"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 57(2) of the principal Act is amended by substituting for the words “the mast of the vessel” the words “any part of the vessel which is easily visible or a copy of the document is advertised in any appropriate form and manner”. New section 57a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 57 the following section: “False declaration 57a. Any person who makes, orally or in writing, signs or furnishes any declaration, return, certificate or document or other information required under this Act which is untrue, inaccurate or misleading shall be guilty of an offence.”. Amendment of section 60"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 60 of the principal Act is amended in the national language text by substituting for the words “Air Leleh” wherever appearing the words “Ayer Leleh”. Amendment of section 61"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47__para_k"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 61 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “development” the words “, aquaculture, research, expansion”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “in Malaysian fisheries waters” the words “for the assurance of safety and quality of fish and fish products,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (k) the following paragraph: “(k) to prescribe any matter relating to fishing appliances and fishing stakes including any prohibition of method of fishing or fishing appliances;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (l) the following paragraph: “(l) to prohibit any act including catching, injuring, killing or possessing any species of fish;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (s), by inserting after the word “certificates” the words “, written approval”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (u), by inserting after the word “sport” the words “or recreation”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (x), by inserting after the words “management of” the words “fish or”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (ad), by substituting for the words “reserved to local fishing vessels and Malaysian fishermen” the words “reserved or zoned to local fishing vessels and Malaysian fishermen, sport or recreation”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, in paragraph (af), by substituting for the words “yang merbahaya” the word “terancam”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing paragraph (al) as paragraph (ap); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (ak) the following paragraphs: “(al) to prescribe the offences which may be compounded and the forms to be used and the method and procedure for compounding the offences for the purposes of section 31; (am) to provide for community based or ecosystem approach to fishery resource management; (an) to prescribe zone area for the management, conservation, research, development, maintenance, control and protection in Malaysian fisheries waters; (ao) to prescribe any matter in relation to fisheries expansion service;”. Saving and transitional"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_48",
+      "@type": "akn:clause",
+      "eli:number": "48",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_48__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_48__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_48__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_48__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_48__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_48",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any licences issued to a local fishing vessel operating in Malaysian fisheries waters before the date of the coming into operation of this Act shall, on the date of the coming into operation of this Act, be deemed to have been issued under this Act and be valid for the period as if the principal Act has been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_48__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_48",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any licences issued to a local fishing vessel operating on the high seas before the date of the coming into operation of this Act shall, on the date of the coming into operation of this Act, be deemed to have been issued under this Act until the date of the expiry of the licence as if the principal Act has not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_48__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_48",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any direction, determination, decision, written approval, notice, guideline and action made, issued, given or done by the Director General before the date of coming into operation of this Act shall, after the date of coming into operation of this Act, continue to be in force and have effect as if the principal Act has not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_48__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_48",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any investigation or proceedings commenced or pending before the date of coming into operation of this Act shall, after the date of coming into operation of this Act, be continued as if the principal Act has not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_m",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_n",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_o",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_p"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 2 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “owner” the following definition: ‘ “part or derivative” means any substantially complete or part or derivative of a fish or turtle, in natural form, stuffed, chilled, preserved, dried, processed or otherwise treated or prepared which may or may not be contained in preparations, and includes— (a) meat, bones, gland, skin, teeth, shell, scales, fin, claws, air-bladder and eggs; (b) tissue, blood, fat, oil, venom and excrete; (c) any compound derived from anything mentioned in paragraph (a) or (b); and (d) any thing which is claimed by any person, or which appears from an accompanying document, the packaging, a label or a mark or from any other circumstances, to contain a part or derivative of a fish or turtle;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “exclusive economic zone” the following definition: ‘ “export” means to take or cause to be taken out of Malaysia by land, sea, riverine waters or air, any fish, but does not include re-export;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “processing” the following definition: ‘ “re-export” means the export of any fish which has been previously imported;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, by deleting the definition of “empunya”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “fish”, by substituting for the words “or young, but does not include” the words “or young, or their part or derivative, but does not include”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “foreign fishing vessel” the following definition: ‘ “import” means to bring in or cause to be brought into Malaysia by land, sea, riverine waters or air, any fish other than fish in transit in Malaysia;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “territorial sea of Malaysia” the following definition: ‘ “territorial sea of Malaysia” means the territorial waters of Malaysia in accordance with the limit of territorial sea of Malaysia as provided for under section 3 of the Territorial Sea Act 2012 [Act 750];’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text, in the definition of “owner”—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_i__subpara_ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “includes any” the words “joint venture partner,”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_i__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_i__subpara_ii__subpara_i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “sub-lessee of the vessel” the words “, or beneficial owner of the vessel as defined in section 2 of the Companies Act 2016 [Act 777]”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_i__subpara_ii__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_i__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, by inserting after the definition of “pegawai perikanan darat” the following definition: ‘ “pemunya”, berhubungan dengan vesel penangkapan ikan, ertinya mana-mana orang atau kumpulan orang sama ada diperbadankan atau tidak diperbadankan, yang memiliki vesel itu dan termasuklah mana-mana pekongsi usaha sama, pencarter, subpencarter, penerima pajak atau subpenerima pajak vesel itu, atau pemunya benefisial vesel itu sebagaimana yang ditakrifkan dalam seksyen 2 Akta Syarikat 2016 [Akta 777];’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “authorized officer” the following definition: ‘ “conveyance” means any aircraft, vehicle, vessel other than fishing vessel or any other mode of transport whether by land, sea or air;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the new definition of “export” the following definition: ‘ “expansion” means expansion services and includes education process pertaining to government policies, training, technology transfer, innovation, demonstration, information and publicity conducted systematically;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “fishing appliance” the following definition: ‘ “fishing appliance” means any fishing appliance as prescribed under section 61 of this Act;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “traditional fishing appliance” the following definition: ‘ “traditional fishing appliance” means any fishing appliance as prescribed under section 61 of this Act operated— (a) without the use of a fishing vessel; (b) with the use of a non-motorized fishing vessel; or (c) with the use of a motorized fishing vessel of not more than forty gross registered tonnage;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_n",
+      "@type": "akn:paragraph",
+      "eli:number": "n",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “fish-aggregation device”, by deleting the words “for the purposes of fishing”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_o",
+      "@type": "akn:paragraph",
+      "eli:number": "o",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “traditional fishing appliance” the following definition: ‘ “transhipment” means transferring of fish, supplies, fuel or bait between fishing vessels or conveyances beyond the jurisdiction of the Customs Act 1967 [Act 235];’; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_p",
+      "@type": "akn:paragraph",
+      "eli:number": "p",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_p__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_p__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_p__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “local fishing vessel”—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_p__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_p",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a)(iv), by deleting the word “or” at the end of the paragraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_p__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_p",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (a) the following paragraph: “(aa) in relation to fishing on the high seas, which is not registered outside Malaysia and is owned by a company incorporated under the Companies Act 2016 which majority of the company’s shares are held by citizen of Malaysia who resides in Malaysia; or”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_p__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_5__para_p",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the words “or body corporate described under subparagraph (a)(i), (a)(ii), (a)(iii) or (a)(iv)” the words “, body corporate or company described under paragraph (a) or (aa)”. Amendment of section 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 3 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_6__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_6__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_6__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_6__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “management” the words “, aquaculture, research, expansion”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_6__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “in Malaysian fisheries water,” the words “the assurance of safety and quality of fish and fish products”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_6__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “Federal Territories of Kuala Lumpur and Labuan” the words “Federal Territories of Kuala Lumpur, Labuan and Putrajaya”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsections (3) and (4). New section 3a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 3 the following section: “Responsibility of Director General 3a. (1) The Director General shall be responsible for the general supervision of all matters relating to fisheries under this Act except, subject to subsection 3(1), matters relating to turtles and inland fisheries in the States of Malaysia. (2) The Director General may, in writing, delegate the exercise of any or all of the powers and functions conferred upon him by this Act to such fisheries officers or deputy fisheries officers as he may think fit. (3) The delegation under this section shall not preclude the Director General himself from performing or exercising any of the powers or duties so delegated at any time.”. Amendment of section 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_8__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_8__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 6 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, in the marginal note, by substituting for the word “Persediaan” the word “Penyediaan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “(1) The Director General shall prepare and make continuous revision of the fisheries plans based on the best scientific information available and designed to ensure sustainable utilization of fishery resources, consistent with responsible conservation and management principles and with the avoidance of overfishing, and in accordance with the overall national policies, development plans and programmes.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsections: “(2a) The Director General may develop any fisheries development and management plans in accordance with the fisheries plans. (2b) The preparation of fisheries plans and fisheries development and management plans may involve consultation with stakeholders as the Director General may think fit.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_8__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_8__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_8__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_8__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_8__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, by substituting for the word “kemajuan” the word “pembangunan”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_8__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_8__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “fisheries plans” the words “and the fisheries development and management plans”. New section 6a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 6 the following section: “Record, data and other information 6a. (1) The Director General may require any person to maintain and furnish any record, data or other information to support the development of fisheries plans and fisheries development and management plans in any form and manner as the Director General may determine and that person shall surrender such record, data or information when required to do so by the Director General. (2) Any person who contravenes subsection (1) shall be guilty of an offence.”. Amendment of section 9"
+      }
+    }
+  ]
+}

@@ -42,7 +42,9 @@ seksyen 2 dengan memasukkan selepas takrif "harta" takrif yang berikut:
 
 <!-- page 2 -->
 
-2 Rang Undang-Undang
+<!-- marginal: 2 -->
+
+Rang Undang-Undang
 
 (b) dengan menggantikan subseksyen (1) dengan subseksyen yang berikut:
 
@@ -64,7 +66,17 @@ seksyen 2 dengan memasukkan selepas takrif "harta" takrif yang berikut:
 
 4. Akta ibu adalah dipinda dengan memasukkan selepas seksyen 6 seksyen yang berikut:
 
-**TJ-Ketua 6A. (1) Menteri hendaklah, atas syor Lembaga, pegawai melantik seorang ketua pegawai eksekutif yang eksekutif. hendaklah bertanggungjawab bagi pentadbiran harian Lembaga.
+<!-- marginal: **TJ-Ketua -->
+
+6A. (1) Menteri hendaklah, atas syor Lembaga,
+
+<!-- marginal: pegawai -->
+
+melantik seorang ketua pegawai eksekutif yang
+
+<!-- marginal: eksekutif. -->
+
+hendaklah bertanggungjawab bagi pentadbiran harian Lembaga.
 
 (2) Pelantikan ketua pegawai eksekutif hendaklah diberitahukan dalam Warta.
 

@@ -6,7 +6,29 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-1. Short title and application. 2. Interpretation. 3. Power of Government to borrow from Fund. 4. Power to issue instruments including bonds. 5. Borrowing by statutory authority from Fund. 6. Application of loan moneys by statutory authority. 7. Power of the Government to guarantee loans by Fund to statutory authorities. 8. Restriction on borrowing powers of statutory authority so far as guarantee outstanding. 9. Powers exercisable by Government in event or prospect of default by statutory authority. 10. Statutory authority to repay to Government sums paid under guarantee. 11. Arbitration. 12. Implementation of obligations under the agreement.
+1. Short title and application.
+
+2. Interpretation.
+
+3. Power of Government to borrow from Fund.
+
+4. Power to issue instruments including bonds.
+
+5. Borrowing by statutory authority from Fund.
+
+6. Application of loan moneys by statutory authority.
+
+7. Power of the Government to guarantee loans by Fund to statutory authorities.
+
+8. Restriction on borrowing powers of statutory authority so far as guarantee outstanding.
+
+9. Powers exercisable by Government in event or prospect of default by statutory authority.
+
+10. Statutory authority to repay to Government sums paid under guarantee.
+
+11. Arbitration.
+
+12. Implementation of obligations under the agreement.
 
 <!-- page 3 -->
 
@@ -32,11 +54,7 @@ Fund for Agricultural Development) Act 1991.
 
 2. (1) In this Act, unless the context otherwise requires—
 
-"Consolidated Fund" means the Federal Consolidated Fund established by Article 97 of
-
-<!-- marginal: the Federal -->
-
-Constitution;
+"Consolidated Fund" means the Federal Consolidated Fund established by Article 97 of the Federal Constitution;
 
 "Fund" means the International Fund for Agricultural Development;
 
@@ -46,25 +64,49 @@ Constitution;
 
 <!-- page 4 -->
 
-Power of
+<!-- marginal: Power of -->
 
-3. (1) Subject to the provisions of the Federal Government to Constitution and this Act, the Government may in such borrow from Fund. manner and on such terms and subject to such conditions as may be agreed between the Government and the Fund borrow from the Fund from time to time such sums as may be required by the Government.
+3. (1) Subject to the provisions of the Federal
 
-(2) All moneys borrowed by the Government under subsection (1) shall be paid into the Development Fund and shall, notwithstanding section 3 of the Development Act 70 Fund Act 1966, be applied and are hereby appropriated to the purposes for which they were borrowed;
+<!-- marginal: Government to -->
+
+Constitution and this Act, the Government may in such
+
+<!-- marginal: borrow from -->
+
+<!-- marginal: Fund. -->
+
+manner and on such terms and subject to such conditions as may be agreed between the Government and the Fund borrow from the Fund from time to time such sums as may be required by the Government.
+
+(2) All moneys borrowed by the Government under subsection (1) shall be paid into the Development Fund and shall, notwithstanding section 3 of the Development
+
+<!-- marginal: Act 70 -->
+
+Fund Act 1966, be applied and are hereby appropriated to the purposes for which they were borrowed;
 
 Provided that where any part of such moneys cannot be applied to the purposes aforesaid such part may be applied to such other purposes as may be approved by the Minister and the Fund.
 
-(3) Any agreement between the Government and the Fund in respect of moneys borrowed under subsection
-
-(1) shall be made in the name of the Government of Malaysia and may be signed on behalf of the Government by the Minister or by any person authorized in writing by the Minister.
+(3) Any agreement between the Government and the Fund in respect of moneys borrowed under subsection (1) shall be made in the name of the Government of Malaysia and may be signed on behalf of the Government by the Minister or by any person authorized in writing by the Minister.
 
 (4) A copy of any agreement referred to in sub- section (3) shall as soon as practicable be laid before the Dewan Rakyat.
 
 (5) Nothing in this section shall affect or derogate from any other power to borrow possessed by the Government.
 
-Power to issue
+<!-- marginal: Power to issue -->
 
-4. (1) Notwithstanding anything contained in any instruments written law, the Government may issue such bonds, including bonds. promissory notes or other instruments on such terms and conditions as may be necessary for the purpose of giving effect to the terms of any agreement which may be entered into by it with the Fund in respect of any borrowing under section 3(1).
+4. (1) Notwithstanding anything contained
+
+<!-- marginal: in any -->
+
+<!-- marginal: instruments -->
+
+written law, the Government may issue such bonds,
+
+<!-- marginal: including -->
+
+<!-- marginal: bonds. -->
+
+promissory notes or other instruments on such terms and conditions as may be necessary for the purpose of giving effect to the terms of any agreement which may be entered into by it with the Fund in respect of any borrowing under section 3(1).
 
 <!-- page 5 -->
 
@@ -112,15 +154,39 @@ written law a statutory authority may issue such bonds, promissory notes and oth
 
 <!-- page 6 -->
 
-Application of
+<!-- marginal: Application of -->
 
-6. All moneys bcrrowed by a statutory authority under loan raoneys section 5(1) shall be applied by the statutory authority by statutory authority. for purposes for which they were borrowed:
+6. All moneys bcrrowed by a statutory authority under
+
+<!-- marginal: loan raoneys -->
+
+section 5(1) shall be applied by the statutory authority
+
+<!-- marginal: by statutory -->
+
+<!-- marginal: authority. -->
+
+for purposes for which they were borrowed:
 
 Provided that where any part of such moneys cannot be applied to the purposes aforesaid such part may be applied by the statutory authority to such other purposes as may be approved by the Minister and the Fund.
 
-Power of
+<!-- marginal: Power of -->
 
-7. (1) The Government may in such manner and on Government to such terms and subject to such conditions as may be guaraniee loans by Pund agreed between it and the Fund— to statutory authorities.
+7. (1) The Government may in such manner and on
+
+<!-- marginal: Government to -->
+
+such terms and subject to such conditions as may be
+
+<!-- marginal: guaraniee -->
+
+<!-- marginal: loans by Pund -->
+
+agreed between it and the Fund—
+
+<!-- marginal: to statutory -->
+
+<!-- marginal: authorities. -->
 
 (a) guarantee the discharge by a statutory authority of its obligations under any agreement which may be entered into by the statutory authority with the Fund in respect of any borrowing under section 5(1) or under any bond, promissory note or other instrument issued pursuant to any such agreement; and
 
@@ -202,11 +268,33 @@ the Yang di-Pertuan Agong may, by order, give or authorize any other person to g
 
 <!-- page 8 -->
 
-10. (1) If any money is paid out of the Consolidated Statutory authority to Fund in respect of any liability incurred by
+10. (1) If any money is paid out of the Consolidated
+
+<!-- marginal: Statutory -->
+
+<!-- marginal: authority to -->
+
+Fund in respect of any liability incurred by
 
 <!-- marginal: the -->
 
-repay to Government under a guarantee or other undertaking Government sums paid given in exercise of the powers conferred by section under 7(1), the statutory authority shall repay such sum guarantee. (together with interest thereon at the same rate as that payable on the loan under the agreement by
+<!-- marginal: repay to -->
+
+Government under a guarantee or other undertaking
+
+<!-- marginal: Government -->
+
+<!-- marginal: sums paid -->
+
+given in exercise of the powers conferred by section
+
+<!-- marginal: under -->
+
+7(1), the statutory authority shall repay such sum
+
+<!-- marginal: guarantee. -->
+
+(together with interest thereon at the same rate as that payable on the loan under the agreement by
 
 <!-- marginal: the -->
 
@@ -214,13 +302,27 @@ statutory authority with the Fund) to the Consolidated Fund in such manner and a
 
 (2) If any money is so paid out of the Consolidated Fund the Minister shall, as soon as possible after the end of each financial year beginning with that in which the money was paid and ending with that in which all liability in respect thereof and any interest payable thereon is finally discharged by the statutory authority concerned, lay before the Dewan Rakyat a statement relating thereto.
 
-Arbitration.
+<!-- marginal: Arbitration. -->
 
-11. If any dispute between the Fund on the one part and the Government or a statutory authority or both on the other part arises under any agreement concluded or guarantee or undertaking given in exercise of the powers conferred by this Act or under any bond, promissory note or such instrument issued pursuant to any such agreement, it shall be determined by arbitration in the manner agreed between the parties and any award made in such arbitration shall be enforceable in Malaysia in all respects as if it had been validly made in an arbitration under the Arbitration Act 93. Act 1952, or any other written law relating to arbitration for the time being in force in Malaysia and for the purposes of this section the provisions of such Act or law shatl be binding on the Government.
+11. If any dispute between the Fund on the one part and the Government or a statutory authority or both on the other part arises under any agreement concluded or guarantee or undertaking given in exercise of the powers conferred by this Act or under any bond, promissory note or such instrument issued pursuant to any such agreement, it shall be determined by arbitration in the manner agreed between the parties and any award made in such arbitration shall be enforceable in Malaysia in all respects as if it had been validly made in an arbitration under the Arbitration
 
-Implementation
+<!-- marginal: Act 93. -->
 
-12. (1) Subject to the Federal Constitution but of obligations notwithstanding anything contained in any other law, under the agreement. any agreement concluded with the Fund in respect of any borrowing authorized by section 3(1) or section 5(1) and any bond, promissory note or other instrument issued pursuant to any such agreement and any
+Act 1952, or any other written law relating to arbitration for the time being in force in Malaysia and for the purposes of this section the provisions of such Act or law shatl be binding on the Government.
+
+<!-- marginal: Implementation -->
+
+12. (1) Subject to the Federal Constitution but
+
+<!-- marginal: of obligations -->
+
+notwithstanding anything contained in any other law,
+
+<!-- marginal: under the -->
+
+<!-- marginal: agreement. -->
+
+any agreement concluded with the Fund in respect of any borrowing authorized by section 3(1) or section 5(1) and any bond, promissory note or other instrument issued pursuant to any such agreement and any
 
 <!-- page 9 -->
 
@@ -228,9 +330,7 @@ Implementation
 
 guarantee or undertaking given in respect of any such agreement, bond, promissory note or instrument by the Government or a statutory authority shall be valid and enforceable and have full force and effect in Malaysia in accordance with their respective terms.
 
-(2) Without prejudice to the generality of subsection
-
-(D)-
+(2) Without prejudice to the generality of subsection (D)-
 
 (a) the Minister may, by order published in the Gazette, provide that any tax or duty payable
 
@@ -264,9 +364,7 @@ made by the Fund to the Government or to a statutory authority.
 
 "external debt" means any debt payable in any medium other than currency which at the time in question is legal tender for the payment of private and public debt in Malaysia whether such debt is payable absolutely or at the option of the creditor in such other medium.
 
-(5) For the purposes of subsection (3), the assets of the Government include any right, interest or share which the Gpvernment has or may have in the Currency Fund or any part of the assets thereof, established under the Malay British Borneo Currency Agreement
-
-1950.
+(5) For the purposes of subsection (3), the assets of the Government include any right, interest or share which the Gpvernment has or may have in the Currency Fund or any part of the assets thereof, established under the Malay British Borneo Currency Agreement 1950.
 
 ## EXPLANATORY STATEMENT
 
@@ -288,7 +386,11 @@ This Bill seeks to enact a law to provide for the raising of loans from the Inte
 
 ## AGRICULTURAL DEYELOPMENT)
 
-6. Clause 5 empowers a statutory authority to borrow from the Fund with prior approval in writing from the Minister. It also makes provisions for the statutory authority to mortgage all or any of its property undertaking to secure any sum owing to the Fund and also to issue bonds, promissory notes and other insiruments to give effect to any agreement entered into by it with the Fund.
+6. Clause 5 empowers a statutory authority to borrow from the Fund with prior approval in writing from the Minister.
+
+<!-- marginal: It also -->
+
+makes provisions for the statutory authority to mortgage all or any of its property undertaking to secure any sum owing to the Fund and also to issue bonds, promissory notes and other insiruments to give effect to any agreement entered into by it with the Fund.
 
 7. Clause 6 sets out the application of loan moneys by the statutory authority.
 

@@ -64,6 +64,4 @@ This Bill seeks to amend the Offshore Insurance Act 1990 (the "Act").
 
 ## IMPLICATIONS
 
-This Bill will not invol ve the Government in any extra financial expenditure.
-
-<!-- marginal: [PN. (U2) 1984.] -->
+This Bill will not invol ve the Government in any extra financial expenditure. [PN. (U2) 1984.]

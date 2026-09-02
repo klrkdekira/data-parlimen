@@ -1,0 +1,756 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-32-2002",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_16"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Labuan Trust Companies (Amendment) Bill 2002"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 9(1) of the principal Act is amended by substituting for the word \"prescribed\" the words \"specified by the Registrar\". Amendment of section 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 10 of the principal Act is amended by inserting after subsection (4) the following subsections: \"(5) The Registrar may cancel the registration of any trust company, on such terms and conditions as may be specified by the Registrar, upon a request from the trust company for the cancellation. (6) The trust company under subsection (5) shall satisfy the Registrar that it has made adequate provision in respect of all its liabilities and shall also appoint a date on which the cancellation takes effect. (7) The trust company shall, not later than twenty-one days before the date appointed under subsection (6), publish an advertisement of the proposed cancellation of its registration in at least one widely circulated Malaysian newspaper and one international financial newspaper.\". Labuan Trust Companies (Amendment) 7 New section HA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 11 the following section: \"Application to High Court to facilitate agreement or arrangement to transfer the whole business of trust company being given effect to 11A. (1) Any trust company whose business is to be transferred (in this section referred to as \"the transferor\") and any other trust company to whom the transfer is to be made (in this section referred to as \"the transferee\") may make a joint application to the Court by way of an ex parte originating summons for such order of the Court as may be required by them to facilitate or enable the agreement or arrangement being given effect to. (2) On the hearing of an application under subsection (1), the Court may grant an order in the terms applied for, or with such modifications or ,variations as the Court deems just or proper in the circumstances of the case. (3) Where the order of the Court under subsection (1) provides for the transfer of any property or business vested in or held by the transferor, either alone or jointly with any other person, then, by virtue of the order, that property or business shall, on and from the transfer date, become vested in or held by the transferee either alone or, as the case may be, jointly with such other person, and the order shall have effect according to its terms notwithstanding anything in any law or in any rule of law, and shall be binding on any person thereby affected, regardless that the person so affected is not a party to the proceedings under this section or any other related proceedings, or had no notice of the proceedings under this section or other related proceedings. (4) The order of the Court made under subsection (1) shall, subject to the directions of the Court, be published by the transferee in at least one widely circulated Malaysian newspaper and one international financial newspaper. 8 Bill (5) The transferor shall lodge, within thirty days of the making of the order of the Court under subsection (1), an authenticated copy of such order together with an authenticated copy of the agreement or arrangement, with— (a) the Registrar; and (b) the appropriate authority, if any, concerned with the registration or recording of dealings in any movable property, or any interest in any movable property transferred pursuant to the order. (6) The Registrar, upon receipt of the documents mentioned in subsection (5), shall cancel the registration of the transferor as a trust company. (7) Where an order of the Court under subsection (1) vests any alienated land, or any share or interest in any alienated land, in the transferee — (a) the Court shall, where such alienated land is in Peninsular Malaysia, pursuant to subsection 420(2) of the National Land Code [Act 56/65], cause a copy of the order to be served on the Registrar of Titles or the Larid Administrator, as the case may be, immediately after the making of the order so that the Registrar of Titles or the Land Administrator, as the case may be, gives effect to the prbvisions of subsections 420(2), (3) and (4) of the Code; (b) where such alienated land is in Sabah, the transferee shall, as soon as practicable, after the order has been made, present an authenticated copy of such order to the Registrar for the registration of the vesting of the alienated land or of the share or interest in alienated land as provided for under the Land Ordinance of Sabah [Sabah Cap, 68]; or (c) where such alienated land is in Sarawak, the transferee shall, as soon as practicable after the order has been made, produce an authenticated copy of such order to the Registrar for the registration of the vesting of the alienated land or of the share or interest in alienated land in the transferee as provided for under section 171 of the Land Code of Sarawak [Sarawak Cap. 81]. (8) An order of the Court under subsection (1) may relate to any property or business of the transferor outside Malaysia and, if it so relates, effect may be given to it either in accordance with any reciprocal arrangements relating to enforcement of judgements that may exist between Malaysia and the country, territory or place outside Malaysia in which such property or business is, or where there are no such arrangements, in accordance with the law applicable in such country, territory or place. (9) For the purpose of this section— \"business\" means any activity carried on for the purpose of gain or profit and includes all property derived from, or used in or for the purpose of, carrying on such activity and all rights and liabilities arising from such activity; \"security\" includes a mortgage or charge, whether legal or equitable, debenture, bill of exchange, promissory note, guarantee, lien or pledge, whether actual or constructive, hypothecation, indemnity, undertaking or other means of securing payment or discharge of a debt or liability, whether present or future, or whether vested or contingent.\". Amendment of section 23"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 23 the following section: \"Secrecy 23. (1) No person shall without the written consent of the trust company or its customer concerned, disclose to any person any such information relating to the affairs of the trust company or the customer concerned except— (a) for the purpose of the performance of his duties or the exercise of his functions under this Act; (b) for the purpose of the performance of his duties within the scope of his employment; 10 Bill (c) when lawfully required to make such disclosure by any court or under the provisions of any law being enforced by the Registrar; or (d) for the purpose of the performance of the Registrar's supervisory functions as may be provided for under any written law. (2) The Registrar may, as may be permitted under the Labuan OffshoreFinancial Semces Authority Act 1996 [Act 545] or the Anti-Money Laundering Act 2001 [Act 613], provide any information relating to a trust company or a customer of a trust company to any domestic or foreign supervisory authority or law enforcement agency. (3) Any person who contravenes subsection (1) shall be guilty of an offence against this Act. Penalty: Thirty thousand ringgit or five years imprisonment or both.\". New sections 28 and 29"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 27 the following sections: \"Minister's power to exempt 28. The Minister may, on the recommendation of the Registrar and by notice in writing, subject to any condition that he may impose, exempt any person from all or any of the provisions of this Act. Non-application of certain existing provisions 29. Without prejudice to section 152 of the Offshore Companies Act 1990, the following provisions shall not apply to a trust company: (a) paragraphs7(3)(a) and (f) of the Offshore Companies Act 1990; (b) paragraph 7(3)(c) of the Offshore Companies Act 1990 where the trust company receives service fee in dealings with residents; and (c) subsection 147(2) of the Offshore Companies Act 1990 where the domestic company referred in that subsection does not provides legal, accpunting, book-keeping, managerial or resident director services to another domestic company.\". Transfer of business of trust company"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_9"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any company which is registered as a trust company before the commencement of this Act (in this section referred to as \"the transferor\") may, on and after the commencement of this Act, transfer its business as a trust company under the principal Act to another company registered as a trust company under the principal Act as amended by this Act (in this section referred to as \"the transferee\") by making a joint application to the Court by way of an ex parte originating summons for such order bf the Court as may be required by them to facilitate or enable the agreement or arrangemerit being given effect to."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "On the hearing of an application under subsection (1), the Court may grant an order in the terms applied for, or with such modifications or variations as the Court deems just or proper in the circumstances of the case."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the order of the Court under subsection (1) provides for the transfer of any property or business vested in or held by the transferor, either alone or'jointly with any other person, then, by virtue of th order, that property or business shall, on and from the transfer date, become vested in or held by the transferee either alone or, as the case may be, jointly with such other person, and the order shall have effect according to its terms notwithstanding anything in any law or in any rule of law, and shall be binding on any person thereby affected, regardless that the person so affected is not a party to the proceedings under this section or'any other related proceedings, or had no notice of the proceedings under this section or other related proceedings. 12 Bill"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The order 6f the Court made under subsection (1) shall, subject to the directions of the Court, be published by the transferee in at least one widely circulated Malaysian newspaper and one international financial newspaper."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The transferor shall lodge, within thirty days of the making of the order of the Court under subsection (1), an authenticated copy of such order together with an authenticated copy of the agreement or arrangement, with —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Registrar; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the appropriate authority, if any, concerned with the registration or recording of dealings in. any movable property, or any interest in any movable property transferred pursuant to the order."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Registrar, upon receipt of the documents mentioned in subsection (5), shall cancel the registration of the transferor as a trust company."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where an order of the Court under subsection (1) vests any alienated land, or any share or interest in any alienated land, in the transferee—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Court shall, where such alienated land is in Peninsular Malaysia, pursuant to subsection 420(2) of the National Land Code, cause a copy of the order to be served on the Registrar of Titles or the Land Administrator, as the case may be, immediately after the making of the order so that the Registrar of Titles or the Land Administrator, as the case may be, gives effect ,to the provisions of sub- sections 420(2), (3) and (4) of the Code;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where such alienated land is in Sabah, the transferee shall, as soon as practicable, after the order has been made, present an authenticated copy of such order to the Registrar for the registration of the vesting of the alienated land or of the share or interest in alienated land as provided for under the Land Ordinance of Sabah; or Labuan Trust Companies (Amendment)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where such alienated land is in Sarawak, the transferee shall, as soon as practicable after the order has been made, produce an authenticated copy of such order to the Registrar for the registration of the vesting of the alienated land or of the share or interest in alienated land, in the transferee, as provided for under section 171 of the Land Code of Sarawak."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An order of the Court under subsection (1) may relate to any property or business of the transferor outside Malaysia and, if it so relates, effect may be given to it either in accordance with any reciprocal arrangements relating to enforcement of judgments that may exist between Malaysia and the country, territory or place outside Malaysia in which such property or business is, or where there are no such arrangements, in accordance with the law applicable in such country, territory or place."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15__subsec_9",
+      "@type": "akn:subsection",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of this section— \"business\" means any activity carried on for the purpose of gain or profit and includes all property derived from, or used in or for the purpose of, carrying on such activity and all rights and liabilities arising from such activity; \"security\" includes a mortgage or charge, whether legal or equitable,debenture,bill of exchange,promissory note,guarantee, lien or pledge, whether actual or constructive, hypothecation, indemnity, undertaking or other means of securing payment or discharge of a debt or liability, whether present or future, or whether vested or contingent. Savings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_16__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any company incorporated under the Companies Act 1965 or that is registered as a foreign company under that Act and was registered as a trust company under subsection 4(1) of the principal Act immediately before the commencement of this Act shall coritinue to be registered as a trust'Company under that subsection until the transfer of its trust company business to another company registered under that subsection in accordance with the principal Act as amended by this Act. 14 Bill"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any inquiry, trial, or proceedings done, taken or commenced by any company incorporated under the Companies Act 1965 or that is registered as a foreign company under that Act and was registered as a trust company under subsection 4(1) immediately before the commencement of this Act may,be continued or concluded under and in accordance with the provisions of the principal Act as amended by this Act by that company or the company to which the trust company business of that company has been transferred and to which the inquiry, trial, or proceeding relates."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Labuan Trust Companies (Amendment) Act 2002."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall come into operation on a date to be appointed by the Minister by notification in the Gaiette. Amendment of long title"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Labuan Trust Companies Act 1990 [Act 442], which is referred to in this Act as the \"principal Act\", is amended in the long title by inserting after the words \"the registration of' the word \"offshore\". Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 2 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of \"carry on business\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"Court\" the following definition: ' \"director\" has the meaning assigned to it in the Offshore Companies Act 1990 [Act 441];'; Bill"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text, by substituting for the full stop at the end of the definition of \"trust company\" a semicolon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"trust company\" the following definition: \"trust company business\" means the business of carrying on any economic activity by a company as a trustee, agent, executor or administrator pursuant to the objects of the company and, without limiting the generality of the foregoing, includes —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_2__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "establishing or using a share transfer office or share registration office;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "administering, managing or otherwise dealing with property as an agent, legal personal representative or trustee, whether by servant or agent or otherwise;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "maintaining an agent for the purpose of soliciting or procuring business, whether or not the agent is continuously resident in Labuan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "maintaining an office, agency or branch, whether or not that office, agency or branch is also used for any purpose by another company;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_2__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_2__para_e__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the provision of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_2__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_2__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "management and accounting services to; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_2__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_2__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "directors, secretaries and registered offices for, offshore companies incorporated under the Offshore Companies Act 1990 and foreign offshore companies registered under that Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "incorporating or registering companies under the Offshore Companies Act 1990 and generally acting as a lodging agent for any document required to be lodged by a company or person under that Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_3__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "providing such other services as may be approved by the Registrar from time to time, to or on behalf of any person.'. Amendment of section 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 3(1) of the principal Act is amended by substituting for the words \"business as a trust company\" the words \"trust company business\". Amendment of section 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 4 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: \"(1) Any person incorporated or registered under the Offshore Companies Act 1990 may apply to the Registrar, in the prescribed form and accompanied by the prescribed fee, for registration to carry on trust company business in Labuan.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b__subpara_v",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b__subpara_vi",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b__subpara_vii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"No company incorporated under the Companies Act 1965, shall be considered for registration as a trust company unless-\" the words \"An application for registration under subsection (1) may be considered if -\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b__subpara_ii__subpara_B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b__subpara_ii__subpara_C"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"company\" the word \"applicant\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"five hundred thousand ringgit\" the words \", or its equivalent in any foreign currency,\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b__subpara_ii__subpara_C",
+      "@type": "akn:subparagraph",
+      "eli:number": "C",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"ten ringgit\" the words \", or its equivalent in that foreign currency,\"; Bill"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the word \"company\" wherever appearing the word \"applicant\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by inserting after the words \"one hundred and fifty thousand ringgit\" the words \"or its equivalent in any foreign currency\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (d) the following paragraph: \"(d) the applicant either— (i) has obtained, or will obtain any professional indemnity insurance policy with a coverage of not less than one million ringgit or its equivalent in any foreign currency or such other amount as may be determined by the Registrar, and remain indemnified under such policy throughout its operation as a trust company; or (ii) has deposited with the Registrar security to the value of one hundred thousand ringgit or such other amount as may be determined by the Registrar;\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b__subpara_vi",
+      "@type": "akn:subparagraph",
+      "eli:number": "vi",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (e) the following paragraph: \"(e) the applicant is able to meet its obligations including its liabilities to its shareholders; and\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b__subpara_vii",
+      "@type": "akn:subparagraph",
+      "eli:number": "vii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (e) the following paragraph: \"(f) the directors and officers of the applicant designated under subsection (3), who are responsible for the management of the trust company in Labuan, are fit and proper persons and remain as such throughout their appointment with the trust company.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (3) the following subsection: \"(3) A trust company shall have in Labuan — (a) its registered office; (b) a place of business; and (c) at least two officers approved and designated as trust officers by the Registrar.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsection: \"(4) The provisions of paragraphs (3)(b) and (c) shall not apply to a trust company that is managed by another trust company.\". Amendment of section 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 5 of the principal Act is amended by substituting for subsection (2) the following subsection: \"(2) Every trust company shall, upon registration or on or before 15 January of each year during the period of its registration, pay to the Registrar such registration fees as may be prescribed in the regulations made under section 25.\". Amendment of section 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 6 of the principal Act is amended by inserting after subsection (3) the following subsection: \"(4) No trust company shall open any office or acquire or establish any subsidiary outside Labuan without the prior written consent of the Registrar.\". Amendment of section 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 7 the following section: \"Compliance with Offshore Companies Act 1990 7. Except as otherwise expressly provided in this Act, the provisions of the Offshore Companies Act 1990 shall apply to a trust company.\". 6 Bill Amendment of section 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 8 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing section as subsection (1) of that section; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: \"(2) Notwithstanding subsection (1), a trust company may provide service to a resident, but only for such purposes as may be permitted under the Offshore Companies Act 1990.\". Amendment of section 9"
+      }
+    }
+  ]
+}

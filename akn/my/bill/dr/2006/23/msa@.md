@@ -266,7 +266,7 @@ TELAH BERSETUJU dengan peruntukan yang berikut:
 
 Bidang pemakaian dan peruntukan am
 
-Perkara 1 - Takrif
+## Perkara 1 - Takrif
 
 Dalam Konvensyen ini, kecuali jika konteksnya menghendaki makna yang lain, istilah yang berikut digunakan bersama-sama dengan erti yang dinyatakan di bawah:
 
@@ -362,7 +362,7 @@ Dalam Konvensyen ini, kecuali jika konteksnya menghendaki makna yang lain, istil
 
 (nn) "bertulis" ertinya suatu rekod maklumat (termasuklah maklumat yang dikomunikasikan melalui teletransmisi) yang adalah dalam bentuk ketara atau bentuk lain dan boleh dihasilkan semula dalam bentuk ketara pada masa kemudiannya dan yang menunjukkan melalui cara yang munasabah kelulusan seseorang bagi rekod itu.
 
-Perkara 2 - Kepentingan antarabangsa
+## Perkara 2 - Kepentingan antarabangsa
 
 1. Konvensyen itu mengadakan peruntukan bagi pembentukan dan kesan sesuatu kepentingan antarabangsa mengenai kategori kelengkapan bergerak dan hak bersekutu yang tertentu.
 
@@ -390,13 +390,15 @@ Suatu kepentingan yang termasuk dalam subperenggan (a) juga tidak termasuk dalam
 
 (c) perenggan itu.
 
-5. Sesuatu kepentingan antarabangsa mengenai sesuatu objek diperluas kepada hasil objek itu , Perkara 3 - Bidang pemakaian
+5. Sesuatu kepentingan antarabangsa mengenai sesuatu objek diperluas kepada hasil objek itu ,
+
+## Perkara 3 - Bidang pemakaian
 
 1. Konvensyen ini terpakai apabila, pada masa pembuatan perjanjian yang mewujudkan atau memperuntukkan kepentingan antarabangsa, penghutang berada dalam suatu Negara Pejanji.
 
 2. Hakikat bahawa pemiutang terletak di Negara bukan Pejanji tidaklah menyentuh kebolehpakaian Konvensyen ini.
 
-Perkara 4 - Tempat penghutang terletak
+## Perkara 4 - Tempat penghutang terletak
 
 1. Bagi maksud Perkara 3(1), penghutang adalah terletak di mana-mana Negara Pejanji:
 
@@ -412,7 +414,7 @@ Perkara 4 - Tempat penghutang terletak
 
 2. Sebutan dalam subperenggan (d) perenggan yang terdahulu mengenai tempat perniagaan penghutang hendaklah, jika penghutang itu mempunyai lebih daripada satu tempat perniagaan, ertinya tempat perniagaan utamanya atau, jika penghutang itu tidak mempunyai tempat perniagaan, kediaman lazimnya.
 
-Perkara 5 - Tafsiran dan undang-undang yang terpakai
+## Perkara 5 - Tafsiran dan undang-undang yang terpakai
 
 1. Dalam tafsiran Konvensyen ini, perhatian hendaklah diberi kepada maksudnya sebagaimana yang dinyatakan dalam mukadimah, kepada ciri antarabangsanya dan kepada keperluan untuk menggalakkan keseragaman dan kebolehramalan dalam pemakaiannya.
 
@@ -422,7 +424,7 @@ Perkara 5 - Tafsiran dan undang-undang yang terpakai
 
 4. Jika sesuatu Negara terdiri daripada beberapa unit wilayah, yang setiap daripadanya mempunyai rukun undang-undangnya sendiri berkenaan dengan perkara yang hendak diputuskan, dan jika tidak terdapat petunjuk tentang unit wilayah yang berkaitan, undang-undang Negara itu memutuskan unit wilayah manakah yang kaedah-kaedahnya hendaklah tertakluk. Jika tidak terdapat apa-apa kaedah sedemikian, undang-undang unit wilayah yang dengannya kes itu paling hampir berkaitan hendaklah terpakai.
 
-Perkara 6 - Hubungan antara Konvensyen dengan Protokol
+## Perkara 6 - Hubungan antara Konvensyen dengan Protokol
 
 1. Konvensyen ini dan Protokol hendaklah dibaca dan ditafsirkan bersama sebagai satu surat cara.
 
@@ -434,7 +436,7 @@ Perkara 6 - Hubungan antara Konvensyen dengan Protokol
 
 Pembentukan suatu kepentingan antarabangsa
 
-Perkara 7 - Kehendak rasmi
+## Perkara 7 - Kehendak rasmi
 
 Sesuatu kepentingan dibentuk sebagai suatu kepentingan antarabangsa di bawah Konvensyen ini jika perjanjian yang mewujudkan atau mengadakan peruntukan bagi kepentingan itu:
 
@@ -452,7 +454,7 @@ Sesuatu kepentingan dibentuk sebagai suatu kepentingan antarabangsa di bawah Kon
 
 Remedi keingkaran
 
-Perkara 8 - Remedi pemegang gadaian
+## Perkara 8 - Remedi pemegang gadaian
 
 1. Sekiranya berlaku keingkaran sebagaimana yang diperuntukkan dalam Perkara 11, pemegang gadaian boleh, setakat yang penggadai telah pada bila-bila masa bersetuju dan tertakluk kepada apa-apa perisytiharan yang boleh dibuat oleh sesuatu Negara Pejanji di bawah Perkara 54, melaksanakan mana-mana satu atau lebih daripada remedi yang berikut:
 
@@ -500,13 +502,15 @@ Sekiranya berlaku keingkaran di bawah perjanjian perizaban hakmilik atau di bawa
 
 (b) memohon suatu perintah mahkamah yang membenarkan atau mengarahkan mana-mana satu daripada tindakan ini.
 
-Perkara 11 - Pengertian keingkaran
+## Perkara 11 - Pengertian keingkaran
 
 1. Penghutang dan pemiutang boleh pada bila-bila masa bersetuju secara bertulis tentang kejadian yang menjadi keingkaran atau selainnya menimbulkan hak dan remedi yang dinyatakan dalam Perkara 8 hingga 10 dan 13.
 
 2. Jika penghutang dan pemiutang tidak bersetuju sedemikian, "keingkaran" bagi maksud Perkara 8 hingga 10 dan 13 ertinya keingkaran yang sebahagian besarnya menafikan pemiutang tentang apa yang ia berhak untuk jangkakan di bawah perjanjian.
 
-Perkara 12 - Remedi tambahan .
+## Perkara 12 - Remedi tambahan
+
+.
 
 Apa-apa remedi tambahan yang dibenarkan oleh undang-undang yang terpakai, termasuklah apa-apa remedi yang dipersetujui oleh pihak-pihak, boleh dilaksanakan setakat yang remedi itu selaras dengan peruntukan mandatori Bab ini sebagaimana yang dinyatakan dalam Perkara 15.
 
@@ -534,11 +538,11 @@ Perkara 13 - Relief sementara menunggu penentuan akhir
 
 4. Tiada apa-apa jua dalam Perkara ini boleh menyentuh pemakaian Perkara 8(3) atau mengehadkan ketersediaan bentuk relief interim selain yang dinyatakan dalam perenggan 1.
 
-Perkara 14 - Kehendak tatacara
+## Perkara 14 - Kehendak tatacara
 
 Tertakluk kepada Perkara 54(2), apa-apa remedi yang diperuntukkan oleh Bab ini hendaklah dijalankan bertepatan dengan tatacara yang ditetapkan oleh undang-undang bagi tempat yang remedi itu akan dilaksanakan.
 
-Perkara 15 - Pengurangan
+## Perkara 15 - Pengurangan
 
 Dalam hubungan antara satu sama lain, mana-mana dua pihak atau lebih yang disebut dalam Bab ini boleh pada bila-bila masa, melalui perjanjian bertulis, mengurangkan atau mengubah kesan mana-mana peruntukan yang terdahulu Bab ini kecuali Perkara 8(3) hingga (6), 9(3) dan (4), 13(2) dan 14.
 
@@ -546,7 +550,7 @@ Dalam hubungan antara satu sama lain, mana-mana dua pihak atau lebih yang disebu
 
 Sistem pendaftaran antarabangsa
 
-Perkara 16 - Pejabat Pendaftaran Antarabangsa
+## Perkara 16 - Pejabat Pendaftaran Antarabangsa
 
 1. Suatu Pejabat Pendaftaran Antarabangsa hendaklah ditubuhkan bagi pendaftaran:
 
@@ -566,7 +570,7 @@ Perkara 16 - Pejabat Pendaftaran Antarabangsa
 
 3. Bagi maksud Bab ini dan Bab V, istilah "pendaftaran" termasuklah, jika berkenaan, suatu pindaan, peluasan atau pelepasan suatu pendaftaran.
 
-Perkara 17 - Pihak Berkuasa Penyeliaan dan Pendaftar
+## Perkara 17 - Pihak Berkuasa Penyeliaan dan Pendaftar
 
 1. Hendaklah ditubuhkan suatu Pihak Berkuasa Penyeliaan sebagaimana yang diperuntukkan oleh Protokol.
 
@@ -604,7 +608,7 @@ Perkara 17 - Pihak Berkuasa Penyeliaan dan Pendaftar
 
 Perkara lain yang berhubungan dengan pendaftaran
 
-Perkara 18 - Kehendak pendaftaran
+## Perkara 18 - Kehendak pendaftaran
 
 1. Protokol dan peraturan-peraturan hendaklah menyatakan kehendak-kehendak, termasuklah kriteria bagi pengenalpastian objek:
 
@@ -622,9 +626,11 @@ Perkara 18 - Kehendak pendaftaran
 
 5. Protokol boleh memperuntukkan bahawa sesuatu Negara Pejanji boleh menetapkan suatu entiti atau entiti-entiti dalam wilayahnya sebagai titik masuk atau titik-titik masuk yang melaluinya maklumat yang dikehendaki bagi pendaftaran hendaklah atau boleh dihantar kepada Pejabat Pendaftaran Antarabangsa. Sesuatu Negara Pejanji yang membuat penetapan sedemikian boleh menyatakan kehendak-kehendak, jika ada, yang kena dipenuhi sebelum maklumat itu dihantar kepada Pejabat Pendaftaran Antarabangsa.
 
-Perkara 19 - Kesahan dan masa pendaftaran
+## Perkara 19 - Kesahan dan masa pendaftaran
 
-1. Sesuatu pendaftaran adalah sah hanya jika dibuat bertepatan dengan Perkara 20.
+1. Sesuatu pendaftaran adalah sah hanya jika dibuat bertepatan dengan Perkara
+
+20.
 
 2. Sesuatu pendaftaran, jika sah, hendaklah lengkap apabila maklumat yang dikehendaki dimasukkan ke dalam pangkalan data Pejabat Pendaftaran Antarabangsa supaya boleh dicari.
 
@@ -642,7 +648,7 @@ Perkara 19 - Kesahan dan masa pendaftaran
 
 6. Sesuatu pendaftaran boleh dicari dalam pangkalan data Pejabat Pendaftaran Antarabangsa mengikut kriteria yang ditetapkan oleh Protokol.
 
-Perkara 20 - Keizinan kepada pendaftaran
+## Perkara 20 - Keizinan kepada pendaftaran
 
 1. Sesuatu kepentingan antarabangsa, kepentingan antarabangsa prospektif atau sesuatu penyerahhakan atau penyerahhakan prospektif bagi sesuatu kepentingan antarabangsa boleh didaftarkan, dan mana-mana pendaftaran yang dipinda atau diperluas sedemikian sebelum tamat tempohnya, oleh mana-mana pihak dengan keizinan bertulis pihak yang satu lagi.
 
@@ -656,13 +662,13 @@ Perkara 20 - Keizinan kepada pendaftaran
 
 6. Sesuatu notis kepentingan negara boleh didaftarkan oleh pemegangnya.
 
-Perkara 21 - Jangka masa pendaftaran
+## Perkara 21 - Jangka masa pendaftaran
 
 Pendaftaran sesuatu kepentingan antarabangsa tetap berkuat kuasa sehingga dibatalkan atau sehingga tempat tempoh yang dinyatakan dalam.pendaftaran itu.
 
 <!-- page 19 -->
 
-Perkara 22 - Carian
+## Perkara 22 - Carian
 
 1. Mana-mana orang boleh, mengikut cara yang ditetapkan oleh Protokol dan peraturan-peraturan, membuat atau meminta suatu carian Pejabat Pendaftaran Antarabangsa melalui cara elektronik berkenaan dengan kepentingan atau kepentingan antarabangsa prospektif yang didaftarkan di dalamnya.
 
@@ -678,7 +684,7 @@ Perkara 23 - Senarai perisytiharan dan hak atau kepentingan bukan sepersetujuan 
 
 Pendaftar hendaklah menyenggarakan suatu senarai perisytiharan, penarikan balik perisytiharan dan kategori hak atau kepentingan bukan sepersetujuan yang dimaklumkan kepada Pendaftar oleh Pemegang Simpanan sebagai telah diisytiharkan oleh Negara Pejanji yang bertepatan dengan Perkara 39 dan 40 dan tarikh setiap perisytiharan itu atau penarikan balik perisytiharan itu. Senarai itu hendaklah direkodkan dan boleh dicari atas nama Negara yang mengisytiharkan dan hendaklah dijadikan tersedia sebagaimana yang diperuntukkan dalam Protokol dan peraturan-peraturan kepada mana-mana orang yang memintanya.
 
-Perkara 24 - Nilai perakuan keterangan
+## Perkara 24 - Nilai perakuan keterangan
 
 Sesuatu dokumen mengikut bentuk yang ditetapkan oleh peraturan-peraturan yang berupa sebagai perakuan yang dikeluarkan oleh Pejabat Pendaftaran Antarabangsa ialah bukti prima facie:
 
@@ -688,7 +694,7 @@ Sesuatu dokumen mengikut bentuk yang ditetapkan oleh peraturan-peraturan yang be
 
 <!-- page 20 -->
 
-Perkara 25 - Pembatalan pendaftaran
+## Perkara 25 - Pembatalan pendaftaran
 
 1. Jika obligasi yang dijamin oleh sesuatu kepentingan cagaran yang berdaftar atau obligasi yang menimbulkan suatu hak atau kepentingan bukan sepersetujuan berdaftar telah dibatalkan, atau jika syarat pemindahan hakmilik di bawah perjanjian perizaban hakmilik telah dipenuhi, pemegang kepentingan itu hendaklah, tanpa kelengahan tidak wajar, mendapatkan pembatalan pendaftaran itu selepas tuntutan bertulis oleh penghutang dihantar atau diterima di alamatnya yang dinyatakan dalam pendaftaran itu.
 
@@ -706,7 +712,7 @@ Tiada seorang pun boleh dinafikan akses kepada kemudahan pendaftaran dan carian 
 
 Keistimewaan dan kekebalan Pihak Berkuasa Penyeliaan dan Pendaftar
 
-Perkara 27 - Keperibadian undang-undang; kekebalan
+## Perkara 27 - Keperibadian undang-undang; kekebalan
 
 1. Pihak Berkuasa Penyeliaan hendaklah mempunyai keperibadian undang- undang jika belum memiliki keperibadian itu.
 
@@ -730,7 +736,7 @@ Perkara 27 - Keperibadian undang-undang; kekebalan
 
 Liabiliti Pendaftar
 
-Perkara 28 - Liabiliti dan jaminan kewangan
+## Perkara 28 - Liabiliti dan jaminan kewangan
 
 1. Pendaftar hendaklah bertanggungan bagi ganti rugi pampasan kerana kerugian yang dialami oleh seseorang secara langsung akibat kesilapan atau peninggalan Pendaftar dan pegawainya dan pekerjanya atau daripada kepincangan sistem pendaftaran antarabangsa kecuali jika kepincangan itu disebabkan oleh suatu peristiwa semula jadi yang tidak dapat dielakkan atau ditahan, yang tidak boleh dihalang dengan menggunakan amalan terbaik dalam penggunaan semasa dalam bidang reka bentuk dan pengendalian pendaftaran secara elektronik, termasuklah yang berhubungan dengan keselamatan sokongan dan sistem dan rangkaian.
 
@@ -746,7 +752,7 @@ Perkara 28 - Liabiliti dan jaminan kewangan
 
 Kesan sesuatu kepentingan antarabangsa terhadap pihak ketiga
 
-Perkara 29 - Keutamaan kepentingan bersaing
+## Perkara 29 - Keutamaan kepentingan bersaing
 
 1. Sesuatu kepentingan berdaftar mempunyai keutamaan ke atas mana-mana kepentingan lain yang didaftarkan kemudiannya dan ke atas kepentingan yang tidak berdaftar.
 
@@ -780,7 +786,7 @@ Perkara 29 - Keutamaan kepentingan bersaing
 
 (b) tidak menghalang pewujudan hak mengenai sesuatu barang, selain objek, yang telah dipasang dahulunya pada suatu objek jika di bawah undang-undang yang terpakai hak itu diwujudkan.
 
-Perkara 30 - Kesan ketidakmampuan bayar
+## Perkara 30 - Kesan ketidakmampuan bayar
 
 1. Dalam prosiding ketidakmampuan bayar terhadap penghutang sesuatu kepentingan antarabangsa adalah berkesan jika sebelum permulaan kuat kuasa prosiding ketidakmampuan bayar itu kepentingan itu didaftarkan bertepatan dengan Konvensyen ini.
 
@@ -796,7 +802,7 @@ Perkara 30 - Kesan ketidakmampuan bayar
 
 Penyerahhakan hak bersekutu dan kepentingan antarabangsa; hak subrogasi
 
-Perkara 31 - Kesan penyerahhakan
+## Perkara 31 - Kesan penyerahhakan
 
 1. Kecuali sebagaimana yang dipersetujui selainnya oleh pihak-pihak, sesuatu penyerahhakan hak bersekutu yang dibuat bertepatan dengan Perkara 32 juga memindahkan kepada pemegang serah hak:
 
@@ -816,7 +822,7 @@ Perkara 31 - Kesan penyerahhakan
 
 5. Dalam hal sesuatu penyerahhakan melalui cagaran, hak bersekutu yang diserahhakkan diletakkan semula pada penyerah hak, setakat yang hak itu masih lagi wujud, apabila obligasi yang dijamin oleh penyerahhakan itu telah dibatalkan.
 
-Perkara 32 - Kehendak rasmi penyerahhakan
+## Perkara 32 - Kehendak rasmi penyerahhakan
 
 1. Sesuatu penyerahhakan hak bersekutu memindahkan kepentingan antarabangsa yang berkaitan hanya jika penyerahhakan itu:
 
@@ -856,7 +862,7 @@ Sekiranya berlaku keingkaran oleh penyerah hak di bawah penyerahhakan hak bersek
 
 (d) mengenai objek ialah sebutan mengenai hak bersekutu yang diserahhakkan dan kepentingan antarabangsa yang berkaitan.
 
-Perkara 35 — Keutamaan penyerahhakan bersaing
+## Perkara 35 — Keutamaan penyerahhakan bersaing
 
 1. Jika terdapat penyerahhakan bersaing hak bersekutu dan sekurang-kurangnya satu daripada penyerahhakan itu termasuklah kepentingan antarabangsa yang berkaitan dan didaftarkan, peruntukan Perkara 29 terpakai seolah-olah sebutan mengenai kepentingan berdaftar ialah sebutan mengenai suatu penyerahhakan hak bersekutu dan kepentingan berdaftar yang berkaitan dan seolah-olah sebutan mengenai suatu kepentingan berdaftar atau tidak berdaftar ialah sebutan mengenai penyerahhakan berdaftar atau tidak berdaftar.
 
@@ -890,7 +896,7 @@ Perkara 37 - Kesan ketidakmampuan bayar penyerah hak
 
 Peruntukan Perkara 30 terpakai bagi presiding ketidakmampuan bayar terhadap penyerah hak seolah-olah sebutan mengenai penghutang ialah sebutan mengenai penyerah hak.
 
-Perkara 38 - Subrogasi
+## Perkara 38 - Subrogasi
 
 1. Tertakluk kepada perenggan 2, tiada apa-apa jua dalam Konvensyen ini menyentuh pemerolehan hak bersekutu dan kepentingan antarabangsa yang berkaitan oleh subrogasi undang-undang atau secara kontrak di bawah undang- undang yang terpakai.
 
@@ -926,7 +932,7 @@ Sesuatu Negara Pejanji boleh pada bila-bila masa dalam suatu perisytiharan yang 
 
 Peraakaian Konvensyen bagi jualan
 
-Perkara 41 - Jualan dan jualan prospektif
+## Perkara 41 - Jualan dan jualan prospektif
 
 Konvensyen ini hendaklah terpakai bagi jualan atau jualan prospektif sesuatu objek sebagaimana yang diperuntukkan dalam Protokol dengan apa-apa ubah suaian dalamnya.
 
@@ -934,13 +940,13 @@ Konvensyen ini hendaklah terpakai bagi jualan atau jualan prospektif sesuatu obj
 
 Bidang kuasa
 
-Perkara 42 — Pilihan forum
+## Perkara 42 — Pilihan forum
 
 1. Tertakluk kepada Perkara 43 dan 44, mahkamah Negara Pejanji yang dipilih o3eh pihak-pihak kepada transaksi mempunyai bidang kuasa berkenaan dengan mana-mana tuntutan yang dibawa di bawah Konvensyen ini, sama ada atau tidak forum yang dipilih itu mempunyai kaitan dengan pihak kepada transaksi itu. Bidang kuasa itu hendaklah eksklusif melainkan jika dipersetujui selainnya antara pihak-pihak itu.
 
 2. Mana-mana perjanjian itu hendaklah secara bertulis atau selainnya dibuat mengikut kehendak rasmi undang-undang forum yang dipilih itu.
 
-Perkara 43 - Bidang kuasa di bawah Perkara 13
+## Perkara 43 - Bidang kuasa di bawah Perkara 13
 
 1. Mahkamah Negara Pejanji yang dipilih oleh pihak-pihak dan mahkamah Negara Pejanji di wilayah yang dalamnya objek itu terletak mempunyai bidang kuasa untuk memberikan relief di bawah Perkara 13(1)(a), (b), (c) dan Perkara 13(4) berkenaan dengan objek itu.
 
@@ -978,7 +984,9 @@ Konvensyen ini hendaklah mengatasi Konvensyen Pertubuhan Bangsa-Bangsa Bersatu t
 
 <!-- page 30 -->
 
-Perkara 46 — Hubungan dengan Konvensyen UNIDROIT tentang Pajakan Kewangan Antarabangsa
+## Perkara 46 — Hubungan dengan Konvensyen UNIDROIT tentang Pajakan
+
+Kewangan Antarabangsa
 
 Protokol boleh menentukan perhubungan antara Konvensyen ini dengan Konvensyen UNIDROIT tentang Pajakan Kewangan Antarabangsa, yang ditandatangani di Ottawa pada 28 Mei 1988.
 
@@ -996,7 +1004,7 @@ Perkara 47 — Tandatangan, ratifikasi, penerimaan, kelulusan atau kesertaan
 
 4. Ratifikasi, penerimaan, kelulusan atau kesertaan adalah dikuatkuasakan dengan penyimpanan suatu surat cara rasmi yang bermaksud sedemikian dengan Pemegang Simpanan.
 
-Perkara 48 — Organisasi Integrasi Ekonomi Serantau
+## Perkara 48 — Organisasi Integrasi Ekonomi Serantau
 
 1. Organisasi Integrasi Ekonomi Serantau yang dibentuk oleh Negara-Negara berdaulat dan mempunyai kompeten atas perkara tertentu yang tertakluk kepada Konvensyen ini boleh juga menandatangani, menerima, meluluskan dan menyertai Konvensyen ini. Organisasi Integrasi Ekonomi Serantau hendaklah dalam hal itu mempunyai hak dan obligasi Negara Pejanji, setakat yang Organisasi itu mempunyai kompeten atas perkara yang tertakluk kepada Konvensyen ini. Jika bilangan Negara Pejanji adalah berkaitan dalam Konvensyen ini, Organisasi Integrasi Ekonomi Serantau tidak boleh dikira sebagai Negara Pejanji sebagai tambahan kepada Negara Anggota yang merupakan Negara Pejanji.
 
@@ -1008,7 +1016,7 @@ hendaklah dengan secepat mungkin memberitahu Pemegang Simpanan tentang apa-apa p
 
 3. Apa-apa sebutan mengenai "Negara Pejanji" atau "Negara-Negara Pejanji" atau "Pihak Negara" atau "Pihak-Pihak Negara" dalam Konvensyen ini terpakai juga kepada Organisasi Integrasi Ekonomi Serantau jika konteksnya menghendaki sedemikian.
 
-Perkara 49 - Permulaan kuat kuasa
+## Perkara 49 - Permulaan kuat kuasa
 
 1. Konvensyen ini mula berkuat kuasa pada hari pertama bulan yang berikutan dengan tamat tempoh tiga bulan selepas tarikh penyimpanan surat cara ketiga ratifikasi, penerimaan, kelulusan atau kesertaan tetapi hanya mengenai kategori objek yang baginya Protokol terpakai:
 
@@ -1020,7 +1028,7 @@ Perkara 49 - Permulaan kuat kuasa
 
 2. Bagi Negara lain Konvensyen ini mula berkuat kuasa pada hari pertama bulan yang berikutan dengan tamat tempoh tiga bulan selepas tarikh penyimpanan surat cara ratifikasi, penerimaan, kelulusan atau kesertaan mereka tetapi hanya mengenai kategori objek yang baginya Protokol ini terpakai dan tertakluk, berhubung dengan Protokol itu, kepada kehendak subperenggan (a), (b) dan (c) perenggan yang terdahulu.
 
-Perkara 50 - Transaksi dalaman
+## Perkara 50 - Transaksi dalaman
 
 1. Sesuatu Negara Pejanji boleh, pada masa ratifikasi, penerimaan, kelulusan, atau kesertaan Protokol, mengisytiharkan bahawa Konvensyen ini tidak terpakai bagi transaksi yang merupakan suatu transaksi dalaman berhubung dengan Negara itu berkenaan dengan semua jenis objek atau sebahagian daripadanya.
 
@@ -1046,7 +1054,7 @@ pemakaian Konvensyen ini, melalui satu Protokol atau lebih, bagi objek mana- man
 
 6. Perkara 45 bis Konvensyen ini terpakai bagi Protokol sedemikian hanya jika diperuntukkan secara khusus dalam Protokol itu.
 
-Perkara 52 - Unit-unit wilayah
+## Perkara 52 - Unit-unit wilayah
 
 1. Jika sesuatu Negara Pejanji mempunyai unit wilayah yang dalamnya sistem undang-undang yang berlainan adalah terpakai berhubung dengan perkara yang diperkatakan dalam Konvensyen ini, Negara Pejanjj itu boleh, pada masa ratifikasi, penerimaan, kelulusan atau kesertaan, mengisytiharkan bahawa Konvensyen ini hendaklah diperluas kepada semua unit wilayahnya atau hanya kepada satu daripada mereka atau lebih dan boleh mengubah suai perisytiharannya dengan mengemukakan suatu perisytiharan lain pada bila-bila masa.
 
@@ -1066,11 +1074,11 @@ Perkara 52 - Unit-unit wilayah
 
 (c) apa-apa sebutan mengenai pihak berkuasa pentadbiran dalam Negara Penjanji itu hendaklah ditafsirkan sebagai merujuk kepada pihak berkuasa pentadbiran yang mempunyai bidang kuasa dalam suatu unit wilayah yang baginya Konvensyen ini terpakai.
 
-Perkara 53 - Penentuan mahkamah
+## Perkara 53 - Penentuan mahkamah
 
 Sesuatu Negara Pejanji boleh, pada masa ratifikasi, penerimaan, kelulusan, atau kesertaan Protokol, mengisytiharkan "mahkamah" atau "mahkamah-mahkamah" yang berkaitan bagi maksud Perkara 1 dan Bab XII Konvensyen ini.
 
-Perkara 54 - Perisytiharan mengenai remedi
+## Perkara 54 - Perisytiharan mengenai remedi
 
 1. Sesuatu Negara Pejanji boleh, pada masa ratifikasi, penerimaan, kelulusan, atau kesertaan Protokol, mengisytiharkan bahawa walaupun objek yang dicagarkan terletak di dalam, atau dikawal daripada wilayahnya, pemegang gadaian tidak boleh membenarkan pajakan objek itu dalam wilayah itu.
 
@@ -1082,13 +1090,13 @@ Sesuatu Negara Pejanji boleh, pada masa ratifikasi, penerimaan, kelulusan, atau 
 
 <!-- page 34 -->
 
-Perkara 56 — Reservasi dan perisytiharan
+## Perkara 56 — Reservasi dan perisytiharan
 
 1. Tiada reservasi boleh dibuat kepada Konvensyen ini tetapi perisytiharan yang dibenarkan oleh Perkara 39, 40, 50, 52, 53, 54, 55, 57, 58 dan 60 boleh dibuat mengikut peruntukan-peruntukan ini.
 
 2. Apa-apa perisytiharan atau periystiharan kemudiannya atau apa-apa penarikan balik sesuatu perisytiharan yang dibuat di bawah Konvensyen ini hendaklah diberitahu secara bertulis kepada Pemegang Simpanan.
 
-Perkara 57 - Perisytiharan kemudiannya
+## Perkara 57 - Perisytiharan kemudiannya
 
 1. Sesuatu Pihak Negara boleh membuat perisytiharan kemudiannya, selain perisytiharan yang dibenarkan di bawah Perkara 60, pada bila-bila masa selepas tarikh yang Konvensyen ini telah mula berkuat kuasa baginya, dengan memberitahu Pemegang Simpanan yang bermaksud sedemikian.
 
@@ -1096,13 +1104,13 @@ Perkara 57 - Perisytiharan kemudiannya
 
 3. Walau apa pun perenggan yang terdahulu, Konvensyen ini hendaklah terus terpakai, seolah-olah tiada perisytiharan kemudiannya telah dibuat, berkenaan dengan semua hak dan kepentingan yang timbul sebelum tarikh permulaan kuat kuasa mana-mana perisytiharan kemudiannya itu.
 
-Perkara 58 - Penarikan balik perisytiharan
+## Perkara 58 - Penarikan balik perisytiharan
 
 1. Mana-mana Pihak Negara yang telah membuat perisytiharan di bawah Konvensyen ini, selain perisytiharan yang dibenarkan di bawah Perkara 60, boleh rnenarik balik pada bila-bila masa dengan memberitahu Pemegang Simpanan. Penarikan balik itu hendaklah mula berkuat kuasa pada hari pertama bulan yang berikutan daripada tamat tempoh enam bulan selepas tarikh penerimaan pemberitahuan itu oleh Pemegang Simpanan.
 
 2. Walau apa pun perenggan yang terdahulu, Konvensyen ini hendaklah terus terpakai, seolah-olah tiada penarikan balik perisytiharan dibuat, berkenaan dengan semua hak dan kepentingan yang timbul sebelum tarikh permulaan kuat kuasa mana-mana penarikan balik itu.
 
-Perkara 59 - Pembatalan
+## Perkara 59 - Pembatalan
 
 1. Mana-mana Pihak Negara boleh membatalkan Konvensyen ini melalui pemberitahuan secara bertulis kepada Pemegang Simpanan.
 
@@ -1112,7 +1120,7 @@ Perkara 59 - Pembatalan
 
 3. Walau apa pun perenggan yang terdahulu, Konvensyen ini hendaklah terus terpakai, seolah-olah tiada pembatalan telah dibuat, berkenaan dengan semua hak dan kepentingan yang timbul sebelum tarikh permulaan kuat kuasa mana- mana pembatalan itu.
 
-Perkara 60 - Peruntukan peralihan
+## Perkara 60 - Peruntukan peralihan
 
 1. Melainkan jika diisytiharkan selainnya oleh Negara Pejanji pada bila- bila masa, Konvensyen tidak terpakai bagi hak atau kepentingan yang wujud terlebih dahulu, yang mengekalkan keutamaan yang dinikmati olehnya di bawah undang-undang yang terpakai sebelum tarikh permulaan kuat kuasa Konvensyen ini.
 
@@ -1124,7 +1132,9 @@ Perkara 60 - Peruntukan peralihan
 
 3. Sesuatu Negara Pejanji boleh dalam perisytiharannya di bawah perenggan 1 menyatakan suatu tarikh, tidak lebih awal daripada tiga tahun selepas tarikh yang perisytiharan itu mula berkuat kuasa, apabila Konvensyen ini dan Protokol akan menjadi terpakai, bagi maksud menentukan keutamaan, termasuklah perlindungan mana-mana keutamaan yang sedia ada, bagi hak atau kepentingan yang wujud terlebih dahulu yang timbul di bawah suatu perjanjian yang dibuat pada masa penghutang itu terletak dalam Negara yang disebut dalam subperenggan (b) perenggan yang terdahulu tetapi hanya setakat dan mengikut cara yang dinyatakan dalam periystiharannya. .
 
-Perkara 61 - Persidangan Kajian Semula, pindaan dan perkara yang berkaitan
+## Perkara 61 - Persidangan Kajian Semula, pindaan dan perkara yang
+
+berkaitan
 
 1. Pemegang Simpanan hendaklah menyediakan laporan secara tahunan atau pada masa lain sebagaimana yang dikehendaki oleh hal keadaan bagi Pihak- Pihak Negara tentang cara yang regimen antarabangsa yang ditubuhkan dalam Konvensyen ini telah dikendalikan secara amalan. Dalam menyediakan laporan itu, Pemegang Simpanan hendaklah mengambil kira laporan Pihak Berkuasa Penyeliaani,berkenaan dengan pemfungsian sistem pendaftaran, antarabangsa itu.
 
@@ -1146,7 +1156,7 @@ Perkara 61 - Persidangan Kajian Semula, pindaan dan perkara yang berkaitan
 
 2.
 
-Perkara 62 - Pemegang Simpanan dan fungsinya
+## Perkara 62 - Pemegang Simpanan dan fungsinya
 
 1. Surat cara ratifikasi, penerimaan, kelulusan atau kesertaan hendaklah disimpan dengan Institut Antarabangsa bagi Penyatuan Undang-Undang Persendirian (UNIDROIT), yang dengan ini ditetapkan sebagai Pemegang Simpanan.
 
@@ -1274,21 +1284,21 @@ Perkara II — Pemakaian Konvensyen mengenai objek pesawat udara
 
 2. Konvensyen dan Protokol ini hendaklah dikenali sebagai Konvensyen tentang Kepentingan Antarabangsa mengenai Kelengkapan Bergerak sebagaimana yang terpakai bagi objek pesawat udara.
 
-Perkara III — Pemakaian Konvensyen bagi jualan
+## Perkara III — Pemakaian Konvensyen bagi jualan
 
 Peruntukan Konvensyen yang berikut terpakai seolah-olah sebutan mengenai perjanjian yang mewujudkan atau memperuntukkan kepentingan antarabangsa ialah sebutan mengenai kontrak jualan dan seolah-olah sebutan mengenai kepentingan antarabangsa, kepentingan antarabangsa prospektif, penghutang dan pemiutang ialah sebutan mengenai masing-masing jualan, jualan prospektif, penjual dan pembeli:
 
 Perkara 3 dan 4;
 
-Perkara 16(1)(a);
+## Perkara 16(1)(a);
 
-Perkara 19(4);
+## Perkara 19(4);
 
 Perkara 20(1) (mengenai pendaftaran kontrak jualan atau jualan prospektif);
 
-Perkara 25(2) (mengenai jualan prospektif); dan
+## Perkara 25(2) (mengenai jualan prospektif); dan
 
-Perkara 30.
+## Perkara 30.
 
 Sebagai tambahan, peruntukan am Perkara 1, Perkara 5, Bab IV hingga VII, Perkara 29 (selain Perkara 29(3) yang digantikan oleh Perkara XIV(l) dan (2)),
 
@@ -1298,7 +1308,7 @@ Sebagai tambahan, peruntukan am Perkara 1, Perkara 5, Bab IV hingga VII, Perkara
 
 <!-- page 41 -->
 
-Perkara IV — Bidang pemakaian
+## Perkara IV — Bidang pemakaian
 
 1. Tanpa menjejaskan Perkara 3(1) Konvensyen, Konvensyen hendaklah juga terpakai berhubung dengan helikopter, atau dengan kerangka pesawat udara mengenai pesawat udara, yang didaftarkan dengan daftar pesawat udara Negara Pejanji yang merupakan Negara pejabat pendaftaran, dan jika pendaftaran sedemikian dibuat menurut suatu perjanjian bagi pendaftaran pesawat udara pendaftaran itu disifatkan telah dikuatkuasakan pada masa perjanjian itu.
 
@@ -1328,7 +1338,7 @@ Perkara V — Formaliti, kesan dan pendaftaran kontrak jualan
 
 3. Pendaftaran sesuatu kontrak jualan terus berkuat kuasa untuk selama- lamanya. Pendaftaran jualan prospektif akan terus berkuat kuasa melainkan jika dibatalkan atau sehingga tamat tempoh, jika ada, yang dinyatakan dalam pendaftaran itu.
 
-Perkara VI — Kuasa pewakilan
+## Perkara VI — Kuasa pewakilan
 
 Seseorang boleh membuat suatu perjanjian atau penjualan, dan mendaftarkan suatu kepentingan antarabangsa mengenai, atau penjualan, sesuatu objek pesawat udara, dalam suatu agensi, amanah atau sifat pewakilan yang lain. Dalam hal sedemikian, orang itu berhak untuk menegaskan hak dan kepentingannya di bawah Konvensyen.
 
@@ -1338,7 +1348,7 @@ Perkara VII — Perihalan objek pesawat udara
 
 Suatu perihalan objek pesawat udara yang mengandungi nombor siri pembuatnya, nama pembuatnya dan penetapan modelnya adalah perlu dan mencukupi untuk mengenal pasti objek itu bagi maksud Perkara 1(c) Konvensyen dan Perkara V(l)(c) Protokol ini.
 
-Perkara VIII — Pilihan undang-undang
+## Perkara VIII — Pilihan undang-undang
 
 1. Perkara ini terpakai hanya jika Negara Pejanji telah membuat suatu perisytiharan menurut Perkara XXX(l).
 
@@ -1406,7 +1416,9 @@ dan Perkara 43(2) terpakai dengan kemasukan selepas perkataan "Perkara 13(1 )(d)
 
 Perkara XI — Remedi atas ketidakmampuan bayar
 
-1. Perkara ini terpakai hanya jika Negara Pejanji yang menjadi bidang kuasa ketidakmampuan bayar yang utama telah membuat perisytiharan menurut Perkara XXX (3).
+1. Perkara ini terpakai hanya jika Negara Pejanji yang menjadi bidang kuasa ketidakmampuan bayar yang utama telah membuat perisytiharan menurut
+
+## Perkara XXX (3).
 
 Alternatif A
 
@@ -1440,13 +1452,15 @@ Alternatif B
 
 <!-- page 46 -->
 
-Perkara XII — Bantuan ketidakmampuan bayar
+## Perkara XII — Bantuan ketidakmampuan bayar
 
 1. Perkara ini terpakai hanya jka Negara Pejanji telah membuat periystiharan menurut Perkara XXX(l).
 
 2, Mahkamah Negara Pejanji yang dalamnya objek pesawat udara terletak hendaklah, mengikut undang-undang Negara Pejanji, bekerjasama ke takat semaksimum yang boleh dengan mahkamah asing dan pentadbir ketidakmampuan bayar asing dalam melaksanakan peruntukan Perkara XI.
 
-Perkara XIII — Pembatalan pendaftaran dan kebenaran permintaan eksport
+## Perkara XIII — Pembatalan pendaftaran dan kebenaran
+
+permintaan eksport
 
 1. Perkara ini terpakai hanya jika Negara Pejanji telah membuat perisytiharan menurut Perkara XXX(l).
 
@@ -1456,7 +1470,7 @@ Perkara XIII — Pembatalan pendaftaran dan kebenaran permintaan eksport
 
 4. Pihak berkuasa pejabat pendaftaran dan pihak berkuasa pentadbiran lain dalam Negara Pejanji hendaklah dengan secepat mungkin bekerjasama dengan dan membantu pihak diberi kuasa dalam melaksanakan remedi yang dinyatakan dalam Perkara IX.
 
-Perkara XIV — Pengubahsuaian peruntukan utama
+## Perkara XIV — Pengubahsuaian peruntukan utama
 
 1. Seseorang pembeli objek pesawat udara di bawah jualan berdaftar memperoleh kepentingannya mengenai objek itu bebas daripada kepentingan yang didaftarkan kemudiannya dan daripada kepentingan yang tidak berdaftar, walaupun pembeli itu mempunyai pengetahuan sebenar tentang kepentingan yang tidak berdaftar itu.
 
@@ -1468,13 +1482,13 @@ Perkara XIV — Pengubahsuaian peruntukan utama
 
 4. Perkara 29(7) Konvensyen terpakai bagi sesuatu barang, selain objek, yang dipasangkan pada kerangka pesawat udara, enjin pesawat udara atau helikopter.
 
-Perkara XV — Pengubahsuaian peruntukan penyerahhakan
+## Perkara XV — Pengubahsuaian peruntukan penyerahhakan
 
 Perkara 33(1) Konvensyen terpakai seolah-olah yang berikut telah ditambah sebaik selepas subperenggan (b):
 
 "dan (c) penghutang telah memberi keizinan secara bertulis, sama ada atau tidak keizinan telah diberikan terdahulu daripada penyerahhakan atau mengenai pasti penerima serah hak."
 
-Perkara XVI — Peruntukan penghutang
+## Perkara XVI — Peruntukan penghutang
 
 1. Jika tiada keingkaran berlaku mengikut pengertian Perkara 11 Konvensyen, penghutang adalah berhak kepada milikan aman dan penggunaan objek mengikut perjanjian terhadap:
 
@@ -1488,7 +1502,7 @@ Perkara XVI — Peruntukan penghutang
 
 Peruntukan pejabat pendaftaran yang berhubungan dengan kepentingan antarabangsa mengenai objek pesawat udara
 
-Perkara XVII — Pihak Berkuasa Penyeliaan dan Pendaftar
+## Perkara XVII — Pihak Berkuasa Penyeliaan dan Pendaftar
 
 1. Pihak Berkuasa Penyeliaan hendaklah menjadi entiti antarabangsa yang ditetapkan oleh Resolusi yang diterima pakai oleh Persidangan Diplomatik untuk Menerima Pakai Konvensyen Kelengkapan Bergerak dan Protokol Pesawat Udara.
 
@@ -1530,11 +1544,11 @@ Perkara XVII — Pihak Berkuasa Penyeliaan dan Pendaftar
 
 5. Pendaftar yang pertama hendaklah mengendalikan Pejabat Pendaftaran Antarabangsa bagi tempoh lima tahun dari tarikh permulaan kuat kuasa Protokol ini. Selepas itu, Pendaftar hendaklah dilantik atau dilantik semula pada lat tempoh tetap lima tahun oleh Pihak Berkuasa Penyeliaan.
 
-Perkara XVIII — Peraturan-peraturan pertama
+## Perkara XVIII — Peraturan-peraturan pertama
 
 Peraturan-peraturan pertama hendaklah dibuat oleh Pihak Berkuasa Penyeliaan supaya dapat berkuat kuasa apabila Protokol ini mula berkuat kuasa.
 
-Perkara XIX — Titik masuk yang ditetapkan
+## Perkara XIX — Titik masuk yang ditetapkan
 
 1. Tertakluk kepada perenggan 2, sesuatu Negara Pejanji boleh pada bila-bila masa menetapkan suatu entiti atau entiti-entiti dalam wilayahnya sebagai titik masuk atau titik-titik masuk yang melaluinya hendaklah atau bolehlah dihantar kepada Pejabat Pendaftaran Antarabangsa maklumat yang dikehendaki bagi pendaftaran selain pendaftaran notis kepentingan negara atau suatu hak atau kepentingan di bawah Perkara 40, dalam mana-mana hal itu yang timbul di bawah undang-undang Negara Iain.
 
@@ -1564,9 +1578,13 @@ Perkara XXI — Pengubahsuaian peruntukan bidang kuasa
 
 Bagi maksud Perkara 43 Konvensyen dan tertakluk kepada Perkara 42 Konvensyen, mahkamah Negara Pejanji juga mempunyai bidang kuasa apabila objek itu ialah helikopter, atau kerangka pesawat udara berkaitan dengan pesawat udara, yang baginya Negara itu ialah Negara pejabat pendaftaran.
 
-Perkara XXII — Penepian kekebalan berdaulat
+## Perkara XXII — Penepian kekebalan berdaulat
 
-1. Tertakluk kepada perenggan 2, penepian sesuatu kekebalan berdaulat daripada bidang kuasa mahkamah yang dinyatakan dalam Perkara 42 atau Perkara 43 Konvensyen atau yang berhubungan dengan penguatkuasaan hak dan kepentingan yang berhubungan dengan objek pesawat udara di bawah Konvensyen hendaklah mengikat dan, jika syarat-syarat lain kepada bidang kuasa atau penguatkuasaan itu telah dipenuhi, hendaklah berkuat kuasa untuk memberikan bidang kuasa dan membenarkan penguatkuasaan, mengikut mana- mana yang berkenaan.
+1. Tertakluk kepada perenggan 2, penepian sesuatu kekebalan berdaulat daripada bidang kuasa mahkamah yang dinyatakan dalam Perkara 42 atau
+
+## Perkara 43 Konvensyen atau yang berhubungan dengan penguatkuasaan hak
+
+dan kepentingan yang berhubungan dengan objek pesawat udara di bawah Konvensyen hendaklah mengikat dan, jika syarat-syarat lain kepada bidang kuasa atau penguatkuasaan itu telah dipenuhi, hendaklah berkuat kuasa untuk memberikan bidang kuasa dan membenarkan penguatkuasaan, mengikut mana- mana yang berkenaan.
 
 2. Penepian di bawah perenggan yang terdahulu mestilah secara bertulis dan mengandungi perihalan objek pesawat udara itu.
 
@@ -1576,17 +1594,23 @@ Perkara XXII — Penepian kekebalan berdaulat
 
 Hubungan dengan Konvensyen yang lain
 
-Perkara XXIII — Hubungan dengan Konvensyen tentang Pengiktirafan Antarabangsa Hak mengenai Pesawat Udara
+## Perkara XXIII — Hubungan dengan Konvensyen tentang Pengiktirafan
+
+Antarabangsa Hak mengenai Pesawat Udara
 
 Konvensyen hendaklah, bagi Negara Pejanji yang merupakan pihak kepada Konvensyen tentang Pengiktirafan Antarabangsa Hak mengenai Pesawat Udara, yang ditandatangani di Geneva pada 19 Jun 1948, menggantikan Konvensyen itu setakat yang ia berkaitan dengan pesawat udara, sebagaimana yang ditakrifkan dalam Protokol ini, dan dengan objek pesawat udara. Walau bagaimanapun, mengenai hak atau kepentingan yang tidak diliputi atau disentuh oleh Konvensyen ini, Konvensyen Geneva tidak boleh digantikan.
 
-Perkara XXIV — Hubungan dengan Konvensyen bagi Penyatuan Kaedah- Kaedah Tertentu Yang Berhubungan dengan Pemasangan Cegahan Pesawat Udara
+## Perkara XXIV — Hubungan dengan Konvensyen bagi Penyatuan Kaedah-
+
+Kaedah Tertentu Yang Berhubungan dengan Pemasangan Cegahan Pesawat Udara
 
 1. Konvensyen hendaklah, bagi Negara Pejanji yang merupakan Pihak kepada Konvensyen bagi Penyatuan Kaedah-Kaedah Tertentu Yang Berhubungan dengan Pemasangan Cegahan Pesawat Udara, yang ditandatangani di Rom pada 29 Mei 1933, menggantikan Konvensyen itu setakat yang ia berkaitan dengan pesawat udara, sebagaimana yang ditakrifkan dalam Protokol ini.
 
 2. Sesuatu Pihak Negara Pejanji kepada Konvensyen di atas boleh mengisytiharkan, pada masa ratifikasi, penerimaan, kelulusan, atau kesertaan Protokol ini, bahawa ia tidak akan memakai Perkara ini.
 
-Perkara XXV — Hubungan dengan Konvensyen UNIDROIT tentang Pemajakan Pembiayaan Antarabangsa
+## Perkara XXV — Hubungan dengan Konvensyen UNIDROIT tentang
+
+Pemajakan Pembiayaan Antarabangsa
 
 Konvensyen hendaklah menggantikan Konvensyen UNIDROIT tentang Pemajakan Pembiayaan Antarabangsa, yang ditandatangani di Ottawa pada 28 Mei 1988, setakat yang ia berkaitan dengan objek pesawat udara.
 
@@ -1610,7 +1634,7 @@ Penyatuan Undang-Undang Persendirian (UNIDROIT) di Rom sehinggalah ia berkuat ku
 
 5. Sesuatu Negara tidak menjadi Pihak kepada Protokol ini melainkan jika ia adalah atau juga menjadi Pihak kepada Konvensyen.
 
-Perkara XXVII — Pertubuhan Integrasi Ekonomi Serantau
+## Perkara XXVII — Pertubuhan Integrasi Ekonomi Serantau
 
 1. Pertubuhan Integrasi Ekonomi Serantau yang dibentuk oleh Negara-Negara berdaulat dan mempunyai kewibawaan atas perkara tertentu yang tertakluk kepada Protokol ini boleh juga menandatangani, menerima, meluluskan atau menyertai Protokol ini. Pertubuhan Integrasi Ekonomi Serantau hendaklah dalam hal itu mempunyai hak dan obligasi Negara Pejanji, setakat yang Pertubuhan itu mempunyai kewibawaan atas perkara yang tertakluk kepada Protokol ini. Jika bilangan Negara Pejanji berkaitan dalam Protokol ini, Pertubuhan Integrasi Ekonomi Serantau tidak boleh dikira sebagai Negara Pejanji sebagai tambahan kepada Negara Anggotanya yang merupakan Negara Pejanji.
 
@@ -1618,7 +1642,7 @@ Perkara XXVII — Pertubuhan Integrasi Ekonomi Serantau
 
 3. Mana-mana sebutan mengenai "Negara Pejanji" atau "Negara-Negara Pejanji" atau "Pihak Negara" atau "Pihak-Pihak Negara" dalam Protokol ini terpakai juga bagi Pertubuhan Integrasi Ekonomi Serantau jika konteksnya menghendaki makna sedemikian.
 
-Perkara XXVIII — Permulaan kuat kuasa
+## Perkara XXVIII — Permulaan kuat kuasa
 
 1. Protokol ini mula berkuat kuasa pada hari pertama dalam bulan yang berikutan dengan tamat tempoh tiga bulan selepas penyimpanan surat cara kelapan ratifikasi, penerimaan, kelulusan atau kesertaan, antara Negara-Negara yang telah menyimpan surat cara itu.
 
@@ -1626,7 +1650,7 @@ Perkara XXVIII — Permulaan kuat kuasa
 
 2. Bagi Negara lain Protokol ini mula berkuat kuasa pada hari pertaraa dalam bulan yang berikutan dengan tamat tempoh tiga bulan selepas tarikh penyimpanan surat cara ratifikasi, penerimaan, kelulusan atau kesertaan.
 
-Perkara XXIX — Unit-unit wilayah
+## Perkara XXIX — Unit-unit wilayah
 
 1. Jika Negara Pejanji mempurtyai unit-unit wilayah yang dalamnya sistem undang-undang yang berlainan terpakai berhubung dengan perkara yang diperkatakan dalam Protokol ini, Negara Pejanji itu boleh, pada masa ratifikasi, penerimaan, kelulusan atau kesertaan, mengisytiharkan bahawa Protokol ini diperluas kepada semua unit wilayahnya atau hanya kepada satu unit wilayah atau lebih dan boleh mengubahsuaikan perisytiharannya dengan mengemukakan perisytiharan lain pada bila-bila masa.
 
@@ -1646,7 +1670,9 @@ Perkara XXIX — Unit-unit wilayah
 
 <!-- page 54 -->
 
-Perkara XXX — Perisytiharan yang berhubungan dengan peruntukan tertentu
+## Perkara XXX — Perisytiharan yang berhubungan dengan
+
+peruntukan tertentu
 
 1. Sesuatu Negara Pejanji boleh, pada masa ratifikasi, penerimaan, kelulusan, atau kesertaan kepada Protokol ini, mengisytiharkan bahawa Negara Pejanji itu akan memakai mana-mana satu atau lebih Perkara VIII, XII dan XIII Protokol ini,
 
@@ -1658,11 +1684,11 @@ Perkara XXX — Perisytiharan yang berhubungan dengan peruntukan tertentu
 
 5. Sesuatu Negara Pejanji boleh, pada masa ratifikasi, penerimaan, kelulusan, atau kesertaan kepada Protokol ini, mengisytiharkan bahawa Negara Pejanji itu tidak akan memakai peruntukan Perkara XXI, keseluruhannya atau sebahagiannya. Perisytiharan itu hendaklah menyatakan syarat-syarat yang di bawahnya Perkara berkaitan itu akan terpakai, sekiranya ia akan terpakai sebahagiannya, atau selainnya yang bentuk relief interim lain akan terpakai.
 
-Perkara XXXI — Perisytiharan di bawah Konvensyen
+## Perkara XXXI — Perisytiharan di bawah Konvensyen
 
 Perisytiharan yang dibuat di bawah Konvensyen, termasuk yang dibuat di bawah Perkara 39, 40, 50, 53, 54, 55, 57, 58 dan 60 Konvensyen, hendaklah disifatkan telah juga dibuat di bawah Protokol ini melainkan jika dinyatakan selainnya.
 
-Perkara XXXII — Reservasi dan perisytiharan
+## Perkara XXXII — Reservasi dan perisytiharan
 
 1. Tiada reservasi boleh dibuat kepada Protokol ini tetapi perisytiharan yang dibenarkan oleh Perkara XXIV, XXIX, XXX, XXXI, XXXIII dan XXXIV boleh dibuat mengikut peruntukan-peruntukan ini.
 
@@ -1670,7 +1696,7 @@ Perkara XXXII — Reservasi dan perisytiharan
 
 <!-- page 55 -->
 
-Perkara XXXIII — Perisytiharan kemudiannya
+## Perkara XXXIII — Perisytiharan kemudiannya
 
 1. Sesuatu Negara Pihak boleh membuat perisytiharan kemudiannya, selain perisytiharan yang dibuat mengikut Perkara XXXI di bawah Perkara 60 Konvensyen, pada bila-bila masa selepas tarikh yang Protokol ini mula berkuat kuasa, dengan memberitahu Pemegang Simpanan yang bermaksud sedemikian.
 
@@ -1678,13 +1704,13 @@ Perkara XXXIII — Perisytiharan kemudiannya
 
 3. Walau apa pun perenggan yang terdahulu, Protokol ini hendaklah terus terpakai, seolah-olah tiada perisytiharan kemudiannya telah dibuat, berkenaan dengan semua hak dan kepentingan yang timbul sebelum tarikh permulaan kuat kuasa mana-mana perisytiharan kemudiannya itu.
 
-Perkara XXXIV — Penarikan balik perisytiharan
+## Perkara XXXIV — Penarikan balik perisytiharan
 
 1. Mana-mana Negara Pihak yang membuat perisytiharan di bawah Protokol ini, selain perisytiharan yang dibuat mengikut Perkara XXXI di bawah Perkara 60 Konvensyen, boleh menarik balik perisytiharan itu pada bila-bila masa dengan memberitahu Pemegang Simpanan. Penarikan balik itu hendaklah berkuat kuasa pada hari pertama dalam bulan yang berikutan dengan tamat tempoh enam bulan selepas penerimaan pemberitahuan oleh Pemegang Simpanan.
 
 2. Walau apa pun perenggan yang terdahulu, Protokol ini hendaklah terus terpakai, seolah-olah tiada penarikan balik sedemikian telah dibuat, berkenaan dengan semua hak dan kepentingan yang timbul sebelum tarikh permulaan kuat kuasa mana-mana penarikan balik sedemikian.
 
-Perkara XXXV — Pembatalan
+## Perkara XXXV — Pembatalan
 
 1. Mana-mana Pihak Negara boleh membatalkan Protokol ini melalui pemberitahuan secara bertulis kepada Pemegang Simpanan.
 
@@ -1694,7 +1720,9 @@ Perkara XXXV — Pembatalan
 
 <!-- page 56 -->
 
-Perkara XXXV! — Kajian Semula Persidangan, pindaan dan perkara yang berkaitan
+## Perkara XXXV! — Kajian Semula Persidangan, pindaan dan perkara
+
+yang berkaitan
 
 1. Pemegang Simpanan, selepas berunding dengan Pihak Berkuasa Penyeliaan, hendaklah menyediakan laporan secara tahunan, atau pada bila-bila masa lain sebagaimana hal keadaan menghendaki, bagi Pihak Negara tentang cara yang rejim antarabangsa ditubuhkan dalam Konvensyen sebagaimana yang dipinda oleh Protokol ini telah diamalkan. Dalam menyediakan laporan itu, Pemegang Simpanan hendaklah mengambil kira laporan oleh Pihak Berkuasa Penyeliaan berkenaan dengan pemfungsian sistem pendaftaran antarabangsa.
 
@@ -1710,7 +1738,7 @@ Perkara XXXV! — Kajian Semula Persidangan, pindaan dan perkara yang berkaitan
 
 3. Mana-mana pindaan kepada Protokol ini hendaklah diluluskan oleh sekurang- kurangnya majoriti dua pertiga Pihak Negara yang menyertai Persidangan yang disebut dalam perenggan yang terdahulu dan hendaklah kemudiannya mula berkuat kuasa berkenaan dengan Negara-Negara yang telah meratifikasikan, menerima atau meluluskan pindaan itu apabila ia telah diratifikasikan, diterima atau diluluskan oleh lapan Negara mengikut peruntukan Perkara XXVIII yang berhubungan dengan permulaan kuat kuasanya.
 
-Perkara XXXVII — Pemegang Simpanan dan fungsinya
+## Perkara XXXVII — Pemegang Simpanan dan fungsinya
 
 1. Surat cara ratifikasi, penerimaan, kelulusan atau kesertaan hendaklah disimpan dengan Institut Antarabangsa bagi Penyatuan Undang-Undang Persendirian (UNIDROIT), yang dengan ini ditetapkan sebagai Pemegang Simpanan.
 

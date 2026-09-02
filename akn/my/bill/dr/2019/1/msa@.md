@@ -20,7 +20,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 2 -->
 
-## Jadual
+## JADUAL
 
 Maksud Tajuk
 
@@ -70,7 +70,7 @@ B. 63 Kementerian Pendidikan
 
 <!-- marginal: 300,005,910 -->
 
-Jumlah
+## JUMLAH
 
 <!-- marginal: 4,133,360,760 -->
 

@@ -1,0 +1,200 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-20-1998",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_6"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Bankruptcy (Amendment) Bill 1998"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Bankruptcy (Amendment) Act 1998."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Bankruptcy Act 1967, which in this Act is referred"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "to as the \"principal Act\", is amended in section 33—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (11); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the marginal note, by inserting after the word \"bankrupt\" the words \"by order of court\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "33 the following sections: Discharge 33A. (1) The Official Assignee may, in his of discretion but subject to section 33B, issue a bankrupt certificate discharging a bankrupt from by Certificate bankruptcy. of Official Assignee. (2) The Official Assignee shall not issue a certificate discharging a bankrupt from bankruptcy under subsection (1) unless— (a) a period of five years has lapsed since the date the receiving order and the order by which he was adjudged bankrupt were made; and (b) the debts proved in the bankruptcy do not exceed five hundred thousand ringgit or such other sum as may be prescribed. (3) Notice of every discharge under subsection (1) shall be given by the Official Assignee to the Registrar and the Official Assignee shall advertise the notice in a local newspaper as prescribed. (4) The Official Assignee shall, upon the application of any interested person, issue a copy of the certificate of discharge to the applicant upon payment of the prescribed fee. 33B. (1) Before issuing a certificate of discharge under section 33A, the Official Assignee shall serve on each creditor who has filed a proof of debt a notice of his intention to issue the 33A. certificate, together with a statement of his reasons for wanting to do so. (2) A creditor who has been served with a notice under subsection (1) and who wishes to object to the issuance of a certificate discharging the bankrupt shall, within twenty-one days from the date of service of the notice, furnish a notice of the objection stating the grounds of his objection. (3) A creditor who does not furnish a notice of his objection and the grounds of his objection in accordance with subsection (2) shall be deemed to have no objection to the discharge. (4) A creditor who has furnished a notice of his objection and the grounds of his objection in accordance with subsection (2) may, within twenty-one days of being informed by the Official Assignee that his objection has been rejected, make an application to the court for an order prohibiting the Official Assignee from issuing a certificate of discharge. (5) Every application under subsection (4) shall be served on the Official Assignee and on the bankrupt and the court shall hear the Official Assignee and the bankrupt before making an order on the application. (6) On an application made under subsection (4), the court may, if it thinks it just and expedient— (a) dismiss the application; (b) make an order that for a period not exceeding two years a certificate of discharge shall not be issued by the Official Assignee.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "35 the following Section: 35. (1) Subject to this section and any condition imposed by the court under section 33, where a bankrupt is discharged, the discharge shall release him from all his debts provable in the bankruptcy but shall have no effect— (a) on the functions (so far as they remain to be carried out) of the Official Assignee; or (b) on the operation, for the purposes of the carrying out those functions, of the provisions of this Act. (2) A discharge shall not release the bankrupt from— (a) any debt, due to the Government of Malaysia or of any State; or (b) any debt with which the bankrupt may be chargeable at the suit of— (i) the Government of Malaysia or of any State or any other person for any offence under any written law relating to any branch of the public revenue; or (ii) any other public officer on a bail bond entered into for the appearance of any person prosecuted for any such offence; or (c) any provable debt which he incurred in respect of, or forbearance in respect of which was secured by means of, any fraud or fraudulent breach of trust to which he was party; or (d) any liability in respect of a fine imposed for an offence. (3) A bankrupt may be discharged from any of the debts excepted under subsection (2) by a certificate in writing of the Minister of Finance in the case of a debt due to the Government of Malaysia or the Menteri Besar or Chief Minister of any State in the case of a debt due to the State or of the Attorney General in the case of such bail bond as is referred to in subsection (2). (4) An order of discharge or a certificate of discharge shall be conclusive evidence of the bankruptcy and of the validity of the proceedings therein, and in any proceedings that are instituted against a bankrupt who has obtained an order of discharge or a certificate of discharge in respect of any debt from which he is released by the order or certificate the bankrupt may plead that the cause of action occurred before his discharge. (5) A discharge shall not release any person other than the bankrupt from any liability (whether as partner or co-trustee of the bankrupt or otherwise) from which the bankrupt is released by the discharge, or from any liability as surety for the bankrupt or as a person in nature of such a surety.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "35 the following section: 35A. A discharged bankrupt shall, not- withstanding his discharge, give such assistance as the Official Assignee requires in the realization and distribution of such of his property as is vested in the Official Assignee, and if the discharged bankrupt fails to do so— (a) he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding six months or to both; and (b) the court may, if it thinks fit, revoke his discharge, but without prejudice to the validity of any sale, disposition or payment duly made, or thing duly done subsequent to the discharge, but before its revocation.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_6__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_6__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "39 the following section: 39. (1) The Official Assignee shall keep and maintain a list of undischarged bankrupts."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The list under subsection (1) shall be available, at all reasonable times, for inspection by any member of the public at any office of the Official Assignee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The name of a deceased bankrupt shall be removed from the list five years after the end of the administration of his estate in bankruptcy."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_6__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/20/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Official Assignee may issue a copy of the list to any person upon request by that person and upon payment of the prescribed fee.\"."
+      }
+    }
+  ]
+}

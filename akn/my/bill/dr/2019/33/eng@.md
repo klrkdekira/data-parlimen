@@ -4,21 +4,47 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## ChApTER I
+## CHAPTER I
 
 ## PRELIMINARY
 
 1. Short title 2. Amendment of Acts
 
-## ChApTER II
+## CHAPTER II
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-3. Commencement of amendments to the Income Tax Act 1967 4. Amendment of section 2 5. Amendment of section 6 6. Amendment of section 6A 7. Amendment of section 34 8. Amendment of section 44 9. Amendment of section 46 10. Amendment of section 74 11. Amendment of section 77b 12. Amendment of section 91 13. Amendment of section 96 14. Amendment of section 100 15. Amendment of section 103 16. Amendment of section 104 17. Amendment of section 106 18. Amendment of section 109G 19. Amendment of section 153 20. Amendment of Schedule 1 21. Amendment of Schedule 3 22. Amendment of Schedule 6
+3. Commencement of amendments to the Income Tax Act 1967 4. Amendment of section 2 5. Amendment of section 6 6. Amendment of section 6A 7. Amendment of section 34 8. Amendment of section 44 9. Amendment of section 46
+
+10. Amendment of section 74
+
+11. Amendment of section 77b
+
+12. Amendment of section 91
+
+13. Amendment of section 96
+
+14. Amendment of section 100
+
+15. Amendment of section 103
+
+16. Amendment of section 104
+
+17. Amendment of section 106
+
+18. Amendment of section 109G
+
+19. Amendment of section 153
+
+20. Amendment of Schedule 1
+
+21. Amendment of Schedule 3
+
+22. Amendment of Schedule 6
 
 <!-- page 5 -->
 
-## ChApTER III
+## CHAPTER III
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
@@ -32,7 +58,7 @@
 
 27. Amendment of Schedule 5
 
-## ChApTER IV
+## CHAPTER IV
 
 ## AMENDMENT TO THE STAMP ACT 1949
 
@@ -40,7 +66,7 @@
 
 29. Amendment of First Schedule
 
-## ChApTER V
+## CHAPTER V
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
@@ -56,7 +82,7 @@
 
 35. Amendment of section 83
 
-## ChApTER VI
+## CHAPTER VI
 
 ## AMENDMENT TO THE SALES TAX ACT 2018
 
@@ -64,7 +90,7 @@
 
 37. New Part IXA
 
-## ChApTER VII
+## CHAPTER VII
 
 ## AMENDMENTS TO THE FINANCE ACT 2010
 
@@ -74,7 +100,7 @@
 
 <!-- page 6 -->
 
-## ChApTER VIII
+## CHAPTER VIII
 
 ## AMENDMENT TO THE FINANCE ACT 2018
 
@@ -90,7 +116,7 @@ An Act to amend the Income Tax Act 1967, the Real Property Gains Tax Act 1976, t
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## ChApTER I
+## CHAPTER I
 
 ## PRELIMINARY
 
@@ -104,7 +130,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 9 -->
 
-## ChApTER II
+## CHAPTER II
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
@@ -344,87 +370,9 @@ may, within one month from the date on which such decision is notified to him, m
 
 “1. Except where paragraphs 1A, 2, 2A, 2d, 3 and 4 provide otherwise, income tax shall be charged for a year of assessment upon the chargeable income of every person at the following rates:
 
-Chargeable income
+Chargeable income RM Rate of income tax
 
-<!-- marginal: RM -->
-
-<!-- marginal: Rate of -->
-
-<!-- marginal: income tax -->
-
-For every ringgit of the
-
-<!-- marginal: 5,000 -->
-
-<!-- marginal: 0 per cent -->
-
-first For every ringgit of the
-
-<!-- marginal: 15,000 -->
-
-<!-- marginal: 1 per cent -->
-
-next For every ringgit of the
-
-<!-- marginal: 15,000 -->
-
-<!-- marginal: 3 per cent -->
-
-next For every ringgit of the
-
-<!-- marginal: 15,000 -->
-
-<!-- marginal: 8 per cent -->
-
-next For every ringgit of the
-
-<!-- marginal: 20,000 -->
-
-<!-- marginal: 14 per cent -->
-
-next For every ringgit of the
-
-<!-- marginal: 30,000 -->
-
-<!-- marginal: 21 per cent -->
-
-next For every ringgit of the
-
-<!-- marginal: 150,000 -->
-
-<!-- marginal: 24 per cent -->
-
-next For every ringgit of the
-
-<!-- marginal: 150,000 -->
-
-<!-- marginal: 24.5 per cent -->
-
-next For every ringgit of the
-
-<!-- marginal: 200,000 -->
-
-<!-- marginal: 25 per cent -->
-
-next For every ringgit of the
-
-<!-- marginal: 400,000 -->
-
-<!-- marginal: 26 per cent -->
-
-next For every ringgit of the
-
-<!-- marginal: 1,000,000 -->
-
-<!-- marginal: 28 per cent -->
-
-next For every ringgit
-
-<!-- marginal: 2,000,000 -->
-
-<!-- marginal: 30 per cent”; -->
-
-exceeding
+For every ringgit of the 5,000 0 per cent first For every ringgit of the 15,000 1 per cent next For every ringgit of the 15,000 3 per cent next For every ringgit of the 15,000 8 per cent next For every ringgit of the 20,000 14 per cent next For every ringgit of the 30,000 21 per cent next For every ringgit of the 150,000 24 per cent next For every ringgit of the 150,000 24.5 per cent next For every ringgit of the 200,000 25 per cent next For every ringgit of the 400,000 26 per cent next For every ringgit of the 1,000,000 28 per cent next For every ringgit 2,000,000 30 per cent”; exceeding
 
 (ii) in paragraph 1A, by substituting for the words “28 per cent” the words “30 per cent”;
 
@@ -434,41 +382,17 @@ exceeding
 
 “2a. Subject to paragraphs 2b, 2C and 3, income tax shall be charged for a year of assessment on the chargeable income of a company resident and incorporated in Malaysia which has a paid-up capital in respect of ordinary shares of two million five hundred thousand ringgit and less at the beginning of the basis period for a year of assessment and gross income from source or sources consisting of a business not exceeding fifty million ringgit for the basis period for that year of assessment at the following rates:
 
-Chargeable income RM
+Chargeable income RM Rate of income tax
 
-<!-- marginal: Rate of -->
-
-<!-- marginal: income tax -->
-
-For every ringgit of 600,000
-
-<!-- marginal: 17 per cent -->
-
-the first For every ringgit 600,000
-
-<!-- marginal: 24 per cent”; and -->
-
-exceeding
+For every ringgit of 600,000 17 per cent the first For every ringgit 600,000 24 per cent”; and exceeding
 
 (iv) by substituting for paragraph 2d the following paragraph:
 
 “2d. Subject to paragraphs 2E, 2F and 3, income tax shall be charged for a year of assessment on the chargeable income of a limited liability partnership resident in Malaysia which has a total contribution of capital (whether in cash or in kind) of two million five hundred thousand ringgit and less at the beginning of the basis period for a year of assessment and gross income from source or sources consisting of a business not exceeding fifty million ringgit for the basis period for that year of assessment at the following rates:
 
-Chargeable income RM
+Chargeable income RM Rate of income tax
 
-<!-- marginal: Rate of -->
-
-<!-- marginal: income tax -->
-
-For every ringgit of 600,000
-
-<!-- marginal: 17 per cent -->
-
-the first For every ringgit 600,000
-
-<!-- marginal: 24 per cent”; and -->
-
-exceeding
+For every ringgit of 600,000 17 per cent the first For every ringgit 600,000 24 per cent”; and exceeding
 
 <!-- page 20 -->
 
@@ -502,7 +426,7 @@ exceeding
 
 or endowment received including the income derived therefrom in the basis period for a year of assessment, so long as the approval remains in force.”.
 
-## ChApTER III
+## CHAPTER III
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
@@ -536,7 +460,7 @@ or endowment received including the income derived therefrom in the basis period
 
 (b) in Part III, by inserting after the words “or an executor of the estate of a deceased person who is not a citizen and not a permanent resident” the words “, or a company not incorporated in Malaysia”.
 
-## ChApTER IV
+## CHAPTER IV
 
 ## AMENDMENT TO THE STAMP ACT 1949
 
@@ -548,7 +472,7 @@ or endowment received including the income derived therefrom in the basis period
 
 29. The Stamp Act 1949 is amended in the First Schedule in subitem 27(a)(ii), in the column “Proper Stamp Duty” by substituting for the word “RM500” the word “RM2,000”.
 
-## ChApTER V
+## CHAPTER V
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
@@ -610,7 +534,7 @@ then, so long as the order remains in force, notwithstanding anything in any wri
 
 <!-- page 25 -->
 
-## ChApTER VI
+## CHAPTER VI
 
 ## AMENDMENT TO THE SALES TAX ACT 2018
 
@@ -620,11 +544,9 @@ then, so long as the order remains in force, notwithstanding anything in any wri
 
 ### New Part IXa
 
-37. The Sales Tax Act 2018 is amended by inserting after
+37. The Sales Tax Act 2018 is amended by inserting after Part IX the following part:
 
-## Part IX the following part:
-
-“pART IXA
+## “PART IXA
 
 ## SPECIAL SCHEMES
 
@@ -642,7 +564,7 @@ then, so long as the order remains in force, notwithstanding anything in any wri
 
 (3) Where any person who has been granted an approval under the Approved Major Exporter Scheme fails to comply with any prescribed conditions, any sales tax that has been exempted shall become due and payable by the person from the date of the non-compliance of the conditions and such sales tax shall be paid in the form and manner as may be determined by the Director General.”.
 
-## ChApTER VII
+## CHAPTER VII
 
 ## AMENDMENTS TO THE FINANCE ACT 2010
 
@@ -704,7 +626,7 @@ Provided that if that company, trust body or co-operative society pays that sum 
 
 35. Jika terdapat apa-apa ketidakselarasan antara mana-mana peruntukan Bahagian ini dengan mana-mana peruntukan Akta ibu, peruntukan Akta ibu adalah terbatal setakat ketidakselarasan itu.”.
 
-## ChApTER VIII
+## CHAPTER VIII
 
 ## AMENDMENT TO THE FINANCE ACT 2018
 
@@ -732,7 +654,7 @@ This Bill seeks to amend the Income Tax Act 1967 (“Act 53”), the Real Proper
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-## Chapter II of this Bill seeks to amend the Income Tax Act 1967.
+Chapter II of this Bill seeks to amend the Income Tax Act 1967.
 
 2. Clause 5 seeks to amend section 6 of Act 53.
 
@@ -760,7 +682,9 @@ These amendments have effect for the year of assessment 2020 and subsequent year
 
 5. Clause 8 seeks to amend section 44 of Act 53.
 
-Paragraphs 8(b), (d) and (e) seek to amend subsections 44(6), (11b) and (11C) of Act 53 respectively to provide that the maximum amount allowed as deduction to a person other than a company for any gift of money to any approved institution, organization or fund, for any sports activity or project of national interest is increased from seven per cent to ten per cent of the aggregate income.
+Paragraphs 8(b), (d) and (e) seek to amend subsections 44(6), (11b) and
+
+(11C) of Act 53 respectively to provide that the maximum amount allowed as deduction to a person other than a company for any gift of money to any approved institution, organization or fund, for any sports activity or project of national interest is increased from seven per cent to ten per cent of the aggregate income.
 
 Paragraph 8(c) seeks to amend subsection 44(6b) of Act 53 to allow any appropriate religious authority, body or public university aggrieved by the decision of the Director General in respect of an application made under subsection 44(11d) of Act 53 to appeal to the Minister.
 
@@ -844,7 +768,7 @@ This amendment has effect for the year of assessment 2020 and subsequent years o
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
-## Chapter III of this Bill seeks to amend the Real Property Gains Tax Act 1976.
+Chapter III of this Bill seeks to amend the Real Property Gains Tax Act 1976.
 
 17. Clause 24 seeks to amend subsection 21b(1A) of Act 169 to extend the requirement of retention sum relating to the disposal of a chargeable asset amounting to seven per cent to a company not incorporated in Malaysia.
 
@@ -864,7 +788,7 @@ These amendments come into operation on the coming into operation of this Act.
 
 ## AMENDMENT TO THE STAMP ACT 1949
 
-## Chapter IV of this Bill seeks to amend the Stamp Act 1949.
+Chapter IV of this Bill seeks to amend the Stamp Act 1949.
 
 20. Clause 29 seeks to amend subitem 27(a)(ii) of the First Schedule to Act 378 to increase the maximum amount of stamp duty payable on a foreign currency loan from five hundred ringgit to two thousand ringgit.
 
@@ -872,7 +796,7 @@ This amendment comes into operation on 1 January 2020.
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
-## Chapter V of this Bill seeks to amend the Petroleum (Income Tax) Act 1967.
+Chapter V of this Bill seeks to amend the Petroleum (Income Tax) Act 1967.
 
 21. Clause 31 seeks to amend section 39 of Act 543 to empower the Director General to raise assessment at any time in consequence of a mutual agreement procedure in the double taxation arrangement effected under section 65A of Act 543.
 
@@ -898,7 +822,7 @@ This amendment is deemed to have come into operation on 28 December 2018.
 
 ## AMENDMENT TO THE SALES TAX ACT 2018
 
-## Chapter VI of this Bill seeks to amend the Sales Tax Act 2018.
+Chapter VI of this Bill seeks to amend the Sales Tax Act 2018.
 
 26. Clause 37 seeks to introduce a new Part IXA into Act 806 to provide for the Approved Major Exporter Scheme. This Scheme allows the exemption from the whole payment of sales tax to any person who qualifies to be exempted that is a trader and manufacturer, on the taxable goods imported, transported from designated areas or special areas, or purchased from a registered manufacturer provided that the taxable goods are imported, transported, purchased or used in the manufacture of goods exempted from sales tax for the purpose of exportation.
 
@@ -908,7 +832,7 @@ This amendment comes into operation on a date to be appointed by the Minister by
 
 ## AMENDMENTS TO THE FINANCE ACT 2010
 
-## Chapter VII of this Bill seeks to amend the Finance Act 2010.
+Chapter VII of this Bill seeks to amend the Finance Act 2010.
 
 27. Paragraphs 39(a) and (c) seek to substitute sections 6 and 35 of the national language text of Act 702 respectively to make the provisions consistent with the English language text while paragraph 39(b) seeks to substitute section 10 of the English language text of Act 702 to make it consistent with the national language text.
 
@@ -916,7 +840,7 @@ These amendments come into operation on the coming into operation of this Act.
 
 ## AMENDMENT TO THE FINANCE ACT 2018
 
-## Chapter VIII of this Bill seeks to amend the Finance Act 2018.
+Chapter VIII of this Bill seeks to amend the Finance Act 2018.
 
 28. Clause 41 seeks to amend section 71 of Act 812 to clarify that the commencement date for the deletion of section 7 of the Labuan Business Activity Tax Act 1990 [Act 445] in relation to the election to be taxed at twenty thousand ringgit is for the year of assessment 2020 and subsequent years of assessment.
 

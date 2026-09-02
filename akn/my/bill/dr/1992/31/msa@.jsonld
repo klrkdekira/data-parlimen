@@ -1,0 +1,256 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-31-1992",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_10"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Telekomunikasi (Pindaan) 1992"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Telekomunikasi (Pindaan) 1992."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "selepas sahaja seksyen 47,' seksyen baru 47A berikut: 47A. Where any person is charged with an offence under this Act, any statement, whether the statement amounts to a confession or not or whether it is oral or in writing, made at any time, whether before or after the person is charged and whether in the course of an investigation or not and whether or not wholly or partly in answer to questions, by that person to or in the hearing of any authorized telecornmunication officer and whether or not interpreted to him by another telecom- munication officer or other person, shall be admissible in evidence at his trial and, if the person charged tenders himself as a witness, any such statement may be used in cross- examination and for the purpose of impeaching his credit: Provided that— (a) no such statement shall be admissible or used as aforesaid— (i) if the making of the statement appears to the court to have been caused by any inducement, threat or promise having reference to the charge against such person proceeding from a person in authority and sufficiem in the opinion of the court to give the person charged grounds which would appear to him reasonable for supposing that by making it he would gain any advantage or avoid any evil of a temporal nature in reference to the proceedings against him; or (ii) in the case of a statement made by the person after his arrest, unless the court is satisfied that he was cautioned in the following words or words to the like effect: \"It is my duty to warn you that'you are not obliged to say anything or to answer any question, but anything you say, whether in answer to a question or not, may be given in evidence\"; and (b) a statement made by any person before . there is time to caution him shall not be rendered inadmissible«in evidence merely by reason of his not having been cautioned if he is cautioned as soon as possible.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 3 Akta Telekomunikasi 1950, yang disebut"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "\"Akta ibu\" dalam Akta ini, adalah dipinda dengan memasukkan selepas sahaja subseksyen (3), subseksyen baru (4) dan (5) berikut: \"(4) No licence shall be assigned, transferred, or sublet, to any person, unless the written consent of the Minister has been given. (5) A licence granted under this Part shall not preclude the application of Part V including the requirement for a separate licence under section 37 of that Part, whenever the telecommunications network involves a radiocommunication station.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 35 Akta ibu adalah dipinda dalam"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas sahaja perkataan- perkataan \"Hertzian waves\" yang terdapat dalam takrif \"radiocommunication apparatus\" perkataan-perkataan \", and includes the apparatus used or capable of being used for the purpose of visual and aural reception directly from a space station of any broadcast matter\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas sahaja takrif \"radiocommunication propagation path\" takrif berikut: ' \"radiocommunication station\" includes a television receive only station;'; *"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas sahaja takrif \"television broadcast receiver\" takrif berikut: ' \"television receive only station\" means a radiocommunication station consisting of an antennae, a radiocommunication receiver and television broadcast receiver or video monitor or other apparatus used or capable of being used for the purpose of visual and aural reception directly from a space station of any broadcast matter;'."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 37 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memasukkan selepas sahaja subseksyen (2), subseksyen baru (2A) berikut: \"(2A) The Minister may, by order published in the Gazette, exempt absolutely or subject to such conditions as may be prescribed, the requirement of a licence under this section in respect of any low power radiocommunication apparatus, or any class thereof.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas seksyen bam sahaja seksyen 37, seksyen baru 37A berikut: \"Subscribers 3?A. (1) In granting a licence under section to specific 37, the Minister may, in certain specific services, license an operator of radiocommunication network to include any apparatus used by a subscriber to that radiocommunication network, and may impose payment of such fees as may be necessary reflecting the number of subscribers. (2) Where a licence is granted to an operator of a radiocommunication network which includes any apparatus used by a subscriber to that radiocommunication network, any person subscribing to the specific services of that radiocommunication network shall be deemed to have been duly licensed and shall not be required to be licensed separately under this Act or any regulation made thereunder. (3) For the purpose of this section— \"radiocommunication network\" means any system or series of systems for carrying out communications by means of radio or Hertzian waves; and \"specific services\" means those specific services prescribed by the Minister by order published in the Gazette.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 38 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memasukkan selepas sahaja perkataan-perkataan \"television broadcast receiver\" yang terdapat di akhir proviso kepadanya perkataan-perkataan \"except where the television broadcast receiver forms part of a television receive only station\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas sahaja subseksyen (5), subseksyen baru (6) berikut: \"(6) In any proceedings under this Act, any document purporting to be a certificate given by an authorized telecommunication officer certifying that a particular apparatus radiocommunication apparatus shall be admissible as prima facie evidence of the facts stated therein until the contrary proved.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 40 Akta ibu adalah dipinda dalam"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas sahaja perenggan (f) perenggan baru (fa) berikut: \"(fa) prohibiting or regulating the working or using of any radiocommunication apparatus in any premises Malaysia;\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas sahaja perenggan (ja) perenggan baru (jb) berikut; \"(jb) giving effect to international agree- ments, conventions or treaties relating to radiocommunication Malaysia is a party;\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 43 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan-perkataan \"one thousand and five hundred ringgit\" dengan perkataan-perkataan \"fifty thousand ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sahaja seksyen 44, seksyen baru 44A berikut: \"Powers ot ' 44A. (1) An authorized telecommunication examina- officer may, at any time during office hours, tion. where there are reasonable grounds to believe that there is at any telecommunication plant or radiocommunication station, any interference- causing equipment, radio apparatus or radio- sensitive equipmeht, enter such place and— (a) examine any interference-causing equipment, radio apparatus or radio- sensitive equipment found therein; and (b) examine any books, log books, reports, test data, records, shipping bills, bills of lading or other documents or papers found therein that the officer reasonably believes contain information relevant for the purposes of this Act, and may make copies thereof or take extracts therefrom. (2) Where an examination indicates that there is any interference-causing equipment, radio apparatus or radio-sensitive equipment, the Director-General may direct that such necessary steps shall be taken to ensure an interference—free environment.\"."
+      }
+    }
+  ]
+}

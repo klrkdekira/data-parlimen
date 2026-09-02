@@ -38,7 +38,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 4. The principal Act is amended by inserting after Part V the following Part:
 
-“Part Va
+## “PART VA
 
 ## INTERNATIONAL CIRCULATION OF LAND PUBLIC TRANSPORT
 

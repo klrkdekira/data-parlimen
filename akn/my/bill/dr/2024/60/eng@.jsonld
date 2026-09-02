@@ -1,0 +1,2299 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-60-2024",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Data Sharing Bill 2024"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I__cl_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title and commencement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_10"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "NATIONAL DATA SHARING COMMITTEE Establishment of Committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_III__cl_11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "DUTIES AND POWERS OF DIRECTOR GENERAL Duties and powers of Director General"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_III__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_III__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_III__cl_11__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_III__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_III__cl_11__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_III__cl_11__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_III__cl_11__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_III__cl_11__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_III__cl_11__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_III__cl_11__subsec_1__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General shall have the following duties and powers:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_III__cl_11__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_III__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to implement the policies and strategies relating to data sharing formulated by the Committee;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_III__cl_11__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_III__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to coordinate and facilitate data sharing under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_III__cl_11__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_III__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to advise and make recommendations to the Committee on matters relating to data sharing under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_III__cl_11__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_III__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to require any person to submit any relevant information or document for the purpose of performing its duties and powers under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_III__cl_11__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_III__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to issue circulars or guidelines for the purposes of this Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_III__cl_11__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_III__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to carry out any other duties as directed by the Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_III__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General shall have all such powers as may be necessary for, or in connection with, or reasonably incidental to, the carrying out of his duties and powers under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_10__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_10__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_10__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_10__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_10__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_10__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Committee may establish any subcommittee as the Committee considers necessary or expedient to assist the Committee in the performance of its functions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Committee may appoint any person to be a member of any subcommittee established under subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_10__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Committee may appoint any of its members to be the chairman of the subcommittee established under subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_10__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The subcommittee shall be subject to and act in accordance with any direction given by the Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_10__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The subcommittee shall meet at the time, place and in the manner as the chairman of the subcommittee may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_10__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The subcommittee may invite any person to attend meetings of the subcommittee to advise the subcommittee on any matter under discussion."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_10__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The subcommittee may determine its own procedure."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A committee by the name of “National Data Sharing Committee” is established and shall be responsible to the Cabinet."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5__subsec_2__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Committee shall consist of the following members:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Secretary General of the ministry charged with the responsibility for digital, who shall be the Chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a representative of each of the ministries;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a representative of the Prime Minister’s Department;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chief Government Security Officer;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a representative of the National Cyber Security Agency; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a representative of the Personal Data Protection Department."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Members of the Committee referred to in paragraphs (2)(b) to (f) shall be appointed by the Minister and the Minister may, in respect of each of the member, appoint an alternate member to attend meetings of the Committee when the member is for any reason unable to attend."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chairman shall appoint from among the members of the Committee a Deputy Chairman."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General shall be the secretary to the Committee. Functions of Committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_1__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Committee shall have the following functions:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to formulate policies and strategies relating to data sharing under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to oversee the effective implementation of this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to take or recommend appropriate steps and administrative actions to resolve the difficulties or administrative issues which arise during the implementation of the Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to formulate policies relating to database for the purposes of data sharing under this Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to do such other things arising out of or consequential to the functions of the Committee under this Act consistent with the purposes of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The policies dan strategies referred to in subsection (1) may include—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the procedures to preserve the privacy and confidentiality of data;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the safeguards relating to data handling and storage;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the method for data sharing under this Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the risk assessment frameworks for data handling and storage."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Committee shall have all such powers as may be necessary for, or in connection with, or reasonably incidental to, the performance of its functions under this Act. Temporary exercise of functions of Chairman"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_7__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_7__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_7__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Deputy Chairman shall act as the Chairman for the period when—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_7__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the office of the Chairman is vacant; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_7__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chairman is, for any reason, unable to carry out his functions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Deputy Chairman shall, during the period in which he carries out the functions of the Chairman under this section, be deemed to be the Chairman. Meetings of Committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_8__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_8__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_8__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Committee shall convene its meeting as the Chairman may determine and the meeting shall be held at the time, place and in the manner as the Chairman may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chairman shall preside at all meetings of the Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Chairman is absent from any meeting of the Committee, he may direct the Deputy Chairman to replace him as the chairman of the meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_8__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Fifteen members, including the Chairman, shall form the quorum of the meeting of the Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_8__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Committee may determine its own procedure. Committee may invite others to attend meetings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Committee may invite any person to attend meetings of the Committee to advise the Committee on any matter under discussion. Committee may establish subcommittees"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_21"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "DATA SHARING Request for data sharing"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_12__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_12__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any public sector agency may, in such manner as the Director General may determine, request to another public sector agency for the sharing of data under the control of such other public sector agency."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_12__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_12__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_12__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_12__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The request referred to in subsection (1) shall specify—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_12__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_12__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the data requested;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_12__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_12__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the purpose for which the data is requested;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_12__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_12__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the public service agencies intended to be the data recipient and the data provider; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_12__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_12__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the manner of handling the data requested."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_12__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of subsection (1), a public sector agency is taken to have control of data if the data is within the possession or custody of the public sector agency. Purpose for which data may be shared"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_13__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_13__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_13__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_13__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A request for sharing of data may be made and granted for the following purposes:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to enhance the efficiency or effectiveness of policies, programme management or service planning and delivery by public sector agencies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to reduce or prevent threat to the life, health or safety of a person, or threat to public health or safety;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_13__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to respond to a public emergency;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_13__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the public interest; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_13__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "such other purposes as the Committee may determine. Evaluation and response by public sector agency receiving request for data sharing"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_14__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_14__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_14__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_14__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_14__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The public sector agency to whom a request is made for data sharing under section 13 shall, after receiving the request, make the following evaluation:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_14__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "whether the purpose for which the data is requested warrants the sharing of the data;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_14__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "whether the sharing of the data is against the public interest; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_14__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "whether the public sector agency requesting the data has appropriate security and technical safeguards in place to ensure that the shared data is not subject to unauthorized access and use."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "After making the evaluation under subsection (1), the public sector agency to whom the request for data sharing is made shall, within fourteen days from the date of receiving the request respond as to whether the data requested may be provided, with or without conditions, or is refused under section 15."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_14__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_14__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the response referred to in subsection (2) is not possible to be provided within the period specified, the public sector agency to whom the request for data sharing is made shall inform the public sector agency making the request—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_14__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_14__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the reason as to why the response cannot be provided within the period specified; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_14__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_14__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the period within which such response will be provided."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_14__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The response and information referred to in this section shall be provided in such manner as the Director General may determine. Refusal to share data requested"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The public sector agency to whom a request for sharing of data is made under section 12 may refuse to share some or all of the data requested based on the following reasons:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the data requested could reasonably be expected to disclose, or enable a person to ascertain, the identity of a confidential source of information relating to the enforcement or administration of law;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the data requested could reasonably be expected to disclose the existence or identity of a person included in a witness protection programme;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the data requested could reasonably be expected to disclose investigative measures or procedures, including intelligence gathering methodologies, investigative techniques or technologies, covert practices or information sharing arrangements between law enforcement agencies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_d__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_d__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_d__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the sharing of the data requested will constitute a breach of one or more of the following:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the solicitor-client privilege or legal professional privilege;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an agreement or a contract;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_d__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an equitable obligation of confidence; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_d__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an order of a court or tribunal;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_e__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_e__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_e__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the data requested involves one or more of the following:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "national security or defence;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the investigation of a breach, or possible breach, of any written law;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_e__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an inquest or inquiry into death; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_e__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a proceeding before a court or tribunal;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the public sector agency believes on reasonable grounds that the sharing of the data requested would be likely to endanger the health, safety or welfare of one or more individuals;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the data requested is inconsistent with the purpose specified under section 13 and does not warrant the data to be shared;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the public sector agency requesting the data does not possess appropriate security and technical safeguards to ensure that the data to be shared is not subject to unauthorized access and use; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other reason as the Committee may determine. Duty relating to data sharing"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_16__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_16__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_16__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_16__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "A data provider and data recipient shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ensure that the shared data is managed and maintained in compliance with any legal requirements concerning its custody and control that are applicable to such data;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_16__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_16__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "take necessary measures to ensure the security and privacy of the data including—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_16__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_16__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the protection of data from any loss, misuse, unauthorized or accidental modification, access or disclosure, alteration or destruction; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_16__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_16__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the preservation of rights of individuals relating to personal data protection;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_16__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "keep record of all particulars relating to the shared data;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_16__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "report any unauthorized sharing of data to the Director General; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_16__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "comply with such other requirements as the Committee may determine. Duty of third party to protect shared data"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_17__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_17__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a data recipient arranges for any third party to conduct any data migration, data integration or data analytics work using the shared data under this Act, the data recipient shall ensure that the consent of the data provider is obtained before the data is handled by such third party."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The third party referred to in subsection (1) shall handle the data in compliance with this Act and the requirements relating to the security of the data applicable in respect of the shared data."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_17__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any third party who contravenes subsection (2) commits an offence and shall, upon conviction, be liable to a fine not exceeding one million ringgit or imprisonment for a term not exceeding five years or to both. Restriction on further use and disclosure of shared data"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_18__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any officer or servant of a data recipient shall not use or disclose the shared data under this Act other than for the purpose for which the data is shared."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any officer or servant of a data recipient who contravenes subsection (1) commits an offence and shall, upon conviction, be liable to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding five years or to both. Imposition of fees under other written law"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The sharing of data under this Act may, where applicable, be subject to the payment of fees as may be imposed by the data provider under any other written law. Sharing of open data"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of sharing of open data, any open data that is available freely by any public sector agency may be accessible and shared regardless whether a request is made under section 12 or not. Duty to report particulars relating to data sharing"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_21__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_21__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_21__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_21__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_21__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A public sector agency shall provide a report in writing to the Director General on the following matters:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_21__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the particulars of requests for data sharing made by the public sector agency;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_21__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the response given relating to the request for data sharing;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_21__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the data requested is refused, the reason for such refusal; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_21__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other information within the control of the public sector agency as the Director General may require."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The report referred to in subsection (1) shall be furnished from time to time as the Director General may require."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Data Sharing Act 2024."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. This Act binds Federal Government"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall bind the Federal Government. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I__cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I__cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "“public sector agency” means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I__cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the agency in charge of the public services referred to in Clause (1) of Article 132 of the Federal Constitution, except the services referred to in paragraphs (f) and (g); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I__cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any statutory authority exercising powers vested in it by a federal law; “data” means any facts, statistics, instructions, concepts or other information in a form that is capable of being communicated, analyzed or processed, whether by an individual or a computer or other means; “document” has the same meaning assigned to it under the Evidence Act 1950 [Act 56]; “data integration” means the process of combination of data; “Committee” means the National Data Sharing Committee established under section 5; “data analytics work” means the examination and analysis of data for the purpose of drawing conclusions as a result of that examination and analysis; “Director General” means the Director General of the National Digital Department; “Minister” means the Minister charged with the responsibility for digital related matters; “data provider” means the public sector agency that shares data to a data recipient under Part IV; “data recipient” means the public sector agency to which data is shared under Part IV. Pillars of data sharing"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I__cl_4__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall be read together with the provisions of other written laws which allow for data sharing to be made, subject to the conditions provided under such laws, and the provisions of this Act shall be in addition to, and not in derogation of, the provisions of the relevant written laws."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who shares data under this Act is deemed to have made such disclosure pursuant to the provisions specified in column (3) under the laws specified in column (2) of the Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_I__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any data of the public sector agency shall be dealt with in accordance with the Official Secrets Act 1972 [Act 88] and any directives relating to the security of official document issued by the Government."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_29"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "GENERAL Powers of enforcement, inspection and investigation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this Act, a police officer not below the rank of sergeant shall have all the powers of a police officer of whatever rank as provided for in the Criminal Procedure Code [Act 593] relating to enforcement, inspection and investigation of any offence under this Act. Obligation of secrecy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_23__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Except for any of the purposes of this Act or for the purposes of any civil or criminal proceedings under any written law, any officer or servant of a public sector agency, whether during or after his tenure of office or employment, shall not disclose any information obtained by him in the course of his duties."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) commits an offence and shall, upon conviction, be liable to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding five years or to both. Protection against suit and legal proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No action, suit, prosecution or other proceedings shall be brought, instituted or maintained in any court against the Minister, any member of the Committee, the Director General or any officer or servant of a public sector agency on account of or in respect of any act, neglect or default done or omitted by him in the course of carrying out his duties under this Act unless it can be proven that the act, neglect or default was done or omitted in bad faith and without reasonable cause. Prosecution"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No prosecution for an offence under this Act shall be instituted except by or with the written consent of the Public Prosecutor. Liability of director, etc., of statutory body"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_26__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_26__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any person who commits an offence under this Act is a statutory body, a person who at the time of the commission of the offence was a director, compliance officer, manager, secretary or other similar officer of the statutory body or was purporting to act in the capacity or was in any manner or to any extent responsible for the management of any of the affairs of the statutory body or was assisting in its management—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_26__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "may be charged severally or jointly in the same proceedings with the statutory body; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_26__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_26__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_26__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if the statutory body is found guilty of the offence, shall be deemed to be guilty of the offence and shall be liable to the same punishment or penalty as an individual unless, having regard to the nature of his functions in that capacity and to all circumstances, he proves—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_26__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_26__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that the offence was committed without his knowledge; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_26__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_26__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that the offence was committed without his consent or connivance and that he had taken all reasonable precautions and exercised due diligence to prevent the commission of the offence. Power to exempt"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, by order published in the Gazette, subject to such conditions or restrictions as he may consider necessary or expedient to impose, exempt any person or class of persons from any or all of the provisions of this Act. Power to give directions"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may give directions to the Director General consistent with the provisions of this Act and the Director General shall give effect to those directions. Power to amend Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, after consultation with the Minister in charge with the responsibility for the relevant written laws, by order published in the Gazette, amend the Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_45"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Subsection 4(2)] WRITTEN LAWS (1) (2) No. Written Laws"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Census Act 1960 [Act 16] Subsection 16(2)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_10",
+      "@type": "akn:paragraph",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Universiti Teknologi MARA Act 1976 [Act 173] Subsection 33(1)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_11",
+      "@type": "akn:paragraph",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Lembaga Kemajuan Kelantan Selatan Act 1978 Subsection 31(1) [Act 203]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_12",
+      "@type": "akn:paragraph",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Malaysian Handicraft Development Corporation Subsection 34(1) Act 1979 [Act 222]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_13",
+      "@type": "akn:paragraph",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Highway Authority Malaysia (Incorporation) Section 27 Act 1980 [Act 231]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_14",
+      "@type": "akn:paragraph",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Lembaga Kemajuan Wilayah Pulau Pinang Act 1983 Subsection 32(1) [Act 282]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_15",
+      "@type": "akn:paragraph",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Atomic Energy Licensing Act 1984 [Act 304] Section 41"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_16",
+      "@type": "akn:paragraph",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Copyright Act 1987 [Act 332] Section 52"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_17",
+      "@type": "akn:paragraph",
+      "eli:number": "17",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_17__subsec_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Malaysia Industrial Development Authority Subsection 13(2) (Incorporation) Act 1965 [Act 397]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "(2) No. Written Laws"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_18",
+      "@type": "akn:paragraph",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "National Productivity Corporation (Incorporation)"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Act 1966 [Act 408]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_19",
+      "@type": "akn:paragraph",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Lembaga Pembangunan Langkawi Act 1990"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Act 423]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Audit Act 1957 [Act 62] Subsection 8(3)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_20",
+      "@type": "akn:paragraph",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Co-operative College (Incorporation) Act 1968"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Act 437]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_21",
+      "@type": "akn:paragraph",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Malaysia Tourism Promotion Board Act 1992"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Act 481]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_22",
+      "@type": "akn:paragraph",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Tourism Industry Act 1992 [Act 482]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_23",
+      "@type": "akn:paragraph",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Majlis Amanah Rakyat Act 1966 [Act 489]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_24",
+      "@type": "akn:paragraph",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Malaysian Construction Industry Development"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Board Act 1994 [Act 520]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_25",
+      "@type": "akn:paragraph",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Control of Paddy and Rice Act 1994 [Act 522]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_26",
+      "@type": "akn:paragraph",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Inland Revenue Board of Malaysia Act 1995"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Act 533]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_27",
+      "@type": "akn:paragraph",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Perbadanan Putrajaya Act 1995 [Act 536]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_28",
+      "@type": "akn:paragraph",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Perbadanan Tabung Pendidikan Tinggi Nasional"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Act 1997 [Act 566]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_29",
+      "@type": "akn:paragraph",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Malaysia Palm Oil Board Act 1998 [Act 582]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Kemubu Agricultural Development Authority Section 31 Act 1972 [Act 69]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_30",
+      "@type": "akn:paragraph",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Labuan Corporation Act 2001 [Act 609]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_31",
+      "@type": "akn:paragraph",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Pembangunan Sumber Manusia Berhad"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Act 2001 [Act 612]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_32",
+      "@type": "akn:paragraph",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Companies Commission of Malaysia Act 2001"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Act 614]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_33",
+      "@type": "akn:paragraph",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Intellectual Property Corporation of Malaysia"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Act 2002 [Act 617]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_34",
+      "@type": "akn:paragraph",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Skills Development Fund Act 2004 [Act 640]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_35",
+      "@type": "akn:paragraph",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "National Skills Development Act 2006 [Act 652] Subsection 71(1)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_36",
+      "@type": "akn:paragraph",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Akademi Seni Budaya dan Warisan Kebangsaan"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Act 2006 [Act 653]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_37",
+      "@type": "akn:paragraph",
+      "eli:number": "37",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Malaysian Pepper Board Act 2006 [Act 656]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_38",
+      "@type": "akn:paragraph",
+      "eli:number": "38",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_38__subsec_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Iskandar Regional Development Authority Act 2007"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Act 664]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_38__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "(2) No. Written Laws"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_39",
+      "@type": "akn:paragraph",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Malaysian Qualifications Agency Act 2007"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Act 679]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Muda Agricultural Development Authority Act 1972 Section 31 [Act 70]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_40",
+      "@type": "akn:paragraph",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "North Corridor Implementation Authority Act 2008"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Act 687]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_41",
+      "@type": "akn:paragraph",
+      "eli:number": "41",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "East Coast Economic Region Development Council"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Act 2008 [Act 688]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_42",
+      "@type": "akn:paragraph",
+      "eli:number": "42",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "National Kenaf and Tobacco Board Act 2009"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Act 692]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_43",
+      "@type": "akn:paragraph",
+      "eli:number": "43",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Feed Act 2009 [Act 698]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_44",
+      "@type": "akn:paragraph",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Perbadanan Stadium Malaysia Act 2010 [Act 717]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_45",
+      "@type": "akn:paragraph",
+      "eli:number": "45",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "National Sports Institute Act 2011 [Act 729]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Lembaga Kemajuan Terengganu Tengah Act Section 31 1973 [Act 104]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_6",
+      "@type": "akn:paragraph",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Malaysian Timber Industry Board (Incorporation) Section 29 Act 1973 [Act 105]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_7",
+      "@type": "akn:paragraph",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Farmers’ Organization Authority Act 1973 Subsection 33(1) [Act 110]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_8",
+      "@type": "akn:paragraph",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Federal Agricultural Marketing Authority Act 1965 Section 13 [Act 141]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1__para_9",
+      "@type": "akn:paragraph",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Pesticides Act 1974 [Act 149] Section 55"
+      }
+    }
+  ]
+}

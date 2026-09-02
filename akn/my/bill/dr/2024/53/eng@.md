@@ -16,11 +16,11 @@ ENACTED by the Parliament of Malaysia as follows:
 
 2. The Labuan Companies Act 1990 [Act 441], which is referred to as the “principal Act” in this Act, is amended in paragraph 47(1)(a), by substituting for the words “shall be expressed in a currency other than ringgit” the words “shall be expressed in any currency”.
 
-### Deletion of sections 108a, 108b, 108c, 108d, 108e, 108f, 108g
+## DELETION OF SECTIONS 108A, 108B, 108C, 108D, 108E, 108F, 108G
 
 ### and 108h
 
-3. The principal Act is amended by deleting sections 108a, 108b, 108c, 108d, 108e, 108f, 108g and 108h.
+3. The principal Act is amended by deleting SECTIONS 108A, 108B, 108C, 108D, 108E, 108F, 108G AND 108H.
 
 <!-- page 2 -->
 
@@ -206,7 +206,7 @@ This Bill seeks to amend the Labuan Companies Act 1990 (“Act 441”). The main
 
 3. Clause 2 seeks to amend section 47 of Act 441 to empower the Labuan company to carry on the business in any currency. This amendment is consistent with the requirements of international taxation standards that prohibit harmful tax practices.
 
-4. Clause 3 seeks to delete sections 108a, 108b, 108c, 108d, 108e, 108f, 108g and 108h to introduce new provisions in relation to beneficial ownership.
+4. CLAUSE 3 SEEKS TO DELETE SECTIONS 108A, 108B, 108C, 108D, 108E, 108F, 108g and 108h to introduce new provisions in relation to beneficial ownership.
 
 5. Clause 4 seeks to introduce new Part Va into Act 441 relating to beneficial ownership of a Labuan company or foreign Labuan company.
 

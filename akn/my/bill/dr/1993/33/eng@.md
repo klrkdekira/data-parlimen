@@ -48,17 +48,35 @@ section 5—
 
 the period of service as a Judge before, and the period during which he served in that other capacity after, he relinquished office as a Judge shall be counted as period of service as a Judge.".
 
-Amendment 3. Section 8B of the principal Act is amended in of section 8B. subsection (1)—
+<!-- marginal: Amendment -->
+
+3. Section 8B of the principal Act is amended in
+
+<!-- marginal: of section 8B. -->
+
+subsection (1)—
 
 (a) by inserting after the words "Supreme Court" first appearing in that subsection the words "or of a High Court"; and
 
 (b) by deleting the words "of the Supreme Court and a High Court".
 
-New 4. The principal Act is amended by inserting after section 8c. section 8B the following section:
+<!-- marginal: New -->
+
+4. The principal Act is amended by inserting after
+
+<!-- marginal: section 8c. -->
+
+section 8B the following section:
 
 "Relin- 8c. A Judge of the Supreme Court or High quishment Court who has not attained the age of sixty of office years may be required by the Yang di-Pertuan in the national Agong to relinquish the office of a Judge in interest. order to serve in another capacity for any period in the national interest.".
 
-Amendment 5. Section 12 of the principal Act is amended by of section inserting after subsection (3D) the following subsection:
+<!-- marginal: Amendment -->
+
+5. Section 12 of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+inserting after subsection (3D) the following subsection:
 
 12.
 
@@ -128,6 +146,4 @@ This Bill seeks to amend the Judges' Remuneration Act 1971 ("the Act").
 
 ## IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure.
-
-<!-- marginal: [PN. (U2) 1794.] -->
+This Bill will not involve the Government in any extra financial expenditure. [PN. (U2) 1794.]

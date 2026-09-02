@@ -10,27 +10,13 @@
 
 ## PRELIMINARY
 
-1. Short title and commencement.
-
-2. Interpretation.
+1. Short title and commencement. 2. Interpretation.
 
 ## PART II
 
 ## CENTRAL DEPOSITORY
 
-3. Restriction on establishment of a central depository.
-
-4. Application for approval to establish and maintain a central depository.
-
-5. Power of Minister to approve the establishment of a central depository.
-
-6. Minister may establish advisory committees.
-
-7. Minister to be notified of amendment to rules and power of Minister to amend rules.
-
-8. Duty of a central depository to ensure orderly dealings in deposited securities.
-
-9. Authorised depository agents, issuers, etc. to comply with rules of a central depository.
+3. Restriction on establishment of a central depository. 4. Application for approval to establish and maintain a central depository. 5. Power of Minister to approve the establishment of a central depository. 6. Minister may establish advisory committees. 7. Minister to be notified of amendment to rules and power of Minister to amend rules. 8. Duty of a central depository to ensure orderly dealings in deposited securities. 9. Authorised depository agents, issuers, etc. to comply with rules of a central depository.
 
 10. Central depository to provide assistance to the Registrar.
 
@@ -54,23 +40,67 @@
 
 <!-- page 2 -->
 
-17. Undeposited securities not to be traded on a stock market or utilised to settle market trade. 18. Verification of scrips and transfer to a central depository or nominee company. 19. Central depository and authorised depository agent not liable for loss. 20. Issuance of jumbo certificates. 21. Central depository deemed a bare trustee.
+17. Undeposited securities not to be traded on a stock market or utilised to settle market trade.
+
+18. Verification of scrips and transfer to a central depository or nominee company.
+
+19. Central depository and authorised depository agent not liable for loss.
+
+20. Issuance of jumbo certificates.
+
+21. Central depository deemed a bare trustee.
 
 ## DIVISION II—WITHDRAWAL OF SECURITIES
 
-22. Right to withdraw deposited securities. 23. Prohibition against trading of securities withdrawn from a central depository. 24. Stock exchange may prohibit withdrawal of securities or class of securities.
+22. Right to withdraw deposited securities.
+
+23. Prohibition against trading of securities withdrawn from a central depository.
+
+24. Stock exchange may prohibit withdrawal of securities or class of securities.
 
 ## DIVISION III—SECURITIES ACCOUNTS AND RECORDS
 
-25. Securities accounts. 26. Issuance of statements of accounts. 27. Duty of central depository to keep certain records. 28. Physical stock count of scrips.
+25. Securities accounts.
+
+26. Issuance of statements of accounts.
+
+27. Duty of central depository to keep certain records.
+
+28. Physical stock count of scrips.
 
 ## DIVISION IV—SECURITIES TRANSACTIONS, ENTRIES AND MISCELLANEOUS
 
-29. Dealings effected by means of electronic process. 30. Entries in securities accounts. 31. Entries in securities accounts in respect of off-market transactions. 32. Entries in securities accounts to specify date, time and person making the entries. 33. Record of an entry prima facie evidence. 34. Record of depositors to be issued to issuer on request. 35. A depositor to be treated as if he were a member. 36. Prohibition against acquisition of, or dealings in, deposited securities by a central depository. 37. Public offer. 38. Bonus, rights issues, etc. 39. Underwriters to open securities accounts. 40. Charging or pledging of securities. 41. Securities in suspense.
+29. Dealings effected by means of electronic process.
+
+30. Entries in securities accounts.
+
+31. Entries in securities accounts in respect of off-market transactions.
+
+32. Entries in securities accounts to specify date, time and person making the entries.
+
+33. Record of an entry prima facie evidence.
+
+34. Record of depositors to be issued to issuer on request.
+
+35. A depositor to be treated as if he were a member.
+
+36. Prohibition against acquisition of, or dealings in, deposited securities by a central depository.
+
+37. Public offer.
+
+38. Bonus, rights issues, etc.
+
+39. Underwriters to open securities accounts.
+
+40. Charging or pledging of securities.
+
+41. Securities in suspense.
 
 ## PART IV—SECRECY PROVISIONS
 
-42. Duty to take reasonable security measures. 43. Duty to maintain secrecy.
+42. Duty to take reasonable security measures.
+
+43. Duty to maintain secrecy.
 
 <!-- page 3 -->
 
@@ -186,7 +216,11 @@ BE IT ENACTED by the Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Ag
 
 (b) the terminals located at the premises of the users;
 
-"dealer" has the same meaning as is assigned to that expression under subsection 2(1) of the Securities Industry Act 280. Act 1983; "dealing", in relation to any deposited security, includes the charging or pledging of the deposited security by a depositor;
+"dealer" has the same meaning as is assigned to that expression under subsection 2(1) of the Securities Industry
+
+<!-- marginal: Act 280. -->
+
+Act 1983; "dealing", in relation to any deposited security, includes the charging or pledging of the deposited security by a depositor;
 
 "debt securities" means debentures, bonds, notes, or other similar instrument representing or evidencing indebtedness, whether secured or otherwise;
 
@@ -226,7 +260,11 @@ and any reference to a copy of a record includes— (i) in the case of a record 
 
 (b) and paragraph (c) of this definition, the transcript of the sounds or other data embodied therein together with the still reproduction of the images embodied therein;
 
-"Registrar" means the Registrar of Companies appointed Act 125. under the Companies Act 1965 and includes any Regional, Deputy or Assistant Registrar of Companies; "rules" means the rules of a central depository established and maintained, or proposed to be established and maintained, by a company and includes the rules contained in the memorandum of association and the articles of association of the company; "scrip" means any document that is, or is a document of title to, a security; "security" means debenture, note, stock and share in a public company or corporation, or bond of any government or of any body, corporate or unincorporate, and includes any right or option in respect thereof and any interest as defined in section 84 of the Companies Act 1965; "securities account" means an account established by a central depository for a depositor for the recording of deposit or withdrawal of securities and for dealings in such securities by the depositor; "selling out" means the selling effected by a stock exchange or its clearing house, according to the rules of the stock exchange, of securities which a buyer has failed to accept and to pay for when delivered on a day fixed for settlement;
+"Registrar" means the Registrar of Companies appointed
+
+<!-- marginal: Act 125. -->
+
+under the Companies Act 1965 and includes any Regional, Deputy or Assistant Registrar of Companies; "rules" means the rules of a central depository established and maintained, or proposed to be established and maintained, by a company and includes the rules contained in the memorandum of association and the articles of association of the company; "scrip" means any document that is, or is a document of title to, a security; "security" means debenture, note, stock and share in a public company or corporation, or bond of any government or of any body, corporate or unincorporate, and includes any right or option in respect thereof and any interest as defined in section 84 of the Companies Act 1965; "securities account" means an account established by a central depository for a depositor for the recording of deposit or withdrawal of securities and for dealings in such securities by the depositor; "selling out" means the selling effected by a stock exchange or its clearing house, according to the rules of the stock exchange, of securities which a buyer has failed to accept and to pay for when delivered on a day fixed for settlement;
 
 "stock exchange" has the same meaning as is assigned to that expression under subsection 2 (1) of the Securities Industry Act 1983;
 
@@ -244,9 +282,7 @@ and any reference to a copy of a record includes— (i) in the case of a record 
 
 (i) the scrip;
 
-(ii) the instrument of transfer, if any; or
-
-(iii) any other document representing the security,
+(ii) the instrument of transfer, if any; or (iii) any other document representing the security,
 
 with the central depository.
 
@@ -374,7 +410,19 @@ of a central depository if he is satisfied—
 
 (c) any other requirements or conditions as he considers appropriate.
 
-Minister may 6. (1) The Minister may establish an advisory committee establish in respect of a central depository whose function shall advisory committees. be—
+<!-- marginal: Minister may -->
+
+6. (1) The Minister may establish an advisory committee
+
+<!-- marginal: establish -->
+
+in respect of a central depository whose function shall
+
+<!-- marginal: advisory -->
+
+<!-- marginal: committees. -->
+
+be—
 
 (a) to advise the central depository on matters relating to the services provided by such depository;
 
@@ -444,15 +492,83 @@ subsection (1) is not given within twenty-one days after the making of an amendm
 
 (5) Any notice under this section maybe served personally or by post.
 
-Duty of a 8. (1) A central depository shall take all steps and do all central things necessary to ensure orderly dealings in securities depository to ensure deposited or lodged with it. orderly dealings in (2) A central depository may, in performing its function deposited under subsection (1), give to an issuer of any deposited securities. security directions—
+<!-- marginal: Duty of a -->
+
+8. (1) A central depository shall take all steps and do all
+
+<!-- marginal: central -->
+
+things necessary to ensure orderly dealings in securities
+
+<!-- marginal: depository -->
+
+<!-- marginal: to ensure -->
+
+deposited or lodged with it.
+
+<!-- marginal: orderly -->
+
+<!-- marginal: dealings in -->
+
+(2) A central depository may, in performing its function
+
+<!-- marginal: deposited -->
+
+under subsection (1), give to an issuer of any deposited
+
+<!-- marginal: securities. -->
+
+security directions—
 
 (a) to do a particular act or thing; or
 
 (b) to refrain from doing a particular act or thing. (3) An issuer who fails to comply with any direction given by a central depository under subsection (2) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprison- ment for a term not exceeding one year or to both.
 
-Authorised 9. (1) Any person who is an authorised depository agent, depository an issuer, a depositor, or a user shall comply with, enforce agents, issuers, etc. or give effect to the rules of a central depository to the 10 comply extent to which those rules purport to apply to such person. with rules of a central (2) For the purposes of this section, "rules" includes depository. any direction given, from time to time, by a central depository to any person pursuant to any provision of this Act.
+<!-- marginal: Authorised -->
 
-Central 10. (1) A central depository shall provide such assistance depository to the Registrar as he reasonably requires for the performance to provide assistance of his functions and duties under this Act. to the Registrar.
+9. (1) Any person who is an authorised depository agent,
+
+<!-- marginal: depository -->
+
+an issuer, a depositor, or a user shall comply with, enforce
+
+<!-- marginal: agents, -->
+
+<!-- marginal: issuers, etc. -->
+
+or give effect to the rules of a central depository to the
+
+<!-- marginal: 10 comply -->
+
+extent to which those rules purport to apply to such person.
+
+<!-- marginal: with rules of -->
+
+<!-- marginal: a central -->
+
+(2) For the purposes of this section, "rules" includes
+
+<!-- marginal: depository. -->
+
+any direction given, from time to time, by a central depository to any person pursuant to any provision of this Act.
+
+<!-- marginal: Central -->
+
+10. (1) A central depository shall provide such assistance
+
+<!-- marginal: depository -->
+
+to the Registrar as he reasonably requires for the performance
+
+<!-- marginal: to provide -->
+
+<!-- marginal: assistance -->
+
+of his functions and duties under this Act.
+
+<!-- marginal: to the -->
+
+<!-- marginal: Registrar. -->
 
 <!-- page 15 -->
 
@@ -490,9 +606,15 @@ III
 
 "record of depositors" means a record provided by a central depository to an issuer under section 34 which contains the particulars specified in subsection (3) of the said section.
 
-Duties of
+<!-- marginal: Duties of -->
 
-12. (1) A central depository shall provide or cause to be a central provided all such facilities as may be necessary— depository.
+12. (1) A central depository shall provide or cause to be
+
+<!-- marginal: a central -->
+
+provided all such facilities as may be necessary—
+
+<!-- marginal: depository. -->
 
 (a) to facilitate efficient deposit and withdrawal of securities;
 
@@ -506,9 +628,17 @@ Duties of
 
 (2) The Minister may, from time to time, prescribe other duties to be performed by a central depository as he considers appropriate.
 
-Authorised
+<!-- marginal: Authorised -->
 
-13. (1) Subject to this Act, a central depository may appoint depository any of the persons referred to in subsection (2) to be its agent. authorised depository agent for all or any of the following purposes:
+13. (1) Subject to this Act, a central depository may appoint
+
+<!-- marginal: depository -->
+
+any of the persons referred to in subsection (2) to be its
+
+<!-- marginal: agent. -->
+
+authorised depository agent for all or any of the following purposes:
 
 (a) to facilitate the deposit and withdrawal of securities;
 
@@ -590,7 +720,27 @@ national newspapers, one of which shall be in the national language and one in t
 
 (4) For the purposes of this Act, the deposit by a person of any prescribed security with an authorised depository agent of a central depository shall be deemed to be a deposit of such security with that central depository.
 
-Transitional 15. (1) This section shall apply to all trading in prescribed provisions securities during the period beginning on the day immediately relating to following the notification date and ending on the prescribed trading of prescribed date. securities. (2) No person shall trade in any prescribed security on a stock market without having a securities account.
+<!-- marginal: Transitional -->
+
+15. (1) This section shall apply to all trading in prescribed
+
+<!-- marginal: provisions -->
+
+securities during the period beginning on the day immediately
+
+<!-- marginal: relating to -->
+
+following the notification date and ending on the prescribed
+
+<!-- marginal: trading of -->
+
+<!-- marginal: prescribed -->
+
+date.
+
+<!-- marginal: securities. -->
+
+(2) No person shall trade in any prescribed security on a stock market without having a securities account.
 
 (3) The scrip representing a prescribed security sold on or after the notification date and delivered by, or on behalf of, a seller to an authorised depository agent for the purpose of settling a sale shall, on settlement thereof, be sent by the agent to the issuer of such scrip together with the relevant instrument of transfer, if any.
 
@@ -600,7 +750,29 @@ Transitional 15. (1) This section shall apply to all trading in prescribed provi
 
 (b) issuers with whom the documents mentioned in subsection (3) of this section have been lodged.
 
-16. (1) A central depository may, by notice, prescribe a date Central depository following which no member company or nominee of a member may prescribe company may receive a scrip representing aprescribed security last date for receipt of merely for safe custody. scrips for safe custody. (2) A central depository shall give notice to the public of the date prescribed in subsection (1) by advertisement in not less than three daily national newspapers, one of which shall be in the national language and one in the English language.
+16. (1) A central depository may, by notice, prescribe a date
+
+<!-- marginal: Central -->
+
+<!-- marginal: depository -->
+
+following which no member company or nominee of a member
+
+<!-- marginal: may prescribe -->
+
+company may receive a scrip representing aprescribed security
+
+<!-- marginal: last date for -->
+
+<!-- marginal: receipt of -->
+
+merely for safe custody.
+
+<!-- marginal: scrips for -->
+
+<!-- marginal: safe custody. -->
+
+(2) A central depository shall give notice to the public of the date prescribed in subsection (1) by advertisement in not less than three daily national newspapers, one of which shall be in the national language and one in the English language.
 
 <!-- page 19 -->
 
@@ -778,7 +950,19 @@ in relation to deposited securities which are registered in its name, be deemed 
 
 ## DIVISION II—WITHDRAWAL OF SECURITIES
 
-Right to 22. (1) Subject to section 24 and the provisions of this withdraw section, a depositor may, on application to the central deposited securities. depository, withdraw a security standing to the credit of his securities account.
+<!-- marginal: Right to -->
+
+22. (1) Subject to section 24 and the provisions of this
+
+<!-- marginal: withdraw -->
+
+section, a depositor may, on application to the central
+
+<!-- marginal: deposited -->
+
+<!-- marginal: securities. -->
+
+depository, withdraw a security standing to the credit of his securities account.
 
 (2) Where an application is made under this section for withdrawal of a deposited security which is registered in the name of a central depository or its nominee company, the central depository shall lodge with the issuer—
 
@@ -796,7 +980,9 @@ for the purpose of effecting the transfer of that security to the depositor or t
 
 (b) unless otherwise instructed by the depositor, send or deliver the completed certificate and such other documents, if any, to the depositor or to any person nominated by him.
 
-Act 3 78 (5) For the purposes of subsection (3) and the Stamp Act 1949, the consideration for the transfer of a security to a depositor shall be deemed to be—
+<!-- marginal: Act 3 78 -->
+
+(5) For the purposes of subsection (3) and the Stamp Act 1949, the consideration for the transfer of a security to a depositor shall be deemed to be—
 
 (a) in the case of a listed deposited security, the closing price of such security published by a stock exchange
 
@@ -876,13 +1062,29 @@ by advertisement in not less than three daily national newspapers, one of which 
 
 ## DIVISION III—SECURITIES ACCOUNTS AND RECORDS
 
-Securities 25. (1) No person shall deal in deposited securities without accounts. first having a securities account.
+<!-- marginal: Securities -->
+
+25. (1) No person shall deal in deposited securities without
+
+<!-- marginal: accounts. -->
+
+first having a securities account.
 
 (2) An authorised depository agent which deals in deposited securities as principal shall, in relation to such dealing, open and maintain a securities account with the central depository.
 
 (3) A centra] depository may establish different types of securities accounts for different classes of persons.
 
-Issuance of 26. (1) A central depository shall issue to all depositors statements statements of accounts in respect of all deposited securities of accounts held in custody by, or registered in the name of, the central depository or its nominee company for the depositors at such time and in such manner as may be prescribed under this Act.
+<!-- marginal: Issuance of -->
+
+26. (1) A central depository shall issue to all depositors
+
+<!-- marginal: statements -->
+
+statements of accounts in respect of all deposited securities
+
+<!-- marginal: of accounts -->
+
+held in custody by, or registered in the name of, the central depository or its nominee company for the depositors at such time and in such manner as may be prescribed under this Act.
 
 (2) Notwithstanding the provisions of subsection (1), a depositor may, at any time, by written notice, require the central depository to issue to him a statement of account in respect of all or any of the deposited securities for the time being held in custody by, or registered in the name of, the central depository or its nominee company on behalf of the depositor.
 
@@ -890,7 +1092,23 @@ Issuance of 26. (1) A central depository shall issue to all depositors statement
 
 (4) A statement of account issued under this section shall be prima facie evidence of the truth of the matters specified in the statement.
 
-Duty of 27. (1) A central depository shall keep or cause to be kept central such records and accounts, in sufficient detail, so as to show depository to keep particulars of— certain records.
+<!-- marginal: Duty of -->
+
+27. (1) A central depository shall keep or cause to be kept
+
+<!-- marginal: central -->
+
+such records and accounts, in sufficient detail, so as to show
+
+<!-- marginal: depository -->
+
+<!-- marginal: to keep -->
+
+particulars of—
+
+<!-- marginal: certain -->
+
+<!-- marginal: records. -->
 
 (a) all monies received orpaid by the central depository, including dividends received in respect of any deposited securities and the disbursement of such dividends to depositors;
 
@@ -1042,9 +1260,37 @@ of the person making the entry.
 
 <!-- page 28 -->
 
-Record of 33. A record of an entry in a securities account in respect of an entry a dealing in deposited securities shall be prima facie evidence prima facie evidence. of the truth of the matters so recorded.
+<!-- marginal: Record of -->
 
-Record of 34. (1) An issuer of any deposited security may, by written depositors notice, require a central depository to issue to him a record to be issued to issuer on of the depositors in whose securities accounts such securities request. stand in credit as at the date of the notice or such other date as may be specified in the notice.
+33. A record of an entry in a securities account in respect of
+
+<!-- marginal: an entry -->
+
+a dealing in deposited securities shall be prima facie evidence
+
+<!-- marginal: prima facie -->
+
+<!-- marginal: evidence. -->
+
+of the truth of the matters so recorded.
+
+<!-- marginal: Record of -->
+
+34. (1) An issuer of any deposited security may, by written
+
+<!-- marginal: depositors -->
+
+notice, require a central depository to issue to him a record
+
+<!-- marginal: to be issued -->
+
+<!-- marginal: to issuer on -->
+
+of the depositors in whose securities accounts such securities
+
+<!-- marginal: request. -->
+
+stand in credit as at the date of the notice or such other date as may be specified in the notice.
 
 (2) The record of depositors required by an issuer under subsection (1) shall be issued by the central depository within the following period:
 
@@ -1056,7 +1302,11 @@ Record of 34. (1) An issuer of any deposited security may, by written depositors
 
 (b) in a case where the issuer requires the issuance of a record of depositors as at a date earlier than the date of such notice (not being a date earlier than one year), no later than one month after the date of the notice.
 
-(3) A record of depositors shall contain the names, addresses, the numbers of the identity cards issued under the An 78, National Registration Act 1959, if any, race, nationality, and such other information and particulars of the depositors as may be required by the issuer, and in the case of the issuer being a company having a share capital, a statement as to the number of the deposited securities acquired by each depositor.
+(3) A record of depositors shall contain the names, addresses, the numbers of the identity cards issued under the
+
+<!-- marginal: An 78, -->
+
+National Registration Act 1959, if any, race, nationality, and such other information and particulars of the depositors as may be required by the issuer, and in the case of the issuer being a company having a share capital, a statement as to the number of the deposited securities acquired by each depositor.
 
 (4) The record of depositors obtained by an issuer under this section shall be available for inspection by any member of the issuer (including a depositor) without charge and by any other person, on payment of one ringgit or such lesser sum as the issuer may require, in respect of each inspection.
 
@@ -1112,7 +1362,9 @@ by the Minister under regulations made under this Act. ;
 
 (2) A central depository which contravenes subsection (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
-Public offer 37. (1) Where, pursuant to section 14, a stock exchange prescribes that any security proposed to be listed for quotation on its official list be deposited with a central depository, the issuer of such security or the offerer, as the case may be, shall, in the prospectus issued by such issuer or offerer in respect thereof, notify the public of the fact that the security is one that has been so prescribed.
+<!-- marginal: Public offer -->
+
+37. (1) Where, pursuant to section 14, a stock exchange prescribes that any security proposed to be listed for quotation on its official list be deposited with a central depository, the issuer of such security or the offerer, as the case may be, shall, in the prospectus issued by such issuer or offerer in respect thereof, notify the public of the fact that the security is one that has been so prescribed.
 
 (2) Upon completion of the allotment or allocation of such security, the issuer or offerer, as the case may be, shall immediately deliver or caused to be delivered to the central depository a record of the successful applicants together with such particulars as may be required by the central depository for the purpose of making appropriate entries in the securities accounts of the respective applicants, together with the scrips (in such denominations as may be specified by the central depository) registered in the name of the central depository or its nominee company. (3) For the purposes of this section, "offerer", in relation to any security, means the owner of the security.
 
@@ -1120,7 +1372,13 @@ Public offer 37. (1) Where, pursuant to section 14, a stock exchange prescribes 
 
 (5) Without prejudice to subsection (2), the provisions in section 107 of the Companies Act 1965 shall not, in relation to the securities mentioned in subsection (1), apply to the issuer of such security.
 
-Bonus, rights 38. (1) Where an issuer, in relation to any deposited issues, etc. security,—
+<!-- marginal: Bonus, rights -->
+
+38. (1) Where an issuer, in relation to any deposited
+
+<!-- marginal: issues, etc. -->
+
+security,—
 
 (a) makes a bonus issue, or issues securities pursuant to a rights issue or the conversion of any debt securities; or
 
@@ -1130,7 +1388,7 @@ Bonus, rights 38. (1) Where an issuer, in relation to any deposited issues, etc.
 
 ## SECURITIES INDUSTRY (CENTRAL DEPOSITORIES)
 
-3 1
+<!-- marginal: 3 1 -->
 
 the issuer shall notify the central depository of the names of the allottees together with such particulars as may be required by the central depository for the purpose of making appropriate entries in the securities accounts of the respective allottees, and shall deliver to the central depository the appropriate scrips (in such denominations as may be specified by the central depository) registered in the name of the central depository or its nominee company.
 
@@ -1172,13 +1430,27 @@ in favour of any person (in this section referred to as "chargee" or "pledgee"),
 
 (5) The provisions relating to the transfer or withdrawal of deposited securities shall apply, mutatis mutandis, to securities in the Pledged Securities Account.
 
-Securities 41. A central depository may specify that any deposited in suspense. security in a securities account is in suspense in any of the following circumstances:
+<!-- marginal: Securities -->
+
+41. A central depository may specify that any deposited
+
+<!-- marginal: in suspense. -->
+
+security in a securities account is in suspense in any of the following circumstances:
 
 (a) where the transfer of such security in the name of the central depository or its nominee company has not been, or cannot be, registered by its issuer under section 18;
 
 (b) where the central depository has been served with an order of a court of competent jurisdiction prohibiting any dealing in respect of a deposited security;
 
-(c) where an order under regulation 8 of the Essential P.U (A) (Protection of Depositors) Regulations I986 has 237/86. been made by the Central Bank of Malaysia and published in the Gazette;
+(c) where an order under regulation 8 of the Essential
+
+<!-- marginal: P.U (A) -->
+
+(Protection of Depositors) Regulations I986 has
+
+<!-- marginal: 237/86. -->
+
+been made by the Central Bank of Malaysia and published in the Gazette;
 
 (d) where an application under section 22 for withdrawal of such security has been made by a depositor; or
 
@@ -1188,9 +1460,31 @@ Securities 41. A central depository may specify that any deposited in suspense. 
 
 ## SECRECY PROVISIONS
 
-Duty to take 42. Every central depository and authorised depository agent reasonable shall take all reasonable security measures to protect security measures. information and documents relating to the affairs of the depositors, and in particular, relating to their securities accounts, against any unauthorised access, alteration, disclosure or dissemination.
+<!-- marginal: Duty to take -->
 
-Duty to 43. (1) Except as provided in this Act, no director or officer maintain of a central depository or an authorised depository agent, secrecy. whether during his tenure of office or during his employment or thereafter, and no other person who has by any means access to any information or document whatsoever relating to the affairs of any of the depositors, and in particular, relating to their securities accounts, shall give, divulge, reveal or
+42. Every central depository and authorised depository agent
+
+<!-- marginal: reasonable -->
+
+shall take all reasonable security measures to protect
+
+<!-- marginal: security -->
+
+<!-- marginal: measures. -->
+
+information and documents relating to the affairs of the depositors, and in particular, relating to their securities accounts, against any unauthorised access, alteration, disclosure or dissemination.
+
+<!-- marginal: Duty to -->
+
+43. (1) Except as provided in this Act, no director or officer
+
+<!-- marginal: maintain -->
+
+of a central depository or an authorised depository agent,
+
+<!-- marginal: secrecy. -->
+
+whether during his tenure of office or during his employment or thereafter, and no other person who has by any means access to any information or document whatsoever relating to the affairs of any of the depositors, and in particular, relating to their securities accounts, shall give, divulge, reveal or
 
 <!-- page 33 -->
 
@@ -1262,7 +1556,17 @@ making adverse claims to securities or monies in the securities account of the d
 
 (g) for the purpose of enabling or assisting the Minister to exercise any power conferred on him by this Act or by any other written law;
 
-(h) for the purpose of enabling or assisting the Central Bank of Malaysia to discharge its functions under the Central Bank of Malaysia Ordinance 1958, the Ord 61158 Act 372 Banking and Financial Institutions Act 1989 and the Act 276 Islamic Banking Act 1983 or any other written law;
+(h) for the purpose of enabling or assisting the Central Bank of Malaysia to discharge its functions under the Central Bank of Malaysia Ordinance 1958, the
+
+<!-- marginal: Ord 61158 -->
+
+<!-- marginal: Act 372 -->
+
+Banking and Financial Institutions Act 1989 and the
+
+<!-- marginal: Act 276 -->
+
+Islamic Banking Act 1983 or any other written law;
 
 (i) for the purpose of enabling or assisting the Registrar to discharge his functions under this Act;
 
@@ -1342,21 +1646,31 @@ by means of a mechanical device, an electronic device, or any other device, any 
 
 (c) having a duty to record or store information by means of that device, fails to record or store such information—
 
-(i) with intent to falsify, wholly or in part, any entry made, or record
-
-<!-- marginal: intended -->
-
-<!-- marginal: to be -->
-
-compiled, from the information that has been recorded or stored; or
+(i) with intent to falsify, wholly or in part, any entry made, or record intended to be compiled, from the information that has been recorded or stored; or
 
 (ii) knowing that the failure to so record or store the information will renderfalseormisleading in a material particular other information so recorded or stored,
 
 shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten million ringgit or to imprisonment for a term not exceeding ten years or to both.
 
-Destruction, 48. A person who— concealment, mutilation and
+<!-- marginal: Destruction, -->
 
-(a) destroys, conceals, mutilates or alters any record or alteration of account required to be kept or maintained under any records prohibited. of the provisions of this Act; or
+48. A person who—
+
+<!-- marginal: concealment, -->
+
+<!-- marginal: mutilation and -->
+
+(a) destroys, conceals, mutilates or alters any record or
+
+<!-- marginal: alteration of -->
+
+account required to be kept or maintained under any
+
+<!-- marginal: records -->
+
+<!-- marginal: prohibited. -->
+
+of the provisions of this Act; or
 
 <!-- page 37 -->
 
@@ -1416,15 +1730,35 @@ the provisions of this Act or of any regulations made thereunder shall be guilty
 
 ## INVESTIGATION
 
-Application 52. Nothing, unless specifically provided for in this Part, of this Part. shall authorise any investigation by the Registrar into the business of—
+<!-- marginal: Application -->
+
+52. Nothing, unless specifically provided for in this Part,
+
+<!-- marginal: of this Part. -->
+
+shall authorise any investigation by the Registrar into the business of—
 
 (a) a bank, merchant bank or a finance company licensed under the Banking and Financial Institutions Act 1989, or an Islamic bank licensed under the Islamic Banking Act 1983 or a bank established under an Act of Parliament; or
 
 (b) a dealer, dealer' s representative or an exempt dealer as defined under the Securities Industry Act 1983.
 
-Power of 53. (1) The Registrar may, at any time, if he considers there Registrar is sufficient reason to do so, by writing— to require production
+<!-- marginal: Power of -->
 
-(a) give a direction to— of records. (i) a central depository; (ii) a nominee company of a central depository; (iii) an authorised depository agent; (iv) a user; (v) a person who is or has been an officer or employee of, or an agent, advocate and solicitor, auditor, or other person acting in any capacity for or on behalf of, a central depository, or its nominee company, or an authorised depository agent, or a user,
+53. (1) The Registrar may, at any time, if he considers there
+
+<!-- marginal: Registrar -->
+
+is sufficient reason to do so, by writing—
+
+<!-- marginal: to require -->
+
+<!-- marginal: production -->
+
+(a) give a direction to—
+
+<!-- marginal: of records. -->
+
+(i) a central depository; (ii) a nominee company of a central depository; (iii) an authorised depository agent; (iv) a user; (v) a person who is or has been an officer or employee of, or an agent, advocate and solicitor, auditor, or other person acting in any capacity for or on behalf of, a central depository, or its nominee company, or an authorised depository agent, or a user,
 
 requiring the production, to the Registrar, of such records or accounts as are so specified, being records and accounts relating to—
 
@@ -1462,7 +1796,23 @@ Provided that the production of such record or account shall not be required at 
 
 (6) A person who, without lawful excuse, refuses or fails to comply with a requirement made under this section shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both, and in the case of a continuing offence, shall, in addition, be liable to be punished with a daily fine not exceeding one thousand ringgit for every day during which the offence continues after the fourteenth day from the date such person is required to comply with such requirement.
 
-Power of 54. (1) Where the Registrar has reasonable grounds for Registrar suspecting that an offence under this Act has been or is being to enter and search committed or that there are on any particular premises any premises, etc record or account the production of which has been required by virtue of section 53 and which have not been produced in compliance with such requirement, he may—
+<!-- marginal: Power of -->
+
+54. (1) Where the Registrar has reasonable grounds for
+
+<!-- marginal: Registrar -->
+
+suspecting that an offence under this Act has been or is being
+
+<!-- marginal: to enter -->
+
+<!-- marginal: and search -->
+
+committed or that there are on any particular premises any
+
+<!-- marginal: premises, etc -->
+
+record or account the production of which has been required by virtue of section 53 and which have not been produced in compliance with such requirement, he may—
 
 (a) enter and search the premises and— (i) in the case of premises occupied by a central depository or a user, to inspect, examine and operate the whole or any part of the computer system; and (ii) in the case of premises occupied by any other person, to break open and search any cupboard, drawer, safe, box or other receptacle, and where a computer system
 
@@ -1500,13 +1850,31 @@ authorised depository agent to disclose to him, in relation to any acquisition o
 
 <!-- page 42 -->
 
-(3) A person who, without reasonable excuse, fails to comply with the requirement of the Registrar under subsection (1) or (2) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding one year or to both.
+(3) A person who, without reasonable excuse, fails to comply with the requirement of the Registrar under subsection
 
-Investigation 57. Where the Registrar has reason to suspect that a person by Registrar. has committed an offence under a provision of this Act or is about to do an act that, if done, would be an offence under a provision of this Act, he may make such investigation as he thinks expedient for the due administration of this Act.
+(1) or (2) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding one year or to both.
 
-Power of 58. (1) Where— Court to make certain
+<!-- marginal: Investigation -->
 
-(a) on the application of the Registrar, it appears to the orders. High Court that a person—
+57. Where the Registrar has reason to suspect that a person
+
+<!-- marginal: by Registrar. -->
+
+has committed an offence under a provision of this Act or is about to do an act that, if done, would be an offence under a provision of this Act, he may make such investigation as he thinks expedient for the due administration of this Act.
+
+<!-- marginal: Power of -->
+
+58. (1) Where—
+
+<!-- marginal: Court to -->
+
+<!-- marginal: make certain -->
+
+(a) on the application of the Registrar, it appears to the
+
+<!-- marginal: orders. -->
+
+High Court that a person—
 
 (i) has committed an offence under this Act relating to any dealing in deposited securities; or (ii) has contravened the rules of a central depository; or (iii) is about to do an act with respect to any dealing in deposited securities that, if done, would be an offence under this Act or would be a contravention of the rules of a central depository; or
 
@@ -1572,11 +1940,21 @@ to which the person would have been liable if he had been convicted of the offen
 
 (b) if such person does not pay the amount so demanded within fourteen days, the Registrar may cause proceedings to be instituted in relation to the offence.
 
-Criminal 61. A prosecution for any offence against any provision of prosecution. this Act may be conducted by the Registrar or by any officer authorised in writing by the Registrar.
+<!-- marginal: Criminal -->
 
-Indemnity. 62. No person shall be liable to be sued in any court for any act or matter done, or ordered to be done, or omitted to be done, by him in good faith and in the intended exercise of any power or performance of any duty, conferred or imposed on him by or under this Act.
+61. A prosecution for any offence against any provision of
 
-Regulations. 63. (1) The Minister may, from time to time, make such regulations as may be necessary or expedient for carrying out or achieving the objects and purposes of this Act.
+<!-- marginal: prosecution. -->
+
+this Act may be conducted by the Registrar or by any officer authorised in writing by the Registrar.
+
+<!-- marginal: Indemnity. -->
+
+62. No person shall be liable to be sued in any court for any act or matter done, or ordered to be done, or omitted to be done, by him in good faith and in the intended exercise of any power or performance of any duty, conferred or imposed on him by or under this Act.
+
+<!-- marginal: Regulations. -->
+
+63. (1) The Minister may, from time to time, make such regulations as may be necessary or expedient for carrying out or achieving the objects and purposes of this Act.
 
 (2) Without prejudice to the generality of subsection (1), regulations may be made for—
 
@@ -1626,13 +2004,85 @@ of duties, obligations and sanctions on such agents and companies;
 
 (t) all matters or things which by this Act are required or permitted to be prescribed or which are necessary or expedient to give effect to this Act.
 
-Reference 64. For purposes of the application of the Companies Act to allottee 1965 in relation to any deposited security, a reference to an in the allottee in that Act shall be construed as a reference to a Companies Act 1965. depositor who, by virtue of section 35 of this Act, is deemed to be a member of the company which makes the allotment. 65. Notwithstanding section 69A of the Companies Act 1965, 69A of the the Registrar may not, except as provided for under this Act, Companies require a central depository, its nominee company or authorised Act 1965. depository agent to furnish the information and particulars of shareholdings mentioned in that section.
+<!-- marginal: Reference -->
 
-Reference 66. (1) For purposes of the application of section 102 of the to owner in Companies Act 1965 in relation to any deposited security, a section 102 of the reference to an owner in the said section shall be construed as Companies a reference to a central depository notwithstanding that the Act 1965. registration of such security in the name of the depository or its nominee company under section 18 of this Act may still be pending.
+64. For purposes of the application of the Companies Act
+
+<!-- marginal: to allottee -->
+
+1965 in relation to any deposited security, a reference to an
+
+<!-- marginal: in the -->
+
+allottee in that Act shall be construed as a reference to a
+
+<!-- marginal: Companies -->
+
+<!-- marginal: Act 1965. -->
+
+depositor who, by virtue of section 35 of this Act, is deemed to be a member of the company which makes the allotment.
+
+<!-- marginal: Section -->
+
+65. Notwithstanding section 69A of the Companies Act 1965,
+
+<!-- marginal: 69A of the -->
+
+the Registrar may not, except as provided for under this Act,
+
+<!-- marginal: Companies -->
+
+require a central depository, its nominee company or authorised
+
+<!-- marginal: Act 1965. -->
+
+depository agent to furnish the information and particulars of shareholdings mentioned in that section.
+
+<!-- marginal: Reference -->
+
+66. (1) For purposes of the application of section 102 of the
+
+<!-- marginal: to owner in -->
+
+Companies Act 1965 in relation to any deposited security, a
+
+<!-- marginal: section 102 -->
+
+<!-- marginal: of the -->
+
+reference to an owner in the said section shall be construed as
+
+<!-- marginal: Companies -->
+
+a reference to a central depository notwithstanding that the
+
+<!-- marginal: Act 1965. -->
+
+registration of such security in the name of the depository or its nominee company under section 18 of this Act may still be pending.
 
 (2) Subsection 102(2) of the Companies Act 1965 shallnot apply to those certificates or documents which have already been registered in the name of the central depository or its nominee company.
 
-Reference 67. For purposes of the application of subsection 103(3) of to company the Companies Act 1965 in relation to any deposited security, in section reference to a company in the said section shall be construed 103 of the Companies as areference to a central depository, or an authorised depository Act 1965. agent, with or through whom the deceased person had a securities account.
+<!-- marginal: Reference -->
+
+67. For purposes of the application of subsection 103(3) of
+
+<!-- marginal: to company -->
+
+the Companies Act 1965 in relation to any deposited security,
+
+<!-- marginal: in section -->
+
+reference to a company in the said section shall be construed
+
+<!-- marginal: 103 of the -->
+
+<!-- marginal: Companies -->
+
+as areference to a central depository, or an authorised depository
+
+<!-- marginal: Act 1965. -->
+
+agent, with or through whom the deceased person had a securities account.
 
 <!-- page 47 -->
 

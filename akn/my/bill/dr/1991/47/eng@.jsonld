@@ -1,0 +1,277 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-47-1991",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_4"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Members of Parliament (Remuneration) (Amendment) Bill 1991"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Members of Parliament (Remuneration) (Amendment) Act 1991."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_2__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_2__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_2__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_2__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_2__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Members of Parliament (Remuneration) Act 1980, which in this Act is referred to as the \"principal Act\", is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_2__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_2__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for section 3 the following \" Remu- 3. (1) The remuneration of Members neralion of of Parliament shall consist of— Members of Par- liament. (a) in the case of a member of the Senate, a monthly allowance of two thousand one hundred and sixty ringgit; (b) in the case of a member of the House of Representatives, a monthly allowance of three thousand two hundred and forty ringgit. (2) Where a Member of Parliament is designated as Leader of the Opposition, he shall be entitled, in addition to the monthly allowance specified in paragraph (b) of sub- section (1), to a monthly allowance of two thousand one hundred and sixty ringgit.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_2__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_2__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for section 4 the following 4. The remuneration of the President and Deputy President of the Senate and the Speaker and Deputy Speaker of the House of Representatives shall consist of— (a) in the case of the President of the Senate, a monthly salary of six thousand two hundred and ten ringgit in addition to the monthly allowance payable to him as a member of the Senate as specified in paragraph (a) of subsection (1) of section 3; (b) in the case of the Speaker of the House of Representatives, a monthly salary of six thousand two hundred and ten ringgit in addition to the monthly allowance payable to a member of the House of Representatives as specified in paragraph (b) of subsection (1) of section 3 irrespective of whether or not the Speaker is a member of the House of Representatives; (c) in the case of the Deputy President of the Senate, a monthly allowance of one (AMENDMENT) thousand and eighty ringgit in addition to the monthly allowance payable to him as a member of the Senate as specified in paragraph (a) of subsection (1) of section 3; (d) in the case of the Deputy Speaker of the House of Representatives, a monthly allowance of one thousand and eighty ringgit in addition to the montly allowance payable to him as a member of the House of Representatives as specified in paragraph (b) of subsection (1) of section 3.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_2__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_2__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for section 6 the following 6. (1) The remuneration of the Members of the Administration shall consist of— (a) in the case of the Prime Minister, a monthly salary of nine thousand one hundred and eighty ringgit; (b) in the case of the Deputy Prime Minister, a monthly salary of eight thousand one hundred ringgit; (c) in the case of a Minister, a monthly salary of seven thousand and twenty ringgit; (d) in the case of a Deputy Minister, a monthly salary of five thousand four hundred ringgit; (e) in the case of a Parliamentary Secretary, a monthly salary of three thousand seven hundred and eighty ringgit. (2) (a) Where a Member of the Administration is a member of the Senate, he shall be entitled, in addition to the salary specified in subsection (1), to the monthly allowance payable to him as a member of the Senate as specified in paragraph (a) of subsection (1) of section 3. (b) Where a Member of the Administration is a member of the House of Representatives, he shall be entitled, in addition to the salary specified in subsection (1), to the monthly allowance payable to him as a member of the House of Representatives as specified in paragraph (b) of subsection (1) of section 3. (3) Where a Member of the Administration is designated as Leader of the House of Rep- resentatives, he shall be entitled, in addition to the salary specified in subsection (1) and the monthly allowance specified in paragraph (b) of subsection (1) of section 3, to a monthly allowance of two thousand one hundred and sixty ringgit. (4) Where a Member of the Administration is designated as Deputy Leader of the House of Representatives, he shall be entitled, in addition to the salary specified in subsection (1) and the monthly allowance specified in paragraph (b) (AMENDMENT) of subsection (1) of section 3, to a monthly allowance of one thousand and eighty ringgit. (5) A member of the Adminis- tration shall also be entitled to such other allowances and privileges at such rates and on such terms and conditions as may be specified by the Cabinet from time to time.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection (1) shall be deemed to have come into force on the Ist January 1989."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_2__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding section 7 of the principal Act, all monthly salaries and allowances specified amendments to the principal Act in subsection (1) and payable shall commence from the 1st January 1989 or from the date of appointment or election, whichever is the later, of the Members of Parliament, the President or Deputy President of the Senate, the Speaker or Deputy Speaker of the House of Representatives, the Members of the Administration, the Leader or Deputy Leader of the House of Representatives or the Leader of the Opposition, as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_3__subsec_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_3__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_3__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_3__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_3__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for section 3 as amended by subsection 2(1) the following seclion: \" Remu- 3. (1) The remuneration of Members neration of of Parliament shall consist of— Members of Par- (a) in the case of a member of the liament. Senate, a monthly allowance of two thousand eight hundred ringgit; (b) in the case of a member of the House of Representatives, a monthly allowance of four thousand eight ringgit. (2) Where a Member of Parliament is designated as Leader of the Opposition, he shall be entitled, in addition to the monthly allowance specified in paragraph (b) of subsection (1), to a monthly allowance of two thousand eight hundred ringgit.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_3__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_3__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for section 4 as amended by subsection 2(1) the following section:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_4__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_4__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The remuneration of the President"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "and Deputy President of the Senate and the Speaker and Deputy Speaker of the House of Representatives shall consist of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_4__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_4__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_4__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_4__list_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_4__list_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_4"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_4__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_4__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of the President of the Senate, a monthly salary of nine thousand two hundred ringgit in addition to the monthly allowance payable to him as a member of the Senate as specified in paragraph (a) of subsection (1) of section 3;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_4__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_4__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of the Speaker of the House of Representatives, a monthly salary of nine thousand two hundred ringgit in addition to the monthly allowance payable to a member of the House of Representatives as specified in paragraph (b) of subsection (1) of section 3 irrespective of whether or not the Speaker is a member of the House of Representatives;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_4__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_4__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of the Deputy President of the Senate, a monthly allowance of two thousand ringgit in addition (AMENDMENT) to the monthly allowance payable to him as a member of the Senate as specified in paragraph (a) of subsection (1) of section 3;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_4__list_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_4__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of the Deputy Speaker of the House of Representatives, a monthly allowance of two thousand ringgit in addition to the monthly allowance payable to him as a member of the House of Representatives as specified in paragraph (b) of subsection (1) of section 3.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_4__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_4__list_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_4__list_2__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_4__list_2__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_4"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_4__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_4__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for section 6 as amended by subsection 2(1) the following section: 6. (1) The remuneration of the Members of the Administration shall consist of— (a) in the case of the Prime Minister, a monthly salary of seventeen thousand ringgit; (b) in the case of the Deputy Prime Minister, a monthly salary of thirteen thousand five hundred ringgit; (c) in the case of a Minister, a monthly salary of eleven thousand and fifty ringgit; (d) in the case of a Deputy Minister, a monthly salary of eight thousand ringgit; (e) in the case of a Parliamentary Secretary, a monthly salary of five thousand two hundred and fifty ringgit. (2) (a) Where a Member of the Administration is a member of the Senate, he shall be entitled, in addition to the salary specified in subsection (1), to the monthly allowance payable to him as a member of the Senate as specified in paragraph (a) of subsection (1) of section 3. (b) Where a Member of the Administration is a member of the House of Representatives, he shall be entitled, in addition to the salary specified in subsection (1), to the monthiy allowance payable to him as a member of the House of Rep- resentatives as specified in paragraph (b) of subsection (1) of section 3. (3) Where a Member of the Administration is designated as Leader of the House of Rep- resentatives, he shall be entitled, in addition to the salary specified in subsection (1) and the monthly allowance specified in paragraph (b) of subsection (1) of section 3, to a monthly allowance of two thousand eight hundred ringgit. (4) Where a Member of the Administration is designated as Deputy Leader of the House of Representatives, he shall be entitled, in addition to the salary specified in subsection (1) and the monthly allowance specified in paragraph (b) of subsection (1) of section 3, to a monthly allowance of one thousand four hundred ringgit. (5) A member of the Adminis- tration shall also be entitled to such (AMENDMENT) other allowances and privileges at such rates and on such terms and conditions as may be specified by the Cabinet from time to time.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_4__list_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_4__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection (1) shall come into force on the 1st January 1992."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_4__list_2__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/eng@/~cl_4__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding section 7 of the principal Act, all monthly salaries and allowances specified amendments to the principal Act in subsection (1) and payable shall commence from the 1st January 1992 or from the date of appointment or election, whichever is the later, of the Members of Parliament, the President or Deputy President of the Senate, the Speaker or Deputy Speaker of the House of Representatives, the Members of the Administration, the Leader or Deputy Leader of the House of Representatives or the Leader of the Opposition, as the case may be."
+      }
+    }
+  ]
+}

@@ -1,0 +1,2198 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-31-2008",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Witness Protection Bill 2008"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title and commencement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "WITNESS PROTECTION PROGRAMME Establishment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "RIGHTS, OBLIGATIONS, NON-DISCLOSURE AND TERMINATION Dealing with outstanding rights and obligations of participant"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a participant has any outstanding rights or obligations or is subject to any restrictions, the Director General shall take such steps as are reasonably practicable to ensure that—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "those rights or obligations are dealt with according to the relevant law; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the participant complies with those restrictions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The action under subsection (1) may include—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "providing protection for the participant while the participant is attending a court; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "notifying a party or possible party to any legal proceedings that the Director General will accept process issued by a court or tribunal on behalf of the participant, and the Director General may appoint any officer for the purpose."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the Director General is satisfied that a participant who has been provided with a new identity under the Programme is using the new identity to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "avoid obligations that were incurred before the new identity was provided; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "avoid complying with restrictions that were imposed before the new identity was provided, the Director General shall give notice in writing to the participant."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The notice under subsection (3) shall state that, unless the participant satisfies the Director General that the obligations will be dealt with according to the relevant law or the restrictions will be complied with, the Director General shall take such action as he considers reasonably necessary to ensure that they are dealt with according to the law or complied with."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The action taken under subsection (4) may include informing any person who is seeking to enforce rights against the participant of the details of any property, whether real or personal, owned by the participant under his original identity. Non-disclosure of original identity of participant"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_15__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_15__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding any written law to the contrary, where a participant who has been provided with a new identity under the Programme is required by or under a law to disclose his original identity for a particular purpose, he shall not disclose his original identity for that purpose unless the Director General has given the participant a written order to do so."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a participant has not been given an order under subsection (1) to disclose his original identity, it shall be lawful for the participant, in any proceedings or for any purpose, under any law, to claim that his new identity is his only identity."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_15__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of this section, “participant” includes a person who was provided with a new identity under the Programme and is no longer a participant. Termination of protection and assistance"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_11"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may recommend to the Attorney General that the protection and assistance provided to a participant under the Programme be terminated by the Attorney General, where—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_10",
+      "@type": "akn:subsection",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall, upon receipt of an appeal under subsection (8), make a decision on the appeal."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_11",
+      "@type": "akn:subsection",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_11__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon termination of the protection and assistance provided under the Programme to a participant, the Director General may where it is expedient and necessary—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "notify the participant of the termination; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "notify the relevant public services and public authorities of the termination."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the participant had knowingly given information that is false or misleading;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the participant’s conduct or threatened conduct is, in the opinion of the Director General, likely to compromise the integrity of the Programme;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the circumstances that gave rise to the need for protection and assistance for the participant cease to exist; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "there is, in the opinion of the Director General, no reasonable justification for the participant to remain in the Programme."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Attorney General upon receiving the recommendation under subsection (1) shall decide whether or not to terminate the protection and assistance provided to the participant under the Programme."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Attorney General shall give a participant an opportunity to be heard before making his decision under subsection (2)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The provisions of subsection (3) shall not apply where the Attorney General does not know the participant’s whereabouts."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a participant has been given an opportunity to be heard and the participant fails to make any representation, the Attorney General shall proceed to make a decision on the recommendation submitted."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), a participant may make a request in writing to the Director General that the protection and assistance provided under the Programme be terminated by the Attorney General."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon receipt of a request under subsection (6), the Director General shall make a recommendation to the Attorney General for his decision."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If a participant is aggrieved by the decision of the Attorney General under subsection (2) or (7), he may appeal in writing to the Minister within fourteen days from the date of receipt of the decision."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_9",
+      "@type": "akn:subsection",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where an appeal is made under subsection (2) or (7)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Attorney General shall submit his grounds of decision together with the recommendation of the Director General under subsection (1) or (7) to the Minister; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_III__cl_16__subsec_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a participant shall remain in the Programme until a decision on the appeal is made by the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_10__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_10__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_10__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_10__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_10__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General shall, after considering the factors referred to in section 9, recommend whether or not a witness is to be included in the Programme."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every recommendation by the Director General for a witness to be included in the Programme, shall be made to the Attorney General."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_10__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Attorney General, upon receiving the recommendation referred to in subsection (1), shall decide whether or not to include a witness in the Programme."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_10__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If any person is aggrieved by the decision of the Attorney General under subsection (3), he may appeal in writing to the Minister within fourteen days from the date of receipt of the decision."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_10__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_10__subsec_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_10__subsec_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where an appeal is made under subsection (4)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_10__subsec_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_10__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Attorney General shall submit his grounds of decision together with the recommendation of the Director General under subsection (1) to the Minister; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_10__subsec_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_10__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the protection and assistance to the witness, if provided by the Director General under subsection 7(4), shall continue until the decision on the appeal is made by the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_10__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall, upon receipt of an appeal under subsection (4), make a decision on the appeal. Register of Participants"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall appoint a Registrar of Witness Protection to maintain a Register of Participants."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_2__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Register shall contain the following:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the participant’s identity;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if the participant has been provided with a new identity under the Programme, the participant’s new identity;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the participant’s address;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the participant’s previous convictions;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the date on which the participant is included in the Programme;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the date on which the participant ceases to be in the Programme; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "details of any order given by the Director General under subsection 15(1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Registrar shall keep in his custody in such form and manner as he may determine the following documents:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_3__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_3__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "notwithstanding any written law to the contrary, in the case of a participant being given a new identity—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_3__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_3__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the birth certificate, identity card, marriage certificate and any other document relating to the original identity of the participant; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_3__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_3__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a copy of the new birth certificate, identity card, marriage certificate and any other document issued under the Programme; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_11__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a copy of an order given by the Director General under subsection 15(1). Access to Register"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_12__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_12__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall have access to the Register and to the documents kept by the Registrar except the Minister, Attorney General, Director General and any other person who is authorized in writing by the Director General."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding any written law to the contrary, the Register shall not be produced to any person or in any proceedings in a court, tribunal, Commission or an inquiry."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_12__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes this section commits an offence and shall, on conviction, be punished with imprisonment for a term not exceeding twenty years. Action where a witness is included in the Programme"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General shall take such actions, as he considers necessary and reasonable, to protect the safety and welfare of a participant."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2__para_j"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The action may include—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "providing accommodation for the participant;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "relocating the participant;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "applying for any document necessary to allow the participant to establish a new identity;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "providing transport for the transfer of the property of the participant;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "providing payment equivalent to the remuneration that the participant was receiving before being included in the Programme including any increment to the remuneration which the participant would have been entitled to, if he was not included in the Programme;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the participant is unemployed before being included in the Programme, providing payments to the participant for the purpose of meeting the reasonable living expenses of the participant including, where appropriate, living expenses of the family of the participant and providing, whether directly or indirectly, other reasonable financial assistance;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "providing payments to the participant for the purpose of meeting costs associated with relocation;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "providing assistance to the participant in obtaining employment or access to education;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "providing other assistance to the participant with a view to ensuring that the participant becomes self-supporting; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other action that the Director General considers necessary."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding any written law to the contrary, there shall be no relocation of any participant by the Director General under paragraph (2)(b)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to the State of Sabah from any place outside the State of Sabah; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to the State of Sarawak from any place outside the State of Sarawak."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Director General makes a request to any person, having the power or duty under any other written law to issue birth certificate, identity card, marriage certificate or any other document relating to the identity of a participant, to issue a new document necessary to allow the participant to establish a new identity, such person shall comply with the request."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General shall not apply for any document to allow a participant to establish a new identity under paragraph (2)(c) unless he has obtained a written consent from the participant."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may permit his officer to use assumed names in carrying out their duties in relation to the Programme and to carry documentation supporting those assumed names."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "There is established a Witness Protection Programme to be maintained by the Director General. Appointment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_4__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_4__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may appoint a Director General and a Deputy Director General of Witness Protection from amongst members of the public services."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may appoint such other person or persons, as he deems fit, to assist the Director General in carrying out the purposes of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every person appointed under subsection (2) shall be subject to general direction, control and supervision of the Director General and shall have and exercise all the powers of the Director General under this Act except those referred in subsections 12(1) and 15(1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_4__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In the event that the Director General is absent or unable to act due to illness or any other cause, the Deputy Director General shall exercise the powers of the Director General under subsections 12(1) and 15(1). Functions"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General shall be responsible for the recommendation of witnesses to whom protection and assistance may be provided under the Programme."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may arrange or provide protection and other assistance to a witness or participant under the Programme. Duty to provide assistance"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_6__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding any written law to the contrary, a person shall provide to the Director General, on the Director General’s request, any statement, record, other document or other form of assistance that may assist the Director General in performing his functions under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding three thousand ringgit or to imprisonment for a term not exceeding six months or to both."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding any written law to the contrary, no proceedings or action shall be taken against a person who acts in compliance with subsection (1). Application for inclusion in the Programme"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_7__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_7__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any witness may apply to the Director General to be included in the Programme."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An enforcement agency may, with the written consent of a witness, apply to the Director General that the witness be included in the Programme."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If a witness is under eighteen years of age, a parent or guardian of the witness may apply on his behalf to be included in the Programme."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_7__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon receipt of an application under this section, the Director General may provide interim protection and assistance to a witness. Witness to disclose certain matters"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_m",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_n",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_o"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In an application under section 7, a witness shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "disclose to the Director General details of all outstanding legal obligations of the witness;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "disclose to the Director General details of any outstanding debts of the witness, including any outstanding tax;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "disclose to the Director General details of the criminal history of the witness which includes orders relating to sentences imposed on the witness;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "disclose to the Director General details of any civil proceedings that have been instituted by or against the witness;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "disclose to the Director General details of any bankruptcy proceedings that have been instituted against the witness;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "inform the Director General whether the witness is an undischarged bankrupt under the Bankruptcy Act 1967 [Act 360] and, if the witness is an undischarged bankrupt, shall submit to the Director General copies of all documents relating to the bankruptcy;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "inform the Director General whether there are any restrictions on the witness holding positions in companies, whether public or private and, if there are, give to the Director General copies of all documents relating to those restrictions;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "disclose to the Director General details of the immigration status of the witness;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "disclose to the Director General details of any reparation order that is in force against the witness;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "disclose to the Director General details of the financial liabilities and assets, whether real or personal, of the witness;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "inform the Director General whether any of the property of the witness, whether real or personal, is liable to forfeiture or confiscation or is subject to restraint under any other law;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "inform the Director General of the general medical condition of the witness;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "disclose to the Director General details of any relevant court orders or arrangements relating to custody or access to children;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_n",
+      "@type": "akn:paragraph",
+      "eli:number": "n",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "disclose to the Director General details of any business dealings in which the witness is involved; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_o",
+      "@type": "akn:paragraph",
+      "eli:number": "o",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_o__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_o__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_o__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_o__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "disclose to the Director General details of any arrangements that the witness has made for—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_o__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_o",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the service of documents on the witness;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_o__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_o",
+      "schema:text": {
+        "@language": "en",
+        "@value": "representation in proceedings in a court;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_o__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_o",
+      "schema:text": {
+        "@language": "en",
+        "@value": "enforcement of judgments in favour of the witness; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_o__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_1__para_o",
+      "schema:text": {
+        "@language": "en",
+        "@value": "compliance with the enforcement of judgments against the witness."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may send such witness to undergo medical, psychological or psychiatric examinations to determine his suitability for inclusion in the Programme."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who discloses or supplies information to the Director General for the purpose of assisting the Director General in deciding whether or not to recommend him to be included in the Programme shall not disclose or supply information which he knows or ought reasonably to know is false."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (3) commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding five years or to both. Factors to be considered"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9__subsec_1__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General in deciding whether to recommend that a witness is to be included in the Programme shall consider the following:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "whether the witness has a criminal record, particularly in respect of crimes of violence, and whether that record indicates a risk to the public if the witness is included in the Programme;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the result of a medical, psychological or psychiatric examinations conducted under subsection 8(2);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the seriousness of the offence to which the evidence or statement of the witness relates;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the nature and importance of the evidence or statement of the witness;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "whether there are alternative methods of protecting the witness;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the nature of the perceived danger to the witness;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the nature of the relationship of the witness to other witnesses being selected for inclusion in the Programme; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other matters as the Director General considers relevant."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may make such other inquiries and investigations, as he considers necessary, for the purposes of assessing whether the witness is to be recommended to be included in the Programme. Inclusion in the Programme"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_30"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "GENERAL Obligation of secrecy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_17__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Except as provided in this Act, the Director General or any of his officer, whether during his tenure of office or during his employment or after that, and any other person who has by any means access to any information or document relating to the affairs of the Programme, shall not give or otherwise disclose such information or document to any person."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) commits an offence and shall, on conviction, be punished with imprisonment for a term not exceeding twenty years. Director General not required to disclose information"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_18__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_18__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_18__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_18__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to section 12 and subsection (2), the Director General or any of his officers shall not be required—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_18__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to produce in any proceedings in a court, tribunal, Commission or an inquiry, any document that has come into the custody or control of the Director General or his officer; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_18__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to divulge or communicate to such a body any matter or thing that has come to the notice of the Director General or any of his officer, in the performance of their functions and duties under this Act, except where it is necessary to do so for carrying out the purposes of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If it is essential to the determination of any legal proceedings that the Judge or Magistrate presiding over the proceedings be advised of a participant’s location and circumstances, the person referred to in subsection (1) is to disclose the relevant information to the Judge or Magistrate in chambers, but the person shall not disclose the information if any person other than the Judge or Magistrate is present."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_18__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A Judge or Magistrate shall not disclose any information disclosed to the Judge or Magistrate under subsection (2) otherwise than in accordance with this Act. Requirement where participant becomes a witness in a criminal proceeding"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a participant or former participant who is provided with a new identity under the Programme is to be a witness in a criminal proceeding under the new identity, the participant or former participant, as the case may be, shall notify the Director General that he is to be a witness in the proceeding. Identity of participant not to be disclosed in court proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_20__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_20__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_20__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where in any proceedings in a court, tribunal, Commission or an inquiry, the identity of a participant is in issue or may be disclosed, the court, tribunal Commission or inquiry shall, unless it considers that the interest of justice requires otherwise—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_20__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_20__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "conduct that part of the proceedings that relates to the identity of the participant in camera; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_20__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_20__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "make such order relating to the suppression of publication of evidence given before the court, tribunal, commission or inquiry as, in its opinion, will ensure that the identity of the participant is not disclosed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes paragraph (1)(b) commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding ten years or to both. Payment under the Programme not to be confiscated"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding any written law to the contrary, any payment made to a participant under the Programme shall not be confiscated, forfeited or frozen and shall not be used for any other purpose except as provided under this Act. Special arrangement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in this Act shall prevent the Director General from making special arrangements with a person under which a participant is able to obtain benefits under a contract or arrangements without disclosing the participant’s original identity. Exclusion of judicial review"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_23__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "There shall be no judicial review in any court of any act done or any decision made by the Minister, Attorney General or the Director General under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_23__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_23__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_23__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_23__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In this section, “judicial review” includes proceedings instituted by way of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_23__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an application for any of the prerogative orders of mandamus, prohibition or certiorari;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_23__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an application for a declaration or an injunction;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_23__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any writ of habeas corpus; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_23__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other suit or action relating to or arising out of any act done or any decision made in pursuance of any power conferred upon the Minister, Attorney General or the Director General by any provision of this Act. Protection from suit"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_24__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_24__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An action shall not lie and prosecution shall not be brought, instituted or maintained against any person in any court for any thing done or omitted to be done under this Act—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_24__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in good faith;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the reasonable belief that it was necessary for the purpose intended to be served thereby; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_24__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for carrying into effect the provisions of this Act. Institution of prosecution"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No prosecution in respect of any offence under this Act shall be instituted except by or with the written consent of the Public Prosecutor. Offences"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Except as provided in this Act, no person shall disclose any information—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "about the identity or location of a witness, participant or former participant; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that compromises the security of such a witness, participant or former participant."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person who is or has been a participant, or a witness who has been considered for recommendation for inclusion in the Programme, shall not disclose—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the fact that he is or has been a participant or has been considered for recommendation for inclusion in the Programme;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "information as to the manner in which the Programme operates; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "information about any officer who is or has been involved in the Programme, unless the person has been authorized in writing by the Director General to make such disclosure."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "paragraph (1)(a) or (b) commits an offence and shall, on conviction, be punished with imprisonment for a term not exceeding twenty years; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_26__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "paragraph (2)(a), (b) or (c) commits an offence and shall, on conviction, be punished with imprisonment for a term not exceeding ten years. Abetments and attempts"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who abets or attempts to commit any offence punishable under this Act shall be liable to be punished with the punishment provided for that offence. Powers of police officers not derogated"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing contained in this Act shall derogate from the powers of a police officer to provide protection and assistance to a witness under the Police Act 1967 [Act 344]. Report to the Minister"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_29__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_29__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_29__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General shall, not later than 31 March of the following year, submit an annual report to the Minister relating to the general operation, performance and effectiveness of the Programme."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may, whenever he considers it necessary to do so, submit special reports to the Minister on any matter in relation to the Programme. Regulations"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may make such regulations as may be expedient or necessary for carrying out the purposes of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Witness Protection Act 2008."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_I__cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_I__cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_I__cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_I__cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_I__cl_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "“enforcement agency” includes a body or agency that is responsible for the enforcement of laws relating to the prevention, detection and investigation of any offence; “Register” means the Register of Participants maintained under section 11; “Director General” means the Director General of Witness Protection appointed under subsection 4(1); “Minister” means the Minister charged with the responsibility for Witness Protection Programme; “Registrar” means the Registrar of Witness Protection appointed under subsection 11(1); “participant” means a witness who has been included in the Programme; “public authority” means the public authority as defined in Clause (2) of Article 160 of the Federal Constitution; “Programme” means the Witness Protection Programme established under this Act; “criminal proceeding” includes any criminal trial or inquiry before a court or tribunal having criminal jurisdiction, an inquest or inquiry into death and a police investigation under the Criminal Procedure Code [Act 593], and any investigation by any other authority under any written law; “witness” means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_I__cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person who has given or who has agreed to give evidence on behalf of the Government in a criminal proceeding;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_I__cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person who has given or who has agreed to give evidence, otherwise than as mentioned in paragraph (a), in relation to the commission or possible commission of an offence;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_I__cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person who has provided any information, a statement or assistance to a public officer or an officer of a public authority in relation to an offence;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_I__cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person who, for any other reason, may require protection or assistance under the Programme; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_I__cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person who, because of his relationship to or association with any of the persons referred to in paragraphs (a) to (d), may require protection or assistance under the Programme."
+      }
+    }
+  ]
+}

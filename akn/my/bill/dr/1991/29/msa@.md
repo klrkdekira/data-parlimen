@@ -62,7 +62,9 @@ development, settlement
 
 <!-- marginal: and -->
 
-management of land in
+management of land
+
+<!-- marginal: in -->
 
 <!-- marginal: the -->
 
@@ -70,19 +72,9 @@ Federation;
 
 <!-- page 2 -->
 
-(c) to promote, stimulate, facilitate and undertake economic,
+(c) to promote, stimulate, facilitate and undertake economic, social, residential, agricultural, industrial and commercial development and management and other ancillary activities and services in any area for which the Authority has been vested with the power to carry out land development projects or any other area which has been acquired, purchased, leased by or alienated to or is otherwise held or enjoyed by the Authority or its corporations or companies for the performance of its functions;
 
-<!-- marginal: social, -->
-
-residential, agricultural, industrial and commercial development and management and other ancillary activities and services in any area for which the Authority has been vested with the power to carry out land development projects or any other area which has been acquired, purchased, leased by or alienated to or is otherwise held or enjoyed by the Authority or its corporations or companies for the performance of its functions;
-
-(d) to undertake and carry out such activities as may assist
-
-<!-- marginal: in -->
-
-<!-- marginal: the -->
-
-modernisation of the agricultural sector in the area mentioned under paragraph (c); and in particular activities relating to the production, utilisation, processing and marketing of crops, livestock and fresh water fisheries;
+(d) to undertake and carry out such activities as may assist in the modernisation of the agricultural sector in the area mentioned under paragraph (c); and in particular activities relating to the production, utilisation, processing and marketing of crops, livestock and fresh water fisheries;
 
 (e) to assist, guide, advise, manage, administer and co-ordinate economic, social, residential, agricultural, industrial and commercial activities whether within or outside the area mentioned under paragraph (c)"
 
@@ -98,25 +90,13 @@ modernisation of the agricultural sector in the area mentioned under paragraph (
 
 (d) dengan menggantikan perkataan-perkataan "and corporations and to give assistance to boards and corporations" dalam perenggan (b) subseksyen (3) dengan perkataan-perkataan ", corporations, companies and other bodies or persons and to give assistance to such boards, corporations, companies and other bodies or persons";
 
-(e) dengan menggantikan perenggan
+(e) dengan menggantikan perenggan (c) subseksyen (3) dengan perenggan (c) yang berikut:
 
-<!-- marginal: (c) -->
-
-subseksyen (3) dengan perenggan (c) yang berikut:
-
-"(c) with the approval of the Minister to enter into a partnership, jointventure, undertaking, co-operation in any manner, an arrangement for
-
-<!-- marginal: the -->
-
-sharing of profits or to carry on such activities in association or otherwise, with any person, public authority, corporation, company or other body (including the Government of the Federation or any State Government) carrying on or engaging in any such activities and to take or otherwise acquire shares and securities of any such public authority, corporation, company or other body, and to sell, ho(d on, reissue with or without guarantee, such shares and securities or otherwise dispose of or deal with them;
+"(c) with the approval of the Minister to enter into a partnership, jointventure, undertaking, co-operation in any manner, an arrangement for the sharing of profits or to carry on such activities in association or otherwise, with any person, public authority, corporation, company or other body (including the Government of the Federation or any State Government) carrying on or engaging in any such activities and to take or otherwise acquire shares and securities of any such public authority, corporation, company or other body, and to sell, ho(d on, reissue with or without guarantee, such shares and securities or otherwise dispose of or deal with them;
 
 (f) dengan memasukkan selepas perenggan (c) subseksyen (3) perenggan baru (ca) yang berikut;
 
-"(ca) with the approval of the Minister, to establish or promote
-
-<!-- marginal: the -->
-
-establishment of companies to carry on or engage in any activity which
+"(ca) with the approval of the Minister, to establish or promote the establishment of companies to carry on or engage in any activity which
 
 <!-- page 4 -->
 
@@ -130,9 +110,7 @@ has been planned or undertaken by the Authority (including the taking over of th
 
 approval of the Minister—
 
-(a) establish, maintain and administer or continue to maintain and administer and subsequently wind up, such funds into which shall be paid sums contributed by
-
-<!-- marginal: the -->
+(a) establish, maintain and administer or continue to maintain and administer and subsequently wind up, such funds into which shall be paid sums contributed by the
 
 <!-- marginal: persons -->
 
@@ -148,27 +126,21 @@ Authority; and
 
 <!-- page 5 -->
 
-(d) by substituting for the words "and corporations and to give assistance to boards and corporations" in paragraph (b) of subsection (3) the words ", corporations, companies and other bodies or persons and to give assistance to such boards, corporations, companies and other bodies or persons";
+(d) by substituting for the words "and corporations and to give assistance to boards and corporations" in paragraph (b) of subsection
 
-(e) by substituting for paragraph (c) of subsection (3) the following paragraph (c):
+(3) the words ", corporations, companies and other bodies or persons and to give assistance to such boards, corporations, companies and other bodies or persons";
 
-"(c) with the approval of the Minister to enter into a partnership, jointventure, undertaking, co-operation
+(e) by substituting for paragraph (c) of subsection
 
-<!-- marginal: in any -->
+(3) the following paragraph (c):
 
-manner, an arrangement for
+"(c) with the approval of the Minister to enter into a partnership, jointventure, undertaking, co-operation in any manner, an arrangement for the sharing of profits or to carry on such activities in association or otherwise, with any person, public authority, corporation, company or other body (including the Government of the Federation or any State Government) carrying on or engaging in any such activities and to take or otherwise acquire shares and securities of any such public authority, corporation, company or other body, and to sell, hold on, reissue with or without guarantee, such shares and securities or otherwise dispose of or deal with them;
 
-<!-- marginal: the -->
+(f) by inserting after paragraph (c) of subsection
 
-sharing of profits or to carry on such activities in association or otherwise, with any person, public authority, corporation, company or other body (including the Government of the Federation or any State Government) carrying on or engaging in any such activities and to take or otherwise acquire shares and securities of any such public authority, corporation, company or other body, and to sell, hold on, reissue with or without guarantee, such shares and securities or otherwise dispose of or deal with them;
+(3) the following new paragraph (ca):
 
-(f) by inserting after paragraph (c) of subsection (3) the following new paragraph (ca):
-
-"(ca) with the approval of the Minister, to establish or promote
-
-<!-- marginal: the -->
-
-establishment of companies to carry on or engage in any activity which has been planned or undertaken by the Authority (including the taking over of the function of a corporation which has been wound up and dissolved under section 43);";
+"(ca) with the approval of the Minister, to establish or promote the establishment of companies to carry on or engage in any activity which has been planned or undertaken by the Authority (including the taking over of the function of a corporation which has been wound up and dissolved under section 43);";
 
 <!-- page 6 -->
 
@@ -194,15 +166,13 @@ Authority; and
 
 (2) Every act or thing done by the Authority or the Minister or by both before the commencement of this Act that would have been lawful if subsections (2), (3) and (5) of section 3 of the Ordinance (as amended by subsection (1) of this section) had been in force at the time when it was done is hereby validated and declared to have been lawfully done.
 
-New section 3. (1) The Ordinance is amended by inserting after
+<!-- marginal: New section -->
+
+3. (1) The Ordinance is amended by inserting after
 
 12B. section 12A the following new section 12B:
 
-"Bank 12B. The Authority or
-
-<!-- marginal: its corporation -->
-
-guarantee. established under section 42 may, in the normal course of performing its duties, issue one or more bank guarantees to any person for such purpose and to such extent as the Authority may, with the approval of the Minister, determine.".
+"Bank 12B. The Authority or its corporation guarantee. established under section 42 may, in the normal course of performing its duties, issue one or more bank guarantees to any person for such purpose and to such extent as the Authority may, with the approval of the Minister, determine.".
 
 <!-- page 7 -->
 
@@ -264,11 +234,11 @@ This Bill will not involve the government in any extra financial expenditure. - 
 
 ## PUBLISHED BY AUTHORITY
 
-Bil. 35
+<!-- marginal: Bil. 35 -->
 
 <!-- marginal: TAMBAHAN -->
 
-No23_
+<!-- marginal: No23_ -->
 
 ### __ 7hb November 1991 ____
 
@@ -276,11 +246,7 @@ No23_
 
 ## RANG UNDANG-UNDANG
 
-Rang Undang-undang yang berikut
-
-<!-- marginal: telah -->
-
-dibentangkan dalam Parlimen adalah diterbitkan untuk makluman umum:
+Rang Undang-undang yang berikut telah dibentangkan dalam Parlimen adalah diterbitkan untuk makluman umum:
 
 The following Bills introduced into Parliament are published for general information:
 

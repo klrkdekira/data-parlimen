@@ -384,13 +384,15 @@ apa-apa kepentingan menurut Penggal 5, Bahagian IV Akta Syarikat 1965 jika terbi
 
 <!-- page 16 -->
 
-### Pindaan seksyen 18
+<!-- marginal: Pindaan seksyen 18 -->
 
 19. Seksyen 18 Akta ibu dipinda—
 
 (a) dalam subseksyen (1)—
 
-(i) dalam perenggan (c), dengan memasukkan selepas perkataan “amaun” perkataan “dan jenis mata wang”;
+(i) dalam perenggan (c), dengan memasukkan selepas perkataan “amaun” perkataan “dan jenis mata
+
+<!-- marginal: wang”; -->
 
 (ii) dengan memotong perkataan “dan” di hujung perenggan (d);
 
@@ -398,7 +400,11 @@ apa-apa kepentingan menurut Penggal 5, Bahagian IV Akta Syarikat 1965 jika terbi
 
 (e) dengan perkataan “; dan”; dan
 
-(iv) dengan memasukkan selepas perenggan (e) perenggan yang berikut: “
+(iv) dengan memasukkan selepas perenggan (e) perenggan
+
+<!-- marginal: yang berikut: -->
+
+“
 
 (f) jika syarikat Labuan itu ialah suatu syarikat berhad dengan jaminan—
 
@@ -576,7 +582,11 @@ mengikut mana-mana yang lebih awal atau dalam apa-apa tempoh yang lebih lama seb
 
 29. Seksyen 47 Akta ibu dipinda dengan menggantikan subseksyen (1) dengan subseksyen yang berikut:
 
-“(1) Sesuatu syarikat Labuan hendaklah mempunyai kuasa untuk—
+<!-- marginal: “(1) -->
+
+Sesuatu syarikat Labuan hendaklah mempunyai kuasa
+
+<!-- marginal: untuk— -->
 
 (a) menerbitkan syer yang boleh dibahagikan kepada satu kelas atau lebih, dengan apa-apa nama, keutamaan, had dan hak relatif yang hendaklah dinyatakan atau diperuntukkan
 
@@ -1468,7 +1478,7 @@ dan penalti, kos, fi, caj, cukai dan hutang itu hendaklah menjadi suatu caj ke a
 
 78. Akta ibu dipinda dengan memasukkan sebelum Bahagian IX Bahagian yang berikut:
 
-“bahagian VIIIb
+## “BAHAGIAN VIIIB
 
 ## SYARIKAT SEL TERLINDUNG LABUAN
 
@@ -1908,7 +1918,7 @@ Dengan syarat bahawa liabiliti, jika ada, tiap-tiap pegawai dan anggota syarikat
 
 ## Bahagian IX Bahagian dan tajuk yang berikut:
 
-“bahagian X
+## “BAHAGIAN X
 
 ## PELBAGAI”.
 

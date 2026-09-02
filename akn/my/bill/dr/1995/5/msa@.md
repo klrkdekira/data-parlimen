@@ -8,9 +8,7 @@
 
 bernama
 
-Suatu Akta untuk meminda Akta Cukai Perkhidmatan
-
-1975. [ ]
+Suatu Akta untuk meminda Akta Cukai Perkhidmatan 1975. [ ]
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 
@@ -42,11 +40,33 @@ ibu" dalam Akta ini, adalah dipinda dalam subseksyen
 
 <!-- page 2 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Akta ibu adalah dipinda dengan menggantikan seksyen seksyen 14. 14 dengan seksyen yang berikut:
+3. Akta ibu adalah dipinda dengan menggantikan seksyen
 
-Bila cukai 14. (1) Cukai perkhidmatan yang boleh menjadi genap dikenakan di bawah Akta ini hendaklah genap masanya masanya dibayar pada masa pembayaran diterima dan kena dibayar. bagi—
+<!-- marginal: seksyen 14. -->
+
+14 dengan seksyen yang berikut:
+
+<!-- marginal: Bila cukai -->
+
+14. (1) Cukai perkhidmatan yang boleh
+
+<!-- marginal: menjadi -->
+
+<!-- marginal: genap -->
+
+dikenakan di bawah Akta ini hendaklah genap
+
+<!-- marginal: masanya -->
+
+masanya dibayar pada masa pembayaran diterima
+
+<!-- marginal: dan kena -->
+
+<!-- marginal: dibayar. -->
+
+bagi—
 
 (a) perkhidmatan yang kena dibayar cukai yang disediakan; atau
 

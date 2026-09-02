@@ -40,4 +40,4 @@ IMPUKASl KEWANGAN
 
 Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
 
-[PN(U2)2427]
+<!-- marginal: [PN(U2)2427] -->

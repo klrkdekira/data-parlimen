@@ -58,9 +58,13 @@ Akta 56 diberikan kepadanya dalam seksyen 3 Akta Keterangan 1950;'; dan
 
 transaksi;'.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Proviso kepada seksyen 48 Akta ibu adalah dipinda seksyen 48. dengan memasukkan selepas perkataan "sesuatu borang yang tidak dicetak atau dikeluarkan sedemikian" perkataan "seperti yang disebut terdahulu, atau membenarkan penggunaan apa-apa borang yang dikemukakan melalui pertukaran data elektronik".
+3. Proviso kepada seksyen 48 Akta ibu adalah dipinda
+
+<!-- marginal: seksyen 48. -->
+
+dengan memasukkan selepas perkataan "sesuatu borang yang tidak dicetak atau dikeluarkan sedemikian" perkataan "seperti yang disebut terdahulu, atau membenarkan penggunaan apa-apa borang yang dikemukakan melalui pertukaran data elektronik".
 
 ## HURAIAN
 

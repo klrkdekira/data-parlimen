@@ -1,0 +1,68 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/36/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/36"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-36-1991",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/36/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/36/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/36/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Supply Bill 1992"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/36/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/36/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Supply Act 1992."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/36/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/36/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The issue of a sum not exceeding twenty three billion one hundred and fifty one million eight hundred and fifty two thousand and eight hundred and ninety ringgit ($23,151,852,890) from the Consolidated Fund for the service of the year 1992 is hereby authorised, and the said sum is appropriated for the purposes specified in the Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/36/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/36/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Purpose Title $ B. 1 ... Parliament B. 2 ... Office of the Keeper of the Rulers' Seal B. 3 ... Audit Department B. 4 ... Election Commission B. 5 ... Public Services Commission B. 6 ... Education Service Commission B. 7 ... Prime Minister's Department B. 8 ... Public Services Department B. 9 ... Statistics Department Purpose Title Amount $ ... Attorney General's Chambers 14,172,300 ... Anti-Corruption Agency 26,933,100 ... Office of the Federal Secretary, Sabah 651,500 ... Office of the Federal Secretary, 572,000 Sarawak ... Ministry of Housing and Local 56,519,800 Government ... Town and Country Planning 11,826,900 Department ... Fire Services Department 89,577,500 ... Ministry of Youth and Sports 48,226,900 ... Ministry of Primary Industries 92,797,200 ... Ministry of Agriculture 890,229,400 ... Ministry of International Trade and 106,213,300 Industry ... Ministry of Domestic Trade and 37,996,800 Consumer Affairs ... Ministry of Culture, Arts and Tourism 119,512,700 ... Department of the National Archives 8,861,700 ... National Museum 4,589,400 ... Ministry of Defence 2,819,188,000 ... Ministry of Education 6,674,818,800 ... Department of National Library 25,428,400 ... Treasury 245,741,000 ... Treasury General Services 348,774,060 ... Contribution to Statutory Funds 3,848,925,010 ... Royal Customs and Excise 186,860,000 Department ... Inland Revenue Department 126,344,000 ... Ministry of Public Enterprises 110,494,800 ... Ministry of Health 1,663,262,400 ... Ministry of Home Affairs 107,652,000 ... Royal Malaysia Police 1,396,623,800 ... Immigration Department 67,407,800 Purpose Title $ B. 38 ... Registration of Societies Department B. 39 ... National Registration Department B. 40 ... Prisons Department B. 41 ... Civil Defence Department B. 42 ... National Printing Department B. 43 ... Ministry of Justice B. 44 ... Ministry of Information B. 45 ... Ministry of Human Resources B. 46 ... Ministry of Science, Technology and Environment B. 47 ... Ministry of Transport B. 48 ... Civil Aviation Department B. 49 ... Ministry of Energy, Telecom- munications and Posts B, 50 ... Postal Services Department B. 51 ... Ministry of Foreign Affairs B. 52 ... Ministry of Works B. 53 ... Ministry of Land and Cooperative Development B. 54 ... Ministry of Rural Development B. 55 ... Department of Orang Asli Affairs B. 56 ... Ministry of National Unity and Social Development TOTAL . . 23,151,852,890"
+      }
+    }
+  ]
+}

@@ -4,13 +4,13 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Application 3. Act to be read together with relevant written laws 4. Interpretation 5. Prudent carbon capture, utilization and storage practices
 
-## Part II
+## PART II
 
 ## MALAYSIA CARBON CAPTURE, UTILIZATION AND STORAGE AGENCY
 
@@ -26,7 +26,7 @@
 
 14. Appointment of competent technical entity
 
-## Part III
+## PART III
 
 ## CARBON CAPTURE
 
@@ -36,7 +36,7 @@
 
 <!-- page 2 -->
 
-## Part IV
+## PART IV
 
 ## TRANSPORTATION AND IMPORTATION OF CARBON DIOXIDE
 
@@ -48,7 +48,7 @@
 
 20. Import permit of carbon dioxide captured outside of Malaysia
 
-## Part V
+## PART V
 
 ## UTILIZATION OF CARBON DIOXIDE
 
@@ -58,7 +58,7 @@
 
 23. Prohibition of utilization of carbon dioxide captured outside of Malaysia
 
-## Part VI
+## PART VI
 
 ## ASSESSMENT AND PERMANENT STORAGE IN OFFSHORE AREAS
 
@@ -80,7 +80,7 @@
 
 32. Transfer of obligations in relation to offshore storage
 
-## Part VII
+## PART VII
 
 ## ASSESSMENT AND PERMANENT STORAGE IN ONSHORE AREAS
 
@@ -114,7 +114,7 @@
 
 44. Accounts and reports
 
-## Part IX
+## PART IX
 
 ## ENFORCEMENT
 
@@ -122,7 +122,7 @@
 
 46. Power of enforcement
 
-## Part X
+## PART X
 
 ## GENERAL PROVISIONS
 
@@ -158,7 +158,7 @@ AND WHEREAS the Paris Agreement was done at Paris on 12 December 2015, where Mal
 
 of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -264,7 +264,7 @@ of Malaysia as follows:
 
 (c) any standard issued by any recognised body at the national or international level.
 
-## Part II
+## PART II
 
 ## MALAYSIA CARBON CAPTURE, UTILIZATION AND
 
@@ -414,7 +414,7 @@ of Malaysia as follows:
 
 (5) Nothing in subsection (1) shall be construed as empowering the Minister to appoint a competent technical entity for any purpose other than the purposes specified in subsection (1).
 
-## Part III
+## PART III
 
 ## CARBON CAPTURE
 
@@ -430,7 +430,7 @@ of Malaysia as follows:
 
 <!-- page 16 -->
 
-## Part IV
+## PART IV
 
 ## TRANSPORTATION AND IMPORTATION OF CARBON DIOXIDE
 
@@ -464,7 +464,7 @@ of Malaysia as follows:
 
 (4) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding five years or to both.
 
-## Part V
+## PART V
 
 ## UTILIZATION OF CARBON DIOXIDE
 
@@ -486,7 +486,7 @@ of Malaysia as follows:
 
 <!-- page 18 -->
 
-## Part VI
+## PART VI
 
 ## ASSESSMENT AND PERMANENT STORAGE
 
@@ -618,7 +618,7 @@ until obligations in relation to the storage site is transferred to the Governme
 
 <!-- page 23 -->
 
-## Part VII
+## PART VII
 
 ## ASSESSMENT AND PERMANENT STORAGE
 
@@ -734,7 +734,7 @@ until obligations in relation to the storage site is transferred to the Governme
 
 (2) The Agency shall as soon as practicable, send a copy of the statement of accounts certified by the auditors and a copy of auditors’ report to the Minister, and the Minister shall cause the statement of account and the auditors’ report to be laid before each House of Parliament.
 
-## Part IX
+## PART IX
 
 ## ENFORCEMENT
 
@@ -750,7 +750,7 @@ until obligations in relation to the storage site is transferred to the Governme
 
 (2) An officer authorized under section 45 shall have the powers of a police officer of whatever rank as provided for under the Criminal Procedure Code [Act 593] in relation to investigation into any offence under this Act, and such powers shall be in addition to and not in derogation of, the powers provided for under this Act.
 
-## Part X
+## PART X
 
 ## GENERAL PROVISIONS
 
@@ -852,7 +852,7 @@ may, within thirty days after being informed in writing of such refusal, imposit
 
 The Carbon Capture, Utilization and Storage Bill (“the proposed Act”) seeks to provide for matters relating to the capture, transportation, utilization and permanent storage of carbon dioxide, to reduce carbon dioxide emissions and mitigate the effects of climate change, to catalyse the development of the carbon capture, utilization and storage industry as a new source of economic growth and to provide for other related matters.
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act deals with preliminary matters.
 
@@ -866,7 +866,7 @@ The Carbon Capture, Utilization and Storage Bill (“the proposed Act”) seeks 
 
 7. Clause 5 seeks to provide that the prudent carbon capture, utilization and storage practices shall be in accordance with any practice, method, measure and standard generally followed by the global carbon capture, utilization and storage industry.
 
-## Part II
+## PART II
 
 8. Part II of the proposed Act deals with provisions relating to the Malaysia Carbon Capture, Utilization and Storage Agency.
 
@@ -886,13 +886,13 @@ The Carbon Capture, Utilization and Storage Bill (“the proposed Act”) seeks 
 
 15. Clause 14 seeks to provide that the Minister may appoint a separate competent technical entity to advise the Agency on carbon capture, transportation of carbon dioxide, utilization of carbon dioxide, offshore storage of carbon dioxide and onshore storage of carbon dioxide. This clause also seeks to provide that the competent technical entity appointed shall advise the Agency on any technical and operational matters.
 
-## Part III
+## PART III
 
 16. Part III of the proposed Act deals with carbon capture.
 
 17. Clauses 15 and 16 seek to provide for the registration and application for registration of carbon capture installation.
 
-## Part IV
+## PART IV
 
 18. Part IV of the proposed Act deals with transportation and importation of carbon dioxide.
 
@@ -902,7 +902,7 @@ The Carbon Capture, Utilization and Storage Bill (“the proposed Act”) seeks 
 
 21. Clause 20 seeks to provide that the importation of any carbon dioxide captured outside of Malaysia shall only be made with an import permit. Failure to comply with this clause is an offence.
 
-## Part V
+## PART V
 
 22. Part V of the proposed Act deals with utilization of carbon dioxide.
 
@@ -912,7 +912,7 @@ The Carbon Capture, Utilization and Storage Bill (“the proposed Act”) seeks 
 
 24. Clause 23 seeks to provide for the prohibition of the usage of carbon dioxide captured outside Malaysia for the purposes of permanent storage in Malaysia.
 
-## Part VI
+## PART VI
 
 25. Part VI of the proposed Act deals with provisions relating to assessment and permanent storage of carbon dioxide in offshore areas.
 
@@ -936,7 +936,7 @@ The Carbon Capture, Utilization and Storage Bill (“the proposed Act”) seeks 
 
 34. Clause 32 seeks to provide that once the storage site has been closed pursuant to clause 31, the obligations relating to monitoring, corrective measures and remediation measures of the storage site shall be transferred to the Government and the Government shall issue a certificate to the offshore operator to document all the transfer of the obligations.
 
-## Part VII
+## PART VII
 
 35. Part VII of the proposed Act deals with provisions relating to assessment and permanent storage of carbon dioxide in onshore area.
 
@@ -972,7 +972,7 @@ The Carbon Capture, Utilization and Storage Bill (“the proposed Act”) seeks 
 
 <!-- page 37 -->
 
-## Part IX
+## PART IX
 
 49. Part IX of the proposed Act deals with provisions relating to enforcement.
 
@@ -980,7 +980,7 @@ The Carbon Capture, Utilization and Storage Bill (“the proposed Act”) seeks 
 
 51. Clause 46 seeks to provide that a police officer not below the rank of an Inspector or senior customs officer may exercise all the powers of enforcement under the proposed Act.
 
-## Part X
+## PART X
 
 52. Part X of the proposed Act deals with general provisions.
 

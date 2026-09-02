@@ -164,7 +164,7 @@ Rang Undang-Undang ini bertujuan untuk mengadakan peruntukan mengenai pemberian 
 
 Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya tidak dapat ditentukan sekarang ini.
 
-[PN(U2)2256]
+<!-- marginal: [PN(U2)2256] -->
 
 <!-- page 9 -->
 

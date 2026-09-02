@@ -6,7 +6,7 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -16,7 +16,7 @@
 
 3. Maksud “mengilang”
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENTADBIRAN
 
@@ -28,7 +28,7 @@
 
 7. Kerahsiaan maklumat
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PENGENAAN DAN SKOP CUKAI JUALAN
 
@@ -42,7 +42,7 @@
 
 <!-- page 2 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENDAFTARAN
 
@@ -64,7 +64,7 @@
 
 20. Pengecualian daripada pendaftaran
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PENGAKAUNAN, TAKSIRAN, MENDAPATKAN BALIK, DSB.
 
@@ -98,27 +98,61 @@
 
 <!-- page 3 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PENGECUALIAN, PEMBAYARAN BALIK, PULANG BALIK DAN PEREMITAN
 
-35. Kuasa Menteri untuk mengecualikan dan membayar balik 36. Tuntutan bagi pembayaran balik cukai jualan berhubung dengan hutang lapuk 37. Pembayaran semula cukai jualan berhubung dengan hutang lapuk 38. Pembayaran cukai jualan, dsb., yang terkurang dibayar atau dibayar balik secara silap 39. Pembayaran balik cukai jualan, dsb. yang terlebih bayar atau dibayar secara silap 40. Pulang balik 41. Peremitan cukai jualan, dsb.
+35. Kuasa Menteri untuk mengecualikan dan membayar balik
 
-## Bahagian VII
+36. Tuntutan bagi pembayaran balik cukai jualan berhubung dengan hutang lapuk
+
+37. Pembayaran semula cukai jualan berhubung dengan hutang lapuk
+
+38. Pembayaran cukai jualan, dsb., yang terkurang dibayar atau dibayar balik secara silap
+
+39. Pembayaran balik cukai jualan, dsb. yang terlebih bayar atau dibayar secara silap
+
+40. Pulang balik
+
+41. Peremitan cukai jualan, dsb.
+
+## BAHAGIAN VII
 
 ## KETETAPAN
 
-42. Ketetapan umum 43. Ketetapan kastam 44. Membuat ketetapan kastam 45. Pindaan, pengubahsuaian atau pembatalan ketetapan kastam 46. Ketua Pengarah hendaklah mengisytiharkan ketetapan kastam adalah terbatal, dsb. 47. Ketetapan kastam yang berbeza ke atas hal perkara yang sama
+42. Ketetapan umum
 
-## Bahagian VIII
+43. Ketetapan kastam
+
+44. Membuat ketetapan kastam
+
+45. Pindaan, pengubahsuaian atau pembatalan ketetapan kastam
+
+46. Ketua Pengarah hendaklah mengisytiharkan ketetapan kastam adalah terbatal, dsb.
+
+47. Ketetapan kastam yang berbeza ke atas hal perkara yang sama
+
+## BAHAGIAN VIII
 
 ## PERUNTUKAN KHAS YANG BERHUBUNGAN DENGAN KAWASAN DITETAPKAN
 
-48. Tafsiran 49. Pemakaian 50. Cukai jualan yang berhubungan dengan barang bercukai yang diimport ke dalam atau diangkut ke atau dari kawasan ditetapkan 51. Pengangkutan barang bercukai dari atau ke kawasan ditetapkan ke atau dari Malaysia 52. Perisytiharan barang bercukai yang diangkut dari kawasan ditetapkan ke Malaysia 53. Pemungutan cukai jualan di dalam kawasan ditetapkan 54. Pemakaian seksyen 40 bagi barang bercukai yang diangkut ke kawasan ditetapkan
+48. Tafsiran
+
+49. Pemakaian
+
+50. Cukai jualan yang berhubungan dengan barang bercukai yang diimport ke dalam atau diangkut ke atau dari kawasan ditetapkan
+
+51. Pengangkutan barang bercukai dari atau ke kawasan ditetapkan ke atau dari Malaysia
+
+52. Perisytiharan barang bercukai yang diangkut dari kawasan ditetapkan ke Malaysia
+
+53. Pemungutan cukai jualan di dalam kawasan ditetapkan
+
+54. Pemakaian seksyen 40 bagi barang bercukai yang diangkut ke kawasan ditetapkan
 
 <!-- page 4 -->
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## PERUNTUKAN KHAS YANG BERHUBUNGAN DENGAN KAWASAN KHAS
 
@@ -136,7 +170,7 @@
 
 61. Pemakaian seksyen 40 bagi barang bercukai yang diangkut ke kawasan khas
 
-## Bahagian X
+## BAHAGIAN X
 
 ## PENGUATKUASAAN
 
@@ -162,7 +196,7 @@
 
 72. Kuasa menangkap
 
-## Bahagian XI
+## BAHAGIAN XI
 
 ## PERBICARAAN DAN PROSIDING
 
@@ -174,13 +208,57 @@
 
 <!-- page 5 -->
 
-76. Bukti mengenai pendaftaran atau pelesenan pengangkut di Malaysia atau Singapura 77. Cara penyitaan tidak boleh diperiksa dalam perbicaraan di hadapan mahkamah atau rayuan 78. Obligasi kerahsiaan 79. Perlindungan pemberi maklumat daripada diketahui 80. Barang yang boleh disita boleh dilucuthakkan 81. Mahkamah hendaklah memerintahkan pelupusan barang yang disita 82. Barang yang disita yang berkenaan dengannya tiada pendakwaan, atau hasil jualannya, terlucut hak jika tidak dituntut 83. Beban pembuktian 84. Perintah mahkamah 85. Tiada kos atau ganti rugi yang berbangkit daripada penyitaan boleh didapatkan balik melainkan jika penyitaan dibuat tanpa sebab yang munasabah atau sebab yang barangkali
+76. Bukti mengenai pendaftaran atau pelesenan pengangkut di Malaysia atau Singapura
 
-## Bahagian XII
+77. Cara penyitaan tidak boleh diperiksa dalam perbicaraan di hadapan mahkamah atau rayuan
+
+78. Obligasi kerahsiaan
+
+79. Perlindungan pemberi maklumat daripada diketahui
+
+80. Barang yang boleh disita boleh dilucuthakkan
+
+81. Mahkamah hendaklah memerintahkan pelupusan barang yang disita
+
+82. Barang yang disita yang berkenaan dengannya tiada pendakwaan, atau hasil jualannya, terlucut hak jika tidak dituntut
+
+83. Beban pembuktian
+
+84. Perintah mahkamah
+
+85. Tiada kos atau ganti rugi yang berbangkit daripada penyitaan boleh didapatkan balik melainkan jika penyitaan dibuat tanpa sebab yang munasabah atau sebab yang barangkali
+
+## BAHAGIAN XII
 
 AM
 
-86. Pengelakan cukai jualan 87. Memberi maklumat tidak betul yang berhubungan dengan tanggungan kepada cukai jualan 88. Mendapatkan pembayaran balik secara tidak wajar 89. Pekerja boleh membuat urusan 90. Membuat urusan bagi pihak orang kena cukai 91. Kesalahan oleh orang yang diberi kuasa dan orang yang tidak diberi kuasa 92. Halangan 93. Kesalahan oleh syarikat, dsb. 94. Penalti am 95. Pengkompaunan kesalahan 96. Kajian semula dan rayuan 97. Pelikuidasi syarikat hendaklah memberikan notis penggulungan, dan mengetepikan cukai jualan 98. Pelantikan penerima hendaklah diberitahu kepada Ketua Pengarah 99. Pengilang berdaftar hendaklah mengemukakan perakuan audit
+86. Pengelakan cukai jualan
+
+87. Memberi maklumat tidak betul yang berhubungan dengan tanggungan kepada cukai jualan
+
+88. Mendapatkan pembayaran balik secara tidak wajar
+
+89. Pekerja boleh membuat urusan
+
+90. Membuat urusan bagi pihak orang kena cukai
+
+91. Kesalahan oleh orang yang diberi kuasa dan orang yang tidak diberi kuasa
+
+92. Halangan
+
+93. Kesalahan oleh syarikat, dsb.
+
+94. Penalti am
+
+95. Pengkompaunan kesalahan
+
+96. Kajian semula dan rayuan
+
+97. Pelikuidasi syarikat hendaklah memberikan notis penggulungan, dan mengetepikan cukai jualan
+
+98. Pelantikan penerima hendaklah diberitahu kepada Ketua Pengarah
+
+99. Pengilang berdaftar hendaklah mengemukakan perakuan audit
 
 <!-- page 6 -->
 
@@ -198,7 +276,7 @@ AM
 
 106. Kuasa membuat peraturan-peraturan
 
-## Bahagian XIII
+## BAHAGIAN XIII
 
 ## KECUALIAN DAN PERALIHAN
 
@@ -218,7 +296,7 @@ Suatu Akta untuk mengadakan peruntukan bagi mengenakan, melevikan dan memungut c
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -332,7 +410,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 12 -->
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENTADBIRAN
 
@@ -396,7 +474,7 @@ melakukan suatu kesalahan.
 
 penyata atau perisytiharan yang disebut dalam subseksyen (1) atau apa-apa jua yang terkandung dalamnya kepada mana-mana orang lain.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PENGENAAN DAN SKOP CUKAI JUALAN
 
@@ -494,7 +572,7 @@ nilai jualan barang bercukai itu hendaklah ditentukan mengikut peraturan-peratur
 
 tiada cukai jualan boleh menjadi genap masa ke atas pembelian atau pemerolehan itu.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENDAFTARAN
 
@@ -574,7 +652,9 @@ Pengarah dengan pengilang itu tetapi tarikh itu tidak boleh lebih awal daripada 
 
 (8) Apabila pendaftaran dibatalkan di bawah subseksyen (7), orang yang pendaftarannya telah dibatalkan bersama dengan semua orang lain yang dinamakan dalam arahan di bawah subseksyen (1) hendaklah dianggap sebagai orang kena cukai tunggal.
 
-(9) Berhubung dengan suatu perniagaan yang dinyatakan dalam suatu arahan, orang yang dinamakan dalam arahan itu bersama dengan mana-mana orang yang dinamakan dalam suatu arahan tambahan yang berhubungan dengan perniagaan itu, sebagai orang yang bersama-sama dianggap sebagai orang kena cukai tunggal, disebut sebagai “anggota konstituen” dalam subseksyen (10) dan (11).
+(9) Berhubung dengan suatu perniagaan yang dinyatakan dalam suatu arahan, orang yang dinamakan dalam arahan itu bersama dengan mana-mana orang yang dinamakan dalam suatu arahan tambahan yang berhubungan dengan perniagaan itu, sebagai orang yang bersama-sama dianggap sebagai orang kena cukai tunggal, disebut sebagai “anggota konstituen” dalam subseksyen (10) dan
+
+(11).
 
 (10) Jika apa-apa arahan dibuat di bawah subseksyen (1)—
 
@@ -678,7 +758,7 @@ Ketua Pengarah boleh membatalkan pendaftaran pengilang itu berkuat kuasa dari ta
 
 (2) Walaupun mana-mana orang dikecualikan menurut kuasa subseksyen (1), orang itu boleh memohon untuk didaftarkan sebagai pengilang berdaftar dan peruntukan Akta ini hendaklah terpakai bagi orang itu.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PERAKAUNAN, TAKSIRAN, MENDAPATKAN BALIK, DSB.
 
@@ -1020,7 +1100,7 @@ mengikut mana-mana yang berkenaan, hendaklah bersama dengan syarikat, perkongsia
 
 (2) Berhubung dengan suatu syarikat yang sedang digulung, pengarah syarikat itu hendaklah hanya bertanggungan jika aset syarikat itu tidak mencukupi untuk menjelaskan amaun yang terhutang, selepas membayar apa-apa jumlah wang yang mempunyai keutamaan di bawah Akta Syarikat 2016 [Akta 777] berhubung dengan penggunaan aset syarikat itu dalam penggulungan itu berbanding dengan cukai jualan, surcaj, penalti, fi atau apa-apa wang lain itu.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PENGECUALIAN, PEMBAYARAN BALIK, PULANG BALIK
 
@@ -1192,7 +1272,7 @@ boleh membuat tuntutan bagi pembayaran balik dalam borang yang ditetapkan.
 
 (3) Jika seseorang yang telah diberikan peremitan di bawah subseksyen (1) atau (2) telah membayar apa-apa cukai jualan, surcaj, penalti, fi atau wang lain yang berhubungan dengan peremitan itu, dia berhak kepada suatu pembayaran balik amaun cukai jualan, surcaj, penalti, fi atau wang lain yang telah diremitkan itu.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## KETETAPAN
 
@@ -1292,7 +1372,7 @@ ketetapan kastam yang telah dibuat sebelum pindaan, pengubahsuaian atau pembatal
 
 47. Jika pemohon yang disebut dalam seksyen 43 menerima dua atau lebih ketetapan kastam yang berbeza mengenai hal perkara yang sama, ketetapan-ketetapan itu hendaklah dianggap sebagai terbatal dan tidak sah, dan pemohon itu hendaklah dengan segera memberitahu Ketua Pengarah yang hendaklah, dalam masa tiga puluh hari dari tarikh pemberitahuan itu, membuat suatu ketetapan kastam yang baharu.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## PERUNTUKAN KHAS YANG BERHUBUNGAN DENGAN
 
@@ -1374,7 +1454,7 @@ peruntukan Akta ini hendaklah, dengan apa-apa pengubahsuaian dan penyesuaian yan
 
 54. Seksyen 40 hendaklah terpakai bagi barang bercukai, selain apa-apa barang yang diisytiharkan oleh Menteri di bawah perenggan 50(a) sebagai kena cukai apabila diimport ke dalam kawasan ditetapkan, diangkut dari Malaysia ke kawasan ditetapkan seolah-olah barang itu telah dieksport atau dieksport semula, mengikut mana-mana yang berkenaan.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## PERUNTUKAN KHAS YANG BERHUBUNGAN DENGAN
 
@@ -1454,7 +1534,7 @@ di bawah Akta Kastam 1967 yang memberikan butir-butir mengenai barang bercukai y
 
 61. Seksyen 40 hendaklah terpakai bagi barang bercukai, selain apa-apa barang yang diisytiharkan oleh Menteri di bawah perenggan 57(a) sebagai kena cukai apabila diimport ke dalam kawasan khas, diangkut dari Malaysia ke kawasan khas seolah-olah barang itu telah dieksport atau dieksport semula, mengikut mana-mana yang berkenaan.
 
-## Bahagian X
+## BAHAGIAN X
 
 ## PENGUATKUASAAN
 
@@ -1708,7 +1788,7 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 
 (b) apabila diberitahu secara bertulis oleh penjamin orang itu bahawa orang itu berkemungkinan akan memungkiri mana-mana syarat yang tertakluk kepadanya orang itu dilepaskan dan bahawa penjamin itu berhasrat untuk dilepaskan daripada obligasinya sebagai penjamin.
 
-## Bahagian XI
+## BAHAGIAN XI
 
 ## PERBICARAAN DAN PROSIDING
 
@@ -1894,7 +1974,7 @@ beban pembuktian bagi pertikaian itu hendaklah terletak pada tertuduh dalam pend
 
 85. Tiada seorang pun, dalam apa-apa prosiding di hadapan mana-mana mahkamah berkenaan dengan penyitaan apa-apa barang, dokumen, artikel atau benda dalam menjalankan atau berupa sebagai menjalankan apa-apa kuasa yang diberikan di bawah Akta ini, berhak untuk mendapatkan kos prosiding itu atau apa-apa ganti rugi atau relief lain, selain suatu perintah bagi pemulangan barang, dokumen, artikel atau benda itu atau pembayaran nilai barang, dokumen, artikel atau benda itu, melainkan jika penyitaan itu telah dibuat tanpa sebab yang munasabah atau sebab yang barangkali.
 
-## Bahagian XII
+## BAHAGIAN XII
 
 AM
 
@@ -2222,7 +2302,7 @@ kewajipannya di bawah Akta ini melainkan jika kerugian itu disebabkan oleh penga
 
 (3) Mana-mana peraturan-peraturan yang dibuat di bawah subseksyen (1) boleh menetapkan suatu perbuatan atau peninggalan yang melanggar peraturan-peraturan itu sebagai suatu kesalahan dan boleh menetapkan hukuman denda yang tidak melebihi tiga puluh ribu ringgit atau pemenjaraan selama tempoh yang tidak melebihi dua tahun atau kedua-duanya bagi kesalahan itu.
 
-## Bahagian XIII
+## BAHAGIAN XIII
 
 ## KECUALIAN DAN PERALIHAN
 
@@ -2268,7 +2348,7 @@ kepada Ketua Pengarah untuk didaftarkan sebagai pengilang berdaftar jika terdapa
 
 Rang Undang-Undang Cukai Jualan 2018 yang dicadangkan (“Akta yang dicadangkan”) bertujuan untuk mengadakan peruntukan bagi mengenakan, melevikan dan memungut cukai jualan, dan bagi perkara yang berkaitan dengannya. Akta yang dicadangkan dan Rang Undang-Undang Cukai Perkhidmatan 2018 yang dicadangkan memperuntukkan pelaksanaan sistem percukaian baharu, iaitu cukai jualan dan cukai perkhidmatan, yang akan menggantikan cukai barang dan perkhidmatan yang dikenakan di bawah Akta Cukai Barang dan Perkhidmatan 2014 [Akta 762].
 
-## Bahagian I
+## BAHAGIAN I
 
 1. Bahagian I memperkatakan perkara permulaan.
 
@@ -2278,7 +2358,7 @@ Rang Undang-Undang Cukai Jualan 2018 yang dicadangkan (“Akta yang dicadangkan�
 
 4. Fasal 3 bertujuan untuk mengadakan peruntukan bagi maksud “mengilang” bagi maksud Akta yang dicadangkan. Fasal 3 juga memberi Menteri kuasa untuk memutuskan apa-apa persoalan yang timbul berkenaan dengan maksud “mengilang”.
 
-## Bahagian II
+## BAHAGIAN II
 
 5. Bahagian II memperkatakan pentadbiran mengenai perkara yang berhubungan dengan cukai jualan.
 
@@ -2294,7 +2374,7 @@ akan memberikan hak kepada mana-mana orang untuk enggan mematuhi apa-apa permint
 
 9. Fasal 7 bertujuan untuk memperuntukkan bahawa mana-mana orang yang mempunyai apa-apa kewajipan rasmi, atau yang diambil kerja atau dilantik di bawah Akta yang dicadangkan, berkewajipan untuk menganggap dan menguruskan apa-apa maklumat, dokumen, penyata atau perisytiharan yang berhubungan dengan perniagaan, nilai jualan barang mana-mana orang kena cukai atau nilai jualan barang yang diimport sebagai rahsia. Fasal 7 juga bertujuan untuk memperuntukkan bahawa maklumat, dokumen, penyata atau perisytiharan itu hanya boleh didedahkan oleh orang itu bagi maksud melaksanakan peruntukan Akta yang dicadangkan atau pendakwaan bagi suatu kesalahan.
 
-## Bahagian III
+## BAHAGIAN III
 
 10. Bahagian III memperkatakan peruntukan yang berhubungan dengan pengenaan dan skop cukai jualan.
 
@@ -2308,7 +2388,7 @@ akan memberikan hak kepada mana-mana orang untuk enggan mematuhi apa-apa permint
 
 <!-- page 99 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 15. Bahagian IV memperkatakan peruntukan yang berhubungan dengan pendaftaran sebagai pengilang berdaftar di bawah Akta yang dicadangkan.
 
@@ -2332,7 +2412,7 @@ akan memberikan hak kepada mana-mana orang untuk enggan mematuhi apa-apa permint
 
 <!-- page 100 -->
 
-## Bahagian V
+## BAHAGIAN V
 
 25. Bahagian V memperkatakan perakaunan, taksiran, mendapatkan balik, dsb., yang berhubungan dengan cukai jualan.
 
@@ -2366,7 +2446,7 @@ akan memberikan hak kepada mana-mana orang untuk enggan mematuhi apa-apa permint
 
 39. Fasal 34 bertujuan untuk memperkatakan tanggungan pengarah syarikat, pegawai pematuhan perkongsian liabiliti terhad, pekongsi firma, pemegang jawatan pertubuhan, atau orang yang bertanggungjawab bagi pengurusan kumpulan orang untuk apa-apa cukai jualan yang genap masa dan kena dibayar, apa-apa surcaj yang terakru, atau apa-apa penalti, fi atau wang lain yang kena dibayar, oleh syarikat, perkongsian liabiliti terhad, firma, pertubuhan atau kumpulan orang itu.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 40. Bahagian VI memperkatakan peruntukan yang berhubungan dengan pengecualian, pembayaran balik, pulang balik dan peremitan cukai jualan.
 
@@ -2386,7 +2466,7 @@ akan memberikan hak kepada mana-mana orang untuk enggan mematuhi apa-apa permint
 
 47. Fasal 41 bertujuan untuk memberi Menteri kuasa untuk meremit cukai jualan yang genap masa dan kena dibayar di bawah Akta yang dicadangkan dan untuk memberi Ketua Pengarah kuasa untuk meremit surcaj yang terakru, atau penalti, fi atau wang lain yang kena dibayar, di bawah Akta yang dicadangkan.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 48. Bahagian VII memperkatakan ketetapan umum dan ketetapan kastam.
 
@@ -2404,7 +2484,7 @@ akan memberikan hak kepada mana-mana orang untuk enggan mematuhi apa-apa permint
 
 54. Fasal 47 bertujuan untuk memperuntukkan bahawa jika pemohon menerima dua atau lebih ketetapan kastam mengenai hal perkara yang sama, pemohon itu hendaklah dengan segera memberitahu Ketua Pengarah dan Ketua Pengarah hendaklah membuat suatu ketetapan kastam yang baharu dalam masa tiga puluh hari dari tarikh pemberitahuan itu.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 55. Bahagian VIII memperkatakan peruntukan khas yang berhubungan dengan kawasan ditetapkan (Labuan, Langkawi dan Tioman).
 
@@ -2424,7 +2504,7 @@ akan memberikan hak kepada mana-mana orang untuk enggan mematuhi apa-apa permint
 
 62. Fasal 54 bertujuan untuk mengadakan peruntukan bagi pemakaian fasal 40 (yang berhubungan dengan pulang balik) bagi barang bercukai yang diangkut dari Malaysia ke kawasan ditetapkan seolah-olah barang itu telah dieksport atau dieksport semula.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 63. Bahagian IX memperkatakan peruntukan khas yang berhubungan dengan kawasan khas (mana-mana zon bebas, gudang berlesen dan gudang pengilangan berlesen, dan Kawasan Pembangunan Bersama).
 
@@ -2444,7 +2524,7 @@ akan memberikan hak kepada mana-mana orang untuk enggan mematuhi apa-apa permint
 
 <!-- page 105 -->
 
-## Bahagian X
+## BAHAGIAN X
 
 71. Bahagian X memperkatakan peruntukan yang berhubungan dengan penguatkuasaan.
 
@@ -2472,7 +2552,7 @@ akan memberikan hak kepada mana-mana orang untuk enggan mematuhi apa-apa permint
 
 82. Fasal 72 bertujuan untuk memberi mana-mana pegawai cukai jualan yang hak kuasa untuk menangkap tanpa waran.
 
-## Bahagian XI
+## BAHAGIAN XI
 
 83. Bahagian XI memperkatakan peruntukan yang berhubungan dengan perbicaraan dan prosiding.
 
@@ -2506,7 +2586,7 @@ sama yang di hadapannya pendakwaan berhubung dengan pelucuthakan itu telah diada
 
 96. Fasal 85 bertujuan untuk tidak membenarkan apa-apa kos prosiding atau ganti rugi diawardkan berkenaan dengan apa-apa barang, dokumen, artikel atau benda yang disita melainkan jika penyitaan itu dibuat tanpa sebab yang munasabah.
 
-## Bahagian XII
+## BAHAGIAN XII
 
 97. Bahagian XII memperkatakan peruntukan am.
 
@@ -2558,7 +2638,7 @@ perisytiharan atau apa-apa dokumen lain, dan penyampaian apa-apa notis, arahan, 
 
 118. Fasal 106 bertujuan untuk memberi Menteri kuasa untuk membuat peraturan-peraturan bagi maksud Akta yang dicadangkan.
 
-## Bahagian XIII
+## BAHAGIAN XIII
 
 119. Bahagian XIII memperkatakan peruntukan kecualian dan peralihan.
 

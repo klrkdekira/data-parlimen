@@ -80,9 +80,7 @@ This Bill seeks to amend the Diplomatic Privileges (Vienna Convention) Act 1966 
 
 Section 9 seeks to authorize the holding of land in Malaysia by a State either in its own name or by a nominee on its behalf for certain specified purposes. Subsection 9(6) seeks to empower the Yang di-Pertuan Agong to make rules for the purpose of carrying the section into effect.
 
-6. Clause 5 seeks to repeal the Diplomatic and Consular Privileges Ordinance
-
-1957.
+6. Clause 5 seeks to repeal the Diplomatic and Consular Privileges Ordinance 1957.
 
 <!-- page 5 -->
 

@@ -14,9 +14,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
-1. (1) Akta ini bolehlah dinamakan Akta Syarikat (Pindaan) (No.2)
-
-1998.
+1. (1) Akta ini bolehlah dinamakan Akta Syarikat (Pindaan) (No.2) 1998.
 
 (2) Akta ini hendaklah mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta, dan Menteri boleh menetapkan tarikh yang berlainan bagi peruntukan yang berlainan dalam Akta ini.
 
@@ -106,7 +104,11 @@ F 68A, (1) A company shall keep a register of options granted to persons to take
 
 (6) If default is made in complying with this section, the company and any officer of the company who is in default shall be guilty of an offence against this Act.
 
-Penalty: One hundred thousand ringgit. Default penalty: Ten thousand ringgit.".
+Penalty: One hundred thousand ringgit.
+
+<!-- marginal: Default -->
+
+penalty: Ten thousand ringgit.".
 
 ### Pindaan seksyen 69A
 
@@ -356,7 +358,9 @@ Seksyen 107E mengandungi peruntukan yang dimaksudkan untuk melindungi sesuatu de
 
 Seksyen 107F bertujuan untuk memberi Menteri kuasa untuk memberikan pengecualian daripada peruntukan Pecahan baru itu.
 
-13. Fasal 14 bertujuan untuk meminda seksyen 176 Akta 125 untuk memastikan bahawa pemiutang tahu tentang permohonan yang dibuat di bawah subseksyen (10) dan untuk menentukan bahawa perintah penahanan di bawah subseksyen itu hanya diberikan di bawah keadaan tertentu sahaja untuk mengelakkan apa- apa penyalahgunaan peruntukan itu.
+13. Fasal 14 bertujuan untuk meminda seksyen 176 Akta 125 untuk memastikan bahawa pemiutang tahu tentang permohonan yang dibuat di bawah subseksyen
+
+(10) dan untuk menentukan bahawa perintah penahanan di bawah subseksyen itu hanya diberikan di bawah keadaan tertentu sahaja untuk mengelakkan apa- apa penyalahgunaan peruntukan itu.
 
 14. Fasal 15 bertujuan untuk meminda seksyen 365 Akta 125 untuk membenarkan dividen dibayar berkenaan dengan sesuatu tahun kewangan hanya setakat amaun yang tidak melebihi untung selepas cukai bagi tahun kewangan itu atau purata dividen yang diisytiharkan bagi dua tahun kewangan sebelum tahun kewangan itu. Peruntukan ini tidak akan terpakai bagi subsidiari sesuatu syarikat pemegangan, syarikat persendirian yang dipunyai sepenuhnya oleh pemegang syer Malaysia dan syarikat yang tahun kewangannya bermula sebelum 1 Julai 1997.
 

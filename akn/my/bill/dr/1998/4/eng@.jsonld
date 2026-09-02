@@ -81,7 +81,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/4/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "(Section 2) Purpose Title Appropriation to Purpose (RM) B. 8 Public Services Department 30,308,862 B. 13 Office of the Federal Secretary, 68,278 Sarawak B. 16 Fire Services Department 15,341,224 B. 24 Museum and Antiquities 191,607 Department B. 25 Ministry of Defence . 138,027,952 B. 26 Ministry of Education 39,818,633 B. 27 Department of National Library 3,694 B. 30 Contribution to Statutory Funds 6,692,199,889 B. 34 Ministry of Health 18,573,641 B. 36 Royal Malaysia Police 50,440,253 B. 40 Prisons Department 1,599,108 B. 45 Ministry of Human Resources 2,731,551 B. 47 Ministry of Transport 19,386,068 B. 51 Ministry of Foreign Affairs 11,729,503 TOTAL 7,020,420,263"
+        "@value": "(Section 2) Purpose Title Appropriation B. 8 Public Services Department B. 13 Office of the Federal Secretary, Sarawak B. 16 Fire Services Department B. 24 Museum and Antiquities Department B. 25 Ministry of Defence . 138,027,952 B. 26 Ministry of Education B. 27 Department of National Library B. 30 Contribution to Statutory Funds 6,692,199,889 B. 34 Ministry of Health B. 36 Royal Malaysia Police B. 40 Prisons Department B. 45 Ministry of Human Resources B. 47 Ministry of Transport B. 51 Ministry of Foreign Affairs TOTAL 7,020,420,263"
       }
     }
   ]

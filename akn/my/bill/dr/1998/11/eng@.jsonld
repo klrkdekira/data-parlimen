@@ -1,0 +1,203 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-11-1998",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_4"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Environmental Quality (Amendment) Bill 1998"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Environmental Quality (Amendment) Act 1998."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "by the Minister by notification in the Gazette."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Environmental Quality Act 1974, which in this"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Act is referred to as the \"principal Act\", is amended by inserting after section 29 the following sections: Prohibition 29A. (1) Notwithstanding anything to the on open contrary contained in this Act, no person shall burning. allow or cause open burning on any premises."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3__subsec_3__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3__subsec_3__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of subsection (1)— \"open burning\" means any fire, combustion or smouldering that occurs in the open air and which is not directed there through a chimney or stack, but does not include any fire, combustion or smouldering that occurs for such activities as may be prescribed by the Minister by order published in the Gazette; \"premises\" includes any land. 29e. If open burning occurs on any premises—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3__subsec_3__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3__subsec_3__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3__subsec_3__list_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3__subsec_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3__subsec_3__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3__subsec_3__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the owner; or open burning."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3__subsec_3__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3__subsec_3__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the occupier, of the premises who has control over such premises shall be deemed to have contravened subsection 29A(1) unless the contrary is proved. 29c. In any prosecution under section 29A or 29B, it shall be a defence if the person, owner or occupier of the premises proves—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3__subsec_3__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3__subsec_3__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3__subsec_3__list_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3__subsec_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3__subsec_3__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3__subsec_3__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that the open burning occurred outside his control or without his knowledge or connivance or consent; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3__subsec_3__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3__subsec_3__list_2__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3__subsec_3__list_2__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3__subsec_3__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that he—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3__subsec_3__list_2__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3__subsec_3__list_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "took all reasonable precautions; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3__subsec_3__list_2__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_3__subsec_3__list_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "exercised all due diligence, to prevent the commission of the offence as he ought to have taken and exercised having regard to the nature of his responsibility in that capacity and to all the circumstances.'."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "44 the following section: 44. No prosecution shall be instituted for an offence under this Act or the regulations made thereunder without the consent in writing of the Public Prosecutor.\"."
+      }
+    }
+  ]
+}

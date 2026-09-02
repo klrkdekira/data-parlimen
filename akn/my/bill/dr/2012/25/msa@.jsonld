@@ -68,10 +68,21 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/25/msa@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/25/msa@/~cl_2__para_c",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/25/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta Pelindung 2006 [Akta 657], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam subseksyen 28(2) dengan menggantikan perkataan “(1)(a) dan (b)” dengan perkataan “(1)(a), (b) dan (c)”. Seksyen baru 40a"
+        "@value": "Akta Pelindung 2006 [Akta 657], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam subseksyen 28(2) dengan menggantikan perkataan “(1)(a) dan (b)” dengan perkataan “(1)(a), (b) dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/25/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/25/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "”. Seksyen baru 40a"
       }
     },
     {

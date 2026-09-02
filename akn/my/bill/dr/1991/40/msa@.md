@@ -76,7 +76,11 @@ kuatkuasa Akta ini.
 
 ## PEMANSUHAN
 
-Nombor Peruntukan Tajuk ringkas dimansuhkan OrdinanlAkta
+<!-- marginal: Nombor -->
+
+Peruntukan Tajuk ringkas dimansuhkan
+
+<!-- marginal: OrdinanlAkta -->
 
 1. Akta474 Seksyen63 (B) Akta Kemajuan Tanah 1956
 
@@ -116,7 +120,11 @@ Seksyen 29 (b) Akta Persatuan
 
 Akta Perbadanan
 
-10. Akta 46 Seksyen 34 Pembangunan Bandar 1971
+10.
+
+<!-- marginal: Akta 46 -->
+
+Seksyen 34 Pembangunan Bandar 1971
 
 Seksyen 30 Akta Lembaga
 
@@ -124,7 +132,11 @@ Seksyen 30 Akta Lembaga
 
 12. Akta 69 Seksyen 30 Akta Lembaga Kemajuan Pertanian Kemubu 1972
 
-13. Akta 70 Seksyen 30 Akta Lembaga Kemajuan Pertanian Muda 1972
+13.
+
+<!-- marginal: Akta 70 -->
+
+Seksyen 30 Akta Lembaga Kemajuan Pertanian Muda 1972
 
 <!-- page 3 -->
 

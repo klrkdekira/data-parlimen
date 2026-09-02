@@ -8,13 +8,27 @@ An Act to amend the Civil Aviation Act 1969. [ ]
 
 BE IT ENACTED by the Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
 
-Short title
+<!-- marginal: Short title -->
 
-1. This Act may be cited as the Civil Aviation and com- (Amendment) Act 1991 and shall come into force on such mencement. date as the Minister may, by notification in the Gazette, appoint.
+1. This Act may be cited as the Civil Aviation
 
-Amendment
+<!-- marginal: and com- -->
 
-2. Section 2 (1) of the Civil Aviation Act 1969, which in of section 2. this Act is referred to as the "principal Act", is amended— Act 3.
+(Amendment) Act 1991 and shall come into force on such
+
+<!-- marginal: mencement. -->
+
+date as the Minister may, by notification in the Gazette, appoint.
+
+<!-- marginal: Amendment -->
+
+2. Section 2 (1) of the Civil Aviation Act 1969, which in
+
+<!-- marginal: of section 2. -->
+
+this Act is referred to as the "principal Act", is amended—
+
+<!-- marginal: Act 3. -->
 
 (a) by inserting after the interpretation of "aerodrome" the following new interpretation of "airport": ' "airport" includes land and buildings comprised in an aerodrome;';
 
@@ -24,7 +38,7 @@ Amendment
 
 <!-- page 2 -->
 
-New Part IA.
+<!-- marginal: New Part IA. -->
 
 3. The principal Act is amended by inserting immediately after section 2 the following new Part IA:
 
@@ -96,21 +110,29 @@ Company) Act 1991.'.
 
 <!-- page 4 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-8. Section 60 of the principal Act is amended— of section 6D.
+8. Section 60 of the principal Act is amended—
+
+<!-- marginal: of section 6D. -->
 
 (a) by inserting immediately after the words "all receipts in respect" in subsection (1) (c) the words "of any licence issued or"; and
 
 (b) by substituting for the words "before the appointed date" in subsection (1) (c) (ii) the words "to the civil aviation authority after the transfer date".
 
-Deletion of
+<!-- marginal: Deletion of -->
 
-9. The principal Act is amended by deleting section 18. section 18.
+9. The principal Act is amended by deleting section 18.
 
-Substitution
+<!-- marginal: section 18. -->
 
-10. The principal Act is amended by substituting for Part of Part VIIlA. VIIlA the following new Part VIIlA:
+<!-- marginal: Substitution -->
+
+10. The principal Act is amended by substituting for Part
+
+<!-- marginal: of Part VIIlA. -->
+
+VIIlA the following new Part VIIlA:
 
 PART VIIlA
 
@@ -142,11 +164,55 @@ designated airport are references to an airport operated by the company;
 
 (3) The issue of a licence to a company under subsection (1) shall not impose any liability on the Government of Malaysia for any loss or damage occasioned by any act, omission or default of such company.
 
-Power of
+<!-- marginal: Power of -->
 
-24B. Notwithstanding any provision of this Act licensed or the Financial Procedure Act 1957, all charges company to collect and fees prescribed under regulations made charges pursuant to paragraphs 3 (2) (n) and (nn) of this and fees. Act for the landing, parking and housing of aircrafts and the provision of any services in an airport shall, in the case of a designated airport, be collected by the licensed company and form part of the revenue of the company.
+24B. Notwithstanding any provision of this Act
 
-Submission 24c. (1) The licensed company may submit to of memo- the Minister a memorandum containing randum for any proposals for any change in the existing charges change in and fees prescribed under regulations made existing charges under paragraphs 3 (2) (n) and (nn) for the and fees. approval of the Minister.
+<!-- marginal: licensed -->
+
+or the Financial Procedure Act 1957, all charges
+
+<!-- marginal: company -->
+
+<!-- marginal: to collect -->
+
+and fees prescribed under regulations made
+
+<!-- marginal: charges -->
+
+pursuant to paragraphs 3 (2) (n) and (nn) of this
+
+<!-- marginal: and fees. -->
+
+Act for the landing, parking and housing of aircrafts and the provision of any services in an airport shall, in the case of a designated airport, be collected by the licensed company and form part of the revenue of the company.
+
+<!-- marginal: Submission -->
+
+24c. (1) The licensed company may submit to
+
+<!-- marginal: of memo- -->
+
+the Minister a memorandum containing
+
+<!-- marginal: randum -->
+
+<!-- marginal: for any -->
+
+proposals for any change in the existing charges
+
+<!-- marginal: change in -->
+
+and fees prescribed under regulations made
+
+<!-- marginal: existing -->
+
+<!-- marginal: charges -->
+
+under paragraphs 3 (2) (n) and (nn) for the
+
+<!-- marginal: and fees. -->
+
+approval of the Minister.
 
 (2) The Minister shall consider the memorandum within six months of its submission.
 
@@ -160,35 +226,111 @@ Provided that such application shall be made before the expiration of thirty day
 
 (5) The Minister shall consider the application within three months of its submission.
 
-Minister
+<!-- marginal: Minister -->
 
-24D. Where the Minister approves the to make memorandum, with or without any modi- regulations in respect fications, he shall as soon as practicable make of change regulations under paragraphs 3 (2) (n) and (nn) in charges in respect of the change in the existing charges and fees. and fees.
+24D. Where the Minister approves the
 
-General
+<!-- marginal: to make -->
 
-24E. (1) It is the duty of the licensed company duties of to ensure that the services provided by it meet licensed company. the performance standards established by the Director General under paragraph 2B (1) (a).
+memorandum, with or without any modi-
+
+<!-- marginal: regulations -->
+
+<!-- marginal: in respect -->
+
+fications, he shall as soon as practicable make
+
+<!-- marginal: of change -->
+
+regulations under paragraphs 3 (2) (n) and (nn)
+
+<!-- marginal: in charges -->
+
+in respect of the change in the existing charges
+
+<!-- marginal: and fees. -->
+
+and fees.
+
+<!-- marginal: General -->
+
+24E. (1) It is the duty of the licensed company
+
+<!-- marginal: duties of -->
+
+to ensure that the services provided by it meet
+
+<!-- marginal: licensed -->
+
+<!-- marginal: company. -->
+
+the performance standards established by the Director General under paragraph 2B (1) (a).
 
 (2) The licensed company shall have due regard to the efficiency, economy and safety of operation in respect of the services provided by it.
 
-General
+<!-- marginal: General -->
 
-24F. If the licensed company contravenes or penalty. fails to comply with any condition of the licence or any of the provisions of this Act or any of the regulations made thereunder for which no penalty is expressly provided, it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding five years or to both.
+24F. If the licensed company contravenes or
 
-Offence
+<!-- marginal: penalty. -->
 
-24G. Where an offence under this Act or under committed any of the regulations made thereunder is by a body corporate. committed by a body corporate (whether or not the body corporate has been prosecuted), every
+fails to comply with any condition of the licence or any of the provisions of this Act or any of the regulations made thereunder for which no penalty is expressly provided, it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding five years or to both.
+
+<!-- marginal: Offence -->
+
+24G. Where an offence under this Act or under
+
+<!-- marginal: committed -->
+
+any of the regulations made thereunder is
+
+<!-- marginal: by a body -->
+
+<!-- marginal: corporate. -->
+
+committed by a body corporate (whether or not the body corporate has been prosecuted), every
 
 <!-- page 7 -->
 
 director, secretary or manager of the body corporate shall be deemed to be guilty of the offence unless he proves that the offence was committed without his consent or connivance and that he had exercised all due diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances of the case.
 
-Inspectorial
+<!-- marginal: Inspectorial -->
 
-24H. The Director General may for the purposes power of of this Act or any of the regulations made Director General. thereunder enter upon any of the premises occupied by the licensed company to inspect and examine the state of such premises or any building or facility therein.
+24H. The Director General may for the purposes
 
-Suspension
+<!-- marginal: power of -->
 
-24I. (1) Where the Director General is satisfied or revoca- that the licensed company is contravening, or tion of licence on has contravened and is likely again to breach of contravene, any of the conditions of its licence, condition of licence. the Director General may give notice in writing to the licensed company requiring it to comply with that condition within the period prescribed in the notice.
+of this Act or any of the regulations made
+
+<!-- marginal: Director -->
+
+<!-- marginal: General. -->
+
+thereunder enter upon any of the premises occupied by the licensed company to inspect and examine the state of such premises or any building or facility therein.
+
+<!-- marginal: Suspension -->
+
+24I. (1) Where the Director General is satisfied
+
+<!-- marginal: or revoca- -->
+
+that the licensed company is contravening, or
+
+<!-- marginal: tion of -->
+
+<!-- marginal: licence on -->
+
+has contravened and is likely again to
+
+<!-- marginal: breach of -->
+
+contravene, any of the conditions of its licence,
+
+<!-- marginal: condition -->
+
+<!-- marginal: of licence. -->
+
+the Director General may give notice in writing to the licensed company requiring it to comply with that condition within the period prescribed in the notice.
 
 (2) If on the expiry of the period prescribed in such notice the licensed company fails to comply with the condition mentioned therein, the Director General shall submit to the Minister a report of such failure by the licensed company and the report shall be in such form as the Director General considers appropriate.
 
@@ -208,7 +350,37 @@ compliance with the condition in question, the Minister may give to the licensed
 
 (6) The decision of the Minister under this section shall be final and conclusive.
 
-Suspension 24J. (1) Where the Director General is satisfied or that the licensed company has breached or failed revocation of licence to comply with any provision of this Act or any on breach of the regulations made thereunder, he shall of this submit to the Minister a report of such breach or Act or regulations non-compliance by the licensed company. thereunder. (2) Where, after considering the report from the Director General, the Minister is satisfied that the breach or non-compliance was of a serious nature or affected or likely to affect the public interest or safety, he shall give notice to the licensed company stating that he proposes to
+<!-- marginal: Suspension -->
+
+24J. (1) Where the Director General is satisfied
+
+<!-- marginal: or -->
+
+that the licensed company has breached or failed
+
+<!-- marginal: revocation -->
+
+<!-- marginal: of licence -->
+
+to comply with any provision of this Act or any
+
+<!-- marginal: on breach -->
+
+of the regulations made thereunder, he shall
+
+<!-- marginal: of this -->
+
+submit to the Minister a report of such breach or
+
+<!-- marginal: Act or -->
+
+<!-- marginal: regulations -->
+
+non-compliance by the licensed company.
+
+<!-- marginal: thereunder. -->
+
+(2) Where, after considering the report from the Director General, the Minister is satisfied that the breach or non-compliance was of a serious nature or affected or likely to affect the public interest or safety, he shall give notice to the licensed company stating that he proposes to
 
 <!-- page 9 -->
 
@@ -224,7 +396,17 @@ suspend or revoke, as the case may be, its licence and such notice shall also se
 
 (5) The decision of the Minister under this section shall be final and conclusive.
 
-Special 24K. (1) The Yang di-Pertuan Agong may, on power in the occurrence of any industrial unrest, strike, emergency. lock-out or any other event which gives rise to an emergency or in the interest of public safety, authorise the Minister to—
+<!-- marginal: Special -->
+
+24K. (1) The Yang di-Pertuan Agong may, on
+
+<!-- marginal: power in -->
+
+the occurrence of any industrial unrest, strike,
+
+<!-- marginal: emergency. -->
+
+lock-out or any other event which gives rise to an emergency or in the interest of public safety, authorise the Minister to—
 
 (a) suspend the licence of the licensed company, take temporary possession of any designated airport and operate any airport and aviation services therein through the Department of Civil Aviation, Malaysia, or in such manner as the Minister thinks fit; or
 
@@ -232,19 +414,29 @@ Special 24K. (1) The Yang di-Pertuan Agong may, on power in the occurrence of an
 
 <!-- page 10 -->
 
-(2) If any doubt arises as to the existence of an emergency or whether any act done under subsection (1) was in the interest of public safety, a certificate signed by the Yang di-Pertuan Agong and exhibited at such places as the Minister deems fit shall be conclusive proof on the point.
+(2) If any doubt arises as to the existence of an emergency or whether any act done under subsection (1) was in the interest of public safety, a certificate signed by
+
+<!-- marginal: the Yang -->
+
+di-Pertuan Agong and exhibited at such places as the Minister deems fit shall be conclusive proof on the point.
 
 (3) Where the Government takes possession of any designated airport under paragraph (a) of subsection (1), adequate compensation shall be paid.
 
 Use, 24L. Where any lands in Malacca or Penang are occupation, occupied, used, controlled and managed by the etc., of lands in Federal Government under Clause (3) of Article Malacca 166 of the Constitution, the State Authority, if so and Penang under requested by the Minister, may upon application Article in writing by the licensed company— 166(3).
 
-(a) permit the whole or a part of such land to be occupied, used, controlled and managed by the licensed company on such terms and conditions as may be agreed between the Federal Government, the State Authority, and the licensed company; or
+(a) permit the whole or a part of such land to be occupied, used, controlled and managed by the licensed company on such terms and conditions as may be agreed between the Federal Government, the State Authority, and the
+
+<!-- marginal: licensed -->
+
+company; or
 
 (b) alienate such land to the licensed company on such terms and conditions as may be specified by the State Authority under and in accordance with the National Land Code, and agreed upon by the Federal Government.".
 
-Deletion of
+<!-- marginal: Deletion of -->
 
-11. The principal Act is amended by deleting section 27 A. section 27A.
+11. The principal Act is amended by deleting section 27 A.
+
+<!-- marginal: section 27A. -->
 
 ## EXPLANATORY STATEMENT
 
@@ -292,7 +484,11 @@ Section 24J, empowers the Minister to suspend or revoke the licence issued to th
 
 Section 24K gives special powers to the Yang di-Pertuan Agong in any public emergency or in the interest of public safety to authorise the Minister to suspend the licence of the licensed company and to take temporary possession of any designated airport and provide any airport and aviation services through the Department of Civil Aviation or in any manner as the Minister thinks fit or to withdraw the use of any airport from members of the public.
 
-Section 24L relates to land in Malacca and Penang governed by Article 166 (3) of the Constitution. It provides that the State Authority may upon the request of the Minister and upon the application of the licensed company either permit the occupation, use, control and management by the licensed company of such land or alienate the land to the company, on such terms and conditions as may be agreed
+Section 24L relates to land in Malacca and Penang governed by
+
+## Article 166 (3) of the Constitution. It provides that the State Authority
+
+may upon the request of the Minister and upon the application of the licensed company either permit the occupation, use, control and management by the licensed company of such land or alienate the land to the company, on such terms and conditions as may be agreed
 
 <!-- page 13 -->
 

@@ -70,27 +70,63 @@ words "or proceed under Chapter XVII with a view to the committal of the accused
 
 <!-- page 2 -->
 
-New section 8. The Code is amended by inserting after section 177 in
+<!-- marginal: New section -->
 
-177A.
+8. The Code is amended by inserting after section 177 in
 
-## Chapter XIX the following section:
+177A. Chapter XIX the following section:
 
-Transmis- 177A. (1) A prosecution in respect of an offence sion of which is to be tried by the High Court in accordance case to, with Chapter XX, shall not be instituted except and trial by, the by or with the consent of the Public Prosecutor: High Court. Provided that a person may be arrested, or a warrant for his arrest may be issued and executed, and any such person may be remanded in custody notwithstanding that the consent of the Public Prosecutor to the institution of a prosecution for the offence has not been obtained, but the case shall not be further prosecuted until the consent has been obtained.
+<!-- marginal: Transmis- -->
 
-(2) In any prosecution pursuant to subsection (1), the accused shall be produced before the Magistrate's Court which shall, after the charge has been explained to him, transmit the case to the High Court and cause the accused to appear or be brought before such Court as soon as may be practicable:
+177A. (1) A prosecution in respect of an offence
+
+<!-- marginal: sion of -->
+
+which is to be tried by the High Court in accordance
+
+<!-- marginal: case to, -->
+
+with Chapter XX, shall not be instituted except
+
+<!-- marginal: and trial -->
+
+<!-- marginal: by, the -->
+
+by or with the consent of the Public Prosecutor:
+
+<!-- marginal: High -->
+
+<!-- marginal: Court. -->
+
+Provided that a person may be arrested, or a warrant for his arrest may be issued and executed, and any such person may be remanded in custody notwithstanding that the consent of the Public Prosecutor to the institution of a prosecution for the offence has not been obtained, but the case shall not be further prosecuted until the consent has been obtained.
+
+(2) In any prosecution pursuant to subsection
+
+(1), the accused shall be produced before the Magistrate's Court which shall, after the charge has been explained to him, transmit the case to the High Court and cause the accused to appear or be brought before such Court as soon as may be practicable:
 
 Provided that when the accused is brought before the Magistrate's Court before the Public Prosecutor has consented to the prosecution, the charge shall be explained to him but he shall not be called upon to plead thereto.
 
-(3) When the accused appears or is brought before the High Court in accordance with subsection (2), the High Court shall fix a date for his trial which shall be held in accordance with the procedure under Chapter XX.",
+(3) When the accused appears or is brought before the High Court in accordance with subsection
 
-Amendment of 9. The heading to Chapter XX of the Code is amended by heading to deleting the words "WITHOUT ASSESSORS".
+(2), the High Court shall fix a date for his trial which shall be held in accordance with the procedure under Chapter XX.",
+
+<!-- marginal: Amendment of -->
+
+9. The heading to Chapter XX of the Code is amended by
+
+<!-- marginal: heading to -->
+
+deleting the words "WITHOUT ASSESSORS".
 
 ## Chapter XX.
 
-Amendment of 10. Section 179oftheCodeisamendedbydeletingsubsection section 179.
+<!-- marginal: Amendment of -->
 
-### (iii).
+10. Section 179oftheCodeisamendedbydeletingsubsection
+
+<!-- marginal: section 179. -->
+
+(iii).
 
 <!-- page 3 -->
 
@@ -204,49 +240,69 @@ XI".
 
 <!-- page 4 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-20. Section 269 of the Code is amended by substituting of section for the words "Chapters XI and XVII" the words "Chapter
+20. Section 269 of the Code is amended by substituting
+
+<!-- marginal: of section -->
+
+for the words "Chapters XI and XVII" the words "Chapter
 
 269. XI".
 
-Amendment
+<!-- marginal: Amendment -->
 
-21. Subparagraph 2%l(b)(ii) of the Code is amended— of section 281.
+21. Subparagraph 2%l(b)(ii) of the Code is amended—
+
+<!-- marginal: of section 281. -->
 
 (a) by inserting after the words "as soon as conveniently may be" appearing for the first time the words "after the appeal has been determined by the Court of Appeal"; and
 
 (b) by inserting after the words "dismisses the appeal" the words "made to it".
 
-Amendment
+<!-- marginal: Amendment -->
 
-22. Subsection 288(iv) of the Code is amended— of section288.
+22. Subsection 288(iv) of the Code is amended—
+
+<!-- marginal: of section288. -->
 
 (a) by inserting after the words "In the case of the words "an accused sentenced to whipping for an offence under section 403, 404, 406, 407, 408, 409 or 420 of the Penal Code, or"; and
 
 (b) by inserting against the words "Penal Code" the marginal reference "F.M.S. Cap. 45".
 
-Amendment
+<!-- marginal: Amendment -->
 
-23. Section 342 of the Code is amended— of section 342.
+23. Section 342 of the Code is amended—
+
+<!-- marginal: of section 342. -->
 
 (a) in subsection (i) by substituting for the words "holding a trial or a Magistrate holding an inquiry or" the words "or a Magistrate holding"; and
 
 (b) in subsection (iii) by deleting the words "inquiry or".
 
-Amendment
+<!-- marginal: Amendment -->
 
-24. Section 343 of the Code is amended— of section 343.
+24. Section 343 of the Code is amended—
+
+<!-- marginal: of section 343. -->
 
 (a) in subsection (i) by substituting for the words "inquiry or trial, as the case may be" the word "trial"; and
 
 (b) in subsection (ii) by substituting for the words "inquiry or trial, as the case may be," the word "trial".
 
-25. Section 345 of the Code is amended by deleting the Amendment of section345. words "inquiry or" in the marginal note thereof.
+25. Section 345 of the Code is amended by deleting the
 
-Deletion -
+<!-- marginal: Amendment -->
 
-26. The Code is amended by deleting section 346. of section 346.
+<!-- marginal: of section345. -->
+
+words "inquiry or" in the marginal note thereof.
+
+<!-- marginal: Deletion - -->
+
+26. The Code is amended by deleting section 346.
+
+<!-- marginal: of section 346. -->
 
 <!-- page 5 -->
 
@@ -314,29 +370,49 @@ the words "or commit for trial" and "inquiry into or".
 
 <!-- page 6 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-34. Subsection 418(3) of the Code is amended by deleting ofsection418A the words "without holding a preliminary inquiry under
+34. Subsection 418(3) of the Code is amended by deleting
+
+<!-- marginal: ofsection418A -->
+
+the words "without holding a preliminary inquiry under
 
 ## Chapter XVII".
 
-Amendment
+<!-- marginal: Amendment -->
 
-35. Section 427 of the Code is amended by deleting the of section 427. words "or committed for trial to", "the Court which committed the case for trial or" and "or both".
+35. Section 427 of the Code is amended by deleting the
 
-Deletion of
+<!-- marginal: of section 427. -->
 
-36. The Code is amended by deleting section 429. section 429. Amendment
+words "or committed for trial to", "the Court which committed the case for trial or" and "or both".
 
-37. Section 439 of the Code is amended by deleting the of section 439. words "or commit for trial".
+<!-- marginal: Deletion of -->
 
-Amendment
+36. The Code is amended by deleting section 429.
 
-38. The Second Schedule to the Code is amended by deleting of Second Forms XXXII and XXXIX.
+<!-- marginal: section 429. -->
+
+<!-- marginal: Amendment -->
+
+37. Section 439 of the Code is amended by deleting the
+
+<!-- marginal: of section 439. -->
+
+words "or commit for trial".
+
+<!-- marginal: Amendment -->
+
+38. The Second Schedule to the Code is amended by deleting
+
+<!-- marginal: of Second -->
+
+Forms XXXII and XXXIX.
 
 ## Schedule.
 
-Saving.
+<!-- marginal: Saving. -->
 
 39. (1) Any preliminary inquiry, trial by jury or trial with the aid of assessors that has been commenced before or on the commencement of this Act shall be continued orconcluded in all respects as if this Act had not been passed.
 

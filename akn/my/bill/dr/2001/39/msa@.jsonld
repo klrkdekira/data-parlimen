@@ -1,0 +1,1021 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-39-2001",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Kewangan 2001"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_I",
+      "@type": "akn:chapter",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERMULAAN Tajuk ringkas"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II",
+      "@type": "akn:chapter",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_10"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967 Permulaan kuat kuasa pindaan kepada Akta Cukai Pendapatan 1967"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III",
+      "@type": "akn:chapter",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_15"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PINDAAN KEPADA AKTA PETROLEUM (CUKAI PENDAPATAN) 1967 Permulaan kuat kuasa pindium kepada Akta Petroleum (Cukai Pendapatan) 1967"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 12, 13, 14 dan 15 hendaklah berkuat kuasa bagi tahun taksiran 2002 dan tahun-tahun taksiran yang berikutnya. Pindaan seksyen 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Petroleum (Cukai Pendapatan) 1967, yang disebut \"Akta ibu\" dalam Bab ini, dipinda dalam seksyen 16 dengan memasukkan selepas subseksyen (7G) subseksyen yang berikut: \"(7H) There shall be deducted from the relevant gross income an amount equal to the expenditure incurred by a person in the relevant period on the provision of practical training in Malaysia, in relation to his business, to an individual who is— (a) resident in the basis year for a year of assessment; and (b) not an employee of that person.\". Pindaan seksyen 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_13__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 18 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan ( 1 )( l ); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (1 )(m) dengan perenggan yang berikut: \"(m) any sum paid by way of rentals in respect of a motor vehicle, other than a motor vehicle licensed by the appropriate authority for commercial transportation of goods or passengers, in excess of fifty thousand ringgit: Provided that if the motor vehicle has not been used by any person for any purpose prior to the rental and the total cost of the motor vehicle does not exceed one hundred and fifty thousand ringgit, any sum paid by way of rental in excess of one hundred thousand ringgit: Provided further that the maximum amount of deduction in respect of the rentals of such motor vehicle in the year of assessment and subsequent years of assessment shall not in the aggregate exceed fifty thousand ringgit or one hundred thousand ringgit, as the case may be, in respect of that motor vehicle.\". Pindaan Jadual Kedua"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_14__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_14__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_14__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_14__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_14__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_14__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual Kedua Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 3, dengan menggantikan perkataan \"4\" dengan perkataan \"3A\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan 3 perenggan yang berikut: \"3A. (1) Subject to subparagraph (2), where a building is purchased for use as an industrial building from a person who constructed that building and that building has not been used by any person prior to the purchase, then, for the purposes of this Schedule- (a) the purchaser shall be deemed to have constructed that building and deemed to have incurred capital expenditure on the construction of that building; (b) the purchase price shall be deemed to be the capital expenditure incurred on the construction of that building; and (c) the date of that purchase shall be deemed to be the date of the construction of that building. (2) The capital expenditure incurred by the person who constructed the building and the date of construction of that building by that person to which regard would be had but for this subparagraph shall be disregarded for the purposes of this Schedule.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_14__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 9, dengan memasukkan selepas perkataan \"construction\" perkataan \"or purchase\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_14__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 11, dengan menggantikan perkataan \"to 14\" dengan perkataan \"and 13\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_14__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_14__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_14__para_e__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 13 —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_14__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_14__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"construction\" perkataan \"or purchase\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_14__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_14__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"two\" dengan perkataan \"three\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_14__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan 14; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_14__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 15, dengan memotong perkataan \"or 14\". Peruntukan khas berhubung dengan perenggan 13 Jadual Kedua"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun peruntukan perenggan 13 Jadual Kedua Akta ibu, di mana suatu elaun tahunan telah dibuat kepada seseorang berkenaan dengan suatu pembelian bangunan, dan elaun itu telah dikira berdasarkan suatu pecahan yang dibenarkan di bawah perenggan 14 Jadual Kedua Akta ibu sebelum berkuat kuasa pemotongan perenggan itu di bawah perenggan 14(f) Akta ini, yang mana lebih tinggi daripada tiga peratus, elaun tahunan bagi suatu tahun taksiran bagi bangunan itu hendaklah dikira berdasarkan pecahan yang lebih tinggi dan elaun itu hendaklah tidak melebihi amaun baki perbelanjaan di akhir tempoh asas bagi tahun taksiran itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_10__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_10__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual 7A Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 1, dengan menggantikan perkataan \"Where\" dengan perkataan \"Subject to this Schedule, where\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 1A, dengan menggantikan perkataan \"Where\" dengan perkataan \"Subject to this Schedule, where\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan 1A perenggan yang berikut: \"1B. (1) Subject to subparagraph (2), where a company (in this paragraph referred to as \"the acquirer\") has incurred capital expenditure in respect of an asset for the purposes of a qualifying project and that asset is acquired from another company (in this paragraph referred to as \"the disposer\") and at the time of the acquisition— (a) the acquirer of the asset is a person over whom the disposer of the asset has control; ( b) the disposer of the asset is a person over whom the acquirer of the asset has control; (c) some other person has control over the acquirer and disposer of the asset; or (d) the acquisition is effected in consequence of a scheme of reconstruction or amalgamation of companies, the acquirer shall be deemed to have incurred that capital expenditure on the asset on the first day of the disposer's final period, of an amount equal to the amount of residual expenditure ascertained under sub- paragraph (3). (2) Where the disposer incurred capital expenditure in relation to the asset referred to in subparagraph (1) on or after the first day of the disposer's final period, the acquirer shall be deemed to have incurred capital expenditure on the asset on the day that disposer incurred capital expenditure, of an amount equal to the amount of capital expenditure incurred by that disposer. (3) For the purposes of subparagraph (1), residual expenditure in relation to an asset shall be the capital expenditure incurred by the disposer reduced by the amount of allowances on that asset under Schedule 3 that has been made or would have been made to the disposer in the basis period or periods before the first day of the disposer's final period. (4) In this paragraph— \"asset\" means a factory, plant or machinery referred to in paragraph 1, or plant, machinery or building referred to in the definition of \"capital expenditure\" under paragraph 9; \"control\", in relation to a company, means the power of a person to secure, by means of the holding of shares or the possession of voting power in or in relation to that or any other company, or by virtue of any powers conferred by the articles of association or other document regulating that or any other company, that the affairs of the first-mentioned company are conducted in accordance with the wishes of that person; \"the disposer's final period\", in relation to the disposal and acquisition of the asset, means the basis period (appropriate to the disposer's business for the purposes of which expenditure has been incurred in relation to the asset) for the year of assessment which coincides with the first year of assessment for which an allowance under Schedule 3 may be made to the acquirer in relation to the asset if it is used for the purposes of a business carried on by the acquirer or as an industrial building.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_10__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 2, dengan menggantikan perkataan \"five\" dengan perkataan \"fifteen\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_3__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_3__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_3__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen4,5,7,perenggan8(a),8(b),8(d),8(e),8(f),8(g), 8( h ), 8( i ), 8(j), 8(l) dan 8(m), seksyen 9 dan perenggan 10(a), 1 0( b) dan lO(c) Bab ini hendaklah berkuat kuasa bagi tahun taksiran 2002 dan tahun-tahun taksiran yang berikutnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 8(c) Bab ini hendaklah disifatkan mula berkuat kuasa pada 1 Januari 2000 dan hendaklah berkuat kuasa bagi tahun taksiran 2000 berhubung dengan tempoh asas yang berakhir dalam tahun 2000 dan tahun-tahun taksiran yang berikutnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 37F kepada Jadual 3 Akta Cukai Pendapatan 1967, yang disebut \"Akta ibu\" dalam Bab ini, seperti dimasukkan oleh perenggan 8(k) Bab ini hendaklah berkuat kuasa bagi tahun taksiran 2002 dan tahun-tahun taksiran yang berikutnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_3__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 37c dan 37H kepada Jadual 3 Akta ibu seperti dimasukkan oleh perenggan 8(k) Bab ini hendaklah disifatkan berkuat kuasa bagi tahun taksiran 2001 dan tahun-tahun taksiran yang berikutnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_3__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 10(d) hendaklah disifatkan berkuat kuasa bagi tahun taksiran 1998 dan tahun-tahun taksiran yang berikutnya. Pin da an seksyen 34"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dalam subseksyen 34(6) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (l), dengan memotong perkataan \"and\" di hujung proviso (b);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah di hujung perenggan (m) dengan perkataan \"; and\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (m) perenggan yang berikut: \"(n) an amount equal to the expenditure incurred by a person in the relevant period on the provision of practical training in Malaysia, in relation to his business, to an individual who is — (i) resident in the basis year for a year of assessment; and (ii) not an employee of that person.\". Pindaan seksyen 39"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 39 Akta ibu dipinda dalara subseksyen (1) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (h); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (k) dengan perenggan yang berikut: \"(k) any sum paid by way of rentals in respect of a motor vehicle, other than a motor vehicle licensed by the appropriate authority for commercial transportation of goods or passengers, in excess of fifty thousand ringgit: Provided that if the motor vehicle has not been used by any person for any purpose prior to the rental and the total cost of the motor vehicle does not exceed one hundred and fifty thousand ringgit, any sum paid by way of rental in excess of one hundred thousand ringgit: Provided further that the maximum amount of deduction in respect of the rentals of such motor vehicle in the year of assessment and subsequent years of assessment shall not in the aggregate exceed fifty thousand ringgit or one hundred thousand ringgit, as the case may be, in respect of that motor vehicle;\". Pindaan seksyen 75"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 75 Akta ibu dipinda dalam subseksyen (1) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"Responsibility\" dengan perkataan \"Notwithstanding anything to the contrary to this Act or any other written law, the responsibility\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"for the purposes of this Act\" perkataan \"including the payment of tax\". Pindaan Jadual 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual 1 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Bahagian I dalam perenggan 1, dengan menggantikan kadar sedia ada dengan kadar yang berikut: \"Chargeable Income RM Income Tax For every ringgit of the first 2,500 0 per cent For every ringgit of the next 2,500 1 per cent For every ringgit of the next 15,000 3 per cent For every ringgit of the next 15,000 7 per cent For every ringgit of the next 15,000 13 per cent For every ringgit of the next 20,000 19 per cent For every ringgit of the next 30,000 24 per cent For every ringgit of the next 150,000 27 per cent For every ringgit exceeding 250,000 28 per cent\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Bahagian I dalam perenggan 1A, dengan menggantikan perkataan \"29\" dengan perkataan \"28\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Bahagian IV, dengan menggantikan kadar sedia ada dengan kadar yang berikut: \"Chargeable Income RM Income Tax For every ringgit of the first 20,000 0 per cent For every ringgit of the next 10,000 3 per cent For every ringgit of the next 10,000 6 per cent For every ringgit of the next 10,000 9 per cent For every ringgit of the next 25,000 12 per cent For every ringgit of the next 25,000 16 per cent For every ringgit of the next 50,000 20 per cent For every ringgit of the next 100,000 23 per cent For every ringgit of the next 250,000 26 per cent For every ringgit exceeding 500,000 28 per cent\". Kewangan 7 Pindaan Jadual 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual 3 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 3, dengan menggantikan perkataan \"4\" dengan perkataan \"3A\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan 3 perenggan yang berikut: \"3A. (1) Subject to subparagraph (2), where a building is purchased for use as an industrial building from a person who constructed that building and that building has not been used by any person for any purpose prior to the purchase, then, for the purposes of this Schedule— (a) the purchaser shall be deemed to have constructed that building and deemed to have incurred capital expenditure on the construction of that building; (b) the purchase price shall be deemed to be the capital expenditure incurred on the construction of that building; and (c) the date of that purchase shall be deemed to be the date of construction of that building. (2) The capital expenditure incurred by the person who constructed the building and the date of construction of that building by that person to which regard would be had but for this subparagraph shall be disregarded for the purposes of this Schedule.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 5—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (1) dengan menggantikan perkataan \"In\" dengan perkataan \"Subject to subparagraph (1A), in\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_c__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_c__subpara_ii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subsubperenggan (l)(a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_c__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_c__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"following\" dengan perkataan \"from\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_c__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_c__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"including the particular\" dengan perkataan \"including the immediately preceding\" dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subperenggan (1) subperenggan yang berikut: \" ( 1A) Where the purchased building referred to in subparagraph (1) is constructed prior to 1 January 2000 and that building was first used after its purchase as an industrial building— (a) in the year of assessment 2000, all annual allowances referred to in sub- subparagraph (l)(a) shall be allowances which could have been claimed or made for the year of assessment following the year of assessment in which the expenditure on the construction of that building was incurred up to and including the year of assessment 2000 (preceding year basis); or (b) in the year of assessment 2001 or any subsequent year of assessment, all annual allowances referred to in sub- subparagraph ( l )( a) shall be allowances which could have been claimed or made for the year of assessment following the year of assessment in which the expenditure on the construction of that building was incurred up to and including the year of assessment immediately preceding, the year of assessment 2001 or any subsequent year of assessment in which that building was first used after its purchase as an industrial building, and for the avoidance of doubt, the allowance for the year of assessment 2000 shall consist of the allowances for the year of assessment 2000 (preceding year basis) and year of assessment 2000 (current year basis).\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalamperenggan 12, dengan memasukkan selepas perkataan \"construction\" perkataan \"or purchase\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 14, dengan menggantikan perkataan \"17\" dengan perkataan \"16A\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan 15A;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_g__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_g__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 16 —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_g__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_g",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"construction\" perkataan \"or purchase\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_g__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_g",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"one-fiftieth\" dengan perkataan \"three-hundredth\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan 17;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 18, dengan menggantikan perkataan \"15, 16 or 17\" dengan perkataan \"15 or 16\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 37c, dengan menggantikan perkataan \"12, 16 or 17\" dengan perkataan \"12 or 16\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan 37E perenggan yang berikut: \"Qualifying expenditure: Building used for hotel 37F. The provisions of this Schedule relating to industrial buildings shall apply, mutatis mutandis, to a building or part thereof used by a person solely for the purpose of an hotel and that hotel is registered with the Ministry of Culture, Arts and Tourism. Qualifying expenditure: Airport 37G. The provisions of this Schedule relating to industrial buildings shall apply, mutatis mutandis, to an airport and the reference to capital expenditure incurred in relation to that airport shall include the capital expenditure on the construction, reconstruction, extension, improvement or purchase of any building, runway or ancillary structures. Qualifying expenditure: Motor racing circuit 37H. The provisions of this Schedule relating to industrial buildings shall apply, mutatis mutandis, to a motor racing circuit approved by the Minister and the reference to capital expenditure incurred in relation to that motor racing circuit shall include the capital expenditure on the construction, reconstruction, extension or improvement of that motor racing circuit or ancillary structures.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__subsec_7__para_m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 42A, 42B dan 42c, dengan memotong perkataan \", 17\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__subsec_7__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_8__subsec_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan 65(3), dengan memotong perkataan \", hotel\". Peruntukan khas berhubung dengan perenggan 16 Jadual 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun peruntukan perenggan 16 Jadual 3 Akta ibu, di mana suatu elaun tahunan telah dibuat kepada seseorang berkenaan dengan suatu pembelian bangunan, dan elaun itu telah dikira berdasarkan suatu pecahan yang dibenarkan di bawah perenggan 17 Jadual 3 Akta ibu sebelum berkuat kuasa pemotongan perenggan itu di bawah perenggan 9( g) Akta ini, yang mana lebih tinggi daripada tiga per seratus, elaun tahunan bagi suatu tahun taksiran bagi bangunan itu hendaklah dikira berdasarkan pecahan yang lebih tinggi dan elaun itu hendaklah tidak melebihi amaun baki perbelanjaan di akhir tempoh asas bagi tahun taksiran itu. Pindaan Jadual 7 A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV",
+      "@type": "akn:chapter",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_21"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PINDAAN KEPADA AKTA SETEM 1949 Permulaan kuat kuasa pindaan kepada Akta Setem 1949"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 17, 18, 19, 20 dan 21 hendaklah berkuat kuasa dari 1 Januari 2002. Pindaan seksyen 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Setem 1949, yang disebut \"Akta ibu\" dalam Bab ini, dipinda dalam subseksyen 9(3), dengan menggantikan perkataan \"Minister of Finance\" dengan perkataan \"Collector\". Seksyen baru 38A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_18__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_18__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_18__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_18__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_18__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_18__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_18__subsec_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 38 seksyen yang berikut: 38A. (1) Any person who is dissatisfied with an assessment of the Collector under section 36 may, by written notice (referred to in this Act as \"notice of objection\"), object to the assessment and apply to the Collector to review the assessment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Every notice of objection shall state the grounds of objection to the Collector's assessment and shall be made within thirty days after the date of the assessment or such further period as the Collector may allow in any particular case."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_18__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "The person giving a notice of objection shall furnish further particulars and information in relation to the grounds of the objection if required to do so by the Collector in writing."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_18__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "The Collector shall, on receipt of a notice of objection and such further particulars and information as he may require under subsection (3), review the assessment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_18__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "After the objection has been determined, the Collector shall notify the person in writing of his decision."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_18__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Where, on review, it appears to the Collector that the amount of duty originally assessed is excessive, he may cancel the original assessment and make such other assessment in substitution of the original assessment and shall serve on the person a notice of substituted assessment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_18__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "The making of an objection shall not relieve the person of liability to pay the duty as required by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_18__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Any reference in this Act to an assessment shall be construed as including a reference to a substituted assessment under subsection (6).\". Pindaan seksyen 39"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_19__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 39 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: \"(1) Any person who is dissatisfied with the decision of the Collector under section 38A(5) may, within twenty- one days after the person is notified in writing of that decision and upon payment of duty in conformity therewith, appeal against the decision to the High Court by filing a notice of appeal with the High Court and may for that purpose require the Collector to state and sign a case, setting forth the question upon which his opinion was required, and the decision made by him.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: \"(1A) Where a notice of appeal has been filed under subsection (1), the notice shall be served on the Collector within the time stipulated for the filing of the notice of appeal.\". Pindaan seksyen 47 A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 47 A Akta ibu dipinda dengan menggantikan subseksyen"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(2) dengan subseksyen yang berikut: \"(2) The Collector may, if he thinks fit, reduce or remit any such penalty or the further amount payable under section 9(l)(c).\". Pindaan Jadual Pertama"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_21__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual Pertama Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 21(d), dengan menggantikan perkataan \"borrowing company in Malaysia approved by the Minister of Finance\" dengan perkataan \"finance company licensed under the Banking and Financial Institutions Act 1989 or under the Islamic Banking Act 1983 or a scheduled institution as defined under section 2 of the Banking and Financial Institutions Act 1989\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_IV__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 32(c), dengan menggantikan perkataan \"borrowing company in Malaysia approved by the Minister of Finance\" dengan perkataan \"finance company licensed under the Banking and Financial Institutions Act 1989 or under the Islamic Banking Act 1983 or a scheduled institution as defined under section 2 of the Banking and Financial Institutions Act 1989\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Kewangan 2001. Pindaan Akta"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/39/msa@/~chp_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Cukai Pendapatan 1967 [Akta 53], Akta Petroleum (Cukai Pendapatan) 1967 [Akta 543] dan Akta Setem 1949 [Akta 378] dipinda mengikut cara yang dinyatakan masing-masing dalam Bab II, III dan IV."
+      }
+    }
+  ]
+}

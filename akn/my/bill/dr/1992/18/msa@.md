@@ -26,9 +26,17 @@ UNDANG-UNDANG oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agon
 
 ## RANG UNDANG-UNDANG
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-2. Seksyen 2 Akta Mahkamah-Mahkamah Anak Negeri seksyen 2. (Bidang Kuasa Jenayah) 1991 adalah dipinda dengan Akta 471. menggantikan perkataan-perkataan "dua ratus ringgit" dengan perkataan-perkataan "lima ribu ringgit".
+2. Seksyen 2 Akta Mahkamah-Mahkamah Anak Negeri
+
+<!-- marginal: seksyen 2. -->
+
+(Bidang Kuasa Jenayah) 1991 adalah dipinda dengan
+
+<!-- marginal: Akta 471. -->
+
+menggantikan perkataan-perkataan "dua ratus ringgit" dengan perkataan-perkataan "lima ribu ringgit".
 
 ## HURAIAN
 

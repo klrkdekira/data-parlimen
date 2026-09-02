@@ -18,9 +18,27 @@ Division 1
 
 Establishment, functions and powers of Commission
 
-6. Establishment of Commission 7. Functions of Commission 8. Powers of Commission 9. Board 10. Appointment of members of Board 11. Term of office 12. Revocation of appointment and resignation 13. Remuneration and allowances 14. Meetings of Board 15. Actions and proceedings of Board not affected by vacancy, etc. 16. Delegation of functions and powers, etc.
+6. Establishment of Commission 7. Functions of Commission 8. Powers of Commission 9. Board
 
-17. Power to engage persons to render assistance 18. Board Committees 19. Disqualification of members of Board and Board Committee
+10. Appointment of members of Board
+
+11. Term of office
+
+12. Revocation of appointment and resignation
+
+13. Remuneration and allowances
+
+14. Meetings of Board
+
+15. Actions and proceedings of Board not affected by vacancy, etc.
+
+16. Delegation of functions and powers, etc.
+
+17. Power to engage persons to render assistance
+
+18. Board Committees
+
+19. Disqualification of members of Board and Board Committee
 
 <!-- page 2 -->
 
@@ -78,7 +96,13 @@ Finance
 
 ## ADVISORY COMMITTEE
 
-36. Establishment of Advisory Committee 37. Membership 38. Functions of Advisory Committee 39. Meetings of Advisory Committee
+36. Establishment of Advisory Committee
+
+37. Membership
+
+38. Functions of Advisory Committee
+
+39. Meetings of Advisory Committee
 
 ## Part V
 
@@ -88,9 +112,39 @@ Division 1
 
 Licensing
 
-40. Requirement for licence 41. Application for licence 42. Grant of licence 43. Grounds for refusal of licence 44. Minimum financial requirements for licensing 45. Fit and proper requirements of licensed credit provider 46. Directors and senior management of licensed credit provider
+40. Requirement for licence
 
-47. Controller of licensed credit provider 48. Acquisition of interest in shares of licensed credit provider 49. Appointment of auditor by licensed credit provider 50. Revocation or suspension of licence 51. Voluntary surrender of licence 52. Effect of revocation, suspension and surrender of licence 53. Fees payable by licensed credit provider 54. Establishment, relocation or closure of branch, etc., of licensed credit provider 55. Transfer or assignment of licence 56. Sale, disposal, leasing, etc., of credit business
+41. Application for licence
+
+42. Grant of licence
+
+43. Grounds for refusal of licence
+
+44. Minimum financial requirements for licensing
+
+45. Fit and proper requirements of licensed credit provider
+
+46. Directors and senior management of licensed credit provider
+
+47. Controller of licensed credit provider
+
+48. Acquisition of interest in shares of licensed credit provider
+
+49. Appointment of auditor by licensed credit provider
+
+50. Revocation or suspension of licence
+
+51. Voluntary surrender of licence
+
+52. Effect of revocation, suspension and surrender of licence
+
+53. Fees payable by licensed credit provider
+
+54. Establishment, relocation or closure of branch, etc., of licensed credit provider
+
+55. Transfer or assignment of licence
+
+56. Sale, disposal, leasing, etc., of credit business
 
 <!-- page 4 -->
 
@@ -154,7 +208,13 @@ General matters
 
 ## ISLAMIC CREDIT BUSINESS
 
-80. Application 81. Duty to ensure compliance with Shariah 82. Internal policies and procedures on Islamic credit business 83. Reference to Shariah Advisory Council from court or arbitrator
+80. Application
+
+81. Duty to ensure compliance with Shariah
+
+82. Internal policies and procedures on Islamic credit business
+
+83. Reference to Shariah Advisory Council from court or arbitrator
 
 ## Part VII
 
@@ -164,7 +224,11 @@ Division 1
 
 Conduct requirements
 
-84. Duty to ensure fair, responsible and professional business conduct 85. Compliance with regulations and standards or guidelines on business conduct 86. Financial hardship
+84. Duty to ensure fair, responsible and professional business conduct
+
+85. Compliance with regulations and standards or guidelines on business conduct
+
+86. Financial hardship
 
 Division 2
 
@@ -180,7 +244,9 @@ Division 1
 
 Examination powers
 
-88. Examination by Regulatory and Supervisory Authority 89. Duty to provide access to, and produce documents, information, etc.
+88. Examination by Regulatory and Supervisory Authority
+
+89. Duty to provide access to, and produce documents, information, etc.
 
 <!-- page 6 -->
 
@@ -248,7 +314,21 @@ Division 3
 
 Criminal offences
 
-112. Offences in relation to entries in documents 113. Offence by any person acting in official capacity, etc. 114. Offence by employee, officer, agent, etc. 115. Attempts, abetments and conspiracies 116. Joinder of offences 117. Seizable offence 118. Power to compound 119. Institution of prosecution
+112. Offences in relation to entries in documents
+
+113. Offence by any person acting in official capacity, etc.
+
+114. Offence by employee, officer, agent, etc.
+
+115. Attempts, abetments and conspiracies
+
+116. Joinder of offences
+
+117. Seizable offence
+
+118. Power to compound
+
+119. Institution of prosecution
 
 Division 4
 
@@ -260,7 +340,29 @@ General matters
 
 ## GENERAL PROVISIONS
 
-121. Additional powers of Minister 122. Power to make regulations 123. Power to specify standards or guidelines 124. Provisions relating to approvals, consent, standards or guidelines, specifications, notices, requirements or directions 125. Power of Regulatory and Supervisory Authority to issue guidance 126. Power of Regulatory and Supervisory Authority to publish information 127. Power to exempt 128. Power to amend Schedules 129. Power to require submission of document or information 130. Protection against suit and legal proceedings 131. Opportunity to make written representations 132. Obligation of secrecy
+121. Additional powers of Minister
+
+122. Power to make regulations
+
+123. Power to specify standards or guidelines
+
+124. Provisions relating to approvals, consent, standards or guidelines, specifications, notices, requirements or directions
+
+125. Power of Regulatory and Supervisory Authority to issue guidance
+
+126. Power of Regulatory and Supervisory Authority to publish information
+
+127. Power to exempt
+
+128. Power to amend Schedules
+
+129. Power to require submission of document or information
+
+130. Protection against suit and legal proceedings
+
+131. Opportunity to make written representations
+
+132. Obligation of secrecy
 
 <!-- page 8 -->
 
@@ -270,19 +372,19 @@ General matters
 
 135. Transitional
 
-## Schedule 1
+## SCHEDULE 1
 
-## Schedule 2
+## SCHEDULE 2
 
-## Schedule 3
+## SCHEDULE 3
 
-## Schedule 4
+## SCHEDULE 4
 
-## Schedule 5
+## SCHEDULE 5
 
-## Schedule 6
+## SCHEDULE 6
 
-## Schedule 7
+## SCHEDULE 7
 
 <!-- page 9 -->
 
@@ -1154,7 +1256,9 @@ Licensing
 
 (b) there shall be no refund of the fee paid by the applicant.
 
-(6) Upon receipt of an application and payment of fee and submission of information, particulars or document under subsection (2) and any additional document or information provided under paragraph (3)(b), the Commission or the Registrar, as the case may be, may consider such application.
+(6) Upon receipt of an application and payment of fee and submission of information, particulars or document under subsection
+
+(2) and any additional document or information provided under paragraph (3)(b), the Commission or the Registrar, as the case may be, may consider such application.
 
 (7) A licensed credit provider intending to carry on a subsequent credit business as set out in paragraph 1 or paragraph 2 of Schedule 4 shall submit another application to the Commission or Registrar, as the case may be, in accordance with this section.
 
@@ -2034,9 +2138,9 @@ Prohibited business conduct
 
 (2) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding five million ringgit or to imprisonment for a term not exceeding five years or to both.
 
-## Part Viii
+## PART VIII
 
-eXaMiNatiON aNd iNVeStiGatiON
+## EXAMINATION AND INVESTIGATION
 
 Division 1
 
@@ -2452,11 +2556,7 @@ whichever occurs earlier.
 
 (i) any document, securities held in respect of credit consumers’ transactions, titles, computer output, data, or information seized, detained or taken possession of under section 92, 94 or 97;
 
-(ii) any record of
-
-<!-- marginal: investigation under -->
-
-paragraph 100(1)(a);
+(ii) any record of investigation under paragraph 100(1)(a);
 
 (iii) any written statement on oath or affirmation made under paragraph 100(1)(b); or
 
@@ -2474,7 +2574,7 @@ paragraph 100(1)(a);
 
 as may be necessary or expedient in relation to the performance of his functions, the exercise of his powers or the discharge of his duties, in respect of any person.
 
-## Part iX
+## PART IX
 
 ## ENFORCEMENT
 
@@ -2810,7 +2910,9 @@ commits an offence and may be liable to the penalty provided for such offence.
 
 117. (1) Every offence punishable under this Act shall be a seizable offence, and a police officer not below the rank of Sergeant, or an investigating officer appointed under section 90 may arrest without warrant a person whom he reasonably suspects to have committed or is committing the offence.
 
-(2) An investigating officer who makes an arrest under subsection (1) shall make over the arrested person to a police officer without unnecessary delay and the arrested person shall be dealt with according to the law relating to criminal procedure as if he had been arrested by a police officer.
+(2) An investigating officer who makes an arrest under subsection
+
+(1) shall make over the arrested person to a police officer without unnecessary delay and the arrested person shall be dealt with according to the law relating to criminal procedure as if he had been arrested by a police officer.
 
 ### Power to compound
 
@@ -2860,9 +2962,9 @@ General matters
 
 <!-- page 112 -->
 
-## Part X
+## PART X
 
-GeNeral PrOViSiONS
+## GENERAL PROVISIONS
 
 ### Additional powers of Minister
 
@@ -3174,7 +3276,7 @@ the Registrar, Commission or Regulatory and Supervisory Authority, as the case m
 
 <!-- page 125 -->
 
-## Schedule 1
+## SCHEDULE 1
 
 [Subsection 2(1)]
 
@@ -3198,11 +3300,11 @@ Credit provided by—
 
 (h) a licensed entity under the Labuan Financial Services and Securities Act 2010 [Act 704] and Labuan Islamic Financial Services and Securities Act 2010 [Act 705] exclusively for purposes in Labuan.
 
-## Schedule 2
+## SCHEDULE 2
 
 [Section 4]
 
-credit BuSiNeSS
+## CREDIT BUSINESS
 
 1. Types of conventional credit business:
 
@@ -3316,11 +3418,11 @@ For the purpose of this definition, “movable asset” includes any plant, mach
 
 (ii) advances payment to the seller for a buyer’s accounts payable arising from the purchase of goods or services by the buyer from the seller.
 
-## Schedule 3
+## SCHEDULE 3
 
 [Section 4]
 
-credit SerVice BuSiNeSS
+## CREDIT SERVICE BUSINESS
 
 1. Types of credit service business:
 
@@ -3352,7 +3454,7 @@ credit SerVice BuSiNeSS
 
 (e) “Online crowdlending platform” means the activity of operating an electronic platform that is authorized by the Securities Commission Malaysia, that facilitate directly or indirectly the lending or financing of credit to a credit consumer.
 
-## Schedule 4
+## SCHEDULE 4
 
 [Subsections 40(1), 41(1), 57(1) and 58(1), section 79]
 
@@ -3390,11 +3492,13 @@ credit SerVice BuSiNeSS
 
 <!-- page 131 -->
 
-## Schedule 5
+## SCHEDULE 5
 
 [Section 79]
 
-NON-aPPlicatiON OF liceNSiNG aNd reGiStratiON reQuireMeNtS uNder thiS act
+## NON-APPLICATION OF LICENSING AND REGISTRATION
+
+## REQUIREMENTS UNDER THIS ACT
 
 1. Licensed banks and licensed insurers as defined under subsection 2(1) of the Financial Services Act 2013.
 
@@ -3410,11 +3514,11 @@ NON-aPPlicatiON OF liceNSiNG aNd reGiStratiON reQuireMeNtS uNder thiS act
 
 7. Co-operative societies registered under subsection 7(1) of the Co-operative Societies Act 1993.
 
-## Schedule 6
+## SCHEDULE 6
 
 [Subsection 87(1)]
 
-liSt OF PrOhiBited BUSINESS cONduct
+## LIST OF PROHIBITED BUSINESS CONDUCT
 
 1. Engaging in conduct that is misleading or deceptive, or is likely to mislead or deceive in relation to the nature, features, terms or price of any credit product or services offered or provided by any person to a credit consumer under any business relating to the provision of credit or credit service, as the case may be.
 
@@ -3438,11 +3542,11 @@ by any person under any business relating to the provision of credit or credit s
 
 4. Demanding payments from a credit consumer in any manner for unsolicited credit product or services of any person under any business relating to the provision of credit or credit service, as the case may be, including threatening to bring legal proceedings.
 
-## Schedule 7
+## SCHEDULE 7
 
 [Paragraph 106(3)(b)]
 
-liSt OF PrOViSiONS eXcluded FrOM MONetarY PeNaltY
+## LIST OF PROVISIONS EXCLUDED FROM MONETARY PENALTY
 
 A monetary penalty may not be imposed in respect of a breach of the following provisions:
 
@@ -3540,7 +3644,9 @@ Finance
 
 29. Clause 26 seeks to provide for the establishment of a Fund to be administered and controlled by the Commission. This clause also provides for the expenditure that may be charged to such Fund. This clause also places a duty on the Commission to conserve such Fund.
 
-30. Clause 27 seeks to allow a Regulatory and Supervisory Authority to grant, lend or advance such sum of money to the Commission until 31 December 2030. This enables the Commission to build its capability and capacity to assume greater regulatory responsibilities over time as part of the inter-agency collaboration in transforming the consumer credit regulatory framework given the eventual transfer of the regulatory functions of Ministry of Domestic Trade and Cost of Living and Ministry of Housing and Local Government.
+30. Clause 27 seeks to allow a Regulatory and Supervisory Authority to grant, lend or advance such sum of money to the Commission until 31 December
+
+2030. This enables the Commission to build its capability and capacity to assume greater regulatory responsibilities over time as part of the inter-agency collaboration in transforming the consumer credit regulatory framework given the eventual transfer of the regulatory functions of Ministry of Domestic Trade and Cost of Living and Ministry of Housing and Local Government.
 
 31. Clause 28 seeks to provide for the financial year of the Commission which shall begin on 1 January and end on 31 December of each year.
 
@@ -3684,11 +3790,7 @@ General matters
 
 84. Clause 78 seeks to provide for a rebuttable presumption on the proof of business of providing credit or credit service in any court proceedings.
 
-85. Clause 79 deals with the non-application of the requirements under
-
-## Part V to persons set out in subclause (1) as such persons are currently regulated
-
-by the existing Regulatory and Supervisory Authorities. Subclause (2) also seeks to require persons carrying on a credit business or credit service business that does not involve a credit consumer to submit a declaration together with any document or information as specified by the Commission.
+85. Clause 79 deals with the non-application of the requirements under Part V to persons set out in subclause (1) as such persons are currently regulated by the existing Regulatory and Supervisory Authorities. Subclause (2) also seeks to require persons carrying on a credit business or credit service business that does not involve a credit consumer to submit a declaration together with any document or information as specified by the Commission.
 
 ## Part VI
 

@@ -42,17 +42,51 @@ Akta 452 Akta Kumpulan Wang Simpanan Pekerja 1991, termasuk sesuatu kumpulan wan
 
 ' "Skim Kumpulan Wang Simpanan Pekerja" ertinya suatu skim yang di bawahnya seseorang pekerja terhenti menjadi layak diberi taraf pekerja berpencen atau terhenti menjadi pekerja berpencen dan sebagai ganti dikehendaki mencarum, bersama-sama dengan majikannya, kepada Kumpulan Wang Simpanan Pekerja.'.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Seksyen 6A Akta ibu adalah dipinda dengan seksyen 6A. memotong subseksyen (7).
+3. Seksyen 6A Akta ibu adalah dipinda dengan
 
-Seksyen baru
+<!-- marginal: seksyen 6A. -->
 
-4. Akta ibu adalah dipinda dengan memasukkan selepas 6A, 6C dan 6D. seksyen 6A seksyen yang berikut:
+memotong subseksyen (7).
 
-Pekerja 6B. (1) Seseorang pekerja— berpencen boleh
+<!-- marginal: Seksyen baru -->
 
-(a) yang telah diberi taraf pekerja memilih berpencen di bawah seksyen 6 atau Skim Kumpulan disifatkan menjadi pekerja berpencen di Wang Simpanan bawah perenggan ( a ), (b) atau (c) Pekerja. seksyen 7; atau
+4. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: 6A, 6C dan 6D. -->
+
+seksyen 6A seksyen yang berikut:
+
+<!-- marginal: Pekerja -->
+
+6B. (1) Seseorang pekerja—
+
+<!-- marginal: berpencen -->
+
+<!-- marginal: boleh -->
+
+(a) yang telah diberi taraf pekerja
+
+<!-- marginal: memilih -->
+
+berpencen di bawah seksyen 6 atau
+
+<!-- marginal: Skim -->
+
+<!-- marginal: Kumpulan -->
+
+disifatkan menjadi pekerja berpencen di
+
+<!-- marginal: Wang -->
+
+<!-- marginal: Simpanan -->
+
+bawah perenggan ( a ), (b) atau (c)
+
+<!-- marginal: Pekerja. -->
+
+seksyen 7; atau
 
 (b) yang telah dilantik sebelum 12hb April 1991 dan belum diberi taraf pekerja berpencen,
 
@@ -72,9 +106,57 @@ boleh memilih Skim Kumpulan Wang Simpanan Pekerja.
 
 (6) Subseksyen (5) dan (6) seksyen 6A dan seksyen 6C dan 6D hendaklah terpakai bagi seseorang pekerja yang memilih Skim Kumpulan Wang Simpanan Pekerja di bawah seksyen ini.
 
-Caruman ke- 6C. Seseorang majikan hendaklah membuat belakangan caruman, berkenaan dengan setiap pekerja kepada Kumpulan berpencen yang opsyennya telah mu!a Wang berkuatkuasa, kepada Kumpulan Wang Simpanan Simpanan Pekerja pada kadar tujuh belas Pekerja. peratus setengah daripada gaji bulanan pekerja itu bagi setiap bulan dalam tempoh yang bermula pada tarikh pekerja itu menjadi pekerja berpencen di bawah seksyen 6 atau seksyen 7 dan berakhir pada tarikh dia terhenti menjadi pekerja berpencen di bawah seksyen 6B.
+<!-- marginal: Caruman ke- -->
 
-Majikan 6D. Bagi maksud Akta ini, adalah sah bagi boleh me- seseorang majikan menawarkan kepada nawarkan Skim pekerjanya opsyen untuk memilih Skim Kumpulan Kumpulan Wang Simpanan Pekerja di bawah Wang seksyen 6B.". Simpanan Pekerja.
+6C. Seseorang majikan hendaklah membuat
+
+<!-- marginal: belakangan -->
+
+caruman, berkenaan dengan setiap pekerja
+
+<!-- marginal: kepada -->
+
+<!-- marginal: Kumpulan -->
+
+berpencen yang opsyennya telah mu!a
+
+<!-- marginal: Wang -->
+
+berkuatkuasa, kepada Kumpulan Wang
+
+<!-- marginal: Simpanan -->
+
+Simpanan Pekerja pada kadar tujuh belas
+
+<!-- marginal: Pekerja. -->
+
+peratus setengah daripada gaji bulanan pekerja itu bagi setiap bulan dalam tempoh yang bermula pada tarikh pekerja itu menjadi pekerja berpencen di bawah seksyen 6 atau seksyen 7 dan berakhir pada tarikh dia terhenti menjadi pekerja berpencen di bawah seksyen 6B.
+
+<!-- marginal: Majikan -->
+
+6D. Bagi maksud Akta ini, adalah sah bagi
+
+<!-- marginal: boleh me- -->
+
+seseorang majikan menawarkan kepada
+
+<!-- marginal: nawarkan -->
+
+<!-- marginal: Skim -->
+
+pekerjanya opsyen untuk memilih Skim
+
+<!-- marginal: Kumpulan -->
+
+Kumpulan Wang Simpanan Pekerja di bawah
+
+<!-- marginal: Wang -->
+
+seksyen 6B.".
+
+<!-- marginal: Simpanan -->
+
+<!-- marginal: Pekerja. -->
 
 <!-- page 4 -->
 

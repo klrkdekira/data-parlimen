@@ -62,15 +62,21 @@ the provision, unless the memorandum itself prohibits the alteration or deletion
 
 (1B) Nothing in subsection (1A) permits the alteration or deletion of a provision of the memorandum that relates to rights to which only members included in a particular class of members are entitled.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Seksyen 37 Akta ibu adalah dipinda dengan seksyen 37. memasukkan selepas subseksyen (2) subseksyen yang berikut:
+4. Seksyen 37 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 37. -->
+
+memasukkan selepas subseksyen (2) subseksyen yang berikut:
 
 " (2A) Nothing in this Division and Division 4 of this Part shall apply to an offer or invitation in respect of shares or debentures for sale to the public where the offer or invitation relates to shares or debentures that have previously been issued and the shares or debentures are of a class that are listed for quotation on a stock exchange.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-5. Subseksyen 38(lB )Akta ibu adalah dipinda— seksyen 38.
+5. Subseksyen 38(lB )Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 38. -->
 
 (a) dengan memasukkan perkataan "or" di hujung perenggan (a);
 
@@ -78,7 +84,13 @@ Pindaan
 
 (c) dengan memotong perenggan (c).
 
-6. Akta ibu adalah dipinda dengan memasukkan selepas baru 39B. seksyen 39A seksyen yang berikut:
+<!-- marginal: Seksyen -->
+
+6. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 39B. -->
+
+seksyen 39A seksyen yang berikut:
 
 39B. (1) Without prejudice to subsection 37(2), "Relief from the Registrar may, on the application in writing require- by any person referred to under subsection 37(1), ments as make an order relieving him or approving any to form and content of a variation from the requirements of this Act prospectus. relating to the form and content of a prospectus.
 
@@ -118,23 +130,31 @@ Pindaan
 
 <!-- page 4 -->
 
-(ii) all material contracts referred
-
-<!-- marginal: to -->
-
-<!-- marginal: in -->
-
-<!-- marginal: the -->
-
-prospectus and, in the case of such a contract not reduced into writing, a memorandum giving full particulars thereof,
+(ii) all material contracts referred to in the prospectus and, in the case of such a contract not reduced into writing, a memorandum giving full particulars thereof,
 
 verified as prescribed, to be deposited within three days after the registration of the prospectus at the registered office of the corporation and if it has no registered office in Malaysia, at the address in Malaysia specified in the prospectus; and
 
 (b) keep each such copy for a period of at least six months after the registration of the prospectus for inspection by any person without charge.".
 
-8. Akta ibu adalah dipinda dengan memasukkan selepas baru 42A. seksyen 42 seksyen yang berikut:
+<!-- marginal: Seksyen -->
 
-"Supple- 42A. (1) If, after the registration of a mental prospectus, but before its issue, the person who prospectus. lodged the prospectus became aware that—
+8. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 42A. -->
+
+seksyen 42 seksyen yang berikut:
+
+<!-- marginal: "Supple- -->
+
+42A. (1) If, after the registration of a
+
+<!-- marginal: mental -->
+
+prospectus, but before its issue, the person who
+
+<!-- marginal: prospectus. -->
+
+lodged the prospectus became aware that—
 
 (a) a significant new matter has arisen being a matter, the information of which is required by this Act or by any requirements or guidelines of any authority, to be disclosed in a prospectus;
 
@@ -150,11 +170,7 @@ the person shall lodge with the Registrar a supplemental prospectus that contain
 
 (2) A supplemental prospectus shall clearly identify the prospectus to which it relates and shall contain a statement in bold or coloured print that it is a supplemental prospectus to be read in conjunction with the prospectus.
 
-(3) A supplemental prospectus shall be deemed to be part of the prospectus to which it relates and all written laws and rules of law as to the contents of prospectuses and to liability in respect of statements and non-disclosures in prospectuses or otherwise relating
-
-<!-- marginal: to -->
-
-prospectuses, shall apply and have effect accordingly.
+(3) A supplemental prospectus shall be deemed to be part of the prospectus to which it relates and all written laws and rules of law as to the contents of prospectuses and to liability in respect of statements and non-disclosures in prospectuses or otherwise relating to prospectuses, shall apply and have effect accordingly.
 
 (4) Where a supplemental prospectus has been lodged with the Registrar pursuant to subsection (1), every copy of the prospectus shall be issued, accompanied by a copy of the supplemental prospectus.
 
@@ -166,11 +182,9 @@ prospectuses, shall apply and have effect accordingly.
 
 ## RANG UNDANG-UNDANG
 
-(b) the prospectus relates to an invitation or offer to the general public and a copy of the supplemental prospectus
+(b) the prospectus relates to an invitation or offer to the general public and a copy of the supplemental prospectus is advertised in every newspaper which originally advertised the invitation or offer or calling attention to the invitation or offer in compliance with subsection
 
-<!-- marginal: is -->
-
-advertised in every newspaper which originally advertised the invitation or offer or calling attention to the invitation or offer in compliance with subsection (6).
+(6).
 
 (6) For the purpose of subsection (5), a notice shall—
 
@@ -202,7 +216,17 @@ Penalty: Imprisonment for five years or one hundred thousand ringgit or both.".
 
 seksyen 47 seksyen yang berikut:
 
-"Power of 47A. (1) Subject to subsection (2) the Minister Minister to may, on the application in writing by any person exempt. interested and subject to the recommendation of the Registrar, by order declare that Division 1 and Division 4 of this Part shall not apply to any person making an offer of shares or debentures to the public, either unconditionally or subject to such terms and conditions as the Minister thinks fit to impose.
+<!-- marginal: "Power of -->
+
+47A. (1) Subject to subsection (2) the Minister
+
+<!-- marginal: Minister to -->
+
+may, on the application in writing by any person
+
+<!-- marginal: exempt. -->
+
+interested and subject to the recommendation of the Registrar, by order declare that Division 1 and Division 4 of this Part shall not apply to any person making an offer of shares or debentures to the public, either unconditionally or subject to such terms and conditions as the Minister thinks fit to impose.
 
 (2) Recommendation shall not be made by the Registrar to the Minister unless he is of the opinion that circumstances exist whereby—
 
@@ -210,7 +234,13 @@ seksyen 47 seksyen yang berikut:
 
 (b) it would not be prejudicial to the public interest if a prospectus were dispensed with.
 
-Exempted 47B. (1) Nothing in Division 1 and Division offers. 4 of this Part shall apply to an offer of shares or debentures, whether or not they have been previously issued, made to—
+<!-- marginal: Exempted -->
+
+47B. (1) Nothing in Division 1 and Division
+
+<!-- marginal: offers. -->
+
+4 of this Part shall apply to an offer of shares or debentures, whether or not they have been previously issued, made to—
 
 (a) a prescribed corporation;
 
@@ -222,13 +252,21 @@ Exempted 47B. (1) Nothing in Division 1 and Division offers. 4 of this Part shal
 
 <!-- page 8 -->
 
-8
+<!-- marginal: 8 -->
 
 ## RANG UNDANG-UNDANG
 
-(e) a pension fund approved by the Director General of Inland Revenue under section Act 53. 150 of the Income Tax Act 1967;
+(e) a pension fund approved by the Director General of Inland Revenue under section
 
-(f) a unit trust scheme as defined under Act 280. the Securities Industry Act 1983;
+<!-- marginal: Act 53. -->
+
+150 of the Income Tax Act 1967;
+
+(f) a unit trust scheme as defined under
+
+<!-- marginal: Act 280. -->
+
+the Securities Industry Act 1983;
 
 (g) a person licensed as a dealer or investment adviser under the Securities Industry Act 1983;
 
@@ -298,29 +336,53 @@ acquisition of shares or assets by the company and members of the company have b
 
 (b) the copy of the statement has been advertised in a national language and an English language newspaper circulating generally throughout Malaysia.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-13. Subseksyen 164(8) Akta ibu adalah dipinda dengan seksyen 164. menggantikan perkataan "Yang di-Pertuan Agong" dengan perkataan "Minister".
+13. Subseksyen 164(8) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 164. -->
 
-14. Seksyen 194 Akta ibu adalah dipinda dalam takrif seksyen 194. "declared company" dengan menggantikan perkataan "Yang di-Pertuan Agong". dengan perkataan "Minister".
+menggantikan perkataan "Yang di-Pertuan Agong" dengan perkataan "Minister".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-15. Seksyen 195 Akta ibu adalah dipinda dengan seksyen 195. menggantikan perkataan "Yang di-Pertuan Agong" dengan perkataan "Minister".
+14. Seksyen 194 Akta ibu adalah dipinda dalam takrif
 
-Pindaan
+<!-- marginal: seksyen 194. -->
 
-16. Seksyen 210 Akta ibu adalah dipinda dengan seksyen 210. menggantikan perkataan "Yang di-Pertuan Agong" di mana-mana jua terdapat dengan perkataan "Minister".
+"declared company" dengan menggantikan perkataan "Yang di-Pertuan Agong". dengan perkataan "Minister".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-17. Seksyen 319 Akta ibu adalah dipinda dengan seksyen 319. menggantikan perkataan "Yang di-Pertuan Agong" di mana-mana jua terdapat dengan perkataan "Minister".
+15. Seksyen 195 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 195. -->
 
-18. Perenggan 324(b) Akta ibu adalah dipinda dengan seksyen 324. menggantikan perkataan "Yang di-Pertuan Agong" dengan perkataan "Minister".
+menggantikan perkataan "Yang di-Pertuan Agong" dengan perkataan "Minister".
+
+<!-- marginal: Pindaan -->
+
+16. Seksyen 210 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 210. -->
+
+menggantikan perkataan "Yang di-Pertuan Agong" di mana-mana jua terdapat dengan perkataan "Minister".
+
+<!-- marginal: Pindaan -->
+
+17. Seksyen 319 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 319. -->
+
+menggantikan perkataan "Yang di-Pertuan Agong" di mana-mana jua terdapat dengan perkataan "Minister".
+
+<!-- marginal: Pindaan -->
+
+18. Perenggan 324(b) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 324. -->
+
+menggantikan perkataan "Yang di-Pertuan Agong" dengan perkataan "Minister".
 
 <!-- page 11 -->
 

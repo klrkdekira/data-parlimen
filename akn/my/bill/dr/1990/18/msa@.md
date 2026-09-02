@@ -54,7 +54,13 @@ selepas sahaja perkataan-perkataan "chukai jualan,", perkataan-perkataan "atau m
 
 <!-- page 2 -->
 
-5. Akta ibu adalah dipinda dengan menggantikan seksyen 17 Penggantian seksyen 17. dengan yang berikut:
+5. Akta ibu adalah dipinda dengan menggantikan seksyen 17
+
+<!-- marginal: Penggantian -->
+
+<!-- marginal: seksyen 17. -->
+
+dengan yang berikut:
 
 "Invois, 17. (1) Tiap-tiap orang kena cukai yang menjual apa-apa barang kena cukai hendaklah mengeluarkan suatu invois dalam bahasa kebangsaan atau bahasa Inggeris kepada pembeli berkenaan dengan urusan itu, dan hendaklah menyatakan di dalamnya secara berasingan jumlah cukai jualan yang kena dibayar dan harga barang-barang itu telah dijual.
 
@@ -66,7 +72,15 @@ selepas sahaja perkataan-perkataan "chukai jualan,", perkataan-perkataan "atau m
 
 (3) Jumlah cukai jualan yang kena dibayar boleh didapatkan kembali oleh orang kena cukai itu daripada pembeli sebagai tambahan kepada harga dan apa-apa jumlah lain yang kena dibayar oleh pembeli itu berkenaan dengan barang-barang itu.".
 
-Pindaan 6. Seksyen 30 Akta ibu adalah dipinda dengan memasukkan, seksyen 30. selepas sahaja subseksyen (1), subseksyen baru (1A), (!B) dan (1C) yang berikut:
+<!-- marginal: Pindaan -->
+
+6. Seksyen 30 Akta ibu adalah dipinda dengan memasukkan,
+
+<!-- marginal: seksyen 30. -->
+
+selepas sahaja subseksyen (1), subseksyen baru (1A), (!B) dan
+
+(1C) yang berikut:
 
 "(1A) Ketua Pengarah boleh membenarkan cukai jualan atau wang lain atau kekurangan, atau pemulangan balik yang disebutkan di dalam subseksyen (1) dibayar dengan ansuran dalam amaun dan pada tarikh-tarikh yang dia boleh tentukan; dan, tertakluk kepada sub- seksyen (IB), jika amaun cukai jualan itu dibenarkan dibayar dengan ansuran di bawah subseksyen ini, perenggan (b) seksyen 24 hendaklah tidak terpakai kepada amaun tersebut mulai dari tarikh kebenaran itu.
 
@@ -86,9 +100,7 @@ masanya untuk bayaran baki amaun yang kena dibayar makakesemuaamaunyangtertungga
 
 dengan yang berikut:
 
-"Pulangan
-
-32. Adalah sahbagi Ketua Pengarah Jika dibuktikan cukai jualan sehingga dia berpuas hati bahawa apa-apa wang atau penalti yang terlebih telah terlebih bayar atau tersilap bayar sebagai bayar atau cukai jualan atau penalti di bawah Akta ini, tersilap bayar. memerintahkan pembayaran balik wang yang terlebih bayar atau tersilap bayar itu:
+"Pulangan 32. Adalah sahbagi Ketua Pengarah Jika dibuktikan cukai jualan sehingga dia berpuas hati bahawa apa-apa wang atau penalti yang terlebih telah terlebih bayar atau tersilap bayar sebagai bayar atau cukai jualan atau penalti di bawah Akta ini, tersilap bayar. memerintahkan pembayaran balik wang yang terlebih bayar atau tersilap bayar itu:
 
 Dengan syarat bahawa tiada pembayaran balik sedemikian boleh dibenarkan melainkan jika suatu tuntutan berkenaan dengannya dibuat dalam borang yang ditetapkan dalam tempoh satu tahun selepas bayaran terlebih atau tersilap itu dibuat.".
 

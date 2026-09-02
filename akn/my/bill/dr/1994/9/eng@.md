@@ -22,11 +22,7 @@ Parliament assembled, and by the authority of the same, as follows:
 
 (b) by substituting for the long title the following long title:
 
-"An Act to provide for the establishment of two separate funds to be known as Tabung Angkatan Tentera and Tabung Bekas Perajurit, the management thereof and matters
-
-<!-- marginal: connected -->
-
-therewith.";
+"An Act to provide for the establishment of two separate funds to be known as Tabung Angkatan Tentera and Tabung Bekas Perajurit, the management thereof and matters connected therewith.";
 
 <!-- page 2 -->
 
@@ -82,7 +78,11 @@ L (1) The change of name of this Act shall not—
 
 ## BILL
 
-(c) administrative expenses including defraying the expenditure incurred by the Lembaga or any other body charged with the responsibility of undertaking the activities, programmes or benefits mentioned in paragraphs (a) and (b); and
+(c) administrative expenses
+
+<!-- marginal: including -->
+
+defraying the expenditure incurred by the Lembaga or any other body charged with the responsibility of undertaking the activities, programmes or benefits mentioned in paragraphs (a) and (b); and
 
 (d) other expenses incidental to the manage- ment of the Tabung Bekas Perajurit.
 

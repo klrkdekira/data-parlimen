@@ -4,25 +4,45 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation
 
-## Part II
+## PART II
 
 ## THE MALAYSIAN DENTAL COUNCIL
 
-3. Establishment of the Council 4. Functions of the Council 5. Powers of the Council 6. Membership of the Council 7. Power of Minister to appoint members of the Council 8. Disqualification from appointment, nomination or election 9. Revocation and resignation of members of the Council 10. Temporary exercise of functions of the President 11. Secretary to the Council 12. Committees of the Council 13. Allowances for members of the Council, etc. 14. Appointment of employees of the Council
+3. Establishment of the Council 4. Functions of the Council 5. Powers of the Council 6. Membership of the Council 7. Power of Minister to appoint members of the Council 8. Disqualification from appointment, nomination or election 9. Revocation and resignation of members of the Council
 
-## Part III
+10. Temporary exercise of functions of the President
+
+11. Secretary to the Council
+
+12. Committees of the Council
+
+13. Allowances for members of the Council, etc.
+
+14. Appointment of employees of the Council
+
+## PART III
 
 ## THE MALAYSIAN DENTAL THERAPISTS BOARD
 
 15. Establishment of the Board
 
-16. Functions of the Board 17. Powers of the Board 18. Membership of the Board 19. Disqualification from nomination and appointment 20. Revocation and resignation of members of the Board 21. Secretary to the Board
+16. Functions of the Board
+
+17. Powers of the Board
+
+18. Membership of the Board
+
+19. Disqualification from nomination and appointment
+
+20. Revocation and resignation of members of the Board
+
+21. Secretary to the Board
 
 <!-- page 5 -->
 
@@ -30,7 +50,7 @@
 
 23. Allowances for members of the Board, etc.
 
-## Part IV
+## PART IV
 
 ## REGISTRATION OF PRACTITIONER
 
@@ -90,21 +110,61 @@ Practising Certificate
 
 General
 
-43. Practising as dental therapist 44. Notification of change in address 45. Service of notice or correspondence 46. Signing of dental sick certificates and other documents 47. Community service for dental surgeon 48. Dental bodies corporate and companies 49. Exemption of dental surgeon on ships 50. Carrying out dental procedures
+43. Practising as dental therapist
 
-## Part V
+44. Notification of change in address
+
+45. Service of notice or correspondence
+
+46. Signing of dental sick certificates and other documents
+
+47. Community service for dental surgeon
+
+48. Dental bodies corporate and companies
+
+49. Exemption of dental surgeon on ships
+
+50. Carrying out dental procedures
+
+## PART V
 
 ## DISCIPLINARY PROCEEDINGS
 
-51. Disciplinary authority 52. Complaints Committee
+51. Disciplinary authority
 
-53. Complaints or information against practitioner 54. Classification of complaints or information 55. Preliminary Investigation Committee 56. Disciplinary Committee 57. Dismissal of complaints 58. Disciplinary punishments 59. Certificate to be returned 60. Appeal 61. Reinstatement of name in Register
+52. Complaints Committee
 
-## Part VI
+53. Complaints or information against practitioner
+
+54. Classification of complaints or information
+
+55. Preliminary Investigation Committee
+
+56. Disciplinary Committee
+
+57. Dismissal of complaints
+
+58. Disciplinary punishments
+
+59. Certificate to be returned
+
+60. Appeal
+
+61. Reinstatement of name in Register
+
+## PART VI
 
 ## OFFENCES
 
-62. Prohibition of practice of dentistry by unregistered persons 63. Falsely personating as a practitioner 64. Falsely describing vocation 65. Fraudulent registration 66. Offences relating to practising certificate
+62. Prohibition of practice of dentistry by unregistered persons
+
+63. Falsely personating as a practitioner
+
+64. Falsely describing vocation
+
+65. Fraudulent registration
+
+66. Offences relating to practising certificate
 
 <!-- page 7 -->
 
@@ -114,7 +174,7 @@ General
 
 69. Covering
 
-## Part VII
+## PART VII
 
 ## ENFORCEMENT
 
@@ -170,23 +230,45 @@ General
 
 <!-- page 8 -->
 
-## Part IX
+## PART IX
 
 ## REPEAL, SAVINGS AND TRANSITIONAL
 
-93. Repeal and dissolution 94. Transfer of powers, etc. 95. Existing contracts 96. Membership of dissolved Council 97. Savings for practising certificate 98. Savings for register 99. Continuance of pending applications, etc. 100. Continuance of civil and criminal proceedings 101. Training 102. Dental school 103. Reference in law or document to dissolved Council 104. Reference to the repealed Act
+93. Repeal and dissolution
 
-## First schedule
+94. Transfer of powers, etc.
 
-## second schedule
+95. Existing contracts
 
-## third schedule
+96. Membership of dissolved Council
 
-## Fourth schedule
+97. Savings for practising certificate
 
-## FiFth schedule
+98. Savings for register
 
-## sixth schedule
+99. Continuance of pending applications, etc.
+
+100. Continuance of civil and criminal proceedings
+
+101. Training
+
+102. Dental school
+
+103. Reference in law or document to dissolved Council
+
+104. Reference to the repealed Act
+
+## FIRST SCHEDULE
+
+## SECOND SCHEDULE
+
+## THIRD SCHEDULE
+
+## FOURTH SCHEDULE
+
+## FIFTH SCHEDULE
+
+## SIXTH SCHEDULE
 
 <!-- page 10 -->
 
@@ -198,7 +280,7 @@ An Act to provide for the establishment of the Malaysian Dental Council and the 
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -292,7 +374,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “President” means the President of the Malaysian Dental Council.
 
-## Part II
+## PART II
 
 ## THE MALAYSIAN DENTAL COUNCIL
 
@@ -518,7 +600,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (3) A person shall not be eligible for employment as an employee of the Council if he, directly or indirectly, by himself or his partner, has any share or interest in any contract or proposed contract with, for or on behalf of the Council.
 
-## Part III
+## PART III
 
 ## THE MALAYSIAN DENTAL THERAPISTS BOARD
 
@@ -650,7 +732,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 26 -->
 
-## Part IV
+## PART IV
 
 ## REGISTRATION OF PRACTITIONER
 
@@ -1168,7 +1250,7 @@ shall obtain an approval in writing from the Dental Registrar prior to the comme
 
 (b) as a requirement of the Professional Qualifying Examination.
 
-## Part V
+## PART V
 
 ## DISCIPLINARY PROCEEDINGS
 
@@ -1362,7 +1444,7 @@ is in relation to a dental practitioner only or to a dental practitioner and a d
 
 61. Any practitioner whose name has been removed from the Dental Register or the Dental Therapists Register pursuant to an order of the Council or the Board under paragraph 58(1)(a) shall, if his appeal is allowed, be reinstated in the Dental Register or Dental Therapists Register and the Dental Registrar or the Dental Therapists Registrar shall issue a certificate of registration and a practising certificate to him.
 
-## Part VI
+## PART VI
 
 ## OFFENCES
 
@@ -1494,7 +1576,7 @@ commits an offence and shall, on conviction, be liable to a fine of not more tha
 
 <!-- page 60 -->
 
-## Part VII
+## PART VII
 
 ## ENFORCEMENT
 
@@ -1778,7 +1860,7 @@ commits an offence and shall, on conviction, be liable to a fine of not more tha
 
 <!-- page 72 -->
 
-## Part IX
+## PART IX
 
 ## REPEAL, SAVINGS AND TRANSITIONAL
 
@@ -1856,7 +1938,7 @@ commits an offence and shall, on conviction, be liable to a fine of not more tha
 
 104. Any reference to the repealed Act in any written law shall be construed as a reference to this Act and any reference to any specific provision of the repealed Act in any written law shall be construed as a reference to a provision of this Act which corresponds as nearly as may be to such specific provision.
 
-## First schedule
+## FIRST SCHEDULE
 
 [Subsections 6(6) and 18(6)]
 
@@ -2006,7 +2088,7 @@ shall, unless he sooner resigns or vacates his office or the appointment is revo
 
 12. The office of the Council and the Board shall be at such place as the Director General may determine.
 
-## second schedule
+## SECOND SCHEDULE
 
 [Section 2, paragraphs 30(a) and 40(2)(b)]
 
@@ -2062,7 +2144,7 @@ Malaysia
 
 <!-- page 81 -->
 
-## third schedule
+## THIRD SCHEDULE
 
 [Paragraph 35(1)(b)]
 
@@ -2070,107 +2152,73 @@ Malaysia
 
 ## POST-BASIC DENTAL THERAPISTS
 
-Country Discipline Institution granting
+<!-- marginal: Country -->
 
-<!-- marginal: Qualification -->
+<!-- marginal: Discipline -->
 
-in which qualification
+Institution granting Qualification
 
-<!-- marginal: awarded -->
+<!-- marginal: in which -->
 
-qualification is granted
+qualification awarded
 
-Malaysia Orthodontics Institut Latihan
+<!-- marginal: qualification is -->
 
-<!-- marginal: Sijil Pos Basik -->
+<!-- marginal: granted -->
 
-Kementerian
+<!-- marginal: Malaysia -->
 
-<!-- marginal: Ortodontik -->
+<!-- marginal: Orthodontics -->
 
-Kesihatan Malaysia (Pergigian) Georgetown, Pulau Pinang
+Institut Latihan Sijil Pos Basik Kementerian Ortodontik Kesihatan Malaysia (Pergigian) Georgetown, Pulau Pinang
 
-Orthodontics Kolej Latihan
+<!-- marginal: Orthodontics -->
 
-<!-- marginal: Sijil Pos Basik -->
+Kolej Latihan Sijil Pos Basik Pergigian Malaysia Ortodontik Jururawat Pergigian
 
-Pergigian Malaysia
+<!-- marginal: Orthodontics -->
 
-<!-- marginal: Ortodontik -->
+Kolej Latihan Sijil Pos Basik Pergigian Malaysia Ortodontik
 
-<!-- marginal: Jururawat Pergigian -->
+<!-- marginal: Orthodontics -->
 
-Orthodontics Kolej Latihan
+Sekolah Latihan Sijil Pos Basik Pergigian Malaysia Ortodontik
 
-<!-- marginal: Sijil Pos Basik -->
+<!-- marginal: Oral Surgery -->
 
-Pergigian Malaysia
+Kolej Latihan Sijil Pos Basik Pergigian Malaysia Bedah Mulut Jururawat Pergigian
 
-<!-- marginal: Ortodontik -->
+<!-- marginal: Paediatric -->
 
-Orthodontics Sekolah Latihan
+Institut Latihan Sijil Pos Basik
 
-<!-- marginal: Sijil Pos Basik -->
+<!-- marginal: Dentistry -->
 
-Pergigian Malaysia
+Kementerian Pergigian Pediatrik Kesihatan Malaysia (Pergigian) Georgetown, Pulau Pinang
 
-<!-- marginal: Ortodontik -->
+<!-- marginal: Paediatric -->
 
-Oral Surgery Kolej Latihan
+Kolej Latihan Sijil Pos Basik
 
-<!-- marginal: Sijil Pos Basik -->
+<!-- marginal: Dentistry -->
 
-Pergigian Malaysia
+Pergigian Malaysia Pergigian Pediatrik
 
-<!-- marginal: Bedah Mulut -->
+<!-- marginal: Paediatric -->
 
-<!-- marginal: Jururawat Pergigian -->
+Sekolah Latihan Sijil Pos Basik
 
-Paediatric Institut Latihan
+<!-- marginal: Dentistry -->
 
-<!-- marginal: Sijil Pos Basik -->
+Pergigian Malaysia Pergigian Pediatrik
 
-Dentistry Kementerian
+<!-- marginal: Periodontics -->
 
-<!-- marginal: Pergigian Pediatrik -->
+Institut Latihan Sijil Pos Basik Kementerian Periodontik Kesihatan Malaysia (Pergigian) Georgetown, Pulau Pinang
 
-Kesihatan Malaysia (Pergigian) Georgetown, Pulau Pinang
+<!-- marginal: Periodontics -->
 
-Paediatric Kolej Latihan
-
-<!-- marginal: Sijil Pos Basik -->
-
-Dentistry Pergigian Malaysia
-
-<!-- marginal: Pergigian Pediatrik -->
-
-Paediatric Sekolah Latihan
-
-<!-- marginal: Sijil Pos Basik -->
-
-Dentistry Pergigian Malaysia
-
-<!-- marginal: Pergigian Pediatrik -->
-
-Periodontics Institut Latihan
-
-<!-- marginal: Sijil Pos Basik -->
-
-Kementerian
-
-<!-- marginal: Periodontik -->
-
-Kesihatan Malaysia (Pergigian) Georgetown, Pulau Pinang
-
-Periodontics Kolej Latihan
-
-<!-- marginal: Sijil Pos Basik -->
-
-Pergigian Malaysia
-
-<!-- marginal: Pengkhususan -->
-
-<!-- marginal: Periodontik -->
+Kolej Latihan Sijil Pos Basik Pergigian Malaysia Pengkhususan Periodontik
 
 <!-- page 82 -->
 
@@ -2218,7 +2266,7 @@ Periodontics Kolej Latihan
 
 <!-- marginal: Periodontik -->
 
-## Fourth schedule
+## FOURTH SCHEDULE
 
 [Section 81]
 
@@ -2344,7 +2392,7 @@ practising certificate
 
 <!-- marginal: 250 -->
 
-## FiFth schedule
+## FIFTH SCHEDULE
 
 [Subsections 43(3) and (4), subsection 50(2) and paragraphs 51(2)(g), (h), (i) and (j)]
 
@@ -2376,7 +2424,7 @@ practising certificate
 
 (g) supra-gingival scaling and polishing.
 
-## sixth schedule
+## SIXTH SCHEDULE
 
 [Subsection 43(4), subsection 50(2) and paragraphs 51(2)(i) and (j)]
 
@@ -2456,7 +2504,7 @@ The proposed Dental Act 2017 (“the proposed Act”) seeks to establish the Mal
 
 <!-- page 86 -->
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act contains preliminary matters.
 
@@ -2464,7 +2512,7 @@ Clause 1 contains the short title and seeks to empower the Minister to appoint t
 
 Clause 2 contains the definitions of certain expression used in the proposed Act.
 
-## Part II
+## PART II
 
 3. Part II of the proposed Act provides for the establishment of the Malaysian Dental Council.
 
@@ -2494,7 +2542,7 @@ Clause 13 seeks to provide for the allowances or expenses for members of the Cou
 
 Clause 14 contains provisions on the appointment of employees of the Council for carrying out the purposes of this proposed Act.
 
-## Part III
+## PART III
 
 4. Part III of the proposed Act provides for the establishment of the Malaysian Dental Therapist Board.
 
@@ -2518,11 +2566,11 @@ Clause 23 seeks to provide for the allowances for members of the Board or commit
 
 <!-- page 88 -->
 
-## Part IV
+## PART IV
 
 5. Part IV of the proposed Act deals with the registration of practitioner.
 
-## Chapter 1 contains provision relating to register.
+Chapter 1 contains provision relating to register.
 
 Clause 24 seeks to provide that the Principal Director shall be the Dental Registrar and the Head of Profession of Dental Therapists shall be the Dental Therapists Registrar.
 
@@ -2534,7 +2582,7 @@ Clause 27 seeks to empower the Dental Registrar or the Dental Therapist Registra
 
 Clause 28 seeks to restore name in the Register of a practitioner whose registration has been removed under paragraph 27(1)(b), (c) or (d).
 
-## Chapter 2 contains provision relating to registration.
+Chapter 2 contains provision relating to registration.
 
 Clause 29 seeks to provide for the qualifications for registration as a dental surgeon.
 
@@ -2554,7 +2602,7 @@ Clause 35 seeks to provide for the application for registration as a post-basic 
 
 Clause 36 seeks to provide that any person may apply for conditional registration if such registration is required to fulfill the conditions for registration or employment outside Malaysia provided that the person holds a qualification granted by an accredited local training institution, he has been certified to have fulfilled the requirements of the Professional Qualifying Examination and he has proven to the satisfaction of the Dental Registrar that he is a fit and proper person and is of good character.
 
-## Chapter 3 contains provisions relating to practising certificate.
+Chapter 3 contains provisions relating to practising certificate.
 
 Clause 37 seeks to provide that any person who practices dentistry is required to have a valid practising certificate.
 
@@ -2570,9 +2618,7 @@ Clause 41 seeks to provide that a dental practitioner or a dental therapist who 
 
 Clause 42 seeks to provide that a practitioner shall display his certificate of registration and the current practising certificate in a conspicuous place in which he practices dentistry.
 
-## Chapter 4 contains provision relating to general matters pertaining to
-
-practising as dental therapist, notification of change in address, the service of notice or correspondence, etc.
+Chapter 4 contains provision relating to general matters pertaining to practising as dental therapist, notification of change in address, the service of notice or correspondence, etc.
 
 Clause 43 seeks to provide that a dental therapist in the private sector shall practise dentistry only under a direct supervision of a dental surgeon.
 
@@ -2592,7 +2638,7 @@ Clause 50 seeks to provide that a person who is pursuing a course of study in de
 
 <!-- page 91 -->
 
-## Part V
+## PART V
 
 6. Part V of the proposed Act deals with the disciplinary proceedings of the Council and the Board.
 
@@ -2620,7 +2666,7 @@ Clause 61 seeks to provide that any person whose name has been removed from the 
 
 <!-- page 92 -->
 
-## Part VI
+## PART VI
 
 7. Part VI of the proposed Act contains provisions relating to offences.
 
@@ -2640,7 +2686,7 @@ Clause 68 seeks to provide for the offence of employing a person who is not a pr
 
 Clause 69 seeks to provide for the offence of covering of an unregistered person.
 
-## Part VII
+## PART VII
 
 8. Part VII of the proposed Act contains provisions relating to enforcement.
 
@@ -2698,7 +2744,7 @@ Clause 91 seeks to empower the Minister, after consultation with the Council, am
 
 Clause 92 seeks to empower the Council, with the approval of the Minister, to make regulations under the proposed Act.
 
-## Part IX
+## PART IX
 
 10. Part IX of the proposed Act deals with repeal, savings and transitional provisions.
 

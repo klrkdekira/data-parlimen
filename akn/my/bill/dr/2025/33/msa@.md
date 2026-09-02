@@ -66,9 +66,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### “Elaun bantuan mobiliti
 
-### 37a.
-
-Jika tuntutan bagi faedah berkenaan dengan orang berinsurans telah diluluskan di bawah seksyen 33 dan orang berinsurans itu menerima suatu tawaran pekerjaan yang baharu dan—
+37A. Jika tuntutan bagi faedah berkenaan dengan orang berinsurans telah diluluskan di bawah seksyen 33 dan orang berinsurans itu menerima suatu tawaran pekerjaan yang baharu dan—
 
 (a) telah melapor diri untuk bekerja dalam tempoh tidak melebihi dua belas bulan selepas menerima elaun mencari pekerjaan yang terakhir; atau
 
@@ -100,7 +98,7 @@ orang berinsurans itu berhak mendapat elaun bantuan mobiliti pada kadar sebagaim
 
 11. Akta ibu dipinda dengan memasukkan selepas seksyen 45 bahagian yang berikut:
 
-“bahagian VIa
+## “BAHAGIAN VIA
 
 ## PERKHIDMATAN PEKERJAAN
 
@@ -146,7 +144,7 @@ orang berinsurans itu berhak mendapat elaun bantuan mobiliti pada kadar sebagaim
 
 (4) Mana-mana majikan yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi sepuluh ribu ringgit.
 
-bahagian VIb
+## BAHAGIAN VIB
 
 ## PASARAN BURUH YANG AKTIF
 

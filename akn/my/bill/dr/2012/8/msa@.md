@@ -6,7 +6,9 @@
 
 bernama
 
-Suatu Akta untuk meminda Akta Universiti dan Kolej Universiti 1971. [ ]
+Suatu Akta untuk meminda Akta Universiti dan Kolej Universiti
+
+1971. [ ]
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 

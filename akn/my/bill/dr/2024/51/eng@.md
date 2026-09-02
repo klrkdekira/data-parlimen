@@ -20,6 +20,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (a) in the definition of “certifying agency”, by inserting after the words “section 186” the words “or 230a”;
 
+<!-- marginal: WJW24/1129 BI.indd 1 -->
+
 <!-- marginal: 27/11/2024 10:30 PM -->
 
 <!-- page 2 -->
@@ -45,6 +47,8 @@ ENACTED by the Parliament of Malaysia as follows:
 (f) by inserting after the definition of “content applications service” the following definition:
 
 ‘ “content applications service provider” means a person who provides a content applications service;’;
+
+<!-- marginal: WJW24/1129 BI.indd 2 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -79,6 +83,8 @@ ENACTED by the Parliament of Malaysia as follows:
 (a) in subsection (1), by inserting after paragraph (h) the following paragraph:
 
 “(ha) the procedures and all matters related to unsolicited commercial electronic messages;”;
+
+<!-- marginal: WJW24/1129 BI.indd 3 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -142,6 +148,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 46a. (1) Notwithstanding sections 45 and 46, the Minister may dispense with the formality of registration under a class licence by making a declaration under section 13, and any person operating under the class licence shall be deemed to be registered under that class licence.
 
+<!-- marginal: WJW24/1129 BI.indd 5 -->
+
 <!-- marginal: 27/11/2024 10:30 PM -->
 
 <!-- page 6 -->
@@ -199,6 +207,8 @@ and
 (b) any relevant instrument under this Act; or
 
 (c) any relevant provisions of this Act or its subsidiary legislation.”; and
+
+<!-- marginal: WJW24/1129 BI.indd 7 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -268,6 +278,8 @@ and
 
 (i) by substituting for the word “directed” the word “instructed”;
 
+<!-- marginal: WJW24/1129 BI.indd 9 -->
+
 <!-- marginal: 27/11/2024 10:30 PM -->
 
 <!-- page 10 -->
@@ -294,6 +306,8 @@ and
 
 (4) The Commission may request the licensee or any other person providing services related to communications system to bear the cost of the conduct of an audit, as it deems necessary.
 
+<!-- marginal: WJW24/1129 BI.indd 10 -->
+
 <!-- marginal: 27/11/2024 10:30 PM -->
 
 <!-- page 11 -->
@@ -317,6 +331,8 @@ and
 (5) The licensee shall submit a copy of a report of such audit to the Commission within the time as specified by the Commission.
 
 (6) A licensee who fails to comply with this section commits an offence.”.
+
+<!-- marginal: WJW24/1129 BI.indd 11 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -377,6 +393,8 @@ in response to a written instruction issued by the Commission, commits an offenc
 ### Amendment of section 81
 
 26. Subsection 81(2) of the principal Act is amended by substituting for the words “charge (if any) to be decided” the words “fee, if any, as may be imposed”.
+
+<!-- marginal: WJW24/1129 BI.indd 13 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -446,6 +464,8 @@ in response to a written instruction issued by the Commission, commits an offenc
 
 (a) any matter which may be the subject matter of a voluntary industry code if the Commission is satisfied that the designated industry forum has not developed a satisfactory voluntary industry code or that the voluntary industry code is likely to fail or has failed, and will continue to fail; or
 
+<!-- marginal: WJW24/1129 BI.indd 15 -->
+
 <!-- marginal: 27/11/2024 10:30 PM -->
 
 <!-- page 16 -->
@@ -512,6 +532,8 @@ in response to a written instruction issued by the Commission, commits an offenc
 
 (a) in subsection (1), by substituting for the words “a court” the words “the High Court”; and
 
+<!-- marginal: WJW24/1129 BI.indd 17 -->
+
 <!-- marginal: 27/11/2024 10:30 PM -->
 
 <!-- page 18 -->
@@ -571,6 +593,8 @@ in response to a written instruction issued by the Commission, commits an offenc
 (b) any applicable condition of the class licence to which such licensee is subject.
 
 (5) Notwithstanding section 53, the Commission may impose a financial penalty not exceeding five hundred thousand ringgit on a licensee who fails to comply with a direction under subsection (4).”.
+
+<!-- marginal: WJW24/1129 BI.indd 19 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -639,6 +663,8 @@ be included in or removed from the access list, if it is satisfied that the acce
 “(b) pricing principles including rate methodologies;
 
 (c) operations and maintenance;
+
+<!-- marginal: WJW24/1129 BI.indd 21 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -710,6 +736,8 @@ be included in or removed from the access list, if it is satisfied that the acce
 
 60. Paragraph 177(d) of the principal Act is amended by deleting the words “/or” at the end of the paragraph.
 
+<!-- marginal: WJW24/1129 BI.indd 23 -->
+
 <!-- marginal: 27/11/2024 10:30 PM -->
 
 <!-- page 24 -->
@@ -775,6 +803,8 @@ be included in or removed from the access list, if it is satisfied that the acce
 ### Deletion of section 187
 
 66. The principal Act is amended by deleting section 187.
+
+<!-- marginal: WJW24/1129 BI.indd 25 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -846,6 +876,8 @@ be included in or removed from the access list, if it is satisfied that the acce
 
 (b) by substituting for the word “determine” the word “set”.
 
+<!-- marginal: WJW24/1129 BI.indd 27 -->
+
 <!-- marginal: 27/11/2024 10:30 PM -->
 
 <!-- page 28 -->
@@ -914,6 +946,8 @@ expressly authorizing the provision of the content applications service.”; and
 
 (5) Notwithstanding section 53, the Commission may impose a financial penalty not exceeding five hundred thousand ringgit on a licensee who fails to comply with a direction under subsection (4).”.
 
+<!-- marginal: WJW24/1129 BI.indd 29 -->
+
 <!-- marginal: 27/11/2024 10:30 PM -->
 
 <!-- page 30 -->
@@ -980,6 +1014,8 @@ expressly authorizing the provision of the content applications service.”; and
 
 (c) the content applications service provider has failed to comply with any instrument issued, made or given by the Minister or the Commission relating to content.”.
 
+<!-- marginal: WJW24/1129 BI.indd 31 -->
+
 <!-- marginal: 27/11/2024 10:31 PM -->
 
 <!-- page 32 -->
@@ -1044,6 +1080,8 @@ Network Security
 
 (3) For the purposes of this section, “network security risk” means any risk or threat, if exploited or not mitigated, could pose a significant risk of damage or disruption to the operation of any network facilities, network service or applications service.”.
 
+<!-- marginal: WJW24/1129 BI.indd 33 -->
+
 <!-- marginal: 27/11/2024 10:31 PM -->
 
 <!-- page 34 -->
@@ -1100,6 +1138,8 @@ Explanation 3 — Content that portrays private parts based on arts, information
 
 Explanation 4 — False content may include content or information which are untrue, confusing, incomplete or fabrication of non-existent matters. Content in the form of satire and parody or where it is clear that it is fictional, are not false.
 
+<!-- marginal: WJW24/1129 BI.indd 35 -->
+
 <!-- marginal: 27/11/2024 10:31 PM -->
 
 <!-- page 36 -->
@@ -1129,6 +1169,8 @@ Explanation 6 — Grossly offensive content may include content that contains ex
 (b) permits a network service or applications service under the person’s control to be used for an activity described in paragraph (a),
 
 commits an offence.
+
+<!-- marginal: WJW24/1129 BI.indd 36 -->
 
 <!-- marginal: 27/11/2024 10:31 PM -->
 
@@ -1160,6 +1202,8 @@ commits an offence.
 
 235. (1) A person who by any willful, dishonest or negligent act or omission, extends, tampers with, adjusts, alters, removes, destroys or damages any network facilities or any part of them commits an offence.
 
+<!-- marginal: WJW24/1129 BI.indd 37 -->
+
 <!-- marginal: 27/11/2024 10:31 PM -->
 
 <!-- page 38 -->
@@ -1189,6 +1233,8 @@ commits an offence.
 (ii) by inserting after the word “supplies” the words “, modifies”; and
 
 (iii) by inserting after the words “hire,” the word “distributes”;
+
+<!-- marginal: WJW24/1129 BI.indd 38 -->
 
 <!-- marginal: 27/11/2024 10:31 PM -->
 
@@ -1221,6 +1267,8 @@ commits an offence.
 (a) in subsection (1), by substituting for the words “operate, or provide, or use,” the words “operate, provide or use”; and
 
 (b) in subsection (3), by deleting the words “and/”.
+
+<!-- marginal: WJW24/1129 BI.indd 39 -->
 
 <!-- marginal: 27/11/2024 10:31 PM -->
 
@@ -1292,6 +1340,8 @@ commits an offence.
 
 (2) The Chairman of the Commission may, with the consent in writing of the Public Prosecutor compound any offence committed by any person under this Act prescribed to be a compoundable offence by making a written offer to the person suspected to have committed the offence to compound the offence upon payment to the Chairman of the Commission of a sum of money not exceeding fifty per centum of the amount of maximum fine to which the person would have been liable to if he had been convicted of the offence, within such time as may be specified in his written offer.
 
+<!-- marginal: WJW24/1129 BI.indd 41 -->
+
 <!-- marginal: 27/11/2024 10:31 PM -->
 
 <!-- page 42 -->
@@ -1315,6 +1365,8 @@ commits an offence.
 ### “Recovery of fees, etc.
 
 244a. Notwithstanding the provisions of any other written law, any fee, charge, rate, financial penalty or other amount payable under this Act or its subsidiary legislation may, without prejudice to any other remedy or sanction, be recoverable as a civil debt.”.
+
+<!-- marginal: WJW24/1129 BI.indd 42 -->
 
 <!-- marginal: 27/11/2024 10:31 PM -->
 
@@ -1350,6 +1402,8 @@ commits an offence.
 
 (a) by inserting after the words “computerized data” wherever appearing the words “and records”; and
 
+<!-- marginal: WJW24/1129 BI.indd 43 -->
+
 <!-- marginal: 27/11/2024 10:31 PM -->
 
 <!-- page 44 -->
@@ -1376,6 +1430,8 @@ commits an offence.
 
 (b) shall, as soon as practicable, serve a copy of the list of the equipments, instruments, materials, books, accounts, documents, goods, records or other things seized and the written notice of the seizure to the occupier of the premises which have been searched, or to his agent or servant at those premises.
 
+<!-- marginal: WJW24/1129 BI.indd 44 -->
+
 <!-- marginal: 27/11/2024 10:31 PM -->
 
 <!-- page 45 -->
@@ -1401,6 +1457,8 @@ commits an offence.
 111. Section 252 of the principal Act is amended—
 
 (a) in subsection (1), by substituting for the words “intercept or to listen to” the words “intercept, listen to, record or retain”;
+
+<!-- marginal: WJW24/1129 BI.indd 45 -->
 
 <!-- marginal: 27/11/2024 10:31 PM -->
 
@@ -1430,6 +1488,8 @@ commits an offence.
 
 (a) communications data is reasonably required for the purposes of an investigation; and
 
+<!-- marginal: WJW24/1129 BI.indd 46 -->
+
 <!-- marginal: 27/11/2024 10:31 PM -->
 
 <!-- page 47 -->
@@ -1453,6 +1513,8 @@ the police officer or authorized officer may, by written notice given to a perso
 (2) The person to whom the written notice is given under subsection (1)—
 
 (a) shall disclose such communications data in the manner specified in the written notice; and
+
+<!-- marginal: WJW24/1129 BI.indd 47 -->
 
 <!-- marginal: 27/11/2024 10:31 PM -->
 
@@ -1481,6 +1543,8 @@ the police officer or authorized officer may, by written notice given to a perso
 (e) destroys any thing to prevent the seizure or the securing of the thing,
 
 commits an offence and shall, on conviction, be liable to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding ten years or to both.”.
+
+<!-- marginal: WJW24/1129 BI.indd 48 -->
 
 <!-- marginal: 27/11/2024 10:31 PM -->
 
@@ -1515,6 +1579,8 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding o
 (a) by inserting after the word “criminal” the words “or civil”; and
 
 (b) by substituting for the words “section 263” the words “sections 230b and 263”.
+
+<!-- marginal: WJW24/1129 BI.indd 49 -->
 
 <!-- marginal: 27/11/2024 10:31 PM -->
 
@@ -1574,6 +1640,8 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding o
 
 (5) Any investigation or proceedings commenced or pending before the date of coming into operation of this Act shall, after the date of coming into operation of this Act, be continued as if the principal Act has not be amended by this Act.
 
+<!-- marginal: WJW24/1129 BI.indd 51 -->
+
 <!-- marginal: 27/11/2024 10:31 PM -->
 
 <!-- page 52 -->
@@ -1629,6 +1697,8 @@ Subclause 17(a) seeks to empower the Commission to extend the period to publish 
 Subclause 17(b) seeks to change the applicable instrument from a direction to a written instruction to facilitate enforcement.
 
 16. Clause 19 seeks to amend section 73 of Act 588 to clarify that the instrument to be used by the Commission is a written instruction, and not a direction under section 51 of Act 588.
+
+<!-- marginal: WJW24/1129 BI.indd 53 -->
 
 <!-- marginal: 27/11/2024 10:31 PM -->
 
@@ -1689,6 +1759,8 @@ Subclause 39(c) seeks to empower the Commission to extend the period to register
 32. Clause 40 seeks to amend section 113 of Act 588 to provide any withdrawal of an undertaking is subject to the approval of the Commission. Currently, a person may withdraw the undertaking only by notifying the Commission in writing.
 
 33. Clause 41 seeks to amend section 115 of Act 588 to clarify that the reference to Chapter 6 refers to Chapter 6 of Part V of Act 588.
+
+<!-- marginal: WJW24/1129 BI.indd 55 -->
 
 <!-- marginal: 27/11/2024 10:31 PM -->
 
@@ -1756,6 +1828,8 @@ The proposed subsection 180(5) seeks to empower the Commission to issue a direct
 
 The proposed subsection 180(6) seeks to empower the Commission to impose financial penalty for failure to comply with any direction issued under subsection 180(5) of Act 588.
 
+<!-- marginal: WJW24/1129 BI.indd 57 -->
+
 <!-- marginal: 27/11/2024 10:31 PM -->
 
 <!-- page 58 -->
@@ -1820,6 +1894,8 @@ Subclause 79(a) seeks to amend subsection 210(1) Act 588 to allow a person to ap
 
 Subclause 79(b) seeks to amend subsection 210(4) Act 588 to shorten the period for which opinions issued by the Commission are binding from three years to one year.
 
+<!-- marginal: WJW24/1129 BI.indd 59 -->
+
 <!-- marginal: 27/11/2024 10:31 PM -->
 
 <!-- page 60 -->
@@ -1879,6 +1955,8 @@ Subclause 95(c) seeks to amend subsection 236(3) of Act 588 to increase the pena
 Subclause 95(d) seeks to amend 236(4) of Act 588 to clarify the definition of “counterfeit access device”.
 
 76. Clause 96 seeks to introduce a new section 236a into Act 588 to provide for the right of private action for persons who have suffered loss as a result of the commission of the offence under section 235 or 236 of Act 588.
+
+<!-- marginal: WJW24/1129 BI.indd 61 -->
 
 <!-- marginal: 27/11/2024 10:31 PM -->
 
@@ -1943,6 +2021,8 @@ The proposed section 268b seeks to empower the Commission to specify the form an
 94. Clause 121 deals with the saving and transitional provisions.
 
 95. Other amendments not specifically dealt with in this Explanatory Statement are minor or consequential in nature.
+
+<!-- marginal: WJW24/1129 BI.indd 63 -->
 
 <!-- marginal: 27/11/2024 10:31 PM -->
 

@@ -12,25 +12,13 @@ D.R. 17/98
 
 ## PRELIMINARY
 
-1. Short title, application and commencement.
-
-2. Interpretation.
+1. Short title, application and commencement. 2. Interpretation.
 
 ## PART II
 
 ## THE CORPORATION
 
-3. The Corporation and its main objective.
-
-4. Powers of the Corporation.
-
-5. The Board.
-
-6. Application of the Corporation's Memorandum and Articles of Association.
-
-7. Disclosure of interest.
-
-8. Accounts.
+3. The Corporation and its main objective. 4. Powers of the Corporation. 5. The Board. 6. Application of the Corporation's Memorandum and Articles of Association. 7. Disclosure of interest. 8. Accounts.
 
 ## PART III
 
@@ -92,17 +80,7 @@ CJause
 
 27. Circumstances where Special Administrator not to be appointed.
 
-28. Duration of administration.
-
-29. Notification of appointment of Special Administrator.
-
-30. General powers of Special Administrator.
-
-31. General duties of Special Administrator.
-
-32. Special Administrator as affected person's agent.
-
-33. Officers of affected person to perform or exercise function with written approval.
+28. Duration of administration. 29. Notification of appointment of Special Administrator. 30. General powers of Special Administrator. 31. General duties of Special Administrator. 32. Special Administrator as affected person's agent. 33. Officers of affected person to perform or exercise function with written approval.
 
 34. Dealings with affected person's assets.
 
@@ -116,7 +94,41 @@ CJause
 
 <!-- page 3 -->
 
-39. Special Administrator's rights to assets of affected person. 40. Disclaimer. 41. Effect of appointment of Special Administrator. 42. Undue preference. 43. Vacation of office of receiver, etc. 44. Special Administrator to prepare proposal. 45. The Corporation to consider proposal. 46. Secured creditors meeting. 47. Implementation of proposal. 48. Modifications to the proposal. 49. Regulatory approval conditions. 50. Rejection or discontinuance of proposal. 51. Qualifications of Special Administrator. 52. Qualifications of Independent Advisor. 53. Two or more Special Administrators. 54. Report of misconduct. 55. Validity of transaction. 56. Extension of time.
+39. Special Administrator's rights to assets of affected person.
+
+40. Disclaimer.
+
+41. Effect of appointment of Special Administrator.
+
+42. Undue preference.
+
+43. Vacation of office of receiver, etc.
+
+44. Special Administrator to prepare proposal.
+
+45. The Corporation to consider proposal.
+
+46. Secured creditors meeting.
+
+47. Implementation of proposal.
+
+48. Modifications to the proposal.
+
+49. Regulatory approval conditions.
+
+50. Rejection or discontinuance of proposal.
+
+51. Qualifications of Special Administrator.
+
+52. Qualifications of Independent Advisor.
+
+53. Two or more Special Administrators.
+
+54. Report of misconduct.
+
+55. Validity of transaction.
+
+56. Extension of time.
 
 ## PART VII
 
@@ -136,7 +148,13 @@ IX
 
 ## APPLICATION OF THE ACT
 
-59. Transfers to and between subsidiaries of the Corporation. 60. Application of the Act to subsidiaries of the Corporation. 61. Power of Minister to direct certain provisions not to apply. 62. Application of Part IV to be continued.
+59. Transfers to and between subsidiaries of the Corporation.
+
+60. Application of the Act to subsidiaries of the Corporation.
+
+61. Power of Minister to direct certain provisions not to apply.
+
+62. Application of Part IV to be continued.
 
 <!-- page 4 -->
 
@@ -188,13 +206,25 @@ NOW, THEREFORE, BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong w
 
 ## PRELIMINARY
 
-Short title,
+<!-- marginal: Short title, -->
 
-1. (1) This Act may be cited as the Pengurusan Danaharta application Nasional Berhad Act 1998. and commence- ment. (2) This Act shall apply throughout Malaysia.
+1. (1) This Act may be cited as the Pengurusan Danaharta
+
+<!-- marginal: application -->
+
+Nasional Berhad Act 1998.
+
+<!-- marginal: and -->
+
+<!-- marginal: commence- -->
+
+<!-- marginal: ment. -->
+
+(2) This Act shall apply throughout Malaysia.
 
 (3) This Act comes into operation on such date as the Minister may, by notification in the Gazette, appoint; and the Minister may appoint different dates for the coming into force of different provisions of this Act in different parts of Malaysia.
 
-Interpretation.
+<!-- marginal: Interpretation. -->
 
 2. In this Act, unless the context otherwise requires—
 
@@ -202,7 +232,11 @@ Interpretation.
 
 "asset" includes any credit facility, property and business or enterprise of any kind;
 
-"authorised depository agent" has the meaning assigned Act 453. to it in the Securities Industry (Central Depositories) Act 1991;
+"authorised depository agent" has the meaning assigned
+
+<!-- marginal: Act 453. -->
+
+to it in the Securities Industry (Central Depositories) Act 1991;
 
 "Board" means the board of directors of the Corporation;
 
@@ -238,7 +272,11 @@ Companies Act 1965 and includes a corporation within the meaning assigned to the
 
 <!-- page 8 -->
 
-(c) any other dealing or transaction as may be prescribed by the Central Bank under section 2 Act 372. of the Banking and Financial Institutions Act 1989;
+(c) any other dealing or transaction as may be prescribed by the Central Bank under section 2
+
+<!-- marginal: Act 372. -->
+
+of the Banking and Financial Institutions Act 1989;
 
 "credit facility agreement" means a written agreement to provide a credit facility;
 
@@ -256,7 +294,15 @@ Companies Act 1965 and includes a corporation within the meaning assigned to the
 
 "interest in land" means—
 
-(a) any interest in land, whether registered or Act 3IS. registrable, including one to which the Strata Titles Act 1985 applies and which is capable of being transferred under Part Fourteen of the Act 565. National Land Code;
+(a) any interest in land, whether registered or
+
+<!-- marginal: Act 3IS. -->
+
+registrable, including one to which the Strata Titles Act 1985 applies and which is capable of being transferred under Part Fourteen of the
+
+<!-- marginal: Act 565. -->
+
+National Land Code;
 
 (b) any lien-holder's caveat or other caveats; and
 
@@ -300,13 +346,31 @@ incorporated under the Minister of Finance (Incorporation) Act 1957;
 
 (f) any other tangible or intangible property;
 
-"registered interest" means any right or interest in an asset duly registered under the Companies Act 1965 or Act 125. Act 56/65. under the National Land Code;
+"registered interest" means any right or interest in an asset duly registered under the Companies Act 1965 or
 
-"Registrar of land" means the Registrar under the Cap. 68. National Land Code, the Registrar under the Sabah Land Cap. 81. Ordinance or the Registrar under the Sarawak Land Code, as the case may be;
+<!-- marginal: Act 125. -->
+
+<!-- marginal: Act 56/65. -->
+
+under the National Land Code;
+
+"Registrar of land" means the Registrar under the
+
+<!-- marginal: Cap. 68. -->
+
+National Land Code, the Registrar under the Sabah Land
+
+<!-- marginal: Cap. 81. -->
+
+Ordinance or the Registrar under the Sarawak Land Code, as the case may be;
 
 "security" includes a mortgage or charge, whether legal or equitable, debenture, bill of exchange, promissory note, guarantee, lien or pledge, whether actual or constructive, hypothecation, indemnity, undertaking or other means of securing payment or discharge of a debt or liability, whether present or future, or whether vested or contingent;
 
-"secured creditor" for purposes of Part VI shall have Act 360. the meaning assigned to it in the Bankruptcy Act 1967;
+"secured creditor" for purposes of Part VI shall have
+
+<!-- marginal: Act 360. -->
+
+the meaning assigned to it in the Bankruptcy Act 1967;
 
 "seller" means a person from whom the Corporation acquires an asset;
 
@@ -374,9 +438,13 @@ Corporation shall have the power to—
 
 (3) In addition to the powers vested in the Corporation by its Memorandum and Articles of Association and this Act, the Corporation may exercise such other powers as may be expedient or reasonably necessary for or in connection with or incidental to its objectives and the provisions of this Act shall apply to the Corporation in respect of the exercise of such powers.
 
-The Board.
+<!-- marginal: The Board. -->
 
-5. (1) The board of directors of the Corporation, which shall be responsible for the policy and general administration of the affairs and business of the Corporation, shall comprise the following members who, notwithstanding Act 125, the provisions of section 128 of the Companies Act 1965, shall be appointed by the Minister:
+5. (1) The board of directors of the Corporation, which shall be responsible for the policy and general administration of the affairs and business of the Corporation, shall comprise the following members who, notwithstanding
+
+<!-- marginal: Act 125, -->
+
+the provisions of section 128 of the Companies Act 1965, shall be appointed by the Minister:
 
 (a) a non-executive Chairman;
 
@@ -442,13 +510,21 @@ relating to the matter.
 
 <!-- page 14 -->
 
-Accounts. 8. (1) The Corporation shall cause to be kept accounts in accordance with the Companies Act 1965. Act 125.
+<!-- marginal: Accounts. -->
+
+8. (1) The Corporation shall cause to be kept accounts in accordance with the Companies Act 1965.
+
+<!-- marginal: Act 125. -->
 
 (2) The Corporation shall cause its statement of accounts to be audited by such auditors as it may appoint.
 
 (3) The Corporation shall as soon as practicable send a copy of the audited statement of accounts together with a copy of the auditor's report thereon to the Minister.
 
-(4) The provisions of the Statutory Bodies (Accounts Act 240, and Annual Reports) Act 1980 shall not apply to the Corporation.
+(4) The provisions of the Statutory Bodies (Accounts
+
+<!-- marginal: Act 240, -->
+
+and Annual Reports) Act 1980 shall not apply to the Corporation.
 
 ## PART
 
@@ -458,7 +534,29 @@ III
 
 ## CORPORATION BY THE MINISTER OF FINANCE
 
-Acquisition 9. (1) The share capital of the Corporation shall initially of share be acquired and held by the Minister of Finance on a date capital of the appointed by the Minister. Corporation by the Minister of (2) The Minister of Finance may exercise all rights Finance. and powers as the holder of shares in the capital of the Corporation as prescribed under its Memorandum and Articles of Association.
+<!-- marginal: Acquisition -->
+
+9. (1) The share capital of the Corporation shall initially
+
+<!-- marginal: of share -->
+
+be acquired and held by the Minister of Finance on a date
+
+<!-- marginal: capital of the -->
+
+appointed by the Minister.
+
+<!-- marginal: Corporation -->
+
+<!-- marginal: by the -->
+
+<!-- marginal: Minister of -->
+
+(2) The Minister of Finance may exercise all rights
+
+<!-- marginal: Finance. -->
+
+and powers as the holder of shares in the capital of the Corporation as prescribed under its Memorandum and Articles of Association.
 
 (3) Notwithstanding subsection 147(6) of the Companies Act 1965, where the Minister of Finance is beneficially entitled to the whole of the issued shares of the Corporation, a minute signed by a duly authorised representative of the Minister of Finance stating that any act, matter or thing, or any ordinary or special resolution required by the Companies Act 1965 or by the Memorandum or Articles of Association of the Corporation to be made, performed or passed by or at an ordinary general meeting or an extraordinary general meeting of the Corporation has been made, performed, or passed, that act, matter, thing, or resolution shall, for all purposes, be deemed to have been duly made," performed, or passed by or at an ordinary general meeting, or as the case requires, by or at an extraordinary general meeting of the Corporation.
 
@@ -486,7 +584,9 @@ apply to the Corporation.
 
 <!-- marginal: The -->
 
-11. If any sum is paid out of the funds of the Government
+### 11.
+
+If any sum is paid out of the funds of the Government
 
 <!-- marginal: Corporation -->
 
@@ -552,9 +652,17 @@ promissory note or other instrument issued pursuant to any such guarantee or agr
 
 (4) The Corporation shall not acquire any asset of the following persons without the prior written approval of the Securities Commission:
 
-(a) dealers, fund managers, and investment advisers Act 280. as defined in the Securities Industry Act 1983;
+(a) dealers, fund managers, and investment advisers
 
-(b) futures broker, futures fund manager, and futures trading adviser as defined in the Futures Industry Act 499. Act 1993;
+<!-- marginal: Act 280. -->
+
+as defined in the Securities Industry Act 1983;
+
+(b) futures broker, futures fund manager, and futures trading adviser as defined in the Futures Industry
+
+<!-- marginal: Act 499. -->
+
+Act 1993;
 
 (c) stock exchange as defined in the Securities Industry Act 1983;
 
@@ -622,7 +730,11 @@ paragraph to the Corporation as if security for future advances by, and future l
 
 (ii) determined in the same manner provided in the credit facility agreement by reference to the cost of funds or base lending rate of a licensed institution determined by the Central Bank.
 
-(5) Without prejudice to subsection (1), (2), (3) or (4), a vesting of any asset in the Corporation shall not—
+(5) Without prejudice to subsection (1), (2), (3) or
+
+(4), a vesting of any asset in the Corporation shall
+
+<!-- marginal: not— -->
 
 (a) be regarded as placing the Corporation, the seller, or any person deriving title from the Corporation or any other person in breach of, or default under, any contract, or in breach of confidence;
 
@@ -644,7 +756,9 @@ paragraph to the Corporation as if security for future advances by, and future l
 
 (f) be regarded as terminating, cancelling or varying any rights, privileges, exemptions, (including any tax exemptions) or priorities to which the seller was entitled and which by virtue of this section has vested in the Corporation.
 
-(6) Without prejudice to the generality of subsection (1), (2), (3), (4) or (5), in any proceeding brought by or against the Corporation in respect of any asset vested in the Corporation pursuant to this section, the seller shall not raise as a claim or defence to such proceedings any of the following matters:
+(6) Without prejudice to the generality of subsection
+
+(1), (2), (3), (4) or (5), in any proceeding brought by or against the Corporation in respect of any asset vested in the Corporation pursuant to this section, the seller shall not raise as a claim or defence to such proceedings any of the following matters:
 
 (a) that person has had or would have had a set-off or counterclaim against the seller or any other person;
 
@@ -668,15 +782,29 @@ paragraph to the Corporation as if security for future advances by, and future l
 
 (7) A vesting certificate executed under the seal of the Corporation stating that an asset -has been vested in the Corporation shall be conclusive evidence of such vesting as of the vesting date.
 
-Preservation
+<!-- marginal: Preservation -->
 
-15. (1) A person who is precluded from making a claim of rights. against the Corporation or is precluded from raising a defence against the Corporation under section 14, shall be entitled to seek compensation against the seller in respect of such claim.
+15. (1) A person who is precluded from making a claim
+
+<!-- marginal: of rights. -->
+
+against the Corporation or is precluded from raising a defence against the Corporation under section 14, shall be entitled to seek compensation against the seller in respect of such claim.
 
 (2) Where the Court is satisfied that the person referred to in subsection (1) has a claim against the seller including any prior equitable interest in the asset which that person could have raised or claimed but is precluded by section 14 that person shall be entitled to such compensation from the seller in respect of such claim as the Court considers fair and reasonable.
 
-Additional
+<!-- marginal: Additional -->
 
-16. (1) Notwithstanding the provisions of the National provisions Land Code 1965 or any other law, any caveat or prohibitory on land. Act 56/65. order which was registered, endorsed or entered prior to the vesting date shall not prevent a transfer of any interest in land of the seller to the Corporation.
+16. (1) Notwithstanding the provisions of the National
+
+<!-- marginal: provisions -->
+
+Land Code 1965 or any other law, any caveat or prohibitory
+
+<!-- marginal: on land. -->
+
+<!-- marginal: Act 56/65. -->
+
+order which was registered, endorsed or entered prior to the vesting date shall not prevent a transfer of any interest in land of the seller to the Corporation.
 
 (2) Where a vesting certificate issued under section 14 vests in the Corporation any interest in land—
 
@@ -692,9 +820,7 @@ Additional
 
 (B) showing the identity of the person and particulars of the land affected by the vesting,
 
-<!-- marginal: Act 56/65. -->
-
-the Registrar under the National Land Code shall without the need for any further application or filing of any further document make a memorial on the register document of title and make such other entries and generally do all things as may be necessary to give effect to the vesting;
+Act 56/65. the Registrar under the National Land Code shall without the need for any further application or filing of any further document make a memorial on the register document of title and make such other entries and generally do all things as may be necessary to give effect to the vesting;
 
 (b) in Sabah, on receipt of—
 
@@ -706,9 +832,7 @@ the Registrar under the National Land Code shall without the need for any furthe
 
 (B) showing the identity of the person and particulars of the land affected by the vesting,
 
-<!-- marginal: Cap. 68. -->
-
-the Registrar under the Land.Ordinance of Sabah shall without the need for any further application or filing of any further document make a memorial on the register document of title and make such other entries and generally do all things as may be necessary to give effect to the vesting;
+Cap. 68. the Registrar under the Land.Ordinance of Sabah shall without the need for any further application or filing of any further document make a memorial on the register document of title and make such other entries and generally do all things as may be necessary to give effect to the vesting;
 
 (c) in Sarawak, on receipt of—
 
@@ -722,11 +846,31 @@ the Registrar under the Land.Ordinance of Sabah shall without the need for any f
 
 (B) showing the identity of the person and particulars of the land affected by the vesting,
 
-Cap 81. the Registrar under the Land Code of Sarawak shall without the need for any further application or filing of any further document make a memorial on the register document of title and make such other entries and generally do all things as may be necessary to give effect to the vesting.
+<!-- marginal: Cap 81. -->
 
-Act 56/65. (3) Notwithstanding any provision in the National Land Code, a vesting certificate shall be conclusive evidence of a vesting of an interest in land in the Corporation.
+the Registrar under the Land Code of Sarawak shall without the need for any further application or filing of any further document make a memorial on the register document of title and make such other entries and generally do all things as may be necessary to give effect to the vesting.
 
-17. (1) Notwithstanding the provisions of any other law, Other Registrars to every Registrar of the High Courts, the Registrar of give effect Companies, the Registrar General of Ships, a central to vesting certificate. depository, an authorised depository agent, and any person maintaining a register or record of ownership, interest or security, as the case may be, shall, on receipt of—
+<!-- marginal: Act 56/65. -->
+
+(3) Notwithstanding any provision in the National Land Code, a vesting certificate shall be conclusive evidence of a vesting of an interest in land in the Corporation.
+
+17. (1) Notwithstanding the provisions of any other law,
+
+<!-- marginal: Other -->
+
+<!-- marginal: Registrars to -->
+
+every Registrar of the High Courts, the Registrar of
+
+<!-- marginal: give effect -->
+
+Companies, the Registrar General of Ships, a central
+
+<!-- marginal: to vesting -->
+
+<!-- marginal: certificate. -->
+
+depository, an authorised depository agent, and any person maintaining a register or record of ownership, interest or security, as the case may be, shall, on receipt of—
 
 (a) payment of the prescribed fee; and
 
@@ -788,9 +932,17 @@ provisions of this section.
 
 (4) For the purpose of this section, a transfer certificate, with the written approval of the relevant regulatory body or the State Authority executed under the seal of the Corporation stating that an asset has been vested in the acquiree shall be conclusive evidence of such transfer as of the date specified in such transfer certificate as the date of disposition.
 
-Permitted
+<!-- marginal: Permitted -->
 
-20. (1) Any disclosure by a seller for purposes of an disclosure. evaluation of, or relating to, a proposed acquisition by the Corporation and any disclosure by the Corporation for purposes of an evaluation of, or relating to, a proposed disposition by the Corporation shall not place the seller, the Corporation or any other person in breach of the Act 372. provisions of section 97 of the Banking and Financial Institutions Act 1989 or any other law or agreement prohibiting, restricting or regulating the disclosure of information notwithstanding that the proposed acquisition or proposed disposition was not subsequently completed.
+20. (1) Any disclosure by a seller for purposes of an
+
+<!-- marginal: disclosure. -->
+
+evaluation of, or relating to, a proposed acquisition by the Corporation and any disclosure by the Corporation for purposes of an evaluation of, or relating to, a proposed disposition by the Corporation shall not place the seller, the Corporation or any other person in breach of the
+
+<!-- marginal: Act 372. -->
+
+provisions of section 97 of the Banking and Financial Institutions Act 1989 or any other law or agreement prohibiting, restricting or regulating the disclosure of information notwithstanding that the proposed acquisition or proposed disposition was not subsequently completed.
 
 (2) Where a seller is a person licensed under the Banking and Financial Institutions Act 1989, such seller shall be deemed to be permitted to disclose information relating to its affairs or the affairs or the account of its customer to the Corporation.
 
@@ -852,9 +1004,19 @@ shall be—
 
 (4) The decision of the Oversight Committee shall be final and binding and shall not be reviewed, quashed, appealed against, or set aside, by any court.
 
-Appointment
+<!-- marginal: Appointment -->
 
-23. (1) Subject to section 25, the board of directors or at request of the majority of. the members of an affected person may affected person. apply to the Corporation and the Corporation may recommend to the Oversight Committee the appointment of a Special Administrator of the affected person, if the Corporation is satisfied that the affected person—
+23. (1) Subject to section 25, the board of directors or
+
+<!-- marginal: at request of -->
+
+the majority of. the members of an affected person may
+
+<!-- marginal: affected -->
+
+<!-- marginal: person. -->
+
+apply to the Corporation and the Corporation may recommend to the Oversight Committee the appointment of a Special Administrator of the affected person, if the Corporation is satisfied that the affected person—
 
 (a) is unable or likely to be unable to pay its debts; or
 
@@ -862,9 +1024,17 @@ Appointment
 
 (2) The Corporation may, with the written approval of the Oversight Committee, appoint the Special Administrator.
 
-Application
+<!-- marginal: Application -->
 
-24. (1) Subject to section 25, the Corporation may by the recommend to the Oversight Committee the appointment Corporation. of a Special Administrator of an affected person, if the Corporation is satisfied that the affected person—
+24. (1) Subject to section 25, the Corporation may
+
+<!-- marginal: by the -->
+
+recommend to the Oversight Committee the appointment
+
+<!-- marginal: Corporation. -->
+
+of a Special Administrator of an affected person, if the Corporation is satisfied that the affected person—
 
 (a) is unable or likely to be unable to pay its debts; or
 
@@ -938,9 +1108,17 @@ as defined in the Securities Industry Act 1983;
 
 <!-- page 30 -->
 
-(iv) a futures broker, futures fund manager, futures trading adviser as defined in the Act 499. Futures Industry Act 1993;
+(iv) a futures broker, futures fund manager, futures trading adviser as defined in the
 
-(v) a stock exchange as defined in the Act 280. Securities Industry Act 1983;
+<!-- marginal: Act 499. -->
+
+Futures Industry Act 1993;
+
+(v) a stock exchange as defined in the
+
+<!-- marginal: Act 280. -->
+
+Securities Industry Act 1983;
 
 (vi) a recognised clearing house and participants of a recognised clearing house as defined in the Securities Industry Act 1983;
 
@@ -948,11 +1126,31 @@ as defined in the Securities Industry Act 1983;
 
 (viii) an approved clearing house and a futures broker that is an affiliate of a clearing house of an exchange company as defined in the Futures Industry Act 1993;
 
-(ix) central depository and its authorised depository agents as defined in the Act 453. Securities Industry (Central Depositories) Act 1991;
+(ix) central depository and its authorised depository agents as defined in the
 
-Act 443. (x) licensed under the Offshore Banking Act 1990; or Act 276. (xi) licensed under the Islamic Banking Act 1983.
+<!-- marginal: Act 453. -->
 
-28. (1) Subject to subsection (2), the administration of Duration of administra- the affected person by the Special Administrator appointed tion. under section 23 or 24 shall commence from the date of appointment of the Special Administrator and shall continue until he is released from his appointment.
+Securities Industry (Central Depositories) Act 1991;
+
+<!-- marginal: Act 443. -->
+
+(x) licensed under the Offshore Banking Act 1990; or
+
+<!-- marginal: Act 276. -->
+
+(xi) licensed under the Islamic Banking Act 1983.
+
+28. (1) Subject to subsection (2), the administration of
+
+<!-- marginal: Duration of -->
+
+<!-- marginal: administra- -->
+
+the affected person by the Special Administrator appointed
+
+<!-- marginal: tion. -->
+
+under section 23 or 24 shall commence from the date of appointment of the Special Administrator and shall continue until he is released from his appointment.
 
 (2) The Special Administrator shall be released from his appointment upon the approval of the termination of his appointment by the Oversight Committee on the recommendation of the Corporation.
 
@@ -994,13 +1192,31 @@ shall—
 
 <!-- page 32 -->
 
-General
+<!-- marginal: General -->
 
-30. The Special Administrator shall have the powers powers of specified in the Second Schedule. Special Administrator.
+30. The Special Administrator shall have the powers
 
-General
+<!-- marginal: powers of -->
 
-31. (1) Without prejudice to sections 36, 38 and 39, the duties of Special Administrator shall, on his appointment, take Special Administrator. into his custody or under his control all the asset to which the affected person is or appears to be entitled.
+specified in the Second Schedule.
+
+<!-- marginal: Special -->
+
+<!-- marginal: Administrator. -->
+
+<!-- marginal: General -->
+
+31. (1) Without prejudice to sections 36, 38 and 39, the
+
+<!-- marginal: duties of -->
+
+Special Administrator shall, on his appointment, take
+
+<!-- marginal: Special -->
+
+<!-- marginal: Administrator. -->
+
+into his custody or under his control all the asset to which the affected person is or appears to be entitled.
 
 (2) The Special Administrator shall manage the asset and affairs of the affected person-
 
@@ -1010,11 +1226,47 @@ General
 
 (3) Any Special Administrator who contravenes this section commits an offence and shall on conviction be liable to a fine not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both,
 
-Special
+<!-- marginal: Special -->
 
-32. The Special Administrator shall, in the administration Administrator of the affected person, be deemed to be acting as the as affected person's agent of the affected person. agent. Officers of
+32. The Special Administrator shall, in the administration
 
-33. (1) No person, including the board of directors of affected the affected person, other than the Special Administrator person to perform or shall perform or exercise or purport to perform or exercise exercise a function as an officer of the affected person, except function with written with the prior written approval of the Special Administrator. approval.
+<!-- marginal: Administrator -->
+
+of the affected person, be deemed to be acting as the
+
+<!-- marginal: as affected -->
+
+<!-- marginal: person's -->
+
+agent of the affected person.
+
+<!-- marginal: agent. -->
+
+<!-- marginal: Officers of -->
+
+33. (1) No person, including the board of directors of
+
+<!-- marginal: affected -->
+
+the affected person, other than the Special Administrator
+
+<!-- marginal: person to -->
+
+<!-- marginal: perform or -->
+
+shall perform or exercise or purport to perform or exercise
+
+<!-- marginal: exercise -->
+
+a function as an officer of the affected person, except
+
+<!-- marginal: function with -->
+
+<!-- marginal: written -->
+
+with the prior written approval of the Special Administrator.
+
+<!-- marginal: approval. -->
 
 (2) For the purpose of subsection (1) the Special Administrator shall be entitled to exercise all the functions of the board of directors of the affected person.
 
@@ -1054,9 +1306,19 @@ person, a transaction or dealing with any asset of the affected person, that tra
 
 <!-- page 34 -->
 
-Obligations
+<!-- marginal: Obligations -->
 
-36. (1) An officer of the affected person shall within on officer of seven days after the appointment of the Special affected person. Administrator—
+36. (1) An officer of the affected person shall within
+
+<!-- marginal: on officer of -->
+
+seven days after the appointment of the Special
+
+<!-- marginal: affected -->
+
+<!-- marginal: person. -->
+
+Administrator—
 
 (a) deliver to the Special Administrator all books of the affected person in the possession of the officer; and
 
@@ -1074,7 +1336,13 @@ as the Special Administrator may reasonably require.
 
 (4) Any person who contravenes this section or submits or causes to be submitted any information that is materially false or misleading or from which there is a material omission, commits an offence and shall on conviction be liable to a fine not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both.
 
-Investigation 37. (1) The Special Administrator may require any of of affairs. the persons specified in subsection (2), within twenty one days thereof or such extended time as the Special Administrator may grant, to verify and submit to the Special Administrator a statement in the prescribed form as to the affairs of the affected person containing—
+<!-- marginal: Investigation -->
+
+37. (1) The Special Administrator may require any of
+
+<!-- marginal: of affairs. -->
+
+the persons specified in subsection (2), within twenty one days thereof or such extended time as the Special Administrator may grant, to verify and submit to the Special Administrator a statement in the prescribed form as to the affairs of the affected person containing—
 
 (a) the particulars of the affected person's assets and liabilities;
 
@@ -1106,9 +1374,25 @@ Investigation 37. (1) The Special Administrator may require any of of affairs. t
 
 (6) Any person who contravenes this section commits an offence and shall on conviction be liable to a fine not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both.
 
-Special 38. (1) No person is entitled, as against the Special Administrator's Administrator— rights to the books of the
+<!-- marginal: Special -->
 
-(a) to retain possession of the books of the affected affected person. person; or
+38. (1) No person is entitled, as against the Special
+
+<!-- marginal: Administrator's -->
+
+Administrator—
+
+<!-- marginal: rights to the -->
+
+<!-- marginal: books of the -->
+
+(a) to retain possession of the books of the affected
+
+<!-- marginal: affected -->
+
+<!-- marginal: person. -->
+
+person; or
 
 (b) to claim or enforce a lien on the books of the affected person.
 
@@ -1124,9 +1408,27 @@ but the Special Administrator shall be entitled to inspect and make copies of su
 
 (4) Any person who contravenes subsection (1) or (2) commits of an offence and shall on conviction be liable to a fine not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both.
 
-Special
+<!-- marginal: Special -->
 
-39. (1) The Special Administrator may require any person Administrator's who has in his possession or control assets or books to rights to assets of the which the affected person appears to be entitled, to deliver, affected convey, surrender or transfer the assets or books to the person. Special Administrator forthwith or within such period as the Special Administrator may direct.
+39. (1) The Special Administrator may require any person
+
+<!-- marginal: Administrator's -->
+
+who has in his possession or control assets or books to
+
+<!-- marginal: rights to -->
+
+<!-- marginal: assets of the -->
+
+which the affected person appears to be entitled, to deliver,
+
+<!-- marginal: affected -->
+
+convey, surrender or transfer the assets or books to the
+
+<!-- marginal: person. -->
+
+Special Administrator forthwith or within such period as the Special Administrator may direct.
 
 <!-- page 37 -->
 
@@ -1156,11 +1458,25 @@ the Special Administrator may within twelve months after he becomes aware of any
 
 <!-- page 38 -->
 
-(4) For the purpose of subsection (3), a,"market contract" shall have the meaning assigned to it under Act 280. section 126e of the Securities Industry Act 1983 and futures contracts traded on futures market that are cleared through an approved clearing house.
+(4) For the purpose of subsection (3), a,"market contract" shall have the meaning assigned to it under
 
-Effect of
+<!-- marginal: Act 280. -->
 
-41. (1) Subject to subsection (6), on the appointment appointment of the Special Administrator a moratorium shall take of Special effect, during which— Administrator.
+section 126e of the Securities Industry Act 1983 and futures contracts traded on futures market that are cleared through an approved clearing house.
+
+<!-- marginal: Effect of -->
+
+41. (1) Subject to subsection (6), on the appointment
+
+<!-- marginal: appointment -->
+
+of the Special Administrator a moratorium shall take
+
+<!-- marginal: of Special -->
+
+effect, during which—
+
+<!-- marginal: Administrator. -->
 
 (a) any petition for the winding up of the affected person shall be dismissed by the court;
 
@@ -1196,11 +1512,9 @@ Companies Act 1965 shall be adjourned sine die and any restraining order issued 
 
 (a) the Corporation receives the Independent Advisor's report before the expiry of the period specified in subsection (2), the Corporation may if it deems fit, extend the moratorium for a further period of twelve months or the duration required to complete the implementation of the proposal approved under section 46 or 48, as the case may be; or
 
-(b) in the opinion of the Corporation it is unlikely to receive the Independent Advisor's report before the expiry of the period specified in subsection (2), or in any other case, upon
+(b) in the opinion of the Corporation it is unlikely to receive the Independent Advisor's report before the expiry of the period specified in subsection
 
-<!-- marginal: the -->
-
-recommendation of the Corporation for an extension of the moratorium, the Oversight Committee may extend the moratorium for such period or periods as the Corporation may recommend or such other period or periods as the Oversight Committee may deem appropriate.
+(2), or in any other case, upon the recommendation of the Corporation for an extension of the moratorium, the Oversight Committee may extend the moratorium for such period or periods as the Corporation may recommend or such other period or periods as the Oversight Committee may deem appropriate.
 
 (4) If the period of the moratorim is extended pursuant to subsection (3), a notice of the extension shall be published in at least two national daily newspapers one of which shall be in the national language.
 
@@ -1210,19 +1524,43 @@ recommendation of the Corporation for an extension of the moratorium, the Oversi
 
 (6) Nothing in this section shall prevent any civil or criminal proceedings from being instituted or continued by any regulatory body under any written law against the affected person.
 
-Undue 42. (1) On the appointment of the Special Administrator, preference. any transfer, mortgage, delivery of goods, payment or other act relating to any asset made or done by or against the affected person which, had it been done by or against an individual, would in his bankruptcy under the law of bankruptcy be void or voidable, may be avoided by the Special Administrator.
+<!-- marginal: Undue -->
+
+42. (1) On the appointment of the Special Administrator,
+
+<!-- marginal: preference. -->
+
+any transfer, mortgage, delivery of goods, payment or other act relating to any asset made or done by or against the affected person which, had it been done by or against an individual, would in his bankruptcy under the law of bankruptcy be void or voidable, may be avoided by the Special Administrator.
 
 (2) For the purposes of this section the date which corresponds to the date of presentation of the bankruptcy petition in the case of an individual shall be the date of the appointment of the Special Administrator.
 
-Vacation of
+<!-- marginal: Vacation of -->
 
-43. (1) Any receiver, receiver and manager, or office of provisional liquidator who vacates his office pursuant to receiver, etc. subsection 41(1) shall immediately hand over all the assets and books of the affected person to the Special Administrator.
+43. (1) Any receiver, receiver and manager, or
+
+<!-- marginal: office of -->
+
+provisional liquidator who vacates his office pursuant to
+
+<!-- marginal: receiver, etc. -->
+
+subsection 41(1) shall immediately hand over all the assets and books of the affected person to the Special Administrator.
 
 (2) All sums properly incurred in respect of the costs, expenses and remuneration of such receiver, receiver and manager, or provisional liquidator, as the case may be, shall be charged on and paid out of the realised proceeds of the affected person in the manner set out in the proposal.
 
-Special
+<!-- marginal: Special -->
 
-44. (1) The Special Administrator shall as soon as Administrator reasonably practicable from the date of his appointment to prepare proposal. prepare and submit to the Corporation a proposal setting forth the Special Administrator's plan with respect to the affected person.
+44. (1) The Special Administrator shall as soon as
+
+<!-- marginal: Administrator -->
+
+reasonably practicable from the date of his appointment
+
+<!-- marginal: to prepare -->
+
+<!-- marginal: proposal. -->
+
+prepare and submit to the Corporation a proposal setting forth the Special Administrator's plan with respect to the affected person.
 
 <!-- page 41 -->
 
@@ -1284,15 +1622,25 @@ registered post or in such manner prescribed under this Act to the last known ad
 
 (1) commits an offence and shall on conviction be liable to a fine not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both.
 
-Implemen-
+<!-- marginal: Implemen- -->
 
-47. (1) Subject to sections 46, 48 and 49, the Special tation of Administrator shall implement the proposal in accordance porposal. with its terms.
+47. (1) Subject to sections 46, 48 and 49, the Special
+
+<!-- marginal: tation of -->
+
+Administrator shall implement the proposal in accordance
+
+<!-- marginal: porposal. -->
+
+with its terms.
 
 (2) Upon the resolution of the secured creditors to approve the proposal under section 46, the Special Administrator shall cause to be published in at least two national daily newspapers, one of which shall be in the national language, the approval of the proposal and the time and place for any creditor of the affected person to examine the details of the proposal.
 
 <!-- page 43 -->
 
-(3) Notwithstanding the provisions of any law, the Special Administrator shall have the power, without the need for notice to any member of the affected person or any approval by the members of the affected person or the need for the approval of or confirmation by a court, to implement the proposal approved in accordance with sections 44 to 46 or modified in accordance with section 48.
+(3) Notwithstanding the provisions of any law, the Special Administrator shall have the power, without the need for notice to any member of the affected person or any approval by the members of the affected person or the need for the approval of or confirmation by a court, to implement the proposal approved in accordance with sections 44 to 46 or modified in accordance with section
+
+48.
 
 (4) Where any part of the assets of the affected person is subject to the rights of the secured creditors and a proposal has been approved by secured creditors under section 46, the Special Administrator shall be entitled to deal with such asset in the manner set out in the proposal.
 
@@ -1328,17 +1676,19 @@ affected person propose modifications to the proposal.
 
 (d) a notice of the meeting of secured creditors for the proposed modifications set out in this section.
 
-(6) The meeting of the secured creditors of the affected person to consider the proposed modifications shall be convened and conducted in the manner set out in section
-
-46.
+(6) The meeting of the secured creditors of the affected person to consider the proposed modifications shall be convened and conducted in the manner set out in section 46.
 
 (7) If the Independent Advisor thinks that it is not necessary to convene a meeting of the secured creditors within a period specified in subsection (4), the Special Administrator may implement the proposed modifications.
 
 (8) Without prejudice to section 49, compliance with any approval condition imposed by a regulatory body shall not be construed as a modification to the proposal for the purposes of this section.
 
-Regulatory
+<!-- marginal: Regulatory -->
 
-49. If— approval conditions.
+49. If—
+
+<!-- marginal: approval -->
+
+<!-- marginal: conditions. -->
 
 (a) the approval of any regulatory body is required to implement the proposal; or
 
@@ -1348,7 +1698,9 @@ Regulatory
 
 and approval conditions are imposed by such regulatory body, the Corporation may, notwithstanding that the secured creditors of the affected person have agreed to the proposal under section 46 or 48, direct the Special Administrator to abandon the proposal or otherwise discontinue the implementation of the proposal if the Corporation thinks that such approval conditions are not in the interest of the affected person.
 
-(2) The decision of the Corporation under subsection (1) shall be binding on the affected person, its members and its creditors and shall be final and conclusive.
+(2) The decision of the Corporation under subsection
+
+(1) shall be binding on the affected person, its members and its creditors and shall be final and conclusive.
 
 <!-- marginal: Rejection of -->
 
@@ -1408,9 +1760,17 @@ Administrator unless—
 
 (e) an officer of the affected person.
 
-Qualifica-
+<!-- marginal: Qualifica- -->
 
-52. No person shall be appointed as an Independent tions of Advisor unless— Independent Advisor.
+52. No person shall be appointed as an Independent
+
+<!-- marginal: tions of -->
+
+Advisor unless—
+
+<!-- marginal: Independent -->
+
+<!-- marginal: Advisor. -->
 
 (a) the person has consented in writing to the appointment and has not withdrawn its consent as at the date of its appointment; and
 
@@ -1422,9 +1782,15 @@ Qualifica-
 
 (iii) a person (other than a natural person) who, in the opinion of the Corporation, has the requisite experience or is capable of performing the duties of an Independent Advisor.
 
-Two or
+<!-- marginal: Two or -->
 
-53. (1) Where two or more persons are appointed as more Special the Special Administrators of an affected person— Administrators.
+53. (1) Where two or more persons are appointed as
+
+<!-- marginal: more Special -->
+
+the Special Administrators of an affected person—
+
+<!-- marginal: Administrators. -->
 
 (a) the functions or the powers of the Special Administrator may be performed or exercised by any one of them or by both or all of them jointly;
 
@@ -1488,9 +1854,17 @@ to dispose of such land by way of private treaty.
 
 ## APPLICATION OF OTHER ACTS
 
-Application
+<!-- marginal: Application -->
 
-58. (1) Notwithstanding the provisions of the Islamic of other Banking Act 1983 the Corporation may— Acts. Act 276.
+58. (1) Notwithstanding the provisions of the Islamic
+
+<!-- marginal: of other -->
+
+Banking Act 1983 the Corporation may—
+
+<!-- marginal: Acts. -->
+
+<!-- marginal: Act 276. -->
 
 (a) provide any credit facility in accordance with Islamic banking concepts;
 
@@ -1498,11 +1872,11 @@ Application
 
 (c) carry on such other activities as may be approved by the Minister.
 
-Act 400.
+<!-- marginal: Act 400. -->
 
 (2) The provisions of the Moneylenders Act 1951 shall not apply to the Corporation.
 
-Act 125.
+<!-- marginal: Act 125. -->
 
 (3) The provisions of section 132o of the Companies Act 1965 shall not apply to an acquisition or disposition by the Corporation under Part V or to any transfer referred to in section 59.
 
@@ -1510,11 +1884,21 @@ Act 125.
 
 ## APPLICATION OF THE ACT
 
-Transfers to
+<!-- marginal: Transfers to -->
 
-59. The Corporation may effect— and between subsidiaries
+59. The Corporation may effect—
 
-(a) any transfer by the Corporation to any subsidiary of the of the Corporation; Corporation.
+<!-- marginal: and between -->
+
+<!-- marginal: subsidiaries -->
+
+(a) any transfer by the Corporation to any subsidiary
+
+<!-- marginal: of the -->
+
+of the Corporation;
+
+<!-- marginal: Corporation. -->
 
 <!-- page 49 -->
 
@@ -1554,31 +1938,65 @@ under subsection (2) as if the subsidiary is the Corporation itself.
 
 <!-- page 50 -->
 
-Power of
+<!-- marginal: Power of -->
 
-61. (1) Where the Minister of Finance holds fifty per Minister to cent or less of the issued share capital of the Corporation, direct certain provisions the Minister may, on and from a specified date, by notice not to apply. in the Gazette, direct that all or any such provisions of this Act as specified in the notice shall no longer apply to the Corporation from that date and any such direction may contain such transitional provisions as the Minister thinks fit.
+61. (1) Where the Minister of Finance holds fifty per
+
+<!-- marginal: Minister to -->
+
+cent or less of the issued share capital of the Corporation,
+
+<!-- marginal: direct certain -->
+
+<!-- marginal: provisions -->
+
+the Minister may, on and from a specified date, by notice
+
+<!-- marginal: not to apply. -->
+
+in the Gazette, direct that all or any such provisions of this Act as specified in the notice shall no longer apply to the Corporation from that date and any such direction may contain such transitional provisions as the Minister thinks fit.
 
 (2) Any direction under subsection (1) may be revoked at any time by the Minister, by notice in the Gazette, if the Minister is satisfied that the circumstances that led to the giving of the direction no longer exist.
 
-Application
+<!-- marginal: Application -->
 
-62. For the avoidance of doubt, notwithstanding that of Part IV to the Minister of Finance holds fifty per cent or less of the be continued. issued share capital of the Corporation any guarantee given by the Government pursuant to Part IV shall continue to subsist and be fully effective and valid in accordance with its terms and the provisions of Part IV shall continue to apply.
+62. For the avoidance of doubt, notwithstanding that
+
+<!-- marginal: of Part IV to -->
+
+the Minister of Finance holds fifty per cent or less of the
+
+<!-- marginal: be -->
+
+<!-- marginal: continued. -->
+
+issued share capital of the Corporation any guarantee given by the Government pursuant to Part IV shall continue to subsist and be fully effective and valid in accordance with its terms and the provisions of Part IV shall continue to apply.
 
 ## PART X
 
 ## GENERAL
 
-Judicial
+<!-- marginal: Judicial -->
 
-63. (1) The Court shall take judicial notice of— notice.
+63. (1) The Court shall take judicial notice of—
+
+<!-- marginal: notice. -->
 
 (a) any fact or matter required to be published under this Act; and
 
 (b) any fact or matter set out in any certificate issued under this Act.
 
-Offer to the
+<!-- marginal: Offer to the -->
 
-64. (1) An offer or invitation made to the Corporation Corporation. with respect to shares or debentures shall not be deemed Act 125. to be an offer to the public for the purposes of the Companies Act 1965.
+64. (1) An offer or invitation made to the Corporation
+
+<!-- marginal: Corporation. -->
+
+with respect to shares or debentures shall not be deemed
+
+<!-- marginal: Act 125. -->
+
+to be an offer to the public for the purposes of the Companies Act 1965.
 
 <!-- page 51 -->
 
@@ -1612,9 +2030,23 @@ or agent of the Corporation or any person attending any meeting of the Board sha
 
 <!-- page 52 -->
 
-No petition
+<!-- marginal: No petition -->
 
-67. (1) Notwithstanding the provisions of the Companies to wind up Act 1965 or any other law, no person other than the the Corporation. Minister may present a petition for the winding up of the Act 125. Corporation or appoint a receiver, receiver and manager, trustee, custodian, intervenor or take any proceedings similar in purpose or effect as an arrangement or liquidation proceeding in respect of the Corporation.
+67. (1) Notwithstanding the provisions of the Companies
+
+<!-- marginal: to wind up -->
+
+Act 1965 or any other law, no person other than the
+
+<!-- marginal: the -->
+
+<!-- marginal: Corporation. -->
+
+Minister may present a petition for the winding up of the
+
+<!-- marginal: Act 125. -->
+
+Corporation or appoint a receiver, receiver and manager, trustee, custodian, intervenor or take any proceedings similar in purpose or effect as an arrangement or liquidation proceeding in respect of the Corporation.
 
 (2) The Corporation, its officers or employees shall not at any time be taken for any purpose, or declared by any Court or person, as carrying on the business of the Corporation with intent to defraud creditors or to have committed any offence by reason of the fact that the Corporation is carrying on business when it is insolvent or likely to be insolvent.
 
@@ -1644,7 +2076,9 @@ the Corporation make such regulations as may be expedient
 
 or necessary for the better carrying out of the provisions of this Act.
 
-(2) Without prejudice to the generality of subsection (1), regulations may be made for prescribing—
+(2) Without prejudice to the generality of subsection
+
+(1), regulations may be made for prescribing—
 
 (a) forms (including forms of notification, notices and certificates) for the purposes of this Act; and
 
@@ -1692,9 +2126,17 @@ Minister of Finance, direct the Board to call a general meeting of the members o
 
 (Subsection 5(5)
 
-Appoint men I,
+<!-- marginal: Appoint men I, -->
 
-1. (1) A member of the Board shall, subject to such conditions as revocation and may be specified in his instrument of appointment, hold office for resignation. a term not exceeding three years and is eligible for reappointment.
+1. (1) A member of the Board shall, subject to such conditions as
+
+<!-- marginal: revocation and -->
+
+may be specified in his instrument of appointment, hold office for
+
+<!-- marginal: resignation. -->
+
+a term not exceeding three years and is eligible for reappointment.
 
 (2) The appointment of any member of the Board, may at any time, be revoked by the Minister if such person is found by the Minister no longer to be a fit and proper person having regard to—
 
@@ -1704,11 +2146,19 @@ Appoint men I,
 
 (3) Every member of the Board shall devote such time to the business of the Corporation as is necessary to discharge his duties effectively.
 
-Board may
+<!-- marginal: Board may -->
 
-2. The Board may invite any person to attend any meeting or invile others deliberation of the Board for the purpose of advising it on any matter to attend. under discussion, but any person so attending shall have no right to vote at that meeting or deliberation.
+2. The Board may invite any person to attend any meeting or
 
-Minutes.
+<!-- marginal: invile others -->
+
+deliberation of the Board for the purpose of advising it on any matter
+
+<!-- marginal: to attend. -->
+
+under discussion, but any person so attending shall have no right to vote at that meeting or deliberation.
+
+<!-- marginal: Minutes. -->
 
 3. (1) The Board shall cause minutes of all its meetings to be maintained and kept in a proper form.
 
@@ -1716,9 +2166,13 @@ Minutes.
 
 (3) Every meeting of the Board in respect of the proceedings of which minutes have been so made shall be deemed to have been duly convened and held and all members thereat to have been duly qualified to act.
 
-Vacation of
+<!-- marginal: Vacation of -->
 
-4. (1) Without prejudice to the generality of subsection 5(3), the office. office of a member of the Board shall be vacated—
+4. (1) Without prejudice to the generality of subsection 5(3), the
+
+<!-- marginal: office. -->
+
+office of a member of the Board shall be vacated—
 
 (a) if he dies;
 

@@ -264,7 +264,9 @@ Probationary Estate Agents upon making application to the Board and proving to i
 
 (c) in subsection (2)—
 
-(i) in paragraph (a), by substituting for subparagraphs (i), (ii) and (iii) the following subparagraphs:
+(i) in paragraph (a), by substituting for subparagraphs
+
+(i), (ii) and (iii) the following subparagraphs:
 
 “(i) in the case of a valuation practice—
 
@@ -326,7 +328,9 @@ Probationary Estate Agents upon making application to the Board and proving to i
 
 “(7) Where a registered valuer, registered appraiser or registered estate agent practising as a sole proprietor is removed from the register of Valuers, Appraisers and Estate Agents or is suspended from practice, he shall within thirty days from the date of such removal or suspension, satisfy the Board that he has made suitable arrangements for making available to his client some other registered valuer, registered appraiser or registered estate agent, as the case may be, during the period of his removal or suspension.
 
-(8) The registered valuer, registered appraiser or registered estate agent shall, when making available to his client some other registered valuer, registered appraiser or registered estate agent under subsection (7)—
+(8) The registered valuer, registered appraiser or registered estate agent shall, when making available to his client some other registered valuer, registered appraiser or registered estate agent under subsection
+
+(7)—
 
 (a) instruct the other registered valuer, registered appraiser or registered estate agent to—
 
@@ -414,7 +418,9 @@ Probationary Estate Agents upon making application to the Board and proving to i
 
 (c) by inserting after subsection (3) the following subsection:
 
-“(3A) Any order made by the Board under paragraphs (1) (iii), (iv) and (v) may be published in such publication as the Board may deem fit if no appeal against the order is lodged under section 27 within forty days of the date of the making of the order.”.
+“(3A) Any order made by the Board under paragraphs
+
+(1) (iii), (iv) and (v) may be published in such publication as the Board may deem fit if no appeal against the order is lodged under section 27 within forty days of the date of the making of the order.”.
 
 ### Amendment of section 25
 

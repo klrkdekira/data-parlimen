@@ -4,23 +4,39 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation
 
-## Part II
+## PART II
 
 ## THE AUTHORITY
 
-3. Establishment of the Authority 4. Common seal 5. Membership of the Authority 6. Alternate members 7. Tenure of office 8. Remuneration and allowances 9. Revocation of appointment and resignation 10. Vacation of office 11. Committees 12. Disclosure of interest 13. Schedule 14. Code of conduct 15. Disciplinary Panel and disciplinary proceedings
+3. Establishment of the Authority 4. Common seal 5. Membership of the Authority 6. Alternate members 7. Tenure of office 8. Remuneration and allowances 9. Revocation of appointment and resignation
 
-## Part III
+10. Vacation of office
+
+11. Committees
+
+12. Disclosure of interest
+
+13. Schedule
+
+14. Code of conduct
+
+15. Disciplinary Panel and disciplinary proceedings
+
+## PART III
 
 ## FUNCTIONS AND POWERS OF THE AUTHORITY
 
-16. Functions of the Authority 17. Powers of the Authority 18. Direction by Minister
+16. Functions of the Authority
+
+17. Powers of the Authority
+
+18. Direction by Minister
 
 <!-- page 2 -->
 
@@ -28,7 +44,7 @@
 
 20. Validity of acts and proceedings
 
-## Part IV
+## PART IV
 
 ## EMPLOYEES OF THE AUTHORITY
 
@@ -42,7 +58,7 @@
 
 25. Payment of retirement benefits, etc.
 
-## Part V
+## PART V
 
 ## FINANCIAL PROVISIONS
 
@@ -68,7 +84,7 @@
 
 36. Power to establish companies
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -86,13 +102,13 @@
 
 42. Obligation of secrecy 43. Power to amend Schedule 44. Things done in anticipation of the enactment of this Act
 
-## Part VII
+## PART VII
 
 ## VESTING PROVISION
 
 45. Vesting provision
 
-## Schedule
+## SCHEDULE
 
 <!-- page 5 -->
 
@@ -104,7 +120,7 @@ An Act to establish and incorporate the Civil Aviation Authority of Malaysia, to
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -138,7 +154,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “Authority” means the Civil Aviation Authority of Malaysia established under section 3.
 
-## Part II
+## PART II
 
 ## THE AUTHORITY
 
@@ -390,7 +406,7 @@ when the matter is discussed or decided upon.
 
 <!-- page 16 -->
 
-## Part III
+## PART III
 
 ## FUNCTIONS AND POWERS OF THE AUTHORITY
 
@@ -576,7 +592,7 @@ when the matter is discussed or decided upon.
 
 (b) any omission, defect or irregularity not affecting the merits of the case.
 
-## Part IV
+## PART IV
 
 ## EMPLOYEES OF THE AUTHORITY
 
@@ -626,7 +642,7 @@ when the matter is discussed or decided upon.
 
 25. The Authority may make arrangements for the payment to its employees and their dependants such retirement benefits, gratuities and other allowances as the Authority may determine.
 
-## Part V
+## PART V
 
 ## FINANCIAL PROVISIONS
 
@@ -726,7 +742,7 @@ when the matter is discussed or decided upon.
 
 36. The Authority may, with the approval of the Minister and the concurrence of the Minister of Finance, establish companies under the Companies Act 2016 to carry out and have the charge on or engage in any project, scheme or enterprise which has been planned or undertaken by the Authority in the performance of its functions or the exercise of its powers under this Act.
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -796,7 +812,7 @@ any person authorized by the Authority for that purpose may, on behalf of the Au
 
 <!-- page 32 -->
 
-## Part VII
+## PART VII
 
 ## VESTING PROVISION
 
@@ -826,7 +842,7 @@ the vesting effected under subsection (1).
 
 (8) In this section, “vesting date” means the date appointed by the Minister under subsection (1).
 
-## Schedule
+## SCHEDULE
 
 [Section 13]
 
@@ -928,7 +944,7 @@ Now the functions of the Authority as specified in the proposed Act are carried 
 
 With the establishment of this Authority as a statutory body, the Authority will have greater flexibility to attract and retain qualified technical personnel in matters relating to civil aviation to ensure that the national and international obligations of Malaysia in matters relating to civil aviation can be carried out, and the universal safety and security standards and requirements in civil aviation are implemented, complied with and well-maintained.
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act deals with preliminary matters.
 
@@ -938,7 +954,7 @@ With the establishment of this Authority as a statutory body, the Authority will
 
 4. Clause 2 contains the definitions of certain words and expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 5. Part II of the proposed Act contains provisions relating to the establishment of the Authority.
 
@@ -970,7 +986,7 @@ With the establishment of this Authority as a statutory body, the Authority will
 
 18. Clause 15 seeks to provide for a disciplinary panel that shall carry out disciplinary proceedings in the event of any breach of the code of conduct.
 
-## Part III
+## PART III
 
 19. Part III of the proposed Act deals with the functions and powers of the Authority.
 
@@ -982,7 +998,7 @@ With the establishment of this Authority as a statutory body, the Authority will
 
 23. Clause 20 seeks to provide that no acts done or proceedings taken under the proposed Act shall be questioned on the ground of any vacancy in the membership of, or any defect in the constitution of, the Authority, or any omission, defect or irregularity not affecting the merits of the case.
 
-## Part IV
+## PART IV
 
 24. Part IV of the proposed Act deals with functions of the Chief Executive Officer, and employees of the Authority.
 
@@ -998,7 +1014,7 @@ With the establishment of this Authority as a statutory body, the Authority will
 
 29. Clause 25 seeks to allow the Authority to make arrangement for the payment of retirement benefit, gratuities and other allowances to the employees of the Authority and their dependants.
 
-## Part V
+## PART V
 
 30. Part V of the proposed Act deals with the financial provisions.
 
@@ -1026,7 +1042,7 @@ With the establishment of this Authority as a statutory body, the Authority will
 
 <!-- page 40 -->
 
-## Part VI
+## PART VI
 
 42. Part VI of the proposed Act provides for general provisions.
 
@@ -1046,7 +1062,7 @@ With the establishment of this Authority as a statutory body, the Authority will
 
 50. Clause 44 provides for the validity of acts and things done in anticipation of the enactment of the proposed Act.
 
-## Part VII
+## PART VII
 
 51. Part VII of the proposed Act deals with vesting provision.
 

@@ -348,7 +348,9 @@ Kewangan (No. 2)
 
 (f) Menteri boleh meluluskan perjalanan aktiviti itu dengan pemastautin atau transaksi itu dalam mata wang Malaysia;"; dan
 
-(b) dengan memasukkan selepas takrif "Menteri" takrif yang berikut:
+(b) dengan memasukkan selepas takrif "Menteri" takrif yang
+
+<!-- marginal: berikut: -->
 
 ' "operasi perkapalan" ertinya pengangkutan penumpang atau kargo melalui laut atau penyewaan berdasarkan carter kapal atas asas carter perjalanan atau masa;'.
 

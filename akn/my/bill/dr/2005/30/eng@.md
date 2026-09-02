@@ -24,59 +24,127 @@ General provisions
 
 Arbitration agreement
 
-9. Definition and form of arbitration agreement 10. Arbitration agreement and substantive claim before court 11. Arbitration agreement and interim measures by High Court
+9. Definition and form of arbitration agreement
+
+10. Arbitration agreement and substantive claim before court
+
+11. Arbitration agreement and interim measures by High Court
 
 ## Chapter 3
 
 Composition of arbitrators
 
-32. Number of arbitrators 13. Appointment of arbitrators
+32. Number of arbitrators
+
+13. Appointment of arbitrators
 
 <!-- page 2 -->
 
-14. Grounds for challenge 15. Challenge procedure 16. Failure or impossibility to act 17. Appointment of substitute arbitrator
+14. Grounds for challenge
+
+15. Challenge procedure
+
+16. Failure or impossibility to act
+
+17. Appointment of substitute arbitrator
 
 ## Chapter 4
 
 Jurisdiction of arbitral Tribunal
 
-18. Competence of arbitral tribunal to rule on its jurisdiction 19. Power of arbitral tribunal to order interim measures
+18. Competence of arbitral tribunal to rule on its jurisdiction
+
+19. Power of arbitral tribunal to order interim measures
 
 ## Chapter 5
 
 Conduct of arbitral proceedings
 
-20. Equal treatment of parties 21. Determination of rules of procedure 22. Seat of arbitration 23. Commencement of arbitral proceedings 24. Language 25. Statements of claim and defence 26. Hearings 27. Default of a party 28. Expert appointed by arbitral tribunal 29. Court assistance in taking evidence
+20. Equal treatment of parties
+
+21. Determination of rules of procedure
+
+22. Seat of arbitration
+
+23. Commencement of arbitral proceedings
+
+24. Language
+
+25. Statements of claim and defence
+
+26. Hearings
+
+27. Default of a party
+
+28. Expert appointed by arbitral tribunal
+
+29. Court assistance in taking evidence
 
 ## Chapter 6
 
 Making of award and termination of proceedings
 
-30. Law applicable to substance of dispute 31. Decision making by panel of arbitrators 32. Settlement 33. Form and contents of award 34. Termination of proceedings 35. Correction and interpretation of award or additional award 36. An award is final and binding
+30. Law applicable to substance of dispute
+
+31. Decision making by panel of arbitrators
+
+32. Settlement
+
+33. Form and contents of award
+
+34. Termination of proceedings
+
+35. Correction and interpretation of award or additional award
+
+36. An award is final and binding
 
 <!-- page 3 -->
 
 ## Chapter 7
 
-Recourse against award Clause 37. Application for setting aside
+Recourse against award Clause
+
+37. Application for setting aside
 
 ## Chapter 8
 
 Recognition and enforcement of awards
 
-38. Recognition and enforcement 39. Grounds for refusing recognition or enforcement
+38. Recognition and enforcement
+
+39. Grounds for refusing recognition or enforcement
 
 ## PART III
 
 ## ADDITIONAL PROVISIONS RELATING TO ARBITRATION
 
-40. Consolidation of proceedings and concurrent hearings 41. Determination of preliminary point of law by court 42. Reference on questions of law 43. Appeal 44. Costs and expenses of an arbitration 45. Extension of time for commencing arbitration proceedings 46. Extension of time for making award
+40. Consolidation of proceedings and concurrent hearings
+
+41. Determination of preliminary point of law by court
+
+42. Reference on questions of law
+
+43. Appeal
+
+44. Costs and expenses of an arbitration
+
+45. Extension of time for commencing arbitration proceedings
+
+46. Extension of time for making award
 
 ## PART IV
 
 ## MISCELLANEOUS
 
-47. Liability of arbitrator 48. Immunity of arbitral institutions 49. Bankruptcy 50. Mode of application 51. Repeal and savings
+47. Liability of arbitrator
+
+48. Immunity of arbitral institutions
+
+49. Bankruptcy
+
+50. Mode of application
+
+51. Repeal and savings
 
 <!-- page 4 -->
 
@@ -332,7 +400,9 @@ either party may apply to the Director of the Kuala Lumpur Regional Centre for A
 
 any party may request the Director of the Kuala Lumpur Regional Centre for Arbitration to take the necessary measures, unless the agreement on the appointment procedure provides other means for securing the appointment.
 
-(7) Where the Director of the Kuala Lumpur Regional Centre for Arbitration is unable to act or fails to act under subsections (4), (5) and (6) within thirty days from the request, any party may apply to the High Court for such appointment.
+(7) Where the Director of the Kuala Lumpur Regional Centre for Arbitration is unable to act or fails to act under subsections
+
+(4), (5) and (6) within thirty days from the request, any party may apply to the High Court for such appointment.
 
 (8) In appointing an arbitrator the Director of the Kuala Lumpur Regional Centre for Arbitration or the High Court, as the case may be, shall have due regard to —
 
@@ -428,7 +498,9 @@ Jurisdiction of arbitral tribunal
 
 (6) Notwithstanding subsections (3) and (5), the arbitral tribunal may admit such plea if it considers the delay justified.
 
-(7) The arbitral tribunal may rule on a plea referred to in subsection (3) or (5), either as a preliminary question or in an award on the merits.
+(7) The arbitral tribunal may rule on a plea referred to in subsection
+
+(3) or (5), either as a preliminary question or in an award on the merits.
 
 (8) Where the arbitral tribunal rules on such a plea as a preliminary question that it has jurisdiction, any party may, within thirty days after having received notice of that ruling appeal to the High Court to decide the matter.
 
@@ -534,7 +606,9 @@ Conduct of arbitral proceedings
 
 (2) Where the parties fail to agree under subsection (1), the arbitral tribunal shall determine the language to be used in the arbitral proceedings.
 
-(3) The agreement or the determination referred to in subsections (1) and (2) respectively shall, unless otherwise specified in the agreement or determination, apply to any written statement made by a party, any hearing and any award, decision or other communication by the arbitral tribunal.
+(3) The agreement or the determination referred to in subsections
+
+(1) and (2) respectively shall, unless otherwise specified in the agreement or determination, apply to any written statement made by a party, any hearing and any award, decision or other communication by the arbitral tribunal.
 
 (4) The arbitral tribunal may order that any documentary evidence shall be accompanied by a translation into the language agreed upon by the parties or determined by the arbitral tribunal.
 
@@ -638,9 +712,7 @@ Making of award and termination of proceedings
 
 ### Form and contents of award
 
-33. (1) An award shall be made in writing and subject to subsection
-
-(2) shall be signed by the arbitrator.
+33. (1) An award shall be made in writing and subject to subsection (2) shall be signed by the arbitrator.
 
 (2) In arbitral proceedings with more than one arbitrator, the signatures of the majority of all members of the arbitral tribunal shall be sufficient provided that the reason for any omitted signature is stated.
 
@@ -1018,11 +1090,7 @@ This Bill seeks to reform the law relating to domestic arbitration, provide for 
 
 ## PART II
 
-9.
-
-## Part II contains provisions relating to arbitrations based on the model law
-
-adopted by the United Nations Commission on International Trade Law on 21 June 1985.
+9. Part II contains provisions relating to arbitrations based on the model law adopted by the United Nations Commission on International Trade Law on 21 June 1985.
 
 10. Under clause 6 a written communication which is delivered to the addressee personally or at his place of business or habitual residence or mailing address shall be deemed to have been received on the day it is so delivered. In the event that the addressee cannot be found at any of these places then the written
 
@@ -1132,4 +1200,4 @@ communication is deemed to have been received with the fulfillment of the requir
 
 This Bill will not involve the Government in any extra financial expenditure.
 
-[PN(U2)2309]
+<!-- marginal: [PN(U2)2309] -->

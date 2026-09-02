@@ -18,7 +18,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 2. Kanun Tatacara Jenayah [Akta 593] dipinda dengan memasukkan selepas Bab XXV Bab yang berikut:
 
-“Chapter XXVa
+## “CHAPTER XXVA
 
 ## RECORDING OF PROCEEDINGS BY MECHANICAL MEANS
 

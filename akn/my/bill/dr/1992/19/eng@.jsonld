@@ -1,0 +1,1091 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-19-1992",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Entertainment (Federal Territory of Kuala Lumpur) Bill 1992"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_1__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_10__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_10__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commissioner may require any person to whom a licence is granted to give security in such form as he may determine to ensure that the conditions or restrictions of the licence and the provisions of this Act or any rules made thereunder are duly observed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commissioner may, after giving the person a right to be heard, forfeit the security in whole or in part if he is satisfied that there has been any breach of the conditions or restrictions of the licence or a contravention of the provisions of this Act or any rules made thereunder: Provided that nothing in this section shall be construed so as to preclude any person from liability to prosecution."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_10__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commissioner shalt pay all the securities forfeited under this section into the fund constitured under any law relating to local government."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_11__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commissioner may at any time revoke an enlertainment licence or a licence to open a place of entertainment or both if there has been a breach of the conditions or restrictions ot\" the licence or licences or a contravention of any of the provisions of this Act or any rules made thereunder. BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_11__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_11__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_11__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Service of a notice of revocation of a licence shall be effected by—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_11__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_11__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "affixing a copy thereof at the place of entertainment;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_11__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_11__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "serving a copy thereof on the person who appears to have the care and management of the place of entertainment; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_11__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_11__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "serving a copy thereof on the licensee himself in the case where the licensee and the person referred to in paragraph (b) is not the same person."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "An applicam whose application for the grant of an"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "entertainment licence or a licence to open an entertainmenl place under this Act is refused, or a holder of a licence which is revoked, or any person aggrieved by the imposition of any conditions or restrictions on or subject to which a licence is granted or any person who is aggrieved by the forfeiture of security under section 10, may, within thirty days after being informed in writing of the refusal, or revocation, or the imposition of the conditions or restrictions, or forfeiture, as the case may be, appeal against such decision to the Minister, who shall confirm or set aside the decision; and the decision of the Minister shall be final and shall not be questioned in any court."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_13__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_13__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_13__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "It shall be unlawtul for any person—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_13__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to give, distribute, sell or offer for sale any ticket for admission to, or invite any person to any entertainmerit or to cause to be made such gift, distribution, sale, offer or invitation; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_13__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in any manner whatsoever to advertise or publicise or to cause to be advertised or publicised any entertainment to be performed in a place of entenainment, unless there has been a licence granted under section 4 in respect of that entertainment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes this section shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding three years or to both."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_14__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall sell or offer or exhibit or have in his possession for sale or solicit for the purchase of, any ticket authorizing or purporting lo authorize admission to any place of entertainment in any public thoroughfare, or in the entrance hall of or approaches to any such place, except at a box-office, booth, turnstile or counter appointed by the proprietor or manager of that place or by the organizer of the entertainment held therein."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes this section shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding two years or to both."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commissioner may, at his discretion, exempt any entertainment or class of entertainment or places of entertainment or classes of places of entertainment intended exclusively for religious, education, recreational, social, welfare or charitable purpose and not for pecuniary profit frorn any of the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Commissioner, any police officer not below the"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "rank of Inspector, or any authorized person may without warrant enter any place of entertainment at which an entertainment is being provided or is intended to be provided with a view to ascertaining whether the conditions or restrictions of any licence granted under this Act or the provisions of this Act or any rules made thereunder are being complied with, and may make such investigation and inspection of the place of entertainment and call any person to produce such articles, books, accounts, tickets or other documents or BILL things and to furnish any information as that officer or person may consider necessary for the purpose: Provided that any person not in uniform purporting to exercise any powers under this section shall on demand produce his written authority to exercise these powers to any person lawfully demanding the same."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Commissioner, any police officer not below the"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "rank of Inspector, or any authorized person authorized to exercise the power of entry and investigation under section 16 may, without prejudice to the exercise of the power conferred on him by that section, forthwith take such steps as he may consider necessary to close any place of entertainment if he is satisfied that there is a breach of any of the conditions or restrictions of the licence granted under this Act or that the entertainment held therein is in contravention of any of the provisions of this Act or any rules made thereunder."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Commissioner. any police officer not below the"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "rank of Inspeccor, or any authorized person may require any person whom he reasonably believes to have comrnitted an offence under this Act or any rules made thereunder to give his name, identity card nurnber and address."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_19__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_19__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_19__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commissioner. any police officer not below the rank of Inspector, or any authorized person may arrest without warrant—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_19__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_19__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any person reasonably believed committed an offence against this Act or any rules made thereunder; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_19__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_19__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any person who refuses to give his name and address when it is requested for or if there is reason to doubt the accuracy of the name and address given."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person arrested under this section shall be taken to a police station and shall be brought before the court within twenty-four hours unless, in respect of a person arrested under subsection (1)(b), his name and address are sooner ascertained, whereupon he shall then be released on bail."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Entertainment (Federal Territory of Kuala Lumpur) Act 1992."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall apply only to the Federal Territory of Kuala Lumpur."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall come into force on such date as the Minister may, by notification in the Gazette, appoint."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2__para_m"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires— Interpretation. \"authorized person\" means any person specially authorized by the Commissioner in writing in that behalf; \"Commissioner\" means the Commissioner of the City of Kuala Lumpur appointed under section 4 of the Federal Capital Act 1960; \"court\" means a court of a Magistrate of the First Class; \"entertainment\" includes—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commissioner, any police officer not below the rank of Inspector, or any authorized person exercising the power of entry and investigation under section 16 may, if he has good grounds for believing that by reason of any delay in obtaining a search warrant the object of the search is likely to be frustrated, with or without assistance enter any place of entertainment if he has reasonable grounds to believe that an offence under this Act or any rules made thereunder has been committed and he may search any such place and any person whom he reasonably believes to be concerned management or promotion of any entertainment or to be a servant or agent of the promoter or of the proprietor of such place: Provided that no female shall be searched except by a female."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_21__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commissioner, any police officer not below the rank of Tnspector, or any authorized person exercising the power of entry and investigation under section 16 may seize any document or thing in respect of which he reasonably believes to have a bearing on the case or to furnish evidence of the commission of an offence under this Act or any rules made thereunder: Provided that nothing in this section shall be deemed to affect the powers of a police officer under the Criminal Procedure Code."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commissioner, police officer or authorized person seizing any document or thing under subsection (1) shall prepare a list of the documents or things seized and forthwith deliver a copy signed by him to the occupier or proprietor of the place of entertainment or his servant or agent present at such place."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "All things seized under this Act shall be liable to"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "forfeiture. BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_23__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An order for the forfeiture or release of any thing seized shall be made by the court before which the prosecution with regard thereto has been held, but the court shall order forfeiture if it is proved to satisfaction that an offence against any provision of this Act or any rules made thereunder has been committed and that the things were the subject matter of or were used in the commission of the offence, notwithstanding that no person may have been convicted of such offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All things forfeited shall be delivered to the Commissioner or the police as the case may be and shall be disposed of in accordance with the directions of the Commissioner or the police."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "(1) If there be no prosecution with regard to any thing seized under this Act, such things shall be taken and deemed lo be forfeited at the expiration of one calendar month from the date of seizure unless a claim thereto is made before that date in the manner if hereinafter set forth. (2) Any person asserting that he is the owner of any thing seized under the Act and that it is not liable to forfeiture may, either personally or by his agent authorized in writing, give written notice to the Cornmissioner that he claims the same. (3) On receipt of a notice under subsection (2), the Commissioner may direct that such things be released or he may direct that the matter be referred to a Magistrate. (4) The Magistrate shall issue a summons requiring the person asserting that he is the owner of the things seized and the person from whom they were seized to appear before him, and upon their appearance or default to appear, due service of the summons being proved. the Magistrate shall proceed to the examination of the matter and on proot\" that an offence against this Act or any rules made thereunder has been committed and that such things were the subject matter or were used in the commission of such offence, shall order the same to be forfeited or, in the absence of such proof, shall order its release. BILL (2) Any person who would have been guilty of an offence if anything had been done or omitted by him personally shall be guilty of the offence and liable to tbe same penalty if such thing had been done or omitted by his partner, agent or servant in the course of partnership business or in the course of his employment, as the case may be, unless he proves that the offence was committed without his knowledge or consent and that he took all reasonable precautions to prevent the doing or omission to do such thing: Provided that nothing herein shall relieve the partner, agent or servant from liability to prosecution. 27, Prosecution in respect of offences committed under this Act or any rules made thereunder may be conducted by any authorized person or any police officer not below the rank of Inspector. 28. (1) The Commissioner may compound any offence against this Act and any rules made thereunder which is prescribed to be a compoundable offence by accepting from the person reasonably suspected of having committed such offence a sum of money not exceeding fifty per centum of the maximum fine with which the offence is punishabie. (2) Upon receipt of the payment under subsection ( l ), no further proceedings shall be taken against such person in respect of such offence and any thing seized in connection with the offence shall be released, subject to such terms and conditions as may be imposed. (3) Any monies paid to the Commissioner pursuant to the provisions of this section shall be paid into and form part of the fund constituted under any law relating to local government. 29. Any person who is guilty of an offence against this Act or any rules made thereunder for which no penalty is expressly provided shall, on conviction, be liable to a fine not exceeding two thousand ringgit or to imprisonment for a term not exceeding one year or to both."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_25__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_25__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_25__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Any person who—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_25__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "obstructs the Commissioner, any police officer, or authorized person lawfully exercising any powers conferred on him by or under section 16 in entering or inspecting any place of entertainment or delays in producing any articles, books, accounts, tickets, or other documents or things which he has been called upon by the Commissioner, police officer, or authorized person to produce and which are or ought to be in the ordinary course of business in his power to produce;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_25__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "refuses to furnish any information which he may be required to furnish by the Commissioner, police, officer, or authorized person or who, being required ro furnish information by the Comraissioner, police officer, or authorized person, furnishes false or misleading information; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_25__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "obstructs the seizure of any document or other thing under section 21, or the closure of any place of entertainment under secrion 17, shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding three years or to both."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where an offence under this Act has been committed by a body of persons, corporate or unincorporate, any person who at the time of the commission of such offence was a director, manager, secretary, or other similar officer of the body of persons, or who was purporting to act in any such capacity, shall be deemed to be guilty of that offence unless he proves that the offence was committed without his consent or connivance, and that he exercised such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances. 30. The Minister may make rules to prescribe anything required by this Act to be prescribed and for the better carrying out of the provisions of this Act and, without prejudice to the generality of this section, the rules may—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1__list_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1__list_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1__list_1__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prescribe such fees as may be necessary for the purposes of this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prescribe the forms for application of licences and the licences to be issued under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prescribe the types of offences that may be compounded and the procedures for the compounding of such offences;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1__list_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prescribe the entertainment or classes of entertainment or places of entertainment or classes of places of entertainment that are exempted from any provision of this Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1__list_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "provide for the regulation and inspection of places of entertainment. 31. The Theatres and Places of Public Amusement Act (Federal Territory) 1977 is hereby repealed: Provided that—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1__list_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1__list_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1__list_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "nothing contained in this Act shall affect any person's liability to be prosecuted or punished for offences committed under the repealed Act before the coming into operation of this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any proceedings pending before the coming into operation of this Act shall be continued under the repealed laws as if this Act had not been made;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "licences issued under the repealed Act shall continue in force and have effect as if they had been granted under this Act and may be revoked under this Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1__list_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_26__subsec_1__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "appointments or authorizations made under the repealed Act shall continue in force and have effect as if they had been made under this Act until cancelled or superseded under this Act. BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "plays, operas, pantomimes, variety acts, performances of music, singing, dancing, BILL gymnastics, martial art demonstrations, acrobatics and legerdemain, beauty contests, tableaux, demonstrations, displays and parades, in which living persons take part;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "displays of fireworks, set pieces, commemo- rative decorations and representations of real or mythical creatures;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "circuses and exhibitions of animals;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "exhibitions of models, reading matter, pictures, photographs or of statuary or other forms of representation of human or animal figures;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "exhibitions of cinematograph films, video movies and puppet-shows;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "reproductions or transmissions otherwise than in association with a cinematograph film, by any means whatsoever other than telephony or radio telephony, of any music, song or speech;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "machines and devices by the manipulation of which chances are given of obtaining prizes in money or kind;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "pin-table and video games;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "sporting contests of any kind between any number of persons or animals;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "organized competitions at games of skill or chance;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "trade fairs consisting of the exhibition, advertisement or sale of the products of industries or of materials;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any combination of any of the above forms of entertainment; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other entertainment which the Minister may, from time to time by order in the Gazette, declare, in any place to which members of the public are admitted with or without payment of money or other consideration; \"Minister\" means the Minister responsible for the local government of the Federal Territory of Kuala Lumpur; \"pin-table\" means any coin or disc operated table, board or other appliance designed to enable the operator to play a game, success in which is measured by the propulsion of one or more movable objects towards targets or goals or by the attainment of a number of points or by both; \"place of entertainment\" means any place on which there is any erection or structure, any premises or building whether temporary or permanent or any water- borne craft or other place in or at which an entertainment is provided and to which the public are admitted with or without payment for admission, and includes an amusement park."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Minister may from time to time give the"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Commissioner directions of a general character, and not inconsistent with the provisions of this Act, as to the exercise of the powers and discretions conferred on the Commissioner by this Act or any rules made thereunder and the Commissioner shall give effect to all such directions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_4__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_4__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_4__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No entertainment shall be provided in any place of entertainment unless the Commissioner has granted—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_4__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a licence in respect of such entertainment; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_4__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a licence to open such place of entertainment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes this section shall be guilty of an offence and shall. on conviction, be liable to a fine not exceeding twenty thousand ringgit or to imprisonment for a term not exceeding five years or to both."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_5__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_5__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_5__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application for a licence under section 4 (1) shall be made in the prescribed form and shall be submitted to the Commissioner. BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commissioner may, in his discretion, grant a licence with or without attaching any condition or conditions thereto or refuse to grant such a licence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where application for a licence is granted, such licence shall be issued upon payment of the prescribed fee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_5__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No entertainment licence shall be granted under this Act unless a licence has been obtained from the Commissioner to open the place of entertainment at which that entertainment is going to be provided."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_5__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commissioner shall pay all monies collected under this section into the fund constituted under any law relating to local government."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_6__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_6__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_6__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_6__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of considering an application for an entertainment licence, the Commissioner may require the applicant to furnish to him the script, if any, and such information as he may specify relating to the following matters:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_6__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "particulars of persons concerned promotion of the entertainment and the interests represented by those persons;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_6__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "particulars of the persons who have agreed to participate or have participated entertainment or have been invited to do so and the interests represented by those persons; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_6__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the purpose to which any profits from the entertainment are intended to be or have been applied."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of this section, the expression \"script\", in relation to a performance of a play, means the text of the play (whether expressed in words or in musical or other notation) together with any stage or other directions for its performance, whether contained in a single document or not."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of considering an application for a licence to open an entertainment place, Commissioner may require the applicant to furnish to him such additional inforrnation as he may require."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "A licence issued under this Act shall be for such"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "period as the Commissioner may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "A licence issued under this Act shall at all times be"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "exhibited at a conspicuous place in the place of entertainment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "A licence shall not be renewable as of right and an"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "application to renew a licence shall be treated as an application for a licence."
+      }
+    }
+  ]
+}

@@ -18,7 +18,19 @@ BE IT ENACTED by the Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Ag
 
 ### Title
 
-Amount (RM) 25,631,800 B. 1 Parliament 1,054,100 B. 2 Office of the Keeper of the Rulers' Seal 34,453,500 B. 3 Audit Department B. 4 Election Commission 17,397,500 B. 5 Public Services Commission 15,970,900 B. 6 Education Service Commission 5,675,900 B. 7 Prime Minister's Department 539,361,300 B. 8 Public Services Department 474,080,600
+<!-- marginal: Amount -->
+
+<!-- marginal: (RM) -->
+
+25,631,800 B. 1 Parliament
+
+<!-- marginal: 1,054,100 -->
+
+B. 2 Office of the Keeper of the Rulers' Seal 34,453,500 B. 3 Audit Department B. 4 Election Commission 17,397,500 B. 5 Public Services Commission 15,970,900 B. 6 Education Service Commission
+
+<!-- marginal: 5,675,900 -->
+
+B. 7 Prime Minister's Department 539,361,300 B. 8 Public Services Department 474,080,600
 
 <!-- page 2 -->
 
@@ -50,9 +62,45 @@ B. 39 National Registration Department 64,473,500 B. 40 Prisons Department 136,4
 
 <!-- page 3 -->
 
-Purpose Title Amount (RM)
+Purpose Title
 
-142,067,700 B. 42 Ministry of National Unity and Social Development B. 43 Ministry of Law 75,848,200 B. 44 Ministry of Information 289,977,100 100,685,600 B. 45 Ministry of Human Resources B. 46 Ministry of Science, Technology 135,111,500 and Environment B. 47 Ministry of Transport 259,687,200 2,000,000 B. 48 Ministry of Sabah Affairs 22,185,600 B. 49 Ministry of Energy, Telecommunications and Posts B. 50 Ministry of Public Enterprises 105,729,900 B. 51 Ministry of Foreign Affairs 206,490,600 B. 52 Ministry of Works 883,665,000 B. 53 Ministry of Land and Co-operative 136,235,200 Development B. 54 Ministry of Rural Development 426,176,300 B. 55 Department of Orang Asli Affairs 39,316,600
+<!-- marginal: Amount -->
+
+<!-- marginal: (RM) -->
+
+<!-- marginal: 142,067,700 -->
+
+B. 42 Ministry of National Unity and Social Development B. 43 Ministry of Law
+
+<!-- marginal: 75,848,200 -->
+
+B. 44 Ministry of Information 289,977,100
+
+<!-- marginal: 100,685,600 -->
+
+B. 45 Ministry of Human Resources B. 46 Ministry of Science, Technology
+
+<!-- marginal: 135,111,500 -->
+
+and Environment B. 47 Ministry of Transport 259,687,200
+
+<!-- marginal: 2,000,000 -->
+
+B. 48 Ministry of Sabah Affairs
+
+<!-- marginal: 22,185,600 -->
+
+B. 49 Ministry of Energy, Telecommunications and Posts B. 50 Ministry of Public Enterprises
+
+<!-- marginal: 105,729,900 -->
+
+B. 51 Ministry of Foreign Affairs 206,490,600 B. 52 Ministry of Works 883,665,000 B. 53 Ministry of Land and Co-operative
+
+<!-- marginal: 136,235,200 -->
+
+Development B. 54 Ministry of Rural Development 426,176,300 B. 55 Department of Orang Asli Affairs
+
+<!-- marginal: 39,316,600 -->
 
 ## TOTAL
 

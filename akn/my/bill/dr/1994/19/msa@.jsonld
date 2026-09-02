@@ -81,7 +81,7 @@
       },
       "schema:text": {
         "@language": "ms",
-        "@value": "\"KTMB\" ertinya Keretapi Tanah Melayu Berhad; \"Kumpulan Wang\" ertinya Kumpulan Wang Simpanan Keretapi Tanah Melayu yang ditubuhkan di bawah Ord 21/1952. seksyen 3 Ordinan Kumpulan Wang Simpanan Keretapi Tanah Melayu 1952; \"Lembaga\" ertinya Lembaga pengurus yang ditubuhkan di bawah subseksyen 4(1) Ordinan Kumpulan Wang Simpanan Keretapi Tanah Melayu 1952; \"Menteri\" ertinya Menteri yang pada masa ini dipertanggungkan dengan tanggungjawab bagi pengangkutan. Pemansuhan"
+        "@value": "\"KTMB\" ertinya Keretapi Tanah Melayu Berhad; \"Kumpulan Wang\" ertinya Kumpulan Wang Simpanan Keretapi Tanah Melayu yang ditubuhkan di bawah seksyen 3 Ordinan Kumpulan Wang Simpanan Keretapi Tanah Melayu 1952; \"Lembaga\" ertinya Lembaga pengurus yang ditubuhkan di bawah subseksyen 4(1) Ordinan Kumpulan Wang Simpanan Keretapi Tanah Melayu 1952; \"Menteri\" ertinya Menteri yang pada masa ini dipertanggungkan dengan tanggungjawab bagi pengangkutan."
       }
     },
     {
@@ -89,9 +89,13 @@
       "@type": "akn:clause",
       "eli:number": "3",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Ordinan Kumpulan Wang Simpanan Keretapi Tanah"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Ordinan Kumpulan Wang Simpanan Keretapi Tanah dan Melayu 1952 adalah dimansuhkan dan Kumpulan Wang pemoubaran. yang ditubuhkan di bawahnya adalah dibubarkan. Pemindahan"
+        "@value": "Melayu 1952 adalah dimansuhkan dan Kumpulan Wang yang ditubuhkan di bawahnya adalah dibubarkan."
       }
     },
     {
@@ -99,9 +103,13 @@
       "@type": "akn:clause",
       "eli:number": "4",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Segala harta alih dan aset yang sebelum sahaja mula"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Segala harta alih dan aset yang sebelum sahaja mula harta. berkuatkuasanya Akta ini telah terletakhak pada Kumpulan Wang atau pada mana-mana orang bagi pihaknya hendaklah, pada mula berkuatkuasanya Akta ini, dipindahkan kepada, dan diletakhakkan pada, KTMB. Pemindahan"
+        "@value": "berkuatkuasanya Akta ini telah terletakhak pada Kumpulan Wang atau pada mana-mana orang bagi pihaknya hendaklah, pada mula berkuatkuasanya Akta ini, dipindahkan kepada, dan diletakhakkan pada, KTMB."
       }
     },
     {
@@ -109,9 +117,13 @@
       "@type": "akn:clause",
       "eli:number": "5",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada seksyen 7, semua wang yang ada"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Tertakluk kepada seksyen 7, semua wang yang ada wang. dalam Kumpulan Wang atau kena dibayar kepada Kumpulan Wang hendaklah, pada mula berkuatkuasanya Akta ini, dipindahkan kepada, dan diletakhakkan pada, KTMB. Kontrak yang"
+        "@value": "dalam Kumpulan Wang atau kena dibayar kepada Kumpulan Wang hendaklah, pada mula berkuatkuasanya Akta ini, dipindahkan kepada, dan diletakhakkan pada, KTMB."
       }
     },
     {
@@ -119,9 +131,13 @@
       "@type": "akn:clause",
       "eli:number": "6",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Segala suratikatan, bon, perjanjian, suratcara dan"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Segala suratikatan, bon, perjanjian, suratcara dan sedia ada. perkiraan kerja yang masih berkuatkuasa sebelum sahaja mula berkuatkuasanya Akta ini dan yang menyentuh apa- apa harta yang dipindahkan di bawah seksyen 4 dan 5, hendaklah mempunyai kuatkuasa dan kesan sepenuhnya terhadap atau untuk KTMB dan boleh dikuatkuasakan dengan sepenuhnya dan berkesan seolah-olah KTMB dan bukan Lembaga, Kumpulan Wang, Pentadbiran Keretapi Tanah Melayu itu, atau mana-mana orang atau badan yang bertindak bagi pihaknya, telah dinamakan di dalamnya atau telah menjadi suatu pihak kepadanya. TANAH MELAYU (PEMBUBARAN)"
+        "@value": "perkiraan kerja yang masih berkuatkuasa sebelum sahaja mula berkuatkuasanya Akta ini dan yang menyentuh apa- apa harta yang dipindahkan di bawah seksyen 4 dan 5, hendaklah mempunyai kuatkuasa dan kesan sepenuhnya terhadap atau untuk KTMB dan boleh dikuatkuasakan dengan sepenuhnya dan berkesan seolah-olah KTMB dan bukan Lembaga, Kumpulan Wang, Pentadbiran Keretapi Tanah Melayu itu, atau mana-mana orang atau badan yang bertindak bagi pihaknya, telah dinamakan di dalamnya atau telah menjadi suatu pihak kepadanya. TANAH MELAYU (PEMBUBARAN)"
       }
     },
     {

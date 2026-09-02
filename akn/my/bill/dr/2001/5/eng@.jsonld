@@ -1,0 +1,92 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/5/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/5"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-5-2001",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/5/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/5/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/5/eng@/~cl_3"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Lembaga Letrik Sabah (Amendment) Bill 2001"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/5/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/5/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/5/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/5/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/5/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/5/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Lembaga Letrik Sabah (Amendment) Act 2001."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/5/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/5/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall be deemed to have come into operation on 1 September 1998. New sections 90A and 90B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/5/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Lembaga Letrik Sabah Act 1983 [Act 278], which in this"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Act is referred to as the \"principal Act\", is amended in Part X by inserting before section 91 the following sections: Vesting 90A. (1) The Minister may, by order published in the provisions. Gazette, appoint a vesting date and on such date all or any of the property, rights and liabilities to which the Board was entitled or subject immediately before that date shall become by virtue of this section the property, rights and liabilities of the person specified in the order (\"the specified person\"). (2) For the avoidance of doubt— (a) any reference to property to which the Board was entitled is a reference to land and choses- in-action of the Board whether situated in Malaysia or elsewhere; (b) any reference to rights and liabilities to which the Board was entitled or subject is a reference to rights to which the Board is entitled or, as the case may be, liabilities to which the Board is subject, whether under the laws of Malaysia or any country outside Malaysia and includes rights and liabilities arising under loans raised; and (c) any reference to any of the matters contained in paragraphs (a) and (b) is a reference to property, rights and liabilities which have not been vested in another person pursuant to the exercise of the additional powers conferred on the Board under subsection 3(1A). (3) Every chose-in-action vested by subsection (1) in the specified person may, after the vesting date, be sued on, recovered or enforced by the specified person in that person's own name and it shall not be necessary for the specified person or the Board to give notice to any person bound by the chose-in-action of the vesting effected by the subsection. (4) Every right and liability vested by subsection (1) in the specified person may, on and after the vesting date, be sued on, recovered or enforced by or against the specified person in that person's own name and it shall not be necessary for the specified person or the Board to give notice to any person whose right or liability has been vested in the specified person of the vesting effected by the subsection. (5) The specified person may enter into any arrangements or agreements with the Government of Malaysia or any third party on any of the rights and liabilities arising under any loans vested in the specified person under subsection (1). 90B. (1) Where the Minister has appointed a vesting date under section 90A, the specified person shall make an application to the High Court by way of an ex pane : originating summons to seek all or any of the following orders: (a) an order giving effect to the vesting of all or any of the alienated lands, or any share or interest in such lands, in Sabah belonging to the Board in the specified person; or/and (b) for all such incidental, consequential and supplemental orders as are necessary to secure that the giving into effect of the vesting shall be fully and effectively carried out. (2) On the hearing of an application under subsection (1), the High Court may grant an order in the terms applied for, or with such modifications or variations as the High Court deems just or proper in the circumstances of the case. (3) An order granted by the High Court under subsection (2) shall have effect according to its terms notwithstanding anything in any law or in any rule of law, and shall be binding on any person affected thereby, regardless that the person so affected is not a party to the proceedings, or had no notice of the proceedings under this section or of other related proceedings. (4) The specified person shall, as soon as practicable after the order has been made, present an authenticated copy of such order to the Registrar and the Collector for the registration of all or any of the alienated lands, or of any share or interest in such lands, in Sabah belonging to the Board in the name of such person in accordance with the Land Ordinance of Sabah. (5) In this section, \"the Registrar\" and \"the Collector\" shall have the respective meanings assigned to them under the Land Ordinance of Sabah.\". Amendment to section 91"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/5/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended in section 91 by inserting after the word \"assets\" the words \"as provided for in subsection 3(lA), or by virtue of the vesting of the property, rights and liabilities of the Board as provided for in section 90A\"."
+      }
+    }
+  ]
+}

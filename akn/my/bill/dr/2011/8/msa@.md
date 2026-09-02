@@ -352,7 +352,7 @@
 
 ### Jadual yang berikut:
 
-“Jadual KetuJuh
+## “JADUAL KETUJUH
 
 [Seksyen 1a dan 6a]
 
@@ -362,7 +362,7 @@
 
 ## UNDANG-UNDANG DI MALAYSIA
 
-Perkara I
+## Perkara I
 
 ## KEPERIBADIAN JURIDIKAL
 
@@ -380,7 +380,7 @@ Pertubuhan Bangsa-Bangsa Bersatu hendaklah mempunyai personaliti juridikal. Ia h
 
 ### Kekebalan) (Pindaan)
 
-Perkara II
+## Perkara II
 
 ## HARTA, DANA DAN ASET
 
@@ -424,7 +424,7 @@ Pertubuhan Bangsa-Bangsa Bersatu, aset, pendapatan dan harta lainnya hendaklah�
 
 Walaupun Pertubuhan Bangsa-Bangsa Bersatu tidak akan, secara amnya, menuntut pengecualian daripada duti eksais dan daripada cukai ke atas penjualan harta alih dan harta tak alih yang menjadi sebahagian daripada harga yang kena dibayar, namun apabila Pertubuhan Bangsa-Bangsa Bersatu membuat pembelian penting harta bagi kegunaan rasmi yang ke atasnya duti dan cukai telah dikenakan atau boleh dikenakan, Anggota akan, bilamana mungkin, membuat perkiraan pentadbiran yang bersesuaian bagi peremitan atau pemulangan amaun duti atau cukai itu.
 
-Perkara III
+## Perkara III
 
 ## KEMUDAHAN BERKENAAN DENGAN KOMUNIKASI
 
@@ -440,7 +440,7 @@ Pertubuhan Bangsa-Bangsa Bersatu hendaklah mempunyai hak untuk menggunakan kod d
 
 ### Kekebalan) (Pindaan)
 
-Perkara IV
+## Perkara IV
 
 ## WAKIL ANGGOTA
 
@@ -484,7 +484,7 @@ Peruntukan seksyen 11,12 dan 13 tidak terpakai antara seorang wakil dengan pihak
 
 Dalam Perkara ini, ungkapan “wakil” hendaklah disifatkan merangkumi semua wakil, timbalan wakil, penasihat, pakar teknikal dan setiausaha perwakilan.
 
-Perkara V
+## Perkara V
 
 ## PEGAWAI
 
@@ -528,7 +528,7 @@ Pertubuhan Bangsa-Bangsa Bersatu hendaklah bekerjasama dengan pihak berkuasa Ang
 
 <!-- page 12 -->
 
-Perkara VI
+## Perkara VI
 
 ## PAKAR DALAM MISI BAGI PERTUBUHAN BANGSA-BANGSA BERSATU
 
@@ -552,7 +552,7 @@ Pakar (selain pegawai dalam ruang lingkup Perkara V) yang menjalankan misi bagi 
 
 Keistimewaan dan kekebalan diberikan kepada pakar untuk kepentingan Pertubuhan Bangsa-Bangsa Bersatu dan bukan untuk faedah peribadi individu itu. Setiausaha Agung hendaklah mempunyai hak dan kewajipan untuk mengetepikan kekebalan mana-mana pakar dalam keadaan jika, pada pendapatnya, kekebalan itu akan menghalang proses keadilan dan boleh diketepikan tanpa menjejaskan kepentingan Pertubuhan Bangsa-Bangsa Bersatu.
 
-Perkara VII
+## Perkara VII
 
 ## LAISSEZ-PASSER PERTUBUHAN BANGSA-BANGSA BERSATU
 
@@ -580,7 +580,7 @@ Setiausaha Agung, Penolong Setiausaha Agung dan Pengarah yang berjalan atas lais
 
 Peruntukan Perkara ini boleh terpakai bagi pegawai agensi khusus yang setara jika perjanjian bagi perhubungan yang dibuat di bawah Perkara 63 Piagam membenarkan sedemikian.
 
-Perkara VIII
+## Perkara VIII
 
 ## PENYELESAIAN PERTIKAIAN
 
@@ -628,7 +628,7 @@ Konvensyen ini hendaklah terus berkuat kuasa antara Pertubuhan Bangsa- Bangsa Be
 
 Setiausaha Agung boleh membuat perjanjian tambahan dengan mana-mana Anggota atau Anggota-Anggota yang menyelaraskan peruntukan Konvensyen ini setakat yang berkenaan bagi Anggota atau Anggota-Anggota itu. Perjanjian tambahan ini hendaklah dalam setiap hal tertakluk kepada kelulusan Perhimpunan Agung.
 
-## Jadual Kelapan
+## JADUAL KELAPAN
 
 [Seksyen 1b dan 6b]
 
@@ -638,7 +638,7 @@ Setiausaha Agung boleh membuat perjanjian tambahan dengan mana-mana Anggota atau
 
 ## DI MALAYSIA
 
-Perkara I
+## Perkara I
 
 ## TAKRIF DAN SKOP
 
@@ -694,7 +694,7 @@ Dalam Konvensyen ini—
 
 Setiap Negara pihak kepada Konvensyen ini berkenaan dengan mana-mana agensi khusus yang baginya Konvensyen ini terpakai mengikut seksyen 37 hendaklah memberikan kepada, atau berhubungan dengan, agensi itu keistimewaan dan kekebalan yang dinyatakan dalam fasal am tentang syarat-syarat yang dinyatakan dalamnya, tertakluk kepada apa-apa ubah suaian kepada fasal yang terkandung dalam peruntukan lampiran yang muktamad (atau yang disemak) yang berhubungan dengan agensi itu dan dikemukakan mengikut seksyen 36 atau 38.
 
-Perkara II
+## Perkara II
 
 ## KEPERIBADIAN JURIDIKAL
 
@@ -712,7 +712,7 @@ Agensi-agensi khusus hendaklah mempunyai keperibadian juridikal. Agensi- agensi 
 
 ### Kekebalan) (Pindaan)
 
-Perkara III
+## Perkara III
 
 ## HARTA, DANA DAN ASET
 
@@ -756,7 +756,7 @@ Agensi-agensi khusus, aset, pendapatan dan harta lainnya hendaklah—
 
 Walaupun agensi-agensi khusus tidak akan, secara amnya, menuntut pengecualian daripada duti eksais dan daripada cukai ke atas penjualan harta alih dan harta tak alih yang menjadi sebahagian daripada harga yang kena dibayar, namun apabila agensi-agensi khusus itu membuat pembelian penting harta bagi kegunaan rasmi yang ke atasnya duti dan cukai telah dikenakan atau boleh dikenakan, Negara pihak kepada Konvensyen ini akan, bila mungkin, membuat perkiraan pentadbiran yang bersesuaian bagi peremitan atau pemulangan amaun duti atau cukai.
 
-Perkara IV
+## Perkara IV
 
 ## KEMUDAHAN BERKENAAN DENGAN KOMUNIKASI
 
@@ -776,7 +776,7 @@ Agensi-agensi khusus itu hendaklah mempunyai hak untuk menggunakan kod dan mengh
 
 Tiada apa-apa di dalam seksyen ini boleh ditafsirkan untuk menghalang penerimapakaian pengawasan keselamatan yang sewajarnya yang akan ditentukan oleh perjanjian antara suatu Negara pihak kepada Konvensyen ini dengan suatu agensi khusus.
 
-Perkara V
+## Perkara V
 
 ## WAKIL ANGGOTA
 
@@ -814,7 +814,7 @@ Keistimewaan dan kekebalan diberikan kepada wakil anggota, bukan untuk faedah pe
 
 Peruntukan seksyen 13,14 dan 15 tidak terpakai berhubung dengan pihak berkuasa sesuatu Negara yang orang itu ialah seorang warganegara atau yang dia ialah atau telah menjadi wakil.
 
-Perkara VI
+## Perkara VI
 
 ## PEGAWAI
 
@@ -862,7 +862,7 @@ Keistimewaan dan kekebalan diberikan kepada pegawai bagi kepentingan agensi-agen
 
 Setiap agensi khusus hendaklah bekerjasama dengan pihak berkuasa Negara pihak yang berkenaan pada setiap masa untuk membantu pentadbiran keadilan yang sepatutnya, menjamin kepatuhan kepada peraturan-peraturan polis dan mencegah daripada berlakunya apa-apa penyalahgunaan berkenaan dengan keistimewaan, kekebalan dan kemudahan yang disebut dalam Perkara ini.
 
-Perkara VII
+## Perkara VII
 
 ## PENYALAHGUNAAN KEISTIMEWAAN
 
@@ -884,7 +884,7 @@ Jika mana-mana Negara pihak kepada Konvensyen ini menganggap bahawa terdapat pen
 
 berkenaan: dan jika prosiding pemecatan diambil terhadap seseorang pegawai, ketua eksekutif agensi khusus itu berhak untuk hadir dalam prosiding itu bagi pihak orang yang terhadapnya prosiding itu dimulakan.
 
-Perkara VIII
+## Perkara VIII
 
 ## LAISSEZ-PASSER
 
@@ -910,7 +910,7 @@ Ketua eksekutif, penolong ketua eksekutif, ketua jabatan dan pegawai lain yang b
 
 <!-- page 24 -->
 
-Perkara IX
+## Perkara IX
 
 ## PENYELESAIAN PERTIKAIAN
 
@@ -926,7 +926,7 @@ Setiap agensi khusus hendaklah membuat peruntukan untuk cara penyelesaian yang s
 
 Semua perbezaan yang timbul daripada pentafsiran atau pemakaian Konvensyen ini hendaklah dirujukkan kepada Mahkamah Keadilan Antarabangsa, melainkan jika dalam apa-apa kes telah dipersetujui oleh pihak-pihak untuk menggunakan cara penyelesaian yang lain. Jika perbezaan timbul antara suatu agensi khusus di satu pihak, dengan suatu anggota di pihak yang satu lagi, permintaan hendaklah dibuat bagi nasihat undang-undang ke atas apa-apa soalan undang-undang yang terlibat mengikut Perkara 96 Piagam dan Perkara 65 Statut Mahkamah dan peruntukan berkaitan perjanjian yang dibuat antara Pertubuhan Bangsa-Bangsa Bersatu denagan agensi khusus yang berkenaan. Pandangan yang diberikan oleh Mahkamah hendaklah diterima sebagai muktamad oleh pihak-pihak.
 
-Perkara X
+## Perkara X
 
 ## LAMPIRAN-LAMPIRAN DAN PEMAKAIAN KEPADA AGENSI-AGENSI KHUSUS
 
@@ -974,7 +974,7 @@ Adalah difahamkan bahawa fasal-fasal am, sebagaimana yang diubahsuaikan dalam te
 
 Konvensyen ini tidak akan secara sendiri bertindak untuk memansuhkan atau menjejaskan apa-apa peruntukan surat cara perlembagaan mana-mana agensi khusus atau apa-apa hak atau obligasi yang agensi itu mungkin selainnya memperoleh atau mengambil alih.
 
-Perkara XI
+## Perkara XI
 
 ## PERKARA AKHIR
 

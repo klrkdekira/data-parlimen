@@ -8,9 +8,7 @@
 
 bernama
 
-Suatu Akta untuk meminda Akta Perindustrian Sekuriti
-
-1983. [ ]
+Suatu Akta untuk meminda Akta Perindustrian Sekuriti 1983. [ ]
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 
@@ -50,9 +48,11 @@ disebut "Akta ibu" dalam Akta ini, adalah dipinda—
 
 <!-- page 2 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Seksyen 40 Akta ibu adalah dipinda— seksyen 40.
+3. Seksyen 40 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 40. -->
 
 (a) dengan memotong subseksyen (4);
 

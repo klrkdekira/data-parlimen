@@ -42,15 +42,21 @@ Act shall come into force on the day of its publication in the Gazette.
 
 (5) Paragraphs 5(l)(a) and 5(l)(c) shall be deemed to have come into force on 24 June 1994.
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. The principal Act is amended by substituting for the of long title. long title the following long title:
+4. The principal Act is amended by substituting for the
+
+<!-- marginal: of long title. -->
+
+long title the following long title:
 
 "An Act to provide for the commencement, application, construction, interpretation and operation of written laws; to provide for matters in relation to the exercise of statutory powers and duties; and for matters connected thereto.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-5. (1) Section 3 of the principal Act, is amended— of section 3.
+5. (1) Section 3 of the principal Act, is amended—
+
+<!-- marginal: of section 3. -->
 
 (a) by substituting for the definition of "Lord President" the following definition: ' "Chief Justice" means the Chief Justice of the Federal Court;';
 
@@ -124,19 +130,45 @@ after subsection (1) the following subsection:
 
 <!-- page 4 -->
 
-commencement, application, operation, interpretation or construction of the subsidiary legislation or to any other matter in connection with such subsidiary legislation if provisions relating to the commencement, application, operation, interpretation or construction of, or other matter in connection with, subsidiary legislation generally are contained in this Act.".
+commencement, application, operation, interpretation or construction of the subsidiary legislation or to any other matter in connection with such subsidiary legislation if provisions relating
 
-Amendment
+<!-- marginal: to -->
 
-10. Section 25 of the principal Act is amended by of inserting after the word "enabling," the words "whether section 25. in the Act or other written law under which it is made or under this Act and".
+<!-- marginal: the -->
 
-Amendment
+commencement, application, operation, interpretation or construction of, or other matter in connection with, subsidiary legislation generally are contained in this Act.".
 
-11. Section 27 of the principal Act is amended by of substituting for the words "Subsidiary legislation may section 27. provide for persons guilty of offences thereunder" the words "Notwithstanding the absence of any express provision in any Act or other written law, subsidiary legislation may provide that contravention of any provision of the subsidiary legislation shall constitute an offence and for persons guilty of such offence".
+<!-- marginal: Amendment -->
 
-New
+10. Section 25 of the principal Act is amended by
 
-12. The principal Act is amended by inserting after section 62A. section 62 the following section:
+<!-- marginal: of -->
+
+inserting after the word "enabling," the words "whether
+
+<!-- marginal: section 25. -->
+
+in the Act or other written law under which it is made or under this Act and".
+
+<!-- marginal: Amendment -->
+
+11. Section 27 of the principal Act is amended by
+
+<!-- marginal: of -->
+
+substituting for the words "Subsidiary legislation may
+
+<!-- marginal: section 27. -->
+
+provide for persons guilty of offences thereunder" the words "Notwithstanding the absence of any express provision in any Act or other written law, subsidiary legislation may provide that contravention of any provision of the subsidiary legislation shall constitute an offence and for persons guilty of such offence".
+
+<!-- marginal: New -->
+
+12. The principal Act is amended by inserting after
+
+<!-- marginal: section 62A. -->
+
+section 62 the following section:
 
 62A. Where under any written law any Use of electronic information is permitted or required to be given means or or kept or maintained, and no means or medium medium. is specified, such information may be given or kept or maintained by electronic means and on electronic medium if the identity of the person giving the information or the source of any information given by such means is capable of being determined or verified, and if sufficient precautionary measures have been applied to prevent unauthorised access to any information recorded or fixed by such means or on such medium.".
 

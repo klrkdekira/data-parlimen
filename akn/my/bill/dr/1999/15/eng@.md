@@ -638,7 +638,9 @@ Exemption from taxation
 
 (b) dues or taxes on private immovable property situated in the territory of the receiving State, subject to the provisions of Article 32;
 
-(c) estate, succession or inheritance duties, and duties on transfers, levied by the receiving State, subject to the provisions of paragraph (b) of Article 51;
+(c) estate, succession or inheritance duties, and duties on transfers, levied by the receiving State, subject to the provisions of paragraph (b) of
+
+## Article 51;
 
 (d) dues and taxes on private income, including capital gains, having its source in the receiving State and capital taxes relating to investments made in commercial or financial undertakings in the receiving State;
 

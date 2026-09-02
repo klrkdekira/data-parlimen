@@ -1,0 +1,171 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-9-2014",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@/~cl_8"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-undang Lembaga Hasil Dalam Negeri Malaysia (Pindaan) 2014"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Lembaga Hasil Dalam Negeri Malaysia (Pindaan) 2014. Pindaan seksyen 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Lembaga Hasil Dalam Negeri Malaysia 1995 [Akta 533], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam subseksyen 6(1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (c) perenggan yang berikut: “ (ca) ketua pegawai eksekutif;”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (e), dengan menggantikan perkataan “dua” dengan perkataan “tiga”. Pindaan seksyen 23"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 23 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 2(d), dengan menggantikan perkataan “Lembaga” dengan perkataan “Panel Pelaburan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(3) Kumpulan Wang hendaklah dibelanjakan bagi maksud— (a) menjelaskan semua pembayaran yang dikehendaki supaya dibuat di bawah Akta ini; (b) tertakluk kepada seksyen 28, apa-apa pelaburan; (c) membayar apa-apa belanja lain, kos atau perbelanjaan yang dilakukan dengan sepatutnya atau diterima oleh Lembaga dalam melaksanakan fungsinya dan menjalankan kuasanya; dan (d) secara am membayar apa-apa belanja bagi melaksanakan peruntukan Akta ini dan berkaitan dengan pentadbiran Kumpulan Wang.”. Penggantian seksyen 24"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 24 dengan seksyen yang berikut: “Anggaran tahunan 24. (1) Ketua pegawai eksekutif hendaklah, tidak lewat daripada satu bulan sebelum bermulanya setiap tahun kewangan, dalam mesyuarat Lembaga, membentangkan di hadapan Lembaga itu suatu anggaran perbelanjaan Lembaga (termasuk perbelanjaan modal) bagi tahun yang berikutnya dengan apa-apa butir dan mengikut bentuk yang ditentukan oleh Lembaga. (2) Suatu salinan anggaran yang disebut dalam subseksyen (1) hendaklah dihantar kepada setiap anggota Lembaga tidak kurang daripada empat belas hari sebelum anggaran itu dibentangkan.”. Seksyen baru 27a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 27 seksyen yang berikut: “Panel Pelaburan 27a. (1) Suatu Panel Pelaburan yang bertanggungjawab bagi perkara mengenai pelaburan Kumpulan Wang yang hendaklah terdiri daripada anggota yang berikut hendaklah ditubuhkan: (a) mana-mana orang yang dilantik oleh Menteri, yang hendaklah menjadi Pengerusi Panel Pelaburan; (b) Gabenor Bank Negara Malaysia atau wakilnya; (c) seorang wakil daripada Kementerian Kewangan; (d) ketua pegawai eksekutif, yang hendaklah menjadi setiausaha; dan (e) tiga orang lain yang hendaklah mempunyai pengalaman dalam kewangan, perniagaan atau pengalaman lain yang berkaitan, yang dilantik oleh Menteri. (2) Panel Pelaburan hendaklah tertakluk kepada apa-apa arahan mengenai dasar am yang dikeluarkan oleh Lembaga dan diluluskan oleh Menteri dari semasa ke semasa. (3) Panel Pelaburan hendaklah melaporkan aktivitinya kepada Lembaga mengikut apa-apa bentuk dan cara sebagaimana yang ditentukan oleh Lembaga. (4) Apa-apa elaun bolehlah dibayar kepada anggota Panel Pelaburan daripada Kumpulan Wang sebagaimana yang ditentukan oleh Lembaga, dengan kelulusan Menteri. (5) Peruntukan Jadual Keempat hendaklah terpakai bagi anggota Panel Pelaburan.”. Penggantian seksyen 28"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 28 dengan seksyen yang berikut: “28. (1) Panel Pelaburan hendaklah, tertakluk kepada apa-apa arahan yang dikeluarkan di bawah subseksyen 27a(2), melaburkan wang Kumpulan Wang mengikut cara yang berikut: (a) dengan mendepositkannya— (i) dalam Bank Negara Malaysia; (ii) dalam bank berlesen atau bank pelaburan berlesen yang dilesenkan sewajarnya di bawah Akta Perkhidmatan Kewangan 2013 [Akta 758]; (iii) dalam bank Islam berlesen yang dilesenkan sewajarnya di bawah Akta Perkhidmatan Kewangan Islam 2013 [Akta 759]; atau (iv) dalam mana-mana institusi kewangan yang ditubuhkan oleh atau di bawah mana-mana undang-undang bertulis; (b) dengan melabur— (i) dalam saham yang ditawarkan menurut suatu tawaran awam permulaan yang telah diluluskan di bawah Akta Pasaran Modal dan Perkhidmatan 2007 [Akta 671] atau saham yang disenaraikan dalam bursa saham yang diluluskan di bawah Akta Pasaran Modal dan Perkhidmatan 2007; atau (ii) dalam debentur, termasuk stok debentur, bon, nota dan apa-apa sekuriti lain suatu syarikat awam sama ada membentuk suatu gadaian ke atas aset syarikat awam itu atau tidak; (c) dalam bon atau pembelian kertas gadai janji, nota perdagangan, persetujuan jurubank, kertas pasaran wang, sijil deposit, sekuriti hutang persendirian, nota janji hutang dan bil pertukaran mengikut pengertian Akta Bil Pertukaran 1949 [Akta 204] dan surat cara boleh niaga lain yang seumpamanya; (d) mengikut peruntukan Akta Pemegang Amanah 1949 [Akta 208]; (e) dalam pemberian pinjaman kepada Kerajaan Persekutuan; atau (f) dalam apa-apa bentuk pelaburan lain dengan kelulusan Menteri. (2) Berhubung dengan pelaburan mengikut peruntukan Akta Pemegang Amanah 1949, jika Panel Pelaburan melabur dalam atau atas hakmilik harta tak alih di Malaysia mengikut perenggan 4(1)(c) Akta Pemegang Amanah 1949, harta tak alih itu mungkin atau mungkin tidak menghasilkan apa-apa pendapatan pada masa pelaburan itu.”. Seksyen baru 28a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 28 seksyen yang berikut: “Kuasa untuk menubuhkan syarikat 28a. Lembaga boleh, dengan kelulusan Menteri, menubuhkan syarikat di bawah Akta Syarikat 1965 [Akta 125] untuk menjalankan dan bertanggungjawab pada atau terlibat dalam apa-apa projek, skim atau perusahaan yang telah dirancangkan atau dijalankan oleh Lembaga dalam melaksanakan fungsinya atau menjalankan kuasanya di bawah Akta ini.”. Jadual baru Keempat"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas Jadual Ketiga Jadual yang berikut: “JADUAL KEEMPAT [Subseksyen 27a(5)] PROSIDING PANEL PELABURAN Mesyuarat Panel Pelaburan 1. (1) Panel Pelaburan hendaklah bermesyuarat sebagaimana dan apabila dikehendaki. (2) Pengerusi Panel Pelaburan dan dua anggota lain Panel Pelaburan hendaklah membentuk suatu korum pada semua mesyuarat Panel Pelaburan. (3) Pengerusi Panel Pelaburan atau, jika ketiadaannya, anggota yang dipilih oleh anggota yang hadir hendaklah mempengerusikan mesyuarat Panel Pelaburan dan anggota yang dipilih itu hendaklah menjalankan semua kuasa Pengerusi Panel Pelaburan berkenaan dengan mesyuarat itu. (4) Jika atas apa-apa persoalan terdapat persamaan undi, Pengerusi Panel Pelaburan hendaklah mempunyai undi pemutus sebagai tambahan kepada undi asalnya. (5) Ketua pegawai eksekutif selaku Setiausaha Panel Pelaburan tidak berhak untuk mengundi pada semua mesyuarat Panel Pelaburan. (6) Panel Pelaburan hendaklah menyebabkan minit semua mesyuaratnya disenggarakan dan disimpan dalam bentuk yang sepatutnya. (7) Apa-apa minit mesyuarat Panel Pelaburan yang dibuat hendaklah, jika ditandatangani sewajarnya, diterima sebagai keterangan bagi fakta yang dinyatakan dalam minit itu dalam apa-apa prosiding undang-undang dan tiap-tiap mesyuarat yang berkenaan dengannya minit telah dibuat sedemikian hendaklah disifatkan telah dipanggil dan diadakan dengan sewajarnya dan semua anggota dalam mesyuarat itu layak dengan sewajarnya untuk bertindak. Pendedahan kepentingan oleh anggota 2. Tiap-tiap anggota Panel Pelaburan yang mempunyai kepentingan secara langsung atau tidak langsung dalam apa-apa perkara yang dalam pertimbangan Panel Pelaburan hendaklah mendedahkan jenis kepentingannya kepada Panel Pelaburan dan pendedahan itu hendaklah direkodkan dalam minit mesyuarat Panel Pelaburan; dan anggota itu tidak boleh hadir dalam mesyuarat Panel Pelaburan yang perkara itu sedang dipertimbangkan oleh Panel Pelaburan. Pengosongan jawatan 3. Jawatan anggota Panel Pelaburan hendaklah menjadi kosong sekiranya— (a) dia mati; (b) dia telah disabitkan atas suatu pertuduhan berkenaan dengan— (i) kesalahan yang melibatkan fraud atau ketidakjujuran; (ii) kesalahan di bawah mana-mana undang-undang yang berhubungan dengan rasuah; atau (iii) apa-apa kesalahan lain yang boleh dihukum dengan pemenjaraan (sama ada pemenjaraan sahaja atau sebagai tambahan kepada denda atau sebagai ganti denda) bagi tempoh tidak kurang daripada satu tahun; (c) dia menjadi bankrap; (d) dia tidak sempurna akal atau selainnya tidak berupaya menunaikan kewajipannya; atau (e) dia tidak menghadiri mesyuarat tiga kali berturut-turut tanpa kebenaran Pengerusi Panel Pelaburan.”."
+      }
+    }
+  ]
+}

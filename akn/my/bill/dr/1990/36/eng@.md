@@ -52,6 +52,4 @@ This Bill seeks to amend the Entertainments Duty Act 1953.
 
 ## IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expen- diture.
-
-<!-- marginal: [PN. (U2) 1619.] -->
+This Bill will not involve the Government in any extra financial expen- diture. [PN. (U2) 1619.]

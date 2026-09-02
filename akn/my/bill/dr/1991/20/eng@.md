@@ -66,6 +66,4 @@ This Bill seeks to amend the Federal Constitution.
 
 ## IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure.
-
-<!-- marginal: [PN. (U2) 1548,] -->
+This Bill will not involve the Government in any extra financial expenditure. [PN. (U2) 1548,]

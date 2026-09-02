@@ -92,9 +92,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 10. The First Schedule to the Federal Constitution is amended—
 
-(a) by substituting for the words “[Articles 18(1), 19(9)]” the words “[Articles 18(1), 18(1a), 19(9) and section 3 of
-
-## Part II of the Second Schedule]”; and
+(a) by substituting for the words “[Articles 18(1), 19(9)]” the words “[Articles 18(1), 18(1a), 19(9) and section 3 of Part II of the Second Schedule]”; and
 
 (b) by substituting for the heading “Oath of Applicants
 

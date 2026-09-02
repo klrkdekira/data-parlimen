@@ -440,7 +440,7 @@ as the case may be.”.
 
 <!-- page 18 -->
 
-### New sections 14a, 14b, 14c, 14d, 14e and 14f
+## NEW SECTIONS 14A, 14B, 14C, 14D, 14E AND 14F
 
 18. The principal Act is amended by inserting after section 14 the following sections:
 
@@ -686,63 +686,41 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding f
 
 35. The principal Act is amended by substituting for the Schedule the following Schedules:
 
-“First schedule
+## “FIRST SCHEDULE
 
-[Sections 8, 9a, 11, 13a, 13d, 13e, 13F, 14, 14a, 14b, 28]
+[SECTIONS 8, 9A, 11, 13A, 13D, 13E, 13F, 14, 14A, 14B, 28]
 
 ### Types of Fee
 
-<!-- marginal: Total Fee -->
+### Total Fee
 
 ### For establishment of private employment
 
 ### agency
 
-(a) Licence Fee
-
-<!-- marginal: RM500 -->
+(a) Licence Fee RM500
 
 (b) Processing Fees
 
-(i) Application for licence
+(i) Application for licence RM300
 
-<!-- marginal: RM300 -->
+(ii) Renewal of licence RM100
 
-(ii) Renewal of licence
+(iii) Application for licence for RM100 a branch
 
-<!-- marginal: RM100 -->
+(iv) Replacement of licence RM100
 
-(iii) Application for licence for
+(v) Application for changing RM100 category of licence
 
-<!-- marginal: RM100 -->
+(vi) Identification document RM50
 
-a branch
-
-(iv) Replacement of licence
-
-<!-- marginal: RM100 -->
-
-(v) Application for changing
-
-<!-- marginal: RM100 -->
-
-category of licence
-
-(vi) Identification document
-
-<!-- marginal: RM50 -->
-
-(vii) Replacement of identification
-
-<!-- marginal: RM50 -->
-
-document
+(vii) Replacement of identification RM50 document
 
 <!-- page 28 -->
 
 ### Types of Fee
 
-### Total Fee
+<!-- marginal: Total Fee -->
 
 ### Fee imposed on job seeker or non-
 
@@ -762,9 +740,9 @@ document
 
 (iii) Non-citizen employee who is Not more than one month of the employed within Malaysia basic wages for the first monthly wages
 
-## second schedule
+## SECOND SCHEDULE
 
-[Sections 8, 9, 9a, 11, 13e, 13F, 14c, 14d]
+[SECTIONS 8, 9, 9A, 11, 13E, 13F, 14C, 14D]
 
 ### Category of Licence
 
@@ -780,7 +758,7 @@ document
 
 <!-- marginal: Guarantee to -->
 
-### establish a new
+<!-- marginal: establish a new -->
 
 <!-- marginal: branch -->
 

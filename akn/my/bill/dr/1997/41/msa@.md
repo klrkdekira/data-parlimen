@@ -66,7 +66,13 @@ Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan
 
 (c) dalam subseksyen (2) dengan memasukkan selepas perkataan "sekshen-kechil (1)" perkataan " dan (1A)".
 
-3. Akta ibu adalah dipinda dengan memasukkan selepas baru 3e. seksyen 3A seksyen yang berikut:
+<!-- marginal: Seksyen -->
+
+3. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 3e. -->
+
+seksyen 3A seksyen yang berikut:
 
 "Kuasa 3B. (1) Pendaftar boleh, secara bertulis, pewakilan. mewakilkan mana-mana kuasa yang diberikan kepadanya di bawah Akta, kecuali kuasa pewakilan di bawah seksyen ini, kepada mana- mana Penolong Pendaftar yang dilantik di bawah seksyen 3.
 
@@ -74,13 +80,19 @@ Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan
 
 (3) Kuasa pewakilan di bawah seksyen-kecil (1) hendaklah dijalankan oleh Pendaftar sendiri.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Subseksyen 6(3) Akta ibu adalah dipinda dengan seksyen 6. menggantikan perkataan "dua ribu" dan "dua ratus" masing-masingnya dengan perkataan "lima ribu" dan "lima ratus".
+4. Subseksyen 6(3) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 6. -->
 
-5. Seksyen 7 Akta ibu adalah dipinda— seksyen 7.
+menggantikan perkataan "dua ribu" dan "dua ratus" masing-masingnya dengan perkataan "lima ribu" dan "lima ratus".
+
+<!-- marginal: Pindaan -->
+
+5. Seksyen 7 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 7. -->
 
 (a) dengan menggantikan subseksyen (1) dengan subseksyen yang berikut:
 
@@ -90,11 +102,7 @@ Pindaan
 
 (b) dengan memasukkan selepas subseksyen (4) subseksyen yang berikut:
 
-"(5) Mana-mana pertubuhan
-
-<!-- marginal: yang -->
-
-melanggar mana-mana syarat yang dikenakan ke atasnya oleh Pendaftar di bawah seksyen- kecil (1) adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh dikenakan denda tidak lebih daripada dua ribu ringgit.".
+"(5) Mana-mana pertubuhan yang melanggar mana-mana syarat yang dikenakan ke atasnya oleh Pendaftar di bawah seksyen- kecil (1) adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh dikenakan denda tidak lebih daripada dua ribu ringgit.".
 
 <!-- marginal: Pindaan -->
 
@@ -146,7 +154,9 @@ menggantikan perkataan "dua" dan "lima" masing- masingnya dengan perkataan "tiga
 
 (f) dengan memasukkan selepas subseksyen (2) subseksyen yang berikut:
 
-"(2A) Pendaftar boleh, dalam tempoh yang dinyatakan dalam perenggan (b) seksyen-kecil (2), melalui perintah secara bertulis menggantung semua atau mana-mana kegiatan pertubuhan berdaftar itu—
+"(2A) Pendaftar boleh, dalam tempoh yang dinyatakan dalam perenggan (b) seksyen-kecil
+
+(2), melalui perintah secara bertulis menggantung semua atau mana-mana kegiatan pertubuhan berdaftar itu—
 
 (a) jika difikirkannya perlu berbuat demikian—
 
@@ -172,7 +182,9 @@ menggantikan perkataan "dua" dan "lima" masing- masingnya dengan perkataan "tiga
 
 <!-- marginal: seksyen I3A. -->
 
-menggantikan perkataan "sepuluh" dengan perkataan "lima belas".
+menggantikan perkataan "sepuluh" dengan perkataan "lima
+
+<!-- marginal: belas". -->
 
 10. Seksyen 14 Akta ibu adalah dipinda—
 
@@ -192,21 +204,29 @@ menggantikan perkataan "sepuluh" dengan perkataan "lima belas".
 
 (b) dalam perenggan (1)(da) dengan menggantikan perkataan "yang bergabung dengan pertubuhan itu" dengan perkataan "yang dengannya pertubuhan itu dengan apa-apa cara bersekutu atau bergabung".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-11. Seksyen 15 Akta ibu adalah dipinda— seksyen 15.
+11. Seksyen 15 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 15. -->
 
 (a) dalam subseksyen (1A) dengan menggantikan perkataan "seribu" dengan perkataan "tiga ribu"; dan
 
 (b) dalam subseksyen (2) dengan menggantikan perkataan "dua" dengan perkataan "lima".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-12. Subseksyen 16(2) Akta ibu adalah dipinda dengan seksyen 16. menggantikan perkataan "membatalkan pendaftaran pertubohan itu" dengan perkataan "mengambil langkah untuk membatalkan pendaftaran pertubuhan itu di bawah seksyen 13".
+12. Subseksyen 16(2) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 16. -->
 
-13. Seksyen 21 Akta ibu adalah dipinda— seksyen 21.
+menggantikan perkataan "membatalkan pendaftaran pertubohan itu" dengan perkataan "mengambil langkah untuk membatalkan pendaftaran pertubuhan itu di bawah seksyen 13".
+
+<!-- marginal: Pindaan -->
+
+13. Seksyen 21 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 21. -->
 
 (a) dalam perenggan (1)(a) dengan menggantikan perkataan "satu ribu" dengan perkataan "dua ibu";
 
@@ -288,21 +308,35 @@ menggantikan perkataan "lima" dengan perkataan "sepuluh".
 
 (b) dalam subseksyen (2) dengan menggantikan perkataan "sepuluh" dengan perkataan "lima belas".
 
-Pmdaan
+<!-- marginal: Pmdaan -->
 
-20. Seksyen 46 Akta ibu adalah dipinda dengan seksyen 4 menggantikan perkataan "lima" dengan perkataan "sepuluh".
+20. Seksyen 46 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 4 -->
 
-21. Seksyen 47 Akta ibu adalah dipinda dengan seksyen 47. menggantikan perkataan "empat" dengan perkataan "lima".
+menggantikan perkataan "lima" dengan perkataan "sepuluh".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-22. Subseksyen 48(1) Akta ibu adalah dipinda dengan seksyen 48. menggantikan perkataan "sepuluh" dengan perkataan "lima belas".
+21. Seksyen 47 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 47. -->
 
-23. Seksyen 49 Akta ibu adalah dipinda— seksyen 49.
+menggantikan perkataan "empat" dengan perkataan "lima".
+
+<!-- marginal: Pindaan -->
+
+22. Subseksyen 48(1) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 48. -->
+
+menggantikan perkataan "sepuluh" dengan perkataan "lima belas".
+
+<!-- marginal: Pindaan -->
+
+23. Seksyen 49 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 49. -->
 
 (a) dengan menomborkan semula seksyen itu sebagai subseksyen (1) seksyen 49;
 
@@ -310,15 +344,23 @@ Pindaan
 
 (i) dengan menggantikan perkataan "atau (vi)" dengan perkataan ", (vi), (vii), (viii) atau (ix)"; dan
 
-(ii) dengan menggantikan perkataan "sepuluh" dengan perkataan "lima belas"; dan
+(ii) dengan menggantikan
+
+<!-- marginal: perkataan -->
+
+"sepuluh" dengan perkataan "lima belas"; dan
 
 (c) dengan memasukkan selepas subseksyen (1) itu subseksyen yang berikut:
 
 "(2) Kecuali jika pendaftaran sesuatu pertubuhan telah dibatalkan di bawah seksyen 2A atau perenggan (b) seksyen-kecil (1) seksyen 13 sekatan yang dikenakan ke atas seseorang pemegang jawatan di bawah seksyen-kecil (1) hendaklah terhenti selepas tamat tempoh lima tahun yang bermula dari tarikh pembatalan itu.".
 
-Pmdaan
+<!-- marginal: Pmdaan -->
 
-24. Subseksyen 50(3) Akta ibu adalah dipinda dengan seksyen 50. menggantikan perkataan "seribu" dengan perkataan "tiga ribu".
+24. Subseksyen 50(3) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 50. -->
+
+menggantikan perkataan "seribu" dengan perkataan "tiga ribu".
 
 <!-- page 10 -->
 
@@ -376,13 +418,19 @@ seksyen 54 seksyen yang berikut:
 
 <!-- page 11 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-31. Subseksyen 61(1) Akta ibu adalah dipinda dengan seksyen 61. memasukkan sebelum perkataan "45" perkataan "13A,".
+31. Subseksyen 61(1) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 61. -->
 
-32. Seksyen 64 Akta ibu adalah dipinda— seksyen 64.
+memasukkan sebelum perkataan "45" perkataan "13A,".
+
+<!-- marginal: Pindaan -->
+
+32. Seksyen 64 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 64. -->
 
 (a) dalam nota birai dengan menggantikan perkataan "memasoki" dengan perkataan "untuk masuk, menggeledah dan menyita";
 
@@ -394,17 +442,25 @@ Pindaan
 
 "(2) Pendaftar, atau seseorang Penolong Pendaftar, atau mana-mana pegawai lain, yang memasuki mana-mana tempat di bawah seksyen-kecil (1) boleh menyita dan menahan apa-apa buku, kira-kira, tulisan, senarai anggota, panji-panji, meterai, tanda, lambang atau barang lain yang dipunyai oleh pertubuhan berdaftar itu yang dia ada sebab untuk percaya mungkin dikehendaki berkenaan dengan prosiding selanjutnya di bawah Akta ini.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-33. Subseksyen 66(5) Akta ibu adalah dipinda dengan seksyen 66. menggantikan perkataan "dua ratus" dengan perkataan "seribu".
+33. Subseksyen 66(5) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 66. -->
+
+menggantikan perkataan "dua ratus" dengan perkataan "seribu".
+
+<!-- marginal: Pindaan -->
 
 34. Jadual Pertama kepada Akta ibu adalah dipinda dalam
 
 ## Jadual
 
-subperenggan 1( a) dengan menggantikan perkataan Pertama. "pejabat" dengan perkataan "tempat urusan".
+subperenggan 1( a) dengan menggantikan perkataan
+
+<!-- marginal: Pertama. -->
+
+"pejabat" dengan perkataan "tempat urusan".
 
 <!-- page 12 -->
 

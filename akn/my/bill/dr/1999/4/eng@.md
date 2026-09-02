@@ -14,21 +14,29 @@
 
 ## LICENSING OF TOURISM VEHICLES
 
-4. Tourism vehicles to be licensed 5. Application for licence 6. Grant or refusal of licence 7. Revocation or suspension of licence 8. Duration of licences 9. Short term licences 10. Conditions which may be attached to licence 11. Statutory conditions of licence 12. Application for renewal of licence 13. Application for variation 14. Protection of public interest
+4. Tourism vehicles to be licensed 5. Application for licence 6. Grant or refusal of licence 7. Revocation or suspension of licence 8. Duration of licences 9. Short term licences
+
+10. Conditions which may be attached to licence
+
+11. Statutory conditions of licence
+
+12. Application for renewal of licence
+
+13. Application for variation
+
+14. Protection of public interest
 
 ## PART III
 
 ## APPEALS
 
-15. Appeal to the Minister 16. Validity of licence extended in successful appeal
+15. Appeal to the Minister
+
+16. Validity of licence extended in successful appeal
 
 <!-- page 2 -->
 
-Bill
-
-17. Prohibition of similar application when earlier application still pending appeal
-
-18. Surrender of licence
+Bill 17. Prohibition of similar application when earlier application still pending appeal 18. Surrender of licence
 
 ## PART IV
 
@@ -464,11 +472,7 @@ commits an offence and shall on conviction be liable to a fine not exceeding fiv
 
 ### Powers of the police in investigation
 
-28. Every police officer making an investigation under this Act may exercise any or all of the special powers in relation to police investigation in seizable cases conferred on such police officer by
-
-## Chapter XIII of the Criminal Procedure Code [Act 593] and sections
-
-112 to 114 of the Code shall apply to statements made by the persons examined in the course of such investigation.
+28. Every police officer making an investigation under this Act may exercise any or all of the special powers in relation to police investigation in seizable cases conferred on such police officer by Chapter XIII of the Criminal Procedure Code [Act 593] and sections 112 to 114 of the Code shall apply to statements made by the persons examined in the course of such investigation.
 
 ### Powers of road transport officers in investigation
 
@@ -564,7 +568,9 @@ Seizure
 
 <!-- page 23 -->
 
-(2) When any motor vehicle has been seized under subsection (1), a road transport officer or a police officer not below the rank of Inspector may, at his discretion, temporarily return such vehicle to the owner of the vehicle, on security being furnished to the satisfaction of such officer that the vehicle shall be surrendered to him on demand.
+(2) When any motor vehicle has been seized under subsection
+
+(1), a road transport officer or a police officer not below the rank of Inspector may, at his discretion, temporarily return such vehicle to the owner of the vehicle, on security being furnished to the satisfaction of such officer that the vehicle shall be surrendered to him on demand.
 
 (3) An order for the forfeiture or for the release of any motor vehicle seized under subsection (1) shall be made by the court before which the prosecution with regard thereto has been held.
 

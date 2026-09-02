@@ -28,7 +28,9 @@ Amendment of section 6
 
 <!-- page 2 -->
 
-2 Bill
+<!-- marginal: 2 -->
+
+Bill
 
 (iii) by inserting after paragraph (c) the following paragraphs:
 

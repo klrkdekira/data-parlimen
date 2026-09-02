@@ -8,13 +8,13 @@
 
 sUsUNAN fAsAl
 
-## Bahagian I
+## BAHAGIAN I
 
 PERMUlAAN 1. Tajuk ringkas dan permulaan kuat kuasa
 
 2. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PERBADANAN
 
@@ -44,7 +44,7 @@ PERMUlAAN 1. Tajuk ringkas dan permulaan kuat kuasa
 
 <!-- page 2 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 fUNGsI DAN KUAsA PERBADANAN
 
@@ -58,7 +58,7 @@ fUNGsI DAN KUAsA PERBADANAN
 
 18. Penyata, laporan, akaun dan maklumat
 
-## Bahagian Iv
+## BAHAGIAN IV
 
 MAJlIs PENAsIHAT
 
@@ -78,7 +78,7 @@ MAJlIs PENAsIHAT
 
 26. Elaun
 
-## Bahagian v
+## BAHAGIAN V
 
 ## PEKERJA PERBADANAN
 
@@ -100,7 +100,7 @@ MAJlIs PENAsIHAT
 
 <!-- page 3 -->
 
-## Bahagian vI
+## BAHAGIAN VI
 
 ## KEWANGAN
 
@@ -132,7 +132,7 @@ MAJlIs PENAsIHAT
 
 48. Akta Badan Berkanun (Akaun dan laporan Tahunan) 1980
 
-## Bahagian vII
+## BAHAGIAN VII
 
 AM
 
@@ -148,7 +148,11 @@ AM
 
 54. Kuasa untuk menubuhkan syarikat
 
-55. Kuasa untuk membuat peraturan-peraturan J adual Pertama J adual Kedua
+55. Kuasa untuk membuat peraturan-peraturan
+
+## J ADUAL PERTAMA
+
+## J ADUAL KEDUA
 
 <!-- page 5 -->
 
@@ -158,7 +162,7 @@ suatu Akta untuk menubuhkan Perbadanan Pembangunan Kampong Bharu, untuk mengadak
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 PERMUlAAN
 
@@ -200,7 +204,7 @@ PERMUlAAN
 
 <!-- page 7 -->
 
-## Bahagian ii
+## BAHAGIAN II
 
 ## PERBADANAN
 
@@ -404,7 +408,7 @@ apabila perkara itu dibincangkan atau diputuskan.
 
 (e) mana-mana perbadanan mengikut pengertian Akta syarikat 1965 [Akta 125], yang anggota itu atau mana-mana penamanya atau seseorang anggota keluarganya ialah seorang pengarah atau mempunyai pemegangan syer yang substantial dalam perbadanan itu.
 
-## Bahagian III
+## BAHAGIAN III
 
 fUNGsI DAN KUAsA PERBADANAN
 
@@ -512,7 +516,7 @@ fUNGsI DAN KUAsA PERBADANAN
 
 (2) Penyata, laporan, akaun dan maklumat itu hendaklah dalam apa-apa bentuk dan hendaklah mengandungi apa-apa maklumat yang berhubungan dengan prosiding dan dasar Perbadanan dan apa-apa perkara lain sebagaimana yang dinyatakan oleh Menteri dari semasa ke semasa.
 
-## Bahagian Iv
+## BAHAGIAN IV
 
 MAJlIs PENAsIHAT
 
@@ -606,7 +610,7 @@ MAJlIs PENAsIHAT
 
 26. Pengerusi dan semua anggota lain Majlis Penasihat boleh dibayar apa-apa elaun sebagaimana yang ditentukan oleh Menteri.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PEKERJA PERBADANAN
 
@@ -718,7 +722,7 @@ dengan ansuran bulanan yang sama banyak yang tidak melebihi satu perempat daripa
 
 34. Perbadanan boleh, dengan kelulusan Menteri, menerima pakai dengan apa-apa ubah suaian yang difikirkannya patut, apa-apa peraturan-peraturan, kaedah-kaedah, dasar, surat pekeliling dan arahan yang diperbuat atau dikeluarkan oleh Kerajaan Persekutuan berhubung dengan apa-apa perkara di bawah Bahagian ini.
 
-## Bahagian vI
+## BAHAGIAN VI
 
 ## PERUNTUKAN KEWANGAN
 
@@ -840,7 +844,7 @@ dengan ansuran bulanan yang sama banyak yang tidak melebihi satu perempat daripa
 
 48. Akta Badan Berkanun (Akaun dan laporan Tahunan) 1980 [Akta 240] hendaklah terpakai bagi Perbadanan.
 
-## Bahagian vII
+## BAHAGIAN VII
 
 AM
 
@@ -898,7 +902,7 @@ mana-mana orang yang diberi kuasa oleh Perbadanan bagi maksud itu boleh, bagi pi
 
 (c) memperuntukkan bagi apa-apa perkara lain sebagaimana yang perlu bagi melaksanakan peruntukan Akta ini.
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
 [seksyen 6]
 
@@ -952,7 +956,7 @@ syarat bahawa Pengerusi tidak boleh membenarkan lebih daripada dua bulan berlalu
 
 8. Anggota Perbadanan hendaklah menumpukan masa kepada urusan Perbadanan sebagaimana yang perlu untuk menunaikan kewajipan mereka dengan berkesan.
 
-## Jadual Kedua
+## JADUAL KEDUA
 
 [subseksyen 20(3)]
 
@@ -1004,7 +1008,7 @@ Akta Perbadanan Pembangunan Kampong Bharu 2011 yang dicadangkan (“Akta yang di
 
 <!-- page 36 -->
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I memperkatakan perkara permulaan.
 
@@ -1012,7 +1016,7 @@ Akta Perbadanan Pembangunan Kampong Bharu 2011 yang dicadangkan (“Akta yang di
 
 4. Fasal 2 mengandungi takrif perkataan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 5. Bahagian II mengandungi peruntukan yang berhubungan dengan penubuhan Perbadanan Pembangunan Kampong Bharu.
 
@@ -1040,7 +1044,7 @@ Akta Perbadanan Pembangunan Kampong Bharu 2011 yang dicadangkan (“Akta yang di
 
 <!-- page 37 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 17. Bahagian III memperkatakan fungsi dan kuasa Perbadanan.
 
@@ -1052,7 +1056,7 @@ Akta Perbadanan Pembangunan Kampong Bharu 2011 yang dicadangkan (“Akta yang di
 
 21. Fasal 18 meletakkan kewajipan ke atas Perbadanan untuk memberikan penyata, laporan, akaun dan maklumat tertentu kepada Menteri atau mana- mana pihak berkuasa awam.
 
-## Bahagian Iv
+## BAHAGIAN IV
 
 22. Bahagian Iv yang mengandungi fasal 19 hingga 26 memperkatakan mengenai Majlis Penasihat yang ditubuhkan di bawah Akta yang dicadangkan. Penubuhan Majlis Penasihat ini adalah bagi maksud menasihati Perbadanan supaya membolehkan terdapatnya suatu semakan dan imbangan pentadbiran Perbadanan terutamanya dengan mengambil kira kepentingan orang Melayu di Kampong Bharu.
 
@@ -1074,7 +1078,7 @@ Akta Perbadanan Pembangunan Kampong Bharu 2011 yang dicadangkan (“Akta yang di
 
 <!-- page 38 -->
 
-## Bahagian v
+## BAHAGIAN V
 
 31. Bahagian v memperkatakan mengenai pekerja Perbadanan.
 
@@ -1092,7 +1096,7 @@ Akta Perbadanan Pembangunan Kampong Bharu 2011 yang dicadangkan (“Akta yang di
 
 38. Fasal 34 bertujuan membenarkan Perbadanan untuk menerima pakai dengan apa-apa ubah suaian yang difikirkannya patut apa-apa peraturan, kaedah, dasar, pekeliling dan arahan yang dibuat atau dikeluarkan oleh Kerajaan Persekutuan berhubung dengan apa-apa perkara di bawah Bahagian ini.
 
-## Bahagian vI
+## BAHAGIAN VI
 
 39. Bahagian vI mengandungi peruntukan kewangan.
 
@@ -1126,7 +1130,7 @@ Akta Perbadanan Pembangunan Kampong Bharu 2011 yang dicadangkan (“Akta yang di
 
 53. Fasal 48 memperuntukkan bahawa Akta Badan Berkanun (Akaun dan laporan Tahunan) 1980 terpakai bagi Perbadanan.
 
-## Bahagian vII
+## BAHAGIAN VII
 
 54. Bahagian vII mengandungi peruntukan am.
 

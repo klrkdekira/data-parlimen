@@ -1,0 +1,1206 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-18-2011",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_34"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Suruhanjaya Sekuriti (Pindaan) 2011"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 31L(4) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “Lembaga Pemantauan Audit hendaklah” dengan perkataan “Suruhanjaya hendaklah”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “suatu kunci kira-kira” dengan perkataan “penyata akaun”. Pindaan Penggal 4 Bahagian IIIA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dalam subtajuk Penggal 4 Bahagian IIIA dengan memasukkan selepas perkataan “Pendaftaran” perkataan “atau Pengiktirafan”. Pindaan seksyen 31N"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 31N Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memasukkan selepas perkataan “pendaftaran” perkataan “atau pengiktirafan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memasukkan selepas perkataan “didaftarkan” perkataan “sebagai juruaudit berdaftar atau diiktirafkan sebagai juruaudit yang diiktiraf”. Pindaan seksyen 31O"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_13__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_13__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_13__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_13__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 31O Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan menggantikan perkataan “pendaftaran dan pembaharuan pendaftaran” dengan perkataan “pendaftaran, pembaharuan pendaftaran dan pengiktirafan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “ (1) Bagi maksud Akta ini, suatu permohonan untuk— (a) pendaftaran atau pembaharuan pendaftaran sebagai juruaudit berdaftar; atau (b) pengiktirafan sebagai juruaudit yang diiktiraf, hendaklah dibuat kepada Lembaga Pemantauan Audit.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_13__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (3) dengan subseksyen yang berikut: “ (3) Tertakluk kepada seksyen 31 P, Lembaga Pemantauan Audit boleh— (a) meluluskan atau menolak pendaftaran seseorang pemohon sebagai juruaudit berdaftar atau pembaharuan pendaftaran seseorang juruaudit berdaftar; atau (b) meluluskan atau menolak pemberian pengiktirafan seseorang pemohon sebagai juruaudit yang diiktiraf.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_13__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (4) dengan subseksyen yang berikut: “ (4) Lembaga Pemantauan Audit boleh, selepas— (a) pendaftaran seseorang pemohon sebagai juruaudit berdaftar; (b) pembaharuan pendaftaran seseorang juruaudit berdaftar; atau (c) pemberian pengiktirafan seseorang pemohon sebagai juruaudit yang diiktiraf, mengenakan apa-apa syarat yang difikirkannya perlu atau suai manfaat dan dari semasa ke semasa meminda mana-mana syarat itu atau mengenakan syarat baru atau syarat tambahan.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_13__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5), dengan menggantikan perkataan “pendaftaran atau pembaharuan pendaftaran,” dengan perkataan “yang dikenakan di bawah subseksyen (4),”. Pindaan seksyen 31P"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_14__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_14__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_14__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_14__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 31P Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan menggantikan perkataan “pendaftaran atau pembaharuan pendaftaran” dengan perkataan “pendaftaran, pembaharuan pendaftaran atau pemberian pengiktirafan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_14__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_14__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_14__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_14__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “seseorang juruaudit” perkataan “berdaftar”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_14__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_14__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “juruaudit” perkataan “berdaftar”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_14__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “ (1A) Lembaga Pemantauan Audit boleh menolak untuk mengiktirafkan seseorang pemohon sebagai juruaudit yang diiktiraf jika Lembaga Pemantauan Audit berpuas hati bahawa pemohon itu— (a) termasuk dalam perenggan (1)(b), (c), (d) atau (f); (b) telah tertakluk kepada apa-apa hukuman yang dikenakan oleh mana-mana pihak berkuasa asing yang berkaitan; (c) belum diluluskan oleh pihak berkuasa asing yang berkaitan untuk menyediakan penyata kewangan teraudit; atau (d) tidak diawasi oleh suatu pihak berkuasa asing yang berkaitan.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_14__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: “ (2) Jika Lembaga Pemantauan Audit menolak— (a) pendaftaran seseorang pemohon sebagai juruaudit berdaftar; (b) pembaharuan pendaftaran seseorang juruaudit berdaftar; atau (c) pemberian pengiktirafan seseorang pemohon sebagai juruaudit yang diiktiraf, Lembaga Pemantauan Audit hendaklah memberi pemohon atau juruaudit berdaftar tersebut suatu peluang untuk didengar dengan menyampaikan suatu notis bertulis kepada pemohon atau juruaudit berdaftar itu yang menyatakan alasan bagi penolakan tersebut.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_14__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (3). Pindaan seksyen 31Q"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_15__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_15__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_15__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_15__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 31Q Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan menggantikan perkataan “membatalkan dan menggantung pendaftaran” dengan perkataan “membatalkan, menarik balik atau menggantung pendaftaran atau pengiktirafan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “ (1) Lembaga Pemantauan Audit boleh, pada bila-bila masa— (a) membatalkan atau menggantung pendaftaran; atau (b) menarik balik atau menggantung pengiktirafan, seseorang juruaudit jika— (A) terdapat alasan yang membolehkan Lembaga Pemantauan Audit menolak sesuatu permohonan di bawah subseksyen 31P(1) atau (1A); atau (B) juruaudit itu melanggar mana-mana terma atau syarat yang dikenakan oleh Lembaga Pemantauan Audit berkenaan dengan pendaftarannya atau pengiktirafannya di bawah Bahagian ini.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_15__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (3) dengan subseksyen yang berikut: “ (3) Jika Lembaga Pemantauan Audit berhasrat untuk— (a) membatalkan atau menggantung pendaftaran; atau (b) menarik balik atau menggantung pengiktirafan, di bawah subseksyen (1) atau (2), ia hendaklah memberi juruaudit tersebut suatu peluang untuk didengar dengan menyampaikan suatu notis bertulis kepada juruaudit berkenaan yang menyatakan alasan bagi pembatalan, penarikan balik atau penggantungan itu.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_15__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (4); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_15__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (5) dengan subseksyen yang berikut: “ (5) Bagi maksud Bahagian ini, seseorang juruaudit yang pendaftarannya telah dibatalkan atau digantung atau pengiktirafannya telah ditarik balik atau digantung, mengikut mana-mana yang berkenaan, hendaklah disifatkan tidak didaftar atau diiktiraf sebagai juruaudit dari tarikh pembatalan, penarikan balik atau penggantungan itu berkuat kuasa atau apa-apa tarikh lain sebagaimana yang ditetapkan oleh Lembaga Pemantauan Audit.”. Pindaan seksyen 31R"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 31R Akta ibu dipinda dengan menggantikan perkataan “31P(1) atau 31Q(1)” dengan perkataan “31P(1) atau (1A), atau perenggan 31Q(1)(bb)”. Pindaan seksyen 31S"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 31S(2) Akta ibu dipinda dengan memasukkan selepas perkataan “juruaudit” perkataan “berdaftar”. Pindaan seksyen 31T"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 31T(2) Akta ibu dipinda dengan memasukkan selepas perkataan “didaftarkan” perkataan “atau diiktiraf”. Pindaan seksyen 31W"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 31W(1) Akta ibu dipinda dengan memotong perkataan “, selepas menjalankan pemeriksaan di bawah seksyen 31V,”. Pindaan seksyen 31X"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Suruhanjaya Sekuriti (Pindaan) 2011."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_1__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_1__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta, dan Menteri boleh menetapkan tarikh yang berlainan bagi permulaan kuat kuasa—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_1__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_1__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "peruntukan yang berlainan Akta ini; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_1__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_1__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "semua peruntukan atau peruntukan yang berlainan Akta ini berkenaan dengan kelas atau kategori orang atau sekuriti yang berlainan. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Suruhanjaya Sekuriti 1993 [Akta 498], yang disebut “Akta ibu” dalam Akta ini, dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 31X(10) Akta ibu dipinda dengan memasukkan selepas perkataan “subseksyen (8)” perkataan “atau (9)”. Pindaan seksyen 31Y"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 31Y Akta ibu dipinda dengan menggantikan perkataan “subsidiari atau syarikat bersekutu” dengan perkataan “subsidiari, syarikat bersekutu atau mana-mana entiti yang penyata kewangannya adalah digabungkan ke dalam”. Pemotongan seksyen 31ZA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 31ZA. Pindaan seksyen 31ZB"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_23__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_23__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 31ZB Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_23__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memasukkan selepas perkataan “subseksyen 31P(1)” perkataan “atau (1A)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_23__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5), dengan memasukkan selepas perkataan “subseksyen 31P(1)” perkataan “atau (1A)”. Pindaan seksyen 31ZD"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 31ZD Akta ibu dipinda dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: “ (2) Walau apa pun seksyen 31V dan 31W, Lembaga Pemantauan Audit boleh, berkenaan dengan juruaudit yang diiktiraf, meminta bantuan daripada pihak berkuasa asing yang berkaitan untuk menjalankan pemeriksaan atau menyiasat ke dalam kelakuan seseorang juruaudit yang diiktiraf untuk menilai— (a) tahap pematuhan terhadap piawaian audit dan etika yang diterima pakai oleh pihak berkuasa asing yang berkaitan itu oleh juruaudit yang diiktiraf; dan (b) kualiti laporan audit yang disediakan oleh juruaudit yang diiktiraf itu yang berhubungan dengan penyata kewangan teraudit.”. Pindaan seksyen 126"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_25__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_25__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_25__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 126(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_25__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (d) dengan perenggan yang berikut: “(d) suatu bursa derivatif;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_25__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah di hujung perenggan (e) dengan koma bernoktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_25__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (e) perenggan yang berikut: “(f) orang berdaftar selain orang berdaftar yang ditentukan dalam Bahagian 1 Jadual 4 kepada Akta Pasaran Modal dan Perkhidmatan 2007; dan (g) mana-mana orang lain yang melibatkan diri dalam aktiviti terkawal atau menyediakan perkhidmatan pasaran modal sebagaimana yang ditentukan oleh Suruhanjaya.”. Pindaan seksyen 134"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_26__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_26__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 134 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_26__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (3A) dengan subseksyen yang berikut: “ (3A) Dalam suatu pemeriksaan ke atas seseorang di bawah subseksyen (1), seorang Pegawai Penyiasat Suruhanjaya atau Pegawai-Pegawai Penyiasat Suruhanjaya yang memeriksa orang itu boleh melakukan mana-mana satu atau kedua-duanya yang berikut: (a) memberikan arahan tentang siapa yang boleh hadir semasa pemeriksaan itu, atau semasa mana-mana bahagian pemeriksaan itu; (b) merekodkan pemeriksaan itu atau mana-mana bahagian pemeriksaan itu dengan rakaman audio atau visual atau kombinasi kedua-duanya.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_26__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (9), dengan memasukkan selepas perkataan “subseksyen” perkataan “(6) atau”. Pindaan seksyen 146"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_27__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_27__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 146 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_27__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “ (1) Kecuali sebagaimana yang diperuntukkan selainnya dalam undang-undang sekuriti, mana-mana orang yang terkilan dengan keputusan Suruhanjaya boleh merayu kepada Suruhanjaya untuk mengkaji semula keputusannya.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_27__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_27__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_27__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_27__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_27__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “permohonan” dengan perkataan “rayuan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_27__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_27__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “dibuat” perkataan “secara bertulis”. Pindaan seksyen 147"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 147 dengan seksyen yang berikut: “Keputusan Menteri atau Suruhanjaya adalah muktamad 147. Kecuali sebagaimana yang diperuntukkan selainnya dalam undang-undang sekuriti— (a) apa-apa keputusan yang dibuat oleh Menteri di bawah undang-undang sekuriti, sama ada suatu keputusan asal olehnya atau suatu keputusan Suruhanjaya yang dirayu kepadanya; atau (b) apa-apa keputusan oleh Suruhanjaya di bawah undang-undang sekuriti yang dibuat berikutan daripada suatu rayuan untuk mengkaji semula keputusan asalnya, adalah muktamad.”. Pindaan seksyen 150A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_29__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 150A Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (4) dengan subseksyen yang berikut: “ (4) Keterangan lisan yang disebut dalam subseksyen (1) hendaklah boleh diterima sebagai keterangan prima facie jika orang yang diberi kuasa oleh pihak berkuasa menyelia asing itu— (a) merekodkan keterangan lisan itu sama ada secara bertulis, dengan cara rakaman audio atau visual atau kombinasi kedua-duanya, mengesahkan dalam suatu afidavit bahawa keterangan lisan yang telah direkodkan itu adalah direkod daripada seseorang yang tahu akan hal keadaan kes itu dan perekodan keterangan lisan itu telah dibuat menurut undang-undang yang dikuatkuasakan atau ditadbirkan oleh pihak berkuasa menyelia asing itu; atau (b) memperoleh suatu afidavit yang disahkan oleh seseorang yang mengetahui hal keadaan kes itu.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5), dengan memasukkan selepas perkataan “diangkat sumpah” perkataan “atau disahkan”. Seksyen baru 150B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_2__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_2__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_2__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_2__para_a__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_2__para_a__subpara_v",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_2__para_a__subpara_vi"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen 2(1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_2__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “bursa” takrif yang berikut: ‘ “bursa derivatif” mempunyai erti yang diberikan kepadanya dalam Akta Pasaran Modal dan Perkhidmatan 2007;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_2__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif “bursa niaga hadapan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_2__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “depositori pusat” takrif yang berikut: ‘ “derivatif” mempunyai erti yang diberikan kepadanya dalam Akta Pasaran Modal dan Perkhidmatan 2007;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_2__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif “kontrak niaga hadapan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_2__para_a__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif “pasaran niaga hadapan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_2__para_a__subpara_vi",
+      "@type": "akn:subparagraph",
+      "eli:number": "vi",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “skim amanah saham”, dengan menggantikan perkataan “kontrak niaga hadapan” dengan perkataan “derivatif”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen 2(2). Pindaan seksyen 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3__para_l"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 15(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 150A seksyen yang berikut: “Kebolehterimaan pernyataan dan dokumen orang yang sudah mati atau tidak dapat dikesan, dsb. 150B. Walau apa pun mana-mana undang-undang bertulis yang berlawanan, dalam mana-mana prosiding terhadap mana-mana orang atas sesuatu kesalahan di bawah undang-undang sekuriti— (a) apa-apa pernyataan yang dibuat oleh mana-mana orang kepada Pegawai Penyiasat Suruhanjaya semasa sesuatu penyiasatan di bawah undang-undang sekuriti; dan (b) apa-apa dokumen, atau salinan apa-apa dokumen, yang disita daripada mana-mana orang oleh Pegawai Penyiasat Suruhanjaya pada menjalankan kuasanya di bawah atau menurut kuasa undang-undang sekuriti, hendaklah boleh diterima sebagai keterangan dalam mana-mana prosiding di hadapan mana-mana mahkamah, jika orang yang membuat pernyataan atau dokumen itu atau salinan dokumen itu, atau orang yang daripadanya dokumen itu telah disita, sudah mati, atau tidak dapat dikesan atau ditemui, atau yang sudah menjadi tidak berupaya untuk memberikan keterangan, atau yang kehadirannya tidak dapat diperoleh tanpa kelengahan atau perbelanjaan yang pada pendapat mahkamah tidak munasabah.”. Pindaan seksyen 152A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_31__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_31__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_31__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 152A Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_31__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “atau” di hujung subperenggan (f)(ii);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_31__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (f) perenggan yang berikut: “(fa) apa-apa tindakan yang diambil di bawah seksyen 125 Akta Pasaran Modal dan Perkhidmatan 2007; (fb) apa-apa tindakan yang diambil di bawah seksyen 220 Akta Pasaran Modal dan Perkhidmatan 2007; atau”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_31__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (g), dengan menggantikan perkataan “bursa niaga hadapan” dengan perkataan “bursa derivatif”. Pindaan seksyen 159"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 159 dengan seksyen yang berikut: “159. (1) Suruhanjaya boleh, dengan kelulusan Menteri, membuat peraturan-peraturan yang perlu atau suai manfaat untuk— (a) memberikan kesan sepenuhnya kepada peruntukan undang-undang sekuriti; (b) menjalankan atau mencapai tujuan dan maksud undang-undang sekuriti; atau (c) melaksanakan selanjutnya, dengan lebih baik atau lebih mudah mana-mana peruntukan undang-undang sekuriti. (2) Tanpa menjejaskan keluasan subseksyen (1), peraturan-peraturan boleh dibuat untuk memperuntukkan ketakpakaian mana-mana peruntukan undang-undang sekuriti ke atas mana-mana orang yang ditentukan atau mana-mana orang yang merupakan ahli suatu golongan orang yang ditentukan, tertakluk kepada apa-apa terma dan syarat yang ditetapkan.”. Seksyen baru 159A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 159 seksyen yang berikut: “Kuasa untuk meminda Jadual 159A. (1) Menteri boleh, atas syor Suruhanjaya, melalui perintah yang disiarkan dalam Warta, mengubah, memotong, menambah atau menggantikan, atau selainnya meminda mana-mana jadual dalam Akta ini. (2) Menteri dalam mengubah, memotong, menambah atau menggantikan mana-mana jadual yang dirujuk dalam subseksyen (1) boleh mengenakan apa-apa terma dan syarat yang difikirkannya perlu. (3) Dalam membuat perintah di bawah subseksyen (1), Menteri hendaklah memberi perhatian kepada kepentingan awam.”. Pindaan Jadual 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jadual 1 kepada Akta ibu dipinda dalam perenggan (g) dengan menggantikan perkataan “berdagang dalam kontrak niaga hadapan” dengan perkataan “berniaga dalam derivatif”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan menggantikan perkataan “niaga hadapan” dengan perkataan “derivatif”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan menggantikan perkataan “kontrak niaga hadapan” dengan perkataan “derivatif”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (e) dengan perenggan yang berikut: “(e) memajukan dan mengawal selia segala perkara yang berhubungan dengan pengurusan kumpulan wang, termasuklah skim unit amanah;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (g), dengan menggantikan perkataan “niaga hadapan” dengan perkataan “derivatif”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (i), dengan menggantikan perkataan “perdagangan kontrak niaga hadapan, dan pemberian nasihat pelaburan atau perkhidmatan-perkhidmatan lain berhubungan dengan sekuriti atau kontrak niaga hadapan” dengan perkataan “berniaga dalam derivatif, dan pemberian nasihat pelaburan atau perkhidmatan lain berhubungan dengan sekuriti atau derivatif”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (j), dengan menggantikan perkataan “kontrak niaga hadapan” dengan perkataan “derivatif”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (k), dengan menggantikan perkataan “niaga hadapan” dengan perkataan “derivatif”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (l), dengan menggantikan perkataan “niaga hadapan” dengan perkataan “derivatif”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (m) dengan perenggan yang berikut: “(m) melesenkan, mendaftarkan, membenarkan dan mengawasi semua orang yang melibatkan diri dalam aktiviti terkawal atau menyediakan perkhidmatan pasaran modal sebagaimana yang diperuntukkan di bawah mana-mana undang-undang sekuriti;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (n), dengan menggantikan perkataan “niaga hadapan; dan” dengan perkataan “derivatif;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3__para_k__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3__para_k__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (o)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3__para_k__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3__para_k",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “mendaftar” perkataan “atau mengiktiraf”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3__para_k__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3__para_k",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah di hujung perenggan dengan koma bernoktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (o) perenggan yang berikut: “(p) mengambil segala langkah yang munasabah untuk mengawasi, mengurangkan dan menguruskan risiko sistemik yang berbangkit daripada pasaran sekuriti dan derivatif; (q) menggalakkan dan mengawal selia tadbir urus korporat dan piawaian perakaunan diluluskan untuk syarikat tersenarai; dan (r) menentukan dan meluluskan piawaian kelayakan profesional bagi pasaran sekuriti dan derivatif.”. Pindaan seksyen 22A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 22A Akta ibu dipinda dengan menggantikan perkataan “niaga hadapan” dengan perkataan “derivatif”. Pindaan seksyen 24"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 24 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: “ (2) Dalam hal tiap-tiap derivatif yang dilakukan di pasaran derivatif sesuatu bursa derivatif, kedua-dua orang pada setiap kedudukan bagi pesanan berhubung dengan derivatif tersebut adalah bertanggungan membayar suatu levi kepada Suruhanjaya dalam amaun yang ditentukan melalui perintah Menteri yang hendaklah disiarkan dalam Warta; dan amaun yang berlainan boleh ditentukan berkenaan dengan jenis atau kelas derivatif yang berlainan atau golongan atau kategori orang yang berlainan berkenaan dengan derivatif.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2A), dengan menggantikan perkataan “kontrak niaga hadapan” dengan perkataan “derivatif”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (6). Pindaan seksyen 31A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_6__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 31A Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan takrif “juruaudit” dengan takrif yang berikut: ‘ “juruaudit” ertinya seorang juruaudit perseorangan atau firma audit berdaftar atau diiktirafkan di bawah seksyen 31O sebagai juruaudit berdaftar atau juruaudit yang diiktiraf suatu entiti berkepentingan awam;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “juruaudit” takrif yang berikut: ‘ “juruaudit berdaftar” ertinya seorang juruaudit atau firma audit berdaftar di bawah seksyen 31o sebagai juruaudit suatu entiti berkepentingan awam;’; dan ‘ “juruaudit yang diiktiraf” ertinya seorang juruaudit perseorangan asing atau firma audit asing diiktirafkan di bawah seksyen 31O sebagai juruaudit suatu entiti berkepentingan awam;’; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “Pegawai Penyiasat” takrif yang berikut: ‘ “pihak berkuasa asing yang berkaitan” ertinya suatu pihak berkuasa asing yang menjalankan fungsi yang bersamaan dengan Lembaga Pemantauan Audit seperti yang ditetapkan dalam seksyen 31B;’. Pindaan seksyen 31C"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 31C Akta ibu dipinda dengan memasukkan selepas subseksyen (6) subseksyen yang berikut: “ (7) Pengerusi eksekutif hendaklah diamanahkan dengan pengurusan hari ke hari Lembaga Pemantauan Audit.”. Pindaan seksyen 31E"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 31E(1)(b) Akta ibu dipinda dengan memasukkan selepas perkataan “mendaftarkan” perkataan “atau mengiktirafkan”. Seksyen baru 31EA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 31E seksyen yang berikut: “Lembaga Pemantauan Audit boleh menubuhkan jawatankuasa 31EA. (1) Lembaga Pemantauan Audit boleh menubuhkan apa-apa jawatankuasa sebagaimana yang difikirkan perlu atau suai manfaat untuk membantu dalam melaksanakan tanggungjawabnya sebagaimana yang ditetapkan di bawah subseksyen 31E(1). (2) Lembaga Pemantauan Audit boleh melantik mana-mana orang untuk menjadi anggota sesuatu jawatankuasa. (3) Sesuatu jawatankuasa yang ditubuhkan di bawah seksyen ini boleh memilih mana-mana anggotanya untuk menjadi pengerusi dan boleh mengawal selia tatacaranya sendiri dan, dalam melaksanakan tanggungjawabnya, hendaklah tertakluk kepada dan bertindak mengikut apa-apa arahan yang diberikan kepada jawatankuasa itu oleh Lembaga Pemantauan Audit. (4) Mesyuarat sesuatu jawatankuasa hendaklah diadakan pada bila-bila masa dan di mana-mana tempat sebagaimana yang ditentukan oleh pengerusi jawatankuasa itu. (5) Sesuatu jawatankuasa boleh mengundang mana- mana orang yang bukan anggota untuk menghadiri mana-mana mesyuarat jawatankuasa itu bagi maksud menasihatinya mengenai apa-apa perkara yang dibincangkan tetapi orang itu tidak berhak untuk mengundi dalam mesyuarat itu. (6) Anggota sesuatu jawatankuasa atau mana-mana orang yang diundang di bawah subseksyen (5) untuk menghadiri mana-mana mesyuarat sesuatu jawatankuasa boleh dibayar apa-apa elaun dan perbelanjaan lain sebagaimana yang ditentukan oleh Lembaga Pemantauan Audit. (7) Seseorang anggota jawatankuasa hendaklah memegang jawatan bagi apa-apa tempoh sebagaimana yang dinyatakan dalam surat cara pelantikannya dan layak untuk dilantik semula. (8) Lembaga Pemantauan Audit boleh pada bila-bila masa membatalkan pelantikan mana-mana anggota sesuatu jawatankuasa. (9) Seseorang anggota jawatankuasa boleh pada bila-bila masa meletakkan jawatannya melalui suatu notis bertulis yang dialamatkan kepada pengerusi eksekutif Lembaga Pemantauan Audit. (10) Jawatankuasa hendaklah menyebabkan— (a) minit semua mesyuaratnya disenggara dan disimpan dalam bentuk yang sepatutnya; dan (b) salinan minit semua mesyuaratnya diserahkan kepada Lembaga Pemantauan Audit seberapa segera yang boleh dilaksanakan. (11) Apa-apa minit yang dibuat mengenai mesyuarat jawatankuasa hendaklah, jika ditandatangani dengan sewajarnya, boleh diterima sebagai keterangan dalam semua prosiding undang-undang tanpa bukti selanjutnya. (12) Tiap-tiap mesyuarat jawatankuasa yang berkenaan dengan prosidingnya minit telah dibuat menurut subseksyen (10) dan (11) hendaklah disifatkan telah dipanggil dan diadakan dengan sewajarnya dan semua anggota dalam mesyuarat itu layak dengan sewajarnya untuk bertindak. (13) Seseorang anggota jawatankuasa yang secara langsung atau tidak langsung, mempunyai sendiri atau melalui anggota keluarganya, apa-apa kepentingan mengenai apa-apa perkara yang dibincangkan oleh jawatankuasa hendaklah menzahirkan kepada jawatankuasa hakikat dan jenis kepentingannya. (14) Penzahiran di bawah subseksyen (13) hendaklah direkodkan dalam minit jawatankuasa, dan selepas penzahiran itu, anggota yang mempunyai kepentingan dalam perkara itu— (a) tidak boleh mengambil bahagian mahu pun hadir dalam apa-apa pertimbangan atau keputusan jawatankuasa itu; dan (b) tidak boleh diambil kira bagi maksud membentuk korum jawatankuasa berhubung dengan perkara itu. (15) Walau apa pun subseksyen (13) dan (14), tiada tindakan atau prosiding jawatankuasa itu boleh menjadi tidak sah atas alasan mana-mana anggota jawatankuasa itu telah melanggar peruntukan subseksyen itu.”. Pindaan seksyen 31L"
+      }
+    }
+  ]
+}

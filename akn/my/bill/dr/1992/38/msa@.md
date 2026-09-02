@@ -12,7 +12,7 @@
 
 ## PUBLISHED BY AUTHORITY
 
-Jil. 36
+<!-- marginal: Jil. 36 -->
 
 <!-- marginal: TAMBAHAN -->
 
@@ -20,11 +20,7 @@ Jil. 36
 
 No. 25________ 10hb Disember 1992_____
 
-Rang Undang-undang yang berikut
-
-<!-- marginal: telah di- -->
-
-bentangkan dalam Parlimen adalah diterbitkan untuk makluman umum:
+Rang Undang-undang yang berikut telah di- bentangkan dalam Parlimen adalah diterbitkan untuk makluman umum:
 
 The following Bills introduced into Parliament are published for general information:
 

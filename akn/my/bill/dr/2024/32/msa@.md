@@ -118,7 +118,7 @@ semasa tempoh yang dinyatakan dalam perintah yang dikeluarkan di bawah subseksye
 
 7. Akta ibu dipinda dengan memasukkan selepas seksyen baharu 21a bahagian yang berikut:
 
-“Bahagian IVa
+## “BAHAGIAN IVA
 
 ## PENGUATKUASAAN
 

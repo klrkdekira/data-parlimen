@@ -18,13 +18,37 @@
 
 ## PIHAK BERKUASA
 
-3. Pihak Berkuasa 4. Objektif Pihak Berkuasa 5. Fungsi Pihak Berkuasa 6. Kuasa Pihak Berkuasa 7. Fungsi tambahan Pihak Berkuasa 8. Keanggotaan Pihak Berkuasa 9. Pelantikan, pembatalan dan peletakan jawatan 10. Pengosongan jawatan 11. Pengisian kekosongan 12. Saraan atau elaun 13. Penzahiran kepentingan 14. Pihak Berkuasa boleh menubuhkan jawatankuasa 15. Wilayah Pembangunan Iskandar 16. Pewakilan fungsi dan kuasa Pihak Berkuasa 17. Penyata, laporan, akaun dan maklumat
+3. Pihak Berkuasa 4. Objektif Pihak Berkuasa 5. Fungsi Pihak Berkuasa 6. Kuasa Pihak Berkuasa 7. Fungsi tambahan Pihak Berkuasa 8. Keanggotaan Pihak Berkuasa 9. Pelantikan, pembatalan dan peletakan jawatan
+
+10. Pengosongan jawatan
+
+11. Pengisian kekosongan
+
+12. Saraan atau elaun
+
+13. Penzahiran kepentingan
+
+14. Pihak Berkuasa boleh menubuhkan jawatankuasa
+
+15. Wilayah Pembangunan Iskandar
+
+16. Pewakilan fungsi dan kuasa Pihak Berkuasa
+
+17. Penyata, laporan, akaun dan maklumat
 
 <!-- page 2 -->
 
 ## BAHAGIAN III
 
-KETUA EKSEKUTIF, PEGAWAI DAN PEKHIDMAT PIHAK BERKUASA Fasal 18. Ketua Eksekutif 19. Pengambilan khidmat pegawai dan pekhidmat lain Pihak Berkuasa 20. Bantuan kewangan kepada anggota, pegawai, pekhidmat dan orang lain 21. Pihak Berkuasa boleh menerima pakai peraturan-peraturan, dsb.
+KETUA EKSEKUTIF, PEGAWAI DAN PEKHIDMAT PIHAK BERKUASA Fasal
+
+18. Ketua Eksekutif
+
+19. Pengambilan khidmat pegawai dan pekhidmat lain Pihak Berkuasa
+
+20. Bantuan kewangan kepada anggota, pegawai, pekhidmat dan orang lain
+
+21. Pihak Berkuasa boleh menerima pakai peraturan-peraturan, dsb.
 
 ## BAHAGIAN IV
 
@@ -32,7 +56,17 @@ KETUA EKSEKUTIF, PEGAWAI DAN PEKHIDMAT PIHAK BERKUASA Fasal 18. Ketua Eksekutif 
 
 ## PEMBANGUNAN ISKANDAR
 
-22. Tanggungjawab Pihak Berkuasa 23. Penyediaan draf Rancangan Pembangunan Komprehensif 24. Kelulusan atau penolakan draf Rancangan Pembangunan Komprehensif 25. Kajian semula atau pengubahan Rancangan Pembangunan Komprehensif 26. Kewajipan untuk mengambil tahu tentang Rancangan Pembangunan Komprehensif yang diluluskan 27. Pembangunan strategik yang ditetapkan
+22. Tanggungjawab Pihak Berkuasa
+
+23. Penyediaan draf Rancangan Pembangunan Komprehensif
+
+24. Kelulusan atau penolakan draf Rancangan Pembangunan Komprehensif
+
+25. Kajian semula atau pengubahan Rancangan Pembangunan Komprehensif
+
+26. Kewajipan untuk mengambil tahu tentang Rancangan Pembangunan Komprehensif yang diluluskan
+
+27. Pembangunan strategik yang ditetapkan
 
 ## BAHAGIAN V
 
@@ -40,7 +74,15 @@ KETUA EKSEKUTIF, PEGAWAI DAN PEKHIDMAT PIHAK BERKUASA Fasal 18. Ketua Eksekutif 
 
 ## PEMBANGUNAN ISKANDAR
 
-28. Agensi penyelaras utama 29. Pesuruhjaya Persekutuan dan Negeri 30. Jawatankuasa Kelulusan dan Pelaksanaan 31. Perkiraan dengan Entiti Kerajaan 32. Tanggungjawab Entiti Kerajaan
+28. Agensi penyelaras utama
+
+29. Pesuruhjaya Persekutuan dan Negeri
+
+30. Jawatankuasa Kelulusan dan Pelaksanaan
+
+31. Perkiraan dengan Entiti Kerajaan
+
+32. Tanggungjawab Entiti Kerajaan
 
 ## BAHAGIAN VI
 
@@ -50,13 +92,51 @@ KETUA EKSEKUTIF, PEGAWAI DAN PEKHIDMAT PIHAK BERKUASA Fasal 18. Ketua Eksekutif 
 
 <!-- page 3 -->
 
-36. Kumpulan wang rizab 37. Kumpulan Wang Projek Sosial 38. Akaun bank 39. Kuasa untuk meminjam 40. Pelaburan 41. Perbelanjaan dan penyediaan anggaran 42. Tahun kewangan 43. Akta Badan Berkanun (Akaun dan Laporan Tahunan) 1980
+36. Kumpulan wang rizab
+
+37. Kumpulan Wang Projek Sosial
+
+38. Akaun bank
+
+39. Kuasa untuk meminjam
+
+40. Pelaburan
+
+41. Perbelanjaan dan penyediaan anggaran
+
+42. Tahun kewangan
+
+43. Akta Badan Berkanun (Akaun dan Laporan Tahunan) 1980
 
 ## BAHAGIAN VII
 
 AM
 
-44. Kuasa untuk mengambil khidmat 45. Kuasa untuk menubuhkan syarikat 46. Kesalahan kerana memberikan maklumat palsu atau mengelirukan 47. Kesalahan bagi pengubahsuaian tanpa kuasa maklumat dalam jagaan Pihak Berkuasa 48. Pengecualian daripada duti setem 49. Obligasi kerahsiaan 50. Perlindungan terhadap tindakan guaman dan prosiding undang-undang 51. Akta Perlindungan Pihak Berkuasa Awam 1948 52. Pekhidmat awam 53. Pewakilan dalam prosiding sivil 54. Kuasa untuk membuat peraturan-peraturan 55. Perkara yang dilakukan dalam menjangkakan Akta ini diperbuat 56. Pencegahan anomali
+44. Kuasa untuk mengambil khidmat
+
+45. Kuasa untuk menubuhkan syarikat
+
+46. Kesalahan kerana memberikan maklumat palsu atau mengelirukan
+
+47. Kesalahan bagi pengubahsuaian tanpa kuasa maklumat dalam jagaan Pihak Berkuasa
+
+48. Pengecualian daripada duti setem
+
+49. Obligasi kerahsiaan
+
+50. Perlindungan terhadap tindakan guaman dan prosiding undang-undang
+
+51. Akta Perlindungan Pihak Berkuasa Awam 1948
+
+52. Pekhidmat awam
+
+53. Pewakilan dalam prosiding sivil
+
+54. Kuasa untuk membuat peraturan-peraturan
+
+55. Perkara yang dilakukan dalam menjangkakan Akta ini diperbuat
+
+56. Pencegahan anomali
 
 ## JADUAL
 
@@ -200,11 +280,7 @@ membuat suatu perjanjian atau perkiraan di bawah seksyen 31;
 
 Rang Undang-Undang
 
-(c) untuk membuat pertanyaan, menjalankan
-
-<!-- marginal: kajian, -->
-
-mengumpul semak, menganalisis dan menyiarkan maklumat, statistik dan faktor yang mempengaruhi atau berkaitan dengan pembangunan, perniagaan atau pelaburan dan untuk menyebarkan maklumat, statistik dan faktor itu kepada pelabur atau pelabur berpotensi, sama ada tempatan atau asing, dalam Wilayah Pembangunan Iskandar dan kepada Entiti Kerajaan yang berkaitan;
+(c) untuk membuat pertanyaan, menjalankan kajian, mengumpul semak, menganalisis dan menyiarkan maklumat, statistik dan faktor yang mempengaruhi atau berkaitan dengan pembangunan, perniagaan atau pelaburan dan untuk menyebarkan maklumat, statistik dan faktor itu kepada pelabur atau pelabur berpotensi, sama ada tempatan atau asing, dalam Wilayah Pembangunan Iskandar dan kepada Entiti Kerajaan yang berkaitan;
 
 (d) untuk mengesyorkan kepada Entiti Kerajaan yang berkaitan, dasar, undang-undang dan tindakan yang hendaklah terpakai bagi Wilayah Pembangunan Iskandar untuk meningkatkan daya saing antarabangsa bagi industri dan perdagangan dalam Wilayah Pembangunan Iskandar;
 
@@ -216,11 +292,7 @@ mengumpul semak, menganalisis dan menyiarkan maklumat, statistik dan faktor yang
 
 (i) pembangunan ekonomi dan sosial;
 
-(ii) pembangunan pelancongan dan infrastruktur serta pembangunan tempat tinggal,
-
-<!-- marginal: pertanian, -->
-
-perindustrian dan komersial;
+(ii) pembangunan pelancongan dan infrastruktur serta pembangunan tempat tinggal, pertanian, perindustrian dan komersial;
 
 (iii) pembangunan kesenian, kebudayaan, sukan dan aktiviti-aktiviti rekreasi;
 
@@ -252,11 +324,7 @@ perindustrian dan komersial;
 
 (ii) semua Entiti Kerajaan, syarikat dan perbadanan, dan badan dan orang lain, sama ada tempatan atau asing, yang terlibat dalam menjalankan atau berniat untuk menjalankan pembangunan dalam Wilayah Pembangunan Iskandar untuk mengemukakan laporan, yang mengandungi apa-apa butir dan maklumat sebagaimana yang dinyatakan oleh Pihak Berkuasa, berkenaan dengan aktiviti mereka atau aktiviti yang dicadangkan oleh mereka;
 
-(d) untuk menyelaraskan pembangunan,
-
-<!-- marginal: termasuk -->
-
-pembangunan harta, infrastruktur dan kemudahan awam dalam Wilayah Pembangunan Iskandar;
+(d) untuk menyelaraskan pembangunan, termasuk pembangunan harta, infrastruktur dan kemudahan awam dalam Wilayah Pembangunan Iskandar;
 
 (e) untuk membuat syor kepada Pihak Berkuasa Negeri Johor dan pihak berkuasa tempatan dalam Wilayah Pembangunan Iskandar berhubung dengan fungsi dan perkhidmatan kerajaan tempatan termasuk kawalan perancangan tempatan dan pengawalseliaan, kelulusan atau kawalan semua bangunan dan pengendalian bangunan, pembaikan dan penghapusan bangunan puing dan berbahaya, dan larangan, penutupan dan perobohan bangunan yang mempunyai kelas, reka bentuk atau rupa tertentu dalam Wilayah Pembangunan Iskandar;
 
@@ -654,17 +722,19 @@ pembangunan ekonomi di Wilayah Pembangunan Iskandar;
 
 (2) Draf Rancangan Pembangunan Komprehensif hendaklah mengandungi pernyataan bertulis dan —
 
-(a) hendaklah merumuskan, dengan terperinci sebagaimana yang difikirkan sesuai oleh Pihak Berkuasa, cadangannya bagi rangka keseluruhan, wawasan dan
-
-<!-- marginal: objektif -->
-
-pembangunan Wilayah Pembangunan Iskandar, yang hendaklah termasuk strategi bagi pembangunan fizikal, ekonomi dan sosial di Wilayah Pembangunan Iskandar;
+(a) hendaklah merumuskan, dengan terperinci sebagaimana yang difikirkan sesuai oleh Pihak Berkuasa, cadangannya bagi rangka keseluruhan, wawasan dan objektif pembangunan Wilayah Pembangunan Iskandar, yang hendaklah termasuk strategi bagi pembangunan fizikal, ekonomi dan sosial di Wilayah Pembangunan Iskandar;
 
 <!-- page 25 -->
 
-(b) hendaklah merumuskan, dengan terperinci sebagaimana yang difikirkan sesuai oleh Pihak Berkuasa, cadangannya bagi inisiatif perancangan dan pelaksanaan untuk merealisasikan strategi yang disebut dalam perenggan (a), yang hendaklah termasuk inisiatif yang berhubungan dengan —
+(b) hendaklah merumuskan, dengan terperinci sebagaimana yang difikirkan sesuai oleh Pihak Berkuasa, cadangannya
 
-(i) fungsi Pihak Berkuasa di bawah perenggan 5(b) dan (d);
+<!-- marginal: bagi -->
+
+inisiatif perancangan dan pelaksanaan untuk merealisasikan strategi yang disebut dalam perenggan (a), yang hendaklah termasuk inisiatif yang berhubungan dengan —
+
+(i) fungsi Pihak Berkuasa di bawah perenggan 5(b) dan
+
+(d);
 
 (ii) peningkatan kualiti persekitaran hidup dalam Wilayah Pembangunan Iskandar;
 
@@ -676,11 +746,7 @@ pembangunan Wilayah Pembangunan Iskandar, yang hendaklah termasuk strategi bagi 
 
 (vi) perlindungan, pemeliharaan dan peningkatan sumber alam sekitar semula jadi, sumber pertanian, taman dan tanah lapang dalam Wilayah Pembangunan Iskandar;
 
-(vii) pembangunan kawasan pantai dalam Wilayah Pembangunan Iskandar berseimbang
-
-<!-- marginal: dengan -->
-
-perlindungan persekitaran pantai semula jadi;
+(vii) pembangunan kawasan pantai dalam Wilayah Pembangunan Iskandar berseimbang dengan perlindungan persekitaran pantai semula jadi;
 
 (viii) penggiatan semula dan peningkatan persekitaran ekonomi, sosial dan fizikal Pusat Bandar Johor Bahru;
 

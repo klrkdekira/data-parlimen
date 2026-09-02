@@ -40,7 +40,37 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Amendment of section 3
 
-3. The principal Act is amended by substituting for section 3 the following section: " 3. (1) The Chief Executive Officer of the Commission Registrar, Deputy shall be the Registrar of Businesses. and Assistant Registrars (2) The Commission shall appoint on such terms and of conditions as it may determine from amongst persons in Businesses, inspectors, the employment of the Commission such number of Deputy etc. Registrars, Assistant Registrars, inspectors and other officers as may be necessary for the proper administration of this Act.
+3. The principal Act is amended by substituting for section 3 the following section: "
+
+3. (1) The Chief Executive Officer of the Commission
+
+<!-- marginal: Registrar, -->
+
+<!-- marginal: Deputy -->
+
+shall be the Registrar of Businesses.
+
+<!-- marginal: and -->
+
+<!-- marginal: Assistant -->
+
+<!-- marginal: Registrars -->
+
+(2) The Commission shall appoint on such terms and
+
+<!-- marginal: of -->
+
+conditions as it may determine from amongst persons in
+
+<!-- marginal: Businesses, -->
+
+<!-- marginal: inspectors, -->
+
+the employment of the Commission such number of Deputy
+
+<!-- marginal: etc. -->
+
+Registrars, Assistant Registrars, inspectors and other officers as may be necessary for the proper administration of this Act.
 
 (3) The persons holding office as Deputy Registrars, Assistant Registrars or inspectors and other officers in the office of the Registrar of Businesses immediately before the appointed date and who have opted to serve as employees of the Commission shall, on the appointed date, be deemed to have been appointed Deputy Registrars, Assistant Registrars, inspectors and other officers under subsection (2).
 
@@ -98,7 +128,19 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### New sections 5A, 5B, 5C, 5D, 5E and 5F
 
-7. The principal Act is amended by inserting after section 5 the following sections: " Renewal 5A. (1) An application for the renewal of the registration of of a business shall be made in the prescribed form and registration. manner to the Registrar within thirty days before the date of expiry of the registration or the previous renewal.
+7. The principal Act is amended by inserting after section 5 the following sections: "
+
+<!-- marginal: Renewal -->
+
+5A. (1) An application for the renewal of the registration
+
+<!-- marginal: of -->
+
+of a business shall be made in the prescribed form and
+
+<!-- marginal: registration. -->
+
+manner to the Registrar within thirty days before the date of expiry of the registration or the previous renewal.
 
 (2) Subject to subsection (3), upon receipt of an application for the renewal of the registration of a business and upon payment of the prescribed fee, the Registrar shall renew the registration of the business for a period which shall not exceed five years at each renewal.
 
@@ -108,7 +150,17 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (5) The new expiry date shall be stated in the certificate of registration.
 
-Changes in 5B. (1) Whenever a change is made or occurs in any registered of the particulars registered in respect of any associate particulars. of a business or of the business, that associate or, in the case of the particulars of the business, the person responsible for the business shall, within thirty days after the change is made or occurs, submit to the Registrar in the prescribed form the particulars of the change.
+<!-- marginal: Changes in -->
+
+5B. (1) Whenever a change is made or occurs in any
+
+<!-- marginal: registered -->
+
+of the particulars registered in respect of any associate
+
+<!-- marginal: particulars. -->
+
+of a business or of the business, that associate or, in the case of the particulars of the business, the person responsible for the business shall, within thirty days after the change is made or occurs, submit to the Registrar in the prescribed form the particulars of the change.
 
 <!-- page 6 -->
 
@@ -122,11 +174,41 @@ Changes in 5B. (1) Whenever a change is made or occurs in any registered of the 
 
 the Registrar shall issue a new certificate of registration in respect of such business, and cancel the existing certificate of registration.
 
-Refusal to 5c. (1) Notwithstanding anything to the contrary in this register or Act, the Registrar shall refuse to register any business revocation if the Registrar is satisfied that the business is likely to of registration be used for unlawful purposes or any purpose prejudicial of, to or incompatible with the security of the Federation, business public order or morality.
+<!-- marginal: Refusal to -->
+
+5c. (1) Notwithstanding anything to the contrary in this
+
+<!-- marginal: register or -->
+
+Act, the Registrar shall refuse to register any business
+
+<!-- marginal: revocation -->
+
+if the Registrar is satisfied that the business is likely to
+
+<!-- marginal: of -->
+
+<!-- marginal: registration -->
+
+be used for unlawful purposes or any purpose prejudicial
+
+<!-- marginal: of, -->
+
+to or incompatible with the security of the Federation,
+
+<!-- marginal: business -->
+
+public order or morality.
 
 (2) Where a business has been registered, the Registrar shall revoke its registration if the Registrar is satisfied that the business is being used for unlawful purposes or any purpose prejudicial to or incompatible with the security of the Federation, public order or morality.
 
-Termination 5D. (1) Where a business registered under this Act has of business been terminated, the person responsible for the business shall within thirty days of the termination notify the Registrar in the prescribed form of such termination.
+<!-- marginal: Termination -->
+
+5D. (1) Where a business registered under this Act has
+
+<!-- marginal: of business -->
+
+been terminated, the person responsible for the business shall within thirty days of the termination notify the Registrar in the prescribed form of such termination.
 
 (2) Where a business terminates upon the death of an associate of the business and there is no surviving associate of the business or person responsible for the business, the personal representative or the next-of-kin of the deceased associate shall within four months from the date of such death notify the Registrar in the prescribed form of such termination.
 
@@ -136,13 +218,41 @@ Termination 5D. (1) Where a business registered under this Act has of business b
 
 Registration of Businesses (Amendment) 7
 
-Removal of 5E. (1) Where the Registrar has reasonable cause to registered believe that any business registered under this Act is not business being carried on, the Registrar may send to the person from register or persons registered as the associate or associates of the business a notice notifying the Registrar's intention to revoke the registration of the business and the Registrar shall give such person or persons an opportunity to make written representation on the intended revocation within thirty days from the date of service of the notice.
+<!-- marginal: Removal of -->
+
+5E. (1) Where the Registrar has reasonable cause to
+
+<!-- marginal: registered -->
+
+believe that any business registered under this Act is not
+
+<!-- marginal: business -->
+
+being carried on, the Registrar may send to the person
+
+<!-- marginal: from -->
+
+<!-- marginal: register -->
+
+or persons registered as the associate or associates of the business a notice notifying the Registrar's intention to revoke the registration of the business and the Registrar shall give such person or persons an opportunity to make written representation on the intended revocation within thirty days from the date of service of the notice.
 
 (2) After the expiry of the period of thirty days provided for in subsection (1), if the Registrar receives a reply from such person or persons to the effect that such person or persons are not carrying on such business, or the Registrar does not receive any reply to the notice, the Registrar shall revoke the registration of the business and cancel the certificate of registration.
 
 (3) The Registrar shall publish in the Gazette such particulars as the Registrar thinks fit of any person the registration of whose business has been revoked under this section.
 
-Certificate of 5F. A certificate of registration having a registration registration number, and carrying the applicant's name or business is conclusive evidence. name, issued under this Act by the Registrar shall be conclusive evidence that all the requirements of this Act in respect of the registration and matters precedent and incidental to such registration have been complied with, and the business referred to in such certificate is duly registered under this Act.".
+<!-- marginal: Certificate of -->
+
+5F. A certificate of registration having a registration
+
+<!-- marginal: registration -->
+
+number, and carrying the applicant's name or business
+
+<!-- marginal: is conclusive -->
+
+<!-- marginal: evidence. -->
+
+name, issued under this Act by the Registrar shall be conclusive evidence that all the requirements of this Act in respect of the registration and matters precedent and incidental to such registration have been complied with, and the business referred to in such certificate is duly registered under this Act.".
 
 ### Amendment of section 9
 
@@ -258,7 +368,19 @@ Display of 11A. The certificate of registration issued in respect of certificate
 
 ### New section 22A
 
-20. The principal Act is amended by inserting after section 22 the following section: " Electronic 22A. (1) The Registrar may provide a service for the filing of electronic filing or lodging of documents required by documents. this Act to be filed or lodged with the Registrar.
+20. The principal Act is amended by inserting after section 22 the following section: "
+
+<!-- marginal: Electronic -->
+
+22A. (1) The Registrar may provide a service for the
+
+<!-- marginal: filing of -->
+
+electronic filing or lodging of documents required by
+
+<!-- marginal: documents. -->
+
+this Act to be filed or lodged with the Registrar.
 
 (2) A person who intends to use the service provided under subsection (1) shall become a subscriber to the service by paying the prescribed fee and by complying with such terms and conditions as may be determined by the Registrar.
 

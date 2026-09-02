@@ -8,9 +8,7 @@
 
 ## PRELIMINARY
 
-1. Short title, application and commencement.
-
-2. Interpretation.
+1. Short title, application and commencement. 2. Interpretation.
 
 ## PART II
 
@@ -18,11 +16,7 @@
 
 ## OF PADI AND RICE
 
-3. Appointment of Director General,
-
-4. Duties and functions of Director General.
-
-5. Power of the Minister to give directions.
+3. Appointment of Director General, 4. Duties and functions of Director General. 5. Power of the Minister to give directions.
 
 ## PART
 
@@ -32,13 +26,7 @@ III
 
 ## SEARCH, SEIZURE, ARREST, ETC.
 
-6. Authorisation of officer to exercise powers under this Part.
-
-7. Power to obtain information.
-
-8. Power to enter premises.
-
-9. Power of investigation.
+6. Authorisation of officer to exercise powers under this Part. 7. Power to obtain information. 8. Power to enter premises. 9. Power of investigation.
 
 10. Power to require attendance of person acquainted with case.
 
@@ -170,7 +158,11 @@ development of the padi and rice industry, and, where approved by the Government
 
 (g) to regulate and control the amount of padi or rice that may be kept, stored or possessed by any person;
 
-(h) to impose rationing in respect of padi or rice and to regulate and control the rationing thereof; to provide for the registration of all or any persons for the purpose of such rationing and for the issue of ration cards or other rationing documents, and to appoint enumerators to enumerate the public or any class thereof for the purpose of rationing;
+(h) to impose rationing in respect of padi or rice and to regulate and control the rationing thereof; to provide for the registration of all or any persons for the purpose of such rationing and for the issue of ration cards or other rationing documents, and to
+
+<!-- marginal: appoint -->
+
+enumerators to enumerate the public or any class thereof for the purpose of rationing;
 
 (i) to requisition stocks of padi or rice belonging to any person and pay adequate compensation therefor;
 
@@ -312,7 +304,9 @@ together with any receptacle, package, conveyance, vessel or other article, in w
 
 ## CONTROL OF PADI AND RICE
 
-(2) The person in control or in charge of a conveyance examined under the provision of subsection (1) shall on request by the authorised officer or police officer open all parts of the conveyance for examination by the officer and take all measures necessary to enable the examination as the officer considers necessary to be made.
+(2) The person in control or in charge of a conveyance examined under the provision of subsection
+
+(1) shall on request by the authorised officer or police officer open all parts of the conveyance for examination by the officer and take all measures necessary to enable the examination as the officer considers necessary to be made.
 
 15. (1) Subject to section 16, if there is no prosecution with regard to any padi or rice seized under this Act or any regulation made thereunder, the padi or rice together with any receptacle, package, conveyance, vessel or other article, in which the padi or rice may have been found, or any book or document connected therewith shall be taken and deemed to be forfeited at the expiration of thirty days from the date of the publication of a notice in accordance with the provisions of subsection (2) by the Director General or an authorised officer unless a claim thereto is made before the expiration of the thirty days in the manner hereinafter set out.
 
@@ -404,7 +398,11 @@ IV
 
 18. (1) A person licensed under this Act to sell rice, or the servant or agent of any such person, who has in his possession a stock of rice and who—
 
-(a) falsely denies that he has rice in his possession; or
+(a) falsely denies that he has rice
+
+<!-- marginal: in his -->
+
+possession; or
 
 (b) refuses, except with the permission of the Director General, to sell rice in reasonable quantities in the ordinary way of business, shall be guilty of an offence under this Act:
 
@@ -528,7 +526,11 @@ Provided that he has done or omitted to do the act with the intention of procuri
 
 (a) affect the validity of any licence, permit or authority granted or issued under the Lembaga Padi dan Beras Negara Act 1971; or
 
-(b) affect any right, title, interest, liberty, privilege, obligation or liability acquired, accrued or incurred under the repealed Act.
+(b) affect any right, title, interest,
+
+<!-- marginal: liberty, -->
+
+privilege, obligation or liability acquired, accrued or incurred under the repealed Act.
 
 33. Any land, right and interest in land which, immediately before the dissolution of the Lembaga, was vested in or held by the Lembaga shall on such dissolution vest in or be held by the Federal Lands Commissioner for the purposes of the Government without any conveyance, assignment or transfer whatever.
 

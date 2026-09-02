@@ -12,19 +12,19 @@
 
 ## PUBLISHED BY AUTHORITY
 
-Jil. 34
+<!-- marginal: Jil. 34 -->
 
-## TAMBAHAN
+<!-- marginal: TAMBAHAN -->
 
 ### 21hb
 
 ### Jun
 
-No.13
+<!-- marginal: No.13 -->
 
 ### 1990
 
-No.4
+<!-- marginal: No.4 -->
 
 ## RANG UNDANG-UNDANG
 
@@ -106,7 +106,9 @@ IV
 
 <!-- page 3 -->
 
-12. Sekatan atas urusan kewangan. 13. Liabiliti Pihak Berkuasa Bersama bukan tanggungjawab Kerajaan-Kerajaan.
+12. Sekatan atas urusan kewangan.
+
+13. Liabiliti Pihak Berkuasa Bersama bukan tanggungjawab Kerajaan-Kerajaan.
 
 ## BAHAGIAN VII
 
@@ -128,7 +130,9 @@ IX
 
 ## MAHKAMAH-MAHKAMAH
 
-16. Pengkhidmat awam. 17. Bidang kuasa Mahkamah.
+16. Pengkhidmat awam.
+
+17. Bidang kuasa Mahkamah.
 
 ## BAHAGIAN X
 
@@ -146,11 +150,23 @@ IX
 
 ## KESALAHAN-KESALAHAN DAN PENALTI-PENALTI
 
-20. Pelanggaran subseksyen (1) seksyen 14. 21. Kesalahan-kesalahan lain. 22. Kesalahan oleh pertubuhan perbadanan. 23. Pengarah dan pegawai pertubuhan perbadanan boleh dipertuduh bersesama dengan pertubuhan perbadanan. 24. Penalti bagi kesalahan kerana apa-apa jua yang dilakukan atau ditinggalkan oleh ejen.
+20. Pelanggaran subseksyen (1) seksyen 14.
+
+21. Kesalahan-kesalahan lain.
+
+22. Kesalahan oleh pertubuhan perbadanan.
+
+23. Pengarah dan pegawai pertubuhan perbadanan boleh dipertuduh bersesama dengan pertubuhan perbadanan.
+
+24. Penalti bagi kesalahan kerana apa-apa jua yang dilakukan atau ditinggalkan oleh ejen.
 
 ## BAHAGIAN XIII''
 
-AM 25. Akta ini mengatasi undang-undang lain. 26. Penguasaan dan pengawalan Akta ini.
+AM
+
+25. Akta ini mengatasi undang-undang lain.
+
+26. Penguasaan dan pengawalan Akta ini.
 
 ## JADUAL.
 
@@ -164,11 +180,15 @@ Suatu Akta bagi memberikan kuatkuasa kepada per- janjian mengenai penubuhan dan 
 
 ## BAHAWASANYA
 
-menurut Memorandum Persefahaman di antara Malaysia dengan Kerajaan Thailand mengenai Penubuhan suatu Pihak Berkuasa Bersama bagi Mengeksploitasikan Sumber-sumber Dasar Laut dalam Kawasan Tertentu di Pelantar Benua Kedua- dua Negara di Teluk Siam bertarikh 21 Februari 1979, Perjanjian mengenai Perlembagaan dan Perkara-Perkara Lain yang Berhubungan dengan Penubuhan Pihak Berkuasa Bersama Malaysia-Thailand telah ditandatangani pada 30 Mei 1990, di Kuala Lumpur, Malaysia, di antara Kerajaan Malaysia dengan Kerajaan Thailand;
+menurut Memorandum Persefahaman di antara Malaysia dengan Kerajaan Thailand mengenai Penubuhan suatu Pihak Berkuasa Bersama bagi Mengeksploitasikan Sumber-sumber Dasar Laut dalam Kawasan Tertentu di Pelantar Benua Kedua- dua Negara di Teluk Siam bertarikh 21 Februari 1979, Perjanjian mengenai Perlembagaan dan Perkara-Perkara Lain yang Berhubungan dengan Penubuhan Pihak Berkuasa Bersama Malaysia-Thailand
+
+<!-- marginal: telah -->
+
+ditandatangani pada 30 Mei 1990, di Kuala Lumpur, Malaysia, di antara Kerajaan Malaysia dengan Kerajaan Thailand;
 
 ## MAKA OLEH YANG DEMIKIAN
 
-## INILAH
+<!-- marginal: INILAH -->
 
 DIPERBUAT UNDANG-UNDANG oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong, dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
 
@@ -192,7 +212,7 @@ kuasa Bersama Malaysia-Thailand 1990.
 
 ## RANG UNDANG-UNDANG
 
-Tafsiran.
+<!-- marginal: Tafsiran. -->
 
 2. Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—
 
@@ -234,21 +254,65 @@ II
 
 ## PIHAK BERKUASA BERSAMA MALAYSIA-THAILAND
 
-Penubuhan
+<!-- marginal: Penubuhan -->
 
-3. (1) Maka adalah dengan ini ditubuhkan suatu badan Pihak Ber- dengan nama Pihak Berkuasa Bersama Malaysia- kuasa Bersama Thailand (yang disebut "Pihak Berkuasa Bersama" Malaysia- dalam Akta ini). Thailand.
+3. (1) Maka adalah dengan ini ditubuhkan suatu badan
+
+<!-- marginal: Pihak Ber- -->
+
+dengan nama Pihak Berkuasa Bersama Malaysia-
+
+<!-- marginal: kuasa -->
+
+<!-- marginal: Bersama -->
+
+Thailand (yang disebut "Pihak Berkuasa Bersama"
+
+<!-- marginal: Malaysia- -->
+
+dalam Akta ini).
+
+<!-- marginal: Thailand. -->
 
 (2) Pihak Berkuasa Bersama hendaklah mempunyai personaliti juristik dan hendaklah berdomisil di Malaysia dan Thailand.
 
 (3) Pihak Berkuasa Bersama hendaklah menjadi suatu pertubuhan perbadanan dan, tertakluk kepada dan bagi maksud-maksud Akta ini, boleh membuat kontrak, dan boleh memperolehi, membeli, mengambil, memegang dan menikmati apa-apa jenis harta alih dan tak alih, tidak termasuk tanah, dan boleh memindahhak, menyerahhak, menyerahkan, menggadai, menggadaijanji, menyerahhak semula, memindahmilik atau selainnya melupuskan, atau memperlakukan, apa-apa harta alih atau harta tak alih atau apa-apa kepentingan di dalamnya yang terletakhak pada Pihak Berkuasa Bersama mengikut apa-apa terma yang difikirkannya sesuai.
 
-Kuasa-kuasa
+<!-- marginal: Kuasa-kuasa -->
 
-4. Pihak Berkuasa Bersama hendaklah mempunyai apa- dan fungsi- apa kuasa dan melaksanakan apa-apa fungsi yang perlu fungsi Pihak Berkuasa bagi perlaksanaan tugas-tugasnya dan penikmatan hak- Bersama. hak dan keistimewaan-keistimewaannya di bawah, dan setakat yang tidak tak konsisten dengan, Akta ini.
+4. Pihak Berkuasa Bersama hendaklah mempunyai apa-
 
-Carigali dan
+<!-- marginal: dan fungsi- -->
 
-5. Pihak Berkuasa Bersama dengan ini diletakhakkan eksploitasi dengan dan memegang hak-hak, kuasa-kuasa, kebebasan- sumber- sumber kebebasan dan keistimewaan-keistimewaan eksklusif alam. untuk mencarigali dan mengeksploitasikan sumber- sumber alam, khususnya petroleum, dalam Kawasan Pembangunan Bersama.
+apa kuasa dan melaksanakan apa-apa fungsi yang perlu
+
+<!-- marginal: fungsi Pihak -->
+
+<!-- marginal: Berkuasa -->
+
+bagi perlaksanaan tugas-tugasnya dan penikmatan hak-
+
+<!-- marginal: Bersama. -->
+
+hak dan keistimewaan-keistimewaannya di bawah, dan setakat yang tidak tak konsisten dengan, Akta ini.
+
+<!-- marginal: Carigali dan -->
+
+5. Pihak Berkuasa Bersama dengan ini diletakhakkan
+
+<!-- marginal: eksploitasi -->
+
+dengan dan memegang hak-hak, kuasa-kuasa, kebebasan-
+
+<!-- marginal: sumber- -->
+
+<!-- marginal: sumber -->
+
+kebebasan dan keistimewaan-keistimewaan eksklusif
+
+<!-- marginal: alam. -->
+
+untuk mencarigali dan mengeksploitasikan sumber- sumber alam, khususnya petroleum, dalam Kawasan Pembangunan Bersama.
 
 <!-- page 7 -->
 
@@ -258,13 +322,19 @@ III
 
 ## KAWASAN PEMBANGUNAN BERSAMA
 
-Kawasan
+<!-- marginal: Kawasan -->
 
-6. Kawasan Pembangunan Bersama hendaklah Pembangunan kawasan yang disempadani oleh garis-garis
+6. Kawasan Pembangunan Bersama hendaklah
+
+<!-- marginal: Pembangunan -->
+
+kawasan yang disempadani oleh garis-garis
 
 <!-- marginal: lurus -->
 
-Bersama. yang menyambungkan titik-titik koordinat
+<!-- marginal: Bersama. -->
+
+yang menyambungkan titik-titik koordinat
 
 <!-- marginal: yang -->
 
@@ -278,7 +348,7 @@ IV
 
 ## ROYALTI
 
-Royalti.
+<!-- marginal: Royalti. -->
 
 7. Pihak Berkuasa Bersama hendaklah membayar kepada setiap satu daripada Kerajaan-Kerajaan royalti sebanyak lima peratus daripada pengeluaran kasar petroleum, mengikut cara dan pada masa-masa yang ditetapkan melalui peraturan-peraturan.
 
@@ -286,9 +356,17 @@ Royalti.
 
 ## PERUNTUKAN-PERUNTUKAN KEWANGAN
 
-Kos, faedah
+<!-- marginal: Kos, faedah -->
 
-8. (1) Segala kos yang dilakukan dan faedah yang dan bayaran diperolehi oleh Pihak Berkuasa Bersama daripada tahunan. aktiviti-aktiviti yang dijalankan di Kawasan Pembangunan Bersama hendaklah ditanggung dan dikongsi sama banyak oleh Kerajaan-Kerajaan.
+8. (1) Segala kos yang dilakukan dan faedah yang
+
+<!-- marginal: dan bayaran -->
+
+diperolehi oleh Pihak Berkuasa Bersama daripada
+
+<!-- marginal: tahunan. -->
+
+aktiviti-aktiviti yang dijalankan di Kawasan Pembangunan Bersama hendaklah ditanggung dan dikongsi sama banyak oleh Kerajaan-Kerajaan.
 
 (2) Sehingga suatu masa apabila Pihak Berkuasa Bersama mempunyai pendapatan yang cukup untuk membiayai perbelanjaan kendalian tahunannya, Kerajaan Malaysia hendaklah membayar kepada Kumpulan Wang apa-apa bayaran tahunan yang ditentukan mengikut Perjanjian tertakluk kepada bayaran-bayaran yang sama banyak dibuat oleh Kerajaan Thailand.
 
@@ -302,9 +380,17 @@ Kos, faedah
 
 ## MALAYSIA-THAILAND
 
-Penubuhan
+<!-- marginal: Penubuhan -->
 
-9. (1) Bagi maksud-maksud Akta ini dan Perjanjian, Kumpulan maka adalah dengan ini ditubuhkan suatu kumpulan wang Wang. yang dinamakan Kumpulan Wang Pihak Berkuasa Bersama Malaysia-Thailand (yang disebut "Kumpulan Wang" dalam Akta ini) yang hendaklah ditadbirkan dan dikawal oleh Pihak Berkuasa Bersama.
+9. (1) Bagi maksud-maksud Akta ini dan Perjanjian,
+
+<!-- marginal: Kumpulan -->
+
+maka adalah dengan ini ditubuhkan suatu kumpulan wang
+
+<!-- marginal: Wang. -->
+
+yang dinamakan Kumpulan Wang Pihak Berkuasa Bersama Malaysia-Thailand (yang disebut "Kumpulan Wang" dalam Akta ini) yang hendaklah ditadbirkan dan dikawal oleh Pihak Berkuasa Bersama.
 
 (2) Aset Kumpulan Wang hendaklah termasuk—
 
@@ -318,11 +404,19 @@ Penubuhan
 
 (e) apa-apa wang atau harta lain yang mungkin dengan apa-apa jua cara menjadi kena dibayar kepada atau terletakhak pada Pihak Berkuasa Bersama berkenaan dengan apa-apa perkara yang bersampingan dengan kuasa-kuasa dan kewajipan-kewajipannya.
 
-Penggunaan
+<!-- marginal: Penggunaan -->
 
-10. Kumpulan Wang boleh digunakan untuk— Kumpulan Wang.
+10. Kumpulan Wang boleh digunakan untuk—
 
-(a) membayar apa-apa perbelanjaan yang di- lakukan oleh Pihak Berkuasa Bersama dalam melaksanakan fungsi-fungsinya dan menjalankan kuasa-kuasanya mengikut peruntukan-peruntukan belanjawan yang
+<!-- marginal: Kumpulan -->
+
+<!-- marginal: Wang. -->
+
+(a) membayar apa-apa perbelanjaan yang di- lakukan oleh Pihak Berkuasa Bersama dalam melaksanakan fungsi-fungsinya
+
+<!-- marginal: dan -->
+
+menjalankan kuasa-kuasanya mengikut peruntukan-peruntukan belanjawan yang
 
 <!-- page 9 -->
 
@@ -336,17 +430,29 @@ diluluskan dan tertakluk kepada mana-mana peraturan yang dibuat di bawah seksyen
 
 (d) tertakluk kepada seksyen 11, pembayaran wang yang sama banyak amaunnya kepada Kerajaan- Kerajaan daripada pendapatan yang terakru kepada Pihak Berkuasa Bersama selepas ditolak perbelanjaan-perbelanjaan yang disebut dalam perenggan (a) dan (b) termasuk apa-apa perbelanjaan lain yang dipersetujui oleh Kerajaan-Kerajaan.
 
-Kumpulan 11. Pihak Berkuasa Bersama hendaklah menubuhkan wang rizab. dan menguruskan suatu kumpulan wang rizab di dalam Kumpulan Wang mengikut apa-apa terma dan syarat yang diputuskan bersesama oleh Kerajaan-Kerajaan.
+<!-- marginal: Kumpulan -->
 
-Sekatan 12. (1) Pihak Berkuasa Bersama tidak boleh, tanpa atas urusan mendapat kelulusan terlebih dahulu daripada Kerajaan- kewangan. Kerajaan—
+11. Pihak Berkuasa Bersama hendaklah menubuhkan
+
+<!-- marginal: wang rizab. -->
+
+dan menguruskan suatu kumpulan wang rizab di dalam Kumpulan Wang mengikut apa-apa terma dan syarat yang diputuskan bersesama oleh Kerajaan-Kerajaan.
+
+<!-- marginal: Sekatan -->
+
+12. (1) Pihak Berkuasa Bersama tidak boleh, tanpa
+
+<!-- marginal: atas urusan -->
+
+mendapat kelulusan terlebih dahulu daripada Kerajaan-
+
+<!-- marginal: kewangan. -->
+
+Kerajaan—
 
 (a) memberikan bantuan kewangan kepada mana- mana syarikat, badan atau orang dengan mengambil syer-syer atau debentur-debentur atau dengan cara pinjaman, pendahuluan, pemberian atau selainnya;
 
-(b) membeli, mengunderait atau
-
-<!-- marginal: selainnya -->
-
-memperolehi apa-apa saham dan syer dalam mana-mana syarikat awam atau syarikat persendirian; atau
+(b) membeli, mengunderait atau selainnya memperolehi apa-apa saham dan syer dalam mana-mana syarikat awam atau syarikat persendirian; atau
 
 (c) meminjam wang, atau membuat apa-apa jaminan atau tanggung rugi yang melibatkan liabiliti kewangan.
 
@@ -356,17 +462,63 @@ memperolehi apa-apa saham dan syer dalam mana-mana syarikat awam atau syarikat p
 
 (2) Dalam memberikan apa-apa keizinan di bawah subseksyen (1) Kerajaan-Kerajaan boleh bersesama mengenakan apa-apa terma dan syarat yang difikirkan sesuai olehnya.
 
-Liabiliti Pihak
+<!-- marginal: Liabiliti Pihak -->
 
-13. Tiada apa-apa jua dalam Akta ini boleh ditafsirkan Berkuasa sebagai mewujudkan apa-apa jua pun tanggungjawab Bersama bukan bagi Kerajaan Malaysia atau Kerajaan Thailand ber- tanggung- kenaan dengan apa-apa liabiliti Pihak Berkuasa Bersama. jawab Kerajaan- Kerajaan.
+13. Tiada apa-apa jua dalam Akta ini boleh ditafsirkan
+
+<!-- marginal: Berkuasa -->
+
+sebagai mewujudkan apa-apa jua pun tanggungjawab
+
+<!-- marginal: Bersama -->
+
+<!-- marginal: bukan -->
+
+bagi Kerajaan Malaysia atau Kerajaan Thailand ber-
+
+<!-- marginal: tanggung- -->
+
+kenaan dengan apa-apa liabiliti Pihak Berkuasa Bersama.
+
+<!-- marginal: jawab -->
+
+<!-- marginal: Kerajaan- -->
+
+<!-- marginal: Kerajaan. -->
 
 ## BAHAGIAN VII
 
 ## KONTRAK BAGI CARIGALI DAN EKSPLOITASI
 
-Larangan
+<!-- marginal: Larangan -->
 
-14. (1) Walau apa pun peruntukan-peruntukan mana- mencarigali mana undang-undang bertulis lain, tiada urusan atau meng- eksploitasikan mencarigali dan mengeksploitasikan apa-apa sumber sumber- alam, termasuk petroleum, boleh dijalankan di dalam sumber alam Kawasan Pembangunan Bersama oleh mana-mana orang tanpa kontrak. selain daripada Pihak Berkuasa Bersama melainkan jika ada berkenaan dengan mana-mana urusan itu suatu kontrak yang dibuat di antara Pihak Berkuasa Bersama dengan orang itu untuk mencarigali dan mengeksploitasikan sumber-sumber alam itu.
+14. (1) Walau apa pun peruntukan-peruntukan mana-
+
+<!-- marginal: mencarigali -->
+
+mana undang-undang bertulis lain, tiada urusan
+
+<!-- marginal: atau meng- -->
+
+<!-- marginal: eksploitasikan -->
+
+mencarigali dan mengeksploitasikan apa-apa sumber
+
+<!-- marginal: sumber- -->
+
+alam, termasuk petroleum, boleh dijalankan di dalam
+
+<!-- marginal: sumber alam -->
+
+Kawasan Pembangunan Bersama oleh mana-mana orang
+
+<!-- marginal: tanpa kontrak. -->
+
+selain daripada Pihak Berkuasa Bersama melainkan jika ada berkenaan dengan mana-mana urusan itu suatu kontrak yang dibuat di antara Pihak Berkuasa Bersama dengan orang itu untuk mencarigali
+
+<!-- marginal: dan -->
+
+mengeksploitasikan sumber-sumber alam itu.
 
 (2) Sesuatu kontrak yang disebut di bawah subseksyen
 
@@ -414,9 +566,21 @@ Dengan syarat bahawa tidak boleh ada apa-apa perubahan mana-mana amaun ini berke
 
 ## PERATURAN-PERATURAN
 
-Kuasa Menteri
+<!-- marginal: Kuasa Menteri -->
 
-15. Menteri boleh, dengan kelulusan Kerajaan-Kerajaan, untuk membuat peraturan-peraturan berkenaan dengan yang membuat peraturan- berikut: peraturan.
+15. Menteri boleh, dengan kelulusan Kerajaan-Kerajaan,
+
+<!-- marginal: untuk -->
+
+membuat peraturan-peraturan berkenaan dengan yang
+
+<!-- marginal: membuat -->
+
+<!-- marginal: peraturan- -->
+
+berikut:
+
+<!-- marginal: peraturan. -->
 
 (a) pengelolaan atau penjalanan apa-apa pernia- gaan atau perkhidmatan yang berhubungan dengan carigali dan eksploitasi sumber-sumber alam dalam Kawasan Pembangunan Bersama;
 
@@ -456,13 +620,31 @@ IX
 
 ## MAHKAMAH-MAHKAMAH
 
-Pengkhidmat
+<!-- marginal: Pengkhidmat -->
 
-16. Mana-mana anggota Pihak Berkuasa Bersama atau awam. mana-mana pegawai, pengkhidmat atau ejen Pihak Berkuasa Bersama hendaklah disifatkan sebagai N.M.B. Bab 45. pengkhidmat awam mengikut pengertian Kanun Keseksaan.
+16. Mana-mana anggota Pihak Berkuasa Bersama atau
 
-Bidang kuasa
+<!-- marginal: awam. -->
 
-17. (1) Walau apa pun apa-apa jua yang terkandung dalam Mahkamah. mana-mana undang-undang bertulis lain yang berlawanan, Mahkamah Sesyen hendaklah mempunyai bidang kuasa untuk membicarakan apa-apa kesalahan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawahnya dan, apabila disabitkan, untuk mengenakan penalti penuh yang ditetapkan baginya.
+mana-mana pegawai, pengkhidmat atau ejen Pihak Berkuasa Bersama hendaklah disifatkan
+
+<!-- marginal: sebagai -->
+
+<!-- marginal: N.M.B. Bab 45. -->
+
+pengkhidmat awam mengikut pengertian Kanun Keseksaan.
+
+<!-- marginal: Bidang kuasa -->
+
+17. (1) Walau apa pun apa-apa jua yang terkandung dalam
+
+<!-- marginal: Mahkamah. -->
+
+mana-mana undang-undang bertulis lain
+
+<!-- marginal: yang -->
+
+berlawanan, Mahkamah Sesyen hendaklah mempunyai bidang kuasa untuk membicarakan apa-apa kesalahan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawahnya dan, apabila disabitkan, untuk mengenakan penalti penuh yang ditetapkan baginya.
 
 (2) Bagi maksud menjalankan bidang kuasa ke atas apa-apa kesalahan yang dilakukan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawah seksyen 15, subseksyen (2), dan perenggan (b) dan (d) subseksyen (6), seksyen 18 hendaklah terpakai.
 
@@ -470,25 +652,25 @@ Bidang kuasa
 
 ## BIDANG KUASA
 
-Bidang kuasa
+<!-- marginal: Bidang kuasa -->
 
-18. (1) Tertakluk kepada subseksyen (2) dan (3), ke atas Malaysia hendaklah terus mempunyai dan menjalankan Kawasan Pembangunan bidang kuasa ke atas Kawasan Pembangunan Bersama. Bersama.
+18. (1) Tertakluk kepada subseksyen (2) dan (3),
+
+<!-- marginal: ke atas -->
+
+Malaysia hendaklah terus mempunyai dan menjalankan
+
+<!-- marginal: Kawasan -->
+
+<!-- marginal: Pembangunan -->
+
+bidang kuasa ke atas Kawasan Pembangunan Bersama.
+
+<!-- marginal: Bersama. -->
 
 (2) Bidang kuasa sivil dan jenayah—
 
-(a) Malaysia dalam Kawasan Pembangunan Bersama hendaklah meliputi kawasan yang disempadani oleh garis-garis lurus yang menyambungkan titik-titik koordinat yang berikut:
-
-(A)U6°50'.0 T 102°21'.2
-
-(X) U 7 35'.0 T 103° 23'.0
-
-(D) U 7 22'.0 T 103° 42'.5
-
-(E) U 7° 20'.0 T 103° 39'.0
-
-(F) U 7° 03'.0 T 103° 06'.0
-
-(G) U 6° 53'.0 T 102° 34'.0; dan
+(a) Malaysia dalam Kawasan Pembangunan Bersama hendaklah meliputi kawasan yang disempadani oleh garis-garis lurus yang menyambungkan titik-titik koordinat yang berikut: (A)U6°50'.0 T 102°21'.2 (X) U 7 35'.0 T 103° 23'.0 (D) U 7 22'.0 T 103° 42'.5 (E) U 7° 20'.0 T 103° 39'.0 (F) U 7° 03'.0 T 103° 06'.0 (G) U 6° 53'.0 T 102° 34'.0; dan
 
 <!-- page 15 -->
 
@@ -526,9 +708,19 @@ pepasangan yang mencelapaki garis pembahagi bidang kuasa dan yang dibina bagi ma
 
 ## HAK-HAK DI PERAIRAN SUPERJASEN
 
-Hak, kebebasan
+<!-- marginal: Hak, kebebasan -->
 
-19. Tiada apa-apa jua dalam Akta ini boleh dengan apa- atau keistime- apa jua cara mengawalselia, atau menyentuh apa-apa waan di perairan superjasen. tuntutan berkenaan dengan, apa-apa hak, kebebasan dan keistimewaan, termasuk tetapi tidak terhad kepada hak, kebebasan dan keistimewaan yang berhubungan dengan perikanan, yang mungkin ada pada Malaysia atau Thailand ke atas perairan superjasen dalam Kawasan Pemba- ngunan Bersama menurut kuasa Perkara IV Memorandum Persefahaman, 1979.
+19. Tiada apa-apa jua dalam Akta ini boleh dengan apa-
+
+<!-- marginal: atau keistime- -->
+
+apa jua cara mengawalselia, atau menyentuh apa-apa
+
+<!-- marginal: waan di perairan -->
+
+<!-- marginal: superjasen. -->
+
+tuntutan berkenaan dengan, apa-apa hak, kebebasan dan keistimewaan, termasuk tetapi tidak terhad kepada hak, kebebasan dan keistimewaan yang berhubungan dengan perikanan, yang mungkin ada pada Malaysia atau Thailand ke atas perairan superjasen dalam Kawasan Pemba- ngunan Bersama menurut kuasa Perkara IV Memorandum Persefahaman, 1979.
 
 <!-- page 17 -->
 
@@ -536,9 +728,19 @@ Hak, kebebasan
 
 ## KESALAHAN-KESALAHAN DAN PENALTI-PENALTI
 
-Pelang-
+<!-- marginal: Pelang- -->
 
-20. Tertakluk kepada seksyen 22, mana-mana orang, garan sub- termasuk pengarah atau pegawai sesuatu pertubuhan seksyen (1} seksyen 14. perbadanan, yang bertindak dengan melanggar peruntukan subseksyen (1) seksyen 14 adalah melaku- kan suatu kesalahan dan, apabila disabitkan, boleh dipenjarakan selama tempoh tidak melebihi lima tahun atau didenda tidak melebihi lima puluh ribu ringgit atau kedua-duanya, dan, dalam hal suatu kesalahan yang berterusan, boleh dikenakan denda
+20. Tertakluk kepada seksyen 22, mana-mana orang,
+
+<!-- marginal: garan sub- -->
+
+termasuk pengarah atau pegawai sesuatu pertubuhan
+
+<!-- marginal: seksyen (1} -->
+
+<!-- marginal: seksyen 14. -->
+
+perbadanan, yang bertindak dengan melanggar peruntukan subseksyen (1) seksyen 14 adalah melaku- kan suatu kesalahan dan, apabila disabitkan, boleh dipenjarakan selama tempoh tidak melebihi lima tahun atau didenda tidak melebihi lima puluh ribu ringgit atau kedua-duanya, dan, dalam hal suatu kesalahan yang berterusan, boleh dikenakan denda
 
 <!-- marginal: tambahan -->
 
@@ -552,35 +754,143 @@ digunakan atau dimaksudkan untuk
 
 dalam melakukan kesalahan itu boleh dikenakan lucuthak.
 
-Kesalahan-
+<!-- marginal: Kesalahan- -->
 
-21. Tertakluk kepada seksyen 20 dan 22, mana-mana kesalahan orang, termasuk pengarah atau pegawai sesuatu lain pertubuhan perbadanan, yang bertindak dengan melanggar mana-mana peruntukan Akta ini atau per- aturan yang dibuat di bawah seksyen 15 adalah melaku- kan suatu kesalahan dan, apabila disabitkan, boleh dipenjarakan selama tempoh tidak melebihi dua tahun atau didenda tidak melebihi dua puluh ribu ringgit atau kedua-duanya, dan, dalam hal suatu kesalahan yang berterusan, boleh dikenakan denda tambahan tidak melebihi dua ratus ringgit bagi setiap hari atau sebaha- gian daripada sehari kesalahan itu berterusan selepas hari pertama yang berkenaan dengannya sabitan itu direkodkan.
+21. Tertakluk kepada seksyen 20 dan 22, mana-mana
 
-Kesalahan
+<!-- marginal: kesalahan -->
 
-22. Jika seseorang yang disabitkan berkenaan dengan oleh apa-apa kesalahan yang disebut di bawah seksyen 20 pertubuhan perbadanan. atau 21 ialah suatu pertubuhan perbadanan, ia hanya boleh dikenakan apa-apa denda yang diperuntukkan di dalam seksven 20 atau 21 itu.
+orang, termasuk pengarah atau pegawai sesuatu
+
+<!-- marginal: lain -->
+
+pertubuhan perbadanan, yang bertindak dengan melanggar mana-mana peruntukan Akta ini atau per- aturan yang dibuat di bawah seksyen 15 adalah melaku- kan suatu kesalahan dan, apabila disabitkan, boleh dipenjarakan selama tempoh tidak melebihi dua tahun atau didenda tidak melebihi dua puluh ribu ringgit atau kedua-duanya, dan, dalam hal suatu kesalahan yang berterusan, boleh dikenakan denda tambahan tidak melebihi dua ratus ringgit bagi setiap hari atau sebaha- gian daripada sehari kesalahan itu berterusan selepas hari pertama yang berkenaan dengannya sabitan itu direkodkan.
+
+<!-- marginal: Kesalahan -->
+
+22. Jika seseorang yang disabitkan berkenaan dengan
+
+<!-- marginal: oleh -->
+
+apa-apa kesalahan yang disebut di bawah seksyen 20
+
+<!-- marginal: pertubuhan -->
+
+<!-- marginal: perbadanan. -->
+
+atau 21 ialah suatu pertubuhan perbadanan, ia hanya boleh dikenakan apa-apa denda yang diperuntukkan di dalam seksven 20 atau 21 itu.
 
 <!-- page 18 -->
 
 ## MALAYSIA-THAILAND
 
-Pengarah
+<!-- marginal: Pengarah -->
 
-23. Jika seseorang yang dipertuduh atas suatu ke- dan salahan di bawah Akta ini atau mana-mana peraturan pegawai pertubuhan yang dibuat di bawah seksyen 15 ialah suatu per- perbadanan tubuhan perbadanan, tiap-tiap orang yang, pada masa boleh di- kesalahan itu dilakukan, ialah pengarah atau pertuduh bersesama pegawai pertubuhan perbadanan itu boleh dipertuduh dengan bersesama dalam prosiding yang sama dengan per- pertubuhan perbadanan. tubuhan perbadanan itu, dan jika pertubuhan per- badanan itu disabitkan atas kesalahan yang diper- tuduhkan, maka tiap-tiap pengarah atau pegawai itu hendaklah disifatkan bersalah atas kesalahan itu melainkan jika dia membuktikan bahawa kesalahan itu telah dilakukan tanpa pengetahuannya atau bahawa dia telah mengambil langkah berjaga-jaga yang munasabah untuk mencegah pelakuan kesalahan itu.
+23. Jika seseorang yang dipertuduh atas suatu ke-
 
-Penalti bagi
+<!-- marginal: dan -->
 
-24. Mana-mana orang yang akan boleh dikenakan kesalahan apa-apa penalti di bawah Akta ini atau mana-mana kerana apa-apa jua peraturan yang dibuat di bawah seksyen 15 kerana yang dilaku- apa-apa jua perkara yang dilakukan atau ditinggalkan kan atau ditinggalkan sekiranya perkara itu telah dilakukan atau ditinggalkan oleh ejen. olehnya sendiri, boleh dikenakan penalti yang sama jika perkara itu telah dilakukan atau ditinggalkan oleh ejennya, melainkan jika dia membuktikan bahawa dia telah mengambil langkah berjaga-jaga yang munasabah untuk mencegah pelakuan atau peninggalan perkara itu.
+salahan di bawah Akta ini atau mana-mana peraturan
+
+<!-- marginal: pegawai -->
+
+<!-- marginal: pertubuhan -->
+
+yang dibuat di bawah seksyen 15 ialah suatu per-
+
+<!-- marginal: perbadanan -->
+
+tubuhan perbadanan, tiap-tiap orang yang, pada masa
+
+<!-- marginal: boleh di- -->
+
+kesalahan itu dilakukan, ialah pengarah
+
+<!-- marginal: atau -->
+
+<!-- marginal: pertuduh -->
+
+<!-- marginal: bersesama -->
+
+pegawai pertubuhan perbadanan itu boleh dipertuduh
+
+<!-- marginal: dengan -->
+
+bersesama dalam prosiding yang sama dengan per-
+
+<!-- marginal: pertubuhan -->
+
+<!-- marginal: perbadanan. -->
+
+tubuhan perbadanan itu, dan jika pertubuhan per- badanan itu disabitkan atas kesalahan yang diper- tuduhkan, maka tiap-tiap pengarah atau pegawai itu hendaklah disifatkan bersalah atas kesalahan itu melainkan jika dia membuktikan bahawa kesalahan itu telah dilakukan tanpa pengetahuannya atau bahawa dia telah mengambil langkah berjaga-jaga yang munasabah untuk mencegah pelakuan kesalahan itu.
+
+<!-- marginal: Penalti bagi -->
+
+24. Mana-mana orang yang akan boleh dikenakan
+
+<!-- marginal: kesalahan -->
+
+apa-apa penalti di bawah Akta ini atau mana-mana
+
+<!-- marginal: kerana -->
+
+<!-- marginal: apa-apa jua -->
+
+peraturan yang dibuat di bawah seksyen 15 kerana
+
+<!-- marginal: yang dilaku- -->
+
+apa-apa jua perkara yang dilakukan atau ditinggalkan
+
+<!-- marginal: kan atau -->
+
+<!-- marginal: ditinggalkan -->
+
+sekiranya perkara itu telah dilakukan atau ditinggalkan
+
+<!-- marginal: oleh ejen. -->
+
+olehnya sendiri, boleh dikenakan penalti yang sama jika perkara itu telah dilakukan atau ditinggalkan oleh ejennya, melainkan jika dia membuktikan bahawa dia telah mengambil langkah berjaga-jaga yang munasabah untuk mencegah pelakuan atau peninggalan perkara itu.
 
 ## BAHAGIAN XIII
 
-AM Akta ini
+AM
 
-25. Jika mana-mana peruntukan Akta ini adalah mengatasi bercanggahan atau tak konsisten dengan mana-mana undang- undang peruntukan dalam mana-mana undang-undang lain, lain. peruntukan Akta ini hendaklah mengatasi peruntukan undang-undang lain itu.
+<!-- marginal: Akta ini -->
 
-Penguasaan
+25. Jika mana-mana peruntukan Akta ini adalah
 
-26. Menteri hendaklah mempunyai penguasaan dan dan pengawalan ke atas pelaksanaan Akta ini dan mana- pengawalan pelaksanaan mana peraturan yang dibuat di bawah seksyen 15, dan Akta ini hendaklah mempunyai kuasa untuk melantik pegawai- pegawai bagi pelaksanaannya.
+<!-- marginal: mengatasi -->
+
+bercanggahan atau tak konsisten dengan mana-mana
+
+<!-- marginal: undang- -->
+
+<!-- marginal: undang -->
+
+peruntukan dalam mana-mana undang-undang lain,
+
+<!-- marginal: lain. -->
+
+peruntukan Akta ini hendaklah mengatasi peruntukan undang-undang lain itu.
+
+<!-- marginal: Penguasaan -->
+
+26. Menteri hendaklah mempunyai penguasaan dan
+
+<!-- marginal: dan -->
+
+pengawalan ke atas pelaksanaan Akta ini dan mana-
+
+<!-- marginal: pengawalan -->
+
+<!-- marginal: pelaksanaan -->
+
+mana peraturan yang dibuat di bawah seksyen 15, dan
+
+<!-- marginal: Akta ini -->
+
+hendaklah mempunyai kuasa untuk melantik pegawai- pegawai bagi pelaksanaannya.
 
 <!-- page 19 -->
 

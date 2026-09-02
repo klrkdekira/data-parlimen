@@ -143,7 +143,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/eng@/~cl_3",
       "schema:text": {
         "@language": "en",
-        "@value": "in paragraphs (c) and (d) by inserting after the word \"thousand\" the words \"and ninety\". Amendment"
+        "@value": "in paragraphs (c) and (d) by inserting after the word \"thousand\" the words \"and ninety\"."
       }
     },
     {
@@ -155,9 +155,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/eng@/~cl_4__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/eng@",
-      "schema:text": {
+      "schema:name": {
         "@language": "en",
-        "@value": "Section 6 of the principal Act is amended— of section 6."
+        "@value": "Section 6 of the principal Act is amended—"
       }
     },
     {
@@ -177,7 +177,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/eng@/~cl_4",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsections (3) and (4) by inserting after the word \"hundred\" the words \"and ninety\". Payment of"
+        "@value": "in subsections (3) and (4) by inserting after the word \"hundred\" the words \"and ninety\"."
       }
     },
     {
@@ -185,9 +185,13 @@
       "@type": "akn:clause",
       "eli:number": "5",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Notwithstanding section 7 of the principal Act, all"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Notwithstanding section 7 of the principal Act, all salaries and salaries and allowances specified in the amendments to allowances notwith- the principal Act in sections 2, 3 and 4 and payable shall standing commence from 1 January 1995 or from the date of section 7. appointment or election, whichever is the later, of the Members of Parliament, the President or Deputy President of the Senate, the Speaker or Deputy Speaker of the House of Representatives, the Members of the Administration, the Leader or Deputy Leader of the House of Representatives or the Leader of the Opposition, as the case may be."
+        "@value": "salaries and allowances specified in the amendments to the principal Act in sections 2, 3 and 4 and payable shall commence from 1 January 1995 or from the date of appointment or election, whichever is the later, of the Members of Parliament, the President or Deputy President of the Senate, the Speaker or Deputy Speaker of the House of Representatives, the Members of the Administration, the Leader or Deputy Leader of the House of Representatives or the Leader of the Opposition, as the case may be."
       }
     }
   ]

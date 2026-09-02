@@ -8,33 +8,45 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PERKHIDMATAN PARLIMEN DAN MAJLIS PERKHIDMATAN PARLIMEN
 
-2. Perkhidmatan Parlimen 3. Majlis Perkhidmatan Parlimen 4. Fungsi dan kuasa Majlis Perkhidmatan Parlimen 5. Mesyuarat
+2. Perkhidmatan Parlimen
 
-## Bahagian III
+3. Majlis Perkhidmatan Parlimen
+
+4. Fungsi dan kuasa Majlis Perkhidmatan Parlimen
+
+5. Mesyuarat
+
+## BAHAGIAN III
 
 ## SETIAUSAHA DEWAN NEGARA DAN SETIAUSAHA DEWAN RAKYAT
 
 6. Setiausaha Dewan Negara dan Setiausaha Dewan Rakyat
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## JAWATANKUASA
 
-7. Jawatankuasa Kenaikan Pangkat Perkhidmatan Parlimen 8. Jawatankuasa Tatatertib Perkhidmatan Parlimen 9. Jawatankuasa Rayuan Perkhidmatan Parlimen 10. Majlis Perkhidmatan Parlimen boleh menubuhkan jawatankuasa
+7. Jawatankuasa Kenaikan Pangkat Perkhidmatan Parlimen
+
+8. Jawatankuasa Tatatertib Perkhidmatan Parlimen
+
+9. Jawatankuasa Rayuan Perkhidmatan Parlimen
+
+10. Majlis Perkhidmatan Parlimen boleh menubuhkan jawatankuasa
 
 <!-- page 3 -->
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PENTADBIRAN DAN KEWANGAN
 
@@ -44,7 +56,7 @@
 
 13. Saraan
 
-## Bahagian VI
+## BAHAGIAN VI
 
 AM
 
@@ -68,7 +80,7 @@ Suatu Akta untuk mengadakan peruntukan bagi penubuhan Perkhidmatan Parlimen dan 
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -78,7 +90,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (2) Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Yang di-Pertuan Agong melalui pemberitahuan dalam Warta.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PERKHIDMATAN PARLIMEN DAN
 
@@ -168,7 +180,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 8 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## SETIAUSAHA DEWAN NEGARA DAN
 
@@ -182,7 +194,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (3) Yang di-Pertuan Agong boleh, selepas berunding dengan Majlis Perkhidmatan Parlimen, menetapkan kelayakan bagi pelantikan dan syarat perkhidmatan Setiausaha Dewan Negara dan Setiausaha Dewan Rakyat.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## JAWATANKUASA
 
@@ -292,7 +304,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 13 -->
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PENTADBIRAN DAN KEWANGAN
 
@@ -320,7 +332,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 14 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 AM
 
@@ -378,7 +390,7 @@ AM
 
 Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan peruntukan bagi penubuhan Perkhidmatan Parlimen dan Majlis Perkhidmatan Parlimen, pentadbiran Perkhidmatan Parlimen dan perkara lain yang berkaitan dengannya.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan memperkatakan perkara permulaan.
 
@@ -386,7 +398,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 <!-- page 17 -->
 
-## Bahagian II
+## BAHAGIAN II
 
 4. Bahagian II Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan Perkhidmatan Parlimen dan Majlis Perkhidmatan Parlimen.
 
@@ -398,13 +410,13 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 8. Fasal 5 bertujuan untuk mengadakan peruntukan bagi perkara yang berhubungan dengan mesyuarat Majlis Perkhidmatan Parlimen.
 
-## Bahagian III
+## BAHAGIAN III
 
 9. Bahagian III Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan Setiausaha Dewan Negara dan Setiausaha Dewan Rakyat.
 
 10. Fasal 6 bertujuan untuk memperuntukkan bahawa Setiausaha Dewan Negara dan Setiausaha Dewan Rakyat hendaklah berada di bawah arahan dan kawalan Yang di-Pertua Dewan Negara dan Yang di-Pertua Dewan Rakyat. Fasal ini juga bertujuan untuk mengadakan peruntukan bagi Yang di-Pertuan Agong untuk menetapkan kelayakan untuk pelantikan dan syarat perkhidmatan Setiausaha Dewan Negara dan Setiausaha Dewan Rakyat selepas berunding dengan Majlis Perkhidmatan Parlimen.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 11. Bahagian IV Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan penubuhan jawatankuasa di bawah Perkhidmatan Parlimen.
 
@@ -418,7 +430,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 15. Fasal 10 bertujuan untuk memperuntukkan bahawa Majlis Perkhidmatan Parlimen boleh menubuhkan apa-apa jawatankuasa sebagaimana yang Majlis Perkhidmatan Parlimen fikirkan perlu atau suai manfaat untuk membantu Majlis Perkhidmatan Parlimen dalam melaksanakan fungsinya.
 
-## Bahagian V
+## BAHAGIAN V
 
 16. Bahagian V Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan pentadbiran dan kewangan Perkhidmatan Parlimen.
 
@@ -428,7 +440,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 19. Fasal 13 bertujuan untuk mengadakan peruntukan bagi saraan dan faedah lain kepada anggota Perkhidmatan Parlimen.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 20. Bahagian VI Akta yang dicadangkan memperkatakan peruntukan am.
 

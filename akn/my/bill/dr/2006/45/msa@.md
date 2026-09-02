@@ -226,11 +226,7 @@ Disciplinary Committee or in the absence of the President or the Chairman, the m
 
 (c) dalam subseksyen (3), dengan memasukkan selepas perkataan "the Board" perkataan "or Disciplinary Committee,"; dan
 
-(d) dalam subseksyen (4), dengan memasukkan selepas perkataan "the Board" perkataan
-
-<!-- marginal: "or Disciplinary -->
-
-Committee".
+(d) dalam subseksyen (4), dengan memasukkan selepas perkataan "the Board" perkataan "or Disciplinary Committee".
 
 ### Pindaan seksyen 24
 
@@ -254,11 +250,7 @@ Committee".
 
 (b) dengan memasukkan selepas subseksyen (2) subseksyen yang berikut:
 
-"(2A) Where the Investigating Committee has conducted an investigation against a registered Engineer, the member of the Investigating Committee shall not sit as member of the Disciplinary Committee appointed in pursuance of section 14A to conduct a hearing of any misconduct or complaint or to make an order under subsection 15(1A) in respect of the registered Engineer who has been investigated by the
-
-<!-- marginal: Investigating -->
-
-Committee of which he is a member."; dan
+"(2A) Where the Investigating Committee has conducted an investigation against a registered Engineer, the member of the Investigating Committee shall not sit as member of the Disciplinary Committee appointed in pursuance of section 14A to conduct a hearing of any misconduct or complaint or to make an order under subsection 15(1A) in respect of the registered Engineer who has been investigated by the Investigating Committee of which he is a member."; dan
 
 (c) dalam subseksyen (4), dengan memasukkan selepas perkataan "Board" perkataan "or Disciplinary Committee".
 
@@ -290,7 +282,7 @@ Committee of which he is a member."; dan
 
 ## Jadual Pertama
 
-<!-- marginal: dipinda -->
+dipinda
 
 <!-- marginal: dengan -->
 

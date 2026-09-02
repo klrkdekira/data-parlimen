@@ -566,4 +566,4 @@ The insertion of paragraphs 51(1)(w) and (x) seeks to empower the Minister to ma
 
 This bill will not involve the Government in any extra financial expenditure.
 
-[PN(U2)2624]
+<!-- marginal: [PN(U2)2624] -->

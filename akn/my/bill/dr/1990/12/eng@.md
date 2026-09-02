@@ -44,9 +44,31 @@ Measures) Act 1985, which is referred to in this Act as the
 
 (2) Subsection (2) of section 6A of the principal Act, which has been inserted by subsection (1), shall be deemed to have been an integral part of that section as from the date of commencement of that section.
 
-4. Section 1 IB of the principal Act is amended, in subsection Amendment of section 11B. (2), by substituting for the words "order or to give a fresh direction as is mentioned under subsection (1)" the words "detention order under subsection (1) of section 6 or a fresh restriction order under subsection (3) of section 6 or a fresh direction under subsection (1) of section 11A".
+4. Section 1 IB of the principal Act is amended, in subsection
 
-Validation of 5. (1) Where a detention order was made under subsection detention (1) of section 6 of the principal Act against any person during orders and the period between the commencement of the principal Act detentions, and indemnity. and the commencement of this Act (hereinafter referred to as the "transitional period"), the detention order and the deten- tion effected in pursuance thereof during the transitional period, and its continuation thereafter, if any, are hereby declared lawful and valid, and shall be deemed to be, and to have always and at all times been, lawful and valid, notwith- standing that—
+<!-- marginal: Amendment of -->
+
+<!-- marginal: section 11B. -->
+
+(2), by substituting for the words "order or to give a fresh direction as is mentioned under subsection (1)" the words "detention order under subsection (1) of section 6 or a fresh restriction order under subsection (3) of section 6 or a fresh direction under subsection (1) of section 11A".
+
+<!-- marginal: Validation of -->
+
+5. (1) Where a detention order was made under subsection
+
+<!-- marginal: detention -->
+
+(1) of section 6 of the principal Act against any person during
+
+<!-- marginal: orders and -->
+
+the period between the commencement of the principal Act
+
+<!-- marginal: detentions, -->
+
+<!-- marginal: and indemnity. -->
+
+and the commencement of this Act (hereinafter referred to as the "transitional period"), the detention order and the deten- tion effected in pursuance thereof during the transitional period, and its continuation thereafter, if any, are hereby declared lawful and valid, and shall be deemed to be, and to have always and at all times been, lawful and valid, notwith- standing that—
 
 (a) the period for which it was directed by that order that such person be detained commenced from a date other than the date on which the detention order was made; or
 
@@ -80,6 +102,4 @@ Clause 5 (2) seeks to prohibit any action, suit, prosecution or any other procee
 
 ## IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure.
-
-<!-- marginal: [PN. (U2) 1604.] -->
+This Bill will not involve the Government in any extra financial expenditure. [PN. (U2) 1604.]

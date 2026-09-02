@@ -22,7 +22,11 @@ II
 
 ## LEMBAGA TABUNG HAJI
 
-3. Penubuhan Lembaga Tabung Haji. 4. Fungsi Lembaga. 5. Meterai biasa Lembaga. 6. Keanggotaan Lembaga. 7. Saraan. 8. Mesyuarat Lembaga. 9. Pendedahan kepentingan dalam transaksi dengan Lembaga. 10. Kuasa Menteri untuk memberikan arahan dan menghendaki maklumat. 11. Jawatankuasa.
+3. Penubuhan Lembaga Tabung Haji. 4. Fungsi Lembaga. 5. Meterai biasa Lembaga. 6. Keanggotaan Lembaga. 7. Saraan. 8. Mesyuarat Lembaga. 9. Pendedahan kepentingan dalam transaksi dengan Lembaga.
+
+10. Kuasa Menteri untuk memberikan arahan dan menghendaki maklumat.
+
+11. Jawatankuasa.
 
 ## BAHAGIAN
 
@@ -30,7 +34,9 @@ III
 
 ## PEGAWAI, PENGKHIDMAT DAN EJEN LEMBAGA
 
-12. Ketua Eksekutif. 13. PerJamikan pegawai, pengkhidmat, ejen, penasihat, dsb.
+12. Ketua Eksekutif.
+
+13. PerJamikan pegawai, pengkhidmat, ejen, penasihat, dsb.
 
 <!-- page 2 -->
 
@@ -42,19 +48,49 @@ IV
 
 ## KEWANGAN
 
-15. Kumpulan Wang. 16. Deposit. 17. Pembiayaan atau bantuan kewangan. 18. Kuasa untuk meminjam. 19. Peraturan-peraturan berhubungan dengan deposit dan pengeluaran. 20. Pelaburan Kumpulan Wang. 21. Kumpulan Wang Rizab. 22. Pengisytiharan untung boleh bahagi. 23. Wang tak dituntut. 24. Jaminan Kerajaan tentang bayaran. 25. Anggaran tahunan. 26. Akta Badan Berkanun (Akaun dan Laporan Tahunan) 1980.
+15. Kumpulan Wang. 16. Deposit. 17. Pembiayaan atau bantuan kewangan. 18. Kuasa untuk meminjam. 19. Peraturan-peraturan berhubungan dengan deposit dan pengeluaran.
+
+20. Pelaburan Kumpulan Wang.
+
+21. Kumpulan Wang Rizab.
+
+22. Pengisytiharan untung boleh bahagi.
+
+23. Wang tak dituntut.
+
+24. Jaminan Kerajaan tentang bayaran.
+
+25. Anggaran tahunan.
+
+26. Akta Badan Berkanun (Akaun dan Laporan Tahunan) 1980.
 
 ## BAHAGIAN V
 
 ## PENGELOLA JEMAAH HAJI
 
-27. Sekatan ke atas pcngclola jemaah haji. 28. Permohonan lesen dan pengeluaran lesen. 29. Deposit cagaran. 30. Penalti kerana melanggar terma dan syarat lesen. 31. Obligasi pengelola jemaah haji jika jemaah haji tertahan di Tanah Suci atau di tempat lain. 32. Pengeluaran tikel kepada jemaah haji. 33. Kebenaran untuk mengeluarkan tiket perjalanan sehala.
+27. Sekatan ke atas pcngclola jemaah haji.
+
+28. Permohonan lesen dan pengeluaran lesen.
+
+29. Deposit cagaran.
+
+30. Penalti kerana melanggar terma dan syarat lesen.
+
+31. Obligasi pengelola jemaah haji jika jemaah haji tertahan di Tanah Suci atau di tempat lain.
+
+32. Pengeluaran tikel kepada jemaah haji.
+
+33. Kebenaran untuk mengeluarkan tiket perjalanan sehala.
 
 ## BAHAGIAN VI
 
 ## JEMAAH HAJI
 
-34. Syarat bagi perjalanan ke Tanah Suci. 35. Lembaga hendaklah mengeluarkan Pasport Haji. 36. Harga hendaklah ditandakan pada tiket.
+34. Syarat bagi perjalanan ke Tanah Suci.
+
+35. Lembaga hendaklah mengeluarkan Pasport Haji.
+
+36. Harga hendaklah ditandakan pada tiket.
 
 <!-- page 3 -->
 
@@ -62,13 +98,35 @@ IV
 
 ## PELBAGAI
 
-37. Keterangan di bawah Akta ini. 38. Peruntukan lentang bidang kuasa. 39. Penalti am dan cubaan, dsb., untuk melakukan kesalahan. 40. Liabiliti pengurus, dsb. 41. Kuasa untuk mengkompaun kesalahan. 42. Obligasi unluk menyimpan rahsia. 43. Perlindungan bagi anggota, pegawai, pengkhidmat dan ejen. 44. Pengkhidmat awam. 45. Kuasa untuk membuat peraturan-peraturan. 46. Kuasa untuk meminda Jadual.
+37. Keterangan di bawah Akta ini.
+
+38. Peruntukan lentang bidang kuasa.
+
+39. Penalti am dan cubaan, dsb., untuk melakukan kesalahan.
+
+40. Liabiliti pengurus, dsb.
+
+41. Kuasa untuk mengkompaun kesalahan.
+
+42. Obligasi unluk menyimpan rahsia.
+
+43. Perlindungan bagi anggota, pegawai, pengkhidmat dan ejen.
+
+44. Pengkhidmat awam.
+
+45. Kuasa untuk membuat peraturan-peraturan.
+
+46. Kuasa untuk meminda Jadual.
 
 ## BAHAGIAN VIII
 
 ## PEMANSUHAN DAN PERALIHAN
 
-47. Pemansuhan Akta Lembaga Urusan dan Tabung Haji 1969. 48. Keberterusan anggota. 49. Keberterusan undang-undang, dsb. 50. Perpindahan kuasa, hak, liabiliti dan kewajipan. 51. Perpindahan tanah dan harla. 52. Kontrak sedia ada. 53. Keberterusan prosiding sivil dan jenayah. 54. Perpindahan Kumpulan Wang. 55. Perpindahan pendeposit dalam Kumpulan Wang. 56. Pengesahan perbuatan. 57. Keberterusan Pengarah Besar, pegawai dan pengkhidmat. 58. Prosiding latatertib yang belum selesai. 59. Penggunaan melerai.
+47. Pemansuhan Akta Lembaga Urusan dan Tabung Haji 1969.
+
+48. Keberterusan anggota.
+
+49. Keberterusan undang-undang, dsb. 50. Perpindahan kuasa, hak, liabiliti dan kewajipan. 51. Perpindahan tanah dan harla. 52. Kontrak sedia ada. 53. Keberterusan prosiding sivil dan jenayah. 54. Perpindahan Kumpulan Wang. 55. Perpindahan pendeposit dalam Kumpulan Wang. 56. Pengesahan perbuatan. 57. Keberterusan Pengarah Besar, pegawai dan pengkhidmat. 58. Prosiding latatertib yang belum selesai. 59. Penggunaan melerai.
 
 ## JADUAL.
 
@@ -160,7 +218,13 @@ II
 
 (3) Tertakluk kepada dan bagi maksud Akta ini, Lembaga boleh membuat kontrak dan boleh memperoleh, membeli, mengambil, memegang dan menikmati apa-apa jenis harta alih dan tak alih dan boleh memindahhakkan, menyerahhakkan, menyerahkan balik, memulangkan, menggadaikan, menggadaijanjikan, mendemis, menyerahhakkan semula, memindahkan, atau selainnya melupuskan, atau memperlakukan, apa-apa harta alih atau tak alih atau apa-apa kepentingan mengenainya yang terletakhak pada Lembaga mengikut apa-apa terma yang difikirkannya patut.
 
-Fungsi 4. (1) Lembaga hendaklah mempunyai fungsi-fungsi Lembaga. yang berikut:
+<!-- marginal: Fungsi -->
+
+4. (1) Lembaga hendaklah mempunyai fungsi-fungsi
+
+<!-- marginal: Lembaga. -->
+
+yang berikut:
 
 (a) mentadbirkan Kumpulan Wang;
 
@@ -202,7 +266,13 @@ dimeteraikan boleh dengan cara yang sama disempurnakan oleh Lembaga, dan apa-apa
 
 (5) Meterai biasa Lembaga hendaklah diiktiraf secara rasmi dan kehakiman.
 
-Keanggotaan 6. (1) Lembaga hendaklah terdiri daripada anggota yang Lembaga. berikut:
+<!-- marginal: Keanggotaan -->
+
+6. (1) Lembaga hendaklah terdiri daripada anggota yang
+
+<!-- marginal: Lembaga. -->
+
+berikut:
 
 (a) seorang Pengerusi, yang hendaklah dilantik oleh Menteri;
 
@@ -262,7 +332,23 @@ memberikan apa-apa sebab baginya.
 
 <!-- page 12 -->
 
-Pendedahan 9. (1) Mana-mana anggota Lembaga yang mempunyai kepentingan atau memperoleh, secara langsung atau tak langsung, dalan transaksi sendiri atau melalui pekongsinya atau ejennya— dengan Lembaga.
+<!-- marginal: Pendedahan -->
+
+9. (1) Mana-mana anggota Lembaga yang mempunyai
+
+<!-- marginal: kepentingan -->
+
+atau memperoleh, secara langsung atau tak langsung,
+
+<!-- marginal: dalan -->
+
+<!-- marginal: transaksi -->
+
+sendiri atau melalui pekongsinya atau ejennya—
+
+<!-- marginal: dengan -->
+
+<!-- marginal: Lembaga. -->
 
 (a) apa-apa syer atau kepentingan—
 
@@ -300,11 +386,35 @@ hendaklah mengisytiharkan jenis dan takat syer atau kepentingannya kepada Lembag
 
 (b) dia tidak boleh dikira dalam kuorum yang hadir pada mesyuarat bagi maksud ketetapan atau soal itu.
 
-Kuasa 10. (1) Menteri boleh memberi Lembaga apa-apa arahan Menteri yang bersifat am yang tidak tak konsisten dengan Akta untuk mem- berikan ini berhubungan dengan pelaksanaan fungsi-fungsi arahan dan Lembaga dan Lembaga hendaklah memberikan kuatkuasa menghendaki maklumat. kepada segala arahan sedemikian.
+<!-- marginal: Kuasa -->
+
+10. (1) Menteri boleh memberi Lembaga apa-apa arahan
+
+<!-- marginal: Menteri -->
+
+yang bersifat am yang tidak tak konsisten dengan Akta
+
+<!-- marginal: untuk mem- -->
+
+<!-- marginal: berikan -->
+
+ini berhubungan dengan pelaksanaan fungsi-fungsi
+
+<!-- marginal: arahan dan -->
+
+Lembaga dan Lembaga hendaklah memberikan kuatkuasa
+
+<!-- marginal: menghendaki -->
+
+<!-- marginal: maklumat. -->
+
+kepada segala arahan sedemikian.
 
 (2) Lembaga hendaklah memberi Menteri apa-apa penyata, akaun dan maklumat lain berkenaan dengan harta dan aktiviti-aktiviti Lembaga sebagaimana yang dikehendakinya dari semasa ke semasa.
 
-Jawatankuasa. . 11. (1) Bagi maksud-maksud melaksanakan fungsi- fungsinya, Lembaga boleh menubuhkan, jika difikirkannya perlu, jawatankuasa-jawatankuasa, yang setiap satunya terdiri daripada apa-apa bilangan anggota dan dengan bidang tugas yang ditentukannya.
+<!-- marginal: Jawatankuasa. -->
+
+. 11. (1) Bagi maksud-maksud melaksanakan fungsi- fungsinya, Lembaga boleh menubuhkan, jika difikirkannya perlu, jawatankuasa-jawatankuasa, yang setiap satunya terdiri daripada apa-apa bilangan anggota dan dengan bidang tugas yang ditentukannya.
 
 (2) Orang-orang yang tak layak untuk dilantik menjadi anggota atau untuk menjadi anggota Lembaga di bawah subseksyen 6(3) adalah juga tidak layak untuk dilamik menjadi anggota atau untuk menjadi anggota sesuatu jawatankuasa.
 
@@ -350,7 +460,23 @@ III
 
 (3) Walau apa pun seksyen 7, Ketua Eksekutif boleh dibayar apa-apa gaji atau elaun yang ditentukan oleh Lembaga dengan persetujuan Menteri.
 
-Perlantikan 13. (1) Tertakluk kepada apa-apa peraturan yang dibuat pegawai, di bawah seksyen 14 dan 15, Lembaga boleh dari semasa pengkhidmat, ejen, ke semasa— penasihat, dsb.
+<!-- marginal: Perlantikan -->
+
+13. (1) Tertakluk kepada apa-apa peraturan yang dibuat
+
+<!-- marginal: pegawai, -->
+
+di bawah seksyen 14 dan 15, Lembaga boleh dari semasa
+
+<!-- marginal: pengkhidmat, -->
+
+<!-- marginal: ejen, -->
+
+ke semasa—
+
+<!-- marginal: penasihat, -->
+
+<!-- marginal: dsb. -->
 
 (a) melantik dan mengambil kerja atas apa-apa terma dan syarat yang difikirkan patut oleh Lembaga mana-mana orang untuk menjadi pengarah urusan, pengarah eksekutif, pengurus besar dan mana- mana lain pegawai dan pengkhidmat yang perlu untuk menjalankan maksud-maksud Akta ini; dan
 
@@ -360,7 +486,35 @@ Perlantikan 13. (1) Tertakluk kepada apa-apa peraturan yang dibuat pegawai, di b
 
 (3) Lembaga boleh melalui suratcara di bawah meterainya melantik mana-mana orang sama ada di Malaysia atau mana-mana tempat di luar Malaysia untuk menjadi wakilnya dan orang yang dilantik sedemikian boleh, tertakluk kepada terma-terma suratcara itu, melakukan apa-apa perbuatan atau melaksanakan apa- apa kuasa atau fungsi yang dia diberikuasa oleh suratcara itu untuk melakukannya atau melaksanakannya.
 
-Kuasa untuk 14. (1) Lembaga boleh, dari semasa ke semasa, dengan membuat kelulusan Menteri, membuatperaturan-peraturan berkenaan peraturan- peraturan dengan syarat-syarat perkhidmatan pegawai-pegawai dan berkenaan pengkhidmat-pengkhidmatnya dan berkenaan dengan dengan syarat-syarat tatatertib pegawai-pegawai dan pengkhidmat-peng- perkhidmatan khidmatnya. dan tatatertib.
+<!-- marginal: Kuasa untuk -->
+
+14. (1) Lembaga boleh, dari semasa ke semasa, dengan
+
+<!-- marginal: membuat -->
+
+kelulusan Menteri, membuatperaturan-peraturan berkenaan
+
+<!-- marginal: peraturan- -->
+
+<!-- marginal: peraturan -->
+
+dengan syarat-syarat perkhidmatan pegawai-pegawai dan
+
+<!-- marginal: berkenaan -->
+
+pengkhidmat-pengkhidmatnya dan berkenaan dengan
+
+<!-- marginal: dengan -->
+
+<!-- marginal: syarat-syarat -->
+
+tatatertib pegawai-pegawai dan pengkhidmat-peng-
+
+<!-- marginal: perkhidmatan -->
+
+khidmatnya.
+
+<!-- marginal: dan tatatertib. -->
 
 <!-- page 17 -->
 
@@ -410,11 +564,7 @@ maksud Akta ini, suatu kumpulan wang yang hendaklah ditadbirkan dan dikawal oleh
 
 (3) Kumpulan Wang boleh digunakan bagi semua atau mana-mana maksud yang berikut:
 
-(a) pengeluaran deposit dengan atau
-
-<!-- marginal: tanpa -->
-
-keuntungan boleh bahagi sebagaimana yang ditentukan oleh Lembaga atas deposit itu mengikut Akta ini;
+(a) pengeluaran deposit dengan atau tanpa keuntungan boleh bahagi sebagaimana yang ditentukan oleh Lembaga atas deposit itu mengikut Akta ini;
 
 (b) pembayaran balik pinjaman dan apa-apa belanja pasti dan perbelanjaan lain yang dibenarkan oleh Akta ini atau mana-mana peraturan yang dibuat di bawah Akta ini;
 
@@ -486,15 +636,29 @@ peraturan-peraturan dan tentang—
 
 (d) keterangan yang hendaklah dikemukakan apabila dibuat apa-apa permohonan bagi pengeluaran.
 
-Pelaburan 20. (1) Aset Kumpulan Wang hendaklah, setakat yang Kumpulan tidak dikehendaki dibelanjakan oleh Lembaga di bawah Wang. Akta ini, dilaburkan keseluruhannya atau sebahagiannya di dalam Malaysia atau di luar Malaysia dan mengikut cara yang difikirkan patut oleh Lembaga.
+<!-- marginal: Pelaburan -->
+
+20. (1) Aset Kumpulan Wang hendaklah, setakat yang
+
+<!-- marginal: Kumpulan -->
+
+tidak dikehendaki dibelanjakan oleh Lembaga di bawah
+
+<!-- marginal: Wang. -->
+
+Akta ini, dilaburkan keseluruhannya atau sebahagiannya di dalam Malaysia atau di luar Malaysia dan mengikut cara yang difikirkan patut oleh Lembaga.
 
 (2) Lembaga tidak boleh menjalankan kuasa-kuasa pelaburan di bawah subseksyen (1) tanpa kelulusan Menteri.
 
-Kumpulan 21. (1) Lembaga hendaktah menubuhkan
+<!-- marginal: Kumpulan -->
+
+21. (1) Lembaga hendaktah menubuhkan
 
 <!-- marginal: dan -->
 
-Wang Rizab. menguruskan suatu Kumpulan Wang Rizab dalam Kumpulan Wang.
+<!-- marginal: Wang Rizab. -->
+
+menguruskan suatu Kumpulan Wang Rizab dalam Kumpulan Wang.
 
 (2) Lembaga boleh dari semasa ke semasa memindahkan aset daripada Kumpulan Wang Rizab kepada Kumpulan Wang atau daripada Kumpulan Wang kepada Kumpulan Wang Rizab.
 
@@ -502,7 +666,17 @@ Wang Rizab. menguruskan suatu Kumpulan Wang Rizab dalam Kumpulan Wang.
 
 (4) Seksyen 20 hendaklah terpakai bagi aset Kumpulan Wang Rizab sebagaimana ia terpakai bagi aset Kumpulan Wang.
 
-Pengisytiharan 22. (1) Tertakluk kepada seksyen ini, Lembaga boleh untung boleh mengikut budi bicara mutlaknya menentukan pada bila- bahagi. bila masa sama ada wajar untuk mengisytiharkan suatu jumlah wang sebagai untung boleh bahagi berkenaan dengan apa-apa tempoh atau tahun tertentu Kumpulan Wang dan jika ia menentukan untuk mengisytiharkan sedemikian, Lembaga hendaklah, dengan kelulusan Menteri,
+<!-- marginal: Pengisytiharan -->
+
+22. (1) Tertakluk kepada seksyen ini, Lembaga boleh
+
+<!-- marginal: untung boleh -->
+
+mengikut budi bicara mutlaknya menentukan pada bila-
+
+<!-- marginal: bahagi. -->
+
+bila masa sama ada wajar untuk mengisytiharkan suatu jumlah wang sebagai untung boleh bahagi berkenaan dengan apa-apa tempoh atau tahun tertentu Kumpulan Wang dan jika ia menentukan untuk mengisytiharkan sedemikian, Lembaga hendaklah, dengan kelulusan Menteri,
 
 <!-- page 21 -->
 
@@ -540,17 +714,51 @@ suatu syarikat yang baginya Bahagian II Akta itu terpakai, segala wang tak ditun
 
 (3) Bagi maksud-maksud seksyen ini, "pendeposit", berkenaan dengan mana-mana individu, termasuklah waris, wasi, wakil diri, pentadbir, pemegang serahhak, wakil sah dan ejen individu itu.
 
-Jaminan 24. (1) Jika apa-apa perbelanjaan Lembaga berhubungan Kerajaan dengan pengeluaran oleh pendeposit tidak dapat ditampung tentang bayaran. daripada Kumpulan Wang atau Kumpulan Wang Rizab perbelanjaan itu hendaklah dipertanggungkan pada dan kena dibayar daripada Kumpulan Wang Disatukan.
+<!-- marginal: Jaminan -->
+
+24. (1) Jika apa-apa perbelanjaan Lembaga berhubungan
+
+<!-- marginal: Kerajaan -->
+
+dengan pengeluaran oleh pendeposit tidak dapat ditampung
+
+<!-- marginal: tentang -->
+
+<!-- marginal: bayaran. -->
+
+daripada Kumpulan Wang atau Kumpulan Wang Rizab perbelanjaan itu hendaklah dipertanggungkan pada dan kena dibayar daripada Kumpulan Wang Disatukan.
 
 (2) Apa-apa pembayaran daripada Kumpulan Wang Disatukan hendaklah dengan seberapa segera yang praktik dibayar balik oleh Lembaga kepada Kumpulan Wang Disatukan dan sehingga wang itu dibayar balik wang itu hendaklah menjadi hutang kepada Kerajaan dan tanggungan pertama atas aset Kumpulan Wang dan Kumpulan Wang Rizab.
 
-Anggaran 25. (1) Ketua Eksekutif hendaklah, tidak lewat daripada tahunan. satu bulan sebelum bermulanya setiap tahun kewangan, membentangkan di hadapan Lembaga suatu anggaran perbelanjaan Lembaga (termasuk perbelanjaan modal) bagi tahun yang berikutnya dengan butir-butir dan dalam bentuk yang ditentukan oleh Lembaga.
+<!-- marginal: Anggaran -->
+
+25. (1) Ketua Eksekutif hendaklah, tidak lewat daripada
+
+<!-- marginal: tahunan. -->
+
+satu bulan sebelum bermulanya setiap tahun kewangan, membentangkan di hadapan Lembaga suatu anggaran perbelanjaan Lembaga (termasuk perbelanjaan modal) bagi tahun yang berikutnya dengan butir-butir dan dalam bentuk yang ditentukan oleh Lembaga.
 
 (2) Satu salinan anggaran yang disebut dalam subseksyen (1) hendaklah dihantar kepada setiap anggota Lembaga tidak kurang daripada empat belas hari sebelum mesyuarat yang di hadapannya anggaran itu akan dibentangkan.
 
-Akla Badan 26. Peruntukan-peruntukan Akta Badan Berkanun (Akaun Berkanun dan Laporan Tahunan) 1980 hendaklah terpakai bagi (Akaun dan Laporan Lembaga. Tahunan)
+<!-- marginal: Akla Badan -->
 
-1980. Akta 240.
+26. Peruntukan-peruntukan Akta Badan Berkanun (Akaun
+
+<!-- marginal: Berkanun -->
+
+dan Laporan Tahunan) 1980 hendaklah terpakai bagi
+
+<!-- marginal: (Akaun dan -->
+
+<!-- marginal: Laporan -->
+
+Lembaga.
+
+<!-- marginal: Tahunan) -->
+
+1980.
+
+<!-- marginal: Akta 240. -->
 
 <!-- page 23 -->
 
@@ -596,9 +804,19 @@ melainkan jika dia memegang lesen pengelola jemaah haji yang sah yang dikeluarka
 
 tidak kurang daripada lima ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
-Permohonan
+<!-- marginal: Permohonan -->
 
-28. (1) Sesuatu permohonan bagi mendapatkan lesen lesen dan pengelola jemaah haji hendaklah dibuat kepada Lembaga pengeluaran lesen. secara bertulis mengikut cara yang ditetapkan.
+28. (1) Sesuatu permohonan bagi mendapatkan lesen
+
+<!-- marginal: lesen dan -->
+
+pengelola jemaah haji hendaklah dibuat kepada Lembaga
+
+<!-- marginal: pengeluaran -->
+
+<!-- marginal: lesen. -->
+
+secara bertulis mengikut cara yang ditetapkan.
 
 (2) Lembaga boleh menghendaki seseorang pemohon bagi mendapatkan lesen pengelola jemaah haji supaya memberikan apa-apa maklumat atau dokumen tambahan sebagaimana yang difikirkannya perlu bagi maksud menentukan permohonan itu.
 
@@ -606,9 +824,13 @@ Permohonan
 
 (4) Tiap-tiap lesen pengelola jemaah haji hendaklah, melainkan jika dibatalkan atau digantung terlebih dahulu, terus berkuatkuasa selama tempoh yang dinyatakan dalam lesen itu.
 
-Deposit
+<!-- marginal: Deposit -->
 
-29. (1) Tiap-tiap pemohon yang diberi lesen pengelola cagaran. jemaah haji hendaklah mendepositkan dengan Lembaga dengan seberapa segera yang boleh selepas pengeluaran lesen itu, dan walau apa pun jua tidak lewat daripada apa-apa tempoh yang ditentukan oleh Lembaga, dan hendaklah kemudiannya menyenggara dengan Lembaga suatu deposit cagaran dalam bentuk—
+29. (1) Tiap-tiap pemohon yang diberi lesen pengelola
+
+<!-- marginal: cagaran. -->
+
+jemaah haji hendaklah mendepositkan dengan Lembaga dengan seberapa segera yang boleh selepas pengeluaran lesen itu, dan walau apa pun jua tidak lewat daripada apa-apa tempoh yang ditentukan oleh Lembaga, dan hendaklah kemudiannya menyenggara dengan Lembaga suatu deposit cagaran dalam bentuk—
 
 (a) gerenti bank dalam apa-apa bentuk dan bagi apa-apa amaun yang diluluskan oleh Lembaga; dan
 
@@ -656,9 +878,33 @@ melakukan suatu kesalahan dan apabila disabitkan—
 
 (3) Lembaga boleh, apabila mana-mana pengelola jemaah haji dipertuduh atas sesuatu kesalahan di bawah subseksyen (1), menggantung lesen pengelola jemaah hajinya sementara menanti pemberesan kes itu.
 
-Obligasi
+<!-- marginal: Obligasi -->
 
-31. (1) Tiap-tiap pengelola jemaah haji atau ejennya pengelola yang bermastautin di Malaysia hendaklah ber- jemaah haji jika jemaah tanggungjawab bagi pelaksanaan wajar obligasi-obligasi haji tertahan yang berikut berkenaan dengan tiap-tiap pesawat udara di Tanah Suci atau di yang dicarter atau baginya perkiraan dibuat olehnya bagi tempat lain. membawa jemaah haji ke atau dari Tanah Suci:
+31. (1) Tiap-tiap pengelola jemaah haji atau ejennya
+
+<!-- marginal: pengelola -->
+
+yang bermastautin di Malaysia hendaklah ber-
+
+<!-- marginal: jemaah haji -->
+
+<!-- marginal: jika jemaah -->
+
+tanggungjawab bagi pelaksanaan wajar obligasi-obligasi
+
+<!-- marginal: haji tertahan -->
+
+yang berikut berkenaan dengan tiap-tiap pesawat udara
+
+<!-- marginal: di Tanah Suci -->
+
+<!-- marginal: atau di -->
+
+yang dicarter atau baginya perkiraan dibuat olehnya bagi
+
+<!-- marginal: tempat lain. -->
+
+membawa jemaah haji ke atau dari Tanah Suci:
 
 (a) bahawa jika mana-mana jemaah haji tertahan di Tanah Suci atau di tempat lain selama tempoh yang lebih lama daripada dua puluh empat jam dari masa dan tarikh tempat dalam pesawat udara itu sepatutnya ada, maka pengelola jemaah haji itu hendaklah membayar kepada Duta atau Konsul Malaysia di Tanah Suci atau di tempat lain apa- apa jumlah wang yang ditentukan oleh Lembaga dari semasa ke semasa sebagai mencukupi untuk elaun sara hidup bagi setiap jemaah haji itu sehingga jemaah haji itu mempunyai peluang untuk dibawa balik ke Malaysia; dan
 
@@ -710,17 +956,39 @@ dan apabila disabitkan boleh didenda tidak melebihi satu ratus ribu ringgit atau
 
 (4), Lembaga adalah berhak, jika seseorang pengelola jemaah haji tidak mematuhi subseksyen (1), membuat perkiraan bagi pembelian tiket untuk perjalanan balik seseorang jemaah haji dan pengelola jemaah haji itu hendaklah bertanggungan bagi dan menanggung segala kos yang dilakukan baginya dan hendaklah menanggung rugi Lembaga bagi kos itu apabila dituntut.
 
-Kebenaran
+<!-- marginal: Kebenaran -->
 
-33. Lembaga boleh mengeluarkan kebenaran bertulis, untuk menge- tertakluk kepada apa-apa terma dan syarat yang luarkan tiket perjalanan difikirkannya patut dikenakan, yang membenarkan sehala. dikeluarkan kepada mana-mana jemaah haji tiket perjalanan sehala ke Tanah Suci.
+33. Lembaga boleh mengeluarkan kebenaran bertulis,
+
+<!-- marginal: untuk menge- -->
+
+tertakluk kepada apa-apa terma dan syarat yang
+
+<!-- marginal: luarkan tiket -->
+
+<!-- marginal: perjalanan -->
+
+difikirkannya patut dikenakan, yang membenarkan
+
+<!-- marginal: sehala. -->
+
+dikeluarkan kepada mana-mana jemaah haji tiket perjalanan sehala ke Tanah Suci.
 
 ## BAHAGIAN VI
 
 ## JEMAAH HAJI
 
-Syarat bagi
+<!-- marginal: Syarat bagi -->
 
-34. (1) Tiada jemaah haji boleh melakukan perjalanan perjalanan ke atau cuba melakukan perjalanan ke Tanah Suci untuk Tanah Suci. menunaikan haji melainkan jika Lembaga telah mengeluarkan kepadanya suatu perakuan bertulis yang mengesahkan bahawa jemaah haji itu sudah—
+34. (1) Tiada jemaah haji boleh melakukan perjalanan
+
+<!-- marginal: perjalanan ke -->
+
+atau cuba melakukan perjalanan ke Tanah Suci untuk
+
+<!-- marginal: Tanah Suci. -->
+
+menunaikan haji melainkan jika Lembaga telah mengeluarkan kepadanya suatu perakuan bertulis yang mengesahkan bahawa jemaah haji itu sudah—
 
 (a) dikeluarkan kepadanya dengan sewajarnya suatu Pasport Haji;
 
@@ -784,7 +1052,15 @@ dengannya tiket itu dijual ditandakan dengan jelas pada tiket itu dalam bahasa M
 
 ## PELBAGAI
 
-Keterangan 37. Dalam mana-mana prosiding bagi penghukuman apa- di bawah apa penalti di bawah Akta ini— Akta ini.
+<!-- marginal: Keterangan -->
+
+37. Dalam mana-mana prosiding bagi penghukuman apa-
+
+<!-- marginal: di bawah -->
+
+apa penalti di bawah Akta ini—
+
+<!-- marginal: Akta ini. -->
 
 (a) apa-apa dokumen yang berupa sebagai dibuat dan ditandatangani oleh mana-mana pegawai mana-mana Kedutaan atau Pejabat Konsul Malaysia atau asing; dan
 
@@ -792,9 +1068,35 @@ Keterangan 37. Dalam mana-mana prosiding bagi penghukuman apa- di bawah apa pena
 
 hendaklah diterima sebagai keterangan, jika didapati telah dihantar secara rasmi kepada mana-mana pegawai di atau berdekatan dengan tempat prosiding di bawah Akta ini dijalankan.
 
-Peruntukan 38. Bagi maksud memberikan bidang kuasa di bawah tentang Akta ini tiap-tiap kesalahan hendaklah disifatkan telah bidang kuasa. dilakukan dan tiap-tiap kausa pengaduan telah berbangkit sama ada di tempat kesalahan itu sebenarnya dilakukan atau kausa itu sebenarnya berbangkit atau di mana-mana tempat pesalah atau orang yang terhadapnya pengaduan itu dibuat berada.
+<!-- marginal: Peruntukan -->
 
-Penalti am 39. (1) Mana-mana orang yang melakukan kesalahan dan cubaan, di bawah Akta ini atau mana-mana peraturan yang dibuat dsb., untuk melakukan di bawah Akta ini yang baginya tiada diperuntukkan penalti kesalahan. yang nyata boleh apabila disabitkan—
+38. Bagi maksud memberikan bidang kuasa di bawah
+
+<!-- marginal: tentang -->
+
+Akta ini tiap-tiap kesalahan hendaklah disifatkan telah
+
+<!-- marginal: bidang kuasa. -->
+
+dilakukan dan tiap-tiap kausa pengaduan telah berbangkit sama ada di tempat kesalahan itu sebenarnya dilakukan atau kausa itu sebenarnya berbangkit atau di mana-mana tempat pesalah atau orang yang terhadapnya pengaduan itu dibuat berada.
+
+<!-- marginal: Penalti am -->
+
+39. (1) Mana-mana orang yang melakukan kesalahan
+
+<!-- marginal: dan cubaan, -->
+
+di bawah Akta ini atau mana-mana peraturan yang dibuat
+
+<!-- marginal: dsb., untuk -->
+
+<!-- marginal: melakukan -->
+
+di bawah Akta ini yang baginya tiada diperuntukkan penalti
+
+<!-- marginal: kesalahan. -->
+
+yang nyata boleh apabila disabitkan—
 
 (a) berkenaan dengan kesalahan pertama, didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga bulan atau kedua-duanya; dan
 
@@ -822,9 +1124,17 @@ apa-apa kesalahan di bawah Akta ini atau mana- mana peraturan yang dibuat di baw
 
 kecuaian atau keingkaran itu dilakukan oleh pengkhidmat itu dalam perjalanan pekerjaannya atau oleh ejen itu semasa bertindak bagi pihak prinsipal itu.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-41. (1) Lembaga boleh mengkompaun apa-apa kesalahan mengkompaun terhadap Akta ini atau mana-mana peraturan yang dibuat kesalahan. di bawah Akta ini yang ditetapkan oleh Lembaga sebagai kesalahan boleh kompaun dengan menerima daripada orang yang semunasabahnya disyaki telah melakukan kesalahan itu sejumlah wang yang tidak melebihi lima puluh peratus daripada denda maksimum yang dengannya kesalahan itu boleh dihukum.
+41. (1) Lembaga boleh mengkompaun apa-apa kesalahan
+
+<!-- marginal: mengkompaun -->
+
+terhadap Akta ini atau mana-mana peraturan yang dibuat
+
+<!-- marginal: kesalahan. -->
+
+di bawah Akta ini yang ditetapkan oleh Lembaga sebagai kesalahan boleh kompaun dengan menerima daripada orang yang semunasabahnya disyaki telah melakukan kesalahan itu sejumlah wang yang tidak melebihi lima puluh peratus daripada denda maksimum yang dengannya kesalahan itu boleh dihukum.
 
 (2) Apabila bayaran diterima di bawah subseksyen
 
@@ -832,15 +1142,39 @@ Kuasa untuk
 
 (3) Apa-apa wang yang dibayar kepada Lembaga menurut peruntukan-peruntukan seksyen ini hendaklah dibayar kepada dan menjadi sebahagian daripada Kumpulan Wang.
 
-Obligasi
+<!-- marginal: Obligasi -->
 
-42. (1) Tiada pegawai atau pengkhidmat Lembaga atau untuk orang lain yang mempunyai akses kepada apa-apa penyata, menyimpan rahsia. akaun, rekod, surat-menyurat, dokumen, maklumat atau apa-apa bahan lain yang diperolehi oleh sebab dia diambil kerja atau diambil khidmat oleh Lembaga boleh mendedahkan penyata, akaun, rekod, surat-menyurat, dokumen, maklumat atau bahan lain sedemikian kepada mana-mana orang lain melainkan jika pendedahan itu dibenarkan oleh Lembaga.
+42. (1) Tiada pegawai atau pengkhidmat Lembaga atau
+
+<!-- marginal: untuk -->
+
+orang lain yang mempunyai akses kepada apa-apa penyata,
+
+<!-- marginal: menyimpan -->
+
+<!-- marginal: rahsia. -->
+
+akaun, rekod, surat-menyurat, dokumen, maklumat atau apa-apa bahan lain yang diperolehi oleh sebab dia diambil kerja atau diambil khidmat oleh Lembaga boleh mendedahkan penyata, akaun, rekod, surat-menyurat, dokumen, maklumat atau bahan lain sedemikian kepada mana-mana orang lain melainkan jika pendedahan itu dibenarkan oleh Lembaga.
 
 (2) Mana-mana orang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.
 
-Perlindungan
+<!-- marginal: Perlindungan -->
 
-43. (1) Tiada seorang pun anggota Lembaga atau mana- bagi anggota, mana jawatankuasa, atau pegawai, pengkhidmat atau ejen pegawai, pengkhidmat Lembaga bertanggungan sendiri kerana apa-apa kerugian dan ejen. atau kerosakan yang disebabkan oleh apa-apa perbuatan atau ketinggalan semasa menjalankan kuasa-kuasa atau
+43. (1) Tiada seorang pun anggota Lembaga atau mana-
+
+<!-- marginal: bagi anggota, -->
+
+mana jawatankuasa, atau pegawai, pengkhidmat atau ejen
+
+<!-- marginal: pegawai, -->
+
+<!-- marginal: pengkhidmat -->
+
+Lembaga bertanggungan sendiri kerana apa-apa kerugian
+
+<!-- marginal: dan ejen. -->
+
+atau kerosakan yang disebabkan oleh apa-apa perbuatan atau ketinggalan semasa menjalankan kuasa-kuasa atau
 
 <!-- page 33 -->
 
@@ -904,11 +1238,7 @@ peruntukan Akta ini, bagi melaksanakan maksud-maksud Akta ini atau mana-mana per
 
 (iii) untuk mengadakan peruntukan bagi cara pembayaran untung boleh bahagi jika seseorang pendeposit mati atau semasa pengeluaran;
 
-(f) untuk menetapkan tanggungjawab dan kawalan pegawai dan pengkhidmat Lembaga termasuk perkara-perkara yang berhubungan dengan prosiding tatatertib dan hukuman tatatertib dan rayuan berkenaan dengannya dan berkenaan dengan gaji, elaun, terma dan
-
-<!-- marginal: syarat -->
-
-perkhidmatan, tempoh perkhidmatan dan cuti pegawai-pegawai dan pengkhidmat- pengkhidmatnya;
+(f) untuk menetapkan tanggungjawab dan kawalan pegawai dan pengkhidmat Lembaga termasuk perkara-perkara yang berhubungan dengan prosiding tatatertib dan hukuman tatatertib dan rayuan berkenaan dengannya dan berkenaan dengan gaji, elaun, terma dan syarat perkhidmatan, tempoh perkhidmatan dan cuti pegawai-pegawai dan pengkhidmat- pengkhidmatnya;
 
 (g) untuk menetapkan cara apa-apa jenis dokumen, cek dan suratcara hendaklah ditandatangani atau disempurnakan bagi pihak Lembaga;
 
@@ -940,9 +1270,13 @@ perkhidmatan, tempoh perkhidmatan dan cuti pegawai-pegawai dan pengkhidmat- peng
 
 (b) boleh mengadakan peruntukan bagi pengenaan hukuman denda tidak melebihi lima ribu ringgit atau pemenjaraan selama tempoh tidak melebihi satu tahun bagi kesalahan sedemikian.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-46. Menteri boleh, melalui perintah yang disiarkan dalam meminda Warta, meminda, menambah atau mengubah Jadual kepada
+46. Menteri boleh, melalui perintah yang disiarkan dalam
+
+<!-- marginal: meminda -->
+
+Warta, meminda, menambah atau mengubah Jadual kepada
 
 ## Jadual.
 
@@ -952,23 +1286,49 @@ Akta ini.
 
 ## PEMANSUHAN DAN PERALIHAN
 
-Pemansuhan
+<!-- marginal: Pemansuhan -->
 
-47. Pada hari yang ditetapkan— Akta Lembaga
+47. Pada hari yang ditetapkan—
 
-(a) Akta Lembaga Urusan dan Tabung Haji 1969, Urusan dan yang disebut "Akta termansuh" dalam Akta ini, Tabung Haji
+<!-- marginal: Akta -->
 
-1969. hendaklah terhenti berkuatkuasa dan adalah Akta 8. dimansuhkan; dan
+<!-- marginal: Lembaga -->
+
+(a) Akta Lembaga Urusan dan Tabung Haji 1969,
+
+<!-- marginal: Urusan dan -->
+
+yang disebut "Akta termansuh" dalam Akta ini,
+
+<!-- marginal: Tabung Haji -->
+
+1969. hendaklah terhenti berkuatkuasa dan adalah
+
+<!-- marginal: Akta 8. -->
+
+dimansuhkan; dan
 
 (b) Lembaga Urusan dan Tabung Haji, iaitu suatu pertubuhan perbadanan yang ditubuhkan di bawah Akta termansuh, hendaklah terhenti wujud.
 
-Keberterusan
+<!-- marginal: Keberterusan -->
 
-48. Tiap-tiap orang yang sebelum sahaja hari yang anggota. ditetapkan memegang jawatan sebagai anggota dilantik dalam Lembaga Urusan dan Tabung Haji hendaklah pada hari itu menjadi anggota Lembaga dan hendaklah tertakluk kepada segala peruntukan Akta ini yang berhubungan dengan anggota sedemikian dan hendaklah disifatkan telah dilantik di bawah Akta ini.
+48. Tiap-tiap orang yang sebelum sahaja hari yang
 
-Keberterusan
+<!-- marginal: anggota. -->
 
-49. (1) Tertakluk kepada Akta ini, segala undang-undang undang- bertulis yang menyentuh atau bagi perlindungan Lembaga undang, dsb. Urusan dan Tabung Haji dan berkuatkuasa sebelum sahaja hari yang ditetapkan hendaklah, sehingga dipinda atau
+ditetapkan memegang jawatan sebagai anggota dilantik dalam Lembaga Urusan dan Tabung Haji hendaklah pada hari itu menjadi anggota Lembaga dan hendaklah tertakluk kepada segala peruntukan Akta ini yang berhubungan dengan anggota sedemikian dan hendaklah disifatkan telah dilantik di bawah Akta ini.
+
+<!-- marginal: Keberterusan -->
+
+49. (1) Tertakluk kepada Akta ini, segala undang-undang
+
+<!-- marginal: undang- -->
+
+bertulis yang menyentuh atau bagi perlindungan Lembaga
+
+<!-- marginal: undang, dsb. -->
+
+Urusan dan Tabung Haji dan berkuatkuasa sebelum sahaja hari yang ditetapkan hendaklah, sehingga dipinda atau
 
 <!-- page 37 -->
 
@@ -1014,15 +1374,43 @@ atau dirizabkan di bawah peruntukan-peruntukan mana- mana undang-undang bertulis
 
 <!-- page 38 -->
 
-Kontrak 52. Tertakluk kepada Akta ini, segala suratikatan, bon, sedia ada. perjanjian, suratcara dan perkiraan kerja yang wujud sebelum sahaja hari yang ditetapkan dan menyentuh mana- mana harta yang dipindahkan di bawah seksyen 51 hendaklah berkuatkuasa dan berkesan penuh terhadap atau bagi faedah Lembaga dan boleh dikuatkuasakan dengan sepenuhnya berkesan seolah-olah Lembaga dan bukan Lembaga Urusan dan Tabung Haji yang telah dinamakan dalamnya atau telah menjadi pihak kepadanya.
+<!-- marginal: Kontrak -->
 
-Keberterusan 53. (1) Tertakluk kepada Akta ini, baik pemansuhan prosiding Akta termansuh mahupun apa-apa jua yang terkandung sivil dan jenayah. dalam Akta ini tidak boleh menyentuh liabiliti mana- mana orang untuk didakwa atau dihukum atas kesalahan yang dilakukan di bawah Akta termansuh sebelum hari yang ditetapkan, atau apa-apa prosiding yang dibawa atau hukuman yang dikenakan sebelum tarikh itu berkenaan dengan kesalahan sedemikian.
+52. Tertakluk kepada Akta ini, segala suratikatan, bon,
+
+<!-- marginal: sedia ada. -->
+
+perjanjian, suratcara dan perkiraan kerja yang wujud sebelum sahaja hari yang ditetapkan dan menyentuh mana- mana harta yang dipindahkan di bawah seksyen 51 hendaklah berkuatkuasa dan berkesan penuh terhadap atau bagi faedah Lembaga dan boleh dikuatkuasakan dengan sepenuhnya berkesan seolah-olah Lembaga dan bukan Lembaga Urusan dan Tabung Haji yang telah dinamakan dalamnya atau telah menjadi pihak kepadanya.
+
+<!-- marginal: Keberterusan -->
+
+53. (1) Tertakluk kepada Akta ini, baik pemansuhan
+
+<!-- marginal: prosiding -->
+
+Akta termansuh mahupun apa-apa jua yang terkandung
+
+<!-- marginal: sivil dan -->
+
+<!-- marginal: jenayah. -->
+
+dalam Akta ini tidak boleh menyentuh liabiliti mana- mana orang untuk didakwa atau dihukum atas kesalahan yang dilakukan di bawah Akta termansuh sebelum hari yang ditetapkan, atau apa-apa prosiding yang dibawa atau hukuman yang dikenakan sebelum tarikh itu berkenaan dengan kesalahan sedemikian.
 
 (2) Tertakluk kepada Akta ini, mana-mana prosiding (sama ada sivil atau jenayah) atau kausa tindakan yang belum selesai atau yang wujud sebelum sahaja hari yang ditetapkan oleh atau terhadap Lembaga Urusan dan Tabung Haji atau mana-mana orang yang bertindak bagi pihak Lembaga Urusan dan Tabung Haji boleh diteruskan atau dimulakan oleh atau terhadap Lembaga sebagaimana ia boleh diteruskan atau dimulakan oleh atau terhadap Lembaga Urusan dan Tabung Haji atau orang itu seolah- olah Akta ini tidak diperbuat.
 
 (3) Apa-apa rayuan yang dibawa atau kebenaran untuk merayu yang dipohon pada atau selepas hari yang ditetapkan terhadap sesuatu keputusan yang diberikan dalam mana- mana prosiding undang-undang sebelum hari itu boleh dibawa oleh atau terhadap Lembaga sebagaimana ia boleh dibawa oleh atau terhadap Lembaga Urusan dan Tabung Haji seolah-olah Akta ini tidak diperbuat.
 
-Perpindahan 54. Tertakluk kepada Akta ini, segala wang yang ada Kumpulan dalam, dan kena dibayar kepada, Kumpulan Wang yang Wang. ditubuhkan di bawah seksyen 19 Akta termansuh hendaklah pada hari yang ditetapkan berpindah kepada Kumpulan Wang.
+<!-- marginal: Perpindahan -->
+
+54. Tertakluk kepada Akta ini, segala wang yang ada
+
+<!-- marginal: Kumpulan -->
+
+dalam, dan kena dibayar kepada, Kumpulan Wang yang
+
+<!-- marginal: Wang. -->
+
+ditubuhkan di bawah seksyen 19 Akta termansuh hendaklah pada hari yang ditetapkan berpindah kepada Kumpulan Wang.
 
 <!-- page 39 -->
 
@@ -1086,21 +1474,49 @@ ditetapkan hendaklah pada hari itu—
 
 (2) Tiap-tiap orang yang sebelum sahaja hari yang ditetapkan diambil kerja sebagai pegawai atau pengkhidmat Lembaga Urusan dan Tabung Haji hendaklah pada hari itu disifatkan diambil kerja sebagai pegawai atau pengkhidmat sedemikian, mengikut mana-mana yang berkenaan, bagi Lembaga atas terma dan syarat perkhidmatan yang sama seperti yang terpakai sebelum sahaja hari yang ditetapkan.
 
-Prosiding
+<!-- marginal: Prosiding -->
 
-58. Segala prosiding tatatertib yang, sebelum sahaja hari tatatertib yang ditetapkan, masih belum selesai terhadap mana- yang belum mana pegawai atau pengkhidmat Lembaga Urusan dan selesai. Tabung Haji boleh, pada atau selepas tarikh itu, diteruskan terhadap pegawai atau pengkhidmat itu di bawah Akta ini.
+58. Segala prosiding tatatertib yang, sebelum sahaja hari
 
-Penggunaan
+<!-- marginal: tatatertib -->
 
-59. Sehingga suatu meterai diperuntukkan oleh Lembaga meterai. di bawah seksyen 5, meterai biasa Lembaga Urusan dan Tabung Haji hendaklah menjadi meterai biasa Lembaga.
+yang ditetapkan, masih belum selesai terhadap mana-
+
+<!-- marginal: yang belum -->
+
+mana pegawai atau pengkhidmat Lembaga Urusan dan
+
+<!-- marginal: selesai. -->
+
+Tabung Haji boleh, pada atau selepas tarikh itu, diteruskan terhadap pegawai atau pengkhidmat itu di bawah Akta ini.
+
+<!-- marginal: Penggunaan -->
+
+59. Sehingga suatu meterai diperuntukkan oleh Lembaga
+
+<!-- marginal: meterai. -->
+
+di bawah seksyen 5, meterai biasa Lembaga Urusan dan Tabung Haji hendaklah menjadi meterai biasa Lembaga.
 
 ## JADUAL
 
 (subseksyen,4(4))
 
-Peraturan
+<!-- marginal: Peraturan -->
 
-1. Lembaga hendaklah, pacla atau sebelum hari mana-mana berkenaan perbadanan ditubuhkan di bawah perenggan 4(3)(c), membuat dengan peraturan-peraturan berkenaan dcngan perbadanan itu dengan perbadanan. menentukan—
+1. Lembaga hendaklah, pacla atau sebelum hari mana-mana
+
+<!-- marginal: berkenaan -->
+
+perbadanan ditubuhkan di bawah perenggan 4(3)(c), membuat
+
+<!-- marginal: dengan -->
+
+peraturan-peraturan berkenaan dcngan perbadanan itu dengan
+
+<!-- marginal: perbadanan. -->
+
+menentukan—
 
 (a) maksud dan tujuan yang baginya perbadanan itu ditubuhkan;
 
@@ -1110,13 +1526,21 @@ Peraturan
 
 (d) hubungan antara perbadanan itu dengan Lembaga dan hak kawalan terhadap pcrbadanan itu,
 
-Kuatkuasa
+<!-- marginal: Kuatkuasa -->
 
-2. Tertakluk kepada Akla ini, mana-mana peraturan yang dibuat di peraturan. bawah perenggan 1 hendaklah mengikat perbadanan yang berkenaan dengannya peraturan itu dibuat dan hendaklah mempunyai kuatkuasa bagi segala maksud seolah-olah pcraluran itu telah diperbuat dalam Akta ini.
+2. Tertakluk kepada Akla ini, mana-mana peraturan yang dibuat di
 
-Pindaan
+<!-- marginal: peraturan. -->
 
-3. Lembaga boleh pada bila-bila masa meminda, membatalkan atau peraturan. menambah mana-mana peraturan yang dibuat berkenaan dengan mana- mana perbadanan di bawah perenggan 1.
+bawah perenggan 1 hendaklah mengikat perbadanan yang berkenaan dengannya peraturan itu dibuat dan hendaklah mempunyai kuatkuasa bagi segala maksud seolah-olah pcraluran itu telah diperbuat dalam Akta ini.
+
+<!-- marginal: Pindaan -->
+
+3. Lembaga boleh pada bila-bila masa meminda, membatalkan atau
+
+<!-- marginal: peraturan. -->
+
+menambah mana-mana peraturan yang dibuat berkenaan dengan mana- mana perbadanan di bawah perenggan 1.
 
 <!-- page 41 -->
 
@@ -1186,9 +1610,7 @@ Di bawah Bahagian ini, khususnya di bawah fasal 4, Lembaga diberi kuasa-kuasa ya
 
 7. Bahagian V mengandungi peruntukan yang direkabentuk untuk mengawal aktiviti pengelola jemaah haji dengan menjadikannya suatu kesalahan jika seseorang yang tak dilesenkan mengelolakan perjalanan ke Tanah Suci bagi maksud menunaikan haji (fasal 27) dan dengan mewujudkan penalti bagi pengelola jemaah haji yang melanggar terma dan syarat lesen mereka (fasal 30).
 
-## Bahagian V juga mengandungi peruntukan yang memperkatakan
-
-pengeluaran lesen untuk mengelolakan perjalanan ke Tanah Suci bagi menunaikan haji (fasal 28) dan menghendaki seseorang pengelola jemaah haji supaya menyenggara deposit cagaran dengan Lembaga (fasal 29).
+Bahagian V juga mengandungi peruntukan yang memperkatakan pengeluaran lesen untuk mengelolakan perjalanan ke Tanah Suci bagi menunaikan haji (fasal 28) dan menghendaki seseorang pengelola jemaah haji supaya menyenggara deposit cagaran dengan Lembaga (fasal 29).
 
 8. Bahagian VI mengandungi peruntukan tentang syarat-syarat bagi perjalanan ke Tanah Suci bagi menunaikan haji (fasal 34), pengeluaran pasport Haji (fasat 35-) dan kehendak supaya harga yang dengannya sesuatu tiket bagi perjalanan ke Tanah Suci dijual ditandakan pada tiket itu dalam bahasa Melayu dan bahasa Inggeris (fasal 36).
 

@@ -58,9 +58,7 @@ B. 7 Prime Minister's Department 62,921,000
 
 <!-- page 2 -->
 
-Purpose Title
-
-<!-- marginal: Appropriation -->
+Purpose Title Appropriation
 
 <!-- marginal: to purpose -->
 
@@ -70,11 +68,7 @@ B. 16 Fire Services Department
 
 <!-- marginal: 1,430,000 -->
 
-B. 26 Ministry of Education
-
-<!-- marginal: 25,000,000 -->
-
-B. 34 Ministry of Health
+B. 26 Ministry of Education 25,000,000 B. 34 Ministry of Health
 
 <!-- marginal: 40,000,000 -->
 
@@ -82,9 +76,7 @@ B. 39 National Registration Department
 
 <!-- marginal: 7,745,300 -->
 
-Total ...
-
-<!-- marginal: 138,146,300 -->
+Total ... 138,146,300
 
 ## EXPLANATORY STATEMENT
 

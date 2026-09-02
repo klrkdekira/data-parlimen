@@ -27,7 +27,12 @@
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_1",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_8"
       ],
       "schema:name": {
         "@language": "en",
@@ -95,285 +100,263 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for the words “on the petition of one party to a marriage where the other party has converted to Islam, and such decree shall, notwithstanding any other written law to the contrary, be valid against the party to the marriage who has so converted to Islam” the words “or other orders under Part VII and"
+        "@value": "by substituting for the words “on the petition of one party to a marriage where the other party has converted to Islam, and such decree shall, notwithstanding any other written law to the contrary, be valid against the party to the marriage who has so converted to Islam” the words “or other orders under Part VII and Part VIII on a petition for divorce under section 53 where one party converts to Islam after the filing of the petition or after the pronouncement of a decree, or a petition for divorce under either section 51, 52 or 53 on the petition of either party or both parties to a marriage where one party has converted to Islam, and such decree and orders made shall, notwithstanding any other written law to the contrary, be valid against the party to the marriage who has so converted to Islam”. Amendment of section 12"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII",
-      "@type": "akn:part",
-      "eli:number": "VIII",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_3",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_4",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_5",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_6",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_7",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_8"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@",
-      "schema:name": {
-        "@language": "en",
-        "@value": "on a petition for divorce under section 53"
-      },
-      "schema:text": {
-        "@language": "en",
-        "@value": "where one party converts to Islam after the filing of the petition or after the pronouncement of a decree, or a petition for divorce under either section 51, 52 or 53 on the petition of either party or both parties to a marriage where one party has converted to Islam, and such decree and orders made shall, notwithstanding any other written law to the contrary, be valid against the party to the marriage who has so converted to Islam”. Amendment of section 12"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_3",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_3",
       "@type": "akn:clause",
       "eli:number": "3",
       "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_3__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_3__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_3__para_c"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_3__para_c"
       ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@",
       "schema:name": {
         "@language": "en",
         "@value": "Subsection 12(1) of the principal Act is amended—"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_3__para_a",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_3__para_a",
       "@type": "akn:paragraph",
       "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_3",
       "schema:text": {
         "@language": "en",
         "@value": "in paragraph (a), by inserting after the words “her father” the words “or mother”;"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_3__para_b",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_3__para_b",
       "@type": "akn:paragraph",
       "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_3",
       "schema:text": {
         "@language": "en",
         "@value": "in paragraph (b), by deleting the words “or his or her father is dead”; and"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_3__para_c",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_3__para_c",
       "@type": "akn:paragraph",
       "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_3",
       "schema:text": {
         "@language": "en",
         "@value": "by substituting for paragraph (c) the following paragraph: “(c) if the person is an adopted child, of his or her adopted father or adopted mother; or”. Amendment of section 51"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_4",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_4",
       "@type": "akn:clause",
       "eli:number": "4",
       "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_4__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_4__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_4__para_c"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_4__para_c"
       ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@",
       "schema:name": {
         "@language": "en",
         "@value": "Section 51 of the principal Act is amended—"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_4__para_a",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_4__para_a",
       "@type": "akn:paragraph",
       "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_4",
       "schema:text": {
         "@language": "en",
         "@value": "by substituting for subsection (1) the following subsection: “(1) Where one party to a marriage has converted to Islam— (a) either party may petition for a divorce under this section or section 53; or (b) both parties may petition for a divorce under section 52.”;"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_4__para_b",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_4__para_b",
       "@type": "akn:paragraph",
       "eli:number": "b",
       "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_4__para_b__subpara_i",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_4__para_b__subpara_ii"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_4__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_4__para_b__subpara_ii"
       ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_4",
       "schema:text": {
         "@language": "en",
         "@value": "in subsection (2)—"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_4__para_b__subpara_i",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_4__para_b__subpara_i",
       "@type": "akn:subparagraph",
       "eli:number": "i",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_4__para_b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_4__para_b",
       "schema:text": {
         "@language": "en",
         "@value": "by inserting after the words “dissolving the marriage” the words “or at any time,”; and"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_4__para_b__subpara_ii",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_4__para_b__subpara_ii",
       "@type": "akn:subparagraph",
       "eli:number": "ii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_4__para_b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_4__para_b",
       "schema:text": {
         "@language": "en",
         "@value": "by inserting after the words “if any,” the words “under Part VII and Part VIII”; and"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_4__para_c",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_4__para_c",
       "@type": "akn:paragraph",
       "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_4",
       "schema:text": {
         "@language": "en",
         "@value": "in subsection (3), by substituting for the words “under this section” the words “where one party has converted to Islam”. New section 51a"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_5",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_5",
       "@type": "akn:clause",
       "eli:number": "5",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@",
       "schema:text": {
         "@language": "en",
         "@value": "The principal Act is amended by inserting after section 51 the following section: “Property of spouse after conversion 51a. (1) Where a person who has converted to Islam dies before the non-Muslim marriage of which that person is a party has been dissolved, that person’s matrimonial assets shall be distributed by the court among the interested parties in accordance with the provisions of this section upon application by any interested party. (2) In exercising the power conferred by subsection (1), the court shall have regard to— (a) the extent of the contributions made by the interested parties in money, property or works towards the acquisition of the matrimonial asset or payment of expenses for the benefit of the family; (b) any debts owing by the deceased and the interested party which were contracted for their benefit; (c) the extent of the contributions to the welfare of the family by looking after the house or caring for the family; (d) the duration of the marriage; (e) the needs of the children, if any, of the marriage; and (f) the rights of the interested party under the Distributions Act 1958 [Act 300] if the deceased had not converted. (3) For the purposes of this section, “interested party” or “interested parties” means the surviving spouse and surviving children of a marriage, if any, and the parents of the deceased converted spouse.”. Amendment of section 76"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_6",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_6",
       "@type": "akn:clause",
       "eli:number": "6",
       "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_6__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_6__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_6__para_c"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_6__para_c"
       ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@",
       "schema:name": {
         "@language": "en",
         "@value": "Section 76 of the principal Act is amended—"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_6__para_a",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_6__para_a",
       "@type": "akn:paragraph",
       "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_6",
       "schema:text": {
         "@language": "en",
         "@value": "in subsection (1), by deleting the words “by their joint efforts”;"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_6__para_b",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_6__para_b",
       "@type": "akn:paragraph",
       "eli:number": "b",
       "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_6__para_b__subpara_i",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_6__para_b__subpara_ii",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_6__para_b__subpara_iii",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_6__para_b__subpara_iv"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_6__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_6__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_6__para_b__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_6__para_b__subpara_iv"
       ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_6",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (2)— “(aa) the extent of the contributions made by the other party who did not acquire the assets to the welfare of the family by looking after the home or caring for the family;”; “(d) the duration of the marriage,”; and"
+        "@value": "in subsection (2)—"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_6__para_b__subpara_i",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_6__para_b__subpara_i",
       "@type": "akn:subparagraph",
       "eli:number": "i",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_6__para_b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_6__para_b",
       "schema:text": {
         "@language": "en",
         "@value": "in paragraph (a), by inserting after the words “the assets” the words “or payment of expenses for the benefit of the family”;"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_6__para_b__subpara_ii",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_6__para_b__subpara_ii",
       "@type": "akn:subparagraph",
       "eli:number": "ii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_6__para_b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_6__para_b",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (a) the following paragraph:"
+        "@value": "by inserting after paragraph (a) the following paragraph: “(aa) the extent of the contributions made by the other party who did not acquire the assets to the welfare of the family by looking after the home or caring for the family;”;"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_6__para_b__subpara_iii",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_6__para_b__subpara_iii",
       "@type": "akn:subparagraph",
       "eli:number": "iii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_6__para_b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_6__para_b",
       "schema:text": {
         "@language": "en",
         "@value": "in paragraph (c), by substituting for the comma at the end of the paragraph a semicolon; and"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_6__para_b__subpara_iv",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_6__para_b__subpara_iv",
       "@type": "akn:subparagraph",
       "eli:number": "iv",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_6__para_b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_6__para_b",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (c) the following paragraph:"
+        "@value": "by inserting after paragraph (c) the following paragraph: “(d) the duration of the marriage,”; and"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_6__para_c",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_6__para_c",
       "@type": "akn:paragraph",
       "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_6",
       "schema:text": {
         "@language": "en",
         "@value": "by deleting subsections (3) and (4). Amendment of section 95"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_7",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_7",
       "@type": "akn:clause",
       "eli:number": "7",
       "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_7__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_7__para_b"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_7__para_b"
       ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@",
       "schema:name": {
         "@language": "en",
         "@value": "Section 95 of the principal Act is amended—"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_7__para_a",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_7__para_a",
       "@type": "akn:paragraph",
       "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_7",
       "schema:text": {
         "@language": "en",
         "@value": "by inserting after the words “physical or mental disability” the words “or is pursuing further or higher education or training”; and"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_7__para_b",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_7__para_b",
       "@type": "akn:paragraph",
       "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_7",
       "schema:text": {
         "@language": "en",
         "@value": "by inserting after the words “ceasing of such disability” the words “or completion of such further or higher education or training”. Transitional"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII__cl_8",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~cl_8",
       "@type": "akn:clause",
       "eli:number": "8",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@/~part_VIII",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/eng@",
       "schema:text": {
         "@language": "en",
         "@value": "Any action or proceedings commenced or pending immediately before the date of coming into operation of this Act shall, after the date of coming into operation of this Act, be continued under the provisions of the principal Act as amended by this Act."

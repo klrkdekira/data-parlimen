@@ -22,7 +22,9 @@ II
 
 ## PENDAPTARAN
 
-4. Koperasi-koperasi yang boleh didaftarkan. 5. Syarat-syarat bagi pendaftaran. 6. Permohonan pendaftaran. 7. Pendaftaran. 8. Peruntukan khas bagi koperasi-koperasi tertentu. 9. Koperasi hendaklah menjadi pertubuhan perbadanan. 10. Keterangan pendaftaran.
+4. Koperasi-koperasi yang boleh didaftarkan. 5. Syarat-syarat bagi pendaftaran. 6. Permohonan pendaftaran. 7. Pendaftaran. 8. Peruntukan khas bagi koperasi-koperasi tertentu. 9. Koperasi hendaklah menjadi pertubuhan perbadanan.
+
+10. Keterangan pendaftaran.
 
 ## BAHAGIAN
 
@@ -32,7 +34,25 @@ III
 
 ## KEISTIMEWAAN KOPERASI-KOPERASI BERDAFTAR
 
-11. Alamat koperasi berdaftar. 12. Nama berdaftar hendaklah dipamerkan. 13. Dokumen terbuka untuk diperiksa. 14. Dokumen-dokumen yang hendaklah diserahkan kepada Ketua Pendaftar. 15. Daftar anggota. 16. Bukti catatan dalam buku-buku koperasi. 17. Undang-undang kecil hendaklah mengikat anggota-anggota. 18. Pindaan undang-undang kecil koperasi berdaftar. 19. Pembentukan subsidiari. 20. Pelupusan hasil kepada atau melalui koperasi berdaftar.
+11. Alamat koperasi berdaftar.
+
+12. Nama berdaftar hendaklah dipamerkan.
+
+13. Dokumen terbuka untuk diperiksa.
+
+14. Dokumen-dokumen yang hendaklah diserahkan kepada Ketua Pendaftar.
+
+15. Daftar anggota.
+
+16. Bukti catatan dalam buku-buku koperasi.
+
+17. Undang-undang kecil hendaklah mengikat anggota-anggota.
+
+18. Pindaan undang-undang kecil koperasi berdaftar.
+
+19. Pembentukan subsidiari.
+
+20. Pelupusan hasil kepada atau melalui koperasi berdaftar.
 
 <!-- page 2 -->
 
@@ -116,13 +136,37 @@ IV
 
 ## HARTA DAN WANG KOPERASI-KOPERASI BERDAFTAR
 
-50. Wang koperasi berdaftar. 51. Pemberian pinjaman oleh koperasi berdaftar. 52. Sekatan atas peminjaman. 53. Sekatan atas transaksi-transaksi lain dengan yang bukan anggota. 54. Pelaburan wang. 55. Keuntungan modal. 56. Untung bersih. 57. Pengagihan untung bersih teraudit.
+50. Wang koperasi berdaftar.
+
+51. Pemberian pinjaman oleh koperasi berdaftar.
+
+52. Sekatan atas peminjaman.
+
+53. Sekatan atas transaksi-transaksi lain dengan yang bukan anggota.
+
+54. Pelaburan wang.
+
+55. Keuntungan modal.
+
+56. Untung bersih.
+
+57. Pengagihan untung bersih teraudit.
 
 ## BAHAGIAN VII
 
 ## AKAUN DAN AUDIT
 
-58. Penyenggaraan akaun. 59. Penyata kewangan dan laporan Lembaga. 60. Pengauditan. 61. Kelulusan bagi juruaudit koperasi-koperasi berdaftar. 62. Hal-hal keadaan yang menjadikan seseorang hilang kelayakan untuk diluluskan atau bertindak sebagai juruaudit sesuatu koperasi berdaftar. 63. Kewajipan-kewajipan juruaudit.
+58. Penyenggaraan akaun.
+
+59. Penyata kewangan dan laporan Lembaga.
+
+60. Pengauditan.
+
+61. Kelulusan bagi juruaudit koperasi-koperasi berdaftar.
+
+62. Hal-hal keadaan yang menjadikan seseorang hilang kelayakan untuk diluluskan atau bertindak sebagai juruaudit sesuatu koperasi berdaftar.
+
+63. Kewajipan-kewajipan juruaudit.
 
 ## BAHAGIAN VIII
 
@@ -130,13 +174,51 @@ IV
 
 ## PERTIKAIAN
 
-64. Kuasa Ketua Pendaftar untuk memeriksa buku-buku, dll., koperasi-koperasi berdaftar. 65. Kuasa untuk menyita dan menahan buku-buku dan dokumen-dokumen. 66. Siasatan. 67. Ketua Pendaftar boleh memberitahu koperasi berdaftar keputusan pemeriksaan atau siasatan. 68. Pemeriksaan atas permohonan pemiutang-pemiutang. 69. Kuasa Ketua Pendaftar berikutan dengan siasatan-siasatan. 70. Pegawai yang dipecat atas perintah Ketua Pendaftar tidak boleh dilantik semula. 71. Pembubaran. 72. Pembatalan pendaftaran sesuatu koperasi kerana kurang anggota. 73. Akibat pembatalan pendaftaran. 74. Pelikuidasian selepas pembatalan pendaftaran koperasi.
+64. Kuasa Ketua Pendaftar untuk memeriksa buku-buku, dll., koperasi-koperasi berdaftar.
+
+65. Kuasa untuk menyita dan menahan buku-buku dan dokumen-dokumen.
+
+66. Siasatan.
+
+67. Ketua Pendaftar boleh memberitahu koperasi berdaftar keputusan pemeriksaan atau siasatan.
+
+68. Pemeriksaan atas permohonan pemiutang-pemiutang.
+
+69. Kuasa Ketua Pendaftar berikutan dengan siasatan-siasatan.
+
+70. Pegawai yang dipecat atas perintah Ketua Pendaftar tidak boleh dilantik semula.
+
+71. Pembubaran.
+
+72. Pembatalan pendaftaran sesuatu koperasi kerana kurang anggota.
+
+73. Akibat pembatalan pendaftaran.
+
+74. Pelikuidasian selepas pembatalan pendaftaran koperasi.
 
 <!-- page 4 -->
 
 ## RANG UNDANG-UNDANG
 
-75. Kuasa-kuasa pelikuidasi. 76. Kuasa Ketua Pendaftar untuk mengawal pelikuidasian. 77. Penguatkuasaan perintah. 78. Had bagi bidang kuasa mahkamah sivil. 79. Keutamaan pembayaran oleh pelikuidasi. 80. Kuasa Ketua Pendaftar untuk mensurcaj pegawai, dll. koperasi berdaftar. 81. Rayuan terhadap perintah Ketua Pendaftar. 82. Penyelesaian pertikaian. 83. Tribunal. 84. Pengemukaan kes tentang persoalan undang-undang.
+75. Kuasa-kuasa pelikuidasi.
+
+76. Kuasa Ketua Pendaftar untuk mengawal pelikuidasian.
+
+77. Penguatkuasaan perintah.
+
+78. Had bagi bidang kuasa mahkamah sivil.
+
+79. Keutamaan pembayaran oleh pelikuidasi.
+
+80. Kuasa Ketua Pendaftar untuk mensurcaj pegawai, dll. koperasi berdaftar.
+
+81. Rayuan terhadap perintah Ketua Pendaftar.
+
+82. Penyelesaian pertikaian.
+
+83. Tribunal.
+
+84. Pengemukaan kes tentang persoalan undang-undang.
 
 ## BAHAGIAN
 
@@ -144,13 +226,33 @@ IX
 
 ## PELBAGAI
 
-85. Pergabungan, pemindahan dan pembahagian sukarela. 86. Kuasa untuk membuat peraturan-peraturan. 87. Pengecualian. 88. Mendapatkan jumlah-jumlah wang yang kena dibayar kepada Kerajaan. 89. Larangan penggunaan perkataan "koperasi". 90. Ketakpakaian undang-undang tertentu. 91. Kesalahan-kesalahan am. 92. Bagaimana dan bila prosiding diambil. 93. Kuasa Ketua Pendaftar untuk mengkompaun kesalahan- kesalahan.
+85. Pergabungan, pemindahan dan pembahagian sukarela.
+
+86. Kuasa untuk membuat peraturan-peraturan.
+
+87. Pengecualian.
+
+88. Mendapatkan jumlah-jumlah wang yang kena dibayar kepada Kerajaan.
+
+89. Larangan penggunaan perkataan "koperasi".
+
+90. Ketakpakaian undang-undang tertentu.
+
+91. Kesalahan-kesalahan am.
+
+92. Bagaimana dan bila prosiding diambil.
+
+93. Kuasa Ketua Pendaftar untuk mengkompaun kesalahan- kesalahan.
 
 ## BAHAGIAN X
 
 ## PEMANSUHAN, KECUALIAN DAN PERALIHAN
 
-94. Takrif. 95. Pemansuhan dan kecualian. 96. Kedudukan pendaftaran dan undang-undang kecil koperasi- koperasi yang berdaftar di bawah undang-undang termansuh.
+94. Takrif.
+
+95. Pemansuhan dan kecualian.
+
+96. Kedudukan pendaftaran dan undang-undang kecil koperasi- koperasi yang berdaftar di bawah undang-undang termansuh.
 
 <!-- page 5 -->
 
@@ -188,11 +290,7 @@ I
 
 <!-- marginal: Tafsiran. -->
 
-2. Dalam A k ta ini, melainkan
-
-<!-- marginal: jika konteksnya -->
-
-menghendaki makna yang lain—
+2. Dalam A k ta ini, melainkan jika konteksnya menghendaki makna yang lain—
 
 "anggota" termasuklah seseorang atau sesuatu koperasi berdaftar yang turut sama dalam permohonan pendaftaran sesuatu koperasi, dan seseorang atau sesuatu koperasi berdaftar yang diterima menjadi anggota mengikut peraturan-peraturan dan undang- undang kecil selepas pendaftaran;
 
@@ -204,7 +302,11 @@ menghendaki makna yang lain—
 
 "dividen" ertinya bahagian keuntungan sesuatu koperasi berdaftar yang dibahagikan di kalangan anggota-anggotanya mengikut kadar modal syer atau modal yuran yang dipegang oleh mereka;
 
-"kesalahan boleh daftar" ertinya kesalahan yang boleh Akta 7. didaftarkan di bawah Akta Pendaftaran Penjenayah- penjenayah dan Orang-orang Tak Diingini 1969 sebagaimana yang dinyatakan dalam Jadual Pertama dan Kedua kepada Akta itu;
+"kesalahan boleh daftar" ertinya kesalahan yang boleh
+
+<!-- marginal: Akta 7. -->
+
+didaftarkan di bawah Akta Pendaftaran Penjenayah- penjenayah dan Orang-orang Tak Diingini 1969 sebagaimana yang dinyatakan dalam Jadual Pertama dan Kedua kepada Akta itu;
 
 "Ketua Pendaftar" ertinya Ketua Pendaftar Koperasi yang dilantik di bawah seksyen 3;
 
@@ -238,7 +340,11 @@ menghendaki makna yang lain—
 
 "perwakilan" ertinya—
 
-(a) wakil anggota-anggota individu, yang dipilih di mesyuarat peringkat wilayah anggota- anggota sesuatu koperasi asas yang mesyuarat agung anggotanya digantikan dengan mesyuarat agung perwakilan; atau
+(a) wakil anggota-anggota individu, yang dipilih di mesyuarat peringkat wilayah anggota- anggota sesuatu koperasi asas yang mesyuarat agung anggotanya digantikan
+
+<!-- marginal: dengan -->
+
+mesyuarat agung perwakilan; atau
 
 (b) wakil sesuatu koperasi berdaftar yang ialah anggota suatu koperasi berdaftar yang lain yang mesyuarat-mesyuaratnya wakil itu telah dipilih atau dilantik untuk menghadirinya;
 
@@ -266,7 +372,11 @@ menghendaki makna yang lain—
 
 "simpanan khas" ertinya wang yang didepositkan oleh seseorang anggota dengan sesuatu koperasi berdaftar dengan niat nyata untuk menggunakan wang yang didepositkan untuk suatu maksud yang dinyatakan yang dibenarkan di bawah peraturan-peraturan;
 
-"subsidiari" sesuatu koperasi berdaftar ertinya sesuatu Akta 125. syarikat, sebagaimana yang ditakrifkan dalam Akta Syarikat 1965, yang komposisi Lembaga Pengarahnya atau lebih daripada separuh kuasa mengundinya dikawal oleh koperasi berdaftar itu, atau yang lebih daripada separuh modal syer diterbitkannya dipegang oleh koperasi berdaftar itu, dan termasuklah sesuatu subsidiari, sebagaimana yang ditakrifkan dalam Akta itu, bagi syarikat itu;
+"subsidiari" sesuatu koperasi berdaftar ertinya sesuatu
+
+<!-- marginal: Akta 125. -->
+
+syarikat, sebagaimana yang ditakrifkan dalam Akta Syarikat 1965, yang komposisi Lembaga Pengarahnya atau lebih daripada separuh kuasa mengundinya dikawal oleh koperasi berdaftar itu, atau yang lebih daripada separuh modal syer diterbitkannya dipegang oleh koperasi berdaftar itu, dan termasuklah sesuatu subsidiari, sebagaimana yang ditakrifkan dalam Akta itu, bagi syarikat itu;
 
 "syer" ertinya bahagian dalam modal syer sesuatu koperasi berdaftar yang disumbangkan oleh seseorang anggota berkenaan dengan keanggotaannya dalam koperasi berdaftar itu;
 
@@ -276,9 +386,7 @@ menghendaki makna yang lain—
 
 ## KOPERASI
 
-"wang berlebihan" ertinya wang yang melebihi amaun yang diperlukan oleh sesuatu koperasi berdaftar bagi kegunaan segera sebagai modal
-
-<!-- marginal: kerja -->
+"wang berlebihan" ertinya wang yang melebihi amaun yang diperlukan oleh sesuatu koperasi berdaftar bagi kegunaan segera sebagai modal kerja
 
 <!-- marginal: bagi -->
 
@@ -310,11 +418,7 @@ Malaysia.
 
 (c) menggalakkan dan meningkatkan penubuhan dan pembangunan koperasi dalam semua sektor ekonomi dan membantu koperasi- koperasi meningkatkan kecekapannya.
 
-(4) Sebagai tambahan kepada
-
-<!-- marginal: kuasa-kuasa, -->
-
-kewajipan-kewajipan dan fungsi-fungsi yang diberikan kepada Ketua Pendaftar oleh Akta ini dan peraturan- peraturan, Ketua Pendaftar hendaklah mempunyai dan
+(4) Sebagai tambahan kepada kuasa-kuasa, kewajipan-kewajipan dan fungsi-fungsi yang diberikan kepada Ketua Pendaftar oleh Akta ini dan peraturan- peraturan, Ketua Pendaftar hendaklah mempunyai dan
 
 <!-- page 10 -->
 
@@ -368,11 +472,7 @@ anggotanya mengikut prinsip-prinsip koperasi boleh didaftarkan di bawah Akta ini
 
 (2) Sesuatu . pertubuhan yang terdiri daripada koperasi-koperasi asas sahaja dan yang matlamatnya ialah untuk memudahkan operasi koperasi-koperasi sedemikian boleh didaftarkan di bawah Akta ini sebagai suatu koperasi menengah.
 
-(3) Sesuatu pertubuhan yang
-
-<!-- marginal: terdiri daripada -->
-
-koperasi-koperasi menengah sahaja atau koperasi- koperasi menengah dan asas dan yang matlamatnya ialah untuk memudahkan operasi koperasi-koperasi sedemikian boleh didaftarkan di bawah Akta ini sebagai suatu koperasi atasan.
+(3) Sesuatu pertubuhan yang terdiri daripada koperasi-koperasi menengah sahaja atau koperasi- koperasi menengah dan asas dan yang matlamatnya ialah untuk memudahkan operasi koperasi-koperasi sedemikian boleh didaftarkan di bawah Akta ini sebagai suatu koperasi atasan.
 
 <!-- marginal: Syarat-syarat -->
 
@@ -396,9 +496,13 @@ jika—
 
 (3) Tiada koperasi boleh didaftarkan sebagai koperasi atasan melainkan jika ia terdiri daripada sekurang-kurangnya dua koperasi menengah.
 
-Permohonan
+<!-- marginal: Permohonan -->
 
-6. (1) Tiap-tiap permohonan pendaftaran hendaklah pendaftaran. dikemukakan kepada Ketua Pendaftar dalam borang yang ditetapkan dalam peraturan-peraturan dan hendaklah ditandatangani—
+6. (1) Tiap-tiap permohonan pendaftaran hendaklah
+
+<!-- marginal: pendaftaran. -->
+
+dikemukakan kepada Ketua Pendaftar dalam borang yang ditetapkan dalam peraturan-peraturan dan hendaklah ditandatangani—
 
 (a) dalam hal koperasi asas, oleh sekurang- kurangnya sepuluh orang yang semuanya layak menjadi anggota;
 
@@ -410,7 +514,7 @@ Permohonan
 
 (b) tertakluk kepada subseksyen 8(2), minit mesyuarat agung permulaan, yang di- tandatangani oleh sekurang-kurangnya lima puluh orang yang hadir.
 
-Pendaflaran.
+<!-- marginal: Pendaflaran. -->
 
 7. (1) Ketua Pendaftar boleh, tertakluk kepada peraturan-peraturan dan apabila diterima fee yang ditetapkan oleh peraturan-peraturan, mendaftarkan sesuatu koperasi dan undang-undang kecilnya.
 
@@ -468,9 +572,13 @@ temurun dan mempunyai meterai biasa, dan dengan kuasa untuk memegang segala jeni
 
 ## RANG UNDANG-UNDANG
 
-Keterangan
+<!-- marginal: Keterangan -->
 
-10. Perakuan pendaftaran yang ditandatangani oleh pendaftaran. Ketua Pendaftar hendaklah menjadi keterangan konklusif bahawa koperasi yang tersebut di dalamnya telah didaftarkan dengan sewajarnya, melainkan jika dibuktikan bahawa pendaftaran koperasi itu telah dibatalkan.
+10. Perakuan pendaftaran yang ditandatangani oleh
+
+<!-- marginal: pendaftaran. -->
+
+Ketua Pendaftar hendaklah menjadi keterangan konklusif bahawa koperasi yang tersebut di dalamnya telah didaftarkan dengan sewajarnya, melainkan jika dibuktikan bahawa pendaftaran koperasi itu telah dibatalkan.
 
 ## BAHAGIAN
 
@@ -480,17 +588,39 @@ III
 
 ## KEISTIMEWAAN KOPERASI-KOPERASI BERDAFTAR
 
-Alamat
+<!-- marginal: Alamat -->
 
-11. Tiap-tiap koperasi berdaftar hendaklah mempunyai koperasi alamat, yang didaftarkan mengikut Akta ini, yang ke berdaftar. situ segala notis dan perhubungan hendaklah dihantar, dan hendaklah memaklumkan Ketua Pendaftar tentang tiap-tiap pertukaran alamat itu.
+11. Tiap-tiap koperasi berdaftar hendaklah mempunyai
 
-Nama
+<!-- marginal: koperasi -->
 
-12. Tiap-tiap koperasi berdaftar hendaklah mem- berdaftar pamerkan nama berdaftar koperasi itu dengan ketara di hendaklah dipamerkan. alamat berdaftarnya dan di semua tempat perniagaannya.
+alamat, yang didaftarkan mengikut Akta ini, yang ke
 
-Dokumen
+<!-- marginal: berdaftar. -->
 
-13. Tiap-tiap koperasi hendaklah menyediakan— terbuka untuk diperiksa.
+situ segala notis dan perhubungan hendaklah dihantar, dan hendaklah memaklumkan Ketua Pendaftar tentang tiap-tiap pertukaran alamat itu.
+
+<!-- marginal: Nama -->
+
+12. Tiap-tiap koperasi berdaftar hendaklah mem-
+
+<!-- marginal: berdaftar -->
+
+pamerkan nama berdaftar koperasi itu dengan ketara di
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: dipamerkan. -->
+
+alamat berdaftarnya dan di semua tempat perniagaannya.
+
+<!-- marginal: Dokumen -->
+
+13. Tiap-tiap koperasi hendaklah menyediakan—
+
+<!-- marginal: terbuka untuk -->
+
+<!-- marginal: diperiksa. -->
 
 (a) suatu salinan Akta ini dan peraturan-peraturan;
 
@@ -500,11 +630,29 @@ Dokumen
 
 yang terbuka untuk diperiksa oleh anggota-anggotanya sahaja, tanpa apa-apa bayaran, pada segala masa yang munasabah di alamat berdaftar koperasi itu.
 
-Dokumen-
+<!-- marginal: Dokumen- -->
 
-14. Tiap-tiap koperasi berdaftar hendaklah menyerah- dokumen kan kepada Ketua Pendaftar— yang hendak- lah diserah-
+14. Tiap-tiap koperasi berdaftar hendaklah menyerah-
 
-(a) suatu senarai anggota Lembaga tidak lewat kan kepada Ketua daripada lima belas hari selepas mesyuarat Pendaftar. agung tahunannya;
+<!-- marginal: dokumen -->
+
+kan kepada Ketua Pendaftar—
+
+<!-- marginal: yang hendak- -->
+
+<!-- marginal: lah diserah- -->
+
+(a) suatu senarai anggota Lembaga tidak lewat
+
+<!-- marginal: kan kepada -->
+
+<!-- marginal: Ketua -->
+
+daripada lima belas hari selepas mesyuarat
+
+<!-- marginal: Pendaftar. -->
+
+agung tahunannya;
 
 (b) minit-minit segala mesyuarat agung dan mesyuarat Lembaga tidak lewat daripada tiga puluh hari selepas tarikh mesyuarat-mesyuarat itu;
 
@@ -564,9 +712,23 @@ ditandatangani oleh setiap anggota dan mengandungi waad pada pihak setiap anggot
 
 ## RANG UNDANG-UNDANG
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-18. (1) Mana-mana koperasi berdaftar boleh, tertakluk undang- kepada Akta ini dan peraturan-peraturan, meminda undang kecil koperasi undang-undang kecilnya, termasuklah undang-undang berdaftar. kecil yang mengisyriharkan nama koperasi itu.
+18. (1) Mana-mana koperasi berdaftar boleh, tertakluk
+
+<!-- marginal: undang- -->
+
+kepada Akta ini dan peraturan-peraturan, meminda
+
+<!-- marginal: undang kecil -->
+
+<!-- marginal: koperasi -->
+
+undang-undang kecilnya, termasuklah undang-undang
+
+<!-- marginal: berdaftar. -->
+
+kecil yang mengisyriharkan nama koperasi itu.
 
 (2) Tiada pindaan undang-undang kecil sesuatu koperasi berdaftar boleh menjadi sah sehingga pindaan itu didaftarkan di bawah Akta ini, dan bagi maksud itu salinan-salinan pindaan itu hendaklah dikemukakan kepada Ketua Pendaftar.
 
@@ -654,7 +816,33 @@ kesemuanya atau sebahagiannya diper- dapatkan, dibeli atau dihasilkan daripada a
 
 (2) Tiada apa-apa jua dalam perenggan (1) (a) boleh menyentuh tuntutan mana-mana pembeli bona fide atau penerima pindahan bona fide tanpa notis.
 
-Lien dan 22. Sesuatu koperasi berdaftar hendaklah mempunyai olakan lien atas syer atau yuran atau kepentingan dalam modal berkenaan dengan syer dan deposit seseorang anggota atau bekas anggota atau atau anggota yang mati dan atas apa-apa dividen, potongan kepentingan anggota- langganan, atau keuntungan yang kena dibayar kepada anggota. seseorang anggota atau bekas anggota atau kepada harta pusaka seseorang anggota yang mati berkenaan dengan
+<!-- marginal: Lien dan -->
+
+22. Sesuatu koperasi berdaftar hendaklah mempunyai
+
+<!-- marginal: olakan -->
+
+lien atas syer atau yuran atau kepentingan dalam modal
+
+<!-- marginal: berkenaan -->
+
+<!-- marginal: dengan syer -->
+
+dan deposit seseorang anggota atau bekas anggota atau
+
+<!-- marginal: atau -->
+
+anggota yang mati dan atas apa-apa dividen, potongan
+
+<!-- marginal: kepentingan -->
+
+<!-- marginal: anggota- -->
+
+langganan, atau keuntungan yang kena dibayar kepada
+
+<!-- marginal: anggota. -->
+
+seseorang anggota atau bekas anggota atau kepada harta pusaka seseorang anggota yang mati berkenaan dengan
 
 <!-- page 19 -->
 
@@ -728,9 +916,7 @@ mana-mana yang berkenaan, suatu jumlah wang yang merupakan nilai syer atau kepen
 
 (3) Walau apa pun subseksyen (1), jika enam bulan sudah berlalu sejak kematian anggota yang Muslim dan koperasi berdaftar yang berkenaan tidak dapat menentukan siapakah wakil di sisi undang-undang bagi anggota itu atau tiada wakil di sisi undang-undang telah dilantik atau harta pusaka anggota itu belum dibahagikan atau harta pusaka anggota itu telah dibahagikan tetapi koperasi berdaftar itu tidak dapat menentukan siapakah orang yang berhak mendapat syer atau kepentingan itu menurut pembahagian itu, maka koperasi berdaftar itu boleh membayar kepada Pegawai Pentadbir Pusaka sejumlah wang yang merupakan nilai syer atau kepentingan anggota itu sebagaimana yang ditentukan mengikut peraturan-peraturan atau undang- undang kecilnya.
 
-(4) Sesuatu koperasi berdaftar boleh membayar segala wang lain yang kena dibayar kepada seseorang anggota yang mati oleh koperasi berdaftar itu kepada wakil di sisi undang-undang, Pegawai Pentadbir Pusaka, penama, waris atau orang, mengikut mana-mana yang berkenaan, yang disebutkan dalam subseksyen (1) dan
-
-(3).
+(4) Sesuatu koperasi berdaftar boleh membayar segala wang lain yang kena dibayar kepada seseorang anggota yang mati oleh koperasi berdaftar itu kepada wakil di sisi undang-undang, Pegawai Pentadbir Pusaka, penama, waris atau orang, mengikut mana-mana yang berkenaan, yang disebutkan dalam subseksyen (1) dan (3).
 
 <!-- page 21 -->
 
@@ -814,17 +1000,55 @@ sesuatu koperasi berdaftar jika—
 
 pembuangan itu.
 
-Anggota-
+<!-- marginal: Anggota- -->
 
-28. Tiada anggota sesuatu koperasi berdaftar boleh anggota tidak menggunakan hak-hak sebagai anggota melainkan jika boleh meng- gunakan hak dan sehingga dia telah membuat apa-apa bayaran kepada sehingga di- koperasi berdaftar itu berkenaan dengan ke- buat bayaran wajar. anggotaanhya atau telah memperoleh apa-apa kepentingan dalam koperasi berdaftar itu sebagaimana yang ditetapkan melalui peraturan-peraturan atau melalui undang-undang kecil koperasi itu.
+28. Tiada anggota sesuatu koperasi berdaftar boleh
 
-Sekatan
+<!-- marginal: anggota tidak -->
 
-29. Tiada seorang pun boleh menjadi anggota lebih keanggotaan daripada satu koperasi berdaftar yang matlamat dalam koperasi. utamanya ialah untuk memberikan pinjaman kepada anggota-anggotanya.
+menggunakan hak-hak sebagai anggota melainkan jika
 
-Undi
+<!-- marginal: boleh meng- -->
 
-30. (1) Tiada anggota atau perwakilan anggota- anggota- anggota mana-mana koperasi berdaftar boleh anggota. mempunyai lebih daripada satu undi dalam penjalanan hal-ehwal koperasi itu, dan dalam hal kesamarataan undi pengerusi tidak boleh mempunyai undi pemutus.
+<!-- marginal: gunakan hak -->
+
+dan sehingga dia telah membuat apa-apa bayaran kepada
+
+<!-- marginal: sehingga di- -->
+
+koperasi berdaftar itu berkenaan dengan ke-
+
+<!-- marginal: buat bayaran -->
+
+<!-- marginal: wajar. -->
+
+anggotaanhya atau telah memperoleh apa-apa kepentingan dalam koperasi berdaftar itu sebagaimana yang ditetapkan melalui peraturan-peraturan atau melalui undang-undang kecil koperasi itu.
+
+<!-- marginal: Sekatan -->
+
+29. Tiada seorang pun boleh menjadi anggota lebih
+
+<!-- marginal: keanggotaan -->
+
+daripada satu koperasi berdaftar yang matlamat
+
+<!-- marginal: dalam -->
+
+<!-- marginal: koperasi. -->
+
+utamanya ialah untuk memberikan pinjaman kepada anggota-anggotanya.
+
+<!-- marginal: Undi -->
+
+30. (1) Tiada anggota atau perwakilan anggota-
+
+<!-- marginal: anggota- -->
+
+anggota mana-mana koperasi berdaftar boleh
+
+<!-- marginal: anggota. -->
+
+mempunyai lebih daripada satu undi dalam penjalanan hal-ehwal koperasi itu, dan dalam hal kesamarataan undi pengerusi tidak boleh mempunyai undi pemutus.
 
 (2) Walau apa pun subseksyen (1), anggota sesuatu koperasi menengah atau atasan boleh mempunyai kuasa- kuasa mengundi yang diperuntukkan oleh undang- undang kecil koperasi menengah atau atasan itu.
 
@@ -938,13 +1162,25 @@ dua tahun dikira dari tarikh itu.
 
 ## BERDAFTAR
 
-Mesyuarat
+<!-- marginal: Mesyuarat -->
 
-36. Tertakluk kepada peruntukan-peruntukan Akta ini, agung. peraturan-peraturan dan undang-undang kecil, kuasa tertinggi bagi sesuatu koperasi berdaftar hendaklah terletakhak pada mesyuarat agung anggota-anggotanya, yang padanya tiap-tiap anggota, sama ada dia sendiri atau melalui perwakilan atau, dalam hal koperasi menengah atau koperasi atasan, melalui proksi, mempunyai hak untuk hadir dan mengundi.
+36. Tertakluk kepada peruntukan-peruntukan Akta ini,
 
-Mesyuarat
+<!-- marginal: agung. -->
 
-37. Tiap-tiap koperasi berdaftar yang kawasan agung operasinya meliputi satu Negeri, meliputi dua Negeri perwakilan. atau lebih atau meliputi seluruh Malaysia hendaklah membuat undang-undang kecil yang memperuntukkan bahawa pewakilan di mesyuarat agungnya hendaklah—
+peraturan-peraturan dan undang-undang kecil, kuasa tertinggi bagi sesuatu koperasi berdaftar hendaklah terletakhak pada mesyuarat agung anggota-anggotanya, yang padanya tiap-tiap anggota, sama ada dia sendiri atau melalui perwakilan atau, dalam hal koperasi menengah atau koperasi atasan, melalui proksi, mempunyai hak untuk hadir dan mengundi.
+
+<!-- marginal: Mesyuarat -->
+
+37. Tiap-tiap koperasi berdaftar yang kawasan
+
+<!-- marginal: agung -->
+
+operasinya meliputi satu Negeri, meliputi dua Negeri
+
+<!-- marginal: perwakilan. -->
+
+atau lebih atau meliputi seluruh Malaysia hendaklah membuat undang-undang kecil yang memperuntukkan bahawa pewakilan di mesyuarat agungnya hendaklah—
 
 (a) melalui perwakilan yang dipilih oleh anggota- anggota individu pada mesyuarat agung wilayah atau kawasan mereka; atau
 
@@ -952,15 +1188,31 @@ Mesyuarat
 
 mengikut mana-mana yang berkenaan.
 
-Mesyuarat
+<!-- marginal: Mesyuarat -->
 
-38. (1) Tiap-tiap koperasi berdaftar hendaklah, dalam agung masa tiga bulan selepas menerima perakuan pertama. pendaftarannya, mengadakan mesyuarat agung yang pertama anggota atau perwakilannya.
+38. (1) Tiap-tiap koperasi berdaftar hendaklah, dalam
+
+<!-- marginal: agung -->
+
+masa tiga bulan selepas menerima perakuan
+
+<!-- marginal: pertama. -->
+
+pendaftarannya, mengadakan mesyuarat agung yang pertama anggota atau perwakilannya.
 
 (2) Urusan dalam mesyuarat agung pertama itu hendaklah termasuk pemilihan pemegang-pemegang jawatan yang hendaklah berkhidmat sehingga mesyuarat agung lahunan yang pertama dan yang hendaklah layak dilantik semula.
 
-Mesyuarat
+<!-- marginal: Mesyuarat -->
 
-39. Tiap-tiap koperasi berdaftar hendaklah mengadakan agung mesyuarat agung tahunan anggota atau perwakilannya tahunan. tidak lewat daripada enam bulan selepas berakhirnya setiap tahun kewangan.
+39. Tiap-tiap koperasi berdaftar hendaklah mengadakan
+
+<!-- marginal: agung -->
+
+mesyuarat agung tahunan anggota atau perwakilannya
+
+<!-- marginal: tahunan. -->
+
+tidak lewat daripada enam bulan selepas berakhirnya setiap tahun kewangan.
 
 <!-- page 25 -->
 
@@ -1016,11 +1268,31 @@ daripada tidak kurang daripada enam dan tidak lebih daripada lima belas orang- a
 
 yang dipilih dengan sewajarnya pada mesyuarat agung tahunan.
 
-Kelayakan
+<!-- marginal: Kelayakan -->
 
-43. (1) Tiada seorang pun layak dilantik menjadi bagi dipilih anggota Lembaga atau Jawatankuasa Audit Dalaman menjadi anggota sesuatu koperasi berdaftar jika— Lembaga atau Jawatankuasa
+43. (1) Tiada seorang pun layak dilantik menjadi
 
-(a) dia telah disabitkan atas suatu kesalahan di Audit bawah Akta ini; atau Dalaman.
+<!-- marginal: bagi dipilih -->
+
+anggota Lembaga atau Jawatankuasa Audit Dalaman
+
+<!-- marginal: menjadi -->
+
+<!-- marginal: anggota -->
+
+sesuatu koperasi berdaftar jika—
+
+<!-- marginal: Lembaga atau -->
+
+<!-- marginal: Jawatankuasa -->
+
+(a) dia telah disabitkan atas suatu kesalahan di
+
+<!-- marginal: Audit -->
+
+bawah Akta ini; atau
+
+<!-- marginal: Dalaman. -->
 
 (b) dia telah dipecat sebagai pekerja sesuatu koperasi berdaftar.
 
@@ -1030,7 +1302,21 @@ Kelayakan
 
 (4) Subseksyen (3) tidaklah terpakai bagi sesuatu koperasi berdaftar yang anggotanya berjumlah satu ratus orang atau kurang daripada itu dan bagi koperasi sekolah.
 
-44. Lembaga sesuatu koperasi berdaftar hendaklah Tugas-tugas dan kuasa- mewakili koperasi itu di hadapan segala pihak berkuasa kuasa awam yang kompeten dan dalam segala urusan dan Lembaga. transaksi dengan orang-orang ketiga, hendaklah mempunyai kuasa untuk memulakan atau membela
+44. Lembaga sesuatu koperasi berdaftar hendaklah
+
+<!-- marginal: Tugas-tugas -->
+
+<!-- marginal: dan kuasa- -->
+
+mewakili koperasi itu di hadapan segala pihak berkuasa
+
+<!-- marginal: kuasa -->
+
+awam yang kompeten dan dalam segala urusan dan
+
+<!-- marginal: Lembaga. -->
+
+transaksi dengan orang-orang ketiga, hendaklah mempunyai kuasa untuk memulakan atau membela
 
 <!-- page 27 -->
 
@@ -1054,27 +1340,57 @@ itu hendaklah berhemat dan bertekun seperti ahli-ahli perniagaan yang biasa dan 
 
 (2) Walau apa pun subseksyen (1), tiada tindakan, guaman, pendakwaan atau prosiding lain boleh dibawa atau dimulakan terhadap diri mana-mana anggota Lembaga atau pegawai sesuatu koperasi berdaftar berkenaan dengan apa-apa perbuatan yang dilakukan atau kenyataan yang dibuat bona fide menurut atau semasa melaksanakan atau dengan tujuan untuk melaksanakan Akta ini, peraturan-peraturan atau undang-undang kecil koperasi berdaftar itu.
 
-(3) Jika Lembaga sesuatu koperasi berdaftar telah melantik seseorang sebagai pengurus untuk men- tadbirkan dan menguruskan hal-ehwal koperasi berdaftar itu, perlantikan itu tidaklah mengecualikan anggota-anggota Lembaga daripada
-
-<!-- marginal: liabiliti dan -->
-
-tanggungjawab bagi arahan dan penjalanan yang sepatutnya akan hal-ehwal koperasi berdaftar itu.
+(3) Jika Lembaga sesuatu koperasi berdaftar telah melantik seseorang sebagai pengurus untuk men- tadbirkan dan menguruskan hal-ehwal koperasi berdaftar itu, perlantikan itu tidaklah mengecualikan anggota-anggota Lembaga daripada liabiliti dan tanggungjawab bagi arahan dan penjalanan yang sepatutnya akan hal-ehwal koperasi berdaftar itu.
 
 <!-- page 28 -->
 
 ## RANG UNDANG-UNDANG
 
-Saraan untuk
+<!-- marginal: Saraan untuk -->
 
-46. (1) Seseorang anggota Lembaga atau Jawatan- anggota- kuasa Audit Dalaman sesuatu koperasi berdaftar boleh anggota menerima elaun daripada koperasi berdaftar itu, tetapi Lembaga dan Jawatankuasa amaun elaun itu tidak boleh melebihi jumlah wang yang Audit ditetapkan oleh mesyuarat agung koperasi berdaftar itu Dalaman. sebelum atau pada masa tempoh jawatannya bermula.
+46. (1) Seseorang anggota Lembaga atau Jawatan-
+
+<!-- marginal: anggota- -->
+
+kuasa Audit Dalaman sesuatu koperasi berdaftar boleh
+
+<!-- marginal: anggota -->
+
+menerima elaun daripada koperasi berdaftar itu, tetapi
+
+<!-- marginal: Lembaga dan -->
+
+<!-- marginal: Jawatankuasa -->
+
+amaun elaun itu tidak boleh melebihi jumlah wang yang
+
+<!-- marginal: Audit -->
+
+ditetapkan oleh mesyuarat agung koperasi berdaftar itu
+
+<!-- marginal: Dalaman. -->
+
+sebelum atau pada masa tempoh jawatannya bermula.
 
 (2) Tiada anggota Lembaga sesuatu koperasi berdaftar yang dilantik untuk mewakili koperasi berdaftar itu dalam lembaga pengarah mana-mana subsidiarinya boleh menerima atau mengambil apa-apa saraan daripada subsidiari itu tanpa kelulusan terdahulu mesyuarat agung koperasi berdaftar itu.
 
 (3) Dalam seksyen ini, "elaun" ertinya saraan yang dibayar kepada seseorang anggota Lembaga sesuatu koperasi berdaftar atau seseorang anggota Jawatankuasa Audit Dalaman sesuatu koperasi berdaftar sebagai balasan kerana khidmat-khidmatnya yang diberikan kepada koperasi itu secara tetap.
 
-Penggantungan
+<!-- marginal: Penggantungan -->
 
-47. (1) Jika mana-mana prosiding dimulakan terhadap pegawai seseorang pegawai koperasi berdaftar berkenaan dengan koperasi sesuatu kesalahan boleh daftar atau sesuatu kesalahan di berdaftar. bawah Akta ini, maka—
+47. (1) Jika mana-mana prosiding dimulakan terhadap
+
+<!-- marginal: pegawai -->
+
+seseorang pegawai koperasi berdaftar berkenaan dengan
+
+<!-- marginal: koperasi -->
+
+sesuatu kesalahan boleh daftar atau sesuatu kesalahan di
+
+<!-- marginal: berdaftar. -->
+
+bawah Akta ini, maka—
 
 (a) Lembaga koperasi berdaftar itu hendaklah menggantung pegawai itu daripada menjadi pegawai koperasi berdaftar itu; dan
 
@@ -1140,9 +1456,17 @@ mengemukakan apa-apa maklumat atau buku-buku, akaun-akaun dan dokumen-dokumen se
 
 HARTA DAN WANG KOPERASI-KOPERASl BERDAFTAR
 
-Wang
+<!-- marginal: Wang -->
 
-50. Wang sesuatu koperasi berdaftar boleh di- koperasi perdapatkan melalui mana-mana atau kesemua yang berdaftar. berikut:
+50. Wang sesuatu koperasi berdaftar boleh di-
+
+<!-- marginal: koperasi -->
+
+perdapatkan melalui mana-mana atau kesemua yang
+
+<!-- marginal: berdaftar. -->
+
+berikut:
 
 (a) fee masuk, yang tidaklah boleh dikembalikan kecuali dalam hal apabila sesuatu permohonan untuk menjadi anggota telah ditolak;
 
@@ -1188,13 +1512,7 @@ dan pinjaman atau kemudahan kredit lain itu hendaklah tertakluk kepada—
 
 (aa) peraturan-peraturan dan undang-undang kecil koperasi itu; dan
 
-(bb) dalam hal subsidiari
-
-<!-- marginal: atau -->
-
-<!-- marginal: subsidiari- -->
-
-subsidiarinya atau koperasi berdaftar yang lain, kelulusan Ketua Pendaftar juga.
+(bb) dalam hal subsidiari atau subsidiari- subsidiarinya atau koperasi berdaftar yang lain, kelulusan Ketua Pendaftar juga.
 
 <!-- page 32 -->
 
@@ -1204,21 +1522,51 @@ subsidiarinya atau koperasi berdaftar yang lain, kelulusan Ketua Pendaftar juga.
 
 (3) Menteri boleh, melalui perintah am atau khas, melarang atau menyekat pemberian pinjaman ber- sandarkan gadaian atau gadai janji harta tak alih oleh mana-mana koperasi berdaftar atau golongan koperasi berdaftar.
 
-Sekatan atas
+<!-- marginal: Sekatan atas -->
 
-52. (1) Sesuatu koperasi berdaftar boleh, tertakluk pemmjaman. kepada kelulusan mesyuarat agung atau mesyuarat agung khasnya, meminjam wang daripada anggota- anggotanya dan daripada yang bukan anggotanya untuk digunakan bagi maksud yang khas dalam perniagaannya.
+52. (1) Sesuatu koperasi berdaftar boleh, tertakluk
+
+<!-- marginal: pemmjaman. -->
+
+kepada kelulusan mesyuarat agung atau mesyuarat agung khasnya, meminjam wang daripada anggota- anggotanya dan daripada yang bukan anggotanya untuk digunakan bagi maksud yang khas dalam perniagaannya.
 
 (2) Sesuatu koperasi berdaftar hendaklah, setiap tahun, menentukan, pada mesyuarat agung, had maksimum keterhutangan berkenaan dengan pinjaman dan deposit yang sedia ada dan yang baru yang akan ditanggung dalam tahun yang akan datang.
 
-Sekatan atas
+<!-- marginal: Sekatan atas -->
 
-53. Tertakluk kepada seksyen 51 dan 52, transaksi- transaksi- transaksi sesuatu koperasi berdaftar dengan orang-orang transaksi lain dengan yang selain daripada anggota-anggotanya hendaklah tertakluk bukan kepada larangan-larangan dan sekatan-sekatan yang anggota. ditetapkan melalui undang-undang kecilnya.
+53. Tertakluk kepada seksyen 51 dan 52, transaksi-
 
-Pelaburan
+<!-- marginal: transaksi- -->
 
-54. (1) Tertakluk kepada peraturan-peraturan dan wang. kepada undang-undang kecilnya, sesuatu koperasi berdaftar boleh melaburkan atau mendepositkan wang berlebihannya dalam—
+transaksi sesuatu koperasi berdaftar dengan orang-orang
 
-(a) mana-mana institusi kewangan yang di- Akta 372. lesenkan di bawah Akta Bank dan Institusi- Institusi Kewangan 1989;
+<!-- marginal: transaksi lain -->
+
+<!-- marginal: dengan yang -->
+
+selain daripada anggota-anggotanya hendaklah tertakluk
+
+<!-- marginal: bukan -->
+
+kepada larangan-larangan dan sekatan-sekatan yang
+
+<!-- marginal: anggota. -->
+
+ditetapkan melalui undang-undang kecilnya.
+
+<!-- marginal: Pelaburan -->
+
+54. (1) Tertakluk kepada peraturan-peraturan dan
+
+<!-- marginal: wang. -->
+
+kepada undang-undang kecilnya, sesuatu koperasi berdaftar boleh melaburkan atau mendepositkan wang berlebihannya dalam—
+
+(a) mana-mana institusi kewangan yang di-
+
+<!-- marginal: Akta 372. -->
+
+lesenkan di bawah Akta Bank dan Institusi- Institusi Kewangan 1989;
 
 (b) mana-mana institusi kewangan yang di- tubuhkan oleh Kerajaan Persekutuan;
 
@@ -1280,23 +1628,69 @@ pemeriksaan dibuat di bawah seksyen 64 atau 68 atau selepas sesuatu siasatan dia
 
 (6) Tiada koperasi berdaftar boleh digulung kecuali dengan perintah Ketua Pendaftar.
 
-Pembatalan
+<!-- marginal: Pembatalan -->
 
-72. (1) Ketua Pendaftar boleh, dengan perintah secara pendaftaran bertulis, membatalkan pendaftaran mana-mana koperasi sesuatu koperasi berdaftar, selain daripada sesuatu koperasi yang di kerana antara anggota-anggotanya ialah satu atau lebih koperasi kurang anggota. berdaftar, jika pada bila-bila masa dibuktikan sehingga dia berpuas hati bahawa bilangan anggota koperasi berdaftar yang mula-mula disebut itu telah berkurangan sehingga menjadi kurang daripada sepuluh orang.
+72. (1) Ketua Pendaftar boleh, dengan perintah secara
+
+<!-- marginal: pendaftaran -->
+
+bertulis, membatalkan pendaftaran mana-mana koperasi
+
+<!-- marginal: sesuatu -->
+
+<!-- marginal: koperasi -->
+
+berdaftar, selain daripada sesuatu koperasi yang di
+
+<!-- marginal: kerana -->
+
+antara anggota-anggotanya ialah satu atau lebih koperasi
+
+<!-- marginal: kurang -->
+
+<!-- marginal: anggota. -->
+
+berdaftar, jika pada bila-bila masa dibuktikan sehingga dia berpuas hati bahawa bilangan anggota koperasi berdaftar yang mula-mula disebut itu telah berkurangan sehingga menjadi kurang daripada sepuluh orang.
 
 (2) Tiap-tiap perintah yang dibuat di bawah subseksyen (1) hendaklah mula berkuatkuasa dari tarikh perintah itu.
 
-Akibat
+<!-- marginal: Akibat -->
 
-73. Jika pendaftaran sesuatu koperasi berdaftar pembatalan dibatalkan oleh suatu perintah di bawah seksyeh 71 atau pendaftaran. di bawah seksyen 72, koperasi itu hendaklah terhenti wujud sebagai pertubuhan perbadanan dari tarikh perintah itu mula berkuatkuasa.
+73. Jika pendaftaran sesuatu koperasi berdaftar
 
-Pelikuidasian
+<!-- marginal: pembatalan -->
 
-74. Jika pendaftaran sesuatu koperasi berdaftar selepas dibatalkan di bawah seksyen 71 atau seksyen 72, Ketua pambatalan pendaftaran Pendaftar boleh melantik seorang orang kompeten untuk coperasi. menjadi pelikuidasi koperasi berdaftar itu.
+dibatalkan oleh suatu perintah di bawah seksyeh 71 atau
 
-Kuasa-kuasa
+<!-- marginal: pendaftaran. -->
 
-75. (1) Seseorang pelikuidasi yang dilantik di bawah pelikuidasi. seksyen 74 hendakJah, tertakluk kepada bimbingan dan kawalan Ketua Pendaftar dan kepada apa-apa had yang
+di bawah seksyen 72, koperasi itu hendaklah terhenti wujud sebagai pertubuhan perbadanan dari tarikh perintah itu mula berkuatkuasa.
+
+<!-- marginal: Pelikuidasian -->
+
+74. Jika pendaftaran sesuatu koperasi berdaftar
+
+<!-- marginal: selepas -->
+
+dibatalkan di bawah seksyen 71 atau seksyen 72, Ketua
+
+<!-- marginal: pambatalan -->
+
+<!-- marginal: pendaftaran -->
+
+Pendaftar boleh melantik seorang orang kompeten untuk
+
+<!-- marginal: coperasi. -->
+
+menjadi pelikuidasi koperasi berdaftar itu.
+
+<!-- marginal: Kuasa-kuasa -->
+
+75. (1) Seseorang pelikuidasi yang dilantik di bawah
+
+<!-- marginal: pelikuidasi. -->
+
+seksyen 74 hendakJah, tertakluk kepada bimbingan dan kawalan Ketua Pendaftar dan kepada apa-apa had yang
 
 <!-- page 35 -->
 
@@ -1304,19 +1698,11 @@ Kuasa-kuasa
 
 dikenakan oleh Ketua Pendaftar dengan perintah di bawah seksyen 76, mempunyai kuasa untuk—
 
-(a) menentukan, dari semasa ke
-
-<!-- marginal: semasa, -->
-
-sumbangan-sumbangan yang hendaklah dibuat oleh anggota-anggota dan bekas anggota- anggota, atau oleh harta pusaka anggota- anggota yang mati, koperasi berdaftar itu kepada aset-asetnya;
+(a) menentukan, dari semasa ke semasa, sumbangan-sumbangan yang hendaklah dibuat oleh anggota-anggota dan bekas anggota- anggota, atau oleh harta pusaka anggota- anggota yang mati, koperasi berdaftar itu kepada aset-asetnya;
 
 (b) menetapkan, dengan notis, suatu hari yang sebelumnya pemiutang-pemiutang, yang tuntutan-tuntutan mereka belum lagi di- rekodkan dalam buku-buku koperasi berdaftar itu, hendaklah menyatakan tuntutan-tuntutan mereka bagi diambil kira supaya mereka tidak tersingkir daripada apa-apa pembahagian yang dibuat sebelum mereka membuktikan tuntutan- tuntutan itu;
 
-(c) memutuskan apa-apa persoalan
-
-<!-- marginal: tentang -->
-
-susunan keutamaan yang berbangkit di antara orang-orang yang menuntut dan menyediakan suatu skim bagi pembayaran apa yang sepatutnya diterima oleh mereka;
+(c) memutuskan apa-apa persoalan tentang susunan keutamaan yang berbangkit di antara orang-orang yang menuntut dan menyediakan suatu skim bagi pembayaran apa yang sepatutnya diterima oleh mereka;
 
 (d) memulakan dan membela guaman-guaman dan prosiding-prosiding undang-undang lain oleh dan bagi pihak sesuatu koperasi berdaftar atas namanya atau jawatannya dan hadir sendiri di mahkamah sebagai litigan bagi pihak koperasi itu;
 
@@ -1348,11 +1734,7 @@ buku dan dokumen-dokumen koperasi itu sebagaimana yang perlu semasa menggulung k
 
 (m) membuat apa-apa perkiraan, perjanjian, komposisi, kompromi, atau skim, dengan mana-mana pendeposit, pemiutang, pelanggan, atau orang yang mempunyai apa-apa urusan atau transaksi yang sah dengan koperasi berdaftar itu di mana apa-apa hak mana-mana orang tersebut, atau apa-apa liabiliti koperasi berdaftar itu kepada mana-mana orang tersebut, dijadikan tertakluk kepada perkiraan, perjanjian, komposisi, kompromi atau skim yang dibuat oleh pelikuidasi itu'
 
-(n) mengambil kerja mana-mana orang sebagai pekerja koperasi
-
-<!-- marginal: berdaftar -->
-
-<!-- marginal: itu, -->
+(n) mengambil kerja mana-mana orang sebagai pekerja koperasi berdaftar itu,
 
 <!-- marginal: atau -->
 
@@ -1364,13 +1746,7 @@ menamatkan pekerjaan mana-mana pekerja koperasi berdaftar itu, mengikut terma-te
 
 (2) Walau apa pun perenggan (1)(o), pelikuidasi sesuatu koperasi kredit tidak berhak memberikan apa- apa pinjaman.
 
-(3) Seseorang pelikuidasi boleh merujukkan apa-apa pertikaian kepada Ketua Pendaftar, dan berhubungan dengan pertikaian sedemikian seksyen 82 hendaklah terpakai seolah-olah pertikaian
-
-<!-- marginal: itu -->
-
-<!-- marginal: ialah suatu -->
-
-pertikaian yang menyentuh perniagaan sesuatu koperasi berdaftar.
+(3) Seseorang pelikuidasi boleh merujukkan apa-apa pertikaian kepada Ketua Pendaftar, dan berhubungan dengan pertikaian sedemikian seksyen 82 hendaklah terpakai seolah-olah pertikaian itu ialah suatu pertikaian yang menyentuh perniagaan sesuatu koperasi berdaftar.
 
 <!-- page 38 -->
 
@@ -1386,7 +1762,11 @@ pertikaian yang menyentuh perniagaan sesuatu koperasi berdaftar.
 
 (4), menentukan bahawa wang sesuatu koperasi yang dibubarkan hendaklah diremitkan kepadanya, wang itu hendaklah dipegang olehnya dalam suatu Akaun Amanah yang hendaklah dikenali sebagai Akaun Pelikuidasian Koperasi sementara menanti pem- bahagiannya kepada benefisiari-benefisiari mengikut suatu skim yang memerlukan kelulusannya.
 
-(8) Wang yang dipegang dalam Akaun Pelikuidasian Koperasi boleh didepositkan atau dilaburkan mengikut Akta 208. Akta Pemegang Amanah 1949 dan pendapatan bersih daripada deposit atau pelaburan sedemikian hendaklah
+(8) Wang yang dipegang dalam Akaun Pelikuidasian Koperasi boleh didepositkan atau dilaburkan mengikut
+
+<!-- marginal: Akta 208. -->
+
+Akta Pemegang Amanah 1949 dan pendapatan bersih daripada deposit atau pelaburan sedemikian hendaklah
 
 <!-- page 39 -->
 
@@ -1458,9 +1838,19 @@ mempunyai apa-apa bidang kuasa berkenaan dengan
 
 apa-apa perkara yang berkaitan dengan pembubaran sesuatu koperasi berdaftar di bawah Akta ini, dan tiada rayuan boleh dibuat kepada mana-mana mahkamah sivil terhadap apa-apa perintah pelikuidasi.
 
-Keutamaan
+<!-- marginal: Keutamaan -->
 
-79. (1) Dalam pelikuidasian sesuatu koperasi yang pembayaran pendaftarannya telah dibatalkan, wang koperasi itu, oleh pelikuidasi termasuk wang dalam Akaun Rizab, hendaklah digunakan pertamanya untuk kos pelikuidasian, kemudian untuk menunaikan liabiliti-liabiliti koperasi itu, kemudian untuk membayar modal syer atau yuran dan kemudian, jika undang-undang kecil koperasi itu membenarkannya, untuk membayar dividen pada kadar yang ditetapkan dalam peraturan-peraturan bagi apa-apa tempoh yang baginya tiada dividen dibayar.
+79. (1) Dalam pelikuidasian sesuatu koperasi yang
+
+<!-- marginal: pembayaran -->
+
+pendaftarannya telah dibatalkan, wang koperasi itu,
+
+<!-- marginal: oleh -->
+
+<!-- marginal: pelikuidasi -->
+
+termasuk wang dalam Akaun Rizab, hendaklah digunakan pertamanya untuk kos pelikuidasian, kemudian untuk menunaikan liabiliti-liabiliti koperasi itu, kemudian untuk membayar modal syer atau yuran dan kemudian, jika undang-undang kecil koperasi itu membenarkannya, untuk membayar dividen pada kadar yang ditetapkan dalam peraturan-peraturan bagi apa-apa tempoh yang baginya tiada dividen dibayar.
 
 (2) Keutamaan pembayaran hutang-hutang tak bercagar sesuatu koperasi dalam pelikuidasian sebagaimana yang disebut dalam subseksyen ( 1) hendaklah bertaraf menurut susunan berikut:
 
@@ -1490,7 +1880,9 @@ termasuk apa-apa faedah penamatan atau persaraan yang kena dibayar atas pem- ber
 
 (3) Jika pelikuidasian sesuatu koperasi telah selesai dan mana-mana orang tidak menuntut atau menerima apa yang sepatutnya diterimanya di bawah skim pembahagian, notis tentang selesainya pelikuidasian itu hendaklah disiarkan dalam Warta, dan segala tuntutan terhadap wang koperasi berdaftar yang dilikuidasikan itu hendaklah terhalang apabila luput tempoh dua tahun dari tarikh penyiaran notis itu dalam Warta.
 
-(4) Apa-apa baki wang yang tinggal selepas tamat tempoh dua tahun yang disebutkan dalam subseksyen (3) hendaklah dikreditkan ke dalam Kumpulan Wang Pusat Koperasi.
+(4) Apa-apa baki wang yang tinggal selepas tamat tempoh dua tahun yang disebutkan dalam subseksyen
+
+(3) hendaklah dikreditkan ke dalam Kumpulan Wang Pusat Koperasi.
 
 <!-- marginal: Kuasa Ketua -->
 
@@ -1526,13 +1918,31 @@ koperasi itu telah menyalahgunakan atau menyimpan atau rnenjadi bertanggungan at
 
 ( 3) Seksyen ini hendaklah terpakai walaupun perbuatan yang disebutkan dalam subseksyen ( 1) i tu ialah pcrbuatan yang baginya pcsalah itu mungkin bertanggungjawab secara jcnayah.
 
-Rayuan
+<!-- marginal: Rayuan -->
 
-81. Mana-mana orang yang terkilan dengan apa-apa terhadap perintah Ketua Pendaftar yang dibuat di bawah seksyen permtah Ketua 80 boleh merayu kepada Menteri dalam masa dua puluh Pendaftar. satu hari dari tarikh perintah itu dan keputusan Menteri adalah muktamad dan konklusit'.
+81. Mana-mana orang yang terkilan dengan apa-apa
 
-Penyelesaian
+<!-- marginal: terhadap -->
 
-82. ( 1) Jika pertikaian yang menyentuh penubuhan, pertikaian undang-undang kecil, pemilihan pegawai-pegawai, penjalanan mesyuarat-mesyuarat agung, pengurusan atau perniagaan sesuatu koperasi berdaftar berbangkit—
+perintah Ketua Pendaftar yang dibuat di bawah seksyen
+
+<!-- marginal: permtah -->
+
+<!-- marginal: Ketua -->
+
+80 boleh merayu kepada Menteri dalam masa dua puluh
+
+<!-- marginal: Pendaftar. -->
+
+satu hari dari tarikh perintah itu dan keputusan Menteri adalah muktamad dan konklusit'.
+
+<!-- marginal: Penyelesaian -->
+
+82. ( 1) Jika pertikaian yang menyentuh penubuhan,
+
+<!-- marginal: pertikaian -->
+
+undang-undang kecil, pemilihan pegawai-pegawai, penjalanan mesyuarat-mesyuarat agung, pengurusan atau perniagaan sesuatu koperasi berdaftar berbangkit—
 
 (a) di kalangan anggota-anggota, bekas anggota- anggota dan orang-orang yang menuntut melalui anggota-anggota, bekas anggota- anggota dan anggota-anggota yang mati;
 
@@ -1576,7 +1986,7 @@ pertikaian itu hendaklah dirujukkan kepada Ketua Pendaftar bagi keputusannya.
 
 baginya.
 
-Tribunal.
+<!-- marginal: Tribunal. -->
 
 83. (1) Menteri boleh, atas syor Ketua Pendaftar, menubuhkan suatu tribunal untuk melaksanakan fungsi- fungsi yang dinyatakan dalam subseksyen (2).
 
@@ -1596,23 +2006,7 @@ Tribunal.
 
 ( i) tiada langkah telah diambil atau liada prosiding lelah dimulakan oleh Ketua Pendaftar bagi pemberesannya di bawah perenggan 82(3)(a); atau
 
-(ii) tiada kepulusan telah dibuat oleh Ketua Pendaftar untuk mcrujukkan pertikaian-pertikaian
-
-<!-- marginal: i tu kepada -->
-
-seseorang
-
-<!-- marginal: penimbang -->
-
-<!-- marginal: tara -->
-
-<!-- marginal: atau -->
-
-penimbang-penimbang
-
-<!-- marginal: tara bagi -->
-
-pemberesan di bawah perenggan 82(3)(b) atau untuk mcnghendaki pihak-pihak yang berkaitan merujuk- kan pertikaian itu kepada mahkamah di bawah perenggan 8 2 ( 3 ) ( c ),
+(ii) tiada kepulusan telah dibuat oleh Ketua Pendaftar untuk mcrujukkan pertikaian-pertikaian i tu kepada seseorang penimbang tara atau penimbang-penimbang tara bagi pemberesan di bawah perenggan 82(3)(b) atau untuk mcnghendaki pihak-pihak yang berkaitan merujuk- kan pertikaian itu kepada mahkamah di bawah perenggan 8 2 ( 3 ) ( c ),
 
 hendaklah dirujukkan kepada tribunal i t u.
 
@@ -1716,9 +2110,19 @@ yang lain untuk membentuk satu koperasi tunggal;
 
 mengikut peraturan-peraturan.
 
-Kuasa unluk
+<!-- marginal: Kuasa unluk -->
 
-86. (1) Menteri boleh membuat segala peraturan yang membuat perlu bagi maksud melaksanakan atau memberikan peraturan- peraturan. kuatkuasa kepada prinsip-prinsip dan peruntukan- peruntukan Akta ini.
+86. (1) Menteri boleh membuat segala peraturan yang
+
+<!-- marginal: membuat -->
+
+perlu bagi maksud melaksanakan atau memberikan
+
+<!-- marginal: peraturan- -->
+
+<!-- marginal: peraturan. -->
+
+kuatkuasa kepada prinsip-prinsip dan peruntukan- peruntukan Akta ini.
 
 (2) Khususnya, tanpa menjejaskan keluasan kuasa yang diberikan oleh subseksyen (1), peraturan-peraturan itu boleh—
 
@@ -1742,11 +2146,7 @@ Kerajaan;
 
 (f) menetapkan maksud-maksud yang baginya simpanan khas holeh digunakan;
 
-(g) menetapkan segala perkara yang herhubungan dengan pergabungan dan
-
-<!-- marginal: pembahagian -->
-
-koperasi-koperasi berdaftar dan pemindahan aset-aset dan liabiliti-liabiliti koperasi- koperasi berdaftar termasuk peletakhakan aset-aset dan liabiliti-liabiliti—
+(g) menetapkan segala perkara yang herhubungan dengan pergabungan dan pembahagian koperasi-koperasi berdaftar dan pemindahan aset-aset dan liabiliti-liabiliti koperasi- koperasi berdaftar termasuk peletakhakan aset-aset dan liabiliti-liabiliti—
 
 ( i) koperasi-koperasi yang bergabung pada koperasi gabungan i t u:
 
@@ -1754,11 +2154,7 @@ koperasi-koperasi berdaftar dan pemindahan aset-aset dan liabiliti-liabiliti kop
 
 (iii) sesuatu kopcrasi berdaftar pada suatu koperasi berdaftar lain menurut sesuatu pemindahan.
 
-pendaftaran koperasi gabungan. koperasi- koperasi baru dan pemindahan
-
-<!-- marginal: i t u, d an -->
-
-pembatalan pendaftaran, dalam hal per- gabungan, koperasi-koperasi yang bergabung. dalam hal pembahagian, koperasi yang sedia ada, dan dalam hal pemindahan, koperasi yang membuat pemindahan:
+pendaftaran koperasi gabungan. koperasi- koperasi baru dan pemindahan i t u, d an pembatalan pendaftaran, dalam hal per- gabungan, koperasi-koperasi yang bergabung. dalam hal pembahagian, koperasi yang sedia ada, dan dalam hal pemindahan, koperasi yang membuat pemindahan:
 
 (h) menetapkan maksud-maksud yang baginya wang dalam Akaun Rizab, selain daripada yang berbangkit daripada keuntungan modal, boleh digunakan;
 
@@ -1854,9 +2250,29 @@ perniagaan di bawah apa-apa nama atau gelaran yang mengandungi, sebagai sebahagi
 
 (2) Mana-mana orang yang melanggar peruntukan- peruntukan subseksyen (1) adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi lima ribu ringgit dan, dalam hal kesalahan yang berterusan. didenda selanjutnya tidak melebihi lima ratus ringgit bagi setiap hari kesalahan itu berterusan selepas sabitan.
 
-Ketakpakaian 90. Peruntukan undang-undang yang sedang berkuat- undang- kuasa berhubungan dengan kesatuan sekerja, persatuan, undang tertentu, pertubuhan dan syarikat tidaklah terpakai bagi koperasi- koperasi yang didaftarkan di bawah Akta ini.
+<!-- marginal: Ketakpakaian -->
 
-Kesalahan- 91. ( 1) Adalah menjadi suatu kesalahan di bawah Akta kesalahan i ni jika— am.
+90. Peruntukan undang-undang yang sedang berkuat-
+
+<!-- marginal: undang- -->
+
+kuasa berhubungan dengan kesatuan sekerja, persatuan,
+
+<!-- marginal: undang -->
+
+<!-- marginal: tertentu, -->
+
+pertubuhan dan syarikat tidaklah terpakai bagi koperasi- koperasi yang didaftarkan di bawah Akta ini.
+
+<!-- marginal: Kesalahan- -->
+
+91. ( 1) Adalah menjadi suatu kesalahan di bawah Akta
+
+<!-- marginal: kesalahan -->
+
+i ni jika—
+
+<!-- marginal: am. -->
 
 (a) sesuatu koperasi berdaftar atau seseorang pegawai atau pekerja atau anggota koperasi itu abai atau enggan melakukan sesuatu perbuatan atau memberikan maklumat yang dikehendaki bagi maksud Akta ini oleh Menteri, Ketua Pendaftar atau seseorang yang diberikuasa dengan sewajarnya bagi maksud itu oleh Menteri atau Ketua Pendaftar, mengikut mana- mana yang berkenaan;
 
@@ -1896,9 +2312,25 @@ boleh, dengan keizinan secara bertulis daripada Pendakwa Raya, di mana-mana mahk
 
 ## RANG UNDANG-UNDANG
 
-Kuasa Ketua
+<!-- marginal: Kuasa Ketua -->
 
-93. (1) Ketua Pendaftar boleh, dalam sesuatu kes jika Pendaftar difikirkannya patut dan sesuai berbuat demikian, untuk meng- kompaun mengkompaun apa-apa kesalahan yang dilakukan oleh kesalahan- kesalahan. mana-mana orang yang boleh dihukum di bawah mana- mana peruntukan Akta ini dengan membuat tawaran bertulis kepada orang itu untuk mengkompaun kesalahan itu dengan membayar kepada Ketua Pendaftar, dalam masa yang dinyatakan dalam tawaran itu, apa-apa jumlah wang yang ditentukan dalam tawaran itu yang tidak boleh melebihi lima puluh peratus daripada amaun denda maksimum (termasuk denda harian, jika ada, dalam hal sesuatu kesalahan yang berterusan) yang boleh dikenakan atas orang itu sekiranya dia telah disabitkan.
+93. (1) Ketua Pendaftar boleh, dalam sesuatu kes jika
+
+<!-- marginal: Pendaftar -->
+
+difikirkannya patut dan sesuai berbuat demikian,
+
+<!-- marginal: untuk meng- -->
+
+<!-- marginal: kompaun -->
+
+mengkompaun apa-apa kesalahan yang dilakukan oleh
+
+<!-- marginal: kesalahan- -->
+
+<!-- marginal: kesalahan. -->
+
+mana-mana orang yang boleh dihukum di bawah mana- mana peruntukan Akta ini dengan membuat tawaran bertulis kepada orang itu untuk mengkompaun kesalahan itu dengan membayar kepada Ketua Pendaftar, dalam masa yang dinyatakan dalam tawaran itu, apa-apa jumlah wang yang ditentukan dalam tawaran itu yang tidak boleh melebihi lima puluh peratus daripada amaun denda maksimum (termasuk denda harian, jika ada, dalam hal sesuatu kesalahan yang berterusan) yang boleh dikenakan atas orang itu sekiranya dia telah disabitkan.
 
 (2) Sesuatu tawaran di bawah subseksyen (1) boleh dibuat pada bila-bila masa selepas kesalahan itu dilakukan tetapi sebelum pendakwaan baginya dimulakan, dan jika amaun yang dinyatakan dalam tawaran itu tidak dibayar dalam masa yang dinyatakan dalam tawaran itu, atau apa-apa perlanjutan masa itu yang diberikan oleh Ketua Pendaftar, pendakwaan bagi kesalahan itu boleh dimulakan pada bila-bila masa selepas itu terhadap orang yang kepadanya tawaran untuk mengkompaun itu dibuat.
 
@@ -1908,7 +2340,9 @@ Kuasa Ketua
 
 ## PEMANSUHAN, KECUALIAN DAN PERALIHAN
 
-Takrif. 94. Dalam Bahagian ini, "undang-undang termansuh" ertinya undang-undang yang dimansuhkan di bawah seksyen 95.
+<!-- marginal: Takrif. -->
+
+94. Dalam Bahagian ini, "undang-undang termansuh" ertinya undang-undang yang dimansuhkan di bawah seksyen 95.
 
 <!-- page 55 -->
 
@@ -1976,13 +2410,43 @@ Pendaftar yang bertanggungjawab bagi koperasi-koperasi berdaftar di Negeri Sabah
 
 (5) Menteri boleh membuat peraturan-peraturan bagi mengadakan peruntukan mengenai cara bagaimana Kumpulan Wang yang tersebut dalam perenggan (4)(a) akan dipegang dan ditadbirkan dan, apabila Kumpulan Wang itu menjadi terhaus, bagi pembubarannya dan bagi perkara-perkara lain yang berkaitan dengannya.
 
-Kedudukan
+<!-- marginal: Kedudukan -->
 
-96. (1) Sesuatu koperasi yang, sebelum sahaja Akta pendaftaran ini m u la berkuatkuasa, berdaftar atau disifatkan dan undang- undang kecil berdaftar di bawah peruntukan-peruntukan undang- koperasi- undang termansuh hendaklah disifatkan
+96. (1) Sesuatu koperasi yang, sebelum sahaja Akta
+
+<!-- marginal: pendaftaran -->
+
+ini m u la berkuatkuasa, berdaftar atau disifatkan
+
+<!-- marginal: dan undang- -->
+
+<!-- marginal: undang kecil -->
+
+berdaftar di bawah peruntukan-peruntukan undang-
+
+<!-- marginal: koperasi- -->
+
+undang termansuh hendaklah disifatkan
 
 <!-- marginal: telah -->
 
-koperasi yang berdaftar di didaftarkan di bawah Akta ini. bawah undang- undang (2) Tertakluk kepada subseksyen (3), koperasi- termansuh. koperasi yang didaftarkan atau disifatkan didaftarkan di bawah mana-mana undang-undang termansuh hendaklah, tidak lewat daripada dua tahun selepas Akta ini m u la berkuatkuasa, meminda undang-undang kecilnya untuk menjadikannya selaras dengan peruntukan-peruntukan Akta ini.
+<!-- marginal: koperasi yang -->
+
+<!-- marginal: berdaftar di -->
+
+didaftarkan di bawah Akta ini.
+
+<!-- marginal: bawah -->
+
+<!-- marginal: undang- -->
+
+<!-- marginal: undang -->
+
+(2) Tertakluk kepada subseksyen (3), koperasi-
+
+<!-- marginal: termansuh. -->
+
+koperasi yang didaftarkan atau disifatkan didaftarkan di bawah mana-mana undang-undang termansuh hendaklah, tidak lewat daripada dua tahun selepas Akta ini m u la berkuatkuasa, meminda undang-undang kecilnya untuk menjadikannya selaras dengan peruntukan-peruntukan Akta ini.
 
 (3) Subseksyen (2) tidaklah terpakai bagi mana- mana undang-undang kecil yang dibuat di bawah mana- mana undang-undang termansuh yang di bawahnya orang-orang individu serta juga koperasi-koperasi berdaftar, atau yang di bawahnya koperasi-koperasi berdaftar yang berlainan jenis, boleh menjadi anggota
 
@@ -2080,11 +2544,7 @@ Fasal 58 bertujuan menghendaki sesuatu koperasi menyenggara rekod-rekod perakaun
 
 Fasal 64 bertujuan memberi Ketua Pendaftar kuasa untuk memeriksa akaun-akaun, dokumen-dokumen dan sekuriti-sekuriti sesuatu koperasi dan subsidiari atau subsidiari-subsidiarinya. Dia boleh juga memeriksa buku-buku, akaun-akaun, wang tunai dan harta sesuatu koperasi, di bawah fasal 68, atas permohonan pemiutang koperasi itu. Adalah juga dicadangkan, di bawah fasal 65, supaya Ketua Pendaftar diberikuasa, j i ka didapati bahawa sesuatu kesalahan di bawah Akta ini telah dilakukan, untuk memasuki premis sesuatu koperasi dan menyita serta menahan dokumen yang mungkin memberikan keterangan tentang kesalahan sedemikian.
 
-Fasal 66 bertujuan memberi Ketua Pendaftar kuasa untuk mengadakan siasatan tentang penubuhan, perjalanan dan kedudukan kewangan sesuatu koperasi dan Ketua Pendaftar boleh, di bawah fasal 67, memberitahu koperasi yang berkenaan tentang keputusan siasatan itu. Fasal 69 bertujuan memberi Ketua Pendaftar kuasa untuk mengambil tindakan-tindakan tertentu berikutan dengan siasatan di bawah fasal 66. Dia boleh menggantung aktiviti-aktiviti sesualu koperasi, menggantung atau membubarkan Lembaganya atau membekukan akaun bank koperasi itu untuk mencegah wang hilang atau disalahgunakan. Dia boleh juga memecat mana-mana anggota Lembaga atau pekerja koperasi itu dan anggota atau pekerja itu, di bawah peruntukan yang dicadangkan
-
-<!-- marginal: dalam fasal 70, -->
-
-tidak boleh dilantik semula atau diambil kerja semula, mengikut mana-mana yang berkenaan.
+Fasal 66 bertujuan memberi Ketua Pendaftar kuasa untuk mengadakan siasatan tentang penubuhan, perjalanan dan kedudukan kewangan sesuatu koperasi dan Ketua Pendaftar boleh, di bawah fasal 67, memberitahu koperasi yang berkenaan tentang keputusan siasatan itu. Fasal 69 bertujuan memberi Ketua Pendaftar kuasa untuk mengambil tindakan-tindakan tertentu berikutan dengan siasatan di bawah fasal 66. Dia boleh menggantung aktiviti-aktiviti sesualu koperasi, menggantung atau membubarkan Lembaganya atau membekukan akaun bank koperasi itu untuk mencegah wang hilang atau disalahgunakan. Dia boleh juga memecat mana-mana anggota Lembaga atau pekerja koperasi itu dan anggota atau pekerja itu, di bawah peruntukan yang dicadangkan dalam fasal 70, tidak boleh dilantik semula atau diambil kerja semula, mengikut mana-mana yang berkenaan.
 
 <!-- page 62 -->
 
@@ -2104,6 +2564,4 @@ Fasal 86 bertujuan memberi Menteri kuasa untuk membuat peraturan-peraturan. Fasa
 
 IMPLIKASl KEWANGAN
 
-Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini.
-
-<!-- marginal: [PN. (U2) 1563.] -->
+Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini. [PN. (U2) 1563.]

@@ -20,7 +20,25 @@
 
 ## TRANSITIONAL PROVISIONS
 
-7. General provisions 8. Waiver of tax 9. Basis period in certain cases 10. Basis period shall not exceed twelve months 11. Capital allowances deemed claimed 12. Exempt account 13. Restriction of payments to directors of controlled companies 14. Transactions between companies in the same group 15. Withdrawal of stock in trade to be disregarded 16. Tax on income where waiver does not apply 17. Year of assessment 2000 18. Savings and transitional provision
+7. General provisions 8. Waiver of tax 9. Basis period in certain cases
+
+10. Basis period shall not exceed twelve months
+
+11. Capital allowances deemed claimed
+
+12. Exempt account
+
+13. Restriction of payments to directors of controlled companies
+
+14. Transactions between companies in the same group
+
+15. Withdrawal of stock in trade to be disregarded
+
+16. Tax on income where waiver does not apply
+
+17. Year of assessment 2000
+
+18. Savings and transitional provision
 
 <!-- page 3 -->
 
@@ -114,7 +132,11 @@ shall give a direction specifying which of the existing businesses is to be take
 
 4. The principal Act is amended by substituting for section 42 the following section:
 
-"statutory 42. (1) Subject to this Act, the statutory income (if income, any) of a person from a source for a year of assessment (that year of assessment being in this section referred to as the relevant year) shall consist of—
+"statutory 42. (1) Subject to this Act, the statutory income (if
+
+<!-- marginal: income, -->
+
+any) of a person from a source for a year of assessment (that year of assessment being in this section referred to as the relevant year) shall consist of—
 
 (a) the amount of his adjusted income (if any) from that source for the basis period for the relevant year; and
 
@@ -166,11 +188,7 @@ payments falling under section 4(e), the Director General may in that year make 
 
 (ii) it is desirable for other reasons that an assessment be made in respect of that person.
 
-he may in that year make an assessment
-
-<!-- marginal: in respect of -->
-
-that person and income from that source or from any source for that year of assessment and the following year of assessment;
+he may in that year make an assessment in respect of that person and income from that source or from any source for that year of assessment and the following year of assessment;
 
 (d) where a person who has ceased to possess a source in a year of assessment receives income from that source after the end of that year (being income which has not been or does not fall to be included in the gross income of that person from that source for any preceding basis period) the Director General may in the year of assessment in which that income is received make an assessment in respect of that person and that income for that year of assessment;
 
@@ -262,9 +280,7 @@ This Bill seeks to amend the Income Tax Act 1967("Act 53").
 
 3. Clause 3 seeks to amend section 21 of Act 53. The new subsection (2) specifically provides that where the accounts of a business have been made up for a period of twelve months straddling over two calendar years, that period of twelve months shall be taken as the basis period for a year of assessment for that business. This amendment is effective from 1 January 2000.
 
-4. Clause 4 seeks to amend section 42 of Act 53. The amendment introduces subsection (2) to provide that where two basis periods overlap, the adjusted income shall be apportioned on time basis so that the income will be distributed evenly over the periods and the income attributed to that overlapping period will not be taxed twice. This amendment is effective from the year of assessment
-
-1999.
+4. Clause 4 seeks to amend section 42 of Act 53. The amendment introduces subsection (2) to provide that where two basis periods overlap, the adjusted income shall be apportioned on time basis so that the income will be distributed evenly over the periods and the income attributed to that overlapping period will not be taxed twice. This amendment is effective from the year of assessment 1999.
 
 5. Clause 5 seeks to amend section 77 of Act 53. Subsection (2) is amended to provide that in the event a person chargeable to tax has not been required to furnish a return under subsection (1), that person is now under a duty to notify the Director General of his chargeability before 15 April of the following year. This amendment is effective from 1 January 2000.
 
@@ -290,7 +306,7 @@ This Bill seeks to amend the Income Tax Act 1967("Act 53").
 
 ## FINANCIAL
 
-<!-- marginal: IMPLICATIONS -->
+## IMPLICATIONS
 
 This Bill will not involve the Government in any extra financial expenditure.
 

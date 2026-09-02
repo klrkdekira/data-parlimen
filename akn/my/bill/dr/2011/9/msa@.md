@@ -6,13 +6,13 @@ RANG UNDANG-UNDANG peRANti peRUbAtAN 2011
 
 sUsUNAN fAsAl
 
-## Bahagian i
+## BAHAGIAN I
 
 peRMUlAAN 1. tajuk ringkas dan permulaan kuat kuasa
 
 2. tafsiran
 
-## Bahagian ii
+## BAHAGIAN II
 
 peNDAftARAN peRANti peRUbAtAN DAN bADAN peNilAiAN peMAtUHAN
 
@@ -50,7 +50,7 @@ Pendaftaran badan penilaian pematuhan
 
 14. Kuasa untuk membatalkan pendaftaran badan penilaian pematuhan
 
-## Bahagian iii
+## BAHAGIAN III
 
 leseN DAN peRMit
 
@@ -140,7 +140,7 @@ Permit eksport
 
 46. pembatalan permit eksport
 
-## Bahagian iV
+## BAHAGIAN IV
 
 ## RAYUAN
 
@@ -148,7 +148,7 @@ Permit eksport
 
 <!-- page 4 -->
 
-## Bahagian V
+## BAHAGIAN V
 
 peNGUAtKUAsAAN
 
@@ -190,7 +190,7 @@ peNGUAtKUAsAAN
 
 66. pelantikan juruanalisis
 
-## Bahagian Vi
+## BAHAGIAN VI
 
 AM
 
@@ -232,13 +232,15 @@ suatu Akta untuk mengawal selia peranti perubatan, industri dan untuk mengadakan
 
 DIPERBUAT oleh parlimen Malaysia seperti yang berikut:
 
-## Bahagian i
+## BAHAGIAN I
 
 peRMUlAAN
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
-1. (1) Akta ini bolehlah dinamakan Akta peranti perubatan 2011.
+1. (1) Akta ini bolehlah dinamakan Akta peranti perubatan
+
+2011.
 
 (2) Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
 
@@ -326,7 +328,7 @@ yang tidak mencapai tindakan utama yang diniatkan baginya di dalam atau pada tub
 
 <!-- page 11 -->
 
-## Bahagian ii
+## BAHAGIAN II
 
 peNDAftARAN peRANti peRUbAtAN DAN bADAN peNilAiAN peMAtUHAN
 
@@ -488,7 +490,7 @@ Pendaftaran badan penilaian pematuhan
 
 (3) sesuatu badan penilaian pematuhan yang pendaftarannya dibatalkan tidak berhak kepada apa-apa pampasan bagi apa-apa kerugian yang disebabkan kepadanya oleh pembatalan itu dan tidak berhak kepada apa-apa pembayaran balik fi pendaftaran yang ditetapkan yang telah dibayar di bawah seksyen 12.
 
-## Bahagian iii
+## BAHAGIAN III
 
 leseN DAN peRMit
 
@@ -888,7 +890,7 @@ Permit eksport
 
 (4) seseorang pemegang permit yang permit eksportnya dibatalkan tidak berhak kepada apa-apa pampasan bagi apa-apa kerugian yang disebabkan kepadanya oleh pembatalan permit eksport itu.
 
-## Bahagian iV
+## BAHAGIAN IV
 
 ## RAYUAN
 
@@ -902,7 +904,7 @@ Permit eksport
 
 (3) Keputusan Menteri mengenai apa-apa rayuan di bawah subseksyen (1) adalah muktamad dan mengikat.
 
-## Bahagian V
+## BAHAGIAN V
 
 peNGUAtKUAsAAN
 
@@ -1130,7 +1132,7 @@ berkomputer, radas, kelengkapan, peranti, jentera, kenderaan, perkara atau benda
 
 <!-- page 45 -->
 
-## Bahagian Vi
+## BAHAGIAN VI
 
 AM
 
@@ -1330,7 +1332,7 @@ HURAiAN
 
 Rang Undang-Undang peranti perubatan 2011 (“Akta yang dicadangkan”) bertujuan untuk mengawal selia peranti perubatan, industri dan untuk mengadakan peruntukan bagi perkara-perkara yang berkaitan dengannya.
 
-## Bahagian i
+## BAHAGIAN I
 
 2. bahagian i Akta yang dicadangkan mengandungi peruntukan permulaan.
 
@@ -1338,7 +1340,7 @@ Rang Undang-Undang peranti perubatan 2011 (“Akta yang dicadangkan”) bertujua
 
 4. Fasal 2 mentakrifkan perkataan dan ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian ii
+## BAHAGIAN II
 
 5. bahagian ii Akta yang dicadangkan memperuntukkan pendaftaran peranti perubatan dan badan penilaian pematuhan.
 
@@ -1370,7 +1372,7 @@ Rang Undang-Undang peranti perubatan 2011 (“Akta yang dicadangkan”) bertujua
 
 <!-- page 55 -->
 
-## Bahagian iii
+## BAHAGIAN III
 
 18. bahagian iii mengandungi peruntukan yang berhubungan dengan lesen establismen, permit peranti perubatan ditetapkan, kewajipan dan obligasi pemegang lesen dan permit, kewajipan am dan permit eksport.
 
@@ -1444,11 +1446,11 @@ Rang Undang-Undang peranti perubatan 2011 (“Akta yang dicadangkan”) bertujua
 
 <!-- page 58 -->
 
-## Bahagian iV
+## BAHAGIAN IV
 
 51. Fasal 47 bertujuan untuk membenarkan mana-mana orang yang terkilan dengan keputusan pihak berkuasa di bawah fasal 7, 9, 12, 14, 18, 22, 24, 30, 33, 35, 45 atau 46 untuk merayu kepada Menteri mengikut cara yang ditetapkan dan dalam tempoh yang ditetapkan.
 
-## Bahagian V
+## BAHAGIAN V
 
 52. bahagian V Akta yang dicadangkan mengandungi peruntukan penguatkuasaan.
 
@@ -1490,7 +1492,7 @@ Rang Undang-Undang peranti perubatan 2011 (“Akta yang dicadangkan”) bertujua
 
 70. Fasal 66 memberi pihak berkuasa kuasa untuk melantik mana-mana orang yang berkelayakan menjadi juruanalisis untuk menjalankan analisis di bawah Akta yang dicadangkan.
 
-## Bahagian Vi
+## BAHAGIAN VI
 
 71. bahagian Vi Akta yang dicadangkan mengandungi peruntukan am.
 

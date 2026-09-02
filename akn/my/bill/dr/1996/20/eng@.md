@@ -56,9 +56,7 @@ B. 7 Prime Minister's Department
 
 <!-- page 2 -->
 
-Purpose Title
-
-<!-- marginal: Appropriation -->
+Purpose Title Appropriation
 
 <!-- marginal: to Purpose -->
 
@@ -114,7 +112,7 @@ B. 50 Ministry of Entrepreneur Development
 
 ## TOTAL
 
-<!-- marginal: 697,401,320 -->
+697,401,320
 
 ## EXPLANATORY STATEMENT
 

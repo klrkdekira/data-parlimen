@@ -52,7 +52,11 @@ Commission Act 1993;';
 
 (c) by inserting after the definition of "information" the following definition:
 
-' "Investigating Officer" means an officer of the Commission appointed under subsection Act 498. 35(1) of the Securities Commission Act 1993;';
+' "Investigating Officer" means an officer of the Commission appointed under subsection
+
+<!-- marginal: Act 498. -->
+
+35(1) of the Securities Commission Act 1993;';
 
 (d) by deleting the definition of "Registrar";
 
@@ -96,7 +100,15 @@ who may be given access to a computer system of the central depository;'.
 
 <!-- marginal: of section 3. -->
 
-3 the following section: "Associated 3. (1) No person shall establish, maintain, person. operate or hold himself out as providing, maintaining or operating a system for the central handling of securities, whether or not listed on any stock exchange—
+3 the following section:
+
+<!-- marginal: "Associated -->
+
+3. (1) No person shall establish, maintain,
+
+<!-- marginal: person. -->
+
+operate or hold himself out as providing, maintaining or operating a system for the central handling of securities, whether or not listed on any stock exchange—
 
 (a) whereby all such securities are deposited with and held in custody by, or registered in the name of, the person or his nominee for the depositors and dealings in respect of those securities are effected by means of entries in accounts without the physical delivery of scrips; or
 
@@ -116,19 +128,35 @@ who may be given access to a computer system of the central depository;'.
 
 (3) A person who contravenes the provisions of subsection (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten million ringgit or to imprisonment for a term not exceeding ten years or to both.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Subsection 5(1) of the principal Act is amended by of section 5. substituting paragraph (a) with the following paragraph:
+4. Subsection 5(1) of the principal Act is amended by
 
-"(a) that the applicant is a company incorporated Act 125. under the Companies Act 1965, and a stock exchange is a shareholder of the applicant;".
+<!-- marginal: of section 5. -->
 
-Amendment
+substituting paragraph (a) with the following paragraph:
 
-5. Subsection 6(2) of the principal Act is amended in of section 6. subparagraph (c)(i) by substituting for the words "the Capital Issues Committee established under the Securities Industry Act 1983" the words "the Commission".
+"(a) that the applicant is a company incorporated
 
-Substitution
+<!-- marginal: Act 125. -->
 
-6. The principal Act is amended by substituting for section of section 7. 7 the following section:
+under the Companies Act 1965, and a stock exchange is a shareholder of the applicant;".
+
+<!-- marginal: Amendment -->
+
+5. Subsection 6(2) of the principal Act is amended in
+
+<!-- marginal: of section 6. -->
+
+subparagraph (c)(i) by substituting for the words "the Capital Issues Committee established under the Securities Industry Act 1983" the words "the Commission".
+
+<!-- marginal: Substitution -->
+
+6. The principal Act is amended by substituting for section
+
+<!-- marginal: of section 7. -->
+
+7 the following section:
 
 "Commission 7. (1) If a central depository proposes to make to approve amendments to its rules, the central depository amendment to rules shall submit to the Commission— of central depository.
 
@@ -162,9 +190,11 @@ Provided that this subsection shall not have effect until a reasonable time has 
 
 (8) A central depository which fails to comply with the provisions of subsection (1) or which fails to comply with a requirement or written notice made under subsection (5) or (7) respectively shall be guilty of an offence.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-7. Section 10 of the principal Act is amended— of section
+7. Section 10 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 10.
 
@@ -178,15 +208,13 @@ Amendment
 
 (i) by substituting for the words "the Registrar" the words "a person acting on behalf of or authorised by the Commission"; and
 
-(ii) by substituting for the words "fifty thousand ringgit or to imprisonment for a term not exceeding one year" the words "one hundred thousand ringgit or
+(ii) by substituting for the words "fifty thousand ringgit or to imprisonment for a term not exceeding one year" the words "one hundred thousand ringgit or to imprisonment for a term not exceeding three years".
 
-<!-- marginal: to -->
+<!-- marginal: Amendment -->
 
-imprisonment for a term not exceeding three years".
+8. Section 13 of the principal Act is amended—
 
-Amendment
-
-8. Section 13 of the principal Act is amended— of section 13.
+<!-- marginal: of section 13. -->
 
 (a) in paragraph (1)(e) by substituting for the words "prescribed by the Minister under this Act" the words "specified by the rules of a central depository"; and
 
@@ -224,9 +252,11 @@ Amendment
 
 <!-- page 8 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-11. Section 17 of the principal Act is amended— of section 17.
+11. Section 17 of the principal Act is amended—
+
+<!-- marginal: of section 17. -->
 
 (a) in subsection (1) by inserting after the words "stock market" the words "of a stock exchange";
 
@@ -242,9 +272,11 @@ Amendment
 
 " (3) Notwithstanding the provisions of subsection (2), a prescribed security which is deposited by a depositor with the central depository shall be capable of being utilised to settle a transaction which took place on a stock market of a stock exchange prior to the date of deposit of that prescribed security if the issuer registers the transfer of the security underlying such scrip in the name of the central depository or its nominee company and delivers the appropriate certificate to the central depository before the date for settlement of the transaction in accordance with the rules of the stock exchange.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-12. Section 23 of the principal Act is amended— of section
+12. Section 23 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 23.
 
@@ -294,17 +326,57 @@ substituting for the words "prescribed under this Act" the words "provided in th
 
 (e) in subsection (6) by substituting for the word "Registrar" the word "Commission".
 
-Amendment
+<!-- marginal: Amendment -->
 
-16. Subsection 34(6) of the principal Act is amended by of section 34. substituting for the word "Registrar" the word "Commission".
+16. Subsection 34(6) of the principal Act is amended by
 
-Substitution
+<!-- marginal: of section 34. -->
 
-17. The principal Act is amended by substituting for of section 35. section 35 the following section:
+substituting for the word "Registrar" the word "Commission".
 
-"A depositor 35. (1) Subject to subsection 41(2) and notwithstanding the provisions of the Companies to be treated Act 1965, a depositor of any deposited security as if he were a whose name appears in the record of depositors member. shall be entitled to all rights, benefits, powers Act 125. and privileges and be subject to all liabilities, duties and obligations in respect of, or arising from, such security (whether conferred or imposed by the Companies Act 1965, or the memorandum or articles of association of the issuer, or otherwise) as if he were a member registered in the register of members or a holder registered in the register of debenture holders maintained by the issuer of such security or a holder registered in the register of interest holders maintained by a management company, as the case may be, Act 125. pursuant to the Companies Act 1965, instead of the central depository, or its nominee company, in whose name the deposited security is registered.
+<!-- marginal: Substitution -->
 
-(2) Notwithstanding the provisions of subsection (1), nothing in this section shall be construed so as to deem a record of depositors to be a register of members maintained pursuant Act 125 to section 158 of the Companies Act 1965, a register of debenture holders maintained pursuant Act 125. to section 70 of the Companies Act 1965 or a register of interest holders maintained pursuant Act 125. to section 92 of the Companies Act 1965.
+17. The principal Act is amended by substituting for
+
+<!-- marginal: of section 35. -->
+
+section 35 the following section:
+
+<!-- marginal: "A depositor -->
+
+35. (1) Subject to subsection 41(2) and notwithstanding the provisions of the Companies to be treated Act 1965, a depositor of any deposited security
+
+<!-- marginal: as if he -->
+
+<!-- marginal: were a -->
+
+whose name appears in the record of depositors
+
+<!-- marginal: member. -->
+
+shall be entitled to all rights, benefits, powers
+
+<!-- marginal: Act 125. -->
+
+and privileges and be subject to all liabilities, duties and obligations in respect of, or arising from, such security (whether conferred or imposed by the Companies Act 1965, or the memorandum or articles of association of the issuer, or otherwise) as if he were a member registered in the register of members or a holder registered in the register of debenture holders maintained by the issuer of such security or a holder registered in the register of interest holders maintained by a management company, as the case may be,
+
+<!-- marginal: Act 125. -->
+
+pursuant to the Companies Act 1965, instead of the central depository, or its nominee company, in whose name the deposited security is registered.
+
+(2) Notwithstanding the provisions of subsection (1), nothing in this section shall be construed so as to deem a record of depositors to be a register of members maintained pursuant
+
+<!-- marginal: Act 125 -->
+
+to section 158 of the Companies Act 1965, a register of debenture holders maintained pursuant
+
+<!-- marginal: Act 125. -->
+
+to section 70 of the Companies Act 1965 or a register of interest holders maintained pursuant
+
+<!-- marginal: Act 125. -->
+
+to section 92 of the Companies Act 1965.
 
 <!-- page 11 -->
 
@@ -338,9 +410,11 @@ in respect of, or arising from, the suspension of such a security, shall be as p
 
 <!-- page 12 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-19. Section 45 of the principal Act is amended— of section 45.
+19. Section 45 of the principal Act is amended—
+
+<!-- marginal: of section 45. -->
 
 (a) in the marginal note by substituting for the words "Ord. 61/58." the words "Act 519";
 
@@ -350,29 +424,45 @@ Amendment
 
 (d) in subsection (2) by inserting after the word "Minister" the words "or the Commission".
 
-Amendment
+<!-- marginal: Amendment -->
 
-20. Section 46 of the principal Act is amended— of section 46.
+20. Section 46 of the principal Act is amended—
+
+<!-- marginal: of section 46. -->
 
 (a) in subsection (1) by substituting for the words "prescribed by the Minister by regulations made under this Act" the words "specified in the rules of the central depository"; and
 
 (b) in paragraph (3)(a) by inserting at the end of the paragraph the words "or under any regulations made by the Minister under paragraph 63(2)(r).".
 
-Amendment
+<!-- marginal: Amendment -->
 
-21. Subsection 49(2) of the principal Act is amended by of section 49. substituting for the word "three" the word "ten".
+21. Subsection 49(2) of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 49. -->
 
-22. Section 51 of the principal Act is amended by of section 51. substituting for the words "twenty-five thousand ringgit" and "six months" the words "five hundred thousand ringgit" and "five years" respectively.
+substituting for the word "three" the word "ten".
 
-Amendment
+<!-- marginal: Amendment -->
 
-23. Section 52 of the principal Act is amended by of section 52. substituting for the word "Registrar" the word "Commission".
+22. Section 51 of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 51. -->
 
-24. Section 53 of the principal Act is amended— of section
+substituting for the words "twenty-five thousand ringgit" and "six months" the words "five hundred thousand ringgit" and "five years" respectively.
+
+<!-- marginal: Amendment -->
+
+23. Section 52 of the principal Act is amended by
+
+<!-- marginal: of section 52. -->
+
+substituting for the word "Registrar" the word "Commission".
+
+<!-- marginal: Amendment -->
+
+24. Section 53 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 53.
 
@@ -440,23 +530,33 @@ shall be guilty of an offence and shall, on conviction, be liable to a fine not 
 
 (ii) by substituting for the words "fifty thousand ringgit" and "one year" the words "one million ringgit" and "ten years" respectively.
 
-Amendment
+<!-- marginal: Amendment -->
 
-28. Section 57 of the principal Act is amended by of section substituting for the word "Registrar" wherever it appears
+28. Section 57 of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+substituting for the word "Registrar" wherever it appears
 
 57. the words "the Commission".
 
-Amendment
+<!-- marginal: Amendment -->
 
-29. Section 58 of the principal Act is amended— of section 58.
+29. Section 58 of the principal Act is amended—
+
+<!-- marginal: of section 58. -->
 
 (a) in paragraph (1)(a) by substituting for the word "Registrar" the word "Commission"; and
 
 (b) in subsection (3) by substituting for the words "five hundred thousand ringgit" and "two" the words "one million ringgit" and "ten" respectively.
 
-Substitution
+<!-- marginal: Substitution -->
 
-30. The principal Act is amended by substituting for of section section 59 the following section:
+30. The principal Act is amended by substituting for
+
+<!-- marginal: of section -->
+
+section 59 the following section:
 
 59.
 
@@ -492,7 +592,13 @@ section 61 the following section:
 
 <!-- marginal: 61. -->
 
-"Criminal 61. (1) No prosecution for any offence under prosecution. this Act shall be instituted except with the consent in writing of the Public Prosecutor.
+<!-- marginal: "Criminal -->
+
+61. (1) No prosecution for any offence under
+
+<!-- marginal: prosecution. -->
+
+this Act shall be instituted except with the consent in writing of the Public Prosecutor.
 
 (2) Any officer of the Commission who is authorised by the Chairman of the Commission may conduct any prosecution of any offence under this Act.
 
@@ -510,7 +616,13 @@ Securities Commission Act 1993.".
 
 62 the following section:
 
-"Power of 62A. (1) The Minister may, if he considers it exemption. not inconsistent with the purposes of this Act or in the interest of the public or investing public, by order published in the Gazette, exempt any
+<!-- marginal: "Power of -->
+
+62A. (1) The Minister may, if he considers it
+
+<!-- marginal: exemption. -->
+
+not inconsistent with the purposes of this Act or in the interest of the public or investing public, by order published in the Gazette, exempt any
 
 <!-- page 16 -->
 
@@ -522,9 +634,11 @@ particular person or particular security, or any class, category or description 
 
 (2) An exemption under subsection (1) shall be granted for such duration, and may be subject to such limitations, restrictions or conditions, as the Minister may specify in the order.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-34. Section 63 of the principal Act is amended— of section 63.
+34. Section 63 of the principal Act is amended—
+
+<!-- marginal: of section 63. -->
 
 (a) in paragraph (2)(d) by inserting after the words "section 41" the words ", including the rights, benefits, powers, privileges, liabilities, duties and obligations of a depositor in respect of or arising from the suspension of such a security;";
 
@@ -534,13 +648,25 @@ Amendment
 
 (d) by deleting paragraph (2)(q).
 
-Deletion of
+<!-- marginal: Deletion of -->
 
-35. The principal Act is amended by deleting section 65. section 65.
+35. The principal Act is amended by deleting
 
-Transitional
+<!-- marginal: section 65. -->
 
-36. (1) All actions, regulations, orders, directions, and savings notifications, approvals, decisions and other executive provision acts, howsoever called, made, given, or done under, or in accordance with, or by virtue of, the principal Act before the commencement of this Act shall be deemed to have been made, given, or done under, or in accordance with, or by virtue of, the corresponding provision of this Act, and shall continue to remain in full force and effect in relation to the persons to whom they apply until amended, repealed, or rescinded under, in accordance with, or by virtue of, the corresponding provisions of this Act.
+section 65.
+
+<!-- marginal: Transitional -->
+
+36. (1) All actions, regulations, orders, directions,
+
+<!-- marginal: and savings -->
+
+notifications, approvals, decisions and other executive
+
+<!-- marginal: provision -->
+
+acts, howsoever called, made, given, or done under, or in accordance with, or by virtue of, the principal Act before the commencement of this Act shall be deemed to have been made, given, or done under, or in accordance with, or by virtue of, the corresponding provision of this Act, and shall continue to remain in full force and effect in relation to the persons to whom they apply until amended, repealed, or rescinded under, in accordance with, or by virtue of, the corresponding provisions of this Act.
 
 (2) Any proceedings, whether civil or criminal, or cause of action pending or existing immediately before the commencement of this Act by or against the Registrar of Companies or any other person acting on behalf of the
 

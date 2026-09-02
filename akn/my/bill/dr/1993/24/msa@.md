@@ -8,33 +8,45 @@
 
 bernama
 
-Suatu Akta untuk meminda Akta Perkhidmatan Bomba
-
-1988.
+Suatu Akta untuk meminda Akta Perkhidmatan Bomba 1988.
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 
 oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
 
-Tajuk
+<!-- marginal: Tajuk -->
 
-1. Akta ini bolehlah dinamakan Akta Perkhidmatan ringkas. Bomba (Pindaan) 1993.
+1. Akta ini bolehlah dinamakan Akta Perkhidmatan
 
-Pindaan am.
+<!-- marginal: ringkas. -->
 
-2. Akta Perkhidmatan Bomba 1988, yang dalam Akta Akta 341. ini disebut "Akta ibu", adalah dipinda dengan memasukkan, selepas sahaja perkataan "Jadual" atau "JADUAL" masing-masing di mana-mana jua terdapat dalam Akta ibu perkataan "Pertama" atau "PERTAMA".
+Bomba (Pindaan) 1993.
 
-Pindaan
+<!-- marginal: Pindaan am. -->
 
-3. Seksyen 3 Akta ibu adalah dipinda dengan seksyen 3. memasukkan, selepas sahaja subseksyen (5), subseksyen baru (6) yang berikut:
+2. Akta Perkhidmatan Bomba 1988, yang dalam Akta
+
+<!-- marginal: Akta 341. -->
+
+ini disebut "Akta ibu", adalah dipinda dengan memasukkan, selepas sahaja perkataan "Jadual" atau "JADUAL" masing-masing di mana-mana jua terdapat dalam Akta ibu perkataan "Pertama" atau "PERTAMA".
+
+<!-- marginal: Pindaan -->
+
+3. Seksyen 3 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 3. -->
+
+memasukkan, selepas sahaja subseksyen (5), subseksyen baru (6) yang berikut:
 
 "(6) Pangkat Pegawai Bomba dan Pegawai Bomba Bantuan adalah seperti yang dinyatakan dalam Jadual Kedua.".
 
 <!-- page 2 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Seksyen 7 Akta ibu adalah dipinda— seksyen 7.
+4. Seksyen 7 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 7. -->
 
 (a) dengan memasukkan, selepas sahaja perkataan "29," dalam subseksyen (1), perkataan "35A,"; dan
 
@@ -42,11 +54,55 @@ Pindaan
 
 "(2) Tertakluk kepada peruntukan- peruntukan subseksyen (1) dan tertakluk kepada apa-apa syarat atau sekatan yang difikirkan patut oleh Ketua Pengarah, Ketua Pengarah boleh, secara bertulis, mewakilkan penjalanan mana-mana kuasanya atau pelaksanaan mana-mana tugasnya di bawah Akta ini kepada mana-mana Pegawai Bomba, dan jika Ketua Pengarah bertindak di bawah subseksyen ini, dia hendaklah menyatakan had-had kawasan dan tempoh masa bidang kuasa yang diwakilkan.".
 
-5. Akta ibu adalah dipinda dengan memasukkan, selepas baru 35A sahaja seksyen 35, seksyen baru 35A dan 35B yang dan 35B. berikut: Kuasa
+<!-- marginal: Seksyen -->
 
-35A. (1) Walau apa pun peruntukan- Ketua peruntukan Akta ini, jika Ketua Pengarah Pengarah untuk berpuas hati bahawa— meme- rmtahkan
+5. Akta ibu adalah dipinda dengan memasukkan, selepas
 
-(a) apa-apa kegiatan yang berterusan dalam kegiatan mana-mana premis akan menimbulkan dihentikan dalam bahaya kebakaran serta-merta yang kes-kes memudaratkan keselamatan nyawa atau mendesak. harta; dan
+<!-- marginal: baru 35A -->
+
+sahaja seksyen 35, seksyen baru 35A dan 35B yang
+
+<!-- marginal: dan 35B. -->
+
+<!-- marginal: berikut: -->
+
+<!-- marginal: Kuasa -->
+
+35A. (1) Walau apa pun peruntukan-
+
+<!-- marginal: Ketua -->
+
+peruntukan Akta ini, jika Ketua Pengarah
+
+<!-- marginal: Pengarah -->
+
+<!-- marginal: untuk -->
+
+berpuas hati bahawa—
+
+<!-- marginal: meme- -->
+
+<!-- marginal: rmtahkan -->
+
+(a) apa-apa kegiatan yang berterusan dalam
+
+<!-- marginal: kegiatan -->
+
+mana-mana premis akan menimbulkan
+
+<!-- marginal: dihentikan -->
+
+<!-- marginal: dalam -->
+
+bahaya kebakaran serta-merta yang
+
+<!-- marginal: kes-kes -->
+
+memudaratkan keselamatan nyawa atau
+
+<!-- marginal: mendesak. -->
+
+harta; dan
 
 (b) kelewatan dalam memohon dan mendapatkan suatu perintah larangan di bawah seksyen 35(2) akan dengan nyatanya meningkatkan risiko pada nyawa atau harta itu,
 
@@ -56,15 +112,13 @@ dia boleh, melalui perintah, mengarahkan pemunya atau penghuni premis itu supaya
 
 ## PERKHIDMATAN BOMBA (PINDAAN)
 
-3
+<!-- marginal: 3 -->
 
 (2) Sesuatu perintah untuk menghentikan kegiatan hendaklah dalam Borang G dan hendaklah disampaikan kepada pemunya dan penghuni premis itu kedua-duanya.
 
 (3) Mana-mana orang yang tidak mematuhi sesuatu perintah Ketua Pengarah yang dibuat di bawah subseksyen (1) adalah melakukan suatu kesalahan.
 
-Rayuan
-
-35B. (1) Seseorang pemunya atau penghuni terhadap yang tidak berpuas hati dengan sesuatu perintah perintah Ketua supaya menghentikan kegiatan yang dibuat oleh Pengarah Ketua Pengarah di bawah seksyen 35A(1) supaya meng- boleh, dalam masa sepuluh hari dari pembuatan hentikan perintah itu, merayu kepada Mahkamah Tinggi. kegiatan.
+Rayuan 35B. (1) Seseorang pemunya atau penghuni terhadap yang tidak berpuas hati dengan sesuatu perintah perintah Ketua supaya menghentikan kegiatan yang dibuat oleh Pengarah Ketua Pengarah di bawah seksyen 35A(1) supaya meng- boleh, dalam masa sepuluh hari dari pembuatan hentikan perintah itu, merayu kepada Mahkamah Tinggi. kegiatan.
 
 (2) Sesuatu rayuan terhadap perintah supaya menghentikan kegiatan tidaklah berkuatkuasa sebagai suatu penggantungan pelaksanaan, tetapi mahkamah boleh, atas permohonan dan apabila diberi sebab yang mencukupi, membenarkan penggantungan pelaksanaan atas apa-apa terma yang difikirkanriya patut".
 
@@ -76,9 +130,7 @@ Rayuan
 
 sahaja seksyen 48A, seksyen baru 48B yang berikut:
 
-Wang bagi
-
-48B. (1) Tiada seorang pun boleh menjalankan Kumpulan apa-apa kegiatan untuk memperdapatkan wang Wang hendaklah bagi Kumpulan Wang tanpa terlebih dahulu diper- mendapat kebenaran bertulis daripada dapatkan hanya Jawatankuasa. dengan kebenaran. (2) Mana-mana orang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan.".
+Wang bagi 48B. (1) Tiada seorang pun boleh menjalankan Kumpulan apa-apa kegiatan untuk memperdapatkan wang Wang hendaklah bagi Kumpulan Wang tanpa terlebih dahulu diper- mendapat kebenaran bertulis daripada dapatkan hanya Jawatankuasa. dengan kebenaran. (2) Mana-mana orang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan.".
 
 <!-- marginal: Pmdaan -->
 
@@ -92,13 +144,17 @@ memasukkan, selepas sahaja perenggan (c) dalam subseksyen (1), perenggan baru (c
 
 <!-- page 4 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
 8. Jadual Pertama Akta ibu adalah dipinda dengan
 
 ## Jadual
 
-memasukkan, selepas sahaja Borang F, Borang G baru Pertama. yang berikut:
+memasukkan, selepas sahaja Borang F, Borang G baru
+
+<!-- marginal: Pertama. -->
+
+yang berikut:
 
 ## BORANG G
 
@@ -130,11 +186,15 @@ Bertarikh....,.....haribulan ........................19.........
 
 ## PERKHIDMATAN BOMBA (PINDAAN)
 
-5
+<!-- marginal: 5 -->
 
 ## Jadual Kedua
 
-9. Akta ibu adalah dipinda dengan memasukkan, selepas baru. sahaja Jadual Pertama, Jadual Kedua baru yang berikut:
+9. Akta ibu adalah dipinda dengan memasukkan, selepas
+
+<!-- marginal: baru. -->
+
+sahaja Jadual Pertama, Jadual Kedua baru yang berikut:
 
 ## JADUAL KEDUA
 
@@ -182,7 +242,9 @@ ini adalah perlu disebabkan oleh kemasukan suatu Jadual Kedua baru dalam Rang Un
 
 ### 7
 
-10. Fasal 9 bertujuan memasukkan suatu Jadual Kedua baru yang menyatakan pangkat Pegawai Bomba dan juga Pegawai Bomba Bantuan.
+10. Fasal 9 bertujuan memasukkan suatu Jadual Kedua baru yang menyatakan pangkat Pegawai Bomba dan juga Pegawai Bomba
+
+<!-- marginal: Bantuan. -->
 
 ## 1MPLIKASI KEWANGAN
 

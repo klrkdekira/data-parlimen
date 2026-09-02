@@ -1,0 +1,1670 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-33-2012",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_46"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Hakmilik Strata (Pindaan) 2012"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_1__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 9 seksyen yang berikut: “Permohonan bagi pecah bahagi dalam hal pembangunan berperingkat-peringkat 9a. Suatu permohonan di bawah subseksyen 9(1), kecuali jika ia berhubung dengan bangunan kos rendah, hendaklah termasuk suatu permohonan bagi pengeluaran hakmilik strata sementara bagi blok sementara yang berkenaan dengan bangunan atau tanah, yang merupakan bangunan atau tanah yang boleh dipecahbahagikan mengikut subseksyen 6(1) atau (1a), yang dicadangkan untuk, atau sedang, didirikan di atas lot yang berkenaan. Permohonan bagi pecah bahagi dalam hal bangunan- bangunan kos rendah 9b. (1) Pihak Berkuasa Negeri boleh, atas permohonan oleh seseorang pemilik mana-mana tanah beri hakmilik atau pada bila-bila masa atas kehendaknya sendiri, dengan mengambil kira lokasi, jenis pembinaan dan kos bangunan itu, mengklasifikasikannya sebagai bangunan kos rendah. (2) Tanpa menjejaskan subseksyen (1), Pihak Berkuasa Negeri boleh mengklasifikasikan mana-mana jenis bangunan sebagai bangunan kos rendah. (3) Apabila mengklasifikasikan mana-mana bangunan sebagai bangunan kos rendah, Pihak Berkuasa Negeri hendaklah mengeluarkan suatu perakuan kepada pemilik tanah beri hakmilik itu. (4) Apabila diterima perakuan yang dikeluarkan oleh Pihak Berkuasa Negeri, pemilik tanah beri hakmilik itu hendaklah memohon untuk memecahbahagikan bangunan itu di bawah subseksyen 9(1). (5) Tiada bangunan yang didirikan dalam suatu blok sementara boleh diklasifikasikan sebagai suatu bangunan kos rendah.”. Penggantian seksyen 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 10 dengan seksyen yang berikut: “Syarat-syarat bagi kelulusan 10. (1) Pengarah tidak boleh meluluskan pecah bahagi mana- mana bangunan atau tanah kepada petak-petak melainkan jika syarat-syarat yang berikut telah dipenuhi: (a) bahawa Pengarah Ukur telah mengeluarkan sijil cadangan pelan strata; (b) bahawa pecah bahagi itu tidak akan melanggar apa- apa syarat atau sekatan kepentingan yang tanah yang terkandung dalam lot itu adalah tertakluk kepadanya pada masa itu; (c) bahawa pecah bahagi itu tidak akan bertentangan dengan peruntukan mana-mana undang-undang bertulis yang sedang berkuat kuasa, dan bahawa apa-apa kehendak yang dikenakan mengenainya oleh atau di bawah mana-mana undang-undang bertulis itu telah dipatuhi; (d) bahawa tidak ada butiran hasil tanah yang belum dibayar berkenaan dengan tanah itu; (e) bahawa keizinan secara bertulis mengenai pembuatan permohonan itu telah diperoleh daripada tiap-tiap orang yang pada masa kelulusan itu dipohonkan, adalah berhak mendapat faedah daripada pajakan keseluruhan atau mana-mana bahagian tanah itu, selain sebahagian yang betul-betul menepati, atau termasuk dalam, salah satu daripada petak-petak yang akan wujud setelah dipecah bahagi; (f) bahawa, jika tanah yang di atasnya bangunan atau bangunan-bangunan itu terdiri dipegang untuk tempoh beberapa tahun, masih terdapat suatu tempoh tidak kurang daripada dua puluh satu tahun untuk tamat; (g) bahawa tanah yang di atasnya bangunan atau bangunan- bangunan itu terdiri tidak tertakluk kepada apa-apa gadaian atau lien; (h) bahawa unit syer yang dicadangkan yang diuntukkan kepada petak-petak itu dan blok sementara dan petak tanah sementara oleh pemilik lot dalam permohonannya dalam Borang 1 adalah saksama; dan (i) bahawa tanah itu dipegang di bawah hakmilik tetap. (2) Dalam hal sesuatu permohonan yang melibatkan blok atau blok-blok sementara menurut kuasa seksyen 9a, Pengarah tidak boleh meluluskan pecah bahagi mana-mana bangunan yang dimaksudkan oleh permohonan itu melainkan jika syarat-syarat tambahan yang berikut dipenuhi: (a) bahawa telah diperakui oleh juruukur tanah yang kedudukan setiap blok sementara sebagaimana yang ditandakan di atas pelan lokasi adalah keseluruhannya dalam sempadan lot yang berkenaan; (b) bahawa kuantum unit-unit syer sementara yang diuntukkan kepada setiap blok sementara oleh pemilik lot itu dalam permohonannya dalam Borang 1 adalah saksama; dan (c) bahawa pemilik itu— (i) telah memberikan tarikh bila yang dia mengaku janji bahawa pembinaan bangunan atau setiap bangunan yang dimaksudkan oleh blok atau blok-blok sementara itu akan disiapkan; (ii) telah membayar kepada Pengarah berkenaan dengan setiap blok sementara suatu deposit dengan amaun yang munasabah sebagaimana yang dikehendaki oleh Pengarah itu; dan (iii) telah memberi suatu pernyataan bertulis yang bermaksud bahawa dia bersetuju amaun itu dilucuthakkan kepada kerajaan jika sekiranya, tidak lewat dari tarikh itu atau tidak lewat dari suatu tarikh yang terkemudianyang dibenarkan oleh Pengarah, pembinaan bangunan yang dimaksudkan oleh blok sementara itu tidak siap atau, jika telah siap perakuan siap dan pematuhan belum dikeluarkan.”. Pemotongan seksyen 10a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 10a. Pemotongan seksyen 10b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 10b. Pindaan seksyen 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_14__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_14__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 11 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula seksyen sedia ada sebagai subseksyen (1) seksyen itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “subseksyen 10(1) tidaklah boleh” dengan perkataan “subseksyen 9(1) tidak boleh”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_14__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(2) Jika permohonan di bawah subseksyen 9(1) ditarik balik, Pengarah hendaklah memaklumkan kepada Pendaftar atau Pentadbir Tanah yang hendaklah membatal atau menyebabkan untuk dibatal catatan yang diendorskan dalam dokumen hakmilik daftar itu menurut subseksyen 9(3).”. Pindaan seksyen 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_15__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_15__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_15__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 12 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “seksyen 10” dengan perkataan “seksyen 9”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (1)(a), dengan menggantikan perkataan “seksyen 9” dengan perkataan “seksyen 10”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_15__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: “(2) Jika Pengarah telah meluluskan sesuatu permohonan untuk pecah bahagi bangunan atau tanah, dia hendaklah meminta Pengarah Ukur untuk menyediakan atau menyebabkan disediakan pelan strata yang diperakui.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_15__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (3) dengan subseksyen yang berikut: “(3) Jika Pengarah telah menolak mana-mana permohonan itu, dia hendaklah— (a) memberitahu Pentadbir Tanah yang dengan segera memaklumkan pemilik dan membatalkan atau menyebabkan dibatalkan catatan yang diendorskan dalam dokumen hakmilik daftar menurut subseksyen 9(3); dan (b) membayar balik fi bagi penyediaan dan pendaftaran hakmilik strata.”. Pindaan seksyen 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_16__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_16__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_16__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_16__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 13 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Apabila menerima permintaan daripada Pengarah dan setelah dimaklumkan bahawa fi yang disebut dalam perenggan 8a(8)(c) telah dibayar dengan sempurnanya, Pengarah Ukur hendaklah— ”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (1)(a), dengan menggantikan perkataan “pelan lokasi, pelan tingkat dan pelan tandaan” dengan perkataan “pelan strata yang dicadangkan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_16__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_16__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_16__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_16__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_16__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_16__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan memasukkan selepas perkataan “di atasnya;” perkataan “dan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_16__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_16__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan menggantikan perkataan “; dan” dengan noktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_16__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_16__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (c);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_16__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan memotong perkataan “bersama”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_16__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5), dengan menggantikan perkataan “blok itu” dengan perkataan “dan dimensi bangunan atau tingkat bawah tanah yang dikongsi bagi petak tanah, jika ada.”. Pemotongan seksyen 14a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 14a. Pindaan seksyen 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 15 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_18__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_18__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_18__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_18__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (b)(i), dengan menggantikan perkataan “syarat nyata dan sekatan kepentingan” dengan perkataan “syarat nyata, sekatan kepentingan, memorial, endorsan dan catatan-catatan lain”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_18__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_18__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (d) dengan perenggan yang berikut: “ (d) dokumen hakmilik daftar dalam Borang 4 berkenaan dengan petak dan dalam Borang 4a berkenaan dengan blok sementara.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (6), dengan menggantikan perkataan “kaveat itu hendaklah kekal dalam” dengan perkataan “dia boleh, sebagai ganti kepada menyatakan atau meringkaskan kaveat itu, mengendorskan suatu pernyataan dalam Borang 3 yang bermaksud bahawa lot itu tertakluk kepada kaveat yang dimasukkan dalam”. Pindaan seksyen 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_19__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 16 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_19__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_19__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_19__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_19__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan memasukkan selepas perkataan “suatu petak” perkataan “dalam Borang 4”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_19__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_19__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan memasukkan selepas perkataan “suatu blok sementara” perkataan “dalam Borang 4a”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perenggan (b) dengan perenggan yang berikut: “ (b) suatu dokumen hakmilik keluaran, yang mengandungi satu salinan dokumen hakmilik daftar yang padanya hendaklah dikepilkan dengan salinan pelan strata yang diperakui atau folio yang berkaitan bagi pelan itu yang disediakan di bawah perenggan 13(1)(d):” Penggantian seksyen 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Hakmilik Strata (Pindaan) 2012."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kecuali sebagaimana yang diperuntukkan di bawah subseksyen (4), Akta ini mula berkuat kuasa di setiap Negeri pada tarikh yang ditetapkan oleh Menteri, dengan kelulusan Majlis Tanah Negara berhubung dengan negeri itu, melalui pemberitahuan dalam Warta, dan Menteri boleh, dengan kelulusan Majlis Tanah Negara, menetapkan tarikh yang berlainan bagi permulaan kuat kuasa peruntukan yang berlainan dalam Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa di Wilayah Persekutuan Kuala Lumpur, Wilayah Persekutuan Putrajaya dan Wilayah Persekutuan Labuan pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta, dan Menteri boleh menetapkan tarikh yang berlainan bagi permulaan kuat kuasa peruntukan yang berlainan dalam Akta ini. Pindaan mukadimah"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Hakmilik Strata 1985 [Akta 318], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam mukadimah dengan menggantikan perkataan “dan Wilayah Persekutuan Putrajaya” dengan perkataan “,Wilayah Persekutuan Putrajaya dan Wilayah Persekutuan Labuan”. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 17 dengan seksyen yang berikut: “Kesan pembukaan buku daftar strata 17. (1) Pada mengesahkan kenyataan dalam Borang 3 yang perlu terkandung dalam mana-mana buku daftar strata, Pendaftar hendaklah membuat dalam dokumen hakmilik daftar dan dokumen hakmilik keluaran bagi lot berkenaan suatu memorial yang memberi maksud bahawa buku telah dibuka, dan harta bersama adalah terletak hak kepada perbadanan pengurusan yang wujud mengikut subseksyen (3), dan hendaklah mengembalikan dokumen hakmilik keluaran kepada perbadanan itu. (2) Tiada catatan selepas itu boleh dibuat atas mana-mana dokumen hakmilik kecuali yang menyentuh harta bersama. (3) Apabila buku daftar strata dibuka berkenaan dengan sesuatu bangunan atau tanah yang dipecah bahagi maka hendaklah, dengan berkuatkuasanya seksyen ini, wujudlah suatu perbadanan pengurusan yang terdiri daripada semua pemilik petak termasuklah dalam hal pembangunan berperingkat- peringkat, pemilik blok atau blok-blok sementara dan Pendaftar hendaklah mengeluarkan satu perakuan yang memperakui penubuhan perbadanan pengurusan sebagai suatu pertubuhan perbadanan yang ditubuhkan di bawah Akta ini pada hari yang dinyatakan dalam perakuan itu. (4) Perbadanan pengurusan yang diwujudkan menurut kuasa subseksyen (3) hendaklah dikenali dengan nama yang terdapat dalam buku daftar strata yang berhubungan dengan bangunan atau tanah yang dipecah bahagi itu, dan hendaklah menjadi suatu pertubuhan perbadanan yang kekal turun-temurun dan mempunyai suatu meterai biasa dan boleh mendakwa dan didakwa. (5) Dalam hal jika suatu perakuan yang memperakui penubuhan perbadanan pengurusan tidak dikeluarkan semasa buku daftar strata dibuka, perbadanan pengurusan bolehlah memohon kepada Pendaftar dalam Borang 9 untuk mendapatkan suatu perakuan yang memperakui bahawa perbadanan pengurusan telah diwujudkan.”. Seksyen baru 17a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 17 seksyen yang berikut: “Harta bersama terhad dan perbadanan pengurusan subsidiari adalah dibenarkan 17a. (1) Perbadanan pengurusan boleh menetapkan harta bersama terhad dan mewujudkan satu atau lebih perbadanan pengurusan subsidiari hanya bagi maksud mewakili kepentingan yang berbeza-beza bagi pemilik-pemilik petak melalui suatu resolusi komprehensif yang dijalankan di bawah Akta Pengurusan Strata 201__. (2) Harta bersama terhad yang ditetapkan melalui resolusi komprehensif yang diluluskan oleh perbadanan pengurusan hendaklah— (a) memperihalkan, mengenal pasti atau menetapkan sempadan-sempadan atau kawasan harta bersama terhad itu di dalam suatu pelan khas; (b) menentukan setiap petak yang terkandung dalam pelan khas itu yang pemilik petak adalah berhak kepada faedah eksklusif harta bersama terhad itu; dan (c) mematuhi apa-apa butiran lain sebagaimana yang ditetapkan oleh Pengarah Ukur. (3) Perbadanan pengurusan hendaklah membuat permohonan dalam Borang 9 bagi kelulusan Pengarah untuk pengeluaran perakuan perbadanan pengurusan subsidiari bagi harta bersama terhad yang ditetapkan dan hendaklah disertai— (a) apa-apa fi sebagaimana yang ditetapkan; (b) satu salinan resolusi komprehensif bersama dengan perakuan yang ditandatangani oleh Pesuruhjaya yang mengesahkan penerimaan salinan resolusi komprehensif itu yang difailkan kepadanya oleh perbadanan pengurusan; dan (c) suatu pelan khas yang disediakan di bawah subseksyen (2), dan apa-apa pindaan yang diluluskan padanya. (4) Setelah menerima permohonan itu, Pengarah hendaklah selepas itu merujukkan permohonan itu kepada Pengarah Ukur dan Pengarah Ukur hendaklah sesudah itu menyemak pelan khas dan hendaklah— (a) menasihati Pengarah sama ada pelan-pelan itu teratur; dan (b) memberitahu Pengarah akan amaun fi-fi yang hendak dipungut berkenaan dengan kerja-kerja yang telah dilakukan. (5) Pengarah hendaklah sesudah itu sekiranya dia berpuas hati bahawa permohonan itu dan dokumen-dokumen lain yang dikemukakan adalah teratur, menerima dan mengeluarkan satu perakuan yang memperakui bahawa perbadanan pengurusan subsidiari itu adalah suatu pertubuhan perbadanan yang ditubuhkan di bawah Akta ini pada hari yang dinyatakan dalam perakuan itu. (6) Perbadanan pengurusan subsidiari boleh membawa guaman dan dibawa guaman terhadapnya.”. Seksyen baru 19a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 19 seksyen yang berikut: “Pindah hakmilik pemunyaan hakmilik strata 19a. (1) Mana-mana pemilik asal atau mana-mana orang atau badan yang dilantik oleh mahkamah yang mempunyai bidang kuasa berwibawa hendaklah menyempurnakan pemindahan hakmilik strata kepada pembeli dalam masa tiga puluh hari dari tarikh pengeluaran hakmilik strata oleh Pentadbir Tanah atau apa-apa tempoh lanjutan yang diluluskan oleh Pengarah apabila daftar strata dibuka. (2) Mana-mana pembeli hendaklah melaksanakan dokumen hakmilik strata yang lengkap dalam masa tiga puluh hari atau apa-apa tempoh lanjutan yang diluluskan oleh Pengarah dari tarikh notis pemindahan hakmilik strata diserahkan kepada pembeli oleh pemilik asal atau dari tarikh pembelian petak, mengikut mana-mana yang terkemudian. (3) Mana-mana pemilik asal atau mana-mana orang atau badan yang dilantik oleh mahkamah yang mempunyai bidang kuasa berwibawa atau mana-mana pembeli yang tidak mematuhi subseksyen (1) atau (2) melakukan satu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang daripada satu ribu ringgit tetapi tidak lebih daripada sepuluh ribu ringgit bagi setiap petak.”. Pindaan tajuk Bahagian IV"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Tajuk Bahagian IV Akta ibu dipinda dengan menggantikan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perkataan “BLOK SEMENTARA: PENGELUARAN HAKMILIK STRATA SETELAH SIAPNYA BANGUNAN” dengan perkataan “BLOK SEMENTARA: PENGELUARAN HAKMILIK STRATA”. Penggantian seksyen 20"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 20 dengan seksyen yang berikut: “Hal keadaan yang menjadikan wajib bagi pemilik hakmilik strata sementara memohon untuk hakmilik strata 20. (1) Pemilik bagi hakmilik strata sementara hendaklah, dalam tempoh yang dinyatakan dalam subseksyen (2) dan (3), memohon mengikut subseksyen 20a(1) dan 20b(1) bagi pecah bahagi bangunan atau tanah yang boleh dikeluarkan hakmilik strata, jika pada bila-bila masa dia telah menjual atau bersetuju untuk menjual mana-mana petak dalam bangunan atau tanah itu kepada mana-mana orang. (2) Tempoh yang dalamnya kehendak subseksyen (1) hendaklah dipatuhi adalah seperti yang berikut: (a) dalam hal jika penjualan, atau perjanjian untuk menjual, mana-mana petak dalam bangunan atau penjualan atau perjanjian kali pertama itu berlaku dan dokumen yang memperakui peringkat struktur utama dikeluarkan selepas permulaan kuat kuasa Akta ini, tempohnya ialah tiga bulan dari tarikh pengeluaran dokumen yang memperakui peringkat struktur utama itu; (b) dalam hal jika bangunan siap selepas permulaan kuat kuasa Akta ini dan penjualan, atau perjanjian untuk menjual, mana-mana petak dalam bangunan, atau penjualan atau perjanjian pertama itu berlaku sebelum permulaan kuat kuasa Akta ini, tempohnya ialah tiga bulan dari tarikh pengeluaran perakuan siap dan pematuhan; (c) dalam hal di mana bangunan telah siap dan penjualan, atau perjanjian untuk menjual, mana-mana petak dalam bangunan atau penjualan atau perjanjian pertama itu berlaku sebelum permulaan kuat kuasa Akta ini, tempohnya ialah tiga bulan dari tarikh permulaan kuat kuasa Akta ini; (d) dalam hal jika bangunan telah siap sebelum permulaan kuat kuasa Akta ini dan penjualan, atau perjanjian untuk menjual, mana-mana petak dalam bangunan atau penjualan atau perjanjian pertama itu berlaku selepas permulaan kuat kuasa Akta ini, tempohnya ialah tiga bulan dari tarikh penjualan, atau perjanjian untuk menjual, mana-mana petak dalam bangunan atau penjualan atau perjanjian kali pertama itu berlaku. (3) Jika pemilik hakmilik strata sementara belum menjual atau belum bersetuju untuk menjual mana-mana petak dalam suatu bangunan atau tanah itu kepada mana-mana orang dan bangunan atau tanah itu telah dikeluarkan perakuan siap dan pematuhan atau sijil layak menduduki, pemilik hakmilik strata sementara hendaklah— (a) dalam hal jika perakuan siap dan pematuhan atau sijil layak menduduki dikeluarkan selepas permulaan kuat kuasa Akta ini, memohon kepada Pengarah Ukur bagi pengeluaran sijil cadangan pelan strata dalam masa tiga bulan dari pengeluaran perakuan siap dan pematuhan atau sijil layak menduduki; (b) dalam hal jika perakuan siap dan pematuhan atau sijil layak menduduki dikeluarkan sebelum permulaan kuat kuasa Akta ini, pemilik hakmilik strata sementara hendaklah, dalam masa tiga bulan dari permulaan kuat kuasa Akta ini, memohon kepada Pengarah Ukur untuk pengeluaran sijil cadangan pelan strata. (4) Pemilik hakmilik strata sementara bangunan atau tanah yang telah dikeluarkan sijil cadangan pelan strata di bawah subseksyen 20a(8), hendaklah memohon bagi pecah bahagi di bawah subseksyen 20b(1) dalam masa satu bulan dari tarikh pengeluaran sijil cadangan pelan strata. (5) Tempoh yang dinyatakan dalam subseksyen (2) dan (3) boleh, atas permohonan yang dibuat sebelum habis tempohnya, dilanjutkan satu kali oleh Pengarah Ukur bagi apa-apa tempoh lanjut yang tidak melebihi satu bulan. (6) Tempoh yang dinyatakan dalam subseksyen (4) boleh, atas permohonan yang dibuat sebelum tamat tempohnya, dilanjutkan satu kali oleh Pengarah bagi apa-apa tempoh lanjut yang tidak melebihi satu bulan. (7) Permohonan untuk kelulusan Pengarah hendaklah dianggap sebagai tidak dibuat mengikut subseksyen (1) jika permohonan itu cacat disebabkan oleh apa-apa ketidakpatuhan material dengan mana-mana kehendak subseksyen 20b(1) yang berkaitan dengan permohonan itu. (8) Jika sesuatu permohonan tidak dibuat dalam tempoh yang dinyatakan dalam subseksyen (2), (3) dan (4) atau dalam tempoh perlanjutan yang diberikan di bawah subseksyen (5) atau (6) berkenaan dengan sesuatu bangunan atau tanah, pemilik asal adalah melakukan suatu kesalahan. (9) Pemilik hakmilik strata sementara yang melakukan apa- apa kesalahan di bawah subseksyen (7) atau (8) hendaklah, apabila disabitkan, didenda tidak kurang daripada sepuluh ribu ringgit tetapi tidak melebihi satu ratus ribu ringgit atau penjara untuk tempoh tidak melebihi tiga tahun atau kedua- duanya dan, dalam hal kesalahan terus dilakukan, didenda selanjutnya tidak kurang daripada satu ratus ringgit tetapi tidak melebihi satu ribu ringgit bagi setiap hari kesalahan itu terus dilakukan.”. Seksyen 20a dan 20b baru"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 20 seksyen yang berikut: “Permohonan bagi sijil cadangan pelan strata 20a. (1) Pemilik bagi hakmilik strata sementara hendaklah, sebaik sahaja suatu bangunan atau tanah boleh dikeluarkan hakmilik strata, membuat permohonan bagi mendapatkan kelulusan Pengarah Ukur bagi pengeluaran sijil cadangan pelan strata bagi petak-petak dalam masa tiga bulan dari tarikh pengeluaran perakuan dan hendaklah mengemukakan pelan strata yang dicadangkan kepada Pengarah Ukur dengan mengemukakan Borang 10 berserta dengan yang berikut: (a) fi bagi apa-apa pengukuran yang dijalankan atau yang disebabkan untuk dijalankan di bawah subseksyen (8) sebagaimana yang ditentukan oleh Pengarah Ukur; (b) kecuali dalam hal di bawah perenggan (c), salinan asal pelan bangunan yang diluluskan oleh pihak berkuasa perancangan tempatan; (c) jika salinan asal pelan bangunan yang diluluskan oleh pihak berkuasa perancangan tempatan tidak boleh didapati, permohonan di bawah subseksyen ini hendaklah disertai dengan— (i) pelan bangunan, yang diperakui oleh seorang Arkitek Profesional atau seorang juruukur tanah sebagai telah dilukis mengikut ciri-ciri sebenar bangunan itu dan menggambarkan dengan sebenar-benarnya ciri-ciri itu; dan (ii) perakuan daripada seorang pegawai pihak berkuasa perancangan tempatan yang berkenaan yang diberi kuasa sewajarnya bahawa bangunan sebagaimana yang digambarkan dalam pelan yang disebut dalam subperenggan (i), telah didirikan dengan kebenaran perancangan tetapi pelan-pelan dan spesifikasi-spesifikasi yang kepadanya kebenaran itu telah diberi, tidak lagi ada dan bahawa pihak berkuasa perancangan tempatan itu walau bagaimanapun berpuas hati yang bangunan sebagaimana yang digambarkan itu memenuhi kehendak perancangan; (d) pelan strata yang dicadangkan yang mengandungi suatu pelan lokasi, pelan tingkat dan pelan tandaan, yang mengandungi apa-apa butir sebagaimana yang dinyatakan masing-masingnya dalam subseksyen (2), (3), (4), (5), (6) dan (7) dan diperakui oleh juruukur tanah seperti yang berikut: (i) bahawa dia telah membuat perbandingan antara pelan-pelan itu dengan pelan bangunan yang diluluskan yang disediakan oleh Arkitek Profesional yang didaftarkan di bawah Akta Arkitek 1967 [Akta 117] atau Jurutera Profesional yang didaftarkan di bawah Akta Pendaftaran Jurutera 1967 [Akta 138] yang bertanggungjawab bagi pembinaannya, atau, dalam hal yang termasuk di bawah perenggan (c), dengan pelan bangunan yang telah dilukis dan diperakui oleh Arkitek Profesional atau juruukur tanah; (ii) dalam hal pelan tingkat, bahawa sempadan petak-petak yang ditunjukkan di atasnya mengikut ciri-ciri pembinaan kekal yang terdapat dalam bangunan itu; dan (iii) bahawa bangunan atau bangunan-bangunan itu terletak keseluruhannya dalam sempadan lot yang berkenaan, tetapi tidak mengira apa-apa cucur atap, kajang, dan apa-apa langkan yang tidak merupakan sebahagian daripada sesuatu petak yang dicadangkan, yang mengunjur ke atas rizab jalan yang padanya ada permit atau permit-permit yang dikeluarkan di bawah seksyen 75a Kanun Tanah Negara berkenaan dengan tiap-tiap cucur atap, kajang dan langkan itu; (iv) bahawa setiap petak yang dicadangkan itu mempunyai— (A) jalan masuk yang memadai yang tidak melintasi suatu petak yang lain; dan (B) jalan perhubungan dalaman yang memadai yang tidak melintasi harta bersama; dan (v) bahawa telah diperakui oleh juruukur tanah bahawa kedudukan setiap blok sementara sebagaimana yang ditandakan di atas pelan lokasi adalah keseluruhannya dalam sempadan lot yang berkenaan; (e) dalam hal mana-mana bangunan atau petak tanah yang kebenaran perancangan diperlukan untuk mendirikannya, perakuan oleh Arkitek Profesional atau Jurutera Profesional yang disebut di bawah subperenggan (d)(i) bahawa bangunan itu telah dibina mengikut pelan dan spesifikasi yang dengan merujuk kepadanya kebenaran telah diberi, dan pelan serta spesifikasi bangunan itu menyatakan tarikh kebenaran itu diberi dan nombor rujukannya, jika ada; (f) salinan yang diperakui sah hakmilik strata sementara; (g) salinan yang diperakui sah dokumen yang memperakukan peringkat struktur utama, mengikut mana-mana yang berkenaan; (h) salinan yang diperakui sah jadual petak dan jadual petak terpinda, mengikut mana-mana yang berkenaan; dan (i) salinan yang diperakui sah perakuan siap dan pematuhan atau sijil layak menduduki, mengikut mana-mana yang berkenaan. (2) Bagi maksud pecah bahagi di bawah subseksyen 6(1a), pelan strata yang dicadangkan hendaklah mengandungi pelan lokasi dan pelan tandaan, dan hal keadaan pecah bahagi tanah yang mempunyai tingkat bawah tanah yang dikongsi, termasuklah pelan tingkat yang menunjukkan petak aksesori yang dicadangkan dan harta bersama. (3) Tiap-tiap pelan lokasi hendaklah— (a) menyatakan nombor lot, nombor hakmilik tanah yang terkandung dalamnya dan keluasannya; (b) menandakan sempadan-sempadan dan tanda-tanda sempadan bagi lot itu dan kedudukan kesemua bangunan di atasnya, dengan menunjukkan bangunan mana yang hendak dipecahbahagikan dan dalam hal permohonan bagi pecah bahagi tanah kepada petak- petak tanah, menandakan sempadan-sempadan dan tanda-tanda sempadan bagi lot itu dan petak-petak yang menunjukkan kedudukan kesemua bangunan di atasnya; (c) dalam hal pecah bahagi bangunan, dan pecah bahagi tanah kepada petak tanah dengan tingkat bawah tanah yang dikongsi, menyertakan suatu keratan menegak bagi setiap bangunan itu atau tingkat bawah tanah yang dikongsi itu, mengikut mana-mana yang berkenaan, yang menunjukkan— (i) lantai dan siling setiap tingkat; dan (ii) ketinggian setiap tingkat; dan (d) mengandungi apa-apa butir terperinci lain sebagaimana yang ditentukan oleh Pengarah Ukur. (4) Tiap-tiap pelan tingkat hendaklah— (a) menyatakan nombor lot dan nombor hakmilik tanah yang terkandung dalamnya, dan bangunan serta tingkat yang dinomborkannya yang baginya pelan itu berkaitan; (b) menandakan, tertakluk kepada peruntukan perenggan (7)(a) dan (b), setiap petak yang dicadangkan dan menentukan sempadan-sempadannya dengan merujuk kepada lantai dan dinding yang menunjukkan dimensi-dimensi mendatar, tanpa perlu menunjukkan bering; (c) menunjukkan berkenaan dengan setiap petak itu nombor yang dengannya petak itu diperihalkan dalam pelan strata yang dicadangkan; (d) menyatakan keluasan lantai setiap petak; (e) membezakan mana-mana bahagian sebagai tidak dimasukkan dalam mana-mana petak tetapi adalah menjadi sebahagian daripada harta bersama; dan (f) mengandungi apa-apa butir lain sebagaimana yang ditentukan oleh Pengarah Ukur. (5) Tiap-tiap pelan tandaan hendaklah— (a) menyatakan nombor lot dan nombor hakmilik tanah yang terkandung dalamnya, dan petak tanah yang baginya pelan itu berkaitan; (b) menandakan setiap petak tanah yang dicadangkan dengan merujuk kepada sempadan lot yang menunjukkan bering dan jarak bagi setiap sempadan; (c) menunjukkan berkenaan dengan setiap petak tanah itu nombor yang dengannya petak tanah itu diperihalkan dalam pelan strata yang dicadangkan; (d) menyatakan keluasan setiap petak tanah; (e) membezakan mana-mana bahagian sebagai tidak dimasukkan ke dalam mana-mana petak tanah tetapi adalah menjadi sebahagian daripada harta bersama; dan (f) mengandungi apa-apa butir lain sebagaimana yang ditentukan oleh Pengarah Ukur. (6) Tiap-tiap pelan strata yang dicadangkan hendaklah— (a) menunjukkan petunjuk bagi— (i) semua petak; (ii) semua harta bersama; dan (iii) semua petak aksesori, dan menyatakan dalamnya petak-petak yang dijadikan berhubung kait dengannya, tidak kira sama ada petak-petak aksesori itu adalah berdampingan dengan petak-petak yang dinyatakan itu; dan (b) mengandungi apa-apa butir lain sebagaimana yang ditentukan oleh Pengarah Ukur. (7) Jika suatu petak aksesori— (a) mengandungi suatu bangunan atau bahagian-bahagiannya dan disempadani dengan dinding luar, lantai dan siling, dimensi dan sempadan petak aksesori itu hendaklah ditunjukkan dalam pelan strata yang dicadangkan itu mengikut kehendak subseksyen (3), (4) dan (5); (b) tidak mengandungi suatu bangunan atau bahagian- bahagiannya— (i) sempadan-sempadan luar bagi petak aksesori itu hendaklah dipastikan daripada pelan bangunan yang diluluskan oleh pihak berkuasa perancangan, dan petak aksesori itu hendaklah mencapai ketinggian yang munasabah atau setakat apa-apa unjuran di bahagian atas atau melanggar sempadan di bawah aras bumi oleh suatu bahagian lain dalam lot itu; dan (ii) pelan strata yang dicadangkan hendaklah menunjukkan gambar rajah petak aksesori dengan dimensi sebagaimana yang serupa dengan dimensi yang ditunjukkan dalam pelan yang diluluskan yang disebut dalam subperenggan (i). (8) Pengarah Ukur hendaklah sesudah itu menyemak pelan lokasi, pelan tingkat dan pelan tandaan, mengikut mana-mana yang berkenaan, menjalankan atau menyebabkan dijalankan apa-apa kerja ukur tanah, mana-mana bangunan di atasnya atau mana-mana petak, dan hendaklah— (a) mengeluarkan sijil cadangan pelan strata kepada pemohon jika dia berpuas hati bahawa pelan itu teratur; (b) mengeluarkan satu salinan sijil itu kepada Pentadbir Tanah bagi maksud seksyen 20b; dan (c) memberitahu Pentadbir Tanah akan amaun fi yang hendak dipungut berkenaan dengan pelan yang disebabkan supaya disediakan sekiranya permohonan itu diluluskan. (9) Bagi maksud pecah bahagi di bawah subsekyen 6(1a), pelan strata yang dicadangkan hendaklah mengandungi pelan lokasi dan pelan tandaan, dan dalam hal tingkat bawah tanah yang dikongsi, termasuklah pelan tingkat yang menunjukkan petak yang dicadangkan dan harta bersama. Permohonan bagi pecah bahagi bangunan, dsb. 20b. (1) Pemilik hakmilik strata sementara hendaklah membuat suatu permohonan bagi mendapatkan kelulusan Pengarah dalam tempoh satu bulan dari pengeluaran sijil cadangan pelan strata dengan menggunakan Borang 5 kepada Pentadbir Tanah dan hendaklah disertakan dengan yang berikut: (a) apa-apa fi sebagaimana yang ditetapkan; (b) apa-apa fi sebagaimana yang diberitahu oleh Pengarah Ukur di bawah perenggan 20a(8)(c); (c) sijil cadangan pelan strata; (d) dokumen hakmilik keluaran bagi hakmilik strata sementara; (e) salinan yang diperakui sah perakuan siap dan pematuhan atau sijil layak menduduki, mengikut mana-mana yang berkenaan, kecuali dalam hal di bawah perenggan 20(2)(a); dan (f) salinan yang diperakui sah jadual petak atau jadual petak terpinda, mengikut mana-mana yang berkenaan, kecuali dalam hal di bawah perenggan 20(2)(b) dan (d). (2) Apabila menerima sesuatu permohonan di bawah subseksyen (1), Pentadbir Tanah hendaklah mengendorskan atau menyebabkan untuk diendors, suatu catatan mengenai pembuatannya dalam dokumen hakmilik daftar bagi hakmilik strata sementara. (3) Pentadbir Tanah hendaklah sesudah itu sekiranya dia berpuas hati bahawa permohonan itu dan dokumen-dokumen lain yang dikemukakan bersamanya itu adalah teratur, menghantarkannya kepada Pengarah bersama-sama dengan syornya untuk meluluskan atau menolak permohonan itu.”. Penggantian seksyen 21"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 21 dengan seksyen yang berikut: “Kuasa Pengarah Tanah dan Galian yang berhubungan dengan permohonan 21. (1) Apabila menerima sesuatu permohonan yang dibuat di bawah seksyen 20b, Pengarah hendaklah— (a) meluluskan pecah bahagi itu jika dia mendapati bahawa syarat-syarat yang dinyatakan dalam seksyen 10 telah dipenuhi; atau (b) dalam apa-apa hal lain, menolak permohonan itu. (2) Jika Pengarah telah meluluskan sesuatu permohonan bagi pecah bahagi bangunan atau tanah, dia hendaklah— (a) meminta Pengarah Ukur untuk menyediakan atau disebabkan supaya disediakan pelan strata yang diperakui; dan (b) memberitahu Pentadbir Tanah tentang kelulusan itu dan mengarahkannya supaya memungut daripada pemilik, fi sebagaimana yang diberitahu oleh Pengarah Ukur di bawah perenggan 20a(8)(c) dan fi bagi penyediaan dan pendaftaran hakmilik strata sebagaimana yang ditetapkan dalam mana-mana undang-undang bertulis. (3) Jika Pengarah telah menolak permohonan bagi pecah bahagi bangunan atau tanah, dia hendaklah— (a) memberitahu Pentadbir Tanah dan yang hendaklah dengan segera memaklumkan pemilik dan hendaklah membatalkan atau disebabkan supaya dibatalkan catatan yang diendorskan dalam dokumen hakmilik daftar strata sementara di bawah subseksyen 20b(2); dan (b) membayar balik fi bagi penyediaan dan pendaftaran hakmilik strata.”. Pindaan seksyen 22"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 22 Akta ibu dipinda dalam perenggan (a) dengan menggantikan perkataan “20(2)(c)” dengan perkataan “20a(1)(d)”. Pemotongan seksyen 22a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 22a. Pemotongan seksyen 22b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 22b. Pindaan seksyen 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 2 Akta ibu dipinda dengan menggantikan perkataan “dan Wilayah Persekutuan Putrajaya” dengan perkataan “Wilayah Persekutuan Putrajaya dan Wilayah Persekutuan Labuan”. Pindaan seksyen 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 25(3) Akta ibu dipinda dengan memasukkan selepas perkataan “perbadanan pengurusan” perkataan “dan kelulusan daripada pihak berkuasa berkaitan”. Pindaan seksyen 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_31__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_31__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_31__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 26(3) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_31__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “Bahagian VII” dengan perkataan “Akta Pengurusan Strata 201__”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_31__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “bangunan yang dipecah bahagi” perkataan “atau tanah”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_31__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “apabila bangunan” perkataan “atau tanah”. Pindaan seksyen 27"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 27(da) Akta ibu dipinda dengan memasukkan selepas perkataan “perbadanan pengurusan” perkataan “dan kelulusan daripada pihak berkuasa berkaitan”. Pindaan seksyen 28"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 28(1)(da) Akta ibu dipinda dengan memasukkan selepas perkataan “perbadanan pengurusan” perkataan “dan kelulusan daripada pihak berkuasa berkaitan”. Pindaan seksyen 31"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 31(2) Akta ibu dipinda dengan menggantikan perkataan “subseksyen 28(2)” dengan perkataan “perenggan 28(2)(a)”. Pindaan seksyen 36"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_35__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_35__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_35__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 36 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_35__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan memasukkan selepas perkataan “pemilik-pemilik;” perkataan “dan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_35__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (b); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_35__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c), dengan menggantikan perkataan “seksyen 45, 63 atau 66” dengan perkataan “Akta Pengurusan Strata 201__”. Penggantian seksyen 37"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 37 dengan seksyen yang berikut: “Sekatan ke atas hak mengundi 37. Jika seseorang pemilik atas apa-apa sebab, tidak berupaya mengawal hartanya, kuasa mengundi yang diberikan kepadanya oleh Akta Pengurusan Strata 201__ hendaklah dijalankan oleh orang yang pada masa itu diberi kuasa oleh undang-undang untuk mengawal harta itu.”. Pindaan seksyen 38"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 38 Akta ibu dipinda dengan menggantikan perkataan “Jadual Kedua” dengan perkataan “Akta Pengurusan Strata 201__”. Pemotongan Bahagian VII"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong Bahagian VII. Pindaan seksyen 57"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 57(4) Akta ibu dipinda dengan menggantikan perenggan (e) dengan perenggan yang berikut: “ (e) perbadanan pengurusan itu hendaklah membahagikan apa- apa keuntungan yang terbit daripada ketuanpunyaannya ke atas lot itu, termasuk apa-apa wang belian yang diterima atas suatu pindahmilikan, kepada bekas pemilik secara berkadaran dengan nilai modal pasaran terbuka petak-petak itu sebaik sahaja sebelum penamatan pecah bahagian yang ditentukan dalam laporan penilaian yang disediakan dan diperakui oleh seorang penilai berdaftar di bawah Akta Penilai, Pentaksir dan Ejen Harta Tanah 1981 [Akta 242].”. Pemotongan Bahagian IXa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_m",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_n",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_o",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_p",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_q",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_r",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_s",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_t",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_u",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_v",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_w",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_x",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_y",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_z",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_aa"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 4 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong Bahagian IXa. Pemotongan seksyen 76, 77 dan 78"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 76, 77 dan 78. Pindaan seksyen 81"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 81 Akta ibu dipinda dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Pihak Berkuasa Negeri boleh, melalui pemberitahuan dalam Warta, membuat kaedah-kaedah yang tidak berlawanan dengan Akta ini, dan khususnya tetapi tanpa mengehadkan keluasan kuasa berkenaan dengan semua atau mana-mana perkara yang berikut: (a) fi yang hendak dibayar bagi apa-apa tatacara atau fungsi yang dikehendaki atau dibenarkan dibuat di bawah Akta ini dan peremitan fi itu; (b) jenis bangunan, atau hal keadaan yang bangunan itu, hendak dikelaskan sebagai bangunan kos rendah; (c) jenis bangunan, atau hal keadaan yang bangunan itu, hendak dikelaskan sebagai bangunan khas; (d) formula bagi unit syer yang dicadangkan; dan (e) apa-apa perkara yang menurut Akta ini dikehendaki atau dibenarkan ditetapkan atau adalah perlu atau sesuai untuk ditetapkan bagi menjalankan atau menguatkuasakan mana-mana peruntukan Akta ini.”. Kecualian dan peralihan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_43__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_43__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_43__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_43__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_43__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_43__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_43__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_43__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_43",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kecuali sebagaimana yang diperuntukkan dengan nyata dalam Akta ini atau dalam kaedah-kaedah yang dibuat di bawah Akta ini, peruntukan-peruntukan Akta ini hendaklah terpakai bagi hakmilik strata yang didaftarkan sebelum permulaan kuat kuasa Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_43__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_43",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua permohonan atau perkara lain yang sedang dalam tindakan untuk diluluskan, atau yang telah diluluskan tetapi hakmilik strata belum dikeluarkan, sebaik sebelum tarikh permulaan kuat kuasa Akta ini hendaklah, selepas permulaan kuat kuasa Akta ini, diteruskan atau diselesaikan seolah-olah Akta ibu tidak dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_43__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_43",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kecuali sebagaimana yang diperuntukkan dengan nyata dalam Akta ini, jika apa-apa tempoh masa yang dinyatakan dalam Akta ibu adalah masih berjalan semasa permulaan kuat kuasa Akta ini, Akta ini hendaklah berkuat kuasa seolah-olah peruntukan yang bersepadan dalam Akta ini telah berkuat kuasa semasa tempoh itu bermula."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_43__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_43__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_43__subsec_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_43",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tempoh yang disebut dalam subseksyen (3) hendaklah disifatkan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_43__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_43__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bermula dari tarikh atau keadaan yang darinya tempoh itu bermula sebaik sebelum permulaan kuat kuasa Akta ini; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_43__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_43__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "luput, tertakluk kepada mana-mana peruntukan Akta ini bagi perlanjutannya, bila mana tempoh itu ia sepatutnya luput seolah-olah Akta ini tidak dibuat, dan apa-apa hak, keutamaan, liabiliti, relif, tanggungjawab, kehendak, kuasa, kewajipan atau pengecualian bergantung pada permulaan, tempoh masa atau akhir tempoh itu hendaklah berada di bawah Akta ini sebagaimana ia sepatutnya berada di bawah peruntukan Akta ibu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_43__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_43",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana perintah atau prosiding yang belum selesai atau dimulakan di bawah peruntukan yang dimansuhkan, sebelum permulaan kuat kuasa Akta ini, hendaklah diteruskan dan diselesaikan di bawah peruntukan yang dimansuhkan seolah-olah Akta ibu tidak dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_43__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_43",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua prosiding atau perkara lain yang belum selesai di hadapan Lembaga Hakmilik Strata di bawah Akta ibu, atau perkara lain yang sedang didengar, atau telah didengar tetapi tiada perintah atau keputusan dibuat mengenainya, sebaik sebelum permulaan kuat kuasa Akta ini hendaklah, selepas tarikh permulaan kuat kuasa Akta ini, diteruskan seolah-olah Akta ibu tidak dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_43__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_43",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang, sebaik sebelum tarikh permulaan kuat kuasa Akta ini, merupakan Yang Dipertua, Timbalan Yang Dipertua atau anggota Lembaga yang dilantik di bawah Akta ibu hendaklah, melainkan jika dia meletak jawatan atau selainnya mengosongkan jawatannya atau perlantikannya dibatalkan, terus memegang jawatan itu pada atau selepas tarikh permulaan kuat kuasa Akta ini sehingga habis tempoh yang dinyatakan dalam surat cara perlantikannya. Pemotongan Jadual Kedua dan Ketiga"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong Jadual Kedua dan Ketiga. Pindaan Jadual Kelima"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual Kelima Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 1—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “Bagi maksud Jadual ini—” dengan perkataan “Dalam Jadual ini, melainkan jika konteksnya menghendaki dengan makna yang lain—”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “dokumen hakmilik daftar cetakan komputer” takrif yang berikut: ‘ “dokumen hakmilik keluaran cetakan komputer” ertinya suatu dokumen hakmilik keluaran yang disediakan dengan menggunakan suatu komputer;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah pada akhir takrif “Sistem Pendaftaran Hakmilik Strata Berkomputer” dengan koma bertitik dan memasukkan selepas takrif tersebut takrif yang berikut: ‘ “Akta” ertinya Akta Hakmilik Strata 1985 [Akta 318]; “Kanun” ertinya Ka nun Tana h Ne ga ra 1965 [Akta 56/1965].’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 4—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subperenggan (2), dengan subperenggan berikut: “(2) Pendaftar hendaklah, apabila menyerahkan dokumen hakmilik keluaran cetakan komputer kepada pemilik, menyerahkan juga kepadanya satu salinan pelan yang dilampirkan pada Borang S(K) yang disahkan dengan sempurna di bawah tandatangan dan meterai Pengarah Ukur.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subperenggan (2) subperenggan yang berikut: “(3) Pendaftar hendaklah menyimpan di Pejabat Pendaftaran Tanah suatu salinan pelan strata yang diperakui yang kepadanya pelan strata yang diperakui itu berkaitan sebagaimana yang diluluskan oleh Pengarah Ukur di bawah perenggan (13)(1)(c) Akta. Salinan pelan strata yang diperakui itu hendaklah disahkan dengan sempurna di bawah tandatangan dan meterai Pengarah Ukur.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 5—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (6), dengan memasukkan selepas perkataan “Borang 2(K),” perkataan “3(K)”,”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subperenggan (7) dengan subperenggan yang berikut: “(7) Berkenaan dengan dokumen hakmilik yang sedia ada yang disediakan di bawah Kanun, dokumen hakmilik cetakan komputer hendaklah disifatkan sebagai proses penyediaan hakmilik bersambungan di bawah Jadual ini.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan 6 perenggan yang berikut: “Cara menyediakan rekod daftar strata berkomputer 6a. (1) Bagi maksud subseksyen 15(2) Akta ini, Pendaftar hendaklah, dengan Jadual ini, menyediakan dan menyenggara rekod daftar strata berkomputer berhubung dengan satu lot dan, tiap-tiap buku itu hendaklah mengandungi— (a) indeks daftar strata berkomputer di dalam Borang 2(K); (b) tertakluk kepada subperenggan (2), satu dokumen penyata daftar strata berkomputer dalam Borang 3(K); (c) salinan pelan strata yang diperakui yang diluluskan oleh Pengarah Ukur menurut perenggan 13(1)(a) Akta; dan (d) tiap-tiap dokumen hakmilik daftaran cetakan komputer dalam Borang 4(K) atau dalam Borang 4A(K), mengikut mana-mana yang berkenaan. (2) Walau apa pun perenggan 15(2)(b) Akta, tiap-tiap rekod daftar strata berkomputer di bawah Jadual ini hendaklah tidak termasuk penyata di dalam Borang 3(K) jika semua memorial, pengendorsan dan catatan lain, yang terdapat dalam Borang 3 sebelumnya semasa pertukaran di bawah perenggan 5, tidak lagi menyentuh petak-petak atau blok-blok sementara atau mana-mana hakmilik strata atau hakmilik strata sementara yang merupakan hakmilik subsidiari kepadanya.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_45",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan 14 perenggan yang berikut: “Rujukan kepada Jadual Keempat Belas 15. Jadual ini hendaklah dibaca dan ditafsirkan bersama dengan berkuatkuasanya Jadual Keempat Belas Kanun seolah-olah ia menjadi sebahagian daripadanya.”. Jadual baru Keenam"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas Jadual Kelima Jadual yang berikut: “JADUAL KEENAM [Seksyen 4b] SISTEM HAKMILIK STRATA ELEKTRONIK Tafsiran 1. Dalam Jadual ini, melainkan jika konteksnya menghendaki makna yang lain— “daftar strata berkomputer” ertinya apa-apa rekod daftar strata yang terdiri daripada dokumen indeks daftar strata berkomputer, tiap-tiap dokumen hakmilik daftar strata berkomputer dan salinan digital yang diperakui yang bersepadan dengan setiap petak dan, jika ada, blok-blok sementara yang didaftarkan di bawah Jadual ini; “dokumen hakmilik strata” ertinya apa-apa dokumen hakmilik daftar berkomputer atau dokumen hakmilik keluaran berkomputer yang disimpan secara maya dalam pangkalan data tanah, dan termasuk cetakannya; “sistem hakmilik strata elektronik” ertinya suatu sistem bagi Sistem Pentadbiran Tanah Elektronik bersepadu yang berkaitan dengan pemprosesan permohonan hakmilik strata, pendaftaran hakmilik strata, dokumen yang dikehendaki untuk disediakan dan apa-apa kemasukan dalam mana-mana dokumen hakmilik melalui penggunaan sebuah komputer; “dokumen rekod daftar strata berkomputer sedia ada” ertinya apa-apa rekod daftar strata berkomputer yang sedia ada termasuklah dokumen indeks daftar strata yang sedia ada, dokumen penyata daftar strata, salinan pelan strata yang diperakui dan tiap-tiap dokumen hakmilik daftar strata yang bersepadan dengan setiap petak dan, jika ada, blok sementara yang didaftarkan sebelum atau selepas permulaan kuat kuasa Sistem Pentadbiran Tanah Elektronik; “dokumen hakmilik yang sedia ada” ertinya apa-apa dokumen hakmilik daftar atau dokumen hakmilik keluaran yang dikeluarkan secara manual atau dengan menggunakan komputer yang didaftarkan sebelum atau selepas permulaan kuat kuasa Sistem Pentadbiran Tanah Elektronik; “Akta” ertinya Akta Hakmilik Strata 1985 [Akta 318]; “Kanun” ertinya Kanun Tanah Negara 1965 [Akta 56/1965]; Pentafsiran Jadual 2. Jadual ini hendaklah dibaca dan ditafsirkan bersama dengan Jadual Keenam Belas Kanun seolah-olah ia menjadi sebahagian daripadanya. Cara membuat catatan dalam dokumen hakmilik di bawah sistem hakmilik strata elektronik 3. Bagi maksud Akta ini, setiap kali suatu catatan dikehendaki untuk dibuat dalam dokumen hakmilik berkomputer, Pendaftar hendaklah— (a) membuat catatan tersebut; dan (b) menyediakan suatu dokumen hakmilik berkomputer yang baru dan hendaklah membatalkan dan memusnahkan versi terdahulu dokumen hakmilik cetakan komputer tersebut. Borang bagi dokumen hakmilik berkomputer 4. (1) Bagi maksud seksyen 16 Akta, Pendaftar hendaklah menyediakan dokumen hakmilik strata yang sepadan dengan tanah yang dipegang di bawah hakmilik Pejabat Pendaftar atau hakmilik Pejabat Tanah masing-masing, yang mana— (a) dokumen hakmilik daftar berkomputer hendaklah dibuat dalam Borang 4e berkenaan dengan petak atau dalam Borang 4Ae berkenaan dengan blok sementara, Jadual ini; dan (b) dokumen hakmilik keluaran cetakan komputer dalam borang yang sama sebagaimana yang dinyatakan dalam subperenggan 1(a). Pelan bagi dokumen hakmilik strata berkomputer 5. Pendaftar hendaklah mengeluarkan pelan yang dilampirkan bersama Borang Se bagi petak individu atau blok sementara, termasuk pelan petak aksesori, jika ada, secara berasingan kepada pemilik dan hendaklah mengesahkan dengan sempurna di bawah tandatangan digitalnya. Cara menyediakan rekod daftar strata berkomputer 6. (1) Bagi maksud subseksyen 15(2), Pendaftar hendaklah, mengikut Jadual ini, menyediakan dan menyenggara rekod daftar strata berkomputer berhubung dengan suatu lot dan, tiap-tiap buku itu hendaklah mengandungi— (a) dokumen indeks daftar strata berkomputer dalam Borang 2e bagi petak individu dan, jika ada, petak aksesori yang bersangkutan dan bagi blok individu sementara, jika ada, yang terdapat dalam lot itu; (b) dokumen penyata daftar strata berkomputer dalam Borang 3e; (c) suatu salinan pelan strata yang diperakui yang diluluskan oleh Pengarah Ukur menurut perenggan 13(1)(a) Akta; dan (d) tiap-tiap dokumen hakmilik daftar berkomputer dalam Borang 4e atau dalam Borang 4Ae, mengikut mana-mana yang berkenaan. (2) Walau apapun perenggan 15(2)(b), tiap-tiap buku daftar strata berkomputer di bawah Jadual ini hendaklah tidak termasuk mana-mana pernyataan dalam Borang 3e kerana pernyataan tersebut mengandungi semua memorial, pengendorsan dan kemasukan lain yang terdapat dalam dokumen hakmilik daftar tanah itu, yang berkaitan dengan perkara-perkara yang boleh menyentuh mana-mana petak atau mana-mana blok sementara yang dipegang di bawah hakmilik strata atau hakmilik strata sementara yang merupakan hakmilik subsidiari kepadanya, yang bukan merupakan perkara-perkara yang boleh menyentuh hanya satu daripada petak-petak itu, atau satu sahaja daripada blok-blok sementara itu. Penukaran kepada dokumen daftar strata berkomputer 7. (1) Apabila mula berkuat kuasa sistem hakmilik strata elektronik di pejabat Pendaftar Tanah Negeri, Pendaftar hendaklah menukarkan dokumen rekod daftar strata berkomputer sedia ada kepada dokumen daftar strata berkomputer dan hendaklah mengesahkannya di bawah tandatangan digitalnya. (2) Dokumen hakmilik daftar yang sedia ada hendaklah terus berkuat kuasa dan sah bagi semua maksud Akta ini sehingga dokumen hakmilik berkomputer disediakan di bawah Jadual ini dan disahkan sewajarnya oleh Pendaftar. (3) Selepas penukaran dokumen hakmilik daftar yang sedia ada, dokumen hakmilik keluaran yang sedia ada yang berkenaan dengannya hendaklah terus berkuat kuasa dan sah bagi semua maksud Akta ini sehingga dokumen hakmilik keluaran cetakan komputer yang berkenaan disediakan dan dikeluarkan kepada pemilik. (4) Berkenaan dengan suatu dokumen hakmilik yang sedia ada yang disediakan di bawah Akta ini, dokumen hakmilik cetakan komputer hendaklah disediakan dalam Borang 2e, 3e, 4e atau 4Ae, mengikut mana-mana yang berkenaan. (5) Berkenaan dengan suatu dokumen hakmilik yang sedia ada yang didaftarkan di bawah Kanun, dokumen hakmilik berkomputer hendaklah disifatkan sebagai suatu proses bagi penyediaan hakmilik bersambungan di bawah Jadual ini. (6) Apabila penukaran suatu dokumen hakmilik yang sedia ada kepada suatu dokumen hakmilik cetakan komputer di bawah subperenggan yang terdahulu, Pendaftar— (a) boleh mengeluarkan pelan untuk dilampirkan pada Borang Se dan hendaklah disahkan sewajarnya di bawah tandatangan digitalnya; (b) hendaklah membuat suatu nota pembatalan atas dokumen hakmilik daftar yang sedia ada itu bahawasanya hakmilik berkenaan telah ditukarganti kepada dokumen hakmilik berkomputer; dan (c) hendaklah memusnahkan dokumen hakmilik yang sedia ada itu apabila dikemukakan kepadanya. Cara menyediakan dokumen hakmilik 8. (1) Tiap-tiap dokumen hakmilik yang akan disediakan apabila memecah bahagi bangunan, atau bangunan dan tanah, atau pecah bahagi tanah kepada petak tanah atau hakmilik sambungan atau penggantian dokumen hakmilik daftar cetakan komputer hendaklah, di bawah Jadual ini, disediakan dengan menggunakan komputer. (2) Tiap-tiap daftar strata berkomputer yang disediakan di bawah Jadual ini hendaklah dilihat melalui sebuah komputer untuk apa-apa tujuan penentusahan. (3) Apabila diminta oleh Pendaftar atau bagi apa-apa maksud Akta atau mana- mana undang-undang lain yang berkaitan, tiap-tiap daftar strata berkomputer yang disediakan di bawah Jadual ini hendaklah dicetak di dalam borang masing-masing sebagai suatu salinan dokumen hakmilik daftar berkomputer atau dokumen hakmilik keluaran berkomputer atau daftar strata berkomputer. Penyerahan salinan pelan kepada pemilik berdaftar 9. Jika dokumen hakmilik disediakan semasa pecah bahagi bangunan, atau bangunan dan tanah, atau pecah bahagi tanah kepada petak tanah, atau hakmilik sambungan yang disebabkan oleh pecah bahagi petak, atau penyatuan petak- petak, atau pecah bahagi blok sementara setelah siap, atau penggantian dokumen hakmilik daftar cetakan komputer, Pendaftar hendaklah menyerahkan kepada pemilik dokumen hakmilik keluaran berkomputer berserta suatu salinan pelan petak atau blok sementara yang dilampirkan pada Borang Se, dan hendaklah disahkan dengan sempurna di bawah tandatangan digitalnya. Keterangan muktamad 10. Bagi maksud seksyen 15 hingga 19 Akta, tiap-tiap dokumen buku daftar strata berkomputer yang disimpan secara maya dalam pangkalan data tanah hendaklah menjadi keterangan muktamad tentang butir-butir yang direkodkan di dalamnya. Kesan pembukaan rekod daftar strata berkomputer di bawah sistem hakmilik strata elektronik 11. Bagi maksud subseksyen 17(1) dan apabila menentusahkan dokumen hakmilik berkomputer berkenaan dengan petak atau blok sementara, Pendaftar hendaklah dengan segera memasukkan dalam dokumen hakmilik daftar berkomputer bagi lot berkenaan, suatu memorial yang menyatakan bahawa daftar strata berkomputer telah dibuka, bahawa sewa diperuntukkan kepada setiap petak atau blok sementara mengikut kelayakan unit syer, dan bahawa harta bersama itu terletak hak pada perbadanan pengurusan. Suatu memorial yang dikehendaki dinyatakan di dalamnya hendaklah disahkan di bawah tandatangan digital Pendaftar. Rekod Perserahan 12. (1) Pendaftar hendaklah menyenggara suatu rekod, yang dipanggil “Rekod Perserahan” yang dalamnya akan dimasukkan suatu perihal ringkas tiap-tiap perkara yang diserahkan atau dibetulkan untuk pendaftaran atau kemasukan, mengikut mana-mana yang berkenaan. (2) Rekod Perserahan hendaklah mengandungi— (a) nombor perserahan yang diberi oleh komputer berkenaan dengan setiap perkara yang diserahkan; (b) tarikh dan masa perserahan; (c) perihal perkara; (d) dalam hal urus niaga, nama orang yang membuat perserahan perkara itu; (e) perihal hakmilik petak dan petak tanah yang terlibat dalam perserahan itu; dan (f) suatu nota sama ada perkara itu telah didaftarkan, diendorskan, atau dimasukkan, mengikut mana-mana yang berkenaan, atau ditolak atau ditarik balik. (3) “Rekod Perserahan” di bawah perenggan ini hendaklah menjadi sebahagian daripada Rekod Perserahan di bawah perenggan 12 Jadual Keenam Belas Kanun. Rekod Nota Pembetulan 13. Pendaftar hendaklah menyenggara suatu rekod, yang dipanggil “Rekod Nota Pembetulan” yang dalamnya akan dimasukkan suatu perihal ringkas tiap-tiap perkara yang diserahkan atau dibetulkan untuk pendaftaran atau kemasukan, mengikut mana-mana yang berkenaan. Kandungan dokumen hakmilik berkomputer hendaklah ditentusahkan 14. (1) Selepas Pendaftar telah menentukan bahawa suatu instrumen adalah layak bagi pendaftaran menurut peruntukan Bahagian 18 Kanun atau apa-apa perkara lain hendaklah dimasukkan ke dalam dokumen hakmilik berkomputer, dia hendaklah menentusahkan kandungan dokumen penentusahan dan jika dia berpendapat bahawa dokumen penentusahan itu teratur, dia hendaklah mengesahkan dokumen itu di bawah tandatangan digitalnya. (2) Selepas Pendaftar mendaftarkan mana-mana instrumen urusniaga atau memasukkan apa-apa perkara lain dalam dokumen hakmilik cetakan komputer, dokumen penentusahan itu hendaklah disimpan secara maya dalam pangkalan data tanah setelah disahkan olehnya. Cara mendaftar instrumen 15. Bagi maksud perenggan 304(2)(a) Kanun, memorial dalam terma yang dinyatakan dalam subseksyen 304(3) hendaklah dimasukkan dalam komputer berkenaan dengan dokumen hakmilik daftar yang kepadanya petak itu berkaitan. Cetakan dokumen hakmilik keluaran berkomputer 16. Apabila membuat memorial sebagaimana yang diperuntukkan dalam perenggan 14 yang memorial itu berkaitan dengan suatu urus niaga atau apabila menentukan bahawa apa-apa perkara lain hendaklah dimasukkan dalam mana-mana dokumen hakmilik, Pendaftar hendaklah— (a) menyebabkan supaya dokumen hakmilik daftar yang disimpan dalam pangkalan data tanah itu dikemaskinikan; dan (b) menyebabkan supaya dicetak suatu dokumen hakmilik keluaran berkomputer yang baru. Kemuktamadan pendaftaran hakmilik 17. (1) Tiap-tiap dokumen hakmilik daftar yang disediakan menurut perenggan 15 dan disahkan di bawah tandatangan digital Pendaftar hendaklah menjadi keterangan muktamad berkenaan pendaftaran yang dokumen itu dirujuk dan masa dan tarikh pendaftaran itu mula berkuat kuasa. (2) Walau apapun kehendak pengesahan di bawah subperenggan (1), keperluan meterai di bawah pengesahan oleh Pendaftar hendaklah dianggap telah diketepikan. Penamatan rekod daftar strata yang berkaitan 18. (1) Bagi maksud seksyen 57 Akta, Pendaftar hendaklah— (a) memasukkan suatu memorial pemberitahuan penamatan pecah bahagi dalam tiap-tiap dokumen hakmilik daftar berkomputer dan dokumen- dokumen lain yang berkenaan dengan rekod daftar strata berkomputer dan hendaklah mengesahkannya di bawah tandatangan digitalnya; (b) memasukkan suatu nota dalam dokumen hakmilik daftar berkomputer bagi lot tersebut menyatakan bahawa ketuanpunyaan dan sewa yang melibatkan petak-petak dan blok-blok sementara hendaklah terhenti berkuat kuasa, dan perbadanan pengurusan hendaklah menjadi pemilik lot tersebut sebagai pemegang amanah bagi pemilik hakmilik strata sebelum ini; (c) memaklumkan kepada Pengarah Ukur akan catatan memorial yang dibuat di bawah subperenggan (a); dan (d) membatalkan rekod daftar strata berkomputer yang berkenaan tertakluk kepada arahan di bawah perenggan 57(4)(d). (2) Walau apapun penamatan suatu pecah bahagi di bawah perenggan ini, rekod daftar strata berkomputer yang berkenaan hendaklah terus dikekalkan dalam pangkalan data tanah selagi perbadanan pengurusan masih menjadi pemilik lot dan boleh digunakan dalam keterangan sebagai suatu rekod perkara- perkara yang berhubungan dengan pecah bahagi itu sebelum penamatannya. AKTA HAKMILIK STRATA 1985 BORANG 2e [Jadual Keenam] INDEKS DAFTAR STRATA Negeri : Daerah : *Bandar/Pekan/Mukim : No. Hakmilik : No. Lot : Luas : No. Rujukan Fail : Nama Perbadanan Pengurusan : Alamat Perbadanan Pengurusan : Alamat bagi Penyampaian Dokumen : No. Rekod Daftar Strata Berkomputer : RINGKASAN KANDUNGAN Bangunan/Blok Maksud No. Petak Sementara/Petak Tanah Bangunan/ Bangunan-bangunan M1 .. .. .. …………………... …………………... …………………... M2 .. .. .. …………………... …………………... …………………... dsb., dsb. Blok/Blok-blok Sementara — P1 .. .. .. …………………... …………………... — P2 .. .. .. …………………... ………………….... dsb., dsb. Petak Tanah L1 .. .. .. …………………... …………………... …………………... L2 .. .. .. …………………... …………………... …………………... dsb., dsb. Blok Sementara (Petak Tanah) — PL1 .. .. .. …………………... …………………... — PL2 .. .. .. …………………... ………………….... dsb., dsb. Jumlah …………………... …………………... …………………... Jumlah keseluruhan folio dalam pelan strata yang diperakui ……....……… ID Hakmilik : ………........…… Tarikh : ………........…… No. Versi : ………........…… Muka surat : ………........…… INDEKS SECARA TERPERINCI Bangunan/ Senarai Senarai Unit syer Cukai blok tingkat petak bagi setiap setiap sementara/ dalam dalam petak/blok petak/blok petak tanah setiap setiap sementara/ sementara/ bangunan bangunan / petak petak luas tanah tanah tanah setiap petak (1) (2) (3) (4) (5) (6) BANGUNAN/ BANGUNAN- BANGUNAN: [Gunakan M1, M2, dsb. untuk menandakan bangunan siap] M1 .. .. Tingkat Petak .…... ..…............ ..…............ No. Petak .…... ..…............ ..…............ (Folio Petak .…... ..…............ ..…............ No. Pelan ……....…) Sub-jumlah Sub-jumlah ..…............ ..…............ M2 .. .. Tingkat Petak .…... ..…............ ..…............ No… Petak .…... ..…............ ..…............ dsb., dsb. (Folio Petak .…... ..…............ ..…............ No. Pelan …………) Sub-jumlah Sub-jumlah ..…............ ..…............ BLOK/ BLOK-BLOK SEMENTARA: [Gunakan P1,P2, dsb. untuk menandakan blok-blok sementara] P1 .. .. (Folio — ..…............ ..…............ No. Pelan dsb., dsb. …………) Sub-jumlah Sub-jumlah ..…............ ..…............ P2 .. .. (Folio — ..…............ ..…............ No. Pelan dsb., dsb. …………) Sub-jumlah Sub-jumlah ..…............ ..…............ Unit syer Cukai Catatan bagi setiap setiap petak/blok petak/blok sementara/ sementara/ petak petak tanah tanah (1) (2) (3) (4) (5) (6) (7) — ..…............ ..…............ — — ..…............ ..…............ ..…............ ..…............ Sub-jumlah Sub-jumlah ..…............ ..…............ — ..…............ ..…............ — — ..…............ ..…............ ..…............ ..…............ Sub-jumlah Sub-jumlah ..…............ ..…............ ..…............ ..…............ ..…............ (sambungan helaian boleh ditambah sebagaimana perlu) ID Hakmilik : ………........…… Tarikh : ………........…… No. Versi : ………........…… Muka surat : ………........…… SENARAI PETAK AKSESORI + Petak Aksesori ++ Lokasi Petak Petak atau Blok Aksesori Sementara yang Petak Aksesori itu Bersangkutan *Masukkan sebagaimana yang bersesuaian +Bagi tujuan mengenal pasti petak aksesori, tambah huruf A kepada nombor petak aksesori ++Jika petak aksesori ditempatkan dalam sesuatu bangunan, tunjukkan lokasi itu dengan membuat rujukan kepada nombor bangunan dan nombor tingkatnya ID Hakmilik : ………........…… Tarikh : ………........…… No. Versi : ………........…… Muka surat : ………........…… AKTA HAKMILIK STRATA 1985 BORANG 3e [Jadual Keenam] PENYATA DAFTAR STRATA Negeri : Daerah : *Bandar/Pekan/Mukim : No. Hakmilik : No. Lot : Luas : No. Rujukan Fail : No. Rekod Daftar Strata Berkomputer : Jadual terlampir mengandungi semua memorial, pengendorsan, dan kemasukan lain yang terdapat pada hari ini dalam dokumen hakmilik daftar yang tersebut di atas, yang berhubungan dengan perkara-perkara yang boleh menyentuh mana-mana petak atau mana-mana blok sementara dari hari ini yang dipegang di bawah hakmilik strata atau hakmilik strata sementara yang merupakan hakmilik subsidiari kepadanya, yang bukannya perkara-perkara yang boleh menyentuh hanya satu daripada petak-petak, atau hanya satu daripada blok-blok sementara ini. Bertarikh pada ……………. hari bulan …………. 20……………. ……........…………..…………………. Tandatangan Digital Pendaftar JADUAL *Syarat Nyata: *Sekatan Kepentingan: *Memorial, Pengendorsan atau Catatan Lain: *Masukkan sebagaimana yang bersesuaian ID Hakmilik : ………........…… Tarikh : ………........…… No. Versi : ………........…… Muka surat : ………........…… AKTA HAKMILIK STRATA 1985 BORANG 4E [Jadual Keenam] HAKMILIK STRATA NO. HAKMILIK NO. BANGUNAN NO. TINGKAT Cukai : Geran untuk selama-lamanya/Pajakan untuk tempoh ................................., yang berakhir pada ……….......................................................................... Negeri : Daerah : *Bandar/Pekan/Mukim : No. Lot : Petak Aksesori : Unit Syer Petak : No. Pelan Akui Strata : No. Rekod Daftar Strata Berkomputer : Petak dan *petak/petak-petak aksesori yang tersebut di atas yang terletak di atas tanah ini adalah dipegang bagi tempoh hakmilik itu sepenuhnya oleh pemilik yang pada masa itu dinamakan dalam rekod ketuanpunyaan di dalamnya, tertakluk kepada Akta Hakmlik Strata 1985, kepada peruntukan kaedah-kaedah yang dibuat di bawahnya dan lebih khusus lagi kepada memorial, pengendorsan dan kemasukan lain. Mana-mana urusan terhadap hakmilik strata ini adalah tertakluk kepada sekatan dan syarat sebagaimana dalam hakmilik tanah, dan atas pertimbangan terhadap pembayaran cukai tahunan yang perlu dibayar. Menurut kuasa hakmilik ini, pemilik tersebut juga menikmati hak mengundi dalam perbadanan pengurusan yang berkadaran dengan unit-unit syer bagi blok sementara ini sebagaimana yang dinyatakan, berhubung dengan jumlah unit syer bagi semua bangunan yang dipecah bahagi di atas tanah ini. Didaftarkan pada ……....... hari bulan…………...….....…..20…….. ………….............………………………. Tandatangan Digital Pendaftar ID Hakmilik : ………........…… Tarikh : ………........…… No. Versi : ………........…… Muka surat : ………........…… REKOD PERBADANAN PENGURUSAN *REKOD KETUANPUNYAAN *MEMORIAL, PENGENDORSAN DAN CATATAN LAIN .......................................................................... Tandatangan Digital Pendaftar *Masukkan sebagaimana yang bersesuaian ID Hakmilik : ………........…… Tarikh : ………........…… No. Versi : ………........…… Muka surat : ………........…… AKTA HAKMILIK STRATA 1985 BORANG 4Ae [Jadual Keenam] HAKMILIK STRATA SEMENTARA HAKMILIK STRATA SEMENTARA URUSNIAGA YANG DILARANG NO. HAKMILIK NO. BLOK SEMENTARA Cukai : Geran untuk selama-lamanya/Pajakan untuk tempoh ................................., yang berakhir pada ……….......................................................................... Negeri : Daerah : *Bandar/Pekan/Mukim : No. Lot : Petak Aksesori : Unit Syer Petak : No. Pelan Akui Strata : No. Rekod Daftar Strata Berkomputer : Blok sementara yang tersebut di atas yang terletak di atas tanah ini adalah dipegang bagi tempoh hakmilik itu sepenuhnya oleh pemilik yang pada masa itu dinamakan di dalam rekod ketuanpunyaan di dalamnya, tertakluk kepada Akta Hakmlik Strata 1985, kepada peruntukan kaedah-kaedah yang dibuat di bawahnya dan lebih khusus lagi kepada memorial, pengendorsan dan kemasukan lain. Menurut kuasa hakmilik ini, pemilik tersebut juga menikmati hak mengundi dalam perbadanan pengurusan yang berkadaran dengan unit-unit syer bagi blok sementara ini dan atas pertimbangan terhadap pembayaran cukai tahunan sebagaimana yang dinyatakan, berhubung dengan jumlah unit syer bagi semua bangunan yang dipecah bahagi atas tanah itu. Urusan terhadap hakmilik strata sementara ini atau apa-apa syer atau kepentingan di dalamnya adalah dilarang. Didaftarkan pada ……… hari bulan ……………................ 20……… .......................................................................... Tandatangan Digital Pendaftar ID Hakmilik : ………........…… Tarikh : ………........…… No. Versi : ………........…… Muka surat : ………........…… REKOD PERBADANAN PENGURUSAN *REKOD KETUANPUNYAAN *MEMORIAL, PENGENDORSAN DAN CATATAN LAIN .......................................................................... Tandatangan Digital Pendaftar *Masukkan sebagaimana yang bersesuaian ID Hakmilik : ………........…… Tarikh : ………........…… No. Versi : ………........…… Muka surat : ………........…… AKTA HAKMILIK STRATA 1985 BORANG Se [Jadual Keenam] PELAN HAKMILIK STRATA Saya memperakui bahawa pelan hakmilik yang dilampirkan di sini adalah salinan benar pelan akui strata yang dikecilkan bagi *petak/blok sementara di atas tanah ini; dan telah disahkan dengan sempurna di bawah tandatangan digital Pendaftar. *No. Petak/Blok Sementara : **No. Petak Aksesori : Negeri : Daerah : *Bandar/Pekan/Mukim : No. Hakmilik : No. Lot : No. Helaian : No. Pelan Akui Strata : No. Rekod Daftar Strata Berkomputer : Dibuat pada ……… hari bulan ……………………………….. 20………. ………………………………………….. Tandatangan Digital Pendaftar *Masukkan sebagaimana yang bersesuaian **Masukkan jika ada Pelan yang ditunjukkan mungkin tidak mengikut skala sebenar”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif “agregat unit syer”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_aa",
+      "@type": "akn:paragraph",
+      "eli:number": "aa",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_aa__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_aa__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_aa__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “bangunan yang dipecah bahagi”—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_aa__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_aa",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan sebelum perkataan “yang dipecah bahagi” perkataan “atau tanah”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_aa__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_aa",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “suatu bangunan” perkataan “atau tanah”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_aa__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_aa__subpara_iii__subpara_bb",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_aa",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “Bahagian II” perkataan “atau Bahagian IV, mengikut mana- mana yang berkenaan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_aa__subpara_iii__subpara_bb",
+      "@type": "akn:subparagraph",
+      "eli:number": "bb",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_aa__subpara_iii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “perbadanan pengurusan” takrif berikut: ‘ “perbadanan pengurusan subsidiari”, berhubung dengan harta bersama terhad, ertinya perbadanan pengurusan subsidiari yang ditubuhkan di bawah seksyen 17a; “peringkat struktur utama” ertinya peringkat di mana penyiapan kerja-kerja bangunan sebagaimana yang diperakui mengikut undang-undang kecil yang berkaitan yang dibuat di bawah Akta Jalan, Parit dan Bangunan 1974 [Akta 133];’; Seksyen baru 4b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif “Lembaga”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif “undang-undang kecil”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “petak tanah” takrif yang berikut: ‘ “sijil cadangan pelan strata” ertinya sijil yang mengesahkan pelan strata yang dicadangkan yang disediakan di bawah seksyen 8a atau 20a, mengikut mana-mana yang berkenaan;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “pelan strata yang diperakui”, dengan menggantikan perkataan “subseksyen 13(1)” dengan perkataan “seksyen 13 atau 22, mengikut mana-mana yang berkenaan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “Pesuruhjaya”, dengan menggantikan perkataan “seksyen 3 Akta Bangunan dan Harta Bersama (Penyenggaraan dan Pengurusan) 2007 [Akta 663]” dengan perkataan “seksyen 4 Akta Pengurusan Strata 201__ [Akta ]”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “harta bersama”, dengan menggantikan perkataan “yang diluluskan” dengan perkataan “yang diperakukan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif “majlis”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif “tempoh permulaan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan takrif “petak tanah” dengan takrif yang berikut: ‘ “petak tanah” ertinya satu unit yang ditandakan dalam sesuatu lot yang terkandung dalamnya bangunan yang tidak lebih dari empat tingkat yang dipegang di bawah suatu hakmilik strata; yang mungkin mempunyai tingkat bawah tanah yang dikongsi, yang terkandung dalamnya petak-petak aksesori dan harta bersama;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “pelan lokasi”, dengan menggantikan perkataan “10(2)” dengan perkataan “8a(3) atau 20a(3), mengikut mana-mana yang berkenaan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “bangunan kos rendah”, dengan menggantikan perkataan “10b” dengan perkataan “9b”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif “ejen pengurusan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_n",
+      "@type": "akn:paragraph",
+      "eli:number": "n",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_n__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_n__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “perbadanan pengurusan”—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_n__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_n",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “pelan strata yang diluluskan” dengan perkataan “pelan strata yang diperakui”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_n__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_n",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “39” dengan perkataan “17”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_o",
+      "@type": "akn:paragraph",
+      "eli:number": "o",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif “kumpulan wang pengurusan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_p",
+      "@type": "akn:paragraph",
+      "eli:number": "p",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_p__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_p__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_p__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “blok sementara”—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_p__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_p",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan menggantikan perkataan “pelan strata yang dicadangkan,” dengan perkataan “bangunan yang dipecah bahagi”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_p__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_p",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (a) perenggan yang berikut: “ (aa) berhubung dengan tanah yang dipecah bahagi, suatu blok yang berkenaan dengan petak tanah yang dicadangkan, yang baginya suatu hakmilik strata sementara yang berasingan telah dipohon;”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_p__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_p",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan menggantikan perkataan “pelan strata yang diluluskan” dengan perkataan “pelan strata yang diperakui”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_q",
+      "@type": "akn:paragraph",
+      "eli:number": "q",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “unit-unit syer sementara”, dengan menggantikan perkataan “pelan strata yang diluluskan” dengan perkataan “daftar strata”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_r",
+      "@type": "akn:paragraph",
+      "eli:number": "r",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “pembeli”, dengan memotong perkataan “berlesen”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_s",
+      "@type": "akn:paragraph",
+      "eli:number": "s",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “harta bersama” takrif yang berikut: ‘ “jadual petak” ertinya jadual petak atau jadual petak terpinda yang disediakan di bawah Akta Pengurusan Strata 201__;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_t",
+      "@type": "akn:paragraph",
+      "eli:number": "t",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “unit-unit syer”, dengan menggantikan perkataan “jadual unit syer” dengan perkataan “daftar strata”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_u",
+      "@type": "akn:paragraph",
+      "eli:number": "u",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif “akaun khas”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_v",
+      "@type": "akn:paragraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “bangunan khas”, dengan memasukkan selepas perkataan “Jun 1996” perkataan “atau mana- mana bangunan yang diduduki dari Jun 1996 sehingga 11 April 2007, yang diklasifikasikan sedemikian oleh Pihak Berkuasa Negeri”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_w",
+      "@type": "akn:paragraph",
+      "eli:number": "w",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif “ketetapan khas”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_x",
+      "@type": "akn:paragraph",
+      "eli:number": "x",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “pelan tingkat”, dengan menggantikan perkataan “10(3)” dengan perkataan “8a(4) atau 20a(4), mengikut mana-mana yang berkenaan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_y",
+      "@type": "akn:paragraph",
+      "eli:number": "y",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan takrif “pelan strata” dengan takrif yang berikut: ‘ “pelan strata”— (a) berhubung dengan bangunan yang dipecah bahagi, ertinya pelan lokasi dan pelan tingkat, dan termasuklah pelan pecahan atau penyatuan petak yang ditunjukkan di dalam pelan strata yang diperakui; dan (b) berhubung dengan tanah yang dipecah bahagi, ertinya pelan lokasi dan pelan tandaan, dan termasuklah pelan pecahan atau penyatuan petak yang ditunjukkan dalam pelan strata yang diperakui, dan dalam hal petak tanah dengan tingkat bawah tanah yang dikongsi, termasuk pelan tingkat;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4__para_z",
+      "@type": "akn:paragraph",
+      "eli:number": "z",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “daftarai strata”, dengan menggantikan perkataan “perenggan 43(1)(i)” dengan perkataan “Akta Pengurusan Strata 201__”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 4a seksyen yang berikut: “Permulaan kuat kuasa Sistem Pentadbiran Tanah Elektronik bagi Hakmilik Strata di mana-mana Pejabat Pendaftaran Tanah 4b.. (1) Sistem Pentadbiran Tanah Elektronik bagi Hakmilik Strata hendaklah mula berkuat kuasa di mana-mana Pejabat Pendaftaran Tanah melalui pemberitahuan dalam Warta menurut subseksyen 5d(1) Kanun Tanah Negara. (2) Bagi maksud subseksyen (1)— (a) “Pusat Pemulihan Bencana” ertinya suatu pusat sistem sokongan dan pemulihan yang ditubuhkan oleh Pihak Berkuasa Negeri untuk penyambungan urusan operasi Sistem Pentadbiran Tanah Elektronik; (b) “Pejabat Pendaftaran Tanah” termasuk— (i) dalam hal hakmilik strata yang dipegang atau yang akan dipegang bergantung kepada hakmilik Pejabat Pendaftaran, pejabat Pendaftar Hakmilik bagi Negeri itu; (ii) dalam hal hakmilik strata yang dipegang atau yang akan dipegang bergantung kepada hakmilik Pejabat Tanah, pejabat Pentadbir Tanah bagi Daerah itu; dan (iii) pada ketika bencana seperti yang dinyatakan oleh Pihak Berkuasa Negeri, Pusat Pemulihan Bencana. (3) Apabila Sistem Pentadbiran Tanah Elektronik bagi Hakmilik Strata mula berkuat kuasa di mana-mana Pejabat Pendaftaran Tanah— (a) peruntukan Jadual Keenam hendaklah terpakai setakat mana ia berkait dengan bentuk dokumen hakmilik strata, prosedur untuk penyediaan dan pendaftaran mana-mana dokumen hakmilik strata, mana-mana urusniaga dan mana-mana pemasukan atau pengendorsan apa-apa nota, memorial atau memorandum atau mana-mana pembetulan atau pembatalan mengenainya atas mana-mana dokumen hakmilik strata; (b) peruntukan-peruntukan lain bagi Akta ini yang berkait dengan Sistem Pentadbiran Tanah Elektronik hendaklah dibaca dengan ubah suaian, pindaan, penambahan, pemotongan, penggantian atau penyesuaian sebagaimana yang diperuntukkan dalam Jadual Keenam; dan (c) peruntukan Jadual Kelima hendaklah tidak lagi beroperasi. (4) Menteri boleh, dengan kelulusan Majlis Tanah Negara, melalui perintah yang disiarkan dalam Warta, meminda Jadual Keenam.”. Penggantian seksyen 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 7 dengan seksyen yang berikut: “Pemilik asal boleh memohon bagi pecah bahagi bangunan atau tanah 7. Pemilik asal mana-mana tanah beri hakmilik yang di atasnya terdapat apa-apa bangunan atau tanah yang boleh dipecah bahagi di bawah seksyen 6 boleh, tertakluk kepada peruntukan-peruntukan Akta ini, memohon kepada Pengarah untuk pecah bahagi mana-mana bangunan atau tanah itu.”. Penggantian seksyen 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7__subsec_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 8 dengan seksyen yang berikut: “Hal keadaan yang adalah wajib memohon bagi pecah bahagi bangunan atau tanah 8. (1) Pemilik asal mana-mana tanah beri hakmilik yang di atasnya terdapat bangunan yang boleh dikeluarkan hakmilik strata hendaklah, dalam tempoh yang dinyatakan dalam subseksyen (2) dan (3), memohon mengikut subseksyen 8a(1) dan 9(1) untuk pecah bahagi bangunan atau tanah itu jika pada bila-bila masa dia telah menjual atau bersetuju untuk menjual mana-mana petak dalam bangunan atau tanah itu kepada mana-mana orang. (2) Tempoh yang dalamnya kehendak subseksyen 8a(1) hendaklah dipatuhi adalah seperti berikut: (a) dalam hal jika penjualan, atau perjanjian untuk menjual, mana-mana petak dalam bangunan itu atau penjualan atau perjanjian kali pertama itu berlaku dan dokumen perakuan peringkat struktur utama dikeluarkan selepas permulaan kuat kuasa Akta ini, tempohnya ialah tiga bulan dari tarikh pengeluaran dokumen yang memperakui peringkat struktur utama;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam hal jika bangunan siap selepas permulaan kuat kuasa Akta ini dan penjualan, atau perjanjian untuk menjual, mana-mana petak dalam bangunan itu atau penjualan atau perjanjian kali pertama itu, berlaku sebelum permulaan kuat kuasa Akta ini, tempohnya ialah tiga bulan dari tarikh pengeluaran perakuan siap dan pematuhan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam hal jika bangunan siap dan penjualan, atau perjanjian untuk menjual mana-mana petak dalam bangunan itu atau penjualan atau perjanjian kali pertama itu dibuat selepas permulaan kuat kuasa Akta ini, tempohnya ialah tiga bulan dari tarikh pengeluaran perakuan siap dan pematuhan atau penjualan, atau perjanjian untuk menjual mana- mana petak dalam bangunan itu, atau penjualan atau perjanjian kali pertama itu dibuat, mengikut mana-mana yang terkemudian;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam hal jika bangunan telah siap dan penjualan, atau perjanjian untuk menjual mana-mana petak dalam bangunan itu, atau penjualan atau perjanjian kali pertama itu, dibuat sebelum permulaan kuat kuasa Akta ini, tempohnya ialah tiga bulan dari tarikh permulaan kuat kuasa Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam hal jika bangunan telah siap sebelum permulaan kuat kuasa Akta ini dan penjualan, atau perjanjian untuk menjual mana-mana petak dalam bangunan itu, atau penjualan atau perjanjian kali pertama itu, dibuat selepas permulaan kuat kuasa Akta ini, tempohnya ialah tiga bulan dari tarikh penjualan, atau perjanjian untuk menjual mana-mana petak dalam bangunan itu atau penjualan atau perjanjian kali pertama itu dibuat."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pemilik asal tanah beri hakmilik yang di atasnya bangunan atau tanah telah dikeluarkan sijil cadangan pelan strata di bawah subseksyen 8a(8), hendaklah memohon untuk pecah bahagi mengikut subseksyen 9(1) dalam tempoh satu bulan dari tarikh pengeluaran sijil cadangan pelan strata."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tempoh yang dinyatakan dalam subseksyen (2) boleh, atas permohonan yang dibuat sebelum tamatnya tempoh itu, dilanjutkan sekali oleh Pengarah Ukur selama apa-apa tempoh lanjut yang tidak melebihi satu bulan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tempoh yang dinyatakan dalam subseksyen (3) boleh, atas permohonan yang dibuat sebelum tamatnya tempoh itu, dilanjutkan sekali oleh Pengarah selama apa-apa tempoh lanjut yang tidak melebihi satu bulan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Permohonan untuk kelulusan Pengarah hendaklah dianggap sebagai tidak menurut subseksyen 8a(1) jika permohonan itu adalah cacat atas alasan ketidakpatuhan yang material dengan mana-mana kehendak subseksyen 9(1) berhubung dengan permohonan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika permohonan tidak dibuat dalam tempoh yang dinyatakan dalam subseksyen (2) dan (3), dan, dalam tempoh pelanjutan yang diberikan di bawah subseksyen (4) atau (5) berkenaan dengan sesuatu bangunan atau tanah, pemilik asal adalah melakukan suatu kesalahan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pemilik asal yang melakukan kesalahan di bawah subseksyen (7) hendaklah, apabila disabitkan, didenda tidak kurang daripada sepuluh ribu ringgit tetapi tidak lebih daripada satu ratus ribu ringgit atau dipenjarakan untuk suatu tempoh yang tidak melebihi tiga tahun atau kedua-duanya dan, dalam hal kesalahan yang berterusan, didenda selanjutnya tidak kurang daripada satu ratus ringgit tetapi tidak lebih daripada satu ribu ringgit bagi setiap hari kesalahan itu terus dilakukan.”. Seksyen baru 8a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 8 seksyen yang berikut: “Permohonan sijil cadangan pelan strata 8a.. (1) Bagi maksud subseksyen 9(1), pemilik asal mana- mana tanah beri hakmilik yang di atasnya terdapat bangunan atau tanah yang boleh dikeluarkan hakmilik strata hendaklah, memohon kepada Pengarah Ukur bagi sijil cadangan pelan strata dengan menyerahkan Borang 10 berserta dengan yang berikut: (a) fi bagi pengukuran yang dijalankan atau menyebabkan untuk dijalankan di bawah subseksyen 8a(8); (b) kecuali dalam hal di bawah perenggan (c), salinan asal pelan bangunan yang diluluskan oleh pihak berkuasa perancangan tempatan; (c) jika salinan asal pelan bangunan yang diluluskan oleh pihak berkuasa perancangan tempatan itu tidak boleh didapati, permohonan di bawah subseksyen ini hendaklah disertai dengan— (i) pelan bangunan, yang diperakui oleh seorang Arkitek Profesional atau oleh seorang juruukur tanah sebagai telah dilukis mengikut ciri-ciri sebenar bangunan itu dan sebagai menggambarkan dengan sebenar-benarnya ciri-ciri itu; dan (ii) perakuan daripada seorang pegawai pihak berkuasa perancangan tempatan yang berkenaan yang diberi kuasa sewajarnya bahawa bangunan sebagaimana yang digambarkan melalui pelan yang disebut dalam subperenggan (i), telah didirikan dengan kebenaran perancangan tetapi pelan dan spesifikasi yang dengan merujuk kepadanya kebenaran itu telah diberi tidak lagi boleh didapati, dan bahawa pihak berkuasa perancangan tempatan itu walau bagaimanapun berpuas hati yang bangunan sebagaimana yang digambarkan itu memenuhi kehendak perancangan; (d) pelan strata yang dicadangkan yang mengandungi suatu pelan lokasi, pelan tingkat dan pelan tandaan, yang mengandungi apa-apa butir sebagaimana yang dinyatakan masing-masingnya dalam subseksyen (2), (3), (4), (5), (6) dan (7) dan diperakui oleh juruukur tanah seperti yang berikut: (i) bahawa dia telah membuat perbandingan antara pelan-pelan itu dengan pelan bangunan yang diluluskan yang disediakan oleh Arkitek Profesional yang didaftarkan di bawah Akta Arkitek 1967 [Akta 117] atau Jurutera Profesional yang didaftarkan di bawah Akta Pendaftaran Jurutera 1967 [Akta 138] yang bertanggungjawab bagi pembinaannya, atau, dalam hal yang termasuk di bawah perenggan (c), dengan pelan-pelan bangunan yang telah dilukis dan diperakui oleh seorang Arkitek Profesional atau oleh seorang juruukur tanah; (ii) dalam hal pelan tingkat, bahawa sempadan petak-petak yang ditunjukkan di atasnya mengikuti ciri-ciri pembinaan tetap yang terdapat dalam bangunan itu; (iii) bangunan atau bangunan-bangunan itu terletak keseluruhannya dalam sempadan lot yang berkenaan, tetapi tidak mengira apa-apa cucur atap, kajang, dan apa-apa langkan yang tidak merupakan sebahagian daripada sesuatu petak yang dicadangkan, yang mengunjur ke suatu rizab jalan yang padanya ada permit atau permit-permit yang dikeluarkan di bawah seksyen 75a Kanun Tanah Negara berkenaan dengan tiap-tiap cucur atap, kajang dan langkan itu; (iv) bahawa setiap petak yang dicadangkan itu mempunyai— (A) jalan masuk yang memadai yang tidak melintasi suatu petak yang lain; dan (B) jalan perhubungan dalaman yang memadai yang tidak melintasi harta bersama; (v) bahawa telah diperakui oleh seorang juruukur tanah bahawa kedudukan setiap blok sementara sebagaimana yang ditandakan di atas pelan lokasi adalah keseluruhannya dalam sempadan lot yang berkenaan; (e) dalam hal mana-mana bangunan atau petak tanah yang kebenaran perancangan diperlukan untuk mendirikannya, perakuan oleh Arkitek Profesional atau Jurutera Profesional yang disebut di bawah subperenggan (1)(d)(i) bahawa bangunan itu telah dibina mengikut pelan dan spesifikasi yang dengan merujuk kepadanya kebenaran itu telah diberi, dan pelan serta spesifikasi bangunan itu menyatakan tarikh kebenaran itu diberi dan nombor rujukannya, jika ada; (f) salinan diperakui sah hakmilik tetap bagi lot tersebut; (g) salinan yang diperakui sah dokumen yang memperakukan peringkat struktur utama bagi keadaan di bawah perenggan 8(2)(a); (h) salinan yang diperakui sah perakuan siap dan pematuhan atau sijil layak menduduki, mengikut mana-mana yang berkenaan, kecuali dalam hal di bawah perenggan 8(2)(a); dan (i) salinan yang diperakui sah jadual petak atau jadual petak terpinda, mengikut mana-mana yang berkenaan, yang difailkan dengan Pesuruhjaya di bawah Akta Pengurusan Strata 201__ kecuali dalam hal di bawah perenggan 8(2)(b) dan (d). (2) Bagi maksud pecah bahagi di bawah subseksyen 6(1a), pelan strata yang dicadangkan hendaklah mengandungi pelan lokasi dan pelan tandaan, dan dalam keadaan pecah bahagi tanah yang mempunyai tingkat bawah tanah yang dikongsi, termasuk pelan tingkat yang menunjukkan petak aksesori yang dicadangkan dan harta bersama. (3) Tiap-tiap pelan lokasi hendaklah— (a) menyatakan nombor lot, nombor hakmilik tanah yang terkandung dalamnya dan keluasannya; (b) menandakan sempadan-sempadan dan tanda-tanda sempadan bagi lot itu dan kedudukan kesemua bangunan di atasnya, dengan menunjukkan bangunan mana yang hendak dipecahbahagikan dan dalam hal permohonan bagi pecah bahagi tanah kepada petak- petak tanah, menandakan sempadan-sempadan dan tanda-tanda sempadan bagi lot itu dan petak-petak yang menunjukkan kedudukan kesemua bangunan di atasnya; (c) dalam hal pecah bahagi bangunan, dan pecah bahagi tanah kepada petak tanah dengan tingkat bawah tanah yang dikongsi, menyertakan suatu keratan menegak bagi setiap bangunan tersebut atau tingkat bawah tanah yang dikongsi, mengikut mana-mana yang berkenaan, yang menunjukkan— (i) lantai dan siling setiap tingkat; dan (ii) ketinggian setiap tingkat; dan (d) mengandungi apa-apa butir terperinci lain sebagaimana yang ditetapkan oleh Pengarah Ukur. (4) Tiap-tiap pelan tingkat hendaklah— (a) menyatakan nombor lot dan nombor hakmilik tanah yang terkandung dalamnya, dan bangunan serta tingkat yang dinomborkannya yang baginya pelan itu berkaitan; (b) menandakan, tertakluk kepada peruntukan perenggan (7)(a) dan (b), setiap petak yang dicadangkan dan menentukan sempadannya dengan merujuk kepada lantai dan dinding yang menunjukkan dimensi mendatar, tanpa perlu menunjukkan bering; (c) menunjukkan berkenaan dengan setiap petak itu nombor yang dengannya petak itu diperihalkan dalam pelan strata yang dicadangkan; (d) menyatakan keluasan lantai setiap petak; (e) membezakan apa-apa bahagian sebagai tidak dimasukkan ke dalam mana-mana petak tetapi hendak dijadikan sebahagian daripada harta bersama; dan (f) mengandungi apa-apa butir terperinci lain sebagaimana yang ditetapkan oleh Pengarah Ukur. (5) Tiap-tiap pelan tandaan hendaklah— (a) menyatakan nombor lot dan nombor hakmilik tanah yang terkandung dalamnya, dan petak tanah yang baginya pelan itu berkaitan; (b) menandakan setiap petak tanah yang dicadangkan dengan merujuk kepada sempadan lot yang menunjukkan bering dan jarak bagi setiap sempadan; (c) menunjukkan berkenaan dengan setiap petak tanah itu nombor yang dengannya petak tanah itu diperihalkan dalam pelan strata yang dicadangkan; (d) menyatakan keluasan setiap petak tanah; (e) membezakan mana-mana bahagian sebagai tidak dimasukkan ke dalam mana-mana petak tanah tetapi adalah menjadi sebahagian daripada harta bersama; dan (f) mengandungi apa-apa butir terperinci lain sebagaimana yang ditetapkan oleh Pengarah Ukur. (6) Tiap-tiap pelan strata yang dicadangkan hendaklah— (a) menunjukkan petunjuk bagi— (i) semua petak; (ii) semua harta bersama; dan (iii) semua petak aksesori, dan menyatakan dalamnya petak-petak yang dijadikan berhubung kait dengannya, tidak kira sama ada petak-petak aksesori itu adalah berdampingan dengan petak-petak yang dinyatakan itu; dan (b) mengandungi apa-apa butir lain sebagaimana yang ditentukan oleh Pengarah Ukur. (7) Jika suatu petak aksesori— (a) mengandungi suatu bangunan atau bahagian-bahagiannya dan disempadani dengan dinding luar, lantai dan siling, dimensi dan sempadan petak aksesori itu hendaklah ditunjukkan dalam pelan strata yang dicadangkan itu mengikut kehendak subseksyen (3), (4) dan (5); (b) tidak mengandungi suatu bangunan atau bahagian- bahagiannya— (i) sempadan-sempadan luar bagi petak aksesori itu hendaklah dipastikan daripada pelan bangunan yang diluluskan oleh pihak berkuasa perancangan, dan petak aksesori itu hendaklah mencapai ketinggian yang munasabah atau setakat apa-apa unjuran di bahagian atas atau melanggar sempadan di bawah aras bumi oleh suatu bahagian lain lot itu; dan (ii) pelan strata yang dicadangkan hendaklah menunjukkan gambar rajah petak aksesori dengan dimensi yang serupa dengan dimensi sebagaimana yang ditunjukkan dalam pelan yang diluluskan yang disebut dalam subperenggan (i). (8) Pengarah Ukur hendaklah sesudah itu menyemak pelan lokasi, pelan tingkat dan pelan tandaan, mengikut mana-mana yang berkenaan, menjalankan atau menyebabkan dijalankan apa-apa kerja ukur tanah, mana-mana bangunan di atasnya atau mana-mana petak, dan hendaklah— (a) mengeluarkan sijil cadangan pelan strata kepada pemohon jika dia berpuas hati bahawa pelan itu teratur; (b) mengeluarkan satu salinan sijil itu kepada Pentadbir Tanah bagi maksud seksyen 8; dan (c) memberitahu Pentadbir Tanah akan amaun fi yang hendak dipungut berkenaan dengan pelan yang disebabkan supaya disediakan sekiranya permohonan itu diluluskan. (9) Jika suatu permohonan di bawah subseksyen (1) melibatkan blok atau blok-blok sementara menurut seksyen 9a, kehendak-kehendak yang berikut yang berhubungan dengan blok atau blok-blok sementara itu hendaklah, sebagai tambahan kepada kehendak-kehendak seksyen 9 yang berhubungan dengan bangunan atau bangunan-bangunan atau tanah tertentu yang hendak dipecahbahagikan, dipatuhi dalam membuat permohonan itu: (a) permohonan itu hendaklah disertakan dengan salinan asal pelan bangunan yang diluluskan oleh pihak berkuasa perancangan bagi bangunan atau bangunan- bangunan untuk, atau yang sedang, didirikan; (b) pelan lokasi hendaklah termasuk suatu petunjuk, dan hendaklah menandakan kedudukan setiap blok sementara, yang menunjukkan, mengikut pelan- pelan bangunan yang diluluskan, keratan tegak dan dimensi-dimensi bangunan atau tingkat bawah tanah yang dikongsi bagi petak tanah, jika ada; (c) permohonan itu hendaklah disertai, sebagai membentuk sebahagian daripada pelan strata yang dicadangkan, dengan suatu pelan tingkat berkenaan dengan setiap blok sementara, yang hendaklah menandakan sempadan-sempadan luar, dan menunjukkan, mengikut pelan-pelan bangunan yang diluluskan, dimensi- dimensi mendatar bangunan atau tingkat bawah tanah yang dikongsi bagi petak tanah, jika ada, yang padanya blok sementara itu berkaitan, tanpa perlu menunjukkan apa-apa bering; dan (d) pelan strata yang dicadangkan hendaklah, bagi maksud blok atau blok-blok sementara bagi maksud tanah— (i) menandakan blok yang dicadangkan dengan merujuk kepada sempadan lot yang menunjukkan bering dan jarak bagi setiap sempadan; (ii) menyatakan keluasan blok atau blok-blok sementara; dan (iii) mengandungi apa-apa butir lain sebagaimana yang ditentukan oleh Pengarah Ukur.”. Penggantian seksyen 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 9 dengan seksyen yang berikut: “Permohonan bagi pecah bahagi bangunan, dsb. 9. (1) Suatu permohonan bagi mendapatkan kelulusan Pengarah bagi pecah bahagi bangunan, bangunan dan tanah, di bawah subseksyen 6(1) dan pecah bahagi tanah di bawah subseksyen 6(1a) hendaklah dibuat dalam Borang 1 kepada Pentadbir Tanah dan hendaklah disertai dengan— (a) apa-apa fi sebagaimana yang ditetapkan; (b) apa-apa fi sebagaimana yang diberitahu oleh Pengarah Ukur di bawah perenggan 8a(8)(c); (c) sijil cadangan pelan strata; (d) perakuan klasifikasi bangunan kos rendah yang dikeluarkan di bawah subseksyen 9b(3), jika ada; (e) keizinan-keizinan bertulis kepada pembuatan permohonan itu daripada tiap-tiap orang yang, pada masa permohonan dibuat, adalah berhak mendapat faedah daripada pajakan seluruh atau mana-mana bahagian tanah itu, selain bahagian yang betul-betul menepati, atau termasuk dalam, salah satu daripada petak-petak yang akan wujud setelah dipecah bahagi; (f) cadangan nama perbadanan pengurusan, dan alamat bagi penyampaian dokumen-dokumen kepadanya, yang dikehendaki supaya dibekalkan menurut subseksyen 15(3); (g) dokumen hakmilik keluaran bagi lot itu; (h) salinan yang diperakui sah perakuan siap dan pematuhan atau sijil layak menduduki, mengikut mana-mana yang berkenaan, kecuali dalam hal di bawah perenggan 8(2)(a); dan (i) salinan yang diperakui sah jadual petak atau jadual petak terpinda, mengikut mana-mana yang berkenaan, kecuali dalam hal di bawah perenggan 8(2)(b) dan (d). (2) Tiada permohonan di bawah subseksyen (1) boleh dibuat melainkan jika— (a) tanah itu dipegang di bawah hakmilik tetap; (b) penggunaan tanah itu tidak bertentangan dengan kategori dan syarat-syarat tanah; dan (c) tanah itu tidak tertakluk kepada apa-apa gadaian atau lien. (3) Apabila menerima suatu permohonan di bawah subseksyen (1), Pentadbir Tanah hendaklah mengendorskan atau menyebabkan untuk diendors, suatu catatan mengenai pembuatannya dalam dokumen hakmilik daftar. (4) Pentadbir Tanah hendaklah sesudah itu sekiranya dia berpuas hati bahawa permohonan itu dan dokumen-dokumen lain yang dikemukakan bersamanya itu adalah teratur, menghantarkan permohonan itu dan dokumen-dokumen lain itu kepada Pengarah bersama-sama dengan syor Pentadbir Tanah untuk kelulusan atau penolakan.”. Seksyen baru 9a dan 9b"
+      }
+    }
+  ]
+}

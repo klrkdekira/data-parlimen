@@ -1,0 +1,103 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/11/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/11"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-11-2013",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/11/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/11/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/11/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/11/msa@/~cl_4"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-undang Kesalahan Keselamatan (Langkah-Langkah Khas) (Pindaan) 2013"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/11/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Kesalahan Keselamatan (Langkah-Langkah Khas) (Pindaan) 2013. Pindaan seksyen 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/11/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/11/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/11/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Kesalahan Keselamatan (Langkah-Langkah Khas) 2012 [Akta 747], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 6 teks bahasa kebangsaan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/11/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/11/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perenggan (a) dengan perenggan yang berikut: “(a) menghendaki pemberi perkhidmatan komunikasi untuk memintas dan menyimpan komunikasi tertentu atau komunikasi daripada perihalan tertentu yang diterima atau dihantar, atau yang akan diterima atau dihantar oleh pemberi perkhidmatan komunikasi itu; atau”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/11/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/11/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (7), dengan memotong perkataan “komunikasi” yang terdapat selepas perkataan “telegraf,”. Pindaan seksyen 30"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/11/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 30 Akta ibu dipinda dalam teks bahasa kebangsaan, dengan menggantikan subseksyen (3) dengan subseksyen yang berikut: “(3) Apabila Pendakwa Raya memfailkan suatu notis rayuan terhadap pembebasan itu, Pendakwa Raya boleh memohon kepada mahkamah perbicaraan bagi mendapatkan suatu perintah untuk memenjarakan tertuduh yang direman dalam jagaan polis itu sementara menunggu beresnya rayuan.”. Penggantian Jadual Pertama"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/11/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan Jadual Pertama dengan Jadual yang berikut: “JADUAL PERTAMA (Seksyen 3) KESALAHAN KESELAMATAN Kanun Keseksaan [Akta 574]: (i) Kesalahan di bawah Bab VI (ii) Kesalahan di bawah Bab VIa (iii) Kesalahan di bawah Bab VIb Akta Antipemerdagangan Orang dan Antipenyeludupan Migran 2007 [Akta 670]: Kesalahan di bawah Bahagian IIIa”. (Pindaan)"
+      }
+    }
+  ]
+}

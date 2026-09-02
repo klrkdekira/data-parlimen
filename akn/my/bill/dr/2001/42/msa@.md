@@ -48,9 +48,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ## PERNIAGAAN
 
-Takrif.
-
-124A. Dalam Bahagian ini, melainkan jika konteksnya menghendaki makna yang lain—
+Takrif. 124A. Dalam Bahagian ini, melainkan jika konteksnya menghendaki makna yang lain—
 
 "akaun sekuriti" ertinya suatu akaun yang diwujudkan oleh sesuatu depositori pusat bagi seseorang pendeposit untuk merekodkan sekuriti-sekuriti dan untuk berniaga sekuriti sedemikian oleh pendeposit itu;
 
@@ -96,15 +94,87 @@ Takrif.
 
 <!-- page 5 -->
 
-Permohonan
+<!-- marginal: Permohonan -->
 
-124B. (1) Jika dalam hal— kepada Mahkamah
+124B. (1) Jika dalam hal—
 
-(a) seseorang peniaga berlesen atau broker niaga Tmggi untuk memudahkan hadapan berlesen, Menteri, atas syor Suruhanjaya, perjanjian telah memberikan kelulusannya; atau perkiraan
+<!-- marginal: kepada -->
 
-(b) seseorang pengurus kumpulan wang berlesen, bagi pemindahan penasihat pelaburan berlesen, pengurus kumpulan keseluruhan wang niaga hadapan berlesen atau penasihat atau sebahagian perdagangan niaga hadapan berlesen, Suruhanjaya perniagaan telah memberikan kelulusannya; dan orang berlesen,
+<!-- marginal: Mahkamah -->
 
-(c) seseorang pengurus kumpulan wang terkecuali atau pengurus kumpulan pengurus kumpulan wang niaga hadapan terkecuali, wang Suruhanjaya telah memberikan kelulusannya, terkecuali dan pengurus berhubung dengan sesuatu perjanjian atau perkiraan— kumpulan wang niaga hadapan (A) bagi penjualan, pelupusan atau pemindahan hakmilik terkecuali. mengikut apa-apa cara kesemua atau mana-mana bahagian perniagaan peniaga berlesen, pengurus kumpulan wang berlesen, penasihat pelaburan berlesen, broker niaga hadapan berlesen, pengurus kumpulan wang niaga hadapan berlesen, penasihat perdagangan niaga hadapan berlesen, pengurus kumpulan wang terkecuali atau pengurus kumpulan wang niaga hadapan terkecuali;
+(a) seseorang peniaga berlesen atau broker niaga
+
+<!-- marginal: Tmggi untuk -->
+
+<!-- marginal: memudahkan -->
+
+hadapan berlesen, Menteri, atas syor Suruhanjaya,
+
+<!-- marginal: perjanjian -->
+
+telah memberikan kelulusannya;
+
+<!-- marginal: atau -->
+
+<!-- marginal: perkiraan -->
+
+(b) seseorang pengurus kumpulan wang berlesen,
+
+<!-- marginal: bagi -->
+
+<!-- marginal: pemindahan -->
+
+penasihat pelaburan berlesen, pengurus kumpulan
+
+<!-- marginal: keseluruhan -->
+
+wang niaga hadapan berlesen atau penasihat
+
+<!-- marginal: atau -->
+
+<!-- marginal: sebahagian -->
+
+perdagangan niaga hadapan berlesen, Suruhanjaya
+
+<!-- marginal: perniagaan -->
+
+telah memberikan kelulusannya; dan
+
+<!-- marginal: orang -->
+
+<!-- marginal: berlesen, -->
+
+(c) seseorang pengurus kumpulan wang terkecuali atau
+
+<!-- marginal: pengurus -->
+
+<!-- marginal: kumpulan -->
+
+pengurus kumpulan wang niaga hadapan terkecuali,
+
+<!-- marginal: wang -->
+
+Suruhanjaya telah memberikan kelulusannya,
+
+<!-- marginal: terkecuali -->
+
+<!-- marginal: dan -->
+
+<!-- marginal: pengurus -->
+
+berhubung dengan sesuatu perjanjian atau perkiraan—
+
+<!-- marginal: kumpulan -->
+
+<!-- marginal: wang niaga -->
+
+<!-- marginal: hadapan -->
+
+(A) bagi penjualan, pelupusan atau pemindahan hakmilik
+
+<!-- marginal: terkecuali. -->
+
+mengikut apa-apa cara kesemua atau mana-mana bahagian perniagaan peniaga berlesen, pengurus kumpulan wang berlesen, penasihat pelaburan berlesen, broker niaga hadapan berlesen, pengurus kumpulan wang niaga hadapan berlesen, penasihat perdagangan niaga hadapan berlesen, pengurus kumpulan wang terkecuali atau pengurus kumpulan wang niaga hadapan terkecuali;
 
 (B) bagi penggabungan atau percantuman peniaga berlesen, pengurus kumpulan wang berlesen, penasihat pelaburan berlesen, broker niaga hadapan berlesen, pengurus kumpulan wang niaga hadapan berlesen, penasihat perdagangan niaga hadapan berlesen, pengurus kumpulan wang terkecuali atau pengurus kumpulan wang niaga hadapan terkecuali dengan mana-mana orang lain; atau
 
@@ -224,4 +294,6 @@ dan pengurus kumpulan wang niaga hadapan terkecuali. Peruntukan yang dicadangkan
 
 IMPLIKASl KEWAWGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN(U2)2262]
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
+
+<!-- marginal: [PN(U2)2262] -->

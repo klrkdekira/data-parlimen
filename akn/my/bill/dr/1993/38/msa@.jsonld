@@ -110,9 +110,13 @@
       "@type": "akn:clause",
       "eli:number": "3",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 36 Akta ibu adalah dipinda dengan"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Seksyen 36 Akta ibu adalah dipinda dengan Pindaan seksyen 36. menggantikan subseksyen (2) dengan yang berikut: \"(2) Amaun pendapatan statutori yang hendak dikurangkan di bawah subseksyen (1) hendaklah amaun yang ditentukan dengan mengenakan kepada pendapatan statutori kadar yang sama banyak dengan dua puluh lima peratus daripada jualan eksport atas jumlah jualan: Dengan syarat selanjutnya bahawa jika tempoh asas suatu syarikat bagi tahun taksiran 1994 termasuklah suatu tempoh sebelum 1hb Januari 1993, amaun yang hendak dikurangkan hendaklah jumlah— (a) suatu amaun yang ditentukan dengan mengenakan kepada pendapatan statutori kadar yang sama banyak dengan lima puluh PENGGALAKAN PELABURAN (PINDAAN) (No. 2) peratus daripada jualan eksport daJam tempoh sebelum 1hb Januari 1993 atas jumlah jualan bagi seluruh tempoh asas; dan (b) suatu amaun yang ditentukan dengan mengenakan kepada pendapatan statutori kadar yang sama banyak dengan dua puluh lima peratus daripada jualan eksport dalam tempoh selepas 31hb Disember 1992 atas jumlah jualan bagi seluruh tempoh asas: Dengan syarat selanjutnya bahawa jika suatu syarikat itu mengeksport pada atau selepas 1hb Januari 1994 dan tempoh asasnya bagi tahun taksiran 1995 termasuklah suatu tempoh sebelum 1hb Januari 1994, syarikat itu hendaklah diberi pengurangan pendapatan statutorinya di bawah subseksyen (1) dan amaun yang hendak dikurangkan di bawah subseksyen (2) hendaklah suatu amaun yang ditentukan dengan mengenakan kepada pendapatan statutori suatu kadar yang sama banyak dengan dua puluh lima peratus daripada jualan eksport dalam tempoh sebelum 1hb Januari 1994 atas jumlah jualan bagi seluruh tempoh asas.\"."
+        "@value": "menggantikan subseksyen (2) dengan yang berikut: \"(2) Amaun pendapatan statutori yang hendak dikurangkan di bawah subseksyen (1) hendaklah amaun yang ditentukan dengan mengenakan kepada pendapatan statutori kadar yang sama banyak dengan dua puluh lima peratus daripada jualan eksport atas jumlah jualan: Dengan syarat selanjutnya bahawa jika tempoh asas suatu syarikat bagi tahun taksiran 1994 termasuklah suatu tempoh sebelum 1hb Januari 1993, amaun yang hendak dikurangkan hendaklah jumlah— (a) suatu amaun yang ditentukan dengan mengenakan kepada pendapatan statutori kadar yang sama banyak dengan lima puluh PENGGALAKAN PELABURAN (PINDAAN) (No. 2) peratus daripada jualan eksport daJam tempoh sebelum 1hb Januari 1993 atas jumlah jualan bagi seluruh tempoh asas; dan (b) suatu amaun yang ditentukan dengan mengenakan kepada pendapatan statutori kadar yang sama banyak dengan dua puluh lima peratus daripada jualan eksport dalam tempoh selepas 31hb Disember 1992 atas jumlah jualan bagi seluruh tempoh asas: Dengan syarat selanjutnya bahawa jika suatu syarikat itu mengeksport pada atau selepas 1hb Januari 1994 dan tempoh asasnya bagi tahun taksiran 1995 termasuklah suatu tempoh sebelum 1hb Januari 1994, syarikat itu hendaklah diberi pengurangan pendapatan statutorinya di bawah subseksyen (1) dan amaun yang hendak dikurangkan di bawah subseksyen (2) hendaklah suatu amaun yang ditentukan dengan mengenakan kepada pendapatan statutori suatu kadar yang sama banyak dengan dua puluh lima peratus daripada jualan eksport dalam tempoh sebelum 1hb Januari 1994 atas jumlah jualan bagi seluruh tempoh asas.\"."
       }
     },
     {
@@ -180,7 +184,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_5",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan noktah subperenggan (b)(ii) dengan noktah bertindih dan memasukkan selepas subperenggan (ii) proviso yang berikut: \"Dengan syarat bahawa jika tempoh asas suatu syarikat bagi tahun taksiran 1994 termasuklah suatu tempoh sebelum 1hb Januari 1993, amaun potongan yang hendak dibuat di bawah subseksyen (1) hendaklah jumlah— (A) amaun yang sama banyak dengan lima peratus daripada pendapatan kasar yang ditentukan di bawah perenggan (2)(a) yang diperolehi daripada pengeksportan pertanian atau pengeksportan oleh suatu syarikat perdagangan akan keluaran-keluaran yang dikilang di Malaysia dalam tempoh sebelum 1hb Januari 1993; dan (B) amaun yang sama banyak dengan tiga peratus daripada pendapatan kasar yang ditentukan di bawah perenggan (2)(a) yang diperolehi daripada pengeksportan hasil pertanian atau pengeksportan oleh suatu syarikat perdagangan akan keluaran-keluaran yang dikilang di Malaysia dalam tempoh selepas 31hb Disember 1992.\"."
+        "@value": "dengan menggantikan noktah dalam subperenggan (b)(ii) dengan noktah bertindih dan memasukkan selepas subperenggan (ii) proviso yang berikut: \"Dengan syarat bahawa jika tempoh asas suatu syarikat bagi tahun taksiran 1994 termasuklah suatu tempoh sebelum 1hb Januari 1993, amaun potongan yang hendak dibuat di bawah subseksyen (1) hendaklah jumlah— (A) amaun yang sama banyak dengan lima peratus daripada pendapatan kasar yang ditentukan di bawah perenggan (2)(a) yang diperolehi daripada pengeksportan hasil pertanian atau pengeksportan oleh suatu syarikat perdagangan akan keluaran-keluaran yang dikilang di Malaysia dalam tempoh sebelum 1hb Januari 1993; dan (B) amaun yang sama banyak dengan tiga peratus daripada pendapatan kasar yang ditentukan di bawah perenggan (2)(a) yang diperolehi daripada pengeksportan hasil pertanian atau pengeksportan oleh suatu syarikat perdagangan akan keluaran-keluaran yang dikilang di Malaysia dalam tempoh selepas 31hb Disember 1992.\"."
       }
     },
     {
@@ -188,9 +192,13 @@
       "@type": "akn:clause",
       "eli:number": "6",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas baru 40A. seksyen 40 seksyen yang berikut: \"Elaun eks- 40A. Bab ini tidaklah terpakai bagi suatu port tidak syarikat berkenaan dengan eksport yang dibuat boleh didapati. pada atau selepas 1hb Januari 1994.\". PENGGALAKAN PELABURAN (PINDAAN) (No. 2)"
+        "@value": "seksyen 40 seksyen yang berikut: 40A. Bab ini tidaklah terpakai bagi suatu syarikat berkenaan dengan eksport yang dibuat pada atau selepas 1hb Januari 1994.\". PENGGALAKAN PELABURAN (PINDAAN) (No. 2)"
       }
     }
   ]

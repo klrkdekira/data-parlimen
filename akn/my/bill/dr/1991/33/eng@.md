@@ -32,11 +32,7 @@ is amended by inserting, immediately after section 10,
 
 the following new section IOA:
 
-"Non- 10A. (1) Notwithstanding the provisions of chargeability
-
-## Part II, an offshore company carrying on an
-
-to tax of offshore offshore business activity which is an offshore trading trading activity shall not be charged to tax for activity. a year of assessment if in that year of assessment that offshore company has paid a fee specified under section 151 of the Offshore Ace 441. Companies Act 1990.
+"Non- 10A. (1) Notwithstanding the provisions of chargeability Part II, an offshore company carrying on an to tax of offshore offshore business activity which is an offshore trading trading activity shall not be charged to tax for activity. a year of assessment if in that year of assessment that offshore company has paid a fee specified under section 151 of the Offshore Ace 441. Companies Act 1990.
 
 (2) An offshore company not chargeable to tax under subsection (1) shall within a period of three months (or any extended period as may be allowed by the Director-General) from the commencement of a year of assessment, file a statutory declaration in the prescribed form with the Director-General.".
 

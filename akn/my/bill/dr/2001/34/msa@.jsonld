@@ -1,0 +1,2290 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-34-2001",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_2"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Perbadanan Harta Intelek Malaysia 2001"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERMULAAN Tajuk ringkas dan permulaan kuat kuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_16"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERBADANAN Penubuhan Perbadanan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_20"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "FUNGSI DAN KUASA PERBADANAN Fungsi Perbadanan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17__para_k"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Fungsi Perbadanan adalah —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memastikan bahawa peruntukan Akta ini dan Perundangan Harta Intelek ditadbirkan, dikuatkuasakan, diberi kuat kuasa, dijalankan dan dipatuhi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk bertindak sebagai ejen Kerajaan dan untuk mengadakan perkhidmatan bagi mentadbirkan, memungut dan menguatkuasakan pembayaran fi yang ditetapkan atau apa-apa caj lain di bawah Perundangan Harta Intelek;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengawal selia dan mengawasi isu atau perkara berhubung dengan harta intelek yang berhubungan dengan Perundangan Harta Intelek;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menasihati tentang kajian mengemaskinikan Perundangan Harta Intelek;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menggalakkan dan meningkatkan latihan dan penyebaran pengetahuan dan maklumat mengenai harta intelek;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengadakan, menggalakkan dan menyediakan program kerjasama di peringkat kebangsaan atau antarabangsa mengenai isu atau perkara yang berhubungan dengan harta intelek;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memelihara kepentingan Malaysia berkenaan dengan mana-mana perjanjian atau konvensyen antarabangsa yang Malaysia menjadi pihak kepadanya, dan hendaklah setakat yang perlu memberikan kuat kuasa kepada mana-mana peruntukan perjanjian atau konvensyen itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menasihati Kerajaan mengenai pembangunan di peringkat antarabangsa mengenai isu atau perkara yang berhubungan dengan harta intelek;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menjalankan penyelidikan dan untuk mengkomisikan kajian mengenai isu atau perkara yang berhubungan dengan harta intelek;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menasihati Menteri secara am mengenai isu atau perkara yang berhubungan dengan harta intelek; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menjalankan apa-apa kegiatan dan melakukan apa- apa perkara yang perlu atau bermanfaat dan patut bagi pentadbiran Perbadanan, atau bagi apa-apa maksud lain, yang selaras dengan Akta ini, yang diarahkan oleh Menteri. Kuasa Perbadanan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbadanan hendaklah mempunyai kuasa untuk melakukan segala yang perlu atau suai manfaat bagi atau berkaitan dengan pelaksanaan fungsi-fungsinya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18__subsec_2__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tanpa menjejaskan keluasan subseksyen (1), kuasa Perbadanan hendaklah termasuk kuasa—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menggunakan segala harta Perbadanan, alih dan tak alih, mengikut apa-apa cara yang didapati suai manfaat oleh Perbadanan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengenakan fi atau caj bagi perkhidmatan yang diberikan oleh Perbadanan sebagaimana yang ditetapkan oleh Menteri melalui peraturan-peraturan yang dibuat di bawah seksyen 41;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melantik ejen, pakar atau perunding yang didapatinya patut untuk membantu Perbadanan dalam menjalankan fungsi-fungsinya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memberikan pinjaman kepada pekerja Perbadanan bagi apa-apa maksud yang diluluskan oleh Menteri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk bekerja sama dengan mana-mana pertubuhan perbadanan atau agensi kerajaan bagi maksud melaksanakan fungsi-fungsi Perbadanan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melantik dan mengawal selia Pemeriksa di bawah Akta Paten 1983 [Akta 291]; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melakukan apa-apa jua yang bersampingan dengan mana-mana fungsi dan kuasanya,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbadanan hendaklah mempunyai segala kuasa yang perlu bagi atau berkaitan dengan, atau yang dengan semunasabahnya bersampingan dengan, pelaksanaan fungsi-fungsi dan penjalanan kuasanya di bawah Perundangan Harta Intelek."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi mengelakkan keraguan diisytiharkan bahawa kuasa Perbadanan tidaklah termasuk kuasa Ketua Pengarah di bawah Perundangan Harta Intelek. Perbadanan boleh menubuhkan jawatankuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_19__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_19__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_19__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_19__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_19__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_19__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbadanan boleh menubuhkan apa-apa jawatankuasa yang didapatinya perlu atau suai manfaat untuk membantunya melaksanakan fungsinya dan menjalankan kuasanya di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Anggota sesuatu jawatankuasa yang ditubuhkan di bawah subseksyen (1) boleh dilantik daripada kalangan anggota Perbadanan atau mana-mana orang lain yang didapati patut oleh Perbadanan,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_19__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbadanan boleh membatalkan pelantikan mana-mana anggota sesuatu jawatankuasa tanpa memberikan apa-apa sebab bagi pembatalan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_19__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Anggota sesuatu jawatankuasa boleh meletakkan jawatan dengan memberikan notis bertulis kepada Pengerusi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_19__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sesuatu jawatankuasa yang ditubuhkan di bawah seksyen ini boleh melantik mana-mana anggotanya menjadi pengerusi dan boleh mengawal selia tatacaranya sendiri, dan pada menjalankan kuasanya jawatankuasa itu hendaklah tertakluk kepada dan bertindak mengikut apa-apa arahan yang diberikan kepada jawatankuasa itu oleh Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_19__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Anggota sesuatu jawatankuasa atau mana-mana orang yang diundang untuk menghadiri mana-mana mesyuarat sesuatu jawatankuasa boleh dibayar apa-apa elaun dan perbelanjaan lain yang ditentukan oleh Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_19__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mesyuarat sesuatu jawatankuasa hendaklah diadakan pada masa dan di tempat yang ditentukan oleh pengerusi jawatankuasa, tertakluk kepada subseksyen (5). Pewakilan fungsi atau kuasa Perbadanan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_20__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_20__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbadanan boleh mewakilkan mana-mana fungsi atau kuasanya kepada mana-mana jawatankuasa yang ditubuhkan di bawah seksyen 19 sebagaimana yang disifatkannya perlu atau wajar."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_20__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_20__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa fungsi atau kuasa yang diwakilkan di bawah seksyen ini—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_20__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "boleh diwakilkan sedemikian tertakluk kepada apa-apa syarat atau sekatan sebagaimana yang dikenakan secara am atau khas oleh Perbadanan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_20__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "hendaklah dijalankan oleh jawatankuasa itu atas nama dan bagi pihak Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_20__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pewakilan di bawah seksyen ini tidaklah menghalang Perbadanan melaksanakan atau menjalankan sendiri mana-mana fungsi atau kuasa yang diwakilkan itu pada bila-bila masa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_10__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengerusi Perbadanan hendaklah dibayar apa-apa saraan dan elaun sebagaimana yang ditentukan oleh Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap anggota Perbadanan hendaklah dibayar elaun mengikut kadar yang ditentukan oleh Menteri. Ketua Pengarah dan Timbalan Ketua Pengarah"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_11__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_11__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_11__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_11__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_11__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah melantik—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_11__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang yang sesuai yang mempunyai pengetahuan atau pengalaman tentang harta intelek atau perkara yang berhubungan dengan harta intelek untuk menjadi Ketua Pengarah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_11__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa bilangan orang yang perlu untuk menjadi Timbalan Ketua Pengarah, atas apa-apa terma dan syarat yang ditentukan oleh Menteri, bagi pentadbiran sepatutnya Akta ini dan Perundangan Harta Intelek, dan boleh membatalkan pelantikan mana-mana orang yang dilantik sedemikian tanpa memberikan apa-apa sebab bagi pembatalan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah hendaklah bertanggungjawab bagi pentadbiran harian Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_11__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Timbalan Ketua Pengarah hendaklah tertakluk kepada arahan dan kawalan Ketua Pengarah dan Timbalan Ketua Pengarah itu boleh melaksanakan segala kewajipan Ketua Pengarah di bawah Akta ini dan Perundangan Harta Intelek sebagaimana yang ditentukan oleh Ketua Pengarah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_11__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sekiranya Ketua Pengarah tidak dapat melaksanakan kewajipannya buat sementara kerana sakit atau apa-apa sebab lain, salah seorang daripada Timbalan Ketua Pengarah itu boleh menghadiri mana-mana mesyuarat Perbadanan atau mana-mana jawatankuasa sebagai penggantinya. Mesyuarat"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_12__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_12__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_12__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_12__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_12__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbadanan hendaklah bermesyuarat seberapa kerap yang perlu bagi melaksanakan fungsi-fungsinya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lima orang anggota Perbadanan, seorang daripadanya anggota yang mewakili Kerajaan, hendaklah membentuk kuorum mesyuarat Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_12__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika mengenai sesuatu persoalan untuk ditentukan oleh Perbadanan terdapat bilangan undi yang sama banyak, Pengerusi hendaklah mempunyai undi pemutus."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_12__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sekiranya Pengerusi tidak hadir atau tidak dapat bertindak kerana sakit atau apa-apa sebab lain, mana-mana anggota Perbadanan selain Ketua Pengarah boleh dilantik oleh anggota-anggota yang hadir untuk mempengerusikan mesyuarat."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_12__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah, berkenaan dengan setiap anggota Perbadanan yang mewakili Kerajaan, melantik seorang anggota silih ganti yang boleh menghadiri mana-mana mesyuarat Perbadanan sebagai ganti anggota itu apabila anggota itu tidak dapat hadir kerana apa-apa sebab dan anggota silih ganti itu, apabila hadir sedemikian, hendaklah bagi semua maksud dianggap sebagai anggota Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_12__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada peruntukan Akta ini, Perbadanan hendaklah menentukan tatacaranya sendiri. Perbadanan boleh mengundang orang lain untuk menghadiri mesyuarat"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_13__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbadanan boleh mengundang mana-mana orang untuk menghadiri mana-mana mesyuarat atau pertimbangtelitian Perbadanan bagi maksud menasihatinya tentang apa-apa perkara yang sedang dibincangkan, tetapi mana-mana orang yang hadir sedemikian tidak berhak untuk mengundi dalam mesyuarat atau pertimbangtelitian itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang diundang untuk menghadiri mana- mana mesyuarat atau pertimbangtelitian Perbadanan di bawah subseksyen (1) boleh dibayar apa-apa saraan atau elaun yang ditentukan oleh Menteri. Kuasa Menteri uiituk memberikan arahan dan menghendaki maklumat"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_14__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh,dari semasa ke semasa, memberi Perbadanan arahan yang bersifat am yang selaras dengan peruntukan Akta ini berhubung dengan pelaksanaan fungsi Perbadanan dan Perbadanan hendaklah melaksanakan arahan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbadanan hendaklah memberi Menteri apa-apa penyata, akaun dan maklumat berkenaan dengan pelaksanaan mana-mana fungsinya di bawah Akta ini atau Perundangan Harta Intelek sebagaimana yang dikehendaki atau diarahkan oleh Menteri dari semasa ke semasa. Penzahiran kepentingan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang anggota Perbadanan atau mana-mana jawatankuasa yang ditubuhkan di bawah seksyen 19 yang mempunyai atau yang memperoleh kepentingan langsung atau tidak langsung dengan sendiri, menerusi anggota keluarganya atau menerusi sekutunya berhubung dengan mana-mana perkara yang sedang dibincangkan oleh Perbadanan atau jawatankuasa itu hendaklah menzahirkan kepada Perbadanan atau jawatankuasa itu, mengikut mana-mana yang berkenaan, hakikat kepentingannya dan jenis kepentingan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Penzahiran di bawah subseksyen (1) hendaklah direkodkan dalam minit mesyuarat Perbadanan atau jawatankuasa itu, mengikut mana-mana yang berkenaan, yang dalamnya perkara itu dibincangkan dan, selepas penzahiran itu, anggota itu—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak boleh dikira bagi maksud membentuk kuorum mesyuarat Perbadanan atau jawatankuasa itu, mengikut mana-mana yang berkenaan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak boleh mengambil bahagian atau hadir dalam mana- mana perbincangan atau keputusan Perbadanan atau jawatankuasa itu, mengikut mana-mana yang berkenaan, apabila perkara itu dibincangkan atau diputuskan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana anggota Perbadanan atau jawatankuasa yang tidak menzahirkan kepentingannya sebagaimana yang diperuntukkan di bawah subseksyen (1) melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua- duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada tindakan atau presiding Perbadanan atau jawatankuasa boleh ditaksahkan atas alasan bahawa mana-mana anggota Perbadanan atau jawatankuasa telah melanggar peruntukan-peruntukan seksyen ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud seksyen ini—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_a__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_a__subpara_v"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "\"anggota keluarga\", berhubung dengan seseorang anggota Perbadanan atau jawatankuasa, termasuklah —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suami atau isterinya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ibu atau bapanya (termasuk ibu atau bapa suami atau isterinya);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "anaknya (termasuk anak angkat atau anak tiri);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "adik beradiknya (termasuk adik beradik suami atau isterinya); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_a__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suami atau isteri anaknya atau adik beradiknya; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_b__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_b__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_b__subpara_v"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "\"sekutu\", berhubung dengan seseorang anggota Perbadanan atau jawatankuasa, ertinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana orang yang merupakan penama atau pekerja anggota itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana firma yang anggota itu atau mana- mana penamanya merupakan seorang pekongsinya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pekongsi anggota itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_b__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pemegang amanah sesuatu amanah yang di bawahnya anggota itu atau seseorang anggota keluarganya menjadi benefisiarinya; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_b__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_15__subsec_5__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana perbadanan, mengikut pengertian Akta Syarikat 1965 [Akta 125], yang anggota itu atau mana-mana penamanya atau seseorang anggota keluarganya menjadi pengarahnya atau mempunyai kepentingan kawalan atau syer yang jumlah nilainya tidak kurang daripada tiga puluh peratus daripada jumlah modal diterbitkan perbadanan itu. Minit"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(1) Perbadanan dan tiap-tiap jawatankuasa hendaklah menyenggarakan minit semua mesyuaratnya dalam bentuk yang sepatutnya. (2) Apa-apa minit yang dibuat mengenai mesyuarat Perbadanan atau sesuatu jawatankuasa, jika ditandatangani dengan sewajarnya, hendaklah, dalam mana-mana prosiding, boleh diterima sebagai keterangan prima facie mengenai fakta yang dinyatakan dalam minit itu tanpa bukti selanjutnya. (3) Tiap-tiap mesyuarat Perbadanan atau sesuatu jawatankuasa yang minit mengenainya telah dibuat mengikut subseksyen (1) dan (2) hendaklah disifatkan telah dipanggil dan diadakan dengan sewajarnya dan kesemua anggota dalam mesyuarat itu layak dengan sewajarnya untuk bertindak."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_3__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_3__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu pertubuhan perbadanan dengan nama \"Perbadanan Harta Intelek Malaysia\" ditubuhkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbadanan adalah kekal turun-temurun dan mempunyai suatu meterai perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbadanan boleh membawa guaman dan dibawa guaman terhadapnya atas namanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_3__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_3__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_3__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_3__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada dan bagi maksud Akta ini, Perbadanan boleh, atas apa-apa terma yang didapatinya patut—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_3__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_3__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membuat kontrak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_3__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_3__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memperoleh, membeli, mengambil, memegang dan menikmati apa-apa jenis harta alih dan harta tak alih; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_3__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_3__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memindahkan, menyerahhakkan, menyerahkan balik, memulangkan, menggadaikan, menggadaijanjikan, mendemiskan, menyerahhakkan semula, memindahkan hakmilik atau dengan apa-apa cara lain melupuskan, atau menjalankan urusan mengenai apa-apa harta alih atau harta tak alih atau apa-apa kepentingan mengenai harta itu yang terletak hak pada Perbadanan. Peruntukan peletakhakan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_4__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_4__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_4__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_4__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_4__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada Akta ini, Menteri boleh, dari semasa ke semasa, melalui perintah yang disiarkan dalam Warta, menetapkan suatu tarikh letak hak dan pada tarikh itu segala harta Kerajaan Malaysia dan segala hak atau liabiliti Kerajaan Malaysia, Pendaftar atau Pengawal yang ditentukan oleh Menteri dalam perintah itu hendaklah, menurut kuasa Akta ini, berpindah kepada dan terletak hak pada Perbadanan tanpa apa-apa pemindahhakan, penyerahhakan atau pemindahan hakmilik."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap harta yang terletak hak menurut kuasa subseksyen (1) pada Perbadanan hendaklah terletak hak sedemikian pada Perbadanan dengan hakmilik, harta atau kepentingan yang serupa dan pemegangan yang serupa sebagaimana harta itu terletak hak atau dipegang sebaik sebelum tarikh letak hak itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap hak dalam tindakan yang terletak hak menurut kuasa subseksyen (1) pada Perbadanan boleh, pada dan selepas tarikh letak hak itu, dituntut melalui guaman, didapatkan atau dikuatkuasakan oleh Perbadanan atas namanya sendiri dan tidaklah perlu bagi Perbadanan, Kerajaan Malaysia, Pendaftar atau Pengawal memberikan notis kepada orang yang terikat dengan hak dalam tindakan itu mengenai peletakhakan yang dibuat di bawah subseksyen (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_4__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap hak atau liabiliti yang terletak hak menurut kuasa subseksyen (1) pada Perbadanan boleh, pada dan selepas tarikh letak hak, dituntut melalui guaman, didapatkan atau dikuatkuasakan oleh atau terhadap Perbadanan atas namanya sendiri dan tidaklah perlu bagi Perbadanan, Kerajaan Malaysia, Pendaftar atau Pengawal memberikan notis kepada orang yang hak atau liabilitinya tersentuh oleh peletakhakan yang dibuat di bawah subseksyen (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_4__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa prosiding undang-undang yang belum selesai oleh atau terhadap Kerajaan Malaysia, Pendaftar atau Pengawal berhubung dengan mana-mana harta, hak atau liabiliti yang berpindah kepada dan terletak hak pada Perbadanan menurut kuasa subseksyen (1) boleh, pada dan selepas tarikh letak hak, diteruskan oleh atau terhadap Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_4__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam hal hak atau liabiliti yang berbangkit di bawah mana- mana pinjaman yang terletak hak pada Perbadanan pada tarikh letak hak, Perbadanan boleh membuat apa-apa perkiraan atau perjanjian dengan Kerajaan Malaysia atau mana-mana pihak ketiga yang lain mengenai hak dan liabiliti itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_4__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pada dan selepas tarikh letak hak, mana-mana perjanjian berhubung dengan mana-mana harta, hak dan liabiliti yang berpindah kepada dan terletak hak pada Perbadanan di bawah subseksyen (1) yang Kerajaan Malaysia, Pendaftar atau Pengawal menjadi pihak kepadanya sebaik sebelum tarikh letak hak, sama ada secara bertulis atau tidak, dan sama ada atau tidak sedemikian jenisnya sehingga hak dan liabiliti di bawahnya boleh diserahhakkan oleh Kerajaan Malaysia, Pendaftar atau Pengawal, hendaklah berkuat kuasa seolah- olah Perbadanan menjadi pihak kepada perjanjian itu. Meterai perbadanan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_5__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_5__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_5__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_5__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Meterai perbadanan bagi Perbadanan hendaklah mengandungi apa-apa reka bentuk yang diluluskan oleh Perbadanan dan meterai itu boleh, dari semasa ke semasa, dipecahkan, ditukar, diubah atau dibuat baharu sebagaimana yang Perbadanan fikirkan patut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sehingga suatu meterai diadakan oleh Perbadanan, suatu cap yang mengandungi perkataan \"Perbadanan Harta Intelek Malaysia\" boleh digunakan dan hendaklah disifatkan sebagai meterai perbadanan bagi Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Meterai perbadanan itu hendaklah disimpan dalam jagaan Pengerusi atau mana-mana orang lain yang diberi kuasa oleh Perbadanan dan hendaklah disahkan sama ada oleh Pengerusi atau oleh orang yang diberi kuasa itu atau oleh mana-mana pegawai yang diberi kuasa oleh Pengerusi secara bertulis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_5__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Segala surat ikatan, dokumen dan surat cara lain yang berupa sebagai dimeteraikan dengan meterai perbadanan itu dan yang disahkan mengikut subseksyen (3) hendaklah disifatkan telah disempurnakan dengan sah sehingga dibuktikan sebaliknya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_5__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen (4), apa-apa dokumen atau surat cara yang, jika disempurnakan oleh seseorang yang bukan suatu pertubuhan perbadanan, tidak dikehendaki dimeteraikan boleh disempurnakan oleh Perbadanan mengikut cara yang serupa; dan mana-mana dokumen atau surat cara itu boleh disempurnakan bagi pihak Perbadanan oleh mana-mana anggota, pekerja atau ejen Perbadanan yang diberi kuasa secara am atau khas oleh Perbadanan bagi maksud itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_5__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Meterai perbadanan bagi Perbadanan hendaklah diberi pengiktirafan rasmi dan kehakiman. Keanggotaan Perbadanan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_6__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_6__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_6__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_6__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_6__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbadanan hendaklah terdiri daripada anggota yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_6__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang Pengerusi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_6__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "empat orang anggota yang mewakili Kerajaan, seorang daripadanya ialah Ketua Setiausaha Kementerian yang pada masa ini bertanggungjawab bagi harta intelek atau wakilnya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_6__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tiga orang anggota lain yang mempunyai pengetahuan atau pengalaman tentang harta intelek dan perkara yang berhubungan dengan harta intelek; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_6__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah melantik anggota yang dinyatakan dalam perenggan ( 1 )( a ), (b) dan (c). Tempoh jawatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada apa-apa syarat yang dinyatakan dalam surat cara pelantikannya, seseorang anggota Perbadanan hendaklah, melainkan jika dia terlebih dahulu meletakkan atau mengosongkan jawatannya atau pelantikannya terlebih dahulu dibatalkan, memegang jawatan selama tempoh yang tidak melebihi tiga tahun dan layak untuk dilantik semula. Peletakan dan pembatalan jawatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_8__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang anggota Perbadanan boleh, pada bila-bila masa, meletakkan jawatannya dengan memberikan notis bertulis kepada Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pelantikan mana-mana anggota Perbadanan yang dilantik oleh Menteri, kecuali Ketua Setiausaha Kementerian yang pada masa ini bertanggungjawab bagi harta intelek, boleh, pada bila- bila masa, dibatalkan oleh Menteri tanpa memberikan apa-apa sebab bagi pembatalan itu. Pengosongan jawatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_9__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_9__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_9__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jawatan seseorang anggota Perbadanan hendaklah menjadi kosong —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika dia mati;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika dia menjadi bankrap;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika dia telah disabitkan atas apa-apa kesalahan dan dikenakan hukuman pemenjaraan selama tempoh tidak kurang daripada dua bulan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_9__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika dia tidak sempurna akal atau selainnya tidak berupaya menunaikan kewajipannya; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_9__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika dia tidak menghadiri mesyuarat Perbadanan tiga kali berturut-turut tanpa kebenaran Pengerusi, atau dalam hal Pengerusi, tanpa kebenaran Menteri. Saraan dan elaun"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_28"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERUNTUKAN BERHUBUNG DENGAN PEKERJA Mengambil kerja pekerja Kerajaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_21__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_21__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_21__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbadanan hendaklah, pada tarikh yang ditetapkan, menerima ke dalam penggajiannya tiap-tiap orang yang sebaik sebelum tarikh itu berada dalam penggajian atau perkhidmatan Bahagian Harta Intelek, Kementerian Perdagangan Dalam Negeri dan Hal Ehwal Pengguna, Malaysia dan yang telah diberi pilihan oleh Kerajaan Malaysia dan telah memilih untuk berkhidmat sebagai pekerja Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap orang sedemikian yang memilih di bawah subseksyen (1) untuk berkhidmat sebagai pekerja Perbadanan hendaklah diambil kerja oleh Perbadanan atas terma dan syarat perkhidmatan yang tidak kurang baiknya daripada terma dan syarat perkhidmatan yang kepadanya dia berhak sebaik sebelum tarikh yang ditetapkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_21__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sehingga terma dan syarat perkhidmatan pekerjanya ditentukan oleh Perbadanan, skim dan terma dan syarat perkhidmatan pekerja Kerajaan hendaklah terus terpakai bagi tiap-tiap orang yang diambil kerja oleh Perbadanan di bawah subseksyen (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_21__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh melalui perintah membuat apa-apa ubahsuaian yang perlu kepada skim dan terma dan syarat yang disebutkan dalam subseksyen (3) bagi maksud menghapuskan kesulitan yang berbangkit daripada peruntukan subseksyen itu. Gaji, terma dan syarat perkhidmatan pekerja Kerajaan hendaklah diambil kira"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_22__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_22__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_22__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Terma dan syarat yang ditentukan oleh Perbadanan hendaklah mengambil kira gaji dan terma dan syarat perkhidmatan, termasuklah apa-apa hak terakru untuk mendapat cuti, yang dinikmati oleh orang itu ketika berada dalam penggajian Kerajaan sebelum memilih untuk memasuki perkhidmatan Perbadanan; dan apa-apa terma dan syarat sedemikian yang berhubungan dengan tempoh perkhidmatan dengan Perbadanan hendaklah membuat peruntukan bagi mengiktiraf perkhidmatan dengan Kerajaan oleh orang yang membuat pilihan itu sebagai perkhidmatan dengan Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_22__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika mana-mana orang dalam perkhidmatan Perbadanan yang kesnya tidak termasuk dalam ruang lingkup mana-mana skim pencen atau skim lain yang diwujudkan di bawah seksyen ini bersara atau meninggal dunia semasa dalam perkhidmatan Perbadanan atau dilepaskan daripada perkhidmatan itu, Perbadanan boleh memberinya atau mana-mana orang lain yang ditanggung sepenuhnya atau sebahagiannya oleh orang itu, sebagaimana yang difikirkan patut oleh Perbadanan, apa-apa elaun. atau ganjaran sebagaimana yang ditentukan oleh Perbadanan. Pelantikan pekerja lain, ejen dan perunding"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_23__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada mana-mana peraturan yang dibuat di bawah seksyen 24, Perbadanan boleh, dari semasa ke semasa, melantik dan mengambil kerja atas apa-apa terma dan syarat yang didapati patut oleh Perbadanan mana-mana pekerja lain yang perlu bagi pentadbiran sepatutnya Akta ini dan Perundangan Harta Intelek."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbadanan boleh melantik dan mengambil kerja perunding dan ejen untuk menguruskan apa-apa urusan atau untuk melakukan apa-apa perbuatan yang dikehendaki untuk diuruskan atau dilakukan pada melaksanakan fungsinya atau bagi menjalankan maksud Akta ini dengan lebih baik. Peraturan-peraturan berkenaan dengan penggajian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_24__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_24__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_24__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbadanan boleh, dari semasa ke semasa, membuat peraturan-peraturan berkenaan dengan penggajian pekerja Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_24__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_24__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_24__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Peraturan-peraturan yang dibuat di bawah seksyen ini boleh termasuk peruntukan bagi —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_24__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "cara pelantikan, dan terma dan syarat perkhidmatan pekerja Perbadanan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_24__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pembayaran ganjaran, pencen dan faedah lain kepada pekerja Perbadanan. Penerusan dan penyelesaian prosiding tatatertib"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_25__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_25__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_25__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_25__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika pada tarikh yang ditetapkan apa-apa presiding tatatertib belum selesai atau wujud terhadap mana-mana pekerja Kerajaan yang telah memilih untuk masuk ke dalam perkhidmatan Perbadanan, presiding itu hendaklah diteruskan dan diselesaikan oleh Perbadanan, dan undang-undang yang terpakai bagi pekerja itu sebaik sebelum tarikh yang ditetapkan berhubung dengan presiding itu hendaklah terpakai bagi presiding yang diteruskan dan diselesaikan di bawah seksyen ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_25__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sesuatu perintah, keputusan atau arahan yang dibuat atau diberikan oleh sesuatu pihak berkuasa tatatertib Perbadanan menurut seksyen ini hendaklah berkenaan dengan pekerja sedemikian mempunyai kuat kuasa dan kesan yang sama dengan perintah, keputusan atau arahan yang dibuat atau diberikan oleh Pihak Berkuasa Tatatertib, Lembaga Tatatertib atau Lembaga Rayuan Tatatertib, mengikut mana-mana yang berkenaan, di bawah undang-undang yang disebut dalam subseksyen (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_25__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh melalui perintah membuat apa-apa ubahsuaian yang perlu kepada undang-undang yang disebut dalam subseksyen (1) dalam pemakaiannya kepada pekerja sedemikian bagi maksud menghapuskan kesulitan yang berbangkit daripada peruntukan subseksyen itu. Perlindungan daripada liabiliti diri"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada guaman atau prosiding undang-undang lain boleh dibawa terhadap diri mana-mana anggota atau pekerja Perbadanan atau mana-mana orang lain di bawah arahan Perbadanan bagi apa-apa yang dilakukan atau dimaksudkan untuk dilakukan dengan suci hati dalam pelaksanaan atau yang berupa sebagai pelaksanaan Akta ini atau mana-mana Perundangan Harta Intelek. Pekhidmat awam"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua anggota Perbadanan dan jawatankuasanya dan semua pekerja dan ejen Perbadanan semasa menunaikan kewajipannya sebagai anggota, pekerja atau ejen itu hendaklah disifatkan sebagai pekhidmat awam mengikut pengertian Kanun Keseksaaan [Akta 574]. Akta Perlindungan Pihak Berkuasa Awam 1948"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Perlindungan Pihak Berkuasa Awam 1948 [Akta 198] hendaklah terpakai bagi apa-apa tindakan, guaman, pendakwaan atau prosiding terhadap Perbadanan atau terhadap mana-mana pekerja atau ejen Perbadanan berkenaan dengan apa-apa perbuatan, keabaian atau keingkaran yang dibuat atau dilakukan olehnya atas sifat yang sedemikian atau atas sifatnya sebagai pegawai-pegawai yang diperihalkan dalam Jadual Kedua."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perbadanan Harta Intelek Malaysia 2001."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri, melalui pemberitahuan dalam Warta, dan Menteri boleh menetapkan tarikh yang berlainan bagi peruntukan yang berlainan dalam Akta ini. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain —"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "\"Akta ini\" termasuklah apa-apa perundangan subsidiari yang dibuat di bawah Akta ini; \"ditetapkan\", jika tiada cara penetapan diperuntukkan, ertinya ditetapkan dari semasa ke semasa melalui kaedah-kaedah, peraturan- peraturan atau perintah yang disiarkan dalam Warta; \"hak\" ertinya segala hak, kuasa, keistimewaan dan kekebalan, sama ada yang sebenar, kontingen atau dijangka; \"jawatankuasa\" ertinya mana-mana jawatankuasa yang ditubuhkan di bawah seksyen 19; \"Ketua Pengarah\" ertinya Ketua Pengarah Perbadanan yang dilantik di bawah seksyen 11; \"Kumpulan Wang\" ertinya Kumpulan Wang yang ditubuhkan di bawah seksyen 29; \"liabiliti\" ertinya tiap-tiap jenis liabiliti, hutang, gadaian, kewajipan dan obligasi sama ada masa kini atau pada masa hadapan, yang sebenar atau kontingen, dan sama ada yang kena dibayar atau dipatuhi atau dilaksanakan di Malaysia atau di tempat lain; \"Menteri\" ertinya Menteri yang pada masa ini bertanggung- jawab bagi harta intelek; \"Pendaftar\" ertinya Pendaftar Cap Dagangan, Pendaftar Paten, Pendaftar Reka Bentuk Perindustrian dan Pendaftar Petunjuk Geografi di bawah Perundangan Harta Intelek yang berkenaan; \"Pengawal\" ertinya Pengawal Hakcipta yang dilantik di bawah subseksyen 5(1) Akta Hakcipta 1987 [Akta 332]; \"Pengerusi\" ertinya Pengerusi yang dilantik di bawah seksyen 6; \"Perbadanan\" ertinya Perbadanan Harta Intelek Malaysia yang ditubuhkan di bawah seksyen 3; \"Perundangan Harta Intelek\" ertinya perundangan yang dinyatakan dalam Jadual Pertama; \"rekod\" termasuk rekod yang disimpan atau direkodkan dengan menggunakan komputer; Perbadanan Harta Intelek Malaysia 7 \"tarikh letak hak\" ertinya tarikh harta, hak dan liabiliti yang ditentukan oleh Menteri dalam perintah di bawah subseksyen 4(1) yang kepadanya Kerajaan Malaysia, Pendaftar atau Pengawal di bawah Perundangan Harta Intelek yang berkenaan, berhak atau tertakluk, berpindah kepada dan terleta'k hak pada Perbadanan; \"tarikh yang ditetapkan\" ertinya tarikh Akta ini mula berkuat kuasa; \"terletak hak\", berhubung dengan harta, termasuklah mempunyai hak mengenai harta masa hadapan atau kontingen dan hak perkembalian atau baki."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_36"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KEWANGAN Kumpulan Wang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_VI__cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_VI__cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_VI__cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_VI__cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_VI__cl_41"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "AM Pemulaan pendakwaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_VI__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada pendakwaan bagi mana-mana kesalahan di bawah Akta ini boleh dimulakan kecuali melalui atau dengan kebenaran secara bertulis daripada Pendakwa Raya. Prosiding yang dikendalikan oleh pegawai Perbadanan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_VI__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorangpegawai undang-undang sebagaimanayang ditakrifkan dalam Akta Prosiding Kerajaan 1956 [Akta 359] atau seorang pegawai undang-undang Perbadanan yang telah diterima masuk sebagai peguam bela dan peguam cara di bawah Akta Profesion Undang-Undang 1976 [Akta 166] boleh hadir dalam mana-mana prosiding sivil yang melibatkan Perbadanan atau mana-mana orang yang memegang mana-mana jawatan yang ditetapkan dalam Jadual Kedua dalam pelaksanaan fungsinya di bawah Perundangan Harta Intelek dan boleh membuat dan melakukan segala tindakan dan permohonan berkenaan dengan presiding itu bagi pihak Perbadanan atau orang itu, mengikut mana-mana yang berkenaan. Kewajipan kerahsiaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_VI__cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_VI__cl_39__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_VI__cl_39__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_VI__cl_39__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_VI__cl_39",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kecuali sebagaimana yang diperuntukkan dalam Akta ini atau bagi maksud mana-mana prosiding sivil atau jenayah di bawah mana-mana undang-undang bertulis, tiada anggota, pekerja atau ejen Perbadanan, sama ada dalam tempoh jawatannya atau tempoh penggajiannya atau selepas itu, dan tiada orang lain yang mempunyai akses dengan apa-apa jua cara kepada apa-apa maklumat atau dokumen terkelas yang berhubungan dengan hal-ehwal Perbadanan boleh memberikan atau selainnya mendedahkan maklumat atau dokumen itu kepada mana-mana orang."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_VI__cl_39__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_VI__cl_39",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya. Kuasa Menteri untuk meminda Jadual Pertama dan Kedua"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_VI__cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, melalui perintah yang disiarkan dalam Warta, meminda Jadual Pertama dan Kedua. Peraturan-peraturan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_VI__cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, atas syor Perbadanan, membuat apa-apa peraturan yang suai manfaat atau perlu bagi melaksanakan maksud-maksud Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_29__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_29__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_29__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu Kumpulan Wang yang dikenali sebagai \"Kumpulan Wang Harta Intelek\" yang akan ditadbirkan dan dikawal oleh Perbadanan ditubuhkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_29__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_29__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_29__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_29__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_29__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_29__subsec_2__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kumpulan Wang hendaklah terdiri daripada—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_29__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "segala wang yang diterima oleh Perbadanan bagi perkhidmatan yang diberikan oleh Perbadanan kepada Kerajaan sebagai ejennya atau bagi perkhidmatan yang diberikan oleh Perbadanan kepada mana-mana orang;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_29__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "segala wang yang diterima oleh Perbadanan melalui pemberian;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_29__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "segala wang yang diperoleh daripada pelupusan, pemajakan atau penyewaan, atau apa-apa urusan lain tentang, apa- apa harta yang terletak hak pada atau yang diperoleh oleh Perbadanan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_29__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "segala wang yang diperoleh sebagai pendapatan daripada pelaburan oleh Perbadanan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_29__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "segala wang yang dipinjam oleh Perbadanan di bawah Akta ini; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_29__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "segala wang lain yang diterima dengan sah oleh Perbadanan. Perbelanjaan yang hendaklah dipertanggungkan pada Kumpulan Wang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_30__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_30__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_30__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_30__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_30__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Kumpulan Wang hendaklah dibelanjakan bagi maksud—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_30__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membayar apa-apa perbelanjaan yang dilakukan dengan sah oleh Perbadanan, termasuk fi dan kos guaman dan fi dan kos lain, dan saraan pekerja Perbadanan, termasuk pemberian pinjaman, elaun persaraan, pencen atau ganjaran;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_30__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membayar apa-apa belanja, kos atau perbelanjaan lain yang dilakukan atau disetujui terima dengan sepatutnya oleh Perbadanan dalam melaksanakan fungsinya atau menjalankan kuasanya di bawah Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_30__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membeli atau menyewa kelengkapan, jentera dan bahan, memperoleh tanah dan mendirikan bangunan, dan menjalankan apa-apa kerja dan pengusahaan lain dalam melaksanakan fungsinya atau menjalankan kuasa-kuasanya di bawah Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_30__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membayar balik apa-apa wang yang dipinjam di bawah Akta ini dan bunga yang kena dibayar atasnya; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_30__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "secara amnya, membayar apa-apa belanja bagi melaksanakan peruntukan Akta ini. Perbelanjaan dan penyediaan anggaran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_31__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_31__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_31__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_31__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbelanjaan Perbadanan setakat apa-apa amaun yang dibenarkan oleh Perbadanan bagi mana-mana satu tahun kewangan hendaklah dibayar daripada Kumpulan Wang."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_31__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sebelum permulaan setiap tahun kewangan, suatu anggaran perbelanjaan bagi tahun kewangan yang berikutnya dalam apa-apa bentuk dan yang mengandungi apa-apa butir sebagaimana yang diarahkan oleh Menteri hendaklah dikemukakan oleh Perbadanan kepada Menteri untuk kelulusannya, dan Menteri hendaklah, sebelum permulaan tahun kewangan yang berikutnya, memberitahu Perbadanan tentang amaun yang dibenarkan bagi perbelanjaan pada amnya atau amaun yang dibenarkan bagi setiap perihalan perbelanjaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_31__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbadanan boleh, pada bila-bila masa, mengemukakan kepada Menteri suatu anggaran tambahan bagi mana-mana satu tahun kewangan dan Menteri boleh membenarkan kesemua atau mana- mana bahagian daripada perbelanjaan tambahan yang termasuk dalam anggaran tambahan itu. Pemeliharaan Kumpulan Wang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maka adalah menjadi kewajipan Perbadanan untuk memelihara Kumpulan Wang dengan melaksanakan, menjalankan dan menunaikan fungsi, kuasa dan kewajipannya di bawah Akta ini dengan sedemikian cara supaya dapat dipastikan bahawa jumlah hasil Perbadanan adalah mencukupi untuk membayar semua jumlah wang yang boleh dipertanggungkan dengan sepatutnya pada akaun hasilnya, termasuklah susut nilai dan bunga atas modal, dari setahun ke setahun. Akta Badan Berkanun (Akaun dan Laporan Tahunan) 1980"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Badan Berkanun (Akaun dan Laporan Tahunan) 1980 [Akta 240] hendaklah terpakai bagi Perbadanan. Kuasa untuk meminjam"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_34__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_34__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_34__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_34",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbadanan boleh, dari semasake semasa, dengan kelulusan terlebih dahulu Menteri dan Menteri Kewangan, meminjam, pada apa-apa kadar bunga dan bagi apa-apa tempoh dan atas apa-apa terma tentang masa dan kaedah pembayaran balik dan selainnya sebagaimana yang diluluskan oleh Menteri dan Menteri Kewangan, apa-apa jumlah wang yang diperlukan oleh Perbadanan bagi memenuhi mana-mana obligasinya atau bagi melaksanakan mana- mana fungsinya di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_34__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_34",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbadanan boleh, dari semasake semasa, dengan kelulusan terlebih dahulu Menteri dan Menteri Kewangan, meminjam wang dengan menerbitkan bon, debentur, saham debentur atau apa-apa sekuriti lain atas apa-apa terma yang didapatinya suai manfaat bagi memenuhi mana-mana obligasinya atau bagi melaksanakan mana- mana fungsinya di bawah Akta ini. Pelaburan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kumpulan Wang Perbadanan boleh, setakat yang wang itu tidak dikehendaki untuk dibelanjakan oleh Perbadanan di bawah Akta ini, dilaburkan mengikut apa-apa cara yang didapati patut oleh Perbadanan selepas berunding dengan Menteri. Bayaran kepada Kumpulan Wang Disatukan Persekutuan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbadanan boleh atas arahan Kerajaan menyebabkan dibayar kepada Kumpulan Wang Disatukan Persekutuan suatu amaun tidak melebihi tiga puluh peratus daripada lebihan semasa tahunannya selepas tahun ketiga pengendaliannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_1__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_1__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_1__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_1__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_1__para_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_1__para_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_1__para_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(Seksyen 2)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_1__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Cap Dagangan 1976 [Akta 175]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_1__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Paten 1983 [Akta 291]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_1__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Hakcipta 1987 [Akta 332]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_1__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Reka Bentuk Perindustrian 1996 [Akta 552]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_1__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Reka Bentuk Susur Atur Litar Bersepadu 2000 [Akta 601]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_1__para_6",
+      "@type": "akn:paragraph",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Petunjuk Geografi 2000 [Akta 602]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_1__para_7",
+      "@type": "akn:paragraph",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana perundangan subsidiari yang dibuat di bawah Akta-Akta yang dinyatakan dalam butiran 1, 2, 3,4, 5 dan 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_2",
+      "@type": "akn:schedule",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_2__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_2__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_2__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_2__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_2__para_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_2__para_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_2__para_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_2__para_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(Seksyen 28 dan 38)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_2__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Pengerusi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_2__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_2__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Timbalan Ketua Pengarah"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_2__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Pendaftar, Timbalan Pendaftar dan Penolong Pendaftar Paten"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_2__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Pendaftar, Timbalan Pendaftar dan Penolong Pendaftar Cap Dagangan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_2__para_6",
+      "@type": "akn:paragraph",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Pengawal, Timbalan Pengawal dan Penolong Pengawal Hakcipta"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_2__para_7",
+      "@type": "akn:paragraph",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Pendaftar, Timbalan Pendaftar dan Penolong Pendaftar Reka Bentuk Perindustrian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_2__para_8",
+      "@type": "akn:paragraph",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Pendaftar, Timbalan Pendaftar dan Penolong Pendaftar Petunjuk Geografi"
+      }
+    }
+  ]
+}

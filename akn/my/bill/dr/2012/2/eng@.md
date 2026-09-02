@@ -4,23 +4,39 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Application 3. Interpretation
 
-## Part II
+## PART II
 
 ## THE INSTITUTE
 
 4. Malaysian Institute of Road Safety Research 5. Common seal 6. Functions of Institute 7. Powers of Institute 8. Additional power of Institute 9. Commercialization of research findings
 
-## Part III
+## PART III
 
 ## BOARD OF DIRECTORS OF INSTITUTE
 
-10. Board of Directors 11. Membership of Board 12. Representative of renamed organization 13. Deputy Chairman and Secretary 14. Functions of Board 15. Powers of Board 16. Tenure of office 17. Revocation of appointment and resignation 18. Vacation of office
+10. Board of Directors
+
+11. Membership of Board
+
+12. Representative of renamed organization
+
+13. Deputy Chairman and Secretary
+
+14. Functions of Board
+
+15. Powers of Board
+
+16. Tenure of office
+
+17. Revocation of appointment and resignation
+
+18. Vacation of office
 
 <!-- page 2 -->
 
@@ -36,7 +52,7 @@
 
 24. Validity of acts and proceedings
 
-## Part IV
+## PART IV
 
 ## DIRECTOR GENERAL, DEPUTY DIRECTOR GENERALS, OFFICERS
 
@@ -56,7 +72,7 @@
 
 31. Payment of retirement benefits, etc.
 
-## Part V
+## PART V
 
 ## FINANCE
 
@@ -82,17 +98,53 @@
 
 <!-- page 3 -->
 
-## Part VI
+## PART VI
 
 ## ASSIGNED OFFICERS
 
-42. Appointment of assigned officers 43. Access and disclosure of data 44. Examination of physical entity 45. Collection of samples, etc.
+42. Appointment of assigned officers
 
-## Part VII
+43. Access and disclosure of data
+
+44. Examination of physical entity
+
+45. Collection of samples, etc.
+
+## PART VII
 
 ## SUPPLEMENTAL
 
-46. Property rights to research findings, etc. 47. Access to research findings and facilities 48. Retention of data 49. Symbol, design or representation of Institute 50. Public servant 51. Public Authorities Protection Act 1948 52. Protection of members of Board from personal liability 53. Protection against suits and legal proceedings 54. Representation in civil proceedings 55. Obligation of secrecy 56. Service of notices or other documents 57. Institution of prosecution 58. Adoption of regulations, etc. 59. Power to make regulations 60. Things done in anticipation of the enactment of this Act S chedule
+46. Property rights to research findings, etc.
+
+47. Access to research findings and facilities
+
+48. Retention of data
+
+49. Symbol, design or representation of Institute
+
+50. Public servant
+
+51. Public Authorities Protection Act 1948
+
+52. Protection of members of Board from personal liability
+
+53. Protection against suits and legal proceedings
+
+54. Representation in civil proceedings
+
+55. Obligation of secrecy
+
+56. Service of notices or other documents
+
+57. Institution of prosecution
+
+58. Adoption of regulations, etc.
+
+59. Power to make regulations
+
+60. Things done in anticipation of the enactment of this Act
+
+## S CHEDULE
 
 <!-- page 5 -->
 
@@ -104,7 +156,7 @@ An Act to establish the Malaysian Institute of Road Safety Research and for matt
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -154,7 +206,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “Deputy Director General” means the Deputy Director General of the Institute appointed under section 26.
 
-## Part II
+## PART II
 
 ## THE INSTITUTE
 
@@ -248,7 +300,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 11 -->
 
-## Part III
+## PART III
 
 ## BOARD OF DIRECTORS OF INSTITUTE
 
@@ -440,7 +492,7 @@ the member shall be renamed as a representative of the ministry, department or o
 
 (b) any omission, defect or irregularity not affecting the merits of the case.
 
-## Part IV
+## PART IV
 
 ## DIRECTOR GENERAL, DEPUTY DIRECTOR GENERALS, OFFICERS
 
@@ -496,7 +548,7 @@ the member shall be renamed as a representative of the ministry, department or o
 
 31. The Institute may make arrangements for the payment to its officers and servants, and their dependants such retirement benefits, gratuities and other allowances as the Institute may determine.
 
-## Part V
+## PART V
 
 ## FINANCE
 
@@ -586,7 +638,7 @@ the member shall be renamed as a representative of the ministry, department or o
 
 <!-- page 23 -->
 
-## Part VI
+## PART VI
 
 ## ASSIGNED OFFICERS
 
@@ -604,7 +656,9 @@ the member shall be renamed as a representative of the ministry, department or o
 
 43. (1) The Institute or an assigned officer may request any person to give access to or disclose data that is in his possession, where such data is necessary for carrying out road safety research in pursuance of the Institute’s functions and powers under this Act.
 
-(2) Subject to any written law, guidelines or directives, the person may, upon a request being made in pursuance of subsection (1), give access to or disclose data that is in his possession, provided that—
+(2) Subject to any written law, guidelines or directives, the person may, upon a request being made in pursuance of subsection
+
+(1), give access to or disclose data that is in his possession, provided that—
 
 (a) any data which is by its nature confidential or which is disclosed on a confidential basis shall be treated consistently in a confidential manner by the Institute or assigned officer and shall be used solely by the Institute; and
 
@@ -638,7 +692,7 @@ the member shall be renamed as a representative of the ministry, department or o
 
 (b) a person may refuse to comply with a request or directive of an assigned officer if such officer refuses to declare his office and produce his authority card on demand being made by such person.
 
-## Part VII
+## PART VII
 
 ## SUPPLEMENTAL
 
@@ -758,7 +812,7 @@ general intentions and purposes of this Act; and all rights and obligations acqu
 
 (2) Notwithstanding subsection (1), this section shall not be deemed to have authorized the imposition of any punishment on a person for any act or thing done in preparation for or in anticipation of the enactment of this Act.
 
-## Schedule
+## SCHEDULE
 
 (Subsection 11(3))
 
@@ -840,7 +894,7 @@ shall disclose to the Board the fact of his interest and its nature.
 
 This Bill seeks to create a body corporate to be known as the “Malaysian Institute of Road Safety Research” which will be charged with the responsibility for conducting comprehensive research on road safety, to provide research data and analysis regarding road safety, to enhance and increase knowledge based on new developments regarding issues related to road safety, and to provide for matters connected therewith.
 
-## Part I
+## PART I
 
 2. Part I deals with preliminary matters.
 
@@ -850,7 +904,7 @@ This Bill seeks to create a body corporate to be known as the “Malaysian Insti
 
 5. Clause 3 contains the definitions of several expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 6. Part II contains provisions relating to the Malaysian Institute of Road Safety Research.
 
@@ -866,7 +920,7 @@ This Bill seeks to create a body corporate to be known as the “Malaysian Insti
 
 11. Clause 9 allows the Institute to make available any research findings vested in the Institute for the purpose of its commercialization.
 
-## Part III
+## PART III
 
 12. Part III contains provisions relating to the Board of Directors of the Malaysian Institute of Road Safety Research.
 
@@ -902,7 +956,7 @@ This Bill seeks to create a body corporate to be known as the “Malaysian Insti
 
 27. Clause 24 contains provisions on the validity of acts and proceedings of the Board.
 
-## Part IV
+## PART IV
 
 28. Part IV deals with the Director General, Deputy Director Generals, officers and servants of the Institute.
 
@@ -918,7 +972,7 @@ This Bill seeks to create a body corporate to be known as the “Malaysian Insti
 
 34. Clause 30 deals with the power of the Institute to grant loans and make advances to its officers and servants, while clause 31 provides for the payment of retirement benefits, gratuities and other allowances to the officers and servants of the Institute and their dependants.
 
-## Part V
+## PART V
 
 35. Part V contains financial provisions.
 
@@ -944,7 +998,7 @@ This Bill seeks to create a body corporate to be known as the “Malaysian Insti
 
 45. Clause 41 provides that the Statutory Bodies (Accounts and Annual Reports) Act 1980 shall apply to the Institute.
 
-## Part VI
+## PART VI
 
 46. Part VI contains provisions relating to assigned officers.
 
@@ -956,7 +1010,7 @@ This Bill seeks to create a body corporate to be known as the “Malaysian Insti
 
 50. Clause 45 confers authority on an assigned officer to obtain or retain samples of a physical entity which he believes contains information that is connected to or relevant for the purpose of road safety research, and to examine or analyze such samples upon its receipt. This clause further provides that for the purposes of clauses 43, 44 and 45, every assigned officer shall on demand produce to the person against whom he is acting his authority card.
 
-## Part VII
+## PART VII
 
 51. Part VII contains provisions relating to supplementary matters.
 

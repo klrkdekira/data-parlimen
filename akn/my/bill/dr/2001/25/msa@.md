@@ -50,7 +50,9 @@ II
 
 ## JAGAAN KEJURURAWATAN PSIKIATRI
 
-26. Rumah jagaan kejururawatan psikiatri 27. Penetapan rumah jagaan kejururawatan psikiatri kerajaan
+26. Rumah jagaan kejururawatan psikiatri
+
+27. Penetapan rumah jagaan kejururawatan psikiatri kerajaan
 
 28. Penetapan rumah jagaan kejururawatan psikiatri swasta yang diwartakan
 
@@ -564,7 +566,9 @@ kecederaan parah, penahanan salah, pengurungan salah, serangan atau kekerasan je
 
 <!-- page 19 -->
 
-Majistret boleh memerintahkan supaya orang yang disyaki bercelaru mental itu dibawa kepadanya dan memanggil saudaranya atau mana- mana orang yang bertanggungjawab atau
+Majistret boleh memerintahkan supaya orang yang disyaki bercelaru mental itu dibawa kepadanya dan memanggil saudaranya atau mana- mana orang yang bertanggungjawab
+
+<!-- marginal: atau -->
 
 <!-- marginal: sepatutnya -->
 
@@ -1570,7 +1574,9 @@ kesulitan atau mencegah anomali yang berbangkit daripada pembuatan Akta ini, mel
 
 ## TENTANG PENILAIAN KEMATIAN
 
-(2) (1) Peruntukan Akta Ubahsuaian
+<!-- marginal: (2) -->
+
+(1) Peruntukan Akta Ubahsuaian
 
 Am Gantikan perkataan "Jawatankuasa Penilaian Kematian Kebangsaan" di mana-mana terdapat dengan perkataan "Jawatankuasa Penilaian Kematian Psikiatri Kebangsaan".
 
@@ -1582,23 +1588,25 @@ Seksyen 66 Dalam subseksyen (3), gantikan perkataan "pengamal perubatan atau per
 
 <!-- page 62 -->
 
-(2) (1) Ubahsuaian Peruntukan Akta
+(2)
 
-Seksyen 67 Dalam subseksyen (1) —
+(1) Ubahsuaian
 
-(a) gantikan perkataan "Seseorang yang bertanggungjawab
+<!-- marginal: Peruntukan Akta -->
 
-<!-- marginal: bagi -->
+<!-- marginal: Seksyen 67 -->
 
-<!-- marginal: suatu -->
+Dalam subseksyen (1) —
 
-kemudahan atau perkhidmatan jagaan kesihatan swasta" dengan perkataan "Pengarah Perubatan bagi sesuatu hospital psikiatri atau orang yang bertanggungjawab bagi sesuatu rumah jagaan kejururawatan psikiatri atau pusat kesihatan mental masyarakat";
+(a) gantikan perkataan "Seseorang yang bertanggungjawab bagi suatu kemudahan atau perkhidmatan jagaan kesihatan swasta" dengan perkataan "Pengarah Perubatan bagi sesuatu hospital psikiatri atau orang yang bertanggungjawab bagi sesuatu rumah jagaan kejururawatan psikiatri atau pusat kesihatan mental masyarakat";
 
 (b) gantikan perkataan "pengamal perubatan atau pengamal pergigian" dengan perkataan "pegawai atau pengamal perubatan berdaftar"; dan
 
 (c) masukkan selepas perkataan "teknologi perubatan ke atas pesakit" perkataan "yang bercelaru mental".
 
-Seksyen 68 1. Dalam nota birai, gantikan perkataan "Pengamal perubatan dan pengamal pergigian" dengan perkataan "pegawai perubatan dan pengamal perubatan berdaftar".
+<!-- marginal: Seksyen 68 -->
+
+1. Dalam nota birai, gantikan perkataan "Pengamal perubatan dan pengamal pergigian" dengan perkataan "pegawai perubatan dan pengamal perubatan berdaftar".
 
 2. Dalam subseksyen (1) —
 
@@ -1610,121 +1618,99 @@ Seksyen 68 1. Dalam nota birai, gantikan perkataan "Pengamal perubatan dan penga
 
 <!-- page 63 -->
 
-<!-- marginal: (2) -->
+(2)
 
-(1) Ubahsuaian Peruntukan Akta
+(1) Ubahsuaian
+
+<!-- marginal: Peruntukan Akta -->
 
 4. Dalam subseksyen (3) —
 
 (a) dalam perenggan
 
-<!-- marginal: (b), gantikan -->
-
-perkataan "pengamal perubatan atau pengamal pergigian" dengan perkataan "pegawai perubatan dan pengamal perubatan berdaftar"; dan
+(b), gantikan perkataan "pengamal perubatan atau pengamal pergigian" dengan perkataan "pegawai perubatan dan pengamal perubatan berdaftar"; dan
 
 (b) dalam perenggan (c), gantikan bagi perkataan "kemudahan atau tempat jagaan kesihatan swasta" dengan perkataan "hospital psikiatri atau rumah jagaan kejururawatan atau pusat kesihatan mental masyarakat".
 
-Dalam subseksyen (2) dan (3) gantikan Seksyen 69 perkataan "pengamal perubatan atau pengamal pergigian" dengan perkataan "pegawai perubatan atau pengamal perubatan berdaftar".
+Dalam subseksyen (2) dan (3) gantikan
 
-1. Dalam subseksyen (1) — Seksyen 70
+<!-- marginal: Seksyen 69 -->
 
-(a) masukkan
+perkataan "pengamal perubatan atau pengamal pergigian" dengan perkataan "pegawai perubatan atau pengamal perubatan berdaftar".
 
-<!-- marginal: selepas -->
+1. Dalam subseksyen (1) —
 
-<!-- marginal: perkataan -->
+<!-- marginal: Seksyen 70 -->
 
-"jawatankuasa penilaian kematian" perkataan "psikiatri";
+(a) masukkan selepas perkataan "jawatankuasa penilaian kematian" perkataan "psikiatri";
 
 (b) gantikan perkataan "kemudahan jagaan kesihatan swasta" dengan perkataan "hospital psikiatri, rumah jagaan kejururawatan atau pusat kesihatan mental masyarakat".
 
 2. Potong subseksyen (3).
 
-Seksyen 71 Dalam subseksyen (1) masukkan selepas perkataan "kematian" perkataan "psikiatri".
+<!-- marginal: Seksyen 71 -->
 
-1. Gantikan nota birai dengan nota birai yang Seksyen 72 berikut:
+Dalam subseksyen (1) masukkan selepas perkataan "kematian" perkataan "psikiatri".
+
+1. Gantikan nota birai dengan nota birai yang
+
+<!-- marginal: Seksyen 72 -->
+
+berikut:
 
 "Jawatankuasa Penilaian Kematian Psikiatri di hospital psikiatri, rumah jagaan kejururawatan psikiatri atau pusat kesihatan mental masyarakat".
 
 <!-- page 64 -->
 
-(2) (1) Ubahsuaian Peruntukan Akta
+(2)
+
+(1) Ubahsuaian
+
+<!-- marginal: Peruntukan Akta -->
 
 2. Dalam subseksyen (1) —
 
-(a) gantikan perkataan "kemudahan dan perkhidmatan jagaan kesihatan swasta" dengan perkataan "hospital psikiatri, rumah jagaan kejururawatan psikiatri atau pusat
+(a) gantikan perkataan "kemudahan dan perkhidmatan jagaan kesihatan swasta" dengan perkataan "hospital psikiatri, rumah jagaan kejururawatan psikiatri atau pusat kesihatan mental masyarakat"; dan
 
-<!-- marginal: kesihatan mental -->
-
-masyarakat"; dan
-
-(b) masukkan selepas
-
-<!-- marginal: perkataan -->
-
-"jawatankuasa penilaian kematian" perkataan "psikiatri".
+(b) masukkan selepas perkataan "jawatankuasa penilaian kematian" perkataan "psikiatri".
 
 3. Dalam subseksyen (2) —
 
-(a) gantikan perkataan "Orang yang bertanggungjawab
+(a) gantikan perkataan "Orang yang bertanggungjawab bagi suatu kemudahan atau perkhidmatan jagaan kesihatan swasta", dengan perkataan "Pengarah Perubatan atau orang yang bertanggungjawab bagi hospital psikiatri, rumah jagaan kejururawatan psikiatri atau pusat kesihatan mental masyarakat"; dan
 
-<!-- marginal: bagi -->
-
-<!-- marginal: suatu -->
-
-kemudahan atau perkhidmatan jagaan kesihatan swasta", dengan perkataan "Pengarah Perubatan atau orang yang bertanggungjawab bagi hospital psikiatri, rumah jagaan kejururawatan psikiatri atau pusat kesihatan mental masyarakat"; dan
-
-(b) masukkan selepas
-
-<!-- marginal: perkataan -->
-
-"jawatankuasa penilaian kematian" perkataan "psikiatri".
+(b) masukkan selepas perkataan "jawatankuasa penilaian kematian" perkataan "psikiatri".
 
 4. Dalam subseksyen (3) —
 
-(a) masukkan selepas
-
-<!-- marginal: perkataan -->
-
-"jawatankuasa penilaian kematian" perkataan "psikiatri";
+(a) masukkan selepas perkataan "jawatankuasa penilaian kematian" perkataan "psikiatri";
 
 (b) masukkan selepas perkataan "dari masa ke semasa oleh" perkataan "Pengarah Perubatan atau"; dan
 
-(c) masukkan selepas
-
-<!-- marginal: perkataan -->
-
-"dinyatakan oleh" perkataan "Pengarah Perubatan atau".
+(c) masukkan selepas perkataan "dinyatakan oleh" perkataan "Pengarah Perubatan atau".
 
 5. Dalam subseksyen (4), gantikan perkataan "pengamal perubatan atau pengamal pergigian" perkataan dengan "pegawai perubatan atau pengamal perubatan berdaftar".
 
 <!-- page 65 -->
 
-(2) (1) Peruntukan Akta Ubahsuaian
+(2)
+
+(1)
+
+<!-- marginal: Peruntukan Akta -->
+
+Ubahsuaian
 
 6. Dalam subseksyen (5) —
 
 (a) gantikan perkataan "pengamal perubatan atau pengamal pergigian" dengan perkataan "pegawai perubatan atau pengamal perubatan berdaftar";
 
-(b) masukkan selepas
-
-<!-- marginal: perkataan -->
-
-"pesakitnya" perkataan "bercelaru mental".
+(b) masukkan selepas perkataan "pesakitnya" perkataan "bercelaru mental".
 
 7. Dalam subseksyen (6) —
 
-(a) masukkan selepas
+(a) masukkan selepas perkataan "jawatankuasa penilaian kematian" perkataan "psikiatri"; dan
 
-<!-- marginal: perkataan -->
-
-"jawatankuasa penilaian kematian" perkataan "psikiatri"; dan
-
-(b) gantikan perkataan "kemudahan dan perkhidmatan jagaan kesihatan swasta" dengan perkataan "hospital psikiatri, rumah jagaan kejururawatan psikiatri atau pusat
-
-<!-- marginal: kesihatan mental -->
-
-masyarakat".
+(b) gantikan perkataan "kemudahan dan perkhidmatan jagaan kesihatan swasta" dengan perkataan "hospital psikiatri, rumah jagaan kejururawatan psikiatri atau pusat kesihatan mental masyarakat".
 
 ## JADUAL II
 
@@ -1736,61 +1722,77 @@ masyarakat".
 
 ## TENTANG PENGUATKUASAAN
 
-(2) (1) Ubahsuaian Peruntukan Akta
+(2)
 
-Am Kecuali seksyen 91 dan 93, gantikan perkataan "kemudahan", "kemudahan atau perkhidmatan jagaan kesihatan swasta", "kemudahan jagaan kesihatan swasta" atau "kemudahan jagaan kesihatan" di mana-mana jua terdapat dengan perkataan "hospital psikiatri, rumah jagaan kejururawatan psikiatri atau pusat kesihatan mental masyarakat".
+(1) Ubahsuaian
 
-Seksyen 88 1. Gantikan subseksyen
+<!-- marginal: Peruntukan Akta -->
 
-<!-- marginal: (1} dengan -->
+<!-- marginal: Am -->
 
-subseksyen yang berikut: "(1) Seseorang Inspektor hendaklah mempunyai kuasa untuk masuk dan
+Kecuali seksyen 91 dan 93, gantikan perkataan "kemudahan", "kemudahan atau perkhidmatan jagaan kesihatan swasta", "kemudahan jagaan kesihatan swasta" atau "kemudahan jagaan kesihatan" di mana-mana jua terdapat dengan perkataan "hospital psikiatri, rumah jagaan kejururawatan psikiatri atau pusat kesihatan mental masyarakat".
+
+<!-- marginal: Seksyen 88 -->
+
+1. Gantikan subseksyen (1} dengan subseksyen yang berikut: "(1) Seseorang Inspektor hendaklah mempunyai kuasa untuk masuk dan
 
 <!-- page 66 -->
 
-(2) (1) Peruntukan Akta Ubahsuaian
+(2)
+
+(1)
+
+<!-- marginal: Peruntukan Akta -->
+
+Ubahsuaian
 
 memeriksa pada bila-bila masa mana- mana hospital psikiatri, rumah jagaan kejururawatan psikiatri atau pusat kesihatan mental masyarakat, atau mana- mana premis yang dia syaki atau mempunyai sebab untuk mempercayai ia digunakan untuk menempatkan, merawat atau menahan apa-apa jumlah orang yang bercelaru mental.".
 
-Seksyen 91 1. Gantikan perkataan "kemudahan jagaan kesihatan swasta atau bagi menyediakan apa-apa perkhidmatan jagaan kesihatan swasta" dan "kemudahan dan perkhidmatan jagaan kesihatan" di mana-mana jua terdapat dengan perkataan "hospital psikiatri, rumah jagaan kejururawatan psikiatri atau pusat kesihatan mental masyarakat".
+<!-- marginal: Seksyen 91 -->
 
-2. Dalam perenggan
+1. Gantikan perkataan "kemudahan jagaan kesihatan swasta atau bagi menyediakan apa-apa perkhidmatan jagaan kesihatan swasta" dan "kemudahan dan perkhidmatan jagaan kesihatan" di mana-mana jua terdapat dengan perkataan "hospital psikiatri, rumah jagaan kejururawatan psikiatri atau pusat kesihatan mental masyarakat".
 
-<!-- marginal: ( l )( a ), gantikan -->
-
-perkataan "Akta ini" dengan perkataan "Akta Kemudahan dan Perkhidmatan Jagaan Kesihatan Swasta 1998".
+2. Dalam perenggan ( l )( a ), gantikan perkataan "Akta ini" dengan perkataan "Akta Kemudahan dan Perkhidmatan Jagaan Kesihatan Swasta 1998".
 
 3. Dalam perenggan (1)(b), masukkan selepas perkataan "Ketua Pengarah" perkataan "di bawah Akta itu".
 
-Seksyen 92 Dalam subseksyen (2), masukkan selepas perkataan "suatu kesafahan" perkataan "dan hendaklah apabila disabitkan, didenda tidak melebihi tiga puluh ribu atau penjara bagi tempoh tidak melebihi enam bulan atau kedua- duanya".
+<!-- marginal: Seksyen 92 -->
 
-Seksyen 93 Gantikan seksyen itu dengan seksyen yang berikut:
+Dalam subseksyen (2), masukkan selepas perkataan "suatu kesafahan" perkataan "dan hendaklah apabila disabitkan, didenda tidak melebihi tiga puluh ribu atau penjara bagi tempoh tidak melebihi enam bulan atau kedua- duanya".
+
+<!-- marginal: Seksyen 93 -->
+
+Gantikan seksyen itu dengan seksyen yang berikut:
 
 Kewajipan 93. Bilamana seseorang Inspektor untuk menjalankan kuasanya di bawah membanlu Inspektor seksyen 88,89,90,91 dan 92 maka adalah menjadi kewajipan orang yang bertanggungjawab, pemegang lesen, tuan punya, penghuni dan mana-mana pekerja atau pekhidmat
 
 <!-- page 67 -->
 
-(2) (1) Ubahsuaian Peruntukan Akta
+(2)
+
+(1) Ubahsuaian
+
+<!-- marginal: Peruntukan Akta -->
 
 hospital psikiatri, rumah jagaan kejururawatan atau pusat kesihatan mental masyarakat dan mana-mana orang yang dijumpai di dalamnya—
 
 (a) untuk memberi Inspektor itu segala kemudahan dan bantuan yang semuna- sabahnya dikehendaki oleh Inspektor itu;
 
-(b) untuk memberi Inspektor itu semua maklumat yang munasabah
-
-<!-- marginal: yang -->
-
-<!-- marginal: di- -->
-
-kehendaki olehnya ber- kenaan dengan hospital psikiatri, rumah jagaan kejururawatan psikiatri atau pusat kesihatan mental masyarakat, mengikut mana-mana yang ber- kenaan, berkenaan dengan pengurusannya atau apa-apa perkara lain yang berkaitan dengannya; dan
+(b) untuk memberi Inspektor itu semua maklumat yang munasabah yang di- kehendaki olehnya ber- kenaan dengan hospital psikiatri, rumah jagaan kejururawatan psikiatri atau pusat kesihatan mental masyarakat, mengikut mana-mana yang ber- kenaan, berkenaan dengan pengurusannya atau apa-apa perkara lain yang berkaitan dengannya; dan
 
 (c) untuk mengemukakan apa- apa buku, rekod atau dokumen yang dalam milikan atau jagaannya atau di bawah kawalannya atau yang dia berkuasa untuk memberikannya berhubung dengan hal ehwal hospital psikiatri, rumah jagaan kejururawatan psikiatri atau pusat kesihatan mental masyarakat itu".
 
-1. Dalam subseksyen (1) gantikan perkataan Seksyen 99 "pemegang kelulusan, pemegang lesen atau pemegang perakuan pendaftaran" apabila di mana-mana terdapat dalam subseksyen itu dengan perkataan "orang yang ingkar".
+1. Dalam subseksyen (1) gantikan perkataan
+
+<!-- marginal: Seksyen 99 -->
+
+"pemegang kelulusan, pemegang lesen atau pemegang perakuan pendaftaran" apabila di mana-mana terdapat dalam subseksyen itu dengan perkataan "orang yang ingkar".
 
 <!-- page 68 -->
 
-(2) (1) Ubahsuaian Peruntukan Akta
+<!-- marginal: (2) -->
+
+(1) Ubahsuaian Peruntukan Akta
 
 2. Dalam subseksyen (4), gantikan perkataan "pemegang kelulusan, pemegang lesen, pemegang perakuan pendaftaran atau orang yang" yang terdapat dalam perenggan (a) dengan perkataan "orang yang ingkar".
 
@@ -1994,7 +1996,17 @@ Rang Undang-Undang ini akan melibatkan kerajaan dalam perbelanjaan wang tambahan
 
 ## PATIENTS FROM, PSYCHIATRIC HOSPITAL
 
-8. Admission of patient into psychiatric hospital 9. Admission of voluntary patient into psychiatric hospital 10. Admission of involuntary patient into psychiatric hospital 11. Apprehension of mentally disordered person 12. Procedure in cases of proved ill-treatment of suspected mentally disordered person 13. Procedure in cases of neglect or cruel treatment of suspected mentally disordered person 14. Order of admission into psychiatric hospital by medical officer or registered medical practitioner or by order of Court under section 11, 12, 13 or 73
+8. Admission of patient into psychiatric hospital 9. Admission of voluntary patient into psychiatric hospital
+
+10. Admission of involuntary patient into psychiatric hospital
+
+11. Apprehension of mentally disordered person
+
+12. Procedure in cases of proved ill-treatment of suspected mentally disordered person
+
+13. Procedure in cases of neglect or cruel treatment of suspected mentally disordered person
+
+14. Order of admission into psychiatric hospital by medical officer or registered medical practitioner or by order of Court under section 11, 12, 13 or 73
 
 <!-- page 77 -->
 
@@ -2004,7 +2016,17 @@ Rang Undang-Undang ini akan melibatkan kerajaan dalam perbelanjaan wang tambahan
 
 ## PATIENTS FROM PSYCHIATRIC HOSPITAL
 
-15. Discharge of involuntary patient by Medical Director 16. Discharge of involuntary patient on application 17. Leave of absence 18. Apprehension of involuntary patient 19. Transfer of involuntary patient to another government psychiatric hospital or gazetted private psychiatric hospital 20. Review of involuntary patient by Medical Director 21. Duty to notify Court of discharge of patient detained under subsection 55(1) or section 73
+15. Discharge of involuntary patient by Medical Director
+
+16. Discharge of involuntary patient on application 17. Leave of absence
+
+18. Apprehension of involuntary patient
+
+19. Transfer of involuntary patient to another government psychiatric hospital or gazetted private psychiatric hospital
+
+20. Review of involuntary patient by Medical Director
+
+21. Duty to notify Court of discharge of patient detained under subsection 55(1) or section 73
 
 ## PART IV
 
@@ -2014,7 +2036,13 @@ Rang Undang-Undang ini akan melibatkan kerajaan dalam perbelanjaan wang tambahan
 
 ## UNDER THE CRIMINAL PROCEDURE CODE
 
-22. Designation of approved psychiatric hospital 23. Examination of persons detained or confined in an approved psychiatric hospital 24. Review of persons confined under section 348 of the Criminal Procedure Code by Visitors 25. Review of persons confined under section 344 or 348 of the Criminal Procedure Code by Visitors on an application of a relative or friend
+22. Designation of approved psychiatric hospital
+
+23. Examination of persons detained or confined in an approved psychiatric hospital
+
+24. Review of persons confined under section 348 of the Criminal Procedure Code by Visitors
+
+25. Review of persons confined under section 344 or 348 of the Criminal Procedure Code by Visitors on an application of a relative or friend
 
 ## PART V
 
@@ -2024,7 +2052,15 @@ Rang Undang-Undang ini akan melibatkan kerajaan dalam perbelanjaan wang tambahan
 
 PSYCHIATRIC NURSING HOME 26. Psychiatric nursing home
 
-27. Appointment of government psychiatric nursing home 28. Appointment of gazetted private psychiatric nursing home 29. Person in charge of government psychiatric nursing home 30. Duty of licensee and person in charge of private psychiatric nursing home 31. Admission of patient into government, private and gazetted private psychiatric nursing home
+27. Appointment of government psychiatric nursing home
+
+28. Appointment of gazetted private psychiatric nursing home
+
+29. Person in charge of government psychiatric nursing home
+
+30. Duty of licensee and person in charge of private psychiatric nursing home
+
+31. Admission of patient into government, private and gazetted private psychiatric nursing home
 
 <!-- page 78 -->
 

@@ -24,9 +24,25 @@ II
 
 ## PENUBUHAN PERKONGSIAN TERHAD LUAR PESISIR
 
-3. Perkongsian terhad luar pesisir. 4. Pendaftaran suatu perkongsian terhad luar pesisir. 5. Pindaan perjanjian perkongsian. 6. Nama perkongsian. 7. Pejabat berdaftar. 8. Sumbangan pekongsi terhad. 9. Hak dan obligasi pekongsi am. 10. Penguatkuasaan penghakiman terhadap harta perkongsian
+3. Perkongsian terhad luar pesisir. 4. Pendaftaran suatu perkongsian terhad luar pesisir. 5. Pindaan perjanjian perkongsian. 6. Nama perkongsian. 7. Pejabat berdaftar. 8. Sumbangan pekongsi terhad. 9. Hak dan obligasi pekongsi am.
 
-11. Hak-hak pekongsi terhad. 12. Perkongsian keuntungan. 13. Urusan-urusan oleh pekongsi terhad dengan perkongsian. 14. Hak-hak pekongsi terhad di kalangan mereka. 15. Pemulangan sumbangan pekongsi terhad. 16. Liabiiiti pekongsi terhad kepada perkongsian. 17. Liabiliti pekongsi terhad kepada pemiutang. 18. Kemasukan pekongsi terhad tambahan.
+10. Penguatkuasaan penghakiman terhadap harta perkongsian
+
+11. Hak-hak pekongsi terhad.
+
+12. Perkongsian keuntungan.
+
+13. Urusan-urusan oleh pekongsi terhad dengan perkongsian.
+
+14. Hak-hak pekongsi terhad di kalangan mereka.
+
+15. Pemulangan sumbangan pekongsi terhad.
+
+16. Liabiiiti pekongsi terhad kepada perkongsian.
+
+17. Liabiliti pekongsi terhad kepada pemiutang.
+
+18. Kemasukan pekongsi terhad tambahan.
 
 <!-- page 2 -->
 
@@ -40,11 +56,7 @@ II
 
 23. Kuasa mahkamah untuk memerintahkan pembubaran.
 
-24. Penyelesaian akaun kerana pembubaran.
-
-25. Prosiding undang-undang dan penyampaian dokumen.
-
-26. Kuasa untuk menandatangani.
+24. Penyelesaian akaun kerana pembubaran. 25. Prosiding undang-undang dan penyampaian dokumen. 26. Kuasa untuk menandatangani.
 
 ## BAHAGIAN
 
@@ -190,9 +202,17 @@ II
 
 ## PENUBUHAN PERKONGSIAN TERHAD LUAR PESISIR
 
-Perkongsian
+<!-- marginal: Perkongsian -->
 
-3. (1) Tertakluk kepada peruntukan Akta ini, sesuatu terhad luar perkongsian terhad luar pesisir boleh dibentuk oleh mana- pesisir. mana orang untuk apa-apa maksud yang sah.
+3. (1) Tertakluk kepada peruntukan Akta ini, sesuatu
+
+<!-- marginal: terhad luar -->
+
+perkongsian terhad luar pesisir boleh dibentuk oleh mana-
+
+<!-- marginal: pesisir. -->
+
+mana orang untuk apa-apa maksud yang sah.
 
 (2) Sesuatu perkongsian terhad luar pesisir hendaklah terdiri daripada tidak kurang daripada dua orang pekongsi dan tidak lebih daripada dua puluh orang pekongsi, yang daripadanya —
 
@@ -318,9 +338,13 @@ perkongsian sesuatu perkongsian terhad luar pesisir yang didaftarkan di bawah se
 
 (4) Jika suatu perkongsian terhad luar pesisir tidak mematuhi subseksyen (1), setiap pekongsi am adalah melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi satu ribu ringgit, dan, dalam hal kesalahan yang berterusan, boleh didenda selanjutnya tidak melebihi dua ratus ringgit bagi setiap hari kesalahan itu berterusan selepas sabitan.
 
-Nama
+<!-- marginal: Nama -->
 
-6. (1) Nama bagi setiap perkongsian terhad luar pesisir perkongsian. hendaklah berakhir dengan perkataan "Perkongsian Terhad" bagi yang sepenuhnya atau kependekan "P.Thd.".
+6. (1) Nama bagi setiap perkongsian terhad luar pesisir
+
+<!-- marginal: perkongsian. -->
+
+hendaklah berakhir dengan perkataan "Perkongsian Terhad" bagi yang sepenuhnya atau kependekan "P.Thd.".
 
 (2) Nama bagi seseorang pekongsi terhad tidak boleh ditunjukkan dalam nama sesuatu perkongsian terhad luar pesisir melainkan jika itu adalah juga nama salah seorang pekongsi am atau perkongsian terhad luar pesisir itu telah dijalankan di bawah nama itu sebelum kemasukan pekongsi itu sebagai pekongsi terhad.
 
@@ -382,9 +406,17 @@ menyebabkan sumbangan itu akan kena dibuat;
 
 (7) Jika sesuatu perkongsian terhad luar pesisir tidak mematuhi seksyen ini, perkongsian terhad luar pesisir itu dan setiap pekongsi am adalah melakukan satu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu ribu ringgit dan, dalam hal kesalahan yang berterusan, boleh didenda selanjutnya tidak melebihi dua ratus ringgit bagi setiap hari kesalahan itu berterusan selepas sabitan.
 
-Sumbangan
+<!-- marginal: Sumbangan -->
 
-8. (1) Apa-apa sumbangan yang dibuat oleh seseorang pekongsi pekongsi terhad kepada sesuatu perkongsian terhad luar terhad. pesisir bolehlah dalam bentuk wang dalam mana-mana matawang, apa-apa harta lain, atau perkhidmatan.
+8. (1) Apa-apa sumbangan yang dibuat oleh seseorang
+
+<!-- marginal: pekongsi -->
+
+pekongsi terhad kepada sesuatu perkongsian terhad luar
+
+<!-- marginal: terhad. -->
+
+pesisir bolehlah dalam bentuk wang dalam mana-mana matawang, apa-apa harta lain, atau perkhidmatan.
 
 <!-- page 13 -->
 
@@ -418,21 +450,49 @@ dan hendaklah tertakluk kepada semua larangan dan liabiliti pekongsi dalam sesua
 
 (3) Mana-mana hutang atau obligasi yang ditanggung oleh pekongsi am dalam melakukan aktiviti-aktiviti sesuatu perkongsian terhad luar pesisir hendaklah menjadi hutang atau obligasi perkongsian terhad luar pesisir itu.
 
-Penguat-
+<!-- marginal: Penguat- -->
 
 10. (1) Tertakluk kepada subseksyen (3),
 
 <!-- marginal: tiada -->
 
-kuasaan penghakiman boleh dikuatkuasakan terhadap mana-mana penghakiman terhadap harta sesuatu perkongsian terhad luar pesisir melainkan harta jika penghakiman itu telah diberikan terhadap seorang perkongsian lerhad luar pekongsi am atas sifatnya sebagai pekongsi am bagi pesisir. perkongsian terhad luar pesisir itu.
+<!-- marginal: kuasaan -->
+
+penghakiman boleh dikuatkuasakan terhadap mana-mana
+
+<!-- marginal: penghakiman -->
+
+<!-- marginal: terhadap -->
+
+harta sesuatu perkongsian terhad luar pesisir melainkan
+
+<!-- marginal: harta -->
+
+jika penghakiman itu telah diberikan terhadap seorang
+
+<!-- marginal: perkongsian -->
+
+<!-- marginal: lerhad luar -->
+
+pekongsi am atas sifatnya sebagai pekongsi am bagi
+
+<!-- marginal: pesisir. -->
+
+perkongsian terhad luar pesisir itu.
 
 (2) Pemiutang seseorang pekongsi am atau pekongsi terhad, atas sifat pekongsi itu selain sebagai suatu pekongsi am atau pekongsi terhad bagi suatu perkongsian terhad luar pesisir, tidak boleh membuat tuntutan terhadap harta perkongsian terhad luar pesisir itu.
 
 (3) Tiada apa-apa jua dalam subseksyen (1) boleh rnenghalang penguatkuasaan sesuatu perintah mahkamah yang berhubungan dengan harta sesuatu perkongsian terhad luar pesisir dalam apa-apa hal jika, oleh sebab mana- mana peristiwa yang tersebut dalam perenggan 22(1 )(a) atau 22(1)(b), suatu penghakiman tidak boleh diberikan terhadap pekongsi am atas sifatnya sebagai pekongsi am perkongsian terhad luar pesisir itu.
 
-Hak-hak
+<!-- marginal: Hak-hak -->
 
-11. (1) Seseorang pekongsi terhad mempunyai hak yang pekongsi sama seperti pekongsi am— terhad.
+11. (1) Seseorang pekongsi terhad mempunyai hak yang
+
+<!-- marginal: pekongsi -->
+
+sama seperti pekongsi am—
+
+<!-- marginal: terhad. -->
 
 (a) dalam waktu berniaga, untuk memeriksa dan membuat salinan atau mengambil cabutan
 
@@ -464,15 +524,43 @@ ini dan perjanjian perkongsian, mempunyai hak untuk berkongsi keuntungan suatu p
 
 (3) Selama tempoh enam bulan dari tarikh penerimaan oleh seseorang pekongsi terhad apa-apa bayaran yang merupakan bahagian keuntungan perkongsian terhad luar pesisir itu dalam hal keadaan apabila kehendak-kehendak subseksyen (2) tidak dipenuhi, bayaran itu hendaklah kena dibayar semula oleh pekongsi terhad itu berserta bunga pada kadar yang telah ditetapkan setakat yang bahagian keuntungan itu perlu untuk menunaikan hutang atau obligasi yang ditanggung oleh perkongsian terhad luar pesisir itu dalam tempoh bahagian keuntungan itu merupakan aset perkongsian terhad luar pesisir itu.
 
-Urusan-
+<!-- marginal: Urusan- -->
 
-13. (1) Pekongsi terhad boleh meminjamkan wang kepada, urusan oleh meminjam wang daripada dan membuat transaksi dengan pekongsi terhad perkongsian terhad luar pesisir. dengan perkongsian. (2) Kecuali jika pekongsi terhad itu adalah juga merupakan pekongsi am, seseorang pekongsi terhad yang mempunyai tuntutan berkenaan dengan apa-apa jua yang telah dibuat di bawah subseksyen (1), terhadap aset-aset perkongsian terhad luar pesisir itu hendaklah disenaraikan sebagai pemiutang kepada perkongsian terhad luar pesisir itu berkenaan dengan tuntutan itu.
+13. (1) Pekongsi terhad boleh meminjamkan wang kepada,
+
+<!-- marginal: urusan oleh -->
+
+meminjam wang daripada dan membuat transaksi dengan
+
+<!-- marginal: pekongsi -->
+
+<!-- marginal: terhad -->
+
+perkongsian terhad luar pesisir.
+
+<!-- marginal: dengan -->
+
+<!-- marginal: perkongsian. -->
+
+(2) Kecuali jika pekongsi terhad itu adalah juga merupakan pekongsi am, seseorang pekongsi terhad yang mempunyai tuntutan berkenaan dengan apa-apa jua yang telah dibuat di bawah subseksyen (1), terhadap aset-aset perkongsian terhad luar pesisir itu hendaklah disenaraikan sebagai pemiutang kepada perkongsian terhad luar pesisir itu berkenaan dengan tuntutan itu.
 
 (3) Bagi maksud seksyen ini, tuntutan yang diperihalkan dalam subseksyen (2) tidaklah termasuk tuntutan bagi pemulangan sumbangan modal.
 
-Hak-hak
+<!-- marginal: Hak-hak -->
 
-14. (1) Tertakluk kepada subseksyen (2), pekongsi- pekongsi pekongsi terhad, dalam hubungan sesama mereka, terhad di kalangan hendaklah berperingkat — mereka.
+14. (1) Tertakluk kepada subseksyen (2), pekongsi-
+
+<!-- marginal: pekongsi -->
+
+pekongsi terhad, dalam hubungan sesama mereka,
+
+<!-- marginal: terhad di -->
+
+<!-- marginal: kalangan -->
+
+hendaklah berperingkat —
+
+<!-- marginal: mereka. -->
 
 (a) pari passu berkenaan dengan pemulangan sumbangan mereka; dan
 
@@ -532,7 +620,23 @@ ada bagi pemulangan sumbangan itu atau bagi pembubaran perkongsian terhad luar p
 
 (6) Dalam seksyen ini, "bayaran" termasuklah pelepasan apa-apa obligasi yang membentuk sebahagian daripada sumbangan modal, dan apa-apa liabiliti untuk membuat pembayaran semula menurut subseksyen (2) hendaklah ditafsirkan sewajarnya.
 
-16. Seseorang pekongsi terhad hendaklah bertanggungan Liabiliti pekongsi kepada perkongsian terhad luar pesisir bagi perbezaan, terhad jika ada, antara nilai wang atau harta lain yang kepada perkongsian. disumbangkan olehnya kepada perkongsian terhad luar pesisir itu atau nilai statutorinya dan nilai wang atau harta lain yang ditentukan dalam rekod-rekod yang disimpan di bawah subseksyen 7(4) supaya disumbangkan oleh pekongsi terhad itu kepada perkongsian terhad luar pesisir itu.
+16. Seseorang pekongsi terhad hendaklah bertanggungan
+
+<!-- marginal: Liabiliti -->
+
+<!-- marginal: pekongsi -->
+
+kepada perkongsian terhad luar pesisir bagi perbezaan,
+
+<!-- marginal: terhad -->
+
+jika ada, antara nilai wang atau harta lain yang
+
+<!-- marginal: kepada -->
+
+<!-- marginal: perkongsian. -->
+
+disumbangkan olehnya kepada perkongsian terhad luar pesisir itu atau nilai statutorinya dan nilai wang atau harta lain yang ditentukan dalam rekod-rekod yang disimpan di bawah subseksyen 7(4) supaya disumbangkan oleh pekongsi terhad itu kepada perkongsian terhad luar pesisir itu.
 
 <!-- page 19 -->
 
@@ -640,9 +744,19 @@ hakkan kepentingannya, sama ada secara keseluruhan atau sebahagian, dalam perkon
 
 (3) Jika perkongsian terhad luar pesisir itu dibubarkan dengan melanggar subseksyen (1), setiap pekongsi am adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu ribu ringgit.
 
-Pembubaran
+<!-- marginal: Pembubaran -->
 
-21. (1) Sekiranya sesuatu perkongsian terhad luar pesisir perkongsian dibubarkan, hal-ehwalnya hendaklah digulung oleh terhad luar pesisir. pekongsi-pekongsi amnya, melainkan jika aktiviti-aktiviti
+21. (1) Sekiranya sesuatu perkongsian terhad luar pesisir
+
+<!-- marginal: perkongsian -->
+
+dibubarkan, hal-ehwalnya hendaklah digulung oleh
+
+<!-- marginal: terhad luar -->
+
+<!-- marginal: pesisir. -->
+
+pekongsi-pekongsi amnya, melainkan jika aktiviti-aktiviti
 
 <!-- page 23 -->
 
@@ -692,7 +806,21 @@ luar pesisir itu hendaklah disifatkan belum dibubarkan dan aktiviti-aktiviti per
 
 (4) Jika notis yang dikehendaki difailkan di bawah subseksyen (3) tidak difailkan sedemikian, setiap pekongsi terhad adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu ribu ringgit.
 
-Kuasa 23. (1) Mahkamah boleh, atas permohonan seseorang mahkamah pekongsi, memerintahkan pembubaran sesuatu perkongsian untuk me- merintahkan terhad luar pesisir jika ia berpuas hati bahawa— pembubaran.
+<!-- marginal: Kuasa -->
+
+23. (1) Mahkamah boleh, atas permohonan seseorang
+
+<!-- marginal: mahkamah -->
+
+pekongsi, memerintahkan pembubaran sesuatu perkongsian
+
+<!-- marginal: untuk me- -->
+
+<!-- marginal: merintahkan -->
+
+terhad luar pesisir jika ia berpuas hati bahawa—
+
+<!-- marginal: pembubaran. -->
 
 (a) perkongsian terhad luar pesisir itu dikendalikan dengan cara yang berlawanan dengan terma- terma perjanjian perkongsian perkongsian terhad luar pesisir itu;
 
@@ -700,7 +828,9 @@ Kuasa 23. (1) Mahkamah boleh, atas permohonan seseorang mahkamah pekongsi, memer
 
 (c) telah timbul hal keadaan yang menjadikannya adil dan berekuiti bahawa perkongsian terhad luar pesisir itu dibubarkan.
 
-(2) Jika suatu perintah telah dibuat di bawah subseksyen (1) mahkamah boleh memberikan apa-apa arahan yang difikirkannya sesuai tentang penggulungan perkongsian terhad luar pesisir itu.
+(2) Jika suatu perintah telah dibuat di bawah subseksyen
+
+(1) mahkamah boleh memberikan apa-apa arahan yang difikirkannya sesuai tentang penggulungan perkongsian terhad luar pesisir itu.
 
 (3) Jika sesuatu perkongsian terhad luar pesisir telah dibubarkan di bawah seksyen ini pekongsi yang membuat
 
@@ -762,9 +892,17 @@ dimulakan oleh atau terhadap mana-mana seorang atau lebih daripada seorang pekon
 
 (b) menghantar dokumen itu melalui pos atau menyerahkannya di pejabat berdaftar perkongsian terhad luar pesisir.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-26. Jika seseorang pckongsi am menyempurnakan sesuatu menand- dokumen bagi pihak perkongsian terhad luar pesisir itu, tangani. maka hendaklah dianggap sebagai konklusif dengan memihak kepada mana-mana orang yang bukan pekongsi bahawa—
+26. Jika seseorang pckongsi am menyempurnakan sesuatu
+
+<!-- marginal: menand- -->
+
+dokumen bagi pihak perkongsian terhad luar pesisir itu,
+
+<!-- marginal: tangani. -->
+
+maka hendaklah dianggap sebagai konklusif dengan memihak kepada mana-mana orang yang bukan pekongsi bahawa—
 
 (a) pekongsi am mempunyai kuasa yang di bawahnya dia bcrupa telah bertindak; dan
 
@@ -776,7 +914,13 @@ III
 
 ## PERUNTUKAN-PERUNTUKAN AM
 
-Kuasa 27. (1) Tanpa menjejaskan fungsi, kuasa dan kewajipan penyeliaan. yang diberikan kepada atau dikenakan ke atas Lembaga di bawah mana-mana undang-undang bertulis lain, Lcmbaga hendaklah mempunyai segala fungsi dan kuasa yang diberikan kcpadanya, dan kewajipan yang dikenakan, ke atasnya, oleh Akta ini.
+<!-- marginal: Kuasa -->
+
+27. (1) Tanpa menjejaskan fungsi, kuasa dan kewajipan
+
+<!-- marginal: penyeliaan. -->
+
+yang diberikan kepada atau dikenakan ke atas Lembaga di bawah mana-mana undang-undang bertulis lain, Lcmbaga hendaklah mempunyai segala fungsi dan kuasa yang diberikan kcpadanya, dan kewajipan yang dikenakan, ke atasnya, oleh Akta ini.
 
 <!-- page 27 -->
 
@@ -818,13 +962,49 @@ Undang-Undang
 
 (3) Mana-mana perkongsian terhad luar pesisir yang melanggar subseksyen (1) atau sekatan atau perintah atau syarat yang dikenakan di bawah subseksyen (2) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu ribu ringgit.
 
-Fee. 29. (1) Lembaga boleh mengenakan fee berkenaan dengan apa-apa perkhidmatan yang diberikan oleh Lembaga di bawah Akta ini.
+<!-- marginal: Fee. -->
+
+29. (1) Lembaga boleh mengenakan fee berkenaan dengan apa-apa perkhidmatan yang diberikan oleh Lembaga di bawah Akta ini.
 
 (2) Apa-apa fee yang dipungut oleh atau dibayar kepada Lembaga di bawah Akta ini hendaklah menjadi sebahagian daripada dan dimasukkan di dalam Kumpulan Wangnya yang ditubuhkan di bawah seksyen 29 Akta Lembaga.
 
-Pemeriksaan 30. (1) Tertakluk kepada peruntukan-peruntukan Akta dan ini, seseorang boleh, jika dibenarkan oleh perkongsian pengeluaran dokumen terhad luar pesisir yang relevan— yang disimpan
+<!-- marginal: Pemeriksaan -->
 
-(a) memeriksa dokumen yang disampaikan kepada, olch Lembaga dan didaftarkan oleh atau difailkan dengan Lembaga perkongsian di bawah Akta ini dan yang disimpan oleh terhad luar Lembaga atau, jika didapati sesuai oleh Lembaga, pesisir. salinan dokumen itu;
+30. (1) Tertakluk kepada peruntukan-peruntukan Akta
+
+<!-- marginal: dan -->
+
+ini, seseorang boleh, jika dibenarkan oleh perkongsian
+
+<!-- marginal: pengeluaran -->
+
+<!-- marginal: dokumen -->
+
+terhad luar pesisir yang relevan—
+
+<!-- marginal: yang -->
+
+<!-- marginal: disimpan -->
+
+(a) memeriksa dokumen yang disampaikan kepada,
+
+<!-- marginal: olch -->
+
+<!-- marginal: Lembaga dan -->
+
+didaftarkan oleh atau difailkan dengan Lembaga
+
+<!-- marginal: perkongsian -->
+
+di bawah Akta ini dan yang disimpan oleh
+
+<!-- marginal: terhad luar -->
+
+Lembaga atau, jika didapati sesuai oleh Lembaga,
+
+<!-- marginal: pesisir. -->
+
+salinan dokumen itu;
 
 (h) meminta supaya diberikan kepadanya suatu perakuan tentang pendaftaran
 
@@ -912,25 +1092,59 @@ dilakukan oleh suatu pertubuhan perbadanan, maka mana-
 
 <!-- marginal: dsb. -->
 
-mana orang yang pada masa pelakuan kesalahan itu adalah pengarah, pengurus, setiausaha atau pegawai lain yang seumpamanya atau pekongsi dalam pertubuhan itu, atau berupa bertindak atas sifat tersebut hendaklah, berserta juga dengan pertubuhan itu, disifatkan telah melakukan kesalahan itu melainkan jika dia membuktikan bahawa kesalahan itu telah dilakukan tanpa persetujuan atau pembiarannya dan bahawa dia telah menjalankan segala usaha untuk menghalang pelakuan kesalahan itu sebagaimana yang patut dijalankan olehnya, memandangkan kepada jenis fungsi-fungsinya atas sifat itu dan kepada segala hal keadaan.
+mana orang yang pada masa pelakuan kesalahan itu adalah pengarah, pengurus, setiausaha atau pegawai lain yang seumpamanya atau pekongsi dalam pertubuhan itu, atau berupa bertindak atas sifat tersebut hendaklah, berserta juga dengan pertubuhan itu, disifatkan telah melakukan kesalahan itu melainkan jika dia membuktikan bahawa kesalahan itu telah dilakukan tanpa persetujuan atau pembiarannya dan bahawa dia telah menjalankan segala usaha untuk menghalang pelakuan kesalahan itu sebagaimana yang patut dijalankan
+
+<!-- marginal: olehnya, -->
+
+memandangkan kepada jenis fungsi-fungsinya atas sifat itu dan kepada segala hal keadaan.
 
 <!-- page 30 -->
 
-Dokumen
+<!-- marginal: Dokumen -->
 
-34. (1) Tiap-tiap dokumen yang dikehendaki atau hendaklah dibenarkan supaya diserahsimpan atau difailkan dengan difailkan, melalui Lembaga di bawah Akta ini hendaklah diserahsimpan syarikat atau difailkan melalui suatu syarikat amanah. amanah.
+34. (1) Tiap-tiap dokumen yang dikehendaki atau
+
+<!-- marginal: hendaklah -->
+
+dibenarkan supaya diserahsimpan atau difailkan dengan
+
+<!-- marginal: difailkan, -->
+
+<!-- marginal: melalui -->
+
+Lembaga di bawah Akta ini hendaklah diserahsimpan
+
+<!-- marginal: syarikat -->
+
+atau difailkan melalui suatu syarikat amanah.
+
+<!-- marginal: amanah. -->
 
 (2) Tiap-tiap permohonan kepada Lembaga untuk men- dapat apa-apa perakuan atau untuk mendapat apa-apa cabutan atau salinan mana-mana perakuan yang hendak dikeluarkan di bawah Akta ini atau apa-apa dokumen yang telah diserahsimpan atau difailkan dengan Lembaga hendaklah dibuat melalui suatu syarikat amanah.
 
 (3) Subseksyen (2) tidaklah terpakai jika sesuatu permohonan dibuat berkenaan suatu perkongsian terhad luar pesisir oleh mana-mana pekongsi perkongsian terhad luar pesisir itu dan dokumen, perakuan, cabutan atau salinan itu adalah untuk kegunaan peribadinya sendiri.
 
-Prosedur jika
+<!-- marginal: Prosedur jika -->
 
-35. Sekiranya apa-apa tindakan atau langkah dikehendaki tiada atau dibenarkan dilakukan atau diambil di bawah Akta prosedur ditetapkan. ini dan tiada bentuk ditetapkan atau prosedur ditentukan sama ada dalam Akta ini atau peraturan-peraturan yang dibuat di bawah Akta ini, permohonan bolehlah dibuat kepada Lembaga untuk mendapat arahan tentang cara bagaimana tindakan atau langkah boleh diambil dan apa- apa tindakan dan langkah itu boleh diambil, dan apa-apa tindakan atau langkah yang diambil mengikut arahannya hendaklah menjadi pelaksanaan yang sah bagi tindakan atau langkah itu.
+35. Sekiranya apa-apa tindakan atau langkah dikehendaki
 
-Tanggung
+<!-- marginal: tiada -->
 
-36. Lembaga atau mana-mana pegawai atau ejen atau rugi. pengkhidmat Lembaga tidak boleh didakwa dalam mana- mana mahkamah bagi apa-apa perbuatan atau perkara yang telah dilakukan atau diarahkan supaya dilakukan atau ditinggalkan daripada dilakukan, oleh Lembaga atau pegawai atau ejen atau pengkhidmat itu dengan suci hati dan dengan niat untuk menjalankan apa-apa kuasa atau melaksanakan apa-apa tugas yang diberikan atau dikenakan pada Lembaga atau pegawai atau ejen atau pengkhidmat itu oleh atau di bawah Akta ini.
+atau dibenarkan dilakukan atau diambil di bawah Akta
+
+<!-- marginal: prosedur -->
+
+<!-- marginal: ditetapkan. -->
+
+ini dan tiada bentuk ditetapkan atau prosedur ditentukan sama ada dalam Akta ini atau peraturan-peraturan yang dibuat di bawah Akta ini, permohonan bolehlah dibuat kepada Lembaga untuk mendapat arahan tentang cara bagaimana tindakan atau langkah boleh diambil dan apa- apa tindakan dan langkah itu boleh diambil, dan apa-apa tindakan atau langkah yang diambil mengikut arahannya hendaklah menjadi pelaksanaan yang sah bagi tindakan atau langkah itu.
+
+<!-- marginal: Tanggung -->
+
+36. Lembaga atau mana-mana pegawai atau ejen atau
+
+<!-- marginal: rugi. -->
+
+pengkhidmat Lembaga tidak boleh didakwa dalam mana- mana mahkamah bagi apa-apa perbuatan atau perkara yang telah dilakukan atau diarahkan supaya dilakukan atau ditinggalkan daripada dilakukan, oleh Lembaga atau pegawai atau ejen atau pengkhidmat itu dengan suci hati dan dengan niat untuk menjalankan apa-apa kuasa atau melaksanakan apa-apa tugas yang diberikan atau dikenakan pada Lembaga atau pegawai atau ejen atau pengkhidmat itu oleh atau di bawah Akta ini.
 
 <!-- page 31 -->
 
@@ -958,7 +1172,11 @@ dan layak berbuat demikian, mengkompaunkan apa-apa kesalahan yang dilakukan oleh
 
 38. (1) Walau apa pun mana-mana peruntukan dalam Akta ini, jika Lembaga berpuas hati bahawa suatu perkongsian terhad luar pesisir—
 
-(a) telah tidak memperbaharui perakuan pendaftarannya yang dikeluarkan di bawah subseksyen 4(7); atau
+(a) telah tidak memperbaharui
+
+<!-- marginal: perakuan -->
+
+pendaftarannya yang dikeluarkan di bawah subseksyen 4(7); atau
 
 (b) telah melanggar mana-mana peruntukan Akta ini,
 
@@ -978,9 +1196,17 @@ Lembaga boleh dalam masa 30 hari bermula dari tarikh habis tempoh masa yang dise
 
 (3) Sesuatu perkongsian terhad luar pesisir yang telah dipotong dari daftar di bawah seksyen ini masih lagi bertanggungan bagi semua tuntutan, hutang, liabiliti dan obligasi perkongsian terhad l u ar pesisir i t u, dan pemotongan itu tidaklah menyentuh liabiliti mana-mana pekongsinya.
 
-Pemasukan
+<!-- marginal: Pemasukan -->
 
-39. Jika nama sesuatu perkongsian terhad luar pesisir scmula dalam telah dipotong dari daftar di bawah subseksyen 38(2), daftar. perkongsian terhad luar pesisir itu, atau seseorang pekongsi atau pelikuidasinya, boleh dalam masa 3 tahun selepas sahaia tarikh pemotongan, memohon kepada Lembaga
+39. Jika nama sesuatu perkongsian terhad luar pesisir
+
+<!-- marginal: scmula dalam -->
+
+telah dipotong dari daftar di bawah subseksyen 38(2),
+
+<!-- marginal: daftar. -->
+
+perkongsian terhad luar pesisir itu, atau seseorang pekongsi atau pelikuidasinya, boleh dalam masa 3 tahun selepas sahaia tarikh pemotongan, memohon kepada Lembaga
 
 <!-- page 33 -->
 
@@ -1018,7 +1244,9 @@ telah dipotong dari daftar, perkongsian terhad luar pesisir itu, dan, pekongsi-p
 
 (c) mahkamah daripada memberikan apa-apa perintah sebagaimana yang diperuntukkan di bawah Akta ini.
 
-Kerahsiaan. 41. (1) Semua prosiding (selain prosiding jenayah) yang melibatkan mana-mana perkongsian terhad luar pesisir yang dimulakan di mana-mana mahkamah, sama ada di bawah peruntukan-peruntukan Akta ini atau semata-mata bagi maksud menentukan hak-hak atau obligasi-obligasi pekongsi-pekongsi, dan apa-apa rayuan terhadapnya, hendaklah didengar secara tertutup dan butir-butir prosiding itu tidak boleh disiarkan.
+<!-- marginal: Kerahsiaan. -->
+
+41. (1) Semua prosiding (selain prosiding jenayah) yang melibatkan mana-mana perkongsian terhad luar pesisir yang dimulakan di mana-mana mahkamah, sama ada di bawah peruntukan-peruntukan Akta ini atau semata-mata bagi maksud menentukan hak-hak atau obligasi-obligasi pekongsi-pekongsi, dan apa-apa rayuan terhadapnya, hendaklah didengar secara tertutup dan butir-butir prosiding itu tidak boleh disiarkan.
 
 (2) Jika —
 
@@ -1056,15 +1284,35 @@ menetapkan segala perkara dan benda yang dikehendaki atau dibenarkan oleh Akta i
 
 <!-- page 36 -->
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-43. Menteri boleh, atas syor Lembaga dengan notis Menteri bertulis, mengecualikan suatu perkongsian terhad luar untuk pesisir atau pekongsi atau mana-mana orang daripada mengecuali. seksyen 4, 7, 8, 9, 11, 12, 13, 14, 15, 16, 18 atau 24.
+43. Menteri boleh, atas syor Lembaga dengan notis
 
-Peruntukan
+<!-- marginal: Menteri -->
 
-44. (1) Rukun-rukun ekuiti dan common law yang kecualian. terpakai bagi perkongsian hendaklah terus berkuatkuasa, kecuali setakat yang tidak konsisten dengan peruntukan- peruntukan nyata Akta ini.
+bertulis, mengecualikan suatu perkongsian terhad luar
 
-(2) Peruntukan-peruntukan Akta Perkongsian 1961 Akta 135. tidaklah terpakai bagi sesuatu perkongsian terhad luar pesisir yang ditubuhkan atau didaftarkan di bawah Akta ini.
+<!-- marginal: untuk -->
+
+pesisir atau pekongsi atau mana-mana orang daripada
+
+<!-- marginal: mengecuali. -->
+
+seksyen 4, 7, 8, 9, 11, 12, 13, 14, 15, 16, 18 atau 24.
+
+<!-- marginal: Peruntukan -->
+
+44. (1) Rukun-rukun ekuiti dan common law yang
+
+<!-- marginal: kecualian. -->
+
+terpakai bagi perkongsian hendaklah terus berkuatkuasa, kecuali setakat yang tidak konsisten dengan peruntukan- peruntukan nyata Akta ini.
+
+(2) Peruntukan-peruntukan Akta Perkongsian 1961
+
+<!-- marginal: Akta 135. -->
+
+tidaklah terpakai bagi sesuatu perkongsian terhad luar pesisir yang ditubuhkan atau didaftarkan di bawah Akta ini.
 
 ## HURAIAN
 

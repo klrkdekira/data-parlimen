@@ -44,7 +44,11 @@ Sabah, which in this Act is referred to as the
 
 <!-- page 2 -->
 
-Amendment 3. Section 3 of the Ordinance is amended— of section 3.
+<!-- marginal: Amendment -->
+
+3. Section 3 of the Ordinance is amended—
+
+<!-- marginal: of section 3. -->
 
 (a) by substituting for subsection (2) the following subsection:
 
@@ -52,13 +56,7 @@ Amendment 3. Section 3 of the Ordinance is amended— of section 3.
 
 (a) the local pensions authority, who shall be the Chairman;
 
-(b) two officers from the Public Service Department, Malaysia,
-
-<!-- marginal: to -->
-
-<!-- marginal: be -->
-
-appointed by the Director General of Public Service;
+(b) two officers from the Public Service Department, Malaysia, to be appointed by the Director General of Public Service;
 
 (c) one officer from the Chief Minister's Department, to be appointed by the State Secretary;
 
@@ -72,13 +70,7 @@ appointed by the Director General of Public Service;
 
 "(2A) Members of the Board, other than the Chairman, shall hold office for such period as may be determined by the respective appointing authorities specified in subsection (2).
 
-(2B) The Board shall appoint a Secretary who shall assist the Board
-
-<!-- marginal: in -->
-
-<!-- marginal: the -->
-
-administration of the Fund.".
+(2B) The Board shall appoint a Secretary who shall assist the Board in the administration of the Fund.".
 
 <!-- page 3 -->
 

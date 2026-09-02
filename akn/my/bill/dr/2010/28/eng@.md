@@ -556,7 +556,9 @@ for a period of not less than seven years from the end of the year in which the 
 
 45. The principal act is amended by substituting for the First Schedule the following Schedule:
 
-“first s chedule [Subsection 2a(1)]
+## “FIRST S CHEDULE
+
+[Subsection 2a(1)]
 
 1 . any authority or body established, appointed or constituted by any written law, including any local authority.
 
@@ -604,9 +606,13 @@ for a period of not less than seven years from the end of the year in which the 
 
 46. The principal act is amended by inserting after the First Schedule the following Schedule:
 
-“first s chedule a [Section 19]
+## “FIRST S CHEDULE A
 
-table 1 PRiNCiPal aND iNTEREST
+[Section 19]
+
+## TABLE 1
+
+PRiNCiPal aND iNTEREST
 
 Principal Date on which loan was
 
@@ -618,7 +624,9 @@ made
 
 <!-- marginal: amount of interest -->
 
-table 2 REPaYMENT
+## TABLE 2
+
+REPaYMENT
 
 amounts repaid
 
@@ -628,27 +636,17 @@ amounts repaid
 
 <!-- page 22 -->
 
-table 3 aMOUNT OF aRREaRS
+## TABLE 3
+
+aMOUNT OF aRREaRS
 
 Principal Date due interest
 
 <!-- marginal: Date Due -->
 
-1.
+1. 2. 3. 4. 5. 6. 7.
 
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-table 4
+## TABLE 4
 
 ## SUMS NOT YET DUE
 
@@ -656,19 +654,7 @@ Principal Date due interest
 
 <!-- marginal: Date Due -->
 
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7. ”.
+1. 2. 3. 4. 5. 6. 7. ”.
 
 ### Revocation
 

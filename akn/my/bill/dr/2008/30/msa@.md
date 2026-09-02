@@ -8,17 +8,29 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## JAWATANKUASA ETIKA HAKIM
 
-3. Penubuhan Jawatankuasa 4. Bidang kuasa Jawatankuasa 5. Keanggotaan Jawatankuasa 6. Anggota ganti 7. Prinsip dan tatacara 8. Prosiding secara tertutup 9. Siasatan 10. Penzahiran kepentingan 11. Mesyuarat Jawatankuasa 12. Kuorum 13. Penangguhan pendengaran di hadapan Jawatankuasa 14. Rekod dan minit prosiding 15. Keputusan Jawatankuasa
+3. Penubuhan Jawatankuasa 4. Bidang kuasa Jawatankuasa 5. Keanggotaan Jawatankuasa 6. Anggota ganti 7. Prinsip dan tatacara 8. Prosiding secara tertutup 9. Siasatan
+
+10. Penzahiran kepentingan
+
+11. Mesyuarat Jawatankuasa
+
+12. Kuorum
+
+13. Penangguhan pendengaran di hadapan Jawatankuasa
+
+14. Rekod dan minit prosiding
+
+15. Keputusan Jawatankuasa
 
 <!-- page 3 -->
 
@@ -30,7 +42,7 @@ Suatu Akta untuk menubuhkan Jawatankuasa Etika Hakim dan untuk mengadakan perunt
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -58,7 +70,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “Pengerusi” ertinya Pengerusi Jawatankuasa yang dilantik di bawah seksyen 5.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## JAWATANKUASA ETIKA HAKIM
 
@@ -88,7 +100,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (2) Jika mana-mana anggota Jawatankuasa tidak dapat menghadiri prosiding tatatertib oleh sebab sakit atau kerana apa-apa sebab lain, Ketua Hakim Negara Mahkamah Persekutuan hendaklah melantik seorang hakim lain sebagai pengganti anggota itu.
 
-(3) Anggota Jawatankuasa yang dilantik di bawah subseksyen (1) atau (2) hendaklah merupakan hakim yang kanan mengikut keutamaan kepada hakim yang menjadi subjek prosiding tatatertib itu.
+(3) Anggota Jawatankuasa yang dilantik di bawah subseksyen
+
+(1) atau (2) hendaklah merupakan hakim yang kanan mengikut keutamaan kepada hakim yang menjadi subjek prosiding tatatertib itu.
 
 ### Prinsip dan tatacara
 
@@ -144,7 +158,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 Rang Undang-Undang ini bertujuan untuk menubuhkan Jawatankuasa Etika Hakim sebagaimana yang dimaksudkan oleh Fasal (3a) Perkara 125 Perlembagaan Persekutuan bagi menguruskan mana-mana hakim yang telah melakukan suatu pelanggaran mana-mana peruntukan Kod Etika Hakim 2008 [P.U. (A) ....../200......], jika Ketua Hakim Negara Mahkamah Persekutuan berpendapat bahawa pelanggaran itu tidak mewajarkan hakim itu dirujukkan kepada suatu tribunal yang dilantik di bawah Fasal (4) Perkara 125 Perlembagaan Persekutuan.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Rang Undang-Undang mengandungi perkara permulaan.
 
@@ -154,7 +168,7 @@ Rang Undang-Undang ini bertujuan untuk menubuhkan Jawatankuasa Etika Hakim sebag
 
 4. Fasal 2 mengandungi takrif beberapa ungkapan yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 5. Bahagian II Rang Undang-Undang memperkatakan perkara-perkara yang berhubungan dengan Jawatankuasa Etika Hakim.
 

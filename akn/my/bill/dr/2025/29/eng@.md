@@ -310,7 +310,7 @@ Total
 
 20. The principal Act is amended by substituting for the Sixth Schedule the following schedule:
 
-“Sixth Schedule
+## “SIXTH SCHEDULE
 
 [Section 30]
 

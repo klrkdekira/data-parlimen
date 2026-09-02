@@ -66,4 +66,6 @@ This Bill seeks to amend the Service Tax Act 1975 ("the Act").
 
 ## IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure. [PN. (U2) 1805.]
+This Bill will not involve the Government in any extra financial expenditure.
+
+<!-- marginal: [PN. (U2) 1805.] -->

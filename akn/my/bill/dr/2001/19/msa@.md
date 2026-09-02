@@ -14,9 +14,7 @@ I
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan permulaan kuat kuasa
-
-2. Tafsiran
+1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
 
 ## BAHAGIAN
 
@@ -24,19 +22,7 @@ II
 
 ## SURUHANJAYA
 
-3. Penubuhan Suruhanjaya
-
-4. Peruntukan peletakhakan
-
-5. Meterai perbadanan
-
-6. Keanggotaan Suruhanjaya
-
-7. Tempoh jawatan
-
-8. Pembatalan dan peletakan jawatan
-
-9. Pengosongan jawatan
+3. Penubuhan Suruhanjaya 4. Peruntukan peletakhakan 5. Meterai perbadanan 6. Keanggotaan Suruhanjaya 7. Tempoh jawatan 8. Pembatalan dan peletakan jawatan 9. Pengosongan jawatan
 
 10. Saraan atau elaun
 
@@ -248,9 +234,7 @@ liabiliti yang berpindah kepada dan terletak hak pada Suruhanjaya menurut kuasa 
 
 (6) Dalam hal hak dan liabiliti yang berbangkit di bawah mana- mana pinjaman yang terletak hak pada Suruhanjaya pada tarikh letak hak, Suruhanjaya boleh membuat apa-apa perkiraan atau perjanjian dengan Kerajaan Malaysia atau mana-mana pihak lain mengenai hak dan liabiliti itu.
 
-(7) Pada dan selepas tarikh letak hak, mana-mana perjanjian berhubung dengan mana-mana harta, hak dan liabiliti yang berpindah kepada dan terletak hak pada Suruhanjaya di bawah subseksyen
-
-(1) yang Kerajaan Malaysia, Pendaftar Syarikat atau Pendaftar Perniagaan menjadi pihak kepadanya sebaik sebelum tarikh letak hak, sama ada bertulis atau tidak, dan sama ada atau tidak sedemikian jenisnya sehingga hak dan liabiliti di bawah perjanjian itu boleh diserahhakkan oleh Kerajaan Malaysia, Pendaftar Syarikat atau Pendaftar Perniagaan, hendaklah berkuat kuasa seolah-olah Suruhanjaya menjadi pihak kepada perjanjian itu.
+(7) Pada dan selepas tarikh letak hak, mana-mana perjanjian berhubung dengan mana-mana harta, hak dan liabiliti yang berpindah kepada dan terletak hak pada Suruhanjaya di bawah subseksyen (1) yang Kerajaan Malaysia, Pendaftar Syarikat atau Pendaftar Perniagaan menjadi pihak kepadanya sebaik sebelum tarikh letak hak, sama ada bertulis atau tidak, dan sama ada atau tidak sedemikian jenisnya sehingga hak dan liabiliti di bawah perjanjian itu boleh diserahhakkan oleh Kerajaan Malaysia, Pendaftar Syarikat atau Pendaftar Perniagaan, hendaklah berkuat kuasa seolah-olah Suruhanjaya menjadi pihak kepada perjanjian itu.
 
 ### Menteri perbadanan
 
@@ -370,7 +354,9 @@ apabila perkara itu dibincangkan atau diputuskan.
 
 <!-- page 12 -->
 
-12 Rang Undang-Undang
+<!-- marginal: 12 -->
+
+Rang Undang-Undang
 
 (5) Bagi maksud seksyen ini—
 
@@ -398,7 +384,7 @@ apabila perkara itu dibincangkan atau diputuskan.
 
 (v) mana-mana perbadanan mengikut pengertian Akta Syarikat 1965, yang anggota itu atau mana-mana penamanya atau seseorang anggota keluarganya menjadi pengarahnya atau mempunyai kepentingan kawalan atau syer yang jumlah nilainya tidak kurang daripada tiga puluh peratus daripada jumlah modal diterbitkan perbadanan itu.
 
-### Minit
+<!-- marginal: Minit -->
 
 16. (1) Suruhanjaya dan tiap-tiap jawatankuasa hendaklah menyebabkan minit semua mesyuaratnya disenggarakan dan disimpan dalam bentuk yang sepatutnya.
 
@@ -538,9 +524,7 @@ IV
 
 (2) Sesuatu perintah, keputusan atau arahan yang dibuat atau diberikan oleh sesuatu pihak berkuasa tatatertib Suruhanjaya menurut seksyen ini hendaklah berkenaan pekerja sedemikian mempunyai kuat kuasa dan kesan yang sama dengan perintah, keputusan atau arahan yang dibuat atau diberikan oleh Pihak Berkuasa Tatatertib, Lembaga Tatatertib atau Lembaga Rayuan Tatatertib, mengikut mana-mana yang berkenaan, di bawah undang-undang yang disebut dalam subseksyen (1).
 
-(3) Menteri boleh melalui perintah membuat apa-apa ubahsuaian yang perlu kepada undang-undang yang disebut dalam subseksyen
-
-(1) dalam pemakaiannya kepada pekerja sedemikian "bagi maksud menghapuskan kesulitan yang berbangkit daripada peruntukan subseksyen itu.
+(3) Menteri boleh melalui perintah membuat apa-apa ubahsuaian yang perlu kepada undang-undang yang disebut dalam subseksyen (1) dalam pemakaiannya kepada pekerja sedemikian "bagi maksud menghapuskan kesulitan yang berbangkit daripada peruntukan subseksyen itu.
 
 <!-- page 19 -->
 
@@ -680,7 +664,7 @@ AM
 
 2. Akta Syarikat Amanah 1949 [Akta 100]
 
-[Akta 28]
+<!-- marginal: [Akta 28] -->
 
 3. Akta (Larangan) Kumpulan Wang Kutu 1971
 
@@ -698,9 +682,7 @@ AM
 
 3. Pengarah yang dilantik di bawah seksyen 11.
 
-4. Pendaftar Wilayah, Timbalan Pendaftar dan Penolong Pendaftar yang dilantik atau yang disifatkan dilantik di bawah seksyen 7 Akta Syarikat
-
-1965.
+4. Pendaftar Wilayah, Timbalan Pendaftar dan Penolong Pendaftar yang dilantik atau yang disifatkan dilantik di bawah seksyen 7 Akta Syarikat 1965.
 
 5. Inspektor, Timbalan Pendaftar dan Penolong Pendaftar yang dilantik atau yang disifatkan dilantik di bawah seksyen 3 Akta Pendaftaran Perniagaan 1956.
 
@@ -818,13 +800,29 @@ Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan
 
 ## THE COMMISSION
 
-3. Establishment of Commission 4. Vesting provisions 5. Common seal 6. Membership of Commission 7. Tenure of office 8. Revocation and resignation 9. Vacation of office 10. Remuneration or allowance 11. The Chief Executive Officer and Directors 12. Meetings 13. Commission may invite others to meetings 14. Power of Minister to give directions and require information 15. Disclosure of interest 16. Minutes
+3. Establishment of Commission 4. Vesting provisions 5. Common seal 6. Membership of Commission 7. Tenure of office 8. Revocation and resignation 9. Vacation of office
+
+10. Remuneration or allowance
+
+11. The Chief Executive Officer and Directors
+
+12. Meetings
+
+13. Commission may invite others to meetings
+
+14. Power of Minister to give directions and require information
+
+15. Disclosure of interest
+
+16. Minutes
 
 ## PART III
 
 ## FUNCTIONS AND POWERS OF COMMISSION
 
-17. Functions of Commission 18. Powers of Commission
+17. Functions of Commission
+
+18. Powers of Commission
 
 <!-- page 30 -->
 

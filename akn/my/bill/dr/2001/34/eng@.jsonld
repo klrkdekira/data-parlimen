@@ -921,7 +921,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/eng@/~part_II__cl_15__subsec_5",
       "schema:text": {
         "@language": "en",
-        "@value": "\"associate\", in relation to a member of the Corporation or a committee, means — Minutes"
+        "@value": "\"associate\", in relation to a member of the Corporation or a committee, means —"
       }
     },
     {
@@ -971,7 +971,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/34/eng@/~part_II__cl_15__subsec_5__para_b",
       "schema:text": {
         "@language": "en",
-        "@value": "any corporation, within the meaning of the Companies Act 1965 [Act 125], of which such member or any nominee of his or a member of his family is a director or has a controlling interest or shares to the total value of not less than thirty per cent of the total issued capital of the corporation."
+        "@value": "any corporation, within the meaning of the Companies Act 1965 [Act 125], of which such member or any nominee of his or a member of his family is a director or has a controlling interest or shares to the total value of not less than thirty per cent of the total issued capital of the corporation. Minutes"
       }
     },
     {

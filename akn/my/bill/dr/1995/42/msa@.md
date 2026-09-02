@@ -44,17 +44,27 @@ Universiti yang ditubuhkan di bawah Akta Universiti dan Kolej Universiti 1971.
 
 <!-- page 2 -->
 
-(4) Jika Menteri menggantung atau mengecualikan mana-mana peruntukan Akta ini berkenaan dengan mana- mana Universiti atau Kolej Universiti di bawah subseksyen (3), Menteri hendaklah mempunyai kuasa untuk membuat apa-apa ubahsuaian untuk melaksanakan peruntukan yang tidak tertakluk kepada penggantungan atau pengecualian itu.
+(4) Jika Menteri menggantung atau mengecualikan mana-mana peruntukan Akta ini berkenaan dengan mana- mana Universiti atau Kolej Universiti di bawah subseksyen
 
-Tafsiran.
+(3), Menteri hendaklah mempunyai kuasa untuk membuat apa-apa ubahsuaian untuk melaksanakan peruntukan yang tidak tertakluk kepada penggantungan atau pengecualian itu.
+
+<!-- marginal: Tafsiran. -->
 
 2. (1) Bagi maksud Akta ini, "tarikh yang ditetapkan" ertinya tarikh mula berkuatkuasanya Akta ini yang ditetapkan di bawah subseksyen 1(2),
 
 (2) Walau apa pun subseksyen (1), jika keseluruhan atau mana-mana peruntukan Akta ini digantung atau dikecualikan di bawah subseksyen 1(3), tarikh yang ditetapkan bagi peruntukan itu hendaklah tarikh mula berkuatkuasanya peruntukan itu sebagaimana yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Akta Universiti dan Kolej Universiti 1971, yang seksyen 2. disebut "Akta ibu" dalam Akta ini, adalah dipinda dalam Akta 30. seksyen 2—
+3. Akta Universiti dan Kolej Universiti 1971, yang
+
+<!-- marginal: seksyen 2. -->
+
+disebut "Akta ibu" dalam Akta ini, adalah dipinda dalam
+
+<!-- marginal: Akta 30. -->
+
+seksyen 2—
 
 (a) dengan menggantikan takrif "Canselor" dengan takrif yang berikut:
 
@@ -100,29 +110,47 @@ Universiti itu yang secara substansialnya adalah dalam bentuk yang dinyatakan da
 
 (j) dalam takrif "Senat", dengan menggantikan perkataan "jika kandungan ayatnya berkenaan" dengan perkataan "berhubungan".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Seksyen 3 Akta ibu adalah dipinda dengan seksyen 3. memasukkan selepas perkataan "ini" dan sebelum noktah perkataan "dan hendaklah melaksanakan apa-apa dasar, strategi dan garis panduan kebangsaan mengenai pendidikan tinggi yang dibentuk atau ditentukan oleh suatu pihak berkuasa yang ditubuhkan di bawah mana- mana undang-undang bertulis bagi maksud itu".
+4. Seksyen 3 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 3. -->
 
-5. Seksyen 5 Akta ibu adalah dipinda dengan seksyen 5. memasukkan selepas perkataan "ini", perkataan "atau mana-mana undang-undang bertulis
+memasukkan selepas perkataan "ini" dan sebelum noktah perkataan "dan hendaklah melaksanakan apa-apa dasar, strategi dan garis panduan kebangsaan mengenai pendidikan tinggi yang dibentuk atau ditentukan oleh suatu pihak berkuasa yang ditubuhkan di bawah mana- mana undang-undang bertulis bagi maksud itu".
 
-<!-- marginal: lain yang -->
+<!-- marginal: Pindaan -->
 
-mengawalselia penubuhannya".
+5. Seksyen 5 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 5. -->
 
-6. Subseksyen 5A(1) Akta ibu adalah dipinda dengan seksyen 5A. menggantikan perkataan "sesuatu" dengan perkataan "mana-mana institusi pelajaran tinggi swasta yang diberikan taraf Universiti atau Kolej Universiti di bawah mana-mana undang-undang bertulis, dan mana-mana".
+memasukkan selepas perkataan "ini", perkataan "atau mana-mana undang-undang bertulis lain yang mengawalselia penubuhannya".
 
-Pindaan am.
+<!-- marginal: Pindaan -->
+
+6. Subseksyen 5A(1) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 5A. -->
+
+menggantikan perkataan "sesuatu" dengan perkataan "mana-mana institusi pelajaran tinggi swasta yang diberikan taraf Universiti atau Kolej Universiti di bawah mana-mana undang-undang bertulis, dan mana-mana".
+
+<!-- marginal: Pindaan am. -->
 
 7. Akta ibu adalah dipinda dengan menggantikan perkataan "Majlis Universiti" di mana-mana jua terdapat dalamnya dengan perkataan "Lembaga".
 
-Perubahan
+<!-- marginal: Perubahan -->
 
-8. Segala sebutan mengenai Majlis Universiti dalam pihak berkuasa mana-mana undang-undang bertulis atau dalam apa-apa eksekutif Universiti. suratcara, suratikatan, hakmilik, suratan, bon, perjanjian dan perkiraan pengusahaan yang wujud sebelum sahaja tarikh yang ditetapkan hendaklah, pada tarikh yang ditetapkan, ditafsirkan sebagai sebutan mengenai Lembaga Pengarah Universiti.
+8. Segala sebutan mengenai Majlis Universiti dalam
+
+<!-- marginal: pihak berkuasa -->
+
+mana-mana undang-undang bertulis atau dalam apa-apa
+
+<!-- marginal: eksekutif -->
+
+<!-- marginal: Universiti. -->
+
+suratcara, suratikatan, hakmilik, suratan, bon, perjanjian dan perkiraan pengusahaan yang wujud sebelum sahaja tarikh yang ditetapkan hendaklah, pada tarikh yang ditetapkan, ditafsirkan sebagai sebutan mengenai Lembaga Pengarah Universiti.
 
 <!-- page 5 -->
 
@@ -232,23 +260,47 @@ menggantikan perkataan "Akta" yang terdapat selepas perkataan "Statut," dengan p
 
 <!-- page 6 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-16. Seksyen 15D Akta ibu adalah dipinda dengan seksyen 15D. memotong subseksyen (9).
+16. Seksyen 15D Akta ibu adalah dipinda dengan
 
-Seksyen 16A
+<!-- marginal: seksyen 15D. -->
 
-17. Akta ibu adalah dipinda dengan menggantikan baru. seksyen 16A dengan seksyen yang berikut:
+memotong subseksyen (9).
 
-"Tatatertib 6A. (1) Lembaga hendaklah mempunyai kuasa kakitangan, tatatertib ke atas tiap-tiap kakitangan, pegawai pegawai dan dan pekerja Universiti dan hendaklah pekerja menjalankan kawalan tatatertib berkenaan dengan Universiti. kesemua orang itu mengikut Akta ini dan apa-apa kaedah yang dibuat di bawah seksyen 16C.
+<!-- marginal: Seksyen 16A -->
+
+17. Akta ibu adalah dipinda dengan menggantikan
+
+<!-- marginal: baru. -->
+
+seksyen 16A dengan seksyen yang berikut:
+
+<!-- marginal: "Tatatertib -->
+
+6A. (1) Lembaga hendaklah mempunyai kuasa
+
+<!-- marginal: kakitangan, -->
+
+tatatertib ke atas tiap-tiap kakitangan, pegawai
+
+<!-- marginal: pegawai -->
+
+<!-- marginal: dan -->
+
+dan pekerja Universiti dan hendaklah
+
+<!-- marginal: pekerja -->
+
+menjalankan kawalan tatatertib berkenaan dengan
+
+<!-- marginal: Universiti. -->
+
+kesemua orang itu mengikut Akta ini dan apa-apa kaedah yang dibuat di bawah seksyen 16C.
 
 (2) Lembaga boleh, melalui pemberitahuan dalam Warta, menubuhkan jawatankuasa tatatertib yang berlainan bagi kategori yang berlainan kakitangan, pegawai dan pekerja.
 
-(3) Jawatankuasa tatatertib hendaklah menjalankan kuasanya dalam segala perkara berhubungan dengan tatatertib
-
-<!-- marginal: tiap-tiap -->
-
-kakitangan, pegawai dan pekerja yang diletakkan di bawah bidang kuasanya,
+(3) Jawatankuasa tatatertib hendaklah menjalankan kuasanya dalam segala perkara berhubungan dengan tatatertib tiap-tiap kakitangan, pegawai dan pekerja yang diletakkan di bawah bidang kuasanya,
 
 (4) Seseorang kakitangan, pegawai atau pekerja yang menjadi ahli sesuatu jawatankuasa tatatertib tidak boleh berpangkat lebih rendah daripada mana-mana kakitangan, pegawai atau pekerja yang ke atasnya jawatankuasa tatatertib itu mempunyai kuasa tatatertib.
 
@@ -278,9 +330,29 @@ kakitangan, pegawai dan pekerja yang diletakkan di bawah bidang kuasanya,
 
 ## RANG UNDANG-UNDANG
 
-Peruntukan
+<!-- marginal: Peruntukan -->
 
-18. (1) Jika pada tarikh yang ditetapkan, prosiding peralihan tatatertib sedang didengar di hadapan, atau telah didengar berhubungan dengan tetapi tiada lagi perintah atau keputusan dibuat atasnya perubahan oleh— pihak berkuasa tatatertib.
+18. (1) Jika pada tarikh yang ditetapkan, prosiding
+
+<!-- marginal: peralihan -->
+
+tatatertib sedang didengar di hadapan, atau telah didengar
+
+<!-- marginal: berhubungan -->
+
+<!-- marginal: dengan -->
+
+tetapi tiada lagi perintah atau keputusan dibuat atasnya
+
+<!-- marginal: perubahan -->
+
+oleh—
+
+<!-- marginal: pihak -->
+
+<!-- marginal: berkuasa -->
+
+<!-- marginal: tatatertib. -->
 
 (a) Jawatankuasa Tatatertib di bawah subseksyen 16A(2) Akta ibu; atau
 
@@ -334,9 +406,11 @@ keputusan—
 
 berkenaan dengan prosiding yang disebut dalam subseksyen (1), rayuan itu boleh dimulakan di bawah dan dengan mematuhi seksyen 16A sebagaimana yang dipinda dalam Akta ini.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-19. Seksyen 16B Akta ibu adalah dipinda— seksyen 16B.
+19. Seksyen 16B Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 16B. -->
 
 (a) dengan menggantikan subseksyen (1) dengan subseksyen yang berikut:
 
@@ -490,11 +564,7 @@ seksyen 16C seksyen yang berikut:
 
 (3) Jika penjelasan yang memuaskan hati tidak diterima dalam tempoh tiga puluh hari dari tarikh penyampaian notis di bawah subseksyen (2), Lembaga boleh—
 
-(a) dalam hal subseksyen (1)(a), (b) dan (c), mengsurcajkan terhadap orang
-
-<!-- marginal: itu -->
-
-sejumlah wang yang tidak melebihi amaun yang tidak dipungut, atau pembayaran tak sepatutnya yang dibuat, atau kekurangan nilai, atau pemusnahan yang disebabkan pada wang, setem, sekuriti, barang simpanan atau harta lain; dan
+(a) dalam hal subseksyen (1)(a), (b) dan (c), mengsurcajkan terhadap orang itu sejumlah wang yang tidak melebihi amaun yang tidak dipungut, atau pembayaran tak sepatutnya yang dibuat, atau kekurangan nilai, atau pemusnahan yang disebabkan pada wang, setem, sekuriti, barang simpanan atau harta lain; dan
 
 (b) dalam hal subseksyen (1)(d) dan (e), mengsurcajkan terhadap orang itu, sejumlah wang yang difikirkan patut oleh Lembaga.
 
@@ -526,17 +596,19 @@ hakikatnya memungut, menerima
 
 mengakaunkan, apa-apa wang Universiti, atau yang dipertanggungkan dengan kewajipan membayar, atau yang pada hakikatnya membayar, apa-apa wang itu, dan tiap-tiap kakitangan, pegawai atau pekerja yang dipertanggungkan untuk menerima, menjaga atau melupuskan, atau mengakaunkan, apa-apa wang, setem, sekuriti, barang simpanan dan harta Universiti atau yang pada hakikatnya menerima, memegang atau melupuskan wang, setem, sekuriti, barang simpanan dan harta itu."
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-23. Seksyen 19 Akta ibu adalah dipinda dengan seksyen 19. memasukkan selepas perkataan "ini", perkataan "atau mana-mana undang-undang bertulis
+23. Seksyen 19 Akta ibu adalah dipinda dengan
 
-<!-- marginal: lain yang -->
+<!-- marginal: seksyen 19. -->
 
-mengawalselia penubuhannya".
+memasukkan selepas perkataan "ini", perkataan "atau mana-mana undang-undang bertulis lain yang mengawalselia penubuhannya".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-24. Seksyen 22 Akta ibu adalah dipinda — seksyen 22.
+24. Seksyen 22 Akta ibu adalah dipinda —
+
+<!-- marginal: seksyen 22. -->
 
 (a) dengan memasukkan selepas perkataan "16C", perkataan ",16D";
 
@@ -550,13 +622,13 @@ Pindaan
 
 (ii) dengan memasukkan selepas perkataan "Naib Canselor" perkataan 'dan "Timbalan Naib Canselor" ' .
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-25. Subseksyen 23(1) Akta ibu adalah dipinda dengan seksyen 23. memasukkan selepas perkataan "ini", perkataan "atau mana-mana undang-undang bertulis
+25. Subseksyen 23(1) Akta ibu adalah dipinda dengan
 
-<!-- marginal: lain yang -->
+<!-- marginal: seksyen 23. -->
 
-mengawalselia penubuhannya".
+memasukkan selepas perkataan "ini", perkataan "atau mana-mana undang-undang bertulis lain yang mengawalselia penubuhannya".
 
 <!-- page 17 -->
 
@@ -590,9 +662,27 @@ Akta 24B. Akta Perlindungan Pihak Berkuasa Awam Perlindungan 1948 hendaklah terp
 
 ## RANG UNDANG-UNDANG
 
-18
+<!-- marginal: 18 -->
 
-Perbuatan 24C. Tiada tindakan atau guaman boleh atau dimulakan atau dikekalkan di dalam mana-mana peninggalan yang mahkamah terhadap— dilakukan dengan suci hati.
+<!-- marginal: Perbuatan -->
+
+24C. Tiada tindakan atau guaman boleh
+
+<!-- marginal: atau -->
+
+dimulakan atau dikekalkan di dalam mana-mana
+
+<!-- marginal: peninggalan -->
+
+<!-- marginal: yang -->
+
+mahkamah terhadap—
+
+<!-- marginal: dilakukan -->
+
+<!-- marginal: dengan suci -->
+
+<!-- marginal: hati. -->
 
 (a) Lembaga;
 
@@ -612,11 +702,17 @@ Perbuatan 24C. Tiada tindakan atau guaman boleh atau dimulakan atau dikekalkan d
 
 bagi apa-apa perbuatan atau peninggalan yang dilakukan dengan suci hati pada menunaikan kuasa dan kewajipannya di bawah Akta ini dengan kepercayaan munasabah bahawa tindakan itu adalah perlu bagi maksud yang diniatkan untuk dicapai melaluinya.
 
-Pengkhidmat 24D. Semua ahli Lembaga dan Senat, Naib awam. Canselor, Timbalan Naib Canselor, kakitangan, pegawai-pegawai dan pekerja-pekerja Universiti semasa menunaikan fungsi mereka sebagai ahli, Naib Canselor, Timbalan Naib Canselor, kakitangan, pegawai-pegawai dan pekerja- pekerja, hendaklah disifatkan
+<!-- marginal: Pengkhidmat -->
 
-<!-- marginal: sebagai -->
+24D. Semua ahli Lembaga dan Senat, Naib
 
-N.M.B. pengkhidmat awam mengikut pengertian Kanun
+<!-- marginal: awam. -->
+
+Canselor, Timbalan Naib Canselor, kakitangan, pegawai-pegawai dan pekerja-pekerja Universiti semasa menunaikan fungsi mereka sebagai ahli, Naib Canselor, Timbalan Naib Canselor, kakitangan, pegawai-pegawai dan pekerja- pekerja, hendaklah disifatkan sebagai
+
+<!-- marginal: N.M.B. -->
+
+pengkhidmat awam mengikut pengertian Kanun
 
 ## Bab 45.
 
@@ -696,29 +792,27 @@ Keseksaan."
 
 (k), perenggan yang berikut:
 
-"(ka) memberikan pinjaman
+"(ka) memberikan pinjaman atau pendahuluan kepada kakitangan, pegawai dan pekerjanya;
 
-<!-- marginal: atau -->
-
-pendahuluan kepada kakitangan, pegawai dan pekerjanya;
-
-(kb) memberikan pinjaman
-
-<!-- marginal: atau -->
-
-bantuan kewangan kepada pelajar yang patut menerimanya atas apa- apa terma dan syarat yang diluluskan oleh Menteri;
+(kb) memberikan pinjaman atau bantuan kewangan kepada pelajar yang patut menerimanya atas apa- apa terma dan syarat yang diluluskan oleh Menteri;
 
 (kc) menjalankan penyelidikan dan pengeluaran komersil bagi pemajuan dan penggunaan yang efektif akan hasil penye- lidikannya;";
 
-(g) dengan memasukkan selepas seksyen 4, seksyen yang berikut:
+(g) dengan memasukkan selepas seksyen 4, seksyen
 
-"Kuasa 4A. (1) Lembaga boleh, dengan tambahan kelulusan Menteri Kewangan— Universiti.
+<!-- marginal: yang berikut: -->
 
-(a) jika didapati perlu, berfaedah atau sesuai bagi atau berkaitan dengan penunaian fungsi, penjalanan kuasa
+<!-- marginal: "Kuasa -->
 
-<!-- marginal: dan -->
+4A. (1) Lembaga boleh, dengan
 
-pelaksanaan aktiviti Universiti, menyertai penyertaan ekuiti, perkongsian, usahasama, pengusahaan atau apa-apa bentuk kerjasama atau perkiraan yang lain bersama-sama dengan, atau selainnya—
+<!-- marginal: tambahan -->
+
+kelulusan Menteri Kewangan—
+
+<!-- marginal: Universiti. -->
+
+(a) jika didapati perlu, berfaedah atau sesuai bagi atau berkaitan dengan penunaian fungsi, penjalanan kuasa dan pelaksanaan aktiviti Universiti, menyertai penyertaan ekuiti, perkongsian, usahasama, pengusahaan atau apa-apa bentuk kerjasama atau perkiraan yang lain bersama-sama dengan, atau selainnya—
 
 (i) sesuatu enterprais, syarikat, pengusahaan swasta atau sindiket orang yang ditubuhkan bagi menjalankan perniagaan di Malaysia atau di tempat lain;
 
@@ -728,37 +822,21 @@ pelaksanaan aktiviti Universiti, menyertai penyertaan ekuiti, perkongsian, usaha
 
 (ii) Kerajaan Persekutuan atau Kerajaan Negeri;
 
-(iii) badan atau
-
-<!-- marginal: pihak -->
-
-berkuasa awam;
+(iii) badan atau pihak berkuasa awam;
 
 (iv) suruhanjaya; atau
 
 (v) seseorang;
 
-(b) menubuhkan atau meng- ganjurkan penubuhan syarikat Akta 125. di bawah Akta Syarikat 1965 untuk menjalankan
+(b) menubuhkan atau meng- ganjurkan penubuhan syarikat
 
-<!-- marginal: atau -->
+<!-- marginal: Akta 125. -->
 
-melibatkan diri dalam apa-apa aktiviti yang telah
+di bawah Akta Syarikat 1965 untuk menjalankan atau melibatkan diri dalam apa-apa aktiviti yang telah di- rancangkan atau diusahakan oleh Universiti;
 
-<!-- marginal: di- -->
+(c) menubuhkan perbadanan untuk menjalankan dan ber- tanggunjawab bagi mengen- dalikan dan menguruskan apa- apa harta, projek, skim atau perusahaan yang pada pendapat Lembaga bermanfaat dan berfaedah kepada Universiti;
 
-rancangkan atau diusahakan oleh Universiti;
-
-(c) menubuhkan perbadanan untuk menjalankan dan
-
-<!-- marginal: ber- -->
-
-tanggunjawab bagi mengen- dalikan dan menguruskan apa- apa harta, projek, skim atau perusahaan yang pada pendapat Lembaga bermanfaat dan berfaedah kepada Universiti;
-
-(d) meminjam atas apa-apa kadar bunga dan bagi apa-apa tempoh dan atas apa-apa terma yang diluluskan oleh Lembaga, apa- apa jumlah wang
-
-<!-- marginal: yang -->
-
-diperlukan oleh Universiti bagi menjelaskan tanggungannya atau bagi menunaikan mana- mana kewajipannya;
+(d) meminjam atas apa-apa kadar bunga dan bagi apa-apa tempoh dan atas apa-apa terma yang diluluskan oleh Lembaga, apa- apa jumlah wang yang diperlukan oleh Universiti bagi menjelaskan tanggungannya atau bagi menunaikan mana- mana kewajipannya;
 
 (e) mendapatkan pinjaman di bawah perenggan (d) melalui penerbitan bon, debentur atau saham debentur dalam apa-apa kelas dan nilai atau untuk menggadaikan, menggadai- janjikan, menyandarkan atau
 
@@ -782,19 +860,27 @@ selainnya mengadakan lien ke atas harta alih atau tak alihnya, alas apa-apa term
 
 memindahmilikkan, menukar- kan atau selainnya melupuskan syer, saham, debentur, saham debentur, bon, tanggungan atau sekuriti itu; dan
 
-(i) membeli, menyewa
+(i) membeli, menyewa atau menyewaguna atau selainnya memperolehi dan melabur dalam apa-apa harta tanah dan harta diri yang difikirkan perlu atau sesuai bagi mana-mana maksud Universiti.
 
-<!-- marginal: atau -->
+(2) Peruntukan 4B hendaklah terpakai bagi perbadanan yang ditubuhkan di bawah subseksyen
 
-menyewaguna atau selainnya memperolehi dan melabur dalam apa-apa harta tanah dan harta diri yang difikirkan perlu atau sesuai bagi mana-mana maksud Universiti.
+(1)(b).
 
-(2) Peruntukan
+<!-- marginal: Peruntukan -->
 
-<!-- marginal: 4B -->
+4B. (1) Lembaga hendaklah, pada atau
 
-hendaklah terpakai bagi perbadanan yang ditubuhkan di bawah subseksyen (1)(b).
+<!-- marginal: berhubungan -->
 
-Peruntukan 4B. (1) Lembaga hendaklah, pada atau berhubungan sebelum tarikh yang padanya mana- dengan mana perbadanan ditubuhkan di bawah perbadanan. seksyen 4A(l)(c), menetapkan melalui peraturan -peraturan—
+sebelum tarikh yang padanya mana-
+
+<!-- marginal: dengan -->
+
+mana perbadanan ditubuhkan di bawah
+
+<!-- marginal: perbadanan. -->
+
+seksyen 4A(l)(c), menetapkan melalui peraturan -peraturan—
 
 (a) maksud dan tujuan yang baginya perbadanan itu ditubuhkan;
 
@@ -810,7 +896,9 @@ Peruntukan 4B. (1) Lembaga hendaklah, pada atau berhubungan sebelum tarikh yang 
 
 ## (PINDAAN)
 
-(3) Lembaga boleh pada bila-bila masa meminda, membatalkan, atau menambah kepada, apa-apa peraturan yang dibuat berkenaan dengan mana- mana perbadanan di bawah subseksyen (1).
+(3) Lembaga boleh pada bila-bila masa meminda, membatalkan, atau menambah kepada, apa-apa peraturan yang dibuat berkenaan dengan mana- mana perbadanan di bawah subseksyen
+
+(1).
 
 (4) Lembaga boleh, dengan kelulusan Menteri, selepas berunding dengan Menteri Kewangan, mengarahkan mana-mana perbadanan yang ditubuhkan olehnya digulung dan di-bubarkan.
 
@@ -858,13 +946,39 @@ tertakluk kepada apa-apa sekatan atau batasan yang dinyatakan oleh Lembaga dalam
 
 (15) Meterai tiap-tiap perbadanan hendaklah diberikan pengiktirafan rasmi dan kehakiman.
 
-Penjalanan 4C. Universiti boleh, dengan kelulusan pengajian, Menteri, menjalankan apa-apa kursus dsb. bersama- pengajian atau program ]atihan sama, dsb dengan bersesama atau bersama-sama dengan, mana-mana secara bergabung, secara usahasama Universiti atau selainnya, dengan mana-mana Universiti atau yayasan pelajaran tinggi atau yayasan pelajaran atau organisasi lain di dalam atau di luar Malaysia.";
+<!-- marginal: Penjalanan -->
+
+4C. Universiti boleh, dengan kelulusan
+
+<!-- marginal: pengajian, -->
+
+Menteri, menjalankan apa-apa kursus
+
+<!-- marginal: dsb. bersama- -->
+
+pengajian atau program ]atihan
+
+<!-- marginal: sama, dsb -->
+
+<!-- marginal: dengan -->
+
+bersesama atau bersama-sama dengan,
+
+<!-- marginal: mana-mana -->
+
+secara bergabung, secara usahasama
+
+<!-- marginal: Universiti -->
+
+atau selainnya, dengan mana-mana Universiti atau yayasan pelajaran tinggi atau yayasan pelajaran atau organisasi lain di dalam atau di luar Malaysia.";
 
 <!-- page 28 -->
 
 (h) dalam seksyen 6—
 
-(i) dengan memasukkan selepas subseksyen (3), subseksyen yang berikut:
+(i) dengan memasukkan selepas subseksyen
+
+(3), subseksyen yang berikut:
 
 "(3A) Jika suratcara atau suratan yang disebut dalam subseksyen (3) ialah suatu ijazah, skrol diploma, sijil atau lain- lain kepujian akademik, meterai Universiti hendaklah dicapkan padanya di hadapan Naib Canselor dan seorang pegawai kanan yang diberikuasa oleh Naib Canselor."; dan
 
@@ -876,11 +990,7 @@ Penjalanan 4C. Universiti boleh, dengan kelulusan pengajian, Menteri, menjalanka
 
 "(1) Maka hendaklah ada seorang Canselor yang hendaklah menjadi Ketua Universiti dan apabila hadir hendaklah mempengerusikan mana-mana Konvokesyen dan hendaklah mempunyai apa-apa kuasa lain dan melaksanakan apa-apa kewajipan lain yang diberikan atau dikenakan ke atasnya oleh Perlembagaan ini atau mana-mana Statut, Kaedah atau Peraturan."; dan
 
-(ii) dalam subseksyen (2),
-
-<!-- marginal: dengan -->
-
-memasukkan selepas perkataan "Agong" dan sebelum perkataan "selama", perkataan ", atas nasihat Menteri,";
+(ii) dalam subseksyen (2), dengan memasukkan selepas perkataan "Agong" dan sebelum perkataan "selama", perkataan ", atas nasihat Menteri,";
 
 (j) dalam subseksyen 8(1), dengan memasukkan selepas perkataan "melantik", perkataan , "atas nasihat Menteri,";
 
@@ -918,13 +1028,21 @@ memasukkan selepas perkataan "Agong" dan sebelum perkataan "selama", perkataan "
 
 <!-- page 30 -->
 
-(ii) dengan memasukkan selepas subseksyen (2), subseksyen yang berikut:
+(ii) dengan memasukkan selepas subseksyen
+
+(2), subseksyen yang berikut:
 
 "(3) Peruntukan Jadual Kedua hendaklah terpakai bagi ahli Pihak Berkuasa yang bukan ex-officio";
 
 (n) dengan menggantikan seksyen 13, 14 dan 15 dengan seksyen yang berikut:
 
-"Lembaga 13. Lembaga Pengarah hendaklah Pengarah. terdiri daripada—
+<!-- marginal: "Lembaga -->
+
+13. Lembaga Pengarah hendaklah
+
+<!-- marginal: Pengarah. -->
+
+terdiri daripada—
 
 (a) Pengerusi;
 
@@ -936,7 +1054,19 @@ memasukkan selepas perkataan "Agong" dan sebelum perkataan "selama", perkataan "
 
 (e) tidak lebih daripada tiga orang yang kerana pengetahuan atau pengalaman mereka boleh, pada pendapat Menteri, membantu Lembaga, sekurang-kurangnya seorang daripada mereka daripada sektor swasta.
 
-Peruntukan 14. (1) Perlantikan ahli Lembaga, berhubungan kecuali Naib Canselor, hendaklah dengan Lembaga. dibuat oleh Menteri bagi tempoh tiga tahun dan apabila habis tempoh itu ahli Lembaga itu adalah layak dilantik semula.
+<!-- marginal: Peruntukan -->
+
+14. (1) Perlantikan ahli Lembaga,
+
+<!-- marginal: berhubungan -->
+
+kecuali Naib Canselor, hendaklah
+
+<!-- marginal: dengan -->
+
+<!-- marginal: Lembaga. -->
+
+dibuat oleh Menteri bagi tempoh tiga tahun dan apabila habis tempoh itu ahli Lembaga itu adalah layak dilantik semula.
 
 (2) Setiausaha Lembaga, yang boleh jadi seorang ahli Lembaga atau bukan ahli Lembaga, hendaklah dilantik oleh Pengerusi.
 
@@ -944,7 +1074,7 @@ Peruntukan 14. (1) Perlantikan ahli Lembaga, berhubungan kecuali Naib Canselor, 
 
 ## UNIVERSITI DAN KOLEJ UNIVERSITI
 
-<!-- marginal: 31 -->
+31
 
 ## (PINDAAN)
 
@@ -954,7 +1084,21 @@ Peruntukan 14. (1) Perlantikan ahli Lembaga, berhubungan kecuali Naib Canselor, 
 
 (5) Tertakluk kepada Perlembagaan ini, Lembaga boleh menentukan prosedurnya sendiri.
 
-Penjalanan 15. (1) Menteri boleh melantik mana- sementara mana ahli Lembaga untuk menjalankan fungsi fungsi Pengerusi semasa apa-apa Pengerusi tempoh yang Pengerusi kerana apa- apa sebab tidak dapat menjalankan fungsinya atau semasa apa-apa tempoh kekosongan dalam jawatan Pengerusi.
+<!-- marginal: Penjalanan -->
+
+15. (1) Menteri boleh melantik mana-
+
+<!-- marginal: sementara -->
+
+mana ahli Lembaga untuk menjalankan
+
+<!-- marginal: fungsi -->
+
+fungsi Pengerusi semasa apa-apa
+
+<!-- marginal: Pengerusi -->
+
+tempoh yang Pengerusi kerana apa- apa sebab tidak dapat menjalankan fungsinya atau semasa apa-apa tempoh kekosongan dalam jawatan Pengerusi.
 
 (2) Seseorang ahli yang dilantik sebagai Pengerusi di bawah subseksyen (1) hendaklah, semasa tempoh dia menjalankan fungsi Pengerusi, di bawah seksyen ini, disifatkan sebagai Pengerusi.";
 
@@ -982,7 +1126,9 @@ Penjalanan 15. (1) Menteri boleh melantik mana- sementara mana ahli Lembaga untu
 
 (d) tidak lebih daripada dua puluh professor yang hendaklah ditentukan oleh Naib Canselor";
 
-(ii) dengan memasukkan selepas subseksyen (1) subseksyen yang berikut:
+(ii) dengan memasukkan selepas subseksyen
+
+(1) subseksyen yang berikut:
 
 "(1A) Naib Canselor boleh dari semasa ke semasa mengko-opt mana- mana orang lain menjadi ahli Senat atau menghadiri mesyuarat Senat.
 
@@ -1010,7 +1156,9 @@ Penjalanan 15. (1) Menteri boleh melantik mana- sementara mana ahli Lembaga untu
 
 (bb) dengan memasukkan selepas perkataan "Sekolah", perkataan ", Pusat, Akademi dan Institut";
 
-(iii) dengan memasukkan selepas subseksyen (1), subseksyen yang berikut;
+(iii) dengan memasukkan selepas subseksyen
+
+(1), subseksyen yang berikut;
 
 "(lA) Universiti boleh, selepas berunding dengan Jawatankuasa Pengajian, menubuhkan jabatan atau unit atau badan lain berkenaan dengan suatu Fakulti, Sekolah, Pusat, Akademi dan Institut.";
 
@@ -1040,7 +1188,13 @@ Penjalanan 15. (1) Menteri boleh melantik mana- sementara mana ahli Lembaga untu
 
 (r) dengan menggantikan seksyen 19 dengan seksyen yang berikut:
 
-"Jawatankuasa 19. Suatu Jawatankuasa Pengajian Pengajian. boleh dilantik oleh Senat bagi mana- mana maksud yang berikut:
+<!-- marginal: "Jawatankuasa -->
+
+19. Suatu Jawatankuasa Pengajian
+
+<!-- marginal: Pengajian. -->
+
+boleh dilantik oleh Senat bagi mana- mana maksud yang berikut:
 
 (a) untuk menguruskan perkara mengenai mana-mana Fakulti, Sekolah, Pusat, Akademi dan Institut; dan
 
@@ -1052,7 +1206,7 @@ dan dalam mana-mana satu hal, Jawatankuasa Pengajian hendaklah membuat laporan m
 
 ## UNIVERSITI DAN KOLEJ UNIVERSITI
 
-<!-- marginal: 35 -->
+35
 
 ## (PINDAAN)
 
@@ -1082,15 +1236,11 @@ dan dalam mana-mana satu hal, Jawatankuasa Pengajian hendaklah membuat laporan m
 
 <!-- page 36 -->
 
-36
+<!-- marginal: 36 -->
 
 ## RANG UNDANG-UNDANG
 
-(ii) dalam subseksyen (1),
-
-<!-- marginal: dengan -->
-
-menggantikan perkataan "Senat" dengan perkataan "Lembaga";
+(ii) dalam subseksyen (1), dengan menggantikan perkataan "Senat" dengan perkataan "Lembaga";
 
 (u) dalam seksyen 22, dengan memasukkan selepas perkataan "Siswazah" di mana-mana jua terdapat dalamnya termasuk dalam nota birai, perkataan "atau Alumni Universiti";
 
@@ -1158,7 +1308,15 @@ menggantikan perkataan "Senat" dengan perkataan "Lembaga";
 
 (B) dalam subseksyen 39(1), dengan memasukkan selepas perkataan "berwasiat" perkataan ",subsidi, legasi";
 
-(C) dengan menggantikan seksyen 41 dengan seksyen yang berikut: "Bentuk 41. Apa-apa kontrak yang melibatkan kontrak. perbelanjaan Universiti hendaklah dibuat secara bertulis, ditandatangani bagi pihak Universiti oleh mana-mana kakitangan, pegawai atau pekerja Universiti yang diberikuasa sewajarnya oleh Lembaga, sama ada secara khusus dalam apa-apa hal tertentu atau secara am bagi semua kontrak di bawah suatu harga tertentu atau selainnya sebagaimana yang ditetapkan dalam pemberikuasaan itu.";
+(C) dengan menggantikan seksyen 41 dengan seksyen yang berikut:
+
+<!-- marginal: "Bentuk -->
+
+41. Apa-apa kontrak yang melibatkan
+
+<!-- marginal: kontrak. -->
+
+perbelanjaan Universiti hendaklah dibuat secara bertulis, ditandatangani bagi pihak Universiti oleh mana-mana kakitangan, pegawai atau pekerja Universiti yang diberikuasa sewajarnya oleh Lembaga, sama ada secara khusus dalam apa-apa hal tertentu atau secara am bagi semua kontrak di bawah suatu harga tertentu atau selainnya sebagaimana yang ditetapkan dalam pemberikuasaan itu.";
 
 <!-- page 39 -->
 
@@ -1180,35 +1338,43 @@ menggantikan perkataan "Senat" dengan perkataan "Lembaga";
 
 (i) dengan menggantikan perenggan (2)(a) dengan perenggan yang berikut:
 
-"(a) pelajar berdaftar setiap Fakulti, Sekolah, Pusat, Akademi dan Institut hendaklah memilih melalui undi rahsia yang dijalankan oleh Dekan Fakulti atau Ketua Sekolah, Pusat, Akademi atau Institut, mengikut mana-mana
-
-<!-- marginal: yang -->
-
-berkenaan, sebilangan pelajar berdaftar yang sama bilangannya daripada Fakulti, Sekolah, Pusat, Akademi dan Institut itu untuk menjadi wakil dalam MPP sebagaimana yang ditentukan oleh Naib Canselor; dan";
+"(a) pelajar berdaftar setiap Fakulti, Sekolah, Pusat, Akademi dan Institut hendaklah memilih melalui undi rahsia yang dijalankan oleh Dekan Fakulti atau Ketua Sekolah, Pusat, Akademi atau Institut, mengikut mana-mana yang berkenaan, sebilangan pelajar berdaftar yang sama bilangannya daripada Fakulti, Sekolah, Pusat, Akademi dan Institut itu untuk menjadi wakil dalam MPP sebagaimana yang ditentukan oleh Naib Canselor; dan";
 
 (ii) dalam perenggan (2)(b), dengan menggantikan perkataan "Pendaftar Universiti" dengan perkataan "mana-mana pegawai yang dilantik oleh Naib Canselor bagi maksud itu,"; dan
 
 <!-- page 40 -->
 
-(iii) dalam teks bahasa Inggeris, dalam subseksyen (6), dengan memasukkan selepas perkataan "Vice-Chancellor,", perkataan "appoint"; (7) dalam teks bahasa Inggeris, dalam subseksyen 52(3), dengan menggantikan perkataan "Authority" dengan perkataan "authority";
+(iii) dalam teks bahasa Inggeris, dalam subseksyen (6), dengan memasukkan selepas perkataan "Vice-Chancellor,", perkataan "appoint";
+
+(7) dalam teks bahasa Inggeris, dalam subseksyen 52(3), dengan menggantikan perkataan "Authority" dengan perkataan "authority";
 
 (J) dalam seksyen 53— (i) dengan memasukkan selepas perkataan "menerima", perkataan "ijazah,"; (ii) dengan memasukkan selepas perkataan "diploma", perkataan ", sijil"; dan (iii) dengan memasukkan selepas subseksyen (1), subseksyen yang berikut:
 
-"(2) Perbuatan skandal dalam subseksyen (1) termasuklah dengan sengaja memberikan mana-mana kakitangan, pegawai, pekerja atau Pihak Berkuasa Universiti apa-apa maklumat atau suratan yang palsu
-
-<!-- marginal: atau -->
-
-mengelirukan dalam apa-apa butir material untuk mendapatkan ijazah, diploma, sijil atau lain-lain kepujian akademik daripada Universiti itu."; dan
+"(2) Perbuatan skandal dalam subseksyen (1) termasuklah dengan sengaja memberikan mana-mana kakitangan, pegawai, pekerja atau Pihak Berkuasa Universiti apa-apa maklumat atau suratan yang palsu atau mengelirukan dalam apa-apa butir material untuk mendapatkan ijazah, diploma, sijil atau lain-lain kepujian akademik daripada Universiti itu."; dan
 
 (K) dalam seksyen 54, dengan menggantikan perkataan "Canselor" dengan perkataan "Menteri".
 
 ## Jadual
 
-30. Akta ibu adalah dipinda dengan memasukkan selepas baru Jadual Pertama, Jadual yang berikut: Kedua.
+30. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru -->
+
+Jadual Pertama, Jadual yang berikut:
+
+<!-- marginal: Kedua. -->
 
 ## " JADUAL KEDUA
 
-(Seksyen 12(3) Perlembagaan) Hilang 1. Orang yang berikut hilang kelayakan untuk kelayakan. dilantik sebagai atau untuk menjadi ahli sesuatu Pihak Berkuasa Universiti:
+(Seksyen 12(3) Perlembagaan)
+
+<!-- marginal: Hilang -->
+
+1. Orang yang berikut hilang kelayakan untuk
+
+<!-- marginal: kelayakan. -->
+
+dilantik sebagai atau untuk menjadi ahli sesuatu Pihak Berkuasa Universiti:
 
 (a) jika telah dibuktikan terhadapnya, atau dia telah disabitkan atas, suatu pertuduhan berkenaan dengan— (i) kesalahan yang melibatkan fraud, kecurangan atau keburukan akhlak;
 
@@ -1222,19 +1388,65 @@ mengelirukan dalam apa-apa butir material untuk mendapatkan ijazah, diploma, sij
 
 (c) jika dia didapati atau ditetapkan tak sempurna akal atau selainnya tak berupaya untuk menguruskan hal-ehwalnya.
 
-Terhenti 2. Seseorang ahli Pihak Berkuasa hendaklah menjadi terhenti menjadi ahli— ahli.
+<!-- marginal: Terhenti -->
+
+2. Seseorang ahli Pihak Berkuasa hendaklah
+
+<!-- marginal: menjadi -->
+
+terhenti menjadi ahli—
+
+<!-- marginal: ahli. -->
 
 (a) jika dia tidak menghadiri mesyuarat Pihak Berkuasa tiga kali berturut-turut tanpa kebenaran pegerusi Pihak Berkuasa itu; atau
 
 (b) jika perlantikannya dibatalkan,
 
-Perletakan 3. Seseorang ahli Pihak Berkuasa boleh jawatan. meletakkan jawatan dengan memberi satu bulan notis secara bertulis kepada pengerusi Pihak Berkuasa.
+<!-- marginal: Perletakan -->
 
-Pengisian 4. Jika mana-mana orang terhenti menjadi ahli kekosongan. Pihak Berkuasa oleh sebab peruntukan Akta ini, seseorang lain boleh dilantik untuk mengisi kekosongan itu bagi tempoh selebihnya yang ahli itu dilantik.
+3. Seseorang ahli Pihak Berkuasa boleh
 
-Elaun. 5. Ahli-ahli Pihak Berkuasa hendaklah dibayar elaun sebagaimana yang ditentukan oleh Menteri.
+<!-- marginal: jawatan. -->
 
-Pihak 6. (1) Pihak Berkuasa boleh mengundang Berkuasa mana-mana orang menghadiri mesyuarat atau boleh pertimbangtelitian Pihak Berkuasa bagi maksud mengundang orang lain menasihatinya tentang apa-apa perkara yang menghadiri dibincangkan tetapi orang itu tidaklah berhak mesyuarat. mengundi pada mesyuarat atau pertimbangtelitian itu.
+meletakkan jawatan dengan memberi satu bulan notis secara bertulis kepada pengerusi Pihak Berkuasa.
+
+<!-- marginal: Pengisian -->
+
+4. Jika mana-mana orang terhenti menjadi ahli
+
+<!-- marginal: kekosongan. -->
+
+Pihak Berkuasa oleh sebab peruntukan Akta ini, seseorang lain boleh dilantik untuk mengisi kekosongan itu bagi tempoh selebihnya yang ahli itu dilantik.
+
+<!-- marginal: Elaun. -->
+
+5. Ahli-ahli Pihak Berkuasa hendaklah dibayar elaun sebagaimana yang ditentukan oleh Menteri.
+
+<!-- marginal: Pihak -->
+
+6. (1) Pihak Berkuasa boleh mengundang
+
+<!-- marginal: Berkuasa -->
+
+mana-mana orang menghadiri mesyuarat atau
+
+<!-- marginal: boleh -->
+
+pertimbangtelitian Pihak Berkuasa bagi maksud
+
+<!-- marginal: mengundang -->
+
+<!-- marginal: orang lain -->
+
+menasihatinya tentang apa-apa perkara yang
+
+<!-- marginal: menghadiri -->
+
+dibincangkan tetapi orang itu tidaklah berhak
+
+<!-- marginal: mesyuarat. -->
+
+mengundi pada mesyuarat atau pertimbangtelitian itu.
 
 <!-- page 42 -->
 
@@ -1242,13 +1454,21 @@ Pihak 6. (1) Pihak Berkuasa boleh mengundang Berkuasa mana-mana orang menghadiri
 
 (2) Seseorang yang diundang di bawah subperenggan (1) hendaklah dibayar apa-apa elaun yang ditentukan oleh Pihak Berkuasa.
 
-Minit. 7. (1) Pihak Berkuasa hendaklah menyebabkan minit segala mesyuaratnya disenggarakan dan disimpan dalam bentuk yang sepatutnya.
+<!-- marginal: Minit. -->
+
+7. (1) Pihak Berkuasa hendaklah menyebabkan minit segala mesyuaratnya disenggarakan dan disimpan dalam bentuk yang sepatutnya.
 
 (2) Minit yang dibuat mengenai mesyuarat Pihak Berkuasa hendaklah, jika ditandatangani dengan sewajarnya, diterima sebagai keterangan dalam segala prosiding undang-undang tanpa bukti selanjutnya.
 
 (3) Tiap-tiap mesyuarat Pihak Berkuasa berkenaan dengan prosiding yang mengenainya minit telah dibuat sedemikian hendaklah disifatkan telah dipanggil dan diadakan dengan sewajarnya dan semua ahli pada mesyuarat itu layak dengan sewajarnya untuk bertindak.
 
-Pendedahan 8. (1) Seseorang ahli Pihak Berkuasa yang, kepentingan. secara langsung atau secara tak langsung, mempunyai sendiri atau melalui pekongsinya—
+<!-- marginal: Pendedahan -->
+
+8. (1) Seseorang ahli Pihak Berkuasa yang,
+
+<!-- marginal: kepentingan. -->
+
+secara langsung atau secara tak langsung, mempunyai sendiri atau melalui pekongsinya—
 
 (a) sesuatu kepentingan dalam syarikat atau pengusahaan yang dengannya Pihak Berkuasa itu bercadang hendak membuat sesuatu kontrak; atau
 
@@ -1256,11 +1476,7 @@ Pendedahan 8. (1) Seseorang ahli Pihak Berkuasa yang, kepentingan. secara langsu
 
 hendaklah mendedahkan hakikat dan jenis kepentingannya itu kepada Pihak Berkuasa.
 
-(2) Sesuatu pendedahan di
-
-<!-- marginal: bawah -->
-
-subperenggan (1) hendaklah direkodkan dalam minit Pihak Berkuasa dan, melainkan jika dibenarkan secara khusus oleh pengerusi, ahli
+(2) Sesuatu pendedahan di bawah subperenggan (1) hendaklah direkodkan dalam minit Pihak Berkuasa dan, melainkan jika dibenarkan secara khusus oleh pengerusi, ahli
 
 <!-- page 43 -->
 

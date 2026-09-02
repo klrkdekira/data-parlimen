@@ -40,33 +40,27 @@ perenggan (b) perenggan baru (c) yang berikut;
 
 "(c) jika pada bila-bila masa namanya telah dipotong dari Daftar.";
 
-(b) dengan memasukkan selepas sahaja subseksyen (13) subseksyen baru (13A) yang berikut:
+(b) dengan memasukkan selepas sahaja subseksyen
 
-"(13A) Seseorang pengamal
+(13) subseksyen baru (13A) yang berikut:
 
-<!-- marginal: yang -->
-
-namanya telah digantung dari Daftar atau yang telah dicela di bawah seksyen 30 tidak layak untuk dinamakan dan dilantik atau dipilih atau dilantik, mengikut mana-mana yang berkenaan, di bawah peruntukan mana- mana perenggan (b) hingga (g) seksyen- kecil (1)—
+"(13A) Seseorang pengamal yang namanya telah digantung dari Daftar atau yang telah dicela di bawah seksyen 30 tidak layak untuk dinamakan dan dilantik atau dipilih atau dilantik, mengikut mana-mana yang berkenaan, di bawah peruntukan mana- mana perenggan (b) hingga (g) seksyen- kecil (1)—
 
 (a) dalam hal sesuatu penggantungan, selama tempoh enam tahun selepas tamatnya penggantungan itu; atau
 
 (b) dalam hal sesuatu celaan, selama tempoh enam tahun dari tarikh celaan itu.";
 
-(c) dengan memasukkan selepas sahaja subseksyen (14) subseksyen baru (15), (16) dan (17) yang berikut:
+(c) dengan memasukkan selepas sahaja subseksyen
+
+(14) subseksyen baru (15), (16) dan (17) yang berikut:
 
 "(15) (a) Jika pada menjalankan bidang kuasa tatatertibnya di bawah Akta, Majlis—
 
-(i) melantik suatu jawatankuasa untuk menjalankan penyiasatan
-
-<!-- marginal: per- -->
-
-mulaan; atau
+(i) melantik suatu jawatankuasa untuk menjalankan penyiasatan per- mulaan; atau
 
 (ii) mengadakan siasatan tatatertib,
 
-berkenaan dengan mana-mana pengamal yang adalah seorang ahli Majlis, pengamal itu hendaklah digantung. Penggantungan itu hendaklah, dalam hal suatu penyiasatan permulaan, berkuatkuasa dari
-
-<!-- marginal: tarikh -->
+berkenaan dengan mana-mana pengamal yang adalah seorang ahli Majlis, pengamal itu hendaklah digantung. Penggantungan itu hendaklah, dalam hal suatu penyiasatan permulaan, berkuatkuasa dari tarikh
 
 <!-- page 3 -->
 
@@ -78,11 +72,9 @@ bermulanya penyiasatan itu, atau dalam hal suatu siasatan tatatertib, berkuatkua
 
 (16) Mana-mana ahli Majlis yang telah digantung di bawah perenggan (a) atau (b) seksyen-kecil (15) hendaklah dengan serta merta dihidupkan semula sebagai ahli Majlis jika apabila tamatnya penyiasatan permulaan atau siasatan tatatertib itu, mengikut mana- mana yang berkenaan, Majlis mendapati bahawa tiada apa-apa kesalahan telah dibuktikan berkenaan dengan ahli itu.
 
-(17) Mana-mana ahli Majlis yang hendak dihidupkan semula menurut seksyen-kecil (16) hendaklah, jika penghidupan semula itu akan berkuatkuasa sebelum
+(17) Mana-mana ahli Majlis yang hendak dihidupkan semula menurut seksyen-kecil
 
-<!-- marginal: tamatnya -->
-
-tempoh jawatannya, dihidupkan semula untuk memegang jawatan bagi bahagian tempoh jawatannya yang belum tamat.".
+(16) hendaklah, jika penghidupan semula itu akan berkuatkuasa sebelum tamatnya tempoh jawatannya, dihidupkan semula untuk memegang jawatan bagi bahagian tempoh jawatannya yang belum tamat.".
 
 <!-- marginal: Pindaan -->
 
@@ -114,13 +106,19 @@ tempoh jawatannya, dihidupkan semula untuk memegang jawatan bagi bahagian tempoh
 
 (e) dengan memotong subseksyen (5);
 
-(f) dengan menggantikan perkataan-perkataan "seksyen-kecil (2) dan (3) masing-masing" yang terdapat dalam perenggan (a) subseksyen (7) dengan perkataan-perkataan "seksyen-kecil (2)";
+(f) dengan menggantikan perkataan-perkataan "seksyen-kecil (2) dan (3) masing-masing" yang terdapat dalam perenggan (a) subseksyen (7) dengan perkataan-perkataan "seksyen-kecil
+
+(2)";
 
 (g) dengan memotong perkataan-perkataan "dan perkhidmatan di bawah seksyen-kecil (3)" yang terdapat dalam subseksyen (8); dan
 
 (h) dengan menggantikan perkataan "perbidanan" dalam subseksyen (9) dengan perkataan- perkataan "obstetrik dan ginekologi".
 
-Pindaan 5. Seksyen 19 Akta ibu adalah dipinda— seksyen 19.
+<!-- marginal: Pindaan -->
+
+5. Seksyen 19 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 19. -->
 
 (a) dengan menggantikan koma yang terdapat di akhir perenggan (b) subseksyen (1) dengan perkataan "; atau"; dan
 
@@ -132,15 +130,7 @@ Pindaan 5. Seksyen 19 Akta ibu adalah dipinda— seksyen 19.
 
 (b) subseksyen (1) perenggan baru (c) yang berikut:
 
-"(c) didapati oleh panel kajian semula perubatan, yang hendaklah
-
-<!-- marginal: terdiri -->
-
-daripada tidak kurang daripada tiga orang pengamal perubatan yang dilantik oleh Majlis,
-
-<!-- marginal: selepas menjalankan -->
-
-penyiasatan yang sepatutnya sebagai tak layak untuk melaksanakan kewajipan-kewajipan profesionalnya oleh sebab keadaan mental atau fizikalnya,".
+"(c) didapati oleh panel kajian semula perubatan, yang hendaklah terdiri daripada tidak kurang daripada tiga orang pengamal perubatan yang dilantik oleh Majlis, selepas menjalankan penyiasatan yang sepatutnya sebagai tak layak untuk melaksanakan kewajipan-kewajipan profesionalnya oleh sebab keadaan mental atau fizikalnya,".
 
 <!-- marginal: Pindaan -->
 
@@ -156,21 +146,21 @@ penyiasatan yang sepatutnya sebagai tak layak untuk melaksanakan kewajipan-kewaj
 
 (a) Pendaftar berpuas hati bahawa mana- mana orang yang didaftarkan di bawah Akta ini dimasukkan ke atau ditahan di hospital sakit otak di bawah peruntukan mana-mana undang- undang;
 
-(b) mana-mana orang yang didaftarkan di bawah Akta ini telah diperakui oleh panel kajian semula perubatan, yang hendaklah terdiri daripada
-
-<!-- marginal: tidak -->
-
-kurang daripada
-
-<!-- marginal: tiga pengamal -->
-
-perubatan yang dilantik oleh Majlis, sebagai tak layak untuk melaksanakan kewajipan-kewajipan profesionalnya oleh sebab keadaan mental atau fizikalnya,
+(b) mana-mana orang yang didaftarkan di bawah Akta ini telah diperakui oleh panel kajian semula perubatan, yang hendaklah terdiri daripada tidak kurang daripada tiga pengamal perubatan yang dilantik oleh Majlis, sebagai tak layak untuk melaksanakan kewajipan-kewajipan profesionalnya oleh sebab keadaan mental atau fizikalnya,
 
 <!-- page 6 -->
 
 orang itu hendaklah dengan itu terhenti daripada didaftarkan sedemikian, dan suatu catatan hendaklah dibuat dengan sewajarnya bersetentangan dengan namanya dalam Daftar."; dan
 
-(c) dengan menggantikan perkataan-perkataan "keadaan otaknya" yang terdapat dalam subseksyen (2) dengan perkataan-perkataan "keadaan mental atau fizikalnya, mengikut mana-mana yang berkenaan,". 7. Akta ibu adalah dipinda dengan memasukkan selepas baru 34c. sahaja seksyen 34B seksyen baru 34c yang berikut:
+(c) dengan menggantikan perkataan-perkataan "keadaan otaknya" yang terdapat dalam subseksyen (2) dengan perkataan-perkataan "keadaan mental atau fizikalnya, mengikut mana-mana yang berkenaan,".
+
+<!-- marginal: Seksyen -->
+
+7. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 34c. -->
+
+sahaja seksyen 34B seksyen baru 34c yang berikut:
 
 "Pengamal 34c. (1) Ketua Pengarah boleh,
 
@@ -210,9 +200,7 @@ dipinda—
 
 (b) dengan menggantikan perkataan "dua" dan perkataan-perkataan "enam bulan" yang terdapat dalam perenggan
 
-<!-- marginal: (b) masing- -->
-
-masingnya dengan perkataan "lima" dan perkataan-perkataan "dua tahun".
+(b) masing- masingnya dengan perkataan "lima" dan perkataan-perkataan "dua tahun".
 
 <!-- marginal: Pindaan -->
 
@@ -220,9 +208,7 @@ masingnya dengan perkataan "lima" dan perkataan-perkataan "dua tahun".
 
 <!-- marginal: seksyen 37. -->
 
-(a) dalam teks bahasa kebangsaan sahaja, dengan menggantikan perkataan-perkataan "apa-apa syarat sebagaimana yang diarahkan oleh Majlis" dalam subseksyen (1) dengan perkataan- perkataan "apa-apa
-
-<!-- marginal: terma dan -->
+(a) dalam teks bahasa kebangsaan sahaja, dengan menggantikan perkataan-perkataan "apa-apa syarat sebagaimana yang diarahkan oleh Majlis" dalam subseksyen (1) dengan perkataan- perkataan "apa-apa terma dan
 
 <!-- marginal: syarat -->
 
@@ -254,13 +240,15 @@ seolah-olah pindaan-pindaan yang telah dibuat kepada peruntukan-peruntukan terse
 
 (b), (d), (e) dan (h) seksyen 4, peruntukan-peruntukan subseksyen (2), (4) (5) dan (9) seksyen 13 Akta ibu hendaklah terus terpakai bagi seseorang yang, sebelum sahaja mula berkuatkuasanya Akta ini, telah bertugas dalam pekerjaan dalam suatu jawatan perubatan bertempat tinggal di bawah subseksyen (2) seksyen 13 yang tersebut seolah-olah pindaan-pindaan yang telah dibuat kepada peruntukan-peruntukan tersebut dalam seksyen 13 telah tidak dibuat.
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-11. Akta ibu adalah dipinda dengan menggantikan Bahagian
+11. Akta ibu adalah dipinda dengan menggantikan
 
-## Bahagian VII dengan Bahagian VII yang berikut:
+<!-- marginal: Bahagian -->
 
-VII.
+Bahagian VII dengan Bahagian VII yang berikut:
+
+<!-- marginal: VII. -->
 
 ## BAHAGIAN VII
 
@@ -278,29 +266,65 @@ daripada berkuatkuasa jika Parlimen, melalui ketetapan yang diluluskan oleh seti
 
 ## PERUBATAN (PINDAAN)
 
-Pemberi- 40. (1) Tiap-tiap orang yang memperolehi tahu pendaftaran penuh di bawah Akta ini, apabila kepada orang sahaja didaftarkan penuh atau pada bila-bila berdaftar masa selepas itu, boleh disampaikan penuh supaya kepadanya suatu pemberitahu bertulis yang ber- dikeluarkan oleh atau bagi pihak Ketua khidmat dalam Pengarah yang menghendaki orang itu supaya jawatan memegang perlantikan dalam suatu jawatan perubatan dalam per- perubatan dalam apa-apa jawatan dalam mana- khidmatan mana perkhidmatan awam dan pada apa-apa awam. tarikh, dalam setiap hal ini, sebagaimana yang dinyatakan dalam pemberitahu itu.
+<!-- marginal: Pemberi- -->
 
-(2) Seseorang yang kepadanya suatu pemberitahu telah disampaikan di bawah seksyen-kecil (1) hendaklah mematuhi pemberitahu itu dan jika dia gagal berbuat demikian dia adalah melakukan
+40. (1) Tiap-tiap orang yang memperolehi
 
-<!-- marginal: suatu -->
+<!-- marginal: tahu -->
 
-kesalahan di bawah Akta ini.
+pendaftaran penuh di bawah Akta ini, apabila
 
-(3) Sebaik sahaja pertuduhan di bawah seksyen-kecil (2) atau di bawah seksyen 41 dibuktikan dalam mahkamah terhadap mana- mana orang, pendaftaran orang
+<!-- marginal: kepada -->
 
-<!-- marginal: itu di bawah -->
+<!-- marginal: orang -->
 
-seksyen 14 hendaklah disifatkan terbatal, dan Pendaftar hendaklah memotong nama orang itu dari Daftar.
+sahaja didaftarkan penuh atau pada bila-bila
+
+<!-- marginal: berdaftar -->
+
+masa selepas itu, boleh disampaikan
+
+<!-- marginal: penuh -->
+
+<!-- marginal: supaya -->
+
+kepadanya suatu pemberitahu bertulis yang
+
+<!-- marginal: ber- -->
+
+dikeluarkan oleh atau bagi pihak Ketua
+
+<!-- marginal: khidmat -->
+
+<!-- marginal: dalam -->
+
+Pengarah yang menghendaki orang itu supaya
+
+<!-- marginal: jawatan -->
+
+memegang perlantikan dalam suatu jawatan
+
+<!-- marginal: perubatan -->
+
+<!-- marginal: dalam per- -->
+
+perubatan dalam apa-apa jawatan dalam mana-
+
+<!-- marginal: khidmatan -->
+
+mana perkhidmatan awam dan pada apa-apa
+
+<!-- marginal: awam. -->
+
+tarikh, dalam setiap hal ini, sebagaimana yang dinyatakan dalam pemberitahu itu.
+
+(2) Seseorang yang kepadanya suatu pemberitahu telah disampaikan di bawah seksyen-kecil (1) hendaklah mematuhi pemberitahu itu dan jika dia gagal berbuat demikian dia adalah melakukan suatu kesalahan di bawah Akta ini.
+
+(3) Sebaik sahaja pertuduhan di bawah seksyen-kecil (2) atau di bawah seksyen 41 dibuktikan dalam mahkamah terhadap mana- mana orang, pendaftaran orang itu di bawah seksyen 14 hendaklah disifatkan terbatal, dan Pendaftar hendaklah memotong nama orang itu dari Daftar.
 
 (4) (a) Jika nama seseorang dipotong dari Daftar di bawah seksyen-kecil (3), maka nama orang itu tidak boleh dimasukkan semula ke dalam Daftar kecuali atas arahan yang diberi oleh Menteri, dan Menteri boleh memberi arahan sedemikian apabila permohonan bertulis dibuat kepadanya oleh orang yang namanya telah dipotong dari Daftar.
 
-(b) Apa-apa arahan yang diberikan sedemikian boleh dijadikan tertakluk kepada penunaian apa-apa
-
-<!-- marginal: terma dan -->
-
-<!-- marginal: syarat -->
-
-sebagaimana yang Menteri memikirkan patut
+(b) Apa-apa arahan yang diberikan sedemikian boleh dijadikan tertakluk kepada penunaian apa-apa terma dan syarat sebagaimana yang Menteri memikirkan patut
 
 <!-- page 10 -->
 
@@ -308,11 +332,7 @@ dikenakan, dan terma dan syarat yang menghendaki orang itu supaya berkhidmat dal
 
 (c) Semasa orang itu sedang menunaikan terma-terma dan syarat-syarat yang dikenakan di bawah seksyen-kecil ini, dia hendaklah disifatkan telah didaftar penuh setakat mana yang perlu untuk menunaikan terma-terma dan syarat-syarat yang dikenakan di bawah seksyen-kecil ini dan bagi apa-apa maksud lain sebagaimana yang diarahkan oleh Menteri, tetapi tidak lebih daripada itu; dan apabila terma-terma dan syarat-syarat yang dikenakan di bawah seksyen-kecil ini telah ditunaikan maka dia berhak mendapat suatu perakuan yang dikeluarkan oleh Ketua Pengarah sebagai keterangan mengenai hal itu.
 
-(5) Keputusan Menteri atas
-
-<!-- marginal: sesuatu -->
-
-permohonan yang dibuat kepadanya di bawah seksyen-kecil (4) untuk memasukkan semula sesuatu nama dalam Daftar adalah muktamad dan tidak boleh dipersoalkan atau dikaji semula dalam mana-mana jua pun mahkamah.
+(5) Keputusan Menteri atas sesuatu permohonan yang dibuat kepadanya di bawah seksyen-kecil (4) untuk memasukkan semula sesuatu nama dalam Daftar adalah muktamad dan tidak boleh dipersoalkan atau dikaji semula dalam mana-mana jua pun mahkamah.
 
 (6) Jika suatu pemberitahu di bawah seksyen-kecil (1) telah disampaikan kepada seseorang yang kepadanya pemberitahu boleh disampaikan, Ketua Pengarah boleh, pada bila- bila masa, mengkansel pemberitahu itu dan, jika difikirkannya patut, menyebabkan disampaikan kepada orang itu pemberitahu selanjutnya di bawah seksyen-kecil (1).
 
@@ -320,39 +340,71 @@ permohonan yang dibuat kepadanya di bawah seksyen-kecil (4) untuk memasukkan sem
 
 ## PERUBATAN (PINDAAN)
 
-Tempoh 41. Seseorang yang mula berkhidmat dalam
+<!-- marginal: Tempoh -->
 
-### perkhidmatan
+41. Seseorang yang mula berkhidmat dalam
 
-sesuatu jawatan dalam perkhidmatan awam menurut
+<!-- marginal: perkhidmatan -->
 
-### pemberitahu
+sesuatu jawatan dalam perkhidmatan awam
+
+<!-- marginal: menurut -->
+
+<!-- marginal: pemberitahu -->
 
 menurut suatu pemberitahu yang dikeluarkan
 
-### di bawah
+<!-- marginal: di bawah -->
 
-di bawah seksyen-kecil (1) seksyen 40, seksyen 40 hendaklah terus berkhidmat dalam jawatan (1). tersebut atau apa-apa jawatan atau jawatan- jawatan kemudian yang
+di bawah seksyen-kecil (1) seksyen 40,
 
-<!-- marginal: lain -->
+<!-- marginal: seksyen 40 -->
 
-<!-- marginal: dalam -->
+hendaklah terus berkhidmat dalam jawatan
 
-perkhidmatan awam yang sama atau dalam mana-mana perkhidmatan awam yang lain sebagaimana yang ditentukan dari semasa ke semasa oleh Ketua Pengarah menurut budi- bicaranya bagi suatu tempoh terus menerus yang jumlahnya tidak kurang daripada tiga tahun dengan memuaskan hati Ketua Pengarah dan jika dia gagal berbuat demikian, dia adalah melakukan suatu kesalahan di bawah Akta ini.
+(1). tersebut atau apa-apa jawatan atau jawatan- jawatan kemudian yang lain dalam perkhidmatan awam yang sama atau dalam mana-mana perkhidmatan awam yang lain sebagaimana yang ditentukan dari semasa ke semasa oleh Ketua Pengarah menurut budi- bicaranya bagi suatu tempoh terus menerus yang jumlahnya tidak kurang daripada tiga tahun dengan memuaskan hati Ketua Pengarah dan jika dia gagal berbuat demikian, dia adalah melakukan suatu kesalahan di bawah Akta ini.
 
-Kuasa 42. (1) Menteri boleh, melalui perintah yang Menteri disiarkan dalam Warta— untuk mem- benarkan pengurangan,
+<!-- marginal: Kuasa -->
 
-(a) berkenaan dengan mana-mana orang pengecualian atau penang- tertentu; guhan tempoh per-
+42. (1) Menteri boleh, melalui perintah yang
 
-(h) secara amnya, berkenaan dengan khidmatan di mana-mana golongan orang semasa bawah seksyen 41. apa-apa tempoh yang dinyatakan olehnya;
+<!-- marginal: Menteri -->
+
+disiarkan dalam Warta—
+
+<!-- marginal: untuk mem- -->
+
+<!-- marginal: benarkan -->
+
+<!-- marginal: pengurangan, -->
+
+(a) berkenaan dengan mana-mana orang
+
+<!-- marginal: pengecualian -->
+
+<!-- marginal: atau penang- -->
+
+tertentu;
+
+<!-- marginal: guhan -->
+
+<!-- marginal: tempoh per- -->
+
+(h) secara amnya, berkenaan dengan
+
+<!-- marginal: khidmatan di -->
+
+mana-mana golongan orang semasa
+
+<!-- marginal: bawah -->
+
+<!-- marginal: seksyen 41. -->
+
+apa-apa tempoh yang dinyatakan olehnya;
 
 (c) secara amnya, berkenaan dengan semua orang semasa apa-apa tempoh yang dinyatakan olehnya,
 
-membenarkan apa-apa pengurangan yang difikirkannya sesuai atau pengecualian penuh daripada tempoh perkhidmatan
-
-<!-- marginal: yang -->
-
-dikehendaki di bawah seksyen 41.
+membenarkan apa-apa pengurangan yang difikirkannya sesuai atau pengecualian penuh daripada tempoh perkhidmatan yang dikehendaki di bawah seksyen 41.
 
 (2) Menteri boleh, apabila permohonan bertulis dibuat kepadanya oleh mana-mana orang yang boleh kena menjalani tempoh perkhidmatan yang dikehendaki di bawah seksyen 41, membenarkan kepada orang itu penangguhan daripada memulakan perkhid-
 
@@ -360,27 +412,37 @@ dikehendaki di bawah seksyen 41.
 
 matan itu bagi apa-apa tempoh yang difikirkannya sesuai jika dia berpuas hati bahawa adalah adil dan munasabah untuk berbuat demikian.
 
-(3) Keputusan Menteri atas
+(3) Keputusan Menteri atas sesuatu permohonan yang dibuat kepadanya di bawah seksyen-kecil (2) adalah muktamad dan tidak boleh dipersoalkan atau dikaji semula dalam mana-mana jua pun mahkamah.
 
-<!-- marginal: sesuatu -->
+<!-- marginal: Menteri -->
 
-permohonan yang dibuat kepadanya di bawah seksyen-kecil (2) adalah muktamad dan tidak boleh dipersoalkan atau dikaji semula dalam mana-mana jua pun mahkamah.
+43. Menteri boleh membuat kaedah-kaedah
 
-Menteri 43. Menteri boleh membuat kaedah-kaedah boleh bagi melaksanakan tujuan-tujuan dan maksud- membuat kaedah- maksud Bahagian ini. kaedah.
+<!-- marginal: boleh -->
 
-Kecualian. 44. (1) Apa-apa jua yang telah dilakukan di bawah peruntukan-peruntukan seksyen 40, 41, 42 atau 43 Ordinan No. 65 (Kuasa-Kuasa Perlu) Darurat 1971 hendaklah disifatkan telah dilakukan di bawah peruntukan-peruntukan seksyen 40, 41, 42 atau 43 masing-masingnya Akta ini dan hendaklah terus berjalan kuatkuasa dan berkuatkuasa
+bagi melaksanakan tujuan-tujuan dan maksud-
 
-<!-- marginal: dengan -->
+<!-- marginal: membuat -->
 
-sewajarnya di bawah seksyen-seksyen masing- masing Akta ini.
+<!-- marginal: kaedah- -->
 
-(2) Peruntukan-peruntukan seksyen-kecil (4) dan (5) seksyen 37 hendaklah terpakai bagi Bahagian ini dan dalam pemakaian sedemikian, peruntukan-peruntukan
+maksud Bahagian ini.
 
-<!-- marginal: itu -->
+<!-- marginal: kaedah. -->
 
-hendaklah ditafsirkan sebagai meluaskan seksyen-kecil (1) seksyen ini.
+<!-- marginal: Kecualian. -->
 
-(3) Tiada apa jua pun dalam seksyen-kecil (1) mempunyai kuatkuasa untuk menjadikan mana-mana orang boleh dikenakan apa-apa penalti berkenaan dengan apa-apa peninggalan untuk mematuhi, atau berkenaan dengan apa- apa perbuatan yang dilakukan berlawanan dengan, peruntukan-peruntukan seksyen-kecil (2) seksyen 40 dan seksyen 41.".
+44. (1) Apa-apa jua yang telah dilakukan di bawah peruntukan-peruntukan seksyen 40, 41, 42 atau 43 Ordinan No. 65 (Kuasa-Kuasa Perlu) Darurat 1971 hendaklah disifatkan telah dilakukan di bawah peruntukan-peruntukan seksyen 40, 41, 42 atau 43 masing-masingnya Akta ini dan hendaklah terus berjalan kuatkuasa dan berkuatkuasa dengan sewajarnya di bawah seksyen-seksyen masing- masing Akta ini.
+
+(2) Peruntukan-peruntukan seksyen-kecil
+
+(4) dan (5) seksyen 37 hendaklah terpakai bagi Bahagian ini dan dalam pemakaian sedemikian, peruntukan-peruntukan itu hendaklah ditafsirkan sebagai meluaskan seksyen-kecil (1) seksyen ini.
+
+(3) Tiada apa jua pun dalam seksyen-kecil
+
+(1) mempunyai kuatkuasa untuk menjadikan mana-mana orang boleh dikenakan apa-apa penalti berkenaan dengan apa-apa peninggalan untuk mematuhi, atau berkenaan dengan apa- apa perbuatan yang dilakukan berlawanan dengan, peruntukan-peruntukan seksyen-kecil
+
+(2) seksyen 40 dan seksyen 41.".
 
 <!-- page 13 -->
 
@@ -412,6 +474,4 @@ berhubungan dengan orang-orang yang dinyatakan dalam fa$al itu seolah-olah pinda
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
-
-<!-- marginal: [PN. (U2) 1484.] -->
+Rang Undang-undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN. (U2) 1484.]

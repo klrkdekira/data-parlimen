@@ -61,6 +61,10 @@
       "schema:name": {
         "@language": "ms",
         "@value": "Perkara 46 Perlembagaan Persekutuan adalah dipinda—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perkara 46."
       }
     },
     {
@@ -84,7 +88,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/11/msa@/~cl_2",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam Pasal (2)— 2 RANG UNDANG-UNDANG Keanggotaan"
+        "@value": "dalam Pasal (2)—"
       }
     },
     {
@@ -104,7 +108,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/11/msa@/~cl_2__para_b",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perkataan \"dua puluh tujuh\" dalam subperenggan (a)(xi) dengan perkataan \"dua puluh lapan\"."
+        "@value": "dengan menggantikan perkataan \"dua puluh tujuh\" dalam subperenggan (a)(xi) dengan perkataan \"dua puluh lapan\". 2 RANG UNDANG-UNDANG"
       }
     },
     {
@@ -112,9 +116,13 @@
       "@type": "akn:clause",
       "eli:number": "3",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perkara 46 Perlembagaan Persekutuan, sebagaimana"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Perkara 46 Perlembagaan Persekutuan, sebagaimana Dewan yang dipinda oleh seksyen 2 Akta ini, tidaklah menyentuh Rakyat yang sedia ada keanggotaan Dewan Rakyat atau mana-mana pemilihan atau kepada Dewan itu sehingga pembubaran Parlimen yang pemilihan kepada berlaku pada atau selepas tarikh mula berkuatkuasanya Dewan itu Perintah yang dibuat di bawah seksyen 12 Jadual Ketiga sebelum Perintah Belas kepada Perlembagaan Persekutuan berikutan dengan yang dibuat kajian semula yang dijalankan menurut Pasal (2) Perkara di bawah 113 Perlembagaan Persekutuan dan Jadual Ketiga Belas seksyen 12"
+        "@value": "yang dipinda oleh seksyen 2 Akta ini, tidaklah menyentuh keanggotaan Dewan Rakyat atau mana-mana pemilihan kepada Dewan itu sehingga pembubaran Parlimen yang berlaku pada atau selepas tarikh mula berkuatkuasanya Perintah yang dibuat di bawah seksyen 12 Jadual Ketiga Belas kepada Perlembagaan Persekutuan berikutan dengan kajian semula yang dijalankan menurut Pasal (2) Perkara 113 Perlembagaan Persekutuan dan Jadual Ketiga Belas"
       }
     },
     {
@@ -124,7 +132,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/11/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "tersebut. Belas."
+        "@value": "tersebut."
       }
     }
   ]

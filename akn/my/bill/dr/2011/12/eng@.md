@@ -4,7 +4,7 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -12,7 +12,7 @@
 
 2. Interpretation
 
-## Part II
+## PART II
 
 ## THE AUTHORITY
 
@@ -34,7 +34,7 @@
 
 11. Disclosure of interest
 
-## Part III
+## PART III
 
 ## FUNCTIONS AND POWERS OF THE AUTHORITY
 
@@ -48,7 +48,7 @@
 
 <!-- page 2 -->
 
-## Part IV
+## PART IV
 
 ## OFFICERS AND SERVANTS OF THE AUTHORITY
 
@@ -66,7 +66,7 @@
 
 22. Continuation and completion of disciplinary proceedings
 
-## Part V
+## PART V
 
 ## FINANCE
 
@@ -92,7 +92,7 @@
 
 33. Payment to the Federal Consolidated Fund
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -110,7 +110,9 @@
 
 40. Regulations
 
-41. Acts done in anticipation of the enactment of this Act S chedule
+41. Acts done in anticipation of the enactment of this Act
+
+## S CHEDULE
 
 <!-- page 3 -->
 
@@ -122,7 +124,7 @@ An Act to provide for the establishment of the Medical Device Authority, to cont
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -154,7 +156,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “medical device laws” means this Act and the Medical Device Act 2011 [Act ], and includes any subsidiary legislation made under these laws.
 
-## Part II
+## PART II
 
 ## THE AUTHORITY
 
@@ -332,7 +334,7 @@ when the matter is discussed or decided upon.
 
 <!-- page 10 -->
 
-## Part III
+## PART III
 
 ## FUNCTIONS AND POWERS OF THE AUTHORITY
 
@@ -386,7 +388,7 @@ when the matter is discussed or decided upon.
 
 (2) The returns, reports, accounts and information shall be in such form and shall contain such information relating to the proceedings and policy of the Authority and any other matter as the Minister may from time to time specify.
 
-## Part IV
+## PART IV
 
 ## OFFICERS AND SERVANTS OF THE AUTHORITY
 
@@ -446,7 +448,7 @@ when the matter is discussed or decided upon.
 
 (3) The Minister may, by order, make such modifications to the law referred to in subsection (1) in their application to such employee of the Government as may be necessary for the purpose of removing difficulties as a consequence of the provision of subsection.
 
-## Part V
+## PART V
 
 ## FINANCE
 
@@ -548,7 +550,7 @@ when the matter is discussed or decided upon.
 
 33. The Authority shall on the instruction of the Federal Government, cause to be paid to the Federal Consolidated Fund an amount not exceeding twenty per cent of its current annual surplus after the fifth year of its operation.
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -602,7 +604,7 @@ any person authorized by the Authority for that purpose may, on behalf of the Au
 
 41. All acts done by any person or authority on behalf of the Authority in preparation for or in anticipation of the enactment of this Act and any expenditure incurred in relation thereto, shall be deemed to have been authorized by this Act, provided that the acts and things done are consistent with the general intention and purposes of this Act; and all rights or obligations acquired or incurred on as a result of the doing of those acts or things including any expenditure incurred in relation thereto, shall on the coming into operation of this Act, be deemed to be the rights and obligations of the Authority.
 
-## Schedule
+## SCHEDULE
 
 [Section 4]
 
@@ -690,7 +692,7 @@ The proposed Medical Device Authority Act 2011 (“the proposed Act”) seeks to
 
 <!-- page 23 -->
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act contains preliminary matters.
 
@@ -698,7 +700,7 @@ Clause 1 contains the short title and seeks to allow the Minister to appoint the
 
 Clause 2 contains the definitions of certain expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 3. Part II of the proposed Act contains provisions relating to the establishment of the Authority.
 
@@ -718,7 +720,7 @@ Clause 10 seeks to empower the Authority to establish committees to assist it in
 
 Clause 11 imposes a duty on a member of the Authority and a committee established by the Authority to disclose his interest in any matter under discussion by the Authority or committee.
 
-## Part III
+## PART III
 
 4. Part III of the proposed Act contains provisions relating to the functions of the Authority.
 
@@ -732,7 +734,7 @@ Clause 14 seeks to empower the Minister to issue directions to the Authority.
 
 Clause 15 requires the Authority to furnish returns, reports, accounts and information to the Minister.
 
-## Part IV
+## PART IV
 
 5. Part IV of the proposed Act contains provisions on the Chief Executive and officers and servants of the Authority.
 
@@ -748,7 +750,7 @@ Clause 20 allows the Authority to adopt regulations, rules, policies, etc., issu
 
 Clauses 21 and 22 deal with the employment of government servants and the continuation and completion of disciplinary proceedings.
 
-## Part V
+## PART V
 
 6. Part V of the proposed Act contains financial provisions.
 
@@ -772,7 +774,7 @@ Clause 32 provides that the Statutory Bodies (Accounts and Annual Reports) Act 1
 
 Clause 33 provides that the Authority may be required to make certain payment to the Federal Consolidated Fund.
 
-## Part VI
+## PART VI
 
 7. Part VI of the proposed Act contains general provisions.
 

@@ -30,7 +30,11 @@ is referred to as the "principal Act", is amended by
 
 <!-- marginal: Act 177. -->
 
-inserting after subsection 2A(3) the following subsection:
+inserting after subsection 2A(3) the
+
+<!-- marginal: following -->
+
+subsection:
 
 "(4) Subject to such limitations, if any, as may be prescribed by regulations made under this Act, an officer appointed under subsection (2) shall perform all the duties imposed and may exercise all the powers conferred upon the Director General by this Act, and every duty so performed and power so exercised shall be deemed to have been duly performed and exercised for the purposes of this Act.".
 
@@ -48,9 +52,25 @@ inserting after subsection 2A(3) the following subsection:
 
 "Provided that where the complaint relates to the dismissal of a workman, the provisions of section 20 shall apply.".
 
-4. The principal Act is amended by substituting for Amendment of section 9. section 9 the following section: Claim for
+4. The principal Act is amended by substituting for
 
-9. (1) Subject to section 9D(l), a trade union recog- of workmen may serve on an employer or on nition. a trade union of employers in writing in the prescribed form a claim for recognition in respect of the workmen or any class of workmen employed by the employer or by the members of the trade union of employers.
+<!-- marginal: Amendment -->
+
+<!-- marginal: of section 9. -->
+
+section 9 the following section:
+
+<!-- marginal: Claim for -->
+
+9. (1) Subject to section 9D(l), a trade union
+
+<!-- marginal: recog- -->
+
+of workmen may serve on an employer or on
+
+<!-- marginal: nition. -->
+
+a trade union of employers in writing in the prescribed form a claim for recognition in respect of the workmen or any class of workmen employed by the employer or by the members of the trade union of employers.
 
 (2) An employer or a trade union of employers upon whom a claim for recognition has been served shall, within twenty-one days after the service of the claim—
 
@@ -78,9 +98,23 @@ section 9 the following sections:
 
 <!-- marginal: and 9D. -->
 
-Director 9A. (1) The Director General, upon receipt General of— to take steps to
+<!-- marginal: Director -->
 
-(a) an application under section 9(2}(c) or resolve matter.
+9A. (1) The Director General, upon receipt
+
+<!-- marginal: General -->
+
+of—
+
+<!-- marginal: to take -->
+
+<!-- marginal: steps to -->
+
+(a) an application under section 9(2}(c) or
+
+<!-- marginal: resolve -->
+
+<!-- marginal: matter. -->
 
 (b) a report under section 9(3),
 
@@ -90,11 +124,7 @@ may take such steps or make such enquiries as he may consider necessary or exped
 
 (a) shall have the power to require the trade union of workmen, the employer or the trade union of employers concerned to furnish such information as he may consider necessary or relevant within such period as he may specify;
 
-(b) may refer to the Director General of Trade Unions for his decision any question on the competence of the trade union of workmen concerned
-
-<!-- marginal: to -->
-
-represent any workman or class of workmen in respect of whom recognition is sought to be accorded; and
+(b) may refer to the Director General of Trade Unions for his decision any question on the competence of the trade union of workmen concerned to represent any workman or class of workmen in respect of whom recognition is sought to be accorded; and
 
 (c) may request the Director General of Trade Unions at his discretion to ascertain either the percentage of the workmen or class of workmen in respect of whom recognition is being sought who were members of the trade
 
@@ -104,9 +134,41 @@ union of workmen making the claim as at the date of claim, or the percentage of 
 
 (3) Where the Director General of Trade Unions decides that the trade union of workmen concerned is not competent to represent the workmen or class of workmen in respect of whom recognition is sought to be accorded, the matter shall be deemed to have been resolved under subsection (1).
 
-(4) The performance of the duties and functions by the Director General of Trade Unions under subsections (2)(b) and (c) shall be deemed to be a performance of his duties Act 262 and functions under the Trade Unions Act 1959.
+(4) The performance of the duties and functions by the Director General of Trade Unions under subsections (2)(b) and (c) shall be deemed to be a performance of his duties
 
-When 9B. (1) The Director General shall, upon recognition being informed of the result of the request deemed to be made under section 9A(2)(c), communicate the accorded or result to the employer or the trade union of claim employers and the trade union of workmen. therefor deemed resolved. (2) Where the result of the request made under section 9A(2)(c) shows that the majority of the workmen or class of workmen concerned were members of the trade union of workmen making the claim as at the date of claim, or the majority of the workmen or class of workmen wish to be represented by the trade union, the employer or the trade union of employers concerned shall be deemed to have accorded recognition to the trade union of workmen as from the date of claim.
+<!-- marginal: Act 262 -->
+
+and functions under the Trade Unions Act 1959.
+
+<!-- marginal: When -->
+
+9B. (1) The Director General shall, upon
+
+<!-- marginal: recognition -->
+
+being informed of the result of the request
+
+<!-- marginal: deemed -->
+
+<!-- marginal: to be -->
+
+made under section 9A(2)(c), communicate the
+
+<!-- marginal: accorded or -->
+
+result to the employer or the trade union of
+
+<!-- marginal: claim -->
+
+employers and the trade union of workmen.
+
+<!-- marginal: therefor -->
+
+<!-- marginal: deemed -->
+
+<!-- marginal: resolved. -->
+
+(2) Where the result of the request made under section 9A(2)(c) shows that the majority of the workmen or class of workmen concerned were members of the trade union of workmen making the claim as at the date of claim, or the majority of the workmen or class of workmen wish to be represented by the trade union, the employer or the trade union of employers concerned shall be deemed to have accorded recognition to the trade union of workmen as from the date of claim.
 
 (3) Where the result of the request made under section 9A(2)(c) shows that the majority of the workmen or class of workmen concerned
 
@@ -116,7 +178,27 @@ When 9B. (1) The Director General shall, upon recognition being informed of the 
 
 were not members of the trade union of workmen making the claim as at the date of claim, or the majority of the workmen or class of workmen do not wish to be represented by the trade union, it shall be deemed that the matter has been resolved under section 9A(1) with the trade union of workmen not being accorded recognition.
 
-Director 9c. (1) Where the trade union of workmen, General to the employer or the trade union of employers require attendance fails to furnish the information as may be at con- required by the Director General under section ference. 9A(2)(a), the Director General may, if he deems it necessary or expedient, direct either the trade union of workmen, the employer or the trade union of employers, or both to attend a conference and to furnish the information at the place and time as may be specified in the direction.
+<!-- marginal: Director -->
+
+9c. (1) Where the trade union of workmen,
+
+<!-- marginal: General to -->
+
+the employer or the trade union of employers
+
+<!-- marginal: require -->
+
+<!-- marginal: attendance -->
+
+fails to furnish the information as may be
+
+<!-- marginal: at con- -->
+
+required by the Director General under section
+
+<!-- marginal: ference. -->
+
+9A(2)(a), the Director General may, if he deems it necessary or expedient, direct either the trade union of workmen, the employer or the trade union of employers, or both to attend a conference and to furnish the information at the place and time as may be specified in the direction.
 
 (2) Where the trade union of workmen, the employer or the trade union of employers—
 
@@ -140,13 +222,31 @@ it shall be deemed that—
 
 (4) A decision of the Minister under subsection (3) shall be final and shall not be questioned in any court.
 
-Scope of 9D. (1) No trade union of workmen
+<!-- marginal: Scope of -->
 
-<!-- marginal: the -->
+9D. (1) No trade union of workmen the
 
-repre- majority of whose membership consists of sentation workmen who are not employed in any of the and deter- mination following capacities: of employ- ment
+<!-- marginal: repre- -->
 
-(a) managerial; capacity.
+majority of whose membership consists of
+
+<!-- marginal: sentation -->
+
+workmen who are not employed in any of the
+
+<!-- marginal: and deter- -->
+
+<!-- marginal: mination -->
+
+following capacities:
+
+<!-- marginal: of employ- -->
+
+<!-- marginal: ment -->
+
+(a) managerial;
+
+<!-- marginal: capacity. -->
 
 (b) executive;
 
@@ -178,7 +278,51 @@ may seek recognition under section 9 or serve an invitation under section 13 in 
 
 section 10 the following section:
 
-Prohibition 10. (1) No workman shall go on strike or do against anything which is rendered lawful by virtue of strike, the proviso to section 40(1) for whatever lock-out, picketing reason during the pendency of proceedings and under sections 9, 9A, 9B, 9c and 9D, or after termi- nation of the decision of the Minister made thereunder service by reason of any dissatisfaction with such pending recog- decision. nition of a trade union. (2) No employer shall declare a lock-out or terminate the services of a workman once a trade union of workmen has served on the employer or a trade union of employers a claim for recognition under section 9 in respect of workmen or a class of workmen:
+<!-- marginal: Prohibition -->
+
+10. (1) No workman shall go on strike or do
+
+<!-- marginal: against -->
+
+anything which is rendered lawful by virtue of
+
+<!-- marginal: strike, -->
+
+the proviso to section 40(1) for whatever
+
+<!-- marginal: lock-out, -->
+
+<!-- marginal: picketing -->
+
+reason during the pendency of proceedings
+
+<!-- marginal: and -->
+
+under sections 9, 9A, 9B, 9c and 9D, or after
+
+<!-- marginal: termi- -->
+
+<!-- marginal: nation of -->
+
+the decision of the Minister made thereunder
+
+<!-- marginal: service -->
+
+by reason of any dissatisfaction with such
+
+<!-- marginal: pending -->
+
+<!-- marginal: recog- -->
+
+decision.
+
+<!-- marginal: nition of -->
+
+<!-- marginal: a trade -->
+
+<!-- marginal: union. -->
+
+(2) No employer shall declare a lock-out or terminate the services of a workman once a trade union of workmen has served on the employer or a trade union of employers a claim for recognition under section 9 in respect of workmen or a class of workmen:
 
 Provided that this restriction shall not apply—
 
@@ -204,13 +348,21 @@ retirement or the expiry of a fixed term contract or the non-confirmation of a p
 
 effected during the pendency of proceedings under, sections 9, 9A, 9B, 9c and 9D or after the decision of the Minister made thereunder by reason only of any dissatisfaction with such decision.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-7. Section 11 of the principal Act is amended by of section 11, substituting for the words "whether by a decision of the Minister or otherwise" the words "pursuant to a claim for recognition under section 9".
+7. Section 11 of the principal Act is amended by
 
-New
+<!-- marginal: of section 11, -->
 
-8. The principal Act is amended by inserting after section 11A. section 11 the following section:
+substituting for the words "whether by a decision of the Minister or otherwise" the words "pursuant to a claim for recognition under section 9".
+
+<!-- marginal: New -->
+
+8. The principal Act is amended by inserting after
+
+<!-- marginal: section 11A. -->
+
+section 11 the following section:
 
 Prohibition 1 1 A. Where a claim for recognition by a trade against union in respect of workmen or a class of claim for recog- workmen has not been resolved, no other trade nition union of workmen shall make a claim for during pendency recognition under section 9 or shall be of existing accorded recognition in respect of the same claim. workmen or class of workmen.".
 
@@ -270,9 +422,13 @@ by substituting for the words "specially constituted under section 22 for the pu
 
 ## B I LL
 
-Savings
+<!-- marginal: Savings -->
 
-14. The amendment to section 9 of the principal Act provision. shall not affect any application for a claim for recognition by a trade union of workmen made under the principal Act before the commencement of this Act and section 9 shall apply to such application as if it had not been amended.
+14. The amendment to section 9 of the principal Act
+
+<!-- marginal: provision. -->
+
+shall not affect any application for a claim for recognition by a trade union of workmen made under the principal Act before the commencement of this Act and section 9 shall apply to such application as if it had not been amended.
 
 ## EXPLANATORY STATEMENT
 

@@ -18,7 +18,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 2. The Criminal Procedure Code [Act 593], which is referred to as the “Code” in this act, is amended by inserting after Chapter XViii in Part Vi the following Chapter:
 
-“Chapter XViii a
+## “CHAPTER XVIIIA
 
 PRE-TRial PROCESSES
 
@@ -384,7 +384,9 @@ corporate, shall purport to be signed by a director or manager, or the secretary
 
 ### Amendment of Second Schedule
 
-14. The Second Schedule to the Code is amended by inserting after Form 28 the following Form: “ Form 28a
+14. The Second Schedule to the Code is amended by inserting after Form 28 the following Form: “
+
+## FORM 28A
 
 <!-- marginal: [Section 172C] -->
 

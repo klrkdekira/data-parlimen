@@ -82,19 +82,7 @@ B. 6 Education Service Commission
 
 <!-- marginal: 1,433,000 -->
 
-B. 7 Prime Minister's Department
-
-<!-- marginal: 137,823,000 -->
-
-B. 8 Public Services Department
-
-<!-- marginal: 193,702,000 -->
-
-B. 9 Statistics Department
-
-<!-- marginal: 38,456,000 -->
-
-B. 10 Attorney General's Chambers
+B. 7 Prime Minister's Department 137,823,000 B. 8 Public Services Department 193,702,000 B. 9 Statistics Department 38,456,000 B. 10 Attorney General's Chambers
 
 <!-- marginal: 4,307,000 -->
 
@@ -110,43 +98,11 @@ B. 13 Office of the Federal Secretary Sarawak
 
 <!-- marginal: 150,000 -->
 
-B. 14 Ministry of Housing and Local
-
-<!-- marginal: 18,188,000 -->
-
-Government B. 15 Town and Country Planning
+B. 14 Ministry of Housing and Local 18,188,000 Government B. 15 Town and Country Planning
 
 <!-- marginal: 3,487,000 -->
 
-B. 16 Fire Services Department
-
-<!-- marginal: 27,196,000 -->
-
-B. 17 Ministry of Youth and Sports
-
-<!-- marginal: 13,517,000 -->
-
-B. 18 Ministry of Primary Industries
-
-<!-- marginal: 31,282,000 -->
-
-B. 19 Ministry of Agriculture
-
-<!-- marginal: 275,507,000 -->
-
-B. 20 Ministry of International Trade and
-
-<!-- marginal: 28,389,000 -->
-
-Industry B. 21 Ministry of Domestic Trade and
-
-<!-- marginal: 10,780,000 -->
-
-Consumer Affairs B. 22 Ministry of Culture, Arts and Tourism
-
-<!-- marginal: 34,826,000 -->
-
-B. 23 Department of the National Archives
+B. 16 Fire Services Department 27,196,000 B. 17 Ministry of Youth and Sports 13,517,000 B. 18 Ministry of Primary Industries 31,282,000 B. 19 Ministry of Agriculture 275,507,000 B. 20 Ministry of International Trade and 28,389,000 Industry B. 21 Ministry of Domestic Trade and 10,780,000 Consumer Affairs B. 22 Ministry of Culture, Arts and Tourism 34,826,000 B. 23 Department of the National Archives
 
 <!-- marginal: 2,683,000 -->
 
@@ -154,77 +110,19 @@ B. 24 National Museum
 
 <!-- marginal: 1,400,000 -->
 
-B. 25 Ministry of Defence
-
-<!-- marginal: 833,408,000 -->
-
-B. 26 Ministry of Education
-
-<!-- marginal: 1,850,507,000 -->
-
-B, 27 Department of National Library
+B. 25 Ministry of Defence 833,408,000 B. 26 Ministry of Education 1,850,507,000 B, 27 Department of National Library
 
 <!-- marginal: 2,219,000 -->
 
-B, 28 Treasury
-
-<!-- marginal: 35,242,000 -->
-
-B. 29 Treasury General Services
-
-<!-- marginal: 369,562,000 -->
-
-B. 30 Contribution to Statutory Funds
-
-<!-- marginal: 252,874,000 -->
-
-B. 31 Royal Customs and Excise Department
-
-<!-- marginal: 55,895,000 -->
-
-B. 32 Inland Revenue Department
-
-<!-- marginal: 36,107,000 -->
-
-B. 33 Ministry of Public Enterprises
-
-<!-- marginal: 55,501,000 -->
-
-B. 34 Ministry of Health
-
-<!-- marginal: 482,167,000 -->
-
-B. 35 Ministry of Home Affairs
-
-<!-- marginal: 32,304,000 -->
-
-B. 36 Royal Malaysia Police
-
-<!-- marginal: 414,910,000 -->
-
-B, 37 Immigration Department
-
-<!-- marginal: 20,245,000 -->
-
-B. 38 Registration of Societies Department
+B, 28 Treasury 35,242,000 B. 29 Treasury General Services 369,562,000 B. 30 Contribution to Statutory Funds 252,874,000 B. 31 Royal Customs and Excise Department 55,895,000 B. 32 Inland Revenue Department 36,107,000 B. 33 Ministry of Public Enterprises 55,501,000 B. 34 Ministry of Health 482,167,000 B. 35 Ministry of Home Affairs 32,304,000 B. 36 Royal Malaysia Police 414,910,000 B, 37 Immigration Department 20,245,000 B. 38 Registration of Societies Department
 
 <!-- marginal: 1,056,000 -->
 
-B. 39 National Registration Department
-
-<!-- marginal: 16,381,000 -->
-
-B. 40 Prisons Department
-
-<!-- marginal: 37,328,000 -->
-
-B. 41 Civil Defence Department
+B. 39 National Registration Department 16,381,000 B. 40 Prisons Department 37,328,000 B. 41 Civil Defence Department
 
 <!-- marginal: 1,000,000 -->
 
-B. 42 National Printing Department
-
-<!-- marginal: 11,167,000 -->
+B. 42 National Printing Department 11,167,000
 
 <!-- page 3 -->
 
@@ -302,14 +200,12 @@ Social Development B. 57 Department of National Unity
 
 <!-- marginal: 6,214,000 -->
 
-<!-- marginal: TOTAL -->
+## TOTAL
 
-<!-- marginal: 6,003,436,020 -->
+6,003,436,020
 
 ## EXPLANATORY STATEMENT
 
 As the Supply Bill for the year 1991 will not be passed by Parliament before 1st January 1991, it is necessary to make provision for expenditure in 1991 for the period from 1st January 1991 until the date the Supply Bill for that year becomes law and comes into force.
 
-This Bill, pursuant to Article 102 (a) of the Constitution, seeks to authorise expenditure of an amount not exceeding six thousand and three million four hundred and thirty six thousand and twenty ringgit ($6,003,436,020) to be issued from the Consolidated Fund for such purpose.
-
-<!-- marginal: [PN. (U2) 1644.] -->
+This Bill, pursuant to Article 102 (a) of the Constitution, seeks to authorise expenditure of an amount not exceeding six thousand and three million four hundred and thirty six thousand and twenty ringgit ($6,003,436,020) to be issued from the Consolidated Fund for such purpose. [PN. (U2) 1644.]

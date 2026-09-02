@@ -698,15 +698,7 @@ Beneficial Ownership
 
 (b) by substituting for paragraph (b) the following paragraph:
 
-“(b) a company which is approved or registered under
-
-## Part II, licensed or registered under Part III,
-
-approved under Part IIIa or recognised under
-
-## Part VIII of the Capital Markets and Services
-
-Act 2007; and”; and
+“(b) a company which is approved or registered under Part II, licensed or registered under Part III, approved under Part IIIa or recognised under Part VIII of the Capital Markets and Services Act 2007; and”; and
 
 (c) by inserting after paragraph (b) the following paragraph:
 
@@ -932,7 +924,7 @@ Protection for Essential Goods and Services
 
 <!-- page 41 -->
 
-“NiNth a Schedule
+## “NINTH A SCHEDULE
 
 [Subsection 430a(4)]
 

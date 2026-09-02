@@ -48,25 +48,43 @@ and with a paid-up capital of less than two million and five hundred thousand ri
 
 (2) In the event of any default in the payment of any levy due under subsection (1), the provisions of subsections 3(3) and (4) shall apply.".
 
-New section
+<!-- marginal: New section -->
 
-4. The principal Act is amended by inserting after 3B section 3A the following section:
+4. The principal Act is amended by inserting after
 
-"Interest 3B. An employer who fails to pay any levy due on levy within such period as may be prescribed, shall due but not paid be liable to pay interest thereon at the rate of in time. ten per centum per annum in respect of each day of default or delay in payment:
+<!-- marginal: 3B -->
+
+section 3A the following section:
+
+<!-- marginal: "Interest -->
+
+3B. An employer who fails to pay any levy due
+
+<!-- marginal: on levy -->
+
+within such period as may be prescribed, shall
+
+<!-- marginal: due but -->
+
+<!-- marginal: not paid -->
+
+be liable to pay interest thereon at the rate of
+
+<!-- marginal: in time. -->
+
+ten per centum per annum in respect of each day of default or delay in payment:
 
 Provided that—
 
 (a) if the amount of interest so calculated is less than five ringgit, the interest payable shall be five ringgit in respect of each month or part of a month of the default or delay in payment; or
 
-(b) if the amount of interest so calculated exceeds five ringgit, the
+(b) if the amount of interest so calculated exceeds five ringgit, the interest payable shall be calculated to the next highest ringgit in respect of each month or part of a month of the default or delay in payment.".
 
-<!-- marginal: interest -->
+<!-- marginal: Amendment -->
 
-payable shall be calculated to the next highest ringgit in respect of each month or part of a month of the default or delay in payment.".
+5. Section 6 of the principal Act is amended—
 
-Amendment
-
-5. Section 6 of the principal Act is amended— of section
+<!-- marginal: of section -->
 
 6.
 

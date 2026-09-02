@@ -16,7 +16,9 @@
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan mula berkuatkuasa. 2. Tafsiran.
+1. Tajuk ringkas dan mula berkuatkuasa.
+
+2. Tafsiran.
 
 ## BAHAGIAN
 
@@ -24,7 +26,9 @@ II
 
 ## PELETAKHAKAN HARTA, DSB., PADA SYARIKAT PENGGANTI
 
-3. Peletakhakan. 4. Pegangan permulaan Kerajaan dalam syarikat pengganti.
+3. Peletakhakan.
+
+4. Pegangan permulaan Kerajaan dalam syarikat pengganti.
 
 ## BAHAGIAN
 
@@ -194,6 +198,4 @@ pemindahan dan peletakhakan hak Kerajaan untuk mengawalselia perkara-perkara ber
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
-
-<!-- marginal: [PN. (U2) 1776.] -->
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN. (U2) 1776.]

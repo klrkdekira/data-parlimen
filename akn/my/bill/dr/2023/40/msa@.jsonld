@@ -118,7 +118,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/40/msa@/~cl_2",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (2)— “(d) untuk melawat mana-mana tempat tahanan, institusi dan tempat lain mengikut tatacara sebagaimana yang ditetapkan oleh undang-undang bertulis atau yang dinyatakan dalam garis panduan yang berhubungan dengan tempat tahanan, institusi dan tempat itu dan untuk membuat syor yang perlu;”; “(ea) berkenaan dengan kanak-kanak– (i) untuk menerima apa-apa komunikasi daripada kanak-kanak sama ada secara langsung atau melalui mana-mana orang atau pihak berkuasa yang berhubungan dengan aduan dan keperluan kanak-kanak itu dan untuk bertindak atas aduan dan keperluan itu; dan (ii) untuk mengadakan dan menerima pakai mekanisme dan tatacara dalam menggalakkan penyertaan ka nak -ka nak dal a m pe r ka r a yang berkenaan dengan mereka; dan”; dan"
+        "@value": "dalam subseksyen (2)—"
       }
     },
     {
@@ -128,7 +128,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/40/msa@/~cl_2__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perenggan (d) dengan perenggan yang berikut:"
+        "@value": "dengan menggantikan perenggan (d) dengan perenggan yang berikut: “(d) untuk melawat mana-mana tempat tahanan, institusi dan tempat lain mengikut tatacara sebagaimana yang ditetapkan oleh undang-undang bertulis atau yang dinyatakan dalam garis panduan yang berhubungan dengan tempat tahanan, institusi dan tempat itu dan untuk membuat syor yang perlu;”;"
       }
     },
     {
@@ -148,7 +148,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/40/msa@/~cl_2__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perenggan (e) perenggan yang berikut:"
+        "@value": "dengan memasukkan selepas perenggan (e) perenggan yang berikut: “(ea) berkenaan dengan kanak-kanak– (i) untuk menerima apa-apa komunikasi daripada kanak-kanak sama ada secara langsung atau melalui mana-mana orang atau pihak berkuasa yang berhubungan dengan aduan dan keperluan kanak-kanak itu dan untuk bertindak atas aduan dan keperluan itu; dan (ii) untuk mengadakan dan menerima pakai mekanisme dan tatacara dalam menggalakkan penyertaan ka nak -ka nak dal a m pe r ka r a yang berkenaan dengan mereka; dan”; dan"
       }
     },
     {

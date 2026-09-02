@@ -6,7 +6,7 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -14,13 +14,13 @@
 
 2. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## BULI
 
 3. Buli
 
-## Bahagian III
+## BAHAGIAN III
 
 ## INSTITUSI PENDIDIKAN DI BAWAH AKTA PENDIDIKAN 1996 [AKTA 550]
 
@@ -34,7 +34,7 @@
 
 8. Jawatankuasa berhubung dengan pencegahan dan pengurusan kes buli
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## INSTITUSI PENDIDIKAN DI BAWAH AKTA MAJLIS AMANAH RAKYAT 1966
 
@@ -52,7 +52,7 @@
 
 13. Jawatankuasa berhubung dengan pencegahan dan pengurusan kes buli
 
-## Bahagian V
+## BAHAGIAN V
 
 ## INSTITUSI PENDIDIKAN DI BAWAH KEMENTERIAN PERTAHANAN
 
@@ -66,7 +66,7 @@
 
 18. Jawatankuasa berhubung dengan pencegahan dan pengurusan kes buli
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## INSTITUSI DI BAWAH AKTA KANAK-KANAK 2001 [AKTA 611]
 
@@ -82,7 +82,7 @@
 
 24. Jawatankuasa berhubung dengan pencegahan dan pengurusan kes buli
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## TRIBUNAL BAGI ANTIBULI
 
@@ -132,7 +132,7 @@
 
 46. Mencabar award atas alasan ketidakteraturan yang serius
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## FUNGSI SURUHANJAYA HAK ASASI MANUSIA MALAYSIA DI BAWAH AKTA INI
 
@@ -142,7 +142,7 @@
 
 49. Pelaporan aktiviti yang berhubungan dengan fungsi Suruhanjaya di bawah Akta ini
 
-## Bahagian IX
+## BAHAGIAN IX
 
 AM
 
@@ -158,9 +158,9 @@ AM
 
 54. Peruntukan khas bagi laporan polis di bawah mana-mana undang-undang bertulis
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
-## Jadual Kedua
+## JADUAL KEDUA
 
 <!-- page 5 -->
 
@@ -170,7 +170,7 @@ Suatu Akta untuk mengadakan peruntukan mengenai mekanisme khusus untuk menangani
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -216,7 +216,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “Tribunal” ertinya Tribunal bagi Antibuli yang ditubuhkan di bawah Bahagian VII.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## BULI
 
@@ -238,7 +238,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 8 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## INSTITUSI PENDIDIKAN DI BAWAH AKTA PENDIDIKAN 1996
 
@@ -314,7 +314,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 11 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## INSTITUSI PENDIDIKAN DI BAWAH AKTA MAJLIS AMANAH
 
@@ -390,7 +390,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 14 -->
 
-## Bahagian V
+## BAHAGIAN V
 
 ## INSTITUSI PENDIDIKAN DI BAWAH KEMENTERIAN PERTAHANAN
 
@@ -460,7 +460,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (3) Walau apa pun perenggan (2)(c), jawatankuasa boleh, jika difikirkannya sesuai, merujuk aduan itu kepada Tribunal tertakluk kepada pengadu memberikan keizinan termaklum kepada rujukan itu.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## INSTITUSI DI BAWAH AKTA KANAK-KANAK 2001 [AKTA 611]
 
@@ -542,7 +542,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 20 -->
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## TRIBUNAL BAGI ANTIBULI
 
@@ -914,7 +914,7 @@ dan termasuklah apa-apa arahan tentang penjalanan prosiding itu, tetapi tidak te
 
 (b) ketidaktentuan atau ketaksaan mengenai kesan award itu.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## FUNGSI SURUHANJAYA HAK ASASI MANUSIA MALAYSIA
 
@@ -960,7 +960,7 @@ dan termasuklah apa-apa arahan tentang penjalanan prosiding itu, tetapi tidak te
 
 <!-- page 37 -->
 
-## Bahagian IX
+## BAHAGIAN IX
 
 AM
 
@@ -1022,7 +1022,7 @@ dalam Warta, meminda Jadual kepada Akta ini.
 
 54. Walau apa pun suatu aduan buli yang dibuat di bawah Akta ini, seorang pengadu tidak terhalang daripada membuat suatu laporan polis bagi apa-apa kesalahan yang berhubungan dengan buli di bawah mana-mana undang-undang bertulis.
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
 [Seksyen 2]
 
@@ -1046,7 +1046,7 @@ Dalam Jadual ini—
 
 <!-- page 40 -->
 
-## Jadual Kedua
+## JADUAL KEDUA
 
 [Seksyen 2]
 
@@ -1066,17 +1066,7 @@ Dalam Jadual ini—
 
 “tempat selamat” mempunyai erti yang diberikan kepadanya dalam Akta Kanak-Kanak 2001;
 
-(1) (2) Bil. Institusi
-
-1. Tempat selamat
-
-2. Asrama akhlak
-
-3. Sekolah diluluskan
-
-4. Tempat perlindungan
-
-5. Sekolah Henry Gurney
+(1) (2) Bil. Institusi 1. Tempat selamat 2. Asrama akhlak 3. Sekolah diluluskan 4. Tempat perlindungan 5. Sekolah Henry Gurney
 
 ## HURAIAN
 
@@ -1084,7 +1074,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 <!-- page 41 -->
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan memperkatakan perkara permulaan.
 
@@ -1092,13 +1082,13 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 4. Fasal 2 mengandungi takrif perkataan dan ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 5. Bahagian II Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan takrif buli dan perkara yang berkaitan.
 
 6. Fasal 3 bertujuan untuk mengadakan peruntukan bagi takrif buli dan kategori khusus buli di bawah takrif itu.
 
-## Bahagian III
+## BAHAGIAN III
 
 7. Bahagian III Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan institusi pendidikan di bawah Akta Pendidikan 1996 [Akta 550] yang terdiri daripada takrif Menteri, kuasa Menteri dan kewajipan institusi pendidikan di bawah Bahagian ini.
 
@@ -1114,7 +1104,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 <!-- page 42 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 13. Bahagian IV Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan institusi pendidikan di bawah Akta Majlis Amanah Rakyat 1966 [No. 20 tahun 1966] yang terdiri daripada takrif Majlis, kuasa Majlis dan kewajipan institusi pendidikan di bawah Bahagian ini.
 
@@ -1128,7 +1118,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 18. Fasal 13 bertujuan untuk mengadakan peruntukan bagi penubuhan suatu jawatankuasa berhubung dengan pencegahan dan pengurusan kes buli di tiap-tiap institusi pendidikan.
 
-## Bahagian V
+## BAHAGIAN V
 
 19. Bahagian V Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan institusi pendidikan yang ditubuhkan oleh Kementerian Pertahanan yang terdiri daripada takrif Menteri, kuasa Menteri dan kewajipan institusi pendidikan di bawah Bahagian ini.
 
@@ -1144,7 +1134,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 24. Fasal 18 bertujuan untuk mengadakan peruntukan bagi penubuhan suatu jawatankuasa berhubung dengan pencegahan dan pengurusan kes buli di tiap-tiap institusi pendidikan.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 25. Bahagian VI Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan institusi di bawah Akta Kanak-Kanak 2001 [Akta 611] yang terdiri daripada takrif Menteri, kuasa Menteri, penentuan Menteri yang bertanggungjawab bagi institusi yang berkaitan di bawah Bahagian ini dan kewajipan institusi di bawah Bahagian ini.
 
@@ -1162,7 +1152,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 <!-- page 44 -->
 
-## Bahagian VII
+## BAHAGIAN VII
 
 32. Bahagian VII Akta yang dicadangkan memperkatakan Tribunal bagi Antibuli dan perkara lain yang berkaitan.
 
@@ -1258,7 +1248,7 @@ Subfasal 43(4) bertujuan untuk memperuntukkan bahawa Tribunal boleh menolak sesu
 
 54. Fasal 46 bertujuan untuk memperuntukkan bahawa mana-mana pihak kepada prosiding Tribunal boleh memohon kepada Mahkamah Tinggi untuk mencabar suatu award dalam prosiding itu hanya atas alasan ketidakteraturan yang serius yang menjejaskan award itu. Jika terdapat ketidakteraturan yang serius yang menjejaskan award itu, Mahkamah Tinggi boleh mengembalikan award itu secara keseluruhan atau sebahagian kepada Tribunal untuk pertimbangan semula atau mengetepikan award itu secara keseluruhan atau sebahagian.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 55. Bahagian VIII Akta yang dicadangkan memperkatakan fungsi Suruhanjaya Hak Asasi Manusia Malaysia di bawah Akta yang dicadangkan dan perkara yang berkaitan dengannya.
 
@@ -1270,7 +1260,7 @@ Subfasal 43(4) bertujuan untuk memperuntukkan bahawa Tribunal boleh menolak sesu
 
 58. Fasal 49 bertujuan untuk memperuntukkan bahawa Suruhanjaya hendaklah mengadakan dalam laporan tahunannya kepada Parlimen, suatu pelaporan semua aktivitinya yang berhubungan dengan pencegahan dan pengurusan kes buli di institusi pendidikan dan institusi sepanjang tahun yang berkaitan dengan laporan itu, menurut seksyen 21 Akta Suruhanjaya Hak Asasi Manusia Malaysia 1999 [Akta 597].
 
-## Bahagian IX
+## BAHAGIAN IX
 
 59. Bahagian IX Akta yang dicadangkan mengandungi peruntukan am.
 

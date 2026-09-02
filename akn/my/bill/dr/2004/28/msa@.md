@@ -20,7 +20,23 @@
 
 ## PIHAK BERKUASA KEBANGSAAN
 
-6. Pihak Berkuasa Kebangsaan 7. Fungsi dan kuasa Pihak Berkuasa Kebangsaan 8. Jawatankuasa Pihak Berkuasa Kebangsaan 9. Pewakilan fungsi dan kuasa 10. Kuasa Menteri untuk mengeluarkan arahan 11. Pengerusi Pihak Berkuasa Kebangsaan 12. Pengerusi sementara 13. Mesyuarat Pihak Berkuasa Kebangsaan 14. Pihak Berkuasa Kebangsaan boleh mengundang orang lain menghadiri mesyuarat 15. Setiausaha kepada Pihak Berkuasa Kebangsaan 16. Penyediaan kemudahan oleh Kementerian 17. Kaedah-kaedah untuk mengawal selia mesyuarat dan presiding
+6. Pihak Berkuasa Kebangsaan 7. Fungsi dan kuasa Pihak Berkuasa Kebangsaan 8. Jawatankuasa Pihak Berkuasa Kebangsaan 9. Pewakilan fungsi dan kuasa
+
+10. Kuasa Menteri untuk mengeluarkan arahan
+
+11. Pengerusi Pihak Berkuasa Kebangsaan
+
+12. Pengerusi sementara
+
+13. Mesyuarat Pihak Berkuasa Kebangsaan
+
+14. Pihak Berkuasa Kebangsaan boleh mengundang orang lain menghadiri mesyuarat
+
+15. Setiausaha kepada Pihak Berkuasa Kebangsaan
+
+16. Penyediaan kemudahan oleh Kementerian
+
+17. Kaedah-kaedah untuk mengawal selia mesyuarat dan presiding
 
 <!-- page 2 -->
 
@@ -88,25 +104,59 @@ Konvensyen Senjata Kimia
 
 ## Bab 4 - Rejim Bagi Bahan Kimia Organik Diskrel
 
-36. Perisytiharan 37. Penyenggaraan dokumen dan daftar
+36. Perisytiharan
+
+37. Penyenggaraan dokumen dan daftar
 
 ## BAHAGIAN V
 
 ## PEMERIKSAAN ANTARABANGSA
 
-38. Inspektor Antarabangsa 39. Pemeriksaan 40. Kuasa anggota Pihak Berkuasa Kebangsaan berhubung dengan pemeriksaan oleh Inspektor Antarabangsa 41. Waran bagi pemeriksaan 42. Menggunakan kekerasan
+38. Inspektor Antarabangsa
+
+39. Pemeriksaan
+
+40. Kuasa anggota Pihak Berkuasa Kebangsaan berhubung dengan pemeriksaan oleh Inspektor Antarabangsa
+
+41. Waran bagi pemeriksaan
+
+42. Menggunakan kekerasan
 
 ## BAHAGIAN VI
 
 ## PENGUATKUASAAN
 
-43. Kuasa penguatkuasaan 44. Kuasa penyiasatan 45. Penggeledahan dan penyitaan tanpa waran 46. Akses kepada data berkomputer 47. Pelucuthakan senjata kimia, dsb. 48. Kos memegang senjata kimia, dsb., yang disita 49. Tiada kos atau ganti rugi berbangkit daripada penyitaan boleh didapatkan 50. Perlindungan pemberi maklumat
+43. Kuasa penguatkuasaan
+
+44. Kuasa penyiasatan
+
+45. Penggeledahan dan penyitaan tanpa waran
+
+46. Akses kepada data berkomputer
+
+47. Pelucuthakan senjata kimia, dsb.
+
+48. Kos memegang senjata kimia, dsb., yang disita
+
+49. Tiada kos atau ganti rugi berbangkit daripada penyitaan boleh didapatkan
+
+50. Perlindungan pemberi maklumat
 
 ## BAHAGIAN VII
 
 ## PELBAGA1
 
-51. Notis bagi pendedahan maklumat 52. Keistimewaan dan kerahsiaan maklumat 53. Perlindungan pegawai 54. Pemulaan pendakwaan 55. Halangan 56. Kesalahan berkenaan dengan maklumat
+51. Notis bagi pendedahan maklumat
+
+52. Keistimewaan dan kerahsiaan maklumat
+
+53. Perlindungan pegawai
+
+54. Pemulaan pendakwaan
+
+55. Halangan
+
+56. Kesalahan berkenaan dengan maklumat
 
 <!-- page 4 -->
 
@@ -1324,51 +1374,19 @@ Soman: O-Pinakolil metilfosfonofluoridat
 
 <!-- marginal: (77-81-6) -->
 
-3. O-Alkil (H atau <C10) termasuk sikloalkil) S-2-dialkii (Me, Et, n-Pr atau i-Pr)- aminoetil alkil (Me, Et, n-Pr atau i-Pr) fosfonothiolat dan garam beralkil atau berproton yang bersamaan O-Etil S-2-diisopropilaminoetil misalnya VX:
+3. O-Alkil (H atau <C10) termasuk sikloalkil) S-2-dialkii (Me, Et, n-Pr atau i-Pr)- aminoetil alkil (Me, Et, n-Pr atau i-Pr) fosfonothiolat dan garam beralkil atau berproton yang bersamaan O-Etil S-2-diisopropilaminoetil misalnya VX: (50782-69-9) metil fosfonothiolat
 
-<!-- marginal: (50782-69-9) -->
-
-metil fosfonothiolat 4. Mustard sulfur
-
-<!-- marginal: (2625-76-5) -->
-
-2-Kloroetilklorometilsulfida
+4. Mustard sulfur (2625-76-5) 2-Kloroetilklorometilsulfida
 
 <!-- marginal: (505-60-2) -->
 
-Gas mustard: Bis(2-kloroetil)sulfida
-
-<!-- marginal: (63869-13-6) -->
-
-Bis(2-kloroetilthio)metana
-
-<!-- marginal: (3563-36-8) -->
-
-Seskuimustard: 1, 2 Bis(2-kloroetilthio)etana
-
-<!-- marginal: (63905-10-2) -->
-
-.,3- Bis(2-kloroetilthio)-n-propana (142868-93-7) .,4- Bis(2-kloroetilthio)-n-butana (142868-94-8) .,5- Bis(2-kloroeiilthio)-n-pentana
-
-<!-- marginal: (63918-90-1) -->
-
-Bis(2-kloroeti1thiometil)eter
-
-<!-- marginal: (63918-89-8) -->
-
-O-Mustard: Bis(2-kloroetilthioetil)eter
+Gas mustard: Bis(2-kloroetil)sulfida (63869-13-6) Bis(2-kloroetilthio)metana (3563-36-8) Seskuimustard: 1, 2 Bis(2-kloroetilthio)etana (63905-10-2) .,3- Bis(2-kloroetilthio)-n-propana (142868-93-7) .,4- Bis(2-kloroetilthio)-n-butana (142868-94-8) .,5- Bis(2-kloroeiilthio)-n-pentana (63918-90-1) Bis(2-kloroeti1thiometil)eter (63918-89-8) O-Mustard: Bis(2-kloroetilthioetil)eter
 
 Lewisites Lewisite 1: 2-Klorovinildikloroarsin
 
 <!-- marginal: (541-25-3) -->
 
-Lewisite 2: Bis(2-klorovinil)kloroarsin
-
-<!-- marginal: (40334-69-8) -->
-
-Lewisite 3: Tris(2-klorovinil)arsin
-
-<!-- marginal: (40334-70-1) -->
+Lewisite 2: Bis(2-klorovinil)kloroarsin (40334-69-8) Lewisite 3: Tris(2-klorovinil)arsin (40334-70-1)
 
 <!-- page 43 -->
 
@@ -1416,35 +1434,19 @@ Konvensyen Senjata Kimia
 
 44 Rang Undang-Undang
 
-(nombor pendaftaran bahan kimia) 5. N,N- Dialkil (Me, Et, n-Pr atau i-Pr) fosforamidik dihalida 6. Dialkil (Me, Et, n-Pr atau i-Pr) N,N-dialkil (Me, Et, n-Pr atau i-Pr)-fosforamidat
-
-<!-- marginal: (7784-34-1) -->
-
-7. Arsenik triklorida
+(nombor pendaftaran bahan kimia) 5. N,N- Dialkil (Me, Et, n-Pr atau i-Pr) fosforamidik dihalida 6. Dialkil (Me, Et, n-Pr atau i-Pr) N,N-dialkil (Me, Et, n-Pr atau i-Pr)-fosforamidat (7784-34-1) 7. Arsenik triklorida
 
 <!-- marginal: (76-93-7) -->
 
-8. Asid 2,2-Difenil-2-hidroksiasetik
+8. Asid 2,2-Difenil-2-hidroksiasetik (1619-34-7) 9. Kuinuklidin-3-ol
 
-<!-- marginal: (1619-34-7) -->
+10. N,N-Dialkil (Me, Et, n-Pr atau i-Pr) aminoetil-2-klorida dan garam berproton yang bersamaan
 
-9. Kuinuklidin-3-ol
+11. N,N-Dialki1 (Me, Et, n-Pr atau i-Pr) aminoetana-2-ol dan garam berproton yang bersamaan (108-01-0) Pengecualian: N, N-Dimetilaminoetanol dan garam berproton yang bersamaan N, (100-37-8) N-Dietilaminoetanol dan garam berproton yang bersamaan
 
-10. N,N-Dialkil (Me, Et, n-Pr atau i-Pr) aminoetil-2-klorida dan garam berproton yang bersamaan 11. N,N-Dialki1 (Me, Et, n-Pr atau i-Pr) aminoetana-2-ol dan garam berproton yang bersamaan
+12. N,N-Dialkil (Me, Et, n-Pr atau i-Pr) aminoetana-2-thiol dan garam berproton yang bersamaan (111-48-8)
 
-<!-- marginal: (108-01-0) -->
-
-Pengecualian: N, N-Dimetilaminoetanol dan garam berproton yang bersamaan N,
-
-<!-- marginal: (100-37-8) -->
-
-N-Dietilaminoetanol dan garam berproton yang bersamaan 12. N,N-Dialkil (Me, Et, n-Pr atau i-Pr) aminoetana-2-thiol dan garam berproton yang bersamaan
-
-<!-- marginal: (111-48-8) -->
-
-13. Thiodiglikol: Bis(2-hidroksietil)sulfida
-
-<!-- marginal: (464-07-3) -->
+13. Thiodiglikol: Bis(2-hidroksietil)sulfida (464-07-3)
 
 14. Pinakolil alkohol: 3,3-Dimetilbutan-2-ol
 
@@ -1458,9 +1460,7 @@ N-Dietilaminoetanol dan garam berproton yang bersamaan 12. N,N-Dialkil (Me, Et, 
 
 <!-- marginal: (75-44-5) -->
 
-1. Fosgena: Karbonil diklorida
-
-<!-- marginal: (506-77-4) -->
+1. Fosgena: Karbonil diklorida (506-77-4)
 
 2. Sianogen klorida
 
@@ -1474,23 +1474,15 @@ N-Dietilaminoetanol dan garam berproton yang bersamaan 12. N,N-Dialkil (Me, Et, 
 
 ### B. Prekursor:
 
-<!-- marginal: (10025-87-3) -->
+(10025-87-3)
 
-5. Fosforus oksiklorida
+5. Fosforus oksiklorida (7719-12-2)
 
-<!-- marginal: (7719-12-2) -->
+6. Fosforus triklorida (10026-13-8)
 
-6. Fosforus triklorida
+7. Fosforus pentaklorida (121-45-9)
 
-<!-- marginal: (10026-13-8) -->
-
-7. Fosforus pentaklorida
-
-<!-- marginal: (121-45-9) -->
-
-8. Trimetil fosfit
-
-<!-- marginal: (122-52-1) -->
+8. Trimetil fosfit (122-52-1)
 
 9. Trietil fosfit
 
@@ -1608,7 +1600,7 @@ Fasal 51 hingga 62 memperkatakan perkara-perkara yang berkaitan dengan notis bag
 
 Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini.
 
-[PN(U2)1985]
+<!-- marginal: [PN(U2)1985] -->
 
 <!-- page 48 -->
 
@@ -2332,7 +2324,9 @@ Chemical Weapons Convention
 
 (2) Pending the decision of the National Authority on the application under subsection (1), the applicant shall be deemed to be authorized under this Act and no action shall be taken against him for engaging in such activity without an authorization.
 
-(3) Where an authorization is issued by the National Authority under section 24 pursuant to an application made under subsection (1), the applicant shall immediately take the necessary action to comply with any conditions imposed with the authorization.
+(3) Where an authorization is issued by the National Authority under section 24 pursuant to an application made under subsection
+
+(1), the applicant shall immediately take the necessary action to comply with any conditions imposed with the authorization.
 
 (4) Where the authorization is refused by the National Authority under section 24, the applicant referred to in subsection (2) shall cease to be deemed to be authorized under that subsection from the date he is notified of the decision of the National Authority or, if there is an appeal under section 27, the date of the decision of the Minister on that appeal.
 
@@ -2978,13 +2972,7 @@ if) to prescribe the fees to be paid under this Act and the manner for collectin
 
 ### A. Toxic chemicals (not including their precursors):
 
-1. O-Alkyl (<C]0 incl. cycloalkyl) alkyl (Me, Et, n-Pr or i-Pr)- phosphonofluoridates e.g. Sarin: O-Isopropyl methylphosphonofluoridate
-
-<!-- marginal: (107-44-88) -->
-
-Soman: O-Pinacolyl methylphosphonofluoridate
-
-<!-- marginal: (96-64-0) -->
+1. O-Alkyl (<C]0 incl. cycloalkyl) alkyl (Me, Et, n-Pr or i-Pr)- phosphonofluoridates e.g. Sarin: O-Isopropyl methylphosphonofluoridate (107-44-88) Soman: O-Pinacolyl methylphosphonofluoridate (96-64-0)
 
 <!-- page 86 -->
 
@@ -2994,9 +2982,23 @@ Chemical Weapons Convention
 
 (Chemical Abstract Service registry number)
 
-2. O-Alkyl (<Ci0, incl. cycloalkyl) N,N-diaIkyl (Me, Et, n-Pr or i-Pr) phosphoramidocyanidates e.g. Tabun: O-Ethyl N,N-dimethyl phosphoramidocyanidate (77-81-6) 3. O-Alkyl (H or <Cio, incl. cycloalkyl) S-2-dialkyl (Me, Et, n-Pr or i-Pr)- aminoethyl alkyl (Me, Et, n-Pr or i-Pr) phosphonothiolates and corresponding alkylated or protonated salts e.g. VX: O-Ethyl S-2-diisopropyIaminoethyl (50782-69-9) methyl phosphonothiolate 4. Sulfur mustards 2-Chloroethylchloromethylsulfide (2625-76-5) Mustard gas: Bis(2-chloroethyl)sulfide (505-60-2) Bis(2-chloroethylthio)methane (63869-13-6) Sesquimustard: 1, 2 Bis(2-chloroethylthio)ethane (3563-36-8) .,3- Bis(2-chloroethylthio)-n-propane (63905-10-2) .,4- Bis(2-chloroethylthio)-n-butane (142868-93-7) .,5- Bis(2-chloroethylthio)-n-pentane (142868-94-8) Bis(2-chloroethylthiomethyl)ether (63918-90-1) O-Mustard: Bis(2-chloroethylthioethyl)ether (63918-89-8) 5. Lewisites Lewisite 1: 2-Chlorovinyidichioroarsine (541-25-3) Lewisite 2: Bis(2-chlorovinyl)chloroarsine (40334-69-8) Lewisite 3: Tris(2-chloroviny])arsine (40334-70-1) 6. Nitrogen mustards HNI: Bis(2-chloroethyl)ethylamine (538-07-8) HN2: Bis(2-chloroethyl)methylamine (51-75-2) HN3: Tris(2-chloroethyl)amine (555-77-1) 7. Saxitoxin (35523-89-8) 8. Ricin (9009-86-3)
+2. O-Alkyl (<Ci0, incl. cycloalkyl) N,N-diaIkyl (Me, Et, n-Pr or i-Pr) phosphoramidocyanidates e.g. Tabun: O-Ethyl N,N-dimethyl phosphoramidocyanidate (77-81-6)
 
-B. Precursors: 9. Alkyl (Me, Et, n-Pr or i-Pr) phosphonyldifluorides (676-99-3) e.g. DF: Methylphosphonyldifluoride
+3. O-Alkyl (H or <Cio, incl. cycloalkyl) S-2-dialkyl (Me, Et, n-Pr or i-Pr)- aminoethyl alkyl (Me, Et, n-Pr or i-Pr) phosphonothiolates and corresponding alkylated or protonated salts e.g. VX: O-Ethyl S-2-diisopropyIaminoethyl (50782-69-9) methyl phosphonothiolate
+
+4. Sulfur mustards 2-Chloroethylchloromethylsulfide (2625-76-5) Mustard gas: Bis(2-chloroethyl)sulfide (505-60-2) Bis(2-chloroethylthio)methane (63869-13-6) Sesquimustard: 1, 2 Bis(2-chloroethylthio)ethane (3563-36-8) .,3- Bis(2-chloroethylthio)-n-propane (63905-10-2) .,4- Bis(2-chloroethylthio)-n-butane (142868-93-7) .,5- Bis(2-chloroethylthio)-n-pentane (142868-94-8) Bis(2-chloroethylthiomethyl)ether (63918-90-1) O-Mustard: Bis(2-chloroethylthioethyl)ether (63918-89-8)
+
+5. Lewisites Lewisite 1: 2-Chlorovinyidichioroarsine (541-25-3) Lewisite 2: Bis(2-chlorovinyl)chloroarsine (40334-69-8) Lewisite 3: Tris(2-chloroviny])arsine (40334-70-1)
+
+6. Nitrogen mustards HNI: Bis(2-chloroethyl)ethylamine (538-07-8) HN2: Bis(2-chloroethyl)methylamine (51-75-2) HN3: Tris(2-chloroethyl)amine (555-77-1)
+
+7. Saxitoxin (35523-89-8)
+
+8. Ricin (9009-86-3)
+
+B. Precursors:
+
+9. Alkyl (Me, Et, n-Pr or i-Pr) phosphonyldifluorides (676-99-3) e.g. DF: Methylphosphonyldifluoride
 
 10. O-Alkyl (H or <C]()t incl. cycloalkyl) 0-2-dialkyl (Me, Et, n-Pr or i-Pr)- aminoethyl alkyl (Me, Et, n-Pr or i-Pr)- phosphonites and corresponding alkylated or protonated salts (57856-11-8) e.g. QL: O-Ethyt 0-2-diisopropylaminoethyl methylphosphonite (1445-76-7)
 
@@ -3022,55 +3024,23 @@ B. Precursors: 9. Alkyl (Me, Et, n-Pr or i-Pr) phosphonyldifluorides (676-99-3) 
 
 <!-- marginal: (78-53-5) -->
 
-and corresponding alkylaled or protonated salts 2. PFIB: l,l,3,3,3-Pentafluoro-2-(trifluoromethyl)-l-propene
+and corresponding alkylaled or protonated salts 2. PFIB: l,l,3,3,3-Pentafluoro-2-(trifluoromethyl)-l-propene (382-21-8)
 
-<!-- marginal: (382-21-8) -->
-
-3. BZ: 3-Quinuclidinyl benzilate (*)
-
-<!-- marginal: (6581-06-2) -->
-
-B.Precursors: 4. Chemicals, except for those listed in Schedule 1, containing a phosphorus atom to which is bonded one methyl, ethyl or propyl (normal or iso) group but not further carbon atoms, e.g. Methylphosphonyl dichloride
-
-<!-- marginal: (676-97-1) -->
-
-Dimethyl methylphosphonate
-
-<!-- marginal: (756-79-6) -->
-
-Exemption: Fonofos: O-Ethyl S-phenyl ethylphosphonothiolothionate
-
-<!-- marginal: (944-22-9) -->
-
-5. N,N- Dialkyl (Me, Et, n-Pr or i-Pr) phosphoramidic dihalides 6. Dialkyl (Me, Et, n-Pr or i-Pr) N,N-dialkyl (Me, Et, n-Pr or i-Pr)-phosphoramidates 7. Arsenic trichloride
-
-<!-- marginal: (7784-34-1) -->
-
-8. 2,2-Diphenyl-2-hydroxyacetic acid
+3. BZ: 3-Quinuclidinyl benzilate (*) (6581-06-2) B.Precursors: 4. Chemicals, except for those listed in Schedule 1, containing a phosphorus atom to which is bonded one methyl, ethyl or propyl (normal or iso) group but not further carbon atoms, e.g. Methylphosphonyl dichloride (676-97-1) Dimethyl methylphosphonate (756-79-6) Exemption: Fonofos: O-Ethyl S-phenyl ethylphosphonothiolothionate (944-22-9) 5. N,N- Dialkyl (Me, Et, n-Pr or i-Pr) phosphoramidic dihalides 6. Dialkyl (Me, Et, n-Pr or i-Pr) N,N-dialkyl (Me, Et, n-Pr or i-Pr)-phosphoramidates 7. Arsenic trichloride (7784-34-1) 8. 2,2-Diphenyl-2-hydroxyacetic acid
 
 <!-- marginal: (76-93-7) -->
 
-9. Quinuclidin-3-ol
-
-<!-- marginal: (1619-34-7) -->
+9. Quinuclidin-3-ol (1619-34-7)
 
 10. N,N-Dialkyl (Me, Et, n-Pr or i-Pr) aminoethyl-2-chlorides and corresponding protonated salts
 
-11. N,N-Dialkyl (Me, Et, n-Pr or i-Pr) aminoethane-2-ols and corresponding protonated salts Exemption: N,N-Dimethylaminoethano! and
+11. N,N-Dialkyl (Me, Et, n-Pr or i-Pr) aminoethane-2-ols and corresponding protonated salts Exemption: N,N-Dimethylaminoethano! and (108-01-0) corresponding protonated salts N,N-Diethylaminoethanol and (100-37-8) corresponding protonated salts
 
-<!-- marginal: (108-01-0) -->
+12. N,N-Dialkyl (Me, Et, n-Pr or i-Pr) aminoethane 2-thiols and corresponding protonated salts
 
-corresponding protonated salts N,N-Diethylaminoethanol and
+13. Thiodiglycol: Bis(2-hydroxyethyl)su!fide (111-48-8)
 
-<!-- marginal: (100-37-8) -->
-
-corresponding protonated salts 12. N,N-Dialkyl (Me, Et, n-Pr or i-Pr) aminoethane 2-thiols and corresponding protonated salts 13. Thiodiglycol: Bis(2-hydroxyethyl)su!fide
-
-<!-- marginal: (111-48-8) -->
-
-14. Pinacolyi alcohol: 3,3-Dimethylbutan-2-ol
-
-<!-- marginal: (464-07-3) -->
+14. Pinacolyi alcohol: 3,3-Dimethylbutan-2-ol (464-07-3)
 
 <!-- page 88 -->
 
@@ -3086,41 +3056,15 @@ Chemical Weapons Convention
 
 ### A. Toxic chemicals (not including their precursors):
 
-1. Phosgene: Carbonyl dichloride (75-44-5)
+1. Phosgene: Carbonyl dichloride (75-44-5) 2. Cyanogen chloride (506-77-4) 3. Hydrogen cyanide (74-90-8)
 
-2. Cyanogen chloride (506-77-4)
-
-3. Hydrogen cyanide (74-90-8) (76-06-2)
+<!-- marginal: (76-06-2) -->
 
 4. Chloropicrin: Trichloronitromethane
 
 ### B. Precursors:
 
-(10025-87-3)
-
-5. Phosphorus oxychloride (7719-12-2)
-
-6. Phosphorus trichloride (10026-13-8)
-
-7. Phosphorus pentachloride (121-45-9)
-
-8. Trimethy! phosphite (122-52-1) 9- Triethyl phosphite (868-85-9)
-
-10. Dimethyl phosphite (762-04-9)
-
-11. Diethyl phosphite (10025-67-9)
-
-12. Sulfur monochloride (10545-99-0)
-
-13. Sulfur dichloride (7719-09-7)
-
-14. Thionyl chloride (139-87-7)
-
-15. Ethyldiethanolamine (105-59-9)
-
-16. Methyldiethanolamine (102-71-6)
-
-17. Triethanolamine
+(10025-87-3) 5. Phosphorus oxychloride (7719-12-2) 6. Phosphorus trichloride (10026-13-8) 7. Phosphorus pentachloride (121-45-9) 8. Trimethy! phosphite (122-52-1) 9- Triethyl phosphite (868-85-9) 10. Dimethyl phosphite (762-04-9) 11. Diethyl phosphite (10025-67-9) 12. Sulfur monochloride (10545-99-0) 13. Sulfur dichloride (7719-09-7) 14. Thionyl chloride (139-87-7) 15. Ethyldiethanolamine (105-59-9) 16. Methyldiethanolamine (102-71-6) 17. Triethanolamine
 
 ## EXPLANATORY STATEMENT
 
@@ -3128,7 +3072,7 @@ This Bill seeks to implement the Convention on the Prohibition of the Developmen
 
 ## PART I 2.
 
-## Part I contains preliminary matters.
+Part I contains preliminary matters.
 
 Clause 1 contains the short title and seeks to allow the Minister to appoint the date of commencement of the Act.
 
@@ -3212,4 +3156,6 @@ Clauses 51 to 62 deal with matters pertaining to notice for disclosure of inform
 
 ## FINANCIAL IMPLICATIONS
 
-This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained. [PN(Ua)1985]
+This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
+
+<!-- marginal: [PN(Ua)1985] -->

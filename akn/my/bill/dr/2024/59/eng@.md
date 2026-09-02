@@ -4,25 +4,35 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Application 3. Territorial and extra-territorial application 4. Interpretation
 
-## Part II
+## PART II
 
 ## ONLINE SAFETY COMMITTEE
 
-5. Establishment of Committee 6. Allowances for members of Committee 7. Revocation of appointment and resignation of members of Committee 8. Vacation of office of members of Committee 9. Temporary exercise of functions of Chairman 10. Functions of Committee 11. Meetings of Committee 12. Committee may invite others to attend meetings
+5. Establishment of Committee 6. Allowances for members of Committee 7. Revocation of appointment and resignation of members of Committee 8. Vacation of office of members of Committee 9. Temporary exercise of functions of Chairman
 
-## Part III
+10. Functions of Committee
+
+11. Meetings of Committee
+
+12. Committee may invite others to attend meetings
+
+## PART III
 
 ## DUTIES OF LICENSED APPLICATIONS SERVICE PROVIDER
 
 ## AND LICENSED CONTENT APPLICATIONS SERVICE PROVIDER
 
-13. Duty to implement measures to mitigate risk of exposure to harmful content 14. Duty to issue guidelines to user 15. Duty to enable user to manage online safety
+13. Duty to implement measures to mitigate risk of exposure to harmful content
+
+14. Duty to issue guidelines to user
+
+15. Duty to enable user to manage online safety
 
 16. Duty to make available mechanism for reporting harmful content
 
@@ -36,7 +46,7 @@
 
 20. Duty to prepare Online Safety Plan
 
-## Part IV
+## PART IV
 
 ## REPORTING OF HARMFUL CONTENT
 
@@ -58,7 +68,7 @@
 
 29. Notification to user on report to enforcement agency
 
-## Part V
+## PART V
 
 ## POWERS OF THE COMMISSION
 
@@ -80,19 +90,53 @@
 
 ## UNDERTAKING AND NOTICE OF NON-COMPLIANCE
 
-36. Undertaking by licensed applications service provider and licensed content applications service provider 37. Notice of non-compliance 38. Review by Commission 39. Financial penalty for non-compliance of duties
+36. Undertaking by licensed applications service provider and licensed content applications service provider
 
-## Part VII
+37. Notice of non-compliance
+
+38. Review by Commission
+
+39. Financial penalty for non-compliance of duties
+
+## PART VII
 
 ## ONLINE SAFETY APPEAL TRIBUNAL
 
-40. Establishment of Online Safety Appeal Tribunal 41. Appeal to Online Safety Appeal Tribunal 42. Revocation of appointment and resignation of members of Online Safety Appeal Tribunal 43. Vacation of office of members of Online Safety Appeal Tribunal 44. Allowances for members of Online Safety Appeal Tribunal 45. Quorum of Online Safety Appeal Tribunal 46. Decision of Online Safety Appeal Tribunal 47. Enforcement of decision of Online Safety Appeal Tribunal 48. Powers of Online Safety Appeal Tribunal 49. Suspension of members of Online Safety Appeal Tribunal 50. Disclosure of interest 51. Secretary to Online Safety Appeal Tribunal
+40. Establishment of Online Safety Appeal Tribunal
+
+41. Appeal to Online Safety Appeal Tribunal
+
+42. Revocation of appointment and resignation of members of Online Safety Appeal Tribunal
+
+43. Vacation of office of members of Online Safety Appeal Tribunal
+
+44. Allowances for members of Online Safety Appeal Tribunal
+
+45. Quorum of Online Safety Appeal Tribunal
+
+46. Decision of Online Safety Appeal Tribunal
+
+47. Enforcement of decision of Online Safety Appeal Tribunal
+
+48. Powers of Online Safety Appeal Tribunal
+
+49. Suspension of members of Online Safety Appeal Tribunal
+
+50. Disclosure of interest
+
+51. Secretary to Online Safety Appeal Tribunal
 
 ## Part VIII
 
 ## ENFORCEMENT
 
-52. Authorization of public officer or officer of Commission 53. Power to investigate 54. Search and seizure with warrant 55. Search and seizure without warrant
+52. Authorization of public officer or officer of Commission
+
+53. Power to investigate
+
+54. Search and seizure with warrant
+
+55. Search and seizure without warrant
 
 <!-- page 4 -->
 
@@ -122,7 +166,7 @@
 
 68. Jurisdiction to try offence
 
-## Part IX
+## PART IX
 
 ## MISCELLANEOUS
 
@@ -158,9 +202,9 @@
 
 83. Power to specify form and manner of submission 84. Service or notification of written instruction, etc.
 
-## First schedule
+## FIRST SCHEDULE
 
-## second schedule
+## SECOND SCHEDULE
 
 <!-- page 7 -->
 
@@ -172,7 +216,7 @@ An Act to enhance and promote online safety in Malaysia by regulating harmful co
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -266,7 +310,7 @@ is taken to be a place within the geographical limits of Malaysia and her territ
 
 “Commission” means the Malaysian Communications and Multimedia Commission established under section 4 of the Malaysian Communications and Multimedia Commission Act 1998 [Act 589].
 
-## Part II
+## PART II
 
 ## ONLINE SAFETY COMMITTEE
 
@@ -410,7 +454,7 @@ appointment of any member of the Committee referred to in paragraphs 5(2)(a), (j
 
 12. The Committee may invite any person to attend meetings of the Committee to provide opinion to the Committee on any matter under discussion.
 
-## Part III
+## PART III
 
 ## DUTIES OF LICENSED APPLICATIONS SERVICE PROVIDER
 
@@ -506,7 +550,7 @@ appointment of any member of the Committee referred to in paragraphs 5(2)(a), (j
 
 (5) A copy of the Online Safety Plan prepared under subsection (1) shall be submitted to the Commission.
 
-## Part IV
+## PART IV
 
 ## REPORTING OF HARMFUL CONTENT
 
@@ -684,7 +728,7 @@ appointment of any member of the Committee referred to in paragraphs 5(2)(a), (j
 
 29. Where a licensed applications service provider or licensed content applications service provider makes a report to any enforcement agency in relation to a content being the subject matter of a report made by a user to the licensed applications service provider or licensed content applications service provider under section 21, the licensed applications service provider or licensed content applications service provider shall not disclose to the user who made the report any information relating to the report made to the enforcement agency.
 
-## Part V
+## PART V
 
 ## POWERS OF THE COMMISSION
 
@@ -800,7 +844,7 @@ the Commission may, by notice in writing, direct that person—
 
 <!-- page 35 -->
 
-## Part VI
+## PART VI
 
 ## UNDERTAKING AND NOTICE OF NON-COMPLIANCE
 
@@ -858,7 +902,7 @@ the Commission may, by notice in writing, direct that person—
 
 (3) Any financial penalty due and payable under this section may be recovered as a civil debt due to the Commission.
 
-## Part VII
+## PART VII
 
 ## ONLINE SAFETY APPEAL TRIBUNAL
 
@@ -1238,7 +1282,7 @@ leaflet, notice, facility, apparatus, equipment, device, thing or matter was the
 
 68. Notwithstanding any written law to the contrary, a Sessions Court shall have jurisdiction to try any offence under this Act.
 
-## Part IX
+## PART IX
 
 ## MISCELLANEOUS
 
@@ -1350,11 +1394,7 @@ for any act or omission done in good faith in the performance of its or his func
 
 80. (1) The Commission may issue any guidelines as may be expedient or necessary for the better carrying out of the provisions of this Act and for the purpose of ensuring compliance with this Act.
 
-(2) Without prejudice to subsection (1), the Commission may issue any code for the purposes of compliance of duties under
-
-## Part III by the licensed applications service provider or licensed
-
-content applications service provider.
+(2) Without prejudice to subsection (1), the Commission may issue any code for the purposes of compliance of duties under Part III by the licensed applications service provider or licensed content applications service provider.
 
 (3) Every guidelines and code issued under this Act shall be published by the Commission in the manner as may be determined by the Commission.
 
@@ -1440,7 +1480,7 @@ content applications service provider.
 
 (3) Where a person has given his consent for a written instruction, notice in writing, directions or other document to be served on or notified to him through the electronic service, the written instruction, notice in writing, directions or other document shall be deemed to have been served and notified at the time when the electronic notice is transmitted to his account through the electronic service.
 
-## First schedule
+## FIRST SCHEDULE
 
 [Section 4]
 
@@ -1474,7 +1514,7 @@ Notes:
 
 (c) For the purposes of paragraph 9, a content that promotes awareness or education relating to drug abuse is not a content that promotes the use or sale of dangerous drugs
 
-## second schedule
+## SECOND SCHEDULE
 
 [Section 4]
 
@@ -1486,7 +1526,7 @@ Notes:
 
 This Bill (“the proposed Act”) seeks to enhance and promote online safety in Malaysia by regulating harmful content, outlining the duties and obligations of applications service providers, content applications service providers and network service providers, and to provide for related matters. The proposed Act which is applicable to the applications service providers, content applications service providers and network service providers licensed under the Communications and Multimedia Act 1998 [Act 588] and to be implemented and enforced by the Malaysian Communications and Multimedia Commission (“Commission”) aims to reduce harmful content available online and mitigate its potential detrimental effects.
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act deals with preliminary matters.
 
@@ -1500,7 +1540,7 @@ This Bill (“the proposed Act”) seeks to enhance and promote online safety in
 
 6. Clause 4 contains the definitions of certain words and expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 7. Part II of the proposed Act deals with the establishment of the Online Safety Committee (“Committee”).
 
@@ -1522,7 +1562,7 @@ This Bill (“the proposed Act”) seeks to enhance and promote online safety in
 
 <!-- page 66 -->
 
-## Part III
+## PART III
 
 16. Part III of the proposed Act deals with duties of the licensed applications service providers and licensed content applications service providers.
 
@@ -1542,7 +1582,7 @@ This Bill (“the proposed Act”) seeks to enhance and promote online safety in
 
 24. Clause 20 seeks to provide for the duty of a licensed applications service provider and licensed content applications service provider to prepare an Online Safety Plan on the compliance of their duties under Part III of the proposed Act. The Online Safety Plan shall be made available on their services and shall be easily accessible and regularly updated. A copy of the Online Safety Plan shall be submitted to the Commission.
 
-## Part IV
+## PART IV
 
 25. Part IV of the proposed Act deals with reporting of harmful content.
 
@@ -1570,7 +1610,7 @@ the service of the licensed applications service provider or licensed content ap
 
 34. Clause 29 seeks to provide that a licensed applications service provider or licensed content applications service provider which makes a report to any enforcement agency in relation to any content being the subject matter of a report by a user under clause 21 shall not disclose to the user any information relating to the report made to the enforcement agency.
 
-## Part V
+## PART V
 
 35. Part V of the proposed Act deals with the powers of the Commission under the proposed Act.
 
@@ -1588,7 +1628,7 @@ the service of the licensed applications service provider or licensed content ap
 
 41. Clause 35 seeks to provide that the functions and powers of the Commission under the proposed Act are in addition to, and not in derogation of, the functions and powers of the Commission under the Multimedia and Communications Act 1998 and Malaysian Communications and Multimedia Commission Act 1998 [Act 589].
 
-## Part VI
+## PART VI
 
 42. Part VI of the proposed Act deals with the undertaking by a licensed applications service provider and licensed content applications service provider and issuance of notice of non-compliance by the Commission.
 
@@ -1600,7 +1640,7 @@ the service of the licensed applications service provider or licensed content ap
 
 46. Clause 39 seeks to provide for the power of the Commission to impose a financial penalty on a licensed applications service provider or licensed content applications service provider for any non-compliance of any of its duties under Part III of the proposed Act. This clause also provides that any licensed applications service provider or licensed content applications service provider which fails to comply with any of its duties under Part III of the proposed Act shall be liable to pay to the Commission a financial penalty not exceeding ten million ringgit.
 
-## Part VII
+## PART VII
 
 47. Part VII of the proposed Act deals with Online Safety Appeal Tribunal.
 
@@ -1672,7 +1712,7 @@ the service of the licensed applications service provider or licensed content ap
 
 77. Clause 68 seeks to provide that a Sessions Court shall have the jurisdiction to try an offence under the proposed Act.
 
-## Part IX
+## PART IX
 
 78. Part IX of the proposed Act contains miscellaneous provisions.
 

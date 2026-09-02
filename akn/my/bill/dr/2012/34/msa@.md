@@ -24,13 +24,19 @@
 
 ## PEMINDAHAN DARI MALAYSIA
 
-8. Pertimbangan awal bagi permohonan untuk pemindahan dari Malaysia 9. Permohonan untuk pemindahan dari Malaysia 10. Waran bagi pemindahan dari Malaysia
+8. Pertimbangan awal bagi permohonan untuk pemindahan dari Malaysia 9. Permohonan untuk pemindahan dari Malaysia
+
+10. Waran bagi pemindahan dari Malaysia
 
 ## BAHAGIAN IV
 
 ## PEMINDAHAN KE MALAYSIA
 
-11. Permohonan untuk pemindahan ke Malaysia 12. Waran bagi pemindahan ke Malaysia 13. Pendaftaran waran atau perintah yang dikeluarkan di Negara asing yang ditetapkan
+11. Permohonan untuk pemindahan ke Malaysia
+
+12. Waran bagi pemindahan ke Malaysia
+
+13. Pendaftaran waran atau perintah yang dikeluarkan di Negara asing yang ditetapkan
 
 <!-- page 2 -->
 

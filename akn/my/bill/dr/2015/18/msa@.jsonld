@@ -140,21 +140,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/18/msa@/~cl_13",
       "@type": "akn:clause",
       "eli:number": "13",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/18/msa@/~cl_13__para_b",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/18/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan menggantikan perenggan 54(1)(b) dengan perenggan yang berikut: “"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/18/msa@/~cl_13__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/18/msa@/~cl_13",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dalam hal orang yang diperdagangkan ialah seorang warganegara asing yang mempunyai dokumen yang sah dan telah diambil bekerja, melepaskan orang yang diperdagangkan itu, atau dalam apa-apa hal lain sebagaimana yang boleh ditetapkan, melepaskan orang itu kepada pegawai imigresen untuk dihantar balik ke negara asalnya mengikut mana-mana undang-undang yang berhubungan dengan imigresen.”. Seksyen baru 65a"
+        "@value": "Akta ibu dipinda dengan menggantikan perenggan 54(1)(b) dengan perenggan yang berikut: “ (b) dalam hal orang yang diperdagangkan ialah seorang warganegara asing yang mempunyai dokumen yang sah dan telah diambil bekerja, melepaskan orang yang diperdagangkan itu, atau dalam apa-apa hal lain sebagaimana yang boleh ditetapkan, melepaskan orang itu kepada pegawai imigresen untuk dihantar balik ke negara asalnya mengikut mana-mana undang-undang yang berhubungan dengan imigresen.”. Seksyen baru 65a"
       }
     },
     {
@@ -279,7 +268,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/18/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas Bahagian I Bahagian yang berikut: “Bahagian Ia JAWATANKUASA PERINGKAT TERTINGGI Jawatankuasa Peringkat Tertinggi 5a. (1) Suatu Jawatankuasa Peringkat Tertinggi hendaklah ditubuhkan yang terdiri daripada Menteri bagi Kementerian yang merupakan anggota Majlis. (2) Jawatankuasa Peringkat Tertinggi hendaklah dipengerusikan oleh Menteri. Mesyuarat Jawatankuasa 5b. Jawatankuasa Peringkat Tertinggi hendaklah bermesyuarat dengan seberapa kerap yang perlu. Fungsi Jawatankuasa 5c. Jawatankuasa Peringkat Tertinggi hendaklah menimbang teliti dan memutuskan syor yang dibuat oleh Majlis.”. Pindaan seksyen 7"
+        "@value": "Akta ibu dipinda dengan memasukkan selepas Bahagian I Bahagian yang berikut: “BAHAGIAN IA JAWATANKUASA PERINGKAT TERTINGGI Jawatankuasa Peringkat Tertinggi 5a. (1) Suatu Jawatankuasa Peringkat Tertinggi hendaklah ditubuhkan yang terdiri daripada Menteri bagi Kementerian yang merupakan anggota Majlis. (2) Jawatankuasa Peringkat Tertinggi hendaklah dipengerusikan oleh Menteri. Mesyuarat Jawatankuasa 5b. Jawatankuasa Peringkat Tertinggi hendaklah bermesyuarat dengan seberapa kerap yang perlu. Fungsi Jawatankuasa 5c. Jawatankuasa Peringkat Tertinggi hendaklah menimbang teliti dan memutuskan syor yang dibuat oleh Majlis.”. Pindaan seksyen 7"
       }
     },
     {
@@ -288,8 +277,7 @@
       "eli:number": "5",
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/18/msa@/~cl_5__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/18/msa@/~cl_5__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/18/msa@/~cl_5__para_ja"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/18/msa@/~cl_5__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/18/msa@",
       "schema:name": {
@@ -314,17 +302,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/18/msa@/~cl_5",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perenggan (j) perenggan yang berikut: “"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/18/msa@/~cl_5__para_ja",
-      "@type": "akn:paragraph",
-      "eli:number": "ja",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/18/msa@/~cl_5",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "membayar apa-apa elaun, tertakluk kepada ketersediaan wang, kepada orang yang diperdagangkan sebagaimana yang boleh ditentukan oleh Majlis; dan”. Pindaan seksyen 11"
+        "@value": "dengan memasukkan selepas perenggan (j) perenggan yang berikut: “ (ja) membayar apa-apa elaun, tertakluk kepada ketersediaan wang, kepada orang yang diperdagangkan sebagaimana yang boleh ditentukan oleh Majlis; dan”. Pindaan seksyen 11"
       }
     },
     {

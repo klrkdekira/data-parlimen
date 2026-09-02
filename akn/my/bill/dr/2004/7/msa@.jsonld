@@ -1,0 +1,88 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/7/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/7"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-7-2004",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/7/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/7/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/7/msa@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Perbekalan (Penguntukan Semula Perbelanjaan) 2004"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/7/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/7/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/7/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/7/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/7/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/7/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perbekalan (Penguntukan Semula Peruntukan Perbelanjaan) 2004."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/7/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/7/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini disifatkan telah mula berkuat kuasa pada 27 Mac 2004. Penguntukan semula peruntukan perbelanjaan bagi tahun 2004"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/7/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maka dengan ini dibenarkan pengeluaran sejumlah wang yang tidak melebihi tujuh bilion enam ratus tiga puluh sembilan juta satu ratus tiga puluh sembilan ribu tiga ratus enam puluh sembilan ringgit (RM7,639,139,369) daripada Kumpulan Wang Disatukan bagi perbelanjaan untuk perkhidmatan dan maksud yang dinyatakan dalam Jadual bagi perkhidmatan tahun 2004 yang tidak diperuntukkan atau yang tidak diperuntukkan dengan sepenuhnya oleh Akta Perbekalan 2004 [Akta AJ206]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/7/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maksud Tajuk B. 6 Jabatan Perdana Menteri 104,556,731 B. 15 Kementerian Luar Neaeri Perbekalan (Penguntukan Semula Peruntukan Perbelanjaan) Amaun Maksud Tajuk (RM) B 20 Kementerian Perusahaan Perladangan dan 8,000,000 Komoditi . B 23 Kementerian Sumber Asli dan Alam Sekitar 236,992,555 B 26 Kementerian Pembangunan Usahawan dan 30,535,324 Koperasi . B 29 Kementerian Tenaga, Air dan Komunikasi 21,999,161 B 30 Kementerian Sains, Teknologi dan Inovasi 17,431,399 B 31 Kementerian Pelancongan 330,518,346 B 49 Kementerian Pembangunan Wanita, Keluarga 273,834,343 dan Masyarakat . B 52 Kementerian Keselamatan Dalam Negeri 2,671,254,341 B 70 Kementerian Pengajian Tinggi 3,893,671,706 B 71 Kementerian Wilayah Persekutuan 46,318,547 . JUMLAH 7,639,139,369"
+      }
+    }
+  ]
+}

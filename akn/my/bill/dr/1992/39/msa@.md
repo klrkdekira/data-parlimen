@@ -24,7 +24,19 @@ II
 
 ## PENUBUHAN BURSA NIAGA HADAPAN
 
-3. Penubuhan pasaran niaga hadapan. 4. Kuasa Menteri untuk meluluskan penubuhan bursa niaga hadapan. 5. Pengurusan syarikat bursa. 6. Kelulusan pindaan perlembagaan dan kaedah-kaedah perniagaan dan pindaan kepadanya. 7. Pembatalan kelulusan. 8. Penggantungan perdagangan sebagai ganti pembatalan keiulusan. 9. Penutupan bursa dalam masa darurat. 10. Kuasa Suruhanjaya untuk mengambil tindakan terhadap syarikat bursa, pusat penjelasan, dll. kerana tidak mematuhi kaedah, peraturan, dll. 11. Suruhanjaya boleh mengesyorkan pembatalan kelulusan. 12. Penyiaran notis pembatalan. penggantungan perdagangan atau penutupan. 13. Perdagangan dalam kontrak niaga hadapan dilarang semasa penggantungan perdagangan atau penutupan bursa niaga hadapan. 14. Halangan masuk ke dalam bursa niaga hadapan. 15. Kuasa-kuasa darurat Suruhanjaya.
+3. Penubuhan pasaran niaga hadapan. 4. Kuasa Menteri untuk meluluskan penubuhan bursa niaga hadapan. 5. Pengurusan syarikat bursa. 6. Kelulusan pindaan perlembagaan dan kaedah-kaedah perniagaan dan pindaan kepadanya. 7. Pembatalan kelulusan. 8. Penggantungan perdagangan sebagai ganti pembatalan keiulusan. 9. Penutupan bursa dalam masa darurat.
+
+10. Kuasa Suruhanjaya untuk mengambil tindakan terhadap syarikat bursa, pusat penjelasan, dll. kerana tidak mematuhi kaedah, peraturan, dll.
+
+11. Suruhanjaya boleh mengesyorkan pembatalan kelulusan.
+
+12. Penyiaran notis pembatalan. penggantungan perdagangan atau penutupan.
+
+13. Perdagangan dalam kontrak niaga hadapan dilarang semasa penggantungan perdagangan atau penutupan bursa niaga hadapan.
+
+14. Halangan masuk ke dalam bursa niaga hadapan.
+
+15. Kuasa-kuasa darurat Suruhanjaya.
 
 <!-- page 2 -->
 
@@ -100,13 +112,35 @@ IV
 
 ## AMALAN PERDAGANGAN
 
-49. Pengeluaran nota-nota kontrak. 50. Berdagang sebagai prinsipal. 51. Broker niaga hadapan membekalkan maklumat tertentu, dll. kepada pelanggan. 52. Pengasingan wang pelanggan, dll. oleh broker niaga hadapan. 53. Pendedahan risiko oleh broker niaga hadapan dan penasihat perdagangan niaga hadapan. 54. Broker niaga hadapan hendaklah memberikan keutamaan kepada pesanan pelanggan. 55. Penetapan kedudukan dan had perdagangan dalam kontrak niaga hadapan. 56. Perihal tidak mematuhi peruntukan-peruntukan Bahagian ini.
+49. Pengeluaran nota-nota kontrak. 50. Berdagang sebagai prinsipal. 51. Broker niaga hadapan membekalkan maklumat tertentu, dll. kepada pelanggan.
+
+52. Pengasingan wang pelanggan, dll. oleh broker niaga hadapan. 53. Pendedahan risiko oleh broker niaga hadapan dan penasihat perdagangan niaga hadapan. 54. Broker niaga hadapan hendaklah memberikan keutamaan kepada pesanan pelanggan.
+
+55. Penetapan kedudukan dan had perdagangan dalam kontrak niaga hadapan.
+
+56. Perihal tidak mematuhi peruntukan-peruntukan Bahagian ini.
 
 ## BAHAGIAN VI
 
 ## TABUNG KESETIAAN
 
-57. Tafsiran. 58. Penubuhan tabung kesetiaan. 59. Jawatankuasa tabung kesetiaan. 60. Wang yang menjadi tabung kesetiaan. 61. Tabung kesetiaan hendaklah disimpan dalam akaun berasingan. 62. Pembayaran daripada tabung kesetiaan. 63. Akaun-akaun tabung kesetiaan. 64. Caruman kepada tabung kesetiaan. 65. Kuasa syarikat bursa untuk membuat pendahuluan kepada tabung kesetiaan.
+57. Tafsiran.
+
+58. Penubuhan tabung kesetiaan.
+
+59. Jawatankuasa tabung kesetiaan.
+
+60. Wang yang menjadi tabung kesetiaan.
+
+61. Tabung kesetiaan hendaklah disimpan dalam akaun berasingan.
+
+62. Pembayaran daripada tabung kesetiaan.
+
+63. Akaun-akaun tabung kesetiaan.
+
+64. Caruman kepada tabung kesetiaan.
+
+65. Kuasa syarikat bursa untuk membuat pendahuluan kepada tabung kesetiaan.
 
 <!-- page 4 -->
 
@@ -176,7 +210,27 @@ IV
 
 IX AM
 
-93. Penjalanan pendakwaan. 94. Kerahsiaan. 95. Pengemukaaan rekod, dll. oleh syarikat bursa, dll. 96. Penalti am. 97. Pengkompaunan kesalahan. 98. Orang yang disabitkan bertanggungan membayar pampasan. 99- Kesalahan ojeh perbadanan. dll. 100. Kontrak niaga hadapan bukan kontrak penjualan pendek atau perjudian atau pertaganan. 101. Sekatan terhadap perniagaan dalam pasaran niaga hadapan. 102. Perdagangan dalam kontrak niaga hadapan di luar Malaysia. 103. Deposit hendaklah dibayar bagi perdagangan di Bursa Ditentukan. ' 104. Penyelesaian pertikaian. 105. Larangan menggunakan gelaran tertentu. 106. Kuasa untuk membuat peraturan. 107. Pengecualian berkenaan dengan Akta Perindustrian Sekuriti 1983. 108. Pengecualian berkenaan dengan Akta Dagangan Komoditi 1985. 109. Bank luar pesisir, syarikat luar pesisir, dsb. dikecualikan.
+93. Penjalanan pendakwaan. 94. Kerahsiaan. 95. Pengemukaaan rekod, dll. oleh syarikat bursa, dll. 96. Penalti am. 97. Pengkompaunan kesalahan. 98. Orang yang disabitkan bertanggungan membayar pampasan. 99- Kesalahan ojeh perbadanan. dll.
+
+100. Kontrak niaga hadapan bukan kontrak penjualan pendek atau perjudian atau pertaganan.
+
+101. Sekatan terhadap perniagaan dalam pasaran niaga hadapan.
+
+102. Perdagangan dalam kontrak niaga hadapan di luar Malaysia.
+
+103. Deposit hendaklah dibayar bagi perdagangan di Bursa Ditentukan. '
+
+104. Penyelesaian pertikaian.
+
+105. Larangan menggunakan gelaran tertentu.
+
+106. Kuasa untuk membuat peraturan.
+
+107. Pengecualian berkenaan dengan Akta Perindustrian Sekuriti 1983.
+
+108. Pengecualian berkenaan dengan Akta Dagangan Komoditi 1985.
+
+109. Bank luar pesisir, syarikat luar pesisir, dsb. dikecualikan.
 
 <!-- page 7 -->
 
@@ -210,11 +264,7 @@ Niaga Hadapan 1992.
 
 <!-- marginal: Tafsiran. -->
 
-2. Dalam Akta ini, melainkan
-
-<!-- marginal: jika konteksnya -->
-
-menghendaki makna yang lain—
+2. Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—
 
 "bank berlesen" ertinya sesuatu bank yang dilesenkan
 
@@ -230,7 +280,11 @@ bawah Akta Bank Islam 1983;
 
 <!-- page 8 -->
 
-"berdagang dalam kontrak niaga hadapan" berhubungan dengan mana-mana orang, sama ada bertindak sebagai prinsipal atau ejen, ertinya—
+"berdagang dalam kontrak niaga
+
+<!-- marginal: hadapan" -->
+
+berhubungan dengan mana-mana orang, sama ada bertindak sebagai prinsipal atau ejen, ertinya—
 
 (a) membeli atau menjual kontrak niaga hadapan;
 
@@ -280,11 +334,7 @@ sama ada kaedah-kaedah itu dibuat oleh syarikat bursa atau dipinda atau ditambah
 
 (a) satu pihak bersetuju untuk menyerahkan suatu suratcara tertentu, atau suatu kuantiti tertentu bagi suatu suratcara tertentu kepada suatu pihak yang lain pada suatu masa hadapan tertentu dan pada harga tertentu yang kena dibayar pada masa itu menurut terma-terma dan syarat-syarat yang dinyatakan dalam kaedah-kaedah atau amalan-amalan perniagaan bursa niaga hadapan atau pasaran niaga hadapan; atau
 
-(b) pihak-pihak akan menunaikan obligasi-obligasi mereka di bawah kontrak
-
-<!-- marginal: itu dengan -->
-
-menyelesaikan perbezaan di antara nilai suatu kuantiti tertentu bagi suatu suratcara tertentu pada masa kontrak dibuat dengan nilai pada suatu masa hadapan tertentu, dan perbezaan itu
+(b) pihak-pihak akan menunaikan obligasi-obligasi mereka di bawah kontrak itu dengan menyelesaikan perbezaan di antara nilai suatu kuantiti tertentu bagi suatu suratcara tertentu pada masa kontrak dibuat dengan nilai pada suatu masa hadapan tertentu, dan perbezaan itu
 
 <!-- page 10 -->
 
@@ -352,9 +402,21 @@ tetapi tidak termasuk—
 
 (d) sesuatu syarikat atau pertubuhan yang didaftarkan di bawah mana-mana perundangan yang berhubungan dengan insurans;
 
-(e) sesuatu syarikat yang didaftarkan di bawah Akta Akta 100. Syarikat Amanah 1949 atau Akta Syarikat Akta 442 Amanah Labuan 1990;
+(e) sesuatu syarikat yang didaftarkan di bawah Akta
 
-(f) seseorang yang merupakan tuan punya sesuatu akhbar dan pemegang suatu permit yang Akta 301 dikeluarkan di bawah Akta Mesin Cetak dan Penerbitan 1984 jika— (i) setakat yang akhbar itu diedarkan pada amnya kepada orang ramai, akhbar itu diedarkan hanya kepada pelanggan dan pembeli akhbar itu dengan nilai; (ii) nasihat itu diberikan atau analisa atau laporan itu dikeluarkan atau disebarluas- kan hanya melalui akhbar itu; (iii) orang itu tidak menerima apa-apa komisen atau balasan lain kerana mengeluarkan atau menyebarluaskan analisa atau laporan itu; dan (iv) nasihat itu diberikan dan analisa dan laporan itu dikeluarkan atau disebar- luaskan semata-mata bersampingan dengan perjalanan perniagaan orang itu sebagai tuan punya suatu akhbar; atau
+<!-- marginal: Akta 100. -->
+
+Syarikat Amanah 1949 atau Akta Syarikat
+
+<!-- marginal: Akta 442 -->
+
+Amanah Labuan 1990;
+
+(f) seseorang yang merupakan tuan punya sesuatu akhbar dan pemegang suatu permit yang
+
+<!-- marginal: Akta 301 -->
+
+dikeluarkan di bawah Akta Mesin Cetak dan Penerbitan 1984 jika— (i) setakat yang akhbar itu diedarkan pada amnya kepada orang ramai, akhbar itu diedarkan hanya kepada pelanggan dan pembeli akhbar itu dengan nilai; (ii) nasihat itu diberikan atau analisa atau laporan itu dikeluarkan atau disebarluas- kan hanya melalui akhbar itu; (iii) orang itu tidak menerima apa-apa komisen atau balasan lain kerana mengeluarkan atau menyebarluaskan analisa atau laporan itu; dan (iv) nasihat itu diberikan dan analisa dan laporan itu dikeluarkan atau disebar- luaskan semata-mata bersampingan dengan perjalanan perniagaan orang itu sebagai tuan punya suatu akhbar; atau
 
 (g) mana-mana orang lain yang ditetapkan oleh Suruhanjaya melalui peraturan-peraturan dari semasa ke semasa,
 
@@ -396,7 +458,11 @@ syarikat atau persatuan atau organisasi yang menjadi sebahagian daripada bursa n
 
 "suratcara" termasuklah sekuriti, mata wang, kontrak niaga hadapan, suratcara kadar bunga, indeks syer, sekumpulan indeks syer dan apa-apa suratcara lain yang ditetapkan oleh Suruhanjaya melalui perintah, tetapi tidak termasuk apa-apa komoditi yang dinyatakan menurut seksyen 24 Akta Dagangan Komoditi 1985;
 
-"Suruhanjaya" ertinya Suruhanjaya Sekuriti yang Akta ditubuhkan di bawah Akta Suruhanjaya Sekuriti 1992;
+"Suruhanjaya" ertinya Suruhanjaya Sekuriti yang
+
+<!-- marginal: Akta -->
+
+ditubuhkan di bawah Akta Suruhanjaya Sekuriti 1992;
 
 "transaksi opsyen niaga hadapan" ertinya transaksi berhubungan dengan suatu kontrak niaga hadapan yang memberi seseorang hak, yang diperolehi
 
@@ -524,9 +590,29 @@ terletakhak pada Lembaga Pengarahnya.
 
 (6) Lembaga Pengarah hendaklah bermesyuarat seberapa kerap yang perlu bagi melaksanakan fungsi- fungsinya dan hendaklah menentukan prosedurnya sendiri.
 
-Kelulusan 6. (1) Sesuatu syarikat bursa hendaklah mengemukakan pindaan atau menyebabkan supaya dikemukakan kepada perlembagaan dan kaedah- Suruhanjaya bagi kelulusannya— kaedah perniagaan
+<!-- marginal: Kelulusan -->
 
-(a) apa-apa pindaan kepada perlembagaannya; dan pmdaan kepadanya.
+6. (1) Sesuatu syarikat bursa hendaklah mengemukakan
+
+<!-- marginal: pindaan -->
+
+atau menyebabkan supaya dikemukakan kepada
+
+<!-- marginal: perlembagaan -->
+
+<!-- marginal: dan kaedah- -->
+
+Suruhanjaya bagi kelulusannya—
+
+<!-- marginal: kaedah -->
+
+<!-- marginal: perniagaan -->
+
+(a) apa-apa pindaan kepada perlembagaannya;
+
+<!-- marginal: dan pmdaan -->
+
+<!-- marginal: kepadanya. -->
 
 (b) kaedah-kaedah perniagaan bursa niaga hadapan- nya dan tiap-tiap pindaan kepadanya; dan
 
@@ -540,7 +626,13 @@ Kelulusan 6. (1) Sesuatu syarikat bursa hendaklah mengemukakan pindaan atau meny
 
 Suruhanjaya, boleh dengan notis bertulis kepada syarikat bursa, meminda atau menambah perlembagaannya, kaedah-kaedah perniagaan bursa niaga hadapannya atau kaedah-kaedah perniagaan pusat penjelasannya, mengikut mana-mana yang berkenaan.
 
-Pembatalan 7. (1) Tertakluk kepada subseksyen (2), Menteri boleh kelulusan. membatalkan kelulusan yang diberikan kepada sesuatu syarikat bursa di bawah seksyen 4 jika—
+<!-- marginal: Pembatalan -->
+
+7. (1) Tertakluk kepada subseksyen (2), Menteri boleh
+
+<!-- marginal: kelulusan. -->
+
+membatalkan kelulusan yang diberikan kepada sesuatu syarikat bursa di bawah seksyen 4 jika—
 
 (a) syarikat bursa itu tidak lagi mematuhi mana- mana kehendak yang dinyatakan dalam subseksyen (3) seksyen itu;
 
@@ -600,11 +692,51 @@ perdagangan itu sedang atau mungkin akan terhalang kerana—
 
 (3) Menteri hendaklah menyatakan alasan-alasan bagi penutupan itu dalam arahan yang diberikan di bawah subseksyen (1) dan alasan-alasan bagi apa-apa perlanjutan penutupan di bawah subseksyen (2).
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-10. Jika ditunjukkan bahawa— Suruhanjaya untuk
+10. Jika ditunjukkan bahawa—
 
-(a) sesuatu syarikat bursa atau pusat penjelasan— mengambil tindakan (i) telah tidak mematuhi atau menepati lerhadap kaedah-kaedah dan peraturan-per- syarikat bursa, pusat aturannya sendiri; penjelasan, dll. kerana (ii) telah melanggar mana-mana peruntukan tidak Akta ini atau mana-mana peraturan atau mematuhi kaedah, perintah yang dibuat di bawah Akta ini; peraturan, dll atau (iii) telah tidak mematuhi mana-mana arahan yang diberikan oleh Suruhanjaya di bawah Akta ini; atau
+<!-- marginal: Suruhanjaya -->
+
+<!-- marginal: untuk -->
+
+(a) sesuatu syarikat bursa atau pusat penjelasan—
+
+<!-- marginal: mengambil -->
+
+<!-- marginal: tindakan -->
+
+(i) telah tidak mematuhi atau menepati
+
+<!-- marginal: lerhadap -->
+
+kaedah-kaedah dan peraturan-per-
+
+<!-- marginal: syarikat -->
+
+<!-- marginal: bursa, pusat -->
+
+aturannya sendiri;
+
+<!-- marginal: penjelasan, -->
+
+<!-- marginal: dll. kerana -->
+
+(ii) telah melanggar mana-mana peruntukan
+
+<!-- marginal: tidak -->
+
+Akta ini atau mana-mana peraturan atau
+
+<!-- marginal: mematuhi -->
+
+<!-- marginal: kaedah, -->
+
+perintah yang dibuat di bawah Akta ini;
+
+<!-- marginal: peraturan, dll -->
+
+atau (iii) telah tidak mematuhi mana-mana arahan yang diberikan oleh Suruhanjaya di bawah Akta ini; atau
 
 (b) syarikat bursa atau pusat penjelasan itu, mana- mana anggota Lembaga Pengarahnya masing- masing atau mana-mana pegawai atau pekerja syarikat bursa atau pusat penjelasan itu telah bertindak dengan apa-apa cara berhubungan dengan pengendalian bursa niaga hadapan itu, mana-mana pasaran niaga hadapan atau pusat penjelasan itu yang telah memudaratkan atau yang mungkin akan memudaratkan kepentingan awam,
 
@@ -620,7 +752,9 @@ masa syarikat bursa itu telah, sehingga Suruhanjaya berpuas hati, mematuhi atau 
 
 (cc) mencela syarikat bursa, pusat penjelasan atau individu yang berkenaan itu.
 
-(2) Suruhanjaya hendaklah memberi syarikat bursa, pusat penjelasan atau individu itu notis tidak kurang daripada empat belas hari tentang niatnya untuk mengambil mana-mana tindakan di bawah subseksyen (1) dan notis itu hendaklah menyatakan alasan-alasan tindakan itu diambil.
+(2) Suruhanjaya hendaklah memberi syarikat bursa, pusat penjelasan atau individu itu notis tidak kurang daripada empat belas hari tentang niatnya untuk mengambil mana-mana tindakan di bawah subseksyen
+
+(1) dan notis itu hendaklah menyatakan alasan-alasan tindakan itu diambil.
 
 (3) Sesuatu arahan, penalti atau celaan yang dikenakan di bawah subseksyen (1) adalah konklusif melainkan jika, dalam masa empat belas hari selepas itu, syarikat bursa, pusat penjelasan atau individu yang berkenaan itu merayu secara bertulis kepada Menteri terhadap arahan, penalti atau celaan itu, mengikut mana- mana yang berkenaan.
 
@@ -724,7 +858,9 @@ dan syarikat bursa atau pusat penjelasan itu hendaklah mematuhi arahan itu.
 
 <!-- page 25 -->
 
-margin darurat dalam mana-mana kontrak niaga hadapan, atau kelas kontrak niaga hadapan, atau menetapkan had- had yang boleh terpakai bagi kedudukan-kedudukan pasaran yang diperoleh dengan suci hati sebelum tarikh mana-mana tindakan yang diambil di bawah subseksyen (1) atau mana-mana arahan yang diberikan di bawah subseksyen (2) sebagaimana yang difikirkannya perlu untuk mengekalkan atau memulihkan perdagangan teratur dalam, atau pelikuidasian, kontrak-kontrak niaga hadapan atau mana-mana kelas kontrak niaga hadapan.
+margin darurat dalam mana-mana kontrak niaga hadapan, atau kelas kontrak niaga hadapan, atau menetapkan had- had yang boleh terpakai bagi kedudukan-kedudukan pasaran yang diperoleh dengan suci hati sebelum tarikh mana-mana tindakan yang diambil di bawah subseksyen
+
+(1) atau mana-mana arahan yang diberikan di bawah subseksyen (2) sebagaimana yang difikirkannya perlu untuk mengekalkan atau memulihkan perdagangan teratur dalam, atau pelikuidasian, kontrak-kontrak niaga hadapan atau mana-mana kelas kontrak niaga hadapan.
 
 (4) Dalam seksyen ini, "darurat" ertinya suatu keadaan atau berlakunya apa-apa kejadian yang mengancam pasaran niaga hadapan dan hendaklah termasuk—
 
@@ -754,9 +890,19 @@ III
 
 ## DAN WAKIL-WAKIL
 
-Broker maga
+<!-- marginal: Broker maga -->
 
-16. (1) Tertakluk kepada subseksyen (2) dan (3), tiada hadapan seorang pun, sama ada sebagai prinsipal atau ejen, hendaklah dilesenkan. boleh—
+16. (1) Tertakluk kepada subseksyen (2) dan (3), tiada
+
+<!-- marginal: hadapan -->
+
+seorang pun, sama ada sebagai prinsipal atau ejen,
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: dilesenkan. -->
+
+boleh—
 
 (a) menjalankan perniagaan pembrokeran niaga hadapan; atau
 
@@ -770,11 +916,25 @@ melainkan jika dia dilesenkan sebagai seorang broker niaga hadapan di bawah Akta
 
 (4) Mana-mana orang yang melanggar subseksyen (1) atau (2) adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau kedua-duanya.
 
-Penasihat
+<!-- marginal: Penasihat -->
 
-17. (1) Tertakiuk kepada subsekyen (2) dan (3), tiada perdagangan seorang pun boleh— niaga hadapan hendaklah
+17. (1) Tertakiuk kepada subsekyen (2) dan (3), tiada
 
-(a) untuk mendapat saraan, menjalankan perniagaan dilesenkan. menasihati mana-mana orang lain mengenai pembelian atau penjualan kontrak niaga hadapan;
+<!-- marginal: perdagangan -->
+
+seorang pun boleh—
+
+<!-- marginal: niaga -->
+
+<!-- marginal: hadapan -->
+
+<!-- marginal: hendaklah -->
+
+(a) untuk mendapat saraan, menjalankan perniagaan
+
+<!-- marginal: dilesenkan. -->
+
+menasihati mana-mana orang lain mengenai pembelian atau penjualan kontrak niaga hadapan;
 
 <!-- page 27 -->
 
@@ -796,11 +956,51 @@ melainkan jika orang itu diiesenkan sebagai penasihat perdagangan niaga hadapan 
 
 (5) Mana-mana orang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau kedua-duanya.
 
-Wakil broker 18. (1) Tiada seorang pun boleh melaksanakan, bagi niaga seseorang broker niaga hadapan, mana-mana fungsi hadapan hendaklah seorang broker niaga hadapan mengikut pengertian dilesenkan. seksyen 16, selain daripada kerja yang biasanya dilaksanakan oleh akauntan, kerani atau juruwang, untuk mendapatkan saraan dalam bentuk gaji, komisen atau selainnya melainkan jika orang itu dilesenkan sebagai seorang wakil broker niaga hadapan di bawah Akta ini berkenaan dengan broker niaga hadapan itu.
+<!-- marginal: Wakil broker -->
+
+18. (1) Tiada seorang pun boleh melaksanakan, bagi
+
+<!-- marginal: niaga -->
+
+seseorang broker niaga hadapan, mana-mana fungsi
+
+<!-- marginal: hadapan -->
+
+<!-- marginal: hendaklah -->
+
+seorang broker niaga hadapan mengikut pengertian
+
+<!-- marginal: dilesenkan. -->
+
+seksyen 16, selain daripada kerja yang biasanya dilaksanakan oleh akauntan, kerani atau juruwang, untuk mendapatkan saraan dalam bentuk gaji, komisen atau selainnya melainkan jika orang itu dilesenkan sebagai seorang wakil broker niaga hadapan di bawah Akta ini berkenaan dengan broker niaga hadapan itu.
 
 (2) Mana-mana orang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau kedua-duanya.
 
-Wakil 19. (1) Tiada seorang pun boleh melaksanakan, bagi penasihat seseorang penasihat perdagangan niaga hadapan, mana- perdagangan niaga mana fungsi seorang penasihat perdagangan niaga hadapan hadapan mengikut pengertian seksyen 17, selain daripada hendaklah kerja yang biasanya dilaksanakan oleh akauntan, kerani dilesenkan. atau juruwang, untuk mendapatkan saraan dalam bentuk gaji, komisen atau selainnya melainkan jika orang itu dilesenkan sebagai seorang wakil penasihat perdagangan niaga hadapan di bawah Akta ini berkenaan dengan penasihat perdagangan niaga hadapan itu.
+<!-- marginal: Wakil -->
+
+19. (1) Tiada seorang pun boleh melaksanakan, bagi
+
+<!-- marginal: penasihat -->
+
+seseorang penasihat perdagangan niaga hadapan, mana-
+
+<!-- marginal: perdagangan -->
+
+<!-- marginal: niaga -->
+
+mana fungsi seorang penasihat perdagangan niaga
+
+<!-- marginal: hadapan -->
+
+hadapan mengikut pengertian seksyen 17, selain daripada
+
+<!-- marginal: hendaklah -->
+
+kerja yang biasanya dilaksanakan oleh akauntan, kerani
+
+<!-- marginal: dilesenkan. -->
+
+atau juruwang, untuk mendapatkan saraan dalam bentuk gaji, komisen atau selainnya melainkan jika orang itu dilesenkan sebagai seorang wakil penasihat perdagangan niaga hadapan di bawah Akta ini berkenaan dengan penasihat perdagangan niaga hadapan itu.
 
 (2) Mana-mana orang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan, apabila di- sabitkan, boleh didenda tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau kedua-duanya.
 
@@ -878,19 +1078,31 @@ ditetapkan dan apabila dibayar fee yang ditetapkan, melesenkan orang itu sebagai
 
 mengikut mana-mana yang berkenaan.
 
-(2) Sesuatu lesen yang diberikan di bawah subseksyen (1) hendaklah—
+(2) Sesuatu lesen yang diberikan di bawah subseksyen
+
+(1) hendaklah—
 
 (a) sah selama tempoh dua belas bulan bermula pada hari lesen itu diberikan; dan
 
 (b) tertakluk kepada apa-apa syarat yang difikirkan patut oleh Pegawai Pelesen.
 
-(3) Sesuatu lesen yang diberikan di bawah subseksyen (1) hendaklah menyatakan nama orang yang dibenarkan untuk menjalankan perniagaan sebagai broker niaga hadapan, penasihat perdagangan niaga hadapan, wakil broker niaga hadapan atau wakil penasihat perdagangan niaga hadapan, mengikut mana-mana yang berkenaan.
+(3) Sesuatu lesen yang diberikan di bawah subseksyen
+
+(1) hendaklah menyatakan nama orang yang dibenarkan untuk menjalankan perniagaan sebagai broker niaga hadapan, penasihat perdagangan niaga hadapan, wakil broker niaga hadapan atau wakil penasihat perdagangan niaga hadapan, mengikut mana-mana yang berkenaan.
 
 (4) Pemberian sesuatu lesen kepada seseorang tidaklah membenarkan orang itu menjalankan perniagaan di bawah apa-apa nama selain daripada nama yang dinyatakan dalam lesen itu.
 
-Sekatan atas
+<!-- marginal: Sekatan atas -->
 
-23. (1) Sesuatu lesen untuk menjalankan perniagaan pemberian sebagai broker niaga hadapan hanya boleh diberikan lesen. kepada sesuatu perbadanan.
+23. (1) Sesuatu lesen untuk menjalankan perniagaan
+
+<!-- marginal: pemberian -->
+
+sebagai broker niaga hadapan hanya boleh diberikan
+
+<!-- marginal: lesen. -->
+
+kepada sesuatu perbadanan.
 
 (2) Sesuatu lesen untuk menjalankan perniagaan sebagai penasihat perdagangan niaga hadapan boleh diberikan kepada seseorang individu atau sesuatu perbadanan.
 
@@ -898,25 +1110,13 @@ Sekatan atas
 
 <!-- page 31 -->
 
-<!-- marginal: Keengganan -->
+Keengganan
 
-24. Pegawai Pelesen boleh enggan memberikan sesuatu
-
-<!-- marginal: untuk -->
-
-lesen di bawah seksyen 22—
-
-<!-- marginal: memberikan -->
-
-<!-- marginal: lesen. -->
+24. Pegawai Pelesen boleh enggan memberikan sesuatu untuk lesen di bawah seksyen 22— memberikan lesen.
 
 (a) jika pemohon ialah seorang individu, atas alasan bahawa—
 
-(i) pemohon telah tidak memberi Pegawai Pelesen apa-apa maklumat
-
-<!-- marginal: yang -->
-
-berhubungan dengannya atau mana-mana orang yang diambil kerja oleh atau yang bersekutu dengannya bagi maksud- maksud perniagaannya, dan apa-apa hal keadaan yang mungkin menyentuh cara dia menjalankan perniagaan, sebagai- mana yang ditetapkan di bawah Akta ini;
+(i) pemohon telah tidak memberi Pegawai Pelesen apa-apa maklumat yang berhubungan dengannya atau mana-mana orang yang diambil kerja oleh atau yang bersekutu dengannya bagi maksud- maksud perniagaannya, dan apa-apa hal keadaan yang mungkin menyentuh cara dia menjalankan perniagaan, sebagai- mana yang ditetapkan di bawah Akta ini;
 
 (ii) pemohon ialah seorang bankrap yang belum dilepaskan atau telah melakukan suatu perbuatan kebankrapan mengikut pengertian Akta Kebankrapan 1967 atau telah membuat suatu komposisi atau perkiraan dengan pemiutang-pemiutang- nya;
 
@@ -946,7 +1146,13 @@ berhubungan dengannya atau mana-mana orang yang diambil kerja oleh atau yang ber
 
 (v) pemohon tidak mematuhi mana-mana kehendak di bawah Akta ini atau mana- mana peraturan yang dibuat di bawah Akta ini berhubungan dengan per- mohonan untuk mendapatkan lesen.
 
-Pembaharuan 25. (1) Tertakluk kepada subseksyen (3), Pegawai lesen. Pelesen hendaklah, apabila permohonan dibuat kepadanya oleh seseorang orang berlesen mengikut cara yang ditetapkan tidak lewat daripada tiga puluh hari sebelum hari lesennya, jika tidak dibaharui, akan tamat tempoh dan apabila dibayar fee yang ditetapkan, membaharui lesen itu.
+<!-- marginal: Pembaharuan -->
+
+25. (1) Tertakluk kepada subseksyen (3), Pegawai
+
+<!-- marginal: lesen. -->
+
+Pelesen hendaklah, apabila permohonan dibuat kepadanya oleh seseorang orang berlesen mengikut cara yang ditetapkan tidak lewat daripada tiga puluh hari sebelum hari lesennya, jika tidak dibaharui, akan tamat tempoh dan apabila dibayar fee yang ditetapkan, membaharui lesen itu.
 
 (2) Pegawai Pelesen boleh menghendaki seseorang pemohon di bawah subseksyen (1) supaya memberinya
 
@@ -962,7 +1168,9 @@ apa-apa maklumat tambahan yang difikirkannya perlu untuk menguruskan permohonan 
 
 (c) atas alasan bahawa orang itu telah tidak mematuhi subseksyen (1) atau mana-mana kehendak Pegawai Pelesen di bawah subseksyen (2).
 
-(4) Sesuatu lesen yang dibaharui di bawah subseksyen (1) hendaklah—
+(4) Sesuatu lesen yang dibaharui di bawah subseksyen
+
+(1) hendaklah—
 
 (a) sah selama tempoh dua belas bulan bermula pada hari lesen itu habis tempoh pada masa permohonan pembaharuan; dan
 
@@ -976,19 +1184,19 @@ apa-apa maklumat tambahan yang difikirkannya perlu untuk menguruskan permohonan 
 
 <!-- page 34 -->
 
-Pembatalaan 26. (1) Sesuatu lesen hendaklah disifatkan dibatalkan— lesen.
+<!-- marginal: Pembatalaan -->
 
-(a) jika orang berlesen itu ialah seorang individu, apabila individu itu mati atau terhenti daripada bersekutu dengan broker niaga hadapan atau penasihat perdagangan niaga hadapan yang berhubungan dengannya lesen
+26. (1) Sesuatu lesen hendaklah disifatkan dibatalkan—
 
-<!-- marginal: itu -->
+<!-- marginal: lesen. -->
 
-<!-- marginal: telah -->
-
-diberikan; atau
+(a) jika orang berlesen itu ialah seorang individu, apabila individu itu mati atau terhenti daripada bersekutu dengan broker niaga hadapan atau penasihat perdagangan niaga hadapan yang berhubungan dengannya lesen itu telah diberikan; atau
 
 (b) jika orang berlesen itu ialah suatu perbadanan, apabila perbadanan itu digulung.
 
-(2) Pegawai Pelesen boleh membatalkan sesuatu lesen—
+(2) Pegawai Pelesen boleh membatalkan sesuatu
+
+<!-- marginal: lesen— -->
 
 (a) yang diberikan kepada seseorang individu—
 
@@ -1036,7 +1244,23 @@ lesennya kepada Pegawai Pelesen dengan menghantarnya kepada Pegawai Pelesen deng
 
 <!-- page 36 -->
 
-Kuasa-kuasa 28. (1) Pegawai Pelesen boleh, pada bila-bila masa, Pegawai menyiasat apa-apa pengataan bahawa seseorang orang Pelesen dalam hal berlesen— salah laku, dsb.
+<!-- marginal: Kuasa-kuasa -->
+
+28. (1) Pegawai Pelesen boleh, pada bila-bila masa,
+
+<!-- marginal: Pegawai -->
+
+menyiasat apa-apa pengataan bahawa seseorang orang
+
+<!-- marginal: Pelesen -->
+
+<!-- marginal: dalam hal -->
+
+berlesen—
+
+<!-- marginal: salah laku, -->
+
+<!-- marginal: dsb. -->
 
 (a) melakukan atau pernah melakukan apa-apa salah laku; atau
 
@@ -1098,17 +1322,35 @@ perjanjian, transaksi atau perkiraan yang berhubungan dengan perdagangan dalam k
 
 (b) menyentuh apa-apa hak, obligasi atau liabiliti yang berbangkit di bawah mana-mana perjanjian, transaksi atau perkiraan sedemikian.
 
-(2) Seseorang yang lesennya dibatalkan di bawah seksyen 26, selain daripada subperenggan (2)(a)(iii) atau (2)(a)(iv) atau (2)(b)(i\) atau (2)(b)(v) seksyen itu, atau digantung di bawah perenggan 28(2)(b) dan
+(2) Seseorang yang lesennya dibatalkan di bawah seksyen 26, selain daripada subperenggan (2)(a)(iii) atau
+
+(2)(a)(iv) atau (2)(b)(i\) atau (2)(b)(v) seksyen itu, atau digantung di bawah perenggan 28(2)(b) dan
 
 <!-- page 38 -->
 
 penggantungan itu belum ditarik balik sebelum lesennya tamat tempoh di bawah Akta ini, tidak boleh memohon supaya dilesenkan di bawah Bahagian ini sehinggalah tamat tempoh sekurang-kurangnya dua belas bulan dari tarikh pembatalan atau penggantungan itu.
 
-Rayuan 30. Jika Pegawai Pelesen— kepada Menteri
+<!-- marginal: Rayuan -->
 
-(a) enggan memberikan lesen di bawah seksyen 24; terhadap keengganan
+30. Jika Pegawai Pelesen—
 
-(b) enggan membaharui sesuatu lesen di bawah memberikan lesen, dll. seksyen 25;
+<!-- marginal: kepada -->
+
+<!-- marginal: Menteri -->
+
+(a) enggan memberikan lesen di bawah seksyen 24;
+
+<!-- marginal: terhadap -->
+
+<!-- marginal: keengganan -->
+
+(b) enggan membaharui sesuatu lesen di bawah
+
+<!-- marginal: memberikan -->
+
+<!-- marginal: lesen, dll. -->
+
+seksyen 25;
 
 (c) membatalkan atau menggantung sesuatu lesen di bawah seksyen 26; atau
 
@@ -1116,19 +1358,37 @@ Rayuan 30. Jika Pegawai Pelesen— kepada Menteri
 
 orang yang terkilan dengan keputusan Pegawai Pelesen boleh dalam masa tiga puluh hari selepas dia diberitahu tentang keputusan itu, merayu kepada Menteri dan keputusan Menteri adalah muktamad.
 
-Pernyataan 31. Seseorang yang, berkaitan dengan
+<!-- marginal: Pernyataan -->
+
+31. Seseorang yang, berkaitan dengan
 
 <!-- marginal: sesuatu -->
 
-palsu. permohonan untuk mendapatkan lesen atau untuk membaharui sesuatu lesen, membuat sesuatu pernyataan yang palsu atau mengelirukan mengenai sesuatu butir material atau tidak menyatakan apa-apa perkara atau benda yang tanpanya sesuatu permohonan itu adalah mengelirukan dari suatu segi yang material, adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.
+<!-- marginal: palsu. -->
 
-Maklumat 32. (1) Tiap-tiap orang berlesen hendaklah dengan yang serta-merta memberitahu Pegawai Pelesen tentang apa- hendaklah diberikan apa perubahan yang, semasa lesennya masih oleh orang berkuatkuasa, mungkin berlaku— berlesen.
+permohonan untuk mendapatkan lesen atau untuk membaharui sesuatu lesen, membuat sesuatu pernyataan yang palsu atau mengelirukan mengenai sesuatu butir material atau tidak menyatakan apa-apa perkara atau benda yang tanpanya sesuatu permohonan itu adalah mengelirukan dari suatu segi yang material, adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.
 
-(a) tentang alamat di Malaysia
+<!-- marginal: Maklumat -->
 
-<!-- marginal: tempat dia -->
+32. (1) Tiap-tiap orang berlesen hendaklah dengan
 
-menjalankan perniagaan sebagai orang berlesen;
+<!-- marginal: yang -->
+
+serta-merta memberitahu Pegawai Pelesen tentang apa-
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: diberikan -->
+
+apa perubahan yang, semasa lesennya masih
+
+<!-- marginal: oleh orang -->
+
+berkuatkuasa, mungkin berlaku—
+
+<!-- marginal: berlesen. -->
+
+(a) tentang alamat di Malaysia tempat dia menjalankan perniagaan sebagai orang berlesen;
 
 <!-- page 39 -->
 
@@ -1170,17 +1430,45 @@ orang berlesen yang menyatakan—
 
 (3) Mana-mana orang boleh, apabila dibayar fee yang ditetapkan, memeriksa dan mengambil cabutan daripada daftar yang disimpan di bawah subseksyen (1) dan mana- mana cabutan sedemikian yang berupa sebagai ditandatangani oleh Pegawai Pelesen boleh diterima sebagai keterangan dalam mana-mana prosiding undang- undang.
 
-Penyiaran
+<!-- marginal: Penyiaran -->
 
-34. (1) Pegawai Pelesen hendaklah menyebabkan nama dan supaya disiarkan dalam Warta, mengikut apa-apa cara alamat. yang difikirkannya patut, nama dan alamat semua orang berlesen.
+34. (1) Pegawai Pelesen hendaklah menyebabkan
+
+<!-- marginal: nama dan -->
+
+supaya disiarkan dalam Warta, mengikut apa-apa cara
+
+<!-- marginal: alamat. -->
+
+yang difikirkannya patut, nama dan alamat semua orang berlesen.
 
 (2) Maklumat yang dikehendaki disiarkan di bawah subseksyen (1) hendaklah disiarkan sekurang-kurangnya sekali setiap tahun.
 
 (3) Jika Pegawai Pelesen pada bila-bila masa meminda mana-mana daftar yang disimpan olehnya di bawah Bahagian ini, dia hendaklah menyebabkan supaya butir-butir mengenai pindaan itu disiarkan dalam Warta.
 
-Bursa niaga
+<!-- marginal: Bursa niaga -->
 
-35. (1) Sesuatu bursa niaga hadapan hendaklah hadapan memberi Pegawai Pelesen apa-apa bantuan yang hendaklah memberikan; semunasabahnya dikehendaki olehnya bagi pelaksanaan bantuan fungsi-fungsi dan tugas-tugasnya. kepada Pegawai Pelesen.
+35. (1) Sesuatu bursa niaga hadapan hendaklah
+
+<!-- marginal: hadapan -->
+
+memberi Pegawai Pelesen apa-apa bantuan yang
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: memberikan; -->
+
+semunasabahnya dikehendaki olehnya bagi pelaksanaan
+
+<!-- marginal: bantuan -->
+
+fungsi-fungsi dan tugas-tugasnya.
+
+<!-- marginal: kepada -->
+
+<!-- marginal: Pegawai -->
+
+<!-- marginal: Pelesen. -->
 
 <!-- page 41 -->
 
@@ -1306,11 +1594,33 @@ diperlukan, maka Suruhanjaya boleh melanjutkan tempoh itu dengan tempoh tambahan
 
 (3) Mana-mana broker niaga hadapan yang tidak mematuhi subseksyen (1) atau mana-mana syarat yang dikenakan di bawah subseksyen (2) adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi lima ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua- duanya.
 
-Laporan
+<!-- marginal: Laporan -->
 
-39. Jika, semasa menjalankan kewajipan-kewajipannya oleh sebagai juruaudit bagi seseorang broker niaga hadapan, juruaudit kepada seseorang juruaudit— Suruhanjaya dalam
+39. Jika, semasa menjalankan kewajipan-kewajipannya
 
-(a) menyedari apa-apa perkara yang pada hal-hal pendapatnya memudaratkan atau mungkin tertentu. memudaratkan kedudukan kewangan broker niaga hadapan itu setakat yang material; atau
+<!-- marginal: oleh -->
+
+sebagai juruaudit bagi seseorang broker niaga hadapan,
+
+<!-- marginal: juruaudit -->
+
+<!-- marginal: kepada -->
+
+seseorang juruaudit—
+
+<!-- marginal: Suruhanjaya -->
+
+<!-- marginal: dalam -->
+
+(a) menyedari apa-apa perkara yang pada
+
+<!-- marginal: hal-hal -->
+
+pendapatnya memudaratkan atau mungkin
+
+<!-- marginal: tertentu. -->
+
+memudaratkan kedudukan kewangan broker niaga hadapan itu setakat yang material; atau
 
 <!-- page 45 -->
 
@@ -1332,9 +1642,7 @@ maka dia hendaklah, dengan seberapa segera yang praktik, menghantar suatu lapora
 
 <!-- marginal: melantik -->
 
-mengemukakan laporan
-
-<!-- marginal: tahunan -->
+mengemukakan laporan tahunan
 
 <!-- marginal: teraudit, -->
 
@@ -1348,9 +1656,7 @@ laporan juruaudit dan apa-apa dokumen lain yang dikehendaki di bawah seksyen 38;
 
 Suruhanjaya boleh, jika berpuas hati bahawa adalah bagi kepentingan broker niaga hadapan itu, pelanggan- pelanggan broker niaga hadapan itu atau orang awam amnya Suruhanjaya berbuat demikian, melantik secara bertulis seorang juruaudit bebas untuk memeriksa dan mengaudit, sama ada pada amnya atau berhubungan dengan mana-mana perkara tertentu, buku-buku, akaun- akaun dan rekod-rekod broker niaga hadapan itu.
 
-(2) Jika Suruhanjaya
-
-<!-- marginal: berpendapat -->
+(2) Jika Suruhanjaya berpendapat
 
 <!-- marginal: bahawa -->
 
@@ -1364,9 +1670,21 @@ keseluruhan atau mana-mana bahagian kos dan perbelanjaan seseorang juruaudit yan
 
 pengauditan yang disebut dalam subseksyen (1), mengemukakan suatu laporan mengenainya kepada Suruhanjaya.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-41. (1) Seseorang juruaudit bebas yang dilantik di juruaudit bawah seksyen 40 boleh, bagi maksud menjalankan yang dilantik oleh pemeriksaan dan pengauditan di bawah seksyen itu— Suruhanjaya.
+41. (1) Seseorang juruaudit bebas yang dilantik di
+
+<!-- marginal: juruaudit -->
+
+bawah seksyen 40 boleh, bagi maksud menjalankan
+
+<!-- marginal: yang -->
+
+<!-- marginal: dilantik oleh -->
+
+pemeriksaan dan pengauditan di bawah seksyen itu—
+
+<!-- marginal: Suruhanjaya. -->
 
 (a) memeriksa dengan bersumpah mana-mana pengarah, pekerja atau ejen broker niaga hadapan itu dan mana-mana juruaudit lain yang dilantik di bawah Akta ini berhubungan dengan buku-buku, akaun-akaun dan rekod-rekod yang disebut dalam seksyen itu;
 
@@ -1396,27 +1714,15 @@ maklumat dalam miliknya yang berhubungan dengan perniagaan broker niaga hadapan 
 
 menjalankan pemeriksaan dan pengauditan itu; dan
 
-(g) melalui suratcara
-
-<!-- marginal: bertulis -->
-
-<!-- marginal: di -->
+(g) melalui suratcara bertulis di
 
 <!-- marginal: bawah -->
 
 tandatangannya, memberikuasa mana-mana orang yang diambil kerja olehnya untuk melakukan, berhubungan dengan pemeriksaan dan pengauditan itu, apa-apa perbuatan atau perkara yang boleh dilakukan olehnya sendiri sebagai juruaudit bebas, kecuali pemeriksaan manaTmana orang dengan bersumpah, di bawah subseksyen ini.
 
-(2) Mana-mana orang yang enggan atau tidak menjawab apa-apa soalan yang dikemukakan kepadanya, atau yang tidak mematuhi apa-apa permintaan yang dibuat kepadanya, oleh seseorang juruaudit bebas yang dilantik di bawah seksyen 40, atau seseorang yang diberikuasa di bawah perenggan
+(2) Mana-mana orang yang enggan atau tidak menjawab apa-apa soalan yang dikemukakan kepadanya, atau yang tidak mematuhi apa-apa permintaan yang dibuat kepadanya, oleh seseorang juruaudit bebas yang dilantik di bawah seksyen 40, atau seseorang yang diberikuasa di bawah perenggan ( l ) ( g ), adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi lima ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
-<!-- marginal: ( l ) ( g ), adalah -->
-
-melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi lima ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
-
-(3) Jika sesuatu syarikat bursa atau pusat penjelasan, tanpa sebab yang munasabah, tidak mematuhi apa-apa permintaan yang dibuat kepadanya oleh seseorang juruaudit bebas yang dilantik di bawah seksyen 40, atau seseorang yang diberikuasa di bawah perenggan 1( g ), syarikat bursa atau pusat penjelasan
-
-<!-- marginal: itu adalah -->
-
-melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi lima ratus ribu ringgit.
+(3) Jika sesuatu syarikat bursa atau pusat penjelasan, tanpa sebab yang munasabah, tidak mematuhi apa-apa permintaan yang dibuat kepadanya oleh seseorang juruaudit bebas yang dilantik di bawah seksyen 40, atau seseorang yang diberikuasa di bawah perenggan 1( g ), syarikat bursa atau pusat penjelasan itu adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi lima ratus ribu ringgit.
 
 <!-- marginal: Kesalahan -->
 
@@ -1446,13 +1752,59 @@ atau yang dalam milik atau di bawah kawalan seseorang broker niaga hadapan,
 
 adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau kedua-duanya.
 
-Sekatan 43. Kecuali sebagaimana yang perlu bagi melaksanakan ke atas hak peruntukan-peruntukan Akta ini atau setakat yang juruaudit dan pekerja dikehendaki bagi maksud-maksud mana-mana prosiding untuk undang-undang, sama ada sivil atau jenayah, seseorang mendedahkan perkara- juruaudit bebas yang dilantik di bawah seksyen 40 dan perkara mana-mana pekerja juruaudit itu tidak boleh tertentu. mendedahkan apa-apa maklumat yang mungkin sampai kepada pengetahuannya semasa melaksanakan kewajipan-kewajipannya sebagai juruaudit atau pekerja itu, mengikut mana-mana yang berkenaan, kepada mana- mana orang selain daripada—
+<!-- marginal: Sekatan -->
+
+43. Kecuali sebagaimana yang perlu bagi melaksanakan
+
+<!-- marginal: ke atas hak -->
+
+peruntukan-peruntukan Akta ini atau setakat yang
+
+<!-- marginal: juruaudit -->
+
+<!-- marginal: dan pekerja -->
+
+dikehendaki bagi maksud-maksud mana-mana prosiding
+
+<!-- marginal: untuk -->
+
+undang-undang, sama ada sivil atau jenayah, seseorang
+
+<!-- marginal: mendedahkan -->
+
+<!-- marginal: perkara- -->
+
+juruaudit bebas yang dilantik di bawah seksyen 40 dan
+
+<!-- marginal: perkara -->
+
+mana-mana pekerja juruaudit itu tidak boleh
+
+<!-- marginal: tertentu. -->
+
+mendedahkan apa-apa maklumat yang mungkin sampai kepada pengetahuannya semasa melaksanakan kewajipan-kewajipannya sebagai juruaudit atau pekerja itu, mengikut mana-mana yang berkenaan, kepada mana- mana orang selain daripada—
 
 (a) Suruhanjaya; dan
 
 (b) dalam hal seseorang pekerja, juruaudit yang mengambil kerja pekerja itu.
 
-Obligasi 44. Tiada apa-apa jua dalam Bahagian ini boleh tambahan menghalang Suruhanjaya atau syarikat bursa daripada ke atas broker niaga mengenakan ke atas seseorang broker niaga hadapan apa- hadapan apa obligasi atau kehendak selanjutnya yang difikirkan perlu oleh Suruhanjaya atau syarikat bursa berkenaan dengan—
+<!-- marginal: Obligasi -->
+
+44. Tiada apa-apa jua dalam Bahagian ini boleh
+
+<!-- marginal: tambahan -->
+
+menghalang Suruhanjaya atau syarikat bursa daripada
+
+<!-- marginal: ke atas -->
+
+<!-- marginal: broker niaga -->
+
+mengenakan ke atas seseorang broker niaga hadapan apa-
+
+<!-- marginal: hadapan -->
+
+apa obligasi atau kehendak selanjutnya yang difikirkan perlu oleh Suruhanjaya atau syarikat bursa berkenaan dengan—
 
 (a) pengauditan akaun-akaun;
 
@@ -1460,7 +1812,29 @@ Obligasi 44. Tiada apa-apa jua dalam Bahagian ini boleh tambahan menghalang Suru
 
 (c) penyimpanan akaun-akaun, buku-buku dan rekod-rekod.
 
-Penyenggaraan 45. (1) Tiap-tiap penasihat perdagangan niaga hadapan buku dan hendaklah menyebabkan disimpan apa-apa buku dan rekod dan pembenan rekod, dan memfailkan apa-apa laporan, mengikut apa- akaun, dsb. apa bentuk dan cara yang ditetapkan oleh Suruhanjaya. oleh penasihal perdagangan niaga hadapan.
+<!-- marginal: Penyenggaraan -->
+
+45. (1) Tiap-tiap penasihat perdagangan niaga hadapan
+
+<!-- marginal: buku dan -->
+
+hendaklah menyebabkan disimpan apa-apa buku dan
+
+<!-- marginal: rekod dan -->
+
+<!-- marginal: pembenan -->
+
+rekod, dan memfailkan apa-apa laporan, mengikut apa-
+
+<!-- marginal: akaun, dsb. -->
+
+apa bentuk dan cara yang ditetapkan oleh Suruhanjaya.
+
+<!-- marginal: oleh penasihal -->
+
+<!-- marginal: perdagangan -->
+
+<!-- marginal: niaga hadapan. -->
 
 <!-- page 49 -->
 
@@ -1546,7 +1920,9 @@ ketakteraturan yang membahayakan wang, sekuriti atau harta pelanggan-pelanggan; 
 
 dia hendaklah dengan serta-merta melaporkan perkara itu kepada Suruhanjaya.
 
-(3) Seseorang juruaudit yang dilantik di bawah seksyen ini hendaklah mempunyai segala kuasa yang diberikan kepada seseorang juruaudit di bawah seksyen 41.
+(3) Seseorang juruaudit yang dilantik di bawah seksyen ini hendaklah mempunyai segala kuasa yang diberikan kepada seseorang juruaudit di bawah seksyen
+
+41.
 
 (4) Jika Suruhanjaya berpendapat
 
@@ -1568,9 +1944,17 @@ keseluruhan atau mana-mana bahagian kos dan perbelanjaan mana-mana juruaudit yan
 
 ## AMALAN PERDAGANGAN
 
-Pengeluaran
+<!-- marginal: Pengeluaran -->
 
-49. (1) Seseorang broker niaga hadapan hendaklah, nota-nota berkenaan dengan tiap-tiap transaksi pembelian, kontrak. penjualan atau pertukaran sesuatu kontrak niaga hadapan yang dibuat olehnya, sama ada sebagai prinsipal atau ejen, mengeluarkan suatu nota kontrak yang mematuhi subseksyen (2) tidak lewat daripada akhir hari perdagangan yang berikutnya selepas
+49. (1) Seseorang broker niaga hadapan hendaklah,
+
+<!-- marginal: nota-nota -->
+
+berkenaan dengan tiap-tiap transaksi pembelian,
+
+<!-- marginal: kontrak. -->
+
+penjualan atau pertukaran sesuatu kontrak niaga hadapan yang dibuat olehnya, sama ada sebagai prinsipal atau ejen, mengeluarkan suatu nota kontrak yang mematuhi subseksyen (2) tidak lewat daripada akhir hari perdagangan yang berikutnya selepas
 
 <!-- marginal: tarikh -->
 
@@ -1624,11 +2008,7 @@ sebagai prinsipal, berdagang dalam kontrak niaga
 
 hadapan dengan seseorang yang bukan seorang broker niaga hadapan melainkan jika dia terlebih dahulu memberitahu orang yang dengannya dia berdagang itu bahawa dia bertindak dalam transaksi itu sebagai prinsipal dan bukan sebagai ejen.
 
-(2) Sebutan dalam seksyen ini mengenai seseorang broker niaga hadapan yang berdagang atau membuat sesuatu transaksi sebagai prinsipal
-
-<!-- marginal: termasuklah -->
-
-sebutan—
+(2) Sebutan dalam seksyen ini mengenai seseorang broker niaga hadapan yang berdagang atau membuat sesuatu transaksi sebagai prinsipal termasuklah sebutan—
 
 (a) mengenai seseorang yang berdagang atau membuat sesuatu transaksi bagi pihak seseorang yang bersekutu dengannya;
 
@@ -1752,9 +2132,33 @@ berhubungan dengan mana-mana harta yang dipegang dalam suatu akaun di bawah subs
 
 (9) Dalam seksyen ini, "pelanggan" ertinya seseorang yang bagi akaunnya seseorang broker niaga hadapan menjalankan perdagangan dalam kontrak niaga hadapan tetapi tidak termasuk pengarah, pekerja dan wakil dan perbadanan-perbadanan berkaitan broker niaga hadapan itu.
 
-Pendedahan
+<!-- marginal: Pendedahan -->
 
-53. (1) Tiada broker niaga hadapan boleh membuka risiko oleh suatu akaun kontrak niaga hadapan bagi seseorang broker niaga pelanggan melainkan jika dia memberi pelanggan itu hadapan dan penasihat suatu dokumen pendedahan risiko bertulis berasingan perdagangan yang hendaklah mengikut apa-apa bentuk dan cara niaga hadapan. sebagaimana yang ditetapkan oleh Suruhanjaya, dan menerima daripada pelanggan itu suatu akuterimaan yang ditandatangani dan ditarikhkan oleh pelanggan itu bahawa dia telah menerima dan memahami sifat dan kandungan dokumen pendedahan risiko itu.
+53. (1) Tiada broker niaga hadapan boleh membuka
+
+<!-- marginal: risiko oleh -->
+
+suatu akaun kontrak niaga hadapan bagi seseorang
+
+<!-- marginal: broker niaga -->
+
+pelanggan melainkan jika dia memberi pelanggan itu
+
+<!-- marginal: hadapan dan -->
+
+<!-- marginal: penasihat -->
+
+suatu dokumen pendedahan risiko bertulis berasingan
+
+<!-- marginal: perdagangan -->
+
+yang hendaklah mengikut apa-apa bentuk dan cara
+
+<!-- marginal: niaga -->
+
+<!-- marginal: hadapan. -->
+
+sebagaimana yang ditetapkan oleh Suruhanjaya, dan menerima daripada pelanggan itu suatu akuterimaan yang ditandatangani dan ditarikhkan oleh pelanggan itu bahawa dia telah menerima dan memahami sifat dan kandungan dokumen pendedahan risiko itu.
 
 (2) Tiada penasihat perdagangan niaga hadapan boleh cuba mendapatkan atau membuat sesuatu perjanjian
 
@@ -1764,11 +2168,7 @@ dengan seseorang bakal pelanggan bagi maksud menguruskan akaun perdagangan niaga
 
 <!-- marginal: tertentu -->
 
-melainkan jika penasihat perdagangan niaga hadapan itu, pada atau sebelum masa dia melibatkan diri dalam cubaan mendapatkan atau dalam membuat perjanjian itu, mengikut mana-mana yang lebih dahulu, menyerahkan kepada bakal pelanggan itu suatu dokumen pendedahan risiko berkenaan dengan maksud-maksud itu, yang hendaklah mengikut apa-apa bentuk dan mengandungi apa-apa maklumat yang ditetapkan oleh Suruhanjaya dan menerima daripada bakal pelanggan
-
-<!-- marginal: itu suatu -->
-
-akuterimaan yang ditandatangani dan ditarikhkan olehnya bahawa dia telah menerima dan memahami sifat dan kandungan dokumen pendedahan risiko itu.
+melainkan jika penasihat perdagangan niaga hadapan itu, pada atau sebelum masa dia melibatkan diri dalam cubaan mendapatkan atau dalam membuat perjanjian itu, mengikut mana-mana yang lebih dahulu, menyerahkan kepada bakal pelanggan itu suatu dokumen pendedahan risiko berkenaan dengan maksud-maksud itu, yang hendaklah mengikut apa-apa bentuk dan mengandungi apa-apa maklumat yang ditetapkan oleh Suruhanjaya dan menerima daripada bakal pelanggan itu suatu akuterimaan yang ditandatangani dan ditarikhkan olehnya bahawa dia telah menerima dan memahami sifat dan kandungan dokumen pendedahan risiko itu.
 
 (3) Jika seseorang penasihat perdagangan niaga hadapan membuat suatu perjanjian dengan seseorang bakal pelanggan bagi maksud menguruskan akaun perdagangan niaga hadapannya menurut subseksyen (2), maka peruntukan-peruntukan seksyen 50 dan 51 hendaklah terpakai bagi penasihat perdagangan niaga hadapan itu seolah-olah sebutan dalam seksyen-seksyen itu mengenai broker niaga hadapan ialah sebutan mengenai penasihat perdagangan niaga hadapan.
 
@@ -1778,11 +2178,33 @@ akuterimaan yang ditandatangani dan ditarikhkan olehnya bahawa dia telah menerim
 
 <!-- page 60 -->
 
-Broker niaga
+<!-- marginal: Broker niaga -->
 
-54. (1) Seseorang broker niaga hadapan tidak boleh, hadapan kecuali sebagaimana yang dibenarkan oleh subseksyen hendaklah memberikan
+54. (1) Seseorang broker niaga hadapan tidak boleh,
 
-(2), membuat, sebagai prinsipal atau bagi pihak keutamaan seseorang orang bersekutu, sesuatu transaksi pembelian kepada pesanan atau penjualan kontrak niaga hadapan yang dibenarkan petanggan. diperdagangkan di pasaran niaga hadapan jika seseorang pelanggan broker niaga hadapan itu yang tidak bersekutu dengan broker niaga hadapan itu telah mengarahkan broker niaga hadapan itu supaya membeli atau menjual, masing-masingnya, kontrak niaga hadapan yang sama kelasnya dan broker niaga hadapan itu belum lagi mematuhi arahan itu.
+<!-- marginal: hadapan -->
+
+kecuali sebagaimana yang dibenarkan oleh subseksyen
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: memberikan -->
+
+(2), membuat, sebagai prinsipal atau bagi pihak
+
+<!-- marginal: keutamaan -->
+
+seseorang orang bersekutu, sesuatu transaksi pembelian
+
+<!-- marginal: kepada -->
+
+<!-- marginal: pesanan -->
+
+atau penjualan kontrak niaga hadapan yang dibenarkan
+
+<!-- marginal: petanggan. -->
+
+diperdagangkan di pasaran niaga hadapan jika seseorang pelanggan broker niaga hadapan itu yang tidak bersekutu dengan broker niaga hadapan itu telah mengarahkan broker niaga hadapan itu supaya membeli atau menjual, masing-masingnya, kontrak niaga hadapan yang sama kelasnya dan broker niaga hadapan itu belum lagi mematuhi arahan itu.
 
 (2) Subseksyen (1) tidak terpakai berhubungan dengan pembuatan sesuatu transaksi oleh seseorang broker niaga hadapan sebagai prinsipal atau bagi pihak seseorang orang bersekutu jika—
 
@@ -1838,19 +2260,47 @@ melebihi had perdagangan yang ditetapkan bagi satu hari perniagaan, atau tempoh 
 
 (6) Tiada apa-apa jua dalam seksyen ini boleh menghalang sesuatu syarikat bursa daripada menetapkan had perdagangan atau kedudukan yang berlainan bagi kontrak niaga hadapan yang berlainan, bulan penyerahan yang berlainan atau hari berlainan yang tinggal sehingga hari terakhir perdagangan dalam sesuatu kontrak bagi maksud subseksyen (5).
 
-Perihal tida! 56. Mana-mana orang yang melanggar atau tidak mematuhi mematuhi mana-mana peruntukan Bahagian ini adalah peruntukan- peruntukan melakukan suatu kesalahan dan, apabila disabitkan, Baliagian in boleh didenda tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau kedua-duanya.
+<!-- marginal: Perihal tida! -->
+
+56. Mana-mana orang yang melanggar atau tidak
+
+<!-- marginal: mematuhi -->
+
+mematuhi mana-mana peruntukan Bahagian ini adalah
+
+<!-- marginal: peruntukan- -->
+
+<!-- marginal: peruntukan -->
+
+melakukan suatu kesalahan dan, apabila disabitkan,
+
+<!-- marginal: Baliagian in -->
+
+boleh didenda tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau kedua-duanya.
 
 ## BAHAGIAN VI
 
 ## TABUNG KESETIAAN
 
-Tafsiran. 57. Dalam Bahagian ini, melainkan jika konteksnya menghendaki makna yang lain—
+<!-- marginal: Tafsiran. -->
+
+57. Dalam Bahagian ini, melainkan jika konteksnya menghendaki makna yang lain—
 
 "jawatankuasa" ertinya jawatankuasa tabung kesetiaan yang ditubuhkan di bawah seksyen 59;
 
 "tabung kesetiaan" ertinya suatu tabung kesetiaan niaga hadapan yang ditubuhkan di bawah seksyen 58.
 
-Penubuhan 58. (1) Sesuatu syarikat bursa hendaklah menubuhkan tabung dan menyenggara suatu tabung kesetiaan yang hendaklah kesetiaan. ditadbirkan oleh suatu jawatankuasa bagi pihak syarikat bursa itu.
+<!-- marginal: Penubuhan -->
+
+58. (1) Sesuatu syarikat bursa hendaklah menubuhkan
+
+<!-- marginal: tabung -->
+
+dan menyenggara suatu tabung kesetiaan yang hendaklah
+
+<!-- marginal: kesetiaan. -->
+
+ditadbirkan oleh suatu jawatankuasa bagi pihak syarikat bursa itu.
 
 <!-- page 63 -->
 
@@ -1900,13 +2350,41 @@ terdiri daripada—
 
 (f) semua wang lain yang dibayar dengan sah ke dalam tabung kesetiaan termasuk derma dan legasi.
 
-Tabung
+<!-- marginal: Tabung -->
 
-61. Semua wang yang menjadi sebahagian daripada kesetiaan tabung kesetiaan sesuatu syarikat hendaklah, sementara hendaklah disimpan menunggu penggunaannya mengikut Bahagian ini, dalam akaun dibayar atau dipindahkan oleh syarikat bursa itu ke dalam berasingan. suatu akaun amanah berasingan yang hendaklah dibuka dengan satu bank berlesen atau lebih.
+61. Semua wang yang menjadi sebahagian daripada
 
-Pembayaran
+<!-- marginal: kesetiaan -->
 
-62. Tertakluk kepada Bahagian ini, maka hendaklah danpada dibayar dari semasa ke semasa daripada tabung kesetiaan tabung kesetiaan. sesuatu syarikat bursa sebagaimana yang dikehendaki dan mengikut apa-apa susunan sebagaimana yang difikirkan patut oleh syarikat bursa itu—
+tabung kesetiaan sesuatu syarikat hendaklah, sementara
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: disimpan -->
+
+menunggu penggunaannya mengikut Bahagian ini,
+
+<!-- marginal: dalam akaun -->
+
+dibayar atau dipindahkan oleh syarikat bursa itu ke dalam
+
+<!-- marginal: berasingan. -->
+
+suatu akaun amanah berasingan yang hendaklah dibuka dengan satu bank berlesen atau lebih.
+
+<!-- marginal: Pembayaran -->
+
+62. Tertakluk kepada Bahagian ini, maka hendaklah
+
+<!-- marginal: danpada -->
+
+dibayar dari semasa ke semasa daripada tabung kesetiaan
+
+<!-- marginal: tabung -->
+
+<!-- marginal: kesetiaan. -->
+
+sesuatu syarikat bursa sebagaimana yang dikehendaki dan mengikut apa-apa susunan sebagaimana yang difikirkan patut oleh syarikat bursa itu—
 
 (a) amaun segala tuntutan, termasuk kos, yang kena dibayar daripada tabung kesetiaan itu di bawah Bahagian ini;
 
@@ -1934,11 +2412,7 @@ tabung kesetiaannya dan hendaklah, sebelum tiga puluh haribulan Jun setiap tahun
 
 (2) Sesuatu syarikat bursa hendaklah melantik seorang juruaudit untuk mengaudit akaun-akaun tabung kesetiaannya.
 
-(3) Juruaudit yang dilantik di bawah subseksyen (2) hendaklah dengan cara yang
-
-<!-- marginal: lazim dan dengan -->
-
-sepenuhnya mengaudit akaun-akaun tabung kesetiaan itu dan hendaklah mengaudit setaip akaun untung rugi dan kunci kira-kira dan menyebabkannya dibentangkan di hadapan syarikat bursa itu tidak lewat daripada satu bulan selepas akaun untung rugi dan kunci kira-kira itu dibuat.
+(3) Juruaudit yang dilantik di bawah subseksyen (2) hendaklah dengan cara yang lazim dan dengan sepenuhnya mengaudit akaun-akaun tabung kesetiaan itu dan hendaklah mengaudit setaip akaun untung rugi dan kunci kira-kira dan menyebabkannya dibentangkan di hadapan syarikat bursa itu tidak lewat daripada satu bulan selepas akaun untung rugi dan kunci kira-kira itu dibuat.
 
 (4) Tidak lewat daripada enam bulan selepas berakhirnya setiap tahun kewangan, syarikat bursa hendaklah menyebabkan suatu salinan akaun untung rugi dan kunci kira-kira teraudit tabung kesetiaannya dihantar kepada Suruhanjaya bersama-sama dengan laporan juruaudit.
 
@@ -1962,9 +2436,51 @@ syarikat bursa amaun sebanyak tiga puluh ribu ringgit sebagai caruman kepada tab
 
 (3) Walau apa pun apa-apa jua dalam seksyen ini, syarikat bursa boleh, dari semasa ke semasa dengan kelulusan Suruhanjaya, mengubah amaun dan cara caruman dibayar oleh broker-broker niaga hadapan kepada tabung kesetiaan.
 
-Kuasa 65. (1) Sesuatu syarikat bursa boleh dari semasa ke syarikat semasa memberikan atau mendahulukan, daripada wang bursa untul membuat amnya atas apa-apa terma yang difikirkan patut oleh pendahulu; syarikat bursa itu, apa-apa jumlah wang kepada tabung kepada tabung kesetiaannya. kesetiaan. (2) Apa-apa wang yang didahulukan di bawah subseksyen (1) boleh dari semasa ke semasa dibayar balik daripada tabung kesetiaan kepada wang am syarikat bursa itu.
+<!-- marginal: Kuasa -->
 
-Pelaburan 66. Sesuatu syarikat bursa boleh melaburkan apa-apa wang wang yang menjadi sebahagian daripada tabung dalam tabung kesetiaannya yang tidak diperlukan dengan segera bagi kesetiaan. apa-apa maksud lain yang diperuntukkan oleh Bahagian ini—
+65. (1) Sesuatu syarikat bursa boleh dari semasa ke
+
+<!-- marginal: syarikat -->
+
+semasa memberikan atau mendahulukan, daripada wang
+
+<!-- marginal: bursa untul -->
+
+<!-- marginal: membuat -->
+
+amnya atas apa-apa terma yang difikirkan patut oleh
+
+<!-- marginal: pendahulu; -->
+
+syarikat bursa itu, apa-apa jumlah wang kepada tabung
+
+<!-- marginal: kepada -->
+
+<!-- marginal: tabung -->
+
+kesetiaannya.
+
+<!-- marginal: kesetiaan. -->
+
+(2) Apa-apa wang yang didahulukan di bawah subseksyen (1) boleh dari semasa ke semasa dibayar balik daripada tabung kesetiaan kepada wang am syarikat bursa itu.
+
+<!-- marginal: Pelaburan -->
+
+66. Sesuatu syarikat bursa boleh melaburkan apa-apa
+
+<!-- marginal: wang -->
+
+wang yang menjadi sebahagian daripada tabung
+
+<!-- marginal: dalam -->
+
+<!-- marginal: tabung -->
+
+kesetiaannya yang tidak diperlukan dengan segera bagi
+
+<!-- marginal: kesetiaan. -->
+
+apa-apa maksud lain yang diperuntukkan oleh Bahagian ini—
 
 (a) sebagai simpanan tetap dengan sesuatu institusi berlesen; atau
 
@@ -1974,7 +2490,19 @@ Pelaburan 66. Sesuatu syarikat bursa boleh melaburkan apa-apa wang wang yang men
 
 pemegang-pemegang amanah dibenarkan oleh undang-undang melaburkan wang amanah.
 
-Tuntutan 67. (1) Jika seseorang itu menanggung kerugian wang terhadap oleh sebab sesuatu kemungkiran yang dilakukan, dalam tabung kesetiaan. penjalanan atau berkaitan dengan perdagangan dalam kontrak niaga hadapan dalam sesuatu pasaran hadapan sesuatu syarikat bursa, oleh seseorang broker niaga hadapan, atau oleh mana-mana pengarah atau pekerja, mengikut mana-mana yang berkenaan, broker niaga hadapan itu berkenaan dengan apa-apa wang, kontrak niaga hadapan atau harta lain—
+<!-- marginal: Tuntutan -->
+
+67. (1) Jika seseorang itu menanggung kerugian wang
+
+<!-- marginal: terhadap -->
+
+oleh sebab sesuatu kemungkiran yang dilakukan, dalam
+
+<!-- marginal: tabung -->
+
+<!-- marginal: kesetiaan. -->
+
+penjalanan atau berkaitan dengan perdagangan dalam kontrak niaga hadapan dalam sesuatu pasaran hadapan sesuatu syarikat bursa, oleh seseorang broker niaga hadapan, atau oleh mana-mana pengarah atau pekerja, mengikut mana-mana yang berkenaan, broker niaga hadapan itu berkenaan dengan apa-apa wang, kontrak niaga hadapan atau harta lain—
 
 (a) yang telah diamanahkah kepada atau diterima oleh broker niaga hadapan itu, atau mana-mana
 
@@ -1996,9 +2524,35 @@ dia adalah berhak, tertakluk kepada Bahagian ini, untuk menuntut pampasan daripa
 
 <!-- page 68 -->
 
-Had 68. Amaun yang boleh dibayar kepada mana-mana pampasan. orang, dan amaun atau agregat amaun yang boleh dibayar berkenaan dengan mana-mana broker niaga hadapan sebagai pampasan di bawah subseksyen 67(1), hendaklah terhad kepada amaun yang dinyatakan dalam kaedah- kaedah syarikat bursa.
+<!-- marginal: Had -->
 
-Notis 69. (1) Jika sesuatu syarikat bursa mempunyai sebab memanggil untuk mempercayai bahawa seseorang broker niaga tuntutan terhadap hadapan telah melakukan kemungkiran yang boleh tabung mengakibatkan pampasan kena dibayar di bawah kesetiaan. Bahagian ini, syarikat bursa itu hendaklah menyebabkan supaya disiarkan dalam dua akhbar harian yang diterbitkan dan diedarkan secara umum di Malaysia, satu dalam bahasa kebangsaan dan satu dalam bahasa Inggeris, suatu notis yang menyatakan suatu tarikh yang tidak lebih awal daripada tiga bulan selepas penyiaran notis itu yang pada atau sebelumnya tuntutan-tuntutan bagi pampasan daripada tabung kesetiaan boleh dibuat berhubungan dengan broker niaga saham yang dinyatakan dalam notis itu.
+68. Amaun yang boleh dibayar kepada mana-mana
+
+<!-- marginal: pampasan. -->
+
+orang, dan amaun atau agregat amaun yang boleh dibayar berkenaan dengan mana-mana broker niaga hadapan sebagai pampasan di bawah subseksyen 67(1), hendaklah terhad kepada amaun yang dinyatakan dalam kaedah- kaedah syarikat bursa.
+
+<!-- marginal: Notis -->
+
+69. (1) Jika sesuatu syarikat bursa mempunyai sebab
+
+<!-- marginal: memanggil -->
+
+untuk mempercayai bahawa seseorang broker niaga
+
+<!-- marginal: tuntutan -->
+
+<!-- marginal: terhadap -->
+
+hadapan telah melakukan kemungkiran yang boleh
+
+<!-- marginal: tabung -->
+
+mengakibatkan pampasan kena dibayar di bawah
+
+<!-- marginal: kesetiaan. -->
+
+Bahagian ini, syarikat bursa itu hendaklah menyebabkan supaya disiarkan dalam dua akhbar harian yang diterbitkan dan diedarkan secara umum di Malaysia, satu dalam bahasa kebangsaan dan satu dalam bahasa Inggeris, suatu notis yang menyatakan suatu tarikh yang tidak lebih awal daripada tiga bulan selepas penyiaran notis itu yang pada atau sebelumnya tuntutan-tuntutan bagi pampasan daripada tabung kesetiaan boleh dibuat berhubungan dengan broker niaga saham yang dinyatakan dalam notis itu.
 
 (2) Jika mana-mana orang hendak menuntut pampasan daripada tabung kesetiaan di bawah Bahagian ini, dia hendaklah membuat tuntutan secara bertulis kepada syarikat bursa—
 
@@ -2048,7 +2602,21 @@ membenarkan tuntutan itu.
 
 (7) Walaupun sesuatu syarikat bursa telah membuat keputusan membenarkan suatu tuntutan atau sebahagian daripada suatu tuntutan di bawah seksyen ini berkenaan dengan kemungkiran yang dilakukan oleh mana-mana broker niaga hadapan, pembayaran amaun yang dibenarkan daripada tabung kesetiaannya tidak boleh dibuat sehingga selepas tamat tempoh yang dibenarkan untuk membuat rayuan di bawah seksyen 72, dan jika rayuan dibuat kepada Suruhanjaya mengikut seksyen 72 oleh mana-mana orang terhadap apa-apa keputusan syarikat bursa itu, tiada pembayaran boleh dibuat kepada mana-mana pihak menuntut sehingga selepas rayuan itu diputuskan.
 
-Syarikat 71. (1) Sesuatu syarikat bursa boleh menghendaki bursa boleh mana-mana orang supaya mengemukakan apa-apa menghendakt kontrak niaga hadapan, dokumen atau penyata— dokumen, dll. dikemukakan.
+<!-- marginal: Syarikat -->
+
+71. (1) Sesuatu syarikat bursa boleh menghendaki
+
+<!-- marginal: bursa boleh -->
+
+mana-mana orang supaya mengemukakan apa-apa
+
+<!-- marginal: menghendakt -->
+
+kontrak niaga hadapan, dokumen atau penyata—
+
+<!-- marginal: dokumen, dll. -->
+
+<!-- marginal: dikemukakan. -->
 
 (a) untuk menyokong apa-apa tuntutan pampasan di bawah Bahagian ini;
 
@@ -2058,7 +2626,21 @@ Syarikat 71. (1) Sesuatu syarikat bursa boleh menghendaki bursa boleh mana-mana 
 
 (2) Jika mana-mana pihak menuntut yang dikehendaki oleh sesuatu syarikat bursa supaya mengemukakan sesuatu kontrak niaga hadapan, dokumen atau penyata di bawah subseksyen ( 1) tidak mengemukakannya dalam masa tiga puluh hari atau apa-apa tempoh yang lebih lama yang dibenarkan oleh syarikat bursa itu dalam mana-mana kes tertentu maka syarikat bursa itu boleh, jika berpuas hati bahawa kontrak niaga hadapan, dokumen atau penyata itu ada dalam milik atau boleh didapati oleh pihak menuntut itu, menolak tuntutan pihak menuntut itu.
 
-Hak membuat 72. Mana-mana orang yang terkilan dengan sesuatu rayuan keputusan yang dibuat oleh sesuatu syarikat bursa di terhadap keputusan bawah seksyen 70 atau subseksyen 71(2) boleh, dalam syankat bursa.
+<!-- marginal: Hak membuat -->
+
+72. Mana-mana orang yang terkilan dengan sesuatu
+
+<!-- marginal: rayuan -->
+
+keputusan yang dibuat oleh sesuatu syarikat bursa di
+
+<!-- marginal: terhadap -->
+
+<!-- marginal: keputusan -->
+
+bawah seksyen 70 atau subseksyen 71(2) boleh, dalam
+
+<!-- marginal: syankat bursa. -->
 
 <!-- page 71 -->
 
@@ -2188,15 +2770,45 @@ kesetiaan itu yang akan diterima pada masa hadapan dan dibayar daripada tabung k
 
 adalah selesai dengan mutlak.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-76. (1) Sesuatu syarikat bursa boleh menginsuranskan syarikat bursa untuk tabung kesetiaannya dengan mana-mana perniagaan membuat insurans berdaftar di Malaysia bagi maksud melindungi kontrak insurans dan tabung kesetiaan terhadap apa-apa pemupusan penggunaan disebabkan oleh tuntutan-tuntutan yang dibuat di bawah hasil. Bahagian ini.
+76. (1) Sesuatu syarikat bursa boleh menginsuranskan
+
+<!-- marginal: syarikat -->
+
+<!-- marginal: bursa untuk -->
+
+tabung kesetiaannya dengan mana-mana perniagaan
+
+<!-- marginal: membuat -->
+
+insurans berdaftar di Malaysia bagi maksud melindungi
+
+<!-- marginal: kontrak -->
+
+<!-- marginal: insurans dan -->
+
+tabung kesetiaan terhadap apa-apa pemupusan
+
+<!-- marginal: penggunaan -->
+
+disebabkan oleh tuntutan-tuntutan yang dibuat di bawah
+
+<!-- marginal: hasil. -->
+
+Bahagian ini.
 
 (2) Seseorang yang membuat tuntutan terhadap tabung kesetiaan tidaklah mempunyai apa-apa hak atau tindakan terhadap mana-mana penanggung insurans yang dengannya suatu kontrak insurans atau tanggung rugi dibuat di bawah seksyen ini, dan tidaklah juga mempunyai apa-apa hak atau tuntutan berkenaan dengan apa-apa wang yang dibayar oleh penanggung insurans itu mengikut apa-apa kontrak sedemikian.
 
-Tanggung
+<!-- marginal: Tanggung -->
 
-77. (1) Walau apa pun apa-apa jua dalam Bahagian ini, rugi syarikat bursa. sesuatu syarikat bursa hendaklah bertanggungan sepenuhnya dan hendaklah menanggung rugi broker- broker niaga hadapan atas kemungkirannya sendiri.
+77. (1) Walau apa pun apa-apa jua dalam Bahagian ini,
+
+<!-- marginal: rugi syarikat -->
+
+<!-- marginal: bursa. -->
+
+sesuatu syarikat bursa hendaklah bertanggungan sepenuhnya dan hendaklah menanggung rugi broker- broker niaga hadapan atas kemungkirannya sendiri.
 
 <!-- page 73 -->
 
@@ -2248,21 +2860,59 @@ sesuatu pesanan bagi pembelian atau penjualan suatu kontrak niaga hadapan di ses
 
 <!-- page 74 -->
 
-Penyebaran
+<!-- marginal: Penyebaran -->
 
-81. Tiada seorang pun boleh mengedarkan, maklumat menyebarkan atau membenarkan, atau terbabit dalam tentang perdagangan pengedaran atau penyebaran, apa-apa pernyataan atau palsu maklumat yang bermaksud bahawa harga perdagangan dalam mana-mana kelas kontrak niaga hadapan akan, atau mungkin akan, naik atau turun oleh sebab operasi pasaran satu orang atau lebih dan dia tahu operasi itu dijalankan dengan melanggar seksyen 79.
+81. Tiada seorang pun boleh mengedarkan,
 
-Manipulasi
+<!-- marginal: maklumat -->
 
-82. Tiada seorang pun boleh secara langsung atau tak harga kontral langsung— niaga hadapan dan memborong-
+menyebarkan atau membenarkan, atau terbabit dalam
 
-(a) memanipulasi atau cuba memanipulasi harga simpan. kontrak niaga hadapan yang mungkin diniagakan di sesuatu pasaran niaga hadapan, atau harga apa-apa suratcara dasar yang menjadi hal perkara kontrak niaga hadapan itu; atau
+<!-- marginal: tentang -->
+
+<!-- marginal: perdagangan -->
+
+pengedaran atau penyebaran, apa-apa pernyataan atau
+
+<!-- marginal: palsu -->
+
+maklumat yang bermaksud bahawa harga perdagangan dalam mana-mana kelas kontrak niaga hadapan akan, atau mungkin akan, naik atau turun oleh sebab operasi pasaran satu orang atau lebih dan dia tahu operasi itu dijalankan dengan melanggar seksyen 79.
+
+<!-- marginal: Manipulasi -->
+
+82. Tiada seorang pun boleh secara langsung atau tak
+
+<!-- marginal: harga kontral -->
+
+langsung—
+
+<!-- marginal: niaga -->
+
+<!-- marginal: hadapan dan -->
+
+<!-- marginal: memborong- -->
+
+(a) memanipulasi atau cuba memanipulasi harga
+
+<!-- marginal: simpan. -->
+
+kontrak niaga hadapan yang mungkin diniagakan di sesuatu pasaran niaga hadapan, atau harga apa-apa suratcara dasar yang menjadi hal perkara kontrak niaga hadapan itu; atau
 
 (b) memborong-simpan atau cuba memborong- simpan apa-apa suratcara dasar yang menjadi hal perkara sesuatu kontrak niaga hadapan.
 
-Penggunaan
+<!-- marginal: Penggunaan -->
 
-83. Tiada seorang pun boleh, secara langsung atau tak muslihat. langsung, berkaitan dengan apa-apa transaksi dengan dll untuk memfraud. mana-mana orang lain yang melibatkan perdagangan dalam kontrak niaga hadapan—
+83. Tiada seorang pun boleh, secara langsung atau tak
+
+<!-- marginal: muslihat. -->
+
+langsung, berkaitan dengan apa-apa transaksi dengan
+
+<!-- marginal: dll untuk -->
+
+<!-- marginal: memfraud. -->
+
+mana-mana orang lain yang melibatkan perdagangan dalam kontrak niaga hadapan—
 
 (a) menggunakan apa-apa muslihat, skim atau tipu helah untuk memfraud orang lain itu;
 
@@ -2288,11 +2938,7 @@ penjualan sesuatu kontrak niaga hadapan, membuat—
 
 (a) apa-apa pernyataan yang, pada masa dan dalam hal keadaan pernyataan itu dibuat, adalah palsu, mengelirukan atau memperdayakan berkenaan dengan apa-apa fakta material; atau
 
-(b) apa-apa pernyataan
-
-<!-- marginal: yang, -->
-
-<!-- marginal: oleh -->
+(b) apa-apa pernyataan yang, oleh
 
 <!-- marginal: sebab -->
 
@@ -2362,9 +3008,23 @@ kontrak niaga hadapan atau berhubungan dengan perdagangan dalam sesuatu kontrak 
 
 tidak boleh menggunakan maklumat sedemikian dengan cara tak patut untuk memperoleh, secara langsung atau tak langsung, manfaat bagi dirinya sendiri atau bagi mana-mana orang lain.
 
-Pemalsuan
+<!-- marginal: Pemalsuan -->
 
-87. Tiada pengarah, pengurus, pegawai, juruaudit, rekod oleh pekerja, wakil atau ejen sesuatu syarikat bursa, seseorang pengarah, pekerja broker niaga hadapan atau seseorang penasihat dan ejen. perdagangan niaga hadapan boleh—
+87. Tiada pengarah, pengurus, pegawai, juruaudit,
+
+<!-- marginal: rekod oleh -->
+
+pekerja, wakil atau ejen sesuatu syarikat bursa, seseorang
+
+<!-- marginal: pengarah, -->
+
+<!-- marginal: pekerja -->
+
+broker niaga hadapan atau seseorang penasihat
+
+<!-- marginal: dan ejen. -->
+
+perdagangan niaga hadapan boleh—
 
 (a) membuat atau menyebabkan dibuat, sesuatu catatan palsu dalam mana-mana buku atau rekod atau dalam mana-mana laporan, slip, dokumen atau penyata mengenai perniagaan, hal-ehwal, transaksi, keadaan, aset atau akaun syarikat bursa, broker niaga hadapan atau penasihat perdagangan niaga hadapan itu;
 
@@ -2376,7 +3036,7 @@ Pemalsuan
 
 sedemikian diubah, dipotong, disembunyikan atau dimusnahkan.
 
-Penalti.
+<!-- marginal: Penalti. -->
 
 88. Mana-mana orang yang melanggar atau tidak mematuhi mana-mana peruntukan Bahagian ini adalah melakukan suatu kesalahan dan, apabila disabitkan,
 
@@ -2410,9 +3070,7 @@ apa-apa kesalahan di bawah Akta ini.
 
 (2) Seseorang Pegawai Penyiasat yang menjalankan penyiasatan atau pemeriksaan di bawah Akta ini boleh memasuki mana-mana tempat atau bangunan dan boleh—
 
-(a) memeriksa dan membuat
-
-<!-- marginal: salinan -->
+(a) memeriksa dan membuat salinan
 
 <!-- marginal: atau -->
 
@@ -2436,9 +3094,17 @@ adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak me
 
 (6) Subseksyen (1) tidak boleh ditafsirkan sebagai menghadkan atau menyentuh apa-apa kuasa yang serupa yang diberikan kepada mana-mana orang di bawah mana- mana undang-undang lain.
 
-Kemasukan
+<!-- marginal: Kemasukan -->
 
-91. (1) Bagi maksud menjalankan kuasa-kuasanya di dengan bawah perenggan 90(2)(b) seseorang Pegawai Penyiasat kekerasan. boleh memasuki mana-mana tempat atau bangunan dengan kekerasan, jika perlu.
+91. (1) Bagi maksud menjalankan kuasa-kuasanya di
+
+<!-- marginal: dengan -->
+
+bawah perenggan 90(2)(b) seseorang Pegawai Penyiasat
+
+<!-- marginal: kekerasan. -->
+
+boleh memasuki mana-mana tempat atau bangunan dengan kekerasan, jika perlu.
 
 (2) Walau apa pun subseksyen (1), tiada Pegawai Penyiasat boleh memasuki mana-mana premis dengan menggunakan kekerasan tanpa waran geledah daripada Majistret melainkan jika dia mempunyai alasan-alasan yang munasabah untuk mempercayai bahawa, oleh sebab kelengahan dalam mendapatkan waran geledah, apa-apa barang, artikel, bahan, benda, akaun, buku atau dokumen lain yang disebut dalam perenggan 90(2)(b) akan diganggu atau dimusnahkan atau tujuan mana-mana kemasukan itu mungkin terkecewa.
 
@@ -2486,11 +3152,21 @@ adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak me
 
 IX
 
-AM Penjalanan 93. (1) Tiada pendakwaan bagi apa-apa kesalahan di pendakwaan. bawah Akta ini boleh dimulakan kecuali dengan kebenaran bertulis Pendakwa Raya.
+AM
+
+<!-- marginal: Penjalanan -->
+
+93. (1) Tiada pendakwaan bagi apa-apa kesalahan di
+
+<!-- marginal: pendakwaan. -->
+
+bawah Akta ini boleh dimulakan kecuali dengan kebenaran bertulis Pendakwa Raya.
 
 (2) Mana-mana pegawai Suruhanjaya yang diberi- kuasa secara bertulis oleh Pengerusi Suruhanjaya boleh menjalankan apa-apa pendakwaan bagi mana-mana kesalahan di bawah Akta ini.
 
-Kerahsiaan. 94. (1) Tiap-tiap pengarah, pegawai atau pekerja sesuatu syarikat bursa atau pusat penjelasan hendaklah memelihara, dan membantu dalam memelihara, kerahsiaan berkenaan dengan semua perkara yang sampai kepada pengetahuannya dalam menjalankan atau melaksanakan tugas-tugasnya.
+<!-- marginal: Kerahsiaan. -->
+
+94. (1) Tiap-tiap pengarah, pegawai atau pekerja sesuatu syarikat bursa atau pusat penjelasan hendaklah memelihara, dan membantu dalam memelihara, kerahsiaan berkenaan dengan semua perkara yang sampai kepada pengetahuannya dalam menjalankan atau melaksanakan tugas-tugasnya.
 
 (2) Subseksyen (1) tidaklah terpakai—
 
@@ -2528,25 +3204,47 @@ yang dikehendaki oleh Suruhanjaya.
 
 <!-- marginal: Penalti am. -->
 
-96. Mana-mana orang yang melakukan suatu kesalahan di bawah Akta ini yang baginya
-
-<!-- marginal: tiada penalti -->
+96. Mana-mana orang yang melakukan suatu kesalahan di bawah Akta ini yang baginya tiada penalti
 
 <!-- page 82 -->
 
 diperuntukkan dengan nyata boleh, apabila disabitkan, didenda tidak melebihi lima ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
-Peng- 97. (1) Pegawai Pelesen boleh, dalam sesuatu kes jika kompaunan difikirkannya layak untuk berbuat demikian, meng- kesalahan. kompaunkan apa-apa kesalahan yang dilakukan oleh mana-mana orang di bawah Bahagian III atau IV dengan membuat suatu tawaran bertulis kepada orang itu untuk mengkompaunkan kesalahan itu apabila dibayar kepada Pegawai Pelesen apa-apa jumlah wang dalam masa yang ditentukan dalam tawaran itu.
+<!-- marginal: Peng- -->
+
+97. (1) Pegawai Pelesen boleh, dalam sesuatu kes jika
+
+<!-- marginal: kompaunan -->
+
+difikirkannya layak untuk berbuat demikian, meng-
+
+<!-- marginal: kesalahan. -->
+
+kompaunkan apa-apa kesalahan yang dilakukan oleh mana-mana orang di bawah Bahagian III atau IV dengan membuat suatu tawaran bertulis kepada orang itu untuk mengkompaunkan kesalahan itu apabila dibayar kepada Pegawai Pelesen apa-apa jumlah wang dalam masa yang ditentukan dalam tawaran itu.
 
 (2) Sesuatu tawaran di bawah subseksyen (1) boleh dibuat pada bila-bila masa selepas kesalahan itu dilakukan, tetapi sebelum apa-apa pendakwaan baginya dimulakan, dan jika amaun yang ditentukan dalam tawaran itu tidak dibayar dalam masa yang ditentukan dalam tawaran itu atau dalam apa-apa tempoh lanjutan yang diberikan oleh Pegawai Pelesen, pendakwaan bagi kesalahan itu boleh dimulakan pada bila-bila masa selepas itu terhadap orang yang kepadanya tawaran itu dibuat.
 
 (3) Jika sesuatu kesalahan telah dikompaunkan di bawah subseksyen (1), maka tiada pendakwaan boleh selepas itu dimulakan berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk meng- kompaunkan kesalahan itu dibuat.
 
-Orang yang 98. (1) Seseorang yang melanggar mana-mana disabitkan n peruntukan Akta ini dan telah disabitkan atas suatu bertanggungi membayar kesalahan berhubungan dengan pelanggaran
+<!-- marginal: Orang yang -->
+
+98. (1) Seseorang yang melanggar mana-mana
+
+<!-- marginal: disabitkan -->
+
+n peruntukan Akta ini dan telah disabitkan atas suatu
+
+<!-- marginal: bertanggungi -->
+
+<!-- marginal: membayar -->
+
+kesalahan berhubungan dengan pelanggaran
 
 <!-- marginal: itu -->
 
-pampasan. hendaklah bertanggungan membayar pampasan kepada mana-mana orang lain yang, dalam berdagang dalam kontrak niaga hadapan dengan orang yang mula-mula disebut itu atau seseorang yang bertindak bagi atau bagi pihak orang yang mula-mula disebut itu, mengalami kerugian oleh sebab perbezaan di antara harga perdagangan itu berlaku dengan harga perdagangan itu mungkin akan berlaku sekiranya pelanggaran itu tidak terjadi.
+<!-- marginal: pampasan. -->
+
+hendaklah bertanggungan membayar pampasan kepada mana-mana orang lain yang, dalam berdagang dalam kontrak niaga hadapan dengan orang yang mula-mula disebut itu atau seseorang yang bertindak bagi atau bagi pihak orang yang mula-mula disebut itu, mengalami kerugian oleh sebab perbezaan di antara harga perdagangan itu berlaku dengan harga perdagangan itu mungkin akan berlaku sekiranya pelanggaran itu tidak terjadi.
 
 <!-- page 83 -->
 
@@ -2604,15 +3302,75 @@ perniagaan sekuriti yang berhubungan dengan atau berkaitan dengan sesuatu kontra
 
 pertaganan.
 
-Sekatan 101. Perdagangan dalam kontrak niaga hadapan dalam terhadap sesuatu pasaran niaga hadapan hendaklah berkenaan perniagaan dalam dengan apa-apa suratcara yang diluluskan oleh pasaran niaga Suruhanjaya dari semasa ke semasa. hadapan.
+<!-- marginal: Sekatan -->
 
-Perdagangan 102. (1) Seseorang broker niaga hadapan tidak boleh dalam kontrak berdagang dalam kontrak niaga hadapan di mana-mana niaga hadapai di luar bursa niaga hadapan di luar Malaysia kecuali di pasaran Malaysia. niaga hadapan sesuatu Bursa Ditentukan.
+101. Perdagangan dalam kontrak niaga hadapan dalam
+
+<!-- marginal: terhadap -->
+
+sesuatu pasaran niaga hadapan hendaklah berkenaan
+
+<!-- marginal: perniagaan -->
+
+<!-- marginal: dalam -->
+
+dengan apa-apa suratcara yang diluluskan oleh
+
+<!-- marginal: pasaran niaga -->
+
+Suruhanjaya dari semasa ke semasa.
+
+<!-- marginal: hadapan. -->
+
+<!-- marginal: Perdagangan -->
+
+102. (1) Seseorang broker niaga hadapan tidak boleh
+
+<!-- marginal: dalam kontrak -->
+
+berdagang dalam kontrak niaga hadapan di mana-mana
+
+<!-- marginal: niaga hadapai -->
+
+<!-- marginal: di luar -->
+
+bursa niaga hadapan di luar Malaysia kecuali di pasaran
+
+<!-- marginal: Malaysia. -->
+
+niaga hadapan sesuatu Bursa Ditentukan.
 
 (2) Mana-mana broker niaga hadapan yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau kedua-duanya.
 
-Deposit 103. Seseorang broker niaga hadapan tidak boleh hendaklah berdagang di pasaran niaga hadapan sesuatu Bursa dibayar bagi perdagangan Ditentukan melainkan jika dia telah membayar kepada di Bursa Suruhanjaya suatu deposit yang tidak kurang daripada Ditentukan. satu ratus ribu ringgit dalam bentuk wang tunai atau dalam apa-apa bentuk lain yang dibenarkan oleh Suruhanjaya.
+<!-- marginal: Deposit -->
 
-Penyelesaian 104. Apa-apa pertikaian yang berbangkit daripada pertikaian. perniagaan perdagangan dalam kontrak niaga hadapan di pasaran niaga hadapan sesuatu syarikat bursa—
+103. Seseorang broker niaga hadapan tidak boleh
+
+<!-- marginal: hendaklah -->
+
+berdagang di pasaran niaga hadapan sesuatu Bursa
+
+<!-- marginal: dibayar bagi -->
+
+<!-- marginal: perdagangan -->
+
+Ditentukan melainkan jika dia telah membayar kepada
+
+<!-- marginal: di Bursa -->
+
+Suruhanjaya suatu deposit yang tidak kurang daripada
+
+<!-- marginal: Ditentukan. -->
+
+satu ratus ribu ringgit dalam bentuk wang tunai atau dalam apa-apa bentuk lain yang dibenarkan oleh Suruhanjaya.
+
+<!-- marginal: Penyelesaian -->
+
+104. Apa-apa pertikaian yang berbangkit daripada
+
+<!-- marginal: pertikaian. -->
+
+perniagaan perdagangan dalam kontrak niaga hadapan di pasaran niaga hadapan sesuatu syarikat bursa—
 
 (a) antara broker niaga hadapan;
 
@@ -2642,11 +3400,7 @@ syarikat bursa boleh mengambil atau menggunakan, atau melekatkan atau mempamerka
 
 (a) mengambil atau menggunakan gelaran atau perihalan "broker niaga hadapan" atau "penasihat perdagangan niaga hadapan"; atau
 
-(b) mengambil atau mengunakan, atau melekatkan atau mempamerkan di mana-mana tempat, apa- apa gelaran atau perihalan yang menyerupai gelaran-gelaran yang dinyatakan dalam perenggan (a) atau yang sebegitu hampir menyerupai gelaran-gelaran
-
-<!-- marginal: sedemikian -->
-
-sehingga mungkin memperdaya.
+(b) mengambil atau mengunakan, atau melekatkan atau mempamerkan di mana-mana tempat, apa- apa gelaran atau perihalan yang menyerupai gelaran-gelaran yang dinyatakan dalam perenggan (a) atau yang sebegitu hampir menyerupai gelaran-gelaran sedemikian sehingga mungkin memperdaya.
 
 (3) Mana-mana orang yang melanggar seksyen ini adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.
 
@@ -2680,17 +3434,73 @@ peruntukan-peruntukan Akta ini dengan lebih baik.
 
 (b) boleh membuat peruntukan bagi pengenaan penalti yang tidak boleh melebihi satu ratus ribu ringgit bagi kesalahan sedemikian.
 
-Pengecualian 107. Peruntukan-peruntukan Akta ini tidaklah terpakai berkenaan bagi sesuatu Bursa Saham yang ditubuhkan di bawah dengan Akta Penndustnan Akta Perindustrian Sekuriti 1983 dan perdagangan dalam Sekuriti 1983. kontrak niaga hadapan di bawah Akta ini tidaklah disifatkan sebagai berniaga sekuriti di bawah Akta Perindustrian Sekuriti 1983.
+<!-- marginal: Pengecualian -->
 
-Pengecualian 108. Peruntukan-peruntukan Akta ini tidaklah terpakai berkenaan bagi sesuatu Bursa Komoditi dan perdagangan dalam dengan Akta Dagangan kontrak niaga hadapan komoditi sebagaimana yang Komoditi diperuntukkan melalui Akta Dagangan Komoditi 1985 1985 dan perdagangan dalam kontrak niaga hadapan di bawah Akta ini tidaklah disifatkan perdagangan dalam kontrak niaga hadapan komoditi di bawah Akta Dagangan Komoditi 1985.
+107. Peruntukan-peruntukan Akta ini tidaklah terpakai
 
-Bank luar 109. Peruntukan-peruntukan Akta ini yang berhubungan pesisir, dengan seseorang yang menjalankan perniagaan syarikat iuar pesisir, penasihat perdagangan niaga hadapan
+<!-- marginal: berkenaan -->
+
+bagi sesuatu Bursa Saham yang ditubuhkan di bawah
+
+<!-- marginal: dengan Akta -->
+
+<!-- marginal: Penndustnan -->
+
+Akta Perindustrian Sekuriti 1983 dan perdagangan dalam
+
+<!-- marginal: Sekuriti 1983. -->
+
+kontrak niaga hadapan di bawah Akta ini tidaklah disifatkan sebagai berniaga sekuriti di bawah Akta Perindustrian Sekuriti 1983.
+
+<!-- marginal: Pengecualian -->
+
+108. Peruntukan-peruntukan Akta ini tidaklah terpakai
+
+<!-- marginal: berkenaan -->
+
+bagi sesuatu Bursa Komoditi dan perdagangan dalam
+
+<!-- marginal: dengan Akta -->
+
+<!-- marginal: Dagangan -->
+
+kontrak niaga hadapan komoditi sebagaimana yang
+
+<!-- marginal: Komoditi -->
+
+diperuntukkan melalui Akta Dagangan Komoditi 1985
+
+<!-- marginal: 1985 -->
+
+dan perdagangan dalam kontrak niaga hadapan di bawah Akta ini tidaklah disifatkan perdagangan dalam kontrak niaga hadapan komoditi di bawah Akta Dagangan Komoditi 1985.
+
+<!-- marginal: Bank luar -->
+
+109. Peruntukan-peruntukan Akta ini yang berhubungan
+
+<!-- marginal: pesisir, -->
+
+dengan seseorang yang menjalankan perniagaan
+
+<!-- marginal: syarikat -->
+
+<!-- marginal: iuar pesisir, -->
+
+penasihat perdagangan niaga hadapan
 
 <!-- marginal: tidaklah -->
 
-dsb. terpakai— dikecualikan.
+<!-- marginal: dsb. -->
 
-(a) bagi sesuatu bank luar pesisir berlesen Akta 443. sebagaimana yang ditakrifkan dalam Akta Bank Luar Pesisir 1990;
+terpakai—
+
+<!-- marginal: dikecualikan. -->
+
+(a) bagi sesuatu bank luar pesisir berlesen
+
+<!-- marginal: Akta 443. -->
+
+sebagaimana yang ditakrifkan dalam Akta Bank Luar Pesisir 1990;
 
 <!-- page 87 -->
 
@@ -2812,9 +3622,7 @@ IV
 
 <!-- page 91 -->
 
-38. Fasal 43 mengadakan peruntukan bagi kerahsiaan maklumat yang diperoleh oleh seseorang juruaudit atau pekerjanya dalam menunaikan kewajipan-kewajipannya,
-
-<!-- marginal: tertakluk -->
+38. Fasal 43 mengadakan peruntukan bagi kerahsiaan maklumat yang diperoleh oleh seseorang juruaudit atau pekerjanya dalam menunaikan kewajipan-kewajipannya, tertakluk
 
 <!-- marginal: kepada -->
 
@@ -2824,11 +3632,7 @@ kekecualian-kekecualian perlu yang tertentu.
 
 40. Fasal 45 mengadakan peruntukan bagi penyenggaraan buku dan rekod oleh seseorang penasihat perdagangan niaga hadapan dan bagi pendedahan kepada pelanggan dan peserta mereka tentang kedudukan pasaran.
 
-41. Fasal 46 memperuntukkan bahawa peruntukan-peruntukan
-
-## Bahagian IV berkenaan dengan perlantikan juruaudit, kewajipan
-
-juruaudit atau pemfailan laporan juruaudit hendaklah terpakai bagi penasihat perdagangan niaga hadapan, bursa niaga hadapan dan pusat penjelasan.
+41. Fasal 46 memperuntukkan bahawa peruntukan-peruntukan Bahagian IV berkenaan dengan perlantikan juruaudit, kewajipan juruaudit atau pemfailan laporan juruaudit hendaklah terpakai bagi penasihat perdagangan niaga hadapan, bursa niaga hadapan dan pusat penjelasan.
 
 42. Fasal 47 memberikan kuasa-kuasa kepada Suruhanjaya untuk melantik sendiri juruaudit dan mengenakan kewajipan tambahan ke atas juruaudit sesuatu syarikat bursa, sesuatu pusat penjelasan atau seseorang broker niaga hadapan.
 
@@ -2978,6 +3782,4 @@ IX
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
-
-<!-- marginal: [PN(U2)1671.] -->
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN(U2)1671.]

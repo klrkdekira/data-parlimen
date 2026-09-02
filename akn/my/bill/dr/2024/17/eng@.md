@@ -478,7 +478,7 @@ substance dependants and drug or substance misusers and other matters as may be 
 
 28. The principal Act is amended by inserting after section 31 the following schedule:
 
-“Schedule
+## “SCHEDULE
 
 [Section 2]
 

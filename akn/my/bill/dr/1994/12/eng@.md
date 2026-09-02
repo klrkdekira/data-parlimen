@@ -8,27 +8,13 @@
 
 ## PRELIMINARY
 
-1. Short title, application and commencement.
-
-2. Interpretation.
-
-3. Savings for provisions in other written laws.
+1. Short title, application and commencement. 2. Interpretation. 3. Savings for provisions in other written laws.
 
 ## PART II
 
 ## PROTECTION ORDER
 
-4. Interim protection order.
-
-5. Protection order.
-
-6. Orders that may be included in protection order.
-
-7. Powers of arrest.
-
-8. Contravention of protection order.
-
-9. Making or renewing orders upon contravention of protection order.
+4. Interim protection order. 5. Protection order. 6. Orders that may be included in protection order. 7. Powers of arrest. 8. Contravention of protection order. 9. Making or renewing orders upon contravention of protection order.
 
 ## PART III
 
@@ -61,6 +47,8 @@
 ## PART V
 
 ## MISCELLANEOUS
+
+<!-- marginal: Clause -->
 
 18. Information on offences involving domestic violence.
 
@@ -136,15 +124,7 @@ compensation under section 10, the court competent to hear such claims in tort;
 
 by a person against—
 
-(i) his or her spouse;
-
-(ii) his or her former spouse;
-
-(iii) a child;
-
-(iv) an incapacitated adult; or
-
-(v) any other member of the family;
+(i) his or her spouse; (ii) his or her former spouse; (iii) a child; (iv) an incapacitated adult; or (v) any other member of the family;
 
 "enforcement officer" means a police officer or a welfare officer from the Department of Social Welfare;
 
@@ -184,13 +164,25 @@ of the offender who in the opinion of the court should in the circumstances of t
 
 <!-- page 6 -->
 
-Savings for
+<!-- marginal: Savings for -->
 
-3. The provisions of this Act shall be in addition to, and provisions not in derogation of, any provisions relating to offences in other written laws. against the person or in respect of property contained
+3. The provisions of this Act shall be in addition to, and
 
-### F.M.S.
+<!-- marginal: provisions -->
 
-in the Penal Code or any other written law. Cap 45
+not in derogation of, any provisions relating to offences
+
+<!-- marginal: in other -->
+
+<!-- marginal: written laws. -->
+
+against the person or in respect of property contained
+
+<!-- marginal: F.M.S. -->
+
+in the Penal Code or any other written law.
+
+<!-- marginal: Cap 45 -->
 
 ## PART
 
@@ -198,15 +190,27 @@ II
 
 ## PROTECTION ORDER
 
-Intenm
+<!-- marginal: Intenm -->
 
-4. (1) The court may, during the pendency of protection investigations relating to the commission of an offence order. involving domestic violence, issue an interim protection order prohibiting the person against whom the order is made from using domestic violence against his or her spouse or former spouse or a child or an incapacitated adult or any other member of the family, as the case may be, as specified in the order.
+4. (1) The court may, during the pendency of
+
+<!-- marginal: protection -->
+
+investigations relating to the commission of an offence
+
+<!-- marginal: order. -->
+
+involving domestic violence, issue an interim protection order prohibiting the person against whom the order is made from using domestic violence against his or her spouse or former spouse or a child or an incapacitated adult or any other member of the family, as the case may be, as specified in the order.
 
 (2) An interim protection order shall cease to have effect upon the completion of the investigations.
 
-Protection
+<!-- marginal: Protection -->
 
-5. (1) The court may, in proceedings involving a order. complaint of domestic violence, issue any one or more of the following protection orders:
+5. (1) The court may, in proceedings involving a
+
+<!-- marginal: order. -->
+
+complaint of domestic violence, issue any one or more of the following protection orders:
 
 (a) a protection order restraining the person against whom the order is made from using domestic violence against the complainant;
 
@@ -216,9 +220,21 @@ Protection
 
 (2) The court in making a protection order under paragraph (1)(a) or (b) or (c) may include a provision that the person against whom the order is made may not incite any other person to commit violence against the protected person or persons.
 
-### Orders that
+<!-- marginal: Orders that -->
 
-6. (1) A protection order issued under section 5 may, may be where the court is satisfied on a balance of probabilities included in protection that it is necessary for the protection and personal safety order.
+6. (1) A protection order issued under section 5 may,
+
+<!-- marginal: may be -->
+
+where the court is satisfied on a balance of probabilities
+
+<!-- marginal: included in -->
+
+<!-- marginal: protection -->
+
+that it is necessary for the protection and personal safety
+
+<!-- marginal: order. -->
 
 <!-- page 7 -->
 
@@ -288,13 +304,19 @@ but nothing in this section shall authorise his continued detention under this s
 
 (4) In this section "judge" includes a Magistrate.
 
-Contraven-
+<!-- marginal: Contraven- -->
 
 8. (1) Any person who wilfully contravenes a
 
-### tion of
+<!-- marginal: tion of -->
 
-protection order or any provision thereof shall be guilty protection order. of an offence and shall, on conviction, be liable to a fine not exceeding two thousand ringgit or to imprisonment for a term not exceeding six months or to both.
+protection order or any provision thereof shall be guilty
+
+<!-- marginal: protection -->
+
+<!-- marginal: order. -->
+
+of an offence and shall, on conviction, be liable to a fine not exceeding two thousand ringgit or to imprisonment for a term not exceeding six months or to both.
 
 (2) Any person who wilfully contravenes a protection order by using violence on a protected person shall, on conviction, be liable to a fine not exceeding four thousand ringgit or to imprisonment for a term not exceeding one year or to both.
 
@@ -302,9 +324,27 @@ protection order or any provision thereof shall be guilty protection order. of a
 
 (4) For the purposes of this section a "protection order" includes an interim protection order.
 
-Making or
+<!-- marginal: Making or -->
 
-9. Where a person against whom a protection order has renewing been made contravenes the protection order, the court orders upon contravention may, in addition to any penalty provided for under of protection section 8, make or make anew, as the case may be, any order. one or more of the orders under subsection 6(1), to commence from such date as is specified in such new order.
+9. Where a person against whom a protection order has
+
+<!-- marginal: renewing -->
+
+been made contravenes the protection order, the court
+
+<!-- marginal: orders upon -->
+
+<!-- marginal: contravention -->
+
+may, in addition to any penalty provided for under
+
+<!-- marginal: of protection -->
+
+section 8, make or make anew, as the case may be, any
+
+<!-- marginal: order. -->
+
+one or more of the orders under subsection 6(1), to commence from such date as is specified in such new order.
 
 ## PART
 
@@ -312,9 +352,13 @@ III
 
 ## COMPENSATION AND COUNSELLING
 
-Compensa-
+<!-- marginal: Compensa- -->
 
-10. (1) Where a victim of domestic violence suffers tion. personal injuries or damage to property or financial loss as a result of the domestic violence, the court hearing a claim for compensation may award such compensation in respect of the injury or damage or loss as it deems just and reasonable.
+10. (1) Where a victim of domestic violence suffers
+
+<!-- marginal: tion. -->
+
+personal injuries or damage to property or financial loss as a result of the domestic violence, the court hearing a claim for compensation may award such compensation in respect of the injury or damage or loss as it deems just and reasonable.
 
 <!-- page 11 -->
 
@@ -326,13 +370,21 @@ Compensa-
 
 (a) the pain and suffering of the victim, and the nature and extent of the physical or mental injury suffered ;
 
-(b) the cost of medical treatment for such injuries;
+(b) the cost of medical treatment
+
+<!-- marginal: for such -->
+
+injuries;
 
 (c) any loss of earnings arising therefrom;
 
 (d) the amount or value of the property taken or destroyed or damaged;
 
-(e) necessary and reasonable expenses incurred by or on behalf of the victim when the victim is compelled to separate or be separated from the defendant due to the domestic violence, such as— (i) lodging expenses to be contributed to a safe place or shelter; (ii) transport and moving expenses; (iii) the expenses required in setting up a separate household which, subject to subsection (4), may include amounts representing such housing loan payments or rental payments or part thereof, in respect of the shared residence, or alternative residence, as the case may be, for such period as the court considers just and reasonably necessary.
+(e) necessary and reasonable expenses incurred by or on behalf of the victim when the victim is compelled to separate or be separated from the defendant due to the domestic violence, such as— (i) lodging expenses to be contributed to a safe place or shelter; (ii) transport and moving expenses; (iii) the expenses required in setting up a separate household which, subject to subsection (4), may include amounts representing such housing
+
+<!-- marginal: loan -->
+
+payments or rental payments or part thereof, in respect of the shared residence, or alternative residence, as the case may be, for such period as the court considers just and reasonably necessary.
 
 (4) In considering any necessary and reasonable expenses that may be taken into account under subparagraph (3)(e)(iii), the court may also take into account—
 
@@ -344,13 +396,25 @@ Compensa-
 
 (c) the possibility of other proceedings being taken between the parties and the matter being more appropriately dealt with under the relevant laws relating to the financial provision of spouses or former spouses and other dependants.
 
-Counselling,
+<!-- marginal: Counselling, -->
 
-11. (1) The court may, in any proceedings in which a etc. protection order is sought, instead of or in addition to issuing a protection order, make one or both of the following orders:
+11. (1) The court may, in any proceedings in which a
+
+<!-- marginal: etc. -->
+
+protection order is sought, instead of or in addition to issuing a protection order, make one or both of the following orders:
 
 (a) that the parties concerned be referred to a conciliatory body;
 
-(b) that one or more of the parties to the dispute be referred to rehabilitation therapy, psychotherapy or such other suitable reconciliatory counselling.
+(b) that one or more of the parties to the dispute be referred to rehabilitation
+
+<!-- marginal: therapy, -->
+
+psychotherapy or such other
+
+<!-- marginal: suitable -->
+
+reconciliatory counselling.
 
 (2) The court hearing a claim for compensation under section 10 may also make one or both of the orders under paragraph (1)(a) or (b).
 
@@ -362,13 +426,19 @@ Counselling,
 
 ## PROCEDURE ON PROTECTION ORDERS
 
-### When interim
+<!-- marginal: When interim -->
 
-12. An interim protection order may be sought pending protection investigations by the police following an information
+12. An interim protection order may be sought pending
 
-### order may
+<!-- marginal: protection -->
 
-be sought. relating to the commission of an offence involving domestic violence.
+investigations by the police following an information
+
+<!-- marginal: order may -->
+
+<!-- marginal: be sought. -->
+
+relating to the commission of an offence involving domestic violence.
 
 <!-- page 13 -->
 
@@ -406,41 +476,53 @@ and shall be heard by the court as soon as practicable.
 
 ## BILL
 
-### Proof of
+<!-- marginal: Proof of -->
 
 17. Within twenty-four hours of the issuance of a
 
-### service of
+<!-- marginal: service of -->
 
 protection order or interim protection order, as the case
 
-### protection
+<!-- marginal: protection -->
 
-order. may be, the Registrar of the court in which it is issued shall forward a copy of the order to the officer in charge of the police district where the offender resides. The police officer concerned shall file proof of service with the Registrar of the court within seven days of service.
+<!-- marginal: order. -->
+
+may be, the Registrar of the court in which it is issued shall forward a copy of the order to the officer in charge of the police district where the offender resides. The police officer concerned shall file proof of service with the Registrar of the court within seven days of service.
 
 ## PART V
 
 ## MISCELLANEOUS
 
-### Information
+<!-- marginal: Information -->
 
-18. (1) Any person who has reason to believe that an on offences offence involving domestic violence is being or has been
+18. (1) Any person who has reason to believe that an
 
-### involving
+<!-- marginal: on offences -->
 
-domestic committed may give information in respect thereof to an
+offence involving domestic violence is being or has been
 
-### violence.
+<!-- marginal: involving -->
+
+<!-- marginal: domestic -->
+
+committed may give information in respect thereof to an
+
+<!-- marginal: violence. -->
 
 enforcement officer.
 
 (2) No person who gives any such information in good faith shall incur any liability for defamation or otherwise in respect of the giving of such information.
 
-### Duties of
+<!-- marginal: Duties of -->
 
-19. (1) The duties of an enforcement officer shall enforcement include—
+19. (1) The duties of an enforcement officer shall
 
-### officers.
+<!-- marginal: enforcement -->
+
+include—
+
+<!-- marginal: officers. -->
 
 (a) assisting a victim of domestic violence to file a complaint regarding the domestic violence;
 
@@ -462,7 +544,9 @@ enforcement officer.
 
 20. (1) The Minister may make regulations for the purpose of carrying into effect the provisions of this Act.
 
-(2) Without prejudice to the generality of subsection (1), such regulations may provide for—
+(2) Without prejudice to the generality of subsection
+
+(1), such regulations may provide for—
 
 (a) the maintenance of a register or record by the courts on matters filed pursuant to this Act;
 

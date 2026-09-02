@@ -1,0 +1,112 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/46/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/46"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-46-2001",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/46/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/46/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/46/msa@/~cl_3"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Bank Negara Malaysia (Pindaan) 2001"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/46/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/46/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/46/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/46/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/46/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/46/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Bank Negara Malaysia (Pindaan) 2001."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/46/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/46/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini hendaklah mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta, Pindaan seksyen 30"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/46/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/46/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/46/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/46/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Bank Negara Malaysia 1958 [Akta 579], yang disebut \"Akta ibu\" dalam Akta ini, dipinda dalam subseksyen 30(1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/46/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/46/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (mmm) dengan perenggan yang berikut: \"(mmm) (i) establish a credit bureau to collect, in such manner and to such extent as the Bank thinks fit, credit information (including information on and relating to the rejection of any cheque by a paying bank by reason of insufficiency of funds in the account of the drawer of the cheque) on the customers of any banking institutions or other financial institutions; and (ii) notwithstanding section 16, disclose, in such manner and to such extent as the Bank thinks fit, the credit information collected by the credit bureau to-— (A) any banking institutions or other financial institutions for the purpose of assisting in assessing the credit-worthiness of its existing and potential customers or for the purpose of assisting the banks to assess the eligibility of the customer to maintain or open a current account with the bank; and (B) the customer of the banking institutions or other financial institutions in respect of his own account for the purpose of verifying the accuracy of the credit information provided by the banking institutions or other financial institutions: Provided that the information disclosed by the Bank to the banking institutions and other financial institutions shall be secret between the Bank and the institutions unless the banking institutions and other financial institutions were requested by a customer to disclose the information in respect of his account: Provided further that no action, suit, prosecution or other proceeding whatsoever shall lie or be brought, instituted or maintained in any court or before any other authority against the Bank on account of or in respect of any act done or statement made or omitted to be done or made under this provision if the act or statement was done or made or omitted to be done or made in good faith;\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/46/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/46/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (mmmm). Pindaan seksyen 51"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/46/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/46/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 51 Akta ibu dipinda dengan memasukkan selepas subseksyen (5) subseksyen yang berikut: \"(5A) Any director, officer or employee of the Bank or of a banking institution or other financial institution who contravenes section 30(1)(mmm) in respect of maintaining as secret any credit information disclosed by the Bank shall, on conviction, be liable to imprisonment for a term not exceeding three years or to a fine not exceeding five thousand ringgit or to both.\"."
+      }
+    }
+  ]
+}

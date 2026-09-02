@@ -76,7 +76,9 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Tatacara Mal Mahkamah Syaria
 
 3. Fasal 2, 4, 5, 6 dan 11 masing-masing bertujuan untuk menggantikan perkataan "Islamic Law" dan "memorandum of appointment" di mana-mana jua terdapat dalam teks bahasa Inggeris Akta 585 masing-masing dengan perkataan "Hukum Syarak" dan "wakalah" untuk menyeragamkan penggunaan istilah.
 
-4. Fasal 3, 8, 9 dan 10 masing-masing bertujuan untuk meminda perenggan 22(b), perenggan 150(2)(b), perenggan 151(1)(aa) dan perenggan 161(d) Akta 585. Pindaan-pindaan itu adalah pindaan gubalan.
+4. Fasal 3, 8, 9 dan 10 masing-masing bertujuan untuk meminda perenggan 22(b), perenggan 150(2)(b), perenggan 151(1)(aa) dan perenggan 161(d) Akta
+
+585. Pindaan-pindaan itu adalah pindaan gubalan.
 
 5. Fasal 7 bertujuan untuk meminda seksyen 112 Akta 585 untuk menggantikan perkataan "Qadi" dengan perkataan "Pendaftar".
 

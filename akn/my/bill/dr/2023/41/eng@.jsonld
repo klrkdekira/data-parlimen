@@ -1,0 +1,2026 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-41-2023",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_VI"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Jurisdictional Immunities of Foreign States Bill 2023"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title and commencement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "JURISDICTIONAL IMMUNITIES OF FOREIGN STATES"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_19"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "IMMUNITY FROM ACTION OR JUDGMENT AGAINST PROPERTY OF FOREIGN STATE Pre-trial action against property of foreign State"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_17__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No pre-trial action shall be brought, instituted or maintained against the property of a foreign State before any court unless—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_17__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_17__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_17__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the foreign State has expressly consented to the taking of such action as provided—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_17__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_17__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in an international agreement;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_17__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_17__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in an arbitration agreement or in a written contract; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_17__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_17__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in a declaration before the court or in a written communication after a dispute between the parties has arisen; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the foreign State has allocated the property for the satisfaction of the claim which is the object of that proceedings. Enforcement of judgment and order against property of foreign State"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No enforcement of judgment and order shall be brought, instituted or maintained against the property of a foreign State before any court unless—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_1__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_1__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_1__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the foreign State has expressly consented to the taking of such measures as provided—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_1__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_1__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in an international agreement;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_1__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_1__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in an arbitration agreement or in a written contract; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_1__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_1__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in a declaration before the court or in a written communication after a dispute between the parties has arisen;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the foreign State has allocated the property for the satisfaction of the claim which is the object of that proceedings; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "it has been established that the property is specifically in use or intended for use by the foreign State other than for government non-commercial purposes and is located in Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of paragraph (1)(c), the following property shall not be deemed as property specially in use or intended for use by the foreign State other than for government non-commercial purposes:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "property, including any bank account, which is used or intended for use in the performance of the functions of the diplomatic mission of the foreign State or its consular posts, special missions, missions to international organizations or delegations of organs of international organizations or to international conferences;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "property of a military character or used or intended for use in the performance of military functions;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "property of the central bank or other monetary authority of the foreign State;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "property forming part of the cultural heritage of the foreign State or part of its archives and is not placed or intended to be placed on sale; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "property forming part of an exhibition of objects of scientific, cultural or historical interest and is not placed or intended to be placed on sale. Effect of consent to jurisdiction for pre-trial action or enforcement of judgment and order against property of foreign State"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A consent on the exercise of jurisdiction under paragraph 7(1)(a) shall not be deemed as a consent to the taking of action or the enforcement of judgment and order under sections 17 and 18 respectively."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_I",
+      "@type": "akn:chapter",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_I__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_I__cl_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "General immunity from jurisdiction Foreign State immunity"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II",
+      "@type": "akn:chapter",
+      "eli:number": "II",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Waiver of immunity Waiver of immunity"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III",
+      "@type": "akn:chapter",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_16"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Restriction of immunity from jurisdiction Restriction of immunity in proceedings arising out of commercial transaction"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A foreign State, the head of State and the head of Government shall not be immune from the jurisdiction of the court in any proceedings relating to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any death or personal injury; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any damage to the property, which occurs in Malaysia. Restriction of immunity in proceedings relating to determination of right, etc., of property"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_11__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_11__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A foreign State shall not be immune from the jurisdiction of the court in any proceedings to determine—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any right, interest or obligation of the foreign State in immovable property situated in Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any right, interest or obligation of the foreign State in movable or immovable property arising out of succession, gift or bona vacantia; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_11__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any right, interest or obligation of the foreign State in the administration of property such as trust property, the estate of a bankrupt or the property of a company in the event of its winding up. Restriction of immunity in proceedings relating to intellectual property, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A foreign State shall not be immune from the jurisdiction of the court in any proceedings relating to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the determination of any right of a foreign State in a patent, industrial design, trade name or business name, trademark, copyright, geographical indication, layout-design of integrated circuits or any other form of intellectual or industrial property; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an alleged infringement by the foreign State, of a right of the nature referred to in paragraph (a) which belongs to a third person and is protected, registered or granted in Malaysia. Restriction of immunity in proceedings relating to participation in companies, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_13__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_13__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_13__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A foreign State shall not be immune from the jurisdiction of the court in any proceedings relating to its participation in a company or other collective body, whether incorporated or unincorporated, being a proceedings concerning the relationship between the foreign State and the company or other collective body or the other participants in the company or collective body, provided that the company or other collective body—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_13__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has participants other than the foreign State or international organizations; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_13__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "is incorporated or constituted, as the case may be, under the law of Malaysia or has its registered address or principal place of business in Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), the immunity enjoyed by the foreign State shall not be affected if the foreign State and the parties to the dispute have agreed not to be subjected to the jurisdiction of the court or instrument establishing or regulating the company or collective body, as the case may be, contains provisions to that effect. Restriction of immunity in proceedings relating to ships owned or operated by foreign State"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_14__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_14__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_14__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_14__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A foreign State shall not be immune from the jurisdiction of the court in any proceedings relating to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_14__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the operation of the ship owned or operated by the foreign State; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_14__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the carriage of cargo on board a ship owned or operated by the foreign State, if at the time the cause of action arose, the ship was used other than for government non-commercial purposes."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A foreign State may plead all measures of defence, prescription and limitation of liability which are applicable to private ships and cargoes and their owners in the proceedings referred to in subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_14__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_14__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_14__subsec_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), the immunity of the foreign State shall not be affected if, for the time being, the disputed ship or cargo, as the case may be, is—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_14__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_14__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a warship or naval auxiliaries used only for government non-commercial service;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_14__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_14__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a ship owned or operated by a foreign State and used only for government non-commercial service; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_14__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_14__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a cargo carried on board the ships referred to in paragraph (a), or a cargo owned by the foreign State and used or intended for use exclusively for government non-commercial purposes."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_14__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If in a proceedings there arises a question relating to the government non-commercial character of a ship owned or operated by a foreign State or cargo owned by a foreign State, a certificate signed by a diplomatic representative or other competent authority of that foreign State and submitted to the court shall serve as evidence of the character of that ship or cargo. Restriction of immunity in proceedings relating to recovery of tax"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_15__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A foreign State, the head of State and the head of Government shall not be immune from the jurisdiction of the court in any proceedings relating to recovery of tax enforced under any written law."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this section, “tax” includes any compulsory charge, duty, excise, cess, dues or other impost imposed under any written law. Restriction of immunity if there is an agreement on arbitration"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_16__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_16__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If there exists an agreement between a foreign State, the head of State or the head of Government and any person to submit to arbitration in Malaysia any dispute relating to a commercial transaction, the foreign State, the head of State or the head of Government shall not be immune from the jurisdiction of the court in any proceedings relating to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the validity, interpretation or application of the arbitration agreement;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the arbitration procedure; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_16__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the confirmation or the setting aside of the award."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_8__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_8__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A foreign State shall not be immune from the jurisdiction of the court in any proceedings arising out of a commercial transaction carried out by the foreign State with any person in Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_8__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_8__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), the immunity enjoyed by the foreign State shall not be affected if—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_8__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the parties to the commercial transaction have expressly agreed that the foreign State shall not be subjected to the jurisdiction of the court; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_8__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the commercial transaction is between foreign States."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_8__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_8__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a foreign State enterprise or other entity established by a foreign State which has an independent legal personality and is capable of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_8__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_8__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "suing or being sued; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_8__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_8__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "acquiring, owning or possessing and disposing of property, including property which that foreign State has authorized it to operate or manage, is involved in a proceedings relating to a commercial transaction in which that entity is engaged, the immunity enjoyed by that foreign State shall not be affected."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_8__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The head of State and the head of Government shall not be immune from the jurisdiction of the court in any proceedings arising out of a commercial transaction carried out by him with any person in Malaysia in his personal capacity. Restriction of immunity in proceedings relating to contract of employment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A foreign State shall not be immune from the jurisdiction of the court in any proceedings relating to contract of employment between the foreign State and an individual for any work performed or to be performed, in whole or in part, in Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_2__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), the immunity enjoyed by the foreign State shall not be affected if—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the employee has been recruited to perform particular functions in the exercise of governmental authority of the foreign State;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_2__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_2__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_2__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the employee is—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_2__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a diplomatic agent or consular officer as it is defined in the Diplomatic Privileges (Vienna Convention) Act 1966 [Act 636] and the Consular Relations (Vienna Convention) Act 1999 [Act 595] respectively;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_2__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a member of the diplomatic staff of a permanent mission to an international organization or of a special mission, or is recruited to represent a foreign State at an international conference; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_2__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other person enjoying diplomatic immunity;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the subject matter of the proceedings is the recruitment, renewal of employment or reinstatement of employment of an individual;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the subject matter of the proceedings is the dismissal or termination of employment of an individual and, as determined by the head of State, the head of Government or the Minister of Foreign Affairs of the employer foreign State, such a proceedings would interfere with the security interests of that foreign State;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "at the time when the proceedings is instituted, the employee is a national of the employer foreign State unless the employee is a permanent resident of Malaysia; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the employer foreign State and the employee have agreed in writing that the immunity enjoyed by the foreign State shall not be affected, subject to any public policy conferring jurisdiction of the court by reason of the subject matter of the proceedings."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The head of State and the head of Government shall not be immune from the jurisdiction of the court in any proceedings relating to contract of employment with any person in Malaysia in his personal capacity. Restriction of immunity in proceedings relating to personal injuries, etc., claims"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A foreign State, the head of State and the head of Government shall be deemed to have waived their immunity from the jurisdiction of the court if any of them—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has expressly consented to the exercise of the jurisdiction of the court;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has submitted to the jurisdiction of the court;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has instituted, intervened or taken any step in the proceedings of the court; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has filed any counterclaim arising out of the same legal relationship or facts as the principal claim in any court."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), a foreign State, the head of State and the head of Government shall not be deemed to have waived their immunity from the jurisdiction of the court if—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7__subsec_2__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7__subsec_2__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the foreign State, the head of State and the head of Government, enters an appearance, intervenes or takes any other step in a proceedings before a court only for the purposes of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7__subsec_2__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7__subsec_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "invoking immunity; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7__subsec_2__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7__subsec_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "asserting a right or interest in property at issue in the proceedings; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the foreign State or its representative, the head of State or the head of Government appears as a witness in any court."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of paragraph 1(a), any provision in the agreement entered by a foreign State, the head of State or the head of Government which provides that the agreement shall be governed by and construed in accordance with the law of Malaysia shall not be interpreted as consent to the exercise of jurisdiction of the court."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_I__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_I__cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_I__cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_I__cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subject to Chapters II and III of this Part and Part III,—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_I__cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_I__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a foreign State in respect of itself on its official capacity and its property;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_I__cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_I__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the head of State on his official capacity; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_I__cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_I__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the head of Government on his official capacity, shall enjoy immunity from the jurisdiction of the court and no proceedings shall be instituted against them by any party. Proceedings against foreign State, head of State and head of Government"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_I__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_I__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_I__cl_6__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_I__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_I__cl_6__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_I__cl_6__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_I__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A proceedings before any court shall be deemed to have been instituted against a foreign State and its property, if that foreign State and its property—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_I__cl_6__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_I__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "is named as a party to that proceedings; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_I__cl_6__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_I__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "is not named as a party to the proceedings but the proceedings in effect seeks to affect the property, rights, interests or activities of the foreign State."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_I__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_II__chp_I__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A proceedings before any court shall be deemed to have been instituted against the head of State or the head of Government if the head of State or the head of Government is named as a party to that proceedings."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_29"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "FOREIGN STATE IMMUNITY COUNCIL Establishment of Foreign State Immunity Council"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A council by the name of the Foreign State Immunity Council is established. Functions of Council"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_21__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_21__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_21__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council shall have the following functions:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to deliberate and decide on all matters concerning foreign State immunity arising out from the implementation of this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to issue policies, guidelines and directives to the Government agencies for the purposes of this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_21__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to monitor the implementation of policies, guidelines and directives by the Government agencies on matters relating to the implementation of this Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_21__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to do such other things arising out of or consequential to the functions of the Council under this Act consistent with the purposes of this Act. Powers of Council"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_22__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_22__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_22__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_22__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council shall have the power and may do all things necessary for or in connection with or incidental to, the performance of its functions under this Act including—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_22__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to certify in writing any fact relating to the question whether a state or a person, as the case may be, is a foreign State, the head of State or the head of Government within the meaning of this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_22__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to certify in writing any matter relating to foreign State immunity;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_22__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to control and coordinate Government agencies relating to the service of any cause paper or other document arising out of any proceedings; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_22__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to appoint any committee as the Council considers necessary and expedient to assist the Council in performing any of its functions and in the exercise of its powers. Membership of Council"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23__para_m"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council shall consist of the following members:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Prime Minister as the Chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Deputy Prime Minister as the Deputy Chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Minister charged with the responsibility for law;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Minister charged with the responsibility for foreign affairs;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Minister charged with the responsibility for investment, trade and industry;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Minister charged with the responsibility for finance;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Minister charged with the responsibility for home affairs;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Minister charged with the responsibility for human resources;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Minister charged with the responsibility for transport;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Minister charged with the responsibility for defence;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Minister charged with the responsibility for the domestic trade;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Minister charged with the responsibility for lands; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chief Secretary to the Government. Meetings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_24__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_24__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_24__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_24__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council shall convene its meetings as often as may be necessary."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_24__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The meetings shall be held at the time and place as determined by the Chairman."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_24__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chairman may authorize the use of a live video link, live television link or any other electronic means of communication for the purposes of any meeting of the Council. Procedure at meetings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_25__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_25__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_25__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_25__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_25__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chairman shall preside at all meetings of the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_25__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the Chairman is absent from any meeting of the Council, he may appoint the Deputy Chairman to replace him as the chairman of the meeting or, in the absence of the Deputy Chairman, any other member of the Council, to replace him as the chairman of the meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_25__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The quorum of the Council shall be seven including the chairman of the meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_25__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every member of the Council present shall be entitled to one vote and if on a question to be determined by the Council there is an equality of votes, the Chairman shall have a casting vote. Temporary exercise of functions of Chairman"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_26__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_26__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_26__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_26__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Deputy Chairman shall act as the Chairman for the period when—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_26__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_26__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the office of the Chairman is vacant;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_26__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_26__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chairman is absent from duty or from Malaysia; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_26__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_26__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chairman is, for any other reason, unable to carry out his functions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Deputy Chairman shall, during the period in which he is carrying out the functions of the Chairman under this section, be deemed to be the Chairman. Council may invite others to meetings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council may invite any person not being a member of the Council to attend its meetings to advise the Council on any matter under discussion. Procedure"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to this Act, the Council may determine its own procedure. Secretary to Council"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_29__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_29__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_29__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_29__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General of the Legal Affairs Division of the Prime Minister Department shall be the Secretary to the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_29__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_29__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Secretary shall be responsible—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_29__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the overall administration and management of the functions and the day-to-day affairs of the Council; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_29__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the carrying out of any other duties as directed by the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_29__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_IV__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Secretary shall, in carrying out his responsibilities, act under the direction of the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Jurisdictional Immunities of Foreign States Act 2023."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Prime Minister by notification in the Gazette. Non-application of the Act"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "This Act shall not apply to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "proceedings governed by the Visiting Forces Act 1960 [Act 432]; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "criminal proceedings. Prevailing law"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The provision of this Act shall be in addition to, and not in derogation of, the provisions of any other written law relating to the diplomatic missions, consular posts, special missions, missions to international organizations, agent, or delegations of organs of international organization or to international conferences. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_4__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_4__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "“head of Government” means a person who presides over the cabinet or any body of similar nature of a foreign State; “head of State” means a person who holds the highest official position in a foreign State; “court” means a court of competent jurisdiction in Malaysia; “Council” means the Foreign State Immunity Council established under section 20; “foreign State” means any country or territory outside Malaysia, and includes—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_4__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_4__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_4__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_4__list_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_4"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_4__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_4__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a department or various organs of government of a foreign State;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_4__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_4__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a constituent unit of a federal foreign State or political subdivisions of the foreign State; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_4__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_4__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the agency, body or other entity of a foreign State established under a written law of or otherwise by the foreign State; “commercial transaction” means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_4__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_4__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_4__list_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_4__list_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_4"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_4__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_4__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any commercial contract or transaction for the sale of goods or supply of services;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_4__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_4__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any contract for a loan or other transaction of a financial nature, including any obligation of guarantee or of indemnity in respect of any such loan or transaction; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_4__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_I__cl_4__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other contract or transaction of a commercial, industrial, trading or professional nature, but not including a contract of employment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_V__cl_30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "RECIPROCAL TREATMENT Withdrawal of immunities of foreign State where there is no reciprocal treatment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_VI__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_VI__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_VI__cl_33"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "GENERAL Proceedings of court"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_VI__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All proceedings involving any foreign State and its property, head of State and head of Government shall be carried out in accordance with the applicable rules of Court in Malaysia. Power to exempt"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_VI__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Prime Minister may, by order in the Gazette, exempt any foreign State from any of the provisions of this Act subject to any condition or restriction as he may consider necessary or expedient to impose. Power to make regulations"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_VI__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_VI__cl_33__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_VI__cl_33__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_VI__cl_33__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_VI__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Prime Minister may make such regulations as may be expedient or necessary for giving the full effect or the better carrying out of the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_VI__cl_33__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_VI__cl_33__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_VI__cl_33__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_VI__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1), the Prime Minister may make regulations for the following subject matter:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_VI__cl_33__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_VI__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe the manner for the application of a certificate or document and the issuance of any official certificate or document relating to foreign State immunity; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_VI__cl_33__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_VI__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe the method or procedure of communication with foreign State relating to a foreign State immunity."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_V__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/41/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Prime Minister is satisfied that Malaysia would not receive, in any foreign State, any immunity corresponding to those conferred by Malaysia under this Act, the Prime Minister may, by order published in the Gazette, withdraw all or any of immunity under this Act against that foreign State."
+      }
+    }
+  ]
+}

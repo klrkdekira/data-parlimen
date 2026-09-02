@@ -1,0 +1,1573 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-12-2026",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_34"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Persaingan (Pindaan) 2026"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 20(1) Akta ibu dipinda dengan menggantikan perkataan “membenarkan Suruhanjaya” dengan perkataan “membenarkan pegawai Suruhanjaya”. Pindaan seksyen 21"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_11__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_11__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_11__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 21 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Mana-mana orang hendaklah pada setiap masa memelihara kerahsiaan apa-apa maklumat berkenaan dengan perusahaan tertentu atau hal ehwal seseorang individu yang diperolehnya menurut kuasa mana-mana peruntukan Akta ini dan tidak boleh menzahirkan atau menggunakan mana-mana maklumat itu termasuk maklumat orang yang memberikan maklumat itu kepadanya.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “maklumat” dengan perkataan “maklumat itu”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_11__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (3) dengan subseksyen yang berikut: “(3) Maklumat yang disebut dalam subseksyen (1) hendaklah berkait dengan maklumat mengenai perdagangan, perniagaan atau industri yang dipunyai oleh mana-mana orang, yang mempunyai nilai komersial atau ekonomi dan tidak tersedia secara amnya kepada atau diketahui oleh orang lain.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_11__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(4) Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan.”. Pindaan seksyen 22"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 22(2) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan memasukkan selepas perkataan “maklumat” perkataan “, butir-butir”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan memasukkan selepas perkataan “maklumat” perkataan “, butir-butir”. Pindaan seksyen 24"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 24(a) Akta ibu dipinda dengan memasukkan selepas perkataan “atau mengubah” perkataan “atau cuba untuk memusnahkan, menyembunyikan, mencacatkan atau mengubah”. Pindaan seksyen 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_14__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 25 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “pelakuan suatu kesalahan” dengan perkataan “pelakuan apa-apa kesalahan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan memasukkan selepas perkataan “atau benda lain” perkataan “atau salinan atau cabutan apa-apa rekod, buku, akaun, dokumen, data berkomputer atau benda lain”. Pindaan seksyen 34"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_15__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_15__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 34 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (1)(b), dengan memasukkan selepas perkataan “komersial” perkataan “, ekonomi”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: “(2) Bagi maksud dan tanpa menjejaskan keluasan perenggan (1)(b), keadaan merugikan dari segi komersial, ekonomi atau lain terhadap seseorang boleh termasuk— (a) pembayaran lewat amaun yang kena dibayar dengan sewajarnya kepada orang itu; (b) pembawaan atau penjalanan litigasi dengan tidak munasabah terhadap orang itu; (c) pembatalan pesanan yang dibuat dengan orang itu; (d) pengalihan perniagaan daripada orang itu atau keengganan untuk berdagang dengan orang itu; dan (e) penamatan kontrak dengan orang itu, penahanan pembayaran yang genap masa dan kena dibayar kepada orang itu di bawah kontrak atau keengganan untuk membuat kontrak selanjutnya dengan orang itu.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_15__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_15__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_15__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_15__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_15__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan menggantikan perkataan “dan” di hujung perenggan itu dengan perkataan “atau”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_15__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_15__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan memasukkan selepas perkataan “apa-apa penyiasatan oleh Suruhanjaya” perkataan “atau pelaksanaan fungsi dan kuasa Suruhanjaya yang lain di bawah Akta ini”. Pindaan seksyen 35"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_16__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_16__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_16__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_16__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 35 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memasukkan selepas perkataan “seksyen 14” perkataan “atau 15”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_16__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_16__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_16__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_16__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan menggantikan perkataan “kepada seseorang atau suatu kategori orang tertentu” dengan perkataan “kepada perusahaan atau orang tertentu atau kategori perusahaan atau orang tertentu”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_16__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_16__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “ia boleh” dengan perkataan “Suruhanjaya boleh, pada bila-bila masa sebelum penyiasatan selesai,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_16__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan “mana-mana orang” dengan perkataan “mana-mana perusahaan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_16__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_16__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_16__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_16__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_16__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan menggantikan perkataan “orang yang kepadanya” dengan perkataan “perusahaan yang kepadanya”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_16__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_16__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan menggantikan perkataan “orang itu” dengan perkataan “perusahaan itu”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_16__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (7)(a), dengan memasukkan selepas perkataan “seksyen 14” perkataan “atau 15”. Pindaan seksyen 36"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_17__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_17__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 36 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “Jika, selepas selesai penyiasatan,” dengan perkataan “Tertakluk kepada subseksyen (5) dan (6), jika, selepas penyiasatan selesai,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_17__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_17__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_17__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_17__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “Notis itu” dengan perkataan “Notis bertulis yang disebut dalam subseksyen (1)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_17__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_17__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (c) dengan perenggan yang berikut: “(c) memberitahu setiap perusahaan yang kepadanya notis bertulis itu diberikan bahawa perusahaan itu boleh, dalam apa-apa tempoh sebagaimana yang dinyatakan dalam notis bertulis itu atau apa-apa tempoh lanjutan yang diberikan oleh Suruhanjaya, memilih untuk mengemukakan representasi bertulis kepada Suruhanjaya.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_17__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(3) Jika perusahaan itu memilih untuk mengemukakan representasi bertulis kepada Suruhanjaya di bawah perenggan (2)(c), perusahaan itu hendaklah menunjukkan sama ada perusahaan itu berhasrat untuk membuat suatu representasi lisan di hadapan Suruhanjaya. (4) Jika, apabila tamat tempoh yang dinyatakan di bawah perenggan (2)(c), tiada representasi bertulis atau petunjuk bagi representasi lisan dikemukakan oleh perusahaan itu, Suruhanjaya boleh meneruskan dengan keputusan yang dicadangkannya dalam ketiadaan representasi itu. (5) Selepas notis bertulis mengenai keputusan yang dicadangkannya telah diberikan di bawah subseksyen (1), Suruhanjaya boleh, pada bila-bila masa sebelum memberitahu keputusan yang dibuat di bawah seksyen 39 atau 40, memberikan satu atau lebih notis bertulis tambahan mengenai keputusan yang dicadangkan itu. (6) Suruhanjaya boleh memulakan semula suatu penyiasatan selepas notis bertulis mengenai keputusan yang dicadangkan atau notis bertulis tambahan mengenai keputusan yang dicadangkan itu telah diberikan di bawah subseksyen (1) jika— (a) terdapat perubahan material dalam hal keadaan yang dengannya pelanggaran larangan itu berkait sebagaimana yang diperihalkan dalam notis bertulis mengenai keputusan yang dicadangkan atau notis bertulis tambahan mengenai keputusan yang dicadangkan yang diberikan; atau (b) fakta atau keterangan baharu yang berkaitan dengan penyiasatan oleh Suruhanjaya telah ditemui dan bahawa penyiasatan lanjut adalah dikehendaki. (7) Bagi maksud memberikan notis bertulis tambahan mengenai keputusan yang dicadangkan di bawah subseksyen (5), subseksyen (1), (2), (3) dan (4) hendaklah terpakai mutatis mutandis.”. Pindaan seksyen 37"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_18__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_18__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 37 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula seksyen sedia ada sebagai subseksyen (1);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_18__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_18__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_18__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1) sebagaimana yang dinomborkan semula—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_18__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_18__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris, dengan menggantikan perkataan “taking” dengan perkataan “making”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_18__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_18__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan menggantikan perkataan “sesi” dengan perkataan “sesi tertutup”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_18__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_18__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan memasukkan selepas perkataan “tarikh, masa dan tempat” perkataan “sesi tertutup bagi representasi lisan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_18__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) sebagaimana yang dinomborkan semula subseksyen yang berikut: “(2) Perusahaan boleh diwakili pada sesi tertutup representasi lisan oleh— (a) mana-mana pegawai yang diberi kuasanya; (b) mana-mana peguam bela dan peguam cara; atau (c) mana-mana orang lain yang diberi kuasa oleh perusahaan. (3) Suruhanjaya, sebelum memanggil sesi tertutup bagi representasi lisan itu, hendaklah memutuskan— (a) sama ada representasi lisan itu akan didengar oleh anggota penuh Suruhanjaya atau oleh panel wakil yang terdiri daripada anggota Suruhanjaya sebagaimana yang ditentukan oleh Suruhanjaya; dan (b) sama ada hendaklah ada suatu sesi tertutup yang berasingan atau sesi tertutup bersama bagi representasi lisan yang dihadiri oleh semua perusahaan dan orang yang kepadanya notis bertulis di bawah perenggan (1)(b) telah diberikan. (4) Representasi lisan yang dibuat oleh perusahaan kepada Suruhanjaya hendaklah dihadkan hanya kepada perkara yang telah dikemukakan oleh perusahaan dalam representasi bertulisnya kepada Suruhanjaya di bawah perenggan 36(2)(c), melainkan jika kebenaran untuk mengemukakan apa-apa perkara baharu diperoleh terlebih dahulu daripada Suruhanjaya atau panel wakil, mengikut mana-mana yang berkenaan. (5) Suruhanjaya atau panel wakil boleh meminta perusahaan supaya memberikan penjelasan atau maklumat lanjut mengenai perkara yang telah dikemukakan oleh perusahaan dalam representasi bertulis dan lisannya bagi maksud membuat suatu keputusan oleh Suruhanjaya. (6) Jika representasi lisan didengar oleh panel wakil, panel wakil itu hendaklah, selepas representasi lisan itu selesai, membuat suatu syor kepada Suruhanjaya untuk membolehkan Suruhanjaya membuat keputusan sama ada perusahaan itu telah melanggar atau sedang melanggar apa-apa larangan di bawah Bahagian II. (7) Jika, dalam penjalanan suatu representasi lisan, mana-mana anggota Suruhanjaya yang mendengar representasi lisan itu tidak dapat terus mendengar representasi lisan itu— (a) disebabkan oleh suatu penyakit; (b) disebabkan oleh peletakan jawatannya; (c) disebabkan oleh pengosongan jawatannya di bawah seksyen 12 Akta Suruhanjaya Persaingan Malaysia 2010; atau (d) disebabkan oleh apa-apa sebab lain, representasi lisan itu hendaklah diteruskan di hadapan anggota panel wakil yang tinggal yang mendengar representasi lisan itu atau anggota penuh Suruhanjaya, mengikut mana-mana yang berkenaan. (8) Representasi lisan di bawah seksyen ini hendaklah ditadbir dan dijalankan mengikut garis panduan yang dikeluarkan oleh Suruhanjaya.”. Pemotongan seksyen 38"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 38. Seksyen baharu 38a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Persaingan (Pindaan) 2026."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Persaingan 2010 [Akta 712], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 38 sebagaimana yang dipotong seksyen yang berikut: “Tawaran penyelesaian 38a. (1) Suruhanjaya boleh— (a) selepas pengeluaran suatu notis bertulis mengenai keputusan yang dicadangkan di bawah seksyen 36; dan (b) tertakluk kepada apa-apa syarat sebagaimana yang boleh dikenakan oleh Suruhanjaya, menawarkan suatu penyelesaian kepada perusahaan yang sedang disiasat bagi pelanggaran larangan di bawah seksyen 4 atau 10 di bawah Akta ini. (2) Perusahaan hendaklah mengakui liabiliti bagi pelanggaran larangan yang sedang disiasat oleh Suruhanjaya apabila menerima tawaran bagi penyelesaian di bawah subseksyen (1). (3) Selepas penerimaan tawaran bagi penyelesaian, Suruhanjaya hendaklah— (a) membuat keputusan mengenai pelanggaran larangan oleh perusahaan itu di bawah seksyen 4 atau 10; dan (b) mengenakan penalti kewangan dengan pengurangan sehingga empat puluh peratus terhadap perusahaan itu. (4) Pengurangan penalti kewangan di bawah perenggan (3)(b) hendaklah sebagai tambahan kepada apa-apa pengurangan penalti kewangan yang perusahaan itu berhak di bawah seksyen 41.”. Pindaan seksyen 39"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_21__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_21__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_21__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 39 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan nota bahu dengan nota bahu yang berikut: “Keputusan mengenai ketiadaan pelanggaran larangan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula seksyen sedia ada sebagai subseksyen (1);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_21__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_21__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_21__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1) sebagaimana yang dinomborkan semula—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_21__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_21__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “Jika Suruhanjaya” dengan perkataan “Jika, selepas penyiasatan selesai, Suruhanjaya”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_21__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_21__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “notis keputusan itu kepada mana-mana orang yang” dengan perkataan “notis bertulis mengenai keputusan itu kepada perusahaan yang”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_21__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) sebagaimana yang dinomborkan semula subseksyen yang berikut: “(2) Jika— (a) selepas suatu notis bertulis mengenai keputusan yang dicadangkan di bawah seksyen 36 telah diberikan oleh Suruhanjaya kepada perusahaan itu; dan (b) selepas menimbangkan representasi bertulis di bawah seksyen 36 atau representasi lisan di bawah seksyen 37 yang dibuat oleh perusahaan itu, jika ada, Suruhanjaya telah membuat keputusan bahawa tiada pelanggaran suatu larangan di bawah Bahagian II, Suruhanjaya hendaklah, tanpa kelengahan, memberikan notis bertulis mengenai keputusan itu kepada perusahaan yang tersentuh oleh keputusan itu dengan menyatakan fakta yang berasaskannya Suruhanjaya membuat keputusan itu dan sebab bagi Suruhanjaya membuat keputusan itu.”. Pindaan seksyen 40"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 40 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan nota bahu dengan nota bahu yang berikut: “Keputusan mengenai pelanggaran larangan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula subseksyen (1), (2), (3) dan (4) sedia ada sebagai subseksyen (2), (3), (4) dan (5) masing-masing;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan sebelum subseksyen (2) sebagaimana yang dinomborkan semula subseksyen yang berikut: “(1) Seksyen ini terpakai jika suatu notis bertulis mengenai keputusan yang dicadangkan di bawah seksyen 36 telah diberikan oleh Suruhanjaya kepada perusahaan dan Suruhanjaya telah menimbangkan representasi bertulis di bawah seksyen 36 atau representasi lisan di bawah seksyen 37 yang dibuat oleh perusahaan itu, jika ada.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2) sebagaimana yang dinomborkan semula—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “Jika Suruhanjaya memutuskan bahawa terdapat suatu pelanggaran suatu larangan di bawah Bahagian II, ia—” dengan perkataan “Jika Suruhanjaya telah membuat suatu keputusan bahawa terdapat suatu pelanggaran larangan di bawah Bahagian II, Suruhanjaya—”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan menggantikan perkataan “dikehendaki supaya perlu diambil oleh perusahaan yang melanggar” dengan perkataan “yang dikehendaki supaya diambil oleh perusahaan yang tersentuh oleh keputusan itu”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22__para_e__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3) sebagaimana yang dinomborkan semula—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “Bahagian ini” dengan perkataan “seksyen ini”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “memberitahu mana-mana orang” dengan perkataan “memberikan notis bertulis kepada mana-mana perusahaan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (5) sebagaimana yang dinomborkan semula dengan subseksyen yang berikut: “(5) Penalti kewangan yang dikenakan oleh Suruhanjaya di bawah perenggan (1)(c) hendaklah dibayar oleh perusahaan yang tersentuh oleh keputusan itu dalam tempoh sebagaimana yang ditentukan oleh Suruhanjaya dan tidak boleh melebihi sepuluh peratus daripada pusing ganti seluruh dunia perusahaan itu sepanjang tempoh pelanggaran larangan itu berlaku.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (5) sebagaimana yang dinomborkan semula subseksyen yang berikut: “(6) Jika perusahaan yang kepadanya penalti kewangan telah dikenakan tidak membayar penalti kewangan itu atau mana-mana bahagian daripadanya dalam tempoh yang ditentukan oleh Suruhanjaya, perusahaan itu hendaklah juga bertanggungan untuk membayar caj pembayaran lewat pada kadar yang ditentukan oleh Suruhanjaya.”. Pindaan seksyen 41"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_23__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_23__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 41 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_23__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_23__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_23__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_23__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_23__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_23__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa kebangsaan, dengan menggantikan perkataan “penurunan” dengan perkataan “pengurangan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_23__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_23__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan menggantikan perkataan “pelanggaran mana-mana larangan” dengan perkataan “perjanjian”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_23__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_23__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan menggantikan perkataan “pengenalpastian atau penyiasatan apa-apa dapatan” dengan perkataan “pengenalpastian, siasatan atau penyiasatan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_23__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_23__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_23__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_23__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_23__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (b)(ii), dengan memotong perkataan “atau” di hujung subperenggan itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_23__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_23__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut: “(ba) sama ada perusahaan itu telah memaksa perusahaan lain untuk terlibat dalam suatu perjanjian di bawah subseksyen 4(2); atau”. Pindaan seksyen 42"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_24__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_24__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_24__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 42 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_24__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan menggantikan perkataan “atau keputusan” dengan perkataan “, dsb.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Suruhanjaya boleh membawa prosiding di hadapan Mahkamah Tinggi terhadap mana-mana perusahaan yang tidak mematuhi— (a) apa-apa arahan yang diberikan oleh Suruhanjaya di bawah seksyen 35; (b) apa-apa keputusan yang dibuat oleh Suruhanjaya di bawah seksyen 40; atau (c) apa-apa aku janji yang diterima oleh Suruhanjaya di bawah seksyen 43.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_24__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_24__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_24__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_24__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_24__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “orang” di mana-mana jua terdapat dengan perkataan “perusahaan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_24__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_24__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “arahan atau keputusan” di mana-mana jua terdapat dengan perkataan “arahan, keputusan atau aku janji”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_24__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (3) dengan subseksyen yang berikut: “(3) Bagi maksud subseksyen (2), berhubung dengan suatu keputusan, jika Mahkamah Tinggi mendapati bahawa ketidakpatuhan terhadap keputusan itu termasuklah kegagalan untuk membayar penalti dalam tempoh yang dinyatakan dan caj pembayaran lewat yang dikenakan, Mahkamah Tinggi hendaklah, sebagai tambahan kepada perintah yang menghendaki perusahaan itu untuk membayar penalti dan caj pembayaran lewat itu, memerintahkan supaya perusahaan itu membayar faedah pada kadar penghakiman biasa mulai dari hari selepas pembayaran itu kena dibuat.”. Pindaan seksyen 43"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_25__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_25__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_25__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_25__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 43 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_25__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Suruhanjaya boleh— (a) sebelum mengeluarkan suatu notis bertulis mengenai keputusan yang dicadangkan di bawah seksyen 36 berhubung dengan suatu penyiasatan pelanggaran larangan di bawah seksyen 4 atau 10; dan (b) tertakluk kepada syarat yang boleh dikenakan oleh Suruhanjaya, yang termasuk syarat bagi pembayaran denda pada kadar yang ditentukan oleh Suruhanjaya, menerima suatu aku janji daripada suatu perusahaan untuk membuat atau menahan diri daripada membuat apa-apa jua sebagaimana yang difikirkan sesuai oleh Suruhanjaya.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_25__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “dapatan pelanggaran dan tidak boleh mengenakan suatu penalti ke atas perusahaan itu” dengan perkataan “keputusan mengenai pelanggaran itu”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_25__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(2a) Walau apa pun subseksyen (2), Suruhanjaya boleh tidak menutup penyiasatan jika Suruhanjaya berpuas hati bahawa— (a) perusahaan itu telah tidak mematuhi mana-mana aku janji yang diterima oleh Suruhanjaya di bawah subseksyen (1); atau (b) apa-apa maklumat, butir-butir atau dokumen yang diberikan oleh perusahaan itu yang berasaskannya Suruhanjaya telah menerima aku janji itu adalah palsu atau mengelirukan dalam butir-butir yang material.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_25__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (4). Pindaan seksyen 51"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 51(2) Akta ibu dipinda dengan menggantikan perkataan “dari tarikh keputusan Suruhanjaya” dengan perkataan “dari tarikh keputusan Suruhanjaya disampaikan kepada perayu”. Pindaan seksyen 54"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_27__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_27__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 54 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_27__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula seksyen sedia ada sebagai subseksyen (1); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_27__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) sebagaimana yang dinomborkan semula subseksyen yang berikut: “(2) Jika, dalam penjalanan mana-mana prosiding Tribunal Rayuan Persaingan, mana-mana anggota Tribunal Rayuan Persaingan yang mendengar prosiding itu tidak dapat terus mendengar prosiding itu— (a) disebabkan oleh suatu penyakit; (b) disebabkan oleh peletakan jawatannya di bawah subseksyen 47(1); (c) disebabkan oleh pengosongan jawatannya di bawah seksyen 48; atau (d) disebabkan oleh apa-apa sebab lain, prosiding itu hendaklah diteruskan di hadapan anggota Tribunal Rayuan Persaingan yang tinggal yang mendengar prosiding itu yang tidak kurang daripada tiga orang anggota. (3) Dalam hal keadaan jika anggota yang tinggal yang disebut dalam subseksyen (2) adalah kurang daripada tiga orang, Presiden hendaklah melantik mana-mana anggota Tribunal Rayuan Persaingan yang lain untuk menggantikan anggota yang tidak dapat menghadiri prosiding itu dan terus mendengar prosiding itu.”. Pindaan seksyen 58"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 58 Akta ibu dipinda dengan memotong subseksyen (3). Seksyen baharu 58a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 58 seksyen yang berikut: “Rayuan kepada Mahkamah Tinggi 58a. (1) Mana-mana orang, termasuk Suruhanjaya, yang terkilan dengan keputusan Tribunal Rayuan Persaingan boleh, dalam tempoh sembilan puluh hari dari tarikh keputusan Tribunal Rayuan Persaingan disampaikan kepadanya, merayu kepada Mahkamah Tinggi. (2) Rayuan kepada Mahkamah Tinggi di bawah seksyen ini hendaklah terbatas hanya kepada— (a) persoalan undang-undang yang berbangkit dalam penjalanan rayuan; atau (b) persoalan tentang amaun penalti kewangan. (3) Mahkamah Tinggi hendaklah mendengar dan memutuskan apa-apa rayuan yang dirujuk sedemikian dan boleh— (a) mengesahkan, mengakas atau mengubah keputusan Tribunal Rayuan Persaingan; dan (b) membuat apa-apa perintah lain sebagaimana yang difikirkan patut oleh Mahkamah Tinggi. (4) Peruntukan mana-mana undang-undang bertulis yang sedang berkuat kuasa yang berhubungan dengan rayuan dalam perkara sivil daripada Mahkamah Sesyen kepada Mahkamah Tinggi hendaklah terpakai bagi maksud rayuan di bawah seksyen ini.”. Seksyen baharu 64a dan 64b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “dokumen” takrif yang berikut: ‘ “Entiti Kerajaan” ertinya— (a) Kerajaan Persekutuan, atau mana-mana Kerajaan Negeri, pihak berkuasa tempatan atau badan berkanun; atau (b) mana-mana kementerian, jabatan, pejabat, agensi, pihak berkuasa, suruhanjaya, jawatankuasa, lembaga, majlis atau badan lain, yang diperbadankan atau tidak diperbadankan, bagi Kerajaan Persekutuan atau mana-mana Kerajaan Negeri, sama ada ditubuhkan di bawah mana-mana undang-undang bertulis atau selainnya;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “pegawai Suruhanjaya”, dengan menggantikan perkataan “Akta Suruhanjaya Persaingan 2010” dengan perkataan “Akta Suruhanjaya Persaingan Malaysia 2010”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “Pengerusi”, dengan menggantikan perkataan “Akta Suruhanjaya Persaingan 2010” dengan perkataan “Akta Suruhanjaya Persaingan Malaysia 2010”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “perjanjian”, dengan menggantikan perkataan “persatuan” dengan perkataan “persatuan perusahaan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif “perjanjian mendatar”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif “perjanjian menegak”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2__para_g__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2__para_g__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “perusahaan”—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2__para_g__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2__para_g",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “apa-apa entiti” dengan perkataan “mana-mana orang”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2__para_g__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2__para_g",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “aktiviti komersial” dengan perkataan “apa-apa aktiviti komersial atau ekonomi”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “perusahaan” takrif yang berikut: ‘ “premis” ertinya mana-mana premis, yang tidak bergerak atau selainnya, yang ditubuhkan atau didirikan oleh mana-mana orang, sama ada premis itu ada atau tiada kepungan, dan termasuklah kenderaan, pesawat udara, kapal, kereta api dan apa-apa cara pengangkutan lain yang melaluinya orang atau barangan dibawa;’; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan takrif “Suruhanjaya” dengan takrif yang berikut: ‘ “Suruhanjaya” ertinya Suruhanjaya Persaingan Malaysia yang ditubuhkan di bawah Akta Suruhanjaya Persaingan Malaysia 2010;’. Penggantian seksyen 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 3 dengan seksyen yang berikut: “Pemakaian 3. (1) Tertakluk kepada Jadual Pertama, Akta ini terpakai bagi apa-apa aktiviti komersial atau ekonomi. (2) Akta ini hendaklah berkuat kuasa kedua-duanya di dalam dan di luar Malaysia dan berhubung dengan pemakaian Akta ini di luar Malaysia, Akta ini terpakai bagi apa-apa aktiviti komersial atau ekonomi yang dijalankan di luar Malaysia yang mempunyai kesan terhadap persaingan dalam apa-apa pasaran di Malaysia. (3) Menteri boleh, atas syor Suruhanjaya, melalui perintah yang disiarkan dalam Warta, meminda Jadual Pertama. (4) Bagi maksud Akta ini, “aktiviti komersial atau ekonomi” ertinya apa-apa aktiviti yang bersifat komersial atau ekonomi tetapi tidak termasuk— (a) apa-apa aktiviti yang dijalankan dalam penjalanan kuasa kerajaan; (b) apa-apa aktiviti yang dijalankan berasaskan prinsip perpaduan; dan (c) apa-apa pembelian barangan atau perkhidmatan yang bukan bagi maksud untuk menawarkan barangan atau perkhidmatan sebagai sebahagian daripada suatu aktiviti komersial atau ekonomi.”. Pindaan seksyen 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 64 seksyen yang berikut: “Perlindungan kepada pemberi maklumat 64a. (1) Kecuali sebagaimana yang diperuntukkan dalam seksyen ini, tiada saksi dalam mana-mana prosiding di hadapan Suruhanjaya, Tribunal Rayuan Persaingan atau dalam mana-mana prosiding sivil atau jenayah menurut Akta ini berkewajipan atau dibenarkan untuk menzahirkan nama, alamat atau apa-apa maklumat lain mengenai pemberi maklumat, atau intipati maklumat yang diterima daripadanya atau untuk menyatakan apa-apa perkara yang mungkin membawa kepada pemberi maklumat itu diketahui. (2) Jika mana-mana rekod, buku, akaun, dokumen atau data berkomputer yang dikemukakan sebagai keterangan atau yang boleh diperiksa dalam mana-mana prosiding di hadapan Suruhanjaya, Tribunal Rayuan Persaingan atau dalam mana-mana prosiding sivil atau jenayah mengandungi apa-apa catatan yang dalamnya mana-mana pemberi maklumat dinamakan atau diperihalkan atau yang mungkin membawa kepada dirinya diketahui, Suruhanjaya atau Tribunal Rayuan Persaingan atau mahkamah hendaklah menyebabkan supaya semua catatan itu disembunyikan daripada pandangan atau dipadamkan setakat yang perlu untuk melindungi pemberi maklumat itu daripada diketahui. (3) Jika dalam prosiding di hadapan Suruhanjaya atau Tribunal Rayuan Persaingan atau dalam perbicaraan bagi mana-mana kesalahan di bawah Akta ini, mahkamah, selepas siasatan penuh terhadap kes itu, percaya bahawa pemberi maklumat itu dengan rela hati telah membuat dalam aduannya suatu pernyataan material yang dia tahu adalah palsu atau percaya adalah tidak benar atau jika dalam mana-mana prosiding lain, Suruhanjaya atau Tribunal Rayuan Persaingan atau mahkamah berpendapat bahawa keadilan tidak dapat dilakukan sepenuhnya antara pihak-pihak dalam prosiding itu tanpa pemberi maklumat itu diketahui, adalah sah bagi Suruhanjaya atau Tribunal Rayuan Persaingan atau mahkamah untuk menghendaki pengemukaan aduan asal, jika dibuat secara bertulis, dan membenarkan siasatan dan menghendaki penzahiran penuh mengenai pemberi maklumat itu. Ganjaran kepada pemberi maklumat 64b. Suruhanjaya boleh memberikan ganjaran dalam apa-apa bentuk sebagaimana yang ditentukan oleh Suruhanjaya kepada seseorang pemberi maklumat bagi maklumat, pernyataan atau bantuan yang diberikan kepada Suruhanjaya yang membawa kepada penemuan apa-apa pelanggaran larangan atau yang membawa kepada apa-apa sabitan bagi suatu kesalahan, di bawah Akta ini.”. Pindaan seksyen 65"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 65(1) Akta ibu dipinda dengan memasukkan selepas perkataan “Menteri boleh” perkataan “, atas syor Suruhanjaya,”. Pindaan seksyen 66"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_32__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_32__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_32__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_32__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 66(2) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_32__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_32",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “boleh mengeluarkan” perkataan “garis panduan mengenai”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_32__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_32__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_32__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_32",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_32__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_32__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “garis panduan mengenai”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_32__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_32__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “dan” di hujung perenggan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_32__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_32__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_32__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_32",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_32__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_32__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “garis panduan mengenai”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_32__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_32__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah di hujung perenggan itu dengan perkataan “; dan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_32__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_32",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut: “(c) tatacara yang digunakan dalam mentadbir mana-mana peruntukan di bawah Akta ini.”. Penggantian Jadual Pertama"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan Jadual Pertama dengan jadual yang berikut: “JADUAL PERTAMA [Seksyen 3] Akta ini tidak terpakai bagi apa-apa aktiviti komersial atau ekonomi yang dikawal selia di bawah undang-undang bertulis yang berikut: (a) Akta Komunikasi dan Multimedia 1998 [Akta 588]; (b) Akta Suruhanjaya Tenaga 2001 [Akta 610]; (c) Akta Kemajuan Petroleum 1974 [Akta 144] dan Peraturan-Peraturan Petroleum 1974 [P.U. (A) 432/1974] setakat yang aktiviti komersial atau ekonomi yang dikawal selia di bawah undang-undang bertulis ini berkaitan secara langsung dengan operasi huluan yang merangkumi aktiviti mengeksplorasi, mengeskploitasi, mendapatkan dan memperoleh petroleum sama ada di pantai atau di luar pantai Malaysia; (d) Akta Pihak Berkuasa Penerbangan Awam Malaysia 2017 [Akta 788]; (e) Akta Bekalan Gas 1993 [Akta 501]; dan (f) Akta Perkhidmatan Pos 2012 [Akta 741].”. Pindaan Jadual Kedua"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jadual Kedua kepada Akta ibu dipinda dalam perenggan (a) dengan menggantikan perkataan “dalam suatu perintah untuk” dengan perkataan “untuk”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 4 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memotong perkataan “mendatar dan menegak”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “Suatu perjanjian mendatar atau menegak” dengan perkataan “Apa-apa perjanjian”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_4__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_4__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_4__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_4__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “suatu perjanjian mendatar” dengan perkataan “suatu perjanjian”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_4__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_4__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa kebangsaan, dengan memotong perkataan “atau kesan”. Pindaan seksyen 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 5 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “berasaskan sebab-sebab yang berikut:” dengan perkataan “jika perusahaan itu membuktikan kepada Suruhanjaya bahawa—”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan memasukkan selepas perkataan “perjanjian itu” perkataan “yang membenarkan pengguna mendapat bahagian yang saksama daripada faedah yang terhasil”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (d), dengan menggantikan perkataan “untuk menghapuskan” dengan perkataan “kemungkinan untuk menghapuskan”. Pindaan seksyen 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 10 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa kebangsaan, dalam subperenggan (2)(d)(iii), dengan menggantikan perkataan “hiliran atau huluan” dengan perkataan “huluan atau hiliran”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: “(5) Mana-mana perusahaan yang terlibat dalam apa-apa perlakuan yang dilarang di bawah seksyen ini adalah bertanggungan bagi pelanggaran larangan itu.”. Seksyen baharu 11a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 11 seksyen yang berikut: “Kuasa untuk menghendaki pemberian maklumat dsb., berhubung dengan kajian semula pasaran 11a. (1) Bagi maksud menjalankan kajian semula pasaran di bawah seksyen 11, jika Suruhanjaya mempunyai sebab untuk mempercayai bahawa mana-mana orang mempunyai apa-apa maklumat, butir-butir atau dokumen yang berkaitan dengan penjalanan kajian semula pasaran itu, Suruhanjaya boleh, melalui notis secara bertulis, mengarahkan orang itu untuk memberikan atau mengemukakan kepada Suruhanjaya, dalam bentuk dan mengikut cara dan dalam tempoh sebagaimana yang dinyatakan dalam notis itu, maklumat, butir-butir atau dokumen itu. (2) Jika orang yang diarahkan untuk memberikan atau mengemukakan maklumat, butir-butir atau dokumen di bawah subseksyen (1) tidak mempunyai pengetahuan mengenai maklumat, butir-butir atau dokumen itu atau maklumat, butir-butir atau dokumen itu tiada dalam jagaannya, orang itu hendaklah menyatakan, sepanjang pengetahuan dan kepercayaannya, di mana maklumat, butir-butir atau dokumen itu boleh diperoleh atau dijumpai dan mengenal pasti sepanjang pengetahuan dan kepercayaannya, orang terakhir yang mempunyai jagaan terhadap maklumat, butir-butir atau dokumen itu dan di mana orang terakhir yang disebut itu boleh dijumpai. (3) Mana-mana orang yang diarahkan untuk memberikan atau mengemukakan apa-apa maklumat, butir-butir atau dokumen di bawah subseksyen (1) hendaklah memastikan bahawa maklumat, butir-butir atau dokumen yang diberikan atau dikemukakan itu adalah benar, tepat dan lengkap dan hendaklah memberikan representasi yang nyata yang bermaksud sedemikian, termasuk suatu perisytiharan bahawa dia tidak menyedari mengenai apa-apa maklumat, butir-butir atau dokumen lain yang akan menjadikan maklumat, butir-butir atau dokumen yang diberikan atau dikemukakan itu tidak benar atau mengelirukan. (4) Mana-mana orang yang tidak mematuhi arahan Suruhanjaya di bawah subseksyen (1) melakukan suatu kesalahan. (5) Mana-mana orang yang melanggar subseksyen (2) atau (3) melakukan suatu kesalahan. (6) Jika Suruhanjaya mempunyai sebab untuk mempercayai bahawa mana-mana Entiti Kerajaan mempunyai apa-apa maklumat, butir-butir atau dokumen yang berkaitan dengan penjalanan kajian semula pasaran di bawah seksyen 11, Suruhanjaya boleh, melalui notis secara bertulis, meminta Entiti Kerajaan itu untuk memberikan atau mengemukakan kepada Suruhanjaya maklumat, butir-butir atau dokumen itu dalam bentuk dan mengikut cara dan dalam tempoh sebagaimana yang dinyatakan dalam notis itu. (7) Entiti Kerajaan yang diminta untuk memberikan atau mengemukakan apa-apa maklumat, butir-butir atau dokumen di bawah subseksyen (6) hendaklah mematuhi permintaan Suruhanjaya itu.”. Penggantian seksyen 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 16 dengan seksyen yang berikut: “Penutupan penyiasatan 16. (1) Suruhanjaya boleh, sebelum menjalankan apa-apa penyiasatan berhubung dengan apa-apa pelanggaran larangan di bawah Bahagian ini, membuat siasatan sebagaimana yang difikirkannya perlu atau suai manfaat bagi maksud memutuskan sama ada Suruhanjaya patut menyiasat pelanggaran larangan itu. (2) Bagi maksud subseksyen 14(2) dan 15(1), jika Suruhanjaya, apabila selesai siasatan di bawah subseksyen (1), memutuskan untuk tidak menyiasat pelanggaran larangan itu, Suruhanjaya hendaklah dengan seberapa segera yang praktik dan mengikut cara sebagaimana yang difikirkan patut oleh Suruhanjaya, memaklumkan kepada Menteri atau pengadu, mengikut mana-mana yang berkenaan, mengenai keputusannya dan sebab bagi keputusannya itu. (3) Jika Suruhanjaya memutuskan untuk tidak menyiasat pelanggaran larangan di bawah subseksyen (2), Suruhanjaya boleh mengeluarkan suatu surat amaran kepada perusahaan yang menjadi subjek siasatan itu jika Suruhanjaya fikirkan bahawa ia adalah sesuai atau perlu untuk mencegah apa-apa pelanggaran larangan itu. (4) Walau apa pun subseksyen (1) dan (2), Suruhanjaya boleh, pada bila-bila masa selepas penyiasatan dimulakan di bawah seksyen 14 atau 15, memutuskan untuk menutup penyiasatan terhadap pelanggaran larangan, jika Suruhanjaya berpendapat bahawa— (a) adalah tidak sesuai untuk meneruskan penyiasatan apabila Suruhanjaya menerima daripada perusahaan itu suatu aku janji di bawah seksyen 43; atau (b) dalam semua hal keadaan itu, penerusan penyiasatan itu bukan merupakan penggunaan terbaik sumber Suruhanjaya. (5) Apabila memutuskan untuk menutup suatu penyiasatan di bawah subseksyen (4), Suruhanjaya hendaklah menyiarkan suatu pernyataan bahawa penyiasatan itu telah ditutup dan memberikan suatu ringkasan pendek mengenai sebab bagi Suruhanjaya menutup penyiasatan itu. (6) Jika Suruhanjaya telah menutup penyiasatan itu menurut perenggan (4)(a) dan perusahaan yang disebut dalam perenggan itu tidak mematuhi aku janji di bawah seksyen 43, Suruhanjaya boleh memulakan semula penyiasatan di bawah seksyen 14 atau 15 terhadap perusahaan itu.”. Penggantian seksyen 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/12/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 18 dengan seksyen yang berikut: “Kuasa untuk menghendaki pemberian maklumat, dsb. 18. (1) Walau apa pun mana-mana undang-undang bertulis lain, jika Suruhanjaya mempunyai alasan yang munasabah untuk mempercayai bahawa mana-mana orang— (a) mempunyai apa-apa maklumat, butir-butir atau dokumen yang berkaitan dengan pelaksanaan fungsi dan kuasa Suruhanjaya di bawah Akta ini; atau (b) berupaya untuk memberikan apa-apa keterangan yang Suruhanjaya mempunyai alasan yang munasabah untuk mempercayai adalah berkaitan dengan pelaksanaan fungsi dan kuasa Suruhanjaya di bawah Akta ini, Suruhanjaya boleh, melalui notis secara bertulis, mengarahkan orang itu— (A) untuk memberikan apa-apa maklumat atau butir-butir sedemikian kepada pegawai Suruhanjaya dalam bentuk dan mengikut cara dan dalam tempoh sebagaimana yang dinyatakan dalam notis itu atau apa-apa tempoh lanjutan sebagaimana yang diberikan oleh Suruhanjaya; (B) untuk mengemukakan apa-apa dokumen sedemikian, sama ada dalam bentuk fizikal atau perantara elektronik, kepada pegawai Suruhanjaya mengikut cara dan dalam tempoh sebagaimana yang dinyatakan dalam notis itu atau apa-apa tempoh lanjutan sebagaimana yang diberikan oleh Suruhanjaya; (C) untuk membuat salinan apa-apa dokumen sedemikian dan mengemukakan salinan itu kepada pegawai Suruhanjaya mengikut cara dan dalam tempoh sebagaimana yang dinyatakan dalam notis itu atau apa-apa tempoh lanjutan sebagaimana yang diberikan oleh Suruhanjaya; atau (D) untuk hadir di hadapan seorang pegawai Suruhanjaya pada masa dan di tempat sebagaimana yang dinyatakan dalam notis itu untuk memberikan apa-apa keterangan, sama ada secara lisan atau bertulis, dan mengemukakan apa-apa dokumen, sama ada dalam bentuk fizikal atau perantara elektronik, mengikut cara dan dalam tempoh sebagaimana yang dinyatakan dalam notis itu atau apa-apa tempoh lanjutan sebagaimana yang diberikan oleh Suruhanjaya. (2) Jika Suruhanjaya mengarahkan mana-mana orang untuk mengemukakan apa-apa dokumen di bawah subseksyen (1) dan dokumen itu tiada dalam jagaan orang itu, orang itu hendaklah— (a) menyatakan, sepanjang pengetahuan dan kepercayaannya, di mana dokumen itu boleh dijumpai; dan (b) mengenal pasti, sepanjang pengetahuan dan kepercayaannya, orang terakhir yang mempunyai jagaan terhadap dokumen itu dan menyatakan, sepanjang pengetahuan dan kepercayaannya, di mana orang terakhir yang disebut itu boleh dijumpai. (3) Mana-mana orang yang diarahkan untuk memberikan atau mengemukakan apa-apa maklumat, butir-butir atau dokumen atau salinan apa-apa dokumen di bawah subseksyen (1) hendaklah memastikan bahawa maklumat, butir-butir atau dokumen atau salinan dokumen yang diberikan atau dikemukakan itu adalah benar, tepat dan lengkap dan orang itu hendaklah memberikan representasi yang nyata yang bermaksud sedemikian, termasuk suatu perisytiharan bahawa dia tidak menyedari mengenai apa-apa maklumat, butir-butir atau dokumen lain yang akan menjadikan maklumat, butir-butir atau dokumen yang diberikan atau dikemukakan itu tidak benar atau mengelirukan. (4) Keterangan lisan yang diberikan oleh mana-mana orang di bawah seksyen ini hendaklah, bila mana mungkin, diubah ke dalam bentuk bertulis dan ditandatangani oleh orang yang membuatnya atau dilekatkan dengan cap jarinya, mengikut mana-mana yang berkenaan— (a) selepas keterangan lisan itu dibacakan kepadanya dalam bahasa yang dalamnya keterangan lisan itu dibuat olehnya; dan (b) selepas dia telah diberi peluang untuk membuat apa-apa pembetulan yang ingin dibuat olehnya. (5) Mana-mana orang yang tidak mematuhi arahan Suruhanjaya di bawah subseksyen (1) melakukan suatu kesalahan. (6) Mana-mana orang yang melanggar subseksyen (2) atau (3) melakukan suatu kesalahan. (7) Jika Suruhanjaya mempunyai alasan yang munasabah untuk mempercayai bahawa mana-mana Entiti Kerajaan mempunyai apa-apa maklumat, butir-butir atau dokumen yang berkaitan dengan pelaksanaan fungsi dan kuasa Suruhanjaya di bawah Akta ini, Suruhanjaya boleh, melalui notis secara bertulis, meminta Entiti Kerajaan itu untuk memberikan atau mengemukakan maklumat, butir-butir atau dokumen itu dalam bentuk dan mengikut cara dan dalam tempoh sebagaimana yang dinyatakan dalam notis itu. (8) Entiti Kerajaan yang diminta untuk memberikan atau mengemukakan apa-apa maklumat, butir-butir atau dokumen di bawah subseksyen (7) hendaklah mematuhi permintaan Suruhanjaya itu.”. Pindaan seksyen 20"
+      }
+    }
+  ]
+}

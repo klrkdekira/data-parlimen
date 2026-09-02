@@ -56,15 +56,15 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### "dan" di hujung perenggan itu;
 
-### (iii) dalam subperenggan (e)(ii) —
+(iii) dalam subperenggan (e)(ii) —
 
-### (A) dengan memasukkan selepas perkataan
+(A) dengan memasukkan selepas perkataan
 
 ### "pengunderaitan luar pesisir" perkataan "atau
 
 ### pengurus insurans luar pesisir"; dan
 
-### (B) dengan menggantikan noktah di hujung
+(B) dengan menggantikan noktah di hujung
 
 ### subperenggan itu dengan koma bernoktah;
 
@@ -92,25 +92,25 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (b) dalam subseksyen (3)—
 
-### (i) dalam perenggan (b), dengan memotong perkataan
+(i) dalam perenggan (b), dengan memotong perkataan
 
 ### "atau kedua-duanya";
 
-### (ii) dalam subperenggan (e)(i)~
+(ii) dalam subperenggan (e)(i)~
 
-### (A) dalam subsubperenggan (B), dengan
+(A) dalam subsubperenggan (B), dengan
 
 ### memotong perkataan "dan" di hujung
 
 ### subsubperenggan itu;
 
-### (B) dalam subsubperenggan (C), dengan
+(B) dalam subsubperenggan (C), dengan
 
 ### memasukkan perkataan "dan" di hujung
 
 ### subsubperenggan itu; dan
 
-### (C) dengan memasukkan selepas subsub
+(C) dengan memasukkan selepas subsub
 
 ### perenggan (C) subsubperenggan yang berikut:
 
@@ -166,7 +166,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (2) Jika Menteri menolak permohonan itu, Bank hendaklah dengan segera memberitahu pemohon secara bertulis tentang penolakannya dan tidaklah dikehendaki memberikan apa-apa sebab bagi penolakan itu kepada pemohon.
 
-(3) Jika Menteri meluluskan lesen di bawah subseksyen (1), Bank hendaklah mengeluarkan lesen kepada pemohon.".
+(3) Jika Menteri meluluskan lesen di bawah subseksyen
+
+(1), Bank hendaklah mengeluarkan lesen kepada pemohon.".
 
 ### Pindaan seksyen 16
 
@@ -176,7 +178,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 16. (1) Tiap-tiap pemegang lesen hendaklah melantik seorang juruaudit pada setiap tahun dalam apa-apa tempoh sebagaimana yang ditentukan oleh Bank.
 
-(2) Seseorang juruaudit yang dilantik di bawah subseksyen (1) hendaklah menjalankan pengauditan akaun atau apa-apa bidang lain yang ditentukan oleh Bank tentang perniagaan dan pengendalian pemegang lesen di, dari dan melalui Wilayah Persekutuan Labuan dan hendaklah mengemukakan laporan pengauditan itu berserta dengan ulasannya mengenai sistem perakaunan dan kawalan pemegang lesen itu kepada Bank.
+(2) Seseorang juruaudit yang dilantik di bawah subseksyen
+
+(1) hendaklah menjalankan pengauditan akaun atau apa-apa bidang lain yang ditentukan oleh Bank tentang perniagaan dan pengendalian pemegang lesen di, dari dan melalui Wilayah Persekutuan Labuan dan hendaklah mengemukakan laporan pengauditan itu berserta dengan ulasannya mengenai sistem perakaunan dan kawalan pemegang lesen itu kepada Bank.
 
 (3) Tertakluk kepada seksyen 25, Bank boleh, pada bila- bila masa, menghendaki juruaudit supaya mengemukakan kepada Bank apa-apa penjelasan yang berhubungan dengan auditnya sebagaimana yang ditentukan oleh Bank.
 
@@ -926,6 +930,4 @@ to subsection 6(3) provides that the application for a licence, except an applic
 
 ## FINANCIAL IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure.
-
-<!-- marginal: [PN(U2)2331] -->
+This Bill will not involve the Government in any extra financial expenditure. [PN(U2)2331]

@@ -6,7 +6,9 @@ intituled
 
 An Act to amend the Institut Teknologi MARA Act 1976. [
 
-ENACTED by the Parliament of Malaysia as follows: ~',. ~ . r;"
+ENACTED by the Parliament of Malaysia as follows: ~',. ~ .
+
+<!-- marginal: r;" -->
 
 ### Short title and commencement
 
@@ -90,7 +92,9 @@ Continuance of service of staff, agents, etc.
 
 11. (1) All staff appointed or employed by the Institut Teknologi MARA immediately before the commencement date shall, on the commencement date, be deemed to have been appointed or employed by the Universiti Teknologi MARA on terms and conditions of service which are not less favourable than the terms and conditions of service applicable to them immediately before the commencement date.
 
-If changes are made on and after the commencement (2) date with respect to the conditions of service of the staff of the Universiti Teknologi MARA who are deemed under subsection (1) to have been employed by the Universiti,
+If changes are made on and after the commencement (2) date with respect to the conditions of service of the staff of the Universiti Teknologi MARA who are deemed under subsection
+
+(1) to have been employed by the Universiti,
 
 <!-- marginal: they shall be -->
 
@@ -122,7 +126,11 @@ New section lA
 
 14. The principal Act is amended by inserting after section I the following section:
 
-"Establish- IA. The Universiti Teknologi MARA is established me?t of.. pursuant to and in accordance with the provisions of UmversltI A . 1 153 fhFd 1 C . . " is pursuant rtIc e 0 tee era onstItutlOn.. to Article 153 of the . Federal Constitution.
+"Establish- IA. The Universiti Teknologi MARA is established me?t of.. pursuant to and in accordance with the provisions of UmversltI A . 1 153 fhFd 1 C . . " is pursuant rtIc e 0 tee era
+
+<!-- marginal: onstItutlOn.. -->
+
+to Article 153 of the . Federal Constitution.
 
 <!-- page 6 -->
 
@@ -228,11 +236,7 @@ If for any reason the Chancellor is unable to (2) exercise any of his functions 
 
 24. Section 20 of the principal Act is amended -
 
-(a) in the English language text
-
-<!-- marginal: in subsection (7), by -->
-
-substituting for the word "Rectors" the word "Vice Chancellors";
+(a) in the English language text in subsection (7), by substituting for the word "Rectors" the word "Vice Chancellors";
 
 (b) by inserting after subsection (7) the following subsection:
 
@@ -246,7 +250,13 @@ substituting for the word "Rectors" the word "Vice Chancellors";
 
 25. The principal Act is amended by inserting after section 29A the following section:
 
-"Convo- 29B. (1) A Convocation for the conferment of degrees, cation. diplomas, certificates and other academic distinctions shall be held annually, or as often as the Chancellor may direct, on such date as may be approved by the Chancellor.
+<!-- marginal: "Convo- -->
+
+29B. (1) A Convocation for the conferment of degrees,
+
+<!-- marginal: cation. -->
+
+diplomas, certificates and other academic distinctions shall be held annually, or as often as the Chancellor may direct, on such date as may be approved by the Chancellor.
 
 <!-- page 10 -->
 

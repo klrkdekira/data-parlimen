@@ -12,13 +12,7 @@
 
 ## SUSUNAN FASAL
 
-1. Tajuk ringkas dan mula berkuatkuasa.
-
-2. Tafsiran.
-
-3. Pemansuhan dan pembubaran.
-
-4. Pengekalan.
+1. Tajuk ringkas dan mula berkuatkuasa. 2. Tafsiran. 3. Pemansuhan dan pembubaran. 4. Pengekalan.
 
 5. Pencegahan kesulitan atau anomali.
 
@@ -70,11 +64,19 @@ yang ditubuhkan di bawah Akta Perbadanan Pembangunan Bandar 1971.
 
 ## RANG UNDANG-UNDANG
 
-Pemansuhan
+<!-- marginal: Pemansuhan -->
 
-3. Akta Perbadanan Pembangunan Bandar 1971 dan dimansuhkan dan Perbadanan yang ditubuhkan di bawahnya pembubaran. dibubarkan.
+3. Akta Perbadanan Pembangunan Bandar 1971
 
-Pengekalan.
+<!-- marginal: dan -->
+
+dimansuhkan dan Perbadanan yang ditubuhkan di bawahnya
+
+<!-- marginal: pembubaran. -->
+
+dibubarkan.
+
+<!-- marginal: Pengekalan. -->
 
 4. (1) Walau apa pun pemansuhan di bawah seksyen 3, segala—
 
@@ -90,7 +92,9 @@ Pengekalan.
 
 (f) obligasi,
 
-Akta 46. di bawah seksyen 18 Akta Perbadanan Pembangunan Bandar 1971 yang sebaik sahaja sebelum mula berkuatkuasanya Akta ini dipunyai oleh Perbadanan hendaklah, pada mula berkuatkuasa Akta ini,—
+<!-- marginal: Akta 46. -->
+
+di bawah seksyen 18 Akta Perbadanan Pembangunan Bandar 1971 yang sebaik sahaja sebelum mula berkuatkuasanya Akta ini dipunyai oleh Perbadanan hendaklah, pada mula berkuatkuasa Akta ini,—
 
 (aa) turun kepada Kerajaan; dan
 

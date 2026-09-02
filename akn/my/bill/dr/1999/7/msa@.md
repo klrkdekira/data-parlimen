@@ -68,7 +68,9 @@ Rang Undang-Undang
 
 (c) dengan memasukkan selepas subseksyen (3) subseksyen yang berikut:
 
-"(3A) Maklumat yang diberikan di bawah subseksyen (3) boleh termasuk—
+"(3A) Maklumat yang diberikan di bawah subseksyen
+
+(3) boleh termasuk—
 
 (a) butir-butir mengenai mana-mana penjualan atau pindah milik tanah, bangunan dan apa-apa kepentingan mengenainya;
 
@@ -98,7 +100,9 @@ Rang Undang-Undang
 
 (iii) dalam perenggan (c), dengan menggantikan perkataan "kerja itu" dengan perkataan "menjalankan fungsinya di bawah Akta ini"; dan
 
-(b) dalam subseksyen (2), dengan menggantikan perkataan "kerjanya" dengan perkataan "fungsinya di bawah Akta ini".
+(b) dalam subseksyen (2), dengan menggantikan perkataan "kerjanya" dengan perkataan "fungsinya di bawah Akta
+
+<!-- marginal: ini". -->
 
 <!-- page 4 -->
 

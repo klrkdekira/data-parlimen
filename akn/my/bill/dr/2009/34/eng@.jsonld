@@ -96,8 +96,7 @@
       "eli:number": "11",
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/34/eng@/~cl_11__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/34/eng@/~cl_11__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/34/eng@/~cl_11__para_ea"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/34/eng@/~cl_11__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/34/eng@",
       "schema:name": {
@@ -122,17 +121,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/34/eng@/~cl_11",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (e) the following paragraph: “"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/34/eng@/~cl_11__para_ea",
-      "@type": "akn:paragraph",
-      "eli:number": "ea",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/34/eng@/~cl_11",
-      "schema:text": {
-        "@language": "en",
-        "@value": "granting loans, scholarships and advances to its officers under section 21; and”. New section 30a"
+        "@value": "by inserting after paragraph (e) the following paragraph: “ (ea) granting loans, scholarships and advances to its officers under section 21; and”. New section 30a"
       }
     },
     {
@@ -256,7 +245,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/34/eng@/~cl_3",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (1)— “(d) not more than six members, who, in the opinion of the Minister, have experience and shown capacity and professionalism in matters relating to finance, engineering, business or administration, or are otherwise suitable for appointment because of their special knowledge and experience.”; and"
+        "@value": "in subsection (1)—"
       }
     },
     {
@@ -296,7 +285,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/34/eng@/~cl_3__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (c) the following paragraph:"
+        "@value": "by inserting after paragraph (c) the following paragraph: “(d) not more than six members, who, in the opinion of the Minister, have experience and shown capacity and professionalism in matters relating to finance, engineering, business or administration, or are otherwise suitable for appointment because of their special knowledge and experience.”; and"
       }
     },
     {

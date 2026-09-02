@@ -6,7 +6,9 @@
 
 bernama
 
-Suatu Akta untuk meminda Akta Universiti dan Kolej Universiti 1971. [ ]
+Suatu Akta untuk meminda Akta Universiti dan Kolej Universiti
+
+1971. [ ]
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
@@ -240,7 +242,9 @@ orang daripada pemakaian subseksyen (1), tertakluk kepada apa-apa terma dan syar
 
 (c) dengan memasukkan selepas subseksyen (1) subseksyen yang berikut:
 
-“(2) Mana-mana pertubuhan, badan atau kumpulan pelajar Universiti yang terkilan dengan penggantungan atau pembubaran yang dibuat di bawah subseksyen (1) boleh, dalam masa empat belas hari dari tarikh penerimaan notis penggantungan atau pembubaran itu, merayu secara bertulis kepada Menteri.”.
+“(2) Mana-mana pertubuhan, badan atau kumpulan pelajar Universiti yang terkilan dengan penggantungan atau pembubaran yang dibuat di bawah subseksyen
+
+(1) boleh, dalam masa empat belas hari dari tarikh penerimaan notis penggantungan atau pembubaran itu, merayu secara bertulis kepada Menteri.”.
 
 ### Pemotongan seksyen 16a
 
@@ -404,7 +408,9 @@ orang daripada pemakaian subseksyen (1), tertakluk kepada apa-apa terma dan syar
 
 (ii) dengan memasukkan selepas subseksyen (2) subseksyen yang berikut:
 
-“(3) Bagi mengelakkan keraguan, kuasa di bawah subseksyen (1) boleh dijalankan oleh Lembaga, kecuali kuasa di bawah perenggan (1)(a), (b), (c), (d), (f), (j) dan (kc) yang hendaklah dijalankan oleh Senat.”;
+“(3) Bagi mengelakkan keraguan, kuasa di bawah subseksyen (1) boleh dijalankan oleh Lembaga, kecuali kuasa di bawah perenggan (1)(a),
+
+(b), (c), (d), (f), (j) dan (kc) yang hendaklah dijalankan oleh Senat.”;
 
 (c) dalam seksyen 9—
 
@@ -620,7 +626,9 @@ mana-mana kursus pengajian yang diadakan di dalam, oleh atau dari Universiti;
 
 (5) Apa-apa pertikaian antara Senat dengan Lembaga mengenai ruang lingkup dan takat fungsi atau kuasa mereka boleh dirujukkan oleh salah satu pihak kepada Menteri mengikut seksyen 24a.”;
 
-(m) dengan memasukkan selepas seksyen 17 seksyen yang berikut:
+(m) dengan memasukkan selepas seksyen 17 seksyen yang
+
+<!-- marginal: berikut: -->
 
 ### “Jawatankuasa Pengurusan Universiti
 
@@ -860,7 +868,9 @@ mengubah atau membatalkan sesuatu Perintah Perbadanan. Peruntukan yang seumpaman
 
 <!-- page 35 -->
 
-12. Fasal 12 bertujuan untuk menggantikan seksyen 15d Akta 30. Seksyen baru 15d mencadangkan relief kepada pelajar yang berhadapan dengan pertuduhan jenayah, penahanan, perintah sekatan atau pemenjaraan. Subseksyen (1) bertujuan untuk memberikan budi bicara kepada Naib Canselor untuk memutuskan sama ada atau tidak untuk menggantung seseorang pelajar yang dipertuduh atas suatu kesalahan boleh daftar. Subseksyen (2) dan (3) menjadikan seseorang pelajar yang disabitkan atas suatu kesalahan boleh daftar, atau ditahan atau tertakluk kepada suatu perintah sekatan di bawah mana-mana undang-undang bertulis yang berhubungan dengan tahanan pencegahan atau keselamatan dalam negeri, boleh dikenakan tindakan tatatertib dan dia tidak dengan serta- merta terhenti menjadi seorang pelajar di bawah hal keadaan sedemikian menurut kuasa peruntukan yang sedia ada. Subseksyen (4) bertujuan untuk membenarkan seseorang pelajar yang diletakkan di bawah tahanan atau tertakluk kepada suatu perintah yang mengenakan sekatan ke atasnya atau yang sedang dipenjarakan, untuk menduduki peperiksaannya jika diizinkan oleh Senat dan tertakluk kepada suatu perintah yang dibuat atau kelulusan yang diberikan oleh Menteri yang bertanggungjawab bagi keselamatan dalam negeri atau mana- mana pihak berkuasa berwibawa, mengikut kehendak keadaan. Subseksyen (5) dan (6) masing-masing bertujuan untuk membenarkan seseorang pelajar yang digantung daripada Universiti atau seseorang pelajar yang terhenti menjadi seorang pelajar Universiti di bawah Akta 30 untuk meneruskan pengajiannya di mana-mana Universiti lain dengan kelulusan bertulis Menteri. Pindaan ini adalah selaras dengan hak bagi pelajaran untuk semua. Subseksyen (7) dan (8) bertujuan untuk memperuntukkan bahawa tempoh penggantungan tidak boleh diambil kira dalam pengiraan tempoh maksimum yang dibenarkan untuk menyempurnakan kursus pengajian dan dalam pengiraan keputusannya apabila seseorang pelajar dilepaskan atau dibebaskan daripada kesalahan boleh daftar atau dilepaskan daripada tahanan atau sekatan yang dikenakan ke atasnya dibatalkan.
+12. Fasal 12 bertujuan untuk menggantikan seksyen 15d Akta 30. Seksyen baru 15d mencadangkan relief kepada pelajar yang berhadapan dengan pertuduhan jenayah, penahanan, perintah sekatan atau pemenjaraan. Subseksyen (1) bertujuan untuk memberikan budi bicara kepada Naib Canselor untuk memutuskan sama ada atau tidak untuk menggantung seseorang pelajar yang dipertuduh atas suatu kesalahan boleh daftar. Subseksyen (2) dan (3) menjadikan seseorang pelajar yang disabitkan atas suatu kesalahan boleh daftar, atau ditahan atau tertakluk kepada suatu perintah sekatan di bawah mana-mana undang-undang bertulis yang berhubungan dengan tahanan pencegahan atau keselamatan dalam negeri, boleh dikenakan tindakan tatatertib dan dia tidak dengan serta- merta terhenti menjadi seorang pelajar di bawah hal keadaan sedemikian menurut kuasa peruntukan yang sedia ada. Subseksyen (4) bertujuan untuk membenarkan seseorang pelajar yang diletakkan di bawah tahanan atau tertakluk kepada suatu perintah yang mengenakan sekatan ke atasnya atau yang sedang dipenjarakan, untuk menduduki peperiksaannya jika diizinkan oleh Senat dan tertakluk kepada suatu perintah yang dibuat atau kelulusan yang diberikan oleh Menteri yang bertanggungjawab bagi keselamatan dalam negeri atau mana- mana pihak berkuasa berwibawa, mengikut kehendak keadaan. Subseksyen (5) dan (6) masing-masing bertujuan untuk membenarkan seseorang pelajar yang digantung daripada Universiti atau seseorang pelajar yang terhenti menjadi seorang pelajar Universiti di bawah Akta 30 untuk meneruskan pengajiannya di mana-mana Universiti lain dengan kelulusan bertulis Menteri. Pindaan ini adalah selaras dengan hak bagi pelajaran untuk semua. Subseksyen (7) dan
+
+(8) bertujuan untuk memperuntukkan bahawa tempoh penggantungan tidak boleh diambil kira dalam pengiraan tempoh maksimum yang dibenarkan untuk menyempurnakan kursus pengajian dan dalam pengiraan keputusannya apabila seseorang pelajar dilepaskan atau dibebaskan daripada kesalahan boleh daftar atau dilepaskan daripada tahanan atau sekatan yang dikenakan ke atasnya dibatalkan.
 
 13. Fasal 13 bertujuan untuk meminda seksyen 16 Akta 30 untuk memberi pertubuhan, badan atau kumpulan pelajar Universiti hak untuk membuat representasi bertulis sebelum apa-apa penggantungan atau pembubaran dibuat terhadap pertubuhan, badan atau kumpulan pelajar itu oleh Naib Canselor. Fasal ini juga mewujudkan hak untuk merayu kepada Menteri.
 

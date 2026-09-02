@@ -20,7 +20,23 @@
 
 5. Objectives of the Authority 6. Functions of the Authority 7. Powers of the Authority 8. Additional functions of the Authority 9. Membership of the Authority
 
-10. Appointment, revocation and resignation 11. Vacation of office 12. Filling of vacancy 13. Remuneration or allowance 14. Disclosure of interest 15. The Authority may establish committees 16. The Northern Corridor Economic Region 17. Delegation of the Authority's functions and powers 18. Returns, reports, accounts and information
+10. Appointment, revocation and resignation
+
+11. Vacation of office
+
+12. Filling of vacancy
+
+13. Remuneration or allowance
+
+14. Disclosure of interest
+
+15. The Authority may establish committees
+
+16. The Northern Corridor Economic Region
+
+17. Delegation of the Authority's functions and powers
+
+18. Returns, reports, accounts and information
 
 <!-- page 2 -->
 
@@ -30,7 +46,11 @@
 
 ## CHIEF EXECUTIVE, OFFICERS AND SERVANTS OF THE AUTHORITY
 
-19. The Chief Executive 20. Employment of other officers and servants of the Authority 21. Financial assistance to members, officers, servants and other persons
+19. The Chief Executive
+
+20. Employment of other officers and servants of the Authority
+
+21. Financial assistance to members, officers, servants and other persons
 
 ## PART IV
 
@@ -38,7 +58,17 @@
 
 ## NORTHERN CORRIDOR ECONOMIC REGION
 
-22. Responsibility of the Authority 23. Preparation of draft NCER Development Plan 24. Approval or rejection of draft NCER Development Plan 25. Review or alteration of NCER Development Plan 26. Duty to take cognisance of NCER Development Plan 27. Prescribed strategic development
+22. Responsibility of the Authority
+
+23. Preparation of draft NCER Development Plan
+
+24. Approval or rejection of draft NCER Development Plan
+
+25. Review or alteration of NCER Development Plan
+
+26. Duty to take cognisance of NCER Development Plan
+
+27. Prescribed strategic development
 
 ## PART V
 
@@ -46,13 +76,27 @@
 
 ## NORTHERN CORRIDOR ECONOMIC REGIGN
 
-28. Principal co-ordinating agency 29. Arrangements with Government Entities 30. Responsibility of Government Entities
+28. Principal co-ordinating agency
+
+29. Arrangements with Government Entities
+
+30. Responsibility of Government Entities
 
 ## PART VI
 
 ## FINANCE
 
-31. The Fund 32. Expenditure to be charged on the Fund 33. Conservation of the Fund 34. Reserve fund 35. Bank accounts 36. Power to borrow 37. Investment
+31. The Fund
+
+32. Expenditure to be charged on the Fund
+
+33. Conservation of the Fund
+
+34. Reserve fund
+
+35. Bank accounts
+
+36. Power to borrow 37. Investment
 
 <!-- page 3 -->
 
@@ -244,11 +288,7 @@ international competitiveness of the Northern Corridor Economic Region as an agr
 
 (i) economic and social development;
 
-(ii) agricultural development, including the modernization, diversification and commercialisation of
-
-<!-- marginal: the -->
-
-agricultural sector;
+(ii) agricultural development, including the modernization, diversification and commercialisation of the agricultural sector;
 
 (iii) industrial development, including the development of higher value-added activities and new industries;
 
@@ -278,11 +318,7 @@ agricultural sector;
 
 (I) to assist the relevant Government Entities in reviewing and evaluating the performance of the activities mentioned in paragraphs (j) and (g) within the Northern Corridor Economic Region; and
 
-(m) to carry out any other functions conferred by or under this Act and to perform any other functions
-
-<!-- marginal: that are -->
-
-supplemental, incidental, or consequential to any of the functions specified in this section or in furtherance of the objectives of the Authority.
+(m) to carry out any other functions conferred by or under this Act and to perform any other functions that are supplemental, incidental, or consequential to any of the functions specified in this section or in furtherance of the objectives of the Authority.
 
 ### Powers of the Authority
 
@@ -640,7 +676,9 @@ relating to the development of the Northern Corridor Economic Region, and the po
 
 (c) consult the relevant Government Entity having jurisdiction over the relevant activity or matter proposed to be undertaken or performed by the Authority.
 
-(2) Without prejudice to any other provision of this Act, in carrying out its responsibility under subsection (1), the Authority shall-
+(2) Without prejudice to any other provision of this Act, in carrying out its responsibility under subsection (1), the Authority
+
+<!-- marginal: shall- -->
 
 (a) assist each State Government to co-ordinate development in the Northern Corridor Economic Region, and for this purpose, the Authority shall prepare a draft NCER Development Plan and formulate strategies and initiatives for the implementation of the NCER Development Plan in the private and public sectors for adoption by the relevant local planning authorities within the Northern Corridor Economic Region pursuant to subsection 24(5);
 
@@ -650,11 +688,7 @@ relating to the development of the Northern Corridor Economic Region, and the po
 
 <!-- page 24 -->
 
-(d) identify the necessary infrastructure requirements for the economic and social development of the Northern Corridor Economic Region in accordance with
-
-<!-- marginal: the NCER -->
-
-Development Plan, develop and recommend strategies and initiatives for the provision of such infrastructure, receive and channel any funds allocated by Parliament for the provision of such infrastructure and assist the relevant Government Entity in reviewing and evaluating
+(d) identify the necessary infrastructure requirements for the economic and social development of the Northern Corridor Economic Region in accordance with the NCER Development Plan, develop and recommend strategies and initiatives for the provision of such infrastructure, receive and channel any funds allocated by Parliament for the provision of such infrastructure and assist the relevant Government Entity in reviewing and evaluating
 
 <!-- marginal: its -->
 
@@ -692,11 +726,7 @@ Corridor Economic Region, which shall include strategies for the physical, econo
 
 (iv) the management of the use of land in the Northern Corridor Economic Region;
 
-(v) the achievement or enhancement of international competitive advantage for goods and services in the Northern Corridor Economic Region, which includes activities relating to branding, research, accreditation to international standards
-
-<!-- marginal: and -->
-
-marketing;
+(v) the achievement or enhancement of international competitive advantage for goods and services in the Northern Corridor Economic Region, which includes activities relating to branding, research, accreditation to international standards and marketing;
 
 (vi) the development of sectoral-relevant or industry- relevant human capital, which includes activities relating to education, training and research;
 
@@ -704,11 +734,7 @@ marketing;
 
 (viii) the attraction of investment to the agricultural, manufacturing and services sectors in the Northern Corridor Economic Region;
 
-(ix) the development of the agricultural sector, including its modernisation, diversification
-
-<!-- marginal: and -->
-
-commercialisation;
+(ix) the development of the agricultural sector, including its modernisation, diversification and commercialisation;
 
 (x) the development of the industrial sector, including the development of higher value-added industries and new industries;
 
@@ -728,11 +754,7 @@ commercialisation;
 
 (xv) the enhancement of logistics or transportation infrastructure and services in the Northern Corridor Economic Region, including-
 
-(aa) the enhancement of internal, national and international transport linkages
-
-<!-- marginal: for -->
-
-movement of goods and people;
+(aa) the enhancement of internal, national and international transport linkages for movement of goods and people;
 
 (bb) the provision and management of an integrated, co-ordinated and inter-connected public transportation system, which shall be consistent with the overall framework, vision, objectives and strategies referred to in paragraph (a); and
 
@@ -866,9 +888,7 @@ Authority has entered into an agreement or arrangement under section 29; and
 
 (c) the collection by the Authority on behalf of the Government Entity of such fees, costs or any other charges as may be lawfully required, charged or imposed by such Government Entity.
 
-(2) Any agreement or arrangement entered into under subsection
-
-(1) shall be-
+(2) Any agreement or arrangement entered into under subsection (1) shall be-
 
 (a) with the consent of the Prime Minister in the case of a Federal Government Entity;
 
@@ -1358,4 +1378,6 @@ development. This is to secure the conformity or consistency of the proposed dev
 
 ## FINANCIAL IMPLICATIONS
 
-This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained. IPN(U2)2613]
+This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
+
+<!-- marginal: IPN(U2)2613] -->

@@ -22,7 +22,9 @@
 
 2. Peniansuhan Akta 363.
 
-3. Pemberhentian penyewaan. 4. Kecualian.
+3. Pemberhentian penyewaan.
+
+4. Kecualian.
 
 ## BAHAGIAN
 
@@ -30,7 +32,21 @@ III
 
 ## PERUNTUKAN PERALIHAN
 
-5. Tempoh peralihan. 6. Penyewaan yang disifatkan. 7. Amaun sewa. 8. Tidak membayar atau sewa tertunggak. 9. Larangan terhadap mendapat kembali premis. 10. Tribunal Penyahkawalan. 11. Habis tempoh peralihan. 12. Kaedah-kaedah.
+5. Tempoh peralihan.
+
+6. Penyewaan yang disifatkan.
+
+7. Amaun sewa.
+
+8. Tidak membayar atau sewa tertunggak.
+
+9. Larangan terhadap mendapat kembali premis.
+
+10. Tribunal Penyahkawalan.
+
+11. Habis tempoh peralihan.
+
+12. Kaedah-kaedah.
 
 ## JADUAL
 
@@ -74,15 +90,23 @@ II
 
 ## PEMANSUHAN
 
-Pemansuhan
+<!-- marginal: Pemansuhan -->
 
-2. Akta Kawalan Sewa 1966, yang disebut "Akta" dalam Akta 363. Akta ini, adalah dimansuhkan.
+2. Akta Kawalan Sewa 1966, yang disebut "Akta" dalam
 
-Pemberhentian
+<!-- marginal: Akta 363. -->
 
-3. Apabila Akta dimansuhkan di bawah seksyen 2, apa- penyewaan. apa penyewaan antara tuan rumah dengan penyewa sebelum tarikh pemansuhan hendaklah dengan serta-merta disifatkan telah terhenti.
+Akta ini, adalah dimansuhkan.
 
-Kecualian.
+<!-- marginal: Pemberhentian -->
+
+3. Apabila Akta dimansuhkan di bawah seksyen 2, apa-
+
+<!-- marginal: penyewaan. -->
+
+apa penyewaan antara tuan rumah dengan penyewa sebelum tarikh pemansuhan hendaklah dengan serta-merta disifatkan telah terhenti.
+
+<!-- marginal: Kecualian. -->
 
 4. Pemansuhan Akta di bawah seksyen 2 tidaklah menyentuh apa-apa prosiding yang bermula sebelum Akta dimansuhkan dan yang masih belum selesai sebelum sahaja Akta dimansuhkan, atau mana-mana perintah, keputusan atau penghakiman yang dibuat sebelum Akta dimansuhkan, berkenaan dengan—
 
@@ -98,9 +122,13 @@ III
 
 ## PERUNTUKAN PERALIHAN
 
-Tempoh
+<!-- marginal: Tempoh -->
 
-5. (1) Tertakluk kepada subseksyen (2), "tempoh peralihan. peralihan" ertinya tempoh yang bermula pada 1 September 1997 dan berakhir pada 31 Disember 1999.
+5. (1) Tertakluk kepada subseksyen (2), "tempoh
+
+<!-- marginal: peralihan. -->
+
+peralihan" ertinya tempoh yang bermula pada 1 September 1997 dan berakhir pada 31 Disember 1999.
 
 (2) Walau apa pun subseksyen (1), tempoh peralihan boleh terhenti berkuatkuasa lebih awal daripada 31 Disember 1999 di Wilayah Persekutuan Kuala Lumpur
 
@@ -160,13 +188,35 @@ tuan rumah hendaklah mempunyai hak untuk mendapat milikan kosong premis daripada
 
 (5) Milikan kosong premis yang didapatkan kembali di bawah subseksyen (4) tidaklah menjejaskan hak tuan rumah untuk mendapat apa-apa sewa yang terakru dan masih belum dibayar pada tarikh habis tempoh tiga bulan yang diperuntukkan dalam perenggan 11(3)(a).
 
-Larangan
+<!-- marginal: Larangan -->
 
-9. Kecuali bagi hak untuk mendapat milikan kosong terhadap premis di bawah seksyen 8, tiada seorangpun tuan rumah mendapat kembali berhak mendapat kembali milikan kosong premis bagi premis. apa-apa sebab lain semasa tempoh peralihan.
+9. Kecuali bagi hak untuk mendapat milikan kosong
 
-Tribunal
+<!-- marginal: terhadap -->
 
-10. (1) Maka hendaklah ditubuhkan suatu tribunal yang Penyah- dikenali sebagai "Tribunal Penyahkawalan" yang kawalan. hendaklah mempunyai bidang kuasa untuk mendengar dan menentukan apa-apa pertikaian berkenaan dengan—
+premis di bawah seksyen 8, tiada seorangpun tuan rumah
+
+<!-- marginal: mendapat -->
+
+<!-- marginal: kembali -->
+
+berhak mendapat kembali milikan kosong premis bagi
+
+<!-- marginal: premis. -->
+
+apa-apa sebab lain semasa tempoh peralihan.
+
+<!-- marginal: Tribunal -->
+
+10. (1) Maka hendaklah ditubuhkan suatu tribunal yang
+
+<!-- marginal: Penyah- -->
+
+dikenali sebagai "Tribunal Penyahkawalan" yang
+
+<!-- marginal: kawalan. -->
+
+hendaklah mempunyai bidang kuasa untuk mendengar dan menentukan apa-apa pertikaian berkenaan dengan—
 
 (a) sewa yang kena dibayar dan terhutang kepada tuan rumah; dan
 
@@ -214,9 +264,13 @@ berkenaan, semua penyewaan yang disifatkan telah dibuat antara tuan rumah dengan
 
 berhubungan dengannya jika penyampaian ke diri atau melalui pos berdaftar tidak dapat dibuat kepada orang yang kepadanya penyampaian itu hendak dibuat.
 
-Kaedah-
+<!-- marginal: Kaedah- -->
 
-12. (1) Menteri boleh membuat kaedah-kaedah bagi kaedah. maksud melaksanakan peruntukan-peruntukan Bahagian ini.
+12. (1) Menteri boleh membuat kaedah-kaedah bagi
+
+<!-- marginal: kaedah. -->
+
+maksud melaksanakan peruntukan-peruntukan Bahagian ini.
 
 (2) Walau apa pun subseksyen (1), kaedah-kaedah yang dibuat oleh Raja atau Yang di-Pertua Negeri sesuatu Negeri berhubungan dengan Tribunal Sewa di bawah seksyen 27 Akta hendaklah terpakai bagi Tribunal Penyahkawalan yang ditubuhkan di bawah seksyen 10 Akta ini sebagaimana ia terpakai bagi Tribunal yang ditubuhkan di bawah seksyen 12 Akta, melainkan jika kaedah-kaedah itu dibatalkan atau digantikan secara nyata atau tersirat oleh kaedah- kaedah yang dibuat oleh Menteri di bawah subseksyen
 

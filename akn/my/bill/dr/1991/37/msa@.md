@@ -12,7 +12,9 @@
 
 ## PUBLISHED BY AUTHORITY
 
-Jil- 35
+<!-- marginal: Jil- -->
+
+35
 
 ## TAMBAHAN
 
@@ -54,11 +56,29 @@ Naskhah Sahih:
 
 ## PINDAAN-PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967
 
-3. Mula berkuatkuasanya pindaan-pindaan kepada Akta Cukai Pendapatan 1967. 4. Pindaan seksyen 18. 5. Pindaan seksyen 34. 6. Pindaan seksyen 43. 7. Pindaan seksyen 44. 8. Pindaan seksyen 46. 9. Pindaan seksyen 47. 10. Pindaan seksyen 48. 11. Pindaan seksyen 49. 12. Pindaan seksyen 50. 13. Pindaan seksyen 60. 14. Pindaan seksyen 60o. 15. Pindaan seksyen 60E. 16. Pindaan seksyen 95.
+3. Mula berkuatkuasanya pindaan-pindaan kepada Akta Cukai Pendapatan 1967. 4. Pindaan seksyen 18. 5. Pindaan seksyen 34. 6. Pindaan seksyen 43. 7. Pindaan seksyen 44. 8. Pindaan seksyen 46. 9. Pindaan seksyen 47.
+
+10. Pindaan seksyen 48.
+
+11. Pindaan seksyen 49.
+
+12. Pindaan seksyen 50.
+
+13. Pindaan seksyen 60.
+
+14. Pindaan seksyen 60o.
+
+15. Pindaan seksyen 60E.
+
+16. Pindaan seksyen 95.
 
 <!-- page 4 -->
 
-17. Pindaan Jadual 1. 18. Pindaan Jadual 3. 19. Pindaan Jadual 6.
+17. Pindaan Jadual 1.
+
+18. Pindaan Jadual 3.
+
+19. Pindaan Jadual 6.
 
 ## BAB III
 
@@ -66,7 +86,9 @@ Naskhah Sahih:
 
 ## TAMBAHAN 1967
 
-20. Mula berkuatkuasanya pindaan kepada Akta Cukai Pendapatan Tambahan 1967. 21. Pindaan seksyen 16.
+20. Mula berkuatkuasanya pindaan kepada Akta Cukai Pendapatan Tambahan 1967.
+
+21. Pindaan seksyen 16.
 
 ## BAB IV
 
@@ -74,7 +96,15 @@ Naskhah Sahih:
 
 ## HARTA TANAH 1976
 
-22. Mula berkuatkuasanya pindaan-pindaan kepada Akta Cukai Keuntungan Harta Tanah 1976. 23. Pindaan seksyen 16. 24. Pindaan seksyen 17. 25. Pindaan seksyen 21B. 26. Pindaan Jadual 2.
+22. Mula berkuatkuasanya pindaan-pindaan kepada Akta Cukai Keuntungan Harta Tanah 1976.
+
+23. Pindaan seksyen 16.
+
+24. Pindaan seksyen 17.
+
+25. Pindaan seksyen 21B.
+
+26. Pindaan Jadual 2.
 
 ## BAB V
 
@@ -82,13 +112,23 @@ Naskhah Sahih:
 
 ## PERKHIDMATAN 1975
 
-27. Mula berkuatkuasanya pindaan-pindaan kepada Akta Cukai Perkhidmatan 1975. 28. Pindaan seksyen 3. 29. Pindaan seksyen 4. 30. Pindaan seksyen 7. 31. Pindaan seksyen 8.
+27. Mula berkuatkuasanya pindaan-pindaan kepada Akta Cukai Perkhidmatan 1975.
+
+28. Pindaan seksyen 3.
+
+29. Pindaan seksyen 4.
+
+30. Pindaan seksyen 7.
+
+31. Pindaan seksyen 8.
 
 ## BAB VI
 
 ## PINDAAN-PINDAAN KEPADA AKTA SETEM 1949
 
-32. Mula berkuatkuasanya pindaan-pindaan kepada Akta Setem 1949. 33. Pindaan seksyen 2.
+32. Mula berkuatkuasanya pindaan-pindaan kepada Akta Setem 1949.
+
+33. Pindaan seksyen 2.
 
 <!-- page 5 -->
 
@@ -234,7 +274,9 @@ Akta 219. Akta 224. dimansuhkan mengikut cara yang dinyatakan dalam Bab Akta 309
 
 ## PENDAPATAN 1967
 
-Mula ber- 3. (1) Kecuali bagi seksyen 6, 7, 11, 12, dan 18 (a), Bab kuatkuasa- ini hendaklah berkuatkuasa bagi tahun taksiran 1992 dan nya pindaan- pindaan tahun-tahun taksiran yang berikutnya. kepada Akta Cukai Pendapatan (2) Seksyen 6, 11, 12 dan 1 8( a) hendaklah disifatkan 1967. telah mula berkuatkuasa bagi tahun taksiran 1991 dan tahun-tahun taksiran yang berikutnya.
+Mula ber- 3. (1) Kecuali bagi seksyen 6, 7, 11, 12, dan 18 (a), Bab kuatkuasa- ini hendaklah berkuatkuasa bagi tahun taksiran 1992 dan nya pindaan- pindaan tahun-tahun taksiran yang berikutnya. kepada Akta Cukai Pendapatan (2) Seksyen 6, 11, 12 dan 1 8( a) hendaklah disifatkan
+
+1967. telah mula berkuatkuasa bagi tahun taksiran 1991 dan tahun-tahun taksiran yang berikutnya.
 
 (3) Seksyen 7 hendaklah disifatkan telah mula berkuatkuasa pada 1hb Januari 1990.
 
@@ -258,9 +300,7 @@ Pindaan 5. Seksyen 34 Akta ibu adalah dipinda— seksyen 34.
 
 <!-- marginal: the -->
 
-relevant person in the relevant period on the provision of any equipment necessary to assist any disabled person employed by him in the production of gross income of his
-
-<!-- marginal: from -->
+relevant person in the relevant period on the provision of any equipment necessary to assist any disabled person employed by him in the production of gross income of his from
 
 <!-- marginal: the -->
 
@@ -300,17 +340,15 @@ menggantikan perkataan-perkataan ", 4A or 4B" dalam perenggan (c) subseksyen (1)
 
 <!-- page 10 -->
 
-development
-
-<!-- marginal: and promoting -->
-
-<!-- marginal: and -->
-
-enhancing the relationship between the public sector and the private sector; or
+development and promoting and enhancing the relationship between the public sector and the private sector; or
 
 (g) a Government-assisted organisation established and maintained exclusively to administer and augment a fund established or held solely for promoting national unity.".
 
-Pindaan 8. Seksyen 46 Akta ibu adalah dipinda— seksyen 46.
+<!-- marginal: Pindaan -->
+
+8. Seksyen 46 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 46. -->
 
 (a) dengan memotong perkataan "and" di hujung perenggan (b):
 
@@ -322,9 +360,19 @@ Pindaan 8. Seksyen 46 Akta ibu adalah dipinda— seksyen 46.
 
 "(d) an arnount limited to a maximum of three thousand ringgit expended in that basis year by that individual for the purchase of any necessary basic supporting equipment for his own use, if he is a disabled person, or for the use of his wife, child (as defined in section 48 (9)) or parent, who is a disabled person.".
 
-Pindaan 9. Seksyen 47 Akta ibu adalah dipinda dengan seksyen 47. memotong noktah bertindih dan proviso kepadanya dalam subseksyen (1).
+<!-- marginal: Pindaan -->
 
-Pindaao 10. Seksyen 48 Akta ibu adalah dipinda— seksyen 48.
+9. Seksyen 47 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 47. -->
+
+memotong noktah bertindih dan proviso kepadanya dalam subseksyen (1).
+
+<!-- marginal: Pindaao -->
+
+10. Seksyen 48 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 48. -->
 
 (a) dalam subseksyen (1)—
 
@@ -350,7 +398,9 @@ any time in that basis year of an unmarried child if it is proved to the satisfa
 
 (a) dengan memotong noktah bertindih dan proviso kepadanya dalam subseksyen (1); dan
 
-(b) dengan memasukkan, selepas sahaja subseksyen (1), subseksyen baru (!A) yang berikut:
+(b) dengan memasukkan, selepas sahaja subseksyen
+
+(1), subseksyen baru (!A) yang berikut:
 
 "(!A) Where section 50 (3) (b) or (c) applies, there shall be allowed for that year of assessment, in addition to the deduction allowed under subsection (1), a deduction of the aggregate amount of the payments or contributions or both made by the wife or a deduction of three thousand five hundred ringgit, whichever is the less:
 
@@ -362,31 +412,47 @@ Provided that where the wife has no total income the total deduction under subse
 
 <!-- marginal: seksyen 50. -->
 
-menggantikan perenggan (b) subseksyen (3) dengan yang berikut:
+menggantikan perenggan (b) subseksyen (3) dengan yang
+
+<!-- marginal: berikut: -->
 
 "(b) where the wife makes an election under section 45 (2) or where the wife has no total income for the year of assessment to which the relevant year relates any premium for any
 
 <!-- page 12 -->
 
-10
+<!-- marginal: 10 -->
 
 ## RANG UNDANG-UNDANG
 
 insurance or deferred annuity within the meaning of paragraph (a) which is paid by the wife in the relevant year shall be deemed to have been paid by the husband;".
 
-Pindaan 13. Seksyen 60 Akta ibu adalah dipinda dengan seksyen 60. menggantikan subseksyen (7) selain daripada proviso dengan yang berikut:
+<!-- marginal: Pindaan -->
+
+13. Seksyen 60 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 60. -->
+
+menggantikan subseksyen (7) selain daripada proviso dengan yang berikut:
 
 "(7) Where an insurer carrying on general business has—
 
 (a) re-insured the risk or part of the risk with a re-insurer who either does not carry on the business of insuring risks of that kind in Malaysia or does not re-insure the risk through a branch in Malaysia; or
 
-(b) re-insured the risk or part of the risk with an Act 444. insurer licensed under the Offshore Insurance Act 1990,
+(b) re-insured the risk or part of the risk with an
 
-there may be deducted under subsection (5) (b) (ii) or (6) (b) (ii) in respect of such risks which are re-insured only ninety-five per cent of the amount which would otherwise be deductible:".
+<!-- marginal: Act 444. -->
 
-Pindaan
+insurer licensed under the Offshore Insurance Act 1990,
 
-14. Seksyen 60D Akta ibu adalah dipinda— seksyen 60D.
+there may be deducted under subsection (5) (b)
+
+(ii) or (6) (b) (ii) in respect of such risks which are re-insured only ninety-five per cent of the amount which would otherwise be deductible:".
+
+<!-- marginal: Pindaan -->
+
+14. Seksyen 60D Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 60D. -->
 
 (a) dengan menggantikan perkataan "two" dalam proviso kepada subseksyen (1) dengan perkataan "three";
 
@@ -406,7 +472,9 @@ Pindaan
 
 <!-- marginal: seksyen 60E. -->
 
-(a) dengan memasukkan, selepas sahaja subseksyen (4), subseksyen baru (4A) yang berikut:
+(a) dengan memasukkan, selepas sahaja subseksyen
+
+(4), subseksyen baru (4A) yang berikut:
 
 "(4A) The chargeable income of an approved operational headquarters company, resident in Malaysia for the basis year for a year of assessment, in relation to the source consisting of the provision of qualifying services, after deduction of the tax thereon, shall be credited to an account to be kept by that company (that account and that company being referred to as the exempt account and the relevant company respectively)."; dan
 
@@ -416,9 +484,17 @@ Pindaan
 
 <!-- page 14 -->
 
-Pindaan 16. Seksyen 95 Akta ibu adalah dipinda dengan seksyen 95 menggantikan perkataan-perkataan "five ringgit" dalam subseksyen (1) dengan perkataan-perkataan "twenty-five ringgit".
+<!-- marginal: Pindaan -->
 
-Pindaan 17. Jadual I kepada Akta ibu adalah dipinda dengan
+16. Seksyen 95 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 95 -->
+
+menggantikan perkataan-perkataan "five ringgit" dalam subseksyen (1) dengan perkataan-perkataan "twenty-five ringgit".
+
+<!-- marginal: Pindaan -->
+
+17. Jadual I kepada Akta ibu adalah dipinda dengan
 
 ## Jadual 1.
 
@@ -428,13 +504,7 @@ menggantikan kadar-kadar yang terdapat di Bahagian IV dengan yang berikut:
 
 <!-- marginal: Rate of -->
 
-<!-- marginal: income tax -->
-
-For every ringgit of the first $10,000
-
-<!-- marginal: 4 per cent -->
-
-For every ringgit of the next $10,000
+income tax For every ringgit of the first $10,000 4 per cent For every ringgit of the next $10,000
 
 <!-- marginal: 6 per cent -->
 
@@ -442,39 +512,11 @@ For every ringgit of the next $10,000
 
 <!-- marginal: 9 per cent -->
 
-For every ringgit of the next $10,000
+For every ringgit of the next $10,000 12 per cent For every ringgit of the next $10,000 15 per cent For every ringgit of the next $25,000 19 per cent For every ringgit of the next $25,000 23 per cent For every ringgit of the next $50,000 27 per cent For every ringgit of the next $100,000 30 per cent For every ringgit of the next $250,000 33 per cent For every ringgit exceeding $500,000 35 per cent".
 
-<!-- marginal: 12 per cent -->
+<!-- marginal: Pindaan -->
 
-For every ringgit of the next $10,000
-
-<!-- marginal: 15 per cent -->
-
-For every ringgit of the next $25,000
-
-<!-- marginal: 19 per cent -->
-
-For every ringgit of the next $25,000
-
-<!-- marginal: 23 per cent -->
-
-For every ringgit of the next $50,000
-
-<!-- marginal: 27 per cent -->
-
-For every ringgit of the next $100,000
-
-<!-- marginal: 30 per cent -->
-
-For every ringgit of the next $250,000
-
-<!-- marginal: 33 per cent -->
-
-For every ringgit exceeding $500,000
-
-<!-- marginal: 35 per cent". -->
-
-Pindaan 18. Jadual 3 kepada Akta ibu adalah dipinda—
+18. Jadual 3 kepada Akta ibu adalah dipinda—
 
 ## Jadual 3.
 
@@ -506,7 +548,9 @@ and the person had in use machinery or plant for the purposes of a business of h
 
 "13A. Notwithstanding paragraph 10, 11 or 1 1A no initial allowance shall be made to a person for a year of assessment in relation to an asset and a business of his referred to in paragraphs 2A, 2s, or 2c, as the case may be.".
 
-Pindaan 19. Jadual 6 kepada Akta ibu adalah dipinda—
+<!-- marginal: Pindaan -->
+
+19. Jadual 6 kepada Akta ibu adalah dipinda—
 
 ## Jadual 6.
 
@@ -524,11 +568,7 @@ Pindaan 19. Jadual 6 kepada Akta ibu adalah dipinda—
 
 (a) in respect of securities or bonds issued by the Government; or
 
-(b) in respect of bonds, other
-
-<!-- marginal: than -->
-
-convertible loan stock, issued by public companies listed on the Kuala Lumpur Stock Exchange.".
+(b) in respect of bonds, other than convertible loan stock, issued by public companies listed on the Kuala Lumpur Stock Exchange.".
 
 <!-- page 17 -->
 
@@ -630,9 +670,21 @@ banyaknya dengan sepuluh peratus daripada cukai yang kena dibayar oleh pelupus i
 
 (b) dalam subseksyen (2), dengan memotong angka "(1)" dalam perenggan (b).
 
-Pindaan 24. Seksyen 17 Akta ibu adalah dipinda dengan seksyen 17. memotong perkataan-perkataan "tertakluk kepada seksyen-kecil (2)—" dalam perenggan (c).
+<!-- marginal: Pindaan -->
 
-Pindaan 25. Seksyen 2 lB Akta ibu adalah dipinda dengan seksyen 2 l D. menggantikan perenggan (a) subseksyen (I) dengan yang berikut:
+24. Seksyen 17 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 17. -->
+
+memotong perkataan-perkataan "tertakluk kepada seksyen-kecil (2)—" dalam perenggan (c).
+
+<!-- marginal: Pindaan -->
+
+25. Seksyen 2 lB Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 2 l D. -->
+
+menggantikan perenggan (a) subseksyen (I) dengan yang berikut:
 
 "(a) Pemeroleh itu hendaklah, sehingga dia menerima perakuan kelulusan daripada Ketua Pengarah di bawah
 
@@ -640,11 +692,15 @@ Pindaan 25. Seksyen 2 lB Akta ibu adalah dipinda dengan seksyen 2 l D. mengganti
 
 memegangsimpan kesemua wang itu atau jumlah wang tidak melebihi lima peratus daripada jumlah nilai balasan itu, mengikut mana yang lebih rendah;".
 
-Pindaan 26. Jadual 2 kepada Akta ibu adalah dipinda dengan
+<!-- marginal: Pindaan -->
+
+26. Jadual 2 kepada Akta ibu adalah dipinda dengan
 
 ## Jadual 2.
 
-menggantikan perkataan-perkataan "nilai aset itu bagi maksud-maksud duti harta pesaka" dalam subperenggan (3) perenggan 19 dengan perkataan-perkataan "nilai pasaran aset itu seperti pada tarikh kematian orang yang mati itu".
+menggantikan perkataan-perkataan "nilai aset itu bagi maksud-maksud duti harta pesaka" dalam subperenggan
+
+(3) perenggan 19 dengan perkataan-perkataan "nilai pasaran aset itu seperti pada tarikh kematian orang yang mati itu".
 
 <!-- page 19 -->
 
@@ -708,29 +764,79 @@ menggantikan perenggan (a) dan (b) dengan yang berikut:
 
 <!-- page 20 -->
 
-(iii) dengan memasukkan, selepas sahaja perkataan-perkataan "sesuatu caj" dan ", caj" dalam subperenggan (iii) yang dinomborkan semula,
+(iii) dengan memasukkan, selepas sahaja perkataan-perkataan "sesuatu caj" dan ", caj" dalam subperenggan (iii) yang dinomborkan semula, perkataan- perkataan "atau premium".
 
-<!-- marginal: perkataan- -->
+<!-- marginal: Pindaan -->
 
-perkataan "atau premium".
+30. Seksyen 7 Akta ibu adalah dipinda dengan
 
-Pindaan 30. Seksyen 7 Akta ibu adalah dipinda dengan seksyen 7. menggantikan perkataan "di mana-mana" dengan perkataan-perkataan "sama ada di mana-mana tempat perniagaan profesional yang ditetapkan atau".
+<!-- marginal: seksyen 7. -->
 
-Pindaan 31. Seksyen 8 Akta ibu adalah dipinda dengan seksyen 8. menggantikan perkataan-perkataan "di mana-mana" dalam subseksyen (1) dengan perkataan-perkataan "sama ada di mana-mana tempat perniagaan profesional yang ditetapkan atau".
+menggantikan perkataan "di mana-mana" dengan perkataan-perkataan "sama ada di mana-mana tempat perniagaan profesional yang ditetapkan atau".
+
+<!-- marginal: Pindaan -->
+
+31. Seksyen 8 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 8. -->
+
+menggantikan perkataan-perkataan "di mana-mana" dalam subseksyen (1) dengan perkataan-perkataan "sama ada di mana-mana tempat perniagaan profesional yang ditetapkan atau".
 
 ## BAB VI
 
 ## PINDAAN-PINDAAN KEPADA AKTA SETEM 1949
 
-Mula ber- 32. Bab ini hendaklah disifatkan telah mula berkuat- kuatkuasa- kuasa pada Ihb Januari 1992. nya pindaan- pindaan kepada Akta Setem 1949.
+<!-- marginal: Mula ber- -->
 
-Pindaan 33. Seksyen 2 Akta Setem 1949, yang disebut uAkta seksyen 2. ibu" dalam Bab ini, adalah dipinda dengan memotong Akta 378. takrif "bank note", "bill of exchange", "bill of exchange payable on demand", "bill of lading" dan "receipt".
+32. Bab ini hendaklah disifatkan telah mula berkuat-
 
-Pemotongan 34. Akta ibu adalah dipinda dengan memotong seksyen seksyen 34. 34.
+<!-- marginal: kuatkuasa- -->
 
-Pindaan 35. Seksyen 42 Akta ibu adalah dipinda dengan seksyen 42. memotong perkataan-perkataan "bill of exchange," dalam subseksyen (1).
+kuasa pada Ihb Januari 1992.
 
-Pindaan 36. Seksyen 43 Akta ibu adalah dipinda dengan seksyen 43. memotong perkataan-perkataan ubill of ,exchange," di mana-mana jua terdapat dalam subseksyen (1), (2), (3) dan (5).
+<!-- marginal: nya pindaan- -->
+
+<!-- marginal: pindaan -->
+
+<!-- marginal: kepada Akta -->
+
+<!-- marginal: Setem 1949. -->
+
+<!-- marginal: Pindaan -->
+
+33. Seksyen 2 Akta Setem 1949, yang disebut uAkta
+
+<!-- marginal: seksyen 2. -->
+
+ibu" dalam Bab ini, adalah dipinda dengan memotong
+
+<!-- marginal: Akta 378. -->
+
+takrif "bank note", "bill of exchange", "bill of exchange payable on demand", "bill of lading" dan "receipt".
+
+<!-- marginal: Pemotongan -->
+
+34. Akta ibu adalah dipinda dengan memotong seksyen
+
+<!-- marginal: seksyen 34. -->
+
+34.
+
+<!-- marginal: Pindaan -->
+
+35. Seksyen 42 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 42. -->
+
+memotong perkataan-perkataan "bill of exchange," dalam subseksyen (1).
+
+<!-- marginal: Pindaan -->
+
+36. Seksyen 43 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 43. -->
+
+memotong perkataan-perkataan ubill of ,exchange," di mana-mana jua terdapat dalam subseksyen (1), (2), (3) dan (5).
 
 <!-- page 21 -->
 
@@ -790,17 +896,17 @@ memotong perkataan-perkataan "bill of exchange," dalam perenggan (c).
 
 <!-- page 22 -->
 
-20
+<!-- marginal: 20 -->
 
 ## RANG UNDANG-UNDANG
 
-Pindaan
+<!-- marginal: Pindaan -->
 
 43. Jadual Pertama kepada Akta ibu adalah dipinda—
 
 ## Jadual
 
-Pertama.
+<!-- marginal: Pertama. -->
 
 (a) dengan memotong butiran 17, 18, dan 19;
 
@@ -814,11 +920,13 @@ Pertama.
 
 (d) dengan memotong butiran 64.
 
-Pindaan 44. Jadual Kedua kepada Akta ibu adalah dipinda—
+<!-- marginal: Pindaan -->
+
+44. Jadual Kedua kepada Akta ibu adalah dipinda—
 
 ## Jadual
 
-Kedua.
+<!-- marginal: Kedua. -->
 
 (a) dengan memotong butiran 2 dan 3;
 
@@ -842,11 +950,15 @@ Kedua.
 
 ## AKTA KEWANGAN (DUTI HARTA PESAKA) 1980
 
-Mula ber- 45. Bab ini hendaklah disifatkan
+<!-- marginal: Mula ber- -->
 
-<!-- marginal: telah mula -->
+45. Bab ini hendaklah disifatkan telah mula
 
-kuatkuasa- berkuatkuasa pada 1hb November 1991. nya Bab ini.
+<!-- marginal: kuatkuasa- -->
+
+berkuatkuasa pada 1hb November 1991.
+
+<!-- marginal: nya Bab ini. -->
 
 <!-- page 23 -->
 
@@ -896,17 +1008,13 @@ Pesaka) 1979 dan Akta Kewangan (Duti Harta Pesaka)
 
 ## HURAIAN
 
-Rang Undang-Undang ini bertujuan meminda Akta Cukai Pendapatan 1967, Akta Cukai Pendapatan Tambahan 1967, Akta Cukai Keuntungan Harta Tanah 1976, Akta Cukai Perkhidmatan 1975 dan Akta Setem 1949, dan memansuhkan Enakmen Duti Harta Pesaka 1949, Ordinan Duti Harta Pesaka bagi Sabah, Ordinan Duti Harta Pesaka bagi Sarawak, Akta Kewangan (Duti Harta Pesaka) 1965, Akta Kewangan (Duti Harta Pesaka) 1971, Akta Kewangan (Duti Harta Pesaka) 1979 dan Akta Kewangan (Duti Harta Pesaka)
-
-1980.
+Rang Undang-Undang ini bertujuan meminda Akta Cukai Pendapatan 1967, Akta Cukai Pendapatan Tambahan 1967, Akta Cukai Keuntungan Harta Tanah 1976, Akta Cukai Perkhidmatan 1975 dan Akta Setem 1949, dan memansuhkan Enakmen Duti Harta Pesaka 1949, Ordinan Duti Harta Pesaka bagi Sabah, Ordinan Duti Harta Pesaka bagi Sarawak, Akta Kewangan (Duti Harta Pesaka) 1965, Akta Kewangan (Duti Harta Pesaka) 1971, Akta Kewangan (Duti Harta Pesaka) 1979 dan Akta Kewangan (Duti Harta Pesaka) 1980.
 
 ## Bab II—Pindaan-pindaan kepada Akta Cukai
 
 Pendapatan 1967
 
-1, Fasal 4 bertujuan memasukkan takrif "disabled person" ke dalam seksyen 18. Pindaan itu berkuatkuasa dari tahun taksiran
-
-1992.
+1, Fasal 4 bertujuan memasukkan takrif "disabled person" ke dalam seksyen 18. Pindaan itu berkuatkuasa dari tahun taksiran 1992.
 
 3. Fasal 5 (a) bertujuan memasukkan satu perenggan baru (e) ke dalam seksyen 34 untuk membenarkan potongan sepenuhnya kepada seseorang majikan ke atas perbelanjaan yang dilakukan olehnya bagi membeli apa-apa alat yang perlu untuk membantu pekerja hilang upaya dalam menjalankan fungsi dan tugasnya. Pindaan itu berkuatkuasa dari tahun taksiran 1992.
 
@@ -924,7 +1032,9 @@ Pendapatan 1967
 
 9. Fasal 14 (a) bertujuan meminda subseksyen (I) seksyen 60D untuk melanjutkan tempoh pengecualian berkaitan dengan pelupusan syer dalam syarikat usahaniaga oleh syarikat modal usahaniaga daripada dua kepada tiga tahun. Subfasal(b) bertujuan meminda subseksyen (3) seksyen 60D untuk membenarkan kerugian yang dilakukan oleh syarikat modal usahniaga kerana pelupusan syer dalam syarikat usahaniaga dan kerana pembubaran syarikat usahaniaga ditolak di bawah seksyen 43 (2) atau 44 (2). Subfasal
 
-(c) bertujuan memperuntukkan dalam proviso kepada subseksyen (4) seksyen 60D bagi perbelanjaan yang tidak diserap dalam suatu tahun taksiran dibawa ke hadapan. Pindaan itu berkuatkuasa dari tahun taksiran 1992.
+(c) bertujuan memperuntukkan dalam proviso kepada subseksyen
+
+(4) seksyen 60D bagi perbelanjaan yang tidak diserap dalam suatu tahun taksiran dibawa ke hadapan. Pindaan itu berkuatkuasa dari tahun taksiran 1992.
 
 <!-- page 25 -->
 
@@ -950,7 +1060,9 @@ Pendapatan 1967
 
 Harta Tanah 1976
 
-16. Fasal 25 bertujuan menggantikan perenggan (a) seksyen 21B (1) untuk memperuntukkan bahawa pemeroleh hendaklah memegangsimpan kesemua wang balasan atau sejumlah yang tidak melebihi lima peratus daripada jumlah nilai balasan itu, mengikut mana yang lebih rendah, sehingga dia menerima perakuan kelulusan daripada Ketua Pengarah berkenaan dengan apa-apa pelupusan yang baginya Akta terpakai. Pindaan itu disifatkan telah mula berkuatkuasa pada 1hb November 1991.
+16. Fasal 25 bertujuan menggantikan perenggan (a) seksyen 21B
+
+(1) untuk memperuntukkan bahawa pemeroleh hendaklah memegangsimpan kesemua wang balasan atau sejumlah yang tidak melebihi lima peratus daripada jumlah nilai balasan itu, mengikut mana yang lebih rendah, sehingga dia menerima perakuan kelulusan daripada Ketua Pengarah berkenaan dengan apa-apa pelupusan yang baginya Akta terpakai. Pindaan itu disifatkan telah mula berkuatkuasa pada 1hb November 1991.
 
 17. Semua pindaan lain dalam Bab ini adalah kecil atau berbangkit.
 

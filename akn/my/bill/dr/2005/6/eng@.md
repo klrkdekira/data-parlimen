@@ -4,7 +4,9 @@
 
 intituled
 
-An Act to amend the Members of Parliament (Remuneration) Act 1980.
+An Act to amend the Members of Parliament (Remuneration) Act
+
+1980.
 
 ENACTED by the Parliament of Malaysia as follows:
 

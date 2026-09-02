@@ -130,7 +130,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 8. Akta ibu dipinda dengan memasukkan selepas Jadual Ketiga Jadual yang berikut:
 
-“Jadual Keempat [Subseksyen 27a(5)]
+## “JADUAL KEEMPAT
+
+[Subseksyen 27a(5)]
 
 ## PROSIDING PANEL PELABURAN
 

@@ -114,27 +114,7 @@
 
 ## GENERAL
 
-47. Exemption
-
-48. Institution of prosecution
-
-49. Offences by body corporate
-
-50. Offences by employee or agent
-
-51. Notice for disclosure of information
-
-52. Information is privileged and confidential
-
-53. Protection of officers
-
-54. Protection of Government, etc. from liability
-
-55. Regulations
-
-56. Amendment of Schedule
-
-57. Saving and transitional
+47. Exemption 48. Institution of prosecution 49. Offences by body corporate 50. Offences by employee or agent 51. Notice for disclosure of information 52. Information is privileged and confidential 53. Protection of officers 54. Protection of Government, etc. from liability 55. Regulations 56. Amendment of Schedule 57. Saving and transitional
 
 ## SCHEDULE
 

@@ -6,9 +6,7 @@
 
 bernama
 
-Suatu Akta untuk meminda Ordinan No. 7 (Kuasa2 Perlu) Dharurat,
-
-1969.
+Suatu Akta untuk meminda Ordinan No. 7 (Kuasa2 Perlu) Dharurat, 1969.
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang benkut:
 

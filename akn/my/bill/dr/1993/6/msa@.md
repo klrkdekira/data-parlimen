@@ -22,13 +22,27 @@
 
 ## DUTI TIMBAL BALAS
 
-3. Pengenaan duti timbal balas. 4. Permulaan penyiasatan. 5. Perundingan dengan kerajaan asing yang berkepentingan. 6. Pindaan kepada petisyen. 7. Jangka masa penyiasatan. 8. Penentuan awal mengenai subsidi dan kemudaratan. 9. Langkah-langkah sementara. 10. Penentuan muktamad mengenai subsidi dan kemudaratan. 11. Penamatan penyiasatan. 12. Penggantungan penyiasatan. 13. Kajian semula pentadbiran. 14. Rayuan kepada Tribunal.
+3. Pengenaan duti timbal balas. 4. Permulaan penyiasatan. 5. Perundingan dengan kerajaan asing yang berkepentingan. 6. Pindaan kepada petisyen. 7. Jangka masa penyiasatan. 8. Penentuan awal mengenai subsidi dan kemudaratan. 9. Langkah-langkah sementara.
+
+10. Penentuan muktamad mengenai subsidi dan kemudaratan.
+
+11. Penamatan penyiasatan.
+
+12. Penggantungan penyiasatan.
+
+13. Kajian semula pentadbiran.
+
+14. Rayuan kepada Tribunal.
 
 ## BAHAGIAN III
 
 ## DUTI ANTI-LAMBAKAN
 
-15. Pengenaan duti anti-lambakan. 16. Nilai normal. 17. Harga eksport.
+15. Pengenaan duti anti-lambakan.
+
+16. Nilai normal.
+
+17. Harga eksport.
 
 <!-- page 2 -->
 
@@ -36,7 +50,31 @@
 
 ## RANG UNDANG-UNDANG
 
-Perbandingan nilai normal dan harga eksport. 18. Dagangan subjek dari negara berekonomi bukan pasaran. 19. 20. Permulaan penyiasatan. Pindaan kepada petisyen. 21. 22. Jangka masa penyiasatan. Penentuan awal mengenai lambakan dan kemudaratan. 23. 24. Langkah-langkah sementara. 25. Penentuan muktamad mengenai lambakan dan kemudaratan. 26. Penamatan penyiasatan. 27. Penggantungan penyiasatan. 28. Kajian semula pentadbiran. 29. Rayuan kepada Tribunal.
+Perbandingan nilai normal dan harga eksport.
+
+18. Dagangan subjek dari negara berekonomi bukan pasaran.
+
+19.
+
+20. Permulaan penyiasatan. Pindaan kepada petisyen.
+
+21.
+
+22. Jangka masa penyiasatan. Penentuan awal mengenai lambakan dan kemudaratan.
+
+23.
+
+24. Langkah-langkah sementara.
+
+25. Penentuan muktamad mengenai lambakan dan kemudaratan.
+
+26. Penamatan penyiasatan.
+
+27. Penggantungan penyiasatan.
+
+28. Kajian semula pentadbiran.
+
+29. Rayuan kepada Tribunal.
 
 ## BAHAGIAN
 
@@ -44,13 +82,41 @@ Perbandingan nilai normal dan harga eksport. 18. Dagangan subjek dari negara ber
 
 ## PRNTADBIRAN
 
-30. Perkara-perkara pentadbiran. Perlindungan pegawai dan orang yang bertindak di bawah 31. arahan pegawai. Penubuhan Tribunal. 32. Peraturan-peraturan berkenaan dengan kawasan yang 33. dinyatakan. 34. Pemakaian Akta Kastam 1967.
+30. Perkara-perkara pentadbiran. Perlindungan pegawai dan orang yang bertindak di bawah
+
+31. arahan pegawai. Penubuhan Tribunal.
+
+32. Peraturan-peraturan berkenaan dengan kawasan yang
+
+33. dinyatakan.
+
+34. Pemakaian Akta Kastam 1967.
 
 ## BAHAGIAN V
 
 ### AM
 
-35. Kumulasi. 36. Pernyataan palsu. 37. Langkah-langkah anti-pemintasan. 38. Notis mengenai maklumat dan peluang untuk mengemukakan keterangan. 39. Maklumat sulit daripada pihak-pihak berkepentingan. 40. Penentusahan maklumat. 41. Penggunaan fakta yang ada. 42. Amalan lain yang ditemui semasa penyiasatan. 43. Penjalanan penyiasatan jika tiada obligasi antarabangsa terpakai. 44. Pemindahan kapal. 45. Penyiaran notis.
+35. Kumulasi.
+
+36. Pernyataan palsu.
+
+37. Langkah-langkah anti-pemintasan.
+
+38. Notis mengenai maklumat dan peluang untuk mengemukakan keterangan.
+
+39. Maklumat sulit daripada pihak-pihak berkepentingan.
+
+40. Penentusahan maklumat.
+
+41. Penggunaan fakta yang ada.
+
+42. Amalan lain yang ditemui semasa penyiasatan.
+
+43. Penjalanan penyiasatan jika tiada obligasi antarabangsa terpakai.
+
+44. Pemindahan kapal.
+
+45. Penyiaran notis.
 
 <!-- page 3 -->
 
@@ -294,7 +360,13 @@ jika ia menentukan—
 
 (3) Jika negara asal dagangan subjek ialah negara berekonomi bukan pasaran, subsidi hendaklah ditentukan mengikut cara yang ditetapkan.
 
-Permulaan 4. (1) Suatu petisyen bertulis yang meminta supaya penyiasatan. suatu penyiasatan duti timbal balas dimulakan mengenai sesuatu dagangan yang diimport ke dalam Malaysia boleh dikemukakan oleh seorang pengeluar, pengeluar- pengeluar atau suatu persatuan pengeluar keluaran serupa bagi pihak industri dalam negeri yang mengeluarkan keluaran sedemikian.
+<!-- marginal: Permulaan -->
+
+4. (1) Suatu petisyen bertulis yang meminta supaya
+
+<!-- marginal: penyiasatan. -->
+
+suatu penyiasatan duti timbal balas dimulakan mengenai sesuatu dagangan yang diimport ke dalam Malaysia boleh dikemukakan oleh seorang pengeluar, pengeluar- pengeluar atau suatu persatuan pengeluar keluaran serupa bagi pihak industri dalam negeri yang mengeluarkan keluaran sedemikian.
 
 (2) Suatu petisyen hendaklah termasuk keterangan mengenai setiap elemen yang dinyatakan dalam subseksyen 3(1).
 
@@ -354,9 +426,27 @@ kepada apa-apa syarat yang difikirkan patut oleh Kerajaan.
 
 ## RANG UNDANG-UNDANG
 
-Jangka masa 7. Kerajaan hendaklah mengakhiri sesuatu penyiasatan penyiasatan duti timbal balas dalam tempoh yang ditetapkan.
+<!-- marginal: Jangka masa -->
 
-Penentuan 8. (1) Kerajaan hendaklah, dalam tempoh yang awal ditetapkan, membuat penentuan awal tentang— mengenai subsidi dan kemudaratan.
+7. Kerajaan hendaklah mengakhiri sesuatu penyiasatan
+
+<!-- marginal: penyiasatan -->
+
+duti timbal balas dalam tempoh yang ditetapkan.
+
+<!-- marginal: Penentuan -->
+
+8. (1) Kerajaan hendaklah, dalam tempoh yang
+
+<!-- marginal: awal -->
+
+ditetapkan, membuat penentuan awal tentang—
+
+<!-- marginal: mengenai -->
+
+<!-- marginal: subsidi dan -->
+
+<!-- marginal: kemudaratan. -->
 
 (a) sama ada subsidi sedang diberikan berkenaan dengan dagangan subjek; dan
 
@@ -480,9 +570,13 @@ kemudaratan material di bawah subperenggan (1)(b)(i).
 
 <!-- page 16 -->
 
-Penamatan
+<!-- marginal: Penamatan -->
 
-11. ( I) Walau apa pun mana-mana peruntukan lain Akta penyiasatan. ini, sesuatu penyiasatan boleh ditamatkan pada bila-bila masa jika—
+11. ( I) Walau apa pun mana-mana peruntukan lain Akta
+
+<!-- marginal: penyiasatan. -->
+
+ini, sesuatu penyiasatan boleh ditamatkan pada bila-bila masa jika—
 
 (a) pempetisyen menarik balik petisyen; atau
 
@@ -498,9 +592,15 @@ dengan syarat bahawa Kerajaan menentukan bahawa penamatan sedemikian adalah demi
 
 (b) menyiarkan suatu notis mengenai penamatan itu, dengan menyatakan sebab-sebab bagi penamatan itu.
 
-Peng-
+<!-- marginal: Peng- -->
 
-12. (1) Sesuatu penyiasatan boleh digantung pada bila- gantungan bila masa jika akujanji disetujuterima oleh Kerajaan. penyiasatan.
+12. (1) Sesuatu penyiasatan boleh digantung pada bila-
+
+<!-- marginal: gantungan -->
+
+bila masa jika akujanji disetujuterima oleh Kerajaan.
+
+<!-- marginal: penyiasatan. -->
 
 (2) Sebelum menyetujuterima akujanji, Kerajaan hendaklah menentukan bahawa akujanji itu—
 
@@ -548,9 +648,17 @@ Peng-
 
 (9), Kerajaan boleh mengenakan duti timbal balas bertepatan dengan seksyen 10 ke atas dagangan subjek yang diimport ke dalam Malaysia dalam tempoh sembilan puluh hari sebelum pemakaian langkah-langkah sementara di bawah subseksyen (10): Dengan syarat bahawa taksiran retroaktif sedemikian tidak terpakai bagi dagangan subjek yang diimport sebelum pencabulan itu.
 
-Kajian
+<!-- marginal: Kajian -->
 
-13. (1) Bilamasa sesuatu pihak berkepentingan yang semula berkenaan memberi maklumat kepada Kerajaan, atau pentadbiran. Kerajaan dengan selainnya mendapat maklumat, bahawa—
+13. (1) Bilamasa sesuatu pihak berkepentingan yang
+
+<!-- marginal: semula -->
+
+berkenaan memberi maklumat kepada Kerajaan, atau
+
+<!-- marginal: pentadbiran. -->
+
+Kerajaan dengan selainnya mendapat maklumat, bahawa—
 
 (a) amaun subsidi telah berubah secara substansial;
 
@@ -608,9 +716,17 @@ Tribunal terhadap—
 
 ## DUTI ANTI-LAMBAKAN
 
-Pengenaan
+<!-- marginal: Pengenaan -->
 
-15. (1) Kerajaan boleh mengenakan duti anti-lambakan duti anti- ke atas dagangan subjek yang diimport ke dalam lambakan. Malaysia jika ia menentukan—
+15. (1) Kerajaan boleh mengenakan duti anti-lambakan
+
+<!-- marginal: duti anti- -->
+
+ke atas dagangan subjek yang diimport ke dalam
+
+<!-- marginal: lambakan. -->
+
+Malaysia jika ia menentukan—
 
 (a) bahawa harga eksport dagangan subjek itu adalah kurang daripada nilai normalnya; dan
 
@@ -628,7 +744,7 @@ Pengenaan
 
 (b) jika Kerajaan menentukan bahawa suatu duti anti-lambakan yang lebih rendah adalah mcncukupi untuk menghapuskan kemudaratan yang ditentukan dalam perenggan ( 1 )( b ), bolehlah duti yang lebih rendah itu.
 
-Nilai normat
+<!-- marginal: Nilai normat -->
 
 16. ( 1) Bagi maksud Akta ini, nilai normal adalah harga boleh banding yang sebenarnya dibayar atau kena dibayar dalam perjalanan biasa perdagangan bagi dagangan boleh banding yang dijual untuk penggunaan dalam pasaran dalam negeri negara pengeksport.
 
@@ -658,17 +774,31 @@ jualan-jualan selebih itu adalah dalam kuantiti yang mencukupi; atau
 
 (6) Bagi maksud menentukan nilai normal, transaksi di kalangan pihak-pihak yang berkaitan, atau di kalangan pihak-pihak yang ternyata mempunyai perkiraan permampasan di antara satu sama lain, boleh dianggap sebagai tidak dalam perjalanan biasa perdagangan, melainkan jika Kerajaan berpuas hati bahawa harga dan kos yang terlibat boleh dibandingkan dengan harga dan kos yang terlibat dalam transaksi di kalangan pihak-pihak yang tidak berkaitan atau yang tidak mempunyai perkiraan permampasan.
 
-Harga
+<!-- marginal: Harga -->
 
-17. (1) Harga eksport adalah harga yang sebenarnya eksport. dibayar atau kena dibayar bagi dagangan subjek.
+17. (1) Harga eksport adalah harga yang sebenarnya
+
+<!-- marginal: eksport. -->
+
+dibayar atau kena dibayar bagi dagangan subjek.
 
 (2) Dalam hal di mana adalah ternyata bahawa pengeksport dan pengimport atau suatu pihak ketiga adalah berkaitan, atau bahawa ada suatu perkiraan permampasan di antara pengeksport dan pengimport atau suatu pihak ketiga, atau bahawa bagi apa-apa sebab lain harga yang sebenarnya dibayar atau kena dibayar bagi dagangan subjek tidak boleh dipercayai, harga eksport boleh dibina atas asas harga yang dengannya dagangan subjek itu mula-mula dijual semula kepada seorang pembeli bebas, atau jika dagangan subjek itu tidak dijual semula kepada seseorang pembeli bebas, atau tidak dijual semula dalam keadaan yang diimport, atas apa-apa asas munasabah.
 
 (3) Jika harga eksport dibina sebagaimana yang diperihalkan dalam subseksyen (2), segala kos yang dilakukan di antara pengimportan dan penjualan semula hendaklah diambil kira.
 
-Perbandingan
+<!-- marginal: Perbandingan -->
 
-18. (1) Harga eksport dan nilai normal hendaklah nilai normal diperiksa atas asas boleh banding untuk mengambil kira dan harga eksport. ciri-ciri fizikal yang berbeza akan dagangan itu, keadaan- keadaan penjualan yang berbeza dalam setiap pasaran dan apa-apa perbezaan lain yang menyentuh
+18. (1) Harga eksport dan nilai normal hendaklah
+
+<!-- marginal: nilai normal -->
+
+diperiksa atas asas boleh banding untuk mengambil kira
+
+<!-- marginal: dan harga -->
+
+<!-- marginal: eksport. -->
+
+ciri-ciri fizikal yang berbeza akan dagangan itu, keadaan- keadaan penjualan yang berbeza dalam setiap pasaran dan apa-apa perbezaan lain yang menyentuh
 
 <!-- page 23 -->
 
@@ -726,19 +856,45 @@ Kerajaan hendaklah menyiarkan suatu notis yang menyatakan sebab-sebab bagi penen
 
 (7) Jika Kerajaan memutuskan untuk memulakan suatu penyiasatan di bawah subseksyen (6), ia hendaklah memberitahu pihak-pihak berkepentingan yang berkenaan dan menyiarkan suatu notis permulaan penyiasatan.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-21. Suatu petisyen yang meminta suatu penyiasatan duti kepada anti-lambakan dimulakan boleh dipinda tertakluk kepada petisyen. apa-apa syarat yang difikirkan patut oleh Kerajaan.
+21. Suatu petisyen yang meminta suatu penyiasatan duti
 
-Jangka masa
+<!-- marginal: kepada -->
 
-22. Kerajaan hendaklah mengakhiri sesuatu penyiasatan penyiasatan. duti anti-lambakan dalam tempoh yang ditetapkan.
+anti-lambakan dimulakan boleh dipinda tertakluk kepada
 
-Penentuan
+<!-- marginal: petisyen. -->
 
-23. (1) Kerajaan hendaklah, dalam tempoh yang awal ditetapkan, membuat penentuan awal tentang— mengenai lambakan dan
+apa-apa syarat yang difikirkan patut oleh Kerajaan.
 
-(a) sama ada suatu margin lambakan wujud kemudaratan. berkenaan dengan dagangan subjek; dan
+<!-- marginal: Jangka masa -->
+
+22. Kerajaan hendaklah mengakhiri sesuatu penyiasatan
+
+<!-- marginal: penyiasatan. -->
+
+duti anti-lambakan dalam tempoh yang ditetapkan.
+
+<!-- marginal: Penentuan -->
+
+23. (1) Kerajaan hendaklah, dalam tempoh yang
+
+<!-- marginal: awal -->
+
+ditetapkan, membuat penentuan awal tentang—
+
+<!-- marginal: mengenai -->
+
+<!-- marginal: lambakan -->
+
+<!-- marginal: dan -->
+
+(a) sama ada suatu margin lambakan wujud
+
+<!-- marginal: kemudaratan. -->
+
+berkenaan dengan dagangan subjek; dan
 
 (b) sama ada kemudaratan didapati wujud mengikut mana-mana satu daripada cara-cara yang berikut:
 
@@ -784,11 +940,25 @@ diimport ke dalam Malaysia pada atau selepas penyiaran notis penentuan awal afir
 
 (3) Langkah-langkah sementara yang dikenakan di bawah seksyen ini tidak boleh melebihi tempoh yang ditetapkan.
 
-Penentuan
+<!-- marginal: Penentuan -->
 
-25. ( 1) Kerajaan hendaklah, dalam tempoh yang muktamad ditetapkan, membuat penentuan muktamad tentang— mengenai lambakan dan
+25. ( 1) Kerajaan hendaklah, dalam tempoh yang
 
-(a) sama ada margin lambakan wujud berkenaan kemudaratan. dengan dagangan subjek; dan
+<!-- marginal: muktamad -->
+
+ditetapkan, membuat penentuan muktamad tentang—
+
+<!-- marginal: mengenai -->
+
+<!-- marginal: lambakan -->
+
+<!-- marginal: dan -->
+
+(a) sama ada margin lambakan wujud berkenaan
+
+<!-- marginal: kemudaratan. -->
+
+dengan dagangan subjek; dan
 
 (b) sama ada kemudaratan didapati wujud mengikut mana-mana satu daripada cara-cara yang berikut:
 
@@ -820,17 +990,9 @@ Penentuan
 
 (5) Kerajaan hendaklah mengenakan d u ti anti- lambakan ke atas dagangan subjek yang terhadapnya langkah-langkah sementara terpakai jika—
 
-(a) Kerajaan membuat suatu
+(a) Kerajaan membuat suatu penentuan kemudaratan material di bawah subperenggan (l)(b)(i); atau
 
-<!-- marginal: penentuan -->
-
-kemudaratan material di bawah subperenggan (l)(b)(i); atau
-
-(b) Kerajaan membuat suatu penentuan ancaman kemudaratan material di bawah subperenggan (l)(b)(ii), ia mendapati bahawa, dalam ketiadaan langkah-langkah sementara itu, dagangan subjek itu akan menyebabkan suatu
-
-<!-- marginal: dapatan -->
-
-kemudaratan material di bawah subperenggan (l)(b)(i).
+(b) Kerajaan membuat suatu penentuan ancaman kemudaratan material di bawah subperenggan (l)(b)(ii), ia mendapati bahawa, dalam ketiadaan langkah-langkah sementara itu, dagangan subjek itu akan menyebabkan suatu dapatan kemudaratan material di bawah subperenggan (l)(b)(i).
 
 (6) Berkenaan dengan pengenaan duti anti-lambakan di bawah subperenggan (5)—
 
@@ -852,9 +1014,13 @@ dikehendaki di bawah langkah-langkah sementara, amaun penuh duti anti-lambakan i
 
 (8) Apabila duti anti-lambakan dikenakan ke atas dagangan subjek, duti anti-lambakan sedemikian hendaklah dikenakan mengikut amaun yang sesuai atas asas syarikat spesifik, jika praktik, dan atas asas tak berdiskriminasi ke atas kesemua pengimportan dagangan sedemikian ke dalam Malaysia dari negara yang didapati melambakkan dagangan subjek itu.
 
-Penamatan
+<!-- marginal: Penamatan -->
 
-26. (1) Walau apa pun mana-mana peruntukan lain Akta penyiasatan. ini, sesuatu penyiasatan boleh ditamatkan pada bila-bila masa jika—
+26. (1) Walau apa pun mana-mana peruntukan lain Akta
+
+<!-- marginal: penyiasatan. -->
+
+ini, sesuatu penyiasatan boleh ditamatkan pada bila-bila masa jika—
 
 (a) pempetisyen menarik balik petisyen; atau
 
@@ -936,7 +1102,9 @@ hendaklah terus berkuatkuasa konsisten dengan peruntukan-peruntukan Akta ini.
 
 <!-- page 31 -->
 
-(12) Dalam hal-hal yang disebut dalam subseksyen (9) Kerajaan boleh mengenakan duti anti-lambakan bertepatan dengan seksyen 25 ke atas dagangan subjek yang diimport ke dalam Malaysia dalam tempoh sembilan puluh hari sebelum pemakaian langkah-langkah sementara di bawah subseksyen (10):
+(12) Dalam hal-hal yang disebut dalam subseksyen
+
+(9) Kerajaan boleh mengenakan duti anti-lambakan bertepatan dengan seksyen 25 ke atas dagangan subjek yang diimport ke dalam Malaysia dalam tempoh sembilan puluh hari sebelum pemakaian langkah-langkah sementara di bawah subseksyen (10):
 
 Dengan syarat bahawa taksiran retroaktif sedemikian tidak terpakai bagi dagangan subjek yang diimport sebelum pencabulan itu.
 
@@ -990,9 +1158,17 @@ Dengan syarat bahawa tiada kajian semula pentadbiran boleh dijalankan melainkan 
 
 (6) Duti anti-lambakan tidak boleh dipungut atas import yang dibuat selepas lima tahun dari tarikh penyiaran notis mengenai penentuan muktamad di bawah seksyen 25, melainkan j i ka Kerajaan menentukan berasaskan pada suatu kajian semula pentadbiran bahawa adanya sebab yang baik bagi pengenaan berterusan duti sedemikian.
 
-Rayuan
+<!-- marginal: Rayuan -->
 
-29. (1) Pihak-pihak berkepentingan yang berkenaan kepada hendaklah mempunyai hak untuk merayu kepada Tribunal Tribunal terhadap—
+29. (1) Pihak-pihak berkepentingan yang berkenaan
+
+<!-- marginal: kepada -->
+
+hendaklah mempunyai hak untuk merayu kepada
+
+<!-- marginal: Tribunal -->
+
+Tribunal terhadap—
 
 (a) suatu penentuan muktamad afirmatif atau negatif di bawah seksyen 25; atau
 
@@ -1006,9 +1182,17 @@ Rayuan
 
 ## PENTADBIRAN
 
-Perkara-
+<!-- marginal: Perkara- -->
 
-30. (1) Apa-apa petisyen yang dihendaki dikemukakan perkara di bawah Bahagian II dan ITT hendaklah dikemukakan pentadbiran. kepada Menteri.
+30. (1) Apa-apa petisyen yang dihendaki dikemukakan
+
+<!-- marginal: perkara -->
+
+di bawah Bahagian II dan ITT hendaklah dikemukakan
+
+<!-- marginal: pentadbiran. -->
+
+kepada Menteri.
 
 <!-- page 33 -->
 
@@ -1072,13 +1256,49 @@ untuk melaksanakan fungsi-fungsi yang dinyatakan dalam seksyen 14 dan 28.
 
 (6) Pengerusi atau mana-mana anggota Tribunal boleh pada bila-bila masa meletakkan jawatannya dengan memberi Menteri notis bertulis.
 
-(7) Pengerusi dan anggota Tribunal hendaklah disifatkan sebagai pengkhidmat awam mengikut N M.B pengertian Kanun Keseksaan. Bab45 (8) Menteri boleh membuat apa-apa kaedah yang perlu atau suaimanfaat bagi maksud membolehkan Tribunal untuk menjalankan fungsi-fungsinya, dan pada khususnya, tanpa menjejaskan keluasan yang disebut terdahulu, kaedah-kaedah itu boleh membuat peruntukan mengenai penubuhan, pegawai dan prosiding Tribunal.
+(7) Pengerusi dan anggota Tribunal hendaklah disifatkan sebagai pengkhidmat awam mengikut
 
-Peraturan- 33. Menteri Kewangan boleh, berkenaan dengan peraturan kawasan tertentu yang dinyatakan dalam peraturan- berkenaan dengan peraturan yang dibuat di bawah seksyen ini, membuat kawasan peruntukan khas .untuk mengawalselia kawasan yang dinyatakan. dinyatakan itu bagi maksud-maksud Akta ini.
+<!-- marginal: N M.B -->
 
-Pemakaian
+pengertian Kanun Keseksaan.
 
-34. (1) Akta ini hendaklah ditafsirkan bersekali dengan Akta Kastam Akta Kastam 1967. 1967
+<!-- marginal: Bab45 -->
+
+(8) Menteri boleh membuat apa-apa kaedah yang perlu atau suaimanfaat bagi maksud membolehkan Tribunal untuk menjalankan fungsi-fungsinya, dan pada khususnya, tanpa menjejaskan keluasan yang disebut terdahulu, kaedah-kaedah itu boleh membuat peruntukan mengenai penubuhan, pegawai dan prosiding Tribunal.
+
+<!-- marginal: Peraturan- -->
+
+33. Menteri Kewangan boleh, berkenaan dengan
+
+<!-- marginal: peraturan -->
+
+kawasan tertentu yang dinyatakan dalam peraturan-
+
+<!-- marginal: berkenaan -->
+
+<!-- marginal: dengan -->
+
+peraturan yang dibuat di bawah seksyen ini, membuat
+
+<!-- marginal: kawasan -->
+
+peruntukan khas .untuk mengawalselia kawasan
+
+<!-- marginal: yang -->
+
+<!-- marginal: dinyatakan. -->
+
+dinyatakan itu bagi maksud-maksud Akta ini.
+
+<!-- marginal: Pemakaian -->
+
+34. (1) Akta ini hendaklah ditafsirkan bersekali dengan
+
+<!-- marginal: Akta Kastam -->
+
+Akta Kastam 1967.
+
+<!-- marginal: 1967 -->
 
 (2) Sekiranya berlaku apa-apa ketakkonsistenan di antara peruntukan-peruntukan Akta Kastam 1967 dan peruntukan-peruntukan Akta ini, peruntukan-peruntukan Akta ini hendaklah terpakai.
 
@@ -1188,13 +1408,25 @@ penyiasatan, hendaklah atas sebab baik yang ditunjukkan, dikira sebagai sulit ol
 
 (c) alasan yang diberikan untuk tidak memberikan ringkasan tak sulit di bawah subseksyen (6) tidak disifatkan mencukupi dan pihak yang membekalkan maklumat itu bagaimana pun masih enggan memberi ringkasan tak sulit.
 
-Penentusahan
+<!-- marginal: Penentusahan -->
 
-40. Kerajaan boleh memutuskan untuk menentusahkan maklumat. ketepatan mana-mana maklumat yang dikemukakan semasa penyiasatan atau kajian semula pentadbiran dengan menggunakan apa-apa cara munasabah untuk menjalankan penentusahan itu.
+40. Kerajaan boleh memutuskan untuk menentusahkan
 
-Penggunaan
+<!-- marginal: maklumat. -->
 
-41. Jika mana-mana pihak berkepentingan enggan fakta yang memberi akses kepada, atau selainnya tidak memberikan, ada. maklumat perlu dalam tempoh munasabah atau dengan ketaranya menghalang penyiasatan, termasuk enggan membenarkan penentusahan maklumatnya, penentuan
+ketepatan mana-mana maklumat yang dikemukakan semasa penyiasatan atau kajian semula pentadbiran dengan menggunakan apa-apa cara munasabah untuk menjalankan penentusahan itu.
+
+<!-- marginal: Penggunaan -->
+
+41. Jika mana-mana pihak berkepentingan enggan
+
+<!-- marginal: fakta yang -->
+
+memberi akses kepada, atau selainnya tidak memberikan,
+
+<!-- marginal: ada. -->
+
+maklumat perlu dalam tempoh munasabah atau dengan ketaranya menghalang penyiasatan, termasuk enggan membenarkan penentusahan maklumatnya, penentuan
 
 <!-- page 37 -->
 
@@ -1278,17 +1510,39 @@ keadaan yang sama bagi lambakan atau pensubsidian.
 
 ## RANG UNDANG-UNDANG
 
-Pelepasan
+<!-- marginal: Pelepasan -->
 
-47. Apa-apa penyiasatan yang dijalankan di bawah Akta kastam tidak ini tidak boleh menghalang prosedur untuk pelepasan boleh dihalang kastam.
+47. Apa-apa penyiasatan yang dijalankan di bawah Akta
 
-Pengkhidmat
+<!-- marginal: kastam tidak -->
 
-48. Mana-mana orang yang bertindak untuk dan bagi awam pihak atau di bawah arahan Kerajaan di bawah Akta ini hendaklah disifatkan sebagai pengkhidmat awam NM.B mengikut pengertian Kanun Keseksaan. Bah 45.
+ini tidak boleh menghalang prosedur untuk pelepasan
 
-Kewajipan
+<!-- marginal: boleh dihalang -->
 
-49. (1) Tiada seorang pun yang mempunyai akses kerahsiaan. kepada apa-apa pernyataan, akaun, rekod, persuratan, dokumen, maklumat atau apa-apa bahan lain yang didapati menurut peruntukan Akta ini boleh mendedahkan pernyataan, akaun, rekod, persuratan, dokumen, maklumat atau bahan lain itu kepada mana- mana orang lain melainkan jika—
+kastam.
+
+<!-- marginal: Pengkhidmat -->
+
+48. Mana-mana orang yang bertindak untuk dan bagi
+
+<!-- marginal: awam -->
+
+pihak atau di bawah arahan Kerajaan di bawah Akta ini hendaklah disifatkan sebagai pengkhidmat awam
+
+<!-- marginal: NM.B -->
+
+mengikut pengertian Kanun Keseksaan.
+
+<!-- marginal: Bah 45. -->
+
+<!-- marginal: Kewajipan -->
+
+49. (1) Tiada seorang pun yang mempunyai akses
+
+<!-- marginal: kerahsiaan. -->
+
+kepada apa-apa pernyataan, akaun, rekod, persuratan, dokumen, maklumat atau apa-apa bahan lain yang didapati menurut peruntukan Akta ini boleh mendedahkan pernyataan, akaun, rekod, persuratan, dokumen, maklumat atau bahan lain itu kepada mana- mana orang lain melainkan jika—
 
 (a) pendedahan itu dibenarkan oleh Menteri; atau
 
@@ -1296,9 +1550,19 @@ Kewajipan
 
 (2) Mana-mana orang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-50. (1) Menteri boleh membuat apa-apa peraturan membuat sebagaimana yang perlu atau suaimanfaat bagi memberi peraturan- peraturan. kesan penuh kepada peruntukan-peruntukan Akta ini, bagi menjalankan maksud-maksud Akta ini atau mana- mana peruntukannya, atau bagi pelaksanaan peruntukan- peruntukan Akta ini dengan lebih lanjut, baik dan mudah.
+50. (1) Menteri boleh membuat apa-apa peraturan
+
+<!-- marginal: membuat -->
+
+sebagaimana yang perlu atau suaimanfaat bagi memberi
+
+<!-- marginal: peraturan- -->
+
+<!-- marginal: peraturan. -->
+
+kesan penuh kepada peruntukan-peruntukan Akta ini, bagi menjalankan maksud-maksud Akta ini atau mana- mana peruntukannya, atau bagi pelaksanaan peruntukan- peruntukan Akta ini dengan lebih lanjut, baik dan mudah.
 
 (2) Tanpa menjejaskan keluasan subseksyen (1), peraturan-peraturan boleh dibuat—
 
@@ -1316,7 +1580,11 @@ Kuasa untuk
 
 (d) untuk memperuntukkan bagi langkah-langkah anti-permintasan;
 
-(e) untuk memperuntukkan bagi prosedur penyiasatan, kajian semula pentadbiran dan rayuan;
+(e) untuk memperuntukkan bagi
+
+<!-- marginal: prosedur -->
+
+penyiasatan, kajian semula pentadbiran dan rayuan;
 
 (/) untuk memperuntukkan bagi apa-apa fee yang dikehendaki dikenakan berkenaan dengan apa- apa perkara atau benda yang dikehendaki bagi maksud-maksud Akta ini;
 

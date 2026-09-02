@@ -56,21 +56,39 @@ III
 
 ## INDUSTRY ACT 1993
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. The Futures Industry Act 1993, which in this Chapter of section 2. is referred to as the "principal Act", is amended in section Act 499 2—
+3. The Futures Industry Act 1993, which in this Chapter
 
-(a) by deleting the definition of "commodity futures contract";
+<!-- marginal: of section 2. -->
 
-(b) by substituting for the definition of "futures fund management business" the following definition:
+is referred to as the "principal Act", is amended in section
+
+<!-- marginal: Act 499 -->
+
+<!-- marginal: 2— -->
+
+(a) by deleting the definition of "commodity futures
+
+<!-- marginal: contract"; -->
+
+(b) by substituting for the definition of "futures fund management business" the following
+
+<!-- marginal: definition: -->
 
 ' "futures fund management business", in relation to a person, means a business of offering to any person for subscription, or inviting any person to subscribe for—
 
-(a) interests to which Division 5 of Part IV of the Companies Act 1965 applies where any Act 125 of the money subscribed is intended to be applied in relation to trading in futures contracts; or
+(a) interests to which Division 5 of Part IV of the Companies Act 1965 applies where any
+
+<!-- marginal: Act 125 -->
+
+of the money subscribed is intended to be applied in relation to trading in futures contracts; or
 
 (b) interests entitling such person to participate as a beneficiary under a trust in profits or income which comprise or include profits or income arising from trading in futures contracts,
 
-but does not include an act that a person does—
+but does not include an act that a person
+
+<!-- marginal: does— -->
 
 (aa) while employed by, or acting for, or by arrangement with, another person;
 
@@ -158,9 +176,23 @@ and includes a person who is an associate of another person if that person knows
 
 (d) in relation to the rest of this Part, a person who does not hold any of the licences referred to in paragraphs (a), (b) and (c).
 
-Agreement 35B. If— about a trading in
+<!-- marginal: Agreement -->
 
-(a) an unlicensed person and a client enter breach of into an agreement relating to a trading section 16. or proposed trading in a futures contract by the unlicensed person on the client's behalf; and
+35B. If—
+
+<!-- marginal: about a -->
+
+<!-- marginal: trading in -->
+
+(a) an unlicensed person and a client enter
+
+<!-- marginal: breach of -->
+
+into an agreement relating to a trading
+
+<!-- marginal: section 16. -->
+
+or proposed trading in a futures contract by the unlicensed person on the client's behalf; and
 
 (b) the trading or proposed trading involves a contravention of section 16,
 
@@ -170,19 +202,65 @@ Consolidation)
 
 this Part applies whether or not any other person is a party to the agreement.
 
-Agreement 35c. If, during a period when an unlicensed with a person carries on a futures fund management person acting in business or holds himself out as a futures fund breach of manager, the unlicensed person and a client section 16A. enter into an agreement that relates to an offer or invitation of a kind mentioned in the definition of "futures fund management business", this Part applies whether or not any other person is a party to the agreement.
+<!-- marginal: Agreement -->
 
-Agreement 35D. If, during a period when an unlicensed with a person carries on a futures advice business or person acting in holds himself out as a futures trading adviser, breach of the unlicensed person and a client enter into section 17. an agreement that relates to the giving of advice to the client about futures contracts or to giving the client futures reports, this Part applies whether or not any other person is a party to the agreement.
+35c. If, during a period when an unlicensed
 
-Client may 35E. (1) Subject to this section, a client may, give notice whether before or after the completion of the of rescission. agreement referred to in section 35B, 35c or 35D, give to the unlicensed person a written notice stating that the client wishes to rescind the agreement.
+<!-- marginal: with a -->
+
+person carries on a futures fund management
+
+<!-- marginal: person -->
+
+<!-- marginal: acting in -->
+
+business or holds himself out as a futures fund
+
+<!-- marginal: breach of -->
+
+manager, the unlicensed person and a client
+
+<!-- marginal: section 16A. -->
+
+enter into an agreement that relates to an offer or invitation of a kind mentioned in the definition of "futures fund management business", this Part applies whether or not any other person is a party to the agreement.
+
+<!-- marginal: Agreement -->
+
+35D. If, during a period when an unlicensed
+
+<!-- marginal: with a -->
+
+person carries on a futures advice business or
+
+<!-- marginal: person -->
+
+<!-- marginal: acting in -->
+
+holds himself out as a futures trading adviser,
+
+<!-- marginal: breach of -->
+
+the unlicensed person and a client enter into
+
+<!-- marginal: section 17. -->
+
+an agreement that relates to the giving of advice to the client about futures contracts or to giving the client futures reports, this Part applies whether or not any other person is a party to the agreement.
+
+<!-- marginal: Client may -->
+
+35E. (1) Subject to this section, a client may,
+
+<!-- marginal: give notice -->
+
+whether before or after the completion of the
+
+<!-- marginal: of rescission. -->
+
+agreement referred to in section 35B, 35c or 35D, give to the unlicensed person a written notice stating that the client wishes to rescind the agreement.
 
 (2) The client may only give a notice under this section within a reasonable period after becoming aware of the facts entitling the client to give the notice.
 
-(3) The client shall not be entitled to give a notice under this section if the client engages in conduct because of which the client would, if the entitlement to give such a notice were a right to rescind the agreement
-
-<!-- marginal: for -->
-
-misrepresentation by the unlicensed person, be taken to have affirmed the agreement.
+(3) The client shall not be entitled to give a notice under this section if the client engages in conduct because of which the client would, if the entitlement to give such a notice were a right to rescind the agreement for misrepresentation by the unlicensed person, be taken to have affirmed the agreement.
 
 <!-- page 6 -->
 
@@ -200,7 +278,19 @@ as the case requires.
 
 (5) If, at a time when a futures broker's licence, futures fund manager's licence, or futures trading adviser's licence held by the unlicensed person was suspended, the unlicensed person informs the client that the licence has been suspended, the unlicensed person shall be taken for the purpose of subsection (4) to have informed the client at that time that the unlicensed person does not hold a licence as mentioned in paragraph (4)(a), (4)(b) or (4)(c).
 
-Effect of 35F. (1) A notice given under section 35E notice rescinds the agreement unless rescission of the under section 35E. agreement would prejudice a right acquired by a person (other than the unlicensed person) in good faith, for valuable consideration and without notice of the facts entitling the client to give such notice.
+<!-- marginal: Effect of -->
+
+35F. (1) A notice given under section 35E
+
+<!-- marginal: notice -->
+
+rescinds the agreement unless rescission of the
+
+<!-- marginal: under -->
+
+<!-- marginal: section 35E. -->
+
+agreement would prejudice a right acquired by a person (other than the unlicensed person) in good faith, for valuable consideration and without notice of the facts entitling the client to give such notice.
 
 (2) The non-rescission of the agreement does not affect a client's right to give a notice under section 35E.
 
@@ -208,7 +298,27 @@ Effect of 35F. (1) A notice given under section 35E notice rescinds the agreemen
 
 Consolidation)
 
-Client may 35G. (1) If the client gives a notice under section apply to 35E but the notice does not rescind the agreement court for variation because rescission of the agreement would of the prejudice a right referred to in section 35F, the agreement. client may, within a reasonable period after giving the notice, apply to a court for an order under subsection (3).
+<!-- marginal: Client may -->
+
+35G. (1) If the client gives a notice under section
+
+<!-- marginal: apply to -->
+
+35E but the notice does not rescind the agreement
+
+<!-- marginal: court for -->
+
+<!-- marginal: variation -->
+
+because rescission of the agreement would
+
+<!-- marginal: of the -->
+
+prejudice a right referred to in section 35F, the
+
+<!-- marginal: agreement. -->
+
+client may, within a reasonable period after giving the notice, apply to a court for an order under subsection (3).
 
 (2) If an application is made under subsection (1), the court may, without prejudice to any power it has otherwise than under this section, make such orders expressed to have effect until the determination of the application as it would have power to make if the notice had rescinded the agreement under section 35F and the application were for orders under section 35H.
 
@@ -224,17 +334,37 @@ Client may 35G. (1) If the client gives a notice under section apply to 35E but 
 
 <!-- page 8 -->
 
-Court may 35H. (1) Subject to subsection (2), a court may, make con- on the application of the client or the unlicensed sequential orders. person, make such orders as it would have power to make if the client had duly rescinded the agreement for misrepresentation by
+<!-- marginal: Court may -->
 
-<!-- marginal: the -->
+35H. (1) Subject to subsection (2), a court may,
 
-unlicensed person.
+<!-- marginal: make con- -->
+
+on the application of the client or the unlicensed
+
+<!-- marginal: sequential -->
+
+<!-- marginal: orders. -->
+
+person, make such orders as it would have power to make if the client had duly rescinded the agreement for misrepresentation by the unlicensed person.
 
 (2) The court is not empowered to make an order under subsection (1) if the order would prejudice a right acquired by a person (other than the unlicensed person) in good faith, for valuable consideration and without notice of the facts entitling the client to give the notice.
 
-Agreement 35I. (1) This section applies— unen- forceable
+<!-- marginal: Agreement -->
 
-(a) where— against client. (i) the client is entitled to give a notice under section 35E; and
+35I. (1) This section applies—
+
+<!-- marginal: unen- -->
+
+<!-- marginal: forceable -->
+
+(a) where—
+
+<!-- marginal: against -->
+
+<!-- marginal: client. -->
+
+(i) the client is entitled to give a notice under section 35E; and
 
 (ii) a notice so given will result under section 35F in rescission of the agreement; and
 
@@ -248,9 +378,25 @@ but does not otherwise apply.
 
 (b) to rely on the agreement, whether directly or indirectly and whether by way of defence or otherwise.
 
-Unlicensed 35J. (1) Without limiting the generality of person not section 35I, this section applies— entitled to recover
+<!-- marginal: Unlicensed -->
 
-(a) where the client is entitled to give a notice commission. under section 35E; and
+35J. (1) Without limiting the generality of
+
+<!-- marginal: person not -->
+
+section 35I, this section applies—
+
+<!-- marginal: entitled -->
+
+<!-- marginal: to -->
+
+<!-- marginal: recover -->
+
+(a) where the client is entitled to give a notice
+
+<!-- marginal: commission. -->
+
+under section 35E; and
 
 <!-- page 9 -->
 
@@ -262,21 +408,97 @@ but does not otherwise apply.
 
 (2) The unlicensed person is not entitled to recover by any means, including set-off or a claim on quantum meruit, any brokerage, commission or other fee for which the client would, apart from this section, have been liable to the unlicensed person under or in connection with the agreement.
 
-Onus of 35K. For the purposes of determining, in a establishing proceeding in a court, whether or not the non- application unlicensed person is, or was at a particular time, of entitled as mentioned in subsection 35I(2) or 35J(2), it shall be presumed, unless the contrary 35I or 35J is proved, that section 35I or 35J, as the case may be, applies, or applied at that time, as the case may be.
+<!-- marginal: Onus of -->
 
-Client 35L. (1) Without limiting the generality of may section 35H, if the client gives a notice under recover commission section 35E, the client may, even if the notice paid to does not result under section 35F in rescission unlicensed of the agreement, recover from the unlicensed person. person as a debt the amount of any brokerage, commission or other fee that the client has paid to the unlicensed person under or in connection with the agreement.
+35K. For the purposes of determining, in a
+
+<!-- marginal: establishing -->
+
+proceeding in a court, whether or not the
+
+<!-- marginal: non- -->
+
+<!-- marginal: application -->
+
+unlicensed person is, or was at a particular time,
+
+<!-- marginal: of -->
+
+entitled as mentioned in subsection 35I(2) or
+
+<!-- marginal: section -->
+
+35J(2), it shall be presumed, unless the contrary
+
+<!-- marginal: 35I or 35J -->
+
+is proved, that section 35I or 35J, as the case may be, applies, or applied at that time, as the case may be.
+
+<!-- marginal: Client -->
+
+35L. (1) Without limiting the generality of
+
+<!-- marginal: may -->
+
+section 35H, if the client gives a notice under
+
+<!-- marginal: recover -->
+
+<!-- marginal: commission -->
+
+section 35E, the client may, even if the notice
+
+<!-- marginal: paid to -->
+
+does not result under section 35F in rescission
+
+<!-- marginal: unlicensed -->
+
+of the agreement, recover from the unlicensed
+
+<!-- marginal: person. -->
+
+person as a debt the amount of any brokerage, commission or other fee that the client has paid to the unlicensed person under or in connection with the agreement.
 
 (2) The Commission may, if it considers that it is in the public interest to do so, bring an action under subsection (1) in the name of, and for the benefit of, the client.
 
-Remedies 35M. The client's rights and remedies under this under Part are additional to, and do not affect and this Part additional are not prejudicial to, any other right or remedy to other of the client.". remedies.
+<!-- marginal: Remedies -->
+
+35M. The client's rights and remedies under this
+
+<!-- marginal: under -->
+
+Part are additional to, and do not affect and
+
+<!-- marginal: this Part -->
+
+<!-- marginal: additional -->
+
+are not prejudicial to, any other right or remedy
+
+<!-- marginal: to other -->
+
+of the client.".
+
+<!-- marginal: remedies. -->
 
 <!-- page 10 -->
 
-New section
+<!-- marginal: New section -->
 
 7. Part V of the principal Act is amended by inserting
 
-48A. before section 49 the following section: " Un- 48A. (1) In this section, unless the context desirable otherwise requires— advertising.
+48A. before section 49 the following section: "
+
+<!-- marginal: Un- -->
+
+48A. (1) In this section, unless the context
+
+<!-- marginal: desirable -->
+
+otherwise requires—
+
+<!-- marginal: advertising. -->
 
 "broadcast", in relation to a statement, means to broadcast the statement by wireless transmission or television or cause it to be so broadcast;
 
@@ -304,13 +526,7 @@ Consolidation)
 
 unless the form and content of the statements have been approved by the Commission.
 
-(3) An order under subsection (2) shall not be made unless the Commission has first given the person in relation to whom it proposes to make the order an opportunity to appear at a hearing before the Commission and make submissions and give evidence
-
-<!-- marginal: to -->
-
-<!-- marginal: the -->
-
-Commission in relation to the matter.
+(3) An order under subsection (2) shall not be made unless the Commission has first given the person in relation to whom it proposes to make the order an opportunity to appear at a hearing before the Commission and make submissions and give evidence to the Commission in relation to the matter.
 
 (4) A person to whom an order under subsection (2) applies who fails to comply with the order contravenes this section.
 
@@ -342,11 +558,19 @@ in the definition of "settling" by substituting for the words
 
 <!-- marginal: 55A. -->
 
-55 the following section; " Reportable 55A. (1) The Commission may fix or vary by positions. notice in writing the size of aggregate long or
+55 the following section; "
+
+<!-- marginal: Reportable -->
+
+55A. (1) The Commission may fix or vary by
+
+<!-- marginal: positions. -->
+
+notice in writing the size of aggregate long or
 
 <!-- page 12 -->
 
-### 12
+<!-- marginal: 12 -->
 
 ### Bill
 
@@ -364,9 +588,11 @@ and in excess of which the person or the person and his associate or associates 
 
 (b) if he does not report particulars of positions assumed by him, or by him and any of his associates in the prescribed form and manner.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-10. Section 102 of the principal Act is amended— of section
+10. Section 102 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 102.
 
@@ -424,15 +650,25 @@ the Commission may direct—
 
 (c) in subsection (2), by inserting after the words "subsection (1)" the words "or any direction made under subsection (1B)".
 
-Amendment
+<!-- marginal: Amendment -->
 
-11. The English language text of subsection 105(2) of of section the principal Act is amended by substituting for the words
+11. The English language text of subsection 105(2) of
+
+<!-- marginal: of section -->
+
+the principal Act is amended by substituting for the words
 
 105. "futures brokers licence" the words "futures broker's licence".
 
-Deletion
+<!-- marginal: Deletion -->
 
-12. The principal Act is amended by deleting section of section 108. 108
+12. The principal Act is amended by deleting section
+
+<!-- marginal: of section -->
+
+108.
+
+<!-- marginal: 108 -->
 
 ## CHAPTER
 
@@ -442,7 +678,7 @@ IV
 
 ## AND SAVING AND TRANSITIONAL PROVISIONS
 
-Interpretation.
+<!-- marginal: Interpretation. -->
 
 13. In this Chapter, unless the context otherwise requires—
 
@@ -450,7 +686,11 @@ Interpretation.
 
 "commencement date", when used in a provision of this Chapter, means the date on which the provision comes into force;
 
-"Commissioner" has the same meaning as in the Act 324. Commodities Trading Act 1985;
+"Commissioner" has the same meaning as in the
+
+<!-- marginal: Act 324. -->
+
+Commodities Trading Act 1985;
 
 <!-- page 15 -->
 
@@ -528,19 +768,79 @@ Trading Commission may, on the commencement date, elect to become an employee of
 
 16 Bill
 
-Commodities
+<!-- marginal: Commodities -->
 
-17. (1) Any money contained, immediately before the Trading commencement date, in the Commodities Trading Commission Commission Fund established under subsection 13(1) of Fund. the repealed Act shall become, on the commencement date, the property of the Government and shall be paid into the Federal Consolidated Fund.
+17. (1) Any money contained, immediately before the
+
+<!-- marginal: Trading -->
+
+commencement date, in the Commodities Trading
+
+<!-- marginal: Commission -->
+
+Commission Fund established under subsection 13(1) of
+
+<!-- marginal: Fund. -->
+
+the repealed Act shall become, on the commencement date, the property of the Government and shall be paid into the Federal Consolidated Fund.
 
 (2) Any other property contained in the Commodities Trading Commission Fund immediately before the commencement date shall become, on the commencement date, the property of the Securities Commission unless the Minister declares in writing otherwise.
 
-18. Any money contained, immediately before the Futures Trading commencement date, in the Futures Trading Deposits Deposits Account established under subsection 14(1) of the repealed Account Act shall, on the commencement date, be paid to the Securities Commission and shall be deemed to have been paid under section 103 of the principal Act.
+18. Any money contained, immediately before the
 
-Trusts
+<!-- marginal: Futures -->
 
-19. Any property held, immediately before the accounts of commencement date, on trust by the Commodities Trading the Commodities Commission or the Commissioner pursuant to an order Trading under subparagraph 116(l)(iv) of the repealed Act shall Commission. become, on the commencement date, the property of the Securities Commission and shall be held on trust subject to the terms of the trust on which the property was so held by the Commodities Trading Commission or the Commissioner.
+<!-- marginal: Trading -->
 
-20. (1) If, immediately before the commencement date, Pending proceedings proceedings to which the Commodities Trading and Commission or the Commissioner was a party were existing rights. pending in any court, the Securities Commission shall, on the commencement date, be deemed to have been substituted for the Commodities Trading Commission or the Commissioner as a party to the proceedings and shall have the same rights in the proceedings as those had by the Commodities Trading Commission or
+commencement date, in the Futures Trading Deposits
+
+<!-- marginal: Deposits -->
+
+Account established under subsection 14(1) of the repealed
+
+<!-- marginal: Account -->
+
+Act shall, on the commencement date, be paid to the Securities Commission and shall be deemed to have been paid under section 103 of the principal Act.
+
+<!-- marginal: Trusts -->
+
+19. Any property held, immediately before the
+
+<!-- marginal: accounts of -->
+
+commencement date, on trust by the Commodities Trading
+
+<!-- marginal: the -->
+
+<!-- marginal: Commodities -->
+
+Commission or the Commissioner pursuant to an order
+
+<!-- marginal: Trading -->
+
+under subparagraph 116(l)(iv) of the repealed Act shall
+
+<!-- marginal: Commission. -->
+
+become, on the commencement date, the property of the Securities Commission and shall be held on trust subject to the terms of the trust on which the property was so held by the Commodities Trading Commission or the Commissioner.
+
+20. (1) If, immediately before the commencement date,
+
+<!-- marginal: Pending -->
+
+<!-- marginal: proceedings -->
+
+proceedings to which the Commodities Trading
+
+<!-- marginal: and -->
+
+Commission or the Commissioner was a party were
+
+<!-- marginal: existing -->
+
+<!-- marginal: rights. -->
+
+pending in any court, the Securities Commission shall, on the commencement date, be deemed to have been substituted for the Commodities Trading Commission or the Commissioner as a party to the proceedings and shall have the same rights in the proceedings as those had by the Commodities Trading Commission or
 
 <!-- marginal: the -->
 
@@ -564,9 +864,7 @@ existing immediately before the commencement date shall, on the commencement dat
 
 <!-- marginal: Act 388. -->
 
-affects section 30 of the Interpretation Acts 1948 and
-
-1967.
+affects section 30 of the Interpretation Acts 1948 and 1967.
 
 <!-- marginal: Existing -->
 
@@ -592,13 +890,39 @@ any additional term or condition as he thinks fit on a company that is deemed by
 
 (5) The power conferred by subsection (3) may not be exercised after two years from the commencement date.
 
-Existing
+<!-- marginal: Existing -->
 
-22. The members of the Management Board of a company Management referred to in section 21 who were elected or appointed Board under subsection 22(2) of the repealed Act and holding members of exchange office immediately before the commencement date shall company. continue to hold office for a period of one year from the commencement date as if they were the directors duly elected or appointed under section 5 of the principal Act.
+22. The members of the Management Board of a company
 
-Existing
+<!-- marginal: Management -->
 
-23. (1) If, immediately before the commencement date, clearing a company was a clearing house within the meaning of house the repealed Act, that company shall, on
+referred to in section 21 who were elected or appointed
+
+<!-- marginal: Board -->
+
+under subsection 22(2) of the repealed Act and holding
+
+<!-- marginal: members of -->
+
+<!-- marginal: exchange -->
+
+office immediately before the commencement date shall
+
+<!-- marginal: company. -->
+
+continue to hold office for a period of one year from the commencement date as if they were the directors duly elected or appointed under section 5 of the principal Act.
+
+<!-- marginal: Existing -->
+
+23. (1) If, immediately before the commencement date,
+
+<!-- marginal: clearing -->
+
+a company was a clearing house within the meaning of
+
+<!-- marginal: house -->
+
+the repealed Act, that company shall, on
 
 <!-- marginal: the -->
 
@@ -688,23 +1012,99 @@ duly given under section 8 of the principal Act and that section shall apply in 
 
 <!-- page 20 -->
 
-Existing
+<!-- marginal: Existing -->
 
-27. A direction given under subsection 27(1) of the emergency repealed Act that was in force immediately before the direction under the commencement date shall be deemed to have been repealed Act. duly given under subsection 9(1) of the principal Act and that subsection 9(1) shall apply in respect of the direction.
+27. A direction given under subsection 27(1) of the
 
-Existing
+<!-- marginal: emergency -->
 
-28. Actions taken by the Commodities Trading actions Commission under section 28 of the repealed Act shall, against exchange if they were in force immediately before
+repealed Act that was in force immediately before the
+
+<!-- marginal: direction -->
+
+<!-- marginal: under the -->
+
+commencement date shall be deemed to have been
+
+<!-- marginal: repealed Act. -->
+
+duly given under subsection 9(1) of the principal Act and that subsection 9(1) shall apply in respect of the direction.
+
+<!-- marginal: Existing -->
+
+28. Actions taken by the Commodities Trading
+
+<!-- marginal: actions -->
+
+Commission under section 28 of the repealed Act shall,
+
+<!-- marginal: against -->
+
+<!-- marginal: exchange -->
+
+if they were in force immediately before
 
 <!-- marginal: the -->
 
-company, commencement date, be deemed to have been duly taken clearing house, etc. by the Securities Commission under section 10 of the by the principal Act and that section 10 shall apply in respect Commodities of those actions. Trading Commission. Existing
+<!-- marginal: company, -->
 
-29. Where the Commodities Trading Commission has recommen- made to the Minister for the time being charged with dations by the the responsibility for primary industries a recommendation Commodities within the meaning of section 29 of the repealed Act Trading and that Minister had not, before the commencement Commission. date, acted on the recommendation, the recommendation shall be deemed to have been duly made by the Securities Commission under section 11 of the principal Act to the Minister for the time being charged with the responsibility for finance and such Minister may act on such recommendation.
+commencement date, be deemed to have been duly taken
 
-Existing
+<!-- marginal: clearing -->
 
-30. (1) If, immediately before the commencement date, registered a person was registered as a dealer under section 33 of persons. the repealed Act, the person shall, on the commencement date, be deemed to have been granted—
+<!-- marginal: house, etc. -->
+
+by the Securities Commission under section 10 of the
+
+<!-- marginal: by the -->
+
+principal Act and that section 10 shall apply in respect
+
+<!-- marginal: Commodities -->
+
+of those actions.
+
+<!-- marginal: Trading -->
+
+<!-- marginal: Commission. -->
+
+<!-- marginal: Existing -->
+
+29. Where the Commodities Trading Commission has
+
+<!-- marginal: recommen- -->
+
+made to the Minister for the time being charged with
+
+<!-- marginal: dations -->
+
+<!-- marginal: by the -->
+
+the responsibility for primary industries a recommendation
+
+<!-- marginal: Commodities -->
+
+within the meaning of section 29 of the repealed Act
+
+<!-- marginal: Trading -->
+
+and that Minister had not, before the commencement
+
+<!-- marginal: Commission. -->
+
+date, acted on the recommendation, the recommendation shall be deemed to have been duly made by the Securities Commission under section 11 of the principal Act to the Minister for the time being charged with the responsibility for finance and such Minister may act on such recommendation.
+
+<!-- marginal: Existing -->
+
+30. (1) If, immediately before the commencement date,
+
+<!-- marginal: registered -->
+
+a person was registered as a dealer under section 33 of
+
+<!-- marginal: persons. -->
+
+the repealed Act, the person shall, on the commencement date, be deemed to have been granted—
 
 (a) in the case of a corporation, a futures broker's licence; and
 
@@ -770,17 +1170,59 @@ suspension, the suspension shall continue after the commencement date—
 
 (2) The fact that the registration of the registered person was, immediately before the commencement date, under suspension shall be deemed for the purposes of section 28 of the principal Act to be an allegation that the person is no longer a fit and proper person as mentioned in paragraph 28(1)(b) of that Act.
 
-Clients'
+<!-- marginal: Clients' -->
 
-34. All money or other property contained, immediately segregated before the commencement date, in a segregated account account. established and kept by a dealer under section 53 of the repealed Act shall, on the commencement date, be deemed to have been deposited under section 52A of the principal Act.
+34. All money or other property contained, immediately
 
-Limited
+<!-- marginal: segregated -->
 
-35. (1) Sections 49 and 51 of the principal Act shall exemption not apply to a person who, on the commencement date, from duty to issue is deemed by subsection 31(1) of this Act to have been contract granted a futures broker's licence. notes and give (2) Subsection (1) shall cease to have effect six months statements. after the commencement date.
+before the commencement date, in a segregated account
 
-Auditors
+<!-- marginal: account. -->
 
-36. A person who was appointed as an auditor by the appointed Commissioner under section 59 or 60 of the repealed under the repealed Act. Act shall, if the appointment is still in force on the commencement date, be deemed to have been appointed as an auditor by the Securities Commission under section 40 of the principal Act.
+established and kept by a dealer under section 53 of the repealed Act shall, on the commencement date, be deemed to have been deposited under section 52A of the principal Act.
+
+<!-- marginal: Limited -->
+
+35. (1) Sections 49 and 51 of the principal Act shall
+
+<!-- marginal: exemption -->
+
+not apply to a person who, on the commencement date,
+
+<!-- marginal: from duty -->
+
+<!-- marginal: to issue -->
+
+is deemed by subsection 31(1) of this Act to have been
+
+<!-- marginal: contract -->
+
+granted a futures broker's licence.
+
+<!-- marginal: notes -->
+
+<!-- marginal: and give -->
+
+(2) Subsection (1) shall cease to have effect six months
+
+<!-- marginal: statements. -->
+
+after the commencement date.
+
+<!-- marginal: Auditors -->
+
+36. A person who was appointed as an auditor by the
+
+<!-- marginal: appointed -->
+
+Commissioner under section 59 or 60 of the repealed
+
+<!-- marginal: under the -->
+
+<!-- marginal: repealed Act. -->
+
+Act shall, if the appointment is still in force on the commencement date, be deemed to have been appointed as an auditor by the Securities Commission under section 40 of the principal Act.
 
 <!-- page 23 -->
 

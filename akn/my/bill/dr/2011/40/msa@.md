@@ -26,7 +26,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 2 -->
 
-(5) Where a document is delivered to the accused after the commencement of the trial, the Court shall allow the accused—
+(5) Where a document is delivered to the accused after the commencement of the trial, the Court shall allow the
+
+<!-- marginal: accused— -->
 
 (a) a reasonable time to examine the document; and
 
@@ -54,19 +56,11 @@ Where the fine— The period shall not exceed— does not exceed one month five 
 
 <!-- page 3 -->
 
-<!-- marginal: six months -->
+six months exceeding five hundred ringgit but does not exceed one thousand ringgit
 
-exceeding five hundred ringgit but does not exceed one thousand ringgit
+one year exceeding one thousand ringgit but does not exceed five thousand ringgit
 
-<!-- marginal: one year -->
-
-exceeding one thousand ringgit but does not exceed five thousand ringgit
-
-exceeds five thousand
-
-<!-- marginal: three years;”. -->
-
-ringgit
+exceeds five thousand three years;”. ringgit
 
 ### Pindaan seksyen 396
 

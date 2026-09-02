@@ -1,0 +1,229 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-38-1991",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_8"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Islamic Family Law (Federal Territory) (Amendment) Bill 1991"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Islamic Family Law (Federal Territory) (Amendment) Act 1991."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 1 of the Islamic Family Law (Federal"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Territory) Act 1984, which in this Act is referred to as the \"principal Act\", is amended by substituting for subsection (1) the following: \"(1) This Act may be cited as the Islamic Family Law (Federal Territories) Act 1984 and applies only to the Federal Territories of Kuala Lumpur and Labuan.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_3__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_3__list_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_3__list_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 2 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_3__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_3__list_1__para_a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_3__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_3__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition \"Administration Enactment\" the following: \"Administration Enactment\" means the Sel En. Administration of Muslim Law Enactment 1952 3152. of the State of Selangor—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_3__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_3__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_3__list_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_3__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_3__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in relation to the Federal Territory of Kuala Lumpur, as modified by the P.U. (A) 44174. Federal Territory (Modification of P U. (A) 390/81. Administration of Muslim Law P.U. (A) 163/88. Enactment) Orders 1974, 1981 and 1988 P U. (A) 263/88. made pursuant to section 6 (4) of the Act A206. Constitution (Amendment) (No. 2) Act 1973 and in force in the Federal Territory of Kuala Lumpur by virtue of section 6 (1) of that Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_3__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_3__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in relation to the Federal Territory of Labuan, as modified and extended by P.U. (A) 352/85. the Federal Territory of Labuan (Modification and Extension of Administration of Muslim Law Enactment) Order 1985 made pursuant to section 7 of the Constitution Act A4585. (Amendment) (No. 2) Act 1984;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_3__list_3",
+      "@type": "akn:list",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_3__list_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_3__list_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_3__list_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_3__list_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting, immediately after the definition of \"fasakh\", the following new definitions: ' \"Federal Territory\" means the Federal Territory of Kuala Lumpur or Labuan, as the case may require; \"Federal Territories\" means the Federal Territories of Kuala Lumpur and Labuan;'; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_3__list_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_3__list_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"Territory\" appearing in the definition of \"wait Raja\" the word \"Territories\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 3 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the word \"Territory\" the word \"Territories\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 52 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "inserting, immediately after the words \"Mental Disorders Ordinance 1952\" in paragraph (k) of subsection (1), the words \"in the case of the Federal Territory of Kuala Lumpur, or the Lunatics Ordinance in the case of the Federal Territory of Labuan,\", and by inserting the marginal note \"Sabah Cap. 74.\" in reference to the Lunatics Ordinance."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 53 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "inserting, immediately after the words \"Births and Deaths Registration Ordinance 1957\" in subsection (1), the words \"in the case of the Federal Territory of Kuala Lumpur, or the Registration of Births and Deaths Ordinance in the case of the Federal Territory of Labuan,\", and by inserting the marginal note \"Sabah Cap. 123.\" in reference to the Registration of Births and Deaths Ordinance."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 135 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "inserting, immediately after the words \"Federal Territory\", the words \"of Kuala Lumpur\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/38/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Parts VI, VII, sections 155, 156, 158, 159, 160 and"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "paragraph (n) of section 178 of the Administration Enactment are hereby repealed and shall, accordingly, cease to apply to the Federal Territory of Labuan."
+      }
+    }
+  ]
+}

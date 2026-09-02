@@ -44,9 +44,13 @@ amended—
 
 (2) All goods vehicle levies charged and levied under the principal Act before the commencement of this Act are hereby validated and deemed to have been lawfully charged and levied pursuant to subsection (1) of section 3 of the principal Act as amended by subsection (1) (a) of this section, as if the said subsection (1) (a) had been in force when the same were charged and levied.
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Section 4 of the principal Act is amended by of section 4. renumbering it as "4. (1)" and inserting immediately thereafter, the following new subsection (2):
+4. Section 4 of the principal Act is amended by
+
+<!-- marginal: of section 4. -->
+
+renumbering it as "4. (1)" and inserting immediately thereafter, the following new subsection (2):
 
 "(2) The Minister may, if he is satisfied that it would be just and proper to do so, in the case of any particular goods vehicle or class of goods vehicle, direct the refund of the whole or any part of the goods vehicle levy paid pursuant
 
@@ -54,9 +58,15 @@ Amendment
 
 subsection (4) of section 3 during such period as he may specify in the direction, and, in directing such refund, impose such conditions as he may deem fit".
 
-New
+<!-- marginal: New -->
 
-5. The principal Act is amended by inserting section 4A. immediately after section 4, the following new section 4A:
+5. The principal Act is amended by
+
+<!-- marginal: inserting -->
+
+<!-- marginal: section 4A. -->
+
+immediately after section 4, the following new section 4A:
 
 "Return 4A. It shall be lawful for the Director of goods General, if it is proved to his satisfaction that vehicle levy over- any money has been overpaid or erroneously paid or paid as goods vehicle levy under this Act, to erroneously order the refund of the money so overpaid or paid. erroneously paid:
 

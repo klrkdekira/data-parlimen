@@ -48,9 +48,7 @@ II
 
 <!-- page 2 -->
 
-Fa sal
-
-12. Pendaftaran amanah luar pesisir.
+Fa sal 12. Pendaftaran amanah luar pesisir.
 
 13. Pendaftaran suratcara amanah.
 
@@ -163,6 +161,8 @@ IV
 58. Pengecualian.
 
 <!-- page 4 -->
+
+<!-- marginal: Fasal -->
 
 59. Larangan ke atas pendaftaran atau penjalanan perniagaan.
 
@@ -316,9 +316,17 @@ oleh Akta ini, undang-undang yang sepatutnya bagi amanah itu atau terma-terma am
 
 (a) yang merupakan warganegara atau pemastautin tetap Malaysia; atau
 
-(b) yang telah menubuhkan suatu tempat perniagaan dan sedang beroperasi di Malaysia, selain daripada sesuatu syarikat luar pesisir atau syarikat luar pesisir asing yang diperbadankan Akta 441. atau didaftarkan di bawah Akta Syarikat Luar Pesisir 1990,
+(b) yang telah menubuhkan suatu tempat perniagaan dan sedang beroperasi di Malaysia, selain daripada sesuatu syarikat luar pesisir atau syarikat luar pesisir asing yang diperbadankan
 
-dan termasuklah seseorang yang diisytiharkan sebagai Akta 17. seorang pemastautin menurut seksyen 43 Akta Kawalan Pertukaran Wang 1953;
+<!-- marginal: Akta 441. -->
+
+atau didaftarkan di bawah Akta Syarikat Luar Pesisir 1990,
+
+dan termasuklah seseorang yang diisytiharkan sebagai
+
+<!-- marginal: Akta 17. -->
+
+seorang pemastautin menurut seksyen 43 Akta Kawalan Pertukaran Wang 1953;
 
 "pembuat amanah" ertinya seseorang yang membuat suatu amanah dan termasuklah seseorang yang mengadakan harta amanah atau membuat suatu pemberian berwasiat atas amanah atau kepada sesuatu amanah, tetapi tidak termasuk seseorang yang membuat sumbangan kepada sesuatu amanah saham;
 
@@ -360,9 +368,17 @@ didaftarkan di bawah seksyen 4 Akta Syarikat Amanah Labuan 1990 untuk menjalanka
 
 (4) Perkataan dan ungkapan yang digunakan dalam Akta ini yang merujuk kepada mana-mana undang-undang lain hendaklah, setakat yang perlu untuk memberikan kuatkuasa kepada Akta ini dan secara konsisten dengan peruntukan undang-undang yang lain itu, mempunyai erti yang sama dengan perkataan dan ungkapan dalam undang- undang yang berkaitan dengannya perkataan dan ungkapan itu digunakan dalam Akta ini.
 
-Kewujudan
+<!-- marginal: Kewujudan -->
 
-3. Sesuatu amanah wujud jika seseorang memegang atau sesuatu disifatkan memegang atau padanya terletakhak atau amanah. disifatkan terletakhak harta yang bukan kepunyaannya atas haknya sendiri dan dia di bawah suatu obligasi sebagai pemegang amanah untuk bertindak tentang harta itu—
+3. Sesuatu amanah wujud jika seseorang memegang atau
+
+<!-- marginal: sesuatu -->
+
+disifatkan memegang atau padanya terletakhak atau
+
+<!-- marginal: amanah. -->
+
+disifatkan terletakhak harta yang bukan kepunyaannya atas haknya sendiri dan dia di bawah suatu obligasi sebagai pemegang amanah untuk bertindak tentang harta itu—
 
 (a) bagi faedah mana-mana benefisiari, sama ada atau tidak ditentukan atau wujud;
 
@@ -370,9 +386,17 @@ Kewujudan
 
 (c) bagi faedah dan maksud yang disebut dalam perenggan (a) dan (b) kedua-duanya.
 
-Amanah
+<!-- marginal: Amanah -->
 
-4. (1) Sesuatu amanah hendaklah dianggap sebagai suatu khairat dan amanah bagi maksud khairat di bawah Akta ini jika amanah maksud. itu dibuat bagi mana-mana satu daripada maksud yang berikut atau lebih dan jika pemenuhan maksud atau maksud-maksud sedemikian adalah bagi faedah masyarakat atau sebahagian besar masyarakat dengan mengambil kira jenis dan sifat maksud atau maksud-maksud itu:
+4. (1) Sesuatu amanah hendaklah dianggap sebagai suatu
+
+<!-- marginal: khairat dan -->
+
+amanah bagi maksud khairat di bawah Akta ini jika amanah
+
+<!-- marginal: maksud. -->
+
+itu dibuat bagi mana-mana satu daripada maksud yang berikut atau lebih dan jika pemenuhan maksud atau maksud-maksud sedemikian adalah bagi faedah masyarakat atau sebahagian besar masyarakat dengan mengambil kira jenis dan sifat maksud atau maksud-maksud itu:
 
 (a) pengurangan atau pembasmian kemiskinan;
 
@@ -424,11 +448,39 @@ pendapatan atau modal harta itu dipegang atas amanah pemborosan atau perlindunga
 
 (1).
 
-Undang-
+<!-- marginal: Undang- -->
 
-6. (1) Tertakluk kepada peruntukan Akta ini, sesuatu undang yang amanah hendaklah ditentukan oleh undang-undang yang sepatutnya bagi ses-uatu sepatutnya bagi amanah itu dan hendaklah ditafsirkan amanah dan dan dikuatkuasakan dengan sewajarnya. kuasa untuk menukar undang-
+6. (1) Tertakluk kepada peruntukan Akta ini, sesuatu
 
-(2) Terma-terma sesuatu amanah boleh mengadakan undang yang peruntukan supaya undang-undang yang sepatutnya bagi sepatutnya amanah itu ditukarkan daripada undang-undang suatu bidang kuasa kepada undang-undang suatu bidang kuasa yang lain dan sebaliknya, tertakluk kepada peruntukan Akta ini dan kepada pengiktirafan pertukaran sedemikian oleh undang-undang yang relevan bagi bidang kuasa yang satu lagi itu, khususnya tentang kesahan amanah dan kepentingan benefisiari itu.
+<!-- marginal: undang yang -->
+
+amanah hendaklah ditentukan oleh undang-undang yang
+
+<!-- marginal: sepatutnya -->
+
+<!-- marginal: bagi ses-uatu -->
+
+sepatutnya bagi amanah itu dan hendaklah ditafsirkan
+
+<!-- marginal: amanah dan -->
+
+dan dikuatkuasakan dengan sewajarnya.
+
+<!-- marginal: kuasa untuk -->
+
+<!-- marginal: menukar -->
+
+<!-- marginal: undang- -->
+
+(2) Terma-terma sesuatu amanah boleh mengadakan
+
+<!-- marginal: undang yang -->
+
+peruntukan supaya undang-undang yang sepatutnya bagi
+
+<!-- marginal: sepatutnya -->
+
+amanah itu ditukarkan daripada undang-undang suatu bidang kuasa kepada undang-undang suatu bidang kuasa yang lain dan sebaliknya, tertakluk kepada peruntukan Akta ini dan kepada pengiktirafan pertukaran sedemikian oleh undang-undang yang relevan bagi bidang kuasa yang satu lagi itu, khususnya tentang kesahan amanah dan kepentingan benefisiari itu.
 
 (3) Sesuatu pertukaran undang-undang yang sepatutnya tidak menjejaskan kesahan di sisi undang-undang, atau menjadikan mana-mana orang bertanggungan bagi, apa- apa jua yang dibuat sebelum pertukaran itu.
 
@@ -440,9 +492,15 @@ II
 
 ## AMANAH LUAR PESISIR
 
-Kewujudan
+<!-- marginal: Kewujudan -->
 
-7. (1) Sesuatu amanah ialah suatu amanah luar pesisir amanah luar jika— pesisir.
+7. (1) Sesuatu amanah ialah suatu amanah luar pesisir
+
+<!-- marginal: amanah luar -->
+
+jika—
+
+<!-- marginal: pesisir. -->
 
 (a) pembuat amanah itu ialah orang yang berkelayakan pada masa amanah itu diwujudkan;
 
@@ -486,9 +544,17 @@ suratcara lain secara bertulis, termasuklah sesuatu akuan amanah satu pihak, tet
 
 (3) Sesuatu akuan .amanah satu pihak tidak perlu mengandungi nama pembuat amanah, tetapi dalam hal sedemikian akuan itu hendaklah mengandungi suatu pernyataan oleh syarikat amanah itu bahawa pembuat amanah itu ialah seorang berkelayakan pada tarikh akuan itu dibuat.
 
-Kesahan
+<!-- marginal: Kesahan -->
 
-9. (1) Sesuatu amanah luar pesisir, yang diwujudkan amanah luar dengan sah mengikut atau sebagaimana yang pesisir. diperuntukkan oleh Akta ini, sama ada di Labuan atau di luar negara, hendaklah diiktiraf dan boleh dikuatkuasakan mengikut terma-termanya, oleh mahkamah- mahkamah di Malaysia yang terletak di Labuan atau di mana-mana tempat lain yang ditetapkan oleh Ketua Hakim Negara Mahkamah Persekutuan walau apa pun peruntukan mana-mana undang-undang lain.
+9. (1) Sesuatu amanah luar pesisir, yang diwujudkan
+
+<!-- marginal: amanah luar -->
+
+dengan sah mengikut atau sebagaimana yang
+
+<!-- marginal: pesisir. -->
+
+diperuntukkan oleh Akta ini, sama ada di Labuan atau di luar negara, hendaklah diiktiraf dan boleh dikuatkuasakan mengikut terma-termanya, oleh mahkamah- mahkamah di Malaysia yang terletak di Labuan atau di mana-mana tempat lain yang ditetapkan oleh Ketua Hakim Negara Mahkamah Persekutuan walau apa pun peruntukan mana-mana undang-undang lain.
 
 (2) Sesuatu amanah luar pesisir tidaklah sah dan tidak boleh dikuatkuasakan di Labuan jika—
 
@@ -524,9 +590,27 @@ atau aktiviti lain yang merupakan atau akan menjadi suatu kesalahan sebagaimana 
 
 <!-- page 16 -->
 
-Tak boleh
+<!-- marginal: Tak boleh -->
 
-10. (1) Jika sesuatu amanah luar pesisir diwujudkan berkuatkuasa- dengan sah mengikut atau sebagaimana yang nya tuntutan atau diperuntukkan oleh Akta ini, Mahkamah tidak boleh penghakiman mengubahnya atau mengetepikannya atau mengiktiraf luar negeri. kesahan apa-apa tuntutan terhadap harta amanah itu menurut undang-undang suatu bidang kuasa yang lain atau perintah mahkamah daripada suatu bidang kuasa yang lain berkenaan dengan—
+10. (1) Jika sesuatu amanah luar pesisir diwujudkan
+
+<!-- marginal: berkuatkuasa- -->
+
+dengan sah mengikut atau sebagaimana yang
+
+<!-- marginal: nya tuntutan -->
+
+<!-- marginal: atau -->
+
+diperuntukkan oleh Akta ini, Mahkamah tidak boleh
+
+<!-- marginal: penghakiman -->
+
+mengubahnya atau mengetepikannya atau mengiktiraf
+
+<!-- marginal: luar negeri. -->
+
+kesahan apa-apa tuntutan terhadap harta amanah itu menurut undang-undang suatu bidang kuasa yang lain atau perintah mahkamah daripada suatu bidang kuasa yang lain berkenaan dengan—
 
 (a) akibat terhadap diri dan ketuanpunyaan daripada suatu perkahwinan atau penamatan perkahwinan;
 
@@ -538,9 +622,19 @@ Tak boleh
 
 (2) Bagi mengelakkan keraguan, adalah dengan ini diisytiharkan bahawa sekiranya ada apa-apa ketak- konsistenan antara undang-undang yang sepatutnya bagi sesuatu amanah dengan undang-undang diri pembuat amanah atau benefisiari, maka undang-undang yang sepatutnya hendaklah mengatasi undang-undang diri itu.
 
-Amanah luar
+<!-- marginal: Amanah luar -->
 
-11. (1) Jika dibuktikan tanpa keraguan munasabah, yang pesisir atau bebannya adalah terletak pada pemiutang yang menuntut, pelupusan secara fraud. bahawa sesuatu amanah luar pesisir yang diwujudkan atau didaftarkan di Labuan, atau harta yang dilupuskan kepada amanah luar pesisir itu—
+11. (1) Jika dibuktikan tanpa keraguan munasabah, yang
+
+<!-- marginal: pesisir atau -->
+
+bebannya adalah terletak pada pemiutang yang menuntut,
+
+<!-- marginal: pelupusan -->
+
+<!-- marginal: secara fraud. -->
+
+bahawa sesuatu amanah luar pesisir yang diwujudkan atau didaftarkan di Labuan, atau harta yang dilupuskan kepada amanah luar pesisir itu—
 
 (a) telah diwujudkan atau didaftarkan atau dilupuskan sedemikian oleh atau bagi pihak pembuat amanah dengan niat utama untuk memfraud pemiutang pembuat amanah itu; dan
 
@@ -690,15 +784,33 @@ yang didaftarkan di bawah subseksyen 12(4) dan hendaklah mencatatkan dalam dafta
 
 (3) Tertakluk kepada terma-terma amanah dan apa- apa perintah Mahkamah yang berlawanan dengannya, semua dokumen yang difailkan dengan atau disimpan oleh Lembaga yang berhubungan dengan amanah luar pesisir tidaklah terbuka kepada orang awam untuk diperiksa, dan Lembaga tidak boleh mendedahkan kepada mana-mana orang apa-apa dokumen sedemikian atau apa- apa maklumat yang sampai kepada pengetahuannya dalam pelaksanaan tugasnya di bawah Akta ini.
 
-Tempoh
+<!-- marginal: Tempoh -->
 
-16. Sesuatu amanah luar pesisir hendaklah, melainkan amanah luar jika dinyatakan selainnya dalam dan tertakluk kepada pesisir. terma-terma amanah itu, terus wujud selama tempoh yang tidak melebihi satu ratus tahun; tetapi ia boleh ditamatkan pada bila-bila masa mengikut peruntukan Akta ini.
+16. Sesuatu amanah luar pesisir hendaklah, melainkan
 
-Pengubahan
+<!-- marginal: amanah luar -->
 
-17. (1) Sesuatu amanah luar pesisir boleh memper- dan untukkan dengan nyata— pembatalan amanah luar
+jika dinyatakan selainnya dalam dan tertakluk kepada
 
-(a) bahawa terma-termanya boleh diubah; atau pesisir.
+<!-- marginal: pesisir. -->
+
+terma-terma amanah itu, terus wujud selama tempoh yang tidak melebihi satu ratus tahun; tetapi ia boleh ditamatkan pada bila-bila masa mengikut peruntukan Akta ini.
+
+<!-- marginal: Pengubahan -->
+
+17. (1) Sesuatu amanah luar pesisir boleh memper-
+
+<!-- marginal: dan -->
+
+untukkan dengan nyata—
+
+<!-- marginal: pembatalan -->
+
+<!-- marginal: amanah luar -->
+
+(a) bahawa terma-termanya boleh diubah; atau
+
+<!-- marginal: pesisir. -->
 
 (b) bahawa amanah itu sendiri atau kuasa yang boleh dijalankan di bawah amanah itu boleh dibatalkan, sama ada keseluruhannya atau sebahagiannya.
 
@@ -740,9 +852,17 @@ atau kepentingan di bawah amanah itu hendaklah dipegang oleh pemegang amanah seb
 
 (4) Dalam seksyen ini, "pembuat amanah" ertinya orang yang tertentu yang mengadakan harta amanah atau kepentingan di bawah amanah yang disebut dalam subseksyen (1).
 
-Penamatan
+<!-- marginal: Penamatan -->
 
-19. (1) Tanpa menjejaskan kuasa Mahkamah di bawah amanah luar subseksyen (4) dan walau apa pun terma-terma amanah pesisir. itu, jika semua benefisiari sesuatu amanah luar pesisir ada dan telah ditentukan dan tiada seorang pun daripada mereka ialah orang belum dewasa atau orang yang tak upaya di sisi undang-undang, mereka boleh menghendaki pemegang amanah supaya menamatkan amanah itu dan membahagikan harta amanah itu di kalangan mereka.
+19. (1) Tanpa menjejaskan kuasa Mahkamah di bawah
+
+<!-- marginal: amanah luar -->
+
+subseksyen (4) dan walau apa pun terma-terma amanah
+
+<!-- marginal: pesisir. -->
+
+itu, jika semua benefisiari sesuatu amanah luar pesisir ada dan telah ditentukan dan tiada seorang pun daripada mereka ialah orang belum dewasa atau orang yang tak upaya di sisi undang-undang, mereka boleh menghendaki pemegang amanah supaya menamatkan amanah itu dan membahagikan harta amanah itu di kalangan mereka.
 
 (2) Apabila amanah itu ditamatkan, pemegang amanah hendaklah membahagikan harta amanah itu kepada orang yang berhak kepadanya dalam masa yang munasabah dan mengikut terma-terma amanah itu.
 
@@ -756,9 +876,23 @@ Penamatan
 
 (c) membuat apa-apa perintah lain yang difikirkannya patut.
 
-Pendomisilan
+<!-- marginal: Pendomisilan -->
 
-20. Tertakluk kepada peruntukan Akta ini, sesuatu amanah semula yang ditubuhkan atau diwujudkan mengikut undang- amanah luar negeri ke undang mana-mana negara selain daripada Malaysia, atau Labuan. mengikut mana-mana bidang kuasa di dalam sesuatu negara
+20. Tertakluk kepada peruntukan Akta ini, sesuatu amanah
+
+<!-- marginal: semula -->
+
+yang ditubuhkan atau diwujudkan mengikut undang-
+
+<!-- marginal: amanah luar -->
+
+<!-- marginal: negeri ke -->
+
+undang mana-mana negara selain daripada Malaysia, atau
+
+<!-- marginal: Labuan. -->
+
+mengikut mana-mana bidang kuasa di dalam sesuatu negara
 
 <!-- page 25 -->
 
@@ -812,9 +946,13 @@ amanah itu juga, tetapi jika dia ialah pemegang amanah tunggal, dia tidak boleh 
 
 (c) pengenaan ke atas seseorang benefisiari suatu obligasi sebagai suatu syarat bagi mendapat faedah.
 
-Penolak-
+<!-- marginal: Penolak- -->
 
-23. (1) Seseorang benefisiari boleh menolak keseluruhan tuntutan. kepentingannya.
+23. (1) Seseorang benefisiari boleh menolak keseluruhan
+
+<!-- marginal: tuntutan. -->
+
+kepentingannya.
 
 (2) Sesuatu penolaktuntutan. yang dibuat di bawah subseksyen (1) hendaklah dibuat secara bertulis dan tak boleh batal.
 
@@ -822,9 +960,19 @@ Penolak-
 
 (4) Sesuatu penolaktuntutan yang dibuat di bawah subseksyen (3) boleh, tertakluk kepada terma-terma amanah itu, menjadi boleh batal dan ia hendaklah dijalankan mengikut cara dan dalam hal keadaan yang dinyatakan sedemikian.
 
-Kepentingan
+<!-- marginal: Kepentingan -->
 
-24. (1) Walau pun harta amanah sesuatu amanah luar benefisiari pesisir termasuk harta tak alih, kepentingan seseorang dan urusan mengenainya. benefisiari apa-apa amanah luar pesisir hendaklah terdiri daripada harta alih sahaja.
+24. (1) Walau pun harta amanah sesuatu amanah luar
+
+<!-- marginal: benefisiari -->
+
+pesisir termasuk harta tak alih, kepentingan seseorang
+
+<!-- marginal: dan urusan -->
+
+<!-- marginal: mengenainya. -->
+
+benefisiari apa-apa amanah luar pesisir hendaklah terdiri daripada harta alih sahaja.
 
 (2) Jika terma-terma amanah memperuntukkan sedemikian, seseorang benefisiari boleh, melalui suratcara bertulis, menjual, menggadaikan, memindahkan atau
 
@@ -942,9 +1090,19 @@ suatu notis bertulis tentang niatnya itu dan peletakan jawatan itu hendaklah mul
 
 (b) ia akan mengakibatkan tidak ada pemegang amanah, melainkan jika, sebelum peletakan jawatan itu mula berkuatkuasa, permohonan dibuat kepada Mahkamah bagi pelantikan seorang pemegang amanah yang baru dan seorang pemegang amanah yang baru telah dilantik.
 
-Kekosongan
+<!-- marginal: Kekosongan -->
 
-29. (1) Seseorang pemegang amanah hendaklah terhenti dalam menjadi pemegang amanah dan tempatnya sebagai sesuatu amanah. pemegang amanah hendaklah dianggap kosong apabila—
+29. (1) Seseorang pemegang amanah hendaklah terhenti
+
+<!-- marginal: dalam -->
+
+menjadi pemegang amanah dan tempatnya sebagai
+
+<!-- marginal: sesuatu -->
+
+<!-- marginal: amanah. -->
+
+pemegang amanah hendaklah dianggap kosong apabila—
 
 (a) dia dipecat sebagai pemegang amanah oleh Mahkamah;
 
@@ -956,9 +1114,17 @@ Kekosongan
 
 (2) Seseorang yang terhenti menjadi pemegang amanah di bawah seksyen ini hendaklah melakukan segala yang perlu untuk meletakhakkan harta amanah pada pemegang amanah baru atau kepada pemegang amanah yang menakat atau yang berterusan.
 
-Kewajipan
+<!-- marginal: Kewajipan -->
 
-30. (1) Seseorang pemegang amanah hendaklah, dalam pemegang melaksanakan kewajipannya dan menjalankan kuasa dan amanah budi bicaranya, bertindak dengan usaha wajar sebagaimana seorang yang berhemat akan bertindak dengan sedaya upaya dan dengan kemahiran terbaiknya dan dengan setulus-tulusnya.
+30. (1) Seseorang pemegang amanah hendaklah, dalam
+
+<!-- marginal: pemegang -->
+
+melaksanakan kewajipannya dan menjalankan kuasa dan
+
+<!-- marginal: amanah -->
+
+budi bicaranya, bertindak dengan usaha wajar sebagaimana seorang yang berhemat akan bertindak dengan sedaya upaya dan dengan kemahiran terbaiknya dan dengan setulus-tulusnya.
 
 <!-- page 31 -->
 
@@ -986,9 +1152,19 @@ tanpa kelulusan Mahkamah.
 
 (6) Seseorang pemegang amanah hendaklah menyimpan harta amanah secara berlainan dan berasingan daripada hartanya sendiri dan secara yang dapat dikenal pasti secara-berasingan daripada mana-mana harta lain yang baginya dia ialah pemegang amanah atau yang kepadanya dia berhak secara benefisial.
 
-Kewajipan
+<!-- marginal: Kewajipan -->
 
-31. (1) Tertakluk kepada subseksyen (2) dan terma- pemegang terma amanah, jika ada lebih daripada seorang pemegang amanah bersama. amanah, semua pemegang amanah itu hendaklah—
+31. (1) Tertakluk kepada subseksyen (2) dan terma-
+
+<!-- marginal: pemegang -->
+
+terma amanah, jika ada lebih daripada seorang pemegang
+
+<!-- marginal: amanah -->
+
+<!-- marginal: bersama. -->
+
+amanah, semua pemegang amanah itu hendaklah—
 
 (a) bertindak bersesama dalam melaksanakan kewajipan mereka dan menjalankan kuasa mereka; dan
 
@@ -1050,17 +1226,31 @@ pemegang amanah boleh menyediakan suatu memorandum mengenai hasrat pembuat amana
 
 (5) Tiada kewajipan atau obligasi fidusiari boleh dikenakan ke atas pemegang amanah semata-mata oleh sebab suatu surat hasrat telah diberikan kepadanya atau dia telah menyediakan suatu memorandum hasrat.
 
-Pelantikan
+<!-- marginal: Pelantikan -->
 
-35. (1) Terma-terma sesuatu amanah boleh secara nyata pelindung. membuat peruntukan bagi pelantikan seorang pelindung amanah itu yang hendaklah dirundingi oleh pemegang amanah dalam menjalankan semua kuasa atau kuasa-kuasa tertentu sebagaimana yang diperuntukkan dalam terma- terma amanah itu, tetapi jika pelindung itu tidak dapat ditemui, Mahkamah boleh atas permohonan oleh pemegang amanah mengetepikan kehendak itu.
+35. (1) Terma-terma sesuatu amanah boleh secara nyata
+
+<!-- marginal: pelindung. -->
+
+membuat peruntukan bagi pelantikan seorang pelindung amanah itu yang hendaklah dirundingi oleh pemegang amanah dalam menjalankan semua kuasa atau kuasa-kuasa tertentu sebagaimana yang diperuntukkan dalam terma- terma amanah itu, tetapi jika pelindung itu tidak dapat ditemui, Mahkamah boleh atas permohonan oleh pemegang amanah mengetepikan kehendak itu.
 
 (2) Jika terma-terma amanah itu menghendaki pemegang amanah mendapatkan persetujuan pelindung itu sebelum menjalankan sesuatu kuasa atau budi bicara, pelindung yang memberikan persetujuan sedemikian tidaklah dengan berbuat sedemikian boleh dianggap sebagai seorang pemegang amanah.
 
 (3) Melainkan jika diketepikan selainnya dengan nyata oleh terma-terma amanah itu, seseorang pelindung adalah mempunyai kuasa untuk memecat pemegang amanah atau melantik pemegang amanah yang baru atau pemegang amanah tambahan, tetapi jika pelindung itu memecat sesuatu syarikat amanah sebagai pemegang amanah, pelindung hendaklah melantik suatu syarikat amanah yang lain sebagai pemegang amanah yang baru sebagai gantinya.
 
-Pewakilan
+<!-- marginal: Pewakilan -->
 
-36. (1) Seorang pemegang amanah tidak boleh mewakil- kuasa oleh kan kuasanya melainkan jika dibenarkan berbuat demikian pemegang amanah. oleh Akta ini atau oleh terma-terma amanah itu atau oleh Mahkamah.
+36. (1) Seorang pemegang amanah tidak boleh mewakil-
+
+<!-- marginal: kuasa oleh -->
+
+kan kuasanya melainkan jika dibenarkan berbuat demikian
+
+<!-- marginal: pemegang -->
+
+<!-- marginal: amanah. -->
+
+oleh Akta ini atau oleh terma-terma amanah itu atau oleh Mahkamah.
 
 <!-- page 35 -->
 
@@ -1162,9 +1352,21 @@ pendapatan itu atau sebahagian daripada pendapatan itu.
 
 (7) Tiada bahagian harta amanah yang didahulukan, digunakan atau diuntukkan sebagaimana yang diperuntukkan dalam seksyen ini boleh melebihi bahagian anggapan, kontingen atau terletakhak bagi benefisiari itu dalam harta amanah itu.
 
-Penetapan
+<!-- marginal: Penetapan -->
 
-39. Jika terma-terma amanah memberi pemegang amanah atau atau mana-mana orang lain kuasa untuk menetapkan atau penyerahhakan menyerahhakkan semua atau mana-mana bahagian harta harta amanah. amanah atau mana-mana kepentingan dalam harta amanah itu kepada mana-mana orang atau kepada pemegang amanah bagi faedah mana-mana orang, kuasa itu hendaklah, tertakluk kepada terma-terma amanah, mempunyai kuatkuasa sama ada atau tidak orang itu merupakan benefisiari amanah itu sebelum sahaja penetapan atau penyerahhakan itu.
+39. Jika terma-terma amanah memberi pemegang amanah
+
+<!-- marginal: atau -->
+
+atau mana-mana orang lain kuasa untuk menetapkan atau
+
+<!-- marginal: penyerahhakan -->
+
+menyerahhakkan semua atau mana-mana bahagian harta
+
+<!-- marginal: harta amanah. -->
+
+amanah atau mana-mana kepentingan dalam harta amanah itu kepada mana-mana orang atau kepada pemegang amanah bagi faedah mana-mana orang, kuasa itu hendaklah, tertakluk kepada terma-terma amanah, mempunyai kuatkuasa sama ada atau tidak orang itu merupakan benefisiari amanah itu sebelum sahaja penetapan atau penyerahhakan itu.
 
 <!-- page 39 -->
 
@@ -1222,15 +1424,25 @@ oleh suatu khairat yang disebut dengan nama dalam suratcara amanah sebagai seora
 
 (a) tiap-tiap pemegang amanah dan tiap-tiap orang lain hendaklah pada setiap masa menganggap dan memperlakukan semua dokumen dan maklumat berhubungan dengan sesuatu amanah sebagai rahsia dan sulit;
 
-(b) tiada pemegang amanah atau orang lain boleh pada bila-bila masa dikehendaki untuk mengemukakan kepada atau di hadapan mana- mana mahkamah, tribunal, lembaga, jawatankuasa penyiasatan atau mana-mana pihak berkuasa yang lain atau menzahirkan kepada mana-mana pihak berkuasa itu apa-apa perkara atau benda yang sampai kepada pengetahuannya atau ada dalam miliknya kerana apa-apa sebab jua pun, jika perkara atau benda itu berhubungan dengan suatu amanah.
+(b) tiada pemegang amanah atau orang lain boleh pada bila-bila masa dikehendaki untuk mengemukakan kepada atau di hadapan mana- mana mahkamah, tribunal,
+
+<!-- marginal: lembaga, -->
+
+jawatankuasa penyiasatan atau mana-mana pihak berkuasa yang lain atau menzahirkan kepada mana-mana pihak berkuasa itu apa-apa perkara atau benda yang sampai kepada pengetahuannya atau ada dalam miliknya kerana apa-apa sebab jua pun, jika perkara atau benda itu berhubungan dengan suatu amanah.
 
 (4) Mana-mana pemegang amanah atau orang lain yang, kecuali sebagaimana yang dikehendaki, dibenarkan atau selainnya diperuntukkan oleh Akta ini, atau oleh terma-terma amanah itu atau oleh Mahkamah, pada bila- bila rnasa menyampaikan atau cuba untuk menyampaikan apa-apa perkara atau benda berhubungan dengan sesuatu amanah kepada mana-mana orang adalah melakukan suatu kesalahan.
 
 Penalti : Pemenjaraan selama lima tahun atau tiga puluh ribu ringgit atau kedua-duanya.
 
-Liabiliti
+<!-- marginal: Liabiliti -->
 
-42. (1) Tertakluk kepada peruntukan Akta ini dan terma- bagi pecah terma amanah, seseorang pemegang amanah yang amanah.
+42. (1) Tertakluk kepada peruntukan Akta ini dan terma-
+
+<!-- marginal: bagi pecah -->
+
+terma amanah, seseorang pemegang amanah yang
+
+<!-- marginal: amanah. -->
 
 <!-- page 41 -->
 
@@ -1248,13 +1460,21 @@ melakukan atau menyertai suatu pecah amanah adalah, tanpa menjejaskan mana-mana 
 
 (b) dia dengan nyata membuat bantahan, dan menjalankan apa-apa hak yang ada padanya dalam bentuk kuasa mengundi atau selainnya sebagai seorang pemegang syer atau pengarah atau pegawai lain syarikat itu, untuk cuba mencegah pecah amanah itu.
 
-(4) Seseorang pemegang amanah tidaklah bertanggungan bagi sesuatu pecah amanah yang dilakukan sebelum pelantikannya jika pecah amanah itu dilakukan oleh orang lain, tetapi pemegang amanah itu hendaklah
+(4) Seseorang pemegang amanah
+
+<!-- marginal: tidaklah -->
+
+bertanggungan bagi sesuatu pecah amanah yang dilakukan sebelum pelantikannya jika pecah amanah itu dilakukan oleh orang lain, tetapi pemegang amanah itu hendaklah
 
 <!-- page 42 -->
 
 mengambil segala langkah yang munasabah untuk meremedikan akibat-akibat atau apa-apa kerugian yang timbul daripada pecah amanah itu.
 
-(5) Seseorang pemegang amanah tidaklah bertanggungan bagi pecah amanah yang dilakukan oleh seseorang pemegang amanah bersama melainkan jika—
+(5) Seseorang pemegang amanah
+
+<!-- marginal: tidaklah -->
+
+bertanggungan bagi pecah amanah yang dilakukan oleh seseorang pemegang amanah bersama melainkan jika—
 
 (a) dia sedar atau sepatutnya sedar tentang pecah amanah itu atau niat pemegang amanah bersama itu tentang pecah amanah itu; dan
 
@@ -1310,11 +1530,45 @@ mengambil segala langkah yang munasabah untuk meremedikan akibat-akibat atau apa
 
 (iii) mana-mana pelikuidasi yang dilantik oleh Mahkamah atau oleh pemiutang.
 
-43. (1) Seseorang pemegang amanah yang bertindak bagi Pemegang amanah lebih daripada satu amanah tidaklah, tanpa fraud, disentuh bertindak oleh notis tentang apa-apa suratcara, perkara, fakta atau berkenaan dengan lebih benda yang berhubungan dengan mana-mana amanah daripada satu tertentu jika pemegang amanah itu telah memperolehi amanah notis tentangnya oleh sebab dia bertindak atau telah bertindak bagi maksud suatu amanah yang lain.
+43. (1) Seseorang pemegang amanah yang bertindak bagi
+
+<!-- marginal: Pemegang -->
+
+<!-- marginal: amanah -->
+
+lebih daripada satu amanah tidaklah, tanpa fraud, disentuh
+
+<!-- marginal: bertindak -->
+
+oleh notis tentang apa-apa suratcara, perkara, fakta atau
+
+<!-- marginal: berkenaan -->
+
+<!-- marginal: dengan lebih -->
+
+benda yang berhubungan dengan mana-mana amanah
+
+<!-- marginal: daripada satu -->
+
+tertentu jika pemegang amanah itu telah memperolehi
+
+<!-- marginal: amanah -->
+
+notis tentangnya oleh sebab dia bertindak atau telah bertindak bagi maksud suatu amanah yang lain.
 
 (2) Seseorang pemegang amanah suatu amanah hendaklah mendedahkan kepada mana-mana pemegang amanah bersama apa-apa kepentingan yang dipunyainya sebagai pemegang amanah suatu amanah yang lain jika apa-apa transaksi yang berhubungan dengan amanah yang mula-mula disebut itu hendak dibuat dengan pemegang amanah yang satu lagi.
 
-44. (1) Jika dalam mana-mana transaksi atau perkara Berurusan dengan pihak yang melibatkan suatu amanah, seseorang pemegang ketiga. amanah memaklumkan pihak ketiga bahawa.dia bertindak sebagai pemegang amanah, maka sesuatu tuntutan oleh pihak ketiga itu yang berhubungan dengannya hendaklah tianya meliputi harta amanah itu sahaja.
+44. (1) Jika dalam mana-mana transaksi atau perkara
+
+<!-- marginal: Berurusan -->
+
+<!-- marginal: dengan pihak -->
+
+yang melibatkan suatu amanah, seseorang pemegang
+
+<!-- marginal: ketiga. -->
+
+amanah memaklumkan pihak ketiga bahawa.dia bertindak sebagai pemegang amanah, maka sesuatu tuntutan oleh pihak ketiga itu yang berhubungan dengannya hendaklah tianya meliputi harta amanah itu sahaja.
 
 (2) Jika dalam apa-apa transaksi atau perkara sedemikian seseorang pemegang amanah
 
@@ -1352,9 +1606,23 @@ faedah daripada suatu pecah amanah dia hendaklah disifatkan sebagai pemegang ama
 
 <!-- page 46 -->
 
-Tanggung
+<!-- marginal: Tanggung -->
 
-46. (1) Seseorang pemegang amanah yang meletakkan rugi bagi jawatan atau dipecat atau selainnya terhenti daripada pemegang amanah menjadi pemegang amanah hendaklah dengan sewajarnya bersara. menyerahkan harta amanah dalam milik atau kawalannya kepada pemegang amanah menakat atau berterusan, atau jika tiada harta amanah itu hendaklah dibiarkan begitu sahaja sehingga dilantik pemegang atau pemegang- pemegang amanah yang baru.
+46. (1) Seseorang pemegang amanah yang meletakkan
+
+<!-- marginal: rugi bagi -->
+
+jawatan atau dipecat atau selainnya terhenti daripada
+
+<!-- marginal: pemegang -->
+
+<!-- marginal: amanah -->
+
+menjadi pemegang amanah hendaklah dengan sewajarnya
+
+<!-- marginal: bersara. -->
+
+menyerahkan harta amanah dalam milik atau kawalannya kepada pemegang amanah menakat atau berterusan, atau jika tiada harta amanah itu hendaklah dibiarkan begitu sahaja sehingga dilantik pemegang atau pemegang- pemegang amanah yang baru.
 
 (2) Pemegang amanah yang meletakkan jawatan atau dipecat atau selainnya terhenti menjadi pemegang amanah boleh, sebelum harta amanah diserahkan sebagaimana yang dikehendaki oleh subseksyen (1) membayar balik kepada dirinya sendiri atau membayar daripada amanah itu apa-apa perbelanjaan dan liabiliti yang semunasabahnya dilakukan sebelum itu olehnya berkaitan dengan amanah itu.
 
@@ -1408,17 +1676,29 @@ meluluskan apa-apa perkiraan yang mengubah atau membatalkan terma-terma sesuatu 
 
 (2) Mahkamah tidak boleh meluluskan sesuatu perkiraan bagi pihak mana-mana orang yang disebut dalam subseksyen ( 1 )( a ), 1( b ), 1( c) atau 1( d) melainkan jika ia berpuas hati bahawa pelaksanaan perkiraan itu adalah tampaknya bagi faedah orang itu.
 
-Kelulusan
+<!-- marginal: Kelulusan -->
 
-48. (1) Jika dalam pengurusan atau pentadbiran sesuatu transaksi amanah, sesuatu transaksi adalah pada pendapat Mahkamah tertentu. suaimanfaat, tetapi tidak dapat dikuatkuasakan kerana kuasa yang perlu tidak diletakhakkan pada pemegang amanah oleh terma-terma amanah atau oleh undang- undang, Mahkamah boleh, atas permohonan pemegang amanah atau benefisiari—
+48. (1) Jika dalam pengurusan atau pentadbiran sesuatu
+
+<!-- marginal: transaksi -->
+
+amanah, sesuatu transaksi adalah pada pendapat Mahkamah
+
+<!-- marginal: tertentu. -->
+
+suaimanfaat, tetapi tidak dapat dikuatkuasakan kerana kuasa yang perlu tidak diletakhakkan pada pemegang amanah oleh terma-terma amanah atau oleh undang- undang, Mahkamah boleh, atas permohonan pemegang amanah atau benefisiari—
 
 (a) memberi pemegang amanah, sama ada secara am atau dalam apa-apa hal keadaan tertentu, kuasa yang perlu, atas apa-apa terma dan tertakluk kepada apa-apa syarat jika ada, sebagaimana yang didapatinya patut; dan
 
 (b) mengarahkan cara untuk dan harta yang daripadanya apa-apa wang yang dibenarkan untuk dibelanjakan, dan kos apa-apa transaksi, hendaklah dibayar atau ditanggung.
 
-Kuasa am
+<!-- marginal: Kuasa am -->
 
-49. (1) Seseorang pemegang amanah boleh memohon Mahkamah. kepada Mahkamah bagi mendapatkan arahan berkenaan dengan cara bagaimana dia boleh atau patut bertindak berkaitan dengan apa-apa perkara yang berkenaan dengan amanah itu dan Mahkamah boleh membuat apa-apa perintah, jika ada, sebagaimana yang didapatinya patut.
+49. (1) Seseorang pemegang amanah boleh memohon
+
+<!-- marginal: Mahkamah. -->
+
+kepada Mahkamah bagi mendapatkan arahan berkenaan dengan cara bagaimana dia boleh atau patut bertindak berkaitan dengan apa-apa perkara yang berkenaan dengan amanah itu dan Mahkamah boleh membuat apa-apa perintah, jika ada, sebagaimana yang didapatinya patut.
 
 (2) Mahkamah juga boleh, jika didapatinya patut—
 
@@ -1452,23 +1732,49 @@ pemegang amanah dan apa-apa bayaran kepada mahkamah;
 
 (6) Tertakluk kepada apa-apa perintah Mahkamah, seorang pemegang amanah yang dilantik oleh Mahkamah di bawah seksyen ini hendaklah mempunyai kuasa, budi bicara dan kewajipan yang sama seolah-olah dia telah dilantik sebagai pemegang amanah sejak asal.
 
-Pernbayaran
+<!-- marginal: Pernbayaran -->
 
-50. Kos dan perbelanjaan mengenai dan yang kos bersampingan dengan sesuatu permohonan kepada Mahkamah di bawah Akta ini hendaklah dibayar daripada harta amanah atau ditanggung dan dibayar mengikut apa- apa cara lain atau oleh mana-mana orang lain sebagaimana yang diperintahkan oleh Mahkamah.
+50. Kos dan perbelanjaan mengenai dan yang
 
-Perlindungan
+<!-- marginal: kos -->
 
-51. (1) Seseorang pembeli bona fide dengan nilai bagi orang tanpa notis sebenar tentang apa-apa pecah amanah— yang berurusan dengan
+bersampingan dengan sesuatu permohonan kepada Mahkamah di bawah Akta ini hendaklah dibayar daripada harta amanah atau ditanggung dan dibayar mengikut apa- apa cara lain atau oleh mana-mana orang lain sebagaimana yang diperintahkan oleh Mahkamah.
 
-(a) boleh berurusan dengan seseorang pemegang pemegang amanah berhubungan dengan harta amanah amanah. seolah-olah pemegang amanah itu ialah pemunya benefisial harta amanah itu; dan
+<!-- marginal: Perlindungan -->
+
+51. (1) Seseorang pembeli bona fide dengan nilai
+
+<!-- marginal: bagi orang -->
+
+tanpa notis sebenar tentang apa-apa pecah amanah—
+
+<!-- marginal: yang -->
+
+<!-- marginal: berurusan -->
+
+<!-- marginal: dengan -->
+
+(a) boleh berurusan dengan seseorang pemegang
+
+<!-- marginal: pemegang -->
+
+amanah berhubungan dengan harta amanah
+
+<!-- marginal: amanah. -->
+
+seolah-olah pemegang amanah itu ialah pemunya benefisial harta amanah itu; dan
 
 (b) tidak tersentuh oleh amanah yang untuknya harta itu dipegang.
 
 (2) Tiada seorang pun yang membayar atau mendahulukan wang kepada pemegang amanah berhak untuk memastikan bahawa wang itu dikehendaki bagi maksud amanah itu, atau bahawa tidak lebih daripada apa yang diperlukan adalah diperdapatkan, atau selainnya tentang kesesuaian transaksi atau penggunaan wang itu.
 
-Had masa
+<!-- marginal: Had masa -->
 
-52. (1) Tiada tempoh had masa atau sekatan di bawah tindakan. mana-mana undang-undang boleh terpakai bagi sesuatu tindakan yang diambil terhadap seorang pemegang amanah—
+52. (1) Tiada tempoh had masa atau sekatan di bawah
+
+<!-- marginal: tindakan. -->
+
+mana-mana undang-undang boleh terpakai bagi sesuatu tindakan yang diambil terhadap seorang pemegang amanah—
 
 (a) berkenaan dengan apa-apa fraud atau pecah amanah jenayah yang pemegang amanah atau, dalam hal suatu syarikat amanah yang bertindak sebagai pemegang amanah, mana-mana pegawai atau pekerjanya menjadi suatu pihak kepadanya atau tahu tentangnya; atau
 
@@ -1584,13 +1890,17 @@ mana-mana orang terhadap Akta ini, dengan membuat suatu tawaran bertulis kepada 
 
 (3) Jika suatu kesalahan telah dikompaunkan di bawah subseksyen (1), tiada pendakwaan selepasnya boleh dimulakan berkenaan dengan apa-apa kesalahan terhadap orang yang kepadanya tawaran itu dibuat.
 
-Peraturan-
+<!-- marginal: Peraturan- -->
 
-57. (1) Menteri boleh dari semasa ke semasa membuat peraturan. peraturan yang perlu atau suaimanfaat bagi memberikan kuatkuasa yang sepenuhnya kepada peruntukan Akta ini, bagi menjalankan atau mencapai matlamat dan maksud Akta ini, atau bagi pelaksanaan lanjut, lebih baik atau lebih mudah peruntukan Akta ini.
+57. (1) Menteri boleh dari semasa ke semasa membuat
+
+<!-- marginal: peraturan. -->
+
+peraturan yang perlu atau suaimanfaat bagi memberikan kuatkuasa yang sepenuhnya kepada peruntukan Akta ini, bagi menjalankan atau mencapai matlamat dan maksud Akta ini, atau bagi pelaksanaan lanjut, lebih baik atau lebih mudah peruntukan Akta ini.
 
 (2) Tanpa menjejaskan keluasan subseksyen (1), peraturan boleh dibuat bagi menetapkan apa-apa borang, notis, fee, caj dan apa-apa jua yang dikehendaki oleh Akta ini supaya ditetapkan atau sebagaimana yang didapati perlu oleh Menteri.
 
-Pengecualian.
+<!-- marginal: Pengecualian. -->
 
 58. (1) Menteri boleh, atas kehendaknya sendiri atau menurut suatu permohonan secara bertulis yang diserahkan kepada Lembaga oleh pembuat amanah atau pemegang amanah suatu amanah luar pesisir atau suatu amanah
 
@@ -1644,15 +1954,59 @@ ini dan tiada borang ditetapkan atau tiada prosedur ditetapkan bagi maksud itu, 
 
 <!-- page 56 -->
 
-Kecualian
+<!-- marginal: Kecualian -->
 
-61. (1) Tiada apa-apa jua dalam Akta ini boleh berkenaan menyentuh kesahihan atau kesahan apa-apa amanah dengan yang ada di Labuan yang berbangkit daripada sesuatu amanah yang wujud dokumen atau pelupusan yang dilaksanakan atau sebelum Akta berkuatkuasa, atau apa-apa tindakan yang diambil atau ini mula berkuatkuasa. dibuat berhubungan dengan mana-mana amanah sedemikian sebelum Akta ini mula berkuatkuasa.
+61. (1) Tiada apa-apa jua dalam Akta ini boleh
+
+<!-- marginal: berkenaan -->
+
+menyentuh kesahihan atau kesahan apa-apa amanah
+
+<!-- marginal: dengan -->
+
+yang ada di Labuan yang berbangkit daripada sesuatu
+
+<!-- marginal: amanah yang -->
+
+<!-- marginal: wujud -->
+
+dokumen atau pelupusan yang dilaksanakan atau
+
+<!-- marginal: sebelum Akta -->
+
+berkuatkuasa, atau apa-apa tindakan yang diambil atau
+
+<!-- marginal: ini mula -->
+
+<!-- marginal: berkuatkuasa. -->
+
+dibuat berhubungan dengan mana-mana amanah sedemikian sebelum Akta ini mula berkuatkuasa.
 
 (2) Jika, sebelum Akta ini mula berkuatkuasa, suatu amanah telah ditubuhkan atau diwujudkan di Labuan, pembuat amanah, jika dia masih hidup atau wujud, atau dalam apa-apa hal lain, benefisiari dan pemegang amanah termasuk mana-mana pelindung, boleh, dalam tempoh dua belas bulan dari tarikh Akta ini mula berkuatkuasa, meminda atau mengubah amanah itu supaya ia menepati peruntukan Akta ini dan apabila pindaan atau perubahan sedemikian dibuat amanah itu hendaklah disifatkan telah diwujudkan mengikut atau sebagaimana yang diperuntukkan oleh Akta ini.
 
-Ketakpakaian
+<!-- marginal: Ketakpakaian -->
 
-62. Peruntukan-peruntukan Akta Pemegang Amanah undang- 1949, Akta Pemegang Amanah (Perbadanan) 1952 dan undang seksyen 9 Akta Presiding Kerajaan 1956 tidaklah terpakai tertentu. Akta 208 bagi amanah luar pesisir yang diwujudkan dengan sah Akta 258. atau dikuatkuasakan atau didaftarkan di bawah Akta ini. Akta 359
+62. Peruntukan-peruntukan Akta Pemegang Amanah
+
+<!-- marginal: undang- -->
+
+1949, Akta Pemegang Amanah (Perbadanan) 1952 dan
+
+<!-- marginal: undang -->
+
+seksyen 9 Akta Presiding Kerajaan 1956 tidaklah terpakai
+
+<!-- marginal: tertentu. -->
+
+<!-- marginal: Akta 208 -->
+
+bagi amanah luar pesisir yang diwujudkan dengan sah
+
+<!-- marginal: Akta 258. -->
+
+atau dikuatkuasakan atau didaftarkan di bawah Akta ini.
+
+<!-- marginal: Akta 359 -->
 
 ## HURAIAN
 

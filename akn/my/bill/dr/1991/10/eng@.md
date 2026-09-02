@@ -6,11 +6,7 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-1. Short title.
-
-2. Conferment of criminal jurisdiction.
-
-3. Validation.
+1. Short title. 2. Conferment of criminal jurisdiction. 3. Validation.
 
 <!-- page 3 -->
 
@@ -46,7 +42,15 @@ hereby conferred jurisdiction to try any offence which, under or by virtue of an
 
 which, under or by virtue of any such law, they may from time to time be empowered to deal:
 
-Provided that such jurisdiction shall not be exercised in respect of such offence which is also an offence under the F.M.S. Penal Code. Cap. 45. Validation.
+Provided that such jurisdiction shall not be exercised in respect of such offence which is also an offence under the
+
+<!-- marginal: F.M.S. -->
+
+Penal Code.
+
+<!-- marginal: Cap. 45. -->
+
+<!-- marginal: Validation. -->
 
 3. All offences which before the commencement of this Act had been tried by any of the native courts aforesaid shall, except where it has been otherwise judicially declared, be deemed to have been validly tried as if jurisdiction in respect thereof had been conferred on those courts by federal law.
 

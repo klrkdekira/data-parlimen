@@ -88,7 +88,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (b) by inserting after Part E the following part:
 
-“Part f
+## “PART F
 
 1. The rate of contributions specified in this Part shall apply to employees who are not Malaysian citizens—
 
@@ -96,9 +96,13 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ## OF WAGES FOR THE MONTH
 
-By the Employer By the Employee
+By the Employer
 
-2% of the amount of wages 2% of the amount of wages for the month for the month
+<!-- marginal: By the Employee -->
+
+2% of the amount of wages 2% of the amount of wages for the month
+
+<!-- marginal: for the month -->
 
 2. The total contribution which includes cents shall be rounded to the next ringgit.
 

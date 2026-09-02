@@ -10,7 +10,7 @@ Suatu Akta untuk meminda Kanun Tatacara Jenayah dan Akta Kanun Tatacara Jenayah 
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -20,7 +20,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (2) Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta dan Menteri boleh menetapkan tarikh yang berlainan bagi permulaan kuat kuasa peruntukan yang berlainan Akta ini.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PINDAAN KEPADA KANUN TATACARA JENAYAH
 
@@ -196,7 +196,7 @@ be sold by public auction or in such manner as may be practicable if—
 
 15. Kanun dipinda dengan memasukkan selepas Bab XLI Bab yang berikut:
 
-“Chapter XLia
+## “CHAPTER XLIA
 
 ## PROVISIONS RELATING TO ORGANIZED CRIME
 
@@ -252,7 +252,9 @@ be sold by public auction or in such manner as may be practicable if—
 
 (iv) which is wholly or partly derived or obtained from or by means of any property referred to in paragraph (ii) or (iii);
 
-(v) which is wholly or partly traceable or attributable to any property referred to in paragraph (ii), (iii) or (iv), or to any income, earnings or assets of any such property;
+(v) which is wholly or partly traceable or attributable to any property referred to in paragraph (ii),
+
+(iii) or (iv), or to any income, earnings or assets of any such property;
 
 (vi) which is or was used to assist or facilitate the commission of any offence by any member of an organized criminal group; or
 
@@ -642,6 +644,8 @@ Code police may a bailable compoundable
 
 <!-- marginal: punishment -->
 
+<!-- marginal: Section -->
+
 ordinarily warrant or or not or not
 
 <!-- marginal: under the -->
@@ -682,7 +686,7 @@ parliamentary
 
 <!-- marginal: fifteen years -->
 
-democracy 124d Printing, do. do. do. do.
+democracy 124D Printing, do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -698,7 +702,7 @@ publication
 
 <!-- marginal: fifteen years -->
 
-detrimental to parliamentary democracy 124e Possession of do. do. do. do.
+detrimental to parliamentary democracy 124E Possession of do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -714,7 +718,7 @@ detrimental to
 
 <!-- marginal: years -->
 
-parliamentary democracy 124f Importation of do. do. do. do.
+parliamentary democracy 124F Importation of do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -730,7 +734,7 @@ detrimental to
 
 <!-- marginal: years -->
 
-parliamentary democracy 124g Posting of do. do. do. do.
+parliamentary democracy 124G Posting of do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -763,6 +767,8 @@ Penal Offence Whether the Whether Whether Whether
 Code police may a bailable compoundable
 
 <!-- marginal: punishment -->
+
+<!-- marginal: Section -->
 
 ordinarily warrant or or not or not
 
@@ -800,7 +806,7 @@ detrimental to
 
 <!-- marginal: years -->
 
-parliamentary democracy 124k Sabotage do. do. do. do.
+parliamentary democracy 124K Sabotage do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -840,9 +846,7 @@ espionage
 
 (b) dengan memasukkan selepas butiran yang berhubungan dengan seksyen 130f Kanun Keseksaan, butiran yang berikut di bawah ruang masing-masing:
 
-1 2 3 4 5
-
-<!-- marginal: 6 -->
+1 2 3 4 5 6
 
 <!-- marginal: 7 -->
 
@@ -854,6 +858,8 @@ Code police may a bailable compoundable
 
 <!-- marginal: punishment -->
 
+<!-- marginal: Section -->
+
 ordinarily warrant or or not or not
 
 <!-- marginal: under the -->
@@ -862,7 +868,11 @@ arrest a summons
 
 <!-- marginal: Penal Code -->
 
-without shall warrant or ordinarily not issue in the first instance “130fa Receiving do. do. do. do.
+without shall warrant or ordinarily not issue in the first instance
+
+<!-- marginal: “130FA -->
+
+Receiving do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -886,6 +896,8 @@ Code police may a bailable compoundable
 
 <!-- marginal: punishment -->
 
+<!-- marginal: Section -->
+
 ordinarily warrant or or not or not
 
 <!-- marginal: under the -->
@@ -894,7 +906,11 @@ arrest a summons
 
 <!-- marginal: Penal Code -->
 
-without shall warrant or ordinarily not issue in the first instance 130fB Attendance do. do. do. do.
+without shall warrant or ordinarily not issue in the first instance
+
+<!-- marginal: 130FB -->
+
+Attendance do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -922,6 +938,8 @@ Code police may a bailable compoundable
 
 <!-- marginal: punishment -->
 
+<!-- marginal: Section -->
+
 ordinarily warrant or or not or not
 
 <!-- marginal: under the -->
@@ -930,7 +948,11 @@ arrest a summons
 
 <!-- marginal: Penal Code -->
 
-without shall warrant or ordinarily not issue in the first instance “130ja Travelling to, do. do. do. do.
+without shall warrant or ordinarily not issue in the first instance
+
+<!-- marginal: “130JA -->
+
+Travelling to, do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -942,7 +964,11 @@ from Malaysia
 
 <!-- marginal: and fine -->
 
-for the commission of terrorist acts in foreign country 130jB Possession, do. do. do. do.
+for the commission of terrorist acts in foreign country
+
+<!-- marginal: 130JB -->
+
+Possession, do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -964,7 +990,9 @@ or terrorist acts
 
 <!-- marginal: property -->
 
-130jC Offence to do. do. do. do.
+<!-- marginal: 130JC -->
+
+Offence to do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -984,7 +1012,9 @@ acts
 
 <!-- marginal: of conveyance -->
 
-130jd Preparation of do. do. do. do.
+<!-- marginal: 130JD -->
+
+Preparation of do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -1000,19 +1030,25 @@ terrorist acts
 
 (d) dengan memasukkan selepas butiran yang berhubungan dengan seksyen 130k Kanun Keseksaan, butiran yang berikut di bawah ruang masing-masing:
 
-1 2 3 4 5
+<!-- marginal: 1 -->
 
-<!-- marginal: 6 -->
+2 3 4 5 6
 
 <!-- marginal: 7 -->
 
-Penal Offence Whether the Whether Whether Whether
+<!-- marginal: Penal -->
+
+Offence Whether the Whether Whether Whether
 
 <!-- marginal: Maximum -->
 
-Code police may a bailable compoundable
+<!-- marginal: Code -->
+
+police may a bailable compoundable
 
 <!-- marginal: punishment -->
+
+<!-- marginal: Section -->
 
 ordinarily warrant or or not or not
 
@@ -1042,19 +1078,25 @@ terrorist group
 
 (e) dengan memasukkan selepas butiran yang berhubungan dengan seksyen 130q Kanun Keseksaan, butiran yang berikut di bawah ruang masing-masing:
 
-1 2 3 4 5
+<!-- marginal: 1 -->
 
-<!-- marginal: 6 -->
+2 3 4 5 6
 
 <!-- marginal: 7 -->
 
-Penal Offence Whether the Whether Whether Whether
+<!-- marginal: Penal -->
+
+Offence Whether the Whether Whether Whether
 
 <!-- marginal: Maximum -->
 
-Code police may a bailable compoundable
+<!-- marginal: Code -->
+
+police may a bailable compoundable
 
 <!-- marginal: punishment -->
+
+<!-- marginal: Section -->
 
 ordinarily warrant or or not or not
 
@@ -1066,7 +1108,9 @@ arrest a summons
 
 without shall warrant or ordinarily not issue in the first instance
 
-“130qa Accepting do. do. do. do.
+<!-- marginal: “130QA -->
+
+Accepting do. do. do. do.
 
 <!-- marginal: If the act -->
 
@@ -1104,13 +1148,19 @@ terrorist acts
 
 <!-- page 36 -->
 
-Penal Offence Whether the Whether Whether Whether
+<!-- marginal: Penal -->
+
+Offence Whether the Whether Whether Whether
 
 <!-- marginal: Maximum -->
 
-Code police may a bailable compoundable
+<!-- marginal: Code -->
+
+police may a bailable compoundable
 
 <!-- marginal: punishment -->
+
+<!-- marginal: Section -->
 
 ordinarily warrant or or not or not
 
@@ -1124,25 +1174,193 @@ without shall warrant or ordinarily not issue in the first instance
 
 “Chapter ViB – ORGANIZED CRIME
 
-130V Member of May Warrant Not Not Imprisonment an organized arrest bailable compoundable for not less criminal without than five years group warrant and not more than twenty years 130w Assisting in do. do. do. do. Imprisonment an organized which may criminal extend to ten group years 130X Harbouring do. do. do. do. Imprisonment a member of which may an organized extend to five criminal years, and fine group 130y Consorting do. do. do. do. Imprisonment with an for not less organized than five years criminal and not more group than twenty years 130z Recruiting do. do. do. do. Imprisonment persons to be which may members of extend to ten an organized years, and fine criminal group 130za Participation do. do. do. do. Imprisonment in an which may organized extend to ten criminal years, and fine group 130zB Accepting do. do. do. do. If the act gratification results in to facilitate death, with or enable death, in organized any other criminal case, with activity imprisonment not less than seven years but not exceeding thirty years, and fine”;
+<!-- marginal: 130V -->
+
+Member of May Warrant Not Not
+
+<!-- marginal: Imprisonment -->
+
+an organized arrest bailable compoundable
+
+<!-- marginal: for not less -->
+
+criminal without
+
+<!-- marginal: than five years -->
+
+group warrant
+
+<!-- marginal: and not more -->
+
+<!-- marginal: than twenty -->
+
+<!-- marginal: years -->
+
+<!-- marginal: 130W -->
+
+Assisting in do. do. do. do.
+
+<!-- marginal: Imprisonment -->
+
+an organized
+
+<!-- marginal: which may -->
+
+criminal
+
+<!-- marginal: extend to ten -->
+
+group
+
+<!-- marginal: years -->
+
+<!-- marginal: 130X -->
+
+Harbouring do. do. do. do.
+
+<!-- marginal: Imprisonment -->
+
+a member of
+
+<!-- marginal: which may -->
+
+an organized
+
+<!-- marginal: extend to five -->
+
+criminal
+
+<!-- marginal: years, and fine -->
+
+group
+
+<!-- marginal: 130Y -->
+
+Consorting do. do. do. do.
+
+<!-- marginal: Imprisonment -->
+
+with an
+
+<!-- marginal: for not less -->
+
+organized
+
+<!-- marginal: than five years -->
+
+criminal
+
+<!-- marginal: and not more -->
+
+group
+
+<!-- marginal: than twenty -->
+
+<!-- marginal: years -->
+
+<!-- marginal: 130Z -->
+
+Recruiting do. do. do. do.
+
+<!-- marginal: Imprisonment -->
+
+persons to be
+
+<!-- marginal: which may -->
+
+members of
+
+<!-- marginal: extend to ten -->
+
+an organized
+
+<!-- marginal: years, and fine -->
+
+criminal group
+
+<!-- marginal: 130ZA -->
+
+Participation do. do. do. do.
+
+<!-- marginal: Imprisonment -->
+
+in an
+
+<!-- marginal: which may -->
+
+organized
+
+<!-- marginal: extend to ten -->
+
+criminal
+
+<!-- marginal: years, and fine -->
+
+group
+
+<!-- marginal: 130ZB -->
+
+Accepting do. do. do. do.
+
+<!-- marginal: If the act -->
+
+gratification
+
+<!-- marginal: results in -->
+
+to facilitate
+
+<!-- marginal: death, with -->
+
+or enable
+
+<!-- marginal: death, in -->
+
+organized
+
+<!-- marginal: any other -->
+
+criminal
+
+<!-- marginal: case, with -->
+
+activity
+
+<!-- marginal: imprisonment -->
+
+<!-- marginal: not less than -->
+
+<!-- marginal: seven years but -->
+
+<!-- marginal: not exceeding -->
+
+<!-- marginal: thirty years, -->
+
+<!-- marginal: and fine”; -->
 
 <!-- page 37 -->
 
 (g) dengan memasukkan selepas butiran yang berhubungan dengan seksyen 176 Kanun Keseksaan, butiran yang berikut di bawah ruang masing-masing:
 
-1 2 3 4 5
+<!-- marginal: 1 -->
 
-<!-- marginal: 6 -->
+2 3 4 5 6
 
 <!-- marginal: 7 -->
 
-Penal Offence Whether the Whether Whether Whether
+<!-- marginal: Penal -->
+
+Offence Whether the Whether Whether Whether
 
 <!-- marginal: Maximum -->
 
-Code police may a bailable compoundable
+<!-- marginal: Code -->
+
+police may a bailable compoundable
 
 <!-- marginal: punishment -->
+
+<!-- marginal: Section -->
 
 ordinarily warrant or or not or not
 
@@ -1154,7 +1372,9 @@ arrest a summons
 
 without shall warrant or ordinarily not issue in the first instance
 
-“176 If the do. do. do. do.
+<!-- marginal: “176 -->
+
+If the do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -1174,19 +1394,25 @@ respects the commission of offences under Chapter VIB
 
 (h) dengan memasukkan selepas butiran yang berhubungan dengan seksyen 203 Kanun Keseksaan, butiran yang berikut di bawah ruang masing-masing:
 
-1 2 3 4 5
+<!-- marginal: 1 -->
 
-<!-- marginal: 6 -->
+2 3 4 5 6
 
 <!-- marginal: 7 -->
 
-Penal Offence Whether the Whether Whether Whether
+<!-- marginal: Penal -->
+
+Offence Whether the Whether Whether Whether
 
 <!-- marginal: Maximum -->
 
-Code police may a bailable compoundable
+<!-- marginal: Code -->
+
+police may a bailable compoundable
 
 <!-- marginal: punishment -->
+
+<!-- marginal: Section -->
 
 ordinarily warrant or or not or not
 
@@ -1196,7 +1422,11 @@ arrest a summons
 
 <!-- marginal: Penal Code -->
 
-without shall warrant or ordinarily not issue in the first instance “203a Disclosure of do. do. do. do.
+without shall warrant or ordinarily not issue in the first instance
+
+<!-- marginal: “203A -->
+
+Disclosure of do. do. do. do.
 
 <!-- marginal: Fine not -->
 
@@ -1238,17 +1468,25 @@ information
 
 (l) dengan memasukkan selepas butiran yang berhubungan dengan seksyen 326 Kanun Keseksaan, butiran yang berikut di bawah ruang masing-masing:
 
-1 2 3 4 5 6
+<!-- marginal: 1 -->
+
+2 3 4 5 6
 
 <!-- marginal: 7 -->
 
-Penal Offence Whether the Whether Whether Whether
+<!-- marginal: Penal -->
+
+Offence Whether the Whether Whether Whether
 
 <!-- marginal: Maximum -->
 
-Code police may a bailable compoundable
+<!-- marginal: Code -->
+
+police may a bailable compoundable
 
 <!-- marginal: punishment -->
+
+<!-- marginal: Section -->
 
 ordinarily warrant or or not or not
 
@@ -1260,7 +1498,9 @@ arrest a summons
 
 without shall warrant or ordinarily not issue in the first instance
 
-“326a Causing hurt do. do. do. do.
+<!-- marginal: “326A -->
+
+Causing hurt do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -1296,19 +1536,25 @@ by spouse
 
 (m) dengan memasukkan selepas butiran yang berhubungan dengan seksyen 352 Kanun Keseksaan, butiran yang berikut di bawah ruang masing-masing:
 
-1 2 3 4 5
+<!-- marginal: 1 -->
 
-<!-- marginal: 6 -->
+2 3 4 5 6
 
 <!-- marginal: 7 -->
 
-Penal Offence Whether the Whether Whether Whether
+<!-- marginal: Penal -->
+
+Offence Whether the Whether Whether Whether
 
 <!-- marginal: Maximum -->
 
-Code police may a bailable compoundable
+<!-- marginal: Code -->
+
+police may a bailable compoundable
 
 <!-- marginal: punishment -->
+
+<!-- marginal: Section -->
 
 ordinarily warrant or or not or not
 
@@ -1320,7 +1566,9 @@ arrest a summons
 
 without shall warrant or ordinarily not issue in the first instance
 
-“352a Using do. do. do. do.
+<!-- marginal: “352A -->
+
+Using do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -1348,19 +1596,25 @@ by spouse
 
 (n) dengan memasukkan selepas butiran yang berhubungan dengan seksyen 375a Kanun Keseksaan, butiran yang berikut di bawah ruang masing-masing:
 
-1 2 3 4 5
+<!-- marginal: 1 -->
 
-<!-- marginal: 6 -->
+2 3 4 5 6
 
 <!-- marginal: 7 -->
 
-Penal Offence Whether the Whether Whether Whether
+<!-- marginal: Penal -->
+
+Offence Whether the Whether Whether Whether
 
 <!-- marginal: Maximum -->
 
-Code police may a bailable compoundable
+<!-- marginal: Code -->
+
+police may a bailable compoundable
 
 <!-- marginal: punishment -->
+
+<!-- marginal: Section -->
 
 ordinarily warrant or or not or not
 
@@ -1372,7 +1626,9 @@ arrest a summons
 
 without shall warrant or ordinarily not issue in the first instance
 
-“375B Gang rape do. do. do. do.
+<!-- marginal: “375B -->
+
+Gang rape do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -1400,17 +1656,25 @@ without shall warrant or ordinarily not issue in the first instance
 
 (s) dengan memasukkan selepas butiran yang berhubungan dengan seksyen 411 Kanun Keseksaan, butiran yang berikut di bawah ruang masing-masing:
 
-1 2 3 4 5 6
+<!-- marginal: 1 -->
+
+2 3 4 5 6
 
 <!-- marginal: 7 -->
 
-Penal Offence Whether the Whether Whether Whether
+<!-- marginal: Penal -->
+
+Offence Whether the Whether Whether Whether
 
 <!-- marginal: Maximum -->
 
-Code police may a bailable compoundable
+<!-- marginal: Code -->
+
+police may a bailable compoundable
 
 <!-- marginal: punishment -->
+
+<!-- marginal: Section -->
 
 ordinarily warrant or or not or not
 
@@ -1420,7 +1684,11 @@ arrest a summons
 
 <!-- marginal: Penal Code -->
 
-without shall warrant or ordinarily not issue in the first instance “411a Receiving do. do. do. do.
+without shall warrant or ordinarily not issue in the first instance
+
+<!-- marginal: “411A -->
+
+Receiving do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -1480,7 +1748,7 @@ activities of organized criminal group
 
 (z) dalam butiran yang berhubungan dengan seksyen 435 Kanun Keseksaan, dalam ruang 7, dengan menggantikan perkataan “seven” dengan perkataan “fourteen”.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PINDAAN KEPADA AKTA KANUN TATACARA
 
@@ -1598,13 +1866,13 @@ I hereby agree to and shall comply with the terms and conditions as stated in th
 
 Rang Undang-Undang ini bertujuan untuk meminda Kanun Tatacara Jenayah (“Akta 593”) dan Akta Kanun Tatacara Jenayah (Pindaan) (No. 2) 2012 (“Akta A1431”).
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 2. Fasal 1 mengandungi tajuk ringkas dan peruntukan mengenai permulaan kuat kuasa Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PINDAAN KEPADA AKTA 593
 
@@ -1658,7 +1926,7 @@ Hak seseorang pembeli suci hati bagi balasan berharga yang berhubungan dengan ha
 
 <!-- page 48 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PINDAAN KEPADA AKTA A1431
 

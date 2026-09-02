@@ -108,7 +108,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 10. Akta ibu dipinda dengan memasukkan selepas Bahagian V bahagian yang berikut:
 
-“Bahagian Va
+## “BAHAGIAN VA
 
 ## PEMBERI PERKHIDMATAN PLATFORM DIGITAL
 
@@ -224,7 +224,9 @@ Jika seseorang pemberi perkhidmatan platform digital mengeluarkan nota kredit at
 
 (9) Mahkamah boleh memerintahkan seorang pemberi perkhidmatan platform digital yang disabitkan bagi suatu kesalahan di bawah subseksyen (6) membayar penalti yang dinyatakan dalam subseksyen (7).
 
-(10) Tiada pendakwaan bagi kesalahan di bawah subseksyen (6) boleh dimulakan terhadap pemberi perkhidmatan platform digital yang telah membayar amaun cukai pelancongan yang genap masa dan kena dibayar dan penalti yang dinyatakan dalam subseksyen (7) dalam tempoh yang dinyatakan dalam subseksyen (7).
+(10) Tiada pendakwaan bagi kesalahan di bawah subseksyen
+
+(6) boleh dimulakan terhadap pemberi perkhidmatan platform digital yang telah membayar amaun cukai pelancongan yang genap masa dan kena dibayar dan penalti yang dinyatakan dalam subseksyen (7) dalam tempoh yang dinyatakan dalam subseksyen (7).
 
 ### Kewajipan untuk menyimpan rekod
 
@@ -400,7 +402,7 @@ Rang undang-undang ini bertujuan untuk meminda Akta Cukai Pelancongan 2017 (“A
 
 10. Fasal 9 bertujuan untuk meminda seksyen 20 Akta 791 untuk memberi Ketua Pengarah kuasa untuk menaksir amaun cukai pelancongan yang genap masa daripada dan kena dibayar oleh dan penalti yang kena dibayar oleh pemberi perkhidmatan platform digital dan untuk memberitahu pemberi perkhidmatan platform digital itu tentang taksiran secara bertulis.
 
-11. Fasal 10 bertujuan untuk memasukkan Bahagian baharu Va ke dalam Akta 791 yang mengandungi seksyen baharu 20a, 20B, 20c, 20d, 20e, 20f, 20g, 20h, 20i, 20j dan 20k.
+11. Fasal 10 bertujuan untuk memasukkan Bahagian baharu Va ke dalam Akta 791 yang mengandungi seksyen baharu 20a, 20B, 20c, 20d, 20e, 20f, 20G, 20H, 20I, 20J DAN 20K.
 
 Seksyen 20a yang dicadangkan bertujuan untuk memperuntukkan bahawa cukai pelancongan hendaklah dikenakan dan dilevikan ke atas pelancong yang menginap di mana-mana premis penginapan yang disediakan melalui perkhidmatan yang berhubungan dengan tempahan premis penginapan dalam talian yang disediakan oleh pemberi perkhidmatan platform digital.
 

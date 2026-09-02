@@ -30,7 +30,9 @@ Rang Undang-Undang ini bertujuan untuk mengesahkan pemungutan fi yang telah dike
 
 ## 1MPUKASI KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN(U2)2276]
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
+
+<!-- marginal: [PN(U2)2276] -->
 
 <!-- page 3 -->
 

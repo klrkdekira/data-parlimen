@@ -40,7 +40,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/18/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ini bolehlah dinamakan Akta Mahkamah- Tajuk Mahkamah Anak Negeri (Bidang Kuasa Jenayah) ringkas (Pindaan) 1992. RANG UNDANG-UNDANG Pindaan"
+        "@value": "Akta ini bolehlah dinamakan Akta Mahkamah- Tajuk Mahkamah Anak Negeri (Bidang Kuasa Jenayah) ringkas (Pindaan) 1992. RANG UNDANG-UNDANG"
       }
     },
     {
@@ -48,9 +48,13 @@
       "@type": "akn:clause",
       "eli:number": "2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/18/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 2 Akta Mahkamah-Mahkamah Anak Negeri"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Seksyen 2 Akta Mahkamah-Mahkamah Anak Negeri seksyen 2. (Bidang Kuasa Jenayah) 1991 adalah dipinda dengan Akta 471. menggantikan perkataan-perkataan \"dua ratus ringgit\" dengan perkataan-perkataan \"lima ribu ringgit\"."
+        "@value": "(Bidang Kuasa Jenayah) 1991 adalah dipinda dengan menggantikan perkataan-perkataan \"dua ratus ringgit\" dengan perkataan-perkataan \"lima ribu ringgit\"."
       }
     }
   ]

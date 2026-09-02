@@ -36,7 +36,11 @@ is referred to as the "principal Act", is amended in section
 
 (c) by inserting after the definition of "Bank Negara Malaysia" the following definition;
 
-' "building credit business" has the Act 372. meaning assigned to it in the Banking and Financial Institutions Act 1989;';
+' "building credit business" has the
+
+<!-- marginal: Act 372. -->
+
+meaning assigned to it in the Banking and Financial Institutions Act 1989;';
 
 (d) by inserting after the definition of "credit facilities" the following definitions:
 
@@ -52,11 +56,7 @@ is referred to as the "principal Act", is amended in section
 
 (e) by inserting after the definition of "established" the following definition:
 
-' "factoring business" has
-
-<!-- marginal: the -->
-
-meaning assigned to it in the Banking and Financial Institutions Act 1989;';
+' "factoring business" has the meaning assigned to it in the Banking and Financial Institutions Act 1989;';
 
 (f) by inserting after the definition of "foreign offshore company" the following definition:
 
@@ -152,9 +152,11 @@ Offshore Banking (Amendment)
 
 6 Bill
 
-Amendment
+<!-- marginal: Amendment -->
 
-5. Section 17 of the principal Act is amended— of section
+5. Section 17 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 17.
 
@@ -162,9 +164,11 @@ Amendment
 
 (b) by deleting subsection (2).
 
-Amendment
+<!-- marginal: Amendment -->
 
-6. Section 18 of the principal Act is amended— of section 18.
+6. Section 18 of the principal Act is amended—
+
+<!-- marginal: of section 18. -->
 
 (a) by substituting for subsection (1) the following subsection:
 
@@ -198,7 +202,31 @@ Amendment
 
 <!-- marginal: 23. -->
 
-" Veri- 23. (1) The Bank or the home monetary fication of authority if so approved by the Bank may from licensed offshore time to time examine and inspect, under bank's conditions of secrecy, the books or other sub- missions, documents, accounts and transactions of any licensed offshore bank and any office outside Malaysia of a licensed offshore bank for the purposes of verifying the submissions of such licensed offshore bank under sections 17 and 18.
+"
+
+<!-- marginal: Veri- -->
+
+23. (1) The Bank or the home monetary
+
+<!-- marginal: fication of -->
+
+authority if so approved by the Bank may from
+
+<!-- marginal: licensed -->
+
+<!-- marginal: offshore -->
+
+time to time examine and inspect, under
+
+<!-- marginal: bank's -->
+
+conditions of secrecy, the books or other
+
+<!-- marginal: sub- -->
+
+<!-- marginal: missions, -->
+
+documents, accounts and transactions of any licensed offshore bank and any office outside Malaysia of a licensed offshore bank for the purposes of verifying the submissions of such licensed offshore bank under sections 17 and 18.
 
 (2) The Bank may from time to time request the internal auditors or approved auditor of a licensed offshore bank to verify the accuracy of the submissions of such licensed offshore bank under sections 17 and 18.
 
@@ -208,21 +236,37 @@ Amendment
 
 8 Bill
 
-Amendment
+<!-- marginal: Amendment -->
 
-8. Subsection 25(4) of the principal Act is amended by of section substituting for the words "Federal Consolidated Fund"
+8. Subsection 25(4) of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+substituting for the words "Federal Consolidated Fund"
 
 25. the words "Fund established under section 29 of the Labuan Offshore Financial Services Act 1996".
 
-Amendment
+<!-- marginal: Amendment -->
 
-9. Subsection 26(2) of the principal Act is amended by of section substituting for the words "Deputy Governor, director
+9. Subsection 26(2) of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+substituting for the words "Deputy Governor, director
 
 26. and any" the words "the Director-General and any member, officer and".
 
-New
+<!-- marginal: New -->
 
-10. The principal Act is amended by inserting after section sections 33, 32 the following sections: 34 and 35. " Exempt 33. (1) The provisions of— dealer. Act 280.
+10. The principal Act is amended by inserting after section
+
+<!-- marginal: sections 33, -->
+
+32 the following sections:
+
+<!-- marginal: 34 and 35. -->
+
+" Exempt 33. (1) The provisions of— dealer. Act 280.
 
 (a) subsection 12(1) of the Securities Industry Act 1983 requiring a person carrying on the business of dealing in securities or holding himself out as dealing in securities to hold a dealer's licence under Part IV of the Securities Industry Act 1983; and
 
@@ -234,9 +278,51 @@ shall not apply to a licensed offshore bank and any person acting as a represent
 
 <!-- page 9 -->
 
-Securities 34. The provisions of the Securities Industry Industry Act 1983 shall not apply to a transaction Act 1983 not to involving a licensed offshore bank dealing in apply in securities with or providing advice concerning certain circum- securities to or reports concerning securities stances. for non-residents and, in the case of residents, Act 280. if the written consent of Bank Negara Malaysia has been obtained to raise financing or to borrow from sources outside Malaysia or from licensed offshore banks.
+<!-- marginal: Securities -->
 
-Internal 35. (1) A licensed offshore bank shall conduct audit and an internal audit of its books and operations as internal auditor. the Bank may specify from time to time.
+34. The provisions of the Securities Industry
+
+<!-- marginal: Industry -->
+
+Act 1983 shall not apply to a transaction
+
+<!-- marginal: Act 1983 -->
+
+<!-- marginal: not to -->
+
+involving a licensed offshore bank dealing in
+
+<!-- marginal: apply in -->
+
+securities with or providing advice concerning
+
+<!-- marginal: certain -->
+
+<!-- marginal: circum- -->
+
+securities to or reports concerning securities
+
+<!-- marginal: stances. -->
+
+for non-residents and, in the case of residents,
+
+<!-- marginal: Act 280. -->
+
+if the written consent of Bank Negara Malaysia has been obtained to raise financing or to borrow from sources outside Malaysia or from licensed offshore banks.
+
+<!-- marginal: Internal -->
+
+35. (1) A licensed offshore bank shall conduct
+
+<!-- marginal: audit and -->
+
+an internal audit of its books and operations as
+
+<!-- marginal: internal -->
+
+<!-- marginal: auditor. -->
+
+the Bank may specify from time to time.
 
 (2) For the purposes of this section, an internal audit of a licensed offshore bank shall be carried out by authorised officers—
 

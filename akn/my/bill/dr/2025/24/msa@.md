@@ -8,7 +8,7 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -16,7 +16,7 @@
 
 2. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENTADBIRAN
 
@@ -62,7 +62,7 @@ Akaun amanah
 
 14. Akaun amanah
 
-## Bahagian III
+## BAHAGIAN III
 
 ## KHIDMAT BANTUAN GUAMAN
 
@@ -164,7 +164,7 @@ Pengantaraan
 
 51. Pengantaraan melalui teknologi komunikasi jarak jauh
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## KHIDMAT PEMBELAAN AWAM
 
@@ -188,7 +188,7 @@ Pengantaraan
 
 61. Rayuan terhadap keputusan mahkamah oleh Pendakwa Raya
 
-## Bahagian V
+## BAHAGIAN V
 
 AM
 
@@ -218,7 +218,7 @@ AM
 
 73. Kuasa untuk membuat peraturan-peraturan
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PEMANSUHAN, KECUALIAN DAN PERALIHAN
 
@@ -242,15 +242,15 @@ AM
 
 83. Penerusan keputusan, dsb.
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
-## Jadual Kedua
+## JADUAL KEDUA
 
-## Jadual Ketiga
+## JADUAL KETIGA
 
-## Jadual KeemPat
+## JADUAL KEEMPAT
 
-## Jadual Kelima
+## JADUAL KELIMA
 
 <!-- page 7 -->
 
@@ -262,7 +262,7 @@ Suatu Akta untuk memperkukuhkan khidmat bantuan guaman di Malaysia dengan mengad
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -342,7 +342,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “Timbalan Ketua Pengarah” ertinya Timbalan Ketua Pengarah Bantuan Guaman yang dilantik di bawah subseksyen 3(1).
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENTADBIRAN
 
@@ -542,7 +542,7 @@ Akaun amanah
 
 (2) Semua wang dalam akaun amanah hendaklah dibelanjakan bagi maksud mentadbir bantuan guaman dan khidmat pembelaan awam.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## KHIDMAT BANTUAN GUAMAN
 
@@ -1048,11 +1048,7 @@ Pengantaraan
 
 ### Rujukan kepada pengantaraan oleh Ketua Pengarah
 
-45. Ketua Pengarah boleh, jika difikirkannya perlu, merujuk mana-mana orang, pemohon atau orang yang dibantu di bawah
-
-## Bab 2 dan 3 Bahagian III kepada khidmat pengantaraan dengan
-
-memberikan notis secara lisan, atau melalui perkhidmatan elektronik atau komunikasi teknologi jarak jauh menghendaki orang itu membuat permohonan bagi khidmat pengantaraan di bawah seksyen 44.
+45. Ketua Pengarah boleh, jika difikirkannya perlu, merujuk mana-mana orang, pemohon atau orang yang dibantu di bawah Bab 2 dan 3 Bahagian III kepada khidmat pengantaraan dengan memberikan notis secara lisan, atau melalui perkhidmatan elektronik atau komunikasi teknologi jarak jauh menghendaki orang itu membuat permohonan bagi khidmat pengantaraan di bawah seksyen 44.
 
 <!-- page 39 -->
 
@@ -1104,7 +1100,7 @@ memberikan notis secara lisan, atau melalui perkhidmatan elektronik atau komunik
 
 <!-- page 41 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## KHIDMAT PEMBELAAN AWAM
 
@@ -1256,7 +1252,7 @@ memberikan notis secara lisan, atau melalui perkhidmatan elektronik atau komunik
 
 61. Jika Pendakwa Raya merayu terhadap mana-mana keputusan mahkamah, perakuan pembelaan awam yang dikeluarkan oleh Ketua Pembela Awam untuk manfaat tertuduh yang dibantu di bawah Akta ini hendaklah kekal berkuat kuasa sehingga semua hal perkara yang timbul daripada rayuan tersebut diselesaikan.
 
-## Bahagian V
+## BAHAGIAN V
 
 AM
 
@@ -1420,7 +1416,7 @@ boleh dirayu kepada Menteri dan Menteri boleh mengesahkan, mengakas atau menguba
 
 (e) untuk menetapkan apa-apa perkara lain yang dikehendaki untuk ditetapkan di bawah Akta ini.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PEMANSUHAN, KECUALIAN DAN PERALIHAN
 
@@ -1476,7 +1472,7 @@ boleh dirayu kepada Menteri dan Menteri boleh mengesahkan, mengakas atau menguba
 
 <!-- page 57 -->
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
 [Seksyen 16]
 
@@ -1486,7 +1482,7 @@ boleh dirayu kepada Menteri dan Menteri boleh mengesahkan, mengakas atau menguba
 
 Nasihat guaman atas segala hal perkara perundangan berhubung dengan undang-undang Malaysia.
 
-## Jadual Kedua
+## JADUAL KEDUA
 
 [Seksyen 20]
 
@@ -1498,7 +1494,11 @@ Nasihat guaman atas segala hal perkara perundangan berhubung dengan undang-undan
 
 Prosiding dalam Mahkamah Sivil
 
-(1) (2) No. Prosiding
+(1) (2)
+
+<!-- marginal: No. -->
+
+Prosiding
 
 1. Prosiding di bawah Akta Perempuan Bersuami dan Anak-Anak (Nafkah) 1950 [Akta 263]
 
@@ -1520,7 +1520,11 @@ Prosiding dalam Mahkamah Sivil
 
 <!-- page 58 -->
 
-(1) (2) No. Prosiding
+(1) (2)
+
+<!-- marginal: No. -->
+
+Prosiding
 
 10. Prosiding yang berhubungan dengan hak dan tanggungan di bawah Akta Harta Pusaka Kecil (Pembahagian) 1955 [Akta 98]
 
@@ -1576,7 +1580,7 @@ Prosiding dalam Mahkamah Syariah
 
 Nota: Bagi maksud Jadual ini, apa-apa perkataan dan ungkapan dalam bahasa Arab, hendaklah disifatkan mempunyai erti yang diberikan kepadanya di bawah apa-apa Akta Persekutuan atau Enakmen Negeri yang berkenaan.
 
-## Jadual Ketiga
+## JADUAL KETIGA
 
 [Seksyen 36]
 
@@ -1586,7 +1590,7 @@ Nota: Bagi maksud Jadual ini, apa-apa perkataan dan ungkapan dalam bahasa Arab, 
 
 Semua kesalahan terhadap kanak-kanak yang diperuntukkan dalam mana-mana undang-undang bertulis
 
-## Jadual KeemPat
+## JADUAL KEEMPAT
 
 [Seksyen 52]
 
@@ -1610,7 +1614,7 @@ Semua kesalahan terhadap kanak-kanak yang diperuntukkan dalam mana-mana undang-u
 
 5. Semua permohonan di bawah seksyen 117 Kanun Tatacara Jenayah [Akta 593] bagi maksud penyiasatan lanjut
 
-## Jadual Kelima
+## JADUAL KELIMA
 
 [Seksyen 56]
 
@@ -1632,7 +1636,7 @@ Rang Undang-Undang Bantuan Guaman dan Pembelaan Awam 2025 (“Akta yang dicadang
 
 <!-- page 61 -->
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan mengandungi perkara permulaan.
 
@@ -1640,7 +1644,7 @@ Rang Undang-Undang Bantuan Guaman dan Pembelaan Awam 2025 (“Akta yang dicadang
 
 4. Fasal 2 mengandungi takrif bagi perkataan dan ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## Bab 1
 
@@ -1714,7 +1718,7 @@ Fasal ini juga melarang mana-mana peguam yang ditugaskan daripada menamatkan khi
 
 20. Fasal 14 bertujuan untuk mengenakan tanggungjawab kepada Ketua Pengarah untuk mengadakan dan menyenggarakan suatu akaun amanah mengikut Akta Tatacara Kewangan 1957 [Akta 61] bagi maksud pemungutan atau pembayaran, apa-apa fi, sumbangan, kos, caj dan apa-apa bayaran lain berhubung dengan bantuan guaman dan khidmat pembelaan awam di bawah Akta yang dicadangkan.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## Bab 1
 
@@ -1832,7 +1836,7 @@ Fasal ini juga memperuntukkan bahawa Ketua Pengarah boleh menghendaki seseorang 
 
 62. Fasal 51 bertujuan untuk memperuntukkan bahawa pengantara boleh mengendalikan sesi pengantaraan melalui teknologi komunikasi jarak jauh. Apa-apa penyelesaian atau persetujuan yang telah diubah ke dalam bentuk bertulis dan ditandatangani secara elektronik adalah mengikat dan boleh direkodkan di mana-mana mahkamah.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 63. Bahagian IV Akta yang dicadangkan memperkatakan tentang penyediaan khidmat pembelaan awam.
 
@@ -1858,7 +1862,7 @@ Fasal ini juga memperuntukkan bahawa Ketua Pengarah boleh menghendaki seseorang 
 
 73. Fasal 61 bertujuan untuk memperuntukkan bahawa jika Pendakwa Raya merayu terhadap apa-apa keputusan mahkamah, perakuan yang dikeluarkan sebelum itu kepada tertuduh yang dibantu hendaklah kekal berkuat kuasa sehingga semua hal perkara yang timbul daripada rayuan itu selesai.
 
-## Bahagian V
+## BAHAGIAN V
 
 74. Bahagian V Akta yang dicadangkan memperkatakan tentang peruntukan am.
 
@@ -1890,7 +1894,7 @@ Fasal ini juga memperuntukkan bahawa Ketua Pengarah boleh menghendaki seseorang 
 
 86. Fasal 73 bertujuan untuk memberi Menteri kuasa untuk membuat peraturan-peraturan di bawah Akta yang dicadangkan.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 87. Bahagian VI mengandungi peruntukan pemansuhan, kecualian dan peralihan berbangkit daripada pemansuhan Akta Bantuan Guaman 1971.
 

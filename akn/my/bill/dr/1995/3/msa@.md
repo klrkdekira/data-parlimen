@@ -42,19 +42,31 @@ seksyen ini hendaklah disifatkan telah ditubuhkan dengan sah dan hendaklah terus
 
 (3) Apa-apa pembiayaan atau bantuan kewangan yang diberikan oleh Majlis di bawah subseksyen (2) seksyen 7 kepada sesuatu syarikat yang disebut dalam subseksyen (2) hendaklah disifatkan telah diberikan dengan sah.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Subseksyen 58 (2) Akta ibu adalah dipinda— seksyen 58.
+3. Subseksyen 58 (2) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 58. -->
 
 (a) dengan menggantikan perkataan "dan" dengan koma; dan
 
 (b) dengan memasukkan selepas perkataan "menjalankan" perkataan "atau memberhentikan".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Akta ibu adalah dipinda dengan menggantikan seksyen seksyen 59. 59 dengan seksyen yang berikut:
+4. Akta ibu adalah dipinda dengan menggantikan seksyen
 
-"Peguam 59. (1) Tertakluk kepada subseksyen (2), Majlis Syarie. boleh menerima mana-mana orang yang mempunyai pengetahuan yang mencukupi tentang Hukum Syarak menjadi Peguam Syarie bagi mewakili pihak-pihak dalam apa-apa prosiding di dalam Mahkamah Syariah.
+<!-- marginal: seksyen 59. -->
+
+59 dengan seksyen yang berikut:
+
+<!-- marginal: "Peguam -->
+
+59. (1) Tertakluk kepada subseksyen (2), Majlis
+
+<!-- marginal: Syarie. -->
+
+boleh menerima mana-mana orang yang mempunyai pengetahuan yang mencukupi tentang Hukum Syarak menjadi Peguam Syarie bagi mewakili pihak-pihak dalam apa-apa prosiding di dalam Mahkamah Syariah.
 
 (2) Majlis boleh, dengan kelulusan Yang di- Pertuan Agong, membuat kaedah-kaedah—
 
@@ -62,7 +74,11 @@ Pindaan
 
 (b) untuk mengawalselia, mengawal dan mengawasi kelakuan Peguam Syarie.
 
-(3) Walau apa pun subseksyen (1), Majlis boleh mengecualikan mana-mana anggota Perkhidmatan Kehakiman dan Perundangan Persekutuan atau mana-mana orang yang dilantik Akta 26. di bawah seksyen 3 Akta Bantuan Guaman 1971 daripada peruntukan seksyen ini.
+(3) Walau apa pun subseksyen (1), Majlis boleh mengecualikan mana-mana anggota Perkhidmatan Kehakiman dan Perundangan Persekutuan atau mana-mana orang yang dilantik
+
+<!-- marginal: Akta 26. -->
+
+di bawah seksyen 3 Akta Bantuan Guaman 1971 daripada peruntukan seksyen ini.
 
 <!-- page 3 -->
 

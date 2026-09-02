@@ -314,7 +314,7 @@ Total
 
 20. Akta ibu dipinda dengan menggantikan Jadual Keenam dengan jadual yang berikut:
 
-“Sixth Schedule
+## “SIXTH SCHEDULE
 
 [Section 30]
 

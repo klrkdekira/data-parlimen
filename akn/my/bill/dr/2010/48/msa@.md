@@ -572,4 +572,4 @@ Seksyen 12 G memperuntukkan kuasa Menteri untuk membuat peraturan-peraturan.
 
 Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
 
-[PN(U2)2728]
+<!-- marginal: [PN(U2)2728] -->

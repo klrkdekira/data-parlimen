@@ -8,25 +8,33 @@ An Act to amend the Fire Services Act 1988.
 
 BE IT ENACTED by the Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
 
-Short title.
+<!-- marginal: Short title. -->
 
 1. This Act may be cited as the Fire Services (Amendment) Act 1990.
 
-Amendment
+<!-- marginal: Amendment -->
 
-2. Section 2 of the Fire Services Act 1988, which in this Act of section 2 is referred to as "the principal Act", is amended by inserting Act 341 before the definition of "contravention" the following new definition:
+2. Section 2 of the Fire Services Act 1988, which in this Act
+
+<!-- marginal: of section 2 -->
+
+is referred to as "the principal Act", is amended by inserting
+
+<!-- marginal: Act 341 -->
+
+before the definition of "contravention" the following new definition:
 
 ' "Committee" means the Fire Services Department Welfare Fund Committee established under section 48A;'.
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Section 48 of the principal Act is amended in subsection of section 48.
+3. Section 48 of the principal Act is amended in subsection
+
+<!-- marginal: of section 48. -->
 
 (2)-
 
-(a) by deleting the word "and" at the end of paragraph
-
-(e); and
+(a) by deleting the word "and" at the end of paragraph (e); and
 
 (b) by substituting for the full stop at the end of paragraph (f) the words "; and" and inserting thereafter the following new paragraph (g):
 
@@ -36,7 +44,7 @@ Amendment
 
 ## BILL
 
-New section
+<!-- marginal: New section -->
 
 4. The principal Act is amended by inserting after section
 
@@ -60,9 +68,11 @@ following members:
 
 (5) Subject to this Act, the Committee shall have power to regulate its proceedings.".
 
-Amendment .
+<!-- marginal: Amendment . -->
 
-5. Section 49 of the principal Act is amended — of section 49.
+5. Section 49 of the principal Act is amended —
+
+<!-- marginal: of section 49. -->
 
 (a) by substituting for the words "Control of Fund." in the marginal note the words "Administration and application of Fund,"; and
 

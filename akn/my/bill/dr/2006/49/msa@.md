@@ -220,11 +220,7 @@ ada hakmilik Pejabat Pendaftaran atau Pejabat Tanah) bolehlah dipecahbahagikan k
 
 (i) jika penjualan, atau perjanjian untuk menjual, mana-mana petak bangunan itu, atau penjualan atau perjanjian kali pertama itu, dibuat sebelum tarikh itu, tempohnya ialah enam bulan dari tarikh itu;
 
-(ii) jika penjualan, atau perjanjian untuk menjual, mana-mana petak bangunan itu, atau penjualan atau perjanjian kali pertama itu, dibuat selepas tarikh itu, tempohnya ialah enam bulan dari tarikh penjualan atau perjanjian
-
-<!-- marginal: itu atau -->
-
-penjualan atau perjanjian kali pertama itu;
+(ii) jika penjualan, atau perjanjian untuk menjual, mana-mana petak bangunan itu, atau penjualan atau perjanjian kali pertama itu, dibuat selepas tarikh itu, tempohnya ialah enam bulan dari tarikh penjualan atau perjanjian itu atau penjualan atau perjanjian kali pertama itu;
 
 (b) dalam hal suatu bangunan yang siap pada suatu tarikh sebelum permulaan kuat kuasa subseksyen ini —
 
@@ -240,7 +236,9 @@ penjualan atau perjanjian kali pertama itu;
 
 (b) yang boleh dipecahbahagikan di bawah subseksyen 6(1A),
 
-hendaklah, dalam tempoh yang dinyatakan dalam subseksyen (4) dan apabila dikeluarkan perakuan siap dan pematuhan, memohon mengikut seksyen 10 untuk memecah bahagi bangunan kepada petak-petak, memecah bahagi bangunan dan tanah kepada petak-petak atau pecah bahagian tanah kepada petak-petak, mengikut mana-mana yang berkenaan, jika pada bila-bila masa dia telah menjual atau bersetuju untuk menjual mana-mana petak dalam bangunan atau tanah itu kepada mana- mana orang atau badan.
+hendaklah, dalam tempoh yang dinyatakan dalam subseksyen
+
+(4) dan apabila dikeluarkan perakuan siap dan pematuhan, memohon mengikut seksyen 10 untuk memecah bahagi bangunan kepada petak-petak, memecah bahagi bangunan dan tanah kepada petak-petak atau pecah bahagian tanah kepada petak-petak, mengikut mana-mana yang berkenaan, jika pada bila-bila masa dia telah menjual atau bersetuju untuk menjual mana-mana petak dalam bangunan atau tanah itu kepada mana- mana orang atau badan.
 
 (4) Tempoh yang dalamnya kehendak subseksyen (3) hendaklah dipatuhi ialah seperti yang berikut:
 
@@ -260,11 +258,7 @@ hendaklah, dalam tempoh yang dinyatakan dalam subseksyen (4) dan apabila dikelua
 
 (a) subseksyen (2), tarikh bila sesuatu bangunan itu siap hendaklah menjadi tarikh yang ia diperakui oleh mana- mana pihak berkuasa tempatan sebagai layak diduduki atau digunakan, atau diperakui mengikut peruntukan mana-mana undang-undang bertulis yang sedang berkuat kuasa; dan
 
-(b) subseksyen (4), tarikh itu hendaklah menjadi tarikh yang perakuan siap dan pematuhan dikeluarkan oleh arkitek yang berkaitan yang memperaku bahawa pembinaan bangunan itu telah siap
-
-<!-- marginal: dengan -->
-
-sewajarnya.".
+(b) subseksyen (4), tarikh itu hendaklah menjadi tarikh yang perakuan siap dan pematuhan dikeluarkan oleh arkitek yang berkaitan yang memperaku bahawa pembinaan bangunan itu telah siap dengan sewajarnya.".
 
 ### Pindaan seksyen 9
 
@@ -274,13 +268,11 @@ sewajarnya.".
 
 <!-- page 11 -->
 
-(ii) dalam perenggan (f), dengan memotong subperenggan (iii) dan (iv); dan
+(ii) dalam perenggan (f), dengan memotong subperenggan
 
-(iii) dengan menggantikan perenggan (I)
+(iii) dan (iv); dan
 
-<!-- marginal: dengan -->
-
-perenggan yang berikut:
+(iii) dengan menggantikan perenggan (I) dengan perenggan yang berikut:
 
 "(I) kecuali bagi bangunan khas,bahawa bangunan atau tanah yang hendak dipecahbahagikan kepada petak-petak telah diperakui oleh pihak berkuasa tempatan sebagai layak diduduki atau digunakan atau diperakui mengikut peruntukan mana-mana undang-undang bertulis yang sedang berkuat kuasa."; dan
 
@@ -316,11 +308,7 @@ Rang Undang-Undang
 
 (d) dalam subseksyen (2) —
 
-(i) dalam perenggan (b), dengan memasukkan selepas perkataan "yang hendak dipecahbahagikan
-
-<!-- marginal: itu" -->
-
-perkataan "dan dalam hal bagi suatu permohonan untuk memecah bahagi tanah kepada petak-petak tanah, menandakan sempadan-sempadan dan tanda- tanda sempadan bagi lot itu dan petak-petak yang menunjukkan kedudukan kesemua bangunan di atasnya"; dan
+(i) dalam perenggan (b), dengan memasukkan selepas perkataan "yang hendak dipecahbahagikan itu" perkataan "dan dalam hal bagi suatu permohonan untuk memecah bahagi tanah kepada petak-petak tanah, menandakan sempadan-sempadan dan tanda- tanda sempadan bagi lot itu dan petak-petak yang menunjukkan kedudukan kesemua bangunan di atasnya"; dan
 
 (ii) dalam perenggan (c), dengan memasukkan sebelum perkataan "termasuk" perkataan "kecuali bagi permohonan untuk pecah bahagian tanah kepada petak-petak tanah,";
 
@@ -340,11 +328,7 @@ perkataan "dan dalam hal bagi suatu permohonan untuk memecah bahagi tanah kepada
 
 (e) membezakan mana-mana bahagian yang tidak hendak dimasukkan ke dalam mana-mana petak tetapi hendak dijadikan sebahagian daripada harta bersama; dan
 
-(f) mengandungi apa-apa butir terperinci
-
-<!-- marginal: lain -->
-
-sebagaimana yang ditetapkan.";
+(f) mengandungi apa-apa butir terperinci lain sebagaimana yang ditetapkan.";
 
 (f) dalam subseksyen (5), dengan menggantikan perkataan "dan (3)" dengan perkataan ", (3) dan (3A)";
 
@@ -358,13 +342,7 @@ sebagaimana yang ditetapkan.";
 
 (i) dalam subseksyen (10), dengan menggantikan proviso dengan proviso yang berikut:
 
-"Dengan syarat bahawa tiada permohonan boleh dihantar sedemikian tanpa dokumen hakmilik keluaran bagi lot itu dan dengan demikian dalam hal yang termasuk dalam subseksyen (7), jika dokumen
-
-<!-- marginal: itu -->
-
-<!-- marginal: tidak -->
-
-dikemukakan dengan sempurna di Pejabat Tanah,
+"Dengan syarat bahawa tiada permohonan boleh dihantar sedemikian tanpa dokumen hakmilik keluaran bagi lot itu dan dengan demikian dalam hal yang termasuk dalam subseksyen (7), jika dokumen itu tidak dikemukakan dengan sempurna di Pejabat Tanah,
 
 <!-- page 14 -->
 
@@ -374,7 +352,9 @@ Dan dengan syarat selanjutnya bahawa jika tanah itu dipegang di bawah hakmilik s
 
 ### Pindaan seksyen 10A
 
-13. Seksyen 10A Akta ibu dipinda dengan menggantikan subseksyen (l) dengan subseksyen yang berikut:
+13. Seksyen 10A Akta ibu dipinda dengan menggantikan subseksyen
+
+(l) dengan subseksyen yang berikut:
 
 "(1) Suatu permohonan di bawah seksyen 10, kecuali jika ia berhubung dengan bangunan kos rendah, hendaklah termasuk suatu permohonan bagi pengeluaran hakmilik strata sementara bagi suatu blok sementara berkenaan dengan sesuatu bangunan, yang merupakan bangunan yang boleh dipecahbahagikan mengikut subseksyen 6(1), yang dicadangkan untuk, atau sedang, didirikan di atas lot yang berkenaan:
 
@@ -402,7 +382,9 @@ mengklasifikasikannya sebagai bangunan kos rendah.
 
 (4) Apabila diterima perakuan yang dikeluarkan oleh Pihak Berkuasa Negeri, pemilik tanah beri hakmilik itu hendaklah memohon untuk memecahbahagikan bangunan itu di bawah seksyen 10.
 
-(5) Tiada bangunan yang didirikan dalam suatu blok sementara boleh diklasifikasikan di bawah subseksyen (1) atau (2) sebagai suatu bangunan kos rendah.
+(5) Tiada bangunan yang didirikan dalam suatu blok sementara boleh diklasifikasikan di bawah subseksyen (1) atau
+
+(2) sebagai suatu bangunan kos rendah.
 
 (6) Pihak Berkuasa Negeri boleh, atas permohonan oleh perbadanan pengurusan atau atas kehendaknya sendiri, melantik ejen pengurusan untuk menjalankan kuasa dan menunaikan kewajipan-kewajipan dan fungsi-fungsi suatu perbadanan pengurusan, dan apa-apa perbelanjaan yang dilakukan oleh ejen pengurusan itu boleh dipertanggungkan ke atas kumpulan wang pengurusan perbadanan pengurusan itu.".
 
@@ -548,11 +530,7 @@ mendapatkan kelulusan Pengarah bagi pengeluaran hakmilik strata yang berasingan 
 
 (B) dengan menggantikan perkataan "undang- undang kecil" dengan perkataan "undang- undang kecil tambahan"; dan
 
-(C) dengan menggantikan noktah
-
-<!-- marginal: dengan -->
-
-perkataan "; dan"; dan
+(C) dengan menggantikan noktah dengan perkataan "; dan"; dan
 
 (d) dengan memasukkan selepas perenggan (d) perenggan yang berikut:
 
@@ -928,7 +906,11 @@ Tandatangan Pemilik Lot
 
 Untuk Kegunaan Pejabat Sahaja
 
-A. Kepada Pengarah Tanah dan Galian. (1) Dokumen keluaran hakmilik disertakan. (2) Sewa bagi tahun semasa dibayar.
+A. Kepada Pengarah Tanah dan Galian.
+
+(1) Dokumen keluaran hakmilik disertakan.
+
+(2) Sewa bagi tahun semasa dibayar.
 
 Pentadbir Tanah: .................................
 
@@ -1432,15 +1414,31 @@ Rang Undang-Undang INDEKS
 
 ## SECARA TERPERINCI
 
-No. Muka Senarai Unit-unit syer Bangunan/ Senarai tingkat-
+<!-- marginal: No. Muka -->
 
-<!-- marginal: Lain-lain -->
+Senarai Unit-unit syer Bangunan/ Senarai tingkat- Lain-lain
 
-Surat bagi Blok bagi setiap tingkat dalam petak dalam Hakmilik petak/blok Sementara setiap setiap Petak/Blok sementara/ bangunan bangunan/ Sementara/ luas tanah petak tanah Petak Tanah setiap petak (1) (2) (3) (4) (5)
+<!-- marginal: Surat bagi -->
 
-<!-- marginal: (6) -->
+Blok bagi setiap tingkat dalam petak dalam
 
-Bangunan/ Bangunan- Bangunan: [Gunakan Ml, M2, dsb., untuk menandakan
+<!-- marginal: Hakmilik -->
+
+petak/blok Sementara setiap setiap
+
+<!-- marginal: Petak/Blok -->
+
+sementara/ bangunan bangunan/
+
+<!-- marginal: Sementara/ -->
+
+luas tanah petak tanah
+
+<!-- marginal: Petak Tanah -->
+
+setiap petak
+
+(1) (2) (3) (4) (5) (6) Bangunan/ Bangunan- Bangunan: [Gunakan Ml, M2, dsb., untuk menandakan
 
 bangunan- bangunan yang siap] Tingkat No. ... Petak ............... Ml Petak .............. (Pelan Folio Petak ............... No................... Jumlah.............. Tingkat No. ... Petak ............... M2 (Pelan Folio Petak ............... No ................... Petak ...............
 
@@ -1592,13 +1590,13 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Hakmilik Strata 1985 ("Akta 
 
 10. Fasal 11 bertujuan untuk meminda subseksyen 9(1) Akta 318 untuk membenarkan suatu permohonan dibuat untuk mendapatkan hakmilik strata bagi bangunan yang telah diklasifikasikan di bawah Akta itu sebagai bangunan khas. Bangunan ini telahpun diduduki sebelum Jun 1996 tetapi permohonan hakmilik strata tidak dapat dibuat kerana sama ada bangunan itu belum dikeluarkan Sijil Layak Menduduki atau pelan bangunan telah hilang atau musnah.
 
-11. Fasal 12 bertujuan untuk meminda seksyen 10 Akta 318 berhubung dengan pecah bahagian bangunan atau tanah berbangkit daripada pindaan seksyen 6 Akta 318.
+11. Fasal 12 bertujuan untuk meminda seksyen 10 Akta 318 berhubung dengan pecah bahagian bangunan atau tanah berbangkit daripada pindaan seksyen 6 Akta
+
+318.
 
 12. Fasal 13 bertujuan untuk meminda seksyen 1 0A Akta 318 untuk menghalang tanah dimasukkan dalam permohonan bagi pengeluaran hakmilik strata sementara.
 
-13. Fasal 14 bertujuan untuk memasukkan seksyen baru 10B ke dalam Akta 318 untuk mengadakan peruntukan bagi pengklasifikasian bangunan kos rendah dan permohonan memecah bahagi bangunan kos rendah. Kemasukan seksyen baru itu juga berkaitan dengan pemotongan seksyen 58 hingga seksyen 67 di bawah
-
-## Bahagian IX yang memperkatakan bangunan kos rendah.
+13. Fasal 14 bertujuan untuk memasukkan seksyen baru 10B ke dalam Akta 318 untuk mengadakan peruntukan bagi pengklasifikasian bangunan kos rendah dan permohonan memecah bahagi bangunan kos rendah. Kemasukan seksyen baru itu juga berkaitan dengan pemotongan seksyen 58 hingga seksyen 67 di bawah Bahagian IX yang memperkatakan bangunan kos rendah.
 
 14. Fasal 15 bertujuan untuk meminda seksyen 13 Akta 318 yang antara lainnya memperuntukkan mengenai penandaan sempadan bagi petak tanah.
 
@@ -1666,6 +1664,6 @@ Fasal ini juga memasukkan perenggan baru (e) dalam subseksyen (5) untuk mengadak
 
 Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini.
 
-[PN(U2)2539]
+<!-- marginal: [PN(U2)2539] -->
 
 ### >

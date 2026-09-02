@@ -16,7 +16,27 @@ II
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-3. Commencement of arnendments to the Income Tax Act 1967. 4. Amendment of section 18. 5. Amendment of section 34. 6. Amendment of section 43. 7. Amendment of section 44. 8. Amendment of section 46. 9. Amendment of section 47. 10. Amendment of section 48. 11. Amendment of section 49. 12. Amendment of section 50. 13. Amendment of section 60. 14. Amendment of section 60D. 15. Amendment of section 60E. 16. Amendment of section 95. 17. Amendment of Schedule 1. 18. Amendment of Schedule 3. 19. Amendment of Schedule 6.
+3. Commencement of arnendments to the Income Tax Act 1967. 4. Amendment of section 18. 5. Amendment of section 34. 6. Amendment of section 43. 7. Amendment of section 44. 8. Amendment of section 46. 9. Amendment of section 47.
+
+10. Amendment of section 48.
+
+11. Amendment of section 49.
+
+12. Amendment of section 50.
+
+13. Amendment of section 60.
+
+14. Amendment of section 60D.
+
+15. Amendment of section 60E.
+
+16. Amendment of section 95.
+
+17. Amendment of Schedule 1.
+
+18. Amendment of Schedule 3.
+
+19. Amendment of Schedule 6.
 
 ## CHAPTER
 
@@ -26,7 +46,9 @@ III
 
 ACT 1967
 
-20. Commencement of amendment to the Supplementary Income Tax Act 1967. 21. Amendment of section 16.
+20. Commencement of amendment to the Supplementary Income Tax Act 1967.
+
+21. Amendment of section 16.
 
 <!-- page 2 -->
 
@@ -36,19 +58,51 @@ IV
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX
 
-ACT 1976 22. Commencement of amendments to the Real Property Gains Tax Act 1976. 23. Amendment of section 16. 24. Amendment of section 17. 25. Amendment of section 21B. 26. Amendment of Schedule 2.
+ACT 1976
+
+22. Commencement of amendments to the Real Property Gains Tax Act 1976. 23. Amendment of section 16. 24. Amendment of section 17.
+
+25. Amendment of section 21B.
+
+26. Amendment of Schedule 2.
 
 ## CHAPTER V
 
 ## AMENDMENTS TO THE SERVICE TAX ACT 1975
 
-27. Commencement of amendments to the Service Tax Act 1975. 28. Amendment of section 3. 29. Amendment of section 4. 30. Amendment of section 7. 31. Amendment of section 8.
+27. Commencement of amendments to the Service Tax Act 1975. 28. Amendment of section 3. 29. Amendment of section 4. 30. Amendment of section 7.
+
+31. Amendment of section 8.
 
 ## CHAPTER VI
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
-32. Commencement of amendments to the Stamp Act 1949. 33. Amendment of section 2. 34. Deletion of section 34. 35. Amendment of section 42. 36. Amendment of section 43. 37. Amendment of section 44. 38. Amendment of section 45. 39. Substitution of section 47. 40. Deletion of sections 54 and 62. 41. Amendment of section 63. 42. Amendment of section 65. 43. Amendment of First Schedule. 44. Amendment of Second Schedule.
+32. Commencement of amendments to the Stamp Act 1949.
+
+33. Amendment of section 2.
+
+34. Deletion of section 34.
+
+35. Amendment of section 42.
+
+36. Amendment of section 43.
+
+37. Amendment of section 44.
+
+38. Amendment of section 45.
+
+39. Substitution of section 47.
+
+40. Deletion of sections 54 and 62.
+
+41. Amendment of section 63.
+
+42. Amendment of section 65.
+
+43. Amendment of First Schedule.
+
+44. Amendment of Second Schedule.
 
 ## CHAPTER VII
 
@@ -64,7 +118,9 @@ ACT 1976 22. Commencement of amendments to the Real Property Gains Tax Act 1976.
 
 ## (ESTATE DUTY) ACT 1980
 
-45. Commencement of this Chapter. 46. Repeal of the Estate Duty Enactment 1941, etc. and saving.
+45. Commencement of this Chapter.
+
+46. Repeal of the Estate Duty Enactment 1941, etc. and saving.
 
 <!-- page 3 -->
 
@@ -144,15 +200,45 @@ are repealed in the manner specified in Chapter VII.
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-Commence- 3. (1) Except for sections 6, 7, 11, 12 and 18 (a), this ment of Chapter shall have effect for the year of assessment 1992 amendments 10 the Income and subsequent years of assessment. Tax Act 1967. (2) Sections 6, 11, 12 and 18 (a) shall be deemed to have effect for the year of assessment 1991 and subsequent years of assessment.
+<!-- marginal: Commence- -->
+
+3. (1) Except for sections 6, 7, 11, 12 and 18 (a), this
+
+<!-- marginal: ment of -->
+
+Chapter shall have effect for the year of assessment 1992
+
+<!-- marginal: amendments -->
+
+<!-- marginal: 10 the Income -->
+
+and subsequent years of assessment.
+
+<!-- marginal: Tax Act 1967. -->
+
+(2) Sections 6, 11, 12 and 18 (a) shall be deemed to have effect for the year of assessment 1991 and subsequent years of assessment.
 
 (3) Section 7 shall be deemed to have come into force on the 1st January 1990.
 
-Amendment 4. Section 18 of the Income Tax Act 1967, which in this of section 18. Chapter is referred to as the "principal Act", is amended Act 53. by inserting, immediately after the definition of "defined value", the following new definition:
+<!-- marginal: Amendment -->
+
+4. Section 18 of the Income Tax Act 1967, which in this
+
+<!-- marginal: of section 18. -->
+
+Chapter is referred to as the "principal Act", is amended
+
+<!-- marginal: Act 53. -->
+
+by inserting, immediately after the definition of "defined value", the following new definition:
 
 4 "disabled person" means any individual certified in writing by the Department of Social Welfare to be a disabled person;'.
 
-Amendment 5. Section 34 of the principal Act is amended— of section 34.
+<!-- marginal: Amendment -->
+
+5. Section 34 of the principal Act is amended—
+
+<!-- marginal: of section 34. -->
 
 (a) in subsection (6)—
 
@@ -164,13 +250,7 @@ Amendment 5. Section 34 of the principal Act is amended— of section 34.
 
 (d), the following new paragraph (e):
 
-tl(e) an amount equal
-
-<!-- marginal: to the amount -->
-
-of expenditure incurred by the relevant person in the relevant period on the provision of any equipment necessary to assist any disabled person employed by him in the production of gross income of his
-
-<!-- marginal: from -->
+tl(e) an amount equal to the amount of expenditure incurred by the relevant person in the relevant period on the provision of any equipment necessary to assist any disabled person employed by him in the production of gross income of his from
 
 <!-- marginal: the -->
 
@@ -186,9 +266,7 @@ business."; and
 
 <!-- marginal: of section 43. -->
 
-substituting for the words ", 4A or 4B"
-
-<!-- marginal: in paragraph -->
+substituting for the words ", 4A or 4B" in paragraph
 
 (c) of subsection (1) the words "or 4A".
 
@@ -230,9 +308,19 @@ enhancing the relationship between the public sector and the private sector; or
 
 "(d) an amount limited to a maximum of three thousand ringgit expended in that basis year by that individual for the purchase of any necessary basic supporting equipment for his own use, if he is a disabled person, or for the use of his wife, child (as defined in section 48 (9)) or parent, who is a disabled person.".
 
-Amendment 9. Section 47 of the principal Act is amended by deleting of section 47. the colon and the proviso thereto in subsection (1).
+<!-- marginal: Amendment -->
 
-Amendment 10. Section 48 of the principal Act is amended— of section 48.
+9. Section 47 of the principal Act is amended by deleting
+
+<!-- marginal: of section 47. -->
+
+the colon and the proviso thereto in subsection (1).
+
+<!-- marginal: Amendment -->
+
+10. Section 48 of the principal Act is amended—
+
+<!-- marginal: of section 48. -->
 
 (a) in subsection (1)—
 
@@ -240,25 +328,21 @@ Amendment 10. Section 48 of the principal Act is amended— of section 48.
 
 (ii) by substituting for paragraph (d) the following:
 
-"(d) pays (wholly or in part) in that basis year for the maintenance at any time in that basis year of an unmarried child
-
-<!-- marginal: if -->
-
-<!-- marginal: it -->
+"(d) pays (wholly or in part) in that basis year for the maintenance at any time in that basis year of an unmarried child if it
 
 <!-- marginal: is -->
 
-proved to the satisfaction of the Director General that the child is physically
-
-<!-- marginal: or mentally -->
-
-disabled,";
+proved to the satisfaction of the Director General that the child is physically or mentally disabled,";
 
 (b) in subsection (2), by inserting, immediately after the words "one thousand" in paragraph (b), the words "six hundred"; and
 
 (c) in subsection (3), by substituting for the word "sixteen" in paragraph (a) the word "eighteen".
 
-Amertdment 11. Section 49 of the principal Act is arnended— of section 49.
+<!-- marginal: Amertdment -->
+
+11. Section 49 of the principal Act is arnended—
+
+<!-- marginal: of section 49. -->
 
 (a) by deleting the colon and the proviso thereto in subsection (1); and
 
@@ -296,35 +380,37 @@ an insurer licensed under the Offshore Insurance Act 1990,
 
 <!-- page 8 -->
 
-there may be deducted under subsection (5) (b) (ii) or (6) (b) (ii) in respect of such risks which are re-insured only ninety-five per cent of the amount which would otherwise be deductible:".
+there may be deducted under subsection
 
-Amendment 14. Section 60o of the principal Act is amended— of section 6D.
+(5) (b) (ii) or (6) (b) (ii) in respect of such risks which are re-insured only ninety-five per cent of the amount which would otherwise be deductible:".
+
+<!-- marginal: Amendment -->
+
+14. Section 60o of the principal Act is amended—
+
+<!-- marginal: of section 6D. -->
 
 (a) by substituting for the word "two" in the proviso to subsection (1) the word "three";
 
 (b) by substituting for subsection (3) the following:
 
-"(3) Where a venture capital company incurs a loss on the disposal of shares in a venture company or on the liquidation of a venture company in the basis period
-
-<!-- marginal: for a -->
-
-year of assessment, such loss shall be allowed as a deduction under section 43 (2) or 44 (2) in computing the aggregate income or total income of the venture capital company, as the case may be."; and
+"(3) Where a venture capital company incurs a loss on the disposal of shares in a venture company or on the liquidation of a venture company in the basis period for a year of assessment, such loss shall be allowed as a deduction under section 43 (2) or 44 (2) in computing the aggregate income or total income of the venture capital company, as the case may be."; and
 
 (c) by substituting for the proviso to subsection (4) the following;
 
 "Provided that where, by reason of an absence or insufficiency of such total income for that year of assessment, effect cannot be given or cannot be given in full to any deduction falling to be made to the venture capital company under this section for that year, that deduction which has not been so made shall be made to the company for any subsequent year of assessment.".
 
-Amendment 15. Section 60E of the principal Act is amended— of section
+<!-- marginal: Amendment -->
+
+15. Section 60E of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 60E.
 
 (a) by inserting, immediately after subsection (4), the following new subsection (4A):
 
-"(4A) The chargeable
-
-<!-- marginal: income of an -->
-
-approved operational headquarters company, resident in Malaysia for the basis year for a year of assessment, in relation to the source consisting of the provision of qualifying
+"(4A) The chargeable income of an approved operational headquarters company, resident in Malaysia for the basis year for a year of assessment, in relation to the source consisting of the provision of qualifying
 
 <!-- page 9 -->
 
@@ -334,9 +420,7 @@ services, after deduction of the tax thereon, shall be credited to an account
 
 by that company (that account and that company being referred to as the "exempt account" and the "relevant company" respectively)."; and
 
-(b) by substituting for subsection (6)
-
-<!-- marginal: the following: -->
+(b) by substituting for subsection (6) the following:
 
 "(6) Paragraphs 5 and 6 of Schedule 7A shall apply as if any reference in those paragraphs to any income exempted or which has become exempt under paragraph 3 were reference to income credited to the exempt account under subsection (4A) or income exempt under subsection (5).".
 
@@ -360,51 +444,7 @@ substituting for the rates appearing in Part IV the following:
 
 <!-- marginal: Rate of -->
 
-<!-- marginal: income tax -->
-
-For every ringgit of the first $10,000
-
-<!-- marginal: 4 per cent -->
-
-For every ringgit of the next $10,000
-
-<!-- marginal: 6 per cent -->
-
-For every ringgit of the next $10,000
-
-<!-- marginal: 9 per cent -->
-
-For every ringgit of the next $10,000
-
-<!-- marginal: 12 per cent -->
-
-For every ringgit of the next $10,000
-
-<!-- marginal: 15 per cent -->
-
-For every ringgit of the next $25,000
-
-<!-- marginal: 19 per cent -->
-
-For every ringgit of the next $25,000
-
-<!-- marginal: 23 per cent -->
-
-For every ringgit of the next $50,000
-
-<!-- marginal: 27 per cent -->
-
-For every ringgit of the next $100,000
-
-<!-- marginal: 30 per cent -->
-
-For every ringgit of the next $250,000
-
-<!-- marginal: 33 per cent -->
-
-For every ringgit exceeding $500,000
-
-<!-- marginal: 35 per cent". -->
+income tax For every ringgit of the first $10,000 4 per cent For every ringgit of the next $10,000 6 per cent For every ringgit of the next $10,000 9 per cent For every ringgit of the next $10,000 12 per cent For every ringgit of the next $10,000 15 per cent For every ringgit of the next $25,000 19 per cent For every ringgit of the next $25,000 23 per cent For every ringgit of the next $50,000 27 per cent For every ringgit of the next $100,000 30 per cent For every ringgit of the next $250,000 33 per cent For every ringgit exceeding $500,000 35 per cent".
 
 <!-- marginal: Amendment -->
 
@@ -450,19 +490,11 @@ taken to be the market value or the net book value of the machinery or plant, wh
 
 (c) by inserting, immediately after paragraph 32A, the following new paragraph 32B: "32s. Income of twelve thousand ringgit for the basis year for a year of assessment derived by an individual resident in Malaysia for that basis year from royalty or payment in respect of the publication of, or the use of or the right to use, any literary work."; and
 
-(d) by substituting for paragraph 35 the following: "35. Interest paid or credited
-
-<!-- marginal: to any -->
-
-individual—
+(d) by substituting for paragraph 35 the following: "35. Interest paid or credited to any individual—
 
 (a) in respect of securities or bonds issued by the Government; or
 
-(b) in respect of bonds, other
-
-<!-- marginal: than -->
-
-convertible loan stock, issued by public companies listed on the Kuala Lumpur Stock Exchange.".
+(b) in respect of bonds, other than convertible loan stock, issued by public companies listed on the Kuala Lumpur Stock Exchange.".
 
 <!-- page 12 -->
 
@@ -474,9 +506,35 @@ III
 
 ACT 1967
 
-Commence- 20. This Chapter shall have effect for the year of ment of assessment 1992 and subsequent years of assessment. amendment to the Supple- mentary Income Tax Act 1967.
+<!-- marginal: Commence- -->
 
-Amendment 21. Section 16 of the Supplementary Income Tax Act of section 16. 1967 is amended by substituting for the word "three" Act 54. appearing after the words "rate of' in paragraphs (a) and
+20. This Chapter shall have effect for the year of
+
+<!-- marginal: ment of -->
+
+assessment 1992 and subsequent years of assessment.
+
+<!-- marginal: amendment -->
+
+<!-- marginal: to the Supple- -->
+
+<!-- marginal: mentary -->
+
+<!-- marginal: Income Tax -->
+
+<!-- marginal: Act 1967. -->
+
+<!-- marginal: Amendment -->
+
+21. Section 16 of the Supplementary Income Tax Act
+
+<!-- marginal: of section 16. -->
+
+1967 is amended by substituting for the word "three"
+
+<!-- marginal: Act 54. -->
+
+appearing after the words "rate of' in paragraphs (a) and
 
 (b) the word "two".
 
@@ -486,7 +544,37 @@ IV
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX
 
-ACT 1976 Commence- 22. This Chapter shall be deemed to have come into ment of force on the 1st November 1991. amendments to the Real Property Gains Tax Act 1976. Amendment 23. Section 16 of the Real Property Gains Tax Act 1976, of section 16. which in this Chapter is referred to as the "principal Act 169. Act", is amended—
+ACT 1976
+
+<!-- marginal: Commence- -->
+
+22. This Chapter shall be deemed to have come into
+
+<!-- marginal: ment of -->
+
+force on the 1st November 1991.
+
+<!-- marginal: amendments -->
+
+<!-- marginal: to the Real -->
+
+<!-- marginal: Property -->
+
+<!-- marginal: Gains Tax -->
+
+<!-- marginal: Act 1976. -->
+
+<!-- marginal: Amendment -->
+
+23. Section 16 of the Real Property Gains Tax Act 1976,
+
+<!-- marginal: of section 16. -->
+
+which in this Chapter is referred to as the "principal
+
+<!-- marginal: Act 169. -->
+
+Act", is amended—
 
 (a) in subsection (1)—
 
@@ -562,7 +650,11 @@ by substituting for paragraphs (a) and (b) the following:
 
 (b) any prescribed goods (hereafter in this Act referred to as "taxable goods") sold or provided either by or in any prescribed professional establishment or prescribed establishment.".
 
-Amendment 29. Section 4 of the principal Act is amended— of section 4.
+<!-- marginal: Amendment -->
+
+29. Section 4 of the principal Act is amended—
+
+<!-- marginal: of section 4. -->
 
 (a) by inserting, immediately after the words "the charge", the word ", premium";
 
@@ -570,15 +662,9 @@ Amendment 29. Section 4 of the principal Act is amended— of section 4.
 
 (i) by renumbering the existing sub- paragraph (ii) as subparagraph (iii);
 
-(ii) by inserting, immediately after sub- paragraph (i), the
+(ii) by inserting, immediately after sub- paragraph (i), the following new subparagraph (ii):
 
-<!-- marginal: following new -->
-
-subparagraph (ii):
-
-"(ii) the premium
-
-<!-- marginal: for -->
+"(ii) the premium for
 
 <!-- marginal: insurance -->
 
@@ -586,15 +672,39 @@ coverage;"; and
 
 (iii) by inserting, immediately after the words "no charge" and "the charge" in the renumbered subparagraph (iii), the words "or premium".
 
-Amendment 30. Section 7 of the principal Act is amended by of section 7. substituting for the words "in any" the words "either in any prescribed professional establishment or".
+<!-- marginal: Amendment -->
 
-Amendment 31. Section 8 of the principal Act is amended by of section 8. substituting for the words "in any" in subsection (1) the words "either in any prescribed professional establishment or".
+30. Section 7 of the principal Act is amended by
+
+<!-- marginal: of section 7. -->
+
+substituting for the words "in any" the words "either in any prescribed professional establishment or".
+
+<!-- marginal: Amendment -->
+
+31. Section 8 of the principal Act is amended by
+
+<!-- marginal: of section 8. -->
+
+substituting for the words "in any" in subsection (1) the words "either in any prescribed professional establishment or".
 
 ## CHAPTER VI
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
-Commence- 32. This Chapter shall be deemed to have come into ment of force on the 1st January 1992, amendments to the Stamp Act 1949.
+<!-- marginal: Commence- -->
+
+32. This Chapter shall be deemed to have come into
+
+<!-- marginal: ment of -->
+
+force on the 1st January 1992,
+
+<!-- marginal: amendments -->
+
+<!-- marginal: to the Stamp -->
+
+<!-- marginal: Act 1949. -->
 
 <!-- page 15 -->
 
@@ -670,25 +780,35 @@ section 47 the following:
 
 <!-- page 16 -->
 
-Amendment 41. Section 63 of the principal Act is amended by of section 63. deleting the words "bill of exchange," in paragraph (c).
+<!-- marginal: Amendment -->
 
-Amendment 42. Section 65 of the principal Act is amended— of section 65.
+41. Section 63 of the principal Act is amended by
+
+<!-- marginal: of section 63. -->
+
+deleting the words "bill of exchange," in paragraph (c).
+
+<!-- marginal: Amendment -->
+
+42. Section 65 of the principal Act is amended—
+
+<!-- marginal: of section 65. -->
 
 (a) in paragraph (a), by deleting the words "any bill of exchange or"; and
 
 (b) in paragraphs (a) and (b), by deleting the words "bill or".
 
-Amendment 43. The First Schedule to the principal Act is amended— of First
+<!-- marginal: Amendment -->
+
+43. The First Schedule to the principal Act is amended—
+
+<!-- marginal: of First -->
 
 ## Schedule.
 
 (a) by deleting items 17. 18 and 19;
 
-(b) by substituting for the full stop at the end of paragraph (c) of the exemptions under item 32 a semicolon and inserting,
-
-<!-- marginal: immediately -->
-
-thereafter, the following new paragraph (d)\
+(b) by substituting for the full stop at the end of paragraph (c) of the exemptions under item 32 a semicolon and inserting, immediately thereafter, the following new paragraph (d)\
 
 "(d) Transfer or assignment on sale of any copyright, trade mark, patent or any similar right";
 
@@ -698,7 +818,13 @@ thereafter, the following new paragraph (d)\
 
 (d) by deleting item 64.
 
-Amendment 44. The Second Schedule to the principal Act is of Second amended—
+<!-- marginal: Amendment -->
+
+44. The Second Schedule to the principal Act is
+
+<!-- marginal: of Second -->
+
+amended—
 
 ## Schedule.
 
@@ -854,12 +980,12 @@ Act 1976 16. Clause 25 seeks to substitute paragraph (a) of section 21B(l) to pr
 
 ## Chapter VII—Repeal of the Estate Duty Enactment 1941,
 
-the Estate Duty Ordinance of Sabah, the Estate Duty Ordinance of Sarawak, the Finance (Estate Duty) Act 1965, the Finance (Estate Duty) Act 1971, the Finance (Estate Duty) Act 1979 and the Finance (Estate Duty) Act 1980 20. This Chapter seeks to abolish estate duty with effect from the 1st November 1991. The repeal, however, shall not affect the operation of the repealed laws in regard to a person dying before the Ist November 1991.
+the Estate Duty Ordinance of Sabah, the Estate Duty Ordinance of Sarawak, the Finance (Estate Duty) Act 1965, the Finance (Estate Duty) Act 1971, the Finance (Estate Duty) Act 1979 and the Finance (Estate Duty) Act 1980
+
+20. This Chapter seeks to abolish estate duty with effect from the 1st November 1991. The repeal, however, shall not affect the operation of the repealed laws in regard to a person dying before the Ist November 1991.
 
 ## FINANCIAL
 
 ## IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure.
-
-<!-- marginal: [PN. (U2) 1691.] -->
+This Bill will not involve the Government in any extra financial expenditure. [PN. (U2) 1691.]

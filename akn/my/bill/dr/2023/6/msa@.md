@@ -18,13 +18,11 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Bab baharu Xa
 
-2. Kanun Tatacara Jenayah [Akta 593], yang disebut sebagai “Kanun” dalam Akta ini, dipinda dengan memasukkan selepas
-
-## Bab X bab yang berikut:
+2. Kanun Tatacara Jenayah [Akta 593], yang disebut sebagai “Kanun” dalam Akta ini, dipinda dengan memasukkan selepas Bab X bab yang berikut:
 
 <!-- page 2 -->
 
-“Chapter Xa
+## “CHAPTER XA
 
 ## PROTECTION ORDER IN CASES OF STALKING
 
@@ -80,9 +78,7 @@ Penal Offence Whether Whether a Whether
 
 <!-- marginal: Maximum -->
 
-Code the police warrant or bailable or
-
-<!-- marginal: compoundable -->
+Code the police warrant or bailable or compoundable
 
 <!-- marginal: punishment -->
 

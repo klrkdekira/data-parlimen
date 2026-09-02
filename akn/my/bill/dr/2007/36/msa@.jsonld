@@ -43,9 +43,13 @@
       "eli:number": "1",
       "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/msa@/~cl_1__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "( 1 ) Akta ini bolehlah dinamakan Akta Pilihan Raya (Pindaan)"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "( 1 ) Akta ini bolehlah dinamakan Akta Pilihan Raya (Pindaan) 2007."
+        "@value": "2007."
       }
     },
     {

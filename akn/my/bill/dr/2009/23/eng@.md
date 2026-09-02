@@ -8,25 +8,39 @@ Liability Partnerships
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
-PrELIMINarY 1. Short title and commencement 2. Interpretation
+## PRELIMINARY
 
-## Part II
+1. Short title and commencement
 
-aDMINIStratION OF tHE aCt
+2. Interpretation
+
+## PART II
+
+## ADMINISTRATION OF THE ACT
 
 3. Administration of the Act
 
-## Part III
+## PART III
 
-LaBUaN LIMItED PartNErSHIPS
+## LABUAN LIMITED PARTNERSHIPS
 
 ## Chapter 1
 
 Establishment of Labuan limited partnership
 
-4. Labuan limited partnership 5. Registration of Labuan limited partnership 6. Amendment of partnership agreement 7. Name of Labuan limited partnership 8. Change of name of Labuan limited partnership 9. Registered office of Labuan limited partnership
+4. Labuan limited partnership
+
+5. Registration of Labuan limited partnership
+
+6. Amendment of partnership agreement
+
+7. Name of Labuan limited partnership
+
+8. Change of name of Labuan limited partnership
+
+9. Registered office of Labuan limited partnership
 
 ## Chapter 2
 
@@ -76,9 +90,9 @@ Dissolution of Labuan limited partnership
 
 28. Settling accounts on dissolution
 
-## Part Iv
+## PART IV
 
-LaBUaN LIMItED LIaBILItY PartNErSHIPS
+## LABUAN LIMITED LIABILITY PARTNERSHIPS
 
 ## Chapter 1
 
@@ -196,7 +210,7 @@ Dissolution of Labuan limited liability partnership
 
 Liability Partnerships
 
-## Part V
+## PART V
 
 ## GENERAL
 
@@ -256,7 +270,7 @@ An Act to provide for the establishment, regulation and dissolution of Labuan li
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -364,7 +378,7 @@ Liability Partnerships
 
 their partnership interests, as they fall due, out of the assets of the Labuan limited partnership without recourse to the separate assets of a general partner not contributed to the Labuan limited partnership, and “solvent” shall be construed accordingly.
 
-## Part II
+## PART II
 
 ## ADMINISTRATION OF THE ACT
 
@@ -378,7 +392,9 @@ their partnership interests, as they fall due, out of the assets of the Labuan l
 
 (4) All courts, judges and persons acting judicially shall take judicial notice of the seal of the Authority.
 
-P art III
+P
+
+## ART III
 
 ## LABUAN LIMITED PARTNERSHIPS
 
@@ -870,9 +886,9 @@ order of the court to be served on the Authority within thirty days after the ma
 
 (e) to general partners in respect of their share of profits.
 
-## Part IV
+## PART IV
 
-LaBUaN LIMItED LIaBILItY PartNErSHIPS
+## LABUAN LIMITED LIABILITY PARTNERSHIPS
 
 ## Chapter 1
 
@@ -1016,11 +1032,7 @@ Liability Partnerships
 
 38. (1) On and from the date of registration specified in the certificate of registration issued under subsection 37(1) (referred to in this section as the “date of registration”)—
 
-(a) there shall be a Labuan limited liability partnership by the name specified in the certificate of registration registered under this Act, with all the attributes described in
-
-## Part Iv of this Act and subject to the provisions of
-
-this Act;
+(a) there shall be a Labuan limited liability partnership by the name specified in the certificate of registration registered under this Act, with all the attributes described in Part Iv of this Act and subject to the provisions of this Act;
 
 (b) all movable and immovable properties vested in the Labuan limited partnership or Labuan company, all interests, rights, privileges, liabilities and obligations relating to the Labuan limited partnership or Labuan company, and the whole of the undertaking of the Labuan limited partnership or Labuan company, as the case may be, shall be transferred to and shall vest in the Labuan limited liability partnership without further assurance, act or deed;
 
@@ -1580,9 +1592,9 @@ affected by the dissolution, be restored to the same position, to the extent pos
 
 (4) Upon revocation of the dissolution under subsection (1), the Labuan limited liability partnership shall notify the Authority by serving the sealed copy of the order on the Authority.
 
-## Part V
+## PART V
 
-GENEraL
+## GENERAL
 
 ### Accounts to be kept
 
@@ -1874,7 +1886,7 @@ if the act was done in good faith and in a reasonable belief that it was necessa
 
 This Bill seeks to provide for the establishment, regulation and dissolution of Labuan limited partnerships and Labuan limited liability partnerships and for matters connected therewith or incidental thereto.
 
-## Part I
+## PART I
 
 2. Part I of the Bill contains preliminary matters.
 
@@ -1882,7 +1894,7 @@ This Bill seeks to provide for the establishment, regulation and dissolution of 
 
 4. Clause 2 defines certain words and expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 5. Clause 3 seeks to provide that the proposed Act is to be administered by the Authority.
 
@@ -1890,7 +1902,7 @@ This Bill seeks to provide for the establishment, regulation and dissolution of 
 
 Liability Partnerships
 
-## Part III
+## PART III
 
 6. Part III of the Bill contains provisions on the establishment, management and dissolution of a Labuan limited partnership.
 
@@ -1950,7 +1962,7 @@ Clause 27 seeks to empower the court to order the dissolution of a Labuan limite
 
 Liability Partnerships
 
-## Part Iv
+## PART IV
 
 29. Part Iv of the Bill contains provisions on the establishment, management and dissolution of a Labuan limited liability partnership, conversion to a Labuan limited liability partnership and recognized limited liability partnership.
 
@@ -2024,9 +2036,9 @@ Liability Partnerships
 
 61. Clause 69 empowers the High Court to make an order to revoke the dissolution of a Labuan limited liability partnership if certain requirements are met.
 
-## Part v
+## PART V
 
-## Part v of the Bill contains general provisions.
+Part v of the Bill contains general provisions.
 
 <!-- page 78 -->
 

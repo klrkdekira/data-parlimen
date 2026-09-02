@@ -420,7 +420,7 @@ AM
 
 ### menamatkan perkhidmatan pegawai
 
-### itu mulai dari
+<!-- marginal: itu mulai dari -->
 
 <!-- marginal: tarikh yang -->
 
@@ -808,7 +808,7 @@ AM
 
 27.
 
-(1) Lembaga boleh dari semasa ke semasa mengeluarkan
+### (1) Lembaga boleh dari semasa ke semasa mengeluarkan
 
 ### apa-apa arahan pentadbiran berhubung dengan kelakuan dan tatatertib
 
@@ -970,7 +970,9 @@ f "sabitan" atau "disabitkan", berhubung dengan seseorang pegawai, ertinya , sua
 
 <!-- marginal: ah Syadriah, -->
 
-I lang uasa WI awa awa mana-mana un ang-un ang
+I lang uasa WI awa
+
+<!-- marginal: awa mana-mana un ang-un ang -->
 
 <!-- marginal: d -->
 
@@ -1384,11 +1386,7 @@ Ketua Jabatannya hendaklah mengemukakan suatu laporan kepada Jawatankuasa Tatate
 
 ### (Tatatertib Dan Surcaj)
 
-j hendaklah melaporkan perkara itu kepada Jawatankuasa Tatatertib yang berkenaan "dan Jawatankuasa Tatatertib itu hendaklah memulakan prosiding tatatertib terhadap pegawai itu. ~
-
-(6) Jika pegawai itu tidak melaporkan diri untuk bertugas dalam masa tujuh , bari dari tarikh penyiaran notis yang disebut dalam subperaturan (4), pegawai f·dtu hendaklah disifatkan telah dibuang kerja daripada perkhidmatan badan berkanun l berkuat kuasa mulai dari tarikh dia tidak hadir bertugas. 1':' ~
-
-(7) Pembuangan kerja seseorang pegawai menurut kuasa subperaturan (6) hendaklah diberitahukan dalam Warta.
+j hendaklah melaporkan perkara itu kepada Jawatankuasa Tatatertib yang berkenaan "dan Jawatankuasa Tatatertib itu hendaklah memulakan prosiding tatatertib terhadap pegawai itu. ~ (6) Jika pegawai itu tidak melaporkan diri untuk bertugas dalam masa tujuh , bari dari tarikh penyiaran notis yang disebut dalam subperaturan (4), pegawai f·dtu hendaklah disifatkan telah dibuang kerja daripada perkhidmatan badan berkanun l berkuat kuasa mulai dari tarikh dia tidak hadir bertugas. 1':' ~ (7) Pembuangan kerja seseorang pegawai menurut kuasa subperaturan (6) hendaklah diberitahukan dalam Warta.
 
 Pelucuthakan emolumen kerana tidak hadir untuk bertugas
 
@@ -1590,9 +1588,7 @@ hendaklah, sebelum memulakan apa-apa prosiding tatatertib berkenaan dengan pegaw
 
 ### (Tatatertib Dan Surcaj)
 
-## Bab 2-Prosiding tatatertib tidak dengan tujuan
-
-buang kerja atau turun pang kat
+Bab 2-Prosiding tatatertib tidak dengan tujuan buang kerja atau turun pang kat
 
 ### Tatacara dalam kes-kes tatatertib tidak dengan tujuan buang kerja atau
 
@@ -1630,7 +1626,9 @@ dan alasan-alasan yang berdasarkannya pegawai itu dicadangkan supaya dibuang ker
 
 (b) memanggil pegawai itu untuk membuat, dalam tempoh dua puluh satu hari dari tarikh dia menerima pertuduhan itu, suatu representasi bertulis yang mengandungi alasan-alasan yang padanya dia bergantung untuk membebaskan dirinya.
 
-(3) lika, setelah menimbangkan representasi yang dibuat menurut subperaturan (1), lawatankuasa Tatatertib yang berkenaan berpendapat bahawa kesalahan tatatertib yang dilakukan oleh pegawai itu tidak mewajarkan hukuman buang kerja atau turun pangkat, lawatankuasa Tatatertib yang berkenaan boleh mengenakan ke atas pegawai itu apa-apa hukuman yang lebih ringan yang dinyatakan dalam peraturan 40 sebagaimana yang difikirkan sesuai oleh lawatankuasa Tatatertib itu.
+(3) lika, setelah menimbangkan representasi yang dibuat menurut subperaturan
+
+(1), lawatankuasa Tatatertib yang berkenaan berpendapat bahawa kesalahan tatatertib yang dilakukan oleh pegawai itu tidak mewajarkan hukuman buang kerja atau turun pangkat, lawatankuasa Tatatertib yang berkenaan boleh mengenakan ke atas pegawai itu apa-apa hukuman yang lebih ringan yang dinyatakan dalam peraturan 40 sebagaimana yang difikirkan sesuai oleh lawatankuasa Tatatertib itu.
 
 (4) lika pegawai itu tidak membuat apa-apa representasi dalam tempoh yang dinyatakan dalam perenggan (2)(b), ataujika pegawai itu telah membuat representasi sedemikian tetapi representasi itu tidak dapat membersihkan dirinya sehingga memuaskan hati lawatankuasa Tatatertib yang berkenaan, lawatankuasa Tatatertib itu hendaklah terns menimbangkan dan membuat keputusan tentang pembuangan kerja atau penurunan pangkat pegawai itu.
 
@@ -1660,11 +1658,7 @@ Tatacara yang hendaklah diikuti oleh Jawatankuasa Penyiasatan
 
 (3) Jika saksi-saksi telah dipanggil dan diperiksa oleh Jawatankuasa Penyiasatan, pegawai itu hendaklah diberi peluang untuk hadir dan untuk menyoal balas saksi-saksi bagi pihak dirinya.
 
-(4) Tiada keterangan dokumentar boleh digunakan terhadap seseorang pegawai itu telah sebelum itu dibekali dengan satu salinan melainkan jika pegawai
-
-### ! kel;;:n::a:~':::ate~::y~~:::~:::e:e::::::::::.::~:~ b"kannn atau
-
-~ fc pegawai itu diwakili oleh seorang pegawai badan berkanun atau, dalam hal yang , luar biasa, oleh seorang peguambela dan peguamcara,
+(4) Tiada keterangan dokumentar boleh digunakan terhadap seseorang pegawai itu telah sebelum itu dibekali dengan satu salinan melainkan jika pegawai ~ fc pegawai itu diwakili oleh seorang pegawai badan berkanun atau, dalam hal yang , luar biasa, oleh seorang peguambela dan peguamcara,
 
 <!-- marginal: tetapi Jawatankuasa -->
 
@@ -1672,9 +1666,7 @@ Tatacara yang hendaklah diikuti oleh Jawatankuasa Penyiasatan
 
 ### ~,
 
-penangguhan yang munasabah dan perlu bagi membolehkan pegawai itu untuk ~ . membentangkan kesnya sendiri. ~,
-
-(6) Jika Jawatankuasa Penyiasatan membenarkan badan berkanun itu diwakili,
+penangguhan yang munasabah dan perlu bagi membolehkan pegawai itu untuk ~ . membentangkan kesnya sendiri. ~, (6) Jika Jawatankuasa Penyiasatan membenarkan badan berkanun itu diwakili,
 
 ### r
 
@@ -2324,59 +2316,55 @@ Kementerian (Pentadbiran)
 
 <!-- marginal: JAWATANKUASA -->
 
-<!-- marginal: RAYUAN TATATERTIB -->
+## RAYUAN TATATERTIB
 
-<!-- marginal: Keanggotaan Jawatankuasa -->
+Keanggotaan Jawatankuasa
 
-Kategori Pegawai Bidang Kuasa Keanggotaan Jawatankuasa
+<!-- marginal: Kategori Pegawai -->
 
-<!-- marginal: Tatatertib -->
+Bidang Kuasa Keanggotaan Jawatankuasa Tatatertib
 
 <!-- marginal: Rayuan Tatatertib -->
 
-Kumpulan Sokongan
+<!-- marginal: Kumpulan Sokongan -->
 
 ### Pengerusi:
 
-<!-- marginal: Pengerusi: -->
+### Pengerusi:
 
-Tindakan tatatertib dengan tujuan buang kerja atau turun pangkat Ketua Pengarah
+Tindakan tatatertib dengan tujuan buang kerja atau turun pangkat Ketua Pengarah Ketua Setiausaha Kementerian
 
-<!-- marginal: Ketua Setiausaha Kementerian -->
+<!-- marginal: Kumpulan B, C dan D di -->
 
-Kumpulan B, C dan D di ~
+~
 
 <!-- marginal: l:l -->
 
-bawah Laporan Jawatankuasa ~
+<!-- marginal: bawah Laporan Jawatankuasa -->
+
+~
 
 <!-- marginal: O'Q -->
 
-Kabinet 1976
+<!-- marginal: Kabinet 1976 -->
 
 ### Anggota:
 
-<!-- marginal: Anggota: -->
+### Anggota:
 
 ### ~
 
-<!-- marginal: 2 orang anggota Lembaga, -->
-
-Timbalan Ketua Setiausaha
+2 orang anggota Lembaga, Timbalan Ketua Setiausaha
 
 ### ~
 
-~. Kementerian (Pentadbiran)
-
-<!-- marginal: yang dilantik oleh Pengerusi -->
+~. Kementerian (Pentadbiran) yang dilantik oleh Pengerusi
 
 <!-- marginal: O'Q -->
 
 <!-- marginal: I -->
 
-<!-- marginal: Lembaga -->
-
-Penasihat Undang-Undang
+Lembaga Penasihat Undang-Undang
 
 ### ~
 

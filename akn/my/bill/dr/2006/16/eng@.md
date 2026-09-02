@@ -94,7 +94,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 4 -->
 
-(c) in subsection (2), by inserting after the words "subsection (1)" the words "or (1A)";
+(c) in subsection (2), by inserting after the words "subsection
+
+(1)" the words "or (1A)";
 
 (d) by inserting after subsection (2) the following subsection:
 

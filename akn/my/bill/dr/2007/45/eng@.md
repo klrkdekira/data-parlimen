@@ -26,7 +26,9 @@
 
 ## OBJECTS, POWERS AND SOCIAL OBLIGATIONS OF THE BANK
 
-10. Objects and powers of the Bank 11. Social obligations
+10. Objects and powers of the Bank
+
+11. Social obligations
 
 ## PART V
 
@@ -312,15 +314,7 @@ of the staff of the Bank Pertanian Malaysia and who was given an option by the B
 
 ### direction
 
-12. The Minister of Agriculture and Agro-Based
-
-<!-- marginal: Industry may, -->
-
-from time to time, give directions to the Board
-
-<!-- marginal: in respect of -->
-
-agriculture policies to be pursued by the Bank and
+12. The Minister of Agriculture and Agro-Based Industry may, from time to time, give directions to the Board in respect of agriculture policies to be pursued by the Bank and
 
 <!-- marginal: the Board -->
 

@@ -22,7 +22,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 2 -->
 
-### Pindaan am
+<!-- marginal: Pindaan am -->
 
 3. Akta ibu dipinda—
 
@@ -330,7 +330,7 @@ melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi sa
 
 13. Akta ibu dipinda dengan memasukkan selepas Bahagian V Bahagian yang berikut:
 
-“bahagian Va
+## “BAHAGIAN VA
 
 ## PENGUATKUASAAN
 

@@ -50,57 +50,11 @@ B. 6 Jabatan Perdana Menteri 104,556,731 B. 15 Kementerian Luar Neaeri
 
 Perbekalan (Penguntukan Semula Peruntukan Perbelanjaan)
 
-<!-- marginal: Amaun -->
-
-Maksud Tajuk
-
-<!-- marginal: (RM) -->
-
-B 20 Kementerian Perusahaan Perladangan dan
-
-<!-- marginal: 8,000,000 -->
-
-Komoditi . B 23 Kementerian Sumber Asli dan Alam Sekitar
-
-<!-- marginal: 236,992,555 -->
-
-B 26 Kementerian Pembangunan Usahawan dan
-
-<!-- marginal: 30,535,324 -->
-
-Koperasi . B 29 Kementerian Tenaga, Air dan Komunikasi
-
-<!-- marginal: 21,999,161 -->
-
-B 30 Kementerian Sains, Teknologi dan Inovasi
-
-<!-- marginal: 17,431,399 -->
-
-B 31 Kementerian Pelancongan
-
-<!-- marginal: 330,518,346 -->
-
-B 49 Kementerian Pembangunan Wanita, Keluarga
-
-<!-- marginal: 273,834,343 -->
-
-dan Masyarakat . B 52 Kementerian Keselamatan Dalam Negeri
-
-<!-- marginal: 2,671,254,341 -->
-
-B 70 Kementerian Pengajian Tinggi
-
-<!-- marginal: 3,893,671,706 -->
-
-B 71 Kementerian Wilayah Persekutuan
-
-<!-- marginal: 46,318,547 -->
-
-.
+Amaun Maksud Tajuk (RM) B 20 Kementerian Perusahaan Perladangan dan 8,000,000 Komoditi . B 23 Kementerian Sumber Asli dan Alam Sekitar 236,992,555 B 26 Kementerian Pembangunan Usahawan dan 30,535,324 Koperasi . B 29 Kementerian Tenaga, Air dan Komunikasi 21,999,161 B 30 Kementerian Sains, Teknologi dan Inovasi 17,431,399 B 31 Kementerian Pelancongan 330,518,346 B 49 Kementerian Pembangunan Wanita, Keluarga 273,834,343 dan Masyarakat . B 52 Kementerian Keselamatan Dalam Negeri 2,671,254,341 B 70 Kementerian Pengajian Tinggi 3,893,671,706 B 71 Kementerian Wilayah Persekutuan 46,318,547 .
 
 ## JUMLAH
 
-<!-- marginal: 7,639,139,369 -->
+7,639,139,369
 
 ## HURA1AN
 
@@ -180,25 +134,11 @@ Purpose Title
 
 <!-- marginal: (RM) -->
 
-B. 49 Ministry of Women, Family and Community
-
-<!-- marginal: 273,834,343 -->
-
-Development B. 52 Ministry of Internal Security
-
-<!-- marginal: 2,671,254,341 -->
-
-B. 70 Ministry of Higher Education
-
-<!-- marginal: 3,893,671,706 -->
-
-B. 71 Ministry of Federal Territories
-
-<!-- marginal: 46,318,547 -->
+B. 49 Ministry of Women, Family and Community 273,834,343 Development B. 52 Ministry of Internal Security 2,671,254,341 B. 70 Ministry of Higher Education 3,893,671,706 B. 71 Ministry of Federal Territories 46,318,547
 
 ## TOTAL
 
-<!-- marginal: 7,639,139,369 -->
+7,639,139,369
 
 ## EXPLANATORY STATEMENT
 

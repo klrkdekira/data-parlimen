@@ -16,7 +16,17 @@
 
 ## COMPLAINTS COMMISSION
 
-3. Establishment of the Commission 4. Constitution of the Commission 5. Tenure of office 6. Allowances 7. Temporary exercise of functions of Chairman 8. Revocation of appointment and resignation 9. Vacation of office 10. Protection from personal liability 11. Application of Schedule 12. Delegation of functions and powers 13. Establishment of committees 14. Responsibility of enforcement agency
+3. Establishment of the Commission 4. Constitution of the Commission 5. Tenure of office 6. Allowances 7. Temporary exercise of functions of Chairman 8. Revocation of appointment and resignation 9. Vacation of office
+
+10. Protection from personal liability
+
+11. Application of Schedule
+
+12. Delegation of functions and powers
+
+13. Establishment of committees
+
+14. Responsibility of enforcement agency
 
 ## PART III
 
@@ -30,13 +40,35 @@
 
 ## DEALING WITH COMPLAINTS BY THE COMMISSION
 
-16. Determination of the nature of complaint 17. Preliminary investigation 18. Report by the appropriate Disciplinary Authority 19. Report by the appropriate enforcement agency 20. Duty to submit investigation paper by Task Force 21. Further investigation on the complaint by Task Force 22. Commission to refer investigation paper to Public Prosecutor or Disciplinary Authority 23. Follow up by the Commission 24. Commission to inform the complainant
+16. Determination of the nature of complaint
+
+17. Preliminary investigation
+
+18. Report by the appropriate Disciplinary Authority
+
+19. Report by the appropriate enforcement agency
+
+20. Duty to submit investigation paper by Task Force
+
+21. Further investigation on the complaint by Task Force
+
+22. Commission to refer investigation paper to Public Prosecutor or Disciplinary Authority
+
+23. Follow up by the Commission
+
+24. Commission to inform the complainant
 
 ## PART V
 
 ## ADMINISTRATION
 
-25. The Chief Executive Officer 26. Appointment of the staff 27. Establishment of the Task Force 28. Power to engage consultants, technical advisors, etc.
+25. The Chief Executive Officer
+
+26. Appointment of the staff
+
+27. Establishment of the Task Force
+
+28. Power to engage consultants, technical advisors, etc.
 
 ## PART VI
 
@@ -44,7 +76,27 @@
 
 ## THE TASK FORCE
 
-29. Power of investigation 30. Authority card 31. Search and seizure with warrant 32. Search and seizure without warrant 33. Power to enter premises 34. Seizure of thing, etc. 35. Power to stop, search and seize conveyances 36. List of things seized 37. Power to require attendance of persons acquainted with case 38. Examination of persons acquainted with case 39. Release of seized conveyance, etc.
+29. Power of investigation
+
+30. Authority card
+
+31. Search and seizure with warrant
+
+32. Search and seizure without warrant
+
+33. Power to enter premises
+
+34. Seizure of thing, etc.
+
+35. Power to stop, search and seize conveyances
+
+36. List of things seized
+
+37. Power to require attendance of persons acquainted with case
+
+38. Examination of persons acquainted with case
+
+39. Release of seized conveyance, etc.
 
 <!-- page 3 -->
 
@@ -112,7 +164,11 @@ ENACTED by the Parliament of Malaysia as follows:
 
 "Disciplinary Authority", in relation to an enforcement officer in —
 
-(a) a Federal Ministry, means the appropriate Disciplinary Authority established under Part X of the Federal Constitution but does not include the Armed Forces Council established under Article 137 of the Federal Constitution;
+(a) a Federal Ministry, means the appropriate Disciplinary Authority established under Part X of
+
+<!-- marginal: the Federal -->
+
+Constitution but does not include the Armed Forces Council established under Article 137 of the Federal Constitution;
 
 <!-- page 6 -->
 
@@ -448,7 +504,9 @@ the Commission may direct the Task Force to conduct further investigation on the
 
 <!-- marginal: the -->
 
-Commission shall record its decision and shall inform
+Commission shall record its decision and shall
+
+<!-- marginal: inform -->
 
 <!-- marginal: the -->
 
@@ -632,7 +690,9 @@ document or other article in respect of which a misconduct has been committed is
 
 (3) A person making a statement under this section shall be legally bound to state the truth, whether or not such statement is made wholly or partly in answer to the questions.
 
-(4) The member of the Commission, the Chief Executive Officer or member of the Task Force examining a person under subsection (1) shall first inform that person of the provisions of subsections (2) and (3).
+(4) The member of the Commission, the Chief Executive Officer or member of the Task Force examining a person under subsection
+
+(1) shall first inform that person of the provisions of subsections (2) and (3).
 
 (5) A statement made by any person under this section shall, wherever possible, be reduced into writing and signed by the person making it or affixed with his thumbprint, as the case may be-
 

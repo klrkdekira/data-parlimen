@@ -1,0 +1,226 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-1-1993",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_8"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Constitution (Amendment) Bill 1993"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Constitution si (Amendment) Act 1993."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Clause (1) of Article 32 of the Federal Constitution"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "is amended by inserting, after the word \"court\", the words \"in respect only of anything done or omitted to be done by him in the exercise or purported exercise of his functions under any written law\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 38 of the Federal Constitution is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (2) (i) by substituting for the comma at the end of paragraph (c) a semi-colon; and (ii) by inserting, after paragraph (c), the following paragraphs: \"(d) appointing members of the Special Court under Clause (6) of Article 181; (e) granting pardons, reprieves and respites, or of remitting, sus- pending or commuting sentences, under Clause (12) of Article 42,\"; and BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_3__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_3__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_3__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (6)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_3__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_3__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word \"or\" after the semi- colon at the end of paragraph (c);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_3__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_3__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the full stop at the end of paragraph (d) a semi-colon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_3__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_3__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting, after paragraph (d), the following paragraphs: \"(e) the appointment of members of the Special Court under Clause (6) of Article 181; or (f) the granting of pardons, reprieves and respites, or of remitting, suspending or commuting sentences, under Clause (12) of Article 42.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 42 of the Federal Constitution is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "inserting, after Clause (11), the following Clauses: \"(12) Notwithstanding anything contained in this Constitution, where the powers mentioned in this Article (a) are exercisable by the Yang di-Pertua Negeri of a State and are to be exercised in respect of himself or his wife, son or daughter, such powers shall be exercised by the Yang di-Pertuan Agong acting on the advice of the Pardons Board constituted for that State under this Article and which shall be presided over by him; (b) are to be exercised in respect of the Yang di-Pertuan Agong, the Ruler of a State, or his Consort, as the case may be, such powers shall be exercised by the Conference of Rulers and the following provisions shall apply: (i) when attending any proceedings under this Clause, the Yang di-Pertuan Agong shall not be accompanied by the Prime Minister and the other Rulers shall not be accompanied by their Menteri-Menteri Besar; (ii) before arriving at its decision on any matter under this Clause, Conference of Rulers shall consider any written opinion which Attorney General may have delivered thereon; (c) are to be exercised by the Yang di-Pertuan Agong or the Ruler of a State in respect of his son or daughter, as the case may be, such powers shall be exercised by the Ruler of a State nominated by the Conference of Rulers who shall act in accordance with the advice of the relevant Pardons Board constituted under this Article. (13) For the purpose of paragraphs (b) and (c) of Clause (12), the Yang di-Pertuan Agong or the Ruler of the State concerned, as the case may be, and the Yang di-Pertua-Yang di-Pertua Negeri shall not be members of the Conference of Rulers.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 63 of the Federal Constitution is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "inserting, after Clause (4), the following Clause: \"(5) Notwithstanding Clause (4), no person shall be liable to any proceedings in any court in respect of anything said by him of the Yang di-Pertuan Agong or a Ruler when taking part in any proceedings of either House of Parliament or any committee thereof except where he advocates the abolition of the constitutional position of the Yang di-Pertuan Agong as the Supreme Head of the Federation or the constitutional position of the Ruler of a State, as the case may be.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 72 of the Federal Constitution is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "inserting, after Clause (4), the following Clause: \"(5) Notwithstanding Clause (4), no person shall be liable to any proceedings in any court in respect of anything said by him of the Ruler of any BILL State when taking part in any proceedings of the Legislative Assembly of any State or any committee thereof except where he advocates the abolition of the Ruler's position as the constitutional Ruler of that State.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 181 of the Federal Constitution is amended—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "181."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (2), by substituting for the words \"in his personal capacity\" the words \"in respect only of anything done or omitted to be done by him in the exercise or purported exercise of his functions under any written law\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting, after Clause (2), the following Clauses: \"(3) Any law which provides for the immunity of the Ruler of a State in his personal capacity from any proceedings whatsoever in any court, or attaches sanctity to his residence, shall to that extent be void. (4) Notwithstanding Clause (1) of Article 32 and Clause (2) of Article 181, no court shall have jurisdiction to entertain or determine any action, civil or criminal, against the Yang di-Pertuan Agong or the Ruler of a State in respect of anything done or omitted to be done by him in his personal capacity. (5) Any proceedings against the Yang di-Pertuan Agong or the Ruler of a State in his personal capacity shall be brought in a Special Court established under Clause (6). (6) There shall be a court which shall be known as the Special Court and shall consist of the Lord President of the Supreme Court, who shall be the Chairman, the Chief Justices of the High Courts, and two other persons who hold or have held office as judge of the Supreme Court or a High Court appointed by the Conference of Rulers. (7) The Special Court shall have the same jurisdiction and powers as are vested in the inferior courts, the High Court and the Supreme Court by this Constitution or any federal law and shall have its registry in Kuala Lumpur. (8) The Special Court shall have exclusive jurisdiction to try all offences committed in the Federation by the Yang di-Pertuan Agong or the Ruler of a State and all civil cases by or against the Yang di-Pertuan Agong or the Ruler of a State notwithstanding where the cause of action arose. (9) Until Parliament by law makes special provision to the contrary in respect of procedure (including the hearing of proceedings in camera) in civil or criminal cases and the law regulating evidence and proof in civil and criminal proceedings, the practice and procedure applicable in any proceedings in any inferior court, any High Court and the Supreme Court shall apply in any proceedings in the Special Court. (10) The proceedings in the Special Court shall be decided in accordance with the opinion of the majority of the members and its decision shall be final and conclusive and shall not be challenged or called in question in any court on any ground. (11) The Yang di-Pertuan Agong may, on the advice of the Lord President, make such rules as he may deem necessary or expedient to provide for the removal of any difficulty or anomaly whatsoever in any written law or in the carrying out of any function, the exercise of any power, the discharge of any duty, or the doing of any act, under any written law, that may be occasioned by this Article, and for that BILL purpose such rules may make any modification, adaptation, alteration, change or amendment whatsoever to any written law.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the avoidance of any doubt, it is hereby declared that no proceedings whatsoever shall be brought in any court against the Yang di-Pertuan Agong or the Ruler of a State in his personal capacity in respect of anything done or omitted to be done by him betore the coming"
+      }
+    }
+  ]
+}

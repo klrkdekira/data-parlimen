@@ -182,7 +182,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/43/eng@/~cl_3",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (2)— Amendment of section 86"
+        "@value": "in subsection (2)—"
       }
     },
     {
@@ -212,7 +212,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/43/eng@/~cl_3__para_d",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for the words “one year” the words “ten years”."
+        "@value": "by substituting for the words “one year” the words “ten years”. Amendment of section 86"
       }
     },
     {
@@ -385,7 +385,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/43/eng@/~cl_7",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting— Amendment of section 123"
+        "@value": "by substituting—"
       }
     },
     {
@@ -405,7 +405,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/43/eng@/~cl_7__para_c",
       "schema:text": {
         "@language": "en",
-        "@value": "for the words “six months” the words “ten years”."
+        "@value": "for the words “six months” the words “ten years”. Amendment of section 123"
       }
     },
     {

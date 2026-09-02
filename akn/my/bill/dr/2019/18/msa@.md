@@ -10,23 +10,35 @@ Persekutuan)
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## LEMBAGA KELAYAKAN PROFESION GUAMAN SYARIE
 
-3. Penubuhan Lembaga 4. Fungsi Lembaga 5. Kuasa Lembaga 6. Keanggotaan Lembaga 7. Setiausaha Lembaga 8. Elaun 9. Kuasa untuk membuat kaedah-kaedah berhubung dengan penerimaan masuk sebagai Peguam Syarie, dsb. 10. Kuasa untuk mengecualikan
+3. Penubuhan Lembaga 4. Fungsi Lembaga 5. Kuasa Lembaga 6. Keanggotaan Lembaga 7. Setiausaha Lembaga 8. Elaun 9. Kuasa untuk membuat kaedah-kaedah berhubung dengan penerimaan masuk sebagai Peguam Syarie, dsb.
 
-## Bahagian III
+10. Kuasa untuk mengecualikan
+
+## BAHAGIAN III
 
 ## PENERIMAAN MASUK PEGUAM SYARIE
 
-11. Orang berkelayakan 12. Syarat bagi penerimaan masuk 13. Tempoh pelatihan 14. Pengecualian daripada pelatihan 15. Permohonan bagi penerimaan masuk 16. Memfailkan salinan permohonan
+11. Orang berkelayakan
+
+12. Syarat bagi penerimaan masuk
+
+13. Tempoh pelatihan
+
+14. Pengecualian daripada pelatihan
+
+15. Permohonan bagi penerimaan masuk
+
+16. Memfailkan salinan permohonan
 
 <!-- page 2 -->
 
@@ -54,7 +66,7 @@ Daftar
 
 27. Pemasukan semula nama Peguam Syarie dalam Daftar
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PERAKUAN AMALAN TAHUNAN
 
@@ -68,7 +80,7 @@ Daftar
 
 32. Pengemukaan Perakuan Amalan Tahunan
 
-## Bahagian V
+## BAHAGIAN V
 
 ## HAK DAN KEISTIMEWAAN PEGUAM SYARIE
 
@@ -88,13 +100,17 @@ Daftar
 
 Persekutuan)
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## NAMA FIRMA
 
-39. Permohonan bagi pendaftaran nama firma 40. Daftar nama firma 41. Pemasukan semula nama firma dalam daftar nama firma
+39. Permohonan bagi pendaftaran nama firma
 
-## Bahagian VII
+40. Daftar nama firma
+
+41. Pemasukan semula nama firma dalam daftar nama firma
+
+## BAHAGIAN VII
 
 ## BADAN PEGUAM SYARIE DAN MAJLIS PEGUAM SYARIE
 
@@ -102,15 +118,41 @@ Persekutuan)
 
 Badan Peguam Syarie Wilayah-Wilayah Persekutuan
 
-42. Penubuhan Badan Peguam Syarie Wilayah-Wilayah Persekutuan 43. Matlamat Badan Peguam Syarie 44. Kuasa untuk membuat kaedah-kaedah berhubung dengan tatacara mesyuarat, dsb. 45. Anggota Badan Peguam Syarie 46. Kelayakan sebagai anggota 47. Yuran tahunan dan levi
+42. Penubuhan Badan Peguam Syarie Wilayah-Wilayah Persekutuan
+
+43. Matlamat Badan Peguam Syarie
+
+44. Kuasa untuk membuat kaedah-kaedah berhubung dengan tatacara mesyuarat, dsb.
+
+45. Anggota Badan Peguam Syarie
+
+46. Kelayakan sebagai anggota
+
+47. Yuran tahunan dan levi
 
 Majlis Peguam Syarie Wilayah-Wilayah Persekutuan
 
-48. Penubuhan Majlis Peguam Syarie Wilayah-Wilayah Persekutuan 49. Pemilihan anggota Majlis Peguam Syarie yang pertama, dsb. 50. Pemilihan anggota Majlis Peguam Syarie berikutnya 51. Kelayakan untuk dinamakan dan dilantik sebagai anggota Majlis Peguam Syarie 52. Penamaan 53. Penamaan tidak mencukupi 54. Tempoh memegang jawatan anggota Majlis Peguam Syarie 55. Kekosongan luar jangka
+48. Penubuhan Majlis Peguam Syarie Wilayah-Wilayah Persekutuan
+
+49. Pemilihan anggota Majlis Peguam Syarie yang pertama, dsb.
+
+50. Pemilihan anggota Majlis Peguam Syarie berikutnya
+
+51. Kelayakan untuk dinamakan dan dilantik sebagai anggota Majlis Peguam Syarie
+
+52. Penamaan
+
+53. Penamaan tidak mencukupi
+
+54. Tempoh memegang jawatan anggota Majlis Peguam Syarie
+
+55. Kekosongan luar jangka
 
 Pemegang Jawatan
 
-56. Presiden, Naib Presiden, Setiausaha dan Bendahari Badan Peguam Syarie 57. Pengosongan jawatan anggota Majlis Peguam Syarie
+56. Presiden, Naib Presiden, Setiausaha dan Bendahari Badan Peguam Syarie
+
+57. Pengosongan jawatan anggota Majlis Peguam Syarie
 
 <!-- page 4 -->
 
@@ -130,7 +172,7 @@ Kuasa Majlis Peguam Syarie
 
 63. Nama anggota Majlis Peguam Syarie, dsb., hendaklah disiarkan dan Kerahsiaan pertimbangtelitian
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## AMALAN, ETIKA, KELAKUAN DAN TATATERTIB PROFESIONAL
 
@@ -162,31 +204,63 @@ Harta, dokumen, wang, dsb., anak guam
 
 <!-- page 5 -->
 
-Persekutuan) 75. Wakil diri bertanggungan bagi perbuatan Peguam Syarie yang meninggal dunia 76. Majlis Peguam Syarie hendaklah mengendalikan akaun bank anak guam bagi Peguam Syarie yang meninggal dunia
+Persekutuan)
 
-## Bahagian IX
+75. Wakil diri bertanggungan bagi perbuatan Peguam Syarie yang meninggal dunia
+
+76. Majlis Peguam Syarie hendaklah mengendalikan akaun bank anak guam bagi Peguam Syarie yang meninggal dunia
+
+## BAHAGIAN IX
 
 ## PROSIDING TATATERTIB
 
-77. Pihak Berkuasa Tatatertib 78. Aduan terhadap Peguam Syarie atau pelatih dalam kamar 79. Aduan terhadap firma 80. Had masa bidang kuasa tatatertib 81. Kuasa untuk memperoleh dokumen 82. Penalti atau hukuman tatatertib 83. Penggantungan Peguam Syarie 84. Rayuan terhadap perintah atau keputusan Lembaga Tatatertib 85. Kuasa untuk membuat kaedah-kaedah berhubung dengan prosiding tatatertib
+77. Pihak Berkuasa Tatatertib
 
-## Bahagian X
+78. Aduan terhadap Peguam Syarie atau pelatih dalam kamar
+
+79. Aduan terhadap firma
+
+80. Had masa bidang kuasa tatatertib
+
+81. Kuasa untuk memperoleh dokumen
+
+82. Penalti atau hukuman tatatertib
+
+83. Penggantungan Peguam Syarie
+
+84. Rayuan terhadap perintah atau keputusan Lembaga Tatatertib
+
+85. Kuasa untuk membuat kaedah-kaedah berhubung dengan prosiding tatatertib
+
+## BAHAGIAN X
 
 ## KUMPULAN WANG TATATERTIB
 
-86. Penubuhan Kumpulan Wang Tatatertib 87. Pembayaran kos, dsb., daripada Kumpulan Wang Tatatertib 88. Pembayaran denda, dsb., ke dalam Kumpulan Wang Tatatertib
+86. Penubuhan Kumpulan Wang Tatatertib
 
-## Bahagian XI
+87. Pembayaran kos, dsb., daripada Kumpulan Wang Tatatertib
+
+88. Pembayaran denda, dsb., ke dalam Kumpulan Wang Tatatertib
+
+## BAHAGIAN XI
 
 ## PELBAGAI
 
-89. Tiada tindakan terhadap Badan Peguam Syarie, Majlis Peguam Syarie, Lembaga Tatatertib, dsb., bagi tindakan yang dilakukan 90. Kerahsiaan 91. Peguam Syarie yang dikeluarkan daripada Daftarai Peguam Bela dan Peguam Cara 92. Kuasa untuk menetapkan fi 93. Kuasa untuk meminda Jadual
+89. Tiada tindakan terhadap Badan Peguam Syarie, Majlis Peguam Syarie, Lembaga Tatatertib, dsb., bagi tindakan yang dilakukan
 
-## Jadual Pertama
+90. Kerahsiaan
 
-## Jadual Kedua
+91. Peguam Syarie yang dikeluarkan daripada Daftarai Peguam Bela dan Peguam Cara
 
-## Jadual Ketiga
+92. Kuasa untuk menetapkan fi
+
+93. Kuasa untuk meminda Jadual
+
+## JADUAL PERTAMA
+
+## JADUAL KEDUA
+
+## JADUAL KETIGA
 
 <!-- page 7 -->
 
@@ -198,7 +272,7 @@ Suatu Akta untuk mengadakan peruntukan bagi penubuhan Lembaga Kelayakan Profesio
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -278,7 +352,7 @@ Persekutuan)
 
 “Setiausaha Lembaga” ertinya Setiausaha Lembaga Kelayakan Profesion Guaman Syarie yang disebut dalam subseksyen 7(1).
 
-## Bahagian II
+## BAHAGIAN II
 
 ## LEMBAGA KELAYAKAN PROFESION GUAMAN SYARIE
 
@@ -410,7 +484,7 @@ Persekutuan)
 
 10. Lembaga boleh mengecualikan mana-mana orang atau kumpulan orang yang berhasrat untuk memohon bagi penerimaan masuk sebagai seorang Peguam Syarie daripada menjalani kursus pengajaran, latihan, pendidikan, temu duga dan peperiksaan tertakluk kepada apa-apa syarat yang difikirkan sesuai oleh Lembaga.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PENERIMAAN MASUK PEGUAM SYARIE
 
@@ -646,7 +720,7 @@ Persekutuan)
 
 (7) Mana-mana orang yang terkilan dengan keputusan Mahkamah Tinggi Syariah boleh merayu kepada Mahkamah Rayuan Syariah.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PERAKUAN AMALAN TAHUNAN
 
@@ -740,7 +814,7 @@ Persekutuan)
 
 <!-- page 28 -->
 
-## Bahagian V
+## BAHAGIAN V
 
 ## HAK DAN KEISTIMEWAAN PEGUAM SYARIE
 
@@ -828,7 +902,7 @@ Persekutuan)
 
 (2) Apa-apa pembayaran kepada seseorang orang yang tidak diberi kuasa bagi apa-apa jua yang dilakukan yang menjadi suatu kesalahan di bawah seksyen 35 atau 37 boleh didapatkan semula di dalam mahkamah yang berbidang kuasa berwibawa oleh orang yang telah membayar wang itu.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## NAMA FIRMA
 
@@ -878,7 +952,7 @@ Persekutuan)
 
 <!-- page 34 -->
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## BADAN PEGUAM SYARIE DAN MAJLIS PEGUAM SYARIE
 
@@ -1142,7 +1216,9 @@ Kuasa Majlis Peguam Syarie
 
 (3) Apa-apa ketetapan yang diluluskan di bawah subseksyen (2) tidak boleh membatalkan apa-apa kuasa yang telah dijalankan atau apa-apa perbuatan atau benda yang telah dilakukan terdahulu oleh Majlis Peguam Syarie yang adalah sah sekiranya ketetapan itu tidak diluluskan.
 
-(4) Tanpa menjejaskan kuasa yang diberikan di bawah subseksyen (1), (2) dan (3), Majlis Peguam Syarie hendaklah mempunyai kuasa—
+(4) Tanpa menjejaskan kuasa yang diberikan di bawah subseksyen
+
+(1), (2) dan (3), Majlis Peguam Syarie hendaklah mempunyai kuasa—
 
 (a) untuk menjawab soalan yang menyentuh amalan dan etika profesion guaman syarie dan kelakuan anggota;
 
@@ -1204,7 +1280,7 @@ Persekutuan)
 
 (3) Mana-mana anggota Lembaga, Majlis Peguam Syarie, Lembaga Tatatertib, dan kakitangan mereka yang terlibat dalam apa-apa pertimbangtelitian yang disebut dalam subseksyen (2) tidak boleh dipaksa untuk menzahirkan kepada mana-mana mahkamah apa-apa maklumat yang berhubungan dengan pertimbangtelitian itu melainkan jika mahkamah menganggap penzahiran itu adalah penting demi kepentingan keadilan.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## AMALAN, ETIKA, KELAKUAN DAN TATATERTIB
 
@@ -1506,7 +1582,7 @@ Persekutuan)
 
 hendaklah, walau apa pun apa-apa jua yang terkandung dalam Akta ini yang berlawanan, terletak hak pada Majlis Peguam Syarie dengan mengenepikan hak mana-mana wakil diri Peguam Syarie itu dan boleh dijalankan mulai dari tarikh Peguam Syarie itu meninggal dunia.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## PROSIDING TATATERTIB
 
@@ -1668,7 +1744,7 @@ Persekutuan)
 
 (2) Kaedah-kaedah yang dibuat di bawah seksyen ini boleh menetapkan apa-apa perbuatan yang berlanggaran dengan kaedah-kaedah sebagai satu kesalahan dan boleh menetapkan penalti denda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya bagi kesalahan itu.
 
-## Bahagian X
+## BAHAGIAN X
 
 ## KUMPULAN WANG TATATERTIB
 
@@ -1688,7 +1764,7 @@ Persekutuan)
 
 88. Apa-apa denda, penalti, atau apa-apa bayaran lain yang diperintahkan oleh Lembaga Tatatertib supaya dibayar hendaklah dibayar ke dalam Kumpulan Wang Tatatertib.
 
-## Bahagian XI
+## BAHAGIAN XI
 
 ## PELBAGAI
 
@@ -1720,7 +1796,7 @@ Persekutuan)
 
 93. Menteri boleh melalui perintah yang disiarkan dalam Warta meminda Jadual-Jadual kepada Akta ini.
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
 [Subseksyen 6(5)]
 
@@ -1798,7 +1874,7 @@ Persekutuan)
 
 (d) terdapat apa-apa peninggalan, kecacatan atau ketidakteraturan yang menjejaskan merit kes.
 
-## Jadual Kedua
+## JADUAL KEDUA
 
 [Subseksyen 45(2), 48(3) dan 56(8)]
 
@@ -1806,7 +1882,7 @@ Persekutuan)
 
 ## BADAN PEGUAM SYARIE DAN MAJLIS PEGUAM SYARIE
 
-## Bahagian i
+## BAHAGIAN I
 
 ## BADAN PEGUAM SYARIE
 
@@ -1856,7 +1932,7 @@ Persekutuan)
 
 5. Pada tiap-tiap mesyuarat agung tahunan dan mesyuarat agung luar biasa Badan Peguam Syarie, tiap-tiap anggota yang hadir hendaklah mempunyai satu undi dan jika terdapat undi yang sama banyak, pengerusi atau pemangku pengerusi mesyuarat itu hendaklah mempunyai suatu undi pemutus sebagai tambahan kepada undi biasa.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## MAJLIS PEGUAM SYARIE
 
@@ -1884,7 +1960,7 @@ Persekutuan)
 
 10. Tiada fi boleh dibayar kepada mana-mana anggota Majlis Peguam Syarie tetapi seseorang anggota boleh dibayar ganti daripada kumpulan wang Badan Peguam Syarie bagi perbelanjaan perjalanan yang ditanggung olehnya berhubung dengan hal ehwal Badan Peguam Syarie.
 
-## Jadual Ketiga
+## JADUAL KETIGA
 
 [Subseksyen 64(1), 71(2), seksyen 72, 73, 74 dan 75]
 
@@ -1956,7 +2032,7 @@ Persekutuan)
 
 Akta Profesion Guaman Syarie (Wilayah-Wilayah Persekutuan) 2019 yang dicadangkan (“Akta dicadangkan”) bertujuan untuk menubuhkan Lembaga Kelayakan Profesion Guaman Syarie, Badan Peguam Syarie dan Majlis Peguam Syarie. Fungsi Lembaga Kelayakan Profesion Guaman Syarie, Badan Peguam Syarie dan Majlis Peguam Syarie terutamanya untuk mentadbir dan mengawal selia amalan Profesion Guaman Syarie. Sekarang ini, penerimaan masuk seseorang sebagai Peguam Syarie dan kelakuan Peguam Syarie ditadbir oleh Kaedah-Kaedah Peguam Syarie 1993 [P.U. (A) 408/1993] yang dibuat di bawah subseksyen 59(2) Akta Pentadbiran Undang-Undang Islam (Wilayah-Wilayah Persekutuan) 1993 [Akta 505]. Dengan kelulusan Akta yang dicadangkan, Kaedah-Kaedah Peguam Syarie 1993 dibatalkan dan subseksyen 59(2) Akta 505 akan dipotong.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan mengandungi perkara permulaan.
 
@@ -1966,7 +2042,7 @@ Fasal 1 mengandungi tajuk ringkas dan bertujuan untuk memberi Menteri kuasa untu
 
 Fasal 2 mengandungi takrif beberapa ungkapan yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 3. Bahagian II Akta yang dicadangkan mengadakan peruntukan bagi penubuhan Lembaga Kelayakan Profesion Guaman Syarie (“Lembaga”).
 
@@ -1986,7 +2062,7 @@ Fasal 9 bertujuan untuk memberi Lembaga kuasa untuk membuat kaedah-kaedah berhub
 
 Fasal 10 bertujuan untuk memberi Lembaga kuasa untuk mengecualikan mana-mana orang atau kumpulan orang daripada menjalani kursus pengajaran, latihan, dsb.
 
-## Bahagian III
+## BAHAGIAN III
 
 4. Bahagian III Akta yang dicadangkan mengadakan peruntukan bagi penerimaan masuk seseorang sebagai Peguam Syarie.
 
@@ -2028,7 +2104,7 @@ Fasal 27 bertujuan untuk mengadakan peruntukan bagi kuasa Mahkamah Tinggi Syaria
 
 <!-- page 78 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 5. Bahagian IV Akta yang dicadangkan mengadakan peruntukan bagi pengeluaran Perakuan Amalan Tahunan.
 
@@ -2042,7 +2118,7 @@ Fasal 31 menghendaki Ketua Pendaftar untuk menyimpan dan menyenggara Daftar Peng
 
 Fasal 32 bertujuan untuk memperuntukkan bahawa Peguam Syarie hendaklah mengemukakan Perakuan Amalan Tahunan jika dia diminta untuk berbuat sedemikian oleh mana-mana mahkamah syariah.
 
-## Bahagian V
+## BAHAGIAN V
 
 6. Bahagian V Akta yang dicadangkan mengadakan peruntukan bagi hak dan keistimewaan seseorang Peguam Syarie.
 
@@ -2062,7 +2138,7 @@ Fasal 38 bertujuan untuk memperuntukkan bahawa apa-apa kos berkenaan dengn apa-a
 
 Persekutuan)
 
-## Bahagian VI
+## BAHAGIAN VI
 
 7. Bahagian VI Akta yang dicadangkan bertujuan untuk mengadakan peruntukan bagi pendaftaran nama firma.
 
@@ -2072,7 +2148,7 @@ Fasal 40 mengkehendaki Majlis Peguam Syarie untuk menyimpan dan menyenggara daft
 
 Fasal 41 mengadakan peruntukan bagi pemasukan semula nama firma dalam daftar nama firma.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 8. Bahagian VII Akta yang dicadangkan mengadakan peruntukan bagi penubuhan Badan Peguam Syarie dan Majlis Peguam Syarie Wilayah-Wilayah Persekutuan.
 
@@ -2126,7 +2202,7 @@ Fasal 62 memperuntukkan hak bagi Majlis Peguam Syarie untuk memeriksa fail prosi
 
 Fasal 63 menghendaki nama anggota dan Setiausaha Majlis Peguam Syarie disiarkan dalam Warta.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 9. Bahagian VIII Akta yang dicadangkan memperkatakan tentang amalan, etika, kelakuan dan tatatertib profesional Peguam Syarie.
 
@@ -2166,7 +2242,7 @@ Fasal 75 menyatakan hal keadaan yang wakil diri boleh dijadikan bertanggungan ke
 
 Fasal 76 memberi Majlis Peguam Syarie kuasa untuk mengendalikan akaun bank anak guam Peguam Syarie yang telah meninggal dunia.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 10. Bahagian IX Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan prosiding tatatertib.
 
@@ -2192,13 +2268,13 @@ Fasal 84 memperuntukan bahawa mana-mana pihak yang terkilan dengan apa-apa perin
 
 Fasal 85 memberi Lembaga Tatatertib kuasa untuk membuat kaedah-kaedah untuk mengawal selia tatacara berhubung dengan prosiding tatatertib.
 
-## Bahagian X
+## BAHAGIAN X
 
 11. Bahagian X Akta yang dicadangkan mengandungi peruntukan yang berhubungan Kumpulan Wang Tatatertib.
 
 Fasal 86, 87 dan 88 bertujuan untuk mengadakan peruntukan bagi penubuhan Kumpulan Wang Tatatertib yang mengandungi sumbangan oleh tiap-tiap Peguam Syarie apabila dia memohon bagi suatu Pengesahan Sokongan dan apa-apa denda, penalti atau apa-apa bayaran yang diperintahkan oleh Lembaga Tatatertib.
 
-## Bahagian XI
+## BAHAGIAN XI
 
 12. Bahagian XI Akta yang dicadangkan mengadakan peruntukan bagi peruntukan pelbagai.
 

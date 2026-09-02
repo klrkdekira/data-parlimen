@@ -20,6 +20,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 2. Akta Keselamatan Sosial Pekerja 1969 [Akta 4], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam subseksyen 5(2) dengan menggantikan perkataan “lima ribu ringgit” di mana-mana jua terdapat dengan perkataan “enam ribu ringgit”.
 
+<!-- marginal: WJW24/0231 BM.indd 1 -->
+
 <!-- marginal: 22/03/2024 4:08 PM -->
 
 <!-- page 2 -->
@@ -32,21 +34,13 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (i) dengan menggantikan butiran 55 dengan butiran yang berikut:
 
-Gaji Bulanan Caruman Caruman
-
-<!-- marginal: Jumlah -->
-
-Majikan Pekerja
+Gaji Bulanan Caruman Caruman Jumlah Majikan Pekerja
 
 “55. Apabila gaji RM88.35 RM25.25 RM113.60”; dan melebihi RM5,000 tetapi tidak melebihi RM5,100
 
 (ii) dengan memasukkan selepas butiran 55 butiran yang berikut:
 
-Gaji Bulanan Caruman Caruman
-
-<!-- marginal: Jumlah -->
-
-Majikan Pekerja
+Gaji Bulanan Caruman Caruman Jumlah Majikan Pekerja
 
 “56. Apabila gaji RM90.15 RM25.75 RM115.90 melebihi RM5,100 tetapi tidak melebihi RM5,200
 
@@ -54,19 +48,13 @@ Majikan Pekerja
 
 58. Apabila gaji RM93.65 RM26.75 RM120.40 melebihi RM5,300 tetapi tidak melebihi RM5,400
 
+<!-- marginal: WJW24/0231 BM.indd 2 -->
+
 <!-- marginal: 22/03/2024 4:08 PM -->
 
 <!-- page 3 -->
 
-Gaji Bulanan Caruman
-
-<!-- marginal: Caruman -->
-
-<!-- marginal: Jumlah -->
-
-Majikan
-
-<!-- marginal: Pekerja -->
+Gaji Bulanan Caruman Caruman Jumlah Majikan Pekerja
 
 59. Apabila gaji RM95.35 RM27.25 RM122.60 melebihi RM5,400 tetapi tidak melebihi RM5,500
 
@@ -82,6 +70,8 @@ Majikan
 
 65. Apabila gaji RM104.15 RM29.75 RM133.90”; dan melebihi RM6,000
 
+<!-- marginal: WJW24/0231 BM.indd 3 -->
+
 <!-- marginal: 22/03/2024 4:08 PM -->
 
 <!-- page 4 -->
@@ -90,81 +80,35 @@ Majikan
 
 (i) dengan menggantikan butiran 55 dengan butiran yang berikut:
 
-Gaji Bulanan
+Gaji Bulanan Caruman Majikan
 
-<!-- marginal: Caruman -->
-
-<!-- marginal: Majikan -->
-
-“55. Apabila gaji melebihi RM5,000
-
-<!-- marginal: RM63.10”; dan -->
-
-tetapi tidak melebihi RM5,100
+“55. Apabila gaji melebihi RM5,000 RM63.10”; dan tetapi tidak melebihi RM5,100
 
 (ii) dengan memasukkan selepas butiran 55 butiran yang berikut:
 
-Gaji Bulanan
+Gaji Bulanan Caruman Majikan
 
-<!-- marginal: Caruman -->
+“56. Apabila gaji melebihi RM5,100 RM64.40 tetapi tidak melebihi RM5,200
 
-<!-- marginal: Majikan -->
+57. Apabila gaji melebihi RM5,200 RM65.60 tetapi tidak melebihi RM5,300
 
-“56. Apabila gaji melebihi RM5,100
+58. Apabila gaji melebihi RM5,300 RM66.90 tetapi tidak melebihi RM5,400
 
-<!-- marginal: RM64.40 -->
+59. Apabila gaji melebihi RM5,400 RM68.10 tetapi tidak melebihi RM5,500
 
-tetapi tidak melebihi RM5,200
+60. Apabila gaji melebihi RM5,500 RM69.40 tetapi tidak melebihi RM5,600
 
-57. Apabila gaji melebihi RM5,200
+61. Apabila gaji melebihi RM5,600 RM70.60 tetapi tidak melebihi RM5,700
 
-<!-- marginal: RM65.60 -->
+62. Apabila gaji melebihi RM5,700 RM71.90 tetapi tidak melebihi RM5,800
 
-tetapi tidak melebihi RM5,300
+63. Apabila gaji melebihi RM5,800 RM73.10 tetapi tidak melebihi RM5,900
 
-58. Apabila gaji melebihi RM5,300
-
-<!-- marginal: RM66.90 -->
-
-tetapi tidak melebihi RM5,400
-
-59. Apabila gaji melebihi RM5,400
-
-<!-- marginal: RM68.10 -->
-
-tetapi tidak melebihi RM5,500
-
-60. Apabila gaji melebihi RM5,500
-
-<!-- marginal: RM69.40 -->
-
-tetapi tidak melebihi RM5,600
-
-61. Apabila gaji melebihi RM5,600
-
-<!-- marginal: RM70.60 -->
-
-tetapi tidak melebihi RM5,700
-
-62. Apabila gaji melebihi RM5,700
-
-<!-- marginal: RM71.90 -->
-
-tetapi tidak melebihi RM5,800
-
-63. Apabila gaji melebihi RM5,800
-
-<!-- marginal: RM73.10 -->
-
-tetapi tidak melebihi RM5,900
-
-64. Apabila gaji melebihi RM5,900
-
-<!-- marginal: RM74.40 -->
-
-tetapi tidak melebihi RM6,000
+64. Apabila gaji melebihi RM5,900 RM74.40 tetapi tidak melebihi RM6,000
 
 65. Apabila gaji melebihi RM6,000 RM74.40”.
+
+<!-- marginal: WJW24/0231 BM.indd 4 -->
 
 <!-- marginal: 22/03/2024 4:08 PM -->
 
@@ -176,25 +120,7 @@ tetapi tidak melebihi RM6,000
 
 (a) dengan menggantikan butiran 55 dengan butiran yang berikut:
 
-Gaji bulanan yang Jenis
-
-<!-- marginal: Jenis -->
-
-<!-- marginal: Gaji -->
-
-sebenar bagi bulan ini Pertama
-
-<!-- marginal: Kedua -->
-
-<!-- marginal: bulanan -->
-
-<!-- marginal: anggapan -->
-
-<!-- marginal: yang -->
-
-<!-- marginal: bersamaan -->
-
-<!-- marginal: bagi bulan -->
+Gaji bulanan yang Jenis Jenis Gaji sebenar bagi bulan ini Pertama Kedua bulanan anggapan yang bersamaan bagi bulan
 
 <!-- marginal: itu -->
 
@@ -202,57 +128,25 @@ sebenar bagi bulan ini Pertama
 
 (b) dengan memasukkan selepas butiran 55 butiran yang berikut:
 
-Gaji bulanan yang Jenis
-
-<!-- marginal: Jenis -->
+Gaji bulanan yang Jenis Jenis
 
 <!-- marginal: Gaji -->
 
-sebenar bagi bulan ini Pertama
-
-<!-- marginal: Kedua -->
-
-<!-- marginal: bulanan -->
-
-<!-- marginal: anggapan -->
-
-<!-- marginal: yang -->
-
-<!-- marginal: bersamaan -->
-
-<!-- marginal: bagi bulan -->
+sebenar bagi bulan ini Pertama Kedua bulanan anggapan yang bersamaan bagi bulan
 
 <!-- marginal: itu -->
 
-“56. Apabila gaji melebihi RM115.90 RM64.40
+“56. Apabila gaji melebihi RM115.90 RM64.40 RM5,150 RM5,100 tetapi tidak melebihi RM5,200
 
-<!-- marginal: RM5,150 -->
+57. Apabila gaji melebihi RM118.10 RM65.60 RM5,250 RM5,200 tetapi tidak melebihi RM5,300
 
-RM5,100 tetapi tidak melebihi RM5,200
+58. Apabila gaji melebihi RM120.40 RM66.90 RM5,350 RM5,300 tetapi tidak melebihi RM5,400
 
-57. Apabila gaji melebihi RM118.10 RM65.60
+59. Apabila gaji melebihi RM122.60 RM68.10 RM5,450 RM5,400 tetapi tidak melebihi RM5,500
 
-<!-- marginal: RM5,250 -->
+60. Apabila gaji melebihi RM124.90 RM69.40 RM5,550 RM5,500 tetapi tidak melebihi RM5,600
 
-RM5,200 tetapi tidak melebihi RM5,300
-
-58. Apabila gaji melebihi RM120.40 RM66.90
-
-<!-- marginal: RM5,350 -->
-
-RM5,300 tetapi tidak melebihi RM5,400
-
-59. Apabila gaji melebihi RM122.60 RM68.10
-
-<!-- marginal: RM5,450 -->
-
-RM5,400 tetapi tidak melebihi RM5,500
-
-60. Apabila gaji melebihi RM124.90 RM69.40
-
-<!-- marginal: RM5,550 -->
-
-RM5,500 tetapi tidak melebihi RM5,600
+<!-- marginal: WJW24/0231 BM.indd 5 -->
 
 <!-- marginal: 22/03/2024 4:08 PM -->
 

@@ -4,25 +4,35 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
-1. Short title and commencement 2. Act to be read together with Courts of Judicature Act 1964, etc. 3. Interpretation
+1. Short title and commencement
 
-## Part II
+2. Act to be read together with Courts of Judicature Act 1964, etc.
+
+3. Interpretation
+
+## PART II
 
 ## ADMIRALTY JURISDICTION OF HIGH COURT
 
 4. Admiralty jurisdiction of High Court
 
-## Part III
+## PART III
 
 ## MODE OF EXERCISE OF ADMIRALTY JURISDICTION
 
-5. Action in personam 6. Restriction on action in personam in certain cases 7. Action in rem 8. Action for wages
+5. Action in personam
 
-## Part IV
+6. Restriction on action in personam in certain cases
+
+7. Action in rem
+
+8. Action for wages
+
+## PART IV
 
 ## GENERAL
 
@@ -38,7 +48,7 @@ An Act to confer jurisdiction on the High Court to hear and determine admiralty 
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -74,7 +84,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “aircraft” includes every description of craft used in aerial navigation regardless of where it is registered.
 
-## Part II
+## PART II
 
 ## ADMIRALTY JURISDICTION OF HIGH COURT
 
@@ -180,7 +190,7 @@ being an act, neglect or default in the navigation or management of the ship, in
 
 (7) For the purposes of paragraph (1)(t), general average act means any extraordinary sacrifice or expenditure voluntarily and reasonably made or incurred in a time of peril for the common safety of preserving the ship and its cargo from a common danger.
 
-## Part III
+## PART III
 
 ## MODE OF EXERCISE OF ADMIRALTY JURISDICTION
 
@@ -242,7 +252,7 @@ being an act, neglect or default in the navigation or management of the ship, in
 
 <!-- page 11 -->
 
-## Part IV
+## PART IV
 
 ## GENERAL
 
@@ -254,7 +264,7 @@ being an act, neglect or default in the navigation or management of the ship, in
 
 This Bill (“the proposed Act”) aims to strengthen Malaysia’s legal framework for settling maritime related disputes by granting admiralty jurisdiction to the High Court, defining how this jurisdiction should be exercised, and addressing other related matters. Although the Admiralty Court was launched on 30 September 2010, the High Court continues to apply the UK’s Supreme Courts Act 1981 (now the Senior Courts Act 1981) by virtue of paragraph 24(b) of the Courts of Judicature Act 1964 [Act 91]. By establishing a distinct admiralty jurisdiction, the proposed Act marks a significant step towards ending Malaysia’s application of foreign legislation in admiralty matters.
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act deals with the preliminary matters.
 
@@ -264,7 +274,7 @@ This Bill (“the proposed Act”) aims to strengthen Malaysia’s legal framewo
 
 5. Clause 3 contains the definitions of certain words and expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 6. Part II of the proposed Act deals with provision relating to the jurisdiction of the High Court in admiralty matters.
 
@@ -280,7 +290,7 @@ This Bill (“the proposed Act”) aims to strengthen Malaysia’s legal framewo
 
 (d) any claim for loss of or damage to goods carried on a ship.
 
-## Part III
+## PART III
 
 8. Part III of the proposed Act deals with the mode of exercise of admiralty jurisdiction.
 
@@ -308,7 +318,7 @@ This clause also enables an actions in rem against a specific ship or its sister
 
 12. Clause 8 seeks to clarify and preserve the jurisdiction of the High Court in relation to wage claims by a seafarer or his heir involving foreign vessels.
 
-## Part IV
+## PART IV
 
 13. Part IV of the proposed Act deals with general provisions.
 

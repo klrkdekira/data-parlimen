@@ -132,4 +132,4 @@ This Bill seeks to amend the Armed Forces Act 1972 ("Act 77").
 
 This Bill will not involve the Government in any extra financial expenditure.
 
-[PN(U2)2408J]
+<!-- marginal: [PN(U2)2408J] -->

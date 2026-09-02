@@ -232,7 +232,9 @@ the commencement of this act, the period is three months from the date of issuan
 
 (ii) a certification by a duly authorized officer of the appropriate local planning authority that the building as represented by the plans mentioned in subparagraph (i), was erected with planning permission but the plans and specifications by reference to which that permission was given are no longer available, and that the local planning authority is nevertheless satisfied that the building as so represented satisfies planning requirements;
 
-(d) a proposed strata plan comprising a location plan, storey plan and delineation plan, containing such details as are specified in subsections (2), (3), (4), (5), (6) and (7) respectively, and certified by a land surveyor as follows:
+(d) a proposed strata plan comprising a location plan, storey plan and delineation plan, containing such details as are specified in subsections (2), (3), (4),
+
+(5), (6) and (7) respectively, and certified by a land surveyor as follows:
 
 (i) that he has made a comparison of the plans to the approved building plans prepared by a Professional architect registered under the architects act 1967 [Act 117] or a Professional Engineer registered under the Registration of Engineers act 1967 [Act 138] responsible for its construction, or in a case falling under paragraph (c), to the building plans which have been drawn and certified by the Professional architect or by the land surveyor;
 
@@ -250,7 +252,9 @@ the commencement of this act, the period is three months from the date of issuan
 
 (v) that it has been certified by a land surveyor that the position of each provisional block as delineated on the location plan is wholly within the boundaries of the lot in question;
 
-(e) in the case of any building or land parcels for the erection of which planning permission was required, a certification by the Professional architect or by the Professional Engineer referred to in subparagraph (1)(d)(i) that the building was constructed in accordance with the plans and specifications by reference to which that permission was given; and the plans and specifications of the buildings state the date on which such permission was given and the reference number, if any;
+(e) in the case of any building or land parcels for the erection of which planning permission was required, a certification by the Professional architect or by the Professional Engineer referred to in subparagraph
+
+(1)(d)(i) that the building was constructed in accordance with the plans and specifications by reference to which that permission was given; and the plans and specifications of the buildings state the date on which such permission was given and the reference number, if any;
 
 (f) a certified copy of the final title of the lot;
 
@@ -718,7 +722,9 @@ first of such sales or agreement takes place after the commencement of this act,
 
 (ii) a certification by a duly authorized officer of the appropriate local planning authority that the building as represented by the plans mentioned in subparagraph (i) was erected with planning permission but the plans and specifications by reference to which that permission was given are no longer available, and that the local planning authority is nevertheless satisfied that the building as so represented satisfies planning requirements;
 
-(d) a proposed strata plan comprising a location plan, storey plan and delineation plan, containing such details as are specified in subsections (2), (3), (4), (5), (6) and (7) respectively and certified by a land surveyor as follows:
+(d) a proposed strata plan comprising a location plan, storey plan and delineation plan, containing such details as are specified in subsections (2), (3), (4),
+
+(5), (6) and (7) respectively and certified by a land surveyor as follows:
 
 (i) that he has made a comparison of the plans to the approved building plans prepared by a Professional architect registered under the architects act 1967 [Act 117] or a Professional Engineer registered under the Registration of Engineers act 1967 [Act 138] responsible for its construction, or, in a case falling under paragraph (c), to the building plans which have been drawn and certified by the Professional architect or by the land surveyor;
 
@@ -736,7 +742,9 @@ first of such sales or agreement takes place after the commencement of this act,
 
 (v) that it has been certified by a land surveyor that the position of each provisional block as delineated on the location plan is wholly within the boundaries of the lot in question;
 
-(e) in the case of any building or land parcels for the erection of which planning permission was required, a certification by the Professional architect or by the Professional Engineer referred to in subparagraph (d) (i) that the building was constructed in accordance with the plans and specifications by reference to which that permission was given, and the plans and specifications stating the date on which such permission was given and the reference number, if any;
+(e) in the case of any building or land parcels for the erection of which planning permission was required, a certification by the Professional architect or by the Professional Engineer referred to in subparagraph (d)
+
+(i) that the building was constructed in accordance with the plans and specifications by reference to which that permission was given, and the plans and specifications stating the date on which such permission was given and the reference number, if any;
 
 (f) a certified copy of the provisional strata title;
 
@@ -1076,7 +1084,7 @@ and any rights, priorities, liabilities, reliefs, obligations, requirements, pow
 
 46. The principal act is amended by inserting after the Fifth Schedule the following Schedule:
 
-“Sixth Schedule
+## “SIXTH SCHEDULE
 
 [Section 4b]
 
@@ -1192,9 +1200,7 @@ ElECTRONiC STRaTa TiTlES SYSTEM
 
 ### Presentation Record
 
-12.
-
-(1) The Registrar shall maintain a record, to be called the “Presentation Record” in which shall be entered a short description of every matter presented or corrected for registration or entry, as the case may be.
+12. (1) The Registrar shall maintain a record, to be called the “Presentation Record” in which shall be entered a short description of every matter presented or corrected for registration or entry, as the case may be.
 
 (2) The Presentation Record shall consist of—
 
@@ -1218,9 +1224,7 @@ ElECTRONiC STRaTa TiTlES SYSTEM
 
 ### Contents of computerized document of title to be verified
 
-14.
-
-(1) after the Registrar has determined that an instrument is fit for registration in accordance with the provisions of Part 18 of the Code or that any other matter shall be entered into the computerized document of title, he shall verify the contents of the verification document and if he finds the verification document to be in order, he shall authenticate the document under his digital signature.
+14. (1) after the Registrar has determined that an instrument is fit for registration in accordance with the provisions of Part 18 of the Code or that any other matter shall be entered into the computerized document of title, he shall verify the contents of the verification document and if he finds the verification document to be in order, he shall authenticate the document under his digital signature.
 
 (2) after the Registrar has registered any instrument of dealing or enter any other matter into a computer printed document of title, the verification document shall be virtually stored in land database upon his authentication.
 
@@ -1312,31 +1316,33 @@ Title iD : ……………… Date : ……………… Version No. : ………�
 
 DETailED iNDEX
 
-Page No. Building/ List of List of Share units
+<!-- marginal: Page No. -->
 
-<!-- marginal: Rent of each -->
+Building/ List of List of Share units Rent of each
 
 <!-- marginal: Remarks -->
 
-of Title of Provisional storeys parcels of each
+<!-- marginal: of Title of -->
 
-<!-- marginal: parcel/ -->
+Provisional storeys parcels of each parcel/
 
-Parcel/ Block/Land in each in each parcel/
+<!-- marginal: Parcel/ -->
 
-<!-- marginal: provisional -->
+Block/Land in each in each parcel/ provisional
 
-Provisional Parcel building building/ provisional
+<!-- marginal: Provisional -->
 
-<!-- marginal: block/land -->
+Parcel building building/ provisional block/land
 
-Block/Land area of each block/land
+<!-- marginal: Block/Land -->
 
-<!-- marginal: parcel -->
+area of each block/land parcel
 
-Parcel land parcel parcel (1) (2) (3) (4)
+<!-- marginal: Parcel -->
 
-<!-- marginal: (5) -->
+land parcel parcel
+
+(1) (2) (3) (4) (5)
 
 <!-- marginal: (6) -->
 
@@ -1348,49 +1354,43 @@ M1 .. .. Storey Parcel …… …………… …………
 
 No… Parcel …… …………… …………
 
-(Plan Parcel …… …………… ………… Folio No. ……......…) Sub-total
-
-<!-- marginal: Sub-total -->
-
-……......... ..............…
+(Plan Parcel …… …………… ………… Folio No. ……......…) Sub-total Sub-total ……......... ..............…
 
 M2 .. .. Storey Parcel …… …………… …………
 
 No… Parcel …… …………… …………
 
-(Plan Parcel …… …………… ………… Folio No. etc.etc. ….......……) Sub-total
-
-<!-- marginal: Sub-total -->
-
-……........ ….........…
+(Plan Parcel …… …………… ………… Folio No. etc.etc. ….......……) Sub-total Sub-total ……........ ….........…
 
 PROViSiONal blOCK/S: [Use P1,P2, etc to denote provisional blocks]
 
 <!-- page 52 -->
 
-Page No. Building/ List of List of Share units
+<!-- marginal: Page No. -->
 
-<!-- marginal: Rent of each -->
+Building/ List of List of Share units Rent of each
 
 <!-- marginal: Remarks -->
 
-of Title of Provisional storeys parcels of each
+<!-- marginal: of Title of -->
 
-<!-- marginal: parcel/ -->
+Provisional storeys parcels of each parcel/
 
-Parcel/ Block/Land in each in each parcel/
+<!-- marginal: Parcel/ -->
 
-<!-- marginal: provisional -->
+Block/Land in each in each parcel/ provisional
 
-Provisional Parcel building building/ provisional
+<!-- marginal: Provisional -->
 
-<!-- marginal: block/land -->
+Parcel building building/ provisional block/land
 
-Block/Land area of each block/land
+<!-- marginal: Block/Land -->
 
-<!-- marginal: parcel -->
+area of each block/land parcel
 
-Parcel land parcel parcel
+<!-- marginal: Parcel -->
+
+land parcel parcel
 
 (1) (2) (3) (4) (5)
 
@@ -1398,21 +1398,11 @@ Parcel land parcel parcel
 
 <!-- marginal: (7) -->
 
-P1 .. .. (Plan — …………… ………… Folio No. ………) Sub-total
+P1 .. .. (Plan — …………… ………… Folio No. ………) Sub-total Sub-total …………… ……………
 
-<!-- marginal: Sub-total -->
+P2 .. .. (Plan — …………… ………… Folio No. etc.etc ………) Sub-total Sub-total …………… ……………
 
-…………… ……………
-
-P2 .. .. (Plan — …………… ………… Folio No. etc.etc ………) Sub-total
-
-<!-- marginal: Sub-total -->
-
-…………… ……………
-
-laND (Plan PaRCEl/S: Folio No. [Use ………) l1 .. …………… ………… L1,L2, etc to denote ……….. …………… ………… land parcel] l2 .. …………… ………… ……….. Sub-total
-
-<!-- marginal: Sub-total -->
+laND (Plan PaRCEl/S: Folio No. [Use ………) l1 .. …………… ………… L1,L2, etc to denote ……….. …………… ………… land parcel] l2 .. …………… ………… ……….. Sub-total Sub-total
 
 l3 .. …………… …………… ………..
 
@@ -1548,7 +1538,7 @@ Enter as appropriate
 
 Title iD : ………………. Date : ………………. Version No. : ………………. Page : ……………….
 
-* CRDT/CiDT
+<!-- marginal: * CRDT/CiDT -->
 
 <!-- marginal: BAR CoDE -->
 

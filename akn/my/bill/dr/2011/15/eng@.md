@@ -240,9 +240,7 @@ Provided that for the purpose of this section, such termination shall not includ
 
 ### of foreign domestic servant
 
-### 57b.
-
-(1) If the service of a foreign domestic servant is terminated—
+57B. (1) If the service of a foreign domestic servant is terminated—
 
 (a) by the employer;
 
@@ -370,7 +368,7 @@ the employer shall, within thirty days of the termination of service, inform the
 
 27. The principal Act is amended by inserting after Part XV the following Part:
 
-“Part XVa
+## “PART XVA
 
 ## SEXUAL HARASSMENT
 
@@ -444,7 +442,9 @@ the employer shall, within thirty days of the termination of service, inform the
 
 (b) the Director General is of the opinion that the complaint of sexual harassment is frivolous, vexatious or is not made in good faith.
 
-(6) Where the Director General refuses to inquire into the complaint of sexual harassment received under subsection (3), he shall, as soon as practicable but in any case not later than thirty days after the date of the receipt of the complaint, inform the complainant of the refusal and the reasons for the refusal in writing.
+(6) Where the Director General refuses to inquire into the complaint of sexual harassment received under subsection
+
+(3), he shall, as soon as practicable but in any case not later than thirty days after the date of the receipt of the complaint, inform the complainant of the refusal and the reasons for the refusal in writing.
 
 ### Effects of decisions of the Director General
 
@@ -584,7 +584,9 @@ This Bill seeks to amend the Employment Act 1955 (“Act 265”). The primary pu
 
 12. Clause 15 seeks to introduce new section 44a into Act 265 to extend the application of Part IX to every female employee irrespective of her wages. With this amendment, every female employee who is employed under a contract of service shall be entitled to maternity leave and maternity allowance provided under Act 265 irrespective of her wages.
 
-13. Clause 16 seeks to introduce new sections 57a and 57b into Act 265 to impose a duty on the employers to inform the Director General with regard to the employment and termination of service of their foreign domestic servants. The information obtained by the Director General would assist the Government in monitoring the employment of foreign domestic servants. Failure to inform the Director General as required under these sections are offences under Act 265.
+13. Clause 16 seeks to introduce new sections 57a and 57b into Act 265 to impose a duty on the employers to inform the Director General with regard to the employment and termination of service of their foreign domestic servants. The information obtained by the Director General would assist the Government in monitoring the employment of foreign domestic servants. Failure to inform the Director General as required under these sections are offences under Act
+
+265.
 
 14. Clause 18 seeks to amend paragraph 60(3)(b) of Act 265 to provide for payment of wages to employees who are paid on a weekly basis for working on a rest day.
 

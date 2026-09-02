@@ -1,0 +1,546 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-10-2017",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_15"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Keganasan Rumah Tangga (Pindaan) 2017"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 13 dengan seksyen yang berikut: “Bila perintah perlindungan boleh diminta 13. (1) Suatu perintah perlindungan boleh diminta— (a) dalam masa tujuh hari selepas mangsa dimaklumkan secara bertulis oleh pegawai polis di bawah perenggan 4(4)(b) bahawa prosiding jenayah yang berhubungan dengan pelakuan suatu kesalahan yang melibatkan keganasan rumah tangga akan dimulakan terhadap orang yang terhadapnya perintah itu dibuat; atau (b) pada mana-mana peringkat prosiding jenayah di bawah Kanun Keseksaan atau mana-mana undang-undang bertulis lain yang tertuduh itu dipertuduh dengan suatu kesalahan yang melibatkan keganasan rumah tangga sama ada atau tidak suatu perintah perlindungan interim atau perintah perlindungan kecemasan telah diminta dan dikeluarkan terhadap tertuduh. (2) Suatu perintah perlindungan di bawah subseksyen (1) boleh diminta khususnya— (a) sebagai suatu syarat untuk membebaskan tertuduh dengan jaminan; atau (b) apabila kesalahan yang disebut dalam subseksyen (1) dikompaun di bawah seksyen 260 Kanun Tatacara Jenayah [Akta 593].”. Seksyen baharu 13a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 13 seksyen yang berikut: “Permohonan bagi perintah perlindungan 13a. Suatu perintah perlindungan yang diminta di bawah seksyen 13 hendaklah dibuat oleh— (a) mangsa itu; (b) peguam mangsa itu; (c) seorang pegawai kebajikan masyarakat bagi pihak mangsa itu; atau (d) seorang pegawai polis bagi pihak mangsa itu.”. Pindaan seksyen 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 14 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan menggantikan perkataan “pengadu” dengan perkataan “mangsa”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (d), dengan menggantikan perkataan “pengadu” dengan perkataan “mangsa”. Pindaan seksyen 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 17(2) Akta ibu dipinda dengan memasukkan selepas perkataan “mahkamah itu” perkataan “, dan memaklumkan penyampaian yang telah dilaksanakan itu kepada mangsa,”. Pindaan seksyen 17a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 17a(4) Akta ibu dipinda dengan menggantikan perkataan “pemohon” dengan perkataan “mangsa”. Pindaan seksyen 19"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_15__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 19(2) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan menggantikan noktah di hujung perenggan itu dengan koma bernoktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut: “(c) memaklumkan mangsa mengenai status penyiasatan yang berhubungan dengan kesalahan yang melibatkan keganasan rumah tangga; dan (d) memaklumkan mangsa mengenai status permohonan bagi suatu perintah perlindungan interim atau perintah perlindungan, termasuk penyampaian bagi perintah itu, dan tarikh mahkamah yang berkaitan yang berhubungan dengan permohonan itu.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Keganasan Rumah Tangga (Pindaan) 2017."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta dan Menteri boleh menetapkan tarikh yang berlainan bagi permulaan kuat kuasa peruntukan yang berlainan Akta ini. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Keganasan Rumah Tangga 1994 [Akta 521], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “keganasan rumah tangga”, dengan memasukkan selepas perenggan (e) perenggan yang berikut: “(ea) dengan curang menggelapkan harta mangsa yang menyebabkan mangsa itu mengalami kesedihan kerana kerugian kewangan; (eb) mengugut mangsa dengan niat untuk menyebabkan mangsa itu takut akan keselamatan dirinya atau keselamatan hartanya, takut akan keselamatan pihak ketiga, atau mengalami kesedihan; (ec) berhubung dengan mangsa, atau berhubung dengan pihak ketiga tentang mangsa, dengan niat untuk mengaibkan kehormatan mangsa itu melalui apa-apa cara, elektronik atau selainnya;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “keganasan rumah tangga” takrif yang berikut: ‘ “Ketua Pengarah” ertinya Ketua Pengarah Kebajikan Masyarakat dan termasuklah Pengarah Kebajikan Masyarakat Negeri bagi setiap Negeri;’; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “perintah perlindungan interim” takrif yang berikut: ‘ “perintah perlindungan kecemasan” ertinya perintah yang dikeluarkan di bawah seksyen 3a;’. Bahagian baharu Ia"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas Bahagian I Bahagian yang berikut: “BAHAGIAN IA PERINTAH PERLINDUNGAN KECEMASAN Perintah perlindungan kecemasan 3a. (1) Pegawai kebajikan masyarakat yang diberi kuasa secara bertulis dengan sewajarnya oleh Ketua Pengarah boleh, dalam suatu permohonan melibatkan suatu aduan keganasan rumah tangga yang disebut dalam perenggan (a) atau (b) takrif “keganasan rumah tangga” di bawah seksyen 2, mengeluarkan suatu perintah perlindungan kecemasan. (2) Suatu permohonan bagi suatu perintah perlindungan kecemasan boleh dibuat pada bila-bila masa sama ada atau tidak suatu perintah perlindungan interim atau perintah perlindungan telah dibuat sebelum itu atau permohonan bagi perintah perlindungan interim atau perintah perlindungan masih belum selesai. (3) Suatu permohonan bagi suatu perintah perlindungan kecemasan hendaklah dibuat secara ex-parte oleh— (a) mangsa itu; (b) peguam mangsa itu; atau (c) dalam hal jika mangsa itu ialah seorang kanak-kanak atau orang dewasa tidak berkeupayaan, penjaga, saudara atau orang yang bertanggungjawab bagi menjaga kanak-kanak atau orang dewasa tidak berkeupayaan itu, atau seorang pegawai kebajikan masyarakat selain pegawai kebajikan masyarakat yang diberi kuasa. (4) Suatu permohonan bagi suatu perintah perlindungan kecemasan boleh dibuat di mana-mana daerah yang— (a) mangsa itu tinggal; (b) orang yang terhadapnya perlindungan itu diminta tinggal; (c) keganasan rumah tangga yang dikatakan itu berlaku; atau (d) mangsa itu ditempatkan buat sementara. (5) Apabila permohonan bagi suatu perintah perlindungan kecemasan diterima, permohonan itu hendaklah didengar oleh pegawai kebajikan masyarakat yang diberi kuasa dengan serta-merta dan pengeluaran perintah perlindungan kecemasan, jika ada, hendaklah dibuat, jika boleh dilaksanakan, dalam masa dua jam selepas permohonan itu dibuat. (6) Bagi maksud suatu permohonan bagi suatu perintah perlindungan kecemasan, laporan polis yang berhubungan dengan keganasan rumah tangga itu tidak dikehendaki. (7) Pegawai kebajikan masyarakat yang diberi kuasa, dalam membuat perintah perlindungan kecemasan di bawah subseksyen (1), boleh mengeluarkan satu atau lebih perintah yang berikut: (a) menghalang orang yang terhadapnya perintah itu dibuat daripada menggunakan keganasan rumah tangga yang disebut dalam perenggan (a) atau (b) takrif “keganasan rumah tangga” di bawah seksyen 2 terhadap isteri atau suami atau bekas isteri atau suaminya, kanak-kanak, orang dewasa tidak berkeupayaan atau mana-mana anggota lain keluarga, mengikut mana-mana yang berkenaan; (b) melarang orang yang terhadapnya perintah itu dibuat daripada menghasut mana-mana orang lain untuk melakukan keganasan rumah tangga yang disebut dalam perenggan (a) atau (b) takrif “keganasan rumah tangga” di bawah seksyen 2 terhadap isteri atau suami atau bekas isteri atau suaminya, kanak-kanak, orang dewasa tidak berkeupayaan atau mana-mana anggota lain keluarga, mengikut mana-mana yang berkenaan; atau (c) melarang orang yang terhadapnya perintah itu dibuat daripada memasuki tempat selamat, tempat berlindung, tempat kediaman, kediaman bersama atau kediaman alternatif mana-mana orang dilindungi, mengikut mana-mana yang berkenaan. (8) Suatu perintah perlindungan kecemasan hendaklah sah selama tempoh tujuh hari dari tarikh pengeluaran perintah itu, dan berkuat kuasa apabila suatu salinan perintah itu disampaikan kepada orang yang terhadapnya perintah itu dibuat mengikut seksyen 3B. (9) Perintah perlindungan kecemasan yang dikeluarkan tidak terjejas dengan pengeluaran suatu perintah perlindungan interim atau perintah perlindungan. Penyampaian perintah perlindungan kecemasan 3b. (1) Pegawai kebajikan masyarakat yang diberi kuasa yang mengeluarkan perintah perlindungan kecemasan di bawah subseksyen 3a(1) hendaklah mengemukakan suatu salinan perintah itu, jika boleh dilaksanakan dalam masa sepuluh jam selepas perintah perlindungan kecemasan itu dikeluarkan, kepada pegawai yang bertanggungjawab bagi daerah polis di mana orang yang terhadapnya perintah itu dibuat tinggal atau mana-mana pegawai polis lain di bawah perintahnya. (2) Pegawai yang bertanggungjawab bagi daerah polis itu atau mana-mana pegawai polis lain di bawah perintahnya yang disebut dalam subseksyen (1) hendaklah menyampaikan secara ke diri salinan perintah perlindungan kecemasan itu kepada orang yang terhadapnya perintah itu dibuat, jika boleh dilaksanakan, dalam masa dua belas jam selepas salinan perintah itu diterima. Penyampaian ganti bagi perintah perlindungan kecemasan 3c. Jika pegawai yang bertanggungjawab bagi daerah polis itu atau mana-mana pegawai polis lain di bawah perintahnya yang disebut dalam subseksyen 3B(1) tidak dapat menyampaikan salinan perintah perlindungan kecemasan itu kepada orang yang terhadapnya perintah itu dibuat secara ke diri dalam masa dua belas jam selepas salinan perintah itu diterima, penyampaian perintah perlindungan kecemasan itu hendaklah dilaksanakan— (a) dengan meninggalkan suatu salinan perintah itu di alamat yang terakhir diketahui bagi orang yang terhadapnya perintah itu dibuat; atau (b) dengan apa-apa cara lain sebagaimana yang diarahkan oleh pegawai kebajikan masyarakat yang diberi kuasa. Bukti penyampaian perintah perlindungan kecemasan 3d. Pegawai yang bertanggungjawab bagi daerah polis atau mana-mana pegawai polis lain di bawah perintahnya yang disebut dalam subseksyen 3B(1) hendaklah memfailkan bukti penyampaian salinan perintah perlindungan kecemasan yang dilaksanakan di bawah seksyen 3B atau 3c dengan pegawai kebajikan masyarakat yang diberi kuasa, dan memaklumkan penyampaian yang telah dilaksanakan itu kepada mangsa, dalam masa dua belas jam selepas penyampaian itu. Pelanggaran perintah perlindungan kecemasan 3e. (1) Mana-mana orang yang sengaja melanggar suatu perintah perlindungan kecemasan atau mana-mana peruntukan perintah itu melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya. (2) Mana-mana orang yang sengaja melanggar suatu perintah perlindungan kecemasan dengan menggunakan keganasan ke atas orang dilindungi melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi empat ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya. (3) Mana-mana orang yang disabitkan atas pelanggaran kali kedua atau kemudiannya akan sesuatu perintah perlindungan kecemasan di bawah subseksyen (2) hendaklah dihukum dengan pemenjaraan selama tempoh tidak kurang daripada tujuh puluh dua jam dan tidak lebih daripada dua tahun, dan boleh juga didenda tidak melebihi lima ribu ringgit. Rekod permohonan dan perintah perlindungan kecemasan 3f. (1) Pegawai kebajikan masyarakat yang diberi kuasa hendaklah menyenggarakan suatu rekod mengenai segala permohonan bagi perintah perlindungan kecemasan dan perintah perlindungan kecemasan yang dikeluarkan oleh pegawai kebajikan masyarakat yang diberi kuasa di bawah Akta ini. (2) Rekod itu hendaklah mengandungi— (a) nama, jantina dan perhubungan pihak itu; (b) keganasan rumah tangga yang dikatakan, sama ada ia melibatkan apa-apa senjata, atau mengakibatkan kecederaan diri dan sama ada kecederaan yang dikenakan itu memerlukan rawatan perubatan; dan (c) tarikh kuat kuasa dan terma setiap perintah yang dikeluarkan.”. Pindaan seksyen 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 4 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(3a) Suatu perintah perlindungan interim yang dikeluarkan di bawah subseksyen (1) boleh, jika mahkamah berpuas hati bahawa adalah perlu bagi perlindungan dan keselamatan diri isteri atau suami atau bekas isteri atau suami, kanak-kanak, orang dewasa tidak berkeupayaan atau mana-mana anggota lain keluarga, mengikut mana-mana yang berkenaan, mengadakan peruntukan bagi mana-mana satu atau lebih perintah yang dinyatakan dalam perenggan 6(1) (a) hingga (f). (3B) Bagi maksud membuat perintah di bawah subseksyen (3a), peruntukan dalam subseksyen 6(3), (4) dan (5) hendaklah terpakai. (3c) Perintah yang diperuntukkan di bawah subseksyen (3a) hendaklah mempunyai kuat kuasa selama tempoh perintah perlindungan interim itu.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (4) dengan subseksyen yang berikut: “(4) Suatu perintah perlindungan interim hendaklah terhenti berkuat kuasa— (a) apabila orang dilindungi dimaklumkan secara bertulis oleh pegawai polis tentang penyiasatan yang telah selesai dan bahawa tiada tindakan selanjutnya akan diambil terhadap orang yang terhadapnya perintah itu dibuat; (b) apabila prosiding jenayah dimulakan terhadap orang yang terhadapnya perintah itu dibuat jika, apabila dimaklumkan secara bertulis oleh pegawai polis bahawa prosiding jenayah yang berhubungan dengan pelakuan suatu kesalahan yang melibatkan keganasan rumah tangga akan dimulakan terhadap orang yang terhadapnya perintah itu dibuat, tiada permohonan bagi perintah perlindungan dibuat oleh orang dilindungi dalam masa tujuh hari selepas dimaklumkan sedemikian; atau (c) apabila permohonan bagi perintah perlindungan ditentukan oleh mahkamah jika, apabila dimaklumkan secara bertulis oleh pegawai polis bahawa prosiding jenayah yang berhubungan dengan pelakuan suatu kesalahan yang melibatkan keganasan rumah tangga akan dimulakan terhadap orang yang terhadapnya perintah itu dibuat, permohonan bagi perintah perlindungan dibuat oleh orang dilindungi dalam masa tujuh hari selepas dimaklumkan sedemikian.”. Pindaan seksyen 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 5(1)(a) Akta ibu dipinda dengan menggantikan perkataan “pengadu” dengan perkataan “mangsa”. Pindaan seksyen 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 6 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_6__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_6__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_6__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_6__para_a__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_6__para_a__subpara_v"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_6__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “pengadu” dengan perkataan “mangsa”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_6__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_6__para_a__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_6__para_a__subpara_ii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_6__para_a__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_6__para_a__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “atau bahagian tertentu kediaman bersama itu”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_6__para_a__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_6__para_a__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “atau bahagian tertentu itu”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_6__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (e), dengan memasukkan perkataan “dan” di hujung perenggan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_6__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (f), dengan menggantikan koma di hujung perenggan itu dengan noktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_6__para_a__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “untuk mempunyai kuat kuasa selama sesuatu tempoh, tidak melebihi dua belas bulan dari tarikh mula berkuat kuasanya perintah sedemikian, sebagaimana yang dinyatakan dalam perintah perlindungan itu.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1a) Bagi maksud subseksyen (1), perintah yang diperuntukkan dalam perintah perlindungan itu hendaklah berkuat kuasa selama suatu tempoh tidak melebihi dua belas bulan dari tarikh permulaan kuat kuasa perintah itu sebagaimana yang dinyatakan dalam perintah perlindungan itu.”. Pindaan Bahagian III"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan tajuk Bahagian III dengan tajuk yang berikut: “PAMPASAN DAN PROGRAM PEMULIHAN”. Pindaan seksyen 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_8__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_8__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_8__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_8__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 11 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan nota bahu dengan nota bahu yang berikut: “Program pemulihan, dsb.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Mahkamah boleh, dalam suatu permohonan yang suatu perintah perlindungan diminta, sebagai tambahan kepada pengeluaran suatu perintah perlindungan, membuat suatu perintah bahawa satu atau lebih pihak kepada pertikaian itu dirujuk kepada suatu program pemulihan, dengan syarat bahawa suatu perintah untuk merujuk mangsa kepada suatu program pemulihan hendaklah dibuat hanya dengan persetujuan mangsa itu.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (1a) dan (1B);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_8__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “satu atau kedua-dua perintah di bawah subseksyen (1) atau (1 B)” dengan perkataan “perintah di bawah subseksyen (1)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_8__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan memotong perkataan “atau (1B)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_8__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (4) dengan subseksyen yang berikut: “(4) Dalam seksyen ini, “program pemulihan” ertinya program yang disediakan oleh Kementerian yang bertanggungjawab bagi perkhidmatan kebajikan bagi maksud pembangunan keluarga dan masyarakat.”. Pindaan seksyen 12a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_9__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_9__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 12a Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan nota bahu dengan nota bahu yang berikut: “Permohonan ex-parte bagi perintah perlindungan interim”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan menggantikan perkataan “pemohon” dengan perkataan “mangsa”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan menggantikan perkataan “pemohon” dengan perkataan “mangsa”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_9__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/10/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c), dengan menggantikan perkataan “pemohon” dengan perkataan “mangsa”. Penggantian seksyen 13"
+      }
+    }
+  ]
+}

@@ -56,7 +56,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 3 -->
 
-### New sections 4ba, 4bb, 4bc, 4bd, 4be, 4bf, 4bg and 4bh
+## NEW SECTIONS 4BA, 4BB, 4BC, 4BD, 4BE, 4BF, 4BG AND 4BH
 
 4. The principal Act is amended by inserting after section 4b the following sections:
 
@@ -266,7 +266,7 @@ may be sued for the subscription or money or for the damage accruing from that w
 
 11. The principal Act is amended by inserting after Part V the following parts:
 
-“Part Va
+## “PART VA
 
 ## FIRE SAFETY CONSULTANT, FIRE SAFETY CONSULTANT FIRM,
 
@@ -402,7 +402,7 @@ may be sued for the subscription or money or for the damage accruing from that w
 
 36j. Any person aggrieved by the decision of the Controller made under this Part may, within fourteen days after being informed in writing of the decision, appeal to the Director General against the decision in the manner as may be determined by the Director General and the decision of the Director General shall be final.
 
-Part Vb
+## PART VB
 
 ## FIRE-FIGHTING EQUIPMENT OR FIRE SAFETY INSTALLATION
 

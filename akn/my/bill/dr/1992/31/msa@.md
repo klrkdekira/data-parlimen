@@ -40,9 +40,13 @@ memasukkan selepas sahaja subseksyen (3), subseksyen baru (4) dan (5) berikut:
 
 <!-- page 2 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Seksyen 35 Akta ibu adalah dipinda dalam seksyen 35. subseksyen (1)—
+3. Seksyen 35 Akta ibu adalah dipinda dalam
+
+<!-- marginal: seksyen 35. -->
+
+subseksyen (1)—
 
 (a) dengan memasukkan selepas sahaja perkataan- perkataan "Hertzian waves" yang terdapat dalam takrif "radiocommunication apparatus" perkataan-perkataan ", and includes the apparatus used or capable of being used for the purpose of visual and aural reception directly from a space station of any broadcast matter";
 
@@ -54,9 +58,13 @@ Pindaan
 
 ' "television receive only station" means a radiocommunication station consisting of an antennae, a radiocommunication receiver and television broadcast receiver or video monitor or other apparatus used or capable of being used for the purpose of visual and aural reception directly from a space station of any broadcast matter;'.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Seksyen 37 Akta ibu adalah dipinda dengan seksyen 37. memasukkan selepas sahaja subseksyen (2), subseksyen baru (2A) berikut:
+4. Seksyen 37 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 37. -->
+
+memasukkan selepas sahaja subseksyen (2), subseksyen baru (2A) berikut:
 
 "(2A) The Minister may, by order published in the Gazette, exempt absolutely or subject to such conditions as may be prescribed, the requirement of a licence under this section in respect of any low power radiocommunication apparatus, or any class thereof.".
 
@@ -66,17 +74,19 @@ Pindaan
 
 <!-- marginal: 37A' -->
 
-"Subscribers 3?A. (1) In granting a licence under section to specific 37, the Minister may, in certain specific services included services, license an operator
+"Subscribers 3?A. (1) In granting a licence under section to specific 37, the Minister may, in certain specific
 
-<!-- marginal: of -->
+<!-- marginal: services -->
+
+<!-- marginal: included -->
+
+services, license an operator of
 
 <!-- marginal: a -->
 
-in licence. radiocommunication network to include any apparatus used by a subscriber to
+<!-- marginal: in licence. -->
 
-<!-- marginal: that -->
-
-radiocommunication network, and may impose payment of such fees as may be necessary reflecting the number of subscribers.
+radiocommunication network to include any apparatus used by a subscriber to that radiocommunication network, and may impose payment of such fees as may be necessary reflecting the number of subscribers.
 
 (2) Where a licence is granted to an operator of a radiocommunication network which includes any apparatus used by a subscriber to that radiocommunication network, any person subscribing to the specific services of that radiocommunication network shall be deemed to have been duly licensed and shall not be required to be licensed separately under this Act or any regulation made thereunder.
 
@@ -104,9 +114,15 @@ radiocommunication apparatus shall be admissible as prima facie evidence of the 
 
 <!-- marginal: is -->
 
-proved.". Pindaan
+proved.".
 
-7. Seksyen 40 Akta ibu adalah dipinda dalam seksyen 40. subseksyen (1)—
+<!-- marginal: Pindaan -->
+
+7. Seksyen 40 Akta ibu adalah dipinda dalam
+
+<!-- marginal: seksyen 40. -->
+
+subseksyen (1)—
 
 (a) dengan memasukkan selepas sahaja perenggan
 
@@ -118,11 +134,27 @@ Malaysia;";
 
 (b) dengan memasukkan selepas sahaja perenggan
 
-(ja) perenggan baru (jb) berikut; "(jb) giving effect to international agree- ments, conventions or treaties relating to radiocommunication to which Malaysia is a party;". Pindaan
+(ja) perenggan baru (jb) berikut; "(jb) giving effect to international agree- ments, conventions or treaties relating to radiocommunication
 
-8. Seksyen 43 Akta ibu adalah dipinda dengan seksyen 43. menggantikan perkataan-perkataan "one thousand and five hundred ringgit" dengan perkataan-perkataan "fifty thousand ringgit".
+<!-- marginal: to which -->
 
-9. Akta ibu adalah dipinda dengan memasukkan selepas baru 44A. sahaja seksyen 44, seksyen baru 44A berikut: "Powers ot ' 44A. (1) An authorized telecommunication examina- officer may, at any time during office hours, tion. where there are reasonable grounds to believe that there is at any telecommunication plant or radiocommunication station, any interference- causing equipment, radio apparatus or radio- sensitive equipmeht, enter such place and—
+Malaysia is a party;".
+
+<!-- marginal: Pindaan -->
+
+8. Seksyen 43 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 43. -->
+
+menggantikan perkataan-perkataan "one thousand and five hundred ringgit" dengan perkataan-perkataan "fifty thousand ringgit".
+
+<!-- marginal: Seksyen -->
+
+9. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 44A. -->
+
+sahaja seksyen 44, seksyen baru 44A berikut: "Powers ot ' 44A. (1) An authorized telecommunication examina- officer may, at any time during office hours, tion. where there are reasonable grounds to believe that there is at any telecommunication plant or radiocommunication station, any interference- causing equipment, radio apparatus or radio- sensitive equipmeht, enter such place and—
 
 (a) examine any interference-causing equipment, radio apparatus or radio- sensitive equipment found therein; and
 
@@ -140,25 +172,29 @@ Malaysia;";
 
 selepas sahaja seksyen 47,' seksyen baru 47A berikut:
 
-"Admissi- 47A. Where any person is charged with an bility of offence under this Act, any statement, whether statements in evidence. the statement amounts to a confession or not or whether it is oral or in writing, made at any time, whether before or after the person is charged and whether in the course of an investigation or not and whether or not wholly or partly in answer to questions, by that person to or in the hearing of any authorized telecornmunication officer and whether or not interpreted to him by another telecom- munication officer or other person, shall be admissible in evidence at his trial and, if the person charged tenders himself as a witness, any such statement may be used in cross- examination and for the purpose of impeaching his credit:
+<!-- marginal: "Admissi- -->
+
+47A. Where any person is charged with an
+
+<!-- marginal: bility of -->
+
+offence under this Act, any statement, whether
+
+<!-- marginal: statements -->
+
+<!-- marginal: in evidence. -->
+
+the statement amounts to a confession or not or whether it is oral or in writing, made at any time, whether before or after the person is charged and whether in the course of an investigation or not and whether or not wholly or partly in answer to questions, by that person to or in the hearing of any authorized telecornmunication officer and whether or not interpreted to him by another telecom- munication officer or other person, shall be admissible in evidence at his trial and, if the person charged tenders himself as a witness, any such statement may be used in cross- examination and for the purpose of impeaching his credit:
 
 Provided that—
 
 (a) no such statement shall be admissible or used as aforesaid—
 
-(i) if the making of the statement appears to the court to have been caused by
-
-<!-- marginal: any -->
-
-inducement, threat or promise
+(i) if the making of the statement appears to the court to have been caused by any inducement, threat or promise
 
 <!-- page 6 -->
 
-having reference to the charge against such person proceeding from a person in authority and sufficiem in the opinion of the court to give the person charged grounds which would appear to
-
-<!-- marginal: him -->
-
-reasonable for supposing that by making it he would gain any advantage or avoid any evil of a temporal nature in reference to the proceedings against him; or
+having reference to the charge against such person proceeding from a person in authority and sufficiem in the opinion of the court to give the person charged grounds which would appear to him reasonable for supposing that by making it he would gain any advantage or avoid any evil of a temporal nature in reference to the proceedings against him; or
 
 (ii) in the case of a statement made by the person after his arrest, unless the court is satisfied that he was cautioned in the following words or words to the like effect:
 

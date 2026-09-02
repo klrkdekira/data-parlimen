@@ -40,7 +40,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 3. The principal Act is amended by inserting after Part I the following Part:
 
-“Part Ia
+## “PART IA
 
 ## EMERGENCY PROTECTION ORDER
 

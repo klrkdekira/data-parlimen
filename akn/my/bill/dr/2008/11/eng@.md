@@ -40,11 +40,19 @@ B. 31 Ministry of Tourism 167,000,000 B. 32 Ministry of the Federal Territories
 
 <!-- marginal: 2,151,000 -->
 
-B. 42 Ministry of Health 100,000,000 B. 44 Ministry of Unity, Culture, Arts and 23,500,000 Heritage B. 45 Ministry of Youth and Sports
+B. 42 Ministry of Health 100,000,000 B. 44 Ministry of Unity, Culture, Arts and
+
+<!-- marginal: 23,500,000 -->
+
+Heritage B. 45 Ministry of Youth and Sports
 
 <!-- marginal: 39,000,000 -->
 
-B. 46 Ministry of Human Resources 100,000,000 B. 48 Ministry of Women, Family and 45,000,000 Community Development B. 49 Ministry of Higher Education 178,300,000 B. 62 Ministry of Home Affairs 113,918,997
+B. 46 Ministry of Human Resources 100,000,000 B. 48 Ministry of Women, Family and
+
+<!-- marginal: 45,000,000 -->
+
+Community Development B. 49 Ministry of Higher Education 178,300,000 B. 62 Ministry of Home Affairs 113,918,997
 
 ## TOTAL
 

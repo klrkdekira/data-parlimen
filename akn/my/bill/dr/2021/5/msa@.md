@@ -174,7 +174,7 @@ dalam rizab hidupan liar atau kawasan perlindungan hidupan liar, menjalankan per
 
 (ii) dengan menggantikan perkataan “enam bulan” dengan perkataan “tiga tahun”.
 
-### Pindaan seksyen 21
+<!-- marginal: Pindaan seksyen 21 -->
 
 7. Subseksyen 21(2) Akta ibu dipinda—
 
@@ -1002,7 +1002,9 @@ pegawai lain yang seumpamanya bagi syarikat, perkongsian liabiliti terhad, firma
 
 74. Akta ibu dipinda dengan memasukkan selepas Jadual Ketujuh jadual yang berikut:
 
-“Jadual Kelapan [Subseksyen 60(2)]
+## “JADUAL KELAPAN
+
+[Subseksyen 60(2)]
 
 ## HIDUPAN LIAR YANG DILINDUNGI BAGI MAKSUD
 
@@ -1024,13 +1026,15 @@ pegawai lain yang seumpamanya bagi syarikat, perkongsian liabiliti terhad, firma
 
 4. Jika terdapat percanggahan antara nama saintifik dengan nama tempatan dan nama biasa dalam penggunaan nama mana-mana spesies dalam Jadual ini, nama saintifik hendaklah terpakai.
 
-Nama Saintifik Nama Tempatan Nama Biasa
+Nama Saintifik Nama Tempatan
+
+<!-- marginal: Nama Biasa -->
 
 ## KELAS AVES
 
 Copsychus malabaricus Murai Batu White-rumped Shama Gracula religiosa Tiong Mas Hill Myna Zosterops palpebrosus Kelicap Kunyit Oriental White Eye
 
-## Jadual Kesembilan
+## JADUAL KESEMBILAN
 
 [Perenggan 68(2)(a)]
 
@@ -1098,7 +1102,7 @@ Enggang Tebang Rhynoplax vigil Helmeted Hornbill Mentua
 
 <!-- page 40 -->
 
-## Jadual Kesepuluh
+## JADUAL KESEPULUH
 
 [Perenggan 68(2)(c)]
 
@@ -1120,7 +1124,9 @@ MAKSUD PERENGGAN 68(2)(c)
 
 4. Jika terdapat percanggahan antara nama saintifik dengan nama tempatan dan nama biasa dalam penggunaan nama mana-mana spesies dalam Jadual ini, nama saintifik hendaklah terpakai.
 
-Nama Saintifik Nama Tempatan Nama Biasa
+Nama Saintifik Nama Tempatan
+
+<!-- marginal: Nama Biasa -->
 
 ## KELAS MAMALIA
 
@@ -1134,7 +1140,7 @@ Nama Saintifik Nama Tempatan
 
 Pardofelis marmorata Kucing Dahan Marbled Cat Prionailurus planiceps Kucing Hutan Flat-headed Cat Prionodon linsang Linsang Banded Linsang Prionodon pardicolor Linsang Berbintik Spotted Linsang Pongo abelii Orang Utan Sumatra Sumatran Orang Utan Pongo pygmaeus Orang Utan Borneo Bornean Orang Utan Rhinoceros sondaicus Badak Raya Javan Rhinoceros
 
-Jadual Kesebelas
+## JADUAL KESEBELAS
 
 [Subseksyen 122(4)]
 
@@ -1156,7 +1162,11 @@ Jadual Kesebelas
 
 <!-- page 42 -->
 
-Nama Tempatan Nama Biasa Nama Saintifik
+Nama Tempatan
+
+<!-- marginal: Nama Biasa -->
+
+Nama Saintifik
 
 ## KELAS MAMALIA
 

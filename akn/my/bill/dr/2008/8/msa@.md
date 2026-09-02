@@ -12,7 +12,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
-1. (1) Akta ini bolehlah dinamakan Akta Pencen (Pindaan) 2008.
+1. (1) Akta ini bolehlah dinamakan Akta Pencen (Pindaan)
+
+2008.
 
 (2) Akta ini mula berkuat kuasa pada 1 Julai 2008.
 
@@ -76,7 +78,9 @@ enam atau lima puluh lapan tahun, mengikut mana- mana yang berkenaan dengan umur
 
 <!-- page 4 -->
 
-4 Rang Undang-Undang
+<!-- marginal: 4 -->
+
+Rang Undang-Undang
 
 ### Pindaan seksyen 12A
 
@@ -86,7 +90,9 @@ enam atau lima puluh lapan tahun, mengikut mana- mana yang berkenaan dengan umur
 
 (b) dengan menggantikan subseksyen (2A) dengan subseksyen yang berikut:
 
-"(2A) Jika seseorang pegawai yang disebut dalam subseksyen (2) yang telah dilantik sebelum 1 Julai 2008 yang telah diberikan opsyen sebelum tarikh itu dan tidak memilih umur persaraan paksa lima puluh lapan tahun, subseksyen (2) hendaklah terpakai baginya dengan menggantikan perkataan 'lima puluh lapan' dengan perkataan 'lima puluh lima' atau 'lima puluh enam', mengikut mana-mana yang berkenaan, sebagaimana umur yang telah dipilih oleh pegawai itu bagi umur persaraan paksanya sebelum 1 Julai 2008.".
+"(2A) Jika seseorang pegawai yang disebut dalam subseksyen (2) yang telah dilantik sebelum 1 Julai 2008 yang telah diberikan opsyen sebelum tarikh itu dan tidak memilih umur persaraan paksa lima puluh lapan tahun, subseksyen (2) hendaklah terpakai baginya dengan menggantikan perkataan 'lima puluh lapan' dengan perkataan 'lima puluh lima' atau 'lima puluh enam', mengikut mana-mana yang berkenaan, sebagaimana umur yang telah dipilih oleh pegawai itu bagi umur persaraan paksanya sebelum 1 Julai
+
+2008.".
 
 ### Pindaan seksyen 23
 

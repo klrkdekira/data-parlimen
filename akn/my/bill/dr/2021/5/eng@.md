@@ -980,7 +980,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 74. The principal Act is amended by inserting after the Seventh Schedule the following schedules:
 
-“Eighth SchEdulE
+## “EIGHTH SCHEDULE
 
 [Subsection 60(2)]
 
@@ -1004,7 +1004,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 4. Where there is conflict between a scientific name and a local name and a common name in the use of the name of any species in this Schedule, the scientific name shall prevail.
 
-Scientific Name Local Name Common Name
+Scientific Name Local Name
+
+<!-- marginal: Common Name -->
 
 ## CLASS AVES
 
@@ -1014,7 +1016,7 @@ Gracula religiosa Tiong Mas Hill Myna
 
 Zosterops palpebrosus Kelicap Kunyit Oriental White Eye
 
-## NiNth SchEdulE
+## NINTH SCHEDULE
 
 [Paragraph 68(2)(a)]
 
@@ -1122,7 +1124,7 @@ Mentua
 
 <!-- page 36 -->
 
-## tENth SchEdulE
+## TENTH SCHEDULE
 
 [Paragraph 68(2)(c)]
 
@@ -1144,31 +1146,55 @@ PARAGRAPH 68(2)(c)
 
 4. Where there is conflict between a scientific name and a local name and a common name in the use of the name of any species in this Schedule, the scientific name shall prevail.
 
-Scientific Name Local Name Common Name
+Scientific Name Local Name
+
+<!-- marginal: Common Name -->
 
 ## CLASS MAMMALIA
 
-Arctictis binturong Binturong Binturong
+Arctictis binturong Binturong
 
-Bos gaurus Seladang Gaur
+<!-- marginal: Binturong -->
 
-Capricornis sumatraensis Kambing Gurun Serow
+Bos gaurus Seladang
 
-Catopuma temminckii Kucing Tulap Asian Golden Cat
+<!-- marginal: Gaur -->
 
-Dicerorhinus sumatrensis Badak Sumatera Sumatran Rhinoceros
+Capricornis sumatraensis Kambing Gurun
 
-Helarctos malayanus Beruang Matahari Malayan Sun Bear
+<!-- marginal: Serow -->
 
-Manis javanica Tenggiling Pangolin
+Catopuma temminckii Kucing Tulap
 
-Neofelis nebulosa Harimau Dahan Clouded Leopard
+<!-- marginal: Asian Golden Cat -->
 
-Panthera pardus Harimau Kumbang Leopard
+Dicerorhinus sumatrensis Badak Sumatera
 
-Panthera tigris Harimau Belang Tiger
+<!-- marginal: Sumatran Rhinoceros -->
 
-Pardofelis marmorata Kucing Dahan Marbled Cat
+Helarctos malayanus Beruang Matahari
+
+<!-- marginal: Malayan Sun Bear -->
+
+Manis javanica Tenggiling
+
+<!-- marginal: Pangolin -->
+
+Neofelis nebulosa Harimau Dahan
+
+<!-- marginal: Clouded Leopard -->
+
+Panthera pardus Harimau Kumbang
+
+<!-- marginal: Leopard -->
+
+Panthera tigris Harimau Belang
+
+<!-- marginal: Tiger -->
+
+Pardofelis marmorata Kucing Dahan
+
+<!-- marginal: Marbled Cat -->
 
 <!-- page 37 -->
 
@@ -1200,7 +1226,7 @@ Rhinoceros sondaicus Badak Raya
 
 <!-- marginal: Javan Rhinoceros -->
 
-ElEvENth SchEdulE
+## ELEVENTH SCHEDULE
 
 [Subsection 122(4)]
 

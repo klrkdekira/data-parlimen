@@ -46,9 +46,11 @@ amended—
 
 ## BILL
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Section 40 of the principal Act is amended— of section 40.
+3. Section 40 of the principal Act is amended—
+
+<!-- marginal: of section 40. -->
 
 (a) by deleting subsection (4);
 

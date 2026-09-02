@@ -406,7 +406,9 @@ of the University during the pendency of disciplinary proceedings.”;
 
 (ii) by inserting after subsection (2) the following subsection:
 
-“(3) For the avoidance of doubt, the powers under subsection (1) may be exercised by the Board, except the powers under paragraphs (1)(a), (b), (c), (d), (f), (j) and (kc) which shall be exercised by the Senate.”;
+“(3) For the avoidance of doubt, the powers under subsection (1) may be exercised by the Board, except the powers under paragraphs (1)(a),
+
+(b), (c), (d), (f), (j) and (kc) which shall be exercised by the Senate.”;
 
 (c) in section 9—
 
@@ -794,7 +796,9 @@ gifts, etc.”; and
 
 ### Amendment of Second Schedule
 
-27. The Second Schedule to the principal Act is amended in paragraph 2—
+27. The Second Schedule to the principal Act is amended in
+
+<!-- marginal: paragraph 2— -->
 
 (a) in subparagraph (b), by substituting for the words “revoked.” the words “revoked or he resigns; or”; and
 

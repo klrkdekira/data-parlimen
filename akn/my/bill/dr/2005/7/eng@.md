@@ -24,9 +24,7 @@ Bill
 
 ## SCHEDULE
 
-Purpose Title Amount
-
-<!-- marginal: (RM) -->
+Purpose Title Amount (RM)
 
 B. 03 Audit Department
 

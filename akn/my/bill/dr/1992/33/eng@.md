@@ -18,9 +18,27 @@ Now, THEREFORE, pursuant to the relevant provisions of the Federal Constitution 
 
 and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
 
-Short title 1. This Act may be cited as the Fisheries (Amendment) and com- Act 1992 and shall come into force on such date as the mencement. Minister may, by notification in the Gazette, appoint.
+<!-- marginal: Short title -->
 
-Amendment 2. Section 2 of the Fisheries Act 1985, which in this Act of section 2. is referred to as the "principal Act", is amended— Act 317
+1. This Act may be cited as the Fisheries (Amendment)
+
+<!-- marginal: and com- -->
+
+Act 1992 and shall come into force on such date as the
+
+<!-- marginal: mencement. -->
+
+Minister may, by notification in the Gazette, appoint.
+
+<!-- marginal: Amendment -->
+
+2. Section 2 of the Fisheries Act 1985, which in this Act
+
+<!-- marginal: of section 2. -->
+
+is referred to as the "principal Act", is amended—
+
+<!-- marginal: Act 317 -->
 
 (a) by inserting immediately after the word "fish" in the definition of "fish-aggregation device" the words "for the purposes of fishing";
 
@@ -42,21 +60,13 @@ Amendment 2. Section 2 of the Fisheries Act 1985, which in this Act of section 2
 
 (i) a natural person who is a citizen or natural persons who are citizens of Malaysia;
 
-(ii) a statutory
-
-<!-- marginal: corporation -->
-
-established under any of the laws of Malaysia;
+(ii) a statutory corporation established under any of the laws of Malaysia;
 
 (iii) the Government of Malaysia or the Government of a State in Malaysia; or
 
 <!-- page 3 -->
 
-(iv) a body corporate
-
-<!-- marginal: or -->
-
-unincorporate established in Malaysia, and wholly owned by any of the persons described in subparagraph (i), (ii) or (iii) of this definition; or
+(iv) a body corporate or unincorporate established in Malaysia, and wholly owned by any of the persons described in subparagraph (i), (ii) or (iii) of this definition; or
 
 (b) which is chartered, subchartered, leased or subleased by any person, statutory corporation, Government or body corporate described under paragraph (a) (i), (a) (ii), (a) (iii) or (a) (iv) of this definition;';
 
@@ -84,15 +94,37 @@ unincorporate established in Malaysia, and wholly owned by any of the persons de
 
 (g) barrier net.'.
 
-Amendment 3. Section 8 of the principal Act is amended by inserting of section 8. immediately after the words "who" the words "undertakes any fishing activity,".
+<!-- marginal: Amendment -->
 
-Amendment 4. Section 11 of the principal Act is amended by inserting of section 11. immediately after subsection (3) the following new subsection (4):
+3. Section 8 of the principal Act is amended by inserting
+
+<!-- marginal: of section 8. -->
+
+immediately after the words "who" the words "undertakes any fishing activity,".
+
+<!-- marginal: Amendment -->
+
+4. Section 11 of the principal Act is amended by inserting
+
+<!-- marginal: of section 11. -->
+
+immediately after subsection (3) the following new subsection (4):
 
 " (4) For the purpose of subsection (3), any part of a fishing appliance shall be construed as a complete fishing appliance unless proven otherwise.".
 
-Amendment 5. Subsection (4) of section 13 of the principal Act is of section 13. amended by substituting for the word "fourteen" the word "thirty".
+<!-- marginal: Amendment -->
 
-Amendment 6. Section 14 of the principal Act is amended— of section 14.
+5. Subsection (4) of section 13 of the principal Act is
+
+<!-- marginal: of section 13. -->
+
+amended by substituting for the word "fourteen" the word "thirty".
+
+<!-- marginal: Amendment -->
+
+6. Section 14 of the principal Act is amended—
+
+<!-- marginal: of section 14. -->
 
 (a) by substituting for the words "one year and shall expire on the 31 st December of the year in which it is issued" appearing in subsection (1) the words "twelve calendar months from the date of issuance of such licence";
 
@@ -142,7 +174,11 @@ after section 14 the following new section 14A:
 
 (c) any data and findings of such research or survey shall be made available to the Director-General in such manner and at such frequency as he may prescribe.".
 
-Amendment 9. Section 16 of the principal Act is amended— of section 16.
+<!-- marginal: Amendment -->
+
+9. Section 16 of the principal Act is amended—
+
+<!-- marginal: of section 16. -->
 
 (a) by substituting for the words "Innocent passage" appearing in the marginal note the word "Passage";
 
@@ -204,15 +240,29 @@ Provided further that for any offence under subsection (1) of section 43 the com
 
 (5) Where any offence committed under this Act has been compounded in accordance with this section, the Director-General shall direct that any article of a perishable nature which is the subject matter of any offence be sold and the proceeds of the sale forfeited.".
 
-Amendment 13. Section 35 of the principal Act is amended— of section 35.
+<!-- marginal: Amendment -->
 
-(a) by renumbering the existing section as subsection (1); and
+13. Section 35 of the principal Act is amended—
+
+<!-- marginal: of section 35. -->
+
+(a) by renumbering the existing section as subsection
+
+(1); and
 
 (b) by inserting immediately after subsection (1) the following new subsection (2):
 
 "(2) For the purpose of paragraph (c) of subsection (1), a certificate issued by the Minister responsible for survey and mapping or the Minister responsible for defence stating that a map, plan or chart has been approved by the Federal Government or the Government of any State, as the case may be, shall, in any legal proceeding, be conclusive proof of the fact so stated.".
 
-Amendment 14. Section 40 of the principal Act is amended by of section 40. substituting for subsection (1) the following subsection (1):
+<!-- marginal: Amendment -->
+
+14. Section 40 of the principal Act is amended by
+
+<!-- marginal: of section 40. -->
+
+substituting for subsection (1) the following subsection
+
+(1):
 
 "(1) Any person who—
 
@@ -270,33 +320,115 @@ immediately after section 41 the following new sections 4lA and 41B:
 
 (l) any other member to be appointed from time to time.
 
-Functions 4IB. The National Advisory Council for Marine of the Park and Marine Reserve shall advise the National Advisory Minister on any matter relating to a marine park Council or marine reserve area in particular— for Marine Park and Marine
+<!-- marginal: Functions -->
 
-(a) to determine the guideline for the Reserve. implementation at the national level with respect to protection, conservation, uti- lisation, control, management and progress of the marine park and marine reserve areas;
+4IB. The National Advisory Council for Marine
+
+<!-- marginal: of the -->
+
+Park and Marine Reserve shall advise the
+
+<!-- marginal: National -->
+
+<!-- marginal: Advisory -->
+
+Minister on any matter relating to a marine park
+
+<!-- marginal: Council -->
+
+or marine reserve area in particular—
+
+<!-- marginal: for Marine -->
+
+<!-- marginal: Park and -->
+
+<!-- marginal: Marine -->
+
+(a) to determine the guideline for the
+
+<!-- marginal: Reserve. -->
+
+implementation at the national level with respect to protection, conservation, uti- lisation, control, management and progress of the marine park and marine reserve areas;
 
 (b) to coordinate the development of any area of a marine park or marine reserve with the Federal Government and any body corporate; and
 
 (c) to give technical advice to the State Government with respect to any development project on any island which is situated in a marine park or marine reserve area.".
 
-New sections
+<!-- marginal: New sections -->
 
 16. The principal Act is amended by inserting
 
-47A., 47B, 47c immediately after section 47 the following new sections and 47D. 47A, 47B, 47c and 47D:
+47A., 47B, 47c immediately after section 47 the following new sections
 
-"Fisheries 47A. (1) Any fisheries officer shall have the officer's power to investigate the commission of any power of investiga- offence under this Act. tion. (2) Every person required by a fisheries officer to give information or produce any document or other article relating to the
+<!-- marginal: and 47D. -->
+
+47A, 47B, 47c and 47D:
+
+<!-- marginal: "Fisheries -->
+
+47A. (1) Any fisheries officer shall have the
+
+<!-- marginal: officer's -->
+
+power to investigate the commission of any
+
+<!-- marginal: power of -->
+
+<!-- marginal: investiga- -->
+
+offence under this Act.
+
+<!-- marginal: tion. -->
+
+(2) Every person required by a fisheries officer to give information or produce any document or other article relating to the
 
 <!-- page 11 -->
 
 commission of such offence which is in the person's power to give shall be legally bound to give the information or to produce the document or other article.
 
-Fisheries 47B. (1) A fisheries officer making an officer's investigation for any offence under this Act may power to require by order in writing require the attendance before attendance himself of any person who appears to the officer of witnesses. to be acquainted with the circumstances of the case, and such person shall attend as so required.
+<!-- marginal: Fisheries -->
+
+47B. (1) A fisheries officer making an
+
+<!-- marginal: officer's -->
+
+investigation for any offence under this Act may
+
+<!-- marginal: power to -->
+
+<!-- marginal: require -->
+
+by order in writing require the attendance before
+
+<!-- marginal: attendance -->
+
+himself of any person who appears to the officer
+
+<!-- marginal: of witnesses. -->
+
+to be acquainted with the circumstances of the case, and such person shall attend as so required.
 
 (2) If any such person refuses to attend as so required, such officer may report such refusal to a Magistrate who may thereupon in his discretion issue a warrant to secure the attendance of such person as required by such order aforesaid.
 
 (3) A person attending as required under subsection (1) shall be entitled to be paid reasonable travelling and subsistence expenses incurred by him and it shall be lawful for the Director-General to pay such expenses.
 
-Examina- 47c. (1) A fisheries officer making an tion of investigation under this Act, may examine witnesses by fisheries orally any person supposed to be acquainted officer. with the facts and circumstances of the case.
+<!-- marginal: Examina- -->
+
+47c. (1) A fisheries officer making an
+
+<!-- marginal: tion of -->
+
+investigation under this Act, may examine
+
+<!-- marginal: witnesses -->
+
+<!-- marginal: by fisheries -->
+
+orally any person supposed to be acquainted
+
+<!-- marginal: officer. -->
+
+with the facts and circumstances of the case.
 
 (2) Such person shall be bound to answer all questions relating to such case put to him by such officer:
 
@@ -310,11 +442,49 @@ Provided that such person may refuse to answer any question which would have a t
 
 (5) A statement made by any person under this section shall whenever possible be reduced into writing and signed by the person making it or affixed with his thumb print, as the case may be, after it has been read to him in the language in which he made it and after he has been given an opportunity to make any corrections he may wish.
 
-Procedure 47D. (1) Whenever any person is arrested and where detained in custody by a fisheries officer for an investigation cannot be offence under this Act, and it appears that the completed investigation cannot be completed within the within twenty-four period of twenty-four hours from the time the hours by a person is arrested, any fisheries officer may fisheries produce such person before a Magistrate for the officer. purpose of subsection (2).
+<!-- marginal: Procedure -->
+
+47D. (1) Whenever any person is arrested and
+
+<!-- marginal: where -->
+
+detained in custody by a fisheries officer for an investigation
+
+<!-- marginal: cannot be -->
+
+offence under this Act, and it appears that the
+
+<!-- marginal: completed -->
+
+investigation cannot be completed within the
+
+<!-- marginal: within -->
+
+<!-- marginal: twenty-four -->
+
+period of twenty-four hours from the time the
+
+<!-- marginal: hours by a -->
+
+person is arrested, any fisheries officer may
+
+<!-- marginal: fisheries -->
+
+produce such person before a Magistrate for the
+
+<!-- marginal: officer. -->
+
+purpose of subsection (2).
 
 (2) The Magistrate before whom such person is produced under subsection (1) may, whether he has or has no jurisdiction to try the case, from time to time authorise the detention of such person in such custody as such Magistrate thinks fit for a term not exceeding fifteen days on the whole.".
 
-Amendment 17. Section 50 of the principal Act is amended in of section 50. subsection (2)—
+<!-- marginal: Amendment -->
+
+17. Section 50 of the principal Act is amended in
+
+<!-- marginal: of section 50. -->
+
+subsection (2)—
 
 (a) by substituting for the comma appearing immediately after the word "thing" a full stop; and
 
@@ -328,7 +498,9 @@ Amendment 17. Section 50 of the principal Act is amended in of section 50. subse
 
 <!-- marginal: of section 52. -->
 
-substituting for subsection (1) the following subsection (1):
+substituting for subsection (1) the following subsection
+
+(1):
 
 "(1) Where any person is found guilty of any offence—
 
@@ -378,7 +550,9 @@ immediately after the word "training", the words "or survey on economic feasibil
 
 (b) in paragraph (aa)-
 
-(i) by inserting immediately after
+(i) by inserting immediately
+
+<!-- marginal: after -->
 
 <!-- marginal: the -->
 
@@ -398,7 +572,11 @@ words "applicants for" the word "authorisations,"; and
 
 fishing vessel and to prescribe the fees payable therefor;
 
-(ak) to regulate the registration of local fishing vessels and the issue of appropriate documentation in respect thereof;".
+(ak) to regulate the registration of local fishing vessels and the
+
+<!-- marginal: issue of -->
+
+appropriate documentation in respect thereof;".
 
 ## EXPLANATORY STATEMENT
 

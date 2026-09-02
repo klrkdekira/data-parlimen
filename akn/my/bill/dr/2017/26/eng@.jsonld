@@ -1,0 +1,2533 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-26-2017",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_34"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Valuers, Appraisers and Estate Agents (Amendment) Bill 2017"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 15(1) of the principal Act is amended by substituting for the words “Registrar of Valuers, Appraisers and Estate Agents” the words “Registrar of the Board of Valuers, Appraisers, Estate Agents and Property Managers”. Substitution of section 15a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 15a the following section: “Application for authority to practise 15a. A registered valuer, appraiser, estate agent or property manager shall apply to the Board for authority to practise where he intends to practise as a registered valuer or appraiser under section 19, as a registered estate agent under section 22b, or as a registered property manager under section 22i.”. Amendment of section 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_12__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_12__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_12__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 16 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1a), by substituting for the words “appraiser or estate agent” the words “appraiser, estate agent or property manager”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5), by substituting for the words “registered valuer, appraiser or estate agent” the words “registered valuer, appraiser, estate agent or property manager”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_12__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_12__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_12__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (7)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_12__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_12__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “A registered valuer, appraiser or estate agent—” the words “A registered valuer, appraiser, estate agent or property manager—”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_12__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_12__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the words “registered valuers, appraisers or estate agents” the words “registered valuers, appraisers, estate agents or property managers”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_12__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_12__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_12__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (7b)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_12__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_12__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “probationary valuers and probationary estate agents” the words “probationary valuers, probationary estate agents and probationary property managers”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_12__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_12__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “Register of Probationary Valuers/Probationary Estate Agents” the words “Register of Probationers”. Amendment of section 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_13__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 17 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (1)(e), by substituting for the words “valuation or estate agency” the words “estate agency or property management”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1a), by inserting after the words “estate agency” the words “or property management”. Amendment of section 17a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 17a(1) of the principal Act is amended by substituting for the words “Register of Probationary Valuers/Probationary Estate Agents” the words “Register of Probationers”. Amendment of section 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 18 of the principal Act is amended by deleting subsection (6). Amendment of section 19"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_16__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_16__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 19 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_16__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_16__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_16__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_16__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “all interest therein including” the words “trees, crops,”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_16__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_16__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the semicolon at the end of the paragraph the word “and”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the words “; and” at the end of the paragraph a full stop; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_16__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph (c). Amendment of section 21"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_17__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 21 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_17__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_17__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_17__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_17__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by deleting the words ‘“Property Manager”’; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_17__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_17__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph (aa); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsections (2) and (3). Amendment of section 22a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 22a of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph(1)(f), by substituting for the words “estate agency” the words “property management”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1a), by inserting after the word “valuation” the words “or property management”. Amendment of section 22b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_19__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_19__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 22b of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing subsection (1 a) as subsection (1b);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting before subsection (1b) as renumbered the following subsection: “(1a) A person undertakes estate agency practice if he acts as an agent, or holds himself out to the public or to any individual or firm as ready to act as an agent, for a commission, fee, reward or other consideration— (a) in respect of any sale or other disposal of land and buildings and of any interest therein; (b) in respect of any purchase or other acquisition of land and buildings and of any interest therein; (c) in respect of any leasing or letting of land and buildings and of any interest therein; (d) in making known of the availability of land, building, or any interest therein for such sale or disposal, purchase or acquisition, or leasing or letting referred to in paragraph (a), (b) or (c), as the case may be; and (e) in respect of any tenancy administration including rental collection, payment of outgoings, arrangement for minor repairs and handing over and taking over the possession of a property of any land and buildings and of any interest therein.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_19__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_19__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_19__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_19__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_19__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_19__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “subsection (1a)” the words “subsection (1b)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_19__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_19__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the words “subsection (1a)” the words “subsection (1b)”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_19__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_19__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the words “subsection (1a)” the words “subsection (1b)”. Amendment of section 22c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Valuers, Appraisers and Estate Agents (Amendment) Act 2017."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of long title"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Valuers, Appraisers and Estate Agents Act 1981 [Act 242], which is referred to as the “principal Act” in this Act, is amended in the long title by substituting for the words “valuers, appraisers and estate agents” the words “valuers, appraisers, estate agents and property managers”. Amendment of section 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_20__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_20__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 22c of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (1)(a), by inserting after the words ‘“House Broker”’ the words ‘, “Real Estate Agency Consultant”,’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_20__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_20__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_20__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_20__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_20__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by deleting the word “and” at the end of the paragraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_20__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_20__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by substituting for the full stop at the end of the paragraph the words “; and”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_20__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_20__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (c) the following paragraph: “(d) a negotiator may assist the registered estate agent in the estate agency practice.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_20__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: “(2a) For the purpose of paragraph (2)(d), “negotiator” means a person who is employed by a registered estate agent to assist him in the estate agency practice.”. Amendment of section 22d"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 22d of the principal Act is amended by deleting subsection (5). Amendment of section 22e"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 22e(1) of the principal Act is amended by substituting for the words “Register of Probationary Valuers/ Probationary Estate Agents” the words “Register of Probationers”. New Part Vb"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after Part Va the following Part: “PART VB PROPERTY MANAGERS Registration of property managers 22f. (1) Subject to the provisions of this Act, every person shall be entitled to have his name entered under Part IV of the Register upon making an application to the Board and proving to its satisfaction that— (a) he has attained the age of 21 years and is of sound mind, good character and has not been convicted of any offence involving fraud, dishonesty or moral turpitude during the five years immediately preceding the date of his application; (b) he is not an undischarged bankrupt; (c) he has not made a statement, or affirmed or attested a document that is false or misleading in a material particular; (d) he has not dishonestly concealed material facts; (e) he has not furnished false information; (f) he satisfies the requirements of section 22h; (g) he has made a declaration in the form and manner prescribed by the Board; (h) he has paid the fees prescribed by the Board; and (i) he is not under suspension from valuation or estate agency practice nor has his name been cancelled from the Register. (2) Notwithstanding paragraph (1)(i), a person who is disqualified from valuation or estate agency practice may, if the Board considers him fit to practise property management, have his name entered under Part IV of the Register as a property manager. (3) Any registered valuer or registered appraiser who, immediately before the coming into force of this Part, had his name entered under Part I or II of the Register shall, upon the coming into force of this Part, be entitled to have his name entered under Part IV of the Register without payment of any fee. (4) Any probationary valuer who has passed the Test of Professional Competence for property managers shall be entitled to have his name entered under Part IV of the Register. (5) Any person who has obtained qualifications which the Board recognizes and has passed the Test of Professional Competence for property managers shall be entitled to have his name entered under Part IV of the Register. (6) Any registered estate agent shall be entitled to have his name entered under Part IV of the Register if before the date of the coming into force of this Part he was permitted to undertake property management as specified in subsection 22b(2). (7) Any person who applies within twelve months from the date of the coming into force of this Part for registration under Part IV of the Register shall be entitled to have his name so registered if he proves to the satisfaction of the Board that— (a) immediately before the date of the coming into force of this Part— (i) he has been engaged in property management practice or business; and (ii) he has served his clients generally to their satisfaction; and (b) he complies with the provisions of subsection (1). (8) In order to be satisfied with any of the matters mentioned in subsections (1), (4), (5), (6) and (7), the Board may call upon the applicant to submit to it such documents as it considers relevant. (9) A registered valuer, appraiser or estate agent permitted to carry on property management before the coming into force of this Part may, pending having his name entered under Part IV of the Register as provided for under subsection (3) or (6), continue to engage in property management practice or business within the period referred to in subsection (7). Registration of probationary property managers 22g. (1) Subject to the provisions of this Act, every person shall be entitled to have his name entered as a probationary property manager in the Register of Probationers upon making an application to the Board and proving to its satisfaction that— (a) he has attained the age of 21 years and is of sound mind, good character and has not been convicted of any offence involving fraud, dishonesty or moral turpitude during the five years immediately preceding the date of his application; (b) he is not an undischarged bankrupt; (c) he satisfies the requirements of section 22h; (d) he has made a declaration in the form and manner prescribed by the Board; (e) he has paid the fees prescribed by the Board; and (f) he has submitted such documents as may be required by the Board. (2) The Board may require the applicant to submit any additional documents as it considers relevant in order to be satisfied of any of the matters mentioned in subsection (1). (3) Any registered estate agent who applies within twelve months from the date of coming into force of this Part for registration as a probationary property manager under the Register of Probationers shall be entitled to have his name so registered if he proves to the satisfaction of the Board that he has ten years experience as an estate agent. Qualification for registration of property managers and probationary property managers 22h. (1) Subject to the provisions of this Act, no person shall be entitled to have his name entered under Part IV of the Register unless he has been registered as a probationary property manager under this Act. (2) Any person who has passed the examinations prescribed by the Board or who has obtained qualifications which the Board recognizes as equivalent to such examination may apply to the Board to be registered as a probationary property manager. (3) A probationary property manager shall be required to obtain the practical experience and to pass the Test of Professional Competence prescribed by the Board or any equivalent test or examination recognized by the Board. (4) Where a probationary property manager has complied with the requirements of subsection (3), he may apply to the Board to have his name entered in the Register. Property management practice 22i. (1) Subject to the provisions of this Act, a registered property manager who has been issued with an authority to practise by the Board shall be entitled to practise his profession and shall be authorized to undertake property management practice. (2) The property management practice referred to in subsection (1) includes the following: (a) enforcing the terms of leases and other agreements pertaining to the property; (b) preparing budgets and maintaining the financial records for the property; (c) monitoring outgoings for the property and making payments out of the income from the property; (d) advising on sale, purchase and lettings decisions; (e) advising on insurance matters; (f) advising on the opportunities for the realization of development or investment potential of the property; (g) advising on the necessity for upgrading the property or for the merging of interests; (h) managing and maintaining the building and facilities attached to the building; and (i) making or checking of inventories of furniture, fixtures, trade stocks, plant or machinery, or other effects. Restriction on property management practice 22j. (1) No person shall, unless he is a registered property manager and has been issued with an authority to practise under section 16— (a) practise or carry on business or take up employment under any name, style or title containing the words “Property Manager”, “Managing Agent”, or the equivalent thereto in any language or bearing any other word whatsoever in any language which may reasonably be construed to imply that he is a registered property manager or he is engaged in property management practice or business; (b) act as a property manager; (c) carry on business or take up appointment or engagement as a property manager; (d) display any signboard or poster, or use, distribute or circulate any card, letter, pamphlet, leaflet, notice or any form of advertisement, implying either directly or indirectly that he is a registered property manager or he is engaged in property management practice or business; (e) undertake for a fee or other consideration any of the work enumerated in subsection 22i(2); or (f) be entitled to recover in any court any fee, commission, charge or remuneration for any professional advice or services rendered as a property manager. (2) Paragraph (1)(b) shall not apply to the owner of any land, building and any interest therein who manages such land, building and interest. (3) For the purposes of subsection (2), “owner” in relation to any land, building and any interest in the land or building means— (a) the registered owner; (b) the beneficiary of any estate or trust of a deceased person; and (c) a lessee whose interest is registered under the National Land Code [Act 56 of 1965], the Sarawak Land Code [Sarawak Cap. 81] and the Sabah Land Ordinance [Sabah Cap. 68]. (4) For the purposes of paragraphs (3)(a) and (c), a registered owner or a lessee may be an individual or a company but shall not include any shareholder in the company owning such land, building and interest in the land or building unless such land, building and interest is wholly owned by the company. (5) The provisions relating to restrictions of property management practice as contained in subsection (1) shall apply mutatis mutandis to a firm.”. Amendment of section 23"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_m",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_n",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_o",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_p",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_q"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 23 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “No registered valuer, appraiser or estate agent shall practise valuation, appraisal or estate agency” the words “No registered valuer, appraiser, estate agent or property manager shall practise valuation, appraisal, estate agency or property management”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing subsection (1 a) as subsection (1b);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1b) as renumbered—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “appraisal or estate agency” the words “appraisal, estate agency or property management”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the words “appraiser or estate agency” the words “appraiser, estate agent or property manager”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting before subsection (1b) as renumbered the following subsection: “(1a) A sole proprietorship, partnership or body corporate may apply to the Board for registration to practise valuation, appraisal, estate agency or property management in the form and manner, and accompanied by the fee, as prescribed by the Board.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “appraisal or estate agency” the words “appraisal, estate agency or property management”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_ii__subpara_B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_ii__subpara_C",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_ii__subpara_D"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsubparagraph (i)(B), by substituting for the words “registered appraisals and registered estate agents” the words “registered appraisers, registered estate agents and registered property managers”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_ii__subpara_B__subpara_aa",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_ii__subpara_B__subpara_bb"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (ii)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_ii__subpara_B__subpara_aa",
+      "@type": "akn:subparagraph",
+      "eli:number": "aa",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_ii__subpara_B",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsubparagraph (B), by substituting for the words “registered appraisals, registered valuers and registered estate agents” the words “registered appraisers, registered valuers, registered estate agents and registered property managers”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_ii__subpara_B__subpara_bb",
+      "@type": "akn:subparagraph",
+      "eli:number": "bb",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_ii__subpara_B",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsubparagraph (C), by deleting the word “and” at the end of the subsubparagraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_ii__subpara_C",
+      "@type": "akn:subparagraph",
+      "eli:number": "C",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_ii__subpara_C__subpara_aa",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_ii__subpara_C__subpara_bb"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (iii)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_ii__subpara_C__subpara_aa",
+      "@type": "akn:subparagraph",
+      "eli:number": "aa",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_ii__subpara_C",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsubparagraph (B), by substituting for the words “registered valuers and registered appraisals” the words “registered valuers, registered appraisers and registered property managers”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_ii__subpara_C__subpara_bb",
+      "@type": "akn:subparagraph",
+      "eli:number": "bb",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_ii__subpara_C",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsubparagraph (C), by inserting after the semicolon at the end of the subsubparagraph the word “and”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_ii__subpara_D",
+      "@type": "akn:subparagraph",
+      "eli:number": "D",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subparagraph (iii) the following subparagraph: “(iv) in the case of a property management practice— (A) solely registered property managers; (B) a combination of registered property managers, registered valuers, registered appraisers and registered estate agents; or (C) a combination of registered property managers and any other persons or bodies corporate;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_iii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_iii__subpara_B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_iii__subpara_C",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_iii__subpara_D"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_iii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_iii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (iii), by deleting the word “and” at the end of the subparagraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_iii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_iii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing subparagraph (iv) as subparagraph (v); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_iii__subpara_C",
+      "@type": "akn:subparagraph",
+      "eli:number": "C",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_iii__subpara_C__subpara_aa",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_iii__subpara_C__subpara_bb",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_iii__subpara_C__subpara_cc"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_iii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (v) as renumbered—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_iii__subpara_C__subpara_aa",
+      "@type": "akn:subparagraph",
+      "eli:number": "aa",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_iii__subpara_C",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “registered appraisers and registered estate agents” the words “registered appraisers, registered estate agents and registered property managers”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_iii__subpara_C__subpara_bb",
+      "@type": "akn:subparagraph",
+      "eli:number": "bb",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_iii__subpara_C",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsubparagraph (B), by deleting the word “and” at the end of the subsubparagraph; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_iii__subpara_C__subpara_cc",
+      "@type": "akn:subparagraph",
+      "eli:number": "cc",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_iii__subpara_C",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsubparagraph (C) the following subsubparagraph: “(D) in the case of a property management practice, by a majority of property managers who hold the majority interest and the voting rights.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_iii__subpara_D",
+      "@type": "akn:subparagraph",
+      "eli:number": "D",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_e__subpara_iii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting before subparagraph (v) as renumbered the following subparagraph: “(iv) in the case of a property management practice, solely by registered property managers; and”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing subsection (4 a) as subsection (4b);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_g__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_g__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_g__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_g__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4b) as renumbered—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_g__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_g",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “Notwithstanding subsection (2) or (4)” the words “Notwithstanding subsection (2), (4) or (4a)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_g__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_g",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the words “appraisal or estate agency” the words “appraisal, estate agency or property management”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_g__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_g",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by substituting for the words “appraisal or estate agency” the words “appraisal, estate agency or property management”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_g__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_g__subpara_iv__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_g__subpara_iv__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_g",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (d)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_g__subpara_iv__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_g__subpara_iv",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “appraisal or estate agency” the words “appraisal, estate agency or property management”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_g__subpara_iv__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_g__subpara_iv",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “appraiser or estate agent” the words “appraiser, estate agent or property manager”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (4) the following subsection: “(4a) No registered property manager may, unless the Board so approves in writing, become or remain as a sole proprietor, partner, shareholder or director of more than one sole proprietorship, partnership or body corporate, as the case may be, practising property management.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (6), by substituting for the words “A registered valuer, appraiser or estate agent” the words “A registered valuer, appraiser, estate agent or property manager”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_j__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_j__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (7)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_j__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_j",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “registered appraiser or registered estate agent” wherever appearing the words “registered appraiser, registered estate agent or registered property manager”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_j__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_j",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “register of Valuers, Appraisers and Estate Agents” the words “Register”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_k__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_k__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_k__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (8)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_k__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_k",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “registered appraiser or registered estate agent” wherever appearing the words “registered appraiser, registered estate agent or registered property manager”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_k__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_k",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the words “registered appraiser or registered estate agent” the words “registered appraiser, registered estate agent or registered property manager”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_k__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_k",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the words “registered appraiser or registered estate agent” the words “registered appraiser, registered estate agent or registered property manager”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_l__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_l__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (9)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_l__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_l",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “registered appraiser or registered estate agent” the words “registered appraiser, registered estate agent or registered property manager”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_l__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_l",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words “of Valuers, Appraisers and Estate Agents”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (10), by substituting for the words “registered valuation, appraisal or estate agency” the words “registered valuation, appraisal, estate agency or property management”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_n",
+      "@type": "akn:paragraph",
+      "eli:number": "n",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_n__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_n__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_n__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (11)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_n__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_n",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “registered appraiser or registered estate agent” the words “registered appraiser, registered estate agent or registered property manager”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_n__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_n",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the words “registered appraiser or registered estate agent” the words “registered appraiser, registered estate agent or registered property manager”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_n__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_n",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the words “registered appraiser or registered estate agent” the words “registered appraiser, registered estate agent or registered property manager”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_o",
+      "@type": "akn:paragraph",
+      "eli:number": "o",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (12), by substituting for the words “appraiser or estate agent” wherever appearing the words “appraiser, estate agent or property manager”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_p",
+      "@type": "akn:paragraph",
+      "eli:number": "p",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (13), by substituting for the words “appraiser or estate agent” the words “appraiser, estate agent or property manager”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_q",
+      "@type": "akn:paragraph",
+      "eli:number": "q",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_q__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_q__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (14)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_q__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_q",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “appraiser or estate agent” wherever appearing the words “appraiser, estate agent or property manager”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_q__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_24__para_q",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “registered valuer, appraiser or estate agent” wherever appearing the words “registered valuer, appraiser, estate agent or property manager”. Amendment of section 24"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 24(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “Subject to the provisions of this Part, if a valuer, appraiser or estate agent or a probationary valuer or probationary estate agent whose name has been placed in the Register or the Register of Probationary Valuers/Probationary Estate Agents, as the case may be—” the words “Subject to the provisions of this Part, if a valuer, appraiser, estate agent or property manager, or a probationary valuer, probationary estate agent or probationary property manager whose name has been placed in the Register or the Register of Probationers, as the case may be—”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by substituting for the words “section 18, 22a or 22d” the words “section 18, 22d or 22h”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (h)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “appraisal or estate agency” the words “appraisal, estate agency or property management”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word “or” at the end of the paragraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (i), by substituting for the words “valuation, appraisal or estate agency practice,” the words “valuation, appraisal, estate agency or property management practice; or”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (i) the following paragraph: “(j) has sold, leased, sublet, transferred or otherwise permitted any other person to use his authority to practise issued to him under this Act,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (v), by deleting the word “or” at the end of the subparagraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (vi), by substituting for the full stop at the end of the subparagraph a semicolon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subparagraph (vi) the following subparagraphs: “(vii) warning him; or (viii) dismissing the charge.”. Amendment of section 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_26__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_26__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 25 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_26__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_26__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_26__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_26__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_26__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “There shall be removed from the Register or the Register of Probationary Valuers/Probationary Estate Agents, as the case may be, the name and particulars of any registered valuer, appraiser or estate agent or probationary valuer or probationary estate agent—” the words “There shall be removed from the Register or the Register of Probationers, as the case may be, the name and particulars of any registered valuer, appraiser, estate agent or property manager, or probationary valuer, probationary estate agent or probationary property manager—”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_26__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_26__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by substituting for the words “appraiser or estate agent” the words “appraiser, estate agent or property manager”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_26__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_26__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_26__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_26__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_26__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “Register of Probationary Valuers/Probationary Estate Agents” the words “Register of Probationers”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_26__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_26__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “probationary valuer or probationary estate agent” the words “probationary valuer, probationary estate agent or probationary property manager”. Amendment of section 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_27__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_27__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_27__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_27__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section of 26 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_27__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “Register of Probationary Valuers/Probationary Estate Agents” the words “Register of Probationers”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_27__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “Register of Probationary Valuers/Probationary Estate Agents” the words “Register of Probationers”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_27__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “Register of Probationary Valuers/Probationary Estate Agents” the words “Register of Probationers”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_27__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by substituting for the words “Register of Probationary Valuers/Probationary Estate Agents” the words “Register of Probationers”. Amendment of section 30"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 30 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_a__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_a__subpara_v"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the words “Register of Probationary Valuer/Probationary Estate Agent” the words “Register of Probationers”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (e), by substituting for the words “registered valuer, appraiser or estate agent” the words “registered valuer, registered appraiser, registered estate agent or registered property manager”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph (g);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_a__subpara_iv__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_a__subpara_iv__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (h)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_a__subpara_iv__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_a__subpara_iv",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “registered valuer, appraiser or estate agent” the words “registered valuer, registered appraiser, registered estate agent or registered property manager”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_a__subpara_iv__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_a__subpara_iv",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “section 19 or 22b” the words “section 19, 22b or 22i”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_a__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (i), by substituting for the words “section 21 or 22c;” the words “section 21, 22c or 22j;”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_b__subpara_i__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_b__subpara_i__subpara_B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_b__subpara_i__subpara_C"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_b__subpara_i__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_b__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “appraiser or estate agent” wherever appearing the words “appraiser, estate agent or property manager”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_b__subpara_i__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_b__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “appraisal or estate agency” the words “appraisal, estate agency or property management”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_b__subpara_i__subpara_C",
+      "@type": "akn:subparagraph",
+      "eli:number": "C",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_b__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “appraisal or estate agent” the words “appraisal, estate agency or property management”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_28__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the words “appraiser or estate agent” the words “appraiser, estate agent or property manager”. Amendment of section 30a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_29__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing section 30a as section 30b;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in section 30b as renumbered, by substituting for subsection (1) the following subsection: “(1) If it appears to a Magistrate, upon written information on oath and after such enquiry as he considers necessary, that there is reasonable cause to believe that an offence under this Act or any rules made under this Act is being or has been committed on any premises, the Magistrate may issue a warrant authorizing any police officer not below the rank of Inspector, or any person named in the warrant— (a) to enter the premises at any reasonable time, by day or by night, with or without assistance, and if need be by force; (b) to search for and seize at the premises any signboard, card, letter, pamphlet, leaflet, notice or other device representing or implying that the person is a registered valuer, appraiser, estate agent or property manager, and any other document, article or item that is reasonably believed to furnish evidence of the commission of such offence; and (c) to detain any person found in the premises until the premises has been searched, if necessary.”. New section 30a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 1 of the principal Act is amended by substituting for the words “Valuers, Appraisers and Estate Agents Act 1981” the words “Valuers, Appraisers, Estate Agents and Property Managers Act 1981”. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting before section 30b as renumbered the following section: “Powers to investigate 30a. (1) A police officer not below the rank of an Inspector shall have the powers to investigate the commission of any offence under this Act or any rules made under this Act. (2) The provisions of the Criminial Procedure Code [Act 593] shall apply to a police officer not below the rank of an Inspector in relation to any investigation in respect of any offence under this Act or any rules made under this Act, except that the power to arrest without a warrant under the Criminial Procedure Code in any seizable offence may not be exercised by the police officer.”. Amendment of section 30b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_31__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_31__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_31__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing section 30b as section 30c; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_31__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in section 30c as renumbered, by substituting for the words “section 30a” wherever appearing the words “section 30B”. Amendment of section 30c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_32__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_32__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_32__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing section 30c as section 30d; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_32__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection 30d(1) as renumbered, by substituting for the words “section 30a or 30b” the words “section 30b or 30c”. Substitution of section 31a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 31a the following section: “Protection against suit and legal proceedings 31a. No action, suit, prosecution or other proceedings shall lie or be brought, instituted or maintained in any court against the Board, any Committee appointed by the Board, any members of the Board, any members of the Committee appointed by the Board or any person or officer of the Board authorized or appointed to act for or on behalf of the Board in respect of any act, neglect or default done or committed by it or him in good faith, or any omission by it or him in good faith, in such capacity.”. Savings provisions"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_34__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_34__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_34__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_34__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_34__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_34__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_34__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_34__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All references to the Valuers, Appraisers and Estate Agents Act 1981 in any written law or document shall, on the coming into operation of this Act, be construed as reference to the Valuers, Appraisers, Estate Agents and Property Managers Act 1981."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_34__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All references to the Board of Valuers, Appraisers and Estate Agents in any written law or document subsisting immediately before the date of coming into operation of this Act, shall, on the coming into operation of this Act, be construed as reference to the Board of Valuers, Appraisers, Estate Agents and Property Managers."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_34__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The change of name of “Board of Valuers, Appraisers and Estate Agents” to “Board of Valuers, Appraisers, Estate Agents and Property Managers” upon the coming into operation of this Act shall not affect any rights or obligations of the Board or render defective any legal proceedings by or against it, and any legal proceedings that could have been continued or commenced by or against it before the date of coming into operation of this Act may be continued or commenced under its new name."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_34__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All references to the Registrar of Valuers, Appraisers and Estate Agents in any written law or document subsisting immediately before the date of coming into operation of this Act shall, on the coming into operation of this Act, be construed as reference to the Registrar of the Board of Valuers, Appraisers, Estate Agents and Property Managers."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_34__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All actions, orders, directions, notifications, approvals, decisions, guidelines and other executive acts made, given or done under, or in accordance with, or by virtue of the principal Act before the coming into operation of this Act shall be deemed to have been made, given or done under, or in accordance with, or by virtue of, the corresponding provision introduced or amended by this Act, and shall continue to remain in full force and effect in relation to the persons to whom they apply until amended, repealed or rescinded under, or in accordance with, or by virtue of, the corresponding provision introduced or amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_34__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All moneys contained in or due to be paid into the Fund of the Board of Valuers, Appraisers and Estate Agents established under section 12 of the principal Act shall, on the coming into operation of this Act, be transferred to and be deemed to be part of the Fund of the Board of Valuers, Appraisers, Estate Agents and Property Managers."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_34__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All deeds, documents and other instruments executed by the Board under the common seal of “Board of Valuers, Appraisers and Estate Agents” before the coming into operation of this Act shall continue to remain in full force and effect on the coming into operation of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4__para_m"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended in section 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of “estate agency practice”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “Register” the following definition: ‘ “Register” means the Register of Valuers, Appraisers, Estate Agents and Property Managers kept under paragraph 14(1)(a);’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “Register of Probationary Valuers/Probationary Estate Agents” the following definition: ‘ “Register of Probationers” means the Register of Probationary Valuers, Probationary Estate Agents and Probationary Property Managers kept under paragraph 14(1)(b);’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “probationary estate agent”, by substituting for the words “Register of Probationary Valuers/Probationary Estate Agents” the words “Register of Probationers”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “Fund”, by substituting for the words “Board of Valuers, Appraisers and Estate Agents” the words “Board of Valuers, Appraisers, Estate Agents and Property Managers”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “Board” the following definition: ‘ “Board” means the Board of Valuers, Appraisers, Estate Agents and Property Managers established under section 9;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “applicant” the following definition: ‘ “applicant” means an individual registered valuer, appraiser, estate agent or property manager, or a registered valuation, appraisal, estate agency or property management firm, as the case may be;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “Registrar” the following definition: ‘ “Registrar” means the Registrar of the Board of Valuers, Appraisers, Estate Agents and Property Managers appointed under section 15.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “property manager”, by deleting the words “to maintain or increase the investment in, or physical worth of, such property”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “registered estate agent” the following definition: ‘ “registered property manager” means a person whose name has been entered under Part IV of the Register and to whom an authority to practise has been issued by the Board under section 16;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “probationary estate agent” the following definition: ‘ “probationary property manager” means a person who is registered under this Act as a probationary property manager and whose name has been placed in the Register of Probationers;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “property management” the following definition: ‘ “property management” means the management and control of any land, building and any interest in the land or building, excluding the management of property-based businesses, on behalf of the owner for a fee;’; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “probationary valuer”, by substituting for the words “Register of Probationary Valuers/Probationary Estate Agents” the words “Register of Probationers”. Amendment of heading of Part III"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for the heading of Part III the following heading: “BOARD OF VALUERS, APPRAISERS, ESTATE AGENTS AND PROPERTY MANAGERS”. Amendment of section 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 9 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the shoulder note the following shoulder note: “Board of Valuers, Appraisers, Estate Agents and Property Managers”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “Board of Valuers, Appraisers and Estate Agents” the words “Board of Valuers, Appraisers, Estate Agents and Property Managers”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6__para_c__subpara_i__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6__para_c__subpara_i__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (cc)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6__para_c__subpara_i__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6__para_c__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “registered estate agents” the words “nominated by the President of the Board”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6__para_c__subpara_i__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6__para_c__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word “and” at the end of the paragraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (d), by substituting for the full stop at the end of the paragraph the words “; and”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (d) the following paragraph: “(e) three registered property managers nominated by the President of the Board.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “and (d)” the words “, (d) and (e)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (6), by substituting for the words “and (d)” the words “, (d) and (e)”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (8) the following subsection: “(9) The Minister may, by order published in the Gazette, amend the First Schedule.”. Amendment of section 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_7__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_7__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_7__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_7__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_7__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_7__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 10 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the words “a Register of Valuers, Appraisers and Estate Agents, a Register of Probationary Valuers/Probationary Estate Agents and a” the words “the Register, Register of Probationers and”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (e), by substituting for the words “registered valuers or appraisers or estate agents” the words “valuers, appraisers, estate agents or property managers”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (f), by substituting for the words “appraisers and estate agents” the words “appraisers, estate agents and property managers”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_7__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (g), by substituting for the words “appraisers and estate agents” the words “appraisers, estate agents and property managers”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_7__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (h), by substituting for the words “valuation or estate agency” the words “valuation, estate agency or property management,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_7__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (hc), by substituting for the words “appraisers and estate agents” the words “appraisers, estate agents and property managers”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_7__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (hd), by deleting the word “and” at the end of the paragraph; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_7__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (hd) the following paragraph: “(he) to hold in trust the monies in a dispute between a registered valuer, appraiser, estate agent or property manager, and a client or third party in a contract for valuation, appraisal, estate agency or property management services, whenever the Board deems necessary;”. Amendment of section 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 12(1) of the principal Act is amended by substituting for the words “Appraisers and Estate Agents” the words “Appraisers, Estate Agents and Property Managers”. Amendment of section 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 14 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_i__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_i__subpara_B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_i__subpara_C",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_i__subpara_D"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_i__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “a Register of Valuers, Appraisers and Estate Agents which shall be in three Parts” the words “a Register of Valuers, Appraisers, Estate Agents and Property Managers which shall be in four Parts”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_i__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (ii), by deleting the word “and” at the end of the subparagraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_i__subpara_C",
+      "@type": "akn:subparagraph",
+      "eli:number": "C",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (iii), by inserting after the semicolon at the end of the subparagraph the word “and”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_i__subpara_D",
+      "@type": "akn:subparagraph",
+      "eli:number": "D",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subparagraph (iii) the following subparagraph: “(iv) Part IV which shall contain the names, business addresses, qualifications and other particulars of registered property managers;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_ii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “Register of Probationary Valuers/Probationary Estate Agents” the words “Register of Probationary Valuers, Probationary Estate Agents and Probationary Property Managers’’; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “probationary valuers and probationary estate agents” the words “probationary valuers, probationary estate agents and probationary property managers”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_iii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_iii__subpara_B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_iii__subpara_C",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_iii__subpara_D"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_iii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_iii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “three” the word “four”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_iii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_iii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (ii), by deleting the word “and” at the end of the subparagraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_iii__subpara_C",
+      "@type": "akn:subparagraph",
+      "eli:number": "C",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_iii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (iii), by substituting for the full stop at the end of the subparagraph the words “; and”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_iii__subpara_D",
+      "@type": "akn:subparagraph",
+      "eli:number": "D",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_a__subpara_iii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subparagraph (iii) the following subparagraph: “(iv) Part IV which shall contain the names, addresses and other particulars of firms carrying on practice as property managers.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/26/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by substituting for the words “valuer, appraiser or estate agent or of any probationary valuer or probationary estate agent” the words “valuer, appraiser, estate agent or property manager, or of any probationary valuer, probationary estate agent or probationary property manager,”. Amendment of section 15"
+      }
+    }
+  ]
+}

@@ -50,23 +50,35 @@ dan 1994) 1994.
 
 Tajuk Peruntukan Maksud kepada maksud
 
-### RM
+<!-- marginal: RM -->
 
-B. 7 Jabatan Perdana Menteri 900,000
+B. 7 Jabatan Perdana Menteri
+
+<!-- marginal: 900,000 -->
 
 B. 14 Kementerian Perumahan dan 55,200,000 Kerajaan Tempatan
 
-B. 17 Kementerian Belia dan Sukan 3,099,900
+B. 17 Kementerian Belia dan Sukan
+
+<!-- marginal: 3,099,900 -->
 
 B. 36 Polis Diraja Malaysia 49,600,000
 
-B. 42 Kementerian Perpaduan Negara 255,250 dan Pembangunan Masyarakat
+B. 42 Kementerian Perpaduan Negara
+
+<!-- marginal: 255,250 -->
+
+dan Pembangunan Masyarakat
 
 B. 44 Kementerian Penerangan 13,332,200
 
 B. 49 Kementerian Tenaga, Telekom 123,163,600 dan Pos
 
-B. 53 Kementerian Tanah dan 4,000,000 Pembangunan Koperasi
+B. 53 Kementerian Tanah dan
+
+<!-- marginal: 4,000,000 -->
+
+Pembangunan Koperasi
 
 Jumlah ... 249,550,950
 

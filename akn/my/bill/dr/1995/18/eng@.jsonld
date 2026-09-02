@@ -1,0 +1,100 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/18/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/18"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-18-1995",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/18/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/18/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/18/eng@/~cl_3"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Penang Port Commission (Amendment) Bill 1995"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/18/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Penang Port Commission (Amendment) Act 1995."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/18/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/18/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/18/eng@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Penang Port Commission Act 1955, which in this"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Act is referred to as the \"principal Act\", is amended in section 33A—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/18/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/18/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsections (1) and (3) by substituting for the word \"1989\" the word \"1990\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/18/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/18/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: \" (2A) Where a reply is received from the Commission as regards the memorandum submitted under subsection (1) indicating the decision of the Commission to disallow the change in the scale of rates as contained in the memorandum, any person or body of persons who is aggrieved by the decision of the Commission may, within fourteen days from the date of such decision, appeal to the Minister whose decision shall be final.\". 2 BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/18/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after Part VI"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "the following Part: \" PART VIA EXTENSION OF THE FUNCTIONS, ETC., OF THE COMMISSION TO OTHER PORTS Power of 80A. (1) The Minister may, by order published in Minister to the Gazette, extend the functions, powers, duties extend Com- mission's and jurisdiction of the Commission to other functions to ports. other ports. (2) An order under subsection (1) may provide that the Commission shall, in carrying out the administration of the port to which its control is extended, include among its members such other person or persons as may be specified in the order either by name or by office. (3) Where an order is made under subsection (1), the Commission shall be deemed for all purposes to be the port authority in respect of the port specified in the order as if it were the port authority established in respect of that port under this Act and shall in carrying out its functions be styled by such name as may be provided in the order. Commission 80B. The Commission in carrying out its functions in carrying in respect of the port to which they are extended out its extended shall carry them out as if it were an independent functions port authority established in respect of such port. shall be deemed to be an independent port authority. Power of 80c. An order of the Minister under section 80A Minister may contain all such provisions as the Minister to make provisions may deem necessary to enable the Commission to for the carry out its functions in relation to the port to Commission to carry which they are extended. out its functions. Interpre- 80D. For the purposes of this Part, \"port\" means tation. a port or place declared to be a port under section 70/52 5 of the Merchant Shipping Ordinance 1952.\"."
+      }
+    }
+  ]
+}

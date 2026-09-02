@@ -1,0 +1,640 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-25-2014",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Penghasilan Bersih Perjanjian Kewangan 2014"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERMULAAN Tajuk ringkas dan permulaan kuat kuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_9"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERUNTUKAN PENGHASILAN BERSIH Kebolehkuatkuasaan peruntukan penghasilan bersih dalam perjanjian kewangan yang layak"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun peruntukan yang dinyatakan dalam Bahagian I Jadual, peruntukan penghasilan bersih dalam perjanjian kewangan yang layak berkenaan dengan transaksi kewangan yang layak yang disebut dalam seksyen 5 hendaklah boleh dikuatkuasakan mengikut terma perjanjian kewangan yang layak itu yang melibatkan langkah-langkah yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penamatan transaksi kewangan yang layak yang dibuat di bawah perjanjian kewangan yang layak itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengiraan nilai penamatan yang terhutang oleh satu pihak kepada pihak yang satu lagi berkenaan dengan setiap transaksi kewangan yang layak di bawah perenggan (a); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penentuan amaun bersih tunggal bagi nilai penamatan di bawah perenggan (b) yang kena dibayar oleh satu pihak kepada pihak yang satu lagi. Bentuk cagaran kewangan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pemakaian Akta ini berhubung dengan cagaran kewangan hendaklah hanya meliputi cagaran kewangan yang diberikan dalam bentuk—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "wang tunai atau yang bersamaan dengan wang tunai, termasuk surat cara boleh niaga dan deposit permintaan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sekuriti, akaun sekuriti atau hak untuk memperoleh sekuriti; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perjanjian niaga hadapan atau akaun niaga hadapan. Ciri-ciri transaksi kewangan yang layak"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_5__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_5__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_5__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud Akta ini, suatu transaksi kewangan yang layak ialah suatu transaksi yang melibatkan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_5__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu derivatif melalui kaunter;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_5__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "beli semula, beli semula berbalik, jual beli balik berkenaan dengan sekuriti; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_5__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pemberian pinjaman atau peminjaman sekuriti hutang tidak tersenarai di bawah Real Time Electronic Transfer of Funds and Securities System yang diwujudkan di bawah perenggan 44(1)(a) Akta Bank Negara Malaysia 2009 [Akta 701]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam seksyen ini, “derivatif” ertinya apa-apa perjanjian termasuk suatu opsyen, swap, kontrak niaga hadapan atau kontrak hadapan, yang harga pasaran, nilai, atau obligasi pelaksanaan atau pembayarannya berpunca daripada, dirujuk kepada atau berdasarkan, tetapi tidak terhad kepada, sekuriti, komoditi, aset, kadar (termasuk kadar faedah, kadar keuntungan atau kadar pertukaran) atau indeks dan hendaklah termasuk derivatif mengikut Shariah. Kuasa Menteri untuk menetapkan perjanjian kewangan yang layak, peruntukan penghasilan bersih dan transaksi kewangan yang layak, yang lain"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_6__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_6__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_6__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_6__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, atas syor Bank Negara Malaysia, Suruhanjaya Sekuriti, Perbadanan Insurans Deposit Malaysia dan Pengurusan Danaharta Nasional Berhad, menetapkan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_6__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa perjanjian atau perkiraan lain sebagai perjanjian kewangan yang layak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_6__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa mekanisme lain yang berupaya menentukan amaun bersih tunggal sebagai peruntukan penghasilan bersih; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_6__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa transaksi lain sebagai transaksi kewangan yang layak."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perintah di bawah subseksyen (1) hendaklah dibentangkan di Dewan Rakyat dengan seberapa segera yang dapat dilaksanakan selepas penyiarannya dalam Warta."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam seksyen ini— “Bank Negara Malaysia” ertinya Bank Negara Malaysia yang terus wujud menurut subseksyen 3(1) Akta Bank Negara Malaysia 2009; “Perbadanan Insurans Deposit Malaysia” ertinya Perbadanan Insurans Deposit Malaysia yang terus wujud menurut subseksyen 3(1) Akta Perbadanan Insurans Deposit Malaysia 2011 [Akta 720]; “Pengurusan Danaharta Nasional Berhad” ertinya Pengurusan Danaharta Nasional Berhad yang diperbadankan di bawah Akta Syarikat 1965 [Akta 125] bagi maksud yang diperuntukkan dalam Akta Pengurusan Danaharta Nasional Berhad 1998 [Akta 587]; “Suruhanjaya Sekuriti” ertinya Suruhanjaya Sekuriti yang ditubuhkan di bawah seksyen 3 Akta Suruhanjaya Sekuriti 1993 [Akta 498]. Tempoh penangguhan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_7__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, atas syor pihak berkuasa yang berkenaan yang mempunyai kuasa untuk menguatkuasakan peruntukan yang dinyatakan dalam Bahagian II Jadual, menetapkan suatu tempoh yang kebolehkuatkuasaan peruntukan penghasilan bersih di bawah seksyen 3 hendaklah ditangguhkan bagi maksud peruntukan yang dinyatakan dalam Bahagian II Jadual."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah menyebabkan suatu notis yang munasabah diberikan kepada pihak yang tersentuh dengan tempoh penangguhan yang ditetapkan di bawah subseksyen (1), melainkan hal keadaan tidak membenarkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tempoh yang ditetapkan di bawah subseksyen (1) hendaklah terpakai walaupun apa-apa tempoh lain telah diperuntukkan atau ditetapkan di bawah peruntukan yang dinyatakan dalam Bahagian II Jadual. Penerusan pemakaian peruntukan berkaitan dalam undang- undang bertulis lain"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kecuali sebagaimana yang diperuntukkan dalam Akta ini, tiada apa-apa jua dalam Akta ini boleh menyentuh penerusan pemakaian peruntukan yang dinyatakan dalam Bahagian III Jadual berkenaan dengan perjanjian kewangan yang layak. Kuasa Menteri untuk meminda Jadual"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_9__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, melalui perintah yang disiarkan dalam Warta, meminda Jadual selepas berunding dengan pihak berkuasa yang berkenaan yang mempunyai kuasa untuk menguatkuasakan peruntukan yang dinyatakan dalam Jadual atau mempunyai kuasa untuk menguatkuasakan peruntukan yang dicadangkan untuk ditambah ke dalam Jadual."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perintah di bawah subseksyen (1) hendaklah dibentangkan di Dewan Rakyat dengan seberapa segera yang dapat dilaksanakan selepas penyiarannya dalam Warta."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Penghasilan Bersih Perjanjian Kewangan 2014."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I__cl_2__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I__cl_2__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "“cagaran kewangan” ertinya suatu kepentingan atau hak yang menjamin pembayaran atau pelaksanaan obligasi di bawah perjanjian kewangan yang layak; “ditetapkan” ertinya ditetapkan melalui perintah yang disiarkan dalam Warta; “Menteri” ertinya Menteri yang dipertanggungkan dengan tanggungjawab bagi kewangan; “perjanjian kewangan yang layak” ertinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I__cl_2__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I__cl_2__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I__cl_2__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I__cl_2__list_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I__cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I__cl_2__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perjanjian induk, yang mengandungi peruntukan penghasilan bersih, berkenaan dengan satu atau lebih transaksi kewangan yang layak, dan jika perjanjian induk adalah juga berkenaan dengan satu atau lebih transaksi yang bukan transaksi kewangan yang layak, perjanjian induk itu hendaklah menjadi perjanjian kewangan yang layak hanya berkenaan dengan transaksi yang adalah transaksi kewangan yang layak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I__cl_2__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa perjanjian atau perkiraan yang ditetapkan oleh Menteri di bawah perenggan 6(1)(a); atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I__cl_2__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perjanjian yang berhubungan dengan cagaran kewangan yang menjamin pembayaran atau pelaksanaan obligasi, termasuk apa-apa perjanjian yang di bawahnya hakmilik bagi harta telah diperuntukkan bagi maksud jaminan itu, berkenaan dengan satu atau lebih transaksi kewangan yang layak di bawah suatu perjanjian induk yang disebut dalam perenggan (a) atau suatu perjanjian atau perkiraan yang disebut dalam perenggan (b); “peruntukan penghasilan bersih” ertinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I__cl_2__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I__cl_2__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I__cl_2__list_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I__cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I__cl_2__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "peruntukan dalam perjanjian kewangan yang layak yang memperuntukkan bahawa apabila berlakunya hal yang ditentukan oleh pihak-pihak dalam perjanjian itu, semua obligasi yang terhutang oleh satu pihak kepada pihak yang lain di bawah transaksi kewangan yang layak dikurangkan kepada atau digantikan dengan amaun bersih tunggal mengikut perjanjian kewangan yang layak itu; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I__cl_2__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa mekanisme lain yang berupaya menentukan amaun bersih tunggal sebagai peruntukan penghasilan bersih yang ditetapkan oleh Menteri di bawah perenggan 6(1)(b); “sekuriti” termasuklah sekuriti yang mengikut Shariah; “transaksi kewangan yang layak” ertinya transaksi yang disebut dalam seksyen 5 dan termasuklah apa-apa transaksi lain yang ditetapkan oleh Menteri sebagai transaksi kewangan yang layak di bawah perenggan 6(1)(c)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_III"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "[Seksyen 3, 7 dan 8]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_I__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_I__para_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_II__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_II__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_II__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_II__para_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_III__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_III__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_III__para_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_III__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 115(3) hingga 115(7) dan 180(2) hingga 180(5) Akta Perbadanan Insurans Deposit Malaysia 2011"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_III__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_III",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 209(3) hingga 209(6) Akta Perkhidmatan Kewangan 2013"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_III__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_III",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 220(3) hingga 220(6) Akta Perkhidmatan Kewangan Islam 2013"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_II__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 115(3) dan 180(1) Akta Perbadanan Insurans Deposit Malaysia 2011"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_II__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 209(2) Akta Perkhidmatan Kewangan 2013 [Akta 758]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_II__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 220(2) Akta Perkhidmatan Kewangan Islam 2013 [Akta 759]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_II__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 41 Akta Pengurusan Danaharta Nasional Berhad 1998"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_I__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 29a dan 41 Akta Pengurusan Danaharta Nasional Berhad 1998"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_I__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/25/msa@/~sched_1__part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 346 c Akta Pasaran Modal dan Perkhidmatan 2007 [Akta 671]"
+      }
+    }
+  ]
+}

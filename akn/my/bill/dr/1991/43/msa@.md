@@ -14,9 +14,7 @@ Naskhah Sahih—Bahasa Malaysia
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan mula berkuatkuasa.
-
-2. Tafsiran.
+1. Tajuk ringkas dan mula berkuatkuasa. 2. Tafsiran.
 
 ## BAHAGIAN
 
@@ -24,19 +22,7 @@ II
 
 ## LEMBAGA
 
-3. Lembaga.
-
-4. Fungsi-fungsi Lembaga.
-
-5. Keanggotaan Lembaga.
-
-6. Akta Perlindungan Pihak Berkuasa Awam 1948.
-
-7. Pengkhidmat awam.
-
-8. Kuasa Menteri untuk memberikan arahan.
-
-9. Kawasan Lembaga Pembangunan Labuan.
+3. Lembaga. 4. Fungsi-fungsi Lembaga. 5. Keanggotaan Lembaga. 6. Akta Perlindungan Pihak Berkuasa Awam 1948. 7. Pengkhidmat awam. 8. Kuasa Menteri untuk memberikan arahan. 9. Kawasan Lembaga Pembangunan Labuan.
 
 10. Penyata, laporan, akaun dan maklumat.
 
@@ -64,19 +50,45 @@ IV
 
 ## KEWANGAN
 
-16. Kumpulan Wang. 17. Pemeliharaan Kumpulan Wang. 18. Kumpulan wang rizab. 19. Perbelanjaan yang hendaklah dipertanggungkan pada Kumpulan Wang. 20. Perbelanjaan dan penyediaan anggaran. 21. Akta Badan Berkanun (Akaun dan Laporan Tahunan) 1980.
+16. Kumpulan Wang.
+
+17. Pemeliharaan Kumpulan Wang. 18. Kumpulan wang rizab. 19. Perbelanjaan yang hendaklah dipertanggungkan pada Kumpulan Wang.
+
+20. Perbelanjaan dan penyediaan anggaran.
+
+21. Akta Badan Berkanun (Akaun dan Laporan Tahunan) 1980.
 
 ## BAHAGIAN V
 
 ## KUASA-KUASA DAN FUNGSI-FUNGSI LAIN LEMBAGA
 
-22. Bidang kuasa Lembaga. 23. Kuasa untuk meminjam. 24. Pelaburan. 25. Kuasa untuk mengguna-khidmat, 26. Kuasa untuk memberikan pinjaman. 27. Kuasa untuk menubuhkan perbadanan. 28. Pengambilan tanah.
+22. Bidang kuasa Lembaga.
+
+23. Kuasa untuk meminjam.
+
+24. Pelaburan.
+
+25. Kuasa untuk mengguna-khidmat,
+
+26. Kuasa untuk memberikan pinjaman.
+
+27. Kuasa untuk menubuhkan perbadanan.
+
+28. Pengambilan tanah.
 
 ## BAHAGIAN VI
 
 AM
 
-29. Obligasi menyimpan rahsia. 30. Kuasa untuk membuat peraturan-peraturan. 31. Perkara-perkara yang dilakukan dengan menjangkakan Akta ini akan diperbuat. 32. Pengubahsuaian. 33. Ketakpakaian.
+29. Obligasi menyimpan rahsia.
+
+30. Kuasa untuk membuat peraturan-peraturan.
+
+31. Perkara-perkara yang dilakukan dengan menjangkakan Akta ini akan diperbuat.
+
+32. Pengubahsuaian.
+
+33. Ketakpakaian.
 
 ## JADUAL PERTAMA.
 
@@ -130,7 +142,11 @@ berkuatkuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dala
 
 "perbadanan" ertinya perbadanan yang ditubuhkan di bawah seksyen 27;
 
-"syarikat" mempunyai erti yang sama seperti yang diberikan kepada "perbadanan" di bawah subseksyen Akta 125. 4(1) Akta Syarikat 1965.
+"syarikat" mempunyai erti yang sama seperti yang diberikan kepada "perbadanan" di bawah subseksyen
+
+<!-- marginal: Akta 125. -->
+
+4(1) Akta Syarikat 1965.
 
 ## BAHAGIAN
 
@@ -138,7 +154,9 @@ II
 
 ## LEMBAGA
 
-Lembaga. 3. Maka adalah dengan ini ditubuhkan suatu pertubuhan perbadanan bernama "Lembaga Pembangunan Labuan" yang kekal turun-temurun dan mempunyai suatu meterai biasa, yang boleh mendakwa dan didakwa atas namanya dan, tertakluk kepada dan bagi maksud-maksud Akta ini, boleh membuat kontrak dan boleh memperolehi, membeli, mengambil, memegang dan menikmati apa- apa jenis harta alih dan harta tak alih dan boleh memindahkan, menyerahhakkan, menyerahkan balik, memulangkan, menggadaikan, menggadai-janji, mendemis, menyerahhakkan semula, memindahmilikkan atau dengan apa-apa cara lain melupuskan, atau membuat apa-apa urusan mengenai, apa-apa harta alih atau harta tak alih atau apa-apa kepentingan mengenainya yang terletakhak pada Lembaga, mengikut apa-apa terma yang difikirkannya patut.
+<!-- marginal: Lembaga. -->
+
+3. Maka adalah dengan ini ditubuhkan suatu pertubuhan perbadanan bernama "Lembaga Pembangunan Labuan" yang kekal turun-temurun dan mempunyai suatu meterai biasa, yang boleh mendakwa dan didakwa atas namanya dan, tertakluk kepada dan bagi maksud-maksud Akta ini, boleh membuat kontrak dan boleh memperolehi, membeli, mengambil, memegang dan menikmati apa- apa jenis harta alih dan harta tak alih dan boleh memindahkan, menyerahhakkan, menyerahkan balik, memulangkan, menggadaikan, menggadai-janji, mendemis, menyerahhakkan semula, memindahmilikkan atau dengan apa-apa cara lain melupuskan, atau membuat apa-apa urusan mengenai, apa-apa harta alih atau harta tak alih atau apa-apa kepentingan mengenainya yang terletakhak pada Lembaga, mengikut apa-apa terma yang difikirkannya patut.
 
 <!-- page 5 -->
 
@@ -152,29 +170,15 @@ Lembaga. 3. Maka adalah dengan ini ditubuhkan suatu pertubuhan perbadanan bernam
 
 (b) memajukan, menggalakkan, memudahkan dan mengusahakan pembangunan ekonomi dan sosial dalam Kawasan Lembaga Pembangunan Labuan;
 
-(c) memajukan, menggalakkan, memudahkan dan mengusahakan pembangunan
-
-<!-- marginal: komersil, -->
-
-pembangunan pelancongan dan infrastruktur serta juga pembangunan tempat
-
-<!-- marginal: tinggal, -->
-
-pertanian dan perindustrian dalam Kawasan Lembaga Pembangunan Labuan; dan
+(c) memajukan, menggalakkan, memudahkan dan mengusahakan pembangunan komersil, pembangunan pelancongan dan infrastruktur serta juga pembangunan tempat tinggal, pertanian dan perindustrian dalam Kawasan Lembaga Pembangunan Labuan; dan
 
 (d) menyelaraskan pelaksanaan aktiviti-aktiviti yang tersebut dalam perenggan (a), (b) dan (c) dalam Kawasan Pembangunan Labuan.
 
-(2) Lembaga adalah berkuasa melakukan segala perkara yang suaimanfaat atau yang semunasabahnya perlu bagi, atau bersampingan dengan, pelaksanaan fungsi-fungsinya dan, khususnya, tetapi
-
-<!-- marginal: tanpa -->
-
-menjejaskan keluasan yang tersebut di atas—
+(2) Lembaga adalah berkuasa melakukan segala perkara yang suaimanfaat atau yang semunasabahnya perlu bagi, atau bersampingan dengan, pelaksanaan fungsi-fungsinya dan, khususnya, tetapi tanpa menjejaskan keluasan yang tersebut di atas—
 
 (a) menjalankan segala aktiviti, khususnya aktiviti- aktiviti yang bersifat komersil atau per- industrian, aktiviti-aktiviti yang berhubungan dengan pelancongan dan aktiviti-aktiviti penyelidikan dan latihan, yang penjalanannya didapati oleh Lembaga adalah perlu, berfaedah atau sesuai bagi atau berkaitan dengan pelaksanaan fungsi-fungsinya;
 
-(b) mendayausahakan kajian-kajian permulaan mengenai kawasan-kawasan pembangunan dan pembangunan semula yang mungkin dan membuat rancangan-rancangan permulaan yang menggariskan aktiviti-aktiviti pembangunan atau pembangunan semula dan tinjauan-tinjauan permulaan untuk menentukan
-
-<!-- marginal: sama ada -->
+(b) mendayausahakan kajian-kajian permulaan mengenai kawasan-kawasan pembangunan dan pembangunan semula yang mungkin dan membuat rancangan-rancangan permulaan yang menggariskan aktiviti-aktiviti pembangunan atau pembangunan semula dan tinjauan-tinjauan permulaan untuk menentukan sama ada
 
 <!-- page 6 -->
 
@@ -186,19 +190,11 @@ pengusahaan atau pembangunan semula boleh dilaksanakan;
 
 (a) dan (b) oleh Kerajaan Persekutuan, mana- mana pihak berkuasa awam, mana-mana syarikat atau perbadanan, atau mana-mana badan atau orang lain;
 
-(e) dengan kelulusan Menteri, menubuhkan atau memperkembangkan, atau
-
-<!-- marginal: memajukan -->
-
-penubuhan atau pengembangan, syarikat- syarikat, perbadanan-perbadanan atau badan- badan lain untuk menjalankan mana-mana aktiviti yang tersebut dalam perenggan (a) dan
+(e) dengan kelulusan Menteri, menubuhkan atau memperkembangkan, atau memajukan penubuhan atau pengembangan, syarikat- syarikat, perbadanan-perbadanan atau badan- badan lain untuk menjalankan mana-mana aktiviti yang tersebut dalam perenggan (a) dan
 
 (b) sama ada di bawah kawalan atau kawalan separa Lembaga atau secara bebas;
 
-(f) memberikan bantuan kepada mana-mana pihak berkuasa awam, rtiana-mana syarikat atau perbadanan, atau mana-mana badan atau orang lain, yang didapati oleh Lembaga mempunyai kemudahan-kemudahan untuk menjalankan mana-mana aktiviti yang
-
-<!-- marginal: tersebut dalam -->
-
-perenggan (a) dan (b), termasuk, dengan kelulusan Menteri, bantuan kewangan melalui pengambilan modal syer atau pinjaman atau melalui pinjaman atau selainnya;
+(f) memberikan bantuan kepada mana-mana pihak berkuasa awam, rtiana-mana syarikat atau perbadanan, atau mana-mana badan atau orang lain, yang didapati oleh Lembaga mempunyai kemudahan-kemudahan untuk menjalankan mana-mana aktiviti yang tersebut dalam perenggan (a) dan (b), termasuk, dengan kelulusan Menteri, bantuan kewangan melalui pengambilan modal syer atau pinjaman atau melalui pinjaman atau selainnya;
 
 (g) dengan kelulusan Menteri, mengunderait atau dengan apa-apa cara lain memperolehi apa-apa stok dan syer dalam mana-mana syarikat awam atau persendirian, dan melupuskannya mengikut apa-apa terma dan syarat yang ditentukan oleh Lembaga dengan kelulusan Menteri;
 
@@ -214,17 +210,19 @@ perenggan (a) dan (b), termasuk, dengan kelulusan Menteri, bantuan kewangan mela
 
 (l) mengawalselia, menyelaraskan dan meng- usahakan pembangunan, termasuk pem- bangunan infrastruktur, dalam Kawasan Lembaga Pembangunan Labuan; dan
 
-(m) melakukan apa-apa perkara
-
-<!-- marginal: lain yang -->
-
-difikirkannya patut bagi membolehkannya menjalankan fungsi-fungsi dan kuasa-kuasanya dengan berkesan.
+(m) melakukan apa-apa perkara lain yang difikirkannya patut bagi membolehkannya menjalankan fungsi-fungsi dan kuasa-kuasanya dengan berkesan.
 
 (3) Tertakluk kepada seksyen 8, adalah menjadi tanggungjawab Lembaga dalam melaksanakan fungsi- fungsinya di bawah Akta ini untuk memastikan bahawa fungsi-fungsi itu dilaksanakan mengikut cara yang dapat menjayakan dasar Kerajaan Persekutuan yang sedang berkuatkuasa dan khususnya dasar yang berhubungan dengan pembangunan pusat kewangan luar pesisir antarabangsa, pembangunan pelaburan, pelancongan dan pertukaran wang asing dalam Kawasan Lembaga Pembangunan Labuan.
 
 <!-- page 8 -->
 
-Keanggotaan 5. (1) Lembaga hendaklah terdiri daripada anggota- Lembaga. anggota yang berikut:
+<!-- marginal: Keanggotaan -->
+
+5. (1) Lembaga hendaklah terdiri daripada anggota-
+
+<!-- marginal: Lembaga. -->
+
+anggota yang berikut:
 
 (a) seorang Pengerusi; dan
 
@@ -234,15 +232,65 @@ yang hendaklah dilantik oleh Menteri.
 
 (2) Peruntukan-peruntukan Jadual Pertama hendaklah terpakai bagi Lembaga.
 
-Akta Perlin- 6. Akta Perlindungan Pihak Berkuasa Awam 1948 dungan Pihak adalah terpakai bagi apa-apa tindakan, guaman, Berkuasa Awam 1948. pendakwaan atau prosiding terhadap Lembaga atau Akta 189. terhadap mana-mana anggota, pegawai, pengkhidmat atau ejen Lembaga berkenaan dengan apa-apa perbuatan, keabaian atau keingkaran yang dibuat atau dilakukan olehnya atas sifat yang sedemikian itu.
+<!-- marginal: Akta Perlin- -->
 
-Pengkhidmat 7. Semua anggota, pegawai dan pengkhidmat Lembaga, awam. semasa menunaikan kewajipan-kewajipan mereka sebagai anggota, pegawai dan pengkhidmat Lembaga, hendaklah disifatkan sebagai pengkhidmat awam N.M.B. mengikut pengertian Kanun Keseksaan.
+6. Akta Perlindungan Pihak Berkuasa Awam 1948
+
+<!-- marginal: dungan Pihak -->
+
+adalah terpakai bagi apa-apa tindakan, guaman,
+
+<!-- marginal: Berkuasa -->
+
+<!-- marginal: Awam 1948. -->
+
+pendakwaan atau prosiding terhadap Lembaga atau
+
+<!-- marginal: Akta 189. -->
+
+terhadap mana-mana anggota, pegawai, pengkhidmat atau ejen Lembaga berkenaan dengan apa-apa perbuatan, keabaian atau keingkaran yang dibuat atau dilakukan olehnya atas sifat yang sedemikian itu.
+
+<!-- marginal: Pengkhidmat -->
+
+7. Semua anggota, pegawai dan pengkhidmat Lembaga,
+
+<!-- marginal: awam. -->
+
+semasa menunaikan kewajipan-kewajipan mereka sebagai anggota, pegawai dan pengkhidmat Lembaga, hendaklah disifatkan sebagai pengkhidmat awam
+
+<!-- marginal: N.M.B. -->
+
+mengikut pengertian Kanun Keseksaan.
 
 ## Bab 45.
 
-Kuasa 8. Lembaga hendaklah bertanggungjawab kepada Menteri untuk Menteri, dan Menteri boleh dari semasa ke semasa memberikan arahan. memberikan arahan-arahan yang tidak tak konsisten dengan peruntukan-peruntukan Akta ini dan Lembaga hendaklah, dengan seberapa segera yang boleh, melaksanakan segala arahan sedemikian.
+<!-- marginal: Kuasa -->
 
-Kawasan 9. (1) Bagi maksud-maksud Akta ini, Menteri boleh Lembaga dari semasa ke semasa menentukan, melalui Pembangunan Labuan. pemberitahuan dalam Warta, kawasan atau kawasan- kawasan yang di dalamnya Lembaga hendaklah melaksanakan fungsi-fungsinya di bawah Akta ini dan kawasan atau kawasan-kawasan itu hendaklah dikenali sebagai "Kawasan Lembaga Pembangunan Labuan".
+8. Lembaga hendaklah bertanggungjawab kepada
+
+<!-- marginal: Menteri untuk -->
+
+Menteri, dan Menteri boleh dari semasa ke semasa
+
+<!-- marginal: memberikan -->
+
+<!-- marginal: arahan. -->
+
+memberikan arahan-arahan yang tidak tak konsisten dengan peruntukan-peruntukan Akta ini dan Lembaga hendaklah, dengan seberapa segera yang boleh, melaksanakan segala arahan sedemikian.
+
+<!-- marginal: Kawasan -->
+
+9. (1) Bagi maksud-maksud Akta ini, Menteri boleh
+
+<!-- marginal: Lembaga -->
+
+dari semasa ke semasa menentukan, melalui
+
+<!-- marginal: Pembangunan -->
+
+<!-- marginal: Labuan. -->
+
+pemberitahuan dalam Warta, kawasan atau kawasan- kawasan yang di dalamnya Lembaga hendaklah melaksanakan fungsi-fungsinya di bawah Akta ini dan kawasan atau kawasan-kawasan itu hendaklah dikenali sebagai "Kawasan Lembaga Pembangunan Labuan".
 
 <!-- page 9 -->
 
@@ -280,9 +328,13 @@ III
 
 <!-- page 10 -->
 
-Pengurus
+<!-- marginal: Pengurus -->
 
-12. (1) Lembaga boleh, dengan kelulusan Menteri, Besar. melantik seorang ketua pegawai eksekutif, yang bergelar "Pengurus Besar", atas apa-apa terma dan syarat sebagaimana yang difikirkannya wajar dan meletak- hakkan padanya apa-apa kuasa dan mempertanggungkan atasnya apa-apa kewajipan yang ditentukan oleh Lembaga.
+12. (1) Lembaga boleh, dengan kelulusan Menteri,
+
+<!-- marginal: Besar. -->
+
+melantik seorang ketua pegawai eksekutif, yang bergelar "Pengurus Besar", atas apa-apa terma dan syarat sebagaimana yang difikirkannya wajar dan meletak- hakkan padanya apa-apa kuasa dan mempertanggungkan atasnya apa-apa kewajipan yang ditentukan oleh Lembaga.
 
 (2) Pengurus Besar hendaklah bertanggungjawab bagi—
 
@@ -298,9 +350,27 @@ Pengurus
 
 (5) Jika Pengurus Besar tidak ada buat sementara di dalam Malaysia atau tidak berupaya buat sementara, oleh sebab sakit atau kerana apa-apa sebab lain yang cukup, untuk melaksanakan kewajipan-kewajipannya, Lembaga boleh mengarahkan mana-mana pegawai lain melaksanakan kewajipan-kewajipan Pengurus Besar dalam masa Pengurus Besar tidak ada atau tidak berupaya buat sementara itu.
 
-Perlantikan
+<!-- marginal: Perlantikan -->
 
-13. (1) Tertakhik kepada apa-apa peraturan yang dibuat pegawai- di bawah seksyen 14, Lembaga boleh melantik, atas apa- pegawai dan pengkhidmat- apa terma dan syarat sebagaimana yang difikirkannya pengkhidmat wajar, pegawai-pegawai dan pengkhidmat-pengkhidmat Lembaga. yang perlu bagi menjalankan maksud-maksud Akta ini.
+13. (1) Tertakhik kepada apa-apa peraturan yang dibuat
+
+<!-- marginal: pegawai- -->
+
+di bawah seksyen 14, Lembaga boleh melantik, atas apa-
+
+<!-- marginal: pegawai dan -->
+
+<!-- marginal: pengkhidmat- -->
+
+apa terma dan syarat sebagaimana yang difikirkannya
+
+<!-- marginal: pengkhidmat -->
+
+wajar, pegawai-pegawai dan pengkhidmat-pengkhidmat
+
+<!-- marginal: Lembaga. -->
+
+yang perlu bagi menjalankan maksud-maksud Akta ini.
 
 <!-- page 11 -->
 
@@ -348,11 +418,7 @@ pengkhidmat-pengkhidmat Lembaga,
 
 (a) penahanan kerja dengan pengurangan gaji atau saraan lain; atau
 
-(b) penggantungan kerja tanpa gaji
-
-<!-- marginal: atau saraan -->
-
-lain,
+(b) penggantungan kerja tanpa gaji atau saraan lain,
 
 seseorang pegawai atau pengkhidmat Lembaga sementara menanti keputusan prosiding tatatertib terhadapnya.
 
@@ -368,9 +434,13 @@ IV
 
 ## KEWANGAN
 
-Kumpulan
+<!-- marginal: Kumpulan -->
 
-16. (1) Maka adalah dengan ini ditubuhkan, bagi Wang. maksud-maksud Akta ini, suatu kumpulan wang yang hendaklah ditadbirkan dan dikawal oleh Lembaga.
+16. (1) Maka adalah dengan ini ditubuhkan, bagi
+
+<!-- marginal: Wang. -->
+
+maksud-maksud Akta ini, suatu kumpulan wang yang hendaklah ditadbirkan dan dikawal oleh Lembaga.
 
 (2) Kumpulan Wang hendaklah terdiri daripada—
 
@@ -388,9 +458,17 @@ Kumpulan
 
 (g) segala wang atau harta lain yang mungkin dengan apa-apa cara menjadi kena dibayar kepada, atau terletakhak pada, Lembaga berkenaan dengan apa-apa perkara yang bersampingan dengan fungsi-fungsi, kuasa- kuasa dan kewajipan-kewajipannya.
 
-Pemeliharaan
+<!-- marginal: Pemeliharaan -->
 
-17. Maka adalah menjadi kewajipan Lembaga Kumpulan memelihara Kumpulan Wang dengan melaksanakan, Wang. menjalankan dan menunaikan fungsi-fungsi, kuasa-
+17. Maka adalah menjadi kewajipan Lembaga
+
+<!-- marginal: Kumpulan -->
+
+memelihara Kumpulan Wang dengan melaksanakan,
+
+<!-- marginal: Wang. -->
+
+menjalankan dan menunaikan fungsi-fungsi, kuasa-
 
 <!-- page 13 -->
 
@@ -438,7 +516,19 @@ dengan sah oleh Lembaga, termasuk kos dan fee ukur dan guaman dan kos-kos dan fe
 
 <!-- page 14 -->
 
-Perbelanjaan 20. (1) Perbelanjaan Lembaga hingga sebanyak yang dan dibenarkan oleh Menteri bagi mana-mana satu tahun penyediaan anggaran. hendaklah dibayar daripada Kumpulan Wang.
+<!-- marginal: Perbelanjaan -->
+
+20. (1) Perbelanjaan Lembaga hingga sebanyak yang
+
+<!-- marginal: dan -->
+
+dibenarkan oleh Menteri bagi mana-mana satu tahun
+
+<!-- marginal: penyediaan -->
+
+<!-- marginal: anggaran. -->
+
+hendaklah dibayar daripada Kumpulan Wang.
 
 (2) Sebelum permulaan bulan September setiap tahun, Lembaga hendaklah mengemukakan kepada Menteri suatu anggaran perbelanjaan (termasuk perbelanjaan bagi projek-projek pembangunan) bagi tahun yang berikutnya dalam apa-apa bentuk dan yang mengandungi apa-apa butir sebagaimana yang diarahkan oleh Menteri; dan sebelum permulaan tahun yang berikutnya Menteri hendaklah memberitahu Lembaga amaun yang dibenarkan bagi perbelanjaan pada amnya atau amaun yang dibenarkan bagi setiap jenis perbelanjaan.
 
@@ -454,7 +544,23 @@ mengemukakan suatu salinan anggaran atau anggaran tambahan itu, mengikut mana-ma
 
 sebagaimana yang dinyatakan dalam arahan itu.
 
-Akta Badan 21. Peruntukan-peruntukan Akta Badan Berkanun Berkanun (Akaun dan Laporan Tahunan) 1980 adalah terpakai (Akaun dan Laporan bagi Lembaga dan mana-mana perbadanan yang Tahunan) ditubuhkan di bawah Akta ini.
+<!-- marginal: Akta Badan -->
+
+21. Peruntukan-peruntukan Akta Badan Berkanun
+
+<!-- marginal: Berkanun -->
+
+(Akaun dan Laporan Tahunan) 1980 adalah terpakai
+
+<!-- marginal: (Akaun dan -->
+
+<!-- marginal: Laporan -->
+
+bagi Lembaga dan mana-mana perbadanan yang
+
+<!-- marginal: Tahunan) -->
+
+ditubuhkan di bawah Akta ini.
 
 1980.
 
@@ -462,7 +568,13 @@ Akta Badan 21. Peruntukan-peruntukan Akta Badan Berkanun Berkanun (Akaun dan Lap
 
 ## KUASA-KUASA DAN FUNGSI-FUNGSI LAIN LEMBAGA
 
-Bidang kuasa 22. (1) Lembaga hendaklah mempunyai bidang kuasa Lembaga. ke atas perkara-perkara yang berikut di Kawasan Lembaga Pembangunan Labuan:
+<!-- marginal: Bidang kuasa -->
+
+22. (1) Lembaga hendaklah mempunyai bidang kuasa
+
+<!-- marginal: Lembaga. -->
+
+ke atas perkara-perkara yang berikut di Kawasan Lembaga Pembangunan Labuan:
 
 (a) walau apa pun mana-mana undang-undang yang berhubungan dengan perancangan bandar yang terpakai di Kawasan Lembaga Pembangunan
 
@@ -494,9 +606,25 @@ atau mana-mana bangunan, struktur atau peralatan yang diwujudkan atau diadakan b
 
 (3) Walau apa pun subseksyen (2), Menteri boleh, melalui perintah yang hendaklah disiarkan dalam Warta, menghendaki Majlis Perbandaran Labuan menjalankan apa-apa kuasa atau menunaikan apa-apa kewajipan yang dinyatakan oleh Menteri dalam perintah itu berkenaan dengan mana-mana perkara yang dinyatakan dalam subseksyen (1).
 
-(4) Mana-mana undang-undang kecil yang ber- kuatkuasa di Kawasan Lembaga Pembangunan Labuan sebelum sahaja mula berkuatkuasanya subseksyen (2) berkenaan dengan mana-mana perkara yang dinyatakan dalam subseksyen (1) hendaklah terus berkuatkuasa dalam Kawasan itu dan boleh dipinda, digantikan atau Ord Sabah dibatalkan oleh Lembaga di bawah peruntukan Ordinan 11 tahun Kerajaan Tempatan Sabah yang berkuatkuasa di
+(4) Mana-mana undang-undang kecil yang ber- kuatkuasa di Kawasan Lembaga Pembangunan Labuan sebelum sahaja mula berkuatkuasanya subseksyen (2) berkenaan dengan mana-mana perkara yang dinyatakan dalam subseksyen (1) hendaklah terus berkuatkuasa dalam Kawasan itu dan boleh dipinda, digantikan atau
 
-1961. P.U. (A) Wilayah Persekutuan Labuan sebagaimana yang 169184. diubahsuaikan melalui Perintah Wilayah Persekutuan Labuan (Pengubahsuaian Ordinan Kerajaan Tempatan) 1984 seolah-olah Lembaga ialah Pihak Berkuasa mengikut pengertian Ordinan itu sebagaimana yang diubahsuaikan sedemikian, dan kuasa bagi memberikan apa-apa lesen atau kebenaran di bawah mana-mana undang-undang kecil itu dan bagi menggantung, membatalkan atau membaharui lesen atau kebenaran sedemikian hendaklah terletakhak pada Lembaga.
+<!-- marginal: Ord Sabah -->
+
+dibatalkan oleh Lembaga di bawah peruntukan Ordinan
+
+<!-- marginal: 11 tahun -->
+
+Kerajaan Tempatan Sabah yang berkuatkuasa di
+
+1961.
+
+<!-- marginal: P.U. (A) -->
+
+Wilayah Persekutuan Labuan sebagaimana yang
+
+<!-- marginal: 169184. -->
+
+diubahsuaikan melalui Perintah Wilayah Persekutuan Labuan (Pengubahsuaian Ordinan Kerajaan Tempatan) 1984 seolah-olah Lembaga ialah Pihak Berkuasa mengikut pengertian Ordinan itu sebagaimana yang diubahsuaikan sedemikian, dan kuasa bagi memberikan apa-apa lesen atau kebenaran di bawah mana-mana undang-undang kecil itu dan bagi menggantung, membatalkan atau membaharui lesen atau kebenaran sedemikian hendaklah terletakhak pada Lembaga.
 
 <!-- page 17 -->
 
@@ -526,33 +654,55 @@ kelulusan Menteri, meminjam, atas apa-apa kadar bunga dan bagi apa-apa tempoh da
 
 <!-- page 18 -->
 
-Peiaburan. 24. Aset Lembaga, setakat yang tidak dikehendaki untuk dibelanjakan oleh Lembaga di bawah Akta ini, hendaklah dilaburkan mengikut cara yang diluluskan oleh Menteri.
+<!-- marginal: Peiaburan. -->
 
-Kuasa untuk 25. Lembaga boleh mengguna-khidmat dan membayar mengguna- ejen-ejen dan penasihat-penasihat teknik, termasuk khidmat. peguambela dan peguamcara, jurubank, broker saham, juruukur, penilai dan orang-orang
+24. Aset Lembaga, setakat yang tidak dikehendaki untuk dibelanjakan oleh Lembaga di bawah Akta ini, hendaklah dilaburkan mengikut cara yang diluluskan oleh Menteri.
 
-<!-- marginal: lain, untuk -->
+<!-- marginal: Kuasa untuk -->
 
-menjalankan apa-apa urusan atau melakukan apa-apa perbuatan yang dikehendaki dijalankan atau dilakukan dalam melaksanakan fungsi-fungsinya, menjalankan kuasa-kuasanya atau menunaikan
+25. Lembaga boleh mengguna-khidmat dan membayar
 
-<!-- marginal: kewajipan- -->
+<!-- marginal: mengguna- -->
 
-kewajipannya atau bagi melaksanakan maksud-maksud Akta ini dengan lebih baik.
+ejen-ejen dan penasihat-penasihat teknik, termasuk
 
-Kuasa untuk 26. Pada melaksanakan fungsi-fungsinya, menjalankan memberikan kuasa-kuasanya atau menunaikan
+<!-- marginal: khidmat. -->
 
-<!-- marginal: kewajipan- -->
+peguambela dan peguamcara, jurubank, broker saham, juruukur, penilai dan orang-orang lain, untuk menjalankan apa-apa urusan atau melakukan apa-apa perbuatan yang dikehendaki dijalankan atau dilakukan dalam melaksanakan fungsi-fungsinya, menjalankan kuasa-kuasanya atau menunaikan kewajipan- kewajipannya atau bagi melaksanakan maksud-maksud Akta ini dengan lebih baik.
 
-pinjaman. kewajipannya Lembaga boleh, dengan kelulusan Menteri, memberikan pinjaman, dan pinjaman itu boleh diberikan tertakluk kepada apa-apa terma dan syarat yang difikirkan oleh Lembaga, dengan kelulusan Menteri, patut dikenakan dalam hal-hal tertentu.
+<!-- marginal: Kuasa untuk -->
 
-Kuasa untuk 27. (1) Lembaga boleh dari semasa ke semasa, dengan menubuhkan kelulusan Menteri, melalui perintah yang disiarkan perbadanan. dalam Warta, menubuhkan sesuatu perbadanan, dengan apa-apa nama yang difikirkan patut oleh Lembaga, untuk melaksanakan dan untuk menjaga, mengelolakan dan menguruskan apa-apa projek, skim atau perusahaan yang telah dirancangkan atau diusahakan oleh Lembaga pada melaksanakan fungsi-fungsinya, menjalankan kuasa-kuasanya atau menunaikan
+26. Pada melaksanakan fungsi-fungsinya, menjalankan
 
-<!-- marginal: kewajipan- -->
+<!-- marginal: memberikan -->
 
-kewajipannya.
+kuasa-kuasanya atau menunaikan kewajipan-
+
+<!-- marginal: pinjaman. -->
+
+kewajipannya Lembaga boleh, dengan kelulusan Menteri, memberikan pinjaman, dan pinjaman itu boleh diberikan tertakluk kepada apa-apa terma dan syarat yang difikirkan oleh Lembaga, dengan kelulusan Menteri, patut dikenakan dalam hal-hal tertentu.
+
+<!-- marginal: Kuasa untuk -->
+
+27. (1) Lembaga boleh dari semasa ke semasa, dengan
+
+<!-- marginal: menubuhkan -->
+
+kelulusan Menteri, melalui perintah yang disiarkan
+
+<!-- marginal: perbadanan. -->
+
+dalam Warta, menubuhkan sesuatu perbadanan, dengan apa-apa nama yang difikirkan patut oleh Lembaga, untuk melaksanakan dan untuk menjaga, mengelolakan dan menguruskan apa-apa projek, skim atau perusahaan yang telah dirancangkan atau diusahakan oleh Lembaga pada melaksanakan fungsi-fungsinya, menjalankan kuasa-kuasanya atau menunaikan kewajipan- kewajipannya.
 
 (2) Peruntukan-peruntukan Jadual Kedua adalah terpakai bagi tiap-tiap perbadanan yang ditubuhkan oleh Lembaga di bawah subseksyen (1).
 
-Pengambilan 28. (1) Apabila apa-apa harta tak alih yang bukan tanah tanah. Kerajaan perlu diambil oleh Lembaga bagi maksud- maksud Akta ini, harta itu boleh diambil mengikut peruntukan-peruntukan mana-mana undang-undang
+<!-- marginal: Pengambilan -->
+
+28. (1) Apabila apa-apa harta tak alih yang bukan tanah
+
+<!-- marginal: tanah. -->
+
+Kerajaan perlu diambil oleh Lembaga bagi maksud- maksud Akta ini, harta itu boleh diambil mengikut peruntukan-peruntukan mana-mana undang-undang
 
 <!-- page 19 -->
 
@@ -576,9 +726,7 @@ bagi maksud apa-apa prosiding sivil atau jenayah di
 
 <!-- marginal: rahsia. -->
 
-bawah mana-mana undang-undang bertulis, tiada anggota, pegawai atau pengkhidmat Lembaga boleh menzahirkan apa-apa maklumat
-
-<!-- marginal: yang -->
+bawah mana-mana undang-undang bertulis, tiada anggota, pegawai atau pengkhidmat Lembaga boleh menzahirkan apa-apa maklumat yang
 
 <!-- marginal: telah -->
 
@@ -704,13 +852,27 @@ Persekutuan Labuan (Pengubahsuaian Ordinan Perancangan Bandar dan Desa) 1985 hen
 
 (3) Walau apa pun subseksyen (1), Menteri boleh, melalui perintah yang hendaklah disiarkan dalam Warta, mengarahkan supaya mana-mana peruntukan Ordinan yang disebutkan dalam subseksyen (1) sebagaimana yang dinyatakan oleh Menteri dalam perintah sedemikian hendaklah terpakai di Kawasan Lembaga Pembangunan Labuan.
 
-(4) Menteri boleh, melalui perintah yang hendaklah disiarkan dalam Warta, membuat apa-apa ubahsuaian yang perlu atau suaimanfaat dalam Ordinan yang disebutkan dalam subseksyen (1), atau dalam skim diluluskan yang disebutkan dalam subseksyen (2), dalam pemakaiannya di Kawasan Lembaga Pembangunan Labuan berikutan dengan pembuatan perintah di bawah subseksyen (3) atau berikutan dengan kuatkuasa berterusan sesuatu skim diluluskan di bawah subseksyen (2), mengikut mana-mana yang berkenaan.
+(4) Menteri boleh, melalui perintah yang hendaklah disiarkan dalam Warta, membuat apa-apa ubahsuaian yang perlu atau suaimanfaat dalam Ordinan yang disebutkan dalam subseksyen (1), atau dalam skim diluluskan yang disebutkan dalam subseksyen (2), dalam pemakaiannya di Kawasan Lembaga Pembangunan Labuan berikutan dengan pembuatan perintah di bawah subseksyen (3) atau berikutan dengan kuatkuasa berterusan sesuatu skim diluluskan di bawah subseksyen
+
+(2), mengikut mana-mana yang berkenaan.
 
 ## JADUAL PERTAMA
 
 (Seksyen 5(2))
 
-Perlantikan, 1. (1) Tertakluk kepada apa-apa syarat yang dinyatakan dalam pembatalan dan suratcara perlantikannya, seseorang anggota Lembaga hendaklah perletakan jawatan. memegang jawatan selama tempoh yang tidak melebihi tiga tahun dan adalah layak dilantik semula.
+<!-- marginal: Perlantikan, -->
+
+1. (1) Tertakluk kepada apa-apa syarat yang dinyatakan dalam
+
+<!-- marginal: pembatalan dan -->
+
+suratcara perlantikannya, seseorang anggota Lembaga hendaklah
+
+<!-- marginal: perletakan -->
+
+<!-- marginal: jawatan. -->
+
+memegang jawatan selama tempoh yang tidak melebihi tiga tahun dan adalah layak dilantik semula.
 
 (2) Perlantikan mana-mana anggota boleh pada bila-bila masa dibatalkan oleh Menteri tanpa memberikan apa-apa sebab baginya.
 
@@ -754,17 +916,35 @@ kosong—
 
 <!-- page 24 -->
 
-Lembaga boleh
+<!-- marginal: Lembaga boleh -->
 
-5. Lembaga boleh mengundang atau meminta mana-mana orang mengundang orang lain (yang bukan anggota Lembaga) menghadiri mana-mana mesyuarat menghadin atau perbincangan Lembaga bagi maksud menasihatinya tentang mesyuarat apa-apa perkara yang dibincangkan, tetapi mana-mana orang yang hadir sedemikian tidak berhak mengundi dalam mesyuarat atau perbincangan itu.
+5. Lembaga boleh mengundang atau meminta mana-mana orang
 
-Meterar biasa.
+<!-- marginal: mengundang -->
+
+<!-- marginal: orang lain -->
+
+(yang bukan anggota Lembaga) menghadiri mana-mana mesyuarat
+
+<!-- marginal: menghadin -->
+
+atau perbincangan Lembaga bagi maksud menasihatinya tentang
+
+<!-- marginal: mesyuarat -->
+
+apa-apa perkara yang dibincangkan, tetapi mana-mana orang yang hadir sedemikian tidak berhak mengundi dalam mesyuarat atau perbincangan itu.
+
+<!-- marginal: Meterar biasa. -->
 
 6. (1) Lembaga hendaklah mempunyai suatu meterai biasa yang hendaklah mengandungi apa-apa tanda yang diluluskan oleh Lembaga dan meterai itu boleh dari semasa ke semasa dipecahkan, ditukar, diubah atau dibuat baharu sebagaimana yang difikirkan patut oleh Lembaga. (2) Sehingga suatu meterai diadakan oleh Lembaga, suatu cap yang mengandungi perkataan "Lembaga Pembangunan Labuan" boleh digunakan dan hendaklah disifatkan sebagai meterai biasa Lembaga. (3) Meterai biasa itu hendaklah disimpan dalam jagaan Pengerusi atau mana-mana orang lain yang diberikuasa oleh Lembaga, dan hendaklah disahkan oleh Pengerusi atau oleh orang yang diberikuasa itu atau oleh mana-mana pegawai yang diberikuasa oleh salah seorang daripada mereka secara bertulis; dan semua suratikatan, dokumen dan suratcara lain yang berupa sebagai dimeteraikan dengan meterai itu, disahkan sebagaimana yang disebutkan terdahulu, hendaklah disifatkan telah disempurnakan dengan sah sehingga dibuktikan sebaliknya: Dengan syarat bahawa apa-apa dokumen atau suratcara yang jika disempurnakan oleh seseorang yang bukan suatu pertubuhan perbadanan tidak akan dikehendaki dimeteraikan boleh disempurnakan oleh Lembaga mengikut cara yang serupa; dan mana-mana dokumen atau suratcara itu boleh disempurnakan bagi pihak Lembaga oleh mana-mana pegawai atau pengkhidmat Lembaga yang diberikuasa secara am atau khas oleh Lembaga bagi maksud itu. (4) Meterai biasa Lembaga hendaklah diberikan pengiktirafan rasmi dan kehakiman.
 
-Penzahiran
+<!-- marginal: Penzahiran -->
 
-7. Seseorang anggota Lembaga yang, secara langsung atau secara kepentingan. tak langsung, mempunyai sendiri atau melalui pekongsinya apa-apa kepentingan dalam mana-mana syarikat atau usaha yang dengannya Lembaga bercadang hendak membuat apa-apa kontrak atau yang ada mempunyai apa-apa kepentingan dalam mana-mana kontrak itu atau dalam apa-apa perkara yang sedang dibincangkan oleh Lembaga hendaklah menzahirkan hakikat dan jenis kepentingannya itu kepada Lembaga, dan penzahiran itu hendaklah direkodkan dalam minit Lembaga dan, melainkan jika dibenarkan secara khusus oleh Pengerusi, anggota itu tidak boleh mengambil bahagian dalam apa-apa perbincangan atau keputusan Lembaga yang berhubungan dengan kontrak atau perkara itu.
+7. Seseorang anggota Lembaga yang, secara langsung atau secara
+
+<!-- marginal: kepentingan. -->
+
+tak langsung, mempunyai sendiri atau melalui pekongsinya apa-apa kepentingan dalam mana-mana syarikat atau usaha yang dengannya Lembaga bercadang hendak membuat apa-apa kontrak atau yang ada mempunyai apa-apa kepentingan dalam mana-mana kontrak itu atau dalam apa-apa perkara yang sedang dibincangkan oleh Lembaga hendaklah menzahirkan hakikat dan jenis kepentingannya itu kepada Lembaga, dan penzahiran itu hendaklah direkodkan dalam minit Lembaga dan, melainkan jika dibenarkan secara khusus oleh Pengerusi, anggota itu tidak boleh mengambil bahagian dalam apa-apa perbincangan atau keputusan Lembaga yang berhubungan dengan kontrak atau perkara itu.
 
 <!-- page 25 -->
 
@@ -842,21 +1022,67 @@ menubuhkan apa-apa perbadanan bagi apa-apa maksud atau tujuan yang lebih luas bi
 
 <!-- page 26 -->
 
-Kuatkuasa 3. Tertakluk kepada peruntukan-peruntukan Akta ini dan mana- peraturan- mana peraturan yang dibuat di bawah seksyen 30, sesuatu peraturan perbadanan hendaklah terikat dengan apa-apa peraturan yang dibuat berkenaan dengannya di bawah perenggan 1 dan peraturan- peraturan itu hendaklah berkuatkuasa bagi segala maksud seolah- olah peraturan-peraturan itu telah diperbuat dalam Akta ini.
+<!-- marginal: Kuatkuasa -->
 
-Pmdaan 4. Lembaga boleh pada bila-bila masa meminda, membatalkan, peraturan- atau menambah mana-mana peraturan yang dibuat di bawah peraturan perenggan 1 berkenaan dengan mana-mana perbadanan.
+3. Tertakluk kepada peruntukan-peruntukan Akta ini dan mana-
 
-Daftar 5. Lembaga hendaklah menyimpan suatu daftar dalam bentuk yang perbadanan. ditetapkan mengenai semua perbadanan yang ditubuhkan olehnya di bawah seksyen 27 dan daftar itu, bersama dengan salinan segala peraturan yang dibuat di bawah perenggan 1 dan 4, hendaklah terbuka untuk pemeriksaan awam di tempat atau tempat-tempat dan pada bila-bila masa yang ditetapkan olehnya.
+<!-- marginal: peraturan- -->
 
-Penggulungan 6. (1) Lembaga boleh, dengan kelulusan Menteri, melalui perintah yang disiarkan dalam Warta, mengarahkan supaya mana-mana perbadanan yang ditubuhkan olehnya digulung dan dibubarkan.
+mana peraturan yang dibuat di bawah seksyen 30, sesuatu
+
+<!-- marginal: peraturan -->
+
+perbadanan hendaklah terikat dengan apa-apa peraturan yang dibuat berkenaan dengannya di bawah perenggan 1 dan peraturan- peraturan itu hendaklah berkuatkuasa bagi segala maksud seolah- olah peraturan-peraturan itu telah diperbuat dalam Akta ini.
+
+<!-- marginal: Pmdaan -->
+
+4. Lembaga boleh pada bila-bila masa meminda, membatalkan,
+
+<!-- marginal: peraturan- -->
+
+atau menambah mana-mana peraturan yang dibuat di bawah
+
+<!-- marginal: peraturan -->
+
+perenggan 1 berkenaan dengan mana-mana perbadanan.
+
+<!-- marginal: Daftar -->
+
+5. Lembaga hendaklah menyimpan suatu daftar dalam bentuk yang
+
+<!-- marginal: perbadanan. -->
+
+ditetapkan mengenai semua perbadanan yang ditubuhkan olehnya di bawah seksyen 27 dan daftar itu, bersama dengan salinan segala peraturan yang dibuat di bawah perenggan 1 dan 4, hendaklah terbuka untuk pemeriksaan awam di tempat atau tempat-tempat dan pada bila-bila masa yang ditetapkan olehnya.
+
+<!-- marginal: Penggulungan -->
+
+6. (1) Lembaga boleh, dengan kelulusan Menteri, melalui perintah yang disiarkan dalam Warta, mengarahkan supaya mana-mana perbadanan yang ditubuhkan olehnya digulung dan dibubarkan.
 
 (2) Apabila mana-mana perbadanan dibubarkan di bawah perenggan ini, aset perbadanan itu hendaklah berpindah dan terletakhak pada Lembaga setelah segala liabilitinya ditunaikan.
 
 (3) Penggulungan sesuatu perbadanan di bawah perenggan ini hendaklah dijalankan mengikut cara yang ditetapkan oleh Lembaga.
 
-Perbadanan 7. Tiap-tiap perbadanan yang ditubuhkan di bawah seksyen 27 hendaklah menjadi adalah menjadi suatu pertubuhan perbadanan dengan apa-apa nama perlubuhan perbadanan. yang diberikan oleh Lembaga dan hendaklah kekal turun-temurun dan mempunyai suatu meterai biasa dan boleh mendakwa dan didakwa atas nama itu dan, bagi maksud melaksanakan projek, skim atau perusahaan yang kerananya ia telah ditubuhkan, boleh membuat kontrak dan boleh memegang dan membuat apa-apa urusan berkenaan dengan apa-apa harta tak alih atau harta alih dan boleh melakukan segala perkara dan benda lain yang bersampingan atau berkaitan dengan sesuatu pertubuhan perbadanan yang tidak tak konsisten dengan peruntukan-peruntukan Akta ini dan dengan tertakluk kepada apa-apa sekatan atau batasan sebagaimana yang ditetapkan oleh Lembaga dalam setiap hal.
+<!-- marginal: Perbadanan -->
 
-Meterai biasa 8. (1) Tiap-tiap perbadanan hendaklah mempunyai suatu meterai perbadanan. biasa yang mengandungi apa-apa tanda yang diluluskan oleh perbadanan dengan kelulusan Lembaga dan meterai itu boleh dari semasa ke semasa dipecahkan, ditukar, diubah dan dibuat baharu sebagaimana yang difikirkan patut oleh perbadanan itu dengan kelulusan Lembaga.
+7. Tiap-tiap perbadanan yang ditubuhkan di bawah seksyen 27
+
+<!-- marginal: hendaklah menjadi -->
+
+adalah menjadi suatu pertubuhan perbadanan dengan apa-apa nama
+
+<!-- marginal: perlubuhan -->
+
+<!-- marginal: perbadanan. -->
+
+yang diberikan oleh Lembaga dan hendaklah kekal turun-temurun dan mempunyai suatu meterai biasa dan boleh mendakwa dan didakwa atas nama itu dan, bagi maksud melaksanakan projek, skim atau perusahaan yang kerananya ia telah ditubuhkan, boleh membuat kontrak dan boleh memegang dan membuat apa-apa urusan berkenaan dengan apa-apa harta tak alih atau harta alih dan boleh melakukan segala perkara dan benda lain yang bersampingan atau berkaitan dengan sesuatu pertubuhan perbadanan yang tidak tak konsisten dengan peruntukan-peruntukan Akta ini dan dengan tertakluk kepada apa-apa sekatan atau batasan sebagaimana yang ditetapkan oleh Lembaga dalam setiap hal.
+
+<!-- marginal: Meterai biasa -->
+
+8. (1) Tiap-tiap perbadanan hendaklah mempunyai suatu meterai
+
+<!-- marginal: perbadanan. -->
+
+biasa yang mengandungi apa-apa tanda yang diluluskan oleh perbadanan dengan kelulusan Lembaga dan meterai itu boleh dari semasa ke semasa dipecahkan, ditukar, diubah dan dibuat baharu sebagaimana yang difikirkan patut oleh perbadanan itu dengan kelulusan Lembaga.
 
 <!-- page 27 -->
 

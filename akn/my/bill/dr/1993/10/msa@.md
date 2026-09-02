@@ -8,9 +8,7 @@
 
 ### bernama
 
-Suatu Akta untuk meminda Akta Kerajaan Tempatan
-
-1976. [ ]
+Suatu Akta untuk meminda Akta Kerajaan Tempatan 1976. [ ]
 
 BAHAWASANYA adalah suaimanfaat bagi maksud memastikan keseragaman undang-undang dan dasar untuk meminda Akta Kerajaan Tempatan 1976:
 
@@ -32,7 +30,11 @@ Tempatan (Pindaan) 1993.
 
 (2) Akta ini hendaklah mula berkuatkuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta dan Menteri boleh menetapkan tarikh-tarikh yang berlainan—
 
-(a) bagi mula berkuatkuasanya Akta ini di bahagian-bahagian Malaysia yang berlainan; atau
+(a) bagi mula berkuatkuasanya Akta
+
+<!-- marginal: ini di -->
+
+bahagian-bahagian Malaysia yang berlainan; atau
 
 (b) bagi mula berkuatkuasanya peruntukan- peruntukan Akta ini yang berlainan; atau
 
@@ -44,17 +46,25 @@ Tempatan (Pindaan) 1993.
 
 (c) bagi mula berkuatkuasanya peruntukan- peruntukan Akta ini yang berlainan di bahagian- bahagian Malaysia yang berlainan.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-2. Seksyen 2 Akta Kerajaan Tempatan 1976, yang seksyen 2. disebut "Akta ibu" dalam Akta ini, adalah dipinda— Akta 171
+2. Seksyen 2 Akta Kerajaan Tempatan 1976, yang
+
+<!-- marginal: seksyen 2. -->
+
+disebut "Akta ibu" dalam Akta ini, adalah dipinda—
+
+<!-- marginal: Akta 171 -->
 
 (a) dengan memotong perkataan "tangki najis" dalam takrif "bangunan"; dan
 
 (b) dengan memasukkan selepas takrif "kemajuan" takrif baru yang berikut: "kumbahan" mempunyai erti yang sama yang diberikan kepadanya di Akta bawah Akta Perkhidmatan Pem- betungan 1993;'.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Seksyen 72 Akta ibu adalah dipinda— seksyen 72.
+3. Seksyen 72 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 72. -->
 
 (a) dengan memotong perkataan "najis manusia, kotoran," dalam perenggan (a);
 
@@ -62,9 +72,11 @@ Pindaan
 
 (c) dengan memasukkan selepas subseksyen (1) subseksyen baru (2) yang berikut: "(2) Bagi maksud seksyen 72 dan 73, cecair buangan tidak termasuk kumbahan.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Seksyen 73 Akta ibu adalah dipinda— seksyen 73.
+4. Seksyen 73 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 73. -->
 
 (a) dengan memotong perkataan "najis manusia, kotoran," dalam perenggan (a);
 
@@ -74,23 +86,31 @@ Pindaan
 
 <!-- page 3 -->
 
-### 2
+<!-- marginal: 2 -->
 
 ## RANG UNDANG-UNDANG
 
 (c) bagi mula berkuatkuasanya peruntukan- peruntukan Akta ini yang berlainan di bahagian- bahagian Malaysia yang berlainan.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-2. Seksyen 2 Akta Kerajaan Tempatan 1976, yang seksyen 2. disebut "Akta ibu" dalam Akta ini, adalah dipinda— Akta 171
+2. Seksyen 2 Akta Kerajaan Tempatan 1976, yang
+
+<!-- marginal: seksyen 2. -->
+
+disebut "Akta ibu" dalam Akta ini, adalah dipinda—
+
+<!-- marginal: Akta 171 -->
 
 (a) dengan memotong perkataan "tangki najis" dalam takrif "bangunan"; dan
 
 (b) dengan memasukkan selepas takrif "kemajuan" takrif baru yang berikut: "kumbahan" mempunyai erti yang sama yang diberikan kepadanya di Akta bawah Akta Perkhidmatan Pem- betungan 1993;
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Seksyen 72 Akta ibu adalah dipinda— seksyen 72.
+3. Seksyen 72 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 72. -->
 
 (a) dengan memolong perkataan "najis manusia, kotoran," dalam perenggan (a);
 
@@ -98,15 +118,19 @@ Pindaan
 
 (c) dengan memasukkan selepas subseksyen (1) subseksyen baru (2) yang berikut: "(2) Bagi maksud seksyen 72 dan 73, cecair buangan tidak termasuk kumbahan.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Seksyen 73 Akta ibu adalah dipinda— seksyen 73.
+4. Seksyen 73 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 73. -->
 
 (a) dengan memotong perkataan "najis manusia, kotoran," dalam perenggan (a);
 
 (b) dengan menomborkan semula seksyen 73 sebagai subseksyen (1); dan
 
-(c) dengan memasukkan selepas sahaja subseksyen (1) subseksyen baru (2) yang berikut: "(2) Walau apa pun mana-mana per- untukan lain dalam Akta ini, sesuatu pihak berkuasa tempatan tidak boleh membuat, meminda atau membatalkan mana-mana undang-undang kecil berkenaan dengan kumbahan.".
+(c) dengan memasukkan selepas sahaja subseksyen
+
+(1) subseksyen baru (2) yang berikut: "(2) Walau apa pun mana-mana per- untukan lain dalam Akta ini, sesuatu pihak berkuasa tempatan tidak boleh membuat, meminda atau membatalkan mana-mana undang-undang kecil berkenaan dengan kumbahan.".
 
 <!-- page 4 -->
 

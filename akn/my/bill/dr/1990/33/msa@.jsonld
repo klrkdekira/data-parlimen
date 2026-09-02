@@ -27,7 +27,10 @@
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/33/msa@/~cl_1",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/33/msa@/~cl_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/33/msa@/~cl_3"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/33/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/33/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/33/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/33/msa@/~cl_6"
       ],
       "schema:name": {
         "@language": "ms",
@@ -83,9 +86,55 @@
       "@type": "akn:clause",
       "eli:number": "3",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/33/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan, selepas"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu adalah dipinda dengan memasukkan, selepas bam 3B. sahaja seksyen 3A, seksyen baru 3B yang berikut: SB. Notwithstanding section 3, tax shall not be \"Non-charge- ability to tax charged under this Act on income in respect of in respect of an offshore business activity carried on by an offshore business offshore company.\". activity. Pindaan 4. Seksyen 108 Akta ibu adalah dipinda dengan meng- seksyen 108 gantikan subseksyen (11) dengan yang berikut: \"(11) This section shall not apply to— (a) a co-operative society; or (b) an offshore company in respect of a dividend paid, credited or distributed out of— (i) income derived from an offshore business activity; or (ii) income exempt from tax.\". 5. Akta ibu adalah dipinda dengan memasukkan, selepas baru 110A. sahaja seksyen 110, seksyen baru 110A yang berikut: \"Non-entitle- 110A. Notwithstanding subsection (1) of ment of an section 110, where an offshore company offshore company for receives any dividend from which tax has been set-off. deducted under section 108, the tax so deducted shall not be set off against the tax charged on the chargeable income of the offshore company.\". 6. Akta ibu adalah dipinda dengan memasukkan selepas baru 11 IA. sahaja seksyen 111, seksyen baru l 1 1A yang berikut: \"Non-entitle- lllA. Notwithstanding section 111, where tax ment of an has been deducted under section 108 from any offshore company to dividend received by an offshore company, that refund. offshore company shall not be entitled to have the tax so deducted refunded by Government.\"."
+        "@value": "sahaja seksyen 3A, seksyen baru 3B yang berikut: SB. Notwithstanding section 3, tax shall not be \"Non-charge- ability to tax charged under this Act on income in respect of in respect of an offshore business activity carried on by an offshore business offshore company.\". activity."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/33/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/33/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 108 Akta ibu adalah dipinda dengan meng-"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "gantikan subseksyen (11) dengan yang berikut: \"(11) This section shall not apply to— (a) a co-operative society; or (b) an offshore company in respect of a dividend paid, credited or distributed out of— (i) income derived from an offshore business activity; or (ii) income exempt from tax.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/33/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/33/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan, selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sahaja seksyen 110, seksyen baru 110A yang berikut: \"Non-entitle- 110A. Notwithstanding subsection (1) of ment of an section 110, where an offshore company offshore company for receives any dividend from which tax has been set-off. deducted under section 108, the tax so deducted shall not be set off against the tax charged on the chargeable income of the offshore company.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/33/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/33/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sahaja seksyen 111, seksyen baru l 1 1A yang berikut: \"Non-entitle- lllA. Notwithstanding section 111, where tax ment of an has been deducted under section 108 from any offshore company to dividend received by an offshore company, that refund. offshore company shall not be entitled to have the tax so deducted refunded by Government.\"."
       }
     }
   ]

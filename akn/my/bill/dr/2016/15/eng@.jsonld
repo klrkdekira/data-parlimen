@@ -724,7 +724,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/15/eng@/~cl_24",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (2)— “(ca) the entry is an entry of presumed death which has been made upon receiving an order from a Court; or”; and"
+        "@value": "in subsection (2)—"
       }
     },
     {
@@ -744,7 +744,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/15/eng@/~cl_24__para_c",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (c) the following paragraph:"
+        "@value": "by inserting after paragraph (c) the following paragraph: “(ca) the entry is an entry of presumed death which has been made upon receiving an order from a Court; or”; and"
       }
     },
     {
@@ -962,7 +962,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/15/eng@/~cl_29",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (1)— “Superintendent-Registrar or any other officer duly authorized in writing” the words “the Superintendent-Registrar or the Registrar”; and"
+        "@value": "in subsection (1)—"
       }
     },
     {
@@ -972,7 +972,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/15/eng@/~cl_29__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "b y substituting for"
+        "@value": "b y substituting for the words “Superintendent-Registrar or any other officer duly authorized in writing” the words “the Superintendent-Registrar or the Registrar”; and"
       }
     },
     {
@@ -997,7 +997,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/15/eng@/~cl_29",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (2)— “Superintendent-Registrar or such authorized officer” the words “the Superintendent-Registrar or the Registrar”; “(c) require any document to be produced which he may consider reasonably necessary.”;"
+        "@value": "in subsection (2)—"
       }
     },
     {
@@ -1007,7 +1007,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/15/eng@/~cl_29__para_b",
       "schema:text": {
         "@language": "en",
-        "@value": "b y substituting for"
+        "@value": "b y substituting for the words “Superintendent-Registrar or such authorized officer” the words “the Superintendent-Registrar or the Registrar”;"
       }
     },
     {
@@ -1027,7 +1027,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/15/eng@/~cl_29__para_b",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (b) the following paragraph:"
+        "@value": "by inserting after paragraph (b) the following paragraph: “(c) require any document to be produced which he may consider reasonably necessary.”;"
       }
     },
     {

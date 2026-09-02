@@ -8,13 +8,13 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
 
-## Bahagian ii
+## BAHAGIAN II
 
 ## MAJLIS PROFESION KERJA SOSIAL MALAYSIA
 
@@ -36,7 +36,7 @@
 
 <!-- page 2 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PENGAMAL KERJA SOSIAL DAN PELATIH KERJA SOSIAL
 
@@ -52,7 +52,7 @@
 
 22. Kewajipan untuk memberi maklumat dan dokumen
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PROSIDING TATATERTIB
 
@@ -68,7 +68,7 @@
 
 28. Rayuan
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PENGELUARAN DAN PEMASUKAN SEMULA
 
@@ -76,7 +76,7 @@
 
 30. Pemasukan semula dalam Daftar
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## KESALAHAN
 
@@ -86,17 +86,13 @@
 
 <!-- page 3 -->
 
-## Bahagian Vii
+## BAHAGIAN VII
 
-aM
+AM
 
 33. Kewajipan kerahsiaan
 
-34. Perlindungan terhadap guaman dan prosiding undang-undang
-
-35. Peraturan-peraturan
-
-36. Pengecualian
+34. Perlindungan terhadap guaman dan prosiding undang-undang 35. Peraturan-peraturan 36. Pengecualian
 
 <!-- page 5 -->
 
@@ -106,7 +102,7 @@ Suatu Akta untuk mengadakan peruntukan bagi penubuhan Majlis Profesion Kerja Sos
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -150,7 +146,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “perkhidmatan kerja sosial” ertinya perkhidmatan yang disediakan bagi maksud untuk memastikan kefungsian sosial dan kesejahteraan individu, kumpulan dan masyarakat melalui proses penglibatan, penilaian, perancangan intervensi, pelaksanaan intervensi, penilaian semula dan penamatan perkhidmatan itu.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## MAJLIS PROFESION KERJA SOSIAL MALAYSIA
 
@@ -366,7 +362,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 16. Kerajaan hendaklah memperuntukkan dana yang mencukupi bagi Majlis secara tahunan untuk membolehkan Majlis melaksanakan fungsinya di bawah Akta ini.
 
-## Bahagian iii
+## BAHAGIAN III
 
 ## PENGAMAL KERJA SOSIAL DAN PELATIH KERJA SOSIAL
 
@@ -492,7 +488,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (4) Mana-mana orang yang melanggar subseksyen (2) atau (3) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua ribu ringgit.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PROSIDING TATATERTIB
 
@@ -582,7 +578,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (3) Jika Menteri mengesahkan keputusan yang dibuat oleh Jawatankuasa Tatatertib di bawah seksyen 27, orang yang merayu itu hendaklah dihalang daripada mengamalkan kerja sosial bagi suatu tempoh sebagaimana yang ditentukan oleh Majlis.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PENGELUARAN DAN PEMASUKAN SEMULA
 
@@ -628,7 +624,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (4) Tiada seorang pun yang telah dikeluarkan daripada Daftar di bawah perenggan 29(1)(a), (b), (e), (f) dan (h) boleh dimasukkan semula oleh Pendaftar dalam Daftar.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## KESALAHAN
 
@@ -680,7 +676,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 boleh dipertuduh secara berasingan atau bersesama dalam prosiding yang sama dengan pertubuhan perbadanan, perkongsian atau pertubuhan dan hendaklah disifatkan telah melakukan kesalahan itu melainkan jika dia membuktikan bahawa kesalahan itu telah dilakukan tanpa pengetahuannya atau pembiarannya atau bahawa dia telah mengambil segala langkah berhati-hati yang munasabah atau bahawa dia telah melakukan segala usaha yang wajar bagi mengelakkan kesalahan itu daripada berlaku.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 AM
 
@@ -736,7 +732,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 <!-- page 31 -->
 
-## Bahagian i
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan memperkatakan perkara permulaan.
 
@@ -744,7 +740,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 4. Fasal 2 mengandungi takrif bagi perkataan dan ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian ii
+## BAHAGIAN II
 
 5. Bahagian II Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan Majlis Profesion Kerja Sosial Malaysia.
 
@@ -776,7 +772,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 18. Fasal 16 bertujuan untuk memperuntukkan bahawa Kerajaan hendaklah memperuntukkan dana yang mencukupi bagi Majlis secara tahunan untuk membolehkan Majlis melaksanakan fungsinya di bawah Akta yang dicadangkan.
 
-## Bahagian iii
+## BAHAGIAN III
 
 19. Bahagian III Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan pengamal kerja sosial dan pelatih kerja sosial.
 
@@ -792,7 +788,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 25. Fasal 22 bertujuan untuk mengadakan peruntukan bagi kewajipan pemohon, pengamal kerja sosial atau pelatih kerja sosial untuk memberikan apa-apa maklumat atau dokumen tambahan sebagaimana yang diarahkan oleh Majlis. Ketidakpatuhan kepada subfasal (2) dan (3) adalah suatu kesalahan di bawah Akta yang dicadangkan.
 
-## Bahagian iV
+## BAHAGIAN IV
 
 26. Bahagian IV Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan prosiding tatatertib.
 
@@ -810,7 +806,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 32. Fasal 28 bertujuan untuk mengadakan peruntukan bagi rayuan kepada Menteri.
 
-## Bahagian V
+## BAHAGIAN V
 
 33. Bahagian V Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan pengeluaran daripada dan pemasukan semula dalam Daftar.
 
@@ -818,7 +814,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 35. Fasal 30 bertujuan untuk mengadakan peruntukan bagi pemasukan semula nama seseorang pengamal kerja sosial atau pelatih kerja sosial dalam Daftar dan bagi pengeluaran perakuan amalan, perakuan amalan sementara atau perakuan interim selepas pemasukan semula.
 
-## Bahagian Vi
+## BAHAGIAN VI
 
 36. Bahagian VI Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan kesalahan.
 
@@ -826,7 +822,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 38. Fasal 32 bertujuan untuk mengadakan peruntukan bagi kesalahan yang berhubungan dengan penggajian seseorang yang bukan pengamal kerja sosial.
 
-## Bahagian Vii
+## BAHAGIAN VII
 
 39. Bahagian VII Akta yang dicadangkan memperkatakan peruntukan am.
 

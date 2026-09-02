@@ -38,7 +38,7 @@ oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong dengan nasih
 
 <!-- page 2 -->
 
-### 2
+<!-- marginal: 2 -->
 
 ## RANG UNDANG-UNDANG
 
@@ -48,21 +48,13 @@ oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong dengan nasih
 
 (d) suatu rakaman, atau pemancaran, dari suatu jarak, apa-apa hal dengan mana- mana, atau apa-apa kombinasi, cara yang disebut dalam perenggan (a), (b) atau (c),
 
-atau dengan lebih daripada satu cara yang disebut dalam perenggan (a), (b), (c) dan (d), yang dimaksudkan untuk digunakan atau yang mungkin digunakan bagi
-
-<!-- marginal: tujuan -->
-
-menyatakan, memperihalkan, atau dengan apa jua cara sekalipun menggambarkan, hal itu;
+atau dengan lebih daripada satu cara yang disebut dalam perenggan (a), (b), (c) dan (d), yang dimaksudkan untuk digunakan atau yang mungkin digunakan bagi tujuan menyatakan, memperihalkan, atau dengan apa jua cara sekalipun menggambarkan, hal itu;
 
 ### MlSALAN
 
 Tulisan ialah dokumen.
 
-Perkataan yang dicetak, dilitografkan
-
-<!-- marginal: atau -->
-
-difotografkan ialah dokumen.
+Perkataan yang dicetak, dilitografkan atau difotografkan ialah dokumen.
 
 Peta, pelan, graf atau lakaran ialah dokumen.
 
@@ -72,51 +64,27 @@ Lukisan, citra, gambar atau karikatur ialah dokumen.
 
 Fotograf atau negatif ialah dokumen.
 
-Rakaman pita komunikasi telefon,
-
-<!-- marginal: termasuklah -->
-
-rakaman komunikasi sedemikian yang dipancarkan dari suatu jarak, ialah dokumen.
+Rakaman pita komunikasi telefon, termasuklah rakaman komunikasi sedemikian yang dipancarkan dari suatu jarak, ialah dokumen.
 
 <!-- page 3 -->
 
 ## KETERANGAN (PINDAAN)
 
-<!-- marginal: 3 -->
+### 3
 
-Rakaman fotografi atau rakaman visual
+Rakaman fotografi atau rakaman visual lain, termasuklah rakaman pemancaran fotografi atau pemancaran visual lain dari suatu jarak, ialah dokumen.
 
-<!-- marginal: lain, -->
-
-termasuklah rakaman pemancaran fotografi atau pemancaran visual lain dari suatu jarak,
-
-<!-- marginal: ialah -->
-
-dokumen.
-
-Hal yang dirakamkan, disimpan, diproses, didapatkan semula atau dikeluarkan oleh komputer
-
-<!-- marginal: ialah -->
-
-dokumeii.';
+Hal yang dirakamkan, disimpan, diproses, didapatkan semula atau dikeluarkan oleh komputer ialah dokumeii.';
 
 (b) dengan memasukkan, selepas takrif "fakta isu", takrif baru yang berikut:
 
 ' "filem" termasuk mikrofilem dan apa- apa negatif;';
 
-(c) dengan memasukkan, selepas
-
-<!-- marginal: takrif -->
-
-"keterangan" takrif baru yang berikut:
+(c) dengan memasukkan, selepas takrif "keterangan" takrif baru yang berikut:
 
 ' "komputer" ertinya apa-apa peranti bagi merekodkan, menyimpan, memproses, mendapatkan semula atau mengeluarkan apa- apa maklumat atau hal lain, atau bagi melaksanakan mana-mana satu fungsi itu atau lebih, tidak kira dengan nama atau perihalan apa pun peranti itu disebut; dan jika dua komputer atau lebih menjalankan mana-mana satu fungsi itu atau lebih dalam satu kombinasi atau berturutan atau walau bagaimana jua pun selainnya disatukan, komputer-komputer itu hendaklah dikira sebagai satu komputer; dan
 
-(d) dengan memasukkan, selepas
-
-<!-- marginal: takrif -->
-
-"mahkamah" takrif-takrif baru yang berikut:
+(d) dengan memasukkan, selepas takrif "mahkamah" takrif-takrif baru yang berikut:
 
 ' "mikrofilem" ertinya apa-apa bahan lutsinar yang mempunyai imej visual dalam saiz yang dikurangkan sama ada secara tunggal atau sebagai suatu siri dan termasuk mikrofis;
 
@@ -124,13 +92,39 @@ dokumeii.';
 
 <!-- page 4 -->
 
-### 4
+<!-- marginal: 4 -->
 
 ## RANG UNDANG-UNDANG
 
-3. Akta ibu adalah dipinda dengan memasukkan, di baru 3 l A. bawah subtajuk "Pengakuan dan Pengakuan Salah", seksyen baru 31 A yang berikut selepas seksyen 31:
+3. Akta ibu adalah dipinda dengan memasukkan, di
 
-"Keboleh- 3 l A. (1) Jika dalam mana-mana prosiding tenmaan jenayah, suatu pernyataan, sama ada bertulis pernyataan dalam atau lisan, yang dibuat oleh mana-mana orang prosiding yang dipertuduh atas suatu kesalahan, diterima jenayah. sebagai keterangan di bawah atau menurut kuasa mana-mana undang-undang bertulis, maka, walau apa jua pun yang terkandung dalam undang-undang bertulis itu, pernyataan itu tidak boleh diterima sebagai keterangan, atau dikemukakan dalam, atau diper- timbangkan oleh, mahkamah, melainkan jika keterangan tentang pernyataan itu diberikan—
+<!-- marginal: Seksyen -->
+
+<!-- marginal: baru 3 l A. -->
+
+bawah subtajuk "Pengakuan dan Pengakuan Salah", seksyen baru 31 A yang berikut selepas seksyen 31:
+
+<!-- marginal: "Keboleh- -->
+
+3 l A. (1) Jika dalam mana-mana prosiding
+
+<!-- marginal: tenmaan -->
+
+jenayah, suatu pernyataan, sama ada bertulis
+
+<!-- marginal: pernyataan -->
+
+<!-- marginal: dalam -->
+
+atau lisan, yang dibuat oleh mana-mana orang
+
+<!-- marginal: prosiding -->
+
+yang dipertuduh atas suatu kesalahan, diterima
+
+<!-- marginal: jenayah. -->
+
+sebagai keterangan di bawah atau menurut kuasa mana-mana undang-undang bertulis, maka, walau apa jua pun yang terkandung dalam undang-undang bertulis itu, pernyataan itu tidak boleh diterima sebagai keterangan, atau dikemukakan dalam, atau diper- timbangkan oleh, mahkamah, melainkan jika keterangan tentang pernyataan itu diberikan—
 
 (a) oleh pegawai yang kepadanya per- nyataan itu dibuat; atau
 
@@ -138,19 +132,17 @@ dokumeii.';
 
 (2) Subseksyen (1) tidaklah menyentuh pemakaian peruntukan seksyen 90A, 90s, 90c, 145 dan 155.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Seksyen 32 Akta ibu adalah dipinda— seksyen 32.
+4. Seksyen 32 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 32. -->
 
 (a) dengan menggantikan noktah pada penghujung perenggan (h) dengan koma bernoktah dan memasukkan, selepas perenggan (h), perenggan baru (i) dan (j) yang berikut:
 
 "(i) apabila pernyataan itu dibuat dalam penjalanan, atau bagi tujuan, suatu penyiasatan atau siasatan mengenai suatu kesalahan di bawah atau menurut kuasa mana-mana undang-undang bertulis; dan
 
-(j) jika pernyataan itu dibuat oleh pegawai awam pada menjalankan
-
-<!-- marginal: tugas- -->
-
-tugasnya."; dan
+(j) jika pernyataan itu dibuat oleh pegawai awam pada menjalankan tugas- tugasnya."; dan
 
 <!-- page 5 -->
 
@@ -160,9 +152,7 @@ tugasnya."; dan
 
 <!-- marginal: Pindaan -->
 
-5. Subseksyen (3) seksyen 60 Akta
-
-<!-- marginal: ibu adalah -->
+5. Subseksyen (3) seksyen 60 Akta ibu adalah
 
 <!-- marginal: seksyen 60. -->
 
@@ -198,27 +188,69 @@ menggantikan perkataan "melihat sendiri dokumen itu" dalam perenggan (e) dengan 
 
 selepas seksyen 78, seksyen 78A baru yang berikut:
 
-"Bukti 78A. Walau apa pun apa-apa
-
-<!-- marginal: jua yang -->
-
-dokumen terkandung dalam seksyen 77 dan 78, awam yang di- peruntukan seksyen 90A, 90s dan 90c keluarkan hendaklah terpakai bagi dokumen awam.". oleh komputer
+"Bukti 78A. Walau apa pun apa-apa jua yang dokumen terkandung dalam seksyen 77 dan 78, awam yang di- peruntukan seksyen 90A, 90s dan 90c keluarkan hendaklah terpakai bagi dokumen awam.". oleh komputer
 
 <!-- page 6 -->
 
-### 6
+<!-- marginal: 6 -->
 
 ## RANG UNDANG-UNDANG
 
-Subtajuk
+<!-- marginal: Subtajuk -->
 
-9. Akta ibu adalah dipinda dengan memasukkan, dalam baru dan
+9. Akta ibu adalah dipinda dengan memasukkan, dalam
 
-## Bab V, selepas seksyen 90, subtajuk baru dan seksyen
+<!-- marginal: baru dan -->
 
-baru 90A, 90B, dan 90C yang berikut: baru 90A. 90B dan 90c. " Dokumen Yang Dikeluarkan Oleh Komputer
+Bab V, selepas seksyen 90, subtajuk baru dan seksyen
 
-Keboleh- 90A. (1) Dalam mana-mana presiding terimaan jenayah atau sivil sesuatu dokumen yang dokumen yang di- dikeluarkan oleh komputer, atau sesuatu keluarkan pernyataan yang terkandung dalam dokumen oleh kom- puter, dan itu, hendaklah boleh diterima sebagai pernyataan keterangan mengenai apa-apa fakta yang yang ter- dinyatakan dalamnya jika dokumen itu telah kandung dalamnya. dikeluarkan oleh komputer itu dalam perjalanan penggunaannya yang biasa, sama ada atau tidak seseorang yang mengemukakan dokumen itu adalah pembuat dokumen atau pernyataan itu.
+<!-- marginal: seksyen -->
+
+baru 90A, 90B, dan 90C yang berikut:
+
+<!-- marginal: baru 90A. -->
+
+<!-- marginal: 90B dan 90c. -->
+
+" Dokumen Yang Dikeluarkan Oleh Komputer
+
+<!-- marginal: Keboleh- -->
+
+90A. (1) Dalam mana-mana presiding
+
+<!-- marginal: terimaan -->
+
+jenayah atau sivil sesuatu dokumen yang
+
+<!-- marginal: dokumen -->
+
+<!-- marginal: yang di- -->
+
+dikeluarkan oleh komputer, atau sesuatu
+
+<!-- marginal: keluarkan -->
+
+pernyataan yang terkandung dalam dokumen
+
+<!-- marginal: oleh kom- -->
+
+<!-- marginal: puter, dan -->
+
+itu, hendaklah boleh diterima sebagai
+
+<!-- marginal: pernyataan -->
+
+keterangan mengenai apa-apa fakta yang
+
+<!-- marginal: yang ter- -->
+
+dinyatakan dalamnya jika dokumen itu telah
+
+<!-- marginal: kandung -->
+
+<!-- marginal: dalamnya. -->
+
+dikeluarkan oleh komputer itu dalam perjalanan penggunaannya yang biasa, sama ada atau tidak seseorang yang mengemukakan dokumen itu adalah pembuat dokumen atau pernyataan itu.
 
 (2) Bagi maksud seksyen ini bolehlah dibuktikan bahawa sesuatu dokumen telah dikeluarkan oleh komputer dalam perjalanan penggunaannya yang biasa dengan mengemukakan kepada mahkamah suatu perakuan yang telah ditandatangani oleh seseorang yang sama ada sebelum atau selepas pengeluaran dokumen itu oleh komputer itu adalah bertanggungjawab bagi pengurusan pengendalian komputer itu, atau bagi perjalanan aktiviti-aktiviti yang baginya komputer itu digunakan.
 
@@ -230,17 +262,13 @@ Keboleh- 90A. (1) Dalam mana-mana presiding terimaan jenayah atau sivil sesuatu 
 
 ## KETERANGAN (PINDAAN)
 
-<!-- marginal: 7 -->
+### 7
 
 (4) Jika sesuatu perakuan diberikan di bawah subseksyen (2), hendaklah dianggap bahawa komputer yang disebut dalam perakuan itu adalah dalam keadaan yang baik dan beroperasi dengan baik dari segala segi sepanjang bahagian material tempoh dokumen itu dikeluarkan.
 
 (5) Sesuatu dokumen hendaklah disifatkan telah dikeluarkan oleh komputer sama ada ia telah dikeluarkan olehnya secara langsung atau dengan menggunakan apa-apa kelengkapan yang sesuai, dan sama ada atau tidak terdapat apa-apa campur tangan manusia secara langsung atau tidak langsung.
 
-(6) Sesuatu dokumen yang dikeluarkan oleh komputer, atau sesuatu pernyataan yang terkandung dalam dokumen itu, boleh diterima sebagai keterangan sama ada atau tidak ia dikeluarkan oleh komputer
-
-<!-- marginal: itu selepas -->
-
-bermulanya presiding jenayah atau sivil atau selepas bermulanya apa-apa penyiasatan atau siasatan berhubungan dengan presiding jenayah atau sivil atau penyiasatan atau siusatan i t u, dan apa-apa dokumen yang dikeluarkan sedemikian oleh komputer itu hendaklah disifatkan telah dikeluarkan oleh komputer itu dalam perjalanan penggunaannya yang biasa.
+(6) Sesuatu dokumen yang dikeluarkan oleh komputer, atau sesuatu pernyataan yang terkandung dalam dokumen itu, boleh diterima sebagai keterangan sama ada atau tidak ia dikeluarkan oleh komputer itu selepas bermulanya presiding jenayah atau sivil atau selepas bermulanya apa-apa penyiasatan atau siasatan berhubungan dengan presiding jenayah atau sivil atau penyiasatan atau siusatan i t u, dan apa-apa dokumen yang dikeluarkan sedemikian oleh komputer itu hendaklah disifatkan telah dikeluarkan oleh komputer itu dalam perjalanan penggunaannya yang biasa.
 
 (7) Walau apa pun apa-apa jua yang terkandung dalam seksyen ini, sesuatu dokumen yang dikeluarkan oleh komputer, atau sesuatu pernyataan yang terkandung dalam dokumen itu, tidak boleh diterima dalam keterangan dalam apa-apa presiding jenayah, jika ia diberikan sebagai keterangan oleh atau bagi pihak orang yang dipertuduh alas suatu kesalahan dalam presiding itu jika orang yang dipertuduh atas kesalahan itu ialah orang yang—
 
@@ -248,7 +276,7 @@ bermulanya presiding jenayah atau sivil atau selepas bermulanya apa-apa penyiasa
 
 <!-- page 8 -->
 
-### 8
+<!-- marginal: 8 -->
 
 ## RANG UNDANG-UNDANG
 
@@ -256,35 +284,67 @@ perjalanan aktiviti-aktiviti yang baginya komputer itu digunakan; atau
 
 (b) dengan apa-apa cara atau sehingga apa- apa takat terlibat, secara langsung atau tidak langsung, dalam pengeluaran dokumen itu oleh komputer itu.
 
-Nilai yang 90B. Dalam menganggarkan nilai, jika ada, boleh yang hendak diberikan kepada sesuatu diberikan kepada dokumen, atau sesuatu pernyataan yang dokumen terkandung daiam suatu dokumen, yang atau diterima menurut kuasa
+<!-- marginal: Nilai yang -->
 
-<!-- marginal: 90A, -->
+90B. Dalam menganggarkan nilai, jika ada,
 
-pernyataan yang mahkamah— terkandung dalam dokumen,
+<!-- marginal: boleh -->
 
-(a) boleh membuat apa-apa kesimpulan yang yang munasabah daripada hal keadaan diterima menurut yang berhubungan dengan dokumen kuasa atau pernyataan itu, termasuklah cara 90A dan tujuan pewujudannya,
+yang hendak diberikan kepada sesuatu
+
+<!-- marginal: diberikan -->
+
+<!-- marginal: kepada -->
+
+dokumen, atau sesuatu pernyataan yang
+
+<!-- marginal: dokumen -->
+
+terkandung daiam suatu dokumen, yang
 
 <!-- marginal: atau -->
 
-ketepatannya atau selainnya;
+diterima menurut kuasa 90A,
 
-(b) hendaklah mengambil kira—
-
-(i) lat masa antara berlakunya atau wujudnya fakta-fakta
+<!-- marginal: pernyataan -->
 
 <!-- marginal: yang -->
 
-dinyatakan dalam dokumen atau pernyataan itu dengan pem- bekalan maklumat atau hal yang relevan itu ke dalam komputer; dan
+mahkamah—
 
-(ii) sama ada atau tidak orang yang membekalkan, atau mana-mana orang yang terlibat
+<!-- marginal: terkandung -->
 
 <!-- marginal: dalam -->
 
-pembekalan, maklumat itu atau penjagaan dokumen
+<!-- marginal: dokumen, -->
 
-<!-- marginal: itu, atau -->
+(a) boleh membuat apa-apa kesimpulan
 
-dokumen yang mengandungi pernyataan itu, mempunyai apa- apa insentif untuk menyem- bunyikan atau menyalahnyatakan semua atau mana-mana fakta yang dinyatakan dalam dokumen atau pernyataan itu.
+<!-- marginal: yang -->
+
+yang munasabah daripada hal keadaan
+
+<!-- marginal: diterima -->
+
+<!-- marginal: menurut -->
+
+yang berhubungan dengan dokumen
+
+<!-- marginal: kuasa -->
+
+atau pernyataan itu, termasuklah cara
+
+<!-- marginal: seksyen -->
+
+<!-- marginal: 90A -->
+
+dan tujuan pewujudannya, atau ketepatannya atau selainnya;
+
+(b) hendaklah mengambil kira—
+
+(i) lat masa antara berlakunya atau wujudnya fakta-fakta yang dinyatakan dalam dokumen atau pernyataan itu dengan pem- bekalan maklumat atau hal yang relevan itu ke dalam komputer; dan
+
+(ii) sama ada atau tidak orang yang membekalkan, atau mana-mana orang yang terlibat dalam pembekalan, maklumat itu atau penjagaan dokumen itu, atau dokumen yang mengandungi pernyataan itu, mempunyai apa- apa insentif untuk menyem- bunyikan atau menyalahnyatakan semua atau mana-mana fakta yang dinyatakan dalam dokumen atau pernyataan itu.
 
 <!-- page 9 -->
 

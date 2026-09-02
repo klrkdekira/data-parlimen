@@ -702,9 +702,7 @@ the commission of an offence under this Act, the Magistrate may issue a warrant 
 
 (5) An enforcement officer examining a person under subsection
 
-(1) shall first inform that person of the provisions of subsections
-
-(3) and (4).
+(1) shall first inform that person of the provisions of subsections (3) and (4).
 
 (6) A statement made by any person under subsection (3) or
 

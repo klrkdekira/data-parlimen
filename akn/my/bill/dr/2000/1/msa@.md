@@ -26,133 +26,217 @@ belas bilion empat ratus dua puluh sembilan juta empat ratus empat puluh lapan r
 
 <!-- marginal: Amaun -->
 
-Maksud Tajuk
+<!-- marginal: Maksud -->
+
+Tajuk
 
 <!-- marginal: (RM) -->
 
 <!-- marginal: 38,999,400 -->
 
-B. 1 Par1imen Pejabat Penyimpan Mohor Be.sar Raja-Raja
+<!-- marginal: B. 1 -->
+
+Par1imen Pejabat Penyimpan Mohor Be.sar Raja-Raja
 
 <!-- marginal: 1,138,900 -->
 
-B. 2
+<!-- marginal: B. 2 -->
 
 <!-- marginal: 41,807,300 -->
 
-B. 3 Jabatan Audit
+<!-- marginal: B. 3 -->
+
+Jabatan Audit
 
 <!-- marginal: 19,734,700 -->
 
-Sur\}hanjaya Pi1ihan Raya B. 4
+Sur\}hanjaya Pi1ihan Raya
+
+<!-- marginal: B. 4 -->
 
 <!-- marginal: 15,885,500 -->
 
-Suruhanjaya Perkhidmatan Awam B. 5
+Suruhanjaya Perkhidmatan Awam
+
+<!-- marginal: B. 5 -->
 
 <!-- marginal: 6,814,100 -->
 
-Suruhanjaya Perkhidmatan Pendidikan B. 6
+Suruhanjaya Perkhidmatan Pendidikan
+
+<!-- marginal: B. 6 -->
 
 <!-- marginal: 1,195,731,100 -->
 
-Jabatan Perdana Menteri B. 7
+Jabatan Perdana Menteri
+
+<!-- marginal: B. 7 -->
 
 <!-- marginal: 474,495,600 -->
 
-Jabatan Perkhidmatan Awam B. 8
+Jabatan Perkhidmatan Awam
+
+<!-- marginal: B. 8 -->
 
 <!-- marginal: 52,489,400 -->
 
-Jabatan Perangkaan B. 9
+Jabatan Perangkaan
+
+<!-- marginal: B. 9 -->
 
 <!-- marginal: 29,548,700 -->
 
-B. 10 Jabatan Peguam Negara
+<!-- marginal: B. 10 -->
+
+Jabatan Peguam Negara
 
 <!-- marginal: 41,754,600 -->
 
-11 Badan Pencegah Rasuah B.
+<!-- marginal: 11 -->
+
+Badan Pencegah Rasuah
+
+<!-- marginal: B. -->
 
 <!-- marginal: 1,331,400 -->
 
-Pejabat Setiausaha Persekutuan Sabah B. 12
+Pejabat Setiausaha Persekutuan Sabah
+
+<!-- marginal: B. 12 -->
 
 <!-- marginal: 975,500 -->
 
-Pejabat Setiausaha Persekutuan Sarawak B. 13
+Pejabat Setiausaha Persekutuan Sarawak
+
+<!-- marginal: B. -->
+
+<!-- marginal: 13 -->
 
 <!-- marginal: 102,020,600 -->
 
-Kementerian Perumahan dan Kerajaan B. 14 Tempatan
+Kementerian Perumahan dan Kerajaan
+
+<!-- marginal: B. 14 -->
+
+Tempatan
 
 <!-- marginal: 16,559,000 -->
 
-15 Jabatan Perancangan Bandar dan Desa B.
+<!-- marginal: 15 -->
+
+Jabatan Perancangan Bandar dan Desa
+
+<!-- marginal: B. -->
 
 <!-- marginal: 188,349,900 -->
 
-Jabatan Bomba dan Penye1amat B. 16
+Jabatan Bomba dan Penye1amat
+
+<!-- marginal: B. 16 -->
 
 <!-- marginal: 100,892,800 -->
 
-17 Kementerian Belia dan Sukan B.
+<!-- marginal: 17 -->
+
+Kementerian Belia dan Sukan
+
+<!-- marginal: B. -->
 
 <!-- marginal: 129,375,700 -->
 
-18 Kementerian Perusahaan Utama B.
+<!-- marginal: 18 -->
+
+Kementerian Perusahaan Utama
+
+<!-- marginal: B. -->
 
 <!-- marginal: 1,084,383,100 -->
 
-19 Kementerian Pertanian B.
+<!-- marginal: 19 -->
+
+Kementerian Pertanian
+
+<!-- marginal: B. -->
 
 <!-- marginal: 165,350,500 -->
 
-Kementerian Perdagangan Antarabangsa B. 20 dan Industri
+Kementerian Perdagangan Antarabangsa
+
+<!-- marginal: B. 20 -->
+
+dan Industri
 
 <!-- marginal: 95,042,500 -->
 
-Kementerian Perdagangan Da1am Negeri B. 21 dan Hal Ehwa1 Pengguna
+Kementerian Perdagangan Da1am Negeri
+
+<!-- marginal: B. 21 -->
+
+dan Hal Ehwa1 Pengguna
 
 <!-- marginal: 202,699,400 -->
 
-Kementerian Kebudayaan, Kesenian dan B. 22 Pe1ancongan
+Kementerian Kebudayaan, Kesenian dan
+
+<!-- marginal: B. 22 -->
+
+Pe1ancongan
 
 <!-- marginal: 14,851,400 -->
 
-Jabatan Arkib Negara B. 23
+Jabatan Arkib Negara
+
+<!-- marginal: B. 23 -->
 
 <!-- marginal: 6,128,700 -->
 
-Jabatan Muzium dan Antikuiti B. 24
+Jabatan Muzium dan Antikuiti
+
+<!-- marginal: B. 24 -->
 
 <!-- marginal: 3,919,977,400 -->
 
-Kementerian Pertahanan B. 25
+Kementerian Pertahanan
+
+<!-- marginal: B. 25 -->
 
 <!-- marginal: 11,691,367,400 -->
 
-Kementerian Pendidikan B. 26
+Kementerian Pendidikan
+
+<!-- marginal: B. 26 -->
 
 <!-- marginal: 25,886,900 -->
 
-B. 27 Jabatan Perpustakaan Negara
+<!-- marginal: B. 27 -->
+
+Jabatan Perpustakaan Negara
 
 <!-- marginal: 431,232,300 -->
 
-B. 28 Perbendaharaan
+<!-- marginal: B. 28 -->
+
+Perbendaharaan
 
 <!-- marginal: 2,676,888,100 -->
 
-Perkhidmatan Am Perbendaharaan B. 29
+Perkhidmatan Am Perbendaharaan
+
+<!-- marginal: B. 29 -->
 
 <!-- marginal: 2,561,792,400 -->
 
-Peruntukan kepada Kumpu1an Wang B. 30 Terkanun
+Peruntukan kepada Kumpu1an Wang
+
+<!-- marginal: B. 30 -->
+
+Terkanun
 
 <!-- marginal: 283,006,400 -->
 
-Jabatan Kastam dan Eksais Diraja B. 31
+Jabatan Kastam dan Eksais Diraja
+
+<!-- marginal: B. 31 -->
 
 <!-- page 3 -->
 
@@ -194,7 +278,15 @@ B. 37 ~.:' Jabatan Pendaftaran Pertubuhan
 
 <!-- marginal: 7,280,000 -->
 
-B. 38 J I 1, Jabatan Pendaftaran Negara
+B. 38
+
+<!-- marginal: J -->
+
+<!-- marginal: I -->
+
+<!-- marginal: 1, -->
+
+Jabatan Pendaftaran Negara
 
 <!-- marginal: 90,897,000 -->
 
@@ -206,7 +298,7 @@ B. 39 ~, ~. B. 40 Jabatan Penjara
 
 <!-- marginal: 10,425,000 -->
 
-### f
+<!-- marginal: f -->
 
 ~) Kementerian Perpaduan Negara dan
 
@@ -242,23 +334,29 @@ Kementerian Tenaga, Komunikasi dan
 
 B. 49 Multimedia
 
-### f '
+<!-- marginal: f ' -->
 
 Kementerian Pembangunan Usahawan B. 50
 
 <!-- marginal: 936,562,500 -->
 
-r, I B. 51 Kementerian Luar Negeri
+<!-- marginal: r, -->
+
+<!-- marginal: I -->
+
+B. 51 Kementerian Luar Negeri
 
 <!-- marginal: 275,896,500 -->
 
-! r"
+!
+
+<!-- marginal: r" -->
 
 <!-- marginal: 36,858,851,900 -->
 
 <!-- marginal: JUMLAH .. -->
 
-### f
+<!-- marginal: f -->
 
 ~ ~
 

@@ -34,7 +34,11 @@ membuat representasi terhadap pertuduhan tatatertib yang dibuat terhadapnya sebe
 
 (a) jika seseorang pegawai atau penjawat Lembaga dibuang kerja atau diturunkan pangkat atas alasan kelakuan yang berkenaan dengannya suatu pertuduhan jenayah telah dibuktikan terhadapnya;
 
-(b) j i ka Lembaga, atas syor Menteri yang dipertanggungkan dengan tanggungjawab bagi hal ehwal dalam negeri, berpuas hati bahawa demi kepentingan keselamatan Malaysia atau mana-mana bahagiannya adalah tidak suaimanfaat untuk menjalankan kehendak subseksyen ini; atau
+(b) j i ka Lembaga, atas syor Menteri yang dipertanggungkan dengan tanggungjawab bagi hal ehwal dalam negeri, berpuas hati bahawa demi kepentingan keselamatan Malaysia atau mana-mana bahagiannya adalah
+
+<!-- marginal: tidak -->
+
+suaimanfaat untuk menjalankan kehendak subseksyen ini; atau
 
 (c) jika telah dibuat terhadap seseorang pegawai atau penjawat Lembaga apa-apa perintah tahanan, pengawasan, kediaman terhad, buang negeri atau deportasi, atau jika telah dikenakan terhadap seseorang pegawai atau penjawat Lembaga apa-apa bentuk sekatan atau pengawasan dengan bon atau selainnya, di bawah mana-mana undang-undang berhubungan dengan keselamatan Malaysia atau mana-mana bahagiannya, pencegahan jenayah, tahanan pencegahan, kediaman terhad, buang negeri, imigresen atau pelindungan wanita dan gadis."; dan
 
@@ -116,4 +120,4 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Lembaga Kemajuan Ikan Malays
 
 Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
 
-[PN(U2)1934]
+<!-- marginal: [PN(U2)1934] -->

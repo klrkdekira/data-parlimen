@@ -244,11 +244,7 @@ memberikan apa-apa dokumen atau maklumat tambahan sebagaimana yang difikirkannya
 
 6. (1) Apabila diterima sesuatu permohonan di bawah subseksyen 5(1), Pesuruhjaya hendaklah menimbangkan permohonan itu dan boleh, jika dia berpuas hati tentang kesesuaian pemohon dan apabila dibayar fi yang ditetapkan—
 
-(a) meluluskan permohonan
-
-<!-- marginal: itu -->
-
-<!-- marginal: sepenuhnya -->
+(a) meluluskan permohonan itu sepenuhnya
 
 <!-- marginal: atau -->
 
@@ -350,11 +346,7 @@ Pelesenan Kenderaan Pelancongan
 
 13. Apabila pemegang lesen memohon pengubahan syarat-syarat lesen, Pesuruhjaya boleh—
 
-(a) meluluskan permohonan
-
-<!-- marginal: itu -->
-
-<!-- marginal: sepenuhnya -->
+(a) meluluskan permohonan itu sepenuhnya
 
 <!-- marginal: atau -->
 
@@ -782,11 +774,7 @@ Fasal 19 melarang penggunaan kenderaan pelancongan yang tidak berlesen manakala 
 
 Pelesenan Kenderaan Pelancongan
 
-dicadangkan. Fasal 25 mengenakan kewajipan ke atas pemegang lesen untuk menyimpan rekod dan akaun berkenaan dengan lesen dan untuk memberi Pesuruhjaya apa-apa rekod, akaun, penyata kewangan dan statistik atau dokumen- dokumen lain sebagaimana yang dikehendaki. Fasal 26 menyatakan kesalahan berhubungan dengan pernyataan palsu manakala
-
-<!-- marginal: fasal 27 menyatakan liabiliti -->
-
-pemunya berdaftar kenderaan pelancongan. Fasal 30 memperuntukkan bahawa pendakwaan bagi sesuatu kesalahan di bawah Akta yang dicadangkan hanya boleh dimulakan oleh atau dengan keizinan bertulis Pendakwa Raya. Fasal 31 memberi bidang kuasa kepada Majistret Kelas Pertama untuk mengenakan hukuman maksimum sebagaimana yang dicadangkan di bawah Akta ini walaupun subseksyen 87( 1) Akta Mahkamah Rendah 1948 ("Akta 92") membenarkan seseorang Majistret memberikan hukuman denda yang tidak melebihi sepuluh ribu ringgit dan hukuman penjara selama tempoh yang tidak melebihi lima tahun.
+dicadangkan. Fasal 25 mengenakan kewajipan ke atas pemegang lesen untuk menyimpan rekod dan akaun berkenaan dengan lesen dan untuk memberi Pesuruhjaya apa-apa rekod, akaun, penyata kewangan dan statistik atau dokumen- dokumen lain sebagaimana yang dikehendaki. Fasal 26 menyatakan kesalahan berhubungan dengan pernyataan palsu manakala fasal 27 menyatakan liabiliti pemunya berdaftar kenderaan pelancongan. Fasal 30 memperuntukkan bahawa pendakwaan bagi sesuatu kesalahan di bawah Akta yang dicadangkan hanya boleh dimulakan oleh atau dengan keizinan bertulis Pendakwa Raya. Fasal 31 memberi bidang kuasa kepada Majistret Kelas Pertama untuk mengenakan hukuman maksimum sebagaimana yang dicadangkan di bawah Akta ini walaupun subseksyen 87( 1) Akta Mahkamah Rendah 1948 ("Akta 92") membenarkan seseorang Majistret memberikan hukuman denda yang tidak melebihi sepuluh ribu ringgit dan hukuman penjara selama tempoh yang tidak melebihi lima tahun.
 
 7. Bahagian V mengandungi perkara-perkara pelbagai seperti penyitaan kenderaan pelancongan, pentaksahan kontrak, kuasa Menteri untuk membuat peraturan- peraturan dan peruntukan peralihan dan kecualian.
 

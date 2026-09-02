@@ -258,7 +258,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/30/eng@/~cl_8",
       "schema:text": {
         "@language": "en",
-        "@value": "in subparagraph (1)(i)— “(aa) be liable for the first offence to a fine of not less than ten times the amount of the customs duty or fifty thousand ringgit, whichever is the greater amount, and of not more than twenty times the amount of the customs duty or five hundred thousand ringgit, whichever is the greater amount, or to imprisonment for a term not exceeding five years or to both; and”; and “(bb) be liable for a second offence or any subsequent offence to a fine of not less than twenty times the amount of the customs duty or one hundred thousand ringgit, whichever is the greater amount, and of not more than forty times the amount of the customs duty or one million ringgit, whichever is the greater amount, or to imprisonment for a term not exceeding seven years or to both:”;"
+        "@value": "in subparagraph (1)(i)—"
       }
     },
     {
@@ -268,7 +268,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/30/eng@/~cl_8__para_b",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for subsubparagraph (aa) the following subsubparagraph:"
+        "@value": "by substituting for subsubparagraph (aa) the following subsubparagraph: “(aa) be liable for the first offence to a fine of not less than ten times the amount of the customs duty or fifty thousand ringgit, whichever is the greater amount, and of not more than twenty times the amount of the customs duty or five hundred thousand ringgit, whichever is the greater amount, or to imprisonment for a term not exceeding five years or to both; and”; and"
       }
     },
     {
@@ -278,7 +278,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/30/eng@/~cl_8__para_b",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for subsubparagraph (bb) the following subsubparagraph:"
+        "@value": "by substituting for subsubparagraph (bb) the following subsubparagraph: “(bb) be liable for a second offence or any subsequent offence to a fine of not less than twenty times the amount of the customs duty or one hundred thousand ringgit, whichever is the greater amount, and of not more than forty times the amount of the customs duty or one million ringgit, whichever is the greater amount, or to imprisonment for a term not exceeding seven years or to both:”;"
       }
     },
     {
@@ -304,7 +304,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/30/eng@/~cl_8",
       "schema:text": {
         "@language": "en",
-        "@value": "in subparagraph (1)(iii)— “(aa) be liable for the first offence to a fine of not less than ten times the value of the goods or fifty thousand ringgit, whichever is the greater amount, and of not more than twenty times the value of the goods or five hundred thousand ringgit, whichever is the greater amount, or to imprisonment for a term not exceeding five years or to both; and”; “(bb) be liable for a second offence or any subsequent offence to a fine of not less than twenty times the value of the goods or one hundred thousand ringgit, whichever is the greater amount, and of not more than forty times the value of the goods or one million ringgit, whichever is the greater amount, or to imprisonment for a term not exceeding seven years or to both:”; and"
+        "@value": "in subparagraph (1)(iii)—"
       }
     },
     {
@@ -324,7 +324,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/30/eng@/~cl_8__para_d",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for subsubparagraph (aa) the following subsubparagraph:"
+        "@value": "by substituting for subsubparagraph (aa) the following subsubparagraph: “(aa) be liable for the first offence to a fine of not less than ten times the value of the goods or fifty thousand ringgit, whichever is the greater amount, and of not more than twenty times the value of the goods or five hundred thousand ringgit, whichever is the greater amount, or to imprisonment for a term not exceeding five years or to both; and”;"
       }
     },
     {
@@ -334,7 +334,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/30/eng@/~cl_8__para_d",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for subsubparagraph (bb) the following subsubparagraph:"
+        "@value": "by substituting for subsubparagraph (bb) the following subsubparagraph: “(bb) be liable for a second offence or any subsequent offence to a fine of not less than twenty times the value of the goods or one hundred thousand ringgit, whichever is the greater amount, and of not more than forty times the value of the goods or one million ringgit, whichever is the greater amount, or to imprisonment for a term not exceeding seven years or to both:”; and"
       }
     },
     {

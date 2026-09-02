@@ -106,19 +106,45 @@
 
 39. Syarikat Langkawi berurus niaga dalam syer sendiri, dsb.
 
-40. Pcngkenselan syer perolehan semula oleh syarikat Langkawi 41. Menerbitkan syer dengan diskaun 42. Perubahan modal syer 43. Pengesahan syer yang diterbitkan dengan tidak sepatutnya 44. Ketetapan khas bagi pengurangan modal syer 45. Hak pemegang syer keutamaan hendakiah dinyatakan dalam perkara persatuan 46. Syer keutamaan boleh tebus 47. Sekatan tcrhadap mempelawa pelaburan daripada awam
+40. Pcngkenselan syer perolehan semula oleh syarikat Langkawi
+
+41. Menerbitkan syer dengan diskaun
+
+42. Perubahan modal syer
+
+43. Pengesahan syer yang diterbitkan dengan tidak sepatutnya
+
+44. Ketetapan khas bagi pengurangan modal syer
+
+45. Hak pemegang syer keutamaan hendakiah dinyatakan dalam perkara persatuan
+
+46. Syer keutamaan boleh tebus
+
+47. Sekatan tcrhadap mempelawa pelaburan daripada awam
 
 ## PENGGAL 2
 
 ## HAKMILIK DAN PEMINDAHAN
 
-48. Jenis syer 49. Penomboran syer 50. Perakuan hendakiah menjadi keterangan hakmilik 51. Syarikat Langkawi boleh mempunyai meterai syer 52. Surat cara pemindahan hakmilik dan pemindahan hakmilik oleh wakil diri 53. Kewajipan syarikat Langkawi berkenaan dengan pengeluaran perakuan
+48. Jenis syer
+
+49. Penomboran syer
+
+50. Perakuan hendakiah menjadi keterangan hakmilik
+
+51. Syarikat Langkawi boleh mempunyai meterai syer
+
+52. Surat cara pemindahan hakmilik dan pemindahan hakmilik oleh wakil diri
+
+53. Kewajipan syarikat Langkawi berkenaan dengan pengeluaran perakuan
 
 ## PENGGAL 3
 
 ## DAFTAR GADAIAN
 
-54. Ketidakpakaian Penggal 55. Daftar gadaian
+54. Ketidakpakaian Penggal
+
+55. Daftar gadaian
 
 ## BAHAGIAN V
 
@@ -128,7 +154,9 @@
 
 ## PEJABAT DAN NAMA
 
-56. Pejabat berdaftar syarikat Langkawi 57. Nama hendakiah dipamerkan di semua pejabat dan terdapat pada meterai, surat, dsb.
+56. Pejabat berdaftar syarikat Langkawi
+
+57. Nama hendakiah dipamerkan di semua pejabat dan terdapat pada meterai, surat, dsb.
 
 <!-- page 4 -->
 
@@ -250,13 +278,7 @@ Rang Undang'Undang
 
 <!-- page 6 -->
 
-96. Penyata hendakiah diserahkan apabila dokumen, dsb., diubah
-
-97. Penyampaian ke atas syarikat Langkawi asing
-
-98. Pemberhentian perniagaan di Langkawi
-
-99. Pelikuidasian atau pembubaran syarikat Langkawi asing di tempat pemerbadanannya atau tempat asalnya
+96. Penyata hendakiah diserahkan apabila dokumen, dsb., diubah 97. Penyampaian ke atas syarikat Langkawi asing 98. Pemberhentian perniagaan di Langkawi 99. Pelikuidasian atau pembubaran syarikat Langkawi asing di tempat pemerbadanannya atau tempat asalnya
 
 100. Nama syarikat Langkawi asing
 

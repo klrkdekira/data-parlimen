@@ -10,9 +10,7 @@ BE IT ENACTED by the Duli Yang Maha Mulia Sen Paduka Baginda Yang di-Pertuan Ago
 
 <!-- marginal: Short title. -->
 
-1. This Act may be cited as the Customs (Amendment) Act
-
-1990.
+1. This Act may be cited as the Customs (Amendment) Act 1990.
 
 <!-- marginal: Amendment -->
 
@@ -38,9 +36,11 @@ for the words "section 22" in subsection (3) the words "sections 22 and 145".
 
 <!-- page 2 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Section 17 of the principal Act is amended— of section 17.
+4. Section 17 of the principal Act is amended—
+
+<!-- marginal: of section 17. -->
 
 (a) by renumbering the section as "17. (1)"; and
 
@@ -48,15 +48,27 @@ Amendment
 
 "(2) Where any amount is payable in accordance with subsection (1) the Director General may allow the amount to be paid by instalments in such amounts and on such dates as he may determine.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-5. Section 18 of the principal Act is amended by substituting of section 18. for the words "by unavoidable accident, lost, damaged or destroyed" in subsection (1) the words "damaged, destroyed or, by unavoidable accident, lost".
+5. Section 18 of the principal Act is amended by substituting
 
-6. Section 44 of the principal Act is amended by deleting the Amendment of section 44. words "the President of a Sessions Court in West Malaysia or" and the words "in the States of Sabah and Sarawak" in subsection (3).
+<!-- marginal: of section 18. -->
 
-Amendment
+for the words "by unavoidable accident, lost, damaged or destroyed" in subsection (1) the words "damaged, destroyed or, by unavoidable accident, lost".
 
-1. Section 55 of the principal Act is amended— of section 55.
+6. Section 44 of the principal Act is amended by deleting the
+
+<!-- marginal: Amendment -->
+
+<!-- marginal: of section 44. -->
+
+words "the President of a Sessions Court in West Malaysia or" and the words "in the States of Sabah and Sarawak" in subsection (3).
+
+<!-- marginal: Amendment -->
+
+1. Section 55 of the principal Act is amended—
+
+<!-- marginal: of section 55. -->
 
 (a) by substituting for the word "one" in the sixth line of subsection (2) the word "five";
 
@@ -64,9 +76,13 @@ Amendment
 
 (c) by deleting the words "a Sessions Court in West Malaysia or" and the words "in Sabah and Sarawak" in subsection (3).
 
-New sections
+<!-- marginal: New sections -->
 
-8. The principal Act is amended by inserting, immediately 65D and 65E. after section 65c, the following new sections 65D and 65E: "Licensing 65o. (1) The Director General may at his absolute of duty discretion on payment of such fee as may be free shop. prescribed, grant a licence to operate a duty free shop to any person, hereinafter in this section referred to as "the licensee", and when granted, may suspend or withdraw such licence.
+8. The principal Act is amended by inserting, immediately
+
+<!-- marginal: 65D and 65E. -->
+
+after section 65c, the following new sections 65D and 65E: "Licensing 65o. (1) The Director General may at his absolute of duty discretion on payment of such fee as may be free shop. prescribed, grant a licence to operate a duty free shop to any person, hereinafter in this section referred to as "the licensee", and when granted, may suspend or withdraw such licence.
 
 <!-- page 3 -->
 
@@ -76,7 +92,21 @@ New sections
 
 (4) If it appears at any time that any goods have been sold or removed from such duty free shop otherwise than in accordance with all the conditions of a licence granted under this section, the licensee of such duty free shop shall, in the absence of proof to the contrary, be presumed to have illegally removed such goods and shall, without prejudice to any proceedings under this Act, be liable to pay to the proper officer of customs the customs duty leviable on the goods sold or removed.
 
-Licensing 65E. (1) The Director General may at his absolute of Inland discretion on payment of such fee as may be clearance prescribed, grant a licence to operate an inland depot. clearance depot to any person, hereinafter in this section referred to as "the licensee", and when granted, may suspend or withdraw such licence.
+<!-- marginal: Licensing -->
+
+65E. (1) The Director General may at his absolute
+
+<!-- marginal: of Inland -->
+
+discretion on payment of such fee as may be
+
+<!-- marginal: clearance -->
+
+prescribed, grant a licence to operate an inland
+
+<!-- marginal: depot. -->
+
+clearance depot to any person, hereinafter in this section referred to as "the licensee", and when granted, may suspend or withdraw such licence.
 
 (2) Any such licence shall be for such period and subject to such conditions as the Director General in each case may specify in the licence.
 
@@ -88,15 +118,31 @@ Licensing 65E. (1) The Director General may at his absolute of Inland discretion
 
 caused by any leakage, breakage or other unavoidable accident, the Director General may remit the whole or any part of the customs duty leviable on the goods found deficient.".
 
-Amendment 9. Section 66 «f the principal Act is amended by inserting, of section 66. immediately after subsection (4), the following new subsection (5):
+<!-- marginal: Amendment -->
+
+9. Section 66 «f the principal Act is amended by inserting,
+
+<!-- marginal: of section 66. -->
+
+immediately after subsection (4), the following new subsection
+
+(5):
 
 "(5) Notwithstanding anything containedin subsection (1), if the Director General is of the opinion that having regard to any particular goods imported into Malaysia it would be in the public interest not to require such goods to be deposited by the importer or his agent in accordance with the said subsection, he may direct such goods to be released subject to such conditions as he may impose.".
 
-Amendment 10. Section 78 of the principal Act is amended by inserting of section 78. immediately after the words "charges leviable thereon" in subsection (2) the words "within fourteen days of such declaration".
+<!-- marginal: Amendment -->
 
-Amendment
+10. Section 78 of the principal Act is amended by inserting
 
-11. Section 90 of the principal Act is amended— of section 90.
+<!-- marginal: of section 78. -->
+
+immediately after the words "charges leviable thereon" in subsection (2) the words "within fourteen days of such declaration".
+
+<!-- marginal: Amendment -->
+
+11. Section 90 of the principal Act is amended—
+
+<!-- marginal: of section 90. -->
 
 (a) by inserting, immediately after the words "senior officer of customs" in subsection (1), the words "and subject to such terms and conditions as he may impose";
 
@@ -114,9 +160,25 @@ Amendment
 
 91 the following:
 
-"Person in
+<!-- marginal: "Person in -->
 
-91. Notwithstanding anything contained in section charge of 90 the person in charge of any goods imported or goods imported, etc. exported by road shall be deemed to be the agent by road to be deemed of the importer or exporter, as the case may be.". agents.
+91. Notwithstanding anything contained in section
+
+<!-- marginal: charge of -->
+
+90 the person in charge of any goods imported or
+
+<!-- marginal: goods -->
+
+imported, etc. exported by road shall be deemed to be the agent
+
+<!-- marginal: by road to -->
+
+<!-- marginal: be deemed -->
+
+of the importer or exporter, as the case may be.".
+
+<!-- marginal: agents. -->
 
 <!-- marginal: Substitution -->
 
@@ -126,9 +188,27 @@ Amendment
 
 99 the following:
 
-"Drawback
+<!-- marginal: "Drawback -->
 
-99. (1) Where any imported goods are re-exported on imported by the manufacturer as part or ingredient of any goods used in manu- goods manufactured in Malaysia or as the packing, facture or or part or ingredient of the packing, of such in packing. manufactured goods, then, if customs duty has been paid on such imported goods, the Director General may, on such re-export, allow to the manufacturer a full drawback of the duty so paid, if—
+99. (1) Where any imported goods are re-exported
+
+<!-- marginal: on imported -->
+
+by the manufacturer as part or ingredient of any
+
+<!-- marginal: goods used -->
+
+<!-- marginal: in manu- -->
+
+goods manufactured in Malaysia or as the packing,
+
+<!-- marginal: facture or -->
+
+or part or ingredient of the packing, of such
+
+<!-- marginal: in packing. -->
+
+manufactured goods, then, if customs duty has been paid on such imported goods, the Director General may, on such re-export, allow to the manufacturer a full drawback of the duty so paid, if—
 
 (a) the finished goods exported have been manufactured on premises approved by the Director General;
 
@@ -142,19 +222,31 @@ Amendment
 
 (2) In this section the expression "manufacture" includes any person to whom the manufactured goods have been sold or otherwise disposed of.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-14. Section 115 of the principal Act is amended— of section 115.
+14. Section 115 of the principal Act is amended—
+
+<!-- marginal: of section 115. -->
 
 (a) by inserting, immediately after the words "section 127 (1A)" in paragraph (b) of subsection (1), the words "or 128 (4)"; and
 
 (b) by inserting, immediately after the word "perishable" in paragraph (c) of that subsection, the words "or dangerous".
 
-15. Section 127 of the principal Act is amended by inserting Amendment of section 127. immediately after the word "paragraph" in the first line of subsection (1A) the words "(a) or".
+15. Section 127 of the principal Act is amended by inserting
 
-Substitution
+<!-- marginal: Amendment -->
 
-16. The principal Act is amended by substituting for section of section 128. 128 the following: "Goods 128. (1) If there be no prosecution with regard to seized in any goods seized under this Act, such goods or the respect of which proceeds of sale of such goods which are held there is pursuant to paragraph (c) of subsection (1) of section no prosecu- tion, or the 115 shall be taken and deemed to be forfeited at the proceeds expiration of one calendar month from the date of of sale thereof, seizure of the goods unless, before such expiration— are forfeited if not
+<!-- marginal: of section 127. -->
+
+immediately after the word "paragraph" in the first line of subsection (1A) the words "(a) or".
+
+<!-- marginal: Substitution -->
+
+16. The principal Act is amended by substituting for section
+
+<!-- marginal: of section 128. -->
+
+128 the following: "Goods 128. (1) If there be no prosecution with regard to seized in any goods seized under this Act, such goods or the respect of which proceeds of sale of such goods which are held there is pursuant to paragraph (c) of subsection (1) of section no prosecu- tion, or the 115 shall be taken and deemed to be forfeited at the proceeds expiration of one calendar month from the date of of sale thereof, seizure of the goods unless, before such expiration— are forfeited if not
 
 (a) a claim to such goods or the proceeds of sale claimed within one of such goods is made under subsection (2); month.
 
@@ -170,37 +262,85 @@ Substitution
 
 (4) The Magistrate of the First Class shall issue a summons requiring the person asserting that he is the owner of the goods or the proceeds of sale of such goods, and the person from whom the goods were seized, to appear before him, and upon their appearance or default to appear, due service of such summons being proved, the Magistrate of the First Class shall proceed to the examination of the matter, and upon proof that an offence against this Act or any regulations made thereunder has been com- mitted and that such goods were the subject matter, or were used in the commission, of such offence, shall order such goods or the proceeds of sale of such goods or the amount secured under paragraph
 
-(a) or (b) of subsection (1) of section 115, as the case may be, to be forfeited, or in the absence of such proof, may order the release of such goods or the proceeds of sale of such goods or the security furnished under paragraph (a) or (b) of subsection (1) of section 115, as the case may be.
+(a) or (b) of subsection (1) of section 115, as the case may be, to be forfeited, or in the absence of such proof, may order the release of such goods or the proceeds of sale of such goods or the security furnished under paragraph (a) or (b) of subsection
+
+(1) of section 115, as the case may be.
 
 (5) In any proceedings under subsection (4), section 119 shall apply to the person asserting that he is the owner of the goods and to the person from whom they were seized as if such owner or person had been the defendant in a prosecution under this Act.".
 
 <!-- page 8 -->
 
-## 8 BILL
+<!-- marginal: 8 BILL -->
 
-Substitu- 17. The principal Act is amended by substituting for section tion of 129 the following: section 129. "Goods or 129. The Minister may, upon application made to amount him in writing through the Director General, order— forfeited may be delivered
+<!-- marginal: Substitu- -->
 
-(a) any goods seized under this Act; or or refunded tome owner or
+17. The principal Act is amended by substituting for section
 
-(b) any amount secured under paragraph (a) or other
+<!-- marginal: tion of -->
 
-(b) of subsection (1) of section 115 or the person. amount realized by sale under paragraph (c) of the said subsection (1);
+129 the following:
+
+<!-- marginal: section 129. -->
+
+<!-- marginal: "Goods or -->
+
+129. The Minister may, upon application made to
+
+<!-- marginal: amount -->
+
+him in writing through the Director General, order—
+
+<!-- marginal: forfeited -->
+
+<!-- marginal: may be -->
+
+<!-- marginal: delivered -->
+
+(a) any goods seized under this Act; or
+
+<!-- marginal: or refunded -->
+
+<!-- marginal: tome -->
+
+<!-- marginal: owner or -->
+
+(b) any amount secured under paragraph (a) or
+
+<!-- marginal: other -->
+
+(b) of subsection (1) of section 115 or the
+
+<!-- marginal: person. -->
+
+amount realized by sale under paragraph (c) of the said subsection (1);
 
 whether forfeited, or taken and deemed to be forfeited, pursuant to section 127 or 128, to be delivered or refunded, as the case may be, to the owner or other person entitled thereto upon such terms and conditions as he may deem fit:
 
 Provided that any such application shall be made before the expiration of one calendar month from the date on which such goods or amount are forfeited or are taken and deemed to be forfeited, as the case may be.".
 
-Amendment 18. Section 131 of the principal Act is amended— of section
+<!-- marginal: Amendment -->
+
+18. Section 131 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 131.
 
 (a) by substituting for the word "two" in subsection (1) the word "five"; and
 
-(b) by substituting for the full stop at the end of subsection (3) a colon and inserting thereafter the following proviso:
+(b) by substituting for the full stop at the end of subsection
+
+(3) a colon and inserting thereafter the following proviso:
 
 "Provided that where the prohibition is conditional upon a licence being issued in respect of the import of such goods, a senior officer of customs may release such goods if a licence is subsequently issued by any relevant authority.".
 
-Amendment 19. Section 138 of the principal Actisamended by substituting of section for the word "four" the word "five".
+<!-- marginal: Amendment -->
+
+19. Section 138 of the principal Actisamended by substituting
+
+<!-- marginal: of section -->
+
+for the word "four" the word "five".
 
 138.
 
@@ -228,7 +368,9 @@ This Bill seeks to amend the Customs Act 1967 (hereinafter referred to as "the A
 
 4. Clause 4 seeks to amend section 17 of the Act to empower the Director General to allow money due to be paid by a person liable, to be paid by instalments in such amounts and on such dates as he may determine.
 
-5. Clause 5 seeks to amend section 18 (I) of the Act to provide for the circumstances whereby remission of customs duty in cases where goods are lost, may be allowed only where such loss is on account of unavoidable accident. 6. Clause 6 seeks to amend section 44 (3) of the Act. The proposed amendment is consequential to the amendment made to the Subordinate Courts Act 1948 where the jurisdiction of a Magistrate is enhanced to preside over all cases within the Act.
+5. Clause 5 seeks to amend section 18 (I) of the Act to provide for the circumstances whereby remission of customs duty in cases where goods are lost, may be allowed only where such loss is on account of unavoidable accident.
+
+6. Clause 6 seeks to amend section 44 (3) of the Act. The proposed amendment is consequential to the amendment made to the Subordinate Courts Act 1948 where the jurisdiction of a Magistrate is enhanced to preside over all cases within the Act.
 
 7. Clause 7 seeks to amend section 55 (2) to provide for an increased penalty for any offence committed under this subsection. The proposed amendment to section 55 (3) is for a similar purpose as in clause 6.
 

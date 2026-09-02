@@ -6,9 +6,7 @@
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan mula berkuatkuasa.
-
-2. Tafsiran.
+1. Tajuk ringkas dan mula berkuatkuasa. 2. Tafsiran.
 
 ## BAHAGIAN
 
@@ -16,19 +14,7 @@ II
 
 ## PENUBUHAN LEMBAGA HASIL DALAM NEGERI
 
-3. Penubuhan Lembaga Hasil Dalam Negeri.
-
-4. Peruntukan-peruntukan peletakhakan.
-
-5. Meterai biasa.
-
-6. Keanggotaan Lembaga.
-
-7. Terma jawatan.
-
-8. Hilang kelayakan anggota.
-
-9. Pembatalan dan perletakan jawatan anggota.
+3. Penubuhan Lembaga Hasil Dalam Negeri. 4. Peruntukan-peruntukan peletakhakan. 5. Meterai biasa. 6. Keanggotaan Lembaga. 7. Terma jawatan. 8. Hilang kelayakan anggota. 9. Pembatalan dan perletakan jawatan anggota.
 
 ## BAHAGIAN
 
@@ -148,7 +134,11 @@ Hasil Dalam Negeri Malaysia 1994.
 
 "harta" termasuklah segala harta, alih dan tak alih, dan segala harta pusaka, kepentingan, isemen atau hak, sama ada secara ekuiti atau di sisi undang-undang dalam, kepada atau daripada harta, hak dalam tindakan, wang dan nama baik; dan "terletakhak", berhubungan dengan harta, termasuklah hak mengenai harta masa hadapan atau kontingen dan hak perkembalian dan lebihan;
 
-"Ketua Pengarah" ertinya Ketua Pengarah Hasil Akta 53. Dalam Negeri yang disebut dalam seksyen 134 Akta Cukai Pendapatan 1967;
+"Ketua Pengarah" ertinya Ketua Pengarah Hasil
+
+<!-- marginal: Akta 53. -->
+
+Dalam Negeri yang disebut dalam seksyen 134 Akta Cukai Pendapatan 1967;
 
 "Kumpulan Wang" ertinya Kumpulan Wang yang ditubuhkan di bawah seksyen 23;
 
@@ -168,9 +158,19 @@ II
 
 ## PENUBUHAN LEMBAGA HASIL DALAM NEGERI
 
-Penubuhan
+<!-- marginal: Penubuhan -->
 
-3. Adalah dengan ini ditubuhkan suatu pertubuhan Lembaga perbadanan dengan nama "Lembaga Hasil Dalam Negeri Hasil Dalam Negeri. Malaysia" yang kekal turun-temurun dan mempunyai meterai biasa, dan boleh mendakwa dan didakwa atas
+3. Adalah dengan ini ditubuhkan suatu pertubuhan
+
+<!-- marginal: Lembaga -->
+
+perbadanan dengan nama "Lembaga Hasil Dalam Negeri
+
+<!-- marginal: Hasil Dalam -->
+
+<!-- marginal: Negeri. -->
+
+Malaysia" yang kekal turun-temurun dan mempunyai meterai biasa, dan boleh mendakwa dan didakwa atas
 
 <!-- page 5 -->
 
@@ -248,9 +248,11 @@ dan liabiliti di bawahnya boleh diserahhakkan oleh
 
 perjanjian itu.
 
-Meterai
+<!-- marginal: Meterai -->
 
-5. (1) Meterai biasa itu hendaklah mengandungi apa- biasa.
+5. (1) Meterai biasa itu hendaklah mengandungi apa-
+
+<!-- marginal: biasa. -->
 
 ### apa rekabentuk yang diluluskan oleh Lembaga dan
 
@@ -334,9 +336,23 @@ sebagai anggota jika dia—
 
 (d) tidak menghadirkan dirinya untuk mesyuarat Lembaga sebanyak tiga kali berturut-turut tanpa kebenaran Pengerusi.
 
-Pembatalan
+<!-- marginal: Pembatalan -->
 
-9. (1) Menteri boleh, pada bila-bila masa, membatalkan dan per- perlantikan mana-mana anggota, selain daripada Ketua letakan jawatan Setiausaha atau Timbalan Ketua Setiausaha Perben- anggota. daharaan tanpa memberi apa-apa sebab baginya.
+9. (1) Menteri boleh, pada bila-bila masa, membatalkan
+
+<!-- marginal: dan per- -->
+
+perlantikan mana-mana anggota, selain daripada Ketua
+
+<!-- marginal: letakan -->
+
+<!-- marginal: jawatan -->
+
+Setiausaha atau Timbalan Ketua Setiausaha Perben-
+
+<!-- marginal: anggota. -->
+
+daharaan tanpa memberi apa-apa sebab baginya.
 
 (2) Mana-mana anggota boleh pada bila-bila masa meletakkan jawatannya dengan memberi notis bertulis kepada Menteri.
 
@@ -346,9 +362,11 @@ III
 
 ## FUNGSI DAN KUASA LEMBAGA
 
-Fungsi
+<!-- marginal: Fungsi -->
 
-10. Fungsi Lembaga ialah— Lembaga.
+10. Fungsi Lembaga ialah—
+
+<!-- marginal: Lembaga. -->
 
 (a) untuk bertindak sebagai ejen Kerajaan dan memberi perkhidmatan dalam pentadbiran, pentaksiran, pemungutan dan penguatkuasaan pembayaran cukai pendapatan,
 
@@ -380,7 +398,11 @@ melaksanakan segala benda yang perlu atau sesuai dilakukan bagi atau yang berkai
 
 (c) melibatkan diri dalam apa-apa kegiatan, sama ada bersendiri atau bersama-sama dengan organisasi lain, atau agensi antarabangsa, bagi menggalakkan pemahaman percukaian yang lebih baik;
 
-(d) memberi nasihat atau bantuan teknikal, termasuk kemudahan latihan kepada pihak- pihak berkuasa percukaian negara-negara lain;
+(d) memberi nasihat atau bantuan
+
+<!-- marginal: teknikal, -->
+
+termasuk kemudahan latihan kepada pihak- pihak berkuasa percukaian negara-negara lain;
 
 (e) mengenakan fee atau caj bagi perkhidmatan yang diberikan oleh Lembaga;
 
@@ -388,7 +410,11 @@ melaksanakan segala benda yang perlu atau sesuai dilakukan bagi atau yang berkai
 
 (g) menyediakan kemudahan rekreasi dan menggalakkan kegiatan rekreasi bagi, dan kegiatan yang berfaedah untuk, kebajikan pekerja Lembaga;
 
-(h) menyediakan latihan untuk pekerja Lembaga dan memberi biasiswa atau selainnya membiayai latihan tersebut; dan
+(h) menyediakan latihan untuk pekerja Lembaga dan memberi biasiswa atau
+
+<!-- marginal: selainnya -->
+
+membiayai latihan tersebut; dan
 
 (i) melakukan apa juga yang bersampingan dengan mana-mana kuasanya.
 
@@ -396,9 +422,17 @@ melaksanakan segala benda yang perlu atau sesuai dilakukan bagi atau yang berkai
 
 <!-- page 10 -->
 
-Perlantikan
+<!-- marginal: Perlantikan -->
 
-12. (1) Bagi maksud-maksud melaksanakan fungsinya, jawatan- Lembaga boleh menubuhkan jika difikirkannya perlu, kuasa apa-apa jawatankuasa dan dengan apa-apa bidang tugas yang dinyatakan.
+12. (1) Bagi maksud-maksud melaksanakan fungsinya,
+
+<!-- marginal: jawatan- -->
+
+Lembaga boleh menubuhkan jika difikirkannya perlu,
+
+<!-- marginal: kuasa -->
+
+apa-apa jawatankuasa dan dengan apa-apa bidang tugas yang dinyatakan.
 
 (2) Anggota jawatankuasa yang ditubuhkan di bawah subseksyen (1) bolehlah dilantik dari kalangan anggota Lembaga atau mana-mana orang lain yang difikirkan layak oleh Lembaga.
 
@@ -410,9 +444,13 @@ Perlantikan
 
 (6) Seseorang anggota suatu jawatankuasa boleh pada bila-bila masa meletakkan jawatan dengan memberikan notis secara bertulis kepada Pengerusi Lembaga.
 
-Perwakilan
+<!-- marginal: Perwakilan -->
 
-13. (1) Lembaga boleh mewakilkan kepada mana-mana kuasa. jawatankuasa yang ditubuhkan di bawah seksyen 12, mana-mana daripada fungsinya sebagaimana yang disifatkannya perlu atau dikehendaki.
+13. (1) Lembaga boleh mewakilkan kepada mana-mana
+
+<!-- marginal: kuasa. -->
+
+jawatankuasa yang ditubuhkan di bawah seksyen 12, mana-mana daripada fungsinya sebagaimana yang disifatkannya perlu atau dikehendaki.
 
 (2) Apa-apa fungsi yang diwakilkan di bawah seksyen ini—
 
@@ -470,13 +508,49 @@ IV
 
 <!-- page 12 -->
 
-Hak-hak 16. (1) Terma dan syarat yang dirangka oleh Lembaga pencen hendaklah mengambil kira gaji dan terma dan syarat pekerja Kerajaan perkhidmatan, termasuklah apa-apa hak terakru cuti, hendaklah yang dinikmati oleh orang ketika, berada dalam dipehhara. gunakhidmat Kerajaan sebelum mengambil opsyen memasuki ke perkhidmatan Lembaga; dan apa-apa terma atau syarat sedemikian yang berhubungan dengan tempoh perkhidmatan dengan Lembaga hendaklah membuat peruntukan mengiktiraf perkhidmatan dengan Kerajaan oleh orang yang membuat opsyen itu sebagai perkhidmatan mereka dengan Lembaga.
+<!-- marginal: Hak-hak -->
+
+16. (1) Terma dan syarat yang dirangka oleh Lembaga
+
+<!-- marginal: pencen -->
+
+hendaklah mengambil kira gaji dan terma dan syarat
+
+<!-- marginal: pekerja -->
+
+<!-- marginal: Kerajaan -->
+
+perkhidmatan, termasuklah apa-apa hak terakru cuti,
+
+<!-- marginal: hendaklah -->
+
+yang dinikmati oleh orang ketika, berada dalam
+
+<!-- marginal: dipehhara. -->
+
+gunakhidmat Kerajaan sebelum mengambil opsyen memasuki ke perkhidmatan Lembaga; dan apa-apa terma atau syarat sedemikian yang berhubungan dengan tempoh perkhidmatan dengan Lembaga hendaklah membuat peruntukan mengiktiraf perkhidmatan dengan Kerajaan oleh orang yang membuat opsyen itu sebagai perkhidmatan mereka dengan Lembaga.
 
 (2) Dalam tiap-tiap kes jika seseorang itu telah mengambil opsyen memasuki perkhidmatan Lembaga di bawah seksyen 15, Kerajaan hendaklah kena membayar kepada Lembaga apa-apa amaun pencen, ganjaran atau elaun yang kena dibayar kepada orang itu berkenaan dengan perkhidmatannya dengan Kerajaan pada masa persaraannya daripada Lembaga.
 
 (3) Jika mana-mana orang dalam perkhidmatan Lembaga yang kesnya tidak termasuk dalam skop mana- mana skim pencen atau skim lain yang ditubuhkan di bawah seksyen ini bersara atau meninggal dunia semasa dalam perkhidmatan Lembaga atau dilepaskan daripada perkhidmatan itu, Lembaga boleh memberi kepadanya atau kepada mana-mana orang atau orang lain yang menjadi tanggungan sepenuhnya atau sebahagiannya, sebagaimana difikirkan patut oleh Lembaga, apa-apa elaun atau ganjaran sebagaimana yang ditentukan oleh Lembaga.
 
-Perlantikan 17. (1) Tertakluk kepada apa-apa peraturan-peraturan pekerja, yang boleh dibuat di bawah seksyen 18 dan 34, Lembaga ejen dan perunding boleh, dari semasa ke semasa, melantik dan meng- lain. gunakhidmat atas apa-apa terma dan syarat yang difikirkan patut oleh Lembaga mana-mana pekerja lain yang perlu bagi menjalankan maksud-maksud Akta ini.
+<!-- marginal: Perlantikan -->
+
+17. (1) Tertakluk kepada apa-apa peraturan-peraturan
+
+<!-- marginal: pekerja, -->
+
+yang boleh dibuat di bawah seksyen 18 dan 34, Lembaga
+
+<!-- marginal: ejen dan -->
+
+<!-- marginal: perunding -->
+
+boleh, dari semasa ke semasa, melantik dan meng-
+
+<!-- marginal: lain. -->
+
+gunakhidmat atas apa-apa terma dan syarat yang difikirkan patut oleh Lembaga mana-mana pekerja lain yang perlu bagi menjalankan maksud-maksud Akta ini.
 
 (2) Lembaga boleh melantik dan menggunakhidmat mana-mana perunding dan ejen untuk menjalankan apa- apa urusan atau melakukan apa-apa perbuatan yang
 
@@ -568,11 +642,29 @@ secara ansuran bulanan yang setara yang tidak melebihi satu perempat daripada ju
 
 <!-- page 16 -->
 
-Perlindungan
+<!-- marginal: Perlindungan -->
 
-21. Tiada guaman atau prosiding undang-undang lain daripada boleh dikenakan secara sendiri terhadap mana-mana liabiliti diri. anggota, pegawai atau pekerja Lembaga atau mana- mana orang lain di bawah arahan Lembaga bagi apa-apa yang dilakukan atau berhajat untuk dilakukan dengan niat baik dalam pelaksanaan atau yang berupa pelaksanaan Akta ini.
+21. Tiada guaman atau prosiding undang-undang lain
 
-Pengkhidmat 22. Semua anggota Lembaga atau mana-mana awam. jawatankuasanya dan semua pegawai, pekerja atau ejen Lembaga hendaklah disifatkan sebagai pengkhidmat N.M.B. awam dalam pengertian Kanun Keseksaan.
+<!-- marginal: daripada -->
+
+boleh dikenakan secara sendiri terhadap mana-mana
+
+<!-- marginal: liabiliti diri. -->
+
+anggota, pegawai atau pekerja Lembaga atau mana- mana orang lain di bawah arahan Lembaga bagi apa-apa yang dilakukan atau berhajat untuk dilakukan dengan niat baik dalam pelaksanaan atau yang berupa pelaksanaan Akta ini.
+
+<!-- marginal: Pengkhidmat -->
+
+22. Semua anggota Lembaga atau mana-mana
+
+<!-- marginal: awam. -->
+
+jawatankuasanya dan semua pegawai, pekerja atau ejen Lembaga hendaklah disifatkan sebagai pengkhidmat
+
+<!-- marginal: N.M.B. -->
+
+awam dalam pengertian Kanun Keseksaan.
 
 ## Bab 45.
 
@@ -580,15 +672,19 @@ Pengkhidmat 22. Semua anggota Lembaga atau mana-mana awam. jawatankuasanya dan s
 
 ## PERUNTUKAN-PERUNTUKAN KEWANGAN
 
-Kumpulan
+<!-- marginal: Kumpulan -->
 
-23. (1) Adalah dengan ini ditubuhkan, bagi maksud- Wang maksud Akta ini, suatu Kumpulan Wang yang akan Lembaga. ditadbirkan dan dikawal oleh Lembaga.
+23. (1) Adalah dengan ini ditubuhkan, bagi maksud-
 
-(2) Kumpulan Wang Lembaga
+<!-- marginal: Wang -->
 
-<!-- marginal: hendaklah -->
+maksud Akta ini, suatu Kumpulan Wang yang akan
 
-mengandungi—
+<!-- marginal: Lembaga. -->
+
+ditadbirkan dan dikawal oleh Lembaga.
+
+(2) Kumpulan Wang Lembaga hendaklah mengandungi—
 
 (a) segala wang yang diterima oleh Lembaga bagi perkhidmatan yang diberi oleh Lembaga kepada Kerajaan sebagai ejen atau bagi perkhidmatan yang diberi oleh Lembaga kepada mana-mana orang;
 
@@ -654,15 +750,27 @@ bank atau bank-bank sebagaimana yang difikirkan patut oleh Lembaga; dan tiap-tia
 
 (2) Wang Lembaga hendaklah digunakan hanya untuk pembayaran pelepasan perbelanjaan, obligasi dan liabiliti Lembaga dan untuk membuat apa-apa pembayaran yang mana Lembaga diberikuasa atau dikehendaki membayar.
 
-Pelaburan.
+<!-- marginal: Pelaburan. -->
 
 28. Lembaga boleh, dengan kelulusan Menteri, melabur mana-mana wangnya yang ada untuk pelaburan dengan cara berikut:
 
-(a) dengan menyimpan ke dalam— (i) Bank Negara Malaysia; (ii) bank yang dilesenkan dengan sewajarnya di bawah Akta Perbankan dan Institusi Akta 372. Kewangan 1989; atau (iii) mana-mana institusi kewangan lain yang dilesenkan dengan sewajarnya di bawah Akta Perbankan dan Institusi Kewangan 1989;
+(a) dengan menyimpan ke dalam— (i) Bank Negara Malaysia; (ii) bank yang dilesenkan dengan sewajarnya di bawah Akta Perbankan dan Institusi
 
-(b) dengan melabur dalam bentuk bon, kertas gadai-janji, wang kertas komersil, penyetujuan bank, kertas pasaran wang» perakuan deposit dan nota janji dan bil pertukaran dalam Akta 204. pengertian Akta Bil Pertukaran 1949;
+<!-- marginal: Akta 372. -->
 
-(c) dengan melabur menurut peruntukan- Akta 208. peruntukan Akta Pemegang Amanah 1949:
+Kewangan 1989; atau (iii) mana-mana institusi kewangan lain yang dilesenkan dengan sewajarnya di bawah Akta Perbankan dan Institusi Kewangan 1989;
+
+(b) dengan melabur dalam bentuk bon, kertas gadai-janji, wang kertas komersil, penyetujuan bank, kertas pasaran wang» perakuan deposit dan nota janji dan bil pertukaran dalam
+
+<!-- marginal: Akta 204. -->
+
+pengertian Akta Bil Pertukaran 1949;
+
+(c) dengan melabur menurut peruntukan-
+
+<!-- marginal: Akta 208. -->
+
+peruntukan Akta Pemegang Amanah 1949:
 
 Dengan syarat walau bagaimanapun, jika Lembaga melabur dalam atau atas hakmilik kepada harta tak alih dalam Malaysia mengikut perenggan 4(l)(c) Akta Pemegang Amanah 1949, harta tak alih itu mungkin atau tidak mungkin akan menghasilkan apa-apa pendapatan pada masa pelaburan itu.
 
@@ -670,9 +778,25 @@ Dengan syarat walau bagaimanapun, jika Lembaga melabur dalam atau atas hakmilik 
 
 AM
 
-Tiada
+<!-- marginal: Tiada -->
 
-29. (1) Tiada tindakan atau prosiding undang-undang prosiding boleh diambil terhadap Lembaga berkenaan dengan apa- terhadap Lembaga apa perkara yang berhubungan dengan apa-apa cukai sebagai ejen Kerajaan. yang Lembaga bertindak sebagai ejen Kerajaan.
+29. (1) Tiada tindakan atau prosiding undang-undang
+
+<!-- marginal: prosiding -->
+
+boleh diambil terhadap Lembaga berkenaan dengan apa-
+
+<!-- marginal: terhadap -->
+
+<!-- marginal: Lembaga -->
+
+apa perkara yang berhubungan dengan apa-apa cukai
+
+<!-- marginal: sebagai ejen -->
+
+<!-- marginal: Kerajaan. -->
+
+yang Lembaga bertindak sebagai ejen Kerajaan.
 
 <!-- page 19 -->
 
@@ -720,21 +844,47 @@ sivil atau jenayah di bawah mana-mana undang-undang bertulis, tiada anggota, peg
 
 (2) Mana-mana orang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan jika disabitkan boleh didenda tidak melebihi sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.
 
-Akta Badan
+<!-- marginal: Akta Badan -->
 
-32. Peruntukan-peruntukan Akta Badan Berkanun Berkanun (Akaun dan Laporan Tahunan) 1980 hendaklah terpakai (Akaun dan Laporan bagi Lembaga. Tahunan)
+32. Peruntukan-peruntukan Akta Badan Berkanun
 
-1980. Akta 240.
+<!-- marginal: Berkanun -->
 
-Kuasa
+(Akaun dan Laporan Tahunan) 1980 hendaklah terpakai
 
-33. Menteri boleh, melalui perintah yang diterbitkan Menteri dalam Warta, meminda Jadual Kedua dan Ketiga. meminda
+<!-- marginal: (Akaun dan -->
+
+<!-- marginal: Laporan -->
+
+bagi Lembaga.
+
+<!-- marginal: Tahunan) -->
+
+1980.
+
+<!-- marginal: Akta 240. -->
+
+<!-- marginal: Kuasa -->
+
+33. Menteri boleh, melalui perintah yang diterbitkan
+
+<!-- marginal: Menteri -->
+
+dalam Warta, meminda Jadual Kedua dan Ketiga.
+
+<!-- marginal: meminda -->
 
 ## Jadual Kedua
 
-dan Ketiga. Peraturan-
+<!-- marginal: dan Ketiga. -->
 
-34. (1) Lembaga boleh dengan kelulusan Menteri peraturan. membuat apa-apa peraturan-peraturan sebagaimana yang suaimanfaat atau perlu bagi menjalankan maksud- maksud Akta ini.
+<!-- marginal: Peraturan- -->
+
+34. (1) Lembaga boleh dengan kelulusan Menteri
+
+<!-- marginal: peraturan. -->
+
+membuat apa-apa peraturan-peraturan sebagaimana yang suaimanfaat atau perlu bagi menjalankan maksud- maksud Akta ini.
 
 (2) Tanpa menjejaskan keluasan subseksyen (1), Lembaga boleh membuat peraturan-peraturan bagi atau mengenai semua atau mana-mana perkara berikut:
 
@@ -750,9 +900,15 @@ dan Ketiga. Peraturan-
 
 ## PROSIDING-PROSIDING LEMBAGA
 
-Mesyu a- rat
+<!-- marginal: Mesyu a- -->
 
-1. (1) Lembaga hendaklah bermesyuarat bagi penyegeraan Lernbaga urusannya sekurang-kurangnya sekali sebulan pada masa dan tempat yang ditentukan oleh Pengerusi dari semasa ke semasa.
+<!-- marginal: rat -->
+
+1. (1) Lembaga hendaklah bermesyuarat bagi penyegeraan
+
+<!-- marginal: Lernbaga -->
+
+urusannya sekurang-kurangnya sekali sebulan pada masa dan tempat yang ditentukan oleh Pengerusi dari semasa ke semasa.
 
 <!-- page 21 -->
 
@@ -812,9 +968,19 @@ bagi maksud menasihatinya mengenai apa-apa perkara yang dibincangkan, tetapi man
 
 <!-- page 22 -->
 
-Elaun yang
+<!-- marginal: Elaun yang -->
 
-7. Anggota Lembaga dan mana-mana orang lain yang dijemput boleh dibayar kepada anggola menghadiri mana-mana mesyuarat Lembaga boleh dibayar apa-apa Lembaga. elaun daripada wang Lembaga sebagaimana yang ditentukan oleh Menteri.
+7. Anggota Lembaga dan mana-mana orang lain yang dijemput
+
+<!-- marginal: boleh dibayar -->
+
+<!-- marginal: kepada anggola -->
+
+menghadiri mana-mana mesyuarat Lembaga boleh dibayar apa-apa
+
+<!-- marginal: Lembaga. -->
+
+elaun daripada wang Lembaga sebagaimana yang ditentukan oleh Menteri.
 
 ## JADUAL KEDUA
 
@@ -822,27 +988,9 @@ Elaun yang
 
 ## AKTA-AKTA YANG DINYATAKAN
 
-1. Akta Cukai Pendapatan 1967.
+1. Akta Cukai Pendapatan 1967. 2. Akta Cukai Pendapatan Tambahan 1967. 3. Akta Cukai Keuntungan Harta Tanah 1976. 4. Akta Penggalakan Pelaburan 1986. 5. Akta Duti Harta Pesaka 1941. 6. Akta Setem 1949. 7. Akta Petroleum (Cukai Pendapatan) 1967. 8. Akta Duti Sewa Filem Sinematografi 1965. 9. Akta Cukai Aktiviti Perniagaan Pesisir Labuan 1990.
 
-2. Akta Cukai Pendapatan Tambahan 1967.
-
-3. Akta Cukai Keuntungan Harta Tanah 1976.
-
-4. Akta Penggalakan Pelaburan 1986.
-
-5. Akta Duti Harta Pesaka 1941.
-
-6. Akta Setem 1949.
-
-7. Akta Petroleum (Cukai Pendapatan) 1967.
-
-8. Akta Duti Sewa Filem Sinematografi 1965.
-
-9. Akta Cukai Aktiviti Perniagaan Pesisir Labuan 1990.
-
-10. Akta Cukai Pemindahan Syer (Syarikat Berasaskan Tanah)
-
-1984.
+10. Akta Cukai Pemindahan Syer (Syarikat Berasaskan Tanah) 1984.
 
 11. Akta Cukai Spekulasi Tanah 1974.
 
@@ -858,33 +1006,11 @@ Elaun yang
 
 ## JAWATAN-JAWATAN YANG DINYATAKAN
 
-1. Ketua Pengarah Hasil Dalam Negeri di bawah Akta Cukai Pendapatan 1967.
-
-2. Ketua Pengarah Hasil Dalam Negeri di bawah Akta Cukai Pendapatan Tambahan 1967.
-
-3. Pemungut Duti Setem di bawah Akta Setem 1949.
-
-4. Ketua Pengarah Hasil Dalam Negeri di bawah Enakmen Duti Harta Pesaka 1941.
-
-5. Ketua Komtroller Hasil Dalam Negeri di bawah Akta Petroleum (Cukai Pendapatan) 1967.
+1. Ketua Pengarah Hasil Dalam Negeri di bawah Akta Cukai Pendapatan 1967. 2. Ketua Pengarah Hasil Dalam Negeri di bawah Akta Cukai Pendapatan Tambahan 1967. 3. Pemungut Duti Setem di bawah Akta Setem 1949. 4. Ketua Pengarah Hasil Dalam Negeri di bawah Enakmen Duti Harta Pesaka 1941. 5. Ketua Komtroller Hasil Dalam Negeri di bawah Akta Petroleum (Cukai Pendapatan) 1967.
 
 <!-- page 23 -->
 
-6. Ketua Pengarah Hasil Dalam Negeri di bawah Akta Duti Sewa Filem Sinematograf 1965.
-
-7. Ketua Pengarah Hasil Dalam Negeri di bawah Akta Cukai Keuntungan Harta Tanah 1976.
-
-8. Ketua Pengarah Hasil Dalam Negeri di bawah Akta Cukai Aktiviti Perniagaan Pesisir Labuan 1990.
-
-9. Ketua Pengarah Hasil Dalam Negeri di bawah Akta Penggalakan Pelaburan 1986.
-
-10. Ketua Pengarah Hasil Dalam Negeri di bawah Akta Cukai Pemindahan Syer (Syarikat Berasaskan Tanah) 1984.
-
-11. Ketua Pengarah Hasil Dalam Negeri di bawah Akta Cukai Spekulasi Tanah 1974.
-
-12. Ketua Komtroller Hasil Dalam Negeri di bawah Akta Kewangan 1965 (No. 2/1965).
-
-13. Pemungut Duti Setem di bawah Akta Duti Pertaruhan dan Ambiltagan 1948.
+6. Ketua Pengarah Hasil Dalam Negeri di bawah Akta Duti Sewa Filem Sinematograf 1965. 7. Ketua Pengarah Hasil Dalam Negeri di bawah Akta Cukai Keuntungan Harta Tanah 1976. 8. Ketua Pengarah Hasil Dalam Negeri di bawah Akta Cukai Aktiviti Perniagaan Pesisir Labuan 1990. 9. Ketua Pengarah Hasil Dalam Negeri di bawah Akta Penggalakan Pelaburan 1986. 10. Ketua Pengarah Hasil Dalam Negeri di bawah Akta Cukai Pemindahan Syer (Syarikat Berasaskan Tanah) 1984. 11. Ketua Pengarah Hasil Dalam Negeri di bawah Akta Cukai Spekulasi Tanah 1974. 12. Ketua Komtroller Hasil Dalam Negeri di bawah Akta Kewangan 1965 (No. 2/1965). 13. Pemungut Duti Setem di bawah Akta Duti Pertaruhan dan Ambiltagan 1948.
 
 ## HURAIAN
 

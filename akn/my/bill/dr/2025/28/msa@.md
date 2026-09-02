@@ -6,19 +6,19 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Pemakaian 3. Ketidakpakaian 4. Akta hendaklah dibaca bersama-sama undang-undang bertulis yang berkaitan 5. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENTADBIRAN PEROLEHAN KERAJAAN
 
 6. Pentadbiran perolehan Kerajaan oleh Ketua Setiausaha Perbendaharaan 7. Kewajipan dan kuasa pegawai pengawal 8. Kewajipan dan kuasa pegawai perolehan 9. Pentadbiran perolehan Kerajaan oleh entiti perolehan selain Kementerian atau kementerian atau jabatan sesuatu Negeri
 
-## Bahagian III
+## BAHAGIAN III
 
 ## KELULUSAN DALAM PEROLEHAN KERAJAAN
 
@@ -30,11 +30,13 @@
 
 13. Kelulusan oleh Menteri, Menteri Besar, Ketua Menteri, dsb.
 
+<!-- marginal: WJW25/0723 BM.indd 1 -->
+
 <!-- marginal: 22/08/2025 11:06 PM -->
 
 <!-- page 2 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENDAFTARAN PEMBEKAL DAN KONTRAKTOR
 
@@ -66,7 +68,7 @@
 
 27. Larangan pendaftaran dalam kod bidang yang sama
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PENJALANAN PEROLEHAN
 
@@ -92,7 +94,7 @@
 
 <!-- page 3 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## INTEGRITI DAN PELAPORAN
 
@@ -100,7 +102,7 @@
 
 38. Larangan terhadap campur tangan dalam perolehan Kerajaan
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PEMANTAUAN PEMATUHAN
 
@@ -116,7 +118,7 @@
 
 44. Kewajipan untuk melaporkan kepada agensi penguatkuasaan
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## PENYIASATAN DAN PENGUATKUASAAN
 
@@ -148,6 +150,8 @@
 
 58. Kebolehterimaan pernyataan sebagai keterangan
 
+<!-- marginal: WJW25/0723 BM.indd 3 -->
+
 <!-- marginal: 22/08/2025 11:06 PM -->
 
 <!-- page 4 -->
@@ -156,7 +160,7 @@
 
 60. Pemusnahan, penyembunyian, pencacatan dan pengubahan rekod
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## ADUAN, BANTAHAN DAN KAJIAN SEMULA
 
@@ -164,7 +168,7 @@
 
 62. Penubuhan dan pentadbiran panel kajian semula
 
-## Bahagian X
+## BAHAGIAN X
 
 ## TRIBUNAL RAYUAN PEROLEHAN KERAJAAN
 
@@ -210,7 +214,7 @@
 
 <!-- page 5 -->
 
-## Bahagian XI
+## BAHAGIAN XI
 
 ## TINDAKAN PENTADBIRAN DAN PENDAKWAAN
 
@@ -228,7 +232,7 @@
 
 88. Penalti am
 
-## Bahagian XII
+## BAHAGIAN XII
 
 AM
 
@@ -242,9 +246,11 @@ AM
 
 93. Kecualian dan peralihan
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
-## Jadual Kedua
+## JADUAL KEDUA
+
+<!-- marginal: WJW25/0723 BM.indd 5 -->
 
 <!-- marginal: 22/08/2025 11:06 PM -->
 
@@ -262,7 +268,7 @@ Suatu Akta untuk mengadakan peruntukan bagi kewajipan, kebertanggungjawaban, tad
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -271,6 +277,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 1. (1) Akta ini bolehlah dinamakan Akta Perolehan Kerajaan 2025.
 
 (2) Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
+
+<!-- marginal: WJW25/0723 BM.indd 7 -->
 
 <!-- marginal: 22/08/2025 11:06 PM -->
 
@@ -323,6 +331,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 “Akta Perbekalan” atau “Enakmen Perbekalan” ertinya Akta atau Enakmen yang dibuat bagi penguntukan apa-apa jumlah wang daripada Kumpulan Wang Disatukan mengikut Perkara 100 dan 101 atau, seksyen 15 dan 16 Jadual Kelapan, Perlembagaan Persekutuan, mengikut mana-mana yang berkenaan;
 
 “anggota pentadbiran” mempunyai erti yang diberikan kepadanya dalam Fasal (2) Perkara 160 Perlembagaan Persekutuan;
+
+<!-- marginal: WJW25/0723 BM.indd 9 -->
 
 <!-- marginal: 22/08/2025 11:06 PM -->
 
@@ -380,6 +390,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 yang mentadbir, menjalankan atau melaksanakan perolehan Kerajaan di bawah Akta ini;
 
+<!-- marginal: WJW25/0723 BM.indd 11 -->
+
 <!-- marginal: 22/08/2025 11:06 PM -->
 
 <!-- page 12 -->
@@ -436,6 +448,8 @@ untuk menjalankan kewajipan dan kuasa seorang pegawai pengawal di bawah Akta ini
 
 “pengarah” mempunyai erti yang diberikan kepadanya dalam subseksyen 2(1) Akta Syarikat Labuan 1990 atau subseksyen 2(1) Akta Syarikat 2016, mengikut mana-mana yang berkenaan;
 
+<!-- marginal: WJW25/0723 BM.indd 13 -->
+
 <!-- marginal: 22/08/2025 11:06 PM -->
 
 <!-- page 14 -->
@@ -462,6 +476,8 @@ untuk menjalankan kewajipan dan kuasa seorang pegawai pengawal di bawah Akta ini
 
 (iii) apa-apa kumpulan wang amanah yang ditubuhkan oleh Kerajaan Negeri yang dibayar daripada Kumpulan Wang Disatukan Negeri;
 
+<!-- marginal: WJW25/0723 BM.indd 14 -->
+
 <!-- marginal: 22/08/2025 11:06 PM -->
 
 <!-- page 15 -->
@@ -481,6 +497,8 @@ untuk menjalankan kewajipan dan kuasa seorang pegawai pengawal di bawah Akta ini
 “pihak berkuasa tempatan” ertinya—
 
 (a) mana-mana pihak berkuasa tempatan atau pihak berkuasa yang ditubuhkan atau disifatkan telah ditubuhkan di bawah Akta Kerajaan Tempatan 1976 [Akta 171], atau Ordinan Pihak Berkuasa Tempatan Sarawak 1996 [Sarawak Bab 20]
+
+<!-- marginal: WJW25/0723 BM.indd 15 -->
 
 <!-- marginal: 22/08/2025 11:06 PM -->
 
@@ -508,7 +526,7 @@ dan termasuklah mana-mana orang atau kumpulan orang yang dilantik atau diberi ku
 
 <!-- page 17 -->
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENTADBIRAN PEROLEHAN KERAJAAN
 
@@ -525,6 +543,8 @@ dan termasuklah mana-mana orang atau kumpulan orang yang dilantik atau diberi ku
 (4) Ketua Setiausaha Perbendaharaan hendaklah menjalankan usaha wajar dan mengadakan proses dan tatacara secukupnya bagi mengelakkan percanggahan kepentingan semasa menjalankan kuasanya, menunaikan kewajipannya dan melaksanakan fungsinya di bawah Akta ini dan mengikut apa-apa arahan atau pekeliling yang dikeluarkan di bawah Akta ini.
 
 (5) Ketua Setiausaha Perbendaharaan hendaklah menjalankan semua aktiviti dan membuat semua perkara yang perlu atau berfaedah dan patut bagi pentadbiran Akta ini, atau bagi apa-apa maksud lain yang selaras dengan Akta ini sebagaimana yang diarahkan oleh Menteri mengikut Akta ini.
+
+<!-- marginal: WJW25/0723 BM.indd 17 -->
 
 <!-- marginal: 22/08/2025 11:06 PM -->
 
@@ -547,6 +567,8 @@ dan termasuklah mana-mana orang atau kumpulan orang yang dilantik atau diberi ku
 (f) untuk menamai atau melantik pegawai perolehan dan menubuhkan jawatankuasa perolehan untuk membantu pegawai pengawal dalam melaksanakan apa-apa kewajipan dan penjalanan kuasanya di bawah Akta ini;
 
 (g) untuk menyatakan takat kewajipan dan kuasa yang diberikan atau dikenakan kepadanya di bawah Akta ini yang boleh dijalankan atau dilaksanakan bagi pihaknya oleh pegawai perolehan atau jawatankuasa perolehan, mengikut mana-mana yang berkenaan, mengikut Akta ini;
+
+<!-- marginal: WJW25/0723 BM.indd 18 -->
 
 <!-- marginal: 22/08/2025 11:07 PM -->
 
@@ -572,6 +594,8 @@ sebagai pegawai perolehan bagi maksud Akta ini.
 
 (2) Pegawai pengawal boleh menyatakan takat kewajipan dan kuasa yang diberikan atau dikenakan kepadanya di bawah Akta ini yang boleh dijalankan atau dilaksanakan bagi pihaknya oleh mana-mana pegawai perolehan yang dinamai atau dilantik itu dan memberikan apa-apa arahan sebagaimana yang perlu untuk memastikan penjalanan atau pelaksanaan kewajipan dan kuasa tersebut dengan sepatutnya.
 
+<!-- marginal: WJW25/0723 BM.indd 19 -->
+
 <!-- marginal: 22/08/2025 11:07 PM -->
 
 <!-- page 20 -->
@@ -596,7 +620,7 @@ sebagai pegawai perolehan bagi maksud Akta ini.
 
 <!-- page 21 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## KELULUSAN DALAM PEROLEHAN KERAJAAN
 
@@ -623,6 +647,8 @@ sebagai pegawai perolehan bagi maksud Akta ini.
 11. (1) Menteri atau, berhubung dengan sesuatu Negeri, Menteri Besar atau Ketua Menteri, mengikut mana-mana yang berkenaan, boleh, melalui pemberitahuan dalam Warta—
 
 (a) menubuhkan suatu lembaga perolehan bagi tiap-tiap Kementerian atau, kementerian atau jabatan sesuatu Negeri, mengikut mana-mana yang berkenaan; dan
+
+<!-- marginal: WJW25/0723 BM.indd 21 -->
 
 <!-- marginal: 22/08/2025 11:07 PM -->
 
@@ -676,6 +702,8 @@ sebagai pegawai perolehan bagi maksud Akta ini.
 
 (ii) ibu atau bapanya, termasuk ibu atau bapa suami atau isterinya;
 
+<!-- marginal: WJW25/0723 BM.indd 23 -->
+
 <!-- marginal: 22/08/2025 11:07 PM -->
 
 <!-- page 24 -->
@@ -722,13 +750,15 @@ untuk menimbang perolehan Kerajaan itu mengikut Akta ini dan mengemukakan suatu 
 
 (4) Apa-apa keputusan yang dibuat oleh Menteri atau, berhubung dengan sesuatu Negeri, Menteri Besar atau Ketua Menteri atau mana-mana pihak berkuasa lain sebagaimana yang ditentukan oleh Kerajaan Negeri, mengikut mana-mana yang berkenaan, adalah muktamad dan hendaklah dilaksanakan sewajarnya.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENDAFTARAN PEMBEKAL DAN KONTRAKTOR
 
 ### Pendaftar, timbalan pendaftar dan pegawai pendaftaran
 
 14. (1) Ketua Setiausaha Perbendaharaan hendaklah melantik seorang pegawai awam Perbendaharaan sebagai Pendaftar Perolehan Kerajaan yang hendaklah melaksanakan kewajipan yang dikenakan dan menjalankan kuasa yang diberikan kepadanya di bawah Akta ini bagi pentadbiran sepatutnya Akta ini.
+
+<!-- marginal: WJW25/0723 BM.indd 25 -->
 
 <!-- marginal: 22/08/2025 11:07 PM -->
 
@@ -786,6 +816,8 @@ untuk menimbang perolehan Kerajaan itu mengikut Akta ini dan mengemukakan suatu 
 
 (c) mencela orang berdaftar yang mungkir itu.
 
+<!-- marginal: WJW25/0723 BM.indd 27 -->
+
 <!-- marginal: 22/08/2025 11:07 PM -->
 
 <!-- page 28 -->
@@ -840,6 +872,8 @@ dan hendaklah mengeluarkan suatu sijil pendaftaran dalam bentuk sebagaimana yang
 
 (12) Pendaftar boleh pada bila-bila masa mengubah atau membatalkan syarat yang dikenakan kepada sesuatu pembaharuan pendaftaran di bawah subseksyen (11).
 
+<!-- marginal: WJW25/0723 BM.indd 29 -->
+
 <!-- marginal: 22/08/2025 11:07 PM -->
 
 <!-- page 30 -->
@@ -891,6 +925,8 @@ dan hendaklah mengeluarkan suatu sijil pendaftaran dalam bentuk sebagaimana yang
 (iii) telah dilantik baginya seorang penerima, penerima dan pengurus, atau orang yang setaraf dengannya di dalam atau di luar Malaysia, atau berkenaan dengan mana-mana harta pemohon itu; dan
 
 (iv) telah, sama ada di dalam atau di luar Malaysia, membuat suatu kompromi atau skim perkiraan dengan pemiutangnya, yang merupakan suatu kompromi atau skim perkiraan yang masih berkuat kuasa.
+
+<!-- marginal: WJW25/0723 BM.indd 31 -->
 
 <!-- marginal: 22/08/2025 11:07 PM -->
 
@@ -946,6 +982,8 @@ dan hendaklah mengeluarkan suatu sijil pendaftaran dalam bentuk sebagaimana yang
 
 (6) Jika suatu pendaftaran dibatalkan, semua fi yang telah dibayar tidak boleh dikembalikan.
 
+<!-- marginal: WJW25/0723 BM.indd 33 -->
+
 <!-- marginal: 22/08/2025 11:07 PM -->
 
 <!-- page 34 -->
@@ -998,6 +1036,8 @@ dan hendaklah mengeluarkan suatu sijil pendaftaran dalam bentuk sebagaimana yang
 
 (b) apa-apa maklumat berkenaan pemilik, pemegang syer, pengarah, pekongsi atau mana-mana orang yang dinamakan dalam suatu pendaftaran, termasuk apa-apa penzahiran kepentingan oleh orang berdaftar atau orang yang dinamakan dalam pendaftaran dalam mana-mana orang berdaftar lain;
 
+<!-- marginal: WJW25/0723 BM.indd 35 -->
+
 <!-- marginal: 22/08/2025 11:07 PM -->
 
 <!-- page 36 -->
@@ -1036,7 +1076,7 @@ dan hendaklah mengeluarkan suatu sijil pendaftaran dalam bentuk sebagaimana yang
 
 <!-- page 37 -->
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PENJALANAN PEROLEHAN
 
@@ -1055,6 +1095,8 @@ dan hendaklah mengeluarkan suatu sijil pendaftaran dalam bentuk sebagaimana yang
 ### Tatacara khusus semasa tempoh keterdesakan
 
 30. Menteri boleh menetapkan tatacara bagi apa-apa perolehan Kerajaan semasa tempoh keterdesakan yang menghendaki tindakan serta-merta demi kepentingan ketenteraman, kesihatan atau keselamatan awam.
+
+<!-- marginal: WJW25/0723 BM.indd 37 -->
 
 <!-- marginal: 22/08/2025 11:07 PM -->
 
@@ -1094,7 +1136,7 @@ dan hendaklah mengeluarkan suatu sijil pendaftaran dalam bentuk sebagaimana yang
 
 36. Menteri boleh menetapkan penggunaan apa-apa sistem berkomputer bagi pentadbiran dan penjalanan perolehan Kerajaan di bawah Akta ini.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## INTEGRITI DAN PELAPORAN
 
@@ -1107,6 +1149,8 @@ dan hendaklah mengeluarkan suatu sijil pendaftaran dalam bentuk sebagaimana yang
 (a) apa-apa kepentingan secara langsung atau tidak langsung dengan sendirinya, anggota keluarganya atau sekutunya berhubungan dengan mana-mana orang berdaftar yang lain atau orang yang memohon suatu pendaftaran di bawah seksyen 18; dan
 
 (b) pemunya benefisial kepada mana-mana orang yang membuat suatu permohonan atau mana-mana orang berdaftar tersebut, mengikut mana-mana yang berkenaan.
+
+<!-- marginal: WJW25/0723 BM.indd 39 -->
 
 <!-- marginal: 22/08/2025 11:07 PM -->
 
@@ -1168,6 +1212,8 @@ dan hendaklah mengeluarkan suatu sijil pendaftaran dalam bentuk sebagaimana yang
 
 38. (1) Tiada seorang pun boleh, secara langsung atau tidak langsung, campur tangan dalam atau, secara intimidasi, pengaruh
 
+<!-- marginal: WJW25/0723 BM.indd 41 -->
+
 <!-- marginal: 22/08/2025 11:07 PM -->
 
 <!-- page 42 -->
@@ -1182,7 +1228,7 @@ tidak wajar atau dengan apa-apa cara lain mengganggu, suatu perolehan aktif yang
 
 (b) “surat setuju terima” ertinya suatu surat rasmi yang dikeluarkan oleh entiti perolehan yang memaklumkan penyetujuterimaan tanpa syarat oleh Kerajaan ke atas tawaran yang dikemukakan oleh orang berdaftar yang berjaya.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PEMANTAUAN PEMATUHAN
 
@@ -1222,6 +1268,8 @@ tidak wajar atau dengan apa-apa cara lain mengganggu, suatu perolehan aktif yang
 
 (b) untuk melaksanakan dan mentadbir tatacara aduan yang ditetapkan dan mengkaji semula mana-mana aduan terhadap entiti perolehan di bawah bidang kuasanya;
 
+<!-- marginal: WJW25/0723 BM.indd 43 -->
+
 <!-- marginal: 22/08/2025 11:07 PM -->
 
 <!-- page 44 -->
@@ -1256,6 +1304,8 @@ tidak wajar atau dengan apa-apa cara lain mengganggu, suatu perolehan aktif yang
 
 (b) dalam hal suatu perlanggaran Akta ini, Perbendaharaan atau pihak berkuasa kewangan Negeri, mengikut mana-mana yang berkenaan, boleh menyiasat kesalahan-kesalahan dan mengambil tindakan mengikut Akta ini.
 
+<!-- marginal: WJW25/0723 BM.indd 45 -->
+
 <!-- marginal: 22/08/2025 11:07 PM -->
 
 <!-- page 46 -->
@@ -1266,7 +1316,7 @@ tidak wajar atau dengan apa-apa cara lain mengganggu, suatu perolehan aktif yang
 
 (2) Bagi maksud subseksyen (1), adalah mencukupi bagi seorang pegawai perolehan untuk melaporkan secara bertulis kepada pegawai pengawalnya.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## PENYIASATAN DAN PENGUATKUASAAN
 
@@ -1306,6 +1356,8 @@ pelakuan suatu kesalahan berhubung dengan mana-mana perolehan Kerajaan di bawah 
 
 (c) mengambil sampel apa-apa bahan atau benda yang merupakan hal perkara perolehan Kerajaan yang sedang disiasat.
 
+<!-- marginal: WJW25/0723 BM.indd 47 -->
+
 <!-- marginal: 22/08/2025 11:07 PM -->
 
 <!-- page 48 -->
@@ -1344,6 +1396,8 @@ penyiasatan akan terjejas atau keterangan mengenai pelakuan sesuatu kesalahan mu
 
 51. (1) Kecuali sebagaimana yang diperuntukkan dalam subseksyen (2), jika apa-apa rekod, buku, akaun, dokumen, data berkomputer atau benda lain atau apa-apa bahan atau benda yang merupakan hal perkara perolehan Kerajaan yang sedang disiasat disita di bawah Bahagian ini, pegawai diberi kuasa yang melakukan penyitaan itu hendaklah dengan secepat yang dapat
 
+<!-- marginal: WJW25/0723 BM.indd 49 -->
+
 <!-- marginal: 22/08/2025 11:07 PM -->
 
 <!-- page 50 -->
@@ -1369,6 +1423,8 @@ dilaksanakan menyediakan senarai rekod, buku, akaun, dokumen, data berkomputer a
 (2) Suatu perintah bagi pelucuthakan atau bagi pelepasan apa-apa rekod, buku, akaun, dokumen, data berkomputer atau benda lain atau apa-apa bahan atau benda yang merupakan hal perkara perolehan Kerajaan yang sedang disiasat yang disita hendaklah dibuat jika dibuktikan sehingga memuaskan hati mahkamah bahawa suatu kesalahan di bawah Akta ini telah dilakukan dan bahawa rekod, buku, akaun, dokumen, data berkomputer atau benda lain atau apa-apa bahan atau benda yang merupakan hal perkara perolehan Kerajaan yang sedang disiasat yang disita itu adalah hal perkara atau telah digunakan dalam pelakuan kesalahan itu, walaupun tiada seorang pun telah disabitkan atas kesalahan itu.
 
 (3) Jika tiada pendakwaan berkenaan dengan apa-apa rekod, buku, akaun, dokumen, data berkomputer atau benda lain atau apa-apa bahan atau benda yang merupakan hal perkara perolehan Kerajaan yang sedang disiasat yang disita di bawah Akta ini, rekod, buku, akaun, dokumen, data berkomputer atau benda lain atau apa-apa bahan atau benda yang merupakan hal perkara perolehan Kerajaan yang sedang disiasat itu hendaklah dikira dan disifatkan terlucut hak apabila habis tempoh satu bulan kalendar dari tarikh penyampaian notis kepada alamat terakhir orang yang daripadanya rekod, buku, akaun, dokumen, data berkomputer atau benda lain atau apa-apa bahan atau benda yang merupakan hal perkara perolehan Kerajaan yang sedang disiasat itu yang telah disita yang menyatakan bahawa tidak ada pendakwaan berkenaan dengan rekod, buku, akaun, dokumen, data berkomputer atau
+
+<!-- marginal: WJW25/0723 BM.indd 51 -->
 
 <!-- marginal: 22/08/2025 11:07 PM -->
 
@@ -1408,6 +1464,8 @@ yang merupakan hal perkara perolehan Kerajaan yang sedang disiasat itu dilucutha
 
 56. (1) Seorang pegawai diberi kuasa yang membuat suatu penyiasatan di bawah Akta ini boleh, melalui arahan secara bertulis, menghendaki mana-mana orang yang pada pendapat pegawai diberi kuasa itu mempunyai pengetahuan tentang fakta dan hal keadaan kes itu supaya hadir di hadapannya, dan orang itu hendaklah hadir sebagaimana yang dikehendaki.
 
+<!-- marginal: WJW25/0723 BM.indd 53 -->
+
 <!-- marginal: 22/08/2025 11:07 PM -->
 
 <!-- page 54 -->
@@ -1445,6 +1503,8 @@ yang merupakan hal perkara perolehan Kerajaan yang sedang disiasat itu dilucutha
 (b) dalam hal suatu pernyataan yang dibuat oleh orang itu selepas penangkapannya, melainkan jika mahkamah berpuas hati bahawa dia telah diberi amaran dengan perkataan seperti yang berikut atau perkataan yang mempunyai maksud yang sama:
 
 “Adalah menjadi kewajipan saya untuk memberikan amaran kepada kamu bahawa kamu tidak diwajibkan untuk menyatakan apa-apa atau menjawab apa-apa soalan, tetapi apa-apa yang kamu nyatakan, sama ada sebagai jawapan kepada suatu soalan atau tidak, boleh diberikan sebagai keterangan.”.
+
+<!-- marginal: WJW25/0723 BM.indd 55 -->
 
 <!-- marginal: 22/08/2025 11:07 PM -->
 
@@ -1488,13 +1548,15 @@ melakukan suatu kesalahan.
 
 apa-apa rekod, buku, akaun, dokumen, data berkomputer atau benda lain atau apa-apa bahan atau benda yang merupakan hal perkara perolehan Kerajaan yang sedang disiasat yang disimpan atau disenggarakan dengan niat untuk memfraud Perbendaharaan atau pihak berkuasa kewangan Negeri, mengikut mana-mana yang berkenaan, Pendaftar atau mana-mana entiti perolehan, atau untuk menyekat, melengahkan atau menggalang penjalanan suatu penyiasatan atau penjalanan apa-apa kuasa oleh Perbendaharaan atau pihak berkuasa kewangan Negeri, mengikut mana-mana yang berkenaan, atau Pendaftar di bawah Akta ini melakukan suatu kesalahan.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## ADUAN, BANTAHAN DAN KAJIAN SEMULA
 
 ### Pentadbiran aduan, bantahan dan kajian semula
 
 61. (1) Mana-mana orang yang tidak berpuas hati dengan mana-mana perolehan Kerajaan secara am boleh mengemukakan aduan kepada entiti perolehan.
+
+<!-- marginal: WJW25/0723 BM.indd 57 -->
 
 <!-- marginal: 22/08/2025 11:07 PM -->
 
@@ -1526,7 +1588,7 @@ apa-apa rekod, buku, akaun, dokumen, data berkomputer atau benda lain atau apa-a
 
 <!-- page 59 -->
 
-## Bahagian X
+## BAHAGIAN X
 
 ## TRIBUNAL RAYUAN PEROLEHAN KERAJAAN
 
@@ -1555,6 +1617,8 @@ apa-apa rekod, buku, akaun, dokumen, data berkomputer atau benda lain atau apa-a
 (a) dia telah disabitkan atas suatu kesalahan, di bawah mana-mana undang-undang, oleh suatu mahkamah di Malaysia;
 
 (b) dia merupakan salah seorang dalam dapatan pelanggaran suatu larangan yang telah ditentukan oleh Suruhanjaya Persaingan di bawah Akta Persaingan 2010;
+
+<!-- marginal: WJW25/0723 BM.indd 59 -->
 
 <!-- marginal: 22/08/2025 11:07 PM -->
 
@@ -1618,6 +1682,8 @@ apa-apa rekod, buku, akaun, dokumen, data berkomputer atau benda lain atau apa-a
 
 (c) pelantikannya dibatalkan di bawah subseksyen 64(2).
 
+<!-- marginal: WJW25/0723 BM.indd 61 -->
+
 <!-- marginal: 22/08/2025 11:07 PM -->
 
 <!-- page 62 -->
@@ -1672,6 +1738,8 @@ apa-apa rekod, buku, akaun, dokumen, data berkomputer atau benda lain atau apa-a
 
 (3) Notis rayuan itu hendaklah menyatakan secara ringkas kandungan keputusan panel kajian semula yang dirayukan, mengandungi suatu alamat di mana apa-apa notis atau dokumen
 
+<!-- marginal: WJW25/0723 BM.indd 63 -->
+
 <!-- marginal: 22/08/2025 11:07 PM -->
 
 <!-- page 64 -->
@@ -1716,6 +1784,8 @@ yang berkaitan dengan rayuan itu boleh disampaikan kepada perayu itu atau ke ata
 
 (2) Jika perenggan (1)(a) terpakai, isu yang dipertikaikan dalam tuntutan yang prosiding itu berkaitan, sama ada sebagaimana yang ditunjukkan dalam tuntutan yang mula-mula atau yang timbul semasa perjalanan pendengaran itu, tidak boleh menjadi hal prosiding antara pihak yang sama di hadapan Tribunal Rayuan melainkan jika tuntutan di hadapan mahkamah telah ditarik balik, ditinggalkan atau dibatalkan.
 
+<!-- marginal: WJW25/0723 BM.indd 65 -->
+
 <!-- marginal: 22/08/2025 11:07 PM -->
 
 <!-- page 66 -->
@@ -1740,6 +1810,8 @@ yang berkaitan dengan rayuan itu boleh disampaikan kepada perayu itu atau ke ata
 
 (h) untuk secara amnya mengarahkan dan melakukan segala perkara yang perlu atau suai manfaat bagi mempercepat keputusan rayuan.
 
+<!-- marginal: WJW25/0723 BM.indd 66 -->
+
 <!-- marginal: 22/08/2025 11:07 PM -->
 
 <!-- page 67 -->
@@ -1763,6 +1835,8 @@ yang berkaitan dengan rayuan itu boleh disampaikan kepada perayu itu atau ke ata
 (b) jika suatu pihak kepada perkara itu membantah mengenai percanggahan itu, anggota Tribunal Rayuan itu tidak boleh terus melaksanakan kewajipannya sebagai anggota Tribunal Rayuan berhubung dengan perkara itu.
 
 (3) Dalam hal seseorang Pengerusi Tribunal Rayuan, Menteri hendaklah mempertimbangkan perkara itu dan jika Menteri berpendapat bahawa ada percanggahan kepentingan dengan kewajipannya sebagai Pengerusi Tribunal Rayuan, Menteri boleh melantik mana-mana Timbalan Pengerusi sebagai Pengerusi ganti mengikut seksyen 63.
+
+<!-- marginal: WJW25/0723 BM.indd 67 -->
 
 <!-- marginal: 22/08/2025 11:07 PM -->
 
@@ -1820,6 +1894,8 @@ yang berkaitan dengan rayuan itu boleh disampaikan kepada perayu itu atau ke ata
 
 (d) seseorang yang diberi kuasa untuk bertindak bagi dan bagi pihak Tribunal Rayuan,
 
+<!-- marginal: WJW25/0723 BM.indd 69 -->
+
 <!-- marginal: 22/08/2025 11:07 PM -->
 
 <!-- page 70 -->
@@ -1866,6 +1942,8 @@ bagi apa-apa perbuatan atau peninggalan yang dilakukan dengan suci hati dalam pe
 
 (8) Keputusan Tribunal Rayuan hendaklah secara bertulis dan disiarkan dalam bentuk dan cara yang ditetapkan.
 
+<!-- marginal: WJW25/0723 BM.indd 71 -->
+
 <!-- marginal: 22/08/2025 11:07 PM -->
 
 <!-- page 72 -->
@@ -1874,7 +1952,7 @@ bagi apa-apa perbuatan atau peninggalan yang dilakukan dengan suci hati dalam pe
 
 81. Suatu keputusan yang diberikan oleh Tribunal Rayuan boleh, dengan kebenaran Mahkamah Tinggi, dikuatkuasakan mengikut cara yang sama seperti penghakiman atau perintah Mahkamah Tinggi.
 
-## Bahagian XI
+## BAHAGIAN XI
 
 ## TINDAKAN PENTADBIRAN DAN PENDAKWAAN
 
@@ -1920,6 +1998,8 @@ orang itu boleh dikenakan hukuman atau penalti yang sama bagi tiap-tiap perbuata
 
 85. (1) Ketua Setiausaha Perbendaharaan, Pendaftar atau pihak berkuasa kewangan Negeri, mengikut mana-mana yang berkenaan, boleh mengenakan penalti pentadbiran terhadap mana-mana orang
 
+<!-- marginal: WJW25/0723 BM.indd 73 -->
+
 <!-- marginal: 22/08/2025 11:07 PM -->
 
 <!-- page 74 -->
@@ -1960,6 +2040,8 @@ bagi ketidakpatuhan kepada apa-apa arahan, pekeliling atau garis panduan yang di
 
 (4) Jik a suatu k esalahan telah diko mpaun di b aw ah subseksyen (2), tiada pendakwaan boleh dimulakan berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk mengkompaun itu dibuat, dan apa-apa rekod, buku, akaun,
 
+<!-- marginal: WJW25/0723 BM.indd 75 -->
+
 <!-- marginal: 22/08/2025 11:07 PM -->
 
 <!-- page 76 -->
@@ -1974,7 +2056,7 @@ dokumen, data berkomputer atau benda lain atau apa-apa bahan atau benda yang mer
 
 (b) dalam hal suatu syarikat, perkongsian, koperasi atau badan profesional, dengan denda tidak melebihi lima ratus ribu ringgit.
 
-## Bahagian XII
+## BAHAGIAN XII
 
 AM
 
@@ -2014,6 +2096,8 @@ AM
 
 (v) bentuk dan cara penzahiran kepentingan di bawah subseksyen 37(2); dan
 
+<!-- marginal: WJW25/0723 BM.indd 77 -->
+
 <!-- marginal: 22/08/2025 11:07 PM -->
 
 <!-- page 78 -->
@@ -2046,6 +2130,8 @@ AM
 
 (iv) fi dan caj;
 
+<!-- marginal: WJW25/0723 BM.indd 78 -->
+
 <!-- marginal: 22/08/2025 11:07 PM -->
 
 <!-- page 79 -->
@@ -2075,6 +2161,8 @@ AM
 ### Arahan dan pekeliling oleh Ketua Setiausaha Perbendaharaan
 
 91. Ketua Setiausaha Perbendaharaan boleh mengeluarkan apa-apa arahan atau pekeliling sebagaimana yang perlu atau suai manfaat bagi memberikan kuat kuasa penuh kepada peruntukan Akta ini, untuk menjalankan atau mencapai matlamat dan maksud Akta ini, atau mana-mana peruntukannya, atau untuk melaksanakan peruntukan Akta ini selanjutnya, dengan lebih baik atau lebih mudah.
+
+<!-- marginal: WJW25/0723 BM.indd 79 -->
 
 <!-- marginal: 22/08/2025 11:07 PM -->
 
@@ -2112,11 +2200,13 @@ diuruskan di bawah arahan dan pekeliling yang berkaitan yang dikeluarkan oleh Pe
 
 (8) Mana-mana pengecualian yang diberikan oleh Perbendaharaan menurut mana-mana arahan atau pekeliling yang dikeluarkan oleh Perbendaharaan di bawah Akta Tatacara Kewangan 1957 mengenai perkara yang berhubungan dengan perolehan Kerajaan sebelum tarikh permulaan kuat kuasa Akta ini hendaklah, pada tarikh permulaan kuat kuasa Akta ini, disifatkan telah dibatalkan.
 
+<!-- marginal: WJW25/0723 BM.indd 81 -->
+
 <!-- marginal: 22/08/2025 11:07 PM -->
 
 <!-- page 82 -->
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
 [Seksyen 10]
 
@@ -2136,17 +2226,35 @@ perkhidmatan
 
 4. Pegawai pengawal Di bawah RM50,000 Di bawah RM50,000 nilai suatu kontrak perolehan atau jumlah nilai bagi setahun
 
+<!-- marginal: WJW25/0723 BM.indd 82 -->
+
 <!-- marginal: 22/08/2025 11:07 PM -->
 
 <!-- page 83 -->
 
-## Jadual Kedua
+## JADUAL KEDUA
 
 [Seksyen 11]
 
 ## AHLI LEMBAGA PEROLEHAN
 
-Bil. Entiti perolehan Ahli lembaga perolehan 1. Kementerian/Kementerian (1) Pegawai pengawal atau mana-mana atau jabatan sesuatu pegawai awam yang diberi kuasa oleh Negeri pegawai pengawal untuk bertindak bagi pihaknya, yang hendaklah menjadi pengerusi;
+<!-- marginal: Bil. -->
+
+<!-- marginal: Entiti perolehan -->
+
+Ahli lembaga perolehan
+
+1. Kementerian/Kementerian
+
+(1) Pegawai pengawal atau mana-mana
+
+<!-- marginal: atau jabatan sesuatu -->
+
+pegawai awam yang diberi kuasa oleh
+
+<!-- marginal: Negeri -->
+
+pegawai pengawal untuk bertindak bagi pihaknya, yang hendaklah menjadi pengerusi;
 
 (2) Ketua Setiausaha Perbendaharaan atau mana-mana pegawai awam Perbendaharaan yang dinamakan oleh Ketua Setiausaha Perbendaharaan atau, berhubung dengan sesuatu Negeri, pihak berkuasa kewangan Negeri atau mana-mana pegawai awam yang dinamakan oleh pihak berkuasa kewangan Negeri;
 
@@ -2154,7 +2262,9 @@ Bil. Entiti perolehan Ahli lembaga perolehan 1. Kementerian/Kementerian (1) Pega
 
 (4) Tertakluk kepada kelulusan Menteri atau, Menteri Besar atau Ketua Menteri, mengikut mana-mana yang berkenaan, ahli tambahan daripada Kementerian atau kementerian atau jabatan sesuatu Negeri, mengikut mana-mana yang berkenaan.
 
-2. Kementerian Kewangan (1) Ketua Setiausaha Perbendaharaan atau mana-mana pegawai awam Perbendaharaan yang dinamakan oleh Ketua Setiausaha Perbendaharaan untuk bertindak bagi pihaknya, yang hendaklah menjadi pengerusi;
+2. Kementerian Kewangan
+
+(1) Ketua Setiausaha Perbendaharaan atau mana-mana pegawai awam Perbendaharaan yang dinamakan oleh Ketua Setiausaha Perbendaharaan untuk bertindak bagi pihaknya, yang hendaklah menjadi pengerusi;
 
 (2) Setiausaha Bahagian Perolehan Kerajaan Kementerian Kewangan atau wakilnya;
 
@@ -2162,7 +2272,7 @@ Bil. Entiti perolehan Ahli lembaga perolehan 1. Kementerian/Kementerian (1) Pega
 
 (4) Ketua Pengarah Jabatan Kerja Raya atau wakilnya.
 
-<!-- marginal: 22/08/2025 11:07 PM -->
+<!-- marginal: WJW25/0723 BM.indd 83 -->
 
 <!-- page 84 -->
 
@@ -2178,7 +2288,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 (d) Pelaksanaan maksimum kaedah perolehan terbuka dan berdaya saing di samping memastikan akses yang adil dan saksama kepada perolehan Kerajaan.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan memperkatakan perkara permulaan.
 
@@ -2198,7 +2308,7 @@ perkhidmatan yang berkaitan dengan penjualan, penebusan dan pengagihan hutang aw
 
 7. Fasal 5 mengandungi takrif perkataan dan ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 8. Bahagian II Akta yang dicadangkan bertujuan untuk mengadakan peruntukan bagi pentadbiran perolehan Kerajaan.
 
@@ -2210,11 +2320,13 @@ perkhidmatan yang berkaitan dengan penjualan, penebusan dan pengagihan hutang aw
 
 12. Fasal 9 bertujuan untuk mengadakan peruntukan bagi pentadbiran perolehan Kerajaan oleh entiti perolehan selain Kementerian atau kementerian atau jabatan sesuatu Negeri. Suatu entiti perolehan di bawah fasal ini merujuk kepada badan berkanun Kerajaan Persekutuan atau Kerajaan Negeri, entiti Kerajaan Persekutuan, entiti Kerajaan Negeri, pihak berkuasa tempatan bagi Wilayah Persekutuan Kuala Lumpur, Labuan dan Putrajaya dan pihak berkuasa tempatan dalam sesuatu Negeri yang mentadbir, menjalankan atau melaksanakan perolehan Kerajaan. Fasal ini juga bertujuan untuk memberi Menteri kuasa untuk menetapkan tatacara perolehan yang hendaklah dipatuhi oleh entiti perolehan sedemikian dalam pentadbiran perolehan Kerajaan di bawah bidang kuasanya.
 
+<!-- marginal: WJW25/0723 BM.indd 85 -->
+
 <!-- marginal: 22/08/2025 11:07 PM -->
 
 <!-- page 86 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 13. Bahagian III Akta yang dicadangkan bertujuan untuk memperuntukkan bagi kelulusan dalam perolehan Kerajaan.
 
@@ -2228,7 +2340,7 @@ Subfasal 10(4) selanjutnya bertujuan untuk memberi Menteri kuasa untuk menetapka
 
 17. Fasal 13 bertujuan untuk memberi Menteri atau, berhubung dengan sesuatu Negeri, Menteri Besar atau Ketua Menteri atau mana-mana pihak berkuasa lain sebagaimana yang ditentukan oleh Kerajaan Negeri, mengikut mana-mana yang berkenaan, kuasa untuk membuat keputusan bagi perolehan Kerajaan mengikut nilai ambang kelulusan mereka yang dinyatakan dalam Jadual Pertama atau perolehan Kerajaan yang dirujuk kepada mereka oleh lembaga perolehan di bawah subfasal 12(8).
 
-## Bahagian IV
+## BAHAGIAN IV
 
 18. Bahagian IV bertujuan untuk mengadakan peruntukan bagi pendaftaran pembekal dan kontraktor.
 
@@ -2260,6 +2372,8 @@ Subfasal 18(13) bertujuan untuk mengenakan terhadap orang berdaftar obligasi unt
 
 26. Fasal 21 bertujuan untuk mengadakan peruntukan bagi penggantungan dan pembatalan pendaftaran. Pendaftar boleh menggantung suatu pendaftaran atas pelanggaran mana-mana peruntukan Akta yang dicadangkan, ketidakpatuhan
 
+<!-- marginal: WJW25/0723 BM.indd 87 -->
+
 <!-- marginal: 22/08/2025 11:07 PM -->
 
 <!-- page 88 -->
@@ -2280,7 +2394,7 @@ Subfasal 21(3) bertujuan untuk mengadakan peruntukan bagi alasan untuk membatalk
 
 32. Fasal 27 bertujuan untuk melarang seseorang daripada mendaftar dalam kod bidang yang sama, melainkan dengan kebenaran Pendaftar. Dalam fasal ini, “kod bidang” ertinya kategori pembekalan barangan dan perkhidmatan sebagaimana yang ditentukan dalam garis panduan yang dikeluarkan oleh Pendaftar.
 
-## Bahagian V
+## BAHAGIAN V
 
 33. Bahagian V Akta yang dicadangkan bertujuan untuk mengadakan peruntukan bagi penjalanan perolehan.
 
@@ -2306,11 +2420,13 @@ Subfasal 28(2) bertujuan untuk memberi Menteri kuasa untuk menetapkan kaedah per
 
 41. Fasal 36 bertujuan untuk memberi Menteri kuasa untuk menetapkan penggunaan sistem berkomputer bagi pentadbiran dan penjalanan perolehan Kerajaan.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 42. Bahagian VI Akta yang dicadangkan memperkatakan tentang integriti dan pelaporan.
 
 43. Fasal 37 bertujuan untuk mengenakan kewajipan membuat penzahiran ke atas mana-mana orang yang terlibat dalam perolehan Kerajaan.
+
+<!-- marginal: WJW25/0723 BM.indd 89 -->
 
 <!-- marginal: 22/08/2025 11:07 PM -->
 
@@ -2326,7 +2442,7 @@ Pelanggaran fasal ini adalah suatu kesalahan yang boleh dikenakan hukuman denda 
 
 44. Fasal 38 bertujuan untuk melarang apa-apa campur tangan atau gangguan oleh mana-mana orang dalam mana-mana perolehan aktif, yang boleh menjejaskan proses perolehan. Dalam fasal ini, “perolehan aktif” ertinya suatu tempoh dari tarikh kelulusan untuk memulakan perolehan Kerajaan diberikan oleh pegawai pengawal sehingga tarikh surat setuju terima telah ditandatangani oleh pihak-pihak. Pelanggaran fasal ini adalah suatu kesalahan yang boleh dikenakan hukuman denda tidak melebihi lima ratus ribu ringgit atau penjara selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 45. Bahagian VII Akta yang dicadangkan memperkatakan tentang pematuhan pemantauan pematuhan.
 
@@ -2350,7 +2466,7 @@ Fasal 43(2) bertujuan untuk memberi Ketua Setiausaha Perbendaharaan atau pihak b
 
 51. Fasal 44 bertujuan untuk mengenakan obligasi untuk melaporkan kepada agensi penguatkuasaan yang berkaitan apa-apa pelakuan kesalahan yang berhubungan dengan rasuah, persaingan atau apa-apa kesalahan lain di bawah mana-mana undang-undang bertulis sebagaimana yang ditentukan oleh Ketua Setiausaha Perbendaharaan.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 52. Bahagian VIII Akta yang dicadangkan memperkatakan tentang penyiasatan dan penguatkuasaan.
 
@@ -2359,6 +2475,8 @@ Fasal 43(2) bertujuan untuk memberi Ketua Setiausaha Perbendaharaan atau pihak b
 54. Fasal 47 bertujuan untuk mengadakan peruntukan bagi kuasa pegawai diberi kuasa untuk memasuki premis di bawah penyiasatan bagi suatu kesalahan di bawah Akta yang dicadangkan dan menjalankan suatu penggeledahan dan penyitaan dengan waran yang dikeluarkan oleh seorang Majistret. Fasal ini juga memberi kuasa kepada pegawai diberi kuasa untuk menggeledah dan menyita apa-apa rekod, buku, akaun, dokumen, data berkomputer atau benda lain atau apa-apa bahan atau benda yang merupakan hal perkara perolehan Kerajaan yang sedang disiasat.
 
 55. Fasal 48 bertujuan untuk mengadakan peruntukan bagi kuasa pegawai diberi kuasa untuk menjalankan penggeledahan dan penyitaan tanpa waran jika dia mempunyai sebab yang munasabah untuk mempercayai bahawa oleh sebab kelengahan dalam memperoleh suatu waran geledah akan menjejaskan penyiasatan atau keterangan mengenai suatu kesalahan mungkin diganggu, dipindahkan, dirosakkan atau dimusnahkan.
+
+<!-- marginal: WJW25/0723 BM.indd 91 -->
 
 <!-- marginal: 22/08/2025 11:07 PM -->
 
@@ -2394,7 +2512,7 @@ fasal 88 (Penalti am), yang memperuntukkan denda yang tidak melebihi satu ratus 
 
 67. Fasal 60 bertujuan untuk mengadakan peruntukan bagi kesalahan dan penalti berhubung dengan mana-mana pemusnahan, penyembunyian, pencacatan atau pengubahan rekod dengan niat untuk memfraud Perbendaharaan atau pihak berkuasa kewangan Negeri, Pendaftar atau mana-mana entiti perolehan, atau menghalang suatu penyiasatan di bawah Akta yang dicadangkan.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 68. Bahagian IX Akta yang dicadangkan memperkatakan tentang aduan, bantahan dan kajian semula.
 
@@ -2404,13 +2522,15 @@ Subfasal 61(6) bertujuan untuk memberi Menteri kuasa utuk menetapkan perkara yan
 
 70. Fasal 62 bertujuan untuk mengadakan peruntukan bagi penubuhan suatu panel kajian semula oleh pegawai pengawal bagi maksud mengkaji semula bantahan yang berhubungan dengan pentadbiran dan penjalanan perolehan Kerajaan oleh entiti perolehan di bawah bidang kuasa pegawai pengawal itu.
 
-## Bahagian X
+## BAHAGIAN X
 
 71. Bahagian X Akta yang dicadangkan bertujuan untuk mengadakan peruntukan bagi Tribunal Rayuan Perolehan Kerajaan.
 
 72. Fasal 63 bertujuan untuk mengadakan peruntukan bagi penubuhan dan keanggotaan Tribunal Rayuan Perolehan Kerajaan (“Tribunal Rayuan”).
 
 Subfasal 63(2) memperkatakan tentang keanggotaan Tribunal Rayuan. Tribunal Rayuan hendaklah dipengerusikan oleh seorang pegawai daripada Perkhidmatan Kehakiman dan Perundangan dengan tidak kurang daripada sepuluh tahun pengalaman dalam perkhidmatan tersebut. Anggota lain Tribunal Rayuan hendaklah tidak lebih daripada dua Timbalan Pengerusi yang hendaklah juga merupakan pegawai daripada Perkhidmatan Kehakiman dan Perundangan dengan tidak kurang daripada sepuluh tahun pengalaman, dan tidak kurang daripada lima anggota yang hendaklah merupakan orang yang mempunyai integriti dan reputasi yang amat baik dengan pengalaman dalam bidang undang- undang, kewangan atau perolehan, kejuruteraan, ekonomi atau perdagangan atau pentadbiran awam.
+
+<!-- marginal: WJW25/0723 BM.indd 93 -->
 
 <!-- marginal: 22/08/2025 11:07 PM -->
 
@@ -2458,6 +2578,8 @@ Subfasal 64(2) bertujuan untuk mengadakan peruntukan bagi alasan pembatalan pela
 
 88. Fasal 79 bertujuan untuk memperuntukkan bahawa prosiding Tribunal Rayuan hendaklah terbuka kepada orang awam, tetapi Pengerusi boleh, atas permohonan, mengadakan sesi secara tertutup atau memerintahkan bahawa mana-mana atau semua peringkat prosiding dibuat secara tertutup setelah berpuas hati bahawa ia bertentangan dengan kepentingan awam untuk mengadakan prosiding terbuka.
 
+<!-- marginal: WJW25/0723 BM.indd 95 -->
+
 <!-- marginal: 22/08/2025 11:07 PM -->
 
 <!-- page 96 -->
@@ -2472,7 +2594,7 @@ Subfasal 80(5) memperkatakan tentang kesan keputusan Tribunal Rayuan untuk menge
 
 90. Fasal 81 bertujuan untuk memperuntukkan bahawa keputusan Tribunal Rayuan boleh, dengan kebenaran Mahkamah Tinggi, dikuatkuasakan mengikut cara yang sama seperti penghakiman atau perintah Mahkamah Tinggi.
 
-## Bahagian XI
+## BAHAGIAN XI
 
 91. Bahagian XI Akta yang dicadangkan bertujuan untuk mengadakan peruntukan bagi tindakan pentadbiran dan pendakwaan.
 
@@ -2496,7 +2618,7 @@ Subfasal 85(3) bertujuan untuk memberi Ketua Setiausaha Perbendaharaan, Pendafta
 
 97. Fasal 88 bertujuan untuk mengadakan peruntukan penalti am bagi pelanggaran apa-apa peruntukan Akta yang dicadangkan
 
-## Bahagian XII
+## BAHAGIAN XII
 
 98. Bahagian XII memperkatakan tentang peruntukan am.
 
@@ -2515,5 +2637,7 @@ Subfasal 85(3) bertujuan untuk memberi Ketua Setiausaha Perbendaharaan, Pendafta
 Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini.
 
 <!-- marginal: [PN(U2)3427] -->
+
+<!-- marginal: WJW25/0723 BM.indd 97 -->
 
 <!-- marginal: 22/08/2025 11:07 PM -->

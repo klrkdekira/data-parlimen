@@ -8,23 +8,33 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran 3. Pemakaian 4. Akta hendaklah dibaca bersama-sama undang-undang lain 5. Mahkamah kompeten 6. Pemegang jawatan insolvensi Malaysia diberi kuasa untuk bertindak di Negara asing 7. Kekecualian dasar awam 8. Bantuan tambahan di bawah undang-undang bertulis lain
 
-## Bahagian II
+## BAHAGIAN II
 
 ## AKSES WAKIL ASING DAN PEMIUTANG ASING KEPADA
 
 ## MAHKAMAH DI MALAYSIA
 
-9. Hak akses langsung 10. Bidang kuasa terhad 11. Permohonan oleh wakil asing untuk memulakan prosiding di bawah undang-undang insolvensi Malaysia 12. Penyertaan wakil asing dalam prosiding di bawah undang-undang insolvensi Malaysia 13. Akses pemiutang asing kepada prosiding di bawah undang-undang insolvensi Malaysia 14. Pemberitahuan kepada pemiutang asing mengenai prosiding di bawah undang-undang insolvensi Malaysia
+9. Hak akses langsung
+
+10. Bidang kuasa terhad
+
+11. Permohonan oleh wakil asing untuk memulakan prosiding di bawah undang-undang insolvensi Malaysia
+
+12. Penyertaan wakil asing dalam prosiding di bawah undang-undang insolvensi Malaysia
+
+13. Akses pemiutang asing kepada prosiding di bawah undang-undang insolvensi Malaysia
+
+14. Pemberitahuan kepada pemiutang asing mengenai prosiding di bawah undang-undang insolvensi Malaysia
 
 <!-- page 2 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PENGIKTIRAFAN PROSIDING ASING DAN RELIEF
 
@@ -48,7 +58,7 @@
 
 24. Pencelahan oleh wakil asing dalam prosiding di Malaysia
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## KERJASAMA DENGAN MAHKAMAH ASING DAN WAKIL ASING
 
@@ -58,7 +68,7 @@
 
 27. Bentuk kerjasama
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PROSIDING SERENTAK
 
@@ -74,11 +84,11 @@
 
 <!-- page 3 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 AM 33. Kuasa untuk membuat peraturan-peraturan 34. Kuasa untuk meminda Jadual 35. Kecualian
 
-## Jadual
+## JADUAL
 
 <!-- page 5 -->
 
@@ -104,7 +114,7 @@ DAN BAHAWASANYA adalah juga suai manfaat untuk mengadakan peruntukan bagi mewuju
 
 MAKA, OLEH YANG DEMIKIAN, DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -166,9 +176,7 @@ MAKA, OLEH YANG DEMIKIAN, DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (a) Akta ini;
 
-(b) subpenggal 2 dan 3 Penggal 7 Bahagian III, Penggal 8
-
-## Bahagian III, dan Bahagian IV dan V Akta Syarikat 2016;
+(b) subpenggal 2 dan 3 Penggal 7 Bahagian III, Penggal 8 Bahagian III, dan Bahagian IV dan V Akta Syarikat 2016;
 
 (c) seksyen 74, 127, 130zB, 131, 131a, 151c dan 151d Akta Syarikat Labuan 1990;
 
@@ -248,7 +256,7 @@ MAKA, OLEH YANG DEMIKIAN, DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 12 -->
 
-## Bahagian II
+## BAHAGIAN II
 
 ## AKSES WAKIL ASING DAN PEMIUTANG ASING KEPADA
 
@@ -314,7 +322,7 @@ MAKA, OLEH YANG DEMIKIAN, DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (c) mengandungi apa-apa maklumat lain yang dikehendaki untuk dimasukkan dalam pemberitahuan sedemikian itu kepada pemiutang di bawah undang-undang Malaysia dan perintah Mahkamah.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PENGIKTIRAFAN PROSIDING ASING DAN RELIEF
 
@@ -538,7 +546,7 @@ di bawah, atau berkaitan dengan seksyen 352, 366, 426, 472, 528, 529, 530, 531, 
 
 <!-- page 25 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## KERJASAMA DENGAN MAHKAMAH ASING DAN WAKIL ASING
 
@@ -574,7 +582,7 @@ di bawah, atau berkaitan dengan seksyen 352, 366, 426, 472, 528, 529, 530, 531, 
 
 (e) penyelarasan prosiding serentak mengenai penghutang yang sama.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PROSIDING SERENTAK
 
@@ -642,7 +650,7 @@ di bawah, atau berkaitan dengan seksyen 352, 366, 426, 472, 528, 529, 530, 531, 
 
 32. Tanpa menjejaskan tuntutan jaminan atau hak in rem, seseorang pemiutang yang telah menerima sebahagian bayaran berkenaan dengan tuntutannya dalam mana-mana prosiding di bawah undang-undang yang berhubungan dengan insolvensi di suatu Negara asing tidak boleh menerima bayaran bagi tuntutan yang sama dalam prosiding di bawah undang-undang insolvensi Malaysia mengenai penghutang yang sama, selagi bayaran kepada pemiutang lain bagi kelas yang sama adalah secara berkadar lebih rendah daripada bayaran yang pemiutang itu telah terima.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 AM
 
@@ -668,11 +676,11 @@ AM
 
 (4) Tiada apa-apa jua dalam Akta ini boleh menjejaskan hak dan remedi mana-mana pemiutang yang berbangkit atau terakru di bawah undang-undang yang terpakai sebelum tarikh permulaan kuat kuasa Akta ini, melainkan jika dipersetujui selainnya oleh pihak-pihak yang berkaitan atau diarahkan oleh Mahkamah di bawah Akta ini.
 
-## Jadual
+## JADUAL
 
 [Perenggan 3(2)(d), subseksyen 5(2) dan perenggan 20(3)(c)]
 
-## Bahagian I
+## BAHAGIAN I
 
 Ketidakpakaian
 
@@ -716,7 +724,7 @@ Akta ini tidak terpakai bagi—
 
 17. mana-mana yayasan Labuan yang ditubuhkan di bawah seksyen 4 Akta Yayasan Labuan 2010 [Akta 706] atau mana-mana yayasan Islam Labuan yang ditubuhkan di bawah seksyen 107 Akta Perkhidmatan Kewangan dan Sekuriti Islam Labuan 2010.
 
-## Bahagian II
+## BAHAGIAN II
 
 Peruntukan berhubung dengan sekatan terhadap pemberian pengiktirafan, relief, dsb., dalam hal keadaan tertentu
 
@@ -760,7 +768,7 @@ melainkan jika wakil asing atau pemohon lain itu telah mendapat kelulusan bertul
 
 Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan peruntukan bagi suatu rangka kerja undang-undang bagi perkara yang berhubungan dengan insolvensi rentas sempadan, termasuk akses kepada Mahkamah oleh wakil asing dan pemiutang asing, pengiktirafan prosiding insolvensi asing, pemberian relief berhubung dengan pengiktirafan prosiding asing, kerjasama dengan mahkamah asing dan wakil asing, penyelarasan prosiding serentak dan perkara lain yang berkaitan mengikut prinsip Undang-Undang Model berkenaan Insolvensi Rentas Sempadan yang diterima pakai oleh Suruhanjaya Bangsa-Bangsa Bersatu bagi Undang-Undang Perdagangan Antarabangsa (UNCITRAL).
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan memperkatakan perkara permulaan.
 
@@ -782,7 +790,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 10. Fasal 8 bertujuan untuk memperuntukkan bahawa Akta yang dicadangkan tidak mengehadkan kuasa Mahkamah atau pemegang jawatan insolvensi Malaysia untuk memberikan bantuan tambahan kepada wakil asing di bawah undang-undang bertulis lain.
 
-## Bahagian II
+## BAHAGIAN II
 
 11. Bahagian II Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan akses wakil asing dan pemiutang asing kepada Mahkamah di Malaysia.
 
@@ -802,7 +810,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 17. Fasal 14 bertujuan untuk memperuntukkan bahawa pemberitahuan prosiding insolvensi di bawah undang-undang insolvensi Malaysia hendaklah diberikan kepada pemiutang asing yang diketahui. Selain itu, fasal ini juga menyatakan cara, kandungan dan bentuk pemberitahuan itu, termasuk memberi Mahkamah kuasa untuk membuat suatu perintah menghendaki supaya langkah-langkah munasabah diambil untuk memberitahu mana-mana pemiutang asing apabila alamat pemiutang asing itu tidak diketahui.
 
-## Bahagian III
+## BAHAGIAN III
 
 18. Bahagian III Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan pengiktirafan prosiding asing dan relief yang boleh diberikan berhubung dengan prosiding itu.
 
@@ -834,7 +842,7 @@ mana-mana bahagian harta penghutang yang terletak di Malaysia kepada wakil asing
 
 28. Fasal 24 bertujuan untuk mengadakan peruntukan bagi hak seseorang wakil asing, apabila prosiding asing diiktiraf, untuk mencelah dalam mana-mana prosiding di Malaysia yang penghutang merupakan pihak kepadanya. Ini tertakluk kepada pematuhan kehendak di bawah Akta Syarikat 2016, Akta Syarikat Labuan 1990 atau mana-mana undang-undang bertulis lain yang terpakai.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 29. Bahagian IV Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan kerjasama dengan mahkamah asing dan wakil asing.
 
@@ -846,7 +854,7 @@ mana-mana bahagian harta penghutang yang terletak di Malaysia kepada wakil asing
 
 32. Fasal 27 bertujuan untuk memperuntukkan bahawa kerjasama yang disebut dalam fasal 25 dan 26 boleh dilaksanakan dengan apa-apa cara yang sesuai termasuk pelantikan seseorang untuk bertindak di bawah arahan Mahkamah, komunikasi maklumat dengan apa-apa cara yang sesuai, penyelarasan pentadbiran dan pengawasan harta dan hal ehwal penghutang, kelulusan atau pelaksanaan perjanjian untuk penyelarasan prosiding, dan penyelarasan prosiding serentak yang berhubungan dengan penghutang yang sama.
 
-## Bahagian V
+## BAHAGIAN V
 
 33. Bahagian V Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan prosiding serentak.
 
@@ -862,7 +870,7 @@ mana-mana bahagian harta penghutang yang terletak di Malaysia kepada wakil asing
 
 38. Fasal 32 bertujuan untuk mengadakan peruntukan bagi kaedah pembayaran yang saksama dalam prosiding serentak dengan memastikan bahawa pemiutang yang telah menerima sebahagian bayaran dalam prosiding insolvensi asing tidak boleh menerima bahagian yang lebih besar daripada pemiutang lain bagi kelas yang sama dalam prosiding di Malaysia. Dalam hal ini, peruntukan ini tertakluk kepada apa-apa tuntutan jaminan atau hak in rem.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 39. Bahagian VI Akta yang dicadangkan memperkatakan peruntukan am.
 

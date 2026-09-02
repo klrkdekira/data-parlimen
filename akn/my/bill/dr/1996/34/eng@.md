@@ -38,7 +38,31 @@ for by the Supply Act 1996 and the Supplementary Supply
 
 ## SCHEDULE
 
-(Section 2) Appropriation Purpose Title to Purpose RM B. 1 Parliament 359,855 B. 6 Education Service Commission 600,000 B. 7 Prime Minister's Department 30,000,000 B. 9 Statistics Department 7,292,000
+(Section 2)
+
+<!-- marginal: Appropriation -->
+
+Purpose Title
+
+<!-- marginal: to Purpose -->
+
+<!-- marginal: RM -->
+
+B. 1 Parliament
+
+<!-- marginal: 359,855 -->
+
+B. 6 Education Service Commission
+
+<!-- marginal: 600,000 -->
+
+B. 7 Prime Minister's Department
+
+<!-- marginal: 30,000,000 -->
+
+B. 9 Statistics Department
+
+<!-- marginal: 7,292,000 -->
 
 <!-- page 2 -->
 
@@ -112,4 +136,6 @@ Supplementary Supply (1996) (No. 2)
 
 ## EXPLANATORY STATEMENT
 
-The object of this Bill is to give statutory authority for certain additional payments to be made for federal public services in the year 1996 in excess of the expenditure sanctioned by the Supply Act 1996 and the Supplementary Supply (1996) Act 1996. [PN. (U2) 1961.]
+The object of this Bill is to give statutory authority for certain additional payments to be made for federal public services in the year 1996 in excess of the expenditure sanctioned by the Supply Act 1996 and the Supplementary Supply (1996) Act 1996.
+
+<!-- marginal: [PN. (U2) 1961.] -->

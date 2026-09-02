@@ -60,7 +60,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 4. Akta ibu dipinda dengan memasukkan selepas Bahagian I bahagian yang berikut:
 
-“Part Ia
+## “PART IA
 
 ## PRESIDENT OF ESTATE DISTRIBUTION,
 
@@ -418,7 +418,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 24. Akta ibu dipinda dengan menggantikan Jadual Pertama dengan jadual yang berikut:
 
-“First schedule [Subsection 15(5)]
+## “FIRST SCHEDULE
+
+[Subsection 15(5)]
 
 ## MATTERS TO BE TAKEN INTO CONSIDERATION BY ESTATE DISTRIBUTION OFFICER
 

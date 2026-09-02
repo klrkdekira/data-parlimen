@@ -12,7 +12,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
-1. (1) Akta ini bolehlah dinamakan Akta Setem (Pindaan) 2010.
+1. (1) Akta ini bolehlah dinamakan Akta Setem (Pindaan)
+
+2010.
 
 (2) Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
 
@@ -166,7 +168,9 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Setem 1949 (“Akta 378”).
 
 3. Fasal 2 bertujuan untuk meminda seksyen 2 Akta 378. Pindaan yang dicadangkan bertujuan untuk meminda takrif “duly stamped” yang berbangkit daripada duti awal yang baru dimasukkan.
 
-4. Fasal 3 bertujuan untuk memasukkan seksyen baru 36aa ke dalam Akta 378. Pindaan yang dicadangkan bertujuan untuk memasukkan suatu mekanisma baru untuk membayar duti bagi surat cara pindahmilik harta tidak alih yang membolehkan pembayar duti memohon kepada Pemungut untuk membayar duti lebih awal berdasarkan kepada formula yang diperuntukkan dalam seksyen baru ini.
+4. Fasal 3 bertujuan untuk memasukkan seksyen baru 36aa ke dalam Akta
+
+378. Pindaan yang dicadangkan bertujuan untuk memasukkan suatu mekanisma baru untuk membayar duti bagi surat cara pindahmilik harta tidak alih yang membolehkan pembayar duti memohon kepada Pemungut untuk membayar duti lebih awal berdasarkan kepada formula yang diperuntukkan dalam seksyen baru ini.
 
 5. Fasal 4 bertujuan untuk meminda seksyen 36b Akta 378. Pindaan yang dicadangkan bertujuan untuk memberi kuasa kepada Pemungut untuk membuat taksiran tambahan jika amaun sebenar duti adalah lebih tinggi daripada duti awal yang telah dibayar.
 

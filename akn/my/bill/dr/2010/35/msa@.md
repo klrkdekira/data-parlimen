@@ -302,9 +302,7 @@ apa-apa kerugian atau kerosakan yang disebabkan kepada mana-mana kenderaan motor
 
 53a. (1) Walau apa pun yang terkandung dalam Akta ini, jika seseorang pemunya berdaftar kenderaan motor dikatakan atau disyaki bersalah melakukan suatu kesalahan yang dirakamkan melalui kamera, seorang pegawai polis atau pegawai pengangkutan jalan boleh, sebagai ganti membuat permohonan kepada mahkamah untuk mendapatkan saman, dengan serta-merta menyampaikan kepada pemunya berdaftar kenderaan motor itu suatu notis memerintahkannya supaya hadir di hadapan Majistret yang paling hampir yang mempunyai bidang kuasa untuk membicarakan kesalahan itu, pada masa dan tarikh yang akan dinyatakan dalam notis itu.
 
-(2) Jika seseorang pemunya berdaftar kenderaan motor yang kepadanya disampaikan suatu notis di bawah subseksyen
-
-(1) gagal hadir dengan sendiri atau melalui peguam, maka, melainkan jika didapati adalah tidak mungkin semunasabahnya
+(2) Jika seseorang pemunya berdaftar kenderaan motor yang kepadanya disampaikan suatu notis di bawah subseksyen (1) gagal hadir dengan sendiri atau melalui peguam, maka, melainkan jika didapati adalah tidak mungkin semunasabahnya
 
 <!-- page 13 -->
 
@@ -478,7 +476,7 @@ lesen itu; atau
 
 31. Akta ibu dipinda dengan memasukkan selepas seksyen 66g Bahagian yang berikut:
 
-“Bahagian IIB
+## “BAHAGIAN IIB
 
 ## KENDERAAN MOTOR ASING
 
@@ -590,9 +588,7 @@ orang yang diberi kuasa yang sepatutnya oleh Ketua Pengarah Lembaga Lebuhraya Ma
 
 34. Subseksyen 88(1) Akta ibu dipinda dengan memasukkan selepas proviso kepada subseksyen itu proviso selanjutnya yang berikut:
 
-“Dengan syarat selanjutnya bahawa tiada kaedah-kaedah boleh dibuat berkenaan dengan perkara yang dinyatakan dalam perenggan (e), (g) dan (h) yang berhubungan dengan pengendali perkhidmatan kenderaan perkhidmatan awam, kenderaan perkhidmatan pelancongan dan perkhidmatan kenderaan barangan yang dilesenkan di bawah Akta Pengangkutan Awam Darat
-
-2010.”.
+“Dengan syarat selanjutnya bahawa tiada kaedah-kaedah boleh dibuat berkenaan dengan perkara yang dinyatakan dalam perenggan (e), (g) dan (h) yang berhubungan dengan pengendali perkhidmatan kenderaan perkhidmatan awam, kenderaan perkhidmatan pelancongan dan perkhidmatan kenderaan barangan yang dilesenkan di bawah Akta Pengangkutan Awam Darat 2010.”.
 
 ### Pindaan seksyen 108
 
@@ -726,41 +722,75 @@ Dengan syarat bahawa—
 
 <!-- page 29 -->
 
-### Jadual baru
+<!-- marginal: Jadual baru -->
 
-46. Akta ibu dipinda dengan memasukkan selepas seksyen 129 jadual yang berikut:
+46. Akta ibu dipinda dengan memasukkan selepas seksyen 129
 
-“jadual Pertama [Seksyen 2]
+<!-- marginal: jadual yang berikut: -->
+
+## “JADUAL PERTAMA
+
+<!-- marginal: [Seksyen 2] -->
 
 ## KESALAHAN BERJADUAL
 
-Butiran Jenis kesalahan Peruntukan undang-undang (1)
+<!-- marginal: Butiran -->
 
-<!-- marginal: (2) -->
+<!-- marginal: Jenis kesalahan -->
 
-(i) Memandu melebihi had laju Kaedah 3, Kaedah-Kaedah Kenderaan Motor (Had Laju) 1989 [P.U. (A) 25/1989]
+Peruntukan undang-undang
 
-(ii) Tidak mematuhi isyarat lalu Subseksyen 79(2) Akta ini lintas
+(1) (2)
+
+(i)
+
+<!-- marginal: Memandu melebihi had laju -->
+
+Kaedah 3, Kaedah-Kaedah Kenderaan Motor (Had Laju) 1989 [P.U. (A) 25/1989]
+
+(ii)
+
+<!-- marginal: Tidak mematuhi isyarat lalu -->
+
+Subseksyen 79(2) Akta ini
+
+<!-- marginal: lintas -->
 
 (iii) Memotong di garisan berkembar Subseksyen 79(2) Akta ini
 
 (iv) Memandu di lorong kecemasan Kaedah 53, Kaedah-Kaedah Lalu Lintas Jalan 1959 [L.N. 166/1959]
 
-(v) Memotong dan menghalang Kaedah 6, Kaedah-Kaedah daripada memotong Lalu Lintas Jalan 1959 [L.N. 166/1959]
+(v)
+
+<!-- marginal: Memotong dan menghalang -->
+
+Kaedah 6, Kaedah-Kaedah
+
+<!-- marginal: daripada memotong -->
+
+Lalu Lintas Jalan 1959 [L.N. 166/1959]
 
 (vi) Memotong barisan Kaedah 3(2)(b), Kaedah- Kaedah Lalu Lintas Jalan 1959 [L.N. 166/1959]
 
-(vii) Menggunakan telefon bimbit Kaedah 17a, Kaedah-Kaedah semasa memandu Lalu Lintas Jalan 1959 [L.N. 166/1959]
+(vii) Menggunakan telefon bimbit Kaedah 17a, Kaedah-Kaedah
 
-## jadual Kedua
+<!-- marginal: semasa memandu -->
 
-[Seksyen 2]
+Lalu Lintas Jalan 1959 [L.N. 166/1959]
+
+## JADUAL KEDUA
+
+<!-- marginal: [Seksyen 2] -->
 
 ## KESALAHAN YANG DIRAKAMKAN MELALUI KAMERA
 
-(i) Memandu kenderaan selain bas di lorong bas (ii) Memandu melebihi had laju yang ditetapkan (iii) Tidak mematuhi lampu isyarat
+(i) Memandu kenderaan selain bas di lorong bas
 
-## jadual Ketiga
+(ii) Memandu melebihi had laju yang ditetapkan
+
+(iii) Tidak mematuhi lampu isyarat
+
+## JADUAL KETIGA
 
 [Seksyen 119B]
 

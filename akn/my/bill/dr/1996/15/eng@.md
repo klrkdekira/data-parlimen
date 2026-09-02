@@ -112,19 +112,59 @@
 
 ## OTHER POWERS AND FUNCTIONS OF THE BOARD
 
-41. Power to borrow. 42. Investment. 43. Power to employ agents, etc. 44. Power to grant loans. 45. Power to establish corporations.
+41. Power to borrow.
+
+42. Investment.
+
+43. Power to employ agents, etc.
+
+44. Power to grant loans.
+
+45. Power to establish corporations.
 
 ## PART VII
 
 ## ENFORCEMENT
 
-46. Authorisation of officers. 47. Power of investigation. 48. Search by warrant. 49. List of things seized. 50. Forfeiture of rubber, etc. seized. 51. Property in forfeited rubber, etc. 52. Cost of holding rubber, etc. seized. 53. No costs or damages arising from seizure to be recoverable. 54. Obstruction of authorised officer.
+46. Authorisation of officers.
+
+47. Power of investigation.
+
+48. Search by warrant.
+
+49. List of things seized.
+
+50. Forfeiture of rubber, etc. seized.
+
+51. Property in forfeited rubber, etc.
+
+52. Cost of holding rubber, etc. seized.
+
+53. No costs or damages arising from seizure to be recoverable.
+
+54. Obstruction of authorised officer.
 
 ## PART VIII
 
 ## GENERAL
 
-55. Regulation of rubber industry. 56. General penalty. 57. Compounding of offences. 58. Institution and conduct of prosecution. 59. Jurisdiction to try offences. 60. Protection of officers. 61. Power to exempt. 62. Regulations. 63. Validation of acts done in anticipation of Act.
+55. Regulation of rubber industry.
+
+56. General penalty.
+
+57. Compounding of offences.
+
+58. Institution and conduct of prosecution.
+
+59. Jurisdiction to try offences.
+
+60. Protection of officers.
+
+61. Power to exempt.
+
+62. Regulations.
+
+63. Validation of acts done in anticipation of Act.
 
 <!-- page 4 -->
 
@@ -186,7 +226,7 @@ Board (Incorporation) Act 1996.
 
 <!-- page 6 -->
 
-Interpretation.
+<!-- marginal: Interpretation. -->
 
 2. In this Act, unless the context otherwise requires—
 
@@ -210,7 +250,11 @@ Interpretation.
 
 "Fund" means the Malaysian Rubber Board Fund established under section 34;
 
-"Malaysian Rubber Exchange" means the Malaysian Act 402. Rubber Exchange established under the Malaysian Rubber Exchange (Incorporation) Act 1962;
+"Malaysian Rubber Exchange" means the Malaysian
+
+<!-- marginal: Act 402. -->
+
+Rubber Exchange established under the Malaysian Rubber Exchange (Incorporation) Act 1962;
 
 "member" means a member of the Board and includes an alternate member;
 
@@ -256,11 +300,19 @@ succession and a common seal, which may sue and be sued in its corporate name an
 
 <!-- page 8 -->
 
-Functions
+<!-- marginal: Functions -->
 
-4. (1) The functions of the Board shall be— and powers of
+4. (1) The functions of the Board shall be—
 
-(a) to implement policies and developmental Board. programmes to ensure the viability of the rubber industry of Malaysia;
+<!-- marginal: and -->
+
+<!-- marginal: powers of -->
+
+(a) to implement policies and developmental
+
+<!-- marginal: Board. -->
+
+programmes to ensure the viability of the rubber industry of Malaysia;
 
 (b) to promote and implement research and development activities in the production, use and consumption of rubber;
 
@@ -316,9 +368,13 @@ Functions
 
 (k) to do such other things as it thinks fit to enable it to perform its functions and powers effectively or which are incidental to the performance of its functions.
 
-Membership
+<!-- marginal: Membership -->
 
-5. (1) The Board shall consist of the following members of Board. who shall be appointed by the Minister:
+5. (1) The Board shall consist of the following members
+
+<!-- marginal: of Board. -->
+
+who shall be appointed by the Minister:
 
 (a) a Chairman;
 
@@ -346,9 +402,13 @@ Membership
 
 (2) The Board shall be deemed to be duly constituted notwithstanding that any of the members to be appointed under paragraph (1) (j) or (k) has not been appointed.
 
-Tenure of
+<!-- marginal: Tenure of -->
 
-6. Subject to such conditions as may be specified in his office. instrument of appointment, a member of the Board shall, unless he sooner resigns or vacates his office or his appointment is sooner revoked, hold office for a term not exceeding two years and is eligible for reappointment.
+6. Subject to such conditions as may be specified in his
+
+<!-- marginal: office. -->
+
+instrument of appointment, a member of the Board shall, unless he sooner resigns or vacates his office or his appointment is sooner revoked, hold office for a term not exceeding two years and is eligible for reappointment.
 
 <!-- page 11 -->
 
@@ -398,9 +458,13 @@ therefor.
 
 <!-- page 12 -->
 
-Vacation of
+<!-- marginal: Vacation of -->
 
-10. (1) The office of a member of the Board shall be office. vacated—
+10. (1) The office of a member of the Board shall be
+
+<!-- marginal: office. -->
+
+vacated—
 
 (a) if he dies;
 
@@ -420,13 +484,33 @@ Vacation of
 
 (2) Where any person ceases to be a member by reason of any of the provisions of this Act, another person shall be appointed in his place in accordance with the provisions applying.
 
-Non-liability
+<!-- marginal: Non-liability -->
 
-11. No member of the Board shall incur personal liability of members for any loss or damage caused by an act in administering of Board. the affairs of the Board, unless the loss or damage is occasioned by an intentionally wrongful act on his part.
+11. No member of the Board shall incur personal liability
 
-Public
+<!-- marginal: of members -->
 
-12. The Public Authorities Protection Act 1948 shall Authorities apply to any action, suit, prosecution or proceedings Protection Act 1948. against the Board or against any member, officer, servant Act 198.
+for any loss or damage caused by an act in administering
+
+<!-- marginal: of Board. -->
+
+the affairs of the Board, unless the loss or damage is occasioned by an intentionally wrongful act on his part.
+
+<!-- marginal: Public -->
+
+12. The Public Authorities Protection Act 1948 shall
+
+<!-- marginal: Authorities -->
+
+apply to any action, suit, prosecution or proceedings
+
+<!-- marginal: Protection -->
+
+<!-- marginal: Act 1948. -->
+
+against the Board or against any member, officer, servant
+
+<!-- marginal: Act 198. -->
 
 <!-- page 13 -->
 
@@ -512,9 +596,17 @@ and any function, power or duty so delegated may be performed, exercised or disc
 
 (b) the authority to sanction expenditure from the Fund or any other monies vested in or under the control of the Board up to such limit as the Board shall specify.
 
-Board may
+<!-- marginal: Board may -->
 
-17. (1) The Board may establish such committees as it establish considers necessary or expedient to assist it in the committees. performance of its functions under this Act, including a Management Committee for the purpose of managing the Malaysian Rubber Exchange.
+17. (1) The Board may establish such committees as it
+
+<!-- marginal: establish -->
+
+considers necessary or expedient to assist it in the
+
+<!-- marginal: committees. -->
+
+performance of its functions under this Act, including a Management Committee for the purpose of managing the Malaysian Rubber Exchange.
 
 (2) The Board may appoint any person to be a member of any committee established under subsection (1) provided that any committee so established shall include at least one member of the Board.
 
@@ -586,9 +678,13 @@ for the approval of the Board;
 
 (b) if the office of Deputy Director-General is vacant, the Board may direct any other officer of the Board to perform the duties.
 
-Appointment
+<!-- marginal: Appointment -->
 
-19. (1) Subject to any regulations made under subsection of officers and servants.
+19. (1) Subject to any regulations made under subsection
+
+<!-- marginal: of officers -->
+
+<!-- marginal: and servants. -->
 
 (3), the Board may—
 
@@ -762,17 +858,35 @@ the Board may be surcharged if it appears to the Board that the person—
 
 (b) in the case of paragraphs (1)(d) and (e), surcharge against the person, such sum as the Board thinks fit.
 
-Notification
+<!-- marginal: Notification -->
 
-26. The Board shall notify the person surcharged in of respect of any surcharge made under subsection 25(3). surcharge.
+26. The Board shall notify the person surcharged in
 
-Withdrawal
+<!-- marginal: of -->
 
-27. Notwithstanding subsection 25(3) and section 26, of the Board may at any time withdraw any surcharge in surcharge. respect of which a satisfactory explanation has been received or if it otherwise appears that no surcharge should have been made, and the Board shall forthwith notify the person surcharged of the withdrawal.
+respect of any surcharge made under subsection 25(3).
 
-Recovery of
+<!-- marginal: surcharge. -->
 
-28. The amount of any surcharge made under subsection surcharge. 25(3) and not withdrawn under section 27 shall be a debt due to the Board from the person surcharged and may be sued for and recovered in any court at the suit of the Board and may also, if the Board so directs, be recovered by deduction—
+<!-- marginal: Withdrawal -->
+
+27. Notwithstanding subsection 25(3) and section 26,
+
+<!-- marginal: of -->
+
+the Board may at any time withdraw any surcharge in
+
+<!-- marginal: surcharge. -->
+
+respect of which a satisfactory explanation has been received or if it otherwise appears that no surcharge should have been made, and the Board shall forthwith notify the person surcharged of the withdrawal.
+
+<!-- marginal: Recovery of -->
+
+28. The amount of any surcharge made under subsection
+
+<!-- marginal: surcharge. -->
+
+25(3) and not withdrawn under section 27 shall be a debt due to the Board from the person surcharged and may be sued for and recovered in any court at the suit of the Board and may also, if the Board so directs, be recovered by deduction—
 
 (a) from the salary of the person surcharged; or
 
@@ -780,17 +894,37 @@ Recovery of
 
 by equal monthly instalments not exceeding one-fourth of the total monthly salary or pension, as the case may be, of that person.
 
-Composition
+<!-- marginal: Composition -->
 
-29. In any action for surcharge against the Director- of Board in General, the composition of the Board for the purposes special cases. of sections 25 to 28 shall not include the Director- General.
+29. In any action for surcharge against the Director-
+
+<!-- marginal: of Board in -->
+
+General, the composition of the Board for the purposes
+
+<!-- marginal: special -->
+
+<!-- marginal: cases. -->
+
+of sections 25 to 28 shall not include the Director- General.
 
 ## PART IV
 
 ## RESEARCH AND DEVELOPMENT
 
-Establish-
+<!-- marginal: Establish- -->
 
-30. (1) The Board may establish and manage research ment of centres for the purpose of research into and investigation research centres. of all problems and matters relating to rubber, rubber products and the rubber industry.
+30. (1) The Board may establish and manage research
+
+<!-- marginal: ment of -->
+
+centres for the purpose of research into and investigation
+
+<!-- marginal: research -->
+
+<!-- marginal: centres. -->
+
+of all problems and matters relating to rubber, rubber products and the rubber industry.
 
 <!-- page 23 -->
 
@@ -862,7 +996,7 @@ part the contents of any research findings except—
 
 ## FINANCE
 
-The Fund.
+<!-- marginal: The Fund. -->
 
 34. (1) There is established, for the purposes of this Act, a fund to he known as the "Malaysian Rubber Board Fund", to be administered and controlled by the Board.
 
@@ -936,15 +1070,33 @@ the Board, including legal fees and costs and other fees and costs, and the remu
 
 <!-- page 26 -->
 
-Conservation
+<!-- marginal: Conservation -->
 
-36. It shall be the duty of the Board to conserve the of Fund. Fund by so performing its functions and exercising its powers under this Act as to secure that the total revenues of the Board are sufficient to meet all sums properly chargeable to its revenue account including depreciation and interest on capital taking one year with another.
+36. It shall be the duty of the Board to conserve the
 
-Cess on
+<!-- marginal: of Fund. -->
 
-37. (1) The Minister may, after consultation with the rubber and Minister of Finance, make orders for the imposition, rubber products. variation or cancellation of a cess on rubber and rubber products produced in or exported from Malaysia and the orders may specify the nature, amount and rate of the cess and the manner of collection of the cess.
+Fund by so performing its functions and exercising its powers under this Act as to secure that the total revenues of the Board are sufficient to meet all sums properly chargeable to its revenue account including depreciation and interest on capital taking one year with another.
 
-(2) Except in so far as may otherwise be provided in any such order, such cess shall be deemed for the purposes of collection and the enforcement of the collection Act 235. thereof to be a customs duty imposed under the Customs Act 1967.
+<!-- marginal: Cess on -->
+
+37. (1) The Minister may, after consultation with the
+
+<!-- marginal: rubber and -->
+
+Minister of Finance, make orders for the imposition,
+
+<!-- marginal: rubber -->
+
+<!-- marginal: products. -->
+
+variation or cancellation of a cess on rubber and rubber products produced in or exported from Malaysia and the orders may specify the nature, amount and rate of the cess and the manner of collection of the cess.
+
+(2) Except in so far as may otherwise be provided in any such order, such cess shall be deemed for the purposes of collection and the enforcement of the collection
+
+<!-- marginal: Act 235. -->
+
+thereof to be a customs duty imposed under the Customs Act 1967.
 
 (3) An order made under this section may prescribe different amounts, rates and manner of collection for different types or grades of rubber and rubber products.
 
@@ -1022,7 +1174,7 @@ after consultation with the Minister of Finance, borrow, at such rate of interes
 
 <!-- page 28 -->
 
-Investment.
+<!-- marginal: Investment. -->
 
 42. (1) The monies of the Board shall, in so far as they are not required to be expended by the Board under this Act, be invested in such manner as the Minister, after consultation with the Minister of Finance, may approve.
 
@@ -1032,17 +1184,37 @@ Investment.
 
 (3) The Board may make available any research finding vested in the Board to any person or body subject to such conditions and the payment of such fees or royalties, if any, as the Board may determine with the approval of the Minister, for the purpose of its commercialisation.
 
-Power to
+<!-- marginal: Power to -->
 
-43. The Board may employ and pay agents and technical employ advisers, including advocates and solicitors, bankers, agents, etc. stockbrokers, surveyors, valuers and other persons, to transact any business or to do any act required to be transacted or done in the performance of its functions, the exercise of its powers or the discharge of its duties or for the better carrying into effect of the purposes of this Act.
+43. The Board may employ and pay agents and technical
 
-Power to
+<!-- marginal: employ -->
 
-44. The Board may, with the approval of the Minister grant loans. after consultation with the Minister of Finance, grant loans at such rate of interest and for such period and upon such terms as to the time and method of repayment and otherwise as the Minister, after consultation with the Minister of Finance, may approve.
+advisers, including advocates and solicitors, bankers,
 
-Power to
+<!-- marginal: agents, etc. -->
 
-45. (1) The Board may, with the approval of the Minister establish after consultation with the Minister of Finance, by order, corporations. published in the Gazette, establish a corporation, by such name as the Board thinks fit, to carry out and have the charge, conduct and management of any project, scheme or enterprise which has been planned or undertaken by the Board in the performance of its functions, the exercise of its powers or the discharge of its duties.
+stockbrokers, surveyors, valuers and other persons, to transact any business or to do any act required to be transacted or done in the performance of its functions, the exercise of its powers or the discharge of its duties or for the better carrying into effect of the purposes of this Act.
+
+<!-- marginal: Power to -->
+
+44. The Board may, with the approval of the Minister
+
+<!-- marginal: grant loans. -->
+
+after consultation with the Minister of Finance, grant loans at such rate of interest and for such period and upon such terms as to the time and method of repayment and otherwise as the Minister, after consultation with the Minister of Finance, may approve.
+
+<!-- marginal: Power to -->
+
+45. (1) The Board may, with the approval of the Minister
+
+<!-- marginal: establish -->
+
+after consultation with the Minister of Finance, by order,
+
+<!-- marginal: corporations. -->
+
+published in the Gazette, establish a corporation, by such name as the Board thinks fit, to carry out and have the charge, conduct and management of any project, scheme or enterprise which has been planned or undertaken by the Board in the performance of its functions, the exercise of its powers or the discharge of its duties.
 
 <!-- page 29 -->
 
@@ -1102,15 +1274,27 @@ information on oath and after such enquiry as he considers necessary that there 
 
 (d) detain every person found in the premises until the place has been searched.
 
-List of
+<!-- marginal: List of -->
 
-49. (1) Except as provided in subsection (2), where things seized. any rubber, rubber product, thing, book, document or other article is seized under this Part, the seizing officer shall prepare a list of the things seized and immediately deliver a copy signed by him to the occupier of the premises which has been searched under section 48, or to his agent or servant, at those premises.
+49. (1) Except as provided in subsection (2), where
+
+<!-- marginal: things seized. -->
+
+any rubber, rubber product, thing, book, document or other article is seized under this Part, the seizing officer shall prepare a list of the things seized and immediately deliver a copy signed by him to the occupier of the premises which has been searched under section 48, or to his agent or servant, at those premises.
 
 (2) Where the premises are unoccupied, the seizing officer shall whenever possible post a list of the things seized conspicuously on the premises.
 
-Forfeiture of
+<!-- marginal: Forfeiture of -->
 
-50. (1) Any rubber, rubber product, thing, book, rubber, etc. document or other article seized in exercise of any power seized. conferred under this Act shall be liable to forfeiture.
+50. (1) Any rubber, rubber product, thing, book,
+
+<!-- marginal: rubber, etc. -->
+
+document or other article seized in exercise of any power
+
+<!-- marginal: seized. -->
+
+conferred under this Act shall be liable to forfeiture.
 
 <!-- page 31 -->
 
@@ -1120,9 +1304,7 @@ Forfeiture of
 
 (4) Any person asserting that he is the owner of the rubber, rubber product, thing, book, document or other article referred to in subsection (3) and that it is not liable to forfeiture may personally or by his agent authorised in writing give written notice to the authorised officer in whose possession such rubber, rubber product, thing, book, document or other article is held that he claims the same.
 
-(5) On receipt of the notice referred to in subsection
-
-(4), the authorised officer shall refer the matter to a Magistrate for a decision.
+(5) On receipt of the notice referred to in subsection (4), the authorised officer shall refer the matter to a Magistrate for a decision.
 
 (6) The Magistrate to whom a matter is referred under subsection (5) shall issue a summons requiring the person asserting that he is the owner of the rubber, rubber product, thing, book, document or other article
 
@@ -1136,13 +1318,31 @@ and the person from whom it was seized, to appear before the Magistrate and on t
 
 (9) The Board shall not be liable to any person for any deterioration, however caused, in the quality of any rubber or rubber product seized under this Act.
 
-Property in
+<!-- marginal: Property in -->
 
-51. Any rubber, rubber product or proceeds of sale forfeited thereof, thing, book, document or other article forfeited, rubber, etc. or taken and deemed to be forfeited, under this Part shall be the property of the Board.
+51. Any rubber, rubber product or proceeds of sale
 
-Cost of
+<!-- marginal: forfeited -->
 
-52. Where any rubber, rubber product, thing, book, holding document or other article seized under this Act is held rubber, etc. seized. in the custody of the Government pending completion of any proceedings in respect of an offence under this Act, the cost of holding such thing in custody shall, in the event of any person being found guilty of an offence, be a debt due to the Government by such person and shall be recoverable accordingly.
+thereof, thing, book, document or other article forfeited,
+
+<!-- marginal: rubber, etc. -->
+
+or taken and deemed to be forfeited, under this Part shall be the property of the Board.
+
+<!-- marginal: Cost of -->
+
+52. Where any rubber, rubber product, thing, book,
+
+<!-- marginal: holding -->
+
+document or other article seized under this Act is held
+
+<!-- marginal: rubber, etc. -->
+
+<!-- marginal: seized. -->
+
+in the custody of the Government pending completion of any proceedings in respect of an offence under this Act, the cost of holding such thing in custody shall, in the event of any person being found guilty of an offence, be a debt due to the Government by such person and shall be recoverable accordingly.
 
 <!-- page 33 -->
 
@@ -1216,19 +1416,41 @@ committed by any person under this Act, by making a written offer to such person
 
 (3) Where an offence has been compounded under subsection (1), no prosecution shall thereafter be instituted in respect of such offence against the person to whom the offer to compound was made.
 
-Institution
+<!-- marginal: Institution -->
 
-58. (1) No prosecution for or in relation to any offence and under this Act shall be instituted without the written conduct of prosecution. consent of the Public Prosecutor.
+58. (1) No prosecution for or in relation to any offence
+
+<!-- marginal: and -->
+
+under this Act shall be instituted without the written
+
+<!-- marginal: conduct of -->
+
+<!-- marginal: prosecution. -->
+
+consent of the Public Prosecutor.
 
 (2) Any officer of the Board not below the rank of Assistant Enforcement Officer authorised in writing by the Public Prosecutor may conduct the prosecution for any offence under this Act.
 
-Jurisdiction
+<!-- marginal: Jurisdiction -->
 
-59. Notwithstanding any written law to the contrary, a to try Court of a Magistrate of the First Class shall have offences. jurisdiction to try any offence under this Act and to impose the full punishment for any such offence.
+59. Notwithstanding any written law to the contrary, a
 
-Protection
+<!-- marginal: to try -->
 
-60. No action or prosecution shall be brought, instituted of officers. or maintained in any court against—
+Court of a Magistrate of the First Class shall have
+
+<!-- marginal: offences. -->
+
+jurisdiction to try any offence under this Act and to impose the full punishment for any such offence.
+
+<!-- marginal: Protection -->
+
+60. No action or prosecution shall be brought, instituted
+
+<!-- marginal: of officers. -->
+
+or maintained in any court against—
 
 (a) the Director-General, Deputy Directors-General, or any other officer duly appointed under this Act for or on account of or in respect of any act ordered or done for the purpose of carrying into effect this Act; and
 
@@ -1278,9 +1500,19 @@ certificates, permits and approvals;
 
 (2) Regulations made under subsection (1) may prescribe any act in contravention of the regulations to be an offence and may prescribe penalties of a fine not exceeding one hundred thousand ringgit or imprisonment for a term not exceeding three years or both.
 
-Validation of
+<!-- marginal: Validation of -->
 
-63. (1) Subject to subsection (2), all acts and things acts done in done by any person in preparation for or in anticipation anticipation of Act. of this Act and any expenditure incurred in relation thereto shall be deemed to have been authorised under this Act, provided that the acts and things done are not inconsistent with the general intention and purposes of this Act; and all rights and obligations acquired or incurred as a result of the doing of those acts or things including any expenditure incurred in relation thereto shall be deemed to be the rights and obligations of the Board.
+63. (1) Subject to subsection (2), all acts and things
+
+<!-- marginal: acts done in -->
+
+done by any person in preparation for or in anticipation
+
+<!-- marginal: anticipation -->
+
+<!-- marginal: of Act. -->
+
+of this Act and any expenditure incurred in relation thereto shall be deemed to have been authorised under this Act, provided that the acts and things done are not inconsistent with the general intention and purposes of this Act; and all rights and obligations acquired or incurred as a result of the doing of those acts or things including any expenditure incurred in relation thereto shall be deemed to be the rights and obligations of the Board.
 
 (2) Subsection (1) does not extend to authorising the appointment of members, officers or servants of the Board except in so far as to authorise the temporary appointment of such persons until the proper appointments are made under this Act.
 
@@ -1288,9 +1520,23 @@ Validation of
 
 ## REPEAL, SAVINGS AND TRANSITIONAL
 
-Repeal and
+<!-- marginal: Repeal and -->
 
-64. The Malaysian Rubber Research and Development dissolution. Fund Act 1958, the Rubber Research Institute of Malaysia Act 401. Act 407. Act 1966, the Malaysian Rubber Exchange and Licensing Act 84. Board Act 1972, the Rubber Shipping and Packing
+64. The Malaysian Rubber Research and Development
+
+<!-- marginal: dissolution. -->
+
+Fund Act 1958, the Rubber Research Institute of Malaysia
+
+<!-- marginal: Act 401. -->
+
+<!-- marginal: Act 407. -->
+
+Act 1966, the Malaysian Rubber Exchange and Licensing
+
+<!-- marginal: Act 84. -->
+
+Board Act 1972, the Rubber Shipping and Packing
 
 <!-- page 37 -->
 
@@ -1342,21 +1588,45 @@ Acts shall on the appointed day be transferred to and be deemed to be part of th
 
 <!-- page 38 -->
 
-Membership
+<!-- marginal: Membership -->
 
-69. (1) Notwithstanding anything to the contrary, on the of dissolved appointed day, the members of the dissolved Boards and Boards. the members of any committee appointed under the repealed Acts who held office before that day shall cease to hold office.
+69. (1) Notwithstanding anything to the contrary, on the
+
+<!-- marginal: of dissolved -->
+
+appointed day, the members of the dissolved Boards and
+
+<!-- marginal: Boards. -->
+
+the members of any committee appointed under the repealed Acts who held office before that day shall cease to hold office.
 
 (2) Nothing in subsection (1) shall affect the accountability of the outgoing members of the dissolved Boards and as soon as practicable after the appointed day, the dissolved Boards shall prepare and submit to the Minister a report including the financial statements required under the respective repealed Acts, but the report shall be limited to the period from 1 January of the relevant year to the day before the appointed day.
 
 (3) Notwithstanding section 64, the dissolved Boards shall continue in existence for the purposes of subsection (2),
 
-Continuance
+<!-- marginal: Continuance -->
 
-70. The persons who on the appointed day are employed of officers as officers and servants of the dissolved Boards or the and servants. dissolved Institute, as the case may be, under the repealed Acts shall continue to be officers and servants of the Board under this Act as if those persons had been appointed under subsection 19(1) of this Act on the same terms and conditions for a term expiring on the day on which their appointments under the repealed Acts would expire.
+70. The persons who on the appointed day are employed
 
-Savings for
+<!-- marginal: of officers -->
 
-71. (1) Notwithstanding the repeal under section 64 or certificates, any provision of this Act to the contrary— licences and registers.
+as officers and servants of the dissolved Boards or the
+
+<!-- marginal: and servants. -->
+
+dissolved Institute, as the case may be, under the repealed Acts shall continue to be officers and servants of the Board under this Act as if those persons had been appointed under subsection 19(1) of this Act on the same terms and conditions for a term expiring on the day on which their appointments under the repealed Acts would expire.
+
+<!-- marginal: Savings for -->
+
+71. (1) Notwithstanding the repeal under section 64 or
+
+<!-- marginal: certificates, -->
+
+any provision of this Act to the contrary—
+
+<!-- marginal: licences and -->
+
+<!-- marginal: registers. -->
 
 (a) every person who, before the appointed day, held a valid export registration certificate issued to him under the repealed Acts shall be deemed to be registered under this Act as an exporter until the expiry date of the certificate and subject to the terms and conditions attached thereto;
 
@@ -1382,17 +1652,37 @@ for registration or for a licence or permit in accordance with the regulations m
 
 (5) All registers kept and maintained under the repealed Acts shall be deemed to be registers kept and maintained under this Act and shall be deemed to form part thereof.
 
-Continuance
+<!-- marginal: Continuance -->
 
-72. (1) All applications, approvals or decisions, on appeal of pending or otherwise, pending before the dissolved Boards or the applications, etc. dissolved Institute under the repealed Acts shall on the appointed day be dealt with by the Board under this Act.
+72. (1) All applications, approvals or decisions, on appeal
+
+<!-- marginal: of pending -->
+
+or otherwise, pending before the dissolved Boards or the
+
+<!-- marginal: applications, -->
+
+<!-- marginal: etc. -->
+
+dissolved Institute under the repealed Acts shall on the appointed day be dealt with by the Board under this Act.
 
 (2) All applications, approvals or decisions, on appeal or otherwise, pending before the Minister under the repealed Acts shall on the appointed day be dealt with by the Minister under this Act.
 
 (3) All instruments, certificates or documents lodged with the dissolved Boards or the dissolved Institute under the repealed Acts before the appointed day shall on the appointed day be lodged with the Board.
 
-Continuance
+<!-- marginal: Continuance -->
 
-73. (1) Neither the repeal under section 64 nor anything of civil contained in this Act shall affect any person's liability and criminal proceedings. to be prosecuted or punished for offences committed under the repealed Acts before the appointed day, or any proceedings brought before that day in respect of such offences.
+73. (1) Neither the repeal under section 64 nor anything
+
+<!-- marginal: of civil -->
+
+contained in this Act shall affect any person's liability
+
+<!-- marginal: and criminal -->
+
+<!-- marginal: proceedings. -->
+
+to be prosecuted or punished for offences committed under the repealed Acts before the appointed day, or any proceedings brought before that day in respect of such offences.
 
 (2) Any proceedings, whether civil or criminal, or cause of action pending or existing before the appointed day by or against the dissolved Boards or the dissolved Institute or any person acting on behalf of the dissolved Boards or the dissolved Institute may be continued or instituted by or against the Board as it might have been by or against the dissolved Boards, the dissolved Institute or such person if this Act had not been enacted.
 
@@ -1456,11 +1746,21 @@ Board, whenever it appears to him necessary or expedient to do so, whether for t
 
 <!-- page 42 -->
 
-Board may invite 3. (1) The Board may invite any person to attend a meeting or others to meetings. deliberation of the Board for the purpose of advising it on any matter under discussion but that person shall not be entitled to vote at the meeting or deliberation.
+<!-- marginal: Board may invite -->
+
+3. (1) The Board may invite any person to attend a meeting or
+
+<!-- marginal: others to -->
+
+<!-- marginal: meetings. -->
+
+deliberation of the Board for the purpose of advising it on any matter under discussion but that person shall not be entitled to vote at the meeting or deliberation.
 
 (2) A person invited under subparagraph (1) may be paid such fee as the Board may determine.
 
-Common seal 4. (1) The Board shall have a common seal which shall bear such device as the Board shall approve and such seal may be broken, changed, altered or made anew as the Board thinks fit.
+<!-- marginal: Common seal -->
+
+4. (1) The Board shall have a common seal which shall bear such device as the Board shall approve and such seal may be broken, changed, altered or made anew as the Board thinks fit.
 
 (2) Until a seal is provided by the Board, a stamp bearing the words "Malaysian Rubber Board" or "Lembaga Getah Malaysia" may be used and shall be deemed to be the common seal of the Board.
 
@@ -1470,9 +1770,17 @@ Provided that any document or instrument which if executed by a person not being
 
 (4) The common seal of the Board shall be officially and judicially noticed.
 
-Disclosure of 5. A member of the Board having, directly or indirectly, by interest himself or his partner, any interest in any company or undertaking with which the Board proposes to make any contract or having any interest in any such contract or in any matter under discussion by the Board shall disclose to the Board the fact of his interest and the nature thereof, and such disclosure shall be recorded in the minutes of the Board and, unless specifically authorised thereto by the Chairman, such member shall take no part in any deliberation or decision of the Board relating to the contract or matter.
+<!-- marginal: Disclosure of -->
 
-Minutes. 6. (1) The Board shall cause minutes of all its meetings to be maintained and kept in a proper form.
+5. A member of the Board having, directly or indirectly, by
+
+<!-- marginal: interest -->
+
+himself or his partner, any interest in any company or undertaking with which the Board proposes to make any contract or having any interest in any such contract or in any matter under discussion by the Board shall disclose to the Board the fact of his interest and the nature thereof, and such disclosure shall be recorded in the minutes of the Board and, unless specifically authorised thereto by the Chairman, such member shall take no part in any deliberation or decision of the Board relating to the contract or matter.
+
+<!-- marginal: Minutes. -->
+
+6. (1) The Board shall cause minutes of all its meetings to be maintained and kept in a proper form.
 
 <!-- page 43 -->
 
@@ -1568,21 +1876,55 @@ scope than the purposes or objects for which the Board has been constituted or t
 
 ## BILL
 
-Effect of 3. Subject to the provisions of this Act and of any regulations regulations. made under section 62, any regulations made under paragraph 1 shall be binding on the corporation in respect of which they were made and shall have effect for all purposes as if they had been enacted in this Act.
+<!-- marginal: Effect of -->
 
-Amendment of 4. The Board may at any time amend, revoke or add to any regulations. regulations made under paragraph 1 in respect of any corporation.
+3. Subject to the provisions of this Act and of any regulations
 
-Register of 5. The Board shall keep a register in the prescribed form of all corporations. corporations established by it under section 45 and such register, together with copies of all regulations made under paragraphs 1 and 4, shall be open to public inspection at such place or places and at such time as it may prescribe.
+<!-- marginal: regulations. -->
 
-Winding up. 6. (1) The Board may, with the approval of the Minister, by order published in the Gazette, direct that any corporation established by it be wound up and dissolved.
+made under section 62, any regulations made under paragraph 1 shall be binding on the corporation in respect of which they were made and shall have effect for all purposes as if they had been enacted in this Act.
+
+<!-- marginal: Amendment of -->
+
+4. The Board may at any time amend, revoke or add to any
+
+<!-- marginal: regulations. -->
+
+regulations made under paragraph 1 in respect of any corporation.
+
+<!-- marginal: Register of -->
+
+5. The Board shall keep a register in the prescribed form of all
+
+<!-- marginal: corporations. -->
+
+corporations established by it under section 45 and such register, together with copies of all regulations made under paragraphs 1 and 4, shall be open to public inspection at such place or places and at such time as it may prescribe.
+
+<!-- marginal: Winding up. -->
+
+6. (1) The Board may, with the approval of the Minister, by order published in the Gazette, direct that any corporation established by it be wound up and dissolved.
 
 (2) Upon the dissolution of any corporation under this paragraph, the assets of the corporation after discharging all its liabilities shall be transferred to and shall vest in the Board.
 
 (3) The winding up of a corporation under this paragraph shall be conducted in such manner as the Board may prescribe.
 
-Corporations to 7. Every corporation established under section 45 shall be a body be bodies corporate corporate by such name as the Board shall give to it and shall have perpetual succession and a common seal and may sue and be sued in such name and, for the purpose of carrying into effect the project, scheme or enterprise for which it has been established, may enter into contracts, and may hold and deal in or with any immovable or movable property and may do all other matters and things incidental or appertaining to a body corporate not inconsistent with the provisions of this Act and subject to such restrictions or limitations as may be prescribed by the Board in each case.
+<!-- marginal: Corporations to -->
 
-Common seal of 8. (1) Every corporation shall have a common seal which shall bear corporation such device as the corporation, with the approval of the Board, may approve and such seal may be broken, changed, altered or made anew as the corporation, with the approval of the Board, thinks fit.
+7. Every corporation established under section 45 shall be a body
+
+<!-- marginal: be bodies -->
+
+<!-- marginal: corporate -->
+
+corporate by such name as the Board shall give to it and shall have perpetual succession and a common seal and may sue and be sued in such name and, for the purpose of carrying into effect the project, scheme or enterprise for which it has been established, may enter into contracts, and may hold and deal in or with any immovable or movable property and may do all other matters and things incidental or appertaining to a body corporate not inconsistent with the provisions of this Act and subject to such restrictions or limitations as may be prescribed by the Board in each case.
+
+<!-- marginal: Common seal of -->
+
+8. (1) Every corporation shall have a common seal which shall bear
+
+<!-- marginal: corporation -->
+
+such device as the corporation, with the approval of the Board, may approve and such seal may be broken, changed, altered or made anew as the corporation, with the approval of the Board, thinks fit.
 
 (2) Until a seal is provided by the corporation, a stamp bearing the name of the corporation encircling the letters "PP" may be used and shall be deemed to be the common seal of the corporation.
 

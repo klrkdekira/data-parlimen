@@ -26,6 +26,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ‘ “deposit-taking member” means a member institution that is an Islamic bank or a licensed bank;’;
 
+<!-- marginal: WJW005220 BI.indd 1 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 2 -->
@@ -51,6 +53,8 @@ ENACTED by the Parliament of Malaysia as follows:
 (ix) by substituting for the definition of “financial institution” the following definition:
 
 ‘ “financial institution” means a licensed bank, an Islamic bank, an insurance company or a takaful operator;’;
+
+<!-- marginal: WJW005220 BI.indd 2 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -82,6 +86,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ‘ “general policy” means a policy issued by an insurance company licensed under the Financial Services Act 2013 to carry on the business of general insurance;’;
 
+<!-- marginal: WJW005220 BI.indd 3 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 4 -->
@@ -105,6 +111,8 @@ ENACTED by the Parliament of Malaysia as follows:
 (xxii) by substituting for the definition of “insurance company” the following definition:
 
 ‘ “insurance company” means an insurer licensed to carry on insurance business under the Financial Services Act 2013, other than an insurer licensed to carry on solely reinsurance business and Danajamin Nasional Berhad;’;
+
+<!-- marginal: WJW005220 BI.indd 4 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -134,6 +142,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (b) “derivative” means any agreement, including an option, a swap, futures or forward contract, whose market price, value, delivery or payment obligations is derived from, referenced to or based on, but not
 
+<!-- marginal: WJW005220 BI.indd 5 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 6 -->
@@ -158,6 +168,8 @@ limited to, securities, commodities, assets, rates (including interest rates or 
 
 (C) the termination values of the transactions under subparagraph (i) are netted or may be netted, so that a net amount is payable,
 
+<!-- marginal: WJW005220 BI.indd 6 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 7 -->
@@ -176,7 +188,7 @@ and where an agreement is also in respect of one or more transactions that are n
 
 (i) a derivative or an Islamic derivative, whether to be settled by payment or delivery; or
 
-<!-- marginal: 10/15/15 9:23 AM -->
+<!-- marginal: WJW005220 BI.indd 7 -->
 
 <!-- page 8 -->
 
@@ -235,6 +247,8 @@ and where an agreement is also in respect of one or more transactions that are n
 ### the words “Lending of money or provision of financing”;
 
 and
+
+<!-- marginal: WJW005220 BI.indd 9 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -298,6 +312,8 @@ and
 
 (4) Notwithstanding subsection 120(1), this section does not apply to a bridge institution.”.
 
+<!-- marginal: WJW005220 BI.indd 11 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 12 -->
@@ -360,6 +376,8 @@ but excludes, unless it is otherwise specified by the Corporation under subparag
 
 (A) a deposit that is not payable in Malaysia;
 
+<!-- marginal: WJW005220 BI.indd 13 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 14 -->
@@ -387,6 +405,8 @@ but excludes, unless it is otherwise specified by the Corporation under subparag
 (b) in subsection (3) in the English language text, by substituting for the word “an” the word “a”; and
 
 (c) in paragraph (4)(a), by substituting for the words “trustee for another” the words “trustee for any beneficiary”.
+
+<!-- marginal: WJW005220 BI.indd 14 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -421,6 +441,8 @@ but excludes, unless it is otherwise specified by the Corporation under subparag
 (a) by substituting for subsection (2) the following subsection:
 
 “(2) The premium surcharge payable by a deposit-taking member under subsection (1) in any particular assessment year shall not exceed the premium
+
+<!-- marginal: WJW005220 BI.indd 15 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -486,6 +508,8 @@ payable by the deposit-taking member in respect of the preceding assessment year
 
 (i) in paragraph (c), by substituting for the words “takaful general certificates” the words “general takaful certificates”;
 
+<!-- marginal: WJW005220 BI.indd 17 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 18 -->
@@ -544,6 +568,8 @@ payable by the deposit-taking member in respect of the preceding assessment year
 
 (b) in respect of an insurer member carrying on the business of family takaful or life insurance, the annual levies to be paid by the insurer member shall be calculated on the basis set out in paragraph (c) and in such manner as the Corporation may specify;
 
+<!-- marginal: WJW005220 BI.indd 19 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 20 -->
@@ -559,6 +585,8 @@ payable by the deposit-taking member in respect of the preceding assessment year
 (2) For the avoidance of doubt, where the liability for takaful certificates or insurance policies of an insurer member is transferred to and assumed by another insurer member, the total net contributions or total net premiums received by the transferor insurer member in respect of that liability during the preceding assessment year shall be deemed to be received by the transferee insurer member during the preceding assessment year and the annual levies shall be paid by the transferee insurer member accordingly.
 
 (3) The levies payable by an insurer member shall be based on returns to be certified by the chief executive of the insurer member and submitted in such form and within such period as the Corporation may require.”.
+
+<!-- marginal: WJW005220 BI.indd 20 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -591,6 +619,8 @@ payable by the deposit-taking member in respect of the preceding assessment year
 (A) by inserting after the words “notifications,” the words “directives,”; and
 
 (B) by inserting after the word “protection” the word “system”; and
+
+<!-- marginal: WJW005220 BI.indd 21 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -656,6 +686,8 @@ payable by the deposit-taking member in respect of the preceding assessment year
 
 (ii) in the English language text, by substituting for the word “Corporation” the words “The Corporation”;
 
+<!-- marginal: WJW005220 BI.indd 23 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 24 -->
@@ -714,6 +746,8 @@ which shall be ascertained on such basis as may be prescribed by the Corporation
 
 “(4) If any of the conditions stipulated in subsections (2) and (3) is not fulfilled, the amount of the obligatory payment shall be based on the amount that would have been payable as a debt due to the certificate owner or policy owner on the date the takaful certificate or policy ceased to be in force as a refund of a portion of the takaful contribution or premium that is commensurate with the remaining period of the takaful certificate or policy.”.
 
+<!-- marginal: WJW005220 BI.indd 25 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 26 -->
@@ -756,9 +790,7 @@ which shall be ascertained on such basis as may be prescribed by the Corporation
 
 (ii) warrants or rights under any other instruments issued by the member institution that entitle the holders thereof to acquire shares in the member institution,
 
-to any person, other than the Corporation and any of the subsidiaries of the Corporation, pursuant to the provisions relating to compulsory transfer of shares in
-
-## Chapter 2a; or”;
+to any person, other than the Corporation and any of the subsidiaries of the Corporation, pursuant to the provisions relating to compulsory transfer of shares in Chapter 2a; or”;
 
 (b) by inserting after subsection (1) the following subsection:
 
@@ -769,6 +801,8 @@ to any person, other than the Corporation and any of the subsidiaries of the Cor
 (d) by inserting after subsection (6) the following subsection:
 
 “(7) Any exercise of the Corporation’s powers under this Part affecting any director, officer or employee of a member institution, including the removal of a director, officer or employee of the member institution or the variation or termination of the contract of service of any director, officer or employee of the member institution, shall be lawful and valid notwithstanding anything contained in any contract of service or other contract or agreement, whether express or implied, whether individual or collective, and whether or not
+
+<!-- marginal: WJW005220 BI.indd 27 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -782,9 +816,7 @@ made or provided for under any written law, and a person so removed from office 
 
 “(2a) Where the Corporation makes a transfer referred to in paragraph 99(1)(ga) or extinguishes the rights referred to in paragraph 128b(7)(b), a request for a review in accordance with the First Schedule is the sole means by which the amount of the consideration received or receivable in such transfer or the amount of the compensation received or receivable in respect of the rights so extinguished may be questioned, and no court may entertain any action, suit or proceeding seeking to question the amount of consideration or compensation.
 
-(2b) A transaction or series of transactions referred to in subsection 103(1) or a transfer referred to in paragraph 99(1)(ga) or an extinguishment of the rights referred to in paragraph 128b(7)(b) shall take effect despite any request for or any decision made in respect of the review under subsection
-
-(2) and subsection (2a).”.
+(2b) A transaction or series of transactions referred to in subsection 103(1) or a transfer referred to in paragraph 99(1)(ga) or an extinguishment of the rights referred to in paragraph 128b(7)(b) shall take effect despite any request for or any decision made in respect of the review under subsection (2) and subsection (2a).”.
 
 ### Amendment of section 106
 
@@ -828,6 +860,8 @@ made or provided for under any written law, and a person so removed from office 
 
 (c) in subsection (3), by substituting for the words “any agreement referred to in subsection (1)” the words “a qualified financial agreement”;
 
+<!-- marginal: WJW005220 BI.indd 29 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 30 -->
@@ -868,9 +902,7 @@ made or provided for under any written law, and a person so removed from office 
 
 ### New Chapter 2a of Part VII
 
-61. Part VII of the principal Act is amended by inserting after
-
-## Chapter 2 the following chapter:
+61. Part VII of the principal Act is amended by inserting after Chapter 2 the following chapter:
 
 “Chapter 2a
 
@@ -889,6 +921,8 @@ Provisions relating to Compulsory Transfer of Shares
 (d) “shares” includes capital instruments, warrants and rights under any other instruments issued by a member institution that entitle the holders thereof to acquire shares in the member institution;
 
 (e) “transfer date” means the date stated on a transfer order as the date on which any shares are transferred or are deemed to be transferred to the transferee.
+
+<!-- marginal: WJW005220 BI.indd 31 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -916,6 +950,8 @@ Provisions relating to Compulsory Transfer of Shares
 
 (a) the transfer to the transferee of all or any of the shares issued by the member institution;
 
+<!-- marginal: WJW005220 BI.indd 32 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 33 -->
@@ -935,6 +971,8 @@ Provisions relating to Compulsory Transfer of Shares
 (a) the transferor shall not be required to notify or obtain the approval of their shareholders or creditor in a general meeting or otherwise, or any governmental, regulatory or other authority whatsoever, or any other person thereby affected notwithstanding any contract, anything in the constituent documents of the transferor or anything in any law including without limitation the Companies Act 1965, the Financial Services Act 2013 and the Islamic Financial Services Act 2013;
 
 (b) the transferee shall not be required to make a take-over offer or be required to acquire the shares of other shareholders of the member institution or the shares of borrowers under any borrowing and lending arrangements for shares, notwithstanding any contract or anything in any law; and
+
+<!-- marginal: WJW005220 BI.indd 33 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -958,6 +996,8 @@ Provisions relating to Compulsory Transfer of Shares
 
 (c) appoint any person as a director, officer or employee of the member institution subject to such terms and conditions as the Corporation may specify.
 
+<!-- marginal: WJW005220 BI.indd 34 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 35 -->
@@ -979,6 +1019,8 @@ Provisions relating to Compulsory Transfer of Shares
 (9) This Chapter shall have full force and effect notwithstanding—
 
 (a) anything contained in any law relating to shares and directors, officers and employees of the member institution including the law by or under which the member institution is constituted, established, incorporated or registered; or
+
+<!-- marginal: WJW005220 BI.indd 35 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -1006,6 +1048,8 @@ Provisions relating to Compulsory Transfer of Shares
 
 (b) “family takaful business” means the business relating to the administration, management and operation of a takaful arrangement under a family takaful certificate.”.
 
+<!-- marginal: WJW005220 BI.indd 36 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 37 -->
@@ -1032,6 +1076,8 @@ Provisions relating to Compulsory Transfer of Shares
 
 (2) The takaful operator’s assets and liabilities referred to in subsection (1) are the assets and liabilities of the takaful fund and of the shareholders’ fund.
 
+<!-- marginal: WJW005220 BI.indd 37 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 38 -->
@@ -1057,6 +1103,8 @@ and the High Court may reduce the liabilities to the extent necessary taking int
 (3) The liquidator may, for the purpose of a transfer under paragraph (1)(b), apply to the High Court for an order to reduce—
 
 (a) the amount of liabilities under life policies of the insurance company; or
+
+<!-- marginal: WJW005220 BI.indd 38 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -1090,6 +1138,8 @@ and the High Court may reduce the liabilities to the extent necessary taking int
 
 134. In the winding up of a deposit-taking member, the assets of the deposit-taking member shall be available to meet all liabilities of that deposit-taking member in respect of all deposits in Malaysia in priority to all other unsecured liabilities of that deposit-taking member in Malaysia other
 
+<!-- marginal: WJW005220 BI.indd 39 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 40 -->
@@ -1116,6 +1166,8 @@ than the preferential debts set out in subsection 292(1) of the Companies Act 19
 
 (i) shall not be subject to the debts of the deposit-taking member except in respect of its Islamic banking business or as provided in paragraph (b); and
 
+<!-- marginal: WJW005220 BI.indd 40 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 41 -->
@@ -1131,6 +1183,8 @@ than the preferential debts set out in subsection 292(1) of the Companies Act 19
 ### member that is an Islamic bank
 
 134b. (1) In the winding up of a deposit-taking member that is an Islamic bank in or outside Malaysia, the assets of the deposit-taking member shall be available to meet all liabilities of that deposit-taking member in respect of its Islamic deposits in Malaysia in priority to all other unsecured liabilities of that deposit-taking member other than the preferential debts set out in subsection 292(1) of the Companies Act 1965 in the order set out in that subsection and the debts due and
+
+<!-- marginal: WJW005220 BI.indd 41 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -1180,6 +1234,8 @@ claims owing to the Government under section 10 of the Government Proceedings Ac
 
 (c) pursuant to subparagraph (b)(ii), where the assets of the shareholders’ fund are in surplus, the surplus assets shall be applied to meet the liabilities of any takaful fund which is in deficit, and if the surplus assets are applied to meet the liabilities of two or
 
+<!-- marginal: WJW005220 BI.indd 43 -->
+
 <!-- marginal: 10/15/15 9:24 AM -->
 
 <!-- page 44 -->
@@ -1198,6 +1254,8 @@ more takaful funds the assets of which are in deficit, such surplus assets shall
 
 (b) where the assets of an insurance fund, other than a life fund relating to participating life policies, exceed its liabilities, the surplus assets may be applied to meet the liabilities of its other insurance funds which are deficient and if the surplus assets of two or more insurance funds are applied, the surplus assets shall be applied proportionately to the amounts of the surpluses and if the surplus assets are applied to meet the liabilities of two or more insurance funds which are in deficit, the surplus assets shall be applied proportionately to the amounts of the deficiencies;
 
+<!-- marginal: WJW005220 BI.indd 44 -->
+
 <!-- marginal: 10/15/15 9:24 AM -->
 
 <!-- page 45 -->
@@ -1213,6 +1271,8 @@ more takaful funds the assets of which are in deficit, such surplus assets shall
 142c. (1) In the winding up of a takaful operator, including a former insurer member the membership of which has been cancelled under section 38 or terminated under section 39 and whether its shareholders’ fund or any takaful fund managed by it is insolvent or not, the value of the assets and liabilities of the shareholders’ fund and takaful fund, including liabilities in respect of takaful certificates, shall be ascertained on such basis as the Corporation may determine and the law relating to bankruptcy or insolvency shall not apply to the valuation of the liabilities.
 
 (2) In the winding up of an insurance company, including a former insurer member the membership of which has been cancelled under section 38 or terminated under section 39 and whether it is insolvent or not, the value of its assets and liabilities, including liabilities in respect of policies, shall be ascertained on such basis as the Corporation may determine and the law relating to bankruptcy or insolvency shall not apply to the valuation of the liabilities.”.
+
+<!-- marginal: WJW005220 BI.indd 45 -->
 
 <!-- marginal: 10/15/15 9:24 AM -->
 
@@ -1290,6 +1350,8 @@ more takaful funds the assets of which are in deficit, such surplus assets shall
 
 (a) by substituting for the words “any fee or premium” wherever appearing the words “any fee, premium or levy”;
 
+<!-- marginal: WJW005220 BI.indd 47 -->
+
 <!-- marginal: 10/15/15 9:24 AM -->
 
 <!-- page 48 -->
@@ -1354,6 +1416,8 @@ more takaful funds the assets of which are in deficit, such surplus assets shall
 
 “(2a) If a person is a counterparty to two or more qualified financial transactions under a qualified financial agreement with the same affected person, the conservator may only transfer to a bridge institution or qualified third party all or none of the qualified financial transactions between the affected person and that person.”; and
 
+<!-- marginal: WJW005220 BI.indd 49 -->
+
 <!-- marginal: 10/15/15 9:24 AM -->
 
 <!-- page 50 -->
@@ -1401,6 +1465,8 @@ more takaful funds the assets of which are in deficit, such surplus assets shall
 (2) No application for the winding up of a member institution may be presented to the High Court by any person, other than by the Corporation, without the prior written approval of Bank Negara Malaysia.
 
 (3) This section applies to a former member institution the membership of which has been cancelled or terminated under this Act.”.
+
+<!-- marginal: WJW005220 BI.indd 51 -->
 
 <!-- marginal: 10/15/15 9:24 AM -->
 
@@ -1464,6 +1530,8 @@ pursuant to the exercise of any powers under this Act.”.
 
 ‘ “consideration”, in relation to a transfer of shares referred to in paragraph 99(1)(ga), means a net amount paid or payable to the transferor in respect of the shares issued by a member institution that are transferred pursuant to a transfer order issued under section 128b;’;
 
+<!-- marginal: WJW005220 BI.indd 53 -->
+
 <!-- marginal: 10/15/15 9:24 AM -->
 
 <!-- page 54 -->
@@ -1493,6 +1561,8 @@ pursuant to the exercise of any powers under this Act.”.
 ‘ “shares” shall, except for subparagraph 4(3), include capital instruments, warrants and rights under any other instruments issued by a member institution that entitle the holders thereof to acquire shares in the member institution;’;.
 
 (b) in subparagraph 2(3), by substituting for the word “prescribed” the word “determined”;
+
+<!-- marginal: WJW005220 BI.indd 54 -->
 
 <!-- marginal: 10/15/15 9:24 AM -->
 
@@ -1526,6 +1596,8 @@ pursuant to the exercise of any powers under this Act.”.
 
 (iii) in subparagraphs (7) and (8) in the national language text, by substituting for the words “Jawatankuasa itu” the words “Jawatankuasa Pentaksir itu”; and
 
+<!-- marginal: WJW005220 BI.indd 55 -->
+
 <!-- marginal: 10/15/15 9:24 AM -->
 
 <!-- page 56 -->
@@ -1550,6 +1622,8 @@ and in all cases the Assessor Committee shall deduct the value of the benefit de
 
 (a) the consideration is less than the amount that in its opinion is the reasonable amount for the shares transferred (referred to in this subparagraph as the “reasonable amount”), the Assessor Committee shall advise the Corporation to pay to the transferor the difference between the consideration and the reasonable amount and the Corporation shall within such period as may be specified by the Assessor Committee pay such difference to the transferor; or
 
+<!-- marginal: WJW005220 BI.indd 56 -->
+
 <!-- marginal: 10/15/15 9:24 AM -->
 
 <!-- page 57 -->
@@ -1567,6 +1641,8 @@ and in all cases the Assessor Committee shall deduct the value of the benefit de
 (6) If the Assessor Committee decides that it is just and reasonable that interest or other return be paid on an amount payable under subsubparagraph (3)(a) or (4)(a), such interest or return shall be paid by the Corporation at the rate or in the amount determined by the Assessor Committee to be just and reasonable within such period as may be specified by the Assessor Committee.
 
 (7) If the Assessor Committee decides that it is just and reasonable that costs of the proceeding before the Assessor Committee be awarded to one party
+
+<!-- marginal: WJW005220 BI.indd 57 -->
 
 <!-- marginal: 10/15/15 9:24 AM -->
 
@@ -1616,6 +1692,8 @@ This Bill seeks to amend the Malaysia Deposit Insurance Corporation Act 2011 (�
 
 10. Clause 10 seeks to amend paragraphs 28(1)(c), (d), (e) and (f) of Act 720 to reflect that the amount received by the Corporation from insurer members in respect of the Takaful and Insurance Benefits Protection System is referred to as “levies”.
 
+<!-- marginal: WJW005220 BI.indd 59 -->
+
 <!-- marginal: 10/15/15 9:24 AM -->
 
 <!-- page 60 -->
@@ -1658,6 +1736,8 @@ This Bill seeks to amend the Malaysia Deposit Insurance Corporation Act 2011 (�
 
 27. Clause 37 seeks to amend subsection 72(1) of Act 720 to enable the Corporation to specify the annual due date for payment of annual levies adminitratively.
 
+<!-- marginal: WJW005220 BI.indd 61 -->
+
 <!-- marginal: 10/15/15 9:24 AM -->
 
 <!-- page 62 -->
@@ -1686,11 +1766,7 @@ This Bill seeks to amend the Malaysia Deposit Insurance Corporation Act 2011 (�
 
 37. Clause 60 seeks to amend section 127 of Act 720 to clarify that the provision also applies to Shariah compliant financing.
 
-38. Clause 61 introduces new sections 128a, 128b, 128c and 128d in a new
-
-## Chapter 2a in Part VII of Act 720 which sets out the provisions relating to
-
-the Corporation’s powers to require a compulsory transfer of shares issued by a member institution under paragraph 99(1)(ga).
+38. Clause 61 introduces new sections 128a, 128b, 128c and 128d in a new Chapter 2a in Part VII of Act 720 which sets out the provisions relating to the Corporation’s powers to require a compulsory transfer of shares issued by a member institution under paragraph 99(1)(ga).
 
 39. Clauses 74, 75, 76, 77, 80, 81, 82 and 84 seek to amend sections 145, 146, 149, 150, 153, 154, 155 and 157 of Act 720 to clarify that those provisions are not limited in application to corporations.
 
@@ -1711,5 +1787,7 @@ the Corporation’s powers to require a compulsory transfer of shares issued by 
 ## FINANCIAL IMPLICATIONS
 
 This Bill will not involve the Government in any extra financial expenditure.
+
+<!-- marginal: WJW005220 BI.indd 63 -->
 
 <!-- marginal: 10/15/15 9:24 AM -->

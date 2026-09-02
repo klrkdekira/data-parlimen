@@ -226,7 +226,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14",
       "schema:text": {
         "@language": "en",
-        "@value": "in paragraph 6— to the meeting mentioned in paragraph 2 shall be summoned by the Director General of Insolvency”; and"
+        "@value": "in paragraph 6—"
       }
     },
     {
@@ -236,7 +236,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_e",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for the words “Meetings subsequent to the first meeting shall be summoned” the words “Any meeting of creditors subsequent"
+        "@value": "by substituting for the words “Meetings subsequent to the first meeting shall be summoned” the words “Any meeting of creditors subsequent to the meeting mentioned in paragraph 2 shall be summoned by the Director General of Insolvency”; and"
       }
     },
     {
@@ -260,7 +260,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14",
       "schema:text": {
         "@language": "en",
-        "@value": "in paragraph 7— Application of paragraphs 33b(2a)(e) and (f) to person adjudged bankrupt before the coming into operation of this Act"
+        "@value": "in paragraph 7—"
       }
     },
     {
@@ -280,7 +280,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_f",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for the words “subsequent meeting” the words “meeting of creditors”."
+        "@value": "by substituting for the words “subsequent meeting” the words “meeting of creditors”. Application of paragraphs 33b(2a)(e) and (f) to person adjudged bankrupt before the coming into operation of this Act"
       }
     },
     {
@@ -583,7 +583,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_8",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (2a)— “(e) a bankrupt who is incapable of managing himself and his affairs due to any mental disorder, as certified by a psychiatrist from any government hospital; and (f) a bankrupt aged seventy years and above and in the opinion of the Director General of Insolvency, is incapable of contributing to the administration of his estate.”; and"
+        "@value": "in subsection (2a)—"
       }
     },
     {
@@ -613,7 +613,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_8__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (d) the following paragraphs:"
+        "@value": "by inserting after paragraph (d) the following paragraphs: “(e) a bankrupt who is incapable of managing himself and his affairs due to any mental disorder, as certified by a psychiatrist from any government hospital; and (f) a bankrupt aged seventy years and above and in the opinion of the Director General of Insolvency, is incapable of contributing to the administration of his estate.”; and"
       }
     },
     {
@@ -639,9 +639,7 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_f",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_g",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_h",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_i",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_ii",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_iii"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_i"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@",
       "schema:name": {
@@ -683,7 +681,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (2)— “For the purposes of subparagraph (1)(a)(i), in determining the sum of money to be paid by the bankrupt,”; “(g) the debt provable in bankruptcy.”;"
+        "@value": "in subsection (2)—"
       }
     },
     {
@@ -693,7 +691,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_c",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for the words “Contribution of the bankrupt’s provable debt referred to in paragraph (1)(a) shall be determined by the Director General of Insolvency and” the words"
+        "@value": "by substituting for the words “Contribution of the bankrupt’s provable debt referred to in paragraph (1)(a) shall be determined by the Director General of Insolvency and” the words “For the purposes of subparagraph (1)(a)(i), in determining the sum of money to be paid by the bankrupt,”;"
       }
     },
     {
@@ -733,7 +731,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_c",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (f) the following paragraph:"
+        "@value": "by inserting after paragraph (f) the following paragraph: “(g) the debt provable in bankruptcy.”;"
       }
     },
     {
@@ -825,6 +823,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_i",
       "@type": "akn:paragraph",
       "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_i__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_i__subpara_iii"
+      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9",
       "schema:text": {
         "@language": "en",
@@ -832,20 +834,20 @@
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_ii",
-      "@type": "akn:paragraph",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_i__subpara_ii",
+      "@type": "akn:subparagraph",
       "eli:number": "ii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_i",
       "schema:text": {
         "@language": "en",
         "@value": "in paragraph (b), by substituting for the full stop at the end of the paragraph the words “; or ”; and"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_iii",
-      "@type": "akn:paragraph",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_i__subpara_iii",
+      "@type": "akn:subparagraph",
       "eli:number": "iii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_i",
       "schema:text": {
         "@language": "en",
         "@value": "by inserting after paragraph (b) the following paragraph: “(c) on the expiration of the period referred to in paragraph (8c)(b).”. Amendment of section 48"

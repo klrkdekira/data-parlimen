@@ -4,19 +4,19 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation 3. Meaning of “business” 4. Meaning of “supply”
 
-## Part II
+## PART II
 
 ## ADMINISTRATION
 
 5. Director General and other officers and their responsibilities 6. Recognition of office 7. Public servants 8. Confidentiality of information
 
-## Part III
+## PART III
 
 ## IMPOSITION AND SCOPE OF TAX
 
@@ -42,7 +42,7 @@
 
 <!-- page 2 -->
 
-## Part IV
+## PART IV
 
 ## REGISTRATION
 
@@ -74,7 +74,7 @@
 
 32. Exemption from registration for persons making or intending to make zero-rated supply
 
-## Part V
+## PART V
 
 ## ACCOUNTING, ASSESSMENT, RECOVERY, ETC.
 
@@ -122,7 +122,7 @@
 
 53. Liability of directors, etc.
 
-## Part VI
+## PART VI
 
 ## FUND FOR GOODS AND SERVICES TAX REFUND
 
@@ -130,7 +130,7 @@
 
 55. Non-applicability of section 14a of the Financial Procedure Act 1957
 
-## Part VII
+## PART VII
 
 ## RELIEF, REFUND AND REMISSION
 
@@ -180,7 +180,7 @@
 
 75. Capital markets
 
-## Part IX
+## PART IX
 
 ## GOODS AND SERVICES TAX RULING
 
@@ -212,7 +212,7 @@
 
 87. Power of arrest
 
-## Part XI
+## PART XI
 
 ## OFFENCES AND PENALTIES
 
@@ -240,7 +240,7 @@
 
 98. Tax, etc., to be payable notwithstanding any proceedings, etc.
 
-## Part XII
+## PART XII
 
 ## TRIALS AND PROCEEDINGS
 
@@ -362,7 +362,7 @@
 
 153. Act or omission done in good faith
 
-## Part XIV
+## PART XIV
 
 ## DESIGNATED AREAS
 
@@ -380,7 +380,7 @@
 
 160. Power of Minister to impose tax
 
-## Part XV
+## PART XV
 
 ## FREE COMMERCIAL ZONE
 
@@ -390,7 +390,7 @@
 
 163. Supply of goods made within free commercial zone
 
-## Part XVI
+## PART XVI
 
 ## MISCELLANEOUS
 
@@ -442,7 +442,7 @@
 
 182. Furnishing of return for the last taxable period
 
-## Part XIX
+## PART XIX
 
 ## TRANSITIONAL PROVISIONS
 
@@ -476,7 +476,15 @@
 
 196. Supplies from machine operated by coins, token, etc.
 
-197. Things done in anticipation of the enactment of this Act First s chedule second s chedule third s chedule F ourth s chedule
+197. Things done in anticipation of the enactment of this Act
+
+## FIRST S CHEDULE
+
+## SECOND S CHEDULE
+
+## THIRD S CHEDULE
+
+## F OURTH S CHEDULE
 
 <!-- page 11 -->
 
@@ -488,7 +496,7 @@ An Act to provide for the imposition and collection of goods and services tax an
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -684,7 +692,7 @@ tax on the supply and importation shall be apportioned so that only so much as i
 
 (5) Any order made under subsection (4) shall be laid before the Dewan Rakyat.
 
-## Part II
+## PART II
 
 ## ADMINISTRATION
 
@@ -736,7 +744,7 @@ commits an offence.
 
 (5) Notwithstanding subsection (4), the Minister may, as he deems fit, allow the Director General to transmit or communicate any document, information, return or declaration referred to in subsection (1) or anything contained therein to any other person.
 
-## Part III
+## PART III
 
 ## IMPOSITION AND SCOPE OF TAX
 
@@ -958,7 +966,7 @@ the tax that would have been chargeable on the supply but for the zero-rating sh
 
 <!-- page 31 -->
 
-## Part IV
+## PART IV
 
 ## REGISTRATION
 
@@ -1306,7 +1314,7 @@ the Director General may deem any personal representative carrying on the busine
 
 <!-- page 46 -->
 
-## Part V
+## PART V
 
 ## ACCOUNTING, ASSESSMENT, RECOVERY, ETC.
 
@@ -1840,7 +1848,7 @@ as the case may be, shall together with the company, limited liability partnersh
 
 (2) In relation to a company that is being wound up, the directors of the company shall only be liable where the assets of the company are insufficient to meet the amount due, after paying any sums having priority under the Companies Act 1965 [Act 125] in relation to the application of the assets of the company in the winding-up over the tax, surcharge, penalty, fee or any other money.
 
-## Part VI
+## PART VI
 
 ## FUND FOR GOODS AND SERVICES TAX REFUND
 
@@ -1864,7 +1872,7 @@ as the case may be, shall together with the company, limited liability partnersh
 
 <!-- page 68 -->
 
-## Part VII
+## PART VII
 
 ## RELIEF, REFUND AND REMISSION
 
@@ -2416,7 +2424,7 @@ Provided that the holder of a Capital Markets Services Licence is a taxable pers
 
 (b) “Capital Markets Services Representative’s Licence” has the meaning assigned to it in of the Capital Markets and Services Act 2007.
 
-## Part IX
+## PART IX
 
 ## GOODS AND SERVICES TAX RULING
 
@@ -2466,7 +2474,7 @@ Provided that the holder of a Capital Markets Services Licence is a taxable pers
 
 79. A ruling shall not apply from the date a provision of this Act is amended or repealed to the extent that the amendment or repeal changes the way the provision applies in the ruling.
 
-## Part X
+## PART X
 
 ## ENFORCEMENT
 
@@ -2644,7 +2652,7 @@ Provided that—
 
 (b) on being notified in writing by the surety of the person that the person is likely to breach any condition on or subject to which the person was released and that the surety wishes to be relieved of his obligation as surety.
 
-## Part XI
+## PART XI
 
 ## OFFENCES AND PENALTIES
 
@@ -2826,7 +2834,7 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding f
 
 98. The institution of proceedings or the imposition of a penalty, fine or term of imprisonment under this Act or the compounding of an offence under section 121 shall not relieve any person from the liability to pay for tax, penalty or surcharge under this Act.
 
-## Part XII
+## PART XII
 
 ## TRIALS AND PROCEEDINGS
 
@@ -3450,7 +3458,7 @@ for any act or omission done in good faith in the performance of its or his func
 
 <!-- page 131 -->
 
-## Part XIV
+## PART XIV
 
 ## DESIGNATED AREAS
 
@@ -3498,7 +3506,7 @@ for any act or omission done in good faith in the performance of its or his func
 
 (2) Any order made under subsection (1) shall be laid before the Dewan Rakyat.
 
-## Part XV
+## PART XV
 
 ## FREE COMMERCIAL ZONE
 
@@ -3530,7 +3538,7 @@ for any act or omission done in good faith in the performance of its or his func
 
 (2) Any order made under subsection (1) shall be laid before the Dewan Rakyat.
 
-## Part XVI
+## PART XVI
 
 ## MISCELLANEOUS
 
@@ -3832,7 +3840,7 @@ Provided that the Director General may, at his discretion and subject to such co
 
 (3) For the purposes of this section, “last taxable period” means the period of two calendar months or part of it ending on the effective date.
 
-## Part XIX
+## PART XIX
 
 ## TRANSITIONAL PROVISIONS
 
@@ -4094,7 +4102,7 @@ of a civil engineering work by the supplier, and the goods or construction servi
 
 <!-- page 155 -->
 
-First s chedule
+## FIRST S CHEDULE
 
 [Section 4]
 
@@ -4190,7 +4198,7 @@ is a supply of goods.
 
 6. Subject to subparagraph 5(3), where a supply of services is made not for a consideration by a taxable person to a connected person as referred to in the Third Schedule, the supply to the connected person is a supply of services.
 
-second s chedule
+## SECOND S CHEDULE
 
 [Section 4] MATTERS TO bE TREATED AS NEITHER A SUPPLY OF GOODS NOR
 
@@ -4234,7 +4242,7 @@ of any existing business, as that carried on by the transferor or where the supp
 
 <!-- page 159 -->
 
-third s chedule
+## THIRD S CHEDULE
 
 [Section 15]
 
@@ -4350,7 +4358,7 @@ where A is the total amount received for the supply less any tax or duty under a
 
 (2) Where the value of supply determined under paragraph (1) is negative, such value shall be treated as nil.
 
-Fourth s chedule
+## FOURTH S CHEDULE
 
 [Section 127]
 
@@ -4728,9 +4736,7 @@ Clause 122 seeks to provide for the court to order a person to pay to the Direct
 
 14. Part XIII deals with review and appeal matters.
 
-Clause 123 contains the definitions of the words and expressions used in
-
-## Part XIII of the proposed Act.
+Clause 123 contains the definitions of the words and expressions used in Part XIII of the proposed Act.
 
 Clause 124 seeks to allow the Director General to review a decision made and make a final decision within a stipulated time.
 

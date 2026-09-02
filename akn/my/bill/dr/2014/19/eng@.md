@@ -4,7 +4,7 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Chapter I
+## CHAPTER I
 
 ## PRELIMINARY
 
@@ -12,7 +12,7 @@
 
 2. Amendment of Acts
 
-## Chapter II
+## CHAPTER II
 
 AMENdMENTS TO ThE INCOME TAx ACT 1967
 
@@ -60,7 +60,7 @@ AMENdMENTS TO ThE INCOME TAx ACT 1967
 
 <!-- page 2 -->
 
-## Chapter III
+## CHAPTER III
 
 AMENdMENTS TO ThE PETROLEUM (INCOME TAx) ACT 1967
 
@@ -70,7 +70,7 @@ AMENdMENTS TO ThE PETROLEUM (INCOME TAx) ACT 1967
 
 26. Amendment of section 49a
 
-## Chapter IV
+## CHAPTER IV
 
 AMENdMENTS TO ThE REAL PROPERTY GAINS TAx ACT 1976
 
@@ -90,7 +90,7 @@ An Act to amend the Income Tax Act 1967, the Petroleum (Income Tax) Act 1967 and
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Chapter I
+## CHAPTER I
 
 ## PRELIMINARY
 
@@ -104,7 +104,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 4 -->
 
-## Chapter II
+## CHAPTER II
 
 AMENdMENTS TO ThE INCOME TAx ACT 1967
 
@@ -522,7 +522,7 @@ exceeding
 
 <!-- page 17 -->
 
-## Chapter iii
+## CHAPTER III
 
 AMENdMENTS TO ThE PETROLEUM (INCOME TAx) ACT 1967
 
@@ -544,7 +544,7 @@ AMENdMENTS TO ThE PETROLEUM (INCOME TAx) ACT 1967
 
 26. Subsection 49a(16) of the principal Act is amended in the definition of “due date” by substituting for the word “tenth” the word “fifteenth”.
 
-## Chapter iV
+## CHAPTER IV
 
 AMENdMENTS TO ThE REAL PROPERTY GAINS TAx ACT 1976
 
@@ -588,7 +588,7 @@ This Bill seeks to amend the Income Tax Act 1967 (“Act 53”), the Petroleum (
 
 AMENdMENTS TO ThE INCOME TAx ACT 1967
 
-## Chapter II of this Bill seeks to amend the Income Tax Act 1967.
+Chapter II of this Bill seeks to amend the Income Tax Act 1967.
 
 1. Clause 4 seeks to redraft the proviso to subsection 5(1) of Act 53 as new subsection 5(1a). The new subsection 5(1a) also provides that any amount received by a person which is subject to tax under section 109g of Act 53 shall be excluded for the purpose of ascertaining his chargeable income. Currently, only the income which is subject to tax under section 109C or 109e of Act 53 is excluded.
 
@@ -770,7 +770,7 @@ These amendments have effect for the year of assessment 2015 and for subsequent 
 
 AMENdMENTS TO ThE PETROLEUM (INCOME TAx) ACT 1967
 
-## Chapter III of this Bill seeks to amend the Petroleum (Income Tax) Act
+Chapter III of this Bill seeks to amend the Petroleum (Income Tax) Act
 
 1967.
 
@@ -784,7 +784,7 @@ This amendment comes into operation on 1 January 2015.
 
 AMENdMENTS TO ThE REAL PROPERTY GAINS TAx ACT 1976
 
-## Chapter IV of this Bill seeks to amend the Real Property Gains Tax Act
+Chapter IV of this Bill seeks to amend the Real Property Gains Tax Act
 
 1976.
 

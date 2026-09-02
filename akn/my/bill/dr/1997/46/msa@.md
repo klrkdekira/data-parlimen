@@ -18,27 +18,13 @@
 
 ## PERMULAAN
 
-1. Tajuk ringkas.
-
-2. Pindaan Akta.
+1. Tajuk ringkas. 2. Pindaan Akta.
 
 ## BAB II
 
 ## PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967
 
-3. Mula berkuatkuasanya pindaan kepada Akta Cukai Pendapatan 1967.
-
-4. Pemotongan seksyen 3c.
-
-5. Pindaan seksyen 6A.
-
-6. Seksyen baru 6c.
-
-7. Pindaan seksyen 25.
-
-8. Pindaan seksyen 27.
-
-9. Pindaan seksyen 34.
+3. Mula berkuatkuasanya pindaan kepada Akta Cukai Pendapatan 1967. 4. Pemotongan seksyen 3c. 5. Pindaan seksyen 6A. 6. Seksyen baru 6c. 7. Pindaan seksyen 25. 8. Pindaan seksyen 27. 9. Pindaan seksyen 34.
 
 10. Pindaan seksyen 39.
 
@@ -58,11 +44,7 @@
 
 <!-- page 2 -->
 
-2 Rang Undang-Undang
-
-18. Pindaan seksyen 120.
-
-19. Pindaan Jadual 1.
+2 Rang Undang-Undang 18. Pindaan seksyen 120. 19. Pindaan Jadual 1.
 
 20. Pindaan Jadual 3.
 
@@ -106,19 +88,13 @@
 
 ## PINDAAN KEPADA AKTA SETEM 1949
 
-33. Mula berkuatkuasanya pindaan kepada Akta Setem 1949.
-
-34. Pindaan seksyen 55.
+33. Mula berkuatkuasanya pindaan kepada Akta Setem 1949. 34. Pindaan seksyen 55.
 
 ## BAB VI
 
 ## PINDAAN KEPADA AKTA CUKAI JUALAN 1972
 
-35. Mula berkuatkuasanya pindaan kepada Akta Cukai Jualan
-
-1972.
-
-36. Pindaan seksyen 14.
+35. Mula berkuatkuasanya pindaan kepada Akta Cukai Jualan 1972. 36. Pindaan seksyen 14.
 
 <!-- page 3 -->
 
@@ -264,19 +240,23 @@ berikutnya.
 
 ### taksiran 1999 dan tahun-tahun taksiran yang berikutnya.
 
-Pemolongan
+<!-- marginal: Pemolongan -->
 
-4. Akta Cukai Pendapatan 1967, yang disebut "Akta seksyen 3c.
+4. Akta Cukai Pendapatan 1967, yang disebut "Akta
+
+<!-- marginal: seksyen 3c. -->
 
 ### ibu" dalam Bab ini, adalah dipinda dengan memotong
 
-Akta 53.
+<!-- marginal: Akta 53. -->
 
 ### seksyen 3c.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-5. Seksyen 6A Akta ibu adalah dipinda— seksyen 6A.
+5. Seksyen 6A Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 6A. -->
 
 (a) dalam subseksyen (1) dengan menggantikan
 
@@ -348,7 +328,11 @@ Provided that where the rebate exceeds the income tax charged (before any such r
 
 menggantikan perkataan "nine" di mana jua terdapat dengan perkataan "five"; dan
 
-(c) dalam perenggan (4)(b) dan (4)(c) dan subseksyen (5) dengan menggantikan perkataan "eleven" di mana jua terdapat dengan perkataan "five".
+(c) dalam perenggan (4)(b) dan
+
+<!-- marginal: (4)(c) dan -->
+
+subseksyen (5) dengan menggantikan perkataan "eleven" di mana jua terdapat dengan perkataan "five".
 
 <!-- marginal: Pindaan -->
 
@@ -362,9 +346,11 @@ menggantikan perkataan "nine" di mana jua terdapat dengan perkataan "five"; dan
 
 (b) dalam subseksyen (3) dengan menggantikan perkataan "eleven" di mana jua terdapat dengan perkataan "five".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-9. Seksyen 34 Akta ibu adalah dipinda— seksyen 34.
+9. Seksyen 34 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 34. -->
 
 (a) dalam perenggan (4)(a) dengan menggantikan perkataan "seventeen" dengan perkataan "nineteen";
 
@@ -378,15 +364,23 @@ Pindaan
 
 Provided that the amount deducted shall not exceed two hundred thousand ringgit".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-10. Subseksyen 39(1) Akta ibu adalah dipinda dengan seksyen 39. memasukkan selepas perenggan (g) perenggan yang berikut:
+10. Subseksyen 39(1) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 39. -->
+
+memasukkan selepas perenggan (g) perenggan yang
+
+<!-- marginal: berikut: -->
 
 "(h) any sum paid by way of a bonus to an employee in excess of two twelfths of his wages or salary;".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-11. Seksyen 44 Akta ibu adalah dipinda— seksyen 44.
+11. Seksyen 44 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 44. -->
 
 (a) dengan menggantikan perenggan (l)(d) dengan perenggan yang berikut:
 
@@ -400,17 +394,27 @@ Kewangan (No.2)
 
 (c) dengan memasukkan selepas subseksyen (8) subseksyen yang berikut:
 
-"(9) There shall be deducted pursuant to this subsection from the aggregate income of a relevant person who is an individual for the relevant year reduced by any deduction for that year in accordance with subsection (1) an amount equal to any gift of money or contribution in kind (the value to be determined by the relevant local authority) made by him in the basis year for that year for the provision of facilities in public places for the benefit of disabled persons.
+"(9) There shall be deducted pursuant to this subsection from the aggregate income of a relevant person who is an individual for the relevant year reduced by any deduction for that year in accordance with subsection
 
-(10) There shall be deducted pursuant to this subsection from the aggregate income of a relevant person who is an individual for the relevant year reduced by any deduction for that year in accordance with subsection (1) an amount equal to any gift of money or the cost or value (as certified by the Ministry of Health) of any gift of medical equipment made by him in the basis year for that year to any healthcare facility approved by that Ministry, and that amount shall not exceed twenty thousand ringgit,
+(1) an amount equal to any gift of money or contribution in kind (the value to be determined by the relevant local authority) made by him in the basis year for that year for the provision of facilities in public places for the benefit of disabled persons.
+
+(10) There shall be deducted pursuant to this subsection from the aggregate income of a relevant person who is an individual for the relevant year reduced by any deduction for that year in accordance with subsection
+
+(1) an amount equal to any gift of money or the cost or value (as certified by the Ministry of Health) of any gift of medical equipment made by him in the basis year for that year to any healthcare facility approved by that Ministry, and that amount shall not exceed twenty thousand ringgit,
 
 (11) There shall be deducted pursuant to this subsection from the aggregate income of a relevant person for the relevant year reduced by any deduction for that year in accordance with subsection (1) an amount equal to the value of any gift of painting (to be determined by the National Art Gallery or any state art gallery) made by him in the basis year for that year to the National Art Gallery or any state art gallery.".
 
 <!-- page 10 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-12. Seksyen 48 Akta ibu adalah dipinda dengan seksyen 48. menggantikan perenggan (3)(a) dengan perenggan yang berikut:
+12. Seksyen 48 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 48. -->
+
+menggantikan perenggan (3)(a) dengan perenggan yang
+
+<!-- marginal: berikut: -->
 
 "(3) (a) in respect of a child over the age of eighteen years and is receiving instruction at any educational establishment mentioned therein or is serving under articles or indentures with a view to qualifying in a trade or profession (in this subsection referred to as receiving further education) but not including a child receiving instruction at any school, then, if that individual satisfies the Director General that he has directly expended in that basis year for that year of assessment a sum or sums exceeding the ordinary deduction on the maintenance of that child or in making any payment in connection with that child's further education, there shall be allowed in substitution for the ordinary deduction, a deduction equal to the total sum or sums so expended but not exceeding—
 
@@ -424,11 +428,9 @@ Pindaan
 
 receiving further education in a place outside Malaysia beginning from 1 January 1994 to 16 October 1997.".
 
-<!-- marginal: Pindaan -->
+Pindaan
 
-13. Seksyen 60 Akta ibu adalah dipinda—
-
-<!-- marginal: seksyen 60. -->
+13. Seksyen 60 Akta ibu adalah dipinda— seksyen 60.
 
 (a) dengan menggantikan noktah di hujung perenggan (2)(c) dengan noktah bertindih;
 
@@ -476,7 +478,11 @@ and where any risk is in transit in Malaysia it shall be deemed to be outside Ma
 
 "inward re-insurance contract" means a Malaysian policy in respect of inward re- insurance;
 
-"life business" has the same meaning assigned Act 553. thereto under section 2 of the Insurance Act 1996;
+"life business" has the same meaning assigned
+
+<!-- marginal: Act 553. -->
+
+thereto under section 2 of the Insurance Act 1996;
 
 "life policy" has the same meaning assigned thereto under section 2 of the Insurance Act 1996;
 
@@ -538,9 +544,11 @@ and a sum equal to the difference between that gross amount and the amount menti
 
 "(4E) In any case where tax has been deducted or deemed to have been deducted at the rate of thirty per cent on any dividend paid, credited or distributed during the basis year for the year of assessment 1998 to which subsection (2E) applies, the compared total shall be determined at the rate of twenty-eight per cent.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-17. Seksyen 110 Akta ibu adalah dipinda— seksyen 110.
+17. Seksyen 110 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 110. -->
 
 (a) dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: "(1) Any tax which is deducted from any dividend under section 108 or from any interest or royalty under section 109 or from any payment for services, technical advice, assistance, or rental or other income under section 109fi (including any amount recovered by the Director General pursuant to section 109(2) or 109B(2) but excluding any increase thereof) shall, when the dividend, interest, royalty, or payment for services, technical advice, assistance, or rental or other income is gross income of a person from a source of his for the basis period for a year of assessment, be set off against the tax charged on his chargeable income, if any, for that year."; dan
 
@@ -580,11 +588,15 @@ perenggan 37c dengan menggantikan perkataan "re- exported" dengan perkataan "dis
 
 <!-- page 17 -->
 
-18 Rang Undang-Undang
+<!-- marginal: 18 -->
 
-Pindaan
+Rang Undang-Undang
 
-21. Jadual 7 A kepada Akta ibu adalah dipinda— Jadual 7A..
+<!-- marginal: Pindaan -->
+
+21. Jadual 7 A kepada Akta ibu adalah dipinda—
+
+<!-- marginal: Jadual 7A.. -->
 
 (a) dengan menggantikan perenggan 1 dengan perenggan yang berikut:
 
@@ -670,19 +682,47 @@ of Investments Act 1986 in respect of a promoted activity or promoted product fo
 
 ## (CUKAI PENDAPATAN) 1967
 
-Mula
+<!-- marginal: Mula -->
 
-22. (1) Kecuali seksyen 24, 27 dan 28, Bab ini hendaklah berkuat- berkuatkuasa bagi tahun taksiran 1998 dan tahun-tahun kuasanya pindaan taksiran yang berikutnya. kepada Akta Petroleum (Cukai
+22. (1) Kecuali seksyen 24, 27 dan 28, Bab ini hendaklah
 
-(2) Seksyen 24 hendaklah disifatkan telah mula Pendapatan) berkuatkuasa pada 17 Oktober 1997.
+<!-- marginal: berkuat- -->
+
+berkuatkuasa bagi tahun taksiran 1998 dan tahun-tahun
+
+<!-- marginal: kuasanya -->
+
+<!-- marginal: pindaan -->
+
+taksiran yang berikutnya.
+
+<!-- marginal: kepada Akta -->
+
+<!-- marginal: Petroleum -->
+
+<!-- marginal: (Cukai -->
+
+(2) Seksyen 24 hendaklah disifatkan telah mula
+
+<!-- marginal: Pendapatan) -->
+
+berkuatkuasa pada 17 Oktober 1997.
 
 1967.
 
 (3) Seksyen 27 dan 28 hendaklah mula berkuatkuasa pada 1 Januari 1999.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-23. Akta Petroleum (Cukai Pendapatan) 1967, yang seksyen 16. disebut "Akta ibu" dalam Bab ini, adalah dipinda dalam Akta 543. seksyen 16—
+23. Akta Petroleum (Cukai Pendapatan) 1967, yang
+
+<!-- marginal: seksyen 16. -->
+
+disebut "Akta ibu" dalam Bab ini, adalah dipinda dalam
+
+<!-- marginal: Akta 543. -->
+
+seksyen 16—
 
 (a) dalam perenggan (3)(a) dengan menggantikan perkataan "seventeen" dengan perkataan "nineteen"; dan
 
@@ -692,9 +732,13 @@ Pindaan
 
 Provided that the amount deducted shall not exceed two hundred thousand ringgit.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-24. Subseksyen 18(1) Akta ibu adalah dipinda dengan seksyen 18. memasukkan selepas perenggan (k) perenggan yang berikut:
+24. Subseksyen 18(1) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 18. -->
+
+memasukkan selepas perenggan (k) perenggan yang berikut:
 
 "(I) any sum paid by way of a bonus to an employee in excess of two twelfths of his wages or salary;".
 
@@ -718,21 +762,31 @@ Pindaan
 
 <!-- page 23 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-26. Subseksyen 23(1) Akta ibu adalah dipinda dengan seksyen 23. menggantikan perkataan "forty" dengan perkataan "thirty- eight".
+26. Subseksyen 23(1) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 23. -->
 
-27. Seksyen 39 Akta ibu adalah dipinda— seksyen 39.
+menggantikan perkataan "forty" dengan perkataan "thirty- eight".
+
+<!-- marginal: Pindaan -->
+
+27. Seksyen 39 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 39. -->
 
 (a) dalam subseksyen (1) dengan menggantikan perkataan "twelve" dengan perkataan "six"; dan
 
 (b) dalam perenggan (2)(b) dengan menggantikan perkataan "twelve" dengan perkataan "six".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-28. Subseksyen 50(2) Akta ibu adalah dipinda dengan seksyen 50. menggantikan perkataan "twelve" dengan perkataan "six".
+28. Subseksyen 50(2) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 50. -->
+
+menggantikan perkataan "twelve" dengan perkataan "six".
 
 ## BAB IV
 
@@ -740,17 +794,43 @@ Pindaan
 
 ## HARTA TAN AH 1976
 
-Mula berkuat-
+<!-- marginal: Mula berkuat- -->
 
-29. (1) Seksyen 30 hendaklah mula berkuatkuasa pada kuasanya 1 Januari 1999. pindaan kepada Akta Cukai
+29. (1) Seksyen 30 hendaklah mula berkuatkuasa pada
 
-(2) Seksyen 31 dan 32 hendaklah disifatkan telah mula Keuntungan Harta berkuatkuasa pada 17 Oktober 1997. Tanah 1976
+<!-- marginal: kuasanya -->
 
-Pindaan
+1 Januari 1999.
 
-30. Akta Cukai Keuntungan Harta Tanah 1976, yang seksyen 15. disebut "Akta ibu" dalam Bab ini, adalah dipinda dalam Akta 169. subseksyen 15(1) dengan menggantikan perkataan "dua belas" dengan perkataan "enam".
+<!-- marginal: pindaan -->
 
-Pindaan
+<!-- marginal: kepada -->
+
+<!-- marginal: Akta Cukai -->
+
+(2) Seksyen 31 dan 32 hendaklah disifatkan telah mula
+
+<!-- marginal: Keuntungan -->
+
+<!-- marginal: Harta -->
+
+berkuatkuasa pada 17 Oktober 1997.
+
+<!-- marginal: Tanah 1976 -->
+
+<!-- marginal: Pindaan -->
+
+30. Akta Cukai Keuntungan Harta Tanah 1976, yang
+
+<!-- marginal: seksyen 15. -->
+
+disebut "Akta ibu" dalam Bab ini, adalah dipinda dalam
+
+<!-- marginal: Akta 169. -->
+
+subseksyen 15(1) dengan menggantikan perkataan "dua belas" dengan perkataan "enam".
+
+<!-- marginal: Pindaan -->
 
 31. Jadual 2 kepada Akta ibu adalah dipinda dalam
 
@@ -762,27 +842,31 @@ perenggan 34A—
 
 <!-- page 24 -->
 
-(b) dengan memotong proviso kepada subperenggan (2); dan
+(b) dengan memotong proviso kepada subperenggan
+
+(2); dan
 
 (c) dengan menggantikan subperenggan (3) dengan subperenggan yang berikut:
 
-"(3) Bagi maksud perenggan ini, harga perolehan aset yang boleh dikenakan cukai hendaklah—
+"(3) Bagi maksud perenggan ini, harga perolehan aset yang boleh dikenakan cukai
+
+<!-- marginal: hendaklah— -->
 
 (a) jika subperenggan (2)(a) terpakai, disifatkan sama dengan jumlah wang yang ditentukan mengikut formula—
 
 A x C, B
 
-iaitu A ialah bilangan syer yang disifatkan sebagai aset yang boleh dikenakan cukai;
+<!-- marginal: iaitu A -->
 
-B ialah jumlah bilangan syer terbitan dalam syarikat yang relevan pada
+ialah bilangan syer yang disifatkan sebagai aset yang boleh dikenakan cukai;
 
-<!-- marginal: tarikh -->
-
-pemerolehan aset yang boleh dikenakan cukai; dan
+B ialah jumlah bilangan syer terbitan dalam syarikat yang relevan pada tarikh pemerolehan aset yang boleh dikenakan cukai; dan
 
 C ialah nilai tertentu bagi harta tanah atau syer atau kedua- duanya yang dipunyai oleh syarikat yang relevan pada tarikh pemerolehan aset yang boleh dikenakan cukai;
 
-(b) jika subperenggan (2)(b) terpakai, ditentukan mengikut perenggan 4 atau 9.".
+(b) jika subperenggan (2)(b) terpakai, ditentukan mengikut perenggan 4 atau
+
+9.".
 
 <!-- page 25 -->
 
@@ -798,11 +882,21 @@ menggantikan Bahagian III dengan Bahagian yang berikut: "
 
 Dalam hal seorang individu yang bukan warganegara dan bukan juga pemastautin tetap, kadar cukai yang berikut hendaklah terpakai:
 
-Kategori pelupusan Kadar cukai
+Kategori pelupusan
 
-Pelupusan dalam tempoh lima 30 peratus tahun selepas tarikh pemerolehan aset yang boleh dikenakan cukai
+<!-- marginal: Kadar cukai -->
 
-Pelupusan dalam tahun keenam 5 peratus selepas tarikh pemerolehan aset yang boleh dikenakan cukai atau selepas itu
+Pelupusan dalam tempoh lima
+
+<!-- marginal: 30 peratus -->
+
+tahun selepas tarikh pemerolehan aset yang boleh dikenakan cukai
+
+Pelupusan dalam tahun keenam
+
+<!-- marginal: 5 peratus -->
+
+selepas tarikh pemerolehan aset yang boleh dikenakan cukai atau selepas itu
 
 ## BAB V
 
@@ -822,9 +916,7 @@ Pindaan
 
 Mula
 
-35. Bab ini hendaklah disifatkan telah mula berkuatkuasa berkuat- pada 17 Oktober 1997. kuasanya pindaan kepada Akta Cukai Jualan
-
-1972.
+35. Bab ini hendaklah disifatkan telah mula berkuatkuasa berkuat- pada 17 Oktober 1997. kuasanya pindaan kepada Akta Cukai Jualan 1972.
 
 <!-- page 26 -->
 
@@ -894,25 +986,39 @@ export by air" includes exportation in any manner or by any means by air;';
 
 * "value" in relation to imported goods means customs value as determined under subsection 142(35B);'.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-39. Akta ibu adalah dipinda dengan menggantikan seksyen 21. seksyen 21 dengan seksyen yang berikut:
+39. Akta ibu adalah dipinda dengan menggantikan
+
+<!-- marginal: seksyen 21. -->
+
+seksyen 21 dengan seksyen yang berikut:
 
 Time of
 
 21. When by virtue of an order made under importation section 11(1) a customs duty is fixed on any and goods which previously were not dutiable goods exportation when duty or any customs duty on goods is abolished or is imposed when the importation or exportation of any goods or repealed. is prohibited or any such prohibition is abolished by an order made under section 31 and it becomes necessary for the purpose of this Act to determine the time at which an importation or exportation of any goods made and completed shall be deemed to have had effect, such importation or exportation shall, notwithstanding anything in this Act contained, be deemed to be the time at which the goods are released by the proper officer of customs.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-40. Seksyen 24 Akta ibu adalah dipinda dengan seksyen 24. memasukkan selepas perkataan "airport" perkataan "and such goods may be cleared at an inland clearance depot or an inland customs station".
+40. Seksyen 24 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 24. -->
 
-41. Seksyen 29 Akta ibu adalah dipinda dengan seksyen 29. memasukkan selepas perkataan "airport" perkataan "and such goods may be cleared at an inland clearance depot or an inland customs station".
+memasukkan selepas perkataan "airport" perkataan "and such goods may be cleared at an inland clearance depot or an inland customs station".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-42. Seksyen 35 Akta ibu adalah dipinda— seksyen 35.
+41. Seksyen 29 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 29. -->
+
+memasukkan selepas perkataan "airport" perkataan "and such goods may be cleared at an inland clearance depot or an inland customs station".
+
+<!-- marginal: Pindaan -->
+
+42. Seksyen 35 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 35. -->
 
 (a) dalam perenggan (a) dengan memotong perkataan "or" di hujung perenggan itu;
 
@@ -956,9 +1062,25 @@ menggantikan perenggan (a), (b), (c) dan (d) dengan perenggan yang berikut:
 
 (d) at an inland clearance depot or at an inland customs station or at a customs airport where goods are loaded if export is by air.".
 
-45. Akta ibu adalah dipinda di bawah tajuk "Non-dutiable baru 87A. goods" dengan memasukkan selepas seksyen 87 seksyen yang berikut:
+<!-- marginal: Seksyen -->
 
-Provisional 87A. (1) Notwithstanding sections 80(1), 84, declaration 85, 86 and 87, the Director General may allow of exported goods. any document approved by him to be used as a provisional declaration, in lieu of the prescribed form, for goods if—
+45. Akta ibu adalah dipinda di bawah tajuk "Non-dutiable
+
+<!-- marginal: baru 87A. -->
+
+goods" dengan memasukkan selepas seksyen 87 seksyen yang berikut:
+
+<!-- marginal: Provisional -->
+
+87A. (1) Notwithstanding sections 80(1), 84,
+
+<!-- marginal: declaration -->
+
+85, 86 and 87, the Director General may allow of exported
+
+<!-- marginal: goods. -->
+
+any document approved by him to be used as a provisional declaration, in lieu of the prescribed form, for goods if—
 
 (a) such goods are to be exported by air, sea, rail or in any other manner approved by the Director General;
 
@@ -986,7 +1108,13 @@ in the prescribed form within 7 days after the release of such goods.
 
 seksyen 91 seksyen yang berikut:
 
-Licensed 9lA. (1) The Director General may grant a earner. licence to any person to act as a licensed carrier subject to such terms and conditions as he may deem fit to impose and may suspend or withdraw such licence.
+<!-- marginal: Licensed -->
+
+9lA. (1) The Director General may grant a
+
+<!-- marginal: earner. -->
+
+licence to any person to act as a licensed carrier subject to such terms and conditions as he may deem fit to impose and may suspend or withdraw such licence.
 
 (2) In granting a licence under subsection (1), the Director General may require such security to be furnished as he may consider adequate to cover the customs duty payable on the goods moved and for the faithful and incorrupt conduct of such licensed carrier and of his agents and employees acting for him both as regards the customs and his employers.".
 
@@ -998,7 +1126,19 @@ Licensed 9lA. (1) The Director General may grant a earner. licence to any person
 
 seksyen 100 seksyen yang berikut:
 
-Records 100A. (1) Every person who has possession of of documents and records pertaining to valuation imported goods. of goods imported shall preserve for a period of six years following the importation of the goods all records that relate to the purchase of, importation of, cost of, value of, payment for and disposal of the goods.
+<!-- marginal: Records -->
+
+100A. (1) Every person who has possession
+
+<!-- marginal: of -->
+
+of documents and records pertaining to valuation
+
+<!-- marginal: imported -->
+
+<!-- marginal: goods. -->
+
+of goods imported shall preserve for a period of six years following the importation of the goods all records that relate to the purchase of, importation of, cost of, value of, payment for and disposal of the goods.
 
 <!-- page 31 -->
 
@@ -1008,13 +1148,23 @@ Records 100A. (1) Every person who has possession of of documents and records pe
 
 (b) where the value of the goods cannot be ascertained, shall be liable to a fine of not less than one hundred thousand ringgit and not more than five hundred thousand ringgit.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-48. Perenggan 1I5(l)(b) Akta ibu adalah dipinda dengan seksyen 115 menggantikan subperenggan (i) dengan subperenggan yang berikut:
+48. Perenggan 1I5(l)(b) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 115 -->
+
+menggantikan subperenggan (i) dengan subperenggan yang berikut:
 
 "(i) for property other than dutiable or uncustomed goods, its open market value, and for dutiable or uncustomed goods, their value, on the date on which the property or goods are so returned;".
 
-49. Akta ibu adalah dipinda dengan memasukkan selepas baru 125A. seksyen 125 seksyen yang berikut:
+<!-- marginal: Seksyen -->
+
+49. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 125A. -->
+
+seksyen 125 seksyen yang berikut:
 
 Confiden- 125A. (1) Any information relating to valuation tiality of is confidential and any proper officer of customs informa- tion. or any person who in the ordinary course of his duties come into possession of or has control of or access to such information shall not—
 
@@ -1032,11 +1182,7 @@ Confiden- 125A. (1) Any information relating to valuation tiality of is confiden
 
 (i) on the order of a court; or
 
-(ii) after written consent has been obtained from the person or government giving
-
-<!-- marginal: such -->
-
-information; and
+(ii) after written consent has been obtained from the person or government giving such information; and
 
 (b) as regards information relating to the valuation of exported goods, if the Director General deems it expedient or necessary to allow disclosure of certain information to such person as he thinks fit.".
 
@@ -1060,7 +1206,9 @@ information; and
 
 <!-- marginal: seksyen 142. -->
 
-memasukkan selepas perenggan (35A) perenggan yang berikut:
+memasukkan selepas perenggan (35A) perenggan yang
+
+<!-- marginal: berikut: -->
 
 "(35e) to determine the customs value of imported goods;".
 
@@ -1074,27 +1222,49 @@ memasukkan selepas perenggan (35A) perenggan yang berikut:
 
 ## PINDAAN KEPADA AKTA ZON BEBAS 1990
 
-Mula
+<!-- marginal: Mula -->
 
-53. Bab ini hendaklah mula berkuatkuasa pada 1 Januari berkuat-
+53. Bab ini hendaklah mula berkuatkuasa pada 1 Januari
 
-1998. kuasanya pmdaan kepada Akta Zon Bebas
+<!-- marginal: berkuat- -->
+
+1998.
+
+<!-- marginal: kuasanya -->
+
+<!-- marginal: pmdaan -->
+
+<!-- marginal: kepada Akta -->
+
+<!-- marginal: Zon Bebas -->
 
 1990.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-54. Akta Zon Bebas 1990, yang disebut "Akta ibu" dalam seksyen 2 Bab ini, adalah dipinda dalam subseksyen 2(1) dengan
+54. Akta Zon Bebas 1990, yang disebut "Akta ibu" dalam
 
-### Akta 438.
+<!-- marginal: seksyen 2 -->
+
+Bab ini, adalah dipinda dalam subseksyen 2(1) dengan
+
+<!-- marginal: Akta 438. -->
 
 menggantikan takrif "nilai" berkaitan dengan barang- barang yang diimport dengan takrif yang berikut:
 
-' "nilai" berkaitan dengan barang-barang yang diimport mempunyai erti yang diberikan kepadanya Akta 235. di bawah seksyen 2 Akta Kastam 1967;'.
+' "nilai" berkaitan dengan barang-barang yang diimport mempunyai erti yang diberikan kepadanya
 
-Pindaan
+<!-- marginal: Akta 235. -->
 
-55. Perenggan 27(1 )(b) Akta ibu adalah dipinda dengan seksyen 27. menggantikan subperenggan (i) dengan subperenggan yang berikut:
+di bawah seksyen 2 Akta Kastam 1967;'.
+
+<!-- marginal: Pindaan -->
+
+55. Perenggan 27(1 )(b) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 27. -->
+
+menggantikan subperenggan (i) dengan subperenggan yang berikut:
 
 "(i) bagi harta selain barang-barang berduti atau tak berkastam, nilai pasaran terbukanya, dan bagi barang-barang berduti atau tak berkastam, nilainya, pada tarikh harta atau barang-barang itu dipulangkan;".
 
@@ -1114,9 +1284,7 @@ Akta Cukai Pendapatan 1967 adalah disebut sebagai "Akta" dalam Bab ini.
 
 3. Fasal 5 bertujuan memasukkan subseksyen baru 6A(3A) yang memperuntukkan bahawa rebat sebanyak empat ratus ringgit diberikan kepada individu pemastautin berkenaan dengan pembelian komputer peribadi. Rebat itu akan diberikan sekali dalam tempoh lima tahun. Subseksyen itu selanjutnya memperuntukkan bahawa tiada rebat kena diberikan jika komputer peribadi itu telah digunakan bagi maksud perniagaannya atau jika rebat telah diberikan kepada isteri atau suami. Pindaan ini akan berkuatkuasa dari tahun taksiran 1998.
 
-4. Fasal 6 bertujuan memasukkan seksyen baru 6c, Individu yang telah membayar levi bagi pengeluaran Pas Pekerjaan, Pas Lawatan (Pekerjaan Sementara) atau Pas Kerja menurut mana-mana perintah yang dibuat di bawah Akta Fee 1951 adalah layak untuk menuntut levi itu sebagai rebat di bawah seksyen ini. Walau bagaimanapun, jika rebat itu melebihi cukai pendapatan yang dikenakan, lebihan tidak akan diketnbalikan kepada individu itu atau boleh digunakan sebagai kredit bagi tolakan tanggungan cukainya bagi tahun taksiran yang berikutnya. Pindaan ini akan berkuatkuasa dari tahun taksiran
-
-1998.
+4. Fasal 6 bertujuan memasukkan seksyen baru 6c, Individu yang telah membayar levi bagi pengeluaran Pas Pekerjaan, Pas Lawatan (Pekerjaan Sementara) atau Pas Kerja menurut mana-mana perintah yang dibuat di bawah Akta Fee 1951 adalah layak untuk menuntut levi itu sebagai rebat di bawah seksyen ini. Walau bagaimanapun, jika rebat itu melebihi cukai pendapatan yang dikenakan, lebihan tidak akan diketnbalikan kepada individu itu atau boleh digunakan sebagai kredit bagi tolakan tanggungan cukainya bagi tahun taksiran yang berikutnya. Pindaan ini akan berkuatkuasa dari tahun taksiran 1998.
 
 5. Fasal 9 bertujuan meminda perenggan 34(4) (a) untuk meningkatkan sumbangan inaksimum yang boleh dipotong kepada skim yang diluluskan oleh majikan berkenaan dengan saraan pekerja daripada 17 peratus kepada 19 peratus. Fasal ini juga bertujuan meminda subseksyen 34(6) dengan memasukkan perenggan baru
 
@@ -1190,7 +1358,11 @@ Akta Petroleum (Cukai Pendapatan) 1967 adalah disebut sebagai "Akta" dalam Bab i
 
 17. Fasal 23 bertujuan meminda perenggan I6(3)(a) Akta untuk meningkatkan sumbangan inaksimum yang boleh dipotong kepada skim yang diluluskan oleh majikan berkenaan dengan gaji pekerja daripada 17 peratus kepada 19 peratus. Fasal ini juga bertujuan memasukkan subseksyen (7E) untuk membenarkan sebagai potongan perbelanjaan yang dilakukan untuk menganjurkan apa-apa aktiviti kesenian atau kebudayaan yang diluluskan oleh Kementerian Kebudayaan, Kesenian dan Pelancongan. Pindaan ini berkuatkuasa mulai dari tahun taksiran 1998.
 
-18. Fasal 24 bertujuan meminda seksyen 18 Akta. Pindaan ini bertujuan memasukkan perenggan baru 18(l)(l) untuk memperuntukkan bahawa potongan berkenaan dengan bayaran bonus kepada pekerja adalah terhad kepada dua per dua belas daripada upah atau gaji yang dibayar kepada pekerja itu. Pindaan ini hendaklah disifatkan telah berkuatkuasa dari 17 Oktober 1997.
+18. Fasal 24 bertujuan meminda seksyen 18 Akta. Pindaan ini bertujuan memasukkan perenggan baru 18(l)(l)
+
+<!-- marginal: untuk -->
+
+memperuntukkan bahawa potongan berkenaan dengan bayaran bonus kepada pekerja adalah terhad kepada dua per dua belas daripada upah atau gaji yang dibayar kepada pekerja itu. Pindaan ini hendaklah disifatkan telah berkuatkuasa dari 17 Oktober 1997.
 
 <!-- page 38 -->
 

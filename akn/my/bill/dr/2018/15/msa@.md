@@ -34,7 +34,7 @@ MAKA, OLEH YANG DEMIKIAN, DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 2. Maka dengan ini dibenarkan pengeluaran sejumlah wang yang tidak melebihi tiga bilion enam puluh lima juta satu ratus tiga belas ribu lapan ratus sembilan puluh enam ringgit (RM3,065,113,896) daripada Kumpulan Wang Disatukan bagi perbelanjaan untuk perkhidmatan dan maksud yang dinyatakan dalam Jadual bagi perkhidmatan tahun 2018 yang tidak diperuntukkan atau yang tidak diperuntukkan dengan sepenuhnya oleh Akta Perbekalan 2018 [Akta A1557].
 
-## Jadual
+## JADUAL
 
 Maksud Tajuk
 
@@ -116,7 +116,7 @@ B. 63 Pendidikan
 
 <!-- marginal: 181,876,837 -->
 
-Jumlah
+## JUMLAH
 
 <!-- marginal: 3,065,113,896 -->
 

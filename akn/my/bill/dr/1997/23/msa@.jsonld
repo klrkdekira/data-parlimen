@@ -1,0 +1,313 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-23-1997",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_8"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Perkhidmatan Bersama (Pegawai Hal-Ehwal Islam) 1997"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_1__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perkhidmatan Bersama (Pegawai Hal-Ehwal Islam) 1997 dan hendaklah mula berkuatkuasa pada tarikh yang ditetapkan oleh Yang di-Pertuan Agong melalui pemberitahuan dalam Warta. 4 Rang Undang-Undang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini hendaklah terpakai hanya bagi Wilayah- Wilayah Persekutuan Kuala Lumpur dan Labuan dan Negeri-Negeri Melaka, Negeri Sembilan, Pulau Pinang dan Selangor."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen (2), jika mana-mana Negeri lain membuat permintaan kepada Kerajaan Persekutuan supaya pemakaian Akta ini diperluas kepadanya, Yang di-Pertuan Agong boleh melalui perintah yang disiarkan dalam Warta memperluas pemakaian Akta ini kepada Negeri itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "\"Negeri\" termasuklah Wilayah-Wilayah Persekutuan Kuala Lumpur dan Labuan; \"pegawai\" ertinya pegawai perkhidmatan bersama; \"perkhidmatan bersama\" ertinya Perkhidmatan Bersama bagi Pegawai Hal-Ehwal Islam yang ditubuhkan di bawah seksyen 3; \"saraan\" mempunyai erti yang diberikan kepadanya oleh Fasal (2) Perkara 160 Perlembagaan Persekutuan; \"Suruhanjaya\" ertinya Suruhanjaya Perkhidmatan Awam yang ditubuhkan di bawah Perkara 139 Perlembagaan Persekutuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_3__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maka hendaklah ditubuhkan suatu perkhidmatan bersama bagi Pegawai-Pegawai Hal-Ehwal Islam untuk kegunaan bersama Persekutuan dan Negeri-Negeri yang hendaklah dikenali sebagai Perkhidmatan Bersama bagi Pegawai Hal-Ehwal Islam."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_3__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_3__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perkhidmatan bersama hendaklah terdiri daripada—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_3__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_3__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "semua pegawai, selain daripada Mufti, sama ada dalam perkhidmatan awam am Persekutuan atau dalam perkhidmatan awam Negeri, yang Hal-Ehwal Islam) diambil kerja di bawah Skim Perkhidmatan Pegawai Hal-Ehwal Islam di bawah Sistem Saraan Baru dan telah memilih untuk memasuki perkhidmatan bersama di bawah seksyen 7; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_3__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_3__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "semua pegawai yang dilantik oleh Suruhanjaya ke dalam perkhidmatan bersama selepas Akta ini mula berkuatkuasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Kuasa untuk melantik, mengesahkan, memasukkan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ke dalam perjawatan tetap atau berpencen, menaikkan pangkat, menukarkan dan menjalankan kawalan tatatertib ke atas pegawai hendaklah terletakhak pada Suruhanjaya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seseorang pegawai boleh ditempatkan di pejabat"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Persekutuan atau Negeri atau ditukarkan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dari pejabat satu Negeri ke pejabat suatu Negeri lain;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dari pejabat sesuatu Negeri ke pejabat Persekutuan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dari pejabat Persekutuan ke pejabat suatu Negeri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_6__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada subseksyen (2), seseorang pegawai yang ditempatkan atau ditukarkan di bawah seksyen 5 hendaklah kekal sebagai anggota perkhidmatan bersama, tetapi saraannya hendaklah dibayar oleh Persekutuan atau Negeri, mengikut mana-mana yang berkenaan, yang di pejabatnya dia ditempatkan atau ke pejabatnya dia ditukarkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_6__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_6__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika seseorang pegawai diambil kerja—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_6__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_6__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sebahagiannya bagi maksud persekutuan dan sebahagiannya bagi maksud Negeri; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_6__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_6__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bagi maksud dua Negeri atau lebih, maka perkadaran saraannya, jika ada, yang kena dibayar oleh Persekutuan dan Negeri atau Negeri-Negeri yang berkenaan atau, mengikut mana-mana yang berkenaan, oleh setiap Negeri yang berkenaan, hendaklah ditentukan dengan persetujuan atau, jika tidak ada persetujuan, oleh Suruhanjaya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_7__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kerajaan Persekutuan hendaklah, pada tarikh Akta ini mula berkuatkuasa, menerima ke dalam perkhidmatan bersama tiap-tiap orang yang sebelum sahaja tarikh itu ialah seorang pegawai, sama ada dalam perkhidmatan awam am Persekutuan atau dalam perkhidmatan awam suatu Negeri, yang diambil kerja di bawah Skim Perkhidmatan Pegawai Hal-Ehwal Islam di bawah Sistem Saraan Baru dan yang telah diberi opsyen oleh Kerajaan Persekutuan dan telah memilih untuk memasuki perkhidmatan bersama."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap orang yang memilih di bawah subseksyen (1) hendaklah diambil kerja dalam perkhidmatan bersama atas terma dan syarat perkhidmatan yang tidak kurang baiknya daripada terma dan syarat perkhidmatan yang dia berhak kepadanya sebelum sahaja tarikh yang disebut dalam subseksyen itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/23/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Yang di-Pertuan Agong boleh membuat peraturan-"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "peraturan yang suaimanfaat atau perlu bagi melaksanakan peruntukan Akta ini dengan lebih baik."
+      }
+    }
+  ]
+}

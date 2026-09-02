@@ -28,7 +28,6 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@/~cl_1",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@/~cl_2",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@/~cl_3",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@/~cl_4B",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@/~cl_4",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@/~cl_5",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@/~cl_6"
@@ -65,38 +64,17 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "The principal Act is amended by inserting after section 4A the following section: \"Apportionment amongst States in accordance with the percentage of gross domestic product"
+        "@value": "The principal Act is amended by inserting after section 4A the following section: \"Apportionment amongst States in accordance with the percentage of gross domestic product 4B. The sum of money allocated under paragraph 2(c) shall be apportioned as grants amongst States in accordance with the percentage of gross domestic product of each State. The gross domestic product of the Federation and all States of the Federation shall be determined by the Federation.\". Amendment of section 5"
       }
     },
     {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@/~cl_4",
       "@type": "akn:clause",
       "eli:number": "4",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@/~cl_4__para_b",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "Section 5 of the principal Act is amended by substituting for the words \"paragraphs 2(a) and (b)” the words \"paragraphs 2(a),"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@/~cl_4B",
-      "@type": "akn:clause",
-      "eli:number": "4B",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The sum of money allocated under paragraph 2(c) shall be apportioned as grants amongst States in accordance with the percentage of gross domestic product of each State. The gross domestic product of the Federation and all States of the Federation shall be determined by the Federation.\". Amendment of section 5"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@/~cl_4__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@/~cl_4",
-      "schema:text": {
-        "@language": "en",
-        "@value": "and (c). Amendment of section 6"
+        "@value": "Section 5 of the principal Act is amended by substituting for the words \"paragraphs 2(a) and (b)” the words \"paragraphs 2(a), (b) and (c). Amendment of section 6"
       }
     },
     {

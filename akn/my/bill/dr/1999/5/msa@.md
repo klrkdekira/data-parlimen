@@ -30,7 +30,11 @@ III
 
 ## PERUNTUKAN PERALIHAN
 
-7. Peruntukan am 8. Pelepasan cukai 9. Tempoh asas dalam hal tertentu 10. Tempoh asas tidak boleh melebihi dua belas bulan 1 1. Elaun modal disifatkan telah dituntut 12. Akaun kecuali
+7. Peruntukan am 8. Pelepasan cukai 9. Tempoh asas dalam hal tertentu
+
+10. Tempoh asas tidak boleh melebihi dua belas bulan 1 1. Elaun modal disifatkan telah dituntut
+
+12. Akaun kecuali
 
 <!-- page 2 -->
 
@@ -178,7 +182,9 @@ where A is the amount of the adjusted income for the basis period for the releva
 
 ### Pindaan seksyen 77
 
-5. Seksyen 77 Akta ibu dipinda dengan menggantikan subseksyen (2) dengan subseksyen yang berikut:
+5. Seksyen 77 Akta ibu dipinda dengan menggantikan subseksyen
+
+(2) dengan subseksyen yang berikut:
 
 "(2) Every person who is chargeable to tax for a year of assessment shall, before 15 April of the following year of assessment, give notice to the Director General that he is so chargeable, unless he has been required to make a return under subsection (1).".
 
@@ -214,7 +220,7 @@ in that year make an assessment in respect of that person and income from that b
 
 ## BAHAGIAN
 
-<!-- marginal: III -->
+III
 
 ## PERUNTUKAN PERALIHAN
 

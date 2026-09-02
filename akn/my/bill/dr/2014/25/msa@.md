@@ -8,7 +8,7 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -16,7 +16,7 @@
 
 2. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PERUNTUKAN PENGHASILAN BERSIH
 
@@ -34,7 +34,7 @@
 
 9. Kuasa Menteri untuk meminda Jadual
 
-## Jadual
+## JADUAL
 
 <!-- page 3 -->
 
@@ -44,7 +44,7 @@ Suatu Akta untuk mengadakan peruntukan bagi kebolehkuatkuasaan peruntukan pengha
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -86,7 +86,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “transaksi kewangan yang layak” ertinya transaksi yang disebut dalam seksyen 5 dan termasuklah apa-apa transaksi lain yang ditetapkan oleh Menteri sebagai transaksi kewangan yang layak di bawah perenggan 6(1)(c).
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PERUNTUKAN PENGHASILAN BERSIH
 
@@ -178,17 +178,17 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (2) Perintah di bawah subseksyen (1) hendaklah dibentangkan di Dewan Rakyat dengan seberapa segera yang dapat dilaksanakan selepas penyiarannya dalam Warta.
 
-## Jadual
+## JADUAL
 
 [Seksyen 3, 7 dan 8]
 
-## Bahagian I
+## BAHAGIAN I
 
 1. Seksyen 29a dan 41 Akta Pengurusan Danaharta Nasional Berhad 1998
 
 2. Seksyen 346 c Akta Pasaran Modal dan Perkhidmatan 2007 [Akta 671]
 
-## Bahagian II
+## BAHAGIAN II
 
 1. Subseksyen 115(3) dan 180(1) Akta Perbadanan Insurans Deposit Malaysia 2011
 
@@ -200,7 +200,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 9 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 1. Subseksyen 115(3) hingga 115(7) dan 180(2) hingga 180(5) Akta Perbadanan Insurans Deposit Malaysia 2011
 

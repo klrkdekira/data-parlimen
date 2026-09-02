@@ -4,7 +4,7 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -14,7 +14,7 @@
 
 3. Interpretation
 
-## Part II
+## PART II
 
 ## COMMITTEE ON COMBATING CYBERCRIMES
 
@@ -28,7 +28,7 @@
 
 8. Committee may establish subcommittees
 
-## Part III
+## PART III
 
 ## OFFENCES RELATING TO CONFIDENTIALITY, INTEGRITY AND
 
@@ -50,7 +50,7 @@
 
 <!-- page 2 -->
 
-## Part IV
+## PART IV
 
 ## OFFENCES RELATING TO COMPUTER-RELATED FORGERY AND
 
@@ -60,7 +60,7 @@
 
 17. Computer-related fraud
 
-## Part V
+## PART V
 
 ## OFFENCES RELATING TO NATIONAL DIGITAL IDENTITY SERVICE
 
@@ -70,7 +70,7 @@
 
 20. Obtaining, etc., credential
 
-## Part VI
+## PART VI
 
 ## OTHER OFFENCES
 
@@ -84,7 +84,7 @@
 
 25. Offences committed which affects or involves national critical information infrastructure entity or national critical information infrastructure
 
-## Part VII
+## PART VII
 
 ## ENFORCEMENT
 
@@ -178,7 +178,7 @@ An Act to prevent and combat cybercrimes which consists of offences provided for
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -248,7 +248,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “Commission” means the Malaysian Communications and Multimedia Commission established under section 4 of the Malaysian Communications and Multimedia Commission Act 1998 [Act 589].
 
-## Part II
+## PART II
 
 ## COMMITTEE ON COMBATING CYBERCRIMES
 
@@ -356,7 +356,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 12 -->
 
-## Part III
+## PART III
 
 ## OFFENCES RELATING TO CONFIDENTIALITY, INTEGRITY AND
 
@@ -436,7 +436,7 @@ with the intention that a device including a program, password, access credentia
 
 (2) Any person who has in his possession or control any device referred to in paragraph (1)(a) or any password, access credentials, electronic signature or computer data referred to in paragraph (1)(b) with the intention that the device, password, access credentials, electronic signature or computer data be used by himself or by any other person for the purpose of committing any offence under this Act commits an offence and shall, on conviction, be liable to a fine not exceeding three hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.
 
-## Part IV
+## PART IV
 
 ## OFFENCES RELATING TO COMPUTER-RELATED FORGERY AND
 
@@ -472,7 +472,7 @@ so as to cause loss of property to another person with the fraudulent or dishone
 
 <!-- page 17 -->
 
-## Part V
+## PART V
 
 ## OFFENCES RELATING TO NATIONAL DIGITAL IDENTITY SERVICE
 
@@ -528,7 +528,7 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding o
 
 (2) It shall not be an offence under subsection (1) for a person to transmit or otherwise make available credentials of any user by reason only that the person, in the ordinary course of providing such facilities or services, provides or operates facilities for network access, or provides services relating to, or connections for, the transmission, routing or storage of data.
 
-## Part VI
+## PART VI
 
 ## OTHER OFFENCES
 
@@ -580,7 +580,7 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding o
 
 (2) For the purposes of subsection (1), “national critical information infrastructure entity” and “national critical information infrastructure” have the meaning assigned to them in the Cyber Security Act 2024 [Act 854].
 
-## Part VII
+## PART VII
 
 ## ENFORCEMENT
 
@@ -1060,7 +1060,7 @@ This Bill (“the proposed Act”) seeks to repeal the Computer Crimes Act 1997 
 
 <!-- page 45 -->
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act deals with preliminary matters.
 
@@ -1070,7 +1070,7 @@ This Bill (“the proposed Act”) seeks to repeal the Computer Crimes Act 1997 
 
 5. Clause 3 contains the definitions of certain words and expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 6. Part II of the proposed Act deals with the establishment of the Committee on Combating Cybercrimes (“Committee”).
 
@@ -1084,7 +1084,7 @@ This Bill (“the proposed Act”) seeks to repeal the Computer Crimes Act 1997 
 
 11. Clause 8 seeks to provide that the Committee may establish subcommittees to assist the Committee in the performance of its functions under the proposed Act.
 
-## Part III
+## PART III
 
 12. Part III of the proposed Act provides for offences relating to the confidentiality, integrity and availability of computer system and computer data.
 
@@ -1108,7 +1108,7 @@ This Bill (“the proposed Act”) seeks to repeal the Computer Crimes Act 1997 
 
 subclause 15(1) of the proposed Act with the intention that the device or password, access credentials, electronic signature or computer data be used by himself or by any other person for the purpose of committing any offence under the proposed Act, commits an offence and shall, on conviction, be liable to a fine not exceeding three hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both. An example of a situation in which a person commits an offence under this clause is where the person produces a computer program with the intention that the program be used to create fake websites to obtain information from members of the public who access such websites, as the program is capable of being used by another person to commit computer-related fraud under clause 17. A person who procures for use such computer program with the intention of committing computer-related fraud also commits an offence under this clause.
 
-## Part IV
+## PART IV
 
 20. Part IV of the proposed Act provides for offences relating to computer-related forgery and computer-related fraud.
 
@@ -1118,7 +1118,7 @@ subclause 15(1) of the proposed Act with the intention that the device or passwo
 
 <!-- page 48 -->
 
-## Part V
+## PART V
 
 23. Part V of the proposed Act provides for offences relating to national digital identity service, which is the electronic service owned by the Federal Government by which a user’s identity is verified and authenticated.
 
@@ -1128,7 +1128,7 @@ subclause 15(1) of the proposed Act with the intention that the device or passwo
 
 26. Clause 20 seeks to provide for the offence of obtaining, retaining, supplying, offering to supply, transmitting or otherwise making available any credential of any user for the purpose of committing or facilitating the commission of, any offence under any written law or knowing or having reason to believe that the credential will be used, or is likely to be used, for the commission of, or to facilitate the commission of, any offence under any written law. Any person who commits an offence under this clause shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding three years or to both, and for a second or subsequent offence, to a fine not exceeding three hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.
 
-## Part VI
+## PART VI
 
 27. Part VI of the proposed Act provides for other offences relating to cybercrimes such as wrongful communication, identity theft, transmission of content generated or manipulated by means of computer system and dissemination of intimate images. This Part also provides for enhanced punishments for certain offences under the proposed Act which affects or involves national critical information infrastructure entities or national critical information infrastructure.
 
@@ -1146,7 +1146,7 @@ subclause 15(1) of the proposed Act with the intention that the device or passwo
 
 32. Clause 25 seeks to provide for enhanced punishment for commission of offences under Parts III and IV and clauses 21, 22 and 23 of the proposed Act which affect or involve a national critical information infrastructure entity or national critical information infrastructure. Any person who commits such offence shall, on conviction, where the offence causes loss of life, be liable to imprisonment for a term of not less than thirty years but not exceeding forty years or to a fine not exceeding two million ringgit or to both. Where such offence causes any injury to any person, be liable to imprisonment for a term not exceeding fifteen years or to a fine not exceeding one million and five hundred thousand ringgit or to both and in any other case be liable to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding ten years or to both.
 
-## Part VII
+## PART VII
 
 33. Part VII of the proposed Act deals with enforcement provisions.
 

@@ -22,6 +22,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (a) dengan menggantikan perkataan “Warta” di mana-mana jua terdapat dengan perkataan “Jurnal Rasmi” kecuali dalam seksyen 1; dan
 
+<!-- marginal: WJW21/1475 Teks BM.indd 1 -->
+
 <!-- marginal: 06/12/2021 8:45 PM -->
 
 <!-- page 2 -->
@@ -79,6 +81,8 @@ bagi sektor farmaseutikal yang termasuklah bahan aktif yang perlu bagi pengilang
 ‘ “Perjanjian TRIPS” ertinya Perjanjian Perdagangan Berkaitan Aspek Hak Harta Intelek, yang dinyatakan dalam Lampiran 1C kepada Perjanjian Penubuhan Pertubuhan Perdagangan Dunia;
 
 “Pihak Berkuasa Depositari Antarabangsa” ertinya suatu institusi depositari yang telah memperoleh status pihak berkuasa depositari antarabangsa di bawah Triti Budapest;’.
+
+<!-- marginal: WJW21/1475 Teks BM.indd 3 -->
 
 <!-- marginal: 06/12/2021 8:45 PM -->
 
@@ -142,6 +146,8 @@ bagi sektor farmaseutikal yang termasuklah bahan aktif yang perlu bagi pengilang
 
 “(2) Sesuatu permohonan bagi pemberian kebenaran bertulis oleh Pendaftar yang disebut dalam subseksyen (1) hendaklah dibuat oleh pemastautin mengikut cara yang ditetapkan bersama dengan pembayaran fi yang ditetapkan.”.
 
+<!-- marginal: WJW21/1475 Teks BM.indd 5 -->
+
 <!-- marginal: 06/12/2021 8:45 PM -->
 
 <!-- page 6 -->
@@ -200,6 +206,8 @@ bagi sektor farmaseutikal yang termasuklah bahan aktif yang perlu bagi pengilang
 
 (3) Pendepositan mikroorganisma dengan Pihak Berkuasa Depositari Antarabangsa yang disebut dalam subseksyen (1) hendaklah dibuat mengikut Triti Budapest.
 
+<!-- marginal: WJW21/1475 Teks BM.indd 7 -->
+
 <!-- marginal: 06/12/2021 8:45 PM -->
 
 <!-- page 8 -->
@@ -256,6 +264,8 @@ bagi sektor farmaseutikal yang termasuklah bahan aktif yang perlu bagi pengilang
 
 (a) pemohon mematuhi permintaan Pendaftar untuk memfailkan pembetulan yang dikehendaki di bawah subseksyen (2), Pendaftar hendaklah merekodkan tarikh penerimaan pembetulan yang dikehendaki sebagai tarikh pemfailan;
 
+<!-- marginal: WJW21/1475 Teks BM.indd 9 -->
+
 <!-- marginal: 06/12/2021 8:45 PM -->
 
 <!-- page 10 -->
@@ -277,6 +287,8 @@ bagi sektor farmaseutikal yang termasuklah bahan aktif yang perlu bagi pengilang
 17. Seksyen 29a Akta ibu dipinda—
 
 (a) dalam subseksyen (2), dengan menggantikan perkataan “maka pemohon boleh meminta pemeriksaan substantif yang diubahsuaikan sebagai ganti pemeriksaan substantif” dengan perkataan “pemohon boleh, sebagai ganti pemfailan suatu permintaan bagi pemeriksaan substantif, memfailkan suatu permintaan bagi pemeriksaan substantif yang diubahsuaikan dalam tempoh yang ditetapkan”;
+
+<!-- marginal: WJW21/1475 Teks BM.indd 10 -->
 
 <!-- marginal: 06/12/2021 8:45 PM -->
 
@@ -303,6 +315,8 @@ dalam tempoh yang ditetapkan, permohonan untuk mendapatkan paten itu hendaklah d
 (6a) Penangguhan di bawah subseksyen (6) boleh dibenarkan hanya atas alasan bahawa paten atau hak milik lain bagi perlindungan harta perindustrian belum diberikan atau tidak boleh didapati sebelum habis tempoh yang ditetapkan bagi pemfailan permintaan bagi pemeriksaan substantif yang diubahsuaikan.”; dan
 
 (f) dalam subseksyen (7), dengan memotong perkataan “(1) atau”.
+
+<!-- marginal: WJW21/1475 Teks BM.indd 11 -->
 
 <!-- marginal: 06/12/2021 8:45 PM -->
 
@@ -420,6 +434,8 @@ dalam tempoh yang ditetapkan, permohonan untuk mendapatkan paten itu hendaklah d
 
 (b) nombor permohonan itu;
 
+<!-- marginal: WJW21/1475 Teks BM.indd 15 -->
+
 <!-- marginal: 06/12/2021 8:45 PM -->
 
 <!-- page 16 -->
@@ -441,6 +457,8 @@ dalam tempoh yang ditetapkan, permohonan untuk mendapatkan paten itu hendaklah d
 (c) dengan menggantikan subseksyen (3) dengan subseksyen yang berikut:
 
 “(3) Jika tiada permintaan dibuat oleh pemohon di bawah perenggan 33d(1)(b), mana-mana orang yang berhasrat untuk memeriksa maklumat atau dokumen yang berhubungan dengan permohonan paten yang disebut dalam subseksyen (1) sebelum habis tempoh
+
+<!-- marginal: WJW21/1475 Teks BM.indd 16 -->
 
 <!-- marginal: 06/12/2021 8:45 PM -->
 
@@ -557,6 +575,8 @@ lapan belas bulan dari tarikh pemfailan, atau jika hak prioriti dituntut, tarikh
 “(5) Pendaftar boleh meminda apa-apa butir yang berhubungan dengan transaksi kepentingan bercagar dalam Daftar atas permohonan mana-mana orang yang merupakan pihak dalam transaksi kepentingan bercagar itu mengikut cara yang ditetapkan bersama dengan pembayaran fi yang ditetapkan.
 
 (6) Pendaftar boleh mengeluarkan transaksi kepentingan bercagar yang direkodkan itu daripada Daftar atas permohonan mana-mana orang yang merupakan pihak dalam transaksi kepentingan bercagar itu mengikut cara yang ditetapkan.”.
+
+<!-- marginal: WJW21/1475 Teks BM.indd 20 -->
 
 <!-- marginal: 06/12/2021 8:45 PM -->
 
@@ -760,6 +780,8 @@ lapan belas bulan dari tarikh pemfailan, atau jika hak prioriti dituntut, tarikh
 
 (b) dengan memotong subseksyen (2).
 
+<!-- marginal: WJW21/1475 Teks BM.indd 27 -->
+
 <!-- marginal: 06/12/2021 8:45 PM -->
 
 <!-- page 28 -->
@@ -860,6 +882,8 @@ tidak dibayar dalam masa yang dinyatakan dalam tawaran itu, atau apa-apa tempoh 
 
 (1b) Walau apa pun subseksyen (1a), pemohon boleh atas kerelaannya sendiri, membuat permintaan bagi pemeriksaan semula paten dalam bentuk sebagaimana yang ditentukan oleh Pendaftar bersama dengan pembayaran fi yang ditetapkan.”; dan
 
+<!-- marginal: WJW21/1475 Teks BM.indd 31 -->
+
 <!-- marginal: 06/12/2021 8:45 PM -->
 
 <!-- page 32 -->
@@ -915,6 +939,8 @@ tidak dibayar dalam masa yang dinyatakan dalam tawaran itu, atau apa-apa tempoh 
 (b) dalam subseksyen (1) yang dinomborkan semula—
 
 (i) dengan memasukkan selepas perkataan “Tertakluk kepada” perkataan “subseksyen 17b(4a), subseksyen 26b(1b),”;
+
+<!-- marginal: WJW21/1475 Teks BM.indd 33 -->
 
 <!-- marginal: 06/12/2021 8:45 PM -->
 
@@ -972,6 +998,8 @@ tidak dibayar dalam masa yang dinyatakan dalam tawaran itu, atau apa-apa tempoh 
 
 (ii) dengan memotong perkataan “berkenaan dengan patennya”.
 
+<!-- marginal: WJW21/1475 Teks BM.indd 35 -->
+
 <!-- marginal: 06/12/2021 8:45 PM -->
 
 <!-- page 36 -->
@@ -1028,6 +1056,8 @@ tidak dibayar dalam masa yang dinyatakan dalam tawaran itu, atau apa-apa tempoh 
 
 (3) Mana-mana orang yang dinyatakan dalam arahan atau notis amalan hendaklah mematuhi arahan atau notis amalan itu.
 
+<!-- marginal: WJW21/1475 Teks BM.indd 37 -->
+
 <!-- marginal: 06/12/2021 8:45 PM -->
 
 <!-- page 38 -->
@@ -1079,6 +1109,8 @@ jika perbuatan itu telah diperintahkan atau dilakukan dengan suci hati dan denga
 (2) Apabila salinan permohonan termasuk rayuan di bawah subseksyen (1) diterima, Pendaftar boleh mengubah status permohonan paten atau paten itu sebagaimana yang difikirkan patut oleh Pendaftar, tertakluk kepada syarat, arahan, perintah atau penghakiman mahkamah selanjutnya.
 
 (3) Apa-apa perintah atau penghakiman yang dibuat oleh mahkamah apabila selesai permohonan termasuk rayuan di bawah subseksyen (1) hendaklah disampaikan kepada Pendaftar mengikut cara yang ditetapkan bersama dengan pembayaran fi yang ditetapkan oleh pihak yang perintah atau penghakiman itu dibuat atau diberikan memihak kepadanya.
+
+<!-- marginal: WJW21/1475 Teks BM.indd 39 -->
 
 <!-- marginal: 06/12/2021 8:45 PM -->
 
@@ -1146,6 +1178,8 @@ jika perbuatan itu telah diperintahkan atau dilakukan dengan suci hati dan denga
 
 (i) bantahan dibangkitkan dalam laporan Pemeriksa yang dibuat di bawah subseksyen 30(1) atau (2) Akta ibu bagi ketidakpatuhan seksyen 26 Akta ibu; atau
 
+<!-- marginal: WJW21/1475 Teks BM.indd 42 -->
+
 <!-- marginal: 06/12/2021 8:45 PM -->
 
 <!-- page 43 -->
@@ -1159,6 +1193,8 @@ jika perbuatan itu telah diperintahkan atau dilakukan dengan suci hati dan denga
 (g) perenggan baharu 33d(1)(b) sebagaimana yang dimasukkan melalui seksyen 25 Akta ini hendaklah, pada tarikh mula berkuat kuasanya Akta ini, terpakai bagi permohonan untuk mendapatkan paten atau permohonan untuk mendapatkan perakuan bagi perbaharuan utiliti yang difailkan di bawah Akta ibu sebelum tarikh mula berkuat kuasanya Akta ini jika, pada tarikh mula berkuat kuasanya Akta ini, tempoh lapan belas bulan dari tarikh pemfailan atau tarikh prioriti, jika hak prioriti dituntut bagi permohonan itu, belum habis;
 
 (h) subseksyen 34(3) Akta ibu sebagaimana yang dipinda dalam seksyen 26 Akta ini hendaklah, pada tarikh mula berkuat kuasanya Akta ini, terpakai bagi permohonan untuk mendapatkan paten atau permohonan untuk mendapatkan perakuan bagi perbaharuan utiliti yang difailkan di bawah Akta ibu sebelum tarikh mula berkuat kuasanya Akta ini jika permintaan bagi pemeriksaan di bawah subseksyen 34(3) dibuat pada atau selepas tarikh mula berkuat kuasanya Akta ini;
+
+<!-- marginal: WJW21/1475 Teks BM.indd 43 -->
 
 <!-- marginal: 06/12/2021 8:45 PM -->
 
@@ -1175,6 +1211,8 @@ jika perbuatan itu telah diperintahkan atau dilakukan dengan suci hati dan denga
 (m) subseksyen baharu 79a(1a) sebagaimana yang dimasukkan melalui seksyen 57 Akta ini hendaklah, pada tarikh mula berkuat kuasanya Akta ini, terpakai bagi apa-apa permintaan untuk meminda paten atau perakuan bagi perbaharuan utiliti yang difailkan sebelum tarikh mula berkuat kuasanya Akta ini yang belum selesai di hadapan Pendaftar pada tarikh mula berkuat kuasanya Akta ini;
 
 (n) subseksyen baharu 82(2) sebagaimana yang dimasukkan melalui seksyen 60 Akta ini hendaklah, pada tarikh mula berkuat kuasanya Akta ini, terpakai bagi apa-apa perbuatan atau perkara yang perlu dilakukan di bawah Akta ibu dan tempoh yang ditetapkan bagi tindakan atau perkara itu dilakukan telah habis sebelum tarikh mula berkuat kuasanya Akta ini;
+
+<!-- marginal: WJW21/1475 Teks BM.indd 44 -->
 
 <!-- marginal: 06/12/2021 8:45 PM -->
 

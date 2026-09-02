@@ -124,7 +124,9 @@ then the customs ruling which was made prior to the amendment, modification or r
 
 5. Section 135 of the principal Act is amended—
 
-(a) by substituting for subparagraph (\)(a)(\) the following subparagraph:
+(a) by substituting for subparagraph (\)(a)(\) the following
+
+<!-- marginal: subparagraph: -->
 
 "(i) in the case of goods included in a class of goods appearing in an order made under section 11(1)-
 
@@ -132,13 +134,17 @@ then the customs ruling which was made prior to the amendment, modification or r
 
 (bb) be liable for a second offence or any subsequent offence to a fine of not less than twenty times the amount of the customs duty and of not more than forty times the amount of the customs duty, or to imprisonment for a term not exceeding five years or to both:
 
-Provided that when the amount of the customs duty cannot be ascertained, the penalty may amount to a fine not exceeding five hundred thousand ringgit or
+Provided that when the amount of the customs duty cannot be ascertained, the penalty may amount to a fine not
 
-<!-- marginal: to -->
+<!-- marginal: exceeding -->
 
-imprisonment for a term not exceeding five years or to both;"; and
+five hundred thousand ringgit or to imprisonment for a term not exceeding five years or to
 
-(b) by substituting for subparagraph (l)(a)(iii) the following subparagraph:
+<!-- marginal: both;"; and -->
+
+(b) by substituting for subparagraph (l)(a)(iii) the following
+
+<!-- marginal: subparagraph: -->
 
 "(iii) in the case of prohibited goods —
 
@@ -292,9 +298,7 @@ the Chairman may make an order that the appeal shall be heard and disposed of by
 
 141L. (1) A member of the Tribunal having, directly or indirectly, by himself or his family member, any interest in an appeal brought before him as a member, such member shall, immediately, disclose the fact and the nature of his interest to the Chairman.
 
-(2) Upon receipt of the disclosure of interest under subsection
-
-(1), the Chairman shall appoint another member to hear and dispose of the appeal.
+(2) Upon receipt of the disclosure of interest under subsection (1), the Chairman shall appoint another member to hear and dispose of the appeal.
 
 ### Jurisdiction of Tribunal
 
@@ -428,7 +432,9 @@ all such persons as witnesses, as the Tribunal thinks necessary to procure, rece
 
 141z. (1) The Tribunal may, at the conclusion of the proceedings before it, order that any document, record, material, thing, goods or other property produced during the proceedings be delivered to the rightful owner or be disposed of in such manner as it thinks fit.
 
-(2) Where no person has taken delivery of the document, record, material, things, goods or other property referred to in subsection (1) after a period of six months, the ownership in the document, record, material, thing, goods or other property shall be deemed to have passed to and become vested in the Government.
+(2) Where no person has taken delivery of the document, record, material, things, goods or other property referred to in subsection
+
+(1) after a period of six months, the ownership in the document, record, material, thing, goods or other property shall be deemed to have passed to and become vested in the Government.
 
 ### Act or omission done in good faith
 
@@ -520,4 +526,6 @@ This Bill seeks to amend the Customs Act 1967 ("Act 235").
 
 ## FINANCIAL IMPLICATIONS
 
-This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained. [PN(U2)2559]
+This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
+
+<!-- marginal: [PN(U2)2559] -->

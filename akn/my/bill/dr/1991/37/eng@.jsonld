@@ -1,0 +1,1417 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-37-1991",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VII"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Finance (No. 2) Bill 1991"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_I",
+      "@type": "akn:chapter",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II",
+      "@type": "akn:chapter",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_19"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "AMENDMENTS TO THE INCOME TAX ACT 1967"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_III",
+      "@type": "akn:chapter",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_III__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_III__cl_21"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "AMENDMENT TO THE SUPPLEMENTARY INCOME TAX ACT 1967"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_III__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "This Chapter shall have effect for the year of"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "assessment 1992 and subsequent years of assessment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_III__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_III__cl_21__para_b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 16 of the Supplementary Income Tax Act"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "1967 is amended by substituting for the word \"three\" appearing after the words \"rate of' in paragraphs (a) and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_III__cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_III__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the word \"two\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_10__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 48 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_10__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_10__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_10__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_10__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"sixteen\" in paragraph (a) the word \"eighteen\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_10__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_10__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (d) the following: \"(d) pays (wholly or in part) in that basis year for the maintenance at any time in that basis year of an unmarried child if it proved to the satisfaction of the Director General that the child is physically or mentally disabled,\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by inserting, immediately after the words \"one thousand\" in paragraph (b), the words \"six hundred\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the word \"sixteen\" in paragraph (a) the word \"eighteen\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_11__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 49 of the principal Act is arnended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the colon and the proviso thereto in subsection (1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserling, immediately after subsection (1), the following new subsection (!A): \"(U) Where section 50 (3) (b) or (c) applies, there shall be allowed for that year of assessment, in addition to the deduction allowed under subsection (1), a deduction of the aggregate amount of the payments or contributions or both made by the wife or a deduction of three thousand five hundred ringgit, whichever is the less: Provided that where the wife has no total income the total deduction under subsection (1) and this subsection shall not exceed three thousand five hundred ringgit,\","
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 50 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for paragraph (b) of subsection (3) the following: \"(b) where the wife makes an election under section 45 (2) or where the wife has no total income for the year of assessment to which the relevant year relates any premium for any insurance or deferred annuity within the meaning of paragraph (a) which is paid by the wife in the relevant year shall be deemed to have been paid by the husband;\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 60 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for subsection (7) excluding the proviso the following: \"(7) Where an insurer carrying on general business has— (a) re-insured the risk or part of the risk with a re-insurer who either does not carry on the business of insuring risks of that kind in Malaysia or does not re-insure the risk through a branch in Malaysia; or (b) re-insured the risk or part of the risk with an insurer licensed under the Offshore Insurance Act 1990, there may be deducted under subsection (5) (b) (ii) or (6) (b) (ii) in respect of such risks which are re-insured only ninety-five per cent of the amount which would otherwise be deductible:\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_14__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_14__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 60o of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"two\" in the proviso to subsection (1) the word \"three\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (3) the following: \"(3) Where a venture capital company incurs a loss on the disposal of shares in a venture company or on the liquidation of a venture company in the basis period for a year of assessment, such loss shall be allowed as a deduction under section 43 (2) or 44 (2) in computing the aggregate income or total income of the venture capital company, as the case may be.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_14__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the proviso to subsection (4) the following; \"Provided that where, by reason of an absence or insufficiency of such total income for that year of assessment, effect cannot be given or cannot be given in full to any deduction falling to be made to the venture capital company under this section for that year, that deduction which has not been so made shall be made to the company for any subsequent year of assessment.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_15__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 60E of the principal Act is amended—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "60E."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting, immediately after subsection (4), the following new subsection (4A): \"(4A) The chargeable income of an approved operational headquarters company, resident in Malaysia for the basis year for a year of assessment, in relation to the source consisting of the provision of qualifying services, after deduction of the tax thereon, shall be credited to an account by that company (that account and that company being referred to as the \"exempt account\" and the \"relevant company\" respectively).\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (6) the following: \"(6) Paragraphs 5 and 6 of Schedule 7A shall apply as if any reference in those paragraphs to any income exempted or which has become exempt under paragraph 3 were reference to income credited to the exempt account under subsection (4A) or income exempt under subsection (5).\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 95 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the words \"five ringgit\" in subsection (1) the words \"twenty-five ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Schedule I to the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the rates appearing in Part IV the following: \"Chargeable Income income tax For every ringgit of the first $10,000 4 per cent For every ringgit of the next $10,000 6 per cent For every ringgit of the next $10,000 9 per cent For every ringgit of the next $10,000 12 per cent For every ringgit of the next $10,000 15 per cent For every ringgit of the next $25,000 19 per cent For every ringgit of the next $25,000 23 per cent For every ringgit of the next $50,000 27 per cent For every ringgit of the next $100,000 30 per cent For every ringgit of the next $250,000 33 per cent For every ringgit exceeding $500,000 35 per cent\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_18__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_18__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_18__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Schedule 3 to the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the figures \"1975\" in subparagraph (2) of paragraph 2 the figures \"1991\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting, immediately after paragraph 2, the following new paragraphs 2A, 2s and 2c: \"2A. Subject to this Schedule, where any person had in use machinery or plant for a non-business purpose, and that machinery or plant is subsequently brought into use for the purposes of a business of his, he is deemed to have incurred qualifying plant expenditure in relation to that machinery or plant and the amount of the qualifying plant expenditure shall be taken to be the market value of the machinery or plant on the day the machinery or plant was so brought into use. 2B Subject to this Schedule, where— (a) any person is exempt from tax by or under this Act; or (b) any income of any person is exempt from tax by or under this Act, and the person had in use machinery or plant tbr the purposes of a business of his during the exempt period and the machinery or plant continues to be used for the purposes of a business of his immediately after the exempt period, he shall be deemed to have incurred qualifying plant expenditure and the amount of the qualifying plant expenditure in respect thereof shall be taken to be the market value or the net book value, whichever is the lower, of the machinery or plant on the day the exemption ceases. 2c. Subject to this Schedule, where machinery or plant is brought into use for the purposes of a business in Malaysia by any person and prior thereto the machinery or plant had been used for the purposes of a business outside Malaysia, the person shall be deemed to have incurred qualifying plant expenditure and the amount of the qualifying plant expenditure in respect thereof shall be taken to be the market value or the net book value of the machinery or plant, whichever is the lower, on the day the machinery or plant was so brought into use in Malaysia.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_18__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting, immediately after the word \"expenditure\" at the end of paragraph 10, the words, \"or such other fraction as may be prescribed\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_18__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting, immediately after paragraph 13, the following new paragraph I3A: \"13A. Notwithstanding paragraph 10, 11 or 1 1A no initial allowance shall be made to a person for a year of assessment in relation to an asset and a business of his referred to in paragraphs 2A, 2s or 2c, as the case may be.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_19__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_19__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_19__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Schedule 6 to the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"literary or\" in paragraph 32;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"three\" in paragraph 32A the word \"six\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_19__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting, immediately after paragraph 32A, the following new paragraph 32B: \"32s. Income of twelve thousand ringgit for the basis year for a year of assessment derived by an individual resident in Malaysia for that basis year from royalty or payment in respect of the publication of, or the use of or the right to use, any literary work.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_19__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph 35 the following: \"35. Interest paid or credited to any individual— (a) in respect of securities or bonds issued by the Government; or (b) in respect of bonds, other than convertible loan stock, issued by public companies listed on the Kuala Lumpur Stock Exchange.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_3__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Except for sections 6, 7, 11, 12 and 18 (a), this Chapter shall have effect for the year of assessment 1992 and subsequent years of assessment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Sections 6, 11, 12 and 18 (a) shall be deemed to have effect for the year of assessment 1991 and subsequent years of assessment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 7 shall be deemed to have come into force on the 1st January 1990."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 18 of the Income Tax Act 1967, which in this"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Chapter is referred to as the \"principal Act\", is amended by inserting, immediately after the definition of \"defined value\", the following new definition: 4 \"disabled person\" means any individual certified in writing by the Department of Social Welfare to be a disabled person;'."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 34 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_5__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_5__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_5__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (6)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_5__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_5__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word \"and\" at the end of paragraph (c);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_5__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_5__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the full stop at the end of paragraph (d) the word \"; and\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_5__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_5__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting, immediately after paragraph (d), the following new paragraph (e): tl(e) an amount equal to the amount of expenditure incurred by the relevant person in the relevant period on the provision of any equipment necessary to assist any disabled person employed by him in the production of gross income of his from business.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (8) the following: \"(8) Where any deduction in respect of any matter is capable of being made under this section, no deduction or allowance in respect of that matter shall be made under section 33 or Schedule 3, as the case may be.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 43 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the words \", 4A or 4B\" in paragraph (c) of subsection (1) the words \"or 4A\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 44 of the principal Act is amended in"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "subsection (7)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word \"or\" at the end of paragraph (d) in the definition of the word \"organisation\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the full stop at the end of paragraph (e) in the definition of the word \"organisation\" the word \"; or\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting, immediately after paragraph (e) in the definition of the word \"organisation\", the following new paragraphs (f) and (g): \"(f) a Government-assisted organisation engaged solely in addressing problems relating to industrial and commercial development and promoting enhancing the relationship between the public sector and the private sector; or (g) a Government-assisted organisation established and maintained exclusively to administer and augment a fund established or held solely for promoting national unity.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_8__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 46 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word \"and\" at the end of paragraph (b);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the full stop at the end of paragraph (c) the word \"; and\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting, immediately after paragraph (c), the following new paragraph (d): \"(d) an amount limited to a maximum of three thousand ringgit expended in that basis year by that individual for the purchase of any necessary basic supporting equipment for his own use, if he is a disabled person, or for the use of his wife, child (as defined in section 48 (9)) or parent, who is a disabled person.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 47 of the principal Act is amended by deleting"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "the colon and the proviso thereto in subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_IV",
+      "@type": "akn:chapter",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_IV__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_IV__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_IV__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_IV__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_IV__cl_26"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_IV__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "This Chapter shall be deemed to have come into"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "force on the 1st November 1991."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_IV__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_IV__cl_23__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_IV__cl_23__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 16 of the Real Property Gains Tax Act 1976,"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "which in this Chapter is referred to as the \"principal Act\", is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_IV__cl_23__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_IV__cl_23__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_IV__cl_23__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_IV__cl_23__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_IV__cl_23__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"and shall include in the assessment a sum equal to ten per cent of that amount, which shall be deemed to be an increase of the kind mentioned in section 21 (4)\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_IV__cl_23__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_IV__cl_23__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting, immediately thereafter, the following new subsection (1A): \"(1A) Where the Director General makes an assessment on the acquirer under subsection (1) (b) there shall be included in that assessment a sum equal to ten per cent of the tax payable by the disposer, which shall be deemed to be an increase of the kind mentioned in section 21 (4).\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_IV__cl_23__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by deteting the figure \"(1)\" in paragraph (b)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_IV__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 17 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "deleting the words \"subject to subsection (2)—\" in paragraph (c)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_IV__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 21e of the principal Act is arnended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for paragraph (a) of subsection (1) the following: \"(a) the acquirer shall. until he receives the Director General's certificate of clearance under section 2lA, retain the whole of that money or a sum not exceeding five per cent of the total value of the consideration, whichever is the less;\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_IV__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Schedule 2 to the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the words \"value of the asset for estate duty purposes\" in subparagraph (3) of paragraph 19 the words \"market value of the asset as at the date of the death ot that deceased person\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Finance (No. 2) Act 1991."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_I__cl_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_I__cl_2__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_I__cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Income Tax Act 1967, the Supplementary Income Tax Act 1967, the Real Property Gains Tax Act 1976, the Service Tax Act 1975 and the Stamp Act 1949 are amended in the manner specified in Chapters II, III, IV, V and VI respectively."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_I__cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Estate Duty Enactment 1941, the Estate Duty Ordinance of Sabah, the Estate Duty Ordinance of Sarawak, the Finance (Estate Duty) Act 1965, the Finance (Estate Duty) Act 1971, the Finance (Estate Duty) Act 1979 and the Finance (Estate Duty) Act 1980 are repealed in the manner specified in Chapter VII."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V",
+      "@type": "akn:chapter",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V__cl_31"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "AMENDMENTS TO THE SERVICE TAX ACT 1975"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI",
+      "@type": "akn:chapter",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_44"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "AMENDMENTS TO THE STAMP ACT 1949"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VII",
+      "@type": "akn:chapter",
+      "eli:number": "VII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VII__cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VII__cl_46"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "REPEAL OF THE ESTATE DUTY ENACTMENT 1941, THE ESTATE DUTY ORDINANCE OF SABAH, THE ESTATE DUTY ORDINANCE OF SARAWAK, THE FINANCE (ESTATE DUTY) ACT 1965. THE FINANCE (ESTATE DUTY) ACT 1971, THE FINANCE (ESTATE DUTY) ACT 1979 AND THE FINANCE (ESTATE DUTY) ACT 1980"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VII__cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VII",
+      "schema:name": {
+        "@language": "en",
+        "@value": "This Chapter shall be deemed to have come into"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "force on the Ist November 1991."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VII__cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VII__cl_46__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VII__cl_46__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VII__cl_46__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VII__cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsection ( 2 ), the Estate Duty Enactment 1941, the Estate Duty Ordinance of Sabah, the Estate Duty Ordinance of Sarawak, the Finance (Estate Duty) Act 1965, the Finance (Estate Duty) Act 1971, the Finance (Estate Duty) Act 1979 and the Finance (Estate Duty) Act 1980 are repealed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VII__cl_46__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VII__cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The repeai of the laws mentioned in subsection ( 1) shall not affect The operation of such laws in regard to any person dying before the coming into force of the repeal of such laws as if the repeal had not been made."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI",
+      "schema:name": {
+        "@language": "en",
+        "@value": "This Chapter shall be deemed to have come into"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "force on the 1st January 1992,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 2 of the Stamp Act 1949, which in this"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Chapter is referred to as the \"principal Act\", is amended by deleting the definitions of \"bank note\", \"bill of exchange\", \"bill of exchange payable on demand\", \"bill of lading\" and \"receipt\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 34."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 42 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "deleting the words \"bill of exchange,\" in subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 43 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "deleting the words \"bill of exchange,\" wherever they appear in subsections (1), (2), (3) and (5)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 44 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "deleting the words \"bill of exchange or\" wherever they appear."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 45 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "deleting the words \"bill of exchange payable on demand or at sight or on presentation, or any\" and \"bill or\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 47 the following: \"Stamping 47. Save where other express provision is made of by this or any other Act, any unstamped or instrument afier insufficiently stamped instrument not being a esecution. cheque or promissory note drawn or made within Malaysia may be stamped after execution on payment of the unpaid duty if the instrument is presented for stamping within thirty days of its execution if executed within Malaysia, or within thirty days after it has been first received in Malaysia if it has been executed out of Malaysia.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting sections"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "54 and 62."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 63 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "deleting the words \"bill of exchange,\" in paragraph (c)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_42__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_42__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 65 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_42__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by deleting the words \"any bill of exchange or\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_42__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraphs (a) and (b), by deleting the words \"bill or\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_43__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_43__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_43__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_43__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The First Schedule to the principal Act is amended—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_43__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting items 17. 18 and 19;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_43__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the full stop at the end of paragraph (c) of the exemptions under item 32 a semicolon and inserting, immediately thereafter, the following new paragraph (d)\\ \"(d) Transfer or assignment on sale of any copyright, trade mark, patent or any similar right\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_43__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for item 61 the following: \"PROTEST OF NOTE, that is to say, any declaration in writing made by a Notary Public, or other person lawfully acting as such, attesting the dishonour of a promissory note\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_43__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting item 64."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_44__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_44__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_44__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Second Schedule to the principal Act is"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "amended— Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_44__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_44",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting items 2 and 3;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_44__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_44",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"BILL\" in item 15 the word \"NOTE\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_44__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_VI__cl_44",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting item 17."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V",
+      "schema:name": {
+        "@language": "en",
+        "@value": "This Chapter shall be deemed to have come into"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "force on the Ist January 1992."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 3 of the Service Tax Act 1975, which in this"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Chapter is referred to as the \"principal Act\", is amended by substituting for paragraphs (a) and (b) the following: \"(a) any prescribed service (hereafter in this Act referred to as \"taxable service\") provided either by or in any prescribed professional establishment or prescribed establishment; (b) any prescribed goods (hereafter in this Act referred to as \"taxable goods\") sold or provided either by or in any prescribed professional establishment or prescribed establishment.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V__cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V__cl_29__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 4 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V__cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting, immediately after the words \"the charge\", the word \", premium\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V__cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V__cl_29__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V__cl_29__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V__cl_29__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V__cl_29__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V__cl_29__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing sub- paragraph (ii) as subparagraph (iii);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V__cl_29__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V__cl_29__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting, immediately after sub- paragraph (i), the following new subparagraph (ii): \"(ii) the premium for coverage;\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V__cl_29__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V__cl_29__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting, immediately after the words \"no charge\" and \"the charge\" in the renumbered subparagraph (iii), the words \"or premium\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 7 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the words \"in any\" the words \"either in any prescribed professional establishment or\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/37/eng@/~chp_V",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 8 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the words \"in any\" in subsection (1) the words \"either in any prescribed professional establishment or\"."
+      }
+    }
+  ]
+}

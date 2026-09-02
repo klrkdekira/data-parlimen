@@ -1,0 +1,1359 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-7-2023",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Abolition of Mandatory Death Penalty Bill 2023"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title and commencement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_39"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "AMENDMENTS TO THE PENAL CODE Amendment of section 115"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_III__cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_III__cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_III__cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_III__cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_III__cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_III__cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_III__cl_46"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "AMENDMENTS TO THE FIREARMS (INCREASED PENALTIES) ACT 1971 Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_III__cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Firearms (Increased Penalties) Act 1971, which is referred to as the “principal Act” in this Part, is amended in subsection 2(1) by deleting the definition of “imprisonment for life”. Amendment of section 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_III__cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 3 of the principal Act is amended by substituting for the words “be punished with death” the words “be punished with imprisonment for a term of not less than thirty years but not exceeding forty years and with whipping with not less than twelve strokes”. Amendment of section 3a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_III__cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 3a of the principal Act is amended by substituting for the words “be punished with death” the words “be punished with imprisonment for a term of not less than thirty years but not exceeding forty years and with whipping with not less than twelve strokes”. Amendment of section 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_III__cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 4 of the principal Act is amended by substituting for the words “imprisonment for life” the words “imprisonment for a term of not less than thirty years but not exceeding forty years”. Amendment of section 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_III__cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 5 of the principal Act is amended by substituting for the words “imprisonment for life” the words “imprisonment for a term of not less than thirty years but not exceeding forty years”. Amendment of section 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_III__cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 7 of the principal Act is amended by substituting for subsection (1) the following subsection: “(1) Any person trafficking in firearms shall be punished with imprisonment for a term of not less than thirty years but not exceeding forty years and with whipping with not less than six strokes.”. Transitional"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_III__cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon the coming into operation of this Act, if a person is convicted by any court for the commission of an offence under section 3, 3a or 7 of the principal Act, the person, whether at a trial or on an appeal, shall be sentenced in accordance with the provisions of the principal Act as amended by this Act even though the offence was committed before the date of coming into operation of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 124k of the Code is amended by substituting for the words “imprisonment for life” the words “imprisonment for a term of not less than thirty years but not exceeding forty years”. Amendment of section 124m"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 124m of the Code is amended by substituting for the words “imprisonment for life” the words “imprisonment for a term of not less than thirty years but not exceeding forty years”. Amendment of section 125"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 125 of the Code is amended by substituting for the words “imprisonment for life, to which fine may be added; or with imprisonment for a term which may extend to twenty years” the words “imprisonment for a term not exceeding forty years”. Amendment of section 125a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 125a of the Code is amended by substituting for the words “imprisonment for life, to which fine may be added; or with imprisonment for a term which may extend to twenty years” the words “imprisonment for a term not exceeding forty years”. Amendment of section 128"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 128 of the Code is amended by substituting for the words “imprisonment for life, or imprisonment for a term which may extend to twenty years” the words “imprisonment for a term not exceeding forty years”. Amendment of section 130"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 130 of the Code is amended by substituting for the words “imprisonment for life, or imprisonment for a term which may extend to twenty years” the words “imprisonment for a term not exceeding forty years”. Amendment of section 130a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 130a of the Code is amended by deleting paragraph (f). Amendment of section 130b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 130b(1) of the Code is amended by deleting the definition of “imprisonment for life”. Amendment of section 130c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 130c(1)(a) of the Code is amended by inserting after the words “with death” the words “or imprisonment for a term of not less than thirty years but not exceeding forty years and if not sentenced to death, shall also be punished with whipping of not less than twelve strokes”. Amendment of section 130d"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 130d of the Code is amended by substituting for the words “imprisonment for life or imprisonment for a term not exceeding thirty years” the words “imprisonment for a term not exceeding forty years”. Amendment of section 130i"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 130i(a) of the Code is amended by inserting after the words “with death” the words “or imprisonment for a term of not less than thirty years but not exceeding forty years, and if not sentenced to death, shall also be punished with whipping of not less than twelve strokes”. Amendment of section 130j"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 130j(1) of the Code is amended by substituting for the words “imprisonment for life or imprisonment for a term not exceeding thirty years” the words “imprisonment for a term not exceeding forty years”. Amendment of section 130k"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 130k of the Code is amended by substituting for the words “imprisonment for life, and shall also be liable to fine; or with imprisonment for a term which may extend to twenty years” the words “imprisonment for a term not exceeding forty years, and shall also be liable to fine”. Amendment of section 130ka"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 130ka of the Code is amended by substituting for the words “imprisonment for life” the words “forty years”. Amendment of section 130n"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 130n(a) of the Code is amended by inserting after the words “with death” the words “or imprisonment for a term of not less than thirty years but not exceeding forty years and if not sentenced to death, shall also be punished with whipping of not less than twelve strokes”. Amendment of section 130o"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 130o(1)(aa) of the Code is amended by inserting after the words “with death” the words “or imprisonment for a term of not less than thirty years but not exceeding forty years and if not sentenced to death, shall also be punished with whipping of not less than twelve strokes”. Amendment of section 130qa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 130qa(a) of the Code is amended by inserting after the words “with death” the words “or imprisonment for a term of not less than thirty years but not exceeding forty years and if not sentenced to death, shall also be punished with whipping of not less than twelve strokes”. Amendment of section 130zb"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 130zb(a) of the Code is amended by inserting after the words “with death” the words “or imprisonment for a term of not less than thirty years but not exceeding forty years and if not sentenced to death, shall also be punished with whipping of not less than twelve strokes”. Amendment of section 201"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 201 of the Code is amended by inserting after the words “imprisonment which may extend to ten years” the words “or upwards”. Amendment of section 212"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 212(1) of the Code is amended by inserting after the words “imprisonment which may extend to ten years” the words “or upwards”. Amendment of section 213"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Penal Code, which is referred to as the “Code” in this Part, is amended in section 115 by inserting after the words “which may extend to twenty years” the words “or upwards”. Amendment of section 118"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 213 of the Code is amended by inserting after the words “imprisonment which may extend to ten years” the words “or upwards”. Amendment of section 214"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 214 of the Code is amended by inserting after the words “imprisonment which may extend to ten years” the words “or upwards”. Amendment of section 216"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 216(1) of the Code is amended by inserting after the words “imprisonment for ten years” the words “or upwards”. Amendment of section 221"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 221(b) of the Code is amended by inserting after the words “imprisonment for a term which may extend to ten years” the words “or upwards”. Amendment of section 302"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 302 of the Code is amended by inserting after the words “with death” the words “or imprisonment for a term of not less than thirty years but not exceeding forty years and if not sentenced to death, shall also be punished with whipping of not less than twelve strokes”. Amendment of section 307"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 307 of the Code is amended by deleting subsection (2). Amendment of section 364"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 364 of the Code is amended by substituting for the words “death or imprisonment for a term which may extend to thirty years and shall, if he is not sentenced to death, also be liable to whipping” the words “imprisonment for a term of not more than thirty years and shall also be punished with whipping”. Amendment of section 374a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 374a(a) of the Code is amended by inserting after the words “with death” the words “or imprisonment for a term of not less than thirty years but not exceeding forty years and if not sentenced to death, shall also be punished with whipping of not less than twelve strokes”. Amendment of section 450"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 450 of the Code is amended by inserting after the words “imprisonment for a term which may extend to twenty years” the words “or upwards”. Transitional"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon the coming into operation of this Act, if a person is convicted by any court for the commission of an offence under section 121, 121a, 302 or 364 or paragraph 130c(1)(a), 130i(a), 130n(a), 130o(1)(aa), 130qa(a), 130zb(a) or 374a(a) of the Code, the person, whether at a trial or on an appeal, shall be sentenced in accordance with the provisions of the Code as amended by this Act even though the offence was committed before the date of coming into operation of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 118 of the Code is amended by inserting after the words “which may extend to twenty years” the words “or upwards”. Amendment of section 119"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 119 of the Code is amended by inserting after the words “which may extend to twenty years” the words “or upwards”. Amendment of section 121"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 121 of the Code is amended by substituting for the words “imprisonment for life” the words “imprisonment for a term of not less than thirty years but not exceeding forty years”. Amendment of section 121a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 121a of the Code is amended by substituting for the words “with death and shall also be liable to fine” the words “with death or imprisonment for a term of not less than thirty years but not exceeding forty years and if not sentenced to death, shall also be punished with whipping of not less than twelve strokes”. Amendment of section 121b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 121b of the Code is amended by substituting for the words “imprisonment for life” the words “imprisonment for a term of not less than thirty years but not exceeding forty years”. Amendment of section 122"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 122 of the Code is amended by substituting for the words “imprisonment for life or imprisonment for a term not exceeding twenty years” the words “imprisonment for a term not exceeding forty years”. Amendment of section 124k"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_IV__cl_47",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_IV__cl_48",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_IV__cl_49",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_IV__cl_50",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_IV__cl_51"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "AMENDMENTS TO THE ARMS ACT 1960 Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_IV__cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Arms Act 1960, which is referred to as the “principal Act” in this Part, is amended in subsection 2(1) by deleting the definition of “imprisonment for life”. Amendment of section 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_IV__cl_48",
+      "@type": "akn:clause",
+      "eli:number": "48",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_IV__cl_48__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_IV__cl_48__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 14 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_IV__cl_48__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_IV__cl_48",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “(1) Any person who manufactures an arm or ammunition without a valid licence granted under section 12 or in contravention of any condition imposed under paragraph 12(2)(a) shall, on conviction— (a) be punished with imprisonment for a term of not less than thirty years but not exceeding forty years and with whipping of not less than six strokes; and (b) in the case of a company, firm, society or body of persons, be punished with a fine not exceeding five million ringgit.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_IV__cl_48__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_IV__cl_48__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_IV__cl_48__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_IV__cl_48",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_IV__cl_48__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_IV__cl_48__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “twenty-five thousand ringgit” the words “two hundred and fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_IV__cl_48__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_IV__cl_48__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one hundred thousand ringgit” the words “one million ringgit”. Amendment of section 32"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_IV__cl_49",
+      "@type": "akn:clause",
+      "eli:number": "49",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 32(1)(a) of the principal Act is amended by substituting for the words “imprisonment for life or for a term not exceeding fourteen years” the words “imprisonment for a term not exceeding forty years”. Deletion of section 46"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_IV__cl_50",
+      "@type": "akn:clause",
+      "eli:number": "50",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 46 of the principal Act is deleted. Transitional"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_IV__cl_51",
+      "@type": "akn:clause",
+      "eli:number": "51",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon the coming into operation of this Act, if a person is convicted by any court for the commission of an offence under paragraph 14(1)(a) of the principal Act, the person, whether at a trial or on an appeal, shall be sentenced in accordance with the provisions of the principal Act as amended by this Act even though the offence was committed before the date of coming into operation of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Abolition of Mandatory Death Penalty Act 2023."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of Acts"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Penal Code [Act 574], the Firearms (Increased Penalties) Act 1971 [Act 37], the Arms Act 1960 [Act 206], the Kidnapping Act 1961 [Act 365], the Dangerous Drugs Act 1952 [Act 234], the Strategic Trade Act 2010 [Act 708] and the Criminal Procedure Code [Act 593] are amended in the manner specified in Parts II, III, IV, V, VI, VII and VIII respectively."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_V__cl_52",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_V__cl_53"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "AMENDMENT TO THE KIDNAPPING ACT 1961 Amendment of section 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VI__cl_54",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VI__cl_55"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "AMENDMENT TO THE DANGEROUS DRUGS ACT 1952 Amendment of section 39b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VII__cl_56",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VII__cl_57",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VII__cl_58",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VII__cl_59",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VII__cl_60"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "AMENDMENTS TO THE STRATEGIC TRADE ACT 2010 Amendment of section 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII",
+      "@type": "akn:part",
+      "eli:number": "VIII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_61",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_62",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_63",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_64",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "AMENDMENTS TO THE CRIMINAL PROCEDURE CODE Amendment of section 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_61",
+      "@type": "akn:clause",
+      "eli:number": "61",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Criminal Procedure Code, which is referred to as the “Code” in this Part, is amended in subsection 15(3) by inserting after the words “punishable with death” the words “or with imprisonment for a term of not less than thirty years but not exceeding forty years”. Amendment of section 172d"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_62",
+      "@type": "akn:clause",
+      "eli:number": "62",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subparagraph 172d(3)(b)(ii) of the Code is amended by substituting for the words “imprisonment for natural life” the words “imprisonment for a term of not less than thirty years but not exceeding forty years”. Amendment of section 388"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_63",
+      "@type": "akn:clause",
+      "eli:number": "63",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 388(1) of the Code is amended by inserting after the words “imprisonment for life” the words “or imprisonment for a term which may extend to forty years”. Amendment of section 425a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_64",
+      "@type": "akn:clause",
+      "eli:number": "64",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 425a(2) of the Code is amended by substituting for paragraph (c) the following paragraph: “(c) imprisonment for a term of not less than thirty years but not exceeding forty years.”. Amendment of First Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65",
+      "@type": "akn:clause",
+      "eli:number": "65",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_m",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_n",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_o",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_p",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_q",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_r",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_s",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_t",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_u",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_v",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_w",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_x",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_y",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_z",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_aa"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The First Schedule to the Code is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 115 of the Penal Code, in column (2), by inserting after the words “imprisonment for life” the words “or imprisonment for a term which may extend to twenty years or upwards”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_aa",
+      "@type": "akn:paragraph",
+      "eli:number": "aa",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_aa__subpara_bb",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_aa__subpara_cc",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_aa__subpara_dd",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_aa__subpara_ee",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_aa__subpara_ff",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_aa__subpara_gg",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_aa__subpara_hh"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 214 of the Penal Code, in column (2), by inserting after the words “imprisonment for ten years” the words “or upwards”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_aa__subpara_bb",
+      "@type": "akn:subparagraph",
+      "eli:number": "bb",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_aa",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 216 of the Penal Code, in column (2), by inserting after the words “imprisonment for ten years” the words “or upwards”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_aa__subpara_cc",
+      "@type": "akn:subparagraph",
+      "eli:number": "cc",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_aa",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 221 of the Penal Code, in column (2), by inserting after the words “imprisonment for ten years” the words “or upwards”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_aa__subpara_dd",
+      "@type": "akn:subparagraph",
+      "eli:number": "dd",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_aa",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 302 of the Penal Code, in column (7), by inserting after the word “Death” the words “or imprisonment for a term of not less than thirty years but not exceeding forty years, and if not sentenced to death, with whipping of not less than twelve strokes”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_aa__subpara_ee",
+      "@type": "akn:subparagraph",
+      "eli:number": "ee",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_aa",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in relation to section 307 of the Penal Code, by deleting the item “Attempt by life convict to murder, if hurt is caused” and the particulars relating to it;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_aa__subpara_ff",
+      "@type": "akn:subparagraph",
+      "eli:number": "ff",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_aa",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 364 of the Penal Code, in column (7), by substituting for the words “Death, or imprisonment for thirty years” the words “Imprisonment for a term of not more than thirty years”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_aa__subpara_gg",
+      "@type": "akn:subparagraph",
+      "eli:number": "gg",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_aa",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 374a of the Penal Code, in column (7), by inserting after the word “Death” the words “or imprisonment for a term of not less than thirty years but not exceeding forty years, and if not sentenced to death, with whipping of not less than twelve strokes”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_aa__subpara_hh",
+      "@type": "akn:subparagraph",
+      "eli:number": "hh",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_aa",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 450 of the Penal Code, in column (2), by inserting after the words “punishable with imprisonment for life” the words “, imprisonment for twenty years or upwards”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 118 of the Penal Code, in column (2), by inserting after the words “imprisonment for life” the words “or imprisonment for a term which may extend to twenty years or upwards”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 119 of the Penal Code, in column (2), by inserting after the words “imprisonment for life” the words “or imprisonment for a term which may extend to twenty years or upwards”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 121 of the Penal Code, in column (7), by substituting for the words “imprisonment for life” the words “imprisonment for a term of not less than thirty years but not exceeding forty years”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 121a of the Penal Code, in column (7), by substituting for the words “and fine” the words “or imprisonment for a term of not less than thirty years but not exceeding forty years, and if not sentenced to death, with whipping of not less than twelve strokes”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 121b of the Penal Code, in column (7), by substituting for the words “Imprisonment for life” the words “Imprisonment for a term of not less than thirty years but not exceeding forty years”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 122 of the Penal Code, in column (7), by substituting for the words “Imprisonment for life, or imprisonment for twenty years” the words “Imprisonment for a term not exceeding forty years”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 124k of the Penal Code, in column (7), by substituting for the words “Imprisonment for life” the words “Imprisonment for a term of not less than thirty years but not exceeding forty years”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 124m of the Penal Code, in column (7), by substituting for the words “Imprisonment for life” the words “Imprisonment for a term of not less than thirty years but not exceeding forty years”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 125 of the Penal Code, in column (7), by substituting for the words “Imprisonment for life, and fine; or imprisonment for twenty years and fine;” the words “Imprisonment for a term not exceeding forty years and fine,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 125a of the Penal Code, in column (7), by substituting for the words “Imprisonment for life, and fine; or imprisonment for twenty years and fine;” the words “Imprisonment for a term not exceeding forty years and fine,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 128 of the Penal Code, in column (7), by substituting for the words “Imprisonment for life, or imprisonment for twenty years” the words “Imprisonment for a term not exceeding forty years”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 130 of the Penal Code, in column (7), by substituting for the words “Imprisonment for life, or imprisonment for twenty years” the words “Imprisonment for a term not exceeding forty years”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_n",
+      "@type": "akn:paragraph",
+      "eli:number": "n",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 130c of the Penal Code, in column (7), by inserting after the word “Death” the words “or imprisonment for a term of not less than thirty years but not exceeding forty years, and if not sentenced to death, with whipping of not less than twelve strokes”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_o",
+      "@type": "akn:paragraph",
+      "eli:number": "o",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 130d of the Penal Code, in column (7), by substituting for the words “Imprisonment for life, or imprisonment for thirty years” the words “Imprisonment for a term not exceeding forty years”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_p",
+      "@type": "akn:paragraph",
+      "eli:number": "p",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 130i of the Penal Code, in column (7), by inserting after the word “Death” the words “or imprisonment for a term of not less than thirty years but not exceeding forty years, and if not sentenced to death, with whipping of not less than twelve strokes”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_q",
+      "@type": "akn:paragraph",
+      "eli:number": "q",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 130j of the Penal Code, in column (7), by substituting for the words “Imprisonment for life, or imprisonment for thirty years” the words “Imprisonment for a term not exceeding forty years”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_r",
+      "@type": "akn:paragraph",
+      "eli:number": "r",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 130k of the Penal Code, in column (7), by substituting for the words “Imprisonment for life, and fine; or imprisonment for twenty years” the words “Imprisonment for a term not exceeding forty years, and fine”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_s",
+      "@type": "akn:paragraph",
+      "eli:number": "s",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 130ka of the Penal Code, in column (7), by substituting for the words “imprisonment for life” the words “forty years”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_t",
+      "@type": "akn:paragraph",
+      "eli:number": "t",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 130n of the Penal Code, in column (7), by inserting after the word “Death” the words “or imprisonment for a term of not less than thirty years but not exceeding forty years, and if not sentenced to death, with whipping of not less than twelve strokes”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_u",
+      "@type": "akn:paragraph",
+      "eli:number": "u",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 130o of the Penal Code, in column (7), by inserting after the word “Death” the words “or imprisonment for a term of not less than thirty years but not exceeding forty years, and if not sentenced to death, with whipping of not less than twelve strokes”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_v",
+      "@type": "akn:paragraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 130qa of the Penal Code, in column (7), by substituting for the words “If the act results in death, with death, in any other case, imprisonment for not less than seven years but not exceeding thirty years, and fine” the words “Death or imprisonment for a term of not less than thirty years but not exceeding forty years, and if not sentenced to death, with whipping of not less than twelve strokes; or imprisonment for not less than seven years but not exceeding thirty years, and fine”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_w",
+      "@type": "akn:paragraph",
+      "eli:number": "w",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 130zb of the Penal Code, in column (7), by substituting for the words “If the act results in death, with death, in any other case, imprisonment for not less than seven years but not exceeding thirty years, and fine” the words “Death or imprisonment for a term of not less than thirty years but not exceeding forty years, and if not sentenced to death, with whipping of not less than twelve strokes; or imprisonment for not less than seven years but not exceeding thirty years, and fine”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_x",
+      "@type": "akn:paragraph",
+      "eli:number": "x",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 201 of the Penal Code, in column (2), by inserting after the words “imprisonment for ten years” the words “or upwards”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_y",
+      "@type": "akn:paragraph",
+      "eli:number": "y",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 212 of the Penal Code, in column (2), by inserting after the words “imprisonment for ten years” the words “or upwards”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65__para_z",
+      "@type": "akn:paragraph",
+      "eli:number": "z",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VIII__cl_65",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the item relating to section 213 of the Penal Code, in column (2), by inserting after the words “imprisonment for ten years” the words “or upwards”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VII__cl_56",
+      "@type": "akn:clause",
+      "eli:number": "56",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VII__cl_56__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VII__cl_56__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VII__cl_56__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Strategic Trade Act 2010, which is referred to as the “principal Act” in this Part, is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VII__cl_56__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VII__cl_56",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsubparagraph 9(4)(a)(i)(A) by substituting for the words “imprisonment for natural life” the words “imprisonment for a term of not less than thirty years but not exceeding forty years”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VII__cl_56__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VII__cl_56",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsubparagraph 9(5)(a)(i)(A) by substituting for the words “imprisonment for natural life” the words “imprisonment for a term of not less than thirty years but not exceeding forty years”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VII__cl_56__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VII__cl_56",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsubparagraph 9(6)(a)(i)(A) by substituting for the words “imprisonment for natural life” the words “imprisonment for a term of not less than thirty years but not exceeding forty years”. Amendment of section 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VII__cl_57",
+      "@type": "akn:clause",
+      "eli:number": "57",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 10(2)(a) of the principal Act is amended by substituting for the words “imprisonment for natural life” the words “imprisonment for a term of not less than thirty years but not exceeding forty years”. Amendment of section 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VII__cl_58",
+      "@type": "akn:clause",
+      "eli:number": "58",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subparagraph 11(2)(a)(i) of the principal Act is amended by substituting for the words “imprisonment for natural life” the words “imprisonment for a term of not less than thirty years but not exceeding forty years”. Amendment of section 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VII__cl_59",
+      "@type": "akn:clause",
+      "eli:number": "59",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsubparagraph 12(4)(a)(i)(A) of the principal Act is amended by substituting for the words “imprisonment for natural life” the words “imprisonment for a term of not less than thirty years but not exceeding forty years”. Transitional"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VII__cl_60",
+      "@type": "akn:clause",
+      "eli:number": "60",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon the coming into operation of this Act, if a person is convicted by any court for the commission of an offence under subsubparagraph 9(4)(a)(i)(A), subsubparagraph 9(5)(a)(i)(A), subsubparagraph 9(6)(a)(i)(A), paragraph 10(2)(a), subparagraph 11(2)(a)(i) or subsubparagraph 12(4)(a)(i)(A) of the principal Act, the person, whether at a trial or on an appeal, shall be sentenced in accordance with the provisions of the principal Act as amended by this Act even though the offence was committed before the date of coming into operation of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VI__cl_54",
+      "@type": "akn:clause",
+      "eli:number": "54",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VI__cl_54__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VI__cl_54__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Dangerous Drugs Act 1952, which is referred to as the “principal Act” in this Part, is amended in section 39b—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VI__cl_54__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VI__cl_54",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “be punished with whipping of not less than fifteen strokes” the words “be punished with whipping of not less than twelve strokes”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VI__cl_54__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VI__cl_54",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsections (2a) and (2b). Transitional"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VI__cl_55",
+      "@type": "akn:clause",
+      "eli:number": "55",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon the coming into operation of this Act, if a person is convicted by any court for the commission of an offence under section 39b of the principal Act, the person, whether at a trial or on an appeal, shall be sentenced in accordance with the provisions of the principal Act as amended by this Act even though the offence was committed before the date of coming into operation of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_V__cl_52",
+      "@type": "akn:clause",
+      "eli:number": "52",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Kidnapping Act 1961, which is referred to as the “principal Act” in this Part, is amended in subsection 3(1) by substituting for the words “with death or imprisonment for life and shall, if he is not sentenced to death, also be liable to whipping” the words “with imprisonment for a term of not less than thirty years but not exceeding forty years and with whipping”. Transitional"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_V__cl_53",
+      "@type": "akn:clause",
+      "eli:number": "53",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/7/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon the coming into operation of this Act, if a person is convicted by any court for the commission of an offence under section 3 of the principal Act, the person, whether at a trial or on an appeal, shall be sentenced in accordance with the provisions of the principal Act as amended by this Act even though the offence was committed before the date of coming into operation of this Act."
+      }
+    }
+  ]
+}

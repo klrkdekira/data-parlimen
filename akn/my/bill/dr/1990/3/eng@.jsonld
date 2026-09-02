@@ -1,0 +1,365 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-3-1990",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_9"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Seri Pahlawan Gagah Perkasa (Remembrance Allowance) Bill 1990"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Seri Pahlawan Gagah Perkasa (Remembrance Allowance) Act 1990."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "\"child\" includes a step-child and a child adopted, before the death of the recipient, under any written law, custom or usage; \"Decoration\" means the Decoration of Seri Pahlawan Gagah Perkasa conferred under the Statutes of Seri Pahlawan Gagah Perkasa (S.P.); \"Minister\" means the Prime Minister; \"recipient\" means any person who has been conferred the Decoration; \"remembrance allowance\" means the remembrance allowance granted under subsection (1) of section 3; \"spouse\" means the widow or widower of a deceased recipient whose marriage is recognized in Malaysia as a valid marriage under any written law, religion, custom or usage."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_3__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "There may be granted to a recipient a remembrance allowance of two hundred ringgit per month, and where the Decoration is conferred on such recipient more than once, there may be granted to him a separate remembrance allowance of two hundred ringgit per month in respect of each Decoration conferred on him, such allowance being payable in arrear not earlier than the end of each month."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Decoration was conferred before the commencement of this Act and the recipient is living upon such commencement, the remembrance allowance shall be paid retrospectively to the recipient, commencing with the month in which the Decoration was conferred on him, but not earlier, in any case, than the month of June 1983."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Decoration is conferred after the commencement of this Act, the remembrance allowance shall be paid to the recipient monthly in arrear, commencing with the month in which the Decoration is conferred on him."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_4__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_4__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_4__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_4__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The grant of a remembrance allowance shall cease—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_4__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "upon the death of the recipient;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_4__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "upon the recipient being convicted for an offence by a court of law in the Federation and sentenced to death, or to imprisonment for any term otherwise than imprisonment in lieu of payment of fine; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_4__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "upon cancellation or annullment of conferment of the Decoration in accordance with section VIII of the Statutes of Seri Pahlawan Gagah Perkasa, and no remembrance allowance shall be paid commencing with the month in which the death takes place, or the sentence is imposed, or the conferment of the Decoration is cancelled or annulled, as the case may be. (REMEMBRANCE ALLOWANCE)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the recipient receives a free pardon in respect of the said conviction, or if the cancelled or annulled Decoration is restored to him, the remembrance allowance shall be restored to him commencing from the month in which the free pardon is received or the restoration of the Decoration is made."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_5__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_5__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_5__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Decoration had been conferred posthumously before the commencement of this Act, there may be made a grant of a total sum of twenty thousand ringgit once only—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_5__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to the spouse or spouses and children of the deceased recipient who are living on the date of the commencement of this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_5__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if there is on such date no such spouse or child living, to his parents or parent living on such date; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_5__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if there is on such date no such parent living, to his grandparents or grandparent living on such date."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_5__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_5__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_5__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Decoration is conferred posthu- mously after the commencement of this Act, there may be made a grant of a total sum of twenty thousand ringgit once only—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_5__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to the spouse or spouses and children of the deceased recipient who are living on the date of the conferment of the Decoration;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_5__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if there is on such date no such spouse or child living, to his parents or parent living on such date; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_5__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if there is on such date no parent living, to his grandparents or grandparent living on such date."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_6__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Where the Decoration was conferred before the"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "commencement of this Act and the recipient had died before such commencement, there may be made a grant of a total sum of twenty thousand ringgit once only—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to the spouse or spouses and children of the deceased recipient who are living on the date of the commencement of this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if there is on such date no such spouse or child living, to his parents or parent living on such date; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if there is on such date no such parent living, to his grandparents or grandparent living on such date."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The amounts to be paid to the spouse or spouses,"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "children, parents or grandparents, as the case may be, under section 5 or 6 shall be in such proportions as may be determined by the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The remembrance allowances and sums granted"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "under this Act shall be charged on the Federal Consolidated Fund."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/3/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Any remembrance allowance or sum granted under"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "this Act shall not be assignable or transferable, or liable to be attached, sequestrated or levied upon in respect of any claim."
+      }
+    }
+  ]
+}

@@ -8,9 +8,7 @@
 
 bernama
 
-Suatu Akta untuk meminda Akta Pendaftaran Ahli Farmasi
-
-1951. [ ]
+Suatu Akta untuk meminda Akta Pendaftaran Ahli Farmasi 1951. [ ]
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 
@@ -48,11 +46,7 @@ seksyen 3—
 
 (c) lapan orang ahli farmasi berdaftar dalam perkhidmatan awam, yang dilantik oleh Menteri;
 
-(d) tiga orang ahli farmasi berdaftar dari mana-mana
-
-<!-- marginal: institusi -->
-
-pendidikan tinggi yang me- nawarkan kursus atau program farmasi, yang dilantik oleh Menteri;
+(d) tiga orang ahli farmasi berdaftar dari mana-mana institusi pendidikan tinggi yang me- nawarkan kursus atau program farmasi, yang dilantik oleh Menteri;
 
 (e) dua orang ahli farmasi berdaftar yang tidak dalam perkhidmatan awam, yang dilantik oleh Menteri; dan
 
@@ -62,19 +56,23 @@ yang hendaklah warganegara Malaysia."; dan
 
 (b) dengan memasukkan selepas subseksyen (4) subseksyen yang berikut:
 
-"(5) Bagi maksud subseksyen
+"(5) Bagi maksud subseksyen (1), "warganegara Malaysia" tidaklah termasuk pemastautin tetap Malaysia.".
 
-<!-- marginal: (1), -->
+<!-- marginal: Pindaan -->
 
-"warganegara Malaysia" tidaklah termasuk pemastautin tetap Malaysia.".
+3. Subseksyen 4(4) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 4. -->
 
-3. Subseksyen 4(4) Akta ibu adalah dipinda dengan seksyen 4. menggantikan perkataan "lima" dengan perkataan "sembilan".
+menggantikan perkataan "lima" dengan perkataan
 
-Pindaan
+<!-- marginal: "sembilan". -->
 
-4. Seksyen 13 Akta ibu adalah dipinda— seksyen 13.
+<!-- marginal: Pindaan -->
+
+4. Seksyen 13 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 13. -->
 
 (a) dalam subseksyen (7)—
 
@@ -168,9 +166,13 @@ menggantikan perkataan "pengeluaran namanya daripada daftar" dengan perkataan "m
 
 <!-- page 6 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-9. Subseksyen 22(1) Akta ibu adalah dipinda dengan seksyen 22. memasukkan selepas perenggan (b) perenggan yang
+9. Subseksyen 22(1) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 22. -->
+
+memasukkan selepas perenggan (b) perenggan yang
 
 ### berikut:
 

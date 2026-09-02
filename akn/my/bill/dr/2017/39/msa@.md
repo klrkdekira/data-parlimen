@@ -8,7 +8,7 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian i
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -18,7 +18,7 @@
 
 3. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENTADBIRAN SISTEM INSURANS PEKERJAAN
 
@@ -30,7 +30,7 @@
 
 7. Penjalanan fungsi dan kuasa Pertubuhan
 
-## Bahagian III
+## BAHAGIAN III
 
 ## JAWATANKUASA
 
@@ -46,7 +46,7 @@
 
 <!-- page 6 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENDAFTARAN DAN CARUMAN
 
@@ -78,7 +78,7 @@
 
 26. Penentusahan caruman yang dibayar melalui ejen
 
-## Bahagian V
+## BAHAGIAN V
 
 ## FAEDAH
 
@@ -118,7 +118,7 @@
 
 43. Hak orang berinsurans di bawah undang-undang bertulis lain
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PROGRAM PENEMPATAN PEKERJAAN SEMULA
 
@@ -126,7 +126,7 @@
 
 45. Kuasa untuk menubuhkan pusat atau institut
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PERUNTUKAN KEWANGAN
 
@@ -156,7 +156,7 @@
 
 58. Pengenaan surcaj
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## JEMAAH RAYUAN KESELAMATAN SOSIAL
 
@@ -178,7 +178,7 @@
 
 66. Penggantungan bayaran sementara menunggu rayuan
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## PEGAWAI PERKHIDMATAN PEKERJAAN, PENGUATKUASAAN
 
@@ -206,7 +206,7 @@
 
 77. Pengkompaunan kesalahan
 
-## Bahagian X
+## BAHAGIAN X
 
 AM
 
@@ -238,13 +238,13 @@ AM
 
 90. Pengemukaan dokumen secara elektronik
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
-## Jadual Kedua
+## JADUAL KEDUA
 
-## Jadual Ketiga
+## JADUAL KETIGA
 
-## Jadual KeemPat
+## JADUAL KEEMPAT
 
 <!-- page 11 -->
 
@@ -254,7 +254,7 @@ Suatu Akta untuk mengadakan peruntukan bagi Sistem Insurans Pekerjaan yang ditad
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -366,7 +366,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “umur persaraan minimum” mempunyai erti yang diberikan kepadanya dalam Akta Umur Persaraan Minimum 2012 [Akta 753].
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENTADBIRAN SISTEM INSURANS PEKERJAAN
 
@@ -410,7 +410,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (2) Walau apa pun subseksyen (1), Ketua Pengarah boleh, secara bertulis, mewakilkan apa-apa kuasa dan fungsinya tertakluk kepada apa-apa terma dan sekatan sebagaimana yang difikirkan patut olehnya kepada Timbalan Ketua Pengarah, Pegawai Perkhidmatan Pekerjaan, atau pegawai dan pekhidmat Pertubuhan bagi maksud Akta ini.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## JAWATANKUASA
 
@@ -534,7 +534,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 12. Jika mana-mana anggota Jawatankuasa, atau jawatankuasa yang ditubuhkan di bawah seksyen 9, mempunyai apa-apa kepentingan langsung atau tidak langsung dalam apa-apa perkara yang sedang dipertimbangkan oleh Jawatankuasa atau jawatankuasa yang ditubuhkan di bawah seksyen 9, mengikut mana-mana yang berkenaan, dia hendaklah dengan serta-merta mengisytiharkan kepada Pengerusi jenis dan takat kepentingannya dalam perkara itu dan anggota itu tidak boleh hadir atau mengambil bahagian dalam apa-apa perbincangan atau keputusan Jawatankuasa, atau jawatankuasa yang ditubuhkan di bawah seksyen 9, mengikut mana-mana yang berkenaan, tentang perkara itu.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENDAFTARAN DAN CARUMAN
 
@@ -594,11 +594,7 @@ Akta Keselamatan Sosial Pekerja 1969 sebelum permulaan kuat kuasa Akta ini henda
 
 mana-mana yang berkenaan.
 
-(4) Jika Menteri menentukan kadar caruman di bawah subseksyen (3) supaya mengikut Bahagian I, Bahagian II,
-
-## Bahagian III atau Bahagian IV Jadual Kedua, mengikut mana-
-
-mana yang berkenaan, gaji bulanan anggapan bagi maksud mengira faedah hendaklah sebagaimana yang dinyatakan dalam Bahagian I,
+(4) Jika Menteri menentukan kadar caruman di bawah subseksyen (3) supaya mengikut Bahagian I, Bahagian II, Bahagian III atau Bahagian IV Jadual Kedua, mengikut mana- mana yang berkenaan, gaji bulanan anggapan bagi maksud mengira faedah hendaklah sebagaimana yang dinyatakan dalam Bahagian I,
 
 ## Bahagian II, Bahagian III atau Bahagian IV Jadual Ketiga,
 
@@ -684,7 +680,7 @@ atas tunggakan caruman itu yang kena dibayar oleh mana-mana majikan berdasarkan 
 
 <!-- page 28 -->
 
-## Bahagian V
+## BAHAGIAN V
 
 ## FAEDAH
 
@@ -958,7 +954,7 @@ elaun mencari pekerjaan, elaun bekerja semula awal, elaun pendapatan berkurangan
 
 (b) atau (c), mengikut mana-mana yang berkenaan, Pertubuhan hendaklah menangguhkan penentuan persoalan mengenai kehilangan pekerjaan berkenaan dengan tuntutan bagi faedah itu sehingga representasi, tuntutan atau aduan orang berinsurans itu di bawah perenggan (1)(a), (b) atau (c) diselesaikan.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PROGRAM PENEMPATAN PEKERJAAN SEMULA
 
@@ -996,7 +992,7 @@ elaun mencari pekerjaan, elaun bekerja semula awal, elaun pendapatan berkurangan
 
 <!-- page 41 -->
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PERUNTUKAN KEWANGAN
 
@@ -1192,7 +1188,7 @@ hendaklah menyebabkan supaya Ketua Pengarah diberitahu mengenai penarikan balik 
 
 dengan ansuran bulanan yang sama banyak yang tidak melebihi satu per empat daripada jumlah gaji atau pencen bulanan orang itu, mengikut mana-mana yang berkenaan.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## JEMAAH RAYUAN KESELAMATAN SOSIAL
 
@@ -1294,7 +1290,7 @@ dengan ansuran bulanan yang sama banyak yang tidak melebihi satu per empat darip
 
 66. Jika Pertubuhan telah membuat suatu rayuan terhadap suatu perintah Jemaah Rayuan, Jemaah Rayuan boleh, dan jika diarahkan oleh Mahkamah Tinggi hendaklah, sementara menunggu keputusan rayuan itu, menahan perintah yang terhadapnya rayuan dibuat yang berhubungan dengan bayaran apa-apa jumlah wang.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## PEGAWAI PERKHIDMATAN PEKERJAAN, PENGUATKUASAAN
 
@@ -1430,7 +1426,7 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 
 (5) Semua jumlah wang yang diterima oleh Ketua Pengarah di bawah seksyen ini hendaklah dibayar ke dalam dan menjadi sebahagian daripada Kumpulan Wang.
 
-## Bahagian X
+## BAHAGIAN X
 
 AM
 
@@ -1574,7 +1570,7 @@ boleh dipertuduh secara berasingan atau bersesama dalam prosiding yang sama bers
 
 <!-- page 66 -->
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
 [Seksyen 2]
 
@@ -1596,7 +1592,7 @@ boleh dipertuduh secara berasingan atau bersesama dalam prosiding yang sama bers
 
 9. Mana-mana pekerja yang telah mencapai umur lima puluh tujuh tahun dan yang berkenaan dengannya tiada caruman telah kena dibayar di bawah Akta ini sebelum dia mencapai umur lima puluh tujuh tahun.
 
-## Jadual Kedua
+## JADUAL KEDUA
 
 [Seksyen 18]
 
@@ -1748,115 +1744,155 @@ tetapi tidak melebihi RM1,100
 
 <!-- page 68 -->
 
-Gaji Bulanan Caruman Caruman
+Gaji Bulanan Caruman
+
+<!-- marginal: Caruman -->
 
 <!-- marginal: Jumlah -->
 
-Majikan Pekerja
+Majikan
 
-16 Apabila gaji melebihi RM1,100 RM2.30 RM2.30
+<!-- marginal: Pekerja -->
+
+16 Apabila gaji melebihi RM1,100 RM2.30
+
+<!-- marginal: RM2.30 -->
 
 <!-- marginal: RM4.60 -->
 
 tetapi tidak melebihi RM1,200
 
-17 Apabila gaji melebihi RM1,200 RM2.50 RM2.50
+17 Apabila gaji melebihi RM1,200 RM2.50
+
+<!-- marginal: RM2.50 -->
 
 <!-- marginal: RM5.00 -->
 
 tetapi tidak melebihi RM1,300
 
-18 Apabila gaji melebihi RM1,300 RM2.70 RM2.70
+18 Apabila gaji melebihi RM1,300 RM2.70
+
+<!-- marginal: RM2.70 -->
 
 <!-- marginal: RM5.40 -->
 
 tetapi tidak melebihi RM1,400
 
-19 Apabila gaji melebihi RM1,400 RM2.90 RM2.90
+19 Apabila gaji melebihi RM1,400 RM2.90
+
+<!-- marginal: RM2.90 -->
 
 <!-- marginal: RM5.80 -->
 
 tetapi tidak melebihi RM1,500
 
-20 Apabila gaji melebihi RM1,500 RM3.10 RM3.10
+20 Apabila gaji melebihi RM1,500 RM3.10
+
+<!-- marginal: RM3.10 -->
 
 <!-- marginal: RM6.20 -->
 
 tetapi tidak melebihi RM1,600
 
-21 Apabila gaji melebihi RM1,600 RM3.30 RM3.30
+21 Apabila gaji melebihi RM1,600 RM3.30
+
+<!-- marginal: RM3.30 -->
 
 <!-- marginal: RM6.60 -->
 
 tetapi tidak melebihi RM1,700
 
-22 Apabila gaji melebihi RM1,700 RM3.50 RM3.50
+22 Apabila gaji melebihi RM1,700 RM3.50
+
+<!-- marginal: RM3.50 -->
 
 <!-- marginal: RM7.00 -->
 
 tetapi tidak melebihi RM1,800
 
-23 Apabila gaji melebihi RM1,800 RM3.70 RM3.70
+23 Apabila gaji melebihi RM1,800 RM3.70
+
+<!-- marginal: RM3.70 -->
 
 <!-- marginal: RM7.40 -->
 
 tetapi tidak melebihi RM1,900
 
-24 Apabila gaji melebihi RM1,900 RM3.90 RM3.90
+24 Apabila gaji melebihi RM1,900 RM3.90
+
+<!-- marginal: RM3.90 -->
 
 <!-- marginal: RM7.80 -->
 
 tetapi tidak melebihi RM2,000
 
-25 Apabila gaji melebihi RM2,000 RM4.10 RM4.10
+25 Apabila gaji melebihi RM2,000 RM4.10
+
+<!-- marginal: RM4.10 -->
 
 <!-- marginal: RM8.20 -->
 
 tetapi tidak melebihi RM2,100
 
-26 Apabila gaji melebihi RM2,100 RM4.30 RM4.30
+26 Apabila gaji melebihi RM2,100 RM4.30
+
+<!-- marginal: RM4.30 -->
 
 <!-- marginal: RM8.60 -->
 
 tetapi tidak melebihi RM2,200
 
-27 Apabila gaji melebihi RM2,200 RM4.50 RM4.50
+27 Apabila gaji melebihi RM2,200 RM4.50
+
+<!-- marginal: RM4.50 -->
 
 <!-- marginal: RM9.00 -->
 
 tetapi tidak melebihi RM2,300
 
-28 Apabila gaji melebihi RM2,300 RM4.70 RM4.70
+28 Apabila gaji melebihi RM2,300 RM4.70
+
+<!-- marginal: RM4.70 -->
 
 <!-- marginal: RM9.40 -->
 
 tetapi tidak melebihi RM2,400
 
-29 Apabila gaji melebihi RM2,400 RM4.90 RM4.90
+29 Apabila gaji melebihi RM2,400 RM4.90
+
+<!-- marginal: RM4.90 -->
 
 <!-- marginal: RM9.80 -->
 
 tetapi tidak melebihi RM2,500
 
-30 Apabila gaji melebihi RM2,500 RM5.10 RM5.10
+30 Apabila gaji melebihi RM2,500 RM5.10
+
+<!-- marginal: RM5.10 -->
 
 <!-- marginal: RM10.20 -->
 
 tetapi tidak melebihi RM2,600
 
-31 Apabila gaji melebihi RM2,600 RM5.30 RM5.30
+31 Apabila gaji melebihi RM2,600 RM5.30
+
+<!-- marginal: RM5.30 -->
 
 <!-- marginal: RM10.60 -->
 
 tetapi tidak melebihi RM2,700
 
-32 Apabila gaji melebihi RM2,700 RM5.50 RM5.50
+32 Apabila gaji melebihi RM2,700 RM5.50
+
+<!-- marginal: RM5.50 -->
 
 <!-- marginal: RM11.00 -->
 
 tetapi tidak melebihi RM2,800
 
-33 Apabila gaji melebihi RM2,800 RM5.70 RM5.70
+33 Apabila gaji melebihi RM2,800 RM5.70
+
+<!-- marginal: RM5.70 -->
 
 <!-- marginal: RM11.40 -->
 
@@ -2020,115 +2056,155 @@ tetapi tidak melebihi RM140
 
 <!-- page 70 -->
 
-Gaji Bulanan Caruman Caruman
+Gaji Bulanan Caruman
+
+<!-- marginal: Caruman -->
 
 <!-- marginal: Jumlah -->
 
-Majikan Pekerja
+Majikan
 
-6 Apabila gaji melebihi RM140 85 sen 85 sen
+<!-- marginal: Pekerja -->
+
+6 Apabila gaji melebihi RM140 85 sen
+
+<!-- marginal: 85 sen -->
 
 <!-- marginal: RM1.70 -->
 
 tetapi tidak melebihi RM200
 
-7 Apabila gaji melebihi RM200 RM1.25 RM1.25
+7 Apabila gaji melebihi RM200 RM1.25
+
+<!-- marginal: RM1.25 -->
 
 <!-- marginal: RM2.50 -->
 
 tetapi tidak melebihi RM300
 
-8 Apabila gaji melebihi RM300 RM1.75 RM1.75
+8 Apabila gaji melebihi RM300 RM1.75
+
+<!-- marginal: RM1.75 -->
 
 <!-- marginal: RM3.50 -->
 
 tetapi tidak melebihi RM400
 
-9 Apabila gaji melebihi RM400 RM2.25 RM2.25
+9 Apabila gaji melebihi RM400 RM2.25
+
+<!-- marginal: RM2.25 -->
 
 <!-- marginal: RM4.50 -->
 
 tetapi tidak melebihi RM500
 
-10 Apabila gaji melebihi RM500 RM2.75 RM2.75
+10 Apabila gaji melebihi RM500 RM2.75
+
+<!-- marginal: RM2.75 -->
 
 <!-- marginal: RM5.50 -->
 
 tetapi tidak melebihi RM600
 
-11 Apabila gaji melebihi RM600 RM3.25 RM3.25
+11 Apabila gaji melebihi RM600 RM3.25
+
+<!-- marginal: RM3.25 -->
 
 <!-- marginal: RM6.50 -->
 
 tetapi tidak melebihi RM700
 
-12 Apabila gaji melebihi RM700 RM3.75 RM3.75
+12 Apabila gaji melebihi RM700 RM3.75
+
+<!-- marginal: RM3.75 -->
 
 <!-- marginal: RM7.50 -->
 
 tetapi tidak melebihi RM800
 
-13 Apabila gaji melebihi RM800 RM4.25 RM4.25
+13 Apabila gaji melebihi RM800 RM4.25
+
+<!-- marginal: RM4.25 -->
 
 <!-- marginal: RM8.50 -->
 
 tetapi tidak melebihi RM900
 
-14 Apabila gaji melebihi RM900 RM4.75 RM4.75
+14 Apabila gaji melebihi RM900 RM4.75
+
+<!-- marginal: RM4.75 -->
 
 <!-- marginal: RM9.50 -->
 
 tetapi tidak melebihi RM1,000
 
-15 Apabila gaji melebihi RM1,000 RM5.25 RM5.25
+15 Apabila gaji melebihi RM1,000 RM5.25
+
+<!-- marginal: RM5.25 -->
 
 <!-- marginal: RM10.50 -->
 
 tetapi tidak melebihi RM1,100
 
-16 Apabila gaji melebihi RM1,100 RM5.75 RM5.75
+16 Apabila gaji melebihi RM1,100 RM5.75
+
+<!-- marginal: RM5.75 -->
 
 <!-- marginal: RM11.50 -->
 
 tetapi tidak melebihi RM1,200
 
-17 Apabila gaji melebihi RM1,200 RM6.25 RM6.25
+17 Apabila gaji melebihi RM1,200 RM6.25
+
+<!-- marginal: RM6.25 -->
 
 <!-- marginal: RM12.50 -->
 
 tetapi tidak melebihi RM1,300
 
-18 Apabila gaji melebihi RM1,300 RM6.75 RM6.75
+18 Apabila gaji melebihi RM1,300 RM6.75
+
+<!-- marginal: RM6.75 -->
 
 <!-- marginal: RM13.50 -->
 
 tetapi tidak melebihi RM1,400
 
-19 Apabila gaji melebihi RM1,400 RM7.25 RM7.25
+19 Apabila gaji melebihi RM1,400 RM7.25
+
+<!-- marginal: RM7.25 -->
 
 <!-- marginal: RM14.50 -->
 
 tetapi tidak melebihi RM1,500
 
-20 Apabila gaji melebihi RM1,500 RM7.75 RM7.75
+20 Apabila gaji melebihi RM1,500 RM7.75
+
+<!-- marginal: RM7.75 -->
 
 <!-- marginal: RM15.50 -->
 
 tetapi tidak melebihi RM1,600
 
-21 Apabila gaji melebihi RM1,600 RM8.25 RM8.25
+21 Apabila gaji melebihi RM1,600 RM8.25
+
+<!-- marginal: RM8.25 -->
 
 <!-- marginal: RM16.50 -->
 
 tetapi tidak melebihi RM1,700
 
-22 Apabila gaji melebihi RM1,700 RM8.75 RM8.75
+22 Apabila gaji melebihi RM1,700 RM8.75
+
+<!-- marginal: RM8.75 -->
 
 <!-- marginal: RM17.50 -->
 
 tetapi tidak melebihi RM1,800
 
-23 Apabila gaji melebihi RM1,800 RM9.25 RM9.25
+23 Apabila gaji melebihi RM1,800 RM9.25
+
+<!-- marginal: RM9.25 -->
 
 <!-- marginal: RM18.50 -->
 
@@ -2292,113 +2368,155 @@ tetapi tidak melebihi RM3,700
 
 <!-- page 72 -->
 
-Gaji Bulanan Caruman Caruman
+Gaji Bulanan Caruman
+
+<!-- marginal: Caruman -->
 
 <!-- marginal: Jumlah -->
 
-Majikan Pekerja
+Majikan
 
-42 Apabila gaji melebihi RM3,700 RM18.75 RM18.75
+<!-- marginal: Pekerja -->
+
+42 Apabila gaji melebihi RM3,700 RM18.75
+
+<!-- marginal: RM18.75 -->
 
 <!-- marginal: RM37.50 -->
 
 tetapi tidak melebihi RM3,800
 
-43 Apabila gaji melebihi RM3,800 RM19.25 RM19.25
+43 Apabila gaji melebihi RM3,800 RM19.25
+
+<!-- marginal: RM19.25 -->
 
 <!-- marginal: RM38.50 -->
 
 tetapi tidak melebihi RM3,900
 
-44 Apabila gaji melebihi RM3,900 RM19.75 RM19.75
+44 Apabila gaji melebihi RM3,900 RM19.75
+
+<!-- marginal: RM19.75 -->
 
 <!-- marginal: RM39.50 -->
 
 tetapi tidak melebihi RM4,000
 
-45 Apabila gaji melebihi RM4,000 RM19.75 RM19.75
+45 Apabila gaji melebihi RM4,000 RM19.75
+
+<!-- marginal: RM19.75 -->
 
 <!-- marginal: RM39.50 -->
 
 ## BAHAGIAN III – KADAR CARUMAN
 
-Gaji Bulanan Caruman Caruman
+Gaji Bulanan Caruman
+
+<!-- marginal: Caruman -->
 
 <!-- marginal: Jumlah -->
 
-Majikan Pekerja
+Majikan
 
-1 Gaji hingga RM30 … … … … 10 sen 10 sen
+<!-- marginal: Pekerja -->
+
+1 Gaji hingga RM30 … … … … 10 sen
+
+<!-- marginal: 10 sen -->
 
 <!-- marginal: 20 sen -->
 
-2 Apabila gaji melebihi RM30 tetapi 25 sen 25 sen
+2 Apabila gaji melebihi RM30 tetapi 25 sen
+
+<!-- marginal: 25 sen -->
 
 <!-- marginal: 50 sen -->
 
 tidak melebihi RM50
 
-3 Apabila gaji melebihi RM50 tetapi 35 sen 35 sen
+3 Apabila gaji melebihi RM50 tetapi 35 sen
+
+<!-- marginal: 35 sen -->
 
 <!-- marginal: 70 sen -->
 
 tidak melebihi RM70
 
-4 Apabila gaji melebihi RM70 tetapi 50 sen 50 sen
+4 Apabila gaji melebihi RM70 tetapi 50 sen
+
+<!-- marginal: 50 sen -->
 
 <!-- marginal: RM1.00 -->
 
 tidak melebihi RM100
 
-5 Apabila gaji melebihi RM100 tetapi 70 sen 70 sen
+5 Apabila gaji melebihi RM100 tetapi 70 sen
+
+<!-- marginal: 70 sen -->
 
 <!-- marginal: RM1.40 -->
 
 tidak melebihi RM140
 
-6 Apabila gaji melebihi RM140 tetapi RM1.00 RM1.00
+6 Apabila gaji melebihi RM140 tetapi RM1.00
+
+<!-- marginal: RM1.00 -->
 
 <!-- marginal: RM2.00 -->
 
 tidak melebihi RM200
 
-7 Apabila gaji melebihi RM200 tetapi RM1.50 RM1.50
+7 Apabila gaji melebihi RM200 tetapi RM1.50
+
+<!-- marginal: RM1.50 -->
 
 <!-- marginal: RM3.00 -->
 
 tidak melebihi RM300
 
-8 Apabila gaji melebihi RM300 tetapi RM2.10 RM2.10
+8 Apabila gaji melebihi RM300 tetapi RM2.10
+
+<!-- marginal: RM2.10 -->
 
 <!-- marginal: RM4.20 -->
 
 tidak melebihi RM400
 
-9 Apabila gaji melebihi RM400 tetapi RM2.70 RM2.70
+9 Apabila gaji melebihi RM400 tetapi RM2.70
+
+<!-- marginal: RM2.70 -->
 
 <!-- marginal: RM5.40 -->
 
 tidak melebihi RM500
 
-10 Apabila gaji melebihi RM500 tetapi RM3.30 RM3.30
+10 Apabila gaji melebihi RM500 tetapi RM3.30
+
+<!-- marginal: RM3.30 -->
 
 <!-- marginal: RM6.60 -->
 
 tidak melebihi RM600
 
-11 Apabila gaji melebihi RM600 tetapi RM3.90 RM3.90
+11 Apabila gaji melebihi RM600 tetapi RM3.90
+
+<!-- marginal: RM3.90 -->
 
 <!-- marginal: RM7.80 -->
 
 tidak melebihi RM700
 
-12 Apabila gaji melebihi RM700 tetapi RM4.50 RM4.50
+12 Apabila gaji melebihi RM700 tetapi RM4.50
+
+<!-- marginal: RM4.50 -->
 
 <!-- marginal: RM9.00 -->
 
 tidak melebihi RM800
 
-13 Apabila gaji melebihi RM800 tetapi RM5.10 RM5.10
+13 Apabila gaji melebihi RM800 tetapi RM5.10
+
+<!-- marginal: RM5.10 -->
 
 <!-- marginal: RM10.20 -->
 
@@ -2562,107 +2680,147 @@ tetapi tidak melebihi RM2,700
 
 <!-- page 74 -->
 
-Gaji Bulanan Caruman Caruman
+Gaji Bulanan Caruman
+
+<!-- marginal: Caruman -->
 
 <!-- marginal: Jumlah -->
 
-Majikan Pekerja
+Majikan
 
-32 Apabila gaji melebihi RM2,700 RM16.50 RM16.50
+<!-- marginal: Pekerja -->
+
+32 Apabila gaji melebihi RM2,700 RM16.50
+
+<!-- marginal: RM16.50 -->
 
 <!-- marginal: RM33.00 -->
 
 tetapi tidak melebihi RM2,800
 
-33 Apabila gaji melebihi RM2,800 RM17.10 RM17.10
+33 Apabila gaji melebihi RM2,800 RM17.10
+
+<!-- marginal: RM17.10 -->
 
 <!-- marginal: RM34.20 -->
 
 tetapi tidak melebihi RM2,900
 
-34 Apabila gaji melebihi RM2,900 RM17.70 RM17.70
+34 Apabila gaji melebihi RM2,900 RM17.70
+
+<!-- marginal: RM17.70 -->
 
 <!-- marginal: RM35.40 -->
 
 tetapi tidak melebihi RM3,000
 
-35 Apabila gaji melebihi RM3,000 RM18.30 RM18.30
+35 Apabila gaji melebihi RM3,000 RM18.30
+
+<!-- marginal: RM18.30 -->
 
 <!-- marginal: RM36.60 -->
 
 tetapi tidak melebihi RM3,100
 
-36 Apabila gaji melebihi RM3,100 RM18.90 RM18.90
+36 Apabila gaji melebihi RM3,100 RM18.90
+
+<!-- marginal: RM18.90 -->
 
 <!-- marginal: RM37.80 -->
 
 tetapi tidak melebihi RM3,200
 
-37 Apabila gaji melebihi RM3,200 RM19.50 RM19.50
+37 Apabila gaji melebihi RM3,200 RM19.50
+
+<!-- marginal: RM19.50 -->
 
 <!-- marginal: RM39.00 -->
 
 tetapi tidak melebihi RM3,300
 
-38 Apabila gaji melebihi RM3,300 RM20.10 RM20.10
+38 Apabila gaji melebihi RM3,300 RM20.10
+
+<!-- marginal: RM20.10 -->
 
 <!-- marginal: RM40.20 -->
 
 tetapi tidak melebihi RM3,400
 
-39 Apabila gaji melebihi RM3,400 RM20.70 RM20.70
+39 Apabila gaji melebihi RM3,400 RM20.70
+
+<!-- marginal: RM20.70 -->
 
 <!-- marginal: RM41.40 -->
 
 tetapi tidak melebihi RM3,500
 
-40 Apabila gaji melebihi RM3,500 RM21.30 RM21.30
+40 Apabila gaji melebihi RM3,500 RM21.30
+
+<!-- marginal: RM21.30 -->
 
 <!-- marginal: RM42.60 -->
 
 tetapi tidak melebihi RM3,600
 
-41 Apabila gaji melebihi RM3,600 RM21.90 RM21.90
+41 Apabila gaji melebihi RM3,600 RM21.90
+
+<!-- marginal: RM21.90 -->
 
 <!-- marginal: RM43.80 -->
 
 tetapi tidak melebihi RM3,700
 
-42 Apabila gaji melebihi RM3,700 RM22.50 RM22.50
+42 Apabila gaji melebihi RM3,700 RM22.50
+
+<!-- marginal: RM22.50 -->
 
 <!-- marginal: RM45.00 -->
 
 tetapi tidak melebihi RM3,800
 
-43 Apabila gaji melebihi RM3,800 RM23.10 RM23.10
+43 Apabila gaji melebihi RM3,800 RM23.10
+
+<!-- marginal: RM23.10 -->
 
 <!-- marginal: RM46.20 -->
 
 tetapi tidak melebihi RM3,900
 
-44 Apabila gaji melebihi RM3,900 RM23.70 RM23.70
+44 Apabila gaji melebihi RM3,900 RM23.70
+
+<!-- marginal: RM23.70 -->
 
 <!-- marginal: RM47.40 -->
 
 tetapi tidak melebihi RM4,000
 
-45 Apabila gaji melebihi RM4,000 RM23.70 RM23.70
+45 Apabila gaji melebihi RM4,000 RM23.70
+
+<!-- marginal: RM23.70 -->
 
 <!-- marginal: RM47.40 -->
 
 ## BAHAGIAN IV– KADAR CARUMAN
 
-Gaji Bulanan Caruman Caruman
+Gaji Bulanan Caruman
+
+<!-- marginal: Caruman -->
 
 <!-- marginal: Jumlah -->
 
-Majikan Pekerja
+Majikan
 
-1 Gaji hingga RM30 … … … … 15 sen 15 sen
+<!-- marginal: Pekerja -->
+
+1 Gaji hingga RM30 … … … … 15 sen
+
+<!-- marginal: 15 sen -->
 
 <!-- marginal: 30 sen -->
 
-2 Apabila gaji melebihi RM30 tetapi 30 sen 30 sen
+2 Apabila gaji melebihi RM30 tetapi 30 sen
+
+<!-- marginal: 30 sen -->
 
 <!-- marginal: 60 sen -->
 
@@ -2826,109 +2984,147 @@ tetapi tidak melebihi RM1,600
 
 <!-- page 76 -->
 
-Gaji Bulanan Caruman Caruman
+Gaji Bulanan Caruman
+
+<!-- marginal: Caruman -->
 
 <!-- marginal: Jumlah -->
 
-Majikan Pekerja
+Majikan
 
-21 Apabila gaji melebihi RM1,600 RM12.40 RM12.40
+<!-- marginal: Pekerja -->
+
+21 Apabila gaji melebihi RM1,600 RM12.40
+
+<!-- marginal: RM12.40 -->
 
 <!-- marginal: RM24.80 -->
 
 tetapi tidak melebihi RM1,700
 
-22 Apabila gaji melebihi RM1,700 RM13.15 RM13.15
+22 Apabila gaji melebihi RM1,700 RM13.15
+
+<!-- marginal: RM13.15 -->
 
 <!-- marginal: RM26.30 -->
 
 tetapi tidak melebihi RM1,800
 
-23 Apabila gaji melebihi RM1,800 RM13.90 RM13.90
+23 Apabila gaji melebihi RM1,800 RM13.90
+
+<!-- marginal: RM13.90 -->
 
 <!-- marginal: RM27.80 -->
 
 tetapi tidak melebihi RM1,900
 
-24 Apabila gaji melebihi RM1,900 RM14.65 RM14.65
+24 Apabila gaji melebihi RM1,900 RM14.65
+
+<!-- marginal: RM14.65 -->
 
 <!-- marginal: RM29.30 -->
 
 tetapi tidak melebihi RM2,000
 
-25 Apabila gaji melebihi RM2,000 RM15.40 RM15.40
+25 Apabila gaji melebihi RM2,000 RM15.40
+
+<!-- marginal: RM15.40 -->
 
 <!-- marginal: RM30.80 -->
 
 tetapi tidak melebihi RM2,100
 
-26 Apabila gaji melebihi RM2,100 RM16.15 RM16.15
+26 Apabila gaji melebihi RM2,100 RM16.15
+
+<!-- marginal: RM16.15 -->
 
 <!-- marginal: RM32.30 -->
 
 tetapi tidak melebihi RM2,200
 
-27 Apabila gaji melebihi RM2,200 RM16.90 RM16.90
+27 Apabila gaji melebihi RM2,200 RM16.90
+
+<!-- marginal: RM16.90 -->
 
 <!-- marginal: RM33.80 -->
 
 tetapi tidak melebihi RM2,300
 
-28 Apabila gaji melebihi RM2,300 RM17.65 RM17.65
+28 Apabila gaji melebihi RM2,300 RM17.65
+
+<!-- marginal: RM17.65 -->
 
 <!-- marginal: RM35.30 -->
 
 tetapi tidak melebihi RM2,400
 
-29 Apabila gaji melebihi RM2,400 RM18.40 RM18.40
+29 Apabila gaji melebihi RM2,400 RM18.40
+
+<!-- marginal: RM18.40 -->
 
 <!-- marginal: RM36.80 -->
 
 tetapi tidak melebihi RM2,500
 
-30 Apabila gaji melebihi RM2,500 RM19.15 RM19.15
+30 Apabila gaji melebihi RM2,500 RM19.15
+
+<!-- marginal: RM19.15 -->
 
 <!-- marginal: RM38.30 -->
 
 tetapi tidak melebihi RM2,600
 
-31 Apabila gaji melebihi RM2,600 RM19.90 RM19.90
+31 Apabila gaji melebihi RM2,600 RM19.90
+
+<!-- marginal: RM19.90 -->
 
 <!-- marginal: RM39.80 -->
 
 tetapi tidak melebihi RM2,700
 
-32 Apabila gaji melebihi RM2,700 RM20.65 RM20.65
+32 Apabila gaji melebihi RM2,700 RM20.65
+
+<!-- marginal: RM20.65 -->
 
 <!-- marginal: RM41.30 -->
 
 tetapi tidak melebihi RM2,800
 
-33 Apabila gaji melebihi RM2,800 RM21.40 RM21.40
+33 Apabila gaji melebihi RM2,800 RM21.40
+
+<!-- marginal: RM21.40 -->
 
 <!-- marginal: RM42.80 -->
 
 tetapi tidak melebihi RM2,900
 
-34 Apabila gaji melebihi RM2,900 RM22.15 RM22.15
+34 Apabila gaji melebihi RM2,900 RM22.15
+
+<!-- marginal: RM22.15 -->
 
 <!-- marginal: RM44.30 -->
 
 tetapi tidak melebihi RM3,000
 
-35 Apabila gaji melebihi RM3,000 RM22.90 RM22.90
+35 Apabila gaji melebihi RM3,000 RM22.90
+
+<!-- marginal: RM22.90 -->
 
 <!-- marginal: RM45.80 -->
 
 tetapi tidak melebihi RM3,100
 
-36 Apabila gaji melebihi RM3,100 RM23.65 RM23.65
+36 Apabila gaji melebihi RM3,100 RM23.65
+
+<!-- marginal: RM23.65 -->
 
 <!-- marginal: RM47.30 -->
 
 tetapi tidak melebihi RM3,200
 
-37 Apabila gaji melebihi RM3,200 RM24.40 RM24.40
+37 Apabila gaji melebihi RM3,200 RM24.40
+
+<!-- marginal: RM24.40 -->
 
 <!-- marginal: RM48.80 -->
 
@@ -3008,7 +3204,7 @@ tetapi tidak melebihi RM4,000
 
 <!-- marginal: RM59.30 -->
 
-## Jadual Ketiga
+## JADUAL KETIGA
 
 [Seksyen 18, 34, 35, 36 dan 37]
 
@@ -4384,7 +4580,7 @@ tidak melebihi RM4,000
 
 <!-- marginal: RM3,950 -->
 
-## Jadual KeemPat
+## JADUAL KEEMPAT
 
 [Seksyen 32, 34 dan 36]
 
@@ -4422,401 +4618,135 @@ dalam tempoh kelayakan selama 24 bulan berturut-turut sebaik sebelum kehilangan 
 
 <!-- page 91 -->
 
-Syarat kelayakan caruman
+Syarat kelayakan caruman Tempoh bayaran bagi elaun mencari pekerjaan dan elaun pendapatan berkurangan
 
-<!-- marginal: Tempoh -->
+(iii) 20 hingga 23 bulan caruman yang dibuat 5 bulan dalam tempoh kelayakan selama 24 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
-<!-- marginal: bayaran bagi -->
-
-<!-- marginal: elaun mencari -->
-
-<!-- marginal: pekerjaan -->
-
-<!-- marginal: dan elaun -->
-
-<!-- marginal: pendapatan -->
-
-<!-- marginal: berkurangan -->
-
-(iii) 20 hingga 23 bulan caruman yang dibuat
-
-<!-- marginal: 5 bulan -->
-
-dalam tempoh kelayakan selama 24 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
-
-(iv) 24 bulan caruman yang dibuat dalam
-
-<!-- marginal: 6 bulan -->
-
-tempoh kelayakan selama 24 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
+(iv) 24 bulan caruman yang dibuat dalam 6 bulan tempoh kelayakan selama 24 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
 (b) Tuntutan kedua
 
-(i) 18 hingga 23 bulan caruman yang dibuat
+(i) 18 hingga 23 bulan caruman yang dibuat 3 bulan dalam tempoh kelayakan selama 36 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
-<!-- marginal: 3 bulan -->
+(ii) 24 hingga 29 bulan caruman yang dibuat 4 bulan dalam tempoh kelayakan selama 36 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
-dalam tempoh kelayakan selama 36 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
+(iii) 30 hingga 35 bulan caruman yang dibuat 5 bulan dalam tempoh kelayakan selama 36 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
-(ii) 24 hingga 29 bulan caruman yang dibuat
-
-<!-- marginal: 4 bulan -->
-
-dalam tempoh kelayakan selama 36 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
-
-(iii) 30 hingga 35 bulan caruman yang dibuat
-
-<!-- marginal: 5 bulan -->
-
-dalam tempoh kelayakan selama 36 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
-
-(iv) 36 bulan caruman yang dibuat dalam
-
-<!-- marginal: 6 bulan -->
-
-tempoh kelayakan selama 36 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
+(iv) 36 bulan caruman yang dibuat dalam 6 bulan tempoh kelayakan selama 36 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
 <!-- page 92 -->
 
-Syarat kelayakan caruman
-
-<!-- marginal: Tempoh -->
-
-<!-- marginal: bayaran bagi -->
-
-<!-- marginal: elaun mencari -->
-
-<!-- marginal: pekerjaan -->
-
-<!-- marginal: dan elaun -->
-
-<!-- marginal: pendapatan -->
-
-<!-- marginal: berkurangan -->
+Syarat kelayakan caruman Tempoh bayaran bagi elaun mencari pekerjaan dan elaun pendapatan berkurangan
 
 (c) Tuntutan ketiga
 
-(i) 24 hingga 31 bulan caruman yang dibuat
+(i) 24 hingga 31 bulan caruman yang dibuat 3 bulan dalam tempoh kelayakan selama 48 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
-<!-- marginal: 3 bulan -->
+(ii) 32 hingga 39 bulan caruman yang dibuat 4 bulan dalam tempoh kelayakan selama 48 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
-dalam tempoh kelayakan selama 48 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
+(iii) 40 hingga 47 bulan caruman yang dibuat 5 bulan dalam tempoh kelayakan selama 48 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
-(ii) 32 hingga 39 bulan caruman yang dibuat
-
-<!-- marginal: 4 bulan -->
-
-dalam tempoh kelayakan selama 48 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
-
-(iii) 40 hingga 47 bulan caruman yang dibuat
-
-<!-- marginal: 5 bulan -->
-
-dalam tempoh kelayakan selama 48 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
-
-(iv) 48 bulan caruman yang dibuat dalam
-
-<!-- marginal: 6 bulan -->
-
-tempoh kelayakan selama 48 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
+(iv) 48 bulan caruman yang dibuat dalam 6 bulan tempoh kelayakan selama 48 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
 (d) Tuntutan keempat
 
-(i) 30 hingga 39 bulan caruman yang dibuat
+(i) 30 hingga 39 bulan caruman yang dibuat 3 bulan dalam tempoh kelayakan selama 60 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
-<!-- marginal: 3 bulan -->
-
-dalam tempoh kelayakan selama 60 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
-
-(ii) 40 hingga 49 bulan caruman yang dibuat
-
-<!-- marginal: 4 bulan -->
-
-dalam tempoh kelayakan selama 60 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
+(ii) 40 hingga 49 bulan caruman yang dibuat 4 bulan dalam tempoh kelayakan selama 60 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
 <!-- page 93 -->
 
-Syarat kelayakan caruman
+Syarat kelayakan caruman Tempoh bayaran bagi elaun mencari pekerjaan dan elaun pendapatan berkurangan
 
-<!-- marginal: Tempoh -->
+(iii) 50 hingga 59 bulan caruman yang dibuat 5 bulan dalam tempoh kelayakan selama 60 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
-<!-- marginal: bayaran bagi -->
-
-<!-- marginal: elaun mencari -->
-
-<!-- marginal: pekerjaan -->
-
-<!-- marginal: dan elaun -->
-
-<!-- marginal: pendapatan -->
-
-<!-- marginal: berkurangan -->
-
-(iii) 50 hingga 59 bulan caruman yang dibuat
-
-<!-- marginal: 5 bulan -->
-
-dalam tempoh kelayakan selama 60 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
-
-(iv) 60 bulan caruman yang dibuat dalam
-
-<!-- marginal: 6 bulan -->
-
-tempoh kelayakan selama 60 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
+(iv) 60 bulan caruman yang dibuat dalam 6 bulan tempoh kelayakan selama 60 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
 (e) Tuntutan kelima
 
-(i) 36 hingga 47 bulan caruman yang dibuat
+(i) 36 hingga 47 bulan caruman yang dibuat 3 bulan dalam tempoh kelayakan selama 72 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
-<!-- marginal: 3 bulan -->
+(ii) 48 hingga 59 bulan caruman yang dibuat 4 bulan dalam tempoh kelayakan selama 72 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
-dalam tempoh kelayakan selama 72 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
+(iii) 60 hingga 71 bulan caruman yang dibuat 5 bulan dalam tempoh kelayakan selama 72 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
-(ii) 48 hingga 59 bulan caruman yang dibuat
-
-<!-- marginal: 4 bulan -->
-
-dalam tempoh kelayakan selama 72 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
-
-(iii) 60 hingga 71 bulan caruman yang dibuat
-
-<!-- marginal: 5 bulan -->
-
-dalam tempoh kelayakan selama 72 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
-
-(iv) 72 bulan caruman yang dibuat dalam
-
-<!-- marginal: 6 bulan -->
-
-tempoh kelayakan selama 72 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
+(iv) 72 bulan caruman yang dibuat dalam 6 bulan tempoh kelayakan selama 72 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
 <!-- page 94 -->
 
-Syarat kelayakan caruman
-
-<!-- marginal: Tempoh -->
-
-<!-- marginal: bayaran bagi -->
-
-<!-- marginal: elaun mencari -->
-
-<!-- marginal: pekerjaan -->
-
-<!-- marginal: dan elaun -->
-
-<!-- marginal: pendapatan -->
-
-<!-- marginal: berkurangan -->
+Syarat kelayakan caruman Tempoh bayaran bagi elaun mencari pekerjaan dan elaun pendapatan berkurangan
 
 (f) Tuntutan keenam
 
-(i) 42 hingga 55 bulan caruman yang dibuat
+(i) 42 hingga 55 bulan caruman yang dibuat 3 bulan dalam tempoh kelayakan selama 84 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
-<!-- marginal: 3 bulan -->
+(ii) 56 hingga 69 bulan caruman yang dibuat 4 bulan dalam tempoh kelayakan selama 84 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
-dalam tempoh kelayakan selama 84 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
+(iii) 70 hingga 83 bulan caruman yang dibuat 5 bulan dalam tempoh kelayakan selama 84 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
-(ii) 56 hingga 69 bulan caruman yang dibuat
-
-<!-- marginal: 4 bulan -->
-
-dalam tempoh kelayakan selama 84 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
-
-(iii) 70 hingga 83 bulan caruman yang dibuat
-
-<!-- marginal: 5 bulan -->
-
-dalam tempoh kelayakan selama 84 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
-
-(iv) 84 bulan caruman yang dibuat dalam
-
-<!-- marginal: 6 bulan -->
-
-tempoh kelayakan selama 84 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
+(iv) 84 bulan caruman yang dibuat dalam 6 bulan tempoh kelayakan selama 84 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
 (g) Tuntutan ketujuh
 
-(i) 48 hingga 63 bulan caruman yang dibuat
+(i) 48 hingga 63 bulan caruman yang dibuat 3 bulan dalam tempoh kelayakan selama 96 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
-<!-- marginal: 3 bulan -->
-
-dalam tempoh kelayakan selama 96 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
-
-(ii) 64 hingga 79 bulan caruman yang dibuat
-
-<!-- marginal: 4 bulan -->
-
-dalam tempoh kelayakan selama 96 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
+(ii) 64 hingga 79 bulan caruman yang dibuat 4 bulan dalam tempoh kelayakan selama 96 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
 <!-- page 95 -->
 
-Syarat kelayakan caruman
+Syarat kelayakan caruman Tempoh bayaran bagi elaun mencari pekerjaan dan elaun pendapatan berkurangan
 
-<!-- marginal: Tempoh -->
+(iii) 80 hingga 95 bulan caruman yang dibuat 5 bulan dalam tempoh kelayakan selama 96 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
-<!-- marginal: bayaran bagi -->
-
-<!-- marginal: elaun mencari -->
-
-<!-- marginal: pekerjaan -->
-
-<!-- marginal: dan elaun -->
-
-<!-- marginal: pendapatan -->
-
-<!-- marginal: berkurangan -->
-
-(iii) 80 hingga 95 bulan caruman yang dibuat
-
-<!-- marginal: 5 bulan -->
-
-dalam tempoh kelayakan selama 96 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
-
-(iv) 96 bulan caruman yang dibuat dalam
-
-<!-- marginal: 6 bulan -->
-
-tempoh kelayakan selama 96 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
+(iv) 96 bulan caruman yang dibuat dalam 6 bulan tempoh kelayakan selama 96 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
 (h) Tuntutan kelapan
 
-(i) 54 hingga 71 bulan caruman yang dibuat
+(i) 54 hingga 71 bulan caruman yang dibuat 3 bulan dalam tempoh kelayakan selama 108 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
-<!-- marginal: 3 bulan -->
+(ii) 72 hingga 89 bulan caruman yang dibuat 4 bulan dalam tempoh kelayakan selama 108 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
-dalam tempoh kelayakan selama 108 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
+(iii) 90 hingga 107 bulan caruman yang dibuat 5 bulan dalam tempoh kelayakan selama 108 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
-(ii) 72 hingga 89 bulan caruman yang dibuat
-
-<!-- marginal: 4 bulan -->
-
-dalam tempoh kelayakan selama 108 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
-
-(iii) 90 hingga 107 bulan caruman yang dibuat
-
-<!-- marginal: 5 bulan -->
-
-dalam tempoh kelayakan selama 108 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
-
-(iv) 108 bulan caruman yang dibuat dalam
-
-<!-- marginal: 6 bulan -->
-
-tempoh kelayakan selama 108 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
+(iv) 108 bulan caruman yang dibuat dalam 6 bulan tempoh kelayakan selama 108 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
 <!-- page 96 -->
 
-Syarat kelayakan caruman
-
-<!-- marginal: Tempoh -->
-
-<!-- marginal: bayaran bagi -->
-
-<!-- marginal: elaun mencari -->
-
-<!-- marginal: pekerjaan -->
-
-<!-- marginal: dan elaun -->
-
-<!-- marginal: pendapatan -->
-
-<!-- marginal: berkurangan -->
+Syarat kelayakan caruman Tempoh bayaran bagi elaun mencari pekerjaan dan elaun pendapatan berkurangan
 
 (i) Tuntutan kesembilan
 
-(i) 60 hingga 79 bulan caruman yang dibuat
+(i) 60 hingga 79 bulan caruman yang dibuat 3 bulan dalam tempoh kelayakan selama 120 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
-<!-- marginal: 3 bulan -->
+(ii) 80 hingga 99 bulan caruman yang dibuat 4 bulan dalam tempoh kelayakan selama 120 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
-dalam tempoh kelayakan selama 120 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
+(iii) 100 hingga 119 bulan caruman yang 5 bulan dibuat dalam tempoh kelayakan selama 120 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
-(ii) 80 hingga 99 bulan caruman yang dibuat
-
-<!-- marginal: 4 bulan -->
-
-dalam tempoh kelayakan selama 120 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
-
-(iii) 100 hingga 119 bulan caruman yang
-
-<!-- marginal: 5 bulan -->
-
-dibuat dalam tempoh kelayakan selama 120 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
-
-(iv) 120 bulan caruman yang dibuat dalam
-
-<!-- marginal: 6 bulan -->
-
-tempoh kelayakan selama 120 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
+(iv) 120 bulan caruman yang dibuat dalam 6 bulan tempoh kelayakan selama 120 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
 (j) Tuntutan kesepuluh
 
-(i) 66 hingga 87 bulan caruman yang dibuat
+(i) 66 hingga 87 bulan caruman yang dibuat 3 bulan dalam tempoh kelayakan selama 132 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
-<!-- marginal: 3 bulan -->
-
-dalam tempoh kelayakan selama 132 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
-
-(ii) 88 hingga 109 bulan caruman yang dibuat
-
-<!-- marginal: 4 bulan -->
-
-dalam tempoh kelayakan selama 132 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
+(ii) 88 hingga 109 bulan caruman yang dibuat 4 bulan dalam tempoh kelayakan selama 132 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
 <!-- page 97 -->
 
-Syarat kelayakan caruman
+Syarat kelayakan caruman Tempoh bayaran bagi elaun mencari pekerjaan dan elaun pendapatan berkurangan
 
-<!-- marginal: Tempoh -->
+(iii) 110 hingga 131 bulan caruman yang 5 bulan dibuat dalam tempoh kelayakan selama 132 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
-<!-- marginal: bayaran bagi -->
-
-<!-- marginal: elaun mencari -->
-
-<!-- marginal: pekerjaan -->
-
-<!-- marginal: dan elaun -->
-
-<!-- marginal: pendapatan -->
-
-<!-- marginal: berkurangan -->
-
-(iii) 110 hingga 131 bulan caruman yang
-
-<!-- marginal: 5 bulan -->
-
-dibuat dalam tempoh kelayakan selama 132 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
-
-(iv) 132 bulan caruman yang dibuat dalam
-
-<!-- marginal: 6 bulan -->
-
-tempoh kelayakan selama 132 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
+(iv) 132 bulan caruman yang dibuat dalam 6 bulan tempoh kelayakan selama 132 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
 (k) Tuntutan kesebelas
 
-(i) 72 hingga 95 bulan caruman yang dibuat
+(i) 72 hingga 95 bulan caruman yang dibuat 3 bulan dalam tempoh kelayakan selama 144 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
-<!-- marginal: 3 bulan -->
+(ii) 96 hingga 119 bulan caruman yang dibuat 4 bulan dalam tempoh kelayakan selama 144 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
-dalam tempoh kelayakan selama 144 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
+(iii) 120 hingga 143 bulan caruman yang 5 bulan dibuat dalam tempoh kelayakan selama 144 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
-(ii) 96 hingga 119 bulan caruman yang dibuat
-
-<!-- marginal: 4 bulan -->
-
-dalam tempoh kelayakan selama 144 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
-
-(iii) 120 hingga 143 bulan caruman yang
-
-<!-- marginal: 5 bulan -->
-
-dibuat dalam tempoh kelayakan selama 144 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
-
-(iv) 144 bulan caruman yang dibuat dalam
-
-<!-- marginal: 6 bulan -->
-
-tempoh kelayakan selama 144 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
+(iv) 144 bulan caruman yang dibuat dalam 6 bulan tempoh kelayakan selama 144 bulan berturut-turut sebaik sebelum kehilangan pekerjaan yang hendaklah termasuk bulan yang padanya kehilangan pekerjaan itu berlaku.
 
 <!-- page 98 -->
 
@@ -4864,7 +4794,7 @@ tempoh kelayakan selama 156 bulan berturut-turut sebaik sebelum kehilangan peker
 
 Akta Sistem Insurans Pekerjaan 2017 yang dicadangkan (“Akta yang dicadangkan”) bertujuan untuk mengadakan peruntukan bagi suatu sistem insurans bagi orang berinsurans yang telah kehilangan pekerjaannya dengan menyediakan faedah- faedah tertentu dan program penempatan pekerjaan semula. Sistem Insurans Pekerjaan akan menggalakkan dasar pasaran buruh yang aktif.
 
-## Bahagian I
+## BAHAGIAN I
 
 1. Bahagian I memperkatakan perkara permulaan.
 
@@ -4876,7 +4806,7 @@ Akta Sistem Insurans Pekerjaan 2017 yang dicadangkan (“Akta yang dicadangkan�
 
 4. Fasal 3 mengandungi takrif bagi perkataan dan ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 5. Bahagian II memperkatakan pentadbiran Sistem Insurans Pekerjaan (“Sistem”) .
 
@@ -4888,7 +4818,7 @@ Akta Sistem Insurans Pekerjaan 2017 yang dicadangkan (“Akta yang dicadangkan�
 
 9. Fasal 7 bertujuan untuk mengadakan peruntukan bahawa semua fungsi yang boleh dijalankan oleh Pertubuhan hendaklah dijalankan oleh Ketua Pengarah dan Ketua Pengarah diberi kuasa untuk mewakilkan kuasa dan fungsinya kepada Timbalan Ketua Pengarah, Pegawai Perkhidmatan Pekerjaan, atau pegawai dan pekhidmat Pertubuhan bagi maksud Akta yang dicadangkan.
 
-## Bahagian III
+## BAHAGIAN III
 
 10. Bahagian III memperkatakan penubuhan Jawatankuasa Insurans Pekerjaan (“Jawatankuasa”) dan mana-mana jawatankuasa lain.
 
@@ -4904,7 +4834,7 @@ Akta Sistem Insurans Pekerjaan 2017 yang dicadangkan (“Akta yang dicadangkan�
 
 15. Fasal 12 bertujuan untuk memperuntukkan penzahiran kepentingan mana- mana anggota Jawatankuasa atau mana-mana jawatankuasa yang ditubuhkan di bawah fasal 9 jika dia mempunyai apa-apa kepentingan langsung atau tidak langsung dalam apa-apa perkara yang sedang dipertimbangkan oleh Jawatankuasa atau jawatankuasa itu.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 16. Bahagian IV memperkatakan pendaftaran perusahaan dan pekerja, dan caruman yang hendaklah dibuat di bawah Akta yang dicadangkan.
 
@@ -4956,7 +4886,7 @@ dicadangkan, mengikut mana-mana yang berkenaan.
 
 30. Fasal 26 bertujuan untuk memperuntukkan bahawa apa-apa caruman yang dibayar kepada Pertubuhan oleh seorang majikan melalui mana-mana ejen hendaklah ditentusahkan oleh Pertubuhan.
 
-## Bahagian V
+## BAHAGIAN V
 
 31. Bahagian V memperkatakan faedah yang disediakan kepada orang berinsurans sekiranya berlaku kehilangan pekerjaan.
 
@@ -5008,7 +4938,7 @@ Fasal 37 juga memperuntukkan bahawa orang berinsurans yang menghadiri latihan it
 
 <!-- page 105 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 49. Bahagian VI memperkatakan program penempatan pekerjaan semula bagi orang berinsurans.
 
@@ -5016,7 +4946,7 @@ Fasal 37 juga memperuntukkan bahawa orang berinsurans yang menghadiri latihan it
 
 51. Fasal 45 bertujuan untuk memberi Pertubuhan kuasa untuk menubuhkan apa-apa pusat atau institut bagi maksud mengadakan program penempatan pekerjaan semula kepada orang berinsurans.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 52. Bahagian VII memperkatakan peruntukan kewangan.
 
@@ -5048,7 +4978,7 @@ Fasal 37 juga memperuntukkan bahawa orang berinsurans yang menghadiri latihan it
 
 65. Fasal 58 bertujuan untuk memperuntukkan hal keadaan dan tatacara yang orang yang sedang atau pernah bekerja dengan Pertubuhan boleh dikenakan surcaj.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 66. Bahagian VIII memperkatakan perkara yang berhubungan dengan Jemaah Rayuan Keselamatan Sosial (“Jemaah Rayuan”) .
 
@@ -5070,7 +5000,7 @@ Fasal 37 juga memperuntukkan bahawa orang berinsurans yang menghadiri latihan it
 
 74. Fasal 66 bertujuan untuk memperuntukkan bahawa Jemaah Rayuan boleh, dan jika diarahkan oleh Mahkamah Tinggi hendaklah, menahan perintah yang terhadapnya rayuan dibuat yang berhubungan dengan bayaran apa-apa jumlah wang sementara menunggu keputusan rayuan itu.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 75. Bahagian IX memperkatakan peruntukan yang berhubungan dengan Pegawai Perkhidmatan Pekerjaan, penguatkuasaan dan penyiasatan.
 
@@ -5102,7 +5032,7 @@ dengan penguatkuasaan, pemeriksaan dan penyiasatan, kecuali kuasa untuk menangka
 
 86. Fasal 77 bertujuan untuk memberi Menteri kuasa, dengan kelulusan Pendakwa Raya, untuk membuat peraturan-peraturan yang menetapkan mana-mana kesalahan di bawah Akta yang dicadangkan atau mana-mana peraturan-peraturan yang dibuat di bawah Akta ini sebagai kesalahan yang boleh dikompaun dan kriteria, kaedah dan tatacara bagi mengkompaun kesalahan itu. Fasal 77 juga memberi kuasa kepada Ketua Pengarah atau mana-mana pegawai yang diberi kuasa untuk mengkompaun mana-mana kesalahan itu dengan keizinan secara bertulis Pendakwa Raya. Semua jumlah wang yang diterima oleh Ketua Pengarah di bawah fasal ini hendaklah dibayar ke dalam dan menjadi sebahagian daripada Kumpulan Wang Insurans Pekerjaan.
 
-## Bahagian X
+## BAHAGIAN X
 
 87. Bahagian X memperkatakan peruntukan am.
 

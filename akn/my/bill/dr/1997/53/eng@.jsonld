@@ -1,0 +1,1478 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-53-1997",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_44"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Securities Industry (Amendment) Bill 1997"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 41 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: \"(1) Subject to this section and any regulations that may be made, a person shall not sell securities unless, at the time when he sells them— (a) he has or, where he is selling as agent, his principal has; or (b) he believes on reasonable grounds that he has, or where he is selling as agent, his principal has, a presently exercisable and unconditional right to vest the securities in a purchaser of the securities.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_10__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_10__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_10__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_10__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_10__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word \"or\" at the end of subparagraph (b)(m);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_10__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_10__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the full stop at the end of subparagraph (c)(in) a semi colon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_10__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_10__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subparagraph (c)(iii) the following paragraphs: \"(d) a sale of securities which are permitted by Bank Negara Malaysia to be transacted in the short-term money market; and (e) a sale of securities— (i) of such class or category; or (ii) which is transacted in such manner or under circumstances, as may be prescribed by the Minister.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The English language text of the principal Act is"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "amended in subsection 44(1A) by substituting for the word \"trading\" the word \"business\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 47c(5) of the principal Act is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word \"from\" the words \", or deal with any property in,\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 49( 1) of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "deleting the words \"and the Registrar,\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 50(1) of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for paragraphs (e) and (f) the following paragraphs: \"(aa) in the case of a member company, the stock exchange and the Commission; or (bb) in any other case, the Commission.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The heading of Part IX of the principal Act is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the heading \"TRADING SECURITIES\" the following subheading: \"DIVISION 1 Prohibited Conduct\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_16__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 84 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words \"A person shall not create,\" the words \"Subject to section 87s, no person shall create,\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (4) the following subsection: \"(4) In a prosecution for an offence against subsection (3) it is a defence if the defendant establishes that— (a) the purpose or purposes for which he did the act was not, or did not include, the purpose of creating a false or misleading appearance; and (b) he did not act recklessly, whether or not he created a false or misleading appearance, of active trading in securities on a stock market.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_17__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_17__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 85 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: \"(1) Subject to section 87e, no person shall effect, take part in, engage in, be concerned in, or carry out, either directly or indirectly, any number of transactions in securities of a corporation, being transactions that have, or are likely to have, the effect of— (a) raising; (b) lowering; or (c) pegging, fixing, maintaining or stabilising, the price of securities of the corporation on a stock market in Malaysia, for the purpose or purposes which include the purpose of inducing other persons, whether or not another person is induced, to acquire or dispose of the securities of the corporation or of a related corporation.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsections (2) and (3); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_17__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering subsection (4) as subsection (2)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 86 of the principal Act is amended by substituting for the word \"A\" the words \"Subject to section 87B, a\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_19__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_19__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 87 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the section as subsection (1);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the word \"A\" the words \"Subject to section 87e, a\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_19__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: \"(2) In a prosecution for an offence under paragraph (d) of subsection (1), in relation to the recording or storing of information, it shall be a defence if the defendant establishes that when the information was recorded or stored, he had no reasonable grounds for expecting that the information would be available to any person.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Securities Industry (Amendment) Act 1997."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall come into force on a date to be appointed by the Minister, by notification in the Gazette, and the Minister may appoint different dates for different provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Securities Industry Act 1983, which in this Act"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "is referred to as the \"principal Act\", is amended in the long title by deleting the words \", stock brokers\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 87A of the principal Act is amended by substituting for the word \"It\" the words \"Subject to section 87B, it\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "87A the following section: 87B. The Minister may prescribe, and make regulations in respect of, persons, or transactions relating to securities, or any particular class, category or description of persons, or any 84. 85, particular class, category or description of transactions relating to securities, to whom or which section 84', 85, 86, 87 or 87A does not apply.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "8,8 the following sections: 88A. (1) Where a person contravenes section 84, 85, 86, 87, 87A or 88, any other person who entered into a transaction for the sale and purchase sections 84, of securities with the first-mentioned person or 87A and 88. with a person acting on behalf of the first- mentioned person may, by civil action against the first-mentioned person or against any person acting on behalf of the first-mentioned person, recover the amount of loss suffered by that other person— (a) whether or not the first-mentioned person or any person acting on his behalf has been charged with an offence in respect of the contravention; or (b) whether or not a contravention has been proved against the first-mentioned person or any person acting on his behalf in a prosecution. (2) In this section, \"loss\" includes an unrealised loss in the price or value of securities being the difference between— (a) the price or value of securities in a transaction in which the person bringing the action claims to have suffered loss; and (b) the price which would have been the likely price of the securities in the tran- saction, or the value which it is likely that such securities would have had at the time of that transaction, if the contravention had not occurred. (3) This section shall not affect any liability under any other written law in respect of the conduct constituting the contravention. Penalty 88e. A person who contravenes or fails to comply for offence with section 84, 85, 86, 87, 87A or 88 commits- under an offence and is liable on conviction to a fine Division 1. of not less than one million ringgit and to imprisonment for a term not exceeding.ten years.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "88A the following subheading: \"DIVISION 2 Insider Trading\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_24__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_24__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_24__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_24__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 89 the following section: Informa- 89. For the -purposes of this Division,. tion. \"information\" includes— ' (a)' matters of supposition and other matters that are insufficiently definite to warrant being made known to the public;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "matters relating to the intentions, or likely intentions, of a person;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_24__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_24__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_24__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "matters relating- to negotiations or proposals with respect to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_24__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_24__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "commercial dealings; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_24__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_24__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "dealing in securities;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_24__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "information relating to the financial performance of a corporation;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_24__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "information that a person proposes to enter into, or has previously entered into one or. more transactions or .agreements in relation to securities or has preparedt or proposes to issue a statement relating to such securities; and (/) matters relating to the future.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act-is amended by inserting after section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "89 the following sections: 89A. (1) For the purposes-of this Division, information is generally available if the information has been made known in a manner that would, or would tend to, bring it to the attention of reasonable persons who invest in securities of a kind whose price or value might be affected by the information, and since.it was so made known, a reasonable period for it to be disseminated among, and assimilated by, such persons has elapsed. (2) The information referred to in subsection (.1) includes information that consists of deductions or conclusions made or drawn from such information. 89B. For'the purposes of this Division, an information that on becoming generally available would or would tend to have a material effect on- the price or value of securities, refers to such information which would or would tend to, on becoming generally available, influence reasonable, persons who invest in securities in i deciding whether or not to acquire or dispose of such securities, or enter into an agreement with a view .to acquire or dispose of such securities. 89c.. For the'purposes of this Division, trading in securities'that is ordinarily permitted on the stock market.of a stock exchange is to be taken , to be permitted on that stock market even though trading in any such securities on that stock market is suspended. 89D. For the purposes of this Division and section 90A but without limiting the meaning of • the term \"procure\" as provided in this section, if a person incites, induces, encourages or directs an act or omission by another person, the first- mentioned person is taken to procure the act or omission by the other person. 89E. (1) A person is an \"insider\" if that person— (a) possesses' information that is not generally available which on becoming generally available a reasonable person would expect it to have a material effect on the price or.the, value of securities; and . '(b) 'knows or ought reasonably to know'that the information is not generally available. (2) An insider shall not, whether as principal or agent, in respect:of any securities to which information in^.subsection (1) relates— (a) acquire or dispose of, or enter into an ' agreement* for or with a view to the acquisition or disposal of such securities; or (b) procure, directly or indirectly, an , acquisition or disposal of, or the entering into an agreement for or with a view to o • , . , - t the acquisition or disposal of such securities. (3) Where trading in the securities to which- the-information in subsection (1) relates is permitted on a stock market of a stock exchange, 'the insider shall not, 'directly or indirectly, communicate the information1 referred to in subsection (10, or cause.such information to be communicated, to another person, if the insider knows, or ought reasonably to know, that the other person would or would tend to— (a) acquire, dispose of, or enter into an agreement with a view to the acquisition or disposal of, any securities to which the information in subsection (1) relates; or (b) procure a third person to acquire, dispose of or enter into an agreement with a view to the acquisition or disposal of, any securities to which the information in subsection (1) relates. (4) A person who contravenes or fails to comply with subsection (2) or (3) commits an offence and is liable on conviction to a fine of not less than one- million ringgit and to imprisonment for a term not exceeding ten years. (5) The Minister may prescribe, and make regulations in respect of, persons, or transactions relating to securities, or any particular class, 'category or description of persons, or any particular class, category or description of transactions relating to securities, to whom or which this section does not apply. 89F. In a prosecution of an offence under subsection (2) or (3) of section 89n, it.is not 89E. necessary for the prosecution to prove the non- existence of facts or circumstances which if they existed would, by virtue of section 89G, 89H, 89I, 89J, 89K, 89L, 89M, 89N-or 89O, or any regulations,made under subsection (5) of section 89E, preclude the act from constituting a contravention of subsection (2) or (3) of section 89E; as the case may be. 89G. (1) For the purposes of this Division, a is deemed to possess a ny (a) which an officer of the corporation— (i) possesses and which came into his possession in the course of his duties as an officer of the corporation; or (ii) knows or ought reasonably to have known because he is an officer of the corporation; or (b) which an officer of the corporation possesses and which came into his possession in the course of his duties as an officer of a related corporation of the first-mentioned corporation where— (i) the officer is an insider by reason of being in possession of the information; (ii) the officer is involved in, the decision, transaction or agreement of the first-mentioned corporation in acquiring or disposing of securities in relation to which the officer is an insider or entering into an agreement to acquire or dispose of such securities, procuring another person to acquire or dispose of such securities or enter into an agreement to do so, or communicating the information in circumstances referred to in subsection (3) of section 89E; or (iii) it is reasonable to expect that the officer would communicate the information to another officer of the first-mentioned corporation acting in his capacity as such, unless it is proved that the information was not in fact so communicated. (2) In this section, \"information\" refers to information which a corporation is taken to possess and where a person in possession of the information is an insider. (3) A corporation does not contravene subsection (2) of section 89E by entering into the transaction or agreement at any time merely because of information in the possession of the corporation if— (a) the decision to enter into the transaction or agreement was taken on behalf of the corporation by a person or persons other than an officer of the corporation in possession of the information; (b) the corporation had in operation at that time arrangements that could reasonably be expected to ensure that— (i) the information was not communicated to a person or one of the persons who was involved in, or made the decision to enter into, or be involved in, the transaction or agreement; (ii) no advice with respect to the decision to enter into, or be involved in, the transaction or agreement was given to that person by the person in possession of the information; or (iii) the person in possession of the information would not be involved in the decision to enter into or be involved in, the transaction or agreement, or involved in the transaction or agreement; and (c) the information was not so communicated, no such advice was given and the person in possession of the information was not involved in the decision to enter into, or be involved in, the transaction or agreement or was not involved in the transaction or agreement. 89H. (1) For the purposes of this Division, a partner of a partnership is deemed to possess any information— (a) which another partner possesses and which came into the other partner's possession in his capacity as a partner of the partnership; (b) which an employee of the partnership possesses and which came into the employee's possession in the course of his duties; or (c) if a partner or an employee of a partnership knows or ought reasonably to know any matter or thing because the partner or employee is a partner or an employee as such, it is presumed that every partner and employee of the partnership know or ought reasonably to know that matter or thing. (2) In this section, \"information\" refers to information which a partnership is deemed to possess and where a partner or an employee of the partnership in possession of that information is an insider. (3) A partner of a partnership does not contravene subsection (2) of section 89e by entering into the transaction or agreement referred to in that subsection at any time merely because one or more (but not all) partners, or an employee or employees of the partnership, were in actual possession of information at the time if— (a) the decision to enter into the transaction or agreement was taken on behalf of the partnership by any one or more of the following persons: (i) a partner who is taken to possess the information merely because another partner, or an employee of the partnership, was in possession of the information; or (ii) an employee of the partnership who was not in possession of the information; and (b) the partnership had in operation at that time agreements that could reasonably be expected to ensure that— (i) the information was not communicated to a partner or an employee or one of the partners or employees who was or were involved in, or made the decision with respect to the entering into the transaction or agreement in question; (ii) no advice with respect to the decision to enter into the transaction or agreement was given to that partner or employee by a partner or an employee in possession of the information; (iii) the partner or employee in possession of the information would not be involved in the decision to enter into, or be involved in, the transaction or agreement; and (c) the information was not communicated, no advice was given and the partner or employee in possession of the information was not involved in the decision to enter into, or be involved in, the transaction or agreement. (2) A partner of a partnership does not contravene subsection (2) of section 89E by entering into the transaction or agreement referred to in that subsection otherwise than on behalf of the partnership merely because the partner is taken to possess information that is in the possession of another partner or employee of the partnership. 89I. (1) Subsection (2) of section 89E shall not apply in respect of— (a) the entering into of an underwriting agreement or a sub-underwriting agreement; or (b) the acquisition of securities under an obligation to do so in an agreement referred to in paragraph (a). (2) Subsection (3) of section 89E shall not apply in respect of the communication of information in relation to securities to a person solely for the purpose of procuring the person— (a) to enter into an underwriting agreement or a sub-underwriting agreement in relation to any such securities; or (b) to acquire any such securities under an obligation to do so in an agreement referred to in paragraph (a). 89J. Section 89E shall not apply to an acquisition or disposal of securities or the communication of information that is carried out under any other written law relating to schemes of arrangement, reconstructions and take-overs relating to corporations. 89K. (1) A corporation does not contravene subsection (2) of section 89E by entering into a transaction or an agreement in relation to securities other than those of the corporation merely because the corporation is aware that it proposes to enter into or has previously entered into one or more transactions or agreements in relation to those securities. (2) Subject to subsection (3), a corporation does not contravene subsection (2) of section 89E by entering into a transaction or an agreement in relation to securities other than those of the corporation because an officer of the corporation is aware that it proposes to enter into, or has previously entered into, one or more transactions or agreements in relation to those securities. (3) Subsection (2) shall not apply unless the officer of the corporation became aware of the matter referred to in that subsection in the course of his duties. (4) Subject to subsection (5), a person does not contravene subsection (2) of section 89E by entering into a transaction or an agreement on behalf of a corporation in relation to securities other than those of the corporation merely because the person is aware that the corporation proposes to enter into, or has previously entered into, one or more transactions or agreements in relation to those securities. (5) Subsection (4) shall not apply unless the person became aware of the matters referred to in the course of his duties as an officer of the first-mentioned corporation or in the course of acting as an agent of the first-mentioned corporation. 89L. An individual does not contravene subsection (2) of section 89e by entering into a transaction or an agreement in relation to securities merely because he is aware that he proposes to enter into, or has previously entered into, one or more transactions or agreements in relation to those securities. 89M. (1) A dealer or a dealer's representative does not contravene subsection (2) of section 89E by entering into a transaction or an agreement as an agent for another person, being a transaction or an agreement entered into on the stock market of a stock exchange in securities which are quoted for trading on the stock market of that stock exchange if— (a) the transaction or agreement is entered into under a specific instruction by the other person which was not solicited by the dealer or the dealer's representatives; (b) the dealer or dealer's representative has not given any advice to the other person in relation to the transaction or agreement or otherwise sought to procure the other person's instructions to enter into the transaction or agreement; and (c) the other person is not associated with the dealer or the dealer's representative. (2) Nothing in this section shall affect the application of subsection (1) in relation to the principal. 89N. Subsection (2) of section 89E shall not apply in respect of the redemption by a trustee under a trust deed relating to a unit trust scheme in accordance with a buy-back covenant contained or deemed to be contained in the trust deed at a price that is required by the trust deed to be calculated, so far as is reasonably practicable, by reference to the underlying value of the assets, less any liabilities of the unit trust scheme to which the units of the unit trust scheme relates, and less any reasonable charge for purchasing the units of the unit trust scheme or interest. 89O. ( 1) A person does not contravene subsection (2) of section 89E if— (a) the securities that are the subject of the transaction or agreement or the action of procuring a transaction or an agreement are not securities which are permitted on the stock market of a stock exchange; (b) the Court is satisfied that the other party to the transaction or agreement knew, or ought reasonably to have known, of the information before entering into the transaction or agreement; and (c) that person acquires or disposes of such securities on such terms and in such circumstances that— (i) he does not obtain any gain or avoid any loss, including an unrealised gain or unrealised avoidance of loss in price or value, of the securities, as the case may be, for himself or any other person by reason of the effect that the information is likely to have when it becomes generally available; and ( i i) the purpose of the acquisition or disposal of the securities does not include any purpose of securing a gain or avoiding a loss, as the case may be, for himself or any other person by reason of the effect that the information is likely to have when it becomes generally available. (2) In a prosecution for an offence under subsection (3) of section 89E where the person communicated information or caused information to be communicated to another person, it shall be a defence— (a) if the Court is satisfied that the information came into the possession of the person so communicating the information solely as a result of it being made known in a manner likely to make it generally available pursuant to section 89A; and (b) if the Court is satisfied that the other party knew of, or ought reasonably to have known, the information before the information was communicated.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "89o the following subheading: \"DIVISION 3 Liability For Unlawful Activity\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 90 the following section: 90. (1) Where it appears to the Commission that any person has contravened section 84, 85, 86, 87, 87A, 88 or 89e, the Commission may institute civil proceedings in the Court against that person, whether or not that person has been charged with an offence in respect of the contravention, or whether or not a contravention has been proved in a prosecution. (2) A proceeding under subsection (1) or under section 88A or 90A may be begun at any time within twelve years from— (a) the date on which the cause of action accrued; or (b) the date on which the Commission or the plaintiff, as the case may be, discovered the contravention, whichever is the later.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "90 the following section: \" 90A. (1) A person who suffers loss or damages by reason of, or by relying on, the conduct of another person who has contravened section 89e may recover the amount of loss or damages by instituting civil proceedings against the other person, whether or not the other person has been charged with an offence in respect of the contravention or, whether or not a contravention has been proved in a prosecution. (2) In subsection (1), \"loss or damages\" includes an unrealised loss or gain, as the case may be, in the price or value of securities of a corporation being the difference between— (a) the price or value of securities in a transaction in connection with which the person first mentioned in subsection (1) claims to have suffered loss or damages; and (b) the price which would have been the likely price of the securities in the transaction, or the value which it is likely that such securities would have had at the time of that transaction, if the contravention had not occurred. (3) Where an insider acquired or agreed to acquire, or procured another person to acquire or agree to acquire, securities from a person (the \"seller\") who did not possess the information, in contravention of subsection (2) of section 89E, the seller may, by civil action against the insider or any other person involved in the contravention, recover, as a loss or damages suffered by the seller, the difference between— (a) the price at which the securities were acquired, or agreed to be acquired, by the insider or the other person, from the seller; and (b) the price at which the securities would have been likely to have been acquired at the time of the acquisition or agreement, as the case may be, referred to in paragraph (a) if the information had been generally available. (4) Where an insider disposed of or agreed to dispose of, or procured another person to dispose of or agree to dispose of, securities to a person (the \"buyer\") who did not possess the information, in contravention of subsection (2) of section 89E, the buyer may, by civil action against the insider or any other person involved in the contravention, recover, as a loss or damages suffered by the buyer, the difference between— (a) the price at which the securities were disposed of, or agreed to be disposed of, by the insider or the other person, to the buyer; and (b) the price at which they would have been likely to have been disposed of at the time of the disposal or agreement, as the case may be, referred to in paragraph (a) if the information had been generally available. (5) Where an insider acquired or agreed to acquire, or procured another person to acquire or agree to acquire, securities, in contravention of subsection (2) of section 89E, and such securities were permitted to be traded on a stock market of a stock exchange, then, whether or not the insider or any other person involved in the contravention has been charged with an offence in respect of the contravention or whether or not the contravention has been proved in a prosecution, the Commission may, if it considers that it is in the public interest to do so, by civil action against the insider or any other person involved in the contravention— (a) recover an amount equal to three times the amount being the difference between the price at which the securities were acquired, or agreed to be acquired, by the insider or the other person, and the price at which they would have been likely to have been acquired at the time of the acquisition or agreement, as the case may be, if the information had been generally available; and (b) claim civil penalty in such amount as the Court considers appropriate having regard to the seriousness of the contravention, being an amount not more than five hundred thousand ringgit. (6) Where an insider disposed of or agreed to dispose of, or procured another person to dispose of or agree to dispose of, securities, in contravention of subsection (2) of section 89E, and such securities were permitted to be traded on a stock market of a stock exchange, then, whether or not the insider or any other person involved in the contravention has been charged with an offence in respect of the contravention or whether or not the contravention has been proved in a prosecution, the Commission may, if it considers that it is in the public interest to do so, by civil action against the insider or any other person involved in the contravention— (a) recover an amount equal to three times the amount being the difference between the price at which the securities were disposed of, or agreed to be disposed of, by the insider or the other person, and the price at which they would have been likely to have been disposed of at the time of the disposal or agreement, as the case may be, if the information had been generally available; and (b) claim civil penalty in such amount as the Court considers appropriate having regard to the seriousness of the contravention, being an amount not more than five hundred thousand ringgit. (7) An amount recovered or obtained by the Commission in an action pursuant to subsection (5) or (6), respectively, shall be applied— (a) firstly, to reimburse the Commission for all costs of the investigation and proceedings in respect of the contravention or suspected contravention; and (b) secondly— (i) where it relates to subsection (5), to compensate the sellers who disposed of securities of the same class on the stock market of the stock exchange when information was not generally available between the time when the first contravention of subsection (2) of section 89E occurred and the time when information became generally available; and (ii) where it relates to subsection (6), to compensate the buyers who acquired securities of the same class on the stock market of the stock exchange when information was not generally available between the time when the first contravention of subsection (2) of section 89e occurred and the time when information became generally available. (8) If the Commission considers that it is not practicable to compensate the persons referred to in paragraph (b) of subsection (7), in view of the likely administration costs, the amount of any potential distribution to each person and the difficulty of ascertaining or notifying the persons whom it is appropriate to compensate, as the case may be, the Commission may decide not to distribute to the persons referred to in paragraph (b) of subsection (7). (9) To the extent that any of the amount recovered or obtained in a civil action under subsection (5) or (6) has not been distributed pursuant to subsection (7), it shall be paid to the compensation fund maintained under Part VIII or retained by the Commission to defray the costs of regulating market trading, as the Commission, with the approval of the Minister, may determine. (10) Any right of action that a person has by virtue of this section is in addition to any right that any other person has under any other written law.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "91."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 2 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_30__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_30__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 94A of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_30__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"or the Registrar\" wherever they appear; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_30__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (1)(b), by inserting after the word \"dealer,\", the words \"fund manager or investment adviser,\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_31__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_31__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_31__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 95 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_31__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the marginal note, by substituting for the word \"Registrar\" the word \"Commission\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_31__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, in subsections (1), (5), (6) and (8), by substituting for the word \"Pendaftar\" wherever it appears the word \"Suruhanjaya\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_31__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_31__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_31__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_31__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_31__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words \"Registrar\" and \"he\" wherever they appear the words \"Commission\" and \"it\", respectively; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_31__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_31__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsections (5), (6) and (8), by substituting for the word \"Registrar\" wherever it appears the word \"Commission\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_32__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_32__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 95A( 1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_32__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"or the Registrar\" wherever they appear; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_32__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \", as the case may be,\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 96(3) of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "deleting the words \"under section 94A, or the Registrar or another person in the exercise of any power\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_34__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_34__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 97 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_34__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, in subsections (1) and (3), by substituting for the word \"Pendaftar\" wherever it appears the word \"Suruhanjaya\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_34__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_34__para_b__subpara_ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text— ( i) in subsection (1), by substituting for the word \"Registrar\" wherever it appears the word \"Commission\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_34__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_34__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words \"Registrar\" and \"him\" the words \"Commission\" and \"the Commission\", respectively."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_35__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_35__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_35__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_35__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 98 of the principal Act is amended—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "98."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_35__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the marginal note, by substituting for the word \"Registrar\" the word \"Commission\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_35__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, by substituting for subsections (1), (2) and (3) the following subsections: \"(1) Suruhanjaya boleh menghendaki seseorang peniaga menzahirkan kepada Suruhanjaya, berhubungan dengan apa-apa pemerolehan atau pelupusan sekuriti, apa-apa maklumat termasuklah nama orang, yang daripadanya atau melaluinya atau bagi pihaknya, sekuriti itu diperoleh, atau yang kepadanya atau melaluinya atau bagi pihaknya, sekuriti itu dilupuskan, dan jenis arahan yang diberikan kepada peniaga itu berkenaan dengan pemerolehan atau pelupusan itu. (2) Suruhanjaya boleh menghendaki seseorang yang telah memperoleh atau melupuskan sekuriti menzahirkan kepada Suruhanjaya sama ada dia memperoleh atau melupuskan sekuriti itu, mengikut mana-mana yang berkenaan, sebagai pemegang amanah untuk, atau untuk atau bagi pihak, orang lain, dan jika dia memperoleh atau melupuskan sekuriti itu sebagai pemegang amanah untuk, atau untuk atau bagi pihak, orang lain, menzahirkan nama orang yang lagi satu itu dan jenis apa-apa arahan yang diberikan kepada orang yang pertama disebut itu berkenaan dengan pemerolehan atau pelupusan itu. (3) Suruhanjaya boleh menghendaki sesuatu bursa saham menzahirkan kepada Suruhanjaya, berhubungan dengan suatu pemerolehan atau pelupusan sekuriti di pasaran saham bursa saham itu, nama anggota bursa saham itu yang bertindak dalam pemerolehan atau pelupusan itu.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_35__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_35__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_35__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_35__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_35__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_35__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words \"The Commission or the Registrar may require a dealer to disclose to the Commission or the Registrar, as the case may be\" the words \"The Commission may require a dealer to disclose to the Commission\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_35__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_35__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words \"The Commission or the Registrar may require a person who has acquired or disposed of securities to disclose to the Commission or the Registrar, as the case may be\" the words \"The Commission may require a person who has acquired or disposed of securities to disclose to the Commission,\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_35__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_35__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words \"The Commission or the Registrar may require a stock exchange to disclose to the Commission or the Registrar, as the case may be\" the words \"The Commission may require a stock exchange to disclose to the Commission\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_35__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by deleting the words \"or the Registrar\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 99 the following section: 99. Where the Commission has reason to suspect that a person has committed an offence under this Act or has been guilty of fraud or of an offence under any other written law relating to dealing in securities, fund management or investment advice, the Commission may make such investigation as the Commission thinks expedient for the due administration of this Act.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "99 the following sections: 99A. ( 1) The Commission may require a person to disclose to the Commission, in relation to any dealing in securities, whether or not the dealing was carried out on another person's behalf— (a) the name of, and particulars sufficient to identify the person from whom, through whom or on whose behalf the securities were dealt with; (b) the nature of the instructions given to that person in relation to the dealing in securities; (c) the particulars of the dealing in securities, including— (i) particulars of the securities that were dealt with; and (ii) particulars of consideration given or received for the dealing in securities or any other transaction related to the dealing in securities; and (d) any other information in the possession of the person as the Commission may specify as it deems expedient for the due administration of this Act. (2) A person who refuses or fails to comply with a requirement of the Commission under subsection (1) commits an offence and is liable on conviction to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding ten years or to both. 99B. (1) Unless exempted by the Commission in writing, a person who— (a) on the date of coming into force of this provision, is the chief executive or director of a listed corporation, and is then interested in the securities of, the listed corporation or any associated corporation of the listed corporation; or (b) after the date of coming into force of this provision, becomes a chief executive or director of a listed corporation and at the time when he does so is interested in securities of the listed corporation or any associated corporation of the listed corporation, shall notify the Commission in writing— (aa) of the subsistence of his interests at that time; and (bb) the extent of his interests in the listed corporation or associated corporation of the listed corporation at that time. (2) A chief executive or director of a listed corporation shall notify the Commission in writing of the occurrence, while he is a chief executive or director of the listed corporation, of any of the following events: (a) any event in consequence of which he becomes, or ceases to be, interested in securities in the listed corporation or any associated corporation of the listed corporation; (b) the entering into by him of a contract to sell any securities in the listed corporation or any associated corporation of the listed corporation in which he has an interest; (c) the assignment by him to any other person of a right granted to him by the listed corporation to subscribe for securities in the listed corporation; (d) the grant to him by another corporation, being an associated corporation of the listed corporation, of a right to subscribe for securities in that associated corporation, the exercise of such a right granted to him and the assignment by him to any other person of such a right so granted; and (e) any event in consequence of which a corporation becomes an associated corporation of the listed corporation where immediately after the event he has an interest in the securities of the corporation. (3) Subsection (2) does not require the notification by a person of the occurrence of an event which comes to his knowledge after he had ceased to be a chief executive or director. (4) A person who— (a) fails to notify the Commission, as required under subsection (1) or (2); or (b) in the purported performance of a duty to which he is subject, makes to the Commission a statement which he knows to be false, commits an offence and is liable on conviction to a fine not exceeding one million ringgit or to imprisonment for a period not exceeding ten years or to both. (5) For the purpose of this section, \"chief executive\" and \"director\" include a spouse, child or parent of the chief executive or director. 99c. (1) A person— (a) to whom subsection (1) of section 130 of the Companies Act 1965 applies; and (b) who intends to apply for leave of the High Court to be a director or promoter of a listed company, or to be directly or indirectly concerned, or to take part, or engage, in the management of a listed company, shall give to the Commission not less than fourteen days' notice of his intention to apply, and the Commission shall be made a party to the proceedings. (2) On the hearing of any application referred to in subsection (1), the Commission may— (a) oppose the granting of an application; or (b) apply to the High Court to disallow the person to be a director or promoter of a listed company, or to be directly or indirectly concerned, or to take part, or engage, in the management of the listed company, for such longer period exceeding five years as the High Court thinks appropriate. (3) Notwithstanding subsection (1) of section 130 of the Companies Act 1965, where it appears to the Commission that by reason of any chief executive or director of a listed company— (a) having been convicted of an offence under a securities law; or (b) having had an action taken against him under section 11, 88A or 90 or subsection (5) or (6) of section 90A, or section 100, the chief executive or the director is unfit, to be directly or indirectly concerned, or to take part, engage, in the management of the listed company, the Commission may apply to the High Court to remove from office such chief executive or director of the listed company. (4) The Commission may require a chief executive or director concerned in an application under subsection (3) or the listed company in which the chief executive or director holds office— (a) to furnish the Commission with such information with respect to the affairs of the listed company; and (b) to produce and permit inspection of such books or documents of or relevant to the listed company, as the Commission may require for the purpose of determining whether or not to make an application under subsection (3); and if the chief executive or director concerned fails to comply with any requirement under this section, the High Court may, on the application of the Commission, make an order requiring the chief executive or director to comply with the requirement within such time as may be specified by the High Court. (5) Where on an application under subsection (3), the High Court is satisfied— (a) that a chief executive or director of the listed company— (i) has been convicted under a securities law; or (ii) has had an action taken against him under section 11, 88A or 90 or subsection (5) or (6) of section 90A or section 100; and (b) that his conduct as chief executive or director of the listed company renders him unfit to be directly or indirectly concerned, or to take part, or engage, in the management of the listed company, the High Court may make an order that the chief executive or director concerned be removed from office with effect from such date as may be set out in the order, notwithstanding anything in any other written law or any limitations contained in the memorandum and articles of association of the listed company, and, in particular, notwithstanding any limitation therein as to the minimum or maximum number of directors in that listed company. (6) A chief executive or director removed from office under subsection (5) shall cease to hold office from the date set out in the order, and shall not thereafter hold any other office in that listed company or in any manner, whether directly or indirectly, be concerned with, or take part, or engage, in any activity, affairs or business of or in relation to that listed company. 99D. (1) A listed corporation shall cause to be submitted to the Commission— (a) a copy of its audited annual accounts within two weeks from the date of its annual general meeting; and (b) its interim and periodic financial reports immediately after figures are available. (2) A listed corporation shall notify the Commission in writing— (a) of any change in the registered or business address of the listed corporation; (b) if the chief executive or any of the directors of the listed corporation ceases to hold office as a chief executive or director; and (c) of the names and particulars of any new chief executive or director of the listed corporation, within two weeks of the occurrence of such a change or event.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_38__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_38__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_38__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_38__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_38__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_38__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 100 of the principal Act is amended—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "100."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_38__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: \"(1) Where— (a) on the application of the Commission, it appears to the High Court that a person has committed an offence under this Act, any other written law relating to dealing in securities, fund management or investment advice, or has contra- vened the conditions or restrictions of a licence or the rules or listing requirements of a stock exchange or is about to do an act with respect to dealing in securities that, if done, would constitute such an offence or contravention, or has engaged in, is engaging in, or is proposing to engage in, any conduct that constitutes or would constitute a contravention of this Act, any other written law relating to dealing in securities, fund management or investment advice, whether or not that person has been charged with an offence in respect of the contravention, or whether or not a contravention has been proved in a prosecution; (b) on the application of a stock exchange, it appears to the High Court that a person has contravened the rules or listing requirements of the stock exchange; or (c) in a proceeding under section 88A, subsection (1) of section 90, or section 90A, it appears to the High Court that a person has contravened section 84, 85, 86, 87, 87A, 88 or 89e, whether or not the person has been charged with an offence in respect of the contravention, or whether or not a contravention has been proved in a prosecution, the High Court may, without prejudice to any order it would be entitled to make otherwise than pursuant to this section, make one or more of the following orders: (aa) in the case of persistent or continuing breaches of this Act, any other written law relating to dealing in securities, fund management or investment advice, of the conditions or restrictions of a licence, or of the rules or listing requirements of a stock exchange, an order restraining a person from carrying on a business of dealing in securities, acting as a fund manager or an investment adviser or as a dealer's representative, a fund manager's representative or as an investment representative, or from holding himself out as carrying on such business or acting as such manager, adviser or representative; (bb) an order restraining a person from acquiring, disposing of or otherwise dealing with any securities that are specified in the order; (cc) an order directing a person to dispose of any securities that are specified in the order; (dd) an order restraining the exercise of any voting or other rights attached to any securities that are specified in the order; (ee) an order restraining a person from making available, offering for subscription or purchase, or issuing an invitation to subscribe for or purchase, or alloting any securities that are specified in the order; (ff) an order appointing a receiver of the property of a dealer or a fund manager or of property that is held by a dealer or a fund manager for or on behalf of another person whether on trust or otherwise; (gg) an order vesting securities that are specified in the order in the Commission or a trustee appointed by the High Court; (hh) an order declaring the whole or any part of a contract relating to securities, including a contract for the acquisition or disposal of securities, to be void, and if the High Court thinks fit, to have been void ab initio or at all times on or after a specified date before the order is made; (ii) where a person has refused or failed, is refusing or failing, or is proposing to refuse or fail, to do any act or thing that he is required to do under this Act, an order requiring such person to do such act or thing; (jj) for the purpose of securing compliance with any other order under this section, an order directing a person to do or refrain from doing a specified act; and (kk) any ancillary order deemed to be desirable in consequence of the making of an order under any of the preceding provisions of this subsection.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_38__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2A), by substituting for the words u(fa)n the words \"(ii)\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_38__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2B) the following subsection: \"(2B) Where an application for an order under subsection (1) is made by the Commission or any person duly authorised by the Commission, the High Court shall not, as a condition of the grant of the order, require any undertaking as to damages to be given by or on behalf of the Commission.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_38__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by substituting for the words \"(e)n the words \"(ff)\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_38__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (4) the following subsections: \"(4A) The Commission or a trustee appointed by an order of the High Court under paragraph (gg) of subsection (1)— (a) may require any person to deliver to the Commission or trustee any securities specified in the order or to give to the Commission or trustee all information concerning the securities that may reasonably be required; (b) may acquire and take possession of the securities; (c) may deal with the securities in any manner as it deems fit; and (d) shall have such other powers in respect of the securities as may be specified by the High Court in the order. (4B) The proceeds of the dealing in or disposal of securities under paragraph (gg) of subsection (1) shall be paid into the High Court, and any person claiming to be beneficially entitled to the whole or any part of such proceeds may, within thirty days of such payment into the High Court, apply to the High Court for payment out of the proceeds to him.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_38__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_38__para_f__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_38__para_f__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_38__para_f__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_38__para_f__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_38__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by deleting the word \"or\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_38__para_f__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_38__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the comma the words \";or\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_38__para_f__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_38__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (b) the following paragraph: \"(c) a requirement Commission or appointed by order of the High Court under paragraph (gg) of subsection (1).\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 120 of the principal Act is amended in"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "subsection (1) by deleting the words \"stock broker, a\", ' \"stock broker\",' and \"stock broker,\","
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1__para_aa",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1__para_a__subpara_i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of \"exempt dealer\"—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1__para_aa",
+      "@type": "akn:paragraph",
+      "eli:number": "aa",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1__para_aa__subpara_bb",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (d) the following paragraph: \"(d) such other person or class of persons as the Minister may prescribe to be an exempt dealer or exempt dealers subject to such terms and conditions as the Minister may impose; or\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1__para_aa__subpara_bb",
+      "@type": "akn:subparagraph",
+      "eli:number": "bb",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1__para_aa__subpara_bb__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1__para_aa__subpara_bb__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1__para_aa__subpara_bb__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1__para_aa__subpara_bb__subpara_v",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1__para_aa__subpara_bb__subpara_vi",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1__para_aa__subpara_bb__subpara_vii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1__para_aa",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (e), by substituting for the words \"managing a portfolio of securities on behalf of other persons\" the words \"a fund manager\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1__para_aa__subpara_bb__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1__para_aa__subpara_bb",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of \"fund manager\" the following definition: ' \"fund manager\" means a person who under an agreement with any other person or persons, undertakes on behalf of that person or persons, whether on a discretionary authority granted by such person or persons or otherwise, the management of a portfolio of securities (other than any arrangement made for the purpose, or having the effect, of providing facilities for the participation of persons as beneficiaries under a trust in profits or income arising from the trading in futures contracts) for the purposes of investment;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1__para_aa__subpara_bb__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1__para_aa__subpara_bb",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of \"Registrar\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1__para_aa__subpara_bb__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1__para_aa__subpara_bb",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of \"securities\" the following definition: ' \"securities\" has the same meaning as is assigned to that expression in section 2 of the Securities Commission Act Act 498. 1993;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1__para_aa__subpara_bb__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1__para_aa__subpara_bb",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of \"stock broker\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1__para_aa__subpara_bb__subpara_vi",
+      "@type": "akn:subparagraph",
+      "eli:number": "vi",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1__para_aa__subpara_bb",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of \"stock market\", by inserting the word \"or\" at the end of paragraph (b); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1__para_aa__subpara_bb__subpara_vii",
+      "@type": "akn:subparagraph",
+      "eli:number": "vii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1__para_aa__subpara_bb",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of \"unit trust scheme\" the following definition: ' \"unit trust scheme\" has the same meaning as is assigned to that expression in section 2 of Act 498. the Securities Commission Act 1993.'; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), in subparagraphs (a)(1) and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_2__para_a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_3__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "(iii) by inserting after the word \"dealer\" the words \", fund manager\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 10 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 122 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for subsection (2) the following subsection: \" (2) Where a person who is an employee of another person contravenes any provision of this Act, the person for or on behalf of whom the employee is acting for or on behalf of shall be deemed to have contravened such provision.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 122B the following section: 122B. A person who— Commission, (a) with intent to deceive, makes or furnishes; or (b) knowingly authorises or permits the making or furnishing of, any false or misleading statement or report to the Commission, a stock exchange or a recognised clearing house relating to— (aa) dealings in securities; (bb) the affairs of a listed corporation; (cc) any matter or thing required by the Commission for the due administration of this Act; or (dd) the enforcement of the rules of a stock exchange or a recognised clearing house, commits an offence and is liable on conviction to a fine not exceeding three million ringgit or to imprisonment for a term not exceeding ten years or to both.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_42__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_42__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 126 of the principal Act is amended—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "126."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_42__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: \"(2) Any officer authorised in writing by the Public Prosecutor, may prosecute any case in respect of any offence committed under this Act.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_42__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: \"(3) For the purpose of subsection (2), \"officer\" has the same meaning as is assigned Act 498. to that expression in section 2 of the Securities Commission Act 1993.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_43__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_43__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_43__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "126s the following section: Commission 126c. (1) Notwithstanding the provisions of any may be written law— represented by any officer in"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_43__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in any civil proceedings by or against civil proceedings. the Commission; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_43__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in any other civil proceedings in which the Commission is required or permitted by the court to be represented, or to be heard, or is otherwise entitled to be represented or to be heard, any officer authorised by the Commission for the purpose, may, on behalf of the Commission, institute such proceedings or appear as an advocate therein and may make all appearances and applications and do all acts in respect of such proceedings on behalf of the Commission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_43__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of subsection (1), \"officer\" has the same meaning as is assigned to that Act 498. expression in section 2 of the Securities Commission Act 1993.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 127(2) of the principal Act is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (n), by inserting after the word \"purchaser\" the words \"or in relation to a sale of securities under paragraph (e) of subsection (4) of section 41\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the marginal note, by deleting the words \"or Registrar\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (2); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsections (4) and (5), by deleting the words \"or the Registrar\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 14(2) of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the words \"a stock broker or the holder of a dealer's licence\" the words \"a holder of a dealer's or fund manager's licence\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 15A(2) of the principal Act is amended in"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "paragraph (c) by substituting for the word \"declared\" the word \"prescribed\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 33 and subsection 34( 1) of the Act are amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"or the Registrar\" wherever they appear."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 35 of the principal Act and the marginal note"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "to that section are amended by deleting the words \"or the Registrar\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 39(6) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"investment representative\" the words \"(in this subsection referred to as \"that person\")\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/53/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (c) the following paragraph: \"(c) where that person is a natural person who carries on business in a corporation, is signed by a director, an executive officer or the secretary of the corporation; or\"."
+      }
+    }
+  ]
+}
